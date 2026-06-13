@@ -13,6 +13,7 @@ tags:
 - bar
 title: Marche
 type: poi
+score: 5.7
 ---
 
 A microbrewery and enormous bistro where everything is freshly prepared. The menu spans Indian, Italian, Japanese, Thai, Chinese, Indonesian, German, Swiss, and more -- it sounds like it should not work, but it does. Live music on some evenings. Highly recommended for a fun, casual night out.

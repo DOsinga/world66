@@ -1,15 +1,13 @@
 ---
 latitude: 40.4189
 longitude: -3.6921
+score: 8.1
 tags:
 - things_to_do
 - sight
 - architecture
-- retiro
-- retiro_barrio
 - huertas
-title: Palacio de Cibeles
-type: poi
+- retiro_barrio
 ---
 
 Madrid's town hall and one of the most visually arresting buildings in the city — a vast white wedding cake of carved limestone, finished in 1919 to a design by Antonio Palacios in a half-imagined "Spanish plateresque" style. It originally housed the central post office, until it was converted to municipal use in 2007 and renamed CentroCentro.

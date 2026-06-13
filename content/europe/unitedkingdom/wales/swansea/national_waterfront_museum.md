@@ -7,6 +7,7 @@ tags:
 latitude: 51.6164
 longitude: -3.9367
 neighbourhood: Maritime Quarter
+score: 8.5
 ---
 
 The National Waterfront Museum sits between the marina and the South Dock and tells the story of Welsh industry — coal, copper, tinplate, slate, transport — through fifteen themed galleries. It is part of the Amgueddfa Cymru / National Museum Wales network and admission is free.

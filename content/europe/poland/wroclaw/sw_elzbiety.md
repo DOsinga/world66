@@ -8,6 +8,7 @@ tags:
 latitude: 51.1106
 longitude: 17.0298
 address: "Św. Mikołaja 1, 50-128 Wrocław"
+score: 7.7
 ---
 
 A vast 14th-century Gothic brick church a block north-west of the Rynek, distinguished by its 91-metre west tower — for several decades the tallest church spire in Europe. The tower is climbable (300+ steps) and gives the best panoramic view over the old town, the Odra and the cathedral island.

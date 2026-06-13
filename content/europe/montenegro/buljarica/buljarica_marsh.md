@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 42.1820
 longitude: 18.9740
+score: 6.9
 ---
 
 The freshwater marsh behind Buljarica beach is one of the last surviving coastal wetlands in Montenegro. Frogs, reed warblers, and the occasional little bittern live in the reed beds. In spring and autumn migrating waders use it as a stopover. Several rare orchids appear in the meadow at the back of the marsh in April and May.

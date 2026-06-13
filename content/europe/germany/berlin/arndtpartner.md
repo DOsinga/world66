@@ -11,6 +11,7 @@ tags:
 - berlinmitte
 title: Arndt & Partner
 type: poi
+score: 6.3
 ---
 
 Arndt & Partner (now Arndt Art Agency) was one of the galleries that helped establish Auguststrasse as Berlin's contemporary art corridor in the 1990s. The gallery has represented international emerging and mid-career artists across painting, sculpture, and installation. Even if the roster does not draw you in, the Auguststrasse stretch between Oranienburger Strasse and Linienstrasse is worth a wander for the density of galleries alone.

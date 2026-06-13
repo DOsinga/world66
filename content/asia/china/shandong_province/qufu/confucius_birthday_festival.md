@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5965
 longitude: 116.9820
+score: 8.4
 ---
 
 The Confucius Birthday Festival, held around September 28 each year (traditionally his birthday), is the largest annual gathering in Qufu — drawing scholars, politicians, and pilgrims from China, Korea, Japan, Vietnam, and the broader Chinese cultural sphere for ceremonies that have been performed continuously for centuries. The opening ceremony at the Temple of Confucius at dawn on September 28 involves ancient music, dance, and ritual offerings in a format based on documented Han and Tang Dynasty ceremonies.

@@ -9,6 +9,7 @@ title: Centro León
 type: poi
 snippet: Dominican Republic's best cultural museum, with art, anthropology, and a cigar gallery
 story: The Centro León was built and endowed by the tobacco-and-rum León Jimenes family, owners of one of the country's largest cigar companies. The result is one of the most generously funded cultural institutions in the Caribbean — a private museum that openly celebrates the family business but also houses an excellent collection of Dominican art and anthropology.
+score: 8.9
 ---
 
 The Centro León is one of the best museums in the Caribbean and the single best reason to spend a day in Santiago. The complex, opened in 2003 by the León Jimenes tobacco family, includes a large permanent collection of 20th-century Dominican art (Jaime Colson, Dario Suro, and contemporary names you may not know but should), an anthropology gallery covering Taíno and African heritage, and an excellent gallery on the cigar industry — including a working tobacco factory you can watch through a glass wall.

@@ -8,6 +8,7 @@ latitude: 57.7186
 longitude: 10.5778
 sources:
   - https://en.wikipedia.org/wiki/Drachmanns_Hus
+score: 7.5
 ---
 
 Holger Drachmann was the most restless and theatrical of the Skagen artists — a poet, painter, and serial romantic who lived in Skagen on and off from the 1870s until his death in 1908. His house, Villa Pax, has been preserved as a museum and gives a vivid sense of his flamboyant personality. The rooms are full of books, paintings, and memorabilia from his various passions and love affairs.

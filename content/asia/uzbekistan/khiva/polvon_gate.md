@@ -14,6 +14,7 @@ story: >
   the open ground just outside the wall, and the gate's lateral chambers were
   used to detain newly arrived slaves before sale. Most were Persian Shia
   Muslims, considered fair game by the Sunni Khivans.
+score: 6.4
 ---
 
 The Polvon Gate is the most elaborate of Khiva's four gates, with two domed chambers flanking a central passage and a brick portal above. The 1806 construction is part of Allakuli Khan's wider rebuilding of the eastern walls, and the gate originally controlled all overland traffic from Urgench and Bukhara.

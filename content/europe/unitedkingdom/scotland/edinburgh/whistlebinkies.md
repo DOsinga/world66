@@ -12,6 +12,7 @@ tags:
 - bar
 title: Whistle Binkies
 type: poi
+score: 6.8
 ---
 
 A late-licence cellar bar just off the Royal Mile that puts on live music every night of the year — folk, blues, rock, whatever turns up. Open until 3am, free entry most nights, and a reliable last stop when everywhere else is closing.

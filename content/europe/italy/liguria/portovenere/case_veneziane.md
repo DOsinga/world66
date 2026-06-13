@@ -9,6 +9,7 @@ latitude: 44.0512
 longitude: 9.8348
 sources:
   - https://en.wikipedia.org/wiki/Portovenere
+score: 7.8
 ---
 
 The harbourfront of Portovenere is defined by a row of tall, narrow medieval tower-houses painted in stripes of ochre, terracotta, and faded red. These are the Case Veneziane — the Venetian Houses — though the name is a misnomer: they were built not by Venetians but by Genoese settlers in the 12th and 13th centuries, who stacked their homes five and six storeys high to maximise space on the tight promontory. The name stuck because their painted facades and compressed verticality reminded later visitors of the palaces along the Grand Canal.

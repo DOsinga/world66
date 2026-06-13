@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mount Washington Alpine Resort
 type: poi
+score: 8.1
 ---
 
 Twenty minutes by car from the valley floor, Mount Washington is the largest ski area on Vancouver Island and one of the snowiest in the world. The 1,657-metre summit catches the full force of Pacific storms, and the resort routinely measures snow depths of more than 10 metres at the base. Eight lifts service 80-plus runs, with a long top-to-bottom green run that makes it good for beginners despite the steep terrain higher up.

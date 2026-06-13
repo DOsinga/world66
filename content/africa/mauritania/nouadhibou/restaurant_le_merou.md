@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 4.8
 ---
 
 A long-standing favourite among expats and visiting fishing crews, named after the white grouper that is Nouadhibou's signature fish. The mérou comes grilled, fried, or in a tomato-and-pepper stew; the prawns are also very good.

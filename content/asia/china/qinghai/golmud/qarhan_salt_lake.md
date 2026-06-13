@@ -14,6 +14,7 @@ story: >
   potash plant on the lake produces roughly a quarter of China's potassium
   fertiliser, and the salt crust is solid enough that the G3011 expressway
   and the Qinghai–Tibet railway both run straight across it on causeways.
+score: 8.0
 ---
 
 A hundred kilometres east of Golmud the desert opens out onto an immense salt pan, white to the horizon. Qarhan is best seen by driving the G3011 toward Da Qaidam, where the road crosses thirty kilometres of unbroken salt. Pull over at any of the maintenance laybys to walk on it.

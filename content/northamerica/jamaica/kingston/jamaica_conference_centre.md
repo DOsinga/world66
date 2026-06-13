@@ -9,6 +9,7 @@ latitude: 17.9808
 longitude: -76.7857
 story: >
   Gordon House is named after George William Gordon, a mixed-race merchant and politician who was executed after the 1865 Morant Bay Rebellion — accused of incitement, tried under martial law, and hanged within days of arrest on the orders of Governor Eyre. Gordon had not been present at the rebellion. His execution caused outrage in Britain and eventually ended Eyre's career. Gordon was later declared a National Hero.
+score: 5.8
 ---
 
 Gordon House on Duke Street in Downtown Kingston is Jamaica's Parliament — the seat of the bicameral legislature consisting of the elected House of Representatives and the appointed Senate. The building, opened in 1960, was named after George William Gordon, one of Jamaica's National Heroes, executed in the aftermath of the Morant Bay Rebellion of 1865.

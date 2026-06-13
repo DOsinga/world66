@@ -10,6 +10,7 @@ tags:
 snippet: "The floating mussel-farming platforms that dot the Ría de Arousa — boat tours include a tasting on board"
 story: >
   Galicia produces around 95% of Spain's mussels and is the largest mussel producer in the European Union — about 250,000 tonnes a year. The bateas were introduced in the 1940s as a way to vastly increase production: each raft has 500 ropes hanging into the water, on which the mussels grow naturally from larvae floating in the ría. A single batea can produce 80 tonnes of mussels a year. The Ría de Arousa, the most productive estuary, has around 2,300 of them.
+score: 8.4
 ---
 
 The defining feature of the Ría de Arousa landscape is the **bateas** — wooden floating platforms used to grow mussels in industrial quantities. They appear in every direction from O Grove, sometimes in dense clusters, sometimes scattered across the water. Several small operators run **boat tours** from O Grove harbour: a 90-minute trip out to a working batea, a demonstration of how the mussels are harvested, and a tasting of freshly steamed mussels and Albariño wine on board.

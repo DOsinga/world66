@@ -15,6 +15,7 @@ story: >
   appears to slither down the steps and join the carved snake head at
   the base. It is one of the most precisely engineered astronomical
   illusions in the pre-Columbian world.
+score: 9.7
 ---
 
 A four-hour drive west of Cancun, Chichén Itzá is one of the New Seven Wonders of the World and the most-visited archaeological site in Mexico. The classic image is the **Pyramid of Kukulkán** ("El Castillo"), a 30-metre stepped pyramid with four 91-step staircases (plus the top platform makes 365, the days of the year). Around it sprawl a vast ball court, the Temple of the Warriors with its columns, the Observatory ("El Caracol"), and the sacred cenote where ceremonial offerings have been recovered by divers.

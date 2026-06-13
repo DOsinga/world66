@@ -10,6 +10,7 @@ longitude: 8.6422
 story: >
   The Valentin bunker was built between 1943 and 1945 by around 12,000 forced labourers and prisoners of war — most of them Soviet, Dutch, and French — under conditions of extreme brutality.
   An estimated 1,600 people died during construction. The bunker was never completed; it was bombed by the RAF in March 1945 and the roof remains cracked open from that attack.
+score: 8.4
 ---
 
 Bunker Valentin, on the Weser about 20 km north of Bremen, is one of the largest surviving Nazi-era military structures in Germany. It was built to shelter a submarine assembly line producing U-boats beyond the reach of Allied air raids. The building is colossal — 480 metres long, with walls and ceilings up to seven metres thick — and deeply unsettling in person.

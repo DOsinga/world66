@@ -7,6 +7,7 @@ tags:
 latitude: 51.5708
 longitude: 5.0797
 snippet: Working textile factory-museum with looms running daily
+score: 8.6
 ---
 
 The TextielMuseum on Goirkestraat occupies a former textile factory and still operates as one — Jacquard looms run daily, producing contemporary designs alongside the historical exhibits. The combination of industrial process and design history is genuinely engaging, even for people who did not come to Tilburg specifically for its textile past.

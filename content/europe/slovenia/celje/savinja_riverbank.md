@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2295
 longitude: 15.2530
+score: 6.1
 ---
 
 The Savinja River runs through Celje and the embankment on both sides of the river — particularly the stretch from the Old Bridge (Stari most) downstream toward the modern footbridges — is the city's most pleasant place for an evening walk. Cafés and bars line parts of the bank, and in summer the terraces fill with locals.

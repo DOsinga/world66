@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Piatnytska Church was the masterwork of Pyotr Miloneg, the greatest architect working in Rus in the late 12th century. It was his most ambitious experiment with vertical composition — the single-domed tower rising to a height disproportionate to its plan, an effect that influenced church construction in Russia for two centuries. The building was damaged in the Mongol sack of 1239, buried under rubble and then under subsequent construction, and not fully identified and excavated until Soviet archaeologists uncovered it in 1943.
+score: 8.4
 ---
 
 The Piatnytska Church (Church of Paraskeva Piatnytska) in the lower town of Chernihiv is one of the most important surviving buildings from the late Kyivan Rus period — a late 12th-century church remarkable for its bold vertical composition, single large dome, and the refined quality of its carved stone ornament. It was built to serve the commercial quarter below the citadel hill.

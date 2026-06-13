@@ -13,6 +13,7 @@ story: >
   two clans, and the stone was raised to commemorate the dead. The stone is
   dated to around 3000 BC, long predating any Gaelic settlement of the islands —
   the name came much later.
+score: 7.3
 ---
 
 Clach an Truseil is the tallest monolith in Scotland — a single standing stone of Lewisian gneiss rising 6 metres from the moorland near the village of Balantrushal on the northwest coast of Lewis. It dates from around 3000 BC. Unlike Callanish, which is a formal stone circle with good interpretation, Clach an Truseil stands alone in a field, with no fence around it and no signage beyond a small roadside marker.

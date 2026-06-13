@@ -7,6 +7,7 @@ tags:
 latitude: 43.3640
 longitude: -5.8443
 snippet: "The 'Boulevard de la Sidra' — Oviedo's most famous cider-pouring street"
+score: 7.8
 ---
 
 A short, lively street just east of the old town lined almost entirely with sidrerías, officially nicknamed the Boulevard de la Sidra. On warm evenings the terraces spill onto the pavement and the sound of cider splashing into glasses is constant. This is the best place in Oviedo to experience escanciar — the ritual high-pour — in a concentrated, festive atmosphere.

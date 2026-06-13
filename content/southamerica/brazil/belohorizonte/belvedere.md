@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Belvedere
 type: poi
+score: 5.2
 ---
 
 Belvedere is one of the wealthiest neighbourhoods in Belo Horizonte — a hilly area on the southern edge of the city, built up since the 1980s with high-end apartment buildings and gated estates. The name (Italian for "beautiful view") is literal: the long views back across the city to the centro are the neighbourhood's selling point.

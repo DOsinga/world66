@@ -5,6 +5,7 @@ tags: [bars_and_cafes, bar]
 latitude: 44.4796
 longitude: -73.2158
 snippet: Steampunk bar and music venue with nightly live performances and Southern-style food
+score: 7.6
 ---
 
 Radio Bean on North Winooski Avenue is one of those bars that defines a city's cultural temperature. The steampunk decor — exposed pipes, mismatched furniture, dim lighting — sets the tone for a place that takes both its music and its food seriously. Southern-style chicken and waffles are the kitchen signature; the bar pours local beers and creative cocktails. There is live music almost every night, ranging from jazz and folk to experimental and bluegrass.

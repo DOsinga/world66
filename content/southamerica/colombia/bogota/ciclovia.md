@@ -7,6 +7,7 @@ tags:
 latitude: 4.6270
 longitude: -74.0653
 snippet: "Sunday bike-and-walk event closing 120 km of city roads to traffic"
+score: 8.8
 ---
 
 Every Sunday and public holiday, Bogota closes over 120 km of its main roads to motor traffic from 7am to 2pm, creating a vast cycling and walking circuit across the city. The Ciclovía started in 1974 and now draws up to two million people on a good Sunday — it is one of the largest recurring public events in the world.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.1350
 longitude: 176.2581
+score: 6.5
 ---
 
 The Government Gardens occupy a promontory jutting into Lake Rotorua at the edge of the city centre — a formal park of croquet lawns, rose gardens, and ornamental beds, with the Tudor-style Rotorua Museum building at its heart and Lake Rotorua gleaming beyond. The contrast between the careful Victorian formality of the gardens and the steaming geothermal vents scattered across the grass is one of Rotorua's more surreal images.

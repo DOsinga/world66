@@ -5,6 +5,7 @@ author: "Hjalmar Söderberg"
 isbn: "978-1843430896"
 tags:
   - books
+score: 6.4
 ---
 
 Söderberg studied in Uppsala in the 1880s and the city seeps into all of his work, but *Doctor Glas* (1905) is the great Swedish novel of intellectual loneliness. Cast as the diary of a Stockholm doctor who contemplates murder to free a young woman from her detested husband, the book is short, cold, and shockingly modern — closer to Camus than to anything else in its century.

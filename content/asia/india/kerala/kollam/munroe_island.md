@@ -6,6 +6,7 @@ tags:
   - sight
 title: Munroe Island
 type: poi
+score: 8.6
 ---
 
 A cluster of eight small islands formed by the confluence of the Kallada River and Ashtamudi Lake, about 25 km north of Kollam. Named after Colonel James Munroe, a British Resident of Travancore in the early 19th century, the islands are criss-crossed by narrow canals lined with coconut palms, coir-making workshops, and small fishing settlements.

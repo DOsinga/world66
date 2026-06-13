@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, cafe]
 latitude: 54.8919
 longitude: 10.4123
+score: 5.2
 ---
 
 Café Aroma occupies one of the old timber-framed houses on Vestergade in Ærøskøbing and serves smørrebrød, light lunches, and cake all day. The interior is wood-panelled and low-ceilinged; the back terrace catches the afternoon sun.

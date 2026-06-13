@@ -8,6 +8,7 @@ latitude: 43.8600
 longitude: 125.3100
 story: >
   Yang Jingyu was the Communist guerrilla commander who led resistance against Japanese occupation in Manchuria through the 1930s. When he was finally killed by Japanese forces in 1940, the Japanese commander allegedly ordered an autopsy because they refused to believe one person had survived so long in the forest in winter — the examination found his stomach contained only tree bark, grass, and cotton from his clothing. There was nothing else left to eat.
+score: 6.9
 ---
 
 The Jingyu Martyrs Cemetery commemorates Yang Jingyu and the anti-Japanese resistance fighters who continued guerrilla operations in Manchuria through the 1930s and into the 1940s. Yang Jingyu is one of the most celebrated figures of the resistance — a Communist commander who operated in the forests of Jilin and Heilongjiang provinces under conditions of extreme deprivation.

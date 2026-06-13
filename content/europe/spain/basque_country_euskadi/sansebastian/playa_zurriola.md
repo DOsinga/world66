@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3250
 longitude: -1.9780
+score: 7.3
 ---
 
 Across the Urumea river from the old town, Playa de la Zurriola is where the surfers go. The beach faces more directly into the Atlantic swells than the sheltered La Concha, and its waves are consistent enough to have made it the home beach of some of Spain's best surfers. The Gros neighbourhood that backs it has a younger, more local feel than the centro; pintxo bars here are excellent and cheaper than in the Parte Vieja.

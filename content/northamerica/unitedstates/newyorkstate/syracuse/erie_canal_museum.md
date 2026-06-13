@@ -13,6 +13,7 @@ story: >
   gamed by dishonest canal operators. The building fell out of use when canal
   tolls were abolished in 1882, and it is the last surviving example of its type
   anywhere in the world.
+score: 8.1
 ---
 
 The Erie Canal Museum occupies the 1850 Weighlock Building, the only surviving canal boat weigh station in existence. The museum tells the story of the 363-mile canal that connected the Hudson River to Lake Erie when it opened in 1825, transforming New York City into the dominant port of the eastern seaboard and triggering one of the great migrations in American history as settlers poured west along the new waterway.

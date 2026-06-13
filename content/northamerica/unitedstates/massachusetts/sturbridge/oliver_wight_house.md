@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, history]
 latitude: 42.111389
 longitude: -72.089444
+score: 5.6
 ---
 
 The Oliver Wight House is a Federal-style building on Route 20 dating to 1789, making it one of the older surviving structures in the Sturbridge area. Oliver Wight was a local figure of some standing — the house reflects the prosperity that early New England merchants and professionals could achieve in a small but active community along the post road. The building's proportions and detailing are representative of the Federal style as it was practiced in rural New England: more restrained than urban examples, but carefully executed.

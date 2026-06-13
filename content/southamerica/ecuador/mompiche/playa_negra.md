@@ -6,6 +6,7 @@ tags:
 - sight
 title: Playa Negra
 type: poi
+score: 7.4
 ---
 
 Mompiche's main beach is a long curve of dark volcanic sand that runs south from the point break toward the village. The sand is genuinely black in places, strikingly so when wet, and the beach is wide enough at low tide to feel empty even when the village has visitors. The southern end near the village is where most people set up, but walk ten minutes north and you will likely be alone.

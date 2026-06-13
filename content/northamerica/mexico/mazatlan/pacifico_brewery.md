@@ -9,6 +9,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Historico
 snippet: "The brewery that has made Mazatlan's signature lager since 1900"
+score: 6.5
 ---
 
 The Pacifico brewery has been in the same building on Calle Melchor Ocampo since 1900. Three German immigrants founded it, and the recipe — a clean Pilsner-style lager — has not changed much since. Today Pacifico is owned by Grupo Modelo, but the original Mazatlan brewery still produces. The tall green bottle of Pacifico Clara is the local beer of Sinaloa, served everywhere and properly cold.

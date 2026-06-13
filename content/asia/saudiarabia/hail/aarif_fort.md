@@ -14,6 +14,7 @@ story: >
   the surrounding plains made Ha'il very difficult to take by surprise.
 sources:
   - https://www.visitsaudi.com/en/hail/attractions/historical-aarif-fort-in-hail
+score: 7.3
 ---
 
 A'arif Fort sits on a rocky hill at the edge of Ha'il's old town, its mud-brick walls rising against the mountains beyond. Built in 1840 during the rule of the Rashidi dynasty, the rectangular fort is a textbook example of Najdi defensive architecture: 40 metres long, 11 metres wide, with thick earthen walls and 30 watchtowers that once gave sentries a commanding view across the surrounding plains. Inside the walls are storage rooms, a prayer room, and the remains of living quarters.

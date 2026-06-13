@@ -8,6 +8,7 @@ tags:
 - holmekollen
 title: Holmenkollen Ski Museum
 type: poi
+score: 6.8
 ---
 
 The Holmenkollen Ski Museum at the base of the jump is the oldest ski museum in the world, opened in 1923. Its collection covers around 4,000 years of skiing — from primitive wooden planks used by hunters in the Stone Age through to modern Olympic equipment.

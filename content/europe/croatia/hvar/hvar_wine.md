@@ -13,6 +13,7 @@ story: >
   Mali and Crljenak Kaštelanski (the Croatian ancestor of Zinfandel) are closely related.
   Hvar's Plavac Mali — grown on steep south-facing slopes on the island's south coast —
   is considered the finest expression of the grape.
+score: 6.8
 ---
 
 Hvar produces some of the best red wine in Croatia. The star grape is Plavac Mali, a full-bodied red with high tannins and a characteristic note of dark cherry and figs, grown on the steep terraced slopes of the Sveta Nedjelja and Ivan Dolac areas on the island's southern coast. The south-facing exposure and the retained heat from the limestone soil give Hvar's Plavac a concentration and intensity that the same grape can't achieve on the mainland.

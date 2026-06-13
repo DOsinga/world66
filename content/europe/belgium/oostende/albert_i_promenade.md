@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 6.5
 ---
 
 The King Albert I Promenade runs along the top of the sea dike for the full length of the Ostend seafront, traffic-free and lined with tearooms, restaurants, and benches facing the North Sea. It was named for the Belgian king who led his army during World War I and died on a climbing expedition in 1934 — a popular figure and a useful contrast to his father Leopold II, whose reputation is considerably darker.

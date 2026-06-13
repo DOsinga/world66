@@ -10,6 +10,7 @@ address: "16 rue de Buade, Québec City, QC G1R 4A1"
 snippet: Primatial cathedral of Canada, rebuilt five times, with a remarkable crypt
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Basilica_of_Notre-Dame_de_Qu%C3%A9bec
+score: 8.2
 ---
 
 The mother church of Catholicism in Canada, occupying the same site since 1647 — though the current building dates from a 1925 restoration after fire damage, in turn modelled on a 19th-century version that was itself a reconstruction of earlier structures. Despite this layered history of destruction and rebuilding, the interior is genuinely impressive: a triple nave of grey stone with paintings and furnishings accumulated over three centuries.

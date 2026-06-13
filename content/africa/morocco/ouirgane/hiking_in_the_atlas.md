@@ -14,6 +14,7 @@ story: >
   reddish stone as the mountains themselves could be from any era. The Tizi Oussem pass at
   1,900 metres, reachable in a full day's walk from the valley, is the classic viewpoint over
   the Toubkal massif.
+score: 8.4
 ---
 
 Ouirgane is one of the best bases in the High Atlas for day walks that do not require a guide or serious mountaineering experience. The valley opens onto a network of paths leading to Berber villages, walnut groves, and progressively higher ground with views back across the reservoir.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Martinikerk, a late-Gothic cruciform church with a separate brick tower, has stood at the centre of Franeker since the fifteenth century. Inside, the whitewashed walls are lined with about sixty inscribed gravestones of professors, students, and patrons of the university, making it an unusual roll-call of Dutch academic history.

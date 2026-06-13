@@ -6,6 +6,7 @@ longitude: -86.2783
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 At 3,900 acres, one of the largest municipal parks in the United States. The park surrounds a 1,400-acre reservoir on the northwest side of Indianapolis and offers swimming beaches, a rowing course (used for several US Olympic trials), kayak and paddleboard rentals, a nature centre, and miles of wooded trails.

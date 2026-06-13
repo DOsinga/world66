@@ -12,6 +12,7 @@ tags:
 title: Museo Sorolla
 type: poi
 url: museosorolla.mcu.es
+score: 9.0
 ---
 
 Joaquín Sorolla may be less well known outside Spain than Picasso or Dalí, but among Spanish painters he commands fierce loyalty. His large canvases capture Mediterranean light with an intensity that photographs cannot reproduce -- brilliant whites, sun on wet sand, children playing in the surf.

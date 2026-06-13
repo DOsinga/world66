@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.5105
 longitude: 5.0540
+score: 7.8
 ---
 
 The Speeltoren is a leaning bell tower from 1509, detached from the church it once served — the original Sint Nicolaaskerk was torn down after a fire and the congregation moved to the current Grote Kerk, leaving this tower standing alone near the Kwakelbrug. It tilts about two degrees off vertical, enough to be noticeable but not alarming.

@@ -9,6 +9,7 @@ latitude: 37.8100
 longitude: 120.8200
 story: >
   Changyu was founded in 1892 by Zhang Bishi, a Guangdong entrepreneur who brought European winemakers to teach Chinese workers, and is the oldest continuously operating winery in China. Zhang imported vine cuttings from France and Italy and built production facilities that produced the first Chinese wine aged in oak barrels. The winery's buildings include a European-style château that is architecturally startling in the Shandong coastal landscape.
+score: 5.8
 ---
 
 The Changyu International Wine City near Penglai is the flagship development of China's oldest winery, including vineyards, production facilities, a wine-themed hotel, restaurants, and a wine museum housed in a mock-European château. The complex is unabashedly touristic but the underlying wine production is genuine: Changyu is a serious winery that produces bottles competitive with mid-range European examples.

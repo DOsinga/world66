@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.8
 ---
 
 Dachau's old town climbs a ridge above the Amper river, with Konrad-Adenauer-Strasse as its main artery — lined with pastel-painted townhouses, small shops, and a couple of good Bavarian restaurants. The whole area is compact enough to cover on foot in an hour.

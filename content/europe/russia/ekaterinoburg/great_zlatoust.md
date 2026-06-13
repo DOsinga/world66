@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_centre
+score: 6.4
 ---
 
 A 77-metre red-brick bell tower in the centre of the city, rebuilt in 2013 after the original was demolished by the Soviets in 1930. The current structure is a near-exact reproduction, with the heaviest bell in the Urals — over 16 tonnes — installed in the upper tier.

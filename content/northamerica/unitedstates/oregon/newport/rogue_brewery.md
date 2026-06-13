@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 44.6202
 longitude: -124.0524
+score: 5.8
 ---
 
 Rogue Ales has been Newport's signature brewery since the late 1980s and is one of Oregon's better-known craft producers. The brewery's South Beach facility includes a public house and tasting room on the bay, with the brewing tanks and bottling line visible from the bar.

@@ -15,6 +15,7 @@ story: >
   the snowmelt adds to the stream flow and the falls run at full power.
 sources:
   - https://en.wikipedia.org/wiki/Boka_(waterfall)
+score: 7.8
 ---
 
 The Boka Waterfall is the highest waterfall in Slovenia, dropping 144 metres in a single vertical plunge into a deep gorge just south of Bovec. A short walk from the main Bovec-to-Trenta road leads to the viewpoint at the base of the falls. The spray and noise are formidable when the falls are running well; on a clear day a rainbow forms in the mist.

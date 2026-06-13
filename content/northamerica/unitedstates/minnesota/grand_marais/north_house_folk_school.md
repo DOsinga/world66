@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A non-profit traditional-crafts school on the harbour, running short courses in boatbuilding, weaving and Nordic baking.
+score: 8.9
 ---
 
 North House Folk School is a non-profit traditional crafts school occupying a cluster of buildings on the western edge of the Grand Marais harbour. Founded in 1997, it draws on the strong Scandinavian (mainly Norwegian) heritage of the North Shore and runs more than 350 short courses a year — wood-canvas canoe building, Sami knife-making, sourdough baking, willow basketry, blacksmithing, Norwegian sweater knitting, lutefisk preparation, and dozens more.

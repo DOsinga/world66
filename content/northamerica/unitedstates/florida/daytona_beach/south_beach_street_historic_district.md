@@ -10,6 +10,7 @@ tags:
 - neighbourhood
 title: South Beach Street Historic District
 type: poi
+score: 7.6
 ---
 
 The few blocks of South Beach Street between Orange Avenue and Magnolia are the most attractive surviving corner of pre-tourist Daytona. The district holds about thirty late-nineteenth- and early-twentieth-century buildings — small commercial blocks, the 1910 Merchants Bank (now the Halifax Historical Museum), a few wood-frame houses — strung along the west bank of the Halifax River.

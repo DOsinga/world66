@@ -12,6 +12,7 @@ story: >
   marking and re-marking the contact surfaces until the fit was exact. The twelve-angled stone,
   fitting perfectly against a dozen neighbouring blocks of different shapes, is the most
   famous demonstration of this technique in the world.
+score: 7.2
 ---
 
 Embedded in the wall of the Archbishop's Palace on Calle Hatunrumiyoc, a few blocks from the Plaza de Armas, the twelve-angled stone is one of the most photographed objects in Cusco. It's a single block of dark green andesite fitted precisely against twelve adjoining stones, each at a different angle, with joins so tight that no mortar was needed and a knife blade cannot be inserted between them.

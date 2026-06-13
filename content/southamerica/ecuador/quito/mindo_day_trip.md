@@ -14,6 +14,7 @@ story: >
   toucans, hummingbirds of extraordinary variety, and the resplendent
   quetzal can all be seen within a day's walk of the village if you
   have a guide and know where to look.
+score: 8.6
 ---
 
 Mindo, about 80 km northwest of Quito in the cloud forest on the western slope of the Andes, is one of Ecuador's premier birdwatching and ecotourism destinations. The village sits at 1,250 metres in a lush valley surrounded by forests that are among the most biologically rich on the planet — in terms of bird species per unit area, this is one of the most concentrated spots on Earth.

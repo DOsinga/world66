@@ -11,6 +11,7 @@ tags:
 - sight
 title: Ryōan-ji
 type: poi
+score: 8.5
 ---
 
 Ryōan-ji holds the most famous *karesansui* — dry landscape garden — in Japan and arguably in the world. A rectangular bed of carefully raked white gravel, about the size of a tennis court, holds fifteen mossy rocks in five groups. There are no plants and no water. The garden's date and authorship are uncertain (most likely late fifteenth century), and its meaning has been debated for as long as it has existed.

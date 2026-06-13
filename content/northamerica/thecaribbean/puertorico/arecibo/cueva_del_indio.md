@@ -8,6 +8,7 @@ latitude: 18.5033
 longitude: -66.7036
 story: >
   The Taíno petroglyphs carved into the cave walls date from before European contact — the Taíno people lived across the Caribbean and northern South America for centuries before Spanish arrival in the 1490s. The Arecibo area had significant Taíno settlements, and these carvings were likely made by local communities between 600 and 1500 CE. Many depict zoomorphic figures and geometric patterns whose full meaning is not well understood.
+score: 8.8
 ---
 
 Cueva del Indio is a sea cave on the Atlantic coast about 15 kilometres east of Arecibo, its walls carved with pre-Columbian Taíno petroglyphs that are among the best-preserved indigenous rock art in Puerto Rico. The cave opens directly onto the ocean at low tide, and the combination of crashing waves, dramatic karst rock formations, and ancient carvings makes it one of the most atmospheric sites on the island's north coast.

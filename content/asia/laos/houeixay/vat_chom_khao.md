@@ -7,6 +7,7 @@ tags:
 latitude: 20.2630
 longitude: 100.4340
 snippet: Hilltop temple above town with fine views over the Mekong to Thailand
+score: 7.1
 ---
 
 Vat Chom Khao Manilat sits on a small hill at the top of a long flight of steps above Huay Xai town. It is an active Buddhist temple — monks in residence, daily prayers — with a sim (ordination hall) decorated with murals depicting the life of the Buddha. The views from the terrace over the Mekong and across to Chiang Khong on the Thai bank are excellent, particularly at sunset.

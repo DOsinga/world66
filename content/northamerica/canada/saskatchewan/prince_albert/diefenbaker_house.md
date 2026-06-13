@@ -12,6 +12,7 @@ sources:
   - https://www.pc.gc.ca/en/lhn-nhs/sk/diefenbaker
 story: >
   John Diefenbaker served as Prime Minister of Canada from 1957 to 1963 — the first PM from the Prairies, and the one who pushed through Canada's first statutory Bill of Rights in 1960. He fought his entire political career from Prince Albert, which he represented in Parliament for 39 years. When asked why a man of his ambitions stayed loyal to a small Saskatchewan city, he said simply that it was the place that had believed in him first.
+score: 6.4
 ---
 
 The house at 246 19th Street West where John Diefenbaker lived as a young man and where his political career took root is now a National Historic Site. It is a modest early-twentieth-century Prairie home, furnished to reflect the period of his residence, with exhibits on his path from small-town lawyer to Canadian prime minister.

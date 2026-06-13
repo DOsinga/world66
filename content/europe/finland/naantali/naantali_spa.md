@@ -6,6 +6,7 @@ tags:
 latitude: 60.4700
 longitude: 22.0100
 snippet: A spa hotel carrying on a bathing tradition that goes back to the 1800s.
+score: 5.9
 ---
 
 Naantali has been a spa town since 1863, when the first bathing establishment opened and visitors began arriving from Turku and Helsinki for the season. The current Naantali Spa hotel continues that tradition on a grand scale, with pools, treatments, and a waterpark attached. It is one of the larger spa resorts in Finland and stays busy year-round.

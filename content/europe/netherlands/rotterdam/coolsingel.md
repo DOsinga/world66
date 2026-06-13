@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 51.9215
 longitude: 4.4807
 snippet: "Rotterdam's main boulevard, lined with City Hall, the Beurs and the Bijenkorf"
+score: 7.1
 ---
 
 The Coolsingel is Rotterdam's main north–south boulevard, broad and busy, and the only stretch of the centre to give a real sense of pre-war Rotterdam — the City Hall (Stadhuis), the Beurs (old commercial exchange), and the Witte Huis at the southern end all survived 14 May 1940 more or less intact, mostly because they sat at the very edge of the bombed area.

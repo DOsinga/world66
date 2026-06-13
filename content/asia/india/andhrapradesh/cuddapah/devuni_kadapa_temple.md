@@ -9,6 +9,7 @@ tags:
   - religious_site
   - temple
 story: "The name Kadapa comes from the Telugu word 'gadapa' — threshold. This temple is the original 'gadapa' (gate) to the great pilgrimage of Tirupati: pilgrims would traditionally stop here first before continuing to the Venkateswara Temple at Tirumala, 100 kilometres south."
+score: 7.1
 ---
 
 The Sri Lakshmi Venkateshwara Temple at Devuni Kadapa is the oldest temple in the city and the reason it carries the name it does. The shrine is small by south Indian standards — no soaring gopuram, no festival halls — but historically important: pilgrims on the road to the great Venkateshwara temple at Tirumala traditionally paid their respects here first, treating it as the symbolic threshold of the pilgrimage.

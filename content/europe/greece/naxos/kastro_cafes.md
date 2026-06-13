@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 37.1055
 longitude: 25.3750
+score: 6.5
 ---
 
 A handful of cafés operate inside and just outside the Kastro walls, using the height of the hilltop neighbourhood to deliver views that the waterfront places below can't match. From the right table in the Kastro you see the rooftops of Bourgos dropping away below, the port with its ferries and small boats, the Portara on its peninsula, and the open sea beyond — the whole composition that makes Hora such a satisfying piece of urban geography. The views from the Archaeological Museum's immediate neighbourhood are especially good.

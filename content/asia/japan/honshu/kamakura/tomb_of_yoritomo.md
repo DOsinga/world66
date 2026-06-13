@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3262
 longitude: 139.5611
+score: 6.1
 ---
 
 A small, understated monument in a grove of trees a short walk north of Tsurugaoka Hachimangu — the grave of the man who founded Japan's first military government and defined the political structure of the country for nearly 700 years. Yoritomo died in 1199, probably from a fall from a horse, and is buried here behind a simple stone pagoda. The contrast between the modesty of the grave and the scale of his historical impact is striking.

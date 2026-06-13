@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 50.223889
 longitude: 12.903333
+score: 7.3
 ---
 
 A lookout tower in the spa woods above the town, named for Johann Wolfgang von Goethe who visited Karlovy Vary 13 times between 1785 and 1823. The writer was devoted to the spa town, but his last visit at the age of 74 became famous for a different reason: he fell seriously in love with Ulrika von Levetzow, a 19-year-old woman he had met there, and wrote his Marienbad Elegy largely about the experience when she declined his proposal of marriage.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Cycling the Angkor Circuit
 type: poi
+score: 8.8
 ---
 
 **Cycling Angkor** is one of the best ways to experience the temple complex for visitors who are reasonably fit and comfortable on two wheels. The "small circuit" — about 17 kilometres covering Angkor Wat, Angkor Thom (including the Bayon, Baphuon, and the Terraces), Ta Prohm, and Banteay Kdei — is manageable in a day and gives a completely different experience from tuk-tuk touring: you can stop whenever something interests you, take side roads into the forest between temples, and spend time at smaller sites that tuk-tuk circuits often skip.

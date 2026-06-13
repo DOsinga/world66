@@ -14,6 +14,7 @@ tags:
 - museum
 title: Heraklion Archaeological Museum
 type: poi
+score: 9.6
 ---
 
 The finest collection of Minoan art and artifacts in the world. This is the single best reason to spend a day in Iraklion. The museum holds almost everything excavated from Knossos and the major Minoan sites across Crete: the famous bull-leaping fresco, the Snake Goddess figurines, the Phaistos Disc, and thousands of seal stones, Linear A tablets, and clay vessels that document 2,000 years of Minoan civilisation.

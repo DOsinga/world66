@@ -7,6 +7,7 @@ tags:
 latitude: 42.5150
 longitude: -8.8141
 snippet: August wine festival drawing 40,000 visitors to the Praza de Fefiñáns for tastings from across the Rías Baixas denomination
+score: 8.1
 ---
 
 The Festa do Viño Albariño, held in the first week of August every year, is the biggest event in Cambados and one of the most enjoyable wine festivals in Spain. The Praza de Fefiñáns — already one of Galicia's most handsome squares — is transformed for the week into an open-air tasting hall, with producers from across the Rías Baixas denomination setting up stands under the arcades and in the square itself. Around 40,000 people attend across the week, a remarkable number for a town of Cambados' size.

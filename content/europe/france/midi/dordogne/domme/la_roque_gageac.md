@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.8272
 longitude: 1.1833
+score: 7.6
 ---
 
 La Roque-Gageac is one of the most photographed villages in France, and from Domme's Belvédère you can see exactly why: the village is pressed against a south-facing cliff that drops straight into the Dordogne, and the rock above reflects heat so effectively that banana trees and other subtropical plants grow in the gardens. The main street runs along the river, the cliffs overhang it, and the whole arrangement has an improbable beauty.

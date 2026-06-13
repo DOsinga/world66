@@ -15,6 +15,7 @@ story: >
   Nevada desert, many of whom ended up in Rachel at the inn. The owners, who had seen
   Area 51 tourism come and go for decades, greeted the invasion with good humour and sold
   a lot of alien-themed merchandise.
+score: 7.2
 ---
 
 The Little A'Le'Inn is Rachel's only business of any size — a bar, diner, and motel that has been serving UFO enthusiasts, curious travellers, and the occasional long-haul trucker since the late 1980s. The interior is dense with alien memorabilia: photographs of strange lights in the sky, newspaper clippings about Area 51, model saucers, and the accumulated debris of decades of people who came here looking for something they could not quite name. It is kitschy, self-aware, and genuinely charming.

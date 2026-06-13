@@ -9,6 +9,7 @@ tags:
 - nature
 snippet: Some of the healthiest reef in the western Caribbean
 story: The Cayos Cochinos protected area covers 489 square kilometres, and the no-take zones around the smaller cays have allowed coral cover to recover to levels rarely seen elsewhere in the Caribbean — close to 40 percent in places, against a regional average of around 20.
+score: 8.8
 ---
 
 The reef around the Cayos Cochinos is in conspicuously better shape than the reefs around Roatán or Utila. Strict no-take zones, low visitor numbers, and active research have kept coral cover high, fish stocks healthy, and bleaching events comparatively rare. Visibility is generally good year-round but best between March and September.

@@ -13,6 +13,7 @@ story: >
   Japanese bombing raids on Port Moresby reduced much of the downtown area to
   rubble, but the church community rebuilt and the cathedral eventually became
   one of the anchoring landmarks of the old town.
+score: 5.8
 ---
 
 St Mary's Cathedral is the seat of the Archdiocese of Port Moresby, located in the older downtown precinct near the waterfront. The building is a solid mid-century structure that looks onto a small plaza. It is open to visitors outside of service times and is a calm retreat from the noise of the city.

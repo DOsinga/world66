@@ -9,6 +9,7 @@ title: Tsminda Sameba Cathedral
 type: poi
 story: >
   The Tsminda Sameba Cathedral (Holy Trinity Cathedral) was built between 1995 and 2004 and immediately became both a symbol of Georgia's post-Soviet religious revival and a subject of controversy. During construction, an old Armenian church and a historic neighbourhood of Armenian homes were demolished to make way for it. The Catholicos-Patriarch Ilia II championed the project; critics argued that the money and symbolism would have been better spent elsewhere. It remains a charged subject.
+score: 7.2
 ---
 
 Tsminda Sameba Cathedral is the largest Orthodox church in the Caucasus and the spiritual symbol of post-independence Georgia. Completed in 2004 after nearly a decade of construction, it rises on the Elia Hill east of the old town, its golden dome visible from across the city.

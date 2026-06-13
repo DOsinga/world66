@@ -7,6 +7,7 @@ tags:
 latitude: 21.0553
 longitude: 105.8197
 snippet: "Hanoi's most popular active temple, on a peninsula in West Lake"
+score: 7.5
 ---
 
 Phu Tay Ho occupies a peninsula jutting into the northern section of West Lake, in the Nghi Tam village area of the Tay Ho district. The temple is dedicated to Princess Lieu Hanh, one of the Four Immortals of Vietnamese folk religion — a goddess of wealth, prosperity, and feminine power who is also venerated as one of the "Four Palaces" spirits central to the len dong spirit possession tradition. It is the most actively visited temple in Hanoi by ordinary Vietnamese worshippers, which tells you something important: this is not a tourist attraction first and a religious site second.

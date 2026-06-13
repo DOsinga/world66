@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Place Dumas
 type: poi
+score: 5.8
 ---
 
 The town's central square commemorates the Dumas family — the generals and writers descended from a marriage between a French nobleman and a Saint-Domingue slave-woman that produced one of Napoleon's best generals and, a generation later, one of the most-read novelists in history.

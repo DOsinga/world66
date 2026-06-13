@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.1000
 longitude: -8.7667
+score: 8.1
 ---
 
 The Diécké Forest Reserve, about 70 km south of Nzerekore toward the Liberian border, is one of the largest surviving areas of primary forest in Guinea. The reserve protects a significant tract of the Upper Guinea forest ecosystem — one of the world's biodiversity hotspots — and is home to chimpanzees, forest elephants, colobus monkeys, and an array of forest birds rarely seen in other accessible parts of West Africa.

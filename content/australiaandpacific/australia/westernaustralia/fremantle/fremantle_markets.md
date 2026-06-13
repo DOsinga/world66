@@ -16,6 +16,7 @@ story: >
   founder Peter Murphy not only saved the building but also crystallised
   the campaign that turned Fremantle into the heritage-conscious city it is
   today.
+score: 8.1
 ---
 
 The Fremantle Markets, on the corner of South Terrace and Henderson Street, are the social heart of the city at weekends. The Victorian market hall opens Friday to Sunday, with around 150 stalls of produce, baked goods, local cheese, hot food, crafts, vintage clothing, and the rest.

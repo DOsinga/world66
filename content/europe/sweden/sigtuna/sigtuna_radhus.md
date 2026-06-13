@@ -9,6 +9,7 @@ latitude: 59.6165
 longitude: 17.7236
 story: >
   The Sigtuna Rådhus is often described as the smallest town hall in Scandinavia, built in the 1730s for a town whose ambitions vastly exceeded its actual size. Sigtuna had been Sweden's capital in the early medieval period, but by the 18th century it had been thoroughly eclipsed by Stockholm and Uppsala. The tiny building is a monument to civic pride in the face of irrelevance.
+score: 6.8
 ---
 
 The Sigtuna Rådhus stands on the main square and is a delightful miniature of civic ambition — a tiny 18th-century building with a modest clock tower and classical facade, reportedly the smallest town hall in Scandinavia. It was built in the 1730s when Sigtuna was already a minor backwater, which gives it a certain poignancy.

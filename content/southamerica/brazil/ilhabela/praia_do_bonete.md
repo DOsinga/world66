@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.9180815
 longitude: -45.3442228
+score: 8.8
 ---
 
 Praia do Bonete is one of the most remote and least spoiled beaches on the São Paulo coast, and its reputation is commensurate with the effort required to reach it. The Guardian listed it among the ten most beautiful beaches in Brazil, and while that kind of superlative is easy to dismiss, the beach earns it: more than 600 metres of white sand backed by Atlantic Forest and Chapéu-de-Sol palms, facing open ocean with no development beyond the small caiçara community that has lived here for generations.

@@ -13,6 +13,7 @@ story: >
   irrigation improvements from the Satraps (2nd century AD), and a proclamation
   by the Gupta king Skandagupta (5th century AD). No other single rock in India
   carries such a layered historical record.
+score: 8.3
 ---
 
 On the road from Junagadh to Mount Girnar stands a large granite boulder covered in inscriptions from three different periods of Indian history. The oldest are the Fourteen Rock Edicts of the Mauryan emperor Ashoka, carved around 250 BC in the Brahmi script, recording Ashoka's conversion to Buddhism and his moral injunctions regarding non-violence, religious tolerance, and care for animals and humans. They are among the oldest surviving texts in India.

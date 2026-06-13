@@ -12,6 +12,7 @@ story: >
   to silent films and grand opera. It survived the 1989 Newcastle earthquake — which killed 13 people
   and damaged hundreds of buildings in the city centre — largely intact, though the surrounding
   streets were significantly changed by the damage.
+score: 6.8
 ---
 
 The Victoria Theatre on Hunter Street is the oldest remaining theatre in New South Wales, a Victorian-era building that has been in continuous use since 1891. The ornate facade, with its terracotta details and arched windows, is one of the more striking examples of late colonial commercial architecture in the city. The interior retains its original balcony and stage configuration, though the fit-out has been updated many times.

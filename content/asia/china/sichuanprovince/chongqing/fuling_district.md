@@ -8,6 +8,7 @@ latitude: 29.7052
 longitude: 107.3927
 story: >
   Fuling's hot pickled mustard tuber (涪陵榨菜, Fúlíng Zhàcài) is produced from a variety of mustard green that grows on the hillsides along the Yangtze. The pungent, crunchy pickle has been made here since the late 19th century and is now one of China's most widely exported condiments — recognisable by its distinctive dark green packaging in supermarkets from London to Melbourne. The Fuling zhacai factory runs tours of the production process.
+score: 5.8
 ---
 
 Fuling, about 80 kilometres downstream from central Chongqing, is both a significant industrial city and the source of one of China's most famous condiments: Fuling zhacai, the pickled mustard tuber that accompanies congee and noodles across the country. Peter Hessler lived and taught here in the late 1990s and wrote about it in River Town, one of the best books about provincial Chinese life in the reform era.

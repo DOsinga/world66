@@ -14,6 +14,7 @@ tags:
 - walking
 title: Compass Point
 type: poi
+score: 7.1
 ---
 
 Compass Point is a headland immediately north of Summerleaze Beach, topped by the octagonal Storm Tower built in the 1840s. The tower — sometimes called the Compass Tower for its eight sides aligned to the compass points — is a navigational landmark and local icon, visible from the beach and from much of the town. The short walk up from the beach takes about ten minutes on a good path.

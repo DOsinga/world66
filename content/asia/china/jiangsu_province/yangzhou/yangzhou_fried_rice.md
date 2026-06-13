@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.3940
 longitude: 119.4130
+score: 6.4
 ---
 
 Yangzhou fried rice is one of the most widely replicated Chinese dishes in the world, served in Chinese restaurants on every continent — and the version available in Yangzhou itself is, predictably, a different animal from its global imitations. The authentic recipe requires day-old jasmine rice, eggs broken directly into the wok over high heat, fresh shrimp, diced ham or char siu pork, spring onions, and a strict restraint on oil and seasoning that allows the ingredients rather than the sauce to dominate.

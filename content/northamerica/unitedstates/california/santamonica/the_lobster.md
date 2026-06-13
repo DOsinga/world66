@@ -8,6 +8,7 @@ tags:
 latitude: 34.0102
 longitude: -118.4978
 snippet: "Seafood restaurant at the foot of the pier with direct ocean views and solid Maine lobster"
+score: 6.6
 ---
 
 The Lobster sits at the corner of Ocean Avenue and Colorado, right at the foot of the Santa Monica Pier, and has the most direct ocean view of any restaurant in the immediate area. The menu focuses on seafood — Maine lobster prepared several ways, oysters, fish — with the kitchen executing reliably rather than innovatively. The view is the main event, and the food is good enough that you are not just paying for the location.

@@ -14,6 +14,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Rockland_Breakwater
   - https://en.wikipedia.org/wiki/Rockland_Harbor_Breakwater_Light
+score: 8.8
 ---
 
 The mile-long granite breakwater extending into Penobscot Bay is one of the finest free attractions on the Maine coast. The walk takes about 20 minutes each way on large, uneven granite blocks — wear shoes with grip — and the views improve with every step: the harbor on one side, the open bay and distant Camden Hills on the other.

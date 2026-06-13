@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.4019
 longitude: -122.8237
+score: 7.4
 ---
 
 Handline is a California coastal restaurant in downtown Sebastopol with a focus on sustainably sourced seafood and produce from the surrounding Sonoma and Marin farms. The menu changes frequently with the season, but expect dishes built around Pacific fish, local oysters, and vegetables from the Goldridge farm belt nearby. The fish tacos and the oysters have been consistently praised since the restaurant opened. The wine list leans intelligently on Sonoma County producers.

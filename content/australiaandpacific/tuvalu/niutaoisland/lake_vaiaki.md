@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -6.107
 longitude: 177.342
+score: 5.9
 ---
 
 Lake Vaiaki is the smaller of Niutao's two interior brackish ponds, lying near Lake Manu'a in the middle of the island. It is shallow, partially overgrown with reeds, and ringed by dense vegetation. Mosquitoes are bad here at dusk.

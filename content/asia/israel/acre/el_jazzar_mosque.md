@@ -13,6 +13,7 @@ story: >
   for his methods: he was said to have ordered amputations for minor infractions and
   threw prisoners into the sea tied to stones. Yet the mosque he left behind is
   serene and beautiful, funded largely by taxes on local Christians and Jews.
+score: 8.7
 ---
 
 The most prominent building in Acre's old city, recognisable by its green dome and graceful minaret. Ahmad Pasha al-Jazzar built it in 1781 on the site of a Crusader cathedral, using columns and stone plundered from Caesarea and other ancient sites — you can see them in the courtyard, a visible accumulation of previous civilisations.

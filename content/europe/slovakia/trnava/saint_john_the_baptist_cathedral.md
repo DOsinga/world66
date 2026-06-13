@@ -13,6 +13,7 @@ story: >
   Jesuit founders brought Italian architects and craftsmen to Trnava, which is
   why the building feels more Roman than central European. The style was
   deliberately chosen as a statement of Counter-Reformation confidence.
+score: 8.5
 ---
 
 The Cathedral of Saint John the Baptist is a magnificent early baroque church built by the Jesuits in the 17th century, when Trnava was the seat of the Hungarian Catholic Church after the Turks occupied Esztergom. The architecture is deliberately Italian — twin bell towers flanking a classical facade, barrel-vaulted nave, and rich interior decoration including an impressive high altar.

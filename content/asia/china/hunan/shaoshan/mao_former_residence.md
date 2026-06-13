@@ -9,6 +9,7 @@ latitude: 27.9098
 longitude: 112.4948
 story: >
   Mao Zedong was born in this farmhouse on 26 December 1893, the son of a moderately prosperous peasant who had once been poor and worked his way up through frugality and rice trading. The family circumstances — neither destitute nor comfortable — shaped Mao's politics more than any single ideology. He left the village at sixteen to attend school in Xiangtan, and never really came back. His adult relationship with the rural poor he claimed to represent was always that of an observer, not a participant.
+score: 8.0
 ---
 
 The childhood home where Mao Zedong grew up is the centrepiece of Shaoshan and one of the most-visited historical sites in China. The farmhouse has packed-earth walls, a courtyard, and a series of rooms furnished as they would have appeared during his childhood in the late Qing period — sleeping areas, cooking spaces, agricultural tools, and the sparse objects of a rural Hunan household. English-language information panels are available throughout.

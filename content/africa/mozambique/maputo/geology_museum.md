@@ -10,6 +10,7 @@ tags:
   - baixa
   - museum
 neighbourhood: Baixa
+score: 7.0
 ---
 
 The **Museu Nacional de Geologia** is one of those small, slightly creaky museums that reward a visit out of all proportion to their size. It occupies a 1930s pavilion just south of the cathedral and holds the country's reference collection of minerals, fossils and rocks — much of it gathered during the colonial geological surveys of the 1940s and 1950s.

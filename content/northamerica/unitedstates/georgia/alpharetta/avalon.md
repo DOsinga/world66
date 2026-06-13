@@ -7,6 +7,7 @@ snippet: A large mixed-use development with high-end shopping, dining, and an op
 tags:
 - shopping
 - sight
+score: 5.4
 ---
 
 Avalon, opened in 2014, is the largest of Alpharetta's mixed-use developments — a planned outdoor shopping, dining, and entertainment district on the south side of town. The layout is a 86-acre street grid with upscale chain stores, a cinema, hotels, and a central plaza that hosts seasonal events and a winter ice rink.

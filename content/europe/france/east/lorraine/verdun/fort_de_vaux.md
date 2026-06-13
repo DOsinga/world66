@@ -9,6 +9,7 @@ tags:
 - fortress
 story: "Commandant Sylvain-Eugène Raynal held Fort de Vaux for a week in June 1916 against repeated German assaults, with gas, flamethrowers, and grenades. His final message — released by carrier pigeon, the bird later being awarded the Légion d'honneur — read: 'We are still holding, but… relief is imperative.' He surrendered only when water ran out."
 snippet: "Smaller fort east of Douaumont, scene of a famous siege in June 1916"
+score: 9.0
 ---
 
 Fort de Vaux is smaller than Douaumont but in some ways more affecting. It is the site of the famous June 1916 siege in which a French garrison held out for a week against repeated German attacks despite gas, flamethrowers and grenades pumped down its corridors — surrendering only when the last water cistern ran dry.

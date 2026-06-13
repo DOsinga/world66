@@ -7,6 +7,7 @@ tags:
 latitude: 21.026
 longitude: 105.855
 snippet: "The journalists' and diplomats' bar — quiet, smart, and near the Metropole"
+score: 7.2
 ---
 
 Tadioto is a small bar on Tong Dan Street near the Sofitel Metropole, Hanoi's historic grand hotel, and its clientele has always reflected that proximity: journalists, diplomats, writers, aid workers, and the kind of expatriates who have been in Vietnam long enough to have opinions about it. The bar was opened by Nguyen Qui Duc, a Vietnamese-American writer, and has functioned as a gathering point for Hanoi's intellectual and creative community — the kind of place where conversations run late and people know each other.

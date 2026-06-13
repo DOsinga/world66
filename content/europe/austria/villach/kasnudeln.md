@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.6167
 longitude: 13.8500
+score: 6.7
 ---
 
 Kasnudeln are the defining dish of Carinthian cuisine and the best reason to eat locally while in Villach. These large, crescent-shaped pasta parcels are filled with a mixture of Topfen (Austrian fresh cheese similar to quark), potato, and fresh mint — the mint is essential and non-negotiable in a proper version — then boiled and served with melted brown butter and a light dusting of chives.

@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 45.0673
 longitude: 7.6822
+score: 7.5
 ---
 
 Opened in 1822 as a literary cafe and the first in Italy to be lit with gas. The interior — frescoed ceiling, white marble columns, an enormous central chandelier — is the most theatrical of the historic cafes and feels closer to an opera foyer than a coffee bar.

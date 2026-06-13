@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.2727
 longitude: 80.6000
+score: 6.3
 ---
 
 The Mahaweli River, Sri Lanka's longest, flows southwest through the Kandy valley before turning north toward the sea. The stretch between Peradeniya and Getambe is pleasant for walking along the bank, particularly in the early morning when fishermen are out and the light on the water is good. The riverside path passes through rubber plantations and paddy fields, with views back toward the Kandy hills.

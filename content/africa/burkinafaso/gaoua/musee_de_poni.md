@@ -9,6 +9,7 @@ tags:
 - museum
 title: Musée de Poni
 type: poi
+score: 8.5
 ---
 
 The Musée de Poni is a remarkable open-air ethnographic museum that brings the traditional architecture and material culture of the Lobi people to life. The centrepiece is a collection of reconstructed soukala — the fortress-like mud compounds that Lobi families still build today — which you can walk through and explore. Guides explain the function of each room, the symbolic carvings on the walls, and the way the layout reflects Lobi social structure.

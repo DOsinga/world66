@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.7300
 longitude: 74.8620
+score: 7.3
 ---
 
 A cave temple cut into a rock outcrop in the middle of the city, dedicated to Lord Shiva. The setting is unusual — the cave itself is natural, enhanced by modest construction, and the interior contains a Shiva lingam that pilgrims garland and anoint throughout the day. The cave sits beside the Tawi River near the old part of town, making it an easy walk from Raghunath Temple.

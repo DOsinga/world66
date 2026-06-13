@@ -14,6 +14,7 @@ tags:
   - walking
 title: Whitewater Gorge
 type: poi
+score: 7.9
 ---
 
 The Whitewater River cuts a steep limestone gorge through the eastern edge of Richmond, creating an unexpected natural feature right in the city. The Whitewater Gorge Trail follows the river for several miles through the canyon, passing the site of the old Gennett Records studio and connecting to the Cardinal Greenway, a long-distance rail trail that runs north and south from Richmond.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1641
 longitude: -5.2706
+score: 8.2
 ---
 
 The Spanish Mosque sits on a hillside above the medina, a fifteen-minute walk or a short taxi ride from Plaza Uta el-Hammam. Built during the Spanish Protectorate in the early 20th century, it was never completed and has sat empty since Spain withdrew in 1956. Non-Muslims can enter the grounds freely, which makes it unusual in Morocco.

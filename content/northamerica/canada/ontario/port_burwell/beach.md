@@ -6,6 +6,7 @@ longitude: -80.8040
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The town beach at Port Burwell runs along the east side of Otter Creek mouth. It's a narrow strip of sand compared to the provincial park beach, but it's right in the village — walk out of any restaurant and you're almost on the sand. Lake Erie water temperatures here can reach 24°C in late July and August, which surprises visitors used to colder Great Lakes beaches.

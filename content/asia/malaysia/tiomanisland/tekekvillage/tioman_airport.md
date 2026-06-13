@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 2.8192
 longitude: 104.16
+score: 5.9
 ---
 
 Tioman Airport is one of the more memorable arrivals in Southeast Asia: a short grass and tarmac strip cut into the jungle between the beach and the rainforest-covered hills, handling tiny turboprop aircraft from Kuala Lumpur. The terminal is a modest building near the Berjaya Tioman Beach Resort end of the sealed road, and the entire approach — low over the water, banking between hills, then a short sharp landing — gives a genuine sense of how remote Tioman actually is.

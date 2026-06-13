@@ -9,6 +9,7 @@ tags:
 latitude: -29.8500
 longitude: 31.0278
 url: "https://www.dolphincricket.co.za"
+score: 7.2
 ---
 
 Kingsmead is Durban's Test cricket ground, home of the Dolphins franchise and one of the most distinctive venues in the world game. The proximity of the Indian Ocean creates a famous afternoon breeze that swings the ball late, and the most lopsided Tests in South African history have happened here when the conditions favoured seamers.

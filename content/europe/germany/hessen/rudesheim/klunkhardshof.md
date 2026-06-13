@@ -11,6 +11,7 @@ tags:
 - history
 title: Klunkhardshof
 type: poi
+score: 6.3
 ---
 
 One of the gems of Rudesheim's Old Town, a two-storey half-timbered house from the early 16th century. The building was once owned by the Klunkhard family, from which numerous church dignitaries came.

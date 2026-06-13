@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.5
 ---
 
 The pedestrianised stretch of Beibitshilik Avenue, locally called the Arbat in echo of the famous walking street in Moscow. About a kilometre of paved boulevard runs through the centre of the modern city, lined with cafes, small shops, fountains, ice-cream vendors, and a scattering of bronze statues — Kazakh musicians, a falconer, the inevitable sign-up girl with a selfie stick.

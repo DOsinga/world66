@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The largest stele ever erected at Axum — 33 metres tall and weighing 520 tonnes — fell in antiquity, possibly during its erection, and lies shattered on the ground today. Had it stood, it would have been the largest monolithic structure ever carved by human hands. The second-largest, the Obelisk of Axum, was looted by Mussolini's forces in 1937, shipped to Rome, and stood outside the UN Food and Agriculture Organization headquarters for 67 years before being returned in 2005 and re-erected in 2008.
+score: 9.6
 ---
 
 The Northern Stelae Field is the heart of Axum's UNESCO World Heritage site — a field of more than 120 carved granite obelisks, most dating from the 3rd and 4th centuries AD. They are grave markers for the Aksumite elite: each stele stands above an underground burial chamber, and the size of the monument reflects the rank of the person buried beneath it.

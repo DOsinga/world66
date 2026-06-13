@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.5780
 longitude: 68.7900
+score: 7.1
 ---
 
 Lagman — a pulled noodle soup with lamb, peppers, tomatoes, and herbs — is one of the great dishes of Central Asia, and Dushanbe has excellent versions in the traditional restaurants around the bazaar quarter and Bokhtar Street. The noodles are pulled by hand to order; the broth is rich and aromatic. It's a substantial meal in itself.

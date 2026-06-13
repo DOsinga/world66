@@ -15,6 +15,7 @@ story: >
   the house and its contents — original furniture, portraits, and accumulated possessions of
   350 years — to a preservation trust. Visiting feels less like a heritage experience than
   like walking into someone's home the day after they left.
+score: 7.2
 ---
 
 Lissan House, about 5 kilometres north of Cookstown on the Lissan estate, is a historic country house dating from the 17th century that served as the seat of the Staples baronets for over 300 years. The house is now managed by a preservation trust and is open to visitors on a seasonal basis. The interest lies partly in the architecture — a succession of periods layered onto the original structure — and partly in the survival of the original contents, which give an unusually direct sense of a family's accumulated life.

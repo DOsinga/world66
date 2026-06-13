@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The streets immediately above Plaza de Armas, particularly Quillota and Pedro Montt, hold the surviving German-style timber houses from the late 19th century — high-pitched roofs, fish-scale shingles, wraparound verandahs, and painted gables. Most are now offices, hostels, or private homes.

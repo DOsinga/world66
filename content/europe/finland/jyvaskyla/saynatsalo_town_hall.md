@@ -11,6 +11,7 @@ story: >
   The town hall was built between 1950 and 1952 for the small industrial municipality of Säynätsalo, which had a single sawmill employer. When the municipality merged with Jyväskylä in 1993, the complex lost its civic function but gained a kind of pilgrimage status among architects. Kenneth Frampton called it "perhaps the most perfect civic building of the 20th century."
 sources:
   - https://en.wikipedia.org/wiki/S%C3%A4yn%C3%A4tsalo_Town_Hall
+score: 9.2
 ---
 
 The Säynätsalo Town Hall is considered one of Alvar Aalto's masterpieces and one of the finest small public buildings of the 20th century. It sits on the island of Säynätsalo, about 14 kilometres south of Jyväskylä, overlooking a lake. The complex is built around a raised courtyard — you climb a grassy stepped approach to enter — and is constructed of red brick, timber, and copper. The council chamber, with its soaring wooden ceiling structure, is the centrepiece.

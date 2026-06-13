@@ -9,6 +9,7 @@ tags:
   - birdwatching
 title: "Phare de la Gacholle"
 type: poi
+score: 7.7
 ---
 
 The Phare de la Gacholle is a remote lighthouse between lagoons and sea, reached by flat tracks south of the Vaccares. It is less a conventional attraction than a destination for walkers and cyclists who want the Camargue at its emptiest.

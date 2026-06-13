@@ -14,6 +14,7 @@ story: >
   planned it accordingly.
 sources:
   - https://en.wikipedia.org/wiki/Tombs_of_the_Talpur_Mirs
+score: 8.2
 ---
 
 A complex of tombs north of the city centre containing the remains of the Talpur rulers of Sindh, who governed from 1784 to 1843. The tombs are built of glazed kashi tiles — blue, turquoise, and white — in the Sindhi style, with ornate decoration covering the exterior walls. The largest tomb is that of Mir Karam Ali Khan.

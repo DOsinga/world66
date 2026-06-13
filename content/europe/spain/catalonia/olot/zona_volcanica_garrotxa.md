@@ -9,6 +9,7 @@ tags:
   - park
   - hiking
 story: "The Garrotxa volcanoes are among the youngest in continental Europe. The last eruption, of the Croscat volcano, dates to about 11,500 years ago — geologically yesterday — yet the cones are now so completely vegetated that you can stand on the rim of one and not realise where you are."
+score: 9.2
 ---
 
 The Zona Volcànica de la Garrotxa is a natural park covering the best-preserved volcanic landscape in the Iberian Peninsula: more than forty Strombolian-type cones and twenty-eight lava flows in a relatively compact area. The volcanoes are extinct, but the lava soils have produced unusually fertile farmland and the cones themselves, smooth and rounded, dot the green plateau like overturned bowls.

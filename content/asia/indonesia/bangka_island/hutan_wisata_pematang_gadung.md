@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Forest nature reserve in southern Bangka, good for birdwatching and a walk in the jungle"
+score: 6.6
 ---
 
 Pematang Gadung is one of the better patches of intact forest left on Bangka, an island whose interior has been significantly altered by tin and kaolin mining over the centuries. The nature reserve offers walking trails through lowland tropical forest — hornbills are among the birds you might see, along with various sunbirds, kingfishers, and if you're patient, some of the smaller forest mammals.

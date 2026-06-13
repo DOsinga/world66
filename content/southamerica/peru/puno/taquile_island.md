@@ -6,6 +6,7 @@ latitude: -15.7714
 longitude: -69.6878
 snippet: Quiet island of stone-walled farms, terraces, and Quechua knitters
 story: Knitting on Taquile is a male craft. From the age of about eight, boys learn to knit the fine chullo hats that men wear — and the colour and pattern of a man's hat broadcasts his marital status. The island's textile tradition is on the UNESCO list of intangible cultural heritage.
+score: 8.8
 ---
 
 A hilly island in the middle of Lake Titicaca, about 35 kilometres east of Puno and roughly three hours by boat. Taquile has no roads, no vehicles, and around 2,000 Quechua-speaking inhabitants who live on terraced farms scattered up the hillsides. The boat docks at the foot of a steep stone staircase; the walk up to the central village climbs about 200 metres above the lake — slow going at altitude.

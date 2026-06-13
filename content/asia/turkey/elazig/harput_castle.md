@@ -9,6 +9,7 @@ tags:
 - fortress
 story: "The Turkish name is Süt Kalesi — Milk Castle — from the legend that the lime mortar of its walls was mixed with milk to make them stronger. The fortress sits on a sheer basalt ridge; the Urartians built it in the 9th century BC and almost every later power in the region used the same walls."
 snippet: "Ancient fortress on a basalt ridge above the old town of Harput"
+score: 8.9
 ---
 
 The castle (Harput Kalesi) is the most impressive thing in the region. Built by the Urartians in the 9th century BC, it has been used and rebuilt by Romans, Byzantines, Arabs, Seljuks, and Ottomans — each leaving fragments. What you see today is mostly the medieval rebuild on the Urartian footprint, perched on a basalt cliff that drops sheer on three sides.

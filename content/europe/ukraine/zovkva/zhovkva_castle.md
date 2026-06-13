@@ -13,6 +13,7 @@ story: >
   Castle his favourite retreat. He returned here to celebrate the victory and kept a
   menagerie of exotic animals in the castle gardens — lions, tigers, and an elephant
   sent as a gift from the Emperor.
+score: 7.3
 ---
 
 Zhovkva Castle is a four-towered Renaissance fortress built between 1594 and 1606 by Stanisław Żółkiewski, the Polish hetman whose name the town carries to this day. The castle was designed as a defensive residence rather than a purely military fortification — it had elaborate gardens, a chapel consecrated in 1640, and quarters suitable for royal guests.

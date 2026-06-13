@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.5590
 longitude: 101.4560
+score: 7.2
 ---
 
 Ao Phai is a beach about 1.5km south of Hat Sai Kaew along the island's east coast, quieter than Diamond Beach and popular with travellers who want a beach bar but not a crowd. The sand is slightly narrower and the water a little deeper, which suits swimmers more than paddlers. There's a good small selection of guesthouses and beach bars operating here, enough to make it a base for several nights without feeling isolated.

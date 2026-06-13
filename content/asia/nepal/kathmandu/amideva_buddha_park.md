@@ -8,6 +8,7 @@ tags:
 latitude: 27.6935
 longitude: 85.2885
 address: Swayambhu area, Kathmandu
+score: 6.2
 ---
 
 Amideva Buddha Park, near the base of the Swayambhunath hill, contains Nepal's largest statue of the Buddha — a serene gilded figure about 10 metres high in seated meditation posture, set within an open garden complex with smaller statues and a circumambulation path. The park was built relatively recently (completed in 2006) but follows the traditional form and iconography of Mahayana Buddhist sacred spaces.

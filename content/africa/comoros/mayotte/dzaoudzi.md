@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -12.7863
 longitude: 45.2569
+score: 6.5
 ---
 
 Dzaoudzi is the administrative capital of Mayotte, crowded onto the tiny island of Petite-Terre along with the airport, the prefecture, and a surprising amount of history for such a small piece of land. The town was the colonial capital of the Comoros under French rule before Moroni took over, and its old quarter — La Pointe — still has a few colonial buildings in various states of repair.

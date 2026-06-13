@@ -7,6 +7,7 @@ tags:
 latitude: 20.2986
 longitude: -103.1867
 snippet: The larger lakeside town east of Ajijic with a waterfront promenade and weekend market
+score: 7.3
 ---
 
 Chapala is the administrative capital of the municipality and a more Mexican-in-character lakeside town than Ajijic, about 7 kilometres east along the shore road. The waterfront here has a pleasant malecon with weekend restaurants serving the Chapala specialty: charales, tiny lake fish eaten crispy, like chips, with lime and salsa. It is a local institution.

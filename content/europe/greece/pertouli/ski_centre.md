@@ -9,6 +9,7 @@ longitude: 21.466667
 snippet: "Small, uncrowded ski area at 1,200m in the Pindus mountains, open since 1985"
 sources:
   - https://en.wikipedia.org/wiki/Pertouli
+score: 6.7
 ---
 
 The Pertouli ski centre is a modest but functional mountain resort with two lifts, a handful of runs, and the refreshingly uncrowded atmosphere of a place that hasn't been discovered by the package tour market. The season runs roughly December to March depending on snowfall, which is generally reliable at this altitude. Runs suit beginners and intermediate skiers; there is nothing extreme here, but the mountain scenery is dramatic.

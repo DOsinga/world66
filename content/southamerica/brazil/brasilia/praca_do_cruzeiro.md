@@ -7,6 +7,7 @@ snippet: The original founding site of Brasília, marked by a wooden cross
 tags:
 - things_to_do
 - landmark
+score: 6.2
 ---
 
 The Cruzeiro is the geographic high point of the Pilot Plan — the spot where, on 3 May 1957, the city's first mass was celebrated by Brasília's first archbishop, before any other building existed. A wooden cross still marks the spot, replaced from time to time but always in the same place.

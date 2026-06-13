@@ -14,6 +14,7 @@ story: >
   collection of marble heads. One of them is widely believed to be a portrait
   of Julius Caesar, though historians debate the attribution. La Spezia locals
   claim it with civic pride regardless.
+score: 7.9
 ---
 
 The Castello di San Giorgio sits on the hill above the city centre, reached by a short steep walk or by a lift from Piazza Mentana. The castle dates to the 13th century, was refortified by the Genoese, and now contains an archaeological museum with finds from the Ligurian and Roman periods — notably marble sculptures and prehistoric statue-stelae (upright stones carved with human features) that are unique to this corner of Liguria.

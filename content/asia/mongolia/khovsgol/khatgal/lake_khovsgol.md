@@ -12,6 +12,7 @@ story: >
   Lake Khövsgöl holds roughly 1 percent of the world's unfrozen fresh water — the same proportion held by Lake Baikal, to which it is connected by the Egiin Gol river. In winter the ice grows thick enough to support the weight of trucks, and local drivers use the frozen surface as a road.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Kh%C3%B6vsg%C3%B6l
+score: 9.4
 ---
 
 Lake Khövsgöl is one of Asia's great lakes — a vast, startlingly clear body of water stretching 136 kilometres from north to south, hemmed in by forest-covered mountains on all sides. At 1,645 metres above sea level it is the highest large lake in Mongolia, and its waters are cold enough to support freshwater shrimp and Arctic-origin fish species found nowhere else in the country.

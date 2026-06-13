@@ -8,6 +8,7 @@ tags:
 latitude: 47.8125
 longitude: 20.5717
 story: "The Hadas was the artisans' quarter of old Mezőkövesd — densely packed, single-storey peasant houses with whitewashed walls and painted door frames. When the rest of the town was rebuilt in concrete after the war, the Hadas was preserved more or less intact, and today it is an open-air showcase of nineteenth-century Matyó life."
+score: 8.2
 ---
 
 The Hadas is the old craft quarter of Mezőkövesd, a small grid of narrow streets lined with traditional whitewashed peasant houses. Several of the houses have been turned into workshops where visitors can see — and try — embroidery, weaving, pottery, gingerbread making, and traditional Matyó furniture painting.

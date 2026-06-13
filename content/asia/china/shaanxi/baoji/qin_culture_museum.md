@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.3800
 longitude: 107.2500
+score: 7.4
 ---
 
 The area around Baoji was also significant in the early development of the Qin state — the political entity that would eventually conquer all the other Chinese states and create the first unified Chinese empire under the First Emperor in 221 BCE. Several early Qin sites and cemeteries have been identified and partially excavated in the Baoji area, and local museums hold finds from these sites that predate the famous Terracotta Army by several centuries.

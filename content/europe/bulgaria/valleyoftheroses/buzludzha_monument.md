@@ -9,6 +9,7 @@ latitude: 42.7358
 longitude: 25.3925
 story: >
   Built in 1981 to commemorate the founding of the Bulgarian Socialist Party, the Buzludzha monument was abandoned after 1989 and stripped by looters. The vast circular hall on top still contains fragments of mosaics showing Lenin, Marx, and Bulgarian communist leaders. Photographers and urban explorers from around Europe make pilgrimages here; in a few years it will probably collapse.
+score: 8.6
 ---
 
 A flying-saucer-shaped concrete monument perched on top of Buzludzha peak at 1,432 metres in the central Balkan range. Construction took seven years, used six thousand tonnes of concrete, and required volunteer labour from across socialist Bulgaria. After the regime fell it was abandoned, the copper stripped, the doors broken open, and the interior left to the weather.

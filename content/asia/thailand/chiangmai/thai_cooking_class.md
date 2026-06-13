@@ -6,6 +6,7 @@ tags:
 - sight
 title: Thai Cooking Classes
 type: poi
+score: 6.8
 ---
 
 Chiang Mai is one of the best places in Thailand to learn to cook Thai food, and cooking classes have become a major part of the tourist economy. Most classes follow a similar pattern: a morning market visit to pick ingredients, then three to four hours in a kitchen preparing a full meal. You eat what you cook.

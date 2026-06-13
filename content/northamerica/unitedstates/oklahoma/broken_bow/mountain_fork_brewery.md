@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 34.1660
 longitude: -94.7280
+score: 5.1
 ---
 
 A microbrewery in Hochatown serving a rotating list of in-house ales — an IPA, a brown, a stout, and seasonal experiments — alongside a kitchen turning out flatbreads and pub fare. The taproom is wood-panelled and casual, with a deck out front.

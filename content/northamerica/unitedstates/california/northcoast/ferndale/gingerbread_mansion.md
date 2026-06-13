@@ -15,6 +15,7 @@ story: >
   were advertising.
 sources:
   - https://en.wikipedia.org/wiki/Gingerbread_Mansion
+score: 6.2
 ---
 
 The most photographed building in Ferndale: a Queen Anne Victorian house built in 1899, painted in multiple shades of apricot and yellow and dripping with carved wooden ornamentation — gingerbread trim, spindle work, and a turret that seems designed to out-ornament every building on the street. It is now operated as a bed-and-breakfast inn, though even if you're not staying, walking past and looking up at the exterior is one of the essential Ferndale experiences.

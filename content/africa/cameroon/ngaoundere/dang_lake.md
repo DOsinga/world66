@@ -7,6 +7,7 @@ tags:
 - sight
 title: Dang Lake
 type: poi
+score: 6.5
 ---
 
 Lac Dang is a small crater lake just north of the city, on the grounds of the University of Ngaoundéré. The water is dark and still, ringed by acacia and palm, and the rim makes for an easy half-day walk with binoculars — kingfishers, weaver birds and the occasional vervet monkey are common.

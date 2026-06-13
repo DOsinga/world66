@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Traditional Bolivian fare in a cosy colonial dining room
+score: 6.4
 ---
 
 Mi Pueblo Querido is a small family-run restaurant occupying a converted colonial house on Calle Calvo, several blocks south of the central plaza. The menu sticks to traditional Bolivian dishes — picante de pollo, sajta de pollo, fricasé, chairo (mutton-and-vegetable soup with chuño), the inevitable silpancho — done well rather than reinterpreted. Two-course lunches around 40 bolivianos, dinner mains 50–80.

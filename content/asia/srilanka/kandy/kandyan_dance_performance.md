@@ -13,6 +13,7 @@ story: >
   the spectacular costumes and percussion — the drums used, particularly the geta beraya,
   are among the most complex in the world — but compress an all-night ceremony into a
   90-minute show.
+score: 6.8
 ---
 
 Evening Kandyan dance performances are held nightly at several venues near the lake, the most established being the YMBA Hall and the Kandyan Art Association auditorium. The show includes Kandyan dance (with its distinctive tall headdresses and rapid footwork), low-country dances from the coastal regions, Sabaragamuwa dances from the hill country, and a fire-walking finale.

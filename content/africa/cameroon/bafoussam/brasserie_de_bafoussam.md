@@ -14,6 +14,7 @@ story: >
   in the region, a fact that locals point to with considerable pride.
 sources:
   - https://en.wikipedia.org/wiki/Bafoussam
+score: 3.8
 ---
 
 The Brasseries du Cameroun plant on the southern edge of the city is one of the most significant industrial installations in western Cameroon. The brewery is part of the Castel Group's Cameroonian operations — the same company behind the ubiquitous Castel Bière bottles that appear on every table in every bar from Douala to Ngaoundéré. The facility is not open for public tours but its presence is felt throughout the city: Bafoussam is a noticeably good city in which to find cold beer at a reasonable price.

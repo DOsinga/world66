@@ -11,6 +11,7 @@ story: >
   was demolished in 2013, but its clock tower was carefully dismantled and
   transported to the new city centre, where it stands as a freestanding monument
   beside the new town hall. The clock still keeps time.
+score: 8.4
 ---
 
 Kiruna is in the middle of an unprecedented urban project: the entire city centre is being moved three kilometres to the east because the iron ore mine has undermined the ground beneath the old town. The decision was taken in the 2000s after LKAB's geological surveys showed that continued mining — essential for the mine's viability — would cause subsidence severe enough to make the old centre uninhabitable.

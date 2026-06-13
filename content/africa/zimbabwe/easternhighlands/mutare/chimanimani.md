@@ -11,6 +11,7 @@ story: >
   During Zimbabwe's 1970s liberation war, ZANLA guerrillas crossed the Chimanimani Mountains on foot from Mozambique along what became known as the "Chimanimani Corridor." The mountain crossings were made at night to avoid Rhodesian forces; the same trails are now walked by hikers in daylight. The border with Mozambique runs through the highest part of the range.
 sources:
   - https://en.wikipedia.org/wiki/Chimanimani_National_Park
+score: 7.9
 ---
 
 Chimanimani National Park, about 150km south of Mutare, protects a dramatic range of quartzite mountains that form the natural border with Mozambique. The main features are walking routes into the mountains, river pools fed by clear streams, and a landscape of grassland plateaus, rocky peaks, and patches of riverine forest. The base camp near the park entrance has basic facilities.

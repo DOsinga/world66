@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Volunteer-run local history museum with strong river-trade displays"
+score: 6.7
 ---
 
 The Cobram District Historical Society runs a modest but well-curated museum in a heritage building near the centre of town. The strength of the collection is the river trade — paddle-steamer fittings, old shipping ledgers, photographs of the long-gone wharves at full operation in the 1880s.

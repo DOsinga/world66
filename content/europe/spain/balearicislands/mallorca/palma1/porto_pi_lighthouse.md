@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Porto_P%C3%AD_Lighthouse
 story: >
   Porto Pi is one of the oldest operational lighthouses in the world. A lighthouse has stood on this rocky point since 1300, making it contemporaneous with the cathedral and Bellver Castle. The current tower, rebuilt in the eighteenth century, continues to guide shipping into the bay.
+score: 5.8
 ---
 
 The Porto Pi Lighthouse stands on a rocky headland at the western entrance to Palma Bay, marking the point where ships from Barcelona and Valencia historically first approached the island. The lighthouse area makes a good destination for a walk or a bike ride from the city centre along the seafront promenade, about four kilometres from the old town. The headland commands fine views back across the bay to the cathedral and the city.

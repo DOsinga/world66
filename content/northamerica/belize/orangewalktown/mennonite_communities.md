@@ -6,6 +6,7 @@ longitude: -88.6200
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Orange Walk District has a significant Mennonite population, primarily settled in communities around Shipyard and Blue Creek to the northwest of town. The Mennonites arrived in Belize from Mexico and Canada beginning in the 1950s, seeking land where they could maintain their traditional religious and agricultural way of life. They have become major contributors to Belize's food supply, producing dairy products, poultry, furniture, and vegetables sold throughout the country.

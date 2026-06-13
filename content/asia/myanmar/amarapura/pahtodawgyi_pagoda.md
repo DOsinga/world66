@@ -12,6 +12,7 @@ story: >
   when an astrologer predicted that the king who completed it would die. Bagyidaw
   stopped work and died in 1846 — without having finished it. The incomplete pagoda
   has stood this way for nearly two centuries.
+score: 7.6
 ---
 
 Pahtodawgyi is one of Amarapura's most distinctive structures — a large unfinished Buddhist pagoda north of Taungthaman Lake, its truncated shape a visible reminder of superstition overriding ambition. The pagoda's base and lower terraces are intact and finely ornamented; the upper portion simply does not exist, ending abruptly where construction stopped.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -32.9567
 longitude: -60.6599
+score: 8.1
 ---
 
 The Dr. Julio Marc Provincial Historical Museum is one of Argentina's more underrated history museums, housed in a Moorish-revival building within Parque de la Independencia. The collection covers the history of the Santa Fe province from pre-Columbian times through the colonial period and independence, with particular depth on the 19th century.

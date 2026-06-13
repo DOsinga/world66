@@ -15,6 +15,7 @@ story: >
   Scottish history. The castle is inaccessible today, which only adds to its atmosphere.
 sources:
   - https://en.wikipedia.org/wiki/Loch_an_Eilein
+score: 8.3
 ---
 
 Loch an Eilein — "the loch of the island" — is one of the loveliest small lochs in the Scottish Highlands: a dark, peaty stretch of water in Rothiemurchus Forest, with a ruined fourteenth-century castle on a small island at its heart and ancient Scots pines reflected in the still surface. A 5-kilometre path circles the loch through the old forest, making it one of the finest and most accessible short walks in the Cairngorms National Park.

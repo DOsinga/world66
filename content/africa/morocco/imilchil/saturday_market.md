@@ -6,6 +6,7 @@ longitude: -5.6347
 tags:
   - things_to_do
   - market
+score: 7.4
 ---
 
 Saturday is the day to be in Imilchil. From early morning, Berber families come in from villages across the plateau by mule, lorry, and Renault 4 to trade livestock, wool, grain, vegetables, blankets, and household goods. The animal market on the edge of town is the most interesting part — sheep, goats, and the occasional mule changing hands with much hand-shaking and tea.

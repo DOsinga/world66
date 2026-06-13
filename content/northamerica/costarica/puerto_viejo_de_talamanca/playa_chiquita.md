@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Playa Chiquita
 type: poi
+score: 7.2
 ---
 
 Playa Chiquita, between Playa Cocles and Punta Uva, is the quietest beach in the central stretch — a series of small sandy bays separated by rocky outcrops, fronted by coastal forest where you'll often spot howler monkeys and toucans from the path.

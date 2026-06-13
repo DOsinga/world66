@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 8.0
 ---
 
 The Stone Gate is the only surviving original entry to the medieval Upper Town: a vaulted stone passage cut through the city wall in the 13th century, with cobbles worn smooth by eight centuries of footfall. Walk through it from Radićeva Street and you pass through a small chapel built into the gate itself, where the Madonna of the Stone Gate hangs behind a 19th-century wrought-iron grille.

@@ -9,6 +9,7 @@ latitude: 52.7189
 longitude: 1.0706
 story: >
   Sparham Pools were created when gravel was extracted from the Wensum floodplain in the 20th century. The flooded pits gradually naturalised into a wildlife reserve that now holds one of Norfolk's best breeding colonies of great crested grebes, and is known for its dragonfly population in summer.
+score: 7.8
 ---
 
 Sparham Pools is a Norfolk Wildlife Trust nature reserve about 2 km west of Lenwade, set around a series of former gravel pits on the River Wensum floodplain. It's a quiet spot — paths loop around the water through willow scrub and rough grassland — and very good for birds: great crested grebes, tufted duck, kingfishers, and sedge warblers are all regular.

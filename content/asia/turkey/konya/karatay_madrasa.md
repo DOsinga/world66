@@ -10,6 +10,7 @@ tags:
 snippet: "Thirteenth-century Seljuk school, now the city's tile museum"
 story: >
   The interior dome is decorated with star-pattern tilework in dark turquoise and cobalt blue, calligraphic friezes running the names of God around the rim — a visual translation of the Quranic verse "everything that is upon the earth will perish; but the face of your Lord, the Possessor of Majesty and Honour, will remain forever". The geometry of the dome, with its 24-pointed star, is one of the finest pieces of medieval Islamic mathematics turned into architecture.
+score: 8.8
 ---
 
 The Karatay Madrasa, on the northeast slope of Alaeddin Hill, is one of the great surviving works of Seljuk architecture. It was built in 1251 by Celaleddin Karatay, the vizier of Sultan Izzedin Keykavus II, as a school for the study of Islamic theology and law. The marble entrance portal is the showpiece on the outside — a complex of geometric patterns and Arabic calligraphy in low relief, dark stone framing the recessed doorway in muqarnas vaulting.

@@ -13,6 +13,7 @@ story: >
   declined the title of Doge when it was offered to him, saying that "a servant of
   Genoa cannot be her master." He remained admiral and protector instead — a convenient
   fiction that left him with all the power and none of the constitutional constraints.
+score: 8.2
 ---
 
 A small, intimate square that was essentially the private domain of the Doria family — the most powerful family in Genoa — from the 12th to the 18th century. Their palaces line three sides of the square, their coats of arms are above every doorway, and the family chapel of San Matteo contains their tombs and relics. The facades of the medieval houses around the square are decorated with black-and-white striped banding, the Doria family mark.

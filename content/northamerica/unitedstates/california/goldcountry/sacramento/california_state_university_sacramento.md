@@ -8,6 +8,7 @@ latitude: 38.5589
 longitude: -121.4246
 story: >
   Sacramento State sits on the American River, and its riverside location — rare for a California State University campus — gives it a green, almost pastoral quality that the term "urban university" does not usually imply. The campus egret colony, one of the largest great blue heron/great egret rookeries in California, nests in the eucalyptus trees along the American River and can be heard from much of the campus in spring.
+score: 5.7
 ---
 
 California State University Sacramento, known as Sacramento State or "Sac State," is a large public university on the American River, about five kilometres from downtown. The campus itself is architecturally undistinguished — standard 1960s California State University concrete — but the riverside setting is attractive and the campus natural areas along the American River are worth visiting for wildlife.

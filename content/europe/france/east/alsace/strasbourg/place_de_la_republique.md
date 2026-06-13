@@ -7,6 +7,7 @@ tags:
 latitude: 48.5893
 longitude: 7.7506
 snippet: "Grand German Imperial district with Wilhelmine civic architecture from 1870–1918"
+score: 7.8
 ---
 
 Place de la République is the centrepiece of Strasbourg's Neustadt — the German imperial district built after the city was annexed by the new German Empire in 1871. The square and surrounding streets were designed on a grand Wilhelmine scale: the Palais du Rhin (formerly the Imperial Palace), the National Library, the University, and the Prefecture are all here, in a style that mixes Romanesque revival with German Baroque.

@@ -13,6 +13,7 @@ story: >
   of the Hungarian Catholic Church and one of the most important cities in the
   region, the tower was the dominant landmark for travellers approaching across
   the flat surrounding plain.
+score: 7.7
 ---
 
 The City Tower is the most distinctive landmark in Trnava's old town — a freestanding medieval tower on the main square that has been rebuilt and adapted over the centuries but retains an imposing presence. It stands at around 50 metres and is climbable, offering good views across the old town rooftops and the surrounding flat terrain.

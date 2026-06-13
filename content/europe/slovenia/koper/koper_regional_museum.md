@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.5483
 longitude: 13.7281
+score: 7.5
 ---
 
 The Koper Regional Museum is housed in the Belgramoni-Tacco Palace, a handsome 17th-century mansion on a quiet street in the old town. The museum's collection covers the history and culture of the Slovenian Littoral (Primorska) region from prehistoric times through the 20th century, with particular strengths in the Roman period, Venetian-era art, and the complex recent history of a region that changed national identity multiple times in the 20th century.

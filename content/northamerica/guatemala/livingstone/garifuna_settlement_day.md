@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Garífuna Settlement Day and Festivals
 type: poi
+score: 7.8
 ---
 
 The three main Garífuna festivals bring Livingston to life in a way that rewards a planned visit. Garífuna Settlement Day on November 19 celebrates the 1802 landing of Garífuna settlers on the Honduran coast, with boat re-enactments, punta dancing, and all-night music. The December 12 feast of Our Lady of Guadalupe and New Year celebrations are similarly vibrant.

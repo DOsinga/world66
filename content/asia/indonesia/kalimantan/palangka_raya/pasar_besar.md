@@ -8,6 +8,7 @@ tags:
 - market
 title: Pasar Besar
 type: poi
+score: 6.7
 ---
 
 The Pasar Besar (Big Market) is the largest and oldest market in Palangka Raya — a busy, sprawling complex of stalls selling river fish, rattan baskets, fresh fruit, kaftan-style cloth, dried goods, and prepared food. Early morning is the best time; by midday the heat thins the crowd.

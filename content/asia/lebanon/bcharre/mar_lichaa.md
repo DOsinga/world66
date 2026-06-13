@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2510
 longitude: 35.9700
+score: 7.6
 ---
 
 Mar Lichaa (or Saint Elisha) is the easiest of the Qadisha monasteries to reach from Bcharre — about thirty minutes' walk down a switchback path. The monastery is partly cave and partly stone-built, clinging to the valley wall, and includes a small museum of monastic life.

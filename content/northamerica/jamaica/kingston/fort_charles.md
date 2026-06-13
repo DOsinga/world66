@@ -9,6 +9,7 @@ latitude: 17.9367
 longitude: -76.8458
 story: >
   Horatio Nelson served at Fort Charles in 1779, when he was a 21-year-old captain. He described lying on a plank at the battery watching the harbour for Spanish ships. A plaque inside the fort marks the spot — identified as "Nelson's Quarterdeck." Whether the precise plank is genuine is not the point; the fact that the man who would win Trafalgar spent a formative year at this Caribbean battery is exactly the kind of imperial footnote that Port Royal accumulates naturally.
+score: 8.6
 ---
 
 Fort Charles is the best-preserved colonial fortification in Jamaica — built by the British in 1655 immediately after their conquest of the island, and expanded and strengthened over the following two centuries into a substantial defensive complex at the tip of the Palisadoes spit. The fort faces Kingston Harbour and was the main military installation guarding the approach to the capital.

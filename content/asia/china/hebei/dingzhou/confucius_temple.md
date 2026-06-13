@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5160
 longitude: 114.9880
+score: 6.9
 ---
 
 The Dingzhou Confucius Temple occupies a walled courtyard near the Liaodi Pagoda and is one of the better-preserved examples of this temple type in Hebei's smaller cities. The complex follows the standard layout: a central daxiongbaodian (main hall) flanked by subsidiary buildings, with a wide paved courtyard in front. The structure has been maintained and partially restored but retains enough original material to feel genuinely old rather than recently fabricated.

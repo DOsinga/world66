@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.0
 ---
 
 Slip off Jalan Mondorakan into the narrow lanes around Pasar Kotagede and you find yourself among traditional Joglo houses, the classic noble residences of Java. The Joglo is recognisable by its high, hipped roof supported on four central teak pillars; carved beams, perforated screens and a raised central platform mark the inner family hall.

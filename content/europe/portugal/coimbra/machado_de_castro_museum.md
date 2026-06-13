@@ -9,6 +9,7 @@ longitude: -8.4255
 snippet: "Portugal's most important national sculpture museum, sitting above a 1st-century Roman forum"
 story: >
   Beneath the museum lies a perfectly preserved Roman cryptoporticus — a vaulted underground gallery built in the 1st century AD to support the forum above. You walk through it as part of the museum visit, and the contrast between the dark Roman tunnels and the Renaissance bishop's palace above them is genuinely strange.
+score: 8.7
 ---
 
 The Machado de Castro Museum is housed in the former episcopal palace — a complex, irregular building that grew over eight centuries — and is named after the great 18th-century Portuguese sculptor who was born in Coimbra. The collection spans Portuguese medieval and Renaissance sculpture, decorative arts, and a remarkable assembly of religious silverware.

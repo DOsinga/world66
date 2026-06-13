@@ -6,6 +6,7 @@ title: Adega do Tijolo
 type: poi
 latitude: 41.3532
 longitude: -8.7423
+score: 6.2
 ---
 
 A traditional adega — wine cellar restaurant — on the square near the market. The food is classic northern Portuguese: roast meats, grilled fish, and the robust red wines of the Vinho Verde region. Fado music accompanies meals on some evenings.

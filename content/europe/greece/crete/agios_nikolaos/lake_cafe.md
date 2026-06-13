@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 35.1905
 longitude: 25.7175
+score: 5.2
 ---
 
 A row of cafes and bars lines the promenade on the eastern side of Lake Voulismeni, competing for table space with the gentle theatre of boats, water, and tourists. There is no single outstanding establishment — they are all much of a muchness — but the setting makes any of them a good choice for breakfast, mid-morning coffee, or evening drinks.

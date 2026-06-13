@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, outdoor]
 latitude: 60.3773
 longitude: 5.3814
+score: 8.1
 ---
 
 At 643 metres, Ulriken is the tallest of the seven mountains surrounding Bergen. A cable car runs from the Ulriksbanen station — reached by shuttle bus from the centre — to the summit plateau, where there is a restaurant with a 360-degree view over the city, the fjords, and on clear days far out over the North Sea.

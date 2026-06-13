@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: 1914 bronze memorial to the 35 engineers who stayed at their posts and went down with the Titanic
 story: "All 35 engineers stayed below in the engine room when the Titanic was clearly sinking, keeping the generators running to power the lights and the wireless until the ship went under. None survived. The memorial was paid for by public subscription and unveiled in April 1914 — only two years after the disaster."
+score: 6.6
 ---
 
 A bronze and stone memorial in Andrews Park, one block north of the Civic Centre, commemorating the 35 engineers of the Titanic. All 35 stayed below in the engine and boiler rooms to keep the generators running, lighting the ship and powering the wireless that called for rescue. They drowned at their posts. The memorial was paid for by public subscription within months of the disaster and unveiled in April 1914.

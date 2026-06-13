@@ -6,6 +6,7 @@ longitude: -96.9560
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Little Niagara is a swimming hole on Travertine Creek, just upstream from the Travertine Nature Center. A natural rock ledge stretches across the creek and the water tumbles a few feet over it into a wide, deep pool — the closest thing the park has to a real waterfall. On a hot July weekend it is packed with families, kids jumping in from the ledge and floats drifting through the pool.

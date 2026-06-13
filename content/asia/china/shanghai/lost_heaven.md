@@ -6,11 +6,11 @@ longitude: 121.4904
 snippet: Atmospheric Yunnan restaurant with two Shanghai branches, including one off
   the Bund
 tags:
-- eating_out
-- restaurant
-- the_bund
-title: Lost Heaven
-type: poi
+  - eating_out
+  - restaurant
+  - the_bund
+snippet: "Atmospheric Yunnan restaurant with two Shanghai branches, including one off the Bund"
+score: 7.1
 ---
 
 Yunnan-province food in a dark, candle-lit, opium-den interior of carved wood, lanterns and minority-textile cushions. The dishes mix Han Chinese, Bai and Dai influences: wild mushrooms with chillies, banana-leaf-wrapped fish from the Mekong, pickled tea-leaf salad, charcoal-grilled goat cheese (a rarity in Chinese cooking). The cocktail menu is good.

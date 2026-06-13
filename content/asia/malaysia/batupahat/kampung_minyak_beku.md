@@ -15,6 +15,7 @@ story: >
   against Sultan Mansur Shah of Malacca. Whether or not that
   particular siege ever reached this stretch of coast, the name
   Batu Pahat — "chiselled stone" — has carried the story ever since.
+score: 6.6
 ---
 
 A coastal kampung southwest of Batu Pahat town, on the open mouth of the Batu Pahat river where it meets the Strait of Malacca. The headline attraction is the **Telaga Batu Pahat** — a small freshwater well, cut directly into laterite rock, that gave the town its name. Legend ties the well to a Siamese expeditionary force in the 1450s; whatever the truth, the well still holds fresh water within sight of the salt strait, which is unusual enough to have been worth chiselling.

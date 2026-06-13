@@ -9,6 +9,7 @@ latitude: 35.8182
 longitude: 127.1488
 story: >
   Samyang Dabang has been operating since the 1960s, making it one of the oldest surviving dabang (traditional Korean coffeehouses) in the country. During the authoritarian decades of the 1970s and 1980s, dabang served as meeting places for artists, dissidents, and intellectuals who couldn't speak freely elsewhere — a cultural function that the rise of modern coffee chains has entirely erased.
+score: 6.8
 ---
 
 Samyang Dabang is a historic dabang — a traditional Korean coffeehouse that predates the global coffee shop chains by decades. These old-style cafes were once the gathering places of Korean cultural life: dimly lit, furnished with wooden chairs and velvet curtains, serving instant coffee mixed at the counter rather than espresso from a machine.

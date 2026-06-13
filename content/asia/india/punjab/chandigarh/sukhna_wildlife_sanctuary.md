@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - wildlife
+score: 7.0
 ---
 
 Just behind Sukhna Lake, the Wildlife Sanctuary covers 2,600 hectares of Shivalik foothills cloaked in sal and bamboo. It is home to sambar and barking deer, jackals, pangolins and the occasional leopard, although the dense vegetation means most visitors hear more than they see.

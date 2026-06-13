@@ -12,6 +12,7 @@ story: >
   during the independence campaign. Táchira was an important base for the patriot forces,
   and the city's Andean location made it a natural staging point for movements between
   Venezuela and New Granada (Colombia).
+score: 7.3
 ---
 
 The Cathedral of San Cristóbal, dedicated to St. Christopher, stands beside the Plaza Juan Maldonado in the heart of the old city. Completed in 1621, it was rebuilt and expanded over the centuries in a blend of neo-colonial and baroque styles that gives it an imposing, somewhat severe character.

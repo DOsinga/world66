@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, lake]
 latitude: 42.18
 longitude: -79.45
+score: 6.5
 ---
 
 Chautauqua Lake stretches twenty-six kilometres northwest from Jamestown through rolling dairy and vineyard country. The lake sits over 400 metres above sea level — one of the highest navigable lakes in North America — and freezes solid in winter for ice-fishing huts and snowmobiles.

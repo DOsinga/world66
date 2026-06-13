@@ -4,6 +4,7 @@ type: poi
 latitude: 45.5280
 longitude: 13.5672
 tags: [things_to_do, sight, museum]
+score: 6.2
 ---
 
 The Piran Aquarium has run on the small Punta promontory since 1964 and is the oldest public aquarium in the eastern Adriatic. It is a modest but well-curated place: a couple of dozen tanks, each devoted to a different ecosystem of the local sea, from rock pools to deeper offshore reefs.

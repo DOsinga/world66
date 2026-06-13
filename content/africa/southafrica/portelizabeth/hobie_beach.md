@@ -5,6 +5,7 @@ latitude: -33.9850
 longitude: 25.6410
 tags:
   - beaches
+score: 6.6
 ---
 
 Hobie Beach is PE's main city beach and the national centre of South African windsurfing — the shallow, east-facing bay creates ideal conditions when the south-westerly wind picks up, which is most afternoons. The beach hosts regular regional and national windsurfing and kiteboarding competitions, and the sight of a dozen boards running across the bay on a good wind day is one of the more exhilarating things you can watch from a beach chair. There are water sports hire outfits along the beachfront if you want to try it yourself.

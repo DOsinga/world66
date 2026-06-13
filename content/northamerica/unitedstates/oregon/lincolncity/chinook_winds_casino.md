@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do]
 latitude: 44.998
 longitude: -124.009
+score: 5.2
 ---
 
 Chinook Winds Casino is a large Native American casino at the north end of Lincoln City, operated by the Confederated Tribes of Siletz Indians. It has the full casino range — slots, table games, poker — plus a hotel, a concert venue that draws regional and national acts, and several restaurants.

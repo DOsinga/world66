@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.4612
 longitude: 3.4228
+score: 8.0
 ---
 
 The Hôtel de Wicque contains one of the finest Renaissance courtyards in the Languedoc — a double arcade with carved pilasters that manages to feel both rigorous and decorative. The facade on the street gives little away, which is part of the point: these hôtels particuliers were built to impress through revelation, the plain exterior giving way to the courtyard, and the courtyard giving way to formal gardens behind.

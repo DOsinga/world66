@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2253
 longitude: 77.4769
+score: 7.8
 ---
 
 Pillar Rocks are three enormous vertical granite columns rising about 120 metres from the valley floor, roughly 7 km from town. They are best appreciated from the viewpoint above, where you can look down on the tops of the rocks and out across the forested ravine. The area is frequently wreathed in mist, which if anything adds to the drama.

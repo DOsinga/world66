@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.7
 ---
 
 Playa Paraíso lives up to its name — a long arc of fine white sand bordered by turquoise water and palms, beginning just south of the archaeological zone. It is one of the few easily accessible public beaches on the Tulum coast that has not been entirely fenced off by hotels and beach clubs; there is a public access path, free entry, and a handful of palapa restaurants and bars along the back.

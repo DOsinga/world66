@@ -7,6 +7,7 @@ tags:
 latitude: -32.9000
 longitude: 151.8200
 snippet: The largest moving coastal sand dunes in the southern hemisphere, across the harbour from Newcastle
+score: 8.5
 ---
 
 Stockton Bight contains the largest sand dune system in the southern hemisphere — a 32-kilometre stretch of coastal dunes north of Newcastle that reaches up to 30 metres high in places. The dunes move visibly from year to year, swallowing fence posts and gradually reshaping the coastline. The scale is genuinely impressive, particularly from the top of the highest dunes looking inland over the flat patchwork of wetlands and forests behind.

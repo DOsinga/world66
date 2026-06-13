@@ -9,6 +9,7 @@ snippet: "Reliable Chinese restaurant on B.S. Aquino Drive"
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 Great Wok of China is a long-running Chinese restaurant on B.S. Aquino Drive in Villamonte, catering to Bacolod's significant Chinese-Filipino community and anyone wanting a break from Filipino food. The menu covers the standard dishes of Cantonese-influenced Filipino-Chinese cooking: pancit canton, sweet and sour pork, dimsum, congee, and stir-fried vegetables.

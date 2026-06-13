@@ -10,6 +10,7 @@ tags:
 - sight
 title: Sillustani Funerary Towers
 type: poi
+score: 8.1
 ---
 
 Sillustani sits on a windswept hill above Laguna Umayo, about 35 km northwest of Puno. Both Incan and pre-Incan cultures used this site to build *chullpas* -- cylindrical stone towers for burying their kings and nobles. The dead were interred with their families and offerings to the gods: llamas, alpacas, quinoa.

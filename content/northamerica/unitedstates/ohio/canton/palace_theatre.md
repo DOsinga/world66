@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Palace_Theatre_(Canton,_Ohio)
+score: 7.2
 ---
 
 The Palace Theatre is a 1926 movie palace in downtown Canton, restored in the 1990s and still in operation as a performing arts venue. The interior is ornate in the manner of 1920s picture houses — gilded plasterwork, a grand chandelier, a proscenium arch, and a stage large enough for touring Broadway productions. The theatre seats around 1,800 people.

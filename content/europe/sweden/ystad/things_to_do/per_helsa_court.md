@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Per Helsa's Court
 type: poi
+score: 8.2
 ---
 
 Per Helsa's Court (Per Helsas Gård) is one of the oldest secular buildings in Ystad: a half-timbered courtyard complex dating from the 1480s, restored in the 20th century. The cobbled courtyard, the leaning timber facades, and the surviving small windows give an unusually intact picture of late medieval urban architecture in southern Sweden.

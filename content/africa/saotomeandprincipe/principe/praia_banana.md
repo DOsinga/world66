@@ -15,6 +15,7 @@ story: >
   rum advertisement was filmed here — the ultimate "desert island" image. The
   beach has barely changed since. The same palms lean over the same sand in the
   same banana curve, and there is still almost no one on it.
+score: 7.8
 ---
 
 Praia Banana is the most celebrated beach in Príncipe, and with good reason. The bay curves in a long arc of pale sand beneath a wall of coconut palms, the water is calm and warm, and on a typical day you may have the entire place to yourself. It sits on the northeast coast of the island, accessible via the grounds of Roça Belo Monte or by boat from Santo António.

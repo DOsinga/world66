@@ -10,6 +10,7 @@ story: >
   The Jenne family has farmed this land since the 18th century — the same family, the same hills, for over two hundred years. The farm achieved photographic fame gradually, without any particular marketing effort: photographers discovered it, published the images, and others followed. It is now consistently ranked among the most photographed farms in the United States, yet the Jennes still run it as a working dairy farm, which is part of the appeal.
 sources:
   - https://en.wikipedia.org/wiki/Jenne_Farm
+score: 8.2
 ---
 
 Jenne Farm sits on a hillside just outside Reading village and is justly famous: the composition of red barns, rolling pasture, maple trees, and the hills beyond is one of those landscapes that seems designed for a photograph. In October, when the maples turn and the sky goes that deep autumn blue, the farm is extraordinary.

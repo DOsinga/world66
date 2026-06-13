@@ -9,6 +9,7 @@ tags:
 - swimming
 title: Yal-Ku Lagoon
 type: poi
+score: 7.7
 ---
 
 Yal-Ku is a long, narrow lagoon at the north end of Akumal, fed by underground cenotes at one end and open to the sea at the other. Snorkelling here is unlike snorkelling on the reef — the water is glassy, the rocks are limestone instead of coral, and the fish are mostly small but very numerous: schools of parrotfish, sergeant majors, snapper.

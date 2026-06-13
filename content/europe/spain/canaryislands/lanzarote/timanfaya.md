@@ -18,6 +18,7 @@ tags:
 - volcano
 title: Timanfaya National Park
 type: poi
+score: 9.4
 ---
 
 Timanfaya National Park is the volcanic heart of Lanzarote: a raw sweep of black lava, red cones, cinders and ash created by eruptions in the 1730s. It is not pretty in the conventional sense, and that is exactly the point. The landscape feels freshly made, as if the island has not quite cooled down yet.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Pripyat Amusement Park
 type: poi
+score: 8.5
 ---
 
 The yellow Ferris wheel rising over weeds and birch saplings has become the single most photographed object in the Exclusion Zone. The park sits in the centre of Pripyat, between the Palace of Culture and the river. It was nearly finished when the reactor went up — bumper cars are still in place, swings hang on rusted chains, and the wheel itself has not turned in any official sense.

@@ -13,6 +13,7 @@ story: >
   by the United States in the 1970s. Nepal received the samples as a goodwill gesture
   to nations considered friendly during the Cold War. They are exhibited in the natural
   history wing alongside far more ancient material.
+score: 7.4
 ---
 
 Nepal's National Museum is in the Chhauni area of western Kathmandu, in a former military fort that dates to the 17th century. The collection spans Buddhist and Hindu art, weapons (an impressive collection of 17th–19th century guns, swords, and armour), and natural history. The art collection is particularly strong on medieval metalwork — bronzes of Buddhist and Hindu deities made in Nepal's distinctive style, which influenced Tibetan religious art for centuries.

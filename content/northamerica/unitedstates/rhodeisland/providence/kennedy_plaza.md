@@ -6,6 +6,7 @@ tags:
   - sight
 title: Kennedy Plaza
 type: poi
+score: 5.4
 ---
 
 Kennedy Plaza is the central public square of downtown Providence, a rectangular space in front of City Hall. The plaza is the hub of Providence's bus network, but also functions as a civic gathering space for rallies, markets, and public events. In winter it sometimes hosts an outdoor skating rink.

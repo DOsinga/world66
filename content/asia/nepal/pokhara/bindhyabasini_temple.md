@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The most important Hindu temple in old Pokhara, atop a small hill in Bagar
+score: 7.4
 ---
 
 A whitewashed temple on a small wooded hilltop in the **Bagar** quarter at the northern, old-town end of Pokhara. The shrine is dedicated to Bindhyabasini Bhagawati, a manifestation of Durga, and is the religious heart of the original Pokhara settlement — the new tourist Lakeside is a long way south.

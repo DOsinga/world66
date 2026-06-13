@@ -9,6 +9,7 @@ latitude: 64.4500
 longitude: -50.4500
 story: >
   Reindeer are not native to Greenland — they were introduced from Norway in the 1950s as part of a state-sponsored attempt to make pastoral farming viable in the south. Itinnera was the experimental farm. The herd lasted into the 1990s before being closed and the buildings abandoned; some of the descendants are now wild on the surrounding tundra.
+score: 6.8
 ---
 
 Itinnera is the site of the abandoned reindeer farm on the Kapisillit fjord, a half-day walk west of the village. The route follows the shoreline and crosses a couple of low ridges, easy in summer but trackless after rain.

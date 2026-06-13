@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 36.87500
 longitude: 30.64000
+score: 6.7
 ---
 
 The waters around Antalya are warm (19–28°C), clear, and home to good populations of sea bream, grouper, octopus, and moray eel. Several dive operators work out of Konyaaltı Beach, offering beginner courses as well as guided dives for certified divers. The best sites are further along the coast — around Phaselis, where submerged ancient harbour walls add an archaeological dimension to the diving, and in the protected waters of the national park south of Kemer.

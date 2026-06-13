@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - architecture
+score: 6.3
 ---
 
 The city's main arts venue, opened in 2005 around the restored 18th-century Vila Flor Palace and its tiered gardens. The new buildings — a large auditorium and a smaller black-box theatre — are wrapped in pale stone that echoes the palace without imitating it.

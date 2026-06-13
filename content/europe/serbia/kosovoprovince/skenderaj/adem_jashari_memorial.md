@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   On 5–7 March 1998, Serbian special forces surrounded the Jashari compound in Prekaz and attacked it with heavy weapons. Adem Jashari, his extended family, and fighters defending the compound held out for three days. By the time the attack ended, 58 members of the Jashari family were dead, including women and children. The massacre drew international condemnation and accelerated NATO's eventual intervention in 1999.
+score: 7.9
 ---
 
 The Adem Jashari Memorial Complex in Prekaz, 3 km from Skenderaj town, is the most important historical site in Kosovo. Adem Jashari was a founding commander of the Kosovo Liberation Army; his death in the 1998 Serbian security forces attack on the family compound, alongside 57 members of his family, became the defining martyrdom narrative of Kosovo's independence movement. He is referred to in Kosovo simply as "Commander Adem" or the "Legendary Commander."

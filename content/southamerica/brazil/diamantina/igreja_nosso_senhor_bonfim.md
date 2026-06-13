@@ -13,6 +13,7 @@ story: >
   church to the rear after Chica da Silva — who attended Mass here — complained that the bell
   noise disturbed her sleep. Whether or not the story is apocryphal, the church is unique in
   Minas Gerais baroque architecture for having its bell tower at the back rather than the front.
+score: 8.4
 ---
 
 Nossa Senhora do Carmo is one of Diamantina's finest baroque churches, built in the mid-18th century with funding from the wealthy diamond contractors who ran this corner of colonial Brazil. The facade is simpler than some of the Ouro Preto churches, but the interior gold-leafed altarpiece is among the best preserved in the region.

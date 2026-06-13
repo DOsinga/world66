@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 18.4408
 longitude: -76.9978
+score: 6.5
 ---
 
 James Bond Beach is a public beach at Oracabessa, about 20 kilometres east of Ocho Rios, named for its proximity to Ian Fleming's GoldenEye estate where the Bond novels were written. The beach itself is long, calm, and well kept, with white sand and clear water sheltered by headlands. Sun loungers, beach bars, and water sports are available, and the setting feels considerably less commercial than the beach in Ocho Rios itself.

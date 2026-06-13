@@ -9,6 +9,7 @@ tags:
   - church
   - museum
 snippet: 17th-century convent of cloistered nuns with a fine museum
+score: 8.3
 ---
 
 The Convent of Santa Clara has been home to a cloistered community of Poor Clare nuns since 1639. Behind the heavy doors on Calle Calvo, a small museum offers a glimpse into the parallel world of monastic Sucre — colonial paintings (including a Bernardo Bitti, the great Italian-trained painter of the Andean baroque), gilt altars, religious vestments embroidered with silver thread, and a 17th-century pipe organ said to be the oldest working organ in South America.

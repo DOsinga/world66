@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Albacete has produced folding pocket-knives — *navajas* — since the 16th century, and at the trade's peak in the 1800s the city had more than a thousand workshops turning them out by hand. Bullfighters, traders and rural workers across Spain carried an Albacete navaja; the slim red-handled folding knife is still the city's emblem."
+score: 7.8
 ---
 
 Albacete's most distinctive small museum, devoted entirely to the city's centuries-old knife industry. The collection — about 1,500 pieces ranging from medieval daggers to modern industrial cutlery, with the historic Albacete *navajas* at its heart — is housed in the **Casa del Hortelano**, a striking neo-Gothic mansion on Plaza de la Catedral, right in the city centre.

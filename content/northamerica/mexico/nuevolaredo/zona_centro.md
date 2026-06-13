@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 27.4760
 longitude: -99.5130
+score: 6.9
 ---
 
 The Zona Centro is the historic heart of Nuevo Laredo, a grid of streets around the main plaza and cathedral that retains something of the character of a traditional Mexican city centre despite the commercial chaos of the border. Avenida Guerrero is the main commercial street, lined with pharmacies, curio shops, and restaurants — the kind of strip that once drew day-trippers from Texas looking for cheaper prescription drugs and souvenirs.

@@ -8,6 +8,7 @@ tags:
   - sight
   - historic
 story: "The countess Mumadona Dias ordered the castle built in the 10th century to defend her monastery against Moorish and Norse raiders; two hundred years later, her descendant Afonso Henriques was raised within its walls and used it as the staging ground for an independent Portugal."
+score: 8.8
 ---
 
 The castle on the hill is where Portugal begins. Its high keep and ring of square towers date in their oldest parts to the 10th century, when the countess Mumadona Dias raised them to defend the Benedictine monastery she had founded below. Afonso Henriques, the first king of Portugal, was born in or near here in 1109, raised in the castle, and from it declared himself king after defeating his mother's forces at the Battle of São Mamede in 1128.

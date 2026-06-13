@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - cultural_site
+score: 6.3
 ---
 
 The Nanjing Arts and Crafts Museum in the old city documents the city's traditional craft traditions: cloud brocade weaving, Nanjing lacquer carving, velvet flowers, and paper cutting. The museum has working demonstrations of several crafts and a shop selling genuine handmade pieces rather than factory imports.

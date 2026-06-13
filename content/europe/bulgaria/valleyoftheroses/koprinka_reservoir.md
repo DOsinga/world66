@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 42.6167
 longitude: 25.3167
+score: 5.4
 ---
 
 An artificial lake at the western edge of Kazanlak, completed in 1954 by damming the Tundzha river. The reservoir floods the site of the ancient Thracian capital of [Seuthopolis](/europe/bulgaria/valleyoftheroses/seuthopolis), and the foreshore has been developed for low-key local recreation — picnic areas, a small beach, a few simple restaurants.

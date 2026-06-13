@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - lake
 - sight
+score: 6.3
 ---
 
 Laguna de Bay is the largest lake in the Philippines and the third largest in Southeast Asia, stretching about 90 kilometres from east to west. Los Baños occupies a strip of the south shore, and the lakefront here is accessible by road and on foot. In the late afternoon, the light on the lake is spectacular — the Laguna de Bay sunset is considered one of the better vantage points in the region.

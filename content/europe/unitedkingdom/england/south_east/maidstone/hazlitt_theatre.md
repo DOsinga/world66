@@ -8,6 +8,7 @@ tags:
 latitude: 51.2745
 longitude: 0.5216
 story: The theatre is named after William Hazlitt, the essayist and critic who was born in Maidstone in 1778. Hazlitt is considered one of the finest prose stylists in the English language and was central to Romantic-era literary culture, but he remains less well-known than his contemporaries Keats and Coleridge. Maidstone's recognition of him in the theatre name is one of the more prominent public acknowledgements of his importance.
+score: 5.7
 ---
 
 The Hazlitt Theatre is Maidstone's main performing arts venue, a mid-sized theatre seating around 600 people in the town centre, named for the essayist William Hazlitt who was born in Maidstone in 1778. The programme mixes touring productions of West End shows, comedy, dance, and local amateur productions throughout the year.

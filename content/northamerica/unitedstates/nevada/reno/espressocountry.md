@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Espresso Country
 type: poi
+score: 4.8
 ---
 
 A straightforward local coffee shop on Plumb Lane in south Reno, serving espresso drinks and light bites in a no-frills setting. A decent stop if you need a caffeine fix away from the casino strip.

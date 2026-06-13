@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 46.2305
 longitude: -63.1274
+score: 5.7
 ---
 
 The PEI Brewing Company is the island's main craft brewery, with a taproom on the waterfront near Peake's Wharf. The brewery makes a range of ales and lagers that lean toward approachable rather than experimental: a solid session ale, a wheat beer that works well in summer, and seasonal offerings that vary through the year. The taproom has harbour views, food trucks in summer, and a liveliness that other Charlottetown bars lack.

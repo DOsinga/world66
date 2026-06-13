@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   John Wood the Elder designed the Circus as an inverted Colosseum — the Roman original faces inward, while the Circus faces outward. He decorated the facade with 525 carved emblems including acorns, serpents, and Masonic symbols. Wood never saw it completed; he died just three months after laying the foundation stone in 1754, and his son finished the project.
+score: 8.5
 ---
 
 A circle of thirty-three Georgian townhouses arranged around a central garden of plane trees, the Circus is one of Bath's most striking pieces of urban design. The three curved terraces form a perfect circle, each decorated with three tiers of columns — Doric at the bottom, Ionic in the middle, Corinthian at the top — echoing the orders of the Colosseum in Rome.

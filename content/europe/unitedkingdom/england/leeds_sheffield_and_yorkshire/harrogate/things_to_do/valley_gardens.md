@@ -10,6 +10,7 @@ latitude: 53.9900
 longitude: -1.5510
 sources:
   - https://en.wikipedia.org/wiki/Valley_Gardens,_Harrogate
+score: 8.8
 ---
 
 Valley Gardens occupies a long wooded valley to the south-west of the town centre, covering about 17 acres. The gardens were laid out in the 1880s around a series of mineral springs — 36 different springs were discovered in this area over the centuries, more than anywhere else in England. The hexagonal colonnade at the entrance, the Sun Pavilion (a Grade II listed 1930s glasshouse), and the formal bedding displays are the main draws.

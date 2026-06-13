@@ -9,6 +9,7 @@ latitude: 7.5835
 longitude: -1.9370
 sources:
   - https://en.wikipedia.org/wiki/Techiman
+score: 8.4
 ---
 
 The Techiman Market is one of the largest markets in Ghana and among the most significant trading hubs in West Africa. It operates on a six-day cycle, with the biggest sessions drawing traders from across Ghana and beyond — from the Brong-Ahafo and Northern regions, from Kumasi's wholesale networks, and from neighbouring Burkina Faso and Côte d'Ivoire.

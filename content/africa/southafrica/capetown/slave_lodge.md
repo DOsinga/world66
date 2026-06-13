@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: Iziko Slave Lodge
 type: poi
+score: 8.7
 ---
 
 The Slave Lodge is one of the oldest buildings in Cape Town, built by the Dutch East India Company in 1679 to house enslaved people brought from across the Indian Ocean world. Over its history it has been used as a slave quarters, a brothel, a post office, a courthouse and now a museum that confronts that history directly.

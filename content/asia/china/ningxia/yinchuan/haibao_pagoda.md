@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Haibao Pagoda (North Pagoda) is one of Yinchuan's oldest landmarks, a nine-storey brick tower that has stood since at least the 5th century. The pagoda follows a distinctive cross-shaped plan rather than the octagonal form common to Chinese Buddhist towers — a design that reflects Central Asian influences. It has been rebuilt several times after earthquake damage, most recently in the 18th century.

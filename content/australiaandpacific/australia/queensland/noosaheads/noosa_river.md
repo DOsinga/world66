@@ -6,6 +6,7 @@ longitude: 153.0780
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Noosa River curves around the western side of the town, a wide, calm tidal system that empties into the Pacific just north of Main Beach. The lower reach, around Gympie Terrace in neighbouring Noosaville, is the social heart of the river — picnic lawns, family-friendly cafes, and a long line of moored sailboats and SUPs.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - family
+score: 7.2
 ---
 
 The biggest theme park in the Klang Valley — a former tin-mining quarry converted into a sprawling water park, dry rides, scream park, wildlife park, and extreme-sports park. The wave pool and water slides are the main draw; the Vuvuzela is one of the largest funnel slides in the world.

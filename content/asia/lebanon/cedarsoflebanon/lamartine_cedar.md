@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The tree under which the French poet wrote about Lebanon.
+score: 6.2
 ---
 
 One of the named trees in the grove is the Cèdre de Lamartine, said to be the one beneath which the French Romantic poet Alphonse de Lamartine sat during his 1832 visit to Lebanon. His travel book *Voyage en Orient* described the cedars in lyrical terms that helped fix the grove in the European Romantic imagination — and made it a fashionable destination for nineteenth-century Grand Tour travellers.

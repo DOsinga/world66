@@ -14,6 +14,7 @@ story: >
   guidebooks. The spot has been massively popular ever since. On a clear morning in July,
   there can be 200 jeeps and 1,000 visitors on the viewpoint. This is worth knowing before
   you get up at 3am.
+score: 9.2
 ---
 
 Pananjakan (2,770m) is the classic viewpoint above Bromo, reached by jeep from Cemoro Lawang on tracks that take about 30 minutes. Jeeps depart from 3am in convoy; the viewpoint fills up before sunrise, and the crowd parts as the light hits the caldera and the volcanic cones emerge from the mist. On a clear morning it is extraordinary. On a cloudy morning it is a crowd of people looking at grey mist.

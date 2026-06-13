@@ -7,6 +7,7 @@ address: 85 London Road
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 Thackeray's occupies the white clapboard house on London Road that was once the home of the Victorian novelist William Makepeace Thackeray, who lived here in the 1860s. It is the town's flagship modern-European restaurant, with a Michelin Bib Gourmand for its lunch menu.

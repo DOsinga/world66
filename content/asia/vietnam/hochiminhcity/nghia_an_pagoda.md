@@ -8,6 +8,7 @@ tags:
 latitude: 10.7518
 longitude: 106.6540
 snippet: "Ornate Teochew Chinese temple in Cholon dedicated to a deified military leader"
+score: 7.9
 ---
 
 The Nghĩa An Hội Quán Pagoda on Nguyễn Trãi Street in Cholon is one of the most elaborate Chinese temples in Ho Chi Minh City. Built by the Teochew Chinese community in the early 19th century, it is dedicated to Quan Công (Guan Yu) — the deified Chinese military general revered both as a god of war and a god of commerce, making him particularly popular in merchant communities.

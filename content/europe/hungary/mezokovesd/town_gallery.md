@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.8155
 longitude: 20.5687
+score: 6.9
 ---
 
 The Mezőkövesd Town Gallery (Városi Galéria) holds a permanent exhibition of Matyó embroidery spanning centuries and rotating shows of contemporary work — painting, sculpture, and craft revival. It is housed in a restored old building near the main square and is small enough to see thoroughly in an hour.

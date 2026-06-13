@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.4414
 longitude: 19.2638
+score: 6.5
 ---
 
 Pekara AS is Podgorica's most famous bakery and something of a local institution. It opens early and serves fresh burek — flaky pastry stuffed with cheese, meat, or spinach — along with bread, pastries, and strong coffee. Burek from AS is the standard Podgorica breakfast and a reliable cheap meal at any hour.

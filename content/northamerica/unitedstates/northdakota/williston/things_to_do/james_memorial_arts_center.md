@@ -1,6 +1,7 @@
 ---
 title: "James Memorial Arts Center"
 type: poi
+score: 6.5
 ---
 
 The James Memorial Arts Center is Williston's main cultural venue, housed in a handsome brick building in the older part of downtown. It serves as a combined art gallery, performance space, and community arts hub — the kind of institution that punches well above its weight for a city of this size, partly because the oil-boom years brought both money and a transient population that apparently wanted somewhere to go that wasn't a bar.

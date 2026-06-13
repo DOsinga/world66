@@ -7,6 +7,7 @@ tags:
 title: Ata Gate
 type: poi
 snippet: "Western gate of Itchan Kala, the main visitor entrance from the new town"
+score: 5.6
 ---
 
 The Ata Gate, sometimes called the Bakhcha or West Gate, is the main entrance for visitors arriving from the new town and is the first sight inside the walls — the Kalta Minor stands a few metres beyond it. The current gate dates from the late 19th century and replaced an older structure that stood on the same spot for centuries.

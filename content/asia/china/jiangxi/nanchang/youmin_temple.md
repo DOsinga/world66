@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 28.6810
 longitude: 115.9020
+score: 7.8
 ---
 
 Youmin Temple (佑民寺) is Nanchang's most significant active Buddhist temple, located in the Donghu district and operating since the Liang dynasty in the sixth century. The main hall houses a large bronze Buddha cast in 522 CE — one of the oldest large bronze Buddhist figures in Jiangxi — along with several later sculptures. The temple complex includes residential quarters for monks and a vegetarian restaurant open to visitors.

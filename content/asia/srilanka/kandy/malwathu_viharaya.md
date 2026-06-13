@@ -14,6 +14,7 @@ story: >
   extending well beyond religious matters. When Sri Lankan political parties need to
   signal their Buddhist credentials, an audience with the Mahanayaka at Malwathu is a
   standard part of the ritual.
+score: 7.5
 ---
 
 Malwathu Viharaya, adjacent to the Temple of the Tooth complex on its northern side, is one of the two most important monastic chapters in Sri Lankan Theravada Buddhism. The monastery complex contains an eighteenth-century image house, a chapter hall, and monks' residences surrounding several courtyards. The architecture is classical Kandyan, with intricate painted wooden eaves and carved stone moonstones.

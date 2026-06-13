@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Long quayside promenade looking out across the Baie de Somme"
+score: 7.7
 ---
 
 The Quai du Romerel is the long curving promenade that runs along the harbour front from the modern marina toward the lower town. It is lined with tall brick houses and a string of cafés and seafood restaurants, and at high tide the water comes right up to the wall — fishing boats and pleasure craft tied at the foot of the houses, gulls overhead, the salt smell of the bay.

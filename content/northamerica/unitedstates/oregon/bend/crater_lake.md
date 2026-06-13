@@ -16,6 +16,7 @@ story: >
   arrived — a story that survived in memory for nearly 8,000 years.
 sources:
   - https://en.wikipedia.org/wiki/Crater_Lake
+score: 9.4
 ---
 
 Crater Lake is the deepest lake in the United States and almost certainly the most startling shade of blue you will ever encounter in nature. The 1,943-foot depth and exceptional clarity — there are no inflows or outlets, so sediment doesn't accumulate — produce a color so intense that first-time visitors often assume it's been enhanced in photographs. It hasn't.

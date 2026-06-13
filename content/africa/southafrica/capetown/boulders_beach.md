@@ -13,6 +13,7 @@ tags:
 - wildlife
 title: Boulders Beach
 type: poi
+score: 9.1
 ---
 
 Boulders Beach is a sheltered cove tucked into the False Bay coast just outside Simon's Town, famous for its resident colony of African penguins. A boardwalk from the national park entrance lets you walk among the birds at close range — the penguins are entirely accustomed to human visitors and go about their business with total indifference to the spectators.

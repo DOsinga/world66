@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Tiny former bishopric in the mid-valley
+score: 7.3
 ---
 
 A compact medieval village in the middle of the valley, dominated by its disproportionately large cathedral. Brugnato was the seat of an independent bishopric for almost seven hundred years, which explains the scale of the church and the small lanes of ecclesiastical buildings around it.

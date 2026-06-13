@@ -8,6 +8,7 @@ tags:
 latitude: 13.725
 longitude: 1.696
 snippet: Weekly market drawing traders and farmers from across the region
+score: 6.0
 ---
 
 Sunday is market day in Tillaberi, and if your journey happens to pass through then it is worth stopping for an hour. Traders come in from the surrounding villages and farming communities, and the market covers a wide strip near the centre of town.

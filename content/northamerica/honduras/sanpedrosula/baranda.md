@@ -8,6 +8,7 @@ snippet: "Longstanding fine dining with three decades of Latin-European cuisine"
 tags:
   - eating_out
   - restaurant
+score: 4.8
 ---
 
 A longstanding fine-dining restaurant in Colonia Moderna. Chef Ana Maria Salgado Pellman has run the kitchen for over thirty years, drawing on flavors from across Latin America and Europe. The menu leans international with well-executed starters and mains. Expect white-tablecloth service and prices at the higher end by Honduran standards.

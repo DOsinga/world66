@@ -13,6 +13,7 @@ story: >
   born within these walls. The fort was originally built in the early 18th century by Fareer
   bin Rahhal, fell into ruin, and was rebuilt in 1812–1818. By the time the British arrived
   in force, it was already ancient.
+score: 7.2
 ---
 
 Riffa Fort — properly known as Sheikh Salman bin Ahmed Al Fateh Fort — sits on a cliff edge above a desert wadi in East Riffa, with views across the surrounding palm groves and residential districts. It is a compact structure of whitewashed stone, typical of Gulf defensive architecture: thick walls, towers at the corners, and a courtyard that would have functioned as both a military garrison and a royal residence.

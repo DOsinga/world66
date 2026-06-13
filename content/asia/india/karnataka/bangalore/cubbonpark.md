@@ -7,6 +7,7 @@ tags:
 - park
 title: Cubbon Park
 type: poi
+score: 8.2
 ---
 
 Cubbon Park is the green lung at the centre of Bangalore, a 300-acre spread of trees, walkways, and lawns laid out by the British in 1870. On any given morning you will find joggers, yoga practitioners, families with children, old men reading newspapers, and a remarkable variety of birdlife in the same space. The park is unusually shaded for a city this size — many of the trees are well over a century old — and even in the heat of April it is noticeably cooler than the surrounding streets.

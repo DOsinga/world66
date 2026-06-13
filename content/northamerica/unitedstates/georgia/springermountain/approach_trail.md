@@ -6,6 +6,7 @@ longitude: -84.2440
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The 8.8-mile blue-blazed trail from Amicalola Falls State Park up to the AT terminus on Springer Mountain. It is not officially part of the Appalachian Trail, but most thru-hikers walk it as a deliberate warm-up — and as a reminder that they have signed up for several months of exactly this kind of walking.

@@ -8,6 +8,7 @@ latitude: 38.2828
 longitude: 140.8629
 story: >
   Aoba Shrine was established in 1874 specifically to enshrine Date Masamune as a Shinto deity — an unusual honour accorded only after the Meiji government created a policy of deifying notable historical figures. The decision was partly political: Sendai's domain had initially opposed the Meiji restoration, and the deification of its founding lord was a way of incorporating the region's identity into the new national order.
+score: 6.4
 ---
 
 Aoba Shrine sits in a quiet wooded area near the old castle grounds and is dedicated to the deified spirit of Date Masamune. The shrine was established in the Meiji period and has a restrained, dignified character — less ornate than Osaki Hachimangu but with a genuinely serene atmosphere, especially on weekday mornings when it's nearly empty.

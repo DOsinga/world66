@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - mall
+score: 7.8
 ---
 
 Bagh-e-Jinnah — formerly Lawrence Gardens — is the city's main public park, 141 acres laid out by the British in 1862 around the Lawrence and Montgomery Halls. It contains a botanical garden, a cricket ground (the Lahore Gymkhana), a public library, and the Quaid-e-Azam Library housed in the original Lawrence Hall.

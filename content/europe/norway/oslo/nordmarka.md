@@ -8,6 +8,7 @@ tags:
 - holmekollen
 title: Nordmarka Forest Trails
 type: poi
+score: 8.3
 ---
 
 The Nordmarka is the enormous forested plateau stretching north and west from Holmenkollen — 1,700 square kilometres of lakes, ridges, and spruce forest that Oslo treats as its backyard. Trails start directly from Holmenkollen station and reach into wilderness within minutes of leaving the platform.

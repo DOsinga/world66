@@ -8,6 +8,7 @@ tags:
 title: John Varvatos
 type: poi
 url: www.johnvarvatos.com
+score: 4.7
 ---
 
 John Varvatos is a high-end designer of men's fashions with locations around the world and several Beverly Hills locations. The John Varvatos collection features suits, t-shirts, vests, and shoes.

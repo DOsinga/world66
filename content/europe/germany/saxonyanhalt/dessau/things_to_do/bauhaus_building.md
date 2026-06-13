@@ -9,6 +9,7 @@ latitude: 51.8415
 longitude: 12.2243
 sources:
   - https://en.wikipedia.org/wiki/Bauhaus_Dessau
+score: 9.5
 ---
 
 The building Walter Gropius designed for the Bauhaus school in 1925–26 is the founding monument of modernist architecture. Its glass curtain wall, flat roof, and interlocking wing structure — workshop block, studio wing, bridge connection — were all radical departures when they went up, and the ensemble still reads as deliberate and coherent today. It is one of those buildings where the photograph doesn't prepare you for the real thing.

@@ -7,6 +7,7 @@ tags:
 snippet: Lakeside football stadium, home of Everton de Viña del Mar
 latitude: -33.0144
 longitude: -71.5350
+score: 5.2
 ---
 
 The Estadio Sausalito sits on the edge of a small lake at the inland end of the city and is the home of Everton de Viña del Mar, one of Chile's oldest football clubs. The stadium was rebuilt for the 2015 Copa América and has a capacity of around 22,000.

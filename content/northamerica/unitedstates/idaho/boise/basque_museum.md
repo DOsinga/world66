@@ -7,6 +7,7 @@ tags:
   - basque_block
 latitude: 43.6143
 longitude: -116.2016
+score: 7.8
 ---
 
 The Basque Museum and Cultural Center on the Grove anchors Boise's Basque Block with a genuine collection of artifacts, photographs, and oral histories documenting the migration of Basque shepherds to Idaho from the late 19th century onward. The museum occupies a restored 1864 boarding house — one of the oldest buildings in Boise — that served as the first home for newly arrived Basque immigrants.

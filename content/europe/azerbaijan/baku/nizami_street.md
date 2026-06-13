@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 7.6
 ---
 
 Nizami Street, known locally as Tarqovu, is Baku's main pedestrian shopping street, a long stretch of grey-stone Belle Époque facades running north from Fountain Square. The Russian oil-boom architects who built most of it were copying Paris and St Petersburg, and the result is one of the most coherent late nineteenth-century streetscapes in the Caucasus.

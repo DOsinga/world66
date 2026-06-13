@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -3.3705
 longitude: 36.6892
+score: 6.2
 ---
 
 The Maasai Market, held daily in the area around the central bus station and clock tower, is Arusha's informal craft and souvenir hub. It is not a single organised market but a concentration of stalls and itinerant sellers, many of them Maasai from the surrounding countryside who make the journey to town to sell beadwork, jewellery, gourds, walking sticks, and cloth.

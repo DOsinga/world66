@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 19.7019
 longitude: -79.8601
+score: 5.3
 ---
 
 Stella Maris is the small Catholic church on Alta Vista Drive on the south side of Cayman Brac — a modest white-walled building that serves the island's Catholic minority, a community largely made up of Filipino and Central American workers. It was built in 1957 and remains an unobtrusive but lovingly tended building.

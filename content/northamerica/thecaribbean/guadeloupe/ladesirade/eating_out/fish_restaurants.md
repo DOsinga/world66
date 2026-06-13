@@ -1,6 +1,7 @@
 ---
 title: Fish Restaurants
 type: poi
+score: 6.7
 ---
 
 The restaurants along the waterfront in Grande-Anse and the other villages are the real reason to eat on La Désirade. These are simple Creole lolos — plastic chairs, basic tables, handwritten menus, and fish that arrived that morning. The cooking is the cooking of the French Caribbean: court-bouillon de poisson (fish in a tomato and herb sauce), grilled langouste (spiny lobster), lambi (conch) stewed in sauce chien or stuffed, accras de morue (salt cod fritters) as a starter, riz collé and plantains alongside.

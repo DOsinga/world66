@@ -6,6 +6,7 @@ longitude: -86.1383
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The oldest of the city's public parks, dating to 1873, on the south side of downtown. The 1915 sunken gardens with their geometric beds and central fountain are the highlight in summer; the adjacent conservatory under a glass dome holds a year-round tropical collection — orchids, palms, banana trees, koi.

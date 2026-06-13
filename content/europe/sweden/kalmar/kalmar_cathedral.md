@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 56.6644
 longitude: 16.3653
+score: 8.4
 ---
 
 Kalmar Cathedral is the defining building of the Baroque town plan that was laid out when the city was relocated from its medieval position near the castle to the present site in the 17th century. It was designed by Nicodemus Tessin the Elder and completed in 1682, making it one of the finest Baroque churches in Sweden — a category that doesn't get as much attention as it deserves.

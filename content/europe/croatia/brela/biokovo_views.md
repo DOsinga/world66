@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 43.3833
 longitude: 16.9333
+score: 7.5
 ---
 
 The Biokovo range rises almost vertically from the coast behind Brela, with the highest peak — Sveti Jure at 1,762 metres — about 12 kilometres inland. From the village the mountain wall fills the entire skyline; on clear evenings the limestone goes gold and the sea below turns dark blue.

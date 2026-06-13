@@ -8,6 +8,7 @@ tags:
 - history
 title: El Rey Ruins
 type: poi
+score: 5.1
 ---
 
 The Zona Arqueológica El Rey occupies a low coastal site at kilometre 17 of Boulevard Kukulcán, almost lost between the giant resorts on either side. The 47 surviving structures — small platforms, a central plaza, and a low pyramid — date from the post-classic Mayan period (1200-1500) and probably served as a coastal trading and fishing settlement aligned with the larger sites on Cozumel and at Tulum.

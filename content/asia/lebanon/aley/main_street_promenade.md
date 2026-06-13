@@ -6,6 +6,7 @@ longitude: 35.6055
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Aley's main street, officially Boulevard Camille Chamoun, runs along the spine of the ridge and is the social heart of the town from late afternoon until midnight. In summer the pavements are full of locals and Gulf visitors strolling between sweet shops, jewellers, and the open terraces of cafes; in winter the wind comes up the gorge and the street is quiet by ten.

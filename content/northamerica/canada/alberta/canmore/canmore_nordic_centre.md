@@ -14,6 +14,7 @@ story: >
   scenery for the first time on a global broadcast. The games transformed the town: land prices jumped, the coal
   mine closed the same year, and Canmore began its transformation from a working-class resource town into the
   outdoor recreation destination it is today.
+score: 7.9
 ---
 
 The Canmore Nordic Centre Provincial Park was built for the 1988 Winter Olympics and remains the best trail network in the area, with over 65 kilometres of groomed routes that serve different users in different seasons. In winter it operates as a cross-country skiing facility with track-set grooming and lit evening sections; in summer the same trails become mountain biking and trail running routes, with bike rentals available at the day lodge.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 51.0
 longitude: -116.2
+score: 7.7
 ---
 
 Kootenay National Park lies on the eastern slopes of the Rockies, accessible from Golden via Highway 93 South through the park's western entrance at Radium Hot Springs. The park stretches from alpine tundra at its high passes to the semi-arid ponderosa pine forests around Radium, creating a remarkable range of ecosystems within a relatively compact area.

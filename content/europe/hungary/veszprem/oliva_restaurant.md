@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Oliva Restaurant
 type: poi
+score: 5.6
 ---
 
 A reliable, slightly upmarket restaurant in a converted townhouse on the way up to the Castle District. The kitchen does a mix of Hungarian classics and lighter dishes for a less traditional palate. Goulash, fish from Lake Balaton, and the duck with red cabbage are the dishes to consider.

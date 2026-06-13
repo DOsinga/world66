@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.7616
 longitude: -3.3877
+score: 6.1
 ---
 
 The long, arcaded Plaza de España is the social centre of Valdepeñas — the place where locals gather in the evenings, where the terrace bars do most of their business, and where the week's rhythm is most visible. It is not grand in the way that a capital-city plaza is grand, but it has the lived-in quality of a square that has been in continuous use for centuries.

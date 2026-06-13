@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -1.2667
 longitude: 135.9833
+score: 7.4
 ---
 
 A series of waterfalls in the interior of Biak island near the village of Wardo, reached by a combination of road and forest trail. The falls drop through the limestone karst landscape that characterises the island's interior, and the surrounding forest holds some of the birds that make Biak notable for ornithologists — the island has several endemic species, and Biak is considered one of the better locations in western Papua for bird of paradise sightings.

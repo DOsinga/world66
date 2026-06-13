@@ -7,6 +7,7 @@ tags:
   - outdoor
 latitude: 56.4618
 longitude: 10.0371
+score: 6.5
 ---
 
 The Gudenå is Denmark's longest river, and the stretch from Randers down toward Randers Fjord and the Kattegat is one of the more accessible paddling routes in eastern Jutland. The river flows through flat lowland country after leaving Randers, with reed beds, waterfowl, and the occasional fisherman as the main company on quieter days.

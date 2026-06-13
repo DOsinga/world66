@@ -11,6 +11,7 @@ title: Bistro 990
 type: poi
 url: www.toronto.com
 zipcode: M5S 3A8
+score: 4.2
 ---
 
 This restaurant is tops for relaxed, delicious eating.

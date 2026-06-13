@@ -9,6 +9,7 @@ latitude: -20.3293
 longitude: -40.2871
 story: >
   The convent was founded in 1558 by the Franciscan friar Pedro Palácios, who reportedly chose the 154-metre rocky outcrop after receiving a divine vision. The climb involves over 360 uneven stone steps, and pilgrims still make the ascent barefoot as a form of penance during the Festa do Espírito Santo — one of the largest Catholic festivals in Brazil, drawing hundreds of thousands of visitors each May.
+score: 9.4
 ---
 
 Perched on a 154-metre basalt outcrop that rises abruptly from the coastal plain, the Convento da Penha is the most striking sight in the Vitória metropolitan area. The Franciscan convent was founded in the 16th century and the church at its summit remains an active pilgrimage destination, drawing enormous crowds for the Festa do Espírito Santo each May.

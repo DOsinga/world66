@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: La Brasserie du Port
 type: poi
+score: 5.1
 ---
 
 A straightforward French brasserie on a quiet street in central Honfleur, serving classic Norman dishes — think moules-frites, crêpes, and seafood platters. The setting is unpretentious and the prices are reasonable by Honfleur standards, which makes it a decent option when the harbour-front restaurants are packed or overpriced. Service can be slow when busy.

@@ -6,6 +6,7 @@ longitude: -107.9603
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 Casa Rinconada is a great kiva sitting alone on the south side of the canyon, separate from any great house. At 19 metres across it is the largest such structure in Chaco and one of the largest in the Southwest. The trail loops around the rim, looking down into the chamber, the bench, the floor vaults, and the masonry firepit — all set out as they would have been in the eleventh century.

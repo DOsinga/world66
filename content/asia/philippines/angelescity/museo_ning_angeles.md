@@ -9,6 +9,7 @@ longitude: 120.59101
 sources:
   - https://en.wikipedia.org/wiki/Museo_ning_Angeles
 story: "The museum takes its name from Kapampangan, the language of Pampanga province, and the exhibits deliberately center that perspective — this is the story of Angeles City told by the Kapampangans themselves, not by the Americans or Spanish who also left their marks on the city."
+score: 7.8
 ---
 
 The Museo ning Angeles — "Museum of Angeles" in the Kapampangan language — is the city's main cultural and historical museum. It documents the long history of Angeles City and the surrounding Pampanga region, from pre-colonial times through the Spanish and American colonial periods and into the present day. The collection includes artifacts, photographs, documents, and artworks that help visitors understand a city that is often reduced to its association with Clark Air Base.

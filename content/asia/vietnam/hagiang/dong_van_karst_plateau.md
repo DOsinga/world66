@@ -15,6 +15,7 @@ story: >
   exist.
 sources:
   - https://en.wikipedia.org/wiki/D%E1%BB%93ng_V%C4%83n_Karst_Plateau_Geopark
+score: 9.1
 ---
 
 The Dong Van Karst Plateau Geopark covers roughly 2,350 square kilometres in the northern tip of Ha Giang province, and was Vietnam's first UNESCO Global Geopark when it was recognised in 2010. The plateau sits at 1,000 to 1,600 metres elevation and is dominated by jagged grey limestone formations that rise from fields of corn and buckwheat in forms that look almost architectural — columns, spires, ridges. The landscape shifts its character by season: bare grey in winter, green and misty in summer, and briefly spectacular in October when buckwheat blooms pink and white across the plateau.

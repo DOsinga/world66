@@ -12,6 +12,7 @@ sources:
   - https://cadw.gov.wales/visit/places-to-visit/conwy-castle
 story: >
   Edward I built Conwy Castle in just four years, between 1283 and 1287, employing around 1,500 workers at a time — an extraordinary feat for the medieval period. The total cost came to £15,000, the equivalent of several years' royal income. When the Welsh prince Madog ap Llywelyn briefly besieged the castle in 1294, Edward himself was trapped inside for weeks with his court, nearly starving before a relief fleet arrived up the estuary.
+score: 9.5
 ---
 
 Conwy Castle is one of the great medieval fortresses of Europe, and it has the rare quality of being both spectacular from a distance and thoroughly interesting up close. Cadw (the Welsh government's historic environment service) manages the site, and entry gives you access to the full circuit of towers and walls, including the upper chambers of the great hall where the scale of what Edward I built here becomes genuinely impressive.

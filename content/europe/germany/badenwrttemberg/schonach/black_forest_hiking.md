@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.1427
 longitude: 8.1975
+score: 7.2
 ---
 
 Schönach sits at the start of a network of waymarked hiking trails through the central Black Forest, the region of dense fir and spruce forest, farmsteads, and open hilltop meadows that gives the area its character. The trails from the village range from easy valley walks to longer ridge routes with views toward the Rhine plain and the Swiss Alps.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.8221
 longitude: -107.9929
+score: 6.2
 ---
 
 A local history museum in the center of Aztec with a decent collection of Ancestral Pueblo artifacts and exhibits on the area's Anglo pioneer and oil boom history. The Pioneer Village section is a cluster of reconstructed historic buildings — a schoolhouse, blacksmith shop, and general store — that give a sense of what the San Juan Basin looked like in the early 20th century.

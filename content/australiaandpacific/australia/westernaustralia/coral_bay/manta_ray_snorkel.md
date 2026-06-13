@@ -6,6 +6,7 @@ longitude: 113.7700
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 Coral Bay has one of the few resident manta ray populations in Western Australia. Reef mantas are present year-round in the waters around Coral Bay — operators run half-day boat trips that use spotter techniques to find them and put snorkellers in the water for close passes. Mantas here are reef mantas (Mobula alfredi), with wingspans typically of three to four metres; encounters are usually with feeding animals cruising slowly along the seabed.

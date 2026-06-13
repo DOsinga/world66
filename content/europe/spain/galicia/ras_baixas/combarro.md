@@ -11,6 +11,7 @@ tags:
 - sight
 title: Combarro
 type: poi
+score: 8.2
 ---
 
 Combarro is the most photographed village in the Rías Baixas, and once you see

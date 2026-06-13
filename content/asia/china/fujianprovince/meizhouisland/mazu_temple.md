@@ -14,6 +14,7 @@ story: >
   migrants sailed — Vietnam, the Philippines, Taiwan, Malaysia, San Francisco — a
   Mazu temple followed. Today over 200 million people worldwide worship her, making
   this small island the spiritual centre of one of the world's largest popular cults.
+score: 9.1
 ---
 
 The Mazu Temple complex sprawls across the spine of Meizhou Island, a layered compound of halls, pavilions, and incense courtyards accumulated over ten centuries of reconstruction and expansion. The oldest surviving structure dates from the Song dynasty, though most of what you see was rebuilt in the 20th century. The atmospheric core is the main hall housing the principal statue — a gold-lacquered figure that is dressed in elaborate robes and crowned with a phoenix headdress, attended by incense smoke so thick it sometimes obscures the ceiling.

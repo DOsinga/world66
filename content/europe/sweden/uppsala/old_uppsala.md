@@ -13,6 +13,7 @@ story: >-
 tags:
 - things_to_do
 - sight
+score: 9.2
 ---
 
 Old Uppsala (Gamla Uppsala) was the political and religious heart of pre-Christian Sweden. Three enormous royal burial mounds, dating to the 5th and 6th centuries, rise from the flat farmland a few kilometres north of the modern city centre. This was where the Svear kings held court and where the Norse gods were worshipped at great gatherings.

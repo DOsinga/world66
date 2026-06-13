@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The name 'King's Chair' supposedly comes from a coronation custom: whichever Rani chieftain could climb the cliff face first and stand on the top would be named king. The story is almost certainly invented later, but the cliff has been a viewpoint since long before Caspar David Friedrich painted it in 1818."
+score: 9.2
 ---
 
 The Königsstuhl — King's Chair — is the most famous of the chalk cliffs that line the eastern flank of Jasmund National Park, a white wall rising 118 metres above the Baltic. From the viewing platform on top you look down at the chalk falling sheer into a turquoise sea, with the dark line of beech forest curling away on either side.

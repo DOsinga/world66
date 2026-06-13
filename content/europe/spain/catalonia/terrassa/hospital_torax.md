@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The hospital opened in 1952 specifically to treat tuberculosis, which was still a leading cause of death in post-war Spain. Patients were sent here in part because of Terrassa's relatively dry climate. The complex was abandoned in the 1990s after antibiotics rendered the sanatorium model obsolete, and has stood empty ever since."
+score: 4.9
 ---
 
 The Hospital del Tòrax is an enormous abandoned sanatorium on a hillside south of Terrassa, an unmistakable concrete structure visible from the motorway. Built in 1952 in a rationalist modern style with deep porches and patient terraces designed for fresh-air tuberculosis treatment, the building was at the time considered one of the most advanced TB hospitals in Spain.

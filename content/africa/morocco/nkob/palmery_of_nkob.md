@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 30.6080
 longitude: -7.4320
+score: 6.8
 ---
 
 The Nkob palmery is the green blanket that wraps the lower edge of the village — date palms, olives, almonds, alfalfa, and small patches of barley and vegetables, all watered through the ancient seguia system that branches from the wadi above the village. The smaller second palmery a few hundred metres east is irrigated from a separate spring.

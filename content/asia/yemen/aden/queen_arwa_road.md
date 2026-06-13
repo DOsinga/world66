@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 12.7765
 longitude: 45.033
+score: 8.2
 ---
 
 Queen Arwa Road is the main commercial street through old Crater, running from the citadel slopes down to the harbour. The buildings along it form the best-preserved stretch of British-era Aden commercial architecture — three-storey blocks with deep arcades, fan windows, and ornate balconies, mostly from the 1880s through the 1920s.

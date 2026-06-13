@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.9886
 longitude: 126.5728
+score: 7.4
 ---
 
 The Kaesong city walls once formed a continuous defensive ring more than 27 km long, climbing the hills around Manwoldae palace and enclosing the whole medieval city. They were built in stages between the 10th and 14th centuries and incorporated natural ridgelines, watchtowers, and four main gates.

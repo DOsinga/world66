@@ -8,6 +8,7 @@ tags:
 latitude: 6.4925
 longitude: 99.2980
 snippet: "The small, quieter beach on Ko Lipe's west side — the best place to watch the sun go down."
+score: 6.9
 ---
 
 Sunset Beach is the smallest and most laid-back of Ko Lipe's three main beaches, tucked into the north-western corner of the island. The path here cuts through coconut palms and rubber trees and the beach itself is just a few hundred metres long, fringed by a handful of basic guesthouses and one or two beach bars. Boats are rare; the area is mostly residential Urak Lawoi housing.

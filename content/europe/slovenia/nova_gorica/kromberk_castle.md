@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.0
 ---
 
 A short drive or a steep walk up the hill east of town brings you to Kromberk, a graceful 17th-century manor built by the Coronini-Cronberg family on the site of an earlier medieval fortress. The square plan with four corner towers gives it the look of a small Italianate villa rather than a defensive castle — which makes sense, since by the time it was built the front lines of the day had moved well away.

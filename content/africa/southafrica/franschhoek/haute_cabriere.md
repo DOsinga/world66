@@ -12,6 +12,7 @@ story: >
   Haute Cabrière is known for sabrage — the tradition of opening Champagne-method bottles with a sword blow to the collar.
   The cellarmaster Achim von Arnim made it part of every tasting experience, and the ceremony was performed here thousands of times over the years.
   The estate takes its name from a rocky goat pasture high on the hillside above the winery — "cabrière" from the French for goat.
+score: 8.5
 ---
 
 Haute Cabrière is one of the Franschhoek Wine Valley's most celebrated estates, built into the mountainside above the valley floor. The cellar is carved into the mountain itself — a cave carved from the rock — which maintains a constant temperature ideal for sparkling wine production. The estate specialises in Chardonnay-Pinot Noir blends in the Champagne method, producing wines that have put Franschhoek on the international map.

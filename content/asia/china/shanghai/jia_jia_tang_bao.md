@@ -3,13 +3,12 @@ address: 90 Huanghe Road, Huangpu District
 category: Restaurant
 latitude: 31.2374
 longitude: 121.4731
+score: 8.5
 snippet: Probably the best xiaolongbao in Shanghai, in a shabby Huanghe Lu shop
 tags:
 - eating_out
 - restaurant
 - old_town
-title: Jia Jia Tang Bao
-type: poi
 ---
 
 A tiny canteen with a permanent queue out the door, serving what is widely regarded as the best soup dumplings in central Shanghai. Pure pork is the safe choice; crab roe in season is the splurge. They sell out by mid-afternoon — go for lunch. No frills, no menu in English (point at the picture board), no problem.

@@ -10,6 +10,7 @@ tags:
   - historic
 story: >
   On the night of 25–26 August 1992, Serb artillery fire deliberately targeted the National Library. The building burned for three days; Sarajevo residents formed human chains to save books and manuscripts. Some 1.5 million volumes were destroyed — including irreplaceable Ottoman manuscripts and the largest collection of Bosnian periodicals in existence. The Sarajevo Haggadah survived because it had already been moved to the National Museum for safekeeping.
+score: 9.0
 ---
 
 The Vijećnica (National Library) is the most architecturally spectacular building in Sarajevo — a Moorish Revival fantasy built by the Austro-Hungarians in 1896 that stands on the banks of the Miljacka at the edge of Baščaršija. Its horseshoe arches, decorative facades, and multi-coloured stonework were designed as a deliberate visual statement: the most exotic building the Viennese architects could manage, placed at the spot where the Ottoman city and the European city met.

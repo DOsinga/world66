@@ -12,6 +12,7 @@ tags:
 title: Palacio Real
 type: poi
 url: www.patrimonionacional.es
+score: 8.9
 ---
 
 The Palacio Real is the official residence of the Spanish monarchy, though the royal family actually lives elsewhere — this one's for ceremonies and tourists. And what a building: over 3,000 rooms make it the largest functioning royal palace in Europe, bigger than Buckingham Palace or Versailles.

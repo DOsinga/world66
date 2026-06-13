@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 1.7333
 longitude: 110.3333
+score: 7.1
 ---
 
 An open-air ethnographic museum at the foot of Mount Santubong, 35 km from Kuching. The Cultural Village reconstructs full-scale dwellings of the major peoples of Sarawak — the Iban longhouse, the Bidayuh round house, the Orang Ulu chief's house, the Penan hut, the Melanau tall house, the Malay kampung, and a Chinese farmhouse — each staffed by guides from the respective community.

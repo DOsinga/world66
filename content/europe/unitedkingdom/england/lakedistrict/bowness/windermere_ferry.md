@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Windermere Ferry has been crossing at this point for over 500 years — medieval records mention a ferry here as far back as 1454. The current vessel is a double-ended chain ferry that can carry cars and passengers across the lake's narrowest point in a few minutes, connecting the busy eastern shore at Ferry Nab with the much quieter Claife side to the west."
+score: 6.9
 ---
 
 The Windermere Ferry crosses the lake at its narrowest point, linking Bowness on the eastern shore with the western bank and the road to Hawkshead and Hill Top. The crossing takes about ten minutes. It runs year-round except when strong winds make the crossing unsafe, and it carries cars, bicycles, and foot passengers.

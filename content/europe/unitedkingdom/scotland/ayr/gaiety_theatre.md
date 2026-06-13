@@ -9,6 +9,7 @@ latitude: 55.4614
 longitude: -4.6315
 sources:
   - https://en.wikipedia.org/wiki/Gaiety_Theatre,_Ayr
+score: 6.8
 ---
 
 The Gaiety Theatre is the main performing arts venue in Ayr, a Category B listed building on Carrick Street that opened in 1902. The auditorium retains its Edwardian character — plush seating, ornate plasterwork, and a traditional proscenium stage — and the theatre hosts a year-round programme of touring productions, pantomime, concerts, and comedy nights.

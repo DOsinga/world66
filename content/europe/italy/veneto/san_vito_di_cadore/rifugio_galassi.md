@@ -9,6 +9,7 @@ latitude: 46.4528
 longitude: 12.2711
 sources:
   - https://en.wikipedia.org/wiki/Antelao
+score: 7.4
 ---
 
 Rifugio Galassi sits at 2,018 metres on the western flank of Monte Antelao, roughly three to four hours above San Vito di Cadore by trail. It is the principal staging post for the two-day ascent of Antelao but draws plenty of day visitors who come simply for lunch and the views — a panorama across the Boite valley toward the Sorapiss and the pale bulk of the Marmarole range.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.8033
 longitude: 130.7066
+score: 6.9
 ---
 
 The Contemporary Art Museum Kumamoto, known locally as CAMK, occupies the third floor of the Tsuruya department store building in Shimotōri. The collection spans Japanese and international contemporary art with a particularly strong holding of works by James Turrell, Tatsuo Miyajima, and Marina Abramović — many of them site-specific commissions for the building.

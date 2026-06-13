@@ -5,6 +5,7 @@ longitude: 45.6833
 snippet: Medieval tower mausoleum with ornate geometric tilework
 title: Garabaghlar Mausoleum
 type: poi
+score: 7.9
 ---
 
 The Garabaghlar Mausoleum stands in the village of the same name in the Nakhchivan exclave, a medieval tower tomb dating to roughly the fourteenth century. Two flanking minarets, built somewhat later, mark what was once a larger spiritual complex from the late twelfth or early thirteenth century.

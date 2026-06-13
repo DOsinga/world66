@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Louis Leakey excavated Kariandusi in the 1920s and 1930s and identified it as one of the first Acheulean sites discovered in East Africa. Hand axes and cleavers found here are between 700,000 and one million years old."
+score: 8.1
 ---
 
 A few kilometres east of the lake, Kariandusi is one of the most important Stone Age sites in East Africa. Hand axes, cleavers, and other tools made of obsidian and lava lie scattered across the small excavation pits, much of it preserved roughly where it was found.

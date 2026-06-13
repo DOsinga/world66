@@ -11,6 +11,7 @@ title: National Museum of Iceland
 type: poi
 url: www.thjodminjasafn.is
 snippet: "Iceland's story from Viking settlement to the present day."
+score: 8.9
 ---
 
 The best place to make sense of how a sparsely populated volcanic rock in the North Atlantic ended up with sagas, parliaments, and Lutheran pastors. The permanent exhibition — "Making of a Nation" — runs from settlement around 870 to the present, with around two thousand objects: a Viking sword pulled out of a bog, a thirteenth-century church door carved with a battle scene, fishing implements, costume, and twentieth-century pop ephemera.

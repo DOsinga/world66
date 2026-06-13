@@ -8,6 +8,7 @@ snippet: A 12-metre natural limestone arch perched on the eastern cliff above th
 latitude: 40.5517
 longitude: 14.2533
 story: "The Arco Naturale was formed by wave action on ancient limestone before the sea level dropped. It now sits 60 metres above the water, left inland by the retreating coastline — a reminder that the island's geography was quite different in geological prehistory."
+score: 7.5
 ---
 
 The Natural Arch is one of Capri's most striking geological features: a 12-metre natural limestone arch that appears suddenly at the end of a cliff walk from Capri town, framing a view straight out to sea. It is a 20-minute walk from the Piazzetta through winding lanes that pass some of the island's oldest residential areas.

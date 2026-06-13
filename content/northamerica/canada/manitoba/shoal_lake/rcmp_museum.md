@@ -11,6 +11,7 @@ story: >
   pushed into the prairies. The site served one of the longest continuously operating police detachments
   in Canadian history — a fact that makes this modest museum a genuine piece of frontier police history,
   not just a replica.
+score: 5.1
 ---
 
 The Shoal Lake Mounted Police Museum in Lakeview Park is Manitoba's official museum dedicated to the North-West Mounted Police and its successor the RCMP. The museum building itself is a faithful replica of the original NWMP barracks built at the south end of Shoal Lake in 1875 — one of the earliest police outposts on the Canadian prairie.

@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
 snippet: "Roaring 70-foot waterfall in coffee country, eight kilometres from Madikeri."
+score: 7.0
 ---
 
 Abbey Falls drops about 70 feet through a notch in the hills, surrounded by spice and coffee plantations. A short concrete path from the gate leads down to a hanging bridge from which you can watch the cascade head-on — at the height of the monsoon the spray reaches you across the gorge.

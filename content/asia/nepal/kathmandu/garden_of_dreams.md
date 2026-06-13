@@ -15,6 +15,7 @@ story: >
   restoration project begun in 2000 took six years and returned it to something close to
   its original state. The neoclassical pavilions and amphitheatre now host evening concerts
   and events, and the garden is one of the few genuinely tranquil spaces in central Kathmandu.
+score: 7.0
 ---
 
 The Garden of Dreams is a six-garden neoclassical complex next to the Kaiser Mahal, just east of Thamel, built by Field Marshal Kaiser Shamsher in the 1920s and beautifully restored in the 2000s. It is one of the quietest and most pleasant places in Kathmandu — a real oasis within walking distance of all the main Thamel hotels. The wrought-iron gates, the pergolas, the lily ponds, and the curved colonnades all feel slightly surreal given the noise and traffic just outside the walls.

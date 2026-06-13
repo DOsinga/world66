@@ -7,6 +7,7 @@ tags:
   - church
 title: Church of the Nativity
 type: poi
+score: 5.9
 ---
 
 The Cathedral of the Nativity of Christ is the largest church in Tiraspol and the seat of the Diocese of Tiraspol and Dubăsari, a diocese of the Russian Orthodox Church. The building is relatively new — the current structure dates from the post-Soviet revival of the 1990s and 2000s — but it occupies the site of an older church and is architecturally in the traditional Russian Orthodox style: gold domes, whitewashed walls, elaborate interior icons.

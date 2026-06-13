@@ -6,6 +6,7 @@ longitude: 48.4016
 tags:
   - things_to_do
   - museum
+score: 6.2
 ---
 
 The Aqsu History Museum (Tarix Diyarşünaslıq Muzeyi) is the town's small collection of archaeological finds, ethnographic objects, and historical photographs covering the Aqsu rayon. Most of the exhibits relate to the medieval Shirvanshah period, when this part of the Caucasus was an important Silk Road crossing, and to the 18th-century city of New Shemakha whose ruins lie just east of town.

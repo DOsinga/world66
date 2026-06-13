@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 5.9167
 longitude: 102.7333
+score: 8.6
 ---
 
 The Perhentians have a well-established dive industry with a dozen or more PADI-affiliated dive centres on both islands offering learn-to-dive courses, fun dives, and specialty certifications. Open Water courses run about RM800–1000 all-inclusive and can be completed in three to four days. The Perhentians are considered one of the better-value places to get certified in Southeast Asia, combining low course costs with genuinely good dive conditions.

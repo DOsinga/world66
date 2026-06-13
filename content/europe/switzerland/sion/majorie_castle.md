@@ -9,6 +9,7 @@ latitude: 46.2344
 longitude: 7.3613
 sources:
   - https://en.wikipedia.org/wiki/Majorie_Castle
+score: 7.4
 ---
 
 Majorie Castle is a medieval episcopal residence on the slope below Valère, now housing the Cantonal Museum of Fine Arts (Musée Cantonal des Beaux-Arts). The building itself is worth the visit — a complex of medieval and early modern structures that served as the bishops' winter palace for centuries.

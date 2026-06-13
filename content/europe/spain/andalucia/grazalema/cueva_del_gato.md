@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.3
 ---
 
 A spring cave in the limestone east of Grazalema, where an underground river bursts out of the rock into a pool of cold blue-green water. The spot is a popular summer swimming hole — chilly, deep, and dramatic, with the cave mouth black against the pale cliffs.

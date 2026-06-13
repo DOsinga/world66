@@ -8,6 +8,7 @@ tags:
   - day_trips
 title: Noul Neamț Monastery (Day Trip)
 type: poi
+score: 8.0
 ---
 
 Noul Neamț Monastery sits in a small village called Chitcani about 15 km south of Tiraspol, and it is one of the most impressive religious complexes in Transnistria. Founded in 1864 by monks from the Neamț Monastery in Romania, the site grew into a substantial complex of churches, bell towers, and monastic buildings arranged around a formal courtyard. The main church is a solid 19th-century structure with an ornate interior; several smaller chapels and a distinctive multi-storey bell tower surround it.

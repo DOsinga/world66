@@ -12,6 +12,7 @@ tags:
 - wicker_park
 title: Double Door
 type: poi
+score: 2.5
 ---
 
 Double Door was one of Chicago's best-loved live music venues, tucked into the heart of Wicker Park at 1572 N Milwaukee Ave. The room was intimate enough that every spot felt close to the stage, and the booking leaned toward indie rock, punk, and local acts on the rise. It was the smaller sibling of the Metro, and for two decades it was where you went to see bands before they got big.

@@ -10,6 +10,7 @@ tags:
 - museum
 title: Musée de la Mode
 type: poi
+score: 5.3
 ---
 
 Marseille's fashion museum, housed on the ground floor of a handsome building on La Canebière. Since absorbing the Espace Mode Méditerranée in 1993, it has built a solid collection spanning 1930s couture to contemporary Mediterranean fashion. The rotating exhibitions are well-curated and surprisingly engaging even if fashion isn't your thing. Open daily except Sunday, noon to 7 p.m.

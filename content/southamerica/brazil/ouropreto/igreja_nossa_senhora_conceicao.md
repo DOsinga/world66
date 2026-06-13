@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Aleijadinho's parish church and burial place, with a small museum dedicated to him"
+score: 8.5
 ---
 
 The parish church of Antônio Dias, on a steep rise on the eastern side of town. It was the home parish of Aleijadinho — both his father, the architect Manuel Francisco Lisboa, and the master himself are buried beneath its floor.

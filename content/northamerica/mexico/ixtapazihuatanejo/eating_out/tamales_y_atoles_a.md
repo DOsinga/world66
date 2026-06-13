@@ -8,6 +8,7 @@ address: "Calle Ejido 38, at Calle Vicente Guerrero"
 phone: "554-7373"
 latitude: 17.6393
 longitude: -101.5518
+score: 6.7
 ---
 
 The family-owned Tamales Y Atoles Any's has served traditional Mexican food for almost 20 years. Located in El Centro of Zihuatanejo, the bright yellow building with its tall thatched roof is easy to spot.

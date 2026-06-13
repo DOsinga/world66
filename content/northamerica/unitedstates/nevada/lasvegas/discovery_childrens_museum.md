@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - downtown
+score: 6.6
 ---
 
 The DISCOVERY Children's Museum is a 58,000-square-foot, three-storey kids' museum in downtown Symphony Park, next to the Smith Center. Nine themed exhibits cover everything from water play and engineering to a "Toddler Town" for under-fives and an art studio. The signature exhibit is The Summit, a 70-foot vertical climbing structure that runs from the ground floor to a fourth-storey skylight, designed so each level is a different theme.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.6261
 longitude: 87.5072
+score: 7.5
 ---
 
 Digha's beach is the reason the town exists — a wide, hard-packed strip of sand on the Bay of Bengal, gentle enough that the sea stays shallow for nearly a kilometre out. The flatness of the coastline means sunrise and sunset are both fully visible from the beach, which faces roughly south. Locals have a particular enthusiasm for this: the sunrise crowds at Digha are significant.

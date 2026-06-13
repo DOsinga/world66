@@ -10,6 +10,7 @@ tags:
 neighbourhood: Mexicantown
 title: Taqueria El Rey
 type: poi
+score: 7.0
 ---
 
 Taqueria El Rey on Vernor in Mexicantown is one of the better cheap-and-cheerful taco stops in southwest Detroit. The barbacoa (slow-cooked goat) is the order — served with consommé for dipping the soft tortillas. The al pastor and lengua are also good. The room is small, the menu in Spanish, and the place busy at lunch.

@@ -8,6 +8,7 @@ snippet: "Museum dedicated to Tubarão's most celebrated painter, with 72 canvas
 latitude: -28.4762
 longitude: -49.0096
 story: "Willy Zumblick (1913–2008) painted through nearly a century of Tubarão life. Among his most significant works are paintings of the catastrophic 1974 flood — the worst natural disaster in Santa Catarina's history — that killed hundreds and destroyed much of the city. He painted what he had witnessed with the eye of a documentary filmmaker and the hand of a classically trained artist."
+score: 7.0
 ---
 
 Willy Zumblick was Tubarão's most important artist — a painter who spent his life recording the people, landscapes, and events of southern Santa Catarina in a style that combined European academic training with direct observation of regional life. The museum built in his honour in 2000 holds 72 canvases, eight sculptures, and an archive of medals, certificates, and tributes received over a career spanning more than five decades.

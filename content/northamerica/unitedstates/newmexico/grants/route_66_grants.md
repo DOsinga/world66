@@ -8,6 +8,7 @@ tags:
 latitude: 35.1473
 longitude: -107.8500
 snippet: Intact stretch of Route 66 through downtown, with original neon signs, diners, and a drive-through arch
+score: 6.5
 ---
 
 Grants sits on one of the better-preserved stretches of historic Route 66 in New Mexico. The original alignment runs through downtown as Santa Fe Avenue, flanked by fading neon signs for motels and cafes that served the westbound migration of the post-war decades. The road was once the main route for Okies fleeing the Dust Bowl and Californians heading east; Grants grew to serve them all.

@@ -7,6 +7,7 @@ snippet: "Sasanian-era hilltop fortress on the eastern edge of Kerman"
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 Qaleh Ardeshir is a sprawling fortified site on a rocky outcrop east of the city, traditionally attributed to the 3rd-century Sasanian king Ardeshir I (though most of the visible structures are later). The walls, watchtowers, and the cisterns inside the keep are weathered but legible, and the climb up is short — twenty minutes — with a sweeping view over Kerman and the surrounding plain from the top.

@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Altstadt
 type: poi
+score: 8.8
 ---
 
 The Altstadt — "the longest bar in the world" — is Düsseldorf's compact old quarter on the Rhine, famous for its density of pubs and breweries. More than 260 establishments are packed into a few streets, each serving the local Altbier: a dark, top-fermented ale that comes in small 0.2-litre glasses and is replenished by blue-aproned waiters (Köbes) without being asked.

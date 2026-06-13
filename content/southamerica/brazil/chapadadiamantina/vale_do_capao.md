@@ -8,6 +8,7 @@ latitude: -12.6500
 longitude: -41.4833
 story: >
   Vale do Capão became one of Brazil's original counterculture destinations in the 1970s, when it was settled by hippies, mystics, and people fleeing the military dictatorship. The colony grew into a small permanent community with a culture distinctly different from the rest of Bahia, and the valley retains something of that alternative spirit today — yoga studios, vegetarian restaurants, and organic farms coexist with the more conventional ecotourism infrastructure.
+score: 8.2
 ---
 
 Vale do Capão is a broad valley on the western side of the Chapada plateau, accessible from Lençóis by a rough road over the Serra do Sincorá or by a spectacular two-day trek through the park. The valley has a small village (Caeté-Açu, known as Capão) with pousadas and restaurants, and serves as an alternative base for exploring the western side of the park.

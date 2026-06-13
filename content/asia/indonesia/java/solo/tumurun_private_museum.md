@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -7.5706
 longitude: 110.8165
+score: 7.1
 ---
 
 Tumurun is a private art museum established by a Solo batik business family in a beautifully converted colonial building in the city centre. The collection focuses on modern Indonesian art, with works by major national figures alongside a strong selection of contemporary pieces. It is one of the better private collections of Indonesian art open to the public.

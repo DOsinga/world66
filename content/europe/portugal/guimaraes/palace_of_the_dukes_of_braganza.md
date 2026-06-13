@@ -9,6 +9,7 @@ tags:
   - museum
   - historic
 story: "The Salazar regime restored the ruined palace in the 1930s to serve as a presidential residence in the north — a piece of fascist medievalism that explains the somewhat over-restored feel of the place today."
+score: 8.6
 ---
 
 A 15th-century manor built by Afonso, the illegitimate son of King João I, in a Burgundian-influenced style that has nothing in common with the rest of the city — brick chimneys lined up like dominoes on the roof, slate-tiled gables, deep cloisters. The dukes only lived here for a generation before moving to Vila Viçosa in the Alentejo; the building was a ruin for centuries before the Estado Novo's heavy-handed restoration.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Street of workshops where local gunsmiths copy almost any firearm to order"
 story: "The bazaar is said to have got going in the 1890s, after the British annexed nearby Kohat and frontier raids made firearms a scarce and prized commodity. The Adam Khel Afridi tribe began reverse-engineering Lee-Enfield rifles, and the trade has never stopped."
+score: 8.3
 ---
 
 The gun bazaar is the entire reason most outsiders have ever heard of Darra Adam Khel. Several hundred small workshops line the main road and the lanes behind it, turning out almost any firearm a customer can describe: AK-style rifles, Mauser pistols, Glock and Beretta copies, shotguns, pen guns, even rocket-launcher knock-offs. The work is done with lathes, files, and hand tools, much of it by teenagers learning the family trade.

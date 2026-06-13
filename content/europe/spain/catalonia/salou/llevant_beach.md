@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.077
 longitude: 1.144
+score: 7.0
 ---
 
 Llevant Beach is Salou's largest and most central beach — a long arc of sand backed by the Passeig Jaume I promenade. The beach has all the resort facilities: sun lounger hire, pedalos, windsurfing instruction, a first-aid post, and regular bus connections. The promenade itself is pleasantly wide, well-planted with palms, and active with café terraces through the evening.

@@ -12,6 +12,7 @@ tags:
 title: Castle Island
 type: poi
 url: www.mass.gov
+score: 7.7
 ---
 
 Castle Island is one of the Boston Harbor Islands that is not exactly an island anymore -- it sticks out into the harbor but is connected to a residential part of South Boston. It is home to Fort Independence, built in the early eighteenth century and used in the War of 1812. The fort is open some weekends in summer for tours.

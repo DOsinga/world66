@@ -7,6 +7,7 @@ tags:
 title: Cambodia Living Arts
 type: poi
 snippet: Performing arts centre reviving the music and dance lost to the Khmer Rouge
+score: 7.5
 ---
 
 Founded by survivor Arn Chorn-Pond, Cambodia Living Arts works to revive traditional Cambodian performing arts — much of which was nearly wiped out when 90% of the country's classical musicians and dancers were killed under the Khmer Rouge. The centre runs a programme of training, performances and a regular evening showcase aimed at visitors.

@@ -14,6 +14,7 @@ story: >
   of Malta in World War II when residents sheltered underground as Valletta was bombarded
   from the air. Some sections that had been forgotten for decades were only rediscovered
   during infrastructure work in the 1990s and 2000s.
+score: 7.2
 ---
 
 Beneath Valletta's streets runs a network of tunnels carved from the soft globigerina limestone, some dating back to the original construction of the city in the 1560s. The tunnels served multiple purposes over the centuries — drainage, movement between parts of the fortifications, and air-raid shelter during the Second World War. Guided underground tours now explore portions of this forgotten infrastructure, giving a very different perspective on a city more often seen from above.

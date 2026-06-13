@@ -9,6 +9,7 @@ tags:
 - food
 title: Norky's
 type: poi
+score: 6.3
 ---
 
 Norky's is Peru's homegrown answer to fast food, with well over a hundred branches across Lima and other cities. The star of the menu is pollo a la brasa -- rotisserie chicken served with fries and a generous portion of salad. It is inexpensive, reliably good, and far more satisfying than any imported chain.

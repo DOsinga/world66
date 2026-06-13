@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6053
 longitude: -8.4133
+score: 6.0
 ---
 
 Mouchão Park occupies a small island in the Rio Nabão at the centre of Tomar, reached by a footbridge from either bank and used by the town for picnics, evening walks, and general relaxation. The park is planted with plane trees and has a working watermill — an old hydraulic wheel that was once used to irrigate the fields of the town — as well as the remains of a few other industrial structures from the era when the river was more economically useful than it is today.

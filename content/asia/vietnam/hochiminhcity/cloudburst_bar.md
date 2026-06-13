@@ -10,6 +10,7 @@ tags:
 - bar
 title: Cloudburst Bar
 type: poi
+score: 5.9
 ---
 
 A late-night bar on De Tham Street in the heart of Saigon's backpacker district. The music leans toward indie, rock, and dance, and the atmosphere is relaxed and welcoming. Drinks are cheap by District 1 standards, with generous pours.

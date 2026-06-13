@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 16.2033
 longitude: 120.0283
+score: 7.4
 ---
 
 Governor Island is the most popular stop in the Hundred Islands and the most developed. It has a cave system open to visitors — a short swim-through tunnel at low tide leads into a chamber where stalactites hang from the ceiling — and a concrete staircase winds up to a viewpoint over the surrounding islands. From the top you get a clear sense of the park's scale: dozens of mushroom-shaped islets stretching towards the horizon in both directions.

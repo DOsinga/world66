@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 snippet: "Working elephant training camp on the Kaveri, accessible by coracle."
+score: 5.9
 ---
 
 Dubare is a Forest Department elephant camp on the banks of the Kaveri river, about 30km from Madikeri. Many of the elephants used in Mysore's Dasara festival are trained here, and visitors can watch the morning bath and feeding routines or — for a small fee — help scrub down an elephant in the river.

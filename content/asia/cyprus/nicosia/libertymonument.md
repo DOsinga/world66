@@ -9,6 +9,7 @@ tags:
 - sight
 title: Liberty Monument
 type: poi
+score: 5.0
 ---
 
 This bronze monument stands at the corner of Nikoforos Phokas and Koraes Streets in central Nicosia, commemorating the release of EOKA (Ethniki Organosis Kyprion Agoniston) fighters in 1959. EOKA was the Greek Cypriot nationalist organisation that waged a guerrilla campaign against British rule in the 1950s, seeking union with Greece. The monument depicts a female figure of Liberty unlocking the chains of prisoners, and remains an emotionally charged symbol for many Greek Cypriots. It sits in the old part of the city, within easy walking distance of the Green Line and the Venetian walls.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Vada Talav
 type: poi
+score: 5.8
 ---
 
 Vada Talav is one of the old water bodies that helped sustain Champaner. Reservoirs, tanks, and stepwells were not decorative extras here; they were the infrastructure that made a capital possible.

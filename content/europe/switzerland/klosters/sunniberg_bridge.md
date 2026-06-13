@@ -7,6 +7,7 @@ tags:
 latitude: 46.885392
 longitude: 9.856625
 story: Completed in 1998, the Sunniberg Bridge carries the Klosters bypass road on a graceful curve across the Landquart valley on slender pylons that barely interrupt the mountain view. Engineer Christian Menn, who also designed Berne's Felsenau viaduct, kept the structure so thin and low that it reads more as a drawing than a bridge. The asymmetric span arrangement — necessary because the road curves — required a specialised casting sequence that had never been attempted at this scale.
+score: 6.7
 ---
 
 The Sunniberg Bridge spans the Landquart river valley just west of Klosters on a long, elegant curve. Designed by the renowned Swiss structural engineer Christian Menn and completed in 1998, it carries the Klosters bypass road and is considered one of the most beautiful highway bridges in the world. The International Association for Bridge and Structural Engineering has recognised it as an outstanding structure.

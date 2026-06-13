@@ -7,6 +7,7 @@ snippet: Bookshop, café and bar in one — a Trondheim favourite for slow after
 tags:
 - bars_and_cafes
 - cafe
+score: 5.8
 ---
 
 A combined bookshop, café and bar on Kjøpmannsgata, Sellanraa is the kind of place Trondheim does very well — high ceilings, wooden floors, a small but well-chosen selection of books, and good coffee. In the evening the lighting drops and it turns into a relaxed wine and beer bar, often with live music or readings in the back room.

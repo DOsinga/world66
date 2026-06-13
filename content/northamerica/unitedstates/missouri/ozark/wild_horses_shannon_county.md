@@ -15,6 +15,7 @@ story: >
   riverways can never be removed or fenced. They are believed to descend from
   Depression-era farm horses turned loose when families could no longer afford
   to keep them.
+score: 6.9
 ---
 
 A small population of free-roaming horses lives in the bottoms along the Current River and the Jacks Fork. There are usually two or three distinct bands, totaling around thirty animals. They graze on the open meadows between the river bluffs and forest and move from one bottom to another over the seasons.

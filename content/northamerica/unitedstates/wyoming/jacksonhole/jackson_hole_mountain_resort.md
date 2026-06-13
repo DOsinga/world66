@@ -13,6 +13,7 @@ story: >
   Corbet's Couloir run, which requires a leap off a cornice to enter, has been
   called the most famous extreme ski run in America. A mogul competition has been
   held there since 1976.
+score: 8.1
 ---
 
 Jackson Hole Mountain Resort, in Teton Village 18 km west of the town of Jackson, is consistently rated among the best ski areas in North America for challenging terrain and reliable snow. The resort sits at the base of Rendezvous Mountain, with 133 named runs, 2,500 acres of terrain, and a mix of groomed cruisers, steep chutes, and serious backcountry access. The terrain is weighted heavily toward advanced and expert runs — if you're a beginner, this is not the ideal resort, though there are learner areas.

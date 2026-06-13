@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 15.2770
 longitude: 73.9195
+score: 6.4
 ---
 
 The shacks along Colva beach are not restaurants in any formal sense — they're collections of plastic chairs and low tables set out on the sand, with a small kitchen behind. The menus are almost identical: pomfret, king prawns, tiger prawns, kingfish, all grilled or fried to order, served with rice and a wedge of lime. The fish is genuinely fresh, usually bought from the fishing boats that come in along this stretch of coast.

@@ -9,6 +9,7 @@ latitude: 55.4119
 longitude: -131.7000
 sources:
   - https://en.wikipedia.org/wiki/Ward_Lake_(Alaska)
+score: 6.0
 ---
 
 Ward Lake is a small lake in Tongass National Forest about six miles north of downtown, surrounded by old-growth Sitka spruce and western hemlock. The recreation area has a one-mile loop trail around the lake — flat, accessible, and one of the better short walks in the Ketchikan area. The forest is dense and genuinely old: some of the trees are several hundred years old, draped in moss, with a cathedral quality in the low light.

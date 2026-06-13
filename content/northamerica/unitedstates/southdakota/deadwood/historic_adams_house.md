@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 8.6
 ---
 
 A short walk from the Adams Museum, the Historic Adams House is a 1892 Queen Anne mansion that was sealed up by its second owner Mary Adams in the 1930s and left untouched for half a century. The result is one of the most authentically preserved Victorian interiors in the American West — original furniture, family photographs, light fixtures, even half-used soap in the bathroom.

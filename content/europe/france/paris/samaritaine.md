@@ -12,6 +12,7 @@ tags:
 - leshalles
 title: Samaritaine
 type: poi
+score: 7.2
 ---
 
 La Samaritaine is one of the grand Parisian department stores, reopened in 2021 after a 16-year renovation. The building itself is the real draw -- a mix of Art Nouveau and Art Deco architecture, with a breathtaking glass ceiling and ornate ironwork in the original wing. The rooftop terrace offers one of the best free panoramas in the city, taking in Notre-Dame, the Louvre, and the Seine in a single sweep. The shopping is firmly upmarket, but you don't need to buy anything to enjoy the building.

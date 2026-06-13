@@ -9,6 +9,7 @@ tags:
 - restaurant
 - vieille_ville
 neighbourhood: Vieil Antibes
+score: 5.8
 ---
 
 Le Michelangelo on Rue des Cordiers is the kind of place that has not changed much in decades — checked tablecloths, a printed menu, an unembarrassed roster of Italian and Provençal classics. The cooking is honest rather than refined: oversized antipasti, well-made pasta, grilled fish from the morning's catch.

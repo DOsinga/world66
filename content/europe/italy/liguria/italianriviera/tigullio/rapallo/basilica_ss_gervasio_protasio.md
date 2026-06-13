@@ -8,6 +8,7 @@ latitude: 44.3510
 longitude: 9.2296
 sources:
   - https://en.wikipedia.org/wiki/Rapallo
+score: 7.1
 ---
 
 The Basilica of Saints Gervasius and Protasius stands on the main piazza in the town centre, a short walk from the seafront. The current building dates from the seventeenth century, though there has been a church on this site since at least the eleventh century. The interior is baroque in character — frescoed ceilings, carved altars, and a collection of devotional paintings — and forms the civic and religious heart of the old town.

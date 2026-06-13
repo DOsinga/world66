@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 16.7010
 longitude: 74.2320
+score: 7.4
 ---
 
 Kolhapuri misal is the city's signature breakfast and snack — a bowl of sprouted beans and lentils in a fiery red kat (gravy), topped with crispy farsan, chopped raw onion, and lime, served with bread rolls (pav). The Kolhapur version is notably hotter than the Pune or Mumbai variants, with a deeper colour from local chilies.

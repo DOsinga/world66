@@ -14,6 +14,7 @@ story: >
   Öræfajökull — occasionally erupt beneath the ice, triggering jökulhlaups
   (glacial outburst floods) that can release more water in a day than the Amazon
   River does in a year.
+score: 6.5
 ---
 
 Vatnajökull National Park was established in 2008 and has since been expanded to cover roughly 14,000 square kilometres — about 14% of Iceland — making it one of the largest national parks in Europe. The park encompasses the Vatnajökull ice cap and its outlet glaciers, including Breiðamerkurjökull (which feeds Jökulsárlón), as well as the subglacial volcanoes beneath the ice and the dramatic landscapes around the glacier margins.

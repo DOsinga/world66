@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Ville Nouvelle (Taza-Bas)
 type: poi
+score: 5.6
 ---
 
 **Taza-Bas** (the Ville Nouvelle, or "Lower Town") spreads below the medina promontory and was developed principally during the French Protectorate period from the early 20th century. It functions as the commercial and administrative centre of modern Taza: the train station, the main market, the bus terminal, and most of the hotels and restaurants are here. The streets are wider and less atmospheric than the medina above but give a better sense of everyday Moroccan life away from the tourist circuit.

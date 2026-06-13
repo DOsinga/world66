@@ -12,6 +12,7 @@ story: >
   relationship between the two countries for decades. It ended English
   ambitions in the Spice Islands and left the Dutch monopoly over cloves
   and nutmeg essentially unchallenged for the next century.
+score: 7.5
 ---
 
 Fort Victoria is the oldest surviving Portuguese fort in Ambon and the centre of the city's colonial history. Built by the Portuguese in 1575, it was captured by the Dutch East India Company (VOC) in 1605 and expanded into the administrative heart of their spice empire in the Maluku archipelago.

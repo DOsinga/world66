@@ -13,6 +13,7 @@ admission: "€12 full, €6 reduced"
 url: "www.memorialeshoah.it"
 story: >
   The memorial occupies the underbelly of Milano Centrale station — the platform where deportation trains left for Auschwitz between 1943 and 1945. The track is preserved as found: the same platform, the same gap between train and edge, the same darkness. At least 8,000 Italian Jews passed through here. The survival of this space in an active station is a strange and poignant accident of urban history.
+score: 7.8
 ---
 
 A Holocaust memorial opened in 2013 in the underground levels of Milano Centrale railway station, built around the actual platform (Binario 21 — Track 21) from which Jews were deported to Auschwitz under the Nazi occupation. The platform was sealed after the war and remained unused; its preservation allows the memorial to use authentic space rather than reconstruction.

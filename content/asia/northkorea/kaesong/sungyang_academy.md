@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 37.9739
 longitude: 126.5678
+score: 7.5
 ---
 
 Sungyang Hall is a Confucian academy founded in the 14th century, on the lower slopes of Mt Janam in the eastern part of Kaesong. The compound is small but well preserved: a walled courtyard, a main lecture hall with painted beams, and a few attached buildings used for student dormitories and the housing of ritual tablets.

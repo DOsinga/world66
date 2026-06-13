@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 41.2160
 longitude: -111.8580
+score: 8.7
 ---
 
 Snowbasin, on the southern slopes above the Ogden Valley, is the most serious of the three ski resorts accessible from Huntsville. The resort hosted the men's and women's downhill and Super-G events at the 2002 Salt Lake City Winter Olympics, and the gondola and facilities were substantially upgraded for the games. The terrain is extensive — around 3,000 acres — with runs suited to all levels, though the mountain's reputation tends toward intermediate and advanced skiers.

@@ -13,6 +13,7 @@ story: >
   to southern Alberta. His son Elliott Galt built the irrigation canals that transformed the region 
   from open prairie into productive farmland, and much of the agricultural wealth of Lethbridge 
   today traces back to their work.
+score: 8.4
 ---
 
 The Galt Museum sits at the edge of the Oldman River valley on Scenic Drive, overlooking the coulee and the river below. It is the largest museum in southern Alberta, and its collection covers the history of Lethbridge and the surrounding region from its earliest Indigenous inhabitants through the coal mining era, the Japanese-Canadian community, and the development of irrigation agriculture.

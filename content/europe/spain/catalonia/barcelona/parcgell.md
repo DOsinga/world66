@@ -18,6 +18,7 @@ tags:
 - architecture
 title: Parc Güell
 type: poi
+score: 9.4
 ---
 
 Gaudí's hilltop park is one of Barcelona's most visited sites, and for good reason. Commissioned by industrialist Eusebi Güell as a residential garden city, the project was a commercial failure but an artistic triumph. The main terrace, lined with a serpentine mosaic bench, offers sweeping views over the city to the sea. Below it, the forest of tilted stone columns in the Hypostyle Hall feels like walking through a geological dream.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: -8.198
 longitude: 115.131
 story: The drop is forty metres straight down into a green pool. The walk in from the road is short, through clove and coffee plantations, and the path crosses a footbridge that frames the falls.
+score: 7.0
 ---
 
 Air Terjun Git Git is the best-known waterfall in north Bali, about eleven kilometres south-east of Lovina on the road climbing towards Bedugul. The main fall plunges forty metres in a single drop and there is a swimmable pool at the base — bring a swimsuit if the weather is warm.

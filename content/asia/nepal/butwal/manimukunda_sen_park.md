@@ -9,6 +9,7 @@ latitude: 27.7063
 longitude: 83.4552
 sources:
   - https://en.wikipedia.org/wiki/Manimukunda_Sen_Park
+score: 5.5
 ---
 
 Manimukunda Sen Park, locally known as Phulbari (meaning "flower garden"), is a historic public garden in the central part of Butwal, named after Manimukunda Sen, a 17th-century ruler of the Palpa Sen dynasty who controlled the Butwal area. The park has a small pond, ornamental plantings, and a pleasant atmosphere that makes it a popular spot for local families in the evenings.

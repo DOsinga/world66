@@ -15,6 +15,7 @@ story: >
   surpassed, the capitalist West. Workers reportedly laboured through the
   night under floodlights to finish it on time for the anniversary of the
   October Revolution.
+score: 9.3
 ---
 
 Derzhprom — short for Budynok Derzhavnoi Promyslovosti, or House of State Industry — is the defining building of Kharkiv and one of the finest examples of Soviet Constructivist architecture anywhere. Three towers connected by elevated glass-enclosed walkways form a unified complex that looms over Freedom Square like a horizontal skyscraper, its stark concrete geometry softened only slightly by the enormous glazed walkway bridges.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The fortress was built by Genoa after it conquered Savona, deliberately covering part of the old medieval city and its cathedral quarter. In the nineteenth century Giuseppe Mazzini was imprisoned here, turning a symbol of Genoese control into a stop on Italy's road to unification.
+score: 8.5
 ---
 
 Priamar Fortress dominates the headland above Savona’s port, a broad-shouldered sixteenth-century citadel built to control the city as much as to defend it. Walk its ramparts for the clearest view of Savona’s shape: harbour below, old town inland, mountains rising almost immediately behind the coast.

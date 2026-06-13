@@ -10,6 +10,7 @@ latitude: 43.1274
 longitude: 12.1151
 story: >
   In 217 BC, Hannibal's Carthaginian army ambushed a Roman force under Consul Flaminius along the northern shore of this lake. Roughly 15,000 Romans were killed in what remains one of the worst defeats in Roman military history — so many soldiers died in the shallows that the stream running into the lake is still called Sanguineto, "little blood river."
+score: 8.5
 ---
 
 Lake Trasimeno is the largest lake on the Italian peninsula south of the Po Valley, and it defines the landscape around Magione. The lake is shallow and warm, dotted with three islands — Isola Maggiore, Isola Minore, and Isola Polvese — and encircled by olive groves, reed beds, and small fishing villages.

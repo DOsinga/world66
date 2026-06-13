@@ -10,6 +10,7 @@ tags:
 title: Children's Museum of Phoenix
 type: poi
 url: childrensmuseumofphoenix.org
+score: 6.4
 ---
 
 Set inside the 1913 Monroe School building downtown, the Children's Museum of Phoenix is geared at kids under ten and works wonderfully on the kind of triple-digit afternoon that makes outdoor sightseeing impossible. The three-storey climber that runs through the middle of the building is the centrepiece — a chaotic web of ramps, tubes, and platforms that adults can also clamber through if they fit.

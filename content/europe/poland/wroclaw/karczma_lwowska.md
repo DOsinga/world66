@@ -7,6 +7,7 @@ tags:
 latitude: 51.1107
 longitude: 17.0317
 address: "Rynek 4, 50-101 Wrocław"
+score: 5.8
 ---
 
 A traditional Polish-Galician restaurant on the Rynek, named after Lwów (now Lviv), the historic Polish-Ukrainian city from which many of Wrocław's post-war population came. The menu reflects this — Galician-style pork dumplings, beef-and-mushroom paszteciki, Lvov-style coffee — alongside the rest of the Polish classics.

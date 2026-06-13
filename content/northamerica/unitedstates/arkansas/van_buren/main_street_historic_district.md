@@ -9,6 +9,7 @@ latitude: 35.43444
 longitude: -94.35417
 story: >
   Van Buren's Main Street survived the Civil War largely intact — a rarity for an Arkansas river town. Union forces occupied Van Buren in December 1862 and again in 1863, using the town as a supply base and headquarters. The buildings that line Main Street today were built primarily in the 1870s and 1880s, once the town recovered from wartime disruption and the post-war decline of river traffic.
+score: 8.5
 ---
 
 The Van Buren Historic District covers eight blocks of Main Street between 6th and 14th Streets, with a concentration of well-preserved Victorian commercial buildings that give the town one of the more coherent nineteenth-century streetscapes in western Arkansas. Most buildings date from the 1870s to 1900 and are now occupied by antique dealers, specialty shops, cafes, and galleries.

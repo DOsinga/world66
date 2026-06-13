@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.0167
 longitude: 23.1667
+score: 6.8
 ---
 
 The Saxby Lighthouse marks the western tip of Vormsi, a slender cast-iron tower from 1864 still painted in the old red-and-white bands. The structure was prefabricated and shipped here by sea — at the time one of the more advanced engineering projects in the Baltic.

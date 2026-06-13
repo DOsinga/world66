@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - donji_grad
+score: 6.6
 ---
 
 Vinodol has been on Teslina Street for over forty years and remains the standard recommendation for traditional Croatian cooking in the centre. The signature dish is meat *ispod peke* — lamb, octopus, or veal slow-cooked for hours under a heavy cast-iron bell covered in hot embers. The result is fall-apart tender, with crisp potatoes underneath.

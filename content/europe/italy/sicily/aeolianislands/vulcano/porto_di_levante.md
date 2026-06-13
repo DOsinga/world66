@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.4044
 longitude: 14.9618
+score: 5.9
 ---
 
 The main harbour and the only real settlement on Vulcano sits between two volcanic cones — the active Gran Cratere to the south and the older Vulcanello peninsula to the north. Everything on the island — the ferry dock, the handful of restaurants, the shops selling volcanic stone trinkets — is within a few minutes' walk.

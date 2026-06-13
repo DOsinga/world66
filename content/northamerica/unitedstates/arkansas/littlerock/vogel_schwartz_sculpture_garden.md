@@ -6,6 +6,7 @@ longitude: -92.2617
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Vogel Schwartz Sculpture Garden runs along the Arkansas River Trail between the Clinton Presidential Center and the river, displaying over 90 large-scale sculptures in a free outdoor setting. The collection ranges from figurative bronzes to abstract steel and stone works, installed along a mile of paved path with the river and the downtown skyline as backdrop.

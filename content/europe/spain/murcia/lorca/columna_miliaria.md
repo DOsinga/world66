@@ -7,6 +7,7 @@ tags:
 - sight
 title: Columna Miliaria
 type: poi
+score: 5.9
 ---
 
 The Columna Miliaria is a Roman milestone, dating from around 9 BCE, that once

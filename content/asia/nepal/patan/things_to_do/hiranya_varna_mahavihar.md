@@ -15,6 +15,7 @@ story: >
   tending the main shrine and ringing the bells. The boy, never older than about
   twelve, must be pre-pubescent — the role ends when he reaches adolescence.
   This practice, which dates back centuries, is still observed today.
+score: 8.5
 ---
 
 The Golden Temple — officially Hiranya Varna Mahavihar, or Kwa Bahal — is a working Buddhist monastery a few minutes' walk north of Durbar Square. Its three-storey gilded facade is smothered in intricate metalwork: dragons, elephants, deities, and bodhisattvas cast in copper and gold. The inner courtyard holds a small silver and gold shrine to Shakyamuni Buddha. Shoes and leather must be left at the gate. A small donation is requested on entry and goes directly to the monastery's upkeep.

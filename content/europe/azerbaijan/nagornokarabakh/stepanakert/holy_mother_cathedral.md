@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8128
 longitude: 46.7489
+score: 6.8
 ---
 
 The Holy Mother of God Cathedral (Surb Astvatsamor Hovanu) was the main Armenian Apostolic church in Khankendi, a stone building constructed in the early years of the Republic of Artsakh. It served as the seat of the Diocese of Artsakh and was the largest Armenian church in the region, capable of holding several hundred worshippers.

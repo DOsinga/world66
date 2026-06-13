@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 1.2150
 longitude: -77.2820
+score: 7.7
 ---
 
 Pasto's folk-art museum, housed in the oldest surviving colonial house in the city — a single-storey adobe building with a tiled roof around an interior courtyard. The collection covers Nariño craft traditions: barniz de Pasto lacquerware, woven hats, leatherwork, and the city's famous Carnival costumes and floats in miniature.

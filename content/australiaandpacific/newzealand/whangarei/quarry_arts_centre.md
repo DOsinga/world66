@@ -7,6 +7,7 @@ tags:
 - art
 latitude: -35.7350
 longitude: 174.3200
+score: 6.8
 ---
 
 The Quarry is a cooperative of working artists set in an old limestone quarry on the southwest edge of Whangarei. Around 30 artists have studios here — potters, painters, sculptors, weavers — set among the eccentric handmade buildings that have grown up over the site since the 1980s.

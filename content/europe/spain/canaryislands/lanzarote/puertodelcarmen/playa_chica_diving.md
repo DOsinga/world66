@@ -5,6 +5,7 @@ tags: [things_to_do, sight, diving, watersports]
 latitude: 28.9243
 longitude: -13.6500
 story: The famous "Cathedral" cavern off Playa Chica — a 30-metre underwater amphitheatre carved out of the volcanic rock — is named for the way sunlight streams through the entrance and lights up the back wall in shifting blue and gold. It is the single most-dived feature in the Canary Islands.
+score: 8.3
 ---
 
 The small cove of Playa Chica, just east of Playa Grande and immediately below the church plaza of Varadero, is the most popular shore dive in the Canary Islands and one of the best in Europe. Five or six dive operators run trips from the beach and from the harbour above; entry is a short surface swim from the sand. The site descends down a sloping volcanic shelf to a series of caverns, the deepest of which — the Catedral at around 30 metres — is the headline feature: a domed underwater chamber large enough for a school of barracuda to circle inside.

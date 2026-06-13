@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0688
 longitude: -34.879
 tags: [sight]
+score: 7.1
 ---
 
 The landscaped park surrounding the Ricardo Brennand castle, with curated walks, a lake, and several mid-century Brazilian sculptures placed among the trees. The park is a pleasant counterpoint to the dense interior of the castle and worth at least thirty minutes on its own.

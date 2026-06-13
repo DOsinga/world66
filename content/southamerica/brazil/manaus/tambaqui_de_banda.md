@@ -8,6 +8,7 @@ tags:
 latitude: -3.0961
 longitude: -60.0008
 address: Avenida Tefé, Japiim, Manaus
+score: 6.3
 ---
 
 Tambaqui de Banda takes its name from the dish it does best: a side of tambaqui (the prized Amazonian fish) split flat, salted, and grilled whole over charcoal. The restaurant occupies a covered open-air space in the working-class Japiim neighbourhood, with long shared tables, paper tablecloths and pitchers of beer.

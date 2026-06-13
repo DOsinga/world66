@@ -9,6 +9,7 @@ latitude: 4.0032
 longitude: 9.2121
 sources:
   - https://en.wikipedia.org/wiki/Limbe_Wildlife_Centre
+score: 8.5
 ---
 
 The Limbe Wildlife Centre is one of the most important primate sanctuaries in West and Central Africa, caring for chimpanzees, western lowland gorillas, drills, and other primates rescued from the bushmeat trade and illegal pet market. The centre operates on proper conservation principles — animals are kept in large, naturalistic enclosures rather than cages, and the focus is on rehabilitation and education rather than entertainment.

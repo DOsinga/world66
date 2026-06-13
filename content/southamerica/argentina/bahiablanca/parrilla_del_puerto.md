@@ -8,6 +8,7 @@ tags:
 neighbourhood: Ingeniero White
 latitude: -38.7830
 longitude: -62.2710
+score: 6.4
 ---
 
 The cluster of fish and seafood restaurants along the waterfront in Ingeniero White is the best eating in the wider Bahía Blanca area. They are informal, inexpensive by Argentine standards, and serve whatever came off the boats that morning — corvina, lenguado (flounder), and local shellfish are the staples.

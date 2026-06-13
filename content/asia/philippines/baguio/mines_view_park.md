@@ -8,6 +8,7 @@ tags:
 - viewpoint
 title: Mines View Park
 type: poi
+score: 6.6
 ---
 
 The eastern edge of Baguio drops away dramatically into the deep valleys of Itogon, where copper and gold were mined intensively from the 1900s through the 1980s. Mines View Park is the official lookout over the now-mostly-closed mines, with binoculars set into a railing along the edge of a cliff.

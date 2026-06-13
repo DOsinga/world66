@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: "Youssou N'Dour's Dakar club, still the city's most famous live music venue"
+score: 7.9
 ---
 
 Thiossane is the club Youssou N'Dour built in the 1980s and still owns — a low-ceilinged, packed live-music venue in the Sicap-Liberté district that runs late, sweats hard, and books the best *mbalax* bands in the country. N'Dour himself still plays here, irregularly and usually unannounced; when he does, the queue stretches around the block.

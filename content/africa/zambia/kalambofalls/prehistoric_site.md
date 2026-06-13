@@ -9,6 +9,7 @@ longitude: 31.233333
 snippet: One of the most important Stone Age archaeological sites in Africa, with continuous human occupation for over 400,000 years
 story: >
   In 2023 a team led by Larry Barham of Liverpool University announced the discovery of two interlocking, deliberately notched logs from the Kalambo site — dated to approximately 476,000 years ago by luminescence techniques. The find pushed back the earliest known evidence of wooden construction by hundreds of thousands of years and predates the appearance of *Homo sapiens*. Until then, archaeologists had assumed early hominins lacked either the cognitive capacity or the tools to shape wood for building.
+score: 9.8
 ---
 
 A short walk upstream from the falls, on a terrace above the river, is one of the most important Stone Age sites in Africa. Excavations led by John Desmond Clark from the 1950s onward exposed a remarkable archaeological sequence: layer upon layer of human occupation from the Acheulean (handaxes, around 500,000 years ago) through the Middle Stone Age and on into the Iron Age, all sealed by the unusually stable, waterlogged sediments at the gorge mouth.

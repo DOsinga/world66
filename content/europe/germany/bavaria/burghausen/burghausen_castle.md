@@ -12,6 +12,7 @@ story: >
   The castle's length is not a tourist-office exaggeration: the ridge fortress is listed by Guinness World Records at 1,051 metres. Its six courtyards were built to defend the Bavarian dukes' eastern border and to store the salt wealth that passed through the Salzach valley.
 sources:
   - https://en.wikipedia.org/wiki/Burghausen_Castle
+score: 9.4
 ---
 
 Burghausen Castle is the town's great spectacle, a long fortified spine running above the Salzach river and the old town. Rather than a single palace, it is a sequence of courtyards, gates, towers, chapels and former workshops, so a visit feels like walking through a small walled settlement. The main castle at the southern end holds the strongest views over the river bend and Austria.

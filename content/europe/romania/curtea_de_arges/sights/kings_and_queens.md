@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: 45.1422
 longitude: 24.6819
+score: 8.2
 ---
 
 Inside the Cathedral of Curtea de Argeș Monastery lie the tombs of Romania's royal family — a remarkable collection of sarcophagi that makes this one of the most historically charged sites in the country.

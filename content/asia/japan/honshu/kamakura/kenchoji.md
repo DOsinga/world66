@@ -8,6 +8,7 @@ title: Kenchō-ji
 type: poi
 story: >
   Kenchō-ji was founded in 1253 under the direct patronage of Regent Hōjō Tokiyori, who brought the Chinese monk Rankei Dōryū from China specifically to establish it. Dōryū brought Chinese Zen practice in its purest form, including the layout of the temple complex itself, which follows the five-monastery Zen plan directly imported from Hangzhou. The juniper trees in the main courtyard were supposedly planted by Rankei Dōryū himself — which would make them over 750 years old.
+score: 8.9
 ---
 
 Kenchō-ji ranks first among the Five Great Zen Temples of Kamakura (the Kamakura Gozan) and is the oldest Zen training monastery in Japan. Founded in 1253, it has operated continuously ever since as a place of active monastic training. You can see monks going about their day in a way that is not common at more tourist-oriented sites.

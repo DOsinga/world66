@@ -14,6 +14,7 @@ story: >
   strata — the deeper you go, the older the world portrayed around you.
 sources:
   - https://en.wikipedia.org/wiki/Toledo_(Naples_Metro)
+score: 7.9
 ---
 
 The Toledo station on Line 1 of the Naples Metro is regularly cited as one of the most beautiful metro stations in the world. Spanish architect Óscar Tusquets designed the station around the theme of light and water, with shimmering blue mosaic tiles that intensify in colour as you descend below street level. The effect is of going underwater.

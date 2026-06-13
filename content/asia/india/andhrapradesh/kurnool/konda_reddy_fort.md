@@ -16,6 +16,7 @@ story: >
   are said to still exist beneath the ruins.
 sources:
   - https://en.wikipedia.org/wiki/Konda_Reddy_Fort
+score: 6.4
 ---
 
 Konda Reddy Fort is Kurnool's main historical monument, a three-level fortification dating to the Vijayanagara period of the 12th to 17th centuries. The fort sits roughly two kilometres from the railway station and was used primarily as a watchtower controlling the Tungabhadra crossing below. Its semi-circular bastions and gateway towers survive in partial form, and the Andhra Pradesh government has carried out restoration work in recent years.

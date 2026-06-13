@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.9144
 longitude: -103.5222
+score: 5.8
 ---
 
 St. Mary's is a small clapboard Catholic church built by the Marquis de Mores in 1884 for his wife Medora and the town's mostly French and Irish workers. White-painted timber, a steep gable, and a simple bell tower — it is one of the oldest standing churches in North Dakota.

@@ -14,6 +14,7 @@ story: >
   century and have been left to decay naturally — Haida philosophy holds that poles
   should be allowed to return to the forest, not preserved in museums. The UNESCO World
   Heritage designation was partly aimed at protecting this deliberate, sacred decay.
+score: 9.8
 ---
 
 SGang Gwaay (also known by its English name Ninstints, or SGang Gwaay Llnagaay — "Red Cod Island Village") is a UNESCO World Heritage Site at the southern end of Gwaii Haanas, accessible only by boat or floatplane. It is the site of a Haida village that was abandoned in the late 19th century following the smallpox epidemic; the mortuary and memorial poles left standing in the forest are among the most powerful and moving sights in Canada.

@@ -12,6 +12,7 @@ story: >
   smuggling tens of thousands of manuscripts out of the city in rice sacks, hidden in
   cars and boats, moving them south to Bamako before the jihadists realised what was
   happening. Most of the collection survived.
+score: 9.7
 ---
 
 Timbuktu's greatest treasure is not its mosques but its manuscripts. Between the thirteenth and seventeenth centuries, the city accumulated more than 700,000 handwritten documents — treatises on astronomy, mathematics, medicine, law, history, and theology, written in Arabic by scholars from across the Islamic world and by Timbuktu's own intellectual class.

@@ -8,6 +8,7 @@ tags:
 latitude: -17.7644
 longitude: -63.2486
 snippet: Tropical eco-park with a butterfly dome and orchid house
+score: 6.8
 ---
 
 Out on the western edge of the city, Biocentro Güembé is part wildlife park, part resort, and part day-trip escape from the heat. The main draw is one of the largest butterfly enclosures in the world — a vast netted dome filled with tropical foliage and clouds of native species — alongside an orchid garden, an aviary, fish ponds, and walking trails through patches of dry forest.

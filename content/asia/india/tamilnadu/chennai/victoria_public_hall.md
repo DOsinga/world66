@@ -8,6 +8,7 @@ tags:
 latitude: 13.08192
 longitude: 80.2726
 snippet: "Baroque colonial town hall built in 1887 to celebrate Queen Victoria's jubilee."
+score: 7.1
 ---
 
 Victoria Public Hall — also known as Town Hall — is one of the grandest colonial public buildings in Chennai, a baroque confection built in 1887 to mark Queen Victoria's Golden Jubilee. The building stands in the Rajaji Salai area of George Town, its ornate facade facing the street with columns, arched windows, and a prominent clock tower.

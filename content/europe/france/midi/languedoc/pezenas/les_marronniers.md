@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.4608
 longitude: 3.4215
+score: 5.8
 ---
 
 Les Marronniers is a straightforwardly good lunch spot that is popular with locals, which in a tourist town like Pézenas is the most reliable recommendation available. The menu changes daily and is written on a blackboard — in summer that means whatever the market turned up that morning, in winter it means hearty regional cooking that earns its price. The terrace under the chestnut trees is the place to be on warm afternoons.

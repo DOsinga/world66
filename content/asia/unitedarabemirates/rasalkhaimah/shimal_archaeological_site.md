@@ -6,6 +6,7 @@ longitude: 56.0317
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Shimal sits on the gravel plain at the foot of the Hajar Mountains about 10 kilometres north of the city, and is the largest pre-Islamic archaeological site in the UAE. The ground is dotted with hundreds of mound tombs from the Wadi Suq and Umm an-Nar periods, dating roughly from 2,500 to 1,300 BCE, when this stretch of coast traded copper with Mesopotamia.

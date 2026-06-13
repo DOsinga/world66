@@ -14,6 +14,7 @@ story: >
   reliefs back onto the empty niches using 3D reconstruction. Visitors today can
   sometimes see both the weathered originals and photographs of the pieces that
   are now in Philadelphia and New York.
+score: 8.7
 ---
 
 The Xiangtangshan Caves are among the most significant Buddhist cave temple complexes in China, cut into sandstone cliffs in the Fengfeng Mining District about 20 kilometres southwest of Handan during the Northern Qi dynasty in the sixth century. There are two groups — Northern Xiangtangshan and Southern Xiangtangshan — carved under the sponsorship of the Qi court, which used Buddhism as a tool of dynastic legitimacy. The scale of the ambition shows: large seated Buddhas in high relief, flanked by attendants and bodhisattvas, fill niches cut carefully into the pale stone.

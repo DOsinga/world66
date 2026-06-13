@@ -19,6 +19,7 @@ story: >
   in France.
 sources:
   - https://en.wikipedia.org/wiki/Abbaye_aux_Dames,_Saintes
+score: 8.6
 ---
 
 The Abbaye aux Dames is the finest example of the Saintonge Romanesque style — the distinctive school of 11th and 12th-century church architecture found across this part of western France, characterised by elaborately carved limestone facades in which every surface is covered with intricate interlaced foliage, figures, and geometric patterns. The west facade here is outstanding, a composition of arched niches filled with carved figures that rewards close examination.

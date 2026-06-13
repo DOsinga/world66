@@ -8,6 +8,7 @@ tags:
 latitude: 41.0703
 longitude: -81.5293
 address: Glendale Avenue at Hereford Drive
+score: 5.1
 ---
 
 The Glendale Steps are a long ceremonial stone staircase built by the Works Progress Administration in 1939, connecting the Glendale Cemetery neighbourhood with the lower Cascade Valley. There are three flights, broad sandstone treads, retaining walls, and a small landing with stone benches halfway down. The whole thing is overbuilt for what it does — a quiet, slightly grand piece of New Deal civic infrastructure that almost nobody outside the immediate neighbourhood notices.

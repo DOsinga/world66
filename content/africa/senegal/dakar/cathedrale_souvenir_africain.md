@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1930s Catholic cathedral blending Romanesque, Byzantine and African forms"
+score: 7.7
 ---
 
 Officially the Our Lady of Victories Cathedral but better known as the Cathédrale du Souvenir Africain — the African Memorial Cathedral — this is one of the more unusual French colonial church buildings in Africa. It was completed in 1936 as a memorial to African soldiers who died fighting for France in the First World War.

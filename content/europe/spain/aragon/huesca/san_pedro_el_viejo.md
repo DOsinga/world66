@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Church of San Pedro el Viejo
 type: poi
+score: 8.4
 ---
 
 San Pedro el Viejo is arguably the most interesting church in Huesca, built on the site of a mosque that itself stood on a Roman temple. The current Romanesque structure dates mainly from the 12th century. The cloister is its finest feature — an arcaded walk with carved capitals depicting biblical scenes, saints, and the kind of fantastical creatures that Romanesque sculptors carved when they ran out of canonical subjects. The carving is of high quality and the setting is quiet and contemplative.

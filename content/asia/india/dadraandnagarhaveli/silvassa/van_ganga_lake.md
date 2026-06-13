@@ -12,6 +12,7 @@ story: >
   in a single day in 1954 — a popular uprising supported by Indian nationalists
   seized it before the Indian army formally absorbed it. The Island Garden was
   built here in the 1990s on land that had been empty since the Portuguese left.
+score: 7.1
 ---
 
 Van Ganga Lake is Silvassa's most photogenic spot, located about 5 kilometres north of town in the Dadra enclave. The Island Garden wraps around and through the water, connected by Japanese-style wooden bridges and stone paths shaded by mature trees. The setting is genuinely attractive: the lake reflects the surrounding greenery, fountains play in the shallows, and paddle boats are available for hire.

@@ -9,6 +9,7 @@ latitude: 12.0600
 longitude: 99.6500
 story: >
   The park's elephant population expanded significantly after it was designated a national park in 1999 and poaching was brought under control. Before that, the herd had been reduced to a small remnant by decades of hunting and habitat loss. The recovery from perhaps 30 animals to over 200 in a single generation is one of the conservation success stories of Southeast Asia, and the visibility of the herds at the park's edge has made Kui Buri the most reliable elephant-watching destination in Thailand.
+score: 9.4
 ---
 
 Kui Buri National Park covers approximately 1,500 square kilometres of forested hills inland from the Gulf of Thailand coast, and it holds one of the most accessible wild elephant populations in Southeast Asia. The elephants — numbering over 200 individuals — regularly emerge from the forest to feed in the pineapple fields and grasslands at the park's edge in the late afternoon, from roughly 3pm until dusk.

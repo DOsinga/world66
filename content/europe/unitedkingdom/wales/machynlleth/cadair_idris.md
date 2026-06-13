@@ -10,6 +10,7 @@ story: >
   Welsh legend holds that anyone who spends the night on the summit of Cadair Idris wakes up either a poet or a madman — "cadair" means "chair" and Idris was a giant poet-astronomer who sat here to contemplate the universe. The mountain's distinctive flat-topped profile has made it one of the most recognisable peaks in Wales.
 sources:
   - https://en.wikipedia.org/wiki/Cadair_Idris
+score: 9.2
 ---
 
 Cadair Idris rises to 893 metres on the southern edge of the Snowdonia National Park, about 15 km south of Machynlleth. It is one of Wales's most dramatic mountains — not the highest, but arguably the most interesting in profile, with a distinctive flat summit ridge, a glacial lake (Llyn Cau) in a dramatic corrie on the southern face, and views that on clear days extend to Ireland.

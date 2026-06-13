@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Polana
+score: 6.8
 ---
 
 **Universidade Eduardo Mondlane** (UEM) is Mozambique's oldest and largest university, founded in 1962 as the Universidade de Lourenço Marques and renamed after the assassinated FRELIMO leader **Eduardo Mondlane** at independence. The main campus sits on a generous wooded site north of the centre, with mid-century modernist buildings spread around lawns and palm avenues.

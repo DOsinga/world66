@@ -12,6 +12,7 @@ story: >
   travelled Palestine identifying holy sites. The Byzantines built a chapel here in the
   6th century, the Crusaders rebuilt it in 1099, and the current monastery was built by
   the Greek Orthodox Church in 1895 after they purchased the land from local Bedouin.
+score: 8.4
 ---
 
 The Monastery of the Temptation clings to the cliff face of the Mount of Temptation, 350 metres above the Jordan Valley, in one of the most dramatically situated religious sites in the Holy Land. The Greek Orthodox monastery commemorates the forty days that Christ spent fasting and being tempted by Satan, as described in the Gospels.

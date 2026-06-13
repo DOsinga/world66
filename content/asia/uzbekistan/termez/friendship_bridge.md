@@ -11,6 +11,7 @@ story: >
   by Soviet television and broadcast live. It was, as Gromov put it, the
   end of a war that had cost 15,000 Soviet lives. The bridge that witnessed
   that moment still carries traffic between the two countries today.
+score: 6.4
 ---
 
 The Friendship Bridge spans the Amu Darya between Termez and Hairatan in northern Afghanistan. You cannot cross it as a tourist, but you can see it from the Uzbek bank, and the view across the broad, slow river into Afghanistan — so close, so inaccessible — is one of the more charged border experiences in Central Asia.

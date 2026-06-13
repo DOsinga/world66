@@ -13,6 +13,7 @@ story: >
   the Sherbro region — their rebellion at sea and the subsequent legal battle
   over their freedom became one of the most important cases in American
   abolitionist history.
+score: 6.3
 ---
 
 Sherbro Island and the surrounding estuary were central to the transatlantic slave trade for much of the 18th century. The island's geography — a maze of rivers, creeks, and mangrove channels — made it ideal for the holding and transfer of enslaved people awaiting shipment across the Atlantic. Several holding sites existed on and near the island, and the Sherbro estuary was one of the major embarkation points along the Upper Guinea Coast.

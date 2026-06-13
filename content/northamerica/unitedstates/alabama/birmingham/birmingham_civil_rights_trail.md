@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Birmingham Civil Rights Heritage Trail
 type: poi
+score: 7.8
 ---
 
 A self-guided walking trail connecting twelve sites in Birmingham's Civil Rights District, marked with interpretive panels and bronze commemorative markers. The trail links the Birmingham Civil Rights Institute, Kelly Ingram Park, the 16th Street Baptist Church, the Carver Theatre (now the Alabama Jazz Hall of Fame), the Sixteenth Street Baptist Church, and several other locations significant to the 1955-1965 movement.

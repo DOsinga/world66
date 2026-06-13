@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 59.9444
 longitude: 30.3375
+score: 8.4
 ---
 
 The Summer Garden, laid out by Peter the Great between the Neva and the Moika in the first years of the city's existence, is the oldest park in St Petersburg. The formal allées, ornamental ponds, and white marble statuary set the template for every Russian noble garden that followed. The wrought-iron Neva embankment fence, designed by Yuri Felten in the 1770s, is considered one of the most beautiful pieces of public ironwork anywhere.

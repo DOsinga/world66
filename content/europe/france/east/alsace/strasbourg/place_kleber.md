@@ -7,6 +7,7 @@ tags:
 latitude: 48.5843
 longitude: 7.7490
 snippet: "Strasbourg's main square, with the statue of General Kléber at its centre"
+score: 6.6
 ---
 
 Place Kléber is the main square of central Strasbourg — a large open space at the heart of the shopping district, flanked by the Aubette building on the north side (a Neoclassical structure whose interior was redecorated in 1928 by Theo van Doesburg in a radical constructivist style). The square is named after Jean-Baptiste Kléber, a Strasbourg-born general of the Revolutionary Wars, whose bronze statue stands at the centre on a sarcophagus containing his remains.

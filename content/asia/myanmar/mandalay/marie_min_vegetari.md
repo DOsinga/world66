@@ -5,6 +5,7 @@ tags:
 - eating_out
 title: Marie Min Vegetarian Restaurant
 type: poi
+score: 4.6
 ---
 
 The LP says "a godsend for travellers". This is true. Everything from

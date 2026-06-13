@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Heritage zoo in the parklands, home to Australia's only giant pandas"
+score: 7.0
 ---
 
 Adelaide Zoo sits in the parklands northeast of the CBD, a ten-minute walk from North Terrace. It was established in 1883 and retains some of its Victorian-era character — wrought-iron enclosures, a charming Heritage Trail through the original zoo buildings. For most of the 2010s it was the only zoo in Australia to hold giant pandas; the two pandas (Wang Wang and Fu Ni) drew visitors from around the country.

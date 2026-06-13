@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Boltigen
 story: >
   Boltigen sits at the junction of the main valley road and the Jaunpass road, which gave it administrative importance for centuries as the last Bernese village before the pass into Fribourg territory. The village's Reformed church has a painted ceiling from the seventeenth century that survived the iconoclastic reforms intact — an unusual survivor in the Bernese Oberland.
+score: 6.2
 ---
 
 Boltigen is a small village in the upper Simmental at 837 metres, about 15 kilometres south of Erlenbach. It is the kind of place that is easy to drive through without stopping, which means it has retained an authentic unhurried character. The traditional Bernese farmhouses along the main street are largely unmodified, and the village operates on agricultural time rather than tourist time.

@@ -11,6 +11,7 @@ story: >
   The basilica took over 300 years to build, finally consecrated in 1765 though Alberti died in 1472 with only the façade complete. In the crypt, two ampullae are kept that were traditionally held to contain the blood of Christ — brought to Mantua by Longinus, the soldier who pierced Christ's side at the Crucifixion. They are displayed to the faithful each Good Friday, drawing pilgrims who have come for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Basilica_of_Sant%27Andrea,_Mantua
+score: 8.8
 ---
 
 Leon Battista Alberti designed Sant'Andrea in 1470 as the greatest Renaissance church north of Rome — the first to fully break with Gothic tradition and return to Roman monumental forms. The triumphal arch façade, barrel-vaulted nave without side aisles, and coffered ceiling were all radical departures from contemporary church architecture, and deeply influential. The church was also the first to use a giant order of pilasters, a device Michelangelo and Palladio would later adopt widely.

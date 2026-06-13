@@ -5,6 +5,7 @@ snippet: 18th-century Ottoman residence, now a museum and small hotel, with elab
 tags: [things_to_do, museum, historic_house]
 latitude: 43.3450
 longitude: 17.8107
+score: 8.6
 ---
 
 Just north of the centre, the Muslibegović House is one of the best-preserved Ottoman residential buildings in Bosnia. Built in the late 17th and 18th centuries for a wealthy Mostar family, it has the classic Bosnian arrangement: a high walled courtyard, a stone ground floor for everyday use, and a wood-built first floor with the family's reception rooms.

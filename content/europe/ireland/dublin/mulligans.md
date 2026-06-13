@@ -11,6 +11,7 @@ tags:
 - pub
 title: Mulligans
 type: poi
+score: 7.3
 ---
 
 A short walk from College Green on Poolbeg Street, off Tara Street, Mulligans is one of Dublin's most storied pubs. No loud music, no mobile phones, and very few beautiful people — just proper chin-wagging and colourful conversation. James Joyce was once a regular.

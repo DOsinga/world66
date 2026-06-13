@@ -10,6 +10,7 @@ longitude: -82.3453
 snippet: A seven-storey office building shaped exactly like a giant Longaberger picnic basket
 story: >
   When the building was completed in 1997, the two handles on the rooftop were engineered to be heated in winter — otherwise the weight of ice and snow would have created a structural problem, since the basket handles are not load-bearing in the traditional sense but are attached to the building's frame at precise angles calculated to handle wind loads.
+score: 7.1
 ---
 
 The Longaberger Basket Building on East Main Street is a seven-storey office building constructed to look exactly like the company's best-selling Medium Market Basket, scaled up 160 times. The handles alone — the two arching stainless steel elements over the roof — weigh 150 tons each. The building cost $30 million when it was completed in 1997 and held 500 employees.

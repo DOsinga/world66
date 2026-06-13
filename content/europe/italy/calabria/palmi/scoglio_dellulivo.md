@@ -12,6 +12,7 @@ tags:
 - nature
 title: Scoglio dell'Ulivo
 type: poi
+score: 8.3
 ---
 
 Scoglio dell'Ulivo is the small offshore rock at Tonnara di Palmi, famous for the olive tree that gave it its name. It is the postcard image of Palmi's coast: clear water, rough rock, and the feeling that nature has arranged something improbable just for the view.

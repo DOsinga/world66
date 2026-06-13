@@ -1,6 +1,7 @@
 ---
 title: "Eaton Mall Souvlaki Strip"
 type: poi
+score: 8.0
 ---
 
 The cluster of souvlaki restaurants and takeaway shops on and around Eaton Mall is the reason Oakleigh has a food reputation that extends well beyond its suburb. These are not tourist-facing approximations of Greek food but the real thing, shaped by decades of Greek-Australian immigration and sustained by a community that knows what it should taste like. The souvlaki here — pork or chicken, grilled on charcoal, wrapped in soft pita with tomato, onion, tzatziki, and chips — is as good as you will find outside Greece.

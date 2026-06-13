@@ -6,6 +6,7 @@ longitude: -88.5142
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The San Estevan archaeological site sits about 13 kilometres north of Orange Walk Town near the village of the same name. The ruins include a large plaza and platform mounds, the tallest reaching around 17 metres, that were once part of a ceremonial centre active from the Middle Preclassic through the Classic period. Formal excavation work here has been limited, and much of the site remains unexcavated beneath jungle growth.

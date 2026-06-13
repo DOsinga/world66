@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - family
+score: 6.4
 ---
 
 A small private aquarium on the riverfront, opened in 2017 in the former barge dock building. It punches above its size — there is a stingray touch tank, a Gulf of Mexico reef tank, an Amazon habitat, and a popular jellyfish gallery. The on-site restaurant, the Lookout, has a deck over the river.

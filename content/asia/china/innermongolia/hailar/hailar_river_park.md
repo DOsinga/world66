@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.2097
 longitude: 119.7100
+score: 5.6
 ---
 
 The Hailar River runs through the city and the riverside park along its southern bank is the main urban green space, used by residents for morning exercises, evening walks, and weekend gatherings. The park is not spectacular in itself, but it gives a clear sense of the city's scale and atmosphere — this is a prosperous provincial centre with a Mongolian cultural overlay, not a tourist resort. The riverside path offers good views of the river's wide, flat channel and the steppe visible beyond the city's edge.

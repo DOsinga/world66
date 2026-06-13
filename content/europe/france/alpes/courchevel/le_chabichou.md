@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.4161
 longitude: 6.63
+score: 8.0
 ---
 
 Le Chabichou is one of the longest-standing serious restaurants in Courchevel — two Michelin stars, run by the Rochedy family for more than four decades. It sits inside a hotel of the same name at the top of 1850, on the piste, so you can clip in and ski home after dinner. Or after lunch: the lunchtime tasting menu is the more approachable option.

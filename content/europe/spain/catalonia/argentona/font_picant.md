@@ -7,6 +7,7 @@ tags:
 latitude: 41.5571
 longitude: 2.4022
 snippet: The 19th-century mineral spring that drew Barcelona's bourgeoisie
+score: 5.8
 ---
 
 The Font Picant — literally the "sharp" or "spicy" spring — is the carbonated mineral source that put Argentona on the map. From the mid-19th century, Barcelona's bourgeoisie travelled out by carriage and later by train to take its slightly metallic, naturally sparkling water, and the town built itself a small summer-villa quarter to accommodate them.

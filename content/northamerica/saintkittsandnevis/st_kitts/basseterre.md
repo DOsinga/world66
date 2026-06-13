@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.0
 ---
 
 The capital and largest town of St. Kitts, Basseterre is a small, walkable port founded by the French in 1627 and rebuilt several times after fires and hurricanes. Most of what you see is late-Victorian colonial architecture in pastel timber and stone, set on a flat plain between Mount Olivees and the sea.

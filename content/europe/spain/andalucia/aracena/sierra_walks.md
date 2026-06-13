@@ -6,6 +6,7 @@ tags:
   - sight
 title: Sierra de Aracena Walking Trails
 type: poi
+score: 8.1
 ---
 
 The Sierra de Aracena Natural Park surrounding the town has some of the best walking in Andalucia — shaded by chestnut, oak, and cork trees, criss-crossed by old mule tracks connecting whitewashed villages. Unlike the parched lowlands of southern Andalucia, the sierra stays relatively green and cool, making it walkable through much of the year.

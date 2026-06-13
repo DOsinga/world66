@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.4598
 longitude: -2.5415
+score: 8.2
 ---
 
 The Guernsey Museum and Art Gallery occupies a handsome Victorian bandstand structure in Candie Gardens, looking out over the town and the harbour below. The collection covers the full history of the island, from prehistoric finds and Roman-period objects through the medieval period, the German Occupation of World War II, and into the present.

@@ -11,6 +11,7 @@ title: Spoleto Cathedral
 type: poi
 story: >
   Filippo Lippi was commissioned to paint the apse frescoes in 1467 and never left. He died in Spoleto in 1469, and Lorenzo de' Medici requested his body be returned to Florence. The Spoletans refused, arguing the city had enough illustrious citizens and needed this one — so Lippi is buried in the cathedral he decorated.
+score: 8.7
 ---
 
 The Duomo di Santa Maria Assunta anchors the lower end of Piazza del Duomo with a facade of brilliant gold mosaics that catch the morning light dramatically. The interior is Romanesque in plan but Baroque in much of its decoration; the apse frescoes by Filippo Lippi, depicting the life of the Virgin, are the highlight — rich in colour and remarkably well preserved for work painted in the 1460s.

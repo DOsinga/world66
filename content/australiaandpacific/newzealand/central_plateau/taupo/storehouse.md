@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -38.6851
 longitude: 176.0714
+score: 5.2
 ---
 
 One of Taupo's most popular restaurants, The Storehouse is a casual spot on Tongariro Street where the menu covers New Zealand favourites done well: wood-fired pizza, local craft beer on tap, good burgers, and the occasional local trout special. The atmosphere is relaxed and suited to groups.

@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2879
 longitude: 59.6168
 tags: [things_to_do, sight]
+score: 7.5
 ---
 
 The largest courtyard inside the Imam Reza Shrine complex, the Sahn-e Jomhuri ("Republic Courtyard") covers more than ten thousand square metres and is the principal gathering space for major prayers and religious ceremonies. The surrounding porticos in glazed tile catch the morning and evening light spectacularly.

@@ -11,6 +11,7 @@ story: >
   The Kandariya Mahadeva Temple soars 31 metres into the sky and is covered in more than 900 sculptures, many of them embracing couples in poses that have been described by art historians as a kind of carved Kamasutra. The name means "the Great God of the Cave" — a reference to both the cave-like sanctum inside and the mountain-shaped tower above it, designed to evoke Mount Meru, the cosmic mountain at the center of the Hindu universe.
 sources:
   - https://en.wikipedia.org/wiki/Kandariya_Mahadeva_Temple
+score: 9.4
 ---
 
 The Kandariya Mahadeva Temple is the largest and most ornate temple in the western group, dedicated to Shiva. Built around 1030 CE during the reign of the Chandela king Vidyadhara, it represents the pinnacle of the Nagara style of North Indian temple architecture, with a shikhara (tower) that soars in a series of ascending peaks.

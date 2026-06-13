@@ -6,6 +6,7 @@ longitude: 25.8833
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The small inland lake of Käsmu sits about 3 km south of the village, in pine forest on the inland side of the coastal road. The lake is shallow and clear, with sandy bottom and a small wooden bathing platform — warmer than the sea by several degrees in summer and popular with families who want to swim without the bracing chill of the Gulf. Pike and perch fishing is allowed with a permit.

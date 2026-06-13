@@ -15,6 +15,7 @@ story: >
   on the lake, and remained in operation for nearly 400 years.
 sources:
   - https://en.wikipedia.org/wiki/Lazise
+score: 7.2
 ---
 
 The Dogana Veneta stands at the entrance to the old port, a handsome arched stone building from the late 14th century that is one of the most intact examples of Venetian administrative architecture to survive on Lake Garda. The Venetians built it originally as a customs house to control and tax goods moving by water across the lake, and the carved Venetian lion above the archway is still clearly visible.

@@ -6,6 +6,7 @@ latitude: 54.1148
 longitude: -6.2828
 story: >
   The original castle on this site was built by the Anglo-Norman Hugo de Lacy around 1212 to guard the narrow channel where the lough squeezes into the Newry River. The present tower house dates from the 1560s, built after the Crown re-fortified the crossing to keep Gaelic raiders from slipping between Ulster and Leinster.
+score: 7.0
 ---
 
 Narrow Water Castle sits on a small spit of land at the point where Carlingford Lough pinches in toward Newry, about two miles up the A2 from Warrenpoint. The slim three-storey tower house is a classic Plantation-era fortified residence, built in the 1560s on the foundations of a much older Anglo-Norman castle. Its position controlled the only practical sea route into Newry and it changed hands several times during the wars of the 17th century.

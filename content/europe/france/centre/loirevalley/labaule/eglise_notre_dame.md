@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: "Neo-Gothic church a few streets back from the seafront."
+score: 5.5
 ---
 
 The parish church of La Baule was built between 1935 and 1937 in a slightly austere neo-Gothic style — pale stone, a tall square tower, and stained glass that reads as Art Deco more than medieval. It is not famous, but it is one of the few buildings in town that interrupts the relentless Belle Époque mood.

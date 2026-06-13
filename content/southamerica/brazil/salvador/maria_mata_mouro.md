@@ -9,6 +9,7 @@ tags:
 - restaurant
 - pelourinho
 snippet: Refined courtyard restaurant in the heart of the Pelourinho
+score: 6.8
 ---
 
 A long-running fine-dining restaurant in a converted colonial house off a side street of the Pelourinho. The dining is in a quiet courtyard with a fountain — a different atmosphere from the noisier square — and the menu is a smart fusion of Bahian, Portuguese, and contemporary Brazilian cooking.

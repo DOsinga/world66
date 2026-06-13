@@ -9,6 +9,7 @@ snippet: Museum dedicated to the former Azerbaijani president, a Nakhchivan nati
 tags:
 - things_to_do
 - museum
+score: 5.8
 ---
 
 Heydar Aliyev — the longtime Soviet-era leader of Azerbaijan and later its president after independence — was born in Nakhchivan, and the city honours him with one of the more elaborate of the many Aliyev museums across the country. The exhibition covers his early life, political career, and the foundational role he played in modern Azerbaijani statehood.

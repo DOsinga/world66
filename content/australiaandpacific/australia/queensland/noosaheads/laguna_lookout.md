@@ -6,6 +6,7 @@ longitude: 153.0840
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Laguna Lookout sits at the top of Noosa Hill, on the inland side of the town, with a wide view across Noosa Sound, the river mouth, and the dense national park canopy that wraps the headland. Drive up via Viewland Drive or walk the short, steep track from Noosa Junction.

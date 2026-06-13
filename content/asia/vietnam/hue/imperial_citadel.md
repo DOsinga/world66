@@ -14,6 +14,7 @@ story: >
   in the bloodiest urban battle of the Vietnam War. An estimated 5,800 civilians were
   executed and buried in mass graves discovered afterward. Today the partially restored ruins
   carry that weight quietly — some walls remain deliberately unrestored as a reminder.
+score: 9.5
 ---
 
 The heart of Hue. The Citadel is a massive walled fortress built by Emperor Gia Long in 1805, surrounded by a wide moat and 2.5 kilometres of walls. Inside lies the Imperial Enclosure, where the emperor conducted official business, and within that the Forbidden Purple City — once reserved for the emperor alone. The complex covers 520 hectares and originally contained over fifty royal buildings, palaces, temples, libraries, and pavilions.

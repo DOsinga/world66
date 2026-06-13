@@ -7,6 +7,7 @@ tags:
 latitude: 40.6360
 longitude: 22.9430
 snippet: Thessaloniki's oldest and most atmospheric street market
+score: 8.1
 ---
 
 Kapani — also known as Vlali — is the oldest market in the city, a network of covered lanes and open alleys behind Egnatia Street where butchers, fishmongers, greengrocers, olive sellers, cheese merchants, and spice dealers have been trading for centuries. It is noisier, messier, and more alive than the restored Modiano next door, and if you want to shop like a Thessalonikian rather than a tourist, this is where you come.

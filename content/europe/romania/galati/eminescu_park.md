@@ -8,6 +8,7 @@ tags:
 - park
 title: Mihai Eminescu Park
 type: poi
+score: 5.9
 ---
 
 The small park on Domnească Street, halfway between the river and the city centre, is centred on a bronze statue of Mihai Eminescu, Romania's national poet. The statue, by sculptor Frederic Storck, was erected in 1911 and has stood through every regime change since.

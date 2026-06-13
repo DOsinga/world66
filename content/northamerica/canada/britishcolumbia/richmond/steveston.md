@@ -8,6 +8,7 @@ latitude: 49.1275
 longitude: -123.1814
 story: >
   At its peak in the 1890s, Steveston had more than 50 canneries lining the waterfront — it was the largest fishing village in Canada, processing millions of salmon a year. Most of the workers were Japanese; by 1901, over 70% of Steveston's population was Japanese-Canadian. Most were interned and dispossessed during the Second World War, a history the Gulf of Georgia Cannery now frankly addresses.
+score: 8.3
 ---
 
 Steveston Village at Richmond's southern tip is a former fishing community that has kept much of its early 20th-century character. The wood-frame commercial buildings on Moncton Street house cafes, fish-and-chip shops, ice cream parlours, and the Steveston Museum. The docks at the foot of the village still have working fishing boats, and fresh fish is sold directly from the boats on weekend mornings.

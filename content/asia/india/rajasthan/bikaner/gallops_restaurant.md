@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.0411
 longitude: 73.3312
+score: 5.6
 ---
 
 Gallops, inside the Lalgarh Palace complex, is the best-regarded restaurant in Bikaner. The setting is colonial-era grandeur — high ceilings, marble floors, and photographs of maharajas on horseback. The menu covers Rajasthani classics: dal baati churma, ker sangri (local desert beans and berries), and laal maas (a fierce red mutton curry).

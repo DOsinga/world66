@@ -13,6 +13,7 @@ story: >
   interned as a German national during the Second World War. Soviet-era prisoners included Nikolai
   Bukharin's wife and Raoul Wallenberg, who died here in 1947, though the Soviet authorities
   long denied this. The prison is still in use today.
+score: 5.8
 ---
 
 Vladimir Central — Vladimirsky Tsentral — is one of Russia's most notorious prisons, built in 1783 and expanded under both the Tsars and the Soviets. In the Stalin era it held some of the most prominent victims of the Great Terror, and from the late 1940s became a major Soviet political prison. The KGB transferred sensitive foreign prisoners here, including Americans and European nationals, to keep them away from the larger camps.

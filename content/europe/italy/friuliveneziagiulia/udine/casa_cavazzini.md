@@ -6,6 +6,7 @@ longitude: 13.2347
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 Casa Cavazzini is Udine's modern and contemporary art museum, housed in a medieval merchant's house renovated by Gae Aulenti. The permanent collection covers Italian 20th-century art — Sironi, De Chirico, Carrà, Morandi, Fontana — along with rotating contemporary exhibitions.

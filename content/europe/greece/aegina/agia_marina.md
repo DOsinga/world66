@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7450
 longitude: 23.5600
+score: 6.3
 ---
 
 Agia Marina is Aegina's main beach resort, a small village on the eastern coast about 13 km from the main port. The beach is long, sandy, and equipped with sunbeds, umbrellas, and watersports hire, making it the most organised beach on the island. A cluster of tavernas, cafes, and small hotels lines the waterfront.

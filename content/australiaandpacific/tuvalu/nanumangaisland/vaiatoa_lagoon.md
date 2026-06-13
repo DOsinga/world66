@@ -5,6 +5,7 @@ snippet: The larger of Nanumanga's two inland brackish lagoons, ringed by mangro
 tags: [things_to_do, sight, nature]
 latitude: -6.2820
 longitude: 176.3210
+score: 7.2
 ---
 
 Vaiatoa is the larger of the two brackish lagoons in the centre of Nanumanga, occupying much of the northern half of the island. Four small wooded islets sit inside it, and the shoreline is ringed by about 20 hectares of mangrove forest — one of the few sizable mangrove stands in northern Tuvalu.

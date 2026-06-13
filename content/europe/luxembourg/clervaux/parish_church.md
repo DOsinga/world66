@@ -8,6 +8,7 @@ tags:
 - church
 title: Sts. Cosmas and Damian Parish Church
 type: poi
+score: 6.0
 ---
 
 The parish church of Sts. Cosmas and Damian sits in the centre of the lower town, distinguished by its twin slate-roofed towers. The current building dates from 1910-1911, replacing an older medieval church that was demolished to make way; the architect Pierre Funck-Eydt designed it in a neo-Romanesque style to harmonise with the abbey on the hill above.

@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: Baroque church carved into the tufa cliffs north of the centre
+score: 7.8
 ---
 
 A small, theatrical Baroque church built into the hillside on the northern edge of the city, where Sant'Emidio is said to have been buried in the early 4th century. The façade by Giuseppe Giosafatti — better known as the architect of much of central Ascoli — is set into the natural rock of the cliff.

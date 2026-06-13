@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.7105
 longitude: -80.0960
+score: 5.9
 ---
 
 The Río Chone runs along the western edge of the city, and the waterfront area — called the malecón — provides the most scenic point in an otherwise inland-focused town. In the late afternoons, the riverside fills with locals walking, children playing, and vendors selling snacks. The view west toward the widening river and the distant coastal hills is the best light Chone offers at any time of day.

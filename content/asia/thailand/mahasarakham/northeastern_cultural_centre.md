@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: A clear, compact introduction to Isan history, language, and ritual life
+score: 7.8
 ---
 
 The Museum of Northeastern Isan Culture sits on the original downtown campus of Mahasarakham University, in a quiet group of buildings under big trees a few minutes' walk from the city's central streets. The collection is small but well-organised: rooms on Isan textiles (mudmee silk and cotton), on the Buddhist and animist rituals of the village calendar, on the Lao-Isan language and the *mor lam* musical tradition, and on archaeological finds from the prehistoric and Dvaravati periods of the upper Mekong basin.

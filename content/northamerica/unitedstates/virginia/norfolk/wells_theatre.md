@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 snippet: "1913 Beaux-Arts theatre, home of the Virginia Stage Company"
 latitude: 36.8489
 longitude: -76.2906
+score: 6.5
 ---
 
 The Wells Theatre is a beautifully restored 1913 Beaux-Arts building in the heart of downtown Norfolk that serves as the home of the Virginia Stage Company, the region's main professional theatre. Performances run from September to May and cover a mix of Broadway transfers, classics, and new work.

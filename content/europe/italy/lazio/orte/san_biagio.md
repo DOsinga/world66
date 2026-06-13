@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4598
 longitude: 12.3861
+score: 5.4
 ---
 
 San Biagio is a medieval Roman Catholic church at the southern edge of the old town, dedicated to the fourth-century Armenian martyr who is patron saint of throat ailments. The current structure is a heavily rebuilt thirteenth-century church on the site of a much older oratory.

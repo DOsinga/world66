@@ -6,6 +6,7 @@ longitude: 6.191
 snippet: Drive to Lauwersoog, then take the ferry to the car-free island
 title: Drive yourself
 type: poi
+score: 3.8
 ---
 
 You cannot drive onto Schiermonnikoog — the island is completely car-free. The approach by car is to drive to the port of Lauwersoog, on the Groningen coast, and leave your vehicle there.

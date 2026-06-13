@@ -10,6 +10,7 @@ tags:
   - park
 story: "Nagarhole was once the private hunting reserve of the maharajas of Mysore. It is now part of the Nilgiri Biosphere Reserve and one of the few places in India where you can sometimes see tiger, leopard, wild dog, and elephant on the same drive."
 snippet: "Tiger reserve on the eastern edge of Coorg, accessible from Kabini."
+score: 9.0
 ---
 
 Nagarhole — also known as Rajiv Gandhi National Park — covers about 850 square kilometres of moist deciduous forest along the eastern edge of Coorg. It is one of the best-managed reserves in southern India and a serious wildlife destination: tiger, leopard, elephant, gaur, sloth bear, and dhole are all present.

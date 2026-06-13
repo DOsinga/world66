@@ -9,6 +9,7 @@ latitude: 43.3600
 longitude: -70.4828
 address: "37 Beach Avenue, Kennebunk, ME 04043"
 snippet: Formal tasting menu in a converted 19th-century barn, one of New England's best tables
+score: 7.0
 ---
 
 The White Barn Inn restaurant occupies a pair of converted 19th-century barns and has long held a place among the best fine-dining rooms in New England. The tasting menu changes with the seasons and draws heavily on Maine ingredients — local lobster, foraged mushrooms, fresh-caught fish — treated with classical technique. The setting is dramatic: exposed beams, candlelight, and floor-to-ceiling windows looking into the surrounding garden.

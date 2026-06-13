@@ -9,6 +9,7 @@ latitude: 42.12495
 longitude: -8.849772
 story: >
   On 1 March 1493, the Pinta — one of Columbus's three ships — arrived in Baiona carrying the first news of America to reach Europe. The crew had been at sea for over seven months. The lord of the fortress reportedly fired cannon shots to alert the town, and citizens ran to the walls to hear the sailors' accounts. Baiona beat Lisbon, Palos, and every other European port to the news by days.
+score: 8.7
 ---
 
 Monterreal Castle occupies a rocky promontory that juts into the Ría de Vigo, connected to the mainland by a narrow neck of land. The walls enclose the entire headland — a circuit of about 3 kilometres that you can walk for free, with extraordinary views across the bay toward the Cíes Islands and, on clear days, the coast of Portugal.

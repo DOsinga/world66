@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The low ridge across the wadi where the whole walled city silhouette appears
+score: 8.4
 ---
 
 Every photograph of Shibam that shows the city as an island of towers against the canyon walls was taken from the same low ridge on the north side of the wadi, a short drive or a long walk from the town. There is no formal viewpoint and no sign — drivers from Sayun know it as the sunset spot, and the road just runs out near a low rocky shelf with a clear line of sight to the south gate.

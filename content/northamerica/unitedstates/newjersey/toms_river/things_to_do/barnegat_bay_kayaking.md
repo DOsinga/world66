@@ -6,6 +6,7 @@ tags:
   - swimming
 latitude: 39.952
 longitude: -74.13
+score: 7.4
 ---
 
 Barnegat Bay is a shallow coastal lagoon stretching south from Toms River, separated from the Atlantic by the barrier island. For kayakers and paddleboarders it is excellent water — calm, relatively warm, and full of life. Great blue herons stalk the shallows, osprey circle overhead, and in the cordgrass marshes you can find diamondback terrapins in summer.

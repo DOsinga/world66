@@ -9,6 +9,7 @@ tags:
 story: Father Junípero Serra founded the mission in 1770 and made it his headquarters for the California mission system. He died here in 1784 and is buried beneath the sanctuary floor — his cause for canonisation was declared by Pope Francis in 2015, making him a controversial saint whose impact on indigenous Californians continues to be debated.
 title: Mission San Carlos Borromeo de Carmelo
 type: poi
+score: 8.8
 ---
 
 The Carmel Mission, founded in 1770 by Father Junípero Serra, is considered the finest surviving example of Spanish colonial religious architecture in California. Unlike many California missions that were rebuilt as tourist attractions, San Carlos Borromeo was carefully restored between the 1930s and 1970s using original construction methods and materials, giving the complex a genuine historical weight. The Moorish-style stone church, completed in 1797, has a star-shaped window above the entrance and an arched side chapel that photographs beautifully in afternoon light.

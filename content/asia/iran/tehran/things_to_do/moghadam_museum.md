@@ -8,6 +8,7 @@ latitude: 35.6869
 longitude: 51.4048
 story: >
   Mohammad Reza Moghadam and his wife spent their lives — and their considerable fortune — acquiring objects from every period of Iranian art and history, filling the rooms of their house in a way that turned it into an accidental encyclopaedia of Persian material culture. When they died without heirs in the 1960s, they left it intact to the University of Tehran. It has been open as a museum ever since, exactly as they arranged it.
+score: 8.5
 ---
 
 The Moghadam Museum is the most intimate and personally expressive museum in Tehran — a Qajar-era house filled over decades by a single collector with a genuine passion for Persian art and craft of all periods and styles. The rooms are arranged not by academic taxonomy but by aesthetic instinct: ancient terracotta vessels beside Safavid lacquer boxes, Qajar paintings beside pre-Islamic metalwork.

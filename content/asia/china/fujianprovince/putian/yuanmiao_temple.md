@@ -14,6 +14,7 @@ story: >
   it repeatedly; what survives today is a fraction of that extent but still
   occupies a significant compound in the city centre and maintains an active
   religious life. The main hall dates to the Song and Yuan dynasties.
+score: 8.2
 ---
 
 Yuanmiao Temple is a Taoist temple in the centre of Putian with a history stretching back to the Jin dynasty. The main hall contains Song-dynasty carvings and is one of the better-preserved examples of early Chinese timber architecture in Fujian. The temple is an active place of worship rather than a museum, and the incense, the sound of religious music, and the mix of elderly devotees and younger pilgrims create an atmosphere that more famous temples have lost.

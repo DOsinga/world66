@@ -12,6 +12,7 @@ story: >
   deer. He called on the Virgin Mary, the horse stopped at the cliff's edge, and Roupinho
   founded a chapel on the spot in 1182 in gratitude. The small cave beneath the sanctuary
   — the Ermida da Memória — supposedly marks the exact place where the miracle occurred.
+score: 7.5
 ---
 
 The Sanctuary of Our Lady of Nazaré is the dominant building of the upper town (Sítio), a large 17th-century church that draws pilgrims from across Portugal and Brazil. The interior is covered in azulejo tile panels depicting the miraculous legend of the Virgin's apparition, and the ornate baroque decoration is more exuberant than the usual Portuguese parish church. The square in front of the sanctuary has sweeping views down to the lower town and beach.

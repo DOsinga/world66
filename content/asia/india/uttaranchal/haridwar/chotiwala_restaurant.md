@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 29.9568
 longitude: 78.1708
+score: 5.8
 ---
 
 Chotiwala is one of the most recognisable restaurants in Haridwar, famous for the painted statue of a rotund man in a topknot (the "chotiwala" — man with a pigtail) that sits outside welcoming guests. It has been operating near Har Ki Pauri for decades and serves a comprehensive North Indian vegetarian menu at very reasonable prices.

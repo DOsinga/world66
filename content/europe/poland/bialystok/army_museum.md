@@ -7,6 +7,7 @@ tags:
 snippet: "Regional military history museum with strong WWI and WWII collections"
 latitude: 53.1319
 longitude: 23.1664
+score: 6.8
 ---
 
 The Army Museum (Muzeum Wojska w Białymstoku) covers the military history of the Podlasie region from the 18th century through the post-war period, with particularly strong sections on the two world wars and the Polish-Soviet War. Uniforms, weapons, partisan equipment, and a courtyard full of armoured vehicles and artillery pieces.

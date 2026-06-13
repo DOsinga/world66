@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Pemba Bay is the third-largest natural harbour in the world by some measures, after Sydney and Rio. The Portuguese founded the town as Porto Amélia in 1904 specifically to take advantage of the deep, sheltered anchorage; the present name dates from independence in 1975."
+score: 8.6
 ---
 
 The bay is the reason Pemba exists. A great horseshoe of water about ten kilometres across, sheltered by the headland to the south and a long arm of land to the north, it is one of the largest and deepest natural harbours in the world. Cargo ships, dhows and small fishing boats share the same protected anchorage.

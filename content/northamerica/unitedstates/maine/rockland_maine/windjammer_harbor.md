@@ -13,6 +13,7 @@ story: >
   as cargo vessels — carrying granite, lime, and lumber up and down the New England coast.
   After motor power made them obsolete as cargo ships, they were converted for passenger
   use in the 1930s, and have been sailing summer tourists ever since.
+score: 7.8
 ---
 
 Rockland harbor is home port to several of the historic windjammer schooners that offer multi-day sailing cruises along the Maine coast and among the islands. Vessels like the Stephen Taber (built 1871), the J. & E. Riggin, and the Victory Chimes are National Historic Landmarks that still carry passengers under sail from late June through September.

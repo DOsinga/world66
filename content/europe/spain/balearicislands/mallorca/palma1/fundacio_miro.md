@@ -8,6 +8,7 @@ latitude: 39.5570
 longitude: 2.6278
 story: >
   Miró spent most of the last three decades of his life in Mallorca, and his studio on the grounds of the foundation was left exactly as it was when he died in 1983 — paint brushes in jars, half-finished canvases against the walls, the particular controlled chaos of a working artist's space. Visiting feels like an interruption.
+score: 8.5
 ---
 
 Joan Miró moved to Mallorca permanently in 1956, drawn by the island's light and his deep roots there through his wife Pilar Juncosa. His studio and home in the Cala Major neighbourhood, southwest of the city centre, became the Fundació Pilar i Joan Miró after his death in 1983. The foundation holds the largest collection of Miró's work in the world: paintings, sculptures, drawings, graphic work, and ceramic pieces spanning his entire career.

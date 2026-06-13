@@ -13,6 +13,7 @@ tags:
 - sight
 title: Nickelodeon Universe
 type: poi
+score: 6.3
 ---
 
 A seven-acre indoor amusement park at the centre of Mall of America, with over 25 rides ranging from a log flume and roller coasters (including the Barnyard Blaster, which can be seen from multiple floors of the mall) to gentler attractions for young children. The park operates entirely indoors under a glass roof, which means it's usable in January as comfortably as in July — rare for Minnesota. Individual ride tickets or all-day wristbands are available. On school-holiday weekends it gets very crowded; weekday mornings are significantly calmer.

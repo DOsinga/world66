@@ -11,6 +11,7 @@ tags:
 - berlinmitte
 title: Café Orange
 type: poi
+score: 5.9
 ---
 
 A good-looking café on Oranienburger Straße with a beautiful interior and a decent breakfast menu. Worth stopping in during the day; in the evenings it functions more as a bar. Convenient if you're exploring the Hackesche Höfe area.

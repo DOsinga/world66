@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Karlstadt
 type: poi
+score: 7.2
 ---
 
 Karlstadt is one of Düsseldorf's most attractive historic quarters, with streets of 18th-century Baroque architecture south of the Altstadt. Its particular draw is the concentration of antique dealers, art galleries, and design shops along Bilker Straße and the surrounding lanes.

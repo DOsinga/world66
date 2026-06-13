@@ -9,6 +9,7 @@ tags:
 story: Henry W. Coe began as a small ranch that Sada Coe Robinson donated to the state in 1958 in memory of her father. What started as 13,000 acres has grown to over 87,000 — bigger than San Francisco and Berkeley combined — making it one of the least-crowded large parks in California precisely because of its reputation for rough terrain and scarce water.
 title: Henry W. Coe State Park
 type: poi
+score: 8.6
 ---
 
 California's second-largest state park sprawls across the Diablo Range east of Morgan Hill, covering 87,000 acres of chaparral-covered ridges, deep oak canyons, and spring-fed creeks. Unlike the manicured parks of the Bay Area, Coe is genuinely wild: trails are often unmaintained, water is hard to find in summer, and you can go entire days without seeing another hiker. That's the point. The park rewards experienced backpackers who want solitude and a real sense of the pre-development California landscape.

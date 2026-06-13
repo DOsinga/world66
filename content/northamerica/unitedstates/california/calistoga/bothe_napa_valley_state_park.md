@@ -11,6 +11,7 @@ latitude: 38.5511
 longitude: -122.5161
 sources:
   - https://en.wikipedia.org/wiki/Bothe-Napa_Valley_State_Park
+score: 8.4
 ---
 
 A welcome surprise in the middle of wine country: a real forest. Bothe-Napa Valley State Park preserves stands of coast redwood at the southernmost natural extent of their range, along with Douglas fir, tan oak, and madrone. About 15 kilometres of hiking trails wind through the park, ranging from easy valley-floor walks to steeper ridge routes with views over the Napa Valley.

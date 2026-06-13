@@ -14,6 +14,7 @@ tags:
 - walking
 title: Bude Canal
 type: poi
+score: 7.4
 ---
 
 The Bude Canal is what remains of a 35-mile waterway built between 1819 and 1826 to carry beach sand inland for agricultural use as a lime-rich fertiliser. Only the two-mile section through Bude town remains navigable today, but it is a pleasant stretch — wide enough for canoes and small rowing boats, bordered by flat meadows, and ending at Helebridge in peaceful countryside south of the town. The canal towpath is a popular walking and cycling route.

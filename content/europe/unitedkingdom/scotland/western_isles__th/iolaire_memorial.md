@@ -14,6 +14,7 @@ story: >
   five of the men who had survived the trenches and come home. In villages all over
   Lewis, families who had waited four years discovered they had lost fathers, sons,
   and brothers to a shipwreck within sight of home.
+score: 6.6
 ---
 
 The Iolaire disaster of 1 January 1919 is the defining tragedy of the modern Outer Hebrides. A converted yacht carrying Lewis servicemen home from the First World War struck the Beasts of Holm rocks at the entrance to Stornoway harbour and sank within hours, killing 201 men. The impact on Lewis — which had already lost hundreds of men in the trenches — was devastating. There are villages where nearly every family lost someone that night.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 45.6770
 longitude: 13.3859
+score: 7.6
 ---
 
 Santa Maria delle Grazie stands a few steps from Sant'Eufemia, on the same paved square — a slightly older church, built in the 5th century and remodelled in the 6th. It is smaller and more austere than its neighbour, but with the same essential plan of three aisles and reused antique columns.

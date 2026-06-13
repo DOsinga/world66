@@ -12,6 +12,7 @@ story: >
   In 1936, King Edward VIII and Wallis Simpson were sailing the Adriatic on a private yacht when they put ashore at Rab. The local doctor gave the king permission to swim naked — reportedly the first time a British monarch had done so in public. The episode is taken seriously here: a plaque marks the approximate spot, and the story is told with evident civic pride.
 sources:
   - https://en.wikipedia.org/wiki/Rab_(island)
+score: 6.3
 ---
 
 Rab has one of the longest naturist traditions of any island in the Adriatic. The practice has been officially tolerated here since at least the 1930s, and several beaches on the Lopar peninsula are designated FKK (Freikörperkultur) zones — the familiar German abbreviation that has become standard across Croatia's coast.

@@ -8,6 +8,7 @@ latitude: 39.3874
 longitude: 141.1165
 story: >
   Miyazawa died of tuberculosis in 1933 at the age of 37, having published almost nothing in his lifetime. His poems and stories became widely known only after his death. The most famous, "Night on the Galactic Railroad," is a dreamlike fantasy set on a cosmic train journey — tender, strange, and suffused with the Buddhist compassion that guided his short life.
+score: 7.8
 ---
 
 Kenji Miyazawa (1896–1933) is the literary soul of Iwate — poet, agricultural scientist, Buddhist teacher, and author of some of the most unusual children's stories in Japanese literature. The Kenji Miyazawa Memorial Museum in Hanamaki, the town where he was born and spent most of his life, is the principal place to understand both the man and his work.

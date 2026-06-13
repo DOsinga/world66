@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.355
 longitude: 121.862
+score: 8.3
 ---
 
 On the northern tip of Sabtang Island, a natural limestone arch frames a small cove where volcanic rock meets the sea. The arch itself — called Nakabuang — is not enormous, but its position is perfect: you can stand inside it and look out through the opening at the Pacific, with the green hills of Sabtang rising behind you and the ocean ahead. It is the kind of scene that photographs well and looks even better in person.

@@ -11,6 +11,7 @@ story: >
   the French crown. Anne had been duchess in her own right — the last ruler
   of an independent Brittany — and the wax tableau in the hall freezes that
   moment for anyone who wants to think about what it meant.
+score: 8.9
 ---
 
 The Château de Langeais is one of the best-preserved medieval castles in France, and one of the most honest: it makes no claims to grandeur it cannot support. Louis XI ordered it built between 1465 and 1469 as part of his defensive line against the Duchy of Brittany, and the speed of construction — barely four years — gives it a striking architectural unity. The exterior looks exactly like what it was: a fortress, with machiolations, round towers, and a drawbridge that still works. The interior tells a different story.

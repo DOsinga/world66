@@ -9,6 +9,7 @@ latitude: 39.4738
 longitude: -6.3722
 story: >
   The Torre de Bujaco has Roman foundations — it was built on and incorporating elements of a Roman tower that guarded the Via de la Plata, the Roman road connecting Seville to Astorga. The Moors expanded it, the medieval lords of Cáceres rebuilt it again, and it has survived largely intact into the present. The Catholic Monarchs ordered its battlements demolished (as they did most towers in Cáceres) as a punishment for the local nobility backing the wrong side in the War of Castilian Succession.
+score: 7.6
 ---
 
 The Torre de Bujaco is perhaps the most recognisable tower in Cáceres, standing at the corner of the old town wall facing the Plaza Mayor. It marks the most photogenic junction in the city — the medieval gate of the Arco de la Estrella on one side and the tower on the other, with the old town rising behind.

@@ -10,6 +10,7 @@ tags:
 - bar
 title: Rose and Crown
 type: poi
+score: 5.0
 ---
 
 Upstairs pub at 202 Banff Avenue with a split personality: a chill side with pool tables, foosball, and booths, and a livelier side with a stage for live bands on weekends. Rooftop patio for summer evenings.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 6.5
 ---
 
 A short hike from Dewey leads up to the ruined Spanish-era lighthouse at Punta Melones, on the southwest tip of the island. The structure itself is small and dilapidated, but the views over the channel to Vieques and across the islets of the wildlife refuge are some of the best on Culebra.

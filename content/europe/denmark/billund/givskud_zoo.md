@@ -13,6 +13,7 @@ opening_hours: "April to October, daily from 10:00; hours vary by season"
 snippet: "Denmark's largest safari park with open-range lions, giraffes, and African wildlife 20km west"
 sources:
   - https://en.wikipedia.org/wiki/Givskud_Zoo
+score: 7.7
 ---
 
 Givskud Zoo, known as Zootopia, is a large safari park 20km west of Billund with over 700 animals in spacious open-range enclosures. The park is organised as a drive-through safari: visitors can take the route in their own car or board the zoo's safari bus. The big cats — lions in a naturalistic savanna enclosure — are the headline attraction, but the park also has giraffes, rhinos, zebras, and a large predator section. The total circuit takes around two hours by car.

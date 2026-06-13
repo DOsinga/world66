@@ -8,6 +8,7 @@ latitude: 8.6115
 longitude: 81.2106
 sources:
   - https://en.wikipedia.org/wiki/Uppuveli
+score: 7.1
 ---
 
 Uppuveli is the closest beach to Trincomalee town — about 6 kilometres north — and has the most developed tourist infrastructure in the area. The beach is long and flat, with calm water that makes it suitable for swimming for most of the year. Several guesthouses and restaurants line the shore, and the atmosphere is relaxed without being crowded.

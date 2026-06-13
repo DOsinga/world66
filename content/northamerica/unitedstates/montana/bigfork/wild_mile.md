@@ -9,6 +9,7 @@ longitude: -114.0812
 snippet: "The last mile of the Swan River through downtown Bigfork — Class II-III whitewater running past art galleries"
 story: >
   The Wild Mile gets its character from a single geographic accident: the Swan River drops sharply in its final approach to Flathead Lake, creating a string of genuine rapids in the middle of what is otherwise a quiet village. Every spring the Bigfork Whitewater Festival draws kayakers from across the region to race and freestyle on these rapids, and the event brings the whole town out to watch from the bridge and the banks.
+score: 6.9
 ---
 
 The last mile of the Swan River, from the highway bridge to where it enters Flathead Lake, is known locally as the Wild Mile — a stretch of Class II to III rapids that runs right through the centre of Bigfork. It is a genuinely unusual thing: legitimate whitewater in the middle of an art gallery district.

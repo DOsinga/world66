@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: Twelfth-century foundation, much rebuilt — the city's mother church, beside the bishops' palace
+score: 6.7
 ---
 
 The Basilica of the Assumption of the Blessed Virgin Mary, to give the cathedral its full title, sits on the same hilltop as the Bishops' Palace and shares its history. The first stone church here was built around 1171 by the Kraków bishop Gedeon, but successive rebuildings — Renaissance, Baroque, and a heavy 19th-century campaign — have left only fragments of the medieval structure visible. The result is a calm, spacious, late-Baroque interior with an elaborate main altar and a series of side chapels endowed by the bishops over four centuries.

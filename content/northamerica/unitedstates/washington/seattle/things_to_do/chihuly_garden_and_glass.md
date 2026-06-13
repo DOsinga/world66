@@ -9,6 +9,7 @@ tags:
   - garden
 sources:
   - https://en.wikipedia.org/wiki/Chihuly_Garden_and_Glass
+score: 7.8
 ---
 
 Adjacent to the Space Needle, Chihuly Garden and Glass is a permanent exhibition of Dale Chihuly's glass sculpture that is far better than it sounds. Chihuly is a Pacific Northwest native who lost sight in one eye in a car accident and subsequently invented a way of making glass he could no longer blow himself — working with teams of assistants on pieces of enormous scale and baroque complexity.

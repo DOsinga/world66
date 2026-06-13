@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - history
+score: 5.9
 ---
 
 Fort Chepe was established in 1603 by Governor Alonso de Ribera on the hill west of Concepción, overlooking the mouth of the Biobío river. For two centuries it was the key Spanish stronghold on the frontier with Mapuche territory, repeatedly garrisoned, attacked and rebuilt.

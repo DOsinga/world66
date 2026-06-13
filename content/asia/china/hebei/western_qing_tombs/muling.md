@@ -13,6 +13,7 @@ story: >
   tomb in the Qing necropolis, the Muling has no gilded decoration and no glazed
   roof tiles. The Daoguang Emperor deliberately stripped it of ornament as an
   expression of frugality during the difficult years of the Opium Wars.
+score: 7.9
 ---
 
 The Muling, tomb of the Daoguang Emperor, is the most unusual of the Western Qing tombs. Daoguang was emperor during the First Opium War and presided over the humiliating treaties that followed. In response to the state's financial difficulties, he ordered his tomb stripped of the gilded decoration and coloured glazed tiles that covered every other imperial mausoleum in the Qing necropolis. The Muling is the only imperial tomb in the complex built without these elements.

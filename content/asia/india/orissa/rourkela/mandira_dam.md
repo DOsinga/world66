@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.2
 ---
 
 Built across the Sankha River in the late 1950s to supply water to the steel plant, Mandira Dam is now a popular weekend escape about 30 km from Rourkela. The reservoir is large and pretty, with wooded hills running down to the water, and a long bund where families come to watch the sunset.

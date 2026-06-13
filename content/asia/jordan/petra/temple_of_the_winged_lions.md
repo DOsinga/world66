@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 30.3304
 longitude: 35.4425
+score: 7.4
 ---
 
 A Nabataean temple on the north side of the colonnaded street, named for the winged-lion column capitals found here during American excavations in the 1970s. Probably dedicated to a goddess — perhaps al-Uzza, the Nabataean equivalent of Aphrodite.

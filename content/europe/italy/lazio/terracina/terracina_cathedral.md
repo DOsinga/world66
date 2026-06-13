@@ -12,6 +12,7 @@ story: >
   The cathedral's portico columns were not built — they were borrowed. The eight ancient columns forming the entrance portico are Roman originals, appropriated from the earlier pagan temple that occupied the site. The carved capitals are all different from each other, suggesting they were salvaged from various buildings across the forum complex as the medieval builders put up their church.
 sources:
   - https://en.wikipedia.org/wiki/Terracina_Cathedral
+score: 7.9
 ---
 
 Terracina Cathedral — officially the Concattedrale dei Santi Cesareo e Pietro — stands on the main piazza of the upper town, and like much of Terracina, it is built directly on top of ancient Roman remains. The medieval church was constructed over the former Capitolium, the pagan temple that would have dominated the Roman forum. You can see the exposed stonework of the forum beneath and beside the piazza itself.

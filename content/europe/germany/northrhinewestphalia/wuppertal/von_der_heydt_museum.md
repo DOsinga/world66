@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Von_der_Heydt_Museum
+score: 8.2
 ---
 
 The Von der Heydt Museum is Wuppertal's main art museum, housed in a 19th-century building in the Elberfeld district. Its collection spans the 17th century through to modern German painting, with particular strength in 19th-century Romanticism and Impressionism. Works by Monet, Cézanne, and Renoir share the galleries with a strong representation of German painters who are less well known internationally but central to understanding the country's artistic tradition.

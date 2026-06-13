@@ -8,6 +8,7 @@ latitude: 25.2962
 longitude: 51.5000
 story: >
   Damien Hirst's fourteen-sculpture sequence outside Sidra Medicine was commissioned by Qatar Museums as part of a sustained effort to bring major contemporary art into the city's public spaces. Hirst proposed the work in 2013 after a visit to the hospital during its construction. The final sculpture in the sequence — a 14-metre newborn emerging, still attached to the umbilical cord — is one of the largest bronze sculptures in the world.
+score: 6.8
 ---
 
 Fourteen large bronze sculptures by Damien Hirst line the plaza outside Sidra Medicine hospital in West Bay, tracing the development of a human foetus from fertilisation to birth. The work is frank and anatomically detailed; the final standing newborn is 14 metres tall. It was installed in 2013 and has become one of Doha's more talked-about public art pieces.

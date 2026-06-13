@@ -5,6 +5,7 @@ tags: [things_to_do, architecture]
 snippet: Engel's east side of Senate Square, seat of the Prime Minister
 latitude: 60.169722
 longitude: 24.952778
+score: 6.2
 ---
 
 The Government Palace closes off the eastern side of Senate Square. Designed by Carl Ludwig Engel and finished in 1822, it was originally the Imperial Senate of the Russian grand duchy and now houses the Finnish Prime Minister's office. The neoclassical front, with its central columned portico, is the architectural counterpart to the cathedral and the university across the square.

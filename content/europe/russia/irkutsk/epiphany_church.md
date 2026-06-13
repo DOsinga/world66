@@ -7,6 +7,7 @@ tags:
 latitude: 52.2862
 longitude: 104.2793
 snippet: "Vivid baroque church with colourful tilework on the Angara embankment"
+score: 8.0
 ---
 
 The Church of the Epiphany (Bogoyavlensky Cathedral) stands on the Angara embankment next to the city's main square and is one of the most photogenic buildings in Irkutsk. Its white and terracotta facade is decorated with coloured ceramic tiles, unusual for Siberian religious architecture, and the overall effect is more Ukrainian baroque than austere Russian Orthodox.

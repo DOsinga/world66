@@ -14,6 +14,7 @@ story: >
   hill people in indigo, and Intha merchants from the lake — all coexisting in
   the same dense, colourful crowd, selling everything from dried fish to hand-woven
   longyi cloth.
+score: 8.0
 ---
 
 The market in Taunggyi is one of the most ethnically diverse and visually striking in Myanmar. Every day, but particularly on the five-day rotating market cycle, ethnic minority groups from across Shan State converge here to trade: Pa-O, Palaung, Danu, Intha, Shan, and others, each identifiable by their distinctive clothing. The morning is the best time to visit — by midday the crowd thins and the produce stalls begin to pack up.

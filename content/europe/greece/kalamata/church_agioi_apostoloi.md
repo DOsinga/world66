@@ -11,6 +11,7 @@ story: >
   proclaimed in Kalamata on 23 March 1821, making it one of the most historically significant
   churches in Greece. The church is Byzantine in origin but was rebuilt several times after
   successive occupations and earthquakes.
+score: 6.8
 ---
 
 The Church of the Holy Apostles (Ekklisia Agion Apostolon) sits at the foot of the castle hill in the old town and is considered the spiritual birthplace of modern Greece in Kalamata. It is a small Byzantine church with a long history — the original structure dates from the 14th century, though it has been rebuilt and restored over the centuries.

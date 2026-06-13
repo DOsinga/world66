@@ -9,6 +9,7 @@ latitude: 43.8175
 longitude: 7.7749
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 6.5
 ---
 
 Da Vittorio is one of Sanremo's most dependable seafood restaurants, operating from the lower part of the old town and serving the straightforward Ligurian fish cooking that the town does best: grilled sea bass, spaghetti alle vongole, and local sardines prepared with the restraint the cuisine demands. The menu changes with what arrives at the port, which keeps things honest.

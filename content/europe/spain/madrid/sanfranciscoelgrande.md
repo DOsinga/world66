@@ -1,14 +1,13 @@
 ---
 latitude: 40.4116
 longitude: -3.7146
+score: 8.5
 tags:
 - things_to_do
 - la_latina
 - sight
 - architecture
 - lalatina
-title: Basilica of San Francisco el Grande
-type: poi
 ---
 
 The largest dome in Spain after Santa Maria del Fiore in Florence, and the third-largest brick dome in any Christian church anywhere — 33 metres across, 56 metres high. The basilica was built between 1761 and 1784 on the site of a Franciscan monastery supposedly founded by St. Francis of Assisi himself.

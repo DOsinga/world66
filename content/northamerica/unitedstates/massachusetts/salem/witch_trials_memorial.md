@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Salem_witch_trials
 story: >
   The memorial was designed by architect James Cutler and dedicated in 1992, on the 300th anniversary of the trials, with Nobel laureate Elie Wiesel speaking at the ceremony. The stone benches are inscribed with the names of the twenty who were executed — nineteen by hanging, one, Giles Corey, pressed to death with heavy stones after refusing to enter a plea.
+score: 6.8
 ---
 
 The Salem Witch Trials Memorial, tucked behind the Old Burying Point Cemetery on Charter Street, is a simple and affecting monument to the twenty people executed in 1692. Twenty stone benches project from the low granite wall, each carved with a victim's name and method of execution. The inscriptions are interrupted mid-sentence — a deliberate design choice to evoke the way the condemned were silenced mid-protest.

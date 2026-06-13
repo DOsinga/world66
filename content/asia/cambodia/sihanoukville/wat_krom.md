@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6131
 longitude: 103.5159
+score: 7.8
 ---
 
 Wat Krom (the "Lower Pagoda") sits on a smaller hill closer to the centre of town, accessible by a long stone staircase or a short steep road. The temple is the older of the two — the central shrine is dedicated to Yeay Mao, the legendary mother spirit who watches over fishermen on the Cambodian coast.

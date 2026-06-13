@@ -8,6 +8,7 @@ latitude: 56.133
 longitude: 9.583
 sources:
   - https://en.wikipedia.org/wiki/Silkeborg_Forests
+score: 8.1
 ---
 
 Silkeborg Forests is the collective name for Denmark's largest forest, a continuous stretch of woodland south and east of the town covering over 6,000 hectares. The forest is predominantly planted — most of Denmark's forests are — but it has been managed for over a century and has the feel of established woodland rather than plantation. Beech, spruce, and oak are the dominant species.

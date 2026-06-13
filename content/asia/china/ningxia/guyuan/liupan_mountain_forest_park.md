@@ -9,6 +9,7 @@ latitude: 35.7900
 longitude: 106.3700
 story: >
   Mao Zedong crossed Liupan Mountain in October 1935 during the Long March and wrote one of his most celebrated poems — "Liupan Mountain" — standing at the summit pass. The final lines became famous throughout the Maoist era: "We shall not reach the Great Wall / Till we are heroes. / We've already traversed twenty thousand li." A stele at the peak bears the poem in Mao's own calligraphy.
+score: 7.2
 ---
 
 Liupan Mountain rises to just over 2,900 metres at its highest point, a forested massif that runs roughly north-south along the border between Ningxia and Gansu. In a region dominated by desiccated loess terrain and steppe, it comes as a genuine surprise: the higher slopes are covered in oak, pine, and fir, with meadow clearings that fill with wildflowers in late summer. The contrast with the bare hills around Guyuan, only 40 kilometres to the north, is striking.

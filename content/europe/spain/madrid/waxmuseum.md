@@ -9,6 +9,7 @@ tags:
 - chueca
 title: Wax Museum
 type: poi
+score: 4.9
 ---
 
 The Museo de Cera on Plaza de Colón houses more than 450 wax figures spanning Spanish royalty, world leaders, athletes, and Hollywood stars. The collection includes a "terror hall" with horror-themed scenes and a simulator ride. It is not on par with Madame Tussauds, but kids enjoy it and it fills a rainy afternoon. Right next to the Plaza de Colón bus terminus from the airport, so you can stop in on arrival if your timing works out.

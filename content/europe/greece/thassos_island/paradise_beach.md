@@ -6,6 +6,7 @@ longitude: 24.7333
 tags:
   - beaches
   - sight
+score: 7.3
 ---
 
 A more secluded cove on the east coast, accessible by small boat from Golden Beach or by a path over the headland — a walk of about 30 minutes that is steep in places but well worth it. The sand here is finer than its neighbour, the cove is sheltered, and the crowds are noticeably thinner. In high summer it is not entirely empty, but it retains a sense of escape that Golden Beach, with its road access and sunbed rows, cannot quite manage.

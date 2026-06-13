@@ -7,6 +7,7 @@ tags:
 latitude: 4.6107
 longitude: -74.0639
 snippet: "Artsy, mid-city neighbourhood with galleries, street murals, and good restaurants"
+score: 8.0
 ---
 
 La Macarena lies between La Candelaria and Chapinero on the lower slopes below the Cerros Orientales. It is one of Bogota's most likeable neighbourhoods — a mix of independent restaurants, art galleries, design studios, and bars spread across leafy streets. The area is popular with architects, artists, and the kind of people who own rescue dogs and read literary fiction.

@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 46.4886
 longitude: -80.9925
+score: 6.2
 ---
 
 The Community Arena opened in 1951 as a memorial to local war dead and remains the home of the Sudbury Wolves, a popular Ontario Hockey League team. Catching a Wolves game on a Friday or Saturday in winter is one of the best ways to feel the city's working-class side: noisy, friendly, and fully committed to hockey.

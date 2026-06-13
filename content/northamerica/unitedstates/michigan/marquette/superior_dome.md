@@ -12,6 +12,7 @@ tags:
 - sight
 title: Superior Dome
 type: poi
+score: 5.9
 ---
 
 The Superior Dome on the campus of Northern Michigan University is, depending

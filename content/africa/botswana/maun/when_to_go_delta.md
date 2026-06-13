@@ -12,6 +12,7 @@ story: >
   1,000 kilometres from the Angolan highlands, taking three to four months to reach
   Maun. Rain falls in Angola in November and December; the water fans into the delta
   around June or July. The delay is disorienting until you understand the hydrology.
+score: 7.4
 ---
 
 The annual delta flood is the ecological engine that makes the Okavango extraordinary. Water from the Angolan highlands flows south-east through Namibia's Caprivi Strip and into Botswana, spreading across the delta floodplain between May and August. At peak flood in July, the delta swells to roughly 15,000 square kilometres — filling channels, lifting papyrus, and driving animals onto the dry islands.

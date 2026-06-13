@@ -12,6 +12,7 @@ story: >
   his neighbour to race him to the end of the block. Within a year, the race had
   a course, a rulebook, and an elaborate trophy. It is now considered one of the
   world's great eccentric sporting events.
+score: 8.1
 ---
 
 A three-day race of human-powered kinetic sculptures that takes place over Memorial Day weekend at the end of May, starting in Arcata and finishing in Ferndale. The race is exactly as strange as it sounds: elaborately decorated vehicles — part sculpture, part engineering project — must traverse sand dunes, open water, and city streets under their own power, operated only by their crews. Vehicles that sink, get stuck in sand, or simply fall apart are common.

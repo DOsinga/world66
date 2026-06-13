@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Victoria Park
 type: poi
+score: 6.5
 ---
 
 Eighteen acres of mature shade trees in the middle of downtown, ringed by Richmond, Dufferin and Wellington Streets. Once the parade ground of a British garrison, it became a public park in 1874 and is now the city's festival space — Sunfest world-music in July, Home County folk festival the third weekend of July, Pride in late summer, and the lighting of the Christmas tree in late November.

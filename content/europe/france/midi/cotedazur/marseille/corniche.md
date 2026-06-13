@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - walks
+score: 7.6
 ---
 
 The Corniche Kennedy, officially the Corniche du Président Kennedy, runs five kilometres along the Mediterranean from the Catalans beach south to the Prado. The route hugs the cliffs above the water, with views out across the bay to the Frioul islands and the Château d'If. The whole length is walkable along a wide seaside pavement on the inland side and a low parapet wall facing the water.

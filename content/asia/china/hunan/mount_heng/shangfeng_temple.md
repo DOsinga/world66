@@ -9,6 +9,7 @@ latitude: 27.2977
 longitude: 112.7057
 story: >
   Shangfeng Temple sits directly at the summit of Mount Heng, perched on the highest point of the Southern Sacred Mountain. Buddhist monks have maintained a continuous presence here for over a thousand years, enduring winters that bring ice and heavy snow to the 1,300-metre summit. The temple was rebuilt after a fire in the 20th century; the incense smoke that rises from it is visible from the cable car terminus on clear days.
+score: 6.9
 ---
 
 Shangfeng Temple occupies the very summit of Zhurong Peak, making it the highest religious building on Mount Heng at 1,300 metres. It is a Buddhist temple — unusual for the summit of a mountain whose southern half is predominantly Taoist territory — and continues the mountain's tradition of the two faiths occupying the same sacred space without conflict. The resident monks maintain daily rituals regardless of weather.

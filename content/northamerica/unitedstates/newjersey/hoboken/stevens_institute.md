@@ -13,6 +13,7 @@ story: >
   on a circular track here. Edwin A. Stevens Hall, the campus's oldest
   building, contains the original "Steam Wagon" that Stevens demonstrated
   to skeptical New Yorkers ferrying across to gawk.
+score: 7.9
 ---
 
 The Stevens Institute of Technology is a small engineering university on the bluff at the eastern edge of Hoboken, perched directly above the Hudson and looking onto Manhattan. The campus is open to walk through during daylight hours, and the cliff-edge lawns offer some of the best skyline views in the city — far less crowded than the waterfront below.

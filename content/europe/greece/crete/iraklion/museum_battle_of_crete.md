@@ -7,6 +7,7 @@ tags:
 latitude: 35.33939
 longitude: 25.13828
 snippet: "Dedicated to the 1941 airborne invasion and the Cretan resistance — the most intense episode in the island's modern history"
+score: 7.4
 ---
 
 In May 1941 Crete was the site of the first major airborne assault in military history, when German paratroopers and glider troops descended on the island in Operation Mercury. The ten-day Battle of Crete was ferociously fought — the Allied garrison, supplemented by Cretan civilians who took up arms, came close to defeating the invasion entirely. The cost was devastating: thousands of soldiers killed, and German reprisals against the civilian population among the most brutal carried out in Western Europe during the war.

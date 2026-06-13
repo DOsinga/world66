@@ -11,6 +11,7 @@ tags:
 snippet: Popular paddling route through the Weilburg loop, including the ship tunnel
 sources:
   - https://en.wikipedia.org/wiki/Weilburg
+score: 7.3
 ---
 
 The stretch of the Lahn around Weilburg is one of the most popular canoe and kayak runs in central Germany, and the town sits at its scenic peak — the river loops almost entirely around the old town hilltop before flowing on through the valley. Canoe rental is available locally, and the typical day paddle from Weilburg covers the meander and passes through the ship tunnel, which is walkable on foot but more interesting by water.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.2433
 longitude: -81.0395
+score: 8.3
 ---
 
 Belmont Abbey, about 15 km east of Gastonia in the town of Belmont, is a Benedictine monastery founded in 1876 — the only territorially abbatial jurisdiction in the United States. The Abbey Basilica on campus is the principal attraction: a soaring Gothic Revival church with stained-glass windows that won a gold medal at the 1893 World's Columbian Exposition in Chicago. The windows, created by F.X. Zettler of Munich, are among the finest examples of late 19th-century German ecclesiastical glass in North America.

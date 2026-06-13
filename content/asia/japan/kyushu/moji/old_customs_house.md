@@ -13,6 +13,7 @@ story: >
   Tokyo and Shanghai on his lecture tour of Japan. The room is preserved as it
   was — including a small exhibit of his telegram thanking the staff in slightly
   awkward Japanese.
+score: 6.9
 ---
 
 The old Mitsui Club, built in 1921 as the Moji branch of the powerful Mitsui trading conglomerate, is a half-timbered Tudor-style building down on the harbour at Mojiko. It once hosted business meetings, dinners, and visiting foreign dignitaries — most famously Albert Einstein, whose visit is commemorated by a small exhibit on the upper floor.

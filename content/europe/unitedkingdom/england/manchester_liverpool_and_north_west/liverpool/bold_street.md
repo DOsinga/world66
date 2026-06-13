@@ -9,6 +9,7 @@ tags:
 - bold_street
 title: Bold Street
 type: poi
+score: 8.0
 ---
 
 A long, sloping pedestrianised street running up from Hanover Street to the bombed-out shell of St Luke's Church at the top. Bold Street is the heart of independent Liverpool — vintage clothing, record shops, second-hand bookshops, plant shops, third-wave coffee, and a remarkable concentration of small restaurants from all corners of the world.

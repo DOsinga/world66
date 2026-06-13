@@ -7,6 +7,7 @@ tags:
 title: Al-Serkal Mosque
 type: poi
 snippet: The largest mosque in Cambodia, rebuilt with Dubai funding in 2014
+score: 7.4
 ---
 
 Cambodia's largest mosque, in the historically Cham Muslim neighbourhood of Boeung Kak. The current building dates from 2014 and replaced an older mosque on the same site, paid for by the Emirati Al Serkal family. The architecture is more Gulf than Khmer — twin minarets, a wide marble courtyard, a cool central prayer hall covered by a single dome.

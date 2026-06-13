@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 44.1100
 longitude: 11.5500
+score: 7.8
 ---
 
 The waymarked trails of the upper Senio valley fan out from the village in all directions. The CAI (Italian Alpine Club) network connects Palazzuolo to Marradi, to the ridge of the Apennine watershed, and on the Romagna side, down toward Faenza.

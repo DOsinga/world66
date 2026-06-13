@@ -10,6 +10,7 @@ tags:
 - sights
 title: Mirador de Colón
 type: poi
+score: 7.2
 ---
 
 The Columbus Monument stands at the foot of La Rambla where the boulevard meets the harbour. Built in 1888 for the Universal Exhibition, the 60-metre column is topped by a bronze statue of Columbus pointing out to sea. A small lift inside the column takes you up to an enclosed viewing gallery just below the statue.

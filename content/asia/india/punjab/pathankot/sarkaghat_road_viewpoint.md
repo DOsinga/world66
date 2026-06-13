@@ -6,6 +6,7 @@ longitude: 75.6500
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The countryside north of Pathankot is where the Punjab plains begin to crumple into the Shivalik Hills — an underrated stretch of forested ridges and river valleys that serves as the antechamber to the main Himalayan ranges. The change in character from the flat agricultural plains is immediate once you leave the town behind: the road rises and dips, sal and shisham forests replace the wheat fields, and the air cools noticeably.

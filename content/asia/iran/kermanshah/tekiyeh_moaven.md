@@ -10,6 +10,7 @@ latitude: 34.3145
 longitude: 47.0700
 story: >
   The tile panels inside Tekiyeh Moaven al-Molk were created at the turn of the 20th century by masters trained in the Qajar court style, and they depict not only religious scenes but also portraits of real people — including the founding family. One panel shows a formal photograph-style group portrait in tile, with names inscribed below each figure. It is one of the most unusual examples of Qajar art anywhere in Iran.
+score: 8.1
 ---
 
 The Tekiyeh Moaven al-Molk is a religious building used during the Shia mourning ceremonies of Muharram, built in the Qajar period (late 19th and early 20th century). It is now open as a museum and contains some of the finest tilework in western Iran — floor-to-ceiling panels depicting scenes from Shia religious history, the Karbala narrative, and portraits of the Qajar royal family.

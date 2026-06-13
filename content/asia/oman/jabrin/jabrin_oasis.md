@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 22.9190
 longitude: 57.2360
 story: "The oasis surrounding Jabrin is irrigated by an ancient falaj system — underground channels that carry water from distant mountain sources through gravity alone, a technology that Omanis have maintained continuously for over 3,000 years. The Jabrin falaj is one of the five UNESCO-listed aflaj of Oman, recognised in 2006 as an outstanding example of pre-industrial water engineering. The channels themselves are largely invisible at ground level, but their effect is dramatic: the date palm groves they sustain create a belt of dense green in an otherwise arid landscape."
+score: 6.8
 ---
 
 The oasis that surrounds Jabrin is the reason the settlement exists at all. In a region where water is scarce and agriculture impossible without irrigation, the falaj channels that bring water from sources in the Hajar mountains have sustained this community for centuries. The result is a lush belt of date palm gardens, small vegetable plots, and fruit trees that stands in sharp contrast to the bare gravel plains stretching away in every direction.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Liep%C4%81ja_Lighthouse
+score: 6.0
 ---
 
 The Liepāja Lighthouse stands near the entrance to the port canal, a slender red-and-white tower that has been guiding ships into the harbour since the late 19th century. It is not open for internal visits, but the setting around it — near the northern breakwater where the canal meets the Baltic — makes it worth the walk.

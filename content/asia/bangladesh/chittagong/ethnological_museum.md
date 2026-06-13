@@ -7,6 +7,7 @@ tags:
 latitude: 22.3506
 longitude: 91.8211
 snippet: Museum of the tribal peoples of southeastern Bangladesh
+score: 7.1
 ---
 
 The Ethnological Museum at Agrabad covers the indigenous peoples of southeastern Bangladesh — the Chakma, Marma, Tripura, Mro and other groups of the Chittagong Hill Tracts. The displays include textiles, jewellery, musical instruments, weapons, ceremonial masks and life-size mannequins in traditional dress.

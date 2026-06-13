@@ -9,6 +9,7 @@ tags:
 latitude: -41.3297
 longitude: 174.8101
 snippet: "Wellington's surf beach by the airport, with consistent waves and good cafes"
+score: 7.1
 ---
 
 Lyall Bay is Wellington's surf beach, sitting directly adjacent to the airport runway — landings over the bay are dramatic, with planes appearing to skim the wave tops before touching down. The bay faces Cook Strait and receives consistent south swells that make it the most reliable surf spot in the city. Beginners are welcome, and the local surf school operates from the beach most weekends.

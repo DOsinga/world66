@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 37.7305
 longitude: 23.4920
+score: 7.2
 ---
 
 Aegina is Greece's pistachio capital, and the local variety — called *tsikoudia tis Aeginas* — is considered among the finest in the world. The island's rocky, arid interior and its specific combination of climate and soil produce a pistachio with a distinctive flavour and a natural red-tinged skin that commercial growers elsewhere try to replicate with dye.

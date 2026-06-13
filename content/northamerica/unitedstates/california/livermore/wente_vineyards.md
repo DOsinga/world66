@@ -9,6 +9,7 @@ tags:
 - wine
 title: Wente Vineyards
 type: poi
+score: 8.0
 ---
 
 Founded in 1883 and now in its fifth generation of family ownership, Wente is the oldest continuously operated family winery in the United States. The estate winery on Arroyo Road has tasting rooms, a fine-dining restaurant, an amphitheatre that hosts a summer concert series, and a Greg Norman-designed 18-hole golf course.

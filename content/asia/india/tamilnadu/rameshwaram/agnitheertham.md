@@ -6,6 +6,7 @@ tags:
 - sight
 title: Agnitheertham
 type: poi
+score: 6.8
 ---
 
 Agnitheertham is the sacred beach immediately in front of Ramanathaswamy Temple, where pilgrims are expected to bathe before entering the temple. The bathing traditionally happens before dawn, when the beach is most crowded — a procession of pilgrims wading into the sea while priests stand at the water's edge performing rituals, all of it lit by temple lights and the early sky.

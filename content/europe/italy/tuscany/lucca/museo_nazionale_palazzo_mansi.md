@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8436
 longitude: 10.499
+score: 8.1
 ---
 
 Palazzo Mansi is one of Lucca's two national museums, housed in an exceptionally well-preserved 17th-century aristocratic palace on Via Galli Tassi. The palace itself is the main attraction: the state apartments have survived intact with their original Baroque decoration — frescoed ceilings, tapestried walls, gilded furniture, and a spectacular bridal alcove draped in 17th-century fabric that is one of the most remarkable domestic interiors in Tuscany.

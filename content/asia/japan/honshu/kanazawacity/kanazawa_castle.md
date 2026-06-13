@@ -9,6 +9,7 @@ latitude: 36.5633
 longitude: 136.6617
 story: >
   Kanazawa Castle burned down multiple times over its history — the main keep was struck by lightning in 1602 and again in 1620, and fires destroyed much of the complex in 1759. The Maeda clan kept rebuilding, each time adapting the design. The current structures are a mix of original 18th-century buildings and modern reconstructions using traditional techniques — no power tools, traditional carpentry joints, and handmade lead roof tiles.
+score: 8.1
 ---
 
 Kanazawa Castle was the seat of the Maeda clan, the second most powerful daimyo family in Edo-period Japan. The castle park surrounds the site, and several of the original structures have been carefully reconstructed. The Ishikawa-mon gate — the main entrance — is an original building from 1788 and is the most photogenic element of the complex.

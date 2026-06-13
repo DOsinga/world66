@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sound and Light Show
 type: poi
+score: 5.9
 ---
 
 Every evening after dark, the Giza Plateau hosts a Sound and Light Show in which the Sphinx narrates the history of the pyramids while the three monuments are lit in changing colours. The show runs for about an hour from the open-air theatre east of the Sphinx. It is unabashedly theatrical — the narration is dramatic, the music stirring, and the whole thing is rather camp — but sitting in the desert night facing illuminated monuments that are 4,500 years old is genuinely memorable.

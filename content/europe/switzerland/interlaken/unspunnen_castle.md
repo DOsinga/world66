@@ -16,6 +16,7 @@ tags:
 - architecture
 title: Unspunnen Castle
 type: poi
+score: 5.8
 ---
 
 Almost nothing remains of Unspunnen Castle beyond a single ruined tower on a wooded knoll above Wilderswil, about three kilometres south of Interlaken. The walk up from the village takes fifteen minutes through forest. What survives is evocative rather than spectacular — a mossy stump of medieval masonry looking down on a valley that has changed considerably since the 12th century. The views south towards the mountains are good.

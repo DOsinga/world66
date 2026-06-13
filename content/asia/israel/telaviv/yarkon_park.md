@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 32.1019
 longitude: 34.8077
+score: 6.9
 ---
 
 Yarkon Park, on the banks of the Yarkon River in the north of the city, is the largest park in Tel Aviv at almost four square kilometres. It runs along most of the lower river, with cycle paths, sports fields, a tropical garden, a small zoo, and a large concert venue (the main outdoor venue for visiting international artists).

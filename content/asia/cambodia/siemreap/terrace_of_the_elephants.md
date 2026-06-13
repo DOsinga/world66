@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Terrace of the Elephants
 type: poi
+score: 6.7
 ---
 
 The **Terrace of the Elephants** is a 350-metre-long platform along the eastern edge of the Angkor Thom Royal Palace compound, built by Jayavarman VII in the late 12th century. It was used as a grandstand from which the king and his court would review military processions, ceremonies, and public spectacles on the open square below. The terrace's balustrades are carved with a continuous frieze of life-size elephants at work — in war, in the hunt, and in ceremony — which gives the terrace its name and makes it one of the most immediately readable carvings at Angkor.

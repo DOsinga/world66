@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - restaurant
+score: 5.8
 ---
 
 Probably the most unusual restaurant in Hitchin: an enormous bar-restaurant in a converted 1930s ballroom off the Market Place, with a soaring ceiling, art-deco fittings and a long open kitchen. The menu runs to modern British comfort food (steaks, burgers, fish, seasonal small plates) with a strong cocktail list, and the rooms are big enough that booking is rarely strictly necessary.

@@ -16,6 +16,7 @@ story: >
   the building as a psychiatric facility until 1974, by which point it had badly deteriorated. 
   A decades-long restoration has turned it into a boutique hotel and museum campus — finally 
   open to the public in a way its architects always intended.
+score: 9.3
 ---
 
 The Richardson Olmsted Campus is one of the most extraordinary buildings in the United States: a massive Romanesque Revival complex in warm buff sandstone, designed in 1869 by Henry Hobson Richardson and set in grounds by Frederick Law Olmsted. Richardson considered it his finest work. The two Romanesque towers and the connecting wings of arcaded stone stretch nearly a kilometre across a gently sloping hill on the city's west side.

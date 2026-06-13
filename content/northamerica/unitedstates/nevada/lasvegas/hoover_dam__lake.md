@@ -9,6 +9,7 @@ tags:
 title: Hoover Dam & Lake Mead
 type: poi
 url: www.usbr.gov/lc/hooverdam
+score: 9.0
 ---
 
 Hoover Dam sits 30 miles southeast of Las Vegas on the Nevada-Arizona border and is one of the great engineering achievements of the 20th century. Built during the Depression between 1931 and 1936, the 221-metre concrete arch-gravity dam holds back Lake Mead, the largest reservoir in the US by volume.

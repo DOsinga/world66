@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0392
 longitude: 113.1197
+score: 6.8
 ---
 
 Renshou Temple (仁寿寺) is an active Buddhist monastery in the old city district, quieter and less visited than the Zumiao complex a short walk away. Founded during the Tang dynasty and rebuilt many times since, the current buildings are Qing-period but the site's religious continuity stretches back over a thousand years. The main hall contains a large carved wooden altar and is fragrant with incense from the morning and evening prayer sessions.

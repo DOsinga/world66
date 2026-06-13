@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   The track was used by Bosnian Army snipers as a firing position during the siege, and later by Serb forces. Graffiti on the concrete now covers bullet marks and blast damage. The irony of an Olympic venue becoming a military position in less than a decade is not lost on anyone who visits.
+score: 8.0
 ---
 
 The 1984 Winter Olympics put Sarajevo on the world map, and the bobsled and luge track on Mount Trebević was one of the showcase venues. Three years after the Olympics ended, the siege began. The track was shelled, abandoned, and used as a military position. Today it stands in a state of spectacular post-war deterioration — concrete tubes covered in graffiti, sections of the course collapsed or swallowed by vegetation, the timing tower a hollow ruin.

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 39.2489
 longitude: -114.8878
+score: 6.1
 ---
 
 A 1928 Mormon stake tabernacle in the Spanish Mission Revival style — a stucco church with red-tile roof, a pair of low arcaded loggias, and a slim square bell tower. It is one of the more architecturally interesting LDS tabernacles surviving in Nevada and is on the National Register.

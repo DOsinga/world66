@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
 story: "The museum's home is the Vapor Aymerich, Amat i Jover textile mill, designed by Lluís Muncunill in 1909. The roof is supported by 161 sawtoothed catenary arches in brick — a virtuoso piece of structural engineering, and the largest single example of Catalan modernisme architecture anywhere."
+score: 8.7
 ---
 
 The Museu Nacional de la Ciència i de la Tècnica de Catalunya — mNACTEC for short — fills a colossal early-20th-century textile mill on the south-west edge of central Terrassa. The mill itself is the star exhibit: the great vaulted hall, with its 161 brick catenary arches and natural-lit sawtooth roof, is one of the great industrial spaces in Europe.

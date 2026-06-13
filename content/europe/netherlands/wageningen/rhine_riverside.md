@@ -8,6 +8,7 @@ tags:
 latitude: 51.9580
 longitude: 5.6650
 snippet: The Rhine bank south of town — dikes, flood plains, and river views
+score: 6.8
 ---
 
 The **Neder-Rijn** (Lower Rhine) forms the southern boundary of Wageningen, and the dike road running along the north bank is one of the better short walks or bike rides in the area. From the town, it is a 10-minute walk or 5-minute cycle to reach the dike top, where the view opens over the wide braided river channel and the low polders on the far bank.

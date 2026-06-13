@@ -14,6 +14,7 @@ story: >
   complex. The mosque is still in use today, which makes the Hunat Hatun
   complex something unusual: a seven-hundred-year-old building that has never
   stopped serving its original purpose.
+score: 8.0
 ---
 
 The Hunat Hatun Complex is the oldest surviving Seljuk religious site in Kayseri, commissioned in 1238 by Mahperi Hatun, wife of Sultan Alaeddin Keykubad I. It comprises a mosque, a medrese (theological school), a mausoleum containing Mahperi Hatun's tomb, and a functioning hammam. The four elements are arranged together just to the west of the castle, and the complex retains its unity and purpose in a way that many historic sites do not.

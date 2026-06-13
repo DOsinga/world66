@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.4103
 longitude: -81.4125
+score: 6.8
 ---
 
 Huguenot Memorial Park sits at the northern tip of Fort George Island, where the St. Johns River meets the Atlantic Ocean. The park occupies a spit of land that shifts with each storm — the sandbar that extends into the ocean is a favourite spot for dolphins to surf the waves at the river mouth — and the combination of Atlantic Ocean, tidal inlet, and river creates a dynamic and constantly changing landscape.

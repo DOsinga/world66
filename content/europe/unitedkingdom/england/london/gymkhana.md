@@ -11,6 +11,7 @@ tags:
 title: Gymkhana
 type: poi
 url: www.gymkhanalondon.com
+score: 8.4
 ---
 
 Gymkhana is one of the finest Indian restaurants in London — a Mayfair room designed to evoke the colonial-era members' clubs of Bombay and Delhi, with mahogany panels, hunting trophies, rattan furniture, and cooking of real sophistication. The menu draws on aristocratic Mughal traditions and colonial-era Indian cooking that rarely appears outside private homes.

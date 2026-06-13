@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.5304
 longitude: -16.2804
+score: 8.6
 ---
 
 The Parque Rural de Anaga covers the ancient mountain range that dominates the northeastern tip of Tenerife, just above La Laguna. It is one of the most biologically important areas in the Canary Islands — the laurisilva, or laurel forest, that covers the higher ridges is a relic of the subtropical forest that once covered the Mediterranean basin, preserved in Tenerife by a combination of altitude, cloud, and relative isolation. The trees are often completely enveloped in mist and hung with moss and ferns, giving the forest a primeval atmosphere quite unlike anything else in Spain.

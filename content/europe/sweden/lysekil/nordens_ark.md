@@ -10,6 +10,7 @@ tags:
 - wildlife
 title: Nordens Ark
 type: poi
+score: 7.9
 ---
 
 Nordens Ark is a 383-hectare wildlife park on the old Åby Manor estate, conceived not as a zoo for entertainment but as a breeding centre for endangered Nordic and Eurasian species. You walk gravel paths through forest and meadow enclosures that hold wolves, wolverines, lynx, brown bears, snow leopards, Persian leopards, and a sometimes-glimpsed Pallas's cat — the animals have enough space that sightings are not guaranteed, which is the point.

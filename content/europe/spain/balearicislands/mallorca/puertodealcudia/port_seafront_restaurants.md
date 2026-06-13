@@ -8,6 +8,7 @@ tags:
 latitude: 39.8486
 longitude: 3.1213
 snippet: The row of rice and seafood restaurants along the port, best for lunch
+score: 5.6
 ---
 
 The restaurants along Puerto de Alcudia's port front do one thing particularly well: rice. Arroz a banda is the local speciality — short-grain rice cooked in fish stock, typically served in a wide flat pan with alioli on the side, with the fish served separately or stirred in. Paella marinera, loaded with mussels, prawns, and squid, is on every menu. These are not quick dishes; most take at least twenty minutes to prepare properly, and the best places do them in cast iron pans for two or four people. Order early.

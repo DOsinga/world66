@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Governor's House served as the official residence of the Governor-General of Pakistan immediately after independence in 1947 — including Muhammad Ali Jinnah himself in the months before his death in 1948. Jinnah died in the building, which was then known as Government House, on 11 September 1948, fourteen months after Pakistan's creation. The room where he died is preserved. The building thus holds a particular significance in Pakistani national memory beyond its architectural interest."
+score: 6.5
 ---
 
 The Sindh Governor's House — known successively as Government House, the Governor-General's House, and the President's House before settling to its current name — is the official residence of the Governor of Sindh in Karachi's upscale Civil Lines area. The main building is a substantial colonial-era palace constructed in the Indo-Saracenic style favoured by the British for important administrative buildings in South Asia: a combination of Mughal and Gothic elements, domed towers, arcaded verandas, and formal gardens.

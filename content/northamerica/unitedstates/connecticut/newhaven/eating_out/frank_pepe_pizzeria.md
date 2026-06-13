@@ -11,6 +11,7 @@ latitude: 41.3021
 longitude: -72.9152
 sources:
   - https://en.wikipedia.org/wiki/Frank_Pepe_Pizzeria_Napoletana
+score: 8.7
 ---
 
 Frank Pepe has been baking coal-fired Neapolitan-style pizza on Wooster Street since 1925 and the formula has not changed much. The coal-fired brick ovens run at extremely high heat, producing a charred, slightly irregular crust that has become the template for what New Haven pizza means. The white clam pizza — fresh littleneck clams, olive oil, garlic, oregano, and grated Romano, no tomato sauce — is the one dish most associated with the city. Expect a queue on weekends; it moves. Cash only.

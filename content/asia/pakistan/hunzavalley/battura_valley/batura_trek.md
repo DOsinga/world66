@@ -8,6 +8,7 @@ latitude: 36.72
 longitude: 74.48
 story: >
   The Batura Trek was an important mountaineering access route in the 1970s and 1980s, when German and Austrian expeditions used it to reach the Batura peaks. The valley saw little outside attention before the Karakoram Highway opened in the 1970s — before that, the only people who used these pastures were herders from the Passu and Gulmit villages.
+score: 8.8
 ---
 
 The Batura Trek is a multi-day route that follows the glacier and the high pastures alongside it, rising through zones of alpine meadow, scree, and ice. The classic route goes up the left bank of the glacier to the upper pastures at Yashpirt and Fatima Gul — names preserved from the old Wakhi-speaking herders who used these summer grazing grounds. The round trip from Passu takes five to seven days for fit trekkers.

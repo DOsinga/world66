@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 33.8883
 longitude: -117.8636
+score: 6.5
 ---
 
 The Bradford House is a 1902 Queen Anne home on Palm Circle, built by Albert Sumner Bradford — a banker, civic founder, and one of the men responsible for incorporating Placentia in 1926. The house has been preserved by the Placentia Founders Society and is open for occasional tours and community events.

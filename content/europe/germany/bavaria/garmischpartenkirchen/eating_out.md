@@ -5,6 +5,7 @@ longitude: 11.088016
 phone: 0049-882152181
 title: Eating Out
 type: poi
+score: 1.8
 ---
 
 **Contributors**

@@ -7,6 +7,7 @@ tags:
   - midtown
 latitude: 38.5646
 longitude: -121.4706
+score: 7.3
 ---
 
 Sacramento's most celebrated restaurant, running a single-seating prix fixe dinner in an open kitchen format where the chefs interact with guests throughout the meal. The Kitchen has been at the forefront of Sacramento's farm-to-fork movement since 1991, sourcing almost everything from the Central Valley, and the menu changes completely each week to reflect what is at peak ripeness.

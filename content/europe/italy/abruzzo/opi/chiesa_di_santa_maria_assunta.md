@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The church's bell tower dates to the 16th century, but the rest of the building has been rebuilt repeatedly after earthquakes — a common fate for churches in this seismically active part of the Apennines. Each reconstruction layered a new era's style onto the old bones.
+score: 6.2
 ---
 
 The parish church of Opi stands at the high point of the village along Via Roma, its stone facade blending into the surrounding houses almost seamlessly. The building has medieval origins — probably 12th century — but what you see today is largely the result of a 17th-century reconstruction after earthquake damage. Inside, the single nave is plain and atmospheric, with a handful of modest artworks and a quiet dignity that suits the village.

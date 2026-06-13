@@ -7,6 +7,7 @@ tags:
 - bar
 title: Stepwell Cafe
 type: poi
+score: 5.1
 ---
 
 The small cluster of cafes that has grown up around Toorji Ka Jhalra since its restoration makes a natural stop between bouts of old-city wandering. Stepwell Cafe sits close enough to the stepwell's edge that you can watch the light on the water while you drink your coffee. The menu is simple — chai, filter coffee, cold drinks, a few snacks — and the prices are higher than a dhaba but fair for the location.

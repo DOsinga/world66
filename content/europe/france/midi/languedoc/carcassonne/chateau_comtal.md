@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 43.2073
 longitude: 2.3637
+score: 8.9
 ---
 
 The fortified castle inside the Cité, built in the 12th century as the residence of the Counts of Carcassonne and later converted into a citadel within the citadel — a last refuge if the outer walls fell. The Château Comtal is the one part of the Cité that requires a ticket and a guided or audio-guided tour; admission also covers the rampart walk along the inner walls, which offers the best views over the lists and the outer fortifications.

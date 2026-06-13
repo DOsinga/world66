@@ -5,6 +5,7 @@ snippet: Two-storey oratory with frescoes by Sodoma and Beccafumi
 tags: [things_to_do, sight, church]
 latitude: 43.3211
 longitude: 11.3360
+score: 7.6
 ---
 
 Built on the site where Bernardino of Siena, the great 15th-century preacher, used to address open-air crowds in Piazza San Francesco. The upper oratory holds an extraordinary fresco cycle of the Life of the Virgin by Sodoma, Beccafumi, and Girolamo del Pacchia — a compact survey of mature Sienese Renaissance painting.

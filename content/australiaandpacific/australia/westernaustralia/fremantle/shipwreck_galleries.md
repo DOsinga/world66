@@ -13,6 +13,7 @@ story: >
   Cornelisz, who systematically murdered around 125 survivors on the
   islands before being hanged on a third — is one of the darkest stories in
   Australian colonial history.
+score: 8.8
 ---
 
 The Shipwreck Galleries occupy a beautiful 1850s commissariat store on Cliff Street, the oldest public building in Western Australia. They display the recovered remains and cargo of the four major Dutch East India Company wrecks off the Western Australian coast — the Batavia, Zuytdorp, Vergulde Draeck, and Zeewijk — together with the more recent wreck of the Rapid.

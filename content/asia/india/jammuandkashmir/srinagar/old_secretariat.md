@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.0817
 longitude: 74.8050
+score: 7.1
 ---
 
 The old Secretariat building on Maulana Azad Road is one of the finest examples of the distinctive Kashmiri architectural style that flourished under the Dogra Maharajas in the late 19th and early 20th century. The building combines traditional Kashmiri elements — steeply pitched wooden-shingled roofs, carved timber brackets, and a general timbered heaviness — with a civic grandeur that reflects the Maharajas' ambitions for a modern capital. The effect is unlike anything else in India.

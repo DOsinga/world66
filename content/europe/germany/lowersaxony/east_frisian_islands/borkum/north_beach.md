@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.5960
 longitude: 6.6800
+score: 8.2
 ---
 
 Borkum's north beach is the island's main attraction — a broad, clean stretch of sand backed by dunes, facing directly into the North Sea. The beach runs for kilometres along the northern coast and is wide enough that it never feels overcrowded even in summer. The characteristic German beach chair (*Strandkorb*), a hooded wicker seat for two, is available for hire from spring through autumn and provides shelter from the wind while still letting you sit in the sun.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0612
 longitude: 12.5677
+score: 7.8
 ---
 
 The main square of medieval and Renaissance Rimini, framed by the brick Palazzo dell'Arengo, the Palazzo del Podestà, the old fish market (Pescheria), and the rebuilt Galli theatre. The Fontana della Pigna at its centre is a sixteenth-century pinecone fountain that Leonardo da Vinci is said to have admired during his time in the city.

@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Jami Masjid
 type: poi
+score: 9.1
 ---
 
 Jami Masjid is the showpiece of Champaner: a grand Friday mosque with high minarets, carved stone screens, pillared halls, and a broad courtyard that still feels ceremonial even in ruin. The proportions are elegant, but the details are what slow you down.

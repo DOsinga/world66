@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Confederate General Lewis Armistead, his hat held aloft on his sword, made it to the stone wall and put his hand on a Union cannon before he was shot. Some 12,500 men had set out across the mile of open ground; barely half came back."
+score: 8.7
 ---
 
 The most famous frontal assault in American history took place across the open fields between Seminary Ridge and Cemetery Ridge on 3 July 1863. The high-water mark of the Confederate advance — the small "Angle" in the stone wall, where General Armistead briefly broke the Union line before being shot — is marked with a bronze book and a clutch of monuments.

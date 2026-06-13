@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Monsoon Palace
 type: poi
+score: 8.0
 ---
 
 A hilltop palace perched on the Aravalli range west of the city, originally built as an astronomical observatory and monsoon retreat. The palace itself is a shell — there is not much to see inside — but the panoramic views over Udaipur and its lakes at sunset are the real draw.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 A small Carpenter Gothic frame church and adjoining cemetery on the northern edge of Titusville, built in 1869 by the area's earliest pioneer settlers. The church is the oldest building in Brevard County and still in occasional use; it is unlocked and free to enter, though there are no scheduled services.

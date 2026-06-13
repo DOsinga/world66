@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Zoroastrian tradition holds that burying or burning the dead would contaminate the sacred earth and fire. Instead, the deceased were laid on the flat tops of these circular stone towers for birds of prey to consume — a rite called sky burial. The practice continued in Yazd until the 1960s, when the community adopted conventional burial after government pressure.
+score: 8.6
 ---
 
 On a desert plain several kilometres southwest of Yazd, two large circular stone platforms rise from the gravel — the dakhmas, or Towers of Silence, where Yazd's Zoroastrian community practised sky burial until the mid-20th century. The towers themselves are off-limits, but you can walk up to and around them, and the barren landscape and mountain backdrop make for a striking destination.

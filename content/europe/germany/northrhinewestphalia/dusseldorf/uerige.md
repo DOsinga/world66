@@ -7,6 +7,7 @@ tags:
 latitude: 51.2283
 longitude: 6.7710
 address: "Berger Straße 1, Düsseldorf Altstadt"
+score: 7.9
 ---
 
 Uerige is the most characterful of the four classic Altbier brewpubs in Düsseldorf's Altstadt, a institution since 1862 that still brews its own dark, bitter Altbier on the premises. The interior is a labyrinth of low-ceilinged rooms, dark wood, and old tilework, filled at most hours with local regulars and a steady stream of visitors who have made the pilgrimage for the beer.

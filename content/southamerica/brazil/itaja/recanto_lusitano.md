@@ -6,6 +6,7 @@ longitude: -48.6610
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A long-running Portuguese restaurant downtown that does serious salt cod (bacalhau à brás, à lagareiro, com natas) and grilled sardines, along with caldo verde and other dishes from the home country. Decoration is the usual tile-and-painted-azulejo kit; the food is the reason to come.

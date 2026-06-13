@@ -5,6 +5,7 @@ tags: [things_to_do, sight, religious]
 latitude: 37.5025
 longitude: 15.0881
 story: "The cathedral holds the relics of Sant'Agata, the city's patron saint, who was martyred under the Romans in the third century by having her breasts cut off. Once a year, in February, the relics are paraded through Catania in a three-day festival that draws a million people — one of the largest religious processions in the Christian world."
+score: 8.3
 ---
 
 The Duomo of Catania is dedicated to Sant'Agata and sits at the eastern end of Piazza del Duomo, on the foundations of a Norman cathedral founded in 1078. The baroque facade, designed by Giovanni Vaccarini after the 1693 earthquake, uses the same three-tone palette as much of the rebuilt city: white limestone, black lava, and warm honeyed tufa.

@@ -6,6 +6,7 @@ longitude: -118.0517
 tags:
   - shopping
   - sight
+score: 5.0
 ---
 
 A large open-air shopping mall immediately west of the racetrack, with the full range of US chain stores plus a small but reliably interesting food court that reflects the city's east Asian demographics — boba tea, Japanese curry, Korean fried chicken, Taiwanese pork chop rice. The Pacific Theatres cinema on site is one of the bigger multiplexes in the San Gabriel Valley.

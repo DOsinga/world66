@@ -11,6 +11,7 @@ story: >
   decided to build a building so narrow that it would blot out his sibling's
   sea view. The building still stands; the grudge presumably outlived both
   men.
+score: 5.7
 ---
 
 Al Ba'sa — "The Spite" — is the thinnest building in Beirut, a four-storey sliver in Manara that narrows to about 60 centimetres at one end. It is the architectural equivalent of a family feud written in concrete.

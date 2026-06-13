@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.1335
 longitude: -72.4453
+score: 6.9
 ---
 
 The Square is the small, three-sided open space at the centre of Bellows Falls, with the **Immanuel Episcopal Church** (1867, Gothic Revival) on its west side and a row of brick commercial buildings around it. Most of the buildings date from the 1880s and 1890s, the village's industrial peak.

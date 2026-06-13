@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.15081
 longitude: 92.2164
+score: 8.0
 ---
 
 Shoilo Propat is a natural waterfall about 5km south of Bandarban town, reached by a short walk from the road. During and just after the monsoon (roughly July-October) the waterfall is at its most impressive, with a good volume of water dropping over a rocky shelf into a pool below. In the dry season it dwindles considerably.

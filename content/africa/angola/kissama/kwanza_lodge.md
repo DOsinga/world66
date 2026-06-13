@@ -7,6 +7,7 @@ tags:
 - accommodation
 title: Kwanza Lodge
 type: poi
+score: 4.7
 ---
 
 Kwanza Lodge sits on the southern bank of the Kwanza River, just outside the northern boundary of Kissama National Park. It is the main organised accommodation serving the park — a complex of stone-walled rondavels and a central lodge with a pool overlooking the river. Rooms are comfortable rather than luxurious and prices are high by Angolan standards.

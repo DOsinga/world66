@@ -7,6 +7,7 @@ snippet: Wide-ranging natural history and archaeology museum on the Kalvskinnet 
 tags:
 - things_to_do
 - museum
+score: 8.3
 ---
 
 The university museum sits on the Kalvskinnet hill west of the cathedral and covers a remarkably broad sweep — Trøndelag archaeology from the Stone Age through the Viking era, church art from the Middle Ages, ecclesiastical silver, taxidermied Norwegian wildlife, and rotating science exhibitions. It is one of the oldest scientific institutions in Norway, founded in 1760.

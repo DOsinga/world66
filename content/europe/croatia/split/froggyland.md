@@ -13,6 +13,7 @@ story: >
   ended up in Split, where it has been displayed since the 1950s. How exactly a collection
   of taxidermy frogs doing human activities ended up in Diocletian's Palace is one of those
   questions that Split doesn't feel obliged to answer.
+score: 6.9
 ---
 
 Froggyland is a collection of 507 taxidermied frogs arranged in 21 dioramas depicting human scenes: a frog concert, a frog school, frog football, frog barbershop. The scale is tiny — each frog is the size of a thumb — and the detail is extraordinary: individual music stands, tiny footballs, miniature razors. The whole thing is deeply strange and entirely unforgettable.

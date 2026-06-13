@@ -10,6 +10,7 @@ story: >
   The hortillonnages have been worked as market gardens since the Middle Ages, and until the twentieth century the gardeners' sole means of transport was the flat-bottomed punt called the barque à cornet. Each Saturday morning, a floating market took place on the channels, with vegetables sold directly from boat to boat. The floating market ended in the 1960s, but the punt trips still run, and in September an annual floating market briefly revives the tradition.
 sources:
   - https://en.wikipedia.org/wiki/Hortillonnages_of_Amiens
+score: 8.3
 ---
 
 The hortillonnages are a network of about 300 hectares of market gardens created in the marshes of the Somme east of Amiens, threaded through by 65 kilometres of channels and accessible only by flat-bottomed boat. They are one of the most remarkable living agricultural landscapes in France — a medieval system of cultivation maintained on plots that have been continuously farmed since at least the twelfth century.

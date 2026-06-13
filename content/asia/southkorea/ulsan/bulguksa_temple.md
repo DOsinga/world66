@@ -7,6 +7,7 @@ tags:
 - temple
 title: Bulguksa Temple
 type: poi
+score: 8.5
 ---
 
 The most famous temple in Korea, Bulguksa sits in forested hills outside [Gyeongju](/asia/southkorea/gyeongju), about an hour by bus from Ulsan. Built by Kim Dae-seong in 751 and restored to its present form in 1973, it was designated a UNESCO World Heritage Site in 1995 — and it deserves the listing.

@@ -7,6 +7,7 @@ tags:
 snippet: "Hands-on collection of working antique telephone switching gear"
 latitude: 44.5733
 longitude: -68.3661
+score: 7.5
 ---
 
 The Telephone Museum just north of Ellsworth is one of the more unexpected attractions in Hancock County. The collection covers the entire span of analogue telephony, from early candlestick phones to room-sized electromechanical switching equipment that once routed calls across northern Maine.

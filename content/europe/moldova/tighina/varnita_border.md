@@ -8,6 +8,7 @@ snippet: "Curious border-within-a-country between Moldova-controlled Varnița an
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 Just north of Bender, the village of Varnița is one of the strangest points on the Moldovan map: physically attached to Bender, technically inside the same municipality, but governed by Chisinau rather than Tiraspol. The result is a small island of Moldovan jurisdiction inside Transnistrian-administered territory — a place where Moldovan and Transnistrian flags fly within a few hundred metres of one another and where Russian and Romanian street signs alternate from block to block.

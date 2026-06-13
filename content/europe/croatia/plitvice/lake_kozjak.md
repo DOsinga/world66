@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.889
 longitude: 15.606
+score: 7.8
 ---
 
 Lake Kozjak is the largest lake in the park, stretching roughly 2.4 kilometres in length and separating the Upper and Lower Lakes sections. It is crossed by a flat-bottomed electric ferry that runs throughout the day — the boat journey takes about 15 minutes and is one of the best ways to appreciate the scale of the park. The lake's banks are forested with beech and maple, and the water is a deep greenish-blue.

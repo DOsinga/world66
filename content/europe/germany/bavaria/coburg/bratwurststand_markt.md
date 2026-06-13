@@ -7,6 +7,7 @@ tags:
   - morizkirche_quarter
 latitude: 50.2582
 longitude: 10.9644
+score: 7.8
 ---
 
 The bratwurst stands on Coburg's Marktplatz are not a tourist attraction in any manufactured sense — they are simply where the town eats its sausages, and have been for several centuries. The Coburger Bratwurst is distinct from the Nuremberg or Thuringian varieties: it is larger — about 25 centimetres long — made from coarsely ground pork with a light spice mix, and grilled over burning pine cones, which give it a faintly smoky, resinous character. It is served in a crusty Semmel (roll), with mustard if you want it.

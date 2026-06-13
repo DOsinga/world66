@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.6603
 longitude: -70.2510
+score: 7.0
 ---
 
 A small cult favourite on Middle Street known for hand-cut Belgian-style fries fried in (yes) duck fat and served with house-made dipping sauces. Beyond the fries, the kitchen does excellent panini, hot dogs on house buns, and a constantly changing list of small plates.

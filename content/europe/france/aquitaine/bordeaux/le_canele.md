@@ -9,6 +9,7 @@ longitude: -0.5742
 snippet: Bordeaux's signature pastry — caramelised outside, custardy inside, found in every boulangerie in town
 story: >
   The canelé's origin is disputed but the most plausible story traces it to the Annonciades convent in Bordeaux, where 18th-century nuns used egg yolks left over from wine production — winemakers used egg whites to clarify wine and discarded the yolks — to make a small custard cake in fluted copper moulds. The recipe eventually reached the city's pâtisseries, and the canelé became Bordeaux's most copied export.
+score: 7.0
 ---
 
 The canelé is Bordeaux's signature pastry — a small cylinder of vanilla-and-rum custard baked in a fluted copper mould until the outside caramelises to a dark, almost lacquered crust while the interior stays soft and custardy. It is peculiar, specific, and very good when made properly.

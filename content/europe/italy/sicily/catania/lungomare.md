@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, beach]
 latitude: 37.4994
 longitude: 15.1090
+score: 5.9
 ---
 
 The Lungomare is the seafront promenade running south-east from the port for several kilometres. It is not picturesque in the way of Naples or Reggio Calabria — the road is busy, the buildings are mostly twentieth-century — but the views back to Mount Etna and out to the Ionian Sea are excellent.

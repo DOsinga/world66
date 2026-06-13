@@ -9,6 +9,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Tiny no-frills institution for traditional Popayán snacks"
+score: 6.3
 ---
 
 A small, no-frills counter-and-stools spot near Parque Caldas that has become a Popayán institution. The menu sticks to the local classics: *empanadas de pipián* and *tamal de pipián*, served with the sharp peanut hot sauce that defines the region; *masato*, *aguardiente*, hot *agua de panela*.

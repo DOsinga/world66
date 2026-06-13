@@ -4,6 +4,7 @@ type: poi
 latitude: 52.1594
 longitude: 4.4904
 tags: [things_to_do, sight]
+score: 7.1
 ---
 
 The Leiden Weigh House on Aalmarkt was built in 1657–1659 to weigh the bales of cloth that brought the city its wealth. The architect was Pieter Post, who also designed parts of the Mauritshuis in The Hague, and the building's restrained classicism is one of the better examples of Dutch golden-age public architecture.

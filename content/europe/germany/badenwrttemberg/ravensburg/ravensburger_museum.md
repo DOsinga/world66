@@ -7,6 +7,7 @@ tags:
 latitude: 47.7831
 longitude: 9.6114
 snippet: Museum dedicated to the history of the Ravensburger board game and puzzle company
+score: 6.8
 ---
 
 The Ravensburger company has been making board games and puzzles in this city since 1883, and it has become part of the civic identity in a way that few commercial enterprises manage. The museum documents the company's history through its products — games and puzzles from different decades that double as a kind of social history of European childhood over the past 140 years.

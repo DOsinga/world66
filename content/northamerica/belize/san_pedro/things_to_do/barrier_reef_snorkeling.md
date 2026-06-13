@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 17.9322
 longitude: -87.9284
+score: 8.9
 ---
 
 The Belize Barrier Reef — a UNESCO World Heritage Site and the largest barrier reef in the Northern Hemisphere — runs just offshore from San Pedro, making it among the most accessible in the world. Hol Chan Marine Reserve and Shark Ray Alley are the most popular snorkeling spots, reachable in 10–15 minutes by boat from the dock.

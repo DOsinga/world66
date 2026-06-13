@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beaches
   - nature
+score: 6.6
 ---
 
 Salagdoong Beach, on the eastern coast of Siquijor near Maria town, is the island's most popular beach for Filipinos. It is a small, pretty cove with a modest resort setup, shaded trees, and clear blue-green water — but its main draw is the cliff jumping platforms built at the end of a rocky promontory. There are two levels: the lower one is suitable for most swimmers, the upper requires more nerve. It costs a small entrance fee to use the platforms.

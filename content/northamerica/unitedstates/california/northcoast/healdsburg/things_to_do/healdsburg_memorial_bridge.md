@@ -9,6 +9,7 @@ longitude: -122.86
 snippet: 1920s steel truss bridge on the National Register of Historic Places
 sources:
   - https://en.wikipedia.org/wiki/Healdsburg_Memorial_Bridge
+score: 5.7
 ---
 
 The Healdsburg Memorial Bridge carries Healdsburg Avenue across the Russian River south of the downtown plaza. Built in the 1920s, it's a Pratt through-truss bridge — the functional industrial style of the era — and sits on the National Register of Historic Places. In summer, the gravel bar below the bridge is a gathering spot for locals who come to swim in the Russian River.

@@ -6,6 +6,7 @@ longitude: 40.9018
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 A small museum tucked into the alleys behind the seafront, restored as a typical 18th-century Swahili merchant's house. The rooms are arranged the way they would have been used — outer reception, inner family quarters, kitchen courtyard — and furnished with carved beds, cooking pots, and trade goods.

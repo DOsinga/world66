@@ -5,6 +5,7 @@ tags: [things_to_do, sight, transport]
 latitude: 47.67224
 longitude: -122.120156
 story: "The Downtown Redmond Station opened in May 2024 as the eastern terminus of the 2 Line, extending light rail from Bellevue across the Eastside to Redmond. The station's opening ended a long period in which Redmond, despite being home to Microsoft and some of the highest-earning workers in the Seattle region, had no direct rail link to the city. The extension was the most expensive per-mile segment of the region's light rail buildout, reflecting the cost of building through dense suburban development."
+score: 6.0
 ---
 
 The Downtown Redmond Station opened in 2024 as the terminus of Sound Transit's 2 Line, the light rail extension that finally connects Redmond directly to Bellevue, Mercer Island, and Seattle. The station is adjacent to Redmond Town Center and effectively becomes the gateway to downtown Redmond for visitors arriving from the rest of the Seattle metro area.

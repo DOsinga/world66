@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 30.3667
 longitude: -89.0925
 story: The harbor area was one of the few parts of Gulfport's waterfront that recovered relatively quickly after Katrina — the small-boat community returned faster than the casino barges, partly because the boats themselves could be moved and rebuilt more easily than the massive floating structures that had defined the pre-storm waterfront.
+score: 5.9
 ---
 
 Jones Park sits along the Gulfport waterfront and anchors the Small Craft Harbor, the working and recreational boating centre of the city. The park itself is modest — mostly lawn, a fountain, and open water views — but the surrounding harbor and the Ship Island ferry terminal give it life. The amphitheatre in the park hosts concerts and community events during warmer months.

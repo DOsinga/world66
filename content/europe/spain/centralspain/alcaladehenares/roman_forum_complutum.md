@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.4736
 longitude: -3.3842
+score: 7.8
 ---
 
 Complutum was the Roman city that preceded medieval Alcalá, and its forum — a significant archaeological site — lies about a kilometre outside the current city centre, partially excavated and accessible to visitors. The site reveals the basilica, marketplace, public baths, and cryptoporticus (a vaulted underground passage) of a prosperous Roman settlement that thrived from the first century AD until its eventual abandonment.

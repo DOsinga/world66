@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.3258
 longitude: 69.2380
+score: 8.6
 ---
 
 The old town — what little of it survived the 1966 earthquake and Soviet rebuilding — runs west and north of the centre, around Chorsu Bazaar and the Khast Imam Complex. It is genuinely an old quarter: narrow streets, low mud-brick walls, hidden courtyards, and the traditional mahalla neighbourhood structure that still organises social life.

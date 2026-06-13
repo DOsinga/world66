@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, historic]
 latitude: 39.155
 longitude: -119.766
+score: 8.4
 ---
 
 The Nevada State Railroad Museum is one of the finest railroad museums in the American West, and it has a more specific and compelling story than the typical rolling-stock collection. The focus is the Virginia & Truckee Railroad — the short line built in 1869 to connect Carson City and the silver mines of the Comstock Lode to the transcontinental railroad at Reno. For about two decades the V&T was reportedly the richest railroad per mile in the country, carrying millions of dollars in silver ore down from Virginia City and bringing timber, supplies, and people back up. When the mines played out, the railroad gradually contracted and eventually closed in 1950.

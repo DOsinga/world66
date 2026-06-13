@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 42.048
 longitude: -8.646
+score: 8.0
 ---
 
 The old town of Tui climbs the hill from the riverfront to the cathedral, a network of narrow cobblestone streets lined with granite-faced houses and occasional Roman remains. The architecture is unmistakably Galician — grey stone, glassed-in balconies called *galerías*, overhanging upper floors — but the town's border position has given it a Portuguese quality too.

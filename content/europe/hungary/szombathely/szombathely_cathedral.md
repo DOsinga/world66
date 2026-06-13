@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When American bombers hit Szombathely in March 1945 they devastated the cathedral, destroying most of Franz Anton Maulbertsch's eighteenth-century frescoes. What you see inside today is largely a postwar reconstruction — the ceiling paintings were never recovered, and the bare vaults are a deliberate scar."
+score: 6.9
 ---
 
 The Cathedral of the Visitation of Our Lady is the seat of the Diocese of Szombathely and the dominant building on Berzsenyi Dániel tér. It was built in the 1790s in a restrained late-Baroque style for Bishop János Szily, who effectively built modern Szombathely around it.

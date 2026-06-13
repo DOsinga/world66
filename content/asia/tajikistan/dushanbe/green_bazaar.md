@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 38.5591
 longitude: 68.7741
+score: 7.7
 ---
 
 The Green Bazaar — officially Shohi Mansur but universally called the Green Bazaar — is distinct from the Barakat indoor market and offers more of an open-air experience. Fruit and vegetable sellers dominate the outer sections, with the best selection of Tajik dried fruits and nuts in the city: apricots, mulberries, walnuts, and pomegranates in season.

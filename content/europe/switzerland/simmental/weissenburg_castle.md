@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Weissenburg_Castle
 story: >
   The lords of Weissenburg controlled the lower Simmental from this ridge for most of the thirteenth and fourteenth centuries. Their castle changed hands several times through marriage and debt before the Bernese took the valley in 1386, at which point the strategic need for the fortress declined and it was gradually abandoned.
+score: 5.8
 ---
 
 The ruins of Weissenburg Castle stand on a wooded spur above the lower Simmental near Därstetten, reached by a 20-minute walk from the Weissenburg train station. The walls are substantially intact and give a good sense of the scale of the original structure. The site is unfenced and open at all times.

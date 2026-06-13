@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
 title: Palm Wine Sellers
 type: poi
+score: 6.0
 ---
 
 Along the edges of M'Baïki's market and on the roads leading out of town, small vendors sell palm wine (vin de palme) tapped from the raphia and oil palms of the surrounding forest. It is drunk from calabashes or repurposed plastic containers, usually on the spot.

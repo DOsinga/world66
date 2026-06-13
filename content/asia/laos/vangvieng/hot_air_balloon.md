@@ -9,6 +9,7 @@ longitude: 102.4490
 snippet: Sunrise and sunset balloon flights over the karst landscape, with views no road or trail can match
 story: >
   From balloon height the karst landscape reveals its full geometry: hundreds of limestone towers, each one separate, rising from a flat valley floor of bright green rice paddies and brown river bends. It looks like a landscape from a fantasy novel and from the ground you only ever see parts of it. The balloon flights operate at sunrise and sunset, when the light is best and the thermals most cooperative. Flights last about 45 minutes and land back near the launch site.
+score: 8.8
 ---
 
 Several operators run hot air balloon flights from a field near the town centre. The standard flight covers the valley and circles some of the major karst formations before descending. Prices are higher than most activities in Vang Vieng but the experience is exceptional and genuinely different from everything else on offer.

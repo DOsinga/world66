@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: The main lakeside village, with the tourist office and most services
+score: 6.3
 ---
 
 Ribcev Laz is the tidy little settlement at the eastern end of the lake and the de facto centre of the Bohinj region. The tourist information office, the main bus stop, the post office, a small supermarket, several restaurants and the row of boat-rental jetties are all here, within a few hundred metres of each other. It is not really a place to base yourself for a quiet stay — that is what the other lake villages are for — but it is where you come to organise things.

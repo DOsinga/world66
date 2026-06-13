@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The promenade was extended in the early 2000s by carving a new section into the sandstone cliffs that line the city's waterfront. The cliffs themselves are eroding by about half a metre a year, so the city has had to engineer rock-stabilising mesh and underground drainage to keep the path safe.
+score: 7.7
 ---
 
 Netanya's signature feature is its clifftop promenade, a long paved walkway running high above the Mediterranean and offering uninterrupted views of the sea. Benches, palm trees, and small landscaped lookouts line the route, and a series of glass elevators and switchback stairways drop visitors down to the beaches below.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The headland at the harbour mouth, crowned by the Faro Mazatlan"
+score: 6.7
 ---
 
 Crestón Island is the 157-metre rocky headland that closes the south end of the harbour. It is connected to the mainland by a short causeway and is best known as the base of the lighthouse climb. The lower slopes are covered in dry scrub, cactus, and a colony of squirrels that the path up to the lighthouse passes through.

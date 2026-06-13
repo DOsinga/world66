@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 56.8295
 longitude: -132.9640
+score: 5.9
 ---
 
 A small waterfront park at the north end of Petersburg where bald eagles congregate year-round to feed on the fish scraps that wash out from nearby processing facilities. Dozens of eagles are often visible simultaneously — perched on pilings, fighting over scraps in the air, or simply standing in the rain in that imperious way bald eagles have. It is one of the easiest places in Southeast Alaska to observe these birds at close range.

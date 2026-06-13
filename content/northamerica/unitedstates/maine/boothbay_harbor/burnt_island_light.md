@@ -13,6 +13,7 @@ story: >
   the island for much of the 20th century kept meticulous diaries of daily life on the
   island, which form the basis of the living history program that now runs each summer.
   A volunteer docent plays the role of the 1950s keeper and his family throughout the tour.
+score: 7.8
 ---
 
 Burnt Island Light stands on a small island at the mouth of Boothbay Harbor, built in 1821 and one of the oldest surviving lighthouses in Maine. The Maine Bureau of Parks and Lands runs guided tours to the island by boat each summer, where living history interpreters portray the lighthouse keeper's family in the 1950s — an unusually theatrical format for a historic site.

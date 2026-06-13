@@ -8,6 +8,7 @@ tags:
 title: Futarasan Shrine
 type: poi
 story: Futarasan Shrine was founded in 767 CE by the monk Shodo Shonin, who is credited with opening Nikkō as a sacred mountain retreat. Long before the Tokugawa shoguns chose Nikkō for their mausolea, Shodo had climbed Mount Nantai and established worship of the three sacred peaks — Nantai, Nyoho, and Taro — that the shrine still venerates today.
+score: 8.2
 ---
 
 Futarasan Shrine, founded in 767 CE, predates the Tōshōgū complex by nearly nine centuries and is the oldest of the three main Nikkō shrines. It enshrines the three sacred mountains of the Nikkō area — Mount Nantai, Mount Nyoho, and Mount Tarō — and is the principal Shinto sanctuary in the complex.

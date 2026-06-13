@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, altstadt]
 latitude: 50.1096
 longitude: 8.6824
+score: 7.7
 ---
 
 The Historisches Museum, in a complex of buildings on the southern edge of the Römerberg, tells the story of Frankfurt from its Roman origins to the present. The 2017 reopening — after a decade-long rebuild — produced one of the most thoughtful city museums in Germany, with floors arranged around questions ("What is Frankfurt? Who is Frankfurt?") rather than chronology. Highlights include the 9-square-metre Snow White-style cabinet model of the entire city, the medieval Saalhof and Bernuspalais wings, and rooms on the rebuilding of the city after 1945.

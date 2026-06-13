@@ -13,6 +13,7 @@ tags:
 - museum
 title: Norwegian Canning Museum
 type: poi
+score: 8.1
 ---
 
 The only canning museum in the world, housed in a genuine 1916 sardine cannery in the old harbour district. Stavanger's sardine industry was the engine of the city's economy for most of the 20th century, and this museum does justice to the story — from the women who hand-packed the tins to the global export trade that put Norwegian sardines on tables from Paris to New York.

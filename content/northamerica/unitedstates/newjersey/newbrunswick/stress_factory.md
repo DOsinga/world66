@@ -6,6 +6,7 @@ longitude: -74.4434
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Stress Factory on Church Street is a stand-up comedy club founded by comedian Vinnie Brand in 1991 and one of the best-known clubs on the New York-Philadelphia circuit. The line-up runs Thursday through Sunday and regularly draws names you might catch at a much larger New York venue — Jim Norton, Bobby Collins, Patrice O'Neal in earlier days — at much lower prices.

@@ -8,6 +8,7 @@ tags:
 - waikiki
 title: Kapiolani Park
 type: poi
+score: 6.9
 ---
 
 Kapiolani Park is Honolulu's oldest and largest public park, a 160-acre expanse of banyan trees, lawns, and open space at the base of Diamond Head. Named for Queen Kapiolani, it was donated to the public in 1877 and has been the city's outdoor living room ever since. At the weekend it fills with joggers, yoga classes, cricket matches, kite flyers, and families.

@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Carrington_Hotel,_Katoomba
 story: >
   The Carrington opened in 1882, when wealthy Sydney families would take the train up for weeks at a time. At its peak it had a full orchestra, a skating rink and its own farm supplying the kitchen. After decades of slow decline it was placed on the heritage register and eventually restored. The ornate ballroom with its pressed tin ceiling is original.
+score: 7.4
 ---
 
 The Carrington Hotel is Katoomba's grandest building — a four-storey Victorian pile on the main street with a two-tiered verandah, ornamental ironwork and a sense of confident prosperity that the rest of the town has long since shed. It opened in 1882 as a luxury resort hotel for wealthy Sydney families escaping the summer heat, and was the most fashionable hotel in the mountains for decades.

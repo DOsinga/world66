@@ -10,6 +10,7 @@ latitude: 19.7508
 longitude: -79.8158
 story: >
   The MV Captain Keith Tibbetts was a 100-metre Soviet-built Brigadyr-class frigate sold by Cuba to the Cayman Islands government in 1995 for one US dollar. After her engines were removed and her hulls cleaned, she was towed to Cayman Brac and sunk on 17 September 1996, making her the only diveable Soviet warship in the western hemisphere. She broke in half during Hurricane Mitch in 1998 and now sits as two distinct sections.
+score: 8.8
 ---
 
 The MV Captain Keith Tibbetts lies in 18 metres of water off the north-west coast of Cayman Brac, roughly a quarter-mile offshore. The bow section sits upright with the gun turret still in place; the stern lies on its side at 25 metres. The original superstructure has collapsed but the hull is intact enough that experienced divers can swim through the open passages with care.

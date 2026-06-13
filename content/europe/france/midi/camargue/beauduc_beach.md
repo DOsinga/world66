@@ -8,6 +8,7 @@ tags:
   - kitesurfing
 title: "Beauduc Beach"
 type: poi
+score: 6.7
 ---
 
 Beauduc is a windswept beach and lagoon area loved by kitesurfers and people who like their coast rough around the edges. It is not the place for polished promenades or beach clubs.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - donji_grad
+score: 7.3
 ---
 
 The Botanički vrt belongs to the University of Zagreb and has been on this five-hectare site since 1889. The layout — formal beds, a serpentine lake, an arboretum of mature exotic trees, glasshouses — is a textbook 19th-century botanical garden, beautifully maintained and almost always quiet. Around 10,000 plant species are grown; the Croatian native flora collection is the most interesting for those who already know temperate plants.

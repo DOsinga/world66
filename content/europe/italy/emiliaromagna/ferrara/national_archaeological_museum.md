@@ -7,6 +7,7 @@ tags:
 address: "Via XX Settembre 122"
 latitude: 44.8342
 longitude: 11.6230
+score: 7.6
 ---
 
 Housed in the upper floor of Palazzo di Ludovico il Moro — a beautiful Renaissance building in its own right — the National Archaeological Museum contains the finds from the Greco-Etruscan city of Spina, which flourished in the Po delta between the 6th and 3rd centuries BCE. Spina was a major trading port connecting Greece and the Etruscan world, and the tombs excavated at the site have produced thousands of Greek painted vases and Etruscan bronzes.

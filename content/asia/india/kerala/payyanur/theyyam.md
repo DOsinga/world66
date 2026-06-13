@@ -10,6 +10,7 @@ story: >
   Theyyam involves an 8-10 hour ritual process culminating in the performer putting on an enormous sacred headdress (mudi) — some towering three metres above the dancer's head — at which point the deity is believed to enter the performer's body. The performer then moves through the crowd, giving blessings and sometimes delivering oracular pronouncements. Over 400 types of theyyam are documented, each representing a different deity; the most famous include Muthappan (worshipped year-round) and Kathivanoor Veeran, a warrior hero deity.
 sources:
   - https://en.wikipedia.org/wiki/Theyyam
+score: 9.0
 ---
 
 Theyyam is the ritual performance tradition that defines northern Kerala from October to May, and Payyanur is one of the best bases from which to witness it. Unlike the heavily choreographed classical dance forms of south India, theyyam is a live religious ceremony held at individual temples (kavus) and family shrines throughout Kannur and Kasaragod districts — not a performance for tourists but an act of worship.

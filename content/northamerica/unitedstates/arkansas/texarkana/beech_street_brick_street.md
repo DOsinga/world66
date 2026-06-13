@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 33.4472
 longitude: -94.0392
+score: 5.4
 ---
 
 A short stretch of Beech Street on the Arkansas side still has its original red-brick paving from the 1910s, when most American downtowns were laid in brick before asphalt took over. The Beech Street Brick Street is listed on the National Register and runs for a few blocks through a residential neighbourhood of late-Victorian houses.

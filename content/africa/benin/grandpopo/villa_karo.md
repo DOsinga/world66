@@ -7,6 +7,7 @@ tags:
 latitude: 6.276375
 longitude: 1.80672
 snippet: "Finnish-Beninese cultural centre promoting arts and traditions through workshops and exhibitions"
+score: 6.8
 ---
 
 Villa Karo is an unusual institution for a town this size — a Finnish-Beninese cultural centre established to promote dialogue between West African and European arts and traditions. It runs workshops, exhibitions, and performances, with particular focus on Vodun heritage, local crafts, and the visual arts of the Mono Department.

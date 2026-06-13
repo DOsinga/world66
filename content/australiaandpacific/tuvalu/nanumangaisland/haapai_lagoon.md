@@ -5,6 +5,7 @@ snippet: The smaller, southern landlocked pond, ringed by taro pits and coconut 
 tags: [things_to_do, sight, nature]
 latitude: -6.2920
 longitude: 176.3210
+score: 5.8
 ---
 
 The smaller of Nanumanga's two inland lagoons, Ha'apai sits at the south end of the island, surrounded by the gardens and pulaka pits of the main villages. The water is brackish and shallow; villagers fish it informally and use the surrounding ground for traditional swamp-taro cultivation.

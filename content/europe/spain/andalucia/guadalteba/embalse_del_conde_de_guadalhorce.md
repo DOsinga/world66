@@ -9,6 +9,7 @@ longitude: -4.958
 story: "This reservoir was created in 1921 as part of one of Spain's earliest major hydroelectric projects, drowning the old village of Ardales below its waters. On rare occasions of extreme drought, the ghostly outline of the submerged streets has reappeared."
 sources:
   - https://en.wikipedia.org/wiki/Guadalhorce_Reservoir
+score: 7.1
 ---
 
 The largest of the four interconnected reservoirs in the comarca, the Embalse del Conde de Guadalhorce — often just called the Pantano del Chorro — is a turquoise lake cupped between the Sierra de Huma and the limestone scarps that also contain the Garganta del Chorro gorge. The water is extraordinarily blue, and on still mornings the reflections of the cliffs are nearly perfect.

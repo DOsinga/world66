@@ -8,6 +8,7 @@ tags:
 latitude: 50.8542
 longitude: 0.5858
 story: "U-118 was stranded on Hastings beach in 1919 while being towed to France for scrapping after Germany's surrender. It became a major tourist attraction for a decade — visitors paid to clamber over the wreck — before it was eventually broken up by waves and erosion. The rusting sections of hull that remain are an eerie presence at low tide."
+score: 6.4
 ---
 
 The wreck of the German World War I submarine U-118 is visible on the beach at Hastings at low tide. The submarine was a mine-laying U-boat that surrendered at the end of the war and was being towed to France in 1919 when it broke free in rough weather and was driven ashore on the beach west of the town centre.

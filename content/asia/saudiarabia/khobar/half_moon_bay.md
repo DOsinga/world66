@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
 snippet: "Crescent-shaped Gulf beach 25 km south of the city, the local family weekend"
+score: 7.6
 ---
 
 Half Moon Bay is the closest proper beach to Khobar — a wide crescent of clean sand around a shallow turquoise bay, 25 km south of the city. It is busy with local families on Fridays and Saturdays, particularly in the cooler months between October and April. Several resort hotels and serviced beach clubs line the bay, most of them charging a day-pass fee for the loungers, umbrellas and pool access.

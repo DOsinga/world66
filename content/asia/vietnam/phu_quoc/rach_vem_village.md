@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.4022
 longitude: 104.0080
+score: 6.7
 ---
 
 A small fishing village at the northern tip of the island, reached by a rough track through the national park. Rach Vem is known for its unusual floating oyster farms — racks of oyster cages mark the shallow waters offshore, tended by families who have worked this stretch of coast for generations.

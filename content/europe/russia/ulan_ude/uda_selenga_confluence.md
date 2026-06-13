@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8233
 longitude: 107.5494
+score: 6.7
 ---
 
 The Uda flows into the larger Selenga right at the foot of Ulan-Ude — the geographic reason a city grew here in the first place. The bridge between the two banks gives the most photogenic view in the city, with the Odigitrievsky Cathedral above the confluence and the broad Selenga heading north towards Lake Baikal.

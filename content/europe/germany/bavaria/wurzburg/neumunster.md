@@ -7,6 +7,7 @@ tags:
 latitude: 49.79394
 longitude: 9.93161
 snippet: Baroque collegiate church next to the cathedral, built over St. Kilian's martyrdom site
+score: 7.7
 ---
 
 The Neumünster stands directly beside the cathedral, built over the spot where the Irish missionary Kilian was murdered in 689. The current structure is mostly baroque, the result of a major rebuilding completed in 1716, and it is considerably more lavishly decorated than the cathedral next door — the interior is pink and white, with an exuberant high altar and fine stucco work. The contrast between the two adjacent churches, one massively Romanesque and the other giddily baroque, is part of what makes Würzburg's cathedral quarter interesting.

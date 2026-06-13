@@ -6,6 +6,7 @@ tags:
   - family
 latitude: 61.5113
 longitude: 23.7495
+score: 6.9
 ---
 
 Särkänniemi is Tampere's main amusement and leisure park, occupying a forested headland on the north shore of Lake Näsijärvi. It includes roller coasters and rides, an aquarium, a planetarium, a children's zoo, and the Näsinneula Observation Tower. The park has operated since 1966 and is the most-visited attraction in the Tampere region.

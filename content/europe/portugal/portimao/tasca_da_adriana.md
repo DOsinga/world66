@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.1375
 longitude: -8.5388
+score: 5.9
 ---
 
 Tasca da Adriana is a small, no-frills restaurant near the old fish market, known for grilled fish at prices that reflect the local rather than tourist market. The daily specials depend on what arrived that morning — sea bass, bream, squid, sardines in season — and the set lunch is consistently good value.

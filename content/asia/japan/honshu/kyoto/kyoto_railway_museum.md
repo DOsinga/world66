@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kyoto Railway Museum
 type: poi
+score: 7.0
 ---
 
 The Kyoto Railway Museum is the largest railway museum in Japan, opened in 2016 on the site of the old Umekōji steam locomotive shed a short walk west of Kyoto Station. Three full floors of exhibition halls combine with the original semicircular roundhouse, where twenty preserved steam locomotives are displayed on the historic turntable — and several are still in working order, hauling visitors on short rides through the museum grounds on weekends.

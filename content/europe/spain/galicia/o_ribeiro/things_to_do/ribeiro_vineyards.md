@@ -9,6 +9,7 @@ longitude: -8.1300
 sources:
   - https://en.wikipedia.org/wiki/Ribeiro_(DO)
   - https://en.wikipedia.org/wiki/O_Ribeiro
+score: 8.5
 ---
 
 The landscape of O Ribeiro is its own attraction. The vineyards climb steep granite slopes above the Miño, Avia, and Arnoia river valleys in small terraced plots — many of them worked by hand because machinery cannot reach them. The vines are mostly trained low on pergola systems, and in summer the canopy of green is dense and cooling.

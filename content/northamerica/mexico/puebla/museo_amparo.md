@@ -9,6 +9,7 @@ longitude: -98.1985
 snippet: "Outstanding pre-Columbian and colonial art in two joined colonial mansions, far less crowded than the national museums"
 story: >
   The museum opened in 1991 in two joined colonial mansions, funded by the Espinosa Yglesias banking family. Its pre-Columbian collection was assembled over decades from Mexican archaeological sites and covers Olmec, Maya, Aztec, Mixtec, and Zapotec cultures with unusually detailed contextual labelling.
+score: 8.9
 ---
 
 One of the best pre-Columbian and colonial art museums in Mexico, and significantly less crowded than the national museums in Mexico City. The permanent collection spans the major Mesoamerican civilisations — Olmec stone heads, Maya ceramics, Aztec ceremonial objects, Mixtec gold — presented in a thoughtfully designed sequence that makes the cultural relationships clear.

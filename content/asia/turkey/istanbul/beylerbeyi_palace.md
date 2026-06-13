@@ -13,6 +13,7 @@ story: >
   suicide, though the wounds were inconsistent with self-infliction — the first Ottoman sultan
   to have died violently in 300 years. His successor, Abdülhamid II, himself spent the last
   six years of his reign under house arrest here after being deposed in the Young Turk Revolution.
+score: 7.7
 ---
 
 Beylerbeyi Palace sits on the Asian shore of the Bosphorus, just south of the first Bosphorus Bridge, and can be reached by ferry from Beşiktaş or Kabataş in about 20 minutes. Built in 1865 as a summer palace and guest house for visiting foreign dignitaries, it received Napoleon III's wife Empress Eugénie on her way to open the Suez Canal.

@@ -9,6 +9,7 @@ longitude: 17.5774
 snippet: Striking Syriac Orthodox cathedral, centre of Sweden's largest Assyrian community
 story: >
   Södertälje has one of the largest concentrations of Assyrians and Syriacs outside the Middle East — a community that grew from a small handful of immigrants in the 1960s to more than 25,000 people today. They came fleeing persecution in Turkey, Syria, and Iraq. The cathedral, consecrated in 1993, is the seat of the Syriac Orthodox Archbishop of Scandinavia and one of the most architecturally ambitious churches built in Sweden in the 20th century.
+score: 7.6
 ---
 
 St. Aphrem Cathedral is the cathedral of the Syriac Orthodox Church in Södertälje and the seat of the Archdiocese of Scandinavia. It is an imposing building in a style that draws on traditional Syriac ecclesiastical architecture, and it stands as a visible symbol of Södertälje's large Assyrian and Syriac Christian community.

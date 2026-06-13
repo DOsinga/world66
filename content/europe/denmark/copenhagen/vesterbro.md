@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 55.6680
 longitude: 12.5500
+score: 8.2
 ---
 
 Vesterbro, southwest of the city centre, was Copenhagen's roughest working-class neighbourhood for most of the 20th century — a red-light district of cheap hotels and meatpacking plants. It has been gentrified steadily since the 1990s and is now one of the hippest areas in the city, but it still has edges that keep it from becoming sterile.

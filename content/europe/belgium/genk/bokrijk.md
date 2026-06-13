@@ -9,6 +9,7 @@ longitude: 5.5542
 address: Domein Bokrijk, 3600 Genk
 opening_hours: Daily 10:00-18:00 (Apr-Oct); reduced hours Nov-Mar
 snippet: One of Belgium's largest open-air museums — centuries of Flemish rural and urban life reconstructed
+score: 9.0
 ---
 
 Bokrijk is a 550-hectare domain east of Genk encompassing one of the largest open-air architecture museums in Europe. The site gathers historic buildings moved from across Belgium and Flanders — farmhouses, barns, windmills, a church, workshops, a town square with guild houses — and reassembles them in an intelligently organized landscape that demonstrates how Flemish communities lived from the medieval period to the early 20th century.

@@ -9,6 +9,7 @@ tags:
   - sight
   - old_town
 neighbourhood: Old Town
+score: 6.9
 ---
 
 Literatų Gatvė (Literature Street) is a narrow lane off Pilies Street in the old town, whose walls are completely covered with small artworks — ceramic tiles, sculptures, glass pieces, etchings, and paintings — each dedicated to a writer or translator with a connection to Lithuania. The project was begun in 2008 and grows each year as new plaques are added.

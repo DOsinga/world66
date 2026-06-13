@@ -8,6 +8,7 @@ tags:
 latitude: 40.6450
 longitude: 22.9500
 snippet: Small ouzeries tucked into the lanes of the Upper Town
+score: 6.8
 ---
 
 The back streets of Ano Poli have a cluster of small ouzeries and tavernas that offer a quieter and more local alternative to the busy Ladadika scene below. They are casual places, often with no written menu, where the owner recites what is available — usually a short list of grilled fish, grilled meat, octopus, local cheeses, and the seasonal vegetable dishes that Greek cooking does so well.

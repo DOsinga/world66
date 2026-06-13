@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Memorial to the British landings during the 1940 Norwegian Campaign"
 latitude: 62.5635
 longitude: 7.6832
+score: 5.6
 ---
 
 In April 1940, days after the German invasion of Norway, a small British expeditionary force was landed at Åndalsnes with orders to advance south and help defend Trondheim. The Luftwaffe arrived almost immediately. Over a fortnight of bombing, the town was reduced to rubble — almost every building was destroyed — and the British were eventually evacuated by sea. It is one reason Åndalsnes today looks so modern; almost nothing predates the war.

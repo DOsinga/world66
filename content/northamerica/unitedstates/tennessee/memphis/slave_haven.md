@@ -11,6 +11,7 @@ tags:
   - historic_house
 story: >
   The Burkle Estate was owned by Jacob Burkle, a German immigrant who operated a stockyard and bakery in Memphis. Evidence in the house — including trapdoors, false walls, and a passage to the river — suggests it functioned as a station on the Underground Railroad. Enslaved people escaping across the Mississippi from Arkansas and Mississippi would have needed a safe house close to the river crossing. The house is one of the few surviving physical sites in Memphis with documented connections to the escape network.
+score: 7.6
 ---
 
 The Slave Haven Underground Railroad Museum occupies the Burkle Estate, a modest antebellum house in North Memphis that served as a station on the Underground Railroad before and during the Civil War. The museum tells the history of slavery in Memphis and the Mid-South, and the story of the network of people — both Black and white — who organized and supported the escape of enslaved people north toward freedom.

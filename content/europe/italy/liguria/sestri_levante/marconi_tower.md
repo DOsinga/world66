@@ -8,6 +8,7 @@ latitude: 44.2670
 longitude: 9.3885
 story: >
   Guglielmo Marconi conducted wireless transmission experiments from the tower on this headland in the 1930s, exploring how radio waves behaved over water. The promontory gave him a clear line of sight across the Gulf of Tigullio — ideal conditions for his work.
+score: 7.4
 ---
 
 The Marconi Tower at the high point of the Sestri Levante promontory is the best vantage point in town. On a clear day, the panorama extends along the Ligurian coast in both directions and out to the Alps in the north. The walk up from the old town takes about 15 minutes through increasingly quiet streets.

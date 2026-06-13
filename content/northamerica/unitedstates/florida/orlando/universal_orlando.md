@@ -9,6 +9,7 @@ title: Universal Orlando Resort
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Universal_Orlando_Resort
+score: 8.8
 ---
 
 Universal Orlando runs two original parks side by side — Universal Studios Florida and Islands of Adventure — connected by a walking path through CityWalk, its outdoor entertainment and dining district. A third park, Epic Universe, opened in 2025 to the south, making Universal Orlando a multi-day destination in its own right.

@@ -6,6 +6,7 @@ latitude: 37.0199
 longitude: -7.9345
 snippet: "Chapel of Bones lined with over a thousand skulls and skeletons"
 story: "The chapel was built in 1816 from the bones of 1,245 monks exhumed from the adjoining cemetery, which was running out of space. An inscription over the door reads 'Stop here and think — of the fate that will befall you when you reach this state.'"
+score: 7.7
 ---
 
 Behind the gilded 18th-century Carmelite Church of Nossa Senhora do Carmo lies one of Portugal's strangest sights. The Chapel of Bones is a small room — barely six metres by three — whose walls and ceiling are completely covered in human bones and skulls arranged in geometric patterns, with two complete skeletons hanging on the walls.

@@ -8,6 +8,7 @@ tags:
 latitude: -23.542
 longitude: -70.528
 story: "La Portada is a natural arch rising from the Pacific about 16 kilometres north of Antofagasta — one of Chile's most-photographed coastal formations. The arch is composed of alternating layers of volcanic and sedimentary rock that were uplifted when the coastal range formed, then carved by wave action over thousands of years. The site supports a sizeable seabird colony including Humboldt penguins, which are visible from the clifftop viewing area."
+score: 8.8
 ---
 
 La Portada (The Gateway) is a dramatic sea arch rising from the Pacific Ocean about 16 kilometres north of Antofagasta, protected as a national monument since 1990. The formation consists of layers of ancient marine sediments and volcanic rock that have been sculpted by wave erosion into a broad natural arch roughly 50 metres high, standing a few hundred metres offshore.

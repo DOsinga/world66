@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 4.9405
 longitude: -52.3357
+score: 5.8
 ---
 
 The Préfecture is the seat of the French state representative in Guiana and one of the grandest of Cayenne's colonial buildings. Built in the 19th century, it occupies a long, pale-stuccoed block above the Place des Palmistes, with shaded verandas, sweeping staircases and palm-shaded grounds.

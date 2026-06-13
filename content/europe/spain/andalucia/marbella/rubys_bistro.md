@@ -8,6 +8,7 @@ tags:
 title: Ruby's Bistro
 type: poi
 url: www.rubysmarbella.com
+score: 3.6
 ---
 
 Ruby's Bistro provides a relaxing and friendly dinner atmosphere, incorporating Mediterranean and International dishes along with a great selection of French wines. Terrace open for summer.

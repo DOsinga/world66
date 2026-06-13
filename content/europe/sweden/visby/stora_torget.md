@@ -7,6 +7,7 @@ snippet: "The medieval market square at the heart of the old town"
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Stora Torget — Big Square — has been the centre of Visby since the city's Hanseatic boom. The Sankt Karin ruin dominates the east side; the surrounding step-gabled merchants' houses are 17th- and 18th-century but stand on much older cellars. In summer the cafe terraces fill, and the square hosts open-air concerts and the climactic jousts during Medieval Week.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.3737
 longitude: -8.7613
+score: 5.9
 ---
 
 A long-running, family-style seafood restaurant in the streets behind Lapa Church, on the edge of the Bairro Sul fishing quarter. Tables are close together, the dining room is loud, and the menu is dominated by the daily catch — grilled sardines and sea bass in summer, hake and octopus year-round.

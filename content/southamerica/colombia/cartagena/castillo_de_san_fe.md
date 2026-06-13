@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Castillo de San Felipe
 type: poi
+score: 9.4
 ---
 
 The historic Spanish Fortress "Castillo de San Felipe De Barajas," majestically stands guard on a hillside overlooking the city and harbor.

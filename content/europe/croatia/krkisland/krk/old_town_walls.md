@@ -6,6 +6,7 @@ longitude: 14.5756
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Krk's medieval walls survive almost intact around the old town, broken only by a handful of arched gates. The Venetian lion is carved above several of the entrances, a reminder that for nearly three and a half centuries — from 1480 to 1797 — the island was Venetian territory.

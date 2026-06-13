@@ -6,6 +6,7 @@ longitude: 44.3858
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Six kilometres north of Kufa, the Sahla Mosque is a place of intense devotional importance for Shia pilgrims. Tradition associates it with several prophets and imams, and many believe it will be the future residence of the Mahdi when he reappears. Pilgrims often come on Wednesday nights to recite special prayers within its courtyard.

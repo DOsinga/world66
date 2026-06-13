@@ -9,6 +9,7 @@ tags:
 latitude: 50.6375
 longitude: 3.0652
 snippet: Neoclassical opera house from 1923, one of the grandest in northern France
+score: 7.2
 ---
 
 The Opéra de Lille stands on the Place du Théâtre, a short walk from the Grand'Place, its neoclassical façade of columns, allegorical figures, and green copper dome creating one of the more distinguished streetscapes in the city centre. It was built from 1907 to 1913 and inaugurated in 1923 after delays caused by the First World War, during which German forces occupied the city and used the building as a storage depot.

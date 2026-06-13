@@ -14,6 +14,7 @@ story: >
   that can double or triple the population of the entire surrounding county.
 sources:
   - https://en.wikipedia.org/wiki/National_Baseball_Hall_of_Fame_and_Museum
+score: 9.1
 ---
 
 The National Baseball Hall of Fame and Museum is the pilgrimage site for American baseball fans and a genuinely engaging museum for anyone interested in American cultural history. Three floors of exhibits trace the evolution of the game from its 19th-century origins through the present, with an extraordinary collection of artifacts: bats, balls, uniforms, equipment, contracts, photographs, trophies, and memorabilia covering every era of professional play.

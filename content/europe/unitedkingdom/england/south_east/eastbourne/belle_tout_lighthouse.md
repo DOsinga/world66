@@ -12,6 +12,7 @@ story: >
   Belle Tout was built in 1828 to warn ships away from Beachy Head, but it had a fatal flaw: the light sat above the fog line, invisible to ships exactly when they needed it most. The solution was to build a new lighthouse at the base of the cliff in 1902. Belle Tout was then decommissioned, served as a BBC filming location, a private home, and in 1999 was famously moved 17 metres inland when the cliff edge retreated too close. It now operates as a bed and breakfast, probably the only lighthouse in Britain that was relocated to save it from falling into the sea.
 sources:
   - https://en.wikipedia.org/wiki/Belle_Tout_Lighthouse
+score: 6.8
 ---
 
 Belle Tout is the lighthouse on the cliffs west of Beachy Head that was superseded by the red-and-white Beachy Head lighthouse in 1902 — because Belle Tout sat above the fog line and was therefore invisible to ships precisely when they needed warning most. The 1828 granite building is now a small hotel and bed and breakfast, reached by the South Downs coastal path and accessible by car via the Birling Gap road.

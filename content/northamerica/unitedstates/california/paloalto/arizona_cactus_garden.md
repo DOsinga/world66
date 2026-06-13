@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 snippet: "Hidden Victorian cactus garden behind the Stanford mausoleum"
+score: 7.1
 ---
 
 A small, slightly overgrown desert garden tucked behind the Stanford family mausoleum on the

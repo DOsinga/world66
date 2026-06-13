@@ -9,6 +9,7 @@ latitude: 42.4185
 longitude: 0.1368
 sources:
   - https://en.wikipedia.org/wiki/A%C3%ADnsa
+score: 8.7
 ---
 
 The Plaza Mayor is one of the most striking medieval squares in Spain — a vast, elongated space paved in stone and lined on both sides by arcaded porticoes of honey-coloured limestone. The arches are low and irregular, carved at different heights and dates across several centuries, which gives the square a handmade quality quite unlike anything formal or Renaissance.

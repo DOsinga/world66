@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 28.1366
 longitude: -15.4424
+score: 7.8
 ---
 
 The Paseo de Las Canteras runs the full length of the beach, and its terrace bars — *terrazas* — are where the city lives. This is not the packaged beachfront of a resort; it is a working promenade used by ordinary people at all hours. Coffee in the morning, cold Tropical beer at noon, wine as the sun goes down over the Atlantic.

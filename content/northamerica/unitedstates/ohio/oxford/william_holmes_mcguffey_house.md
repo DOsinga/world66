@@ -13,6 +13,7 @@ story: >
   history. McGuffey wrote the first four while teaching at Miami University. The fifth
   and sixth were written by his brother. A generation of American schoolchildren learned
   to read with these books.
+score: 7.1
 ---
 
 The William Holmes McGuffey House is one of Oxford's most historically significant sites. McGuffey was a professor of ancient languages at Miami University from 1826 and later chair of moral philosophy. During his time here he wrote the first four of his celebrated Eclectic Readers — graded elementary textbooks that became the most widely used educational materials in 19th-century America.

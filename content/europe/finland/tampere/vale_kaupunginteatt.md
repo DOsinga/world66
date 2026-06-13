@@ -7,6 +7,7 @@ tags:
   - arts
 latitude: 61.5003
 longitude: 23.7583
+score: 6.7
 ---
 
 The Plevna cinema complex within the Finlayson area is operated by Finnkino and screens current releases in multiple screens. More interesting for cinema enthusiasts is the Valeasema (also known as Vale) in the same area — an arthouse cinema that programmes international and documentary films, Finnish cinema, and retrospective series.

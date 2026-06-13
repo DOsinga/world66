@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 59.3500
 longitude: 26.3542
+score: 6.4
 ---
 
 The defining Rakvere restaurant — a stone-vaulted cellar at 3 Pikk Street with a short menu of modern Estonian dishes done seriously. Local pork loin, smoked Baltic herring with potato cream, wild mushroom soup in autumn, and a dessert list that always includes a riff on Estonian kohuke.

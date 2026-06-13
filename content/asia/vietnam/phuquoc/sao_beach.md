@@ -6,6 +6,7 @@ tags:
   - swimming
 title: Sao Beach (Bai Sao)
 type: poi
+score: 9.1
 ---
 
 Bai Sao is widely considered the most beautiful beach on Phu Quoc — a kilometre of white powder sand and translucent turquoise water on the island's southeast coast, backed by coconut palms. Unlike the west coast beaches, Sao Beach faces east, which means it gets morning light and is sheltered from the afternoon winds that can rough up the Gulf of Thailand side.

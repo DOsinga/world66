@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 16.7892
 longitude: 96.1529
+score: 7.8
 ---
 
 The National Museum on Pyay Road is the country's main repository of Burmese cultural heritage. Its most important exhibit is the Sihasana Throne — the gilded lion throne of the last Burmese king, Thibaw, which was returned from India after independence. The throne is a masterpiece of Burmese royal craftsmanship and the centrepiece of the regalia room.

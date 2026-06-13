@@ -7,6 +7,7 @@ tags:
 latitude: 46.5558
 longitude: 15.6459
 snippet: "Maribor's medieval riverside quarter and summer festival hub"
+score: 8.0
 ---
 
 Lent is the old riverside quarter of Maribor, a stretch of quays and warehouse buildings along the left bank of the Drava that has been restored into the city's most animated social space. The name comes from the medieval Slovene word for the riverside landing area. Today it's a pedestrian promenade lined with bars, restaurants, and gallery spaces, and in summer it hosts the enormous Lent International Summer Festival, one of the largest outdoor cultural events in Slovenia.

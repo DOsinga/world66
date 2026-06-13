@@ -9,6 +9,7 @@ tags:
   - sight
   - old_town
 neighbourhood: Old Town
+score: 7.9
 ---
 
 Pilies Gatvė (Castle Street) is the central artery of the Vilnius Old Town, running from Cathedral Square south through the heart of the medieval city. The street is narrow, cobbled, and in summer lined with outdoor stalls selling amber jewellery, linen goods, and folk crafts alongside cafes with pavement tables. It is the most visited street in Vilnius and the obvious starting point for any exploration of the old town.

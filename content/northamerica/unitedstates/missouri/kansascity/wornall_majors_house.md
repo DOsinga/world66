@@ -8,6 +8,7 @@ tags:
 - historic
 title: Wornall/Majors House Museums
 type: poi
+score: 7.6
 ---
 
 Two of Kansas City's best historic house museums are within a mile of each other in the Ward Parkway corridor. The John Wornall House (1858) is a Greek Revival farmhouse that served as a field hospital during the Battle of Westport in 1864 — still the largest Civil War battle west of the Mississippi. The Alexander Majors House (1856) belonged to the founder of the Pony Express and Russell, Majors & Waddell, the freighting company that dominated westward transportation before the railroad. Both houses are operated together and offer guided tours.

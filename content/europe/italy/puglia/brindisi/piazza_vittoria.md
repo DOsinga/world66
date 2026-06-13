@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6383
 longitude: 17.9458
+score: 6.5
 ---
 
 Piazza della Vittoria, at the northern end of the Corso Umberto I, is the formal centre of modern Brindisi: a broad open square flanked by the Palazzo del Governo and bounded by the start of the waterfront promenade. The square itself is somewhat grandiose — more Fascist civic planning than medieval piazza — but the promenade that begins here and extends around the harbour is genuinely pleasant.

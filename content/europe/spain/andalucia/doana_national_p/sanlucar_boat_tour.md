@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: Sanlúcar de Barrameda is where the Guadalquivir finally surrenders to the Atlantic, and it was from this same waterfront that Magellan and Elcano set out to circumnavigate the world in 1519. The boat tours to Doñana use the same stretch of river, though they turn back after a few kilometers rather than continuing for three years.
+score: 7.6
 ---
 
 The southern approach to Doñana is by river. From the Bajo Guía waterfront in Sanlúcar de Barrameda, tourist vessels run up the Guadalquivir into the park's southern boundary on boat trips that typically last three to four hours return, with guided walks into the park at the landing point. The perspective is entirely different from the northern 4x4 tours: you arrive silently, the riverbanks are thickly wooded, and the transition from working port to national park happens gradually, marked mainly by the disappearance of buildings and the thickening of bird life on the water.

@@ -8,6 +8,7 @@ tags:
   - norwegian
 latitude: 70.6638
 longitude: 23.6823
+score: 5.8
 ---
 
 Restaurant Havn (the name means "Harbour") is one of Hammerfest's better-regarded dinner restaurants, occupying a position on the waterfront where the fishing boats tie up. The menu is anchored in the Arctic larder: king crab, reindeer, grouse, and Arctic char appear in various preparations depending on the season. The king crab starter — a claw, cracked at the table, with brown butter and dill — is excellent and worth ordering even if you have been on a crab safari earlier in the day.

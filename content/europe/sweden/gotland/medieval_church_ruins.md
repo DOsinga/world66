@@ -15,6 +15,7 @@ story: >
   town shrank around them. Today the shells of 15 churches — Sankt Lars, Sankt
   Karin, Sankt Nikolai, and the others — are scattered through the old town,
   giving Visby a strange, ruined grandeur unlike any other Scandinavian city.
+score: 9.1
 ---
 
 Inside Visby's city wall, the ruins of 15 medieval churches stand in various states of preservation, ranging from barely-standing fragments to near-complete roofless shells. The most impressive is the ruin of the Franciscan church of Sankt Karin (St Catherine's), dating to around 1250, whose tall Gothic arches are a landmark of the old town. Sankt Lars is used for outdoor concerts in summer. Sankt Nikolai hosted a medieval Dominican monastery.

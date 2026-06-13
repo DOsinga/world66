@@ -11,6 +11,7 @@ tags:
 title: National Hispanic Cultural Center
 type: poi
 url: www.nhccnm.org
+score: 7.9
 ---
 
 The largest center in the country devoted to Latino culture, this architectural showpiece in the Barelas neighborhood features art galleries, performance venues, a research library, and a first-rate museum. The building draws on influences from Moorish Spain to the American Southwest. Expect flamenco dancing, bilingual theater, and traditional New Mexican and Spanish music alongside rotating exhibitions.

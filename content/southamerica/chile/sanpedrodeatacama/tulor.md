@@ -15,6 +15,7 @@ story: >
   dunes. The settlement is remarkable not just for its age but for its
   completeness: the circular floor plan, the thick adobe walls, the storage
   areas, and the hearths are all visible in the excavated sections.
+score: 7.0
 ---
 
 Tulor is one of the oldest known archaeological sites in the Atacama Desert, a settlement of circular adobe rooms dating back some 2,500 years to around 800 BC. It was a village of the early Atacameño culture, situated near a lagunar area (now dry) that provided water and food. The site lies about 9 kilometres southwest of San Pedro and is easily combined with a visit to the Laguna Cejar salt lake.

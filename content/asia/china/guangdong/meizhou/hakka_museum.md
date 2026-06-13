@@ -14,6 +14,7 @@ story: >
   who settled in Guangdong, Fujian, and Taiwan were often latecomers to already-occupied land,
   which is why they live predominantly in the hills rather than the fertile coastal plains —
   the better agricultural land was already taken.
+score: 8.1
 ---
 
 The Hakka Museum of China (客家博物馆) in Meizhou is one of the better ethnographic museums in Guangdong, covering the history of Hakka migration, culture, language, and diaspora in serious institutional depth. The permanent collection includes agricultural implements, clan genealogy documents, examples of the distinctive Hakka roundhouse architecture (tulou), and objects brought back by overseas Hakka communities. Free to enter.

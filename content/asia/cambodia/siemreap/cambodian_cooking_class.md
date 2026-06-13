@@ -6,6 +6,7 @@ tags:
 - sight
 title: Cambodian Cooking Classes
 type: poi
+score: 6.8
 ---
 
 **Cambodian cooking classes** are one of the best half-day activities in Siem Reap for travellers interested in food. Several well-run schools operate in and around the city, most of which begin with a guided visit to the morning market — either Phsar Chas (Old Market) or Phsar Leu — to buy ingredients, then proceed to a cooking lesson covering three to five dishes. A typical session covers fish amok, beef lok lak, a soup such as samlor korkor, and perhaps a stir-fry; the cooking is done hands-on rather than demonstration-only.

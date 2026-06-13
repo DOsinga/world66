@@ -6,6 +6,7 @@ tags:
 - restaurant
 latitude: 50.2255
 longitude: 12.8795
+score: 5.8
 ---
 
 A reliable Czech restaurant in the spa district, Promenada serves the classics with competence and without undue ceremony: svíčková na smetaně (beef sirloin in cream sauce with bread dumplings), roast duck with red cabbage, and the other dishes that Czech cooking does better than its reputation often suggests.

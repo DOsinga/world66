@@ -12,6 +12,7 @@ story: >
   to feed in the shallow, salt-rich ponds. In good years, several thousand birds can
   be present simultaneously — an extraordinary pink and white spectacle against the
   flat Murcian landscape.
+score: 8.5
 ---
 
 The Regional Park of Las Salinas y Arenales de San Pedro del Pinatar extends north of Lo Pagán, protecting a network of salt ponds, dunes, and lagoon shores that support exceptional birdlife. This is one of the most important wetland sites for migratory birds on Spain's Mediterranean coast, serving as a refuelling stop on the Atlantic-Mediterranean flyway.

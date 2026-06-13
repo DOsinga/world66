@@ -3,6 +3,7 @@ title: Panama Canal — Miraflores Locks
 type: poi
 latitude: 8.9988
 longitude: -79.5913
+score: 9.1
 ---
 
 The Miraflores Locks visitor centre is the best place to watch ships transiting the Panama Canal, and it is better than you expect. The viewing platform is close enough to the lock walls that you can look a container ship in its hull as it is lifted — or lowered — eighteen metres by the rising and falling of water in a concrete chamber that has been doing this job since 1914. The scale is not obvious from photographs: these are ships carrying thousands of containers, and they fit the locks with a few metres to spare on each side, guided by small electric locomotives called "mules" running on rails along the lock walls.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 50.5304
 longitude: -3.6107
+score: 5.7
 ---
 
 The Dartmouth Inn is a centuries-old coaching inn on East Street, now one of the better gastropubs in Newton Abbot. The kitchen does reliable Devon pub food — beer-battered fish and chips, slow-cooked lamb shoulder, a Sunday roast that fills out the dining room — and the cask ales are well kept.

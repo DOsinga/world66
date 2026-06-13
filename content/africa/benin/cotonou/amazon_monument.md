@@ -12,6 +12,7 @@ story: >
   the 17th century until the French conquest in 1894. Estimates put their numbers at between 1,000
   and 6,000 at their peak. The statue was unveiled in 2022 and immediately became the second-tallest
   statue in Africa.
+score: 6.4
 ---
 
 The Amazon Monument is the most striking piece of public art in Cotonou. The 30-metre bronze figure of a young Agojie warrior — rifle in one hand, short sword in the other, expression fierce and forward-looking — rises from a traffic roundabout in the Haie Vive neighbourhood near Boulevard de la Marina. The scale is genuinely impressive, and the location gives you good views from a distance.

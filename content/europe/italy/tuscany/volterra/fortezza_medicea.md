@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The fortress is still a working maximum-security prison, used to hold mafia inmates. For one week each summer in the early 2000s the prisoners ran a restaurant for the public inside the walls — the 'Cene Galeotte' (Jailbird Dinners) — with diners eating food cooked and served by lifers. The events have been intermittently revived since."
+score: 6.9
 ---
 
 The double fortress dominating Volterra from its highest point — the cylindrical Rocca Antica (1342) and the rectangular Rocca Nuova (1474, built by Lorenzo de' Medici after the brutal sack of the city by Florence) — together form one of the most imposing pieces of military architecture in Tuscany. The Rocca Nuova's four corner towers and tall central donjon, called *Il Maschio*, are visible from miles around.

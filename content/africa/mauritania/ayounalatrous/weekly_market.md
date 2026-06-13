@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market, sight]
 latitude: 16.6667
 longitude: -9.6167
+score: 6.3
 ---
 
 Ayoun el-Atrous's weekly market is the main point of commerce for the surrounding region, drawing traders and buyers from villages and nomadic camps across a wide area of the Hodh el-Gharbi. The market is dominated by livestock — sheep, goats, camels — but also trades in dried goods, plastic beads (for which the town has a particular regional reputation), cloth, and basic hardware. The bead trade, in particular, is an interesting speciality: Ayoun el-Atrous has historically been a distribution point for the colourful Venetian trade beads that circulate through West African markets.

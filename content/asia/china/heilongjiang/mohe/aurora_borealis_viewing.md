@@ -11,6 +11,7 @@ story: >
   Mohe sits at roughly 53°N, the same latitude as Dublin or Calgary — far enough north that the geomagnetic 
   activity that produces auroras reaches the Chinese sky. On strong solar wind nights, the display can 
   stretch from horizon to horizon in bands of green and occasional red or purple.
+score: 8.3
 ---
 
 Mohe is the only place in China where you can reliably see the aurora borealis, and for this reason alone it draws winter travellers from across the country. The season runs from November to March, with December through February offering the longest and darkest nights. Clear skies away from even Mohe's modest light pollution reveal curtains of pale green moving slowly above the river valley.

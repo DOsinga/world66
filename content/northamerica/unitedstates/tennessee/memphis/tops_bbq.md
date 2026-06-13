@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - barbecue
+score: 6.7
 ---
 
 Tops is where Memphis people go when they want barbecue without ceremony — a local chain that has been serving the same thin-sliced pork on a white bun with slaw since 1952. There are multiple locations across the city, all operating from simple buildings without pretension. The pork is not slow-smoked in the way that produces the intense bark and pull of the fancier operations; instead it is thin-sliced from a shoulder that has been cooked through and then piled generously onto the bun. It is simple, cheap, and completely satisfying.

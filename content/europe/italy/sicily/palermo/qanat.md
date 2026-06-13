@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Qanat Underground Channels
 type: poi
+score: 8.2
 ---
 
 The Cooperativa Solidarieta and Club Alpino Italiano organise guided visits to Palermo's qanat, the underground water channels introduced by the Arabs. You can explore the Qanat Gesuitico alto and basso, walking through tunnels and channels beneath the city. A genuinely unusual experience that most visitors miss entirely.

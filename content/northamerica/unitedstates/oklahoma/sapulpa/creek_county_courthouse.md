@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 36.0014
 longitude: -96.1078
+score: 7.4
 ---
 
 The 1914 Creek County Courthouse anchors the centre of downtown Sapulpa, a four-storey Beaux-Arts limestone building on a slightly elevated site. Designed by Layton & Smith — the same firm responsible for the Oklahoma County Courthouse in Oklahoma City — it has the deep-arched first floor, paired Ionic columns, and balustraded roofline of the style.

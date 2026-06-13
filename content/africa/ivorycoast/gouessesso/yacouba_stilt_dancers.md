@@ -8,6 +8,7 @@ tags:
 - sight
 title: Yacouba Stilt Dancers
 type: poi
+score: 8.4
 ---
 
 The Yacouba (or Dan) people of western Ivory Coast are best known internationally for their masked stilt-dancers — performers who balance on three-metre stilts wearing carved wooden masks and woven raffia skirts, executing acrobatic spins, leaps and even backflips. The dances are performed at funerals, harvest festivals, important ceremonies and — these days — for visitors who arrange them through their hosts.

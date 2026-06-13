@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.8
 ---
 
 From the road behind the beach the view opens out over the channel to Petite Martinique, a steep little volcanic island home to about 900 people, and beyond it to Petit St Vincent, just across the international border in the Grenadines. On clear afternoons you can also pick out the southern Tobago Cays in the distance.

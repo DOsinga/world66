@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.8697
 longitude: -24.6913
+score: 5.7
 ---
 
 The Estádio Aquiles de Oliveira is the main sports ground in Vila Nova Sintra — a multi-use stadium that hosts football matches and other events for the small community. In a town with few public gathering spaces, match days draw the whole island, and the atmosphere at a local derby is warm and enthusiastic even if the football is amateur.

@@ -12,6 +12,7 @@ story: >
   Worth Church survived almost unchanged through the Norman Conquest, the Reformation, and eight centuries of religious upheaval — but the Victorian era nearly did it in. A disastrous fire in 1986, started by an arsonist, gutted the interior, destroying the Victorian additions but leaving the Saxon stonework intact. The repair work stripped away what the Victorians had added and returned the church closer to its pre-Norman appearance.
 sources:
   - https://en.wikipedia.org/wiki/Worth_Church
+score: 8.8
 ---
 
 St Nicholas' Church in Worth, a village now surrounded by Crawley's eastern suburbs, is one of the most complete surviving Saxon churches in England. The nave, chancel arch, and most of the walls date to around 950 AD — before the Norman Conquest — making it substantially older than the vast majority of English parish churches. The characteristic Saxon long-and-short stonework at the quoins and the apse at the east end are the tell-tale signs.

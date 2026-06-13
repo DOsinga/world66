@@ -6,6 +6,7 @@ longitude: -86.1819
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 A 64-acre zoo on the western edge of White River State Park, with around 1,400 animals. The orangutan centre with its eight-storey climbing tower is the standout — the orangutans use a system of "skywalk" cables to range across the campus, and watching them think their way around the route is one of the best ape exhibits in any American zoo.

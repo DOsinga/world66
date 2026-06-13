@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   The Winter Carnival is the oldest in the eastern United States, started in 1897 when the village was at its peak as a tuberculosis cure destination. The ice palace tradition began in 1898; the carnival has continued every year since, surviving two world wars and the pandemic.
+score: 8.8
 ---
 
 The Saranac Lake Winter Carnival has run every February since 1897 and is one of the oldest continuously held winter festivals in the United States. The signature event is the building of a full-scale ice palace from blocks cut out of frozen Lake Flower — typically thousands of blocks weighing several hundred pounds each, hand-cut and stacked over three weeks by volunteer crews.

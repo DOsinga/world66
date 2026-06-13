@@ -13,6 +13,7 @@ tags:
 - sight
 title: Tomb of Hafez
 type: poi
+score: 9.4
 ---
 
 Hafez (1315–1390) is the most beloved poet in the Persian language, and his mausoleum draws more visitors than almost any other site in Shiraz. The tomb itself is an open marble pavilion set in a garden of cypress trees and orange blossom. Iranians come here in numbers — to recite verses, to sit by the pool, to consult the Divan of Hafez in the traditional way (open the book at random and the verse you find is your fortune).

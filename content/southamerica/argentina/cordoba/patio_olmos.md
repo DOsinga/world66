@@ -9,6 +9,7 @@ tags:
 latitude: 31.4200
 longitude: -64.1878
 neighbourhood: Centro
+score: 6.6
 ---
 
 A shopping mall in a beautifully restored early-20th-century school building. The Italianate facade and the central skylit galleria make it one of the more architecturally interesting malls in Argentina.

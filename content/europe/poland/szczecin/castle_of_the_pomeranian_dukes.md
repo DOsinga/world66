@@ -11,6 +11,7 @@ title: Castle of the Pomeranian Dukes
 type: poi
 story: >
   Catherine the Great was born in this city in 1729 as Sophie Friederike Auguste von Anhalt-Zerbst-Dornburg, daughter of a Prussian military commander. She left Stettin at 15, converted to Russian Orthodoxy, and within a few years became Empress of Russia — a title she would hold for 34 years. The castle wasn't her home, but the ducal city she was born into shaped her European sensibility. A memorial plaque near the old town marks her birthplace.
+score: 8.5
 ---
 
 The Castle of the Pomeranian Dukes stands on a hill above the Oder River, a Gothic and Renaissance complex that served as the seat of the Pomeranian dukes from the 14th century until the Duchy's incorporation into Brandenburg-Prussia in 1637. It's the dominant monument of the old city and the logical starting point for any visit.

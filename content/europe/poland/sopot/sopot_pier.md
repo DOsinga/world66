@@ -10,6 +10,7 @@ story: >
   At 511 metres, Sopot Pier is the longest wooden pleasure pier in Europe. The original pier was built in 1827 as a bathing platform; the current structure dates from the late 19th century and has been repeatedly extended and restored since. During World War II it was used as a military installation; damage was repaired after the war and it was returned to its original purpose as a place for walking out above the sea.
 sources:
   - https://en.wikipedia.org/wiki/Sopot_Pier
+score: 8.9
 ---
 
 The Sopot Pier — Molo in Polish — stretches 511 metres out into the Gulf of Gdańsk, making it the longest wooden pier in Europe. Walking it is the quintessential Sopot experience: the Trójmiasto skyline behind you, the open Baltic ahead, fishing boats and pleasure craft bobbing alongside, and the sea wind making the whole thing feel quite exposed even on a warm day.

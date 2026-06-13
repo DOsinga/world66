@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 The cathedral of the Diocese of Caloocan, dedicated to Saint Roch, sits a short walk south of Caloocan station. The current building, completed in 1957, replaces an earlier 19th-century church damaged in World War II. Its Spanish-colonial-inspired facade is modest but handsome — twin bell towers flanking a pediment, with a small plaza in front where vendors sell candles and santo statues.

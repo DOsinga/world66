@@ -9,6 +9,7 @@ snippet: "Member-run music venue in an old fraternal lodge — independent, ecle
 address: "291 W 8th Avenue"
 latitude: 44.0512
 longitude: -123.0971
+score: 7.4
 ---
 
 The Woodmen of the World Hall, built in 1932 as a fraternal lodge, has been a co-op-run live music and arts venue since 1975 — Eugene's most beloved independent room. It is small (capacity around 450), all-ages, and has hosted everyone from local punk bands to Lucinda Williams.

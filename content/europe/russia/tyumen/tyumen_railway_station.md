@@ -6,6 +6,7 @@ latitude: 57.1450
 longitude: 65.5225
 story: >
   Tyumen station is one of the original stops on the Trans-Siberian Railway — the line reached the city in 1885, making Tyumen the first Siberian city connected to the European Russian rail network. The early arrival of the railway was no accident: Tyumen's importance as a trading post meant the route was planned to pass through it from the outset, cementing its position as Siberia's western gateway.
+score: 5.7
 ---
 
 The Tyumen railway station is a handsome building in the socialist-classical style typical of major Soviet-era railway infrastructure, with its ornate facade and monumental entrance. The station dates from the Soviet period but the site's railway heritage goes back to 1885, when Tyumen became the first Siberian city reached by rail.

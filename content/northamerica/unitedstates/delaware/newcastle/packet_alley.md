@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6617
 longitude: -75.5650
+score: 7.1
 ---
 
 Packet Alley is a narrow lane in the heart of New Castle's historic district that served for much of the colonial period as the main staging point for stagecoaches heading south through the Delaware Peninsula. The "packets" were the regular horse-drawn coaches that carried mail, passengers, and goods — and the alley's position between the river landing and the town center made it the transit hub of colonial Delaware.

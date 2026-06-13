@@ -11,6 +11,7 @@ tags:
 - sight
 - church
 - architecture
+score: 7.8
 ---
 
 A 12th-century collegiate church, begun under the Counts of Champagne and never completed — the nave was abandoned partway through construction when funds ran out, and a modest baroque facade was tacked on much later instead. The result is an odd, lopsided silhouette that puzzles visitors used to the symmetry of French Gothic cathedrals.

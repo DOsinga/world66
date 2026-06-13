@@ -8,6 +8,7 @@ tags:
 latitude: 14.6942
 longitude: -91.2712
 snippet: Learn Maya-influenced painting techniques in lakeside studios
+score: 6.5
 ---
 
 San Pedro La Laguna has developed a small but genuine art community, with local Tz'utujil Maya painters and a scattering of resident expat artists running workshops for travellers. The style is a naïf tradition rooted in the work of the late Diego Isaías Hernández Mendez and other self-taught Maya painters who achieved international recognition in the 1970s, depicting village life and ceremony in vivid flat colour.

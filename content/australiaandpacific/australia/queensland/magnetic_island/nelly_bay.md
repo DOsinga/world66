@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -19.1574
 longitude: 146.8488
+score: 5.8
 ---
 
 Nelly Bay is where the ferry arrives, and it functions as the island's commercial hub — such as it is. The small marina here is the most protected anchorage on the island, and you'll often find yachts moored here overnight. The beach at Nelly Bay is pleasant for swimming and has a stinger net during jellyfish season.

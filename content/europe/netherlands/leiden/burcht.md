@@ -11,6 +11,7 @@ story: >
   Rijn rivers. It was already old when William of Orange offered Leiden the choice
   of a university or tax exemption after the 1574 siege — the city chose the
   university, and the rest is history.
+score: 8.8
 ---
 
 An 11th-century shell keep sitting on a grassy mound in the centre of Leiden, so tucked among the surrounding buildings that you can walk right past it without realising there is a castle above your head. Climb the steps to the top and you are rewarded with a panoramic view over the rooftops, canals, and church spires of the old city — one of the best viewpoints in Leiden.

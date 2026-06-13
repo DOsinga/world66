@@ -6,6 +6,7 @@ latitude: 40.5512
 longitude: 34.9526
 snippet: "The oldest mosque in Çorum, built in the late 13th century under the Seljuks and reconstructed several times — a working mosque at the heart of the old bazaar district."
 story: "The mosque was commissioned by a freed slave named Hayrettin during the reign of Seljuk Sultan Alaaddin Keykubat III in the late 13th century, making it one of the few Seljuk-era foundations in the region where the patron's personal story is recorded. It was severely damaged in the 1446 earthquake and subsequently repaired — according to tradition — by the imperial architect Mimar Sinan, which would make it one of his more obscure commissions far from the Ottoman heartland."
+score: 6.6
 ---
 
 The Ulu Cami is the oldest mosque in Çorum and the central point of the old part of the city. Built in the late 13th century during the Seljuk period, it has been damaged by earthquakes and rebuilt multiple times over the centuries, taking its current form during the late Ottoman era. The result is a hybrid building that has accumulated layers of different periods while retaining its status as the principal Friday mosque of the city.

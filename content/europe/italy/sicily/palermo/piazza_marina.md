@@ -7,6 +7,7 @@ tags:
   - kalsa
 latitude: 38.116
 longitude: 13.372
+score: 7.7
 ---
 
 Piazza Marina, in the Kalsa, is the largest of the old town's piazzas, ringed by 14th- to 18th-century palaces and centred on the Giardino Garibaldi — a small public park dominated by a vast Ficus macrophylla. The fig is one of the largest trees in Europe, its aerial roots forming a buttressed grove. Children climb it; cats live in it; locals say it is one of the city's spirits.

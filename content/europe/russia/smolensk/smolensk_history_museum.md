@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.7814
 longitude: 32.0504
+score: 7.2
 ---
 
 The Smolensk State Museum of History and Architecture (Smolensk-Fortress Museum) is spread across multiple buildings and sites in the city, with the main collections housed in a historic building in the city centre. The permanent exhibitions cover the full sweep of Smolensk's turbulent history — from prehistoric settlements on the Dnieper through the medieval principality, the Polish occupation, Napoleon's invasion, and the catastrophic battles of the Second World War.

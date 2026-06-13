@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Nalubaale_Hydroelectric_Power_Station
   - https://en.wikipedia.org/wiki/Owen_Falls
+score: 8.0
 ---
 
 The Nalubaale Power Station — built in 1954 as the Owen Falls Dam and still widely known by that name — sits just a few kilometres from the centre of Jinja and is the reason the town exists as an industrial centre. The dam harnesses the outflow of Lake Victoria where the Nile begins, generating electricity for Uganda and beyond.

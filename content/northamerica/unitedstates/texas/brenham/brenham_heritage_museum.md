@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 30.1676
 longitude: -96.3961
+score: 7.0
 ---
 
 The Brenham Heritage Museum occupies the former Brenham US Post Office, a 1915 neo-classical brick building on the National Register of Historic Places. The collection covers Washington County from the days when nearby Washington-on-the-Brazos was the capital of the Republic of Texas through the German and Wendish settlement of the 1840s and 50s to the modern town.

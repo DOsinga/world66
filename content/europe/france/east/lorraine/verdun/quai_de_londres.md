@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - eating_out
 snippet: "Riverside promenade lined with restaurants and bars"
+score: 5.9
 ---
 
 The Quai de Londres is the long riverside terrace along the right bank of the Meuse below the Porte Chaussée. Renamed for the city's WWI ally, it has been the dining heart of the town since the 1920s — a continuous row of restaurants and brasseries with tables out on the cobbles in summer.

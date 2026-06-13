@@ -8,6 +8,7 @@ tags:
 latitude: 6.4940
 longitude: 99.3090
 snippet: "The longest, quietest beach on Ko Lipe — fine white sand looking across to Ko Adang."
+score: 8.2
 ---
 
 Sunrise Beach runs the length of Ko Lipe's east coast and is the prettiest of the island's three main beaches. The sand is whiter and finer than at Pattaya Beach on the south side, the water has a luminous turquoise quality, and Ko Adang's forested wall rises across the narrow channel. It catches the morning light beautifully, hence the name.

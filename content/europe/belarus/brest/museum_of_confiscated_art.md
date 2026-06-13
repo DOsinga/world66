@@ -8,6 +8,7 @@ latitude: 52.0973
 longitude: 23.6853
 story: >
   The museum exists because Brest is a border city: everything on display was seized from smugglers attempting to move cultural objects across the Polish frontier. The customs officers who confiscated the pieces had no legal mechanism to return most of them to their original owners, so the objects accumulated — and eventually filled a museum.
+score: 7.2
 ---
 
 The Museum of Confiscated Art in Brest is one of the most unusual museums in Eastern Europe — a collection built entirely from objects seized by border control at the Brest customs crossing with Poland. The items on display include icons, paintings, coins, jewellery, and decorative objects that smugglers were attempting to move out of Belarus illegally when they were caught.

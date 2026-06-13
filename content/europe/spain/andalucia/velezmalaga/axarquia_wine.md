@@ -8,6 +8,7 @@ tags:
   - countryside
 latitude: 36.782
 longitude: -4.099
+score: 7.3
 ---
 
 The Axarquía hills around Vélez-Málaga produce some of Andalusia's most individual wines, and the Muscat of Alexandria grape — grown here since at least the Phoenician era — is the variety that defines the region. The sweet Málaga Muscatel wines from these hills have been famous since antiquity; they were the wines that the Arab traders of the medieval period exported across the Mediterranean despite the Quranic prohibition on alcohol production, and the tradition survived the Reconquista intact.

@@ -1,6 +1,7 @@
 ---
 title: "Beacon Avenue Bookshops"
 type: poi
+score: 7.7
 ---
 
 Sidney's claim to fame among literary visitors is its improbable concentration of independent bookshops along and around Beacon Avenue, the town's main street. For a community of around 12,000 people, the number and variety of shops is remarkable — there are dealers in new books, used and antiquarian volumes, nautical charts, maps, and local history. The tradition earned Sidney the informal title of Canada's "book town," joining a small international club of places that have built an identity around second-hand bookselling.

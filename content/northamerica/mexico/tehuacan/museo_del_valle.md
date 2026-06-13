@@ -15,6 +15,7 @@ story: >
   understanding of how agriculture developed in Mesoamerica. MacNeish later had
   to revise some dates, but the valley's importance to the story of human agriculture
   remains fundamental.
+score: 8.1
 ---
 
 The Museo del Valle de Tehuacan is the best single reason to spend more than an hour in the city. It covers the extraordinary archaeological importance of the surrounding valley — one of the most significant regions in the history of human agriculture. It was here, in dry caves and rock shelters, that MacNeish's excavations in the 1960s found evidence of the gradual domestication of maize, squash, chilli, and other Mesoamerican crops over several thousand years.

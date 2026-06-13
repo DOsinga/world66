@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Mound A, the largest at the site, is 19 metres high and was once topped by a thatched temple. Excavations in the 1950s found a pair of carved marble figures inside one of the smaller mounds — a seated man and woman, almost certainly ancestor effigies — that are now among the best-preserved pieces of Mississippian sculpture anywhere. They sit in the on-site museum."
+score: 8.8
 ---
 
 A 54-acre site on the bank of the Etowah River, settled between roughly 1000 and 1550 AD by the Mississippian culture and now one of the best-preserved pre-Columbian Native American complexes east of the Mississippi. Six platform mounds — earthworks built up by hand over generations — survive, the largest rising 19 metres above the surrounding plain. A defensive ditch and palisade once enclosed the town of perhaps several thousand inhabitants.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -36.788
 longitude: 174.771
+score: 5.7
 ---
 
 The main dining strip on the North Shore, running from Takapuna's town centre down towards the beach. Hurstmere Road has accumulated a concentration of cafes, brunch spots, and evening restaurants that makes it the obvious first port of call for eating out on the North Shore. The quality is generally solid rather than exceptional — this is a local neighbourhood strip, not a destination dining precinct.

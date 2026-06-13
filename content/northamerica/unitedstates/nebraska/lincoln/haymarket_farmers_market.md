@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 40.8166
 longitude: -96.7103
+score: 7.1
 ---
 
 The Haymarket Farmers Market is Lincoln's best weekly gathering, running every Saturday morning from May through October in the streets of the Haymarket District. It draws over a hundred vendors selling local produce, Nebraska meats and cheeses, baked goods, flowers, plants, and prepared food — a genuine working market rather than a curated boutique experience.

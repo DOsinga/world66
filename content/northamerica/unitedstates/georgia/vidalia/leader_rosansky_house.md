@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 32.2144
 longitude: -82.4139
+score: 5.9
 ---
 
 A Queen Anne and Classical Revival house built in 1903, listed on the National Register of Historic Places. It is one of the finest surviving examples of late Victorian residential architecture in southeast Georgia, with the elaborate decorative woodwork and wraparound porch typical of the style.

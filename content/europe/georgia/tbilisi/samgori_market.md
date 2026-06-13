@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Samgori Market
 type: poi
+score: 7.9
 ---
 
 The Samgori market in the eastern Samgori district is a vast covered bazaar where Tbilisi's residents do their serious food shopping. It is not a tourist attraction in the conventional sense — there are no souvenirs or crafts — but as an immersion in the daily commercial life of the city it is unbeatable. The stalls sell everything: fresh produce, dried fruit and nuts, spices, churchkhela (the walnut-and-grape-juice sweet), cheese, meat, and household goods.

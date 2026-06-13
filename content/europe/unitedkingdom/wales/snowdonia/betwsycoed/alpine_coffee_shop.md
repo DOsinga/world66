@@ -8,6 +8,7 @@ longitude: -3.8029
 tags:
   - bars_and_cafes
   - cafe
+score: 5.3
 ---
 
 Tucked beside the railway station, the Alpine is the morning gathering point for hikers waiting for the rain to ease. Coffee is properly made, the Welsh cakes come warm, and the lunchtime soups and toasties are filling without being fancy.

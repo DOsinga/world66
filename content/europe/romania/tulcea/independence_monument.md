@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Independence Monument
 type: poi
+score: 7.6
 ---
 
 The Independence Monument crowns Citadel Hill (Dealul Cetăţuia) on Tulcea's east side — a 23-metre stone obelisk on what was historically the high point of the city's Ottoman-era fortifications. It was raised in 1904 to mark the Romanian victory over the Ottomans in the war of 1877 and the subsequent absorption of Dobruja into Romania.

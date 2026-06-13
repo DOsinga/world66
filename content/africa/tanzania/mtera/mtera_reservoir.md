@@ -7,6 +7,7 @@ tags:
 latitude: -7.161444
 longitude: 35.776251
 story: When the Mtera Dam was completed in 1981 and the Ruaha River was impounded behind it, the rising water drowned an entire village and its fields. The flooded farmland and wetland margins created the shallow, productive habitat that now makes the reservoir one of Tanzania's best inland birdwatching sites — a case of environmental loss generating something unexpected and valuable in its place.
+score: 8.1
 ---
 
 The Mtera Reservoir was created when a hydroelectric dam was built across the Great Ruaha River in 1981, flooding the valley behind it. The reservoir is substantial — one of Tanzania's largest bodies of inland water — and its shallow margins, particularly around the old river channels and the former wetlands that were inundated, attract extraordinary concentrations of waterbirds.

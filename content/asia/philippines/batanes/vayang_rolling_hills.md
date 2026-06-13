@@ -11,6 +11,7 @@ story: >
   with the Scottish Highlands or the Irish coast than with the tropical lowlands to the south. The resemblance
   is not coincidental: the same Atlantic-style winds and typhoon rains that batter Batanes for months each year
   keep the hills green, treeless, and cropped short by grazing cattle and goats.
+score: 9.0
 ---
 
 The rolling green hills on Batan's west coast are the image that most people carry away from Batanes. The land folds and rises in long, smooth swells above the South China Sea, with almost no trees — just open grassland, the occasional stone house, and cattle grazing on the slopes. On a clear morning, with clouds moving fast overhead and the sea glittering below, it is one of the finest views in the Philippines.

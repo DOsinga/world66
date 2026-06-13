@@ -9,6 +9,7 @@ tags:
 - historic
 title: Hunzahúa Well
 type: poi
+score: 5.8
 ---
 
 The Hunzahúa Well — Pozo de Hunzahúa in Spanish — is a circular sunken pit on the northern edge of central Tunja, surrounded by a small park and named for the legend of the Muisca chief whose sister-lover supposedly created it by spilling chicha as she fled the city. The Muisca treated the well as sacred and it was a pilgrimage site within the confederation.

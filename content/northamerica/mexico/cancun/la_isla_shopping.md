@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: La Isla Shopping Village
 type: poi
+score: 4.7
 ---
 
 The most pleasant of the Hotel Zone malls — open-air, built along a man-made canal with gondola rides and footbridges, and centred on a Ferris wheel that gives the best Hotel Zone view from the top. Tenants are a mix of international labels (Zara, Mango), Mexican brands (Pineda Covalin), and a dozen or so restaurants ranging from chain Italian to local seafood.

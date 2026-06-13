@@ -8,6 +8,7 @@ latitude: 56.7127
 longitude: -3.7263
 sources:
   - https://en.wikipedia.org/wiki/Moulin,_Scotland
+score: 6.7
 ---
 
 Moulin is a small village a kilometre above Pitlochry, reached by a short but steep walk up from the town through a wooded lane. The village is quiet and old — it has a medieval church and the ruined Black Castle above it — but the main attraction for most visitors is the Moulin Inn, a seventeenth-century pub that brews its own ales on the premises. The beers (Braveheart, Ale of Atholl, and seasonal specials) are well-made and the pub has the particular quality of a place that hasn't tried to improve itself out of its original character.

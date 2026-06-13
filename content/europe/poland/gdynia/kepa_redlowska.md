@@ -8,6 +8,7 @@ tags:
 snippet: "Wooded coastal cliffs and a small nature reserve south of the centre"
 latitude: 54.4920
 longitude: 18.5550
+score: 8.7
 ---
 
 Kępa Redłowska is the headland of beech-forested cliffs that separates central Gdynia from the seaside neighbourhood of Orłowo. The eastern slope, facing the sea, drops sheer to the beach in a series of bluffs reaching 90 metres — among the tallest sea cliffs on the Polish Baltic.

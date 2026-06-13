@@ -6,6 +6,7 @@ latitude: 60.393
 longitude: 5.32
 sources:
   - https://en.wikipedia.org/wiki/Den_Nationale_Scene
+score: 7.1
 ---
 
 Den Nationale Scene, Bergen's main theatre, was founded in 1850 partly by Ole Bull with the deliberate aim of creating a stage for Norwegian-language drama at a time when theatres in Norway still performed primarily in Danish. The young Henrik Ibsen worked here as a stage director and playwright from 1851 to 1857, writing his early plays and learning stagecraft. Bjørnstjerne Bjørnson, the other great figure of Norwegian literature, also directed here.

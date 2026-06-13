@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.3142
 longitude: 47.0711
+score: 4.8
 ---
 
 The main square of central Kermanshah is the busiest public space in the city, surrounded by banks, shops, and the edges of the bazaar. The square is not especially beautiful by Iranian standards — the Qajar-era buildings have largely been replaced by functional modern constructions — but it is the natural starting point for exploring the old city on foot.

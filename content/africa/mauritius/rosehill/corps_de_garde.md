@@ -7,6 +7,7 @@ tags:
   - sight
 title: Corps de Garde Mountain
 type: poi
+score: 8.0
 ---
 
 Corps de Garde is a 720-metre volcanic peak a few kilometres southwest of Rose-Hill, its jagged silhouette visible from much of the central plateau. The name — "guardhouse" in French — refers to its use as a lookout post during the colonial period. The summit offers one of the best panoramic views in Mauritius: on clear days you can see the coast in several directions, the sugar cane fields of the Plaines Wilhems district, and the spine of the Black River Gorges beyond.

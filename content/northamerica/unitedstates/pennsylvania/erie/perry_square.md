@@ -8,6 +8,7 @@ latitude: 42.1293
 longitude: -80.08524
 sources:
   - https://en.wikipedia.org/wiki/Perry_Square
+score: 6.2
 ---
 
 Perry Square is the central park of downtown Erie, occupying two wooded city blocks bisected by State Street — the main commercial artery dividing the city into east and west. Planned by the surveyor Andrew Ellicott in the early 19th century, the square is named for Commodore Oliver Hazard Perry, who won the decisive Battle of Lake Erie nearby in 1813 and sent back the famous message: "We have met the enemy and they are ours."

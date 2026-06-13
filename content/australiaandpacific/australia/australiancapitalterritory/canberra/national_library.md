@@ -4,6 +4,7 @@ type: poi
 latitude: -35.2964
 longitude: 149.1294
 tags: [things_to_do, sight, museum, library, parliamentary_triangle]
+score: 8.4
 ---
 
 The National Library of Australia, designed by Walter Bunning in deliberate echo of the Parthenon and opened in 1968, is a strikingly handsome white-marble box on the southern shore of Lake Burley Griffin. The library holds around ten million items — the most comprehensive collection of Australiana in the world — and a small but extremely good gallery space that runs rotating exhibitions drawn from the rare-books and manuscript collections.

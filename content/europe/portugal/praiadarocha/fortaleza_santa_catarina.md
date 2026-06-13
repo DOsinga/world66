@@ -8,6 +8,7 @@ tags:
   - sight
   - castle
 story: "The fort was built in the 1620s during a period of intense pirate raiding along the Algarve coast — Barbary corsairs from North Africa snatched Portuguese fishermen and villagers and ransomed or enslaved them. The Santa Catarina cannon were aimed not at hostile navies but at small fast galleys creeping into the Arade estuary."
+score: 7.2
 ---
 
 The Fortaleza de Santa Catarina sits on the headland at the eastern end of Praia da Rocha, where the Arade River meets the Atlantic. Built in the 1620s to defend the harbour at Portimão from pirate raids, it is small as Algarve forts go but commands the best viewpoint in town — the long sweep of Praia da Rocha to the west, the river mouth and Ferragudo to the east.

@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 20.7388
 longitude: -156.9117
+score: 8.8
 ---
 
 Hulopoe Bay is consistently rated one of the finest snorkeling spots in all of Hawaii, and it earns the title. The crescent of white sand sits at the foot of the Four Seasons resort but is a public beach and open to everyone. The water is clear, warm, and calm inside the protected bay — coral heads begin just a few yards from shore and the fish life is dense and varied.

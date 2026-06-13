@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "It was at Treetops Lodge, deep in the Aberdares, that a young Princess Elizabeth learned of her father's death and her own accession to the throne on the night of 5–6 February 1952. The lodge has been rebuilt twice since; the original was burned down during the Mau Mau emergency."
+score: 9.2
 ---
 
 The Aberdare National Park covers the eastern slopes of the Aberdare Range west of Nyeri, a tangled landscape of bamboo forest, dripping podocarpus woodland, and high-altitude moorland with waterfalls plunging off the escarpment. The wildlife — elephant, buffalo, leopard, bushbuck, and a small population of black rhino — is harder to spot than on the open savannah, but the setting is the most atmospheric in Kenya. Mist hangs in the trees, the air is cold enough to need a fleece, and you can drive for hours without seeing another vehicle.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4950
 longitude: 112.8480
+score: 6.4
 ---
 
 The Jincheng Museum houses a permanent collection of archaeological finds from across the prefecture, including bronze ritual vessels, Han-dynasty ceramics, and a section dedicated to the coal and iron industries that shaped the region's pre-modern economy. Jincheng sits on some of China's richest coal deposits, and the museum explains how the coal and iron trades drove the commercial wealth that funded the great courtyard compounds in the surrounding countryside.

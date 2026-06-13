@@ -14,6 +14,7 @@ story: >
   the National Trust and visited by around half a million people a year —
   making it one of the most-visited places in the entire Lake District despite
   being entirely artificial.
+score: 7.4
 ---
 
 Tarn Hows sits about two miles northeast of Coniston village, a perfectly oval lake set among conifers and mixed woodland with the higher fells rising behind. The National Trust maintains a circular walk of about one and a half miles around the tarn on well-surfaced paths that are accessible to wheelchairs and pushchairs, making it one of the most inclusive walks in Lakeland.

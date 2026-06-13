@@ -11,6 +11,7 @@ longitude: -8.8355
 snippet: Neo-Byzantine hilltop basilica with panoramic views over city and estuary
 story: >
   The basilica was designed by architect Miguel Ventura Terra and consecrated in 1926, built on the exact spot where a chapel dedicated to Santa Luzia had stood since the 13th century. Getting there by the 1930s funicular — a tiny wooden car that groans up through the pines — is half the experience; the other half is the view from the dome's exterior walkway, where you look down over the entire Lima estuary on one side and the Atlantic coast on the other. The crypt beneath holds the remains of several bishops of Viana.
+score: 8.9
 ---
 
 The Basilica of Santa Luzia dominates Viana do Castelo from its hilltop position above the city, visible from the coast for miles. The neo-Byzantine structure — all domes, white marble, and mosaic work — was built in the early 20th century on the site of a medieval chapel, and the effect from below is theatrical: a white crown floating above the forested hill.

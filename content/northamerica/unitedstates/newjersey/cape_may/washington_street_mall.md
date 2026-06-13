@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 7.8
 ---
 
 Three blocks of pedestrianised Washington Street are the commercial heart of Cape May. The mall was created in the early 1970s and is lined with restored Victorian storefronts holding independent bookshops, fudge and saltwater taffy makers, beachwear stores, art galleries, and a string of cafés and ice cream parlours.

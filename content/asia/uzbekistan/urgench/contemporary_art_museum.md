@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.55
 longitude: 60.62
+score: 6.7
 ---
 
 The Urgench branch of the Contemporary Art Museum of Uzbekistan (CAMUZ) displays work by Uzbek artists across painting, sculpture, and mixed media. The collection reflects the country's post-independence cultural scene — a mix of traditional motifs reworked in modern form and more experimental pieces that push against Soviet-era conventions.

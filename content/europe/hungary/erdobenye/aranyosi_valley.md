@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.2
 ---
 
 The Aranyosi valley just outside Erdőbénye is the gateway into the protected forests of the Zemplén nature conservation area — oak and beech woods, small streams, and quiet walking trails. The air is clean enough that the area has been designated a climatic health resort.

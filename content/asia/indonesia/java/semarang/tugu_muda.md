@@ -16,6 +16,7 @@ story: >
   design of the monument represents the spirit of independence.
 sources:
   - https://en.wikipedia.org/wiki/Tugu_Muda
+score: 6.4
 ---
 
 Tugu Muda — the "Monument of Youth" — stands at the center of a traffic roundabout surrounded by some of Semarang's finest colonial government buildings, including the old Governor's Residence and the Central Java military command. The monument was built in 1953 to commemorate the Battle of Semarang, a fierce five-day clash between Indonesian nationalist youth and Japanese forces in October 1945 during the chaos following Japan's surrender.

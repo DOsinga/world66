@@ -14,6 +14,7 @@ story: >
   architecture because it was easy to carve in any direction and did not vary dramatically in
   colour. The Empire Quarry closed in 1970 when steel and concrete replaced stone for most
   large-scale construction.
+score: 6.8
 ---
 
 Empire Quarry, south of Bloomington on the edge of the Hoosier National Forest, is an abandoned limestone quarry that supplied stone for the Empire State Building in the early 1930s. The quarry closed decades ago and has been slowly reclaimed by nature: the pits have filled with green water, the cut-stone walls are draped with moss, and a forest is growing through the machinery platforms.

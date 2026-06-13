@@ -9,6 +9,7 @@ latitude: 39.9539
 longitude: -75.1441
 snippet: "The colonial 'Nation's Church' — fifteen Declaration signers worshipped here, and Franklin is buried around the corner"
 story: "Benjamin Franklin raised money by subscription to build the steeple, using a lottery. He is buried in the churchyard around the corner on Arch Street, and visitors still throw pennies on his grave for luck."
+score: 8.6
 ---
 
 Christ Church was founded in 1695 and the current building dates to the 1720s — one of the finest colonial-era churches in America, with a white Georgian steeple that was the tallest structure in colonial North America for fifty years. Fifteen signers of the Declaration of Independence worshipped here, including George Washington (in pew 58), Benjamin Franklin, John Adams, Betsy Ross, and Robert Morris. The pews are numbered and marked; you can sit where they sat.

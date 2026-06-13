@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 68.8021
 longitude: 16.5357
+score: 5.7
 ---
 
 Harstad Church is the main parish church of the town, an early 20th-century building in the national romantic style. Built in 1904, it sits prominently on a hillside overlooking the harbour and is visible from most parts of the town centre. The interior is relatively plain but the building has good proportions and the exterior stonework is well-crafted.

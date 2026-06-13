@@ -14,6 +14,7 @@ title: Žižkov Television Tower
 type: poi
 story: >
   The ten giant black babies crawling up the tower's legs are by sculptor David Černý, added in 2000 as a temporary installation. The city liked them so much it made them permanent. Up close, the babies are unsettling — their faces are replaced with barcode-like slots.
+score: 7.5
 ---
 
 Completed in 1992 and immediately controversial, the Žižkov Tower is Prague's tallest structure and its most divisive landmark. Three brutalist columns rise 216 metres above the Žižkov neighborhood, crowned by a row of antennae. What makes it unforgettable is the ten oversized black babies by David Černý that crawl across the exterior, their features replaced with QR-code-like grids.

@@ -14,6 +14,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.7
 ---
 
 Paneriai (known in Polish as Ponary) is a forested area about 10 km southwest of Vilnius where German Einsatzgruppen and Lithuanian auxiliary police murdered approximately 70,000–100,000 people between 1941 and 1944, the majority of them Jews from Vilnius and the surrounding region. This was one of the largest single killing sites in all of occupied Europe.

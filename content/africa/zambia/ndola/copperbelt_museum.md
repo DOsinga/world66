@@ -13,6 +13,7 @@ story: >
   The museum's "living museum" wing recreates traditional Copperbelt village life in
   an open-air setting — one of the few places where you can see how the region's
   communities lived before the mines transformed everything.
+score: 7.5
 ---
 
 The Copperbelt Museum in central Ndola is one of the better regional museums in Zambia and the best place to understand the history of the mining region that has shaped southern Africa. Exhibits cover the geology of the Copperbelt, the history of copper mining from pre-colonial times through the British colonial era to independence and nationalisation, and the social history of the mining communities.

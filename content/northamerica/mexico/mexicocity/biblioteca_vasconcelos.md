@@ -5,6 +5,7 @@ snippet: "Mega-library of suspended steel bookshelves, north of Buenavista stati
 tags: [things_to_do, sight, architecture]
 latitude: 19.4499
 longitude: -99.1517
+score: 8.5
 ---
 
 The Vasconcelos library, completed in 2006 by the architect Alberto Kalach, is a 38,000-square-metre space in which steel-and-glass bookshelves appear to hang in the air. The reading rooms are stacked vertically and lit by skylights; you walk through a forest of suspended stacks holding nearly half a million volumes. A grey whale skeleton by the artist Gabriel Orozco floats over the central atrium.

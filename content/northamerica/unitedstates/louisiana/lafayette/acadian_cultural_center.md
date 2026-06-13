@@ -7,6 +7,7 @@ tags:
 snippet: National Park Service museum on Acadian history and exile
 latitude: 30.1969
 longitude: -91.9889
+score: 8.3
 ---
 
 Part of the Jean Lafitte National Historical Park, the Acadian Cultural Center is the most thorough museum on the Acadian story — the deportation from Nova Scotia in 1755, the wanderings of the next decades, the eventual resettlement along the bayous and prairies of southern Louisiana. Free admission, courtesy of the Park Service.

@@ -5,6 +5,7 @@ tags: [things_to_do, shopping, eating_out, stare_mesto]
 latitude: 48.1467
 longitude: 17.1125
 story: The Old Market Hall was built in 1910 as Bratislava's main food market and operated until the 1980s when it was converted to offices. After a lengthy restoration, it reopened in 2014 as a food market, event space, and street food hall — giving back to the city a public gathering place it had lacked for decades.
+score: 7.6
 ---
 
 The Old Market Hall (Stará tržnica) on Nám. SNP is Bratislava's best public market and food hall. The 1910 neo-Renaissance building was restored and reopened in 2014 as a mixed-use space: a Saturday farmer's market, regular street food nights, concerts, and community events. The market has become one of the focal points for Bratislava's food scene and a genuine gathering place for the city.

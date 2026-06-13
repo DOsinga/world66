@@ -14,6 +14,7 @@ story: >
   destroying two Nisga'a villages and killing around two thousand people.
   It is the most recent volcanic eruption in Canada and the only one
   remembered in Indigenous oral history.
+score: 9.0
 ---
 
 A drive of about an hour and a half north of Terrace via the Nisga'a Highway. The road climbs out of the Skeena drainage into the Nass Valley, then runs for forty kilometres across the lava field — a stark, black, lichen-covered landscape pushed out by the Tseax Cone in the last major eruption in Canada.

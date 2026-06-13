@@ -8,6 +8,7 @@ tags:
 - historic
 title: Circus of Carthage
 type: poi
+score: 6.5
 ---
 
 The Circus of Carthage was one of the great chariot-racing tracks of the Roman world — close to 500 metres long and 80 wide, with seating for around 45,000 spectators. It sat on the western side of the imperial city, parallel to the amphitheatre. Almost nothing of the structure survives above ground: the stone was robbed out during late antiquity and the Middle Ages, and the modern road network has been laid across part of the original site.

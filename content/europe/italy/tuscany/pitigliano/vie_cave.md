@@ -8,6 +8,7 @@ latitude: 42.6280
 longitude: 11.6650
 story: >
   The Etruscans began cutting the vie cave — literally "hollow roads" — into the volcanic tuff around Pitigliano over 2,500 years ago. Some passages run for several kilometres between settlements, with walls rising 20 metres above the traveller's head. No one is entirely certain whether they were routes, drainage channels, or something more ritual.
+score: 9.1
 ---
 
 The vie cave are one of the great unexpected wonders of southern Tuscany. These ancient sunken roads, carved deep into the soft tuff by the Etruscans, radiate out from Pitigliano toward Sovana and Sorano, connecting the hilltop towns through a network of shadowed corridors that feel entirely separate from the world above. The walls, sometimes ten or twenty metres high, are green with moss and fern; the floor is often damp and worn smooth by millennia of feet.

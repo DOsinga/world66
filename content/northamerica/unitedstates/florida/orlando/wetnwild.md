@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Wet 'n Wild
 type: poi
+score: 3.0
 ---
 
 Wet 'n Wild was one of Orlando's original water parks, opened in 1977 on International Drive by George Millay, who also created SeaWorld. For nearly four decades it drew families and thrill-seekers with its wave pools, multi-passenger raft rides, and a relaxed atmosphere that felt more local than the big-name theme parks nearby.

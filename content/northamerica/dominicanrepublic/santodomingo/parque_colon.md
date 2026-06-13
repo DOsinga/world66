@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 18.4729
 longitude: -69.8886
+score: 6.9
 ---
 
 Parque Colón is the main square of the Zona Colonial, flanked on its north side by the Cathedral and surrounded by colonial-era buildings, outdoor cafés, and souvenir vendors. The bronze statue of Christopher Columbus at the centre of the park, erected in 1897, has become one of the most debated monuments in the Caribbean — Columbus stands pointing towards the sea, and the native Taíno woman at the base has alternately been read as submission and as resistance, depending on who is looking.

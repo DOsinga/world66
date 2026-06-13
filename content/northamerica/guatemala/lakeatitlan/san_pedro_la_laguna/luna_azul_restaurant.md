@@ -7,6 +7,7 @@ tags:
 latitude: 14.6943
 longitude: -91.2716
 snippet: Rooftop café with lake views serving Guatemalan coffee and simple breakfasts
+score: 5.6
 ---
 
 One of the most dependable breakfast spots in San Pedro, Café Las Cristalinas sits on a rooftop terrace with an unobstructed view down to the lake and across to the volcanoes. The coffee is grown in the Atitlán highlands and roasted locally — the region produces some of the best beans in Guatemala, grown at altitude on volcanic soil. Breakfasts are simple: eggs, beans, fruit, and fresh tortillas.

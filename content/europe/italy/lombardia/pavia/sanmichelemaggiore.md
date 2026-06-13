@@ -12,6 +12,7 @@ story: "San Michele Maggiore is where the kings of medieval Italy came to be cro
   architecture across northern Italy and beyond."
 snippet: The Romanesque church where Charlemagne and Barbarossa were crowned King of Italy
 type: poi
+score: 8.5
 ---
 
 San Michele Maggiore is Pavia's most important medieval monument. Built between the 7th and 12th centuries on the site of an earlier Lombard church, it has a powerfully austere exterior of golden sandstone with a sculpted facade populated by monsters, knights, and biblical scenes — somewhat eroded but still vivid. The crypt is large and atmospheric, with some original painted decoration surviving.

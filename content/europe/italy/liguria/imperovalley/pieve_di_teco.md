@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.0500
 longitude: 7.9167
+score: 8.2
 ---
 
 The valley road from the upper Impero descends into the Arroscia Valley and arrives at Pieve di Teco, a medieval market town with an unusually well-preserved porticoed main street. The arcaded buildings along Via Vittorio Emanuele date from the 14th to 17th centuries and give the town a unity of character that is rare in this part of Liguria — it looks like an illustration from a book about medieval Italian towns rather than a working modern municipality.

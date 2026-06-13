@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 12.0469
 longitude: -61.7445
+score: 6.0
 ---
 
 These gardens behind the roundabout at Lowthers Lane were founded in 1887 during the height of British colonial enthusiasm for botanical science. Named after Grenada's first prime minister, they are no longer the show gardens they once were, but they remain green, shaded, and pleasantly maintained. A good place to escape the midday heat or take a slow stroll while waiting for the market to get going.

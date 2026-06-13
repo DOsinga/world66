@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 50.1910
 longitude: -5.5670
+score: 6.1
 ---
 
 The Wayside Folk Museum is a small private museum in a converted miller's cottage at Trewey Mill, just outside the village. It covers the social and agricultural history of the Zennor area — farming tools, kitchen implements, mining equipment, photographs, and artefacts from the tin and copper mining era that shaped Penwith's landscape and economy in the 18th and 19th centuries.

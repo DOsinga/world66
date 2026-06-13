@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Kremlin
 type: poi
+score: 9.5
 ---
 
 The Novgorod Kremlin (known locally as the Detinets) is one of the best-preserved medieval fortresses in Russia. The current red-brick walls were built in the 15th century, replacing earlier earthwork and wooden defenses that had stood here since the 9th century. The Kremlin is the heart of the city and contains most of Novgorod's major monuments within a single compact area.

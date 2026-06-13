@@ -7,6 +7,7 @@ tags:
   - lake
 title: Lake Quinault
 type: poi
+score: 7.8
 ---
 
 Lake Quinault sits on the southwest side of the peninsula, wrapped in rainforest and old resort history. It is quieter than the Hoh and makes a fine base for short trails, big trees, and slow drives.

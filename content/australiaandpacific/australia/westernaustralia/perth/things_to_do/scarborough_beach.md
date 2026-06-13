@@ -8,6 +8,7 @@ tags:
   - surf
 latitude: -31.8939
 longitude: 115.7581
+score: 7.8
 ---
 
 Scarborough Beach is Perth's main surf beach, about 14 kilometres north of the city centre along the Indian Ocean coastline. It is a bigger, bolder beach than Cottesloe — more exposed to the swell, with consistent surf that makes it popular with board riders year-round — and the foreshore has been redeveloped in recent years into a busy strip of cafes, restaurants, a waterpark, and a beachfront amphitheatre that hosts outdoor events through summer. The beach itself is long and wide, with the pale sand and turquoise water that Perth does so well.

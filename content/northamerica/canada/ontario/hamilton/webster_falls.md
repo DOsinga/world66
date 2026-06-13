@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Hamilton's most photographed waterfall, in Spencer Gorge Conservation Area"
+score: 8.4
 ---
 
 Webster's Falls is a 22-metre classical curtain waterfall in the village of Dundas, the most photographed of Hamilton's more than 100 cascades. The walk in from the parking area is short and easy, leading to a stone-walled viewing terrace built in the 1930s. From below, a steep trail with about 200 steps takes you to the base of the falls, where the spray and the swirling pool make the climb worthwhile.

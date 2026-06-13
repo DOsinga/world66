@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: South African Jewish Museum
 type: poi
+score: 8.1
 ---
 
 The South African Jewish Museum tells the story of Jewish migration to South Africa from the late nineteenth century onwards — predominantly Lithuanian Jews escaping the Russian pogroms and finding their way to the Cape and then to Johannesburg's mines. The exhibition uses photographs, oral histories and reconstructed Lithuanian shtetl scenes to trace the community's growth.

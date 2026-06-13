@@ -7,6 +7,7 @@ tags:
 - nature
 title: Eynak Lagoon
 type: poi
+score: 5.8
 ---
 
 Eynak Lagoon lies on the western edge of Rasht, a broad wetland pocket that makes clear how watery the city really is. It is not pristine wilderness - urban growth presses around it - but reeds, open water, birds, and reflections give it a softer atmosphere than the traffic-heavy centre.

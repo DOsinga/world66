@@ -7,6 +7,7 @@ tags:
   - religion
 latitude: 38.10978
 longitude: 13.35398
+score: 7.9
 ---
 
 The small Oratorio di San Mercurio, a few steps from the Cappella Palatina, contains an early Serpotta cycle of stuccoes from the 1670s — the first major work in his maturing style. The relief work is less elaborate than at San Lorenzo or Santa Zita but the composition and the modelling already show what would make him the dominant decorative artist of late-Baroque Sicily.

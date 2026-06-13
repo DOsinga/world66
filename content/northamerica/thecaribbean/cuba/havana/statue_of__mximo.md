@@ -8,6 +8,7 @@ tags:
 address: Parque Mártires del 71, Old Havana
 latitude: 23.1413
 longitude: -82.3518
+score: 4.8
 ---
 
 The monumental equestrian statue of Máximo Gómez stands at the entrance to Old Havana from the Malecón, at the end of the Paseo del Prado. Gómez was a Dominican-born general who became the supreme military commander of the Cuban independence forces — Fidel Castro called him "the greatest guerrilla fighter in history." The statue, completed in 1935, shows Gómez on horseback in full military dress.

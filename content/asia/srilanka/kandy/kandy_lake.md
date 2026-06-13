@@ -12,6 +12,7 @@ story: >
   the project was so unpopular it contributed to the resentment that eventually led Kandyan
   chiefs to side with the British against their own king in 1815. The lake that draws tourists
   today was a source of political collapse at its inception.
+score: 7.9
 ---
 
 The artificial lake at the center of Kandy is a pleasant place to walk at any time of day, but especially at dawn and dusk when the water reflects the surrounding hills and the golden spire of the Temple of the Tooth. The 3.5 km path around the perimeter takes about forty-five minutes at a gentle pace and passes the cloud wall (the ornamental parapet along the temple side), a small island used as a gunpowder store by the Kandyan kings, and several good viewpoints.

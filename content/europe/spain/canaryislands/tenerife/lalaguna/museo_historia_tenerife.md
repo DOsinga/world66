@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.4895
 longitude: -16.3150
+score: 8.1
 ---
 
 The Museo de Historia de Tenerife occupies the Casa Lercaro, a 16th-century merchant's palace that is one of the best examples of Canarian domestic architecture in the islands. The building itself — two storeys around an internal patio, with elaborately carved wooden galleries — is as interesting as the collection it houses. The Lercaro family were Genoese merchants who made their fortune in the Canary Islands trade and built this house accordingly.

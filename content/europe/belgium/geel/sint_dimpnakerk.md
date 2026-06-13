@@ -10,6 +10,7 @@ story: Saint Dymphna, the patron saint of the mentally ill, is said to have been
   around her shrine produced — by the fourteenth century — the practice of taking
   visiting pilgrims into local homes, the root of Geel's tradition of community
   psychiatric care.
+score: 8.0
 ---
 
 The town's main church and the symbolic heart of Geel's centuries-old practice of fostering mentally ill people in family homes. Late-Gothic, mostly fifteenth century with earlier elements, with a finely carved Antwerp retable in the choir depicting the life of Saint Dymphna. The Sick-Room (Ziekenkamer) behind the church, where pilgrims spent the nights of their nine-day cure, still survives.

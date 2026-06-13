@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 53.6821
 longitude: -2.3497
+score: 6.6
 ---
 
 Musbury Tor is a modest moorland summit on the western fringe of Helmshore, rising above the Musbury Valley to give open views across the Rossendale hills. The walk up from the village takes around 40 minutes on good paths, passing through the Alden Valley — a quiet glaciated cleft on the edge of the West Pennine Moors.

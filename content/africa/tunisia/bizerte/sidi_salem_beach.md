@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.2925
 longitude: 9.8770
+score: 5.6
 ---
 
 The Sidi Salem beach, just north of the modern port, is the most central swimming beach within walking distance of Bizerte's old town. It is a fine sandy crescent perhaps a kilometre long, backed by low scrub, cafés, and a handful of summer-only beach restaurants. The shore shelves gently and the water is calm — fine for families and beginner swimmers.

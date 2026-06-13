@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.8209
 longitude: -0.6100
+score: 6.4
 ---
 
 The Museu de la Festa documents Ontinyent's Moros i Cristians tradition with displays of historical costumes, weapons, music, and archival photographs. It is a small but well-organised museum that gives useful context before the festival (or year-round for those who can't attend). The costumes on display include some of the finest embroidery examples from the festival's two and a half century history.

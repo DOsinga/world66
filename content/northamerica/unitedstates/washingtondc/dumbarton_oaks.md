@@ -10,6 +10,7 @@ latitude: 38.9149
 longitude: -77.0639
 story: >
   The Dumbarton Oaks conference of 1944, held in the Georgetown mansion, was where representatives of the United States, United Kingdom, Soviet Union, and China drafted the framework for what became the United Nations Charter. The subsequent signing of the Charter in San Francisco in 1945 established the UN. The conference room where it happened is now open to visitors.
+score: 8.8
 ---
 
 Dumbarton Oaks is a Harvard-owned research institute in Georgetown with a museum of Byzantine and Pre-Columbian art and one of the finest formal gardens in the eastern United States. The estate was purchased by Robert and Mildred Bliss in 1920 and donated to Harvard in 1940 along with their extraordinary collections.

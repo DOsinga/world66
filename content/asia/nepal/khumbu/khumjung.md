@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Khumjung
 story: >
   The gompa at Khumjung houses what its monks claim is the scalp of a yeti, presented in a glass case. Edmund Hillary, skeptical, arranged for it to be examined by scientists in 1960. The scientists couldn't definitively identify what animal the fur belonged to, but ruled out a yeti. The monks maintain it is authentic regardless. The scalp remains on display, drawing a steady stream of trekkers who come more for the spectacle of the claim than for certainty about the answer.
+score: 7.6
 ---
 
 Khumjung (3,790m) is a Sherpa village above Namche Bazaar on the plateau between the Dudh Koshi and Bhote Koshi valleys — a quieter, more residential place than Namche, with a school founded by Sir Edmund Hillary in 1961 that was one of the first in the region. The Hillary School is still operating and has educated several generations of Sherpa children who might otherwise have had no access to formal education.

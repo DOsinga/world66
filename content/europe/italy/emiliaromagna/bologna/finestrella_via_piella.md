@@ -7,6 +7,7 @@ snippet: A small window opening onto a hidden canal in central Bologna
 tags:
 - things_to_do
 - sight
+score: 4.8
 ---
 
 Bologna was once threaded with canals — the city used water power for its textile mills and silk works for centuries — but in the nineteenth and twentieth centuries most of them were covered over. The Canale delle Moline still flows in a narrow brick channel beneath the streets of the Quadrilatero.

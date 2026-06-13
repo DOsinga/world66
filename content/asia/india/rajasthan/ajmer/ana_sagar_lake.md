@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - lake
+score: 6.6
 ---
 
 Ana Sagar is an artificial lake created in the 12th century by Anaji Chauhan, grandfather of the Rajput hero Prithviraj III. It runs along the northern edge of the city and is the main place locals come for an evening walk.

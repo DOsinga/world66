@@ -6,6 +6,7 @@ tags:
   - landmark
 latitude: 47.92689722
 longitude: -97.02788889
+score: 6.4
 ---
 
 The Sorlie Memorial Bridge is East Grand Forks's oldest and most distinctive river crossing. Built in 1929 by the Minneapolis Bridge Company, it connects the two downtowns at DeMers Avenue and carries both vehicle and pedestrian traffic. The bridge is named for Arthur Sorlie, a North Dakota governor who died in office in 1928, and its Art Deco towers are the most architecturally notable structures in the immediate area.

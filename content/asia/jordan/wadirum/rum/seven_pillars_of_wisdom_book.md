@@ -4,6 +4,7 @@ type: poi
 author: T.E. Lawrence
 tags:
   - books
+score: 6.4
 ---
 
 Lawrence's sprawling, lyrical account of his role in the Arab Revolt is one of the great adventure memoirs, and large sections of it are set in and around Wadi Rum. His descriptions of the desert landscape — the play of light on sandstone, the immensity of the silence, the sudden violence of sandstorms — remain some of the most vivid writing about this place ever published.

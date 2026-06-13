@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.1
 ---
 
 The Gerecse Hills rise immediately north of Tatabánya, a long range of karst limestone peaks topped with beech and oak forest. The highest summit, Nagy-Gerecse at 633 metres, is a comfortable half-day walk from the village of Tardos or from the trailheads above Tatabánya itself.

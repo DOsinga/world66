@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: An early-1900s Catalan-Gothic castle on the hillside above town, set in a public park
 story: "The château was built in 1888-1900 for the Bardou family, the cigarette-paper magnates whose JOB-brand booklets paid for the project. The architect, the Danish-born Viggo Dorph-Petersen, gave them a mash-up of Gothic, Renaissance and Catalan motifs that ended up looking, charmingly, like nothing in particular."
+score: 6.9
 ---
 
 A late-19th-century château perched on a low hill 3km north of Argelès, built by a Danish architect for a wealthy Perpignan family. The building combines Gothic, Renaissance and Catalan styles into a slightly fantastical pile, with battlements, a clock tower and a wraparound terrace. The interior is closed to visitors but the surrounding park is open to all.

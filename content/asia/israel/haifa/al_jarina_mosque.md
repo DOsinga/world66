@@ -4,6 +4,7 @@ type: poi
 latitude: 32.81528
 longitude: 35.00667
 tags: [sight, religious]
+score: 7.4
 ---
 
 The largest mosque in central Haifa, built in 1761 by Daher al-Omar, the Galilean strongman who rebuilt the city as a small port. The minaret is the most recognisable Ottoman-era structure in the lower city.

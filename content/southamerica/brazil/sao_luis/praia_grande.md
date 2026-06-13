@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -2.528
 longitude: -44.304
+score: 8.9
 ---
 
 Praia Grande is the historic heart of São Luís, a neighbourhood of azulejo-tiled mansions, steep cobblestone streets, and bars where reggae plays at all hours. This is where the city's colonial heritage is most concentrated, and where São Luís feels most distinctly itself — neither a European city nor a typical Brazilian one, but something in between.

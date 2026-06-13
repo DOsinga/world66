@@ -8,6 +8,7 @@ tags:
 snippet: Terraced royal garden below the old Flower Palace
 latitude: 35.2971
 longitude: 75.6333
+score: 5.8
 ---
 
 Hilal Bagh is a historic terraced garden just below the Mindoq Khar (Flower Palace), once the seat of the Maqpon rulers of Skardu. The garden featured marble fountains and stretched from the palace down to what is now the Skardu bazaar area.

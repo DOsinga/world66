@@ -12,6 +12,7 @@ tags:
 - eating_out
 title: La Dolce Vita
 type: poi
+score: 6.1
 ---
 
 A long-established Italian restaurant in Beverly Hills, known for its old-school red-sauce Italian cooking and its celebrity clientele. A throwback to the days when Beverly Hills Italian dining meant heavy portions, dark wood, and a convivial atmosphere.

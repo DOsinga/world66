@@ -15,6 +15,7 @@ story: >
   Northern California.
 sources:
   - https://en.wikipedia.org/wiki/Cascade_Theatre
+score: 7.2
 ---
 
 The Cascade Theatre is Redding's performing arts venue and one of the city's most handsome buildings. The 1935 Art Deco structure on Market Street was restored and reopened in 2004 after years of closure, and it now hosts a steady programme of concerts, touring shows, films, and local performances. The interior is worth seeing for its own sake: the original ornamental plasterwork, decorative ceiling, and vintage neon exterior have been carefully preserved.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Keeyow Lake
 type: poi
+score: 5.9
 ---
 
 A natural lake a few kilometres northwest of Khorramabad, set in the folds of the Zagros foothills. The lake is small but scenic, and is a popular destination for Khorramabad residents in the evenings and on weekends. The surrounding area has picnic spots and walking paths.

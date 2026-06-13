@@ -9,6 +9,7 @@ latitude: 38.5919
 longitude: -121.4742
 story: >
   The parkway follows the American River for 32 miles from Discovery Park in Sacramento to Folsom Lake. The Jedediah Smith Memorial Trail runs the full length — a continuous paved cycling and jogging path that counts as one of the longest urban bike paths in the United States. On weekday mornings the egrets are more numerous than the cyclists.
+score: 8.5
 ---
 
 The American River Parkway is one of the best urban greenways in California. A thousand acres of riparian woodland stretch along the south bank of the American River, threading through Sacramento from the confluence with the Sacramento River at Discovery Park all the way east to Folsom. The parkway has beaches, swimming holes, fishing spots, and an extensive trail network.

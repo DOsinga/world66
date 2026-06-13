@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4179
 longitude: -5.0865
+score: 7.0
 ---
 
 Towan Beach is Newquay's main town beach — a sheltered cove of fine sand backed by the harbour and the centre, with rock pools at low tide and a tiny island-house perched on its own stack just offshore. It is the family beach: shallow, safe, and within five minutes' walk of fish and chips.

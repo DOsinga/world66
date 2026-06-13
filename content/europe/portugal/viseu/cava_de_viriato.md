@@ -14,6 +14,7 @@ story: >
   the Cava dates to the first century AD, a century after his death.
 sources:
   - https://en.wikipedia.org/wiki/Viseu
+score: 6.4
 ---
 
 The Cava de Viriato is an octagonal earthwork at the edge of the city centre — a large, grassy enclosure surrounded by low earth banks and ditches, now preserved as a public park. The site is attributed to the legendary Lusitanian chieftain Viriathus, who held the Romans at bay across the Iberian Peninsula for nearly two decades, but historians believe it's actually a Roman military camp — one of the largest visible Roman earthworks in Portugal.

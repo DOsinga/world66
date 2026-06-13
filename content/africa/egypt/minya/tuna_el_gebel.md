@@ -11,6 +11,7 @@ tags:
 - sight
 - archaeological_site
 story: Tuna el-Gebel was the necropolis of ancient Hermopolis, and its underground galleries contain the mummified remains of thousands of ibises and baboons, sacred animals of Thoth, the god whose cult dominated the region. The above-ground tombs include the Hellenistic-Egyptian hybrid Tomb of Petosiris — one of the strangest and most beautiful in Egypt — with reliefs that mix pharaonic poses with Greek-style draped clothing.
+score: 8.1
 ---
 
 Tuna el-Gebel served as the cemetery of ancient Hermopolis, the city of the god Thoth, and the site combines several distinct elements. The most famous monument is the Tomb of Petosiris, a small free-standing chapel from around 300 BC built for a high priest of Thoth. Its reliefs are a striking fusion of Egyptian and Greek styles, with figures shown in traditional Egyptian pose but wearing Hellenistic clothing.

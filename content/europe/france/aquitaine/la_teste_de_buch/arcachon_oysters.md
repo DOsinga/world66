@@ -6,6 +6,7 @@ tags:
   - eating_out
 latitude: 44.6100
 longitude: -1.1700
+score: 7.9
 ---
 
 The Bassin d'Arcachon is one of France's most productive oyster regions, and the farms are as much a visual part of the landscape as the dune or the pine forest. At low tide the shallow basin is studded with rows of oyster cages stretching toward the horizon, and the *ostréiculteurs* (oyster farmers) work in flat-bottomed boats that are a local design unchanged for generations.

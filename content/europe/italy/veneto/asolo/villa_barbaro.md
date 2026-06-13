@@ -12,6 +12,7 @@ story: >
   Paolo Veronese spent several years at Maser in the 1560s painting the frescoes that cover almost every ceiling and wall of the villa. In the Stanza di Bacco, he included his own portrait peering around a door — a touch of wit in a commission that runs to dozens of rooms and hundreds of figures.
 sources:
   - https://en.wikipedia.org/wiki/Villa_Barbaro
+score: 9.4
 ---
 
 One of Andrea Palladio's greatest works, Villa Barbaro at Maser stands five kilometres north-east of Asolo and is the single best reason to have a car. Commissioned in the 1550s by brothers Daniele and Marcantonio Barbaro, it represents the perfect fusion of Palladio's architectural genius and Paolo Veronese's painterly brilliance — every room is frescoed with trompe-l'oeil landscapes, mythological scenes, and playful figures looking down from painted balconies.

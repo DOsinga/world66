@@ -8,6 +8,7 @@ latitude: 16.5607
 longitude: 73.3334
 sources:
   - https://en.wikipedia.org/wiki/Rameshwar_Wadi
+score: 6.4
 ---
 
 The Rameshwar Temple at Rameshwar Wadi, about two kilometres from the fort, is one of the most visited religious sites in the Sindhudurg coast. Dedicated to Lord Shiva, the temple sits at a point where a freshwater spring meets the sea — a confluence considered highly auspicious in the Hindu tradition. The spring water is said to remain fresh even at high tide, which pilgrims regard as a divine miracle.

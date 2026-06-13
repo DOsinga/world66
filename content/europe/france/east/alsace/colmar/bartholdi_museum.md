@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 story: "Bartholdi worked for nearly twenty years on the Statue of Liberty, from the first clay model in 1870 to the New York unveiling in 1886. The museum still has the wooden patterns used for the copper hammering, and the original models for both Liberty and the Lion of Belfort — all kept in his childhood home, which his widow donated to the city of Colmar in 1907."
+score: 6.7
 ---
 
 The Musée Bartholdi occupies the 18th-century townhouse on rue des Marchands where Frédéric Auguste Bartholdi was born in 1834. The sculptor of the Statue of Liberty and the Lion of Belfort spent his life in Paris but kept the family house and his studio archive; both passed to the city after his widow's death.

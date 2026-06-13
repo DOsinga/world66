@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9986
 longitude: 36.2347
+score: 5.8
 ---
 
 The Mirror Stream (Dzerkalnyi Strumin) is a long reflecting pool and fountain complex at the edge of Freedom Square, one of the most popular gathering spots in Kharkiv. The name comes from the perfectly flat mirror of water that channels between two curved white colonnades, reflecting the sky and the surrounding buildings in a way that somehow makes the vast square feel intimate.

@@ -7,6 +7,7 @@ tags:
 latitude: 34.6072
 longitude: -120.1766
 snippet: An ostrich and emu farm where you can feed — and be intimidated by — the world's largest birds
+score: 5.8
 ---
 
 OstrichLand USA is an ostrich and emu farm on Highway 246 between Solvang and Buellton, where visitors can get up close to some of the largest and most disconcerting birds in the world. The farm offers feeding sessions: you purchase a bowl of feed and attempt to give it to ostriches who are more aggressive and faster than you expect.

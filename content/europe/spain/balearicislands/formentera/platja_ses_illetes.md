@@ -7,6 +7,7 @@ tags:
 latitude: 38.7578
 longitude: 1.4356
 snippet: "Formentera's finest beach: a long strip of white sand with water the colour of the Caribbean"
+score: 9.2
 ---
 
 Ses Illetes is a long, narrow strip of beach on the western side of the northern spit, with the salt pans on one side and open sea on the other. The sand is white and very fine, the water shallow and preternaturally clear, and the seagrass beds beneath the surface give it that luminous turquoise that photographs well and looks even better in person. It consistently appears on lists of the best beaches in Europe, and while such lists are not infallible, in this case they are not wrong.

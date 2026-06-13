@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.0858
 longitude: 2.4009
+score: 5.4
 ---
 
 The city natural history museum sits in the Jardin des Prés-Fichaux. It has the air of an older provincial museum — taxidermy galleries, fossils, minerals — with a strong section on the flora and fauna of Berry and the Sologne wetlands to the north.

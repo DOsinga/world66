@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 43.4676
 longitude: 11.0432
+score: 9.0
 ---
 
 The 13th-century town hall on the Piazza del Duomo is the seat of civic power that never really changed hands. Construction began in 1288 and the building still serves as the municipal offices. Inside, the Museo Civico occupies the upper floors, with a collection of Sienese and Florentine paintings — the Maestà by Lippo Memmi is the centrepiece — and a frescoed Sala di Dante, where the poet addressed the town's council in 1300 as Florence's ambassador.

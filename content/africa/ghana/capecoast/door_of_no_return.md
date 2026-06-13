@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Door of No Return
 type: poi
+score: 6.7
 ---
 
 A simple wooden door set in the western wall of Cape Coast Castle, opening onto the rocks and the surf below. This is the gate through which enslaved Africans were marched out of the dungeons and into the waiting longboats for transport to the slave ships anchored offshore. The plaque above reads simply 'Door of No Return.'

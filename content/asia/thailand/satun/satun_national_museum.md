@@ -7,6 +7,7 @@ tags:
 address: "Satanee Road, Satun"
 latitude: 7.0015
 longitude: 100.0024
+score: 6.6
 ---
 
 The Satun National Museum occupies the Kuden Mansion, a graceful two-storey Sino-Portuguese building constructed in 1901 as a residence for local administrators. The building itself is the main attraction — its combination of European classical architecture with Chinese and Malay decorative elements is typical of the colonial-era mansions that dot the towns of peninsular Thailand and Malaysia.

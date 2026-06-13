@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7289
 longitude: 3.4739
+score: 7.4
 ---
 
 Cala Mesquida is a wide, sandy beach about 3 km north of Cala Ratjada, backed by dunes and pine woodland and largely undeveloped thanks to its protected status. It has a more exposed, windswept character than the sheltered coves to the south — the surf here can be substantial, making it popular with bodyboarders and windsurfers. In summer there is a beach bar; outside peak season the beach is peaceful and the dunes are good for walking.

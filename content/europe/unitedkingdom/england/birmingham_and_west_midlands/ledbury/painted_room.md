@@ -5,6 +5,7 @@ latitude: 52.0372
 longitude: -2.4222
 snippet: Tudor wall paintings rediscovered behind plaster in a Church Lane townhouse
 tags: [things_to_do, sight]
+score: 8.0
 ---
 
 The Painted Room is on the first floor of a half-timbered house on Church Lane that was used as the town council offices for most of the twentieth century. In 1988, builders stripping back damp plaster found a complete set of late-Tudor wall paintings underneath — floral and geometric panels in red, black and white ochre, dating from about 1580.

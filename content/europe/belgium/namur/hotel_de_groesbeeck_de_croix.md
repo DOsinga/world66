@@ -5,6 +5,7 @@ snippet: Eighteenth-century townhouse museum with period interiors and decorativ
 tags: [things_to_do, museum, historic_house, architecture]
 latitude: 50.4634
 longitude: 4.8611
+score: 7.8
 ---
 
 This eighteenth-century mansion in the old town is one of the most elegant survivals of bourgeois Namur. Built in the 1750s for a noble family and bought by the city in 1935, it is now run as a decorative arts museum: a sequence of rooms restored to their original use, with painted ceilings, period furniture, porcelain, glass and silverware.

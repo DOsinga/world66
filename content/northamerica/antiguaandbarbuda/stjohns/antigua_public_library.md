@@ -9,6 +9,7 @@ latitude: 17.1205
 longitude: -61.8385
 sources:
   - https://en.wikipedia.org/wiki/Antigua_Public_Library
+score: 6.2
 ---
 
 The Antigua Public Library is the national library of Antigua and Barbuda, housed in a striking colonial building on Market Street. Founded in 1882, it is one of the oldest public libraries in the Caribbean and still functions as a working lending library and research resource.

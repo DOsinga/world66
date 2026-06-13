@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.7800
 longitude: 117.1200
+score: 6.9
 ---
 
 Weishan Lake, a large shallow lake in the southern part of Jining prefecture, is one of the most important wetland areas in the North China Plain and a significant site for migratory waterbirds. The lake complex (which includes several connected water bodies) covers about 1,280 square kilometres; the reed beds, lotus marshes, and open water support populations of breeding and migratory birds including Oriental white storks, cranes, and large numbers of ducks and geese.

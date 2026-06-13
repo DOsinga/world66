@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 9.9820
 longitude: -84.3870
+score: 7.7
 ---
 
 The hillsides around Atenas are blanketed in coffee, and several local fincas offer tours that walk you through the full cycle from flowering to harvest to processing. Café de Altura Atenas and Vista Atenas are among the operations that receive visitors; tour arrangements are often informal — ask at your hotel or guesthouse and someone will point you to the right contact.

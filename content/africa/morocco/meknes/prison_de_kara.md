@@ -9,6 +9,7 @@ latitude: 33.8885
 longitude: -5.5620
 story: >
   The prison was supposedly designed by a Christian captive named Kara, who built it as a labyrinth without bars, doors, or obvious exits — the idea being that prisoners would simply lose themselves in the maze. According to legend, Kara showed Sultan Moulay Ismail the design and was immediately imprisoned within it himself, to prove it worked. He was never seen again.
+score: 7.3
 ---
 
 The Prison de Kara is a network of underground vaults beneath the Imperial City, once used to imprison European captives and criminals. Moulay Ismail held tens of thousands of captives — Spanish, Portuguese, and other Europeans — whom he used as slave labour to build his imperial capital. The conditions were brutal, and the vaults where they were confined still have a sinister atmosphere.

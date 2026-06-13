@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 44.3036
 longitude: 9.2085
+score: 5.6
 ---
 
 A small seafood restaurant tucked into Vico Nuovo, one of the narrow lanes behind the Piazzetta. The kitchen specialises in raw and lightly cooked seafood — fresh oysters, gambero rosso, scampi crudi, sea urchins in season — and a short cooked menu that changes with the catch.

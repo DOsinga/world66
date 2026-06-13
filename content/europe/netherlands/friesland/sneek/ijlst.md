@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 53.0167
 longitude: 5.6167
+score: 7.4
 ---
 
 IJlst (Drylts in Frisian) is a small canal town four kilometres south of Sneek, one of the eleven historic Frisian cities that make up the Elfstedentocht skating route. The centre — barely a couple of streets either side of a tree-lined canal — feels like Sneek in miniature, with handsome 17th-century merchant houses and an unmistakably Dutch tranquility.

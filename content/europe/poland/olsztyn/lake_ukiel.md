@@ -7,6 +7,7 @@ tags:
 snippet: City lake with sand beaches, sailing, and a forested perimeter trail
 latitude: 53.7833
 longitude: 20.4167
+score: 7.8
 ---
 
 Olsztyn has eleven lakes within its city limits, and Lake Ukiel — also called Krzywe Lake — is the biggest and best loved. A municipal beach with sand and lifeguards opens in summer on the eastern shore, with a sailing club just along from it. A flat, well-marked footpath circles the whole lake — about 10 km — through pine forest.

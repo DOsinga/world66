@@ -6,6 +6,7 @@ longitude: 16.6864
 tags:
   - things_to_do
   - sight
+score: 9.1
 ---
 
 The Cetina river cuts through a canyon of grey limestone karst before reaching the sea at Omiš, and the gorge is the most dramatic landscape feature in the area. The river is clear and cold even in midsummer; the cliffs on either side rise steeply from the water; and the road through the gorge (running inland from Omiš toward Zadvarje and the waterfall at Gubavica) passes some of the most striking scenery in Dalmatia.

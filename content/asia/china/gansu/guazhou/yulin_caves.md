@@ -15,6 +15,7 @@ story: >
   it contemporary with or only a generation after the actual events
   it depicts. Xuanzang's journey later became the basis for Journey to
   the West, one of the four great classical novels of Chinese literature.
+score: 9.4
 ---
 
 The Yulin Caves (榆林窟) are 42 decorated Buddhist grottoes cut into the walls of a river gorge in the Mazong Mountains, 50 kilometres south of Guazhou. They contain 250 polychrome sculptures and 4,200 square metres of wall paintings that span the Tang, Five Dynasties, Song, Western Xia, and Ming periods — a 700-year tradition of Buddhist art that rivals the Mogao Caves in Dunhuang for quality, if not for fame. The site receives a fraction of Dunhuang's visitors, which means the caves are genuinely quiet and the experience of standing inside them is more intimate.

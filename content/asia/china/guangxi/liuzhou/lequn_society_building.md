@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.3019
 longitude: 109.4046
+score: 7.0
 ---
 
 The Lequn Society building, a historic structure in the older part of Liuzhou near the Liu River, is one of the few surviving examples of the civic architecture that characterized Liuzhou before its post-war industrialisation. The building dates from the Republican era and served as a social club and meeting hall for the city's educated class. Its hybrid Chinese-Western facade is characteristic of the architectural style that appeared in provincial Chinese cities during the 1920s and 1930s — confident enough to be interesting without being grandiose.

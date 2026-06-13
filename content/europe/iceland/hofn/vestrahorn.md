@@ -13,6 +13,7 @@ story: >
   leave the mountain standing alone. The Viking Café at the farm entrance
   charges a small access fee; this pays for the path maintenance across the
   fragile black sand.
+score: 9.1
 ---
 
 About fifteen kilometres east of Höfn, the Stokksnes peninsula ends in one of Iceland's most arresting landscapes. Vestrahorn rises 454 metres straight up from black sand flats, its triangular silhouette reflected in the shallow pools that form between the dunes when the tide and weather cooperate. The photograph you have seen on half the Iceland travel boards in the world was taken here. In person it is, if anything, more dramatic — the scale of the mountain against the flat sand and the sea is hard to convey in two dimensions.

@@ -10,6 +10,7 @@ tags:
 - saint_germain
 title: Jardin du Luxembourg
 type: poi
+score: 8.7
 ---
 
 The Luxembourg Gardens are the great public park of the Left Bank — 23 hectares of formal French garden, gravel paths, ornamental ponds, and the Palais du Luxembourg (now the French Senate) around a central fountain where model boats have been sailed since the 19th century. The park is surrounded by the university quarter; its benches are perpetually occupied by students, old men playing chess, and parents watching children push their rental boats with wooden sticks.

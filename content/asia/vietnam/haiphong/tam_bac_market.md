@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 7.4
 ---
 
 Tam Bạc Market is the busiest of the old central markets, in a brick hall on the southern bank of the Tam Bạc River. The market stretches in long parallel aisles selling fabric, household goods, spices, and an immense variety of fresh produce; the seafood section is the most interesting, with crabs, shrimp, eels, and unfamiliar river fish piled on ice.

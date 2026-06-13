@@ -10,6 +10,7 @@ story: >
   Perkasa Alam. The architect was a Dutch engineer named Van Erp, but the Sultan insisted on a
   building that incorporated Malay, Indian, and Islamic elements — the result is unlike anything
   else in Sumatra. Members of the Deli royal family still live in parts of the palace.
+score: 8.1
 ---
 
 Maimun Palace is the most important historic building in Medan and the former seat of the Sultanate of Deli, which grew rich from tobacco in the late 19th century. Built in 1888–1891 and covering 2,772 square metres, the palace blends Malay, Mughal, Moorish, and European architectural elements in a way that is both extravagant and coherent.

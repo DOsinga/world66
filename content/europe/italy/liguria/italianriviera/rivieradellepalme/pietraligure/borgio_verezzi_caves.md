@@ -6,6 +6,7 @@ latitude: 44.1598
 longitude: 8.3053
 story: >
   The Borgio Verezzi Caves were only rediscovered in 1933 when a local farmer noticed the ground collapsing beneath his feet. Archaeologists later found Neolithic pottery, prehistoric animal bones, and evidence of continuous habitation going back at least 30,000 years.
+score: 8.5
 ---
 
 The Borgio Verezzi Caves — also known as the Grotte di Borgio Verezzi or Grotte Valdemino — are a karst cave system about 3 km from Pietra Ligure in the neighbouring municipality of Borgio Verezzi. The caves extend for nearly 1,500 metres through extraordinary stalactite and stalagmite formations, coloured in ochres and whites by mineral deposits. Guided tours take about an hour and wind through the most spectacular sections of this underground landscape.

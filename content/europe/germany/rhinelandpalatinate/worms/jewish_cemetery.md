@@ -11,6 +11,7 @@ story: >
   thousand years. It survived Kristallnacht and the Holocaust intact, partly because the Nazis
   considered it a curiosity worth preserving as a "monument to a vanished people."
 snippet: "Oldest surviving Jewish cemetery in Europe, in use since the 11th century"
+score: 8.9
 ---
 
 A sloping field of around 2,000 medieval and modern Jewish gravestones, just outside the old city

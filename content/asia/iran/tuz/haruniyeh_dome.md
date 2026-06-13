@@ -6,6 +6,7 @@ tags:
 - sight
 title: Haruniyeh Dome
 type: poi
+score: 7.4
 ---
 
 The Haruniyeh is an Ilkhanid-era domed building standing in the ruins of the old city of Tus, its origins and original purpose still debated. It is sometimes called the tomb of Ghazali — Al-Ghazali, the Sufi philosopher and theologian who was born in Tus in 1058 and whose writings would later influence European scholasticism through Thomas Aquinas. Whether or not Ghazali is actually buried here, the association with him gives the building a philosophical weight that complements the literary aura of the Ferdowsi mausoleum nearby.

@@ -7,6 +7,7 @@ tags:
 - park
 title: Red Mountain Park
 type: poi
+score: 7.9
 ---
 
 A 1,500-acre park on Birmingham's Red Mountain ridge, with over fifteen miles of trails traversing former iron ore mining operations. The park contains mine shafts, ore cuts, and the ruins of the industrial infrastructure that helped make Birmingham. Tree canopy walks, ziplines, and a children's play area make it more of a full-day destination than a quick hike.

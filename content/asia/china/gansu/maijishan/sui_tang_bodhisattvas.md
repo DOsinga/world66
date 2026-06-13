@@ -14,6 +14,7 @@ story: >
   gesture that the rock-cutting tradition could not easily achieve. The slight tilt of
   a head, the curve of a hand, the weight of drapery across a shoulder: these are
   figures that feel inhabited rather than carved.
+score: 9.5
 ---
 
 The Sui (581–618) and Tang (618–907) period sculptures are the aesthetic peak of Maijishan's long artistic history. Where the Northern Wei figures have a stylised, other-worldly quality, the Sui and Tang bodhisattvas are warmer and more naturalistic — the human form given spiritual weight without being distorted by it. The clay medium gave sculptors a freedom of expression that stone could not provide, and this freedom is most evident in the figures from these two dynasties.

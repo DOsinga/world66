@@ -7,6 +7,7 @@ tags:
 latitude: 39.3742
 longitude: 22.9461
 snippet: "One of Greece's largest insect collections, with 35,000 specimens and exceptional Greek butterflies"
+score: 6.9
 ---
 
 The Koutroumbas Entomological Museum houses one of the largest insect collections in Greece — around 35,000 specimens gathered and curated over decades. The collection's particular strengths are Greek butterflies and beetles, and the range of native Lepidoptera on display is remarkable: Greece's position at the junction of European, Asian, and African biogeography means its butterfly fauna is unusually diverse, and the museum makes that visible in a way you rarely see.

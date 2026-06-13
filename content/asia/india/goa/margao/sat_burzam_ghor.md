@@ -16,6 +16,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.5
 ---
 
 The Sat Burzam Ghor — House of Seven Gables in Konkani — is the most celebrated of Margao's old fidalgos' houses, a two-storey mansion just off the Largo de Igreja whose remaining three gabled dormers, shell-paned windows, and carved wooden balconies represent the apex of late-Portuguese domestic architecture in Goa. The da Silva family still occupies part of it; the rest can be visited by prior arrangement.

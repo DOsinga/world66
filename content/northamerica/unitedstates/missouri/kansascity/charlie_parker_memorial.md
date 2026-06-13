@@ -8,6 +8,7 @@ tags:
 - historic
 title: Charlie Parker Memorial
 type: poi
+score: 6.5
 ---
 
 The Charlie Parker Memorial stands on 18th Street in the heart of the historic jazz district, a large green bronze portrait head mounted on a column outside the American Jazz Museum. Parker — universally known as Bird — grew up in Kansas City in the 1930s and took his first steps as a musician in the clubs along 12th Street and in the Vine Street neighborhood. He was playing professionally in Kansas City bands before he was a teenager.

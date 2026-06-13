@@ -9,6 +9,7 @@ latitude: 49.9567
 longitude: 82.6158
 sources:
   - https://en.wikipedia.org/wiki/Boris_Alexandrov_Sports_Palace
+score: 6.1
 ---
 
 Named after Boris Alexandrov, a local ice hockey player who became a Soviet national champion, this indoor arena is the home of Torpedo Ust-Kamenogorsk — one of the oldest ice hockey clubs in Kazakhstan, founded in 1958. The club has produced more than a dozen players who went on to play in the NHL or the Russian KHL, making it something of a factory for professional hockey talent in an improbable location.

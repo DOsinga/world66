@@ -7,6 +7,7 @@ tags:
 latitude: 56.4900
 longitude: 84.9400
 snippet: The riverside promenade below Resurrection Hill, pleasant for walks along the Tom
+score: 6.3
 ---
 
 The embankment along the Tom River, below Resurrection Hill, is the city's main outdoor public space. In summer it fills with joggers, dog walkers, and couples, and small boats tie up along the bank. The view from the riverside looking up toward the old wooden houses on the bluff above is one of the characteristic Tomsk views — wooden gables and carved cornices against the sky.

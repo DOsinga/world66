@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Local lore holds that three Confederate deserters were hanged from the rafters of the bridge as the army retreated south after the battle. The bridge is widely reported as one of the most haunted sites in the country — though the rope marks once shown to tourists were probably from later repair work."
+score: 6.4
 ---
 
 A 1854 covered wooden bridge over Marsh Creek south-west of town, used by both Union and Confederate troops during the battle and by Lee's army during the retreat from Gettysburg. The bridge has been restored after multiple floods and a 1996 arson.

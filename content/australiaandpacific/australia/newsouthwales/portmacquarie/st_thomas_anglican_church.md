@@ -12,6 +12,7 @@ snippet: Australia's oldest Anglican church still holding regular services, buil
 story: >
   The church was built almost entirely by convict labour between 1824 and 1828.
   Among the convicts was Thomas Pamphlett, who had been castaway on the Queensland coast for months and explored much of Moreton Bay before being rescued — one of the first Europeans to map those waters.
+score: 7.8
 ---
 
 St Thomas' Anglican Church is the oldest Anglican church in Australia still holding regular services, consecrated in 1828 after four years of construction by convict labour. The simple Georgian stone building sits at the corner of Hay and William Streets, its proportions modest and its thick walls enduring in a way the later timber buildings around town did not.

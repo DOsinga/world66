@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Vizcaya Museum and Gardens
 type: poi
+score: 9.2
 ---
 
 An Italian Renaissance-style villa built in 1916 for industrialist James Deering, Vizcaya is one of Miami's most extraordinary sights. The house contains 34 rooms filled with European furniture, tapestries, and art spanning four centuries. But the gardens are the real showpiece — ten acres of formal parterres, fountains, and grottoes tumbling down to Biscayne Bay, where a stone barge breakwater carved with mermaids sits in the water.

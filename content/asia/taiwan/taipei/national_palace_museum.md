@@ -11,6 +11,7 @@ title: National Palace Museum
 type: poi
 url: https://www.npm.gov.tw
 story: "Most of the museum's 700,000 objects came out of the imperial collection of the Forbidden City in Beijing, evacuated by the retreating Nationalists in 1948-49 in 4,000 crates loaded onto warships at Nanjing. The collection survived bombings, civil war, and ocean storms with barely a casualty — and the Beijing Palace Museum has effectively been competing to fill the gap ever since."
+score: 9.5
 ---
 
 The National Palace Museum holds the finest collection of Chinese imperial art in the world: nearly 700,000 paintings, calligraphy works, jades, bronzes, porcelains, lacquerware, books and curios, almost all of them carried out of the Forbidden City by the retreating Nationalist government in 1948-49. Only a small fraction is on display at any one time, and the collection rotates so that any given visit shows different highlights.

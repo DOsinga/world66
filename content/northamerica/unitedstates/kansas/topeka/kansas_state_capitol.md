@@ -13,6 +13,7 @@ tags:
 - history
 title: Kansas State Capitol
 type: poi
+score: 8.7
 ---
 
 The Kansas State Capitol is a handsome Neoclassical building completed in 1903, but the real draw is inside: John Steuart Curry's murals depicting the violent "Bleeding Kansas" era of the 1850s, when pro- and anti-slavery factions fought bitterly over the state's future. They're unlike anything you'd expect in a government building — confrontational, messy, and genuinely good art. John Brown stands at the centre of the main composition with arms outstretched, a rifle in one hand and a bible in the other, a tornado raging behind him.

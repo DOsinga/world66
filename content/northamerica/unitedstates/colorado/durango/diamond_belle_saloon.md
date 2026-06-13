@@ -6,6 +6,7 @@ longitude: -107.8819
 tags:
   - bars_and_cafes
   - bar
+score: 7.7
 ---
 
 The saloon on the ground floor of the Strater Hotel is a complete late-Victorian time capsule — red flocked wallpaper, original mahogany bar, brass rails, and waitresses in 1890s dance-hall costume. A ragtime pianist plays most afternoons and evenings.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6173
 longitude: -94.0155
+score: 6.8
 ---
 
 Every August, Adel holds its Annual Sweet Corn Festival around the courthouse square — one of the more beloved summer events in central Iowa. The festival distributes more than seven tonnes of free sweet corn, cooked and served on the square, along with a parade that draws participants and spectators from across Dallas County, a craft fair, carnival rides, and live entertainment. It is the kind of small-town summer gathering that Iowa does particularly well.

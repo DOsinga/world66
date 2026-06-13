@@ -13,6 +13,7 @@ story: >
   quarters in Mos Espa. George Lucas filmed several scenes here in 1997. The locals
   know this well; the Star Wars connection has saved the site from neglect more
   effectively than any preservation order.
+score: 9.2
 ---
 
 About 22 kilometres south of Tataouine, Ksar Ouled Soltane is the finest preserved ksar in southern Tunisia and one of the most dramatic structures you will encounter anywhere in North Africa. A ksar is a fortified communal granary — a place where Berber families stored grain, olive oil, and other goods through the long desert seasons, each family renting a locked vaulted chamber called a ghorfa. Ksar Ouled Soltane has four storeys of ghorfas stacked around two interconnecting courtyards, the upper levels accessible by narrow staircases built into the corners of the walls. The honeycombed stonework, worn smooth by centuries of desert winds and periodic flash floods, is extraordinary in the slanting light of early morning or late afternoon.

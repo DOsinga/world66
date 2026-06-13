@@ -16,6 +16,7 @@ story: >
   or years to complete. The lace is traditionally white on black velvet, worn by
   Pag women as a head covering and collar decoration at festivals — and the
   designs have remained essentially unchanged for centuries.
+score: 7.8
 ---
 
 **Paška čipka** — Pag needle lace — was inscribed on UNESCO's List of Intangible Cultural Heritage in 2009 as one of Croatia's most distinctive craft traditions. The lace is made by a declining community of women in Pag Town using a technique unique to the island: a single needle builds up the intricate geometric and floral patterns without any foundation fabric, purely from thread. The finished pieces are extraordinarily fine and take months to complete.

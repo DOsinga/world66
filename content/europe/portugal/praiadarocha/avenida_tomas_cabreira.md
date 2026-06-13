@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 5.2
 ---
 
 The clifftop promenade — Avenida Tomás Cabreira — is the spine of Praia da Rocha. A wide pedestrian boulevard runs the length of the cliffs, lined with hotels, restaurants, bars, and the usual seaside infrastructure of arcades and souvenir shops. The view down to the beach is a constant feature.

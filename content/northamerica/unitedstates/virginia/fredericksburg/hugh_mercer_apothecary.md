@@ -16,6 +16,7 @@ story: >
   was shot from under him.
 sources:
   - https://en.wikipedia.org/wiki/Hugh_Mercer_Apothecary
+score: 7.3
 ---
 
 The Hugh Mercer Apothecary is a reconstruction of the pharmacy and medical office operated by Scottish-born physician Hugh Mercer from 1761 until he left to join the Continental Army in 1775. Mercer was a close friend of George Washington — they had served together in the French and Indian War — and his shop was a social hub in colonial Fredericksburg as much as a medical facility.

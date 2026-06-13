@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.3
 ---
 
 A tiny lunch-only restaurant on Calle Sol that does a daily-changing buffet of Puerto Rican comfort food — usually six or seven options of stewed meats, rice, beans, plantain in various forms, and a couple of vegetable dishes. You pile a plate, the cook weighs it, you pay.

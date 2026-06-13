@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 7.6
 ---
 
 The western gate of the Walled City — restored in the 1980s and again more recently. The neighbourhood inside the gate has long been associated with Lahore's intellectual and literary life: Allama Iqbal lived here in his early years, and Faiz Ahmed Faiz, Habib Jalib, and Manto all spent time in the cafes around Bhati Bazaar.

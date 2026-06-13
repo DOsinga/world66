@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: The Anchor Bankside
 type: poi
+score: 7.5
 ---
 
 The Anchor on Bankside is one of London's great riverside pubs — a rambling 18th-century building on the south bank directly opposite the Tate Modern, with views of St Paul's Cathedral from its terrace. Samuel Johnson drank here. Samuel Pepys watched the Great Fire of London from this spot in 1666.

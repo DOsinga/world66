@@ -18,6 +18,7 @@ story: >
   every centimetre of the surface, with Christ in Majesty at the centre of the top tier.
 sources:
   - https://en.wikipedia.org/wiki/Angoul%C3%AAme_Cathedral
+score: 8.8
 ---
 
 The Cathédrale Saint-Pierre d'Angoulême stands on the highest point of the old town plateau, a large Romanesque building whose west facade is one of the most elaborately carved in France. Built in the early 12th century and much restored in the 19th, the facade shows the distinctive Saintonge style of Romanesque decoration at its most ambitious: four horizontal bands of carved figures, interlacing, foliage, and architectural motifs covering the entire surface from ground level to the roofline.

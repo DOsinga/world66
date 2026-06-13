@@ -8,6 +8,7 @@ latitude: 50.14568
 longitude: 11.06382
 story: >
   Lichtenfels has been called the basket-making capital of Germany since at least the 18th century, when the craft spread through the Upper Franconian villages as a winter supplement to farming income. At its peak in the early 20th century, several hundred basket-weaving workshops operated in the district. The town's basket-weaving college, the only specialist institution of its kind in Germany, still trains students from across the country. The museum holds the largest collection of wicker and willow work in Europe.
+score: 7.2
 ---
 
 The Korbmarkt Museum (Basket Market Museum) in the town centre documents Lichtenfels's identity as Germany's basket-weaving capital. The collection covers everything from traditional willow baskets to modern design pieces, tracing how a peasant cottage industry became a recognised craft with its own dedicated school.

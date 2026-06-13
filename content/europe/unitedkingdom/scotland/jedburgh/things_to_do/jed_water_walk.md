@@ -1,6 +1,7 @@
 ---
 title: Jed Water Walk
 type: poi
+score: 6.5
 ---
 
 The Jed Water walk follows the river through the town and out into the valley beyond. It is pleasant and easy underfoot — a good way to stretch your legs between the abbey and the town's other sights. The view of Jedburgh Abbey from the riverside is the classic one, and worth the short detour even if you don't continue further.

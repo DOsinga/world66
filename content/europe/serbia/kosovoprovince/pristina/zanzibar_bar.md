@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.6623
 longitude: 21.1618
+score: 6.2
 ---
 
 Zanzibar is Pristina's most famous jazz bar — a basement venue just off Mother Teresa Street that has become something of an institution in a city that has grown its nightlife scene rapidly since independence. Dark, small, and slightly smoky, it is not the place for a quiet drink, but it is exactly the place to find good live music in an unpretentious setting.

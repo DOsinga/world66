@@ -8,6 +8,7 @@ latitude: 43.2800
 longitude: 124.1200
 story: >
   Yehe Town is famous throughout China as the birthplace of two Qing dynasty empresses — Empress Dowager Cixi, who effectively ran China for nearly fifty years from 1861 to 1908, and Empress Dowager Longyu, the last empress of the Qing. Both women were born into the Yehe Nara clan, a Manchu noble family that originated in this area. The coincidence of two such powerful women coming from the same remote corner of Jilin Province is genuinely extraordinary.
+score: 7.0
 ---
 
 Yehe Town, about forty kilometres north of Siping, is the ancestral homeland of the Yehe Nara clan, one of the most prominent Manchu noble families of the Qing dynasty. The site has been developed as a heritage park with reconstructed traditional buildings, a museum dedicated to the clan's history, and exhibits connecting the local aristocratic lineage to the Qing court.

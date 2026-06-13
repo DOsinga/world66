@@ -6,6 +6,7 @@ longitude: 73.7383
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 A short detour from Eklingji takes you to **Nagda**, the abandoned capital of the early Mewar kingdom. The two surviving 10th-century temples — **Saas Bahu** ("mother-in-law and daughter-in-law"), twin Vishnu shrines that face each other across a small courtyard — are covered in some of the finest stone carving in Rajasthan: dancing figures, lovers, gods, and densely worked floral panels.

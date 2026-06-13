@@ -8,6 +8,7 @@ latitude: 43.2617
 longitude: -79.0767
 story: >
   Fort Mississauga was built partly from the rubble of the town of Newark, which American troops burned to the ground in December 1813. The British used the salvaged bricks and stone — including fragments from the destroyed town — to build the fort's central tower. It was never seriously attacked and spent most of its existence as a peacetime garrison.
+score: 6.8
 ---
 
 Fort Mississauga is a small British fortification at the mouth of the Niagara River, built after the War of 1812 and now a National Historic Site that sits somewhat incongruously within the grounds of the Niagara-on-the-Lake Golf Club. The round brick tower — a rare surviving example of a Martello-style tower in Ontario — stands at the lake's edge and can be visited for free.

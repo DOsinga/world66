@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.6914
 longitude: 6.1861
+score: 6.8
 ---
 
 Nancy Cathedral (Cathédrale Notre-Dame-de-l'Annonciation) is a Baroque church built in the early 18th century, which makes it an outlier in a country where cathedrals are mostly Gothic. The interior is broad and somewhat restrained by French standards, but the treasury, housed in a former sacristy, holds a remarkable collection of reliquaries and liturgical objects, including some pieces from the pre-Revolutionary Duchy.

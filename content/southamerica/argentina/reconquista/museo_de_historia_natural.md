@@ -6,6 +6,7 @@ longitude: -59.6506
 tags:
   - things_to_do
   - museum
+score: 5.6
 ---
 
 The natural history museum sits a few blocks west of Plaza 25 de Mayo and covers the flora, fauna, and geology of northern Santa Fe and the Chaco. The collection is small but specifically local — riverine birds and mammals of the Paraná floodplain, fish, snakes, and a handful of fossils.

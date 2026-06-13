@@ -1,6 +1,7 @@
 ---
 title: "Chickasaw Cultural Center"
 type: poi
+score: 8.8
 ---
 
 The Chickasaw Cultural Center in Sulphur, about 30 miles north of Ardmore, is widely regarded as one of the finest Native American cultural institutions in the United States. Opened in 2010 on a beautifully landscaped 184-acre campus, it tells the story of the Chickasaw Nation — from ancient origins in the southeast, through the brutal forced removal along the Trail of Tears to Indian Territory in the 1830s, to the nation's remarkable modern revival as a major governmental and economic force in Oklahoma.

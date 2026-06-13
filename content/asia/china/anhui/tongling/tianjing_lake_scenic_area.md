@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.9350
 longitude: 117.8100
+score: 7.2
 ---
 
 Tianjing Lake Scenic Area is the principal natural escape within Tongling city, a network of walking trails through wetlands, bamboo groves, and mixed woodland within comfortable distance of the urban center. The lake itself is not dramatic, but the surrounding vegetation — particularly the bamboo stands that line the path's northern section — creates a pleasant contrast to the industrial character of the city.

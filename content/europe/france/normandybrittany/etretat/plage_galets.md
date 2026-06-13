@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.4
 ---
 
 The beach below the town is a sweeping arc of round white pebbles — not soft sand, but characterful in its own way and the only practical access to the base of the arches at low tide. Swimmers stoically ignore the discomfort; bring beach shoes if you intend to spend more than half an hour on the stones.

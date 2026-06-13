@@ -8,6 +8,7 @@ latitude: 57.3028
 longitude: -6.3561
 story: >
   Talisker has been producing whisky on Skye since 1830 — but its early years were troubled. Local minister Roderick MacLeod denounced it as a "manufactory of vice" and agitated against it relentlessly for years. The distillery survived his campaign and went on to become one of Scotland's most celebrated single malts. Robert Louis Stevenson called Talisker "king of drinks" in a 1880 poem, giving it an endorsement that still appears in the distillery's marketing today.
+score: 8.8
 ---
 
 The only distillery on Skye and one of the great names in Scottish single malt whisky. Talisker produces a robustly peaty, maritime spirit with a distinctive briny warmth and a long peppery finish — often described as tasting of the sea, smoke, and heather. The distillery has been here since 1830, on the shore of Loch Harport with the Black Cuillin mountains directly above.

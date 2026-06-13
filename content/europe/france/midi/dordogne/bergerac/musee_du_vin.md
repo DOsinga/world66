@@ -7,6 +7,7 @@ tags:
 latitude: 44.8508
 longitude: 0.4828
 snippet: "Three-in-one museum on wine, river trade, and barrel-making"
+score: 7.3
 ---
 
 This unusual three-part museum, on the Place de la Myrpe, occupies a pair of half-timbered houses and tells the story of the three trades that made Bergerac wealthy from the Middle Ages onwards: wine production, the river transport that carried it down the Dordogne to Bordeaux, and the coopers who built the casks. The displays are small in scale but well done, with scale models of the flat-bottomed *gabarres* that worked the river, sets of cooper's tools, and a room on the vineyards of the Bergeracois.

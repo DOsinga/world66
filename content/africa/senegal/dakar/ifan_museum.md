@@ -7,6 +7,7 @@ tags:
 - museum
 title: IFAN Museum of African Arts
 type: poi
+score: 8.8
 ---
 
 Also called the Musée Théodore Monod, on Place Soweto next to the Assemblée Nationale. One of the oldest art museums in West Africa, with an outstanding collection of masks, sculpture, textiles and musical instruments from across the region — Dogon, Baga, Senufo and more. Small, manageable, and genuinely worth a couple of hours.

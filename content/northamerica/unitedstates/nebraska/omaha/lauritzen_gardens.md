@@ -10,6 +10,7 @@ address: "100 Bancroft St., Omaha, NE 68108"
 url: "www.lauritzengardens.org"
 latitude: 41.2385
 longitude: -95.9241
+score: 7.0
 ---
 
 Omaha's botanical garden occupies a 100-acre site on a bluff above the Missouri River, a few kilometres south of downtown. The garden includes a rose garden, a children's garden, a Victorian conservatory, and extensive perennial borders. The setting along the bluffs is particularly good in spring and autumn. The Garden Train Show in January and February fills the conservatory with model trains running through miniature landscapes of famous American landmarks.

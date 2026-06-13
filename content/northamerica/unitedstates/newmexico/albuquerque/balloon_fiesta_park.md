@@ -15,6 +15,7 @@ story: >
   altitudes blow in opposite directions, allowing balloon pilots to go out and come back to
   nearly the same spot. Once pilots discovered this, the Balloon Fiesta grew from a small
   event in 1972 to the planet's largest aviation event.
+score: 7.3
 ---
 
 The Anderson Abruzzo Albuquerque International Balloon Museum is named after the balloonists Ben Abruzzo, Maxie Anderson, and Larry Newman, who made the first transatlantic balloon crossing in 1978 departing from Albuquerque. The museum sits on the edge of Balloon Fiesta Park, where the October festival takes over the city for two weeks and fills the sky with hundreds of balloons at dawn.

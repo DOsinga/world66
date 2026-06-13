@@ -15,6 +15,7 @@ story: >
   peak enrolment the school taught over 1,000 students. Within a generation of
   its construction, silver prices collapsed and the student population fell
   to a few dozen.
+score: 8.3
 ---
 
 The Fourth Ward School is one of the finest surviving examples of Victorian public school architecture in the American West. Built in 1876 in Second Empire style, the four-storey wooden building dominates the south end of Virginia City's main street. It now operates as a museum documenting both the school's history and the broader story of the Comstock Lode.

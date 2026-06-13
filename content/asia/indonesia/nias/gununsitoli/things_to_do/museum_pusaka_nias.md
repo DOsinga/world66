@@ -8,6 +8,7 @@ latitude: 1.2897
 longitude: 97.6180
 sources:
   - https://en.wikipedia.org/wiki/Nias_Island
+score: 8.8
 ---
 
 The Museum Pusaka Nias is the most important stop in Gunungsitoli and one of the best ethnographic museums in all of Sumatra. The collection spans more than 6,000 objects related to Nias cultural heritage: ancestral statues (adu zatua), traditional weapons, jewellery, megalithic stone carvings, and documents from the Dutch colonial period. The wooden ancestor figures range from palm-sized household pieces to towering ceremonial statues over two metres tall, each carved when a family elder died to house their spirit.

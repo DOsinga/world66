@@ -7,6 +7,7 @@ longitude: -117.1818
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 Caprice Café on State Street is the downtown standby — a brick-walled bistro with a French-leaning California menu: salads, sandwiches, fish, a short steak section, a wine list that is short but well-chosen. The dining room is small and the outdoor patio out front catches the evening light.

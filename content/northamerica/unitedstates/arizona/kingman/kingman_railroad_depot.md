@@ -9,6 +9,7 @@ latitude: 35.1882
 longitude: -114.0526
 sources:
   - https://en.wikipedia.org/wiki/Kingman_station
+score: 7.1
 ---
 
 The Kingman Railroad Depot is a handsome 1907 Mission Revival structure that still functions as an Amtrak station — one of the most attractive small-town train stations still operating in the American Southwest. The Santa Fe Railway built the depot when Kingman was a key division point on the transcontinental line, and the building's red-tile roof and arched loggia have survived intact.

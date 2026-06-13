@@ -7,6 +7,7 @@ tags:
 latitude: 21.0396
 longitude: 105.8323
 snippet: "The simple wooden house where Vietnam's president chose to live instead of the Presidential Palace"
+score: 7.4
 ---
 
 When the Viet Minh took control of Hanoi in 1954, Ho Chi Minh declined to move into the grand French Governor-General's Palace — now the Presidential Palace — that stood on the grounds of the Ba Dinh compound. Instead, in 1958, he had a simple wooden stilt house built for himself in the garden, modeled on the traditional houses of the northern Vietnamese highland minorities. He lived and worked here until his death in 1969, conducting meetings under the house and sleeping in a small bedroom upstairs. The deliberate simplicity was a political statement and a personal preference; accounts from people who knew him suggest it was entirely genuine.

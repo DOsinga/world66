@@ -11,6 +11,7 @@ story: >
   Dzūkija is known throughout Lithuania for its mushroom culture. The people of this region are called "Dzūkai" and are associated with a distinctive dialect of Lithuanian and a particular relationship with the forest. Mushroom and berry gathering here is not a hobby but a cultural practice — in season, families drive out to the forest with baskets and spend the whole day. The variety of edible species is considerable, and locals guard their best spots fiercely.
 sources:
   - https://en.wikipedia.org/wiki/Dz%C5%ABkija_National_Park
+score: 8.4
 ---
 
 Dzūkija National Park, Lithuania's largest, lies immediately south and east of Druskininkai and is one of the most accessible forest experiences in the country. The park covers nearly 600 square kilometres of pine and mixed forest, river valleys, and small traditional villages where the old wooden farmstead architecture survives largely intact.

@@ -8,6 +8,7 @@ latitude: 39.6783
 longitude: 15.8220
 story: >
   The academy was founded in 1996 by journalist Enzo Monaco to defend Calabria's chili-pepper tradition against what he called the bland tyranny of northern Italian cuisine. It now claims thousands of members worldwide and gives out an annual prize for the best chili-based dish.
+score: 6.6
 ---
 
 The Accademia Italiana del Peperoncino has its headquarters in Diamante and is the organisation behind the September Festival del Peperoncino — five days of cooking competitions, tastings, lectures, and street food that fill the town with the smell of frying chili. Outside the festival you can usually visit the academy's small museum-shop in the old town and pick up local products: chili-infused oils, salami, honey, even chocolate.

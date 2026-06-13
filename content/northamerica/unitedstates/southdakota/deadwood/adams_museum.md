@@ -6,6 +6,7 @@ longitude: -103.729444
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 The Adams Museum, opened in 1930 and the oldest history museum in the Black Hills, is the best single introduction to Deadwood's gold-rush past. Three floors of exhibits cover the original 1876 stampede, the lives of Hickok and Calamity Jane, the Chinese community that once made up a quarter of the town, and the engineering of the Homestake Mine.

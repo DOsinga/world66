@@ -14,6 +14,7 @@ story: >
   spot a protected royal estate. Logging has been banned for nearly 150 years,
   which is why the trees here are so tall: the largest beeches and firs are
   over 50 metres high and several centuries old.
+score: 9.2
 ---
 
 Biogradska Gora — "Biograd's Forest" — is the centrepiece of the western Bjelasica massif and one of the few stretches of virgin primeval forest left in Europe. The park covers 54 square kilometres of forest, lakes and peaks, with the small glacial **Lake Biogradsko** at its heart. The trees are old and tall — some beeches and firs over 500 years old and over 40 metres high — and the floor is a tangle of moss, fallen trunks, and wildflowers.

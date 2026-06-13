@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Lanciano Cathedral
 type: poi
+score: 7.9
 ---
 
 Lanciano Cathedral, the Basilica Cattedrale della Madonna del Ponte, is the main church of the city and one of its most distinctive buildings. Its position over the old bridge gives it a slightly unexpected setting, part civic landmark and part religious centre.

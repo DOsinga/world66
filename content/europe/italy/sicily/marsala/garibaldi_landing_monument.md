@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Quay-side monument to the Thousand's 1860 landing"
 story: "Garibaldi chose Marsala for the landing because two Royal Navy ships were anchored in the harbour and the Bourbon navy was reluctant to fire on the volunteers for fear of hitting British vessels. The trick worked; the Thousand walked ashore essentially unopposed and the Bourbon kingdom of the Two Sicilies began its collapse."
+score: 5.5
 ---
 
 A modest bronze and stone monument on the old harbour marks the spot where Garibaldi and his Thousand stepped ashore on 11 May 1860. The figure of Garibaldi looks inland — the direction the campaign immediately took — and the inscription names the volunteers who fell in the first skirmishes outside the town.

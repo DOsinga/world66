@@ -7,6 +7,7 @@ tags:
 latitude: 53.7985
 longitude: 21.578
 snippet: Well-marked cycling network through forests and lakesides
+score: 7.1
 ---
 
 A network of marked cycling trails connects Mikołajki to the surrounding lakes and villages, passing through the Pisz Forest and along quiet lake-shore tracks. The most popular loop runs south along Lake Mikołajskie, then west through forest to the edge of Lake Śniardwy, Poland's largest lake, before looping back — about 40 kilometres of flat terrain through mixed pine and birch forest.

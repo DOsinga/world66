@@ -12,6 +12,7 @@ story: >
   Ha Ling Peak was originally called "Chinaman's Peak" after Ha Ling, a Chinese cook who in 1896 accepted a bet that
   he couldn't summit and return to Canmore within ten hours. He did it in under six. The name was changed to Ha Ling Peak
   in 1997 in his honour, reclaiming the accomplishment from an era when his name was obscured by a racial epithet.
+score: 8.6
 ---
 
 Ha Ling Peak is the most accessible serious hike from Canmore: a 6-kilometre round trip that gains about 700 metres to a summit at 2,408 metres, with sweeping views over the Bow Valley, the Three Sisters, and Mount Rundle. The trail starts from the parking lot at the south end of town off Spray Lakes Road, and most fit hikers complete it in three to four hours.

@@ -2,6 +2,7 @@
 title: "Fantastic Caverns"
 type: poi
 tags: [things_to_do]
+score: 8.3
 ---
 
 Fantastic Caverns, about 10 miles north of downtown Springfield, claims a distinction unique among American show caves: it is the only cave in the country where visitors take a fully ride-through tour, seated in Jeep-drawn tram cars rather than walking. The cave was discovered in 1862 when a local farmer's dog chased a rabbit into a sinkhole opening. A group of women from Springfield explored it the following year — their names are still scratched in the cave walls. The cavern was eventually developed as a tourist attraction, and the tram system was introduced in the 1970s to minimize impact on the delicate formations.

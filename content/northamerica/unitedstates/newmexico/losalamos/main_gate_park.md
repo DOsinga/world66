@@ -14,6 +14,7 @@ tags:
   - sight
 title: Main Gate Park
 type: poi
+score: 5.8
 ---
 
 Main Gate Park stands at the original entrance to the secret Manhattan Project site, and its small building is a reconstruction of the guard gatehouse through which every resident had to pass. During the Project years, the gate separated the classified community from the outside world: incoming visitors were scrutinised, outgoing mail was read, and the entire site was fenced and guarded.

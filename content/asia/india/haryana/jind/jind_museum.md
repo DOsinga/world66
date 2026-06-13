@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 29.3170
 longitude: 76.3200
+score: 6.6
 ---
 
 The Jind Museum, housed in a building near the town centre, holds a modest collection of artefacts from the district and the surrounding region. Stone sculptures recovered from local archaeological sites, weapons and regalia from the Jind princely state era, and coins and manuscripts give a compressed sense of the town's long history.

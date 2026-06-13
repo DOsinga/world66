@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5014
 longitude: 15.0833
+score: 6.5
 ---
 
 Santa Chiara is a small Poor Clares' church and convent on Via Garibaldi, just west of the cathedral. The building is mid-eighteenth century, in restrained baroque, with a simple bell tower and a single domed nave.

@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: -0.9180
 longitude: 36.4500
+score: 7.0
 ---
 
 A few rough scramble routes drop from the rim into the crater itself, a 250-metre descent through loose volcanic scree. There is no official trail and KWS asks that you go only with a licensed guide and a ranger escort — the rocks are loose, the route is hard to find on the way back up, and there are buffalo on the crater floor.

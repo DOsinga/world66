@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 Ceuta's cathedral stands on the site of a mosque that was itself built over an early Christian basilica — a layering that tells the city's history in one address. The current structure is mostly Baroque, rebuilt after earthquake damage in the eighteenth century, with a handsome neoclassical facade facing the Plaza de África. The interior is cool and unhurried, with a notable altarpiece and some fine silverwork in the treasury.

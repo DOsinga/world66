@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 45.7372
 longitude: 7.3210
+score: 5.7
 ---
 
 The streets immediately behind and around the Porta Praetoria hold several small trattorias that serve straightforward Valle d'Aosta cooking without tourist-menu pretensions. The typical menu follows the seasons: in autumn and winter, carbonade — beef braised in red wine with bay and cloves, served over polenta — is the standard main course. In spring the lighter preparations come out: salads of local greens, trout from the valley streams, and lighter pasta with herb sauces.

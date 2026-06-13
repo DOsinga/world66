@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.187222
 longitude: 71.475
+score: 6.2
 ---
 
 The **Bloody Bastion** — *Khooni Burj*, also called the Bloody Tower — is one of the few surviving stretches of the original Multan city wall, on Alang Road between Pak Gate and Delhi Gate. The bastion got its name from the heavy fighting during the British siege of January 1849, when waves of Bombay Native Infantry assaulted this corner of the defences and the ground around it ran with blood for two days.

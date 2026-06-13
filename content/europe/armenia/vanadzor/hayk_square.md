@@ -7,6 +7,7 @@ latitude: 40.8108
 longitude: 44.4847
 story: >
   Until 1991 the square was called Lenin Square, with a Lenin statue at its centre. After independence the statue was removed and the square renamed for Hayk, the mythical great-great-grandson of Noah who, according to Armenian legend, led the first Armenians out of Babylon and founded the nation by killing the giant Bel in battle near Lake Van.
+score: 6.9
 ---
 
 Vanadzor was rebuilt as a planned Soviet industrial city after the 1926 earthquake, and Hayk Square is the result — a wide rectangular plaza framed by neoclassical and Stalinist-era buildings, including the regional administration, the post office, and the Hovhannes Tumanyan State Drama Theatre. The scale feels deliberately oversized for a provincial capital, which is part of the point.

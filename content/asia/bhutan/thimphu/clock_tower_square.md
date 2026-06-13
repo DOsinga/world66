@@ -13,6 +13,7 @@ tags:
 - sight
 title: Clock Tower Square
 type: poi
+score: 3.8
 ---
 
 The central plaza of Thimphu, anchored by a four-faced clock tower decorated in traditional Bhutanese style. The square is the main hub for festivals, public events, and the daily flow of city life. Surrounding streets hold the main shopping areas — local clothing shops, handicraft stalls, and snack vendors. In the evenings, the plaza fills with young Bhutanese socialising, and during the Thimphu Tshechu festival it becomes a performance venue. A good reference point for orientation in the city centre.

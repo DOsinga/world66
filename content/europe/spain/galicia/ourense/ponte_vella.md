@@ -6,6 +6,7 @@ tags:
 title: Ponte Vella
 type: poi
 story: The Roman bridge at Ourense was destroyed by the Suevi in the 5th century, then by the Moors, then by flooding, and rebuilt each time — the current structure dates largely from the 13th century but follows the original Roman alignment. In 1230 Alfonso IX of León granted the city a special charter specifically to fund rebuilding it, because the bridge was so economically vital to the region's trade.
+score: 8.2
 ---
 
 The Ponte Vella (Old Bridge) is one of the oldest and most beautiful bridges in the Iberian Peninsula. Roman in origin, it was rebuilt in medieval times on the same foundations, crossing the Río Miño at its narrowest point below the old city. Its seven arches span 150 metres, and the central arch is high enough to allow boats to pass.

@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 50.7611
 longitude: 15.5453
+score: 8.0
 ---
 
 Pančava is the highest waterfall in the Czech Republic, dropping 148 metres from the edge of the Krkonoše plateau into the Obří důl valley. It is most dramatic in spring when snowmelt sends it into full spate, but even in summer a respectable flow cascades down the rocky face. In winter, the falls partially freeze into a curtain of ice visible from the valley below.

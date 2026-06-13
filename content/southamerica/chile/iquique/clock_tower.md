@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - landmark
+score: 7.4
 ---
 
 Plaza Prat is the heart of Iquique's old town, and its centrepiece is the white wooden Torre Reloj — a slender Moorish-influenced clock tower built in 1877. The tower is one of the most recognisable images of Iquique, and the plaza around it is shaded by mature trees and ringed by handsome nitrate-era buildings.

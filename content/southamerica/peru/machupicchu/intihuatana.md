@@ -9,6 +9,7 @@ tags:
   - history
 snippet: The Inca solar calendar — a carved stone pillar that casts no shadow at midday on the equinox
 story: "Intihuatana means 'hitching post of the sun' in Quechua — the Incas believed that on the winter solstice, the sun came close enough to be symbolically tied to the stone. When Spanish conquistadors conquered the Inca Empire, they systematically destroyed every intihuatana they found, believing them to be instruments of idolatry. Machu Picchu's stone survived only because the Spaniards never found the city."
+score: 8.8
 ---
 
 The Intihuatana is the most sacred object at Machu Picchu — a carved granite pillar rising from a platform near the top of the ceremonial sector, aligned precisely to cast no shadow at noon on the equinox. The Inca used it as both astronomical instrument and ritual focal point: shamans performed ceremonies here during the solstices when the sun appeared to pause in its path.

@@ -7,6 +7,7 @@ tags:
 latitude: 12.0511
 longitude: -61.7497
 address: The Carenage, St. George's
+score: 5.6
 ---
 
 The Nutmeg Pod sits right on the Carenage with a terrace overlooking the inner harbour. It has been a fixture of St. George's for many years and serves reliable local food: fresh snapper, lobster when in season, the ubiquitous oil down, and rum punch that arrives in a proper glass with a decent measure. The view is hard to beat, especially at lunchtime when the harbour is at its most animated.

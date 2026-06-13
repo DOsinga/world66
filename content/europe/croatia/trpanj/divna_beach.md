@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.0
 ---
 
 One of the most beautiful beaches on the Pelješac peninsula — a long curve of white pebbles in a sheltered cove, backed by pine forest, about 6 kilometres west of Trpanj along a winding coastal road. There are no facilities and no buildings; bring whatever you need.

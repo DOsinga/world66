@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7200
 longitude: 111.4800
+score: 5.8
 ---
 
 The Inner Mongolia Film and TV Base, south of Hohhot on the steppe road toward the Wang Zhaojun Mausoleum, is a large outdoor film set that has been used for dozens of Chinese historical dramas set in the steppe, Tang dynasty, or Mongolian empire periods. The facility has been partly opened to tourism, allowing visitors to walk through the costume sets of various historical periods — Mongolian ger encampments, Tang dynasty palace facades, Qing military barracks — while film productions are not in progress.

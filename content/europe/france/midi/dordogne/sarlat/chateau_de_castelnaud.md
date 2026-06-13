@@ -9,6 +9,7 @@ tags:
 latitude: 44.8239
 longitude: 1.1569
 snippet: "Medieval fortress with an outstanding museum of medieval warfare, 10 km from Sarlat"
+score: 8.7
 ---
 
 The Château de Castelnaud sits on a rocky outcrop on the south bank of the Dordogne, about 10 kilometres southwest of Sarlat, and is one of the best-preserved military fortresses in France. The English held it during most of the Hundred Years War, giving it a continuous adversarial relationship with French-held Beynac across the river.

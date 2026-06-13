@@ -10,6 +10,7 @@ tags:
 - market
 title: Baltic Market
 type: poi
+score: 7.4
 ---
 
 Liverpool's original street food hall, opened in 2017 inside the Cain's Brewery Village in the Baltic Triangle. A dozen or so independent food traders share a converted warehouse with communal tables, two bars and a stage for live music and DJs at weekends.

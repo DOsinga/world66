@@ -15,6 +15,7 @@ story: >
   ornithologists assumed it was gone. Then a 2002 expedition into the southern
   forest found it alive, skulking in the undergrowth near the summit of Pico do
   Príncipe. Current estimates put the surviving population at around 250 adults.
+score: 8.8
 ---
 
 Príncipe is a pilgrimage destination for serious birdwatchers. The island has eight species found nowhere else on earth, an extraordinary rate of endemism for a place of only 139 km². The full list of target birds includes the Príncipe thrush, Príncipe sunbird, Príncipe speirops, Príncipe golden weaver, Newton's sunbird, Príncipe white-eye, Dohrn's thrush-babbler, and the Príncipe scops-owl — formally described as a new species as recently as 2022.

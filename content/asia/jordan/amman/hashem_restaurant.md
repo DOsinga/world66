@@ -7,6 +7,7 @@ tags:
   - downtown_al_balad
 latitude: 31.9520
 longitude: 35.9353
+score: 7.8
 ---
 
 Hashem is the most famous cheap eating place in Amman — a street-level institution operating from a doorway in the downtown since 1952, serving ful (fava bean stew), falafel, and hummus around the clock. It is deliberately no-frills: plastic chairs on the pavement, shared tables, tea in metal glasses, and constant turnover. The food is exceptionally good and a full meal costs almost nothing.

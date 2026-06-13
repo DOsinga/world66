@@ -13,6 +13,7 @@ story: >
   Canada and the Illinois Country in the 18th century but nearly all examples have rotted away.
 sources:
   - https://en.wikipedia.org/wiki/Ste._Genevieve_National_Historical_Park
+score: 8.6
 ---
 
 The Beauvais-Amoureux House is one of the rarest architectural survivals in North America: a poteaux-en-terre structure, where vertical logs are set directly into the earth rather than onto a foundation sill. This older French technique — brought from Canada and the Illinois Country — was gradually superseded by poteaux-sur-solle construction as settlers realized the buried posts rotted over time. Most poteaux-en-terre buildings have long since collapsed; this one survived.

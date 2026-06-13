@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The cathedral holds the largest expanse of stained glass in France, spanning eight centuries — from 13th-century medieval panels to 20th-century windows by Marc Chagall, Jacques Villon, and Roger Bissière. Chagall's blue and red windows in the north transept were installed between 1958 and 1968, when he was already in his seventies."
+score: 9.4
 ---
 
 The Cathédrale Saint-Étienne dominates the skyline of Metz with its honey-gold limestone facade and one of the tallest Gothic naves in Europe. Locals call it the "Lantern of God" for the sheer area of its stained glass — over 6,500 square metres — which gives the interior an extraordinary luminous quality on a sunny day. Construction began in 1220 and continued for nearly three centuries.

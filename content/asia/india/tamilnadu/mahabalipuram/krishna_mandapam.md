@@ -8,6 +8,7 @@ tags:
 - sight
 - historic_site
 - monument
+score: 8.2
 ---
 
 Krishna Mandapam is a rock-cut cave temple in the main Mahabalipuram complex, best known for a single large panel depicting Krishna lifting Mount Govardhan above his head to shelter cowherds and their cattle from Indra's storms. The panel shows the god supporting the mountain effortlessly on one finger while villagers crowd beneath it, their faces upturned in wonder.

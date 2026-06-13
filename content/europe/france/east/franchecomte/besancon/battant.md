@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 47.2406
 longitude: 6.0194
+score: 7.1
 ---
 
 The Battant quarter sits across the Pont Battant bridge from the main peninsula of old Besançon, and it has a distinctly different character — livelier, less formal, more residential. It was historically the neighbourhood of wine-growers who cultivated the slopes above the city, and then of weavers and craftspeople. Today it is where most of the city's bars and independent restaurants are concentrated, and the Rue Battant in particular is worth exploring in the evening.

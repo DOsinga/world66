@@ -7,6 +7,7 @@ tags:
 latitude: 49.4160
 longitude: 8.7077
 snippet: Hillside path on the north bank of the Neckar with the classic view of Heidelberg
+score: 8.8
 ---
 
 The Philosophenweg — Philosophers' Walk — runs along the sunny south-facing slope of the Heiligenberg on the north bank of the Neckar, offering the panoramic view of the Altstadt, the Alte Brücke, and the castle that appears on every postcard of the city. The path takes its name from the generations of academics and thinkers who walked it: Hegel taught at Heidelberg from 1816 to 1818, Goethe passed through multiple times, and Mark Twain described it in detail in A Tramp Abroad. The steep path connecting the bridge to the walk is called the Schlangenweg (Serpent Path).

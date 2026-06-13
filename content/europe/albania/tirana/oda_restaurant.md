@@ -8,6 +8,7 @@ tags:
   - restaurant
   - albanian
 neighbourhood: New Bazaar
+score: 6.9
 ---
 
 A small traditional restaurant in two basement rooms a short walk from the New Bazaar, serving the dishes Albanian grandmothers still cook at home: tavë kosi (lamb baked in yogurt), fërgesë (peppers, cottage cheese, and tomato), qofte (grilled meatballs), and homemade raki. Prices are modest; portions are generous.

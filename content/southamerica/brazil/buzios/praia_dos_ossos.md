@@ -8,6 +8,7 @@ latitude: -22.7456
 longitude: -41.8810
 story: >
   The beach's grim name — Bones Beach — comes from a whaling station that operated here in the 18th and 19th centuries, when the bones of processed whales were left to bleach on the shore. The whalers are long gone; the small harbour is now occupied by the most picturesque collection of fishing boats on the peninsula.
+score: 7.0
 ---
 
 Praia dos Ossos is not the best beach for swimming — it is small, and the water around the working harbour can be murky. But it is one of the most photographed spots in Búzios, and for good reason: the little bay with its coloured fishing boats, the tree-lined promontory above it, and the waterfront houses painted in pastels make for a scene that is easy to stare at for a long time.

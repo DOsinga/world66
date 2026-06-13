@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.7
 ---
 
 Parque Hernández is the green heart of Melilla's new town — a pleasant formal garden ringed by Modernista buildings that gives a good sense of the city's prosperity during the early 20th century. The park contains a bandstand and benches under mature trees, and in the evenings it fills with locals taking their paseo. The surrounding streets contain some of the best examples of Enrique Nieto's work in close proximity.

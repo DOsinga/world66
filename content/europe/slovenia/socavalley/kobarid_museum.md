@@ -13,6 +13,7 @@ story: >
   history of a devastating war in a way that was neither triumphalist nor despairing, and
   that it honoured the dead of both sides with equal respect. It remains one of the finest
   small museums in Europe.
+score: 8.9
 ---
 
 The Kobarid Museum is devoted to the Soča Front — the 29-month battle that consumed the upper Isonzo Valley from 1915 to 1917, killing hundreds of thousands. The permanent exhibition covers the geography of the front, the conditions faced by soldiers on both sides, the technical innovations developed here (including some of the first uses of poison gas on the Italian front), and the catastrophic collapse of the Italian lines at the Battle of Caporetto in October 1917.

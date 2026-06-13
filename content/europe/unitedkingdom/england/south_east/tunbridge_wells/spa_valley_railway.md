@@ -6,6 +6,7 @@ longitude: 0.2592
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Spa Valley Railway runs heritage steam and diesel trains over five and a half miles of preserved track between Tunbridge Wells West, High Rocks, Groombridge and Eridge. The line was originally part of the Brighton, Lewes and Tunbridge Wells Railway, closed by Beeching in the 1960s, and reopened by volunteers in 1996.

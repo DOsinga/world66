@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 7.4
 ---
 
 Norway's national museum of popular music, housed in a converted grain silo on the waterfront north of the centre. The exhibition runs decade by decade from the 1950s onwards, telling the story of Norwegian pop, rock, jazz, and electronic music through instruments, photographs, costumes, video, and interactive booths where you can try the gear yourself.

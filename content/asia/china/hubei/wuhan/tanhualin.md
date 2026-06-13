@@ -9,6 +9,7 @@ tags:
   - architecture
   - wuchang
 neighbourhood: Wuchang
+score: 7.8
 ---
 
 Tanhualin is a narrow, hilly old street in Wuchang lined with late-19th-century missionary churches, schools, and consulates, gradually reinvented in the last decade as Wuhan's cafe-and-bookshop neighbourhood. The British, American, and Swedish missionaries who came to Wuchang in the 1890s built solid stone houses here, several of which still stand.

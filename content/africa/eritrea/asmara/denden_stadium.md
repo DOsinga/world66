@@ -6,6 +6,7 @@ longitude: 38.9256
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The main multi-use stadium in Asmara, also known by its older Italian name as the Cicero Stadium, hosts football matches and athletic events. Built during the Italian period and renovated several times since, it holds around 15,000 spectators.

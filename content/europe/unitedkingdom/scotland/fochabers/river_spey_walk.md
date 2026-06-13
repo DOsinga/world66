@@ -15,6 +15,7 @@ story: >
   its five arches reflected in the salmon pools below.
 sources:
   - https://en.wikipedia.org/wiki/Old_Spey_Bridge,_Fochabers
+score: 8.1
 ---
 
 The River Spey runs along the western edge of Fochabers, and the walking here is excellent. The Speyside Way — a long-distance path that follows the river from Aviemore to Buckie — passes through the village, and even a short section of it gives a good sense of the river's character: wide, fast, peat-dark, with deep pools that salmon anglers pay serious money to fish.

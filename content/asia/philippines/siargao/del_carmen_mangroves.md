@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 9.869
 longitude: 125.97
+score: 8.5
 ---
 
 Del Carmen contains one of the largest and most intact mangrove forests in the Philippines, covering over 6,000 hectares in the northwestern part of Siargao. The municipality has protected and replanted its mangroves for decades, and the result is a dense, labyrinthine ecosystem that provides habitat for hundreds of species of birds, fish, crustaceans, and reptiles.

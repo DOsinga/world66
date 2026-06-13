@@ -13,6 +13,7 @@ tags:
 - historic_house
 title: Fort San Lorenzo
 type: poi
+score: 8.8
 ---
 
 Fort San Lorenzo guards the mouth of the Chagres River from a headland about 30 kilometres west of Colón. The Spanish built the first fort here in 1597 to protect the Camino Real trade route from the Pacific; what remains today — cannon batteries, moats, dry ditches, and bastions cut into the cliff — dates largely from an 18th-century rebuild after English buccaneer Henry Morgan destroyed the original in 1671. The site is a UNESCO World Heritage property and one of the best-preserved pieces of Spanish colonial military engineering in the Americas. The setting alone justifies the drive: the fort overlooks dense jungle on three sides and the Caribbean below. Getting here requires a car; the road passes through the former Canal Zone and into the protected San Lorenzo forest reserve.

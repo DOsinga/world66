@@ -6,6 +6,7 @@ tags:
 - bar
 latitude: 37.9375
 longitude: -107.8115
+score: 7.6
 ---
 
 The bar of the New Sheridan Hotel on Colorado Avenue has been serving drinks since 1895. The original bar and back bar have survived intact, a long sweep of carved wood and glasswork that gives the room its character. William Jennings Bryan gave a campaign speech here. Whether that is an endorsement or a caution is a matter of political opinion.

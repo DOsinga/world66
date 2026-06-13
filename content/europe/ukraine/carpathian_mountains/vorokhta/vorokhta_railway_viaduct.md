@@ -17,6 +17,7 @@ title: Vorokhta Railway Viaduct
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Vorokhta_railway_station
+score: 7.6
 ---
 
 The railway viaduct at Vorokhta is one of the most photographed structures in the Ukrainian Carpathians. Built in the Austro-Hungarian era from local stone, the multi-arched bridge carries the narrow-gauge-feeling mountain railway over the Prut River gorge just outside the town centre. It sits elegantly in the wooded valley, and the best views are from the riverbank below — a short walk from the station.

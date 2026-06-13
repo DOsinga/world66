@@ -14,6 +14,7 @@ story: >
   of commercial use and was repurposed as a cultural space. Today it hosts weekend craft fairs,
   live music, and a small permanent exhibition on the history of the neighborhood. The iron
   structure itself — high, airy, and painted dark green — is worth seeing.
+score: 6.2
 ---
 
 The market sits in the São Brás neighborhood, about 2 km east of the waterfront. It is less visited than the Cidade Velha sights, which means you will likely have the building largely to yourself on weekdays.

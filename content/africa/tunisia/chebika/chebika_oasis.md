@@ -8,6 +8,7 @@ latitude: 34.2167
 longitude: 7.9667
 story: >
   The Chebika oasis sits at the foot of the Djebel en Negueb, and its springs have supported human settlement here for thousands of years. The Romans knew the place as Ad Speculum — "at the mirror" — perhaps a reference to the reflective quality of the spring-fed pool, or to the way the oasis acts as a signal mirror of life against the surrounding desert.
+score: 8.7
 ---
 
 The Chebika oasis is a small but vivid splash of green against the rust-coloured cliffs of the Djebel en Negueb range. Springs push up through ancient rock and feed a narrow gorge filled with date palms, oleanders, and rushes before the water disappears back into the desert floor. The effect — the sound of running water, the shade, the sudden green after miles of bare desert — is striking.

@@ -9,6 +9,7 @@ tags:
 - el_centro
 title: Iglesia de la Vera Cruz
 type: poi
+score: 6.8
 ---
 
 The oldest church standing in central Medellin, built in 1791 in late-colonial whitewashed style with a single bell tower and a long, low painted interior. Run from the early years by a brotherhood of the Holy Cross — it gave shelter to executed prisoners' bodies and to indigenous slaves brought up the Cauca valley.

@@ -11,6 +11,7 @@ tags:
 - downtown
 story: >
   The building hosted one of the 1950 Kefauver Committee hearings on organised crime — the museum now occupies that exact courtroom on the second floor, restored to its original 1950 appearance.
+score: 8.9
 ---
 
 Officially called the National Museum of Organized Crime and Law Enforcement, the Mob Museum is housed in the 1933 former federal courthouse — itself a piece of the story it tells, since one of the famous Kefauver hearings on organised crime took place in this very building. Three floors trace organised crime from Prohibition through modern transnational cartels, with strong emphasis on the mob's role in building Las Vegas.

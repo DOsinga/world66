@@ -14,6 +14,7 @@ story: >
   of them to Auschwitz. Fewer than 160 survived. Today only a handful of Jewish
   families remain in Rhodes, but the synagogue is maintained and serves as a
   memorial to the community that once filled the quarter around it.
+score: 7.8
 ---
 
 The Kahal Shalom Synagogue in the Juderia (the old Jewish quarter) is the oldest synagogue in Greece and one of the oldest in Europe, founded in 1577. The building has been in continuous use ever since, though today it functions primarily as a memorial and heritage site. The interior preserves its original Sephardic layout with a central bimah and women's gallery above, and the blue and white tiles are original.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - market
+score: 6.2
 ---
 
 The Halle Saint-Thibault is Epernay's 19th-century iron-and-glass covered market, a smaller cousin of the great Parisian halles of the same era. The structure was built in 1890 and still functions as a market on Tuesday and Saturday mornings, when stallholders from the surrounding villages set up with cheeses, charcuterie, vegetables and fresh fish.

@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 story: "Built in 1905 from white marble and Carrara stone, Shubra Palace served as a summer residence for King Abdulaziz and later as a private retreat for King Faisal — who reputedly preferred sleeping on its open verandahs to any of its bedrooms."
+score: 8.4
 ---
 
 Shubra Palace is the most distinctive building in Ta'if — a four-storey mansion of white marble, with wooden balconies (mashrabiya) running across each facade and a green-shuttered façade that looks more Levantine than Hejazi. The owner, a wealthy local trader, imported the marble from Italy in the early twentieth century and the workmanship from craftsmen who had worked on similar projects in Damascus.

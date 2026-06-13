@@ -10,6 +10,7 @@ tags:
 snippet: Ancient cave amid dramatic granite boulders on the city's outskirts
 sources:
   - https://en.wikipedia.org/wiki/Kurnool
+score: 6.8
 ---
 
 On the southeastern edge of Kurnool, the Orvakal Rock Gardens occupy a landscape of weathered granite outcrops and balancing boulders that have been shaped over millennia by wind and water into peculiar formations. An ancient cave in the complex adds a historical dimension to what is primarily a scenic attraction.

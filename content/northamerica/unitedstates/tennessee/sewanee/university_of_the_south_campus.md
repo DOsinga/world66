@@ -10,6 +10,7 @@ latitude: 35.2031
 longitude: -85.9197
 sources:
   - https://en.wikipedia.org/wiki/Sewanee:_The_University_of_the_South
+score: 9.0
 ---
 
 The University of the South — universally known simply as Sewanee — is a private Episcopal liberal arts college founded in 1857, though the Civil War interrupted construction and the university didn't formally open until 1868. The campus is one of the more distinctive in the United States: a cluster of Gothic Revival stone buildings set on a forested plateau, with the surrounding 13,000-acre Domain acting as a permanent green buffer against development.

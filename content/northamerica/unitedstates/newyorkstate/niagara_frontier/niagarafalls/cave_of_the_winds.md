@@ -8,6 +8,7 @@ latitude: 43.0834
 longitude: -79.0710
 sources:
   - https://en.wikipedia.org/wiki/Cave_of_the_Winds
+score: 9.2
 ---
 
 Cave of the Winds is a boardwalk attraction on Goat Island that takes you to the base of the Bridal Veil Falls via a series of wooden walkways built into the gorge wall. The name comes from a cave that existed here until 1920, when a large section of the cliff face above it collapsed and was deemed too dangerous to keep open. The boardwalks were rebuilt in its place and extended to bring visitors within metres of the falling water.

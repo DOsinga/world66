@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 50.2275
 longitude: 12.8775
+score: 8.5
 ---
 
 The centrepiece of Karlovy Vary's spa zone, the Hot Spring Colonnade houses the most dramatic of the town's springs: the Vřídlo, which shoots a jet of water 12 metres into the air at 73°C. The glass pavilion that encloses it was built in 1975, replacing an earlier Victorian structure, and is not particularly elegant — but it puts you close enough to the geyser to feel the heat and see the mineral deposits building up around the vent.

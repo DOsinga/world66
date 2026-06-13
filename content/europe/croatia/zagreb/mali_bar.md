@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - gornji_grad
+score: 6.5
 ---
 
 A small, perpetually-booked room on Vlaška, Mali Bar belongs to the well-known Zagreb chef Ana Ugarković and her partner. The menu is short, changes often, and runs to small plates designed to share — tuna tartare with capers, slow-cooked beef cheek, gnocchi with truffle. Croatian ingredients, technique that draws on Italian and Spanish small-plate traditions.

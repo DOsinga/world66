@@ -8,6 +8,7 @@ latitude: 39.6935
 longitude: 141.1249
 sources:
   - https://en.wikipedia.org/wiki/Iwate_Museum_of_Art
+score: 6.7
 ---
 
 The Iwate Museum of Art (Iwate Kenritsu Bijutsukan) opened in 2001 on the western outskirts of Morioka, in a purpose-built building set in parkland above the Shizukuishi River valley. The collection focuses on artists connected to Iwate Prefecture, with particular strength in Western-style oil painting from the late 19th and early 20th centuries.

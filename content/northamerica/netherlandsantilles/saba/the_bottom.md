@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 17.62611111111111
 longitude: -63.24916666666667
 story: The Bottom sits in a volcanic crater — the "bottom" in question is an anglicization of the Dutch word "botte," meaning bowl, not an indication of elevation. It is, in fact, at about 250 metres above sea level. The Sacred Heart Church here, built in 1962 with stone quarried from the island, is the island's main Catholic church and one of the more handsome buildings on Saba.
+score: 6.5
 ---
 
 The Bottom is Saba's capital and largest town, though "largest" is relative on an island of 2,000 people. The government buildings, courthouse, police station, and the island's main hospital are all here, along with the Sacred Heart Church and a smattering of local shops and eateries that cater more to residents than to tourists.

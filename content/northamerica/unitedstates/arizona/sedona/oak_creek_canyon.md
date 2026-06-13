@@ -9,6 +9,7 @@ latitude: 34.9800
 longitude: -111.7500
 story: >
   The Slide Rock State Park swimming hole in Oak Creek Canyon was once a working apple farm. The sloping sandstone channel that acts as a natural water slide was formed by Oak Creek over millennia. The apple trees planted by Frank Pendley in 1907 still produce, and visitors can pick apples in season — an incongruously bucolic experience at the bottom of a desert canyon.
+score: 9.0
 ---
 
 Oak Creek Canyon cuts north from Sedona through increasingly dramatic red and white rock walls to the Mogollon Rim, about 15 miles of Highway 89A bordered by the Coconino National Forest. In autumn, the cottonwoods along the creek turn gold against the red walls, creating one of the most striking colour combinations in American landscape. The canyon is also noticeably cooler than Sedona itself, which makes it attractive in summer.

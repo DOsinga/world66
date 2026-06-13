@@ -10,6 +10,7 @@ tags:
 - bar
 title: Caffè Sant'Eustachio
 type: poi
+score: 7.6
 ---
 
 Sant'Eustachio is the most famous coffee bar in Rome — a point of pilgrimage for the coffee-serious and a subject of perpetual local debate (Tazza d'Oro partisans insist their espresso is superior). The house specialty is the gran caffè: espresso pre-sweetened and vigorously whipped with sugar before the rest of the coffee is added, producing a frothy, sweet, intense preparation unlike anything in a standard espresso.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9238
 longitude: 73.6395
+score: 6.9
 ---
 
 Kate's Point is one of the most-visited viewpoints on the western rim of the Mahabaleshwar plateau, looking down over the Dhom Dam reservoir and the Wenna valley with the Sahyadri ranges rising beyond. The viewpoint is accessible by car and has facilities (stalls, basic toilets), making it one of the more crowded stops on the standard plateau circuit.

@@ -16,6 +16,7 @@ story: >
   instead to the study of Chinese costume and silk, in which he became
   a world authority. He is buried on a hillside outside Fenghuang, under
   a rough stone inscribed with his own words.
+score: 8.2
 ---
 
 Shen Congwen's former residence in the old town is a traditional Qing dynasty courtyard house where the writer was born in 1902 and spent his early childhood. The house contains original furniture, family photographs, manuscript reproductions, and a small museum documenting Shen's life and work. The rooms are modest by any standard — a working-family dwelling of the Miao and Han borderland — and the modesty suits the writer, whose fiction consistently found beauty and tragedy in ordinary lives.

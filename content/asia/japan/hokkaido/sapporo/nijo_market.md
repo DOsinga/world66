@@ -7,6 +7,7 @@ tags:
 latitude: 43.0619
 longitude: 141.3594
 snippet: Fresh seafood market a short walk from Odori Park
+score: 7.3
 ---
 
 Nijo Market has been selling Hokkaido seafood since 1903, occupying two covered lanes in the centre of the city between Odori Park and the Sapporo TV Tower. The fishmongers sell crab, sea urchin, salmon roe, scallops, and Pacific saury from the cold waters around Hokkaido, and the quality is noticeably higher than comparable markets in warmer parts of Japan. The cold-water fisheries around Hokkaido produce shellfish and sea urchin that are difficult to match. Several market restaurants serve kaisendon — rice bowls loaded with fresh seafood — at prices that are fair given what you're getting.

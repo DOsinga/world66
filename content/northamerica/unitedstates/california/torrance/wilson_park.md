@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8330
 longitude: -118.3253
+score: 5.6
 ---
 
 Charles H. Wilson Park is Torrance's largest public park — 45 acres of lawns, mature trees, and recreation facilities at the centre of the city, bordered by Crenshaw, Jefferson, and the Pacific Coast Highway. There are tennis courts, a model train circuit run by the South Bay Live Steamers (operating most Sundays), batting cages, a community garden, and a long, flat walking and running loop.

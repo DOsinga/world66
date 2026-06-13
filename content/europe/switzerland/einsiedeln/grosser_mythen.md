@@ -8,6 +8,7 @@ tags:
 latitude: 47.02972
 longitude: 8.70361
 snippet: "Iconic pre-Alpine summit with views from the Rhine to the high Alps"
+score: 8.0
 ---
 
 The Grosser Mythen (1,898m) is the most recognisable peak above Schwyz — a sharp limestone wedge that looks almost implausible from a distance. The standard ascent starts from Holzegg, reached by cable car from Brunni above Schwyz, and takes about an hour and a half up a well-marked trail with some mild scrambling near the top. From the summit restaurant, on a clear day you can see everything from the Rhine plain to the Bernese Oberland.

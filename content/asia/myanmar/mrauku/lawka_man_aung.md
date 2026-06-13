@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 20.5978
 longitude: 93.1914
 snippet: "Octagonal 17th-century stupa next to Htukkanthein"
+score: 7.0
 ---
 
 A short walk from Htukkanthein, the Lawka Man Aung pagoda is an octagonal stone stupa from the early 17th century, built by King Thiri Thu Dhamma. Its terraced base carries small stupas at each corner and the central tower is divided into bands of recessed niches, a distinctive Rakhine architectural feature.

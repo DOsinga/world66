@@ -6,6 +6,7 @@ tags:
 - sight
 title: Aiguilles
 type: poi
+score: 6.5
 ---
 
 Aiguilles is the largest village in the central Queyras and the de facto capital of the valley, with a permanent population of around 400 swelling several times over in summer. It sits at the broadest stretch of the Guil valley, where the river widens enough to allow a small grid of streets.

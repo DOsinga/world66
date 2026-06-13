@@ -1,6 +1,7 @@
 ---
 title: Ceviche and seafood
 type: poi
+score: 7.7
 ---
 
 Panama's position between two oceans and with coastline on both means seafood is a constant and generally excellent. The Pacific brings corvina, red snapper, and shellfish; the Caribbean brings lobster and coconut-based preparations. Ceviche is the defining street food: **corvina** (white sea bass) cut into small pieces and dressed with lime juice, thinly sliced white onion, and ají chombo — a Panamanian Scotch bonnet variety that adds real heat. It is served cold, eaten with saltines, and found everywhere from street stalls to fine restaurants.

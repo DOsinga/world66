@@ -7,6 +7,7 @@ tags:
 latitude: 49.4115
 longitude: 8.7055
 snippet: Historic student tavern on Hauptstrasse, serving Palatinate cuisine since 1703
+score: 7.2
 ---
 
 Zum Roten Ochsen — the Red Ox Inn — is the most famous of Heidelberg's old student taverns, and has been in continuous operation since 1703. For much of the 19th and early 20th centuries it was the gathering place of the university's duelling fraternities, and the walls are still covered with their painted crests, old photographs, pipes, and the accumulated detritus of three centuries of student life. Mark Twain visited, Bismarck drank here, and visiting dignitaries have made a point of stopping in; the guestbook is a remarkable document. The atmosphere is theatrical in the best sense — the room itself is the point.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 Bank Street Unitarian Chapel is a Grade II* listed building on Bank Street in Bolton town centre, dating from 1696 with significant later alterations. The building is a rare surviving example of nonconformist architecture from the early eighteenth century — most such chapels of this period were demolished, rebuilt, or substantially altered beyond recognition. Bank Street retains much of its original character: a plain exterior of red brick, simple round-headed windows, and an interior with a galleried arrangement and box pews that reflects the Unitarian tradition's emphasis on austerity and the direct relationship between congregation and minister.

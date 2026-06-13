@@ -7,6 +7,7 @@ tags:
 - sight
 title: Montesilvano Beach
 type: poi
+score: 6.5
 ---
 
 Montesilvano Beach is a broad, sandy stretch of the Adriatic just north of Pescara. The water is shallow, the sand is easy underfoot, and the resort infrastructure is straightforward: umbrellas, loungers, bars, showers, and family-friendly summer routines.

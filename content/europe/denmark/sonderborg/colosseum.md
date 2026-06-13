@@ -6,6 +6,7 @@ longitude: 9.7880
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Colosseum cinema, in a curving art-deco building on Perlegade, is one of the prettier small-town cinemas in Denmark. It has been showing films continuously since 1937 and still has a single old auditorium with proper red seats, plus several modern smaller screens.

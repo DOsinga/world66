@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.2371
 longitude: -13.5199
+score: 8.1
 ---
 
 Playa Francesa is the most accessible of La Graciosa's beaches from Caleta de Sebo — about 30 minutes on foot or 10 minutes by bicycle heading west along the sand track. The beach faces south and is sheltered from the main Atlantic swell, making it calmer and safer for swimming than Playa de las Conchas. The sand is fine and golden, and the beach is backed by low volcanic scrub.

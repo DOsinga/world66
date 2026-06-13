@@ -9,6 +9,7 @@ tags:
   - architecture
   - puerta_de_tierra
 neighbourhood: Puerta de Tierra
+score: 6.3
 ---
 
 The Capitol of Puerto Rico is a domed neoclassical building on the Atlantic side of Puerta de Tierra, just outside the old city walls. It was finished in 1929 in white Georgia marble and modelled, loosely, on the US Capitol in Washington. The rotunda holds mosaic murals of major moments in Puerto Rican history and the original 1952 constitution of the Commonwealth is on permanent display in a glass case.

@@ -9,6 +9,7 @@ latitude: 29.4252
 longitude: -98.4916
 story: >
   The River Walk exists partly because of a flood. In 1921, a catastrophic flood killed 50 people downtown. The subsequent debate about whether to pave over the San Antonio River or preserve it was settled by a young architect named Robert Hugman, who proposed instead a European-style network of winding paths, shops, and restaurants one level below street level. His plan was adopted in 1939, funded partly by New Deal public works money.
+score: 9.2
 ---
 
 San Antonio's famous network of walkways along the San Antonio River, one storey below street level and stretching for fifteen miles through the city. Lined with restaurants, bars, hotels, and shops, it is the city's main tourist artery — crowded in summer but undeniably pleasant in the evenings when the lights reflect off the water and river taxis chug past.

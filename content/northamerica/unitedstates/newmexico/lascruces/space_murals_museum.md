@@ -13,6 +13,7 @@ story: >
   minutes to walk the full circumference. It is one of the odder monuments
   to American space history, and entirely unexpected in the middle of the
   Chihuahuan Desert.
+score: 6.0
 ---
 
 The Space Murals Museum is a peculiar and delightful piece of southern New Mexico roadside culture. A large water tank on the north side of Las Cruces has been painted with a panoramic mural depicting the history of the US Space Shuttle program, and the adjacent small museum celebrates the space heritage of New Mexico — which is considerable, given that White Sands Missile Range is next door and the first atomic bomb was tested at Trinity Site, not far to the north.

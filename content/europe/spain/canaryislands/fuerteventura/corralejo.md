@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.7260
 longitude: -13.8700
+score: 7.4
 ---
 
 Corralejo is the main resort town in the north of Fuerteventura and the most lively part of the island — which is relative, since Fuerteventura is not a lively island by nature. It has a working fishing harbour where the morning catch still comes in and decent fish restaurants line the old port, which sits alongside the tourist restaurants and bars of the newer development. From Corralejo you can take the 25-minute ferry to Lanzarote or a small boat to the uninhabited volcanic islet of Lobos.

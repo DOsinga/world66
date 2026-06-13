@@ -12,6 +12,7 @@ story: >
   The Olympic Stadium was supposed to be finished in time for the 1976 Games. It wasn't. Workers were still laying turf on opening day, and the retractable roof — the defining feature of architect Roger Taillibert's design — did not actually work until 1988. The total cost ballooned to over CAD 1.6 billion, and Montrealers paid off the debt until 2006, thirty years after the torch was lit. Locals call it "The Big O," though critics have long preferred "The Big Owe."
 sources:
   - https://en.wikipedia.org/wiki/Olympic_Stadium_(Montreal)
+score: 6.6
 ---
 
 The Olympic Stadium is one of the most recognizable buildings in Canada — and one of the most controversial. Designed by French architect Roger Taillibert for the 1976 Summer Games, its curving concrete form and 175-metre inclined tower are unmistakable on the east-end skyline. The stadium seats 56,000 and has hosted baseball (the Expos, until 2004), football, concerts, and trade shows, though it has never quite found a permanent raison d'être since losing its baseball team.

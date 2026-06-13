@@ -10,6 +10,7 @@ longitude: -5.9638
 story: "Vejer's frontier surname was not decorative. The town belonged to a contested border zone for centuries, and its gates controlled movement between the defended hilltop and the open countryside below."
 sources:
   - https://en.wikipedia.org/wiki/Vejer_de_la_Frontera
+score: 7.9
 ---
 
 Vejer's old walls and gates give the town its tight, defensive shape. Arches such as the Puerta de la Villa and Puerta de Sancho IV are not just pretty entries; they are reminders that the whitewashed lanes once sat inside a fortified enclosure.

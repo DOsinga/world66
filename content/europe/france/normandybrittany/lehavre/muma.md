@@ -14,6 +14,7 @@ tags:
 - museum
 title: MuMa — Musée d'Art Moderne André Malraux
 type: poi
+score: 8.9
 ---
 
 The Musée d'Art Moderne André Malraux sits on the waterfront in a landmark 1961 building of steel and glass, capped by a rotating aluminium lantern called "La Vigie" (the Lookout). The collection is the second-largest impressionist holding in France after the Musée d'Orsay in Paris, with exceptional works by Eugène Boudin, Claude Monet, Raoul Dufy (a Le Havre native), and Pierre-Auguste Renoir. The permanent collection is well displayed, and the building itself — with its views across the avant-port — is part of the experience.

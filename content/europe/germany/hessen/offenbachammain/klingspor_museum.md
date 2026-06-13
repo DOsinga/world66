@@ -8,6 +8,7 @@ latitude: 50.1078
 longitude: 8.7611
 story: >
   The museum is named after Karl Klingspor, whose type foundry in Offenbach commissioned typefaces from the leading designers of the early 20th century, including Rudolf Koch and Walter Tiemann. The Klingspor foundry produced some of the most influential typefaces of the German Art Nouveau and Expressionist periods, and the museum preserves their design archives alongside a broader collection of book arts.
+score: 8.3
 ---
 
 The Klingspor Museum is dedicated to the art of the book — typography, type design, calligraphy, bookbinding, and illustration — and holds one of the finest collections of its kind in Europe. The permanent collection includes original type specimens, printing blocks, calligraphic manuscripts, artist's books, and an archive of correspondence between typeface designers and foundries.

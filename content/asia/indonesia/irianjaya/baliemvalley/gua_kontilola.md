@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, cave]
 latitude: -3.9667
 longitude: 138.9833
+score: 6.8
 ---
 
 A limestone cave on the hillside near Jiwika, with a stream emerging from its mouth and prehistoric handprint paintings on parts of the cave wall. Bring a torch — the inner chambers are dark — and watch your footing on slick limestone.

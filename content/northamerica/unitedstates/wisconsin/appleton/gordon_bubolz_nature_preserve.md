@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: 44.3016
 longitude: -88.4241
+score: 7.0
 ---
 
 On the northern edge of Appleton, the Gordon Bubolz Nature Preserve protects nearly 800 acres of forests, wetlands, and meadows along the Fox River. Hiking and cross-country ski trails wind through the property, and the nature centre at the entrance has exhibits on local ecology and wildlife.

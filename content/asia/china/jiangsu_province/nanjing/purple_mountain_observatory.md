@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - science
+score: 7.8
 ---
 
 The Purple Mountain Observatory (紫金山天文台), established in 1934 on the summit of Purple Mountain, was China's first modern astronomical observatory. The hilltop position gives it panoramic views over Nanjing and the surrounding plain. The historic domed telescope buildings are preserved, and a museum covers the history of Chinese astronomy from ancient times to the modern era.

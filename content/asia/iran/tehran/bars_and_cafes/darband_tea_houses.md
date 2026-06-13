@@ -8,6 +8,7 @@ tags:
 neighbourhood: Darband
 latitude: 35.8141
 longitude: 51.4440
+score: 7.6
 ---
 
 The tea houses (*chaikhaneh*) along the lower Darband trail are the most atmospheric places in Tehran to sit with a drink. They operate on platforms built over or beside the mountain stream, with wooden furniture, kilim rugs, and low tables; you order tea, watermelon, fruit juice, or simple food and stay as long as you like. The sound of running water and the gradual cooling of the air as you climb above the city make them fundamentally different from any urban café.

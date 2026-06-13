@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: Spirit of Detroit
 type: poi
+score: 6.4
 ---
 
 The Spirit of Detroit is the city's unofficial symbol: a 26-foot, eight-and-a-half-ton bronze figure sitting cross-legged in front of the Coleman A. Young Municipal Center on Woodward Avenue. Marshall Fredericks sculpted it in 1958 — the largest cast bronze statue in the world at the time. The figure holds a gilt sphere with rays in one hand (representing God) and a family group in the other.

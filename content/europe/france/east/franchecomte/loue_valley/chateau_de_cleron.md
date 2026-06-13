@@ -9,6 +9,7 @@ latitude: 47.0878
 longitude: 6.0575
 story: >
   The château has been in the same family since the sixteenth century — one of the longest continuous periods of private ownership of any major French castle. The family declined to sell during the Revolution and subsequent centuries of economic turbulence, maintaining the building and its contents largely intact.
+score: 6.7
 ---
 
 The Château de Cléron stands on a rocky promontory above the Loue between Ornans and the source, one of the most dramatically sited castles in the Franche-Comté. The building dates mainly from the fifteenth and sixteenth centuries, with towers and a keep reflecting the border landscape — the region was long contested between France and the Holy Roman Empire.

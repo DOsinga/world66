@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Raja Sate BBQ & Asian Resto
 type: poi
+score: 5.4
 ---
 
 Satay spot on the main boulevard serving chicken, goat, beef and seafood skewers alongside fresh BBQ seafood, soups and tropical juices. Casual open-air setting; reliable for a filling meal at low cost.

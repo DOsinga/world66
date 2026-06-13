@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 8.1
 ---
 
 Plaça Major is the heart of the town: a large, irregular square shaded by enormous plane trees, with the parish church of Nostra Senyora dels Àngels at one end and cafés around the edges. On any normal day it is a pleasant place to drink a coffee.

@@ -9,6 +9,7 @@ longitude: 105.3600
 sources:
   - https://www.originvietnam.com/destinations/hoa-binh/
   - https://yesd.org/things-to-do-in-hoa-binh/
+score: 7.2
 ---
 
 Giang Mo is a Muong village in Kim Boi district, about 30 km from Hoa Binh city, set in a valley of terraced rice fields along a clear stream. It is one of the province's established homestay villages and a good base for day-walking in the surrounding hills. The village has avoided the full tourist-village treatment that has overtaken some places closer to Hanoi — the stilt houses are real homes, the food is what the family eats, and the paths through the paddies lead to other villages rather than gift shops.

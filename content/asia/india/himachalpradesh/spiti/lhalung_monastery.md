@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.9833
 longitude: 78.3167
+score: 7.9
 ---
 
 Lhalung Monastery sits in the lower Spiti Valley, near the Spiti-Kinnaur boundary, and is one of the oldest and most overlooked religious sites in the region. Founded around the same period as Tabo (late 10th century), it contains some remarkable early murals and stucco work that rarely see the flow of visitors who make it to Tabo's more famous grottoes.

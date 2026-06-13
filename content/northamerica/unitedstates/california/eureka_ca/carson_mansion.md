@@ -16,6 +16,7 @@ story: >
   accessible, which has preserved it almost perfectly.
 sources:
   - https://en.wikipedia.org/wiki/Carson_Mansion
+score: 8.7
 ---
 
 The Carson Mansion at 143 M Street is the most photographed building in Eureka and arguably the finest example of Victorian architecture on the entire West Coast. Built in 1886 by lumber magnate William Carson, it is an extravagant exercise in the Queen Anne style: turrets, gables, wraparound porches, jigsawed ornamental woodwork, and a riot of decorative detail across every exterior surface. The house uses eighteen different types of wood from Carson's timber operations, and the craftsmanship is extraordinary.

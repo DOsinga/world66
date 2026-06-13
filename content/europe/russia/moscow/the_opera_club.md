@@ -6,6 +6,7 @@ closing_time: 6 am
 phone: '2059822'
 title: The Opera Club
 type: poi
+score: 2.9
 ---
 
 Newly opened club with House music. Very popular amongst "golden" teens and just rich guys and beauties/ Cool place! very moscow-like

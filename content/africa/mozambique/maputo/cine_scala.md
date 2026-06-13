@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Baixa
+score: 8.3
 ---
 
 The **Cinema Scala** is one of the great Streamline Moderne survivors of the southern hemisphere. Opened in 1931, designed by the Portuguese architect Hermínio Furtado, it has a curved white facade, ribbon windows and lettering that could be from a Buenos Aires storefront or a 1930s Tel Aviv hotel. The auditorium still functions, though irregularly — when films are running, single-feature shows of Brazilian, Portuguese and Mozambican titles cycle through the week, and the lobby occasionally hosts art events.

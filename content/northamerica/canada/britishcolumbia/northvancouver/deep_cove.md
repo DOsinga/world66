@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 49.3300
 longitude: -122.9472
+score: 8.4
 ---
 
 Deep Cove is the small village at the eastern end of North Vancouver, where the suburb meets the head of Indian Arm, a long fjord that cuts north into the Coast Mountains. The cove itself is sheltered, ringed by forested hillsides and small wooden houses on stilts, and is the most popular put-in point for sea-kayaking and stand-up paddleboarding in the metropolitan area.

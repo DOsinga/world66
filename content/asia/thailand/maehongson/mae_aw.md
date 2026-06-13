@@ -8,6 +8,7 @@ latitude: 19.6290
 longitude: 98.1720
 story: >
   Mae Aw was established in the 1950s by Chinese Nationalist (KMT) soldiers who fled across the border after the Communist victory in 1949. Rather than being repatriated to Taiwan, these soldiers and their families settled in the mountains of northern Thailand, Burma, and Laos, maintaining their military discipline and Yunnan Chinese culture. The Thai government eventually granted them citizenship. Today their descendants farm tea, Arabica coffee, and strawberries on the hillsides, and the village looks and feels unmistakably like a piece of rural Yunnan.
+score: 8.5
 ---
 
 Mae Aw (officially Ban Rak Thai, "Village of Those Who Love Thailand") sits on the Burmese border about 45 km north of Mae Hong Son town, at an elevation that makes it noticeably cooler than the valley. The village of roughly 1,000 people is the remnant of a KMT military community that settled here 70 years ago and has maintained its Chinese identity through tea cultivation and cultural practice.

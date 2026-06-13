@@ -9,6 +9,7 @@ tags:
   - sight
 title: Yorktown Battlefield Visitor Center
 type: poi
+score: 8.6
 ---
 
 The Yorktown Battlefield Visitor Center is the sensible first stop. Its exhibits lay out the 1781 campaign, the Franco-American alliance, and the siege lines before you drive or walk the battlefield itself.

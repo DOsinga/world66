@@ -15,6 +15,7 @@ story: >
   with proving that urban centres could be revitalised through commercial development.
   By the 2020s, it had become a cautionary tale: the retail model had collapsed, half
   the shops were empty, and a major redevelopment plan was announced.
+score: 4.8
 ---
 
 Harborplace is the shopping and restaurant complex at the heart of the Inner Harbor, a pair of glass pavilions that opened in 1980 and defined the template for American waterfront revitalisation for the following two decades. The complex is currently undergoing redevelopment, and the retail landscape has changed significantly from its 1980s heyday.

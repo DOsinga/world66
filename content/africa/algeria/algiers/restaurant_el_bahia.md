@@ -6,6 +6,7 @@ longitude: 3.0460
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 El Bahia (the Beautiful) is a well-regarded restaurant on the central Place Audin, popular with Algerian business lunchers and visiting professionals. The menu covers the range of Algerian specialities: chorba (a spiced lamb and tomato soup), mechchi (whole roasted lamb on special occasions), tajine dishes, and grilled fish. The interior is tiled and comfortable without being pretentious.

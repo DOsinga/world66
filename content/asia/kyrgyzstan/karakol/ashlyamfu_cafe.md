@@ -7,6 +7,7 @@ tags:
 latitude: 42.4890
 longitude: 78.4030
 snippet: Dungan noodle cafes serving Karakol's signature cold spicy dish
+score: 7.4
 ---
 
 The small Dungan cafes clustered near the bazaar and in the eastern part of town serve ashlyamfu — a bowl of cold spicy noodles floating in a sour vinegar-and-chilli broth, with firm starch jelly cut into chunks and topped with a fried egg. It is a startling dish to encounter in a mountain town in Central Asia: cooling, tangy, and addictive, particularly welcome after a dusty morning at the animal market.

@@ -10,6 +10,7 @@ tags:
   - hiking
   - nature
 story: "The 'mountain' tops out at 52 metres — modest by anyone's standards but startling for the eastern Netherlands. It is the result of an ice-age push-moraine: a Saalian glacier shoved the local sand and gravel into a low ridge around 150,000 years ago, then retreated."
+score: 8.1
 ---
 
 Just south of Lochem the land rises in a long wooded ridge, the Lochemse Berg. The slopes are heath, beech and oak, and the higher ground gives the unusual experience of an actual long view in this corner of the country. A network of paths from the edge of town climbs through the woods, past the Belvedère tower, and out across the heather of the plateau.

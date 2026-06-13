@@ -9,6 +9,7 @@ story: >
   the capital was moved to Muzaffarabad. The PWD Rest House on the hilltop above town
   dates from that early period and preserves something of the administrative atmosphere
   of those first turbulent years.
+score: 6.2
 ---
 
 The PWD (Public Works Department) Rest House stands on a hill above Pallandri and offers one of the best viewpoints over the surrounding valley. The view from here takes in the layers of forested ridges that define the Sudhnoti landscape — pine and cedar forests rolling away in all directions, with glimpses of the higher peaks of the Pir Panjal range to the north.

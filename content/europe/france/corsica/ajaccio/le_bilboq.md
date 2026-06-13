@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Le Bilboq
 type: poi
+score: 5.8
 ---
 
 A reliable spot near the covered market serving Corsican classics: charcuterie boards, brocciu fritters, grilled sea bream, and the local chestnut-flour cake for dessert. The terrace is small; arrive early for lunch or book ahead in summer. Good local wine list with Patrimonio and Figari appellations well represented.

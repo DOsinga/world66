@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.2448
 longitude: -74.2110
+score: 6.8
 ---
 
 The Paseo Bastidas is the seafront promenade that runs along Santa Marta Bay, connecting the historic centre to the working port. In the evenings it becomes the paseo of choice for locals — families pushing strollers, couples on benches, vendors selling fruit and arepas, teenagers on bicycles. The views across the bay toward the Sierra Nevada foothills are beautiful at sunset, when the mountains turn gold and the fishing boats sit still on the water.

@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Deep Water Bay
 type: poi
+score: 6.8
 ---
 
 This attractive bay lies beyond Aberdeen along a scenic coastal road flanked by flame trees and imposing cliffside mansions. Its public beach, one of the most attractive in Hong Kong, is next to the Hong Kong Golf Club's annex. A scenic pathway winds along the coast from here to Repulse Bay.

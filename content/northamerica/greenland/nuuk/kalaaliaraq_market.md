@@ -15,6 +15,7 @@ story: >
   used to buy goods from the colonial store. The arrangement was intended to integrate the
   Inuit into a cash economy; it succeeded, while also making the Inuit dependent on goods
   that could only be obtained from Danish merchants.
+score: 8.2
 ---
 
 The Kalaaliaraq Market, known in Danish as Brættet, is an outdoor market in the old colonial quarter where hunters and fishermen sell fresh local produce: seal meat, Arctic char, reindeer, musk ox, and whatever else has been caught or hunted that week. This is not a tourist market — it is where Nuuk residents buy fresh local food that is often unavailable in the supermarkets.

@@ -15,6 +15,7 @@ story: >
   what had been a quiet agricultural town.
 sources:
   - https://en.wikipedia.org/wiki/National_University_of_Costa_Rica
+score: 6.7
 ---
 
 The National University of Costa Rica, known as UNA, occupies a large campus on the east side of the Heredia city centre and is the single biggest reason the city feels young and lively. Around 15,000 students attend the university, and their presence is felt in every café and restaurant within walking distance of the campus.

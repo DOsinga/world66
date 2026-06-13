@@ -7,6 +7,7 @@ tags:
 latitude: 40.6360
 longitude: 22.9405
 snippet: Covered flea-market courtyard lined with mezedopoleia and ouzeries
+score: 7.0
 ---
 
 Bit Bazaar is a rambling covered courtyard just off Aristotelous, packed with antique dealers, second-hand stalls and — tucked around its edges — a handful of long-running mezedopoleia that are among the most atmospheric places to eat in the city. The setting is the point: mismatched tables, old junk on the walls, the sound of the market going on around you, a carafe of bulk retsina or tsipouro arriving without being asked.

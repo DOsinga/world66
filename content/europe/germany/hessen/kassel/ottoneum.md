@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3133
 longitude: 9.4989
+score: 7.2
 ---
 
 The **Ottoneum**, built between 1603 and 1605 by Landgrave Moritz the Learned, was one of the first purpose-built theatres in Germany. After the theatre moved out it became an anatomical institute, a library, and is now Kassel's natural history museum.

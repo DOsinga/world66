@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Ambohitsorohitra was built in the 1890s as a secondary royal palace, but it never functioned as intended — the French annexed Madagascar in 1896 before the building was completed. It became the colonial governor's residence and later the presidential palace, making it a symbol of both dispossession and continuity in Malagasy political history."
+score: 5.4
 ---
 
 Ambohitsorohitra Palace sits in the lower city, a grand colonial-era building that now serves as the official residence of Madagascar's president. The structure is a blend of neo-classical and local architectural styles, set within walled gardens not far from the central Avenue de l'Indépendance. Though access to the interior is restricted, the building is visible from the surrounding streets and forms part of the architectural fabric of central Tana.

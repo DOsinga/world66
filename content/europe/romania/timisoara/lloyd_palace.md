@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Lloyd Palace is the most photographed of the Baroque palaces on Victory Square — a four-storey Eclectic building with an ornate stucco facade in faded pink-and-cream, completed in 1912 for the Lloyd Bank. The ground floor is a long colonnaded arcade with cafe seating that extends most of the length of the square's western side.

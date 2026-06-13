@@ -7,6 +7,7 @@ tags:
   - museum
 title: Museum & Art Swindon
 type: poi
+score: 7.2
 ---
 
 Swindon's main museum and art gallery occupies a Victorian building on Bath Road in the Old Town area. The archaeology and local history collections are solid, covering the area from prehistoric times through the Roman occupation to the railway era. The art gallery has a collection that punches above what you might expect — it includes works by Lowry, Stanley Spencer, and Paul Nash, assembled with some ambition in the mid-20th century.

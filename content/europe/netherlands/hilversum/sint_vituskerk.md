@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The neo-Gothic Sint-Vituskerk on the Emmastraat, designed by Pierre Cuypers (architect of Amsterdam Centraal and the Rijksmuseum) and finished in 1892, dominates the eastern part of the centre. The tower is 98 metres tall, briefly the tallest spire in the Netherlands.

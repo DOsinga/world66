@@ -9,6 +9,7 @@ snippet: 13th-century Byzantine church inside a Franciscan monastery, now the si
 latitude: 40.7232
 longitude: 19.4720
 story: "The monastery sits directly on top of the older Greek temple of Artemis, recycling its stone for walls and columns. The church inside still has fragments of its original frescoes, including a striking depiction of the Virgin in the apse."
+score: 8.6
 ---
 
 The Monastery of St Mary occupies the high ground at the centre of Apollonia and is itself one of the most attractive buildings on the site. The thirteenth-century Byzantine church at its heart is built into a later Franciscan compound; together the buildings form a quiet, well-preserved enclosure with thick stone walls and arched cloisters.

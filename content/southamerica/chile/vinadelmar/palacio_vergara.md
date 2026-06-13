@@ -9,6 +9,7 @@ tags:
 snippet: Florentine-style 1908 palace inside Quinta Vergara, home of the city's fine arts museum
 latitude: -33.0271
 longitude: -71.5536
+score: 7.5
 ---
 
 The Palacio Vergara is an extravagant Italianate mansion completed in 1908 for the Vergara family. The architect borrowed freely from Florentine Renaissance models — tall round-arched windows, a deep rusticated base, painted ceilings — and the result is one of the more flamboyant pieces of architecture on the Chilean coast.

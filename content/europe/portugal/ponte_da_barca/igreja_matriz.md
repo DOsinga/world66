@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.8081
 longitude: -8.4185
+score: 6.8
 ---
 
 The Igreja Matriz is the parish church of Ponte da Barca — a sixteenth-century granite building rebuilt and remodelled over the following two centuries, set on the small square just back from the bridge. Plain on the outside, the interior is a surprise: gilded eighteenth-century altars in carved wood (talha dourada), a coffered painted ceiling, and a set of blue-and-white azulejo panels along the side walls.

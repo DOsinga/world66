@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Saki Restaurant
 type: poi
+score: 5.4
 ---
 
 A few minutes' walk from the river, Saki has been serving home-style Turkish cooking — mezes, slow-cooked lamb, freshly grilled fish — for years. The garden setting under vines and pomegranate trees is part of the appeal.

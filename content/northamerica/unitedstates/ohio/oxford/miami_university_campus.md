@@ -13,6 +13,7 @@ story: >
   buildings — nearly all red brick, built to a consistent style across two centuries — create
   an unusual visual coherence. Miami was founded in 1809, making it the second-oldest
   university in Ohio and the tenth-oldest public university in the United States.
+score: 8.3
 ---
 
 Miami University is what Oxford is built around, and the campus is worth exploring even if you have no connection to the place. Nearly every building is red brick Georgian Revival, the result of strict architectural standards maintained since the 19th century. The effect is unusually harmonious — a coherent landscape rather than a collection of buildings from different eras.

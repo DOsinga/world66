@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Cathedral of the Blessed Virgin Mary is the oldest Catholic church in the Diocese of Bogor and one of the oldest church buildings in West Java. The current structure dates from 1895, though a church has stood on this site since 1764. The building is in a Gothic Revival style with twin towers, an unusual form in Indonesia, and the interior retains period fittings.

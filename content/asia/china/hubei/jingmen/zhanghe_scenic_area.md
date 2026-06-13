@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.1333
 longitude: 111.9833
+score: 6.3
 ---
 
 The Zhanghe Scenic Area, centred on the Zhanghe Reservoir to the northwest of Jingmen city, is a reservoir landscape of forested hills and clear water that offers a gentler version of the gorge scenery found further west along the Yangtze. The reservoir was created in the 1950s and its irregular shoreline, carved through limestone hills, has produced an archipelago of small peninsulas and inlets popular with boating trips and hiking.

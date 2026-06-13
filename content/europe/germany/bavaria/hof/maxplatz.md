@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The long market square at the heart of Hof's old town, with the Rathaus and Marienkirche
+score: 7.3
 ---
 
 Maxplatz is the long, slightly sloping market square that forms the spine of Hof's old town. The Marienkirche sits at the southern end, the neo-Renaissance Rathaus a hundred metres up, and a line of three- and four-storey burghers' houses runs along both sides — some Baroque, some 19th century, a handful reconstructed after wartime damage.

@@ -14,6 +14,7 @@ story: >
   change with few parallels in American history.
 sources:
   - https://en.wikipedia.org/wiki/North_Dakota_Heritage_Center_and_State_Museum
+score: 8.4
 ---
 
 The North Dakota Heritage Center and State Museum, connected to the State Capitol complex, is the state's main museum and a genuinely impressive institution for a city of Bismarck's size. The collection covers the full arc of North Dakota's history: the Ice Age (with excellent fossil displays including T. rex skeletons found in the state's badlands), the cultures of the Plains nations, the Lewis and Clark Expedition's passage through the region, railroad settlement, and the twentieth century. The Native American history galleries are particularly strong, treating the Mandan, Hidatsa, Arikara, Lakota, and other peoples with depth and respect.

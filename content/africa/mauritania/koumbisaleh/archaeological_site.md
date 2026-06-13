@@ -5,6 +5,7 @@ tags: [things_to_do, sight, archaeology]
 latitude: 15.765555555555556
 longitude: -7.9686111111111115
 story: Arab geographer Al-Bakri described Koumbi Saleh in 1068 as a city of two towns — one for Muslim merchants with twelve mosques, and a royal town six miles away where the Ghana king held court surrounded by pages and dogs wearing gold collars. Excavations begun in 1913 have since confirmed the scale of that description, uncovering stone houses, a great mosque, and evidence of a population that may have exceeded 20,000 at its peak.
+score: 8.9
 ---
 
 The ruins of Koumbi Saleh represent the most significant archaeological discovery in Mauritania and quite possibly in all of West Africa. This was once the capital of the Ghana Empire — not the modern Republic of Ghana but the medieval Wagadou state that dominated the Sahel from roughly the 6th to the 13th century, controlling the gold and salt trade routes that linked the forests of the south to the markets of North Africa. At its zenith around 1000 CE, this was one of the largest cities on the continent.

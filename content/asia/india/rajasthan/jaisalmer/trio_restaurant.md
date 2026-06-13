@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Trio Restaurant
 type: poi
+score: 5.8
 ---
 
 Trio has been one of the most consistently recommended restaurants in Jaisalmer for many years, with a rooftop position near the Gandhi Chowk square and a direct view of the fort. The kitchen does a particularly good Rajasthani thali — a full spread of regional dishes including dal, sabji, kadhi, rice, roti, and sweets, which gives you a broad taste of local cooking in a single meal. The laal maas (a fiery Rajasthani mutton curry) is also good here, and rare for the old city, which tends toward vegetarian menus.

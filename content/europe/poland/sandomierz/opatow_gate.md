@@ -14,6 +14,7 @@ story: >
   dates from the 14th century and was raised to its current height in the 16th century. 
   The cylindrical tower is the best vantage point in Sandomierz: from the top you can 
   see the Vistula, the loess escarpments, and the vineyards on the far slopes.
+score: 7.2
 ---
 
 The Opatów Gate is the last surviving medieval gate in Sandomierz's fortifications — a 14th-century tower that once formed part of a ring of defensive walls around the Old Town. It stands at the northern edge of the historic centre, on the road that leads down from the hilltop town toward the Vistula lowlands below.

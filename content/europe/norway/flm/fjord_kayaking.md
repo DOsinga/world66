@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 60.8616
 longitude: 7.1151
+score: 8.0
 ---
 
 Flåm is one of the best bases for kayaking on the Sognefjord system. Rental equipment is available from the village, and the calm water of the Aurlandsfjord is suitable for paddlers of all levels outside of windy conditions. The inner fjord around Flåm offers stunning close-up views of the cliff walls and waterfalls that the ferry sees from a distance.

@@ -8,6 +8,7 @@ latitude: 49.432942
 longitude: 2.079854
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_de_l%27Oise
+score: 7.5
 ---
 
 The Departmental Museum of the Oise is housed in the former Bishop's Palace, a handsome 16th-century building immediately north of the cathedral in the Rue du Musée. The palace itself is worth seeing: a fine Renaissance courtyard and a medieval undercroft survive intact beneath the later building.

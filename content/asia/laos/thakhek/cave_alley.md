@@ -9,6 +9,7 @@ latitude: 17.4200
 longitude: 105.0000
 story: >
   The caves along Route 12 formed in the same limestone karst system that underlies much of central Laos. The rock is Devonian-era limestone, around 380 million years old, and the cave systems formed as slightly acidic groundwater dissolved the rock over millions of years. The same geological process that created the spectacular scenery of Vang Vieng and Luang Prabang's karst towers operates here, but because this stretch of highway sees a fraction of the tourism, you can have caves of comparable scale mostly to yourself.
+score: 7.9
 ---
 
 Highway 12 heading east from Thakhek toward the Vietnamese border passes about ten caves in a 50-kilometre stretch, earning the nickname "Cave Alley." Most are signposted in English and Lao, accessible without guides, and vary in character from small chambers with a few formations to enormous caverns with rivers running through them.

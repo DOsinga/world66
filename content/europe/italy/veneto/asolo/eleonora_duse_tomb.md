@@ -10,6 +10,7 @@ longitude: 11.9152
 snippet: "Grave of Italy's greatest actress in the hilltop cemetery of Sant'Anna"
 story: >
   Duse died in Pittsburgh in 1924 during her farewell American tour. Her body was brought back to Asolo, the town she considered home, and buried in the small cemetery of Sant'Anna on the hillside above the town. Her simple marble tomb, in a corner of the cypress-shaded grounds, draws pilgrims from the theatre world to this day.
+score: 6.5
 ---
 
 Eleonora Duse, considered by many the greatest actress of the 19th century — Sarah Bernhardt's only rival — chose Asolo as her home for the final decades of her life, returning here between international tours. The small hilltop cemetery of Sant'Anna, a ten-minute walk above the old centre, holds her grave: a simple slab under the cypresses, often with fresh flowers left by visitors.

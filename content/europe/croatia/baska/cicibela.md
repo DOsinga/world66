@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.7
 ---
 
 One of Baška's better-known seafood restaurants, sitting right on the promenade above the beach. The menu is built around the day's catch: whole grilled fish sold by the kilo, black risotto with cuttlefish ink, šurlice with shrimp. Portions are generous.

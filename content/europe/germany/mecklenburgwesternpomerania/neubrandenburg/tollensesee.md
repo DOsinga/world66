@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.5300
 longitude: 13.2500
+score: 7.3
 ---
 
 Lake Tollensesee is a long, narrow glacial lake stretching south from the edge of Neubrandenburg for about 10 kilometres. Its shores are mostly undeveloped — wooded banks, small beaches, and a cycling and walking path that runs most of the way around. A number of public bathing spots on the western shore are popular in summer, and the lake is clean enough to swim in.

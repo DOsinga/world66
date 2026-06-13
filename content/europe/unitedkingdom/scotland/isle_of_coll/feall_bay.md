@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "The dunes behind Feall Bay are some of the highest in the Hebrides, rising to about 100 metres. The constant wind has built and rebuilt them for thousands of years, and the deep sand traps freshwater into a system of small lochans that draw migrating geese in October."
+score: 8.5
 ---
 
 Coll's south-western shoreline is one long sequence of empty white-sand beaches, the most photogenic of which are Feall Bay and the adjoining Crossapol Beach, separated by a high sand-dune ridge. Walk over the dunes from Breachacha and you drop down on to a mile-long arc of shell sand with no buildings in sight.

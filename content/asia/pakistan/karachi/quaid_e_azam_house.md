@@ -6,6 +6,7 @@ tags:
 - museum
 title: Quaid-e-Azam House Museum
 type: poi
+score: 7.6
 ---
 Muhammad Ali Jinnah, the founder of Pakistan, spent his final years in this modest two-storey house in the Ziauddin Ahmed Road area. He died here in September 1948, just over a year after the country he created came into existence. The house has been preserved as a museum, and the rooms have been maintained much as they were during his occupation: personal belongings, furniture, and photographs that put flesh on the official image of a man usually encountered only on currency and in formal portraits.
 

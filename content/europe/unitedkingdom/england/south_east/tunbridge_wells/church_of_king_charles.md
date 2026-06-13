@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The brick church facing the Pantiles was built in 1676 and dedicated to Charles I — the "Martyr" of its name being the executed king, whose father had patronised the spa. It is one of the earliest churches in England to be raised after the Reformation and was funded by subscription from spa visitors, which explains its location next to the social heart of the resort rather than at the parish centre.

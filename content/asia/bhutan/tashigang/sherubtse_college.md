@@ -6,6 +6,7 @@ longitude: 91.5237
 tags:
   - things_to_do
   - sight
+score: 4.4
 ---
 
 About an hour's drive south of Tashigang in Kanglung, Sherubtse College is Bhutan's first degree-granting institution. It was founded in 1966 by a small group of Canadian Jesuits led by Father William Mackey, and for decades it was the only place a Bhutanese student could complete a university education without leaving the country.

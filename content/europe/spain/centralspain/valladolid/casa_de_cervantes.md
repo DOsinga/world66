@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sight]
 latitude: 41.6483
 longitude: -4.7272
 story: "Cervantes was living in this house in 1605 when a man named Gaspar de Ezpeleta was murdered just outside the door. The author, his wife, daughter, and sister were briefly arrested as witnesses, and the case generated piles of testimony — a rare detailed glimpse of the writer's domestic life."
+score: 6.9
 ---
 
 A modest two-storey house just south of the old centre, where Miguel de Cervantes lived between 1604 and 1606 — the years that saw the publication of the first part of Don Quixote in 1605. The house has been preserved as a writer's home with period furnishings, a small interior courtyard, and a curated collection of early editions of his works.

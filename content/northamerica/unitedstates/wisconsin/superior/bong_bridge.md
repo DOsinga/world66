@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.7314
 longitude: -92.1438
+score: 5.6
 ---
 
 The Bong Bridge carries US Highway 2 across the Saint Louis River between Superior and Duluth, and at nearly two miles long it is the longer of the two bridges connecting the twin ports. It is named for Richard Ira Bong, a World War II fighter ace from Superior who became the top American air ace of the war, credited with 40 aerial victories. A full-scale replica P-38 Lightning fighter — the type Bong flew — is mounted on a pedestal near the Wisconsin end of the bridge.

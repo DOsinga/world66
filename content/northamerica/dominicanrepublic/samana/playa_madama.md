@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Madama
 type: poi
+score: 7.5
 ---
 
 The smallest of the three eastern beaches accessible from Las Galeras, Playa Madama is a pocket of sand at the foot of green cliffs in a tight cove. The walk in (about 45 minutes from Las Galeras through tropical forest) is part of the appeal; some operators also drop visitors here by boat.

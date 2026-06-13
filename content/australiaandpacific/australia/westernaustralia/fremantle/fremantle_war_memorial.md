@@ -7,6 +7,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Fremantle_War_Memorial
+score: 7.2
 ---
 
 The Fremantle War Memorial on Monument Hill is a tall obelisk on a wide stone platform, set on the highest ground in the city — a 4.5 hectare reserve dedicated to the dead of both World Wars. Unveiled in 1928, it is the focus of Anzac Day ceremonies every 25 April, when several thousand people climb the hill for the dawn service.

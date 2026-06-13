@@ -4,6 +4,7 @@ type: poi
 latitude: 34.1381
 longitude: -118.3534
 tags: [things_to_do, sight]
+score: 8.1
 ---
 
 The original working studio of Carl Laemmle and now half theme park, half active production lot. The lower lot rides are typical big-budget theme park fare; the upper lot Studio Tour, around a working back lot of standing sets and special-effects environments, is what distinguishes Universal from its competitors.

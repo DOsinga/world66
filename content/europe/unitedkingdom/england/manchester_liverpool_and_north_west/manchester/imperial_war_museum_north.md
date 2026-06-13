@@ -11,6 +11,7 @@ tags:
 - museum
 title: Imperial War Museum North
 type: poi
+score: 7.8
 ---
 
 Daniel Libeskind's angular aluminium building on the Salford Quays waterfront is as striking as the exhibitions inside. The immersive "Big Picture Show" projections are the highlight. Free entrance.

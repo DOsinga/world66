@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.66298
 longitude: 20.29949
+score: 6.2
 ---
 
 An Albanian-protected archaeological monument, the Haxhi Zeka Mill is a historic watermill that used the flow of the Bistrica river to grind grain for the city. The building represents an important layer of Peja's economic history — the mill districts of Balkan towns were as significant to urban life as the mosques and bazaars, and several survive in varying states of preservation across Kosovo.

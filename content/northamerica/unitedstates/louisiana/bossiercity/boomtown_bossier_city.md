@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, casino]
 latitude: 32.51
 longitude: -93.7328
+score: 4.6
 ---
 
 Boomtown is the casino slightly removed from the boardwalk cluster, set just south on the Red River. Themed as a 19th-century western boomtown, it has a quieter, less corporate feel than its larger neighbours and a loyal following of locals who avoid the noisier riverside venues.

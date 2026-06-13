@@ -7,6 +7,7 @@ tags:
 title: Titchwell Marsh RSPB Reserve
 type: poi
 story: "What makes Titchwell exceptional among birdwatching sites is the compression of habitats into a small area. Within a few hundred metres you move from freshwater reedbed to brackish lagoon to saltmarsh to sandy beach, and each zone holds its own suite of species. The reserve was created from former agricultural land in the 1970s and has been managed by the RSPB ever since, steadily expanding the range of habitats and the species they support."
+score: 9.3
 ---
 
 Titchwell Marsh is one of the RSPB's flagship reserves and consistently rates among the top birdwatching sites in England. It lies just west of Brancaster on the A149 and is well set up for visitors, with a good car park, a visitor centre, and a network of accessible paths and hides leading through the reserve to the beach.

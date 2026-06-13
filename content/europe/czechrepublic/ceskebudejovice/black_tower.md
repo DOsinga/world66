@@ -13,6 +13,7 @@ story: >
   until the 20th century.
 sources:
   - https://en.wikipedia.org/wiki/Black_Tower_(České_Budějovice)
+score: 8.0
 ---
 
 The Black Tower (Černá věž) is a 16th-century belfry that stands just off the main square, connected to the Cathedral of St Nicholas by a covered passage. Its dark exterior — the tower was given a black tar coating after fire damage — contrasts with the lighter buildings around it. The climb up the 225 steps is steep but worth it: from the top there are clear views across the old town rooftops and out to the Šumava hills on the southern horizon.

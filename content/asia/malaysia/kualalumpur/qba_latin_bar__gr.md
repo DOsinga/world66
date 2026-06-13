@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
   - bukit_bintang
+score: 4.7
 ---
 
 A Latin-themed bar and steakhouse inside the Westin on Jalan Bukit Bintang, combining a grill menu of steaks and South American flavours with live Latin bands later in the evening. It has long been one of KL's better-known spots for Cuban rum and cigars, with a deeper-than-usual back bar.

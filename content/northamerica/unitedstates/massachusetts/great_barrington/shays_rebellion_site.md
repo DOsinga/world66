@@ -13,6 +13,7 @@ story: >
   alarmed the Founding Fathers that James Madison cited it as a key reason
   why the United States needed a stronger central government. Without Shays,
   the Constitutional Convention of 1787 might have had less urgency.
+score: 5.8
 ---
 
 A stone marker in Great Barrington commemorates the final battle of Shays' Rebellion, the armed uprising of 1786–87 in which indebted Massachusetts farmers took up arms against a state government that was seizing their land and livestock to pay war debts while refusing to issue paper currency.

@@ -6,6 +6,7 @@ longitude: -67.1656
 tags:
   - things_to_do
   - beach
+score: 5.3
 ---
 
 Mayagüez itself does not have a swimming beach — the harbour is industrial — but Playa El Seco, a few kilometres north of the city in the Algarrobo neighbourhood, is the closest decent stretch of sand and a favourite local spot for a quick dip after work. The beach is narrow and the water shallow; on weekends families set up shade tents and food stalls open along the road behind.

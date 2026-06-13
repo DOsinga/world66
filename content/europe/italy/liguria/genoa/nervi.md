@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Scenic suburb with a cliff walk, parks, and a good shingle beach
+score: 8.0
 ---
 
 Nervi is Genoa's most appealing seaside suburb, reachable in 20 minutes by train from Brignole station. The main draw is the *Passeggiata Anita Garibaldi*, a 2-kilometre cliff walk cut into the rock above the sea, with views along the coast in both directions. The walk passes over bridges and through tunnels in the limestone and is one of the most dramatic short coastal walks in Liguria.

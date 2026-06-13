@@ -11,6 +11,7 @@ story: >
   succession, and used the proceeds — quite explicitly — to fund the 37-acre
   garden she built here over four decades. She kept gardening and acquiring
   rare specimens until her death in 1984 at age 96.
+score: 8.9
 ---
 
 Lotusland, in the Montecito hills just east of Santa Barbara, is one of the most idiosyncratic gardens in North America: a series of themed garden rooms — blue garden, cactus garden, Japanese garden, water garden, theatre garden — each pushed to a level of obsessive plantsmanship that feels closer to art installation than horticulture. The cycad collection (rare prehistoric plants) is one of the largest in the world.

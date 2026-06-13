@@ -9,6 +9,7 @@ latitude: 33.9752
 longitude: 51.4411
 sources:
   - https://en.wikipedia.org/wiki/Sultan_Amir_Ahmad_Bathhouse
+score: 8.3
 ---
 
 The Sultan Amir Ahmad Bathhouse is one of the finest surviving traditional hammams in Iran, with origins in the Safavid era though substantially rebuilt in the Qajar period. The building's exterior, a cluster of turquoise-tiled domes perforated by star-shaped and circular skylights, is best appreciated from the roof, which you can climb for a view across the domes and over the surrounding old-city roofscape.

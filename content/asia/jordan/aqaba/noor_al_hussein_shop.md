@@ -7,6 +7,7 @@ snippet: "Fixed-price shop selling fair-trade Jordanian crafts"
 tags:
 - shopping
 - market
+score: 6.2
 ---
 
 The Aqaba branch of the Noor Al-Hussein Foundation's craft network, on a small street next to the Archaeological Museum, sells fairly priced traditional handicrafts produced by women's cooperatives across Jordan. The catalogue: hand-embroidered textiles from the Jordan Valley, mosaics from Madaba, silver from Bedouin makers, ceramics from Iraq al-Amir, soaps from olive oil cooperatives, and the foundation's well-known reproductions of Roman and Byzantine mosaic panels.

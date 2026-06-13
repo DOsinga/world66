@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.0014
 longitude: -79.2042
+score: 7.8
 ---
 
 Loja's main square sits at the heart of the colonial centre and is the social hub of the city at all hours. The cathedral on the north side is a strikingly handsome piece of Baroque-influenced church architecture, rebuilt in the nineteenth century but with colonial roots. The square itself is shaded by mature trees and has a fountain at its centre.

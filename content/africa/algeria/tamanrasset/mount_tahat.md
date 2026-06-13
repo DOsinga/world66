@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Mount_Tahat
+score: 8.7
 ---
 
 At 2,908 metres, Mount Tahat is the highest peak in Algeria and the centrepiece of the [Hoggar Mountains](/africa/algeria/tamanrasset/hoggar_mountains). It rises from the Atakor volcanic plateau — a landscape of dark basalt and eroded phonolite spires — and on a clear day the views from the summit extend for an extraordinary distance across the Sahara.

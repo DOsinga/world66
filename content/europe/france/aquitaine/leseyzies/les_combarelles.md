@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.9436
 longitude: 1.0422
+score: 8.6
 ---
 
 Les Combarelles is a narrow cave two kilometres east of Les Eyzies containing over 600 engravings — the largest concentration of Paleolithic animal engravings in France. Where Font-de-Gaume dazzles with paint and colour, Les Combarelles rewards patience: the engravings are cut into the rock with a burin, and you need your guide's torch held at a raking angle to make out the overlapping figures. Horses, bison, mammoths, lions, bears, rhinoceroses, and ibex emerge from what at first looks like a chaotic mesh of scratched lines.

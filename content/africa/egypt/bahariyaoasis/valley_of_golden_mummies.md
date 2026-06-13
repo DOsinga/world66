@@ -9,6 +9,7 @@ latitude: 28.3100
 longitude: 28.8500
 story: >
   The Valley of the Golden Mummies was discovered in 1996 when a donkey tripped over a hole in the ground at the edge of Bawiti town. The owner investigated, found a tomb, and reported it to the authorities. Egyptologist Zahi Hawass began excavations in 1999 and uncovered 105 mummies in the first season alone. Ground-penetrating radar surveys suggest the necropolis may extend across 35 square kilometres and contain over 10,000 burials — making it potentially the largest ancient cemetery ever discovered.
+score: 8.7
 ---
 
 The Valley of the Golden Mummies is the most dramatic recent archaeological discovery in Egypt outside of Tutankhamun's tomb. It is a vast Greco-Roman necropolis — dating from around 332 BC to 395 AD — where wealthy inhabitants of the oasis were buried with elaborate gilded cartonnage masks, decorated coffins, and funerary jewellery. The "golden" in the name refers to the gold leaf applied to the mummies' faces and chest pieces, which in many cases has survived 2,000 years in remarkable condition.

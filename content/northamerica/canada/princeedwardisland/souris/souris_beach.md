@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 46.3558
 longitude: -62.2684
+score: 6.7
 ---
 
 Souris Beach Gateway Park, just west of town, is a clean, uncrowded beach on the Northumberland Strait with the characteristic red sand of eastern PEI. The water here is warmer than on the Atlantic-facing beaches of Nova Scotia — the Northumberland Strait acts as a shallow inland sea that heats up through the summer — making this one of the warmer swimming beaches in Atlantic Canada.

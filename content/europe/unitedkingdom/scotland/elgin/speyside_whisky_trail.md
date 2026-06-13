@@ -9,6 +9,7 @@ latitude: 57.4800
 longitude: -3.1700
 sources:
   - https://en.wikipedia.org/wiki/Speyside_whisky
+score: 8.4
 ---
 
 The valleys of the Spey and its tributaries hold more malt whisky distilleries per square mile than anywhere else on earth — over 50 operating distilleries within roughly 40 miles of Elgin. The Malt Whisky Trail is a signposted driving route linking eight of the most visitor-friendly: Glenfiddich and The Balvenie at Dufftown, The Macallan and Aberlour's Strathisla on Strathspey, Cardhu and Glenlivet further south, and Benromach and Glen Grant closer to Elgin.

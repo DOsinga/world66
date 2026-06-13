@@ -9,6 +9,7 @@ latitude: 52.4011
 longitude: 13.0279
 sources:
   - https://en.wikipedia.org/wiki/Sanssouci_Park
+score: 9.4
 ---
 
 Sanssouci Park stretches for nearly three kilometres from east to west, containing seven palaces and more than thirty smaller buildings connected by paths through woodland, meadow, and formal garden. It is one of the great landscape parks of Europe — not the manicured perfection of Versailles, but a more varied, exploratory place where a Rococo palace can suddenly give way to a Chinese tea pavilion, a Roman bath, or a fake ruined temple.

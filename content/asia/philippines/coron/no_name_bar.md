@@ -8,6 +8,7 @@ address: National Highway, Coron, Palawan
 latitude: 11.9967
 longitude: 120.2050
 snippet: Long-running expat hangout with cold beer and pub food
+score: 5.0
 ---
 
 A small open-fronted bar on the highway just east of the town centre, the No Name has been the standard expat-and-dive-instructor gathering point in Coron for years. Cold San Miguel and Red Horse, an honest pub-food menu (burgers, chicken wings, fish and chips), and a stack of dog-eared magazines.

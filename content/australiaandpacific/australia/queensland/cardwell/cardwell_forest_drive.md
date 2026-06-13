@@ -11,6 +11,7 @@ story: >
   The Cardwell Forest Drive passes through some of the most intact lowland tropical rainforest in Australia — the same forest type that once covered much of coastal north Queensland but has been almost entirely cleared for agriculture. Here it survives because the steep terrain made farming impractical, and you can walk through it to swimming holes that feel genuinely remote while the highway is only a few kilometres away.
 sources:
   - https://www.qld.gov.au/recreation/activities/forests-and-timber/forests/cardwell
+score: 7.4
 ---
 
 The Cardwell Forest Drive is a 26 km loop through state forest west of the town, passing several waterfalls and swimming holes accessible by short walks from the road. The road is sealed for most of its length and passable in a conventional vehicle in dry conditions, though the creek crossings require care after rain.

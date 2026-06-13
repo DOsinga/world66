@@ -11,6 +11,7 @@ story: >
   The Concert Hall was designed by Arata Isozaki, the Japanese architect who won the Pritzker Prize in 2019. It opened in 2007 as part of the Shenzhen Cultural Center complex alongside the public library, another Isozaki design. The two buildings share a distinctive visual language of curved glass and polished surfaces — an unusual aesthetic for a city better known for corporate towers than cultural architecture.
 sources:
   - https://en.wikipedia.org/wiki/Shenzhen_Cultural_Center
+score: 6.9
 ---
 
 Shenzhen Concert Hall is the home venue of the Shenzhen Symphony Orchestra — a striking glass-and-steel building in Futian designed by Japanese architect Arata Isozaki and opened in 2007. It's part of the Shenzhen Cultural Center, a complex that also includes the Shenzhen Library in an adjacent but similarly designed building.

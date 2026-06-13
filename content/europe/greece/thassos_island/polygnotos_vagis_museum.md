@@ -6,6 +6,7 @@ longitude: 24.7289
 tags:
   - things_to_do
   - museum
+score: 7.2
 ---
 
 A small but exceptional museum in the mountain village of Potamia, dedicated to the sculptor Polygnotos Vagis (1894–1965), who was born on Thassos, emigrated to the United States in 1921, and became a significant figure in American sculpture — though he remains almost unknown outside Greece and the Greek-American community. The museum holds over 200 of his works, donated to his home village before his death, filling several rooms with figurative bronzes, stone carvings, and works on paper that show a genuinely distinctive artistic personality shaped by both his Greek origins and his decades in New York.

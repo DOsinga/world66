@@ -16,6 +16,7 @@ story: >
   raw metal with no smelting technology.
 sources:
   - https://en.wikipedia.org/wiki/Copper_Culture_State_Park
+score: 7.1
 ---
 
 A small Wisconsin state park preserving the burial grounds of the Old Copper Complex people, a prehistoric culture that worked native copper into tools and ornaments some five to six thousand years ago. The 42-acre park contains burial mounds along the Oconto River, and the site was designated a National Historic Landmark in 1964 in recognition of its significance to the understanding of prehistoric North American metalworking.

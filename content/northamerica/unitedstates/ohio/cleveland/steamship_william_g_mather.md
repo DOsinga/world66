@@ -14,6 +14,7 @@ story: >-
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The William G. Mather is a 618-foot Great Lakes bulk freighter, launched in 1925 and retired in 1980, that now serves as a floating museum on the Cleveland lakefront. Visitors can walk the deck, climb the pilothouse, descend into the gigantic engine room (still complete with original steam turbine), and step into the surprisingly civilised guest quarters reserved for company executives and their wives.

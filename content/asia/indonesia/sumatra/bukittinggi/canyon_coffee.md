@@ -6,6 +6,7 @@ longitude: 100.3680
 tags:
   - bars_and_cafes
   - cafe
+score: 6.2
 ---
 
 A handful of small cafes perch on the canyon rim near Panorama Park, with terraces hanging over the gorge. Order a kopi tubruk — coarse-ground Sumatran coffee brewed by pouring boiling water directly onto the grounds — and a plate of fried banana with palm-sugar syrup, and stay until the canyon fills with afternoon mist.

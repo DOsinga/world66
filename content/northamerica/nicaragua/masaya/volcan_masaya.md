@@ -9,6 +9,7 @@ longitude: -86.1617
 snippet: One of Nicaragua's most active volcanoes, with a glowing lava lake visible from the crater rim
 story: >
   The Spanish conquistadors were so unsettled by the glowing crater that they named it La Boca del Infierno — the Mouth of Hell — and in 1529 a Franciscan friar descended into the crater to plant a cross on the rim to exorcise the devil from the volcano. The cross is still there. The Spaniards also believed the volcano was guarded by a demon who could be appeased by throwing captured Indigenous people into it.
+score: 9.2
 ---
 
 Volcán Masaya is one of the most accessible active volcanoes in the Americas — a paved road runs right to the crater rim of Santiago, where you can look directly down into the active lava lake below. On a good day (or night), the orange glow of the molten rock is clearly visible, along with plumes of sulphur dioxide rising from the vents. Evening visits are the most dramatic.

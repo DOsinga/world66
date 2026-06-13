@@ -12,6 +12,7 @@ tags:
 title: Parliament Palace
 type: poi
 story: "To make room for the palace and the surrounding Centrul Civic, Ceaușescu ordered the demolition of a fifth of the historic centre — 28 churches, three monasteries, two synagogues, and around 9,000 houses. Some churches were saved at the last minute by being mounted on rails and rolled into hidden positions behind apartment blocks, where they still stand today."
+score: 8.3
 ---
 
 The second-largest administrative building in the world after the Pentagon, and by weight the heaviest building of any kind on Earth. Ceaușescu commissioned it in 1984 from a 28-year-old architect, Anca Petrescu, and tore down a fifth of historic Bucharest to clear the site. It was nowhere near finished when the regime fell in 1989; the Romanian parliament inherited it as a half-built embarrassment and has been completing it slowly ever since.

@@ -8,6 +8,7 @@ latitude: 26.9231
 longitude: 75.8259
 address: Tripolia Bazaar, Pink City, Jaipur
 snippet: The old city's most atmospheric bazaar, specializing in lac bangles, brassware, and leather
+score: 7.4
 ---
 
 Tripolia Bazaar runs from the Tripolia Gate (one of the old city's main entrances) eastward through the heart of the Pink City. It's the most varied and atmospheric of Jaipur's bazaar streets — less focused than Johari Bazaar (jewelry) or Bapu Bazaar (textiles), and correspondingly busier and more chaotic.

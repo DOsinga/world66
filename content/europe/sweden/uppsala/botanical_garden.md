@@ -7,6 +7,7 @@ snippet: The university's modern botanical garden, laid out beside the castle
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The Botaniska trädgården, not to be confused with Linnaeus's older garden in the city centre, sits at the foot of Uppsala Castle on land donated by King Gustav III in 1787. The collection now covers 34 hectares — far larger than Linnaeus's compact plot — and ranges from formal baroque parterres to dense woodland.

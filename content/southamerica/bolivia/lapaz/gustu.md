@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Gustu
 type: poi
+score: 7.7
 ---
 
 Gustu is on Calle 10 in Calacoto, in the lower, wealthier part of La Paz, a neighbourhood of embassies and apartment buildings quite different from the dense commercial centre above. The restaurant occupies a converted house with a serious open kitchen and a wine list that focuses on South American producers. The food is Bolivian in ingredients and reference points — fresh cheese from the altiplano, river fish from the Amazon basin, the extraordinary range of Andean potatoes, native grains that most non-Bolivians have never heard of — prepared with the technical discipline that the Noma heritage implies.

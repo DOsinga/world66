@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -5.6736
 longitude: 176.115
+score: 7.1
 ---
 
 The maneapa in Lolua is the largest building on Nanumea and the heart of village life. Maneapas are the traditional Polynesian community meeting houses, open-sided thatched-roof halls supported by carved posts, where village decisions are made, ceremonies are held, and visitors are formally welcomed. Every island in Tuvalu has at least one; Nanumea's is among the most impressive.

@@ -7,6 +7,7 @@ tags:
 latitude: 19.0480
 longitude: -98.2070
 snippet: "The street of Talavera workshops northwest of the historic centre, where you can watch potters at work"
+score: 7.5
 ---
 
 The northwestern edge of the historic centre, along Calle 18 Poniente and the streets around it, is where Puebla's Talavera pottery tradition is most concentrated. Half a dozen workshops and showrooms can be visited in an afternoon, ranging from large operations with structured factory tours (like the nearby Uriarte, founded 1824) to small family studios where a single potter and a couple of painters produce a limited output of exceptionally fine pieces.

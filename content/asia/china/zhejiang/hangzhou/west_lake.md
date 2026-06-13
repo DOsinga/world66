@@ -18,6 +18,7 @@ story: >
   forces captured the northern capital, and his court poets codified the
   "Ten Scenes of West Lake" — a list that has barely changed in eight hundred
   years, and that still organises how most visitors experience the lake today.
+score: 9.8
 ---
 
 Hangzhou's defining landmark. The lake is crossed by two ancient causeways — the Baidi and the Sudi — where willows trail into the water and locals stroll at any hour. Take a boat out to the island of Santan Yinyue (Three Pools Reflecting the Moon), especially atmospheric on autumn evenings. Larger boats depart from Hubin Lu; smaller rowing boats are available for hire all along the shore.

@@ -9,6 +9,7 @@ tags:
 - sight
 - temple
 story: "Locals say the snakes appeared at the temple shortly after it was built in 1850 and have lived in it ever since. They are pit vipers — venomous — but the priests insist they have never bitten worshippers. The temple's smoke is supposed to keep them docile."
+score: 6.8
 ---
 
 The Snake Temple — Hock Kheng Keong, the Temple of the Azure Cloud — sits on the south of Penang island close to the airport. It was founded in 1850 in honour of the Hokkien deity Chor Soo Kong, but its real claim to fame is the resident population of venomous green pit vipers that live in the temple, draped over the altar railings, the joss-stick burners and the carved roof beams. The priests say the snakes have lived in the temple since shortly after it was built and have never attacked a worshipper.

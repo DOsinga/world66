@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.7352
 longitude: -106.4812
+score: 5.8
 ---
 
 The taco stands that appear in the late afternoon and evening across Juárez are an institution. The style here is northern: flour tortillas rather than corn, filled with carne asada, al pastor cooked on a vertical spit, or tripas (tripe) for the adventurous. The street stands near the Pronaf zone and along the older commercial streets of downtown set up after 6pm and run until midnight.

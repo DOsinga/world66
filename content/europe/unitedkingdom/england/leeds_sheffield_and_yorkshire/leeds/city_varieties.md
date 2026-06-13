@@ -13,6 +13,7 @@ story: >
   The Good Old Days ran here for 30 years on the BBC from 1953 to 1983. Audiences dressed in
   Victorian costume to watch music hall acts perform in the original Victorian setting. The programme
   was compulsive Sunday evening viewing for a generation and made the theatre nationally famous.
+score: 8.1
 ---
 
 The Leeds City Varieties is a Grade II* listed music hall built in 1865, one of the best-preserved Victorian variety theatres in Britain. The intimate gilded interior, with its balconies, ornate plasterwork, and original stage, feels like stepping directly into the Victorian era. The theatre was built as part of the White Swan Inn and operated as a music hall from the start, hosting comedians, singers, magicians, and novelty acts.

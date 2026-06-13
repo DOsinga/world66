@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The compact main square in front of the colonial church
+score: 5.5
 ---
 
 The plaza is a small rectangle of lawn and flame trees directly in front of Santiago Apóstol Church, ringed by the city hall, a few municipal buildings and a row of bakeries and shops. In the late afternoon it fills with families, students from the nearby colleges and tricycle drivers waiting for fares — the easiest place in town to sit and watch life go by.

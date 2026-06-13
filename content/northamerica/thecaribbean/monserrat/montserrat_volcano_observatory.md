@@ -14,6 +14,7 @@ story: >-
   people in surrounding farms. The continuous monitoring is what allows the
   island's exclusion zone to be opened and closed safely on a day-to-day
   basis.
+score: 9.2
 ---
 
 The MVO is the working volcano observatory perched on a ridge in Flemming, on the safe northern side of the island, with a direct line of sight across the Belham Valley to the Soufrière Hills crater. It serves both as the scientific monitoring centre — seismometers, gas sensors, satellite radar, ground-deformation arrays — and as the public face of the volcano via a visitor centre, a viewing platform, and a 25-minute documentary about the eruptions since 1995.

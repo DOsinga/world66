@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -5.6653
 longitude: 176.1125
+score: 7.4
 ---
 
 Nanumea Island is the main and most populated of the atoll's two islands, a curving strip of coral and palm forest about seven kilometres long on the western rim of the lagoon. Almost everyone on the atoll lives here, in the village cluster of Lolua and the smaller settlements of Mataluafata, Matagi, Hauma, and Haumaefa strung along the lagoon shore.

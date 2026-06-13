@@ -6,6 +6,7 @@ tags:
 - museum
 title: MGC Asian Traditional Textiles Museum
 type: poi
+score: 6.2
 ---
 
 **The MGC Asian Traditional Textiles Museum** on the road to Angkor is a genuinely worthwhile specialist museum, covering the textile traditions of India, China, and Southeast Asia. The collection focuses on the Mekong-Ganga corridor — the ancient cultural highway between the Indian subcontinent and the great river civilisations of Southeast Asia — with particular attention to how weaving traditions, dye techniques, and symbolic patterns travelled and transformed along this route. Khmer silk, Indian ikat, and various regional textiles are displayed alongside explanatory materials on production methods.

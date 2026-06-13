@@ -15,6 +15,7 @@ story: >
   enough to surf on — though they don't let visitors try.
 sources:
   - https://en.wikipedia.org/wiki/COSI_Columbus
+score: 8.3
 ---
 
 COSI is one of the best science museums in the Midwest and one of the few things in Columbus that legitimately justifies a special trip. The exhibits are genuinely interactive — you can walk across a high wire on a special balance bicycle, explore a recreated ocean, and handle real moon rocks. The space exhibit and the life sciences wing are highlights; the energy exhibit has enough hands-on machinery to keep adults engaged as long as kids.

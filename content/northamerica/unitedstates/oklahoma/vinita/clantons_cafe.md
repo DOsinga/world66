@@ -12,6 +12,7 @@ story: >
   chicken fried steak has appeared in Gourmet Magazine, Southern Living, and
   on Guy Fieri's Diners, Drive-Ins and Dives, but the prices haven't changed
   to match the attention.
+score: 7.2
 ---
 
 Clanton's Cafe is the real deal — a Route 66 institution that hasn't been prettified for tourists, hasn't raised prices to match its fame, and still serves the same chicken fried steak that has won it fans since the 1920s. The interior has the well-worn look of a place that has been feeding people every day for a century: formica countertops, vinyl booths, and a menu that covers all the bases of Oklahoma diner cooking.

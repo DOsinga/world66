@@ -7,6 +7,7 @@ tags:
 latitude: 34.4170
 longitude: -118.5110
 snippet: The world's largest aviation film studio — where all those movie plane scenes are shot
+score: 7.3
 ---
 
 Air Hollywood is the largest aviation film studio in the world, and the reason nearly every airplane scene in Hollywood's last forty years of movies looks the same: the same cramped cabin, the same overhead bins, the same emergency exit row. Films from *Cast Away* to *Snakes on a Plane* to *Bridesmaids* were shot here, using meticulously detailed mock-ups of Boeing and Airbus interiors built specifically for filming.

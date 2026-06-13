@@ -10,6 +10,7 @@ longitude: -83.3745
 story: "Founded in 1785, the University of Georgia was the first state-chartered university in the United States. The original North Campus, laid out in the early 1800s, is one of the best-preserved examples of nineteenth-century collegiate architecture in the American South, with a canopied arch that serves as the ceremonial gateway between town and gown."
 sources:
   - https://en.wikipedia.org/wiki/University_of_Georgia
+score: 8.5
 ---
 
 The University of Georgia occupies a large campus that begins just a few blocks from downtown and spreads south toward the Oconee River. The oldest part of campus — North Campus — is the place to walk: a shaded landscape of Federal and Greek Revival buildings centered on the old Chapel and the famous arch, which serves as the symbolic entrance to the university. UGA was chartered in 1785, making it the oldest state-chartered university in the country.

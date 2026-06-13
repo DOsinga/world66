@@ -18,6 +18,7 @@ story: >
   Masonic charters west from Connecticut. The building served the lodge for over
   a century before the fraternal body outgrew it and a larger hall was built
   nearby.
+score: 6.1
 ---
 
 The New England Lodge on East New England Avenue is a modest two-story Federal building that stands as one of the most historically significant structures in Worthington. Built in 1820, it served as the meeting hall for New England Lodge No. 4, one of the earliest Masonic lodges established in Ohio, and is widely regarded as the oldest surviving Masonic temple west of the Allegheny Mountains.

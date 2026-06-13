@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Free nature reserve along Sand Creek with bird-watching and easy trails
+score: 6.3
 ---
 
 Tucked into the Star K Ranch park complex in north-eastern Aurora, the Morrison Nature Center is a small free visitor centre with a serious focus on the Sand Creek riparian corridor that runs alongside it. Hands-on exhibits explain the prairie and wetland ecosystems, and a herd of small live animals — turtles, snakes, raptors — is kept for educational programs.

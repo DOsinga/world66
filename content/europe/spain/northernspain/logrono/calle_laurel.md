@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.4664
 longitude: -2.4479
+score: 8.6
 ---
 
 Calle Laurel and the cluster of streets around it — particularly Calle San Juan and Calle Travesía de Laurel — constitute one of Spain's great bar-crawl districts. The system is simple: you move from bar to bar with friends, ordering a glass of Rioja and a pintxo (a small tapa on a piece of bread) at each stop, paying almost nothing, and continuing until everyone has eaten their fill. The social ritual is called the "poteo" and it is taken very seriously by Logroño residents.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Villa Primavesi
 type: poi
+score: 7.4
 ---
 
 The Villa Primavesi, on the road that climbs from the old town toward the cathedral, is the finest secessionist building in Moravia. It was built in 1905 for the banker Otto Primavesi, with interiors and additions by Josef Hoffmann and Anton Hanak of the Wiener Werkstätte during the family's brief period of high-Viennese taste.

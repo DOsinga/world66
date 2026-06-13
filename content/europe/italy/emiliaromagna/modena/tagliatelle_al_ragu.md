@@ -5,6 +5,7 @@ tags: [eating_out, restaurant]
 snippet: "Massimo Bottura's more accessible second restaurant — creative Italian food without the three-star waiting list"
 latitude: 44.6392
 longitude: 10.9185
+score: 6.6
 ---
 
 Franceschetta 58, on Viale Abramo Lincoln, is Massimo Bottura's more casual venture — still creative and ingredient-driven, but without the months-long waiting list and four-figure price tags of Osteria Francescana. The menu changes frequently, drawing on local Emilian tradition but with the same playful, thinking-cook's approach. A meal here costs a fraction of the flagship and the atmosphere is bistro rather than temple.

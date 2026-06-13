@@ -7,6 +7,7 @@ tags:
   - sight
 title: Mirisawetiya Vihara
 type: poi
+score: 7.7
 ---
 
 The Mirisawetiya is a substantial dagoba on the bank of the Tissa Wewa, the great ancient reservoir on the western side of the sacred city. King Dutugemunu built it in the 2nd century BC after his victory over the South Indian king Elara, fulfilling a vow he had made to dedicate his royal sceptre — said to contain a Buddha relic — to a stupa before he ate even a chilli (miris). Hence the name, which translates roughly as "the chilli stupa."

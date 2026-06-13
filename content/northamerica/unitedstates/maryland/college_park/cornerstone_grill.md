@@ -12,6 +12,7 @@ tags:
 - bars_and_cafes
 title: Cornerstone Grill and Loft
 type: poi
+score: 3.2
 ---
 
 College Park's largest sports bar, with 17 high-definition televisions and two 10-foot projectors showing NFL, NCAA football, and basketball. The Loft on the second floor has a more relaxed atmosphere with pool tables and is available for private hire. Located at the corner of US Route 1 and Knox Road in downtown College Park, close to the University of Maryland campus.

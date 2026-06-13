@@ -8,6 +8,7 @@ tags:
   - restaurant
   - blloku
 neighbourhood: Blloku
+score: 6.3
 ---
 
 Mediterranean and Albanian small plates, a long natural-wine list, and an open-fire grill at the centre of the room. Salt has been one of the most reliable Blloku restaurants for the last few years; the menu changes weekly with what is in season and the kitchen leans toward simple, well-sourced food.

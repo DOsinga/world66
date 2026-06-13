@@ -7,6 +7,7 @@ tags:
 snippet: "Massive Mughal-era fortress dominating Peshawar's skyline — now a military base"
 latitude: 34.0157
 longitude: 71.5797
+score: 7.2
 ---
 
 The great red-brick fortress that has defined Peshawar's skyline for five centuries. Babur occupied and fortified the site in the early 16th century; the Mughals expanded it; the Sikhs under Ranjit Singh rebuilt much of what stands today in the early 19th century. The name means "High Fort" in Persian, and from the walls you can see the entire old city spread below.

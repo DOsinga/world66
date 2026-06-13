@@ -13,6 +13,7 @@ story: >
   The Niger Inland Delta, which begins near Ségou and spreads into an enormous maze of 
   channels, lakes, and floodplains upstream, is one of the most important wetland ecosystems 
   in Africa, supporting millions of people and an extraordinary concentration of birds.
+score: 8.3
 ---
 
 The banks of the Niger at Segou are the best place to sit and absorb the river city's rhythm. Pirogues (wooden canoes) ferry people and goods across the water, fishermen work the shallows with nets, and the light on the river at sunset is remarkable. The embankment near the port area is the heart of daily life in the city, and watching the activity on and around the water is as good as any formal sight.

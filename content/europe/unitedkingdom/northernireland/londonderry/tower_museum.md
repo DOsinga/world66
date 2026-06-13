@@ -12,6 +12,7 @@ story: >
   judges cited the way it managed to tell the story of the Troubles without
   taking sides, presenting the perspectives of both the nationalist and unionist
   communities with equal seriousness.
+score: 8.7
 ---
 
 The Tower Museum in Union Hall Place, just inside the city walls, tells the full story of Derry from its sixth-century foundation by St Columba through the plantation era, the 1689 siege, and the twentieth-century conflict. It won European Museum of the Year in 1993 and remains one of the best local history museums in Ireland.

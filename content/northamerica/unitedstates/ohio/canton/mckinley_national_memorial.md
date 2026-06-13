@@ -15,6 +15,7 @@ story: >
   a handkerchief in his right. The assassination prompted Congress to formally
   assign the Secret Service to permanent presidential protection — a duty
   it had previously held only during wartime.
+score: 7.7
 ---
 
 The McKinley National Memorial is the tomb and monument to William McKinley, 25th President of the United States, buried here alongside his wife Ida and their two infant daughters. The pink Milford granite dome rises over Monument Park on a hill above the city, reached by a formal staircase of 108 steps. The structure was completed in 1907, six years after McKinley's assassination.

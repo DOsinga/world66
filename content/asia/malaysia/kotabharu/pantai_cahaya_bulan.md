@@ -12,6 +12,7 @@ story: >
   judging the original name too suggestive. Most locals still use "PCB." The renaming made
   international news and became a symbol of the tensions between Kelantan's traditional culture
   and its political conservatism.
+score: 7.1
 ---
 
 Pantai Cahaya Bulan is Kota Bharu's most famous beach, about 10 kilometres north of the city centre. The sand is powdery and the sea is a vivid turquoise, but the currents along this stretch of coast are strong — swimming can be dangerous, particularly between November and March when the northeast monsoon brings heavy surf. The beach is better enjoyed for what it is: a beautiful place to walk, watch fishermen haul in their nets, and eat fresh seafood from the stalls that line the shore.

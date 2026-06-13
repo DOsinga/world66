@@ -12,6 +12,7 @@ story: >
   several tonnes, which the Sultan rode through the streets of BSB surrounded
   by thousands of cheering Bruneians. The chariot required such careful
   engineering that it was built in the UK and shipped to Brunei in pieces.
+score: 7.9
 ---
 
 The Royal Regalia Museum is free to enter and holds a remarkable collection of ceremonial objects belonging to the Sultan of Brunei — the world's wealthiest head of state. The collection includes the coronation regalia, the royal chariot, gifts from foreign heads of state, and a recreation of the throne room. It is less stuffy than it sounds.

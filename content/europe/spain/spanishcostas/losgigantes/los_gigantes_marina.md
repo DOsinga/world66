@@ -8,6 +8,7 @@ tags:
   - sight
 title: Los Gigantes Marina
 type: poi
+score: 6.8
 ---
 
 Los Gigantes Marina is the resort's practical centre, squeezed between the cliff-backed beach and the steep streets above. Excursion boats, sailing trips, diving operators, and whale-watching tours all work from here.

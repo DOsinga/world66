@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Robinsons
 type: poi
+score: 3.8
 ---
 
 Robinsons was one of Singapore's oldest and most iconic department stores, with roots going back to 1858. For over 160 years, it was a fixture of Singapore's retail landscape, surviving fires, wars, and countless reinventions. The flagship store at Centrepoint on Orchard Road was where generations of Singaporeans shopped for everything from fashion to homewares.

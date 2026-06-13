@@ -15,6 +15,7 @@ tags:
   - sight
 title: Church of Boris and Gleb, Kideksha
 type: poi
+score: 7.7
 ---
 
 The Church of Boris and Gleb stands in the village of Kideksha, about 4 kilometres east of Suzdal at the confluence of the Kamenka and Nerl rivers. Built in 1152 on the orders of Prince Yuri Dolgoruky, it is one of the oldest surviving stone buildings in Russia — a small, spare white structure in the Vladimir-Suzdal Romanesque style, with simple carved decoration and thick walls that have kept it standing for nearly 900 years.

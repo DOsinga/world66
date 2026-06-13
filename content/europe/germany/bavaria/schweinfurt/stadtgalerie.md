@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.0475
 longitude: 10.2329
+score: 5.8
 ---
 
 The Stadtgalerie is Schweinfurt's municipal gallery, showing a programme of contemporary and modern art exhibitions in the centre of the old town. It's less impressive than the Georg Schäfer Museum but presents a livelier programme of current work and is worth a quick look if you're spending more than a few hours in the city.

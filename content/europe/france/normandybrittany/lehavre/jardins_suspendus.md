@@ -12,6 +12,7 @@ snippet: "Clifftop gardens with panoramic views over the Seine estuary."
 story: >
   Monet's most celebrated early work, "Terrace at Sainte-Adresse" (1867), shows the clifftop gardens here with ships in the Channel beyond. The painting now hangs in the Metropolitan Museum of Art in New York. The fort that once occupied the site was demolished after WWI, and the city transformed the grounds into public gardens, planting the terraces that Monet recognised.
 neighbourhood: Sainte-Adresse
+score: 6.9
 ---
 
 The "Hanging Gardens" occupy the old Fort de Sainte-Adresse on the clifftop above the city, with panoramic views over the Seine estuary and the English Channel. The gardens are divided into thematic sections — Mediterranean, Japanese, kitchen garden — and are beautifully maintained. On a clear day you can see the chalk cliffs of the Côte d'Albâtre stretching north toward Étretat.

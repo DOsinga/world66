@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8320
 longitude: 119.4850
+score: 6.1
 ---
 
 The central beach at Beidaihe stretches for about three kilometres along the Bohai Sea, with pale sand and shallow, calm water that is safe for children. The bottom shelves gently, and you can wade a long way out before the water reaches your chest. By Chinese coastal standards, the beach is clean and reasonably well managed, though in July and August it fills with families from Beijing and beyond and the crowds can be intense.

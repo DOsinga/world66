@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.4343
 longitude: -86.8775
+score: 5.7
 ---
 
 Comedor Lucía is the kind of place León does best — a family-run lunch spot serving simple Nicaraguan food at prices that feel almost offensively cheap. The menu changes daily but typically features two or three options: rice and beans, a stewed meat, a fried protein, and whatever vegetable is available. The soup is always good.

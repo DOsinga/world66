@@ -6,6 +6,7 @@ longitude: 15.2418
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Ficogrande is the longest beach on the island, a strip of black volcanic sand and pebbles immediately north of the village. The water shelves quickly so swimmers can be in their depth a few strokes from shore; in the morning the beach is mostly empty, and by early afternoon half the island has wandered down.

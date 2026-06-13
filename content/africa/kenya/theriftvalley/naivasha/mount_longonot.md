@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   Mount Longonot last erupted in the 1860s — recent enough that the lava flows on its flanks are still largely bare of vegetation, giving the volcano a stark, moonlike appearance from the Nairobi highway below. The Maasai called it Oloonong'ot, meaning "mountain of many spurs," for the deep ravines that radiate from the central cone. When you hike the crater rim, you look down into a vast caldera filled with dense forest — a different ecosystem entirely from the dry scrub on the outer slopes.
+score: 8.5
 ---
 
 Mount Longonot, a dormant stratovolcano rising 2,776 metres above sea level, is the most visible landmark in this part of the Rift Valley. From the Naivasha area you can see it clearly to the southeast, its symmetrical cone rising above the flat valley floor. The hike to the crater rim and around it is one of the better half-day walks available from Nairobi without a long drive.

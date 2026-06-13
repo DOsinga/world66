@@ -13,6 +13,7 @@ story: >
   agility despite having the largest wingspan-to-body-weight ratio of any bird. During mating season,
   males inflate their vivid crimson throat pouches like small balloons to attract females circling
   overhead.
+score: 8.6
 ---
 
 The Codrington Lagoon on Barbuda's western side holds one of the largest frigate bird colonies in the western hemisphere, with several thousand birds nesting in the mangroves each season. The best time to visit is from September through February, when males are displaying their inflated red throat pouches as part of the mating ritual — a sight that is as surreal as it sounds.

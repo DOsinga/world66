@@ -12,6 +12,7 @@ story: >
   condition; you pay one flat admission and play unlimited games. Some of the
   rarest cabinets — a 1947 Humpty Dumpty, a working bingo-style machine from
   the 1960s — are not always set to play but are kept on display.
+score: 6.9
 ---
 
 Half museum, half arcade, the Silverball is a generous warehouse of playable pinball and a few classic video machines on Atlantic Avenue near A1A. Unlike most pinball collections, everything is unlocked: pay the door fee (around $20 for unlimited play) and you can spend the afternoon working through Bally classics, Williams' golden-age tables, and modern Stern productions like Iron Maiden and Godzilla.

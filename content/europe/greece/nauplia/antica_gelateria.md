@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 37.5663
 longitude: 22.7976
+score: 5.4
 ---
 
 Run by an Italian couple from the Marche who arrived twenty years ago and never went back, this small gelateria on Farmakopoulou Street makes some of the best ice cream in Greece — proper Italian style, with seasonal fruit flavours from the Argolid and a pistachio that holds its own against anything in Sicily.

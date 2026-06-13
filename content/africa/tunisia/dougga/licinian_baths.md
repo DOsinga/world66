@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The Licinian Baths are the larger of Dougga's two surviving bath complexes — a 3rd-century AD facility donated to the city by the Licinii family. The plan is impressive: a frigidarium with cold-water plunge pools, a tepidarium, a caldarium with under-floor heating, a sequence of dressing rooms, and a colonnaded courtyard.

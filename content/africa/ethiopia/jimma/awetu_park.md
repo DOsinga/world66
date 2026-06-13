@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.6683
 longitude: 36.8360
+score: 5.9
 ---
 
 Awetu Park follows the course of the Awetu River through the city and is the main green space in central Jimma. The Italian colonial administration laid out the original town along this river in the 1930s, and the park has been the lungs of the city ever since. It is a working park — used by joggers, families, and students from the nearby university — rather than a formal botanical display.

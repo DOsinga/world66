@@ -8,6 +8,7 @@ story: >
   Old Town developed slightly later than Twickenham and has a more mixed architectural heritage as a result — Federal and Greek Revival sit alongside Victorian-era cottages and early 20th-century bungalows. The neighbourhood was the city's main residential expansion after the Civil War, and its mix of styles maps the decades of Huntsville's slow recovery from Reconstruction more honestly than the grander antebellum streets to the south.
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_Historic_District_(Huntsville,_Alabama)
+score: 6.7
 ---
 
 Old Town Historic District sits north of the courthouse square and forms the second designated historic district in Huntsville. Added to the National Register of Historic Places in 1984, it spans roughly ten blocks and contains a varied collection of 19th and early 20th-century residential architecture ranging from modest worker cottages to substantial Victorian homes with wraparound porches. The scale is more intimate than Twickenham — wider variety, less uniform grandeur.

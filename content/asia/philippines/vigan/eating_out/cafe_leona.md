@@ -1,6 +1,7 @@
 ---
 title: "Café Leona"
 type: poi
+score: 6.8
 ---
 
 Café Leona occupies one of the most prominent heritage buildings on Calle Crisologo — a restored bahay na bato on the corner of the street, with tables on an upper-floor balcony that looks directly down onto the cobblestones below. It is the best-known restaurant in Vigan and the one most visitors end up at, which means it can be busy in the middle of the day but is reliably good at all hours.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
 story: "The collection started as one private hobby — Patricia Arnell spent over forty years acquiring miniature houses and accessories before opening this museum to the public in 2009. The largest piece is a fully detailed castle scaled at one inch to one foot, built over decades by a single craftsman."
+score: 6.9
 ---
 
 A genuinely strange and rewarding small museum on the city's east side, devoted entirely to miniature houses, dioramas and fantasy scenes — over 500 historical room boxes, dollhouses and Christmas displays, some made over decades by master miniaturists.

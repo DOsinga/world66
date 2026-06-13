@@ -14,6 +14,7 @@ story: >
   crew. When the Governor of Portuguese India sent a larger armada, she was finally
   betrayed — legend says for a casket of silver. She was captured but never surrendered,
   continuing to fight even in captivity until her death.
+score: 7.2
 ---
 
 The ruins associated with Queen Abbakka Chowta — the Jain temple at Melangadi she patronised and the remains of her palace, marked by a small moat to the south of the town — are modest by the standards of major historical sites, but the story attached to them is one of the more extraordinary in Karnataka's history. Abbakka Rani ruled Ullal in the 16th century and held off the Portuguese repeatedly at a time when virtually no coastal ruler in India was capable of doing so.

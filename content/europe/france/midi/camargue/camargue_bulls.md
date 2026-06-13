@@ -11,6 +11,7 @@ story: >
   The Course Camarguaise is the local version of bullfighting practised across the Camargue and Languedoc — but unlike Spanish corrida, the bull is not killed. The object is for a raseteur (competitor) to remove a cocarde (rosette) tied between the bull's horns using a small hook held between the fingers. The best bulls are celebrated for years and sometimes have their portraits on local restaurants.
 sources:
   - https://en.wikipedia.org/wiki/Camargue_cattle
+score: 7.0
 ---
 
 The black Camargue bull is the other iconic animal of the delta, as much part of the landscape as the white horses and the flamingos. The herds are managed by gardians — traditional cowboys who work on horseback, using the same methods their predecessors used for centuries. The manades (herds) roam semi-wild across the marshes and are visible from the roads, especially in the early morning.

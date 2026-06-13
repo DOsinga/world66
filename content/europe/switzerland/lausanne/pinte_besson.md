@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Pinte Besson
 type: poi
+score: 7.4
 ---
 
 Pinte Besson claims to be the oldest tavern in Lausanne, and the interior makes the claim believable: low ceilings, dark wood, and a slightly chaotic arrangement of tables that suggests centuries of use. It has been serving wine, fondue, and Vaud specialities since around 1780.

@@ -15,6 +15,7 @@ story: >
   bats simultaneously pour out to feed. The two streams pass each other in the
   cave mouth without collision. It is one of the more extraordinary natural
   spectacles in northern Thailand, and entirely free to watch.
+score: 8.9
 ---
 
 Tham Lot is one of the largest and most impressive cave systems in Thailand — a 1,666-metre river cave that the Nam Lang stream flows through before disappearing underground. The cave has three main chambers of cathedral proportions, filled with stalactites, stalagmites, and ancient teak coffins left by the region's prehistoric inhabitants. Guides with kerosene lanterns lead visitors through the cave, which is partially navigated by bamboo raft on the stream.

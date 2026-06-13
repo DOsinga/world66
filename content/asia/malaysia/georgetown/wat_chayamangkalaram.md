@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - temple
+score: 7.8
 ---
 
 Wat Chayamangkalaram is the city's main Thai Buddhist temple, founded in 1845 on land granted by Queen Victoria to the Thai community in Penang. It sits in Pulau Tikus, a quiet north-western neighbourhood about ten minutes by Grab from the centre, and houses a 33-metre reclining Buddha said to be the third-largest in the world. The statue, gilded gold and lying on a richly decorated platform, takes up most of the main hall — visitors walk around it to reach the urns and small altars at the far end.

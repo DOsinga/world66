@@ -7,6 +7,7 @@ tags:
 latitude: 62.090833333333336
 longitude: -7.3675
 story: "The small white church at Bøur dates from 1865 and replaced an older turf church on the same site. The churchyard contains graves dating back centuries; the tradition of burying the dead within sight of the sea, common across the Faroes, is particularly vivid here with the fjord visible on three sides."
+score: 8.3
 ---
 
 The village of Bøur is one of the most intact examples of traditional Faroese settlement: a cluster of turf-roofed stone and timber houses around a small white church, with a waterfall dropping into the settlement near the churchyard. About 70 people live here year-round.

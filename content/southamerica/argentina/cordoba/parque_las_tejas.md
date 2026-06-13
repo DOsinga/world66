@@ -9,6 +9,7 @@ tags:
 latitude: 31.4310
 longitude: -64.1842
 neighbourhood: Nueva Córdoba
+score: 5.4
 ---
 
 A long, open green space stretching south from Sarmiento Park, popular with joggers, dog walkers, and weekend picnickers. It is also the main outdoor venue for Córdoba's annual book fair, concerts, and political rallies — its open sightlines make it a favoured rally ground.

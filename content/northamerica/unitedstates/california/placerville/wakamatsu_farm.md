@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.7450
 longitude: -120.8100
+score: 8.1
 ---
 
 The Wakamatsu Tea and Silk Farm, established in 1869 about 5km north of Placerville at Gold Hill, is believed to have been the first permanent Japanese settlement in North America. A group of Japanese colonists arrived from Aizu, in northern Japan — recent refugees from the Boshin War, the civil war that ended the samurai era — bringing tea plants, silk cocoons, bamboo, and the knowledge of sericulture.

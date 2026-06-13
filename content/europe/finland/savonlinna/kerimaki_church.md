@@ -10,6 +10,7 @@ title: Kerimäki Church
 type: poi
 snippet: The largest wooden church in the world, 30 km east of Savonlinna
 story: When Kerimäki Church was built in 1847 the original drawings called for measurements in feet — the Finnish builders read them as metres and constructed an enormous building that seats 3,400 people, well beyond what the small farming parish ever needed. The truth of that story is debated by historians, but the church is still the largest of its kind in the world.
+score: 7.8
 ---
 
 Kerimäki Church sits in a small village 30 km east of Savonlinna and is a remarkable sight: a vast wooden cathedral on a Finnish country roadside, painted yellow with white trim, with seating for 3,400 people in a parish of barely a few thousand. The Neo-Classical design is by the German architect Anders Granstedt; the building was finished in 1847.

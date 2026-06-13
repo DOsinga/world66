@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 37.5611
 longitude: 15.1639
+score: 7.4
 ---
 
 Aci Trezza is a small fishing village about ten kilometres north-east of Catania, famous for the basalt sea stacks just offshore — the Faraglioni dei Ciclopi, said in Homer to be the rocks thrown by the blinded Polyphemus at the fleeing Odysseus.

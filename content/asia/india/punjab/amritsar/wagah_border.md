@@ -7,6 +7,7 @@ tags:
 latitude: 31.6042
 longitude: 74.5728
 snippet: Theatrical flag-lowering showdown between India and Pakistan
+score: 7.8
 ---
 
 Every evening at sunset, Indian and Pakistani border guards perform an elaborate flag-lowering ceremony at the Wagah crossing — the only land border between the two countries open to civilians. The drill involves high kicks, aggressive marching, staring contests, and synchronized flag furling, all performed to the roars of partisan crowds on both sides of the gate.

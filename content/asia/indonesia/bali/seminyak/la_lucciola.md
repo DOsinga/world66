@@ -7,6 +7,7 @@ address: Jl. Petitenget, Seminyak
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 La Lucciola is the long-running Italian beach restaurant directly opposite Pura Petitenget — open since the early 1990s and still the choice for a good Italian dinner on the sand. The dining room is a tall open-sided pavilion with a thatched roof, looking straight out over the beach.

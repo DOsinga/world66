@@ -6,6 +6,7 @@ tags:
 - museum
 title: Angkor National Museum
 type: poi
+score: 8.7
 ---
 
 The **Angkor National Museum** on Charles de Gaulle Avenue opened in 2007 and provides an excellent contextual introduction to the temples for visitors who want to understand what they are looking at before heading to the archaeological park. Eight themed galleries trace the history and culture of the Khmer Empire, from its pre-Angkorian origins through the height of the classical period. The centrepiece is the **Gallery of a Thousand Buddhas**, a dramatic space displaying over 1,000 Buddha images of varying sizes, periods, and styles.

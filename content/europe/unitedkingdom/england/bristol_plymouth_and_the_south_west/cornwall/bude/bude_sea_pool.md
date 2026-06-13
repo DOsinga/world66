@@ -14,6 +14,7 @@ tags:
 - swimming
 title: Bude Sea Pool
 type: poi
+score: 8.3
 ---
 
 The Bude Sea Pool is a partially man-made tidal swimming pool cut into the rocks at the north end of Summerleaze Beach. Built in the 1930s, it fills and drains with each tide cycle, ensuring the water is constantly refreshed with seawater from the Atlantic. The pool is free to use and open year-round, though it is at its most pleasant in summer when the seawater temperature reaches 16–18°C. In winter, a dedicated community of cold-water swimmers uses it regularly.

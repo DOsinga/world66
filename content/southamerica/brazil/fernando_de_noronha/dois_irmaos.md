@@ -11,6 +11,7 @@ story: >
   The two volcanic towers of Dois Irmãos have been landmarks for Atlantic navigators for centuries. They appear on early Portuguese charts of the island, and sailors used their distinctive profile to orientate themselves when approaching from the open ocean. Today they are the unofficial symbol of Fernando de Noronha, visible from most of the main beaches and from the air as you approach on the small Noronha airport runway.
 sources:
   - https://en.wikipedia.org/wiki/Fernando_de_Noronha
+score: 8.2
 ---
 
 Dois Irmãos — Two Brothers — are twin volcanic rock pinnacles rising from the sea at the western tip of the main island. The towers are about 90 metres tall, their sheer faces stripped of everything except the hardest rock, and they cast long shadows across the beach and bay below in the late afternoon.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "Two rusted US Navy M4 Sherman tanks sit on the sand at the eastern end of the beach, abandoned after the Navy used Flamenco as a bombing range until 1975. Local protests, sparked when a fisherman was killed by stray ordnance, eventually drove the military out — and the tanks were left as monuments to the campaign."
+score: 9.6
 ---
 
 A long crescent of fine white sand on the north coast, backed by green hills, with calm turquoise water that shelves gently into a sheltered bay. Flamenco is consistently rated among the best beaches in the Caribbean, and on a weekday in shoulder season you can have long stretches of it to yourself. On summer weekends, ferries from Fajardo bring crowds.

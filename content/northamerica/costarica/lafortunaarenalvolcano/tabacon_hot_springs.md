@@ -6,6 +6,7 @@ latitude: 10.4880
 longitude: -84.7224
 story: >
   Tabacón was built on land that the 1968 volcanic eruption made uninhabitable, and the original town of Tabacón was destroyed in the blast. The resort that now occupies the site takes its name from the lost village — and sits directly on the same geothermally active zone that makes the springs possible. The thermal water that fills the pools is the same water that the 1968 eruption heated and that has been flowing ever since.
+score: 7.9
 ---
 
 Tabacón is the flagship hot spring resort near La Fortuna, located 12 km northwest of town on the road toward Nuevo Arenal and the volcano. Thermal pools fed by geothermally heated water range from warm to near-scalding, winding through tropical gardens with the Arenal cone visible on the hillside above when the clouds cooperate. The resort complex has multiple pools at different temperatures, natural waterfalls, waterslides, and a swimup bar.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "One of the largest waterfalls by volume in North America, largely hidden behind a century of industry"
 story: "Willamette Falls is the second largest waterfall by volume in the United States — outdone only by Niagara. For the Indigenous Clackamas people, it was one of the most important salmon-fishing sites in the Pacific Northwest. When settlers arrived, they immediately built mills at the falls, obscuring it behind industrial works that have blocked public access for more than a century. Restoration efforts are ongoing."
+score: 7.8
 ---
 
 The Willamette Falls is a broad, horseshoe-shaped waterfall on the Willamette River, about 1.5 km from downtown Oregon City. It is one of the largest waterfalls by volume in North America — wider and more powerful than its modest fame might suggest. For most of its industrial history, the falls have been hidden behind paper mills, locks, and other works, and public access has been severely limited.

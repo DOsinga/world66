@@ -10,6 +10,7 @@ tags:
 - stare_mesto
 title: Rudolfinum
 type: poi
+score: 8.6
 ---
 
 The Rudolfinum, built in 1885, stands on Jan Palach Square facing the Vltava, its neo-Renaissance colonnaded facade one of the finest 19th-century buildings in Prague. It serves as both Prague's principal concert venue — the Czech Philharmonic plays here — and a gallery of contemporary art, the Galerie Rudolfinum, in its north wing.

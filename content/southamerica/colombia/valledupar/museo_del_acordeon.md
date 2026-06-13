@@ -12,6 +12,7 @@ story: >
   and indigenous guacharaca music to create something entirely new. Valledupar
   was the crucible where this happened — a port-of-entry city at the base of
   the Sierra Nevada where all three populations met.
+score: 7.1
 ---
 
 The Casa Museo del Acordeon is a small museum dedicated to the history of the accordion in vallenato music and the story of the great masters — from Francisco el Hombre through Carlos Vives. The collection includes antique accordions, photographs, recordings, and an account of the instrument's journey from European workshops to the Caribbean coast of Colombia.

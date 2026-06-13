@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.6031
 longitude: -3.1329
+score: 7.4
 ---
 
 The town's general-purpose museum, in Fitz Park, covering local history, geology, and the Lakeland literary set. The collection has the eccentric, semi-curated feel of a Victorian gentleman's cabinet — taxidermy, a flintlock pistol that once belonged to a local highwayman, manuscript poems by Southey and Coleridge, a fossilised ichthyosaur from the Whitehaven coast.

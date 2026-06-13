@@ -8,6 +8,7 @@ latitude: 31.905
 longitude: 35.2044
 sources:
   - https://en.wikipedia.org/wiki/Al-Manara_Square
+score: 6.7
 ---
 
 Al-Manara Square is the central hub of Ramallah, a busy traffic circle around which the city's commercial and social life revolves. The square takes its name from a lighthouse-like structure at its centre (manara means lighthouse in Arabic), though the current column and lion sculptures are a modern replacement. On almost any given day and evening, the square is crowded with pedestrians, taxis, and vendors.

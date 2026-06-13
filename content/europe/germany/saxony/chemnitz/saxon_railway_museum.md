@@ -9,6 +9,7 @@ longitude: 12.967778
 snippet: Locomotives and rolling stock from the Saxon railway network, on an active heritage site
 story: >
   Saxony had one of the most extensive narrow-gauge railway networks in Europe — the famous Saxon narrow-gauge railways that wound through the Erzgebirge and the Elbsandsteingebirge. The museum preserves locomotives and carriages from this network alongside standard-gauge material. On open days, steam engines run in the yard — the smell and noise of a working steam depot, not a glass-case display.
+score: 7.3
 ---
 
 The Saxon Railway Museum occupies a former locomotive depot in the Hilbersdorf district in the northeast of the city, one of the few surviving round-house engine sheds in Saxony. The collection focuses on Saxon and East German railway history, with a particular strength in narrow-gauge material.

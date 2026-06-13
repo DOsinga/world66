@@ -10,6 +10,7 @@ title: Presidential Palace
 type: poi
 story: >
   In December 2008, hours after the death of long-ruling Lansana Conté, a young captain named Moussa Dadis Camara seized control of the palace and declared a military government. The coup was the third major one in Guinea's post-independence history; the palace itself has been stormed, shelled and re-occupied repeatedly.
+score: 5.5
 ---
 
 The Palais Sékhoutoureya — known formally as the Palais des Nations — is the official residence and working office of the Guinean president, on the western waterfront of the old Kaloum peninsula. It was built under President Sékou Touré in the 1970s with North Korean assistance, and the long, low concrete facade with its repeating arches has the brutalist-meets-tropical-modernist look common to West African state architecture of the era.

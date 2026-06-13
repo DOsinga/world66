@@ -13,6 +13,7 @@ story: >
   what had been a mountain valley slowly filled to become a lake 45 kilometres
   long. The lava dam is still there, at the northern end — that is what the
   river falls over at Diaoshuilou.
+score: 7.8
 ---
 
 The volcanic origins of Jingpo Lake are visible throughout the National Forest Park, and exploring them gives the landscape a second dimension beyond the scenery. Lava caves, basalt columns, and solidified lava flows in unusual forms are scattered through the forest along the park's trail network. The Huoshu (Fire Tree) crater area to the north of the lake is the most concentrated volcanic feature — a series of craters and lava formations from the eruptions that created the lake, with good views over the surrounding forest from the higher points.

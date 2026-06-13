@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 17.252148
 longitude: -88.768681
+score: 6.1
 ---
 
 The national archive of Belize, located in the government quarter of Belmopan. The collection spans colonial records, land grants, court documents, and official correspondence dating back to the British settlement era. Researchers and genealogists working on Belizean family or property history will find this an indispensable stop.

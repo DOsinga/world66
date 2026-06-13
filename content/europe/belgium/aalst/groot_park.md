@@ -7,6 +7,7 @@ tags:
 - park
 title: Groot Park
 type: poi
+score: 5.5
 ---
 
 Just south of the historic centre, Groot Park (officially Park Schepen de Wolf) is Aalst's main green lung. It's a 19th-century landscaped park around a long pond, with curving paths, mature trees, and a small bandstand.

@@ -11,6 +11,7 @@ story: >
   The Tsaatan — whose name means "those who have reindeer" in Mongolian — are one of the last communities of nomadic reindeer herders in the world. Fewer than 500 people still live this way, moving their tepee camps seasonally across the taiga as their reindeer require fresh pasture.
 sources:
   - https://en.wikipedia.org/wiki/Tsaatan_people
+score: 8.5
 ---
 
 The Tsaatan (Dukha) people live in the taiga north of Lake Khövsgöl, in the Darhad Valley and the mountains along the Russian border. A visit to a Tsaatan camp — typically reached by horse from Khatgal over two to four days — offers a glimpse of one of the world's most distinctive ways of life: small family groups living in traditional tepees (ortz), their lives organised entirely around their reindeer herds.

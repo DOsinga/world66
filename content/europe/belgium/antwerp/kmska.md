@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 snippet: Royal Museum of Fine Arts — one of the great collections of Flemish painting
+score: 9.0
 ---
 
 The city's main art museum, reopened in 2022 after eleven years of renovation. The collection covers Flemish painting from the early masters — Jan van Eyck, Hans Memling, Rogier van der Weyden — through Rubens, Van Dyck, Jordaens, and the modern Belgian symbolists Ensor and Spilliaert. The renovation gutted and rebuilt the interior, adding a vast new white-cube wing behind the 19th-century facade, doubling the display space.

@@ -6,6 +6,7 @@ longitude: -84.9394
 tags:
   - things_to_do
   - sight
+score: 5.1
 ---
 
 The 4.1-mile bridge carrying US 98 across Apalachicola Bay to Eastpoint, opened in 1988 to replace an earlier 1935 structure. Named for the local doctor who invented mechanical refrigeration, it is also the practical link between Apalachicola and St. George Island.

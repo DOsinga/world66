@@ -10,6 +10,7 @@ latitude: -15.7927
 longitude: 35.0115
 sources:
   - https://en.wikipedia.org/wiki/Mandala_House
+score: 7.8
 ---
 
 Mandala House is the oldest surviving European-style building in Malawi, constructed in 1882 by the African Lakes Corporation — a Scottish trading company that followed the missionaries north from the Zambezi. The single-storey colonial house, with its wide veranda and corrugated-iron roof, was the commercial headquarters of the corporation and the social centre of the early settler community.

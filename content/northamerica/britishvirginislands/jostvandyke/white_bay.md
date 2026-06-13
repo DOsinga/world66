@@ -10,6 +10,7 @@ story: >
   White Bay has no dock — the only way to arrive by boat is to anchor offshore and swim or dinghy in. The Soggy Dollar Bar takes its name from the wet currency that patrons hand over after swimming ashore. The Painkiller cocktail — rum, cream of coconut, pineapple juice, orange juice, and a grating of nutmeg — was supposedly invented here, and the recipe is still closely guarded.
 sources:
   - https://en.wikipedia.org/wiki/Jost_Van_Dyke
+score: 8.7
 ---
 
 White Bay is the finest beach on Jost Van Dyke and one of the most celebrated in the British Virgin Islands. A long curve of white sand backed by sea grape trees, with calm, turquoise water that shelves gently — it is exactly what a Caribbean beach is supposed to look like. The beach faces southwest and catches the afternoon sun at its best.

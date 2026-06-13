@@ -9,6 +9,7 @@ latitude: 14.8417
 longitude: -89.1308
 story: >
   Las Sepulturas means "the burials" in Spanish, a name given by early colonial-era visitors who found the site's many burial mounds. The excavations here in the 1970s and 1980s revealed a striking finding: Copán's elite households were remarkably consistent in their internal layout — a central patio surrounded by rooms of different status, with higher-ranking rooms elevated on larger platforms. This regularity suggests the Copán ruling class had strong shared norms about how a proper noble household should be organised.
+score: 7.8
 ---
 
 Las Sepulturas is a second archaeological zone at Copán, about 2 km east of the Principal Group, connected to it by a raised causeway (sacbé) that is partially visible. While the Principal Group contains the public monuments and royal temples, Las Sepulturas preserves the residential compounds of Copán's elite class — the scribes, nobles, and specialists who served the royal court.

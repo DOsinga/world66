@@ -7,6 +7,7 @@ tags:
 latitude: 6.8126
 longitude: -58.1882
 snippet: "Floating pontoon bridge across the Demerara River"
+score: 6.7
 ---
 
 A 1.85-kilometre floating pontoon bridge across the broad Demerara River, opened in 1978 and one of the longest of its kind in the world. The bridge is a constant background to Georgetown life — it carries the only road link between the capital and the country's western regions, including the route to Bartica and the airport at Timehri. Twice a day a section of the bridge swings open to let larger ships through, generating spectacular traffic jams on either side.

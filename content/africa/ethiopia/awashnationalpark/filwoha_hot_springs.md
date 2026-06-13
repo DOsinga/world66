@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - hot_springs
+score: 7.1
 ---
 
 Filwoha Hot Springs sit in the upper Kudu Valley, where hot water emerges among palms and dry-country vegetation. The setting is the attraction: an oasis-like pocket in a park better known for acacia scrub and volcanic plains.

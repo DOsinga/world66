@@ -13,6 +13,7 @@ story: >
   though she was lost on a reef near Haiti in 1946 and never recovered.
 sources:
   - https://en.wikipedia.org/wiki/Fisheries_Museum_of_the_Atlantic
+score: 8.8
 ---
 
 The Fisheries Museum of the Atlantic is the province's flagship marine museum and occupies several connected buildings along the Lunenburg waterfront, including the former fish plant. The exhibits cover the Grand Banks fishing industry that sustained Nova Scotia for centuries — the schooners, the dories, the crew life, and the dangerous work of hand-line fishing on the open Atlantic. Actual vessels, including a working Banks schooner and a retired steel trawler, are moored alongside and open for boarding.

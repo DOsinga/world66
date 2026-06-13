@@ -7,6 +7,7 @@ tags:
 latitude: 43.0681
 longitude: 141.3528
 snippet: Eight famous ramen shops in one basement food court under JR Tower
+score: 6.1
 ---
 
 Ramen Republic occupies the 10th floor of the JR Tower above Sapporo Station — eight shops arranged in a single food court, each representing a different regional ramen style. It is an unabashedly tourist-oriented setup and none the worse for it. If you have one ramen meal in Sapporo, this is a practical way to try the Sapporo style without researching which individual shop is currently considered best. The Sapporo-style miso ramen with butter and corn is the obvious choice, though the Hakodate salt ramen and Asahikawa soy ramen also have strong representation.

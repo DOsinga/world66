@@ -9,6 +9,7 @@ latitude: 55.7503
 longitude: 12.5806
 sources:
   - https://en.wikipedia.org/wiki/Charlottenlund_Palace
+score: 6.5
 ---
 
 Charlottenlund Palace is a yellow Baroque manor house on the Øresund coast, built in the early 18th century and used for centuries as a summer residence by the Danish royal family. The palace itself is not open to visitors — it serves as a private residence — but the surrounding park and beach are freely accessible and heavily used by locals from spring through autumn.

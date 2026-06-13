@@ -8,6 +8,7 @@ tags:
 latitude: -29.8676
 longitude: 31.0490
 address: "uShaka Marine World"
+score: 5.7
 ---
 
 Cargo Hold is the restaurant inside uShaka Marine World where one of the dining-room walls is the side of the big predator tank — sharks, rays and large reef fish swim past as you eat. The menu is seafood-heavy with steaks for those who can't take the visual cue.

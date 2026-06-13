@@ -5,6 +5,7 @@ tags: [things_to_do, sight, stare_mesto]
 latitude: 48.1428
 longitude: 17.1057
 story: According to the legend attached to the statue, this French soldier came to Bratislava with Napoleon's army in 1809, fell in love with a local woman, and stayed behind when the army retreated. He eventually started producing sparkling wine — setting the foundation for the Slovak sparkling wine industry. The statue commemorates this improbable founding myth.
+score: 5.6
 ---
 
 Napoleon's Soldier is one of the bronze street sculptures dotted around Bratislava's old town, this one found on Sedlárska Street near the old town core. The life-size figure leans against a bench, one arm extended, apparently asking directions or flirting — the ambiguity is part of the charm.

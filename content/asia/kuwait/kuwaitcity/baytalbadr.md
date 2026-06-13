@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Bayt Al-Badr
 type: poi
+score: 6.7
 ---
 
 An old merchant's house located next to Sadu House, Bayt Al-Badr was built between 1838 and 1848. It features a fine example of the elaborately carved front doors that were once a hallmark of wealthy Kuwaiti homes. Exhibitions of local handicrafts are occasionally displayed here.

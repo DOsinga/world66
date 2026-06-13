@@ -9,6 +9,7 @@ latitude: 44.5268
 longitude: -92.1903
 sources:
   - https://en.wikipedia.org/wiki/Little_House_Wayside
+score: 6.4
 ---
 
 Seven miles north of Pepin village on County Road CC, a small log cabin replica marks the spot where Laura Ingalls Wilder was born on February 7, 1867. The original cabin — the one in the "Big Woods" of *Little House in the Big Woods* — stood near this clearing in what was then dense hardwood forest. It burned down long ago; the current structure is a replica built in 1977.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 48.1672
 longitude: 28.2981
+score: 8.6
 ---
 
 The Roma quarter that crowns the limestone bluff above Soroca is one of Moldova's most astonishing sights — and one of the most photographed streetscapes in the entire country. Known as Ţigănia or, colloquially, Gypsy Hill, the neighbourhood is a dense concentration of palatial mansions built by wealthy Roma families over the last few decades. The buildings are extravagant to the point of surrealism: domed roofs in gold and silver, neoclassical columns flanking entrances fit for a state ministry, turrets, statues, and baroque ornamentation compete for attention on every block. Some are modelled loosely on the White House; others appear to reference Versailles; others defy any obvious reference point entirely.

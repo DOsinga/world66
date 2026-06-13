@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.9608
 longitude: 14.3608
+score: 7.0
 ---
 
 The great Baroque parish church crowns the ridge above the town, visible for miles across north Malta. Built between 1881 and 1898 to a design by Maltese architect Giuseppe Bonavia, it is one of the most impressive of the island's many oversized village churches — a single soaring nave, a coffered ceiling painted with scenes from the life of the Virgin, and an altar dressed in red Sicilian marble.

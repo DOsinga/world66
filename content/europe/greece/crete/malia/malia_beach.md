@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 35.2866
 longitude: 25.4623
+score: 5.9
 ---
 
 Malia Beach is the convenient resort beach: sandy, organised and close to the bars, hotels and restaurants. It is easy, social and busy, with the full apparatus of a summer package resort.

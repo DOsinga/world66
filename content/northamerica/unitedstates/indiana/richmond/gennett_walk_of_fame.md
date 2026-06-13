@@ -16,6 +16,7 @@ tags:
   - music
 title: Gennett Walk of Fame
 type: poi
+score: 6.8
 ---
 
 The Gennett Walk of Fame sits along the Whitewater River trail in the gorge, near the site where the original Gennett Records studio stood. Record-shaped plaques set into the pavement honour the musicians who recorded here between 1915 and 1934: Louis Armstrong, Bix Beiderbecke, Hoagy Carmichael, Jelly Roll Morton, and dozens of others who made some of the earliest jazz and blues recordings in American history.

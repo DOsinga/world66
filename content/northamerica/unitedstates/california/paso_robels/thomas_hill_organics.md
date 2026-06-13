@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.6271
 longitude: -120.6893
+score: 7.6
 ---
 
 Thomas Hill Organics is one of the most consistently praised restaurants in Paso Robles — a market-driven kitchen in a converted Victorian downtown that sources heavily from its own farm and local producers. The menu changes with the seasons and has a strong vegetable focus unusual for wine country restaurants, though there is always good meat as well.

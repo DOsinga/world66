@@ -8,6 +8,7 @@ tags:
   - wildlife
 title: Watersmeet
 type: poi
+score: 8.2
 ---
 
 Watersmeet is a National Trust property about two miles upstream from Lynmouth, where the Hoaroak Water joins the East Lyn River in a deep wooded gorge. The walk from Lynmouth follows the East Lyn along a well-maintained path through ancient oak woodland — it takes around 45 minutes each way, mostly flat, with the river running alongside the entire route.

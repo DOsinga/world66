@@ -7,6 +7,7 @@ tags:
 latitude: 6.6300
 longitude: 99.6800
 snippet: "A long sea-cave network on the east side of Ko Tarutao, navigated by longtail boat."
+score: 7.2
 ---
 
 Tham Jorake — Crocodile Cave — is a network of limestone sea-passages cutting into the east side of Ko Tarutao. The name comes from local stories of saltwater crocodiles that once inhabited the brackish water inside; they have not been seen for a long time but the legend persists. Park rangers will take small groups in by longtail at high tide, when the entrance is just navigable, and through several hundred metres of dim cathedral-like chamber lit by occasional shafts of daylight from above.

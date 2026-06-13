@@ -14,6 +14,7 @@ story: >
   by Filipino architect Leandro Locsin and built in 1984 when Brunei gained
   full independence from Britain, paid for almost entirely from oil revenues.
   It cost an estimated USD 1.4 billion in today's money.
+score: 7.1
 ---
 
 The Istana Nurul Iman — Palace of the Light of Faith — is the official residence of the Sultan of Brunei and the largest residential palace in the world. It sits on a sweeping bend of the Brunei River about 4 kilometres south of the city centre, and from the river or the far bank you can appreciate its extraordinary scale: a golden dome flanked by white towers, surrounded by immaculate lawns, with the jungle-covered hills of Brunei as backdrop.

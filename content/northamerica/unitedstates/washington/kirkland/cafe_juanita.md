@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.7003
 longitude: -122.1999
+score: 7.9
 ---
 
 Cafe Juanita is one of the most acclaimed restaurants on the Eastside — a Northern Italian kitchen that has been running in Kirkland since 1979 and earned its reputation through sustained excellence rather than trend-chasing. The menu focuses on handmade pasta, game, seafood, and seasonal vegetables, with a wine list that takes the Italian regions seriously.

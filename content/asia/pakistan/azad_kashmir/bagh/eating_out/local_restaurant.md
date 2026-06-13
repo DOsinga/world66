@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.9801
 longitude: 73.7740
+score: 4.6
 ---
 
 The dhabas around Bagh's main market and bus stand are the backbone of eating out in the district. These are simple, inexpensive diners serving straightforward Pakistani food: mutton or chicken karahi cooked to order, daal, rice, and roti or naan. Portions are generous and prices are low by any standard.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 story: "Among the displays is the partial skull of a 14-year-old girl, dubbed Jane, with chop marks on the bone and a clean cut through the cheek — physical confirmation that some of the Starving Time survivors of 1609–10 had eaten the dead, as eyewitness accounts had long suggested but archaeologists could never prove."
+score: 8.5
 ---
 
 The Archaearium, built directly over an excavation, displays the most significant finds from the Jamestown Rediscovery project: the remains of early colonists, weapons and armour, trade goods, household items, and the chilling evidence from the Starving Time winter of 1609–10. The exhibits combine the artefacts themselves with detailed forensic and historical interpretation.

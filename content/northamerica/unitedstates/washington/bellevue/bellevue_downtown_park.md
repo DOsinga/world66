@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 47.6125
 longitude: -122.2042
+score: 6.7
 ---
 
 A 20-acre formal park in the heart of downtown, Bellevue Downtown Park offers a deliberate counterpoint to the surrounding office towers and shopping centres. The central feature is a wide reflecting pool and promenade — formal enough to feel designed but open enough to function as a genuine public lawn. A circular canal walk rings the outer edge of the park, and the canopy of mature trees makes it genuinely cool on summer afternoons.

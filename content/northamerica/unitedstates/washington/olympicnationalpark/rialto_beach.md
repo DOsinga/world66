@@ -7,6 +7,7 @@ tags:
   - beach
 title: Rialto Beach
 type: poi
+score: 8.9
 ---
 
 Rialto Beach is the Olympic coast in a single scene: driftwood piled like barricades, surf rolling in from a cold grey horizon, and sea stacks standing offshore. It feels wild even when the parking lot is full.

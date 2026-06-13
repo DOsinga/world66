@@ -10,6 +10,7 @@ story: >
   Vail's Back Bowls are seven vast open snowfields covering nearly 1,200 hectares — more ungroomed terrain than many entire resorts. When Pete Seibert and Earl Eaton first surveyed the mountain in 1957, they skied into the bowls on a clear February day and immediately knew they had found something extraordinary.
 sources:
   - https://en.wikipedia.org/wiki/Vail_Ski_Resort
+score: 9.4
 ---
 
 Vail is one of the largest ski mountains in North America, with over 2,000 hectares of skiable terrain spread across several distinct zones. The front side offers groomed blue and black runs through the trees, with wide-open cruisers that are well-suited to intermediates. Above the tree line, the terrain opens up dramatically.

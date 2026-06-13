@@ -10,6 +10,7 @@ tags:
 title: Gotlands Museum
 type: poi
 story: "The museum displays the Spillings Hoard — found in 1999 under a single Gotland farm field — which at 65 kilograms is the largest Viking silver hoard ever unearthed anywhere in the world. Most of it consists of Arabic dirhams, evidence that Gotland's traders were reaching all the way to Baghdad in the 9th and 10th centuries."
+score: 9.0
 ---
 
 The main museum on the island holds one of Sweden's most significant medieval collections. The highlights are the picture stones — enormous carved limestone slabs from the Viking Age and earlier, covered with mythological scenes and runic inscriptions that predate the runestones found elsewhere in Scandinavia. The museum also has an outstanding collection of medieval gold and silver hoards, many unearthed from Gotland's fields.

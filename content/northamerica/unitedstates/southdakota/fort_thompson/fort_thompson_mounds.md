@@ -15,6 +15,7 @@ story: >
   Dam was completed in 1963. The Mounds survived on higher ground, but the community
   was displaced with compensation that most tribal members considered deeply inadequate.
   The dam project is still remembered on the reservation as a second dispossession.
+score: 7.4
 ---
 
 The Fort Thompson Mounds are a complex of ancient burial and ceremonial mounds in Buffalo County, within the Crow Creek Reservation. They represent some of the most significant pre-contact archaeological sites in central South Dakota, associated with the cultures that inhabited the Missouri River valley long before European arrival. The mounds sit on higher ground above the Missouri — one of the reasons they survived the flooding that transformed this landscape in the 1960s.

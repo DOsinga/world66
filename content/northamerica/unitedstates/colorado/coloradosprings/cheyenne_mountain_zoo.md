@@ -8,6 +8,7 @@ latitude: 38.7708
 longitude: -104.8539
 snippet: America's highest-elevation zoo, set on Cheyenne Mountain with city views
 story: At 6,714 feet above sea level, Cheyenne Mountain Zoo is the highest elevation zoo in the United States. The mountainside setting means the enclosures have views across the city to the plains, and in some areas you can look down on free-ranging elk in the forest below the zoo's boundaries.
+score: 7.7
 ---
 
 Cheyenne Mountain Zoo sits on the forested slopes of Cheyenne Mountain, 6,714 feet up, making it the highest-elevation zoo in the United States. The setting is dramatic — the animal enclosures are built into the mountainside with wide views over Colorado Springs and the plains beyond, and the zoo itself feels more like a mountain park than a traditional flat zoo.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 23.7028
 longitude: -15.9320
+score: 5.9
 ---
 
 One of the better-known spots on the Dakhla waterfront, El Barco specialises in grilled fish and seafood platters. The menu changes with what came in that day, which is a good sign. Lobster, sea bass, and bream are regulars; oysters from the lagoon farms sometimes appear as a starter. The terrace faces the bay, making it a reasonable sunset dinner option when the wind drops enough for outdoor eating to be comfortable.

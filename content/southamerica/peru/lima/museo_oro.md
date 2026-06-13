@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Vast private collection of pre-Columbian gold and military arms
+score: 6.3
 ---
 
 The **Museo Oro del Perú** in Surco, on the southeast edge of Lima, holds the collection of arms-dealer Miguel Mujica Gallo: an enormous private hoard of pre-Columbian gold and silver objects, ceremonial weapons, and feather work, plus the world's largest private collection of historical military arms — armour, swords, and firearms from medieval Europe through the Second World War.

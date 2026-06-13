@@ -8,6 +8,7 @@ tags:
 latitude: 34.0850
 longitude: 74.8050
 address: "Residency Road, Srinagar"
+score: 7.2
 ---
 
 Mughal Darbar is the other serious option for traditional Kashmiri cooking on Residency Road, competing directly with Ahdoos for the title of the city's best sit-down Kashmiri restaurant. The kitchen leans toward the wazwan tradition — the elaborate multi-course Kashmiri feast — and portions are generous. The yakhni (mutton in yogurt and fennel gravy) and the dam aloo (potatoes in a slow-cooked, intensely spiced gravy) are both reliable choices.

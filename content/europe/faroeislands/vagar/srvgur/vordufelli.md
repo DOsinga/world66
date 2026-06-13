@@ -9,6 +9,7 @@ latitude: 62.0667
 longitude: -7.2833
 sources:
   - https://en.wikipedia.org/wiki/V%C3%B8r%C3%B0ufelli
+score: 7.2
 ---
 
 Vørðufelli is the mountain that rises directly behind Sørvágur, giving hikers a commanding view over the village, the fjord, and the airport runway that sits on the flat ground below. The ascent from the village is steep but relatively short — the summit is not especially high, and fit walkers can reach the top and return in a couple of hours.

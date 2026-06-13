@@ -12,6 +12,7 @@ story: >
   and a cabinet of medieval remedies — including a mummified crocodile that was
   hung over the entrance, as was common in Central European apothecaries, to
   signal the exotic and powerful nature of the medicines sold within.
+score: 7.0
 ---
 
 The Pharmacy Museum on Piata Mare occupies the premises of a pharmacy founded in 1600 that operated continuously for over 300 years. The collection consists of original fittings, instruments, and preparations dating from the 17th to 19th centuries — carved wooden cabinets, glass vessels, retorts, and an extensive collection of medieval and early modern medicinal preparations.

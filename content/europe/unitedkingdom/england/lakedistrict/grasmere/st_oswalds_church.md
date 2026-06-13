@@ -13,6 +13,7 @@ story: >
   basin from Dove Cottage. A sprig of fresh rushes is still strewn on the nave floor
   each August at the Rushbearing Festival, a tradition going back to medieval times
   when rushes covered the earthen floor.
+score: 8.3
 ---
 
 The parish church of Grasmere, dedicated to St Oswald of Northumbria, is one of the oldest buildings in the Lake District. The core of the church dates from the 13th century, though it has been extended and altered many times since. The interior is unusual: the nave is divided by a row of rough-hewn wooden pillars, and the ceiling is plastered directly over the roof timbers rather than vaulted. Wordsworth described it as "rude and plain, which pleases more than ornament."

@@ -13,6 +13,7 @@ story: >
   The Keramas are the most reliably productive whale-watching spot in
   Japan — sightings are reported on most days during peak season, and it
   is not unusual to see mothers with calves.
+score: 8.4
 ---
 
 Between January and March, humpback whales migrate to the warm waters around the Kerama Islands to breed. The seas around Tokashiki offer some of the best whale watching in Japan — reliable sightings, calm conditions in the lee of the islands, and proximity to the whales that simply isn't possible from the mainland.

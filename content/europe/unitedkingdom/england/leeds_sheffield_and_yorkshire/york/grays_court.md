@@ -7,6 +7,7 @@ tags:
 title: Gray's Court
 type: poi
 snippet: "A medieval gallery house adjoining the Treasurer's House, with a long gallery dating to 1569 and a pleasant garden"
+score: 7.5
 ---
 
 Gray's Court stands immediately behind the Treasurer's House, sharing the same tight enclave between the Minster and the city walls. The building dates back to medieval times and includes a long gallery of 1569 — one of the surviving examples of this Elizabethan architectural form in the north. The house operated for many years as a hotel, and the restaurant and garden are open to non-residents, making it possible to have lunch or afternoon tea in one of the more atmospheric settings in the city.

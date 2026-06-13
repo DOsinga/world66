@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.9
 ---
 
 Shelby Farms is a staggering piece of urban parkland: 4,500 acres — roughly five times the size of Central Park — on what was a county penal farm until the 1990s. The park has been methodically converted into trails, lakes, wetlands, and recreational facilities. There are over 80 kilometres of hiking and mountain biking trails, a zip line, stand-up paddleboard and kayak rentals on Hyde Lake, and an equestrian center. A small herd of American bison graze in the park's western section, visible from the road.

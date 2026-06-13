@@ -6,6 +6,7 @@ longitude: -78.8742
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A small 100-seat community theatre on Webster Street, North Tonawanda's culture row, that runs an ambitious year-round season of straight plays, musicals, and the occasional cabaret. The space is intimate enough that the audience sits within arm's reach of the stage; the productions are amateur but consistently above what you might expect for a town this size.

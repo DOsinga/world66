@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 45.5028
 longitude: -75.8778
+score: 8.5
 ---
 
 Gatineau Park is a 361-square-kilometre federal park in the Quebec Gatineau Hills, beginning about fifteen minutes' drive from downtown Ottawa. It is the closest wilderness to a Canadian capital city — the contrast between the parliamentary district and the rocky Canadian Shield forest of Gatineau is one of Ottawa's great pleasures. The park has over 165 kilometres of hiking trails, thirty lakes with swimming beaches, a network of ski trails in winter, and spectacular autumn colour from mid-September through October.

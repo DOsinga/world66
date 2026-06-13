@@ -7,6 +7,7 @@ tags:
   - church
 latitude: -8.1115
 longitude: -79.0282
+score: 7.2
 ---
 
 The Cathedral of Trujillo faces the Plaza de Armas and took well over a century to complete, begun in 1647 and only consecrated in 1771. The façade combines Baroque European forms with decorative elements drawn from indigenous tradition — an approach called Mestizo or Andean Baroque that is characteristic of colonial-era churches in northern Peru.

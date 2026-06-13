@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Bond's Hospital
 type: poi
+score: 7.6
 ---
 
 Bond's Hospital on Hill Street is a Tudor almshouse that most people visiting Coventry walk straight past because it sits behind a fairly plain entrance. Founded in 1506 by merchant Thomas Bond, it is a remarkably intact example of early 16th-century domestic architecture: a timber-framed courtyard of two storeys, with the original arrangement of small apartments around a central garden. Unlike Ford's Hospital, it emerged from the Blitz without significant damage.

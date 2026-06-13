@@ -7,6 +7,7 @@ snippet: Cabbage rolls, sour soups, and Transylvanian classics near Piața Uniri
 tags:
 - eating_out
 - restaurant
+score: 6.7
 ---
 
 Varzăria specialises in the dish that gives the city its culinary signature: varză à la Cluj, the layered cabbage-and-meat casserole that locals will tell you is unique to Cluj. The menu is straight Transylvanian — sour soups, mămăligă with sheep cheese, schnitzels, beef stews with polenta — done well and served in unfussy wooden-floored rooms.

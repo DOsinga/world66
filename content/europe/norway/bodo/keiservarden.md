@@ -14,6 +14,7 @@ story: >
   late nineteenth century — and the locals named the viewpoint in his honour. That 
   connection became awkward by 1940, when Luftwaffe bombers destroyed most of the 
   city below.
+score: 8.9
 ---
 
 Keiservarden is the classic Bodø hike: a 366-metre plateau on the Ronvikfjellet ridge, about 3.5 km from the city centre by trail. On a clear day the panorama takes in the full length of the Lofoten Wall — the jagged mountain chain that forms the backbone of the archipelago — hovering above the open sea to the west. The hike draws well over 100,000 visitors a year, which gives some indication of how good the view is.

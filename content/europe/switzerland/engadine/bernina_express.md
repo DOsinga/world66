@@ -15,6 +15,7 @@ story: >
   partly by routing the line in great spirals and loops, including the famous
   Brusio circular viaduct, where the train turns through a full 360 degrees
   in a stone spiral to lose altitude.
+score: 9.4
 ---
 
 The Bernina Express runs from Chur (or St. Moritz) through the Albula tunnel and down the upper Engadine valley, then climbs over the Bernina Pass at 2,253 metres and descends to Tirano in northern Italy. The route is a UNESCO World Heritage Site, part of the Rhaetian Railway designation recognised for its engineering achievement in crossing the Alps without tunnels through the main ridge.

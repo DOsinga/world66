@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Jamek Mosque
 type: poi
+score: 7.2
 ---
 
 Masjid Jamek stands at the spot where Kuala Lumpur began -- the confluence of the Gombak and Klang rivers. Built in 1909 by British architect Arthur Benison Hubback, the mosque draws on Mughal style with its striped onion domes, minarets, and colonnaded prayer halls. For decades it served as the city's main mosque before the National Mosque took over that role in 1965.

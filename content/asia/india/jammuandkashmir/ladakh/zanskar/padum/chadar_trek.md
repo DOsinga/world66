@@ -12,6 +12,7 @@ story: >
   Zanskar River that forms the route. For the villagers of Zanskar, this was not an
   adventure but a necessity: the only way to reach Leh for supplies and trade before
   modern roads were built. Many still walk it today.
+score: 9.2
 ---
 
 The Chadar Trek is one of the most unusual and demanding walks in the Himalaya: a winter traverse of the frozen Zanskar River, walking on ice through a gorge too steep and narrow to otherwise pass. The trek takes 8 to 12 days from Chilling (near Leh) through to Zanskar in January and February, when temperatures drop to -15°C or colder and the ice is thick enough to walk on — though it never feels entirely safe, and cracks and pressure ridges require constant attention.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.6799
 longitude: -86.2506
+score: 6.7
 ---
 
 The South Bend Museum of Art occupies the Century Center complex on the St. Joseph River and offers a genuinely good regional collection with rotating exhibitions that pull from major institutions. The permanent holdings focus on American art from the 19th and 20th centuries, with particular strength in works by Indiana artists.

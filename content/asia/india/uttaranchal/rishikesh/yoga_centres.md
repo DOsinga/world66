@@ -5,6 +5,7 @@ tags:
   - things_to_do
 title: Yoga and Meditation Centres
 type: poi
+score: 7.6
 ---
 
 Rishikesh has been a centre of yoga and Vedantic study since the late 19th century, long before international visitors arrived. The town now has hundreds of yoga schools, ranging from serious institutions with multi-week teacher training programmes to drop-in classes aimed at tourists. The main concentration is around Ram Jhula and Swarg Ashram on the eastern bank of the Ganges.

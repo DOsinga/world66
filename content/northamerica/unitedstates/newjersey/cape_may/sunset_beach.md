@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The SS Atlantus was one of twelve experimental concrete ships built during the steel shortage of World War I. It served as a coal carrier, then was bought as a hull for a planned Cape May–Lewes ferry pier in 1926. A storm tore it loose before it could be sunk into place, and it grounded where you see it today. Its sister ships rotted away elsewhere, but the Atlantus has stayed put for nearly a century."
+score: 8.1
 ---
 
 The west-facing beach at the very tip of Cape May Point is the spot for the evening sunset ritual: every night in season, a flag-lowering ceremony plays as the sun drops into Delaware Bay. Just offshore, the concrete hull of the SS Atlantus has been slowly sinking into the sand since 1926 — what remains is now barely a dark hump above the water, but the silhouette at sunset is iconic.

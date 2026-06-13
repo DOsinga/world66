@@ -8,6 +8,7 @@ latitude: 45.0000
 longitude: -109.4707
 admission: "Free; pass closed mid-October to late May"
 story: "The highway was Public Works Administration project No. 2 — second only to Hoover Dam in priority — and was begun in 1932 to ease the desperate unemployment among out-of-work coal miners around Red Lodge. Charles Kuralt of CBS called it 'the most beautiful drive in America' in 1985, and Franklin Roosevelt said the same thing forty years earlier at its opening."
+score: 9.5
 ---
 
 US 212 leaves Red Lodge and climbs 5,000 feet in twenty miles of switchbacks, crossing the Beartooth Pass at 10,947 feet and traversing a tundra plateau of glacial lakes, granite spires, and snowfields before dropping down into Cooke City and the northeast entrance of Yellowstone. The road is open from the Friday before Memorial Day to mid-October, depending on snow.

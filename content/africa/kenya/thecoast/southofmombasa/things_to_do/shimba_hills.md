@@ -13,6 +13,7 @@ tags:
   - sight
 title: Shimba Hills National Reserve
 type: poi
+score: 8.0
 ---
 
 A national reserve covering hilly coastal forest about 30 kilometres inland from Diani Beach. Shimba Hills is the most accessible wildlife destination from the south coast and makes an excellent half-day or full-day excursion. The forest is lush and green year-round, very different in character from the open savanna of the Masai Mara.

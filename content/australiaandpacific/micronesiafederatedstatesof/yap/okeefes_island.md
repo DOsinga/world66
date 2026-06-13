@@ -9,6 +9,7 @@ longitude: 138.1317
 snippet: "The small island home of David Dean O'Keefe, the Irish-American trader who used Western ships to reshape Yap's stone money economy."
 story: >
   O'Keefe arrived in Yap in the 1870s after being washed ashore, reportedly the sole survivor of a shipwreck. He saw an opportunity: the Yapese wanted more stone money than their traditional canoes could safely transport from Palau, and O'Keefe had access to larger ships. He offered passage to Palau and back in exchange for copra and sea cucumber, neatly inserting himself into the middle of a centuries-old economic system. The 1954 Hollywood film "His Majesty O'Keefe," starring Burt Lancaster, dramatised his life — though it took considerable liberties with the historical record, casting him as a romantic adventurer rather than the shrewd commercial operator he actually was.
+score: 7.3
 ---
 
 Tarang, known to most visitors as O'Keefe's Island, is a small wooded islet visible from Colonia across the harbour. It was the home and base of David Dean O'Keefe, an Irish-American mariner who arrived on Yap in the 1870s and spent the next two decades running a trading operation that made him both wealthy and, in Yapese memory, a genuinely significant figure in the island's history. The ruins of his house and compound remain on the island, accessible by boat from Colonia.

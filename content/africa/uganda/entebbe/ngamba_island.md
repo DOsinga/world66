@@ -8,6 +8,7 @@ tags:
 latitude: -0.0167
 longitude: 32.5833
 story: All of the chimpanzees at Ngamba Island were orphaned by the bush meat trade or illegal wildlife trafficking — most were confiscated as infants from people attempting to sell them as pets. The sanctuary cannot release them back to the wild because they were removed from their mothers too young to have learned the social behaviours and food knowledge that wild chimpanzees acquire from their parents over years of observation.
+score: 5.1
 ---
 
 Ngamba Island, about 23 km southeast of Entebbe on Lake Victoria, is a 100-acre forested island that serves as a sanctuary for rescued and orphaned chimpanzees managed by the Chimpanzee Sanctuary and Wildlife Conservation Trust. Around 50 chimpanzees live here, all of them rescued from the illegal wildlife trade.

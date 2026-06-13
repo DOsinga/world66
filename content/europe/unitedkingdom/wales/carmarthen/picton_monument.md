@@ -7,6 +7,7 @@ tags:
 latitude: 51.8552
 longitude: -4.3208
 snippet: A 25-metre obelisk on the western edge of Carmarthen commemorating General Sir Thomas Picton
+score: 5.2
 ---
 
 The Picton Monument is a 25-metre stone obelisk standing on a small hill west of the town centre, commemorating Lieutenant-General Sir Thomas Picton — the senior British officer killed at the Battle of Waterloo in 1815. The original monument by John Nash, completed in 1828, was structurally unsound and had to be replaced; the present version dates from 1847 and was designed by the local architect Daniel Brideoake.

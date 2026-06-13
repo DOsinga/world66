@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.8900
 longitude: 125.3200
+score: 6.8
 ---
 
 The streets around Siping Road in the north of central Changchun form one of the city's most concentrated street food zones — a network of small restaurants, noodle stalls, and outdoor cooking that operates from early morning through late night and captures the full range of northeastern Chinese street eating.

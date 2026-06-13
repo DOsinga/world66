@@ -15,6 +15,7 @@ tags:
 title: Hampton Court Palace
 type: poi
 url: www.hrp.org.uk/hampton-court-palace
+score: 9.1
 ---
 
 Hampton Court Palace is the finest Tudor palace in England and one of the best day trips from London. Henry VIII seized it from Cardinal Wolsey in 1529 and spent lavishly on its expansion; the Great Hall and the Tudor kitchens (where meals are prepared for live demonstrations) give a vivid sense of life at court.

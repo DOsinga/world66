@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.0333
 longitude: 110.3433
+score: 7.0
 ---
 
 People's Park (人民公园) is the central green space of old Haikou, a tree-filled retreat in the middle of the busy older residential and commercial streets south of the Bo'ai Road district. The park's most striking feature is its collection of old banyan trees, some with root systems that have expanded across decades into complex tangled structures providing dense overhead shade.

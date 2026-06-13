@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5490
 longitude: 2.3870
+score: 6.3
 ---
 
 Vernet-les-Bains was the first village arboretum in France, a designation that means over 2,000 trees of more than 320 species have been planted and labelled throughout the town and its surrounding paths. The collection ranges from native Pyrenean species — silver fir, beech, rowan — to rarities from Asia, the Americas, and the Pacific. White metal labels on each tree give the Latin and common name and the origin.

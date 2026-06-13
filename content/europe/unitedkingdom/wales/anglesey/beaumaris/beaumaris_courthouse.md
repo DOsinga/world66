@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Beaumaris_Courthouse
+score: 7.5
 ---
 
 Built in 1614 and modified in the early nineteenth century, the Beaumaris Courthouse is the oldest active court building in Britain and the only Welsh courthouse to survive from before 1700. The interior is largely Georgian: an unaltered jury box, dock, witness box and judge's bench in dark oak, with the original public gallery overhead.

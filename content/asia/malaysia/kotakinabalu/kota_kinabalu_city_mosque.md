@@ -11,6 +11,7 @@ story: >
   over a lagoon in Likas Bay, so at high tide the building seems to rise
   directly from the water. The effect is especially dramatic at dusk when the
   white dome and four minarets are reflected in the still surface of the bay.
+score: 7.4
 ---
 
 The Kota Kinabalu City Mosque, known locally as the Floating Mosque, sits on a platform above the lagoon at Likas Bay. From a distance it genuinely appears to hover on the water, making it one of the most photographed buildings in Sabah. The mosque was completed in 2000 and can hold 12,000 worshippers.

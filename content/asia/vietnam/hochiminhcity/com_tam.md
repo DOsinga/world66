@@ -8,6 +8,7 @@ tags:
 latitude: 10.7590
 longitude: 106.6827
 snippet: "The city's most iconic com tam stall, serving broken rice with grilled pork since the 1980s"
+score: 7.7
 ---
 
 Cơm tấm — broken rice — is the quintessential Saigon breakfast and lunch dish: small-grain rice served with grilled pork (sườn nướng), a fried egg, shredded pork skin, and a bowl of sweet fish sauce. It is eaten by street workers at dawn and by office workers at noon, always from the same type of metal tray.

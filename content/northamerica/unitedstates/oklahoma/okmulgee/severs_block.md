@@ -8,6 +8,7 @@ tags:
 latitude: 35.62333
 longitude: -95.97111
 snippet: "Largest early-20th-century commercial block in downtown Okmulgee"
+score: 6.8
 ---
 
 The Severs Block is the dominant historic building on East 6th Street downtown — a long, three-storey brick commercial block built between 1904 and 1907, the years bracketing Oklahoma statehood. It originally housed dry-goods stores on the ground floor and offices above; the Severs Hotel occupied much of the upper floors and was for decades the best address in town.

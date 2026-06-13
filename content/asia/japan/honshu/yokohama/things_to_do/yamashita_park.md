@@ -1,6 +1,7 @@
 ---
 title: "Yamashita Park and the Waterfront"
 type: poi
+score: 7.0
 ---
 
 Yamashita Park stretches along the harbour south of Chinatown and is the most popular waterfront promenade in the city. Laid out in 1930 on landfill created from rubble after the 1923 Great Kanto Earthquake, the park has a relaxed, slightly nostalgic character — rose gardens, a fountain, and benches looking out over the bay. The retired ocean liner Hikawa Maru is moored alongside and can be visited: she served the Yokohama–Seattle route from 1930 to 1960 and is now a museum ship in excellent condition.

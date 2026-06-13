@@ -7,6 +7,7 @@ tags:
   - sight
 title: M'Baïki Central Market
 type: poi
+score: 7.2
 ---
 
 M'Baïki's central market is the commercial heart of the town and a genuine window into regional life. Traders bring produce from across Lobaye Prefecture — cassava, plantain, peanuts, smoked fish, bushmeat — alongside forest products including palm oil, kola nuts, and medicinal plants. Coffee, the region's main cash crop, is also traded here during harvest season.

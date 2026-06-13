@@ -8,6 +8,7 @@ title: Islam-aga Mosque
 type: poi
 story: >
   The mosque is named after Islam Aga, an Ottoman military commander who played a key role in the region during the 18th century. It is the only working mosque remaining in Niš from the Ottoman period — the city once had a dozen mosques, but most were demolished or converted following Serbian independence. The small Muslim community in Niš still uses it for regular prayers.
+score: 6.6
 ---
 
 The Islam-aga Mosque is a small, well-preserved Ottoman mosque in the heart of Niš, standing near the central square on a site that was part of the old Turkish čaršija (bazaar district). It is the only working mosque left in the city and one of the few intact reminders of the three centuries of Ottoman rule that shaped Niš more than any other period of its history.

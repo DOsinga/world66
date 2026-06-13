@@ -8,6 +8,7 @@ latitude: 35.6934
 longitude: 51.4151
 story: >
   The building was originally constructed in 1917 for the Moshir-od-Dowleh family (Qajar-era officials) and was later used as the Egyptian Embassy. The Islamic Republic converted it into a museum in 1980. Sitting in its tiled courtyard with a glass of tea, surrounded by the geometric tilework and the sound of a fountain, it is possible to forget for a moment that you are in the middle of one of the most congested cities in the world.
+score: 7.9
 ---
 
 The Abgineh Museum is one of the more rewarding and least crowded of Tehran's many museums — a collection of Iranian glass and ceramics spanning more than three millennia, displayed in a beautifully restored early-20th-century mansion. The building's arched gallery and tiled courtyard are worth the admission fee before you look at a single exhibit.

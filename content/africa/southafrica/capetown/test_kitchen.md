@@ -13,6 +13,7 @@ tags:
 - woodstock
 title: The Test Kitchen
 type: poi
+score: 7.9
 ---
 
 The Test Kitchen has held its place near the top of the African restaurant rankings for over a decade, and the reasons are not hard to find. Chef Luke Dale-Roberts runs an ambitious kitchen in a converted warehouse at the Old Biscuit Mill, producing two tasting menus — a lighter "Light Room" sequence and a more elaborate "Dark Room" progression — that draw on European technique and southern African ingredients in equal measure. Dishes are intricate without being fussy; the wine pairings are strong.

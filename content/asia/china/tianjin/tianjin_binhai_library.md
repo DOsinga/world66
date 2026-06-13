@@ -14,6 +14,7 @@ story: >
   collection is stored behind them on traditional shelving. When this became public knowledge
   in 2018, Chinese social media erupted in outrage, and the library issued an explanation that
   the real books would warp in the humidity near the curved glass ceiling.
+score: 8.3
 ---
 
 The Tianjin Binhai Library, designed by Dutch firm MVRDV and opened in 2017, is one of the most extraordinary public buildings in China. The centrepiece is a vast spherical auditorium wrapped in concentric rings of white bookshelves that climb from floor to ceiling on all sides, creating a dizzying, almost surreal interior. The building went viral worldwide shortly after opening.

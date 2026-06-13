@@ -13,6 +13,7 @@ story: >
   pressing yourself against the outer wall and inching around in a space too narrow to open
   an umbrella. On clear days it offers a 360-degree view of the hill country that extends,
   on exceptional days, to both the east and west coasts of Sri Lanka simultaneously.
+score: 7.8
 ---
 
 Ambuluwawa, on a peak 25 km south of Kandy near Gampola, is one of the more unusual viewpoints in the hill country. The biodiversity complex at the summit includes a spiral tower that visitors can climb, a small forest reserve, a lake, and shrines representing all five major religions of Sri Lanka (Buddhist, Hindu, Muslim, Christian, and Christian again, in different denominations). The inter-religious component was a deliberate political statement by the local politician who funded it.

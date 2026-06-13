@@ -9,6 +9,7 @@ title: Clava Cairns
 type: poi
 story: >
   The Clava Cairns are aligned so that at the midwinter solstice, the setting sun shines directly down the passageway of the largest cairn. This was not accidental — the builders oriented the structures precisely, over five thousand years ago. Diana Gabaldon used the cairns as inspiration for the time-travel portal in her Outlander novels.
+score: 8.4
 ---
 
 The Clava Cairns sit in a field near Culloden, just a few minutes' drive from the battlefield. Three Bronze Age burial cairns and a ring cairn, dating to around 3000 BC, are arranged in a group with standing stones and an ancient ring-shaped enclosure. The site is managed by Historic Environment Scotland and is freely accessible.

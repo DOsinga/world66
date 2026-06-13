@@ -9,6 +9,7 @@ longitude: 102.4200
 snippet: A large cave with stalactites above the most famous blue swimming lagoon in the valley
 story: >
   Tham Phu Kham's cave holds a large reclining bronze Buddha near the entrance, placed there centuries ago by Lao villagers who regarded the site as spiritually significant. The stalactite chambers behind it extend deep into the mountain and are genuinely impressive in scale. Most visitors, though, are there for the lagoon below — a naturally blue pool fed by springs that maintain a vivid turquoise colour even in the dry season.
+score: 8.0
 ---
 
 The blue lagoon at the base of the cliff is the most photographed spot in Vang Vieng, and on weekends it fills up. Rope swings hang from trees at the water's edge. The swimming is excellent — the water stays cool and clear, and the karst backdrop makes the setting feel almost theatrical. After a swim, the climb up to the cave takes about 20 minutes on a steep path; wear shoes you don't mind getting muddy.

@@ -6,6 +6,7 @@ longitude: -47.8832
 snippet: Brasília's first shopping mall, opened in 1971 on the central axis
 tags:
 - shopping
+score: 4.7
 ---
 
 Conjunto Nacional was the first shopping centre built in Brasília and only the second in Brazil — it opened in 1971 in the prime location facing the bus station and the central axis. Today it is a five-storey mall with around 400 shops, a cinema multiplex, and the most central food court in the city.

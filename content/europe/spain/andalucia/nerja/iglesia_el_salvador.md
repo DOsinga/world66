@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Iglesia de El Salvador
 type: poi
+score: 6.7
 ---
 
 Nerja's small parish church, on the western side of the Balcón de Europa, built between 1697 and 1735 in a transitional Baroque-Mudéjar style. The whitewashed exterior with its octagonal bell tower fits the local idiom; inside, the church is unexpectedly cool and contains a fine carved wooden image of Christ from the 18th century.

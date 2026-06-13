@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -34.9196
 longitude: -57.9573
+score: 7.8
 ---
 
 The second most important opera house in Argentina after the Teatro Colón in Buenos Aires, the Teatro Argentino de La Plata is a striking piece of Brutalist architecture that replaced the original classical theatre after it burned down in 1977. The current building, completed in 1999, is deliberately monumental — a large grey-and-beige concrete structure that divides opinion but cannot be ignored. Inside, the main auditorium seats 2,200 people and the acoustics are considered excellent.

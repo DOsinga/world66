@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.5917
 longitude: 44.1583
+score: 5.8
 ---
 
 About 35 kilometres north of Dogubeyazit, on the flanks of Mount Ararat near the village of Aralık, lies a large impact crater formed by a meteorite strike estimated to have occurred around 3,000 years ago. The crater is roughly 35 metres in diameter and up to 5 metres deep. It is one of the best-preserved young impact craters in the world and has been studied by astronomers and geologists since the 1980s.

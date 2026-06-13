@@ -16,6 +16,7 @@ tags:
 - sight
 title: Acquafredda
 type: poi
+score: 6.8
 ---
 
 Acquafredda is the northern coastal hamlet of Maratea, close to the Campania border and wrapped in the steep, green scenery that makes the Costa di Maratea so different from a conventional beach resort. Its name means "cold water", a nod to the freshwater springs that helped shape the settlement and its beaches.

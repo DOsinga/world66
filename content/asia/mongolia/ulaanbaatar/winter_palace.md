@@ -7,6 +7,7 @@ tags:
 - museum
 title: Winter Palace of the Bogd Khan
 type: poi
+score: 8.6
 ---
 
 The Bogd Khan (Jebtsundamba Khutuktu VIII) was the religious and political ruler of Mongolia from 1911, when the country declared independence from China, until his death in 1924 — after which the Soviets abolished the position. His Winter Palace complex, in the southern part of the city, survived the Soviet period and is now a museum housing his remarkable personal collection.

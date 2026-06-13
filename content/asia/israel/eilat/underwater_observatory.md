@@ -13,6 +13,7 @@ story: >
   panels looking directly onto the reef. It remains one of the few
   places in the world where you can observe a living coral reef without
   getting wet.
+score: 7.8
 ---
 
 Eilat's most visited family attraction, and for good reason: a marine park built around a tower that extends six metres below the sea surface, giving views directly onto a living coral reef through circular windows. The observatory itself requires no swimming or diving ability, making the underwater world accessible to anyone. Sharks, rays, and reef fish cruise past the glass at close range.

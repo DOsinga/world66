@@ -12,6 +12,7 @@ story: >
   fashionable across provincial France, and the stained glass — produced by the
   Tours workshop of Lobin, which also supplied windows to Notre-Dame de Paris —
   is finer than you'd expect from a town this size.
+score: 5.9
 ---
 
 The parish church of Saint-Alban was built in 1865 on a rise above the old town centre, and its stone tower is visible from the surrounding valleys. The interior follows a neo-Romanesque scheme with rounded arches, carved capitals, and a calm, cool atmosphere that makes it a pleasant retreat on a hot afternoon.

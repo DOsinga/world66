@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 33.82094
 longitude: 72.69046
+score: 6.9
 ---
 
 This elegant Mughal-era tomb, located directly opposite the Gurdwara Panja Sahib, is traditionally attributed to Princess Lala Rukh, daughter of the Mughal Emperor Akbar. The attribution is disputed by historians — the princess of that name appears in later Orientalist literature rather than Mughal records — but the tomb itself is undeniably fine.

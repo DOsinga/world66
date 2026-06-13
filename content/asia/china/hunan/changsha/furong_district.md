@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.1947
 longitude: 112.9888
+score: 7.0
 ---
 
 Furong District encompasses the old city centre of Changsha east of the Xiang River — the area that was rebuilt after the 1938 fire and has been rebuilt again in stages through the twentieth century. The district contains most of the major heritage attractions: Tianxin Pavilion, Pozi Street, Taiping Street, the Du Fu River Pavilion, and the Former Residence of Jia Yi all sit within a few kilometres of each other. The district also has the densest concentration of traditional restaurants, teahouses, and street food.

@@ -6,6 +6,7 @@ longitude: 8.7600
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 The most contemporary of the better restaurants in Ribe, on the river bank near Skibbroen. **Kolvig** does a confident take on modern Danish cuisine with strong local sourcing — Wadden Sea seafood, salt-meadow lamb, root vegetables and pickled marsh herbs.

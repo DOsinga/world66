@@ -6,6 +6,7 @@ longitude: 141.4583
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Catholic cathedral on Wolfram Street was finished in 1905 and is one of the more substantial church buildings in outback New South Wales. Built in a plain Gothic Revival manner with red brick and stone dressings, it served a town that at the time was growing faster than almost anywhere else in the country.

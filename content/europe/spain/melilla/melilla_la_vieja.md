@@ -15,6 +15,7 @@ story: >
   engineers adapted to evolving artillery. At the outermost bastion, you can
   stand at the edge of a sheer drop to the sea — the defensive logic is
   immediately apparent.
+score: 9.0
 ---
 
 Melilla la Vieja is the original fortress that has stood here since the Spanish took the city in 1497. It occupies the tip of a rocky peninsula jutting into the Mediterranean, surrounded on three sides by sea and defended on the landward side by a series of concentric walls, gates, and bastions built over three centuries of Spanish rule. Today it functions as an open-air museum — you walk through gate after gate, each level higher and more defended than the last, until you reach the highest point with views across the Alboran Sea.

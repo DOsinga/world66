@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.2
 ---
 
 Villa Vignola is the most respected fish restaurant in Vasto — a small white-washed dining room a few minutes north of the marina, run by the Bolognese family for three generations. The kitchen takes deliveries from the morning's catch and improvises a daily menu around it.

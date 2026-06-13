@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.1500
 longitude: 116.5000
+score: 6.3
 ---
 
 In June, large sections of the Bashang plateau transform from green grassland to a saturated yellow as canola — rapeseed — comes into flower across the valley floors and lower hillsides. The scale of it is what makes the effect striking: not garden patches but fields extending for kilometres, broken by the dark green of spruce and the grey of distant ridgelines. Luanhe Source Scenic Area in Fengning County is the most visited spot for the flowers, but the landscape rewards exploration away from the designated viewpoints.

@@ -7,6 +7,7 @@ tags:
 snippet: "Long, wild Pacific beach with legendary sunsets, away from the resort crowds"
 latitude: 16.9154
 longitude: -99.9936
+score: 7.4
 ---
 
 Pie de la Cuesta is an 8-kilometre strip of sand where the Pacific Ocean crashes directly onto the beach with powerful surf — not safe for swimming, but magnificent to watch. The beach sits between the ocean and Coyuca Lagoon, and it's this combination — the roaring sea on one side, the glassy lagoon on the other — that makes it special.

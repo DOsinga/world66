@@ -11,6 +11,7 @@ story: >
   and 1938, never losing the competition to her American rivals from Gloucester, Massachusetts.
   She was more than a racing yacht — she was also a working fishing vessel, and her victories
   were a point of intense national pride during the difficult years of the Depression.
+score: 8.4
 ---
 
 Bluenose II is the replica of the famous racing and fishing schooner built in Lunenburg in 1963 to celebrate the original vessel's legacy. She serves as Nova Scotia's sailing ambassador and is based in Lunenburg when not on tour. The ship is approximately 48 metres long, with two tall masts and the distinctive black hull and white topsides of the original.

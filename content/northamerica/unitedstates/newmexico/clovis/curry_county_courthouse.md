@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: 1936 Art Deco courthouse, one of the New Deal's best small-town buildings in New Mexico
+score: 7.2
 ---
 
 The Curry County Courthouse is a three-and-a-half-storey Art Deco building of cream-coloured brick, built in 1936 under the federal Public Works Administration during the New Deal. The architects were the El Paso firm Trost & Trost, who designed many of the better public buildings of the southwest. The detailing — fluted pilasters, stylised eagles, geometric stonework — is restrained for the style but consistent throughout.

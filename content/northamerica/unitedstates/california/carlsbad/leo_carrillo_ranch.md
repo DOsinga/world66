@@ -9,6 +9,7 @@ latitude: 33.1185
 longitude: -117.2367
 story: >
   Leo Carrillo was a Hollywood character actor best known for playing Pancho in the 1950s television series "The Cisco Kid," but he came from one of the oldest California ranchero families, and his ranch reflects that heritage as much as his film career. He fought fiercely for the California coastline to remain public — the Malibu state beach that bears his name was one of his campaigns.
+score: 7.7
 ---
 
 Leo Carrillo Ranch is a 27-acre historic park in Carlsbad's eastern hills that preserves the hacienda built by actor and conservationist Leo Carrillo in the early 20th century. The adobe buildings, the tiled fountains, and the peacocks that wander the grounds give the place a languorous California-Spanish atmosphere that feels genuine rather than manufactured, because most of it is original. The ranch was Carrillo's private retreat, and it retains the feel of somewhere people actually lived.

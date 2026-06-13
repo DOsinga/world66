@@ -8,6 +8,7 @@ tags:
 latitude: 43.78
 longitude: 15.32
 story: "George Bernard Shaw, who sailed through the Kornati in 1929, is supposed to have written that 'on the last day of Creation, God desired to crown his work and thus created the Kornati islands out of tears, stars and breath.' The line is endlessly repeated on Croatian tourist literature and almost certainly apocryphal — there is no record of it in Shaw's letters."
+score: 9.3
 ---
 
 The Kornati National Park is a tight cluster of 89 mostly uninhabited islands, islets, and reefs spread over about 220 sq km off the western shore of Murter. The seaward sides of the islands fall away as bare white limestone cliffs — the *krune*, or crowns — that drop 60 metres or more straight into deep blue water. The leeward sides hold sheltered coves with terraced olive groves and the occasional stone hut.

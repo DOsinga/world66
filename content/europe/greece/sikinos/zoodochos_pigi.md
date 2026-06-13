@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6895
 longitude: 25.1155
+score: 7.4
 ---
 
 A working nunnery perched on the eastern edge of the Kastro at 370 metres above sea level, the Monastery of Zoodochos Pigi (Life-Giving Spring) dates to the late 17th century and remains active today. It is reached by a 300-metre stone path that climbs above the Hora — steep but short — and the views from the monastery walls are among the best on the island.

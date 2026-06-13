@@ -5,6 +5,7 @@ snippet: Vanadzor's main 19th-century Armenian Apostolic church, with a striking
 tags: [things_to_do, sight, church]
 latitude: 40.8149
 longitude: 44.4957
+score: 6.8
 ---
 
 Built between 1828 and 1831, this is the oldest standing church in Vanadzor and the seat of the Gugark Diocese of the Armenian Apostolic Church. The exterior alternates the rose-red and dark grey volcanic tuff that gives so much Armenian church architecture its colour, with a stocky drum and conical dome sitting low over a single nave.

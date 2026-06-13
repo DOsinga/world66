@@ -8,6 +8,7 @@ tags:
 latitude: 49.0240
 longitude: 20.5900
 snippet: "Largely intact medieval fortifications ringing the old town"
+score: 8.3
 ---
 
 Levoča still has most of its medieval defensive walls — a 2.5 km ring built from the late 14th century onwards in three concentric lines. About 85% of the masonry survives, along with three of the original gates: Košice Gate, Polish Gate, and Menhardt Gate. You can walk most of the perimeter on small streets just inside the walls.

@@ -5,6 +5,7 @@ tags: [beaches]
 snippet: "Dark sand beaches and salt lake birdwatching"
 latitude: 34.923609
 longitude: 33.623618
+score: 6.2
 ---
 
 Larnaca's beaches stretch along the coast in both directions from the airport. The sand here is darker than the white strands of Ayia Napa — coarser and more natural-looking. East of the airport, beaches like Finikoudes and Mackenzie are well-organised with sunbeds, Blue Flag ratings, and wavebreakers that keep the water calm. West of the airport, the shore is less developed and quieter.

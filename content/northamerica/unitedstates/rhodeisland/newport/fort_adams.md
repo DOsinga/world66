@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fort_Adams
 story: >
   Fort Adams hosted the Newport Jazz Festival from 1954 to 1971, when the original festival was founded by George Wein and Louis Lorillard. The 1958 festival was filmed by Bert Stern and became the film Jazz on a Summer's Day, one of the finest concert documentaries ever made. The Jazz Festival returned to Fort Adams in 1981 and continues to this day, making this fort simultaneously one of the most important military sites and one of the most important musical sites in American history.
+score: 8.5
 ---
 
 Fort Adams, sitting on a peninsula at the entrance to Narragansett Bay, is the largest coastal fortification in the United States — a massive masonry structure begun in 1799 and substantially rebuilt in the 1820s–40s, capable in theory of mounting 468 guns and housing a garrison of 2,400 men. It never fired a shot in anger. The grounds offer the best views in Newport: across the harbor to the city, over the bay to the Naval War College, and out to the Atlantic.

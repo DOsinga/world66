@@ -8,6 +8,7 @@ latitude: 12.9169
 longitude: 100.8675
 story: >
   The large Buddha image on the summit of Phra Tamnak Hill, erected in 1990, faces out to sea. It is said that fishermen and sailors use it as a navigation point when approaching Pattaya from the Gulf of Thailand.
+score: 7.4
 ---
 
 Phra Tamnak Hill divides Pattaya Beach to the north from Jomtien Beach to the south. A road winds up through the trees to a summit with one of the better viewpoints in the area, looking out over Pattaya Bay and across to Ko Larn. There is a small temple and the large Phra Phuttha Nimit Buddha image at the top.

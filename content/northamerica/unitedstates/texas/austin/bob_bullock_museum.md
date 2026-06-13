@@ -7,6 +7,7 @@ tags:
 address: "1800 N Congress Ave"
 latitude: 30.2795
 longitude: -97.7408
+score: 7.8
 ---
 
 The Bob Bullock Museum is the best single introduction to Texas history in the state. Three floors of exhibits trace the full arc of Texas's past: the indigenous peoples of the region, the Spanish colonial period, the Republic of Texas, the Civil War and Reconstruction, and the 20th-century story of oil, ranching, and the modern tech economy.

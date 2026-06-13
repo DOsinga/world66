@@ -8,6 +8,7 @@ tags:
 - festivals
 title: The Esala Perahera
 type: poi
+score: 9.6
 ---
 
 The Esala Perahera is Sri Lanka's grandest festival — ten nights of processions through the streets of Kandy in July or August, culminating in an enormous final parade. It honours the Sacred Tooth Relic of the Buddha, housed in the Temple of the Tooth (Sri Dalada Maligawa), and has been held almost without interruption for over two centuries.

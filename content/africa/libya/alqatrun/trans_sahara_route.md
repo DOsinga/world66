@@ -13,6 +13,7 @@ story: >
   in the interior. The trade was finally suppressed — slowly and incompletely — by the
   Ottomans in the 19th century, and the caravan routes that had sustained it quietly
   shifted to carrying other things.
+score: 6.1
 ---
 
 Al Qatrun sits on one of the historic trans-Saharan caravan routes that connected the Mediterranean coast of North Africa to the kingdoms and trading centres of the Sahel and sub-Saharan Africa. For centuries, caravans carrying slaves, ivory, salt, and gold followed routes through the Fezzan, with oases like Al Qatrun serving as water stops and resting points. The trade was dangerous, slow, and profitable, and it sustained a string of settlements across the desert interior.

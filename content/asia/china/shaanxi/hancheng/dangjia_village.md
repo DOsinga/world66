@@ -9,6 +9,7 @@ latitude: 35.5003
 longitude: 110.4094
 story: >
   The Dang family built their village in 1331 and continued expanding it into the Qing Dynasty, by which time it had grown to over 120 courtyard compounds. Unusually, the village was never substantially damaged or modified during the twentieth century's upheavals, leaving behind an almost complete record of how a prosperous Chinese merchant clan organised its domestic and communal life across six centuries.
+score: 9.2
 ---
 
 Dangjia Village, about nine kilometres northeast of Hancheng's old city, is one of the best-preserved traditional village complexes in China. Founded in the Yuan Dynasty and developed through the Ming and Qing periods, it contains more than 120 four-sided courtyard compounds arranged on a hillside grid of stone-paved lanes. The grey brick walls, carved timber brackets, doorway screens with painted decorations, and family ancestral halls are largely intact and still inhabited.

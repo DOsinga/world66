@@ -8,6 +8,7 @@ tags:
 - walk
 snippet: "Seven-kilometre seafront walk linking Igalo, Herceg Novi and Meljine"
 story: "The promenade is named for five Danica sisters who died young and whose father, a local sea captain, financed a stretch of the path in their memory. It was extended in stages through the 20th century and now runs almost without interruption from the Croatian border to the entrance of the inner bay."
+score: 7.3
 ---
 
 The Pet Danica is the spine of seaside life in Herceg Novi. A paved walkway hugs the shore for around seven kilometres, passing tiny pebble beaches, swimming platforms, restaurants, and the occasional concrete bathing terrace from the Yugoslav era. The full length goes from Igalo in the west to Meljine in the east.

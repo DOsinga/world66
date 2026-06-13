@@ -8,6 +8,7 @@ tags:
 snippet: Ridge cafes and warungs above north Bandung with a view back over the city
 latitude: -6.8538
 longitude: 107.6309
+score: 6.6
 ---
 
 Punclut — a contraction of Puncak Ciumbuleuit — is the ridge above the Ciumbuleuit suburb of north Bandung. The road that climbs to the top is lined with simple Sundanese warungs and a handful of cafes, all positioned for the view back over the city. The best spots are 2–3km past the Hotel Sheraton; ask for *warung pemandangan* (view-warung) and you will be pointed in the right direction.

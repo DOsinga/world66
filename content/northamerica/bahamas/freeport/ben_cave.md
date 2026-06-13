@@ -9,6 +9,7 @@ latitude: 26.5517
 longitude: -78.3389
 story: >
   Ben's Cave was discovered in the 1980s when a sinkhole opened into the underground water table. The cave system it revealed proved to be connected to the vast Lucayan cave network — the longest known underwater cave system in the world. Bones of Lucayan Taino people found in the dry upper sections confirmed that they knew of the caves and used them long before European contact.
+score: 8.2
 ---
 
 Ben's Cave is an ocean hole dive site within Lucayan National Park, about 40 kilometres east of Freeport. A sinkhole drops into a flooded cavern system that connects to miles of underwater passages. The dive begins on the surface — sunlight streams down through the opening into stained, tannic water that transitions to crystal-clear salt water as you descend.

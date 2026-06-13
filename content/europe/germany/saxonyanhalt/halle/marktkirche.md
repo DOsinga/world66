@@ -8,6 +8,7 @@ tags:
 latitude: 51.4826
 longitude: 11.9681
 story: "Halle's market church was created by joining two older churches back to back in the 1530s — the architects kept the western towers of one and the eastern towers of the other and built a new nave between them. That is why the church has four towers, two pairs of different ages standing only metres apart."
+score: 8.8
 ---
 
 The Marktkirche, also called the Marienkirche, gives Halle its signature skyline. Two pairs of towers — the older Hausmannstürme to the west and the bright blue-roofed twin towers to the east — frame a single Late Gothic hall church. Together with the free-standing Red Tower, they make up the famous Fünf Türme, the five towers seen on every postcard of the city.

@@ -9,6 +9,7 @@ latitude: 49.1000
 longitude: 119.5000
 story: >
   The Hulunbuir Prairie is frequently cited as one of the most productive grasslands on earth by biomass — the deep black soil and reliable summer rains support grass growth that turns the steppe a saturated green from late June through August. The same ecosystem has sustained nomadic herding cultures for thousands of years; the Xiongnu, Xianbei, Rouran, Turks, Mongols, and Evenki have all grazed their animals here at different points in history, making it one of the most contested and culturally layered landscapes in Asia.
+score: 9.4
 ---
 
 The Hulunbuir Steppe, spreading out in all directions from Hailar, is the best grassland landscape in Inner Mongolia. This is not a qualified statement: the grass is taller, the sky is bigger, and the pastoral life is more continuous here than in the more heavily visited grassland parks near Hohhot. In July and August, the steppe turns deep green broken by wildflowers, and Mongolian and Evenki herding families still move their livestock across the open land in the traditional way.

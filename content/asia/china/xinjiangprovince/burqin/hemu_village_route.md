@@ -7,6 +7,7 @@ tags:
 - nature
 title: Hemu Village Route
 type: poi
+score: 7.8
 ---
 
 Hemu lies beyond Burqin in the high valleys of the Altay Mountains, known for wooden houses, Tuvan and Kazakh herding culture, and autumn views that have become famous across China. Burqin is the practical staging point for getting there.

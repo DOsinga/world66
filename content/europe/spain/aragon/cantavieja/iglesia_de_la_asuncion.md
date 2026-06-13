@@ -7,6 +7,7 @@ tags:
 - historic_site
 title: Iglesia de Nuestra Señora de la Asunción
 type: poi
+score: 7.6
 ---
 
 The **Iglesia de Nuestra Señora de la Asunción** dominates the Plaza de Cristo Rey with a well-proportioned Baroque facade that dates mainly from the 17th and 18th centuries, though the building incorporates much earlier medieval fabric. The interior has a single nave with lateral chapels, baroque retables, and a good collection of religious paintings and silverwork. The church was heavily damaged during the Carlist Wars of the 19th century and again during the Civil War, but it has been carefully restored.

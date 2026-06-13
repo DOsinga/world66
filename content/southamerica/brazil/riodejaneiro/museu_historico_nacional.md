@@ -9,6 +9,7 @@ latitude: -22.9036
 longitude: -43.1699
 sources:
   - https://en.wikipedia.org/wiki/National_Historical_Museum_(Brazil)
+score: 8.0
 ---
 
 The Museu Histórico Nacional occupies a sprawling colonial fortification near Praça XV in Centro, including the old gunpowder magazine, the old arsenal, and the historic Casa do Trem barracks. It is Brazil's largest history museum, with over 350,000 items covering the full sweep of Brazilian history from pre-colonial times through the Empire, the Republic, and into the 20th century.

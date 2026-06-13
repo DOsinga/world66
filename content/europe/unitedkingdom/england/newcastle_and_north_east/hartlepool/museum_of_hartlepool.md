@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Free local history museum on the Historic Quay"
+score: 7.9
 ---
 
 The Museum of Hartlepool tells the town's story from its Saxon abbey through the Victorian shipbuilding boom and into post-industrial decline. The displays don't shy away from the harder parts — the loss of the yards, the heroin years — but they balance it with genuine local pride in the maritime past.

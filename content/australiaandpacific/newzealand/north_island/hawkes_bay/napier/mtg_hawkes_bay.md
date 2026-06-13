@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -39.4887
 longitude: 176.9189
+score: 8.0
 ---
 
 MTG Hawke's Bay — the Museum, Theatre, and Gallery — is the main cultural institution in Napier, built on the site of the old Hawke's Bay Museum. The building, opened in 2013, is a contemporary design that makes the most of its position near the waterfront. Inside are permanent collections covering the 1931 Hawke's Bay earthquake and the subsequent Art Deco rebuild, Māori taonga (treasures) from the region, and natural history displays.

@@ -14,6 +14,7 @@ story: >
   flowing. Saudi Arabia has been the world's largest oil exporter ever since. The well 
   itself is still producing, making it one of the longest continuously operating oil 
   wells in history.
+score: 5.0
 ---
 
 Dammam Well No. 7 stands on the Saudi Aramco compound in Dhahran — the exact spot where commercial oil production began in Saudi Arabia on March 4, 1938. The drilling had been going badly: the previous six holes had been disappointing, and the company was close to abandoning the concession. Well No. 7 changed everything.

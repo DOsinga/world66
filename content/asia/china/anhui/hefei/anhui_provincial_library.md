@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.8567
 longitude: 117.2842
+score: 6.7
 ---
 
 The Anhui Provincial Library is housed in a striking contemporary building in the Zhengwu cultural district — one of the more architecturally ambitious public buildings in Hefei. The exterior is a flowing concrete form meant to evoke the calligraphic brushstroke, and it works better than such conceits usually do. Inside, the reading rooms are well-lit and generously proportioned, and the exhibition spaces on the lower floors host rotating displays on Anhui history and culture.

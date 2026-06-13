@@ -3,6 +3,7 @@ title: Château Grimaldi
 type: poi
 latitude: 43.6643
 longitude: 7.1502
+score: 7.7
 ---
 
 A fourteenth-century fortress at the top of Haut-de-Cagnes, built by the Grimaldi family — the same dynasty that still rules Monaco. It anchors the skyline of the village and is visible from a long way down the coast.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When the bride died only a few weeks after the wedding, her widower kept the cake as a memorial. It passed down through the family and eventually to the museum. The icing is still almost perfectly intact more than 120 years on."
+score: 5.9
 ---
 
 Displayed under glass at the Willis Museum is what is thought to be the world's oldest surviving complete wedding cake. Baked in 1898 for the wedding of Frances Webb and Charles Pearce in Basingstoke, the cake is a tiered, floral, hand-piped Victorian confection — and the icing is still in remarkable condition.

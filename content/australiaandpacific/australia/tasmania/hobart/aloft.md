@@ -12,6 +12,7 @@ tags:
   - restaurant
   - sullivans_cove
 snippet: "Modern Asian fine dining on the second floor of Brooke Street Pier — wraparound harbour views"
+score: 7.1
 ---
 
 A handsome dining room on the upper floor of Brooke Street Pier, with floor-to-ceiling windows looking across the harbour to Mount Wellington. The cooking is modern Asian with strong Japanese and Cantonese influences: house-made silken tofu with sea grape and bonito, char-grilled scallops with fermented chilli, slow-cooked Wagyu short rib, and a particularly good crispy duck. The presentation is precise but unfussy.

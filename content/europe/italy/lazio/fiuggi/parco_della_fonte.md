@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.8012
 longitude: 13.2180
+score: 6.4
 ---
 
 The Parco della Fonte is the landscaped park that surrounds the springs and forms the heart of Fiuggi Terme. Wide shaded promenades run between mature trees, with benches placed at intervals for those who want to sit, sip their water, and watch the world go gently past. The design is classic early-20th-century Italian resort planning — formal enough to feel elegant, relaxed enough to actually enjoy.

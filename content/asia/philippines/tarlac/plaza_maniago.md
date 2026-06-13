@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 15.4878
 longitude: 120.5883
+score: 5.9
 ---
 
 Plaza Maniago is the civic heart of Tarlac City, the open square that anchors the old town grid. It takes its name from Diego Silang's ally Palaris — no, more precisely, from a local hero — but it is better known today as the forecourt of San Sebastian Cathedral and the venue for the San Sebastian fiesta every January. The square has the usual canopy of acacia trees, a bandstand, and benches that fill with students and vendors in the late afternoon.

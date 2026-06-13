@@ -10,6 +10,7 @@ title: Eastgate Centre
 type: poi
 story: >
   Architect Mick Pearce designed Eastgate by studying how termite mounds regulate temperature through a system of vents and chimneys. The building stays at a comfortable temperature year-round without conventional air conditioning — saving an estimated ten times the energy of a comparable conventional structure. It became a landmark in biomimicry architecture and is studied in design schools worldwide.
+score: 3.8
 ---
 
 The Eastgate Centre on Robert Mugabe Road is a shopping centre and office block whose design made architectural history. Completed in 1996 and designed by Zimbabwean architect Mick Pearce in association with Arup, the building regulates its temperature through a passive ventilation system modelled on the self-cooling mounds built by African termites.

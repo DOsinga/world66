@@ -6,6 +6,7 @@ longitude: 11.0790
 tags:
   - things_to_do
   - sight
+score: 8.9
 ---
 
 The peninsula tapers to a windswept point known as Cape Africa, capped by a working lighthouse and the ruins of the Borj el Kebir fortress. The walk out along the ramparts takes about twenty minutes from the medina and is worth it for the view alone — open sea on three sides, with the sailors' cemetery sloping down to the waterline.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, landmark]
 latitude: 47.3992
 longitude: 0.6856
+score: 7.6
 ---
 
 The Wilson Bridge is the oldest bridge in Tours, built between 1765 and 1778 by the engineer Mathieu de Bayeux. It is a beautifully proportioned 14-arch stone bridge that carries the Rue Nationale north across the Loire to the suburb of Saint-Symphorien.

@@ -9,6 +9,7 @@ longitude: 24.7328
 snippet: Bohemian wooden house neighbourhood north of the Old Town, now Tallinn's most creative district
 sources:
   - https://en.wikipedia.org/wiki/Kalamaja
+score: 8.7
 ---
 
 Kalamaja (which means "fish house" in Estonian) is the hip neighbourhood immediately north of the Old Town, built up in the 19th century as a working-class district of wooden houses and now the most interesting part of the city to explore on foot. The streets are lined with colourful timber buildings — some immaculate, some charmingly dilapidated — and the neighbourhood has filled up with independent cafes, galleries, and studios over the past decade.

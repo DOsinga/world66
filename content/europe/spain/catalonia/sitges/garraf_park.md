@@ -9,6 +9,7 @@ tags:
 latitude: 41.2833
 longitude: 1.8833
 snippet: White limestone massif of caves, cliffs, and coast roads
+score: 8.4
 ---
 
 The Garraf Natural Park covers more than 12,000 hectares of stark white limestone hills west of Sitges, dropping into the Mediterranean along dramatic cliff roads. The landscape is unusual for Catalonia: arid, lunar, scattered with palm and prickly-pear, and riddled with caves and underground rivers carved into the porous stone.

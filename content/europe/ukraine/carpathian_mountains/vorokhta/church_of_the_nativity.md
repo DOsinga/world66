@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Church of the Nativity
 type: poi
+score: 8.1
 ---
 
 A beautiful example of Hutsul wooden architecture, this church dedicated to the Nativity of Christ was built in the 18th century. The structure is entirely of timber, using the stacked log technique typical of Carpathian highland churches. The proportions are elegant — three cupolas rising from a forest clearing, each clad in wooden shingles darkened by age. The interior retains original iconostasis work and the atmosphere is genuinely devotional rather than museified. Services are still held here.

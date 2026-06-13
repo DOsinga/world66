@@ -14,6 +14,7 @@ story: >
   lighthouse keeper position was notoriously difficult to staff in the early
   20th century; the isolation and weather made it one of the least desirable
   postings in the Danish realm.
+score: 8.1
 ---
 
 Five kilometres south of Sumba by road and then footpath, Akraberg is the southernmost point of the entire Faroe Islands. The lighthouse here, built in 1909 in red and white brick, stands on the clifftops above vertical drops into the sea. Seabirds — guillemots, kittiwakes, puffins in summer — nest in the cliff faces below.

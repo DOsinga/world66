@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.8625
 longitude: -5.1810
+score: 5.9
 ---
 
 Restaurante Palmero is one of the more established dining options in Setenil, serving a full menu of Andalucian dishes rather than just tapas. The kitchen focuses on local ingredients: chivo lechal (kid goat) roasted in the traditional way is the house speciality, along with pork dishes using meat from the black Iberian pigs that roam the dehesas of the surrounding sierra.

@@ -10,6 +10,7 @@ longitude: 15.6489
 snippet: "Baroque castle complex housing the Regional Museum of Maribor"
 story: >
   The castle was used as a prison for most of the 19th and early 20th century, and the cells are still visible in the lower levels. During World War I, Italian prisoners of war were held here. The castle's most unusual feature is a courtyard with a double arcade — two storeys of arched galleries overlooking a central court that is used for open-air concerts in summer.
+score: 7.2
 ---
 
 Maribor Castle sits on the northern edge of the old town, a largely 16th-century building on medieval foundations that now houses the Regional Museum of Maribor. The building is a mixed bag architecturally — added to and altered over many centuries — but the courtyard arcade is genuinely handsome, and the museum inside gives good context for the town's history as a Habsburg frontier fortress.

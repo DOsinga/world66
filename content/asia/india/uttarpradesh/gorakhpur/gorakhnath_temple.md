@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Gorakhpur
 story: >
   The temple is the seat of the Nath sampradaya, an ancient order of Shaivite yogis founded by Guru Gorakshnath, who is said to have lived here in the 11th or 12th century. The current Mahant (head priest) of the temple also holds a seat in the Uttar Pradesh legislature — an unusual entanglement of religious and political authority that has defined Gorakhpur's character for decades.
+score: 8.4
 ---
 
 The Gorakhnath Temple is the defining landmark of Gorakhpur and one of the most important pilgrimage sites in eastern Uttar Pradesh. The temple complex honours Guru Gorakshnath, the medieval ascetic credited with founding the Nath order of yoga and popularising Hatha Yoga across the Indian subcontinent. The main shrine is large and always busy, attended by sadhus and pilgrims from across the Hindi belt.

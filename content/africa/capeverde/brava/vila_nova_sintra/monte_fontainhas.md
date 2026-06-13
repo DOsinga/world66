@@ -9,6 +9,7 @@ latitude: 14.8514
 longitude: -24.7047
 story: >
   Monte Fontainhas is the remains of a shield volcano — Brava itself is a volcanic island, and the mountain sits at the collapsed centre of the original crater complex. The lush vegetation draped across its slopes in the wet season is misleading: below the green surface, the rock is all ancient lava.
+score: 8.0
 ---
 
 Monte Fontainhas is the highest point on Brava at around 976 metres, rising from the volcanic interior of the island south of Vila Nova Sintra. A walk to the summit from the town takes two to three hours on steep cobbled paths, rewarding the effort with views that take in the entire island and, on clear days, Fogo with its active volcano rising from the sea to the north.

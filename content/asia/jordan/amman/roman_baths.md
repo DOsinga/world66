@@ -7,6 +7,7 @@ tags:
   - downtown_al_balad
 latitude: 31.9519
 longitude: 35.9375
+score: 6.8
 ---
 
 Amman's Roman baths complex — one of the largest excavated in the eastern Mediterranean — lies partially under the modern downtown streets. The visible remains include substantial sections of the hypocaust heating system (the raised floor channels through which hot air circulated to heat the bathing rooms), portions of the frigidarium (cold bath) walls, and a giant hand, foot, and torso from what must have been a colossal statue, probably of Hercules, found in the rubble and now displayed at the site.

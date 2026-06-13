@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 5.1628
 longitude: -52.6427
+score: 6.9
 ---
 
 Vieux Bourg is the old quarter of Kourou, hugging the rivermouth where the Kourou River meets the Atlantic. It predates the space centre era and has a noticeably different character from the grid-planned districts built to house ESA contractors: older houses, a working waterfront, and the kind of informal commercial life that the newer parts of town lack.

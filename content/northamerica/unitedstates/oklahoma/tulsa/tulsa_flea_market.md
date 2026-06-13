@@ -8,6 +8,7 @@ tags:
   - shopping
 latitude: 36.1474
 longitude: -95.9380
+score: 6.4
 ---
 
 The Tulsa Flea Market is held every Saturday from 8 a.m. to 5 p.m. in Exchange Buildings I and II at Expo Square. There is no flea market from mid-September to mid-October due to the Tulsa State Fair.

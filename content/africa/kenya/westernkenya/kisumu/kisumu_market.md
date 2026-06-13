@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, shopping]
 latitude: -0.0960
 longitude: 34.7520
+score: 7.4
 ---
 
 The central market near the bus stage is one of the best markets in western Kenya and worth an hour of anyone's time. Soapstone carvings are the standout purchase — prices are a fraction of what you pay in Nairobi, and the quality is just as good. The stone comes from Tabaka in Kisii County, about two hours south, and the carvings range from small tourist pieces to serious works.

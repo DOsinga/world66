@@ -9,6 +9,7 @@ title: Cathedral of Our Lady of Guadalupe
 type: poi
 story: >
   The first church on this site was built in 1670, but fire, earthquake, and hurricane have rebuilt it multiple times since. The present structure dates largely from the 1930s, when a major restoration gave it the twin bell towers and neoclassical facade that define it today. The cathedral sits directly across the plaza from the Parque de Bombas firehouse, and the juxtaposition — solemnity facing exuberance, white stucco facing red-and-black wood — captures something essential about Ponce's character.
+score: 7.6
 ---
 
 The Cathedral of Our Lady of Guadalupe anchors the northern edge of Plaza las Delicias and has been the religious centre of Ponce since the seventeenth century. The current building, substantially rebuilt after the 1918 Puerto Rico earthquake and restored again in the 1930s, presents a commanding neoclassical facade with twin towers that can be seen from across the plaza. The interior is light and high, with stained glass imported from France and a gilded main altar that dates from the previous building.

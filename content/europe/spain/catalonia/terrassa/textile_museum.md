@@ -6,6 +6,7 @@ longitude: 2.019444
 tags:
   - things_to_do
   - museum
+score: 7.5
 ---
 
 The Textile Museum is one of the more specialised collections in Catalonia, with over 25,000 pieces tracing the development of fabric, dyeing, weaving and clothing from antiquity to the present. Its strength is the early period: Coptic textiles from late antique Egypt, Byzantine silks, and an exceptional collection of medieval Hispano-Moresque embroidery and Andalusi textiles.

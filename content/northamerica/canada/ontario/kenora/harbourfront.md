@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kenora Harbourfront
 type: poi
+score: 6.9
 ---
 
 The Harbourfront is the strip of boardwalk, marina, and small parks that lines downtown Kenora on the lake. The Whitecap Pavilion hosts summer concerts, shops and restaurants face the water, and the dock is the departure point for the M.S. Kenora, an 80-foot cruise boat that runs scheduled sightseeing trips into the lake's narrows.

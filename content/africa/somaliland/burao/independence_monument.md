@@ -8,6 +8,7 @@ tags:
 - sight
 title: Burao Independence Memorial
 type: poi
+score: 6.4
 ---
 
 Burao is the place where modern Somaliland was born. In May 1991, after the collapse of the Siad Barre regime in Mogadishu, clan elders and the Somali National Movement met here and declared the territory's withdrawal from the Somali union. The site is marked by a modest memorial in the city centre — small by international standards but heavy with meaning for locals.

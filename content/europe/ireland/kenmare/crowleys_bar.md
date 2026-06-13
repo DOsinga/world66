@@ -7,6 +7,7 @@ tags:
 - bar
 latitude: 51.8800
 longitude: -9.5836
+score: 7.7
 ---
 
 Crowley's is what you hope an Irish country pub will be: dark wood, low beams, a turf fire in winter, and a back room that fills up for sessions several nights a week in summer. The music is the real thing — local players, fiddle and accordion and tin whistle, not a tourist showcase.

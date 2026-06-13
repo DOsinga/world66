@@ -13,6 +13,7 @@ story: >
   sold the vision of a Florida Venice complete with causeways and island gardens.
   The boom went bust before most of it was built, but the landscaped lakefront
   that remained became the city's best public space.
+score: 7.1
 ---
 
 Venetian Gardens is Leesburg's waterfront crown jewel — 45 acres of landscaped parkland on the northwest shore of Lake Harris, with paved paths winding across causeways and small islands connected by walking bridges. On a clear morning the water reflects the sky and the place feels genuinely beautiful rather than merely functional.

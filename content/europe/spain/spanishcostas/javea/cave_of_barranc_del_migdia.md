@@ -7,6 +7,7 @@ tags:
 latitude: 38.7889
 longitude: 0.1661
 snippet: "Prehistoric cave discovered in 1989 with palaeolithic remains"
+score: 5.4
 ---
 
 This cave, discovered in 1989 during works in the Barranc del Migdia ravine, is one of the archaeologically significant sites in the Jávea area. The cave yielded Palaeolithic remains including animal bones and evidence of human habitation from prehistoric periods, adding to the picture of long human occupation in the Montgó and coastal areas.

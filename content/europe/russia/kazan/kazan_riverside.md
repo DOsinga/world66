@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.9
 ---
 
 The Volga riverside on the western edge of Kazan has a long landscaped promenade running for several kilometres from the river terminal south past parks and the city beach. River cruises depart from the terminal in summer for trips ranging from one-hour scenic loops to multi-day journeys upstream to Moscow or downstream to Saratov and Astrakhan.

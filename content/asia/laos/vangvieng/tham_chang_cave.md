@@ -9,6 +9,7 @@ longitude: 102.4461
 snippet: The most accessible of Vang Vieng's caves, perched on a cliff with sweeping views over the Nam Song valley
 story: >
   Tham Chang has been used as a shelter for centuries — its name means "steadfast cave" and it served as a refuge during 19th-century Chinese Haw raids from the north. A small Buddha shrine still sits inside, tended by locals who consider the cave sacred. The view from the cave mouth, looking back across the Nam Song towards the town and the karst ridgeline beyond, is one of the better panoramas in the region.
+score: 7.4
 ---
 
 A short boat crossing over the Nam Song brings you to the foot of the cliff, from which a steep staircase climbs to the cave entrance. The cave itself is large enough to walk through upright — lit chambers reveal stalactites and stalagmites, and a cool breeze comes through even in the heat of the day. The entrance fee is small and includes the boat crossing.

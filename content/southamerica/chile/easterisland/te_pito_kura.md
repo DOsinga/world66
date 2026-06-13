@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - archaeology
+score: 7.8
 ---
 
 Te Pito Kura is the location of Paro, at 9.8 metres the tallest moai ever erected on a platform and now lying face down where it has been since at least the 19th century. The figure is broken at the neck and its great cylindrical pukao sits a few metres away. Next to the fallen statue is a smooth round basalt boulder said to have been brought from Polynesia by Hotu Matu'a — the so-called "Navel of the World," which locals demonstrate by pressing a compass to it and watching the needle spin.

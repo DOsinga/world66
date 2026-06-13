@@ -10,6 +10,7 @@ tags:
 title: La Scala
 type: poi
 snippet: "Old-school Beverly Hills Italian famous for its chopped salad"
+score: 5.8
 ---
 
 An Italian restaurant that has been part of the Beverly Hills dining scene since the 1950s. The red vinyl booths and old-school atmosphere are part of the appeal. The chopped salad — a house invention that has been widely imitated — is the dish to order.

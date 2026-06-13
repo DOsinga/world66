@@ -6,6 +6,7 @@ longitude: 118.9224
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The long, mostly empty beach of **Sabang** is the launching point for the underground river and a worthwhile destination in its own right. The beach itself runs for two kilometres, palm-backed, with a handful of resorts at the eastern end and almost no development to the west.

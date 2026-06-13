@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: The fountain in the centre, with its statue of Neptune, has stood here since 1701 — a confident sign that this small Silesian market was prospering long before its industrial boom. The square's pastel paint scheme is a much later flourish, restored after 1989 to give the town a face worth photographing.
+score: 6.9
 ---
 
 The Rynek is the historic heart of the Bielsko side of the city, a small square shaped roughly like a triangle, surrounded by Renaissance and Baroque burgher houses painted in soft yellows, pinks and greens. Cars are banned, tables spill out from cafes around the edges, and a daily round of small concerts and market events makes it the most reliable place to find life in the old town.

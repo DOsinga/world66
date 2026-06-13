@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.2
 ---
 
 Chokpak Pass sits on one of the busiest bird migration corridors in Central Asia, funnelling raptors and songbirds between Siberia and the Indian subcontinent. The ringing station, run by Kazakh ornithologists since 1966, traps and tags up to 100,000 birds per season — including steppe eagles, sparrowhawks, and various rare warblers.

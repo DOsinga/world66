@@ -11,6 +11,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Adventurous Tasmanian degustation in a tiny dining room above a bar — the city's most ambitious cooking"
+score: 7.6
 ---
 
 Hobart's most ambitious restaurant, a small upstairs room above the cocktail bar **Lucinda** on Collins Street. Chef Kobi Ruzicka and Sarah Fitzgerald serve a set tasting menu of around eight courses, almost entirely Tasmanian produce, often with foraged ingredients (sea spinach, native lemon myrtle, pippies from the East Coast) and a clear influence from Nordic and modern Australian cooking.

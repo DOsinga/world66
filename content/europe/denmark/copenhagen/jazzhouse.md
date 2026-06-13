@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 55.6793
 longitude: 12.5769
+score: 7.4
 ---
 
 Jazzhouse on Niels Hemmingsens Gade is Copenhagen's main dedicated jazz club, with live music most nights from around 8pm. The programme ranges from Danish jazz groups to international names visiting for the Copenhagen Jazz Festival or on European tours. The room holds a few hundred people, has good acoustics, and serves a decent selection of beer and cocktails.

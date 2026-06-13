@@ -6,6 +6,7 @@ longitude: 134.7547
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Josephine's Gallery doubles as an Aboriginal art shop and a kangaroo orphanage — a combination that exists nowhere else and feels entirely Coober Pedy. The orphanage takes in joeys (baby kangaroos) found by the roadside after their mothers are killed by vehicles, and visitors can hand-feed and play with them in the late afternoon.

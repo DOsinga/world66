@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Quarry Lakes
 type: poi
+score: 7.6
 ---
 
 Granite quarrying sustained Pulau Ubin for most of the twentieth century — the island supplied much of the stone used in Singapore's early construction. When the quarries were abandoned and flooded, they left behind a chain of calm freshwater lakes ringed by secondary forest. The largest, near the centre of the island, is particularly beautiful in morning light, with white egrets working the shallows and kingfishers on the overhanging branches. The bike tracks that loop around the lakes are among the most pleasant riding on the island.

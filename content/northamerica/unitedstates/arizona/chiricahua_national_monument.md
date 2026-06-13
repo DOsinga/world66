@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Chiricahua National Monument
 type: poi
+score: 8.1
 ---
 
 The Chiricahua Mountains in far southeastern Arizona hide one of the state's least-visited national monuments — a landscape of weirdly eroded rhyolite columns and balanced rocks that locals once called the Land of the Standing-Up Rocks. The hiking here is excellent and the crowds are almost nonexistent.

@@ -9,6 +9,7 @@ story: >
   The Pula Arena is the only Roman amphitheatre in the world that has preserved all four side towers intact. Napoleon's general, Marmont, governed Pula in the early 19th century and seriously proposed dismantling the arena stone by stone and reassembling it in a park in Paris — the plan was only abandoned after local protests.
 title: Amphitheatre
 type: poi
+score: 9.4
 ---
 
 The most famous monument in Pula and the starting point for any visit. This Roman amphitheatre was built in the 1st century AD during the reign of Emperor Vespasian, around the same time as the Colosseum in Rome. Oval in plan, roughly 130 metres long and 100 metres wide, it could seat about 20,000 spectators for gladiatorial fights.

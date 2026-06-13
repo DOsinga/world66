@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Makphet
 type: poi
+score: 6.9
 ---
 
 Makphet started as a training restaurant for at-risk teenagers in Vientiane and grew into one of the city's best dining rooms. The trainees prepare dishes that play with traditional Lao flavours — lemongrass, sticky rice, river fish — but plate them more carefully than usual and add modern flourishes. Profits go back into the training programme.

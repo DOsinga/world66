@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 Tachogna Beach on Tinian's western coast is consistently regarded as the best beach on the island and one of the finer stretches of sand in the Northern Marianas. The water is clear and calm, protected by a fringing reef, and the beach itself is broad and white. On most days you will have it almost entirely to yourself — a genuine rarity for a beach this good.

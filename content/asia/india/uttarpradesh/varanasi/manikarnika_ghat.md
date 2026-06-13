@@ -13,6 +13,7 @@ story: >
   To be cremated here is believed to grant instant moksha — liberation from the cycle of rebirth.
 sources:
   - https://en.wikipedia.org/wiki/Manikarnika_Ghat
+score: 9.3
 ---
 
 Manikarnika is Varanasi's principal cremation ghat, and the most sacred site of death in Hinduism. Day and night, without interruption, bodies are brought here on bamboo stretchers wrapped in marigolds, dipped briefly in the Ganges, and then placed on wood pyres that burn for several hours. The ghat handles dozens of cremations daily, and the sight of funeral pyres burning against the river at night — visible from boats on the water — is one of the most profound experiences the city offers.

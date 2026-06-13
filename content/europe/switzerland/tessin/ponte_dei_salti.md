@@ -14,6 +14,7 @@ story: >
   driving up the valley to claim their spot in the cool mountain water.
 sources:
   - https://www.ascona-locarno.com/en/explore/valle-verzasca
+score: 8.6
 ---
 
 The most photographed bridge in Ticino stands in the village of Lavertezzo, halfway up the Verzasca Valley. The Ponte dei Salti is a Roman-arch pedestrian bridge, built in the 17th century with two spans of fourteen metres each, arching gracefully over the turquoise-green river. Below it, the Verzasca has carved smooth basins and channels in the granite that collect into swimming pools of extraordinary clarity.

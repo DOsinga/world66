@@ -8,6 +8,7 @@ tags:
 - beach
 title: Lime Cay
 type: poi
+score: 6.3
 ---
 
 A few kilometres east of Port Royal, Lime Cay is a tiny uninhabited island of white sand and a few palm trees in clear shallow water. Local boatmen run trips out from the Port Royal dock, particularly on weekends, when the cay fills up with families from Kingston picnicking and swimming.

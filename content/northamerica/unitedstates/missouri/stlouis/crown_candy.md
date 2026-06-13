@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: 38.6504
 longitude: -90.2050
+score: 6.4
 ---
 
 Crown Candy Kitchen opened in 1913 in the then-thriving immigrant neighbourhood of Old North St Louis and has been run by the same family ever since. It is the oldest operating soda fountain in St Louis and one of the last classic confectionaries in the country, complete with the original marble counter, ceramic Coca-Cola lights, and tin ceilings.

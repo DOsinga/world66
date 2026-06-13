@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.3666
 longitude: 0.0817
+score: 5.9
 ---
 
 Les Vapeurs is the most famous of the brasseries lining the quay, in business since 1927. The interior is a classic French brasserie of brass, mirrors, and red banquettes; the menu is dominated by oysters, mussels marinière, sole meunière, and platters of shellfish.

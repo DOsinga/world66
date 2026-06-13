@@ -6,6 +6,7 @@ tags:
 - museum
 title: Explore More Discovery Museum
 type: poi
+score: 5.4
 ---
 
 Explore More is Harrisonburg's children's discovery museum, occupying a restored building downtown with hands-on exhibits covering science, local history, culture, and creativity. It is the best children's attraction in the city and well-maintained.

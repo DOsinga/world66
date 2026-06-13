@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 40.6817
 longitude: -75.2386
+score: 7.9
 ---
 
 A 520-acre linear park along the restored Lehigh Canal southwest of downtown. The towpath here is the only stretch of canal in the country where you can still see a mule-drawn boat in operation — the **Josiah White II** is based at the boat dock in the park and runs visitor trips through summer.

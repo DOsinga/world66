@@ -10,6 +10,7 @@ tags:
 - sight
 title: Santa Chiara
 type: poi
+score: 5.8
 ---
 
 A former Franciscan convent church built in the 17th century, now deconsecrated and repurposed as a cultural space for temporary exhibitions and civic events. The interior retains its original proportions and much of its decorative plasterwork, making it an attractive venue for the exhibitions it occasionally hosts. The adjacent convent buildings are used by the local municipality.

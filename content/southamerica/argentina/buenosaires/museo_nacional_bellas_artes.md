@@ -9,6 +9,7 @@ latitude: -34.5878
 longitude: -58.3963
 url: mnba.gob.ar
 opening_hours: "Tue–Fri 11:00–20:00; Sat–Sun 10:00–20:00; closed Mon"
+score: 8.5
 ---
 
 Argentina's national fine arts museum, housed in a 19th-century building in Recoleta, holds the largest collection of Western art in South America — approximately 12,000 works spanning the 11th century to the present. The collection is strongest in European late-19th and early-20th-century painting (Monet, Degas, Toulouse-Lautrec, Van Gogh, Renoir), and in Argentine art from the same period.

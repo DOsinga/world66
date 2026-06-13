@@ -7,6 +7,7 @@ latitude: 40.167
 longitude: 44.3095
 story: >
   Hripsime was, according to legend, a beautiful Roman nun who fled to Armenia to escape the lust of the emperor Diocletian. She refused the advances of King Tiridates too, and was martyred for it — only for Tiridates to be converted by Gregory the Illuminator soon after. The 618 AD church is said to stand over the spot where she died.
+score: 8.8
 ---
 
 Built in 618 AD by Catholicos Komitas, the church of Saint Hripsime is the most architecturally celebrated of the Echmiadzin churches. Its tetraconch plan — a Greek cross with four conches — became the template for Armenian church-building over the following centuries, and the proportions are so clean that you can take in the whole structure with a single glance. The exterior is austere reddish tuff, the only decoration being a few discreet niches and a delicately carved frame around the western door.

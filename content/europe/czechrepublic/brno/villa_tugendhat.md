@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture, museum]
 latitude: 49.2007
 longitude: 16.6166
 story: Villa Tugendhat was commissioned by the wealthy Tugendhat family and completed by Mies van der Rohe in 1930, only three years after his Barcelona Pavilion. When the Nazis occupied Czechoslovakia, the Jewish Tugendhat family fled; the villa was used variously as a stable and a gymnasium before being returned and restored. After the war, the building hosted the negotiations that led to the peaceful dissolution of Czechoslovakia into two separate states in 1992 — the so-called Velvet Divorce was signed in its living room.
+score: 9.2
 ---
 
 Villa Tugendhat is a UNESCO World Heritage Site and one of the defining buildings of 20th-century modernism. Mies van der Rohe's design uses a then-revolutionary open floor plan, floor-to-ceiling glass walls that slide entirely into the floor, and materials of exceptional quality — travertine, onyx, and macassar ebony — to create a space that still feels radical nearly a century later.

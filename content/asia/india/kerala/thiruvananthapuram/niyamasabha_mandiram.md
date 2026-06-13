@@ -9,6 +9,7 @@ latitude: 8.5079
 longitude: 76.9500
 sources:
   - https://en.wikipedia.org/wiki/Niyamasabha_Mandiram
+score: 5.3
 ---
 
 The Niyamasabha Mandiram is the Kerala Legislative Assembly building, a handsome colonial structure in the Palayam neighbourhood that reflects the administrative gravity of this government capital. It was built in the 1930s and is an interesting example of the architectural compromise between British colonial function and local ornamental tradition.

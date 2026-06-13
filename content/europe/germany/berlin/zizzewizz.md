@@ -12,6 +12,7 @@ tags:
 - kreuzberg
 title: Zizzewizz
 type: poi
+score: 6.1
 ---
 
 A well-curated secondhand clothing shop in Kreuzberg specializing in quality vintage pieces from the 1920s through the 1970s. The selection is carefully chosen rather than overwhelming — expect tailored coats, printed dresses, and the occasional wild polyester find. Worth a browse if you're near Görlitzer Bahnhof.

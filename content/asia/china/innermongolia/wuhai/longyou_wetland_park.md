@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 39.7200
 longitude: 106.8300
+score: 6.8
 ---
 
 The Longyou Bay National Wetland Park on the northern end of Wuhai Lake protects a section of reed beds, shallow marsh, and riverine woodland that provides important stopover habitat for migratory birds on the Central Asian flyway. The park's location at the junction of the Yellow River corridor and the desert edge means it attracts species from both ecosystems: waterbirds using the river margin and desert species moving between the dune fields and the agricultural land east of the river.

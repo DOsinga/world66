@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 9.3
 ---
 
 Built in 1563 by Pope Pius IV to consolidate the scattered classrooms of the university — and to stop the Basilica of San Petronio from growing any larger — the Archiginnasio served as the main seat of the University of Bologna until 1803. Today it houses the city library and remains open to walk through.

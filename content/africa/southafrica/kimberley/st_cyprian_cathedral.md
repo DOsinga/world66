@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -28.7425
 longitude: 24.7706
+score: 6.4
 ---
 
 St Cyprian's Cathedral is the seat of the Bishop of Kimberley and Kuruman in the Anglican Church of Southern Africa, and one of Kimberley's finest Victorian buildings. It was built in stages from the 1880s as the diamond rush brought permanent wealth and settlement to what had been a tent city.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.3750
 longitude: 23.2000
 snippet: "Wild pebble cove on the eastern coast, accessible only by hiking path — one of Pelion's finest beaches"
+score: 8.2
 ---
 
 Mylopotamos is widely considered one of the most beautiful beaches on Pelion's eastern coast and is accessible only on foot — a 20-minute descent on a stone-paved path from the road above. The beach is a narrow pebble cove backed by cliffs, with exceptionally clear turquoise water and the dramatic wooded hillsides of the peninsula rising behind it. There is a small taverna operating in summer.

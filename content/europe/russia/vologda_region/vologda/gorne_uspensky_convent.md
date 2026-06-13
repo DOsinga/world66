@@ -8,6 +8,7 @@ latitude: 59.2317
 longitude: 39.8706
 sources:
   - https://en.wikipedia.org/wiki/Gorne-Uspensky_Convent
+score: 7.2
 ---
 
 A convent on the hill above the Vologda River, north of the city centre, founded in the early 17th century and still operating as an active women's monastery. The main church — the Assumption Cathedral — is an 18th-century building in the Baroque style that was unusual for the Vologda region, where most religious architecture of the period was more conservative.

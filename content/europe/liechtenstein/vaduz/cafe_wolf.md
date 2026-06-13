@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Café Wolf
 type: poi
+score: 5.5
 ---
 
 A reliable mid-morning stop on Städtle for proper coffee, fresh pastries, and a generous slice of Vaduzer Torte (the local chocolate-and-nut cake). The interior is plainly modern; the terrace outside, with a view over the pedestrian street and the cathedral, is the better seat in good weather.

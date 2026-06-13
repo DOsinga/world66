@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - theatre
+score: 7.0
 ---
 
 Crossroads Theatre, founded in 1978, is one of the oldest professional African American theatre companies in the United States. It won the Tony Award for Outstanding Regional Theatre in 1999 — the only New Jersey theatre ever to do so. The company focuses on plays from the African diaspora, with seasons that mix revivals of August Wilson and Lorraine Hansberry with new commissioned work.

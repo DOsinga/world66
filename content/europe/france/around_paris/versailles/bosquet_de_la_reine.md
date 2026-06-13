@@ -12,6 +12,7 @@ story: >
   The Affair of the Diamond Necklace — a necklace worth the equivalent of €15
   million today — destroyed the queen's reputation and made the Revolution
   that followed feel almost inevitable.
+score: 6.8
 ---
 
 The Bosquet de la Reine (Queen's Grove) is one of the woodland garden rooms in the south section of the gardens, near the Apollo fountain. It is a quiet, shaded enclosure of clipped hornbeam hedges with a central fountain basin — typical of the bosquet style — but it has an unusual historical weight.

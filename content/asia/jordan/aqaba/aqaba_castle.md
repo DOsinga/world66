@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.4
 ---
 
 The Mamluk fortress on Aqaba's corniche is the city's most prominent historic monument — a stone-walled rectangle with corner towers, built in its current form by the Mamluk sultan Qansuh al-Ghuri around 1510 to guard the pilgrim route between Cairo and Mecca. The Ottomans took it over a few years later and held it until 1917, when it was captured by Arab forces under T.E. Lawrence and bombarded by the Royal Navy.

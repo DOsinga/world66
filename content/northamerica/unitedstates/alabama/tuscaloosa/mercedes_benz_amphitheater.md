@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.21219
 longitude: -87.57476
+score: 5.8
 ---
 
 The Mercedes-Benz Amphitheater sits on the bank of the Black Warrior River, a 15-acre outdoor venue that hosts concerts, festivals, and community events throughout the year. The river setting gives it an unusual character for a mid-sized city venue — the stage faces the water, and the seating and lawn areas slope toward the riverbank.

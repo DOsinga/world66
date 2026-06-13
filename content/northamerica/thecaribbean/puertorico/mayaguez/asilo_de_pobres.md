@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 A large Classical Revival building south of the city centre, opened in 1906 as a municipal shelter for the poor and disabled. The proportions are stately and the long pedimented façade — set back from the road behind a low stone wall — has the look of a small provincial railway station.

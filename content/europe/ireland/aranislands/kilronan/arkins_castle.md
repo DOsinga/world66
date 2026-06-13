@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1051
 longitude: -9.6627
+score: 6.8
 ---
 
 Arkin's Castle is a ruined tower on the foreshore near Killeany Bay, the most prominent historical structure visible from the ferry pier. The name is anglicised from the Irish — the castle itself was built by Cromwellian forces in the 1650s and used as a military garrison to control access to the islands. The original medieval fortification on the site is older, but what stands is largely the Cromwellian reconstruction.

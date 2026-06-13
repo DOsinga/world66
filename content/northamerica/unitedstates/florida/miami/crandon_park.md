@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.7102
 longitude: -80.1564
+score: 7.7
 ---
 
 Crandon Park occupies 808 acres on the northern half of Key Biscayne, just south of Miami across the Rickenbacker Causeway, and contains one of the best beaches in the city. The beach is wide, relatively uncrowded compared to South Beach, and faces calm, shallow water on the bay side rather than the Atlantic surf. The park also contains a tennis center that hosts the Miami Open — one of the premier events on the ATP/WTA tour — every March.

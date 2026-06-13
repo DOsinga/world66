@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Lugaris
 type: poi
+score: 6.4
 ---
 
 A serious modern Extremaduran kitchen run by chef Iñaki Rodaballo, sitting on a quiet street near the river. The cooking takes traditional regional ingredients — Ibérico pork, Torta del Casar cheese, river fish, local game — and treats them with care, technique and a degree of restraint. The tasting menus change with the season and run to several hours; the à la carte is shorter and more affordable.

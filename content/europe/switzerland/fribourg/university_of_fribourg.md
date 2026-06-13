@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.8063
 longitude: 7.1517
+score: 5.7
 ---
 
 The University of Fribourg, founded in 1889, is one of Switzerland's younger federal universities and the only one in the country that operates fully in both French and German — a reflection of the city's bilingual character. The main university buildings in the upper town are an interesting example of late-19th-century academic architecture, built to express both Catholic solidity and scholarly ambition.

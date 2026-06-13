@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.4
 ---
 
 San Michele in Bosco sits on a wooded hill just south of the city, on the site of an Olivetan monastery founded in the fourteenth century. The church facade — restrained Renaissance with a single rose window — opens onto a long stone terrace looking back over Bologna. The view is one of the best in the city, with the red rooftops, San Petronio, and the Two Towers picked out perfectly.

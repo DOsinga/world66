@@ -8,6 +8,7 @@ tags:
 latitude: 35.6874
 longitude: -105.9385
 story: "The Plaza marks the original end of the Santa Fe Trail, the long wagon road that opened American trade with the Mexican Southwest in 1821. Caravans pulled in here after the 1,200-kilometre haul from Missouri, and a stone obelisk on the Plaza still notes the trail's terminus."
+score: 9.2
 ---
 
 The four-century-old central square laid out by the Spanish in 1610, when Santa Fe was founded as the capital of New Spain's northern frontier. The Plaza is still the social and ceremonial heart of the city — the place fiestas happen, the place politicians give speeches, the place tourists begin.

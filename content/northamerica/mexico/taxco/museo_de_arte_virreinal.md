@@ -13,6 +13,7 @@ story: >
   Taxco's 18th-century tumulus is one of a handful of examples anywhere in
   Mexico, preserved because it was stored rather than destroyed. It is large
   enough to fill a room.
+score: 7.1
 ---
 
 The Museo de Arte Virreinal occupies a 17th-century building that was originally the Colegio de San Bernardino, a Jesuit college closed during the expulsion of the order from New Spain in 1767. The conversion to museum was done carefully; the colonial architecture — stone arches, inner courtyard, tiled corridors — is itself part of the collection. The building has the particular quality of colonial institutional architecture: intended to impress, built to last, stripped of ornament by history.

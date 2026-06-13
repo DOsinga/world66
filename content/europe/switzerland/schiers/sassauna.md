@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.5
 ---
 
 The Sassauna is the prominent rocky shoulder of the Rätikon range that rises directly above Schiers — a 2,308-metre peak with one of the best panoramas in the valley. From the summit you look down on the entire upper Prättigau, across to the Silvretta peaks, and on a clear day all the way to the Bernina range.

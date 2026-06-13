@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 Füssen's old town castle, perched on a hill above the Altstadt and reached by a stiff ten-minute walk up. The building was the late-Gothic summer residence of the prince-bishops of Augsburg from the 15th century and is now a museum of Bavarian state painting from the 14th to the 18th centuries.

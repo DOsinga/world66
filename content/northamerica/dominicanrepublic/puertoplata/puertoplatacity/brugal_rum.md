@@ -15,6 +15,7 @@ story: >
   the characteristic of the Brugal range today. The family remained in control of the
   company until 2008, when they sold a majority stake to Edrington, the Scottish spirits
   group that also owns The Macallan.
+score: 7.0
 ---
 
 The Brugal rum operation has been in Puerto Plata since 1888, and the bottling plant on the main road into town offers free tours that are more substantial than the typical distillery visitor experience. The tour takes you through the bottling and blending process, explains the company's particular approach to ageing (their rums spend time in both American and Spanish oak barrels), and ends — as you would expect — with a tasting. The guides are knowledgeable and the setting, a working industrial plant rather than a heritage attraction, has a certain honest quality to it.

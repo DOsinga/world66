@@ -7,6 +7,7 @@ tags:
 - park
 latitude: 38.5468
 longitude: -90.3500
+score: 6.1
 ---
 
 Grant's Farm covers 281 acres of land that Ulysses S Grant farmed before the Civil War, on what was then his father-in-law's estate just south of the city. It later became the country residence of the Busch family — the brewers — who opened it to the public in the 1950s as a free wildlife park.

@@ -14,6 +14,7 @@ tags:
   - sight
 title: Garifuna Settlement Day
 type: poi
+score: 9.1
 ---
 
 On November 19 each year, Dangriga celebrates the arrival of the Garifuna people in Belize with one of the most vibrant festivals in Central America. The day begins with the reenactment of the 1832 landing: men in traditional dress paddle dugout canoes up North Stann Creek while crowds line the banks. Then the drumming starts, and it doesn't stop.

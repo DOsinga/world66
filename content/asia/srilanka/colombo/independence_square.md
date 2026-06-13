@@ -14,6 +14,7 @@ tags:
 title: Independence Square
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 6.7
 ---
 
 Independence Square was built to mark Ceylon's independence from Britain on 4 February 1948. The central Memorial Hall is a handsome open-sided structure in the style of a Kandyan audience hall, flanked by formal gardens, a tank-like reflecting pool, and sculptures of the Lion, the symbol of the nation. It occupies a large area of Cinnamon Gardens and is a popular spot for early-morning walkers, joggers, and families.

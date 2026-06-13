@@ -8,6 +8,7 @@ tags:
 latitude: 5.614
 longitude: -73.469
 story: "The Muisca people considered Laguna Iguaque the place of origin of all humanity — from its waters emerged Bachué, the mother of the human race, carrying a small child. After populating the earth, she returned to the lake and transformed into a serpent, diving beneath the surface forever. The lagoon is still considered sacred by communities who maintain Muisca traditions."
+score: 8.5
 ---
 
 The Santuario de Flora y Fauna Iguaque is a high-altitude national park centred on a cluster of páramo lagoons, the most important of which — Laguna Iguaque — was sacred to the Muisca people as the birthplace of humanity. The park protects one of the finest cloud forest and páramo ecosystems in Boyacá, rising from the dry scrubland around Villa de Leyva to high treeless moorland at over 3,600 metres.

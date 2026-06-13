@@ -9,6 +9,7 @@ latitude: 40.8133
 longitude: -96.7073
 sources:
   - https://en.wikipedia.org/wiki/Terminal_Building_(Lincoln,_Nebraska)
+score: 5.9
 ---
 
 The Terminal Building at 947 O Street is a twelve-story office tower built in 1916 and one of downtown Lincoln's best pieces of early commercial architecture. The building served as headquarters for the Burlington Railroad during its years of dominance in the region, and its name — slightly grandiose for what is essentially a mid-rise office block — reflects the railroad era's confidence that Lincoln would become a major commercial center.

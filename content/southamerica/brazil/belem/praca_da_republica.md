@@ -13,6 +13,7 @@ story: >
   there is an arts and crafts fair here; on weekday evenings people sit on benches and watch the
   city wind down. The Theatro da Paz closes off one end; the other opens onto the busy commercial
   streets of the center.
+score: 6.6
 ---
 
 The square was laid out in the nineteenth century and expanded during the rubber boom. The ornamental bandstand and the kiosks selling cold drinks are original period features that have survived more or less intact.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Zuni Mountains
 type: poi
+score: 6.2
 ---
 
 The Zuni Mountains rise just south and east of Ramah, a forested upland reaching around 9,000 feet above sea level — a sharp contrast to the surrounding desert basin. The mountains are part of the Cibola National Forest and contain a network of hiking and mountain-biking trails. The forests are predominantly ponderosa pine at higher elevations with pinon-juniper on the slopes.

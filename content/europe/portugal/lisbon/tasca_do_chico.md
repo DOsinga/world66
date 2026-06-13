@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bairro_alto
   - restaurant
+score: 7.5
 ---
 
 A tiny restaurant in Bairro Alto that is also one of the better places in Lisbon to hear real fado. The space holds perhaps 30 people; the menu is short and traditional (bacalhau, grilled fish, petiscos); and on Monday and Wednesday evenings amateur fadistas perform in the back room while diners eat. Reservations are essential — booking weeks in advance is normal.

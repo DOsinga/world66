@@ -9,6 +9,7 @@ latitude: 43.5061
 longitude: 5.3833
 snippet: A former tile factory that became a Vichy internment camp, now a powerful memorial
 story: "Among the artists and intellectuals imprisoned here were Max Ernst, Hans Bellmer, and the writer Lion Feuchtwanger. They covered the walls of their dormitories with murals — many still visible — and Ernst painted clandestinely on scraps of canvas while waiting for the train that finally carried thousands of the inmates onwards to Auschwitz."
+score: 8.0
 ---
 
 The Camp des Milles is the only large French internment camp from World War Two to have survived intact, and the museum that occupies it is one of the most affecting historical sites in the country. From 1939 to 1942 the disused tile factory south of Aix held foreign nationals, then Jewish men, women, and children — over two thousand of whom were deported to the death camps.

@@ -8,6 +8,7 @@ latitude: 33.99917
 longitude: 36.20028
 story: >
   The largest of the Baalbek Stones — known in Arabic as Hajar al-Hibla, the Stone of the Pregnant Woman — weighs an estimated 1,000 tonnes and was never moved from its quarry. A fourth megalithic block discovered in 2014 is even larger, estimated at 1,650 tonnes, making it the heaviest known ancient hewn stone in the world. Both remain in the quarry where Roman engineers apparently abandoned them, the reasons for abandonment as mysterious as the cutting itself.
+score: 7.3
 ---
 
 About a kilometre south of the main temple complex, in an open quarry that was still being worked when the Roman builders were active, lie several enormous unfinished blocks of limestone that were evidently intended for the temple foundations. The most famous is the Stone of the Pregnant Woman — local legend claims a pregnant woman once claimed she could move it by magic, and the name stuck.

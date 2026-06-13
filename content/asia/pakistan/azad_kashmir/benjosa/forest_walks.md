@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 33.7833
 longitude: 73.7167
+score: 7.0
 ---
 
 Trails wind up from the lake through pine and deodar forest to a number of small clearings with views back over the valley toward Rawalakot. None of the paths are signposted but they are easy to follow and impossible to get seriously lost on — the road and the lake are always within earshot.

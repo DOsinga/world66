@@ -11,6 +11,7 @@ story: >
   The Dwight D. Eisenhower train at the museum was the General Mamie, used by Eisenhower during his 1952 presidential campaign. Eisenhower's World War II command car is also on display — it crossed the English Channel and was used in the European Theater. The museum acquired it as a gift from the British Army.
 sources:
   - https://en.wikipedia.org/wiki/National_Railroad_Museum_(Green_Bay)
+score: 8.5
 ---
 
 The National Railroad Museum holds one of the most impressive collections of rolling stock in the United States — about 75 pieces of equipment spanning the history of American railroading, from 19th-century steam locomotives to Eisenhower's World War II command train. The Big Boy, the largest steam locomotive ever built, is the headline exhibit, and visitors can tour several of the cars including the presidential sleeping car.

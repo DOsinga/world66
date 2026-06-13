@@ -7,6 +7,7 @@ tags:
 - museum
 title: Santander Cultural
 type: poi
+score: 7.4
 ---
 
 The Santander Cultural occupies the former Banco Mercantil building on the Praça da Alfândega, a magnificent example of early 20th-century Brazilian banking architecture: marble columns, ornate bronze fittings, a soaring main hall with a glass ceiling that floods the space with diffused light. Santander acquired the building and converted it into a cultural centre that now hosts some of the best contemporary art exhibitions in Porto Alegre. Entry is free.

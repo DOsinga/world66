@@ -7,6 +7,7 @@ tags:
 latitude: 43.8372
 longitude: 4.3621
 snippet: Covered market with local produce, charcuterie, cheese, and wine
+score: 7.4
 ---
 
 The Halles de Nîmes is the city's covered market, a bustling indoor hall open every morning except Monday. Producers from the Gard, the Camargue, and the Languedoc bring olives, tapenade, cheese, charcuterie, seasonal vegetables, and fresh fish. There are several small counters where you can eat on the spot: oysters, *brandade*, and charcuterie boards are the obvious choices.

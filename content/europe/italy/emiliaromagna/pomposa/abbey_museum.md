@@ -6,6 +6,7 @@ longitude: 12.1751
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 The small museum, installed in the former dormitory wing, displays the abbey's surviving treasures: medieval ceramics found during archaeological digs, fragments of frescoes detached during nineteenth-century restorations, illuminated manuscript leaves and a handful of liturgical objects. Most of the abbey's portable wealth was carted off when the Benedictines abandoned Pomposa in the seventeenth century, but what remains gives a sense of the scale of the community at its height — at one point the abbey owned vast estates across the lower Po valley.

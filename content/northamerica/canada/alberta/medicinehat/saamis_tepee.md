@@ -13,6 +13,7 @@ story: >
   dismantled and given to Medicine Hat, where it was re-erected on a
   bluff above the Trans-Canada Highway. Twelve storyboards inside tell
   the histories of the Blackfoot, Cree, Métis, and other Plains nations.
+score: 6.8
 ---
 
 You see it long before you reach Medicine Hat: a vast steel tepee standing alone on the prairie, 65 metres tall, made of a dozen white-painted ribs converging on a circular crown. It is the world's tallest tepee, and it looks more impressive in person than the description suggests — the scale only becomes clear when you stand beneath it and look up.

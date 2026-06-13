@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8974
 longitude: 14.5084
+score: 6.8
 ---
 
 Hastings Gardens runs along the northwestern tip of Valletta's bastion walls, above the Valletta waterfront and the ferry terminal for Sliema. The gardens offer one of the best views in the city — west across Marsamxett Harbour to the fortifications of Fort Manoel Island and beyond to Sliema and St Julian's. A monument to the Marquess of Hastings, a British Governor-General of Malta, stands in the gardens, though the real draw is the view.

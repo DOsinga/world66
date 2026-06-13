@@ -9,6 +9,7 @@ latitude: 35.2031
 longitude: -85.9197
 sources:
   - https://en.wikipedia.org/wiki/Sewanee:_The_University_of_the_South
+score: 8.7
 ---
 
 The centrepiece of the University of the South campus, All Saints' Chapel is a soaring Gothic Revival building in Tennessee sandstone that anchors the entire academic quad. The interior is rich with stained glass — donors have funded windows over more than a century, creating a layered collection that spans styles from Victorian to mid-20th century. The building seats around 1,000 and doubles as the university's primary gathering space for convocations, concerts, and services.

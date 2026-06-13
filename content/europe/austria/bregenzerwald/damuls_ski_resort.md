@@ -7,6 +7,7 @@ tags:
 latitude: 47.2919
 longitude: 9.8942
 snippet: The Bregenzerwald's main ski resort — good snow record, quieter than the major Tyrolean areas
+score: 6.8
 ---
 
 Damüls-Mellau is the Bregenzerwald's largest ski area, connecting the villages of Damüls and Mellau across a linked network of lifts and runs. Damüls, at around 1,430 metres, claims one of the best snow records in the Alps — it sits in a position that catches moisture from both the Atlantic and the south, giving it reliable snowfall from December through March.

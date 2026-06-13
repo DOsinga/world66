@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -16.5300
 longitude: -151.7430
+score: 5.8
 ---
 
 One of the better mid-range options near Matira Beach, Le Moana serves fresh fish and Polynesian dishes in an open-sided dining room with direct lagoon views. The poisson cru — raw tuna marinated in lime juice and coconut milk — is consistently good, and the grilled mahi-mahi with vanilla sauce is a reliable order. Prices are high by international standards but reasonable for Bora Bora, where everything imported carries a steep premium.

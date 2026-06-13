@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.48775
 longitude: 1.75756
+score: 7.3
 ---
 
 The Lowestoft Maritime Museum charts the town's long history as a major fishing port and shipbuilding centre. For most of the 19th and early 20th centuries, Lowestoft had one of the largest fishing fleets on the English east coast, and the museum's collections reflect that — boat models, fishing equipment, charts, photographs, and the stories of the men who worked the North Sea herring grounds.

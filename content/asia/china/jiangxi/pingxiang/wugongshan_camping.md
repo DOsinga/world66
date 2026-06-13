@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.5600
 longitude: 114.1600
+score: 8.0
 ---
 
 Camping on the Wugongshan summit ridge has become a defining experience for outdoor enthusiasts from across Hunan and Jiangxi. On summer weekends, hundreds of tents dot the high meadows, their occupants sleeping above the clouds at over 1,700 meters and waking to sunrises that sweep across a sea of mist filling the valleys below. The experience is accessible to moderately fit walkers without specialist equipment — gear rental at the trailhead covers most needs.

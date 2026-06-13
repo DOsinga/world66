@@ -8,6 +8,7 @@ tags:
   - theatre
 latitude: 48.8132
 longitude: 14.3150
+score: 9.4
 ---
 
 The second largest castle complex in the Czech Republic after Prague, Český Krumlov Castle rises dramatically above the river on a rocky promontory. The complex spans multiple courtyards and centuries of construction, from the Gothic core through Renaissance and Baroque additions. Several separate guided tours cover different parts — plan your visit before you arrive so you don't miss the highlight.

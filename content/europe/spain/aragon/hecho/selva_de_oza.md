@@ -9,6 +9,7 @@ latitude: 42.8050
 longitude: -0.7350
 sources:
   - https://en.wikipedia.org/wiki/Valle_de_Hecho
+score: 8.7
 ---
 
 The Selva de Oza is a large tract of beech and silver fir forest in the upper Hecho Valley, roughly 14 km north of the village. The river Aragón Subordán runs through it, cold and fast and swimmable in summer (just), and the forest is old enough to feel properly wild — tall trees closing over the road, roe deer visible at dusk, the mountains appearing above the canopy.

@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Maho_Beach
+score: 8.9
 ---
 
 Maho Beach sits directly under the final approach path to Princess Juliana International Airport. Planes pass so low overhead — sometimes only 10–15 metres above the beach — that their engine noise is physically overwhelming and their landing gear is close enough to touch. Wide-body jets on intercontinental flights produce the most dramatic effect; narrow-body aircraft on regional routes still pass close enough to be impressive.

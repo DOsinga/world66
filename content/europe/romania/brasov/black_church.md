@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 9.4
 ---
 
 The Biserica Neagra dominates the old town. Begun around 1383 and completed in the mid-15th century, it is the largest Gothic church between Vienna and Istanbul and a Saxon Lutheran congregation has worshipped here since the Reformation. The exterior buttresses bristle with statues from the original construction (originals now inside, copies outside).

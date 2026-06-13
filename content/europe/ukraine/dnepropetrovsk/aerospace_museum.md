@@ -11,6 +11,7 @@ title: Yuzhnoye Aerospace Museum
 type: poi
 story: >
   The Yuzhnoye Design Bureau here built the R-16 intercontinental ballistic missile — the ICBM at the heart of the Soviet nuclear arsenal during the Cold War. For thirty years, the entire city of Dnipro was classified on Soviet maps and closed to all foreigners. The engineers who worked here could not tell even their families what they were building.
+score: 8.8
 ---
 
 Dnipro was for decades a closed city because it was home to the Yuzhnoye (Southern) Design Bureau, which designed Soviet ballistic missiles and the rockets that launched Sputnik. The aerospace museum documents this secret history with exhibits of actual rockets, engines, spacecraft components, and Cold War-era missile technology. The industrial scale of what was built here, and the clandestine circumstances in which it was built, make this one of the more genuinely unusual museums in Ukraine.

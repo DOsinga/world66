@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - nature
+score: 8.3
 ---
 
 Bark Bay sits roughly halfway along the Coast Track and is one of the prettier overnight stops: a long curve of golden sand split by a tidal estuary, with the Bark Bay hut and campsite tucked against the bush at the southern end. The bay is shallow and sheltered, and the sandy bottom means the water turns vivid turquoise in afternoon light.

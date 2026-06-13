@@ -8,6 +8,7 @@ tags:
 - centro
 title: Café des Artistes
 type: poi
+score: 7.2
 ---
 
 Chef Thierry Blouet's flagship has been the city's anchor fine-dining restaurant since 1990, when he opened in a converted Centro house with a tropical garden out the back. The cooking is French technique applied to Mexican ingredients — duck with hibiscus mole, lobster tamales, huitlacoche bisque — and the wine list is the most serious in town.

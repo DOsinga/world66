@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 12.4400
 longitude: 107.2800
+score: 7.2
 ---
 
 Mondulkiri is one of Cambodia's more productive agricultural regions for highland crops: pepper, coffee, and more recently cardamom are all cultivated in the hills around Sen Monorom. The volcanic red soil and cooler temperatures create conditions similar to the highland growing regions of Vietnam, and several small family-run plantations welcome visitors for tastings and brief explanations of cultivation methods.

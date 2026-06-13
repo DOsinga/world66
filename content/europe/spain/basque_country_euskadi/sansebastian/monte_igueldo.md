@@ -8,6 +8,7 @@ latitude: 43.3089
 longitude: -2.0372
 story: >
   The funicular that runs up Monte Igueldo opened in 1912 and has been carrying visitors to the summit ever since. The amusement park at the top dates from the same era and still has some of its original 1910s rides, including a water ride that would have been cutting-edge entertainment when it opened and is now a piece of industrial archaeology. The combination of Victorian engineering, seaside pleasure, and spectacular Atlantic views makes the summit one of the more surreal experiences in a city full of them.
+score: 8.7
 ---
 
 Monte Igueldo closes the western end of La Concha bay, and from its summit you get the classic elevated view back over the city: the crescent of the bay, the old town with its terracotta rooftops, Monte Urgull with its white Christ statue, and the sea beyond. It is one of the great views in Spain.

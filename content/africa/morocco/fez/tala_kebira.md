@@ -9,6 +9,7 @@ tags:
 title: Talaa Kebira (The Big Slope)
 type: poi
 snippet: "The main artery of Fes el-Bali — the medina's commercial spine"
+score: 8.5
 ---
 
 Talaa Kebira — the Big Slope — is the primary thoroughfare of Fes el-Bali, running downhill from Bab Boujeloud deep into the medina toward Al-Qarawiyyin. It is the most straightforward route through the labyrinth and the logical starting point for a medina walk. The street is narrow but navigable, flanked by shops selling everything from mobile phones and plastic buckets to spices and carved wood.

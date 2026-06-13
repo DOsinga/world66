@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 30.6285
 longitude: 120.5642
+score: 6.8
 ---
 
 The indigo-dyed cotton cloth produced in the Wuzhen area has been a regional specialty for centuries, and the dyeing workshops in the West Quarter keep the craft alive for visitors who can watch the full process from raw cloth to finished fabric. Long strips of pale cloth are bundled with string into geometric patterns, immersed in vats of indigo, and then unbound to reveal the resist-dyed designs — a process called shibori in Japanese, where the technique later travelled.

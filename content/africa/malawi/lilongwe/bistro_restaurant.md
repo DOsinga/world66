@@ -8,6 +8,7 @@ tags:
 neighbourhood: Area 43
 latitude: -13.9580
 longitude: 33.7830
+score: 4.8
 ---
 
 The Bistro is one of Lilongwe's more established mid-range restaurants, operating in the Area 43 district that serves the city's expatriate and professional community. The menu covers a broad range — grilled chicken, beef, pasta, pizza, and a Malawian section with chambo and nsima — and the cooking is reliable if not ambitious.

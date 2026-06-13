@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 25.2100
 longitude: 75.8648
+score: 6.6
 ---
 
 Umed Bhawan Palace is a grand early 20th-century palace on the outskirts of Kota, built by the maharaja as a more comfortable residence than the old fort. The building is a confident blend of Rajput and European neoclassical elements — arched verandas, cupolas, and a formal garden — typical of the ambitious building programmes undertaken by the Rajput states in the colonial era.

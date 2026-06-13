@@ -6,6 +6,7 @@ tags:
   - downtown
 latitude: 25.0780
 longitude: -77.3420
+score: 4.7
 ---
 
 The largest of the Bay Street duty-free emporiums, occupying a stretch of pink-and-white frontage opposite Parliament Square. Watches, jewellery, perfume, cigars, sunglasses, and the usual cruise-port luxuries at supposedly tax-free prices.

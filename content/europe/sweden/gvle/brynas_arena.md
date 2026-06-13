@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 60.6911
 longitude: 17.1322
+score: 6.4
 ---
 
 The Monitor ERP Arena is the home ground of Brynäs IF, one of Sweden's most successful ice hockey clubs with more Swedish championship titles than any other team. Brynäs has been in the top division of Swedish hockey (SHL) for most of its history and has a devoted local following. Attending a home game in the October–April season is a good evening out: the atmosphere is lively, tickets are generally available without trouble, and the arena holds around 8,500 people.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.5695
 longitude: 23.7851
+score: 6.2
 ---
 
 The main square of Turda is a pleasant, proportionate space in the old town centre, ringed with Baroque and Neoclassical buildings from the 18th and 19th centuries. The square reflects the town's past as an important regional centre in the Kingdom of Hungary — Turda (then called Torda) was significant enough to host the 1568 Edict of Turda, one of the first laws of religious tolerance in European history, which granted freedom of worship to Catholics, Lutherans, Calvinists, and Unitarians.

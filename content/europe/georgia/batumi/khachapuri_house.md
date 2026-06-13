@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Khachapuri Sakhli
 type: poi
+score: 6.4
 ---
 
 Adjaran khachapuri — the boat-shaped bread filled with melted sulguni cheese and topped with an egg and a knob of butter — is the dish Batumi gave to the rest of Georgia, and the city is studded with places that do it well. Khachapuri Sakhli ("the khachapuri house") on Gorgiladze Street is a reliable, no-fuss spot to try one if you only have time for one meal.

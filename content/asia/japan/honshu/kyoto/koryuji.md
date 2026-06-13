@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kōryū-ji
 type: poi
+score: 7.4
 ---
 
 Kōryū-ji, on the western edge of Kyoto, was founded in 603 by the Hata clan — Korean-descended immigrants who developed the silk industry in Japan — and is the oldest Buddhist temple in the city. The current buildings are mainly Edo-period reconstructions, but the temple's *Reihōkan* treasure house holds a small but exceptional collection of early Buddhist sculpture, including the seated *Miroku Bosatsu* — a slender, gently smiling wooden bodhisattva of the seventh century that was the very first object designated a *National Treasure* of Japan in 1951.

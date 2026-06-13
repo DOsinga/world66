@@ -13,6 +13,7 @@ story: >
   Britain, India, Australia, Canada, East Africa, West Africa, and Burma itself.
   The Burma Campaign was among the most gruelling of the Second World War —
   fought in dense jungle, extreme heat, and endemic disease.
+score: 7.5
 ---
 
 The Taukkyan War Cemetery, maintained by the Commonwealth War Graves Commission, lies about 30 km north of downtown Yangon on the road to Bago. It is one of the most moving sites in Myanmar — 6,374 graves laid out in a large, immaculately kept garden, each stone identical and precisely spaced.

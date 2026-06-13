@@ -10,6 +10,7 @@ snippet: Multi-day high-altitude trek via a turquoise alpine lake above Karakol
 story: The lake's name means "Motley Lake" in Kyrgyz — a reference to the way its colour shifts through the day from deep blue to turquoise to almost silver as the light moves across the surrounding cliffs and glaciers. At 3,532 metres, it sits in a glacial bowl ringed on three sides by rock and permanent snow.
 sources:
   - https://en.wikipedia.org/wiki/Karakol
+score: 9.4
 ---
 
 The Ala-Kul trek is the most popular multi-day route from Karakol, and for good reason: it combines dramatic scenery, manageable logistics, and a genuine high-mountain experience within a two or three-day walk of town. The route heads up the Karakol Gorge through dense spruce forest, climbing past waterfalls and alpine meadows before reaching the Ala-Kul lake at 3,532 metres — a startling turquoise pool hemmed in by grey cliff faces and glaciers.

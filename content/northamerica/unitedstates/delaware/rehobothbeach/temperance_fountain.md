@@ -10,6 +10,7 @@ story: >
   The Woman's Christian Temperance Union installed this fountain in 1904 to discourage visitors from drinking alcohol by providing a free and attractive alternative: clean water. The theory was that easy access to water would reduce the temptation of the saloon. The fountain still works, though its mission has long since been overtaken by the dozens of bars within walking distance.
 sources:
   - https://en.wikipedia.org/wiki/Woman%27s_Christian_Temperance_Union_Fountain
+score: 5.6
 ---
 
 The WCTU Temperance Fountain stands near the middle of the Rehoboth boardwalk, a small cast-iron structure that was installed in 1904 by the Woman's Christian Temperance Union as part of the national temperance movement's effort to provide alternatives to alcoholic drinks in public spaces. It is listed on the National Register of Historic Places, which has given it a certain ironic prestige in a town that now sustains dozens of bars and breweries.

@@ -9,6 +9,7 @@ tags:
 - beach
 - nature
 story: The Greenwich dunes are a parabolic dune system — a rare form in which the dunes migrate inward from the coast rather than along it, driven by wind patterns. As they advance, the dunes bury and preserve the landscape beneath them, creating a moving archive of past environments. Archaeological sites have been found under the dunes with artifacts from some of the earliest human occupation of Prince Edward Island.
+score: 8.7
 ---
 
 The Greenwich section of PEI National Park, about 15 kilometres west of Naufrage, protects one of the finest dune systems in the Gulf of St Lawrence and a long stretch of uncrowded beach. A 4.8-kilometre trail through forest and over a floating boardwalk across a lagoon reaches the beach and dunes. The walk is flat and easy, taking about 90 minutes return.

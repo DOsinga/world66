@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Cheynes_Beach_Whaling_Station
+score: 8.0
 ---
 
 Cheynes Beach was the last operating whale chasing station in Australia when it closed in 1978. Today the site preserves the entire operation: the Cheynes IV whale chaser — the last of its kind still afloat — sits in dry dock alongside the blubber-processing deck, the boiling-down shed, and the old workers' quarters. A film about the final days of Australian whaling plays in the cinema, and the exhibition covers the natural history of the whales hunted here: mostly Sperm and Humpback. For anyone who has watched a humpback breach in the sound, standing on the flensing deck is a sobering counterpoint.

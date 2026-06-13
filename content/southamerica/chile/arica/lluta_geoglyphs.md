@@ -7,6 +7,7 @@ snippet: Pre-Columbian hillside figures along the road north toward Tacna
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The Lluta valley runs north-northeast from Arica through the desert to the Andes, and the road into it (CH-11, the route to Putre and the altiplano) climbs gently for the first thirty kilometres. The valley walls on either side are covered in dozens of pre-Columbian geoglyphs — figures of llamas, eagles, men and abstract motifs scratched into the desert varnish by Tiwanaku-era caravan herders between AD 1000 and 1400.

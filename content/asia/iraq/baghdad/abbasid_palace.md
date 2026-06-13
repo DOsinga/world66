@@ -15,6 +15,7 @@ story: >
   Abbasid rule. Whether it survived because of its sturdiness, its usefulness
   to the conquerors, or sheer chance is unknown — but it remains standing while
   almost everything else from Abbasid Baghdad was destroyed.
+score: 8.1
 ---
 
 The Abbasid Palace is one of Baghdad's oldest surviving buildings — a late 12th or early 13th-century structure from the peak of the Abbasid Caliphate, located near the Tigris in the old city quarter not far from Al-Mutanabbi Street. It is a substantial mud-brick complex with characteristic Abbasid stucco decoration: geometric patterns, arabesques, and vegetal ornament in the style that influenced Islamic architecture across the medieval world.

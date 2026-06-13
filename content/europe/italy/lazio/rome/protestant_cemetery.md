@@ -11,6 +11,7 @@ tags:
 - park
 title: Protestant Cemetery
 type: poi
+score: 8.4
 ---
 
 The Cimitero Acattolico — officially the Non-Catholic Cemetery for Foreigners — is one of the oldest and most beautiful cemeteries in Italy. John Keats died in Rome in 1821 aged 25, his gravestone inscribed with the line he chose himself: "Here lies one whose name was writ in water." His friend Percy Bysshe Shelley drowned the following year and was buried nearby. Augustus William Schlegel, Antonio Gramsci, and hundreds of other notable non-Catholics are also buried here.

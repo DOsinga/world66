@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2623
 longitude: 12.9479
+score: 7.7
 ---
 
 The **Hong Hills** are the collective name for the granite inselbergs and rocky outcrops that rise abruptly from the savanna plains around Hong town. These massive rounded boulders — some standing hundreds of metres above the surrounding farmland — are the defining feature of the landscape in this part of Adamawa State.

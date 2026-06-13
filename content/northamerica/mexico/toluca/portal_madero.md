@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.2918
 longitude: -99.6568
+score: 6.9
 ---
 
 Los Portales — formally Portal Madero, Portal Reforma, and Portal 20 de Noviembre — is the long line of arcaded buildings that wraps two sides of the central plaza of Toluca. At around 250 metres in total, it is one of the longest continuous arcades in the Americas, and the heart of the city's evening life.

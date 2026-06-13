@@ -8,6 +8,7 @@ tags:
 - beitou
 title: Thermal Valley (Hell Valley)
 type: poi
+score: 7.4
 ---
 
 A short walk up Zhongshan Road from Beitou MRT, the Thermal Valley — locally Diyu Gu, "Hell Valley" — is the source of Beitou's hot springs. Sulphurous green water steams visibly from a small rocky pool, reaching a constant 90°C and giving off the characteristic rotten-egg smell that hangs over the whole district.

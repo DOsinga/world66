@@ -6,6 +6,7 @@ longitude: 2.4928
 tags:
   - eating_out
   - restaurant
+score: 7.6
 ---
 
 Les Cols is the Olot restaurant that put the town on the gastronomic map. Run by chef Fina Puigdevall in a 13th-century Catalan masia on the southern edge of the town, it holds two Michelin stars and has done so for years. The cuisine is rooted in the volcanic terroir of the Garrotxa: fesol beans, buckwheat, local pork, mushrooms from the forests above the town.

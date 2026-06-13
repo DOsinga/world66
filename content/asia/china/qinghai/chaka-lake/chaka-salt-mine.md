@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 36.7100
 longitude: 99.0900
+score: 6.4
 ---
 
 Chaka's salt has been harvested continuously for over three thousand years, making it one of the oldest working salt operations in China. The lake holds an estimated 600 million tonnes of sodium chloride — enough to supply all of China for decades — and production continues alongside the tourist economy. The extraction equipment is visible from the shore and in some areas from the walking paths across the flat: rusty derricks, processing sheds, and the narrow-gauge railway tracks that originally served the mine before being repurposed as tourist transport.

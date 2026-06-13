@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Historico
 snippet: "The yellow neo-Gothic cathedral that anchors the old town"
+score: 8.2
 ---
 
 Construction began in 1856, paused for the Reform War, the French Intervention, and the Mexican Revolution, and only really concluded in 1937 — which is why the cathedral's exterior reads neo-Gothic in places and neo-Classical in others. The yellow stone facade and twin towers are the visual anchor of the old town, visible from the seafront and most of the streets that run up from it.

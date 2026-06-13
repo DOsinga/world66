@@ -8,6 +8,7 @@ tags:
 latitude: 56.3965
 longitude: -3.4304
 snippet: Perth's network of medieval alleys, cutting between the main streets in the city centre
+score: 7.5
 ---
 
 Perth preserves one of Scotland's most complete networks of medieval vennels — narrow covered alleys cutting between the main streets. The word "vennel" is Scots for lane or alleyway, and Perth's examples follow the medieval property boundaries that have defined the city centre since at least the 12th century.

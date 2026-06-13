@@ -8,6 +8,7 @@ latitude: 50.7851
 longitude: -0.6631
 sources:
   - https://en.wikipedia.org/wiki/Butlins_Bognor_Regis
+score: 5.8
 ---
 
 Butlin's Bognor Regis is the easternmost of the three surviving Butlin's holiday resorts in the UK, and one of the defining features of the modern town. The camp opened in 1960 on the site of a former wartime RAF station and has been through many transformations since, most recently rebranded as Butlin's Bognor Regis with a heavy emphasis on family entertainment, live music, fairground rides, and all-inclusive short breaks.

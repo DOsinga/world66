@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.0550
 longitude: 96.4900
+score: 6.7
 ---
 
 Pwe Kauk Falls (also called Hampshire Falls, an old colonial name) is the more accessible of the two waterfalls near Pyin Oo Lwin — a pleasant park surrounds the cascade, with picnic areas, teashops, and resident monkeys that have long lost their fear of people. Locals come here at weekends for family outings.

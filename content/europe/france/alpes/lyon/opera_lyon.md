@@ -14,6 +14,7 @@ story: >
   intact, then inserted a massive black glass barrel roof above them — a deliberately
   provocative juxtaposition that caused considerable controversy at the time and is
   now considered one of the most successful architectural interventions in France.
+score: 7.6
 ---
 
 The Opéra de Lyon on Place de la Comédie is one of France's most distinctive opera houses — a neoclassical 19th-century shell surmounted by a dramatic black glass semicylinder designed by Jean Nouvel in 1993. The exterior contrast between the stone base and the glass superstructure is startling; the interior has been entirely rebuilt with six floors of rehearsal rooms, studios, and a 1,100-seat auditorium.

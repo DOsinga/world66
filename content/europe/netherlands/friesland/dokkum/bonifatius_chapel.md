@@ -9,6 +9,7 @@ latitude: 53.3235
 longitude: 5.9982
 snippet: "Memorial chapel on the site where St Boniface was martyred by the Frisians in 754 AD."
 story: "Boniface was an English monk from Devon who became the 'Apostle of the Germans', reorganising the church across Francia and Germany with papal backing. In 754, at the age of perhaps 80, he set out again to convert the pagan Frisians in what is now northeastern Netherlands. On 5 June 754, he and his company were attacked and killed near the river Borne, in what is now Dokkum. He had reportedly told his companions not to resist — the manuscripts he had been reading, which survived the attack with sword slashes through them, are now in Fulda cathedral in Germany. A chapel and sacred spring mark the site."
+score: 7.4
 ---
 
 The Bonifatius Chapel stands just outside the old fortification walls of Dokkum, on the site traditionally identified as where the Anglo-Saxon missionary Boniface and his company were killed by Frisian pagans on 5 June 754.

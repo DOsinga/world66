@@ -9,6 +9,7 @@ latitude: 33.5067
 longitude: 119.1429
 story: >
   Zhou Enlai's family home was a substantial compound in the style of a prosperous Jiangsu merchant family — tiled roofs, inner courtyards, and carved wooden screens. Zhou left Huai'an at the age of twelve and never lived here again, but kept a connection to the city throughout his life, reportedly protecting it from the worst excesses of the Cultural Revolution through personal intervention.
+score: 6.6
 ---
 
 The former residence where Zhou Enlai was born and spent his early childhood is preserved in the old Huai'an district, about a kilometre from the memorial hall. The compound is a well-maintained example of a late Qing-era merchant family home: multiple courtyards, traditional carved wooden interiors, and period furnishings that give a vivid sense of the educated gentry life Zhou was born into.

@@ -7,6 +7,7 @@ longitude: 33.749879
 title: Things to do
 type: poi
 url: www.poltavaforum.com
+score: 3.2
 ---
 
 Go to Koktebel

@@ -12,6 +12,7 @@ tags:
 - sight
 title: El Morro National Monument
 type: poi
+score: 8.9
 ---
 
 About 30 miles southwest of Ramah, El Morro (meaning the headland or promontory) is a 200-foot sandstone bluff bearing nearly 2,000 years of human inscription. Ancient Ancestral Puebloan petroglyphs share the rock with Spanish colonial carvings from the 1600s and 1700s and Anglo-American names from the 19th century. Together they form an extraordinary palimpsest — every traveller who stopped here at the reliable pool of water at the base of the rock left their mark.

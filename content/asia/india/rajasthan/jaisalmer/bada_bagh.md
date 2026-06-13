@@ -15,6 +15,7 @@ story: >
   among its completed ancestors, a reminder of how quickly the old order ended.
 sources:
 - https://en.wikipedia.org/wiki/Bada_Bagh
+score: 6.9
 ---
 
 Bada Bagh (the Great Garden) sits about 6 kilometres north of Jaisalmer on a flat stretch of desert plain. It is the royal cenotaph garden of the Bhati Rajput rulers — a walled enclosure containing the chhatris of successive Maharawals of Jaisalmer, each one a stone canopy supported by pillars, carved with portraits of the deceased and their horses. The oldest cenotaphs date from the 16th century; the newest, and smallest, is unfinished.

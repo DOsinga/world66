@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   Construction of the lighthouse in 1880 required workers to be lowered by rope onto the exposed basalt rock in small windows between swells — one man died before the structure was finished. The completed lighthouse was routinely struck by waves that sent water over the top of the tower, 139 feet above sea level. The keeper's log records windows smashed by flying boulders during severe storms. The lighthouse was decommissioned in 1957 and later used, briefly, as a columbarium for human ashes.
+score: 5.9
 ---
 
 Tillamook Rock Lighthouse sits on a basalt sea stack a mile offshore from Tillamook Head, visible from Seaside beach on clear days as a small white tower on a dark rock. You cannot visit it — there is no dock, no safe landing, and it is private property. Its appeal is entirely visual and historical, which turns out to be considerable.

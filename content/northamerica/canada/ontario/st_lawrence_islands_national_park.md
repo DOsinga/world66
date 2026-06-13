@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: St. Lawrence Islands National Park
 type: poi
+score: 7.8
 ---
 
 Canada's smallest national park, scattered across a string of islands in the Thousand Islands stretch of the St. Lawrence River in eastern Ontario. The park protects 21 islands and over 80 islets between Kingston and Brockville, part of the Frontenac Arch -- a granite land bridge connecting the Canadian Shield to the Adirondacks.

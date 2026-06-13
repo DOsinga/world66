@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.6
 ---
 
 The Cathédrale de la Sainte-Trinité grew out of a 12th-century Romanesque church and was rebuilt in fits and starts over the next six hundred years, which is why its façade, nave and transept feel as if they belong to different buildings. Inside, the wooden vault and a 17th-century carved altarpiece are worth a few minutes.

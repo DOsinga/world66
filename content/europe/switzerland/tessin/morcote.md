@@ -14,6 +14,7 @@ story: >
   to the water, and there is almost no modern construction visible from the old village.
 sources:
   - https://www.luganoregion.com/en/commons/details/Verzasca-Valley/150884.html
+score: 8.0
 ---
 
 Morcote clusters on a narrow shore at the southern tip of a peninsula on Lake Lugano, its arcaded houses and church terraces stacked above the water. The Church of Santa Maria del Sasso stands high above the village, reached by a long stairway lined with 17th-century frescoes. The view from the church terrace looks across the lake to Italy.

@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Bird_Cage_Theatre
 story: >
   The Bird Cage operated continuously from 1881 to 1889 and never closed, running 24 hours a day, seven days a week for eight years straight. Wyatt Earp later called it "the wildest, roughest, and most wicked nightspot between Basin Street and the Barbary Coast." The 140 bullet holes still visible in the ceiling and walls are originals.
+score: 9.0
 ---
 
 The Bird Cage Theatre is the most atmospheric building in Tombstone, preserved almost exactly as it was when it closed in 1889. What began as a combination theatre, gambling hall, saloon, and brothel is now a museum that lets visitors walk through every room — the stage, the gambling tables, the crib boxes suspended from the ceiling where women worked, the basement poker room where a game reportedly lasted eight years.

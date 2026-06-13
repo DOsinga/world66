@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2961
 longitude: -111.9369
+score: 6.7
 ---
 
 The Alder Gulch Short Line is a narrow-gauge steam railway running between Virginia City and Nevada City, a mile west along Alder Gulch. The train runs in summer months and the short ride gives a pleasant view of the gulch where the 1863 gold discovery was made. The locomotive is a genuine steam engine, not a diesel replica.

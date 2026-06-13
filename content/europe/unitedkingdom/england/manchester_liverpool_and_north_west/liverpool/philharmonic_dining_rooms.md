@@ -10,6 +10,7 @@ tags:
 - georgian_quarter
 title: Philharmonic Dining Rooms
 type: poi
+score: 8.7
 ---
 
 A Grade I listed Victorian pub from 1898, designed for the wealthy gentlemen of late-Victorian Liverpool and built more like an ocean liner's first-class saloon than a public house. The interior is a riot of mahogany panelling, etched glass, copper panels, marble columns and tile work — the workmanship has hardly an equal in Britain.

@@ -9,6 +9,7 @@ tags:
 snippet: "Sandstone schoolhouse on Somerville Street, opened 1826 and never closed since"
 story: >
   The original Sorell Public School building opened on this site in 1826 — barely twenty years after Tasmania's European settlement — and has functioned as a school continuously ever since. The 1826 schoolhouse is now used as part of a larger campus, but the sandstone original is still in everyday teaching use, making the institution a credible claimant to being the oldest continuously-operating government school in Australia.
+score: 6.2
 ---
 
 The Sorell School building on Somerville Street is one of the small but resonant pieces of colonial Tasmania: a single-storey sandstone schoolhouse, built in 1826, that has been used as a school every weekday since. The current school is bigger and surrounds the original block, but the 1826 building is still in everyday use as classroom space — a remarkable continuity for a country that is sometimes treated as new.

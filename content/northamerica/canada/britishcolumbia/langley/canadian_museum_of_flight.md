@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.099394
 longitude: -122.626068
+score: 7.6
 ---
 
 The Canadian Museum of Flight occupies a large hangar at Langley Regional Airport and houses one of Canada's most comprehensive collections of historic aircraft. Exhibits span from early bush planes that opened up the Canadian north to Second World War fighters and trainers, with most aircraft displayed in flying condition or actively being restored. The de Havilland Beaver — the bush plane that defined remote Canadian aviation — is well represented.

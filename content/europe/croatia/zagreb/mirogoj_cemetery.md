@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 9.0
 ---
 
 Two kilometres north of the centre, Mirogoj is the kind of cemetery you visit even when you have no connection to anyone buried in it. Designed in 1876 by Herman Bollé — also the architect of much of the cathedral — its long ivy-covered arcades, classical chapels, and avenues of trees create one of the most peaceful and architecturally remarkable spaces in the city.

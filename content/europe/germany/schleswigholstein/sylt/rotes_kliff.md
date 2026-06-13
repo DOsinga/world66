@@ -14,6 +14,7 @@ story: >
   Erosion is constant: the cliff retreats by roughly half a metre every year, and the
   Kampen Lighthouse at the top of the bluff has had to be moved further inland to keep
   it from toppling into the North Sea.
+score: 8.5
 ---
 
 A 30-metre wall of ochre-red moraine stretching about four kilometres along the west coast between Wenningstedt and Kampen, the Rotes Kliff is Sylt's most photographed natural feature. The cliff face glows almost orange in the late afternoon sun and turns deep crimson at sunset — most evenings in summer there is a small crowd on the beach below with cameras pointed up.

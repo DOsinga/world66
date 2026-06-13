@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.5321
 longitude: -80.0573
+score: 6.5
 ---
 
 The heart of Boynton Beach's water-based activity, this marina on the Lake Worth Lagoon side of the barrier island is where the dive charters, fishing boats, and kayak rentals all operate from. The waterfront has been developed with a mix of restaurants and small shops facing the docks. It is a pleasant place to sit in the afternoon and watch the boats come and go through the inlet.

@@ -10,6 +10,7 @@ tags:
 - sight
 - sculpture
 story: "The Pietà is the only work Michelangelo ever signed. He carved his name into the sash across the Virgin's chest after overhearing visitors attribute the sculpture to another artist. He is said to have regretted the vanity of it almost immediately and never signed another work."
+score: 8.6
 ---
 
 The Pietà sits in the first chapel on the right inside St. Peter's Basilica, behind a sheet of bulletproof glass installed after a deranged geologist attacked it with a hammer in 1972. Michelangelo carved it in 1499 when he was 24, on commission from the French cardinal Jean de Bilhères. It depicts the Virgin Mary holding the body of Christ across her lap — an image of grief made strangely serene by the proportions and the polished marble surface.

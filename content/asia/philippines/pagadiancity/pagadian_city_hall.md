@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture]
 latitude: 7.8237
 longitude: 123.4374
+score: 5.4
 ---
 
 The city hall is a sprawling modern complex set on a hillside above the centre. Built in stages over the last decade, it combines a long colonnaded facade, sweeping ramps, and a central tower in pale stone and glass — out of scale with the rest of Pagadian, which is part of the point. The lawns and terraces in front are popular for evening walks and family photos.

@@ -8,6 +8,7 @@ title: Sivananda Ashram
 type: poi
 story: >
   Swami Sivananda founded the Divine Life Society and the Sivananda Ashram in 1936 after serving as a doctor in Malaysia for ten years, then returning to India to pursue a spiritual life. He wrote over 200 books on yoga, philosophy, and health, and trained disciples who went on to establish Sivananda yoga centres worldwide. His approach combined classical Vedanta philosophy with practical yogic training in a way that made the tradition accessible to Western practitioners.
+score: 8.0
 ---
 
 Sivananda Ashram, on the west bank of the Ganges between Ram Jhula and the main town, is the original institutional centre of yoga in Rishikesh. It was founded in 1936 by Swami Sivananda, whose synthesis of Hatha yoga, Raja yoga, and Vedanta philosophy became one of the most widely taught yoga lineages in the world. The ashram remains an active community and residential spiritual centre.

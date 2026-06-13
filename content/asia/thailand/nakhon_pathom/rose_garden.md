@@ -7,6 +7,7 @@ tags:
 latitude: 13.8042
 longitude: 99.9826
 story: The Rose Garden (Suan Sam Phran) opened in 1967 as one of Thailand's first purpose-built cultural tourism venues, offering a daily show of traditional Thai performances — classical dance, elephant demonstrations, Thai boxing, and a monk ordination ceremony — packaged for tour groups. It remains a significant tourist facility despite the theatrical packaging, and the riverside gardens are genuinely attractive.
+score: 5.9
 ---
 
 The Rose Garden Cultural Centre, known in Thai as Suan Sam Phran, is a large riverside resort and cultural park about 30 kilometres west of Bangkok and close to Nakhon Pathom town. The main draw is a daily performance programme covering classical Thai dance and music, Muay Thai boxing, an elephant show, and a staged monk ordination — a compressed introduction to several aspects of Thai culture in about 90 minutes. The show is openly theatrical but competently done.

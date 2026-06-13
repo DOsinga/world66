@@ -8,6 +8,7 @@ latitude: 39.8584
 longitude: -4.0224
 story: >
   Zocodover comes from the Arabic *suq al-dawabb* — livestock market. For centuries this was where animals were traded, executions carried out, and the Inquisition held its autos-da-fé. Today it is the main square and tourist hub, all café terraces and souvenir shops. But the old arcades survive, and if you look past the crowds you can see the medieval gate at one corner and the street pattern unchanged from the Moorish period.
+score: 6.5
 ---
 
 Plaza de Zocodover is the heart of Toledo's old city — the place where visitors arrive, where buses stop, where the tourist train begins its circuit, and where locals converge in the evening. It is lively and unpretentious, ringed by a café terraces under arcades and overlooked by a medieval gateway.

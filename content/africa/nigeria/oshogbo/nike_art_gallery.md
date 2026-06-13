@@ -8,6 +8,7 @@ latitude: 7.7750
 longitude: 4.5600
 sources:
   - https://en.wikipedia.org/wiki/Nike_Davies-Okundaye
+score: 7.9
 ---
 
 The Nike Art Gallery was founded by Nike Davies-Okundaye, one of Nigeria's most celebrated textile artists and a tireless advocate for traditional Yoruba crafts. The gallery houses thousands of pieces spanning batik, tie-dye, embroidery, weaving, and beadwork, and functions simultaneously as a commercial gallery, teaching studio, and community arts centre. Nike Davies-Okundaye has trained thousands of local artists here, many of them women from impoverished backgrounds.

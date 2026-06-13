@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Local legend claims that Ales Stenar marks the grave of King Ale, a semi-mythical Viking ruler. Modern dating puts the monument at around 1,400 years old, predating the Vikings by several centuries — making it one of the oldest large stone arrangements in Scandinavia, contemporary with the late Iron Age."
+score: 8.2
 ---
 
 Ales Stenar — "Ale's Stones" — sits on a windy bluff above the Baltic, a 59-stone monument arranged in the outline of a 67-metre ship. From a distance the stones look unremarkable; up close, with the sea behind them and grass blowing flat in the wind, they are imposing.

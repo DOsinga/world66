@@ -16,6 +16,7 @@ story: >
   across narrow rocky arêtes.
 sources:
   - https://en.wikipedia.org/wiki/Gongnyong_Ridge
+score: 9.0
 ---
 
 Gongnyong Ridge is one of Seoraksan's most exhilarating hiking routes — a narrow, serrated granite arête that requires careful navigation along a series of fixed chains, ladders, and rope sections. The ridge connects Madeungnyeong Pass with the higher park trails, and sections involve exposed traverses on very narrow rock with significant drops on both sides. It is not a dangerous route for confident walkers, but it is genuinely challenging and unsuitable for those with a fear of heights or in poor weather.

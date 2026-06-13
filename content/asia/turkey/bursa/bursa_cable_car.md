@@ -11,6 +11,7 @@ story: >
   The current system, rebuilt in 2014, runs in two sections: the lower section from Teferrüç to 
   Kadıyayla (1,635 metres), and an upper section continuing to the ski resort at 1,880 metres. 
   On clear winter days you can see Istanbul across the Marmara Sea from the top.
+score: 7.7
 ---
 
 The Bursa Teleferik runs from Teferrüç, on the eastern edge of the city, up the flank of Uludag to the ski resort area at around 1,880 metres. The views on the way up — over Bursa's sprawl, across the Marmara plain, and on clear days to Istanbul and the islands — are worth the ride even if you have no interest in skiing or hiking.

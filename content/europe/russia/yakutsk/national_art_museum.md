@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 62.0314
 longitude: 129.733
+score: 7.8
 ---
 
 The National Art Museum of the Sakha Republic has one of the more interesting regional art collections in Russia. The building holds Russian and European works alongside an extensive collection of Yakut art — paintings, graphics, and traditional carved bone and mammoth ivory.

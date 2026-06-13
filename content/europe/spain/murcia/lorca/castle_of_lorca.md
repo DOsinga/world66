@@ -12,6 +12,7 @@ tags:
 - sight
 title: Castle of Lorca
 type: poi
+score: 9.1
 ---
 
 The Castillo de Lorca, often called the Fortaleza del Sol, dominates the skyline

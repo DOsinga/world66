@@ -10,6 +10,7 @@ story: >
   The Bernward Doors were cast in a single pour of bronze for each leaf — a technical achievement of extraordinary difficulty that was not repeated elsewhere in Europe for decades. Bishop Bernward, who commissioned them, was himself a skilled metalworker and is thought to have been directly involved in their design. He had them made for his own church, St. Michael's, but they were moved to the cathedral after his death.
 sources:
   - https://en.wikipedia.org/wiki/Bernward_Doors
+score: 8.8
 ---
 
 The Bernward Doors are the finest example of Ottonian metalwork in existence — two enormous bronze doors, each cast as a single piece and weighing around 1.85 tonnes, made around 1015 for Hildesheim Cathedral. Each leaf carries eight relief panels depicting scenes from the Old and New Testaments, read from top to bottom on the left and right respectively, so that the two sides tell the story of the Fall and the Redemption in visual parallel.

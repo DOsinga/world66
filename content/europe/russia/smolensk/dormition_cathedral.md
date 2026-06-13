@@ -11,6 +11,7 @@ story: >
   The current Baroque cathedral was not completed until 1740, after more than a century of construction following the recapture of Smolensk from Poland. But its site has been occupied by the principal church of Smolensk since the 12th century, and the icon it guards — the Smolensk Icon of the Mother of God — is among the most venerated in Russia. During Napoleon's occupation of 1812, French troops stabled horses in the nave.
 sources:
   - https://en.wikipedia.org/wiki/Dormition_Cathedral_in_Smolensk
+score: 8.3
 ---
 
 The Dormition Cathedral of Smolensk stands on Cathedral Hill at the highest point of the city, its green-and-white Baroque facade dominating the urban skyline. This is the principal church of the Smolensk diocese and has occupied this position — in one form or another — since the 12th century, when a cathedral was first built here by Prince Vladimir Monomakh.

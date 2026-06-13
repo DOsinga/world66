@@ -6,6 +6,7 @@ tags:
   - theatre
 latitude: 54.5955
 longitude: -3.1394
+score: 7.8
 ---
 
 A modern theatre built on the lakeshore at the southern edge of town, opened in 1999 as the permanent home of a company that had been touring around the Lakes by lorry since the 1950s. The big auditorium runs a summer rep season — usually a Shakespeare, a modern classic, and a new play running in repertoire — and the small Studio takes the experimental work.

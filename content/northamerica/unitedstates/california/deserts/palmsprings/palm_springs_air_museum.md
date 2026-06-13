@@ -11,6 +11,7 @@ tags:
 title: Palm Springs Air Museum
 type: poi
 url: https://www.palmspringsairmuseum.org
+score: 7.9
 ---
 
 One of the largest collections of airworthy World War II combat aircraft in the world, housed in a 50,000-square-foot air-conditioned facility. The museum's mission is educational — documenting the role of WWII pilots and ground crews through flying aircraft, artifacts, artwork, film screenings, and an extensive library. Many of the aircraft still fly and appear at air shows throughout the year.

@@ -8,6 +8,7 @@ latitude: 41.7650
 longitude: 82.8850
 story: >
   The Kizilgaha beacon tower is one of the oldest preserved Han dynasty military structures in Xinjiang, built by Chinese forces as part of the signal fire system that relayed military intelligence across the Silk Road. A fire lit at one tower could alert the next within minutes, creating a communications network that stretched from the Yellow River to the edge of the known world.
+score: 7.2
 ---
 
 The Kizilgaha Beacon Tower stands about 15 kilometres northwest of Kuqa, a tall earthen tower rising from the flat desert with the Tianshan Mountains visible behind it. Built during the Han dynasty (roughly 200 BC–220 AD) as part of the military signal network that guarded the Silk Road, the tower is one of the best-preserved examples of Han military architecture in Xinjiang. Its height and location — commanding a wide view across the desert plain — illustrate the strategic logic of the beacon system.

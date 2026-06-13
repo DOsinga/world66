@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Oldest church in town, founded by one of the original bandeirante prospectors"
+score: 7.6
 ---
 
 A small whitewashed chapel on the eastern edge of town, founded around 1701 by Padre João de Faria Fialho — one of the bandeirantes from São Paulo who first found gold here. It is the oldest surviving church in Ouro Preto and a contrast to the soaring baroque elsewhere: low, simple, almost rustic.

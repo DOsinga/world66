@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Teochew Beef Hotpot
 type: poi
+score: 8.4
 ---
 
 Teochew beef hotpot is one of Shantou's essential meals. The meat is sliced by cut and cooked quickly in a clear broth, then dipped in satay sauce or chilli before it has a chance to toughen.

@@ -10,6 +10,7 @@ longitude: -1.5508
 story: "In January 1972, a fire caused by a tramp sheltering inside destroyed much of the interior of the cathedral, including many of the original stained-glass windows. The cathedral was closed for twenty years during restoration. In 2015, the main organ was badly damaged in another fire, set deliberately — it took six years and €3 million to restore. Despite this destructive history, the cathedral's interior remains magnificent."
 sources:
   - https://en.wikipedia.org/wiki/Nantes_Cathedral
+score: 8.3
 ---
 
 The Cathédrale Saint-Pierre-et-Saint-Paul took 457 years to build — construction began in 1434 and was not completed until 1893. The result is one of the great late-Gothic buildings of France, with a soaring nave that is actually taller than Notre-Dame in Paris. The interior is bright and airy, flooded with light from the large windows, and houses several exceptional works of art including the tomb of Francis II, Duke of Brittany and Anne of Brittany.

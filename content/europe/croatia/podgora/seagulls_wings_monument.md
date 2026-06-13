@@ -5,6 +5,7 @@ latitude: 43.2417
 longitude: 17.0789
 tags: [things_to_do, sight, monument]
 story: The monument honours the Yugoslav Partisan Navy, which was founded in Podgora harbour in September 1942. It was designed by Rajko Radovic and unveiled in 1962 as part of the postwar reconstruction after the earthquakes of that same year levelled much of the town.
+score: 6.3
 ---
 
 A pair of giant white concrete wings rise out of the seafront promenade like a stylised seagull about to take off. The monument has become Podgora's most recognisable image, and it stands at the south end of the main beach in the small park named after it. Up close the proportions are surprising — each wing is nearly 20 metres tall — and the bronze figures of partisans at the base are easy to miss until you walk underneath.

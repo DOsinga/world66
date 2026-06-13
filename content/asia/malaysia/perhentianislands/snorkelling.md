@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 5.9167
 longitude: 102.7333
+score: 8.9
 ---
 
 Snorkelling is arguably a better draw than diving at the Perhentians for most visitors — the water is shallow enough over the fringing reefs that a mask and fins get you to the best marine life without a boat ride or a certification. Parrotfish, angelfish, and butterflyfish are everywhere around the rocky headlands; the seagrass beds between the islands attract dugong occasionally as well as turtles more predictably.

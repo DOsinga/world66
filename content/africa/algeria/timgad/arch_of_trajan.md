@@ -11,6 +11,7 @@ story: >
   only structure visible above the sand dunes that swallowed the city. Local
   people called the ruins "Thamuda" and had no idea a full Roman city lay beneath
   their feet until French archaeologists began excavating in 1881.
+score: 8.8
 ---
 
 The triumphal arch at the western end of the decumanus maximus is the symbolic gateway to Timgad and the most photographed structure on site. It rises about 12 metres and is remarkably complete — the carved decoration on the attic story is still legible, and the archway itself is generous enough to suggest the processions it was built to frame.

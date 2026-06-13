@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -2.482
 longitude: -44.26
+score: 6.9
 ---
 
 Near Calhau beach, Base do Bode is one of the most popular seafood spots in São Luís — a loud, cheerful, open-air place where grilled fish, fried shrimp, and boiled crab arrive at your table in industrial quantities. The house specialty is fresh crab cooked in various ways, and they do it brilliantly.

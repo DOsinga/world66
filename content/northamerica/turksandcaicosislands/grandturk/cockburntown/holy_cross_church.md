@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 4.9
 ---
 
 The small Catholic Holy Cross Church on Osborne Road is the Catholic parish for Grand Turk. The building is plain, white-painted, and quietly atmospheric — the bell-tower is visible across most of the southern part of town. Sunday mass is open to visitors.

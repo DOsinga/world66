@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.5262
 longitude: -87.3633
+score: 6.1
 ---
 
 The Clarksville Riverwalk runs along the south bank of the Cumberland River, stretching about 2 miles through the downtown area and connecting several small parks and viewpoints. The paved path is popular with joggers, cyclists, and dog walkers; benches and overlooks give views down the river and across to the wooded north bank.

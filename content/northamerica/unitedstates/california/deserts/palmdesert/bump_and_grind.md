@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7670
 longitude: -116.3922
+score: 8.2
 ---
 
 The most popular hike in Palm Desert, a steep but short climb up the south face of the Santa Rosa foothills directly above the Coachella Valley floor. The trail is about 4 miles round trip with roughly 900 feet of elevation gain, ending on a ridge with sweeping views over the entire valley, from Palm Springs in the west to Indio in the east.

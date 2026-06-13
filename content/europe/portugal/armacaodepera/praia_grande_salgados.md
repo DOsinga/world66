@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
   - wildlife
+score: 8.3
 ---
 
 Praia Grande continues the long beach east of Armacao toward Salgados, with the same wide pale sand but markedly fewer people. The dunes behind it open onto the Lagoa dos Salgados, a shallow brackish lagoon that is one of the best birdwatching sites on the Algarve.

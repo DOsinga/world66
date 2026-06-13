@@ -4,6 +4,7 @@ type: poi
 latitude: 39.6750
 longitude: 39.4500
 tags: [things_to_do, activity, sport]
+score: 7.0
 ---
 
 The upper Karasu, the headwater branch of the Euphrates that flows through the Erzincan plain, has a series of rapids between Erzincan and Kemah that have made the area a centre for Turkish whitewater rafting. Several local companies run trips of varying lengths between May and early September, when snowmelt keeps the flow up.

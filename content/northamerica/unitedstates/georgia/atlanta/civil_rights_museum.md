@@ -7,6 +7,7 @@ tags:
 latitude: 33.7634
 longitude: -84.3930
 story: "The lunch-counter sit-in simulation is the museum's signature exhibit: you put on headphones, sit at a replica Woolworth's counter, and the audio reproduces the sounds — shouts, insults, threats — that 1960 protesters endured. The standard is to make it past two minutes; the average visitor lasts about ninety seconds."
+score: 8.4
 ---
 
 A 2014 museum next to Centennial Olympic Park that places the American civil rights movement of the 1950s and 60s in the context of the global human rights struggle. The upstairs galleries cover Martin Luther King Jr.'s papers — the museum holds his archives, on loan from Morehouse College — alongside Mahatma Gandhi, Nelson Mandela, and contemporary movements.

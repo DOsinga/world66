@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -9.6575
 longitude: 119.4197
+score: 8.3
 ---
 
 Waikabubak, the capital of West Sumba, is unusual among Indonesian towns in that traditional clan houses and megalithic tombs sit within the town itself. The hilltop kampungs of Tarung and Waitabar are both within walking distance of the central market — rows of high-peaked thatched houses facing stone tombs across swept earth courtyards, with chickens and children and daily life going on around them.

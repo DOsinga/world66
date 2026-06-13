@@ -7,6 +7,7 @@ tags:
 - bar
 title: Dado Bier
 type: poi
+score: 5.9
 ---
 
 Dado Bier is the most established name in Porto Alegre's craft beer scene, a local brewery that started in 1995 — well before craft beer became fashionable in Brazil — and built a following through consistent quality and a genuinely diverse range of styles. Their Moinhos de Vento brewpub is the flagship operation: a large, lively space with copper brewing tanks visible behind the bar, ten or more of their own beers on tap, and a food menu that goes beyond the usual bar snacks to actually decent grilled food and shared plates.

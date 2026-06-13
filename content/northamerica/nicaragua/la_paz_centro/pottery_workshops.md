@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 6.7
 ---
 
 La Paz Centro's other claim is its pottery — terracotta roof tiles, plant pots, and the flat clay griddles called comales used across Central America for cooking tortillas. The clay deposits around town are reportedly some of the best in Nicaragua, and the industry has run continuously since the colonial era.

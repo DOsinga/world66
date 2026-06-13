@@ -13,6 +13,7 @@ story: >
   most interesting of the Negro towns in the United States." A decade later the town was
   in decline, undermined by drought, agricultural collapse, and the systematic economic
   exclusion that followed Reconstruction's end. But what was built remained.
+score: 8.4
 ---
 
 Designated a National Historic Landmark in 1975, the Boley Historic District preserves the original commercial heart of one of Oklahoma's most significant all-Black towns. Boley was founded in 1903 on land allotted under the Dawes Act, and by 1910 it was thriving — a deliberate proof of concept that Black communities could build and sustain their own institutions in the face of Jim Crow.

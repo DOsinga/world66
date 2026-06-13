@@ -8,6 +8,7 @@ latitude: 41.9292
 longitude: 2.3011
 sources:
   - https://en.wikipedia.org/wiki/Can_Jubany
+score: 6.9
 ---
 
 Can Jubany is a Michelin-starred restaurant in Calldetenes, a small village about four kilometres from Vic. Chef Nandu Jubany has built one of Catalonia's best-regarded tables here, in a restored farmhouse setting that feels far removed from the formal rigidity of big-city fine dining. The cooking is rooted in local produce — game, mushrooms, legumes — treated with technique and without pretension.

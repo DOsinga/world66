@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Massive arched mosque in northern Khobar, capacity 24,000"
+score: 6.1
 ---
 
 The Prince Sultan Grand Mosque is the second of Khobar's two major mosques and the larger of the two by far, with capacity for 24,000 worshippers across the main hall, the women's gallery and the outer courtyard. Opened in 2007 and named after the long-serving crown prince, it stands on a large landscaped site in the north of the city.

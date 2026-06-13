@@ -11,6 +11,7 @@ tags:
   - historic_house
 title: Chapelle Impériale
 type: poi
+score: 7.0
 ---
 
 The Imperial Chapel stands beside the Palais Fesch on the Rue du Cardinal Fesch, forming part of the same complex as the Fesch Museum. Cardinal Fesch commissioned it in the 1850s as a mausoleum for the Bonaparte family. It holds the remains of several members of Napoleon's family — though Napoleon himself lies at Les Invalides in Paris and his brothers Joseph and Lucien are buried in Italy. The chapel's plain neoclassical exterior gives way to a surprisingly opulent interior. Entry is included with a Fesch Museum ticket.

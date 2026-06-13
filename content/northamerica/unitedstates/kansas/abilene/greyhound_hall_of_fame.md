@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The national museum of greyhound racing, with retired greyhounds in residence
+score: 5.7
 ---
 
 A single, quirky museum dedicated to the history of greyhound racing — fitting for a state that was for decades the centre of the American industry. The displays trace the sport from Coursing Club days through the dog tracks of the twentieth century, with trophies, racing silks, and lots of photographs of famous dogs. Inductees to the hall of fame include over 100 humans and dogs, the latter typically with longer pedigrees than the former.

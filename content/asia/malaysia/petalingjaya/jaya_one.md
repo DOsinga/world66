@@ -6,6 +6,7 @@ longitude: 101.6321
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 A mid-sized lifestyle development on Jalan Universiti in PJ Section 13, with a courtyard ringed by independent restaurants, a small live-music venue (No Black Tie's PJ branch), and the regular weekend Riuh markets. Far less hectic than the bigger malls and more conducive to an evening that does not involve shopping.

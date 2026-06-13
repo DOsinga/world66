@@ -5,6 +5,7 @@ tags: [things_to_do, sight, sachsenhausen]
 latitude: 50.1042
 longitude: 8.6915
 story: The seven traditional herbs of Frankfurt's green sauce — borage, chervil, garden cress, parsley, salad burnet, sorrel and chives — were the subject of a serious dispute when the city tried to register the recipe as a protected speciality. The compromise was the seven greenhouse monument, which finally fixes the canonical seven plants in concrete.
+score: 5.7
 ---
 
 Tucked away in a small park off Heister Strasse on the south bank of the Main, the Grüne Sosse Denkmal — Green Sauce Monument — is a row of seven small free-standing greenhouses, each containing one of the seven herbs that make up the canonical Frankfurter Grüne Sosse. Designed by the sculptor Olga Schulz, it was unveiled in 2007 with the express purpose of finally settling local arguments about exactly which herbs belonged in the sauce.

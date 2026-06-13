@@ -6,6 +6,7 @@ longitude: 39.1925
 snippet: Anglican cathedral on the site of East Africa's last open slave market
 tags: [things_to_do, sight, memorial]
 story: "Bishop Edward Steere, who finished the cathedral in 1879, placed the altar deliberately on the spot of the whipping post in the slave market that had stood here until David Livingstone's campaigning closed it in 1873. A red marble circle in the floor in front of the altar marks the exact spot."
+score: 9.0
 ---
 
 Christ Church is the seat of the Anglican Diocese of Zanzibar and the single most important historical site in Stone Town. The slave market on this spot was the largest in East Africa, where captives were brought from the interior and sold on for the Arab and Indian Ocean trade. The cathedral was deliberately built over it in the 1870s as a monument and rebuke.

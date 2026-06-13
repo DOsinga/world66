@@ -9,6 +9,7 @@ latitude: 53.9935
 longitude: -1.5467
 sources:
   - https://en.wikipedia.org/wiki/Royal_Pump_Room,_Harrogate
+score: 8.4
 ---
 
 The Royal Pump Room is a Grade II* listed building that was the epicentre of Harrogate's spa industry for much of the 19th century. Built in 1842 over the strongest sulphur spring in Europe, it dispensed sulphurous mineral water to tens of thousands of visitors each year at its peak. The octagonal stone building still stands in its original form, and you can taste the water — strongly sulphurous and decidedly unpleasant, which makes it all the more impressive that people came here from across Europe to drink it.

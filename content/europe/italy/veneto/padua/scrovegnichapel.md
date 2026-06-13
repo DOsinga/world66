@@ -11,6 +11,7 @@ tags:
 - sight
 title: Scrovegni Chapel
 type: poi
+score: 10.0
 ---
 
 One of the great art experiences of Italy. The chapel was commissioned by Enrico Scrovegni in 1303 and Giotto covered every inch of the interior with frescoes depicting the lives of the Virgin and Christ, ending with a monumental Last Judgement. The colours are extraordinary — blues and reds that survived 700 years. Booking required; visitor numbers are strictly limited.

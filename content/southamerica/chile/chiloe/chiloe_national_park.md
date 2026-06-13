@@ -7,6 +7,7 @@ tags:
 - nature
 title: Chiloé National Park
 type: poi
+score: 8.8
 ---
 
 Chiloé National Park protects a stretch of the island's rainy western side: temperate forest, peatland, rivers, dunes, and long Pacific beaches. The Cucao sector is the easiest access point for most travellers.

@@ -14,6 +14,7 @@ tags:
 - sight
 title: Bude Castle
 type: poi
+score: 6.8
 ---
 
 Bude Castle is a castellated folly beside the canal, built in the 1830s by the inventor and engineer Goldsworthy Gurney. Gurney was one of the more versatile Victorian engineers: he invented the steam carriage (a predecessor of the railway locomotive), developed the Bude Light (a highly efficient limelight used to illuminate the House of Commons for several decades), and made contributions to early steam navigation. The "castle" — really a domestic house with decorative battlements — was his personal residence and workshop.

@@ -11,6 +11,7 @@ story: >
   to the summit at 1,470 meters and back — a total vertical gain and loss of nearly 3,000 meters in
   under five kilometers. The race record is around 41 minutes. Competitors run on scree so steep that
   some descend by sitting and sliding down the loose rock.
+score: 7.8
 ---
 
 Mount Marathon looms directly above Seward, its summit visible from every point in town. The hiking route to the summit is not technically difficult but it is extremely steep — more of a scramble than a walk, with loose scree and some sections that require using your hands. The reward at the top is a view down the full length of Resurrection Bay to the sea, with the Kenai Mountains spreading in every direction.

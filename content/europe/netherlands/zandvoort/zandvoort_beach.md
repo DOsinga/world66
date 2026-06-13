@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.3712
 longitude: 4.5237
+score: 8.1
 ---
 
 Zandvoort's beach is the closest piece of open North Sea coast to Amsterdam and the city treats it accordingly. The sand is fine and pale grey, the gradient gentle, and the beach itself wide enough on a low tide to lose a thousand sunbathers and still feel open. The water is cold even in August — fifteen to seventeen degrees — and the surf is steady rather than dramatic.

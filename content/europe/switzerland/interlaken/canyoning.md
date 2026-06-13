@@ -7,6 +7,7 @@ tags:
 - sight
 title: Canyoning in the Bernese Oberland
 type: poi
+score: 7.8
 ---
 
 The gorges around Interlaken are among the best canyoning terrain in Europe, and several operators based in town run trips into them year-round. The standard format involves a guide taking a small group through a canyon: abseiling down waterfalls, jumping into pools, sliding down natural rock chutes polished smooth by centuries of water, and swimming through narrows where the gorge walls close to a metre apart. The combination of glacier-cold water and physical exertion is bracing in a way that stays with you.

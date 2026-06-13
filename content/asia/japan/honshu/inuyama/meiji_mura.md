@@ -8,6 +8,7 @@ latitude: 35.340601
 longitude: 136.988732
 story: >
   Frank Lloyd Wright's Imperial Hotel in Tokyo, completed in 1923, was famously one of the few buildings in Tokyo to survive the Great Kanto Earthquake that struck the same year. The hotel was demolished in 1968 to make way for a new development, but its lobby was dismantled and reconstructed at Meiji-mura — a building that survived a catastrophe, only to be moved piece by piece to a hillside in Aichi Prefecture.
+score: 8.5
 ---
 
 About three kilometres east of Inuyama, Meiji-mura is an open-air architectural museum that preserves 67 buildings from the Meiji and early Taisho periods (1868–1926), relocated from across Japan to a hillside site overlooking Lake Iruka. The Meiji era was Japan's transformation from a feudal samurai society into a modern industrial state, and the buildings here document that change: Western-style brick banks, hybrid Japanese-European wooden houses, a Catholic cathedral, a prison, a post office, and the celebrated lobby of Frank Lloyd Wright's Imperial Hotel.

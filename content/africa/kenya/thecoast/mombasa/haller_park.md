@@ -11,6 +11,7 @@ tags:
 - sight
 - park
 - family_activity
+score: 7.4
 ---
 
 About 12 km north of central Mombasa, on the Bamburi cement company's old worked-out limestone quarries, sits one of the more unusual environmental projects in East Africa. **Haller Park** is what happens when you give a Swiss agronomist forty years and a moonscape: a working nature reserve with giraffes, hippos, antelope, crocodiles, monkeys and tortoises living in habitat reclaimed from industrial waste. The hippo feeding at four in the afternoon is the headline event for visiting families.

@@ -7,6 +7,7 @@ tags:
 title: Merchant Taylors' Hall
 type: poi
 snippet: "A 14th-century guildhall still in active use, with an impressive great hall and medieval undercroft"
+score: 7.4
 ---
 
 The Merchant Taylors' Hall on Aldwark dates from the 1400s and is one of several medieval guildhalls that survive in York. The Merchant Taylors' Company — the guild of cloth-workers and tailors — built and still owns the hall, making it one of a small number of guildhalls in England still operated by the guild that originally constructed them. The great hall on the upper floor has an impressive timber roof and retains much of its medieval character. The undercroft below is earlier still.

@@ -10,6 +10,7 @@ tags:
 title: Mystery Spot
 type: poi
 url: www.mysteryspot.com
+score: 6.2
 ---
 
 A classic roadside attraction in the redwoods above Santa Cruz, where the laws of physics seem to go sideways. The guided tour takes you through a tilted cabin where balls roll uphill and people appear to change height. It is all optical illusion, of course, but it has been delighting visitors since 1939. Reservations are recommended in summer.

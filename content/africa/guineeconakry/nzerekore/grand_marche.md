@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 8.3926
 longitude: -8.8573
+score: 6.8
 ---
 
 The Grand Marché at the center of Nzerekore is the commercial heart of southern Guinea — a large, noisy, chaotic market that draws traders from the surrounding forest region and from across the Liberian and Ivorian borders. The merchandise reflects the region's character: forest products, palm oil, kola nuts, medicinal plants, bush meat, and the hand-woven textiles made by the Manon, Kono, and Guerze peoples.

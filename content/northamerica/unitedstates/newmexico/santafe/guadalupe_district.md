@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.6845
 longitude: -105.9444
+score: 7.3
 ---
 
 The neighbourhood centred on the Santuario de Guadalupe, the oldest shrine to the Virgin of Guadalupe in the United States. The streets around it — west of the Plaza, north of the Railyard — hold small galleries, vintage clothing shops, ice-cream parlours, and a couple of the city's best music venues.

@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Cocora_Valley
   - https://en.wikipedia.org/wiki/Quindio_wax_palm
+score: 9.5
 ---
 
 The Valle de Cocora, 12 kilometres east of Salento, is one of the most distinctive landscapes in South America. Wax palms — Colombia's national tree and the world's tallest palm — stand scattered across green pastures at 1,800-2,400 metres altitude, their pencil-thin trunks rising incongruously from the grass like something from a Dr. Seuss illustration. The tallest reach 60 metres.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.6200
 longitude: 44.5200
+score: 8.5
 ---
 
 The Juta Valley opens to the southwest of Stepantsminda and offers some of the finest high-altitude trekking in the region. A rough road leads to the small village of Juta at 2,150 metres, where the valley proper begins. From there, trails climb toward the Chaukhi massif — a jagged wall of rock towers that looks almost Alpine — and the Chaukhi Pass at around 3,350 metres connects to the Gudauri area for a multi-day traverse.

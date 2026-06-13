@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 Twenty kilometres north of Tulum on the road to Playa del Carmen, Cenote Dos Ojos — "two eyes" — consists of two large sinkholes connected underwater by a 400-metre passage. The two pools sit beneath an enormous limestone cavern roof, and the visibility is famously good: snorkellers can see five metres down to the bottom, where divers move silently through the gallery below.

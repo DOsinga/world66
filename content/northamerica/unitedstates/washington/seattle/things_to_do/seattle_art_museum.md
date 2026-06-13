@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Seattle_Art_Museum
+score: 8.5
 ---
 
 The Seattle Art Museum — SAM — occupies a building on 1st Avenue designed by Robert Venturi, marked at street level by Jonathan Borofsky's Hammering Man sculpture: a four-storey black steel figure that swings its arm once every few seconds, every day except Labour Day. The collection is strongest in American art, Northwest Coast Indigenous work, and African art, all of which are presented with real curatorial intelligence.

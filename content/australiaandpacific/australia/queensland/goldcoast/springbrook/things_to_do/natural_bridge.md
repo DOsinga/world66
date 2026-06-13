@@ -1,6 +1,7 @@
 ---
 title: "Natural Bridge"
 type: poi
+score: 8.7
 ---
 
 Natural Bridge is one of the most unusual geological formations in the Gold Coast hinterland — a basalt rock arch where a stream has cut through the ceiling of a lava tube, leaving a natural bridge spanning the opening. A small waterfall drops through the hole into a dark pool below. The short loop walk (about one kilometre) descends into a steep gully through warm subtropical rainforest to reach it; the whole walk takes around 30 minutes.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.3
 ---
 
 A traditional taverna in Thassos Town with a straightforward menu built around whatever came off the boats that morning: grilled octopus, sea bream baked in salt, red mullet fried whole, mussels in white wine. The kitchen does not complicate things unnecessarily, which is exactly the right approach when the fish is this fresh. The island's own white wine — dry, slightly mineral — is the only sensible accompaniment.

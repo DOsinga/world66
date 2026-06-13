@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.6435
 longitude: -89.7108
+score: 7.2
 ---
 
 Wildlife Prairie Park sits about ten miles west of Peoria in the restored prairie and woodland of Hanna City, and it keeps a collection of native Illinois animals in large, naturalistic enclosures: bison, elk, wolves, black bears, bobcats, river otters, and a variety of birds. The approach — broad enclosures set in restored habitat rather than small cages in a conventional zoo — makes for a more genuine wildlife experience than most urban zoos, and the restored prairie landscape itself is worth seeing.

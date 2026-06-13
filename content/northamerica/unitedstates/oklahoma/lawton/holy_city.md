@@ -6,6 +6,7 @@ longitude: -98.5911
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 A miniature reconstruction of Jerusalem at the time of Christ, set among the granite outcrops of the Wichita Mountains. Built in stone in the 1930s by a Lutheran pastor and local volunteers, it includes a Last Supper hall, Pilate's Court, the Calvary cross, and several other locations from the Passion narrative.

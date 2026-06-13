@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
   - university_district
+score: 5.8
 ---
 
 The Flandrau Science Center, on the University of Arizona campus, combines hands-on physics exhibits with a planetarium and a mineral museum. The planetarium runs daily star shows and films on a domed screen — Tucson, after all, is the centre of American astronomy.

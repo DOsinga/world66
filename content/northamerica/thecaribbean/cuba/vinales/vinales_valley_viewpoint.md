@@ -12,6 +12,7 @@ story: >
   classic cars in Havana and the Capitol building. It appeared in every edition of
   the Lonely Planet Cuba guide for two decades. The irony is that the terrace belongs
   to a state hotel of no particular distinction — the view is the entire reason to go.
+score: 8.6
 ---
 
 The standard panoramic view of the Viñales valley is taken from the terrace of the Hotel Los Jazmines, about 3 km north of the village on the road in from Pinar del Río. The hotel itself is unremarkable, but the terrace gives a sweeping view across the entire valley floor — tobacco fields, royal palms, and a sequence of mogotes rising from the flat red earth in the afternoon light.

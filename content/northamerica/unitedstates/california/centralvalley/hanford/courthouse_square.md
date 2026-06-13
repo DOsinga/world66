@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Courthouse Square
 type: poi
+score: 7.3
 ---
 
 The heart of downtown Hanford, anchored by an impressive 1897 courthouse built in a Romanesque Revival style. The square functions as a genuine public space — there is an old-fashioned carousel that runs on weekends, and the surrounding blocks have retained enough historic storefronts to feel authentic rather than sanitized. A good place to start any exploration of the town.

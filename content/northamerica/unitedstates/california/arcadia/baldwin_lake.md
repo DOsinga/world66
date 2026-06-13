@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.8
 ---
 
 Baldwin Lake is a small natural lake — technically a sag pond, where the Raymond Fault has pulled the ground down enough to expose the water table — at the centre of the Arboretum. It is the same source of water that drew the Tongva people, then Lucky Baldwin, then Hollywood film crews. Surrounded by mature trees, with a small fountain and a fringe of bulrush, it is a quiet spot for a picnic.

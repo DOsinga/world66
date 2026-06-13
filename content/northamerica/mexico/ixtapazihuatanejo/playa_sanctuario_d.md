@@ -12,6 +12,7 @@ tags:
 - beaches
 title: Playa Sanctuario De Las Tortugas
 type: poi
+score: 7.7
 ---
 
 No restaurants. No hotels. No beach vendors. No people. That's the appeal of Playa Sanctuario De Las Tortugas, a stretch of empty sand about a mile and a half south of La Barra De Potosí.

@@ -9,6 +9,7 @@ latitude: 47.5582
 longitude: 7.5788
 sources:
   - https://en.wikipedia.org/wiki/Spalentor
+score: 7.6
 ---
 
 The most imposing of the three surviving medieval city gates, built in the late 14th century at the western end of the old town. The Spalentor is a hulking Gothic tower flanked by two round turrets, decorated with coats of arms and sculptures of the Virgin Mary and two prophets. It was part of the second ring of walls that once enclosed Grossbasel.

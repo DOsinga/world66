@@ -9,6 +9,7 @@ tags:
   - runestone
 latitude: 63.18333
 longitude: 14.61889
+score: 7.6
 ---
 
 The Frösö Runestone has the distinction of being the northernmost runestone in Scandinavia — a remarkable geographical fact given that the Norse and Viking world extended as far north as it did. Raised in the early 11th century, the inscription records that Östman Gudfastson had the stone raised and Christianity introduced to Jämtland. That combination of personal commemoration and religious landmark-making is characteristic of many Scandinavian runestones, but the geographical position of this one gives it an extra resonance: this was genuinely the frontier of Christianisation.

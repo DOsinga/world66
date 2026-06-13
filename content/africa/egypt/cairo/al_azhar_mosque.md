@@ -7,6 +7,7 @@ tags:
 - mosque
 title: Al-Azhar Mosque
 type: poi
+score: 9.1
 ---
 
 Al-Azhar is simultaneously a working mosque and the oldest continuously operating university in the world, founded in 970 AD. The complex is a focal point of Islamic scholarship and a fine example of Fatimid architecture. Non-Muslims can visit outside prayer times; women are provided with robes at the entrance.

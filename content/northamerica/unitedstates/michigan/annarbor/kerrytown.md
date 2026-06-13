@@ -6,6 +6,7 @@ longitude: -83.7458
 tags:
   - things_to_do
   - neighbourhood
+score: 7.7
 ---
 
 A small historic district just north of downtown, Kerrytown is Ann Arbor's most charming corner for shopping and eating. The anchor is the Kerrytown Market and Shops complex, which houses a collection of independent retailers, food vendors, and the Ann Arbor Farmers Market — one of the oldest continuously operating farmers' markets in Michigan, running since 1919. The Saturday morning market is a genuine community gathering, packed with local produce, baked goods, flowers, and prepared food.

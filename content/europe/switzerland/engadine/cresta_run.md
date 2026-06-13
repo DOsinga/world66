@@ -15,6 +15,7 @@ story: >
   maintains that the prohibition has historical and safety justifications.
   Women had competed until a fatal accident in 1925. The rule remains; the
   arguments continue.
+score: 7.3
 ---
 
 The Cresta Run is the world's oldest purpose-built bob run, a natural ice track built each winter since 1884 between St. Moritz and Celerina. Riders travel face-down on small steel sleds called "skeletons," reaching speeds up to 140 km/h around the run's famous bends — including the notorious Shuttlecock corner, where ejections are common and celebrated with a bottle of champagne presented by the club.

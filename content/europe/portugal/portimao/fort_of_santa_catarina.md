@@ -15,6 +15,7 @@ story: >
   inland.
 sources:
   - https://en.wikipedia.org/wiki/Fort_of_Santa_Catarina_(Portim%C3%A3o)
+score: 7.1
 ---
 
 The Fort of Santa Catarina stands at the western tip of Praia da Rocha, perched on the cliffs above the point where the Arade River meets the Atlantic. It is a compact seventeenth-century military installation built to control the river mouth and complement the Fort of São João do Arade on the opposite bank at Ferragudo.

@@ -15,6 +15,7 @@ story: >
   used as a base for decades.
 sources:
   - https://en.wikipedia.org/wiki/Refuge_Walter-Bonatti
+score: 8.5
 ---
 
 Val Ferret runs north-east from Courmayeur, a broad pastoral valley beneath the Italian flank of the Mont Blanc massif. Where Val Veny is dramatic and glacier-dominated, Val Ferret is gentler — a landscape of summer pastures, scattered farms, and small hamlets that gives a different but equally compelling view of the mountains above. The valley is threaded by the Tour du Mont Blanc and is the starting point for trails into the Grand Col Ferret and the Swiss side.

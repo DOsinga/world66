@@ -8,6 +8,7 @@ latitude: 44.1817
 longitude: 8.3961
 sources:
   - https://en.wikipedia.org/wiki/Varigotti
+score: 8.3
 ---
 
 Varigotti is a small fishing hamlet 4 km east of Finale Ligure with the most beautiful beach on this stretch of the Riviera — a wide arc of pale sand backed by pastel-coloured houses in faded orange and pink that reflect in the clear water. The village retains an authentic character that the more developed parts of Finale have lost, with small boats pulled up on the beach and fishing families going about their business alongside the tourists.

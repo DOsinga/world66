@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Bergkirche, on a small hill in the northern part of central Wiesbaden, is a vivid red-brick Lutheran church built between 1876 and 1879. Its three tall pointed spires give the surrounding district much of its character. The building is among the most prominent works of Gothic Revival architecture in the city, by the architect Johannes Otzen, who is responsible for several other notable churches across Germany.

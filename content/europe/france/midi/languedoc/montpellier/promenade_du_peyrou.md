@@ -8,6 +8,7 @@ tags:
 - sight
 title: Promenade du Peyrou
 type: poi
+score: 7.8
 ---
 
 A formal 17th- and 18th-century esplanade laid out at the highest point of the old town. At the eastern end, the **Porte du Peyrou** is a triumphal arch built in 1693 to glorify Louis XIV. At the western end, the elegant hexagonal **Château d'Eau** water tower marks the terminus of the **Saint-Clément aqueduct** — a long line of two-tier stone arches that brought drinking water to the city in the 18th century, deliberately built in the Roman style.

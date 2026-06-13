@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.3
 ---
 
 The Juluapan Lagoon, behind the Santiago Peninsula, is a long mangrove-lined inlet best known for its crocodiles, iguanas, and migratory birds. Small boats run from the village of Juluapan into the mangroves; the trip is an easy hour and a half and reliable for sightings.

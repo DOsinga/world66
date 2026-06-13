@@ -15,6 +15,7 @@ story: >
   called it the greatest innings of his career.
 sources:
   - https://en.wikipedia.org/wiki/Antigua_Recreation_Ground
+score: 6.8
 ---
 
 The Antigua Recreation Ground is the island's historic cricket venue and one of the most famous grounds in West Indies cricket. Known as the ARG, it hosted Test matches from 1981 to 2007 and was the scene of some of the most celebrated innings in the game's history, most of them involving local hero Viv Richards.

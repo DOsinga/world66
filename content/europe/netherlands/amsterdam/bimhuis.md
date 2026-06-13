@@ -12,6 +12,7 @@ tags:
 title: Bimhuis
 type: poi
 url: bimhuis.nl
+score: 8.7
 ---
 
 Widely considered one of the best jazz venues in the world. Concerts start at nine, in a spectacular glass-walled room cantilevered over the river IJ as part of the Muziekgebouw complex. The programming focuses on improvised and experimental music; the atmosphere is serious but not stuffy.

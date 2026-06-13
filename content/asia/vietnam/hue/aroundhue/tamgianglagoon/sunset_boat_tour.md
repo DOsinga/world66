@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The lagoon was created when sand barriers built by the Han Giang river closed off a long arm of the South China Sea in the late Pleistocene. Tam Giang is shallow — most of it under two metres deep — and the fish weirs that stand in long rows out into the lagoon are exactly the same design used by the Cham people who lived here a thousand years ago."
+score: 8.2
 ---
 
 The standard way to see Tam Giang is from a small wooden boat at the end of the day, when the wind drops, the fishermen come in, and the low sun lights the fish weirs in long silhouettes across the shallow water. Most trips leave from Thai Duong or Phu My villages on the inner shore. The boats are modest — six or eight passengers under a canvas awning — and the cost is low.

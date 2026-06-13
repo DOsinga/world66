@@ -9,6 +9,7 @@ latitude: 36.7796
 longitude: -6.3554
 sources:
   - https://en.wikipedia.org/wiki/Guadalquivir
+score: 8.3
 ---
 
 Doñana National Park — one of Europe's largest and most important wetland reserves — sits directly across the Guadalquivir from Sanlúcar, and the river crossing is one of the most satisfying ways to experience it. Boat trips depart from the port at Bonanza, about 3km north of the town centre, and take you up into the marshes along the park's edge. You're likely to see flamingos, spoonbills, herons, and, if you're patient and quiet, Spanish imperial eagles.

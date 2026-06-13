@@ -8,6 +8,7 @@ title: "Notre-Dame-des-Passes (Basilique)"
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Our_Lady_of_Arcachon
+score: 6.7
 ---
 
 The Basilique Notre-Dame-des-Passes stands at the western end of the Ville d'Été, looking out towards the bay and the les passes — the narrow channels through which the Atlantic tides enter the Arcachon basin. The church is relatively modest in scale for a basilica, built in the late 19th century in a Romano-Byzantine style, but its location gives it a commanding presence over the sea.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.2903
 longitude: 3.8182
+score: 5.1
 ---
 
 The covered wash house near the lower pharmacy is one of Lormes' quietly charming relics. Like dozens of lavoirs across Burgundy, this one provided the town's women with a shared space to wash clothes in running water, sheltered from the weather, for the better part of two centuries. The Vauban name is honorific — the great military engineer Sébastien Le Prestre de Vauban was born in the Morvan and is a regional touchstone — rather than an indication of his direct involvement.

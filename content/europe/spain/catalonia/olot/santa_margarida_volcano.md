@@ -8,6 +8,7 @@ tags:
   - sight
   - volcano
   - hiking
+score: 8.7
 ---
 
 Santa Margarida is the most photogenic of the Garrotxa volcanoes. The crater, almost perfectly circular and 350 metres across, has filled with grass over the millennia, and at the centre stands the small Romanesque chapel of Santa Margarida — built in the 11th century, destroyed by the 1428 earthquake, and rebuilt afterwards.

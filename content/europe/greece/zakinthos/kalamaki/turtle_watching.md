@@ -8,6 +8,7 @@ latitude: 37.7210
 longitude: 20.8700
 sources:
   - https://en.wikipedia.org/wiki/National_Marine_Park_of_Zakynthos
+score: 8.5
 ---
 
 The waters around Kalamaki are part of the prime feeding and nesting grounds for the loggerhead turtle, and boat trips from the village offer the best chance to see turtles in the water. Several operators run morning trips to the Bay of Laganas, where turtles congregate to feed on seagrass. The boats are required to keep a respectful distance and switch off engines when turtles surface.

@@ -9,6 +9,7 @@ latitude: 48.389
 longitude: 21.525
 snippet: A neoclassical temple to the man who reformed the Hungarian language
 story: "When Kazinczy died of cholera in 1831 the Hungarian Academy of Sciences raised a national subscription to build a fitting memorial on the site of his country house. The architect Miklos Ybl designed a small neoclassical temple, completed in 1873 — the first national literary monument in Hungary."
+score: 7.5
 ---
 
 The memorial hall is a perfect little Greek temple set in a clearing of hornbeams. Inside is a single high-ceilinged room with a bust of Kazinczy, panels in Hungarian about his life, and the visitor's book that every Hungarian schoolchild on a literary outing seems to sign. A pathway of clipped hornbeams leads from the temple to the writer's grave, which is unfussily marked.

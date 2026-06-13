@@ -8,6 +8,7 @@ tags:
 latitude: 50.938
 longitude: 6.9593
 snippet: Medieval and Renaissance city hall complex, the oldest in Germany still in use
+score: 7.9
 ---
 
 The Cologne City Hall complex is one of the finest groups of historic civic buildings in Germany. The oldest part — the tower — dates from the 14th century; the magnificent Renaissance loggia facing the Rathausplatz was added in 1569 and is considered one of the best examples of the style in northern Europe. The Gothic tower rises 61 metres and is still the ceremonial heart of the city's civic life.

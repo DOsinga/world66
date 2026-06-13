@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.1
 ---
 
 Essex Street is Salem's main commercial thoroughfare and its pedestrianised section forms the tourist spine of the city. On any given day in October it is thick with costumed visitors, ghost tour operators, and street performers; in summer and early autumn it's busy but navigable. The street is lined with witch-themed shops, independent restaurants, and a few genuinely good galleries and boutiques.

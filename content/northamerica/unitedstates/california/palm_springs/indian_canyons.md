@@ -12,6 +12,7 @@ story: >
   fan palms — provided food (the fruit), shelter (the leaves), and building material.
   The Cahuilla dug out the trunks to make cooking vessels and used the fiber for baskets.
   The canyon is still tribal land.
+score: 8.9
 ---
 
 Just south of downtown, Indian Canyons is tribal land of the Agua Caliente Band of Cahuilla Indians and one of the best places near Palm Springs for hiking through genuine desert wilderness. Three canyons are accessible: Palm Canyon, Murray Canyon, and Andreas Canyon.

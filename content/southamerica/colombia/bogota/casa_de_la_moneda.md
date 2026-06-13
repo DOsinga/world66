@@ -8,6 +8,7 @@ tags:
 latitude: 4.5968
 longitude: -74.0730
 snippet: "Colonial-era mint turned numismatics museum, next to Museo Botero"
+score: 8.0
 ---
 
 The Casa de la Moneda, attached to the Museo Botero complex on Calle 11, is Colombia's former royal mint. Founded by the Spanish crown in 1621, it was one of the most important mints in colonial Spanish America. The building has been converted into a museum tracing the history of money in Colombia, with an emphasis on the pre-Columbian and colonial periods.

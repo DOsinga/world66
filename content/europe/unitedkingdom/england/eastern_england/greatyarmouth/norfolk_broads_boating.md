@@ -9,6 +9,7 @@ latitude: 52.6180
 longitude: 1.7100
 story: >
   The Norfolk Broads were thought to be natural lakes until the 1960s, when a researcher named Joyce Lambert proved they were the flooded remnants of medieval peat diggings. For centuries, the shallow lakes were used as a source of fuel — an industry that eventually drowned itself when the sea level rose and the workings filled with water.
+score: 7.4
 ---
 
 The Norfolk Broads — Britain's largest protected wetland — begin immediately west of Great Yarmouth, and renting a boat for the day is one of the best ways to spend time in the area. Several hire companies operate from the River Bure, and no licence or experience is required for day-hire motor boats on most of the Broads.

@@ -7,6 +7,7 @@ tags:
   - southern
 latitude: 33.9582
 longitude: -83.3760
+score: 6.3
 ---
 
 The Last Resort Grill has been feeding Athens since 1992, and it remains one of the more reliable dinner options in town. The menu leans Southern American with global influences — seafood, vegetable dishes, and grilled meats make up the bulk of it. The shrimp and grits and the pecan-encrusted anything are crowd favorites.

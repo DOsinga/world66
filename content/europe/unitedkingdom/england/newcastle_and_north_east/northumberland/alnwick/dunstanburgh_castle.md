@@ -11,6 +11,7 @@ story: >
   Dunstanburgh was built in 1313 by Thomas, Earl of Lancaster, partly as a show of defiance against his cousin King Edward II, with whom he was in open conflict. Lancaster was captured and executed in 1322. The castle passed to John of Gaunt, who strengthened it considerably, and was a Lancastrian stronghold during the Wars of the Roses, changing hands several times. By 1500 it had already been abandoned and was falling into ruin — Turner painted it repeatedly in the early nineteenth century, attracted by its dramatic decay.
 sources:
   - https://en.wikipedia.org/wiki/Dunstanburgh_Castle
+score: 8.9
 ---
 
 Dunstanburgh Castle is one of the most dramatically sited ruins in England — a great jagged mass of towers rising above the sea cliffs eight miles northeast of Alnwick. What makes it special is the approach: the castle is only reachable on foot, either by a two-mile coastal walk from the fishing village of Craster, or from the north via Embleton Bay. There is no road. The walk along the Northumberland coast path, with the sea on one side and the castle growing larger ahead, is one of the best short walks in the north of England.

@@ -9,6 +9,7 @@ latitude: 14.4776
 longitude: 121.0196
 sources:
   - https://en.wikipedia.org/wiki/San_Andres_Apostol_Parish_Church_(Paranaque)
+score: 7.5
 ---
 
 One of the oldest churches in the Philippines, the San Andres Apostol Parish Church traces its foundation to around 1580 when Augustinian friars established a mission in what was then a fishing village. The present stone structure was built in the 17th century; like many churches in the Manila area, it survived Spanish rule, the American period, and the Second World War in varying states of repair.

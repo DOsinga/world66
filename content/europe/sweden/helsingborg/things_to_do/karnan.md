@@ -9,6 +9,7 @@ latitude: 56.0463
 longitude: 12.6969
 sources:
   - https://en.wikipedia.org/wiki/K%C3%A4rnan
+score: 9.1
 ---
 
 Kärnan — the name means "the keep" — is the squat medieval tower that gives Helsingborg its skyline. It is all that remains of a vast fortress that once controlled the narrowest crossing of the Øresund: whoever held this tower collected tolls from every ship passing between the North Sea and the Baltic. The tower changed hands between Denmark and Sweden more than once before Sweden finally took permanent control in 1658.

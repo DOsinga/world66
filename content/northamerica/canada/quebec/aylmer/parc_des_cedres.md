@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3900
 longitude: -75.8700
+score: 6.6
 ---
 
 Parc des Cèdres is Aylmer's main waterfront park, stretching along the south shore of Lac Deschênes at the western end of the neighbourhood. It has a sand beach that fills up on summer weekends, a boat launch, and a picnic area with views across to the Ontario shore. The park is a key node on the Voyageurs cycling path, making it a natural rest stop for cyclists coming from Gatineau Park.

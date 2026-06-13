@@ -6,6 +6,7 @@ longitude: -86.1672
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 A three-mile loop along the restored Central Canal threads through downtown from the USS Indianapolis Memorial north past the Eiteljorg Museum, the State Museum, and out to the 11th Street Bridge. It is the closest thing Indy has to a riverside promenade and is the obvious downtown evening walk.

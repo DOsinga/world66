@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.98745
 longitude: -93.2632
+score: 7.7
 ---
 
 Nicollet Island is a 48-acre island in the Mississippi River between the East Bank and the Nicollet Island/East Bank neighbourhood, connected to both banks by bridges and constituting one of the most unusual residential addresses in Minneapolis. The island has a small population of permanent residents living in Victorian houses that have survived successive plans to redevelop it, and the southern end is a public park.

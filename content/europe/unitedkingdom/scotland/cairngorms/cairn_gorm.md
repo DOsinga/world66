@@ -15,6 +15,7 @@ story: >
   found in alluvial deposits on its slopes.
 sources:
   - https://en.wikipedia.org/wiki/Cairn_Gorm
+score: 8.1
 ---
 
 Cairn Gorm (1,245m) is the mountain that gives the national park its name and the most accessible high summit in the Cairngorms. The [Cairngorm Mountain Railway](/europe/unitedkingdom/scotland/cairngorms/cairngorm_mountain_railway) carries visitors to 1,085 metres in under ten minutes, making the plateau accessible to people who wouldn't otherwise attempt high mountain terrain. On clear days the view from the summit ridge takes in most of northern Scotland, with the Moray Firth glittering in the distance.

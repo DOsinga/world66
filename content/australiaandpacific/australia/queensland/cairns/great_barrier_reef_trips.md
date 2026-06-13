@@ -12,6 +12,7 @@ story: >
   have something of a production-line quality compared to smaller operators out of
   Port Douglas or the Whitsundays. If you have time, consider taking the ferry to
   Fitzroy Island and snorkelling from the beach — closer, cheaper, and far quieter.
+score: 9.6
 ---
 
 Cairns is the main departure point for Great Barrier Reef day trips. Dozens of operators run boats to different sections of the outer reef, with options ranging from large catamaran tours with 300 passengers to small group dive charters with six. The reef is genuinely extraordinary — clear water, extraordinary coral and fish diversity, and the scale of the structure itself is humbling.

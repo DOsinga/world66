@@ -6,6 +6,7 @@ longitude: -124.1546
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The Fortuna Depot Museum occupies the 1893 Northwestern Pacific Railroad depot, restored and moved into Rohner Park when the line shut down. Inside is the kind of dense small-town museum that improves the more you look: glass cases of arrowheads from the Wiyot, telegraph keys, a switchboard, old logging gear, hats and uniforms, and a wall of black-and-white photographs of Fortuna's main street in different decades.

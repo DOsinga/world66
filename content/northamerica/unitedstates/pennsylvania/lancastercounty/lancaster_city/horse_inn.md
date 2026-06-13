@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 40.0427
 longitude: -76.2980
+score: 5.8
 ---
 
 The Horse Inn occupies a former livery stable on East Fulton Street, half a mile east of Penn Square. The dining room is on the second floor under exposed wooden beams; the food is contemporary American with a strong cocktail program. The kitchen is generous with pickled, smoked, and house-cured elements.

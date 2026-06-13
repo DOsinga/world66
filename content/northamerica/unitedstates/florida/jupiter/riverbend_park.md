@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.9331
 longitude: -80.1750
+score: 7.5
 ---
 
 Riverbend County Park is the gateway to the wild upper Loxahatchee River, about 10 km west of downtown Jupiter on Indiantown Road. The 684-acre park preserves a stretch of cypress swamp, pine flatwoods, and river floodplain that gives you a convincing sense of old Florida — the kind of landscape that covered most of this part of the state before development arrived.

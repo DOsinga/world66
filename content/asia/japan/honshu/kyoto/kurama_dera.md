@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kurama-dera
 type: poi
+score: 8.2
 ---
 
 Kurama-dera sits on a steep mountainside in the village of Kurama, about thirty minutes north of central Kyoto on the small Eizan Electric Railway. The temple was founded in 770 and is the head of its own small Buddhist denomination, the *Kurama-kō*. The main hall is reached by either a long uphill path of stone steps or a short cable car, and the climb is part of the appeal — the surrounding cedar forest is one of the closest pieces of genuinely wild country to the city.

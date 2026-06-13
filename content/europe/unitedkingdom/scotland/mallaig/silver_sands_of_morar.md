@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: A string of white-shell beaches along the road south of Mallaig
+score: 8.6
 ---
 
 For five or six kilometres between Morar and Arisaig, the road runs past a string of small white beaches backed by dunes, machair, and the occasional caravan. The sand is genuinely silver-white — milled shell rather than mineral grain — and the water, on a sunny day, is a luminous turquoise that looks more like the Hebrides than the mainland.

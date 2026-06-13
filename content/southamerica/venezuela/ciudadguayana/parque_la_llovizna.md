@@ -12,6 +12,7 @@ story: >
   narrow channels and low cascades. On sunny days, small rainbows form
   constantly in the spray, which explains why the park has survived Venezuela's
   decades of infrastructure neglect in better shape than most public spaces.
+score: 8.4
 ---
 
 Parque La Llovizna is named for the fine mist — "llovizna" — that rises from the Caroní River as it descends over a series of rocky shelves and small cascades near its confluence with the Orinoco. The park covers a patchwork of rocky islands and narrow channels, connected by walkways and small bridges, with the spray keeping the vegetation unusually lush and green.

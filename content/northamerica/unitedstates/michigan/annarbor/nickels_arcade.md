@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Built in 1918 by real estate developer Tom Nickels, the arcade was modeled on European shopping arcades and is one of only a handful of such structures in the Midwest. It has been in continuous commercial use for over a century.
+score: 7.4
 ---
 
 A lovely covered shopping arcade connecting State Street to Maynard Street, Nickels Arcade is a small architectural gem in the middle of downtown. The glass-roofed passage is lined with shops and eateries and has a pleasantly old-fashioned feel that sets it apart from the surrounding streetscape. It is listed on the National Register of Historic Places.

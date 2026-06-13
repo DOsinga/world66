@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -39.93000
 longitude: 175.05500
+score: 5.9
 ---
 
 The Whanganui River Traders Market runs on Saturday mornings along the riverfront, with stalls selling locally grown produce, baked goods, crafts, and the work of local artists and artisans. It is a genuine community market rather than a tourist event, well attended by locals.

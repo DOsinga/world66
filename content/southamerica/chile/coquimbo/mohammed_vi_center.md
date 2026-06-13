@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Mohammed VI Center
 type: poi
+score: 7.1
 ---
 
 The Mohammed VI Center for Dialogue of Civilizations is a Moroccan-style cultural centre and mosque on a hill above Coquimbo. Its minaret is visible from much of the city, an unexpected vertical line among the port hills.

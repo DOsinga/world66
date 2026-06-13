@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 38.1686
 longitude: -99.0956
 snippet: "Small prairie river that joins the Arkansas at Larned"
+score: 4.8
 ---
 
 The Pawnee River (or Pawnee Fork) is a small, shallow prairie watercourse that joins the Arkansas just east of Larned. It runs about 200 miles across western Kansas through buffalo grass and short-grass prairie. The riverside walk on the west edge of town, with cottonwoods and the occasional bald eagle in winter, is a pleasant easy stroll.

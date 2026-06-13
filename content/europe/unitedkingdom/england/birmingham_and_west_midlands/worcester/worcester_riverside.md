@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.1905
 longitude: -2.2240
+score: 6.6
 ---
 
 The riverside south of Worcester Cathedral is one of the most pleasant walks in the city. The footpath runs along the Severn from the cathedral precinct southward past the old County Cricket Ground at New Road — the view of the Cathedral from the cricket ground is justifiably famous and is best in spring when the outfield is flooded after heavy rains and the Cathedral's reflection appears in the water. The walk continues to Diglis Basin, where a canal lock connects the Severn to the Worcester and Birmingham Canal.

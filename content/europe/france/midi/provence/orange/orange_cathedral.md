@@ -9,6 +9,7 @@ tags:
   - architecture
   - church
 snippet: Romanesque cathedral with Provençal facade, in the heart of the old town
+score: 6.8
 ---
 
 The former cathedral of Orange sits two blocks from the Place de la République. Built in the 12th century in a sober Provençal Romanesque style, it lost its cathedral status when the diocese was suppressed during the Revolution. The west facade was damaged in the Wars of Religion in the 16th century, when the city was held by Protestant princes of Orange — what you see today is a 17th-century reconstruction with surviving Romanesque elements.

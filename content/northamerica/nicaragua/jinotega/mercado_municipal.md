@@ -6,6 +6,7 @@ latitude: 13.0895
 longitude: -85.9994
 story: >
   The market serves a highland farming community that grows some of the best coffee and vegetables in Nicaragua, and the produce sections reflect this: stalls piled with highland vegetables — chiltoma peppers, chayote, papas criollas — that you won't find in the Pacific coast markets. The coffee stalls sell local beans directly, often roasted that morning.
+score: 6.4
 ---
 
 The Mercado Municipal at the centre of Jinotega is the practical and social hub of the surrounding highland region — farmers come in from villages across the mountains to sell produce, buy supplies, and meet. The market runs daily but is at its busiest on Friday, Saturday, and Sunday mornings.

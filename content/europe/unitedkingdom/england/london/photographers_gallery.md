@@ -14,6 +14,7 @@ tags:
 title: The Photographers' Gallery
 type: poi
 url: thephotographersgallery.org.uk
+score: 7.4
 ---
 
 The Photographers' Gallery is the UK's largest public gallery dedicated to photography, housed in a converted warehouse just off Oxford Street. The exhibitions range from historical documentary work to contemporary fine art photography and are consistently well-curated.

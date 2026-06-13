@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 58.3900
 longitude: 24.3700
+score: 5.8
 ---
 
 Valgeranna Golf Club is one of the older established golf courses in western Estonia, laid out through coastal pine forest and meadow just inland from the beach. The 18-hole course makes good use of the undulating forested terrain, and the pines provide natural barriers between fairways. It is playable from May through October, and club hire is available for visitors arriving without equipment.

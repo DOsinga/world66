@@ -13,6 +13,7 @@ tags:
 - sachsenhausen
 title: Icon Museum
 type: poi
+score: 6.5
 ---
 
 Frankfurt's Ikonenmuseum holds one of the largest collections of Eastern Orthodox religious art in Germany — around a thousand icons, mostly Russian and Greek, spanning the 15th to the 19th century. The collection is housed in a former Teutonic Order building on the Museumsufer, the strip of museums along the south bank of the Main. It is a quiet, contemplative museum that rarely gets crowded, making it a good counterpoint to the bigger institutions nearby.

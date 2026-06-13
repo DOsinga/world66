@@ -7,6 +7,7 @@ tags:
 latitude: 49.4118
 longitude: 8.7058
 snippet: The main student bar street, running parallel to Hauptstrasse through the old town
+score: 7.0
 ---
 
 Untere Strasse runs parallel to the Hauptstrasse one block to the south, and is where Heidelberg's bar life is concentrated. The street is lined almost continuously with bars, pubs, and small clubs, most of them aimed at the university's 30,000 students. The atmosphere on a Thursday or Friday night — when the week's lectures are done and the weather is warm enough to sit outside — is as lively as anywhere in southern Germany. The bars are small, the beer is cold, and the crowd is genuinely mixed between students, academics, and younger locals.

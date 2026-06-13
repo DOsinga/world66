@@ -8,6 +8,7 @@ snippet: Slim 1860 stone lighthouse on the eastern point, recalling the Genoese 
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The **Farul Genovez** is a slim octagonal stone tower on the eastern tip of the old town peninsula, built in 1860 to mark the entrance to the harbour. The name commemorates the **Genoese trading colony** established here in the 13th century — Tomis was for a time a node on the long-distance Italian Black Sea trade network — though the lighthouse itself is a Romanian-period structure.

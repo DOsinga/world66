@@ -9,6 +9,7 @@ latitude: 29.94389
 longitude: -90.07083
 story: >
   New Orleans was chosen as the site for the museum because Higgins Industries, based in the city, built the LCVP landing craft — the Higgins boat — that delivered Allied troops onto the beaches of Normandy and the Pacific islands. General Eisenhower called Andrew Higgins "the man who won the war," crediting the landing craft as the decisive logistical advantage of the Allied campaign.
+score: 9.6
 ---
 
 The National World War II Museum is one of the finest history museums in the United States and an essential stop in New Orleans even for visitors who don't think of themselves as military history enthusiasts. It covers the war comprehensively — the European and Pacific theatres, the home front, the industrial effort, the human cost — with immersive exhibitions, first-person oral histories, and a remarkable collection of original equipment and documents.

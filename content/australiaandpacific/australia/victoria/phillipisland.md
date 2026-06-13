@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Phillip Island
 type: poi
+score: 8.8
 ---
 
 Phillip Island's south coast has some of the best surf beaches in Victoria. Woolamai is the pick for experienced surfers — powerful, consistent swells rolling in from the Southern Ocean — while Smiths Beach is more forgiving for beginners. Cat Bay, tucked around the headland, offers a wilder, less crowded alternative.

@@ -10,6 +10,7 @@ tags:
 - stare_mesto
 title: Spanish Synagogue
 type: poi
+score: 8.5
 ---
 
 The Spanish Synagogue (1868) is the most architecturally flamboyant of the six historic synagogues in Josefov, Prague's old Jewish quarter. Its Moorish Revival interior — named after the Alhambra, which it visually imitates — is covered in geometric gilded stucco from floor to ceiling, with a riot of arabesques, interlocking patterns, and rich colors that stop visitors in their tracks.

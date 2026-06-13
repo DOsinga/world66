@@ -8,6 +8,7 @@ latitude: 27.6031
 longitude: 89.8411
 story: >
   Chimi Lhakhang was built in 1499 to honour the Drukpa Kunley, a Tibetan Buddhist saint known as the "Divine Madman" for his unconventional teachings — which included using phalluses as sacred symbols to ward off evil. To this day, wooden and painted phalluses adorn houses throughout Bhutan's Punakha Valley, and women seeking fertility make pilgrimages to the temple.
+score: 7.7
 ---
 
 Chimi Lhakhang is a small Buddhist temple set on a rounded hill in the middle of the Punakha valley, about 7 km north of Punakha town. The temple is dedicated to Drukpa Kunley, the 15th-century Tibetan Buddhist saint known as the "Divine Madman," whose teachings and wild behaviour (said to include subduing demons with his "thunderbolt of wisdom") made him one of the most beloved and eccentric figures in Bhutanese religious tradition.

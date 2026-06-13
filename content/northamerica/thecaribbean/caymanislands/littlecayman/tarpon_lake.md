@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 19.685
 longitude: -79.9967
+score: 6.8
 ---
 
 Tarpon Lake is a brackish inland lake about three kilometres east of the village, connected to the sea through underground channels. It is famous for its resident population of Atlantic tarpon — fast-moving silver fish that can grow to a metre and a half — that became trapped in the lake generations ago and adapted to the brackish water.

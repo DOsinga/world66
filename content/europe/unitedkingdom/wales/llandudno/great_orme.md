@@ -10,6 +10,7 @@ longitude: -3.8556
 snippet: A 207-metre limestone headland north of Llandudno, with feral Kashmir goats, Bronze Age mines and panoramic views
 story: >
   The herd of Kashmir goats that roam the Great Orme is descended from two pairs given to Queen Victoria as a wedding present in 1837 by the Shah of Persia, who had himself received them from the Sultan of Turkey. Victoria gave them to Lord Mostyn, the Llandudno landowner, who released them on the headland. The herd has thrived for nearly 200 years and now numbers about 200 animals. During the COVID lockdown of 2020 the goats famously descended into the empty town and were photographed eating people's hedges on Mostyn Street.
+score: 9.0
 ---
 
 The Great Orme (Welsh: *Y Gogarth*, meaning "the dark place") is a limestone headland that rises sharply from the sea at the northern end of Llandudno. It dominates the town and provides a clear visual anchor for everything around it. The summit reaches 207 metres, and on a clear day the view takes in the Isle of Man, the Lake District fells across the Liverpool Bay, and the whole north Wales coast.

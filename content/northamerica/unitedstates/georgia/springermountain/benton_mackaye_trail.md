@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Benton MacKaye was the forester who first proposed an Appalachian Trail in a 1921 essay, but he disagreed strongly with the trail's eventual designers about its purpose. He wanted a wilderness trail that minimised crossings with roads and developments; he lost. The Benton MacKaye Trail, completed in 2005, is the trail he would have wanted.
+score: 7.1
 ---
 
 The 300-mile Benton MacKaye Trail begins at Springer Mountain, sharing the summit with the Appalachian Trail, and then runs in a long loop west and north through the Cohutta Wilderness, the Smokies, and into Tennessee. It is much less travelled than the AT and is widely considered the more scenic of the two routes through the southern Appalachians.

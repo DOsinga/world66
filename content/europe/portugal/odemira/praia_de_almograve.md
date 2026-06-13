@@ -8,6 +8,7 @@ latitude: 37.6484
 longitude: -8.7931
 story: >
   Almograve sits in a natural amphitheatre of black rock and volcanic stacks — the geology here is more dramatic than at most Costa Vicentina beaches. The beach itself is relatively narrow, hemmed in by rock formations, which makes it quieter than the broader beaches to the north and south. Surfers know it as a spot where offshore winds and a particular reef configuration produce consistent, hollow waves.
+score: 7.6
 ---
 
 Praia de Almograve is one of the wilder beaches within the Odemira municipality, reached by a road that drops through heath and scrubland before arriving at a compact bay surrounded by dramatic volcanic rock formations. The setting is more dramatic than comfortable — the beach is backed by dark rocks rather than dunes — which keeps the crowds smaller than at more famous neighbours.

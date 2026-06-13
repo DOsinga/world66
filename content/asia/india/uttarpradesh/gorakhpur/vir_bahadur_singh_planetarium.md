@@ -9,6 +9,7 @@ latitude: 26.7276
 longitude: 83.3881
 sources:
   - https://en.wikipedia.org/wiki/Vir_Bahadur_Singh_Planetarium,_Gorakhpur
+score: 5.8
 ---
 
 The Vir Bahadur Singh Planetarium is one of the few public planetariums in Uttar Pradesh and a popular destination for school groups and curious visitors from across the region. The shows cover standard astronomy topics — the solar system, constellations, space exploration — and are presented in Hindi, which limits their usefulness for most foreign visitors, but the star projection dome itself is impressive.

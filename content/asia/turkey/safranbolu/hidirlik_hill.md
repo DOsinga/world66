@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 41.2519
 longitude: 32.6778
+score: 7.8
 ---
 
 Hidirlik Hill rises immediately above the old town of Safranbolu and provides the best overview of the UNESCO-listed historic district: red tile roofs descending in layers into the narrow valley, domes and minarets punctuating the skyline, and the wooded hillsides beyond. The climb takes about fifteen minutes from the old bazaar via a path through the residential neighbourhood.

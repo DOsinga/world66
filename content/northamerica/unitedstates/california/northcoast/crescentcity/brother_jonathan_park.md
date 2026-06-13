@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Brother Jonathan Park / Tsunami Memorial
 type: poi
+score: 6.4
 ---
 
 A small park at the north end of Crescent City's harbor marks two overlapping maritime disasters. The Brother Jonathan memorial commemorates the 1865 wreck of the paddle steamer Brother Jonathan off Point St. George — 225 people drowned, making it one of the worst maritime disasters in Pacific Coast history. The adjacent memorial marks the 1964 tsunami that swept through Crescent City following the Good Friday earthquake in Alaska, killing eleven people and destroying much of the town.

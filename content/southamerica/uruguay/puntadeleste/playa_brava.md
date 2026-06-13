@@ -7,6 +7,7 @@ tags:
 latitude: -34.9598
 longitude: -54.9396
 snippet: "The ocean beach — waves, drama, La Mano sculpture and the social scene"
+score: 7.4
 ---
 
 Playa Brava is the Atlantic-facing beach on the eastern side of the Punta del Este peninsula, and it is where the resort's social life concentrates in summer. The surf here is real: currents run strong, waves break hard, and swimming can be challenging when the swell is up. The beach chairs and parasols are rented at a premium; the clientele tends toward the self-consciously fashionable.

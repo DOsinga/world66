@@ -11,6 +11,7 @@ tags:
 title: National Museum of the American Indian
 type: poi
 url: www.nmai.si.edu
+score: 7.4
 ---
 
 The National Museum of the American Indian sits on the National Mall between the Air and Space Museum and the Capitol Building — a curvilinear building clad in Kasota limestone, deliberately distinct from the neoclassical neighbours. Inside, the collections cover more than 12,000 years of Native American history across the Western Hemisphere, with objects from over 1,000 indigenous groups.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Royston Shipwrecks
 type: poi
+score: 7.6
 ---
 
 In the 1930s, the Comox Logging and Railway Company needed a breakwater to shelter its log-boom storage at Royston, six kilometres south of Courtenay. Rather than pour concrete, they bought a series of retired wooden and steel ships and sank them in a line offshore. By 1961 there were fourteen of them, including former Royal Canadian Navy minesweepers, a steam tug, and a converted American whaler.

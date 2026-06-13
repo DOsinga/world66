@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -0.2217
 longitude: -78.5131
+score: 7.1
 ---
 
 The Museum House of Sucre occupies the colonial mansion that belonged to Field Marshal Antonio José de Sucre, the Venezuelan-born military commander who defeated the Spanish royalist forces at the Battle of Pichincha in 1822 and secured Ecuador's independence. Sucre was Simón Bolívar's most capable general and is one of the most important figures in South American history; he is buried in the Metropolitan Cathedral just a few blocks away.

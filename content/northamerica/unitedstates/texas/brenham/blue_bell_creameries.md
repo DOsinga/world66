@@ -9,6 +9,7 @@ latitude: 30.1635
 longitude: -96.3927
 story: >
   Blue Bell was a Texas cult brand long before it went national — for years the company refused to ship outside the South, on the principle that ice cream should reach customers within a couple of days of being made. The 2015 listeria outbreak forced the company to shut down production entirely, the only full recall in its 108-year history; the comeback that followed strengthened the brand's local mythology rather than damaging it.
+score: 7.6
 ---
 
 Blue Bell has been making ice cream in Brenham since 1907, when a group of local businessmen reorganised a failing creamery to use surplus dairy from area farms. The company is still independent and still based in the same town, and a visit to the headquarters is the one thing every Texan who passes through Brenham seems to do.

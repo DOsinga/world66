@@ -7,6 +7,7 @@ tags:
 latitude: 49.4104
 longitude: 8.7149
 snippet: Germany's most celebrated castle ruin, looming above the Baroque old town
+score: 9.6
 ---
 
 Heidelberg Castle — the Heidelberger Schloss — is one of the most visited ruins in Germany and the defining image of the city. It sits on the Königstuhl hillside some 80 metres above the Altstadt, accessible by the Bergbahn funicular from the Kornmarkt or by a steep footpath. The castle was built up over several centuries by the Electors Palatine and at its height was one of the great Renaissance palaces north of the Alps. The French destroyed much of it in 1693 during the Nine Years' War and lightning strikes in the 18th century finished the work, leaving the photogenic mix of intact buildings and dramatic red-sandstone ruin that visitors see today.

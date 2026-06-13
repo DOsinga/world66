@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - gornji_grad
+score: 4.9
 ---
 
 The Muzej Mamurluka is a small, very Zagreb concept: a one-room museum whose exhibits are objects and stories donated by people remembering — sometimes vaguely — the night and the consequences of a serious hangover. Lost shoes, mysterious bruises, jokes-gone-wrong, sworn-off bottles. There is a drunk-driving simulator (you wear vision-distorting goggles), and the descriptions are in English as well as Croatian.

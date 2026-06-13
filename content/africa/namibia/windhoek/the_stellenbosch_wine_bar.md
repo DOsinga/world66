@@ -8,6 +8,7 @@ tags:
 - bar
 title: The Stellenbosch Wine Bar
 type: poi
+score: 5.8
 ---
 
 A few minutes east of the centre in Klein Windhoek, the Stellenbosch Wine Bar is the obvious alternative to Joe's Beerhouse — quieter, more grown-up, and built around an excellent South African wine list. The food is straightforward grill: dry-aged steak, line fish, lamb chops, a few game dishes for travellers who still haven't tried oryx.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: "The designated swimwear beach on the south side of Rasdhoo"
+score: 6.3
 ---
 
 Maldivian local islands operate under Islamic dress codes for residents and visitors moving through the village — covered shoulders and knees, no swimwear off the water. To accommodate visiting divers and beach swimmers, every local island that takes tourists sets aside a stretch of beach where bikinis and swim shorts are allowed. On Rasdhoo this is the south-side bikini beach — a curve of pale sand fringed with palms, sheltered by the reef, with a couple of small beach cafes.

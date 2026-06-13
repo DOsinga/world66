@@ -14,6 +14,7 @@ story: >
   River far to the north, feeding a biological chain from plankton to fish
   to the eagles and foxes that congregate on the ice to feed. Without the
   drift ice, the whole ecosystem would collapse.
+score: 8.5
 ---
 
 Between late January and March, drift ice from the Sea of Okhotsk pushes in against the Shiretoko coast, turning the shore into a surreal frozen seascape. This is the world's southernmost drift ice, a natural phenomenon unique in Japan, and it transforms the peninsula's character completely. The ice can be several metres thick and extends kilometres offshore; at its peak it is solid enough to walk on.

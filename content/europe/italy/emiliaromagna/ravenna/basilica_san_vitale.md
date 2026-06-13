@@ -10,6 +10,7 @@ latitude: 44.4216
 longitude: 12.1956
 story: >
   The mosaic portrait of Emperor Justinian and his court in San Vitale is one of the most studied images in Western art — and one of the most politically loaded. Justinian never visited Ravenna, yet here he stands in the apse, depicted larger than life, surrounded by his officials, holding a paten of bread as if performing the Eucharist. The mosaicists were making a political argument: that the emperor, ruling from Constantinople, was the equal of the Pope in sacred authority.
+score: 9.8
 ---
 
 The Basilica of San Vitale is Ravenna's greatest monument and one of the finest surviving examples of Byzantine art and architecture in the world. Built in the 6th century under the patronage of Emperor Justinian, it is an octagonal structure of deceptive complexity — the exterior is plain brick, but the interior is a blaze of gold, green, and blue mosaic that covers every surface of the apse and chancel.

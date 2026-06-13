@@ -7,6 +7,7 @@ tags:
 - market
 title: Adjamé Market
 type: poi
+score: 7.8
 ---
 
 The Adjamé market in northern Abidjan is the city's largest and most disorienting trading ground — a vast informal market that spills across streets, arcades, and improvised stalls selling fabric, household goods, food, electronics, clothing, and everything in between. It serves as a distribution hub for traders from across Ivory Coast and the wider region.

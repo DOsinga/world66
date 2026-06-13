@@ -1,6 +1,7 @@
 ---
 title: "Waterfront Dining in Charlotte Amalie"
 type: poi
+score: 5.2
 ---
 
 The waterfront along Veterans Drive in Charlotte Amalie has a string of restaurants ranging from open-air conch shacks to more polished dining rooms overlooking the harbour. The best of them lean into local ingredients: fresh fish, conch fritters, pates (pronounced pah-tays, the local fried dough pockets filled with saltfish, beef, or vegetables), and johnnycake. Kallaloo, a leafy stew with okra and seafood, turns up on menus that make an effort to go beyond generic Caribbean food.

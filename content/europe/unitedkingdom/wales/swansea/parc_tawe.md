@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.6217
 longitude: -3.9392
+score: 4.8
 ---
 
 Parc Tawe is a retail and leisure park on the eastern bank of the River Tawe, a short walk from the city centre across the Sail Bridge. As well as the Plantasia glasshouse, it has a multiscreen cinema, a bowling alley, several family chain restaurants and parking — useful if you are driving in.

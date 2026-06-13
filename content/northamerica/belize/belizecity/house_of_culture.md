@@ -8,6 +8,7 @@ tags:
 - historic_house
 title: House of Culture
 type: poi
+score: 7.7
 ---
 
 The Government House, now called the House of Culture, was once the official residence of Belize's British governors. The elegant colonial mansion — a white-painted wooden structure in the Fort George neighbourhood — displays antique furniture, silverware, and glassware that once graced the colonial table, alongside works by Belizean artists from the post-independence era.

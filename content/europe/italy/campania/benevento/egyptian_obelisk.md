@@ -6,6 +6,7 @@ tags:
 - sight
 title: Egyptian Obelisk
 type: poi
+score: 6.6
 ---
 
 Standing in Piazza Papiniano near the Arco di Traiano, this Egyptian obelisk was brought to Benevento by the emperor Domitian (81–96 AD) for his sanctuary of Isis, along with a large quantity of other Egyptianising statuary now in the Museo del Sannio. The obelisk is covered in hieroglyphs, cut by Egyptian craftsmen either in Egypt or in Rome, honouring Domitian in his role as an Egyptian pharaoh.

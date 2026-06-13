@@ -10,6 +10,7 @@ story: >
   The Kosraean name for Mount Finkol translates as "Sleeping Lady" — a reference to the mountain's profile when seen from the sea, which resembles a woman lying on her back. Navigators in traditional outrigger canoes used the silhouette as a landmark from dozens of kilometres away when approaching the island.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Finkol
+score: 7.8
 ---
 
 Mount Finkol, at 629 metres, is the highest point on Kosrae and the centrepiece of the island's interior hiking. The ascent passes through a succession of microclimates — coastal scrub giving way to dense jungle, then cloud forest near the summit — with waterfalls crossing the trail at several points. The hike typically takes 4–6 hours return from the trailhead, and requires a local guide both for navigation and because the trail passes through community land where access protocols matter.

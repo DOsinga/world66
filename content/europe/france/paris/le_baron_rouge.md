@@ -10,6 +10,7 @@ tags:
 - bar
 title: Le Baron Rouge
 type: poi
+score: 7.5
 ---
 
 Le Baron Rouge is one of those Paris institutions that defies improvement. A wine bar outside the Marché d'Aligre that serves wine from the barrel, oysters on the pavement on Sundays, and cheese and charcuterie when you want them. The clientele is local, the prices are remarkably low, and the atmosphere is as close to the Paris of thirty years ago as you'll find.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "The eating-and-drinking strip — Elizabeth Street north of the CBD, a tight row of restaurants, bars, and the State Cinema"
+score: 7.3
 ---
 
 Hobart's restaurant strip, a 10-minute walk north of the CBD along Elizabeth Street. The two-block run between Burnett and Lewis streets has the highest density of small restaurants in Tasmania — Indian, Lebanese, Vietnamese, Italian, Ethiopian, Thai, modern Australian — most of them family-run, mostly very good, and most of them unpretentious. The vibe is more student than corporate; you can dine well for AU$40.

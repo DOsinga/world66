@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -31.9344
 longitude: 115.8437
+score: 7.4
 ---
 
 Leederville is a small inner suburb immediately north of Northbridge, and its main attraction is a single strip: Oxford Street, lined with cafes, restaurants, a cinema (Luna on SX), bars, and the kind of independently-owned businesses that give a neighbourhood its character. It is considerably smaller and quieter than Northbridge but draws a loyal local following who prefer it precisely because it is not Northbridge — less crowded, less loud, more neighbourhood-feeling. Weekend brunch on Oxford Street is a serious Perth institution.

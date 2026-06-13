@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - ruins
+score: 6.7
 ---
 
 A small Iron Age hillfort half a mile west of Dulverton, perched on a steep spur above the Barle valley. The ramparts are still clearly visible despite later quarrying, and the views across the valley make the short uphill climb worthwhile.

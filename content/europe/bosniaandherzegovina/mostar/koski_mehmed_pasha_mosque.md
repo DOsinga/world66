@@ -5,6 +5,7 @@ snippet: 17th-century mosque with a minaret you can climb for the classic photog
 tags: [things_to_do, sight, mosque]
 latitude: 43.3387
 longitude: 17.8146
+score: 8.2
 ---
 
 This 1617 Ottoman mosque on the east bank is one of the most visited in Bosnia, less for the prayer hall itself than for the minaret. A tight spiral of 89 stone steps inside the minaret leads to a balcony that gives the postcard view of the Stari Most arching between its medieval towers, with the green Neretva running below.

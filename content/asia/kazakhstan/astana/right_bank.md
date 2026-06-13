@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 51.1564
 longitude: 71.4267
+score: 8.2
 ---
 
 The Right Bank is the older Astana — what existed before the city became the capital and was renamed. The streets are Soviet-grid, the buildings are mostly 1960s and 1970s panel housing and a few 19th-century survivors, the markets are busy and the cafes are cheap. This is where most of the city's actual residents live and where day-to-day Kazakhstani life happens.

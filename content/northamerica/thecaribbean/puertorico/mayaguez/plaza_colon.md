@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The bronze Columbus that gives the plaza its name was cast in Barcelona in 1896 and shipped over for the 400th anniversary of the discovery of Puerto Rico. The sixteen bronze women around the edge are not relatives or muses, as visitors often guess, but allegorical figures of the virtues — Faith, Hope, Justice, and so on. The set arrived from the same Catalan foundry a few years later.
+score: 8.8
 ---
 
 The heart of Mayagüez. A small, busy square of laurel trees, benches and ice-cream vendors, ringed by the cathedral, the city hall, the Teatro Yagüez and the colonnaded shopfronts of Calle Méndez Vigo. The pedestrian streets running off the plaza were reorganised after the 1918 earthquake on a clean grid that still works.

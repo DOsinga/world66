@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -26.133
 longitude: 28.063
+score: 5.2
 ---
 
 Moyo at Melrose Arch is a pan-African restaurant with genuine ambition: the menu draws from across the continent rather than defaulting to South African standards. Mozambican peri-peri prawns, West African peanut stew, Cape Malay curry, Kenyan nyama choma — it is uneven in the way that ambitious menus tend to be, but the best dishes are very good and the breadth of reference is enjoyable if you are curious about African food beyond braai culture.

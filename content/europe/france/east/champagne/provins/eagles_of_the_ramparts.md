@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - show
+score: 6.9
 ---
 
 A 45-minute outdoor falconry show that uses real eagles, vultures, hawks, falcons and owls — over 80 birds in total. The arena sits in a hollow against the ramparts and is laid out so that the audience watches the birds fly directly over their heads as they swoop from one perch to another.

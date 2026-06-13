@@ -15,6 +15,7 @@ story: >
   they are among the oldest paintings in the Lake Garda region.
 sources:
   - https://en.wikipedia.org/wiki/Lazise
+score: 7.0
 ---
 
 The small Romanesque church of San Nicolò stands at the old harbour, steps from the Dogana Veneta, and is one of the oldest buildings in Lazise. The exterior is simple 12th-century Romanesque with a stone bell tower; the interior has retained medieval frescoes on the walls and apse that give it a very different character from the polished baroque churches of the larger lake towns.

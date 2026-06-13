@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 6.5
 ---
 
 The Penang War Museum occupies Bukit Batu Maung, a 20-acre hilltop on the southern tip of Penang island that the British fortified in the 1930s as a secondary defence battery against attack from the sea. The fort was overrun within days when Japanese forces invaded in December 1941 and was used through the occupation as a base and interrogation centre. After the war it was abandoned to the jungle, and was only rediscovered and restored in the late 1990s.

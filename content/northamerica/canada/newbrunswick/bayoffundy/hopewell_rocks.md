@@ -16,6 +16,7 @@ story: >
   not the rocks your grandparents saw, and your grandchildren will see different ones.
 sources:
   - https://en.wikipedia.org/wiki/Hopewell_Rocks
+score: 9.1
 ---
 
 The Hopewell Rocks are the most visited natural attraction in New Brunswick — red sandstone sea stacks, carved by tidal and wave erosion into shapes that resemble giant flowerpots with trees growing from the top. At low tide you can walk on the ocean floor between them. Six hours later, those same rocks stand in 10 metres of water.

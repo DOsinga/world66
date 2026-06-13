@@ -7,6 +7,7 @@ snippet: Local history museum covering the Lewis and Clark expedition, the salt 
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 A small local history museum a few blocks from the Prom, covering Seaside's history from the Clatsop people who inhabited this stretch of coast before European contact, through the logging and canning industries of the 19th century, to the resort era that defined the modern town. The Lewis and Clark connection is well documented here, including a reconstruction of the salt cairn the Corps of Discovery built nearby to make salt for the return journey.

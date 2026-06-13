@@ -8,6 +8,7 @@ tags:
 story: The Vila Flores complex was a textile factory in the early 20th century, built by Italian immigrants who had moved on from farming to manufacturing. When the factory closed, the buildings sat vacant for decades in the Floresta neighbourhood. The revival began in 2012 when a small group of artists and entrepreneurs started occupying the spaces; by 2015 the complex had become one of Porto Alegre's most interesting creative clusters.
 title: Vila Flores
 type: poi
+score: 7.2
 ---
 
 Vila Flores is one of Porto Alegre's best creative spaces: a complex of early 20th-century former industrial buildings in the Floresta neighbourhood, north of the city centre, that has been converted into a hub for studios, small businesses, cultural events, and some of the city's most interesting food and coffee. The buildings retain their industrial character — exposed brick, high ceilings, original timber frames — while hosting a constantly evolving mix of tenants that includes architects, designers, craft producers, music studios, and a very good café.

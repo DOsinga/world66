@@ -8,6 +8,7 @@ latitude: 44.8169
 longitude: 15.8697
 story: >
   The Una River gets its name from the Latin "una" — meaning "one" or "unique." The name was apparently given by Roman legionaries who encountered the river and found it unlike any other they had seen. The water is coloured by calcium carbonate from the limestone bedrock, which gives it the extraordinary blue-green clarity that still strikes visitors today. At Štrbački Buk, the most dramatic of the river's waterfalls, the water drops 25 metres over a wide travertine ledge right on the Croatian border — one of the most spectacular natural sights in the western Balkans.
+score: 8.8
 ---
 
 Una National Park covers around 200 square kilometres of river valley, canyon, and forested upland on the border between Bosnia and Croatia. The Una River is the park's centrepiece: an impossibly clear blue-green waterway that drops over a series of travertine waterfalls and cascades as it cuts south through the limestone hills toward the Croatian Plitvice Lakes.

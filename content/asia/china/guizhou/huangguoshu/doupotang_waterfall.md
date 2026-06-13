@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.0250
 longitude: 105.6450
+score: 7.6
 ---
 
 Doupotang is the second major waterfall in the Huangguoshu complex, a few kilometres upstream from the main falls. It is lower — about 21 metres — but significantly wider, spreading across nearly 105 metres of river in a stepped cascade rather than a single vertical drop. The shape is distinctive: the water breaks over a series of horizontal limestone ledges, creating a broad staircase of white water that is more photogenic in some conditions than the main falls, particularly in lower-volume seasons when the Huangguoshu Grand Waterfall narrows.

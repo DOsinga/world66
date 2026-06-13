@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Gran_Caff%C3%A8_Schenardi
+score: 6.6
 ---
 
 Gran Caffè Schenardi has been operating on Corso Italia since 1818, making it one of the oldest continuously running cafes in Lazio. The interior has preserved its 19th-century fittings — mirrored walls, marble counter, ornate plasterwork — and the sense that this is where Viterbo's notables have always come to discuss the news of the day.

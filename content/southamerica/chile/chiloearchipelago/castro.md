@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -42.4667
 longitude: -73.8
+score: 7.9
 ---
 
 Castro is the capital of Chiloé Province and the archipelago's main town, a compact city of wooden houses cascading down steep hills to the fjord below. The Plaza de Armas is dominated by the remarkable [Church of San Francisco](/southamerica/chile/chiloearchipelago/church_of_san_francisco) in its improbable yellow-and-lilac paint scheme. Below the church, the old market covers local produce with the produce you came to find: dozens of native potato varieties, smoked mussels in small tins, woollen ponchos in the traditional Chiloé geometric patterns.

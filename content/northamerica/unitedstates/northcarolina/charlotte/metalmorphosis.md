@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.4189
 longitude: -80.8546
+score: 5.8
 ---
 
 Metalmorphosis is a large public sculpture by Czech artist David Cerny, installed in 2007 at the Whitehall Technology Park in north Charlotte. The work is a giant layered steel head — seven metres tall and weighing 14 tonnes — divided into horizontal slices that rotate independently, continuously rearranging the face into different configurations before briefly resolving into a recognizable human form. Water flows from the head's open mouth, spilling into the pool below.

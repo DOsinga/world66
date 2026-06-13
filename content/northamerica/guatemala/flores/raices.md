@@ -6,6 +6,7 @@ longitude: -89.8908
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 A long-standing wood-fired grill on the southwestern corner of the island, looking across to the causeway and Santa Elena. The kitchen does grilled meats well — Argentine-style steaks, chorizo, chicken — and a decent fish-of-the-day from the lake, served on a deck that catches the breeze.

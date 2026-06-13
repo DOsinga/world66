@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.7456
 longitude: 20.0212
+score: 7.0
 ---
 
 The site museum is housed in the Ottoman-era tower that stands just inside the main gate, at the top of the path from the ticket office. The collection is modest but well-chosen: a selection of inscriptions, sculpture fragments, and small finds from the excavations, displayed with English-language interpretation that sets them in the context of the site's successive occupations.

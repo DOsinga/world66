@@ -12,6 +12,7 @@ story: >
   structure dates to 1910, rebuilt after fire damage. Its collection of
   grisaille stained glass windows — painted in grey tones to simulate stone
   relief — is considered one of the most important in the Dominican Republic.
+score: 6.7
 ---
 
 The Cathedral of San Pedro Apóstol anchors the centre of town and is one of the finest examples of ecclesiastical architecture in the eastern Dominican Republic. The current building, completed in 1910, has a dignified neo-Gothic façade that faces a small square popular with locals in the evenings.

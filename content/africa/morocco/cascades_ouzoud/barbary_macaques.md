@@ -8,6 +8,7 @@ latitude: 32.0152
 longitude: -6.7175
 story: >
   Barbary macaques are North Africa's only non-human primates, and the population at Ouzoud is one of the larger and more accessible groups in Morocco. They are endangered in the wild — habitat destruction and the illegal pet trade have drastically reduced their numbers — but have thrived at Ouzoud partly because tourists provide reliable food, which is actually a conservation concern: human-fed monkeys lose the foraging skills needed to survive if the tourist food supply stops.
+score: 7.6
 ---
 
 The Barbary macaques of Ouzoud are famous — or notorious, depending on what they've taken from you. A population of several hundred lives in the cliffs and olive trees around the falls, and the animals have been closely habituated to human presence over decades of tourist traffic. They will approach tables, investigate bags, and make direct eye contact with the practiced confidence of creatures that know they are not going to be chased away.

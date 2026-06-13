@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 51.514227
 longitude: 7.465279
+score: 5.1
 ---
 
 Dortmunder Export is a beer style that was created in Dortmund in the nineteenth century specifically for long-distance shipping — hence the name. At the peak of the city's brewing industry in the early twentieth century, Dortmund produced more beer than any other city in Germany, and the Export style was shipped across Europe and to the German diaspora in South America and the United States. The style is a pale lager, stronger than a standard German Pilsner (around 5.2–5.5% ABV), with a full malt body and only moderate bitterness.

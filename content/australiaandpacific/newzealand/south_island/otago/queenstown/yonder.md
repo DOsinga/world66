@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Plant-forward all-day cafe and bar
+score: 6.8
 ---
 
 A plant-forward all-day place a few minutes from the lakefront, doing strong coffee in the morning, a sharing-plate menu through the afternoon, and cocktails into the evening. The room is large and easy, the playlist tilts toward indie, and the bar staff know what they are doing.

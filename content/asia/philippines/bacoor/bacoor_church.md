@@ -14,6 +14,7 @@ story: >
   large hacienda lands worked by local tenants. The revolution ended that
   arrangement abruptly, though the church itself survived and remains the
   spiritual anchor of the old town plaza.
+score: 7.1
 ---
 
 The Parish Church of Our Lady of the Immaculate Conception — universally called Bacoor Church — is the oldest and most significant building in the city. The original structure was built by Dominican friars in the 17th century, and the present church dates largely from the late colonial period, though it has been restored and modified several times following earthquake damage.

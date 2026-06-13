@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Playa de Maro
 type: poi
+score: 8.0
 ---
 
 The most beautiful beach in the Nerja area — a sheltered cove of clean grey-blue water at the foot of cliffs covered in pine and prickly pear, just below the village of Maro. The beach sits inside the Maro-Cerro Gordo nature reserve and is fronted by the protected cliffs that run east towards Granada province.

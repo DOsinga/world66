@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 16.1530
 longitude: -13.5050
+score: 6.8
 ---
 
 Kaedi's main market reflects the mixed character of the town: Arab-Berber traders from the north, Halpulaar farmers from the river valley, and cross-border commerce with Senegal visible in the mix of goods on sale. The market is busiest on market days and in the mornings, when produce from the surrounding villages arrives.

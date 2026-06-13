@@ -9,6 +9,7 @@ latitude: 56.1692
 longitude: 9.5486
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_Hall_(Silkeborg)
+score: 5.8
 ---
 
 Silkeborg's Old Town Hall is a modest but attractive brick building from 1857, sitting on Torvet (the main square) in the centre of town. It was built shortly after Silkeborg received market town rights, when the community needed its first proper civic building. Today it houses the local tourist office, making it a natural first stop for visitors.

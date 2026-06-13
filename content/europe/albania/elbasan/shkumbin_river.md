@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.1050
 longitude: 20.0900
+score: 5.9
 ---
 
 The Shkumbin river flows directly through Elbasan, and its valley is one of the few genuinely flat expanses in central Albania. The river bank south of the city centre offers a straightforward walk or cycle route, with views back toward the castle walls and the mountains behind.

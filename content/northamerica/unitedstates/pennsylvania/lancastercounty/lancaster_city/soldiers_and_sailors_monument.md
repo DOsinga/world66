@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0380
 longitude: -76.3082
+score: 4.9
 ---
 
 The 43-foot Gothic Revival monument in the middle of Penn Square commemorates Lancaster County's Union dead from the Civil War. Designed by John C. Brodhead and dedicated in 1874, it lists the names of local soldiers killed in the conflict on its four panels and is topped by a figure of the Goddess of Liberty.

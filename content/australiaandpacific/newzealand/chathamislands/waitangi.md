@@ -7,6 +7,7 @@ tags:
 - sight
 title: Waitangi
 type: poi
+score: 5.8
 ---
 
 Waitangi (not to be confused with the Northland town of the same name) is the

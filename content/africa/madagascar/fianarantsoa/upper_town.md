@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: The old colonial quarter on the ridge, with narrow lanes and panoramic views
+score: 8.8
 ---
 
 The Haute-Ville is the oldest part of Fianarantsoa, perched along the ridges above the modern lower town. The streets here are narrow, cobbled in places, and lined with the wooden balconies and shuttered windows of late-19th-century houses. Many are crumbling — Madagascar is not a wealthy country — but the area is being slowly restored under a heritage programme.

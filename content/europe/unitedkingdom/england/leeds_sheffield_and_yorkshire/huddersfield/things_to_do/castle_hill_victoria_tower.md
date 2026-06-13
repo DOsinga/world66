@@ -7,6 +7,7 @@ tags:
 latitude: 53.6257
 longitude: -1.7706
 snippet: "Iron Age hillfort above town, topped by a Victorian jubilee tower with panoramic views"
+score: 8.9
 ---
 
 Castle Hill is the defining landmark of Huddersfield, visible from most of the town and from many miles across West Yorkshire. The hill has been occupied since at least the Bronze Age — earthworks from successive periods of use are still legible on the slopes — and the strategic logic is obvious: a single steep outcrop rising sharply above the valley floor, with views in every direction. The Normans built here too, and the outline of a medieval motte and bailey is visible on the northern end.

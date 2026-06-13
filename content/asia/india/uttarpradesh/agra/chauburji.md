@@ -6,6 +6,7 @@ longitude: 78.0349
 tags:
   - things_to_do
   - sight
+score: 4.7
 ---
 
 Chauburji ("Four Towers") is a small ruined Mughal pavilion just south of Chini ka Rauza on the eastern bank of the Yamuna. The plain octagonal building, with four corner turrets, was probably part of a tomb complex or a *barahdari* (twelve-doored summer house) that has otherwise disappeared.

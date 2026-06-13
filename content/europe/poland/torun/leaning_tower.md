@@ -9,6 +9,7 @@ longitude: 18.60220
 sources:
   - https://en.wikipedia.org/wiki/Leaning_Tower_of_Toru%C5%84
 story: "Local tradition holds that a Teutonic Knight who broke his vow of celibacy was ordered to build the tower as penance — and that his guilty conscience caused it to lean. The actual explanation is subsidence from the sandy soil, but the legend persists."
+score: 6.7
 ---
 
 The Leaning Tower of Toruń is a 14th-century defensive tower that forms part of the city walls, notable for the visible tilt it has developed over the centuries. It leans approximately 1.4 metres out of vertical — less dramatic than Pisa but conspicuous enough that you notice it immediately. The tower is one of nine surviving medieval defensive towers in the city walls.

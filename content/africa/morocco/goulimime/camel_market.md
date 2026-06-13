@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.9945
 longitude: -10.0519
+score: 8.2
 ---
 
 The camel market (souk des chameaux) operates on Saturday mornings alongside the main market, about a 15-minute walk north of Place Bir Anzarane. It is a working livestock market where camels are assessed, negotiated over, and sold — a transaction that can take hours and involves a great deal of shouted argument, inspection of teeth and hooves, and third-party mediation.

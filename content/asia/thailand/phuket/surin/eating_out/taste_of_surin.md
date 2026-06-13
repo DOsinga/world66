@@ -7,6 +7,7 @@ tags:
 latitude: 7.9751
 longitude: 98.2800
 snippet: Long-running beachfront Thai restaurant known for grilled seafood and southern Thai curry
+score: 6.1
 ---
 
 Twin Brothers is one of the more established restaurants in the beachside strip at Surin, with a reputation built over years of serving straightforward Thai seafood to a mix of local regulars and visiting tourists who stumble across it. The cooking is southern Thai in style — spicier and more pungent than the central Thai dishes most tourists know, with a heavy hand on fresh turmeric, shrimp paste, and dried chillies.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.8508
 longitude: -117.2724
 snippet: A small protected beach in an underwater reserve — sea lions, leopard sharks, and the clearest water in San Diego
+score: 8.3
 ---
 
 La Jolla Cove is a small sandy beach enclosed by sandstone cliffs at the northern edge of La Jolla, protected as part of the San Diego–La Jolla Underwater Park Ecological Reserve. The water is exceptional by Southern California standards — clear enough to see the bottom in twenty feet of water, populated with garibaldi fish (bright orange, the state marine fish of California), sea lions, and in summer, harmless leopard sharks that congregate in the shallows.

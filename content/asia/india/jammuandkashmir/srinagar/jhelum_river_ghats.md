@@ -7,6 +7,7 @@ tags:
   - old_city
 latitude: 34.0870
 longitude: 74.8080
+score: 8.0
 ---
 
 The Jhelum River runs through Srinagar for about 15 km, spanned by seven historic bridges (kadals) and lined with ghats — stone steps down to the water — that have been the working infrastructure of the city for centuries. The stretch between Habba Kadal and the Fateh Kadal bridge to the north is the most atmospheric: traditional wooden houses rise three and four storeys directly from the riverbank, overhanging the water on corbelled brackets, their reflections breaking up in the current below.

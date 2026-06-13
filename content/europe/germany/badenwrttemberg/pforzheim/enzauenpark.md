@@ -6,6 +6,7 @@ longitude: 8.6720
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Enzauenpark is a 19-hectare riverside park built for the 2006 Landesgartenschau on the western edge of the city, where the Enz cuts through the suburb of Brötzingen. It is the best green space in Pforzheim — meadows, rose gardens, a small lake, playgrounds, and a riverside cycle path that runs into the Black Forest.

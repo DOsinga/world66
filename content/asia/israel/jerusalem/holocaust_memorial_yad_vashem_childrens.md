@@ -7,6 +7,7 @@ tags:
   - sight
 title: Children's Memorial at Yad Vashem
 type: poi
+score: 8.8
 ---
 
 Within the Yad Vashem complex, the Children's Memorial is a separate underground chamber dedicated to the approximately 1.5 million Jewish children killed in the Holocaust. The architect Moshe Safdie converted a natural cave; inside, five candles are reflected in hundreds of mirrors to create the impression of millions of small flames hanging in complete darkness, while the names and ages of known child victims are read aloud in a continuous audio loop. The experience is brief but total.

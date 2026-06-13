@@ -10,6 +10,7 @@ story: >
   The shoe collection at Northampton Museum holds over 12,000 pairs and is one of the largest in the world. Among them are shoes belonging to Queen Victoria, a pair of Elton John's platform boots, footwear from ancient Egypt, and the elaborate hand-stitched welted shoes that made Northampton famous. The collection is a record of both craft history and social history — shoes reveal class, era, and aspiration with unusual precision.
 sources:
   - https://en.wikipedia.org/wiki/Northampton_Museum_and_Art_Gallery
+score: 6.8
 ---
 
 The free town museum on Guildhall Road holds a surprisingly strong collection given Northampton's size. The shoe collection is the main attraction — an encyclopaedic survey of footwear from ancient Egyptian sandals to contemporary fashion, with particular depth in the 19th and early 20th centuries when Northampton's cobblers supplied the British Army and Empire. The craft techniques on display show how a welted shoe is constructed from scratch.

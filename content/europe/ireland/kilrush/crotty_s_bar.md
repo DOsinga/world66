@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 52.6361
 longitude: -9.4841
+score: 6.4
 ---
 
 Crotty's is the most traditional of Kilrush's pubs, a corner bar on the market square that has been pulling pints for generations. The interior is dim, the seats are worn, and the locals treat newcomers with the relaxed interest that characterises west Clare hospitality. The pub is known for hosting traditional music sessions — ask at the bar what nights they happen, as the schedule changes seasonally.

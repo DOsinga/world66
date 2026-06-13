@@ -8,6 +8,7 @@ snippet: Medieval art and tomb sculpture in the Palazzo Fava
 tags:
 - things_to_do
 - museum
+score: 7.7
 ---
 
 The Civic Museum of Medieval Art occupies the fifteenth-century Palazzo Ghisilardi Fava. The strongest material is local — the tomb monuments of the professors of law of the University of Bologna, sculpted in the thirteenth and fourteenth centuries to show them lecturing to attentive students from elevated tombs.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.1167
 longitude: 46.0333
 snippet: Ancient petroglyphs on a volcanic peak in Ordubad
+score: 8.7
 ---
 
 Gamigaya is a 3,725-metre volcanic peak in the Zangezur range, above the villages of Tivi and Nesirvaz in the Ordubad district of Nakhchivan. The mountain's high-altitude plateaus are covered with thousands of petroglyphs dating back to the third and second millennia BCE — stick figures of hunters, livestock, deer, and celestial symbols carved into the dark volcanic rock.

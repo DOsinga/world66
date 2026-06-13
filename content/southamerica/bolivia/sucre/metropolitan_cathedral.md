@@ -10,6 +10,7 @@ tags:
 snippet: 16th-century cathedral with the gem-encrusted Virgin of Guadalupe
 story: >
   The painting of the Virgin of Guadalupe above the main altar was originally a simple canvas by the friar Diego de Ocaña in 1601. Over the following centuries pilgrims encrusted it with gold, diamonds, emeralds, and pearls until the original paint can barely be seen. It is said to be one of the most valuable single objects of religious art in South America.
+score: 8.6
 ---
 
 The Metropolitan Cathedral occupies the south side of Plaza 25 de Mayo and was begun in 1559, though it took two centuries to complete in fits and starts. The result is a hybrid of late Renaissance and baroque, dominated by a slim octagonal bell tower added in the 18th century. The pale stone facade carved with mestizo motifs is restrained from outside; the interior is lavish.

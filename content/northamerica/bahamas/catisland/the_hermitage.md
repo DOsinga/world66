@@ -13,6 +13,7 @@ story: >
   leading up, and lived in the hermitage as a recluse until his death in 1956. He
   is buried in a small tomb beneath the chapel he built, which is barely large enough
   for one person to stand in.
+score: 8.4
 ---
 
 The Hermitage sits at the top of Mount Alvernia — the highest point in the Bahamas at a distinctly un-mountainous 63 metres — and is Cat Island's most visited sight. The stone hermitage was built by Father Jerome Hawes, an architect-turned-priest who spent decades on Cat Island and designed several churches around the Bahamas. The hermitage itself is miniature: a tiny chapel, a bell tower, and a few small rooms, all hand-built from local limestone and fitted with carved religious imagery.

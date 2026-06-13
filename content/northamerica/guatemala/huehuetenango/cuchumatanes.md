@@ -7,6 +7,7 @@ tags:
 latitude: 15.5167
 longitude: -91.5333
 snippet: The highest non-volcanic mountain range in Central America, with remote villages and dramatic scenery
+score: 8.8
 ---
 
 The Sierra de los Cuchumatanes rise to over 3,800 metres directly north of Huehuetenango — the highest non-volcanic range in Central America and one of the least visited. The road climbing into them from the city is itself spectacular, switching back through cloud forest before emerging onto a vast, cold plateau dotted with traditional Maya villages.

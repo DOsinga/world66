@@ -11,6 +11,7 @@ story: >
   mineral-based pigments — and by the complexity of its resist-dyeing patterns, which can
   take months to complete a single cloth. Each clan and village has its own traditional motifs,
   making a Timorese ikat a form of encoded identity as much as a textile.
+score: 8.0
 ---
 
 Traditional ikat weaving is practiced across the West Timorese interior, and the textiles are among the most striking in Indonesia. The dyeing and weaving process is entirely manual: threads are tied and dipped in natural dyes before weaving, creating patterns that emerge only as the cloth takes shape on the loom. The work is almost exclusively done by women.

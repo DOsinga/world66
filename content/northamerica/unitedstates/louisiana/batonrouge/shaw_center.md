@@ -8,6 +8,7 @@ tags:
 latitude: 30.4478
 longitude: -91.189
 story: The Shaw Center was built on the site of the old Baton Rouge bus terminal, which had been a focal point of the 1953 bus boycott — Baton Rouge's civil rights protest predated Montgomery's by two years. The arts complex that replaced it holds the Manship Theatre, the Brunner Gallery, and an outdoor amphitheatre, deliberately placed to keep the arts conversation alive in the same civic space.
+score: 6.0
 ---
 
 The Shaw Center for the Arts is Baton Rouge's main performing arts venue, located in the downtown arts district near the river. The complex includes the Manship Theatre, a 330-seat venue used for theatre, dance, and music performances, and the Brunner Gallery, which shows rotating exhibitions of contemporary art with a bias toward Louisiana and Southern artists.

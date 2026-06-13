@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4434
 longitude: 72.9277
+score: 7.4
 ---
 
 The prettiest beach on the Alibag coast is Kashid, about 30 km south of Alibag town on the road toward Murud. White sand, casuarina trees along the back of the beach, and relatively little development make it a popular choice for visitors who want a cleaner, quieter alternative to the main beach in town.

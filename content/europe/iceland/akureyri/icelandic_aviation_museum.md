@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 65.6514
 longitude: -18.0757
+score: 6.4
 ---
 
 The Icelandic Aviation Museum (Flugsafn Íslands) sits next to Akureyri Airport and contains a well-assembled collection of historic aircraft covering the full history of aviation in Iceland. Exhibits range from early propeller planes to jet aircraft, with particular attention to the role aviation played in connecting Iceland's isolated communities — in a country with few roads and dramatic terrain, the domestic flight network was genuinely life-changing.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Parc Botanique et Zoologique de Tsimbazaza
 type: poi
+score: 7.0
 ---
 
 Tsimbazaza is Madagascar's main zoological and botanical garden, occupying a large forested site in the southwest of the city. Founded in the 1920s, it holds the country's most accessible collection of living lemurs — ring-tailed, ruffed, and several nocturnal species in dedicated dark rooms — along with tortoises, chameleons, crocodiles, and a wide range of endemic birds. The botanical section displays labelled examples of Madagascar's extraordinary plant life, including many species found nowhere else on earth.

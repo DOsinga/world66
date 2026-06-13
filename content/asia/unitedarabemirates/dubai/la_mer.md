@@ -7,6 +7,7 @@ tags:
 - jumeirah
 title: La Mer Beach
 type: poi
+score: 5.8
 ---
 
 La Mer is a 2.5-kilometre beachfront development in the Jumeirah 1 district, opened in 2018, that combines a wide free public beach with an outdoor mall of low-rise white buildings housing restaurants, boutiques, and entertainment. It is one of the more pleasant beach developments in the city — the architecture avoids the megamall aesthetic, the beach is well maintained, and it is generally less crowded than the main Jumeirah Beach strip.

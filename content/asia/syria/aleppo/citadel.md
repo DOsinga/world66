@@ -17,6 +17,7 @@ story: >
   Citadel so hard to assault and so well-preserved.
 sources:
   - https://en.wikipedia.org/wiki/Citadel_of_Aleppo
+score: 9.8
 ---
 
 The Citadel of Aleppo is one of the most extraordinary medieval fortresses in the world, rising 50 metres above the city on a great stone-faced mound that has been fortified continuously for at least four thousand years. The current structure is largely the work of the Ayyubid sultan Ghazi in the early 13th century, though it incorporates Roman, Byzantine, and earlier elements. The glacis — the massive sloping stone apron that surrounds the mound — is a feat of medieval military engineering that protected the Citadel through sieges by the Crusaders and the Mongols.

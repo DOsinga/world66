@@ -14,6 +14,7 @@ tags:
 - city_bowl
 title: Haiku
 type: poi
+score: 7.0
 ---
 
 Haiku occupies an elegantly converted space in Heritage Square, the restored 18th-century block in the heart of the City Bowl. The menu ranges across East and Southeast Asian cuisines — Japanese, Thai, Chinese, Vietnamese — without collapsing into fusion confusion. Dim sum, sushi, wok dishes and robata-grilled items all appear on the same menu, and the kitchen handles each competently. The cocktail list is good and the space fills up on weekday evenings.

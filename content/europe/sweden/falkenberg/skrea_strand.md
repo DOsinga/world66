@@ -9,6 +9,7 @@ latitude: 56.8831
 longitude: 12.5044
 sources:
   - https://en.wikipedia.org/wiki/Skrea_strand
+score: 7.8
 ---
 
 Skrea strand is one of the longest sandy beaches in Sweden — over four kilometres of fine pale sand backed by low dunes and pine. It is the social heart of summer Falkenberg: families on the sand, swimmers wading out into the shallow Kattegat, a stretch of cafés and ice-cream stalls behind the dunes.

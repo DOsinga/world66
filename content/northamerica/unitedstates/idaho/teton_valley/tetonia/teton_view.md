@@ -7,6 +7,7 @@ tags:
 latitude: 43.8145
 longitude: -111.1602
 story: "The classic image of the Tetons that has appeared on countless calendars and postcards — three sharp peaks rising over a foreground of grain elevators and hay fields — is shot from just north of Tetonia along Highway 33. The view works because the valley floor here is broad and flat, with no foothills between you and the range."
+score: 8.3
 ---
 
 The pull-offs along Highway 33 just north and south of Tetonia give what many photographers consider the best roadside view of the Teton Range. Unlike the Wyoming side, where the peaks rise behind the lakes of Grand Teton National Park, here you see them across an open agricultural foreground — barbed-wire fences, grain bins, horses, and rolling fields of barley and hay. The effect is dramatic and very western.

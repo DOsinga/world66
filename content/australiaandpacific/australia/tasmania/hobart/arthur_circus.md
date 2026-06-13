@@ -10,6 +10,7 @@ tags:
   - sight
   - battery_point
 snippet: "A round green of weatherboard cottages from the 1840s — Hobart's prettiest single piece of streetscape"
+score: 7.7
 ---
 
 A small, unexpectedly perfect circular village green ringed by sixteen tiny weatherboard and stone cottages, laid out in the 1840s for the families of soldiers and seamen stationed at the Battery Point gun battery. The cottages are tiny (most only two or three rooms), painted in cheerful pastel colours, and lovingly maintained — the whole circle is heritage-listed and feels more like a Cornish village than an Australian city.

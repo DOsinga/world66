@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -8.6310
 longitude: 116.1105
+score: 6.8
 ---
 
 The village cooperative on the main road through Banyumulek brings together work from dozens of households under one roof. It is the easiest place to get a sense of the range of the craft — from small candle-holders and bowls suitable for hand luggage to the large rattan-wrapped storage jars that the village is best known for. Prices are fixed and reasonable; haggling is not expected here, although you can ask politely for a small reduction on larger pieces.

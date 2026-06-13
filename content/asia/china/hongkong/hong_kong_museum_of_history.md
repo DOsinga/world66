@@ -7,6 +7,7 @@ tags:
 latitude: 22.3009
 longitude: 114.1746
 snippet: Comprehensive museum covering 400 million years of Hong Kong's natural and human history
+score: 9.0
 ---
 
 The Hong Kong Museum of History in Tsim Sha Tsui East tells the full story of the territory from Jurassic geology to the 1997 handover. The permanent exhibition is genuinely ambitious — eight galleries covering natural history, traditional Cantonese folk culture, the colonial period, and the changes brought by modernisation — and the presentation is good enough to hold interest for two to three hours.

@@ -8,6 +8,7 @@ story: >
   Big Spring is one of the reasons Huntsville exists at all. Cherokee and Creek people used the spring for generations before John Hunt, a long hunter from Virginia, made camp beside it in 1805. His name stuck to the city that grew around the water. The spring still flows today, feeding the lake at the park's center, though it is no longer the city's drinking water source.
 sources:
   - https://en.wikipedia.org/wiki/Big_Spring_Park_(Huntsville,_Alabama)
+score: 6.8
 ---
 
 Big Spring International Park is a green oasis at the heart of downtown Huntsville, built around the natural spring that gave the city its founding reason. A small lake sits at the center, fed by spring water and ringed by walking paths, fountains, and benches. The park is a pleasant stop between the historic courthouse square and the Von Braun Center, and remains the city's informal gathering place for festivals, lunch-hour walks, and quiet afternoons.

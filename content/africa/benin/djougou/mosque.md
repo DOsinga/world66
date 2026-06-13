@@ -14,6 +14,7 @@ story: >
   centuries. The call to prayer at dawn, the rhythm of Friday gatherings,
   and the presence of Quranic schools throughout the town are the most
   immediate signs of this history.
+score: 5.9
 ---
 
 Djougou is a predominantly Muslim town, and its mosques — the main one near the market and several smaller ones throughout the quarters — give the place much of its distinctive character. The call to prayer five times a day structures the town's rhythm, and on Friday afternoons the area around the central mosque fills with worshippers from the neighbourhood and surrounding villages.

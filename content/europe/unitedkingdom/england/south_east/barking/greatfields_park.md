@@ -6,6 +6,7 @@ tags:
   - park
 latitude: 51.5310
 longitude: 0.0900
+score: 4.8
 ---
 
 A small Edwardian park between the town centre and the Thames, just under 6 hectares. Greatfields was laid out in 1923 on what had been allotments, and it keeps the simple geometry of an inter-war public park: a central path, a bandstand site, mature plane trees, and football pitches at the edges.

@@ -10,6 +10,7 @@ longitude: -88.0622
 snippet: The museum attached to Lambeau Field telling the full story of America's only community-owned pro sports team
 sources:
   - https://en.wikipedia.org/wiki/Green_Bay_Packers_Hall_of_Fame
+score: 8.8
 ---
 
 The Packers Hall of Fame in the Lambeau Field Atrium is one of the best sports museums in the United States, and it's worth visiting even if you have only passing interest in football. The exhibits cover the team's history from its founding in 1919 by Curly Lambeau with a $500 donation from a local meatpacking company through nine Super Bowl championships, presenting it all with evident pride but without excessive sentimentality.

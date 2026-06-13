@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Bourlaschouwburg
 type: poi
+score: 6.2
 ---
 
 The Bourlaschouwburg is Antwerp's main city theatre, a handsome neoclassical building on Komedieplein dating from 1834. It hosts a varied programme of contemporary theatre, dance, and performance art, mostly in Dutch. The building itself is worth a look — the facade is stately, and the renovated interior balances period details with modern staging. Check the programme at Toneelhuis, the resident company, which regularly produces ambitious, boundary-pushing work.

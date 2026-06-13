@@ -8,6 +8,7 @@ tags:
 snippet: Antique-filled cafe and folk art gallery in a restored colonial house
 latitude: 14.0672
 longitude: 121.3215
+score: 7.9
 ---
 
 Sulyap occupies a restored colonial-era house in the old part of San Pablo, its rooms packed with antique furniture, religious icons, folk art carvings, and pre-war ephemera. The owners have been collecting Philippine folk art and antiques for decades, and the result is somewhere between a cafe and an informal museum — you browse the objects while waiting for your food.

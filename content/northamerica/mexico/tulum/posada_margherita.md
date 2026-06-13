@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - zona_hotelera
+score: 6.7
 ---
 
 Margherita is one of the few beach road restaurants that has been there long enough to feel like an old friend. The Italian owners moved here in the early 2000s and built a hotel and restaurant with a long communal table on the sand and a smaller pasta bar set back under a palapa. The kitchen is straight Italian: the pasta is made by hand each morning, the bread is baked on the premises, and the seafood is local.

@@ -9,6 +9,7 @@ tags:
 title: Basilica of Notre-Dame de Cléry
 type: poi
 story: "Louis XI ordered that he be buried not at Saint-Denis with the rest of the kings of France but here at Cléry, kneeling rather than recumbent, on his own personal funerary monument facing the statue of the Virgin he had venerated since his youth. The kneeling figure is a 19th-century replacement; revolutionaries destroyed the original in 1793."
+score: 8.1
 ---
 
 The Basilica of Notre-Dame de Cléry stands in the next village downstream from Meung, four kilometres east on the Loire. King Louis XI rebuilt the church on a vast scale after his victory at the siege of Dieppe in 1443, fulfilling a vow he had made to the Virgin of Cléry, and chose it as his own burial place — his tomb still stands in the nave.

@@ -8,6 +8,7 @@ tags:
 latitude: 44.1025
 longitude: 9.8225
 snippet: "The pedestrian main street — shops, cafés, and the evening passeggiata"
+score: 7.1
 ---
 
 Via del Prione is the main pedestrian axis of the old centre, running from Piazza Cavour northwards through the heart of La Spezia. In the evenings it fills up for the passeggiata — Italians of all ages walking slowly, greeting acquaintances, and stopping at bars for the aperitivo hour. It's one of the better examples of this daily ritual in Liguria outside Genoa.

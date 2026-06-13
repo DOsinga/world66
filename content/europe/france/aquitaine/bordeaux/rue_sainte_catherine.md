@@ -7,6 +7,7 @@ tags:
 latitude: 44.8398
 longitude: -0.5742
 snippet: Europe's longest pedestrian shopping street, running 1.2km through the heart of old Bordeaux
+score: 6.0
 ---
 
 Rue Sainte-Catherine is often described as the longest pedestrian shopping street in Europe at 1.2 kilometres. It runs north-south through the centre of the old town, lined with a mix of international chains, local shops, and the odd historic arcade. The architecture along its length is 18th-century and consistent — the commercial activity at ground level gives way, if you look up, to beautiful facades.

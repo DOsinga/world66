@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Regional history museum covering the Bavarian Vogtland in a former monastery
+score: 6.9
 ---
 
 The Bavarian Vogtland Museum is housed in a former Franciscan monastery just off the Klosterplatz, in the same complex as the Klosterkirche. The collection is small and old-fashioned but charming: textiles from Hof's once-significant weaving industry, examples of regional folk costume, glassware from the Fichtelgebirge factories, and a room dedicated to the city's relationship with the inner-German border before 1989.

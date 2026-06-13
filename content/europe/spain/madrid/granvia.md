@@ -1,13 +1,12 @@
 ---
 latitude: 40.42
 longitude: -3.704
+score: 8.6
 tags:
 - things_to_do
 - sight
 - architecture
 - sol
-title: Gran Vía
-type: poi
 ---
 
 The Gran Vía was cut through the medieval street pattern of central Madrid between 1910 and 1929 — a four-lane boulevard lined with the most ambitious Art Deco, Belle Époque, and early modernist buildings the city could commission, modelled on the boulevards of New York and Paris. The result is one of the great early-20th-century streets in Europe and the heart of commercial Madrid.

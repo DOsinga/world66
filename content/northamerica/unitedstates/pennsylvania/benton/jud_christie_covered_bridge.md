@@ -6,6 +6,7 @@ longitude: -76.4733
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 The Jud Christie Covered Bridge, sometimes called the Wanich Bridge, sits on a back lane about six miles west of Benton over Little Fishing Creek. Built in 1876, it is small — only 65 feet long — and rebuilt after damage by floods in 2011, but the original Burr arch frame is preserved.

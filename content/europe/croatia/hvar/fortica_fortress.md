@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When the Turks sacked Hvar Town in 1571, the population took refuge inside Fortica's walls — only to see the fortress's powder magazine explode on the night of 9 August 1579, struck by lightning. The Venetians rebuilt it stone for stone within the decade."
+score: 8.8
 ---
 
 The Fortica, also called Španjola, looms over Hvar Town from the hill behind. Built by the Venetians in the sixteenth century on the foundations of a Byzantine fort, it commands a view that takes in the harbour, the Pakleni Islands, and Vis on a clear day. The walk up takes twenty minutes along a stone-paved path that climbs through pine and rosemary.

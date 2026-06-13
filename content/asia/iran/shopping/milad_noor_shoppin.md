@@ -10,6 +10,7 @@ tags:
 - shopping
 title: Milad Noor Shopping Center
 type: poi
+score: 3.6
 ---
 
 Milad Noor is a mid-size shopping center in the Shahrak-e Gharb district of western Tehran. It's known for having a cluster of antique and curio dealers alongside regular shops, which makes it a reasonable stop if you're interested in browsing Persian handicrafts, old coins, or silverware. There are also several cafes and restaurants on site. Prices are moderate by Tehran standards and the atmosphere is relaxed compared to the larger, flashier malls elsewhere in the city.

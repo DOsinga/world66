@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.3137
 longitude: 25.3960
+score: 7.6
 ---
 
 Lychnostatis is a small private open-air museum on the cliff at the eastern edge of Hersonissos, built by a Cretan academic on his family's old land as a deliberate record of traditional rural life on the island. Stone houses contain original furniture, hand-loomed textiles, and household tools; a working windmill, an olive press, a raki distillery, a herb garden, and a small chapel are spread across a couple of hectares of terraced land overlooking the sea.

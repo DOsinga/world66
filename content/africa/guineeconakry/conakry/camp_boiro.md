@@ -9,6 +9,7 @@ title: Camp Boiro
 type: poi
 story: >
   Estimates of the number of political prisoners who died at Camp Boiro between 1960 and 1984 range from 5,000 to 50,000 — including former cabinet ministers, military officers, journalists, and a long succession of those Sékou Touré accused of "permanent plot". After Touré's death the camp was emptied, but no government has yet pursued accountability and most of the perpetrators died of old age unprosecuted.
+score: 6.1
 ---
 
 Camp Boiro, in the Camayenne district north of central Conakry, was the principal political prison of the Sékou Touré regime from independence in 1958 until Touré's death in 1984. Behind its high walls, thousands of Guineans accused of plotting against the state were tortured, starved on the "diète noire" (black diet of complete deprivation of food and water), and executed without trial. The camp remains in operational use as a military base.

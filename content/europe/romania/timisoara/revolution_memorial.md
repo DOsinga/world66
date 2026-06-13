@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum was created by a former dissident, Traian Orban, and is staffed largely by witnesses to the December 1989 protests. The exhibits include shrapnel from the Securitate fire, original protest banners, and recovered identity papers of the victims. The institutional history of the revolution — Bucharest, the trial, the post-1989 politics — is given less space than the human story of the people who were there on the square."
+score: 8.0
 ---
 
 The Memorial Museum of the 1989 Revolution occupies a small building on Popa Sapca Street, a five-minute walk west of Victory Square. It is the most direct, detailed account of the events of 16–22 December 1989 — the protests that began outside the Reformed Church of pastor László Tőkés in Timisoara and spread across the country, leading to the fall of the Ceaușescu regime.

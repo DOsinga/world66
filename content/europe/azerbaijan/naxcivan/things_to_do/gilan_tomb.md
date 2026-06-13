@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Gilan Tomb
 type: poi
+score: 6.7
 ---
 
 A medieval tomb discovered in 1979 in the ruins of the ancient city of Kharabagilan in the Ordubad region. The surface tower was destroyed long ago, but the underground burial chamber survives in good condition. The tomb is octagonal inside and rectangular outside, with a distinctive deep niche opposite the entrance door that sets it apart from other octagonal tombs in Azerbaijan.

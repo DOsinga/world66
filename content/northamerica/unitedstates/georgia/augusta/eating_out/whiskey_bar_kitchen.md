@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 33.4736
 longitude: -81.9747
+score: 5.6
 ---
 
 Whiskey Bar Kitchen occupies a comfortable spot in the downtown dining scene, straddling the line between serious bar and proper restaurant. The food is American with Southern inflections — burgers, smoked meats, cast-iron dishes — and the kitchen does it all competently without pretension. The whiskey list is extensive and the bartenders know what they're doing with it.

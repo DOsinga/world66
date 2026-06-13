@@ -7,6 +7,7 @@ tags:
 title: Discovery North Bay Museum
 type: poi
 snippet: "Regional history museum in the old CPR railway station downtown"
+score: 7.0
 ---
 
 The museum occupies the old Canadian Pacific Railway station, a handsome 1903 building in the heart of downtown. The galleries cover the city's history from Anishinaabe occupation along the Mattawa-Nipissing trade route, through the fur trade, lumbering, railways, and the World War II Norwegian Air Force training camp that operated nearby.

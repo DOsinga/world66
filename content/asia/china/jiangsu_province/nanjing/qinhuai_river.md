@@ -9,6 +9,7 @@ tags:
 - waterway
 - boat_trip
 story: The Qinhuai River produced some of the most famous poetry in Chinese literary history — Tang poets wrote longingly about the painted boats and the music drifting across the water at night. The courtesan Li Xiangjun, who refused to perform for a Qing general after the fall of the Ming dynasty, is commemorated in a small memorial in the old pleasure quarter. Her story was the basis for the opera "Peach Blossom Fan," one of the most performed works of traditional Chinese theatre.
+score: 8.2
 ---
 
 The Qinhuai River (秦淮河) runs through the heart of old Nanjing, forming the natural boundary of the Confucius Temple precinct. For over a thousand years, the river's banks were the city's entertainment district — floating restaurants, opera boats, and pleasure craft packed the water. The current riverside development preserves the traditional-style buildings and lantern-lit atmosphere.

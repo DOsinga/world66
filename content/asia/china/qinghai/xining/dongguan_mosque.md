@@ -9,6 +9,7 @@ latitude: 36.6155
 longitude: 101.7958
 story: >
   On Fridays the Dongguan Mosque fills to capacity with tens of thousands of worshippers — an estimated 20,000 to 30,000 people, making it one of the largest congregations of any single mosque in China. The overflow spills into the surrounding streets, which are closed to traffic and carpeted with prayer mats. Standing at the edge of this crowd at the call to prayer is one of the more affecting experiences in any Chinese city.
+score: 7.8
 ---
 
 The Dongguan Mosque is the largest mosque in northwest China and the spiritual centre of Xining's large Hui Muslim community. The current structure is modern — substantially rebuilt in the late 20th century — but the site has been a place of Islamic worship for over 600 years, with the first mosque here dating to the early Ming Dynasty. The buildings combine Chinese architectural forms with Islamic decorative vocabulary: green-tiled roofs, ornate woodwork, and calligraphic inscriptions in Arabic and Chinese.

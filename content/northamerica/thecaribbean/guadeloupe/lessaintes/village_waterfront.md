@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 15.8667
 longitude: -61.5833
+score: 8.2
 ---
 
 The village of Bourg des Saintes on Terre-de-Haut is the living heart of Les Saintes — a single small settlement with a waterfront lined with fishing boats, a church, a handful of restaurants and bakeries, and streets just wide enough for pedestrians and scooters. There are almost no cars; the island's scooter-and-foot culture gives the place a tranquillity unusual for a French Caribbean destination.

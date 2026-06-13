@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Bypass
 type: poi
+score: 5.0
 ---
 
 A compact nightclub on Rue du Marché in the centre of Geneva, Bypass draws a young crowd with its regular techno and electronic nights. The vibe is unpretentious and energetic -- mostly students and locals who want to dance without the attitude of the lakefront clubs.

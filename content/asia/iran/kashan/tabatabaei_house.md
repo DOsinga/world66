@@ -10,6 +10,7 @@ latitude: 33.9800
 longitude: 51.4430
 sources:
   - https://en.wikipedia.org/wiki/Tabatabaei_House
+score: 8.5
 ---
 
 The Tabatabaei House is the largest and most lavish of Kashan's surviving merchant mansions, built in the 1880s for a prosperous carpet merchant family. It covers some 5,000 square metres across four interconnected courtyards, each with its own pool, garden, and carefully composed facade of carved plasterwork and coloured-glass windows.

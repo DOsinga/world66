@@ -9,6 +9,7 @@ tags:
   - garden
 snippet: The home, greenhouse, and garden of one of America's most prolific plant breeders.
 story: "Burbank introduced more than 800 new plant varieties from this one-acre plot, including the Russet Burbank potato (now 70 percent of America's french fries), the Shasta daisy, and the spineless cactus he hoped would feed cattle in the desert. He kept almost no written records, working by intuition and memory."
+score: 7.8
 ---
 
 A modest one-acre property at the corner of Santa Rosa and Sonoma avenues, this was the working home of Luther Burbank from 1884 until his death in 1926. From here, with no formal scientific training, Burbank bred hundreds of new fruits, vegetables, flowers, and grains by crossing thousands of seedlings at a time and ruthlessly destroying any that did not perform. Thomas Edison and Henry Ford visited; he is buried under a Lebanon cedar he planted on the grounds.

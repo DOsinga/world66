@@ -6,6 +6,7 @@ tags:
 - sight
 title: Otter Tail County Lakes
 type: poi
+score: 6.4
 ---
 
 Otter Tail County claims over 1,000 lakes within its borders, and five of those are entirely within the Fergus Falls city limits. The county is one of the most popular lake-country destinations in Minnesota for fishing, boating, and summer cabin stays, though it draws far less attention than the more famous lake districts further east and north.

@@ -13,6 +13,7 @@ story: >
   aquarium and a commemorative coin minted in her name. She was one of
   the catalysts that shifted St. Andrews from a fishing town to a
   research and conservation centre for the Bay of Fundy.
+score: 6.4
 ---
 
 A small but engaging aquarium at the western edge of town, attached to the long-running Huntsman Marine Science Centre. The displays focus on the cold-water ecosystem of the Bay of Fundy: harbour seals, lobsters, skate, cod, sturgeon, anemones, sea stars, and a touch tank where children can handle non-aggressive marine life under supervision. Outside, the seal pool is the perennial favourite.

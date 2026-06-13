@@ -7,6 +7,7 @@ tags:
 latitude: 68.4405
 longitude: 22.4753
 snippet: Cultural centre with exhibitions on Sami and Tornedalian heritage
+score: 6.8
 ---
 
 Vita Huset — "the White House" — is the cultural and community centre for Karesuando, housing exhibitions on the Sami and Tornedalian peoples who have inhabited this corner of the Arctic for centuries. The Tornedalians are a distinct ethnic group with their own language (Meänkieli, recognised by Sweden as a minority language in 2000), whose culture has long overlapped with that of the Sami in this border region.

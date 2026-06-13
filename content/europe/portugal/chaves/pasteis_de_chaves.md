@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.7400
 longitude: -7.4712
+score: 6.9
 ---
 
 The pastel de Chaves is one of Portugal's most distinctive regional pastries: a small flaky cylinder of rough puff pastry filled with finely seasoned veal, traditionally flavoured with cinnamon and parsley. Unlike the custard pastéis de nata of Lisbon, these are savoury and served hot, and you will find them in every bakery and pastelaria in town.

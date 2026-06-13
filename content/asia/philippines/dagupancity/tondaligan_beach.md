@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 16.0742
 longitude: 120.3478
+score: 6.2
 ---
 
 The public beach on the Lingayen Gulf at the northern edge of the city, in the Bonuan area. A long strip of dark grey sand, calm shallow water, and a row of palapa shelters that fill with local families on weekends.

@@ -9,6 +9,7 @@ latitude: 43.2333
 longitude: -4.7833
 story: >
   Bulnes received electricity in 2001 — the same year the underground funicular from Poncebos was completed. Before the funicular, the only way to reach the village was a 1.5-hour walk up a steep mountain path. The villagers were reportedly divided about the funicular: some welcomed the connection, others worried about losing the isolation that had preserved the village's character. The funicular won. But Bulnes Upper (Bulnes de Arriba) still has no road, no cars, and a permanent population of under 50.
+score: 8.1
 ---
 
 Bulnes is one of the most remarkable villages in Spain — a cluster of stone houses perched in a narrow valley at 650 metres altitude in the Central Massif, completely inaccessible by road. Until 2001, reaching it required a 1.5-hour hike from the road at Poncebos; today, an underground funicular makes the journey in minutes. But the village itself has barely changed: stone houses, a small bar-restaurant, a couple of rural guesthouses, and an extraordinary view of the Naranjo de Bulnes peak above.

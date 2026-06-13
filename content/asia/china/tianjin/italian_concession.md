@@ -15,6 +15,7 @@ story: >
   rooflines — survived intact and was meticulously restored in the 2000s. Italian Prime
   Minister Berlusconi visited in 2004 and reportedly declared it more Italian than anything
   in Italy.
+score: 8.5
 ---
 
 The Italian Concession on the north bank of the Hai River is the best-preserved of Tianjin's foreign concession areas, and arguably the most atmospheric. Wander the quiet streets and you find Venetian-style colonnaded arcades, Florentine-influenced villas, and small piazzas complete with fountains — all built between 1902 and the 1940s and now beautifully restored.

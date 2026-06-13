@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.9370
 longitude: 24.4100
+score: 7.4
 ---
 
 The Municipal Museum of Kavala occupies a 19th-century tobacco merchant's mansion and focuses on the city's modern history — the tobacco trade that made Kavala prosperous from the mid-19th century through the interwar period, the exchange of populations between Greece and Turkey in 1923 that transformed the city's demographics, and the occupation of the Second World War. The collections include photographs, documents, costumes, and household objects from the late Ottoman and early 20th-century periods.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.509
 longitude: 46.341
+score: 7.3
 ---
 
 Goris comes as a relief after the open, treeless plateau of central Syunik. Tucked into a well-watered valley carved by the Goris River, it is the largest town in the southeast of Armenia and the natural base for exploring the province. The streets are lined with trees — rare enough in this part of the country to feel genuinely welcoming — and the town has a calm, provincial rhythm that contrasts with the drama of the surrounding landscape.

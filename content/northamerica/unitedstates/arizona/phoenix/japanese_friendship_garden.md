@@ -10,6 +10,7 @@ tags:
 title: Japanese Friendship Garden
 type: poi
 url: japanesefriendshipgarden.org
+score: 7.7
 ---
 
 Ro Ho En, the Japanese Friendship Garden, is a hidden three-and-a-half-acre traditional stroll garden tucked behind Margaret T. Hance Park downtown. It was designed and built by craftsmen from Himeji, Phoenix's Japanese sister city, who spent more than a decade working on the koi ponds, lanterns, and the tea house. The result is one of the most genuinely peaceful places in the city.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.476
 longitude: -0.376
+score: 6.0
 ---
 
 The seat of the Valencian regional government, on the western side of the Plaza de la Virgen, built between the 15th and 17th centuries in late Gothic and early Renaissance styles. Two square towers anchor the corners; the older tower is original 15th-century, the matching tower opposite was added in the 1950s to balance the façade.

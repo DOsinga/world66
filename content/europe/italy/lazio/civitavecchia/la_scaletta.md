@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.0942
 longitude: 11.7930
+score: 6.6
 ---
 
 A well-regarded seafood trattoria a couple of blocks inland from the port, doing the local Tyrrhenian classics — spaghetti alle vongole, fritto misto di pesce, grilled sea bass with potatoes — in an unfussy, family-run setting. The menu changes with the day's catch.

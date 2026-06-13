@@ -12,6 +12,7 @@ tags:
 title: Centennial Park
 type: poi
 url: www.centennialparklands.com.au
+score: 7.4
 ---
 
 One of Sydney's great green spaces, Centennial Park spreads across 189 hectares of gardens, ponds, and open grassland just southeast of the city centre. It was set aside in 1888 to mark the centenary of European settlement and formally became the spot where Australian federation was proclaimed in 1901.

@@ -1,6 +1,7 @@
 ---
 latitude: 40.4225
 longitude: -3.7053
+score: 8.7
 story: The interior is covered floor-to-dome in frescoes by Luca Giordano and Francisco
   Rizi — a near-continuous painted skin of saints, angels, and architectural illusions.
   Locals know it as the Sistine Chapel of Madrid, and most visitors leave wondering
@@ -9,8 +10,6 @@ tags:
 - things_to_do
 - sight
 - malasana
-title: San Antonio de los Alemanes
-type: poi
 ---
 
 A small, modest 17th-century church in Malasaña that conceals one of the most extraordinary baroque interiors in Spain. The exterior gives nothing away — a plain brick facade on a narrow street — but step inside and the entire interior is covered in vertiginous trompe-l'oeil frescoes by Italian master Luca Giordano and Spanish painter Francisco Rizi.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 38.245078
 longitude: 21.72559
+score: 5.6
 ---
 
 The Patras lighthouse stands at the end of the breakwater on the northern edge of the port, a working navigation light that also functions as one of the city's more pleasant waterfront walks. The lighthouse itself is a handsome 19th-century structure in the neoclassical style, and the approach along the breakwater gives good views back towards the city skyline — the castle on the hill, the dome of the Saint Andrew cathedral, and the long sweep of the waterfront.

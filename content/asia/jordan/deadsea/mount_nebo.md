@@ -10,6 +10,7 @@ tags:
   - culture
 snippet: The summit where Moses saw the Promised Land before his death — sweeping views over the Dead Sea and Jerusalem
 story: "On a clear day from Mount Nebo, you can see Bethlehem, the outskirts of Jerusalem, and the Jordan Valley below. Moses is said to have stood here, at the end of forty years of wandering, and been shown the land he would never enter. He died on the mountain and was buried in a valley below — but his burial place has never been found. The search has occupied scholars for two thousand years."
+score: 8.2
 ---
 
 Mount Nebo rises above the Dead Sea from the Jordanian plateau, only 10 km west of Madaba and easily combined with a visit to the Dead Sea or the Baptism Site. The summit at 817 metres gives one of the most panoramic views in the Middle East: on clear days, the Dead Sea, the Jordan Valley, the hills of Jerusalem, and Bethlehem are all visible simultaneously.

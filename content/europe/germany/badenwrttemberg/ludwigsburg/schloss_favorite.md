@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, palace]
 latitude: 48.9044
 longitude: 9.1956
+score: 7.8
 ---
 
 Schloss Favorite is a small baroque pleasure palace built between 1717 and 1723 as a hunting lodge and summer residence, set in its own deer park about a kilometre north of the Residenzschloss. Compared to the main palace it is intimate and lighter in mood — a single pavilion of pink and cream stucco, lifted by a long perspective view that connects it visually to the Residenzschloss across the parkland.

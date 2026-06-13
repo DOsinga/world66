@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Bruce Trail at Cape Croker
 type: poi
+score: 7.4
 ---
 
 The Bruce Trail passes through the reserve, running along the Niagara Escarpment as it follows the spine of the Bruce Peninsula. The section here is among the trail's quieter stretches — expect exposed limestone pavement, cedar forest, and views down to Georgian Bay from the bluff edge.

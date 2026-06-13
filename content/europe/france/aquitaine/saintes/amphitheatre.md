@@ -16,6 +16,7 @@ story: >
   Roman amphitheatres in France.
 sources:
   - https://en.wikipedia.org/wiki/Saintes,_Charente-Maritime
+score: 8.8
 ---
 
 The Amphithéâtre gallo-romain stands on a hillside north of the old town, a large oval arena dating from the 1st century AD that is one of the best-preserved Roman amphitheatres in France. Unlike its counterparts in Arles or Nîmes, it was never adapted for other uses — it simply fell out of use and was gradually covered by earth, which paradoxically protected the underlying structure. Excavations in the 19th and 20th centuries revealed the entrance vaults, the arena floor, and much of the seating structure in good condition.

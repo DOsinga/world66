@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0768
 longitude: -77.3458
+score: 7.4
 ---
 
 A private museum on West Hill Street, housed in the Mountbatten House (1898), with a deep collection of Bahamian-related Caribbean memorabilia: Lucayan stone tools, Loyalist documents, prohibition-era rum-running artefacts, and a substantial section on the Duke and Duchess of Windsor's wartime tenure as governor.

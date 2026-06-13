@@ -16,6 +16,7 @@ story: >
   population of the early colonial city, while the cathedral served the Spanish settlers.
   The two buildings, so close together, reflect the rigid social separation of early
   colonial Peru.
+score: 6.1
 ---
 
 The Santa Ana Church on the block of Chincha Alta Street near the Plaza de Santa Ana is considered one of the oldest churches in the Amazonas region, dating to the 16th century. Its simple whitewashed facade and modest dimensions reflect the early colonial period, when Chachapoyas was a remote Spanish outpost on the edge of the Amazon basin.

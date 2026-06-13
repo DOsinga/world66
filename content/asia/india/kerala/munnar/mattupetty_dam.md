@@ -8,6 +8,7 @@ latitude: 10.1064
 longitude: 77.1239
 story: >
   The dam was built in 1953 as part of a joint Indo-Swiss livestock development project — an unusual collaboration in post-independence India that established a dairy farm in the hills of Munnar. The farm is still there, now run by the Kerala Livestock Development Board, and still produces dairy products from cattle whose stock partly traces back to the animals brought from Switzerland in the 1950s. The dam that was built to supply water for the project became, accidentally, one of the most scenic spots in the Western Ghats.
+score: 6.4
 ---
 
 Mattupetty Dam sits 13 kilometres from Munnar at an altitude of about 1,700 metres, and the lake it impounds has become one of the most pleasant stops in the area. The concrete gravity dam, completed in 1953, was built to supply water for the Indo-Swiss dairy development project that established a research farm nearby. Today the lake is used for boating and is fringed by eucalyptus forests and tea-covered hills.

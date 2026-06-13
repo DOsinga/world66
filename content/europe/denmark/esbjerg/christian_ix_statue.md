@@ -8,6 +8,7 @@ tags:
 latitude: 55.4664
 longitude: 8.4522
 story: "Christian IX signed the act in 1868 that authorised the building of a North Sea harbour at the dune-and-marsh hamlet then called Esbjerg. The town that grew up around the new port still treats him as its founding father; on his statue's plinth, an inscription lists the date with the simplicity of a birth certificate."
+score: 5.4
 ---
 
 A bronze equestrian Christian IX dominates Torvet, Esbjerg's central square, atop a tall granite plinth. The statue is a copy — the original by Vilhelm Bissen stands at Christiansborg in Copenhagen — but the Esbjerg version has a particular significance, since it was Christian IX who in 1868 ordered the construction of the harbour that became this city.

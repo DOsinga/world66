@@ -9,6 +9,7 @@ tags:
   - restaurant
 sources:
   - https://en.wikipedia.org/wiki/Sant%27Olcese
+score: 7.0
 ---
 
 Sant'Olcese, in the hills between the Scrivia Valley and the Val Polcevera, gives its name to one of Liguria's most prized cured meats. The salame di Sant'Olcese is a lightly spiced pork salami with a distinctive fine-grained texture — less aggressively seasoned than its Piedmontese neighbours, more delicate than Tuscan varieties. It has been made in these hills since at least the 18th century.

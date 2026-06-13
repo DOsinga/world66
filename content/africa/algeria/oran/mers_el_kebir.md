@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "On 3 July 1940, the British Royal Navy shelled the French fleet anchored at Mers-el-Kébir to prevent it falling into German hands after France's surrender. The attack killed 1,297 French sailors in less than ten minutes and sank or disabled most of the fleet. It poisoned Anglo-French relations for years and is still commemorated annually at the small French naval cemetery."
+score: 6.5
 ---
 
 Mers-el-Kébir, 5 km west of Oran, is one of the great natural anchorages of the western Mediterranean — a deep, narrow bay sheltered by the Murdjadjo headland. Used as a naval base by Phoenicians, Romans, Spanish, Ottomans, and French in turn, it is today a working base of the Algerian National Navy with no public access to the inner harbour.

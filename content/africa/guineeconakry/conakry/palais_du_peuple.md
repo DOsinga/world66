@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Palais du Peuple
 type: poi
+score: 5.9
 ---
 
 The Palais du Peuple — the People's Palace — sits inland on the Kaloum peninsula and houses the Guinean National Assembly. The building was constructed in the 1960s as a gift from the People's Republic of China, part of Sékou Touré's pragmatic non-aligned diplomacy: Touré took aid from East and West, Beijing and Moscow, sometimes simultaneously, while denouncing all of them.

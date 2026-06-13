@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, park]
 latitude: 51.5906
 longitude: 4.7810
+score: 5.6
 ---
 
 Valkenbergpark is Breda's oldest and most central public park, tucked between the castle and the city centre. It was laid out in English landscape style in the 19th century and remains one of the more pleasant corners of the old town: willow trees trailing into a pond, a bandstand, and a scattering of benches where people come to eat lunch and ignore their phones.

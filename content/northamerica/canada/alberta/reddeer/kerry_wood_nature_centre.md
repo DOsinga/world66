@@ -12,6 +12,7 @@ story: >
   left. His books about the river valley — written for a general audience at a time when nature
   writing was considered a niche pursuit — helped establish the case that the Waskasoo valley
   was worth protecting. The nature centre opened in 1998, two years before his death.
+score: 7.1
 ---
 
 Named for the beloved local naturalist who championed the Red Deer River valley for decades, the Kerry Wood Nature Centre is the interpretive heart of Waskasoo Park. Inside, exhibits cover the ecology of central Alberta: the river valley's geology, the species that inhabit it, and how the landscape has changed since European settlement. There are touch tables and hands-on activities aimed at children, and the building itself overlooks the Gaetz Lakes — so you can watch birds from the windows while learning about them inside.

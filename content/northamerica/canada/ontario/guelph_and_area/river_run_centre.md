@@ -8,6 +8,7 @@ latitude: 43.54771
 longitude: -80.24616
 sources:
   - https://en.wikipedia.org/wiki/River_Run_Centre
+score: 6.4
 ---
 
 The River Run Centre is Guelph's main performing arts venue, opened in 1997 on the banks of the Speed River in the heart of downtown. The building was designed to integrate with the river and the existing limestone streetscape, and the result is one of the more architecturally sympathetic performance venues in Ontario. The main concert hall seats around 800 and has good acoustics; there's also a smaller studio space for chamber performances and experimental work.

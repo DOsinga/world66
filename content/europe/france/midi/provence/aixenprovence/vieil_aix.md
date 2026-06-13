@@ -8,6 +8,7 @@ neighbourhood: Vieil Aix
 latitude: 43.5295
 longitude: 5.4475
 snippet: The medieval old town north of the Cours, a maze of squares, fountains, and markets
+score: 9.0
 ---
 
 The old town spreads north of the Cours Mirabeau in a tangled web of narrow streets and small squares. Plane trees shade the broader squares; fountains splash in the smaller ones; and bakery, cheese, and antique shop fronts open onto the cobbles. This is the half of Aix that fills with the daily life of the city — students from the law school, market vendors, residents heading home with a baguette.

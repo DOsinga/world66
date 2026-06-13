@@ -9,6 +9,7 @@ tags:
 - beach
 title: Ocean Beach
 type: poi
+score: 7.9
 ---
 
 Ocean Beach is San Francisco's largest beach, stretching five miles along the city's entire western edge. The northern section near the Cliff House is popular with locals, surfers in wetsuits, and visitors. The beach hosts a yearly sand sculpture contest and its gentle slope makes it ideal for wading.

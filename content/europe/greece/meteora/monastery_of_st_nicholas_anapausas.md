@@ -13,6 +13,7 @@ story: >
   1520s and his distinctive style, combining Byzantine tradition with the influence
   of Italian Renaissance, changed the look of monastic art across the Orthodox
   world. The frescoes have been carefully restored and are exceptional.
+score: 8.4
 ---
 
 The Monastery of St. Nicholas Anapausas is a compact monastery on a narrow rock at the northern edge of the main Meteora group. Founded in the 14th century, it takes its present form largely from the 16th-century construction funded by a local bishop. The monastery is notable primarily for its painted church interior, which contains an almost complete cycle of frescoes by Theophanes the Cretan (1527), one of the great painters of the late Byzantine period.

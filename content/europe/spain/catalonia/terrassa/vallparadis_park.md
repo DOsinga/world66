@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 7.3
 ---
 
 Vallparadís Park is a long, narrow green corridor that follows the old Vallparadís ravine through the heart of Terrassa. The park stretches almost 2 kilometres from the train station northwards, threading past the Sant Pere churches and the city's textile museum. It is the city's main green space and one of the most ambitious urban parks in Catalonia.

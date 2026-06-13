@@ -14,6 +14,7 @@ story: >
   purchased the land where the park now stands. Sculptor Nancy Holt designed the
   alignment deliberately, though most visitors who encounter the park have no idea
   about it.
+score: 7.3
 ---
 
 Dark Star Park, at the corner of Wilson Boulevard and North Custis Road in Rosslyn, is one of the most intriguing pieces of public art in the Washington area. Five large dark concrete spheres rest on the ground or are suspended from tall poles at various heights, suggesting fallen meteors or astronomical bodies. Circular asphalt markings on the ground around them look mysterious year-round.

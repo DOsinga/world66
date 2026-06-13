@@ -9,6 +9,7 @@ longitude: 11.1368
 snippet: The sandstone hill that made Quedlinburg what it is
 story: >
   The Schlossberg is a natural sandstone outcrop that rises about 25 metres above the surrounding plain — not dramatic in absolute terms, but commanding enough to have attracted fortification and then royal settlement from the earliest medieval period. Henry I chose it as a residence precisely because it was defensible and visible. The hill has been the town's symbolic and physical focal point ever since.
+score: 8.4
 ---
 
 Every view of Quedlinburg centres on the Schlossberg. The twin towers of the Collegiate Church rise from it, visible for miles across the flat landscape to the north. Climbing the hill — a five-minute walk from the lower town — is not strenuous but it does reveal how effectively the topography shapes the place: from the top you see the roofline panorama that Feininger spent years painting, and you understand why medieval kings chose this spot.

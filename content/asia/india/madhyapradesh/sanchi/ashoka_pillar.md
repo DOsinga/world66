@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.4795
 longitude: 77.7398
+score: 8.1
 ---
 
 The Ashoka Pillar at Sanchi is one of the most historically significant objects in India, though its current state is humbling: the column is broken and its famous lion capital (now in the museum) lies separate from the shaft. The pillar was inscribed by the emperor Ashoka in the 3rd century BC with an edict addressing monks and nuns, urging them against causing schism in the Buddhist community.

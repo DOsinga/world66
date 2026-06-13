@@ -14,6 +14,7 @@ story: >
   poison had no effect, he was shot, beaten, and finally drowned in the Neva. The supposed sequence
   of events is reenacted with wax figures in the basement rooms, which can be visited on a separate
   guided tour.
+score: 8.8
 ---
 
 The Yusupov Palace on the Moika embankment was the city home of one of imperial Russia's wealthiest families, with interiors that rival those of the smaller royal palaces. The visit takes in the gilded ballroom, the family's private rooms, the small private theatre — still occasionally used for opera performances — and the basement chamber where Rasputin was murdered in 1916. The Moorish-revival Turkish Study and the Persian boudoir are particular highlights, both surviving virtually intact.

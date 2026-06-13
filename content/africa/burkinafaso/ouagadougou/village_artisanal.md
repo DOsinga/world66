@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.4
 ---
 
 A walled enclosure on the southeastern edge of the city that brings together fifty or so craft workshops — bronze casters, leather workers, weavers, dyers, wood carvers, jewellers. You can watch the work being done, then buy directly from the artisan; prices are fixed, which is a relief after the Grand Marché.

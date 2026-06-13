@@ -8,6 +8,7 @@ tags:
 latitude: 20.9700
 longitude: -89.6231
 snippet: The café strip on Calle 60 between the Plaza Mayor and Parque Santa Lucía
+score: 6.9
 ---
 
 The stretch of Calle 60 between the Plaza Mayor and Parque Santa Lucía, roughly six blocks, has the highest concentration of outdoor cafes and restaurants in the city centre. The Teatro Peón Contreras, the city's ornate 1908 opera house with a Carrara marble staircase and a history of attracting major Mexican performers, anchors the block at Calle 57, and the cafes that spill onto the pavement in front of it and along the adjacent streets are the best place in the city to sit outside in the evenings.

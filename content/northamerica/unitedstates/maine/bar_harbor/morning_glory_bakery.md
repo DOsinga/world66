@@ -8,6 +8,7 @@ tags:
 latitude: 44.3878
 longitude: -68.2090
 address: "39 Rodick Street, Bar Harbor"
+score: 6.8
 ---
 
 A small bakery and cafe a block off Main Street. Sticky buns, scones, and a daily quiche; good drip coffee and decent espresso. Walk in with a paper, take a corner table, watch the morning happen.

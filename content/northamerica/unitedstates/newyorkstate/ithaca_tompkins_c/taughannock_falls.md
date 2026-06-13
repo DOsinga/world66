@@ -10,6 +10,7 @@ latitude: 42.5453
 longitude: -76.6044
 story: >
   At 215 feet, Taughannock Falls drops further than Niagara and is the tallest single-drop waterfall east of the Rocky Mountains. The name comes from the Delaware (Lenape) word taghkanic, "in the trees," though a colourful local story has it that a Lenape warrior named Taughannock was thrown over the falls in a battle with Cayuga forces.
+score: 9.2
 ---
 
 Ten miles north of Ithaca, on the west side of Cayuga Lake. The easy gorge trail from the lower parking lot is a flat three-quarter-mile walk to a viewing platform at the foot of the falls — usable by strollers, with no climbing. The harder rim trail climbs the canyon walls for a longer loop and overhead views.

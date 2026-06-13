@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2234
 longitude: 115.0654
+score: 5.7
 ---
 
 The Huangshigang riverfront park runs along the south bank of the Yangtze in the western part of the city, where Huangshi meets the river. It is a pleasant place to watch the river traffic — bulk carriers heading upriver toward Wuhan and Yichang, container barges moving downstream, and the occasional passenger vessel. The park has been landscaped in the manner of Chinese urban riverfronts, with paved walkways, pavilions, and planted areas, and it comes alive with local residents in the early morning and evening.

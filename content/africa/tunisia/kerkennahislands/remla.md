@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 6.6
 ---
 
 Remla is the largest settlement on the Kerkennah Islands and the administrative centre of the archipelago. It sits on the southern edge of Chergui, the eastern island. There is not much to see in the strict sense — a few cafés, the weekly market on Sunday, a small harbour with fishing boats, a couple of grocery shops — but it is the closest thing the islands have to a town, and it gives you a sense of how life works here.

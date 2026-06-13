@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.0538
 longitude: -119.52
+score: 8.0
 ---
 
 A 67-hectare nature reserve on the north end of town, managed by the Osoyoos Desert Society, protecting a fragment of the Okanagan Pocket Desert — Canada's only true desert ecosystem. A 1.5-kilometre boardwalk loops through the shrubland, passing antelope-brush, prickly pear cactus, and signage identifying the resident wildlife: burrowing owls, tiger salamanders, western rattlesnakes, Great Basin spadefoot toads, and half the bird species of British Columbia on migration.

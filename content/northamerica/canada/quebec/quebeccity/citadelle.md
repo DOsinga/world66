@@ -11,6 +11,7 @@ address: "1 Côte de la Citadelle, Québec City, QC G1R 3R2"
 snippet: Star-shaped fortress still garrisoned by the Royal 22e Régiment
 sources:
   - https://en.wikipedia.org/wiki/Citadelle_of_Quebec
+score: 8.7
 ---
 
 The star-shaped fortification at the southern end of the Plains of Abraham is still an active military base, garrisoned by the Royal 22e Régiment — the Van Doos, Canada's only francophone regular infantry regiment. Guided tours run through the grounds, the regimental museum, and the Governor General's summer residence (Maison du Gouverneur) on the site. The tour gives access to parts of the fortification otherwise off-limits.

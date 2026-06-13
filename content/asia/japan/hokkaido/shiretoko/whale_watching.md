@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 44.0167
 longitude: 145.2500
+score: 8.1
 ---
 
 The cold, nutrient-rich waters off the Shiretoko coast — fed by the Kuril Current from the north — support one of Hokkaido's best whale-watching opportunities. Tours operate from Rausu harbour between June and August, targeting sperm whales, minke whales, orca, and Baird's beaked whales. The sighting rates are consistently high compared to other Japanese whale-watching destinations, partly because the feeding grounds are close to shore.

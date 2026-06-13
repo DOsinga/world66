@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Kokkola Opera was founded in 1970 with the aim of producing full-scale opera in a city far from the conventional Finnish cultural centres. It has maintained that commitment for over fifty years, staging works by Verdi, Mozart, Puccini, and contemporary Finnish composers in productions that draw singers and audiences from across the country. For a city of 48,000, it is a remarkable cultural institution.
+score: 6.9
 ---
 
 The Kokkola Opera festival, held in July, is the city's most significant annual cultural event. Founded in 1970, the company has built a reputation for ambitious productions staged each summer at the Kokkola Concert Hall and occasionally at outdoor venues around the city. The festival runs for several weeks and typically presents one or two full opera productions alongside concert and recital programmes.

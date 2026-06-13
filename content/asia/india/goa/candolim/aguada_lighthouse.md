@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 snippet: "One of the oldest working lighthouses in Asia, with a view down the entire coast."
+score: 7.6
 ---
 
 The old lighthouse at Fort Aguada, built in 1864, was the first of its kind in Asia. It is no longer in active service — a newer 1976 tower stands beside it — but the older structure is open to visitors at certain hours and the climb is short.

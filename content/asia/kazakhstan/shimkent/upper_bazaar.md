@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 8.4
 ---
 
 The largest of Shymkent's traditional markets, and the place to come for the Central Asian texture that the renovated centre has mostly lost. Sprawling, partly covered, partly open-air, it sells everything from kurt (rolled balls of dried fermented yoghurt) and horse sausage to bolts of bright atlas silk and stacks of melons in the season.

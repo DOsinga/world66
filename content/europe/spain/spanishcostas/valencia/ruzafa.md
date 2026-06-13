@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.461
 longitude: -0.373
+score: 7.7
 ---
 
 Ruzafa (Russafa in Valencian) is the city's hipster engine — a once-working-class neighbourhood south of the old town that has reinvented itself, since the early 2000s, as a clearinghouse for design shops, third-wave coffee, vermouth bars, and small art galleries. The covered market at its centre still works as a neighbourhood market and is worth a stop on its own.

@@ -7,6 +7,7 @@ tags:
 latitude: 41.7498
 longitude: 23.4882
 snippet: Traditional Bulgarian tavern near the Varosha quarter serving grilled meats and local wine
+score: 5.7
 ---
 
 A traditional Bulgarian mehana (tavern) on the edge of the Varosha quarter, Bai Vito is the kind of place that has been feeding local families and university students for decades. The menu centres on Bulgarian grilled meats — kebapche, kavarma, and whatever is fresh from the grill — served with village bread, shopska salad, and local wine or rakia.

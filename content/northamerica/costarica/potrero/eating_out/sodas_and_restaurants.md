@@ -1,6 +1,7 @@
 ---
 title: "Sodas and Restaurants"
 type: poi
+score: 5.7
 ---
 
 The beach road through Potrero has a modest but decent spread of places to eat. The local sodas — Costa Rica's ubiquitous family-run lunch counters — serve the staple casado: a plate of rice and black beans, fried plantain, a small salad, and your choice of grilled fish, chicken, or beef. The fish here is genuinely fresh, pulled from the boats that work the bay, and a well-made casado at a Potrero soda remains one of the better-value meals on the Guanacaste coast.

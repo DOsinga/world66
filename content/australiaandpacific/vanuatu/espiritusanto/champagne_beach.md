@@ -12,6 +12,7 @@ tags:
 - sight
 title: Champagne Beach
 type: poi
+score: 9.1
 ---
 
 Widely regarded as one of the finest beaches in the Pacific, Champagne Beach stretches in a long arc of powder-white sand beneath coconut palms, lapped by clear turquoise water. The colour of the sea here — varying from pale jade in the shallows to deep blue beyond the fringing reef — is as good as it gets in Vanuatu.

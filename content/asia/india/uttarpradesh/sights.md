@@ -6,6 +6,7 @@ phone: 00919897064001
 title: Sights
 type: poi
 url: www.allindiaflorist.com
+score: 1.0
 ---
 
 http://www.allindiaflorist.com

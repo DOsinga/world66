@@ -8,6 +8,7 @@ latitude: 47.0237
 longitude: 4.8354
 story: >
   The church houses a remarkable set of tapestries depicting the Life of the Virgin, woven in the 15th and 16th centuries. They hang in the apse and are only fully visible in the winter months — the altar is moved away in November to reveal all five panels, each roughly four metres high, in a display that draws pilgrims of art history from across France.
+score: 8.0
 ---
 
 The Collegiate Church of Notre-Dame de Beaune was built between the 12th and 15th centuries and is one of the finest examples of Burgundian Romanesque-to-Gothic architecture. The west porch, with its three blind arches of sculptural tympana, is remarkable; inside, the nave shifts from the heavy columns of the Romanesque to the more delicate pointed arches of the later Gothic additions.

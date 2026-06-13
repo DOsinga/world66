@@ -9,6 +9,7 @@ longitude: 98.2868
 snippet: Thai cultural theme park with elephant show and buffet dinner, near Kamala Beach
 sources:
   - https://en.wikipedia.org/wiki/Phuket_FantaSea
+score: 5.4
 ---
 
 Phuket FantaSea is a large evening cultural theme park on the hillside between Surin and Kamala beaches. The main attraction is a theatrical show combining elephant acrobatics, pyrotechnics, and traditional Thai dance performed in a purpose-built theatre that holds over 3,000 people. It is unabashedly spectacular and entirely aimed at tourists, with a massive buffet dinner complex, a "Festival Village" of stalls, and plenty of photo opportunities with costumed performers.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.388
 longitude: 170.181
+score: 6.8
 ---
 
 The Glacier Hot Pools sit a couple of minutes' walk from the centre of the village — three outdoor pools at different temperatures, surrounded by rainforest. The water is not naturally thermal; it is heated municipal water. The setting is what makes it: bathing in steam under tree ferns, with the rain (because it rains a lot here) coming down on the canopy.

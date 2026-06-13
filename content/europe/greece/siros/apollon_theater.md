@@ -6,6 +6,7 @@ latitude: 37.4453
 longitude: 24.9436
 story: >
   When the Apollon opened in 1864, it was the first opera house in Greece — predating the Athens Opera by decades. The design was modelled on La Scala in Milan, scaled down for an island of 30,000 people. The ambition of it, here on a small Aegean island, still startles.
+score: 7.7
 ---
 
 The Apollon Theater is one of the most surprising buildings in the Cyclades — a proper opera house in miniature, with three tiers of gilded boxes, a painted ceiling, and the kind of hushed acoustics that make even a modest performance feel ceremonial. It was built in 1864 when Ermoupoli was at the height of its commercial power, funded by the wealthy Syran merchants who wanted their city to have everything a European capital had.

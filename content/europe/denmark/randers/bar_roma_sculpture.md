@@ -7,6 +7,7 @@ tags:
 latitude: 56.458
 longitude: 10.038
 story: The "Bar Roma" sculpture — a massive fallen aluminum figure in a plunged or prostrate position — arrived in Randers as part of a broader European debate about public art and the fate of controversial statues. The work deliberately echoes the global wave of monument removals and toppled figures, presenting a recumbent giant as a meditation on which histories we choose to honour and which we pull down. It is not comfortable public art, which is more or less the point.
+score: 5.3
 ---
 
 The Bar Roma sculpture is one of Randers' more provocative public art installations, a large aluminum figure lying prostrate in a public space. The work belongs to the tradition of art that comments on the removal or destruction of historical monuments — a theme that became particularly charged in the early 2020s following the toppling of colonial-era statues worldwide.

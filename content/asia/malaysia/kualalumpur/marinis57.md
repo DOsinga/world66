@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - klcc
   - bar
+score: 5.2
 ---
 
 A rooftop bar and Italian restaurant on the 57th floor of Petronas Tower 3 — close enough to the Twin Towers that the photograph of them from the terrace has become an Instagram cliché in its own right. Cocktails run around RM 50-70, the wine list is long, and the small-plates menu (cicchetti) is good if priced for the view rather than the food.

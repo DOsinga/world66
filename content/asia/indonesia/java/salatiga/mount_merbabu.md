@@ -13,6 +13,7 @@ tags:
   - sight
 title: Mount Merbabu
 type: poi
+score: 8.9
 ---
 
 Mount Merbabu (3,145 m) looms directly above Salatiga to the southwest — on clear mornings the summit is visible from the town. It is a dormant stratovolcano and one of the most rewarding trekking mountains in Java, offering a relatively straightforward route through forest and alpine meadow to a summit with views of the active Mount Merapi to the south, the Dieng Plateau to the west, and, on the clearest days, the Indian Ocean.

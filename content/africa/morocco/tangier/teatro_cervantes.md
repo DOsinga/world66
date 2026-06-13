@@ -8,6 +8,7 @@ tags:
 - history
 title: Gran Teatro Cervantes
 type: poi
+score: 7.4
 ---
 
 The Gran Teatro Cervantes opened in 1913 with a capacity of 1,400 — the largest Spanish-built theatre on the African continent and one of the few major Art Nouveau theatres outside Europe. During the international zone era it hosted opera, zarzuela, ballet, and the first cinema screenings in Morocco. The grand tiled facade, with its allegorical figures of Comedy and Tragedy, remains one of the most photographed buildings in Tangier.

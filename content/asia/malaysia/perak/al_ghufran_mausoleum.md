@@ -8,6 +8,7 @@ snippet: The burial place of the Perak sultans, next to the Ubudiah Mosque
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The **Makam Diraja Al-Ghufran** is the royal mausoleum of the Sultans of Perak, occupying a walled enclosure immediately next to the **Ubudiah Mosque**. The graves run from the early 20th century to the present, marked by carved stone headstones in the Malay tradition, beneath shading trees.

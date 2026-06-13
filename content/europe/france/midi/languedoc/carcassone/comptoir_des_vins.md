@@ -8,6 +8,7 @@ tags:
   - bastide_saint_louis
   - bar
 neighbourhood: Bastide Saint-Louis
+score: 5.8
 ---
 
 A wine bar on place Carnot with a careful by-the-glass list focused on the Corbières, Minervois, and Limoux — the four big appellations within thirty minutes of the city. Charcuterie plates and a short hot menu round it out.

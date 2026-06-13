@@ -12,6 +12,7 @@ story: >
   200 million years ago. The canyon itself was carved by flash floods over millennia, and the walls still show
   the scour marks of ancient water. On rare winter occasions, flash floods still rush through, stranding any
   hikers who have not paid attention to the weather.
+score: 7.4
 ---
 
 The Colored Canyon is a slot canyon in the desert mountains about 60 kilometres north of Dahab, carved through multicolored Nubian sandstone over millions of years. The walls rise 30 metres on either side, narrowing in places to less than a metre, while the bands of cream, orange, red, and purple sandstone create patterns that seem painted rather than geological.

@@ -7,6 +7,7 @@ tags:
 snippet: "Five-block strip of surf shops, bars and restaurants running inland from the pier"
 latitude: 33.6585
 longitude: -118.0010
+score: 7.4
 ---
 
 Downtown Huntington Beach is essentially Main Street: a five-block stretch between the pier and 6th Street, lined with surf shops, bars, taco stands, ice cream parlours, and a handful of restaurants. It is small enough to walk end to end in ten minutes and concentrated enough to feel like a town centre, which is rare in Orange County's strip-mall sprawl.

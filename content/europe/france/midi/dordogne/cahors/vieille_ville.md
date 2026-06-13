@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.4483
 longitude: 1.4414
+score: 8.2
 ---
 
 The old town of Cahors is almost entirely enclosed by a loop of the River Lot, giving it the feel of an island. Within this natural boundary, the medieval street plan survives largely intact — narrow lanes and half-timbered houses from the 13th to the 15th centuries cluster around the cathedral and spread towards the river on both sides.

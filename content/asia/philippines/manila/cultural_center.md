@@ -14,6 +14,7 @@ story: >
   and reflected Imelda's ambitions for the city. The building, designed by National Artist Leandro
   Locsin, was so associated with the Marcos regime that its status after the 1986 revolution was
   complicated; it survived and operates normally today.
+score: 8.0
 ---
 
 The Cultural Center of the Philippines complex on the Manila Bay reclamation area is the country's main venue for performing arts — ballet, opera, theater, and classical music — and also houses galleries of contemporary Filipino art. The main building, designed by Leandro Locsin in 1969, is one of the finest examples of Filipino modernist architecture: a monolithic mass raised on columns above the bay, with clean lines and good views of the water.

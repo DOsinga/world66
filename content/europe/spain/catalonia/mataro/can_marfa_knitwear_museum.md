@@ -8,6 +8,7 @@ tags:
 - museum
 title: Can Marfà Knitwear Museum
 type: poi
+score: 7.1
 ---
 
 The Can Marfà Knitwear Museum traces the story of Mataró's cotton and knitwear industry, which made this stretch of the Costa del Maresme one of the most industrialised parts of Catalonia through the nineteenth and early twentieth centuries. The museum occupies a former industrial complex that includes the Nau Gaudí, giving it an architectural interest beyond its exhibits.

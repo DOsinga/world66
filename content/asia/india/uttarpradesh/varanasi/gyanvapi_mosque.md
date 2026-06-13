@@ -13,6 +13,7 @@ story: >
   continuing to claim historical and spiritual ownership.
 sources:
   - https://en.wikipedia.org/wiki/Gyanvapi_Mosque
+score: 5.8
 ---
 
 The Gyanvapi Mosque stands immediately beside the Kashi Vishwanath Temple — an arrangement that encapsulates centuries of religious conflict. Emperor Aurangzeb ordered the demolition of the original Vishweshwar Temple in 1669 and built a mosque in its place; the current structure, with its distinctive three domes and two minarets, dates to around 1678. Some remnants of the original temple, including ornate carved columns, were incorporated into the mosque's construction.

@@ -14,6 +14,7 @@ story: >
   with a bronze bat (the Bacardí logo) and a terracotta frieze of bacchanalian
   celebration. By 1960 the family had fled Cuba and the building belonged to
   the revolution. The bat still perches on top, irrelevant to anyone.
+score: 8.2
 ---
 
 The Bacardí Building is one of the finest Art Deco buildings in Latin America — a twelve-storey tower completed in 1930 for the rum dynasty, rising above the colonial rooflines of Old Havana with terracotta facades, glazed granite, and an exuberant confidence in the architecture of its moment.

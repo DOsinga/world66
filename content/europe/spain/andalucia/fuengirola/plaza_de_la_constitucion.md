@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 36.5414
 longitude: -4.6250
+score: 6.4
 ---
 
 The Plaza de la Constitución is the heart of Fuengirola's old town, set back a few blocks from the seafront in the part of town that predates the tourist boom. It is a proper Andalusian square — shaded by orange trees, flanked by the parish church of Nuestra Señora del Rosario, and lined with terraces where locals sit with coffee while tourists wander past.

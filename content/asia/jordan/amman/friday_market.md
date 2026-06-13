@@ -7,6 +7,7 @@ tags:
   - downtown_al_balad
 latitude: 31.9474
 longitude: 35.9153
+score: 6.9
 ---
 
 The Friday Market — Souq al-Juma — is Amman's main flea market, spread along al-Talyani Street west of the downtown. Every Friday from early morning, dealers and private sellers spread their wares on the ground: old electronics, tools, second-hand clothes, antiques both genuine and dubious, brassware, books in Arabic and English, Palestinian embroidery, old tiles, and quantities of inexplicable junk. The animal section at one end sells birds, rabbits and occasionally stranger livestock.

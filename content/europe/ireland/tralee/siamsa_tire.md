@@ -7,6 +7,7 @@ tags:
 latitude: 52.2664
 longitude: -9.7086
 snippet: National Folk Theatre of Ireland, presenting traditional music and dance performances
+score: 8.0
 ---
 
 Siamsa Tíre (roughly, "the place of entertainment") is Ireland's National Folk Theatre, founded in Tralee in 1968. The current purpose-built theatre on the edge of the town park opened in 1991, designed by Eoin McKeogh in a form meant to echo the shape of an ancient ring fort.

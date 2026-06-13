@@ -9,6 +9,7 @@ longitude: -3.1630
 snippet: Over fifty private washhouses line the riverbanks — the most remarkable concentration of lavoirs in Brittany
 story: >
   The lavoirs of Pontrieux are all privately owned — each one belongs to the house behind it — yet most owners have agreed to open them to visitors during the summer. This collective agreement to share what are essentially backyard amenities with strangers is a very Breton kind of civic-mindedness. The washhouses date from the 17th to 19th centuries and were in active use within living memory.
+score: 8.2
 ---
 
 Pontrieux holds a claim unique in France: more than fifty private washhouses (lavoirs) line its riverbanks along the tidal River Trieux. Unlike most French towns where lavoirs are public and often crumbling, the ones in Pontrieux are privately owned — attached to individual houses — and a remarkable proportion of them have been beautifully restored by their owners.

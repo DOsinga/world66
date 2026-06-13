@@ -7,6 +7,7 @@ snippet: "Local peak with WWII battlefield and panoramic views to the Alps and t
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Monte Settepani rises 1387 metres above the upper Bormida valley, an hour's drive on switchback roads from the village. The summit is crowned by a meteorological radar station, but more interesting are the well-marked walking trails and the views, which on clear days reach all the way from Monte Rosa in the western Alps to the Mediterranean.

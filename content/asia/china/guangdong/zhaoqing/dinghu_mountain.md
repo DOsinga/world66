@@ -15,6 +15,7 @@ story: >
   1,700 plant species and has been a UNESCO Man and Biosphere Reserve since
   1956, one of the first in China. Dange's conservationist instinct preceded
   the concept by three centuries.
+score: 8.4
 ---
 
 Dinghu Mountain, twenty kilometres northeast of the city, is the serious natural attraction of the Zhaoqing area. It is an actual protected forest rather than a landscaped scenic area: old-growth trees, genuine hiking trails, waterfalls and cold pools, and active temple complexes built into the hillside at various elevations. The reserve has been protected since the seventeenth century and contains the oldest trees in Guangdong province.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 26.9700
 longitude: 94.1800
+score: 7.8
 ---
 
 Majuli's wetlands, seasonal floodplains, and oxbow lakes make it one of northeast India's better birdwatching sites. The island is a staging point on migration routes between Central Asia and the Indian subcontinent, and from October to March the river channels and marshy areas fill with winter visitors.

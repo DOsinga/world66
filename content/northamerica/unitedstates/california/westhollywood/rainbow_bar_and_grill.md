@@ -10,6 +10,7 @@ latitude: 34.0900
 longitude: -118.3891
 sources:
   - https://en.wikipedia.org/wiki/Rainbow_Bar_and_Grill
+score: 7.4
 ---
 
 Next door to the Roxy at 9015 Sunset, the Rainbow has been the rock musician's bar of choice since it opened in 1972. The walls are covered with gold records and signed photographs; the back patio is where Lemmy Kilmister sat every day for decades playing video poker and drinking Jack and Coke. John Lennon had his last meal here before leaving for New York in 1973. Ringo Starr was at the table.

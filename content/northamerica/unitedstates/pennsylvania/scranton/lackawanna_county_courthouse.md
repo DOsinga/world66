@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 41.4081
 longitude: -75.6628
+score: 7.2
 ---
 
 The Lackawanna County Courthouse occupies the central square of downtown Scranton — a French Second Empire pile in granite, opened in 1884 and added to ever since. The interior has a four-storey atrium under a stained-glass dome, marble staircases, and elaborate murals depicting the county's industrial history.

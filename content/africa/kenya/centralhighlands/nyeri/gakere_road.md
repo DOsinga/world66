@@ -6,6 +6,7 @@ longitude: 36.9510
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Gakere Road is Nyeri's main commercial spine, running from the bus park down through the centre of town. It is lined with mid-century shopfronts in pale plaster and corrugated iron, interspersed with newer concrete blocks. Supermarkets, hardware stores, mobile-money kiosks, bookshops, and small restaurants all pile in along its length.

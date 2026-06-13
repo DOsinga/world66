@@ -13,6 +13,7 @@ story: >
   in 1948. The palace continues to be the family residence — the current prince
   still oversees the craft workshops that keep the town's lacquerware and ganjifa
   traditions alive.
+score: 7.7
 ---
 
 The Raj Wada is the 18th-century palace of the Bhonsle royal family of Sawantwadi, a handsome two-storey structure with carved wooden balconies and arched verandahs facing the Moti Talao lake. The ground floor rooms have been converted into a gallery and workshop space showcasing the royal family's ongoing patronage of traditional Konkan crafts. Entry is free and the palace complex is open to visitors during daylight hours.

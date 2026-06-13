@@ -13,6 +13,7 @@ story: >
   Heritage Site in 2014. The houses on the mound were occupied until 2006, when the last
   family was relocated to allow restoration work — a single family has since been returned
   to maintain the tradition of continuous habitation.
+score: 9.4
 ---
 
 The Erbil Citadel is the most extraordinary site in Iraqi Kurdistan — a great oval mound rising 25–30 metres above the modern city on a mass of compacted human occupation that goes back at least six thousand years. From street level, the mudbrick facades of the old city on top of the mound look almost surreal: an entire urban layer perched above the noise of the modern city below, like a ship above a harbour.

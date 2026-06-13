@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Boat Races
 type: poi
+score: 7.9
 ---
 
 Anguilla's national sport and its most local spectacle. Traditional wooden sailing boats, built to designs that have barely changed in a century, race at regattas held on public holidays — Anguilla Day (May 30), August Monday, and August Thursday. The atmosphere on the beach is festive and unhurried, with music, grilling, and an absence of tourist-facing performance. This is just what Anguillans do.

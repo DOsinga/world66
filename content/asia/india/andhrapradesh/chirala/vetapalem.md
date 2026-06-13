@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Vetapalem
+score: 6.6
 ---
 
 Vetapalem is a small coastal town about 7 km south of Chirala, set at the mouth of the Gundlakamma River where it meets the Bay of Bengal. The estuary here is a productive fishing ground and the town has an active fishing harbour. The rivermouth itself creates a natural landscape of sandbars and shallow channels that attracts wading birds during winter, including painted storks, herons, and occasional spoonbills.

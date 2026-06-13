@@ -10,6 +10,7 @@ latitude: 37.270833
 longitude: -76.706944
 snippet: 301 acres of reconstructed 18th-century Virginia capital, staffed by costumed interpreters
 story: Colonial Williamsburg exists because of a single conversation in the 1920s between a local rector named W.A.R. Goodwin and John D. Rockefeller Jr., who happened to be visiting. Goodwin convinced Rockefeller that the historic town could be preserved and restored. Rockefeller eventually spent more than 68 million dollars — equivalent to well over a billion today — buying up and restoring the town, all initially in complete secrecy so as not to drive up property prices.
+score: 9.6
 ---
 
 Colonial Williamsburg is the restored capital of 18th-century Virginia, occupying the historic core of the modern city. The project has been running since the 1920s and represents the largest and most sustained historic preservation effort in American history. More than 500 buildings survive, have been reconstructed, or have been relocated to the site; the main thoroughfare, the Duke of Gloucester Street, runs nearly a mile from the Capitol to the College of William & Mary.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.1555
 longitude: -86.2721
+score: 6.4
 ---
 
 The marimba is the national instrument of Nicaragua and several neighbouring Central American countries — a large wooden xylophone played by two or more musicians, often accompanied by bass, guitar, and percussion. Weekend evenings in Managua regularly feature live marimba in restaurants, parks, and cultural centres, and the sound is one of the city's most distinctive and pleasant aspects.

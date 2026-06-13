@@ -11,6 +11,7 @@ story: >
   In June 1918, 59 prominent Russian politicians and officers were shot by Bolshevik forces on the slopes of Mashuk in what became known as the "Pyatigorsk massacre." Among the dead was General Alexander Ruzsky, who had accepted Tsar Nicholas II's abdication in March 1917 — one of history's more ironic endings. A memorial stone now marks the execution site.
 sources:
   - https://en.wikipedia.org/wiki/Mashuk
+score: 9.0
 ---
 
 Mount Mashuk rises directly above Pyatigorsk to 993 metres, its distinctive flat top visible from every part of the city. A cable car from the lower station (near the park zone) reaches the summit in a few minutes; the summit itself has an observation deck, a café, and telecommunications masts. On a clear day, the view extends south to Mount Elbrus — Europe's highest peak — and across the steppe in every direction.

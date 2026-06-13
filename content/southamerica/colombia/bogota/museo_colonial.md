@@ -8,6 +8,7 @@ tags:
 latitude: 4.5966
 longitude: -74.0751
 snippet: "Best collection of Spanish colonial art in Colombia, housed in a 17th-century Jesuit building"
+score: 8.4
 ---
 
 The Museo Colonial occupies a 17th-century Jesuit building on Calle 9 in La Candelaria and holds the finest collection of Spanish colonial art in Colombia. The building itself — whitewashed walls, carved wooden ceilings, and a central courtyard — is as impressive as the contents.

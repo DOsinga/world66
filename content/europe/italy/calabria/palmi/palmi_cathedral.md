@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Palmi Cathedral
 type: poi
+score: 5.8
 ---
 
 Palmi Cathedral, dedicated to Saint Nicholas, is the main church of the town and co-cathedral of the diocese of Oppido Mamertina-Palmi. It stands in the civic centre rather than in a museum-like old quarter, which makes it feel woven into daily life.

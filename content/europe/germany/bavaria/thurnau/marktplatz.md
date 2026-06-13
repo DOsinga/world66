@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0244
 longitude: 11.3945
+score: 6.8
 ---
 
 Thurnau's market square is the quiet heart of the old town, surrounded by half-timbered houses that survived the 20th century remarkably intact. It has the unhurried atmosphere typical of well-preserved small Franconian towns — a fountain in the centre, a few benches, and the occasional local sitting out with a coffee.

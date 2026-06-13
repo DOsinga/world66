@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.8128
 longitude: 102.4747
+score: 7.4
 ---
 
 Ao Kao is the longest and most developed beach on Koh Mak, running along the south-west of the island. A few low-key resorts back the sand, but the beach itself stays uncrowded even in high season. The water is shallow and calm — wading distance for fifty metres — which makes it good for families.

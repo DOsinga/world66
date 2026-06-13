@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 61.5113
 longitude: 23.7495
+score: 5.9
 ---
 
 The aquarium at Särkänniemi is a solid medium-sized facility with tropical fish, a good shark tunnel, rays, and displays on Finnish freshwater species alongside the saltwater exhibits. It can be visited independently of the amusement park with a separate ticket, which makes it the most accessible part of the Särkänniemi complex for adults without children.

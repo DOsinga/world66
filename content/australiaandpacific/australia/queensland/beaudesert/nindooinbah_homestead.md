@@ -9,6 +9,7 @@ tags:
 - architecture
 - historic_house
 snippet: A heritage-listed colonial-era cattle station homestead a few minutes east of town, occasionally open for tours
+score: 6.8
 ---
 
 A few minutes' drive east of Beaudesert, **Nindooinbah** is one of the great pastoral homesteads of South-East Queensland. The original 1858 timber building was much enlarged in 1906 by architect Robin Dods into a long, low Federation-style country house, with deep verandahs and one of the finest gardens of its era in the colony. The 4,000-hectare property is still a working cattle stud (Santa Gertrudis) and the homestead remains in private hands.

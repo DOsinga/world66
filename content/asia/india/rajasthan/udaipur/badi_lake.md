@@ -6,6 +6,7 @@ longitude: 73.6356
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 A large artificial lake about 12 km west of Udaipur, **Badi Lake** was built in the late 17th century by Maharana Raj Singh I to provide famine relief — a public-works project that gave employment to drought-stricken villagers. Today it is a quiet escape from the city: ringed by low hills, with a few small dhabas on the eastern shore and almost no tourist development.

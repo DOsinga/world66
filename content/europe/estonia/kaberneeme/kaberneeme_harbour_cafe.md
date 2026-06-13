@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 59.5192
 longitude: 25.2744
+score: 3.9
 ---
 
 There is a small café near the Kaberneeme harbour that operates through the summer season, serving coffee, light meals, and simple Estonian food. Expect open-faced sandwiches, soup, and whatever the kitchen has on the day — the menu is short and changes with availability. The terrace has views over the harbour and the bay, which makes it a pleasant place to sit on a fine afternoon even if the food is unremarkable.

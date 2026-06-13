@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: 9.4780
 longitude: -83.5820
+score: 6.4
 ---
 
 A natural thermal spring sits about 15 minutes' walk north of the village, off the road toward Herradura. The pools are basic — no development, no entry fee on most days — but the combination of hot water at altitude, surrounded by cloud forest, is memorably pleasant. The springs are particularly welcome on the legs after the descent from Chirripó, which leaves most hikers walking like elderly penguins.

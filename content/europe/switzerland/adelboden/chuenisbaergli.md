@@ -15,6 +15,7 @@ story: >
   Chuenisbärgli hillside. The slope's combination of steep fall-line sections
   and flat recovery zones makes it technically demanding — race winners here
   tend to be experts on varied terrain rather than pure speed merchants.
+score: 7.2
 ---
 
 The Chuenisbärgli is the ski slope immediately above Adelboden village that hosts the men's World Cup slalom and giant slalom each January. It is a serious piece of terrain: the upper section drops steeply through open snowfields, the middle narrows through trees, and the lower section flattens unexpectedly before the finish — a combination that produces unpredictable racing and large upsets. Skiing the slope on a normal day is a reminder of how technically demanding the course is.

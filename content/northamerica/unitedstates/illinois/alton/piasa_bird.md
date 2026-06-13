@@ -8,6 +8,7 @@ latitude: 38.9133
 longitude: -90.1944
 story: >
   The original Piasa pictograph was a large rock painting on the limestone bluffs that French explorer Jacques Marquette described seeing in 1673 — a "monster" with the face of a man, the body of a serpent, and a long tail. The painting was destroyed by quarrying in the 19th century. The current mural is a 20th-century recreation based on Marquette's description and archaeological fragments, painted directly on the bluff face beside the Great River Road.
+score: 6.8
 ---
 
 The Piasa (PYE-a-saw) Bird is a large painted mural on the limestone bluffs of the Great River Road north of Alton's town centre, depicting the mythical monster of Illini oral tradition — a winged, dragon-like creature said to have preyed on the tribe's warriors until their chief Ouatoga fasted for a month and received divine guidance on how to slay it.

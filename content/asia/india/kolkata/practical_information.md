@@ -2,6 +2,7 @@
 title: Practical Information in Kolkata
 type: poi
 url: www.indiandestination.com
+score: 1.0
 ---
 
 **Looking for Car

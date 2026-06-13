@@ -12,6 +12,7 @@ story: >
   with the cirque walls rising on three sides. The Austrian Alpine Club
   established a protective zone here in 1909, making it one of the earliest
   formally protected landscapes in the Alps.
+score: 8.7
 ---
 
 The Gosauseen are a group of three cirque lakes at the foot of the Dachstein's northwest wall, reached by a winding road from the village of Gosau. The lower lake — the Vorderer Gosausee — is the destination most visitors aim for, and the view across it to the Dachstein glacier and the Gosaukamm ridge is one of the finest mountain panoramas in Austria. The water is a deep turquoise fed by glacier melt; the temperature is cold enough to discourage swimming but perfect for the colour.

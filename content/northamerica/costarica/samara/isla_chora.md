@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.862
 longitude: -85.514
+score: 7.6
 ---
 
 A small rocky island about 3 km south of Samara that is a designated wildlife refuge and one of the better snorkelling spots on the southern Nicoya coast. The reef around the island shelters significant fish populations, and the waters are clear enough on calm days to see coral formations without diving equipment.

@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 snippet: Hilltop viewpoint over the Krishna Valley and Dhom Dam
+score: 7.2
 ---
 
 Sydney Point is the high northern shoulder of the Panchgani plateau, looking out over the Krishna river valley to the Dhom Dam and across to the towns of Wai and Pasarni. The viewpoint was named in the 1830s by Sir John Chesson, the British official who founded Panchgani as a hill station — Sydney was his daughter's name. On a clear winter morning the view stretches all the way to the Pratapgad ridge.

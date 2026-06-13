@@ -12,6 +12,7 @@ tags:
 - sight
 title: Kandovan
 type: poi
+score: 8.6
 ---
 
 Kandovan, about 60 kilometres south of Tabriz, is one of the most extraordinary

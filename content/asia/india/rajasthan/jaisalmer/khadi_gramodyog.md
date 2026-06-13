@@ -7,6 +7,7 @@ tags:
 - market
 title: Khadi Gramodyog Bhavan
 type: poi
+score: 5.3
 ---
 
 The Khadi Gramodyog Bhavan is a government-run emporium selling handspun and handwoven Rajasthani textiles, including cotton, wool, and silk fabrics, as well as readymade kurtas, dupattas, and shawls. Prices are fixed (no bargaining), which some find a relief and others a disadvantage. The quality is reliable and the selection is broad, covering everything from everyday cotton to more elaborate block-printed pieces.

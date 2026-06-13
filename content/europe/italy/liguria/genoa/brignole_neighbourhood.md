@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: The residential neighbourhood around Brignole station, best for local food and daily life
+score: 7.4
 ---
 
 The Brignole neighbourhood, centred on the east end of the city around its main train station, is where Genoa lives its everyday life away from tourists. The market streets of Via San Vincenzo and Via Colombo carry the city's serious food culture; the cafes and bars around Piazza Brignole are for commuters and students rather than visitors.

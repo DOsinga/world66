@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Nau Gaudí
 type: poi
+score: 8.5
 ---
 
 The Nau Gaudí — officially the Cooperativa Obrera Mataronense — is one of the earliest surviving works of Antoni Gaudí, completed in 1883 when he was just 31 years old. The commission came from a workers' cooperative, and Gaudí designed a laundry and shed building using parabolic arches in brick — a structural form he would return to obsessively throughout his career. It is the only surviving industrial building by Gaudí in the world.

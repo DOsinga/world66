@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.183056
 longitude: -2.108611
+score: 7.5
 ---
 
 The Maritime Museum occupies a converted 19th-century warehouse on the Old Harbour waterfront, one of a row of granite quayside buildings that give St Helier's harbour its handsome, slightly austere character. Inside, the exhibits cover Jersey's deep relationship with the sea: the pilchard and cod-fishing industries, the privateering era when island captains operated just this side of piracy, and the smuggling trade that flourished when the island sat conveniently outside British customs jurisdiction.

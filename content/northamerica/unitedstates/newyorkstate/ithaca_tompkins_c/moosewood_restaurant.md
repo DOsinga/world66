@@ -8,6 +8,7 @@ tags:
   - vegetarian
 latitude: 42.4414
 longitude: -76.4989
+score: 7.1
 ---
 
 Moosewood opened in 1973, when vegetarian food in America meant brown rice and apology. The Moosewood Cookbook, written by founding member Mollie Katzen and now in its umpteenth printing, made the restaurant nationally famous. The food is still good — fresh, seasonal, occasionally adventurous, served in a low-key dining room in the old Dewitt Mall.

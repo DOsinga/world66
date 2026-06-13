@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ancient Dodona
 type: poi
+score: 9.3
 ---
 
 The ancient oracle of Zeus at Dodona, 22 km southwest of Ioannina, was the most important oracular sanctuary in Greece after Delphi. The site sits in a quiet valley surrounded by the Tomaros range, with the ruins arranged along a single axis: the sacred oak grove (a single oak still grows from the site of the original), the small temple, the bouleuterion, and above them all the **theatre** — one of the largest in mainland Greece, seating around 18,000 and still used for occasional summer performances.

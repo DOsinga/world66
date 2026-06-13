@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4195
 longitude: 15.8705
+score: 8.1
 ---
 
 Beneath the historic centre of Ptuj lies an extraordinary network of vaulted wine cellars, some of which date back more than seven centuries. The cellars run for over two kilometres and are maintained at a constant cool temperature ideal for ageing the white wines of the Podravje region — Šipon (Furmint), Laški Rizling, and Chardonnay are all produced here.

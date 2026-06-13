@@ -5,6 +5,7 @@ tags: [things_to_do, sight, market]
 snippet: "Modena's magnificent covered food market — one of the finest in Emilia-Romagna"
 latitude: 44.6453
 longitude: 10.9249
+score: 8.0
 ---
 
 The Mercato Albinelli is one of the great covered markets of northern Italy. Built in 1931 in a Liberty (Art Nouveau) style, it operates every morning from Tuesday to Saturday, filling a large hall near the historic centre with stalls selling cured meats, aged cheeses, fresh pasta, vegetables, and the local balsamic vinegar. It is where Modena's cooks shop.

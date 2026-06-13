@@ -6,6 +6,7 @@ tags:
 - sight
 title: Kymenlaakson Sähkö Stadion
 type: poi
+score: 5.8
 ---
 
 This compact football stadium in Myllykoski (formerly the Saviniemi Stadium) was the home ground of Myllykosken Pallo-47 (MyPa), an unlikely top-flight Finnish club that won the league in 2005 and reached the Champions League qualifiers despite being based in a town of only a few thousand people.

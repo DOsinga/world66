@@ -11,6 +11,7 @@ story: >
   Fort Christian was under construction when the Danish West India Company established the colony in 1671, and it has been in more or less continuous use ever since — as a fortress, a jail, a church, a courthouse, and a seat of government at various points. The cells that held enslaved people awaiting sale are still visible in the lower levels, a part of the history that makes the fort uncomfortable as well as historic.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Christian
+score: 8.3
 ---
 
 Fort Christian is the oldest standing structure in the US Virgin Islands and one of the most important pieces of Danish colonial architecture in the Caribbean. Built in red brick beginning in 1671, it sits on the waterfront at the eastern end of Charlotte Amalie's main street and has watched over the harbour for 350 years. The distinctive clock tower was added in the Victorian era, giving it a slightly incongruous look, but the main structure is genuinely old.

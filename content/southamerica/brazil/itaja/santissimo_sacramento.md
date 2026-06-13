@@ -6,6 +6,7 @@ longitude: -48.6618
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The city's main Catholic church, built between 1894 and 1922 in a Gothic-revival style, dominates the central Praça Vidal Ramos. The interior has stained glass imported from Munich and a high vaulted nave that feels disproportionately grand for the size of the town it was built to serve.

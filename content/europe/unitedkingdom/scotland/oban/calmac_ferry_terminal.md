@@ -6,6 +6,7 @@ longitude: -5.4719
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The CalMac ferry terminal is where the logic of Oban's existence becomes clear. From this pier, Caledonian MacBrayne ferries depart throughout the day for Mull (45 minutes), Lismore (50 minutes), Colonsay (2.5 hours), Coll (2.75 hours), Tiree (3.5 hours), and seasonally for Islay, Jura, Colonsay and Barra. Oban is the hub of the Inner Hebrides ferry network in a way that no other mainland town is.

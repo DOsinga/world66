@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 6.0
 ---
 
 A small but well-maintained four-acre botanic garden in central Road Town, established in 1979 on the site of the old colonial agricultural station. The collection covers Caribbean palms, orchids, medicinal plants, and a small rainforest section with a pond and a thatched-roof gazebo. A pleasant 45-minute escape from the heat of the streets, particularly in the morning.

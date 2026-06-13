@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - lake
+score: 6.8
 ---
 
 Lac de Chésery is a small alpine lake at around 2,000 metres, tucked into a basin in the ridge above Les Crosets. It is one of the regular stops on the walking circuit between Champéry and the French border, and is often paired with the neighbouring Lake Vert for a half-day hike.

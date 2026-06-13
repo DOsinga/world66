@@ -8,6 +8,7 @@ tags:
 - nature
 - sight
 snippet: Britain's most northerly nature reserve — cliffs, puffins, gannets, and the Muckle Flugga lighthouse offshore
+score: 9.3
 ---
 
 Hermaness covers the northern peninsula of Unst, ending in cliffs that fall 170 metres straight into the Atlantic. From May to early August the cliffs and stacks support around 25,000 pairs of gannets and roughly the same number of puffins, alongside fulmars, kittiwakes, and the bonxies — great skuas — that nest on the moorland behind. The bonxies will swoop low over hikers in the breeding season; not aggressive but startling.

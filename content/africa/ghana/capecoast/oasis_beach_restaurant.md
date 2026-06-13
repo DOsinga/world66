@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Oasis Beach Restaurant
 type: poi
+score: 5.4
 ---
 
 A laid-back beachfront restaurant on the small bay just west of Cape Coast Castle, with tables under thatched umbrellas right on the sand. The menu is a mix of Ghanaian classics — grilled tilapia with banku and shito, jollof rice, light soup with goat — and reasonable Western dishes for less adventurous eaters.

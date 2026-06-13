@@ -9,6 +9,7 @@ tags:
   - park
   - beach
 address: Lake Chipican Drive, Sarnia
+score: 7.9
 ---
 
 Canatara Park is Sarnia's largest urban park and the city's best free attraction. A long crescent of clean sand along Lake Huron, a small wooded pond with walking trails, a children's farm, and the Animal Farm petting zoo make it the obvious destination for a family afternoon. The beach itself is wide, gently sloping, and supervised in summer; the water warms up enough to swim by mid-July.

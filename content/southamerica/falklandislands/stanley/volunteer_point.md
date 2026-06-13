@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Volunteer Point
 type: poi
+score: 9.5
 ---
 
 The Falklands' single most famous wildlife site — a windswept beach 80 km north-east of Stanley that hosts the largest accessible King Penguin colony on the planet. Several hundred adult kings stand in groups along the white sand, brown chicks at their feet, while Magellanic and Gentoo penguins nest behind the beach.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.5398
 longitude: 128.5062
+score: 7.9
 ---
 
 Buyongdae Cliff rises directly across the Nakdong River from Hahoe Folk Village and provides the best elevated view of the entire village and the river bend that makes the setting so distinctive. The cliff is 64 metres high with a rocky overhang. From the top, you look down on the village and the river looping around it on three sides — it's the view that appears in every photograph of Hahoe.

@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Brazilian Mosque
 type: poi
+score: 7.8
 ---
 
 One of Porto-Novo's most striking buildings: a 19th-century church built by Brazilian returnees — descendants of freed slaves who came back to West Africa — that was later converted into a mosque. The Brazilian-influenced architecture, with its ochre facade and ornate detailing, stands out sharply against the surrounding streets and is a direct trace of the city's Atlantic slave-trade history.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.0
 ---
 
 The parish church of the Invención de la Santa Cruz sits on the south side of the Plaza de Recreo. The current building dates from the 19th century, replacing earlier structures destroyed by fire and hurricane — Bayamón's original 1772 church was burned in 1842, and the rebuild that followed has been altered repeatedly.

@@ -9,6 +9,7 @@ latitude: 60.4
 longitude: 17.8833
 story: >
   The Cahman organ inside the church is one of the finest surviving organs from the Swedish baroque period. Built by Johan Niclas Cahman in the early 18th century, it is still played today — the church hosts occasional organ concerts that draw musicians and enthusiasts from across Scandinavia. Cahman is considered the greatest Swedish organ builder of his era, and only a handful of his instruments survive intact.
+score: 8.2
 ---
 
 The 18th-century church at Lövstabruk was built as part of the De Geer family's post-1719 reconstruction of the estate, and it stands as one of the most elegant rural churches in Uppland. The exterior is simple and whitewashed; the interior contains the extraordinary Cahman organ, a baroque instrument of international significance that is still in playing condition.

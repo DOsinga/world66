@@ -13,6 +13,7 @@ story: >
   West were largely operated by people from this one county. The museum makes
   this extraordinary demographic fact concrete with photographs, documents,
   and objects brought back or sent home across the Pacific.
+score: 6.9
 ---
 
 The Taishan Overseas Chinese Museum, in Taicheng city centre, covers the history of emigration from this county to North America, Southeast Asia, and Australia. The exhibits trace the journey from nineteenth-century Pearl River Delta poverty to the construction of Chinatowns from San Francisco to Vancouver, through the exclusion acts, the money flowing back as remittances, and the gradual decline of the Taishanese language after immigration reform in the 1960s opened America to immigrants from across China.

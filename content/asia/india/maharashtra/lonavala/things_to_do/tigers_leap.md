@@ -9,6 +9,7 @@ latitude: 18.7004
 longitude: 73.3834
 sources:
   - https://en.wikipedia.org/wiki/Tiger%27s_Leap
+score: 7.4
 ---
 
 The most dramatic viewpoint in the Lonavala area, Tiger's Leap (Vaaghjai) stands at the edge of the Sahyadri escarpment about 12 km from town, where the plateau drops away in a sheer basalt cliff to the plains below. The name comes from the shape of the outcrop, which from a certain angle resembles a leaping tiger.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.0247
 longitude: 28.8325
+score: 7.5
 ---
 
 A small private museum dedicated to the victims of the Soviet deportations of Moldovans to Siberia and Kazakhstan in 1941, 1949, and 1951 — operations that uprooted around 80,000 people, mostly land-owning peasants and clergy. The collection is documentary: family photographs, deportation orders, letters from labour camps, and a reconstructed cattle wagon of the kind used for the transports.

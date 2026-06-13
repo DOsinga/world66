@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.5871
 longitude: -93.6262
+score: 5.9
 ---
 
 Centro is the long-running Italian anchor of downtown Des Moines, on the Temple for Performing Arts block of Locust Street. The menu is straightforwardly Italian-American — thin-crust pizzas from the wood oven, big plates of pasta, meatballs that have a small cult — and the dining room hits the right balance of busy and comfortable.

@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: A subterranean labyrinth telling the life of Denmark's most famous storyteller
 story: "Andersen, born in extreme poverty in Odense in 1805, wrote *The Little Match Girl*, *The Ugly Duckling*, *The Emperor's New Clothes*, and *The Snow Queen*. He hated revisiting his birthplace; he found it humiliating. The current museum stands on the spot of the half-room where he was born and where his mother continued to live after his father's early death."
+score: 8.6
 ---
 
 H.C. Andersens Hus, redesigned by Japanese architect Kengo Kuma and reopened in 2021, is a single-storey building that sinks most of its exhibition space underground beneath a garden of cylindrical pavilions. The displays follow Andersen's life and work in a non-linear loop, mixing letters, manuscripts, contemporary artworks responding to his tales, and full-room installations evoking specific stories.

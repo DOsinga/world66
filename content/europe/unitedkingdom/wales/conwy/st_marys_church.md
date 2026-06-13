@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Mary_and_All_Saints%27_Church,_Conwy
 story: >
   St Mary's Church was built on the site of the Cistercian abbey of Aberconwy, which Edward I demolished and relocated to Maenan in the Conwy Valley to make room for his new castle and town. The monks were given land and materials to rebuild further upriver, but their original church became the parish church of the new English settler town. Several medieval abbots are buried inside.
+score: 7.0
 ---
 
 St Mary's Church, at the centre of the walled town, is the parish church of Conwy and one of the oldest buildings within the walls. It stands on the site of the Cistercian abbey that occupied this ground before Edward I cleared it in the 1280s to build his castle and fortified town — the monks were relocated to Maenan, some miles up the valley.

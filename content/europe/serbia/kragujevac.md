@@ -7,6 +7,7 @@ phone: +381 34 364 737
 title: Nightlife and Entertainment
 type: poi
 url: www.balkanika.rs
+score: 2.8
 ---
 
 Nightlife, entrainment, bars, pubs...

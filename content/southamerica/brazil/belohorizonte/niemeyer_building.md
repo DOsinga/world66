@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Niemeyer Building
 type: poi
+score: 7.5
 ---
 
 The Niemeyer Building (Edifício Niemeyer) is a long, gently curving residential block by Oscar Niemeyer that occupies an entire block on the western edge of Praça da Liberdade. Built between 1955 and 1960, it was one of Niemeyer's first large urban residential commissions and helped set the template for the high-rise apartment buildings that have since defined the city's skyline.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - medieval_quarter
+score: 7.7
 ---
 
 The city's "Itinerario Muralístico" is a self-guided tour of large-scale outdoor murals on blank gable walls across the old town. The murals — commissioned annually since 2007 from local and international artists — illustrate aspects of Vitoria's history and the surrounding landscapes.

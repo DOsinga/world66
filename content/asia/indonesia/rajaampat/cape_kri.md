@@ -7,6 +7,7 @@ tags:
 latitude: -0.5408
 longitude: 130.5792
 story: "In 2002, marine biologist Gerald Allen recorded 374 species of fish on a single dive at Cape Kri — a count that broke the existing world record for fish diversity in a single dive. Subsequent surveys have consistently confirmed Cape Kri's position at or near the top of the global rankings. The richness is not accidental: the site sits at the confluence of currents that sweep in from the Pacific, bringing nutrients and larvae from across the ocean."
+score: 9.2
 ---
 
 Cape Kri, off the southwestern tip of Kri Island near Waisai, holds the world record for the highest number of fish species counted in a single dive: 374, recorded in 2002. For divers, this matters less as a statistic than as lived experience — descending here is like entering a world where every patch of reef is busy with something new. Parrotfish, wrasse, fusiliers, and anthias move in clouds; whitetip reef sharks patrol the drop-off; turtles drift through in the middle distance.

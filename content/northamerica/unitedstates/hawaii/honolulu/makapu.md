@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Makapu'u
 type: poi
+score: 8.0
 ---
 
 Makapu'u Point is the easternmost tip of Oahu, where the island's green sea cliffs drop sharply into the Pacific. The beach below is one of the island's best bodysurfing spots — short, powerful shorebreak waves that draw experienced swimmers year-round. The currents are strong and there are no lifeguards at all hours, so it's not a beginner's spot.

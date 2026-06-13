@@ -10,6 +10,7 @@ story: >
   Kosrae's reefs benefit from one of the most progressive marine protection programmes in Micronesia. In the 1990s the government mapped all major dive sites, installed permanent mooring buoys to prevent anchor damage, and established a network of marine protected areas. The result, three decades later, is coral health that reef biologists describe as exceptional — hard coral cover that would be considered pristine even by pre-industrial standards.
 sources:
   - https://visitkosrae.com/
+score: 8.8
 ---
 
 Kosrae's diving reputation rests on two things: the health of its hard coral and the variety of its topography. The eastern side of the island has shallow coral gardens — staghorn, table, brain, and cabbage corals interleaved with giant clams and anemones — while the western wall drops away steeply into blue water where dogtooth tuna, reef sharks, and large schools of barracuda patrol. Visibility regularly exceeds 30 metres.

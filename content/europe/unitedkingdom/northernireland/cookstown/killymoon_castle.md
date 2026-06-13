@@ -15,6 +15,7 @@ story: >
   Stewart, the owner of the Killymoon estate. The castle cost an extraordinary £80,000 —
   a sum that nearly ruined Stewart — and Nash's extravagant Gothic design was blamed
   for the financial damage.
+score: 6.4
 ---
 
 Killymoon Castle stands about 2 kilometres south of Cookstown on the north bank of the Ballinderry River, a Gothic Revival country house built in 1803 to a design by John Nash. The castle is a striking building — Nash's characteristic battlements and towers in local limestone beside the river — and the estate grounds, now managed as a golf club, are accessible to visitors who want to view the exterior.

@@ -10,6 +10,7 @@ tags:
 - thai
 title: Surin West
 type: poi
+score: 5.3
 ---
 
 Excellent Thai food and sushi in Five Points South. For lunch, try the yum yai salad with shrimp and chicken, or the spicy eggplant noodles. The kaboom maki -- shrimp tempura, cucumber, and cream cheese, fried and served with seaweed salad and panang curry sauce -- is the standout sushi roll.

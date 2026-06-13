@@ -8,6 +8,7 @@ latitude: 39.7555
 longitude: 141.1539
 sources:
   - https://en.wikipedia.org/wiki/Iwate_Prefectural_Museum
+score: 7.1
 ---
 
 The Iwate Prefectural Museum (Iwate Kenritsu Hakubutsukan) is the main comprehensive museum of the prefecture, housed in a large complex on the northern edge of Morioka. Its collection covers natural history, archaeology, and the folk culture of the Tohoku region, with particular emphasis on Iwate's distinctive heritage.

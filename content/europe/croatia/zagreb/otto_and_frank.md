@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - gornji_grad
+score: 6.0
 ---
 
 Otto & Frank opened a decade ago and has settled into the kind of comfortable, reliable rhythm every city centre needs: open from breakfast through to late dinner, a menu that runs from eggs benedict through gnocchi with gorgonzola to steak frites, and a long covered terrace on Tkalčićeva that works in most weathers. It is not the city's most ambitious kitchen but it is among the most dependable.

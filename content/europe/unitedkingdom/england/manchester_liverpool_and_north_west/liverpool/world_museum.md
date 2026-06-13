@@ -8,6 +8,7 @@ tags:
 - museum
 title: World Museum
 type: poi
+score: 8.3
 ---
 
 Liverpool's natural history and ethnographic museum is part of the great William Brown Street ensemble. The collection runs from dinosaur skeletons and an Egyptian gallery (including several mummies) to ethnographic material brought back by Liverpool's merchant ships from every continent. Upstairs there is a planetarium and a small but well-presented aquarium.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Lodose Museum
 type: poi
+score: 5.4
 ---
 
 An archaeological museum about 45 km north of Gothenburg, devoted to the history of Lodose -- the original Gothenburg in the Middle Ages. The permanent exhibition covers medieval life in Sweden's oldest harbour, with smaller changing exhibitions.

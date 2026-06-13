@@ -5,6 +5,7 @@ latitude: 39.7547
 longitude: 39.7239
 tags: [things_to_do, sight, ruins, archaeological_site]
 story: When Turkish archaeologists opened a small Urartian chamber tomb at Altıntepe in 1959, they found three bronze cauldrons, a wooden throne with bronze fittings, and a complete set of horse harness — the richest single Urartian burial ever excavated, and now one of the highlights of the Ankara museum of Anatolian Civilisations.
+score: 7.4
 ---
 
 Altıntepe — "Golden Hill" — is a low conical mound rising out of the plain about twenty kilometres east of Erzincan. From the seventh century BC it was a fortified outpost of the Urartian kingdom, the rival of Assyria that controlled most of eastern Anatolia for around three hundred years. Excavations have uncovered a temple complex, a columned audience hall with frescoes of striped lions, royal tombs, and an open-air sanctuary built over an earlier shrine.

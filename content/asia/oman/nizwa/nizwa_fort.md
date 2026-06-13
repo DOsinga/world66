@@ -8,6 +8,7 @@ tags:
   - sight
   - landmark
 story: "The fort's massive circular tower is essentially a single solid mass of compressed earth and rubble nearly 40 metres across. Inside it is a deadly defensive maze: blind passages, hidden murder holes for pouring boiling date syrup on attackers, and stepped sections designed so charging horsemen would stumble."
+score: 9.1
 ---
 
 Nizwa Fort is the most imposing castle in Oman. Built between 1649 and 1668 by Imam Sultan bin Saif al-Yarubi, it is dominated by a huge circular drum tower, 40 metres in diameter and 30 metres high, with cannon embrasures pointing in every direction. It was designed in the gunpowder age to absorb cannon fire — the solid earth filling under the tower platform soaked up impact.

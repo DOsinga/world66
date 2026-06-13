@@ -14,6 +14,7 @@ story: >
   above — and stayed, digging in, for eight and a half months. The cove is
   only 600 metres long. Standing on it, the geography of what happened here
   becomes immediately, viscerally clear.
+score: 7.3
 ---
 
 ANZAC Cove is the narrow stretch of beach where the Australian and New Zealand Army Corps landed on 25 April 1915 — the date now commemorated as ANZAC Day across Australia and New Zealand. The cove is bounded by two headlands and backed by steep cliffs, making the landing an extraordinarily difficult military operation. More than 8,000 ANZACs died on the Gallipoli peninsula during the eight-month campaign.

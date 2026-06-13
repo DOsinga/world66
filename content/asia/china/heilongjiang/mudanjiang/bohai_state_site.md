@@ -12,6 +12,7 @@ story: >
   nearly three centuries, connecting China, Korea, and Japan in a trade and cultural network that 
   scholarship is only recently recovering. When the Khitan destroyed Shangjing in 926 CE, they 
   erased a sophisticated state so completely that it was largely forgotten for a thousand years.
+score: 7.9
 ---
 
 The Bohai State ruins at Ning'an, about 40 kilometres south of Mudanjiang city, preserve what remains of Shangjing — the Upper Capital of the Bohai Kingdom, which dominated northeast Asia from the 7th to the 10th century CE. The Bohai were Tungusic people who built a sophisticated state modelled partly on Tang dynasty China, controlling trade routes that connected the Chinese interior with Korea, Japan, and the steppe civilisations to the north. The capital was a proper planned city with palaces, grid streets, and a population in the tens of thousands.

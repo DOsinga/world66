@@ -10,6 +10,7 @@ latitude: 27.4489
 longitude: 109.6856
 story: >
   On 21 August 1945, Japanese commanders signed their surrender of all forces in China at this airfield in Zhijiang — not in some grand capital, but in this modest agricultural town in western Hunan. The document signed here preceded the formal Tokyo Bay ceremony by two weeks and affected the largest single concentration of Japanese forces still in the field. Almost nobody outside China has heard of it.
+score: 7.6
 ---
 
 The Zhijiang Surrender Hall marks the place where Japan formally surrendered its forces in China on 21 August 1945, two weeks before the more famous ceremony aboard USS Missouri in Tokyo Bay. Zhijiang (Chihchiang) airfield had been a major Allied air base during the war, and it was here that representatives of the Japanese armies in China signed the document that ended eight years of occupation. The signing hall is preserved as it appeared on that day, with period furniture, documents, and maps.

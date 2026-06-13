@@ -8,6 +8,7 @@ latitude: 35.5672
 longitude: 135.1897
 sources:
   - https://en.wikipedia.org/wiki/Tango-Amanohashidate-%C5%8Ceyama_Quasi-National_Park
+score: 6.5
 ---
 
 The Tango-Amanohashidate-Oeyama Quasi-National Park encompasses the sandbar, the bay, the Tango Peninsula coastline, and the Oeyama mountains to the northeast. The park designation protects the landscape that makes the view possible — without the pine trees, the bay's clarity, and the mountain backdrop, the scene would be far less remarkable.

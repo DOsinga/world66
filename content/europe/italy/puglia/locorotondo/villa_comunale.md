@@ -8,6 +8,7 @@ tags:
   - centro_storico
   - sight
   - park
+score: 7.8
 ---
 
 The Villa Comunale is the old town’s best balcony over the Valle d'Itria. From the gardens, the countryside opens below in a patchwork of vineyards, olive trees, dry-stone walls, and conical trulli scattered between the farms.

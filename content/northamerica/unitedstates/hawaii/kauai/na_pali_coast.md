@@ -13,6 +13,7 @@ story: >
   Hikers who reach the valley find the ruins of their taro terraces still visible under the vegetation.
 sources:
   - https://en.wikipedia.org/wiki/N%C4%81_Pali_Coast_State_Wilderness_Park
+score: 9.6
 ---
 
 The Nā Pali Coast is the dramatic northwestern face of Kauaʻi — 27 kilometres of sheer green cliffs plunging straight into the Pacific, cut by deep valleys where waterfalls drop hundreds of metres to meet the sea. No road reaches it. You access it either on foot, by kayak in summer, or by boat or helicopter tour operating from Port Allen and Lihue.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The current at Angaur runs so fast that the Palau dive boats only attempt to reach it on a few days each month, when the tide and weather line up. Most Palauan divers have heard about Angaur for years and still have not done a dive there."
+score: 8.8
 ---
 
 The reefs around Angaur are some of the most exposed and current-swept in Palau, with reliable encounters with large pelagic fish — sharks, schooling barracuda, sometimes a passing manta or marlin. The dive sites are not numerous but they are powerful, and they reward divers who can handle a drift and a strong negative entry.

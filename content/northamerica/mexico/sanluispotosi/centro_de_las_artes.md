@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 22.1510
 longitude: -100.9751
+score: 8.4
 ---
 
 The Centro de las Artes occupies a vast neoclassical building that served as the state prison from 1884 until 1999. The conversion is thought-provoking: the same architecture of confinement and control now houses studios, performance spaces, and the Museo Leonora Carrington, dedicated to the surrealist painter who spent the last decades of her life in Mexico.

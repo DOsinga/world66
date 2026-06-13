@@ -8,6 +8,7 @@ tags:
 latitude: 22.7311
 longitude: 75.8837
 snippet: "56 food stalls concentrated in New Palasia — Indore's daytime street food hub"
+score: 6.4
 ---
 
 Chappan Dukan — literally "56 shops" — is a row of food stalls and small restaurants in the New Palasia neighbourhood of Indore that has been operating since the 1970s, when the city authorities allocated 56 food vendor licences to a single street. The number has since grown, but the name stuck. It is to Sarafa Bazaar what a daytime café is to a restaurant: lighter, more casual, and accessible at all hours.

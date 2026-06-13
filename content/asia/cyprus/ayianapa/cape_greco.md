@@ -16,6 +16,7 @@ story: >
   so access to the very tip is restricted.
 sources:
   - https://en.wikipedia.org/wiki/Cape_Greco
+score: 9.2
 ---
 
 Cape Greco is the dramatic rocky headland at the far eastern end of Cyprus's southern coast, about 8 km east of Ayia Napa, and it is one of the most beautiful stretches of coastline on the island. The headland and the area around it form a national forest park, protecting a landscape of eroded limestone cliffs, sea caves, juniper scrub, and wildflowers. The water in the coves below is extraordinarily clear — turquoise over white sand, deep blue farther out.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.8667
 longitude: 12.6473
 story: "Lucas Cranach the Elder ran one of the most productive painting workshops in sixteenth-century Germany from this courtyard. He painted Luther dozens of times — his portraits became the standard image of the reformer across Protestant Europe. Cranach was also Wittenberg's mayor for a time and a close personal friend of Luther."
+score: 7.2
 ---
 
 The Cranachhof is the complex of buildings associated with Lucas Cranach the Elder, court painter to the Electors of Saxony and visual chronicler of the Reformation. The main building at Markt 4 housed Cranach's workshop, pharmacy, and printing press; alongside Luther's words, Cranach's images spread the Reformation message across Germany and beyond.

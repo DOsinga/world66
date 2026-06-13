@@ -14,6 +14,7 @@ story: >
   sit in the middle of the island surrounded by banana groves and vegetable
   gardens with no particular concession to their unlikely setting. Sunday
   morning mass attracts most of the island's Catholic population.
+score: 8.5
 ---
 
 Weizhou Island, accessible by ferry from Beihai in about an hour, is China's largest volcanic island in the South China Sea and among the most rewarding day trips or overnight stops in Guangxi. The island is ringed by coral reefs — among the healthiest in the country — and the diving and snorkelling are genuinely good by Chinese standards. The basalt coastline, formed by relatively recent volcanic eruptions, creates dramatic cliff formations and sea caves accessible by boat or by walking the coastal path.

@@ -8,6 +8,7 @@ snippet: "The only 24-hour tiki bar in the world"
 tags:
 - bars_and_cafes
 - bar
+score: 8.2
 ---
 
 Frankie's Tiki Room is exactly the kind of bar you want to find in Las Vegas: dim, weird, and open 24 hours. The interior was designed by tiki royalty Bamboo Ben and packs decades of mid-century tropical kitsch into a small room — black-light puffer-fish lamps, carved tiki figures, lava-rock walls, and a thatched ceiling, all sealed against the desert sun.

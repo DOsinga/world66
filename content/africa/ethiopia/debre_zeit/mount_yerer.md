@@ -8,6 +8,7 @@ tags:
   - sight
   - mountain
   - hiking
+score: 7.8
 ---
 
 A 3,100-metre extinct volcano twenty kilometres north of Debre Zeit, with twin summits visible from most of the lake area. The mountain dominates the skyline and gives the Bishoftu craters their distinctive backdrop.

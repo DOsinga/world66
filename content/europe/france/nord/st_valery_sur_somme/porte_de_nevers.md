@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Eastern medieval gate, named for a seventeenth-century French duke"
+score: 6.8
 ---
 
 The Porte de Nevers is the eastern of the two surviving gates in St-Valéry's old ramparts, named after Charles de Gonzague, Duke of Nevers, who lived in the adjoining house in the early seventeenth century. The gate is older than that — its core dates to the thirteenth century — and it served as the principal route from the harbour up into the walled town for several hundred years.

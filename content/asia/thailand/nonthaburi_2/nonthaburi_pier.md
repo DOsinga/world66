@@ -8,6 +8,7 @@ latitude: 13.8422
 longitude: 100.4909
 story: >
   The Nonthaburi pier (N30) was for decades the northern terminus of the Chao Phraya Express Boat service, the main public river transport of Bangkok. Before the MRT Purple Line opened in 2016, arriving here by boat was the standard way for Bangkokians to reach the province. The pier building — a wooden structure with a large clock tower built in the provincial government style — is one of the most photographed landmarks along the entire Chao Phraya.
+score: 7.8
 ---
 
 The Nonthaburi Pier (pier N30) is the main gateway to Nonthaburi by river, a handsome wooden structure with a clock tower that serves the Chao Phraya Express Boat. Step off the orange-flag boat and you find yourself at a busy local market, surrounded by food stalls selling fruit, grilled meats, and noodle dishes.

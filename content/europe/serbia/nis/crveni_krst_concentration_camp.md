@@ -9,6 +9,7 @@ title: Crveni Krst Concentration Camp
 type: poi
 story: >
   On the night of 10 February 1942, 105 prisoners managed to escape through a hole dug in the fence — one of the largest mass escapes from a concentration camp in occupied Yugoslavia. The German guards killed many recaptured prisoners on the spot. Today a commemorative plaque marks the spot where the breakout happened, and the story is told in the museum inside.
+score: 8.5
 ---
 
 The Crveni Krst — Red Cross — concentration camp operated from 1941 to 1944 in what had been a Yugoslav army barracks north of the city centre. The Germans interned some 35,000 people here during the occupation: Jews, Roma, Communist Party members, hostages taken from surrounding villages. Many were executed at the Bubanj memorial park on the edge of town; others were sent to camps elsewhere in occupied Europe.

@@ -9,6 +9,7 @@ latitude: -9.3333
 longitude: 34.7667
 story: >
   The first German Lutheran missionaries reached Njombe in 1898, and Catholic Benedictines followed a few years later. The two missions effectively founded the modern town — its hospital, secondary schools, and printing press all began as mission projects.
+score: 6.1
 ---
 
 The seat of the Roman Catholic Diocese of Njombe is the largest church in the town, a substantial 20th-century brick building near the centre. It is the most visible of the cluster of mission churches that line Njombe's main street — Lutheran, Catholic, Anglican, Moravian, and several Pentecostal denominations all within a few hundred metres.

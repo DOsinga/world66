@@ -8,6 +8,7 @@ latitude: 38.7061
 longitude: -75.0778
 sources:
   - https://en.wikipedia.org/wiki/Silver_Lake_(Rehoboth_Beach,_Delaware)
+score: 6.9
 ---
 
 Silver Lake is a freshwater lake on the south side of Rehoboth Beach, separated from the Atlantic by a narrow strip of land. The lake is a haven for migratory birds, and the paths around its perimeter are popular for walking and wildlife watching — a pleasant alternative to the beach when the boardwalk is crowded.

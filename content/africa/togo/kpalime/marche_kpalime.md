@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market]
 latitude: 6.9107
 longitude: 0.6324
+score: 7.3
 ---
 
 The town's main market is one of the busiest in Togo's western hills, drawing traders from across the border in Ghana every Tuesday and Saturday. Coffee, cocoa, palm oil, cassava, smoked fish, fabric, and household goods spill out from the central halls into the surrounding streets.

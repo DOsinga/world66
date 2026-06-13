@@ -8,6 +8,7 @@ latitude: 49.0519
 longitude: 20.2975
 story: >
   The Tatra Electric Railway opened in 1908, making it one of the oldest electric mountain railways in central Europe. During the communist era it was the main means of access to Tatra skiing resorts for workers from across Czechoslovakia. The line still uses the original narrow-gauge track — one of the more charming pieces of transport infrastructure in Slovakia.
+score: 7.8
 ---
 
 The Tatra Electric Railway — Tatranská elektrická železnica, or TEŽ — runs from Poprad station up into the High Tatras, connecting the city to the mountain resorts of Tatranská Lomnica, Starý Smokovec, and Štrbské Pleso. The journey takes 40–50 minutes to the top terminus and passes through increasingly dramatic mountain scenery as the valley rises toward the peaks.

@@ -1,6 +1,7 @@
 ---
 title: "Greek Pastry Shops"
 type: poi
+score: 7.8
 ---
 
 The pastry shops around Eaton Mall are among Oakleigh's most distinctive offerings and a different experience from the souvlaki restaurants. The glass display cases inside these shops typically hold a rotating selection of galaktoboureko (semolina custard in crisp filo), baklava (walnut or pistachio, soaked in honey syrup), kataifi (shredded pastry with nut filling), and kourabiedes (butter biscuits dusted with icing sugar). The range changes with the season and the day.

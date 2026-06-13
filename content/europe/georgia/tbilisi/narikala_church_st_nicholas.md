@@ -7,6 +7,7 @@ tags:
 - sight
 title: Church of St Nicholas, Narikala
 type: poi
+score: 6.9
 ---
 
 Inside the ruins of Narikala Fortress stands a small single-nave church dedicated to St Nicholas, rebuilt in the 1990s within the original medieval walls. The church is modest in scale but its position — at the summit of the fortress ridge, surrounded by ruined walls on three sides — gives it an atmosphere out of proportion to its size.

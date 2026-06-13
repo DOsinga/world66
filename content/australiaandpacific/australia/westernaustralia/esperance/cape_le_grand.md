@@ -6,6 +6,7 @@ latitude: -33.9667
 longitude: 122.15
 story: >
   Cape Le Grand was named after the French ship Le Grand, which visited the area during the Baudin expedition of 1803 — the same voyage that mapped much of Australia's southern coast and named hundreds of features. The French and the British were in a quiet race to chart and claim the continent at the time, and this remote corner of Western Australia bears French names as a result.
+score: 9.3
 ---
 
 Cape Le Grand National Park protects 31,000 hectares of coastal heath, granite peaks, and white-sand beaches about 50km east of Esperance. It contains some of the finest beaches in Australia — Lucky Bay, Thistle Cove, Hellfire Bay, Rossiter Bay — each slightly different in character but all sharing the same extraordinary sand colour and turquoise water.

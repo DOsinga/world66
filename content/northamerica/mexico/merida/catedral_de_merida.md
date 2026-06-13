@@ -19,6 +19,7 @@ story: >
   inside survived an 18th-century church fire that destroyed everything around
   it — the faithful take this as a miracle; the sceptical note that the
   sculpture is made from ceiba wood.
+score: 8.7
 ---
 
 The Cathedral of Mérida, begun in 1561 and consecrated in 1598, is the oldest functioning cathedral on the American mainland. It faces the Plaza Mayor, taking up the entire eastern side of the square, and its two towers are visible from most of the historic centre. The façade is austere — deliberately so, reflecting the Counter-Reformation style of the Franciscans who oversaw construction — with thick walls and small windows that keep the interior dramatically dark and cool.

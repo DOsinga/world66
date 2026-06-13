@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.7817
 longitude: 14.1761
+score: 6.4
 ---
 
 Hovrättstorget is the main square of Jönköping's older eastern district, flanked by the stately Göta Court of Appeal building — one of the most important regional courts in Sweden, which has sat in Jönköping since 1634. The square is pleasant for a coffee and gives a sense of the city's institutional history.

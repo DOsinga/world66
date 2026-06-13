@@ -9,6 +9,7 @@ latitude: 22.3903
 longitude: 105.6333
 sources:
   - https://en.wikipedia.org/wiki/Ba_B%E1%BB%83_National_Park
+score: 8.1
 ---
 
 Puong Cave is the most dramatic stop on the standard boat circuit. The Nang River flows directly through the cave — your boat enters at one end and exits at the other, a passage of several hundred metres in near-total darkness. Tens of thousands of bats roost in the ceiling, and the noise and smell as the boat moves through is something between arresting and overwhelming. It is best visited in the late afternoon when the bats are preparing to emerge.

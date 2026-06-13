@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.86
 longitude: -1.32
+score: 7.9
 ---
 
 The Lalla Setti plateau rises about three hundred metres above the medina to the south, named after a female saint whose modest shrine sits on the cliff edge. A cable car runs up from the city, and at the top there is a small esplanade, a few cafes serving mint tea, and the famous panorama: the whole of Tlemcen laid out below, the minarets of the medina, the ruins of Mansourah to the west, and on a clear day the snow-capped Atlas mountains in the distance.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 30.3178
 longitude: -81.6831
+score: 6.1
 ---
 
 Jacksonville's craft beer scene has grown considerably over the past decade, with a dozen or more local breweries now operating across the city. Bold City Brewery in Riverside was the pioneer; subsequent arrivals include Intuition Ale Works (on the Northbank, near the stadium), Zeta Brewing (in San Marco), and Engine 15 Brewing (with a taproom in Jacksonville Beach).

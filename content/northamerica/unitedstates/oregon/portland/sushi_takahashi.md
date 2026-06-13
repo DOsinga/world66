@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sushi Takahashi
 type: poi
+score: 4.9
 ---
 
 A conveyor-belt sushi spot in downtown Portland near Burnside. The format keeps things moving and prices low — you grab what looks good as it passes by, and the color of each plate determines the price. Quality is decent for the format, with reliable standards like salmon nigiri and California rolls alongside a few more adventurous options. Good for a quick, casual lunch when you don't want to wait for a table elsewhere.

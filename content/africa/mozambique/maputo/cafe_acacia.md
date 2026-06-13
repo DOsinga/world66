@@ -11,6 +11,7 @@ tags:
   - polana
   - cafe
 neighbourhood: Polana
+score: 6.0
 ---
 
 **Café Acácia** is the kind of daytime café Maputo could use more of — bright, clean, with reliable wifi, decent espresso, fresh juice, salads, sandwiches and a small list of Portuguese pastries. The courtyard at the back, shaded by an acacia tree, is the spot to ask for. It is a useful workspace in the morning and a popular spot for the city's freelance journalists and NGO workers.

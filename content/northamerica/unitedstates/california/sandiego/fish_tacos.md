@@ -15,6 +15,7 @@ story: >
   chain popularised the format citywide. The original cart vendor, Carlos Morales, eventually
   moved to San Diego himself. The dish is now so identified with the city that bad fish tacos are
   treated as a civic embarrassment.
+score: 7.8
 ---
 
 The fish taco is San Diego's signature dish, and the gap between a good one and a bad one is large enough to matter. The basic format is beer-battered white fish (typically cod or mahi-mahi), fried until crisp, served in two corn tortillas with shredded cabbage, white crema or mayonnaise, pico de gallo, and a squeeze of lime. Variations exist — grilled fish, baja-style with salsa verde, Ensenada-style with chipotle — but the battered and fried version is the reference.

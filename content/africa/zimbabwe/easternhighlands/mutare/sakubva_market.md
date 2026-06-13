@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -18.9747
 longitude: 32.6714
+score: 9.8
 ---
 
 The Sakubva market near the main bus terminus is where Mutare goes about its daily business. The main section sells fresh produce, household goods, and street food; a section at the edge of the market specialises in Shona stone carvings and wooden items. The carvings here are generally less expensive and less polished than those sold at tourist outlets in Harare or Victoria Falls, which means you can find authentic work at reasonable prices.

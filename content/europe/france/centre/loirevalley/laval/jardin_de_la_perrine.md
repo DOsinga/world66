@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - garden
+score: 7.1
 ---
 
 The Jardin de la Perrine sits on a terrace above the right bank of the Mayenne, with formal flower beds, an old orangery, and views down to the river. It is the town's main public park, much-loved by locals on summer afternoons, and contains the grave of Henri Rousseau, brought back from Paris in 1947.

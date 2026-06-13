@@ -8,6 +8,7 @@ latitude: 38.2823
 longitude: -122.6812
 story: >
   The collection was certified by Guinness World Records as the world's largest privately held Star Wars memorabilia collection, with more than 500,000 items. Owner Steve Sansweet began collecting Star Wars merchandise when the original film came out in 1977 and worked for Lucasfilm for years. The barn that houses the collection was converted to a museum around 2014 and is open to guided tours by advance reservation only.
+score: 7.4
 ---
 
 Rancho Obi-Wan is a Star Wars memorabilia museum unlike anything else. Housed in a large converted barn on a ranch north of Petaluma, it contains more than 500,000 Star Wars-related items — action figures, costumes, props, posters, toys, and merchandise from across the entire franchise going back to the first film in 1977. Guinness World Records has certified it as the largest privately held collection of Star Wars memorabilia in the world.

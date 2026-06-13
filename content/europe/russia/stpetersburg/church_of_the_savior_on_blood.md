@@ -14,6 +14,7 @@ story: >
   cobblestones and railing where the tsar bled to death has been preserved and incorporated under
   the canopy of the high altar. The church was used as a vegetable warehouse during the Soviet era
   before being painstakingly restored.
+score: 9.3
 ---
 
 The Church of the Savior on Spilled Blood is the photograph of St Petersburg you have already seen: onion domes in patterned tile, polychrome facades, and gilded crosses rising over the Griboedov Canal at the spot where Tsar Alexander II was assassinated. Built between 1883 and 1907 in a deliberately Russian Revival style — a defiance of the European baroque and neoclassicism that dominate the rest of the city — it looks much closer to the cathedrals of Moscow's Red Square than to anything else in St Petersburg.

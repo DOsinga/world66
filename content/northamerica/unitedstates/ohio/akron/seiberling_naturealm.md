@@ -9,6 +9,7 @@ tags:
 latitude: 41.1235
 longitude: -81.5798
 address: 1828 Smith Road
+score: 6.4
 ---
 
 The Naturealm is a 100-acre Metro Park on Akron's west side, given to the city by Goodyear co-founder F.A. Seiberling (the same Seiberling whose Stan Hywet estate is a kilometre east). The park is laid out as a series of looping interpretive trails through hardwood forest, around three small lakes, and past a butterfly garden — the longest loop is about three miles, the shortest under a kilometre.

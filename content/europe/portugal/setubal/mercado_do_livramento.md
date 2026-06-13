@@ -9,6 +9,7 @@ tags:
   - market
   - sight
 story: "Anthony Bourdain visited in 2012 and called it one of the best fish markets in the world — a verdict that has stuck on every promotional poster in town."
+score: 8.4
 ---
 
 Setúbal's central market is the engine room of the city. The fish hall along the back wall is what people come for: dozens of stalls of sole, bream, octopus, sardines, swordfish, and the local choco (cuttlefish), much of it landed that morning at the port across the road. Tiled panels of azulejos along the walls show fishing scenes.

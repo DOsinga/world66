@@ -6,6 +6,7 @@ latitude: 34.6678
 longitude: 133.9350
 story: >
   Korakuen was designed as a strolling garden for the daimyo, not as a single framed view. Its lawns, ponds, tea fields, cranes, and borrowed castle backdrop reveal themselves as you move, which is why rushing through misses the point.
+score: 9.1
 ---
 
 Korakuen is one of Japan's three celebrated landscape gardens and the main reason to linger in Okayama. It spreads out in broad lawns and water, with tea houses, groves, bridges, and framed views of the castle.

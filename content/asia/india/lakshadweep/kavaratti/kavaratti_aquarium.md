@@ -8,6 +8,7 @@ latitude: 10.5655
 longitude: 72.6390
 story: >
   The aquarium is managed by the Central Marine Fisheries Research Institute, which has maintained a research station on Kavaratti since the 1980s studying the ecology of the Lakshadweep reefs. The institute's work contributed to the decision to ban fishing with nets in the lagoons — a rare conservation success that has kept the near-shore reef ecosystem in unusually good health.
+score: 6.2
 ---
 
 The Kavaratti Aquarium is a small but well-maintained marine aquarium displaying the fish and invertebrates of the local coral reef ecosystem. The collection includes several species of reef fish, sea turtles, and coral specimens, presented in tanks that aim to replicate natural reef conditions.

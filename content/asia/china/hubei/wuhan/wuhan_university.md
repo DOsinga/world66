@@ -9,6 +9,7 @@ tags:
   - wuchang
 neighbourhood: Wuchang
 story: "Wuhan University's annual cherry-blossom week draws nearly half a million visitors over a few weeks each spring, and is so popular that the university now charges an entry fee in season and limits ticket numbers — an unusual arrangement for a Chinese public university."
+score: 8.7
 ---
 
 Wuhan University is the oldest and most beautiful campus in central China. Founded in 1893 as the Ziqiang Institute and rebuilt on its current site at Luojia Hill in the 1930s, the campus mixes Chinese palace architecture with American campus planning: yellow-tiled roofs over Western academic buildings, cedars and pines on the slopes, and views down to East Lake.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: University of Dar es Salaam
 type: poi
+score: 7.0
 ---
 
 The University of Dar es Salaam was founded in 1961 as a college of the short-lived University of East Africa and became Tanzania's flagship institution at independence. The campus sits on Observation Hill, west of the centre — a 1960s tropical-modernist design of low concrete pavilions on stilts, deep verandahs, and large open lawns under jacaranda trees. Julius Nyerere's office while he was Chancellor is preserved on the main quadrangle.

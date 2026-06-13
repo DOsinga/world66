@@ -8,6 +8,7 @@ tags:
 - nature
 title: Breckenridge Nordic Center
 type: poi
+score: 6.5
 ---
 
 Breckenridge Nordic Center gives Breckenridge some of its range beyond the usual resort-town formula. It is close enough to town to fit into a short visit, but it rewards a little patience, especially when weather, altitude, or ski-season crowds slow things down.

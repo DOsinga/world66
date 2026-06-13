@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Cathedral-sized restaurant in a former dock pumphouse on the Eilandje
+score: 6.3
 ---
 
 Antwerp's most spectacular dining room — a vast 19th-century brick pumphouse on the north docks, converted to a restaurant in 2002 without losing the original cast-iron pumps and overhead gantries. The space is the size of a small church, with a single long bar running down one side.

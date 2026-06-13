@@ -7,6 +7,7 @@ longitude: -117.1828
 tags:
   - bars_and_cafes
   - bar
+score: 5.3
 ---
 
 The Royal Falconer is the English-style pub on Orange Street — dark wood, decent draught list (a rotating selection of West Coast IPAs alongside a few mainstream UK imports), a kitchen that does fish and chips and a respectable shepherd's pie. The atmosphere is louder than the British shtick would suggest, especially on weekend evenings.

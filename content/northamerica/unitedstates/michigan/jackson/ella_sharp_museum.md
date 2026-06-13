@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "History museum and farmhouse complex preserving Jackson's rural past"
+score: 7.2
 ---
 
 The Ella Sharp Museum complex occupies the farm of Ella Wing Sharp, who left her estate to the city of Jackson in 1912. The original 1850s farmhouse — the **Merriman-Sharp Farmhouse** — has been preserved with its 19th-century furnishings, and the grounds have been built up over the years with a one-room schoolhouse, a Victorian-era log cabin, a country store, and a print shop, all relocated from elsewhere in Jackson County.

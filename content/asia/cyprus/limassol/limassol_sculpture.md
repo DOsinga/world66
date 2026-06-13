@@ -6,6 +6,7 @@ tags:
   - sight
 title: Limassol Sculpture Park
 type: poi
+score: 6.8
 ---
 
 The Limassol Sculpture Park stretches along the seafront promenade and is the only outdoor sculpture park of its kind in Cyprus. The collection was created between 1999 and 2001 during three international sculpture symposia, bringing together artists from across Europe and Cyprus to work directly on site. The result is twenty large-scale works in stone, metal, and other materials, integrated into the coastal landscape.

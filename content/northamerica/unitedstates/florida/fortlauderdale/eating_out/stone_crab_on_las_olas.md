@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 26.1193
 longitude: -80.1330
+score: 5.9
 ---
 
 Stone crab claws are the defining Fort Lauderdale seasonal dish, available from October through May, and Las Olas Boulevard is the right address for them. Several seafood restaurants along this strip serve the claws chilled, cracked at the table, with a mustard dipping sauce — the traditional and correct preparation. The claws are meaty and sweet, a bit like lobster but denser, and a plate of them with a cold white wine is an entirely satisfying lunch. The harvest is sustainable: fishermen remove one claw and return the crab to the water, where it regenerates.

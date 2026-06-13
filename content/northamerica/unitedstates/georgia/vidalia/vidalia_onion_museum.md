@@ -13,6 +13,7 @@ story: >
   can eat a slice raw without tearing up. The town takes this seriously enough
   to have a museum, a mascot called "Yumion," and an annual festival that draws
   tens of thousands of visitors.
+score: 6.8
 ---
 
 The Vidalia Onion Museum tells the story of how a single agricultural quirk turned a small Georgia city into a nationally recognised brand. Exhibits cover the geology and chemistry behind the onion's unusual sweetness — a low-sulfur content in the local soil that makes Vidalia onions milder than any other variety — as well as the history of commercial farming in Toombs County and the legal battles that led to federal protection of the name.

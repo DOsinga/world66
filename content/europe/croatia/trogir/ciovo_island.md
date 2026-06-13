@@ -9,6 +9,7 @@ latitude: 43.50000
 longitude: 16.28333
 sources:
   - https://en.wikipedia.org/wiki/%C4%8Ciovo
+score: 7.4
 ---
 
 Čiovo island is connected to Trogir's old town by a road bridge and stretches 15km eastward into the Adriatic. It is largely residential and agricultural, with villages of old stone houses, olive groves, and a string of rocky coves along the southern shore. The northern coast faces toward Trogir and Split; the southern coast faces open sea and has cleaner water.

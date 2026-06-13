@@ -7,6 +7,7 @@ tags:
   - sight
 title: Lautersee
 type: poi
+score: 7.5
 ---
 
 A small alpine lake set in pine forest about half an hour's walk from the centre of Mittenwald. The water is clear and cold, deep enough to swim in during the warmer summer months, and the path round it (about 2 km) is an easy walk suitable for families. There is a small lakeside restaurant for coffee and Kaiserschmarrn.

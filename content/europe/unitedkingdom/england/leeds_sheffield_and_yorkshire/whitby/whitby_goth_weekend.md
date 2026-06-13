@@ -6,6 +6,7 @@ tags: [things_to_do, festival]
 latitude: 54.4860
 longitude: -0.6155
 story: "The Goth Weekend was started in 1994 by a single Bram Stoker fan and quickly grew into one of the largest goth gatherings in the world, partly because Whitby's narrow alleys and clifftop ruins look like the setting for the festival's own publicity."
+score: 6.5
 ---
 
 Twice a year, in late April and around Halloween, the Whitby Goth Weekend turns the harbour town into a parade of velvet capes, top hats, fake fangs, and Victorian mourning dress. The festival started in 1994 around the Dracula connection and has since grown to dominate the spring and autumn shoulder season.

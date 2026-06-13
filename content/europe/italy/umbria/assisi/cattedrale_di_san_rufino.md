@@ -9,6 +9,7 @@ tags:
 latitude: 43.0703
 longitude: 12.6175
 story: "Both St. Francis and St. Clare were baptised in the font that still stands in the cathedral's south aisle. Even today the cathedral is the official mother church of Assisi rather than the more famous Basilica di San Francesco."
+score: 8.0
 ---
 
 The cathedral, dedicated to Assisi's third-century patron Saint Rufinus, sits on a quiet square slightly removed from the tourist routes. Its 13th-century Romanesque facade, with three rose windows and a row of grotesque carved figures, is one of the finest in Umbria — and arguably more handsome than San Francesco's plainer front.

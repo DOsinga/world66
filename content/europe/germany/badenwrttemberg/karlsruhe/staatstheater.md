@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 49.004019
 longitude: 8.406086
+score: 6.5
 ---
 
 The Baden State Theatre is one of the larger opera and theatre complexes in Germany, with a main hall, studio theatre, and small drama venue sharing a sprawling building in the heart of the city. The theatre has a strong reputation for opera, with a full season running from September to June; the ballet company is one of the more respected in south Germany.

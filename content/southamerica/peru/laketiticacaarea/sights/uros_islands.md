@@ -7,6 +7,7 @@ tags:
 - sight
 title: Uros Islands
 type: poi
+score: 6.7
 ---
 
 The Uros Islands are a cluster of around 70 man-made floating islands in Lake Titicaca, about 30 minutes by boat from Puno. They are built from layers of totora reed that grows in the shallows; the bottom rots continuously, so islanders keep adding fresh layers on top. Stand on one and it shifts slightly underfoot.

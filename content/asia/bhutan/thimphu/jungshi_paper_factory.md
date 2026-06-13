@@ -12,6 +12,7 @@ tags:
 - sight
 title: Jungshi Handmade Paper Factory
 type: poi
+score: 7.0
 ---
 
 A small factory in southern Thimphu where artisans make traditional Bhutanese paper by hand from Daphne bark. The production process is visible to visitors — bark is boiled, beaten, and spread in frames to dry in sheets. The workshop sells finished paper products: notebooks, greeting cards, lampshades, and large sheets of the distinctive textured paper. It's a good place to buy something genuinely made in Bhutan rather than imported from Nepal. The factory is a 15-minute walk or short drive from the town centre.

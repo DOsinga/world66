@@ -16,6 +16,7 @@ tags:
 - architecture
 title: Fontaine d'Amboise
 type: poi
+score: 6.2
 ---
 
 The Fontaine d'Amboise stands in Place Olympe-de-Gouges in the old town of Clermont, a few minutes' walk from the cathedral. Built around 1515, it is the oldest surviving monument in the city's medieval core and a rare example of early French Renaissance stonework in the dark volcanic Volvic stone that gives Clermont its distinctive character. The shaft is decorated with Gothic tracery at the base and Renaissance medallions higher up — a mix of styles that reflects the transitional moment in which it was built. It is classified as a monument historique.

@@ -17,6 +17,7 @@ tags:
 - landmark
 title: Cappella Palatina
 type: poi
+score: 9.7
 ---
 
 The private chapel of the Norman kings, built by Roger II in 1130 inside the Palazzo dei Normanni, and one of the most astonishing interiors in Europe. Every surface is covered: Byzantine gold mosaics on the walls and apse, a marble floor, and the extraordinary painted muqarnas ceiling — Islamic in form, secular in subject matter — covering the nave. The combination of three artistic traditions in a single small room, all working at the highest level, is without parallel.

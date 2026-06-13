@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.8775
 longitude: 131.2613
+score: 5.4
 ---
 
 A simple rumah makan in the centre of Sorong serving grilled and fried fish, sambal, water spinach, and rice. The fish is fresh — picked from a display at the front — and the sambal is genuinely fiery, which is unusual for a town that gets a lot of Javanese travellers passing through.

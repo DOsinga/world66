@@ -10,6 +10,7 @@ tags:
 title: Shilin Night Market
 type: poi
 story: "Stinky tofu — fermented bean curd that smells assertively of damp socks and tastes considerably better than it smells — is the night market's signature snack, and Shilin claims to have invented several of its varieties. The smell carries on the wind a block away from the market."
+score: 7.4
 ---
 
 Shilin is the largest and best-known of Taipei's many night markets — a couple of blocks of covered food courts and surrounding warren of alleys, packed every evening with a cheerful, jostling crowd. It is unapologetically touristy now, but the food is still good, the atmosphere remains genuinely Taiwanese, and even regular visitors find something to come back for.

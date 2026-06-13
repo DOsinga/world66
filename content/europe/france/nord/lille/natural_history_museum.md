@@ -7,6 +7,7 @@ tags:
 latitude: 50.629
 longitude: 3.074
 snippet: Enormous Victorian taxidermy collection with skeletons, fossils, and preserved specimens from around the world
+score: 7.5
 ---
 
 The Muséum d'Histoire Naturelle de Lille is one of those places that feels like it has barely changed since the 1890s — and largely hasn't. The main halls contain an extraordinary collection of taxidermied animals arranged in old-fashioned glass cases, thousands of insect specimens pinned in drawers, whale skeletons hanging from the ceiling, and geological specimens filling wall-to-wall display cabinets in the manner of a Victorian cabinet of curiosities. It is eccentric, educational, and far more interesting than the typical modern natural history museum experience.

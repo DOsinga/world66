@@ -8,6 +8,7 @@ tags:
 - sight
 title: Adelaide Oval
 type: poi
+score: 8.4
 ---
 
 Adelaide Oval is widely considered the most beautiful cricket ground in Australia, possibly in the world. The setting is extraordinary — the heritage scoreboard dating from 1911 stands at one end, and a row of enormous Moreton Bay fig trees lines the eastern hill, their canopies providing shade that no modern stadium can replicate. The River Torrens and the parklands frame the whole picture.

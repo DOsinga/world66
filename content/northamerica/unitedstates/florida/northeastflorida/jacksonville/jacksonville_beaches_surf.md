@@ -7,6 +7,7 @@ tags:
   - jacksonville_beach
 latitude: 30.2779
 longitude: -81.3994
+score: 7.7
 ---
 
 The Jacksonville Beaches — Atlantic Beach, Neptune Beach, and Jacksonville Beach — have some of the most consistent surf in Florida, particularly in the autumn months when tropical systems push swells up the coast. The break is beach break throughout, with waves generally in the 1–4 foot range. It is not Oahu, but it is real surf, and the local surfing culture is genuine rather than affected.

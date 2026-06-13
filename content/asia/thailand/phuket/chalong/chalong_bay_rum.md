@@ -13,6 +13,7 @@ story: >
   to molasses-based Caribbean rum, which is unusual in Southeast Asia.
 sources:
   - https://chalongbayrum.com
+score: 7.1
 ---
 
 Chalong Bay Rum is a small craft distillery in Chalong, producing rum from locally grown sugarcane rather than imported molasses. Tours of the distillery run daily and take about an hour, covering the pressing, fermentation, and distillation process, and ending with a tasting of the different expressions. The setup is compact and hands-on — this is not a big commercial operation, and the tour guides know the process in detail.

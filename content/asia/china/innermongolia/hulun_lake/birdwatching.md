@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 48.9000
 longitude: 117.5000
+score: 8.7
 ---
 
 Hulun Lake is one of the premier birdwatching destinations in northern China. The combination of open water, extensive reed beds, shallow margins, and surrounding grassland creates a diversity of habitats that supports an extraordinary list of species. During the breeding season (late May to July), the lake supports large colonies of great white pelican, Dalmatian pelican, black-headed gull, common tern, and multiple species of grebe. The reed beds hold bitterns, bearded reedlings, and several warbler species.

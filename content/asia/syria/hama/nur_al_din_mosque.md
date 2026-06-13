@@ -6,6 +6,7 @@ longitude: 36.7525
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The Nur al-Din Mosque is a 12th-century Zengid-era mosque named after Nur ad-Din Zengi, the sultan who united Muslim Syria against the Crusaders and laid the political groundwork for Saladin's later campaigns. Nur ad-Din was a prodigious builder — he endowed mosques, hospitals, and law colleges across Syria as part of a deliberate policy of religious legitimation, and structures bearing his name survive in Damascus, Aleppo, and several smaller Syrian cities. The Hama mosque is among the better-preserved examples.

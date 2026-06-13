@@ -8,6 +8,7 @@ tags:
 - sight
 title: Capo Caccia
 type: poi
+score: 8.5
 ---
 
 Capo Caccia is the dramatic limestone headland that closes the bay of Alghero on its western side — twenty-four kilometres of cliffs that fall vertically two hundred metres into the sea. The lighthouse at the cape is one of the highest in the Mediterranean. The whole headland is part of the Porto Conte regional park, with trails through maritime pine, juniper, and the typical Sardinian *macchia*.

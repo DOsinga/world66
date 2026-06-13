@@ -14,6 +14,7 @@ story: >
   breaking on the wheel. He kept a meticulous diary recording every execution
   in clinical detail. The diary survived and was published; it remains one of
   the most unsettling documents of early modern urban life.
+score: 6.8
 ---
 
 The Henkerhaus is a small house on the Trödelmarkt bridge over the Pegnitz River, once the official residence of Nuremberg's city executioner. In the Middle Ages and Renaissance, executioners were legally necessary but socially stigmatised — they lived apart from the town, on the bridge, neither in the city nor outside it. The house is now a museum displaying instruments of torture and punishment used in medieval Nuremberg.

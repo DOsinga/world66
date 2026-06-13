@@ -8,6 +8,7 @@ tags:
 - centro
 title: Avenida Yaxchilán
 type: poi
+score: 6.3
 ---
 
 The main eating and drinking street downtown, running parallel to Avenida Tulum a block to the west. The strip is lined with mid-range and inexpensive restaurants — Yucatecan, Argentine steakhouse, Italian, Lebanese, taquerías — and a steady run of bars and clubs that fill up with the local 20s-and-30s crowd from around 10 p.m. Saturday nights.

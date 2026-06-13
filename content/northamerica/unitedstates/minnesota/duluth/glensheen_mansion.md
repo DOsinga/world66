@@ -11,6 +11,7 @@ story: >
   In June 1977, the mansion was the scene of a double murder: Elisabeth Congdon, the daughter of the estate's builder, and her nurse were killed. Congdon's adopted daughter Marjorie and her husband were eventually tried for the crime in one of Minnesota's most sensational trials. Marjorie was acquitted; her husband was convicted and later pardoned. The case has never been fully resolved to everyone's satisfaction.
 sources:
   - https://en.wikipedia.org/wiki/Glensheen_Historic_Estate
+score: 8.8
 ---
 
 Glensheen, on the shore of Lake Superior about three kilometres from downtown, is a 39-room Jacobean Revival mansion completed in 1908 for Chester Congdon, a mining and real estate magnate who made his fortune from the Iron Range. The estate stretches down to the lake shore across manicured grounds, and the house is an extraordinary time capsule — furnished as it was when the Congdon family lived in it, with original Arts and Crafts woodwork, period furniture, and extensive servant quarters.

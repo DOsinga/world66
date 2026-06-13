@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5706
 longitude: -5.3704
+score: 7.6
 ---
 
 A small but rewarding museum on Avenue al-Jazaer, in the Spanish quarter. The collection focuses on finds from the nearby Roman site of Tamuda and from coastal settlements along the Strait of Gibraltar. The highlight is a series of well-preserved mosaics, including Bacchus, the Three Graces, and a striking marine scene from Lixus.

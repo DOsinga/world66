@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.3300
 longitude: -51.1750
+score: 7.1
 ---
 
 The Lago Igapó is an artificial lake in the southern part of Londrina, created in 1959, surrounded by parkland that has become the main outdoor recreational space for the city. The lake and its parks are where residents jog, cycle, and picnic; pedal boats and kayaks are available for hire on weekends.

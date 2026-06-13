@@ -16,6 +16,7 @@ story: >
   the 1st or 2nd century CE. The fourteen surviving Corinthian columns escaped
   demolition in the Middle Ages because the temple was used as a slaughterhouse,
   its thick walls and elevated position making it convenient for the purpose.
+score: 9.1
 ---
 
 The Roman Temple of Évora is the best-preserved Roman structure in Portugal and one of the finest on the Iberian Peninsula. Fourteen of the original columns still stand on their granite podium in the centre of the old town, their Corinthian capitals intact after nearly two thousand years. The temple's survival is unusual: most Roman buildings in Portugal were systematically dismantled for building material in the centuries after the Empire's collapse.

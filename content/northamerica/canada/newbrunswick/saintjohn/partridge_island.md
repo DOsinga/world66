@@ -10,6 +10,7 @@ longitude: -66.0614
 snippet: Quarantine island where thousands of Irish famine immigrants were processed and many died
 story: >
   During the famine migration of 1847, over 16,000 Irish immigrants passed through Partridge Island in a single summer — a number that overwhelmed the island's quarantine facilities entirely. Hundreds died on the island and were buried in mass graves that are still there. The doctor in charge, James Douglas, worked without pause for months and contracted typhus himself. He survived, but the scale of suffering he witnessed broke him; he spent the rest of his career trying to improve quarantine conditions across the British Empire.
+score: 6.5
 ---
 
 Partridge Island sits in the outer harbour of Saint John, a small rocky outcrop that served as the quarantine station for immigrants arriving in New Brunswick from 1785 until 1942. For the thousands of Irish immigrants fleeing the Great Famine of the 1840s, Partridge Island was the last stop before landing — or in some cases, the last place they ever saw.

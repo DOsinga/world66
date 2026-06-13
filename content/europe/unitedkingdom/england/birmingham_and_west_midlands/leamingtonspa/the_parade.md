@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood, sight]
 latitude: 52.2913
 longitude: -1.5355
+score: 7.8
 ---
 
 The Parade is the main street and the social spine of Leamington Spa. Wide, tree-lined, and flanked by stucco-fronted Regency buildings, it has an air that is slightly grander than most English high streets. The architecture is the attraction as much as the shops — the uniform white Georgian facades were built quickly in the 1810s and 1820s as wealthy visitors flooded in to take the waters.

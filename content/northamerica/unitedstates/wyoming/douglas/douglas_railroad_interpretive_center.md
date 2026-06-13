@@ -8,6 +8,7 @@ latitude: 42.7589
 longitude: -105.3875
 sources:
   - https://en.wikipedia.org/wiki/Douglas_station_(Wyoming)
+score: 6.9
 ---
 
 The 1886 Fremont, Elkhorn and Missouri Valley Railroad depot that anchors this small museum is the building that created Douglas. The railroad arrived on August 26, 1886, and the town followed almost immediately — within weeks of the tracks reaching this point on the North Platte, lots were being platted and buildings were going up. The depot itself, a modest wooden structure, stayed in continuous use until the 1950s when the Chicago and Northwestern Railway closed it.

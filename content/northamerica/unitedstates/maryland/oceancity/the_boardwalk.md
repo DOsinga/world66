@@ -8,6 +8,7 @@ latitude: 38.336
 longitude: -75.083
 story: >
   Ocean City's boardwalk was first laid in 1902 — it had to be taken up each winter to protect it from storms and reassembled in spring. This went on until 1910, when a permanent structure replaced the seasonal one. The original stretch was just a few blocks; today it runs three miles from the inlet to 27th Street.
+score: 8.4
 ---
 
 Ocean City's three-mile boardwalk is the heart of the resort — a wide wooden walkway running along the oceanfront from the inlet at the southern tip to 27th Street. It dates to 1902, though the current structure is far sturdier than the original planks that had to be dismantled each winter. Bikes and surreys can be rented to ride along it; the ban on motor vehicles keeps the pace pleasant.

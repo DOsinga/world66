@@ -6,6 +6,7 @@ tags:
 - sight
 title: St. Mary's Basilica
 type: poi
+score: 7.1
 ---
 
 St. Mary's Basilica in Shivajinagar is the oldest church in Bangalore, with origins going back to 1818. It was elevated to the status of minor basilica in 1973, one of only about twenty such churches in India. The neo-Gothic facade, built in the late 19th century, is striking for a city that came to its colonial architecture relatively late — twin towers, pointed arches, and a long nave that stays cool even when the streets outside are sweltering.

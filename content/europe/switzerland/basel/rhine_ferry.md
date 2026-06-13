@@ -10,6 +10,7 @@ story: >
   The four ferries operating between Grossbasel and Kleinbasel are powered by nothing but the Rhine current. Each boat is attached to a cable strung across the river; the ferryman angles the hull against the flow, and the water does the rest. The system has worked this way since the 14th century.
 sources:
   - https://en.wikipedia.org/wiki/Rhine_ferries_(Basel)
+score: 7.7
 ---
 
 Basel has four small wooden ferries that cross the Rhine using only the river's current for power — no engine, no paddles. The ferryman angu the boat at an angle to the cable strung across the water and the current pushes it across. It costs almost nothing, takes about two minutes, and is one of the most pleasant ways to switch between the two halves of the city.

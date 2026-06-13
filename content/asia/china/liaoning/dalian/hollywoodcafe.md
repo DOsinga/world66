@@ -11,6 +11,7 @@ tags:
 - bar
 title: Hollywood Cafe
 type: poi
+score: 5.2
 ---
 
 Lively venue modelled on the Hard Rock Cafe format, with live music from Mix Company nightly from 7pm to 1am. Good energy on weekends.

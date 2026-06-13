@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 42.8786
 longitude: -8.5444
+score: 7.2
 ---
 
 The Rúa do Franco is Santiago's most concentrated eating and drinking street — a narrow granite lane running south from the Cathedral, lined on both sides with restaurants, tapas bars, and wine shops. It is lively from midday until late, packed in summer, and best visited hungry with no fixed plan.

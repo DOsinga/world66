@@ -8,6 +8,7 @@ tags:
 latitude: 17.1517
 longitude: -62.6272
 snippet: A long stretch of calm Caribbean beach with a scattering of beach bars, backed by coconut palms
+score: 7.4
 ---
 
 Pinney's Beach is the main beach on Nevis, a several-kilometre crescent of pale sand running along the western leeward coast north of Charlestown. The beach faces calm Caribbean water and is shaded by coconut palms for most of its length. It's never crowded. A few low-key beach bars and the Four Seasons resort mark the southern section; further north the beach becomes progressively emptier.

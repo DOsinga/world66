@@ -7,6 +7,7 @@ tags:
 latitude: 44.8382
 longitude: -0.5781
 snippet: The city-centre covered market in the 1930s Victor Hugo hall, with upstairs restaurants
+score: 7.1
 ---
 
 Marché Victor Hugo is the principal covered food market of Bordeaux's city centre, housed in a 1930s market hall on the Place du Docteur Peyrelongue. The ground floor is the market itself: fish, meat, cheese, charcuterie, and vegetables. The upper floor has a ring of restaurants that cook directly from the market stalls below — simple, seasonal, at fair prices.

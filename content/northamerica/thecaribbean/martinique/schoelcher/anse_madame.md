@@ -6,6 +6,7 @@ longitude: -61.0917
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Anse Madame is the small bay at the centre of Schoelcher, curving around a calm stretch of Caribbean water with views across the bay toward Fort-de-France. The beach is narrow but well-kept, backed by coconut palms and a waterfront promenade with a few cafes and snack stalls. On weekends it fills with Martinicans from the capital; on weekday mornings it is nearly empty.

@@ -7,6 +7,7 @@ tags:
 latitude: -4.3015
 longitude: 15.2995
 snippet: The DRC's national museum, holding one of Central Africa's finest collections of traditional art
+score: 8.6
 ---
 
 The Musée National de Kinshasa holds the country's most important collection of traditional Congolese art and cultural objects. Masks, ceremonial statues, musical instruments, and everyday objects from dozens of ethnic groups across the vast territory of the DRC are represented here, many from communities that are rarely covered by any other institution. For anyone trying to understand the cultural depth behind the chaos of the city outside, this is the essential first stop.

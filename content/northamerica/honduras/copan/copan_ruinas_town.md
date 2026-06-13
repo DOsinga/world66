@@ -8,6 +8,7 @@ latitude: 14.8333
 longitude: -89.1500
 story: >
   Copán Ruinas has managed something rare among Central American archaeological gateway towns: it has a genuine character of its own, not just hotels and tour operators aimed at site visitors. The colonial layout, the maintained central park with its white church, and the mix of local families and travellers give it an unusually pleasant atmosphere. The town became a model for how tourism could benefit a remote community sustainably, and it has been studied as a case in responsible heritage tourism development.
+score: 7.6
 ---
 
 The town of Copán Ruinas, a kilometre from the archaeological site, is one of the most pleasant small towns in Honduras. The cobblestone streets, the central park with its colonial church, and the concentration of good restaurants and guesthouses make it a comfortable base for exploring the ruins. The scale is small — everything is walkable — and the pace is relaxed.

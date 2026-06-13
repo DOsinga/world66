@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 13.0211
 longitude: -61.2197
 story: "The sanctuary was started in 1995 by Orton 'Brother' King, a former diver and fisherman who had grown alarmed at the steep decline in hawksbill numbers around Bequia. He raised the first turtles in his back garden. By the time he died in 2019 he had released more than 1,000 hatchlings back to sea."
+score: 7.0
 ---
 
 The Old Hegg Turtle Sanctuary in the north of the island is a small, lovingly run rescue and breeding centre for hawksbill turtles — one of the world's most endangered sea-turtle species. Hatchlings are raised in tanks for three to five years until they reach a size that gives them a real chance of survival, and then released into the sea off Bequia's reefs.

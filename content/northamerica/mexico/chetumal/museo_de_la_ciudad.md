@@ -6,6 +6,7 @@ longitude: -88.2935
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 A small but well-curated museum dedicated to Chetumal itself — its founding as a frontier outpost in 1898, the chicle and timber trades that built its wealth, the devastating hurricane of 1955, the rebuild as the new state capital. Old photographs, models and the personal effects of early residents fill three rooms in a restored wooden house that survived the storm.

@@ -8,6 +8,7 @@ tags:
 - lake
 - nature
 story: The lake is called "Crocodile Lake" colloquially because of its shape — seen from above, it resembles a crocodile. Despite the name, the freshwater crocodiles that originally inhabited it are long gone. The lake occupies a volcanic maar — a shallow crater formed by a phreatic (steam-driven) volcanic explosion — and is one of several volcanic features in the landscape between Los Baños and Mount Makiling.
+score: 7.0
 ---
 
 Tadlac Lake, also known as Crocodile Lake, is a small freshwater volcanic maar lake in Barangay Tadlac on the western edge of Los Baños. The lake is set in a quiet, rural area at the foot of the Mount Makiling forest reserve. The shoreline is accessible for fishing, birdwatching, and kayaking — the calm water and forest edge make it a good spot for waterbirds including kingfishers, herons, and ducks.

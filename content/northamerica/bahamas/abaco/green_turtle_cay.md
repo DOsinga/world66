@@ -9,6 +9,7 @@ latitude: 26.7667
 longitude: -77.3167
 sources:
   - https://en.wikipedia.org/wiki/Green_Turtle_Cay
+score: 8.3
 ---
 
 Green Turtle Cay is the northernmost of the settled barrier cays and arguably the most atmospheric. The main village, New Plymouth, was founded by American loyalists in the 1780s and has retained its character better than most places in the Bahamas: a tight grid of narrow lanes, white clapboard houses, and a small central square shaded by palms.

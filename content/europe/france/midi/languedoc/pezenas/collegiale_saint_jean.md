@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4608
 longitude: 3.4220
+score: 7.0
 ---
 
 The Collégiale Saint-Jean is an 18th-century church built on a scale that reminds you Pézenas was once genuinely important — a royal administrative center and seat of the Estates of Languedoc. The interior is high and cool and contains a notable pipe organ, one of the better instruments in the region, which you will hear during services and occasional concerts. Worth stepping inside even if you are not a church enthusiast.

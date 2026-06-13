@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 'A 2.8-mile loop trail through the battlefield and along the Tallapoosa River bluffs.'
+score: 6.5
 ---
 
 The nature trail loops through the woods and along the river bluffs inside Horseshoe Bend National Military Park, offering a closer look at the terrain than you get from the driving tour. The path is mostly flat with a few gentle rises, passing through mixed pine and hardwood forest before emerging at overlooks above the Tallapoosa River. In spring, wildflowers carpet the understory, and you might spot deer, wild turkey, or the occasional hawk riding thermals above the river.

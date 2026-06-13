@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2624
 longitude: 79.2162
+score: 7.6
 ---
 
 Karanprayag is one of the main gateways for the Pindari Glacier trek, one of the classic Kumaon Himalaya routes. The glacier sits at around 3,660 metres in the Nanda Devi Biosphere Reserve, and the standard trek takes five to six days from the roadhead at Song or Loharkhet (both accessible from Bageshwar, south of Karanprayag). The route passes through dense forests of oak, rhododendron, and pine before reaching the high alpine meadows below the glacier.

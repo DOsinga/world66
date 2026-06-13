@@ -8,6 +8,7 @@ tags:
 - brewery
 title: Half Moon Bay Brewing Company
 type: poi
+score: 6.0
 ---
 
 The harbour's brewery has been in business since 2000 and is the most reliable evening hang on the coast. The dining room is plain, but the outdoor patio — heated, with a big firepit and string lights, overlooking the boats — is one of the better places in the Bay Area to spend a cool foggy evening. The Mavericks Amber Ale is the flagship and an honest mid-weight beer; the IPA range is solid; they brew a seasonal Pumpkin Harvest Ale that comes out in time for the October festival.

@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 7.3622
 longitude: -8.7061
+score: 6.2
 ---
 
 The central market in Sanniquellie is small but busy, especially on the main market days when farmers from the surrounding Mano and Gio villages come in to sell rice, cassava, palm oil, smoked meat from the nearby forest, and the local vegetables. It is also a good place to see Nimba-style basketry and the occasional carved mask offered for sale — though serious mask-buyers should be cautious about provenance and authenticity.

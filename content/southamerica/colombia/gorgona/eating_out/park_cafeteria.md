@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 2.9698
 longitude: -78.1835
+score: 3.8
 ---
 
 The park cafeteria is the only place to eat on the island, and it operates on its own terms. Breakfast, lunch, and dinner are served at fixed hours; arrive late and you miss the meal. The food is simple Colombian cooking — rice, beans, chicken or fish, a vegetable or two — prepared in bulk and served without ceremony. Nobody comes to Gorgona for the food, and the cafeteria does not try to be more than what it is.

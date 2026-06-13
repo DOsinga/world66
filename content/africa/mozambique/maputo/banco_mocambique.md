@@ -10,6 +10,7 @@ tags:
   - baixa
   - architecture
 neighbourhood: Baixa
+score: 6.5
 ---
 
 The **Banco de Moçambique** central bank headquarters dominates the southern end of the Baixa skyline — twin glass-and-steel towers of 38 storeys, the tallest buildings in the country when the second tower opened in the early 2020s. The complex includes the central bank's offices, a conference centre and the **Money Museum** in the older 1960s building next door.

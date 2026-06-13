@@ -12,6 +12,7 @@ story: >
   Known in ancient texts as the Vetravali Ganga, it sustains the water
   sources across the park — an appropriate enough miracle for a reclining
   god carved from a single block of sandstone.
+score: 8.5
 ---
 
 One of the most remarkable sights inside the park: a 32-foot reclining statue of Lord Vishnu, carved in the 10th century from a single block of sandstone. Vishnu lies in Yog-Nidra — deep meditative sleep — on the coils of the serpent Shesh Nag, whose hood curves above his head. The Charan Ganga springs from the statue's feet and runs through the forest.

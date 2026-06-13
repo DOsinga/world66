@@ -8,6 +8,7 @@ latitude: 48.9891
 longitude: 86.6498
 sources:
   - https://en.wikipedia.org/wiki/Baihaba_Village
+score: 8.4
 ---
 
 Baihaba is the northernmost inhabited village in China, sitting hard against the Kazakh border in the far northwest corner of Altay Prefecture. A Tuvan community lives here year-round, farming and herding in one of the most isolated corners of the country. Access requires a border zone permit, which can be arranged through tour operators in Altay City or Jiadengyu — allow a few days lead time.

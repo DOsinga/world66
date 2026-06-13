@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - el_silencio
   - sight
+score: 7.5
 ---
 
 The Basílica de Santa Teresa, four blocks south of Plaza Bolívar, is the most ornate of the surviving nineteenth-century churches in central Caracas. Begun in 1876 and dedicated in 1881, it was conceived as a twin temple — one façade for the Carmelite Saint Teresa of Ávila, the other for Saint Anne — and the layout reflects that, with two parallel naves under a single roof.

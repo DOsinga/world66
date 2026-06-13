@@ -12,6 +12,7 @@ story: >
   The Dance of Death painting in the church's museum — called the Danse Macabre — was created by the Lübeck painter Bernt Notke around 1500. The original was about 30 metres long; only a fragment survives, depicting Death leading a procession of figures from pope to peasant. It was nearly destroyed in Soviet bombing raids in March 1944, when much of the Old Town burned, but firemen saved part of it.
 sources:
   - https://en.wikipedia.org/wiki/Niguliste_Church
+score: 9.1
 ---
 
 The Church of St. Nicholas, known in Estonian as Niguliste, was the merchant church of Tallinn's German trading community, built from the 13th century onward. It was severely damaged in the Soviet bombing of Tallinn in March 1944 and was deconsecrated; today it operates as a museum and concert hall managed by the Art Museum of Estonia.

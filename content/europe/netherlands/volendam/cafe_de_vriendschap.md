@@ -7,6 +7,7 @@ tags:
 latitude: 52.4966
 longitude: 5.0680
 snippet: "Lively harbour bars where Volendam's musical culture spills into the evenings"
+score: 7.0
 ---
 
 Volendam has produced a disproportionate number of Dutch pop musicians — BZN, Jan Smit, Nick & Simon all came from here — and the local bar culture reflects a genuine enthusiasm for music and a good night out. The waterfront bars fill up on summer evenings with a mix of locals and day-trippers who stayed longer than planned.

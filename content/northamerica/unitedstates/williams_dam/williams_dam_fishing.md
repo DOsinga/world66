@@ -8,6 +8,7 @@ address: Williams, IN 47470
 latitude: 38.7991
 longitude: -86.6395
 snippet: Tailwater fishing for catfish, bass, and walleye below the weir
+score: 6.4
 ---
 
 The low concrete weir at Williams was originally built early in the 20th century to support a small hydroelectric plant; today its main role is recreational. The tailwater below the dam holds excellent populations of channel catfish, smallmouth bass, walleye, and seasonal runs of white bass, and is one of the better warm-water fishing spots in southern Indiana.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 57.1953
 longitude: -3.8278
+score: 5.8
 ---
 
 Aviemore is the main gateway town to the Cairngorms National Park: a small Highland town that has been a ski resort centre since the 1960s and a walking base for rather longer. It's not particularly attractive — the 1960s development left a legacy of functional rather than beautiful buildings — but it has everything a visitor needs: a railway station on the Inverness-Edinburgh line, gear hire, supermarkets, pharmacies, and accommodation from hostels to comfortable guesthouses. The Caledonian Sleeper from London arrives here.

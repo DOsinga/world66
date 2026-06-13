@@ -8,6 +8,7 @@ latitude: 19.4517
 longitude: -70.6970
 story: >
   The name "Cibao" comes from the Taíno word for "place of rocky mountains" — the indigenous name for the Cordillera Central. When Columbus arrived in 1492 and heard the Taíno talking about Cibao, he assumed they were saying "Cipangu" — Japan — and concluded he had reached Asia. The misunderstanding contributed to one of the great geographical confusions in history.
+score: 6.6
 ---
 
 The Cibao Valley is the broad fertile depression running east to west through the centre of the Dominican Republic, and Santiago is its capital. Tobacco fields, plantain farms, and rice paddies stretch out from the city in every direction, and the surrounding mountains — the Cordillera Central to the south and the Cordillera Septentrional to the north — frame the view on clear days.

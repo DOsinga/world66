@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Humboldt Bay Provisions
 type: poi
+score: 6.5
 ---
 
 Humboldt Bay Provisions on 2nd Street is a small oyster bar and charcuterie focused on local and regional producers. The Humboldt Bay oysters here are the thing: grown in the cold, nutrient-rich waters of the bay just outside town, they are plump and briny and served simply on the half-shell. The menu is deliberately short — oysters, a few cured meats, good bread, and natural wines.

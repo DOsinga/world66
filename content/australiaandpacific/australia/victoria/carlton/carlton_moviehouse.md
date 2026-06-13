@@ -8,6 +8,7 @@ tags:
 latitude: -37.7988
 longitude: 144.9663
 snippet: "The art-house cinema on the Lygon Street corner of Bullen Lane"
+score: 7.3
 ---
 
 Cinema Nova is the long-standing art-house cinema of Lygon Street, a fifteen-screen independent multiplex tucked into the Lygon Court arcade. It runs a programme of new releases, festival films, foreign-language work and second-run revivals, and the famous Monday-morning cheap tickets — under ten dollars before 4 pm — have been a Melbourne institution for decades.

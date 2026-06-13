@@ -7,6 +7,7 @@ tags:
 - museum
 title: Instituto Histórico e Geográfico do Rio Grande do Sul
 type: poi
+score: 7.2
 ---
 
 The Instituto Histórico e Geográfico do Rio Grande do Sul (IHGRGS) is one of the oldest cultural institutions in Porto Alegre, founded in 1860 and still occupying a handsome early 20th-century building near the city centre. It functions primarily as a research archive — holding documents, photographs, maps, and artefacts relating to the history of Rio Grande do Sul from the colonial period onward — but the library and reading rooms are open to visitors, and rotating exhibitions drawn from the archive are regularly mounted for the general public.

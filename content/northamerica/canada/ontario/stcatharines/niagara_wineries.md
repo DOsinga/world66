@@ -7,6 +7,7 @@ snippet: The strip of wineries along the escarpment west of the city, source of 
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 The Short Hills Bench, the strip of land along the Niagara Escarpment immediately west of St. Catharines, holds the largest concentration of Niagara's better wineries. Riesling, chardonnay, and pinot noir do well in the limestone-rich soils and the lake-moderated climate. The region's signature icewine — pressed from grapes frozen on the vine — is made by most producers.

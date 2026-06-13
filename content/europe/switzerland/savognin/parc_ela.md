@@ -9,6 +9,7 @@ latitude: 46.5600
 longitude: 9.6500
 story: >
   Parc Ela was designated Switzerland's largest nature park in 2012, covering 548 square kilometres. Unlike national parks in many other countries, it has no fencing and no restrictions on residents living within its boundaries — the park is designed around the idea of people living sustainably in a landscape rather than being excluded from it. Over 4,000 people live inside the park's perimeter.
+score: 8.4
 ---
 
 Parc Ela is Switzerland's largest nature park, and Savognin sits at its northern edge. The park covers a wild stretch of the Graubünden Alps including the Julier Pass, the Albula Pass, and the upper valleys of several rivers. The landscape shifts from subalpine forest through open alp meadows to barren high-altitude terrain above 3,000 metres.

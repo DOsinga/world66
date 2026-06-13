@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - market
 - sight
+score: 7.1
 ---
 
 The central market of El Oued — the souk — sits a few blocks south of the main square and runs through a covered structure with overflow stalls in the surrounding streets. Every day brings dates, spices, leather, traditional textiles and household goods; Thursday is the big market day, when traders come in from the surrounding oases and the alleys are at their most chaotic.

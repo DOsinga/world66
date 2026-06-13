@@ -10,6 +10,7 @@ address: "1 Avenue Jean-Laigret, Blois"
 latitude: 47.5871
 longitude: 1.3300
 snippet: "Long-running fine-dining restaurant in the château's former orangery"
+score: 6.3
 ---
 
 The Orangerie du Château occupies the 15th-century orangery on the western edge of the château precinct — vaulted stone ceiling, big arched windows opening onto the gardens, and a tone of slightly hushed refinement. The kitchen has held a Michelin star for years and serves classical French food: Loire fish in cream sauces, game in season, a strong cheese trolley, and a long wine list with proper local representation.

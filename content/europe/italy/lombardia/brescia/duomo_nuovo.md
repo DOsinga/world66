@@ -8,6 +8,7 @@ tags:
 latitude: 45.5386
 longitude: 10.2219
 snippet: "Brescia's baroque cathedral, one of the largest in Italy — began in 1604, finished in 1825"
+score: 6.9
 ---
 
 The Duomo Nuovo (New Cathedral) is Brescia's main cathedral, a vast baroque structure whose construction began in 1604 and was not completed until 1825 — more than two centuries of building. The result is imposing rather than harmonious: the dome (72 metres high) dominates the skyline, but the facade was never finished to the original design and has an awkward, incomplete look.

@@ -8,6 +8,7 @@ tags:
 latitude: 14.6506
 longitude: 121.0439
 snippet: Urban wildlife sanctuary with birds and deer near the Circle
+score: 6.6
 ---
 
 The Ninoy Aquino Parks and Wildlife Center is a 24-hectare zoological and botanical garden in the heart of Quezon City, one of the few places in Metro Manila where you can walk among trees and listen to birds rather than traffic. The reserve houses Philippine wildlife — crocodiles, deer, monkeys, and a good collection of native birds — in conditions that are modest but genuinely natural for an urban park.

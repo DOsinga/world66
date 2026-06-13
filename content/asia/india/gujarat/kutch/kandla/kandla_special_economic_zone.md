@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 23.04
 longitude: 70.21
 story: The Kandla SEZ, established in 1965, was India's first export processing zone — an experiment in free-trade economics that predated China's famous special economic zones by fifteen years. It was meant to generate foreign exchange and employment, and though its relative importance has diminished as India liberalised its wider economy, it still operates as a distinct administrative and customs unit.
+score: 4.9
 ---
 
 The Kandla Special Economic Zone, now officially branded KASEZ, sits on the outskirts of town and is one of India's oldest free trade zones. It was set up in 1965 to attract export-oriented manufacturing, and the mix of industries that grew up inside it reflects several decades of Indian industrial policy — everything from pharmaceuticals and chemicals to engineering goods and processed foods.

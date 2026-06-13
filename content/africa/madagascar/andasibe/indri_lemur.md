@@ -9,6 +9,7 @@ latitude: -18.9300
 longitude: 48.4150
 story: >
   The indri's call — a rising, keening wail shared by family members in coordinated duets — can carry over a kilometre through the canopy. Malagasy legend holds that the indri is the ancestor of humans who chose to stay in the forest, and its cry is the lament of those left behind. The word "indri" itself is a mishearing: the first European naturalist to spot one asked his Malagasy guide what the creature was called; the guide answered "indry!" — meaning "look!" — and the name stuck.
+score: 9.6
 ---
 
 Watching indri in the wild is one of the definitive Madagascar experiences. These are Madagascar's largest living lemurs — black and white, almost bearlike in build, with vestigial tails and long hind legs designed for clinging and leaping between vertical trunks. A large male weighs around seven kilograms. They live in monogamous family groups of two to five animals, occupying home territories in the mid-altitude rainforest.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 46.87806
 longitude: -96.79000
+score: 7.8
 ---
 
 Downtown Fargo is a genuinely pleasant place to walk. Broadway, the main street, is lined with handsome early 20th-century brick commercial blocks — Italianate and Romanesque Revival storefronts built during the Northern Pacific Railway boom of the 1880s and 1890s. The Downtown Fargo Historic District, listed on the National Register of Historic Places, extends several blocks in each direction from Broadway. The area has avoided the hollow-out fate of many midwestern downtowns: restaurants, bars, independent shops, and galleries occupy the ground floors of most of the historic buildings.

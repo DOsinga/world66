@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3300
 longitude: 26.3267
+score: 7.8
 ---
 
 Ilıca, on the Çeşme Peninsula, is one of the few places in Europe where natural thermal springs warm the sea itself — hot water bubbles up from the shallow sandy bottom of the beach, creating a naturally heated pool in the Aegean. The beach at Ilıca is broad and sandy, and the combination of thermal warmth and sea salt has been attracting bathers since Roman times.

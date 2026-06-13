@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Vast sea of dunes beginning a short drive west of town, classic Sahara"
+score: 9.0
 ---
 
 The Grand Erg Occidental is one of the great sand seas of the Sahara, covering some 80,000 square kilometres of southwestern Algeria with the textbook crescent dunes that visitors imagine when they imagine the desert. The eastern edge begins a short drive west of Timimoun and is one of the easier places in Algeria to step into the dunes proper without a multi-day expedition.

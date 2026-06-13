@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 52.5025
 longitude: 4.9580
+score: 7.3
 ---
 
 The Stedelijk Museum Purmerend tells the story of this corner of North Holland from the drained polders of the seventeenth century through to the commuter boom of the late twentieth. The collection centres on the cheese and cattle trade that made the town: weighing equipment, market records, cheese moulds, and portraits of the kind of merchants who built the canal houses around the Kaasmarkt. It is a local history museum in the honest sense — not trying to be more than it is, but genuinely informative about why Purmerend exists where it does and why it looks the way it does.

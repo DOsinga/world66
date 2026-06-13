@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.8689
 longitude: -92.1181
+score: 6.8
 ---
 
 The Stone County Courthouse is a small two-storey brick building on the south side of the square, completed in 1922 in a restrained Classical Revival style and still in active use as the county seat. The pediment, the symmetrical sash windows, and the modest cupola fit the small-town civic scale of Mountain View perfectly — this is not a courthouse trying to be a cathedral.

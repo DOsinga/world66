@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "The history of international football, told from FIFA's own collection"
+score: 6.6
 ---
 
 The FIFA World Football Museum opened in 2016 in a converted office block at the southern end of the old town, opposite the Enge station, on the route from the city centre to the Rietberg. Across three floors it tells the global story of association football — the genuine, original World Cup trophy is here (kept behind reinforced glass) along with the shirts of every nation that has ever played, a wall of every World Cup ball, and a major archive on women's football and the global game.

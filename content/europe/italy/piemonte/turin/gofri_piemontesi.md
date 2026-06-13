@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.0719
 longitude: 7.6915
+score: 6.5
 ---
 
 A tiny street-food window on Via Sant'Ottavio that serves nothing but gofri — thin, lace-edged Alpine waffles from the western Piedmontese valleys, eaten folded around either sweet or savoury fillings. The savoury versions (lard with honey, salami, robiola, tomato) make a better meal than the sweet ones.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Gilcrease Bird Sanctuary
 type: poi
+score: 6.0
 ---
 
 A surprising pocket of nature in the Las Vegas suburbs, Gilcrease Bird Sanctuary sits on a former ranch property and shelters a large collection of game birds, exotic species, and birds of prey. Many of the raptors are being rehabilitated through the Wild Wing Project before release back into the wild.

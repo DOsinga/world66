@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.6744
 longitude: -103.3395
+score: 6.9
 ---
 
 Plaza Tapatía is the large pedestrian esplanade that connects the Cathedral precinct with the Hospicio Cabañas, running east from the Teatro Degollado for several blocks. Built in the 1980s, it replaced a dense neighbourhood of old streets with a broad open plaza — a controversial decision at the time that has since become accepted as the city's main ceremonial space.

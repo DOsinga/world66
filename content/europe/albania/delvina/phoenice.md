@@ -8,6 +8,7 @@ tags:
 title: Phoenice (Phoinike)
 type: poi
 story: "It was here in 205 BC that Rome and Macedon signed the Treaty of Phoenice, ending the First Macedonian War and giving Rome its first foothold on the Greek mainland. The treaty was negotiated in part by a king of the Illyrians and is the earliest recorded Latin diplomatic document in the Balkans."
+score: 8.6
 ---
 
 Phoenice — Phoinike to the Greeks, Finiq today — was the capital of the Chaonians, the most powerful of the three Greek tribes of ancient Epirus, and at its 3rd-century BC peak the richest city of the region. The ruins occupy a long, defensible hill rising 280 metres above the fertile valley south of Delvina; on a clear day you can see the Greek border, the mountains around Gjirokastër, and the sea at Saranda.

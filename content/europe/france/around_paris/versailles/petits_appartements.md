@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80486
 longitude: 2.12083
+score: 8.6
 ---
 
 Behind the state rooms that tourists file through in their thousands, Versailles had an entirely different set of smaller, more personal spaces. The petits appartements du roi — the King's private apartments — were Louis XV's real living quarters: a suite of small, intimate rooms on the upper floors of the palace, decorated with extraordinary care in the latest 18th-century taste. This is where the king actually spent his time.

@@ -10,6 +10,7 @@ latitude: 8.6255
 longitude: -79.0320
 sources:
   - https://en.wikipedia.org/wiki/Contadora_Island
+score: 6.5
 ---
 
 Playa Cacique is the most accessible beach on the island, a short walk from the airstrip and fronting the main resort area. It is sheltered, calm, and the first place most visitors end up. The water is shallow near the shoreline, which makes it good for families.

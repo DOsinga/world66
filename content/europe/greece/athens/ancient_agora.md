@@ -15,6 +15,7 @@ story: >
   building techniques. It is considered one of the most successful architectural
   reconstructions of the 20th century — accurate enough that many visitors assume
   it survived intact.
+score: 9.3
 ---
 
 The Ancient Agora was the civic and commercial heart of classical Athens — the market, the law courts, the political meeting place, and the philosophical arena all in one. Socrates lived here, taught here, and was sentenced to death here. The site is extensive and less crowded than the Acropolis, with a more evocative atmosphere of everyday ancient life.

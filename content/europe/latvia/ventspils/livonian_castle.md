@@ -9,6 +9,7 @@ tags:
   - museum
   - history
 story: "Among the oldest buildings in Latvia still in continuous use, the castle has served as a Teutonic fortress, a Polish royal residence, a Russian provincial prison, and a Soviet barracks. The dungeons in the eastern wing — visible on the museum tour — were used as cells almost without interruption from 1290 until 1959."
+score: 8.2
 ---
 
 The four-square Livonian Order castle was founded in 1290 by the Teutonic Knights, making it one of the oldest masonry buildings in Latvia. The fortress passed through Polish, Swedish, and Russian ownership before being converted into a prison in the 19th century and a barracks in the 20th. The current museum was opened after a major restoration in 2001.

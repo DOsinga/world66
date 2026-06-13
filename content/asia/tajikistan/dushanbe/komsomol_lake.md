@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5640
 longitude: 68.8000
+score: 6.1
 ---
 
 An artificial lake on the eastern edge of the city center, Komsomol Lake (now sometimes called Zulfiya Lake) is a popular recreation area for Dushanbe residents. Paddle boats are available for hire, there are shaded walking paths around the perimeter, and several outdoor cafes and tea houses operate on the banks in summer.

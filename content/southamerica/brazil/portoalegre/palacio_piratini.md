@@ -8,6 +8,7 @@ tags:
 story: The Palácio Piratini was completed in 1921 and has been the seat of the Rio Grande do Sul state government ever since. During Brazil's military dictatorship it was the site of some of the country's most dramatic political confrontations; today its ceremonial changing of the guard draws a small crowd of locals and tourists who show up more out of civic habit than military enthusiasm.
 title: Palácio Piratini
 type: poi
+score: 7.6
 ---
 
 The Palácio Piratini — named for a battle in the Farroupilha revolution of 1835 — is the official residence and working palace of the governor of Rio Grande do Sul, and it faces Praça da Matriz with the severe confidence of a building that knows it is important. The facade is neoclassical, four stories of stone with a central portico; the whole ensemble is handsome if not exactly joyful. It was built between 1898 and 1921, replacing an earlier and more modest government building, and for most of the 20th century it functioned as the political centre of what was frequently Brazil's most politically volatile state.

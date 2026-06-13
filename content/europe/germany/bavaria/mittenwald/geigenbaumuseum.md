@@ -8,6 +8,7 @@ tags:
 story: "Matthias Klotz returned to his Bavarian home town from years apprenticed in Cremona — where Stradivari was a contemporary — and brought the Italian craft of violin-making with him. The Klotz dynasty has produced instruments here continuously since 1685; a few are still made by hand in Mittenwald workshops today."
 title: Geigenbaumuseum
 type: poi
+score: 7.9
 ---
 
 The Geigenbaumuseum tells the story of how a small Alpine village became one of the great centres of European violin-making. The museum's collection traces 350 years of craftsmanship, from the first Klotz instruments through the 18th-century mass production years (when Mittenwald violins were sold across Europe) to the small workshops still operating today.

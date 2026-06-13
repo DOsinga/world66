@@ -7,6 +7,7 @@ tags:
 title: Paseo Marítimo
 type: poi
 snippet: "Thirteen-kilometre promenade ringing La Coruña's entire peninsula"
+score: 8.4
 ---
 
 The seafront promenade runs for about 13 kilometres around the entire peninsula, linking the city beaches with the Torre de Hércules and the wilder Atlantic coast to the north. It is one of the longest urban promenades in Europe and the natural backbone of daily life in La Coruña — locals run, cycle, and stroll it at all hours.

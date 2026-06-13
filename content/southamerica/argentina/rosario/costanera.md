@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -32.9450
 longitude: -60.6330
+score: 7.9
 ---
 
 Rosario's waterfront has been transformed over the past two decades from an industrial backwater into one of the most pleasant riverside promenades in Argentina. The Costanera stretches for several kilometres along the Paraná, lined with parks, restaurants, beach bars, and spots where locals gather to drink mate and watch the river traffic.

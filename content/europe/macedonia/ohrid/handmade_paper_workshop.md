@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 In a small lakeside workshop in the old town, a working reproduction of Gutenberg's wooden press is used to make handmade paper from cotton and linen rags. The workshop produces sheets watermarked with the Ohrid coat of arms and printed certificates that are sold to visitors. It is one of only two functioning Gutenberg-style press reproductions in the world.

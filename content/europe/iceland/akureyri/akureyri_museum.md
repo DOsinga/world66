@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 65.6751
 longitude: -18.0927
+score: 7.2
 ---
 
 The Akureyri Museum (Minjasafnið á Akureyri) covers the history and culture of northern Iceland from the earliest settlement to the 20th century. Permanent exhibitions focus on the fishing and farming life that defined the region, with particular attention to the social history of the town itself — how a small trading post became the dominant city of the north.

@@ -8,6 +8,7 @@ latitude: 44.4164
 longitude: 12.1991
 story: >
   Florence, which exiled Dante in 1302 and burned him in effigy, has been trying to get his bones back for over five centuries. The city has repeatedly asked Ravenna to return the remains, and Ravenna has repeatedly refused. During a period of particular Florentine pressure in the 18th century, Ravennati monks secretly hid the bones behind a wall in the adjacent cloister, where they sat forgotten for over a century before being rediscovered in 1865. Dante now lies in his tomb with a Florentine lamp burning beside him, paid for by Florence as a kind of permanent apology.
+score: 7.6
 ---
 
 Dante Alighieri died in Ravenna in 1321 while serving as a diplomatic emissary, and the city has kept his bones ever since — to the enduring frustration of Florence, which exiled him. His tomb is a small neoclassical temple in the centre of the old city, built in the late 18th century, simple and dignified.

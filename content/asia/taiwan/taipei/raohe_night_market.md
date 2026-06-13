@@ -8,6 +8,7 @@ tags:
 - market
 title: Raohe Street Night Market
 type: poi
+score: 7.4
 ---
 
 Raohe is the more compact and arguably more interesting of Taipei's central night markets — a single 600-metre pedestrianised strip in Songshan, anchored at the western end by the elaborate **Songshan Ciyou Temple**. The market entrance is dramatic: a gilded gate beside the temple, with food stalls and queues spilling out into the night.

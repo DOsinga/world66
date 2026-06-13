@@ -7,6 +7,7 @@ tags:
 - sight
 title: Jules Verne Monument
 type: poi
+score: 5.9
 ---
 
 One of Vigo's more eccentric public artworks: a bronze octopus rising from the pavement near the Porta do Sol, its tentacles spreading across the stone as a tribute to Jules Verne, who set key scenes of Twenty Thousand Leagues Under the Sea in the Ría de Vigo. The connection is specific — Captain Nemo dives on the wrecked treasure fleet from the 1702 Battle of Rande and harvests silver from the seabed.

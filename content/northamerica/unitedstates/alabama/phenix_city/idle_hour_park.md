@@ -8,6 +8,7 @@ tags:
 - park
 title: Idle Hour Park
 type: poi
+score: 5.6
 ---
 
 Phenix City's main downtown park, sitting on the west bank of the Chattahoochee with shaded picnic areas, a children's playground, a small amphitheatre and direct access onto the RiverWalk. It is a pleasant place for a picnic with a clear view across to downtown Columbus.

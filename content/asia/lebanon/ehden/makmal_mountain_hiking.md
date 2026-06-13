@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 34.3083
 longitude: 35.9831
+score: 7.3
 ---
 
 Mount Makmal rises above Ehden to 2,876 metres, the dominant peak of this section of the northern Lebanon range. The mountain is not technically difficult, but routes to the summit involve serious altitude gain and the upper slopes can hold snow well into June. The views from the ridgeline — down into the Qadisha Valley on one side and out towards the Mediterranean on the other — are among the finest in Lebanon.

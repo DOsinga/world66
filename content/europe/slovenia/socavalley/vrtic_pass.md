@@ -13,6 +13,7 @@ story: >
   construction in March 1916. A small Russian Orthodox Chapel near the top of the pass,
   built in their memory, still stands and is regularly visited. The road has 50 hairpin
   bends, numbered on the way up and down.
+score: 8.4
 ---
 
 The Vršič Pass at 1,611 metres is the highest road pass in Slovenia and the main connection between the Soča Valley and Kranjska Gora in the north. The road — narrow, steep, and surfaced with cobblestones on some of the older sections — has 50 numbered hairpin bends and is spectacular throughout its length.

@@ -10,6 +10,7 @@ type: poi
 snippet: The free parkway closest to the falls — the best vantage point on the Canadian side
 sources:
   - https://en.wikipedia.org/wiki/Queen_Victoria_Park_(Niagara_Falls)
+score: 8.0
 ---
 
 Queen Victoria Park is the parkway running along the Canadian bank immediately above the Horseshoe Falls, maintained by the Niagara Parks Commission. It is free to enter and provides the best unobstructed views of both the Horseshoe Falls and the American Falls from the closest practical distance. Table Rock, at the end of the park closest to the falls, puts you within metres of the crest.

@@ -6,6 +6,7 @@ longitude: 24.2868
 tags:
   - things_to_do
   - sight
+score: 8.9
 ---
 
 The Roman forum is the most coherent part of the Philippi site — a great paved square laid out under the emperor Marcus Aurelius in the 2nd century AD, with the foundations of two temples on the north side, the remains of public buildings around the other three, and the bouleuterion (council chamber) tucked into one corner. The pavement is still marked with the lines that organised the public markets that occupied the space.

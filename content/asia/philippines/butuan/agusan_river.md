@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 9.0167
 longitude: 125.5111
+score: 6.8
 ---
 
 The Agusan River is the third longest river in the Philippines and flows through the heart of the CARAGA region before emptying into Butuan Bay. The river delta around Butuan is the reason for the city's historical importance — it gave access to the interior of Mindanao for trade, and made the bay a natural harbour for the Chinese, Indian, and Malay traders who called here for centuries before Spanish arrival.

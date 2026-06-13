@@ -8,6 +8,7 @@ latitude: 35.3903
 longitude: 136.9469
 story: >
   Ukai on the Kiso River is said to be 1,300 years old — the oldest cormorant fishing tradition in Japan. The fishermen (usho) are government-licensed and use live cormorants with rings around their necks, loose enough to breathe but tight enough to prevent them swallowing large fish. Each usho works ten to twelve birds simultaneously, managing them by individual leashes in the dark with a fire burning at the bow of the boat.
+score: 7.8
 ---
 
 From June 1 to October 15, traditional ukai takes place on the Kiso River just below Inuyama Castle after nightfall. The ceremony is one of the most visually striking in Japan: wooden boats (ubune) with fires burning at their bows drift downstream while the cormorant fishermen work their birds against the current, the castle silhouetted against the sky on the bluff above. Watching parties float alongside in other boats.

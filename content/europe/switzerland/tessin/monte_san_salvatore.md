@@ -13,6 +13,7 @@ story: >
   times a year — and the mountain's long history as a pilgrimage destination.
 sources:
   - https://www.myswitzerland.com/en-us/experiences/san-salvatore-pinnacle-of-enjoyment/
+score: 8.3
 ---
 
 Monte San Salvatore rises 912 metres from the edge of [Lugano](/europe/switzerland/lugano), its rocky profile visible from most of the lake. A funicular from Lugano-Paradiso reaches the summit in twelve minutes, delivering you to a panorama that takes in Lake Lugano, the Po Plain, and on clear days the Alps from Monte Rosa to the Bernina. The view is wider and more dramatic than many higher peaks because the mountain stands alone, surrounded by water on three sides.

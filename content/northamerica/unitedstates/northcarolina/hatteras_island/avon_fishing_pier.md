@@ -6,6 +6,7 @@ longitude: -75.5112
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The Avon Fishing Pier extends 600 feet into the Atlantic from the village of Avon, roughly in the middle of Hatteras Island. It opened in 1963 and has been a fixture of island life ever since. The pier gives access to deeper water than you can reach from the shore, and the pylons themselves create a habitat where baitfish gather and larger species follow.

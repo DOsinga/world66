@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Duriankang Dam
 type: poi
+score: 6.6
 ---
 
 Batam's main water supply is also one of the few quiet corners of the island. The reservoir covers around 60 square kilometres of inlets and peninsulas, and the foreshores — mostly cleared of illegal farms after a 2002 government campaign — make for surprisingly pleasant walking and cycling. The easiest entry point is opposite the Puri Legenda housing estate; from there a single well-trodden path leads out along the peninsula to the water's edge.

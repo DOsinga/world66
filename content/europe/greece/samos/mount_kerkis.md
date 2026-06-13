@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.1
 ---
 
 The 1,433-metre limestone mass at the western end of the island is the second-highest peak in the Aegean and the dominant feature of west Samos. From most viewpoints it looks barren and pyramidal; up close it is full of caves, springs, and tiny rock-cut chapels. The summit hike from the village of Marathokampos is a serious day out — six to eight hours up and back, with a final scramble over loose rock — but the view from the top spans Patmos, Ikaria, Fournoi, and the Anatolian coast.

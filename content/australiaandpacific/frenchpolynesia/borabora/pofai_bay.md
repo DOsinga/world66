@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -16.5298
 longitude: -151.7500
+score: 6.9
 ---
 
 Povai Bay (also spelled Pofai) cuts into the western coast of Bora Bora's main island south of Vaitape, forming a sheltered crescent that offers calmer swimming than the more exposed eastern coast. The bay is partly enclosed by the collapsed wall of an ancient volcanic crater, and from the water the views up to the flanks of Otemanu are among the best on the island.

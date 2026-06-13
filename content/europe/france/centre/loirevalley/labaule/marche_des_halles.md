@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
 snippet: "Covered market behind the seafront, busiest on Saturday morning."
+score: 7.1
 ---
 
 La Baule's covered market sits a couple of streets behind the casino on Place Lecomte-du-Nouÿ. Inside, you will find fishmongers selling sole and lobster from the Atlantic, oyster sellers from the Bay of Bourgneuf, and producers from the Guérande salt marshes selling fleur de sel by the kilo.

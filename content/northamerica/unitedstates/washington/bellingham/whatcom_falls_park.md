@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 48.7531
 longitude: -122.4350
+score: 8.1
 ---
 
 Whatcom Falls Park is the largest urban park in Bellingham, covering about 100 hectares along the forested canyon of Whatcom Creek as it drops through a series of waterfalls toward Bellingham Bay. The main falls are a genuinely impressive 10-metre cascade surrounded by old-growth-style forest — unusual this close to a city centre. A network of trails follows both sides of the creek, with stone bridges and fish hatchery facilities that were built by the Civilian Conservation Corps in the 1930s.

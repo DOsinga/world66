@@ -6,6 +6,7 @@ tags:
   - sight
 title: Hebrew University of Jerusalem
 type: poi
+score: 6.7
 ---
 
 Founded in 1918, years before the State of Israel, with Albert Einstein and Sigmund Freud among its original board members, the Hebrew University on Mount Scopus is both an intellectual institution and an architectural landmark. The campus occupies a ridge above the Old City with panoramic views east over the Judean Desert toward the Dead Sea and west over Jerusalem. The terrace outside the library is one of the finest viewpoints in the entire city.

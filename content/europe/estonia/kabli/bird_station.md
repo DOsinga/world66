@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   The station's signature operation is a giant cone-shaped Heligoland trap that funnels migrating birds into a counting and banding chamber. Established in 1969, the station has banded more than two million birds — one of the largest cumulative banding datasets in Europe — and remains a working scientific institution rather than a tourist site dressed up.
+score: 8.0
 ---
 
 The Kabli Bird Station is one of the oldest continuously operating migration research stations in northern Europe, set up in 1969 in a converted farmhouse just behind the beach. The station catches, bands, and releases tens of thousands of birds each autumn during the migration peak — pied flycatchers, chaffinches, willow warblers, robins — and runs a smaller spring operation in May.

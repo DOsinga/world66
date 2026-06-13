@@ -7,6 +7,7 @@ tags:
 - sport
 title: Wild Wadi Water Park
 type: poi
+score: 6.2
 ---
 
 Wild Wadi is a water park next to the Burj Al Arab and Jumeirah Beach Hotel, themed loosely around the tale of Juha, a character from Arabian folklore. Opened in 1999, it has 30 rides and attractions, 17 of which are interconnected — you can float from one to the next without getting out of the water.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.541089
 longitude: 21.466158
 snippet: "High fir forest and mountain grassland walks from Pertouli into the Pindus range"
+score: 7.9
 ---
 
 The landscape around Pertouli is among the most beautiful in central Greece. The village sits at the edge of a dense fir forest that stretches across the ridges of the central Pindus, and a network of tracks and trails leads from the village into the trees and up to the higher grasslands. In summer the meadows are full of wildflowers and the forest is cool enough to walk in comfort even at midday.

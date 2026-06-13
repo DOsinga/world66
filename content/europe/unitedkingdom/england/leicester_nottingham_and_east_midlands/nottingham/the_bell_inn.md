@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: 15th-century timber-framed pub on Old Market Square with a network of medieval cellars.
+score: 6.6
 ---
 
 The Bell stands on Angel Row, just off Old Market Square, and is the second of Nottingham's pubs that lays a claim to genuine medieval origins. The current timber-framed building dates from 1437 and the cellars carved into the sandstone below have been dated by dendrochronology to the early 1400s. Tours of the cellars run on most Saturday mornings — book ahead at the bar.

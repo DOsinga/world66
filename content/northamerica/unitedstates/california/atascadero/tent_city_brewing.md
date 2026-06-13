@@ -6,6 +6,7 @@ longitude: -120.6695
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 A small craft brewery and taproom in downtown Atascadero, named after the canvas tent encampment the original colonists put up while their houses were being built in 1913. The taproom on Entrada Avenue serves Tent City's own beers — a rotating list with the standard West Coast IPAs and pale ales done well, plus seasonal experiments.

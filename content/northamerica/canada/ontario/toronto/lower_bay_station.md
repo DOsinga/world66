@@ -8,6 +8,7 @@ tags:
 - underground
 title: Lower Bay Station
 type: poi
+score: 6.8
 ---
 
 Lower Bay Station sits directly beneath Bay Station on the Bloor-Danforth subway line, built in 1966 as part of an ambitious but short-lived experiment to connect Toronto's two subway lines into a single through-running network. The idea was sensible in principle — trains from one line would continue onto the other, reducing transfers. In practice, the mixing of the two lines caused delays that cascaded through the entire system, and the experiment was abandoned after six months.

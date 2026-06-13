@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, sachsenhausen]
 latitude: 50.1041
 longitude: 8.6745
+score: 7.4
 ---
 
 The Deutsches Filmmuseum on the Museumsufer is both a film museum and a working cinema, with a permanent collection that walks visitors through the technical history of moving images — Edison kinetoscopes, magic lanterns, early projection cameras — and a programme of repertory and arthouse screenings that takes place in the basement cinema almost every evening. The permanent exhibition is laid out hands-on: you can crank a zoetrope, watch shadow plays, and step inside a recreation of an early Lumière brothers screening room.

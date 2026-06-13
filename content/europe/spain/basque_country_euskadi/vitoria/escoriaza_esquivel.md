@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - medieval_quarter
+score: 7.8
 ---
 
 A Plateresque Renaissance palace built in 1530 for the doctor Fernán López de Escoriaza, returned home wealthy after several years as physician to the Tudor court of Henry VIII. The carved facade — coats of arms, classical pilasters, allegorical figures — is one of the finest in northern Spain.

@@ -6,6 +6,7 @@ longitude: -66.9233
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 A small nineteenth-century military barracks on the hillside of the 23 de Enero district, above the colonial centre. Originally built in 1905 as a military training school, the building became famous as the launchpad of Hugo Chávez's 4 February 1992 coup attempt against President Carlos Andrés Pérez — Chávez led his uprising from these grounds before being arrested two days later.

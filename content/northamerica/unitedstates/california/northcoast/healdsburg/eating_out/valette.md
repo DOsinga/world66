@@ -8,6 +8,7 @@ latitude: 38.61057
 longitude: -122.86936
 address: "344 Center Street, Healdsburg, CA 95448"
 snippet: Refined California-French cooking from a Healdsburg-raised chef
+score: 7.8
 ---
 
 Valette is the more formal end of Healdsburg's dining scene — a handsome room on Center Street where the cooking is precise, the wine list is deep in Sonoma producers, and the service has the kind of ease that comes from a staff that genuinely likes what they do.

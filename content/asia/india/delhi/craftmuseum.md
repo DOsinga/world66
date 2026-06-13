@@ -11,6 +11,7 @@ tags:
 - dilli_haat
 title: Craft Museum
 type: poi
+score: 8.5
 ---
 
 One of India's best craft museums, spread across a large outdoor campus near Pragati Maidan. The collection covers textiles, pottery, woodwork, metalwork, and folk art from across the subcontinent. There is a replica tribal village and artisan demonstrations in the outdoor sections. The indoor galleries are thoughtfully arranged by region and medium. Entry is inexpensive and crowds are rarely a problem.

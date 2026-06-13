@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 59.9324
 longitude: 15.9722
+score: 5.9
 ---
 
 Åmänningen is a long, narrow lake that straddles the municipalities of Fagersta and Surahammar, a few kilometres south of Engelsberg. It is part of the Norrström drainage system and the kind of still, forest-rimmed Swedish lake that invites slow exploration by kayak or canoe.

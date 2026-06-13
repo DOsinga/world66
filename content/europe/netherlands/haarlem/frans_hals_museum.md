@@ -6,6 +6,7 @@ longitude: 4.6367
 tags:
 - things_to_do
 - museum
+score: 9.1
 ---
 
 Haarlem's main art museum, split across two locations. The original building on Groot Heiligland — a handsome 17th-century almshouse — holds the Golden Age collection, including five of Frans Hals's great group portraits of civic guards and regents. These paintings, full of swagger and psychological insight, are among the finest works of Dutch art, and seeing them in the intimate rooms of the almshouse rather than a grand gallery brings you closer to the world they depict.

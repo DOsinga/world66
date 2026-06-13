@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: "A large Pure Land Buddhist temple whose main hall was relocated from Fushimi Castle in 1602, famous for autumn maples and spring wisteria."
+score: 8.1
 ---
 
 **Daitsu-ji** (大通寺) is the largest Buddhist temple in Nagahama, belonging to the Jodo Shinshu (Pure Land) tradition of the Otani-ha school. Its imposing sanmon (main gate) is the first thing you see approaching from the old shopping street, and the scale of the complex inside is unexpectedly grand for a city of this size. The main hall dates from 1602 and was originally part of Fushimi Castle in Kyoto before being dismantled and moved to its present site.

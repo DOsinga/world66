@@ -6,6 +6,7 @@ longitude: 4.3074
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 The last remaining jenever (Dutch gin) distillery in The Hague, operating since 1842 in a building that looks like it hasn't changed since. The small museum and tasting room display original copper stills, antique bottles, and the tools of the distiller's trade. A visit includes a tasting of several varieties of jenever and liqueurs, produced on site.

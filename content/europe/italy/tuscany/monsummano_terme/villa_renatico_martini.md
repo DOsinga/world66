@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 5.2
 ---
 
 A small Liberty-style villa from the late nineteenth century, now home to the MAC,n — Monsummano's modern and contemporary art collection. The rotation of works leans towards Tuscan artists of the twentieth century, with a permanent room dedicated to local sculptor Lorenzo Viani.

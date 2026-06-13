@@ -12,6 +12,7 @@ story: >
   than scholarship. That it sits next to a temple honouring exiled intellectuals
   is no coincidence — the island's educated class consciously built an identity
   around the idea that banishment and brilliance could coexist.
+score: 7.8
 ---
 
 Qiongtai Academy (琼台书院) is one of Hainan's oldest educational institutions, founded during the Ming dynasty and restored in the Qing. It sits immediately adjacent to the [Five Officials Temple](/asia/china/hainanisland/haikou/wugong_temple), and the two are usually visited together as a single quiet complex in the south of the old city.

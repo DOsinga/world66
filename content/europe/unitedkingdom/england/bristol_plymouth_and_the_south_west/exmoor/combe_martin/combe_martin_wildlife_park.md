@@ -7,6 +7,7 @@ tags:
 - attraction
 title: Combe Martin Wildlife and Dinosaur Park
 type: poi
+score: 5.6
 ---
 
 Set in 28 acres of wooded hillside above the village, Combe Martin Wildlife and Dinosaur Park combines a small zoo with a Jurassic-themed walk through animatronic dinosaurs. It is a pure family attraction — lemurs, meerkats, snow leopards and a few big cats are the headline animals — but the unusual selling point is the steep terraced layout that gives unexpected views down the wooded combe to the sea.

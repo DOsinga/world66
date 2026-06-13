@@ -6,6 +6,7 @@ longitude: 101.6884
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 Set within the Lake Gardens, the KL Bird Park is one of the world's largest free-flight walk-in aviaries, with around 3,000 birds of more than 200 species living in a 8.5-hectare netted enclosure. Hornbills, peacocks, flamingos, and parrots wander past your feet as you walk under the canopy; smaller cages contain owls, raptors, and breeding pairs.

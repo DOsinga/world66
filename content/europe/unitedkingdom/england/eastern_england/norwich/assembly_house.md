@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.6268
 longitude: 1.2907
+score: 7.4
 ---
 
 The Assembly House is a Georgian Grade I listed building at the heart of Norwich, built in 1754 as a place of assembly for the county's gentry. The interior features two large Georgian reception rooms with original plasterwork ceilings, now used as a restaurant, café, and event space.

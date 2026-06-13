@@ -6,6 +6,7 @@ longitude: -72.7639
 tags:
   - things_to_do
   - museum
+score: 6.2
 ---
 
 A small but genuine museum at the top of Hogback Mountain on Route 9. The core collection is the Luman R. Nelson mounts — over 600 specimens of North American birds and mammals assembled by a Vermont taxidermist in the early 20th century — including most species native to the region.

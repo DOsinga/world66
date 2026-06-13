@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -9.9287
 longitude: -76.2396
+score: 6.5
 ---
 
 The Cathedral of the Lord of Burgos, on the Plaza de Armas, was begun in the 17th century under Spanish colonial rule and took generations to complete. The exterior is restrained — whitewashed walls and a simple bell tower — but the interior holds a collection of colonial religious art including carved wooden altarpieces with gilded details and paintings brought from Spain and painted by local mestizo artists in the Cusco school tradition.

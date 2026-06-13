@@ -12,6 +12,7 @@ tags:
   - bar
   - salamanca
 snippet: "Salamanca's livelist late-night bar and burger joint — long Tasmanian beer list and good kitchen"
+score: 6.5
 ---
 
 A two-storey warehouse-bar on Salamanca Place that gets the buzz right. The ground-floor is a wood-and-leather pub with a 16-tap beer list (heavily Tasmanian), good wine by the glass, and a kitchen that turns out one of the best burgers in town — the **Notorious Pig** with double smoked bacon is the signature. Upstairs is a slightly quieter dining room with a wider menu.

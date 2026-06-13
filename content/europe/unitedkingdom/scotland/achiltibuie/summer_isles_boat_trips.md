@@ -5,6 +5,7 @@ tags: [things_to_do, boat]
 latitude: 57.9861
 longitude: -5.3444
 story: The Summer Isles archipelago takes its name not from the season but from the Norse "sumarr ey" — islands used as summer grazing grounds — though the English interpretation fits perfectly given how the light behaves there on a clear July afternoon.
+score: 8.5
 ---
 
 The Summer Isles are a scatter of uninhabited islands lying just offshore from Achiltibuie, and reaching them by boat is the main draw for most visitors who make the long journey out here. Wildlife is the chief attraction: grey seals basking on rocky ledges, porpoises common in summer, and gannets diving in the outer waters. Seabird colonies cover the cliffs of several islands.

@@ -12,6 +12,7 @@ tags:
 title: Norton Simon Museum
 type: poi
 url: www.nortonsimon.org
+score: 8.4
 ---
 
 One of the finest small art museums in California, sitting quietly in Pasadena about 15 miles from central LA. The collection runs from early Renaissance through the 20th century and includes outstanding works by Raphael, Rembrandt, Degas, and Picasso. The sculpture garden is a genuine pleasure. Admission is free for students, and the museum never feels crowded.

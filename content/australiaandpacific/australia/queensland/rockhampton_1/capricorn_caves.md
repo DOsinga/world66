@@ -9,6 +9,7 @@ longitude: 150.474
 sources:
   - https://en.wikipedia.org/wiki/Capricorn_Caves
 story: "At the summer solstice, around 21 December each year, sunlight enters the cathedral cave at exactly the right angle to illuminate the full floor of the chamber for a few minutes — a phenomenon the cave operators now schedule special tours around."
+score: 7.7
 ---
 
 Capricorn Caves is a privately owned limestone cave system about 23 kilometres north of Rockhampton, near the Berserker Range. The caves have been open to tourists since 1882 and contain a series of caverns with notable formations, including the Cathedral Cave — a large open chamber with remarkable acoustics that is used for concerts and has hosted weddings.

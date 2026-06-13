@@ -15,6 +15,7 @@ story: >
   sensitivities for decades afterward, particularly regarding German institutions.
 sources:
   - https://en.wikipedia.org/wiki/Academic_libraries_in_Leuven
+score: 8.1
 ---
 
 The stately university library on Ladeuzeplein is one of Leuven's most striking buildings and a powerful symbol of the city's resilience. The original medieval library was destroyed by German troops in August 1914 — one of the most notorious acts of cultural destruction in the First World War. The replacement, funded by international donations from universities across Europe and North America and designed by American architect Whitney Warren, was completed in 1928 with a tower visible across the city. It was burned again in May 1940.

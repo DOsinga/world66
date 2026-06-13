@@ -7,6 +7,7 @@ tags:
 latitude: 52.2774
 longitude: 8.0412
 story: "The Peace of Westphalia, signed here and in Münster simultaneously in 1648, effectively created the modern concept of national sovereignty — the principle that states should not interfere in each other's internal religious affairs. The Friedenssaal has barely changed since the delegations left."
+score: 8.6
 ---
 
 The Osnabrück Rathaus is one of the finest Gothic civic buildings in Germany, a long, gabled structure on the north side of the Marktplatz that looks exactly like what it is: a building that has been at the centre of public life for six centuries. It was built in the late fourteenth century and has been the seat of city government for most of the time since. What brings visitors here, though, is the Peace of Westphalia: in 1648, after five years of negotiations, the treaties ending the Thirty Years' War were signed simultaneously in this building and in the Rathaus of Münster, forty kilometres to the southwest.

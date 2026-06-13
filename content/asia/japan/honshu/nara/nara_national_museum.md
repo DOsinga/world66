@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 34.6849
 longitude: 135.8391
+score: 8.5
 ---
 
 The Nara National Museum holds one of Japan's finest collections of Buddhist art, concentrated in the period from the sixth to the fourteenth centuries. The permanent collection covers painting, sculpture, ceramics, textiles, and metalwork from the temples of the Nara region — including pieces that cannot be viewed inside their home temples — displayed in a series of connected buildings that include a Meiji-era Western-style structure and a modern annex.

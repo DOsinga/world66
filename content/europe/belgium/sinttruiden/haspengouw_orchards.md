@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.8152
 longitude: 5.1858
+score: 8.1
 ---
 
 Sint-Truiden sits in the middle of Belgium's most important fruit-growing area, and in late March and April the landscape transforms into something genuinely spectacular. Cherry, apple, and pear trees blossom in waves across the rolling hills, turning the farmland around the city into a sea of white and pink. Local tourist offices run guided blossom routes during the peak weeks, and cycling through the orchards is one of the best ways to experience them.

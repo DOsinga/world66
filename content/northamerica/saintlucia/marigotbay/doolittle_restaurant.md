@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 13.9618
 longitude: -61.0320
+score: 6.4
 ---
 
 Named for the 1967 film *Doctor Dolittle* shot in the bay, Doolittle's is the landmark waterfront restaurant and bar at Marigot Bay. It sits right on the water on the north side of the bay, with tables on an open deck where you can watch the yacht traffic while eating grilled lobster or flying fish cooked Creole-style.

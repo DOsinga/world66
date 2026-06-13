@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Schieffelin_Hall
+score: 7.6
 ---
 
 Schieffelin Hall was built in 1881 and named after Ed Schieffelin, the prospector whose silver strike in 1877 brought Tombstone into existence. The two-story adobe building is the largest surviving adobe structure in the American Southwest — a claim that understates how impressive it is in person. The hall served as the main entertainment venue for Tombstone's boom years, hosting plays, operas, dances, and political meetings.

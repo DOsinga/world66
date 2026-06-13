@@ -13,6 +13,7 @@ story: >
   a natural defensive approach. Some researchers believe the extra gates had a ritual
   purpose, and that Ismantorp was as much a ceremonial site as a military one. No one
   has settled the question.
+score: 8.2
 ---
 
 Ismantorp is a remarkably well-preserved ring fort from the Migration Period (around 400–600 AD), hidden in a patch of woodland near the centre of Öland. The circular stone wall, roughly 125 metres in diameter, is still largely intact and encloses the foundations of nearly 100 buildings arranged in a radial pattern. Nine gates pierce the walls — which is strange for a defensive structure and has led to much speculation about the site's actual purpose.

@@ -8,6 +8,7 @@ latitude: 43.1744
 longitude: 124.3736
 story: >
   The four Siping campaigns of 1946–1948 were among the largest and most destructive battles of the Chinese Civil War. The first campaign alone saw Nationalist and Communist forces fight street by street through the ruins of the city for over a month. By the time the Communists secured permanent control in 1948, Siping had been nearly levelled and tens of thousands had died. The museum's scale reflects what actually happened here — this was not a skirmish but a turning point.
+score: 8.2
 ---
 
 The Siping Campaign Memorial Museum in the Tiexi District is the most significant attraction in the city and one of the more substantial civil war museums in northeastern China. It documents the four major military engagements fought for control of Siping between 1946 and 1948 with a seriousness and detail that does not require prior knowledge of the Chinese Civil War to follow. The maps, photographs, and artefacts make the scale of the fighting legible — this was a prolonged, devastating siege, not a brief engagement.

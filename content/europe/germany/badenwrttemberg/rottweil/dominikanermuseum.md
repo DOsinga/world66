@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The Orpheus mosaic in the basement is one of the largest Roman mosaics found north of the Alps. It depicts Orpheus charming wild animals with his lyre, and was unearthed in 1834 from a bath complex on the edge of town."
+score: 8.4
 ---
 
 Housed in the former Dominican monastery on Kriegsdamm, the museum has two big draws. The Roman section is built around the Orpheus mosaic and adjoining finds from Arae Flaviae, the Roman town that preceded Rottweil and once held a major garrison on the road from the Rhine to the Danube.

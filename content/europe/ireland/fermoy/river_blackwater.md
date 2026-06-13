@@ -12,6 +12,7 @@ story: >
   most attractive — broad, clear, and lined with trees that turn gold in autumn. Salmon
   fishing has been a serious business here since at least the 12th century, when the
   Cistercian monks who founded Fermoy's original abbey relied on the river for sustenance.
+score: 6.5
 ---
 
 The Blackwater running through Fermoy is the town's defining feature. The river is wide and fast here — fast enough to make the stone bridge interesting to watch in spate — and the tree-lined banks on both sides give the town center a green frame that most Irish market towns lack. A pleasant riverside walkway runs along the south bank, and the weirs and pools downstream attract both kingfishers and the serious salmon anglers who have come to this stretch for generations.

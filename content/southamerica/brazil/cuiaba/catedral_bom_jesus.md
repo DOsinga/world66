@@ -10,6 +10,7 @@ story: >
   The cathedral's construction was completed in 1878, but the site has been a centre of Cuiabá's Catholic life since a much earlier chapel was built here in the 18th century. The Bom Jesus (Good Lord Jesus) devotion was particularly strong among the Portuguese colonisers who came to mine gold in the Cuiabá River basin — the discovery of gold here in 1719 is what put Cuiabá on the map at all.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Basilica_of_the_Good_Lord_Jesus,_Cuiab%C3%A1
+score: 7.1
 ---
 
 The Cathedral Basilica of the Good Lord Jesus (Catedral Metropolitana Basílica Senhor Bom Jesus) stands on the Praça da República in the centre of Cuiabá's historic district. The building is a twin-towered Neo-Classical structure, modestly decorated but dignified in scale, and elevated on a wide forecourt from which the square can be surveyed in both directions.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - festival
 snippet: One of the largest festivals in Virginia, drawing 250,000 visitors each May to celebrate the apple orchards in bloom.
+score: 6.9
 ---
 
 The Shenandoah Apple Blossom Festival has been held in Winchester every spring since 1924, timed to coincide with the blooming of the apple orchards that ring the city. The festival runs for several days in late April and early May and draws roughly a quarter million visitors — an enormous number for a city of 28,000. The centerpiece is the Grand Feature Parade, which runs through the downtown streets and is billed as the world's largest firemen's parade, featuring fire companies from across the eastern United States and Canada.

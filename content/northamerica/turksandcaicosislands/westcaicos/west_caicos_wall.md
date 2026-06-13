@@ -9,6 +9,7 @@ tags:
   - nature
 story: >
   The wall is the edge of the Caicos Bank, where the shallow turquoise lagoon ends and the seabed plunges more than 2,000 metres into the Columbus Passage. Currents along the wall bring up nutrients, which keep the corals and pelagic life unusually dense for the otherwise sleepy waters of the bank.
+score: 9.5
 ---
 
 The West Caicos Wall is one of the great wall dives of the Caribbean. The wall sits a few hundred metres off the leeward side of the island and begins at about 12 metres, dropping vertically into the abyss. The dives are easy in terms of depth and current, but the scale is spectacular — divers cruise along the lip with the wall on one side and open ocean on the other.

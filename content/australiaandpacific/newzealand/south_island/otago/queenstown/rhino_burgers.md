@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: The other Queenstown burger, with shorter queues than Fergburger
+score: 5.9
 ---
 
 The serious competitor to Fergburger on the same block. The burgers are made to order, the buns are baked in-house, and the menu plays in the same territory of large gourmet beef and chicken burgers with creative toppings. Queues are usually short to nonexistent when Fergburger's snake is around the block.

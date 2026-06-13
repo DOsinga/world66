@@ -8,6 +8,7 @@ tags:
 - treichville
 title: Treichville Fish Market
 type: poi
+score: 8.3
 ---
 
 The Treichville fish market lines the lagoon waterfront in the early morning with catches from the Ébrié Lagoon and offshore Atlantic fishing. It is one of the largest and most active fish markets in West Africa — a dense, noisy, brightly coloured scene of traders, buyers, and porters working in the pre-dawn light.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Giardino_Botanico_Alpino_di_Passo_Coe
 story: >
   The garden sits at 1,612 metres on Monte Maronia, making it one of the highest botanical collections in Trentino. It was established to preserve alpine species increasingly threatened by changing climate and land-use pressures on the plateaus of the southern Dolomites.
+score: 5.6
 ---
 
 The Giardino Botanico Alpino di Passo Coe is a municipal alpine botanical garden located about 5 km southeast of Folgaria at an elevation of 1,612 metres on Monte Maronia. It protects and displays hundreds of species of alpine flowers, grasses, and shrubs native to the Dolomite highlands, many of which bloom spectacularly during June and July.

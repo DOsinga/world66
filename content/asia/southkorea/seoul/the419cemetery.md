@@ -20,6 +20,7 @@ tags:
 - sight
 title: The 4.19 Cemetery
 type: poi
+score: 6.5
 ---
 
 A national cemetery at the foot of Bukhansan mountain, dedicated to those who died during the April 19 Revolution of 1960. The site holds the graves of 289 people killed during the pro-democracy uprising that toppled the Syngman Rhee government. A memorial tower, a museum documenting the revolution, and a sculpture garden sit within the grounds.

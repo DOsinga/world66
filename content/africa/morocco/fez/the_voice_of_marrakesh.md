@@ -5,6 +5,7 @@ type: poi
 tags:
 - books
 snippet: "Nobel laureate's unsettling portrait of Morocco, starting in Marrakesh"
+score: 6.5
 ---
 
 Elias Canetti visited Morocco for three weeks in 1954 and wrote a short book of fragmented observations — encounters with blind men, storytellers, a Jewish businessman, a camel being slaughtered, a bundle of rags from which a voice came. It is not a guidebook and it says almost nothing practical, but it captures something true about the strangeness and density of North African city life that longer books miss.

@@ -14,6 +14,7 @@ story: >
   — was beaten to summon villagers in emergencies. The towers are always built
   at the geographic and social centre of the village, and the Dong say a village
   without a drum tower is not a village at all.
+score: 8.0
 ---
 
 Each of the eight villages in Chengyang has a drum tower at its centre — multi-storey wooden structures with tiered eaves that taper to a point, built without plans or nails using traditional Dong carpentry techniques passed down through generations. The towers in Ma'an and Yingzhai are among the best preserved and most accessible. They are typically 10 to 15 storeys high despite having no floors — the interior is a single open space rising to the apex.

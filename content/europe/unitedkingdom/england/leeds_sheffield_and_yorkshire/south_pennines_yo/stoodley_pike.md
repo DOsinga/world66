@@ -8,6 +8,7 @@ tags:
 - sight
 title: Stoodley Pike
 type: poi
+score: 8.6
 ---
 
 The blackened gritstone obelisk that rises above the Calder Valley is the most photographed landmark in the South Pennines. Stoodley Pike sits at 400 metres on a windy moorland ridge, visible from miles away, and a short staircase inside leads to an internal viewing balcony at the top — bring a torch, it is unlit.

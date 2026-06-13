@@ -7,6 +7,7 @@ tags:
 latitude: 40.6436
 longitude: 22.9073
 snippet: Hundreds of rusting railway carriages slowly decaying on the city's western edge
+score: 6.5
 ---
 
 On the western outskirts of Thessaloniki, behind the main railway workshops, several hundred railway carriages and locomotives have been sitting in open sidings since being decommissioned across the 20th century. Some date back to the Ottoman period; others are postwar Greek and Yugoslav rolling stock. They rust in the open air, overgrown with vegetation, some completely cannibalized for parts, others nearly intact.

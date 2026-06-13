@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 7.3
 ---
 
 Cluj's Central Park was laid out in the 1830s as one of the first public parks in the region, on what had been a flood plain of the Someș. The chestnut and plane trees that line the main paths date from the original planting. At its centre is a small lake with rowing boats in summer and a skating rink in winter.

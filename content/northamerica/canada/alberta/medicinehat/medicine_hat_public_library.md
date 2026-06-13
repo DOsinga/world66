@@ -7,6 +7,7 @@ tags:
 snippet: A modern community library next to the Esplanade
 latitude: 50.0406
 longitude: -110.6810
+score: 5.6
 ---
 
 Across First Street from the Esplanade sits the city's main library — a clean, modern building with broad windows looking out to the river valley. It is more interesting than most municipal libraries: there is a notable local-history reading room on the second floor with prairie photographs and books on Medicine Hat's industrial past, and the building hosts free events most weeks.

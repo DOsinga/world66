@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
 story: >
   Rubén Darío (1867–1916) is the founding figure of Latin American Modernism and arguably the most influential Spanish-language poet of the 19th century. He was born in a small town called Metapa (now called Ciudad Darío in his honour) but lived for periods in León, the city that most claimed him. His remains are in the cathedral.
+score: 7.9
 ---
 
 The Casa Museo Rubén Darío is the house where Nicaragua's national poet spent his adolescence, now preserved as a museum. Darío is revered in Nicaragua with an intensity that surprises many visitors — his face appears on banknotes, streets and schools bear his name, and his tomb in the cathedral is a genuine place of pilgrimage.

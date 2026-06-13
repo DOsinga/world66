@@ -9,6 +9,7 @@ latitude: 31.8575
 longitude: 117.2990
 story: >
   Bao Zheng became the most celebrated judge in Chinese history not through any single dramatic case but through an accumulation of decisions that consistently went against the powerful and in favor of the poor — including rulings against members of the imperial family. He died in office in 1062, having refused gifts and supplements to his salary his entire career. The Chinese phrase for an incorruptible official, bao gong, still carries his name.
+score: 7.2
 ---
 
 Lord Bao Park occupies a pleasant stretch of land around a lake in the southwestern corner of the old city, built around the tomb of Bao Zheng — the Song Dynasty magistrate from Hefei who became China's enduring symbol of honest government. The park is not spectacular scenically, but it has a composed quietness that suits its subject, with willow-lined causeway bridges, pavilions over the water, and the tomb complex set back from the lake.

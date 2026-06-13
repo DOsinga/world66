@@ -8,6 +8,7 @@ latitude: 50.8365
 longitude: -0.1476
 story: >
   Edward Booth was a Victorian ornithologist who shot and stuffed nearly 300 species of British birds between 1864 and 1890, trying to capture each one in a naturalistic diorama. He left the collection and the building to Brighton on his death in 1890. The city has kept it largely as he arranged it, which means the Booth Museum feels like a time capsule of Victorian natural history obsession — methodical, encyclopaedic, and entirely personal.
+score: 7.8
 ---
 
 The Booth Museum is a wonderfully eccentric Victorian museum on Dyke Road, about a mile from the seafront. Hundreds of taxidermied British birds stand in glass cases in naturalistic dioramas; above them, drawers of pinned butterflies and beetles fill the shelving to the ceiling. There are also dinosaur bones, whale skeletons, and a remarkable collection of bird eggs.

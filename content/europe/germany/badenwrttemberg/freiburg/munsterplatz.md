@@ -7,6 +7,7 @@ tags:
 - sight
 title: Münsterplatz
 type: poi
+score: 8.7
 ---
 
 The heart of Freiburg, dominated by the red sandstone tower of the Freiburg Minster, one of the great Gothic cathedrals of Germany. The square itself is as lively as the church is grand.

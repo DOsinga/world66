@@ -6,6 +6,7 @@ longitude: 116.0739
 tags:
   - things_to_do
   - museum
+score: 5.7
 ---
 
 The Sabah Islamic Civilisation Museum occupies a two-storey building in the southern part of the city centre and documents the history of Islam in Sabah and Borneo more broadly. The collection covers the spread of the faith through trade routes from the Arab world and Indian subcontinent, with manuscripts, calligraphy, textiles, and religious objects drawn from the region's diverse Muslim communities.

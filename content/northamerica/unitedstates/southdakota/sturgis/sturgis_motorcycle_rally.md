@@ -12,6 +12,7 @@ story: >
   The rally started in 1938 when Clarence "Pappy" Hoel, an Indian Motorcycle dealer, organised a race for nine riders
   on a dirt oval. He expected it to grow into a regional event. By 2000, attendance was passing 600,000. The city of
   Sturgis (population 7,000) issues temporary licences to become a temporary city of several hundred thousand.
+score: 8.4
 ---
 
 Every August, for ten days centred on the second week of the month, Sturgis becomes one of the most densely packed places in North America. The Sturgis Motorcycle Rally has run since 1938 and now draws somewhere between 400,000 and 700,000 riders and spectators — the exact figure is contested, but the effect on the town is not. Main Street becomes a slow parade of custom bikes; concerts run every night at multiple venues; vendors fill every available lot selling leather, chrome, and everything motorcycle-adjacent.

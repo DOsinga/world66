@@ -14,6 +14,7 @@ story: >
   North America, including reintroductions in Alaska and Russia.
 sources:
   - https://en.wikipedia.org/wiki/Elk_Island_National_Park
+score: 7.9
 ---
 
 Elk Island National Park is Canada's smallest mainland national park and one of the most accessible — about 35 kilometres east of Edmonton, an easy day trip. The park is a fully fenced nature reserve containing one of the highest densities of hoofed animals in the world: plains bison, wood bison, moose, deer, and elk are all present in numbers that make wildlife sightings essentially guaranteed.

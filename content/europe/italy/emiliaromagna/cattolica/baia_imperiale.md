@@ -6,6 +6,7 @@ longitude: 12.7672
 tags:
   - bars_and_cafes
   - bar
+score: 6.4
 ---
 
 A few kilometres up the headland in Gabicce Mare, **Baia Imperiale** is one of the largest and most famous open-air nightclubs on the entire Italian Riviera. The complex — built as an enormous neo-Roman folly with columns, pools, terraces and three separate dance floors — holds several thousand people on a busy summer Saturday.

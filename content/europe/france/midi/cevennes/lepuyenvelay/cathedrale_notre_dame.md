@@ -13,6 +13,7 @@ story: >
   the tradition of devotion has never broken.
 sources:
   - https://en.wikipedia.org/wiki/Le_Puy_Cathedral
+score: 9.2
 ---
 
 Notre-Dame du Puy is one of the great Romanesque cathedrals of France, and its position makes it unlike any other: you reach it by climbing 134 steps through a vaulted entrance passage built directly into the facade, emerging into the nave as if surfacing from the rock itself. The cathedral dates from the eleventh to twelfth centuries and has been a major pilgrimage destination since the Middle Ages, attracting pilgrims heading to Santiago de Compostela on the Via Podiensis — the route from Le Puy across southern France to Spain.

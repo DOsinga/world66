@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Nambucca
 type: poi
+score: 6.1
 ---
 
 A low-key beach town where the Nambucca River meets the Pacific, about halfway between Sydney and Brisbane. The main beach is a long, uncrowded stretch of sand backed by headlands, and the river estuary is calm enough for swimming and kayaking.

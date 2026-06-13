@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 - neighbourhood
+score: 8.4
 ---
 
 The Kontorhausviertel — the office-building quarter — is a tight cluster of dark-brick early-20th-century office blocks just east of the Rathaus. Built between 1900 and 1940, these enormous "Kontorhäuser" replaced cramped medieval lanes with the new offices of Hamburg's shipping and commodity trading firms, and together with the neighbouring Speicherstadt the area was given UNESCO World Heritage status in 2015.

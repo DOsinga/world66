@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 54.59724
 longitude: -5.92666
+score: 6.8
 ---
 
 The Garrick Bar on Chichester Street is one of the better traditional pubs in the city centre, a few minutes' walk from City Hall. It's a genuine local bar rather than a tourist venue, which means the Guinness is well-kept and the prices are what you'd actually expect to pay in a Belfast pub. The bar attracts a mix of office workers, lawyers from the nearby courts, and locals who know a good pint.

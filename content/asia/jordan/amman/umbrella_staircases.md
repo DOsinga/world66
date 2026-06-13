@@ -7,6 +7,7 @@ tags:
   - downtown_al_balad
 latitude: 31.9520
 longitude: 35.9330
+score: 6.3
 ---
 
 Amman is a city of hills connected by steep staircases, and several of these have been given coloured umbrella canopies in recent years — a practical and surprisingly cheerful intervention that provides shade over the otherwise exposed stone steps running between the lower streets and the hillside neighbourhoods. The most famous is in the downtown area, connecting the valley floor to the upper streets of the old city.

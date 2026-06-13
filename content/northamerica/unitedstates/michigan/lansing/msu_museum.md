@@ -12,6 +12,7 @@ tags:
 title: MSU Museum
 type: poi
 url: museum.msu.edu
+score: 6.7
 ---
 
 Three floors of natural and cultural history exhibits with an emphasis on the Great Lakes region. Galleries cover world cultures, evolution, animal diversity, and Michigan heritage. On the MSU campus.

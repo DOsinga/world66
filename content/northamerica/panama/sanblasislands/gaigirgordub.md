@@ -7,6 +7,7 @@ tags:
   - culture
 title: Gaigirgordub (El Porvenir)
 type: poi
+score: 4.6
 ---
 
 Gaigirgordub — known until 2016 as El Porvenir — is the administrative capital of Guna Yala, a tiny island near the western end of the archipelago that houses the comarca's government offices, a police station, and basic facilities. It is the main port of entry for visitors arriving by sea and for the few flights that serve the archipelago via its small airstrip.

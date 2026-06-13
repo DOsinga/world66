@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 41.2845
 longitude: -111.8074
+score: 7.6
 ---
 
 Pineview Reservoir sits just north of Huntsville and is the centrepiece of outdoor recreation in the Ogden Valley. The reservoir was created by damming the Ogden River in 1937 and covers around 2,600 acres when full. In summer it becomes the valley's swimming and boating hub — powerboats, jet skis, and sailboats share the water with kayakers and paddleboarders, while campsites and picnic areas line the shore.

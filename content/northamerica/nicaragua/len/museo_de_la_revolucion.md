@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua
 story: >
   The museum is staffed and run by former Sandinista combatants who fought in the 1979 revolution. When they walk you through the exhibits, they are telling you their own stories — the weapons, the prison cells, the photographs are not abstract history but lived experience. This kind of proximity to revolutionary memory is increasingly rare.
+score: 8.2
 ---
 
 The Museo de la Revolución occupies a former government building on the central park and tells the story of Nicaragua's Sandinista revolution with the directness of people who were there. The guides — many of them veterans — show you confiscated weapons, explain guerrilla tactics, and point to photographs of combatants they knew personally.

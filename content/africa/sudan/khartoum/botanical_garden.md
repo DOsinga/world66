@@ -8,6 +8,7 @@ tags:
 - park
 title: Sudan National Botanical Garden
 type: poi
+score: 5.9
 ---
 
 The Sudan National Botanical Garden — sometimes called Mogran Garden — runs along the White Nile just south of where it meets the Blue. Founded in the colonial period and attached to the University of Khartoum, it is a modest plot of palms, neem trees, and labelled flowerbeds rather than a grand botanical display, but it is one of the few green spaces in the city centre and a welcome contrast to the surrounding traffic.

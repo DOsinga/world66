@@ -8,6 +8,7 @@ tags:
   - architecture
   - sight
 story: "At the industry's peak in the 1920s, the Indiana Limestone Company employed thousands of men around Bedford and shipped stone by the trainload to building sites from New York to San Francisco."
+score: 6.8
 ---
 
 The Indiana Limestone Company building on the north side of Bedford was the head office of the firm that dominated the local quarrying industry in the early twentieth century. The building is, naturally, faced entirely in oolitic limestone, with carved details that double as a sample card for the company's products.

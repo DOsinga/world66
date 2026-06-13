@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 55.5760
 longitude: -5.1490
+score: 4.8
 ---
 
 The Brodick Bar and Brasserie is one of the most reliable eating options in the village, serving pub classics alongside a more ambitious brasserie menu that makes good use of local seafood and Arran produce. The bar is busy on summer evenings with walkers and ferry arrivals.

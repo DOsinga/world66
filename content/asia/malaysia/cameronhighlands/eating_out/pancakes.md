@@ -8,6 +8,7 @@ address: "Tanah Rata Hawker Centre, Cameron Highlands"
 latitude: 4.4714
 longitude: 101.3832
 snippet: "Beloved breakfast pancakes from a friendly mute couple"
+score: 6.8
 ---
 
 Look for the pancake stall run by a mute couple at the Tanah Rata hawker centre. They make simple, excellent pancakes for about RM 1 each, and the warmth of their welcome is part of the experience. It's a breakfast-only operation — don't expect to find them in the afternoon.

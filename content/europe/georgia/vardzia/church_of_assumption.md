@@ -13,6 +13,7 @@ story: >
   surviving contemporary portraits of Queen Tamar, depicted alongside her
   father George III. She is shown in royal regalia, her face rendered with
   unusual realism for a 12th-century Georgian fresco.
+score: 9.0
 ---
 
 The Church of the Assumption is the heart of Vardzia and its best-preserved space. Carved into the rock like everything else here, the church retains its 12th-century frescoes largely intact — a minor miracle given the earthquake of 1283 and the centuries of abandonment that followed. The paintings cover the nave walls with biblical scenes and royal portraits rendered in the rich colours typical of medieval Georgian art.

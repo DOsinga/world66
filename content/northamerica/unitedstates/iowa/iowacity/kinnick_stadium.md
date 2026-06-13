@@ -8,6 +8,7 @@ tags:
 latitude: 41.6585
 longitude: -91.5511
 story: "Between the first and second quarters of every home game the entire 69,000-seat stadium turns and waves up at the children's hospital that overlooks the field from across the street. The Hawkeye Wave started spontaneously in 2017 and has been a fixture ever since."
+score: 6.7
 ---
 
 The University of Iowa's football stadium sits a kilometre west of the Pentacrest and seats nearly 70,000 — a number that on a fall Saturday makes it the eighth-largest city in Iowa for an afternoon. Hawkeye football is the city's biggest single event, and game-day tailgating fills the surrounding lots from dawn.

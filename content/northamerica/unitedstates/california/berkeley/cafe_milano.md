@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Cafe Milano
 type: poi
+score: 6.4
 ---
 
 One of the better cafes in Berkeley — and given how crowded Berkeley is with great cafes, that's saying something. Directly across from the UC Berkeley campus on Bancroft Way, Milano has been a fixture of the area's intellectual cafe culture for decades. Students, professors, and neighbourhood regulars fill the place at all hours. Good espresso, reliable pastries, and enough noise to make you feel like something interesting might be happening nearby.

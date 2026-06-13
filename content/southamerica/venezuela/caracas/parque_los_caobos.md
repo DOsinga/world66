@@ -8,6 +8,7 @@ tags:
   - parque_central
   - park
   - sight
+score: 6.8
 ---
 
 The oldest public park in Caracas, opened in 1920 on what had been the hacienda of the Sanz family. The name comes from the rows of *caoba* (mahogany) trees planted along the original allées; many of the original specimens are still standing, with trunks now well over a metre across. The park is laid out in a French style with formal paths, statues of cultural figures, and a central fountain by the sculptor Ernesto Maragall.

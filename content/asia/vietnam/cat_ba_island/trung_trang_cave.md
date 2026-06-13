@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, cave]
 latitude: 20.7770
 longitude: 107.0167
+score: 6.8
 ---
 
 Trung Trang Cave is one of the larger limestone caves on Cat Ba, about a kilometre long and threaded through a karst ridge near the centre of the island. It is rich in stalactites and stalagmites and lit, slightly garishly, with coloured floodlights — Vietnamese cave aesthetic — but the formations themselves are genuinely impressive.

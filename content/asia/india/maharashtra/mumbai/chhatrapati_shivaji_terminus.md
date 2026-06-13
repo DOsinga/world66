@@ -1,6 +1,7 @@
 ---
 latitude: 18.9401
 longitude: 72.8355
+score: 9.0
 story: 'The station was designed by F.W. Stevens and opened in 1887 as Victoria Terminus,
   to celebrate Queen Victoria''s Golden Jubilee. Stevens deliberately blended Italian
   Gothic with Indian Saracenic and Venetian Gothic elements — the result was so idiosyncratic
@@ -10,12 +11,7 @@ story: 'The station was designed by F.W. Stevens and opened in 1887 as Victoria 
 
   '
 tags:
-- things_to_do
-- sight
-- architecture
 - fort_area
-title: Chhatrapati Shivaji Maharaj Terminus
-type: poi
 ---
 
 The grand Victorian Gothic railway terminus that serves as both the headquarters of the Central Railway and one of the busiest train stations in Asia. The building is extraordinary: a riot of pointed arches, domes, turrets, flying buttresses, gargoyles, and stained glass, topped with a figure representing Progress. It was designed by F.W. Stevens and completed in 1887.

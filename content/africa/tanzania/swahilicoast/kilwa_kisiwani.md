@@ -9,6 +9,7 @@ tags:
 latitude: -8.9583
 longitude: 39.5067
 story: "From around 1100 to 1500 Kilwa was the wealthiest Swahili city-state, controlling the gold trade from Great Zimbabwe and trading directly with Persia, China, and India. The Moroccan traveller Ibn Battuta, who saw most of the medieval Old World, called it 'one of the most beautiful and well-constructed towns in the world.' By 1600 the Portuguese had ruined the trade and the place was effectively abandoned."
+score: 9.4
 ---
 
 Kilwa Kisiwani is a small mangrove-fringed island off the southern Tanzanian coast, with the ruins of one of the great medieval cities of the Swahili world scattered across it. The Great Mosque, with its 16 domed bays still standing, was the largest mosque in sub-Saharan Africa when it was built around 1300. The Husuni Kubwa palace complex, a kilometre east, is a 14th-century Sultan's palace with an octagonal bathing pool and elaborate masonry that survives because it was so isolated.

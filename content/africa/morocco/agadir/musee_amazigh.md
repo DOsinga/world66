@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.4184
 longitude: -9.6003
+score: 7.8
 ---
 
 The Museum of Amazigh Culture (Musée Berbère) is Agadir's most worthwhile indoor attraction — a collection of Berber (Amazigh) artefacts representing the indigenous culture of southern Morocco. The collection includes silver jewellery, Berber rugs with their geometric patterns and complex regional variations, carved wooden objects, and traditional dress from the tribes of the Souss valley and the Anti-Atlas mountains.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.8266
 longitude: 74.5994
 address: "South Bishkek"
+score: 7.8
 ---
 
 A traditional Kyrgyz cemetery on the southern outskirts of Bishkek, notable for its dense field of distinctive sky-blue painted dome tombs, miniature replicas of mosques, and the occasional small mausoleum. The dome motif is taken from the yurt and is repeated through Kyrgyz funerary architecture across the country.

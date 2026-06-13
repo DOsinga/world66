@@ -14,6 +14,7 @@ story: >
   California institution, drawing hundreds of thousands of visitors to marvel at
   orange pyramids, citrus-themed floats, and the crowning of an Orange Queen.
   The citrus groves are long gone — replaced by subdivisions — but the festival continues.
+score: 6.4
 ---
 
 The National Orange Show is an annual fair held in San Bernardino each May, on a permanent fairgrounds site in the southern part of the city. Founded in 1911 to celebrate the Inland Empire's citrus industry, it evolved into a general fair with carnival rides, livestock shows, entertainment acts, and the expected orange-themed food and display.

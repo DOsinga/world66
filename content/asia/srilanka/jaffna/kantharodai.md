@@ -14,6 +14,7 @@ story: >
   range from a significant ancient city to a monastic complex for meditation. The site is
   north of Jaffna near the town of Chunnakam, about 14 km from the city centre, and sees
   very few visitors despite its age.
+score: 7.9
 ---
 
 About 14 km north of Jaffna, near the village of Chunnakam, a field contains dozens of small Buddhist stupas clustered together in a space not much larger than a tennis court. There are around 60 of them, ranging from about a metre to several metres high, all roughly conical and built of brick that has acquired the pale colour of aged limestone. The effect is peculiar and arresting — like a miniature ancient city, compressed and abandoned.

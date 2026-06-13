@@ -8,6 +8,7 @@ tags:
 - sight
 story: "The chapel was built in 1898 by Mary Watts, wife of the Victorian painter G F Watts, with the help of villagers from Compton who she taught to model terracotta. The interior is covered with Celtic-revival reliefs symbolising the soul's journey to God — one of the great surviving works of British Art Nouveau."
 snippet: Art Nouveau memorial chapel a few miles south of town
+score: 8.3
 ---
 
 A small, extraordinary memorial chapel in Compton village south of Guildford, built in 1898 by Mary Watts and her local terracotta-modelling class. The exterior is a red-and-cream rotunda; the interior is densely covered with Celtic-revival plaster reliefs symbolising the souls' journey through life, judgement, and the afterlife.

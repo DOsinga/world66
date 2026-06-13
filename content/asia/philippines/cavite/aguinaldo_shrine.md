@@ -12,6 +12,7 @@ story: >
   Philippine independence from Spanish rule — the first declaration of independence
   in Asia. The flag that was waved and the bugle that was blown that day are kept
   inside the museum. Aguinaldo lived in this house until his death in 1964, aged 94.
+score: 8.3
 ---
 
 The Aguinaldo Shrine in Kawit is the birthplace of Philippine independence. The house where General Emilio Aguinaldo declared independence from Spain on 12 June 1898 still stands and is now a national shrine and museum administered by the National Historical Commission of the Philippines.

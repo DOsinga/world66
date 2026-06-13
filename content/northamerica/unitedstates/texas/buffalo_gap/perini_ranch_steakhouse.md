@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 story: "Tom Perini's mesquite-smoked tenderloin became something of a Texas legend after it was served at George W. Bush's inauguration in 2001 and again at a state dinner for Vladimir Putin at the Bush ranch later that year. The recipe is now in cookbooks; the steakhouse still grills it from scratch every evening."
+score: 8.0
 ---
 
 The Perini Ranch Steakhouse, on a working ranch a couple of miles south of Buffalo Gap, has been Tom Perini's project since 1973 and has grown into one of the most respected steak restaurants in Texas. The menu is short and serious — mesquite-grilled tenderloin and rib-eye, charcoal-broiled chicken, jalapeño-bacon-wrapped shrimp, smoked sirloin — with proper sides like green chile hominy and ranch beans.

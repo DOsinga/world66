@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 49.3375
 longitude: -123.1019
+score: 5.8
 ---
 
 Edgemont Village is the small affluent neighbourhood centre on the lower slope of Grouse Mountain, about three blocks of mostly independent shops and cafés clustered around a small village green. It is the most pleasant pedestrian street on the North Shore — quiet, leafy, well-kept, full of dog walkers and parents pushing strollers.

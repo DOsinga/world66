@@ -8,6 +8,7 @@ latitude: -38.2600
 longitude: 146.4100
 story: >
   Morwell National Park was nearly lost to open-cut coal mining in the 1970s, but local campaigners managed to have it gazetted as a national park in 1966, protecting one of the last significant stands of tall eucalypt forest in the Latrobe Valley before the mines could claim it.
+score: 7.8
 ---
 
 Morwell National Park begins just south of town and protects a remnant patch of tall eucalypt forest and cool-temperate rainforest that gives a glimpse of what the Latrobe Valley looked like before the brown coal era. The park is small — around 170 hectares — but dense and lush, with mountain ash and manna gum towering over a ferny understorey.

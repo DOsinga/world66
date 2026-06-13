@@ -9,6 +9,7 @@ latitude: 37.4703
 longitude: -5.6427
 sources:
   - https://en.wikipedia.org/wiki/Carmona,_Spain
+score: 7.0
 ---
 
 The Church of San Pedro stands just outside the Puerta de Sevilla and is impossible to miss: its tower is a deliberate imitation of the Giralda in Seville, built in the 18th century to give Carmona its own version of Andalucía's most famous spire. It is smaller and less elaborate than its model, but from the right angle it has the same satisfying proportions.

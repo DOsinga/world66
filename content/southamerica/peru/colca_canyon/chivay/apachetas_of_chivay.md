@@ -13,6 +13,7 @@ story: >
   Inca and continues throughout the Andes today. The apachetas above Chivay sit
   close to 5,000 metres above sea level, where the air is thin enough to make
   every step deliberate.
+score: 6.5
 ---
 
 Above Chivay, on the high-altitude plateau that separates the Colca Valley from the plains around Arequipa, stand clusters of apachetas — mystic cairns built up over generations by Andean travellers and pilgrims. These are not formal monuments but living ritual sites, still used by local people travelling the old routes across the altiplano.

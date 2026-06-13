@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5540
 longitude: -2.5727
+score: 6.4
 ---
 
 Just northwest of Laguardia, a cluster of seasonal wetland lakes — the Lagunas de Laguardia — attract migrating waders and waterfowl in spring and autumn. The lakes are shallow and surrounded by reeds, making them excellent habitat for ducks, herons, and, in season, flamingos moving between the Ebro delta and northern Europe. A signposted path circles the main lagoon.

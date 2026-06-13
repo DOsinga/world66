@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Church of St. John the Baptist"
 type: poi
+score: 6.8
 ---
 
 A short walk from the cathedral, the Church of St. John the Baptist is one of Gniezno's older parish churches, with roots going back to the medieval period. The building is Gothic in character, with a solid brick nave that sits quietly in the shadow of its more famous neighbour without competing with it. Inside, fragments of medieval frescoes survive — faded but legible — giving the interior a texture that newer restorations tend to erase.

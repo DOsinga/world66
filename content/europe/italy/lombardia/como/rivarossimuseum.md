@@ -9,6 +9,7 @@ tags:
 - museum
 title: Rivarossi Museum
 type: poi
+score: 5.9
 ---
 
 Rivarossi was one of the great names in model railways, founded in Como in

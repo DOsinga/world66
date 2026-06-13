@@ -8,6 +8,7 @@ tags:
 latitude: 4.5990
 longitude: -74.0718
 snippet: "Popular La Candelaria restaurant serving hearty Colombian set lunches"
+score: 5.8
 ---
 
 La Calendula is one of the better places in La Candelaria for the traditional Colombian almuerzo — the set lunch that anchors the working day. The menu changes daily: soup, a main of chicken, beef, or fish with rice, salad, patacones, and juice, all for a few thousand pesos.

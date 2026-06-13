@@ -7,6 +7,7 @@ tags:
 latitude: 10.72351
 longitude: 122.55622
 story: Jaro Cathedral is the only cathedral in the Philippines dedicated to a female saint — the Nuestra Señora de la Candelaria, Our Lady of Candles — and has been a place of Marian pilgrimage for centuries. What makes the complex architecturally unusual is that its bell tower, the Jaro Belfry, stands completely separate from the main church across the plaza, the result of repeated earthquake damage to the original structure that made rebuilding as one unit impractical.
+score: 8.1
 ---
 
 Jaro Cathedral — formally the Metropolitan Cathedral of Saint Elizabeth of Hungary — is the mother church of the Archdiocese of Jaro and one of the most visited religious sites in the Western Visayas. The cathedral faces a wide plaza in the old district of Jaro, north of the city centre, and its white baroque facade is the most recognisable image of colonial Iloilo. Pope John Paul II visited in 1981, and his visit is commemorated in the cathedral complex.

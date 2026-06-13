@@ -8,6 +8,7 @@ snippet: Bright bistro-café on Strada Mircea cel Bătrân, good for breakfast a
 tags:
   - bars_and_cafes
   - cafe
+score: 5.6
 ---
 
 **Orange Factory** is a small bistro-café on the main shopping street, useful for breakfast (eggs benedict, pancakes, fresh juice), good coffee through the day and a short lunch menu of salads, sandwiches and pastas. The interior is bright and the wifi works; it is a popular morning stop for local office workers and the small remote-working crowd.

@@ -7,6 +7,7 @@ tags:
   - nature
 title: Victoria Park
 type: poi
+score: 6.4
 ---
 
 Victoria Park is a formal public garden in the centre of Nuwara Eliya, laid out in the manner of English Victorian parks with neat lawns, flower beds, and shaded walkways. It was established during the British colonial period and named after Queen Victoria. The park is particularly beautiful in spring (March to May) when the trees are in flower, and it is one of the better spots in town for birdwatching — several species of flycatcher and warbler pass through during migration periods.

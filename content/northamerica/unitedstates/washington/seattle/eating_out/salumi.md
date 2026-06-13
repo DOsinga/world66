@@ -10,6 +10,7 @@ tags:
 neighbourhood: Pioneer Square
 sources:
   - https://en.wikipedia.org/wiki/Salumi_(restaurant)
+score: 7.4
 ---
 
 Salumi is a legendary Pioneer Square institution: a small cured meat shop and sandwich counter founded by Armandino Batali (father of Mario) in 1999. The shop makes its own salami, prosciutto, and other cured meats in-house, and at lunchtime serves some of the best sandwiches in Seattle. The lamb salami and the house porchetta are the things to order.

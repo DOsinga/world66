@@ -7,6 +7,7 @@ snippet: Hearty Transylvanian cooking in an unpretentious stone-vaulted cellar
 tags:
 - eating_out
 - restaurant
+score: 6.9
 ---
 
 Roata, in a vaulted cellar off Strada Memorandumului, is a long-running Transylvanian restaurant with a menu of cabbage rolls, smoked meats, polenta, and home-baked bread. The atmosphere is rustic in the genuine sense — long wooden tables, old folk costumes on the walls — and the food is reliably good.

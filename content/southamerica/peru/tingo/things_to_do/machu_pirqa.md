@@ -9,6 +9,7 @@ latitude: -6.3370
 longitude: -77.9131
 sources:
   - https://en.wikipedia.org/wiki/Machu_Pirqa
+score: 6.7
 ---
 
 Machu Pirqa ("old wall" in Quechua) is a smaller Chachapoyas archaeological site on the left bank of the Kuntichaka River, a tributary of the Utcubamba, at around 1,900 metres elevation. Far less visited than Kuélap, it offers a glimpse of Chachapoyas building without the crowds, and a chance to see how thoroughly these ruins are still embedded in working farmland and forest.

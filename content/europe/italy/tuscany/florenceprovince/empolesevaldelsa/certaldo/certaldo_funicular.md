@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.54857
 longitude: 11.042147
+score: 4.8
 ---
 
 The funicular connecting Certaldo's modern lower town to the medieval upper town (Certaldo Alto) is short — just 230 metres — but it does the job that would otherwise require a steep ten-minute climb up a winding road. A single car runs on a cable, and the whole journey takes a couple of minutes. It has been running since 1963 and is the standard way to reach Certaldo Alto.

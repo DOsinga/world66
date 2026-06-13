@@ -7,6 +7,7 @@ tags:
   - landmark
 title: Lawkananda Pagoda
 type: poi
+score: 7.2
 ---
 
 The Lawkananda stands on a bluff above the Ayeyarwady River at the southern end of the Bagan plain, its white stupa gleaming over the water. Built by King Anawrahta in the 11th century, it was designed to be visible to passing river traffic — a beacon of Theravada Buddhism at the edge of his kingdom.

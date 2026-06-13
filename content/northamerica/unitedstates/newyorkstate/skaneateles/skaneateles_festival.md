@@ -7,6 +7,7 @@ tags:
 - sight
 title: Skaneateles Festival
 type: poi
+score: 7.3
 ---
 
 The Skaneateles Festival, founded in 1980, brings a month of chamber music to the village every August. Concerts happen in a mix of venues: in the gazebo at Clift Park (free), in local churches (small fee), and at Anyela's Vineyards south of town, where the audience sits on the lawn with the lake spread out below.

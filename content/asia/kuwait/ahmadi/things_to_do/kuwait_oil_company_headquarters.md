@@ -1,6 +1,7 @@
 ---
 title: "Kuwait Oil Company Headquarters"
 type: poi
+score: 5.8
 ---
 
 The Kuwait Oil Company (KOC) headquarters sits at the heart of Ahmadi and is, in a very real sense, the reason the town exists. KOC was founded in 1934 as a joint venture between Anglo-Persian Oil (later BP) and Gulf Oil, and it was KOC that sank the well at Burgan in 1938 that confirmed Kuwait's vast reserves. The company chose the ridge south of the coast for its headquarters and built an entire town around it.

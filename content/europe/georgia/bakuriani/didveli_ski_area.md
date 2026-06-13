@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7450
 longitude: 43.5410
+score: 7.8
 ---
 
 Didveli is the more challenging of Bakuriani's two ski sectors, with runs extending up to around 2,700 metres — the highest skiable point in the resort. The terrain here is steeper and the atmosphere more rugged than at Kokhta, attracting intermediate and advanced skiers looking for something with a bit more bite.

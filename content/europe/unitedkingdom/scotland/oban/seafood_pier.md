@@ -8,6 +8,7 @@ tags:
   - restaurant
 story: >
   The stall has been operating at the North Pier since the 1990s. On a cold February morning with rain horizontal off the sound, queuing here for a box of langoustines is one of those experiences that reveals character — and the seafood is good enough that it justifies every drop of it. The best time to go is late morning when the boats have come in.
+score: 6.9
 ---
 
 The seafood stall on Oban's North Pier is one of the most reliably good places to eat seafood in Scotland. Langoustines, oysters, crab claws, smoked salmon, and dressed crab are sold directly to whoever is in the queue, all of it sourced from boats that have tied up in the same harbor. You eat from a polystyrene tray at a fold-out table, in all weathers.

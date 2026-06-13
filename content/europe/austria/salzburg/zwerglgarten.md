@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neustadt
+score: 6.2
 ---
 
 Tucked into the Mirabell Gardens beside the Pegasus fountain is a small terraced lawn lined with 17th-century marble statues of dwarves — twenty-eight grimacing, grotesque figures originally commissioned by Prince-Archbishop Franz Anton von Harrach. Many were modelled on real people with dwarfism kept at the archbishop's court as entertainers.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Lancetilla was founded in 1926 by American botanist William Popenoe as an experimental station for the United Fruit Company, testing which tropical species — rubber, oil palm, mangosteen, durian — could be grown commercially in Honduras. The Standard Fruit experiments here helped shape Central America's agricultural economy through the twentieth century."
+score: 8.4
 ---
 
 Lancetilla is one of the largest tropical botanical gardens in the world — over 1,600 hectares — and a short bus or taxi ride inland from Tela. The classic walk takes a couple of hours through the original arboretum, where giant bamboo, an avenue of royal palms, and a thicket of fruit trees from across the tropics still stand from the 1920s plantings.

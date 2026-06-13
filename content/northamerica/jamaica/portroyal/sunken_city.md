@@ -11,6 +11,7 @@ tags:
 - sight
 title: Sunken City of Port Royal
 type: poi
+score: 8.8
 ---
 
 Beneath the shallow harbour waters around Port Royal lie the remains of what was, in the 1680s, one of the largest and richest English cities in the Americas: a buccaneer port nicknamed "the wickedest city in the world" for its taverns, brothels, and the buccaneers it harboured. The earthquake of 1692 destroyed it in minutes. Two-thirds of the city sank into the harbour and the survivors fled across to the new settlement of Kingston.

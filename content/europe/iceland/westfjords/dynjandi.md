@@ -14,6 +14,7 @@ story: >
   to 60 metres at the base — and then tumbles through six more smaller falls to reach the
   fjordshore. The whole sequence descends about 200 metres in total. On calm days, the
   roar is audible long before the falls come into view around the bend in the fjord road.
+score: 9.3
 ---
 
 Dynjandi is Iceland's most celebrated waterfall outside the golden circle, and arguably more impressive than most of them. It falls from a high plateau in a wide, fan-shaped curtain — broadening as it drops — before breaking into a sequence of smaller falls that continue to the fjord shore below. The walk from the car park at the base to the top of the main fall takes about 20 minutes and passes each of the lower falls in turn; the trail is well-maintained and the views across the fjord improve with every hundred metres of height.

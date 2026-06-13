@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 49.2278
 longitude: -122.9917
+score: 4.8
 ---
 
 Metrotown is the largest shopping mall in Greater Vancouver, with over 450 stores and services under one enormous roof. It is anchored by two Bay stores, a Walmart, a Winners, and an array of national and international retail chains. For serious shopping — particularly for electronics, clothing, and home goods — it draws people from across the Lower Mainland.

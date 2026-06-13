@@ -8,6 +8,7 @@ latitude: 31.7424
 longitude: -106.4882
 story: >
   The name Paso del Norte — "Pass of the North" — refers to the natural gap in the mountains that made this the main crossing point between northern Mexico and the US for centuries before either country existed. The Spanish, the Comanche, the Butterfield Overland Mail, and later the revolutionary armies all came through this pass.
+score: 6.5
 ---
 
 The Paso del Norte International Bridge is the oldest and most historically significant of the four crossings between Juárez and El Paso. The original ferry crossing here was used for centuries; the first formal bridge was built in the 1880s. The current pedestrian and vehicle bridge handles foot traffic from El Paso Street in Texas to Avenida Juárez in Mexico.

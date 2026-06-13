@@ -10,6 +10,7 @@ tags:
 - sight
 - church
 - historical_site
+score: 7.3
 ---
 
 The Ibudhou Thangjing temple in central Moirang is one of the most important sites of indigenous Meitei religion. It is dedicated to Thangjing, the umang lai (forest deity) and traditional guardian of the Moirang region. The cult of Thangjing is older than the introduction of Vaishnavite Hinduism to Manipur in the early eighteenth century, and continues to be observed by many Meitei alongside or instead of Hindu practice.

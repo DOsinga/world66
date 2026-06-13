@@ -8,6 +8,7 @@ latitude: 18.45
 longitude: 13.1
 snippet: "A vast sand sea stretching west and south of Bilma, part of the Ténéré Desert"
 story: "The Erg du Bilma is one of the major sand seas of the central Sahara, forming the eastern fringe of the Ténéré. Its dunes were shaped over millennia by prevailing northeast winds that carry sand off the Tibesti and Fezzan highlands. The azalai caravans travelling between Agadez and Bilma crossed sections of this erg on the southern route, navigating by stars and memory across terrain with no fixed landmarks — a skill that took years to learn and was passed down within families and clans."
+score: 8.5
 ---
 
 The Erg du Bilma is the desert that surrounds Kawar on its western and southern sides, and it is enormous. The dunes here are proper Saharan dunes — high, steep-faced, and arranged in the sweeping parallel ridges characteristic of ergs shaped by consistent wind. Standing on a crest and looking west, there is nothing to interrupt the sand until well past the horizon. This is not a place to go casually; the erg should be explored only with a vehicle you trust and a driver who knows the terrain.

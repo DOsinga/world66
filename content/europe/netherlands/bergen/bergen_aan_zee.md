@@ -7,6 +7,7 @@ tags:
 latitude: 52.6667
 longitude: 4.6333
 snippet: Bergen's seaside annex, a small beach resort in the North Sea dunes
+score: 6.9
 ---
 
 Bergen aan Zee is the coastal counterpart to Bergen proper — a low-key beach resort a few kilometres west, reached by bus or bicycle through the dunes. The North Sea beach here is wide and sandy, with serious surf when the wind is up. In summer, the usual Dutch beach infrastructure appears: strandtenten (beach pavilions) selling fish and beer, sunbathers, and children building elaborate sandcastles.

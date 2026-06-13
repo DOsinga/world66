@@ -9,6 +9,7 @@ latitude: 20.9333
 longitude: 85.7833
 story: >
   Built in 1246 by King Narasimha Deva I of the Eastern Ganga dynasty — the same monarch who commissioned the Konark Sun Temple — Kapilash sits at 2,239 feet on a forested hilltop sometimes called the "Kashi of Odisha". The 1,352 stone steps to the temple were laid by pilgrims over the centuries.
+score: 8.3
 ---
 
 The Chandrasekhara temple at Kapilash, about 25 km north of Dhenkanal town, is the most important Shiva pilgrimage site in the region. The black-stone shrine stands on the summit of a forested hill in the Kapilash Wildlife Sanctuary, reached either by the 1,352-step pilgrim staircase or by a winding motor road that climbs to a parking lot near the top.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - hiking
   - sight
+score: 8.1
 ---
 
 The Pilgrim's Path is a low coastal trail running from Spotorno around the headland to the village of Bergeggi opposite the island. It follows the line of the ancient via Iulia Augusta and gives the best views in town: the path winds through Mediterranean macchia and aleppo pine, with the limestone cliffs of Punta del Maiolo dropping straight to the sea.

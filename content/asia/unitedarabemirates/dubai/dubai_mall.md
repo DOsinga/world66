@@ -7,6 +7,7 @@ tags:
 - downtown_dubai
 title: Dubai Mall
 type: poi
+score: 6.4
 ---
 
 The Dubai Mall is one of the world's largest shopping centres by total area — 1,124 stores, an Olympic-sized ice rink, a 10-million-litre aquarium, a dinosaur skeleton (a 155-million-year-old diplodocus), a cinema complex, and a waterfall with fibreglass divers frozen mid-fall. It connects directly to the Burj Khalifa and is the starting point for the Dubai Fountain.

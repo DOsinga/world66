@@ -9,6 +9,7 @@ latitude: 36.7082
 longitude: 4.0372
 sources:
   - https://en.wikipedia.org/wiki/Mouloud_Mammeri_University_of_Tizi-Ouzou
+score: 7.8
 ---
 
 The university that anchors intellectual life in Tizi Ouzou was renamed in 1988 in honour of Mouloud Mammeri, the novelist, anthropologist, and linguist who devoted his life to recording and defending Kabyle culture. Walking the campus today, you'll find Amazigh script alongside Arabic and French — a visible marker of how much has changed since Mammeri was banned from giving a lecture here in 1980, an act that triggered the Berber Spring uprising.

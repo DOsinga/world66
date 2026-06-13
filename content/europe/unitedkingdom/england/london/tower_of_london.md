@@ -21,6 +21,7 @@ tags:
 title: Tower of London
 type: poi
 url: www.hrp.org.uk/tower-of-london
+score: 9.8
 ---
 
 Nine hundred years of British history compressed into a single riverside fortress. The White Tower at its core dates from 1078; the surrounding walls, towers, and moat came later, added by successive kings who used the complex as palace, prison, and treasury.

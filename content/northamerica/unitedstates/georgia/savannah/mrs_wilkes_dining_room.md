@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Mrs. Wilkes' Dining Room
 type: poi
+score: 8.0
 ---
 
 Mrs. Wilkes' Dining Room has been serving lunch from a townhouse on Jones Street since 1943. The format has not changed: you sit at communal tables with strangers, and the food comes out in bowls — fried chicken, collard greens, black-eyed peas, cornbread, mashed potatoes, and whatever else is on that day. You pass the bowls around and eat as much as you want.

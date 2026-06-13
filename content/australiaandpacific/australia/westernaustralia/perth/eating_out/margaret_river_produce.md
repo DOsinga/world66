@@ -7,6 +7,7 @@ tags:
   - day_trip
 latitude: -33.9530
 longitude: 115.0740
+score: 5.6
 ---
 
 Margaret River is three hours south of Perth and one of Australia's finest wine regions — Cabernet Sauvignon and Chardonnay are the benchmarks, but Semillon Sauvignon Blanc blends and Shiraz are also excellent. The region is genuinely worth a dedicated trip, but Perth's better restaurants carry extensive Margaret River lists, and several wine bars and bottle shops in the city make it easy to explore the region's output without leaving town. If you are planning even one good dinner in Perth, it is worth asking for a Margaret River recommendation.

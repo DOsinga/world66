@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Nestor's Texas Hots
 type: poi
+score: 4.7
 ---
 
 The Texas Hot style hot dog is another regional delicacy, teaming a Sahlens or Wardynski hot dog with mustard, slivered white onion and Texas Style meat sauce on a steamed hot dog roll.

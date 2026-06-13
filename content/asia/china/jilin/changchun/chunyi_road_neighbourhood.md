@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.8800
 longitude: 125.3000
+score: 5.4
 ---
 
 Chunyi Road is Changchun's main upscale commercial street, lined with department stores, boutiques, restaurants, and the flagship outlets of Chinese and international brands. The street functions as the city's shopping spine and social parade ground — the place where Changchun's residents come to see and be seen.

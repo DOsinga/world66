@@ -7,6 +7,7 @@ tags:
 latitude: 6.8071
 longitude: -58.1545
 snippet: "Old-school rum shop in central Georgetown"
+score: 7.1
 ---
 
 A traditional rum shop near the centre, D'Aguilars is one of the surviving examples of an old Georgetown institution — a tiny bar with a counter, a few stools, and shelves of local rums and beers behind. The clientele is mostly local working men in the afternoon and a more mixed crowd in the evening.

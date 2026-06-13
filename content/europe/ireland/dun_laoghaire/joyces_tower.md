@@ -11,6 +11,7 @@ tags:
 - sight
 title: Joyce's Tower (Sandycove Martello Tower)
 type: poi
+score: 7.7
 ---
 
 A squat granite Martello tower on the rocky promontory at Sandycove, about 1.5 km along the coast from the main harbour. It was built in 1804 as part of a chain of defences against a Napoleonic invasion that never came. James Joyce stayed here briefly in 1904 and used it to open *Ulysses* — the tower is now a small Joyce museum, with first editions, letters, and a few personal effects. The views from the roof over Dublin Bay are excellent.

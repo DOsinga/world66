@@ -15,6 +15,7 @@ story: >
   prompted the landing ban in 1994. Custom authorities at Italian airports
   occasionally confiscate jars of the sand; the maximum fine for taking it
   is over 3,000 euros.
+score: 8.5
 ---
 
 Budelli is one of the outer islands in the northern part of the archipelago, and its Spiaggia Rosa (Pink Beach) is the most photographed sight in the Maddalena National Park. The sand gets its colour from crushed coral and shell fragments, which give it a faint but unmistakable pink tinge — particularly visible when the sand is wet.

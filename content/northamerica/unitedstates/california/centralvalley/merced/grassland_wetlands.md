@@ -8,6 +8,7 @@ tags:
 latitude: 37.2100
 longitude: -120.7500
 story: "The Grasslands Ecological Area of Merced County is one of the largest remaining wetland complexes in California's Central Valley — a habitat that once covered millions of acres before agricultural drainage reduced it to scattered remnants. The wetlands that remain support more wintering waterfowl than almost anywhere else in the western United States."
+score: 8.4
 ---
 
 The Grassland Wetlands of Merced County are a 25-square-mile complex of wetlands, ponds, and seasonal marshes in the western part of the county, including three national wildlife refuges (San Luis, Merced, and Kesterson). From October through March, the area supports huge populations of migratory waterfowl — sandhill cranes, Canada geese, white-fronted geese, pintails, wigeons, and teal — that use the wetlands as a wintering ground on the Pacific Flyway.

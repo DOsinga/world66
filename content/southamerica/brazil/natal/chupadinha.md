@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -5.8764
 longitude: -35.1832
+score: 6.6
 ---
 
 Chupadinha is one of Natal's most popular seafood restaurants, concentrated in the Ponta Negra area. The name refers to the local style of sucking the sweet meat from small crustaceans — a technique that tells you something about the style of cooking here. The menu centers on lobster, shrimp, crab, and fish cooked simply and well, and the portions are substantial.

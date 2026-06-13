@@ -8,6 +8,7 @@ tags:
 - historic
 title: W. C. Baker House
 type: poi
+score: 4.8
 ---
 
 The W. C. Baker House at 301 East Commerce is one of the few intact examples of an "airplane bungalow" in this part of Oklahoma — a style of Craftsman house with a smaller second-storey room (the "cockpit") sitting in the middle of a wider one-storey base. The form spread to the southern Great Plains in the early 1920s and most surviving examples have been remodelled past recognition; this one has not.

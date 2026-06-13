@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.6
 ---
 
 The small mission church at the centre of town is a piece of New Caledonia's Marist history. The parish was established in the 1860s when French Catholic missionaries first reached this stretch of the east coast; the current building is a modest white stucco structure with a tin roof, very much in the colonial mission tradition.

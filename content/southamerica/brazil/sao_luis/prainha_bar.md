@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: -2.527
 longitude: -44.307
+score: 7.5
 ---
 
 Prainha is one of the landmark bars of São Luís's reggae circuit, a long-running venue in the historic centre where the sound system thunders on Friday and Saturday nights. The music starts around 10pm and goes until the small hours; the crowd is mixed — students, office workers, tourists who've figured out where to go — and the dance floor fills up completely within an hour.

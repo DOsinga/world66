@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: 17th-century church in the lower part of town
+score: 7.0
 ---
 
 Surb Hovhannes (St John) is the second of Meghri's three surviving Armenian churches, in the lower part of the old town near the bazaar. It was built in 1673 with thick masonry walls of cut tuff and the long horizontal proportions typical of southern Armenian churches of the period. The interior is plain — most decoration was lost during the Soviet years when the building was used as a warehouse — but a 17th-century carved altar stone and a series of weathered khachkars in the small cemetery remain.

@@ -5,6 +5,7 @@ tags: [things_to_do, outdoor, sight, nature]
 latitude: 26.2897
 longitude: 56.1797
 story: Jebel Harim — "Mountain of Women" in Arabic — takes its name from the legend that the ruler of Musandam kept his harem hidden in a village near the summit, protected by the road's impracticability. At nearly 2,100 metres it is the highest point in Oman's Musandam Governorate, and on clear days the view stretches across the Strait of Hormuz to the Iranian coast. The plateau is dotted with ancient rock carvings of animals and humans that archaeologists believe are several thousand years old.
+score: 8.6
 ---
 
 The mountain road from Khasab to the Jebel Harim plateau is one of the most spectacular drives in the entire Gulf region. The route climbs sharply from sea level through a series of switchbacks, revealing increasingly vertiginous views of the khors below. The road surface is sealed but narrow and demands a 4WD with high clearance; the sharp corners require caution. Do not attempt it in a standard rental car.

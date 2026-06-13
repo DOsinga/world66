@@ -7,6 +7,7 @@ tags:
 latitude: 34.7716
 longitude: 32.4302
 snippet: District museum collecting finds from Paleolithic to Byzantine Paphos
+score: 7.8
 ---
 
 The district museum, set in a low modernist building on Grivas Digenis Avenue, walks you through the Paphos region from Neolithic stone tools to Byzantine icons. The strongest rooms are the Roman ones: a hoard of clay hot-water bottles shaped to fit specific body parts, votive marble eyes and ears left by the sick at the sanctuary of Apollo, and the marble head of Aphrodite found near Petra tou Romiou.

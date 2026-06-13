@@ -9,6 +9,7 @@ tags:
   - park
 sources:
   - https://en.wikipedia.org/wiki/Botanischer_Garten_Wuppertal
+score: 6.3
 ---
 
 Wuppertal's botanical garden sits on a hillside above the Barmen district, and the climb to reach it is part of the experience — the city's hilly terrain means you arrive with a view over the rooftops and the Wupper valley below. The garden itself is modest in scale at around 2.5 hectares, but it is well maintained and densely planted, with a good greenhouse section and a collection focused on plants from Central Europe and mountain regions.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Late-June chamber music festival across Isafjordur
+score: 7.0
 ---
 
 Við Djúpið ("by the deep") is an annual music festival held in Isafjordur in late June, alongside an academy that brings together classical musicians from Iceland and abroad. Concerts take place in the town's old timber warehouses, the cathedral, and occasionally outdoors in the courtyard of the Westfjords Heritage Museum.

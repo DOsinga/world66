@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8938
 longitude: 14.5086
+score: 8.2
 ---
 
 The five-minute ferry from Valletta's waterfront to the Three Cities — Vittoriosa (Birgu), Senglea, and Cospicua — is one of the best short excursions in Malta and costs almost nothing. The crossing gives you the classic view of Valletta's honey-stone bastions rising above the harbour, with the spires and towers of the city silhouetted against the sky. This is the view that made Malta famous as a strategic naval base.

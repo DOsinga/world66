@@ -7,6 +7,7 @@ tags:
 title: Highlands Bar and Grill
 type: poi
 story: "Highlands Bar and Grill, opened by Frank Stitt in 1982, is widely credited with starting Birmingham's culinary renaissance. Stitt trained in France and California, then returned to Alabama to cook Southern food with classical French technique — reinterpreting dishes like fried chicken, pork ribs, and Gulf fish with ingredients sourced from Alabama farms. The James Beard Foundation has named it one of America's Classics."
+score: 7.2
 ---
 
 Highlands Bar and Grill on 11th Avenue South is the restaurant that put Birmingham on the national food map. Chef Frank Stitt pioneered a French-influenced approach to Southern cooking in the 1980s before farm-to-table was a concept, and the kitchen's consistency over four decades has been remarkable. The menu changes with the seasons but always foregrounds Alabama produce, Gulf seafood, and Southern techniques.

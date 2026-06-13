@@ -11,6 +11,7 @@ story: >
   King Umberto I of Italy was shot dead in the courtyard of the Villa Reale in July 1900 by the anarchist Gaetano Bresci, who had returned from the United States specifically to carry out the assassination. Bresci said he was avenging the victims of a massacre ordered by Umberto's general in Milan two years earlier. The king had awarded that general a medal. Umberto was the fourth head of state assassinated by anarchists in the space of six years, and his death prompted the US to pass its first law excluding immigrants on grounds of political belief.
 sources:
   - https://en.wikipedia.org/wiki/Royal_Villa_of_Monza
+score: 7.8
 ---
 
 The Royal Villa of Monza is one of the grandest Neoclassical buildings in Italy, a vast 700-room palace designed by Giuseppe Piermarini (who also designed La Scala in Milan) and built between 1777 and 1780 as the summer residence of the Austrian Habsburgs who then ruled Lombardy. The building's sheer scale is impressive — the main facade stretches 700 metres — though only parts of the interior are currently open to visitors, with restoration ongoing.

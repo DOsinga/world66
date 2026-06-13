@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.2531
 longitude: 8.877
+score: 5.5
 ---
 
 Sinsheim's small old town runs along the Hauptstraße between the railway station and the river Elsenz. The Stadtkirche on the hill above the centre dates to the nineteenth century but stands on the site of an eleventh-century monastery; the surrounding lanes have a few timber-framed houses and the usual Baden bakeries.

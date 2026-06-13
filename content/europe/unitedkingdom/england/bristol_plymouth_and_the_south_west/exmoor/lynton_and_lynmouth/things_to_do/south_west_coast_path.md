@@ -11,6 +11,7 @@ tags:
   - wildlife
 title: South West Coast Path
 type: poi
+score: 9.1
 ---
 
 The South West Coast Path passes through Lynmouth and runs in both directions along some of its most dramatic stretches. Heading west takes you along the cliff tops to the Valley of Rocks and beyond toward Combe Martin — a section with consistent sea views and a real sense of exposure when the weather comes in. Heading east from Lynmouth, the path climbs steeply before following the clifftop above the Foreland, the most northerly point on the Exmoor coast.

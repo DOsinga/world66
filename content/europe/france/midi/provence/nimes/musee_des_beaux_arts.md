@@ -9,6 +9,7 @@ longitude: 4.3606
 snippet: Fine arts museum housing a large Roman mosaic and good Flemish painting
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_N%C3%AEmes
+score: 6.8
 ---
 
 The Musée des Beaux-Arts de Nîmes occupies an early 20th-century building in the south of the old town, and its permanent collection is broader than most visitors expect: strong on Flemish and Dutch Golden Age painting, with French 17th-to-19th-century works alongside. The ground floor features a large and well-preserved Roman mosaic — a wedding scene — discovered during construction work in the city.

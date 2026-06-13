@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: All-day breakfast cafe in a converted garage
+score: 6.0
 ---
 
 A breakfast institution tucked into a laneway off Camp Street, in what used to be a literal garage. The all-day breakfast menu runs from porridge to a "big eye-opener" plate built around bacon, sausages, eggs, hash browns, and as much black coffee as you need. Local roaster, strong pours, no-nonsense service.

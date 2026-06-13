@@ -8,6 +8,7 @@ latitude: 23.0728
 longitude: 70.1318
 story: >
   The name Hathidhar — "elephant ridge" — refers to the distinctive hillock on which the temple stands, visible from much of central Gandhidham. When the Sindhi and Gujarati Jain communities resettled here after 1947, they chose this elevated spot deliberately, replicating the tradition of building Jain temples on prominent hills as expressions of endurance and faith.
+score: 6.4
 ---
 
 The Hathidhar Jain Temple crowns a small rocky rise that gives it a commanding presence over the city grid below. It is dedicated to the Jain tirthankaras and is an active pilgrimage site for the Jain community in Gandhidham and Adipur. The approach involves a modest climb up stone steps, and the view from the temple terrace across the flat plains of Kutch is worth the effort.

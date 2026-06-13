@@ -9,6 +9,7 @@ latitude: 39.6031
 longitude: -8.4117
 sources:
   - https://en.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Jo%C3%A3o_Baptista_(Tomar)
+score: 7.2
 ---
 
 The Church of Saint John the Baptist occupies one side of Tomar's main square, the Praça da República, its Manueline doorway and hexagonal pulpit the most exuberant things on an otherwise sober exterior. The church was built in the fifteenth century under the patronage of King Manuel I and is largely Gothic in structure, with the Manueline flourishes typical of the period concentrated at the doorway and pulpit rather than spread across the whole building.

@@ -9,6 +9,7 @@ title: Ponce City Hall
 type: poi
 story: >
   The Casa Alcaldía was built in the 1840s in a classical Spanish colonial style, and its two-story facade with central archway and flanking bell towers has served as the template for civic authority in Ponce ever since. In 1898, during the Spanish-American War, American troops raised the US flag here for the first time in Ponce — a moment that ended four centuries of Spanish rule over the island. The building now houses city government offices and a small museum on the ground floor.
+score: 6.8
 ---
 
 Ponce City Hall occupies a commanding position at the centre of Plaza las Delicias, physically separating the plaza's two halves and giving the ensemble its formal spine. The building, which dates to the mid-nineteenth century, is a handsome example of colonial civic architecture: thick walls, arched colonnades, and a modest tower that watches over the square below.

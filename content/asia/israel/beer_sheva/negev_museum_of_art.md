@@ -9,6 +9,7 @@ latitude: 31.24159
 longitude: 34.78839
 story: >
   The museum occupies the former Ottoman governor's mansion, built in 1906, one of the finest surviving buildings from Be'er Sheva's founding era. During the 1948 war the building served briefly as a military headquarters for both sides in quick succession before the city's capture by Israeli forces.
+score: 6.7
 ---
 
 The Negev Museum of Art is housed in a beautifully restored Ottoman-era building in the heart of Be'er Sheva's Old City. The collection focuses on Israeli art from the 20th century, with particular strength in works connected to the Negev and Israel's founding generation. Temporary exhibitions rotate regularly and tend to be thoughtfully curated.

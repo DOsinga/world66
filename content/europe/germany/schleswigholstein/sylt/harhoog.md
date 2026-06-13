@@ -8,6 +8,7 @@ tags:
   - sight
   - keitum
 snippet: A megalithic burial chamber from the Funnelbeaker culture, in a heath above Keitum
+score: 7.1
 ---
 
 A rectangular megalithic tomb dating to around 3,000 BC, the Harhoog stands on a low rise of heath above Keitum with views across the Wadden Sea. The chamber, open to the air, is formed of upright sidestones supporting three large capstones — the kind of construction that defines the Funnelbeaker culture across the southern Baltic and North Sea coasts.

@@ -4,6 +4,7 @@ type: poi
 latitude: 49.4180
 longitude: 0.2331
 tags: [day_trips, sight]
+score: 8.2
 ---
 
 The harbour town of Honfleur, an hour west of Rouen near the mouth of the Seine, is the picture-postcard Normandy port: tall, narrow, slate-fronted houses around a small rectangular basin packed with sailing yachts, and at one end the extraordinary wooden church of Saint-Catherine, built by shipwrights in the 15th century with twin naves like an inverted ship's hull.

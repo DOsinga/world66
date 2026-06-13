@@ -10,6 +10,7 @@ tags:
 - mosque
 title: Gurgi Mosque
 type: poi
+score: 8.1
 ---
 
 The Gurgi Mosque, built in 1833 by Yussef Gurgi — a wealthy merchant from Istanbul — is the most frequently visited mosque in Tripoli's old medina. The structure is built to a 16-metre square plan, with nine columns supporting a roof of sixteen small domes. The tile-work inside is among the finest in the city, brought from Italy and the Maghreb.

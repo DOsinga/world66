@@ -8,6 +8,7 @@ tags:
 latitude: 36.8340
 longitude: 25.8878
 story: "Chora sits on a ridge high above the sea, positioned by the islanders deliberately to be invisible from approaching pirate ships — a reminder that for most of the island's history, the sea was a source of danger rather than recreation."
+score: 8.5
 ---
 
 Chora, the island's capital, is the classic Cycladic hilltop village: whitewashed cube houses stacked up a rocky ridge, a working windmill at the top, and lanes too narrow for any vehicle larger than a donkey. It sits at around 400 metres, high enough that the Aegean appears as a distant shimmer on clear days.

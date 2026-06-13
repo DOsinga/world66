@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.9477
 longitude: 10.1566
+score: 6.3
 ---
 
 The seat of the Catholic Archdiocese of Bamenda, a large modern church on the southern edge of the city. The architecture combines a basilica plan with Cameroonian decorative motifs — carved wooden doors and an interior of red volcanic stone.

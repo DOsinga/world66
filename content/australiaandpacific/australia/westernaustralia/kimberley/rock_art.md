@@ -14,6 +14,7 @@ story: >
   their cultural context is unclear even to the current custodian groups, and the extraordinary
   detail of their headdresses and ritual clothing has prompted some fringe theorists to suggest,
   incorrectly, that they were painted by non-Aboriginal artists.
+score: 9.1
 ---
 
 The Kimberley contains one of the world's greatest concentrations of rock art, spanning at least 40,000 years of continuous artistic tradition. The earliest are the Gwion Gwion figures: elegant, elongated painted people with elaborate headdresses and tasselled clothing, found in sandstone overhangs across the plateau country of the northwest Kimberley. Later traditions include the Wanjina figures — large, haloed faces with no mouths, representing cloud and rain spirits, still considered sacred and actively maintained by the Wunambal Gaambera, Ngarinyin, and Worora peoples.

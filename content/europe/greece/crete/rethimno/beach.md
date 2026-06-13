@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.365
 longitude: 24.480
+score: 6.3
 ---
 
 The municipal beach of Rethimno stretches for about 12 km east of the old town along the bay, one of the longest continuous sandy beaches in Crete. The sections nearest the old town are the busiest; walking 20 minutes east takes you to progressively quieter stretches. The sand is fine and the sea relatively shallow, making it suitable for families. Sun loungers and umbrellas are available for hire throughout the summer.

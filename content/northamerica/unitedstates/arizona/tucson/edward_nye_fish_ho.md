@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Edward Nye Fish House is an 1868 Sonoran-style adobe a block north of the Tucson Museum of Art, with thick mud walls and a wide central hallway in the traditional zaguán style. Edward Fish was an early Tucson merchant and the house is one of the best-preserved examples of the city's pre-statehood architecture.

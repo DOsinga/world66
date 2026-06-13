@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Mengrai Seafood Restaurant
 type: poi
+score: 5.6
 ---
 
 Mengrai Seafood is a large, informal Thai seafood restaurant near Tha Phae Gate that draws crowds of locals and visitors for its whole fish, fresh prawns, and oyster omelettes. It's noisy, brightly lit, and operates at speed — the kind of place where the food arrives within minutes and the tables turn over fast.

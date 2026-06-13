@@ -9,6 +9,7 @@ tags:
   - hiking
 story: "The Claife Viewing Station was built in the 1790s by a local landowner as an early piece of picturesque tourism — a stone viewing room with coloured glass panes you could swap to see Windermere in different seasonal tints. Visitors took the chain ferry across, climbed the path, and gazed through orange for autumn, blue for winter."
 snippet: "Wooded ridge across the lake with a famous 18th-century viewing station"
+score: 8.4
 ---
 
 The Claife Heights — the wooded ridge that rises on the western shore of Windermere — was one of the first places in Britain to be deliberately marketed as a place of natural beauty. In the 1790s a local landowner built the **Claife Viewing Station** halfway up the ridge: a substantial stone structure with a glazed viewing room set above the trees and angled to take in the lake.

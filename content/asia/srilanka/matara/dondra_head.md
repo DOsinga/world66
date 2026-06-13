@@ -8,6 +8,7 @@ latitude: 5.9235
 longitude: 80.5899
 story: >
   Dondra Head lighthouse, built by the British in 1889, is the tallest lighthouse in Sri Lanka at 49 metres. It marks the southernmost point of the island — a fact that gives it both navigational importance (ships rounding Sri Lanka from the west must pass close to this point) and a certain symbolic weight for travellers who like standing at the extremities of things.
+score: 7.2
 ---
 
 Dondra Head, about 6 kilometres east of Matara, is the southernmost point of Sri Lanka and therefore — depending on how you look at it — the southernmost point of South Asia before you hit Antarctica. The headland is marked by a tall British-era lighthouse, still operating and painted white against the blue sky. There is a small Vishnu temple here as well, the Dondra Devalaya, which was once one of the most important Hindu temples on the island before it was destroyed and rebuilt several times over the centuries.

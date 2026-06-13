@@ -8,6 +8,7 @@ title: Bubanj Memorial Park
 type: poi
 story: >
   The park's three fist-shaped sculptures — known locally as "three fists" — were designed by sculptor Ivan Sabolić and unveiled in 1963. Each fist represents one of the three groups most affected by the executions: Jewish victims, Romani victims, and political prisoners. The gesture of a raised fist was chosen to express defiance rather than defeat.
+score: 7.0
 ---
 
 Bubanj is the forested hillside southwest of Niš where the German occupiers executed an estimated 10,000 prisoners from the Crveni Krst concentration camp between 1941 and 1944. Today it is a memorial park, reached by a path through pine forest and dominated by three massive bronze fist sculptures on a raised platform.

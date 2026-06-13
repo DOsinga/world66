@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Gothic parish church with Rubens's "Adoration of the Magi" as its centrepiece
+score: 8.5
 ---
 
 A few minutes' walk north of the Grote Markt, Sint-Janskerk is an unassuming 15th-century brick parish church from the outside but holds one of Rubens's finest altarpiece commissions: the **Adoration of the Magi**, a glowing triptych painted in 1617 for this church and still hanging above the high altar. The central panel is among his strongest religious works of that decade.

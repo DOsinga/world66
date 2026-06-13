@@ -6,6 +6,7 @@ longitude: 96.4775
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The reconstructed Hanthawaddy Palace sits within a square moated compound in the centre of Bago, a modern attempt to evoke the royal residence of the Mon kingdom at its height. The original palace was burned when King Alaungpaya sacked the city in 1757, and nothing of the historic structure survived. What stands now is a 1990s reconstruction based on historical records and educated conjecture, built in the elaborate multi-tiered wooden style of a Burmese royal palace.

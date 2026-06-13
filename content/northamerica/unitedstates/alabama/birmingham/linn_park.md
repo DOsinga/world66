@@ -7,6 +7,7 @@ tags:
 - park
 title: Linn Park
 type: poi
+score: 5.9
 ---
 
 The civic heart of downtown Birmingham, Linn Park is a formal green space flanked by the Birmingham Museum of Art on one side and City Hall, the Jefferson County Courthouse, and the Birmingham Public Library on the others. The park hosts outdoor concerts and the city's main public events throughout the year.

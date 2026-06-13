@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 54.646
 longitude: 24.937
+score: 7.8
 ---
 
 The Peninsula Castle is the older and less-visited of Trakai's two castles, its ruined walls rising from a promontory between two lakes near the town centre. Built in the second half of the 14th century — before the Island Castle was completed — it served as the main ducal residence until the island fortress superseded it.

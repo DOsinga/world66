@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9390
 longitude: -83.9476
+score: 8.3
 ---
 
 The Urban Wilderness is a network of roughly 50 miles of hiking and mountain biking trails on the south side of Knoxville, connecting several parks and natural areas within minutes of downtown. The anchor is Ijams Nature Center, a 300-acre wildlife sanctuary along the Tennessee River that runs extensive trail programmes and has good kayak access.

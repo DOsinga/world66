@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.6862
 longitude: -89.5907
+score: 6.2
 ---
 
 Peoria has one of the largest scale models of the solar system in the world, stretching across the city at a scale of 1:39 billion. The Sun is represented by a sphere outside the Peoria Riverfront Museum on the waterfront; the planets are distributed across the city at the correct proportional distances from each other. Mercury, Venus, Earth, and Mars are within easy walking distance of the museum, but Pluto — if you still count it — is several miles away.

@@ -17,6 +17,7 @@ story: >
   Sultanate was abolished and the village shrank to what it is today — a single
   lane of old stone houses clinging to a rocky platform above the Kurmukchay
   gorge, 1,400 metres above sea level.
+score: 8.6
 ---
 
 Ilisu is a small stone village about 25 km from Qax, tucked into a narrow valley in the foothills of the Greater Caucasus. It sits on a rocky platform above the Kurmukchay river at around 1,400 metres and was once the capital of the Elisu Sultanate, an independent mountain polity that held out against Russian expansion until 1844. The village has one main street, but along it you will find a 14th-century defensive tower, the remains of Sumug fortress, a mosque, and an 18th-century bridge — all of them in varying states of preservation, all of them atmospheric.

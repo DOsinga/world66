@@ -11,6 +11,7 @@ latitude: 40.3236
 longitude: -75.0604
 sources:
   - https://en.wikipedia.org/wiki/Bogart%27s_Tavern
+score: 6.5
 ---
 
 Bogart's Tavern is one of the oldest continuously operating taverns in Pennsylvania, in business at the same crossroads since 1796. The current stone building has the low ceilings and small windows of a colonial-era roadhouse, with a long wooden bar in the main room and a stone fireplace in the back. The kitchen turns out solid American pub food — burgers, steaks, fish and chips, a decent crab cake.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1603
 longitude: 10.9733
 snippet: The Apennine valley that frames Porretta Terme, with hiking trails and mountain scenery
+score: 6.8
 ---
 
 Porretta Terme sits in the valley of the Reno River where it cuts through the northern Apennines. The surrounding hills are forested and offer hiking trails of varying difficulty, with views over the ridges toward [Bologna](/europe/italy/emiliaromagna/bologna) to the northeast and Tuscany to the south.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Greyfriars Abbey
 type: poi
+score: 9.0
 ---
 
 The Greyfriars Abbey (Gråbrödraklostret) is the best-preserved Franciscan friary in Scandinavia, founded around 1267. The conventual buildings — refectory, chapter house, cloister, and St Peter's church — survive almost intact and now house the city museum, with exhibits on the abbey itself, on Ystad's medieval and Hanseatic past, and on the local archaeological record. The cloister garden is one of the most peaceful spaces in town.

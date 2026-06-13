@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Florio family turned Favignana's tuna fishery into one of the largest industrial complexes of its kind in the Mediterranean. Today the vast halls preserve boats, equipment, and archaeological finds, including material tied to the Battle of the Egadi Islands in 241 BC.
+score: 8.3
 ---
 
 The Former Florio Tuna Fishery is Favignana’s essential sight, a huge waterfront complex of stone halls, arches, and industrial spaces built for the tuna trade. It is beautiful in the austere way old factories can be beautiful, especially when the light comes in from the harbour.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Tamale is a predominantly Muslim city and the Central Mosque reflects that identity clearly. The building follows the Sudanese-influenced architectural tradition common across the Sahel — thick mud-brick walls, projecting wooden beams, and a minarets that taper upward against the sky. It is not as old or as celebrated as the mosque at Larabanga, but it is a working place of worship at the living centre of the city.

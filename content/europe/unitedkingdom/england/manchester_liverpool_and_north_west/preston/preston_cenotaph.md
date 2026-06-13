@@ -6,6 +6,7 @@ longitude: -2.6994
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The cenotaph in the middle of Market Square is the work of Sir Giles Gilbert Scott — the architect of Battersea Power Station, Liverpool Cathedral, and the red telephone box. Unveiled in 1926, it commemorates the Preston dead of both world wars and is regarded as one of Scott's finest small civic monuments: a tall plinth topped by a recumbent soldier figure modelled by the sculptor Henry Alfred Pegram.

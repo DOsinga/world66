@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "The name Kata Tjuta means 'many heads' in Pitjantjatjara. Many of the gorges between the domes are restricted men's sites under Anangu law, which is why visitor access is limited to two specific walks — the Walpa Gorge trail and the Valley of the Winds circuit."
+score: 9.3
 ---
 
 Kata Tjuta — the "Olgas" of older maps — is a cluster of 36 dome-shaped rock formations 36 kilometres west of Uluru. The tallest dome, Mount Olga, rises 546 metres above the plain, about 200 metres higher than Uluru itself, and geologists believe the whole formation may once have been a single block much larger than the more famous monolith next door.

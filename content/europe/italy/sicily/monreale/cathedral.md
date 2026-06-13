@@ -13,6 +13,7 @@ story: >
   William II donated such enormous lands and revenues to ensure the new cathedral would outshine
   its rival that it became the wealthiest church in Sicily. The mosaics were largely completed
   by 1189, just fifteen years after construction began — a breathtaking pace for work of such complexity.
+score: 9.7
 ---
 
 The Cattedrale di Santa Maria Nuova is one of the most important Norman buildings in the world and one of the greatest works of art in Sicily. Built between 1174 and 1189 under King William II, it represents the fusion of three traditions — Norman, Byzantine, and Arab — that made Norman Sicily so extraordinary.

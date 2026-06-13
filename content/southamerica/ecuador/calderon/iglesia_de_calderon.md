@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Plain parish church on the main square"
+score: 5.4
 ---
 
 The parish church of San José de Calderón sits on the north side of the central plaza. It is a modest white-washed colonial-era building with a single bell tower, restored in the 20th century after earthquake damage and still the focal point of the town's religious life.

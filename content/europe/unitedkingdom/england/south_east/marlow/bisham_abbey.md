@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - historic_house
+score: 7.6
 ---
 
 Just across the river from Marlow, Bisham Abbey is a Grade I listed manor house with a history stretching back to the Knights Templar in the 13th century. It later became a Benedictine priory, was dissolved by Henry VIII, and passed through the hands of several prominent families including the Hobys and the Vansittarts. The building is an atmospheric mix of medieval, Tudor, and later additions, set in grounds that run down to the Thames.

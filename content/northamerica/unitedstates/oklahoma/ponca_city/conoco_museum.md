@@ -9,6 +9,7 @@ tags:
 address: '501 West South Avenue'
 latitude: 36.6953
 longitude: -97.0851
+score: 6.9
 ---
 
 The Conoco Museum, on the south side of downtown Ponca City, traces the 140-year history of Continental Oil — the company founded by Marland and later merged into ConocoPhillips. The exhibits walk visitors through the firm's beginnings in Oklahoma City wildcatting, the discovery of oil at the 101 Ranch in 1911, the rise and fall of Marland, and the subsequent corporate history.

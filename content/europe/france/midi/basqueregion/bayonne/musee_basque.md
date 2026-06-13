@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.4931
 longitude: -1.4760
+score: 8.5
 ---
 
 The Musée Basque is the principal museum of Basque culture, history, and material life — a serious and well-designed collection that covers everything from traditional architecture and fishing to the foral laws that gave the Basque Country its distinctive political character. The museum occupies the Maison Dagourette, a 16th-century mansion on the banks of the Nive in Petit Bayonne.

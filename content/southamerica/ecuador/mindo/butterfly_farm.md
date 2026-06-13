@@ -12,6 +12,7 @@ story: >
   local butterfly species provided a commercial reason to protect the surrounding cloud forest —
   the butterflies could only survive if their host plants were intact. The logic worked, and several
   other farms have opened since.
+score: 6.6
 ---
 
 The Mariposario de Mindo is a large screened greenhouse, 2.5 km from the village centre, that houses over 1,200 butterflies representing around 25 local species. Inside the greenhouse, the butterflies are at every life stage — eggs and caterpillars on host plants, chrysalises in various stages of development, and adults feeding, mating, and flying in the warm, humid air. The guides (bilingual tours available) explain the life cycle and point out which species are which.

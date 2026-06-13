@@ -6,6 +6,7 @@ tags:
 - sight
 title: Port Grand
 type: poi
+score: 6.6
 ---
 Port Grand is a waterfront food and entertainment complex built along a stretch of the old Native Jetty Bridge, five minutes from downtown. It was developed in the early 2010s as a rare attempt to give Karachi's residents a safe, managed public space by the sea. The result is a long promenade lined with restaurants, cafes, and food stalls, with views across the harbour to the cranes and container ships of the port beyond.
 

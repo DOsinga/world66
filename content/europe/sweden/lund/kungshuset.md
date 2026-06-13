@@ -16,6 +16,7 @@ story: >
   various uses before becoming part of Lund University, which was founded
   in 1666 partly as a Swedish cultural assertion over the newly acquired province.
   Today it houses the Faculty of Law.
+score: 6.8
 ---
 
 On the north side of the cathedral square, Kungshuset (the King's House) is the oldest surviving secular building in Lund. Built in Renaissance style for the Danish crown in the 1580s, it predates the university and reflects the period when Lund was the ecclesiastical centre of Danish Scandinavia. The stepped gable and sandstone facade are characteristic of Scandinavian Renaissance architecture.

@@ -8,6 +8,7 @@ latitude: -0.9450
 longitude: 100.3540
 story: >
   Minangkabau performing arts — particularly randai, a combination of martial arts, dance, and storytelling performed in a circle — were nearly lost during the Padri Wars of the early 19th century and again during the Japanese occupation. The Taman Budaya has been one of the main institutions keeping these traditions alive through training programmes and regular public performances.
+score: 6.8
 ---
 
 The West Sumatran cultural arts centre hosts traditional dance performances, music, and theatre events through the year, with Sunday performances being the most reliable for visitors. The building occupies grounds near the university and has both indoor and outdoor performance spaces.

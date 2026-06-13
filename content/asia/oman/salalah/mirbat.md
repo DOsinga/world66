@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   On 19 July 1972, a force of around 250 Adoo guerrillas attacked Mirbat, defended by a nine-man SAS team, about 30 Dhofari gendarmerie, and a single 25-pounder field gun. The battle lasted several hours before Omani air support arrived. The SAS team held the gun position despite heavy casualties, and the Adoo were repulsed. It was a turning point in the Dhofar Rebellion and remains one of the most celebrated engagements in SAS history.
+score: 7.5
 ---
 
 Mirbat is a picturesque fishing town about 60 km east of Salalah, built on a low headland overlooking the sea. The old merchant quarter has traditional Dhofari houses with decorated facades — an architectural style unique to this part of the Arabian coast — and a small fort at the edge of the old town. The beach is long and usually deserted.

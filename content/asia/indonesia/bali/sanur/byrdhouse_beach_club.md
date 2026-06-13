@@ -8,6 +8,7 @@ snippet: "Beachfront cocktail bar at the southern end of the promenade"
 tags:
 - bars_and_cafes
 - bar
+score: 5.1
 ---
 
 Byrdhouse is the closest thing Sanur has to the polished beach-club scene of Seminyak — a wooden pavilion right on the sand at the south end of the promenade, with a long cocktail list, decent thin-crust pizza, and DJ sets at the weekend. The crowd is mixed local expat and visiting Australian, and the late-afternoon sunset hour is the highlight. Loungers are usable with a minimum spend.

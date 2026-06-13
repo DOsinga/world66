@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 8.2
 ---
 
 A genuine patch of dipterocarp rainforest surviving on the ridge between PJ and Kuala Lumpur, with a network of marked trails and wooden steps that climb to a pair of viewpoints — one with a Hindu temple at the top, the other with views across to the Petronas Towers. The whole loop is a couple of hours at an easy pace.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1520
 longitude: 25.6380
+score: 6.9
 ---
 
 The gorge below Kritsa is one of the more accessible walks in eastern Crete — a narrow canyon of pale limestone that you enter from the road below the village and follow for two to three hours on a well-worn path. The gorge floor is shaded by plane trees and rocky outcrops, and a stream runs through it in spring and early summer.

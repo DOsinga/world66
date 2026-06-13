@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 35.7780
 longitude: -97.3598
+score: 7.3
 ---
 
 The Lazy E Arena, just south of Guthrie on Highway 74, is one of the premier indoor equestrian and rodeo venues in the United States. The 6,000-seat facility hosts the National Finals Steer Roping Rodeo — the most prestigious steer roping event in the world — as well as cutting horse competitions, barrel racing events, and major livestock shows throughout the year.

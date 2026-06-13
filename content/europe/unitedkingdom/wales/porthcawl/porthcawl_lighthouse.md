@@ -10,6 +10,7 @@ latitude: 51.4737
 longitude: -3.7022
 snippet: "Cast-iron lighthouse at the end of the harbour breakwater"
 story: "Built in 1860 and still operating, this is the last surviving cast-iron lighthouse in Wales and one of the last in the United Kingdom. It also has the unusual distinction of being the last lighthouse in the UK to be converted from coal-gas to North Sea gas, in 1974 — it remained gas-powered until being electrified in 1997."
+score: 7.2
 ---
 
 The lighthouse at the end of Porthcawl's harbour breakwater is the town's most-photographed object — a slim, cast-iron tower painted white with a black band, just six metres tall. It marks the entrance to the small tidal harbour and is the obvious end-point of an esplanade walk.

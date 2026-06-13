@@ -14,6 +14,7 @@ story: >
   patron. The cathedral itself was not completed until the 17th century — a span of nearly
   six hundred years from groundbreaking to consecration, reflecting every shift in French
   ecclesiastical taste along the way.
+score: 7.6
 ---
 
 The Cathédrale Saint-Sacerdos is the architectural anchor of Sarlat's old town, a former Benedictine abbey church that became a cathedral in 1317 and was modified and expanded over the following three centuries. The result is an engaging mixture of Romanesque, Gothic, and Renaissance elements — most visible in the nave, where different campaigns of construction are legible in the stonework.

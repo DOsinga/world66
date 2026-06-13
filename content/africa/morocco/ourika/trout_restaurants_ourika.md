@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.3200
 longitude: -7.7600
+score: 5.9
 ---
 
 Fresh trout grilled over charcoal is the defining meal of the Ourika Valley, and the roadside restaurants that line the river for much of its length are where you eat it. The setup is almost universal: tables on a terrace above the river, fresh fish hung outside on hooks or displayed on ice, and a menu that rarely needs much explanation.

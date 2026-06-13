@@ -8,6 +8,7 @@ latitude: 40.6495
 longitude: 15.2394
 story: >
   The thermal springs at Contursi have been used since antiquity — a Roman-era necropolis was discovered here during modern excavations, suggesting the site has drawn people for at least two thousand years. The waters are sulphurous-bicarbonate-alkaline, which is exactly as unpleasant-sounding as it is purportedly beneficial for the digestive system.
+score: 8.3
 ---
 
 Contursi Terme takes its name from the hot springs that break from the hillsides above the Sele valley. Several thermal hotels and spa establishments cluster here, offering both accommodation with full thermal programmes and day access to pools and treatments. The waters are classified as sulphurous-bicarbonate-alkaline, with temperatures ranging from around 30°C to 40°C depending on the spring, and Italian doctors have been prescribing cures here for respiratory, skin, and digestive conditions for generations.

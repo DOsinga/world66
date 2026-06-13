@@ -8,6 +8,7 @@ tags:
 latitude: 34.2286
 longitude: -116.8911
 snippet: Southern California's main ski destination — two mountains, 400 acres, and the closest slopes to LA
+score: 8.1
 ---
 
 Big Bear Mountain Resort combines the former Snow Summit and Bear Mountain ski areas into a single operation covering around 400 acres of terrain across two adjacent mountains. It is the most accessible ski destination from Los Angeles — about two hours on a clear day, though the drive can extend significantly in winter with traffic and chain requirements on the switchbacks of Highway 18.

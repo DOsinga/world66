@@ -7,6 +7,7 @@ tags:
 latitude: 32.033308
 longitude: 35.731067
 story: "Jadur is a figure venerated in local Islamic tradition as a prophet buried in the hills of Salt. The site has been a pilgrimage destination for centuries, drawing both Muslim visitors and, historically, members of Salt's Christian community. The mingling of veneration practices across religious boundaries here reflects the particular character of Salt as a town historically defined by coexistence."
+score: 6.7
 ---
 
 The Prophet Jadur Shrine sits in the hillside above the old town, a modest walled compound containing a mosque and a mausoleum traditionally held to be the tomb of the prophet Jadur. The structure is not large, but the setting is atmospheric — whitewashed walls against the golden limestone of the surrounding hillside, with views down into the town below.

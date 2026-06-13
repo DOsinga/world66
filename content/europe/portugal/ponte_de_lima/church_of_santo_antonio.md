@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "14th-century church alongside the old Roman tower on the riverside"
+score: 6.6
 ---
 
 The Church of Santo António sits beside the fragmentary remains of the town's medieval fortifications at the riverside edge of the historic centre. The tower alongside it is one of the few surviving elements of Ponte de Lima's 14th-century walls. The church itself is modest from outside but has a pleasing simplicity inside, with a barrel-vaulted nave and some decent 17th-century retables.

@@ -11,6 +11,7 @@ story: >
   political organization. The name is a deliberate act of cultural
   recovery — a claim that Maluku's identity predates and outlasts the
   centuries of colonial administration the museum also documents.
+score: 7.8
 ---
 
 Museum Siwalima is Maluku province's main cultural museum, perched on a hill about five kilometres from the city centre in the Amahusu area. The location gives it a superb view over Ambon Bay, and the hilltop setting is pleasant in its own right.

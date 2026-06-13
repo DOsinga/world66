@@ -8,6 +8,7 @@ tags:
 - sight
 - beach
 snippet: Long urban beach between Pituba and Armação
+score: 5.5
 ---
 
 A long, broad, open-Atlantic beach in the middle of the city's beach strip, with parking, beach barracas, and a wide promenade for joggers and skaters. Less photogenic than Porto da Barra but practical and easy to reach by bus along the coast road from the centre.

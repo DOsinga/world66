@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8700
 longitude: 125.3100
+score: 6.9
 ---
 
 The Changchun Art Museum is the main public gallery in Jilin Province, holding a permanent collection of Chinese paintings, calligraphy, and contemporary art with particular emphasis on northeast Chinese artists and the regional painting tradition. The gallery hosts rotating exhibitions from national institutions as well as local shows.

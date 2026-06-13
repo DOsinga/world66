@@ -8,6 +8,7 @@ latitude: 18.3906
 longitude: -77.121
 sources:
   - https://en.wikipedia.org/wiki/Llandovery_Falls
+score: 7.4
 ---
 
 Fern Gully is a two-kilometre stretch of road that runs through a narrow limestone gorge between Ocho Rios and the interior, canopied by over a hundred species of fern. The result is a cathedral of green — dappled light, constant moisture, and the sounds of the forest pressing in from both sides. It's one of the most striking short drives in Jamaica.

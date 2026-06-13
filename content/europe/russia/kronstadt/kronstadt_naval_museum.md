@@ -8,6 +8,7 @@ latitude: 59.9962
 longitude: 29.7632
 sources:
   - https://en.wikipedia.org/wiki/Kronstadt_Naval_Museum
+score: 8.0
 ---
 
 The Kronstadt Naval Museum is the main historical museum for the city and covers the naval history of Russia from Peter the Great's founding of the base in 1704 through to the Soviet era. The collections include weapons, instruments, maps, uniforms, ship models, and personal objects from officers and sailors across three centuries of naval history.

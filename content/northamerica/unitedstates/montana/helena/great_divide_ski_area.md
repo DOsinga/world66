@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 46.8178
 longitude: -112.0458
+score: 6.8
 ---
 
 Great Divide sits about 30 kilometers north of Helena on the slopes of Bald Mountain, and it is the kind of ski area that used to be common in the Mountain West before destination resorts and lift-ticket prices reshaped the industry. The vertical drop is around 450 meters, with 167 runs spread across a reasonable range of terrain. The crowds are thin, the lines are short, and the prices are what ski prices used to be before Vail bought everything worth buying.

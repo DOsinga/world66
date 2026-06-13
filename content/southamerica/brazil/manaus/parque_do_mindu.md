@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: -3.0911
 longitude: -60.0142
+score: 7.0
 ---
 
 The Parque do Mindu is the largest patch of preserved forest within the urban perimeter of Manaus — 33 hectares of secondary rainforest crossed by suspended walkways that put visitors at canopy level among the trees. It is home to the highest density of the rare pied tamarin (sauim-de-coleira), an endemic monkey found only around Manaus and now critically endangered.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 6.8183
 longitude: -5.2750
+score: 6.1
 ---
 
 The large artificial lake surrounding the Presidential Palace complex is one of the stranger sights in a city full of them. Created as part of the palace's landscaping, the lake is home to the sacred crocodiles that have become one of Yamoussoukro's most-visited attractions. The animals are descended from a group that the late President Houphouët-Boigny kept here as a personal totem — said to represent his ancestral bond with the land.

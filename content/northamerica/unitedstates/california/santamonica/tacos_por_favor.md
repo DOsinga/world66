@@ -7,6 +7,7 @@ tags:
 latitude: 34.0216
 longitude: -118.4758
 snippet: "A Mexican counter on Olympic Boulevard serving the best breakfast burritos and tacos in the city"
+score: 6.8
 ---
 
 Tacos Por Favor on Olympic Boulevard is a no-frills Mexican counter that has been feeding Santa Monica residents since 1984. The breakfast burrito — scrambled eggs, beans, cheese, salsa, wrapped in a flour tortilla — is the famous item, and people drive across the city for it on weekend mornings. The tacos are also good: simple, well-seasoned, with fresh tortillas. Cash only, counter service, no frills.

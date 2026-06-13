@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - festival
+score: 7.8
 ---
 
 Maha Shivaratri, falling in February or March depending on the lunar calendar, transforms Vemulawada into one of the largest Shaivite gatherings in south India. Between three and four lakh (300,000–400,000) devotees arrive over the course of the festival, many travelling through the night from across Telangana and neighbouring states.

@@ -8,6 +8,7 @@ tags:
 latitude: 41.2789
 longitude: 13.0272
 story: "The lake is properly called Lago di Paola, after the Frangipane family who controlled the coast in the Middle Ages — but the name 'Lago di Sabaudia' stuck after the town was built on its northern shore in 1934."
+score: 7.7
 ---
 
 Lake Sabaudia (also called Lago di Paola) is a brackish coastal lagoon — long, narrow, and almost completely surrounded by the pine forest and dunes of Circeo National Park. A thin strip of beach separates it from the open sea. The water is calm and the shoreline mostly undeveloped, so the lake supports a remarkable concentration of waterbirds, particularly during spring and autumn migrations.

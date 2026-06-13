@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
   - downtown
+score: 8.0
 ---
 
 The Tucson Museum of Art sits at the heart of downtown's historic block, on the edge of the original Presidio. The collection is strongest in Latin American art — pre-Columbian, Spanish colonial, modern Mexican — with works from across Mexico, the Andes and Mesoamerica.

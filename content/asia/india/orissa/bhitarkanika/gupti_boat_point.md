@@ -7,6 +7,7 @@ tags:
   - boat_trip
 latitude: 20.6700
 longitude: 86.8100
+score: 5.4
 ---
 
 Gupti is one of the common boat access points for Bhitarkanika, useful for travellers coming from the Cuttack or Bhubaneswar side. The settlement itself is modest; the reason to come is the transition from road to river.

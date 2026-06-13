@@ -7,6 +7,7 @@ tags:
 latitude: 31.1825
 longitude: 29.8964
 story: "The column was erected in 297 AD by the Roman prefect of Egypt to honour the Emperor Diocletian — not Pompey, who died 350 years earlier. Crusaders in the 12th century, looking for famous Roman names, assumed the column marked Pompey's burial spot, and the misnomer stuck. The Serapeum temple complex that surrounded it once housed the 'daughter library' of the Great Library of Alexandria — about 40,000 scrolls. Theophilus, the Christian patriarch of Alexandria, ordered the temple destroyed in 391 AD as part of the campaign against pagan worship; the column survived because the conquerors could not figure out how to topple it."
+score: 7.7
 ---
 
 A 26.85-metre column of red Aswan granite — the tallest single piece of polished granite anywhere in the ancient world — standing in the ruins of the great Serapeum temple complex. The Serapeum was Alexandria's principal pagan temple, and after the destruction of the main Library it housed the city's surviving scrolls in a 'daughter library' underground.

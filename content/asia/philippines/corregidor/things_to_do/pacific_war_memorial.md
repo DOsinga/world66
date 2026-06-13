@@ -11,6 +11,7 @@ tags:
 - world_war_ii
 title: Pacific War Memorial
 type: poi
+score: 8.3
 ---
 
 Built jointly by the United States and Philippine governments, the Pacific War Memorial stands on Topside, Corregidor's highest point, to commemorate the Allied forces who fought and died here in 1942. The circular domed structure frames a central eternal flame, with the "Brother in Arms" monument at the entrance and sweeping views of Manila Bay in all directions. The nearby ruins of the officers' barracks — roofless concrete shells ringed by jungle — stand in sharp contrast to the formal memorial, and together the two make Topside the most visually striking part of the island.

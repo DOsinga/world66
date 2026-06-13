@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3103
 longitude: 139.5285
+score: 6.9
 ---
 
 A quiet Shingon temple at the western end of the Enoden line, best known as the filming location for several Japanese period dramas. Founded in 1259 by the monk Ninshō, who used the temple grounds as a welfare hospital for the poor and sick — an unusual social role for a medieval Buddhist institution. The grounds are small but beautifully serene, with the main hall backed by forested hills.

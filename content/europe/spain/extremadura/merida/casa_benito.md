@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.9162
 longitude: -6.3439
+score: 6.0
 ---
 
 Casa Benito is the kind of unreconstructed bar-restaurant that every Spanish town needs and many have lost — tiled walls, bullfighting photographs, dark wood, a long zinc bar at the front, a dining room at the back. The kitchen does Extremaduran home cooking without apology: cabrito (kid) roasted with garlic, migas extremeñas, fried Iberian pork, and any number of cured meats by the plate.

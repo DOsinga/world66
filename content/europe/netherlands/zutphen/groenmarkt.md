@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Zutphen
+score: 7.6
 ---
 
 Zutphen's main market square, a handsome cobbled space flanked by historic merchants' houses and the Drogenapstoren. The Saturday market is the social heart of the town — local farmers, cheese sellers, flower stalls, and street food gather here from early morning, drawing both locals and visitors from across the Achterhoek.

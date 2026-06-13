@@ -7,6 +7,7 @@ tags:
   - kalsa
 latitude: 38.117
 longitude: 13.371
+score: 7.9
 ---
 
 The puppet museum, off Piazza Marina in the Kalsa, holds over 5,000 puppets — Sicilian opra dei pupi, Neapolitan pulcinellas, Burmese rod puppets, Vietnamese water puppets, Japanese bunraku. The Sicilian tradition, in which armoured paladins from the Carolingian and Crusader cycles fight in long serial narratives over weeks of nightly performances, is on UNESCO's Intangible Cultural Heritage list.

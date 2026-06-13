@@ -8,6 +8,7 @@ tags:
 latitude: 61.1456
 longitude: 13.2417
 snippet: Smaller, more atmospheric ski area on the south side of Sälen
+score: 7.4
 ---
 
 The little brother of Lindvallen — fewer lifts, fewer crowds, and the original hotel that started Sälen tourism in the 1930s. Högfjället is up on the open fell, so it gets more wind and better views than the valley resorts, and the off-piste skiing on the back side towards Östfjället is the best in the area.

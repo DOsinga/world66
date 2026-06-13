@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 42.2382
 longitude: -8.7236
+score: 8.0
 ---
 
 The hilltop park above the old town is Vigo's best viewpoint, reached by steep lanes from the Casco Vello. The park sits where a Celtic hill fort (castro) once stood, and the archaeological remains of Iron Age circular stone foundations are visible at the summit — one of several such sites scattered across Galicia.

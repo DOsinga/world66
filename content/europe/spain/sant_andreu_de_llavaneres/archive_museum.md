@@ -8,6 +8,7 @@ latitude: 41.5720
 longitude: 2.4869
 story: >
   Can Caralt began as a typical Maresme farmhouse (masia) in the 18th century, producing wine and grain like most of the farmsteads along this coast. In the second half of the 19th century, when many Catalan families returned wealthy from Cuba and the Americas — the so-called indianos — it was converted into a manor house in the eclectic style fashionable among the newly rich. The archive documents this transformation of the Maresme coast from agricultural hinterland to prosperous bourgeois retreat.
+score: 5.9
 ---
 
 The Sant Andreu de Llavaneres Archive Museum (Museu Arxiu de Sant Andreu de Llavaneres) occupies Can Caralt, an 18th-century farmhouse that was converted into a manor house in the latter half of the 19th century. The building itself is the main attraction: an eclectic mansion with ornate detailing, set in a garden in the upper part of the town.

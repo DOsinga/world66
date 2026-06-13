@@ -12,6 +12,7 @@ story: >
   The Camargue supports Europe's largest breeding colony of greater flamingos — around 13,000 breeding pairs on a single artificial island in the Étang du Fangassier. The island was created in the 1970s specifically to give flamingos a safe nesting site after natural colonies were repeatedly disturbed. It is closed to visitors, but the result of the intervention is visible across the entire delta every summer.
 sources:
   - https://en.wikipedia.org/wiki/Greater_flamingo
+score: 7.7
 ---
 
 Greater flamingos are the defining bird of the Camargue — the most visible, the most numerous, and the most improbable-looking. Adults stand a metre tall on legs like pink stilts, feeding with their bent bills subside-down in the saline shallows, filtering out the brine shrimp and algae that give them their colour. They are pink because they eat pink food.

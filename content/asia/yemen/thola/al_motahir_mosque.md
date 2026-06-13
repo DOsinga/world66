@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Sixteenth-century mosque in the Yemeni highland style, built around 980 Hejra (1572 CE)
+score: 7.4
 ---
 
 The Mosque of Al-Motahir Bin Imam Sharafidin was built around 980 Hejra, which corresponds to roughly 1572 CE, during a period when the Zaydi imams exercised considerable authority across the Yemeni highlands. Al-Motahir Bin Imam Sharafidin was a significant figure in that tradition, and the mosque built in his name reflects the architectural vocabulary of highland Yemeni religious construction: thick stone walls, carved plasterwork on the interior surfaces, and a minaret that reads clearly against the sky from the approaches to the town.

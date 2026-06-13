@@ -15,6 +15,7 @@ story: >
   The inscription above the arch is a Victory Cross with the Latin phrase "Hoc signo
   tuetur pius, in hoc signo vincitur inimicus" — the same motto that appears on
   Asturian royal crosses.
+score: 7.5
 ---
 
 A small 9th-century fountain structure just north of the old town, built to channel a natural spring. It looks modest — a stone canopy over a basin — but it holds UNESCO World Heritage status as the sole surviving example of pre-Romanesque civil hydraulic engineering in Europe. The carved cross and Latin inscription above the arch tie it directly to the Asturian royal building programme that produced the Naranco churches.

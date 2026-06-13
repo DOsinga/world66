@@ -8,6 +8,7 @@ tags:
   - parque_central
   - neighbourhood
   - architecture
+score: 7.2
 ---
 
 Parque Central is a complex of two 56-storey octagonal towers — the tallest buildings in Venezuela — surrounded by five 44-storey apartment blocks, built between 1970 and 1983. The design, by Daniel Fernández Shaw, was meant to be a city-within-a-city: housing, shopping, museums, theatres, and offices on a single brutalist concrete podium connected by elevated walkways.

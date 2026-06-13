@@ -13,6 +13,7 @@ tags:
 - cafe
 title: The Hideaway
 type: poi
+score: 4.8
 ---
 
 A stylish bar that is a bit tricky to find, located within the Shiretown Inn property. Usually very quiet with a good selection of drinks and friendly bartenders.

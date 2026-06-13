@@ -8,6 +8,7 @@ tags:
   - restaurant
   - market
 snippet: The covered market near the zócalo for cecina, memelas, and the local style of dried meats
+score: 7.3
 ---
 
 The covered market (Mercado Municipal) near Tehuacan's zócalo is the most honest place to eat in the city. The prepared food section runs along the interior, with stalls selling cecina platters — the local dried and salted meat specialty — alongside tasajo (a Oaxacan-style dried beef), chorizo, and memelas. A full mixed platter with tortillas, salsa, and beans costs very little and is more interesting than anything you'll find in the restaurants around the main square.

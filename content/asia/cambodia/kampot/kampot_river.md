@@ -14,6 +14,7 @@ story: >
   here; fishermen still occasionally report sightings downstream. The mangroves along
   the lower banks are important nursery habitat for the fish that supply the crab
   markets at Kep.
+score: 8.1
 ---
 
 The Kampot River is the reason the town exists — it provided the route for French colonial trade — and it is still the centre of daily life. In the morning, fishing boats come and go from the small harbour beside the old market. In the evening, locals walk the promenade and tourists hire kayaks from several outfitters near the bridge. The river is wide and slow here, brown with silt, with the Bokor mountains rising behind the western bank.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 37.0755
 longitude: 15.2866
+score: 9.2
 ---
 
 Siracusa sits sixty kilometres south of Catania and is the most rewarding single-day excursion from the city. The Greek city was once a rival of Athens, and the surviving evidence — the Greek theatre, the limestone quarries used as prisons during the Peloponnesian War, the temples — is exceptional.

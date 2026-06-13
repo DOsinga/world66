@@ -13,6 +13,7 @@ story: >
   mountain river through the valley. The lake has since transformed the landscape around
   Ouirgane, giving the valley a shimmering centrepiece and creating a new ecosystem
   that has attracted waterbirds not previously seen in the area.
+score: 7.2
 ---
 
 Lake Yacoub el Mansour is the reservoir created by the Ouirgane dam on the Oued Nfis river, sitting right on the edge of the village at around 1,000 metres elevation. The lake is a beautiful thing — green-blue water framed by bare terracotta mountains and the occasional walnut tree — and the dam wall provides a fine vantage point over the valley.

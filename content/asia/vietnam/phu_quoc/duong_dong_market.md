@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 10.2190
 longitude: 103.9616
+score: 7.9
 ---
 
 The main market and fish market in Duong Dong town is a working local institution rather than a tourist attraction, at its busiest in the early morning when fishing boats unload. Squid, crabs, prawns, and reef fish cover the slabs; the variety and freshness are excellent.

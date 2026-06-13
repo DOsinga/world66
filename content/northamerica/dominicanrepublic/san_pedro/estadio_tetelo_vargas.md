@@ -13,6 +13,7 @@ story: >
   the era of segregated American baseball. He was inducted into the Latin
   American Baseball Hall of Fame in 1939, long before the major leagues opened
   their doors to Caribbean players.
+score: 7.7
 ---
 
 Estadio Tetelo Vargas is the home of Las Estrellas Orientales, one of the six teams in the Dominican Winter League and the oldest professional team in the country, founded in 1910. The stadium holds around 8,000 people and fills up during winter league games from October to January, when the atmosphere is electric and the local pride is on full display.

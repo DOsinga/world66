@@ -7,6 +7,7 @@ tags:
   - hongdae
 title: Korean Barbecue in Mapo and Hongdae
 type: poi
+score: 7.7
 ---
 
 The area around Mapo and Hongdae contains some of Seoul's best and most relaxed Korean barbecue restaurants. The format is familiar: meat arrives raw at the table, you grill it yourself over a charcoal or gas grill embedded in the table, and you eat it wrapped in perilla or lettuce leaves with garlic, fermented soybean paste, and kimchi. The range of meats — samgyeopsal (pork belly), galbi (short ribs), bulgogi (marinated beef), and chadolbaegi (thin brisket) — suits different preferences.

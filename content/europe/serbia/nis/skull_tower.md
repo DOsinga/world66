@@ -8,6 +8,7 @@ title: Skull Tower
 type: poi
 story: >
   After the Battle of Čegar in 1809, Ottoman commander Hurshid Pasha ordered that the heads of the fallen Serbian rebels be skinned, stuffed with cotton, and sent to the Sultan in Constantinople as proof of victory. The skulls of 952 Serbian fighters were then embedded into a tower as a warning to future rebels. The French poet Alphonse de Lamartine, who visited in 1833, wrote that it was "a monument of the barbarism of the conquering nation and of the bravery of the conquered."
+score: 8.8
 ---
 
 The Skull Tower is one of the most disturbing monuments in Europe, and also one of the most powerful. Standing about three kilometres east of the city centre along the old Istanbul road, this stone structure has 952 human skulls embedded into its walls — the remains of Serbian rebels killed at the Battle of Čegar in 1809, when Serb commander Stevan Sinđelić detonated the Serbian powder magazine rather than surrender, killing himself and hundreds of Ottoman soldiers along with his own men.

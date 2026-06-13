@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.142
 longitude: -175.043
+score: 6.1
 ---
 
 Niutoua is the traditional Tongan village that sits closest to the Ha'amonga reserve, about a kilometre south of the trilithon. It is a quiet settlement of fale — traditional thatched or iron-roofed houses — set among coconut palms and breadfruit trees, with the easy unhurried pace that characterises rural Tongatapu. Women here are known for their skill in weaving ngatu (tapa cloth) and fine mats, both of which remain central to Tongan ceremonies and gift exchange.

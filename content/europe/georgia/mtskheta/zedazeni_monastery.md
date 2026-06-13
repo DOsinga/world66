@@ -10,6 +10,7 @@ latitude: 41.8711
 longitude: 44.7656
 sources:
   - https://en.wikipedia.org/wiki/Zedazeni_Monastery
+score: 7.4
 ---
 
 Zedazeni is the most rewarding excursion from Mtskheta for visitors who want to get away from the town's main tourist circuit. The monastery sits on a forested ridge northeast of the town, above the Aragvi River, with views back down to the valley and the distinctive Jvari promontory across the confluence. Getting there involves a rough road — a 4WD or a determined walk of a few kilometers from the nearest accessible point.

@@ -15,6 +15,7 @@ story: >-
   began to climb dangerously; international pressure and a release schedule
   agreed in 2002 stabilised the ecosystem, and the migratory bird counts have
   since partially recovered.
+score: 9.0
 ---
 
 Lake Ichkeul is a brackish lake about 30 km south-west of Bizerte, set against the steep wooded slopes of Jebel Ichkeul. It is a UNESCO World Heritage site and one of the most important wintering grounds in the western Mediterranean for migratory waterfowl: hundreds of thousands of ducks, coots, geese, and flamingos pass the cold months here every year.

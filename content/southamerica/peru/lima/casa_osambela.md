@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: Five-storey colonial mansion with a viewing turret
+score: 7.3
 ---
 
 The **Casa de Osambela** (also called Casa de Oquendo) is the tallest surviving colonial-era house in Lima — a five-storey mansion built around 1805 by a Spanish merchant, with an octagonal **mirador** turret on the roof that was supposedly used to scan for arriving ships at Callao. Its eclectic balconies, painted patio, and grand wooden staircase are among the finest in the city.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The small church, built in 1518, was a votive offering for deliverance from one of the plague outbreaks that periodically swept the bay. Pilgrims still climb the 1,350 steps from the old town to leave candles at its altar, in thanks for healing or in hope of it."
+score: 7.8
 ---
 
 Our Lady of Remedy (Gospa od Zdravlja) sits halfway up the climb to the fortress, perched on a rocky outcrop above the city walls. The small whitewashed chapel is a useful waypoint on the ascent — a place to catch your breath and admire the view of the red rooftops and the bay beyond.

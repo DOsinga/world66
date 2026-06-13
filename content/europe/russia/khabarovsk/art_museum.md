@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 48.4791
 longitude: 135.0761
+score: 7.5
 ---
 
 The Far Eastern Art Museum holds one of the largest art collections in the Russian Far East, with works spanning Russian painting from the 17th century to the Soviet era alongside a collection of Japanese and Chinese decorative art. The Japanese section includes lacquerwork, ceramics, and prints — a reminder of the region's proximity to East Asia and the complex history of Russo-Japanese relations.

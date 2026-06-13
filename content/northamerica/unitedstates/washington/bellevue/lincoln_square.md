@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 47.617
 longitude: -122.2012
+score: 5.3
 ---
 
 Lincoln Square is the commercial and entertainment centrepiece of downtown Bellevue — a mixed-use complex of towers, a cinema, restaurants, and the Bellevue Arts Museum. The development is owned by the Freeman family, who have shaped downtown Bellevue more than any other single entity; it sits directly opposite Bellevue Square, the flagship shopping mall.

@@ -1,6 +1,7 @@
 ---
 title: "Dining on Daigaku-dori"
 type: poi
+score: 5.9
 ---
 
 The restaurant and cafe scene along Daigaku-dori and its side streets reflects the character of the neighbourhood: mostly independent, mostly small, with a customer base that skews toward students, academics, and local families rather than passing tourists. There are no major chain restaurants on the main boulevard itself — the mix runs toward Italian trattorias, small Japanese set-lunch spots, bakery-cafes, and a handful of well-regarded ramen and curry places tucked into the quieter cross-streets.

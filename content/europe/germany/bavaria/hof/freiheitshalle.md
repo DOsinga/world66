@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Main concert hall and event venue, host of the Hofer Symphoniker
+score: 5.8
 ---
 
 The Freiheitshalle is Hof's principal concert venue: a 1950s civic hall behind a modernist façade that hosts the resident Hofer Symphoniker orchestra, larger Filmtage screenings, and a steady programme of touring music and conference events. The main auditorium seats around 1,500.

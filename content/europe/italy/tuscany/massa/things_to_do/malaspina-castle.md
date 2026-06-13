@@ -1,6 +1,7 @@
 ---
 title: "Malaspina Castle (Rocca Malaspiniana)"
 type: poi
+score: 8.1
 ---
 
 The Malaspina Castle stands on a rocky spur above Massa, a structure that began life as a medieval fortress in the thirteenth century and was gradually transformed into a Renaissance ducal palace by the Cybo-Malaspina family in the sixteenth and seventeenth centuries. The result is a hybrid building: the older, crenellated keep survives at the highest point, while the lower sections were refashioned with loggia, frescoed halls, and formal gardens befitting a ruling dynasty. The dukes of Massa made this their primary residence, and the contrast between military origins and aristocratic ambition gives the castle much of its character.

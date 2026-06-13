@@ -16,6 +16,7 @@ tags:
 - museum
 title: Irma Stern Museum
 type: poi
+score: 7.8
 ---
 
 The Irma Stern Museum occupies the former home of South Africa's best-known expressionist painter, who lived in this house in Rosebank from 1927 until her death in 1966. The collection includes around 200 of her paintings — strong, vivid works influenced by her time in Central Africa and Zanzibar — alongside her collection of African and Congolese artefacts, antique furniture and personal effects.

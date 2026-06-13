@@ -16,6 +16,7 @@ story: >
   of the creatures that followed him. Archaeologists date the engravings to
   between 3,000 and 10,000 years ago, making them the work of the Late Stone
   Age San people who lived in this area long before the Tswana arrived.
+score: 7.7
 ---
 
 The Matsieng rock carvings are about 15 km southwest of Mochudi, near the village of Rasesa. The site is well signposted from the A1 highway; a 2WD track leads the last kilometre to the boulders. The engravings cover several large sandstone surfaces: human and animal footprints of varying sizes, carved giraffes and other plains animals, and up to 170 individual images in total.

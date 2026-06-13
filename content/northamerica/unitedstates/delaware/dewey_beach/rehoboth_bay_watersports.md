@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.6889
 longitude: -75.0855
+score: 7.8
 ---
 
 Rehoboth Bay, on the western side of Dewey Beach, is ideal for wind-powered watersports. The bay is shallow, the water is calm compared to the ocean, and the prevailing southwest wind that builds through the afternoon is reliable enough to make this a genuine windsurfing and kiteboarding destination. Several outfitters in and around Dewey Beach rent boards and offer lessons; if you have your own gear, access points along the bay side of Coastal Highway put you on the water quickly.

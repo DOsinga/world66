@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 A seven-storey glass dome suspended above the intersection of Washington and Illinois Streets, completed in 1995 by the Browning Day Mullins Dierdorf firm. The Artsgarden is owned and operated by the Arts Council of Indianapolis and hosts more than 250 free performances a year — chamber music at lunchtime, jazz on Friday evenings, dance, poetry readings.

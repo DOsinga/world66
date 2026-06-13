@@ -12,6 +12,7 @@ tags:
 title: Hudson Bar
 type: poi
 url: www.hudsonhotel.com
+score: 4.9
 ---
 
 The ground-floor bar of the Hudson Hotel near Columbus Circle, designed with a glass floor lit from below and a ceiling mural by Italian artist Francesco Clemente. The interior tilts toward the theatrical but the cocktails are serious. A reliable choice for a drink before or after a Lincoln Center performance.

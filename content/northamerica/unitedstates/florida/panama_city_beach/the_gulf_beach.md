@@ -13,6 +13,7 @@ story: >
   thousands of years via the Apalachicola River system. The quartz stays cool
   underfoot even in full summer sun, which the typical tan beach sand of the
   Florida east coast definitely does not.
+score: 8.6
 ---
 
 The Gulf beach itself is Panama City Beach's best feature and the reason people come. The sand is unusually white — quartz-white, almost blinding in full sun — and the water is a clear emerald-green that looks more Caribbean than Atlantic. At the right angle in the right light, it is genuinely beautiful.

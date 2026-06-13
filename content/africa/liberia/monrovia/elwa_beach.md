@@ -11,6 +11,7 @@ story: Elwa takes its name from a radio station — the Eternal Love Winning Afr
   mission transmitter that broadcast Christian programming across the continent from
   here for decades. The signal reached as far as the Middle East on shortwave. The
   beach named after it is now the most popular weekend escape for Monrovia residents.
+score: 5.6
 ---
 
 Elwa Beach is one of the Atlantic beaches south of Monrovia, about 15 km from the city centre, and one of the most accessible for a half-day trip. The beach is wide, the sand is pale, and the Atlantic surf is strong — not always safe for swimming, but spectacular to watch. On weekends, local families set up under trees and vendors sell food and cold drinks.

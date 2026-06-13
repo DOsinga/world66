@@ -9,6 +9,7 @@ longitude: -123.8206
 story: "The Astoria Column was built in 1926, modelled on Trajan's Column in Rome. It is covered in a continuous spiral frieze depicting the history of the Pacific Northwest from the age of exploration to the arrival of railroads. The column was a gift from Vincent Astor — great-great-grandson of John Jacob Astor — and the Great Northern Railroad, who also funded the road up Coxcomb Hill."
 sources:
   - https://en.wikipedia.org/wiki/Astoria_Column
+score: 8.5
 ---
 
 The Astoria Column stands at the top of Coxcomb Hill, the highest point in the city, and offers panoramic views in every direction: the Columbia River, the Pacific Ocean, the forested hills of Washington state, and the volcanic peak of Mount Rainier on clear days. The column is 38 metres tall, with 164 steps spiralling to the top.

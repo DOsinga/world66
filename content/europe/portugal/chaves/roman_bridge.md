@@ -8,6 +8,7 @@ tags:
 latitude: 41.7383
 longitude: -7.4672
 story: "The bridge was built around 100 AD during the reign of Emperor Trajan, whose dedication inscriptions survive on two stone columns that still flank the central arch. Sixteen arches carry it across the Tâmega, and after nearly two thousand years of floods, wars, and use, it still holds."
+score: 8.5
 ---
 
 The Ponte de Trajano is one of the best-preserved Roman bridges in the Iberian Peninsula, spanning the Tâmega river with sixteen arches. It is the reason Chaves exists: the Romans built a settlement here, Aquae Flaviae, to command this crossing and exploit the hot springs nearby. The bridge is still in use for pedestrian and light traffic today.

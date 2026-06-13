@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - waterfall
+score: 7.0
 ---
 
 The Poço Encantado — "enchanted pool" — is a deep natural swimming hole reached by a short walk through the cerrado just outside Cavalcante. The water is the deep blue-green that the chapada is known for, surrounded by smooth grey rock, and the pool is wide enough to swim laps.

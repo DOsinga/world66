@@ -7,6 +7,7 @@ tags:
 latitude: 46.4198
 longitude: 15.8717
 story: "The Kurent figure — a shaggy beast in sheepskin, a fearsome beak-mask, and a belt of cowbells — is believed to be one of the oldest surviving pre-Christian folk characters in Europe, his roots possibly stretching back to Slavic fertility rites of the early medieval period."
+score: 8.6
 ---
 
 Kurentovanje is held in the ten days before Lent, usually in February, and is the largest pre-Lenten carnival in Slovenia. Hundreds of Kurenti — men and boys dressed in heavy sheepskin suits with elaborate horned masks and strings of massive cowbells — parade through the streets, their bells clanging loudly enough to drive away winter spirits. Or so the tradition goes.

@@ -8,6 +8,7 @@ latitude: 43.8000
 longitude: 127.1000
 story: >
   Beidahu hosted the 6th Asian Winter Games in 1996 — the first time a northeastern Chinese resort had hosted a major international winter sports event. The infrastructure built for those games established Beidahu as a resort operating at international standard, and it has maintained that position through subsequent investment. The 2022 Beijing Winter Olympics boosted China's skiing infrastructure generally, and Beidahu was already one of the better-established resorts before that wave of investment arrived.
+score: 7.9
 ---
 
 Beidahu Ski Resort, about fifty kilometres east of Jilin City, is the most developed ski destination in Jilin Province and one of the better resorts in northeast China. The resort hosted the 6th Asian Winter Games and has modern infrastructure: chairlifts, snowmaking, groomed runs of varying difficulty, ski rental, and accommodation. The season runs from late November through March, with natural snow supplemented by snowmaking.

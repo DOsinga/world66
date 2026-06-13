@@ -8,6 +8,7 @@ latitude: 6.3286
 longitude: 5.6189
 snippet: Ancient earthwork fortification, once the world's largest man-made earthwork system
 story: "The full Benin City moat system, completed by Oba Oguola in the 13th century and extended over centuries, is estimated to have required 150 million hours of labour to build — more than the Great Pyramid of Giza. At its peak it stretched over 16,000 kilometres of earthworks encircling the Benin Empire."
+score: 7.9
 ---
 
 The ancient moat system that once encircled the Benin Empire is one of the most remarkable feats of engineering in African history. The Iya, as it is known in Edo, was a massive earthwork of ditches and banks that protected the city and its surroundings — not a single moat but an interconnected system of fortifications built over several centuries, some sections rising to over 17 metres in height.

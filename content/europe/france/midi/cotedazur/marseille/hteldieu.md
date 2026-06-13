@@ -9,6 +9,7 @@ tags:
 - sight
 title: Hôtel Dieu
 type: poi
+score: 5.8
 ---
 
 Built in the 18th century as Marseille's main hospital, the Hôtel-Dieu occupies a commanding position on the hill above the Vieux-Port. The building is notable for its monumental staircase designed by architect Esprit Brun, a sweeping double-helix that allowed patients and staff to circulate without crossing paths.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 51.8956
 longitude: -2.0825
+score: 8.8
 ---
 
 The most elegant quarter of an already elegant town — a neighbourhood of Regency terraces, garden squares, and caryatid-decorated shopfronts south of the town centre. Montpellier Walk, the main thoroughfare, has the distinctive feature of figures carved into the pilasters between the shop windows, giving the street an unusual character. The whole area was developed in the 1820s and 1830s as Cheltenham's fashionable residential district.

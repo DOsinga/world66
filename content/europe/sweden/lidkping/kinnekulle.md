@@ -12,6 +12,7 @@ story: >
   Ordovician marine creatures here, including a meteorite-bearing fossil
   bed at the Thorsberg quarry that has yielded specimens from a 470-million-year-old
   asteroid shower, making it one of the most meteorite-rich fossil sites in the world.
+score: 8.5
 ---
 
 Kinnekulle is a flat-topped plateau rising to 306 metres on the eastern shore of Lake Vänern, about 20 km east of Lidköping. Its layered geology — limestone, shale, and sandstone topped with basalt — creates a range of distinct habitats: open meadows thick with orchids in May and June, beech forests on the upper slopes, and rich farmland around the base. The plateau has been protected as a nature reserve since 1970.

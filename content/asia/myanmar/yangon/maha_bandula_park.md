@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.7744
 longitude: 96.1583
+score: 6.0
 ---
 
 Maha Bandula Park is a small green square in the heart of downtown Yangon, facing the Sule Pagoda. At its centre stands the Independence Monument — a tall obelisk erected to mark Burmese independence from Britain in 1948 and surrounded by five smaller obelisks representing the unity of Burma's ethnic groups.

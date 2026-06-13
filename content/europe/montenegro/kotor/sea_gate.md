@@ -6,6 +6,7 @@ longitude: 18.7694
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The Sea Gate, opening straight off the waterfront onto the Trg od Oružja, is the main entrance to Kotor's old town and almost certainly the gate you will come through. Built in 1555 during Venetian rule, it carries a relief of the Lion of St Mark on the outside and an inscription on the inside marking the date — 21 November 1944 — when Kotor was liberated from Italian and German occupation.

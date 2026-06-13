@@ -6,6 +6,7 @@ longitude: 20.4830
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Acheron Delta is a Natura 2000 protected wetland of marsh, brackish lagoon, and reedbed at the river mouth. Herons, egrets, and migratory waterfowl are reliable sightings; bee-eaters and rollers pass through in spring; otters work the river channels and turtles can be seen in the shallows on a calm morning.

@@ -7,6 +7,7 @@ tags:
 latitude: 55.0312
 longitude: 82.9221
 snippet: Comfortable speciality coffee cafe on Krasniy Prospekt, good for working
+score: 4.9
 ---
 
 Coffee Room is the kind of place that could exist in any European city — a well-equipped espresso bar with a small but serious selection of single-origin coffees, reliable espresso-based drinks, and the sort of comfortable seating that encourages staying for an hour. It is on or near Krasniy Prospekt, which makes it a useful stop during a walk through the centre.

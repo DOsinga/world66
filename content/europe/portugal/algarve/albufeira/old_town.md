@@ -7,6 +7,7 @@ tags:
 latitude: 37.0887
 longitude: -8.2524
 snippet: Whitewashed lanes and cobbled squares tumbling down the cliff above the fishing beach
+score: 7.6
 ---
 
 Albufeira's old town is a tight tangle of narrow cobbled streets, whitewashed houses, and small squares that most resort visitors never properly explore. The original settlement clung to the cliff top above the fishing beach — the name Albufeira derives from the Arabic *Al-Buhera*, meaning "the sea castle" — and its layout still has the organic density of a medieval Moorish town rather than a planned resort.

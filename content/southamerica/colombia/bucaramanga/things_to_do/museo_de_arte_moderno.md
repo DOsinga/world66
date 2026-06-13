@@ -9,6 +9,7 @@ tags:
   - art
 sources:
   - https://en.wikipedia.org/wiki/Bucaramanga
+score: 7.1
 ---
 
 A compact but well-curated museum of modern and contemporary art in central Bucaramanga. The collection focuses on Colombian artists, with a good selection of works from Santander region painters alongside rotating exhibitions that often bring in work from Bogotá and Medellín. The building itself is one of the more interesting pieces of mid-century architecture in the city. Entry is inexpensive and the museum is rarely crowded, making it a good retreat from the midday heat.

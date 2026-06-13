@@ -8,6 +8,7 @@ tags:
 title: Bardo Museum
 type: poi
 address: "3 Avenue Franklin Roosevelt, Algiers"
+score: 7.8
 ---
 
 An impressive collection of indigenous artefacts from across Algeria, housed in a beautiful Moorish-style mansion. The museum covers prehistory, ethnography, regional jewellery, costumes, leatherwork, and weaponry. The prehistoric rock drawings — reproductions and originals from the Tassili n'Ajjer region — and the ancient weapons are particularly worth seeing.

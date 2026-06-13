@@ -9,6 +9,7 @@ tags:
   - architecture
   - old_portsmouth
 neighbourhood: Old Portsmouth
+score: 7.5
 ---
 
 Built up over eight hundred years and finished only in 1991. The east end is the medieval church of Thomas of Canterbury, founded in 1180 by Jean de Gisors and one of the earliest English churches dedicated to the recently murdered archbishop. The nave is 17th-century classical, the west towers and aisle 20th-century.

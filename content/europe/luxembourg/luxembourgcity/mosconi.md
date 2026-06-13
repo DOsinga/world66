@@ -9,6 +9,7 @@ tags:
   - restaurant
 neighbourhood: Grund
 address: 13 Rue Münster
+score: 6.5
 ---
 
 The grande dame of Luxembourg fine dining, in an 18th-century townhouse by the Alzette in the Grund. Two Michelin stars, kept for over twenty years by chef Ilario Mosconi, who cooks resolutely Italian — house-made pasta, a serious Italian wine list, occasionally a black truffle dish that justifies its own headline.

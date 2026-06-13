@@ -9,6 +9,7 @@ latitude: 39.3906
 longitude: -99.6173
 sources:
   - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
+score: 7.8
 ---
 
 The schoolhouse is the fifth of the original structures preserved within the National Historic Site. Education was a priority from the earliest days of Nicodemus — for a community of people to whom literacy had often been legally denied, building a school was an act of defiance as much as aspiration. The schoolhouse is a compact, unadorned building, and all the more moving for it.

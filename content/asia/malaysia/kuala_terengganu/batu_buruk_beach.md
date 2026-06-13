@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.3513
 longitude: 103.1431
+score: 6.2
 ---
 
 Batu Buruk is the city beach of Kuala Terengganu, a long stretch of South China Sea coast a few kilometres north of the city centre, beyond the Terengganu Drawbridge. It is not a swimming beach by most standards — the surf can be rough and the water murky — but as a place to walk in the evening breeze, watch fishing boats, and eat seafood from the stalls that line the promenade, it serves perfectly well. The beach is wide, sandy, and lined with casuarina trees.

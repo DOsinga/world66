@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
 snippet: One of the oldest harness racing tracks in North America, running since 1853
+score: 6.2
 ---
 
 Freehold Raceway has been operating since 1853, making it one of the oldest harness racing venues in the country. Harness racing is a different world from flat racing — the horses pull two-wheeled sulkies driven by a single jockey, and the whole spectacle has a grassroots, old-New Jersey feel that the polished atmosphere of Thoroughbred tracks lacks. Crowds here are knowledgeable and unpretentious, betting slips flutter around the grandstand, and the smell of horses and leather is very much present.

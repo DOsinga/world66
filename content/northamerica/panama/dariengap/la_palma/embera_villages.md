@@ -6,6 +6,7 @@ latitude: 8.2000
 longitude: -77.8000
 story: >
   The Emberá and Wounaan are two distinct peoples who have lived in the Darién for centuries, long before European contact. Their intricate woven baskets — made from chunga palm — have become internationally recognised as art objects and fetch serious prices in gallery markets. In their villages, the weaving is simply daily life.
+score: 8.8
 ---
 
 The Emberá-Wounaan communities living along the rivers north and east of La Palma are among the most compelling reasons to visit the Darién. A canoe journey upriver — typically one to three hours depending on which village you visit — brings you to settlements built on raised platforms above the forest floor, where life follows rhythms largely unchanged by the outside world.

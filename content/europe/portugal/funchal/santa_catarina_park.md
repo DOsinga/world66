@@ -6,6 +6,7 @@ latitude: 32.6455
 longitude: -16.9141
 story: >
   The pink palace at the upper end of the park, the Quinta Vigia, is the official residence of the President of the Regional Government of Madeira. It was originally built as a private quinta in the 18th century, later used as a summer residence by the Portuguese royal family, and is now one of the most elegant buildings in this part of the city.
+score: 6.4
 ---
 
 Santa Catarina Park is the main public garden of Funchal's hotel zone, set on a hillside above the marina with views across the bay. A small chapel at the western end dates from the 15th century; the rest was laid out in the late 19th century and includes ornamental ponds, a children's play area, and sweeping lawns lined with subtropical trees and flowering shrubs.

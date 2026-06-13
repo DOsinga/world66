@@ -7,6 +7,7 @@ tags:
 latitude: 37.3196
 longitude: -121.9197
 sources: []
+score: 7.4
 ---
 
 Falafel's Drive-In is a tiny family-run takeaway on Stevens Creek Boulevard that has been serving falafel and banana milkshakes since 1966. The Nijmeh family, originally from Lebanon, built the business on a single recipe: fresh-fried falafel balls stuffed into pita with tomato, lettuce, pickled turnip, and tahini. The line at lunchtime is reliable.

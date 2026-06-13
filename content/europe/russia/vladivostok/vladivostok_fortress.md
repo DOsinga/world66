@@ -11,6 +11,7 @@ story: >
   The fortress was built between 1889 and 1918 to defend Russia's Pacific coast, but was never fully operational as planned — changing military doctrine made coastal fortifications obsolete before construction was completed. The largest batteries on Russky Island could theoretically fire shells weighing nearly a tonne, yet were never once fired in anger.
 sources:
   - https://en.wikipedia.org/wiki/Vladivostok_Fortress
+score: 9.1
 ---
 
 The Vladivostok Fortress is one of the most extensive military fortification systems in the Russian Far East — a network of underground galleries, gun batteries, artillery positions, and command posts that ring the city and spread across Russky Island. The system was built over three decades starting in 1889, at enormous expense, but obsolescence arrived before completion.

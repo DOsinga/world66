@@ -12,6 +12,7 @@ story: >
   by wind erosion. The same rock type runs through a large band of the central
   Cyclades — visible above water at Paros and Naxos, and forming the dramatic
   boulders of Ikaria further east.
+score: 8.6
 ---
 
 Kolymbithres is the most distinctive beach on Paros: a series of small sandy coves divided and sheltered by huge rounded granite boulders, sculpted by wind into smooth, organic shapes. The rocks create natural pools and windbreaks, and the water between them is calm and clear even when the meltemi is blowing.

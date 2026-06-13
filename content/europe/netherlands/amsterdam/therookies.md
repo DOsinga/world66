@@ -8,6 +8,7 @@ tags:
 - drugs
 title: The Rookies
 type: poi
+score: 4.8
 ---
 
 Close to Leidseplein, The Rookies bridges the gap between a coffeeshop and a regular bar. You can sit on the terrace with a coffee, shoot some pool, or smoke — the atmosphere is relaxed rather than seedy. A mix of locals and tourists from the adjoining hotel keeps it lively without feeling like a tourist trap.

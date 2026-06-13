@@ -6,6 +6,7 @@ longitude: 18.7155
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 Konoba Ćatovića Mlini is a 30-minute drive north of Kotor along the bay to the village of Morinj, but it is the best fish restaurant in the entire Boka and worth the trip. The setting is a working old watermill, with tables on a wooden deck above a clear stream that runs down to the sea, ducks swimming past your feet.

@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 story: "Charles Darwin contributed to the building fund when HMS Beagle called at the Bay of Islands in December 1835. The wooden walls still carry musket-ball holes from the 1845 Battle of Kororareka, when Hone Heke's forces sacked Russell and the church survived only because both sides agreed it should be spared."
+score: 7.8
 ---
 
 The simple weatherboard Christ Church on Robertson Street is the oldest surviving church in New Zealand, consecrated in 1836. Its plainness — a single nave with a steep shingled roof, a small belltower, no spire — is what gives it character. The graveyard around it is a roll-call of bay history: missionaries, whalers, Maori chiefs, and casualties of the 1845 fighting all lie together under the old trees.

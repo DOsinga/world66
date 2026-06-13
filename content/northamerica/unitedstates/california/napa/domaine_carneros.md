@@ -8,6 +8,7 @@ snippet: Sparkling wine producer in a chateau modelled on Taittinger's home in R
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Domaine Carneros sits in the cool southern Carneros region between Napa and Sonoma, in a chateau-styled building modelled on Taittinger's eighteenth-century home in Champagne — the producer is in fact a Taittinger collaboration. The terrace overlooking the vineyards is one of the most photographed spots in the southern valley.

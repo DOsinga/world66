@@ -10,6 +10,7 @@ longitude: -79.8552
 snippet: "Aldershot park whose trumpeter swans have driven a species comeback"
 story: >
   The trumpeter swan — the largest swan species in the world, with a 2.5-metre wingspan — was hunted to near-extinction in eastern North America by the late 19th century. LaSalle Park has been the principal wintering site for the reintroduced Ontario population since the early 1990s, with hundreds of birds gathering each year. The species' Ontario population has grown from fewer than 200 to over 2,000 birds, in part because of this site.
+score: 6.9
 ---
 
 LaSalle Park sits at the western edge of Burlington in the Aldershot neighbourhood, on the north shore of Hamilton Harbour. The park has a sheltered marina, a large open lawn that hosts community events in summer, and an old wading pool and pavilion that date to the inter-war period when the site was a popular Lake Ontario excursion destination.

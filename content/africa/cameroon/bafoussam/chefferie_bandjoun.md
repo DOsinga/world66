@@ -14,6 +14,7 @@ story: >
   read.
 sources:
   - https://en.wikipedia.org/wiki/Bandjoun
+score: 8.8
 ---
 
 The Chefferie Bandjoun, about 20 kilometres south of Bafoussam, is widely regarded as the finest surviving example of Bamiléké traditional royal architecture in the region. The compound centres on a monumental carved royal hall whose towering timber posts are dense with figurative and symbolic carving — a tradition that makes Bamiléké woodwork distinctive across all of central Africa. The forecourt is surrounded by additional royal huts and granary structures, the whole complex enclosed by a ceremonial wall with a carved gateway.

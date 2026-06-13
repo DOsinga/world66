@@ -9,6 +9,7 @@ latitude: 19.8894
 longitude: 75.3156
 sources:
   - https://en.wikipedia.org/wiki/Panchakki
+score: 7.8
 ---
 
 A 17th-century dargah (Sufi shrine) complex built around an ingenious water mill — the "panchakki" (five mills) that gives the complex its name. The mill was powered by an underground aqueduct that channelled water from a source several kilometres away, releasing it through a pipe to drive a millstone that ground grain for the shrine's kitchens and free community meals. The water cascades into a large tank that still functions as a fish pond.

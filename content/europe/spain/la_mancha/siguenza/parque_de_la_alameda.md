@@ -7,6 +7,7 @@ tags:
   - park
 title: Parque de la Alameda
 type: poi
+score: 5.6
 ---
 
 The Alameda is Sigüenza's everyday breathing space, a long green park below the old town where locals walk, sit, and let children run around after school. It gives a softer counterpoint to all that cathedral stone and castle wall.

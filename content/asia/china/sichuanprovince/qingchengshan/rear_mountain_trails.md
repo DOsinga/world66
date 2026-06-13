@@ -8,6 +8,7 @@ latitude: 30.9300
 longitude: 103.5430
 story: >
   The rear mountain received far less temple construction than the front because it was considered wilder and less suitable for formal religious practice. It consequently survived the twentieth century's demolitions and renovations far better — the forest here is older, the terrain more rugged, and the sense of walking through a genuinely ancient landscape much stronger.
+score: 8.3
 ---
 
 Qingcheng Hou Shan, the rear mountain, offers around 80 kilometres of hiking trails through terrain that is dramatically different from the well-maintained front-mountain circuit. Where the front mountain is polished, the rear mountain is raw: bamboo groves giving way to old-growth forest, small waterfalls and rocky streams, and occasional isolated hermitages that predating the tourist infrastructure by centuries.

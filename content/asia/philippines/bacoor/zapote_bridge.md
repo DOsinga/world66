@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Zapote_River
   - https://en.wikipedia.org/wiki/Zapote_Bridge
+score: 6.9
 ---
 
 Zapote Bridge is a historic stone arch bridge crossing the Zapote River on the boundary between Bacoor and Las Piñas. The current bridge dates to the Spanish colonial era and is one of the few remaining examples of Spanish-era stone bridge construction in the Manila area.

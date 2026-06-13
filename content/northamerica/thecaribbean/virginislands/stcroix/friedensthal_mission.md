@@ -16,6 +16,7 @@ story: >
   act that caused immediate friction with the planter class, who feared that
   religious instruction would encourage rebellion. The Frederiksted Slave
   Revolt of 1878 started at the Moravian church there.
+score: 6.7
 ---
 
 Friedensthal is one of the oldest Moravian mission complexes in the Caribbean, established in the 1730s by the Moravian Brethren — a Protestant sect from Bohemia that sent missionaries throughout the Danish Caribbean specifically to minister to enslaved people. The complex includes a church, a manse, and a cemetery, the last being the most historically significant part of the site. The graves here record several generations of both free and enslaved Moravian congregants, with a remarkable continuity of community stretching from the colonial era to the present.

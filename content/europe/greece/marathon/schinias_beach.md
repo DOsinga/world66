@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 38.15
 longitude: 24.0144
+score: 7.5
 ---
 
 Schinias is a long sandy beach northeast of Marathon town, sheltered from the open Aegean and backed by a national park of Aleppo pine forest. The combination of a good sandy beach, shallow water that is safe for swimming, and the pine shade behind makes it one of the most pleasant beaches within reach of Athens — and considerably less crowded than beaches closer to the city.

@@ -12,6 +12,7 @@ story: >
   Hemingway's swimming pool, installed in 1938, was the first private pool in Key West and cost $20,000 — an enormous sum at the time. When his wife Pauline showed him the bill, he pressed a penny into the wet concrete and said, "You've spent my last cent." The penny is still embedded in the concrete beside the pool.
 sources:
   - https://en.wikipedia.org/wiki/Ernest_Hemingway_Home_and_Museum
+score: 8.8
 ---
 
 The Hemingway Home is Key West's most visited attraction, and it earns the attention. The Spanish Colonial house, built in 1851 and purchased by Hemingway in 1931, is where he wrote "A Farewell to Arms," "For Whom the Bell Tolls," and "Death in the Afternoon." The rooms are preserved close to how they looked during his residence, with many original furnishings.

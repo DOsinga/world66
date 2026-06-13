@@ -9,6 +9,7 @@ longitude: 75.8625
 address: Agra Road, Jaipur
 opening_hours: 8:00-17:00 daily
 snippet: 18th-century terraced garden palace with murals of Krishna legends
+score: 6.4
 ---
 
 Built in 1728 by Maharaja Sawai Jai Singh II for his second wife, a Sisodia Rajput princess from Udaipur, this terraced garden palace on the Agra Road is a formal Mughal-style garden — fountains, water channels, and tiered pavilions — with frescoes inside the garden chambers depicting the life of Krishna.

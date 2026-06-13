@@ -9,6 +9,7 @@ latitude: 36.4672
 longitude: -95.6654
 story: >
   Will Rogers was born here on November 4, 1879, and grew up learning to rope cattle from Cherokee cowboys on this land. His father Clem Rogers was one of the most successful ranchers and civic leaders in the Cherokee Nation. Will liked to say he was born in a log cabin he helped build himself — which wasn't quite true, but the impulse toward self-deprecating exaggeration was clearly there from the start. He went on to become the highest-paid entertainer in Hollywood during the 1920s and 1930s, reaching an audience of millions through radio, film, and his daily newspaper column.
+score: 8.4
 ---
 
 The Will Rogers Birthplace Ranch sits about four kilometres west of Oologah on a gentle rise overlooking the lake that now bears the family's name. The centerpiece is a beautifully restored two-storey Greek Revival house built by Clem Rogers in 1875, where Will Rogers was born four years later. The house has been furnished to reflect the 1880s, when Will was growing up here, and the barns and outbuildings have been similarly restored.

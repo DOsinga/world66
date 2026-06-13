@@ -7,6 +7,7 @@ tags:
 - bar
 title: Appalachian Mountain Brewery
 type: poi
+score: 6.3
 ---
 
 App Mountain Brewery — founded in 2011 — has become one of the touchstones of Boone's drinking scene. The taproom is a relaxed, dog-friendly room with an outdoor stage that hosts live music several nights a week, and the beer ranges from clean, sessionable lagers to assertive mountain-themed IPAs.

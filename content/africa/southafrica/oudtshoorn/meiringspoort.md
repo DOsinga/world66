@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4500
 longitude: 22.5000
+score: 8.4
 ---
 
 A 25-kilometre gorge through the Swartberg Mountains, reached by driving east from Oudtshoorn on the N12 toward Beaufort West. The tar road runs alongside the Meiring River, crossing it several times, through vertical red sandstone walls that tower several hundred metres overhead. It is accessible by ordinary car and far less strenuous than the Swartberg Pass — a spectacular drive that takes about 45 minutes one way.

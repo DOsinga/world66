@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Old Town
 type: poi
+score: 6.8
 ---
 
 Szczecin's Old Town is a reconstruction. The original medieval and Baroque city was devastated by Allied bombing in 1944 — 65% of buildings were destroyed — and the rebuilding that followed in the communist era prioritised practicality over historical accuracy. What exists today is a mix: some authentic surviving buildings, some postwar reconstruction, and some entirely new construction in a vaguely historical style.

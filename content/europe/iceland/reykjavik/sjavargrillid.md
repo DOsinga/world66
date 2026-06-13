@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Seafood and grill on the rainbow street, with driftwood-clad interior
+score: 7.1
 ---
 
 A few doors down Skólavörðustígur — the "rainbow street" — Sjávargrillið (the Seafood Grill) is one of the easier upmarket Reykjavik restaurants to book and a reliable choice for langoustine soup, line-caught cod and Icelandic lamb. The interior leans hard into the rustic-driftwood look; the windows give onto the painted street.

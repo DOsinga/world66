@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, historic_house]
 latitude: 42.0914
 longitude: -79.2389
+score: 6.1
 ---
 
 The Fenton History Center occupies the Italian-villa mansion of Reuben Fenton, a Civil War-era governor of New York and U.S. senator from Jamestown. Built in 1863 with the proceeds of the Jamestown lumber and textile boom, the house has been restored to its 1880s appearance and is now the regional history museum.

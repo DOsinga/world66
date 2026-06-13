@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Mayagüez city hall faces Plaza Colón on its west side. Built in 1845, damaged by the 1918 earthquake, and reconstructed in a neoclassical key, it is the longest continuously functioning city hall in Puerto Rico. The façade is symmetrical, all white stucco and shutters, with a clock tower at the centre.

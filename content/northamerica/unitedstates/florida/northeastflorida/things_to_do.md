@@ -5,6 +5,7 @@ phone: 386-793-1283
 title: Things to do
 type: poi
 url: www.jolitabarry.com
+score: 1.0
 ---
 
 ### Jolita and Kevin Barry

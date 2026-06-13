@@ -6,6 +6,7 @@ longitude: -78.6670
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Sturgeon Lake sits between Lindsay and Fenelon Falls, the widest part of the chain that runs from Bobcaygeon up to Cameron Lake. Its 21 kilometres of irregular shoreline are part wooded, part farmed, part cottage-lined, and it has one of the few real beaches on the inner Kawartha lakes at the small public spot in Sturgeon Point.

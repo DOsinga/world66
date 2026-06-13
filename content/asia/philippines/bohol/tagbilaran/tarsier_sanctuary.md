@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.7922
 longitude: 124.0475
+score: 8.4
 ---
 
 The Philippine Tarsier and Wildlife Sanctuary in Corella, about 14 km from Tagbilaran, is the most responsible place to see the Philippine tarsier in the wild. These tiny nocturnal primates — among the smallest primates in the world, with enormous eyes and the ability to rotate their heads 180 degrees — live in second-growth forest and are shy and fragile. The sanctuary operates on strict no-handling and no-flash-photography rules, which is what makes it work; animals at roadside tarsier exhibits elsewhere in Bohol are typically stressed.

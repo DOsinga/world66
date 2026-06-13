@@ -9,6 +9,7 @@ snippet: "Classic Class II–III whitewater stretch — the most-paddled river i
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 The South Fork of the American River from Chili Bar down through Coloma to Folsom Lake is the most popular whitewater run in California, and a good introduction to commercial rafting for anyone who has not done it before. The water is Class II and III: bouncy, fun, with named rapids like Troublemaker and Satan's Cesspool, but not punishing.

@@ -8,6 +8,7 @@ latitude: 33.1269
 longitude: -117.3098
 story: >
   The museum was founded by the NAMM (National Association of Music Merchants), which has been headquartered in Carlsbad since 1984. The collection includes instruments that have never been publicly displayed before — prototypes, one-offs, and industry oddities that illustrate the gap between what manufacturers tried and what the public actually bought.
+score: 8.3
 ---
 
 The Museum of Making Music sits adjacent to LEGOLAND and could easily be missed by visitors focused on the bigger attraction next door, but it rewards anyone who takes the detour. The permanent collection traces a century of American popular music through the instruments that made it possible — from the parlour pianos and banjos of the 1890s through the electric guitar revolution, synthesisers, and digital production tools of the present day.

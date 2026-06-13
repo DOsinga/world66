@@ -11,6 +11,7 @@ tags:
 title: Bushwakker Brewpub
 type: poi
 url: http://www.bushwakker.com
+score: 5.9
 ---
 
 A favourite micro-brewpub in Regina, Bushwakker brews its own craft beers on site and serves hearty pub food. Popular with locals and consistently rated as one of the best places in the city for a casual meal and a pint.

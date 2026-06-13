@@ -7,6 +7,7 @@ tags:
   - sight
 title: Stadtplatz
 type: poi
+score: 6.8
 ---
 
 Schladming's market square is the most pleasant surprise in a town that most visitors come to for the skiing. The Stadtplatz is a long, wide pedestrian zone lined with 16th- and 17th-century buildings in pastel colours, the dominant building being the late Gothic Parish Church of St. Achatius. The square has been here since the medieval silver and copper mining era, and the town's walls and historic gate (Stadttor) survive at the eastern end.

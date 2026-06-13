@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The festival has hosted just about everyone since 1977: Dizzy Gillespie, Sarah Vaughan, Pat Metheny, Wayne Shorter, Cassandra Wilson, Brad Mehldau. Tony Bennett played the festival in 1988 at the age of 62 — and again in 2017 at 91."
+score: 8.2
 ---
 
 Held every July since 1977, the Vitoria-Gasteiz Jazz Festival is one of the most respected jazz events in Europe, drawing major international acts to the Mendizorroza sports pavilion and to free open-air stages in the Plaza de los Fueros and Plaza Nueva.

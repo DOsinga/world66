@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.16861
 longitude: 23.9
+score: 6.9
 ---
 
 Lake Marathon is an artificial reservoir created in the 1920s by damming the Haradros river in the mountains above the Marathon plain. The dam itself is one of the finest examples of early 20th-century hydraulic engineering in Greece — faced in Pentelic marble, the same white stone used for the Parthenon, making it one of the most handsomely dressed dams anywhere in the world. The reservoir supplied Athens with water for decades and continues to serve the city.

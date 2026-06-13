@@ -1,6 +1,7 @@
 ---
 title: "Glenturret Distillery"
 type: poi
+score: 8.0
 ---
 
 Founded in 1763, Glenturret is Scotland's oldest working distillery, sitting alongside the River Turret just outside Crieff. It survived centuries of booms and busts in the Scotch whisky industry, and today it occupies a beautifully restored stone complex that feels more like a country estate than a working distillery. Tours take visitors through the full production process — from malting to maturation — and the guides are knowledgeable without being stuffy.

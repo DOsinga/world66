@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Small 17th-century Jesuit church with a carved baroque portal
+score: 7.3
 ---
 
 Iglesia San Miguel is one of the smaller and less visited churches of Sucre's centre, tucked into a corner of Calle Arenales a couple of blocks west of the cathedral. The Jesuits founded it in 1621 as part of their college complex (the same college that would become the University of San Francisco Xavier three years later) and the carved stone portal above the main door is one of the finest examples of mestizo baroque masonry in the city — leaves, fruits, angels, and the sun and moon symbols that Andean carvers liked to weave into Christian imagery.

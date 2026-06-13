@@ -9,6 +9,7 @@ longitude: -6.7492
 story: "The castle's keep houses a small military museum and, unexpectedly, a pillory mounted on a stone boar known as a 'berrão' — one of several pre-Roman stone sculptures of pigs and bulls scattered through the Trás-os-Montes. Nobody knows quite what the ancients meant by them, but they have been here far longer than the castle."
 sources:
   - https://en.wikipedia.org/wiki/Castle_of_Bragança
+score: 8.6
 ---
 
 The Castle of Bragança anchors the medieval citadel (Cidadela) on its hilltop above the city. Built in the 12th and 13th centuries, it is one of the best-preserved medieval fortresses in Portugal, with intact walls, towers, and a tall square keep. The keep has been converted into a small military museum with armour, weapons, and models of historical fortifications — modest in content but worthwhile for the views from the top.

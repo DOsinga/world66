@@ -13,6 +13,7 @@ story: >
   served as a gathering point for Unionist sympathisers who would go on to vote for West
   Virginia's separation from Confederate Virginia. The building's cast-iron columns are
   original.
+score: 7.9
 ---
 
 The Centre Market complex consists of two 19th-century market houses — the original 1853 structure and an 1890 addition — that together form the social heart of downtown Wheeling. The interior is lined with vendors selling produce, baked goods, local crafts, and food, and the surrounding streets have an honest working feel that distinguishes it from more gentrified market districts. On weekends the outdoor area fills with additional stalls and occasional live music.

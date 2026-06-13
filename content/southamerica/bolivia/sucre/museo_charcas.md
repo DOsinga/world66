@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Colonial art, anthropology and natural history in one rambling complex
+score: 8.2
 ---
 
 The Museo Universitario Charcas occupies a colonial mansion on Calle Bolívar opposite the cathedral and is in fact three museums under one roof: colonial art, anthropology, and modern Bolivian painting. The collection was assembled by the University of San Francisco Xavier over a century from local donations and is unevenly catalogued but full of interesting things.

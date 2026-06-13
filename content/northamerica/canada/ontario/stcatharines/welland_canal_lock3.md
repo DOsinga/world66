@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 8.8
 ---
 
 The Welland Canals Centre at Lock 3 is the must-see of St. Catharines. The combined museum, viewing platform, and tourist office sit on the bank of the canal a few minutes north of downtown. The elevated deck looks straight down into the working lock, and several times a day a 225-metre lake freighter comes through carrying iron ore, grain, or coal between Lake Ontario and Lake Erie.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8786
 longitude: -94.8658
+score: 5.9
 ---
 
 NEO is a public two-year community college founded in 1919, on a green campus on the eastern side of Miami. It is the only college in Oklahoma to offer a degree in farrier science — horseshoeing — and is well known for its rodeo team and equine programmes.

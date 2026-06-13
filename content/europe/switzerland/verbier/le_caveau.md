@@ -7,6 +7,7 @@ tags:
 title: Le Caveau
 type: poi
 snippet: Classic Valais fondue and raclette spot off the village square
+score: 6.2
 ---
 
 A small, low-ceilinged room just off Place Centrale that has been serving fondue, raclette and assiette valaisanne for decades. The format is unchanged: lift the wooden cheese-board, the apricot brandy and the Fendant are already on the table, the host comes and stays.

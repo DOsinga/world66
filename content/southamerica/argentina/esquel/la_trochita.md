@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The narrow-gauge steam railway across the Patagonian steppe — the original Old Patagonian Express
 story: "When Paul Theroux finished the journey he describes in The Old Patagonian Express in 1979, he had taken the train from Boston to here, ending his book at the Esquel platform. The line was deemed unprofitable and closed by the Argentine state in 1993; the public outcry was so strong that the Chubut and Río Negro provinces took it over and now run it as a tourist line."
+score: 8.9
 ---
 
 The narrow-gauge (75 cm) steam railway that runs from Esquel station east across the windy Patagonian steppe to Nahuel Pan and, on longer runs, further to El Maitén. The line was built between 1922 and 1945 to connect the wool-and-cattle estancias of north-western Patagonia to the broad-gauge network at Ingeniero Jacobacci, 400km north; it was Argentina's only narrow-gauge steam line and ran into the 1990s.

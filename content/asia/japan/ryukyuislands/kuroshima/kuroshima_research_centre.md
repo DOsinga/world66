@@ -8,6 +8,7 @@ latitude: 24.2395
 longitude: 124.0150
 story: >
   The centre's aquarium tanks contain sea turtles that were found injured or washed ashore around the Yaeyama islands. Staff nurse them back to health before releasing them at sea — a process that can take months. Visitors can watch the feeding, which happens at set times daily, and observe the turtles from above through glass viewing panels.
+score: 6.8
 ---
 
 The Kuroshima Research Centre is a small marine research and turtle rehabilitation facility that serves as the island's main visitor attraction outside of the beaches. The centre has displays on the island's ecology, the sea turtle nesting programme, and the coral reef ecosystem, with an aquarium section holding live turtles and reef fish.

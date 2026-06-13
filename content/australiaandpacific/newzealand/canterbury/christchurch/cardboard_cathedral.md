@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -43.5342
 longitude: 172.6433
+score: 7.1
 ---
 
 The Transitional Cathedral on Latimer Square is the building that made the world pay attention to Christchurch's rebuilding. Japanese architect Shigeru Ban — who specialises in using unconventional materials in disaster contexts — designed it from 98 cardboard tubes, a steel frame, and a polycarbonate roof that admits light like a lantern. It seats 700 people, it is used as an active Anglican church, and Ban designed it to last at least fifty years, by which time the word "transitional" will need some explaining.

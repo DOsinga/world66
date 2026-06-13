@@ -7,6 +7,7 @@ tags:
 latitude: 36.5339
 longitude: -6.2967
 snippet: "Outstanding Zurbarán collection and Phoenician archaeology in a fine Plaza de Mina setting"
+score: 8.8
 ---
 
 The city museum on Plaza de Mina is Cádiz in two floors. The ground floor holds the archaeological collection: Phoenician sarcophagi (two extraordinary examples in white marble), Roman statuary, Carthaginian amulets and bronze figurines. It covers the full arc of the city's ancient history, which begins around 1100 BC and makes Cádiz one of the oldest continuously occupied cities in Western Europe.

@@ -12,6 +12,7 @@ tags:
 title: Kulturbrauerei
 type: poi
 url: www.kulturbrauerei.de
+score: 7.4
 ---
 
 A former 19th-century brewery complex that has become one of Prenzlauer Berg's main cultural hubs. The red-brick buildings house clubs, bars, a cinema, a theatre, a weekend flea market, and seasonal events. It's genuinely massive — worth exploring even if you're not going to a specific event.

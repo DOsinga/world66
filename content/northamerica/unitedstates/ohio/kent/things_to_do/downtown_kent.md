@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.1528
 longitude: -81.3577
+score: 7.4
 ---
 
 East Main Street is the spine of downtown Kent — a compact strip of independent shops, used bookstores, record stores, and coffee shops that has been sustained by the university population for decades. It's not a destination shopping district, but it has the texture of a place where people actually live and spend time rather than one assembled for visitors.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 39.5085
 longitude: 2.7515
+score: 5.3
 ---
 
 La Ponderosa is one of the more reliable choices on the S'Arenal waterfront for Mallorcan-inflected cooking — fish stew, grilled catch, and the local tumbet (a layered vegetable and potato dish with tomato sauce) alongside the standard seafront fare. The terrace has a reasonable view of the beach and the kitchen is competent without being ambitious.

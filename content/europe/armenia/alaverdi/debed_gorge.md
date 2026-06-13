@@ -12,6 +12,7 @@ story: >
   trade and military routes in the Caucasus. Caravans carrying Armenian silk and
   copper passed through the same gorge that Soviet engineers later blasted a
   railway through, with tunnels bored directly through the cliff faces.
+score: 8.3
 ---
 
 The Debed Canyon is the dramatic geographical setting of Alaverdi — a deep, forested gorge where the Debed River has cut through the volcanic plateau, leaving sheer walls of up to 400 metres on either side. The town sits at the bottom, hemmed in by the slopes, while the monasteries of Sanahin and Haghpat occupy the plateaus above.

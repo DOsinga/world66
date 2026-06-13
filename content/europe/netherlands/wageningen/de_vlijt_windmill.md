@@ -9,6 +9,7 @@ longitude: 5.6711
 snippet: Working 18th-century corn mill on the edge of the town centre
 sources:
   - https://en.wikipedia.org/wiki/De_Vlijt,_Wageningen
+score: 7.7
 ---
 
 **De Vlijt** (The Industry) is an octagonal post mill standing on Harnjesweg, a short walk from the town centre. Built in the early 18th century, it is one of the few working windmills in Gelderland and still grinds grain on open days. The mill is maintained by a voluntary miller's association and is open to visitors on specific weekends, usually the first Saturday of the month from spring to autumn.

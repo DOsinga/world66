@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "102-metre Neolithic long barrow set on a field above Fanefjord"
+score: 7.8
 ---
 
 Grønjægers Høj — "the green hunter's mound" — is one of the longest passage graves in Denmark, an oblong Neolithic monument 102 metres long and a few metres high, lined with 134 large kerb stones. It was built around 3500 BC by the Funnel Beaker culture and is one of the most impressive prehistoric tombs in Scandinavia.

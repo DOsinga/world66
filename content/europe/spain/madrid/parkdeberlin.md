@@ -11,6 +11,7 @@ tags:
 - chamberi_barrio
 title: Parque de Berlín
 type: poi
+score: 5.8
 ---
 
 Tucked into the Chamartín district, Parque de Berlín is a small neighborhood park built around three genuine fragments of the Berlin Wall. The centerpiece is a fountain flanked by the concrete slabs, with a bronze bear — the symbol of Berlin — standing nearby. An inscription commemorates the fall of the Wall in 1989.

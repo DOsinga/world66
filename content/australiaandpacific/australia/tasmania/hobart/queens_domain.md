@@ -10,6 +10,7 @@ tags:
   - sight
   - park
 snippet: "230-hectare hilltop park between the CBD and the Botanical Gardens — lookouts, native bush, and the rare grasslands locals call simply 'the Domain'"
+score: 7.3
 ---
 
 A 230-hectare patch of native bush and grassland on a rocky hill above the CBD, set aside in 1860 and remarkably unchanged since. The Domain has the best **summit lookouts** in the inner city — particularly the **Cenotaph** at the western end and the **Beaumaris Zoo Lookout** at the southern edge, both with sweeping views over the Derwent and Hobart's bridge. Within the park lie the Royal Tasmanian Botanical Gardens, the TCA Cricket Ground, the Domain Athletic Centre, and the small **Beaumaris Zoo** ruins where the last known Tasmanian Tiger died in 1936.

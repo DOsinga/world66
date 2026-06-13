@@ -8,6 +8,7 @@ snippet: Historic brewery famous for its Flemish red-brown sour ales aged in oak
 latitude: 50.9465
 longitude: 3.1376
 story: "Rodenbach ages its beer in massive oak casks called foeders, some of which are over 150 years old and hold up to 65,000 litres. The wild yeasts and bacteria living in the wood give the beer its distinctive sour, fruity character — a flavour profile that predates modern brewing by centuries."
+score: 7.9
 ---
 
 The Rodenbach brewery has been producing its distinctive Flemish red-brown ale in Roeselare since 1821. The brewery is famous for its sour ales, aged for up to two years in enormous oak foeders — some 150 years old — where wild yeasts create the beer's characteristic tart, fruity complexity. Rodenbach Grand Cru and Vintage are considered among the finest sour beers in the world.

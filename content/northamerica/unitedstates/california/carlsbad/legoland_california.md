@@ -8,6 +8,7 @@ latitude: 33.1262
 longitude: -117.3106
 story: >
   LEGOLAND California was the second LEGOLAND park to open outside Denmark, launching in 1999. The park's most extraordinary section is Miniland USA, where landmarks including a recreated New York skyline, New Orleans French Quarter, and Washington D.C. monuments have been built from more than 20 million LEGO bricks — tiny flags, taxi cabs, and street vendors included.
+score: 7.1
 ---
 
 LEGOLAND California is the park that put Carlsbad on the family-travel map, and it delivers on its promise for children roughly between the ages of two and twelve. The rides are mild enough for toddlers but engaging enough for older kids, and the entire resort is built around the idea that children should be able to operate things themselves — kid-powered coasters, driving schools, and interactive water rides dominate.

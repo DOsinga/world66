@@ -9,6 +9,7 @@ latitude: 39.6606
 longitude: -75.5649
 sources:
   - https://en.wikipedia.org/wiki/Amstel_House
+score: 7.7
 ---
 
 Amstel House is one of New Castle's finest Georgian mansions, built around 1738 and named after the Dutch city that gave New Castle its original name, Nieuw Amstel. The house was owned by Nicholas Van Dyke, a governor of Delaware during the Revolutionary War period, and George Washington is said to have attended a wedding here in 1784. 

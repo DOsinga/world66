@@ -8,6 +8,7 @@ tags:
   - theatre
 title: Wyvern Theatre
 type: poi
+score: 5.6
 ---
 
 The Wyvern Theatre opened in 1971 and is Swindon's principal venue for live performance — a 635-seat auditorium that receives touring productions from the West End, comedy shows, and occasional concerts. The programme is mainstream rather than experimental, but it runs year-round and the quality is generally high.

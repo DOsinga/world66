@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 23.5733
 longitude: 58.6175
+score: 6.7
 ---
 
 Al Bustan Palace was built in 1985 to host the heads of state gathered for the Gulf Cooperation Council summit, a commission that explains its extraordinary scale: a central atrium nine stories high topped by a gold dome, surrounded by 250 rooms and set in gardens between the sea and the Hajar Mountains. It was designed by the Omani architect Abdel Wahed El-Wakil in a style that draws on traditional Arabian and Islamic architecture while operating at a completely non-traditional scale. For decades it functioned as Oman's flagship hotel; it underwent a major renovation and reopened in 2010 under the Ritz-Carlton brand.

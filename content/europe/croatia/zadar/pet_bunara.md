@@ -6,6 +6,7 @@ longitude: 15.2278
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A serious Dalmatian kitchen on Five Wells Square, with a short menu of grilled fish, lamb peka (book ahead — it takes two hours), and a few inventive seasonal dishes. The wine list is one of the best in the old town and is heavily weighted towards Croatian producers, including some excellent indigenous whites like Pošip and Bogdanuša.

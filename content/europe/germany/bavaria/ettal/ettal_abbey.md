@@ -11,6 +11,7 @@ story: >
   Emperor Ludwig IV founded Ettal in 1330 after a vision on horseback in which a marble Madonna — which he was carrying from Italy — reportedly refused to move from the spot. The founding legend explains why a Benedictine monastery of some grandeur ended up in this particular narrow Alpine valley rather than somewhere more strategically useful. The marble Madonna is still the object of veneration in the church today.
 sources:
   - https://en.wikipedia.org/wiki/Ettal_Abbey
+score: 8.9
 ---
 
 Ettal Abbey is the reason to come to this village. Founded in 1330 by Emperor Ludwig IV, it grew over the following centuries into one of Bavaria's most important Benedictine monasteries, rebuilding after a fire in the eighteenth century with the baroque basilica that now dominates the village. The dome — 60 metres across and brilliantly frescoed — is wildly oversized for the setting, which makes it all the more impressive when it appears around a corner in the valley.

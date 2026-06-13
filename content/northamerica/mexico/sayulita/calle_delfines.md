@@ -13,6 +13,7 @@ story: >
   patterns in December, then bright generic designs through the surf season. Walking
   the street in late afternoon, when the light filters through the cut paper overhead,
   is one of those incidental experiences that gets mentioned in trip reports for months afterward.
+score: 6.6
 ---
 
 Calle Delfines is Sayulita's most photographed street — a short stretch of cobblestone lined with restaurant tables, boutiques, and hundreds of colorful flags (papel picado) strung overhead between the buildings. It's often referred to locally as "Flag Street," and the visual effect on a sunny afternoon is cheerful to the point of being slightly unreal.

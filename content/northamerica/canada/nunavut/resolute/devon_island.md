@@ -8,6 +8,7 @@ tags:
 latitude: 75.1333
 longitude: -87.85
 story: "Devon Island is the largest uninhabited island on Earth, covering 55,247 square kilometres — larger than Croatia. The Haughton Impact Crater on Devon Island, formed 39 million years ago, is so similar in its geology and atmospheric conditions to Mars that NASA has used it as a research base since 1997. Astronaut training and Mars rover tests have been conducted here."
+score: 8.6
 ---
 
 Devon Island lies about 100 kilometres north of Resolute across Lancaster Sound and is the world's largest island with no permanent human population. Getting there requires a charter flight from Resolute, which makes it accessible only to expeditions and well-funded private visits. The island's interior is a polar desert of bare rock and ice, almost entirely devoid of vegetation — an extraordinarily alien landscape that has drawn comparisons to Mars.

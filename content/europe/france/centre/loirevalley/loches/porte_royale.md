@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The 13th-century fortified gate that is still the main entrance to the citadel
+score: 7.1
 ---
 
 The Porte Royale is the great fortified gate that controls entry to the upper citadel from the lower town. The gate complex includes two towers, a portcullis chamber, a wooden drawbridge (now fixed), and a covered passageway -- everything a 13th-century gatehouse was meant to have.

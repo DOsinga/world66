@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Wooded hill above the theatre with panoramic Provençal views
+score: 7.4
 ---
 
 Behind the Théâtre Antique, the **Colline Saint-Eutrope** rises about 100 metres above town. Once the site of the Princes of Orange's fortified castle (demolished by Louis XIV in 1673 after the king annexed the principality), it is now a wooded municipal park crisscrossed by paths and shaded by mature pines.

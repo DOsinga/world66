@@ -9,6 +9,7 @@ latitude: 52.0382
 longitude: 0.7284
 story: >
   Thomas Gainsborough was born here in 1727, the youngest of nine children of a cloth merchant. He was sent to London as an apprentice at fourteen and never really returned to Sudbury, yet the Suffolk landscape stayed with him — the soft light, the elms, the winding Stour. When he painted the Blue Boy in 1770, he was living in Bath, but the boy's pose echoes the gentle countryside he had painted as a teenager along this very river.
+score: 8.8
 ---
 
 Gainsborough's House is the birthplace museum of Thomas Gainsborough (1727–1788), one of the founders of English portrait and landscape painting. It holds the largest collection of his work anywhere in the world — over 140 paintings, drawings, and prints — in the actual house where he grew up, which gives the place a particular intimacy that major galleries rarely achieve.

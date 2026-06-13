@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Parque de los Pies Descalzos
 type: poi
+score: 6.3
 ---
 
 A small but striking urban park beside the EPM headquarters tower, designed in 2000 around the idea of taking off your shoes and walking through three sensory zones — a sand garden, a bamboo grove, and a shallow water pool. Free, popular with families, especially in the heat of midday. The Museum of Water inside the same EPM building is included in any visit.

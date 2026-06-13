@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum
   - https://en.wikipedia.org/wiki/Auschwitz_concentration_camp
+score: 9.8
 ---
 
 The Auschwitz-Birkenau State Museum encompasses the remains of the largest Nazi German concentration and extermination camp complex, where more than a million people — the vast majority of them Jews — were murdered between 1940 and 1945. The museum occupies two main sites: Auschwitz I (the original camp, about 3 km from Oswiecim town centre) and Auschwitz II-Birkenau (the larger extermination camp, about 3 km further west).

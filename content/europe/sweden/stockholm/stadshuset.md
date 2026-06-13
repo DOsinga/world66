@@ -9,6 +9,7 @@ latitude: 59.3272
 longitude: 18.0543
 story: >
   The Blue Hall where the Nobel Prize banquet is held is actually not blue — it was supposed to be painted blue, but the architect Ragnar Östberg liked the exposed red brick so much that he changed his mind and kept it. The name stuck anyway. The Nobel banquet has been held here since 1930, and the menu and seating arrangements are kept secret until the last possible moment.
+score: 8.8
 ---
 
 Stockholm City Hall (Stockholms stadshus) is an early 20th-century National Romantic masterpiece by architect Ragnar Östberg, completed in 1923. The square red brick tower — 106 metres tall and topped with three golden crowns — has become the symbol of the city. The building sits at the water's edge where Lake Mälaren meets the Baltic, and the view from the tower on a clear day is one of the best in Stockholm.

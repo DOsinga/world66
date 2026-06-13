@@ -9,6 +9,7 @@ latitude: -40.9173
 longitude: 174.9782
 sources:
   - https://en.wikipedia.org/wiki/Wharemauku_Stream
+score: 6.0
 ---
 
 The Wharemauku Stream flows westward through Raumati to the sea, and a shared path follows it for several kilometres inland. It is an easy, flat walk or cycle through suburban greenery — not wilderness, but pleasant enough and well-maintained. Ducks are a permanent fixture.

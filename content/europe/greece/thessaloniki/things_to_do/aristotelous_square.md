@@ -8,6 +8,7 @@ tags:
 latitude: 40.6332
 longitude: 22.9398
 snippet: Grand neoclassical seafront square at the city's social heart
+score: 7.3
 ---
 
 Aristotelous Square is the monumental centrepiece of Thessaloniki's lower city — a wide, slightly Parisian sweep of colonnaded arcades opening onto the seafront promenade. Designed by the French urbanist Ernest Hébrard as part of the ambitious post-fire rebuilding plan of 1917, it was intended to restore order and grandeur to a city that had been largely levelled by the blaze. The result is a civic space that feels simultaneously European and distinctly Greek: cafés spilling out under the arcades, a fish market off to one side, and at the bottom end the sea glittering between the columns.

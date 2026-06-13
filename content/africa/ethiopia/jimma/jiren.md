@@ -9,6 +9,7 @@ longitude: 36.8722
 sources:
   - https://en.wikipedia.org/wiki/Jiren,_Ethiopia
   - https://en.wikipedia.org/wiki/Kingdom_of_Jimma
+score: 5.6
 ---
 
 Jiren is a small settlement on the northern edge of Jimma city, largely absorbed into the urban sprawl but still identifiable as a distinct place. It was the royal capital of the Kingdom of Jimma from its foundation by Abba Jifar I in 1830 until 1936, when the Italian colonial administration merged it with the neighbouring settlement of Hirmata to create the modern city of Jimma.

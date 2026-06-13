@@ -7,6 +7,7 @@ tags:
 latitude: 29.8005
 longitude: 35.2614
 snippet: "One of Jordan's largest solar installations, visible as a dark expanse from the Desert Highway"
+score: 4.8
 ---
 
 About five kilometres west of the Desert Highway, spread across the stony plateau south of Quweira, the Quweira Solar Power Plant covers a vast area with photovoltaic panels. The installation has a capacity of around 103 MW, making it one of the largest solar farms in Jordan and a significant piece of the country's push to generate more of its electricity from renewables. From the highway you can see the dark geometric mass of panels against the pale desert floor — a striking industrial sight in an otherwise empty landscape.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8908
 longitude: -0.5024
+score: 5.7
 ---
 
 Positioned close to the bullring, the Bar des Arènes is the natural gathering point before and after course landaise contests. On fight days the bar fills early with local aficionados discussing form and teams, and it stays busy long after the arenas have emptied. The decor runs to posters and photographs of écarteurs past, which makes it an informal museum of local sporting culture as much as a drinking establishment.

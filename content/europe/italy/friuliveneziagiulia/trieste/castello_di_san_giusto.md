@@ -11,6 +11,7 @@ tags:
 - museum
 title: Castello di San Giusto
 type: poi
+score: 7.8
 ---
 
 A 15th-century castle and fortress on the San Giusto hill, now a museum of historical weapons and local history. The views over the city and the Gulf of Trieste are the main draw — panoramic in every direction, and worth the climb even if you skip the museum interior.

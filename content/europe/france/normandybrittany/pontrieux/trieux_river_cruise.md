@@ -9,6 +9,7 @@ longitude: -3.1720
 snippet: A scenic boat trip down a wooded tidal river from Pontrieux to the coast at Lézardrieux
 story: >
   The Trieux is tidal all the way up to Pontrieux, which sits some 15 km inland. At high water the river becomes a navigable estuary threading through steep wooded banks; at low water the mudflats are exposed and herons stalk the shallows. The boat trip times departures around the tides, making the exact schedule change daily — part of the pleasure of living by tidal time.
+score: 7.6
 ---
 
 The Trieux river cruise runs from Pontrieux downstream through one of the most beautiful stretches of river in Brittany, following the tidal Trieux through wooded valleys towards the coast at Lézardrieux and Paimpol. The journey takes about 2 hours one way; return boats allow a full day trip.

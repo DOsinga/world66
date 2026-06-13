@@ -14,6 +14,7 @@ story: >
   still turn today. The carved wooden face of a grinning Bacchus mask over the
   main gate has long puzzled historians: no one knows who put it there or why,
   and it appears on no other colonial building in the Americas.
+score: 9.5
 ---
 
 The Casa de la Moneda — the National Mint of Bolivia — is the largest and finest colonial civil building in the Americas, occupying an entire city block at the heart of Potosí. Construction began in 1759 to replace an earlier mint that could no longer process the quantity of silver pouring out of Cerro Rico, and it took twenty years to complete. The result is a palace of empire: thick stone walls, interior courtyards stacked with colonial-era machinery, and a staggering collection of paintings, coins, and silverwork that tells the story of the global economy that Potosí's mines created.

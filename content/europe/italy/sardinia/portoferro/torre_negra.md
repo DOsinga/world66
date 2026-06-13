@@ -11,6 +11,7 @@ story: >
   Sardinia's coastline during the 16th and 17th centuries to warn of Barbary corsair raids.
   Ships of Algerian and Tunisian pirates regularly swept these coasts, and the towers were
   spaced close enough that a fire lit on one could be seen from the next within minutes.
+score: 7.3
 ---
 
 The black basalt watchtower at the northern end of Porto Ferro bay is one of the best-preserved Spanish coastal towers in Sardinia. It stands on a rocky promontory above the beach, and the views from the base — south along the bay, north toward the open sea — make the short scramble up worth it.

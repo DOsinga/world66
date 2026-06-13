@@ -7,6 +7,7 @@ tags:
 latitude: 23.0367
 longitude: 72.5611
 snippet: "Western Ahmedabad's main commercial and university district"
+score: 5.3
 ---
 
 Navrangpura, west of the Sabarmati, is the modern heart of Ahmedabad — wide boulevards, the **Gujarat University** campus, mid-range hotels, and almost all the major shops and restaurants of the new city. **C.G. Road** is the main commercial strip, lined with multi-storey shops, restaurants, and **Khazana** and **Bandhej** textile boutiques. The neighbourhood has none of the visual drama of the walled city but is where the visitor will eat, sleep, and shop.

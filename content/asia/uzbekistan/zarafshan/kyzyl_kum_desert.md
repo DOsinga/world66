@@ -7,6 +7,7 @@ tags:
 latitude: 41.5699
 longitude: 64.2097
 snippet: The red sand desert that surrounds Zarafshan in all directions
+score: 7.2
 ---
 
 The Kyzyl Kum — "Red Sand" in Turkic — is the eleventh-largest desert on earth, sprawling across Uzbekistan, Kazakhstan, and Turkmenistan. From Zarafshan it surrounds the city completely, a flat, rust-coloured expanse of saxaul scrub, low dunes, and dry salt flats that runs to the horizon in every direction.

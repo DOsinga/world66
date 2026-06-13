@@ -12,6 +12,7 @@ story: >
   The Schmittenhöhe takes its name not from a person called Schmitt but from the old Bavarian word for a mountain hut (Schmiede). When the first cable car opened in 1927, Zell am See became one of the first alpine resorts in the world to offer mechanical mountain access to ordinary tourists rather than just professional mountaineers.
 sources:
   - https://en.wikipedia.org/wiki/Schmittenh%C3%B6he
+score: 8.8
 ---
 
 The mountain that defines Zell am See's winter season, the Schmittenhöhe rises to 1,965m above the town and is reached by a combination of gondola and chairlifts departing from the edge of the old centre. In winter it offers around 77km of marked pistes across all difficulty levels, with reliable snow cover from December to April and excellent nursery slopes for beginners near the summit.

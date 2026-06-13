@@ -7,6 +7,7 @@ tags:
 - sight
 title: USS Bowfin Submarine
 type: poi
+score: 7.8
 ---
 
 The USS Bowfin was commissioned in 1943 and sank 44 enemy ships in eight patrols during the Second World War, earning her crew the nickname "Pearl Harbor Avenger." She is now moored at the Pearl Harbor National Memorial and open to visitors who can climb through the entire submarine — from torpedo rooms to engine room to conning tower.

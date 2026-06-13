@@ -7,6 +7,7 @@ tags:
 latitude: 58.9824
 longitude: -2.9608
 snippet: "Lively Norse-themed bar and grill on Kirkwall waterfront"
+score: 5.7
 ---
 
 A waterfront bar near the harbour in Kirkwall, Helgi's is one of the town's reliable evening spots. The interior leans heavily into Orkney's Norse heritage — wooden panelling, runic decor, a long whisky list with all the Orkney bottlings well represented. Food is pub-plus, with a good seafood menu.

@@ -8,6 +8,7 @@ latitude: 38.61214
 longitude: -122.86893
 address: "107 North Street, Healdsburg, CA 95448"
 snippet: Welcoming Italian-focused tasting room open into the late afternoon
+score: 6.2
 ---
 
 A small, family-run winery with a tasting room on North Street a short walk from the plaza. The Portalupi family makes Italian-inflected wines from Sonoma County grapes — Sangiovese, Barbera, and Primitivo alongside Zinfandel and Pinot Grigio — which gives the tasting room a slightly different character from the standard Sonoma experience.

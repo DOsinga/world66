@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Poienari Citadel (Vlad Tepes)
 type: poi
+score: 8.6
 ---
 
 A few kilometres north of Curtea de Arges, the actual fortress of Vlad Tepes clings to a steep ridge above the Arges River gorge. This is the real thing — not Bran Castle, which has the Dracula tourism industry but no genuine Vlad connection. Poienari was Vlad's personal stronghold, rebuilt using forced labour from the Wallachian boyars who had killed his father and brother.

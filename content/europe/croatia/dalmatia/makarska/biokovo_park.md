@@ -8,6 +8,7 @@ tags:
 - biokovo
 title: Biokovo Nature Park
 type: poi
+score: 9.0
 ---
 
 The Biokovo massif rises almost straight from the Makarska Riviera, with the summit of Sveti Jure at 1,762 metres only six kilometres inland. The Nature Park covers the upper slopes and ridges, with hiking trails of varied difficulty, a botanical garden at Kotišina, and the road that climbs to the Skywalk and the summit antenna. The karst landscape is striking — bare limestone above the tree line, with dramatic sinkholes and caves.

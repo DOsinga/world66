@@ -10,6 +10,7 @@ longitude: 25.6261
 address: "ul. Saedinenie 1, Stara Zagora"
 snippet: "Bulgaria's oldest provincial opera company, founded in 1928 and still staging full productions year-round"
 story: "The opera company was founded in 1928, making it the first professional opera theatre established outside Sofia. Bulgaria has an unusually strong operatic tradition for a small country — partly because the communist government in the 20th century invested heavily in provincial cultural institutions, partly because Bulgarian voices have historically been prized in international opera houses. The bass and baritone registers have been especially celebrated."
+score: 6.8
 ---
 
 The State Opera Stara Zagora is the oldest provincial opera company in Bulgaria, founded in 1928 when the city still called itself Eski Zagra. It stages a full programme of operas and ballets from September through June in a dedicated theatre in the city centre, and tickets are remarkably affordable by any European standard.

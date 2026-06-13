@@ -10,6 +10,7 @@ story: >
   Leadville's Jewish community in the 1880s was substantial enough to build this synagogue — one of the highest synagogues in the world at the time of its construction. The congregation dwindled as the silver boom faded, and Temple Israel sat empty for decades. It was fully restored in the 1990s and is now the only intact nineteenth-century synagogue in Colorado, a reminder that frontier boomtowns attracted immigrants from everywhere.
 sources:
   - https://en.wikipedia.org/wiki/Temple_Israel_(Leadville,_Colorado)
+score: 8.0
 ---
 
 Temple Israel, built in 1884, is a beautifully restored synagogue on West Fourth Street that now operates as a museum of Jewish history in Colorado. The building is one of the oldest surviving synagogues in the Mountain West and the only intact nineteenth-century synagogue in Colorado, a testament to the cosmopolitan nature of mining boomtowns — Leadville's Jewish community was significant enough to build a formal synagogue at 10,000 feet in 1884.

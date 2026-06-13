@@ -14,6 +14,7 @@ story: >
   operating ever since — you can book a private session or join a co-ed session
   on select evenings. It is, by most accounts, the strangest and most pleasant
   thing about Arcata.
+score: 7.2
 ---
 
 Café Mokka on the Plaza is Arcata's best coffee house — a warm, cluttered space with mismatched furniture, good espresso, and a consistently relaxed atmosphere. The café has been at or near the Plaza for decades and has the feel of a place that has never tried to be anything other than what it is.

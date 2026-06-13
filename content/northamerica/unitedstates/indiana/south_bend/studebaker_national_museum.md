@@ -12,6 +12,7 @@ story: >
   the family pivoted — and the company that had carried settlers across the frontier ended up
   building some of the most stylish cars of the 1950s, including the bullet-nosed Champion that
   starred as the Muppet Movie's Studebaker.
+score: 8.8
 ---
 
 The Studebaker National Museum is one of the best industrial history museums in the Midwest, and a genuinely surprising place even for visitors with no particular interest in cars. The Studebaker company was founded in South Bend in 1852 and grew to become one of America's great automobile manufacturers, closing its doors in 1963 after 111 years of operation. The museum tells that long story with flair.

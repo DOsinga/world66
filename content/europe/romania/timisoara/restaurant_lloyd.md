@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - cetate
+score: 5.7
 ---
 
 Lloyd Restaurant occupies the ground floor of the Lloyd Palace on Victory Square, with an arcaded terrace looking out over the long stretch toward the Orthodox Cathedral. It is the city's grand-cafe address — open for breakfast, lunch and dinner, with a long menu that runs from Banat traditional through Italian to the occasional French dish.

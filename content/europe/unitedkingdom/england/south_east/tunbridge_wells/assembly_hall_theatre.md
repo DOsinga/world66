@@ -6,6 +6,7 @@ longitude: 0.2660
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The Assembly Hall is the town's largest venue with just over a thousand seats. Opened in 1939 as a multi-purpose civic hall, it now hosts touring West End productions, ballet, comedy and large-scale concerts. The building is set back from Crescent Road behind the Town Hall and shares the civic complex with the borough offices.

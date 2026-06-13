@@ -6,6 +6,7 @@ longitude: 31.3713
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The small archaeological museum in Wadi Halfa holds artifacts recovered during the frantic salvage operations carried out before the Aswan dam's reservoir swallowed much of Nubian Sudan in the 1960s. The collection includes pottery, amulets, inscribed stones, and pieces from temples that no longer exist — objects that are now the only tangible record of sites permanently beneath Lake Nubia.

@@ -6,6 +6,7 @@ longitude: 17.601
 snippet: Pebble and rock beaches along the coast south of the Neretva Delta
 title: Beaches South of Neretva Delta
 type: poi
+score: 4.8
 ---
 
 Komarna : There is a pebble beach just south of the

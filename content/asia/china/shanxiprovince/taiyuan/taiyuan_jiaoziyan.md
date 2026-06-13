@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.8620
 longitude: 112.5510
+score: 6.2
 ---
 
 Shanxi has its own dumpling and stuffed-noodle tradition that is worth exploring alongside the cut and pulled noodle forms. Gaoliang mian (sorghum noodles) — made from the same grain as Fen Jiu baijiu — are darker and earthier than wheat noodles and are used in both soup and pan-fried preparations. Steamed stuffed buns (baozi) with braised pork and preserved vegetable fillings are standard street breakfast food throughout Taiyuan, available from early morning at the stalls that set up near residential neighbourhoods.

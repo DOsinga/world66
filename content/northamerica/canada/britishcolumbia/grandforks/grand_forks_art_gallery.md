@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - gallery
+score: 6.3
 ---
 
 A small public gallery next door to the Boundary Museum on 5th Street, showing local artists alongside touring exhibitions from across western Canada. The standard tends to be higher than a town of this size would suggest — the gallery has been running since the 1970s and has built a reputation for the print collection.

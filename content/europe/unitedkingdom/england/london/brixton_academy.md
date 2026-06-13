@@ -11,6 +11,7 @@ url: www.academymusicgroup.com/o2academybrixton
 admission: £10–40 depending on show
 latitude: 51.465702
 longitude: -0.114873
+score: 7.9
 ---
 
 The Brixton Academy is a mid-size live music venue (capacity around 5,000) housed in a 1929 theatre that still shows its origins in the ornate plasterwork visible above the crowd. The sloped floor gives reasonable sightlines even from the back of the standing area. It's one of the best rooms of its size in London for sound and atmosphere.

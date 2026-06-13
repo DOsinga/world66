@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.8
 ---
 
 Yuya Road, running parallel to the beach one block back, is the seafood strip — twenty-odd restaurants in a row, each one shouting at you to come in. Pick a place that looks busy with Chinese diners and check the tanks before you sit down. The going rate at the time of writing was about 80 yuan per jin for prawns and around 200 for spiny lobster; everything is sold by weight.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - sport
+score: 4.7
 ---
 
 Stadionul Dinamo is the principal football ground of Bender, a compact stadium with a capacity of a few thousand spectators tucked into the central streets of the city. It is the home of FC Dinamo Bender, a club that plays in the Moldovan league system — one of the rare points at which the everyday life of Transnistria-administered Bender intersects with the institutions of the Republic of Moldova on the other side of the river.

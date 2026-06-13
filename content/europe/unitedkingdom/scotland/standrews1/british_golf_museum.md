@@ -8,6 +8,7 @@ latitude: 56.3427
 longitude: -2.8029
 sources:
   - https://en.wikipedia.org/wiki/British_Golf_Museum
+score: 7.2
 ---
 
 The British Golf Museum occupies a modern building beside the Royal and Ancient Clubhouse, just back from the 18th green of the Old Course. Its permanent collection covers the history of golf from its Scottish origins through to the modern professional game, and it is genuinely well-done — not just a repository of old clubs and balls, but an attempt to put golf's development in social and cultural context.

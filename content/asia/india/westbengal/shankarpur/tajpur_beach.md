@@ -8,6 +8,7 @@ tags:
 latitude: 21.6447
 longitude: 87.6101
 snippet: Quieter beach 3 km east, with red crabs at low tide
+score: 6.9
 ---
 
 Tajpur is the next village east, about 3 km along the beach (or a 10-minute drive by road). The beach here is even quieter than Shankarpur, with almost no permanent settlement behind it and the casuarina belt running right down to the high-water mark. The big draw is the **lal kakra** — thousands of small red crabs that emerge at low tide and scuttle across the sand, leaving little pellets behind them.

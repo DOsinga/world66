@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1.9-kilometre highway tunnel under the Khigana ridge between Kohat and Darra"
+score: 3.6
 ---
 
 The Kohat Tunnel cuts almost two kilometres under the Khigana mountains, replacing what was previously a slow and dangerous climb up the pass. It opened in 2003 with Japanese funding and is the only modern road tunnel in this part of the country.

@@ -10,6 +10,7 @@ tags:
 - sight
 - church
 - architecture
+score: 6.6
 ---
 
 The Transfiguration Cathedral (Catedrala Schimbarea la Față) is the main Russian Orthodox church of Bender and the largest religious building in the city. The current structure is essentially a nineteenth-century cathedral in the Russian-Byzantine style typical of churches built across the south-western fringes of the empire after the Russian annexation of Bessarabia in 1812.

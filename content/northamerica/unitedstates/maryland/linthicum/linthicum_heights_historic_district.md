@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 The historic district takes in the original village that grew up around the Baltimore and Annapolis Railroad stop in the 1890s. About a hundred late-Victorian and early-20th-century houses survive — Queen Anne, American Foursquare, and Craftsman bungalows on tree-lined streets like Maple Road and Hammonds Ferry Road.

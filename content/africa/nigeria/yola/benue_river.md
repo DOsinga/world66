@@ -4,6 +4,7 @@ type: poi
 latitude: 9.27
 longitude: 12.45
 tags: [things_to_do, sight, nature]
+score: 8.0
 ---
 
 The wide, slow-moving river that defines Yola's northern edge — the Benue, the Niger's largest tributary, draining the Adamawa and Cameroon highlands into the central Nigerian plains. The riverbank at Jimeta is the most accessible stretch in town, with informal jetties, dugout canoes, and a string of small fish restaurants.

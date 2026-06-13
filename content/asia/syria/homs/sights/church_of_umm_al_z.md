@@ -7,6 +7,7 @@ tags:
 - sight
 title: Church of Umm Al Zunnar (the Virgin's Girdle)
 type: poi
+score: 8.0
 ---
 
 One of the oldest churches in Syria, Umm Al Zunnar (Our Lady of the Belt) sits in the old quarter of Homs. The church takes its name from a textile belt discovered beneath the altar in 1953, believed by the faithful to have belonged to the Virgin Mary. The relic is housed in a silver reliquary and remains an object of veneration.

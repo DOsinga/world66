@@ -14,6 +14,7 @@ story: >
   chemistry, including Ilya Mechnikov (Physiology, 1908) and Lev Landau
   (Physics, 1962). The university is why Kharkiv has more scientists per
   capita than almost any other city in the former Soviet Union.
+score: 6.9
 ---
 
 Karazin Kharkiv National University sits on the northern side of Freedom Square in a dignified Neoclassical complex that dates largely from the 19th century. The main building's red-and-white facade is one of the most photographed in the city, and the grounds — with their mixture of lecture halls, laboratories, and a university museum — convey the sense of a place that has taken scholarship seriously for over two centuries.

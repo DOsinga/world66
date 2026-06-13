@@ -7,6 +7,7 @@ tags:
 latitude: 34.6936
 longitude: 135.504
 story: "The Central Public Hall was funded largely by a donation of 1 million yen from Okawa Kisaburo, a rice broker who won his fortune in a single day's trading and immediately donated almost all of it to the city. Construction took five years from 1913 to 1918, and the building — a Neo-Renaissance design influenced by Berlin's Konzerthaus — still serves its original purpose as a public civic venue."
+score: 8.0
 ---
 
 An imposing Neo-Renaissance public building on the eastern end of Nakanoshima island, completed in 1918 and still in active use as a concert and event venue. The building's red brick exterior and copper dome are among the most photographed pieces of early 20th-century architecture in Osaka. The interior, with its large main hall and ornate smaller meeting rooms, is a well-preserved example of the Meiji-era civic ambition that wanted Osaka to look like a western European metropolis.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.9767
 longitude: 126.5531
+score: 7.8
 ---
 
 The Kaesong Folk Hotel is a complex of traditional Korean courtyard houses converted into tourist accommodation in 1989. There are around 50 rooms spread across nineteen restored hanok buildings, with paper-screen sliding doors, heated ondol floors, and shared courtyards.

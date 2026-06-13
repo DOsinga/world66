@@ -9,6 +9,7 @@ snippet: Surviving Route 66 main-street stretch
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 Weatherford sits on the historic alignment of US Route 66, and the section through the town centre retains a number of mid-20th-century motels, diners, and signs that are characteristic of the road's mid-century heyday. The main interstate (I-40) bypasses the town to the south, leaving the old route relatively quiet and walkable.

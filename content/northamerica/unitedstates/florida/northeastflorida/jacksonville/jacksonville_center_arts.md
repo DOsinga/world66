@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3250
 longitude: -81.6622
+score: 7.1
 ---
 
 The Jacksonville Center for the Performing Arts (formerly Times-Union Center) is the main performing arts complex on the Northbank Riverwalk, housing three venues: Moran Theater (the largest, with 2,936 seats), Jacoby Symphony Hall (home of the Jacksonville Symphony), and Terry Theater (a smaller black-box space for experimental work). The complex hosts Broadway touring productions, classical concerts, jazz, opera, and dance year-round.

@@ -6,6 +6,7 @@ longitude: 168.3170
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 A grassy open space in central Port Vila where the country was officially handed over from joint British–French rule in July 1980. The Parliament of Vanuatu sits at one end and the Sacred Heart Cathedral at the other.

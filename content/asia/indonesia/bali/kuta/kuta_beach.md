@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "In the early 1970s, Kuta was a fishing village with a single warung and a beach known only to a handful of surfers who slept in bamboo shacks for a dollar a night. Within a decade the coastal road was paved, the first hotels arrived, and the village had turned into Bali's busiest tourist town — for better and worse."
+score: 8.5
 ---
 
 The reason Kuta exists. A wide, flat stretch of pale sand running for around three kilometres from Tuban in the south to Legian in the north, with consistent beach-break waves that roll in from the Indian Ocean and a sunset view that lines up perfectly with the western horizon.

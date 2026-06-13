@@ -8,6 +8,7 @@ latitude: -34.6500
 longitude: 172.9500
 story: >
   The beach is gazetted as a public road under New Zealand law, which means road rules technically apply — though there are no speed signs, no painted lanes, and the surface changes with every tide. Police occasionally patrol it in a 4WD. Drive at dusk and you may share the road with a penguin.
+score: 7.9
 ---
 
 Driving Te Oneroa a Tohe is one of New Zealand's great road-trip experiences, and one of its more consequential ones. The beach is officially a road, which means you can legally drive it in a rental car — but your insurance almost certainly will not cover you if you get stuck or swept away.

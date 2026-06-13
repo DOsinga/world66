@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 51.5358
 longitude: 0.0784
+score: 5.6
 ---
 
 The current Barking Town Hall is a 1958 building in restrained civic neo-Georgian — symmetrical brick wings, a portico, and a slim copper-clad spire. Designed by Herbert Jackson and Reginald Edmonds, it took two decades to complete after the original architects' plans were repeatedly delayed by the Second World War.

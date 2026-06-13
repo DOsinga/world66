@@ -9,6 +9,7 @@ tags:
 latitude: 47.3255
 longitude: 12.7971
 neighbourhood: Old Town
+score: 5.4
 ---
 
 George's Bar in the Hotel St Georg on Schillerstrasse is a calmer alternative to the après-ski chaos elsewhere in town. The emphasis is on wine — Austrian producers are well represented, with good Grüner Veltliner and Blaufränkisch alongside international options. The cellar setting keeps it cool in summer.

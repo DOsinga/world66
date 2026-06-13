@@ -13,6 +13,7 @@ story: >
   extinct thousands of years ago painted alongside what appear to be much later
   domestic cattle, suggesting the site was used continuously as a kind of
   community record for millennia.
+score: 8.2
 ---
 
 The Adamgarh Hills, just south of Hoshangabad town, contain one of the most important prehistoric rock art sites in central India. Dozens of rock shelters in the sandstone outcrops hold paintings depicting animals — bison, deer, tigers, rhinoceroses — human figures, hunting scenes, and geometric patterns. The oldest images are thought to be around 10,000 years old, placing them among the earliest known art in the subcontinent.

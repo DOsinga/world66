@@ -6,6 +6,7 @@ latitude: -41.6121
 longitude: 175.2891
 story: >
   The Putangirua Pinnacles, on the river flat just back from Cape Palliser's coastline, were used as the approach to the Paths of the Dead in Peter Jackson's The Return of the King. The pinnacles — columns of eroded gravel and rock up to 50 meters tall — required almost no digital enhancement; the real landscape was already strange enough. The filming location is marked and a short walk leads through the columns, which creak and shift audibly as they erode.
+score: 8.4
 ---
 
 Cape Palliser is the southernmost point of New Zealand's North Island, an hour's drive south of Martinborough on a road that winds along a rugged coastline between the sea and steep hills. The cape is remote by North Island standards — the nearest town of any size is Featherston, some 45 km away — and that remoteness is what makes it worth the journey.

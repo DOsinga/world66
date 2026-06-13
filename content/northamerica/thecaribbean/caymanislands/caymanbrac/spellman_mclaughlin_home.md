@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 19.7453
 longitude: -79.7666
+score: 6.1
 ---
 
 The Spellman McLaughlin Home in Spot Bay is one of the few surviving examples of traditional Caymanian wooden architecture on Cayman Brac. Built around 1900 from imported pine and local hardwoods, it has a steep gable roof designed to shed hurricane rain, deep verandas on two sides, and storm shutters that still close fully against the weather.

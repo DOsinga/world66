@@ -9,6 +9,7 @@ latitude: 5.4439
 longitude: 10.0668
 story: >
   The museum was established in 1993 on the initiative of the local royal family and Dschang University, with the specific aim of documenting the material culture of the western Cameroonian kingdoms before it was lost. The royal courts of the Bamileke and Bamoun peoples produced some of the most sophisticated decorative arts in sub-Saharan Africa — elaborate masks, thrones, ancestor figures, and beadwork — much of which ended up in European ethnographic museums in the colonial era. What remains in Dschang is well worth seeing.
+score: 8.0
 ---
 
 The Museum of Civilisations in Dschang is one of the better ethnographic museums in Cameroon, focusing on the material culture of the western Cameroonian kingdoms — the Bamileke, Bamileke-related groups, and the Bamoun people whose historic capital is at Foumban. The collection covers royal regalia, ceremonial masks, ancestor figures, weaving, and the elaborate beadwork that was the signature art form of the region's aristocracy.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.7107
 longitude: 1.6652
+score: 6.5
 ---
 
 The hills and villages around Djougou offer day trips by motorbike or four-wheel drive into terrain that sees very few tourists. The landscape north of town becomes increasingly dramatic as you approach the Atacora massif — red laterite tracks through savanna, occasional rocky outcrops, and villages of traditional round houses with thatched roofs.

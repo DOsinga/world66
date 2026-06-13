@@ -9,6 +9,7 @@ story: >
   The Latchis was built in 1938 as a memorial to Demetrius P. Latchis, a Greek immigrant who built a chain of fourteen cinemas and hotels across New England. His son had the building decorated with murals of Greek mythology painted by the Hungarian artist Lajos Jámbor — an unusual decorative choice for a small Vermont town that has given the building a distinctly idiosyncratic character.
 sources:
   - https://en.wikipedia.org/wiki/Latchis_Hotel_and_Theatre
+score: 8.0
 ---
 
 The Latchis is Brattleboro's most distinctive building and one of the few Art Deco structures in Vermont. Built in 1938 by a Greek-American family that ran a cinema and hotel empire across New England, it contains a hotel, a multi-screen cinema, and a ballroom in a single building decorated with Greek mythology murals and terrazzo floors.

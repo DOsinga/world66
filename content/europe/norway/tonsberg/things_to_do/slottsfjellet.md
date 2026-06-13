@@ -9,6 +9,7 @@ latitude: 59.2713
 longitude: 10.4039
 sources:
   - https://en.wikipedia.org/wiki/T%C3%B8nsberg_Fortress
+score: 8.6
 ---
 
 The rocky hill that rises behind the town centre is Tønsberg's defining landmark. At the top stand the surviving foundations and walls of Tunsberghus — once one of Norway's most powerful medieval fortresses — and the 19th-century Slottsfjelltårnet tower, which you can climb for panoramic views over the town, the fjord, and the islands beyond.

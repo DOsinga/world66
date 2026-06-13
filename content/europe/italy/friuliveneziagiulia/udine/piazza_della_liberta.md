@@ -8,6 +8,7 @@ tags:
   - sight
   - square
 story: "Locals call this 'the most beautiful Venetian square on the mainland'. After Venice took Udine in 1420, the Republic rebuilt the square in its own image — the Loggia del Lionello (1448) is a clear nod to the Doge's Palace, and the clock tower with its two Moors striking the bell is a direct quotation of the one on Piazza San Marco."
+score: 9.1
 ---
 
 Piazza della Libertà is the heart of Udine and one of the most coherent Renaissance squares in northern Italy. It is flanked by the pink-and-white Gothic Loggia del Lionello (the old town hall, 1448), the Renaissance Portico of San Giovanni with its clock tower of two bronze Moors who strike the hour, and a flight of arcaded steps that climb up to the castle.

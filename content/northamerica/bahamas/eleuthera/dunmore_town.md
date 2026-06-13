@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.2
 ---
 
 Dunmore Town is the main settlement on Harbour Island, a 3-mile sliver just off the northern tip of Eleuthera. Once a shipbuilding centre and briefly the capital of the Bahamas in the 18th century, it is now a quietly photogenic village of pastel timber cottages, picket fences, and crushed-coral lanes shaded by ancient sea-grape trees.

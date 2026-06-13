@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Engineers began the road in the 1960s after the revolution: it was the first reliable land connection between Baracoa and the rest of Cuba in 470 years of Spanish and Cuban history. Before La Farola, the only way in or out by land was a mule track over the mountains."
+score: 8.6
 ---
 
 The 60-kilometre mountain road that finally connected Baracoa to the rest of Cuba in 1965 climbs from sea level near Cajobabo to a pass at over 600 metres and back down, with eleven viaducts (some now needing repair after Hurricane Matthew in 2016) and views that are among the best on the island. The road is one of the great drives in the Caribbean and is sometimes mentioned in the same breath as the Trollstigen in Norway.

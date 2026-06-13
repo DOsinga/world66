@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The lakefront promenade where the Yarinacocha boats depart.
+score: 6.7
 ---
 
 The malecón at Puerto Callao is the working frontage of Lago Yarinacocha — a paved walk between the lake and a strip of rustic restaurants, juice stalls and souvenir shops selling Shipibo work of varying authenticity. The water is lined with brightly painted wooden launches whose pilots tout for trips to the Shipibo villages and dolphin spots.

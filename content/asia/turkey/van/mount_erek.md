@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Mount Erek
 type: poi
+score: 6.3
 ---
 
 Mount Erek (Erek Dağı) is the snow-streaked mountain that dominates the eastern horizon from Van. It is an extinct volcano rising to 3,204 metres, and the eastern slopes are dotted with summer pastures used by Kurdish shepherds bringing their flocks up from the valleys in June.

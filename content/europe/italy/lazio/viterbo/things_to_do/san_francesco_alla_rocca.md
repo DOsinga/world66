@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/San_Francesco,_Viterbo
+score: 6.9
 ---
 
 The Basilica of San Francesco alla Rocca stands near the Rocca Albornoz at the northern end of the historic centre. The church was founded in 1237, shortly after the death of St Francis, making it one of the early Franciscan foundations in Italy. It was substantially rebuilt after World War II bombing and contains the tombs of two popes who died in Viterbo: Clement IV (died 1268) and Adrian V (died 1276).

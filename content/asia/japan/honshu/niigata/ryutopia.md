@@ -7,6 +7,7 @@ tags:
 latitude: 37.9134
 longitude: 139.0405
 snippet: Landmark performing arts centre and home of Niigata's celebrated Noh stage
+score: 7.4
 ---
 
 Ryutopia — the name means "dragon's utopia," a nod to the dragon, symbol of Niigata — is the city's main performing arts complex, opened in 1998 to designs by architect Takahiko Yanagisawa. It contains a 1,882-seat concert hall, a theatre, a playhouse, and, unusually, a dedicated **Noh theatre** — one of the finest modern Noh stages in Japan.

@@ -6,6 +6,7 @@ longitude: -117.0729
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Meritage at Callaway Vineyard is the most reliable wine country restaurant for a proper sit-down dinner. The dining room runs along a glass wall facing rows of vines, so book a sunset table.

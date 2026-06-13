@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cave
+score: 7.3
 ---
 
 Grotta Palazzese is the sea cave beneath one of Polignano’s most famous restaurants, a natural chamber open to the Adriatic. The restaurant is expensive and very much trading on its setting, but the cave itself is undeniably theatrical.

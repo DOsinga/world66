@@ -9,6 +9,7 @@ title: Borobudur Temple
 type: poi
 story: >
   The temple was lost to history for nearly a thousand years, buried under volcanic deposits and jungle growth following the decline of the Sailendra dynasty and the population shift to east Java in the 10th century. Thomas Stamford Raffles — the British colonial administrator who gave Singapore its modern form — organised the first systematic excavation in 1814. It took another century and a half of international scholarly effort, culminating in the 1970s UNESCO restoration, to return the temple to its current state.
+score: 10.0
 ---
 
 Borobudur is the single greatest monument in the Southern Hemisphere and the largest Buddhist structure ever built. The stepped pyramid rises through ten terraces — six square and three circular — and is aligned to the cardinal directions. On the lower terraces, 2,672 carved relief panels tell stories from the Jataka tales (the Buddha's previous lives), the Lalitavistara (the life of the historical Buddha), and the travels of the pilgrim Sudhana.

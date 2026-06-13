@@ -6,6 +6,7 @@ longitude: 6.1306
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A free glass-walled elevator dropping 71 metres from the Pescatore park on the old town rim to the Pfaffenthal valley below. The cabin opens onto a viewing platform that juts out from the cliff — alarming if you don't like heights, spectacular if you don't mind them.

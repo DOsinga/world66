@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9400
 longitude: -92.0500
+score: 7.8
 ---
 
 The upper White River north and east of Mountain View — fed by clear Ozark springs and reliably cold — is one of the best trout-fishing and float-trip rivers in the country. Local outfitters run guided fly-fishing trips for rainbow and brown trout from drift-boats, with the chance of large fish year-round, particularly in the spring and autumn shoulder seasons. Self-paddle canoes and kayaks are also available for hire by the day.

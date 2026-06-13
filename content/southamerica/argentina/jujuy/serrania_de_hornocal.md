@@ -11,6 +11,7 @@ tags:
 - nature
 title: Serranía de Hornocal
 type: poi
+score: 9.1
 ---
 
 About 25 kilometres east of Humahuaca, the Serranía de Hornocal is a jagged ridge of sedimentary rock striped in fourteen distinct colours — even more dramatic than the famed hill above Purmamarca, though much less developed for tourism. The road in climbs from 2,900 to 4,350 metres in less than an hour, so most visitors hire a 4x4 from Humahuaca and acclimatise first.

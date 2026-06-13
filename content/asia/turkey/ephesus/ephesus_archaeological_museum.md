@@ -10,6 +10,7 @@ story: >
   The museum's most famous objects are the two large marble statues of Artemis of Ephesus — the so-called "Beautiful Artemis" and "Great Artemis" — showing the goddess with rows of oval protuberances across her chest. Scholars still debate what these represent: eggs, breasts, the scrota of sacrificed bulls, or bee larvae. Whatever they are, they make the Artemis of Ephesus unlike any other ancient deity, and seeing her in person, towering over two metres high, is an arresting experience.
 sources:
   - https://en.wikipedia.org/wiki/Ephesus_Archaeological_Museum
+score: 8.9
 ---
 
 The Ephesus Archaeological Museum in Selçuk holds finds from one of the world's most important ongoing excavations. For anyone visiting the ancient city, this is an essential complement to the site itself: the terrace houses, the theatre, and the street columns become far more legible once you have seen the frescoes, statuary, and household objects that were found in them.

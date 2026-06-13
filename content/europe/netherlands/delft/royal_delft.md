@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   At its peak in the 17th century, Delft had 32 Delftware potteries producing blue-and-white ceramics that competed directly with Chinese porcelain — the Dutch East India Company had disrupted Asian supply routes, creating demand that local potters scrambled to meet. By 1800, all but one factory had closed. Royal Delft (De Porceleyne Fles) survived, and is now the only remaining original Delftware factory.
+score: 8.2
 ---
 
 The last surviving Delftware factory from the 17th century, Royal Delft offers factory tours where you can watch painters hand-painting the distinctive blue-and-white ceramics that made Delft famous. The process is entirely hand-done: each piece is thrown, painted freehand by trained artists, and fired in the factory's kilns. The museum section displays the history of Delftware and some extraordinary historical pieces, including tiles and monumental vases.

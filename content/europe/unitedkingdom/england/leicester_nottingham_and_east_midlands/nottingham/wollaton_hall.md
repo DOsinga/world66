@@ -11,6 +11,7 @@ tags:
   - museum
 snippet: An Elizabethan prodigy house in a 500-acre deer park three miles west of the city centre.
 story: "Wollaton Hall stood in for Wayne Manor in Christopher Nolan's *The Dark Knight Rises* — Batman's vintage cars were driven up the avenue in front of the hall for the location shots."
+score: 9.0
 ---
 
 Wollaton Hall, finished in 1588, is one of the great prodigy houses of the Elizabethan age — a four-square stone confection by the mason-architect Robert Smythson (also responsible for Hardwick Hall) topped with a central prospect tower and a riot of strapwork. The hall was built by Sir Francis Willoughby on the profits of his nearby coal mines and was meant from the start as a statement of conspicuous wealth.

@@ -8,6 +8,7 @@ tags:
   - restaurant
   - blloku
 neighbourhood: Blloku
+score: 5.6
 ---
 
 A small Italian restaurant in Blloku with a tiny open kitchen, an honest list of pastas (gnocchi, ravioli, fresh tagliatelle), and good antipasti. Owner-run; service is friendly and unhurried. Not cheap by Tirana standards but very good value compared to comparable food in Italy.

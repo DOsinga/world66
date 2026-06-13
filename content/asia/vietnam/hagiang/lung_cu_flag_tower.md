@@ -12,6 +12,7 @@ story: >
   away was designed to be seen from the Chinese side of the border — a clear
   territorial statement in an area where the two countries have had periodic
   disputes.
+score: 7.2
 ---
 
 Lung Cu Flag Tower stands at Vietnam's northernmost point, on a hill above the village of Lung Cu near the Chinese border. A 33-metre flagpole flies a large red flag at the summit, visible for miles across the plateau, and the climb to the tower — up several hundred steps cut into the hillside — gives a 360-degree view of the border landscape: Chinese territory on one side, Vietnamese karst plateau on the other, with remarkably little to mark the distinction except the flag itself.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 42.6979
 longitude: 2.898311
 snippet: "Flamboyant early-20th century mansion designed by the architect of Paris's Gare du Nord"
+score: 6.9
 ---
 
 The Hôtel Pams is a mansion built in 1904 for Jules Pams, a politician and perfume magnate from Perpignan who later served as a minister under the Third Republic. The building was designed in a theatrical Belle Époque style — ornate ironwork balconies, tiled facades in the Catalan manner, and an interior featuring painted murals, marble staircases, and elaborately decorated reception rooms. The architect was Jules Hermant, better known for the Gare du Nord in Paris, which puts the Hôtel Pams in an interesting position: a grand Parisian architect brought south to build a statement house for a local notable who had made good in the capital.

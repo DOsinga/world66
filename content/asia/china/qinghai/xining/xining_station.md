@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6200
 longitude: 101.7920
+score: 6.6
 ---
 
 Xining Railway Station is more than a transit node — it is the gateway to the Tibetan Plateau and the embarkation point for the Lhasa Express, one of the world's most celebrated rail journeys. The station has been rebuilt and expanded several times; the current structure is large, modern, and well-organised. The departure hall for Tibet trains is on the upper level, with a separate Tibet check-in process that requires permit verification.

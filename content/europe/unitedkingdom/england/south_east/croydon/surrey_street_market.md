@@ -12,6 +12,7 @@ story: Surrey Street Market has been trading since 1276, making it one of the ol
   street markets in Britain. The site survived the Blitz, the postwar rebuilding of
   Croydon, and the arrival of the Westfield-scale shopping centres — an unbroken 750-year
   thread in a borough that often gets told it has no history.
+score: 7.1
 ---
 
 Surrey Street Market runs through the week in a pedestrian lane south of the Croydon Clocktower, selling fresh produce, cheap clothing, household goods, and street food. It has the unpretentious energy of a market that exists for locals rather than tourists, and the street-food stalls at lunchtime draw office workers from across the town centre. Best on weekday mornings.

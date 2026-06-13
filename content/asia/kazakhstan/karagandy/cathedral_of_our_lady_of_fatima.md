@@ -8,6 +8,7 @@ tags:
 title: Cathedral of Our Lady of Fatima
 type: poi
 story: When the Soviet authorities deported the Volga Germans to Kazakhstan in 1941, they sent them to a place with no churches, no priests, and no infrastructure of any kind. Religious practice was officially forbidden. What the deportees did, quietly and at considerable risk, was build a church anyway — first a small house chapel, then something more permanent. The Cathedral of Our Lady of Fatima is the descendant of those clandestine gatherings. It stands today as a neo-Gothic Catholic church in the middle of the Central Asian steppe, and nothing about it is ordinary.
+score: 8.6
 ---
 
 The Cathedral of Our Lady of Fatima is the most unexpected building in Karagandy. A neo-Gothic Catholic church rising above the flat steppe city, it was built by and for the German and Polish deportees who were sent to the Gulag camps and special settlements around Karaganda in the 1930s and 1940s. They came from across Eastern Europe — devout Catholics stripped of everything, dumped in a place that had no place for them. They kept their faith anyway.

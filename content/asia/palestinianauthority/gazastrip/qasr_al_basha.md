@@ -14,6 +14,7 @@ tags:
   - museum
 title: Qasr al-Basha
 type: poi
+score: 8.0
 ---
 
 Qasr al-Basha — the Pasha's Palace, also known as Radwan Castle or Napoleon's Fort — was a Mamluk-era fortified residence in the Old City of Gaza, built in the thirteenth century by Sultan Baibars. The two-storey limestone building was a rare survival of pre-Ottoman domestic architecture in Gaza, with thick walls, vaulted ground-floor chambers, and a small interior courtyard.

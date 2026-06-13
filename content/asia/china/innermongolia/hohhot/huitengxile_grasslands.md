@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 41.5300
 longitude: 112.7000
+score: 8.0
 ---
 
 Huitengxile — "Graymare" in Mongolian, also called the High Grassland — sits at an altitude of about 2,000 metres on the plateau northeast of Hohhot, about 150 kilometres from the city. The combination of altitude and latitude means this is one of the largest remaining intact steppe grasslands in Inner Mongolia, less converted to agriculture than the lower-altitude areas closer to the city. The wind farm that has been installed across part of the plateau is visually striking against the grassland backdrop.

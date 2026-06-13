@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 6.0
 ---
 
 The small daily market in the centre of Dacarbudhuq is the kind of place where the town's rhythm is most visible: a few dozen stalls selling vegetables trucked up from the lowlands, sacks of rice, lengths of fabric, and the occasional flock of goats waiting under a tree. Camel milk (caano geel) is sold in plastic bottles from the back of pickups.

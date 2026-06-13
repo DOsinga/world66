@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 45.4931
 longitude: 12.2419
+score: 6.4
 ---
 
 A proper Venetian-style bar on the edge of Piazza Ferretto, serving excellent espresso and Aperol spritz under the arcades. Tramezzini — the classic Venetian white-bread sandwiches with generous fillings — are made fresh throughout the day and are among the best in Mestre. The bar is busy at opening time with commuters taking their morning coffee standing at the counter, and fills again at aperitivo hour.

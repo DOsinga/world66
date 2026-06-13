@@ -9,6 +9,7 @@ tags:
   - monument
 sources:
   - https://en.wikipedia.org/wiki/Column_of_Glory_(Poltava)
+score: 5.8
 ---
 
 The cast-iron column at the centre of the Poltava Round commemorates the Russian victory over Sweden at the 1709 Battle of Poltava. Erected in 1811, it stands 22 metres tall, crowned by a gilded eagle, and is surrounded by six cannons captured from the Swedish army. The circular garden it anchors — the Kruhla Square — is the hub of the city's famous radial street plan, and the column itself is visible from each of the eight streets that spoke outward from it.

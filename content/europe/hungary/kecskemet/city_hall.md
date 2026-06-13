@@ -14,6 +14,7 @@ story: >
   preserved hundreds of folk songs from the Great Plain. The carillon's
   37 bronze bells were installed in 1983 to mark the centenary of his
   birth.
+score: 8.9
 ---
 
 Kecskemét City Hall is the masterpiece of Ödön Lechner, the architect who in the 1890s set out to invent a distinctively Hungarian architectural style by blending Magyar folk motifs with Persian, Indian, and Art Nouveau elements. The result, completed in 1893, is one of the most colourful buildings in Hungary: white walls, pink and yellow Zsolnay ceramic tiles, a tulip-shaped tower, and an ornate gable above the main entrance.

@@ -8,6 +8,7 @@ tags:
 - nature
 title: Doigts de Singes (Monkey Fingers)
 type: poi
+score: 7.5
 ---
 
 About 25 km up the Dadès Gorge, between the village of Aït Arbi and the famous switchbacks, the canyon walls give way to a stretch of bizarre eroded rock pinnacles — slender, fingery columns standing in clusters, formed by millennia of wind and water working on softer rock between harder layers. French-speaking guides call them Doigts de Singes (Monkey Fingers); guidebooks sometimes call them the Brain Rocks.

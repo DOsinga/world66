@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 21.9742
 longitude: 96.0898
+score: 7.7
 ---
 
 Zegyo is Mandalay's main covered market, a sprawling multi-storey commercial maze at the heart of the city near the clock tower. It sells everything from dried fish and chillies to lacquerware, longyi fabric, gold jewellery, and Buddhist paraphernalia. The ground floor is practical shopping for locals; the upper floors are better for browsing crafts.

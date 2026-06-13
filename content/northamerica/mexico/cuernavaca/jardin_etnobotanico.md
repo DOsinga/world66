@@ -9,6 +9,7 @@ latitude: 18.9195
 longitude: -99.2358
 sources:
   - https://en.wikipedia.org/wiki/Ethnobotanical_Garden_of_Morelos
+score: 7.3
 ---
 
 The Ethnobotanical Garden of Morelos occupies a large walled compound adjacent to the Cuernavaca Cathedral, on land that formed part of the original Franciscan monastery founded in the 1520s. The garden displays over 1,500 plant species native to Morelos state, arranged according to traditional Nahua categories and uses: medicinal plants, ritual plants, food plants, and plants used for dyes and fibres.

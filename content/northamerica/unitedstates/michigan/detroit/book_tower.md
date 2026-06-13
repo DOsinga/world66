@@ -11,6 +11,7 @@ tags:
 neighbourhood: Downtown
 title: Book Tower
 type: poi
+score: 8.0
 ---
 
 The Book Tower is a 38-storey Beaux-Arts skyscraper completed in 1926 by the Book brothers, real-estate developers who wanted to turn Washington Boulevard into Detroit's Fifth Avenue. The building rises into a copper-clad pyramid and is decorated with caryatids, putti, and shields. It stood mostly empty for decades but reopened in 2023 after a multi-year restoration as a hotel, apartments, and offices.

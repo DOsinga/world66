@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kyoto Station
 type: poi
+score: 7.0
 ---
 
 Kyoto Station is the principal rail hub of the city and a Hiroshi Hara building of 1997 — a vast 470-metre-long, fifteen-storey assembly of glass, steel, and exposed structural beams that opens at its centre into a 60-metre-high atrium. The building was controversial when it opened, like Kyoto Tower thirty years earlier, but has acquired its own affection over time as a modernist counterpoint to the city's wooden architectural heritage.

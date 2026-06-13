@@ -4,6 +4,7 @@ type: poi
 latitude: -14.0700
 longitude: -75.7281
 tags: [things_to_do, sight]
+score: 5.8
 ---
 
 The Sanctuary of the Lord of Luren is Ica's most important pilgrimage church, dedicated to a wooden image of the crucified Christ that has been venerated here for centuries. The original sanctuary was destroyed in the 2007 earthquake; the current church is a modern rebuild.

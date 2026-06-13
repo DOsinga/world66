@@ -8,6 +8,7 @@ tags:
 - bar
 title: La Pacense
 type: poi
+score: 5.6
 ---
 
 A small craft-beer bar tucked into a side street near the cathedral, pouring local Extremaduran brews alongside guest taps from across Spain. The owners are knowledgeable, the bar food is a step above the freebies of the average taberna — proper boards of jamón Ibérico de bellota, Torta del Casar with a baguette — and the music is kept low enough to talk over.

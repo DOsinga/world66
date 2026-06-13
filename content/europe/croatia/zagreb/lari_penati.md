@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - donji_grad
+score: 6.5
 ---
 
 Lari & Penati works on the model of a daily-changing menu chalked up on a board, with three or four mains drawn from whatever the kitchen picked up at Dolac that morning. The cooking is unfussy Mediterranean — risotto with seasonal vegetables, grilled fish, slow-braised lamb — and the prices, for the quality, are surprisingly low. Lunch is the main event; dinner service is shorter and sometimes booked-out.

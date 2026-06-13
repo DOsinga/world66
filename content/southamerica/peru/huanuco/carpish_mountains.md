@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -9.8000
 longitude: -76.1000
+score: 8.1
 ---
 
 East of Huánuco, the road to Tingo María climbs through the Cordillera Carpish and into one of Peru's most biodiverse cloud forest zones. The Carpish mountains sit at the transition between the dry Andean highlands and the humid Amazon basin, creating the misty, moss-draped forest environment that birders and botanists travel across the world to see. The area is a hotspot for endemic bird species, orchids, and bromeliads, with many species found nowhere else on earth.

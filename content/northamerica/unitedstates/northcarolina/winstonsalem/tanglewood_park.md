@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.1
 ---
 
 Tanglewood is a 1,200-acre former Reynolds family estate west of town, deeded to Forsyth County in 1951 as a public park. It has a lake, two golf courses (one of them PGA-grade), an equestrian centre, an arboretum and a generous network of walking and cycling trails. There is even a small steeplechase track that runs an annual meet in May.

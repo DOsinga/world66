@@ -8,6 +8,7 @@ tags:
   - museum
   - art
 snippet: A good collection of French and Flemish paintings on Place du Général de Gaulle
+score: 6.9
 ---
 
 Dunkerque's fine arts museum occupies a 19th-century building on Place du Général de Gaulle in the town centre. The collection covers several centuries of European painting, with a particular strength in 16th and 17th-century Flemish and Dutch work — appropriate for a town that spent centuries under Habsburg rule and retains strong cultural ties to Belgium.

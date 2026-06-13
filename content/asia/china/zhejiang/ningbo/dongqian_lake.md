@@ -8,6 +8,7 @@ latitude: 29.8333
 longitude: 121.6833
 story: >
   Dongqian Lake was the site of a Song dynasty battle in 1129 when the general Han Shizhong pursued a retreating Jin army into the lake marshes. The general's wife, Liang Hongyu, reputedly beat war drums from the riverbank to encourage the troops — a story that made her one of the most celebrated military heroines in Chinese popular history, though the battle itself ended inconclusively.
+score: 7.3
 ---
 
 Dongqian Lake is Zhejiang's largest natural freshwater lake, stretching for about twenty kilometres southeast of Ningbo's city centre through a landscape of low wooded hills. The lake is ringed by a cycling path and served by an electric shuttle, and the combination of water, hills, and occasional fishing villages makes it an easy and pleasant half-day excursion from the city.

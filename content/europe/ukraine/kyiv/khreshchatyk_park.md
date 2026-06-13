@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.4504
 longitude: 30.5390
+score: 6.9
 ---
 
 A long, narrow park strung along the high right bank of the Dnieper, just east of Khreshchatyk. The 1980s Soviet People's Friendship Arch — a 50-metre titanium rainbow that was rebranded in 2018 as the Arch of Freedom of the Ukrainian People — is its main monument.

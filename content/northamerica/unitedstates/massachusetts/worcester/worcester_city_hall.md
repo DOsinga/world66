@@ -9,6 +9,7 @@ tags:
 title: Worcester City Hall
 type: poi
 snippet: 1898 Italian Renaissance Revival hall modelled on Florence's Palazzo Vecchio
+score: 7.2
 ---
 
 Worcester City Hall, completed in 1898, was modelled on Florence's Palazzo Vecchio and stands at the south side of the Common as a confident statement of late-19th-century civic pride. The clock tower, the pale granite, and the symmetry of the facade all evoke a Renaissance Italian town hall transplanted to a New England mill city.

@@ -6,6 +6,7 @@ longitude: 153.1385
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The squat white lighthouse on the headland at the southern end of Mooloolaba Beach was built in 1979 to guide ships into the Mooloolah River. It is a working light, automated and unattended, but the headland around it is a public reserve laced with walking paths.

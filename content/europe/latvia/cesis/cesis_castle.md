@@ -10,6 +10,7 @@ longitude: 25.27
 story: "In 1577, during Ivan the Terrible's siege of the castle, the Livonian defenders — knowing the walls were about to be breached — retreated to the powder magazine and blew it up rather than surrender. Around three hundred people died in the explosion. The act of self-destruction was recorded by contemporaries on both sides and is remembered in Latvian history as an act of desperate defiance against Russian expansion into the Baltic."
 sources:
   - https://en.wikipedia.org/wiki/C%C4%93sis_Castle
+score: 9.2
 ---
 
 Cesis Castle is one of the most substantial medieval ruins in the Baltics. The Livonian Order began construction in the early thirteenth century and added to the fortress over several centuries; at its height it was one of the most powerful castles in the region. The ruins are extensive, with towers, walls, and cellars still standing above ground.

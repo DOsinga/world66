@@ -7,6 +7,7 @@ tags:
   - r_street_corridor
 latitude: 38.5776
 longitude: -121.4838
+score: 7.1
 ---
 
 A specialty coffee roaster and café in the R Street Corridor, one of the first businesses to establish itself in the neighbourhood and still one of the best. Old Soul roasts its own beans at the Weatherstone location and serves them at multiple Sacramento cafés, but the R Street space has the best atmosphere — an industrial warehouse interior with exposed brick, high ceilings, and large windows that make the most of Sacramento's abundant sunlight.

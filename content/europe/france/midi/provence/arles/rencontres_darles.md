@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.678
 longitude: 4.626
+score: 8.3
 ---
 
 The Rencontres d'Arles is one of the world's leading photography festivals, held every July and running through September. Since 1970 it has transformed the city each summer, with exhibitions spread across the Roman monuments, deconsecrated churches, warehouses, and outdoor spaces throughout Arles.

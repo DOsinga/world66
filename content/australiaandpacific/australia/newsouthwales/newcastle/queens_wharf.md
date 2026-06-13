@@ -7,6 +7,7 @@ tags:
 latitude: -32.9254
 longitude: 151.7808
 snippet: Renovated harbour foreshore precinct with an observation tower and river views
+score: 7.0
 ---
 
 Queens Wharf is the centrepiece of Newcastle's harbour foreshore redevelopment — a multi-level venue with a pub, café, restaurant, ferry terminal, and an observation tower that gives the best elevated view of the harbour. The tower is free to climb and the panoramic view from the top takes in the river, the industrial port, the sand dunes at Stockton across the water, and the ocean beyond Nobbys.

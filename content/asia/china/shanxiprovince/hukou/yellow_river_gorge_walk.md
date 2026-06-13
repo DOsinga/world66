@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.1380
 longitude: 110.4450
+score: 6.8
 ---
 
 The path that follows the gorge rim north from the main viewing area passes through a stretch of loess plateau landscape that is worth the extra hour: eroded yellow cliffs drop to the river below, and the narrow strip of cultivated terracing on the opposite Shaanxi bank shows the agricultural adaptation that has shaped this valley for millennia. The path is mostly flat along the rim and takes about 45 minutes to walk before turning back, or can be extended further north toward the small village where overnight accommodation is available.

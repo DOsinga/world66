@@ -8,6 +8,7 @@ tags:
 latitude: 34.0135
 longitude: -118.5003
 snippet: "Three miles of wide sandy beach backed by the Pacific Coast Highway, the city's defining feature"
+score: 8.1
 ---
 
 Santa Monica State Beach runs three miles from the pier north toward Pacific Palisades, and another stretch south toward Venice. The beach is wide, sandy, and reliably busy in summer — volleyball nets, beach rentals, lifeguard towers, and the long, flat ribbon of the Marvin Braude Bike Trail (the Strand) running parallel to the water. On weekends in July and August it is genuinely crowded; weekday mornings in June or September are when the beach is most enjoyable.

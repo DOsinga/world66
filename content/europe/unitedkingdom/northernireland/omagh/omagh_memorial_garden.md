@@ -8,6 +8,7 @@ latitude: 54.600
 longitude: -7.299
 story: >
   The 15 August 1998 bombing killed 29 people — the single greatest loss of life in any incident during the Troubles — and came just months after the Good Friday Agreement. The bombers' stated aim was to derail the peace process. It did not work.
+score: 7.5
 ---
 
 The memorial garden on Market Street stands where the Real IRA bomb detonated on 15 August 1998, killing 29 people and injuring over 200 others. It was the deadliest single atrocity of the Troubles and, grimly, came after the signing of the Good Friday Agreement, intended by its perpetrators as an act of opposition to the peace process.

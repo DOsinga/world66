@@ -6,6 +6,7 @@ longitude: 118.778863
 tags:
 - eating_out
 - local_food
+score: 7.4
 ---
 
 Nanjing's most famous dish is salted duck (盐水鸭), a preparation distinct from Peking duck: the bird is cured in salt and spices, cooked slowly in brine, and served cold, sliced thin. The skin should be slightly firm, the flesh pink and tender, the flavour savoury and delicately spiced with anise and ginger. Nothing is crispy; this is not that kind of duck.

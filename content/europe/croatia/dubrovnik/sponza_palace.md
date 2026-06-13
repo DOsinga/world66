@@ -13,6 +13,7 @@ story: >
   on the wall of the weighing room reads: "Our weights are not allowed to deceive or to be deceived. When I
   weigh goods, God weighs me." A remarkable piece of civic ethics carved in stone for merchants to read while
   conducting business.
+score: 7.8
 ---
 
 The Sponza Palace is the finest Renaissance building in Dubrovnik and one of the very few structures to have survived the earthquake of 1667 relatively intact — which is why it looks different from the Baroque uniformity around it. The building dates from 1516–22 and combines Gothic arches on the ground floor with Renaissance windows above, the whole composition unusually graceful for a commercial building.

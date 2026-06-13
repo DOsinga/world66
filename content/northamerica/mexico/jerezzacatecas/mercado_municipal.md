@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 22.6479
 longitude: -102.9910
+score: 6.8
 ---
 
 The municipal market of Jerez is a working market rather than a tourist attraction, which is precisely what makes it worth visiting. Here you can find fresh produce from the surrounding countryside, local cheeses, dried chiles, and the ingredients of Zacatecan cooking — pozole, asado de boda, and enchiladas mineras — that you will find on restaurant tables around the plaza. The market is busiest on Saturday mornings when vendors from surrounding villages arrive.

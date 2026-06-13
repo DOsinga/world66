@@ -8,6 +8,7 @@ latitude: 65.6169
 longitude: 22.1350
 sources:
   - https://en.wikipedia.org/wiki/Teknikens_Hus
+score: 6.4
 ---
 
 Teknikens Hus — literally "The House of Technology" — is a hands-on science centre on the Luleå University of Technology campus in the Porsön district, about three kilometres north of the city centre. It was founded in 1988 and has grown into one of northern Sweden's most-visited attractions, drawing around 150,000 visitors a year.

@@ -9,6 +9,7 @@ latitude: 22.4872
 longitude: 113.9059
 story: >
   The plaza is anchored by the MS Minghua, a retired ocean liner originally built in France in 1962 and purchased by China in 1973. The ship was permanently moored at Shekou in 1983 and converted into a floating hotel and entertainment complex — one of the stranger repurposings of an oceangoing vessel anywhere in the world. It still sits in the centre of the plaza today.
+score: 6.1
 ---
 
 Sea World Plaza is the social hub of Shekou, the western part of Nanshan District that was among the earliest areas developed in Shenzhen's Special Economic Zone. The plaza has a long history as an expat gathering point and has evolved into a relaxed outdoor dining and drinking zone with a good mix of international and Chinese restaurants, bars, and cafes arranged around a central square.

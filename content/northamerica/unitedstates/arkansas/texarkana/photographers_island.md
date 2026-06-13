@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 33.4244
 longitude: -94.0428
+score: 6.0
 ---
 
 A small painted circle on the pavement of State Line Avenue, directly in front of the federal courthouse, marks the spot known locally as Photographers Island. Stand with one foot on either side of the line and you are simultaneously in Texas and Arkansas — the city's signature photograph.

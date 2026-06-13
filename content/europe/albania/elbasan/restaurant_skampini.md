@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.1125
 longitude: 20.0822
+score: 4.6
 ---
 
 Named for the Roman garrison town of Scampis that underlies modern Elbasan, Restaurant Skampini is one of the better options for a full Albanian meal near the old city. The menu covers the standards — qofte (grilled meatballs), tavë kosi (lamb baked with egg and yoghurt), and seasonal salads — with a degree of care that lifts it above the average.

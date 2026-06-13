@@ -6,6 +6,7 @@ longitude: 106.9772
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The smallest and most easily reached of the area's three accessible waterfalls — **Katieng** drops about 10 metres into a wide green pool surrounded by giant ferns and old-growth forest. There's a single bamboo footbridge across the top and a path down to the swimming pool below.

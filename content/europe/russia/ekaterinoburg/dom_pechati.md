@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.7
 ---
 
 Yekaterinburg, then Sverdlovsk, was a constructivist laboratory in the 1920s and 30s. The Press House (Dom Pechati), the Iset Hotel and the Chekist Town (Gorodok Chekistov), the House of Industry, and a string of workers' clubs and communal houses survive in the centre.

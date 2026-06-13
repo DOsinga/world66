@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 19.4739
 longitude: -70.6727
+score: 5.8
 ---
 
 Gurabo is the upscale residential and nightlife district in the northeast of Santiago, stretching along the ridges east of the centre. The area — specifically the Cerros de Gurabo and Bella Terra zones — is where most of the city's better restaurants and bars are concentrated, along with supermarkets and shopping centres that serve the middle-class neighbourhoods around them.

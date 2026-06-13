@@ -14,6 +14,7 @@ story: >
   in recorded observation.
 sources:
   - https://en.wikipedia.org/wiki/Piana_Crixia
+score: 8.5
 ---
 
 The Fungo di Piana Crixia — the mushroom of Piana Crixia — is one of Liguria's most striking natural features. A cap of harder sandstone perches on a tapering column of softer marl, the whole formation rising about ten metres above the surrounding ground. Protected since 1971 as a regional nature monument, it sits inside a small natural reserve on the edge of the village.

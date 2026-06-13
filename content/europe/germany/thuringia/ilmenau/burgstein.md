@@ -10,6 +10,7 @@ latitude: 50.6769
 longitude: 10.9542
 sources:
   - https://en.wikipedia.org/wiki/Burgstein_(Thuringia)
+score: 4.9
 ---
 
 Burgstein is a small rock formation in the Ilm valley near Langewiesen, east of Ilmenau. It is the kind of minor natural sight that makes sense when folded into a walk or bike ride through the surrounding villages.

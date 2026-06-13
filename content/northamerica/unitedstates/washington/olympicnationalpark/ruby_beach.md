@@ -7,6 +7,7 @@ tags:
   - beach
 title: Ruby Beach
 type: poi
+score: 8.7
 ---
 
 Ruby Beach is one of the most photogenic spots on the southern Olympic coast, with sea stacks, tide pools, and bleached driftwood scattered across dark sand. It is easy to reach, which makes it busy, but the setting earns the attention.

@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ste%C4%87ci
 story: >
   Stećci are found nowhere else in the world in significant numbers — they are entirely specific to Bosnia and Herzegovina and a narrow border zone. They predate Ottoman rule and were produced by a population whose religious identity remains debated by historians: possibly Bogomil (a Balkan Christian heresy), possibly mainstream Catholic or Orthodox, possibly a distinct Bosnian church that developed independently of Rome and Constantinople.
+score: 7.9
 ---
 
 Stećci (singular stećak) are medieval monumental tombstones found throughout Bosnia and Herzegovina, produced between the 12th and 16th centuries. They range from simple flat slabs to elaborate upright stones decorated with carved hunting scenes, dances, heraldic motifs, and geometric patterns. The National Museum in Sarajevo holds one of the finest collections, displayed in its courtyard lapidary.

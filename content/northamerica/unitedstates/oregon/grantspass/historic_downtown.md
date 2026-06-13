@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Historic Downtown
 type: poi
+score: 7.4
 ---
 
 Grants Pass kept its old downtown — a few square blocks of brick commercial buildings dating from the 1880s onwards — and it has become the city's most pleasant place to spend an afternoon. The independent bookshops, antique stores, and locally owned cafes are concentrated along G Street, 6th Street, and SW H Street.

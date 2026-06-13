@@ -6,6 +6,7 @@ tags:
   - beaches
 latitude: 35.9692
 longitude: 14.3819
+score: 6.8
 ---
 
 A small sandy beach tucked into the eastern side of the Selmun peninsula, Mgiebah is one of the quieter beaches in north Malta — there is no road access for buses and you have to walk the last fifteen minutes down a steep track, which keeps the crowds away.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - ruins
+score: 6.0
 ---
 
 Rabba is an unassuming village 10 km north of Karak on the King's Highway, but its main street runs straight past the ruins of a small Roman temple. Two tall columns and part of an entablature still stand, with inscriptions referring to the emperors Diocletian and Maximian. In Roman times the town was called Areopolis and served as a way-station between the Decapolis and the Red Sea.

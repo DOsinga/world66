@@ -10,6 +10,7 @@ snippet: "Crafts, food, and music every Saturday April–November, founded 1970"
 address: "Park Blocks, 8th & Oak"
 latitude: 44.0509
 longitude: -123.0912
+score: 8.2
 ---
 
 The Saturday Market has run every Saturday from early April through the Saturday before Christmas since 1970, making it the oldest weekly open-air crafts market in the United States. It fills the Park Blocks at 8th and Oak — and spills out from there — with about 200 vendors of locally made crafts, prepared food, and a constant rotation of live music on the central stage.

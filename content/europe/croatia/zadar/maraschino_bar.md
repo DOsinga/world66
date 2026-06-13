@@ -6,6 +6,7 @@ longitude: 15.2295
 tags:
   - bars_and_cafes
   - bar
+score: 5.3
 ---
 
 A favourite of the local university crowd on a quiet old-town side street, with a small interior and a terrace that fills up in the evenings. The mood is relaxed rather than touristy, and the drinks are cheaper than the bars nearer the forum.

@@ -7,6 +7,7 @@ tags:
 - market
 type: poi
 snippet: Genoa's finest food street, lined with focaccerias, cheese shops, and delis
+score: 7.7
 ---
 
 Via San Vincenzo, in the Brignole area, is the street for Ligurian food shopping. Over a few hundred metres you will pass through focaccerias (thin, oil-soaked focaccia and the cheese-filled focaccia di Recco), *salumerie* with hanging sausages and local cured meats, cheese shops with *prescinseua* and aged *pecorino*, pasta shops making *trofie* and *mandilli de sea* fresh daily, and *rosticcerie* frying *friscieu* (herb fritters).

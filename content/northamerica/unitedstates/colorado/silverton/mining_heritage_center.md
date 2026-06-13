@@ -7,6 +7,7 @@ tags:
 - museum
 title: San Juan County Mining Heritage Center
 type: poi
+score: 6.8
 ---
 
 San Juan County Mining Heritage Center fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

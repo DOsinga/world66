@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 1.2140
 longitude: -77.2785
+score: 7.6
 ---
 
 A branch of the Banco de la República's Museo del Oro network, dedicated to the gold and ceramic work of the pre-Columbian cultures of southern Colombia and northern Ecuador — the Capulí, Piartal, Tuza, and Quillacinga peoples. The collection is small but representative, with delicate disk-shaped nose ornaments and finely modelled funerary ceramics.

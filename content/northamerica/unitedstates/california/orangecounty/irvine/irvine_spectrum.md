@@ -5,6 +5,7 @@ latitude: 33.6495
 longitude: -117.7413
 snippet: "A large open-air entertainment complex that works best after dark, when the Ferris wheel and IMAX come into their own"
 tags: [things_to_do, sight]
+score: 5.8
 ---
 
 Irvine Spectrum Center is an outdoor shopping and entertainment complex that has grown, over the years, into a legitimate destination rather than just a retail strip. The anchor attractions are a giant Ferris wheel and a large-format IMAX cinema, and the complex is anchored by dozens of restaurants, shops, and entertainment options arranged around open plazas and walkways.

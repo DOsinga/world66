@@ -7,6 +7,7 @@ tags:
 - festival
 title: OK Mozart International Festival
 type: poi
+score: 7.2
 ---
 
 The OK Mozart International Festival takes place in Bartlesville each June, bringing world-class classical musicians and ensembles for a week of concerts, chamber music, and educational events. Founded in 1985, the festival has grown into one of the most respected classical music festivals in the region, drawing performers and audiences from across the country.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Heroes' Gate
 type: poi
+score: 7.2
 ---
 
 The Hősök kapuja — Heroes' Gate — is a stout limestone tower-gate at the foot of the Castle District, built in 1936 as a memorial to soldiers who died in the First World War. The gate frames the entrance to the hilltop street and now houses a small castle museum and an observation platform at the top.

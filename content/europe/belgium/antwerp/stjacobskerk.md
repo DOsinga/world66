@@ -10,6 +10,7 @@ title: Sint-Jacobskerk
 type: poi
 snippet: Late Gothic church where Rubens is buried — his last self-portrait hangs above his tomb
 story: "Rubens chose Sint-Jacobskerk for his burial because his second wife, Helena Fourment, was a parishioner. He paid for the chapel of his tomb himself and commissioned the altarpiece — a Holy Family in which he portrayed himself as Saint George and his two wives as Mary Magdalene and Saint Martha."
+score: 7.8
 ---
 
 The late-Gothic church on Lange Nieuwstraat is best known as the place where Pieter Paul Rubens is buried. His tomb is in a chapel behind the high altar; above it hangs the painting *Madonna and Saints* which Rubens completed in 1634 — his only self-portrait in a religious work, with the painter cast as Saint George.

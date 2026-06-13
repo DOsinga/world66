@@ -14,6 +14,7 @@ story: >
   The restoration was carried out by Peter Blix, who used the same church
   at Borgund as his model — which means that some features at Hopperstad
   are actually later additions, though they are honest reconstructions.
+score: 7.8
 ---
 
 Hopperstad Stave Church is one of the oldest stave churches in Norway, dating from approximately 1130 CE, in the village of Vikøyri on the southern shore of the Sognefjorden. It was rescued from dereliction in 1880 and carefully restored; the exterior is largely original but the interior shows 19th-century restoration work. The carved baldachin (canopy) above the altar space is original medieval woodcarving of high quality.

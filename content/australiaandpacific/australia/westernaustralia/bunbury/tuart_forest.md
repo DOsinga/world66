@@ -9,6 +9,7 @@ longitude: 115.5118
 story: "Tuart trees (Eucalyptus gomphocephala) grow only on coastal limestone, and only in a narrow band of southwestern Western Australia. This national park preserves the world's largest remaining pure tuart forest — everywhere else, the species has been cleared for agriculture or development. The tallest trees exceed 33 metres, with trunks wider than most people can reach around."
 sources:
   - https://en.wikipedia.org/wiki/Tuart_Forest_National_Park
+score: 7.6
 ---
 
 Tuart Forest National Park, about 30 km south of Bunbury near Ludlow, protects the largest remaining stand of tuart woodland on earth. Tuart trees are a species of eucalyptus found only on coastal limestone in southwestern Australia, and almost all of the original forest was cleared long ago. What remains here — 20 square kilometres of old, gnarled trees with massive trunks — gives some sense of what the coast looked like before European settlement.

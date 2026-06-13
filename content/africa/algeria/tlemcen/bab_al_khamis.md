@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.8741
 longitude: -1.3248
+score: 7.1
 ---
 
 The Bab al-Khamis — 'Thursday gate', so called because the weekly market was held outside it — is the best preserved of the old gates of Tlemcen, marking the south-west corner of the medieval walls. It is a rusticated horseshoe-arched gateway flanked by two short bastions, built into the surviving fragment of Almohad-era city wall.

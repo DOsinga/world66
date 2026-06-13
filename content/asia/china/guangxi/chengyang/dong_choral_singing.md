@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.9059
 longitude: 109.6430
+score: 7.8
 ---
 
 The Dong are one of the few peoples in China to have developed polyphonic choral singing entirely independently of outside musical traditions — a practice known as Dong Dage, or Grand Song, that UNESCO added to its Intangible Cultural Heritage list in 2009. The music involves multiple vocal lines that interweave without a conductor or written score, learned entirely by ear from childhood. The songs imitate natural sounds — crickets, wind, running water — and the effect is unlike anything else in Chinese folk music.

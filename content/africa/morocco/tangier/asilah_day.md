@@ -7,6 +7,7 @@ tags:
 - sight
 title: Asilah
 type: poi
+score: 8.5
 ---
 
 The small fortified Atlantic coast town of Asilah lies 45 km south of Tangier, an easy day trip by train or grand taxi. The medina sits inside complete Portuguese-built ramparts from the 1470s, freshly whitewashed every spring and decorated with the murals from the August International Cultural Festival — Moroccan and visiting international artists paint directly on the medina walls each summer, and the works gradually weather away through the year until the next round.

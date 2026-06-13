@@ -11,6 +11,7 @@ story: >
   Sapo is the only national park in Liberia and one of the most important protected areas in West Africa. The park survived the civil wars largely intact because the fighting mostly stayed closer to Monrovia. Pygmy hippos — among the rarest large mammals in the world — live in the forest rivers here, and researchers from international conservation organisations have been working in the park since the 1990s.
 sources:
   - https://en.wikipedia.org/wiki/Sapo_National_Park
+score: 8.8
 ---
 
 Sapo National Park protects over 1,800 square kilometres of West African lowland rainforest, and Greenville is the closest town of any size. The forest holds forest elephants, leopards, chimpanzees, pygmy hippos, and over 100 mammal species, as well as enormous biodiversity in birds and reptiles. It is one of the last large intact forest blocks in the Upper Guinea forest region.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, seafood]
 latitude: 33.7082
 longitude: -7.3865
+score: 6.8
 ---
 
 A handful of grill kitchens line the quay at the fishing port — Mohammedia at its most direct. The format is the same at each: pick your fish from the iced display at the front, agree the price by weight, then wait twenty minutes while it is grilled over charcoal and served on a paper-lined plastic tray with salad, fries, and a stack of bread.

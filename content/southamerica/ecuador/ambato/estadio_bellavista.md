@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -1.2448
 longitude: -78.6231
+score: 6.2
 ---
 
 Estadio Bellavista is home to Deportivo Ambato, the city's football club, and sits in a fine location above the city with views toward Tungurahua on clear days. The stadium holds around 18,000 spectators and comes alive on match days with the particular intensity that highland football generates in Ecuador.

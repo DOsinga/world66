@@ -8,6 +8,7 @@ tags:
 - sight
 - schanzenviertel
 neighbourhood: Schanzenviertel
+score: 6.9
 ---
 
 The Rote Flora is an autonomously occupied former theatre on the Schulterblatt in the Schanzenviertel, squatted continuously since 1989 and one of the most politically charged buildings in Germany. The 1888 building was scheduled for redevelopment into a musical-theatre venue in the late 1980s; protesters occupied it in November 1989 and have held it ever since, against repeated attempts at eviction.

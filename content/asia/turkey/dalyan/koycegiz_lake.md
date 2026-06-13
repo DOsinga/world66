@@ -8,6 +8,7 @@ tags:
 - sight
 title: Lake Köyceğiz
 type: poi
+score: 6.7
 ---
 
 Köyceğiz is a long, brackish lake about 8km north of Dalyan, fed by mountain streams from the Toros range and drained southward through the river channels that pass the town. The lake covers around 50 square kilometres and is part of the Köyceğiz-Dalyan Specially Protected Area, which also covers Iztuzu Beach.

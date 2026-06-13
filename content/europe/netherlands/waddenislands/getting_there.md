@@ -1,6 +1,7 @@
 ---
 title: Getting There
 type: poi
+score: 4.8
 ---
 
 Choose one of the three entirely different crossings to get to the Dutch Wadden Islands

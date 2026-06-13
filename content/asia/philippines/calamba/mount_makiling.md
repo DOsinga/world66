@@ -9,6 +9,7 @@ latitude: 14.1300
 longitude: 121.2000
 story: >
   The mountain is named after Maria Makiling, a *diwata* (forest spirit) of Filipino myth said to live on its slopes and watch over its forest. The mountain's distinctive profile — said to resemble a sleeping woman — is visible from the whole Laguna lakeshore, and you can see her hair, face, and chest if you know where to look.
+score: 8.2
 ---
 
 Mount Makiling rises directly south of Calamba, a thickly forested dormant volcano managed as a forest reserve by the University of the Philippines Los Baños. The most popular hiking route is from the UPLB campus side: a 6–7 hour round trip to one of the two summit peaks, through old-growth dipterocarp forest with leeches in the wet season and excellent birding throughout.

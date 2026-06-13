@@ -12,6 +12,7 @@ story: >
   current bridge is largely Moorish and medieval, with seventeenth-century repairs. It is
   called Roman partly from habit and partly because the Romans were the first to put a
   permanent crossing here — the site itself is ancient even if the stones are not.
+score: 6.8
 ---
 
 The old bridge crossing the Gilão River at the heart of Tavira is one of the town's most photographed spots. Seven arches of irregular stone span the river, connecting the old town to the newer neighborhoods on the opposite bank. Despite being called Roman, the current structure is medieval with later repairs, though the river crossing has been in use since antiquity.

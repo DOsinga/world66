@@ -8,6 +8,7 @@ latitude: 51.6603
 longitude: 39.2003
 story: >
   Peter came to Voronezh in 1696 because the city had abundant forests for timber and access to the Don River for launching ships. In just two years, he oversaw the construction of a fleet of around 30 warships here — the first significant naval force in Russian history. The fleet was used to capture the Ottoman fortress of Azov, Russia's first major military success at sea.
+score: 5.6
 ---
 
 The large bronze monument to Peter the Great stands at the head of Sovetskaya Square in the city centre and is the most visible symbol of Voronezh's identity as the birthplace of the Russian Navy. Peter is depicted standing, looking south toward the Don.

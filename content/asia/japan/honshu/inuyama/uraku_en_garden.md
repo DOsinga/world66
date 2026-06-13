@@ -8,6 +8,7 @@ latitude: 35.38799
 longitude: 136.94235
 story: >
   Jo-an was built in 1618 by Oda Uraku, the younger brother of the warlord Oda Nobunaga. Uraku had survived his brother's assassination and the bloody wars that followed by withdrawing from politics and devoting himself to the tea ceremony under Sen no Rikyu, the greatest tea master in Japanese history. Jo-an is thought to embody Rikyu's aesthetic philosophy — a masterpiece of disciplined simplicity built by a man who had seen everything and chosen this.
+score: 8.1
 ---
 
 Adjacent to Inuyama Castle, the Uraku-en garden was created around Jo-an, a teahouse built in 1618 and designated a National Treasure — one of only three such teahouses in Japan. The garden itself is a beautifully composed stroll garden with stone lanterns, moss, maples, and a small pond. It is quiet even when the rest of Inuyama is busy.

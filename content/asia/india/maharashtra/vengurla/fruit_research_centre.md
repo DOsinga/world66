@@ -12,6 +12,7 @@ story: The Sindhu mango — arguably the finest variety of mango for eating out 
   mangoes bred for shelf life and transport, the Sindhu was bred purely for flavour.
   The variety is essentially unknown outside the Konkan but is considered by many
   local growers to be the best mango in the world.
+score: 6.2
 ---
 
 The National Research Centre for Cashew (NRCC), popularly known as the Fruit Research Centre, sits on the main road into Vengurla and carries on experiments in mango and cashew cultivation. This institution developed the Sindhu mango variety — sweet, fibre-free, and intensely flavoured — and continues work on improving cashew yields and disease resistance.

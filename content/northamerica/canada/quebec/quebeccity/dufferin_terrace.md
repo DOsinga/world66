@@ -9,6 +9,7 @@ longitude: -71.2057
 snippet: Clifftop boardwalk with the best views in Québec City
 sources:
   - https://en.wikipedia.org/wiki/Dufferin_Terrace
+score: 8.8
 ---
 
 The long wooden boardwalk along the cliff edge in front of the Château Frontenac offers the best panorama in Québec City: the St. Lawrence River spread before you, the Lower Town and Place Royale immediately below, Île d'Orléans in the middle distance, and the Laurentian plateau beyond. The terrace was built in 1879 and extended several times since; it runs for 671 metres along the cliff edge.

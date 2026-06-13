@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: "Italianate plantation house used as a Confederate headquarters in 1862"
+score: 7.1
 ---
 
 A handsome two-storey Italianate mansion built in 1859 by Richard Decatur Lee, a wealthy planter and a distant cousin of Robert E. The house is the only mid-19th-century plantation home left standing on the lower Virginia Peninsula. In April-May 1862, the Confederate generals John B. Magruder and Joseph E. Johnston used it as their headquarters during the Peninsula Campaign — and you can still see where bored Confederate officers carved their initials into the upstairs windowpanes.

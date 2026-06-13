@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Surviving arched wall of the Seljuk sultans' palace on Alaeddin Hill"
+score: 5.8
 ---
 
 A single arched wall is all that remains above ground of the once-magnificent Seljuk palace of the Sultans of Rum, on the northwest edge of Alaeddin Hill. The palace was begun in the late twelfth century and reached its peak under Alâeddin Keykubad I in the early thirteenth, when foreign chroniclers describe it as a complex of tiled halls, gardens, and audience chambers ranking with the great courts of the medieval Islamic world.

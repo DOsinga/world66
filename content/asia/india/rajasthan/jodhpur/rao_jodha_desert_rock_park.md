@@ -7,6 +7,7 @@ tags:
 - sight
 title: Rao Jodha Desert Rock Park
 type: poi
+score: 8.2
 ---
 
 On the rocky hillside directly below Mehrangarh's western walls, this 72-hectare park has been slowly rewilded since 2006 under the Mehrangarh Museum Trust. The land was stripped bare by invasive vilayati babool (mesquite) over the 20th century; the restoration project has removed it and replanted the native Thar desert flora — khair, rohida, ber, and dozens of other species. The result is something genuinely unusual: a patch of wild desert ecology right beside one of India's most-visited tourist sites.

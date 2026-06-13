@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - live_music
+score: 5.9
 ---
 
 A long-running bar on Obala Palih Omladinaca with a slightly bohemian edge — concrete and timber inside, a small terrace looking onto the marina, and a regular programme of live jazz, blues and acoustic acts. It opens early as a café and runs late as a bar.

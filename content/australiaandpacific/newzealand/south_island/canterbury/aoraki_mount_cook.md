@@ -15,6 +15,7 @@ story: Aoraki lost three metres of height in a single night in December 1991, wh
   advancing it. It is now 3,724 metres — still New Zealand's highest peak by a significant
   margin — but the mountain is geologically young, still rising due to tectonic plate
   collision, even as erosion and events like this tear it back down.
+score: 9.7
 ---
 
 **Aoraki / Mount Cook National Park** contains New Zealand's highest peak (Aoraki/Mount Cook, 3,724m) and seven of the country's ten tallest mountains, along with the Tasman Glacier — the largest glacier in New Zealand at 27 kilometres long. The park covers 70,000 hectares of ice, rock, and beech forest in the heart of the Southern Alps and is a UNESCO World Heritage Site along with the adjacent West Coast parks.

@@ -8,6 +8,7 @@ tags:
 - glacier
 title: Hooker Valley Track
 type: poi
+score: 9.1
 ---
 
 **The Hooker Valley Track** is the most popular walk in Aoraki/Mount Cook National Park and one of the finest day walks in New Zealand. Starting from Mount Cook Village, the track follows the Hooker River for about 10 kilometres (5km each way) through a glacial valley with the south face of Aoraki/Mount Cook directly ahead for most of the route. Three swing bridges cross the river, and the track ends at Hooker Lake, a glacial lake with icebergs floating in it and the mountain rising behind.

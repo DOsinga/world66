@@ -13,6 +13,7 @@ tags:
 - historic
 title: Carthage Amphitheatre
 type: poi
+score: 7.6
 ---
 
 The amphitheatre of Carthage stands on the western edge of the ancient city, half-buried into a natural depression in the ground. It was one of the largest in Roman Africa and could hold around 30,000 spectators, though most of the upper structure was systematically dismantled in late antiquity for building stone — only the lower arcade, the arena floor, and parts of the underground service tunnels survive.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 33.1955
 longitude: -96.6285
+score: 5.9
 ---
 
 Towne Lake Park is a city-owned park near central McKinney built around a 22-acre lake. A paved hike-and-bike trail rings the water, shaded by mature pecan and oak. The trail is flat, just under a mile and a half, and popular with joggers and families with strollers.

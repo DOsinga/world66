@@ -7,6 +7,7 @@ tags:
 latitude: -32.9272
 longitude: 151.7832
 snippet: Newcastle's creative precinct, with galleries, bars, and heritage buildings along Hunter Street
+score: 8.0
 ---
 
 The East End is the stretch of Hunter Street and its surrounding lanes between the Civic precinct and the harbour foreshore — a once-neglected strip of heritage commercial buildings that has become the city's most interesting neighbourhood over the past decade. The buildings are a mix of Victorian sandstone, interwar brick, and brutalist concrete, and many have been converted into small bars, restaurants, galleries, and studios without losing their industrial character.

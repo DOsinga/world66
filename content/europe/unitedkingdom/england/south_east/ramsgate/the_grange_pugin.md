@@ -9,6 +9,7 @@ tags:
 latitude: 51.3320
 longitude: 1.4100
 story: "Augustus Pugin designed more than 100 buildings across Britain and Ireland, but he considered The Grange and St Augustine's his personal masterwork. He moved into the house in 1844, designed the adjacent church for his own family, and is buried in the chancel. He died in 1852 at the age of 40, arguably exhausted by the pace of his own productivity. He designed much of the interior decoration of the Palace of Westminster — the wallpapers, tiles, metalwork, and furniture — including the famous Pugin wallpaper that tourists photograph in the House of Lords today."
+score: 8.1
 ---
 
 The Grange was the home and studio of Augustus Welby Northmore Pugin, the Victorian architect whose elaborate Gothic Revival designs shaped the interiors of the Palace of Westminster and dozens of churches across Britain. Pugin built the house for himself in 1844, designing it as a demonstration of his theories about medieval Gothic architecture translated into domestic use. It is a compact, asymmetrical building on the cliff above the harbour, with pointed arches, a great hall, and a private chapel.

@@ -10,6 +10,7 @@ tags:
 - museum
 - art
 story: The mural that fills the entrance hall — Presencia de América Latina — was painted between 1964 and 1965 by Mexican artist Jorge González Camarena, working with a team of Chilean and Mexican painters. At 35 by 6 metres it covers an entire wall, an allegory of indigenous and mestizo Latin America composed around a single seated woman.
+score: 8.6
 ---
 
 The Casa del Arte, also called the Pinacoteca, is the art museum of the Universidad de Concepción and the single most important sight in the city. Its permanent collection covers two centuries of Chilean painting, from the early national period through to contemporary work, but most visitors come for the entrance hall and the mural that fills it.

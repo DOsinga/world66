@@ -15,6 +15,7 @@ tags:
 - sight
 title: Grand Bazaar of Tabriz
 type: poi
+score: 9.1
 ---
 
 One of the largest covered bazaars in the world and a UNESCO World Heritage Site, the Grand Bazaar has been the commercial engine of Tabriz for at least 600 years. The present structure dates largely from the 15th century, though the complex is certainly older — buildings like the Jami Mosque and Sadeqiyeh School suggest an origin well before that.

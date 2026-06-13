@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Tiered cascade in the east end on the Niagara Escarpment"
+score: 6.9
 ---
 
 Albion Falls is a 19-metre classical cascade tumbling over the Niagara Escarpment in east Hamilton, easy to find and reach but dramatic enough to feel like a real find. A short loop trail from King's Forest Park leads to an upper and lower viewing platform. Climbing down to the base is forbidden — the unstable shale has caused fatal accidents — but the upper viewpoint is the better photo anyway.

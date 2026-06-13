@@ -8,6 +8,7 @@ latitude: 46.7793
 longitude: -92.1003
 sources:
   - https://en.wikipedia.org/wiki/Great_Lakes_Aquarium
+score: 7.0
 ---
 
 The Great Lakes Aquarium, on the waterfront at Canal Park, is one of the few freshwater-only aquariums in North America and the only one dedicated to the Great Lakes ecosystem. The exhibits cover all five lakes and the rivers and wetlands that connect them, with live fish, otters, turtles, and a range of the less glamorous but ecologically important species that most aquariums ignore.

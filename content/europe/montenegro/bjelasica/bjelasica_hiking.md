@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8660
 longitude: 19.6981
+score: 8.4
 ---
 
 The Bjelasica massif has one of the better-marked trail networks in Montenegro — the "Top Biking and Hiking Trails of Central Montenegro" mapping project tagged a few hundred kilometres of routes through here in the late 2010s. Beyond Biogradska Gora's gentle loops, you can climb any of the six 2000+ metre peaks (Crna Glava, Zekova Glava, Strmenica, Šiška) on day hikes, or string several together on a 2-3 day traverse staying at katuns.

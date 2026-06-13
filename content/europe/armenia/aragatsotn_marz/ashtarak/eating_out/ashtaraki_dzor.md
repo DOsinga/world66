@@ -13,6 +13,7 @@ tags:
   - restaurant
 title: Ashtaraki Dzor
 type: poi
+score: 5.7
 ---
 
 A well-established restaurant complex at the bottom of the Kasagh River gorge, a short drive from the town centre. Ashtaraki Dzor is popular with locals from across the region and with Yerevan families who come out for Sunday lunch or evening entertainment. The setting in the gorge, with the rocky cliff faces on both sides and the river nearby, is genuinely attractive.

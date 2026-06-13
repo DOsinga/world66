@@ -10,6 +10,7 @@ latitude: -14.123244
 longitude: -76.26315
 sources:
   - https://en.wikipedia.org/wiki/Paracas_National_Reserve
+score: 8.8
 ---
 
 The Paracas National Reserve covers a vast desert peninsula along the Pacific coast south of Paracas town. The landscape is striking — rust-red cliffs, wind-sculpted sand formations, and empty beaches where the desert meets the sea. The reserve protects both coastal desert and marine habitats, and the combination of two extreme environments in one place is what makes it unusual: flamingos wade in the shallows, sea lions haul out on beaches made of rust-coloured sand, and condors sometimes soar over cliffs that drop straight to the Pacific.

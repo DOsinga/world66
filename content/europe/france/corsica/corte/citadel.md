@@ -12,6 +12,7 @@ story: >
   who made Corte the capital of an independent Corsica in 1755. When the French took
   over in 1769, they used the citadel as a prison. Today it houses the Museum of
   Corsica and an eagle's-eye view over the gorge below.
+score: 8.4
 ---
 
 The citadel of Corte occupies a dramatic spike of rock above the old town, its walls rising from a vertical cliff face above the meeting of the Tavignano and Restonica rivers. It is one of the most spectacular fortress sites in the Mediterranean, and the view from the upper terrace — down into the gorge and out across tier upon tier of mountains — is worth the climb on its own.

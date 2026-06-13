@@ -9,6 +9,7 @@ latitude: 38.2827
 longitude: 106.2364
 story: >
   The Najiahu Mosque is named for the Na family (Na being a common Hui Muslim surname), who built and maintained the mosque across generations. The Na surname is itself historically significant: it is one of the surnames given by the Ming dynasty emperor Hongwu to Muslim communities as a corruption of the Arabic name "Muhammad," reflecting the deep Sinicisation of Chinese Islamic culture while preserving its distinct identity.
+score: 8.1
 ---
 
 The Najiahu Mosque — also known as the Yongning Najiahu Mosque — is a traditional Chinese-style Islamic structure that predates the modern Nanguan Mosque and represents an older architectural tradition in Ningxia's Islamic heritage. Where the Nanguan Mosque embraces Arabian forms, the Najiahu Mosque uses the timber-framed pavilion style of Chinese architecture — tiled roofs, wooden columns, traditional courtyard layout — while serving an unmistakably Islamic religious function.

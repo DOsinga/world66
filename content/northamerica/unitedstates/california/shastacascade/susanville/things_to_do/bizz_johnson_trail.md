@@ -10,6 +10,7 @@ latitude: 40.4167
 longitude: -120.6500
 sources:
   - https://en.wikipedia.org/wiki/Bizz_Johnson_Trail
+score: 8.5
 ---
 
 The Bizz Johnson Trail follows 25 miles of former Southern Pacific railroad grade along the Susan River canyon, from Susanville west to Westwood. The railroad was abandoned in the 1950s, and the Bureau of Land Management converted it into a multi-use trail that is now one of the premier rail trails in the western United States.

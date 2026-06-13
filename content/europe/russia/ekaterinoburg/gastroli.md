@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - historic_centre
+score: 7.1
 ---
 
 A contemporary Russian-Ural restaurant that has become Yekaterinburg's most discussed kitchen of recent years. The menu uses local ingredients — wild mushrooms, river fish from the Iset, foraged herbs — in a modernist style that owes something to Scandinavian fine dining.

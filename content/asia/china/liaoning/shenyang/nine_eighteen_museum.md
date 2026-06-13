@@ -7,6 +7,7 @@ tags:
   - museum
 title: September 18th History Museum
 type: poi
+score: 8.1
 ---
 
 The September 18th History Museum commemorates the night of 18 September 1931, when Japanese Kwantung Army officers staged a false-flag explosion on the South Manchuria Railway and used it as a pretext to invade Manchuria. The incident, known in Japan as the Manchurian Incident and in China as the September 18th Incident, began fourteen years of occupation and is considered the opening act of World War II in Asia.

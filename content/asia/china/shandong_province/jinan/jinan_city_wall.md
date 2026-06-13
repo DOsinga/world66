@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6462
 longitude: 116.9978
+score: 6.7
 ---
 
 Most of Jinan's Ming Dynasty city wall was demolished in the 1950s and 1960s as the city modernised, but a substantial section survives in the south of the old city, incorporated into a small park along what was the southern wall alignment. The surviving wall is built from large fired bricks and reaches its original height in places, giving a sense of the scale and solidity of the Ming fortification.

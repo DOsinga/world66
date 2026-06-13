@@ -12,6 +12,7 @@ story: >
   online in the late 2000s. The images — mushroom-shaped snow drifts burying rooftops, pine trees 
   bowed double under their loads, warm light from the village windows — looked almost too perfect to be real. 
   They were real, and the village has been a major winter destination ever since.
+score: 8.1
 ---
 
 Snow Town (Xuexiang) is a small mountain village in the Zhangguangcai Range about 200 kilometres southwest of Mudanjiang, famous for the extraordinary depth and weight of its winter snowfall. From late October onwards, snow accumulates on rooftops to form enormous mushroom-shaped drifts — sometimes a metre or more deep — while the surrounding pine forest is bowed double under white loads. The combined effect is genuinely startling: the village looks like an illustration from a children's book about winter, but it is completely natural.

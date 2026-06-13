@@ -7,6 +7,7 @@ tags:
   - landmark
 latitude: 7.4882
 longitude: 80.3612
+score: 7.2
 ---
 
 Ibbagala, or Tortoise Rock, is one of the smaller but most characterful of the animal-shaped outcrops that surround Kurunegala. Its low, rounded profile does indeed resemble a tortoise hunkered down, and it sits close enough to the town centre to be easily reached on foot. The rock has been recognized as an archaeological site, with carved stairs, ancient doorjambs, and scattered ruins attesting to its use as a monastic retreat in the medieval period.

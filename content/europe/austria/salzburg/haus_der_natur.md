@@ -6,6 +6,7 @@ longitude: 13.0388
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 Salzburg's natural history museum is one of the best of its kind in the Alps — five floors covering dinosaurs, big aquaria, a reptile zoo, an Apollo space capsule, and an immersive science centre that pulls in school groups by the busload.

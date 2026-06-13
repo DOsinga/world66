@@ -7,6 +7,7 @@ tags:
 latitude: 44.8469
 longitude: -0.5742
 snippet: Contemporary art museum in a converted 19th-century colonial warehouse in the Chartrons quarter
+score: 8.0
 ---
 
 The CAPC occupies a remarkable building: the Entrepôt Lainé, a vast neoclassical warehouse built in the early 19th century to store goods arriving from France's colonial trade. The single vast nave — 73 metres long, 22 metres wide, skylit through iron and glass — is one of the most dramatic exhibition spaces in France. The building is worth seeing even if the exhibitions don't interest you.

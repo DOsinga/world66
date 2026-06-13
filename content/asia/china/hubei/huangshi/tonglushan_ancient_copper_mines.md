@@ -9,6 +9,7 @@ latitude: 30.0862
 longitude: 114.9658
 story: >
   When Chinese archaeologists began excavating Tonglushan in 1973, they found smelting furnaces still lined with slag from their last firing — ancient workers had simply walked away, leaving tools and pottery in place. The site yielded the most complete picture of Bronze Age copper production anywhere in East Asia.
+score: 8.5
 ---
 
 Tonglushan — "Bronze Green Mountain" — is among the most important ancient mining sites in China and one of the most important anywhere in the world. The copper mines here have been worked intermittently since at least the Western Zhou period (roughly 1000 BCE), and the archaeological excavations that began in the 1970s revealed a sequence of smelting operations spanning more than two thousand years. The site museum displays in-situ mine shafts, timbered galleries, and the remains of smelting furnaces that give a visceral sense of what Bronze Age industrial production looked like.

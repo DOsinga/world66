@@ -17,6 +17,7 @@ story: >
   against the bishop's.
 sources:
   - https://en.wikipedia.org/wiki/Yaroslav%27s_Court
+score: 8.6
 ---
 
 Yaroslav's Court sits on the east bank of the Volkhov River, directly across from the Kremlin, and was the former site of the princely palace and the great market of the Novgorod Republic. The palace itself is long gone, but the area is remarkable for its concentration of medieval churches — several 12th and 13th-century Orthodox churches still stand within a few hundred metres of each other, making this one of the densest collections of medieval architecture in Russia.

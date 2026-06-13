@@ -9,6 +9,7 @@ tags:
 - historic
 title: Basilica of Damous El Karita
 type: poi
+score: 6.8
 ---
 
 The Basilica of Damous El Karita stands in a quiet residential area north of the Carthage National Museum and was one of the largest early Christian basilicas in North Africa — a three-nave church flanked by smaller chapels, a baptistery, a circular crypt, and an open atrium with a semicircular peristyle. It was probably built in the fifth or early sixth century, when Carthage was still the religious capital of Latin Christian Africa.

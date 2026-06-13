@@ -8,6 +8,7 @@ tags:
 latitude: 38.3500
 longitude: -81.6336
 address: 209 Hale St, Charleston
+score: 5.5
 ---
 
 Charleston Brewing Company, in a tall narrow brick building off Capitol Street, brews on-site and is the easiest place in town to taste West Virginia craft beer. The rotating taps include the year-round IPA and pilsner plus seasonal sours and stouts; flights are an easy way to triangulate.

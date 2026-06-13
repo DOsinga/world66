@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.88804
 longitude: 5.98044
+score: 6.7
 ---
 
 The Schelmentoren is a medieval defensive tower in the centre of Heerlen, and one of the oldest surviving structures in the city. Built in the 14th or 15th century as a residential watchtower for a local noble family, it served as a dwelling and refuge during a period when the region between the counties of Gelre and the duchy of Jülich was frequently contested.

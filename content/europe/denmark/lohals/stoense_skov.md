@@ -7,6 +7,7 @@ snippet: Coastal beech and oak woodland south of Lohals, good for autumn raptor 
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 Stoense Skov is the patchwork of beech and oak woodland that covers the coast immediately south of Lohals. Marked footpaths wind through the woods to small clearings and back to the shore. The forest floor in spring is carpeted with wild anemones; in autumn the leaf colour is the standard northern European display.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0258
 longitude: -124.0736
+score: 9.2
 ---
 
 The Lost Coast is the most remote stretch of California's coastline — a 25-mile section where the King Range mountains drop so steeply into the Pacific that building a coastal highway was impossible. The road engineers gave up and routed US-101 inland, leaving this corridor of black sand beaches, sea stacks, and wild hillsides essentially unchanged.

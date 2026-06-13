@@ -8,6 +8,7 @@ tags:
 - sight
 - historic_site
 - temple
+score: 7.8
 ---
 
 The Olakkannesvara Temple sits on the highest point of the Mahabalipuram headland and served as a lighthouse for mariners on the Coromandel Coast from the 8th century until the British built a new lighthouse a short distance away in 1900. The view from the top of the hill takes in the entire monument complex, the beach, and — on clear days — far down the coast in both directions.

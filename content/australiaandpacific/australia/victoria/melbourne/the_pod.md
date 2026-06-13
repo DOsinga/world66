@@ -10,6 +10,7 @@ tags:
   - bar
 title: The Pod
 type: poi
+score: 6.3
 ---
 
 The Pod is a small bar on Little Bourke Street at the western end of the CBD, away from the more tourist-heavy laneway precinct. The space is compact and comfortable, making it better for conversation than the larger bars along King Street. It draws a mix of local workers and residents from the nearby Docklands and West Melbourne fringe.

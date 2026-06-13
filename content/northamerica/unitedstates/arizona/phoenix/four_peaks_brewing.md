@@ -9,6 +9,7 @@ tags:
 title: Four Peaks Brewing Company
 type: poi
 url: fourpeaks.com
+score: 7.1
 ---
 
 Four Peaks is the largest of Arizona's craft breweries and runs out of a beautiful red-brick building in Tempe that was originally built in 1892 as an ice-making and creamery plant — handy bones for a brewery. The original tasting room and pub still operates here, and it is the better visit even though the company has since opened branches in Scottsdale and Phoenix's airport.

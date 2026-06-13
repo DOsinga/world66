@@ -15,6 +15,7 @@ tags:
 - museum
 title: Museo Nazionale del Paleolitico
 type: poi
+score: 8.0
 ---
 
 The National Palaeolithic Museum displays findings from the La Pineta archaeological site just outside town, where excavations since 1979 have uncovered one of the earliest known human settlements in Europe, dated to approximately 700,000 years ago. Exhibits include stone tools, animal bones (including rhinoceros, bear, and hippopotamus), and the reconstructed evidence of camp activities. The site dates to a warmer interglacial period when the Italian peninsula had a very different fauna.

@@ -7,6 +7,7 @@ tags:
   - waterfront
 latitude: 54.3310
 longitude: 10.1500
+score: 7.0
 ---
 
 The Kiellinie is Kiel's waterfront promenade, running for about two kilometres along the western shore of the Kieler Förde from the inner harbour northward. It is the city's main outdoor social space — a broad path lined with chestnut trees, with benches and lawns dropping to the water's edge.

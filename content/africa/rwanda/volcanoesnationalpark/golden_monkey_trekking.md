@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Golden_monkey
 story: >
   The golden monkey is endemic to the Albertine Rift — found nowhere else on earth. Despite being on the endangered species list, relatively little attention has been paid to them compared to the mountain gorilla, largely because they are smaller, faster, and much harder to study. The Volcanoes National Park population is the most habituated in the world; before the trekking programme was established, almost nothing was known about their social behaviour.
+score: 7.8
 ---
 
 Golden monkey trekking is the more affordable alternative to gorilla trekking in Volcanoes National Park, and while it lacks the drama of the gorillas, it has its own particular charm. Golden monkeys — a subspecies of the blue monkey with a vivid orange-gold patch on the back — are endemic to the Virunga highlands and the Bwindi Impenetrable Forest in Uganda. They live in the bamboo zone lower on the volcano slopes, travelling in noisy groups of 30–60 individuals.

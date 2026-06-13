@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Manhattan_Beach_Pier
 story: >
   The octagonal building at the end of the pier is not a gift shop but a working marine science lab. The Roundhouse Marine Studies Lab was built in 1960 and has been used for ocean research and public education ever since. On weekends, crowds come for the sunset; on weekday mornings, it belongs mostly to fishermen and seabirds.
+score: 8.2
 ---
 
 The Manhattan Beach Pier stretches 922 feet into the Pacific and serves as the town's visual centerpiece and social anchor. It sits over some of the best surf breaks in the South Bay — surf culture runs deep here, and you can watch skilled riders work the beach break from the pier's vantage point.

@@ -6,6 +6,7 @@ latitude: 35.0828
 longitude: -107.598
 story: >
   Route 66 through New Mexico was known as the "Main Street of America" before the interstate made it irrelevant almost overnight. The National Old Trails Highway that preceded Route 66 ran through here from 1912, meaning the road through San Fidel has been carrying transcontinental traffic for over a century. The garages and motels that lined it were the essential infrastructure of American road travel before the age of standardised chain services.
+score: 6.4
 ---
 
 The White Arrow Garage is a surviving piece of Route 66 commercial architecture in the small hamlet of San Fidel, Cibola County. It dates from the mid-20th century and represents the kind of independent filling station and repair shop that once appeared every few miles along the old road, serving travellers whose cars were less reliable and whose journeys were slower.

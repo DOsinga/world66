@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.2068
 longitude: 14.4533
+score: 7.8
 ---
 
 The Lofoten Museum at Storvågan covers the history of fishing and settlement in the archipelago from the Stone Age to the 20th century. The outdoor section includes several original rorbu (fishermen's cabins) and boathouses that give a tangible sense of what the Lofoten winter fisheries actually looked like when tens of thousands of men arrived from across northern Norway to fish for cod each January.

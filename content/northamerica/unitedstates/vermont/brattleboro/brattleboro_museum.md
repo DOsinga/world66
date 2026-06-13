@@ -9,6 +9,7 @@ story: >
   The museum occupies Brattleboro's former Union Station, a quartzite-rubble building built in 1915 from stone mined just across the Connecticut River in New Hampshire. The station's waiting room still exists on the lower level, below the contemporary gallery spaces above.
 sources:
   - https://en.wikipedia.org/wiki/Brattleboro_Museum_and_Art_Center
+score: 7.8
 ---
 
 The Brattleboro Museum and Art Center occupies the town's former Union Station, a handsome quartzite building from 1915, and operates as a non-collecting institution — it mounts rotating exhibitions by regional and international contemporary artists rather than maintaining a permanent collection. Previous shows have included work by Chuck Close and Andy Warhol, alongside emerging local artists.

@@ -6,6 +6,7 @@ tags:
   - sight
 title: Fushan Tunnels
 type: poi
+score: 7.6
 ---
 
 A network of military tunnels excavated during and after World War II, running beneath the hills north of the old German quarter. The tunnels were expanded during the Cold War and form an unexpectedly extensive underground complex. Parts of the system are open to visitors as a heritage site.

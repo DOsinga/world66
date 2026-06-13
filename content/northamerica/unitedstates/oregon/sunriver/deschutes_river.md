@@ -9,6 +9,7 @@ latitude: 43.872778
 longitude: -121.465278
 sources:
   - https://en.wikipedia.org/wiki/Spring_River_(Deschutes_River_tributary)
+score: 7.5
 ---
 
 The Deschutes River forms the western boundary of Sunriver, and the float from Sunriver Marina down to Benham Falls — or the gentler stretch from the marina to Meadow Picnic Area — is the most popular summer activity in the area. The water emerges from springs and lava tubes upstream, staying cold and clear even in August. Tubes and kayaks are available at the marina; the lazy float takes one to two hours depending on the put-in point.

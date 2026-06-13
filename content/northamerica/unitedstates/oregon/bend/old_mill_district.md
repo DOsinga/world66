@@ -9,6 +9,7 @@ longitude: -121.3183
 snippet: "Riverside shopping and dining in converted lumber mill buildings"
 sources:
   - https://en.wikipedia.org/wiki/Old_Mill_District
+score: 5.9
 ---
 
 The Old Mill District is a riverfront shopping and restaurant complex built on the site of what was once the largest ponderosa pine sawmill complex in the world. Bend's economy ran on timber for most of the 20th century; when the mills closed in the 1990s, the industrial land along the Deschutes was redeveloped into what is now a pleasant mixed-use district with national retailers, local restaurants, and a movie theater.

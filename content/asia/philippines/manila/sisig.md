@@ -7,6 +7,7 @@ tags:
 latitude: 14.5665
 longitude: 121.0006
 snippet: Sizzling chopped pork served on a cast-iron plate — the quintessential Manila bar food
+score: 6.8
 ---
 
 Sisig is what Manila eats late at night with cold beer. The original version from Pampanga uses chopped pig's face and ears, seasoned with calamansi (Philippine lime), chillies, and onions, served sizzling on a cast-iron plate. Manila versions often include chicken liver, egg, or other additions; the sizzle as the plate arrives is part of the experience.

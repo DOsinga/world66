@@ -8,6 +8,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Iba,_Zambales
+score: 7.1
 ---
 
 The barangay of Bangantalinga, just north of the Iba town centre, is where most of the beach resorts are concentrated. The grey-sand shoreline here is wide, clean, and largely undeveloped — no high-rise hotels, no crowds, and no vendors hassling swimmers. The South China Sea is calm for most of the dry season and the water runs clear enough to see the bottom at chest depth.

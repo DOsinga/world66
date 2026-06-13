@@ -7,6 +7,7 @@ tags:
 - sight
 title: Selong Belanak Beach
 type: poi
+score: 7.3
 ---
 
 Selong Belanak is a long, gently curving beach on Lombok's south coast, about 15 km west of Kuta. The bay is wide and the waves — while consistent — are gentler than the harder breaks further east, making this one of the best beaches on the island for beginner surfers and for families. The water is clear, the sand is white, and fishing outriggers are usually drawn up on the beach giving the scene a properly Indonesian feel.

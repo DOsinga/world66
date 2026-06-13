@@ -8,6 +8,7 @@ tags:
 latitude: 40.9516
 longitude: 17.2978
 snippet: Working fishing harbour at the foot of the old town
+score: 8.1
 ---
 
 The old fishing harbour sits in a shallow curve below the castle walls, packed with the brightly painted wooden boats — the gozzi — that the local fleet still uses for day trips after octopus and sea urchin. The dawn auction is gone, but the men who fish bring their catch directly to the restaurants on the quay through the morning, and most days you can buy a kilo of just-landed prawns from a boat for less than the supermarket asks.

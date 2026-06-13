@@ -9,6 +9,7 @@ tags:
   - wildlife
 story: >
   The resplendent quetzal is the same bird the Aztecs and Maya considered sacred — its long iridescent tail feathers were reserved for nobility, and killing one was a capital crime. The males here grow their breeding tails from January and the colours peak in April and May, the trail's best season for spotting one.
+score: 9.2
 ---
 
 The Sendero Los Quetzales is a 9 km cloud-forest trail crossing the saddle between Volcán Barú and Cerro Punta, connecting Bajo Mono near Boquete with the village of Guadalupe above Cerro Punta. It is one of the best day hikes in Central America and consistently one of the easier places to see the resplendent quetzal.

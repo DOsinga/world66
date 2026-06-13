@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A massive granite outcrop above Iringa, said to have been a meditation place for Chief Mkwawa.
 story: "Chief Mkwawa of the Hehe reportedly sat on this rock to plan his war against the Germans in the 1890s. The name 'Gangilonga' means 'the rock that speaks' in Hehe — Mkwawa said he could hear it talking to him. He held out longer than almost any other African leader of the period before shooting himself to avoid capture in 1898."
+score: 6.8
 ---
 
 A short, steep walk above the town centre — about an hour up from the bus stand — Gangilonga is the granite boulder that locals point out from kilometres away. From the top the whole escarpment, the town below, and the rolling Southern Highlands open out. It is one of the easier walks of its kind in Tanzania and worth doing in late afternoon for the light.

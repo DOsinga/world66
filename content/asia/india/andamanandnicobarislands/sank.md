@@ -5,6 +5,7 @@ tags:
 - top_5_must_dos
 title: sank
 type: poi
+score: 8.0
 ---
 
 Radhanagar Beach

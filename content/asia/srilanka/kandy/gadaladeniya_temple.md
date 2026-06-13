@@ -12,6 +12,7 @@ story: >
   unusual hybrid reflecting the mixed political alliances of fourteenth-century Sri Lanka.
   The inscription carved on the rock face at the entrance records Ganananda's name, making
   it one of the few medieval buildings in Sri Lanka where the architect is known.
+score: 7.8
 ---
 
 About 15 km west of Kandy near Peradeniya, Gadaladeniya is one of three fourteenth-century rock temples that can be visited on a single half-day trip (the others are Lankatilaka and Embekke Devale). The temple sits on a natural rock outcrop and combines a South Indian Dravidian-style entrance shrine with a Sinhalese moonstone and guardstone ensemble. The main shrine contains a large seated Buddha flanked by bodhisattva figures.

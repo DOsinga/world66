@@ -12,6 +12,7 @@ story: >
   through the ruins in 2016 to ensure nothing remained standing. The site is
   now ruins, but the Iraqi government has declared it a protected heritage area
   and plans for some form of commemoration or reconstruction are under discussion.
+score: 7.7
 ---
 
 Dair Mar Elia — the Monastery of Saint Elijah — stood south of Mosul for over fourteen hundred years, one of the oldest continuously occupied monasteries in the world and a defining monument of Iraq's Assyrian Christian heritage. The monastery was founded around 595 AD by the monk Elijah (Mar Elia in Aramaic) and remained a functioning religious community through Arab, Mongol, and Ottoman rule, surviving into the 21st century before being destroyed by ISIS.

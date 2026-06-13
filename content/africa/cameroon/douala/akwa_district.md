@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 4.0500
 longitude: 9.7000
+score: 7.2
 ---
 
 Akwa is the commercial and social heart of Douala — the district where the main hotels, restaurants, and bars are concentrated, where the colonial-era street grid is still legible, and where expatriates and business travellers spend most of their time. Boulevard de la Liberté is the main spine, lined with shops, money changers, and the terraces of the larger hotels.

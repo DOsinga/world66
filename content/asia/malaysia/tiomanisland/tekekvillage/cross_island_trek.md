@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 2.8187
 longitude: 104.1586
+score: 8.4
 ---
 
 The cross-island trek from Tekek to Kampung Juara on the east coast is the best inland walk on Tioman, crossing the spine of the island through primary rainforest on a trail that has been used by islanders for generations. The route takes about two hours each way, climbing steadily through dense jungle before dropping to the quieter, rougher east coast village of Juara.

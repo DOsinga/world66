@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Helical Stepwell
 type: poi
+score: 7.3
 ---
 
 The Helical Stepwell is one of Champaner's clever small monuments, with steps spiralling down around the shaft rather than descending in a straight ceremonial run. It is practical engineering made sculptural.

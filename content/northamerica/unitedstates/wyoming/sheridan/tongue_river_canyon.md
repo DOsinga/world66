@@ -12,6 +12,7 @@ story: >
   walls, ancient keyholes, and overhangs were formed when the river was far more powerful than
   it is today — a reminder of how different the Pleistocene climate was from Wyoming's current
   semi-arid conditions.
+score: 7.3
 ---
 
 Tongue River Canyon, about 23 miles east of Sheridan via US-14 and Tongue Canyon Road, is one of the most accessible and rewarding short hikes in the Bighorn foothills. The trail winds for around 11 miles along the river through walls of sheer limestone rising hundreds of feet above the water, past arches, alcoves, and stands of aspen and cottonwood.

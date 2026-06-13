@@ -8,6 +8,7 @@ latitude: 39.8264
 longitude: 119.4712
 sources:
   - https://www.travelchinaguide.com/attraction/hebei/qinhuangdao/lianfeng-mountain-park.htm
+score: 7.1
 ---
 
 Lianfeng Mountain Park lies on the western edge of Beidaihe, covering a pine-clad ridge of three low summits overlooking the sea. The name means "linked peaks." A path winds up through the trees to a pavilion at the top — a modest climb of maybe 20 minutes — which rewards you with a panorama over the Bohai coast, the town below, and the offshore islands on clear days.

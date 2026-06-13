@@ -8,6 +8,7 @@ tags:
 - downtown
 latitude: 38.6306
 longitude: -90.2003
+score: 6.5
 ---
 
 Soldiers Memorial Military Museum is a Greek-temple-style monument on Memorial Plaza, between Pine and Chestnut. It was dedicated in 1938 by Franklin Roosevelt, originally as a tribute to St Louis service members who died in the First World War, then expanded after subsequent conflicts.

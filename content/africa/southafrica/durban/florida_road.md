@@ -9,6 +9,7 @@ tags:
 neighbourhood: Morningside
 latitude: -29.8253
 longitude: 31.0124
+score: 7.4
 ---
 
 Florida Road is the heart of Morningside, a kilometre-long avenue of Victorian and Edwardian houses converted into restaurants, bars and small shops. It is the centre of eating out and going out in Durban — sushi, Mediterranean, Italian, South African steakhouse, gourmet burgers and a string of cocktail bars, all within a 15-minute walk.

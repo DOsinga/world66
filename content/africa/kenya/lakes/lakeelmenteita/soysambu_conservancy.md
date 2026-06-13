@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.6
 ---
 
 Soysambu Conservancy wraps around much of Lake Elmenteita on a working cattle and sheep ranch that has been in the Cole family — descendants of the Earl of Enniskillen — since the colonial era. The conservancy covers roughly 48,000 acres of acacia bush, grasslands, and lake shore.

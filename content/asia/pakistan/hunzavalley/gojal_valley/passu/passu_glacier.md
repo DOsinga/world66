@@ -15,6 +15,7 @@ story: >
   of movement in the pressure ridges and the freshly crushed rock at the snout.
 sources:
   - https://www.tripadvisor.com/Attraction_Review-g469409-d11652783-Reviews-Passu_Glacier-Hunza_Gilgit_Baltistan.html
+score: 8.7
 ---
 
 The Passu Glacier descends almost to the Karakoram Highway, making it one of the most accessible glaciers in Pakistan. From the road, a rough track leads onto the ice in about thirty minutes. The glacier surface is grey-brown with debris near the snout, but the upper reaches show cleaner ice and dramatic crevasse formations. The jagged peaks of Passu Cathedral rise directly above.

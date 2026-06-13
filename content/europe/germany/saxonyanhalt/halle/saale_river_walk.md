@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.4900
 longitude: 11.9610
+score: 7.2
 ---
 
 The Saale runs north–south through the city and the path along its banks is the easiest way to see how Halle sits in its landscape. Start at the bridge below the cathedral and walk north past the Peißnitz island, the boathouses, and the Burg Giebichenstein at the city's edge.

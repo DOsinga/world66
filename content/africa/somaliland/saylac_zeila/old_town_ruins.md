@@ -7,6 +7,7 @@ tags:
 latitude: 11.354
 longitude: 43.473
 snippet: "Scattered remains of the medieval and Ottoman trading port"
+score: 8.7
 ---
 
 The historic core of Saylac is a half-deserted scatter of coral-stone walls, doorways, and the foundations of houses, mosques, and warehouses. The civil war and decades of neglect have left most of the older buildings in ruins, but the layout of the medieval town — narrow lanes, blocks of merchants' compounds, the line of the old harbour wall on the seaward side — is still legible.

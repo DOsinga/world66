@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -2.7975
 longitude: -40.5200
+score: 7.1
 ---
 
 The main beach at Jericoacoara faces north into the Atlantic trade winds — which is why kitesurfers love it and sunbathers sometimes find it more energetic than expected. The beach is wide, sandy, and backed by the main street of the village. Fishing boats work from one end; kite schools and rental operations occupy the middle; and the Pedra Furada end is rockier and wilder. At low tide the beach extends far enough to play football, which happens most evenings.

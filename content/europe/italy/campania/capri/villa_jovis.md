@@ -9,6 +9,7 @@ latitude: 40.5506
 longitude: 14.2614
 story: >
   The Salto di Tiberio — Tiberius's Leap — is a 330-metre cliff on the eastern edge of the villa grounds. Ancient historians claimed the emperor had condemned men thrown from it; archaeologists have found no evidence to support this, but the cliff is real and the view from it across the strait to the mainland is unforgettable.
+score: 9.2
 ---
 
 Villa Jovis is the best-preserved of the twelve imperial villas that Augustus and Tiberius built on Capri, and the only one open to visitors. It sits at the eastern tip of the island at 334 metres, a 45-minute walk from Capri town through lemon groves and quiet lanes. Tiberius governed the Roman Empire from here from 27 CE until his death in 37 CE — a decade during which, according to ancient sources, he never returned to Rome.

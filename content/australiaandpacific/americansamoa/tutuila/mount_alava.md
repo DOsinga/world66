@@ -12,6 +12,7 @@ story: >
   government. It fell into disrepair and the cables were removed, but the
   ruined towers still stand on the ridge, and the views they were built to
   serve remain spectacular.
+score: 8.5
 ---
 
 The Mount 'Alava trail is the best hike on Tutuila. The trailhead is at Fagasa Pass on the north side of the island — a short drive from Pago Pago — and the path follows a maintenance road most of the way to the 491-metre summit. The round trip covers roughly 10 kilometres; allow three hours up and two hours down.

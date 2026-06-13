@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.3787
 longitude: 7.6304
+score: 7.6
 ---
 
 The Walliser Alpentherme is Leukerbad's other major spa complex and the one that tends to attract a slightly more local clientele. The focus here is on the Roman-Irish bath circuit — a traditional sequence of steam rooms, hot baths, and cold plunges that takes a couple of hours to complete properly. The design pays more attention to the therapeutic and traditional aspects of bathing culture than the resort-hotel atmosphere of its neighbour.

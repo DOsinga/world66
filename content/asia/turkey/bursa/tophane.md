@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.1875
 longitude: 29.0560
+score: 7.9
 ---
 
 Tophane is Bursa's oldest neighbourhood, built on a rise above the city centre that was the original seat of the Ottoman state in the 14th century. It takes its name from the Ottoman cannon foundry (tophane) that once operated here. The area is quieter and less commercial than the bazaar district below, with Ottoman-era wooden houses on steep lanes and some of the most atmospheric streets in the city.

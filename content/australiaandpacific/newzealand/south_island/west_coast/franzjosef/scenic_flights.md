@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.388
 longitude: 170.181
+score: 8.8
 ---
 
 Both helicopter and small-plane scenic flights run from Franz Josef daily, weather permitting. The standard helicopter trip flies over the glacier and the upper névé snowfield, with a brief landing on snow at the head of the icefall. The fixed-wing flights — slightly cheaper — fly over both Franz Josef and Fox glaciers and on across the Main Divide to Mt Cook / Aoraki, returning by way of the West Coast.

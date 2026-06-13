@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.9664
 longitude: -83.9137
+score: 6.8
 ---
 
 The Old City is Knoxville's nightlife and music quarter — a cluster of streets just east of downtown lined with converted brick warehouses that house bars, live music venues, and casual restaurants. It has been the city's nocturnal centre since the 1990s and remains the best place to hear live music on a weekend night.

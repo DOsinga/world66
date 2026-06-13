@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: Largest Baroque Catholic cathedral in Romania, built 1752-1780
 story: "The cathedral organ, built by Johann Hencke of Vienna in 1780, has 53 stops and was one of the largest in the Habsburg Empire when it was installed. Liszt and Bruckner are both said to have played on it; the instrument is still in use for Sunday Mass and the occasional recital."
+score: 8.4
 ---
 
 The Catedrala Romano-Catolică, also called the Basilica Minor, is the largest Baroque Catholic cathedral in Romania. It was begun in 1752 by Bishop Pavel Forgách and completed in 1780 to designs by the Italian architects Giovanni Battista Ricca and Franz Hillebrand. The exterior is restrained — a long beige façade with twin towers and a low pediment — but the scale only becomes obvious once you are inside.

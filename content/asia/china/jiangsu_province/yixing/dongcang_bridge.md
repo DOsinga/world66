@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.3656
 longitude: 119.8235
+score: 5.8
 ---
 
 The Dongcang Bridge is a historic stone arch bridge spanning the Dongcang River in the city centre, built in the Song or Yuan Dynasty and one of the oldest surviving structures in Yixing. The single arch is high and graceful, and the bridge is still used by pedestrians. It represents the engineering style common throughout the Yangtze Delta region — a form that has barely changed in design for a thousand years.

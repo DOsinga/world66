@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: The easternmost fort of Hadrian's Wall, with a 35-metre viewing tower
+score: 8.1
 ---
 
 The eastern terminus of Hadrian's Wall, in Wallsend (which takes its name from this place). The fort itself is laid out as a stone footprint on the ground; the museum next door covers the history of Roman Britain with one of the best-restored bath-houses on the wall and a reconstructed gateway. A 35-metre viewing tower lets you see the full plan of the fort from above and the Swan Hunter shipyard beyond.

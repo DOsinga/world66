@@ -11,6 +11,7 @@ story: >
   common along the Catholic Eastern Visayas coast where Spanish missionaries
   worked their way systematically through the islands in the 17th and 18th
   centuries, dedicating natural features and settlements to saints as they went.
+score: 7.8
 ---
 
 The white coral islands of St Peter and St Paul lie just offshore from Hinunangan, visible from Tahusan Beach on a clear day. They are uninhabited, ringed by shallow reefs, and reachable by outrigger boat in about 20 to 30 minutes from the beach landing.

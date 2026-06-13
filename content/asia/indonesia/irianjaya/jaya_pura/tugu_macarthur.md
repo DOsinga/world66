@@ -13,6 +13,7 @@ story: >
   northern New Guinea. The small marble monument at the top still carries the
   inscription "From this site General Douglas MacArthur directed the
   liberation of the Philippines".
+score: 7.6
 ---
 
 The monument sits at the top of Ifar Gunung, the hill rising above the eastern shore of Lake Sentani close to the airport. The site is on an active Indonesian army base, so you need to leave ID at the gate and pay a small entry fee, but visitors are welcome and the climb up by car or ojek takes about twenty minutes from Sentani town.

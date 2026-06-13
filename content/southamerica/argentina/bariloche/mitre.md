@@ -8,6 +8,7 @@ tags:
 latitude: -41.1335
 longitude: -71.3071
 snippet: "The main shopping and chocolate street"
+score: 6.9
 ---
 
 Mitre is Bariloche's main street, running east from the Centro Civico for about ten blocks before climbing into the hills. The shopfronts are wall-to-wall chocolate factories, smoked-meat shops, outdoor gear stores, ice-cream parlours, and bookshops. **Mamuschka**, **Rapanui**, **Del Turista**, and **Fenoglio** are the big chocolate names, all with shopfronts on Mitre and free samples.

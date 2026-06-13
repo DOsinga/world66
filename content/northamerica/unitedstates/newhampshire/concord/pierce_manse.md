@@ -13,6 +13,7 @@ story: >
   career was unhappy: his presidency is ranked among the worst in American history for his role in
   signing the Kansas-Nebraska Act, and he died of cirrhosis in 1869. The Manse was saved from
   demolition in the 1960s and moved a few blocks to its present site by a coalition of local women.
+score: 6.8
 ---
 
 The Pierce Manse on Horseshoe Pond Lane is the only home Franklin Pierce ever owned. He lived here with his wife Jane and their three sons during his years as a Concord lawyer, before moving on to Washington as US senator and eventually to the White House. The house is modest by the standards of presidential homes — a square Greek Revival cottage with neat shutters and a small garden — and the tour is intimate and unpretentious.

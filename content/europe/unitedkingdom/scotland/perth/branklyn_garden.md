@@ -8,6 +8,7 @@ tags:
 latitude: 56.3943
 longitude: -3.4140
 snippet: A small but extraordinary National Trust garden on a slope above the Tay, exceptional in spring
+score: 7.4
 ---
 
 Branklyn Garden is just under two acres of extraordinary planting on a south-facing slope above the Tay. Created by John and Dorothy Renton between 1922 and 1966, it became one of Scotland's most celebrated private gardens before passing to the National Trust. The collection of alpines, rhododendrons, meconopsis (Himalayan blue poppies), and peat-loving plants is internationally significant.

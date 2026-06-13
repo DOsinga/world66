@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 18.4133
 longitude: -77.1048
+score: 4.9
 ---
 
 Island Village is a shopping and entertainment complex at the waterfront, built to serve cruise passengers, with a beach, several bars, and restaurants. The Beach Bar is the most relaxed part of it — open-air, right on the sand, with Red Stripe and rum punches at cruise-passenger prices. The beach itself is decent, with calm water and sun loungers for hire.

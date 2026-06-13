@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.6427
 longitude: -106.3930
+score: 6.2
 ---
 
 Garfinkel's, on Bridge Street, is one of Vail's better-known après-ski bars — a two-storey place with a large deck that faces the base of the mountain. When the lifts close and the afternoon sun hits the deck, it fills quickly with skiers and snowboarders who have not quite finished their day. The drink of choice is a cold beer or a spiked cider; the vibe is more rowdy than refined.

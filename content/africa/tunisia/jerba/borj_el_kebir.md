@@ -14,6 +14,7 @@ story: >
   Spanish soldiers were piled into a pyramid on this spot — the "Tower of Skulls"
   — that stood until the nineteenth century, when a French diplomat finally had
   it demolished. The bones were eventually interred in a nearby Christian cemetery.
+score: 7.2
 ---
 
 The Borj el-Kebir sits on the northern waterfront of Houmt Souk, a squat and solid fortress that has been rebuilt and expanded by successive rulers — Aragonese, Hafsid, and finally Ottoman — since the twelfth century. The current structure is largely Ottoman from the late sixteenth century, built on older foundations, and it retains the chunky, functional appearance of a working military fort rather than a decorative one.

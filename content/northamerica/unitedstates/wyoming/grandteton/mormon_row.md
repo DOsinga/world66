@@ -9,6 +9,7 @@ tags:
   - history
 title: Mormon Row
 type: poi
+score: 7.8
 ---
 
 Mormon Row is a historic homestead district east of the main park road, famous for old barns standing below the Teton Range. It is a reminder that this valley was also a difficult place to farm and settle.

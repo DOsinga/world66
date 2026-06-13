@@ -6,6 +6,7 @@ address: "65 km west of Homs"
 opening_hours: "0800-1800"
 latitude: 34.7569
 longitude: 36.2939
+score: 9.6
 ---
 
 The most famous medieval citadel in the

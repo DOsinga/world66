@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The Gap Resthouse sits at the foot of the single-lane road, at the point where the tarmac narrows and the ascent to Fraser's Hill begins. It is a colonial-era building in the old Malayan resthouse tradition — a wooden structure on a hillside, with broad verandas, high ceilings, and the slightly faded dignity of a place that once served British administrators and their families on the way up to the hill station. Today it operates as a guesthouse and is used by visitors waiting for the uphill window to open on the alternating traffic system.

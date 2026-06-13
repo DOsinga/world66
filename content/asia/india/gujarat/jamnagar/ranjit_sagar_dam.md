@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ranjit Sagar Reservoir
 type: poi
+score: 5.8
 ---
 
 A reservoir on the Rangmati River north of the city, built in the 1930s by Maharaja Ranjitsinhji to supply Jamnagar with water. The dam and its surrounding park are a popular weekend retreat for Jamnagaris, with paths along the embankment, family picnic spots, and decent views from the high ground above.

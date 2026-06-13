@@ -7,6 +7,7 @@ tags:
   - sight
 title: Skärva House
 type: poi
+score: 7.1
 ---
 
 Skärva Manor, northwest of Karlskrona on the mainland, was the country retreat of Fredrik Henrik af Chapman, the naval architect who in the late 18th century designed and oversaw the rebuilding of the entire Swedish navy. Chapman was one of the most influential ship designers of his era — his ships were faster and more manoeuvrable than anything else afloat — and he spent his working life in Karlskrona.

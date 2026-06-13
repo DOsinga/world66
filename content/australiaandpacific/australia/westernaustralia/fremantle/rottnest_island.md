@@ -13,6 +13,7 @@ story: >
   Dutch explorer Willem de Vlamingh, sighting them in 1696, mistook them
   for giant rats and named the island "rats' nest" — a misunderstanding
   that has stuck for three and a quarter centuries.
+score: 8.7
 ---
 
 Rottnest Island lies twenty kilometres west of Fremantle, a low limestone island ringed by white-sand beaches and famous as the home of the quokka. Ferries from B-Shed and Victoria Quay run six or seven times a day in summer and take about thirty minutes; the day trip is one of the most popular outings in Western Australia.

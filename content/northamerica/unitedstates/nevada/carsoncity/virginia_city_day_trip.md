@@ -2,6 +2,7 @@
 title: "Virginia City (Day Trip)"
 type: poi
 tags: [things_to_do, sight]
+score: 9.1
 ---
 
 The single best day trip from Carson City is the drive north on US-395 to Mound House and then east on State Route 341 up into the Virginia Range to Virginia City, which sits at 6,200 feet on the slopes of Sun Mountain. The drive itself is part of the experience — the road climbs through high desert scrub with views expanding over the Carson Valley below before cresting into the old mining district.

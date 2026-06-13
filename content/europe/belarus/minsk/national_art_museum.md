@@ -7,6 +7,7 @@ tags:
 latitude: 53.8983
 longitude: 27.5606
 snippet: The largest art museum in Belarus, with 27,000 works from Belarusian and world art
+score: 7.6
 ---
 
 The National Art Museum is the most important art institution in Belarus, housing around 27,000 works spanning Belarusian art from the 14th century to the present alongside European Old Masters, Russian imperial-era paintings, and decorative arts. The collection of Belarusian icons is particularly strong and rarely seen outside the country.

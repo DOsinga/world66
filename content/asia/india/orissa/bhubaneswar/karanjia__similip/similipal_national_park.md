@@ -9,6 +9,7 @@ latitude: 21.75
 longitude: 86.3333
 story: >
   Similipal is one of the few places in India where melanistic tigers — black tigers with faint dark stripes — have been photographed. These dark-coated Bengal tigers were first documented here in the 1990s and remain extremely rare worldwide; the genetic mutation seems to persist in this isolated population.
+score: 8.9
 ---
 
 Similipal National Park is one of India's largest tiger reserves, covering roughly 2,750 square kilometres of the Mayurbhanj hills in northern Odisha. The landscape is a rolling mix of sal forest, open grassland, rocky hills, and river valleys — the kind of varied terrain that supports a genuinely wide range of wildlife. Royal Bengal tigers, Asian elephants, gaur (Indian bison), leopards, and four-horned antelopes all live here, along with over 300 species of birds.

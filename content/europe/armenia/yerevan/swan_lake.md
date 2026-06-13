@@ -8,6 +8,7 @@ tags:
   - sight
   - kentron
 neighbourhood: Kentron
+score: 6.4
 ---
 
 An ornamental lake in the park beside the Opera House, ringed by benches, fountains, and a band of outdoor cafes. In winter it freezes solid and turns into an open-air ice rink; in summer the swans return and the cafes spill out across the surrounding paths.

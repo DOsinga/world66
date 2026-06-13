@@ -8,6 +8,7 @@ latitude: 30.078
 longitude: -96.6942
 story: >
   Pianist James Dick founded the Festival Institute in 1971 after buying an abandoned farmstead on the edge of Round Top. The idea of establishing a serious classical music academy in a town of 90 people in rural Texas struck many as eccentric, but the institute has trained thousands of young musicians over five decades and its summer concerts draw audiences from across the country.
+score: 8.4
 ---
 
 The Round Top Festival Institute is one of the more unlikely serious music institutions in the United States — a conservatory and concert hall set on a 200-acre campus in the Texas Hill Country, founded by the pianist James Dick in 1971. The institute runs intensive summer programs for young musicians and hosts concerts throughout the season in the Festival Hill Concert Hall.

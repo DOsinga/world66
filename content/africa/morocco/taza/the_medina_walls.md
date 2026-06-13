@@ -13,6 +13,7 @@ story: The Taza medina walls enclose one of the oldest continuously inhabited me
   or any of the other more famous cities were fully consolidated. The cliffs that define
   the site did most of the defensive work; the walls reinforced what nature had already
   provided.
+score: 8.1
 ---
 
 A walk around the **Medina Walls** of Taza is the best single way to understand the city's geography and history. The fortifications trace the edge of the rocky spur on which Taza-Haut is built, and the route follows a combination of intact wall sections, crumbling stretches, and paths along the outer base of the escarpment. From different points along the circuit you get views north towards the Rif, south towards the Middle Atlas, and down over the agricultural valley and the Ville Nouvelle below.

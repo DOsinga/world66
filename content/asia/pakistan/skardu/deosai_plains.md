@@ -10,6 +10,7 @@ tags:
 - day_trips
 - outdoor
 story: At an average elevation of around 4,100 metres, the Deosai Plateau is one of the highest plateaux in the world — and from June to September a vast carpet of wildflowers. The park was established in 1993 specifically to protect the Himalayan brown bear, then down to around twenty individuals in the area; numbers have since recovered to over fifty.
+score: 9.3
 ---
 
 The Deosai Plains spread across a vast high-altitude basin south of Skardu, accessible by jeep track from late June to early October. The plateau is treeless and seemingly empty, but in summer it carries one of the great wildflower displays of the Himalaya, alongside marmots, ibex and the elusive Himalayan brown bear.

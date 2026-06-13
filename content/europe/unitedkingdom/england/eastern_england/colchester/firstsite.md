@@ -9,6 +9,7 @@ tags:
 latitude: 51.8907
 longitude: 0.9055
 snippet: Curved contemporary art gallery by Rafael Vinoly
+score: 6.3
 ---
 
 A long, golden, banana-shaped building by the Uruguayan architect Rafael Vinoly, opened in 2011 as Colchester's contemporary visual-arts space. The interior is one wide curving gallery wrapped around a glass-walled cafe and an auditorium; the floor follows the curve of the building and the lighting comes through clerestory windows above. Visiting exhibitions tend to mix established names with regional artists.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 8.2455
 longitude: -13.1642
+score: 7.4
 ---
 
 A few kilometres south of River No. 2 and far less visited, John Obey is the place to go when River No. 2 has too many cars in its car park. The beach is a long shallow arc backed by palms, with a small fishing community at one end and the eco-minded Tribewanted lodge at the other.

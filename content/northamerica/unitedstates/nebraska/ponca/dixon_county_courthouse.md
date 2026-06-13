@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The county courthouse, built in 1883–84 in red brick with stone trim and expanded with a sympathetic addition in 1939–40. It is a modest but well-preserved example of a small-town Italianate courthouse of the post-frontier period — a building type that was once standard across the western US but has been thinned by demolition and unfortunate renovation. The clock tower is a town landmark.

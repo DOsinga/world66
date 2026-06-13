@@ -10,6 +10,7 @@ latitude: 42.5572
 longitude: 0.0506
 sources:
   - https://en.wikipedia.org/wiki/Ca%C3%B1%C3%B3n_de_A%C3%B1isclo
+score: 8.3
 ---
 
 The Añisclo gorge is the least-visited of Ordesa's four main valleys, and for that alone it's worth seeking out. A narrow canyon of pale limestone drops down from the high plateau, the Rio Bellós cutting a deep slot through the rock. The path follows the river upstream through mixed forest — oak, box, and fir — with the canyon walls narrowing and widening as the terrain dictates.

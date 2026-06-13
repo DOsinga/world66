@@ -10,6 +10,7 @@ address: 922 W 23rd St, National City, CA 91950
 latitude: 32.6708
 longitude: -117.1108
 story: "The first train left this depot for Barstow on 7 February 1885, completing a southern transcontinental route that ran from Boston via Chicago and ended here, at the edge of San Diego Bay. The Kimball brothers had spent years lobbying the Santa Fe to choose National City over San Diego — and won, briefly, before larger rival lines pulled the terminus north."
+score: 8.0
 ---
 
 Built in 1882 by Frank Kimball and finished in time for the inaugural Santa Fe transcontinental run in 1885, the depot is a low Stick-style wooden building with deep eaves and decorative bargeboards. It is the only original transcontinental railroad terminus still standing in the United States — every other 19th-century western terminus was demolished, burned, or rebuilt.

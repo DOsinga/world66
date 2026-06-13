@@ -8,6 +8,7 @@ tags:
   - cafe
 snippet: "Iconic Zurich chocolate-and-pastry shop on Paradeplatz, home of the Luxemburgerli macaron"
 story: "The Sprüngli family split their chocolate business in 1892: the elder son Rudolf inherited the industrial chocolate factory (which became Lindt & Sprüngli) and his brother David took the small confiserie on Paradeplatz. Today, descendants of both halves of the original family still run their respective Zurich operations independently."
+score: 6.8
 ---
 
 Confiserie Sprüngli on the corner of Paradeplatz has been Zurich's most-loved chocolate and pastry shop since 1859. The ground floor is a takeaway counter; the first floor is a long-established café where local society stops for tea, coffee, and a small plate of one of the city's most famous sweets — the **Luxemburgerli**, small almond-meringue macarons that are lighter, more delicate, and smaller than their French cousins. They come in two dozen flavours.

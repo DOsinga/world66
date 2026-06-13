@@ -15,6 +15,7 @@ story: >
   to Oklahoma City anyway, in what Guthrie still calls the "midnight raid,"
   taking the state seal in the dead of night. The Temple was completed in
   1919, a monument to civic pride in a city that had just been demoted.
+score: 8.5
 ---
 
 The Guthrie Scottish Rite Masonic Temple is one of the largest Masonic centres in the world, an enormous neoclassical structure completed in 1919 on East Oklahoma Avenue. The building covers an entire city block, with a 2,500-seat theatre, a ballroom, lodge rooms, and a library spread across four floors of limestone and brick. It was built during the height of Oklahoma's oil boom and reflects the extraordinary ambitions of the Guthrie Masonic lodges at that moment.

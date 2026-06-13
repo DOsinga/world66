@@ -9,6 +9,7 @@ latitude: 30.0192
 longitude: 31.2283
 story: >
   Prince Muhammad Ali, who built Manial Palace, was a first cousin of King Fuad I and heir apparent to the Egyptian throne for a period. He was an obsessive collector of Islamic and Ottoman art — his palace accumulates styles, objects, and periods in layers that reflect a lifetime of acquisition. The throne room alone contains carpets from four different countries and furniture in five different styles, somehow achieving an effect that is magnificent rather than chaotic.
+score: 7.7
 ---
 
 Manial Palace, on the southern tip of Rhoda Island, is one of Cairo's hidden pleasures — a complex of early 20th-century pavilions built by Prince Muhammad Ali in a fantastical blend of Ottoman, Moroccan, Persian, and European styles, set in gardens of exotic plants and rare trees.

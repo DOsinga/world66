@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -41.2755
 longitude: 173.2862
+score: 6.9
 ---
 
 The Free House sits in a deconsecrated church on Collingwood Street with a beer garden out the back full of yurts and picnic tables. It is the best craft-beer bar in Nelson — twenty or so rotating taps from independent breweries around New Zealand, plus a cask ale or two and a thoughtful bottle list.

@@ -12,6 +12,7 @@ story: >
   and reported that the temples at the top were in an extraordinary state of
   preservation, maintained by a continuous relay of Jain pilgrims who had been
   climbing the mountain for nearly two thousand years.
+score: 9.1
 ---
 
 Mount Girnar is a sacred hill rising 1,117 metres above the Saurashtra plain, 5 km from Junagadh, and the climb to its cluster of temples at the summit involves ascending over 10,000 stone steps. Pilgrims and fitness enthusiasts both make the ascent, which typically takes 3–4 hours going up and 2–3 hours coming down. The standard advice is to start before dawn — you avoid the worst heat, you see the sunrise from the summit, and you share the trail with serious pilgrims rather than the midday tourist rush.

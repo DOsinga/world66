@@ -7,6 +7,7 @@ tags:
 latitude: 45.4718
 longitude: 9.1882
 address: "Brera, 20121 Milan"
+score: 8.4
 ---
 
 The Brera is Milan's art district — a neighbourhood of cobbled streets, independent galleries, antique shops, and upscale restaurants in the city's historic core. The Pinacoteca di Brera anchors it, but the neighbourhood itself, with its 18th-century Palazzo Brera complex housing a botanical garden and astronomical observatory, is worth exploring beyond the museum.

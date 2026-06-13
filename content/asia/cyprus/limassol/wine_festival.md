@@ -6,6 +6,7 @@ tags:
   - sight
 title: Cyprus Wine Festival
 type: poi
+score: 7.1
 ---
 
 The annual Cyprus Wine Festival, held in the Limassol municipal gardens in late August or early September, is the island's biggest wine celebration and one of the most popular events in the Cypriot calendar. For a single entrance fee, you receive a small ceramic cup and have free access to the wines produced by Cyprus's major wineries and a growing number of boutique producers.

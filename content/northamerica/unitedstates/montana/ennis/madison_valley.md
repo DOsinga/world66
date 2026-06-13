@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 snippet: Long, wide ranching valley flanked by two mountain ranges
+score: 8.0
 ---
 
 Ennis sits in the middle of the Madison Valley — a wide, flat stretch of ranching country about sixty miles long, hemmed in to the east by the Madison Range and to the west by the Gravelly Range. Driving north or south on Highway 287 puts you in some of the most spectacular open country in Montana: cattle and elk in the meadows, the river winding through the middle, and snow on the peaks well into June.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 A handsome granite Greek Revival building at 150 Bank Street, built in 1833–35 and still in use as a federal customs office — one of the oldest continuously operating customs houses in the United States. The architect was Robert Mills, who also designed the Washington Monument, and the building has the solidity and restraint that characterise his work.

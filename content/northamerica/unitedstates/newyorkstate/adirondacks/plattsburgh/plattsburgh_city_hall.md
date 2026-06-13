@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "1917 Beaux-Arts city hall designed by John Russell Pope — the grandest building in the city"
+score: 7.6
 ---
 
 The most ambitious building in Plattsburgh, an oversized **Beaux-Arts City Hall** designed in 1917 by **John Russell Pope** (architect of the Jefferson Memorial and the National Gallery in Washington). The cream-coloured marble facade, the tall Corinthian portico, and the central rotunda are far grander than the size of the city would suggest — the building was funded by a single benefaction from Smith M. Weed, a railroad and banking magnate who wanted to leave a lasting monument.

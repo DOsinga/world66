@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The Werner-Senger-Haus on Rütsche, just below the cathedral, is another of the contenders for "oldest half-timbered house in Germany," with dendrochronology pointing to around 1296. It's named after the prosperous patrician family that lived here in the late Middle Ages.

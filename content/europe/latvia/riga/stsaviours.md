@@ -8,6 +8,7 @@ tags:
   - sight
 title: St Saviour's Anglican Church
 type: poi
+score: 5.8
 ---
 
 St Saviour's is the only Anglican church in Latvia, built in 1857 to serve the sizeable community of British merchants who traded in Riga during its years as a major Baltic port. It's a modest neo-Gothic red brick building tucked into a courtyard just off the river, easily overlooked but pleasant to find.

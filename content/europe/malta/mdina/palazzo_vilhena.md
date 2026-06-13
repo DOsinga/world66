@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.8848
 longitude: 14.4039
+score: 7.0
 ---
 
 Palazzo Vilhena was built between 1726 and 1728 by Grand Master António Manoel de Vilhena as a summer residence, and today houses Malta's National Museum of Natural History. The French Baroque palace was designed by Charles François de Mondion, the same architect responsible for Mdina Gate, and its courtyard — symmetrical, arcaded, built in warm Maltese limestone — is one of the most handsome open spaces on the island.

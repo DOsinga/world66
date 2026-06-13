@@ -6,6 +6,7 @@ longitude: -74.0413
 tags:
   - shopping
 snippet: Large northern Bogota mall with department stores, cinemas, and restaurants
+score: 3.9
 ---
 
 One of Bogota's largest shopping centres, in the north of the city. Department stores, cinemas, restaurants, and banks under one roof. Take the Unicentro bus north on Carrera 10 from the centre.

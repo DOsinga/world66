@@ -7,6 +7,7 @@ tags:
 latitude: 41.6014
 longitude: -93.5577
 story: "The Butter Cow has been sculpted at the fair every year since 1911 — a roughly 600-pound, life-sized dairy cow carved from butter inside a refrigerated case. When the fair ends, the same butter is reused for several years before being recycled into biofuel."
+score: 8.5
 ---
 
 The Iowa State Fair runs for eleven days every August and is the cultural event of the year in Des Moines. It is one of the largest agricultural fairs in the country — more than a million people pass through — and it earns the visit even if you have no particular interest in livestock or deep-fried food. Both are abundantly available.

@@ -10,6 +10,7 @@ latitude: 46.2472
 longitude: -123.4136
 sources:
   - https://en.wikipedia.org/wiki/Julia_Butler_Hansen_Refuge_for_the_Columbian_White-Tailed_Deer
+score: 8.2
 ---
 
 The Julia Butler Hansen Refuge was established in 1972 specifically to save the Columbian white-tailed deer — a subspecies distinct from the common white-tailed deer and one of the most endangered mammals in the Pacific Northwest. By the time the refuge was created, the population had collapsed to a few hundred animals. Today roughly 300 deer live within the refuge boundaries, with another 300–400 on adjacent private farmland, and the species has recovered enough that biologists recommended downlisting it from endangered to threatened in 2015.

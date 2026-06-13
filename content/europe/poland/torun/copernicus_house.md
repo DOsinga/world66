@@ -10,6 +10,7 @@ longitude: 18.604809
 sources:
   - https://en.wikipedia.org/wiki/Nicolaus_Copernicus
 story: "The house where Copernicus was born in 1473 survived the Second World War without damage — one of the few original medieval merchant houses on the street still standing. The city's escape from wartime destruction is precisely what makes the connection to him feel real rather than commemorative."
+score: 8.3
 ---
 
 The House of Copernicus on Kopernika Street is the birthplace of Nicolaus Copernicus, the astronomer who proposed that the Earth revolves around the Sun rather than the reverse. The building is a 15th-century merchant's house, preserved as part of the old town's broader UNESCO designation, and it now operates as a museum covering Copernicus's life, his heliocentric model, and the scientific revolution his work helped trigger.

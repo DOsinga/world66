@@ -8,6 +8,7 @@ latitude: 38.3669
 longitude: 20.5609
 story: >
   Myrtos is consistently voted one of the most beautiful beaches in Greece, and its setting explains why: a crescent of brilliant white pebbles backed by sheer limestone cliffs that plunge straight into electric-blue water. The beach faces west, which means the afternoon light turns the sea an extraordinary colour. There are no rocks in the water and the bottom drops away steeply, making it more suited to strong swimmers.
+score: 9.0
 ---
 
 Myrtos is the postcard image of Kefalonia — a sweep of blinding white pebbles against water that shifts from pale turquoise to deep cobalt, enclosed by sheer cliffs that drop straight to the sea. It's on the island's northwest coast, reached by a winding road from the village of Divarata above.

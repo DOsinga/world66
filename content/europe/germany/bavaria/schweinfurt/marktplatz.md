@@ -13,6 +13,7 @@ story: >
   its status. Schweinfurt was bombed heavily in October 1943 during two Allied raids targeting 
   the ball-bearing factories that supplied the German war machine — roughly a third of the city 
   was destroyed. The Rathaus survived.
+score: 7.2
 ---
 
 The Marktplatz is the pedestrianised heart of Schweinfurt, surrounded by solid bourgeois commercial buildings and anchored by the Renaissance town hall (Rathaus), built 1570–72. Daily market stalls set up here selling fruit, vegetables, cheese, and flowers; on weekends the square fills with people sitting outside the surrounding cafes.

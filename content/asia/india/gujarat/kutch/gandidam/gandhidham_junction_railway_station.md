@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Gandhidham_Junction_railway_station
 story: >
   Gandhidham Junction was built as part of the Kutch Railway project after Partition, intended to support the resettlement of Sindhi refugees and develop the new port at Kandla. The station's code, GIMB, is a relic of the original name "Gandhidham in Mahar Bhoomi" — land given to the displaced.
+score: 4.8
 ---
 
 Gandhidham Junction is the main railway gateway to the entire Kutch district. Nearly all visitors to the Rann of Kutch, Bhuj, and the surrounding region pass through here, and the station handles a substantial volume of freight destined for the port at Kandla. The concourse is busy at all hours, with vendors selling chai, snacks, and the Sindhi-influenced street food that defines the city.

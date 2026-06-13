@@ -1,13 +1,12 @@
 ---
 latitude: 40.4237
 longitude: -3.6889
+score: 8.8
 tags:
 - things_to_do
 - salamanca
 - museum
 - chamberi_barrio
-title: National Archaeological Museum
-type: poi
 ---
 
 Spain's national collection of archaeology, from prehistory to the early modern period, in a handsome 19th-century palace on Calle Serrano. The collection's signature pieces are the **Dama de Elche** — a polychrome Iberian limestone bust from the 4th century BC, perhaps the most iconic pre-Roman sculpture in the country — and the **Dama de Baza**, a near-contemporary seated female figure from Granada.

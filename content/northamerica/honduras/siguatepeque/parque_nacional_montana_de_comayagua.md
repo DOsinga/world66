@@ -10,6 +10,7 @@ latitude: 14.5650
 longitude: -87.7800
 sources:
   - https://en.wikipedia.org/wiki/Siguatepeque
+score: 8.0
 ---
 
 The Parque Nacional Montaña de Comayagua covers a large area of cloud forest and pine woodland in the mountains that surround Siguatepeque, and the town makes the most logical base for visiting it. The park protects the watershed that supplies water to much of the department, and it's an important habitat for quetzals, toucans and other highland birds.

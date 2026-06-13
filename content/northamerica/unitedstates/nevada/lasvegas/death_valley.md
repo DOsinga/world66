@@ -7,6 +7,7 @@ snippet: "The hottest, lowest, driest place in North America — two hours west"
 tags:
 - day_trips
 - park
+score: 9.1
 ---
 
 Death Valley National Park sits two hours west of the Strip across the California state line and contains the lowest point in North America at Badwater Basin, 282 feet below sea level. The valley regularly records the hottest air temperatures ever measured on Earth — 134°F in 1913 — and the colour palette of salt flats, eroded badlands, and rust-streaked mountains has drawn film crews since the silent era.

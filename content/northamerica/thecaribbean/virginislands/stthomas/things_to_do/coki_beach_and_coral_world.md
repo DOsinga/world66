@@ -1,6 +1,7 @@
 ---
 title: "Coki Beach and Coral World Ocean Park"
 type: poi
+score: 7.9
 ---
 
 Coki Beach, on the northeast coast near the village of Smith Bay, is the best beach on St. Thomas for snorkelling directly from the shore. The water is clear, the reef begins close in, and the fish life is reliably good — parrotfish, sergeant majors, stoplight fish, and the occasional sea turtle moving through the turtle grass. It is a small, informal beach, and can get crowded, but the snorkelling repays the effort.

@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "Zoobic is the only tiger safari in the Philippines — the Bengal tigers are driven past in caged jeepneys, with raw chicken handed through the bars on long poles for the tigers to snatch. The set-up is unsubtle and not to everyone's taste, but it draws a crowd of Manila weekenders who have never seen a tiger that close."
+score: 6.2
 ---
 
 Zoobic Safari is the headline animal attraction of the Subic Bay freeport — a 25-hectare wildlife park with a tiger safari, an aviary, a serpentarium, and an Aeta tribal village within the grounds. The tiger drive-through is the main draw: visitors board a caged jeepney that crawls through an enclosure where Bengal tigers prowl and feed.

@@ -7,6 +7,7 @@ tags:
 latitude: 6.5650
 longitude: 99.6650
 snippet: "The ruins of the wartime prison camp where Ko Tarutao's most famous chapter played out."
+score: 7.8
 ---
 
 Talo Wao Bay sits on the east coast of Ko Tarutao, about 22 km south of the headquarters. This is where the Thai government built a prison camp in the late 1930s, eventually holding around three thousand inmates including political prisoners exiled after the 1932 revolution. When wartime supply lines failed and rations ran out, the guards and prisoners turned to piracy, raiding shipping in the Strait of Malacca until British naval action shut the operation down in the late 1940s.

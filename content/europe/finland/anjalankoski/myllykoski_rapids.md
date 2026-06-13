@@ -7,6 +7,7 @@ tags:
 - sight
 title: Myllykoski Rapids
 type: poi
+score: 6.2
 ---
 
 "Myllykoski" means "mill rapids" in Finnish — the village grew up around the mills that exploited this stretch of the Kymijoki. From the late 19th century the rapids powered a major paper mill, which dominated the town's economy for over a century until its closure in 2011.

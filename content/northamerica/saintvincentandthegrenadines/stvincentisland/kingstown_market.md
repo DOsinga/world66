@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 13.1574
 longitude: -61.2253
+score: 7.2
 ---
 
 The covered market on Bedford Street is the commercial heart of Kingstown and the easiest way to see what the island actually grows. Friday and Saturday mornings are the busiest, when farmers from the Mesopotamia Valley and the leeward coast bring in produce — sweet potatoes, dasheen, breadfruit, soursop, sugar apples, plantains, golden apples, mangoes — and pile it on tables under the red corrugated roof.

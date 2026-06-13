@@ -10,6 +10,7 @@ tags:
 - park
 story: >
   The vivid red of the rock comes from iron oxide that has slowly leached into the porous Aztec sandstone over hundreds of millions of years. The geological formation here — older limestone thrust on top of younger sandstone — is one of the clearest examples of overthrust faulting on Earth.
+score: 9.3
 ---
 
 Red Rock Canyon sits about 20 miles west of the Strip and is the closest serious nature experience to Las Vegas. The 13-mile one-way scenic loop drive climbs up to overlooks with views of the Aztec sandstone escarpment — banded red, white, and orange cliffs that rise sharply from the desert floor. Half a dozen short hiking trails head out from pull-offs along the loop, ranging from the easy Calico Hills walk to the demanding Turtlehead Peak summit.

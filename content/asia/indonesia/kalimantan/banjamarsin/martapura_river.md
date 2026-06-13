@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Martapura_River
+score: 7.1
 ---
 
 The Martapura River runs through the heart of Banjarmasin and is the city's spine — stilt houses, warehouses, mosques, and small boat workshops crowd the banks for kilometres. The Siring promenade on the south bank, opposite the Sabilal Muhtadin mosque, is the place to take it in: a wide concrete walkway with food stalls, a small handicraft market, and a large statue of a bekantan monkey looking out over the water.

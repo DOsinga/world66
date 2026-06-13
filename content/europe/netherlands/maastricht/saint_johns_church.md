@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.1
 ---
 
 A Gothic church immediately adjacent to the Basilica of Saint Servatius on the Vrijthof, recognisable by its distinctive red tower — painted with red lead in the 15th century, probably to distinguish it visually from the grey stone Servatius basilica beside it. The tower can be climbed for views over the Vrijthof and the city below.

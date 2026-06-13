@@ -6,6 +6,7 @@ latitude: 48.5188
 longitude: 9.0540
 snippet: "Tübingen's signature flat-bottomed punt boats on the river"
 story: "The annual Stocherkahn race in June is a no-holds-barred student tournament: every Tübingen fraternity enters a boat and tries to ram, sink or capsize the others. The losers traditionally have to eat a plate of cold liver dumplings and drink a barrel of beer."
+score: 8.8
 ---
 
 The Stocherkahn — a long, flat-bottomed boat propelled by a punt-pole — is Tübingen's signature image, and a ride along the Neckar past the Platanenallee and the Stift is the most enjoyably touristy thing to do here. The boats are run as a student business, with the punters mostly in fraternity colours; trips of around an hour start from the bridge by the Hölderlinturm in spring and summer.

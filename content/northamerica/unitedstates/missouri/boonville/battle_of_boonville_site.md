@@ -9,6 +9,7 @@ latitude: 38.9765
 longitude: -92.7430
 snippet: "Site of the first major land battle west of the Mississippi in the American Civil War"
 story: "Fought on 17 June 1861, the battle lasted barely twenty minutes — Union troops under Nathaniel Lyon scattered the larger Missouri State Guard force, securing the Missouri River and effectively keeping the strategically vital state of Missouri in the Union for the duration of the war."
+score: 6.7
 ---
 
 The Battle of Boonville was over almost before it began, but its consequences were huge. By driving the secessionist Missouri State Guard out of the river port, Union forces gained control of the Missouri River — the main highway across the state — and prevented Missouri's pro-Confederate governor from organising serious resistance there. Historians often call it the first land battle of the western theatre of the Civil War.

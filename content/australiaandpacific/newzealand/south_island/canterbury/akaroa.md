@@ -14,6 +14,7 @@ story: Akaroa was almost French. A French colonisation expedition arrived here i
   retains French street names, a distinct architectural character, and a culinary
   reputation that draws on that heritage. It is the only place in New Zealand where
   French colonisation left a lasting material imprint.
+score: 8.3
 ---
 
 **Akaroa** sits at the head of a volcanic harbour on Banks Peninsula, 85 kilometres east of Christchurch on a winding mountain road. The harbour is the drowned crater of an ancient volcano — one of two that built the peninsula — and the cliffs that rise around it are dramatic. The town is small, pretty, and aggressively charming, with wooden colonial buildings, a handful of excellent restaurants, and a pace of life significantly slower than Christchurch.

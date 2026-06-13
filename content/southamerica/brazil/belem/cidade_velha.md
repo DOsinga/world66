@@ -7,6 +7,7 @@ tags:
 latitude: -1.4550
 longitude: -48.5050
 snippet: The colonial heart of Belém, where the city began in 1616 and where most of its historic monuments stand.
+score: 8.7
 ---
 
 Cidade Velha — the Old City — is the promontory between the Guamá River and Guajará Bay where Portuguese colonizers built their first fort in 1616. The neighborhood has retained more of its colonial and 19th-century fabric than most Brazilian cities: tile-fronted sobrado houses, narrow streets, churches, and the waterfront market that has operated continuously for four centuries.

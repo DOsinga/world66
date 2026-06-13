@@ -7,6 +7,7 @@ tags:
 latitude: 40.6349
 longitude: 22.9407
 snippet: Essential museum documenting 2,000 years of Sephardic Jewish life in Thessaloniki
+score: 9.1
 ---
 
 The Jewish Museum of Thessaloniki is one of the most important Jewish museums in Europe, and one of the best museums of any kind in Greece. It occupies a villa near the Modiano market and documents the long history of Jewish presence in the city — from the ancient Jewish community of Hellenistic times through the great Sephardic influx after 1492, the prosperous Ottoman centuries, and finally the catastrophe of the Holocaust in which 96 percent of the community was murdered.

@@ -8,6 +8,7 @@ tags:
 - religious
 - landmark
 snippet: "12th-century Premonstratensian abbey, now the town hall"
+score: 5.6
 ---
 
 The Abbey of Saint-Paul was founded in the 12th century just outside the medieval walls. After secularisation in the Revolution the abbey buildings were taken over by the municipality and now house the Hôtel de Ville and several town offices.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Jupiter Factory
 type: poi
+score: 7.7
 ---
 
 The Jupiter Factory sits on the western edge of Pripyat, a sprawling industrial site that operated under the cover of a consumer electronics plant. After the accident it was used briefly as a decontamination research base; trolleys, lockers, and gas masks are scattered across the assembly halls.

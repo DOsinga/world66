@@ -9,6 +9,7 @@ tags:
 - landmark
 title: House of Dionysus
 type: poi
+score: 8.8
 ---
 
 A 2nd-century Roman villa inside the Kato Paphos Archaeological Park, named for the mosaic of Dionysus that covers the floor of its triclinium. Over 2,000 square metres of mosaic in all — hunting scenes, mythological figures, a procession of the god riding his chariot drawn by panthers. The floors have been covered with a modern roof to protect them.

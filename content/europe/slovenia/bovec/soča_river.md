@@ -8,6 +8,7 @@ latitude: 46.3386
 longitude: 13.5524
 story: >
   The Soča's extraordinary emerald-green colour comes from finely ground limestone particles suspended in its glacially cold water. The colour intensifies in bright sun and changes subtly through the day as the light shifts — photographers camp along its banks for this reason. Ernest Hemingway, who served as an ambulance driver on the Isonzo Front, set parts of A Farewell to Arms in this valley, describing the river in terms that anyone who has seen it will recognise.
+score: 9.4
 ---
 
 The Soča is one of the most beautiful rivers in Europe. Its water runs a vivid turquoise-green, almost impossibly clear, fed by limestone springs and Alpine snowmelt. The river flows south through the Julian Alps from its source near the Vršič Pass, gathering force through the Bovec basin and into the increasingly dramatic gorge below town.

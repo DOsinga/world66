@@ -4,6 +4,7 @@ latitude: 55.6785
 longitude: -1.7937
 title: Lindisfarne (Holy Island)
 type: poi
+score: 9.3
 ---
 
 Lindisfarne, known as Holy Island, is a tidal island accessible by causeway from the mainland — but only at low tide. In the 7th century this was where Irish monks established one of the earliest Christian communities in northern England, producing the breathtaking Lindisfarne Gospels (now in the British Library). The priory ruins still stand, and the small island retains a genuine sense of remoteness and spiritual atmosphere.

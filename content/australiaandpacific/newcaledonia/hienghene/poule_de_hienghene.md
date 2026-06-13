@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Poule de Hienghène
 type: poi
+score: 7.4
 ---
 
 The dark limestone outcrop in Hienghène bay is the single most photographed natural feature on New Caledonia's east coast. From the right angle on the coastal road, the layered rock really does look like an enormous brooding hen — head tucked down, body bulging — silhouetted against the turquoise lagoon.

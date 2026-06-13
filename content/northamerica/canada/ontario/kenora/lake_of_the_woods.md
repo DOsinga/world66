@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lake of the Woods
 type: poi
+score: 8.8
 ---
 
 Lake of the Woods straddles the border of Ontario, Manitoba, and Minnesota and is the reason Kenora exists. With around 14,500 islands spread across more than 1,700 square miles of water, it is one of the largest island lakes in the world. The southwestern arm pushes into the United States; the eastern bays are the Ontario cottage country that has drawn Winnipeg families for over a century.

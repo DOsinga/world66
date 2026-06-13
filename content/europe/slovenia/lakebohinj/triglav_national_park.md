@@ -9,6 +9,7 @@ tags:
   - nature
   - hiking
 snippet: Slovenia's only national park, covering most of the Julian Alps
+score: 8.8
 ---
 
 Triglav National Park covers 880 square kilometres of the Julian Alps and includes most of the country's highest terrain, including Mount Triglav itself at 2,864 metres. Lake Bohinj sits inside the park's southern boundary, which makes it the most accessible point of entry. Roads end a short distance west of the lake; from there, walking is the only way deeper into the mountains.

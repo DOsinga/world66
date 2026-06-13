@@ -10,6 +10,7 @@ tags:
   - landmark
   - old_town
 neighbourhood: Old Town
+score: 5.4
 ---
 
 Embedded in the paving of Cathedral Square is a single granite tile marked "Stebuklas" — Lithuanian for "miracle." This is the spot where the Baltic Way human chain reached Vilnius on August 23, 1989, when over two million people linked hands from Tallinn through Riga to Vilnius to demand independence from the Soviet Union. The chain covered 675 kilometres and lasted fifteen minutes. Lithuania declared independence seven months later.

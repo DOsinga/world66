@@ -6,6 +6,7 @@ longitude: 101.7147
 tags:
   - things_to_do
   - neighbourhood
+score: 5.9
 ---
 
 Kuala Lumpur City Centre — KLCC — is the modern downtown of KL: a wedge of land bounded by Jalan Ampang to the north and Jalan P. Ramlee to the west, dominated by the Petronas Twin Towers and ringed by the city's tallest office buildings, five-star hotels, and the KLCC Convention Centre. It was built in the 1990s on the site of a former horse-racing track and remains the city's financial and business heart.

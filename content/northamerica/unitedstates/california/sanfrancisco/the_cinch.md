@@ -8,6 +8,7 @@ tags:
 - bar
 title: The Cinch
 type: poi
+score: 6.2
 ---
 
 The Cinch is a western-themed gay bar on Polk Street that has been around since the 1980s, when Polk Gulch was the centre of San Francisco's gay nightlife before the Castro took over. Push through the saloon doors and you will find a long, narrow bar with country-and-western decor, a pool table, video poker, and a jukebox that leans classic rock.

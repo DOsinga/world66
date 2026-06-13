@@ -8,6 +8,7 @@ tags:
 latitude: -31.9527
 longitude: 115.8619
 story: "The Perth Mint produced Australia's first gold coins in 1899 and still operates as a working mint today, making it one of the oldest operating mints in the world. Its most famous product is the Australian Gold Nugget coin series, and in 2011 it cast a one-tonne gold coin worth over $53 million — the largest and most valuable gold coin ever made."
+score: 8.3
 ---
 
 The Perth Mint opened in 1899 as a branch of Britain's Royal Mint, built to process gold from the great WA gold rush that had turned Kalgoorlie into a boom town. It is the oldest operating mint in Australia and one of the few places in the world where you can watch gold being smelted and poured in a live demonstration. Every hour, staff melt gold in a furnace and pour it into a bar mould — the molten metal glows deep orange, then hardens to the familiar yellow in seconds. The experience is genuinely impressive in a way that museum displays rarely are.

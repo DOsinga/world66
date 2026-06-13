@@ -7,6 +7,7 @@ tags:
 latitude: -26.2167
 longitude: -48.7167
 story: "The pink dolphins of the Babitonga — actually Guiana dolphins, but locally called botos rosados from a closely related Amazonian species — are one of only two coastal populations on the South Atlantic seaboard. There are now around fifty animals, watched closely by the federal environment agency. The mangroves along the bay shore are the largest preserved estuary in southern Brazil."
+score: 7.7
 ---
 
 The Baía da Babitonga is the wide, mangrove-lined bay at the mouth of the Cachoeira River, a few kilometres east of central Joinville. The bay is home to a resident population of Guiana dolphins, an extensive system of mangrove channels, and a handful of small islands.

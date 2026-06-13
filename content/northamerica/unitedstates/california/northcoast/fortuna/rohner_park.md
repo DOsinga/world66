@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 Rohner Park is Fortuna's main green space — a sprawling, second-growth redwood and meadow park on the south side of town, named for the Swiss-born brothers who founded what would become Fortuna in the 1870s. The redwood grove is small but tall enough that on a summer afternoon you can lose the heat under it within minutes of arriving.

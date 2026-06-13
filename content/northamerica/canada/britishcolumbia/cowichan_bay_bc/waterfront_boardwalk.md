@@ -8,6 +8,7 @@ latitude: 48.7417
 longitude: -123.6264
 sources:
   - https://en.wikipedia.org/wiki/Cowichan_Bay
+score: 8.4
 ---
 
 The Cowichan Bay waterfront is what you come here for: a crooked line of wooden buildings on pilings above the tidal mud, fishing boats at the docks, and the smell of salt and seaweed. The Maritime Centre and Museum occupies one of the heritage buildings and is worth a brief visit for its exhibits on the Cowichan peoples' fishing traditions and the history of wooden boat building on the coast.

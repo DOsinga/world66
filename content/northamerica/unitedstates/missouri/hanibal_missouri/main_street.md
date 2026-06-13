@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.7094
 longitude: -91.3561
+score: 7.8
 ---
 
 Hannibal's downtown along North and South Main Street is one of the best-preserved 19th-century commercial districts in Missouri. Brick storefronts house antique shops, art galleries, ice cream parlours, and small restaurants. The Mark Twain Boyhood Home is two blocks back from the river end of the street.

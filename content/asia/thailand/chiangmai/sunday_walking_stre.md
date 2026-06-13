@@ -6,6 +6,7 @@ tags:
 - sight
 title: Sunday Walking Street
 type: poi
+score: 8.2
 ---
 
 Every Sunday evening from around 4pm, the streets running west from Tha Phae Gate through the old city close to traffic and fill with one of Chiang Mai's best markets. The Sunday Walking Street is a more local, more relaxed affair than the Night Bazaar — vendors are mostly small-scale artisans, with handmade silver jewellery, hand-painted textiles, ceramics, and woodcarvings dominating.

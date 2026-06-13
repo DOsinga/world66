@@ -7,6 +7,7 @@ tags:
 - sight
 title: Harare Gardens
 type: poi
+score: 7.2
 ---
 
 The largest park in central Harare, stretching out beside the National Gallery of Zimbabwe. Tall jacaranda and msasa trees shade wide lawns where office workers eat lunch and families gather on weekends. A small rainforest area with a stream running through it feels surprisingly wild for the middle of a city.

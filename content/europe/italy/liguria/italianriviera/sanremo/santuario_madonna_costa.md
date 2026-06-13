@@ -10,6 +10,7 @@ story: >
   The sanctuary's founding legend holds that in 1361 a young man condemned to death prayed to a roadside shrine of the Madonna and the rope snapped three times as the executioner tried to hang him. The local magistrates took this as a divine sign, freed him, and built the first chapel on the spot. The current baroque church dates from the 17th century but the rope from that execution — or what is claimed to be it — is still kept inside as a relic.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 8.4
 ---
 
 The Santuario della Madonna della Costa crowns the top of La Pigna, the medieval quarter, and is the first thing you see when you look up from Sanremo's waterfront. The climb up through the old town to reach it is half the point: the narrow alleys of La Pigna give way at the top to a small esplanade in front of the church with a view across the rooftops to the sea below.

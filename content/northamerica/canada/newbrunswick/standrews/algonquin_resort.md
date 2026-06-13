@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/The_Algonquin_Resort
+score: 7.2
 ---
 
 The Algonquin opened in 1889 as a Canadian Pacific Railway resort, one of the chain of grand hotels that the CPR built across the country to fill its trains with passengers. The original wooden building burned in 1914 and was replaced with the half-timbered Tudor Revival pile that still dominates the skyline of St. Andrews — gabled, turreted, and painted in the railway's signature green and white.

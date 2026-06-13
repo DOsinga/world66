@@ -9,6 +9,7 @@ tags:
 - nature
 title: Indian River
 type: poi
+score: 8.8
 ---
 
 The Indian River flows from the hills behind Portsmouth into the sea at the town's edge, and a short stretch of it — roughly two kilometres — is navigable only by small rowboat through an increasingly dense tunnel of bwa mang mangroves. The guides who work this stretch are government-licensed, and the trip is one of the most atmospheric things to do on the island.

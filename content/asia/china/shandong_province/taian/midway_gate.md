@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: 36.2450
 longitude: 117.1080
+score: 6.7
 ---
 
 The Middle Heavenly Gate (Zhongtianmen) is the halfway point on the traditional climb and the upper end of the road from town. Most contemporary visitors arrive here by bus from the Tianwai Cun terminal, then take the cable car the rest of the way to the summit. Walkers stop for noodles or steamed buns at the cluster of small restaurants before continuing on foot.

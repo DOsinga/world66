@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 20.7237
 longitude: 107.0540
+score: 5.6
 ---
 
 Green Mango is the long-standing upmarket option on the Cat Ba seafront, a stone-walled space with a wood-fired oven and a menu that mixes Vietnamese with Mediterranean — wood-fired pizza, fresh pasta, grilled local fish, and a respectable wine list. Prices are higher than the surrounding shoebox places but the cooking is genuinely good and the service is attentive.

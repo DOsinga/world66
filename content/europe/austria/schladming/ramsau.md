@@ -7,6 +7,7 @@ tags:
   - sight
 title: Ramsau am Dachstein
 type: poi
+score: 8.1
 ---
 
 Ramsau am Dachstein sits on a high plateau above Schladming, at about 1,100 metres, with spectacular views of the Dachstein massif from across the valley. It is the base station for the cable car to the Dachstein Glacier and one of Austria's best cross-country skiing centres — the plateau's flat terrain and reliable snow conditions make it ideal for classic and skate skiing, and the course network is extensive.

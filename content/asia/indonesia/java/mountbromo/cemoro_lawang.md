@@ -7,6 +7,7 @@ tags:
 latitude: -7.9228
 longitude: 112.9644
 snippet: The small village perched on the Tengger caldera rim, the base for exploring Bromo
+score: 7.2
 ---
 
 Cemoro Lawang is the village most visitors use as a base for Bromo — a small settlement of homestays, guesthouses, warung food stalls, and jeep operators, sitting directly on the rim of the Tengger caldera at 2,217 metres. The view from the village edge straight down into the caldera, with Bromo steaming across the flat grey sand, is available free of charge at any hour. Most visitors arrive in the afternoon and leave the morning after the sunrise jeep tour.

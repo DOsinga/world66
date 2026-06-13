@@ -9,6 +9,7 @@ tags:
 latitude: -18.1786
 longitude: -63.8175
 snippet: Mountain town and UNESCO pre-Inca ceremonial rock
+score: 7.8
 ---
 
 Samaipata is a small town in the foothills of the Andes, a three-hour drive from Santa Cruz on the old road to Cochabamba. It sits at 1,650 metres — cool, green, and a complete change of climate from the lowland heat of Santa Cruz — and has become a long-stay favourite for European travellers, with good cafes, hostels, and a relaxed pace.

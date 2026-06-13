@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.481
 longitude: -44.258
+score: 6.8
 ---
 
 Calhau is the most popular beach in São Luís, a long arc of sand on the northern coast of the island, backed by a strip of beach bars, kiosks, and restaurants. The waves here can be strong — the beach faces the open Atlantic — and it can get crowded on weekends, but the atmosphere is lively and the seafood fresh.

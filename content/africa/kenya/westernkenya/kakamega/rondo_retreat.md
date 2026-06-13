@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A heritage Anglican mission cabin deep in the forest, now a guesthouse
+score: 6.4
 ---
 
 Rondo Retreat is a former Anglican mission compound in a clearing on the southern side of the Kakamega Forest, now operated as a guesthouse. The original buildings — clapboard cottages with corrugated iron roofs, a small chapel, and a manicured garden between them — were put up by Church Missionary Society staff in the 1940s and have changed remarkably little since. The result is a peculiarly Kenyan colonial idyll set in the middle of one of the country's most important rainforests.

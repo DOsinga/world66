@@ -8,6 +8,7 @@ latitude: 49.6972
 longitude: 4.9464
 sources:
   - https://en.wikipedia.org/wiki/Jardin_botanique_de_Sedan
+score: 5.8
 ---
 
 Sedan's botanical garden is a peaceful escape from the castle's heavy history — an elegant green space laid out in 1875 on the site of a demolished Bourbon bastion. The garden is free to enter and open daily, making it an obvious stop for a picnic or a quiet hour between sights.

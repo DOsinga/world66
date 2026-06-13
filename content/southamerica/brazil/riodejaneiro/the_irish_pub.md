@@ -9,6 +9,7 @@ tags:
 - bar
 title: The Irish Pub
 type: poi
+score: 3.6
 ---
 
 Just around the corner from Shenanigan's but smaller and cosier, with a more authentic feel. Serves a proper Irish breakfast alongside other food. Sports matches on TV. Open daily from noon (Saturdays and Mondays from 2 pm).

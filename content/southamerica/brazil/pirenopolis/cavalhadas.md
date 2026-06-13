@@ -9,6 +9,7 @@ latitude: -15.8509
 longitude: -49.0299
 story: >
   The Cavalhadas came to Pirenópolis in 1819, introduced by a Portuguese priest who had seen similar celebrations in his homeland. The festival has been performed annually ever since, surviving wars, droughts, and economic crises. The costumes — elaborately embroidered tunics, painted masks, and plumed helmets — are often passed down through families and can be worth thousands of reais. Performing as a Moor or a Christian is considered a great honour and a religious duty.
+score: 8.9
 ---
 
 The Cavalhadas are the centrepiece of Pirenópolis's Festa do Divino Espírito Santo, held 50 days after Easter each year. The spectacle re-enacts the legendary battles between Christian knights and Moorish forces, played out on horseback over three days in the town's purpose-built arena. The riders wear extraordinary medieval costumes — the Christians in blue and gold, the Moors in red and black — and perform choreographed charges, battles, and ritual surrenders to an audience that crowds the stands.

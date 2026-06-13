@@ -8,6 +8,7 @@ latitude: 28.6639
 longitude: 84.0175
 sources:
   - https://en.wikipedia.org/wiki/Gangapurna_Lake
+score: 7.5
 ---
 
 Gangapurna Lake (3,540m) is a glacial lake at the foot of the Gangapurna glacier, a one-hour walk above Manang on the Annapurna Circuit. The lake's colour changes through the day from milky turquoise to deep green depending on the light, fed by glacial melt from the ice face above. It is the classic acclimatisation walk from Manang — easy enough to do in the morning before the afternoon winds pick up, and high enough to give a useful altitude boost before the next day's climb.

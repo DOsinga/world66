@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - cemetery
+score: 7.2
 ---
 
 The Old Protestant Cemetery on Northam Road is a small walled garden of weathered tombstones and frangipani trees that holds the graves of many of Penang's British and European founders. Captain Francis Light, the East India Company captain who claimed the island in 1786, is buried here under a simple stone (he died of malaria in 1794). His Eurasian widow Martina Rozells, the founder of the local Eurasian community, lies nearby.

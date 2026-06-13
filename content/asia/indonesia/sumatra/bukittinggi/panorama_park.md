@@ -6,6 +6,7 @@ longitude: 100.3683
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The park on the southern rim of the Sianok canyon is the best free viewpoint in town, with a balcony hanging over the gorge and benches under the trees. Monkeys hang around looking for snacks — keep your bag closed. The park is also the surface entrance to the Lobang Jepang tunnel system.

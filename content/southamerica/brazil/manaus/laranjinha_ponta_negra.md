@@ -9,6 +9,7 @@ tags:
 latitude: -3.0905
 longitude: -60.0975
 address: Ponta Negra boardwalk, Manaus
+score: 5.7
 ---
 
 Laranjinha sits on the Ponta Negra boardwalk with tables out under palm trees facing the Rio Negro. It is one of the best-known of the kiosks along the beach: cold beer, fried fish, prawns with garlic, and a rotating list of caipirinhas made with Amazonian fruits — taperebá, cupuaçu, abacaxi com hortelã.

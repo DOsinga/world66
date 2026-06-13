@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 11.2535
 longitude: -85.8700
+score: 6.5
 ---
 
 The small covered market a couple of blocks from the waterfront is where local families shop and where the cheapest, most authentic food in town is found. Half a dozen simple comedores — family-run lunch counters — serve rice and beans, grilled chicken, beef stew, and the local version of *vigorón* (yuca with pork skin and a cabbage salad) for a fraction of waterfront prices.

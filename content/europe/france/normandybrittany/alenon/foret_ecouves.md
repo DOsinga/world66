@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.5100
 longitude: 0.0800
+score: 6.4
 ---
 
 The Forest of Écouves, about 10km north of Alençon, is the largest forest in Normandy and home to the Signal d'Écouves — at 417 metres, the highest point in western France. The forest covers some 15,000 hectares of ancient woodland: oak, beech, pine, and spruce stretching across the hills of the Perche Normand.

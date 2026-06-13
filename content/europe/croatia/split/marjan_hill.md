@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.5090
 longitude: 16.4100
+score: 8.1
 ---
 
 The forested peninsula that rises behind the old town, Marjan Hill is Split's green lung and the place where locals go to escape the summer crowds. A protected nature park with walking and cycling trails through pine and holm oak forest, it offers several viewpoints over the city, the harbour, and the string of islands — Brač, Šolta, Hvar — visible to the south.

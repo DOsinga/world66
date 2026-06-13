@@ -7,6 +7,7 @@ tags:
 latitude: 6.3406
 longitude: 5.6227
 snippet: Central open-air market at Ring Road, the main commercial hub of Benin City
+score: 7.1
 ---
 
 Oba Market at Ring Road is Benin City's central marketplace — a large, chaotic, and thoroughly alive open-air market where you can find almost anything. Produce, textiles, phone accessories, building materials, traditional medicine, and cooked food all have their sections. The market reflects the commercial energy of a city that has been a trading hub for centuries.

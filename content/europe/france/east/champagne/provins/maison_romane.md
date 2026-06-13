@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 7.2
 ---
 
 A small but well-curated museum of Provins history housed in one of the rare Romanesque-era houses still standing in France. The building itself is one of the oldest in the upper town, dating to the late 12th century, and was originally the home of a wealthy merchant.

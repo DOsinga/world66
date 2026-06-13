@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.5484
 longitude: 13.7297
+score: 7.0
 ---
 
 The Loggia Palace is a 15th-century Venetian Gothic building on the east side of Titov Trg, built in 1462. Its name comes from the open loggia that forms its ground floor — a series of pointed Gothic arches that once sheltered the public life of the square: merchants trading, officials holding court, citizens gathering in the shade. The design is clearly modelled on the Ducal Palace in Venice, filtered through local Istrian stone.

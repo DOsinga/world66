@@ -6,6 +6,7 @@ tags:
 - sight
 title: The Green Planet
 type: poi
+score: 5.8
 ---
 
 The Green Planet is a climate-controlled biodome in City Walk, housing a four-storey indoor tropical rainforest ecosystem with over 3,000 plants and 500 animals. At its centre is a 25-metre artificial tree that forms the structural spine of the ecosystem and houses nocturnal species on its upper levels, accessible by walkways that spiral around the trunk.

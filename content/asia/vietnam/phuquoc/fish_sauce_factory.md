@@ -8,6 +8,7 @@ title: Phu Quoc Fish Sauce Factories
 type: poi
 story: >
   Phu Quoc fish sauce has a Protected Designation of Origin from the European Union — the first Vietnamese product to achieve this, granted in 2012. The PDO means that fish sauce labelled "Phu Quoc" must be produced on the island using the traditional method of layering anchovies with sea salt in large wooden vats and leaving them to ferment for 12 to 15 months.
+score: 7.5
 ---
 
 The fish sauce factories clustered north of Duong Dong town are among the most distinctive and olfactorily memorable sights on the island. Phu Quoc produces some of the finest nuoc mam in Vietnam, made from a species of anchovy (ca com) that schools densely in the surrounding Gulf of Thailand waters. The traditional process involves stacking anchovies and sea salt in enormous wooden barrels — some three to four metres in diameter — and allowing the natural fermentation to proceed for over a year.

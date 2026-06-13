@@ -9,6 +9,7 @@ longitude: -120.6625
 address: 1 Grand Avenue, San Luis Obispo, CA 93407
 admission: Free (open campus)
 url: calpoly.edu
+score: 5.5
 ---
 
 California Polytechnic State University occupies a large campus in the hills north of downtown, about a mile from Higuera Street. The architecture is mostly mid-century California utilitarian — nothing to write home about — but the campus is open, walkable, and set against a backdrop of golden hills that looks definitively Californian.

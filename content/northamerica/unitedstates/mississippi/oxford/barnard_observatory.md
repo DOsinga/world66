@@ -6,6 +6,7 @@ longitude: -89.5344
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Barnard Observatory is an 1859 brick building on the Circle at Ole Miss that originally housed what was intended to be the largest astronomical telescope in the world — a 19-inch refractor ordered from Alvan Clark in 1859. The telescope was on the ship from Boston to New Orleans when the Civil War broke out; it was diverted to Chicago and eventually installed at Northwestern. The observatory dome at Barnard remained empty.

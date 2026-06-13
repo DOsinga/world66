@@ -6,6 +6,7 @@ longitude: 35.7440
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 The square at the centre of Dodoma is named for Julius Nyerere, the founding president whose decision in 1973 to move the capital here from Dar es Salaam shaped the modern city. It is an unfussy place — a paved open area with a few trees, a flagpole, and a statue — but it serves as Dodoma's ceremonial heart on national holidays.

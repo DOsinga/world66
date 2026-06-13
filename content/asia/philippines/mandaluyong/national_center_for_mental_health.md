@@ -14,6 +14,7 @@ story: >
   was converted to psychiatric use. The sprawling, campus-like layout — unusual for a
   hospital — is a legacy of that colonial-era planning, which assumed long-term residency
   rather than short treatment stays.
+score: 6.3
 ---
 
 The National Center for Mental Health occupies 47 hectares in Welfareville, Mandaluyong — a surprisingly green, campus-like setting at odds with the dense urban fabric around it. The complex is the country's largest psychiatric institution, housing over 4,000 patients, and its history stretches back to the American colonial period.

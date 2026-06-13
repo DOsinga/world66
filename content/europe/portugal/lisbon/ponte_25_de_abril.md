@@ -14,6 +14,7 @@ story: >
   was renamed in its honour. The red suspension structure, designed by the same
   company that built San Francisco's Golden Gate, is visible from across the city
   and is considered almost as emblematic of Lisbon as the Eiffel Tower is of Paris.
+score: 6.9
 ---
 
 The great red suspension bridge crossing the Tagus estuary, completed in 1966 and immediately compared to the Golden Gate — the same engineering company (American Bridge) built both, and the resemblance is deliberate. The bridge carries road traffic on the upper deck and rail traffic added in 1999 on the lower.

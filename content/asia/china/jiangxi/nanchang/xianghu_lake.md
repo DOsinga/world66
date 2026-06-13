@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.6500
 longitude: 115.8300
+score: 6.2
 ---
 
 Xianghu Lake (象湖) is a natural lake in the southwestern part of Nanchang that has been developed into a scenic wetland park. The lake and surrounding reed beds support waterfowl year-round, with egrets, cormorants, and ducks visible most days. The surrounding park has walkways, pavilions, and lotus-viewing platforms that are crowded on summer mornings when the lotus flowers are at their peak.

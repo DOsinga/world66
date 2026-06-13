@@ -8,6 +8,7 @@ latitude: 38.2325
 longitude: -122.6399
 story: >
   The Carnegie Free Library opened in 1904, funded by a $12,500 grant from Andrew Carnegie — one of thousands of libraries he funded across the English-speaking world. Architect Brainerd Jones used it as his first major commission, and the building's neoclassical design became the template for several other North Bay libraries. It was decommissioned as an active lending library in the 1970s and converted to a research and history museum.
+score: 7.5
 ---
 
 The old Carnegie library building at 20 Fourth Street is one of Petaluma's most handsome pieces of architecture — a 1904 neoclassical pile in brick and stone with a fine reading room inside. It now operates as the Petaluma Historical Library and Museum, with collections covering the city's history from the Miwok period through the egg and butter empire of the 19th century to the present day.

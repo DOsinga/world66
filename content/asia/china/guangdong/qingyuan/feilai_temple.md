@@ -13,6 +13,7 @@ story: >
   That story attaches to several dramatically sited buildings in southern China,
   but Feilai's situation, with its foundations apparently merging with the rock
   face, makes the origin myth unusually believable.
+score: 8.6
 ---
 
 Feilai Temple clings to a limestone cliff about fifteen kilometres north of the city centre, overlooking a bend in the Bei River where the gorge narrows. The temple dates from the sixth century, making it one of the oldest continuously occupied religious sites in Guangdong. Several dynasties have repaired and extended it, and the result is a layered complex of halls, pavilions, and shrines stepping up the cliff face rather than spreading across flat ground.

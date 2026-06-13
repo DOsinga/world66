@@ -7,6 +7,7 @@ tags:
 latitude: 41.2335
 longitude: 1.8150
 snippet: The long palm-lined seafront promenade
+score: 7.2
 ---
 
 The Passeig Marítim runs for nearly three kilometres along the Sitges seafront, from the Sant Bartomeu headland south to the Aiguadolç marina, lined with palms, benches, and a near-continuous row of bars, restaurants, and ice-cream parlours. It is the spine of the town: by day a route between the various beaches, by evening a place to walk before dinner.

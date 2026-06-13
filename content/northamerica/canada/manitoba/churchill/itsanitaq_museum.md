@@ -14,6 +14,7 @@ story: >
   Many of the oldest pieces — from Pre-Dorset cultures dating to 1700 BC —
   were purchased directly from Inuit hunters for nominal sums and would be
   irreplaceable today.
+score: 7.5
 ---
 
 The Itsanitaq Museum (formerly the Eskimo Museum) holds one of the finest collections of Inuit art and artefacts in the world, assembled continuously since 1944. The collection spans Pre-Dorset carvings from 1700 BC through to contemporary works, covering tools, clothing, ceremonial objects, and carvings in ivory, bone, and soapstone. This is serious material, thoughtfully displayed — not a souvenir shop but a genuine museum with scholarly depth.

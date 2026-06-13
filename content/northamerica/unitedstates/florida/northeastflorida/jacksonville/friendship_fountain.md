@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3200
 longitude: -81.6598
+score: 6.2
 ---
 
 Friendship Fountain, on the Southbank Riverwalk near the Main Street Bridge, is one of the largest self-contained fountain systems in the United States — it can project water up to 18 metres in the air. Built in 1965 and renovated in 2017, it is illuminated at night and is one of the more reliably photogenic spots on the river.

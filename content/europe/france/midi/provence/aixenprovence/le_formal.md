@@ -8,6 +8,7 @@ address: "32 Rue Espariat, 13100 Aix-en-Provence"
 latitude: 43.5278
 longitude: 5.4467
 snippet: Vaulted-cellar restaurant doing modern Provencal at a fair price
+score: 5.9
 ---
 
 Le Formal is set into a barrel-vaulted seventeenth-century cellar a few steps off the Cours Mirabeau. Chef Jean-Luc Le Formal turns out a fixed-price menu of modern Provencal cooking — pigeon with figs, sea bream with fennel, chocolate desserts that are taken very seriously — and the service is friendly without being fussy.

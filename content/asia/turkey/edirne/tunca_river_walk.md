@@ -6,6 +6,7 @@ longitude: 26.5420
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Tunca river loops around the north and west of Edirne's old city, and the walk along its banks connects several of the city's major monuments in a sequence that makes the geography of Ottoman Edirne legible. Following the path north from the old city takes you past the Beyazit II complex, then out along the river toward the island where the New Palace once stood. The route passes through willow-shaded meadows and over Ottoman-era stone bridges, with the domes and minarets of the city visible across the water.

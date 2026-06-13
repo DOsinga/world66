@@ -9,6 +9,7 @@ tags:
   - museum
   - odunpazari
 neighbourhood: Odunpazarı
+score: 5.4
 ---
 
 A small, slightly idiosyncratic museum filled with mechanical typewriters collected by the journalist Tayfun Talipoğlu — Underwoods, Olivettis, Remingtons, a magnificent old Cyrillic machine, and several Turkish-script typewriters from the early republic when the alphabet was changed almost overnight in 1928. Each one comes with a card identifying its model and approximate date.

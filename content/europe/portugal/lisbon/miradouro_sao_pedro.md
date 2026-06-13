@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - bairro_alto
+score: 7.6
 ---
 
 The best viewpoint in Bairro Alto, a terraced garden on the edge of the hillside with a long view east across the lower city to the Castelo de São Jorge and the Alfama. A tiled map of the view, installed on a wall, names the key landmarks visible from the terrace — useful for orientation.

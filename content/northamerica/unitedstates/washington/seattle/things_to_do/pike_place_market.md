@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Pike_Place_Market
+score: 9.4
 ---
 
 Opened in 1907, Pike Place is one of the oldest continuously operating public farmers' markets in the United States, and it genuinely earns the crowds. Come early — by 8am the flower stalls are stacked ceiling-high with dahlias and peonies, the fishmongers at Pike Place Fish Market are warming up for the theatrical whole-salmon throws, and the bakers have been working for hours. The market sprawls across a bluff above Elliott Bay through a warren of lower levels and side arcades, with antique dealers, craft stalls, and small restaurants tucked into every corner.

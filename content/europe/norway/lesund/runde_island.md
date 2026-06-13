@@ -11,6 +11,7 @@ story: >
   In the summer of 1725, a Dutch merchant ship called the Akerendam sank off Runde during a storm. The wreck was located in the 1970s and yielded around 33,000 gold and silver coins — one of the most significant shipwreck discoveries in Norwegian waters. Divers still find occasional coins on the seabed nearby.
 sources:
   - https://en.wikipedia.org/wiki/Runde
+score: 8.1
 ---
 
 Runde is Norway's southernmost seabird cliff and one of the country's most important breeding sites. Between April and August, roughly 700,000 birds nest on the island's western cliffs: Atlantic puffins, gannets, guillemots, razorbills, kittiwakes, and storm petrels are all present in numbers that make visiting feel spectacular even to non-birdwatchers.

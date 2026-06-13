@@ -13,6 +13,7 @@ story: >
   unusual hybrid identity: the architecture is grand 19th-century, but inside
   the rite is older and stranger. The eparchy was only formally established in
   1912, making it one of the youngest dioceses in Central Europe.
+score: 6.5
 ---
 
 The bulky Greek Catholic cathedral on **Kossuth tér** is the most prominent building in the centre of Nyíregyháza, and the seat of the Hungarian Greek Catholic Church. The exterior is imposing rather than beautiful — a late 19th-century pile in a vaguely Byzantine style. Inside, it is richer: the iconostasis and liturgical furnishings reflect the Eastern rite that distinguishes this church from both Roman Catholicism and the Orthodox tradition.

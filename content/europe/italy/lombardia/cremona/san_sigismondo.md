@@ -11,6 +11,7 @@ story: >
   The church was built to mark the marriage of Francesco Sforza and Bianca Maria Visconti in 1441, which united the two great ducal families of Milan. The marriage took place at this spot, and the church was commissioned as a votive offering shortly afterward. The frescoes inside, painted from the mid-16th century onward, include work by Giulio Campi and other members of the Campi family who dominated Cremonese painting in that period.
 sources:
   - https://en.wikipedia.org/wiki/San_Sigismondo,_Cremona
+score: 8.2
 ---
 
 San Sigismondo is a Renaissance church about 2.5 km east of Cremona's centre, built in the 15th century and decorated with an extraordinary cycle of Mannerist frescoes in the 16th century. The exterior is relatively plain and the setting — on a suburban road — gives no hint of what's inside. The interior is entirely frescoed from floor to ceiling, a dense and luxuriant programme that covers every surface in scenes from the life of the Virgin, the life of Christ, and allegorical compositions.

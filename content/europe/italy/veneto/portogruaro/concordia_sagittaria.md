@@ -15,6 +15,7 @@ story: >
   "sagittaria" (of the arrows).
 sources:
   - https://en.wikipedia.org/wiki/Concordia_Sagittaria
+score: 8.2
 ---
 
 Three kilometres south of Portogruaro, the village of Concordia Sagittaria sits on the buried remains of the Roman colony of Iulia Concordia. The ruins are not as visually dramatic as Aquileia further east, but they are quietly impressive — and almost always empty.

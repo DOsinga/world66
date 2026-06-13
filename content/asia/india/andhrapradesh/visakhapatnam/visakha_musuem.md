@@ -8,6 +8,7 @@ tags:
 - museum
 title: Visakha Museum
 type: poi
+score: 7.0
 ---
 
 A municipal museum on Beach Road that traces the history of Visakhapatnam from its days as a trading port through the British Raj and into the modern era. The original building houses artifacts from the colonial period -- furniture, photographs, coins, and documents -- alongside pieces from the region's earlier kingdoms.

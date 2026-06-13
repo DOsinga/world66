@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.5
 ---
 
 Steep Hill is exactly what its name promises: a cobbled, pedestrianised street climbing the limestone cliff between the lower city and the cathedral quarter, with a 1-in-7 gradient over its lower half. Halfway up, a Victorian handrail offers welcome support for the climb back down; the locals nicknamed it the "puffin rail" for the noise the climbers make grasping for it.

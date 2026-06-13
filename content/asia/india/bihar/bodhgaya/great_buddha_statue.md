@@ -11,6 +11,7 @@ story: >
   over a decade to complete. It was consecrated by the Dalai Lama on 18 November 1989 — deliberately
   timed to coincide with the enthronement of the new king of Bhutan, symbolising Buddhist solidarity
   across national boundaries.
+score: 6.9
 ---
 
 The Great Buddha Statue is a 25-metre (80-foot) sandstone figure of the seated Buddha in meditation, located just west of the Mahabodhi Temple. It was inaugurated by the Dalai Lama in 1989 and remains one of the largest Buddha statues in India. The figure sits on a lotus pedestal and is flanked by ten smaller statues — a serene and photogenic ensemble that draws pilgrims and visitors equally.

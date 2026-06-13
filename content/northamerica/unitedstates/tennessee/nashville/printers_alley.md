@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - downtown
 story: "Printers Alley was the centre of Nashville's printing and publishing trade in the late 19th century; by the 1940s the printers had moved out and the alley became a Prohibition-era speakeasy district. Country royalty drank here: Hank Williams, Webb Pierce, Boots Randolph, Floyd Cramer. The narrow gas-lit lane survives largely as it was."
+score: 6.2
 ---
 
 Printers Alley is a narrow cobblestoned alley running between Church and Union Streets, one block north of Lower Broadway. The lane was the centre of the city's printing industry in the late 1800s and then, through Prohibition, the centre of its illegal bar scene; today it is a small constellation of nightclubs, jazz venues, and the historic **Skull's Rainbow Room** — a 1948 jazz and cabaret club restored after a fire in the 1990s.

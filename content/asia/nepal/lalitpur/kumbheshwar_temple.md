@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kumbheshwar Temple
 type: poi
+score: 7.9
 ---
 
 Two hundred metres north of Durbar Square, the five-tiered Kumbheshwar is one of only two pagoda temples in Nepal of that height — the other is Nyatapola in Bhaktapur. Founded in 1392, it is the oldest temple in Patan still standing. The shrine is dedicated to Shiva, and the small natural spring in its courtyard is said to flow directly from the sacred lake at Gosainkund, hundreds of kilometres to the north.

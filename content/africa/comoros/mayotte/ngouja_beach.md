@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -12.9832
 longitude: 45.0619
+score: 8.8
 ---
 
 The beach at N'Gouja, at the southern tip of Grande-Terre, is Mayotte's most famous stretch of sand — and with good reason. Sea turtles nest here from September to February, emerging from the sea at night to lay eggs and returning later with their hatchlings. During the whale season (July to October), boat trips from N'Gouja take swimmers into the lagoon alongside humpback whale mothers and calves.

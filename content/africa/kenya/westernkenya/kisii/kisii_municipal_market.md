@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.7
 ---
 
 The covered municipal market just off the main road through town is one of the largest in western Kenya and an excellent place to get a feel for the agricultural wealth of the Gusii Highlands. Stalls heap with bananas of half a dozen varieties, avocados the size of a small melon, tea, pyrethrum, cabbages, sukuma wiki, finger millet and the local sour milk called amabere.

@@ -7,6 +7,7 @@ tags:
 latitude: 22.3376
 longitude: 91.8379
 snippet: Centuries-old tank in the heart of the old city
+score: 7.4
 ---
 
 Laldighi ("Red Tank") is a square reservoir dating to the Mughal era at the heart of Chittagong's old commercial quarter. The four sides of the tank are lined with steps where locals come to bathe, fish or sit in the evenings, and the surrounding bazaars of Anderkilla and Riazuddin Bazar form one of the busiest markets in the city.

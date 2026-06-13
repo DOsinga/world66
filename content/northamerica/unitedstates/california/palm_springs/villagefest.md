@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8225
 longitude: -116.5465
+score: 6.8
 ---
 
 Every Thursday evening from October through May, Palm Canyon Drive is closed to traffic from Amado to Baristo and transformed into an outdoor street market. VillageFest has been running since 1991 and is one of the better farmers' and craft markets in southern California — genuinely local produce, decent street food, and a mix of artists and artisans alongside the produce stalls.

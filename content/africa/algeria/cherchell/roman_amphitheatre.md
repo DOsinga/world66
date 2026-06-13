@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Caesarea_in_Mauretania
+score: 6.8
 ---
 
 The remains of Caesarea's amphitheatre, where gladiatorial games and public spectacles once drew crowds from across the province. Less well preserved than the theatre, but the oval footprint of the arena is still visible, and the scale gives a sense of how significant this city was in the Roman world.

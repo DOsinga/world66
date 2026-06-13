@@ -9,6 +9,7 @@ tags:
 story: Jeffers hauled granite boulders from the cove below to build Tor House starting in 1918, learning masonry by working alongside the contractor and then continuing alone. He embedded objects from around the world into the walls — a stone from the Great Wall of China, lava from Hawaii, a piece of the Great Pyramid — creating a kind of geological autobiography in the structure itself.
 title: Tor House and Hawk Tower
 type: poi
+score: 8.5
 ---
 
 Robinson Jeffers built this granite cottage on Carmel Point by hand in 1918, learning masonry from the contractor who built the main house and then continuing the work himself over the following decades. The adjacent Hawk Tower, four stories of rough stone with a secret staircase inside the walls, was built as a retreat for his wife Una. The two structures sit above a rocky cove with an unobstructed view of Point Lobos and the Pacific — the landscape that shaped Jeffers's dark, prophetic poetry and to which he remained devoted his entire adult life.

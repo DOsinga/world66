@@ -7,6 +7,7 @@ tags:
 latitude: 50.4921
 longitude: 5.8637
 snippet: "Annual summer music festival celebrating French-language pop and rock, held every July"
+score: 7.8
 ---
 
 The Francofolies de Spa is a major annual music festival held every July in the town, celebrating French-language music from across the world — Belgian, French, Canadian Québécois, African, and other Francophone artists all appear. It runs for several days and attracts international acts alongside emerging artists.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 Baku's main railway station, designed in 1882 in a so-called "Caucasian-Moorish" style and substantially rebuilt in 1977 and again in 2009, is a peach-and-cream confection of horseshoe arches and decorative brickwork. The most interesting space is the original ticket hall, with its blue and white tile and high domed ceiling.

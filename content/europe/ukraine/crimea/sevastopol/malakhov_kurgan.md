@@ -9,6 +9,7 @@ latitude: 44.605
 longitude: 33.548
 story: >
   The fall of Malakhov Kurgan on 8 September 1855 effectively ended the Siege of Sevastopol. The French had been repulsed twice before. On the third assault they had inside intelligence about the guard change timing and timed their attack to the exact minute. Within hours Sevastopol was being evacuated.
+score: 8.0
 ---
 
 Malakhov Kurgan is a strategic height in the southeastern part of Sevastopol that was the decisive battleground of the Crimean War Siege of Sevastopol (1854–55). The hill was the cornerstone of the Russian defences, and its capture by French forces in September 1855 triggered the Russian evacuation and ended the siege. Today it is a memorial park containing bastions, earthworks, and monuments from both the Crimean War and World War II.

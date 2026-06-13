@@ -13,6 +13,7 @@ story: >
   numbers of troops. The museum, housed in a former USO club that served Black soldiers 
   (they were barred from the white USO), documents this history with particular focus on 
   the men who trained here in Mississippi and went on to fight in Europe and the Pacific.
+score: 7.8
 ---
 
 The African American Military History Museum occupies a 1942 building on Mobile Street that was originally constructed as a United Service Organizations (USO) club specifically for Black servicemen — segregation applied to military recreation as firmly as to everything else in wartime Mississippi. The museum documents the service of African Americans in the US military from the Civil War through contemporary conflicts.

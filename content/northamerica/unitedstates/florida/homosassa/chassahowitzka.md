@@ -8,6 +8,7 @@ tags:
 latitude: 28.7172
 longitude: -82.5814
 story: "Locals call the most-visited side-spring The Crack — a narrow vertical fissure in the limestone that you can swim into for about ten metres before the cave closes around your shoulders. The water inside is 22 °C year-round and so clear it feels like swimming through air."
+score: 8.3
 ---
 
 The Chassahowitzka River drains a vast complex of springs about fifteen minutes south of Homosassa. Most of the river runs through a national wildlife refuge of saw-grass, cypress and mangrove. There are no roads in — only kayaks and small motorboats from the county campground at the river mouth.

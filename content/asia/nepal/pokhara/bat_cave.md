@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A small cave on the north edge of town inhabited by a horseshoe-bat colony
+score: 6.3
 ---
 
 A short, tight limestone cave a few minutes' walk from [Mahendra Cave](/asia/nepal/pokhara/mahendra_cave), with a resident colony of horseshoe bats hanging from the upper galleries. The cave is just 150 metres long and not for the claustrophobic — the exit is a tiny squeeze hole halfway along that you can take instead of returning the way you came in.

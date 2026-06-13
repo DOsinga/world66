@@ -6,6 +6,7 @@ longitude: 171.23972
 snippet: "Pronounced 'egg-and-tie' — a Gaelic name for a gallery much better than you'd expect"
 tags: [things_to_do, museum]
 story: "The name is Gaelic for 'at home', and the original 1908 homestead was built by a Scottish settler family. The gallery has grown considerably since then, with a modern extension housing a collection that includes significant New Zealand and international works. People who stumble in without expectations tend to come out pleasantly stunned."
+score: 7.7
 ---
 
 Aigantighe (pronounced "egg-and-tie") is one of those regional galleries that quietly punches well above its weight. The original building is a 1908 homestead, handsome and domestic in scale, which gives the collection an unusually relaxed atmosphere — art hung in rooms that feel lived-in rather than institutional. A modern extension provides more conventional gallery space for larger works and temporary exhibitions.

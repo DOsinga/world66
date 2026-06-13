@@ -11,6 +11,7 @@ story: >
   Sicily. What you see in the piazza today was largely built in the aftermath: the entire
   town centre is a concentrated example of Sicilian Baroque rebuilt in a single generation.
   Catania, an hour south, got the same treatment; Acireale got it with far fewer tourists.
+score: 8.4
 ---
 
 The heart of Acireale is one of Sicily's finest Baroque piazzas, flanked on three sides by the cathedral, the Basilica dei Santi Pietro e Paolo, and the Palazzo della Città. Each building is a study in the ornate, almost theatrical stonework that characterises the Sicilian Baroque style that emerged after the great earthquake of 1693 destroyed the earlier town.

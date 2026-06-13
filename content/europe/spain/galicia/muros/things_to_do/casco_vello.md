@@ -9,6 +9,7 @@ latitude: 42.7744
 longitude: -9.0573
 story: >
   Muros was one of the wealthiest fishing towns on the Galician coast in the 18th century, when its fleet dominated the sardine trade. The arcaded streets — the soportales that run along the main thoroughfare — were built to let the fish merchants and their customers trade out of the rain. The wealth is long gone; the arcades remain.
+score: 8.4
 ---
 
 Muros has one of the most attractive old quarters on the Ría de Muros e Noia — a compact tangle of narrow lanes and granite-pillared arcades running behind the waterfront. The houses are the typical Galician style: grey stone, low ceilings, iron balconies, and an overall quality of having been built to last in a wet climate. They were.

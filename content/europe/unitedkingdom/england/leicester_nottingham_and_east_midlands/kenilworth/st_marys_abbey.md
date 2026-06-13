@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, ruins]
 latitude: 52.34855
 longitude: -1.58338
+score: 7.0
 ---
 
 The Augustinian priory founded in 1119 by Geoffrey de Clinton — the same lord who built Kenilworth Castle — once owned much of the surrounding land. After the Dissolution it was systematically dismantled, and what remains is a low ground-plan in the grass of Abbey Fields, plus a fragment of the gatehouse standing alone.

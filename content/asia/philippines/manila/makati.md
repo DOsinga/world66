@@ -7,6 +7,7 @@ tags:
 latitude: 14.5547
 longitude: 121.0244
 snippet: Manila's financial and business district — the city's most polished neighbourhood
+score: 7.5
 ---
 
 Makati is where Manila puts on its best suit. The central business district of Ayala Avenue and its surroundings contains the largest concentration of gleaming office towers and international hotels in the Philippines, along with some of the best restaurants in the country. The Greenbelt mall complex — a series of open-air and covered malls around a park with a chapel — is one of the better shopping environments in Southeast Asia, with good food options alongside the retail.

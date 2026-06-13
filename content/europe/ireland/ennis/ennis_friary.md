@@ -7,6 +7,7 @@ address: "Abbey Street, Ennis"
 latitude: 52.8460
 longitude: -8.9814
 story: "The friary's 15th-century 'McMahon Tomb' bears one of the finest sequences of carved stone panels in Ireland — the Passion of Christ shown in deep relief, from Christ before Pilate to the Resurrection. The faces are sharp enough that you can read the expressions five centuries on."
+score: 8.6
 ---
 
 The Franciscan friary of Ennis was founded around 1240 by the O'Brien kings of Thomond, and the surviving ruins remain the most important medieval monument in the town. The friary's church, slender bell tower, and cloister stand a short walk east of the town square, on the bank of the River Fergus.

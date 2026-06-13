@@ -15,6 +15,7 @@ story: >
   volume and the mist can be felt far down the valley trail.
 sources:
   - https://en.wikipedia.org/wiki/Biryong_Falls
+score: 7.4
 ---
 
 Biryong Falls drops about 20 metres over a granite face in the Cheonbuldong valley, one of the most scenic hiking corridors in Seoraksan. The trail from Seorakdong to Biryong takes about 45 minutes along a broad valley path, passing the smaller Yukdam Falls along the way. The waterfalls are linked by the same trail, which continues up to the much larger Towangseong Waterfall above.

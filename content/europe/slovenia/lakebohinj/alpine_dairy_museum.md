@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Single-room museum of high-pasture cheesemaking in Stara Fuzina
+score: 6.2
 ---
 
 A tiny but worthwhile museum in the centre of Stara Fuzina, housed in a 19th-century stone dairy. The Bohinj valley was a centre of high-altitude cheesemaking for centuries — cows were driven up onto the mountain pastures in late spring, milked twice daily, and the milk turned into hard mountain cheese by herders who lived in stone shelters until the snow came back. The museum lays out the wooden vats, the press blocks, the rakes and pails, and explains the system clearly in Slovene and English.

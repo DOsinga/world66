@@ -8,6 +8,7 @@ tags:
 - sight
 - market
 snippet: "Working port, fishing boats, and the busiest market on the atoll"
+score: 7.6
 ---
 
 The port at Betio is the commercial and human centre of Kiribati: container ships from Fiji and Australia tie up at the wharf, inter-island vessels load and unload supplies for the outer islands, and a fleet of small fishing boats comes in each morning with reef fish, tuna, and lobster. The market next to the port is the liveliest spot on the atoll — pandanus baskets of fish, taro, breadfruit, imported rice, and clothes from China — and a good place to get a sense of how the country actually feeds itself.

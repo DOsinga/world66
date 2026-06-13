@@ -6,6 +6,7 @@ longitude: -6.7733
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Waterstein Head is the high sea cliff immediately north of Neist Point, rising 296 metres straight from the Minch. It is the second highest sea cliff on Skye after Biod an Athair, and one of the highest on the British west coast.

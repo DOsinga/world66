@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Ses Salinas
 type: poi
+score: 8.7
 ---
 
 Ses Salinas is arguably the most iconic beach on Ibiza. A broad, white-sand stretch at the island's southern tip, it draws a reliably glamorous crowd — models, DJs, people who look like they haven't slept in days and don't care. Five beach bars line the sand, each with its own soundtrack and vibe.

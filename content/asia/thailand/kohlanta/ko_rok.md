@@ -8,6 +8,7 @@ latitude: 7.2356
 longitude: 99.0495
 story: >
   Ko Rok Noi and Ko Rok Nai are twin islands connected by a shallow reef that you can walk across at low tide. The water between them is so clear that the coral is visible from the surface even at high tide — a concentration of hard and soft coral that rivals anything in the Similan Islands further north.
+score: 9.1
 ---
 
 The Ko Rok islands, about 25 km south of Ko Lanta, are the best snorkelling destination in the area — arguably among the best in the Andaman Sea. Two small islands enclose a lagoon of startlingly clear turquoise water over a pristine coral reef. Day trips run from Ko Lanta from November to April; the islands are off-limits to overnight stays, which keeps them largely undamaged.

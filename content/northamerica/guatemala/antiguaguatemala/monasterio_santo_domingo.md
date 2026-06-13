@@ -13,6 +13,7 @@ story: >
   1990s, archaeologists found intact colonial crypts beneath the rubble, with
   the remains of bishops, monks, and colonial-era officials still in place.
   The excavation is now open to visitors as an underground museum.
+score: 8.7
 ---
 
 The Monasterio de Santo Domingo, founded in 1542, was once the largest and wealthiest religious complex in Central America. The 1773 earthquakes reduced most of it to rubble, and the ruins were left largely undisturbed until the 1990s, when a luxury hotel was built within the restored compound. The result is an unusual combination: hotel guests sleep in what was once a convent, while paying visitors walk through the archaeological excavations and the attached museums.

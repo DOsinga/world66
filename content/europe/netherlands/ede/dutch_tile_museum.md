@@ -11,6 +11,7 @@ tags:
 title: Dutch Tile Museum
 type: poi
 url: www.nederlandstegelmuseum.nl
+score: 7.0
 ---
 
 In the village of Otterlo, just outside the main entrance to the Hoge Veluwe, this small specialist museum houses one of the largest collections of Dutch wall tiles in the world. Painted tiles were used for centuries in Dutch homes and farmhouses — around fireplaces, on kitchen walls, and as picture panels telling biblical, historical or everyday-life stories — and the collection covers everything from early polychrome work to the familiar blue-and-white delftware. Interesting for an hour, especially as an add-on to the Kröller-Müller Museum.

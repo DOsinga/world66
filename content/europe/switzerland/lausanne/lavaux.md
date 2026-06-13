@@ -14,6 +14,7 @@ tags:
   - sight
 title: Lavaux Vineyard Terraces
 type: poi
+score: 8.7
 ---
 
 The Lavaux UNESCO World Heritage vineyard terraces stretch for about 30 kilometres along the north shore of Lake Geneva between Lausanne and Montreux. Steep stone-walled terraces cut into the hillside hold the vines above the lake, and the views from the paths running between them — back over the water to the Alps of Savoie — are among the finest in French-speaking Switzerland.

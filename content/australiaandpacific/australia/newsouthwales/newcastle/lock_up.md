@@ -12,6 +12,7 @@ story: >
   At its peak in the 1950s and 1960s, the cells held those arrested in the working-class
   hotels along Hunter Street on Friday and Saturday nights — the coal and steel workforce
   that defined the city for a century. It is now a cultural centre dedicated to the arts.
+score: 7.4
 ---
 
 A Victorian-era stone building on Hunter Street that served as Newcastle's main police station and lock-up for over a century before being converted into a contemporary arts centre. The building's original cells, exercise yard, and charge room have been preserved as gallery spaces, creating an unusual setting for exhibitions and events. The current programming leans toward contemporary art, performance, and experimental work.

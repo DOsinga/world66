@@ -5,6 +5,7 @@ author: "Rebecca West"
 isbn: "978-0143104902"
 tags:
   - books
+score: 8.4
 ---
 
 Rebecca West's vast 1941 travel book on Yugoslavia remains the indispensable account of the region. The Kotor chapters, in the second volume, are an extraordinary piece of cultural reading — the bay, the cathedral, the relationship between the coastal towns and the inland tribes — written by someone who understood both the Mediterranean and Slavic strands of the place and refused to flatten either.

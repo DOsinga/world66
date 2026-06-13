@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -26.3200
 longitude: 31.1350
+score: 7.8
 ---
 
 Mbabane sits among the Dlangeni Hills at 1,200 metres, and the hills immediately around the capital offer rewarding walking without the need to drive anywhere. Several informal trails lead up from the residential suburbs onto the ridge lines, where the views stretch over the city, the surrounding grassland, and — on a clear day — far into the neighbouring highlands.

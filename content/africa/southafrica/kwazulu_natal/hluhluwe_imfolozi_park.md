@@ -11,6 +11,7 @@ story: >
   Operation Rhino, launched here in the 1960s, saved the white rhino from extinction. When the park was established in 1895 — making it Africa's oldest proclaimed nature reserve — fewer than 50 southern white rhino survived. The population has since recovered to over 2,000 in this park alone, and animals have been relocated worldwide to repopulate other reserves.
 sources:
   - https://en.wikipedia.org/wiki/Hluhluwe%E2%80%93iMfolozi_Park
+score: 8.9
 ---
 
 Hluhluwe-iMfolozi is Africa's oldest proclaimed nature reserve, established in 1895 to protect the last white rhino population on earth. Today it supports both white and black rhino alongside elephant, lion, leopard, buffalo, wild dog, and cheetah — the full set, in a compact park that rewards those who take their time.

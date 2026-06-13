@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.4900
 longitude: 29.6200
+score: 7.0
 ---
 
 The Musanze Caves, a short drive from the town centre, are a lava tube system formed by volcanic activity in the Virunga chain — the solidified crust of a lava flow that left a hollow tunnel underground when the interior continued to flow and drain away. The caves extend for about two kilometres and include cathedral-sized chambers, narrow crawlways, and a small underground lake. Bat colonies inhabit some sections; the caves also hold archaeological evidence of early human habitation.

@@ -13,6 +13,7 @@ story: >
   the rest of his life there. He is buried in the churchyard at Fårö Church.
   The Bergman Center in Fårö village runs a summer exhibition documenting his
   decades on the island and the films he made here.
+score: 8.7
 ---
 
 Fårö is a small island separated from the northern tip of Gotland by a narrow strait, reached by a free ferry from Fårösund that runs throughout the day. The island has around 500 permanent residents and a character of its own — quieter and more austere than Gotland, with a treeless limestone landscape along the coast and dense pine woods inland.

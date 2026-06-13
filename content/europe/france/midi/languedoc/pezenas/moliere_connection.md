@@ -8,6 +8,7 @@ latitude: 43.4612
 longitude: 3.4222
 story: |
   In the early 1650s, Jean-Baptiste Poquelin — not yet famous enough to need only his stage name — brought his travelling theatre company to Pézenas at the invitation of Armand de Bourbon, prince de Conti, who governed the Languedoc from the town. Molière stayed for several periods between 1650 and 1657, long enough to absorb the barbers, doctors, notaries, and self-important local worthies who would later populate his plays. The story goes that he spent hours at a local barber's shop specifically to observe the clientele — and that the barber, one Gély, kept a chair for him. The Languedoc years were formative: the plays he wrote later, with their provincial hypocrites and comic doctors, carry traces of what he watched in towns like this one.
+score: 7.2
 ---
 
 Pézenas makes much of its Molière connection, and for once the pride is warranted. The playwright spent several seasons here in the 1650s as the guest of Armand de Bourbon, prince de Conti, who used the town as his administrative base and kept a theatre company as part of a flourishing court. For Molière it was a crucial period — he was in his late twenties and early thirties, still developing the satirical style that would make him famous, and Pézenas gave him both an audience and a cast of characters to observe.

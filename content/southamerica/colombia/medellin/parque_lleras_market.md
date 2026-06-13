@@ -8,6 +8,7 @@ tags:
 - el_poblado
 title: Mercado de San Alejo (Lleras)
 type: poi
+score: 5.7
 ---
 
 Every first Saturday of the month a craft and antique market fills [Parque Lleras](/southamerica/colombia/medellin/parque_lleras) — local makers, vintage clothing, costume jewellery, prints. Smaller and more designed than the [downtown Parque Bolívar version](/southamerica/colombia/medellin/parque_bolivar), and convenient to most visitors' accommodation. Goes from mid-morning to about six.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Acuario y Museo del Mar
 type: poi
+score: 5.8
 ---
 
 The Rodadero Sea Aquarium and Museum sits on a small island a couple of kilometres offshore from El Rodadero beach, reached by motorboat from the beachfront. The aquarium holds tanks of Caribbean marine life — sharks, rays, colourful reef fish — and there are dolphin and sea lion shows that appeal particularly to children. The attached maritime museum displays nautical instruments, historical artefacts, and a collection of Inca and pre-Columbian ceramics.

@@ -12,6 +12,7 @@ story: >
   a symmetric cross with rounded terminations — is the most famous. A father traditionally 
   gives his son an Agadez Cross on reaching adulthood, telling him: "I give you the four 
   cardinal directions, because I do not know where life will take you."
+score: 8.1
 ---
 
 The silversmith workshops near the central mosque and in the alleys of the old city produce the most celebrated jewellery of the Sahara. The **Croix d'Agadez** — a geometric silver pendant — has been made here by Tuareg craftspeople for centuries, and the authentic handmade versions are very different from the machine-stamped copies that flood the tourist market. Watch a silversmith work and you'll understand why the good pieces cost what they do.

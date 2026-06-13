@@ -6,6 +6,7 @@ longitude: 14.5701
 tags:
   - things_to_do
   - beach
+score: 6.9
 ---
 
 Dražica is the main town beach, a short walk west of the old town along the coastal path. It is partly pebble, partly concrete platforms cut into the rock — the standard Adriatic arrangement — with clear water, sun loungers for hire, and a couple of beach bars. A pine forest backs the beach and shades the path that leads on to further coves.

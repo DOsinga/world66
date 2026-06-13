@@ -8,6 +8,7 @@ latitude: -45.3000
 longitude: 167.6833
 story: >
   Lake Te Anau is the largest lake in New Zealand's South Island and the second largest in the country overall, with three long arms reaching deep into the mountains of Fiordland. The western arm is so remote that it was not fully mapped until the 1940s.
+score: 7.5
 ---
 
 Lake Te Anau stretches 65 km north from the town, its surface usually calm in the mornings and turning to whitecaps in the afternoon westerlies. The lakefront in town is the natural gathering point — a pleasant grassy area with views across the water to the mountains beyond. Early morning is the best time: the peaks are reflected in the flat water and the light is soft.

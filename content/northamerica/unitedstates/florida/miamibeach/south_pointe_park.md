@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.7660
 longitude: -80.1338
+score: 7.3
 ---
 
 South Pointe Park occupies the southern tip of Miami Beach, where the Atlantic meets Government Cut — the shipping channel dredged to give Miami Harbour deep-water access. The park was redeveloped in 2009 with a striking design that includes a promenade, lawns, a pier, and a splash pad for children. The views from the pier look back across Government Cut to the skyline of the Port of Miami and downtown, with cruise ships passing at close range when they depart.

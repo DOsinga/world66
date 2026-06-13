@@ -1,6 +1,7 @@
 ---
 title: "The Knock"
 type: poi
+score: 7.3
 ---
 
 The Knock is the wooded hill that rises directly above Crieff's main street, and it is one of those walks that residents take for granted and visitors are delighted by. A network of paths climbs through mixed woodland — mostly mature beech and oak — to the summit at around 290 metres, where the trees thin and the view opens up over the full breadth of Strathearn.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Nahan was founded in 1621 by Raja Karam Prakash of the Sirmaur dynasty, who reputedly chose the spot after a chance encounter with a hermit named Baba Banwari Das. The town's grid of bazaars and the artificial lake of Ranzor were laid out in the 17th century and the basic plan is still visible today."
+score: 6.8
 ---
 
 Nahan is the headquarters of Sirmaur district, a hill town at around 932 metres on a ridge of the Shivaliks. It is calmer than the better-known Himachal hill stations — no Mall Road crush, no foreign-tourist circuit — and has a colonial-era core of bungalows, gardens, and a small palace that the Sirmaur royal family still partly occupies.

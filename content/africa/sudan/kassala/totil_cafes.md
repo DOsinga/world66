@@ -5,6 +5,7 @@ snippet: Coffee cafes built into the boulders at the base of the mountains, famo
 tags: [things_to_do, sight, cafe]
 latitude: 15.4490
 longitude: 36.4070
+score: 8.1
 ---
 
 A short walk up from Khatmiya, a string of informal cafes sits among the giant tumbled boulders at the foot of Jebel Totil. Most are no more than a few low cushions, a charcoal fire, and a woman with a clay jebbana — the long-spouted Sudanese coffee pot — but they serve some of the best coffee in the country.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.9
 ---
 
 The Memphis Botanic Garden in Audubon Park covers 96 acres with more than 20 themed gardens. The My Big Backyard children's garden is one of the most elaborate in the South. The Japanese garden, with its koi pond, stone lanterns, and carefully shaped plantings, is peaceful and well-maintained. The Rose Garden is impressive in May and June when the collection peaks. The sensory garden and the herb garden are smaller but thoughtfully designed.

@@ -9,6 +9,7 @@ tags:
 title: Cape May New Jersey
 type: poi
 url: www.capemay.com
+score: 2.4
 ---
 
 Cape May is about a 2–3 hour drive (or train ride via NJ Transit) from New York. The town is one of the best-preserved Victorian seaside resorts in the US — block after block of gingerbread cottages and wraparound porches. The beach is free to access outside of summer weekends.

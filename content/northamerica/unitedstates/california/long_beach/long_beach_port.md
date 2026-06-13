@@ -8,6 +8,7 @@ latitude: 33.7526
 longitude: -118.2166
 story: >
   The Port of Long Beach and the adjacent Port of Los Angeles together handle about 40 percent of all container imports entering the United States. During peak periods, ships queue in the channel for days waiting to unload. In 2021, the backlog was so severe that over 100 container ships anchored offshore simultaneously, visible from the beach in a line stretching to the horizon — an image that became a symbol of the global supply chain crisis.
+score: 6.4
 ---
 
 The Port of Long Beach is one of the busiest container ports in the world, and from the beach at Shoreline Aquatic Park you get an unobstructed view of the extraordinary scale of modern shipping. Container ships the length of three football fields move silently through the channel, stacked with coloured boxes ten stories high, dwarfing the pilot boats that guide them in.

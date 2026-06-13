@@ -14,6 +14,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Ethnographic_Museum_(Rwanda)
   - https://www.petitfute.com/v45359-butare-huye/c1173-visites-points-d-interet/c958-musee/155000-musee-ethnographique.html
+score: 9.1
 ---
 
 The Ethnographic Museum is Butare's essential stop and one of the strongest museums in East Africa for anyone trying to understand Rwanda beyond headlines. The galleries cover domestic life, agriculture, music, ritual, kingship, crafts, and architecture, with enough depth to reward more than a quick circuit.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 40.0155
 longitude: 8.5350
+score: 6.1
 ---
 
 The town of Cabras, a few kilometres west of Oristano, is the bottarga capital of Sardinia. Several producers sell directly from their premises, and the local market (held on Saturdays in the main piazza) is a good place to buy it alongside fresh fish from the lagoon and local pecorino cheese.

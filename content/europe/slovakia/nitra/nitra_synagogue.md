@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Nitra_Synagogue
 story: >
   Before the Second World War, Nitra had a significant Jewish population of several thousand people, one of the oldest Jewish communities in Slovakia. The community was almost entirely destroyed during the Holocaust; most were deported in 1942 under the Slovak state's own deportation laws, among the first such deportations in occupied Europe. The synagogue today houses a permanent exhibition on the community that once filled these streets.
+score: 7.4
 ---
 
 The Nitra Synagogue, built in 1911 in a Moorish Revival style, stands on a side street near the Old Town as one of the few surviving remnants of Nitra's once-substantial Jewish community. The building's distinctive horseshoe arches and ornate facade make it unmissable even to someone who didn't know what it was.

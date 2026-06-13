@@ -8,6 +8,7 @@ tags:
 - drugs
 title: Kokopelli, Conscious Dreams
 type: poi
+score: 4.0
 ---
 
 One of Amsterdam's bigger smartshops, located on Warmoesstraat just a minute from Central Station in the Red Light District. Kokopelli stocks the usual range of truffles, herbal supplements, aphrodisiacs, and ethnobotanical plants, plus a selection of psychedelic literature and art. The staff are knowledgeable and happy to advise first-timers on dosage and effects. Open since 1997.

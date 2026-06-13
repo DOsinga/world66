@@ -6,6 +6,7 @@ tags:
 - museum
 title: Karaganda Ecological Museum
 type: poi
+score: 7.8
 ---
 
 The Karaganda Ecological Museum is an unusual institution — a regional museum focused not on history or ethnography but on the natural environment and the damage done to it. It was established in the early 1990s in direct response to the ecological catastrophe of the Soviet period, when the steppe was mined, the groundwater polluted, and the land around the Semipalatinsk nuclear test site irradiated across an enormous area. The museum documents all of this with a directness that feels refreshing.

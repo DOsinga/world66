@@ -10,6 +10,7 @@ tags:
 - sight
 - historical_site
 - architecture
+score: 7.0
 ---
 
 The Chocolate House (Casa de Chocolate) is a small octagonal pavilion on the edge of Plaza de España, built in the late eighteenth century as part of the Spanish governor's complex. It was used as a kind of afternoon salon: the governor's wife received guests here and served them chocolate, a drink that the Spanish had brought to Guam from Mexico via the Manila galleon trade.

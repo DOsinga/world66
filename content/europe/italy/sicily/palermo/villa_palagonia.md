@@ -9,6 +9,7 @@ latitude: 38.054
 longitude: 13.476
 story: >
   Goethe visited Villa Palagonia in 1787 and devoted several long pages of his Italian Journey to denouncing the "monstrosity" of its grotesque carvings, calling the place a "monument of bad taste" that nevertheless held him spellbound. The 18th-century Prince Ferdinando Gravina, who commissioned the most extravagant decoration, was widely thought mad by his contemporaries — the villa's carvings of dwarves, hunchbacks, animal-headed musicians, and grotesque hybrids have long been considered the closest 18th-century equivalent of surrealist art.
+score: 8.1
 ---
 
 Villa Palagonia is one of the great 18th-century villas built by Palermo's aristocracy on the slopes of Bagheria, 15 km east of the city. The exterior is conventional Sicilian Baroque; the surrounding wall is what makes the villa famous — 200 grotesque carvings of monsters, dwarves, mythological hybrids, and musicians, originally numbering many more.

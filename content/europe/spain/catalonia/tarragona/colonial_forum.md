@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Roman public square at the lower town — basilica, temples, and the carved tabula of citizenship rights"
+score: 7.0
 ---
 
 The lower of Tarragona's two Roman forums (the upper Provincial Forum was the administrative seat of the wider Hispania Tarraconensis province; this Colonial Forum was the local civic square of the city of Tarraco itself). The site preserves several rows of standing columns from the **basilica** (a covered law court and public meeting hall), the remains of two minor temples, and the foundations of various tabernae and shops.

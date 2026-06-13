@@ -8,6 +8,7 @@ tags:
 snippet: The frescoed katholikon of the monastery
 latitude: 40.8186
 longitude: 19.5925
+score: 8.2
 ---
 
 The katholikon, the monastery's main church, is dedicated to the Nativity of the Theotokos — the birth of the Virgin Mary. The building is small by Western standards but typical of post-Byzantine Albanian Orthodox architecture: a single nave with a narthex, a wooden iconostasis dividing the lay congregation from the sanctuary, and a barrel-vaulted ceiling that catches the light from narrow windows.

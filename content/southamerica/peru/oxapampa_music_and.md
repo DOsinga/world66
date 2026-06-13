@@ -7,6 +7,7 @@ tags:
 - festivals
 title: Selvamonos Festival
 type: poi
+score: 8.2
 ---
 
 Selvamonos is an annual music and arts festival held in Oxapampa, a small town of Austro-German heritage set in the cloud forest between the Andes and the Amazon. Started in 2009 as an effort to bring quality Peruvian music out of Lima and into the provinces, the festival has grown into one of Peru's most distinctive cultural events.

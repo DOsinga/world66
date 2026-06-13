@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -6.4400
 longitude: 38.9024
+score: 5.4
 ---
 
 The Livingstone Tower is a small white-painted stone tower on the road from the centre to the Catholic Mission, marking the spot where David Livingstone's embalmed body was reportedly placed before being carried on to the mission church and ultimately on to Zanzibar and London. Whether this exact spot was the actual place is uncertain — Bagamoyo has accumulated several Livingstone landmarks over the years — but the tower has stood here since the early 20th century.

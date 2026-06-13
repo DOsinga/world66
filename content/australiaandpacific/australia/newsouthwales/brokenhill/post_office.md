@@ -6,6 +6,7 @@ longitude: 141.4653
 tags:
   - things_to_do
   - architecture
+score: 7.1
 ---
 
 The Post Office on Argent Street is a fine piece of late Victorian government architecture, completed in 1892 in red brick with sandstone dressings and a tall clock tower. It was designed by the Government Architect's office in Sydney and is one of the most substantial public buildings in town.

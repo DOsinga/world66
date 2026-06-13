@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market]
 latitude: 7.8221
 longitude: 123.4361
+score: 6.6
 ---
 
 The public market sits a block back from the bay and is the most useful single stop for understanding the city. The wet section runs every morning with fish brought in overnight — tuna, mackerel, snapper, prawns — laid out on ice next to baskets of crab and squid. The dry section sells everything from rice and dried fish to plastic basins, school uniforms, and pirated DVDs.

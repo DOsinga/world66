@@ -10,6 +10,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Agua_Azul
+score: 8.6
 ---
 
 The Cascadas de Agua Azul — literally "blue water waterfalls" — are a chain of turquoise cascades tumbling down a wide limestone shelf into pools of electric blue. The colour comes from calcium carbonate dissolved in the water, which intensifies in the dry season when flow is lower and the mineral concentration higher. There are dozens of individual falls spread over several kilometres of the Xanil River, and the whole scene is framed by dense jungle.

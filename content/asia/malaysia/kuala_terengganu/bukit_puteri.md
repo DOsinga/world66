@@ -9,6 +9,7 @@ latitude: 5.3361
 longitude: 103.1374
 story: >
   Bukit Puteri was fortified by the Terengganu sultans as a strategic lookout over the river mouth, and the cannon placed here can still be seen. The hill was also used as a signal station: a large bell known as the Genta was rung to announce the arrival of the sultan and to signal the start and end of Ramadan. The bell dates from at least the 18th century and is one of the oldest surviving artefacts of the Terengganu sultanate.
+score: 7.8
 ---
 
 Bukit Puteri (Princess Hill) is a small but steep hill rising directly above the old town, commanding views across the Terengganu River mouth and out to the South China Sea. The climb takes about 15 minutes and is rewarded with wide panoramas of the city, the river, and on clear days the offshore islands. The hilltop contains a lighthouse, a flagpole, old cannon, a mausoleum for members of the royal family, and the historic Genta bell.

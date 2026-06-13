@@ -9,6 +9,7 @@ tags:
   - restaurant
 title: Fleetwood Diner
 type: poi
+score: 7.3
 ---
 
 A genuine Ann Arbor institution — an old-school diner that has been feeding students, musicians, and night owls since the 1970s. Open 24 hours on weekends. The menu runs to burgers, omelets, and Greek-American diner standards. Order the Hippie Hash. Cash only, small, often loud, always worth it.

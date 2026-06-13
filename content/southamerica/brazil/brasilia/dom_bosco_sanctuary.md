@@ -8,6 +8,7 @@ story: In 1883 the Italian saint Don Bosco had a prophetic dream of a great civi
 tags:
 - things_to_do
 - religious_site
+score: 8.7
 ---
 
 A rectangular concrete chapel in Asa Sul that hides one of the most striking interiors in Brazil. The walls are made of two-metre tall stained glass panels in twelve shades of blue, by Cláudio Naddeo, that flood the nave with a deep underwater light. A 7-metre wooden crucifix by Gotthard Schmid hangs over the altar; the floor is dark wood.

@@ -7,6 +7,7 @@ tags:
 latitude: 17.9396
 longitude: -67.1893
 snippet: "Wild beach at the foot of the lighthouse cliffs, one of Puerto Rico's most dramatic"
+score: 8.7
 ---
 
 Despite its name (which translates literally as "dirty beach"), Playa Sucia is one of Puerto Rico's most beautiful stretches of sand — a remote crescent of turquoise water enclosed by limestone cliffs, with the lighthouse visible on the headland above. It is wild and undeveloped, accessible via a rough road through the salt flats.

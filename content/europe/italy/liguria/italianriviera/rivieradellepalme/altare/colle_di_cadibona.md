@@ -13,6 +13,7 @@ story: >
   such significance. Hannibal is traditionally said to have crossed here on his way to Rome,
   though historians debate the exact route. What is certain is that this pass has served as
   a critical link between the Ligurian coast and the Po Valley for millennia.
+score: 6.7
 ---
 
 The Colle di Cadibona, also known as the Bocchetta di Altare, sits just east of the town and marks one of the most significant geographical boundaries in Italy. At 459 metres, this unremarkable-looking mountain pass is actually the dividing line between the Ligurian Alps to the west and the Apennines extending south and east. Geographers trace the entire spine of the Italian peninsula from this modest col.

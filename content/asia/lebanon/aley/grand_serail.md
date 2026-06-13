@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Grand Serail in Aley — the late Ottoman administrative building on the main street — is the most architecturally striking civic building in town. Built in the 1880s of the local pale limestone, it combines arched colonnades, triple-arched windows, and a long balcony that runs along the front fa**ç**ade. It still serves as a government building for the Aley district, which keeps the grounds maintained and the building lit at night.

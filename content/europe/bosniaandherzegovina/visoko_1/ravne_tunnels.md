@@ -6,6 +6,7 @@ longitude: 18.1623
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 A network of tunnels in the hill north of town, presented by their excavators as part of the same supposed ancient pyramid complex. Mainstream archaeologists consider them most likely a medieval or post-medieval mine. Either way, the kilometre or so that has been opened up is genuinely atmospheric — narrow, cool, lit by string lights, with crystal-laden chambers and underground "meditation rooms".

@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Mary Mac's Tea Room
 type: poi
+score: 7.1
 ---
 
 A genuine Atlanta institution, open since 1945. The menu is classic Southern — fried chicken, pot roast, collard greens, macaroni and cheese, and some of the best cornbread in the city. Choose a side sampler to get a range of vegetables. Sweet tea is non-negotiable. Expect a line at lunch, especially on weekends.

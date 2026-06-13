@@ -14,6 +14,7 @@ story: >
   over 50 years before rail made it obsolete. Today the towpath is one of the
   finest flat walking and cycling routes in New Jersey, running 70 miles from
   Frenchtown to Trenton.
+score: 8.3
 ---
 
 The Delaware and Raritan Canal State Park passes directly through Lambertville, giving the town a peaceful, car-free green corridor right through its centre. The towpath is flat, well-maintained, and shaded in summer, making it equally good for a short stroll or a longer bicycle ride. The canal itself — with its still water reflecting the trees — is one of the prettiest features of the town.

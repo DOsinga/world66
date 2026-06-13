@@ -11,6 +11,7 @@ tags:
   - architecture
 neighbourhood: Lace Market
 snippet: One of the largest contemporary art galleries in the UK — and free.
+score: 6.7
 ---
 
 Nottingham Contemporary opened in 2009 in a striking gold-and-green building by the architects Caruso St John, perched on a sandstone outcrop above the Lace Market. The lace pattern cast into the precast concrete facade is a nod to the trade that once filled the surrounding warehouses.

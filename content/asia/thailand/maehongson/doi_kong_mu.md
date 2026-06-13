@@ -8,6 +8,7 @@ latitude: 19.3042
 longitude: 97.9618
 story: >
   Doi Kong Mu hill is visible from almost everywhere in the Mae Hong Son valley, crowned by two large white chedis that glow against the forest at dawn. The larger chedi was built in 1860 by the ruler of Mae Hong Son and is said to contain the ashes of Burmese monks who died in the area. On clear mornings before the valley mist burns off, the view from the top is of a sea of white cloud filling the valley below, with mountain ridges emerging on all sides — one of the more peaceful sights in northern Thailand.
+score: 9.0
 ---
 
 Wat Phra That Doi Kong Mu crowns the hill that overlooks Mae Hong Son town from the west. A steep staircase or a road zigzag lead to the summit, where two large white Burmese-style chedis dominate the hilltop. The view from the top covers the whole of the Mae Hong Son valley — the town, the lake temples below, the forested ridges beyond, and on clear days the mountains of the Burmese border.

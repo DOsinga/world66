@@ -12,6 +12,7 @@ tags:
 - fort_area
 title: Town Hall
 type: poi
+score: 7.4
 ---
 
 A neoclassical building completed in 1833, designed by Colonel Thomas Cowper of the Bombay Engineers. The long facade with fluted Doric columns and three porticos was considered one of the finest examples of colonial architecture in India. It houses the Asiatic Society of Mumbai and its library, which contains rare manuscripts and early printed books. Located in the Fort area near the Gateway of India.

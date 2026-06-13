@@ -13,6 +13,7 @@ story: >
   record that when the 14th-century Sinhalese kingdom faced famine, the royal
   elephants perished on the rock and turned to stone, becoming the outcrops
   that still ring the town today.
+score: 7.8
 ---
 
 Ethagala, known as Elephant Rock, is the largest and most prominent of the bare granite outcrops that rise dramatically above Kurunegala. At 316 metres it towers over the town, and its distinctive silhouette — a crouching elephant seen from certain angles — gives the city one of Sri Lanka's most recognisable skylines. A large white Buddha statue now crowns the summit, added in the early 2000s and visible from much of the town.

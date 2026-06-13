@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: "Eighteenth-century town hall and former magistrates' court, now open as a museum"
+score: 6.8
 ---
 
 The Guildhall on Register Square has been the seat of Beverley's civic government in one form or another since the fourteenth century, though the present buildings are eighteenth- and nineteenth-century. Behind the modest exterior is a remarkably good Georgian council chamber with elaborate plasterwork by Giuseppe Cortese, and a Victorian magistrates' courtroom largely preserved as it was when last used.

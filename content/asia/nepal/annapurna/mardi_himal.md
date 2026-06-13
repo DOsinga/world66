@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mardi_Himal
 story: >
   The Mardi Himal Trek was officially opened as a trekking route only in 2012, making it one of the newest established treks in the Annapurna region. It was previously a yak herding trail used by local Gurung villagers. Despite its novelty on the official circuit, the route is already popular for its relative quiet — only a fraction of the trekkers who do the base camp route come this way — and its direct views of Machapuchare from a different and often more dramatic angle.
+score: 8.1
 ---
 
 The Mardi Himal Trek is a compact four- to six-day route that climbs from the Pokhara valley to a high camp at 4,500m on the ridge below Mardi Himal peak (5,587m), with exceptional views of Machapuchare (directly above), Annapurna South, and Hiunchuli. It is the newest and least crowded of the Annapurna treks, offering genuine wilderness despite its proximity to Pokhara.

@@ -7,6 +7,7 @@ tags:
 snippet: Intha home cooking served in a traditional teak house
 latitude: 20.6589
 longitude: 96.9189
+score: 5.8
 ---
 
 A husband-and-wife operation serving Intha and Shan dishes in a traditional teak house just off the main street. The owners describe what is on the table — Shan tofu salad, river fish in a banana leaf, fermented tea-leaf salad — and bring a procession of small plates rather than expecting you to order off a list.

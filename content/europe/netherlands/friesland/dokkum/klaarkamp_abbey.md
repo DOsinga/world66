@@ -7,6 +7,7 @@ tags:
 latitude: 53.31194
 longitude: 5.939444
 snippet: "Ruins of a major 12th-century Cistercian abbey, 4 km southwest of Dokkum."
+score: 6.8
 ---
 
 Klaarkamp was one of the most important Cistercian monasteries in the northern Netherlands, founded in 1163 and operating for nearly four centuries before its dissolution during the Reformation in the 1580s. At its height, it was a major landowner and cultural centre for the region.

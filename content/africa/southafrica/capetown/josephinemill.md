@@ -15,6 +15,7 @@ tags:
 - museum
 title: Josephine Mill
 type: poi
+score: 6.8
 ---
 
 Josephine Mill is the only surviving water mill in Cape Town, built in 1818 on the Liesbeek River in what is now Newlands. The enormous cast-iron wheel was added in 1840, cast by Jacob Letterstedt, and still turns. The mill ground flour for the growing Cape colony and is a rare piece of intact industrial heritage from the early nineteenth century.

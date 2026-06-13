@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.5212
 longitude: -48.5070
+score: 6.6
 ---
 
 The Igreja Matriz Nossa Senhora do Rocio is Paranaguá's principal Catholic church and the seat of the city's most important religious festival. The current building dates from the 18th century, replacing earlier wooden structures. Its single bell tower and white plastered façade dominate the square it shares with the old town hall.

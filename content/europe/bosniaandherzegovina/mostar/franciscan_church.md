@@ -5,6 +5,7 @@ snippet: Modern Catholic church with the tallest bell tower in Bosnia, rebuilt o
 tags: [things_to_do, sight, religious]
 latitude: 43.3379
 longitude: 17.8086
+score: 6.9
 ---
 
 The original 19th-century Franciscan church on this site was destroyed in the Bosnian War. The replacement, completed in 2000, is unmissable: a vast modern church with a free-standing bell tower 107 metres tall — the highest in Bosnia and Herzegovina. The tower was built deliberately oversized, taller than every minaret in town, and has been a flashpoint in postwar debates about how reconstruction has hardened divisions.

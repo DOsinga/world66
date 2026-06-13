@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "The mesa rising south of town is, according to the more-trusted Apache story, the source of the town's name — *tukamukaru*, the Comanche word for 'lookout point'. The cheesier version about two lovers named Tocum and Kari is a 20th-century invention dreamed up to amuse tourists."
+score: 7.8
 ---
 
 Tucumcari Mountain is a flat-topped mesa rising abruptly from the plain a few kilometres south of town. From the highway it dominates the southern horizon, a 1,500-metre table-top in red sandstone with juniper and pinon scrub on its lower slopes. It is the geographic feature that named the town.

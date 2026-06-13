@@ -7,6 +7,7 @@ longitude: 139.5382
 snippet: "Dedicated to the creator of Doraemon, with original manga manuscripts"
 story: >
   Fujiko F. Fujio worked in a tiny apartment in Kawasaki with his partner from 1954, producing manga for thirty years before Doraemon's anime made them famous worldwide. The museum holds original drawings on tracing paper that show his pencil lines and correction fluid — a reminder that Japan's most beloved cartoon cat started in a cramped room with a deadline.
+score: 7.3
 ---
 
 Located in Tama-ku in northern Kawasaki, this museum is dedicated to Fujiko Fujio — the pen name used by the duo who created Doraemon, Perman, and a host of other beloved Japanese manga characters. The interior is designed to feel like stepping into the world of the comics: the staff wear costumes from the manga, the cafe serves robot-shaped cookies, and the reading room stocks the complete collected works for visitors to browse.

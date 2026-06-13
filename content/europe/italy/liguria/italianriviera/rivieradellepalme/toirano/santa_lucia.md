@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1308
 longitude: 8.2098
+score: 7.6
 ---
 
 Above the Grotte di Toirano, on a rocky terrace cut into the cliff face, the small Santuario di Santa Lucia has been a pilgrimage site since the Middle Ages. A spring near the church is supposed to restore sight — Santa Lucia is the patron saint of vision — and devotional plaques line the path up.

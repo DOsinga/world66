@@ -13,6 +13,7 @@ story: >
   decades, and access is occasionally restricted when gas emissions rise to unsafe levels.
 sources:
   - https://en.wikipedia.org/wiki/Vulcano
+score: 9.0
 ---
 
 The hike to the Gran Cratere is the centrepiece of any visit to Vulcano. The path starts from the port and climbs steadily for about 45 minutes on a well-worn trail through a landscape of ochre, rust, and sulphur yellow. The crater rim at 391 metres is enormous — the caldera below exhales continuously through vents studded with bright yellow sulphur crystals.

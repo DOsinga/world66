@@ -8,6 +8,7 @@ tags:
   - architecture
   - altstadt
 story: "Originally a 17th-century riding school carved directly into the cliffs of the Mönchsberg, with three tiers of arched galleries for spectators. The young Maria von Trapp and her family performed their farewell concert here in The Sound of Music — the only one of the major film locations where you can actually buy a ticket today and sit in the same arcades."
+score: 7.6
 ---
 
 The Summer Riding School, cut from the cliff face by Fischer von Erlach the elder in 1693, is the most atmospheric of the festival venues. Performances are held under the open sky in summer or under a retractable roof for opera in cool weather.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.399
 longitude: -72.721
+score: 5.9
 ---
 
 The Musée d'art de Granby is a small regional art museum in downtown Granby with a collection focused on contemporary Quebec art. The permanent collection includes paintings, sculptures, and prints from Quebec artists of the 20th and 21st centuries, and the museum hosts a rotating program of temporary exhibitions that often feature emerging regional talent.

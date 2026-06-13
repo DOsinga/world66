@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Danube Riverfront
 type: poi
+score: 6.5
 ---
 
 Tulcea's riverfront promenade — Faleza Dunării — runs for a mile or so along the south bank of the Danube, from the passenger port at one end to the cargo docks at the other. It is the most-used public space in the city: schoolchildren, fishermen, pensioners on benches, the occasional river cruiser tied up at a pontoon. By night it is gently lit and lined with bars and gelaterias.

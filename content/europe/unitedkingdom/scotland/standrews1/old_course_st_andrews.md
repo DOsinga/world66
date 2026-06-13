@@ -9,6 +9,7 @@ latitude: 56.3432
 longitude: -2.8035
 story: >
   The Road Hole bunker — the 17th fairway's narrow pot bunker — has a claim to being the most feared single hazard in golf. Jack Nicklaus once took five shots to escape it. Tom Watson's approach shot into the same bunker in the 1984 Open cost him the championship. The bunker is named for the road behind the 17th green, which is itself in play — if you overshoot the green, your ball rolls onto a public road.
+score: 9.6
 ---
 
 The Old Course at St Andrews is the most famous golf course in the world and is widely considered the spiritual home of the game. Golf has been played on these Links since at least 1457, when James II of Scotland banned it because his subjects were neglecting archery practice. The Royal and Ancient Golf Club was founded here in 1754 and still governs the game internationally. The course has hosted the Open Championship more times than any other venue.

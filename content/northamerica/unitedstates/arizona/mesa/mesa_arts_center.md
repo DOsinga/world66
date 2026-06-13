@@ -9,6 +9,7 @@ latitude: 33.4145
 longitude: -111.8308
 story: >
   At seven acres, Mesa Arts Center is the largest arts campus in Arizona. When it opened in 2005, it was the first performing arts centre in the United States designed by a woman — architect Boora, with lead designer Sheryl Boyle — a fact that took years to receive much attention.
+score: 8.0
 ---
 
 Mesa Arts Center is a genuine cultural heavyweight: five theatres, four art galleries, and a sprawling courtyard plaza in the heart of downtown. The complex covers seven acres, making it the largest arts campus in Arizona, and it pulls a programme broad enough to serve both the local community and visitors looking for serious performance.

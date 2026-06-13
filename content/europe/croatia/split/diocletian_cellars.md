@@ -15,6 +15,7 @@ story: >
   recovered an enormous quantity of medieval artefacts alongside the
   Roman structure — an accidental archaeological archive created by
   centuries of domestic life directly above.
+score: 8.7
 ---
 
 The vaulted underground halls beneath Diocletian's Palace are the best-preserved Roman subterranean structure in the world. Originally used as storage and service rooms for the palace above, they mirror the floor plan of the imperial apartments exactly — giving archaeologists a precise map of rooms that have since been built over many times.

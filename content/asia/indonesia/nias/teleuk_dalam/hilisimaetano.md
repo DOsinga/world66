@@ -7,6 +7,7 @@ tags:
   - sight
 title: Hilisimaetano
 type: poi
+score: 8.0
 ---
 
 Hilisimaetano, a few kilometres east of Bawomataluo, is the second great megalithic village of South Nias. The layout is similar — a long central plaza paved in stone, lined on both sides with traditional gabled wooden houses — though the village is larger and less manicured for tourists than its better-known neighbour. Stone benches, ancestor statues, and elaborately carved menhirs are scattered through the plaza.

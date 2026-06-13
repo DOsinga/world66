@@ -9,6 +9,7 @@ tags:
 - food
 title: Quiche Lorraine
 type: poi
+score: 7.5
 ---
 
 Quiche Lorraine is the most famous dish of the Lorraine region in north-eastern France, and far better than the soggy, cheesy versions served everywhere else in the world. The original is a short-crust pastry shell filled with a custard of eggs and cream (crème fraîche, ideally), studded with lardons — small cubes of smoked bacon — and nothing else. No cheese, no vegetables, no shortcuts. The result is rich and savoury with a silky wobble to the filling and a crisp base.

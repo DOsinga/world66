@@ -3,6 +3,7 @@ title: "Wildlife Watching"
 type: poi
 latitude: 5.289
 longitude: -52.584
+score: 7.6
 ---
 
 The islands are a genuine wildlife refuge. Howler monkeys move through the trees in family groups, their roaring calls carrying across the island at dawn and dusk. Agoutis — large, fast-moving rodents — dart across the paths. Coatis root through the undergrowth. Iguanas bask on the old stone walls in impressive numbers.

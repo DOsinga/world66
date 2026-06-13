@@ -7,6 +7,7 @@ tags:
 latitude: 53.9056
 longitude: 27.5664
 snippet: A riverside park named for the national poet, with his memorial and a pleasant promenade
+score: 5.8
 ---
 
 Yanka Kupala Park runs along the east bank of the Svislach River in the city centre, providing a green corridor in the otherwise dense urban landscape. It is named for the Belarusian national poet, and his memorial stands in the park. The surrounding riverbanks have been landscaped as a promenade, and the park is a popular spot for an evening walk, particularly among students from the nearby university.

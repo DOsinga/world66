@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 39.8109
 longitude: -89.6516
 story: The Museum of Funeral Customs is located adjacent to Oak Ridge Cemetery, where Lincoln is buried — a placement that is either deeply appropriate or completely accidental, depending on your view. The museum was established in 1990 and covers death and burial practices from ancient Egypt through the present day. The centrepiece is an exhibit on Lincoln's own funeral — the 12-day, 1,654-mile train journey that carried his body from Washington to Springfield in April 1865, stopping at every major city along the way. An estimated seven million people lined the tracks to pay their respects.
+score: 6.7
 ---
 
 The Museum of Funeral Customs occupies a period building near Oak Ridge Cemetery and covers the history of human burial practices from antiquity to the modern era. Exhibits examine ancient Egyptian mummification, Victorian mourning customs (including the elaborate black crepe and jet jewellery worn by widows), and the development of the American funeral industry. There are displays of period hearses, embalming equipment, and coffin hardware.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.7868
 longitude: 6.9695
+score: 5.8
 ---
 
 One of the better-known restaurants in the town centre, Du Tunnel is a reliable choice for traditional Valdostan cooking in a warm, stone-walled dining room. The fondue Valdostana — made with local Fontina — is one of the best renditions in the valley, and the carbonade (beef braised in red wine) is worth ordering if it appears on the menu. The wine list is strong on Valle d'Aosta appellations, which are less well-known than they deserve to be.

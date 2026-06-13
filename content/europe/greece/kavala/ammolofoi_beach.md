@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 40.9120
 longitude: 24.3280
+score: 6.6
 ---
 
 Ammolofoi — the name means "sand dunes" in Greek — is the most organised beach near Kavala, about 10 km west of the city centre. The long sandy stretch is backed by actual dunes, which are unusual on this coast and give the beach an attractive natural setting. In summer it operates with sunbeds, umbrellas, beach bars, and water sports rentals. The sand is fine and the water clean.

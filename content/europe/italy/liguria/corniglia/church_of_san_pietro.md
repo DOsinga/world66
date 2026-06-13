@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "The marble rose window above the door is carved with twelve fragments from the original Genoese workshop that supplied churches all along the Riviera. When the surrounding terraces were re-laid in the 1990s, builders found the masons' chisel-marks on stones reused from a 12th-century chapel that previously stood on the site."
+score: 7.4
 ---
 
 Corniglia's parish church sits halfway along Via Fieschi, the lane that runs the length of the village. It was built in 1334 in the late Ligurian Gothic style and given a baroque overhaul in the 18th century, but the simple black-and-white striped façade and the elegant rose window above the portal still belong to the original Genoese building.

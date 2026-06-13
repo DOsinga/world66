@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Saat Kaman
 type: poi
+score: 7.0
 ---
 
 Saat Kaman, the Seven Arches, stands on Pavagadh Hill as a dramatic remnant of the old fortifications. The surviving arches frame the plains below and make the military landscape easier to read.

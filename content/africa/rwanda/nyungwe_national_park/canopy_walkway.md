@@ -9,6 +9,7 @@ tags:
 latitude: -2.4742
 longitude: 29.2042
 story: The walkway is the only one of its kind in East Africa, built in 2010 with anchors driven into bedrock to avoid disturbing the trees. From the platforms you look down on the crowns of mahogany and Symphonia trees that you'd normally only see from below, with turacos and great blue turacos flying past at eye level.
+score: 8.5
 ---
 
 The Igishigishigi Trail starts at the Uwinka Reception Centre and runs roughly two kilometres through dense forest before reaching the canopy walkway — a 160-metre suspension bridge strung 50 metres above the forest floor. It's one of only three canopy walkways in Africa, and the only one that lets you stand level with the forest canopy as a casual visitor.

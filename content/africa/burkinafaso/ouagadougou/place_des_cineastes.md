@@ -6,6 +6,7 @@ longitude: -1.5270
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Place des Cinéastes is the symbolic heart of FESPACO — a paved square in central Ouaga dominated by a large abstract sculpture representing a film reel. Plaques around the monument honour African film-makers who have won the festival's top prize, the Étalon de Yennenga.

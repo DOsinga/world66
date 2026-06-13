@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: Republic Square
+score: 8.4
 ---
 
 Armenia's largest art museum, occupying six floors above the History Museum on Republic Square. The collection runs from medieval Armenian church art and 17th-century painters of the Constantinople and Tiflis schools up through the 19th and 20th centuries — Hovhannes Aivazovsky's seascapes, Martiros Saryan's sun-soaked landscapes, and a strong Russian and European wing with works by Repin, Kandinsky, Chagall, Rubens, and Boucher.

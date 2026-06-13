@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 1 Aram Street
+score: 7.4
 ---
 
 The largest repository of Armenian manuscripts and books from the past three centuries — playscripts, theatre archives, photographs, personal letters, costumes, set designs. Named for the poet Yeghishe Charents, executed in the Stalinist purges of 1937, whose archive forms one of the collection's pillars.

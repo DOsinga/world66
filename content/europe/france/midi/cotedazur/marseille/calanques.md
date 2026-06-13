@@ -7,6 +7,7 @@ tags:
 - nature
 title: Calanques de Marseille
 type: poi
+score: 9.5
 ---
 
 The Parc National des Calanques protects twenty kilometres of dramatic limestone coastline running from the southern edge of Marseille to Cassis. The calanques are deep, narrow inlets carved into the cliffs by ancient rivers, now flooded by the sea — the water is extraordinarily clear and ranges from pale jade to deep blue. The most accessible from the city are Callelongue and Sormiou; the most spectacular, En-Vau and Sugiton, require more hiking or a boat.

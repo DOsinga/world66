@@ -8,6 +8,7 @@ tags:
   - walking
 title: "Parc de la Tour Vieille"
 type: poi
+score: 5.2
 ---
 
 Parc de la Tour Vieille is a green local escape on the edge of town, with paths, trees, and space to cool down. It is a pleasant pause rather than a must-see attraction.

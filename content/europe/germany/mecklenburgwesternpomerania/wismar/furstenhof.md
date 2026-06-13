@@ -15,6 +15,7 @@ story: >
   building served as the seat of Swedish administration for their German territories,
   one of the more unexpected legacies of the Peace of Westphalia in a town that
   still shows Swedish street names.
+score: 7.9
 ---
 
 The Fürstenhof stands on the southern side of the Marktplatz and is the finest example of Italian Renaissance architecture in Mecklenburg. Built between 1512 and 1555 for the Dukes of Mecklenburg, the building presents an elaborate facade of terracotta ornamentation quite unlike anything else in northern Germany: relief friezes, medallion portraits, classical architectural details, and a general exuberance that contrasts sharply with the sober brick Gothic of the surrounding churches. The building was updated and expanded several times through the sixteenth century, and different phases of the Italian Renaissance influence are visible in different parts of the facade.

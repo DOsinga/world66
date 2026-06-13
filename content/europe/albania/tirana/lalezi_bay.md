@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.8
 ---
 
 A wide sandy bay between Durrës and Cape Rodon, about 40 km west of Tirana, that has become the closest decent beach to the capital. Tirana families drive over for the weekend; pine woods come right down to the sand, and the water is calm and shallow.

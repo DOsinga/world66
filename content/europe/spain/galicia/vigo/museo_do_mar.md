@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sight]
 latitude: 42.2198
 longitude: -8.7393
 story: "The museum occupies a stunning building on the waterfront at Alcabre designed by Aldo Rossi and César Portela — the last major project completed before Rossi's death in 1997. The building itself won architectural prizes before a single exhibit was installed. The museum also incorporates the remains of a real 17th-century fishing settlement, with original walls preserved within the modern structure."
+score: 7.6
 ---
 
 The Museo do Mar de Galicia (Museum of the Sea of Galicia) stands on the Alcabre waterfront south of the city centre, a striking ensemble of buildings opening directly onto the bay. The museum's permanent collection covers the history of Galicia's relationship with the sea: fishing, maritime trade, emigration, the canning industry that once dominated the Galician economy, and the ecology of the ría itself.

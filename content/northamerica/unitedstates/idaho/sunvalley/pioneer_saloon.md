@@ -6,6 +6,7 @@ longitude: -114.3643
 tags:
   - eating_out
   - restaurant
+score: 7.4
 ---
 
 The Pioneer Saloon on Main Street in Ketchum has been pouring whiskey and grilling steaks since 1950, and the dim wood-panelled interior with antlers and old rifles on the walls has barely changed. The line down the sidewalk on winter evenings tells you they do not take reservations.

@@ -7,6 +7,7 @@ tags:
 latitude: 53.6484
 longitude: -1.7851
 snippet: "Nikolaus Pevsner called it 'the most splendid station façade in England'"
+score: 9.2
 ---
 
 Huddersfield station is the finest working railway station in England by most reckonings. Designed by James Pigott Pritchett and completed in 1850, it presents an immense classical portico to St George's Square — a row of giant Corinthian columns in local sandstone, flanked by symmetrical wings. Nikolaus Pevsner, not given to superlatives, called it "the most splendid station façade in England." It still functions as a busy station on the TransPennine and Northern routes, which means you can arrive here as an ordinary passenger and find yourself standing in front of something genuinely extraordinary.

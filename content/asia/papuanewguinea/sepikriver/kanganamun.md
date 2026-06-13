@@ -9,6 +9,7 @@ tags:
 latitude: -4.1758
 longitude: 143.2674
 story: "Margaret Mead worked here in the early 1930s while writing Sex and Temperament in Three Primitive Societies; her notebooks describe a haus tambaran already considered the finest in the region. The current building has been rebuilt three times since her visit, each time on the same plan as the one before."
+score: 9.5
 ---
 
 Kanganamun's spirit house — Wolimbi — is for many visitors the single most extraordinary man-made object on the Sepik. The structure soars to fifteen metres at the gable, with the front face entirely covered in painted sago-bark panels of ancestor faces, the eyes inlaid with cowrie shells. Inside, the roof beams disappear into darkness and the floor is lined with carved figures and garamut log drums big enough to crawl into.

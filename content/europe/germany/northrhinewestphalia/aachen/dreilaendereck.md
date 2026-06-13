@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The point where Germany, Belgium, and the Netherlands meet on a forested hilltop
+score: 6.5
 ---
 
 The Dreiländereck — Three Countries Triangle — is the border point where Germany, Belgium, and the Netherlands converge on a forested hilltop called the Vaalserberg, about 8 km west of Aachen city centre. At 322 metres it is also the highest point in the Netherlands, a distinction that is more amusing than impressive: you can walk from Germany into the Netherlands into Belgium and back in about thirty seconds. The markers and the small bronze monuments to European unity have a certain absurd charm.

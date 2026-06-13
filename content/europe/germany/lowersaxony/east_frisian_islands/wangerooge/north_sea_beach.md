@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 53.7955
 longitude: 7.9021
+score: 8.0
 ---
 
 Wangerooge's north-facing beach is the island's main attraction — a broad, gently shelving strip of pale sand stretching for most of the island's length. Wicker beach chairs (Strandkorbe) are available for rent, providing shelter from the wind that is a constant feature of North Sea beach life. The water is clean and cold, warming slightly in July and August when North Sea temperatures can reach 18-20°C.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "McAfee Knob is reputed to be the most photographed spot on the Appalachian Trail. The angled sandstone outcrop juts out over a 1,000-foot drop into Catawba Valley, and AT through-hikers traditionally pose with their boots over the edge. The trail itself is just over 4 miles each way from the parking area at Route 311, and the route is moderately strenuous but well marked."
+score: 9.2
 ---
 
 McAfee Knob is 20 minutes west of central Roanoke at the head of the Catawba Valley — a sandstone outcrop on the crest of Catawba Mountain at about 3,200 feet. The view from the knob takes in the whole Catawba and Roanoke valleys, with North Mountain rising on the far side and Tinker Cliffs visible to the north on the same ridge.

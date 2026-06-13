@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 34.9333
 longitude: 113.6167
+score: 7.1
 ---
 
 The Yellow River Scenic Area, about 30 kilometres north of Zhengzhou, is where the Yellow River — the mother river of Chinese civilisation — flows through a landscape of dramatic loess hills and wide sandy bends before spreading across the North China Plain. The area has been a site of reverence in China for millennia; the river is associated with the mythological Yellow Emperor (Huangdi), the legendary ancestor of the Chinese people, whose statue stands on the hillside above the river.

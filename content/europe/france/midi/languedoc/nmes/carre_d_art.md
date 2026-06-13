@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 7.8
 ---
 
 The Carré d'Art, opened in 1993, is Norman Foster's deliberate modern echo of the Roman temple across the square. Steel and glass, columns of the same proportions, a portico facing the Maison Carrée — the dialogue between the two buildings is one of the most cited examples of contemporary architecture engaging with classical heritage.

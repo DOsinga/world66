@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.1709
 longitude: 136.8819
+score: 6.8
 ---
 
 The twin towers sitting directly on top of Nagoya Station — 245 and 226 metres — were when they opened in 1999 the world's tallest station-and-hotel-and-shopping-mall combination, a record they have since lost but still hold the title for largest gross floor area. The taller north tower is the JR Central head office; the south tower houses the Marriott Associa hotel from floor 20 upwards.

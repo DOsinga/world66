@@ -6,6 +6,7 @@ longitude: -109.424167
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The island's main museum is small but does an excellent job of putting the moai in their cultural context — the canoes, the petroglyphs, the rongorongo script that nobody has fully deciphered, and the day-to-day life of the people who carved the statues. Exhibits are bilingual in Spanish and English.

@@ -8,6 +8,7 @@ tags:
 latitude: 38.5263
 longitude: 68.5386
 story: "The Madrasa-i Kuhna was founded in the 16th century and remained an active religious school until the 1920s, when Soviet authorities closed it. It is one of the oldest surviving Islamic teaching buildings in Tajikistan."
+score: 7.7
 ---
 
 The Madrasa-i Kuhna, or Old Madrasa, sits opposite the fortress gate and is the most substantial surviving building on the site. It is a low, square structure with an arched portal and a courtyard ringed by student cells. The brickwork is plain by Bukharan standards but the proportions are dignified.

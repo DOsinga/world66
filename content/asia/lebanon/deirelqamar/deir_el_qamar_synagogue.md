@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 A small seventeenth-century synagogue tucked into the lower streets of the town, the only synagogue in Mount Lebanon outside Beirut and one of the oldest in the country. It served the Jewish merchant community that lived alongside Druze, Maronites, and Sunnis under the Fakhreddine emirate.

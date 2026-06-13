@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: One of the Marche's finest provincial art museums, in the Palazzo dell'Arengo
+score: 7.9
 ---
 
 Ascoli's principal art gallery, housed in two long ceremonial wings of the Palazzo dell'Arengo on Piazza Arringo. The collection is built on confiscations from the city's suppressed monasteries — major panels by Crivelli, Titian's portrait of Pope Paul III, and a strong holding of 17th-century Marche paintings.

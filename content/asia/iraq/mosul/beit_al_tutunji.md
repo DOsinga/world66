@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 36.3416
 longitude: 43.1308
+score: 8.0
 ---
 
 Beit al-Tutunji is an early 19th-century merchant's house in the Old City of Mosul and one of the best surviving examples of Moslawi Ottoman vernacular architecture. The house was built by a prominent local trading family and features the characteristic features of the style: a central courtyard with an iwan (vaulted reception hall), elaborate carved plasterwork, and mashrabiya lattice screens on the upper windows that allowed women of the household to see the street without being seen.

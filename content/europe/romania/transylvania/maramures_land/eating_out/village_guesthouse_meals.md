@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.75
 longitude: 24.1
+score: 7.9
 ---
 
 Staying in a village guesthouse or eco-pension is the single best food experience Maramureș offers, and also the most practical: many villages have no restaurant at all, so if you are spending the night, the family table is where you eat. Book through local tourism networks or by calling ahead — most guesthouses in the Iza, Mara, and Cosău valleys take guests, and the prices are modest.

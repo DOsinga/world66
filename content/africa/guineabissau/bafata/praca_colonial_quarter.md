@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Bafat%C3%A1
+score: 7.4
 ---
 
 The heart of the old Portuguese colonial town occupies a low bluff above the Geba River. A handful of two-storey administrative buildings, a small covered market arcade, and the Praça — the central square — make up what remains of Bafatá's 19th-century identity as a regional trading and administrative centre for the eastern interior.

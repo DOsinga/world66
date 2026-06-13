@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The İsa Bey Mosque was built in 1374–75 for the Aydinid ruler İsa Bey and is one of the finest examples of architecture from the Anatolian beyliks — the small Turkish principalities that took over western Anatolia from the Byzantines before being absorbed by the Ottomans. The architect, Ali ibn Dimishqi of Damascus, drew on both Seljuk and Syrian-Mamluk traditions, and the building feels distinctly different from later Ottoman mosques.

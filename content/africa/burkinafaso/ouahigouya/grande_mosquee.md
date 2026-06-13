@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Diocese_of_Ouahigouya
+score: 6.7
 ---
 
 The Grande Mosquée of Ouahigouya is the city's principal mosque and one of the most prominent buildings in the urban landscape. It reflects the dominant Islam of the Sahelian north, which arrived in the region through Malian and Songhai trading networks long before French colonization. The mosque serves a large congregation and is most animated on Friday afternoons, when the overflow of worshippers fills the surrounding streets.

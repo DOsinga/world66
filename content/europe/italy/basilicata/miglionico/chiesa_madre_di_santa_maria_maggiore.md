@@ -9,6 +9,7 @@ latitude: 40.5668
 longitude: 16.5005
 sources:
   - https://en.wikipedia.org/wiki/Miglionico
+score: 7.5
 ---
 
 The parish church of Santa Maria Maggiore is the most important religious building in Miglionico. Its Renaissance portal is the standout element — an elegant carved doorway that speaks to the prosperity this small town once enjoyed. The separate Romanesque belfry is older and plainer, a solid stone tower that predates the Renaissance additions by several centuries.

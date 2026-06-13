@@ -10,6 +10,7 @@ longitude: 13.06667
 story: "The cemetery fields around Germa are one reason archaeologists could reconstruct the Garamantian story. Graves, not palaces, often preserve the clearest evidence of how a vanished desert society saw itself."
 sources:
   - https://slsgazetteer.org/1728/
+score: 7.1
 ---
 
 The Germa necropolis covers burial areas associated with the ancient settlement. It is one of the key archaeological zones for understanding the Garamantes, whose tombs have produced evidence of social status, trade connections and changing customs.

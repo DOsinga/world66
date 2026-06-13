@@ -9,6 +9,7 @@ latitude: 43.7196
 longitude: 7.2760
 story: >
   Cemenelum became the capital of the Roman province of Alpes Maritimae under Augustus, governing a territory that stretched from the Maritime Alps to the sea. At its peak in the 3rd century, the city held around 20,000 inhabitants — roughly half the size of modern Nice's old town. The city was abandoned in the 5th century after repeated barbarian raids, and its ruins lay undisturbed under the olive groves of Cimiez for over a millennium.
+score: 8.1
 ---
 
 The Roman archaeological site in Cimiez preserves the remains of ancient Cemenelum, which served as the regional capital of the Roman Empire's Alpine province from the 1st to the 5th centuries AD. The ruins are set in an olive grove adjacent to the Matisse Museum and are freely accessible.

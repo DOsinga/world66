@@ -9,6 +9,7 @@ latitude: 37.1120
 longitude: 79.9300
 story: >
   The Chinese imperial court's demand for Hotan nephrite drove one of the world's longest-running luxury trades. Jade from the Yurungkash and Karakash rivers was sent to Xi'an and Beijing for over three thousand years; Emperor Qianlong is said to have collected over 30,000 jade objects, many of them carved from Hotan stone.
+score: 8.2
 ---
 
 The daily jade bazaar in Hotan operates every morning near the main bazaar area, a specialist market within a market where the ancient trade in nephrite continues unchanged in its fundamentals. Dealers spread their stock on tables and on the ground: rough stones in cream, green, grey, and russet that came from the riverbeds upstream; polished cabochons; carved pendants and bangles; and the occasional large decorative piece of real quality.

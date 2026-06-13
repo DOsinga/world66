@@ -14,6 +14,7 @@ story: >
   was not to create a pleasure garden but a strategic agricultural experiment station.
 sources:
   - https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_Botanical_Garden
+score: 8.8
 ---
 
 The oldest botanical garden in the southern hemisphere and the single best reason to come to Pamplemousse. Spread across 37 hectares, the garden contains more than 80 species of palms from around the world, a central pond filled with the giant Victoria amazonica water lilies whose leaves can grow large enough to support a small child, and an extraordinary talipot palm that flowers only once after a lifespan of 40 to 80 years — then dies.

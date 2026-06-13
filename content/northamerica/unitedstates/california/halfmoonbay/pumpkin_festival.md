@@ -9,6 +9,7 @@ tags:
 story: The Weigh-Off has been running since 1974, and the world record set here in 2023 was a pumpkin grown by a horticulture teacher from Minnesota that weighed 1,247 kilograms — more than a small car. The growers truck the giants in on flatbeds wrapped in straw to protect them, and the winning fruit is carved on Halloween into a vast jack-o'-lantern.
 title: Art and Pumpkin Festival
 type: poi
+score: 6.8
 ---
 
 The Half Moon Bay Art and Pumpkin Festival has run on the third weekend of October every year since 1971 and is the town's defining event. It shuts down Main Street for two days for stalls, music stages, a parade, and pumpkin-themed everything (pies, ales, pancakes, beauty contests for pets in costume). About 250,000 people pass through across the weekend, which is roughly twenty times the town's population.

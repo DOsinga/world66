@@ -9,6 +9,7 @@ latitude: 30.0275
 longitude: 31.2579
 story: >
   The Sultan Hassan complex was funded partly by treasure looted from the estates of the victims of the Black Death, which killed a third of Egypt's population between 1347 and 1349. The plague created a sudden windfall of unclaimed property that the sultan directed into his building program. The result is one of the most ambitious architectural projects in Mamluk history — begun in 1356, it was still unfinished when Sultan Hassan was assassinated in 1361.
+score: 9.2
 ---
 
 The Mosque and Madrasa of Sultan Hassan, built between 1356 and 1363, is considered the masterpiece of Mamluk architecture. Its sheer scale is overwhelming from outside: the facade rises 38 metres, and the carved stone portal is 20 metres high. The proportions are perfect in a way that no photograph quite captures.

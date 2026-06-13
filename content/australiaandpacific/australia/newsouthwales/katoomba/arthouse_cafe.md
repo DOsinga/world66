@@ -7,6 +7,7 @@ tags:
   - cafe
 title: Arthouse Cafe
 type: poi
+score: 5.5
 ---
 
 A comfortable independent cafe on the main strip that opens early — useful if you are heading out for a morning walk before the day-trip crowds arrive. The espresso is reliably good, the food is honest cafe fare, and the walls rotate work by local Blue Mountains artists. It fills up on weekend mornings, so arrive before 9am if you want a seat.

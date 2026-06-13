@@ -12,6 +12,7 @@ story: >
   landscape. When the Canary Islands joined Spain's national park system in the 1980s, the
   area's development was frozen — which is the only reason these beaches remain backed by
   low-rise cliffs rather than apartment blocks.
+score: 8.6
 ---
 
 The Papagayo beaches are a string of five or six sheltered coves tucked into the volcanic cliffs about three kilometres east of Playa Blanca. Each cove is separated from the next by a rocky headland, giving them a feeling of seclusion despite the numbers that descend in summer. The water is clear and calm, the sand white, and the setting — low reddish cliffs, lava fields running down to the sea — unmistakably Canarian.

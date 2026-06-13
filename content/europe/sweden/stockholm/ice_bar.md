@@ -6,6 +6,7 @@ tags:
 - bar
 title: Ice Bar
 type: poi
+score: 4.7
 ---
 
 Neat place to see a bar constructed entirely out of ice. Touristy but well worth the visit.

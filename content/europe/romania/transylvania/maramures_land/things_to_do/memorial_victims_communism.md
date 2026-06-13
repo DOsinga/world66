@@ -8,6 +8,7 @@ latitude: 47.9278
 longitude: 23.8872
 sources:
   - https://en.wikipedia.org/wiki/Memorial_Museum_of_the_Victims_of_Communism_and_of_the_Resistance
+score: 9.3
 ---
 
 The building on Corneliu Coposu Street in Sighetu Marmației looks unremarkable from outside — a grey stone block, compact, severe. Inside it is one of the most unsettling places in Romania. This was the prison where the communist regime sent the people it most wanted to erase: former cabinet ministers, bishops, academics, generals, journalists, anybody who had held a position of influence before 1947 and might therefore form the nucleus of resistance. They were not tried publicly. They were simply made to disappear.

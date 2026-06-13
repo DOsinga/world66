@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
 snippet: Quiet boutique cafe with vegetarian breakfasts and book exchange
+score: 6.6
 ---
 
 Abis Cafe is a small boutique cafe on Calle San Alberto, run by a young Bolivian-French couple. Mornings are mostly breakfast — granola bowls, eggs, fresh fruit, omelettes, a respectable French toast — and lunchtimes turn to wraps, soups, and salads built around local produce from the Tarija valley. They take coffee seriously: well-pulled espresso and pour-overs using Bolivian beans.

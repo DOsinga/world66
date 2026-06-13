@@ -9,6 +9,7 @@ latitude: 26.7714
 longitude: -77.3247
 sources:
   - https://en.wikipedia.org/wiki/Green_Turtle_Cay
+score: 6.9
 ---
 
 The Albert Lowe Museum in New Plymouth on Green Turtle Cay is the best local history museum in the Abacos. It occupies a restored loyalist cottage — whitewashed plank walls, low ceilings, wide-board floors — and tells the story of the American loyalist families who settled the northern Bahamas after the Revolution and built a boatbuilding and wrecking economy that sustained them for more than a century.

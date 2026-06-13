@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 37.1100
 longitude: 25.3725
+score: 6.7
 ---
 
 The string of bars and cafés facing the Portara peninsula from the waterfront becomes one of the more atmospheric drinking spots in the Cyclades every evening when the sun descends toward the marble gateway. The gathering is informal — some people are on café terraces with proper seats and menus, others are perched on the sea wall with a can from a nearby kiosk — and the atmosphere is relaxed in the way that somewhere beautiful and genuinely public can be, when it hasn't been fully commodified.

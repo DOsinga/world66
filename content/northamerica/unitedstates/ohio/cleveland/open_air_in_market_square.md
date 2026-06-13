@@ -9,6 +9,7 @@ tags:
 - market
 title: Open Air in Market Square
 type: poi
+score: 5.9
 ---
 
 An urban outdoor market in Ohio City's Market Square Park, right across from the West Side Market. Vendors sell local produce, crafts, and street food while live performers keep the atmosphere lively. Open Saturday afternoons during summer only, but it's a Cleveland tradition that pairs perfectly with a morning trip to the West Side Market.

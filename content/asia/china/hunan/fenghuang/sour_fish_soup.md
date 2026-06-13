@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 27.9525
 longitude: 109.5880
+score: 6.7
 ---
 
 Suantang yu — sour fish soup — is the signature dish of Fenghuang and the Xiangxi region. River fish (typically carp or grass carp) are cooked in a broth made with fermented rice wine, fermented vegetables, fresh tomatoes, and dried chilli, producing a soup that is simultaneously sharp, savoury, and slightly sweet. The sourness comes from the fermentation rather than from vinegar, which gives it a more complex flavour than the broth's description suggests. Served with white rice and pickled vegetables on the side.

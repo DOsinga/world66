@@ -9,6 +9,7 @@ latitude: 30.1850
 longitude: -96.3200
 story: >
   A small community of Franciscan Poor Clares moved to the site in the 1980s and took up miniature horse breeding to support themselves — an unusual choice that drew a steady stream of visitors and turned the monastery into a minor Brenham attraction.
+score: 5.9
 ---
 
 The Monastery of St. Clare is a small contemplative convent on the eastern edge of Brenham, home to a community of cloistered Poor Clare nuns. The sisters breed and sell miniature horses — registered American Miniature Horse Association stock — from a farm on the monastery grounds.

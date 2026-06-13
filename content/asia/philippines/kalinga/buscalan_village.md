@@ -15,6 +15,7 @@ story: >
   become a destination, and she now mostly hand-marks tourists with small
   symbolic designs; the more elaborate work is done by her grandnieces, whom
   she has trained as successors.
+score: 9.0
 ---
 
 Buscalan is a tiny terraced village of about thirty households high above the Chico river, reached by a 5 km uphill trail from the trailhead at Buscalan Junction (which is itself a long bumpy van ride from Tabuk). The village is the home of **Whang-od Oggay**, who has practised the centuries-old Kalinga *batok* hand-tapped tattoo on more visitors than she can count.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Scheveningen Haven
 type: poi
+score: 7.4
 ---
 
 Scheveningen Haven is the working fishing harbour at the northern end of the resort, separated from the boulevard by a long stretch of dune. There are three basins: an outer commercial harbour for North Sea trawlers, an inner marina for pleasure boats, and a fish auction hall where the morning catch is sold to wholesalers between 06:00 and 09:00 (visitor balcony free of charge).

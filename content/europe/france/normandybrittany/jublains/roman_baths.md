@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 48.2575
 longitude: -0.4970
+score: 8.1
 ---
 
 The thermal baths at Jublains are among the most extensive surviving Gallo-Roman bath complexes in northwestern France. The foundations of the frigidarium, tepidarium, and caldarium are clearly visible, along with the hypocaust heating system — the underfloor channels that carried hot air beneath the bathing rooms.

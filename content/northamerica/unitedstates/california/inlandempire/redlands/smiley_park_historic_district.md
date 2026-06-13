@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood_area
   - architecture
+score: 8.1
 ---
 
 The Smiley Park Historic District is a residential neighbourhood directly south of downtown Redlands and the densest concentration of restored Victorian and early Craftsman houses in the city. The streets are lined with mature deodar cedars and palms — a townscape choice typical of California's late-19th-century citrus barons — and the houses run from elaborate Queen Anne mansions to more modest Craftsman bungalows.

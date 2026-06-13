@@ -9,6 +9,7 @@ latitude: 29.95694
 longitude: -90.06278
 story: >
   The equestrian statue of Andrew Jackson in the centre was the first such statue cast in the United States, in 1856. Jackson is depicted tipping his hat — an unusual choice for a military monument — and the casting was technically remarkable for its time, balancing the entire weight of horse and rider on the two rear hooves.
+score: 8.9
 ---
 
 Jackson Square is the heart of the French Quarter and arguably the heart of New Orleans. The square was laid out in 1721 as the Place d'Armes — the military parade ground of the French colonial city — and has been the focal point of New Orleans life ever since. Andrew Jackson's equestrian statue dominates the centre, surrounded by the green lawns of the square, and beyond it rises the triple-spired St Louis Cathedral, the oldest continuously active cathedral in the United States.

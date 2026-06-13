@@ -15,6 +15,7 @@ story: >
   remained largely intact.
 sources:
   - https://en.wikipedia.org/wiki/Eilat
+score: 8.6
 ---
 
 The main site for snorkeling and diving along Eilat's southern shore, protecting one of the world's northernmost coral reefs. The reserve covers about 1.2 kilometres of coastline where the reef begins almost immediately offshore. You can wade in from the beach and be among reef fish within minutes. The underwater visibility is typically excellent — often 20 metres or more — and the coral formations are dense and varied, with sea fans, brain corals, and forests of branching staghorn corals.

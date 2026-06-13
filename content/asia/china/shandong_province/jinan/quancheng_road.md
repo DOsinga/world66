@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6530
 longitude: 116.9986
+score: 6.7
 ---
 
 Quancheng Road is the main east–west artery of Jinan's old city, running from the Baotu Spring area east through the historic spring district and commercial center. The street has been pedestrianised in its western section, and the combination of old architecture, spring water channels, and dense commercial activity makes it the most characteristic urban experience in Jinan.

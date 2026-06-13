@@ -10,6 +10,7 @@ latitude: 44.8417
 longitude: 14.7100
 sources:
   - https://en.wikipedia.org/wiki/Lopar,_Croatia
+score: 8.8
 ---
 
 Rajska Plaža — Paradise Beach — is the longest sandy beach in Croatia and one of the best on the entire Adriatic. It stretches for nearly two kilometres at the northern tip of the Lopar peninsula, with fine white sand (not the pebbles or rock you find almost everywhere else on the Croatian coast) and shallow, brilliantly clear water that stays warm well into September.

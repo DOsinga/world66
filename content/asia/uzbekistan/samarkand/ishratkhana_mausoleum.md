@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Ruined 15th-century Timurid royal mausoleum on the city's eastern edge"
+score: 7.1
 ---
 
 The Ishratkhana — 'house of joy' — was built in the 1460s by the wife of the Timurid ruler Abu Said as a mausoleum for their daughter. An earthquake in 1903 brought down the dome, and the building has been a roofless ruin ever since. Restoration work has stabilised the walls and recovered fragments of the interior frescoes, which are unusual in Timurid architecture for their figurative scenes.

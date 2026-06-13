@@ -7,6 +7,7 @@ tags:
 latitude: 8.1463
 longitude: 123.8444
 snippet: "The province's largest city and main commercial port"
+score: 6.4
 ---
 
 Ozamiz City sits at the southwestern tip of Misamis Occidental, on the narrow channel that separates the province from Lanao del Norte. It is the busiest of the province's cities — a port for ferries to Mukas (about 20 minutes by RoRo, the fastest route to Iligan and Cagayan de Oro), a Catholic university town, and the home of the [Cotta Fort](/asia/philippines/misamis_occidental/cotta_fort), the most-visited heritage site in the province.

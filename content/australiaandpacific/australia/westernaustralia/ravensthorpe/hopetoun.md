@@ -5,6 +5,7 @@ snippet: Small coastal town 50 km south, gateway to Fitzgerald River National Pa
 tags: [things_to_do, sight]
 latitude: -33.9494
 longitude: 120.1257
+score: 7.8
 ---
 
 Hopetoun sits on the coast 50 km south of Ravensthorpe — a quiet beach town with a long jetty, white sand, and clear water. It is the eastern access point to Fitzgerald River National Park, one of the most biodiverse temperate floras on Earth and a UNESCO biosphere reserve.

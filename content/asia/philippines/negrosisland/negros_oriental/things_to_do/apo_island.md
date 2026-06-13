@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 9.0831
 longitude: 123.2699
+score: 9.2
 ---
 
 Apo Island sits about 45 minutes by outrigger boat from the coastal village of Dauin, and its marine sanctuary is consistently ranked among the best dive and snorkel sites in the Philippines. The community-managed reef has been protected since the 1980s, and the result is coral that is dense, healthy, and alive with fish. Large schools of jacks wheel through the water, and the island's sea turtles — green and hawksbill both — are so used to human visitors that they continue grazing on the coral as divers drift past.

@@ -13,6 +13,7 @@ story: "Vroman's was founded in 1894 by Adam Clark Vroman, a bookseller who also
   a century and is now the oldest independent bookstore in Southern California."
 snippet: California's oldest independent bookstore, founded 1894 on Colorado Boulevard
 type: poi
+score: 7.3
 ---
 
 Vroman's is one of the genuinely great independent bookshops remaining in Southern California: large enough to have a serious selection across all categories, small enough to feel like a place where the staff have actually read the books they're recommending. It occupies a substantial corner space on Colorado Boulevard and has a calendar of author events that reflects Pasadena's literary and intellectual culture.

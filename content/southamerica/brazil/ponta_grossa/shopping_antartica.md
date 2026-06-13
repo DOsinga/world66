@@ -10,6 +10,7 @@ tags:
 title: Shopping Antártica
 type: poi
 url: http://www.shoppingantartica.com.br
+score: 2.4
 ---
 
 The main shopping mall in Ponta Grossa, sitting on Rua Vicente Machado near the city centre. A mid-sized Brazilian mall with the usual mix of clothing shops, a food court, and a cinema. Useful if you need air conditioning and a meal in one stop, but not a destination in itself.

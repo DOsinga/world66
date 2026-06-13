@@ -7,6 +7,7 @@ tags:
 latitude: 49.3700
 longitude: 0.0790
 story: "The seafront promenade — les planches — was first laid in 1867, when the fashion for sea bathing brought wealthy Parisians by the thousands. The wooden boards saved their leather shoes from sand; the line of bathing huts behind dates to roughly the same period and is still in use."
+score: 8.2
 ---
 
 The boardwalk along Trouville's beach is the symbolic centre of the town. A line of wooden planks runs for nearly two kilometres above the sand, fronted by a row of small painted bathing huts that families rent for the summer. Belle Époque villas, the casino, and the Cures Marines spa form a backdrop on the inland side.

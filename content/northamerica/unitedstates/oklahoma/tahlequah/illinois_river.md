@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 7.2
 ---
 
 The Illinois River north of Tahlequah is one of the most popular float rivers in Oklahoma — clear, relatively fast-moving, and lined with trees and limestone bluffs in a way that feels more like the Ozarks than the southern plains. Canoe and kayak outfitters cluster along the river and will rent you a boat and shuttle you upstream for a half-day or full-day float back to town. The river is cold enough to swim in even in midsummer.

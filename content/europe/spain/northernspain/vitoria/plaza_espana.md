@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Plaza de España
 type: poi
+score: 6.7
 ---
 
 Plaza de España — also known as Plaza Nueva — is Vitoria's neoclassical main square, built in the early 19th century with matching arcaded facades on all four sides. It is smaller and more uniform than the adjacent Plaza de la Virgen Blanca, with an elegant formality that makes it feel more French than Spanish. The arcades house cafés and the pintxos bars for which the area is known; on Sunday mornings there is a market on the square.

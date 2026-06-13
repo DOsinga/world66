@@ -9,6 +9,7 @@ tags:
 - pelourinho
 snippet: Carved limestone facade unique in the Americas
 story: "The carved facade was buried under plaster for nearly two centuries — covered up in the 18th century, when it had fallen out of fashion, and only rediscovered in 1936 when restoration workers chipped through the smooth white wall."
+score: 8.2
 ---
 
 Immediately next to São Francisco church and easily missed because of its more famous neighbour. The Third Order facade is in fact the more unusual of the two: a deeply carved Spanish-colonial-style frontispiece in sandstone, the only one of its kind on a Brazilian church.

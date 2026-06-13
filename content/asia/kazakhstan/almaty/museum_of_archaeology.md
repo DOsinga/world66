@@ -6,6 +6,7 @@ longitude: 76.9489
 tags:
   - things_to_do
   - museum
+score: 8.1
 ---
 
 The Museum of Archaeology sits within the complex of the National Academy of Sciences, a Soviet-era cluster of buildings on a boulevard near the city centre. The collection focuses on the prehistoric and early historic cultures of the Kazakh steppe and mountains — the Saka, Wusun, and Kangju peoples who occupied this territory before the Turkic migrations of the early medieval period.

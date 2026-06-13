@@ -6,6 +6,7 @@ longitude: -60.9938
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A simple stone obelisk on the very top of Morne Fortune, the Inniskilling Monument marks the spot where the 27th (Inniskilling) Regiment of Foot raised the British flag over Saint Lucia in 1796, finally taking the heights from the French and their Brigand allies. The view, on a clear day, runs from the harbour to the open Caribbean and round to Pigeon Island in the far distance.

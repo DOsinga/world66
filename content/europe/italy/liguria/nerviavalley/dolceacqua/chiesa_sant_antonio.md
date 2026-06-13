@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8505
 longitude: 7.6239
+score: 5.9
 ---
 
 The parish church of Sant'Antonio Abate is the principal religious building in the Borgo, a baroque rework of an older medieval structure, with a tall bell tower visible from the bridge. The interior is sober — pale plaster, an eighteenth-century altarpiece by Maraglio, and a side panel of the Madonna and saints by the Niçois Renaissance painter Ludovico Brea.

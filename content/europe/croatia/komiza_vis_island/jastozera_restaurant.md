@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.0514
 longitude: 16.0877
+score: 7.4
 ---
 
 Jastozera is one of the most celebrated seafood restaurants on the Dalmatian coast, occupying a former lobster tank cave built into the sea cliff at the southern end of Komiža harbour. The original function of the space was to keep live lobsters fresh before market — hence the name, which means lobster tank — and the cave's connection to the sea means the setting is unlike any other restaurant in Croatia.

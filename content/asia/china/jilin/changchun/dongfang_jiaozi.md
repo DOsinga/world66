@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8870
 longitude: 125.3200
+score: 6.7
 ---
 
 Dongfang Jiaozi Wang — "East Dumpling King" — is one of Changchun's most reliable and well-known dumpling restaurants, representing the northeastern Chinese dumpling tradition at its best. The dumplings here are large, the skins substantial, and the fillings built around pork, lamb, and seafood combinations that reflect the region's cooking traditions.

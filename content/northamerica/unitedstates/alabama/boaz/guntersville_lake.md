@@ -6,6 +6,7 @@ tags:
 - sight
 title: Lake Guntersville
 type: poi
+score: 8.1
 ---
 
 Lake Guntersville, formed by a Tennessee Valley Authority dam on the Tennessee River, lies about 15 miles north of Boaz and is one of the largest lakes in Alabama. The lake and surrounding Guntersville State Park offer fishing, boating, hiking, camping, and a swimming beach set in the scenic hill country of northeastern Alabama.

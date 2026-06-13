@@ -8,6 +8,7 @@ tags:
 latitude: 10.7697
 longitude: 106.6978
 snippet: "Three-floor colonial mansion housing Vietnamese art from the 20th century to today"
+score: 8.6
 ---
 
 The Ho Chi Minh City Museum of Fine Arts occupies a handsome 1930s colonial-era mansion in District 1, its yellow-painted facade typical of the French period. The collection spans three floors and covers Vietnamese art from traditional lacquerware and silk paintings through socialist realism of the war years to contemporary installation art.

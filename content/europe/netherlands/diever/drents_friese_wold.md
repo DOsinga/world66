@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 52.8800
 longitude: 6.2900
+score: 8.8
 ---
 
 The Drents-Friese Wold is one of the largest contiguous forest and heathland areas in the Netherlands, covering around 6,000 hectares across the Drenthe-Friesland border. Diever sits at its southern edge, making it one of the best starting points for exploring the park by foot or bicycle. The landscape is a mixture of ancient oak and beech forest, open heathland, sand drifts, and small streams — characteristic of the Pleistocene sand plain that underlies much of this part of the Netherlands.

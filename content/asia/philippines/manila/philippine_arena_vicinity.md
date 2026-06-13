@@ -7,6 +7,7 @@ tags:
 latitude: 14.5798
 longitude: 120.9870
 snippet: The original foreign traveller's district in Manila, now faded but still functional as a base
+score: 6.7
 ---
 
 Ermita is the historical centre of Manila's tourist belt — the neighbourhood where foreign travelers have been staying since the Spanish colonial era. The grand hotels and restaurants of the twentieth century have mostly closed or been replaced, but a core of guesthouses, budget hotels, restaurants, and travel agencies remains, centred on M.H. Del Pilar Street and the surrounding blocks.

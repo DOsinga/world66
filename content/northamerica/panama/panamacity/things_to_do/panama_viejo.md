@@ -3,6 +3,7 @@ title: Panamá Viejo Ruins
 type: poi
 latitude: 8.9940
 longitude: -79.4803
+score: 8.4
 ---
 
 Panamá Viejo is what remains of the original city of Panama, founded by Spanish conquistador Pedro Arias Dávila in 1519 — one of the oldest continuously occupied European settlements on the Pacific coast of the Americas. The city was sacked and largely destroyed in 1671 by the Welsh privateer Henry Morgan, who led an overland raid across the isthmus with around 1,200 men, looted the city, and left it in flames. Rather than rebuild on the same site, the Spanish founded the new city — today's Casco Viejo — a few kilometres to the west on a more defensible peninsula.

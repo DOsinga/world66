@@ -10,6 +10,7 @@ latitude: 46.2014
 longitude: -123.3837
 sources:
   - https://en.wikipedia.org/wiki/Pioneer_Church
+score: 6.1
 ---
 
 The Pioneer Church, also known as the Congregational Church, was built in 1895 and added to the National Register of Historic Places in 1973. It stands at 125 Columbia Street, a white clapboard building in what historians call Northwest Style — straightforward, practical, and a good match for the community that built it.

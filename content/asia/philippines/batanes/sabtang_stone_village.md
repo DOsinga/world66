@@ -14,6 +14,7 @@ story: >
   When a typhoon passes, some houses lose part of their roof and the Ivatan simply rethatch it.
   The house itself, with its thick stone walls, rarely takes structural damage. It is one of the
   oldest and most practical building traditions in the Pacific.
+score: 9.2
 ---
 
 The stone villages of Sabtang Island are the most striking architectural sight in Batanes. The *vakul*-wearing Ivatan women and the rows of traditional houses with their thick lime-rendered walls and deep cogon-grass roofs look like a village from several centuries ago — which, in a sense, they are. The stone and grass construction has changed little because it works: these houses have been surviving Pacific typhoons for generations. Several villages on Sabtang are well-preserved enough to be submitted for UNESCO World Heritage status.

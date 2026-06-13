@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The refuge's bison herd descends from fifteen animals shipped by train from the Bronx Zoo in 1907, as part of one of the first successful species-recovery programmes in the world. American bison had been almost wiped from the southern plains; this small group, released into the Wichitas, became the core of a herd that now numbers around 650."
+score: 9.1
 ---
 
 The Wichita Mountains Wildlife Refuge protects 59,000 acres of granite-knobbed prairie, mixed-grass meadow, and oak woodland in the southwest of Oklahoma. The granite peaks look like rounded sugar lumps dropped on the Great Plains. Free-roaming bison, elk, white-tailed deer, prairie dogs, and longhorn cattle live across the refuge.

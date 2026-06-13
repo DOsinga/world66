@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 7.7
 ---
 
 A late sixteenth-century merchant's house preserved as a small museum, **Quedens Gaard** sits in the maze of half-timbered streets just south of Torvet. The interior — courtyard, kitchen, panelled reception rooms, attic — gives a vivid sense of how Ribe's better-off citizens lived in the centuries when the town was Denmark's most important western port.

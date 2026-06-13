@@ -7,6 +7,7 @@ address: "Bucareli 62, Colonia Juárez"
 latitude: 19.4309
 longitude: -99.1521
 story: "Fidel Castro and Che Guevara are said to have planned the 26th of July Movement at one of these tables in 1955 while exiled in Mexico City. The waiters were so used to seeing the pair argue over coffee for hours that they thought nothing of it."
+score: 7.5
 ---
 
 The Habana is the most famous café in Mexico City — opened in 1952, almost entirely unchanged since. Cigarette smoke once filled the long, narrow room; that part has gone, but the dark-wood booths, the tin coffee urns behind the counter, and the slow waiters remain. It served as a hangout for Mexican intellectuals, including Carlos Monsiváis and Roberto Bolaño, and as a meeting point for Cuban revolutionaries in exile.

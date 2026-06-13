@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Local Buddhists consider the cranes sacred and will not interfere with them — when the cables were laid to bring electricity to the valley in the 2000s, they were buried underground rather than strung on poles, so that the birds would not collide with them. The crane festival, held each November at Gangtey Goemba, is timed to celebrate the birds' arrival."
+score: 5.3
 ---
 
 The Phobjikha Valley is a broad U-shaped glacial valley at around 3,000 metres, about 70 km east of Wangdue Phodrang town. From late October to mid-February it becomes the wintering ground for several hundred **black-necked cranes** that migrate down from the Tibetan plateau.

@@ -14,6 +14,7 @@ story: >
   specimens of Amorphophallus titanum, the corpse flower, which blooms once
   every several years and produces an overwhelming smell of rotting flesh to
   attract pollinators.
+score: 9.1
 ---
 
 The Bogor Botanical Gardens are one of the finest tropical botanical gardens in the world and the defining attraction of the city. Covering 87 hectares in the centre of Bogor, the gardens hold over 15,000 species of trees and plants, with specimens collected from across the tropical world over two centuries.

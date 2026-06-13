@@ -8,6 +8,7 @@ tags:
   - sight
   - eating_out
 story: "The roulottes — the bright food trucks that swarm Place Vai'ete every evening — started turning up in the 1960s and were almost banned several times by city authorities embarrassed by the look of the operation. Locals fought back. Today they are arguably the city's only essential dining institution and pour into the square at sundown like clockwork."
+score: 8.0
 ---
 
 Place Vai'ete is a plain concrete square on the waterfront near the ferry terminal, empty and unremarkable during the day. At sunset it transforms: thirty-odd roulottes — the brightly painted food trucks with built-in counters and plastic stools — roll in, set up, and start serving until past midnight.

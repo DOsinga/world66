@@ -13,6 +13,7 @@ story: >
   in the Arabian Gulf and was adopted by Swahili sailors because it could be built from
   local materials (the mangrove timber used for the hull) and sailed by a single person
   with minimal equipment. The basic design has changed very little since the 9th century.
+score: 8.2
 ---
 
 The Quirimbas Archipelago is best explored by dhow — the traditional lateen-rigged sailing vessel that has been the working transport of this coast for a thousand years. Local fishermen and traders still use dhows to move between the islands, and several operators based on Ibo offer guided dhow excursions to the uninhabited islands and sandbanks of the southern archipelago.

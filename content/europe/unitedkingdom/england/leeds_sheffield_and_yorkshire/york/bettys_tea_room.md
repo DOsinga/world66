@@ -15,6 +15,7 @@ story: >
   wall — a custom that spread until dozens of signatures covered the glass.
   Some of those men did not return from their next mission. The mirror is still
   there, the scratched names still legible.
+score: 7.6
 ---
 
 Bettys on St Helen's Square is the flagship branch of a small Yorkshire chain with a devoted following in the county. The café was founded in 1919 by Frederick Belmont, a Swiss confectioner who came to England and adapted his skills to Yorkshire tastes. The result was a combination of Swiss patisserie technique with Yorkshire baking tradition — fat rascals (rich fruit scones with cherries and almonds), Yorkshire curd tart, and elaborate Swiss-style cakes have been on the menu since the beginning. The formal service and the period interior have been maintained with considerable care.

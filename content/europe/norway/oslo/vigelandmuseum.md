@@ -6,6 +6,7 @@ tags:
 title: Vigeland Museum
 type: poi
 url: www.vigeland.museum.no
+score: 6.1
 ---
 
 The website given below also gives informatin of the Vigeland Park, sometimes still called the Frognerpark. This is free and has 212 sculptures by Gustaf Vigeland including the Obelisk and the Wheel of Life. Another popular sculpture is Sinnataggen - a baby boy stamping his foot in fury. This statue was stolen a few years back, and in the process they injured it's foot. It's been repaired since then.

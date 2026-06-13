@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Church of Sant Feliu
 type: poi
+score: 8.2
 ---
 
 The second great church of Girona's old town, dedicated to Sant Feliu (St. Felix), the city's first patron saint. The building spans a remarkable range of periods: the base is Romanesque, the nave Gothic, and parts of the exterior were added in the 18th century. The steeple was struck by lightning in 1581 and never fully rebuilt, which gives the church an appealingly asymmetrical profile.

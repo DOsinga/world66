@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 12.0513
 longitude: -61.7499
+score: 8.8
 ---
 
 The Carenage is the heart of St. George's — a horseshoe-shaped inner harbour lined with Georgian warehouses painted in faded pastels and fronted by a waterfront walk. Small fishing boats, water taxis, and the occasional inter-island schooner share the water with cruise ship tenders when the big ships call. It is the most photogenic part of the city and worth walking slowly, ideally in the late afternoon when the light is good and the water takes on the colour of the sky.

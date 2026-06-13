@@ -9,6 +9,7 @@ tags:
 - nevskiyprospekt
 title: Staroe Kafe
 type: poi
+score: 4.9
 ---
 
 A tiny, cozy café serving traditional Russian food on the Fontanka embankment. Not a nightlife spot — more of a place to warm up with a bowl of borscht and a cup of tea. Open daily 12:00-23:00. Nearest metro: Tekhnologichesky Institut.

@@ -9,6 +9,7 @@ tags:
 title: Centennial Park
 type: poi
 snippet: 460-acre wooded park with trails, swimming pond, and winter cross-country skiing
+score: 6.6
 ---
 
 Centennial Park is Moncton's biggest green space — 460 acres of mixed forest, walking trails, a small swimming pond with a sand beach, a duck pond, tennis courts, and a play area for children. Established to mark Canada's centenary in 1967, it sits on the west side of the city and is easy to reach by bike or car.

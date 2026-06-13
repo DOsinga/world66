@@ -7,6 +7,7 @@ tags:
   - fishing
 latitude: 34.1180
 longitude: -94.6710
+score: 8.2
 ---
 
 The lower Mountain Fork below the dam is one of the most productive trout streams in the south-central United States, even though Oklahoma is not a state most anglers associate with trout. The Oklahoma Department of Wildlife stocks it heavily with rainbows, with brown trout reproducing naturally on the spring-fed sections. A trout licence is required in addition to a regular fishing licence.

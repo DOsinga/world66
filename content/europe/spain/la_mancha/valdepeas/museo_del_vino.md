@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Valdepe%C3%B1as_(DO)
 story: >
   Valdepeñas wine built Madrid. For most of the 19th and early 20th centuries, the bulk of the house wine served in the city's taverns came from here — carried north by mule, then by rail. The denomination's reputation for cheap, high-volume production stuck even as quality rose sharply. The museum traces that long, complicated arc from bulk supplier to respected DO.
+score: 7.9
 ---
 
 The Museo del Vino occupies a restored 19th-century bodega on Calle Princesa — one of the old urban wine warehouses that once dotted the town centre before production moved to larger facilities outside. The building itself is part of the exhibit: thick stone walls, dark wooden beams, and the lingering smell of oak that no renovation quite removes.

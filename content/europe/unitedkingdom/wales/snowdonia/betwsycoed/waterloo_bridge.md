@@ -10,6 +10,7 @@ tags:
   - architecture
   - bridge
 story: "Cast in the same year as the Battle of Waterloo, the bridge bears a Welsh-language inscription incorporating the rose of England, the thistle of Scotland, the shamrock of Ireland and the leek of Wales — a Union Jack in flowers, cast in iron."
+score: 6.8
 ---
 
 Thomas Telford's elegant cast-iron span carries the A5 over the River Conwy at the eastern entrance to the village. It was opened in 1815 and is one of the earliest large cast-iron bridges still in daily traffic use. The single arch reaches across the river in a flat curve, the spandrels filled with delicate iron tracery of national emblems.

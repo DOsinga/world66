@@ -6,6 +6,7 @@ tags:
   - museum
 title: Coos History Museum
 type: poi
+score: 7.5
 ---
 
 The Coos History Museum opened in a purpose-built bayfront building in 2015, replacing a cramped Victorian-era facility and finally giving one of Oregon's oldest local historical collections room to breathe. The museum was community-funded — more than 550 donors contributed — and the result is a well-organized, thoughtfully presented institution with exhibits covering Native American life, coal mining, shipbuilding, logging, and the maritime history of the bay.

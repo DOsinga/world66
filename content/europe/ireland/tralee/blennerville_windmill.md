@@ -12,6 +12,7 @@ story: >
   windmill carrying thousands of people to America, many of whom did not
   survive the crossing. The visitor centre documents these departures in
   detail — it is a sobering counterpoint to the picturesque windmill above.
+score: 7.6
 ---
 
 The Blennerville Windmill is the largest working windmill in Ireland, a 21-metre stone tower mill built in 1800 on the edge of Tralee Bay. It fell into disuse in the late 19th century, was restored by Tralee Urban District Council in the 1980s, and reopened in 1990 as a working attraction — the sails still turn when the wind permits, and the millstones still grind wheat.

@@ -8,6 +8,7 @@ snippet: Downtown's main artery, with brick storefronts, restaurants and the Sat
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 **Victoria Street** is the spine of downtown Kamloops — a wide tree-lined boulevard running east–west for several blocks through the centre, lined with restored late-19th and early-20th-century brick storefronts. It is the city's most pleasant urban walking environment, with cafés, brewpubs, independent shops and a number of public art installations.

@@ -6,6 +6,7 @@ longitude: -3.4789
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 St Andrew's, in the centre of town, is the lower of Minehead's two ancient churches — a small Victorian rebuild of a much older chapel that originally served the fishermen of the harbour district. It is grade II listed for its modest tower and east window and remains an active parish church.

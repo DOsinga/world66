@@ -7,6 +7,7 @@ address: 24 Elm Street, Montpelier, VT
 tags:
   - bars_and_cafes
   - cafe
+score: 6.9
 ---
 
 A small bakery-café on Elm Street with the best croissants and morning pastries in central Vermont — laminated, properly baked, sold by the time the legislature is in session. There is a short menu of breakfast sandwiches and decent coffee.

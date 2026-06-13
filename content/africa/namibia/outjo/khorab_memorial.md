@@ -10,6 +10,7 @@ snippet: "The spot where Germany surrendered South West Africa to South African 
 story: "The Khorab Armistice of 9 July 1915 ended Germany's colonial administration of South West Africa. The German commander Victor Franke hoped to continue guerrilla resistance and negotiated terms that allowed German officers to keep their swords — a rare concession in a World War I surrender. The armistice site was chosen partly because it was remote enough that neither side had to be seen surrendering in front of civilians."
 sources:
   - https://en.wikipedia.org/wiki/Khorab_Memorial
+score: 5.6
 ---
 
 The Khorab Memorial stands about 7km north of Outjo on the road to Etosha, marking the spot where German forces surrendered South West Africa on 9 July 1915. A white obelisk in a small clearing beside the road commemorates the event. The setting is suitably quiet and remote — just the bush, the dust, and a historical marker for one of the quieter episodes of the First World War.

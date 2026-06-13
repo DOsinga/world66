@@ -7,6 +7,7 @@ tags:
 - things_to_do
 latitude: 38.5728
 longitude: -90.4636
+score: 6.7
 ---
 
 The Museum of Transportation, in west St Louis County, holds one of the largest and best-curated collections of historic transportation in the United States — over 70 locomotives, dozens of vintage cars, riverboats, planes, and even a section of original Interstate concrete.

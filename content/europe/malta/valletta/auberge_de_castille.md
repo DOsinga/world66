@@ -15,6 +15,7 @@ story: >
   seven auberges survive in various states of preservation. The Auberge de Castille, for
   Spanish and Portuguese knights, was the most prestigious because it housed the Grand Master
   and still does — as the Prime Minister's office.
+score: 6.8
 ---
 
 The Auberge de Castille, León and Portugal is the grandest of the surviving auberges of the Knights of St John in Valletta, and it now serves as the office of the Prime Minister of Malta. The current building dates from 1744, when it was rebuilt in the Baroque style under Grand Master Pinto de Fonseca, whose coat of arms adorns the elaborate facade. The building stands at the high point of Valletta near Castile Square, with the facade oriented toward Merchants Street below.

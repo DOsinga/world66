@@ -12,6 +12,7 @@ story: >
   mountain hotels in Norway and helped establish Geilo as a tourist destination.
   The original wing has been carefully preserved through several expansions and
   remains in use as a hotel today.
+score: 6.4
 ---
 
 Dr Holms is the village's grand historic hotel — a low timber-and-stone building immediately opposite the station, with a wide veranda, traditional dragon-styled gable carvings, and a famous afternoon-tea tradition. Even if you are not staying, the public areas (lobby, library, the heated outdoor pool with mountain views) are open to visitors who drop in for a coffee.

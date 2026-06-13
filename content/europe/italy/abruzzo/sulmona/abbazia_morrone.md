@@ -5,6 +5,7 @@ latitude: 42.0884
 longitude: 13.9231
 snippet: "Vast former Celestine monastery at the foot of Monte Morrone, founded by Pietro da Morrone"
 tags: [things_to_do, sight, religion, historic]
+score: 8.1
 ---
 
 The Abbey of Santo Spirito al Morrone (locally Badia Morronese) was founded in the late 13th century by Pietro da Morrone and became the mother house of the Celestine order. The complex is enormous — much larger than its current state of partial restoration suggests — with multiple cloisters, a Baroque church, and outbuildings that once housed hundreds of monks.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Small Romanesque-Gothic church and the first Lutheran church in southern Germany"
+score: 6.1
 ---
 
 A small, atmospheric church a short walk south of the cathedral. The shell dates from the 11th

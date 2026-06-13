@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.5990
 longitude: 5.0292
+score: 5.7
 ---
 
 Florø Church is a neo-Gothic wooden church built in 1893, one of the more elegant buildings in a town that otherwise makes few architectural claims on your attention. The steep pitched roof, pointed spire, and decorative timber detailing are characteristic of Norwegian church-building in the late nineteenth century, when the style was fashionable across the country. It seats around 400 people and remains the main parish church for the town.

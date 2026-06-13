@@ -6,6 +6,7 @@ longitude: 8.7619
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The cobbled main square of Ribe, **Torvet**, is the social heart of the old town. The cathedral towers above one side; the long colonnaded **Det Gamle Rådhus** (Old Town Hall, 1496 — the oldest in Denmark still in regular ceremonial use) faces it from another. Cafés and inn restaurants line the remaining sides, with tables out across the cobbles in summer.

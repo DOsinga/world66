@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6732
 longitude: 2.7935
+score: 8.1
 ---
 
 Every year in late July, Blanes hosts one of the most prestigious international fireworks competitions in the world. Companies from a dozen or more countries compete over several nights, launching their displays from the sea into the sky above the beach and the castle. The competition has been running since the 1950s and the standard is exceptionally high — these are not ordinary municipal fireworks but carefully choreographed pyrotechnic programmes set to music.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, viewpoint]
 latitude: 56.4720
 longitude: -2.9870
+score: 8.3
 ---
 
 Dundee Law is the eroded plug of a long-extinct volcano, rising 174 metres directly above the city centre and offering the best view in town. On a clear day you can see the silver line of the Firth of Tay, the two great bridges across to Fife, the hills of Angus to the north, and on rare days the snow-line of the Cairngorms inland.

@@ -10,6 +10,7 @@ tags:
 - architecture
 snippet: 17th-century summer palace with Poland's best-preserved Baroque interiors
 story: "The bishops of Kraków collected vast revenues from the lead and copper mines around Kielce in the 17th century, and used them to build a residence so grand it embarrassed the king. The original painted ceilings of the dining hall depict the executions of Saint Stanisław's killers — a politically pointed choice for a building owned by the church but standing in the king's territory. Most of the originals survive."
+score: 8.7
 ---
 
 Built between 1637 and 1641 for the Kraków bishop Jakub Zadzik, the palace is one of the few surviving examples of an early-Baroque magnate residence in Poland and the city's headline sight. The exterior is restrained — symmetrical wings, a central tower, tall sandstone window frames — but the interiors are extraordinary, with original painted beam ceilings, marble portals, and a complete cycle of bishops' portraits in the dining hall.

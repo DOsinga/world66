@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.7550
 longitude: -70.5200
+score: 7.8
 ---
 
 Sosua Bay is widely regarded as one of the better dive destinations on the Dominican Republic's north coast, with coral reefs, a small wreck, and walls that descend to 30 metres or more. The best snorkel and dive site, locally known as the Canyon or Los Cabezos, sits in the bay and features coral walls, sponge gardens, and a reliable cast of reef fish. Visibility is typically 20–30 metres in good conditions.

@@ -15,6 +15,7 @@ story: >
   "desert varnish" — manganese and iron oxide — to expose the lighter basalt beneath. A
   smaller number were made by Spanish settlers after 1630 and by later Pueblo artists who
   still consider the site sacred.
+score: 9.0
 ---
 
 Petroglyph National Monument preserves about 24,000 images carved into the basalt boulders along the escarpment of an ancient volcanic lava flow on Albuquerque's west side. The petroglyphs were made by ancestral Pueblo peoples over several centuries, and include figures of people, animals, birds, and abstract symbols — their precise meanings are known to the Pueblo descendants, not to archaeologists. The monument is an active cultural landscape, not an archaeological ruin, and several Pueblo tribes maintain ties to the site.

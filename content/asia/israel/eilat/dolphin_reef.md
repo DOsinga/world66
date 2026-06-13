@@ -12,6 +12,7 @@ tags:
 title: Dolphin Reef
 type: poi
 url: www.dolphinreef.co.il
+score: 6.8
 ---
 
 A secluded beach on the southern shore of Eilat where bottlenose dolphins live in a semi-wild habitat. Visitors can watch from floating piers and observation points, or get in the water on a guided snorkel or dive to swim alongside them. The site also has a snorkeling and diving center, a beachside cafe, relaxation pools, and an underwater photography center. Entry fees apply; water activities cost extra.

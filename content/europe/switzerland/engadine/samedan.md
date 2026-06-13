@@ -8,6 +8,7 @@ latitude: 46.5333
 longitude: 9.8667
 sources:
   - https://en.wikipedia.org/wiki/Samedan
+score: 7.1
 ---
 
 Samedan is the most Romansh-speaking village in the Upper Engadine and one of the best places in Switzerland to hear the language spoken as a living tongue. The village is quieter and less expensive than St. Moritz, a good base for the valley. It has an excellent collection of Engadine-style houses — broad facades with sgraffito decorations scraped into the plasterwork, thick walls, and small windows set deep against the cold.

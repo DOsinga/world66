@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1922
 longitude: -96.5214
+score: 4.9
 ---
 
 A 500-acre reservoir about four miles north of town, built as the city water supply and now also used for fishing and small-boat recreation. The shoreline runs about ten miles around bays and shallow inlets — good for crappie, largemouth bass and catfish.

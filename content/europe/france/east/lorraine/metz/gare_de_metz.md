@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Kaiser Wilhelm II personally inspected the design of the station, which was built between 1905 and 1908 to handle the rapid mobilisation of troops to the French border in case of war. The platforms were laid out to accommodate 70-metre military trains, and the imperial waiting room — never used — still survives behind a closed door."
+score: 8.1
 ---
 
 The railway station of Metz is one of the strangest and most impressive in France, a grand Romanesque-revival building of grey sandstone with a tall clock tower, dramatic arched windows, and elaborate carved decoration. It was built during the German annexation of Lorraine (1871–1918) as a symbol of imperial power, and the architecture has nothing in common with the rest of the city — it looks transplanted from a German Rhineland town.

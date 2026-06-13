@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Mount_Gambier_Gaol
+score: 6.9
 ---
 
 The Mount Gambier Gaol is a heritage-listed former prison that operated from 1866 to 1995. The bluestone building is one of the most impressive pieces of colonial-era institutional architecture in regional South Australia, and its long operating life means the cells and wings span multiple eras of prison design and penal philosophy.

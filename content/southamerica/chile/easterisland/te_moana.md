@@ -6,6 +6,7 @@ longitude: -109.428
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 The seafront standby on Atamu Tekena, popular with travellers and locals alike. The menu runs from grilled tuna and ceviche to lamb stew and pasta with shellfish, with a long wine list. Service is unhurried.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.8242
 longitude: -116.5500
+score: 8.4
 ---
 
 The Palm Springs Art Museum is a serious regional institution with a permanent collection that emphasises twentieth-century American art, glass sculpture, and the indigenous art of the American West. The collection of works by Cahuilla basket weavers is particularly strong, and the glass gallery — featuring Dale Chihuly and others — is one of the best in California.

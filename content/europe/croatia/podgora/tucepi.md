@@ -4,6 +4,7 @@ type: poi
 latitude: 43.2667
 longitude: 17.0500
 tags: [things_to_do, sight, day_trip]
+score: 6.8
 ---
 
 Three kilometres north along the coast from Podgora, Tucepi has the longest continuous pebble beach on the Makarska Riviera — more than three kilometres of shingle backed by pine trees. It is wider and easier underfoot than Podgora's beach, and big resort hotels stand back from the shoreline rather than crowding it.

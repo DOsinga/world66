@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Mrs. Clinton Walker House
 type: poi
+score: 5.8
 ---
 
 Designed by Frank Lloyd Wright in 1948 and built on a rocky point above the Pacific, the Walker House is the only Wright building on the Monterey Peninsula and one of his more unusual commissions. The house is extremely low — barely emerging from the coastal scrub — with a hexagonal plan that Wright called a "Cabin on the Rocks." The living room faces the sea through floor-to-ceiling glass and the building material throughout is rough stone from the site.

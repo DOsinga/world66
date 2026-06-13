@@ -14,6 +14,7 @@ story: >
   He died in Baltimore in 1849 under mysterious circumstances — found delirious on
   the street, he died four days later without ever being able to explain what had
   happened to him in the preceding five days.
+score: 6.7
 ---
 
 The Edgar Allan Poe House is a small rowhouse in west Baltimore where Poe lived from 1833 to 1835. The house is authentically tiny — three rooms on three floors — and has been preserved and interpreted as a historic house museum. It is a fitting monument to a writer whose work was defined by confinement, darkness, and the oppressive weight of small spaces.

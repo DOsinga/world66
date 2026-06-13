@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Star_Valley_Wyoming_Temple
+score: 5.0
 ---
 
 The Star Valley Wyoming Temple of the Church of Jesus Christ of Latter-day Saints is a striking white edifice that dominates Afton's skyline. Dedicated in 1998, it reflects the deep LDS roots of Star Valley — the valley was settled largely by Mormon pioneers in the 1880s, and the church has shaped the community's culture, calendar, and character ever since. The temple is not open to non-members, but the grounds are beautifully maintained and the building makes a strong visual impression from the surrounding streets.

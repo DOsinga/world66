@@ -6,6 +6,7 @@ longitude: 23.7444
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 The Museum of Cycladic Art, in Kolonaki, holds the finest collection of Cycladic figurines in the world. These slim white marble figures — usually a stylised standing woman, eyes closed, arms folded across the chest — were made on the Aegean islands between 3,300 and 2,000 BCE, and influenced 20th-century artists from Modigliani to Henry Moore.

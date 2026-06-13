@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.2497
 longitude: 8.4430
+score: 5.8
 ---
 
 The parish church of the upper village, rebuilt in 1706 on the foundations of an older structure. Inside hangs a 16th-century canvas of the Tuscan school — a minor work but an authentic one, attributed to the period when Genoese patronage brought Tuscan and Flemish painters to Ligurian coastal towns.

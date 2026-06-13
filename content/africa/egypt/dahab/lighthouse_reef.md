@@ -11,6 +11,7 @@ story: >
   sites in Egypt, it is accessible directly from the beach without a boat — you simply walk into the water
   from the town promenade. This makes it one of the most democratic reef systems in the world: serious dive
   instructors and total beginners snorkel the same patch of coral, usually metres apart.
+score: 8.4
 ---
 
 The Lighthouse dive site sits right in the heart of Dahab's tourist waterfront, accessible by walking straight off the restaurant promenade into the sea. The coral begins just below the surface and the reef wall drops away quickly into clear, deep water. Even snorkelling in the shallows reveals parrotfish, angelfish, lionfish, and occasional turtles — the concentration of marine life is remarkable.

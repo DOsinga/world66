@@ -7,6 +7,7 @@ tags:
 - park
 title: Lotus Peak
 type: poi
+score: 6.2
 ---
 
 Lotus Peak near Haimen is a seaside hill and scenic area south of Shantou, valued for coastal views, rock formations, and its association with southern Chinese maritime history. It is a quieter alternative to the standard old-city circuit.

@@ -9,6 +9,7 @@ latitude: 43.8760
 longitude: 125.3120
 story: >
   The State Council building was where the actual administration of Manchukuo was nominally conducted — though in practice, Japanese advisors in each ministry made the decisions that the Manchukuoan officials then executed. The building was designed to look like the seat of a sovereign government; it functioned as an administrative facade over an occupation.
+score: 7.6
 ---
 
 The former Manchukuo State Council Building is one of the most imposing survivors of the colonial capital's administrative architecture. Built in the 1930s in the hybrid Japanese-Chinese neoclassical style that the Manchukuo government favoured, it has the scale and permanence of genuine state architecture — which was precisely the point. The Japanese designers understood that credible sovereignty required credible buildings.

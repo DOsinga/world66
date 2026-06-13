@@ -9,6 +9,7 @@ tags:
   - park
   - viewpoint
 story: "The view from Ukko-Koli, the highest of the Koli summits, was painted in 1899 by the Finnish symbolist Eero Järnefelt — one of the defining images of the Karelianist movement that helped shape Finland's national identity in the years before independence. Sibelius came to honeymoon at Koli in 1892; he wrote later that the place was the source of much of his music. The painting hangs in the Ateneum in Helsinki and the view is essentially unchanged."
+score: 9.5
 ---
 
 Across Lake Pielinen from Lieksa, the ridges of Koli rise out of dense spruce forest — three rocky summits, the highest at 347 metres, that make up Finland's most painted landscape. The view east over the lake to the forests of Lieksa is the postcard image of Finnish nature.

@@ -12,6 +12,7 @@ story: >
   serves as the park administration office was where Allied strategy for the Pacific theater
   was coordinated. Kandy's isolation and the surrounding hills made it relatively secure
   from Japanese air attack.
+score: 8.7
 ---
 
 Six kilometres west of Kandy, on a broad bend of the Mahaweli River, the Royal Botanical Gardens at Peradeniya are among the finest in Asia. The 147-acre site contains over 4,000 species of plants, including a spectacular avenue of royal palms, a giant Java fig tree whose aerial roots span over 2,500 square metres, and impressive collections of orchids, spice plants, and medicinal herbs.

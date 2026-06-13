@@ -6,6 +6,7 @@ longitude: -78.8278
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Above San Juan Bautista stand the ruins of Fuerte Santa Barbara, a Spanish fortress first built in 1749 to deter the pirates and privateers who had been using the island as a base. The walls of the fort have been partially restored and a few iron cannons still point out across Cumberland Bay.

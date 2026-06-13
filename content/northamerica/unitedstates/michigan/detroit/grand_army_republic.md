@@ -11,6 +11,7 @@ tags:
 neighbourhood: Downtown
 title: Grand Army of the Republic Building
 type: poi
+score: 7.2
 ---
 
 The Grand Army of the Republic Building looks like a small castle dropped onto a triangular block where Grand River Avenue cuts across the grid. It was built in 1900 as a meeting hall for Union Army veterans, in turreted Richardson Romanesque stone. After decades of vacancy it was renovated in 2014 and now houses Parks & Rec Diner, Republic Tavern, and several other restaurants and offices.

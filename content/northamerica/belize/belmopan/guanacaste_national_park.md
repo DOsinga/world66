@@ -10,6 +10,7 @@ latitude: 17.2644
 longitude: -88.786
 story: >
   The park takes its name from the guanacaste tree — a massive hardwood also called tubroos locally — which was once used to make dugout canoes. One of the park's guanacaste specimens is over 100 years old and hollowed by fig trees that have grown around it in a slow arboreal embrace. The entire park covers just 50 acres but packs in an outsized variety of flora.
+score: 7.4
 ---
 
 A compact nature reserve at the junction of the Roaring Creek and the Belize River, just a few kilometres north of Belmopan's town centre. The park covers only 50 acres, but the riverside trail passes through secondary jungle with an impressive tree canopy — guanacaste, ceiba, cohune palm, and strangler figs — and the swimming hole in the Roaring Creek is one of the best easy dips in the country.

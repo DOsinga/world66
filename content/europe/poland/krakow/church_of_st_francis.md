@@ -9,6 +9,7 @@ latitude: 50.0593
 longitude: 19.9340
 story: >
   The church holds a stained-glass window designed by Stanisław Wyspiański in 1900 that depicts God the Father as a turbulent figure emerging from swirling creation — described by one critic as "among the greatest works of Symbolist art in Europe." Wyspiański designed every element of the church's interior decoration, including the polychrome wall murals of flowers and plants that climb the walls to the ceiling, and the overall effect — especially when light comes through the stained glass on a sunny afternoon — is extraordinary.
+score: 8.7
 ---
 
 The Franciscan church just south of the Main Square is one of Krakow's oldest ecclesiastical buildings — founded in the 13th century and rebuilt repeatedly since. The church is important enough historically, but what makes it unmissable are the extraordinary Art Nouveau interior decorations created by Stanisław Wyspiański at the turn of the 20th century.

@@ -15,6 +15,7 @@ story: >
   by underground tunnels carrying meltwater from the Tianshan Mountains
   down to the basin without losing it to evaporation. At its peak the
   network ran to more than 5,000 km of tunnel. Around 800 km still functions.
+score: 7.6
 ---
 
 The karez are a network of underground irrigation channels — vertical wells linked by gently sloping tunnels — that have carried glacial meltwater from the Tianshan Mountains to the Turpan oasis for around two thousand years. By keeping the water underground, the system avoids the catastrophic evaporation losses of an open canal in 45°C desert heat.

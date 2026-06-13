@@ -6,6 +6,7 @@ longitude: 49.4050
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Port of Toamasina is the largest port in Madagascar and one of the most important in the western Indian Ocean, handling the great majority of the country's containerised imports and exports. The working port itself is not accessible to visitors, but the activity along the waterfront — container ships anchored in the roads, tugboats manoeuvring in the harbour, the constant flow of trucks through the port gates — gives a clear sense of what drives the city economically.

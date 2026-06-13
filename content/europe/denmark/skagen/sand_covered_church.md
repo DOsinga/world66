@@ -13,6 +13,7 @@ story: >
   was left standing as a navigation marker for ships off the coast.
 sources:
   - https://en.wikipedia.org/wiki/Sand-Covered_Church
+score: 8.7
 ---
 
 The Sand-Covered Church — Den Tilsandede Kirke in Danish — is all that remains of a 14th-century parish church that was engulfed by migrating sand dunes over several centuries. The white tower stands alone in a treeless dune landscape about 2 km south of central Skagen, and the effect is genuinely eerie: a Gothic steeple rising from a flat, sandy wilderness.

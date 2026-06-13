@@ -13,6 +13,7 @@ story: >
   the Ottoman-era buildings still stood almost intact. The Ottomans had simply built
   on top of the Crusader city rather than demolishing it, sealing the vaults with
   fill. This accidental preservation kept the Crusader city hidden for centuries.
+score: 9.5
 ---
 
 The underground halls and passages of the Crusader city are among the best-preserved Crusader structures anywhere in the world. The Knights Hospitallers ruled this port from 1104 until 1291 when the city finally fell to the Mamluks, and the scale of what they built is extraordinary — a self-contained city beneath the present one, with refectories, halls, a great crypt, and a secret tunnel running to the sea.

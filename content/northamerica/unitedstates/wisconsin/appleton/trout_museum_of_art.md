@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 44.2616
 longitude: -88.4066
+score: 6.6
 ---
 
 The Trout Museum of Art is Appleton's main visual arts institution, located right in the downtown on College Avenue. The museum focuses on Midwestern artists and regional themes, with a permanent collection that leans toward landscape and figurative work alongside regular traveling exhibitions.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 url: www.nicklausmuseum.org
+score: 5.2
 ---
 
 On the Ohio State campus, this museum traces the career of Columbus's most famous golfer. Trophies from Nicklaus's record 18 major championships are on display alongside photos and memorabilia spanning his life from Columbus boyhood to PGA legend. Essential only for golf fans, but well presented.

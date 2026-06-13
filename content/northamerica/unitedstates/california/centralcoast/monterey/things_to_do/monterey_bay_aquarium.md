@@ -16,6 +16,7 @@ story: >
   but as a working research institution. In 2004 it became the first place in the world to
   successfully keep a great white shark on public display, though the shark was released after
   198 days when it began preying on other fish in the tank.
+score: 9.6
 ---
 
 The best aquarium in North America, housed in a converted sardine cannery at the western end of Cannery Row. The scale is impressive — the Open Sea exhibit holds one million gallons and contains tunas, sunfish, hammerhead sharks, and sea turtles swimming in open water — but the details are what stay with you. The two-storey kelp forest tank, backlit and full of leopard sharks and rockfish drifting through amber fronds, is as close as you will get to scuba diving in the bay without getting wet. Wild sea otters float and dive in the harbour just outside the windows.

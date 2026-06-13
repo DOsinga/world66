@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cocktails
+score: 5.8
 ---
 
 A small rooftop cocktail bar tucked into the upper floors of a building on Trg Pučkih Kapetana. The view is the draw — the cathedral dome is essentially at eye level, the old town rooftops fall away below, and the channel beyond catches the sunset light.

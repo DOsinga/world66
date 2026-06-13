@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 6.6
 ---
 
 A short walk south of the old centre, Santa Maria del Baraccano grew up around a fifteenth-century shrine to the Virgin that had become a popular pilgrimage site. The current church is a Renaissance hall with a quiet interior decorated with frescoes by Francesco Francia and his school.

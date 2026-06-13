@@ -8,6 +8,7 @@ tags:
 latitude: 23.2347
 longitude: 72.6669
 snippet: "Vast Swaminarayan temple in the state capital"
+score: 7.5
 ---
 
 The Akshardham Mandir in nearby Gandhinagar is one of the largest temples in India — a pink sandstone monument of 100 hectares with a central shrine of intricate carving, formal gardens, an exhibition hall, and a sound-and-light show in the evenings. Built between 1979 and 1992 by the BAPS Swaminarayan organisation, it is one of those modern Hindu pilgrim complexes that astonishes by sheer scale.

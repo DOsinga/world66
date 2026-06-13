@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: Remnants of Italian colonial railway infrastructure and WWII fortifications around Keren
+score: 6.7
 ---
 
 The railway that ran from Massawa on the Red Sea coast up through the highlands toward Keren was the spine of Italian colonial infrastructure in Eritrea, and it was central to the 1941 battle. The Italian defenders used the railway pass north of Keren as their main defensive position, and when the line finally broke they destroyed the pass themselves to slow the British advance. The ruins of that infrastructure — retaining walls, embankments, the remnants of fortifications built into the hillsides — are still visible around the city for anyone who goes looking.

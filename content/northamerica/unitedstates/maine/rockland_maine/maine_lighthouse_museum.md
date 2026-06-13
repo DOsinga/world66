@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.1057
 longitude: -69.1094
+score: 6.4
 ---
 
 Downtown Rockland is home to the country's largest collection of lighthouse artifacts and memorabilia, housed in a building that also serves as the Maine Lighthouse Association's headquarters. The standout items are the original Fresnel lenses — large, intricate glass prisms that once focused lighthouse beams across miles of open water. The museum has more of these than anywhere else in the country.

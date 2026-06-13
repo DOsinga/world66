@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.9000
 longitude: 91.1500
+score: 5.5
 ---
 
 Singye Dzong is a remote pilgrimage site high in the mountains north of Lhuntse, associated with Guru Rinpoche and his consort Yeshe Tsogyal. It is reached only on foot, on a five- to six-day round trek from Khoma village through some of the wildest country in eastern Bhutan.

@@ -17,6 +17,7 @@ snippet: "Elegant 19th-century opera house hosting the Donizetti Festival"
 title: Teatro Donizetti
 type: poi
 url: www.teatrodonizetti.it
+score: 7.4
 ---
 
 Named after the city's most famous son, this elegant 19th-century theater on Piazza Cavour is Bergamo's main venue for opera, concerts, and drama. The Donizetti Opera Festival each autumn draws serious audiences from across Italy. Worth attending if you can time your visit right.

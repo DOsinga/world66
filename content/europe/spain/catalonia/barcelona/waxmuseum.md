@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Wax Museum
 type: poi
+score: 4.6
 ---
 
 The Museo de Cera on Passatge de la Banca, just off La Rambla, displays over 300 wax figures of historical and fictional characters. The setting is worth a look in its own right — the museum occupies a nineteenth-century neoclassical building that once housed a bank. The interior is theatrical, with dramatic lighting and period decor framing the figures.

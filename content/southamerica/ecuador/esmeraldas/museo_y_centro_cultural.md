@@ -7,6 +7,7 @@ tags:
 latitude: 0.967
 longitude: -79.654
 snippet: Pre-Columbian gold and ceramics from the La Tolita and Tumaco cultures
+score: 7.4
 ---
 
 The small Museo y Centro Cultural in central Esmeraldas, run by the Banco Central, holds the best collection on the coast of artefacts from the **La Tolita** and **Tumaco** cultures — the people who lived along this stretch of coast and adjacent Colombia from roughly 600 BCE to 400 CE.

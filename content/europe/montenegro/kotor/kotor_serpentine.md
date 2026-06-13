@@ -6,6 +6,7 @@ longitude: 18.8000
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The Kotor Serpentine is the old road that climbs from the bay to the Lovćen plateau in 25 numbered hairpin turns, gaining 900 metres of altitude in less than 10 kilometres. Built by Austrian engineers in the 1880s and never substantially widened since, the road is a slim ribbon cut into the cliff with views back over the entire bay.

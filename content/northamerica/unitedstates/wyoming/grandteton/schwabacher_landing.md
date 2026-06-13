@@ -7,6 +7,7 @@ tags:
   - viewpoint
 title: Schwabacher Landing
 type: poi
+score: 8.1
 ---
 
 Schwabacher Landing is the classic Snake River reflection stop. In calm morning light, the Teton Range appears doubled in the water, with cottonwoods and beaver ponds softening the foreground.

@@ -10,6 +10,7 @@ tags:
 - sight
 title: Kamo River
 type: poi
+score: 7.3
 ---
 
 The Kamo River runs north-south through the heart of Kyoto and is the city's most-used outdoor space. Grass and gravel banks several metres below street level run for kilometres on either side; cyclists, joggers, dog walkers, students, families, and *kaiseki* chefs en route to work all use it as both shortcut and park. The water itself is shallow and exceptionally clean for a city river, and herons stand patiently in it most of the year.

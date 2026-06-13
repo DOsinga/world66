@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.7019
 longitude: 141.1532
+score: 6.8
 ---
 
 Azumaya is the most famous of Morioka's wanko soba restaurants, operating since 1907 and set in a traditional wooden building near the castle district. The ritual here is unchanged from generations past: you are seated at a low table, given a small stack of lacquerware bowls, and the servers begin filling them with hot buckwheat noodles one mouthful at a time, chanting encouragement as they go.

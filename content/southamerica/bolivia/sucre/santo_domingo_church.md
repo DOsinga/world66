@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: 17th-century Dominican church with a fine baroque facade
+score: 7.8
 ---
 
 Santo Domingo, on the corner of Calle Bolívar and Calle Aniceto Arce, is one of the lesser-visited of Sucre's colonial churches and worth seeking out partly for that reason. The Dominicans built it in the early 17th century and the facade is one of the best examples of the mestizo baroque style: floral motifs and Andean fruits carved into the stone alongside the more conventional saints and seraphs. The interior, although stripped of much of its colonial gold leaf during the 19th century, retains a graceful tunnel-vaulted nave and a series of paintings in the side chapels attributed to local Cuzqueño-school painters.

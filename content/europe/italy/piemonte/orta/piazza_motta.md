@@ -6,6 +6,7 @@ longitude: 8.4097
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The lakefront piazza is the social centre of Orta — a long, cobbled rectangle open to the water on one side, lined with pastel-painted palazzi, restaurants, and cafes on the other three. The Palazzotto della Comunità, a small frescoed sixteenth-century town hall raised on stone columns, stands in the middle and has been the symbol of the town since 1582.

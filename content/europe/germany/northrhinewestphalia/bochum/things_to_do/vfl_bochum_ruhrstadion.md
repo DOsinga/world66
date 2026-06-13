@@ -10,6 +10,7 @@ longitude: 7.2239
 snippet: "Atmospheric Bundesliga ground with passionate local support"
 sources:
   - https://en.wikipedia.org/wiki/Vonovia_Ruhrstadion
+score: 8.0
 ---
 
 VfL Bochum's stadium is one of those grounds that has never been redeveloped into a bowl of corporate seating, and it shows. The terracing behind the south goal is genuine old-school Bundesliga atmosphere — loud, close to the pitch, and cheap by modern standards. The club's history of yo-yoing between the first and second division is part of its identity, and fans here are attached in a way you rarely see at bigger clubs.

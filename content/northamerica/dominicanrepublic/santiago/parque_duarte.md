@@ -9,6 +9,7 @@ tags:
 title: Parque Duarte
 type: poi
 snippet: The leafy central square of the old town
+score: 6.5
 ---
 
 The Parque Duarte is the central square of colonial Santiago and a useful first stop for anyone exploring the historic core. Mature trees, a central gazebo, and benches make it a pleasant place to sit and watch the city pass by. Named, like nearly every central plaza in the Dominican Republic, after the independence hero Juan Pablo Duarte.

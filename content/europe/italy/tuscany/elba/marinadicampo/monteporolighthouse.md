@@ -5,6 +5,7 @@ tags: [things_to_do, outdoor, sight]
 latitude: 42.727822
 longitude: 10.237489
 snippet: "Active lighthouse on Elba's southern headland, reachable on foot"
+score: 5.8
 ---
 The lighthouse on Monte Poro stands at the western end of the bay from Marina di Campo, on a rocky headland that juts into the Tyrrhenian Sea. It is an active lighthouse, maintained by the Italian Coast Guard, but the exterior and the surrounding terrain are openly accessible. The summit sits amid dense macchia mediterranea — rosemary, cistus, tree heather, and arbutus — with the white tower rising above the scrub. A footpath leads up from the road below; allow 30 to 40 minutes from the nearest roadside parking, following a trail that climbs steadily through the maquis. There is no staffing and no visitor facility, so bring water.
 

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Paragliding from Beatenberg
 type: poi
+score: 7.6
 ---
 
 The standard Interlaken paragliding experience launches from the slopes above Beatenberg at roughly 2,000 metres and glides for twenty to thirty minutes down to land on the Höhenmatte meadow in the centre of town. You need no experience whatsoever — a qualified pilot sits behind you and handles everything. What you get is a bird's-eye view of Interlaken between its two lakes and the Jungfrau massif rising straight ahead, which is one of the better views available from the air in Switzerland.

@@ -9,6 +9,7 @@ tags:
   - lake
   - birding
   - swimming
+score: 8.3
 ---
 
 The northernmost of the five lakes and the most photogenic — a near-perfect circle of water set in a deep wooded caldera, with Yerer volcano rising behind. The water is clear and the shores quiet; swimming is excellent.

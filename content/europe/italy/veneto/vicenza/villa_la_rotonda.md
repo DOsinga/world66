@@ -9,6 +9,7 @@ latitude: 45.5275
 longitude: 11.5408
 story: >
   The Rotonda's perfectly symmetrical plan — a central domed hall with four identical porticoes, one on each side — was unprecedented in domestic architecture. Palladio built it for a retired papal official as a belvedere rather than a working farm villa. Every room has views in a different direction. Thomas Jefferson studied its plans obsessively; Monticello is an imperfect but sincere tribute.
+score: 9.3
 ---
 
 Villa La Rotonda (formally Villa Almerico-Capra) sits on a gentle hill two kilometres south of Vicenza's centre and is among the most imitated buildings in the history of architecture. Palladio designed it in 1566 as a kind of ideal machine for experiencing landscape: a central circular hall beneath a dome, approached from all four compass points by identical temple-front porticoes with grand staircases.

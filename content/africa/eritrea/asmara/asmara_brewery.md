@@ -6,6 +6,7 @@ longitude: 38.9217
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Asmara Brewery was set up by Italians in 1939 and is still producing Asmara Beer — the local lager that is the default drink across Eritrea. The original brewhouse, in the western quarter of the city, has the unmistakable look of late-1930s Italian industrial architecture: pale stuccoed walls, rounded corners, a tall chimney.

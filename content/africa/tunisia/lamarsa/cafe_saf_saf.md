@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   The well at the centre of the café was once worked by camels who walked in circles to draw water for the Bey's gardens. The café has been operating around it since the 18th century — making it among the oldest continuously running cafés in Tunisia. The camels are long gone, replaced by an electric pump, but the well and the wheel are still in place.
+score: 7.4
 ---
 
 Café Saf-Saf is the obvious place to stop in La Marsa. It is set around an old draw-well under an enormous saf-saf (a kind of fig tree) that gives the café its name, and the courtyard is shaded, cool, and entirely characteristic of old Tunisia. The mint tea is good, the orange-blossom-flavoured pastries are better, and the place has been visited by everyone from Tunisian intellectuals to French colonial-era writers — Flaubert reputedly stopped here on his Tunisian travels.

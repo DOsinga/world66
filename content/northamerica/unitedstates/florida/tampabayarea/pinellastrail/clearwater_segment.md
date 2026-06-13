@@ -6,6 +6,7 @@ longitude: -82.8001
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The trail threads through downtown Clearwater between Cleveland Street and the bluffs above Clearwater Harbor. This is the busiest section, with the trail occasionally interrupted by street crossings but offset by good food stops, the Capitol Theatre, and a flat detour west to the Memorial Causeway for views of the marina.

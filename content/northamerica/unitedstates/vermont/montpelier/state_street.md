@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.2
 ---
 
 State Street runs east from the State House through the heart of downtown Montpelier, lined with a remarkable concentration of 19th-century commercial architecture — granite-faced banks, brick storefronts with cast-iron shopfronts, and a handful of Greek Revival civic buildings. The entire stretch is on the National Register of Historic Places.

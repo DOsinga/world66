@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.4
 ---
 
 In the far southeast of the prefecture, towards the Laotian border, Wangtianshu Rainforest Park preserves the densest surviving tropical rainforest in China. The park's signature attraction is a 500-metre canopy walkway suspended 36 metres above the forest floor — a slightly nerve-wracking but unforgettable way to see the rainforest at the level of the upper canopy.

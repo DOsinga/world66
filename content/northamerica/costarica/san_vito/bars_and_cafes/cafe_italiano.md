@@ -9,6 +9,7 @@ tags:
   - italian
 latitude: 8.8271
 longitude: -82.9740
+score: 6.3
 ---
 
 The Italian founders of San Vito brought their coffee culture with them, and Café Italiano carries that tradition forward. The espresso here is made with local Coto Brus beans and pulled properly — short, dark, served in a small cup. It is one of the few places in southern Costa Rica where you can get coffee that would not embarrass a bar in the Veneto.

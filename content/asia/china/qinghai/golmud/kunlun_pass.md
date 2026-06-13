@@ -8,6 +8,7 @@ tags:
   - sight
   - mountain
   - pass
+score: 6.7
 ---
 
 The road south from Golmud climbs steadily for a hundred and sixty kilometres into the Kunlun range, topping out at the Kunlun Mountain Pass at 4,768 metres. A modest stone marker and a small Buddhist shrine sit at the col. There are usually a few stalls selling tea and yak jerky, and an obligatory photo opportunity with a yak.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.5357
 longitude: 13.6672
+score: 6.3
 ---
 
 A late-Baroque palace dating from 1781, the most architecturally accomplished building in Izola. The façade carries a pair of carved stone heads above the main door, rich rococo window surrounds, and a wrought-iron balcony made by a Venetian smith. The building was commissioned by the Besenghi degli Ughi family, who were among the richest landowners in Istria at the time.

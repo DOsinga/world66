@@ -8,6 +8,7 @@ tags:
 latitude: 51.0723
 longitude: 2.6614
 snippet: Seventeenth-century butchers' hall with carved gables
+score: 6.9
 ---
 
 The Vleeshuis (literally "Meat House") sits on the south side of the Grote Markt — a small red-brick building from 1615 with a curving Flemish gable and a row of stone heads carved into the lintel. For two centuries this was the only legal point of sale for fresh meat in Veurne; the central hall stayed cool because the brick walls were nearly a metre thick.

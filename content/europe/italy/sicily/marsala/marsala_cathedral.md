@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: "Norman-baroque duomo dedicated to Thomas Becket of Canterbury"
 story: "The cathedral is dedicated to Thomas Becket, supposedly because a Venetian ship loaded with columns of Cipollino marble for an English church bound for Canterbury was wrecked off the coast in the 12th century. The columns were salvaged, the locals decided they were meant to stay, and the church got Becket as its patron."
+score: 6.9
 ---
 
 The duomo of San Tommaso di Canterbury sits at the head of Piazza della Repubblica, the centre of the old town. Begun in the Norman period and given its present pale baroque facade in the 18th century, it is the largest church in Marsala and the seat of the diocese of Mazara del Vallo.

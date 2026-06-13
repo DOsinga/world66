@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, sachsenhausen]
 latitude: 50.1054
 longitude: 8.6863
+score: 7.1
 ---
 
 Dauth-Schneider is the canonical old Sachsenhausen apple wine tavern, on Neuer Wall at the heart of the Alt-Sachsenhausen apple wine quarter. Founded in 1849 and run by the same family for six generations, it serves the full local menu — Frankfurter Würstchen, Handkäs mit Musik, Rippchen mit Kraut, Tafelspitz, and the famous Grüne Sosse (a cold sauce of seven herbs over boiled potatoes and eggs) — all to be eaten while drinking Ebbelwoi from the grey-and-blue Bembel jug.

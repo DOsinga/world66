@@ -7,6 +7,7 @@ tags:
 latitude: 38.3725
 longitude: -110.715
 story: "The store and gas station inside Hollow Mountain was carved entirely by hand by a local man named Sid Swasey beginning in the 1940s. Swasey spent years excavating the interior of the sandstone knob using picks, shovels, and hand tools — creating one of the more eccentric retail spaces in the American West."
+score: 6.5
 ---
 
 Hollow Mountain is exactly what it sounds like: a gas station and convenience store built inside a hollowed-out sandstone hill on the north edge of Hanksville. The space inside is genuinely remarkable — rocky walls, a low irregular ceiling, and shelves of food and drinks lit by overhead lights while the desert sun bakes the stone outside.

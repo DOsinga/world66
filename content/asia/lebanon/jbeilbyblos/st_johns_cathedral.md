@@ -9,6 +9,7 @@ latitude: 34.1215
 longitude: 35.6452
 sources:
   - https://en.wikipedia.org/wiki/St._John%27s_Cathedral,_Byblos
+score: 7.8
 ---
 
 St. John's Cathedral is a Crusader church built in the 12th century, one of the better-preserved examples of Crusader ecclesiastical architecture in Lebanon. The building follows the standard Romanesque plan with a nave, two aisles, and an apse, and incorporates decorative elements that show both Western and local Byzantine influence. The open baptistery attached to the church is a distinctive element — a roofless open-air structure that was added in the medieval period and gives the church an unusual architectural profile.

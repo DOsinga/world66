@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.2198
 longitude: -1.8594
+score: 5.6
 ---
 
 The Mystic Stone — also called the Acoustic Stone — is a large boulder near the centre of Larabanga that occupies an important place in local legend and ritual. Village tradition says that colonial road-builders tried to move it during road construction and found it back in its original position the next morning. The story echoes the tale told about the mosque's cornerstone and probably reflects a broader local theology about objects that belong where they are.

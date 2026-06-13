@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4400
 longitude: -9.1080
+score: 8.1
 ---
 
 Sesimbra's harbour, at the western end of the bay, is a working fishing port — the largest swordfish landing on the Portuguese mainland and a busy day for amberjack, sea bream, and octopus too. The fleet leaves around five in the morning; the auction happens late morning at the lota, the dockside fish market, and is open for visitors to watch through a glass partition.

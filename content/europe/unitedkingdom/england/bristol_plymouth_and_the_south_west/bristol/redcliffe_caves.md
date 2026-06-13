@@ -8,6 +8,7 @@ latitude: 51.4454
 longitude: -2.5903
 story: >
   During the Second World War, the caves were used as air raid shelters and reportedly as a storage facility for munitions. Before that, local legend held that they were used by smugglers to store contraband — plausible given Bristol's port location. One of the more persistent stories claims that the caves were used in the 18th century to store enslaved people awaiting transshipment, though historians have found no documentary evidence to support this particular claim.
+score: 7.6
 ---
 
 Beneath the Redcliffe area of Bristol runs a network of manmade sandstone tunnels and caverns extending over about an acre — the Redcliffe Caves. The caves were originally quarried in the medieval period for sand used in glassmaking, and subsequently used for storage, shelter, and purposes that have accumulated a thick layer of legend. They are the kind of underground space that catches the imagination: low, winding passages that open into larger chambers, cut through soft red sandstone that shows pick marks in places.

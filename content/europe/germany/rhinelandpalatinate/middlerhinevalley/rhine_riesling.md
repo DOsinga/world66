@@ -10,6 +10,7 @@ story: >
   The slate slopes of the Rhine Gorge are farmed at angles that would be impossible with machines — some vineyards exceed 65 degrees. Generations of winegrowers have carved terraces into the rock by hand and carry tools and harvested grapes up and down on foot or by monorail. The extreme labour involved, combined with the mineral character the Devonian slate imparts, is why Middle Rhine Riesling commands premium prices.
 sources:
   - https://en.wikipedia.org/wiki/Mittelrhein_(wine_region)
+score: 8.1
 ---
 
 The Mittelrhein wine region covers the Middle Rhine Valley and produces Riesling of a distinctive character — high acidity, mineral notes from the slate soils, often with a floral freshness. It is not one of Germany's most famous wine regions (the Mosel and Rhine Hessen dominate export markets) but the wines are excellent and underpriced relative to their quality.

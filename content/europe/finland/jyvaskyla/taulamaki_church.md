@@ -11,6 +11,7 @@ story: >
   The church was designed by architect Elsi Borg and completed in 1929. Borg was one of the few female architects working in Finland at the time — she had graduated from the Helsinki Institute of Technology in 1921 — and Taulumäki was her most significant commission. The interior features original frescoes by Finnish painter Eero Nelimarkka.
 sources:
   - https://en.wikipedia.org/wiki/Taulum%C3%A4ki_Church
+score: 6.9
 ---
 
 Taulumäki Church is the main Lutheran church of Jyväskylä, a striking white building set on a low hill north of the city centre. Architect Elsi Borg designed it in a style that blends Nordic classicism with elements of Functionalism — the exterior is clean and composed, with a tall tower that serves as a landmark. The interior is spacious and well-lit, with a nave that can hold over a thousand people.

@@ -8,6 +8,7 @@ tags:
   - vegetarian
 title: Yellow Deli
 type: poi
+score: 6.2
 ---
 
 The Yellow Deli occupies a beautifully restored 1916 building on Katoomba Street and serves wholesome vegetarian food with a focus on freshly baked bread and simple, well-made sandwiches, soups and salads. The interiors feature exposed timber beams, curved wooden furniture and stained glass — it has a handmade, almost medieval quality that fits oddly well in a Blue Mountains setting.

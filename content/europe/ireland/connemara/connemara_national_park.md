@@ -9,6 +9,7 @@ latitude: 53.5311
 longitude: -9.8803
 sources:
   - https://en.wikipedia.org/wiki/Connemara_National_Park
+score: 8.7
 ---
 
 Connemara National Park covers 2,000 hectares of the southern Twelve Bens slopes, taking in blanket bog, heath, mountain streams, and woodland. The visitor centre at Letterfrack is the base for walks ranging from gentle lakeside strolls to the full Diamond Hill circuit — a three-hour round trip that rewards with panoramic views of the mountains, coast, and offshore islands.

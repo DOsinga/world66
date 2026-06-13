@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 44.5473
 longitude: 129.546
+score: 6.4
 ---
 
 The Hailang River (海浪河) drains into the Mudan River southwest of the city centre, and the area around its lower reaches has remained relatively undeveloped — a wetland corridor of reeds, willow scrub, and river bars that supports a surprisingly good variety of waterbirds given its proximity to the city. Herons, egrets, ducks, and occasional raptors are regular; in the migration seasons of April-May and September-October the river corridor attracts waders and passerines moving through.

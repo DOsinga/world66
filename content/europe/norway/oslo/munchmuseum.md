@@ -14,6 +14,7 @@ story: >
   A second version was stolen in 2004 and recovered in 2006. Munch himself wrote that he felt
   "an infinite scream passing through nature" while walking at sunset — not a personal scream,
   but the world's.
+score: 8.8
 ---
 
 The Munch Museum (now called MUNCH after its 2021 relocation to a striking 13-floor tower on the waterfront at Bjørvika) holds the world's most comprehensive collection of Edvard Munch's work — nearly 28,000 items bequeathed by the artist to the City of Oslo when he died in 1944. The collection includes several versions of The Scream, along with the full range of Munch's unsettling, emotionally raw output.

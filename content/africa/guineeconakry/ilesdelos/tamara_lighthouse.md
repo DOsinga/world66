@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The lighthouse on the southern tip of Ile Tamara has been guiding ships into Conakry harbour since the early twentieth century. It is a slim white tower set on a low headland, still operational, and one of the few obviously man-made landmarks on the island.

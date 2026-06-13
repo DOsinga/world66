@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.1
 ---
 
 The main market of Bafatá, on the central square. Most active in the morning, when traders come in from the surrounding Fula and Mandinka villages with rice, peanuts, cashews, palm oil, fresh fish from the Geba River, and dried fish from the coast. Cloth, plastic kitchenware, mobile-phone accessories, and the standard imported African market goods make up the rest of the stalls.

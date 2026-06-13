@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.9200
 longitude: 96.3800
+score: 8.2
 ---
 
 The official source of the Yellow River is marked at a spot called Mojia Ou (Nagqu'or) in a marshy plateau valley north and west of Maduo, accessible by a very rough track and practically requiring a local guide and a sturdy vehicle. The broader "source area" — the region of high plateau streams and glacial melt that collectively feeds the river — is centred on the Ngoring and Kyaring lakes district, and most visitors treat a visit to those lakes as equivalent to visiting the source.

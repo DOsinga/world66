@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7271
 longitude: 8.5634
+score: 6.4
 ---
 
 The Teatro Verdi is Sassari's main theatre and opera house, a handsome 19th-century building named for the composer Giuseppe Verdi. The interior is elegantly proportioned — a horseshoe auditorium with three tiers of boxes, decorated in red and gold in the Italian operatic tradition.

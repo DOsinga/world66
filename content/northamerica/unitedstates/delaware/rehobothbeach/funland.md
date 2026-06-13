@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Funland,_Rehoboth_Beach
 story: >
   Funland has been family-owned and operated since it opened in 1962, and it charges some of the lowest prices of any amusement park in the United States. The owners have deliberately kept prices below the market rate for sixty-plus years as a matter of policy. In an era when theme park corporations charge $150 for a day pass, Funland's Skeeball still costs fifty cents.
+score: 7.8
 ---
 
 Funland is a small, family-owned amusement park that has occupied the same spot on the Rehoboth boardwalk since 1962. It is one of the genuine institutions of the Delaware shore: rides, Skeeball, carnival games, and a Haunted Mansion dark ride that generations of Rehoboth families remember from childhood.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.3138
 longitude: 40.7350
+score: 7.4
 ---
 
 The Mardin Museum occupies a restored Ottoman mansion on the main road through the old city and covers the archaeology and ethnography of the Mardin region from prehistoric times to the Ottoman period. The collection includes artefacts from the Bronze Age sites scattered across the Tur Abdin plateau, Assyrian and Mesopotamian pottery and metalwork, Byzantine coins and religious objects, and displays on the material culture of the region's diverse ethnic and religious communities.

@@ -5,6 +5,7 @@ tags: [things_to_do, beaches, sight]
 snippet: "Long, dune-backed beach between Portonovo and Canelas"
 latitude: 42.3978
 longitude: -8.8475
+score: 7.2
 ---
 
 Praia de Montalvo is the long sweep of sand running west from Portonovo. At over a kilometre it is one of the bigger beaches on this stretch of coast, with low dunes, pine woods behind, and reliably clean water — Blue Flag most years. It feels less developed than Silgar; there are fewer buildings on the road behind, and the noise level is correspondingly lower.

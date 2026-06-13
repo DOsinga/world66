@@ -7,6 +7,7 @@ tags:
 snippet: "World-class Gandharan Buddhist sculpture in a 1906 British-era building"
 latitude: 34.007762
 longitude: 71.558274
+score: 9.2
 ---
 
 Housed in an imposing red-brick Victorian building erected in 1906, the Peshawar Museum holds one of the world's finest collections of Gandharan Buddhist sculpture — the distinctive art produced in this region between the 1st and 5th centuries CE, when Greek artistic conventions inherited from Alexander's conquests fused with Buddhist iconography and Indian sensibility. The result is unlike anything else: Buddhas with Hellenic faces, friezes depicting the life of the prince Siddhartha in the same visual language as Roman imperial relief.

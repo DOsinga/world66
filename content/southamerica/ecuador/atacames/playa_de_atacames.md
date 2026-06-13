@@ -12,6 +12,7 @@ story: >
   to Ecuadorian families from the highlands who could make the long overland
   journey from Quito. Foreign travellers began arriving in numbers only after
   the paved coast road was completed in the 1990s.
+score: 8.2
 ---
 
 The beach is the reason everyone comes to Atacames — a broad expanse of fine dark-grey volcanic sand that stretches in a long arc from the mouth of the Atacames river to the quieter end near Tonsupa. The sand is firmer than white-sand beaches and surprisingly pleasant to walk on. The water is warm year-round, running between 22°C and 26°C, and the waves are lively enough for bodysurfing without being threatening.

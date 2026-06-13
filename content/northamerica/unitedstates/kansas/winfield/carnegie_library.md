@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 37.2386
 longitude: -96.9964
+score: 6.8
 ---
 
 A handsome stone Carnegie library opened in 1915, on the corner of Millington and 9th, still in daily use as the Winfield Public Library more than a century later. Andrew Carnegie's foundation funded around 1,700 libraries across the United States between 1886 and 1919; this is one of the better-preserved Kansas examples.

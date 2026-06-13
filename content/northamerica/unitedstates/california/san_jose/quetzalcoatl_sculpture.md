@@ -10,6 +10,7 @@ story: >
   Robert Graham's coiled bronze Quetzalcóatl was unveiled in 1994 in Plaza de César Chávez and almost instantly became San Jose's most divisive public artwork. Residents complained that it cost half a million dollars, did not resemble the Aztec feathered serpent, and resembled "a giant pile of excrement." Repeated calls for its removal have not succeeded, and after thirty years the sculpture has settled into the role of beloved civic eyesore.
 sources:
   - https://en.wikipedia.org/wiki/Quetzalc%C3%B3atl_(sculpture)
+score: 5.9
 ---
 
 A massive coiled bronze representing the Mesoamerican feathered serpent Quetzalcóatl sits in the southern half of Plaza de César Chávez, downtown. Sculptor Robert Graham, working in an abstracted style, produced a smooth dark mound that has been variously interpreted as a serpent at rest, a Henry Moore-style abstraction, or — as locals delight in pointing out — something less dignified.

@@ -6,6 +6,7 @@ longitude: -8.2927
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 Set inside a 17th-century townhouse on Rua de Santa Maria, with stone walls, dark wooden beams, and a glassed-over inner courtyard. The kitchen plays the classics — *bacalhau à brás*, roast veal, *rojões à minhota*, *arroz de pato* — and does them well.

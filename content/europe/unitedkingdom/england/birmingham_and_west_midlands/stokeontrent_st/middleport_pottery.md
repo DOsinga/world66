@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Working Victorian factory rescued by the Prince's Regeneration Trust"
+score: 8.5
 ---
 
 Middleport is a working Victorian factory beside the Trent and Mersey Canal in Burslem that produces Burleigh ware — the only company in the country still making earthenware using the original 19th-century technique of underglaze tissue transfer printing. The factory was almost lost in 2009 and was rescued by what is now the King's Foundation, which restored the buildings while keeping production going.

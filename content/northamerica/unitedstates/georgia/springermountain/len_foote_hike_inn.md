@@ -6,6 +6,7 @@ longitude: -84.2440
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A 20-room lodge on the shoulder of Frosty Mountain in the Chattahoochee National Forest, reached only by a five-mile hike from Amicalola Falls. The Inn is LEED-certified — solar electricity, composting toilets, very little waste — and was deliberately built to be unreachable by car. Visitors hike in carrying a daypack; bedding, meals, and showers are provided.

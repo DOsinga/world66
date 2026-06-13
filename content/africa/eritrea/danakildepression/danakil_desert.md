@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - desert
+score: 8.4
 ---
 
 The Danakil Desert, or Afar Desert, is the wider landscape that gives the depression its character. It stretches across national borders, linking Eritrea's coastal lowlands with Ethiopia's Afar region and Djibouti's volcanic plains. The common thread is heat: dry, low, relentless, and often beautiful in a hard-edged way.

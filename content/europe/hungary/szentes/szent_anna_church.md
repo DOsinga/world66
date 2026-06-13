@@ -6,6 +6,7 @@ longitude: 20.2544
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Catholic parish church a few minutes south of the main square is dedicated to Saint Anne and is the older of the two big churches in town. It was completed in the late 18th century in a restrained Baroque manner — a single nave, a vaulted ceiling, an altarpiece painted in the rural style of the period.

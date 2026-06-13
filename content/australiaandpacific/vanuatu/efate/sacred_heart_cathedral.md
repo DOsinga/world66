@@ -6,6 +6,7 @@ longitude: 168.3152
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Cathédrale du Sacré-Cœur is Port Vila's main Catholic church and a leftover of the French half of the colonial Condominium. The pale stone façade is more provincial-French than tropical, sitting incongruously on a hill above the lagoon.

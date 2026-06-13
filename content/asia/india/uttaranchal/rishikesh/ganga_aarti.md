@@ -8,6 +8,7 @@ title: Ganga Aarti at Parmarth Niketan
 type: poi
 story: >
   The Ganga Aarti ceremony at Parmarth Niketan happens every evening without exception — the ashram has not missed a single evening ritual since it began. During the catastrophic 2013 Uttarakhand floods, which destroyed bridges and roads and killed thousands, the ceremony continued. A video of the ritual being performed amid rising floodwaters circulated widely and became an enduring image of the disaster.
+score: 8.8
 ---
 
 Every evening at dusk, Parmarth Niketan holds the Ganga Aarti ceremony on its ghat: a procession of priests performing fire worship at the river's edge while devotees and visitors watch from the steps and release small clay lamps loaded with marigold flowers into the current. The fire, the chanting, and the lamps floating downstream against the dark mountains create an atmosphere that is hard to explain and easy to remember.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Franciscan Church and monastery on the lower end of the town date from the 14th century, built when the Franciscan order established a presence in Kremnica during the mining boom. The exterior is sober Gothic, but the interior rewards a look: there are good frescoes surviving in fragments, a carved wooden altar, and side chapels with funerary monuments to wealthy burghers and mine administrators.

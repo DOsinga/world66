@@ -8,6 +8,7 @@ latitude: 45.3740
 longitude: 14.9070
 story: >
   "Zeleni vir" means "green whirlpool" in Croatian, and the name comes from the colour of the water in the gorge pool below the waterfall — an intense emerald green caused by the mineral content of the karst spring. Early visitors reported the colour was visible from a considerable distance through the forest, which explains how it attracted its name before anyone had put a trail down to it.
+score: 8.0
 ---
 
 The Zeleni Vir gorge near Skrad is one of Gorski Kotar's most dramatic natural features — a narrow ravine carved through limestone by a series of waterfalls and rapids, ending in a pool of remarkable green water. A marked trail leads down from the car park to the gorge floor, a walk of about 20 minutes that passes through old-growth forest before the gorge suddenly opens up.

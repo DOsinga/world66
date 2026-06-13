@@ -9,6 +9,7 @@ latitude: 25.3862
 longitude: 68.3708
 sources:
   - https://en.wikipedia.org/wiki/Mukhi_House
+score: 8.4
 ---
 
 A historic haveli (merchant's mansion) in the old city that has been converted into a museum. Mukhi House was built by a wealthy Hindu merchant family in the colonial period and represents the architectural style of prosperous Sindhi merchants of the nineteenth century — elaborate wooden balconies, decorated facades, and internal courtyards. The haveli style reflects the Hindu and Mughal architectural traditions that shaped Sindhi domestic architecture.

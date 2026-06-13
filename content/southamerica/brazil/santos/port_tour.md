@@ -6,6 +6,7 @@ longitude: -46.3270
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Port of Santos is the busiest in Latin America, handling about a third of all Brazilian foreign trade. A handful of operators run schooner tours from the docks near Ponta da Praia, taking visitors up the estuary past the container terminals, refineries, the naval base, and back along the Guarujá shoreline.

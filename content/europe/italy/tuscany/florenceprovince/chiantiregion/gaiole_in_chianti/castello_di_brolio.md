@@ -14,6 +14,7 @@ story: >
   the legally defined recipe for Chianti Classico. Ricasoli went on to become
   the second Prime Minister of unified Italy, but in the wine world he is remembered
   simply as the man who invented Chianti.
+score: 8.5
 ---
 
 The Castello di Brolio is the ancestral seat of the Ricasoli family — one of the oldest noble houses in Tuscany — and has been in their possession since 1141, with a brief interruption when Napoleon sold it off and the family bought it back. The castle sits on a commanding hill south of Gaiole, its medieval walls enclosing a 19th-century neo-Gothic palace built by the Iron Baron, Bettino Ricasoli. The views from the battlements are exceptional: a panorama of vines, olive groves, and the towers of more distant castles extending in every direction.

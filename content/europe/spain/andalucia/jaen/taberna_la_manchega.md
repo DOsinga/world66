@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: "Tile-walled 19th-century tapas bar on Calle Bernardo López."
+score: 6.7
 ---
 
 La Manchega is one of the oldest bars in the city, opened in 1886. The interior is barely touched: marble counter, Andalusian tiles, hams hanging from the ceiling, and a slate listing the day's specials chalked up in handwriting that hasn't changed in decades.

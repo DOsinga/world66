@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.51056
 longitude: 5.05778
+score: 6.6
 ---
 
 The Zuidpoldermolen is a working polder windmill on the edge of Edam, built between 1626 and 1635 to drain the Zuidpolder and grind grain. It is one of a handful of windmills still operating in this part of North Holland and is maintained by volunteers who keep the sails turning on suitable days.

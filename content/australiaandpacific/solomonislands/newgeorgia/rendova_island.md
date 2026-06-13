@@ -15,6 +15,7 @@ story: >
   shelled the beachhead within hours and air attacks followed throughout the day.
   One of those early shellings wounded Admiral Richmond Kelly Turner, commanding the
   amphibious force, while he was still aboard his command ship.
+score: 6.4
 ---
 
 Rendova Island sits directly across Blanche Channel from Munda Point, and it was here that American forces came ashore on 30 June 1943 to begin the New Georgia campaign. The island gave the artillery a base from which to hammer the Japanese airfield at Munda, softening the defenses before the main assault. The jungle-covered hills of Rendova still hold the earthworks and equipment of that operation.

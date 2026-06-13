@@ -10,6 +10,7 @@ tags:
   - polana
   - restaurant
 neighbourhood: Polana
+score: 5.7
 ---
 
 **Mundo's** is the kind of restaurant every African capital seems to have one of — a big, busy, semi-outdoor grill that does burgers, ribs, chicken, salads, decent pizzas and ice-cold beer at fair prices, and is always full. The original branch sits on the corner of Avenida Julius Nyerere and Rua da Argélia in the heart of Polana, with a wraparound deck and several big-screen TVs that show every football match worth showing.

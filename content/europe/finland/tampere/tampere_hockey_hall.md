@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 61.5017
 longitude: 23.7592
+score: 6.9
 ---
 
 The Finnish Hockey Hall of Fame within Vapriikki traces the history of ice hockey in Finland from its origins to the country's emergence as one of the sport's dominant nations. The museum covers Finnish players who have made careers in the NHL, the national team's World Championship and Olympic history, and the development of the domestic Liiga competition.

@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Tuti Island
 type: poi
+score: 8.1
 ---
 
 Tuti Island sits in the middle of the Nile at the exact spot where the Blue and White Niles meet. It is small — about eight square kilometres — and inhabited by a community of around 5,000 people, most of them Mahas Nubians who have farmed the island for generations. Until 2009 the only way across was a rope-pulled ferry; the Tuti Bridge from Khartoum has since opened the island up, but it has kept its village character.

@@ -11,6 +11,7 @@ story: >
   The iconic 120-foot pink Louisville Slugger bat leaning against the museum's exterior is the largest baseball bat in the world. It is a replica of the model used by Babe Ruth — appropriate, since the factory has been making bats for major-league players here since 1884, starting with a teenage apprentice named Bud Hillerich who skipped work to carve a bat for Louisville Eclipse first baseman Pete Browning.
 sources:
   - https://en.wikipedia.org/wiki/Louisville_Slugger_Museum_%26_Factory
+score: 8.2
 ---
 
 The Louisville Slugger Museum and Factory is one of the best sports-themed attractions in the United States. The tour takes you through the actual working factory where Louisville Slugger bats are still made for major-league players — you can watch them being turned on lathes, branded, and sorted. Every visitor gets a miniature bat to take home.

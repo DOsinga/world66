@@ -10,6 +10,7 @@ longitude: -5.1815
 story: "The tower is the main survivor of Setenil's medieval castle. Its name, like many homage towers in Spain, reflects the feudal ceremony of loyalty as much as military function."
 sources:
   - https://turismodesetenil.com/en/que-visitar/
+score: 6.8
 ---
 
 The Torreón del Homenaje is the surviving castle tower in Setenil's upper quarter. It is a compact sight, but it anchors the town's medieval story and helps explain why the settlement mattered before tourists arrived to photograph the cave streets.

@@ -14,6 +14,7 @@ story: >
   drove a Victorian-era trade that nearly made several species extinct. The
   park's breeding and conservation programme has helped stabilise populations
   of some of the more vulnerable species.
+score: 8.4
 ---
 
 Papua New Guinea's only zoo and botanic garden, located in Waigani near the university campus. The park is genuinely impressive for a capital city in the Pacific: it holds tree kangaroos, birds of paradise, cassowaries, crocodiles, and a wide range of PNG wildlife in relatively naturalistic enclosures. The botanical section has labelled native plants including tropical orchids.

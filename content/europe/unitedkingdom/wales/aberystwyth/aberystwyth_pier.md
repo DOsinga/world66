@@ -7,6 +7,7 @@ tags:
   - sight
 title: Aberystwyth Pier
 type: poi
+score: 7.5
 ---
 
 Built in 1865, Aberystwyth's Royal Pier extends 300 metres into Cardigan Bay and is one of the best-preserved Victorian piers in Wales. Walking to the end gives wide views north toward the Llŷn Peninsula and south along the Heritage Coast of Ceredigion. On clear days the distant hills of the Cambrian Mountains rise to the east.

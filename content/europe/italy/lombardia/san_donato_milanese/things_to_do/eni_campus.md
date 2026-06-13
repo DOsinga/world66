@@ -10,6 +10,7 @@ longitude: 9.2728
 sources:
   - https://en.wikipedia.org/wiki/San_Donato_Milanese
   - https://en.wikipedia.org/wiki/Eni
+score: 8.0
 ---
 
 The ENI headquarters campus is the centrepiece of San Donato Milanese and one of the most ambitious examples of mid-century corporate architecture in Italy. Designed largely by the BBPR architectural studio — the same group responsible for the Torre Velasca in Milan — the campus was developed from the late 1950s through the 1960s as ENI's global nerve centre expanded under its visionary founder Enrico Mattei. The buildings combine functionalist rigour with a humanist attention to landscape: generous green spaces, covered walkways, and a coherent urban grammar that makes the whole campus feel like a small self-contained city. The main tower and the low-rise administration wings are particularly striking. Access to the campus proper is restricted, but the perimeter and public-facing buildings can be viewed freely, and the architectural quality is evident from the street.

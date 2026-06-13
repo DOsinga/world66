@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 36.3445
 longitude: 43.1326
+score: 7.0
 ---
 
 Al-Tahera (the Immaculate) is a Syriac Catholic church in the Old City of Mosul, one of the more visible symbols of the city's ancient Christian heritage. The church's exterior is relatively plain, but its interior retains decorative elements reflecting a centuries-long tradition of Eastern Christian worship in the Nineveh plains. It was partly demolished during the ISIS occupation, when much of the Christian quarter around it was looted or destroyed.

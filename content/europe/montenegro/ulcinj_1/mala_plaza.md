@@ -8,6 +8,7 @@ latitude: 41.9236
 longitude: 19.2051
 sources:
   - https://en.wikipedia.org/wiki/Mala_Pla%C5%BEa
+score: 7.2
 ---
 
 Mala Plaža — Small Beach or City Beach — is the main town beach, tucked beneath the walls of the old citadel. It is small, sandy, and usually crowded in summer, but its position directly below the old town makes it one of the most atmospheric spots on the coast: you swim with the medieval walls rising above you and the minaret of a mosque visible on the headland.

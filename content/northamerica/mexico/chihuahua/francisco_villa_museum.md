@@ -10,6 +10,7 @@ story: >
   The bullet-riddled 1922 Dodge in which Pancho Villa was assassinated on 20 July 1923 is preserved in the museum. Villa was ambushed in Parral, 225 km south, as his car passed through town; he and four companions were killed in a coordinated attack by gunmen firing from a building on the corner. The car took more than 40 bullets.
 sources:
   - https://en.wikipedia.org/wiki/Francisco_Villa_Museum
+score: 7.6
 ---
 
 Pancho Villa's personal residence — a 50-room mansion called Quinta Luz — is now the city's most visited museum. Villa bought the house for his wife Luz Corral in 1914 during the height of the Revolution, and she lived here until her death in 1981, when she donated it to the state. The rooms are preserved much as they were: original furniture, photographs, weapons, and documents from Villa's life and the Revolution.

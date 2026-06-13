@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 40.8152
 longitude: -96.7085
+score: 5.8
 ---
 
 Dish is one of Lincoln's most consistent upscale-casual restaurants, with a menu built around Nebraska ingredients — local beef and pork, seasonal produce from nearby farms, and a wine list that takes the region's food seriously. The cooking is contemporary American without being aggressively trend-chasing, which suits a city that values substance over novelty.

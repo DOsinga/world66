@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 35.8988
 longitude: 14.5108
+score: 5.8
 ---
 
 The Bridge Bar on Strait Street is one of the anchor venues in Valletta's revived nightlife strip, occupying a cavernous vaulted space that feels genuinely old. It serves a broad selection of Maltese and international beers, spirits, and cocktails, with a particular emphasis on local Cisk lager and a rotating selection of craft beers. The atmosphere is relaxed and unpretentious, mixing tourists and locals.

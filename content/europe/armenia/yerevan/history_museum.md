@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: Republic Square
+score: 8.5
 ---
 
 Yerevan's main historical collection occupies the pink-tufa block on the north side of Republic Square, sharing the building with the National Gallery. The displays cover Armenia from prehistory through the Urartian kingdom, the Hellenistic and Christian eras, medieval kingdoms, and the modern Republic.

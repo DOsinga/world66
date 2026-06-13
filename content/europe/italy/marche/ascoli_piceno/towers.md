@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Around 50 surviving tower-houses, out of an original 200
+score: 7.4
 ---
 
 In its medieval heyday Ascoli held more than 200 fortified tower-houses, more even than San Gimignano. About 50 survive — most lopped down to a more practical second-storey height, but a handful still rising 30 metres or more above the rooftops. Walk Via delle Torri and you pass half a dozen close together.

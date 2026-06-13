@@ -12,6 +12,7 @@ tags:
 - sight
 title: Toubkal Refuge
 type: poi
+score: 7.7
 ---
 
 The Toubkal Refuge (Refuge du Toubkal) at 3,207 metres is the standard overnight stop on the route to the summit. Most trekkers arrive here on the afternoon of their first day from Imlil — a four-to-five hour walk via Aroumd — and set off for the summit before dawn the following morning. The hut is run by the Club Alpin Français and has dormitory beds, hot meals, and a guardian who can advise on conditions.

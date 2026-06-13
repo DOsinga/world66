@@ -7,6 +7,7 @@ tags:
 latitude: 65.263
 longitude: -14.003
 snippet: Iceland's only international ferry port, connecting to Denmark and the Faroe Islands
+score: 5.8
 ---
 
 The Smyril Line ferry Norröna docks in Seyðisfjörður once a week on its route between Hirtshals in Denmark, Tórshavn in the Faroe Islands, and Iceland. The arrival and departure of the ferry — a large ship by the standards of this small fjord — is one of the defining events of the town's week. In summer the dock fills with campervans and motorcycles, their riders taking their first or last steps on Icelandic soil.

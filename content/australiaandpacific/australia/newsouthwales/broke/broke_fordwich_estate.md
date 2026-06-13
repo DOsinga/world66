@@ -7,6 +7,7 @@ tags:
 latitude: -32.776
 longitude: 151.076
 story: "Broke Fordwich is one of the Hunter Valley's quieter sub-appellations, and the Estate that anchors it has been producing Semillon and Shiraz from these alluvial flats since 1996. The cellar door sits in a converted farm building overlooking the vineyard, and tastings here feel genuinely unhurried — no tour buses, no rush."
+score: 6.6
 ---
 
 One of the estate wineries in the Broke Fordwich sub-region, occupying a patch of deep alluvial soil where Wollombi Brook drains the surrounding hills. The winery concentrates on the Hunter Valley's two signature varieties: Semillon, which starts tight and citrus-driven and develops into something remarkably complex with ten or fifteen years in the bottle, and Shiraz, which here tends to be more restrained and peppery than the big extracted styles found elsewhere.

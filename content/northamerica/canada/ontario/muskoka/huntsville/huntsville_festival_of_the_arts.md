@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3264
 longitude: -79.2184
+score: 7.1
 ---
 
 The Huntsville Festival of the Arts runs for two weeks in July and August and is one of the more serious arts events in cottage country. It brings chamber music, jazz, and classical concerts to venues around town — including outdoor performances beside the waterfront — and has attracted internationally recognised performers since it began in the 1990s.

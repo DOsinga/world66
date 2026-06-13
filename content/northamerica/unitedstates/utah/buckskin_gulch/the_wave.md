@@ -15,6 +15,7 @@ tags:
 - wildlife
 title: The Wave
 type: poi
+score: 9.6
 ---
 
 Just across the Utah-Arizona border, in the Coyote Buttes North area of the Vermilion Cliffs National Monument, The Wave is one of the most striking rock formations in the American West. The undulating sandstone surface — red and orange strata flowing in parallel curves like a frozen sea — has been photographed so extensively that the actual experience of standing inside it retains its power partly by exceeding what any image can convey.

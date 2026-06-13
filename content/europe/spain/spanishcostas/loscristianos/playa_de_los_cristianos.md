@@ -8,6 +8,7 @@ tags:
   - beach
 title: Playa de Los Cristianos
 type: poi
+score: 6.3
 ---
 
 Playa de Los Cristianos is the town's harbour beach, sheltered by the port and backed by cafes, apartments, and the older resort centre. It is not wild or dramatic, but it is easy, calm, and very useful if you are staying nearby.

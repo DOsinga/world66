@@ -7,6 +7,7 @@ tags:
 latitude: -17.7556
 longitude: -63.1956
 snippet: Pan-Asian fine dining north of the second anillo
+score: 6.1
 ---
 
 Jardín de Asia is the most ambitious restaurant in Santa Cruz, a pan-Asian fusion place that has been on the Latin America's 50 Best list more than once. The dining room is a low-lit garden of bamboo and stone with an open sushi counter at one end and a wok kitchen at the other; the food slides between Japanese, Thai, and Chinese influences, often using Bolivian river fish or beef.

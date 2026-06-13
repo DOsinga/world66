@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.7516
 longitude: 13.2344
+score: 5.8
 ---
 
 The Church of St Nicholas is the oldest surviving building in Oranienburg, its origins stretching back to the 13th century though the current structure is largely late Gothic, with later Baroque and 19th-century modifications. It stands near the town centre, and its tower serves as a visual anchor for the modest historic core around the marketplace.

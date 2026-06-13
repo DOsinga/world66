@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -20.035
 longitude: 57.643
+score: 7.5
 ---
 
 The Goodlands fair, three kilometres inland from Grand Gaube, is the largest open-air market in the north of Mauritius — fruit, vegetables, fish, household goods, fabrics, and the inevitable phone-accessory stalls, spread along a long covered street and the surrounding lanes. It runs every day except Monday, but is biggest on Saturday.

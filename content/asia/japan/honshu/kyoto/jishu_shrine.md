@@ -8,6 +8,7 @@ tags:
 - sight
 title: Jishu Shrine
 type: poi
+score: 6.1
 ---
 
 Jishu Shrine sits inside the precinct of Kiyomizu-dera and is dedicated to the deity Ōkuninushi, traditionally associated with love and matchmaking. Most visitors come for the *koi-no-uranai-ishi* — the two "love-fortune stones" set in the pavement of the shrine grounds about ten metres apart. Tradition holds that anyone who walks from one stone to the other with their eyes shut and arrives without help will find true love; anyone who needs guidance from a companion will likewise need that companion's help to find love.

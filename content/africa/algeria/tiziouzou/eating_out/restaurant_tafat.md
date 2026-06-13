@@ -7,6 +7,7 @@ tags:
   - kabyle
 latitude: 36.7140
 longitude: 4.0490
+score: 6.6
 ---
 
 One of the better-regarded restaurants in the city centre for traditional Kabyle cooking. The couscous here is made with fine-grained semolina and served with a rich broth of vegetables and lamb — the version with dried meat (aqdid) is particularly good and closer to what you'd find at a family table than in a tourist-facing establishment. The chicken tagine with olives and preserved lemon is reliably excellent.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: La Florida
 type: poi
+score: 6.3
 ---
 
 La Florida is the park that marks the transition between the old walled town and the newer residential districts to the southwest. Laid out in the early 19th century as a formal garden with geometric paths, mature trees, and a bandstand, it functions today as both a neighbourhood park and a venue for outdoor concerts. Peacocks wander the grounds.

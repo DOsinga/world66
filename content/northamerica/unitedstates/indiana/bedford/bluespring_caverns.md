@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The main river passage was only discovered in 1940, when a farmer's pond suddenly drained into a hole in his field. The hole turned out to be the collapsed roof of a previously unknown underground river system."
+score: 8.5
 ---
 
 About fifteen minutes south of Bedford, Bluespring Caverns is the longest navigable underground river cave in the United States, with around twenty miles of mapped passages. Visitors tour about a mile of it by flat-bottomed boat, drifting through the dark on a slow underground stream.

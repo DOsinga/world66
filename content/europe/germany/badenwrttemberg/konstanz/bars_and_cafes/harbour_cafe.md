@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 47.6605
 longitude: 9.1760
+score: 6.2
 ---
 
 The promenade along Konstanz harbour has a string of cafes and bars with outdoor terraces facing the lake. In summer these fill up from mid-morning and stay busy into the evening — coffee and cake giving way to wine and Radler as the day progresses. The view is the point: the lake spreading out to the south, the Alps on clear days, and the steady movement of ferries between Konstanz and Meersburg.

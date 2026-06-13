@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 19.5285
 longitude: -96.9213
+score: 6.8
 ---
 
 The Universidad Veracruzana runs several gallery spaces around the city, of which the main Galería de Arte UV near the university campus is the most consistently interesting. The programme covers contemporary Mexican and Latin American art, with temporary exhibitions rotating every six to eight weeks and an emphasis on emerging and established Veracruz-connected artists. Admission is free, the space is well-designed, and the programming reflects the genuine cultural ambition of a university city that takes its arts infrastructure seriously.

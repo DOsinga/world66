@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 38.0589
 longitude: -81.0850
+score: 8.0
 ---
 
 The Nuttall sandstone walls of the New River Gorge are among the best sport-climbing crags in the United States — fine-grained rock with a vertical to overhanging profile and excellent friction. There are over 1,400 established routes, most in the 5.10 to 5.13 range, with concentrations at Endless Wall, Bridge Buttress, Junkyard, and Beauty Mountain.

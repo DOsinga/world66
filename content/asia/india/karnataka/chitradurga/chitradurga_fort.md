@@ -11,6 +11,7 @@ story: >
   The fort's most famous moment came not in a pitched battle but through a single woman. Onake Obavva, wife of a watchman, discovered Haider Ali's soldiers trying to sneak in through a narrow gap in the wall. With no weapon to hand, she used her husband's onake — a wooden pestle used for husking grain — to kill the soldiers one by one as they squeezed through. The gap, Onake Obavvana Kindi, is still there and you can crouch through it yourself.
 sources:
   - https://en.wikipedia.org/wiki/Chitradurga_Fort
+score: 9.2
 ---
 
 Chitradurga Fort is a multilayered hill fortification that climbs and winds through a landscape of giant granite boulders, enclosing 19 gateways, 38 back entrances, and seven rings of walls built by different rulers over several centuries. The Nayak Palegars who made Chitradurga their capital from around the 16th century began the serious construction; Haider Ali and Tipu Sultan later added their own structures, including a palace (mostly collapsed) and a mosque.

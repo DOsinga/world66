@@ -7,6 +7,7 @@ tags:
 - sight
 title: Missouri Riverfront Bluff Viewpoints
 type: poi
+score: 7.2
 ---
 
 The Missouri River forms the northern boundary of Kansas City's original urban core, and the bluffs on the north bank offer the classic long views of the downtown skyline — the art deco towers, the T-Mobile Center, and the Kauffman Center in the distance. The North Kansas City riverside park, accessed via the Berkley Riverfront Park on the Missouri side, is the most accessible viewpoint.

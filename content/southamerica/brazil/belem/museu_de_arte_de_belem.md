@@ -13,6 +13,7 @@ story: >
   palace is as much the attraction as the art inside: the tiled floors, carved wooden ceilings,
   and grand reception rooms give a sense of what Belém looked like when it considered itself
   the cultural capital of the Amazon.
+score: 6.9
 ---
 
 The collection focuses on Brazilian painting from the 19th and early 20th centuries, with a particular emphasis on Pará artists and scenes of Amazonian life. The rubber-era portraits and landscapes have a documentary quality that makes them interesting even if you are not normally drawn to academic painting.

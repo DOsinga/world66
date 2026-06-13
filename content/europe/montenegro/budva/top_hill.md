@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Montenegro's most famous open-air nightclub, with Adriatic views from a hilltop above Budva
+score: 4.8
 ---
 
 Top Hill is one of the most talked-about nightclubs on the Adriatic. It sits on a hill above Budva with views of the sea and coast, and in peak summer operates as an open-air venue drawing international DJs and crowds from across the region. The setting — an outdoor dancefloor on a hilltop with the dark Adriatic below — is genuinely spectacular on a clear night.

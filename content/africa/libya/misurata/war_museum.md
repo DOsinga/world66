@@ -14,6 +14,7 @@ story: >
   receiving some aid by sea. The siege ended when NATO airstrikes degraded
   Gaddafi's armour and rebel forces broke through. The city emerged as one of
   the most militarily capable factions in post-Gaddafi Libya.
+score: 8.2
 ---
 
 The War Museum of Misurata documents the 2011 siege with collections of weapons, vehicles, photographs, and personal testimonies from both sides. The museum was established quickly after the conflict by the city's revolutionaries, and it has the raw, immediate quality of a memorial created by the people who lived through the events. Tanks, artillery pieces, and other military hardware are displayed outside the main building.

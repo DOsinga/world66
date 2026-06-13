@@ -16,6 +16,7 @@ story: >
   they were made without modern tools.
 sources:
 - https://en.wikipedia.org/wiki/Jaisalmer_Fort_Jain_temples
+score: 8.7
 ---
 
 Inside [Jaisalmer Fort](/asia/india/rajasthan/jaisalmer/jaisalmer_fort), a complex of seven interconnected Jain temples was built between the 12th and 16th centuries by wealthy Jain merchants who had settled in the city. The temples are dedicated to different tirthankaras (spiritual teachers) and are among the finest examples of medieval Jain architecture in western India. Yellow Jaisalmer sandstone glows warm in the morning light, and every surface — ceiling, pillar, doorway — is carved in extraordinary detail.

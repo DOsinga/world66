@@ -7,6 +7,7 @@ tags:
   - sight
 title: Shukubo Temple Lodging
 type: poi
+score: 8.3
 ---
 
 Around 50 of Koyasan's temples offer shukubo — overnight accommodation for pilgrims and visitors. Staying in one is the single best reason to spend a night on the mountain rather than making a day trip. Guests sleep on futons in tatami rooms, eat shojin ryori (the Buddhist vegetarian cuisine, usually a beautiful multi-course meal), and are invited to join morning prayers and, at some temples, a morning goma fire ceremony.

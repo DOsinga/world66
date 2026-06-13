@@ -5,6 +5,7 @@ snippet: One of the oldest privately owned breweries in Germany, with a brewery 
 tags: [things_to_do, sight, bar]
 latitude: 47.9514
 longitude: 8.5003
+score: 6.5
 ---
 
 The Fürstlich Fürstenbergische Brauerei has been brewing in Donaueschingen since 1283 — among the oldest continuously operating breweries in Germany. It still belongs to the Fürstenberg family and produces Pilsener, lager, Weizen and seasonal beers, distributed widely across Baden-Württemberg.

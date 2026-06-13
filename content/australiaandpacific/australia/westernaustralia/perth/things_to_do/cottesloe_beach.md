@@ -7,6 +7,7 @@ tags:
   - outdoor
 latitude: -31.9936
 longitude: 115.7537
+score: 8.4
 ---
 
 Cottesloe Beach is Perth's most iconic swimming beach, and the question of where to go to the beach in Perth generally begins and ends here. The beach itself is a long, wide strip of white sand backed by a Norfolk Island pine promenade and anchored at the northern end by the Indiana Tea House, an elaborate 1930s pavilion that is now a restaurant. The water is calm and clear by Indian Ocean standards — Rottnest Island offshore provides some shelter from the swell — and the sand is the pale, almost white colour that characterises Perth's metropolitan beaches.

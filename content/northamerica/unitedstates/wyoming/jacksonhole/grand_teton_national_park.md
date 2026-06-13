@@ -13,6 +13,7 @@ story: >
   the valley floor in a single dramatic step, which is why the view from the
   Jackson Hole valley floor is so instantly dramatic. The Grand Teton itself
   reaches 4,199 metres and was first climbed by William Owen in 1898.
+score: 10.0
 ---
 
 Grand Teton National Park covers the Teton Range and much of the Jackson Hole valley floor, protecting some of the most spectacular mountain scenery in North America. The classic view — the jagged Teton peaks reflected in the still water of the Snake River — is one of the most photographed landscapes on the continent, and deservedly so.

@@ -10,6 +10,7 @@ longitude: 17.0772
 address: "Wystawowa 1, 51-618 Wrocław"
 story: >
   When Centennial Hall opened in 1913 its dome was the largest in the world built of reinforced concrete — 65 metres in span, exceeding the dome of the Pantheon in Rome. The architect Max Berg designed it as a structure that needed no internal columns, freeing the floor for crowds of up to 10,000.
+score: 8.7
 ---
 
 A UNESCO World Heritage Site, the Centennial Hall (Hala Stulecia) was built in 1913 by Max Berg to commemorate the centenary of Prussia's wars against Napoleon. Its enormous reinforced-concrete dome was a landmark in early modernist architecture and influenced a generation of engineers and architects across Europe and the United States.

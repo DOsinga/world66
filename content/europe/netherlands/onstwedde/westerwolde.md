@@ -7,6 +7,7 @@ tags:
 latitude: 53.0100
 longitude: 7.0500
 snippet: A distinctive landscape of wooded ridges, heath, and small farms — quieter and more forested than most of Groningen
+score: 7.8
 ---
 
 The area around Onstwedde is part of Westerwolde, the south-eastern corner of the province of Groningen. Unlike the open polders of coastal Groningen, Westerwolde is hilly (by Dutch standards), wooded in places, and dotted with small farms and villages that feel more like Drenthe than the north. The landscape is formed by ice-age ridges (zandruggen) that cross the otherwise flat terrain.

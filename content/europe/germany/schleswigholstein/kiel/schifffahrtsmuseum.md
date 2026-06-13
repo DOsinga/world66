@@ -9,6 +9,7 @@ latitude: 54.3231
 longitude: 10.1324
 sources:
   - https://en.wikipedia.org/wiki/Kiel_Maritime_Museum
+score: 6.8
 ---
 
 The Schifffahrtsmuseum (Maritime Museum) occupies the old Fischhalle — a fish market hall from the 1880s — on the Dänische Strasse near the inner harbour. The collection covers Kiel's maritime history from the age of sail to the late twentieth century, with particular depth on the naval and commercial shipping that shaped the city.

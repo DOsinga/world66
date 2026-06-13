@@ -16,6 +16,7 @@ story: >
   British East India Company invoked the Doctrine of Lapse to annex the state —
   but allowed the palace to remain with the royal family, whose descendants still
   occupy part of the complex today.
+score: 8.2
 ---
 
 The Thanjavur Royal Palace is a rambling compound built in stages by the Nayaka rulers and later expanded by the Maratha kings who held Thanjavur from the 17th century. It is part medieval fortress, part crumbling Baroque, part colonial-era administrative block — a layered record of the various powers that controlled the Cauvery delta. The complex includes the seven-storey Goodagopuram watch tower, the Durbar Hall with its ornate plasterwork, and a sequence of courtyards of varying age and condition.

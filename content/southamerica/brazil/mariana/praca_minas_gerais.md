@@ -6,6 +6,7 @@ title: Praça Minas Gerais
 type: poi
 story: >
   The square is one of the few in Brazil where two eighteenth-century Baroque churches face each other across the same open space. Both were built before 1790, and their soapstone carvings were worked by craftsmen trained in the same tradition as Aleijadinho — the master sculptor whose work defines the Mineiro Baroque style.
+score: 9.1
 ---
 
 Praça Minas Gerais is the heart of colonial Mariana and arguably the finest colonial square in Minas Gerais. The Igreja de São Francisco de Assis and the Igreja de Nossa Senhora do Carmo face each other across the cobblestones, with the old Câmara e Cadeia — the combined town hall and jail — completing the ensemble at one end. On weekday mornings the square is pleasantly quiet compared to Ouro Preto's busier plazas.

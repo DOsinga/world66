@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.8043
 longitude: 9.2242
+score: 6.8
 ---
 
 The Mirasteilas Observatory in nearby Falera is the largest publicly accessible astronomical observatory in Switzerland, operated by the Astronomical Society of Graubünden. At 1,288 metres, the site benefits from low light pollution and clear mountain air. The name means "stargazer" in Romansh. Public tours run on Friday and Saturday evenings, where visitors can use the main 90-centimetre Cassegrain reflector telescope capable of 1,000-fold magnification.

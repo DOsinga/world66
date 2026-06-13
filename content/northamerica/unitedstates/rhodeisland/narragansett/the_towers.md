@@ -8,6 +8,7 @@ tags:
 - landmark
 title: The Towers
 type: poi
+score: 7.6
 ---
 
 The Towers are the surviving fragment of the Narragansett Pier Casino, a Gilded Age resort complex designed by McKim, Mead & White in 1883. The casino itself — a sprawling shingle-style hall with ballrooms, bowling alleys and a billiard room — was destroyed in a fire in 1900, but the heavy stone porte-cochère that arched over Ocean Road remained standing. It is the most photographed building in town and now houses a small visitor centre and event space.

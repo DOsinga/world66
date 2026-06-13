@@ -7,6 +7,7 @@ tags:
 - museum
 title: Swaziland National Museum
 type: poi
+score: 7.2
 ---
 
 The National Museum is the best starting point for understanding Eswatini. Exhibits cover the kingdom's precolonial history, the royal lineage from Ngwane III onward, and the material culture of the Swazi people — beadwork, musical instruments, ceremonial regalia. A reconstructed traditional homestead in the grounds shows how a Swazi family would have lived before modern building materials arrived.

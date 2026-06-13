@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 33.19908
 longitude: -96.617125
+score: 6.8
 ---
 
 The Heard-Craig House is a Victorian-era home museum two blocks east of the McKinney square, on Chestnut Street. Built in 1900 by Stephen Heard, a member of one of McKinney's founding families, it stayed in the family until the death of his daughter Susan Heard Craig in 1971. The interior retains most of the original furnishings, china, and silver from three generations of one family — unusual for a small-city house museum.

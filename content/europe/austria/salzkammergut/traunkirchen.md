@@ -14,6 +14,7 @@ story: >
   standing in a boat that projects directly out from the church wall.
   It is one of the most unusual pieces of Baroque church furniture in Austria,
   and genuinely strange in a way that Baroque art rarely manages.
+score: 7.8
 ---
 
 Traunkirchen is a small village on a promontory jutting into the Traunsee, connected to the main road only by a narrow causeway. It was the site of a Benedictine nunnery from the 10th century — the current parish church incorporates the old conventual church — and the village has preserved a medieval layout that the larger Traunsee towns have lost.

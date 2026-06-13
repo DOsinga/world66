@@ -15,6 +15,7 @@ story: >
   was estimated to weigh over 25 tonnes. In the Baja desert, these giants mark
   the landscape like sentinels, their columns rising above the surrounding
   desert scrub in arrangements that can look almost architectural.
+score: 8.1
 ---
 
 The central portion of the Baja Peninsula is occupied by one of the most dramatic desert landscapes in North America. The Desierto Central stretches for several hundred kilometres between Ensenada and La Paz, a landscape of volcanic rock, dry valleys, and vast plains dominated by the towering cardón cactus — the largest cactus species on earth.

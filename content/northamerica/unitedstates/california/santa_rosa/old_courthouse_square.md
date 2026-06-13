@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The reunified public square at the heart of downtown Santa Rosa, with farmers markets in summer.
+score: 6.3
 ---
 
 For more than a century after the 1906 earthquake destroyed the original sandstone courthouse, Mendocino Avenue ran straight through the middle of what should have been the city's central plaza. In 2017, after years of debate, the city closed the road and finally rejoined the two halves into a single public square. The result is a clean, fountain-centred block that is now Santa Rosa's main civic space.

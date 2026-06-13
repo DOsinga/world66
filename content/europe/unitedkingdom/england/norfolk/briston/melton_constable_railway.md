@@ -7,6 +7,7 @@ tags:
 latitude: 52.8563
 longitude: 1.0324
 story: "From 1882 until 1959 Melton Constable was the operating heart of the Midland and Great Northern Joint Railway — a junction in the middle of nowhere that ran its own locomotive works, signalling school, and chapel for the railwaymen. At its peak the works employed 1,200 people in a village of fewer than 1,500. When the M&GN closed in 1959 the works went with it, and a generation later the trackbed was lifted. Locals still call it 'the Crewe of north Norfolk.'"
+score: 6.3
 ---
 
 Almost nothing of the great junction survives intact, but the village street pattern is the clue: rows of red-brick railwaymen's terraces lined up parallel to where the platforms used to be, plus a few station buildings now in private use. A small information board near the level crossing site sets out the story.

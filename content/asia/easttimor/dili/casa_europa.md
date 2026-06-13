@@ -6,6 +6,7 @@ longitude: 125.5798
 tags:
   - things_to_do
   - architecture
+score: 7.6
 ---
 
 Casa Europa is one of Dili's prettiest survivors: a late-nineteenth-century Portuguese colonial mansion of stuccoed brick, with a deep tiled veranda and high louvred shutters meant for the tropics before air conditioning. It originally housed a wealthy merchant family and has since served as a school, a hospital ward, and a wartime billet.

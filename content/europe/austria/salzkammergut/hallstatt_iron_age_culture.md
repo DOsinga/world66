@@ -13,6 +13,7 @@ story: >
   — the largest prehistoric cemetery then known in Europe — and documented
   each with detailed watercolours that remain models of archaeological
   illustration.
+score: 7.6
 ---
 
 The name Hallstatt refers not just to the village but to an entire epoch of European prehistory: the Hallstatt Period, from roughly 800 to 500 BCE, the earliest phase of the Iron Age in central Europe. The cemetery above the village yielded such a wealth of grave goods — bronze vessels, iron weapons, amber jewellery, silk from China — that archaeologists named the whole culture after the find site.

@@ -14,6 +14,7 @@ story: >
   precision.
 sources:
   - https://en.wikipedia.org/wiki/Crotone
+score: 8.4
 ---
 
 The National Archaeological Museum of Crotone (Museo Archeologico Nazionale di Crotone) is one of the better museums in Calabria and genuinely worth the visit for anyone interested in the ancient Greek world. It is housed in a modern building in the city centre, a short walk from the castle.

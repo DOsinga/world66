@@ -9,6 +9,7 @@ tags:
   - museum
   - odunpazari
 neighbourhood: Odunpazarı
+score: 7.1
 ---
 
 Tucked into a restored Ottoman house in Odunpazarı, the Museum of Modern Glass Art is a small two-floor collection of contemporary glasswork by Turkish and international artists. Pieces range from delicate blown vases to large-scale sculptural installations, all lit to bring out the colours. The building itself — original wooden floors, painted ceilings — adds to the experience.

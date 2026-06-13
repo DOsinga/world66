@@ -10,6 +10,7 @@ tags:
   - swimming
 story: >
   The beach was awarded the Blue Flag — the international certification for water quality, safety, and environmental management — a distinction that surprised many who assumed Baltic beaches couldn't compete with southern European standards. The water is cold by Mediterranean standards but genuinely clean.
+score: 7.6
 ---
 
 Liepāja's city beach is wide, backed by dunes, and stretches for several kilometres along the Baltic coast. It is a serious beach by northern European standards: Blue Flag certified for water quality, well maintained, and lined with pine trees that break the wind on cooler days. In summer the water temperature reaches 18–22 degrees Celsius, which is comfortable enough for swimming by Baltic norms.

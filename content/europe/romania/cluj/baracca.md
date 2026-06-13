@@ -7,6 +7,7 @@ snippet: One of Cluj's best modern restaurants, with a refined menu of seasonal 
 tags:
 - eating_out
 - restaurant
+score: 6.8
 ---
 
 Baracca is among the most ambitious restaurants in Cluj — an elegant dining room a short walk from Piața Unirii, with an open kitchen and a menu that takes Transylvanian and Romanian ingredients in a modern direction. Tasting menus and à la carte options both work well.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.8
 ---
 
 The old commercial centre of Visoko sits on the tongue of land where the Fojnička river meets the Bosna. Two- and three-storey shophouses line the main street; the Saturday market spills out around the central square. The town was a major leather-tanning centre under the Ottomans, and a handful of the old tabhana workshops still operate down by the river.

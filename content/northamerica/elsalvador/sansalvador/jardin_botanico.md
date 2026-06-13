@@ -13,6 +13,7 @@ story: >
   microclimate several degrees cooler than the surrounding areas. Walking into
   it from the hot suburbs of Antiguo Cuscatlán feels like walking into a
   refrigerator.
+score: 6.8
 ---
 
 The Jardín Botánico La Laguna (La Laguna Botanical Garden) sits in an ancient volcanic crater in the municipality of Antiguo Cuscatlán, about 20 minutes from the city centre. The crater's bowl shape and the central lake create a peaceful green space that feels very distant from the surrounding city. Collections of orchids, tropical trees, cacti, and aquatic plants are spread through the grounds.

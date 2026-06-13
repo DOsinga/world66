@@ -14,6 +14,7 @@ story: >
   medieval history was fashionable and romantic ruins were being turned back into
   picturesque towers across rural France. The views from the top are genuine,
   even if the stonework is partly invented.
+score: 7.2
 ---
 
 The Château de Naillac is a restored medieval keep that now houses Le Blanc's local history museum. The tower stands on the high bank above the Creuse river and dominates the old quarter of town. The museum covers the Brenne region's archaeology, natural history, and local traditions — modest in scope but well-suited to an hour's orientation before heading out into the countryside.

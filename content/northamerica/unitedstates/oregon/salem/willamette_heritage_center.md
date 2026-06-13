@@ -14,6 +14,7 @@ phone: "+1 503-585-7012"
 snippet: "Pioneer history and industrial heritage on the original mill race"
 sources:
   - https://en.wikipedia.org/wiki/Willamette_Heritage_Center
+score: 7.3
 ---
 
 The Willamette Heritage Center occupies a five-acre site on the old mill race — the waterway that once powered Salem's flour and woolen mills — and it's a genuinely impressive piece of Pacific Northwest history. Fourteen historic buildings survive on the grounds, including the Thomas Kay Woolen Mill, which ran from 1889 until 1962 and is now the heart of the museum complex.

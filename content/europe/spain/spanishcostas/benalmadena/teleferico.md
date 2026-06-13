@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 8.3
 ---
 
 The Teleférico runs from Arroyo de la Miel up to the summit of Monte Calamorro at 769 metres above the sea. The ride takes about fifteen minutes and the view from the top, on a clear day, takes in the whole Costa del Sol from Málaga to Marbella, plus a sliver of the Rif Mountains in Morocco.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 36.6160
 longitude: 101.7950
+score: 6.9
 ---
 
 Eight-treasure tea (ba bao cha) is the Xining Hui Muslim equivalent of the teahouse tradition: a covered bowl of green tea brewed with dried fruit, rock sugar, chrysanthemum flowers, rose petals, and other ingredients, refilled with hot water throughout the afternoon. The teahouses that serve it are sociable, low-key, and cheap — typically 10 to 15 yuan for a session that can stretch as long as you like.

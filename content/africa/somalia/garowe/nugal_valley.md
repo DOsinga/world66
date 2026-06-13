@@ -6,6 +6,7 @@ tags:
   - sight
 title: Nugal Valley
 type: poi
+score: 6.9
 ---
 
 Garowe sits in the Nugal Valley at around 500 metres elevation — one of the reasons the city was chosen as Puntland's capital is the cooler climate compared to the sweltering coast. The valley is semi-arid but not barren: after the rains, the hills turn green, and the landscape of scattered acacia and frankincense trees on rocky terrain is striking.

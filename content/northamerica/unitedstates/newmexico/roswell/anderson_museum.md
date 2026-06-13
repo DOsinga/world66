@@ -8,6 +8,7 @@ tags:
 address: "409 E College Blvd, Roswell, NM"
 latitude: 33.4089
 longitude: -104.5169
+score: 8.1
 ---
 
 Roswell hosts an Artist-in-Residence Program that has, since 1967, given a year's free studio, housing and stipend to working artists. The Anderson Museum collects the work those artists left behind — over 500 paintings, sculptures, and prints, with at least one piece from every resident of the past 50 years.

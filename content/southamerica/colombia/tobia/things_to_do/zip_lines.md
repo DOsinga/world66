@@ -1,6 +1,7 @@
 ---
 title: "Zip Lines and Canopy"
 type: poi
+score: 6.8
 ---
 
 Several of Tobia's adventure operators have built zip line networks on the steep slopes above the Río Negro canyon, and the setting makes for some genuinely impressive lines. The longest runs cross the valley floor hundreds of metres below, with views of the river, the canyon walls and the patchwork of forest and farmland stretching toward the horizon. It is the kind of scenery that makes you glad for the mandatory pause at each platform.

@@ -9,6 +9,7 @@ story: >
   by the village of Dededo and associated with northern Guam's Chamorro community.
   It has operated every Wednesday evening since 1998 and has become one of the
   most consistent cultural gathering points on the island.
+score: 8.5
 ---
 
 Every Wednesday evening, the waterfront in Hagåtña fills with vendors selling Chamorro food, local crafts, and produce in what is genuinely the best cultural experience available on Guam for a casual visitor. The night market is not staged for tourists — it's a real community market where families come to eat, shop, and socialise. The food stalls are the main draw: red rice, kelaguen (a citrus-cured meat or fish dish that is distinctly Chamorro), empanadas, chicken and fish on the grill, and the sweet potato donuts called buñelos.

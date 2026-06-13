@@ -8,6 +8,7 @@ longitude: 78.2333
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 Pazhamudhircholai — "grove of ripe fruits" — sits above Alagar Kovil at the top of the same hill, and is the sixth and last of the six battle camps of Murugan. The setting is gentler than the other Murugan temples: a wooded ridge with mango and jackfruit trees, a small stream and a few shady halls.

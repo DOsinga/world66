@@ -8,6 +8,7 @@ tags:
 snippet: One of the oldest schools in West Bengal, founded in 1846
 latitude: 23.4080
 longitude: 88.4967
+score: 5.9
 ---
 
 Krishnagar Collegiate School was established in 1846 alongside the government college and is among the oldest secondary schools in West Bengal. The main building is a long colonial structure with a low colonnade on the front, set in a generous compound just east of the Rajbari.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 43.2080
 longitude: 27.9200
+score: 6.0
 ---
 
 Ribarska Hiza — "fisherman's hut" — is the archetype of the Bulgarian Black Sea restaurant: a relaxed, unfussy place serving fresh fish from the local catch alongside Bulgarian salads, grilled vegetables, and cold beer. The decor runs to fishing nets and wooden beams. The fish is the point. Black Sea bass (lavar), turbot (kalkan), and sprat (tsatsa) are the varieties to look for, all typically grilled simply with oil and lemon.

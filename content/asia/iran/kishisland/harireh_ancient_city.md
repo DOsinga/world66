@@ -15,6 +15,7 @@ story: >
   shifted — and when pirates made the Gulf too dangerous for the merchant dhows that sustained it.
 sources:
   - https://en.wikipedia.org/wiki/Harireh
+score: 7.2
 ---
 
 On the northeast coast of Kish, the remnants of Harireh spread across a low sandy site overlooking the sea. The ruins date to the 8th century and continued in use until the 14th century, when the city was gradually abandoned as Kish's importance as a trading port waned. What remains are the eroded walls of mosques, caravanserais, water cisterns, and residential quarters — enough to give a real sense of scale and plan.

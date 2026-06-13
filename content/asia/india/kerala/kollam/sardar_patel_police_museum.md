@@ -6,6 +6,7 @@ tags:
   - museum
 title: Sardar Vallabhbhai Patel Police Museum
 type: poi
+score: 5.9
 ---
 
 A small but unusual museum dedicated to Kerala's police history, housed in a colonial-era building near the town centre. The collection covers the evolution of policing in the region from the Travancore Kingdom through British rule to the present day, with artefacts including old uniforms, weapons, court records, and photographs.

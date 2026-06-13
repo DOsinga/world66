@@ -8,6 +8,7 @@ tags:
 neighbourhood: Port Credit
 latitude: 43.5494
 longitude: -79.5841
+score: 5.7
 ---
 
 The small white-and-red lighthouse at the mouth of the Credit River is a 1991 replica of a 19th-century original. It marks the entrance to the harbour and is a popular meeting point for the Waterfront Trail. The grass slope around it has a clear view across to Toronto's skyline on a clear day.

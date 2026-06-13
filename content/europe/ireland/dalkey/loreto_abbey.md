@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Nineteenth-century convent and school in landscaped grounds above the village
+score: 5.0
 ---
 
 Loreto Abbey occupies a large nineteenth-century building set in landscaped grounds on the hillside above Dalkey village. Founded in 1843 by the Sisters of Loreto, it is still in use as a Catholic secondary school for girls, and the grounds — closed to the public during term — have a fine collection of mature trees and a long view down to the harbour.

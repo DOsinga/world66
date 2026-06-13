@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.4050
 longitude: 43.3200
+score: 6.7
 ---
 
 The Kura (Mtkvari) River cuts through deep volcanic rock between Tsunda and Vardzia, and the valley floor makes for excellent walking. The path follows the river bank through orchards and small fields, with the dark basalt canyon walls rising on either side and occasional ruined watchtowers visible on the ridgeline above.

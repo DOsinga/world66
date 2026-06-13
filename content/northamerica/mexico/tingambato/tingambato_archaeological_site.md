@@ -11,6 +11,7 @@ story: >
   the chronology of elaborate burial practice in the region and confirmed that
   Tingambato was a significant ceremonial centre long before the Tarascan
   empire took shape further east at Tzintzuntzan.
+score: 8.2
 ---
 
 Tingambato — sometimes called Tinganio — is a modest, well-kept set of ruins on the southern edge of the village, occupied from roughly 450 to 900 CE and showing clear architectural influence from Teotihuacán far to the north. The site spans about 50 hectares but only a small core has been excavated: two plazas, a stepped pyramid, a sunken patio with talud-tablero walls, and a Mesoamerican ball court that is among the few examples of its kind found in western Mexico.

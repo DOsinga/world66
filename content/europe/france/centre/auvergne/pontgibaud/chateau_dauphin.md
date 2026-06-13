@@ -10,6 +10,7 @@ story: >
   The château takes its name from Robert Dauphin, Count of Auvergne, who built it in the 12th century to control the Sioule crossing. The Dauphin family's title eventually passed to the French crown, which is why the heir to the French throne came to be known as "le Dauphin" — a connection to this corner of the Auvergne.
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau-Dauphin
+score: 8.1
 ---
 
 Château Dauphin is the dominant feature of Pontgibaud and one of the most intact examples of medieval military architecture in the Auvergne. The original fortress was built in the 12th century by Robert Dauphin, Count of Auvergne, to defend the bridge over the Sioule river. The keep and six towers survive from the original structure; additional work in the 15th century by Field Marshal Gilbert III de La Fayette completed the fortified enclosure.

@@ -5,6 +5,7 @@ type: poi
 tags:
   - books
 isbn: "978-0140095142"
+score: 6.0
 ---
 
 Thesiger's account of crossing the Empty Quarter with the Bedu in the late 1940s is not strictly about Jordan, but it is the most vivid account ever written of the Bedouin culture that shaped the character of Transjordan and is still visible in Amman's older families and in the desert to the east. Thesiger spent time in Jordan before and after his Arabian journeys and understood the Bedouin world on its own terms.

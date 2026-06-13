@@ -6,6 +6,7 @@ longitude: 8.3000
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The parish church of San Nicolò dates from 1570 and stands at the heart of the village. It replaced an earlier place of worship and was rebuilt in the straightforward Counter-Reformation style common to rural Ligurian towns of the period. The interior is modest but well-maintained.

@@ -8,6 +8,7 @@ tags:
 latitude: 56.1205
 longitude: -3.9451
 snippet: A 17th-century almshouse next to the Holy Rude church, founded by a Stirling merchant for "decayed brothers of the Guild"
+score: 7.0
 ---
 
 Cowane's Hospital was endowed in 1633 by John Cowane, a wealthy Stirling merchant who left most of his fortune to found an almshouse for "decayed brothers of the Guild" — broken-down members of the merchant guildry. The building, completed in 1649, sits directly below the [Church of the Holy Rude](/europe/unitedkingdom/scotland/stirling/church_of_the_holy_rude) and is a fine example of Scots vernacular Renaissance architecture, with crow-stepped gables and a steep tile roof.

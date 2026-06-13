@@ -12,6 +12,7 @@ tags:
 - park
 title: Tovrea Castle
 type: poi
+score: 6.7
 ---
 
 Tovrea Castle is a gorgeous three-tiered structure built in the 1920s from granite and concrete by Alessio Carraro. The city of Phoenix purchased the castle in 1993 for potential public use, and guided tours are now available by reservation. Even from the outside, the distinctive design and surrounding cactus gardens make it worth a visit.

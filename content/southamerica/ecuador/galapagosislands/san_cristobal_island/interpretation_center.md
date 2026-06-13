@@ -14,6 +14,7 @@ tags:
 - museum
 title: Interpretation Center
 type: poi
+score: 8.1
 ---
 
 The Centro de Interpretación, perched on the hill above Puerto Baquerizo Moreno, is the best museum in the Galápagos for understanding how the islands formed, how their extraordinary biodiversity evolved, and the troubled history of human settlement here. The exhibits cover geology, endemic species, the ecological damage caused by introduced species, and the conservation efforts underway to reverse it.

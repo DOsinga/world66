@@ -12,6 +12,7 @@ tags:
 - nature
 title: Wuzhizhou Island
 type: poi
+score: 7.8
 ---
 
 Wuzhizhou Island sits about three kilometres off the northeast coast of Sanya, a small (1.5 square kilometre) coral-fringed island that has become the main snorkelling and diving destination in the area. A ferry runs continuously from Houhai Wharf in Haitang Bay — the crossing takes about ten minutes — and the entry ticket (which includes the boat) covers access to the beaches, walking trails, and the lookout points on the island's central ridge.

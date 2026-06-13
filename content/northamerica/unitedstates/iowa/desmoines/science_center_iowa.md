@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.5847
 longitude: -93.6306
+score: 6.2
 ---
 
 The Science Center of Iowa anchors the south end of Western Gateway and is the city's main rainy-day move with children. The building, opened in 2005, holds three floors of hands-on exhibits — a small planetarium, an IMAX-format theatre, a body-systems gallery, and a top-floor maker space that runs daily live demos.

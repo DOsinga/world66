@@ -7,6 +7,7 @@ address: Lakshmi Chowk, Lahore
 tags:
   - eating_out
   - restaurant
+score: 7.3
 ---
 
 Butt Karahi is the most famous of the karahi-specialist restaurants in Lakshmi Chowk — the night-time food district where rows of restaurants spill onto the pavement with cauldrons of bubbling chicken and mutton karahi. The original Butt has been at the chowk for over fifty years.

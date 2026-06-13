@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 story: The temple commemorates **Meng Jiang Nü**, a legendary woman of the Qin dynasty (3rd century BC) who walked to the Great Wall in search of her conscripted husband. Finding he had died and been buried in the wall, she wept so bitterly that a section of the wall collapsed, revealing his bones. The story has been retold for two millennia as a folk parable of the human cost of imperial construction.
+score: 6.8
 ---
 
 The **Mengjiangnü Temple** (*Mengjiangnü Miao*) sits 6 km east of Shanhaiguan in the village of Shangu Zhuang, on a low rocky hill known as Wangfu Shi ("Husband-watching Rock"). The temple was first built in 1100 CE under the Northern Song and has been rebuilt and expanded many times since; the present buildings are mostly late Ming and Qing, with a small main hall, a side hall containing a statue of Meng Jiang Nü in a flowing robe, and the great rock from which she is said to have looked for her husband.

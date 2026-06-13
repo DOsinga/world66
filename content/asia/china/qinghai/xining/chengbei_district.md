@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6890
 longitude: 101.7460
+score: 6.4
 ---
 
 The Chengbei (North City) biotech industrial park contains a surprising cluster of specialist museums: the Tibetan Medicine Culture Museum, the Yak Museum, and the Kunlun Jade Museum are all within walking distance of each other in this modern district. It is an unlikely setting — wide boulevards, glass office buildings — but the museums themselves are good, and visiting them together makes a coherent morning or afternoon.

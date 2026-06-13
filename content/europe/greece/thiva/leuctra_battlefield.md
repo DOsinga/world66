@@ -7,6 +7,7 @@ tags:
 latitude: 38.2073
 longitude: 23.2093
 address: "Near Lefktra village, Boeotia, Greece"
+score: 6.6
 ---
 
 The battlefield of Leuctra, about 11 kilometres southwest of Thiva, is where the Theban general Epaminondas shattered Spartan military supremacy on 6 July 371 BC. Sparta had dominated Greek affairs for a century; within an hour of fighting at Leuctra, its infantry had been destroyed and its political power fatally undermined. The oblique attack formation Epaminondas used — concentrating his best troops on the left wing — influenced military thinking through to Napoleon.

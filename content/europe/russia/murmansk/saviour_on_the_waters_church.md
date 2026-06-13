@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 68.9870
 longitude: 33.0700
 snippet: "Russian Orthodox church on the hill above the bay, memorial to sailors lost at sea"
+score: 6.5
 ---
 
 The Saviour on the Waters (Spas-na-Vodakh) stands on the hill near the Alyosha Monument, a white-walled, five-domed Russian Orthodox church completed in 2002. It functions as a working parish and as a memorial to sailors and submariners lost at sea — the interior carries plaques and lists, including names from the *Kursk* submarine disaster of 2000.

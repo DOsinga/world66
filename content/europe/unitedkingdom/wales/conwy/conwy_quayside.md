@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 53.1233
 longitude: -3.8259
+score: 7.4
 ---
 
 The quayside at Conwy is the natural gathering place of the town — a short stretch of waterfront where fishing boats tie up, restaurants and cafes face the estuary, and the castle provides a dramatic backdrop to almost every view. It is small, but it works.

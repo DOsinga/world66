@@ -10,6 +10,7 @@ story: >
   When completed in 1912 by French engineer Ferdinand Arnodin, the bridge held the
   record as the highest suspension bridge in the world at 175 metres above the gorge
   floor. It kept that record for nearly two decades.
+score: 8.5
 ---
 
 The most famous of Constantine's bridges and one of the most photographed spots in Algeria. This suspension bridge spans the Rhumel Gorge at a height of 175 metres, connecting the old city on its rock plateau to the hospital and residential quarter on the opposite cliff. Walking across it is vertiginous — the gorge drops straight down below your feet, and on a clear day you can see the river as a thin ribbon far below.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.8888
 longitude: -5.5600
+score: 7.1
 ---
 
 The Mellah is Meknes's historic Jewish quarter, located on the southwestern edge of the medina. Morocco's Jewish community played a significant role in the city's commercial and intellectual life for centuries, and Meknes had one of the largest Jewish populations in the country before mass emigration to Israel and elsewhere in the 20th century. Today the quarter retains its distinctive urban character — tightly packed houses with small windows facing the street and overhanging upper floors — but most of the former residents are long gone.

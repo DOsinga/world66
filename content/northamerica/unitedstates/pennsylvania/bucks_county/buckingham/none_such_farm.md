@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 40.3000
 longitude: -75.0600
+score: 5.7
 ---
 
 None Such Farm Market sits on Route 263 south of Buckingham village, a long-running family operation on the same farmstead since the 1940s. The market sells the farm's own grass-fed Angus beef, seasonal vegetables, sweet corn in summer, pumpkins and gourds in autumn, and a bakery counter known for sticky buns and shoofly pie.

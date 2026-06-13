@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 8.5
 ---
 
 The Vjosa flows past Tepelena on its way north to the Adriatic — one of the last truly wild rivers in Europe, undammed along its 270-kilometre course from the Pindus mountains in Greece to the Albanian coast. In 2023 it was declared the Vjosa Wild River National Park, the first such designation in Europe.

@@ -6,6 +6,7 @@ latitude: 36.1415
 longitude: 137.2596
 snippet: "Three parallel Edo-period merchant streets at the heart of old Takayama"
 story: "The dark colour of the houses is not paint but burnt cedar — the planks were charred to make them resistant to fire and to the long Hida winters. The technique is called shou sugi ban and is now imitated across Japan and beyond."
+score: 9.0
 ---
 
 Sanmachi-suji — Ichi-no-machi, Ni-no-machi and San-no-machi — are three parallel streets at the heart of Takayama's old town, lined with dark wooden merchant houses from the 17th and 18th centuries. The wide eaves, low-slung windows and lanterns make this one of the best-preserved Edo-period townscapes in Japan.

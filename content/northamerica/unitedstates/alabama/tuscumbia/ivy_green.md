@@ -12,6 +12,7 @@ tags:
 - sight
 title: Ivy Green
 type: poi
+score: 8.7
 ---
 
 Ivy Green is the birthplace of Helen Keller. Built in 1820, the simple white clapboard home is where Keller was born in 1880 and where, at age six, her teacher Anne Sullivan broke through by holding her hands in running water while tapping the alphabet code for "water" on her palm.

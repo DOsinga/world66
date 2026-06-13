@@ -8,6 +8,7 @@ tags:
   - market
   - eating_out
 snippet: Saturday morning market for local produce, honey, citrus, and crafts
+score: 6.4
 ---
 
 Kerikeri's Saturday morning market is one of the better small-town markets in Northland, drawing producers from the surrounding horticultural district who bring kiwifruit, citrus, avocados, feijoas, honey, olive oil, and a rotating cast of seasonal produce. The town sits in a subtropical microclimate that supports fruit and vegetables not commonly grown further south, and the market reflects this.

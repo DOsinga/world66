@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 44.4792
 longitude: -73.2122
 snippet: Four-block pedestrian mall at the heart of Burlington, lined with local shops and cafes
+score: 8.2
 ---
 
 Church Street Marketplace is a four-block pedestrian zone running from Pearl Street to Main Street in the centre of Burlington. The street is lined with a mix of independent restaurants, cafes, bookshops, and national chains, and hosts street performers, farmers markets, and outdoor events through the summer and autumn. In winter the brick street empties out somewhat but the shops and restaurants stay busy.

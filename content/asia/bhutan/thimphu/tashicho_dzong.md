@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Tashicho Dzong
 type: poi
+score: 7.9
 ---
 
 The principal dzong (fortress-monastery) of Thimphu and the seat of the Bhutanese government. Built in its current form in the 1960s, the whitewashed complex on the north bank of the Wang Chhu river houses the throne room, government ministries, and the summer quarters of 2,000 monks. The Je Khenpo, the spiritual head of Bhutanese Buddhism, resides here in summer. The dzong is open to visitors in the evenings and at weekends (modest dress required); the best views are from the outside.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.2960
 longitude: -57.4147
+score: 7.1
 ---
 
 For two weekends in late September and early October, Areguá hosts its annual Fiesta de la Frutilla — the strawberry festival that has become the town's biggest event. Stalls along Calle Estigarribia sell strawberries by the bowl, strawberry empanadas, strawberry liqueur, strawberry chipa.

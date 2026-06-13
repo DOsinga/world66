@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Colonnaded Street and Ruins
 type: poi
+score: 8.3
 ---
 
 The main colonnaded street runs east–west through the heart of ancient Gadara, flanked by the stumps and occasional standing columns that once formed covered walkways leading past temples, shops, and public buildings. The street leads to the remains of the **forum** — an open paved area where civic life centred — and further east to the **North Mausoleum**, which contains a white marble sarcophagus, somewhat incongruous among all the black basalt.

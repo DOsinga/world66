@@ -8,6 +8,7 @@ tags:
 latitude: 20.9986
 longitude: -156.6664
 snippet: "Sheltered crescent beach with excellent snorkelling — one of Maui's finest"
+score: 7.7
 ---
 
 Kapalua Beach is consistently rated among the best beaches in the United States. It is a sheltered crescent at the north end of the Kapalua resort area, calm enough for good snorkelling and protected from the heavy north swell that batters more exposed beaches in winter. Coral and reef fish are visible close to shore; sea turtles are a regular sighting.

@@ -14,6 +14,7 @@ story: >
   every faction in the Greek Civil War. The walls absorbed so much suffering that after 
   it finally closed, a Greek singer recorded a famous song about it — *Eptapyrgio* by 
   Vassilis Tsitsanis — that became an unofficial anthem of the city.
+score: 8.3
 ---
 
 Eptapyrgio — "Seven Towers" in Greek — is the fortified citadel at the highest point of Ano Poli, perched at the top of the Byzantine city walls that wrap around the upper town. The structure is a Byzantine-Ottoman palimpsest: the original towers were built in the 14th century and then extended and modified during the long Ottoman occupation. Most of it is now open to explore without paying.

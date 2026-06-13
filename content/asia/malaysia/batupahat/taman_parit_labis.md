@@ -18,6 +18,7 @@ story: >
   wetlands support one of the largest roosting colonies in Peninsular
   Malaysia — at dusk in season, dozens of the metre-high birds settle
   into the same fringe of rain trees along the canal.
+score: 7.6
 ---
 
 A semi-natural wetland on the eastern edge of Batu Pahat, fed by drainage canals through old rubber and palm-oil estates. The site is locally famous for its population of **Lesser Adjutant storks** — known in Malay as *burung botak* ("bald birds") for their naked, scabby heads. These are large, ungainly wading birds, around 1.2 metres tall, and Malaysia is one of the very few places in the world where they can reliably be seen.

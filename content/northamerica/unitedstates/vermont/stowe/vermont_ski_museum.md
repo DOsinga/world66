@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 44.4753
 longitude: -72.7022
+score: 6.9
 ---
 
 The Vermont Ski and Snowboard Museum occupies a historic building in Stowe village and covers the full history of skiing in Vermont from its beginnings in the 1930s to the present. The collection includes vintage equipment, historic photographs, and artifacts from the careers of Vermont-bred Olympic champions including Billy Kidd and Barbara Ann Cochran.

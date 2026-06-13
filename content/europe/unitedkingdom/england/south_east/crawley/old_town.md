@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_George_Hotel,_Crawley
   - https://en.wikipedia.org/wiki/Ancient_Priors
   - https://en.wikipedia.org/wiki/White_Hart_Inn,_Crawley
+score: 7.9
 ---
 
 Before Crawley was designated a New Town in 1947, it was a small market settlement on the London to Brighton road — and that original village survives almost intact as the Old Town, centred on the High Street. The scale here is entirely different from the postwar neighbourhoods that surround it: timber-framed buildings, a coaching inn that has been serving travellers since the Middle Ages, and a human street that predates the car.

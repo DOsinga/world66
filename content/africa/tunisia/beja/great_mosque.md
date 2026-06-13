@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Great Mosque of Béja sits in the heart of the old medina, a short walk below the kasbah. It dates in its present form to the Aghlabid period in the 9th century, although the site has been continuously used as a place of worship for longer — the mosque is built on the foundations of a Byzantine church, which itself replaced a Roman temple. The minaret is the most visible landmark of the old town.

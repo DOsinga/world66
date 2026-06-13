@@ -8,6 +8,7 @@ latitude: -33.087
 longitude: 151.461
 story: >
   The museum occupies Sunnyside, the home of the American Adventist missionary James White, who helped establish the Avondale settlement in 1895. White intended the Australian venture to be a model for the whole denomination — a school, a farm, and a health retreat all in one place, far from the temptations of the city.
+score: 7.2
 ---
 
 The Sunnyside Museum on Avondale Road holds the most interesting collection in town: artefacts from Pacific Islands missions, early printing equipment used to produce Adventist literature, and domestic objects from the settlement's founding years. It also has material on Cooranbong's Aboriginal history and the Awabakal people who lived on the lakeshore before European settlement.

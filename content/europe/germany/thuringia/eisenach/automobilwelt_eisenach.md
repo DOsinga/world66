@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.9770
 longitude: 10.3133
+score: 6.8
 ---
 
 A museum dedicated to Eisenach's long and surprising history as a centre of German car manufacturing. From the late 19th century through the end of the GDR, vehicles were built in Eisenach under a succession of different names — Wartburg, Dixi, BMW, EMW — and the museum traces this history with a well-preserved collection of cars spanning over a century.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 A small Carpenter Gothic Episcopal church built in 1888, with the original pine pews and stained-glass windows. The church sits in a quiet residential block south of the commercial district and remains an active parish.

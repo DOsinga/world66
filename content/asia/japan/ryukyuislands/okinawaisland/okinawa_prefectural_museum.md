@@ -8,6 +8,7 @@ latitude: 26.2273
 longitude: 127.6938
 story: >
   The permanent collection includes objects recovered from the Ryukyu Kingdom's role as a maritime trade hub between the 14th and 19th centuries: Chinese porcelain, lacquerware from Vietnam, pottery from Thailand, and weapons from Korea, all passing through Naha in a network that made the Ryukyus prosperous despite having no significant natural resources of their own.
+score: 8.0
 ---
 
 The Okinawa Prefectural Museum and Art Museum occupies a large building in Naha's Omoromachi district, opened in 2007, combining natural history, archaeology, and ethnography in the history wing alongside contemporary and traditional Ryukyuan art in the art galleries. It is the most comprehensive introduction to Okinawa available under one roof.

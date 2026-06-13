@@ -6,6 +6,7 @@ longitude: 27.2553
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The ferry to Samos leaves from Kuşadası's main port and crosses the Mycale Strait in about ninety minutes. It is one of the easier ways to hop between Turkey and Greece: two operators run daily services in summer, less frequently in shoulder season, and not at all on some days in winter.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The parador in Sos del Rey Católico is built around a late medieval structure and occupies one of the best positions in town, looking out over the valley. Even if you are not staying here, the parador is worth visiting for its bar — the building's stone interior, vaulted ceilings, and views make it one of the more atmospheric places in the region for a drink or lunch.

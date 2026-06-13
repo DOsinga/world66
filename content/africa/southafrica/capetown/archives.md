@@ -17,6 +17,7 @@ tags:
 - city_bowl
 title: Western Cape Archives and Records Service
 type: poi
+score: 6.9
 ---
 
 The Western Cape Archives and Records Service on Roeland Street holds one of the oldest and most significant colonial-era document collections in South Africa. Records go back to the Dutch East India Company period in the 17th century, including deeds of transfer, church records, census returns and photographs.

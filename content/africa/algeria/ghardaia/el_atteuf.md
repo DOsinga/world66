@@ -10,6 +10,7 @@ story: >
   El Atteuf, founded in 1012 AD, is the oldest of the five M'zab ksour and predates the others by a century. Its mosque, the Sidi Brahim, is one of the oldest in the Sahara and has a distinctive squat minaret topped with ostrich eggs — a traditional North African symbol believed to ward off evil.
 sources:
   - https://en.wikipedia.org/wiki/El_Atteuf
+score: 8.3
 ---
 
 El Atteuf, meaning "the turn" in Arabic, sits at the bend of the M'zab river where the valley turns north. Founded in 1012, it is the oldest of the five Mozabite cities and retains Saharan architecture at its most austere. The houses are more tightly packed than in Ghardaia, the streets narrower, and the whole town reads as a single organism — a defensive cluster of stone and plaster that has barely changed in a thousand years.

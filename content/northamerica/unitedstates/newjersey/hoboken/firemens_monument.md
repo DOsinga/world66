@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.7423
 longitude: -74.0328
+score: 6.3
 ---
 
 The Firemen's Monument in Church Square Park is an unusually elaborate 28-foot column topped by a bronze fireman, completed in 1891 by Caspar Buberl — the same sculptor responsible for the freize on Washington's National Building Museum. It is a serious piece of Gilded Age civic art for what was even then a small city.

@@ -9,6 +9,7 @@ snippet: Textbook risotto alla Milanese in a neighbourhood trattoria
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 A beloved neighbourhood trattoria in the Ticinese area, best known for two canonical Milanese dishes: Risotto alla Milanese (bone marrow and saffron risotto, served beside a braised ossobuco on Mondays) and Cotoletta Milanese (a butter-fried veal cutlet, bone-in, the size of a dinner plate). Both are done properly here — no shortcuts.

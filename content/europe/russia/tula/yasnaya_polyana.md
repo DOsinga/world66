@@ -14,6 +14,7 @@ story: >
   committee. He was born here in 1828, lived here for most of his life, wrote War and Peace and
   Anna Karenina in the main house, and was buried — at his own request and without religious rites
   — in a simple mound in the woods at the edge of the estate, marked by no headstone.
+score: 9.5
 ---
 
 Yasnaya Polyana — "Clear Glade" — is the estate where Leo Tolstoy was born, lived, and wrote. It lies about 10 kilometres south of Tula, set in parkland and birch forest that looks much as it did in the 19th century. The main house is preserved almost exactly as Tolstoy left it when he fled in 1910, days before his death: his writing desk, his bicycle, his walking boots are all still there.

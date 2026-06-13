@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 snippet: Jacobean mansion housing the county's social history collection and a regimental museum
+score: 6.9
 ---
 
 St John's House is a handsome Jacobean mansion just east of the town centre. It was built around 1626 on the site of a medieval hospital. The interior is now divided between a museum of Warwickshire social history and the regimental museum of the Royal Warwickshire Regiment — both small, well-presented, and free.

@@ -8,6 +8,7 @@ tags:
   - sight
   - memorial
 story: "The memorial lists 202 names from more than twenty countries. The largest single group was Australian — 88 dead, many of them young footballers on end-of-season tours — which is why Kuta's bombing remains a defining national memory in Australia, marked every 12 October."
+score: 6.7
 ---
 
 A stone wall set with a marble panel on Jalan Legian marks the site of the Sari Club, destroyed by car and suicide bombs on the night of 12 October 2002. The attack killed 202 people, most of them tourists, and changed Kuta — for years afterwards the street was quieter, security became visible everywhere, and the question of what kind of place Kuta wanted to be was openly debated.

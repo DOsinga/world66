@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.1550
 longitude: 121.6278
+score: 5.9
 ---
 
 The Taroko National Park Visitor Centre is at the park entrance, just west of Xincheng town. It has English-language displays covering the geology, ecology, and human history of the park — the marble formation, the river cutting, the Truku indigenous people who have lived in the valleys for centuries, and the building of the Cross-Island Highway. The exhibition is well-made and worth 30-45 minutes, especially before entering the gorge, to understand what you are looking at.

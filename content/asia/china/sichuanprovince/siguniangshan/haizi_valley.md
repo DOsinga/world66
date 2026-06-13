@@ -8,6 +8,7 @@ latitude: 31.0950
 longitude: 102.9100
 story: >
   Haizi means "lake" in local Tibetan-influenced usage (it also means small lake across much of western China), and the valley is named for the glacial tarns that dot the terrain between the forested lower valley and the bare rock above. The largest of them reflects the peaks behind Rilong town, and the reflection at dawn — before the wind comes up — is one of the park's best photographs.
+score: 7.4
 ---
 
 Haizi Valley is the shortest and least demanding of the three valleys, starting from a trailhead about two kilometres from Rilong town and climbing through forested terrain to a series of glacial lakes. The full circuit takes three to four hours at a moderate pace, making it the practical choice for those arriving in the afternoon or for visitors who want a genuine hike without committing to a full day in Shuangqiao or Changping.

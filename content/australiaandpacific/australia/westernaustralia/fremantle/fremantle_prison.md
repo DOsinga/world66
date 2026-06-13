@@ -16,6 +16,7 @@ story: >
   1964, and a series of well-documented escapes — particularly the 1876
   Catalpa rescue of Irish Fenians — turned it into legend long before it
   closed.
+score: 9.6
 ---
 
 Fremantle Prison is the only World Heritage building in Western Australia, and the most absorbing single sight in Fremantle. The complex covers six hectares behind a six-metre limestone wall — main cell block, chapel, hospital, gallows, women's prison, and a network of underground tunnels carved by convicts to bring water to the city above.

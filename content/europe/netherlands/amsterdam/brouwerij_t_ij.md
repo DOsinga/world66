@@ -6,6 +6,7 @@ longitude: 4.9263
 tags:
 - bars_and_cafes
 - oost
+score: 8.0
 ---
 
 A craft brewery housed in a former municipal bathhouse, right next to the De Gooyer windmill — one of the last remaining wooden windmills in Amsterdam. The combination of fresh beer and a 300-year-old windmill makes this one of the most atmospheric places to drink in the city.

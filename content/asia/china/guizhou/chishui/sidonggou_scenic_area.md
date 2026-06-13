@@ -8,6 +8,7 @@ latitude: 28.6170
 longitude: 105.6812
 story: >
   The Danxia red sandstone that defines the Sidonggou landscape formed from Cretaceous-era sediments deposited in a basin about 65 to 100 million years ago. The red colour comes from iron oxide in the rock — the same chemistry as rust — and the intensity varies with oxidation conditions that shifted over millions of years. The vertical cliff faces visible throughout the scenic area were created by uplift and erosion rather than by any single dramatic event; the plateau simply rose while the rivers cut downward.
+score: 8.4
 ---
 
 The Sidonggou Scenic Area is the most concentrated section of Chishui's Danxia geology, where red sandstone cliffs rise directly from the valley floor and waterfall systems cut down through the face of the plateau. The main walking circuit covers about 8 kilometres and takes half a day at a comfortable pace, passing the major waterfalls, river channels, and cliff viewpoints that represent the landscape at its most dramatic.

@@ -11,6 +11,7 @@ tags:
 - sight
 - museum
 story: "James Marshall picked up the first flake while inspecting the tailrace of John Sutter's half-built sawmill on the morning of 24 January 1848. He hid the find at first, but word leaked out within weeks; by the end of the year, the population of San Francisco had dropped from around 1,000 to 200 as every able-bodied man left for the gold fields."
+score: 9.3
 ---
 
 A 576-acre state park that fills most of the Coloma valley, preserving the site where the Gold Rush started. The main loop covers a working replica of [Sutter's Mill](/northamerica/unitedstates/california/goldcountry/coloma/sutters_mill), the discovery site on the river, the **Gold Discovery Museum** with original Marshall and Sutter artifacts, a Chinese store, a one-room schoolhouse and the [Marshall Monument](/northamerica/unitedstates/california/goldcountry/coloma/marshall_monument) on the hillside above town.

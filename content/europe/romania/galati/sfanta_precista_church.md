@@ -9,6 +9,7 @@ tags:
 title: Church of the Virgin Mary (Sfânta Precista)
 type: poi
 story: "Built in 1647 with thick stone walls, narrow windows and a crenellated bell tower, Sfânta Precista is one of the few surviving fortified churches in the lower Danube — Galați was a frontier town raided regularly by Ottomans and Tatars, and the church doubled as a refuge."
+score: 7.6
 ---
 
 Tucked between concrete blocks on Roșiori Street near the river, Sfânta Precista is the oldest surviving building in Galați. The fortified design — thick walls, slit windows, a bell tower that doubled as a watchtower — reflects the city's exposed position on the edge of the Ottoman empire in the 17th century.

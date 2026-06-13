@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Oban Distillery was founded in 1794, predating the town's own development — the distillery came first, and the town grew around it. It now sits hemmed in by the urban fabric on all sides with no room to expand, making it one of the smallest production sites of any major Scotch brand. The two copper pot stills that produce the whisky are visible through the window from the street.
+score: 7.8
 ---
 
 Oban Distillery sits in the middle of the town at the foot of the hill below McCaig's Tower, hemmed in by the surrounding buildings. It has operated on this site since 1794 — one of the oldest continuously functioning distilleries in Scotland — and produces what is classified as a Western Highland single malt: lightly peated, maritime, slightly sweet, and distinctly of this coast.

@@ -8,6 +8,7 @@ latitude: -38.0270
 longitude: -57.5320
 story: >
   Mar del Plata's port handles more fish than any other port in Argentina — around a third of the country's entire catch passes through it. The port processes hake, shrimp, and squid on an industrial scale, employing thousands of workers in the canning and freezing plants around the docks. In early morning, when the boats come in, the auction house alongside the main pier sells the night's catch in a noisy few hours that bears no relation to the resort quietude a kilometre up the coast.
+score: 8.0
 ---
 
 The fishing port is the most authentic part of Mar del Plata — a working commercial harbour that has been here since the 1880s and that keeps the city economically grounded in something beyond tourism. The main pier is lined with seafood restaurants serving the freshest fish in the city; the boats at the dock deliver directly and the kitchens turn it around fast.

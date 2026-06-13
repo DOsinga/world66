@@ -15,6 +15,7 @@ story: >
   coast in the 18th century. The altarpiece predates the building — it was
   brought from an older church on the same site — and shows the
   Resurrection in a folk-painted style.
+score: 6.5
 ---
 
 Flakstad Church sits in an open setting just outside Ramberg, the only timber church in Lofoten with an onion-shaped cupola. The 1780 building is painted red with white trim and white windows, in the standard idiom of north Norwegian churches, but the cupola is the giveaway: a hint of the long trade routes that once connected this coast to Archangel and the White Sea.

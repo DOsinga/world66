@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.479
 longitude: -0.382
+score: 7.0
 ---
 
 A loose self-guided gallery scattered across the streets of El Carme. The neighbourhood has, since the 1990s, been a permissive zone for urban art — Valencian artists like Escif, Deih, Hyuro, Julieta XLF, and the duo BlocoTresc have left walls, doorways, and entire facades painted in styles from photorealistic murals to stylised graffiti.

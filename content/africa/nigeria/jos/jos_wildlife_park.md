@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Drive-through wildlife reserve on the southern edge of the city"
 latitude: 9.8853
 longitude: 8.8486
+score: 6.4
 ---
 
 Jos Wildlife Park is a fenced wildlife reserve a short drive south of the city centre, one of the few places in Nigeria where you can see African wildlife in something approaching a natural setting. The animals — ostriches, baboons, monkeys, antelope, and a small number of larger residents including lions and elephants — are kept in large semi-natural enclosures rather than cages. The setting on the plateau, with rocky kopjes and savannah grass, is part of the appeal.

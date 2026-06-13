@@ -6,6 +6,7 @@ longitude: 24.2865
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 The Octagon is the foundation of the cathedral of Philippi — an octagonal church built in the 4th century and rebuilt and expanded twice over the following centuries. The plan is unusual and points east-west: an outer octagonal wall, an inner colonnade, and a central altar set under what would have been a high dome.

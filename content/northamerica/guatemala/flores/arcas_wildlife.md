@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.3
 ---
 
 The Peten branch of Guatemala's Wildlife Rescue and Conservation Association sits on the north shore of Lake Peten Itza, accessible by boat from Flores. ARCAS receives spider monkeys, parrots, macaws, jaguars, and other animals confiscated from the wildlife trade and rehabilitates them for release back into the surrounding jungle.

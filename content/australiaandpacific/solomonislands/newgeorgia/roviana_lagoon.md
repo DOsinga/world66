@@ -9,6 +9,7 @@ latitude: -8.40
 longitude: 157.20
 sources:
   - https://en.wikipedia.org/wiki/New_Georgia_Islands
+score: 8.8
 ---
 
 Roviana Lagoon stretches along the southern shore of New Georgia, a sheltered expanse of turquoise water enclosed by barrier reefs and small islands. It is one of the most culturally significant lagoons in the Solomon Islands — the Roviana people were historically among the most powerful in the western Solomons, known for seafaring, trade, and, in earlier centuries, headhunting raids that extended as far as the Shortland Islands.

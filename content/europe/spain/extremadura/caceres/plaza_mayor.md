@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.4732
 longitude: -6.3726
+score: 7.8
 ---
 
 The Plaza Mayor is the social centre of Cáceres, a large arcaded square at the foot of the old town walls where the cafes and bars fill their terraces every evening from spring through autumn. It is not the most beautiful plaza in Spain — the mix of centuries and building heights is a little unresolved — but it is one of the most alive, with the Torre del Bujaco anchoring one corner and the arched gate into the Ciudad Monumental directly behind it.

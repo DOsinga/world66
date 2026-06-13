@@ -12,6 +12,7 @@ tags:
 - lincoln_park
 title: North Avenue Beach
 type: poi
+score: 6.9
 ---
 
 The most popular beach in Chicago and a summer institution. The beach house is shaped like an ocean liner and houses Castaways, a lively bar and grill. In season, you will find volleyball tournaments, an outdoor gym, a rollerblade rink, and easy access to the lakefront bike path. The views of the skyline from the water's edge are outstanding.

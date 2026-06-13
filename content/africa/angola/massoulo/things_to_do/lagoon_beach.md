@@ -1,6 +1,7 @@
 ---
 title: "Lagoon Beach"
 type: poi
+score: 7.2
 ---
 
 The lagoon-facing shore of Mussulo is the social heart of the island. The water here is sheltered from the Atlantic swell, warm year-round, and shallow enough for comfortable wading and swimming. A string of informal beach bars and restaurant shacks lines the sand, serving fresh grilled fish, prawns, and cold Cuca beer — the Angolan national lager. On weekends tables fill quickly, and the atmosphere is lively.

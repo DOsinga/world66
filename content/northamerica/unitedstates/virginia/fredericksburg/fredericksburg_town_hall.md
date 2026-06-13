@@ -9,6 +9,7 @@ latitude: 38.3031
 longitude: -77.4603
 sources:
   - https://en.wikipedia.org/wiki/Fredericksburg_Town_Hall_and_Market_Square
+score: 7.9
 ---
 
 Caroline Street is the main axis of Fredericksburg's historic downtown, running north-south through several blocks of Federal and Georgian commercial buildings dating from the late 18th and early 19th centuries. The stretch between William Street and Hanover Street is exceptionally intact — two- and three-story brick buildings with original storefronts, now occupied by restaurants, coffee shops, antique dealers, and independent boutiques.

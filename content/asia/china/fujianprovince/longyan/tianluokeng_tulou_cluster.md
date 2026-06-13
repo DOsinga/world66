@@ -15,6 +15,7 @@ story: >
   Chinese stamps and in every major photographic survey of the region. The
   viewpoint above the cluster, reached by a short steep path, gives the full
   composition in one glance.
+score: 4.4
 ---
 
 The Tianluokeng cluster in Nanjing County is arguably the most photographed tulou grouping: four circular earthen buildings arranged around one square one in a natural hollow, visible from a hillside viewpoint that frames the entire compound against terraced fields. The arrangement has an accidental visual perfection that was entirely unplanned — each tulou was built at a different time over several generations, and the symmetry emerged from the constraints of the site rather than from design.

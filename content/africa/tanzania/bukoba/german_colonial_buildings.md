@@ -15,6 +15,7 @@ story: >
   welcomed in London at a time when much else was going wrong. The German garrison
   held the position for three years more, but the wireless tower — which had been
   relaying signals across German East Africa — was never rebuilt.
+score: 6.6
 ---
 
 Bukoba was a colonial administrative centre for German East Africa from the 1890s, and a handful of buildings from that era survive near the lakeshore. The most visible are the old boma (administrative fort) and related structures close to the Lake Hotel — solid, functional German colonial architecture built to project permanence in a place that the Kaiser's government intended to keep. The scale is modest compared to Mwanza or Dar es Salaam, but the buildings are well-preserved and the lakeside setting makes them worth seeking out.

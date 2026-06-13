@@ -14,6 +14,7 @@ story: >
   religious life.
 sources:
   - https://en.wikipedia.org/wiki/Sokoto_Central_Mosque
+score: 6.8
 ---
 
 Sokoto Central Mosque is the city's principal Friday mosque and one of the key religious buildings associated with the caliphate. It has changed over time, moving from older Sudano-Sahelian forms toward a more modern mosque profile, but its status matters more than its silhouette.

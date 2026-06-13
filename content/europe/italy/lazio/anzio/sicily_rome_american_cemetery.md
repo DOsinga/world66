@@ -8,6 +8,7 @@ latitude: 41.4653
 longitude: 12.6583
 sources:
   - https://en.wikipedia.org/wiki/Sicily%E2%80%93Rome_American_Cemetery_and_Memorial
+score: 8.8
 ---
 
 Located in Nettuno, immediately adjacent to Anzio, the Sicily–Rome American Cemetery is the largest American military cemetery in Italy and one of the most impressive in Europe. Nearly 8,000 Americans are buried here, including soldiers who died in Sicily and at Anzio. The Star of David and the Latin cross alternate among the marble headstones, and a Wall of the Missing records thousands more whose remains were never found.

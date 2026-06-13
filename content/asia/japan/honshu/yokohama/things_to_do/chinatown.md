@@ -1,6 +1,7 @@
 ---
 title: "Chinatown (Chukagai)"
 type: poi
+score: 8.2
 ---
 
 Yokohama's Chinatown — known in Japanese as Chukagai — is the largest in Japan and one of the biggest in the world, with more than 600 restaurants and shops packed into a dense grid of colourful streets. The community dates to the mid-nineteenth century, when Chinese merchants settled near the newly opened port, and it has been a fixture of the city's identity ever since. The main gate, Zenrinkoku-mon, is an unmistakeable landmark draped in red and gold.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8800
 longitude: 125.3150
+score: 5.8
 ---
 
 The Ancient Cultural Street near the city centre is a pedestrian commercial street styled in traditional northern Chinese architectural forms — a common formula in Chinese cities that has been applied here with reasonable success. The street has antique dealers, art stalls, traditional crafts shops, teahouses, and restaurants in a setting designed to evoke the pre-modern commercial streets of Chinese cities.

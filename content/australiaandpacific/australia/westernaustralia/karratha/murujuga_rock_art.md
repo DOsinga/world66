@@ -10,6 +10,7 @@ tags:
   - wildlife
 story: >
   Some of the Murujuga petroglyphs are estimated to be 40,000–50,000 years old, which would make them among the oldest surviving examples of human visual art anywhere on earth. The engravings include faces — oval or round, with eyes and mouths — that some researchers believe represent Homo sapiens faces at a time when the coast looked very different and the Pilbara extended further into what is now the sea.
+score: 9.7
 ---
 
 The Murujuga National Park on the Burrup Peninsula, about 18 kilometres from Karratha, contains one of the world's most significant and extensive collections of Aboriginal rock art. Estimates put the number of individual petroglyphs at over one million — engraved into the reddish Pilbara rocks over a period of tens of thousands of years by the Ngarluma and Yaburara people. The site was added to the UNESCO World Heritage List in 2023.

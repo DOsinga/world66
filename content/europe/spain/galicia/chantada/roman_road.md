@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5950
 longitude: -7.7600
+score: 7.5
 ---
 
 A stretch of the old Roman road linking Lucus Augusti (modern Lugo) with Bracara Augusta survives between Chantada and Monforte de Lemos. The best-preserved sections run through Lincora and over a bridge that disappears under the waters of the [Embalse de Belesar](/europe/spain/galicia/chantada/embalse_de_belesar) depending on the season — when the reservoir is low you can walk most of the way; when it's high, the route is broken by the lake.

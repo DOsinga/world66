@@ -6,6 +6,7 @@ longitude: 26.8500
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 Four tavernas share the small square at Vourliotes under enormous plane trees, and they are all reliable; the one on the south side, To Iliovasilema, has slightly the best home cooking — slow-baked goat stifado, briam (a roasted-vegetable casserole), fresh-pressed olive oil from the village. The owners speak some English and German.

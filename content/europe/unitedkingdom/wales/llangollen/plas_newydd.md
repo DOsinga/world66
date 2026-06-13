@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Plas_Newydd,_Llangollen
 story: >
   The "Ladies of Llangollen" — Lady Eleanor Butler and Miss Sarah Ponsonby — ran away together from Ireland in 1778 and eventually settled at Plas Newydd, which they decorated in extravagant Gothic style over 50 years. They became famous enough to attract visitors including the Duke of Wellington, William Wordsworth, and Sir Walter Scott. Their relationship was described as a devoted friendship, but most modern historians interpret it as one of the earliest recorded lesbian partnerships.
+score: 7.8
 ---
 
 Plas Newydd is the black-and-white timber-framed cottage at the edge of Llangollen that was home to the "Ladies of Llangollen" for over 50 years from the 1780s. Lady Eleanor Butler and Miss Sarah Ponsonby created an eccentric Gothic interior filled with carved oak panelling, stained glass, and curiosities sent by admirers from across Europe. The house became a place of pilgrimage for writers, artists, and aristocrats who found the Ladies' arrangement romantically appealing.

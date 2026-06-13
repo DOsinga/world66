@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Puerta de Palmas
 type: poi
+score: 7.3
 ---
 
 A monumental gateway flanked by two round crenellated towers, built in 1551 to serve as the main entrance to the city for travellers arriving from Portugal. It faces the Puente de Palmas, a 15th-century stone bridge with 32 arches spanning the Guadiana, which together formed Badajoz's principal Atlantic-facing front. The gateway carries the carved coats of arms of the Habsburg monarchy and the city, framed by Renaissance pilasters.

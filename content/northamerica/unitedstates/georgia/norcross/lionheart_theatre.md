@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 33.9408
 longitude: -84.2138
+score: 6.5
 ---
 
 Lionheart Theatre Company is a community theatre based in Norcross's historic downtown that has earned a reputation considerably above the usual local theatre standard. The company produces a full season of plays each year — musicals, dramas, comedies — using a mix of professional directors and locally talented performers. The space is intimate and the productions consistently achieve a level of craft that rivals professional regional theatre.

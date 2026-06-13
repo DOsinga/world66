@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.5953
 longitude: 12.9625
+score: 8.5
 ---
 
 St Bartholomä is a Baroque pilgrimage church on a small peninsula halfway down the Königssee, reachable only by boat. The building's distinctive red onion domes against a backdrop of sheer cliff and dark water is one of the most reproduced images in Bavarian tourism — and the reality lives up to the photograph. The peninsula was once the site of a Augustinian priory; the current church dates from around 1697.

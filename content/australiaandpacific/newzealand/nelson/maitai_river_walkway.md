@@ -7,6 +7,7 @@ tags:
   - walking
 latitude: -41.2667
 longitude: 173.2833
+score: 6.6
 ---
 
 The Maitai is Nelson's town river, and the walkway alongside it is the place locals run, ride, and walk the dog. It starts in the centre of town near Trafalgar Bridge and follows the river back through suburban Nelson and into the Maitai Valley behind it. You can do as little as a 20-minute riverside loop or pick up a longer trail into the forest.

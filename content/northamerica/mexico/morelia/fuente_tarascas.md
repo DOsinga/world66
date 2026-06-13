@@ -15,6 +15,7 @@ story: >
   subject of controversy — some found the three women immodestly dressed — and
   the fountain was briefly removed before being reinstated after public protest.
   It remains the most photographed monument along the aqueduct.
+score: 6.8
 ---
 
 The Fuente de las Tarascas marks the western end of the aqueduct, where the water once arrived before being distributed through the city. The fountain features three larger-than-life bronze figures of Purepecha women holding aloft a platter of fruit — a symbol both of the indigenous heritage of Michoacan and of the agricultural abundance of the state. The square around it is one of the liveliest spots on the Calzada in the evenings.

@@ -6,6 +6,7 @@ latitude: 10.4481
 longitude: -84.6683
 story: >
   The waterfall sits within the Arenal Volcano National Park and is fed by the Río Fortuna, which drains the eastern flank of the volcano. The swimming hole at the base is one of the most photographed spots in Costa Rica — the combination of the 70-metre drop, the surrounding rainforest, and the clear green water makes it genuinely spectacular. The downside is that it's no secret: tour buses begin arriving by 9am.
+score: 8.6
 ---
 
 La Fortuna Waterfall is a 70-metre cascade that drops into a clear emerald swimming hole surrounded by jungle. The hike down from the entrance is short but steep — about 500 steps each way — and the climb back out in the heat is strenuous. Go early, before the tour groups arrive, and you may have the pool to yourself for twenty minutes of cold, clear, spectacular swimming.

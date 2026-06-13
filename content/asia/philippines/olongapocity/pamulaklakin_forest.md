@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "Pamulaklakin is run by the indigenous Aeta — the same people who tracked jungle for the US Navy SEALs at the Subic survival school. The trails were the actual training ground where SEAL teams learned to live off the rainforest before deploying to Vietnam."
+score: 7.8
 ---
 
 Pamulaklakin Forest Park is the surviving piece of the US Navy's jungle survival school, now run by the Aeta indigenous community who guide visitors on the trails their ancestors used. The half-day jungle tour covers traditional plant uses (medicinal herbs, fish poisons, edible roots) and demonstrations of fire-starting with bamboo and tree-bark cord-making.

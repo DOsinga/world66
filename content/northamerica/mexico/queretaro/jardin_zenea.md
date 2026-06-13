@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.5916
 longitude: -100.3929
+score: 6.4
 ---
 
 The Jardín Zenea is the main public garden of Querétaro's historic centre — a leafy square lined with benches, a bandstand in the middle, and the Church of San Francisco on the north side. It functions as the living room of the city: vendors sell elotes and paletas from carts, couples sit on the benches, elderly men play chess at stone tables, and on Sunday afternoons the municipal band plays concerts from the kiosk.

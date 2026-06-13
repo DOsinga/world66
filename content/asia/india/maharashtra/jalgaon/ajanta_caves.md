@@ -11,6 +11,7 @@ story: >
   The caves were entirely unknown to the outside world until 1819, when a British officer named John Smith, on a tiger hunt, noticed cave 10 from across the gorge. He scrambled down and inscribed his name and the date on the wall — the graffiti is still visible today. The monks who carved and painted the caves had abandoned them around the 7th century CE, and the jungle had swallowed the entrance completely.
 sources:
   - https://en.wikipedia.org/wiki/Ajanta_Caves
+score: 9.8
 ---
 
 The Ajanta Caves are among the finest artistic achievements of the ancient world — 30 rock-cut Buddhist sanctuaries carved into a dramatic horseshoe-shaped gorge of the Waghora River, about 60 km northeast of Jalgaon. The caves contain some of the best-preserved examples of early Indian painting anywhere, depicting the life of the Buddha and the Jataka tales across walls and ceilings that still retain extraordinary colour and expressive power after more than 1,500 years.

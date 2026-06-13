@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 13th-century stone bridge over the Lahn at the edge of the Altstadt
+score: 8.1
 ---
 
 The Old Lahn Bridge is one of the oldest standing stone bridges in Hesse — its core arches date to the 13th century and have carried traffic ever since, with rebuildings after war damage and the usual repairs. The seven arches span the Lahn at the narrowest point below the cathedral.

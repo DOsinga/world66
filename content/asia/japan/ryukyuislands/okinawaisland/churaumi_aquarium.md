@@ -9,6 +9,7 @@ latitude: 26.6944
 longitude: 127.8779
 story: >
   The Kuroshio Tank, opened in 2002, was the largest aquarium tank in the world at the time and remains one of the biggest. Its acrylic viewing panel — 8.2 metres tall and 22.5 metres wide — is thick enough to withstand the pressure of 7,500 cubic metres of seawater and three whale sharks gliding unhurriedly overhead.
+score: 9.3
 ---
 
 The Churaumi Aquarium sits within Ocean Expo Park on the Motobu Peninsula in northern Okinawa, overlooking Nakijin Bay. It is one of the largest aquariums on earth and genuinely earns its reputation. The centrepiece is the vast Kuroshio Tank, where whale sharks share space with manta rays and hundreds of other species in a volume of water large enough to feel oceanic. The acrylic viewing panel is large enough to sit beside for an extended period without seeing the same fish twice.

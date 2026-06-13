@@ -15,6 +15,7 @@ story: >
   tree, introduced to the Caribbean from the Pacific specifically to feed enslaved
   workers cheaply, was first established on Martinique at a garden near here
   before spreading throughout the region.
+score: 7.4
 ---
 
 The Botanical Gardens at Anse Latouche, just north of Le Carbet, are set among the ruined stone walls of a 17th-century sugar plantation. The collection focuses on tropical and Caribbean species — ornamental gingers, heliconias, bromeliads, tree ferns, and the enormous Victoria amazonica lily pads in the ponds — displayed against a backdrop of jungle-covered hillside.

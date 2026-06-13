@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0655
 longitude: -80.7244
+score: 6.4
 ---
 
 A reclaimed stretch of riverfront south of the main downtown, Heritage Port occupies what was once a working industrial wharf on the Ohio River. It's now a public park and outdoor venue — a grassy amphitheater hosts concerts and community events through the warmer months, and the walking path along the river offers good views upstream toward the suspension bridge and downtown.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - nature
 snippet: Bare serpentine outcrop with rare plants found almost nowhere else in Britain
+score: 7.8
 ---
 
 The Keen of Hamar is a 50-hectare hilltop of bare, rust-coloured serpentine rock that looks almost lunar. The mineral composition makes the soil toxic to most plants, but a handful of rare specialist species thrive here — including the Edmondston's chickweed, a small white-flowered plant found in only a few sites on Unst and nowhere else in the world. Mountain everlasting, Norwegian sandwort, and stone bramble are among the other notable finds.

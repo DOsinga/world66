@@ -7,6 +7,7 @@ tags:
 latitude: 32.3646
 longitude: -89.4742
 snippet: 23-mile multi-use trail through Bienville National Forest, open to horses and hikers
+score: 7.4
 ---
 
 The Shockaloe Horse Trail winds 23 miles through the heart of Bienville National Forest, accessible from a trailhead off Highway 80 east of Forest. Designed primarily for equestrian use, the trail is equally popular with hikers who want a substantial route through genuine backcountry forest — longleaf and loblolly pine, hardwood creek bottoms, and bottomland forest along several stream crossings.

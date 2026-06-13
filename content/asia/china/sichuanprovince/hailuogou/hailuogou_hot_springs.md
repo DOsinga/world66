@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.6200
 longitude: 102.0600
+score: 6.8
 ---
 
 The geothermal springs within Hailuogou Park are a genuine asset — not the packaged resort experience that the term "hot spring" sometimes implies in China, but actual thermal pools sitting in a mountain valley with a reasonable view of the surrounding forest and peaks. The water temperature varies by pool, and the cooler pools are more comfortable for extended soaking. The springs are included in the park entrance fee or available for a modest additional charge at the specific facilities near Camp Three.

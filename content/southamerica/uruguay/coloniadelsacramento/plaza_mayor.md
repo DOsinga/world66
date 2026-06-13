@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.4722
 longitude: -57.8533
+score: 8.2
 ---
 
 The Plaza Mayor — officially the Plaza Mayor de Mayo — is the central square of the Barrio Histórico and the logical hub for exploring the old quarter. It is a small, shaded square surrounded by some of the most historic structures in Colonia: the ruins of the San Francisco convent to one side, the lighthouse visible above the rooftops, and a cluster of small colonial-era museums around the perimeter.

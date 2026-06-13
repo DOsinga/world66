@@ -1,6 +1,7 @@
 ---
 title: "Purling Brook Falls"
 type: poi
+score: 8.4
 ---
 
 At 109 metres, Purling Brook Falls is one of the tallest and most spectacular waterfalls in Queensland. The water drops in a single curtain off the plateau edge into a deep rainforest pool, and in wet conditions the roar is audible from the car park. A short track leads to the top lookout, where you can peer over the lip and watch the water vanish into the gorge below.

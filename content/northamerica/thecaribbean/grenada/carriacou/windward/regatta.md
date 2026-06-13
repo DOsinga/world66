@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - festival
 story: "The Carriacou Regatta dates from 1965 and was conceived partly as a way to keep the boatbuilding tradition alive. It now draws sloops not just from Carriacou and Petite Martinique but also from Grenada, Bequia, and as far north as Anguilla — the largest gathering of working Caribbean wooden boats anywhere."
+score: 8.5
 ---
 
 For four days in late July or early August the whole island shifts gear. The Carriacou Regatta brings every locally built sloop and schooner into the channels around Windward and Hillsborough for a week of racing, drinking, and street parties. Boats are scrubbed and repainted, crews are mustered, and the rum flows from morning onwards.

@@ -7,6 +7,7 @@ tags:
 latitude: 38.9081
 longitude: -77.4322
 snippet: "An 18th-century plantation house built by Richard Bland Lee, Virginia's first congressman from Northern Virginia, now a county-run historic site."
+score: 6.8
 ---
 
 Sully was built in 1794 by Richard Bland Lee and is one of the few surviving Federal-period plantation houses in Fairfax County. The main house is a modest, well-proportioned frame structure; the grounds include a smokehouse, a stone dairy, and slave quarters that the site interprets as part of the broader history of the plantation. Fairfax County operates the site and offers guided tours of the interior.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.73222
 longitude: -111.83333
+score: 7.8
 ---
 
 The Logan Tabernacle is a large LDS meeting hall in downtown Logan, built between 1865 and 1891 in a Romanesque Revival style with a distinctive octagonal central tower. The building served as the main community gathering place for the Cache Valley's Mormon settlers and continues to host concerts, community events, and church meetings.

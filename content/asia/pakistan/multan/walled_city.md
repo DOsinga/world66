@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.1955
 longitude: 71.4718
+score: 8.9
 ---
 
 The **walled city** of Multan is the dense, low-rise old town that wraps around the fort mound — a couple of square kilometres of narrow lanes, courtyard houses, mosques, shrines, brass workshops, sweet shops and bazaars. It was originally entered through six great gates: **Bohar**, **Pak**, **Haram**, **Delhi**, **Lohari** and Daulat (now vanished). The defensive walls themselves are largely gone, but the gates survive as oddly stranded brick portals on the modern ring road.

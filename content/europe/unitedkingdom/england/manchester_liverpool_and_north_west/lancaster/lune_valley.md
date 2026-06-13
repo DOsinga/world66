@@ -11,6 +11,7 @@ longitude: -2.7950
 snippet: Scenic river valley for cycling and walking, from Lancaster to the fells
 sources:
   - https://en.wikipedia.org/wiki/River_Lune
+score: 6.7
 ---
 
 The River Lune runs through Lancaster and into Morecambe Bay, and the valley upstream of the city is excellent cycling and walking country. The Lune Cycleway follows the river from Lancaster inland through farmland and woodland toward Kirkby Lonsdale, roughly 14 miles away — a manageable day ride on a flat-to-gentle route with good scenery throughout.

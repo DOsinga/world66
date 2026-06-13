@@ -8,6 +8,7 @@ tags:
   - sight
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 7.4
 ---
 
 The longest stretch of sand on the island and the furthest you can drive on the peninsula. The beach curves for two miles along a wide sheltered bay facing south, with the volcanic cone of Nevis Peak filling the view across the channel — one of the best beach panoramas in the Caribbean.

@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Caracol
 type: poi
+score: 5.2
 ---
 
 A small public beach at Punta Cancun, where the Hotel Zone bends from facing north to facing east. The water is sheltered, calm, and good for swimming or kayaking — there are usually rental operators along the sand. The location is unbeatable for a few hours' beach time without committing to the full Delfines or Tortugas expedition: it is a five-minute walk from the Forum mall and most of the Punta Cancun nightlife.

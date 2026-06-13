@@ -15,6 +15,7 @@ story: >
   attackers. When Shu Han was finally overthrown in 263 CE, it was not by a frontal
   assault through the pass but by a flanking movement through country considered
   impassable — a military stratagem that the pass's defenders never anticipated.
+score: 8.8
 ---
 
 Jianmen Pass is the centrepiece of the park: a narrow defile between two limestone cliffs so sheer and close together that the sky above narrows to a strip. The pass controlled the only practical route between the Sichuan basin and the north for two thousand years, and every army that needed to enter or leave Sichuan by land had to come through here. The fortifications, repeatedly built and destroyed over the centuries, have been reconstructed in a style that is theatrical but gives an adequate sense of the defensive possibilities.

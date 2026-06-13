@@ -9,6 +9,7 @@ snippet: "Twin glass skyscrapers at the harbour edge — Poland's tallest reside
 address: "Hryniewickiego 6"
 latitude: 54.5217
 longitude: 18.5489
+score: 7.0
 ---
 
 The Sea Towers, completed in 2009 to a design by the Polish firm APA Wojciechowski, are the city's most visible modern building — twin glass towers (143 and 124 metres) on the harbour edge, holding apartments, offices, and a public observation deck on the 35th floor.

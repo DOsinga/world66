@@ -7,6 +7,7 @@ tags:
 latitude: 48.4312
 longitude: -123.4486
 snippet: BC's oldest lighthouse on a causeway at Esquimalt Harbour, still operating
+score: 7.1
 ---
 
 Built in 1860, the Fisgard Lighthouse is the oldest lighthouse on Canada's west coast — a whitewashed brick tower with a red lantern room, sitting at the end of a stone causeway across Esquimalt Harbour. It was automated in 1928 and still operates; the attached keeper's house has been converted into a small museum telling the story of lighthouse life and the maritime history of the harbour entrance.

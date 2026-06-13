@@ -6,6 +6,7 @@ longitude: 19.6914
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 Kossuth Square (Kossuth tér) is the open, pedestrianised heart of Kecskemét, and one of the finest small-city squares in Hungary. It is dominated by the City Hall on one side and the Great Church on the other, with the Calvinist Church and the smaller St Nicholas Church (the oldest building in town, 14th century) lined up at one end.

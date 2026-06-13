@@ -9,6 +9,7 @@ longitude: 45.9240
 snippet: Eighteenth-century mosque with surviving original stonework
 sources:
   - https://en.wikipedia.org/wiki/Ordubad
+score: 7.1
 ---
 
 The Saatabad Mosque is one of three seventeenth and eighteenth-century mosques that have survived in Ordubad, all protected as state heritage sites. Its name — "the place of watches" — likely refers to the nearby presence of craftsmen or merchants, and points to the town's former role as a trading centre on the route between Persia and the Caucasus.

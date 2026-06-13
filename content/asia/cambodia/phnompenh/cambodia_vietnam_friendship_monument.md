@@ -7,6 +7,7 @@ tags:
 title: Cambodia–Vietnam Friendship Monument
 type: poi
 snippet: Concrete monument to the often-fraught Vietnamese alliance
+score: 7.1
 ---
 
 A heavy concrete column in Wat Botum Park topped with a stylised group of Vietnamese and Cambodian soldiers and civilians. It was erected in 1979 to commemorate the Vietnamese invasion that toppled the Khmer Rouge regime — an event Cambodians view through wildly conflicting lenses, depending on politics and family history.

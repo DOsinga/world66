@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Main Street Historic District
 type: poi
+score: 8.0
 ---
 
 Main Street runs uphill from the Connecticut River through the heart of Middletown, and for most of its length it is lined with 19th-century brick commercial buildings that give it a proper urban scale. The street is longer and wider than most New England main streets — Middletown was once a significant port city and the infrastructure reflects ambitions from that era.

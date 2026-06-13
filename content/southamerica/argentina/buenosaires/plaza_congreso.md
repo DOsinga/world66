@@ -10,6 +10,7 @@ latitude: -34.6097
 longitude: -58.3900
 story: >
   The Rodin sculpture in front of the Congress — "The Thinker" — is a cast made in Paris and given to Argentina in 1907. During political demonstrations, which are frequent in this square, it has been climbed, spray-painted, and occasionally lit on fire. It remains in reasonable condition.
+score: 6.9
 ---
 
 The broad plaza facing Argentina's national legislature is the political counterpoint to Plaza de Mayo — less ceremonial, more combative. Demonstrations, strikes, and marches have been staged here for over a century, and the open space allows crowds of considerable size to assemble.

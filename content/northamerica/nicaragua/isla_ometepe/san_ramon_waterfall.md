@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
   - hiking
+score: 7.8
 ---
 
 A 40-metre waterfall pouring down the southern flank of Volcán Maderas, reached by a steep three-kilometre hike from the village of San Ramón. The walk takes about an hour and a half each way and climbs steadily through farmland and then forest. The fall itself is at its most dramatic in the wet season; in the dry months it can be reduced to a thin streak down the rock face.

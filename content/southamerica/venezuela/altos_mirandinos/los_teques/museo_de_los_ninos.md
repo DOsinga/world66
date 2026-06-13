@@ -6,6 +6,7 @@ longitude: -67.0456
 tags:
   - things_to_do
   - museum
+score: 5.4
 ---
 
 Los Teques has a branch of Venezuela's popular children's museum chain (Museo de los Niños), with interactive science and technology exhibits aimed at young visitors. It's a reasonable stop if you're travelling with children and the weather turns bad.

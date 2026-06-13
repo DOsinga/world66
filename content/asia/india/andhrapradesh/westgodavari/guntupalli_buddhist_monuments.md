@@ -9,6 +9,7 @@ latitude: 17.0189
 longitude: 81.1306
 story: >
   The Guntupalli site dates to the 3rd century BCE — contemporary with the earliest Buddhist monuments at Sanchi and Amaravati. The rock-cut circular chaitya hall here is believed to be one of the oldest such structures in India, predating the more famous cave temples of Ajanta by several centuries. The site was discovered by archaeologists in the 19th century and has been excavated intermittently since.
+score: 8.7
 ---
 
 The Guntupalli Buddhist monuments, near Kamavarapukota in what is now Eluru district (formerly West Godavari), are among the least visited but most significant Buddhist sites in Andhra Pradesh. The complex includes a remarkable circular chaitya (prayer hall) cut from solid rock, stupas, and the remains of monastic cells arranged on a hillside above the Krishna River valley.

@@ -11,6 +11,7 @@ story: >
   on administering the oath himself, a humiliation the king never forgave.
   Historians debate the details, but Alfonso's subsequent treatment of El Cid —
   twice exiling him — suggests the grudge was real.
+score: 6.7
 ---
 
 The small church of Santa Gadea (Santa Águeda) on Calle Fernán González is one of Burgos's oldest, with a Romanesque core dating to the eleventh century. It has been rebuilt several times but retains its character as a neighbourhood parish church rather than a tourist sight, which means you can often visit in peace.

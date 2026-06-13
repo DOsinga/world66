@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Small park museum on the Mormon settlement and the Anasazi predecessors
+score: 6.8
 ---
 
 A small but well-presented museum at the second shuttle stop inside the park, focused on human history rather than geology. Exhibits cover the Ancestral Puebloan and Southern Paiute peoples who lived in and around the canyon for centuries before European contact; the Mormon settlement of the 1860s under Isaac Behunin; and the establishment of the national monument in 1909 and the national park in 1919.

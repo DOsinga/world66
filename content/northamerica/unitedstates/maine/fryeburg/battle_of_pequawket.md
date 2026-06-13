@@ -9,6 +9,7 @@ longitude: -70.936
 snippet: Site of the 1725 battle known as Lovewell's Fight, a pivotal skirmish of Dummer's War between English colonists and the Pigwacket Abenaki.
 story: >
   In May 1725, a company of English colonists led by Captain John Lovewell ambushed a Pigwacket Abenaki camp near what is now Fryeburg. The battle that followed was costly on both sides -- Lovewell and several of his men were killed, as was the Abenaki leader Paugus. It was one of the last major engagements of Dummer's War, and it effectively ended the Pigwacket presence in the region.
+score: 7.1
 ---
 
 The battle site is near the shores of Lovewell Pond, east of the village center. A granite monument marks the approximate location of the fight. The area is quiet now -- mostly woods and shoreline -- and the monument sees few visitors, which gives it an undisturbed quality appropriate to what happened there.

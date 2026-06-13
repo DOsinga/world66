@@ -9,6 +9,7 @@ tags:
 latitude: 35.93101
 longitude: -115.04404
 snippet: "Volcanic peak overlooking Henderson, with a long view of the valley"
+score: 7.2
 ---
 
 Black Mountain is the dark volcanic peak that closes the south end of the Las Vegas Valley above Henderson — visible from much of the city and from almost the whole conservation area. It is not formally inside Sloan Canyon NCA but rises immediately to the north of it, and the standard approach is via desert roads on the Henderson side rather than from the canyon trailhead.

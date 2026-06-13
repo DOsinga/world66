@@ -6,6 +6,7 @@ longitude: 18.1755
 tags:
   - eating_out
   - restaurant
+score: 4.8
 ---
 
 A tourist-leaning restaurant near the foot of Visočica hill, with a terrace looking up at the so-called pyramid. The menu is standard Bosnian — grilled meats, japrak, bean stew, trout from the Bosna — but the kitchen is more competent than the location would suggest.

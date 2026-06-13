@@ -15,6 +15,7 @@ story: >
   conscription, use Swedish as their sole official language, and have their own parliament,
   flag, stamps, and radio station. The museum explains this unusual constitutional
   arrangement in detail that rewards patience.
+score: 8.0
 ---
 
 The Åland Museum covers the islands' history from prehistory to the present, with particular attention to the political events of 1917–1921 that resulted in Åland's current autonomous status within Finland. The story is genuinely interesting: the islanders voted for reunification with Sweden after Finnish independence, the League of Nations ruled against them, and the resulting compromise created a unique constitutional entity that has survived for over a century.

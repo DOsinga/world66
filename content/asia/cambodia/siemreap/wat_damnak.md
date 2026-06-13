@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Wat Damnak
 type: poi
+score: 8.6
 ---
 
 **Wat Damnak** is one of the most important active Buddhist monasteries in Siem Reap, located in the quiet residential neighbourhood of the same name east of the Siem Reap River. The wat has been a centre of traditional Khmer learning since the early 20th century and was the residence of King Sisowath before becoming a pagoda. Its grounds contain several stupas, a library, and classrooms; in the early morning you can watch monks performing puja and hear chanting.

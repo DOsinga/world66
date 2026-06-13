@@ -16,6 +16,7 @@ story: >
   right. The sport spread worldwide; Samuelson never patented the idea.
 sources:
   - https://en.wikipedia.org/wiki/Pepin,_Wisconsin
+score: 8.2
 ---
 
 Lake Pepin is the widest natural stretch of the Mississippi River — 28 miles long and up to 2.5 miles wide, formed by the delta fan of the Chippewa River backing up the Mississippi's flow. It is large enough to have genuine whitecaps in a stiff wind, which makes it popular with sailors and gives it the feel of an inland sea rather than a river.

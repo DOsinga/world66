@@ -9,6 +9,7 @@ tags:
 title: Shwesandaw Pagoda
 type: poi
 story: "Local tradition holds that the Shwesandaw enshrines two hairs of the Buddha brought to Pyay during his lifetime — an origin story shared with the more famous Shwesandaws of Bagan and Twante. The central stupa is just over three metres higher than the Shwedagon in Yangon, which gives Pyay its quiet bragging rights."
+score: 7.8
 ---
 
 The Shwesandaw rises on a low hill in the middle of Pyay, the centre of the city's religious life and its most prominent landmark. The main gilded stupa is taller than Yangon's Shwedagon — a fact every local will mention — and is surrounded by a flagstoned platform of smaller shrines, halls, and bell pavilions.

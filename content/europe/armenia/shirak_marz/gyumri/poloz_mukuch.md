@@ -8,6 +8,7 @@ tags:
   - restaurant
 title: Poloz Mukuch Beerhouse
 type: poi
+score: 6.5
 ---
 
 Poloz Mukuch is one of those places that has become genuinely famous without trying — a large, loud, crowded restaurant and beerhouse that serves Armenian food and cold draught beer in a setting that has not changed much in decades. The name means "Wise Mukuch," a reference to a fictional folk character, and the place has cultivated a deliberately un-fancy atmosphere: long communal tables, enthusiastic noise, and food that arrives in large portions.

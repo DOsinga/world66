@@ -12,6 +12,7 @@ tags:
 - gamla_stan
 title: Riksdag Building
 type: poi
+score: 7.1
 ---
 
 Sweden's parliament sits on Helgeandsholmen, a small island wedged between Gamla Stan and Norrmalm. The current building combines a Neoclassical facade from the 1900s with a modern glass-and-granite addition from the 1980s. Free guided tours run on weekends during the parliamentary recess (summer and some holidays), taking you through the debating chamber and the ornate former upper house.

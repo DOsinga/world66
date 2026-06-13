@@ -10,6 +10,7 @@ tags:
 title: SkyBar
 type: poi
 url: www.mondrianhotel.com
+score: 6.1
 ---
 
 The Mondrian's rooftop pool bar has been one of West Hollywood's most reliably fashionable spots since the 1990s. An open-air pavilion overlooking the city and the hills, it draws a mix of hotel guests and industry types. The views are the main attraction — the cocktails are expensive but the setting makes up for it.

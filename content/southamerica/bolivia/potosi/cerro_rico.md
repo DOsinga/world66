@@ -12,6 +12,7 @@ story: >
   miners leave offerings of coca leaves, alcohol, and cigarettes at his shrine
   in the tunnels, asking permission to take silver. The figure is part pre-Columbian
   earth deity, part colonial-era devil, and entirely his own thing.
+score: 8.9
 ---
 
 Cerro Rico — "the Rich Mountain" — is the dominant feature of the Potosí skyline, a near-perfect cone rising to 4,824 metres that has been mined almost continuously since 1545. Estimates suggest it yielded at least 40,000 tonnes of silver over three centuries, making it the single most important source of wealth in the early modern world. It is still being worked today, by cooperatives of Bolivian miners using methods that are barely more mechanised than what was used in colonial times.

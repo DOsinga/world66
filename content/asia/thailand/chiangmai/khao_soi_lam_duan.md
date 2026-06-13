@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Khao Soi Lam Duan Fah Ham
 type: poi
+score: 7.1
 ---
 
 Khao soi — a rich coconut milk curry broth with egg noodles, served with crispy noodles on top and a trio of condiments — is the signature dish of Chiang Mai, and Lam Duan Fah Ham on Charoen Rat Road is one of the best places to eat it. The restaurant is a simple open-fronted shophouse across the river from the old city, popular with locals at lunch.

@@ -8,6 +8,7 @@ story: At the south end of the square, the Basilica of San Petronio was meant to
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 Piazza Maggiore has been the heart of Bologna since the thirteenth century, when the city flattened entire blocks of houses to create a stage large enough for the new commune to govern itself in public. The square is framed by Palazzo d'Accursio on the west, Palazzo del Podestà on the north, Palazzo dei Banchi on the east, and the unfinished basilica of San Petronio to the south.

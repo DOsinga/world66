@@ -11,6 +11,7 @@ tags:
 - sight
 title: Haga Park Museum
 type: poi
+score: 6.0
 ---
 
 A small museum inside Hagaparken, the English-style landscape park north of central Stockholm that has been a royal retreat since Gustav III's time in the late 18th century. The museum covers the history of the park and the royal family's connection to it, with exhibits on Gustav III's ambitious (and never completed) plans for a grand palace here. The park itself is the real draw -- wide lawns, mature trees, the copper tents (Koppartälten), and the Butterfly House nearby. The museum gives context to what you're walking through, but budget more time for the park than for the exhibits.

@@ -7,6 +7,7 @@ snippet: "Botanical garden of 1,500 cacti and succulents — a good stop after C
 tags:
 - things_to_do
 - nature
+score: 7.2
 ---
 
 Giardini Ravino is a private botanical garden on the road between Forio and Panza, specialising in cacti, succulents, and desert plants from around the world. The collection runs to over 1,500 species, with specimens that have been growing here for decades — some of the giant cacti are old enough to be serious plants rather than curiosities. The contrast with the lush Mediterranean landscape around them is striking.

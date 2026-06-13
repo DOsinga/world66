@@ -6,6 +6,7 @@ longitude: -3.1042
 tags:
 - things_to_do
 - park
+score: 6.1
 ---
 
 Vivary Park is Taunton's principal town park, laid out in 1894 on the grounds of a medieval fishpond — the name comes from the Latin vivarium, meaning a place where fish are kept alive. It is a classic Victorian municipal park, with bandstand, ornate iron gates, formal flower beds, and a network of paths through mature horse chestnuts and limes.

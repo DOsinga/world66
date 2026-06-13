@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 68.7990
 longitude: 16.5440
+score: 8.7
 ---
 
 The waters around Harstad and the Vesterålen archipelago are among the best places in Norway to see whales. Sperm whales feed in the deep trench off the Vesterålen coast year-round, and humpback and minke whales migrate through the area in summer following the herring shoals. Killer whales (orcas) follow the herring into the fjords in autumn and winter — typically November through February — when they are a common sight in the straits near Harstad.

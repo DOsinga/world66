@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.9046
 longitude: 122.0764
+score: 5.9
 ---
 
 Plaza Pershing is the central public square of downtown Zamboanga, a leafy block of fountains, benches, and old acacia trees in front of the City Hall. Named after the American military governor John J. Pershing, the square was originally laid out in Spanish times as the Plaza Mayor and has remained the civic heart of the city for over three centuries.

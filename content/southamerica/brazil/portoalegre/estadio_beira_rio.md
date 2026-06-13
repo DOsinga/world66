@@ -8,6 +8,7 @@ tags:
 story: The Estádio Beira-Rio — On the River's Edge — opened in 1969 after a remarkable community fundraising campaign in which the fans of Internacional literally bought the bricks for the stadium one by one. The club was struggling financially and the stadium was built through what they called a "tijolaço" — a brick-by-brick campaign — with supporters across the state contributing what they could. The stadium was renovated for the 2014 World Cup and now holds 50,000 people.
 title: Estádio Beira-Rio
 type: poi
+score: 7.2
 ---
 
 The Estádio Beira-Rio sits on the southern shore of the Rio Guaíba and is one of the most beautifully situated football grounds in Brazil. Sport Club Internacional — Internacional, or simply "Inter" — plays here, and the relationship between the club and the city is intense in a way that non-football cities find difficult to understand. Porto Alegre is divided between Inter and their crosstown rival Grêmio; every person in the city has a team, and discussions about which is superior can last hours.

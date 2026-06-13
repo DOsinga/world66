@@ -12,6 +12,7 @@ story: >
   producers who couldn't access mainstream distribution channels. It started with
   a handful of vendors and now hosts close to eighty. The organic ethos has
   remained central — no large commercial producers, no packaged imports.
+score: 6.3
 ---
 
 The Mercado del Pueblo is Sayulita's weekly farmers market, running every Friday from 10am to 2pm on Avenida Revolución, just north of the main bridge. The market operates from November through April, with occasional additional dates in May. It's the most useful single stop in town for anyone renting a kitchen, and interesting even for those who aren't.

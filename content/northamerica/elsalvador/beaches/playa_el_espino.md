@@ -9,6 +9,7 @@ tags:
 - beach
 title: Playa El Espino
 type: poi
+score: 6.4
 ---
 
 Playa El Espino is a long stretch of dark volcanic sand on El Salvador's eastern Pacific coast, about 45 minutes south of Usulutan. It is one of the more relaxed beach destinations in the country, popular with Salvadoran families on weekends but quiet during the week.

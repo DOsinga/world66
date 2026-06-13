@@ -9,6 +9,7 @@ longitude: 84.9465
 snippet: The historic high ground where Tomsk was founded in 1604, with panoramic views over the Tom River
 story: >
   The original Tomsk kremlin, built on Resurrection Hill in 1604, was the eastern anchor of Russia's Siberian expansion — the base from which Cossack expeditions pushed further into Siberia. Nothing remains of the kremlin itself, but the hill's Resurrection Church, rebuilt in the 19th century on the site of the original chapel, maintains the connection to that founding moment.
+score: 8.5
 ---
 
 Resurrection Hill (Voskreskenskaya Gora) is where Tomsk began. In 1604 Cossack troops built a wooden fortress here on a bluff above the Tom River, and the city grew outward from this point over the following centuries. Today the hill is crowned by the Resurrection Church and offers the best panoramic views in the city — looking out over the river bend, the old wooden houses below, and the endless Siberian taiga stretching to the horizon.

@@ -6,6 +6,7 @@ latitude: 5.5000
 longitude: 118.2500
 story: >
   The Kinabatangan is both wonderful and sobering: wildlife viewing is good partly because plantations have squeezed animals into narrow riverine forest. A boat ride here shows Borneo's richness and its environmental pressure at the same time.
+score: 9.1
 ---
 
 The Kinabatangan River is Sabah's most accessible river-safari area. From lodges around Sukau and Bilit, boats go out at dawn and dusk looking for proboscis monkeys, hornbills, crocodiles, macaques, and sometimes pygmy elephants.

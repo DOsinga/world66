@@ -8,6 +8,7 @@ tags:
   - sight
   - historical_site
 story: "General George S. Patton is buried among his men — at his own request — rather than back in the United States. His grave, marked by a plain white cross identical to the others, was originally in the middle of the rows; the constant trampling of visitors forced staff to move it to a less destructive spot in front of the grave field."
+score: 7.0
 ---
 
 About 5 km east of the city centre, the Luxembourg American Cemetery is the final resting place of more than 5,000 US soldiers who died in the Battle of the Bulge. The ranks of white marble crosses on the lawns are arranged in concentric rings around a chapel — austere, well-tended, and quietly moving.

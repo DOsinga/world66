@@ -7,6 +7,7 @@ tags:
 latitude: 39.6982
 longitude: -91.358
 story: "The bluff gets its name from a Sauk legend, picked up enthusiastically by Victorian-era tourist boards: two doomed lovers from rival bands threw themselves from the top rather than be parted. Twain mentions Lovers Leap in Life on the Mississippi and notes wryly that almost every bluff on the river has the same legend attached."
+score: 7.0
 ---
 
 Lovers Leap is a limestone bluff that rises sharply at the southern end of Hannibal, offering one of the best views of the river anywhere in north Missouri. A road climbs to the top and a short trail leads to the viewing point.

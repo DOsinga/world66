@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2599
 longitude: 19.8519
+score: 7.4
 ---
 
 The Almaška Church — the Holy Three Hierarchs — is the largest Serbian Orthodox church in Novi Sad and the spiritual centre of the historic Almaški Kraj neighbourhood. The current Baroque building dates from 1797, and the interior holds one of the most important iconostases in Vojvodina, with painted panels by the 19th-century master Pavel Simić.

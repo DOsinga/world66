@@ -15,6 +15,7 @@ story: >
   such an object was at the frontier of human capability. Watchmaking in Geneva
   was not just a trade; it was one of the forms that precision science took
   before there was such a thing as precision science.
+score: 8.5
 ---
 
 The Patek Philippe Museum is a private museum on the left bank, housed in a converted 19th-century building on rue des Vieux-Grenadiers. It contains two collections: a historical section covering European watchmaking and enamelling from the 16th century to the early 20th century, and a Patek Philippe retrospective covering the brand's output since 1839.

@@ -10,6 +10,7 @@ story: >
   The UNESCO listing for the Geirangerfjord includes the waterfalls cascading down its walls, among them the Seven Sisters and the Suitor — a cluster of seven separate falls on one side, facing a single tall fall on the other. Local legend says the Suitor is forever courting the Seven Sisters, who will never agree to marry him.
 sources:
   - https://en.wikipedia.org/wiki/Geirangerfjord
+score: 9.6
 ---
 
 The Geirangerfjord is a UNESCO World Heritage Site and one of the most celebrated natural landscapes in Norway — 15 km of deep blue water between walls of rock rising 1,400 metres, with waterfalls pouring directly into the fjord. Ålesund is the main gateway, and the classic approach is the Ørnevegen (Eagle Road) mountain pass with its eleven hairpin bends dropping to the water.

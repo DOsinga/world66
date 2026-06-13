@@ -10,6 +10,7 @@ title: Dry Bridge Market
 type: poi
 story: >
   The Dry Bridge market emerged in the early 1990s during the economic collapse that followed Georgian independence, when people began selling their household possessions to survive. What started as desperate improvisation became one of the most interesting flea markets in the former Soviet Union — a place where the material culture of seventy years of Soviet life surfaces daily: old propaganda posters, military medals, icons, carpets, and objects whose original purpose is sometimes hard to identify.
+score: 8.4
 ---
 
 The Dry Bridge market (Mkhar Khidi) spreads along the banks of the Mtkvari near the old rail bridge and is one of the most enjoyable ways to spend a morning in Tbilisi. Vendors sell Soviet-era memorabilia, Georgian antiques, old icons, carpets, jewellery, coins, stamps, and a great deal of miscellaneous junk. The quality ranges from genuine finds to obvious reproductions; knowing the difference requires either expertise or luck.

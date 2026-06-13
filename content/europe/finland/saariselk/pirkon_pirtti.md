@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 68.4214
 longitude: 27.4177
+score: 6.2
 ---
 
 A friendly log-walled restaurant in the centre of Saariselkä serving generous portions of Lappish home cooking. The reindeer stew with mashed potatoes and lingonberry jam is the dish to order; salmon soup with rye bread is the cheaper, equally good alternative.

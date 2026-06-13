@@ -6,6 +6,7 @@ longitude: 120.2300
 tags:
   - things_to_do
   - beaches
+score: 7.0
 ---
 
 Camayan is a quieter, more attractive beach than White Rock — a longer crescent of fine grey sand on the southern end of the freeport, backed by the forested hills of the former US Navy magazine area. The water is clean and shallow, suited to swimming.

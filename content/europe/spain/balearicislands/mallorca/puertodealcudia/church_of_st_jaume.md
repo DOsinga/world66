@@ -7,6 +7,7 @@ tags:
 latitude: 39.8514
 longitude: 3.1206
 snippet: Gothic parish church at the heart of Alcudia's old town
+score: 6.2
 ---
 
 The Church of Sant Jaume stands at the centre of Alcudia's old town, a solid Gothic structure built over several centuries beginning in the 14th century. The current building is largely the result of a 19th-century restoration that reinforced and extended the medieval fabric — the tower is the most clearly Gothic element, visible from most of the town. Inside, the single nave is broad and austere, with chapels along the sides.

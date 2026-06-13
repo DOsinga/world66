@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Manfred von Richthofen — the Red Baron, top fighter ace of WWI with 80 confirmed kills — is buried in the Südfriedhof in Wiesbaden after being moved here in 1975 from a Berlin family plot. His grave is plain by his standards, a simple stone among his relatives, marked only by his name and his dates."
+score: 5.8
 ---
 
 In the Südfriedhof cemetery on the western edge of Wiesbaden lies one of the strangest war graves in Germany: the final resting place of Manfred von Richthofen, the Red Baron, the most celebrated fighter ace of the First World War. He was killed by ground fire near the Somme in 1918, aged 25, and was first buried in France. His body was moved several times, ending up in 1975 in this quiet Wiesbaden cemetery alongside other members of the Richthofen family.

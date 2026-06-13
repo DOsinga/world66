@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.8875
 longitude: -3.7115
+score: 7.4
 ---
 
 One of Almagro's most significant religious buildings, the Convent of the Assumption of Calatrava has been declared a Historic-Artistic Monument. Founded by the Knights of Calatrava — the powerful military and religious order that dominated this part of Castile during the Reconquista — the convent retains an impressive Renaissance cloister and church. The building reflects Almagro's wealth and importance during the 16th century, when the town was the seat of the Masters of Calatrava and a major centre of the Order's power.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 41.3200
 longitude: 48.1500
+score: 7.7
 ---
 
 The Gusarchai (Qusar River) cuts through the Greater Caucasus range in a series of gorges above the town, and the upper reaches of the river produce several waterfalls that are accessible on foot from the Laza road. The most visited fall drops through a narrow basalt canyon about 20km from Qusar; a short trail from a roadside parking area leads to the base of the fall in 20–30 minutes. The surrounding forest of beech and hornbeam is particularly beautiful in autumn when the foliage turns yellow and orange.

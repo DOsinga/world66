@@ -12,6 +12,7 @@ story: >
   were seized and redistributed to newly established public museums. The Caen collection
   benefited from the dispersal of several important Norman collections. The result is a
   provincial museum with holdings that punch well above their weight.
+score: 7.2
 ---
 
 Within the castle walls, the Musée des Beaux-Arts holds a collection that traces European painting from the 15th to the 20th century. The strongest holdings are Dutch and Flemish — there are excellent examples from Rubens and his circle — but the collection also covers Italian Renaissance painting, French work from Poussin through the Impressionists, and a good suite of 20th-century pieces.

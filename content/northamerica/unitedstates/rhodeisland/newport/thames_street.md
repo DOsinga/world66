@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 Thames Street runs along Newport's working harbor, and despite being firmly on the tourist circuit it retains genuine vitality. The street is lined with restaurants, bars, galleries, chandleries, and the occasional working boatyard — this is still an active sailing harbor, and the mix of racing yachts, charter vessels, and lobster boats at the docks gives it a character that the mansion district lacks.

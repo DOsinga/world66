@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.2700
 longitude: 11.9900
+score: 7.2
 ---
 
 San Domenico is a 15th-century Gothic church just inside the southern wall of the old town, on a quiet stretch of Via Berrettini. The interior contains a 1402 polyptych by Lorenzo di Niccolò and a Madonna and Child by Fra Angelico's workshop, both of which would be highlights of a larger museum.

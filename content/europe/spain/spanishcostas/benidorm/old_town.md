@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Old Town
 type: poi
+score: 7.8
 ---
 
 The casco antiguo of Benidorm occupies the rocky headland between the two beaches and gives you a glimpse of what the town was before the resort arrived. The streets are narrow and whitewashed, the houses blue-shuttered, and the pace is noticeably different from the tourist strip below. A few authentic tapas bars and Spanish seafood restaurants have survived here, serving the local population that still lives in these streets.

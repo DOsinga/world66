@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "E.I. du Pont chose this spot in 1802 because of the way the Brandywine fell over a small ledge — enough drop to drive the powder mills, far enough from settlements to absorb the inevitable explosions. The mills did explode, periodically, throughout the nineteenth century, killing workers and scattering machinery into the river. The company survived because the surviving mills could be back on line within days."
+score: 8.8
 ---
 
 Hagley sits on the original DuPont site along the Brandywine — the gunpowder works that E.I. du Pont established in 1802 and that launched what became the largest chemical company in the world. The 235-acre campus preserves the stone powder mills along the river, the workers' village above, the family residence (Eleutherian Mills), and the company's first office building.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.4998
 longitude: -87.2260
+score: 4.9
 ---
 
 A reliable marina-side restaurant that has been feeding divers and holidaymakers in Puerto Aventuras for many years. The menu covers grilled fish, steaks, and ribs — straightforward food, done well and served in generous portions. The waterfront terrace is particularly pleasant in the evening when the marina lights reflect off the water.

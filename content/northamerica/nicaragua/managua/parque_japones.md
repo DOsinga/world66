@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 12.1145
 longitude: -86.2648
+score: 5.8
 ---
 
 Parque Japonés (the Japanese Garden) is a small, carefully maintained garden in the Altamira district, donated to Managua by the Japanese government as part of development assistance. It has ornamental bridges, koi ponds, and traditional Japanese garden planting — a formal and slightly incongruous patch of tranquility in a tropical Central American capital.

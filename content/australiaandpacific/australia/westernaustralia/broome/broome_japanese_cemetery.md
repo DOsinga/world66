@@ -14,6 +14,7 @@ story: >
   took lives. At various points Japanese nationals made up the single largest
   ethnic group in Broome, a fact difficult to reconcile with the Australia of
   that period's White Australia Policy.
+score: 6.8
 ---
 
 The **Broome Japanese Cemetery** on Port Drive is the largest Japanese cemetery in Australia, with over 900 graves of Japanese pearl divers who died working in the Broome pearling industry between the 1890s and the 1940s. It is one of the most distinctive and affecting heritage sites in Western Australia.

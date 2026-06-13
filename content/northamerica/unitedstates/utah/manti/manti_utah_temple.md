@@ -14,6 +14,7 @@ story: >
   which it stands, lowering the blocks down by hand using wooden sleds.
 sources:
   - https://en.wikipedia.org/wiki/Manti_Utah_Temple
+score: 8.4
 ---
 
 The Manti Utah Temple is one of the most photogenic buildings in the state of Utah. It sits on a limestone bluff above the town, its cream-coloured towers visible from miles away across the flat Sanpete Valley. The style is a blend of Romanesque and Gothic Revival — unusual among Utah's temples — with twin spires that rise 60 metres above the hilltop site.

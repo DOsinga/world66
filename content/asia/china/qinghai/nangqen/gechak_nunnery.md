@@ -8,6 +8,7 @@ latitude: 32.1900
 longitude: 96.4200
 story: >
   Founded in 1893 by the charismatic teacher Gechak Tsangyang Gyatso, this nunnery grew from a small community into the largest in Qinghai Province, with around 400 nuns in residence — a remarkable achievement for a Tibetan Buddhist institution in a region dominated by male monasticism.
+score: 7.8
 ---
 
 Gechak Nunnery is the largest nunnery in Qinghai Province, home to around 400 nuns practicing in the Kagyu tradition. Despite being founded relatively recently — in 1893 — it has grown into a major centre of female Buddhist practice in the Kham region, drawing practitioners from across the plateau.

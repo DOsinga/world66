@@ -15,6 +15,7 @@ story: >
   enormous wealth from the cocoa boom of the 1950s, and Awolowo channeled
   it into public investment. The building was as much a political manifesto
   as an office block.
+score: 7.4
 ---
 
 Cocoa House is one of the defining landmarks of Ibadan and a symbol of the ambitions of post-independence Nigeria. When it was completed in 1965 — commissioned by the Western Region government of Chief Obafemi Awolowo and paid for with the proceeds of cocoa exports — it was the tallest building in tropical Africa, a distinction that mattered enormously to those who built it.

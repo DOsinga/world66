@@ -14,6 +14,7 @@ story: >
   hands several times during the sugar boom and is now the best-preserved example
   of a Franco-Mauritian planter's residence on the island. With 109 doors and
   windows, it was designed to maximise cross-ventilation in the tropical heat.
+score: 8.1
 ---
 
 Maison Eureka is the finest surviving example of a 19th-century Creole colonial mansion in Mauritius. Built around 1836 from local ebony and mahogany, the house is set in tropical gardens beside a stream, with small waterfalls and a wide veranda from which the family once supervised their sugar estate.

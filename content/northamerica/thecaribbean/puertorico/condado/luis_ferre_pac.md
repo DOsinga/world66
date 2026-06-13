@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, art]
 latitude: 18.4475
 longitude: -66.069166
+score: 7.1
 ---
 
 The Luis A. Ferré Performing Arts Center — known locally as Bellas Artes — is San Juan's main performance venue, a short walk south from Condado through the Santurce neighborhood. The complex contains three theatres of different scales, the largest of which seats over 1,800 people and has strong enough acoustics to host the Puerto Rico Symphony Orchestra properly. The building dates from the 1980s and is functional rather than beautiful, but the programming is the point.

@@ -9,6 +9,7 @@ latitude: 39.6000
 longitude: 109.7784
 story: >
   The Ordos Museum was designed by Chinese architecture firm MAD Architects, founded by Ma Yansong, and completed in 2011. The building's form — a free-flowing blob of polished metal that seems to hover slightly above the ground — was intended as a contrast to the rigidly geometric government buildings surrounding it. MAD's design philosophy argues that architecture should reflect the organic forms of nature rather than the rigid grids of Chinese urban planning. Whether the result achieves this is debatable; what is certain is that the building is one of the most photographed contemporary structures in Inner Mongolia.
+score: 7.9
 ---
 
 The Ordos Museum, housed in a spectacular polished-metal building designed by MAD Architects, contains a solid collection covering the natural history, archaeology, and cultural heritage of the Ordos plateau. The Ordos Bronze Culture collection is the highlight: the plateau was a major centre of nomadic metalworking from roughly 600 BCE to 100 CE, producing distinctive animal-style bronzes — belt plaques, harness ornaments, and weapons decorated with stylised deer, horses, and predators — that are among the finest examples of steppe art anywhere in the world.

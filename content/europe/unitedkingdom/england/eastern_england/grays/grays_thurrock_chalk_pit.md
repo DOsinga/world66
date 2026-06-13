@@ -13,6 +13,7 @@ story: >
   from over 200,000 years ago. The site was once a working quarry; the fossils were a byproduct of chalk extraction.
 sources:
   - https://en.wikipedia.org/wiki/Grays_Thurrock_Chalk_Pit
+score: 6.6
 ---
 
 Grays Thurrock Chalk Pit is a Site of Special Scientific Interest on the north edge of Grays, preserved for both its geological and paleontological significance. The exposed chalk faces show clear stratification from the Late Pleistocene period, and the site is one of the richest sources of Ice Age fossil mammals in southern England. It is managed as a nature reserve rather than a formal visitor attraction, but it is open and walkable.

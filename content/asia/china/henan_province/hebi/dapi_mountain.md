@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.7200
 longitude: 114.2700
+score: 6.2
 ---
 
 Dapi Mountain sits on the southern edge of Hebi and is the city's main outdoor destination. It's a modest peak by any mountaineering standard — the trails are well-graded and accessible to most visitors — but the summit offers panoramic views over the Yellow River plain that make the climb worthwhile. On clear days the landscape stretches south toward the Yellow River itself, and the agricultural patchwork of the plain below gives a vivid sense of why this valley has supported dense settlement for millennia.

@@ -9,6 +9,7 @@ longitude: -121.3149
 snippet: "1940 art deco cinema restored as a performing arts center"
 sources:
   - https://en.wikipedia.org/wiki/Tower_Theatre_(Bend,_Oregon)
+score: 6.8
 ---
 
 The Tower Theatre opened in 1940 and was for decades the social and cultural center of Bend — the place where the town watched films and gathered. When multiplexes made single-screen movie houses obsolete, the Tower closed and sat empty for years. It was restored and reopened in 2004 as a performing arts venue, and now hosts concerts, comedy, lectures, and theater in its intimate 450-seat auditorium.

@@ -9,6 +9,7 @@ tags:
 latitude: 45.2727
 longitude: -66.0577
 snippet: Restored Beaux-Arts performance hall from 1913, still staging live shows
+score: 8.0
 ---
 
 The Imperial Theatre opened in 1913 as one of Atlantic Canada's finest vaudeville and cinema houses, a Beaux-Arts building with an ornate interior of gilded plasterwork, a domed ceiling, and a curved balcony. It fell into disuse and near-ruin by the 1980s, and its restoration in the 1990s — a project driven by community fundraising and civic pride — is one of Saint John's success stories.

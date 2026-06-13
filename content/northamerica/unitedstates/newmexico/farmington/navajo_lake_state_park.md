@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8060
 longitude: -107.6100
+score: 6.8
 ---
 
 About 25 miles east of Aztec (and 40 miles from Farmington), Navajo Lake is the largest body of water in New Mexico and one of the top fishing destinations in the state. The reservoir sits in dramatic canyon country where the San Juan River was dammed in 1963. Two marinas, multiple boat ramps, and several campgrounds make it a well-organised destination for boating, fishing, and camping.

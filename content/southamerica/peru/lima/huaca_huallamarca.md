@@ -9,6 +9,7 @@ tags:
   - san_isidro
 neighbourhood: San Isidro
 snippet: Restored adobe pyramid in the middle of San Isidro
+score: 6.9
 ---
 
 **Huaca Huallamarca** is a stepped adobe pyramid of the **Lima culture**, built between 200 and 500 AD, that stands in the middle of a residential block of San Isidro. It was used as a ceremonial centre, then as a cemetery by the Ichma culture much later, and was eventually buried under windblown sand and forgotten until partial reconstruction in the 1950s.

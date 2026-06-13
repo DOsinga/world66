@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 36.9968
 longitude: -86.4409
+score: 6.5
 ---
 
 The home of the Bowling Green Hot Rods, the Cincinnati Reds' High-A minor league affiliate, this 4,500-seat downtown ballpark is one of the most pleasant ways to spend an evening in the city. Games run from April through September, with tickets cheap (under $15 for good seats), crowds friendly, and the sightlines good from virtually every seat.

@@ -9,6 +9,7 @@ latitude: 40.9744
 longitude: -117.7375
 story: >
   The Winnemucca Hotel was opened in 1863, making it one of the oldest continuously operated hotels in the American West. The bar, with its original mirrored back-bar and pressed-tin ceiling, served Basque sheepherders for nearly 150 years; the hotel building was a Basque boarding house from the 1880s until well into the 20th century.
+score: 6.6
 ---
 
 The plain two-storey wooden building near the corner of Bridge and Railroad is the oldest hotel in Nevada, dating to 1863. For most of its history it was a Basque boarding house — sheepherders coming down from a season in the Santa Rosa Range would stay here, eat at the long table, and drink at the bar.

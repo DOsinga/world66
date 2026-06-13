@@ -11,6 +11,7 @@ tags:
 - kreuzberg
 title: Hard Wax
 type: poi
+score: 7.8
 ---
 
 Berlin's most serious record shop for electronic music — techno, house, dub, jungle, and everything in between. Located in a Kreuzberg courtyard on Paul-Lincke-Ufer, it has been the city's first port of call for DJs and vinyl collectors since 1989. The staff know their stock in depth, there are listening stations throughout, and the atmosphere is quiet and focused. Open Mon–Fri noon–8pm, Sat 10am–4pm.

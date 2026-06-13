@@ -8,6 +8,7 @@ tags:
 - museum
 title: National Frontier Trails Museum
 type: poi
+score: 7.5
 ---
 
 Independence, Missouri — just east of Kansas City — was the official departure point for the Santa Fe Trail, the Oregon Trail, and the California Trail, the three main overland routes that carried settlers and traders to the American West in the 19th century. The National Frontier Trails Museum in Independence tells this story through artifacts, documents, and first-person accounts from the people who made the journeys.

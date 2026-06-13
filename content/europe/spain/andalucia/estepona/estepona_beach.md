@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.4205
 longitude: -5.1520
 snippet: "Several kilometres of relatively uncrowded sandy beach on the western Costa del Sol"
+score: 6.8
 ---
 
 Estepona's main beach runs for about 17 km along the coast, though the most popular section is the Playa de la Rada adjacent to the centre of town. The sand here is grey-brown rather than white, typical of the western Costa del Sol, and the beach is wide enough that even in high season it doesn't feel packed. The promenade (paseo maritimo) is long, well-maintained, and backed by low-rise buildings rather than the tower blocks that blighted other parts of the coast.

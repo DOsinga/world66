@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
 story: "Huset means simply 'the house'. It opened in 1951 as a combined cinema, meeting hall, and library for the mining community and is still the only cinema on Svalbard. Its wine cellar holds over 20,000 bottles — at one point it was rated one of the largest in Europe."
+score: 7.1
 ---
 
 Huset sits on the rise between Nybyen and central Longyearbyen and serves as the cultural living room of the whole archipelago. The complex contains a casual cafe, a more formal restaurant, a pub, a cinema, and a small concert hall.

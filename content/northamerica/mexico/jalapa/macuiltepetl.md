@@ -8,6 +8,7 @@ tags:
 latitude: 19.5612
 longitude: -96.9173
 snippet: "Extinct volcano on the north side of the city, now a forested park with a viewing tower"
+score: 8.3
 ---
 
 Macuiltépetl — Nahuatl for "five hills" — is the small extinct volcanic cone that rises just north of central Xalapa. It is the highest point in the city, capped by a stone viewing tower that on a clear morning gives a 360-degree view from the Cofre de Perote in the west to the Pico de Orizaba in the south. Best between November and March, when the cloud cover is briefly tolerant.

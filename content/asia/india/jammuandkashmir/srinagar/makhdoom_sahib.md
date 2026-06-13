@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0933
 longitude: 74.8017
+score: 7.7
 ---
 
 The shrine of Sheikh Hamza Makhdoom, the 16th-century Sufi saint who is regarded as the patron saint of Kashmir, sits on the slopes of Hari Parbat Hill overlooking the old city. Makhdoom Sahib — "Master" — was an influential scholar and teacher who played a major role in consolidating Sufi Islam in the valley. His shrine is a major pilgrimage site visited year-round; on Fridays and religious occasions it is extremely busy.

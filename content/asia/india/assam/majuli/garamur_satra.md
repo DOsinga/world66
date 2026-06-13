@@ -11,6 +11,7 @@ story: >
   construction of the large boats — called nouka — that were historically used for river processions.
   The satras once held elaborate river festivals on the Brahmaputra, and a few elderly craftsmen at
   Garamur still know the construction techniques, though the festivals themselves are rarely staged.
+score: 7.7
 ---
 
 Garamur Satra is a mid-sized monastery in the central part of the island, less visited than Auniati and Samaguri but worth stopping at for its quieter atmosphere and well-maintained prayer hall. The satradhikar is knowledgeable about the island's history and the interrelationships between the different satra traditions, and the compound has good examples of the traditional Assamese namghar (community prayer hall) architecture — a long, high-roofed structure with carved wooden pillars and a raised platform for the deities.

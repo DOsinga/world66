@@ -11,6 +11,7 @@ story: >
   commoners were forbidden to enter. The restriction was lifted after the arrival of
   Christianity in the 19th century, but the name and the reverence attached to it have
   persisted. Swimming here still feels like trespassing somewhere sacred.
+score: 9.0
 ---
 
 Matapa Chasm is a narrow sea inlet cut into the coral limestone cliffs on Niue's north coast, about 15 kilometres from Alofi. The water in the chasm is extraordinarily clear — you can see the bottom at 10 metres without difficulty — and the sheltered walls protect it from ocean swell, making it one of the calmest and most beautiful swimming places on the island.

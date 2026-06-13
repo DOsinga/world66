@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Purdue has produced more American astronauts than any other university — 25 alumni have flown in space, including Neil Armstrong, who walked on the moon, and Gus Grissom, who was the second American in space. The university's engineering tradition runs deep: the campus is full of aerospace and engineering labs, and the Neil Armstrong Hall of Engineering is one of the more impressive buildings on campus.
+score: 8.2
 ---
 
 West Lafayette — technically a separate city from Lafayette but functionally one continuous place — is dominated by Purdue University, one of America's leading public research universities with particular strengths in engineering, aerospace, and agriculture. The campus is large, handsome, and worth walking through.

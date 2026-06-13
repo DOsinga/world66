@@ -11,6 +11,7 @@ story: >
   Salem Al-Mubarak Street is named after Salem Al-Mubarak Al-Sabah, brother of the Kuwaiti ruler who gave Salmiya its name in the early 20th century. The street was the commercial spine of Salmiya from the 1950s onward, when the oil boom brought massive migration from South Asia and the Levant and created the cosmopolitan, largely expatriate city that Salmiya still is.
 sources:
   - https://en.wikipedia.org/wiki/Salmiya
+score: 6.8
 ---
 
 Salem Al-Mubarak Street is Kuwait's most storied shopping street and the commercial heart of Salmiya. It runs for about two kilometres through the district's centre, lined with a mix of modern malls, electronics shops, gold merchants, fabric stores, and pavement traders that preserves something of the traditional market character that most of Kuwait City has lost. The street is particularly lively on Thursday and Friday evenings.

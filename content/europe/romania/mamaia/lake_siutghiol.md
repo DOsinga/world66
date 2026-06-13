@@ -8,6 +8,7 @@ latitude: 44.2333
 longitude: 28.6000
 story: >
   The lake's name comes from Turkish and means "milk lake." Local legend says the water once turned white with milk after a miracle. A more prosaic explanation is that the lake sometimes takes on a milky appearance when strong winds churn up the sediment from its shallow bed.
+score: 7.2
 ---
 
 Lake Siutghiol runs parallel to Mamaia's beach, separated from the Black Sea by the narrow strip of land on which the resort sits. The lake is about 10 kilometres long and largely shallow, with reed beds along the southern and western shores. It is calmer than the sea, protected from wind, and popular with windsurfers, kayakers, and pedal-boat riders.

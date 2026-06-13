@@ -9,6 +9,7 @@ tags:
 - sight
 title: Sanjūsangen-dō
 type: poi
+score: 9.2
 ---
 
 Sanjūsangen-dō ("Hall of Thirty-Three Bays") is one of the strangest and most overwhelming buildings in Japan: a wooden hall 120 metres long containing one thousand and one statues of the thousand-armed bodhisattva Kannon. The central image is a 3.3-metre seated Kannon by the great thirteenth-century sculptor Tankei; flanking it, in ten serried ranks, stand a thousand near-life-sized standing Kannons in gilt cypress wood, each subtly different, each said to bear the face of someone the visitor knows.

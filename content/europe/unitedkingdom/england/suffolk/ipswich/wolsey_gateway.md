@@ -14,6 +14,7 @@ story: >
   gateway is all that was built. Within a year Wolsey was dead, facing treason
   charges that would certainly have seen him executed. Only the gate remains, a
   monument to overreach.
+score: 6.8
 ---
 
 Cardinal Wolsey's Gate is the only surviving remnant of the college that Henry VIII's powerful minister began building in Ipswich in the late 1520s. The red-brick gateway with its terracotta decorative panels is a handsome example of Tudor architecture, and its story — Wolsey's fall from grace cut the project short — makes it more interesting than its modest scale suggests.

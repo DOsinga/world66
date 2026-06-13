@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.8739
 longitude: 8.0175
+score: 6.6
 ---
 
 The Unteres Schloss (Lower Castle) anchors the pedestrian centre of Siegen's old town. Its distinctive octagonal tower — the Kroenchen (little crown) — topped with a golden crown is the most recognisable landmark of the city, visible from a distance and frequently used as a symbol of Siegen. The castle complex houses government offices for the Siegen-Wittgenstein district, so the interior is largely inaccessible, but the exterior and the surrounding square make for a good orientation point.

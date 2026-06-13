@@ -8,6 +8,7 @@ latitude: 55.6393
 longitude: 12.0979
 story: >
   The Roskilde Festival is run entirely by volunteers and donates all of its profits to humanitarian causes — it has distributed hundreds of millions of Danish kroner since 1971. When you buy a ticket, a portion funds projects ranging from clean water in sub-Saharan Africa to youth work in Denmark. The festival's charitable structure is the direct result of its founding by two students who wanted to make something, not sell something.
+score: 5.6
 ---
 
 The Roskilde Festival, held annually in late June and early July, is the largest music festival in northern Europe and one of the oldest outdoor rock festivals in the world. The festival site — a large field south of the town centre — hosts around 130,000 people over four days, with eight stages covering rock, hip-hop, electronic, and world music.

@@ -15,6 +15,7 @@ story: >
   passed to his son-in-law Kharitonov, whose name joined it. Russian legend holds that an
   underground tunnel runs from the basement to a point several kilometres away, and that
   the Rastorguev family hid their gold in it during emergencies.
+score: 7.8
 ---
 
 The Rastorguev-Kharitonov Palace is the finest pre-revolutionary mansion in Ekaterinburg and one of the best examples of Russian Empire architecture in the Urals. Built for an iron-magnate merchant family in the late 18th and early 19th centuries, the yellow-and-white neoclassical building sits on Voznesensky Hill overlooking the city centre, surrounded by a formal English garden that is a pleasant place to walk in summer.

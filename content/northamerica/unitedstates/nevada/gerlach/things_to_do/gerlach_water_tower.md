@@ -9,6 +9,7 @@ tags:
   - historic
 sources:
   - https://en.wikipedia.org/wiki/Gerlach_Water_Tower
+score: 6.3
 ---
 
 The Gerlach Water Tower stands on Main Street as the most visible reminder of the town's railroad origins. Built in 1909 by the Utah Construction Company to supply water to Western Pacific steam locomotives, the wooden tank on its tall timber frame is on the National Register of Historic Places. It is one of the few surviving examples of this type of railroad water tower in Nevada. The tower no longer functions but has been stabilised and preserved; it is the unofficial symbol of Gerlach.

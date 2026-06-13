@@ -9,6 +9,7 @@ latitude: 36.2749
 longitude: -6.0862
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 7.8
 ---
 
 The covered market in the old town is the most practical and revealing place in Conil for understanding what the town actually eats. A substantial fish section reflects the port's continuing importance: in season, the stalls display whatever came off the boats that morning — dorada, lubina, pargo, and above all the prized atún de almadraba during the tuna season from April to June.

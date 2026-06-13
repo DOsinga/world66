@@ -11,6 +11,7 @@ story: >
   Charles II was proclaimed King of England in the Royal Square in St Helier in 1649, eleven years before he actually took the throne. He was sheltered in Elizabeth Castle during the English Civil War, and the island's loyalty to the Royalist cause was rewarded after the Restoration with generous trading privileges that shaped Jersey's prosperity for generations.
 sources:
   - https://en.wikipedia.org/wiki/Elizabeth_Castle
+score: 9.0
 ---
 
 Elizabeth Castle occupies a tidal island in St Aubin's Bay and is St Helier's most striking landmark — a sprawling fortification begun in the 1590s and extended over two centuries. At low tide you can walk out across the causeway in about fifteen minutes; when the tide comes in, an amphibious ferry runs from the waterfront. The crossing is half the fun.

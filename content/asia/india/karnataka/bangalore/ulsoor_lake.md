@@ -7,6 +7,7 @@ tags:
 - park
 title: Ulsoor Lake
 type: poi
+score: 6.0
 ---
 
 Ulsoor Lake is one of the largest remaining urban lakes in Bangalore, covering 125 acres just east of Cubbon Park. The lake is popular with joggers and walkers early in the morning, and the boat club rents paddle boats and rowboats through the day. Several small islands dot the water, and in the early morning the combination of mist, birds, and the city skyline behind makes it a genuinely pleasant place to be.

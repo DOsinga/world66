@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Salvador's most-celebrated moqueca restaurant
+score: 7.1
 ---
 
 The benchmark moqueca restaurant in the city, on the beachfront road at Armação. The kitchen does a dozen different moquecas — shrimp, fish, lobster, crab, mixed — all in copper pans, all heavy on the palm oil and coconut, all served with the standard sides of rice, farofa, and pirão. Portions are large; one moqueca feeds two.

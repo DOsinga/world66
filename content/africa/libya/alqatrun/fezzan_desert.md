@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.6
 ---
 
 The Fezzan is the great desert interior of southwestern Libya — a vast territory of sand seas, gravel plains, rocky outcrops, and occasional oases that stretches from the Libyan highlands south toward the borders with Niger and Chad. Al Qatrun is one of its southernmost settled points: a small cluster of buildings, a fuel station, a few palm groves, and then in every direction, the open desert.

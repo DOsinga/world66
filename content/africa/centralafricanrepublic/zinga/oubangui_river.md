@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.716
 longitude: 18.583
+score: 7.4
 ---
 
 The Oubangui (Ubangi) River at Zinga forms the border between the Central African Republic on the north bank and the Democratic Republic of Congo on the south. At this point the river is wide, green, and slow-moving, and the far bank is jungle — a landscape that has changed little in centuries. Fishing pirogues move quietly on the water at dawn and dusk; the river is the source of most of the town's protein and much of its commerce.

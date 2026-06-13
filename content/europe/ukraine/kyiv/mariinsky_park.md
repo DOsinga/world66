@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.4476
 longitude: 30.5396
+score: 7.4
 ---
 
 A long landscaped park stretching along the high right bank of the Dnieper, behind the Mariinsky Palace and the Verkhovna Rada. Laid out in the late 19th century in the English style, it is one of the great Kyiv strolling parks: tall lime trees, a fountain, the Soviet-era People's Friendship Arch (now rebranded as the Arch of Freedom of the Ukrainian People), and broad views over the river.

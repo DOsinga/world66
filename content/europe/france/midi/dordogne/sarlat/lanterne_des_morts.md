@@ -14,6 +14,7 @@ story: >
   to feed the crowds, and that no one who ate it died during the epidemic then sweeping
   the region. A lantern was lit at the top to mark the spot. Whether any of this is true
   is unverifiable, which only adds to the tower's atmosphere.
+score: 7.0
 ---
 
 The Lanterne des Morts is a 12th-century cylindrical tower, about 15 metres high, that stands in the garden behind the cathedral. Its purpose is unknown. The most common theories are that a flame was lit at the top to guide souls of the dead, or that it served as a charnel tower where bones were stored after the surrounding graveyard reached capacity. Neither is proven.

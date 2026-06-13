@@ -6,6 +6,7 @@ longitude: 78.0427
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A Dehradun institution on Paltan Bazaar near the Clock Tower, in business since 1955. The morning queue is for chole bhature — large puffy fried bread served with chickpea curry — and the rest of the day for the sweet counter at the front: bal mithai, kalakand, motichoor laddoo.

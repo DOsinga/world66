@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.9596
 longitude: -13.5473
+score: 6.9
 ---
 
 The parish church of San Ginés sits in a small plaza just inland from the Charco. The current building was finished in 1666 with a single nave, a tall belltower, and a typical Canarian wooden roof in *mudéjar* style. The carved wooden ceiling is the principal interior feature.

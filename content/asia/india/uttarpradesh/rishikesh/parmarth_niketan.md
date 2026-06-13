@@ -13,6 +13,7 @@ story: >
   kilometres away. Parmarth became prominent later as a centre of international
   yoga tourism — in 2019 it hosted the UN Yoga Day event attended by the Indian
   prime minister, with the entire ceremony broadcast live to 190 countries.
+score: 7.8
 ---
 
 Parmarth Niketan is the largest ashram in Rishikesh, with accommodation for several hundred students and resident sadhus. It sits directly on the Ganges at one of the most atmospheric ghats in Uttarakhand — the fast cold river visible from the courtyard, the Himalayas upstream, the temple bells and incense constant throughout the day.

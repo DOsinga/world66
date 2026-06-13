@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 4.883
 longitude: 114.97
+score: 5.5
 ---
 
 The Malay Technology Museum is the most accessible of the Kota Batu museums, focusing on traditional crafts, tools, and techniques of the Malay world. Displays cover boat-building, weaving, metalwork, agricultural tools, and traditional fishing methods — the practical knowledge that sustained communities on the Brunei coast before the oil era.

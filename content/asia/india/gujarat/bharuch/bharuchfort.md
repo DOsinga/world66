@@ -13,6 +13,7 @@ story: "Ancient Bharuch — known as Bharakuccha in Sanskrit texts and Barygaza 
   The fort on the hill marks the site of the original settlement."
 snippet: Ancient hilltop fort overlooking the Narmada, site of one of India's oldest trading ports
 type: poi
+score: 8.0
 ---
 
 The fort crowns a low hill above the Narmada and was the centre of Bharuch's long life as a trading port. The ramparts and gateways that survive date mostly to the medieval period, rebuilt repeatedly by successive rulers — Hindu, Muslim, and eventually the British, who maintained a factory here from the early 17th century. The views from the fort walls over the wide Narmada estuary are excellent.

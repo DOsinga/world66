@@ -10,6 +10,7 @@ longitude: 4.3699
 snippet: "Eleven hectares of riverside gardens — French formal, English landscape, and arboretum"
 sources:
   - https://en.chalons-tourisme.com/discover/10-must-sees-in-chalons/
+score: 6.8
 ---
 
 Châlons has three linked public gardens along the Marne — collectively known as Les Jards — covering eleven hectares and offering three different garden styles within a short walk. The Petit Jard is the oldest and most formal section, with an arboretum of specimen trees; it also gives the best view of the cathedral's south flank, separated by the canal. The Grand Jard is a French-style garden with aligned chestnut and linden walks. The Jard Anglais, furthest from the centre, adopts a looser English landscape style with views across the water.

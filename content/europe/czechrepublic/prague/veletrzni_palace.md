@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Veletržní Palace
 type: poi
+score: 8.5
 ---
 
 The Veletržní Palace is the Czech National Gallery's modern art collection, housed in a vast 1920s Functionalist trade fair building in Holešovice. The building itself is remarkable — a huge atrium flooded with natural light, with galleries arranged around the open void. It influenced Le Corbusier, who visited during construction.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 27-metre statue was a gift from Indonesian president Suharto in 1996, presented as a gesture to East Timor's Catholic majority. The unspoken intent was to discourage the independence movement — three years later, the territory voted to leave anyway."
+score: 8.6
 ---
 
 Cristo Rei stands on the headland of Cape Fatucama, east of the centre, a 27-metre bronze Christ on a globe that mirrors Rio's Christ the Redeemer in pose if not in scale. The climb up is 590 steps cut into the hillside, lined with Stations of the Cross, and takes about twenty minutes at a steady pace.

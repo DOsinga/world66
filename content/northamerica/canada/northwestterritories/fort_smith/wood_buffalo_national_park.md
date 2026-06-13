@@ -13,6 +13,7 @@ snippet: Canada's largest national park, a UNESCO World Heritage Site and bison 
 story: "Wood Buffalo is the last natural nesting habitat of the whooping crane, a bird that came within 15 birds of extinction in 1941. A recovery programme begun at the park has brought the wild flock back to around 500 birds — one of conservation's great success stories."
 sources:
   - https://en.wikipedia.org/wiki/Wood_Buffalo_National_Park
+score: 9.4
 ---
 
 Wood Buffalo National Park is larger than Switzerland — 44,807 square kilometres of boreal forest, salt plains, and river delta straddling the Alberta-Northwest Territories border, with the park headquarters right in Fort Smith. It was declared a UNESCO World Heritage Site in 1983, and the designation is earned: this is one of the last places on earth where you can see everything from free-roaming wood bison (the world's largest wild herd, around 5,000 animals) to wolf packs crossing open meadows to northern lights blazing overhead.

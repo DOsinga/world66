@@ -7,6 +7,7 @@ tags:
   - cable_beach_road
 latitude: 25.0832
 longitude: -77.3666
+score: 6.8
 ---
 
 Another long-standing Arawak Cay favourite, a step or two down from Twin Brothers. The specialty is the **conch fritters** — small, peppery, served with a watery hot sauce that improves the more you use it. Stewed fish, fried snapper, peas and rice all reliable. Stronger than average drinks at the front bar.

@@ -7,6 +7,7 @@ tags:
 latitude: 47.13667
 longitude: 8.73722
 snippet: "International ski jumping venue on the edge of town"
+score: 6.0
 ---
 
 Einsiedeln has been hosting ski jumping competitions since the early 20th century, and its Grosse Schanze remains an active international venue. The FIS Ski Jumping World Cup has stopped here regularly, and on competition weekends the hill draws a crowd that feels oversized for a town this small.

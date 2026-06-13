@@ -5,6 +5,7 @@ latitude: 0.617
 longitude: 97.787
 tags: [things_to_do, sight, village, culture]
 story: The name means hill of the sun, and reaching the village still requires climbing the original stone staircase carved into the hillside more than a century ago. The chiefs' houses at the top, raised on huge ironwood pillars, were built without nails and have survived earthquakes that flattened concrete buildings on the coast.
+score: 9.0
 ---
 
 The most impressive of the Nias hill villages, perched above the coast about fourteen kilometres from Teluk Dalam. A long stone stairway climbs to a stone-paved central courtyard lined with rows of traditional houses, called omo hada, raised on massive wooden pillars with steeply sloped roofs. At the head of the courtyard stands the omo sebua, the chief's house, the largest traditional dwelling on the island.

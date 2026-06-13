@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.8018
 longitude: 15.168
+score: 8.0
 ---
 
 The Krka river defines Novo Mesto more than any building. It curls around the old town in a near-perfect horseshoe, leaving the medieval centre on a bluff above the water on three sides. The river is fast, clear, and cold even in summer, and the forested banks upstream and downstream of the town are excellent for walks.

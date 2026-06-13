@@ -10,6 +10,7 @@ latitude: 45.4981
 longitude: 13.6088
 sources:
   - https://en.wikipedia.org/wiki/Se%C4%8Da
+score: 8.3
 ---
 
 Set on the wooded peninsula of Seča just a few kilometres south of the main Portorož beach, Forma Viva is one of Slovenia's finest open-air sculpture collections and one of the more surprising cultural discoveries on this stretch of coast. The park was established in 1961 as part of a Yugoslavia-wide programme of outdoor sculpture symposia — artists from across the world were invited to work in stone, and the results remain on permanent display in a park that combines forest walking paths with sea views.

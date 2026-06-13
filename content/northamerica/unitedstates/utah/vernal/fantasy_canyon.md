@@ -8,6 +8,7 @@ latitude: 40.1778
 longitude: -109.2706
 story: >
   Fantasy Canyon is managed by the Bureau of Land Management and sees only a handful of visitors per day even in peak season. The rock formations are so delicate that some have toppled in recent decades from windstorms, and visitors are asked to stay on the marked path. The canyon sits in the middle of an active oil field, making the contrast between industrial infrastructure and bizarre natural sculpture all the more striking.
+score: 8.3
 ---
 
 Fantasy Canyon is one of the strangest landscapes in Utah — and given the competition, that is saying something. Located about 40 miles south of Vernal in the Uintah Basin, the canyon contains a dense collection of eroded sandstone formations in extraordinary shapes: spirals, arches, arching figures, and abstract forms that look like something from a science fiction film set.

@@ -9,6 +9,7 @@ tags:
 snippet: "Outdoor water park with slides and pools on the south coast"
 sources:
   - https://en.wikipedia.org/wiki/Ocean_Water_Park
+score: 5.2
 ---
 
 On the south coast of Kish, this 5.6-hectare outdoor water park draws families looking for organised beach-and-slide entertainment. The park has a wave pool, water slides of varying intensity, and standard water park attractions. It's primarily aimed at Iranian families and more popular in spring and early autumn when the heat is manageable.

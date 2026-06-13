@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Michelin-starred dining in a Belle Époque villa on the seafront."
+score: 5.9
 ---
 
 The dining room at the Castel Marie-Louise — one of La Baule's grand seafront hotels, set in a 1900 manor house — holds a Michelin star and is the most ambitious kitchen in town. Expect the kind of polished, classical French seafood cooking that the region is built on: turbot in beurre blanc, langoustines, sole meunière, all impeccably sourced.

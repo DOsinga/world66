@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 34.9743
 longitude: -90.0185
+score: 6.3
 ---
 
 Snowden Grove is Southaven's flagship park: a sprawling complex of seventeen baseball and softball diamonds, an amphitheatre, a splash pad, and miles of paved trails for walking and cycling. It hosts dozens of regional youth tournaments through the spring and summer, and on a busy Saturday it feels like the entire DeSoto County population is out somewhere on these fields.

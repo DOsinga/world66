@@ -10,6 +10,7 @@ latitude: 26.4828
 longitude: -78.5694
 story: >
   Peterson Cay is the Bahamas' smallest national park — a tiny coral island covering less than one acre, sitting less than a kilometre offshore. Despite its size, the surrounding reef supports hundreds of fish species and is one of the healthiest shallow-water coral systems near Grand Bahama. The island itself is uninhabited and undeveloped, which is essentially the entire reason it has survived intact.
+score: 7.9
 ---
 
 A tiny uninhabited coral cay about 1.5 kilometres off the south shore of Grand Bahama, Peterson Cay is surrounded by what many local dive operators consider the best snorkelling near Freeport. The reef fringing the island is shallow, clear, and accessible to swimmers without scuba gear — brain coral, star coral, gorgonian fans, and a dense population of reef fish including parrotfish, angelfish, and sergeant majors.

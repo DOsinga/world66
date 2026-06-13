@@ -8,6 +8,7 @@ tags:
 - park
 title: Tōei Kyoto Studio Park
 type: poi
+score: 5.8
 ---
 
 Tōei Kyoto Studio Park (*Tōei Uzumasa Eigamura*) is a working film studio that doubles as a theme park, on the western edge of Kyoto. The standing sets — an Edo-period townscape, a Yoshiwara-style red-light district, a working *daimyō* residence with surrounding garden — are still used regularly for jidaigeki samurai-period TV dramas and films, and on a quiet weekday you may stumble across an actual shoot in progress.

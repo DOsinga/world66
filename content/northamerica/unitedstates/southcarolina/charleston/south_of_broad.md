@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.771
 longitude: -79.936
+score: 9.1
 ---
 
 The neighbourhood south of Broad Street on the tip of the Charleston peninsula is the city's most architecturally coherent area and its most expensive address. The streets — Legare, Church, Meeting, and the lanes between them — are lined with antebellum mansions, wrought-iron gates, hidden gardens, and the "Charleston single houses" (one room wide, with the front door on the side, facing a garden porch) that are the city's most distinctive domestic form.

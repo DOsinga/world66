@@ -7,6 +7,7 @@ tags:
 latitude: 41.5150
 longitude: -82.9344
 snippet: "Some of the best freshwater fishing in North America, right off the Port Clinton docks"
+score: 7.4
 ---
 
 Port Clinton's claim as the "Walleye Capital of the World" is backed by genuine fish. Lake Erie's western basin, which Port Clinton sits on, holds one of the largest walleye populations in the world — partly because the shallow, warm western end of the lake is ideal spawning habitat, and partly because decades of management have kept the population healthy. Spring and autumn are the peak seasons; charter boat captains run multi-hour trips out of the Portage River docks daily during the season.

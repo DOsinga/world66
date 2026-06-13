@@ -13,6 +13,7 @@ story: >
   school closed in the 1990s. The building itself was constructed in 1934 by local Chinese philanthropists and combines
   Sino-Portuguese architecture with decorative Chinese motifs. Restored in 2011, it reopened as a museum with support
   from the Tourism Authority of Thailand and is now one of the most visited sites in the old town.
+score: 7.8
 ---
 
 The Thai Hua Museum occupies a meticulously restored Sino-Portuguese building on Krabi Road that served as a Chinese school from 1934 until it closed in the 1990s. The museum traces the history of Phuket's Chinese immigrant community — the Hokkien and Hakka miners, merchants, and professionals who shaped the island's culture, architecture, and cuisine from the 18th century onward.

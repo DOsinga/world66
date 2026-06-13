@@ -8,6 +8,7 @@ tags:
 latitude: 32.8663
 longitude: -117.2528
 snippet: A Scripps Institution of Oceanography aquarium with Pacific kelp forest tanks and ocean research exhibits
+score: 7.6
 ---
 
 The Birch Aquarium at Scripps sits on the La Jolla bluffs above the Pacific, operated by the Scripps Institution of Oceanography at UC San Diego. The aquarium is more research-institution than commercial attraction: the exhibits focus on Pacific Ocean ecosystems and ongoing Scripps research, with particular strength in the Hall of Fishes' kelp forest tank.

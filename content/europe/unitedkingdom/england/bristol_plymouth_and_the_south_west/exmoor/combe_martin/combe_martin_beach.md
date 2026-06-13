@@ -7,6 +7,7 @@ tags:
 - beach
 title: Combe Martin Beach
 type: poi
+score: 6.8
 ---
 
 Combe Martin Beach is a small sheltered cove at the seaward end of the village, backed by craggy headlands and a low seawall promenade. At high tide the beach is largely pebble; as the water drops it exposes a wide stretch of clean sand and a labyrinth of rock pools popular with children. The bay is well protected from prevailing westerlies, making swimming relatively gentle.

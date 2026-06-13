@@ -12,6 +12,7 @@ story: >
   Before electric lighthouses, the tower of Iglesia San Francisco served as a navigation aid for ships entering Valparaíso harbour. The church's position on the heights of Cerro Barón made its tower one of the most visible landmarks from the sea, and captains used it to orient themselves when approaching the port. It was, as far as anyone knows, the only church in Chile to serve simultaneously as a place of worship and a maritime navigation aid.
 sources:
   - https://en.wikipedia.org/wiki/Iglesia_de_San_Francisco_(Valpara%C3%ADso)
+score: 6.1
 ---
 
 The Iglesia San Francisco on Cerro Barón is one of the most distinctive churches in Valparaíso. Its tower, prominent on the hillside above the eastern port area, served in the 19th century as a navigation landmark for ships entering the bay — a practical role alongside its religious one. The church itself dates to 1845 in its current form and has a simple, solid quality that contrasts with the more ornate Catholic churches of the flat city below.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 6.3
 ---
 
 The Seaside Aquarium has been on the Promenade since 1937, making it one of the oldest aquariums in the Pacific Northwest. It is small and resolutely unglitzy — no overhead walkways or whale sharks, no corporate branding, just tanks of Pacific marine life and a outdoor harbor seal pool where you can buy a small bucket of herring and feed the seals directly. The seals are loud, enthusiastic, and completely comfortable with humans.

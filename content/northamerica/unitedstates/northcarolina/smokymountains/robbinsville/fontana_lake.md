@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 35.4446
 longitude: -83.8022
+score: 7.9
 ---
 
 Fontana Lake is one of the largest lakes in the southern Appalachians, created when the Tennessee Valley Authority built Fontana Dam during World War II to power aluminium production for the war effort. The dam itself, at 480 feet, is the tallest in the eastern United States. The lake stretches for 30 miles along the base of the Great Smoky Mountains, with the national park boundary forming most of its northern shoreline.

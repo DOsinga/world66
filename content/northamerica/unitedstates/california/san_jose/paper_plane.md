@@ -7,6 +7,7 @@ tags:
 latitude: 37.3325
 longitude: -121.8923
 sources: []
+score: 6.8
 ---
 
 Paper Plane, on South First Street next to Haberdasher (and run by the same owners), is the more casual sibling — a cocktail bar with a long bar counter, a small terrace, and a printed menu of inventive drinks that change every few weeks. The food menu is short but punches above its weight, with steak frites and a few small plates designed to absorb the cocktails.

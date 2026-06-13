@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The dragon is the totemic creature of Vietnamese culture — the country's mythological origin traces to a union between a dragon lord and a fairy — and Da Nang wanted something that would announce its post-war reinvention on the South China Sea. The bridge opened in 2013, its steel dragon body spanning 666 metres across the Han River, and immediately became the most-photographed structure in central Vietnam."
+score: 6.7
 ---
 
 The city's most dramatic piece of civil engineering: a six-lane road bridge built in the shape of a dragon, with the serpentine body forming the deck and the head — complete with scales and whiskers — cantilevering out over the east bank. At 666 metres it's one of the longest bridges in Vietnam.

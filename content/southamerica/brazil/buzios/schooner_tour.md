@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -22.7468
 longitude: -41.8820
+score: 6.6
 ---
 
 The traditional way to see Búzios from the water is a half-day schooner (saveiro) tour. Boats depart from the Orla Bardot dock throughout the morning and typically visit three or four beaches, stopping at each for swimming and snorkelling before returning in the afternoon.

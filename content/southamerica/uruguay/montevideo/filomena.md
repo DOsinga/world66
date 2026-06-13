@@ -8,6 +8,7 @@ tags:
 latitude: -34.9066
 longitude: -56.1578
 snippet: Upscale Uruguayan restaurant in Pocitos with excellent local wine list
+score: 6.2
 ---
 
 Filomena in Pocitos is one of Montevideo's better restaurants for a serious meal — Uruguayan cuisine interpreted with care, a strong local wine list (Uruguayan Tannat is genuinely worth exploring), and service that takes its time. The menu changes seasonally but typically features beef cooked with more finesse than a parrilla, plus fish and river creatures from the Río de la Plata.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 Two blocks south of Plaza Independencia, the Church and Convent of San Francisco is one of the city's most distinctive colonial-era buildings. The current church dates from the 18th century, though the Franciscan order has had a presence on the site since the city was founded in 1565. The facade is painted in deep yellow and white, with an ornate baroque centrepiece and a single bell tower that gives it a quiet, asymmetrical charm.

@@ -10,6 +10,7 @@ tags:
 address: '1000 East Grand Avenue'
 latitude: 36.7125
 longitude: -97.0725
+score: 7.2
 ---
 
 The Marland Grand Home was Ernest and Mary Marland's first house in Ponca City, completed in 1916 — a stately Italianate brick mansion that was lavish by the standards of the day but would be eclipsed by the much larger Mansion a decade later. They lived here until 1928, when they moved into the new estate, and the Grand Home then served as the headquarters of the Daughters of the American Revolution and other civic groups.

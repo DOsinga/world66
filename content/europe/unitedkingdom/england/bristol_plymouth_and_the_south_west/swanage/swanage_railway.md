@@ -8,6 +8,7 @@ latitude: 50.6102
 longitude: -1.9615
 story: >
   The Swanage branch line closed in 1972 and the track was lifted within months. A group of volunteers spent the next fifteen years buying back the trackbed yard by yard from the council and reinstating the rails — sometimes overnight, sometimes by hand. The line reopened to Corfe Castle in 1995 and through to Norden in 2002.
+score: 8.3
 ---
 
 The Swanage Railway is a six-mile heritage steam line running from Swanage station — itself a fully restored Victorian terminus — through the Purbeck Hills to Corfe Castle and the park-and-ride at Norden. The whole circuit by train and on foot makes a satisfying half-day: train out to Corfe, an hour walking around the village and the castle ruin, then the train back. The trains are mostly steam-hauled, with vintage diesels on some services.

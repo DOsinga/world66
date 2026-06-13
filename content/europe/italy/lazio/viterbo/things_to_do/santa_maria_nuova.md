@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Santa_Maria_Nuova,_Viterbo
+score: 7.3
 ---
 
 Santa Maria Nuova is the oldest surviving church in Viterbo, founded in the 11th century and built in the local Romanesque style with a distinctive carved portal. It stands on a small piazza near the centre of the old town. Despite the name ("New St Mary"), the building is older than most of the city's fabric.

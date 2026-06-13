@@ -7,6 +7,7 @@ tags:
 latitude: 34.9897
 longitude: 33.9972
 snippet: Open-air park with contemporary sculptures from international artists
+score: 7.1
 ---
 
 The Ayia Napa Sculpture Park is an open-air gallery set in pine-covered grounds near the centre of town, with over 200 contemporary sculptures from artists across Cyprus and around the world. It is an unexpectedly serious artistic endeavour in a town better known for nightclubs — the collection spans abstraction, figurative work, and installation, and has been growing since the park's establishment in 2014.

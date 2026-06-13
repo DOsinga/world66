@@ -17,6 +17,7 @@ story: >
   and décor preserved as a historical document.
 sources:
   - https://en.wikipedia.org/wiki/Independence_Palace
+score: 9.2
 ---
 
 The Reunification Palace (also called Independence Palace) is the most historically significant building in Ho Chi Minh City. Built in the 1960s as the presidential palace of South Vietnam, it was the seat of government until the moment a North Vietnamese tank crashed through its gates on 30 April 1975, ending the war.

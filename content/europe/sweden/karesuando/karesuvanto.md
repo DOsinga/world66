@@ -7,6 +7,7 @@ tags:
 latitude: 68.4492
 longitude: 22.4844
 snippet: Finnish twin town across the Muonio River, culturally identical to its Swedish neighbour
+score: 6.5
 ---
 
 The bridge across the Muonio River from Karesuando leads to Karesuvanto, the Finnish village that is in many ways the other half of the same community. The Meänkieli-speaking population on both sides of this border shares the same culture, the same history, and the same Laestadian religious heritage — the national border is a relatively modern imposition on a people whose identity predates it.

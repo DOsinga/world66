@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The Osman Shah Mosque — also known as the Kursum Mosque (from the Turkish word for "leaden", referring to its lead-covered dome) — is a former Ottoman mosque from the sixteenth century, one of the best-preserved examples of Ottoman religious architecture in Thessaly. It was built during the reign of Suleiman the Magnificent and named after a local Ottoman administrator. The dome and minaret survive largely intact.

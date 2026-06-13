@@ -7,6 +7,7 @@ tags:
   - town
 title: Port Angeles
 type: poi
+score: 7.2
 ---
 
 Port Angeles is the peninsula's main northern hub, sitting on the Strait of Juan de Fuca with the Olympic Mountains rising behind it. It is more practical than polished, which is exactly why travellers use it.

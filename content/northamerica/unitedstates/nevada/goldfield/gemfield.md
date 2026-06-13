@@ -6,6 +6,7 @@ longitude: -117.2700
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 Five or six miles north of Goldfield, a patch of low hills called the Gemfield holds one of the larger concentrations of surface chalcedony in the United States — six recognised varieties, some banded, some carnelian-coloured, all weathering out of the volcanic country rock and lying around for the picking. The claim is privately held by Gemfield Resources, but small-scale recreational collecting is generally tolerated for those who follow the posted rules.

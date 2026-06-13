@@ -7,6 +7,7 @@ tags:
   - old_town
 latitude: 62.4537
 longitude: -114.3742
+score: 5.8
 ---
 
 Ragged Ass Road is a short lane in Old Town that has become, over the years, one of Canada's most photographed street signs. The name dates to the gold rush era, when the area was a scrappy settlement of shacks and prospectors who had little to show for their efforts. The original residents chose the name themselves, with characteristic northern bluntness about their circumstances.

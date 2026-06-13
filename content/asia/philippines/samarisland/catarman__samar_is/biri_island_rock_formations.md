@@ -11,6 +11,7 @@ story: >
   The rock formations on Biri Island were sculpted by Pacific swells over millions of years. The waves arrive from the open ocean and hit the volcanic basalt with enough force that channels have been carved metres deep into the rock. At high tide some formations become navigable by bangka; at low tide the exposed geometry — arches, natural swimming pools, tidal corridors — is something close to surreal.
 sources:
   - https://en.wikipedia.org/wiki/Biri,_Northern_Samar
+score: 8.8
 ---
 
 Biri Island, about an hour northeast of Catarman by jeepney to Lavezares and a ferry crossing, contains some of the most dramatic coastal geology in the Philippines. The Pacific Ocean has spent millennia carving the island's basaltic shoreline into formations with names like Magasang, Bel-at, Abay, and Cagbalo-an — each a different expression of what happens when equatorial sea meets ancient volcanic rock.

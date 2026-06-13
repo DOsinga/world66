@@ -11,6 +11,7 @@ story: >
   George Morgan, the English jute merchant who built the house in the 1930s, is said to have never lived there — his wife refused to come to India. The story is probably apocryphal, but it fits the quality of the building, which has the feel of something built for a grander life than it ever hosted. It is now a WBTDC heritage property and one of the few surviving examples of a British jute baron's hill retreat.
 sources:
   - https://en.wikipedia.org/wiki/Morgan_House,_Kalimpong
+score: 6.8
 ---
 
 Morgan House is a colonial-era mansion built in the 1930s by a British jute merchant, set in landscaped gardens on the southern side of town. The building is in a distinctive Arts and Crafts style with half-timbering, wide verandas, and large windows — a conscious evocation of an English country house transplanted to the Himalayan foothills. It has been taken over by the West Bengal Tourism Development Corporation and operates as a heritage hotel.

@@ -14,6 +14,7 @@ story: >
   naturally bioluminescent bodies of water in the world.
 sources:
   - https://en.wikipedia.org/wiki/Glistening_Waters
+score: 8.2
 ---
 
 Glistening Waters, also known as the Luminous Lagoon, is a small body of water just east of Falmouth where millions of microscopic bioluminescent organisms light up the water at night with an eerie blue-green glow. When a hand or an oar breaks the surface, trails of cold light follow the movement; fish darting through the water leave flashing contrails behind them; a swimmer is surrounded by glowing light. It is one of the most striking natural phenomena in Jamaica.

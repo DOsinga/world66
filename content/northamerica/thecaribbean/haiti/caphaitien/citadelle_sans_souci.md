@@ -11,6 +11,7 @@ story: >
   Henri Christophe — the self-proclaimed King of Haiti who commissioned it — died before 
   it was ever attacked. He shot himself with a silver bullet in 1820 when his troops mutinied, 
   and his body is entombed in the Citadelle's walls. The fortress was never tested in battle.
+score: 9.6
 ---
 
 About an hour's drive south of Cap-Haïtien, the Citadelle Laferrière is one of the most spectacular fortifications in the Americas and, together with the ruined Sans-Souci Palace below it, forms a UNESCO World Heritage Site. The Citadelle was built by Henri Christophe, the Haitian revolutionary leader who became king, to defend the new nation against a feared French reconquest that never came. It sits on a mountain peak at 970 metres, with walls up to 40 metres high and a capacity for 5,000 soldiers.

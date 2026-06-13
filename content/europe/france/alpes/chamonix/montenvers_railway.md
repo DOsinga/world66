@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Chemin_de_fer_du_Montenvers
 story: >
   The railway opened in 1909, making the Mer de Glace accessible to tourists who had previously faced a strenuous two-hour walk. The original locomotives were electric from the start — unusually forward-thinking for the era — powered by hydroelectricity from the valley. The same basic route and technology still operates today.
+score: 8.9
 ---
 
 The Montenvers rack railway is one of the classic mountain train rides in the Alps. It departs from a dedicated station beside Chamonix's main train station and climbs steeply through pine forest to the Montenvers platform at 1,913 metres, with the Mer de Glace glacier spread out below. The journey takes about 20 minutes each way.

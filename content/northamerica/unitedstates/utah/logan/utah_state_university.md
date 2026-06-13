@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.74250
 longitude: -111.81250
+score: 6.8
 ---
 
 Utah State University occupies a campus on a bench above downtown Logan with views across the Cache Valley to the Wellsville Mountains. Founded in 1888 as an agricultural college, it is a land-grant research university of about 27,000 students. The campus architecture mixes late 19th-century collegiate buildings with mid-century modernism and newer additions.

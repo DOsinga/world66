@@ -1,6 +1,7 @@
 ---
 title: "Greenbelt Complex"
 type: poi
+score: 7.3
 ---
 
 Greenbelt is the centrepiece of the Ayala Center — a series of five interconnected mall buildings arranged around a landscaped open-air park that manages the unlikely trick of making a shopping mall feel genuinely pleasant to spend time in. Unlike the sealed, artificially lit interiors of most Philippine malls, Greenbelt's walkways are partly outdoors, shaded by mature trees, and separated from traffic. In the evenings the park fills with office workers, couples, and groups heading to dinner or a film.

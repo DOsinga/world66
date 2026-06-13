@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Freight House
 type: poi
+score: 6.9
 ---
 
 The Freight House is a restored 1888 railroad freight facility adjacent to Union Station, converted into a food hall, event space, and restaurant complex. The long brick building with its vaulted timber ceilings retains the industrial bones of its original function and provides a dramatic setting for the mix of food vendors and sit-down restaurants inside.

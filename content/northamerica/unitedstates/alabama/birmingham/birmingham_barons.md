@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Regions Field / Birmingham Barons
 type: poi
+score: 6.6
 ---
 
 The Birmingham Barons, the Double-A affiliate of the Chicago White Sox, play at Regions Field, a 8,500-seat ballpark that opened in 2013 directly adjacent to Railroad Park in downtown Birmingham. Michael Jordan played for the Barons during his 1993-94 baseball sabbatical, a period that looms surprisingly large in local memory.

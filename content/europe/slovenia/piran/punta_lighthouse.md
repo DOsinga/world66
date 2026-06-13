@@ -4,6 +4,7 @@ type: poi
 latitude: 45.5273
 longitude: 13.5664
 tags: [things_to_do, sight]
+score: 7.8
 ---
 
 Punta is the rocky tip of the Piran peninsula, the very end of the old town. A small whitewashed church, Our Lady of Health, sits on the headland next to a slender working lighthouse — together they form one of Piran's most photographed compositions, especially at sunset when the light catches the cliffs along the Adriatic coast.

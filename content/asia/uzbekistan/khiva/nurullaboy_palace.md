@@ -8,6 +8,7 @@ tags:
 title: Nurullaboy Palace
 type: poi
 snippet: "Late-Khanate palace in Dishan Kala, built in a startling Russian-European style under the last khan"
+score: 7.9
 ---
 
 The Nurullaboy Palace was built between 1906 and 1912 as the residence of the last Khan of Khiva, Isfandiyar. By that point Khiva had been a Russian protectorate for more than 30 years, and the palace shows it: the reception hall is a perfect Belle Époque salon, with parquet floors, mirrors, gilt mouldings, and a piano — built by Russian craftsmen at the khan's expense, alongside more traditional courtyards in the local Khorezmi style.

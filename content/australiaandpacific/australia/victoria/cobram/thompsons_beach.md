@@ -9,6 +9,7 @@ tags:
 - beach
 story: "Thompsons Beach is genuinely the largest inland sand beach on the Murray — over 800 metres of fine white sand built up by a slow inside curve of the river. The sand replenishes naturally each season as the river deposits new material, which is why the beach has stayed wide while many others along the river have eroded."
 snippet: "Australia's largest inland sand beach, on a slow bend of the Murray River"
+score: 8.2
 ---
 
 Thompsons Beach is the centrepiece of Cobram. The river takes a long lazy bend here and the slow water deposits a wide, gently sloping beach of pale sand — over 800 metres long, with red gums leaning out over the water at each end. In summer it could pass for a quiet coastal beach if it weren't for the gum smell and the cockatoos.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museum of Art & Photography
 type: poi
+score: 7.9
 ---
 
 The Museum of Art and Photography (MAP) opened in 2023 and is the newest major cultural institution in Bangalore. The collection runs to some 60,000 objects spanning South Asian art across several centuries — textiles, photography, decorative arts, traditional crafts, and contemporary pieces. The building, a striking contemporary structure near Cubbon Park, was designed to be the city's answer to a major international art museum, and it largely succeeds.

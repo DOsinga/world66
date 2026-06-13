@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.7867
 longitude: -62.2025
+score: 8.0
 ---
 
 Rendezvous Beach is the only white-sand beach on Montserrat — the rest are dark grey or black, the volcanic island's default. It lies on the north-west coast, hidden behind a low headland, and is reachable only by a 45-minute hike over the bluff from Little Bay or by boat from the same harbour. There is no road in.

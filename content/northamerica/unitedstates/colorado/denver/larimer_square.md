@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, lodo]
 latitude: 39.74888888888889
 longitude: -104.99861111111112
+score: 8.2
 ---
 
 A single block of Larimer Street between 14th and 15th, Larimer Square is the oldest surviving stretch of commercial Denver — built in the 1870s and 1880s after the first wave of mining money, and saved from the wrecking ball in the 1960s by activist Dana Crawford. It was the city's first historic district and the model for every "saved" warehouse district that followed.

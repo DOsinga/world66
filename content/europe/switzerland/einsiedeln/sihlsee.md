@@ -7,6 +7,7 @@ tags:
 latitude: 47.11667
 longitude: 8.78333
 snippet: "Canton Schwyz's largest lake, good for swimming and sailing"
+score: 6.6
 ---
 
 The Sihlsee sits just southeast of town, an artificial reservoir created in 1937 by damming the Sihl river. At about five kilometres long it is the largest lake in the canton of Schwyz, and in summer it functions as the local beach: swimming spots along the shore, sailing and windsurfing, and a campsite at the eastern end near Euthal.

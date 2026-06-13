@@ -10,6 +10,7 @@ story: >
 title: Willemsoord
 type: poi
 snippet: Historic naval dockyard converted into a cultural and museum complex on the waterfront
+score: 7.7
 ---
 
 Willemsoord is a large former naval base occupying a prime position on Den Helder's inner harbour. Built in the early nineteenth century, it served as the operational heart of the Royal Netherlands Navy for well over a century. Today the complex has been converted into a cultural district containing the Marinemuseum, a cinema, restaurants, and exhibition halls in the old shipyard buildings.

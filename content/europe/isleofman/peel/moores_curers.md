@@ -12,6 +12,7 @@ story: >
   oak chips for up to 16 hours — produces a flavour quite different from the artificially
   dyed, quickly smoked kippers common on the mainland. The difference is detectable immediately
   on cooking.
+score: 7.0
 ---
 
 Moore's Traditional Curers has been smoking herring at Peel since 1882, making it one of the last traditional kipper smokehouses still operating in the British Isles. The business uses traditional cold-smoking methods over oak chips, producing kippers with a distinctive flavour and pale colour that Manx aficionados insist is superior to anything produced on the mainland. You can buy kippers directly from the shop and have them vacuum-packed for travelling.

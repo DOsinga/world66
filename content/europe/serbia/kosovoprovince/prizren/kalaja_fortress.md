@@ -14,6 +14,7 @@ story: >
   catastrophe the Albanians call the "Great Migration." The fortress walls were partly
   destroyed in that episode and rebuilt by the Ottomans in the 18th century, which is why
   much of what you see today has a distinctly later character than the medieval core.
+score: 8.8
 ---
 
 The Kalaja (from Turkish *kale*, fortress) crowns the hill above Prizren and commands views over the entire city and the Sharr mountain range to the south. The climb from the old town takes about 20 minutes on a steep cobbled path through an Ottoman-era residential quarter.

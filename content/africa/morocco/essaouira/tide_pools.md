@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Broad Atlantic tide pools on the rocky coast between medina and beach
+score: 7.4
 ---
 
 At low tide the rocky shelf between the medina's sea wall and the open beach exposes an extensive system of pools, channels, and wave-cut platforms that stretch for several hundred metres. The pools hold starfish, urchins, small crabs, anemones, and the occasional octopus. Children love them; the scale is surprisingly large for a Mediterranean or Atlantic coastal city.

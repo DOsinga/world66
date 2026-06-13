@@ -9,6 +9,7 @@ story: >
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 Facing the Plaza Mayor, the Iglesia de San Juan Bautista looks modest from the outside but opens into one of Cuba's most remarkable interiors. Despite the town's small size, this is technically a cathedral — one of the oldest churches on the island. The carved wooden ceiling and the gilded high altar are the main draws; the altar in particular is extraordinary, dripping with gold leaf and surrounded by elaborate painted panels.

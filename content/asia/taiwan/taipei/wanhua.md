@@ -8,6 +8,7 @@ tags:
 neighbourhood: Wanhua
 title: Wanhua District
 type: poi
+score: 8.5
 ---
 
 Wanhua — historically "Bangka" in Hokkien — is the oldest part of Taipei: a low, dense district of old shophouses, working temples, herbal-medicine markets and snake-meat restaurants on the west side of the city. **Longshan Temple** is its religious and architectural centre; around it spread the night-time **Huaxi Street Tourist Night Market** (the old red-light district, now mostly a snack street), the surviving **Bopiliao** historic block, and the brick warren of **Qingshui Temple** lanes.

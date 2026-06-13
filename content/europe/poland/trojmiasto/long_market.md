@@ -6,6 +6,7 @@ latitude: 54.3484
 longitude: 18.6528
 story: >
   The Long Market was almost entirely destroyed in 1945 as Soviet forces took the city from German defenders. What stands today is a meticulous reconstruction, completed over decades using pre-war photographs, paintings, and archive records. The result is so convincing that it is easy to forget you are looking at buildings mostly completed in the 1950s — a testament to the determination with which the Poles reclaimed their city's identity after the war.
+score: 8.7
 ---
 
 The Long Market is the centrepiece of Gdansk's rebuilt Old Town, a long rectangular square flanked by the tall, ornate burgher houses that made the city famous during its Hanseatic heyday. At one end stands the Golden Gate; at the other, the Green Gate marks the entrance to the riverside. In the middle, Neptune's Fountain has stood since 1633. The Town Hall tower gives the best view over the rooflines from above.

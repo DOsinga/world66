@@ -7,6 +7,7 @@ snippet: "Lily-covered open cenote popular with cave divers"
 tags:
 - things_to_do
 - sight
+score: 6.5
 ---
 
 Cenote Carwash — its proper name is Aktun Ha — got its English nickname from the taxi drivers who once used the surface pool to wash their cars. Today it is one of the most popular cave-diving cenotes in the region: a shallow open pool covered in lily pads and inhabited by small turtles and freshwater fish, opening below into an extensive flooded cave system.

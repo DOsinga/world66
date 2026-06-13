@@ -6,6 +6,7 @@ longitude: -89.931
 tags:
   - things_to_do
   - ruin
+score: 5.7
 ---
 
 A Preclassic Maya site on a peninsula at the western end of Lake Peten Itza, partly unusual for its grid plan — atypical for the period and the region. Excavations since the 2000s have exposed ceremonial mounds, an aguada (artificial water reservoir), and traces of an early urban layout that predates Tikal's florescence.

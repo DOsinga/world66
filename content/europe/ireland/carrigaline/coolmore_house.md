@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.8125
 longitude: -8.3417
+score: 4.5
 ---
 
 Coolmore House is a Georgian manor house east of Carrigaline, set in parkland grounds. The house dates from the 18th century and represents the kind of Anglo-Irish landed estate that was common across County Cork before independence. The building is a good example of the restrained classical style typical of Irish Georgian architecture.

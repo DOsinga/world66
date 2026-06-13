@@ -1,6 +1,7 @@
 ---
 title: "Adventure Lodge Bars"
 type: poi
+score: 4.9
 ---
 
 The social heart of an overnight stay in Tobia is the communal terrace or rancho bar at whichever adventure lodge you are staying at. These are not bars in any polished sense — more like covered outdoor spaces with plastic furniture, a cooler stocked with beer and soft drinks, and a speaker playing vallenato or reggaeton at a level that encourages conversation rather than drowning it out. They work precisely because they do not try to be anything more than they are.

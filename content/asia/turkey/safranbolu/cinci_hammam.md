@@ -8,6 +8,7 @@ latitude: 41.2481
 longitude: 32.6858
 sources:
   - https://en.wikipedia.org/wiki/Cinci_Hammam
+score: 8.1
 ---
 
 The Cinci Hammam, built in 1645 alongside the Cinci Han caravanserai, is one of the oldest continuously operating Turkish baths in the Black Sea region. The domed hot room (sıcaklık) is built in classic Ottoman style with a central heated marble slab (göbek taşı) for massage and a ring of smaller washing cubicles (halvets) around the edges.

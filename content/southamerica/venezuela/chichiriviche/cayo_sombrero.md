@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 10.872
 longitude: -68.235
+score: 8.5
 ---
 
 The most famous of the Morrocoy cays — a small palm-fringed island with two long beaches separated by a low spine of vegetation. The water on the lee side is calm and shallow enough to wade out a hundred metres, and there are coral patches close to shore for snorkelling. It also has the only food on the cays: a handful of rustic shacks selling grilled fish, arepas, and cold beer.

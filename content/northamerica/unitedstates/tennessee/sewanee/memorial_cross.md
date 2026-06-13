@@ -8,6 +8,7 @@ latitude: 35.1974
 longitude: -85.9321
 sources:
   - https://en.wikipedia.org/wiki/Sewanee,_Tennessee
+score: 8.0
 ---
 
 A large sandstone cross erected at the edge of a bluff on the western side of the Domain, commemorating university alumni who died in the First World War. The cross itself is the destination, but the real draw is the overlook — a wide view west across the forested ridges and valleys of the Cumberland escarpment, dramatic at sunset and on clear days when the visibility extends for 20 or 30 miles.

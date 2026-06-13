@@ -11,6 +11,7 @@ story: >
   The temple was burned to the ground on 21 July 356 BC by a man named Herostratus, who confessed under torture that he did it purely to make his name immortal. The Ephesians made it a capital offence to mention his name — but Theopompus recorded it anyway, and it has been famous ever since. The same night, according to ancient tradition, Alexander the Great was born. The temple was eventually rebuilt on an even grander scale.
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Artemis
+score: 7.2
 ---
 
 One of the Seven Wonders of the Ancient World, the Temple of Artemis at Ephesus was in its final form one of the largest buildings of the ancient world — more than four times larger than the Parthenon in Athens, with 127 columns each 18 metres high. The goddess worshipped here was not quite the Greek Artemis but a local Anatolian deity associated with fertility, depicted with multiple breast-like protuberances on her torso. Her cult drew pilgrims and traders from across the Mediterranean.

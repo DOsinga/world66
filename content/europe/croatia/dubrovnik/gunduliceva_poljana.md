@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.6408
 longitude: 18.1103
+score: 6.9
 ---
 
 Gundulićeva Poljana is the principal square of the old town south of the Stradun, framed by the Cathedral, the Rector's Palace, and the Church of St. Blaise. Every morning except Sunday it hosts a produce market selling fresh fruit, vegetables, honey, lavender, olive oil, and handmade goods. This is where Dubrovnik's residents do their shopping — a genuinely local scene embedded in the most historic part of the city.

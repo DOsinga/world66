@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.0522
 longitude: -61.7507
+score: 8.1
 ---
 
 The best time to visit Market Square is Saturday morning, when vendors spread across the open space and the surrounding streets with their produce, spices, and handmade goods. The spice stalls are the reason to come: open sacks of nutmeg, mace, cinnamon, bay leaves, and dried turmeric, most of it grown on the island, sold at prices that make the airport gift shops look absurd. Nutmeg is Grenada's signature product — the island produces roughly a third of the world's supply — and here you can buy it whole, ground, or as a jar of syrup.

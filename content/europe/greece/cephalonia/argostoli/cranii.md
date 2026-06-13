@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.17296
 longitude: 20.48756
+score: 6.6
 ---
 
 Cranii was one of the four ancient city-states of Cephalonia, located just south of modern Argostoli at the head of the same bay. The ancient city flourished from the Classical through the Hellenistic period before being absorbed into the Roman province. Today sections of the ancient fortification walls — built with massive polygonal limestone blocks fitted together without mortar — are still visible on the hillside, along with the remains of chamber tombs.

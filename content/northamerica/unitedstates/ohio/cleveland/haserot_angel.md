@@ -14,6 +14,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Haserot Angel is a life-size bronze figure at the grave of Francis Haserot in Cleveland's Lake View Cemetery — a winged angel of death holding an upturned torch, her face streaked black with what looks like running mascara. The effect is the result of natural oxidation on the bronze, not design, but it has made the statue famous well beyond the Cleveland city limits.

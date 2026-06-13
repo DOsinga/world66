@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - architecture
+score: 9.5
 ---
 
 A UNESCO World Heritage Site and one of the finest examples of International Style industrial architecture anywhere in the world. Built between 1925 and 1931 as a coffee, tea, and tobacco processing plant, the Van Nelle Factory was revolutionary: vast curtain walls of glass, mushroom-shaped concrete columns, and a design that prioritised light, air, and the well-being of workers at a time when most factories were dark and oppressive.

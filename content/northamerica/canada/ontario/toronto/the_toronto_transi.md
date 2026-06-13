@@ -8,6 +8,7 @@ tags:
 title: The Toronto Transit Commission
 type: poi
 url: www.ttc.ca
+score: 4.8
 ---
 
 The TTC runs Toronto's public transit network: three subway lines, a streetcar system, and a comprehensive bus network that reaches every corner of the city.

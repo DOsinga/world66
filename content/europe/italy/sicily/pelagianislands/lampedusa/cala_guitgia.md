@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5098
 longitude: 12.6002
+score: 7.3
 ---
 
 Cala Guitgia is the most accessible beach on Lampedusa, a short walk from the town centre and the one most used by the island's permanent residents. It is a sandy cove — smaller and more sheltered than Rabbit Beach — with calm, clear water and a beach bar that stays open through the summer season. The setting is pleasant without being spectacular, and it is useful for a quick swim when you want to be close to town.

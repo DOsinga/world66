@@ -16,6 +16,7 @@ story: >
   Father Luis Jayme was killed in a Kumeyaay uprising at the mission in 1775 — the first
   Christian martyr in California — and the mission was burned. The current structure dates from
   the 1780s reconstruction.
+score: 7.5
 ---
 
 Mission San Diego de Alcalá was the first of the 21 California missions founded by the Franciscan priest Junipero Serra in July 1769. The current white-walled adobe church at the base of Mission Valley — with its five-bell campanario, the most photographed element of the California mission system — dates from reconstructions in the 1780s and 1930s. It is still an active parish church.

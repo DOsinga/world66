@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Hawker Aircraft moved much of its design and production work to nearby Kingston-upon-Thames and Dunsfold, but Basingstoke kept a research office. The jet was placed at the Thornycroft roundabout in 2002 to honour the company's local engineering links."
+score: 5.4
 ---
 
 A real Hawker Hunter jet — a Cold War-era British fighter that first flew in 1951 — sits on a steel plinth on a Basingstoke roundabout near Black Dam, pointing skyward as though about to take off. It is one of those bits of street furniture that should be incongruous but somehow works, a sleek silver arrow rising above the traffic.

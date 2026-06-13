@@ -9,6 +9,7 @@ tags:
 - sight
 title: Casa Páez
 type: poi
+score: 7.2
 ---
 
 José Antonio Páez — *llanero* horseman, hero of the cavalry charge at Carabobo, and first president of an independent Venezuela — kept this modest townhouse a few blocks from Plaza Bolívar as his official residence in Valencia. The single-storey building with a long shaded patio is a typical example of nineteenth-century criollo domestic architecture in the central llanos.

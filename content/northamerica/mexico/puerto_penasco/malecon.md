@@ -11,6 +11,7 @@ story: >
   stories are all here in the Malecón: the shrimp boats, the ice-house smells,
   and a waterfront bar that claims to have served everyone from the Duke to
   various US presidents.
+score: 7.7
 ---
 
 The Malecón is the old port district and the most authentic part of Puerto Peñasco. Where Sandy Beach has become resort territory, the Malecón still smells like the fishing town it was: shrimp boats in the harbour, stalls selling dried shrimp and fresh fish, restaurants where the menu changes with what came in on the morning boats.

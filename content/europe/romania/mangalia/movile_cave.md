@@ -9,6 +9,7 @@ longitude: 28.560556
 snippet: "Sealed cave ecosystem with life forms evolving in complete isolation for 5 million years — not open to the public, but scientifically significant"
 story: >
   Movile Cave was discovered accidentally in 1986 during groundwork for a power plant. When scientists entered, they found a completely sealed ecosystem with 48 species — 33 of them found nowhere else on earth — surviving in total darkness, in air with very little oxygen and toxic levels of hydrogen sulphide, fed entirely by chemosynthetic bacteria that generate energy from sulphur rather than sunlight. It is one of the most scientifically important biological discoveries of the 20th century.
+score: 5.1
 ---
 
 Movile Cave, a few kilometres from Mangalia, is one of the most remarkable biological sites on earth, though it is not accessible to ordinary visitors. The cave was sealed approximately 5 million years ago, and the ecosystem within has evolved in complete isolation ever since — no light, no organic matter from outside, sustained entirely by chemosynthetic bacteria that process hydrogen sulphide from the underground water.

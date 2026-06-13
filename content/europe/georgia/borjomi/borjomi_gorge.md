@@ -8,6 +8,7 @@ tags:
 latitude: 41.8481
 longitude: 43.4100
 snippet: "The pine-forested canyon of the Kura River that defines Borjomi's landscape and climate"
+score: 7.8
 ---
 
 Borjomi sits at the mouth of a dramatic gorge carved by the Kura (Mtkvari) River through the Caucasus foothills. The gorge walls rise steeply from the riverbanks, densely forested with pine, beech, and oak, and the air inside is noticeably cooler and more humid than the dry valleys to either side — one of the reasons Borjomi became a spa town in the first place.

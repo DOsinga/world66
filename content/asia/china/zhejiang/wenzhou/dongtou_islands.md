@@ -8,6 +8,7 @@ tags:
 latitude: 27.8281
 longitude: 121.1597
 snippet: "An archipelago of over 300 islands off the Wenzhou coast, connected by the world's longest cross-sea bridge"
+score: 6.9
 ---
 
 Dongtou District comprises an archipelago of over 300 islands southeast of Wenzhou, connected to the mainland by a series of bridges and causeways. The scenery is classic Zhejiang coastal — rugged rocky headlands, fishing villages, and clear water — and the area is a popular escape from the city heat in summer.

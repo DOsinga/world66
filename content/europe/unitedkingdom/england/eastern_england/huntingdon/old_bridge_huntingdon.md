@@ -10,6 +10,7 @@ story: >
   The Old Bridge was built around 1332 and has survived largely intact for nearly 700 years — an extraordinary run for a structure in active daily use. During the English Civil War, Parliamentary forces used it as a key strategic crossing, and Cromwell himself crossed it many times. It was widened slightly in the 18th century but the medieval core remains.
 sources:
   - https://en.wikipedia.org/wiki/Old_Bridge,_Huntingdon
+score: 7.4
 ---
 
 The Old Bridge connecting Huntingdon to Godmanchester across the River Great Ouse is a well-preserved medieval stone bridge dating to around 1332. Four arches span the river; the stone is warm Barnack limestone, and the parapets have the low, solid look of medieval engineering built to last. It is still in active use for road traffic, which lends it a pleasing normalcy — this is not a preserved monument but a living piece of infrastructure.

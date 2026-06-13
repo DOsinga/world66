@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.5
 ---
 
 Loango, about 25 kilometres north of Pointe-Noire, was the capital of the Kingdom of Loango and one of the most important slave-trade embarkation points on the Atlantic coast of Africa for some three hundred years. From the 16th to the 19th centuries, more than two million enslaved Africans were marched here from the interior and shipped across the Atlantic, mostly to Brazil and the French Caribbean.

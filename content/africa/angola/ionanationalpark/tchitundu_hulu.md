@@ -13,6 +13,7 @@ story: >
   their age, makers, and meanings remain uncertain. That uncertainty is part of
   the power of the place, but it also makes preservation urgent because exposed
   rock art can be damaged by erosion, animals, and careless visitors.
+score: 8.8
 ---
 
 Tchitundu-Hulu is a rock-art complex in the wider Namibe desert region, often paired with Iona routes because it sits in the same remote southern landscape. The site includes paintings and petroglyphs on and around granite outcrops, with geometric forms and animal figures that point to a much older human presence in this harsh country.

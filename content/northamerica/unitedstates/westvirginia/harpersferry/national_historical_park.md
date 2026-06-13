@@ -15,6 +15,7 @@ story: >
   Saratoga and Bataan.
 sources:
   - https://en.wikipedia.org/wiki/Harpers_Ferry_National_Historical_Park
+score: 9.2
 ---
 
 Harpers Ferry National Historical Park encompasses most of the lower town and the immediately surrounding area, managing around 3,700 acres across three states — West Virginia, Virginia, and Maryland. The park preserves the 19th-century commercial and industrial district of the original town, the ruins of the armory complex, the Civil War earthworks on the surrounding heights, and the natural landscape of the river confluence.

@@ -16,6 +16,7 @@ story: >
   All of this happened in the same buildings, on the same stages.
 sources:
   - https://en.wikipedia.org/wiki/Babelsberg_Studios
+score: 7.8
 ---
 
 Babelsberg Film Studios is the oldest large-scale film studio complex in the world, founded in 1912 and still in continuous production. Over 110 years of film history happened here: the golden age of German silent cinema, the UFA talkies, Nazi propaganda films, DEFA's remarkably subversive East German productions, and post-reunification blockbusters including parts of The Grand Budapest Hotel, The Reader, and Inglourious Basterds.

@@ -6,6 +6,7 @@ longitude: 72.8650
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 On the southern edge of the lower town lies the burial ground archaeologists know as Cemetery R-37, the largest cemetery so far excavated at Harappa. Over a hundred graves have been opened, the bodies laid out on their backs with the head to the north, accompanied by pottery vessels, bangles, and copper mirrors. The cemetery gives a rare human face to what is otherwise a city of bricks and seals.

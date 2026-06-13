@@ -8,6 +8,7 @@ longitude: -79.992055
 price: average.. fits most budgets
 title: Eating Out
 type: poi
+score: 2.5
 ---
 
 Food is quite Tasty. Make sure you have the Paneer Sashlik.

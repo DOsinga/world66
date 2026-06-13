@@ -8,6 +8,7 @@ tags:
   - landmark
 latitude: 10.6636
 longitude: -61.5189
+score: 8.7
 ---
 
 The Savannah is a 32-hectare oval green space at the north end of the city — one of the largest roundabouts in the world, technically, though nobody calls it that. It is the true heart of Port of Spain's public life: joggers and walkers circle its perimeter at dawn, cricketers take over the grass on weekends, and in the evenings a row of food stalls along the southern edge sell corn soup, oysters, and local snacks to a steady crowd.

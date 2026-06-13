@@ -9,6 +9,7 @@ latitude: 27.8217
 longitude: 113.1135
 story: >
   Emperor Yan (Shennong) is credited in Chinese mythology with tasting and cataloguing hundreds of plants to discover their medicinal and culinary properties. The legend holds that he had a transparent abdomen through which he could watch the effects of each plant on his digestion. One day he consumed a plant that cut through his intestines before he could take the antidote. The myth is the origin story of Chinese herbal medicine — a tradition that remains the primary healthcare system for a significant portion of China's rural population.
+score: 5.8
 ---
 
 The Shennong Tower rises 99 metres at the centre of the Shennongcheng Scenic Area, a complex dedicated to the mythological emperor Yan, said to have invented agriculture and herbal medicine in the region now occupied by Zhuzhou. The tower offers panoramic views of the city, the Xiang River, and the surrounding hills for ¥40; on clear days the view extends to the hills above [Changsha](/asia/china/hunan/changsha) to the north.

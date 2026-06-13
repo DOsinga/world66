@@ -16,6 +16,7 @@ tags:
 - architecture
 story: >
   In April 1671, the chef François Vatel was overseeing a three-day banquet at Chantilly for Louis XIV and two thousand guests when the fish delivery failed to arrive on the morning of the third day. Convinced that the feast would be ruined, Vatel went to his room and ran himself through with his sword. The fish arrived shortly afterwards.
+score: 9.7
 ---
 
 The château is two buildings in one: the medieval Petit Château (the Capitainerie), which dates from the 1560s and has barely changed since, and the Grand Château, which was demolished during the Revolution and rebuilt in the 1870s in Renaissance style by the architect Honoré Daumet on the original foundations. The result is surprisingly coherent.

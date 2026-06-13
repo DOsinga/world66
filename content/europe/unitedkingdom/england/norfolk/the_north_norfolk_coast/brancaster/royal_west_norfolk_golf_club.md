@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Royal West Norfolk was founded in 1892 and is effectively cut off from the rest of the world at high tide — the access road across the marsh floods, stranding anyone on the links side. This is not considered a drawback. The isolation is precisely what the club's members come for, and the course is designed to be played in coastal wind conditions that would shut down most inland courses."
+score: 6.7
 ---
 
 Royal West Norfolk Golf Club occupies a narrow strip of land between Brancaster Bay and the salt marshes, accessible via a causeway road that floods at high tide. The links course is consistently ranked among the finest in England — a true links in the original sense, built on the transition zone between the sea and the land, with no trees, uneven fairways, and the constant presence of wind off the North Sea.

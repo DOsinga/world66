@@ -9,6 +9,7 @@ latitude: 47.6747
 longitude: 11.1966
 story: >
   Gabriele Münter bought the house in 1909 and painted its furniture herself — chairs, cabinets, and cupboards covered in expressionist designs. Kandinsky, who lived here with her until their relationship ended with his departure for Russia in 1914, also painted the furniture. The pieces remained untouched when Münter returned to the house in 1931 and are still in place today, making this one of the few surviving examples of a Blaue Reiter domestic interior.
+score: 8.6
 ---
 
 The Münter-Haus on Kottmüllerallee, also known as the "Russians' House" by Murnau locals, is where Wassily Kandinsky and Gabriele Münter lived and worked during the decisive years of the Blaue Reiter movement, from 1909 to 1914. The white and blue timber house sits on a slope about 800 metres from the Schlossmuseum, overlooking the town and the Alps beyond.

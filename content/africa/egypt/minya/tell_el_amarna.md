@@ -11,6 +11,7 @@ tags:
 - sight
 - archaeological_site
 story: Akhenaten abandoned Egypt's ancient capitals in his fifth regnal year to found Akhetaten — "Horizon of the Aten" — on a virgin desert plain, dedicating the city to a single solar deity in the most radical religious reform in Egyptian history. The whole experiment lasted less than 20 years before his successors abandoned the site and tried to erase his memory. What remains is an entire ancient capital in outline, never overbuilt.
+score: 8.8
 ---
 
 Tell el-Amarna is the site of the short-lived capital Akhetaten, built around 1346 BC by the pharaoh Akhenaten as the centre of his new monotheistic cult of the Aten. After his death the city was abandoned and the religious revolution reversed, leaving the site as a unique archaeological record of a single moment in Egyptian history.

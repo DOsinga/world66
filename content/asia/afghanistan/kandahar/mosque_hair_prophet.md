@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.6137
 longitude: 65.7105
+score: 7.8
 ---
 
 Near the old Kabul Bazaar stands the Jame Mui Mobarak — the Mosque of the Hair of the Prophet — which claims to house a hair from the beard of Muhammad. Like the Khirqa Sharif, it is a pilgrimage destination of considerable importance in the Pashtun belt. The mosque itself is a functioning place of worship; non-Muslim visitors should observe the conventions of the area.

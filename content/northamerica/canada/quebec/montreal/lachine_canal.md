@@ -10,6 +10,7 @@ tags:
 snippet: The historic industrial canal now transformed into a cycling and walking greenway
 sources:
   - https://en.wikipedia.org/wiki/Lachine_Canal
+score: 8.2
 ---
 
 The Canal de Lachine was built in 1825 to bypass the Lachine Rapids on the St. Lawrence — for over a century it was the industrial artery that powered Montreal's manufacturing growth, surrounded by textile mills, flour mills, and eventually the factories that made Canada's agricultural machinery. The canal closed to commercial traffic in 1970 and reopened as a National Historic Site in 2002, transformed into a 14-kilometre cycling and walking path from the Old Port to the town of Lachine.

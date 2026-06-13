@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.9
 ---
 
 The Jardin Anglais is the main public garden on the right bank of the Rhône, running along the lakefront between the Pont du Mont-Blanc and the Eaux-Vives quarter. It was laid out in the 1850s in the English landscape style (hence the name), and now serves mainly as a transit point and photo stop for the Horloge Fleurie (Flower Clock) embedded in its lawn.

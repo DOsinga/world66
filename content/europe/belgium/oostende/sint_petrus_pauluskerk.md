@@ -7,6 +7,7 @@ tags:
   - sight
   - architecture
 type: poi
+score: 6.8
 ---
 
 The Sint-Petrus-en-Pauluskerk (Church of Saint Peter and Saint Paul) is the main Catholic church of Ostend, a late Gothic Revival structure built in the late 19th century to replace an earlier church destroyed in a fire. The towering brick neo-Gothic exterior dominates the townscape a few blocks from the seafront, and the interior is spacious and well-lit with stained glass.

@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: "Vast 16th-century basilica on the Prato della Valle, with the tomb of St Luke and a Veronese altarpiece"
+score: 7.7
 ---
 
 The Basilica di Santa Giustina, on the south side of the Prato della Valle, is one of the largest churches in Italy by floor area — a long, brick-faced sixteenth-century basilica with eight domes and a quiet, almost austere interior. It is the seat of an ancient Benedictine community and the resting place of several important early Christian relics, including those traditionally identified as **St Luke the Evangelist**.

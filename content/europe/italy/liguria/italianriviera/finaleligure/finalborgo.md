@@ -11,6 +11,7 @@ story: >
   Finalborgo was the capital of the independent Marquisate of Finale, a small state that resisted both Genoa and the Duchy of Savoy for centuries. The Genoese finally captured it in 1713, and in an act of revenge against the town's stubborn resistance, systematically dismantled its fortifications — which is why the walls are incomplete today.
 sources:
   - https://en.wikipedia.org/wiki/Marquisate_of_Finale
+score: 9.2
 ---
 
 Finalborgo is a perfectly preserved medieval walled village about two kilometres inland from the beach, consistently listed among the most beautiful villages in Italy. The circuit of 15th-century walls — crumbling in places, repaired in others — encloses a tight grid of cobbled lanes, piazzas, arcaded streets, and medieval and Baroque palaces in warm ochre and terracotta.

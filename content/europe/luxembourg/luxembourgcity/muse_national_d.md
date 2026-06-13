@@ -15,6 +15,7 @@ neighbourhood: Grund
 title: Musée national d'histoire naturelle
 type: poi
 url: www.mnhn.lu
+score: 6.8
 ---
 
 The national natural history museum, set in the Grund neighbourhood at the foot of the old town cliffs. It runs a permanent exhibition on Luxembourg's geology, flora, and fauna, as well as a lively programme of temporary shows. A good stop if you're already exploring the Alzette valley below.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.7807
 longitude: -80.1299
+score: 6.9
 ---
 
 Lummus Park is the long strip of green that separates Ocean Drive from the sand in the heart of South Beach — the park that makes the famous stretch work as a public space rather than just a row of hotels. The park runs from about 5th Street to 14th Street and provides shade, volleyball courts, outdoor gym equipment, and the only significant trees along this stretch of beach. It is genuinely well-used by locals for exercise and relaxation, particularly in the early morning before the tourists arrive.

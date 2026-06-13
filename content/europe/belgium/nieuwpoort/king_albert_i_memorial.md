@@ -9,6 +9,7 @@ latitude: 51.1361
 longitude: 2.7556
 story: >
   King Albert I personally led the Belgian army that held the IJzer line in 1914, refusing to leave Belgian soil even as nearly the entire country fell. The monument sits beside the lock complex he ordered flooded — the engineering act that stopped the German advance and saved the last strip of free Belgium.
+score: 7.8
 ---
 
 A vast circular colonnade of red brick rises beside the Ganzepoot, the fan-shaped junction of canals and locks where the IJzer meets the sea. An equestrian statue of King Albert I stands at the centre. The monument was completed in 1938 and is one of the most recognisable First World War memorials on the Belgian coast.

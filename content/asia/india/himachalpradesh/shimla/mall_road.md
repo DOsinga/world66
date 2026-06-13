@@ -8,6 +8,7 @@ latitude: 31.105
 longitude: 77.172
 story: >
   Vehicles are banned from Mall Road and the Ridge — a restriction that dates to the British period, when the Viceroy's peace was not to be disturbed by motor traffic. The pedestrianised promenade is the reason Shimla's centre still feels walkable and human-scaled in a way that most Indian hill stations have long since abandoned to concrete and cars. The ban is enforced, mostly.
+score: 8.9
 ---
 
 Mall Road is Shimla's central promenade — a pedestrianised street running east to west along the main ridge of the town, lined with colonial-era buildings, tea shops, bookstores, Tibetan handicraft stalls, and the offices of government departments that have occupied the same buildings since the British used them. The Road connects to the Ridge at its eastern end, a broad open space where the town's main public gatherings happen and where Christ Church and the bandstand mark the colonial skyline.

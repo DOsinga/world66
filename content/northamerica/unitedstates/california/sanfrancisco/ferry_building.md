@@ -10,6 +10,7 @@ tags:
 - sight
 title: Ferry Building
 type: poi
+score: 8.5
 ---
 
 The Ferry Building is San Francisco's great food hall, housed in a beautifully restored 1898 Beaux-Arts terminal with a 245-foot clock tower modeled on the Giralda in Seville. The ground floor is lined with about fifty artisan food vendors -- Cowgirl Creamery cheeses, Acme bread, Blue Bottle coffee, Hog Island oysters shucked to order, and much more.

@@ -8,6 +8,7 @@ tags:
 title: Kukara Macara
 type: poi
 snippet: Texan-themed grill near the Monumento, popular with locals for a long evening out
+score: 5.2
 ---
 
 Kukara Macara is the unlikely top sit-down restaurant on the Monumento end of the Calle del Sol — a Texan-themed steakhouse with saddle-and-spurs decor, decent ribs, and Dominican-sized portions of mofongo, longaniza, and grilled meats. It looks like a tourist trap but is mostly packed with locals.

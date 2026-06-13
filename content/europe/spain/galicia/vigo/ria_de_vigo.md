@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 42.2500
 longitude: -8.7500
 story: "The Battle of Vigo Bay was fought in October 1702, when an Anglo-Dutch fleet attacked a Spanish treasure fleet sheltering in the ría with a French naval escort. The Spanish burned their own ships rather than let the treasure fall to the enemy — but legend has it that not all the silver and gold was destroyed. Jules Verne set an underwater treasure hunt in the ría in *Twenty Thousand Leagues Under the Sea*, and occasional claims of finding sunken bullion continue to this day."
+score: 8.4
 ---
 
 The Ría de Vigo is one of the four Rías Baixas (Lower Estuaries) that define the coastline of southern Galicia — a long, fjord-like inlet that cuts deep into the land and creates the sheltered waters that have made Vigo a great port since Roman times. The ría is 33 km long and up to 10 km wide, fringed by towns, beaches, mussel platforms, and oyster beds.

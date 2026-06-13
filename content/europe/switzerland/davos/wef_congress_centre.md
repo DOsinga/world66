@@ -8,6 +8,7 @@ latitude: 46.8007
 longitude: 9.8314
 story: >
   Every January since 1971, Davos transforms for a week into the most densely secured square kilometre in the world as the World Economic Forum convenes. The Swiss army closes the valley, snipers appear on rooftops, and traffic is banned on the Promenade while world leaders, CEOs, and celebrities move between armoured convoys. The locals mostly roll their eyes and cash the parking and catering fees.
+score: 5.2
 ---
 
 The Davos Congress Centre, a large convention facility on the Promenade, is the headquarters of the annual World Economic Forum — the gathering of global business and political leaders that has made "Davos" a metonym for elite global power since the 1970s. Outside of Forum week (late January), it functions as a regular conference centre and concert venue.

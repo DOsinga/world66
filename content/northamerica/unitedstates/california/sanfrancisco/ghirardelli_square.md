@@ -10,6 +10,7 @@ tags:
 title: Ghirardelli Square
 type: poi
 story: "When the Ghirardelli Chocolate Company moved out in the 1960s, the building was slated for demolition. William Roth and his mother bought it and hired Lawrence Halprin to convert it into shops and restaurants -- the first major adaptive reuse project in the United States."
+score: 6.7
 ---
 
 Ghirardelli Square is a converted chocolate factory on the waterfront near Fisherman's Wharf. The brick buildings date to the 1890s, when Domenico Ghirardelli moved his chocolate company here, and the clock tower is a San Francisco landmark. The company moved out in the 1960s, and the complex was converted into shops and restaurants -- a pioneering adaptive reuse project that has since been copied worldwide.

@@ -1,6 +1,7 @@
 ---
 latitude: 40.4344
 longitude: -3.7036
+score: 8.3
 story: When Madrid widened its metro trains in 1966, the curved platforms of Chamberí
   could not be extended without rebuilding the tunnels, so the station was simply
   closed. Trains kept passing through for the next forty years to a darkened, sealed
@@ -10,8 +11,6 @@ tags:
 - things_to_do
 - sight
 - chamberi_barrio
-title: Chamberí Ghost Station
-type: poi
 ---
 
 A perfectly preserved 1919 station of the original Madrid metro, closed in 1966 because the curved platforms could not be lengthened for longer trains. The station was sealed and forgotten for four decades — and then, in 2008, restored exactly as it had been left and reopened as a small museum-platform called the **Andén 0**.

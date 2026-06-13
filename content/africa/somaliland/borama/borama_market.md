@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - market
+score: 6.8
 ---
 
 The central market is the busiest part of Borama on a weekday morning and the natural orientation point for a visit. Vegetables and produce come down from the surrounding highlands; manufactured goods are mostly trucked in from across the Ethiopian border, twenty kilometres away. The result is a mix of locally grown khat, sacks of imported sugar and rice, plastic basins, and Ethiopian coffee.

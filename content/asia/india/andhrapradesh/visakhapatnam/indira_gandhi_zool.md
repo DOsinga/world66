@@ -7,6 +7,7 @@ tags:
   - wildlife
 title: Indira Gandhi Zoological Park
 type: poi
+score: 6.8
 ---
 
 The Indira Gandhi Zoological Park spreads across 625 acres in the Eastern Ghats, backed on three sides by forested hillsides and facing the Bay of Bengal on the fourth. It is one of the larger zoos in India and holds around 80 species including tigers, leopards, sloth bears, and a notable collection of birds.

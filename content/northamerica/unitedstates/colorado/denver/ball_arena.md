@@ -4,6 +4,7 @@ type: poi
 tags: [sight]
 latitude: 39.7487
 longitude: -105.0077
+score: 5.8
 ---
 
 The downtown arena (formerly Pepsi Center) hosts the Denver Nuggets (NBA), Colorado Avalanche (NHL), and Colorado Mammoth (NLL), plus most of the major concerts that pass through. It sits next to the South Platte just west of LoDo, with light rail and the free MallRide both close by.

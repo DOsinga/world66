@@ -10,6 +10,7 @@ longitude: 21.8560
 snippet: One of North Africa's great Greek and Roman city sites
 story: >
   Cyrene was founded by Greek settlers from Thera in the 7th century BC and became famous across the classical world for silphium, a now-extinct plant used as food, medicine, and seasoning. Ancient coins from Cyrene often show the plant, which was valuable enough to become a civic emblem.
+score: 9.7
 ---
 
 Cyrene is the great prize of Shahhat: a Greek colony that became a wealthy Roman city, spread across a ridge in the Jebel Akhdar. The site is large enough that you should think of it as a landscape rather than a single ruin.

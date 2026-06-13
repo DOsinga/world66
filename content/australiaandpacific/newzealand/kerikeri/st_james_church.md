@@ -16,6 +16,7 @@ story: >
   current, much smaller building in 1878.
 sources:
   - https://en.wikipedia.org/wiki/St_James%27_Church,_Kerikeri
+score: 7.3
 ---
 
 St James' Church is a small Gothic Revival building constructed in 1878 from native kauri timber, replacing an earlier chapel from 1829 that had stood on the same site. It sits within the Kerikeri Basin heritage precinct, forming the third building in the cluster that includes the Stone Store and Kemp House. The church was designed by Marsden Clarke in a Latin cross plan and remains an active Anglican parish church.

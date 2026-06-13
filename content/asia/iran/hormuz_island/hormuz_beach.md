@@ -7,6 +7,7 @@ tags:
 latitude: 27.0900
 longitude: 56.4600
 snippet: "Vivid mineral-coloured beaches on the south shore, shimmering with red and purple soil"
+score: 7.9
 ---
 
 The beaches on the southern shore of Hormuz are some of the most visually striking in Iran — the red and ochre mineral soils wash down to the water's edge and stain the shoreline in warm colours quite unlike any ordinary beach. The water is calm on the south side of the island, sheltered from the open Gulf, and in the right light the combination of red shore, turquoise water, and bare mineral cliffs behind is genuinely spectacular.

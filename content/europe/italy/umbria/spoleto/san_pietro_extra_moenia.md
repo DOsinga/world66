@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7268
 longitude: 12.7378
+score: 7.9
 ---
 
 San Pietro extra moenia stands below the town walls, accessible by the road south of the Ponte delle Torri or by the path through the gorge. The church's exterior is its great treasure: a 12th-century Romanesque facade covered in sculpted reliefs depicting scenes from the life of Saint Peter alongside allegorical and moral tales — lions, deer, serpents, monks, and eagles carved with a directness and energy that later Gothic and Renaissance sculpture sometimes lost.

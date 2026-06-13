@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Oranjemolen is a 17th-century brick windmill standing on the dike at the eastern end of Vlissingen, looking across the harbour entrance. It is the last of several mills that once topped the city's fortifications and one of the more photogenic landmarks of the town.

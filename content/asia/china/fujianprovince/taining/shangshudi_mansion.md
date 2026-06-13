@@ -17,6 +17,7 @@ story: >
   since skilled craftsmen were cheaper in Fujian than almost anywhere in China.
   The mansion survived the subsequent four centuries largely intact — unusual for
   a private residence this size.
+score: 6.2
 ---
 
 Shangshudi Mansion in Taining town is the largest preserved Ming dynasty residential complex in Fujian: 120 rooms across five linked courtyards, built by a retired imperial official over a period of nearly thirty years at the turn of the 17th century. The compound's scale gives a clear sense of how prosperous local gentry lived in the late Ming period — not in the formal grandeur of a palace but in an elaborate domestic comfort, with separate spaces for different functions, private gardens, and a level of carved and painted decoration throughout that would not look out of place in a major temple.

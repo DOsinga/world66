@@ -8,6 +8,7 @@ snippet: 'Riverside terrace with one of the best views on the Thames'
 tags:
 - bars_and_cafes
 - bar
+score: 5.8
 ---
 
 The Compleat Angler is a grand riverside hotel right beside Marlow Bridge, and while the rooms are expensive, you do not need to stay to enjoy the best part: the terrace bar overlooking the weir and the river. On a summer afternoon, with the water rushing over the weir and boats passing through the lock downstream, it is hard to beat as a spot for a drink.

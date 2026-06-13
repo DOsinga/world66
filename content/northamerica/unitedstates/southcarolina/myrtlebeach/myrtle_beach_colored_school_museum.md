@@ -13,6 +13,7 @@ story: >
   converted it into a museum. The building itself — separate, smaller, and less well-
   equipped than the white school — physically demonstrates what "separate but equal" 
   actually meant in practice.
+score: 7.7
 ---
 
 The Myrtle Beach Colored School Museum, housed in the restored segregation-era school building, is a small but significant museum documenting life in the Black community of Myrtle Beach during the Jim Crow era. The collection includes photographs, school records, and artifacts from the school's operational years (1937–1954), along with oral history recordings from former students and teachers.

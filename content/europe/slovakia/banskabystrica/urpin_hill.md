@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7253
 longitude: 19.1411
+score: 6.8
 ---
 
 Urpín is a forested hill rising 440 metres above sea level on the southern edge of the city, about 2 km from the main square. It offers the easiest green escape from Banská Bystrica, with walking paths through mixed forest leading to a viewpoint at the top with panoramas over the city and the surrounding mountain ranges — the Low Tatras to the south, the Veľká Fatra to the north.

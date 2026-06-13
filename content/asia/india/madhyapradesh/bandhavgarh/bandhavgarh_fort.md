@@ -13,6 +13,7 @@ story: >
   and horsemen — making this one of the oldest continuously inhabited sites
   in central India. The Mauryan, Vakataka, and Baghel dynasties all left
   traces in the rock.
+score: 8.2
 ---
 
 Perched on a steep cliff at 800 metres inside the Tala zone, the Bandhavgarh fort is believed to be around 2,000 years old. The fort is now ruined, but the approach — through dense sal forest with a good chance of encountering the park's wildlife en route — is part of the experience. The structure once held a treasury, palace, prison, temples, and a school; much of it is collapsed, but the scale of the original complex is still legible.

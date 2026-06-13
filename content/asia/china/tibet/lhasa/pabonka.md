@@ -10,6 +10,7 @@ title: Pabonka Hermitage
 type: poi
 story: >
   Tradition holds that the scholar-minister Thonmi Sambhota retired to a cave at Pabonka in the 7th century to devise the Tibetan alphabet, adapting an Indian script for the sounds of his own language. The alphabet he created has been used continuously ever since — every Tibetan prayer flag is written in it.
+score: 7.9
 ---
 
 Pabonka sits seven kilometres north of central Lhasa, on a rocky outcrop above the village of Nyangrain. It is one of the oldest religious sites in the Lhasa valley — pre-dating both the Potala and the Jokhang — and is built around an enormous granite boulder said to resemble a turtle. The first temple here was raised by King Songtsen Gampo in the 7th century, and the early Tibetan kings are said to have stayed in retreat at the site.

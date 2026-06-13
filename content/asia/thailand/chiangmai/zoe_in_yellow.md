@@ -6,6 +6,7 @@ tags:
 - bar
 title: Zoe in Yellow
 type: poi
+score: 4.5
 ---
 
 Zoe in Yellow occupies a corner of the old city's main bar area, near Ratchaphakhinai Road, and has been drawing backpackers and budget travellers for years. It's an open-air affair: plastic chairs, cheap beers, local bands playing everything from reggae to Thai pop, and a convivial chaos most evenings from about 9pm.

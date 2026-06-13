@@ -8,6 +8,7 @@ tags:
 title: Downtown Moncton
 type: poi
 snippet: Walkable Main Street strip with restaurants, bars, and the riverfront
+score: 6.9
 ---
 
 Downtown Moncton is a compact, walkable strip of restaurants, cafes, pubs, and a few boutiques running for several blocks along Main Street between Lutz Street and the river. It is the most pleasant part of the city to spend an evening, particularly in summer when the patios spill onto the sidewalks.

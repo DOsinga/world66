@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.0471
 longitude: -8.645
+score: 8.1
 ---
 
 Tui's old town climbs the hill from the river to the cathedral, a compact maze of steep narrow streets, granite houses, carved doorways, and small plazas. Much of the medieval street pattern survives intact, and the hilltop position — with views in every direction — makes it easy to understand why this was a fortified town for centuries. The old town is small enough to cover on foot in an hour, but worth taking slowly.

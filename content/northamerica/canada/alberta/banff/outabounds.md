@@ -10,6 +10,7 @@ tags:
 - bar
 title: HooDoos
 type: poi
+score: 4.8
 ---
 
 One of Banff's go-to spots for late-night drinks and dancing, right on the main drag at 137 Banff Avenue. The vibe is casual apres-ski energy most nights, with DJs spinning on weekends. It draws a young, seasonal-worker crowd and gets loud after 11pm.

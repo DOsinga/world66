@@ -8,6 +8,7 @@ tags:
 snippet: Colonial-era station with intricate detailing, still the main rail hub
 latitude: -6.9142
 longitude: 107.6025
+score: 7.6
 ---
 
 Bandung's main station — known locally as Stasiun Hall — is a working slice of Dutch East Indies engineering, opened in 1884 and substantially rebuilt in 1928 in a refined Art Deco style. The south building retains its colonial-era details: tiled floors, painted iron columns, and the original ticket windows. The Argo Parahyangan train to Jakarta departs from here several times a day, and the platforms make for unexpectedly photogenic wandering — particularly the curved canopy on platform one.

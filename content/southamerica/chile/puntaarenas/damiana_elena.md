@@ -6,6 +6,7 @@ longitude: -70.9061
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 A small, slightly old-fashioned restaurant in a corner house north of the centre, **Damiana Elena** has been run by the same family for years and is where locals tend to take visiting in-laws. The dining room is warm and softly lit, the staff have known each other forever, and the food is reliably good without being showy.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - wildlife
+score: 8.2
 ---
 
 The bolongs — tidal creeks and mangrove channels — that run through the Casamance estuary around Cap Skirring are best explored by pirogue, the long wooden canoes that local fishermen use for everything from fishing to ferrying passengers between villages. A guide with a pirogue can take you through narrow channels where the mangrove roots form arching tunnels over the water, past egrets and herons standing in the shallows, and out to small Diola villages that are inaccessible by road. The trips are typically two to four hours and can be arranged through your hotel or directly with pirogue operators at the beach.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 8.9480
 longitude: 125.5432
+score: 8.2
 ---
 
 The Butuan branch of the National Museum holds a significant collection of artefacts from the Agusan River delta — the richest archaeological zone in the Philippines outside Luzon. The collection includes gold jewellery, Chinese trade ceramics, and other objects recovered from burial sites and excavations in the area, dating from roughly the 9th to 16th centuries when Butuan was a major trading port.

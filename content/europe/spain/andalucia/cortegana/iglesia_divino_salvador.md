@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Iglesia del Divino Salvador
 type: poi
+score: 7.0
 ---
 
 The parish church of the Divino Salvador stands in the centre of Cortegana and is one of the finest buildings in the sierra. It dates from the 14th century and combines Gothic-Mudejar elements — a style that blends the pointed arches of Gothic architecture with the geometric ornament and tilework of Mudejar craftsmen, characteristic of the border zone between Christian and Moorish Spain.

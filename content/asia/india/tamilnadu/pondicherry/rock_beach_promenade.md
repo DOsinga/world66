@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.9334
 longitude: 79.8362
+score: 7.8
 ---
 
 The Rock Beach promenade — officially Goubert Salai — runs for about 1.5 km along the Bay of Bengal at the eastern edge of the French Quarter. It is one of the few seafront promenades in south India that genuinely invites walking: broad, paved, and bordered by the sea on one side and colonial buildings on the other. The Gandhi statue at the northern end is a landmark, and the old lighthouse nearby still functions.

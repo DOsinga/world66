@@ -10,6 +10,7 @@ tags:
 title: Le Banyan
 type: poi
 url: www.le-banyan.com
+score: 5.6
 ---
 
 A Bangkok institution that has been serving classical French cooking since 1992. The setting is a restored colonial house with tropical garden — ceiling fans, teak floors, candles — which feels genuinely old Bangkok rather than designed. The menu runs to duck confit, rack of lamb, and a serious wine list, with prices that feel like good value compared to comparable restaurants in Paris. Reservations recommended, especially on weekends.

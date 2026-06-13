@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "A quiet valley walk along the Wesenitz river, just east of Pirna"
+score: 6.6
 ---
 
 The Liebethaler Grund is a narrow valley carved by the Wesenitz river into the sandstone hills east of Pirna. It's a far less crowded alternative to the main Saxon Switzerland trails, and the better for it: a shaded gorge walk through beech and oak forest, with the river close beside the path, occasional mill ruins, and the sound of nothing much beyond water and birds.

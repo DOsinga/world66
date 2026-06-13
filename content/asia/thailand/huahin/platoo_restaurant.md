@@ -10,6 +10,7 @@ tags:
 title: Platoo Restaurant
 type: poi
 url: www.platoorestaurant.com
+score: 5.0
 ---
 
 **One of the best delicious on the

@@ -9,6 +9,7 @@ tags:
 - sight
 title: Canal Punt Tours
 type: poi
+score: 9.2
 ---
 
 The defining experience of the Spreewald. Traditional flat-bottomed Kahn boats are poled through narrow channels by a gondolier with a long wooden stick — a form of transport unchanged for centuries. Departures run from the Kahnhafen (boat harbour) in Lübbenau, just off the market square, and from Lübben's harbour on the edge of town.

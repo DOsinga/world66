@@ -8,6 +8,7 @@ latitude: 39.9529
 longitude: -75.1577
 snippet: "The oldest continuously operating bar in Philadelphia, open since 1860 and hidden in an alley behind Center City"
 story: "McGillin's survived Prohibition by operating as a pharmacy. The original owner's portrait hangs above the bar, and family members still run the place."
+score: 7.1
 ---
 
 McGillin's Olde Ale House has been open continuously since 1860, making it the oldest operating bar in Philadelphia — a claim it makes without apparent exaggeration. The building is on Drury Street, a narrow alley threading behind the theaters of Midtown Village that many Philadelphians have never found, which gives the bar a hidden quality that its fame makes slightly absurd. The interior is a classic American wooden tavern: long bar, low ceilings, walls covered with breweriana and old photographs, and a long tap list of rotating American craft beers alongside the standards.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.7281
 longitude: 24.4948
+score: 6.3
 ---
 
 Aragosta is a well-regarded taverna in Plaka serving straightforwardly excellent traditional Greek food with the kind of view that makes a meal memorable regardless of what ends up on the table. The terrace looks westward over the island's coastline and the bay below, and in the evening the light over the sea is about as good as dining backdrop gets in the Cyclades. The menu stays close to tradition: fresh fish priced by the kilo, grilled octopus, calamari, and the local pitarakia cheese pies that should be ordered as a matter of course.

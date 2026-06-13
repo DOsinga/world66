@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Hogback Bridge
 type: poi
+score: 6.7
 ---
 
 A 97-foot pine bridge built in 1884, named for the Hogback Ridge to the west, and one of the few of the six still standing on its original abutments over the North River. The setting — a narrow gravel road, cornfields on either side — is what visitors imagine when they think of a Madison County bridge.

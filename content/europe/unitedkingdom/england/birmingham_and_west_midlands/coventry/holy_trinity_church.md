@@ -13,6 +13,7 @@ tags:
   - sight
 title: Holy Trinity Church
 type: poi
+score: 8.3
 ---
 
 Immediately north of the ruined cathedral, Holy Trinity has been the parish church of central Coventry since the 12th century and is one of the few medieval buildings to have survived the Blitz largely intact. Its spire — at 237 feet, the third tallest in England — has been a city landmark for centuries. Inside, the scale of the building is impressive: the nave is broad and light, with generous clerestory windows, and the stone piers give it a calm, unhurried quality that is welcome after the drama of the cathedral complex next door.

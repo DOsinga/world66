@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 6.7600
 longitude: -11.3680
+score: 7.3
 ---
 
 Fisherman's Point is the most accessible and beginner-friendly of Robertsport's surf breaks — a long, gentle right-hander that breaks over a sandy bottom just off the small fishing beach in town. The wave is mellower and slower than Cottons Point, and is the standard place to take a first lesson or to log easy waves on a softboard.

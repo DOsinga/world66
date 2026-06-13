@@ -8,6 +8,7 @@ phone: "520-628-5798"
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Catalina State Park covers 5,500 acres at the foot of the Santa Catalina Mountains on Tucson's far northern edge. The cactus forest is dense — nearly 5,000 saguaros — and the trails range from easy nature loops to the strenuous climb to Romero Pools, a series of natural rock pools deep in the canyon that hold water after winter rains.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 6.7800
 longitude: -11.3730
+score: 8.6
 ---
 
 Cape Mount is the wooded ridge that rises 320 m above the sea behind Robertsport, the most prominent landmark on the entire Liberian coast and visible far out to sea. The cape gave the surrounding county its name, and the climb to the summit is the standard "thing to do" for visitors who are not surfing.

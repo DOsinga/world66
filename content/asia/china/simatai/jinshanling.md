@@ -13,6 +13,7 @@ story: >
   open ridgelines with views into Inner Mongolia, and ends at a cable car that
   takes you back down — or you can turn around and walk back. Most people end
   up staying longer than they planned.
+score: 8.9
 ---
 
 Jinshanling is the western neighbour of Simatai, separated by about 10 kilometres of wall along the ridge. Unlike Simatai, Jinshanling is in Hebei Province rather than the Beijing municipality — the administrative boundary runs roughly along the ridge. The section here has been partially restored, but more tastefully than most: enough to make it walkable, not so much that it loses its character.

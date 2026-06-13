@@ -1,6 +1,7 @@
 ---
 title: "The Old Town Walls"
 type: poi
+score: 8.9
 ---
 
 Rothenburg's medieval walls are among the most complete in Germany — a full circuit of defensive ramparts enclosing the old town, punctuated by gates, towers, and timber-roofed walkways that have survived largely intact since the fourteenth and fifteenth centuries. You can access the covered walkway atop the walls at multiple points around the town, and the full circuit takes roughly an hour at an easy pace. The walkway is covered for most of its length, which means it is walkable in rain, and the views out over the surrounding landscape and back down into the tiled rooftops are excellent from every section.

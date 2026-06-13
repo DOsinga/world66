@@ -13,6 +13,7 @@ story: >
   Royal Geographical Society could not afford to keep her, and she spent
   thirty years as a cargo carrier in the Hudson's Bay Company fleet before
   the city of Dundee bought her back.
+score: 8.6
 ---
 
 RRS Discovery is the wooden three-masted barque that carried Robert Falcon Scott and Ernest Shackleton on the British National Antarctic Expedition of 1901–1904 — the first British expedition to overwinter in Antarctica. The ship was built in Dundee in 1901, the city then being the world centre of whaling shipwrights' know-how, and returned to her birthplace in 1986 after careers as a Royal Navy training ship and Sea Scout vessel.

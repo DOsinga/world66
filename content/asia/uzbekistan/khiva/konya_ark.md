@@ -15,6 +15,7 @@ story: >
   watchtower at the western corner, the Ak Sheikh Bobo, is the highest
   accessible point inside the walls, with a stairway worn shiny by 300 years
   of feet.
+score: 8.6
 ---
 
 The Kunya Ark is the older of Khiva's two royal complexes, an irregular cluster of mosques, throne rooms, mint, harem, and stables tucked into the north-west corner of Itchan Kala against the city walls. The summer mosque, with a porch of two slender wooden columns and walls completely tiled in blue and white majolica, is the architectural high point.

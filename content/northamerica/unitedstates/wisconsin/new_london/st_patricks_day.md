@@ -11,6 +11,7 @@ story: >
   as a way to boost the economy during the slow early spring weeks. 
   What began as a modest marketing stunt became one of Wisconsin's largest St. Patrick's Day celebrations, 
   with the parade alone drawing tens of thousands of visitors from across the Fox Valley and beyond.
+score: 6.7
 ---
 
 Every year around St. Patrick's Day, New London formally renames itself "New Dublin" and holds what has grown into Wisconsin's largest St. Patrick's Day parade — a tradition that runs for a full week of Irish-themed events including an Irish ceili (a social dance gathering), live music, corned beef and cabbage on every menu in town, and a general civic embrace of all things green and Irish.

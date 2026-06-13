@@ -5,6 +5,7 @@ latitude: 54.3658
 longitude: -2.9191
 snippet: "Indoor attraction recreating scenes from Potter's books — aimed squarely at young children, and effective at exactly that."
 tags: [things_to_do, sight]
+score: 5.7
 ---
 
 The World of Beatrix Potter is in the Old Laundry building near the centre of Bowness and is unapologetically a children's attraction. The interior recreates scenes from the picture books using life-size figures — Peter Rabbit in Mr McGregor's garden, Jemima Puddle-Duck in her woodland clearing — accompanied by narration and projected effects. It takes about 45 minutes to go round and holds the attention of children aged roughly two to eight very well.

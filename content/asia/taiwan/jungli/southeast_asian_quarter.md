@@ -17,6 +17,7 @@ story: >
   Vietnamese grocery shops, restaurants, money changers, and karaoke bars. On
   Sundays — workers' day off — the square becomes the most crowded part of the
   city.
+score: 8.4
 ---
 
 The ASEAN Square area on Zhongping Road, just south of Zhongli station, is one of the more interesting urban experiences in Taiwan. The covered mall and surrounding streets are packed with shops serving the Indonesian, Filipino, Thai, and Vietnamese workers who staff the local factories. Restaurants serve home-style food rarely found elsewhere in Taiwan: Indonesian nasi padang, Filipino lechon, Thai khao mun gai, Vietnamese bun bo Hue.

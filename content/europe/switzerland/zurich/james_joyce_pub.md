@@ -14,6 +14,7 @@ tags:
 title: James Joyce Pub
 type: poi
 url: www.jamesjoyce.ch/pub
+score: 5.8
 ---
 
 The James Joyce Pub near Zurich's main station was built using the original Victorian fittings of a 19th-century Dublin pub — mahogany bar, stained glass, and brass fixtures transported wholesale from Ireland. The result is about as close as Zurich gets to a genuine literary pub, and it has a loyal following among expats, tourists, and locals who appreciate a proper Guinness.

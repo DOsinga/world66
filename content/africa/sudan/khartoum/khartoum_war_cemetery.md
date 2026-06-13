@@ -7,6 +7,7 @@ tags:
 - sight
 title: Khartoum War Cemetery
 type: poi
+score: 6.1
 ---
 
 The Khartoum War Cemetery, maintained by the Commonwealth War Graves Commission, holds the graves of around 350 servicemen who died in Sudan during the First and Second World Wars, along with the Khartoum Memorial — a stone obelisk commemorating the dead of the East African campaigns. The cemetery is on the southeast edge of the city centre, behind a low white wall and a gate that is usually open during daylight hours.

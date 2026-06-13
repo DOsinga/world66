@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5037
 longitude: 15.0845
+score: 7.8
 ---
 
 San Benedetto is the southern of the great paired churches on Via dei Crociferi, set behind an arched bridge connecting the church to the adjacent Benedictine convent across the street. The arrangement was deliberate: cloistered nuns could attend Mass without ever entering public space.

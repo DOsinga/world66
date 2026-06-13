@@ -8,6 +8,7 @@ tags:
 - spa
 title: Sousas
 type: poi
+score: 5.3
 ---
 
 The other named spring in the Verín basin, Sousas, lies just north of the town centre and produces a slightly different mineral water from Cabreiroá — less carbonated, with a different mineral profile. The waters have been bottled since the early 20th century and the brand is sold across Galicia.

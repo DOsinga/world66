@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Central Park
 type: poi
+score: 5.2
 ---
 
 A small, smart bar on Marienstrasse done out in timber and glass, with a regulars' crowd and a soul soundtrack. Happy hour runs from 17:00 to 20:00, and because there is no neighbour next door the music can stretch on as late as the room wants. Outdoor seating in summer; occasional gourmet dinner evenings.

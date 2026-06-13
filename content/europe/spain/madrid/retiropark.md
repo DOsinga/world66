@@ -10,6 +10,7 @@ tags:
 - retiro_barrio
 title: Retiro Park
 type: poi
+score: 8.6
 ---
 
 Located behind the Prado Museum, Retiro Park is one of the largest and most popular parks in Madrid. The park was originally the private grounds of the Spanish royal family and didn't open to the public until 1868.

@@ -12,6 +12,7 @@ story: >
   between a caser and her regular customers in the Potosí market can span decades,
   with preference given to familiar faces and scolding reserved for those who
   try to skip the queue.
+score: 6.9
 ---
 
 The Mercado Central is the daily food market of Potosí, a covered hall one block from the Plaza 10 de Noviembre where vendors sell produce, meat, cooked food, and household goods. The lunch counter section is the main attraction for visitors: a row of stalls where women serve set lunches of soup, a main course, and a small dessert for a few bolivianos — the cheapest and most authentic eating in the city.

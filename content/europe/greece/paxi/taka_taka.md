@@ -9,6 +9,7 @@ latitude: 39.2002
 longitude: 20.1830
 address: "Back streets of Gaios"
 neighbourhood: Gaios
+score: 5.4
 ---
 
 A long-standing taverna a few streets back from the Gaios waterfront, in a garden under a vine pergola. The food is simple Greek — grilled fish, stifado, saganaki — but well sourced and a fraction of the price of the harbour-front places.

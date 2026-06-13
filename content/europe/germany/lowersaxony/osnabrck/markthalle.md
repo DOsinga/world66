@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 52.2776
 longitude: 8.0420
+score: 6.8
 ---
 
 The Markthalle is a covered market hall near the Marktplatz where local producers sell directly: cheese from Westphalian dairies, bread from regional bakers, cured meats, smoked fish, seasonal vegetables, and prepared dishes for eating on the spot. It is a working market rather than a food hall aimed at visitors, which keeps the prices reasonable and the quality honest.

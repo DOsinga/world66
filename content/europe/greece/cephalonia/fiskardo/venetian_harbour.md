@@ -12,6 +12,7 @@ story: >
   bedrock that absorbed the seismic shock rather than amplifying it. Everywhere else on
   the island was destroyed. The preservation was accidental but is now the reason Fiskardo
   looks the way it does — a living record of what all of Cephalonia once looked like.
+score: 7.8
 ---
 
 The harbour is the heart of Fiskardo — a curved quay of restored Venetian and pre-earthquake architecture that makes this the most photogenic village on Cephalonia. The old stone buildings lining the waterfront, with their terracotta roofs and faded paint, have been carefully converted into taverns, boutiques, and small guesthouses. In summer the quay fills with expensive yachts; out of season it reverts to something quieter and more authentic.

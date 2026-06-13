@@ -11,6 +11,7 @@ story: >
   St. Goar is named for a 6th-century Frankish hermit who lived in a cave near the river and became celebrated for healing miracles. He was accused of witchcraft by the local bishop but was reportedly cleared at the court of Sigebert I. His shrine became a major waystation for pilgrims and traders on the Rhine for centuries afterward.
 sources:
   - https://en.wikipedia.org/wiki/Sankt_Goar
+score: 7.1
 ---
 
 St. Goar is a small river town directly below Rheinfels Castle on the left bank of the Rhine, connected to the opposite town of St. Goarshausen by the Lorelei ferry. It is the quietest of the main Middle Rhine towns — not as polished as Bacharach, not as large as Boppard — but the combination of the enormous castle ruin above and the river traffic below gives it a particular character.

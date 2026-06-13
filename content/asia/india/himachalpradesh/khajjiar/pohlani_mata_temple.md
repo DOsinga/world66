@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.5202
 longitude: 76.0330
+score: 6.6
 ---
 
 The Pohlani Mata temple sits on a high ridge about 4 km south of Khajjiar village, reached by a small road or a one-hour walk through the forest. The shrine is dedicated to Pohlani Mata, a local incarnation of the mother goddess, and the climb up rewards you with a long, open view across the deodar canopy to the snow line.

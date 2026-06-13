@@ -6,6 +6,7 @@ longitude: 24.7244
 tags:
   - beaches
   - sight
+score: 7.0
 ---
 
 The longest beach on Thassos, a 1.5km stretch of fine golden sand on the northeast coast near the village of Skala Potamia. The name is accurate: the sand here is noticeably finer and more golden than most Greek beaches, and the water shelves gently, making it good for swimming at all confidence levels. Sunbeds and tavernas line most of the beach, and it gets busy in high summer, but the sheer length of it means you can usually find a less crowded section by walking further from the car parks.

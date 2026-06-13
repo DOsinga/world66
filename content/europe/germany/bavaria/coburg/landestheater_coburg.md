@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.2590
 longitude: 10.9648
+score: 7.5
 ---
 
 The Landestheater Coburg is one of those implausible small-city opera houses that Germany does better than anywhere else — a full professional ensemble, a historic building, and a programme that covers opera, drama, and ballet for a population of around 40,000 people. It has been here since 1827, when the Coburg court decided that a proper theatre was essential to ducal prestige, and the tradition has continued despite the many upheavals since.

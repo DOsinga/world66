@@ -8,6 +8,7 @@ latitude: 25.9095
 longitude: 109.1745
 story: >
   Dong Grand Song (侗族大歌, Dòngzú dàgē, or Kgal Laox in the Dong language) involves large groups — anywhere from a dozen to a hundred singers — performing in interlocking harmonies without instrumental accompaniment. The polyphonic texture is created by different voice groups entering at different times and sustaining different melodic lines simultaneously. Unlike most Chinese folk music forms, the harmonic complexity is an end in itself rather than a background to melody. UNESCO inscribed it on the Intangible Cultural Heritage list in 2009, citing it as a unique example of polyphonic choral tradition in East Asia.
+score: 7.5
 ---
 
 Dong Grand Song performances take place in Zhaoxing at the cultural performance venue near the centre of the village, typically in the evening. The performance is scheduled for tourists and includes both singing and demonstrations of Dong traditional dress, but the music itself is genuine: the singers are community members who have learned the repertoire through the Dong tradition of communal singing practice from childhood, and the polyphonic complexity of the sound does not come from staging.

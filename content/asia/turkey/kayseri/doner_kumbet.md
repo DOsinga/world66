@@ -13,6 +13,7 @@ story: >
   around it. It was built in the late thirteenth century for Princess Şah Cihan
   Hatun, and the carvings include birds, animals, and elaborate geometric
   patterns that display the full range of Seljuk decorative skill.
+score: 7.6
 ---
 
 The Döner Kümbet is one of the finest examples of Seljuk funerary architecture in Turkey, a twelve-sided tower tomb built in the late thirteenth century from warm yellow stone. The exterior is covered with carved reliefs of birds, mythological creatures, geometric interlacing, and vegetal scrollwork — a remarkable concentration of decorative craft on a relatively small structure. It stands beside a cemetery on Talas Street, a short walk from the castle.

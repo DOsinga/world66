@@ -7,6 +7,7 @@ tags:
 - sight
 title: Historic Mosques of Giza
 type: poi
+score: 6.8
 ---
 
 Giza's older districts contain a number of significant Ottoman and Mamluk mosques that receive a fraction of the attention of the pharaonic monuments but are genuinely worth visiting. Most are open to non-Muslim visitors outside of prayer times, and Egyptian mosques are generally welcoming to respectfully dressed foreign visitors who take off their shoes at the entrance.

@@ -12,6 +12,7 @@ story: >
   pieces of infrastructure.
 sources:
   - https://en.wikipedia.org/wiki/Drammen_Spiral
+score: 8.6
 ---
 
 Drammen's most talked-about feature is a road that disappears into the side of a mountain and emerges — after six dizzying spirals inside the rock — at a viewpoint 160 metres above the city. The Spiralen tunnel was completed in the early 1960s and remains one of Norway's strangest pieces of infrastructure. Driving through it is disorienting in the best way: the rock face is only inches from your window, there is no daylight, and by the time you exit you have no clear sense of which direction you are facing.

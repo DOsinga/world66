@@ -10,6 +10,7 @@ tags:
 - sights
 title: Singapore River
 type: poi
+score: 7.8
 ---
 
 For most of Singapore's history, the river was its commercial heart — lined with godowns (warehouses), crowded with bumboats and tongkangs, and frankly quite smelly. A massive cleanup effort starting in the late 1970s transformed it into the leisure corridor it is today.

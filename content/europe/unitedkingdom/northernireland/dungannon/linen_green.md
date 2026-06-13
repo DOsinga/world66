@@ -7,6 +7,7 @@ address: Moygashel, BT71 7HB
 snippet: Designer outlet village in a restored Victorian linen mill
 tags:
 - shopping
+score: 4.3
 ---
 
 The Linen Green sits on the southern edge of Dungannon at Moygashel, a former mill village. The complex was redeveloped from a Victorian linen-mill site into a destination retail village of around twenty independent shops — fashion, homewares, gifts, jewellery — set in restored brick mill buildings around a landscaped courtyard.

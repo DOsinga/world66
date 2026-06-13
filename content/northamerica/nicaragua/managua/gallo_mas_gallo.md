@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.1340
 longitude: -86.2660
+score: 6.2
 ---
 
 Quesillos are Nicaragua's most beloved snack: a fresh corn tortilla topped with a soft white cheese (quesillo), pickled onions, sour cream, and sometimes chilli, rolled up and eaten by hand. The best versions are a messy, deeply satisfying combination of textures — chewy tortilla, stringy melted cheese, sharp onion, tangy cream.

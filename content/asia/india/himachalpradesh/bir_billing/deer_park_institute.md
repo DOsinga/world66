@@ -8,6 +8,7 @@ latitude: 32.0535
 longitude: 76.7182
 sources:
   - https://deerpark.in/
+score: 7.2
 ---
 
 Deer Park Institute was founded in 2006 by Dzongsar Khyentse Rinpoche in a building that once housed a Tibetan school, and its name echoes the deer park at Sarnath where the Buddha gave his first teaching. The institute runs a programme of seminars, workshops, and residencies exploring classical Indian philosophy, Buddhist thought, art history, and contemplative practice — with teachers drawn from both the Tibetan tradition and Indian academic scholarship.

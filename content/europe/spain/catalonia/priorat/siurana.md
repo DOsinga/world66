@@ -10,6 +10,7 @@ latitude: 41.2500
 longitude: 0.9333
 sources:
   - https://en.wikipedia.org/wiki/Siurana_(Tarragona)
+score: 8.8
 ---
 
 Siurana sits just outside the strict Priorat comarca but belongs on any sensible trip through the area. The village is perched on a cliff above a reservoir, with a Romanesque church, stone lanes and views that make even hurried visitors fall quiet for a moment.

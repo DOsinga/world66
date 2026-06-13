@@ -7,6 +7,7 @@ tags:
 latitude: 43.0605
 longitude: 11.6050
 story: "The garden was created in 1581 by Diomede Leoni as a public garden — unusual for the period, when gardens were private aristocratic symbols. Leoni donated it to the town of San Quirico d'Orcia for public use, making it one of the earliest civic green spaces in Tuscany."
+score: 7.1
 ---
 
 The Horti Leonini is a formal Renaissance garden laid out in 1581 within the old town walls. The design follows the classical Italian model — symmetrical beds of clipped box hedges, gravel paths, and a central axis leading to a viewing terrace. An ancient stone lion (the medieval town emblem) presides over the garden from the centre.

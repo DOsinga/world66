@@ -6,6 +6,7 @@ longitude: -6.648
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 A small thatched blackhouse in the village of Colbost, restored and furnished as it would have been in the mid-19th century — a peat fire on the central hearth, the smoke escaping through the thatch, animals at one end and people at the other. The museum is privately run and pleasingly unfussy.

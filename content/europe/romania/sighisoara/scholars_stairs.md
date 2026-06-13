@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 7.8
 ---
 
 The Scholars' Stairs — Scara Scolarilor in Romanian — is the covered wooden staircase of 175 steps connecting the lower town to the Church on the Hill. Built in 1642 with a protective timber roof, it was originally used by schoolchildren making their way up to the school beside the church each morning. The roof kept the steps clear of snow and ice in winter; it also created a dim, enclosed passage that feels entirely medieval even today.

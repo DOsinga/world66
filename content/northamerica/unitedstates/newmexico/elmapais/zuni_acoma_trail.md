@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "This was a working trade route for at least a thousand years. The Acoma and Zuni peoples crossed back and forth across the lava regularly, trading turquoise, salt, parrot feathers and pottery. The rock cairns that mark the path were piled by generations of travellers; the same ankle-snapping basalt that gives you grief was, for them, an ordinary commute."
+score: 8.9
 ---
 
 The Zuni-Acoma Trail is the great traverse of El Malpais — a 7.5-mile (12 km) one-way hike across four distinct lava flows, from the eastern trailhead on Highway 117 to the western trailhead on Highway 53. It is an ancient route. The Zuni and Acoma peoples used it as a trading corridor for centuries before any European reached the region, and the original rock cairns marking the route are still there.

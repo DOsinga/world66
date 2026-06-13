@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.62083
 longitude: 10.56194
+score: 8.3
 ---
 
 The Giardino Botanico Hruska — now officially the Fondazione André Heller garden — is one of the more quietly beautiful spots on the western shore of [Lake Garda](/europe/italy/lombardia/lagodigarda). Created in the early twentieth century by Arturo Hruska, a Czech dentist who served as personal physician to Tsar Nicholas II, the garden was later redesigned by the Austrian artist André Heller, who added contemporary sculptures by artists including Roy Lichtenstein and Keith Haring.

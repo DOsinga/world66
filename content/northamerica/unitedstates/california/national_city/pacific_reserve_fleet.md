@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 32.6791
 longitude: -117.1250
+score: 6.6
 ---
 
 The southern end of San Diego Bay, between National City and the Naval Base San Diego, holds part of the US Navy's reserve fleet — a row of grey, mothballed warships kept in preservation for possible re-activation. The fleet typically includes decommissioned destroyers, amphibious vessels, and supply ships, though the exact line-up shifts.

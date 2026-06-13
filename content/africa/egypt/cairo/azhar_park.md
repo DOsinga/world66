@@ -9,6 +9,7 @@ latitude: 30.0441
 longitude: 31.2697
 story: >
   Al-Azhar Park was built on a rubble mound that had accumulated over five centuries of Cairo's occupation — the debris of demolished buildings, accumulated waste, and urban detritus that had piled up against the eastern wall of Islamic Cairo until it was 15 metres deep. The Aga Khan Trust for Culture funded the excavation and the creation of the park in the 1990s; during the excavation they discovered a section of the Ayyubid wall from the 12th century that had been entirely buried.
+score: 7.8
 ---
 
 Al-Azhar Park is an 80-acre public park built in 2005 on the site of a centuries-old rubble mound along the eastern edge of Islamic Cairo. It was funded by the Aga Khan Trust for Culture and is one of the few large green spaces in central Cairo — a fact that makes it enormously popular with families on weekends and a genuine haven on weekdays.

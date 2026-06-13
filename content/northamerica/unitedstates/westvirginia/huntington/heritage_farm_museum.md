@@ -12,6 +12,7 @@ story: >
   also includes a working blacksmith's forge where demonstrations are held
   regularly — the forge has been in continuous operation since the museum opened
   in 1994.
+score: 8.0
 ---
 
 Heritage Farm Museum and Village, located a few kilometres east of downtown, recreates Appalachian rural life from the 19th and early 20th centuries. The outdoor complex includes a working blacksmith shop, a gristmill, a one-room schoolhouse, a country store, and several historic cabins — all staffed by interpreters who demonstrate period crafts and skills.

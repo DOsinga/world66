@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: Standby
 type: poi
+score: 6.8
 ---
 
 Standby is a small, dimly lit cocktail bar on the Belt, a downtown alley turned into a public art and bar corridor by Bedrock. The drinks are creative without being precious, the food menu more substantial than at most cocktail bars, and the room is the kind of low-ceilinged space that feels intentional rather than cramped. The Belt itself, with its rotating murals and James Turrell light installations, is worth wandering before going in.

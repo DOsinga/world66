@@ -9,6 +9,7 @@ tags:
   - museum
   - historic_house
 story: "Potter bought Hill Top in 1905 with the royalties from The Tale of Peter Rabbit. She kept it almost exactly as she lived in it, and when she left it to the National Trust on her death in 1943 she stipulated that not a thing should be moved — which is why you can still see her clogs by the door and the dolls on the kitchen dresser today."
+score: 9.3
 ---
 
 Two miles south-east of Hawkshead in the hamlet of Near Sawrey, the small seventeenth-century farmhouse where Beatrix Potter wrote and illustrated many of her best-known books is one of the most-visited literary sites in England. The rooms — kitchen, parlour, treasure room — appear directly in the illustrations of *Samuel Whiskers*, *Tom Kitten*, and *The Pie and the Patty-Pan*.

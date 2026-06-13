@@ -9,6 +9,7 @@ tags:
 - nature
 title: Jungle Trekking
 type: poi
+score: 8.4
 ---
 
 The Cameron Highlands have a network of numbered jungle trails winding through mossy, cool rainforest — a welcome change from the lowland heat. The trails range from easy hour-long walks to full-day treks. Trail 9 leads to the Robinson Waterfall, a popular half-day outing through dense forest. Trail 4 takes you to Parit Falls, less visited and muddier but more rewarding for that.

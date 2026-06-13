@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 Built in 1853 as a trading hall for the Hertfordshire grain trade, the **Corn Exchange** is the largest single building on Hitchin's Market Place — Italianate in style, with a tall four-storey clock tower, an arcaded ground floor and a pediment lettered CORN EXCHANGE 1853. It survived the wars and the long decline of provincial agriculture and was restored in the 2000s.

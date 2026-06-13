@@ -7,6 +7,7 @@ snippet: Row of identical 16 ministry blocks along the monumental axis
 tags:
 - things_to_do
 - landmark
+score: 7.8
 ---
 
 The eastern half of the Eixo Monumental is flanked by two parallel rows of identical white concrete ministry buildings, eight on each side. Niemeyer designed the type — a glassy, eight-storey horizontal slab raised on stilts — to give the federal government a deliberately anonymous, neutral architectural identity, with the political and judicial buildings around the Three Powers Plaza standing out by contrast.

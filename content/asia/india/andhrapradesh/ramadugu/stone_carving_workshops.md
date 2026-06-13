@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.5860
 longitude: 79.0598
+score: 7.2
 ---
 
 Ramadugu is known across Telangana for its granite stone-carvers, and the workshops are scattered through the village lanes in plain view. Artisans work in open-air yards, shaping religious figures — Nandi bulls, Ganeshas, temple pillars, decorative panels — from raw blocks of local stone. The work is done largely by hand using traditional chisels and hammers, and a skilled carver can spend weeks on a single large piece.

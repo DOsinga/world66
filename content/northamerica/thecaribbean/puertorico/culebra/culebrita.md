@@ -8,6 +8,7 @@ tags:
   - sight
   - island
 story: "The stone lighthouse on Culebrita's highest hill, built in 1886, is the oldest functioning lighthouse in the Caribbean — though 'functioning' is generous. After Hurricane Maria in 2017 it was left in ruins; the climb up is still rewarding for the panorama, but expect rubble and a partially collapsed staircase."
+score: 9.1
 ---
 
 A small uninhabited islet a mile east of Culebra, part of the national wildlife refuge. Day trips by water taxi from Dewey or chartered catamaran from Fajardo land at the protected horseshoe bay of Playa Tortuga, with a beach that sees a handful of visitors at most.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 18.0261
 longitude: -76.7696
+score: 7.1
 ---
 
 Scotchies is a jerk institution — not the original (Scotchies started in Montego Bay), but the Kingston branch on Constant Spring Road is among the most reliable places in the capital to eat proper jerk. The pork and chicken are cooked over pimento wood in low, lidded barbecue pits, which is the method that produces real jerk rather than the grilled-and-sauced approximation served at most tourist destinations.

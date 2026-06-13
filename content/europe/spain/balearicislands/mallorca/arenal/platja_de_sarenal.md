@@ -15,6 +15,7 @@ story: >
   country. The designation requires daily water quality testing, lifeguard
   presence, and controlled access points, standards that the town has maintained
   almost continuously for nearly four decades.
+score: 7.4
 ---
 
 The Platja de S'Arenal is the long, wide sandy beach that defines the resort. It runs westward along the Bay of Palma, merging with the [Playa de Palma](/europe/spain/balearicislands/mallorca/playa_de_palma) beach to form a combined strip of around seven kilometres — one of the longest in the Balearics. The sand is fine and pale, the water shallow and calm, and the beach cleaned by machine every morning throughout the season.

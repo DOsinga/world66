@@ -9,6 +9,7 @@ tags:
 - historic_house
 title: Hammond-Harwood House
 type: poi
+score: 8.3
 ---
 
 Designed in 1774 by William Buckland, the British-trained architect who also worked at George Mason's Gunston Hall in Virginia, this is widely regarded as the finest Georgian house in America and the only colonial building still standing that was designed by Buckland. The doorway — a carved frontispiece copied from a plate in Palladio's *Four Books of Architecture* — is the most photographed colonial entrance in the country and has been reproduced in textbooks for generations.

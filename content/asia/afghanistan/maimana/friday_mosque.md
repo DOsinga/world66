@@ -7,6 +7,7 @@ tags:
   - sight
 title: Friday Mosque
 type: poi
+score: 7.8
 ---
 
 The Jami Masjid, or Friday Mosque, sits at the heart of Maimana's old town, a few minutes' walk from the main bazaar. It is not architecturally famous in the way that the Friday Mosque of Herat is — the building is a plain northern Afghan mosque, with a simple courtyard, an iwan, and a domed prayer hall, much rebuilt over the decades. But it has been the religious centre of the city for generations and is the natural orientation point in the centre.

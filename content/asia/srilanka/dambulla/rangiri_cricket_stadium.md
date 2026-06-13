@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.8594
 longitude: 80.6339
+score: 5.4
 ---
 
 The Rangiri Dambulla International Cricket Stadium is one of cricket's more improbable settings: a 16,800-seat ground built inside a natural bowl in the rocky terrain of the dry zone, ringed by scrub jungle and overlooked by the same granite ridges that house the cave temple. When Sri Lanka plays here, the atmosphere inside the bowl is intense.

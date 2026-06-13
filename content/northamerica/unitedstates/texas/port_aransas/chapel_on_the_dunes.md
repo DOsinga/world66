@@ -17,6 +17,7 @@ story: >
 sources:
   - https://texashighways.com/culture/chapel-on-the-dunes-endures-port-aransas/
   - https://www.atlasobscura.com/places/chapel-on-the-dunes
+score: 6.6
 ---
 
 The Chapel on the Dunes at 203 South 11th Street is a 250-square-foot wooden chapel perched high on a sand dune in Port Aransas's Old Town neighbourhood, completed in 1938. It is the oldest continuously consecrated church on Mustang Island, and at 26 feet above sea level it has a panoramic view over the surrounding neighbourhood and out toward the Gulf.

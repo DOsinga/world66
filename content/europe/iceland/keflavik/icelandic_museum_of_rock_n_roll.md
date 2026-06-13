@@ -15,6 +15,7 @@ story: >
   a scene that eventually produced some of the most distinctive pop music of
   the late 20th century. The museum traces that unlikely line from base-town
   cover bands to internationally celebrated artists.
+score: 6.8
 ---
 
 The Icelandic Museum of Rock 'n' Roll (Rokksafn Íslands) is a surprisingly substantial museum for a town this size, covering the full history of popular music in Iceland from the 1960s to the present. The collection includes instruments, costumes, and memorabilia from Icelandic musicians, displayed with iPad-guided audio tours that let you hear the music alongside the exhibits.

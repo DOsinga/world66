@@ -9,6 +9,7 @@ latitude: 12.6383
 longitude: -61.3633
 story: >
   The Tobago Cays were the filming location for the Pirates of the Caribbean franchise scenes set on the fictional Isla de Muerta. Locals still point out the exact cove where Captain Jack Sparrow sailed in — though the name on the charts reads Baradal.
+score: 9.3
 ---
 
 The Tobago Cays are five small uninhabited islands ringed by a horseshoe reef, about eight nautical miles east of Union Island and part of a protected marine park. The shallow turquoise water inside the reef is one of the best snorkelling spots in the Caribbean: you can swim alongside hawksbill turtles, French angels, and spotted eagle rays without putting on scuba gear.

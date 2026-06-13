@@ -11,6 +11,7 @@ tags:
 neighbourhood: Centro Historico
 snippet: "Mazatlan's restored 1874 opera house, named after the soprano who died on its stage"
 story: "Ángela Peralta — the 'Mexican Nightingale' — arrived in Mazatlan in 1883 on tour with her opera company. Within days a yellow fever epidemic swept the city; she contracted it, and is said to have married her partner from her sickbed before dying days later, aged 38. The theatre was renamed for her."
+score: 8.5
 ---
 
 The Teatro Ángela Peralta opened in 1874 as the Teatro Rubio, a 850-seat opera house with three tiers of horseshoe balconies, gilt and crimson velvet, a frescoed dome. It was the cultural centre of the city for forty years and then went into a long decline — used as a boxing arena, a cinema, a warehouse. Hurricane Olivia all but finished it in 1975, and for a decade it sat ruined under the open sky.

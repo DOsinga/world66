@@ -6,6 +6,7 @@ longitude: -66.8560
 tags:
   - shopping
   - chacao
+score: 5.9
 ---
 
 Centro San Ignacio — known universally as the **CSI** — is the most fashionable shopping centre in Caracas: a multi-level complex in the heart of Chacao, with a terrace-cluster of restaurants and bars that fill up most evenings. By day it works as an upmarket mall with international brands, design boutiques, and a good supermarket; by night the terraces of bars and lounges along its eastern flank are the most reliable place in the city for an after-work drink.

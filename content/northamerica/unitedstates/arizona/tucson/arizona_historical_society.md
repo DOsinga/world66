@@ -9,6 +9,7 @@ opening_hours: "Mon-Sat 10am-4pm"
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The Arizona Historical Society Museum sits a short walk from the University of Arizona campus and covers the state's history from Spanish frontier days through territorial mining boom and onwards. The standout exhibit is a walk-through copper mine, complete with shaft, head frame, and a replica miners' camp.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Tribute to the prolific Kitakyushu-born crime novelist
+score: 6.9
 ---
 
 Matsumoto Seicho was one of postwar Japan's most prolific writers — a Kitakyushu local who turned out crime novels, history, and social commentary at a relentless pace until his death in 1992. The museum, opened in 1998 in the grounds of Kokura Castle, reconstructs his Tokyo study and library room by room, complete with his manuscripts, typewriters, and the orderly stacks of books that surrounded him.

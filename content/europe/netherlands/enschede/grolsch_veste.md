@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.23666
 longitude: 6.83750
+score: 5.8
 ---
 
 De Grolsch Veste is the home stadium of FC Twente, one of the stronger clubs in the Dutch Eredivisie. The stadium holds around 30,000 spectators and is named after the Grolsch brewery, which is based in the Twente region — Grolsch, recognisable by its distinctive swing-top bottle, is Twente's most famous export.

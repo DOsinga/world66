@@ -7,6 +7,7 @@ tags:
   - midtown
 latitude: 38.5636
 longitude: -121.4669
+score: 6.6
 ---
 
 One of Sacramento's best craft breweries, with a taproom in Midtown and a larger second location near the river. Track 7 specialises in hop-forward IPAs made with Cascade and Centennial hops grown in the Sacramento Valley — the Central Valley climate produces excellent hop varieties — and a rotating seasonal line that tracks the harvest calendar of the region.

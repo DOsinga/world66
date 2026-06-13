@@ -6,6 +6,7 @@ tags:
 latitude: 49.4112
 longitude: 8.7040
 snippet: Heidelberg's pedestrian main street lined with restaurants from traditional to international
+score: 5.8
 ---
 
 The Hauptstrasse runs for about 1.6km through the heart of the Altstadt from Bismarckplatz in the west to the Marktplatz in the east, and is one of the longest pedestrian zones in Germany. Along its length and in the lanes running off it — particularly Steingasse, Ingrimstrasse, and the parallel Untere Strasse — is the densest concentration of restaurants in the city, covering everything from Swabian and Palatinate cooking to Vietnamese, Italian, and Turkish.

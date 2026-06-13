@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 61.4978
 longitude: 23.7603
+score: 8.0
 ---
 
 Hämeenkatu is Tampere's main street, running east from the Central Square over the Hämeensilta bridge and on toward the railway station. The bridge is decorated with four bronze sculptures by Wäinö Aaltonen, each representing a figure from Finnish history and folklore — the Tanning Maid, the Tax Collector, the Birkarl merchant, and the Judge. The sculptures are among the most-photographed public artworks in Tampere.

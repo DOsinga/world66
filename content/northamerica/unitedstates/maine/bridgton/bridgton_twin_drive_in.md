@@ -11,6 +11,7 @@ story: >
   England, a region that once had hundreds. Most closed in the 1970s and 1980s
   as land values rose and home video arrived. Bridgton's has survived in part
   because the surrounding land is not particularly valuable for development.
+score: 7.5
 ---
 
 The Bridgton Twin Drive-In, on Route 302 just north of downtown, is one of the few remaining drive-in theaters in New England and reason enough to plan a warm-weather visit around a summer Friday night. The setup is classic: two screens, a FM radio broadcast for the audio, and a snack bar serving popcorn and hot dogs. First-run double features run nightly from late spring through Labor Day.

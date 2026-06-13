@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0472
 longitude: -86.4544
+score: 6.9
 ---
 
 Oak Hill Cemetery is a nineteenth-century burial ground on the eastern edge of Lebanon, listed on the National Register of Historic Places. Like many rural Indiana cemeteries from this period, it contains a mix of ornate Victorian funerary monuments and simpler stones that together map the first generations of Boone County settlement.

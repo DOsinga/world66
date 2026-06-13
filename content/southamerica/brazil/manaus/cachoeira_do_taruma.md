@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: -3.0264
 longitude: -60.0936
+score: 6.2
 ---
 
 The Cachoeira do Tarumã is the closest waterfall to central Manaus — a wide, low cascade on the Tarumã-Açu river, in the north-west of the city. Locals come at weekends to swim in the brown clear water and to grill fish on the bank. The setting is forested and surprisingly wild for somewhere so close to a city of two million.

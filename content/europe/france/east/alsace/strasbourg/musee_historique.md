@@ -7,6 +7,7 @@ tags:
 latitude: 48.5800
 longitude: 7.7508
 snippet: "City history museum in a Renaissance slaughterhouse by the canals"
+score: 7.7
 ---
 
 The Musée Historique is housed in the Grande Boucherie, a 16th-century Renaissance building that served as the city's main slaughterhouse for centuries. It stands by the river Ill near the Place du Marché-Gayot. The museum traces Strasbourg's history from its Roman origins (as Argentoratum) through the medieval and early modern periods, the French and German occupations, and into the 20th century.

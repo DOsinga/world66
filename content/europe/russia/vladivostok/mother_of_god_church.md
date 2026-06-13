@@ -11,6 +11,7 @@ story: >
   The church was built in 1921 to serve Vladivostok's substantial Polish and German Catholic community — part of the city's remarkably international population in the late imperial and early Soviet period. It was closed and repurposed as a club during the Soviet era, then returned to the Catholic community in the 1990s. The Gothic spire that had been removed to disguise the building was reconstructed during the post-Soviet restoration.
 sources:
   - https://en.wikipedia.org/wiki/Mother_of_God_Church,_Vladivostok
+score: 6.6
 ---
 
 The Mother of God Church is Vladivostok's main Catholic church — a compact Gothic Revival building with a distinctive spire that was restored after Soviet-era removal. The grey stone exterior and pointed arched windows make it one of the more distinctive religious buildings in a city where Orthodox churches dominate, and its presence is a reminder of just how international Vladivostok's population once was.

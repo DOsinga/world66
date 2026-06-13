@@ -9,6 +9,7 @@ tags:
 - shop
 title: Freeman's Clothing
 type: poi
+score: 2.6
 ---
 
 A big store in downtown Dallas selling urban clothing, shoes, and accessories for men and women. Carries brands like Sean John, Ecko, PellePelle, Avirex, Azzure, and Southpole at decent prices.

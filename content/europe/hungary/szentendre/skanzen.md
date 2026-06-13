@@ -11,6 +11,7 @@ tags:
 - museum
 title: Open-Air Ethnographic Museum (Skanzen)
 type: poi
+score: 8.9
 ---
 
 Hungary's largest open-air museum, about 3 km northwest of the town centre. Buildings — cottages, mills, barns, churches, and farm structures — have been relocated from different regions of Hungary and arranged as village groups according to their region of origin. The result is a comprehensive picture of rural Hungarian life from the 17th to early 20th centuries. In summer, craft demonstrations and occasional folk events are held. Open Tuesday to Sunday, 9am–5pm; admission charged.

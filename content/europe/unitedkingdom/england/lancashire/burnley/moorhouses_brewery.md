@@ -7,6 +7,7 @@ tags:
 - food_and_drink
 title: Moorhouse's Brewery
 type: poi
+score: 5.8
 ---
 
 Moorhouse's Brewery has been operating in Burnley since 1865, originally as a producer of hop bitters and mineral waters. Today it's known for its cask ales, with Pride of Pendle and Black Cat among its best-known beers. The brewery has won multiple CAMRA awards over the years.

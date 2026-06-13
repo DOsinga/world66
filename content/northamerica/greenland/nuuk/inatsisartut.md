@@ -14,6 +14,7 @@ story: >
   economic dependency on the annual Danish block grant (about DKK 3.2 billion) makes
   the timeline uncertain. The debate about when independence becomes economically viable
   is the defining political question of modern Greenland.
+score: 5.8
 ---
 
 The Inatsisartut — the Parliament of Greenland — meets in a building near the Katuaq centre, a contemporary structure that replaced an older parliament building. The parliament has 31 members elected by proportional representation and currently controls most domestic affairs including education, health, and taxation. Foreign policy and defence remain Danish responsibilities.

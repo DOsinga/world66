@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 6.8
 ---
 
 Parque Ecuador is a narrow ribbon of green stretching nearly a kilometre along the foot of Cerro Caracol, separating the dense city grid to the north from the wooded hill to the south. It has tree-lined walking paths, monuments, an outdoor gym, and at its eastern end the Galería de la Historia.

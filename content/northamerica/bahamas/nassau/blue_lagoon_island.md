@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 25.0833
 longitude: -77.2900
+score: 5.8
 ---
 
 A small private island five kilometres east of Paradise Island, also called **Salt Cay**. Reached only by tour-boat ferry from Paradise Island (about 25 minutes), so a day trip is essentially a package: ferry, beach lounger, and lunch.

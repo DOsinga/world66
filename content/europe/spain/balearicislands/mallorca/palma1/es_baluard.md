@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Es_Baluard
 story: >
   The museum was built inside the surviving ramparts of the sixteenth-century sea walls, with the ancient masonry incorporated into the building's structure rather than demolished. The roof terrace occupies the original walkway along the top of the wall, with the sea on one side and the rooftops of the old town on the other.
+score: 8.2
 ---
 
 Es Baluard opened in 2004 in a dramatically repurposed section of Palma's Renaissance sea walls and has established itself as one of the best contemporary art museums in the Balearic Islands. The collection focuses on Mallorcan, Catalan, and Spanish art from the twentieth century onwards, with particular strength in works by artists connected to the island — Joan Miró spent much of his life in Mallorca, and the museum holds significant examples of his work alongside pieces by Picasso, Tàpies, and Barceló.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.3536
 longitude: -97.8014
+score: 6.9
 ---
 
 The Pennybacker Bridge (locally known as the "360 Bridge") carries Loop 360 over Lake Austin on a single graceful arch of pink granite, 190 feet above the water. The bridge is one of Austin's most photographed landmarks, and it is particularly striking from the water below or from the hiking trail on the north bank of the lake.

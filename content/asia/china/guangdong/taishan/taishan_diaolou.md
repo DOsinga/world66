@@ -15,6 +15,7 @@ story: >
   Baroque columns, Romanesque arches, and Art Deco details applied to the
   fortified Cantonese tower form. The result is an architectural style found
   nowhere else on earth.
+score: 8.3
 ---
 
 The diaolou towers scattered through Taishan's villages are the architectural legacy of overseas Chinese remittances. These multi-storey fortified structures combine Cantonese defensive building traditions with the Western ornamental styles that emigrants encountered in California and Canada, producing a hybrid that is unique to this corner of Guangdong. Taishan's towers are less concentrated and less photographed than the UNESCO-listed clusters in neighbouring Kaiping, but they are also less manicured and more genuinely encountered as working parts of the landscape.

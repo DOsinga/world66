@@ -8,6 +8,7 @@ tags:
 - sight
 title: Hōnen-in
 type: poi
+score: 7.9
 ---
 
 Hōnen-in is a small Pure Land temple a few minutes' walk uphill from the Philosopher's Path, easy to overlook because nothing about its location announces it. A short, mossy lane between hedges leads to a thatched-roof entrance gate flanked by two raked-sand mounds — *byakusadan* — whose pattern is changed by the monks every two weeks to reflect the season. The walk through the gate, with the mounds glowing faintly white in the green shade, is one of the most photographed entrances in Kyoto.

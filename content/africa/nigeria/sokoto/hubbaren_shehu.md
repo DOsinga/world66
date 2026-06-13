@@ -14,6 +14,7 @@ story: >
 sources:
   - https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Sokoto/Tomb-of-Usman-Dan-Fodio.html
   - https://commons.wikimedia.org/wiki/File:HUBBAREN_SHEHU_MUJADDADI_DAN_FODIYO_SOKOTO_NIGERIA_-_panoramio.jpg
+score: 8.8
 ---
 
 Hubbaren Shehu is the tomb complex of Usman dan Fodio, the scholar and reformer whose movement created the Sokoto Caliphate. For many visitors this is Sokoto's most meaningful historic place, not because it is grand, but because the rooms and graves connect directly to one of West Africa's most consequential religious revolutions.

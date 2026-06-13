@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood, historic]
 latitude: 17.9684
 longitude: -66.9292
 snippet: Former company town of the Central Guanica sugar mill
+score: 6.6
 ---
 
 Ensenada was built in the early 20th century as a company town around the Central Guanica sugar mill, which at one point was among the largest sugar operations in the Caribbean. The mill closed in the 1980s, but the rows of small wooden houses, the worker housing blocks, and the ruined mill chimneys remain — a clear architectural fingerprint of the American sugar era.

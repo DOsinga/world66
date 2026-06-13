@@ -8,6 +8,7 @@ latitude: -54.8700
 longitude: -68.2500
 story: >
   The channel was named by Captain Robert FitzRoy after his ship HMS Beagle, which sailed these waters during Charles Darwin's famous voyage of 1831–1836. Darwin described the Fuegian people he encountered as living in a state of nature that astonished him, and his observations here contributed directly to the ideas that would become On the Origin of Species.
+score: 8.9
 ---
 
 Boat trips on the Beagle Channel are Ushuaia's defining experience. The channel is about 240 kilometres long and rarely more than a few kilometres wide, hemmed in by mountains on both sides — on the Argentine side, the Martial range; on the Chilean side, the Darwin Range rising to peaks above 2,000 metres. The water is deep, cold, and extraordinarily clear.

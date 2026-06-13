@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 36.7553
 longitude: 14.6428
+score: 7.7
 ---
 
 Donnafugata is a 19th-century neo-Gothic castle set in the flat farmland 15 km south of Ragusa, worth a half-day trip from the city. The name — "fugitive woman" in Sicilian — comes from local legend about a queen imprisoned here, though the castle's romantic history is mostly invention; it was a summer retreat for the aristocratic Arezzo family.

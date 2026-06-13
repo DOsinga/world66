@@ -13,6 +13,7 @@ tags:
 title: Our Lord in the Attic
 type: poi
 url: museumamstelkring.nl
+score: 9.0
 ---
 
 A 17th-century merchant house with a fully functioning Catholic church hidden in the top three floors — built when Catholicism was banned in the Netherlands. The secret church is beautifully preserved and the house itself, with its original furnishings, gives a vivid sense of Golden Age Amsterdam.

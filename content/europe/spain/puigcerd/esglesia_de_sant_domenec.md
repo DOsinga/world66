@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 7.3
 ---
 
 Sant Domènec is a thirteenth-century Dominican church on the south edge of the old town, now Puigcerdà's principal place of worship after the loss of Santa Maria. It is a single-nave Gothic building of plain stone with a wooden roof and remarkable medieval frescoes on the side chapels — some of the best-preserved medieval wall paintings in Catalonia.

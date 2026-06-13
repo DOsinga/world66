@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "The boatbuilding tradition in Windward was brought in the 19th century by Scottish settlers from the Isle of Wight area and the Glasgow shipyards, who married into Carriacouan families. Names like McLawrence, Compton, and McFarlane still recur in the village, and the boats themselves are direct descendants of the schooners those settlers worked on."
+score: 8.7
 ---
 
 The wide curve of beach at the edge of Windward is an open-air shipyard. Wooden sloops and trading schooners are laid out on stocks under the casuarinas, their ribs and planking shaped with adzes and hand planes. There are no sheds and no power tools to speak of — most of the work is done with the same kit a boatbuilder would have used a century ago. The smell is cedar shavings and tar; the soundtrack is hammers on copper nails.

@@ -5,6 +5,7 @@ snippet: Late-Gothic Protestant parish church with a Romanesque tower and 15th-c
 tags: [things_to_do, sight, church]
 latitude: 48.8303
 longitude: 9.3173
+score: 7.4
 ---
 
 The Michaelskirche is Waiblingen's main Lutheran parish church, perched on a small rise just south of the market square. The lower part of the bell tower is Romanesque and survives from the original 12th-century church; the rest of the building is late Gothic, completed in the early 16th century with high windows and a vaulted interior.

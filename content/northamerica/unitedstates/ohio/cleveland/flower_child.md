@@ -11,6 +11,7 @@ tags:
 - shop
 title: Flower Child
 type: poi
+score: 5.2
 ---
 
 One of Cleveland's most well-known vintage shops. Gently used retro clothing, accessories, furniture, and collectibles at reasonable prices. Fun to browse and a great place to find truly unique items. Located on Clifton Boulevard near W. 117th in the Gold Coast neighborhood.

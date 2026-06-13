@@ -9,6 +9,7 @@ latitude: -19.87062
 longitude: 47.03498
 sources:
   - https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette_Cathedral,_Antsirabe
+score: 7.2
 ---
 
 The Cathedral of Our Lady of La Salette is the most prominent building in the Antsirabe skyline — a red-brick neo-Gothic structure with twin towers that would not look out of place in provincial France. Built in the early 20th century by the Missionaries of Our Lady of La Salette, it stands near the town centre and is still the main Catholic church of the diocese.

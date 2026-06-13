@@ -6,6 +6,7 @@ longitude: 148.2224
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A small private reptile park on the western edge of St Helens, with one of the most complete collections of native Tasmanian snakes and lizards in the state — tiger snakes, copperheads, white-lipped snakes, blue-tongues, mountain dragons — plus pythons, monitors and the occasional crocodile.

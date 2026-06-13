@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.1665
 longitude: -94.7295
+score: 5.8
 ---
 
 Classic Oklahoma roadside barbecue served from a small shack in Hochatown. Brisket, pulled pork, sausage, and ribs come by the pound or in sandwiches, with sides of beans, slaw, and corn bread.

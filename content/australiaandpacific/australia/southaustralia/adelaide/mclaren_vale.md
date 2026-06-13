@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Wine region on the Fleurieu Peninsula, 40 km south of Adelaide"
+score: 7.9
 ---
 
 McLaren Vale is 40 km south of Adelaide, hemmed between the Southern Mount Lofty Ranges and the Gulf St Vincent coast. The wine region is small and approachable — you can walk or cycle between cellar doors along the main road. The Shiraz and Grenache here have a character quite different from the Barossa: richer, often more generous, and influenced by the maritime climate.

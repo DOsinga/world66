@@ -6,6 +6,7 @@ latitude: 45.8326
 longitude: 6.8652
 story: >
   Horace-Bénédict de Saussure offered a prize in 1760 for the first person to reach the summit of Mont Blanc. He waited 26 years. Jacques Balmat and Michel Paccard finally collected in August 1786 — Paccard using a primitive barometer to confirm they had truly reached the top. De Saussure himself made the third ascent the following year, spending four hours on the summit conducting scientific experiments.
+score: 9.5
 ---
 
 At 4,808 metres, Mont Blanc is the highest peak in western Europe and the prize that put Chamonix on the map. Around 20,000 people attempt the summit each year from the French side, making it one of the most climbed high-altitude mountains in the world. But it is not a hike — it is a serious mountaineering objective requiring crampons, ice axe, and the ability to navigate glacier terrain in poor visibility.

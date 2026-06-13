@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Restaurants at the Port
 type: poi
+score: 6.6
 ---
 
 The port district in Vinaròs has a cluster of seafood restaurants on Passeig Colom and the adjacent streets, all serving essentially the same product: the day's catch from the Vinaròs fleet, with gamba roja as the signature. These are not destination restaurants in the formal sense — the setting is casual, the tablecloths are paper, and the waiters are brusque — but the quality of the raw material is exceptional.

@@ -18,6 +18,7 @@ story: >
   the tomb over centuries of veneration.
 sources:
   - https://en.wikipedia.org/wiki/Saintes,_Charente-Maritime
+score: 8.4
 ---
 
 The Basilique Saint-Eutrope stands at the southern edge of the old town, a 15th-century Gothic building erected above an extraordinarily well-preserved 11th-century crypt that is the real reason to visit. The crypt houses the tomb of Saint Eutrope, the legendary first bishop of Saintes, and was one of the key pilgrimage sites on the road to Santiago de Compostela. It is one of the largest Romanesque crypts in France, with massive columns and good Romanesque carving on the capitals.

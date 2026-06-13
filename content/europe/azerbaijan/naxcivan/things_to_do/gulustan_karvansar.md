@@ -10,6 +10,7 @@ tags:
 - sight
 title: Gulustan Karvansara
 type: poi
+score: 6.4
 ---
 
 The remains of a medieval caravanserai in Gulustan village, Julfa district, on the left bank of the Araks River. Discovered during field research in 1974 and fully excavated by 1978, though roughly half the structure was destroyed during construction of the Baku-Julfa railway in 1939-1940. What survives suggests it was one of the largest and most ornate roadside caravanserais in Azerbaijan, a stopover on the old trade routes through Nakhchivan.

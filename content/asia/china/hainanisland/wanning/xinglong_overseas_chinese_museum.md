@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.7380
 longitude: 110.2080
+score: 8.0
 ---
 
 The Xinglong Overseas Chinese Museum documents the history of the Indonesian, Malaysian, Vietnamese, and other Southeast Asian Chinese communities who were resettled here in the 1950s and 1960s, in one of the less-discussed episodes of Cold War demography. The resettlement camps established here received tens of thousands of people expelled from their adopted countries during waves of anti-Chinese nationalism, and the museum traces both the journeys that brought them here and what they built after they arrived.

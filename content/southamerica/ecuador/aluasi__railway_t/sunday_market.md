@@ -7,6 +7,7 @@ tags:
 - market
 title: Sunday Market
 type: poi
+score: 7.0
 ---
 
 Every Sunday, Alausi's central plaza and surrounding streets fill with indigenous Kichwa vendors from the surrounding Chimborazo highlands. The market is primarily a local affair — produce, animals, textiles, household goods — rather than a tourist market, which gives it a different character from the craft markets found in larger Ecuadorian cities.

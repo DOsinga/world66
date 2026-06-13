@@ -9,6 +9,7 @@ latitude: 35.8085
 longitude: 51.4488
 story: >
   On 16 January 1979, Mohammad Reza Shah left Niavaran Palace for what he announced as a "vacation." He never returned. The staff, apparently not told he was leaving for good, kept everything in order for weeks afterward. When the revolutionary government took control of the palace, they found it exactly as the Shah had left it — including the private library, the family photographs, and, reportedly, the Empress's wardrobe still in its closets.
+score: 8.0
 ---
 
 Niavaran Palace is the last palace Mohammad Reza Shah and Empress Farah lived in before the revolution — a modernist complex in the forested hills of northeastern Tehran that served as the primary royal residence from the late 1950s until January 1979. Unlike Sa'dabad, which is grand and formal, Niavaran is unexpectedly domestic in scale, with spaces that feel like they belonged to a family rather than a dynasty.

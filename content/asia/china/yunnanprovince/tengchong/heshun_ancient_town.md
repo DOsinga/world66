@@ -13,6 +13,7 @@ story: >
   "overseas Chinese" communities that still exist there today. When they made enough money
   they sent remittances home and built or renovated the family house — which is why Heshun
   has buildings of unusual quality for a village of its size.
+score: 8.8
 ---
 
 Heshun Ancient Town sits 4 kilometres from central Tengchong — close enough to reach by bicycle or a short taxi ride. The settlement has around 6,000 residents and more than 1,000 traditional courtyard houses, a hundred of which date to the Qing dynasty. Unlike many "ancient towns" in China that have been stripped of residents and converted to tourist commerce, Heshun remains genuinely inhabited. People live in the houses, wash clothes in the communal wash pools, and use the ancestral halls for actual gatherings.

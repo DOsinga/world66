@@ -9,6 +9,7 @@ tags:
 latitude: 12.0997
 longitude: -68.2331
 snippet: "Shallow turquoise bay, world-class windsurfing"
+score: 7.9
 ---
 
 Lac Bay on the southeast coast is one of the great windsurfing destinations of the world. The bay is wide, shallow, and protected by a reef offshore, so even when the trade winds blow at full force, the water inside stays flat. The breeze is reliable from January to August. **Sorobon Beach Resort** and a cluster of windsurfing schools sit at the southern end of the bay, where the wind hits hardest.

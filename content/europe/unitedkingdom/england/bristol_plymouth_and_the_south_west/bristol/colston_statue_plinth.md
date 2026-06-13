@@ -9,6 +9,7 @@ latitude: 51.4535
 longitude: -2.5967
 story: >
   Edward Colston's statue was toppled by protestors on 7 June 2020, during a Black Lives Matter demonstration, and rolled into Bristol Harbour. The police stood back and did not intervene. The statue was later recovered from the harbour and placed in the M Shed museum, where it is displayed lying on its side with the protest placards that decorated it on display alongside.
+score: 7.3
 ---
 
 The empty stone plinth on Anchor Road, near the Centre, is where Edward Colston's statue stood until 7 June 2020, when it was pulled from its pedestal during a Black Lives Matter demonstration and rolled into Bristol Harbour. Colston (1636–1721) was a Bristol merchant, philanthropist, and major beneficiary of the Royal African Company, which transported an estimated 84,000 enslaved people from Africa to the Americas. Streets, schools, and buildings across Bristol had been named after him.

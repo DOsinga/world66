@@ -8,6 +8,7 @@ tags:
   - market
   - sight
 snippet: "Beachside fish market on the Corniche where pirogues unload the daily catch at sundown"
+score: 8.3
 ---
 
 Late every afternoon a fleet of bright wooden pirogues pulls up onto the small curving beach at Soumbédioune, on the Corniche Ouest, and the day's catch is hauled up the sand to be sorted, gutted, and sold to crowds of buyers waist-deep in fish. It is one of the best free shows in Dakar — chaotic, photogenic, smelly, and over within a couple of hours.

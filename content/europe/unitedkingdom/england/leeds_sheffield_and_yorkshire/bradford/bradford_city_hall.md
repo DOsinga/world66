@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.7923
 longitude: -1.7533
+score: 8.6
 ---
 
 Bradford City Hall, opened in 1873 and extended in 1909, is the high-water mark of Victorian Gothic civic architecture in the north of England. The 67-metre clock tower was modelled on the campanile of the Palazzo Vecchio in Florence; the exterior carries 35 stone statues of English monarchs (and one notable inclusion, Oliver Cromwell), forming the longest sculpted royal line-up on any British public building.

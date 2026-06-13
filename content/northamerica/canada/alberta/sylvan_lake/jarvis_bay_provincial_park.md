@@ -7,6 +7,7 @@ tags:
 latitude: 52.3453
 longitude: -114.0864
 snippet: "Quiet provincial park on the north shore, 4km from town"
+score: 6.7
 ---
 
 Jarvis Bay Provincial Park sits on the north shore of Sylvan Lake, about 4 kilometres from the town centre along Highway 20. It's quieter than the main Sylvan Lake Park beach and better for camping and day use without the resort-town crowds. The campground here is well run and a good base for exploring the lake by water.

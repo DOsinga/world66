@@ -7,6 +7,7 @@ tags:
 latitude: 22.3193
 longitude: 114.1694
 snippet: The densest, loudest, and most authentically Hong Kong neighbourhood in Kowloon
+score: 8.4
 ---
 
 Mong Kok is where Hong Kong lives when it is not performing for tourists. The most densely populated district in one of the world's most densely populated cities, it is a warren of street markets, small restaurants, electronics stalls, noodle shops, and pharmacies running from Nathan Road east through a grid of narrow streets.

@@ -9,6 +9,7 @@ latitude: 16.2378
 longitude: -61.5350
 story: >
   The church is nicknamed the "iron cathedral" because of the metal frame that helps it survive Caribbean earthquakes and cyclones. In Pointe-à-Pitre, even sacred architecture had to learn from disaster.
+score: 7.6
 ---
 
 Saint-Pierre-et-Saint-Paul stands by Place Gourbeyre, a short walk from the markets. Its stone exterior is handsome, but the real interest is the iron structure inside, an engineering response to the fires, earthquakes, and hurricanes that repeatedly damaged Pointe-à-Pitre.

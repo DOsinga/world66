@@ -10,6 +10,7 @@ story: >
   Pulau Weh is a dormant volcanic island, and the geology that shaped it also created the reefs around Iboih. The steep underwater walls, coral gardens, and warm, nutrient-rich waters attract remarkable marine biodiversity — reef sharks, sea turtles, and whale sharks pass through, while clownfish and sea fans populate the shallower reefs within easy reach of snorkellers.
 sources:
   - https://en.wikipedia.org/wiki/Weh_Island
+score: 7.8
 ---
 
 Iboih beach is the hub of tourist activity on Sabang Island — a stretch of white sand on the western coast of Pulau Weh, about 20 km from the main town of Sabang. It is backed by simple guesthouses, beachside cafes, and several dive operators offering PADI courses and guided dives. The beach itself is pleasant, but the real draw is the water: the coral reefs begin just offshore, and snorkelling directly from the beach gives access to colourful fish, sea turtles, and the outer edge of the reef.

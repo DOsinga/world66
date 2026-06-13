@@ -8,6 +8,7 @@ tags:
 - museum
 title: Folklore and Ethnological Museum
 type: poi
+score: 7.4
 ---
 
 Housed in a handsome late-19th-century mansion on the long Vasilissis Olgas avenue, this is the best museum of its kind in Greece. The displays cover housing, costume, crafts and everyday life across northern Greece, with sharp, well-written commentaries that go well beyond a folklore-romp: the role of women, the clash of tradition and modernity, the cycles of agricultural and religious festivals.

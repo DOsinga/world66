@@ -9,6 +9,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 6.7
 ---
 
 Mikalojus Konstantinas Čiurlionis is Lithuania's most celebrated artist and composer — a symbolist painter and modernist composer who created an extraordinary body of work before his death in 1911 at age 35. He spent 1907–08 in Vilnius, and the house on Savičiaus Street where he lived and worked is now a small museum.

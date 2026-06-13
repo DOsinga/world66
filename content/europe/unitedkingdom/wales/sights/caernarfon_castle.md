@@ -7,6 +7,7 @@ tags:
 snippet: "Edward I's most formidable Welsh fortress, built 1283–1301"
 latitude: 53.139345
 longitude: -4.276846
+score: 9.2
 ---
 
 Built between 1283 and 1301, Caernarfon Castle was Edward I's most impressive stronghold — and the most expensive of his chain of North Welsh fortresses. The polygonal towers and colour-banded masonry were inspired by Constantinople's fifth-century walls, giving it a distinctly un-English look that set it apart from anything else in Britain.

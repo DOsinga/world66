@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 49.2381
 longitude: 8.8875
+score: 6.4
 ---
 
 Home of TSG 1899 Hoffenheim, the Bundesliga club bankrolled into the top flight by SAP co-founder Dietmar Hopp. The 30,000-seat stadium opened in 2009 on the edge of Sinsheim, replacing the tiny village ground at Hoffenheim that the club had outgrown. Tours run on most non-match days.

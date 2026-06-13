@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Jameh Mosque of Semnan
 type: poi
+score: 7.5
 ---
 
 The Jameh Mosque of Semnan stands inside the old bazaar area and is the city's most important historic religious building. Its earliest fabric goes back to the Seljuk period, and tradition places it over an earlier fire-temple site, though the visible monument is firmly Islamic in form.

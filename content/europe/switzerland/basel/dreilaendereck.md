@@ -10,6 +10,7 @@ story: >
   A small obelisk-like monument marks the precise point where Switzerland, France, and Germany meet in the Rhine. You can stand in one country, stretch your arms wide, and theoretically touch two others — though in practice the banks are muddy and the river is between the French and German sides.
 sources:
   - https://en.wikipedia.org/wiki/Drei%C3%A4nderecke_(Basel)
+score: 5.6
 ---
 
 The "three-country corner" at the point where the Rhine forms the border between Germany, France, and Switzerland. A modern metal sculpture — resembling a futuristic prow — marks the spot on the Swiss bank. From here you can look across to the Alsatian town of Village-Neuf on the French side and the German town of Weil am Rhein.

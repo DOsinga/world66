@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Vast cobbled Georgian square with Saturday market and obelisk cross
+score: 8.2
 ---
 
 Richmond's Market Place is one of the largest market squares in England — a great cobbled rectangle sloping gently south from the castle, ringed by Georgian and Victorian shopfronts, and centred on a tall obelisk that replaced the medieval market cross in 1771. The obelisk sits on top of a covered reservoir, which is part of why the cross was rebuilt in the first place: the town's water supply was here.

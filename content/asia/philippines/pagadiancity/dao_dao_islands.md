@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 7.8000
 longitude: 123.4000
+score: 7.7
 ---
 
 A short banca ride from Pagadian's port takes you out into Illana Bay to the cluster of small islands collectively known as Dao Dao. Dao Dao Gamay (the smaller one) has a thin curve of white sand and shallow turquoise water that is easy to wade and snorkel; Dao Dao Dako, slightly larger, has a few cottages and shaded picnic huts for hire.

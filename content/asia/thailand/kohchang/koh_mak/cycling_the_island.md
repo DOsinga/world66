@@ -6,6 +6,7 @@ tags:
   - cycling
 latitude: 11.819
 longitude: 102.490
+score: 7.8
 ---
 
 Koh Mak is flat — a rare thing in the Thai islands — and a bicycle is the natural way to get around. Every resort rents bikes for 100–150 baht a day, and the concrete lanes between the rubber plantations are quiet enough that you rarely see a car.

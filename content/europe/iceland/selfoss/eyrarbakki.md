@@ -12,6 +12,7 @@ tags:
 - sight
 title: Eyrarbakki
 type: poi
+score: 7.4
 ---
 
 A small fishing village 10 km south of Selfoss on the coast, where the flat tidal flats of the south Iceland coast meet the North Atlantic. Eyrarbakki feels older and more characterful than Selfoss — it was once the principal port for southern Iceland, and a row of 18th- and 19th-century merchant houses still stands along the waterfront.

@@ -8,6 +8,7 @@ tags:
   - sight
   - market
 story: "The Friday morning livestock market — held in a circular pen just outside the fort — is the oldest continuous market in Oman, with goats, cattle and camels paraded around for buyers who shout out bids while sipping coffee. It runs from sunrise to about 9am; arrive at 7."
+score: 8.3
 ---
 
 The souq sits in the shadow of the fort walls, in a series of low-arched buildings restored in the 1990s in a sympathetic traditional style. It is divided into sections: the silver and copper souq where artisans still hammer khanjar daggers, coffee pots and incense burners by hand; the date market; the fish, fruit and vegetable market; and the meat hall.

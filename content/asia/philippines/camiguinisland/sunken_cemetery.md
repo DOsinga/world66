@@ -13,6 +13,7 @@ story: >
   of hundreds of people down with it. The white cross erected in 1982 to mark the site is now the most
   photographed object in Camiguin — a single vertical form rising from flat water, everything beneath it
   invisible to any passing boat.
+score: 8.8
 ---
 
 In 1871 a volcanic eruption caused a coastal cemetery near Catarman to sink beneath the sea. A large white cross erected in 1982 now marks the site above water. At low tide coral-encrusted tombstones are visible about six metres down, and the site is one of Camiguin's most popular dive spots — the combination of marine life and submerged headstones is genuinely eerie.

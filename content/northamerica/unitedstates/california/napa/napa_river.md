@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
+score: 7.8
 ---
 
 The Napa River runs through the centre of town and was, for most of Napa's history, a back-of-house industrial waterway. A long restoration project completed major sections in the 2010s, with new flood walls, restored wetland, and a continuous riverfront promenade. The downtown stretch between the Oxbow Public Market and Veterans Park is the most developed.

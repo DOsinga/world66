@@ -14,6 +14,7 @@ tags:
   - architecture
 title: Karmravor Church
 type: poi
+score: 8.9
 ---
 
 The jewel of Ashtarak: a tiny 7th-century church whose tiled dome and perfectly proportioned silhouette have made it one of the most iconic images of medieval Armenian architecture. Karmravor is small enough that the entire building can be photographed from a few feet away, yet every element is precise and considered. The dome's reddish tiles — Byzantine imports that have survived 1,400 years — give the church its name.

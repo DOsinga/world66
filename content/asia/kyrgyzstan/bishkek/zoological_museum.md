@@ -7,6 +7,7 @@ tags:
 latitude: 42.8662
 longitude: 74.6049
 address: "Frunze Street 537, Bishkek"
+score: 6.4
 ---
 
 A small but charmingly old-school natural history museum attached to the Kyrgyz National Academy of Sciences. The displays — taxidermied snow leopards, ibex, golden eagles, marmots, reptiles from the Fergana valley — have not been substantially updated since the 1970s and have the slightly time-warped feel of a Soviet provincial museum.

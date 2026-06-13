@@ -6,6 +6,7 @@ latitude: 19.8381
 longitude: 105.7942
 story: >
   Between 1965 and 1972, American aircraft attacked the Ham Rong Bridge 117 times without destroying it. The bridge was the critical bottleneck on the north-south supply route, and the North Vietnamese military turned its defense into a point of national pride — stationing anti-aircraft guns on the surrounding hills and scrambling MiG fighters from Hanoi to intercept bombing runs. The bridge was finally destroyed in 1972 and immediately rebuilt.
+score: 6.9
 ---
 
 The Ham Rong (Dragon Jaw) Bridge spans the Ma River three kilometers northeast of Thanh Hoa city and is one of the most significant sites from the American War in Vietnam. The original bridge, built in 1964, was targeted relentlessly by US Air Force and Navy aircraft because it carried road and rail traffic — and therefore supplies — south from Hanoi. Despite more than a hundred air strikes, it was never kept out of service for long.

@@ -8,6 +8,7 @@ snippet: "Riverside walk along the right bank of the Dniester below the fortress
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 The promenade along the right bank of the Dniester is the most pleasant strip of public space in the city: a tree-lined path with benches, modest Soviet-era statues and views across the wide river to Tiraspol. It is busiest on summer evenings, when families come out to walk, fish and eat ice cream — one of those daily-life scenes that does more to convey what Bender is actually like than any monument can.

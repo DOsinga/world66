@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 5.8
 ---
 
 Uhlenhorst, along the east shore of the Aussenalster, is a quiet bourgeois neighbourhood that earns its place as one of Hamburg's nicer districts on the strength of its lakeside parks and its early-20th-century villas. The Schöne Aussicht (Beautiful View) embankment runs along the water with a footpath under big chestnut trees.

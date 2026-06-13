@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -26.8311
 longitude: -65.1842
+score: 7.7
 ---
 
 The original sugar mill of Bishop José Eusebio Colombres, who introduced commercial sugar production to Tucumán in 1821 — an industry that has shaped the province's economy and politics ever since. The simple white-walled farmhouse and the wooden press and grinding machinery sit at the centre of the Parque 9 de Julio.

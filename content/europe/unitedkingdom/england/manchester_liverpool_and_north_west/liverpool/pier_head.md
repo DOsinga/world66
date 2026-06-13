@@ -10,6 +10,7 @@ tags:
 - waterfront
 title: Pier Head
 type: poi
+score: 8.7
 ---
 
 The most photographed stretch of waterfront in northern England. The Pier Head is dominated by the Three Graces — the Royal Liver Building, the Cunard Building and the Port of Liverpool Building — three monumental early-20th-century structures that together form one of the great civic ensembles in Britain. They are the architectural face of Liverpool's days as the second city of the British Empire.

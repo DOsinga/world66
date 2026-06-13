@@ -14,6 +14,7 @@ story: >
   it is the only major Angkor temple with no carved decoration on its sandstone
   blocks, which makes it look completely different from every other temple in the
   complex: stripped, massive, and unadorned like a building frozen mid-construction.
+score: 6.6
 ---
 
 **Ta Keo** is one of the earliest of Angkor's sandstone temple-mountains, built by Jayavarman V in the late 10th century, and it has a striking severity that sets it apart from the intricate decoration of later temples. The five towers rise steeply from a series of platforms, and the staircases are among the most nearly vertical at Angkor — the climb to the summit requires holding the railings and considerable care. But the effort is worth it: the view from the top takes in the treetops of the surrounding forest and a sense of the scale of the central Angkor complex.

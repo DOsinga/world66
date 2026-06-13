@@ -14,6 +14,7 @@ story: >
   bright still afternoons. Lac Rose was the finishing point of the
   original Paris–Dakar Rally from 1979 until the race was rerouted to
   South America in 2009.
+score: 6.8
 ---
 
 Lac Retba, universally called Lac Rose, sits in a shallow basin behind the dunes about an hour northeast of Dakar — a small salt lake whose water turns a startling bubblegum pink in the dry season. The colour is real, not a filter; a carotenoid produced by a halophilic alga reacts with the salt-saturated water. It is one of the most-photographed sights in Senegal.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.9553
 longitude: 21.7134
+score: 5.8
 ---
 
 **Kossuth tér** is the main square and historic heart of Nyíregyháza. The square is dominated by the Greek Catholic cathedral on one side and flanked by civic buildings, shops, and a pedestrian zone that extends through the centre. It is the natural starting point for exploring the city on foot.

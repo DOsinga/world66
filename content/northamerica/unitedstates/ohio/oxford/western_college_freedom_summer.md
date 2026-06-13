@@ -13,6 +13,7 @@ story: >
   Oxford for the South were James Chaney, Andrew Goodman, and Michael Schwerner —
   three civil rights workers who were murdered by Klansmen and local police within
   days of arriving in Mississippi. Their names are on the memorial here.
+score: 7.8
 ---
 
 Western College for Women opened in 1853 as one of the first institutions in the United States to offer women a rigorous college education. It operated as an independent liberal arts college until 1974, when it merged with Miami University. The historic buildings of the Western Campus now form a distinct western section of Miami's grounds.

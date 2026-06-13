@@ -8,6 +8,7 @@ tags:
 title: Souq El Had
 type: poi
 story: "The name means 'Sunday Market' — a reminder that until relatively recently it was a weekly event held only on Sundays, when rural Berber farmers came down from the Anti-Atlas to sell produce and buy supplies. It is now open six days a week (closed Mondays), has grown to cover 13 hectares, and is one of the largest urban markets in Africa."
+score: 8.2
 ---
 
 Souq El Had is Agadir's main market and the most authentically Moroccan experience the city offers. It is large — 13 hectares of covered and open-air stalls — and sells everything from Berber textiles and argan oil to live chickens and household appliances. The spice section is particularly good, with mounds of saffron, cumin, and preserved lemons from the Souss valley.

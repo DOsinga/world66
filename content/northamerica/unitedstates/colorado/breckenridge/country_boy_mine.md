@@ -9,6 +9,7 @@ tags:
 - sight
 title: Country Boy Mine
 type: poi
+score: 6.8
 ---
 
 Country Boy Mine gives Breckenridge some of its range beyond the usual resort-town formula. It is close enough to town to fit into a short visit, but it rewards a little patience, especially when weather, altitude, or ski-season crowds slow things down.

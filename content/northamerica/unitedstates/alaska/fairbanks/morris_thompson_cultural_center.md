@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 64.8432
 longitude: -147.7216
+score: 8.1
 ---
 
 The Morris Thompson Cultural and Visitors Center on Dunkel Street downtown is the best starting point for any visit to Fairbanks. The building serves double duty as a visitor information center and a museum of Athabascan and Alaska Native culture, and both functions are done well. Admission is free.

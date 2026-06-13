@@ -9,6 +9,7 @@ latitude: 54.2280
 longitude: -6.9970
 snippet: "Public forest park on the old Rossmore Castle estate, 3 km south of town"
 story: "The Rossmore Castle ruin in the middle of the park is what remains of the seat of the Westenra family, Barons Rossmore. The huge baronial pile became uninhabitable in the 20th century after dry rot was found in its 117 chimneys. It was demolished in the 1970s; only foundations are left."
+score: 7.4
 ---
 
 The former Rossmore family estate, opened to the public in 1974 and now run by Coillte as a forest park. Several waymarked loops thread through old beech and oak woods, with views over Monaghan from the higher paths and ornamental lakes in the lower ground. The drumlin landscape — rounded glacial hills, one after the other — is one of the easiest places in Ireland to see this kind of terrain at work.

@@ -9,6 +9,7 @@ tags:
 - sight
 - viewpoint
 - park
+score: 8.0
 ---
 
 Cetățuia ("the little fortress") is the hill rising directly north of the river, named after the 18th-century Austrian fort that once stood here. The fort is mostly gone but the views remain — from the top you can see the whole of central Cluj spread out below, with St. Michael's spire poking up in the middle distance and the hills of Transylvania closing the horizon.

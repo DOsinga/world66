@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Alfi Bey
 type: poi
+score: 5.4
 ---
 
 A no-frills Downtown institution. Roast lamb and pigeon stuffed with liver are the specialities — unpretentious, delicious, and cheap.

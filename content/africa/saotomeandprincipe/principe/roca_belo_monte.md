@@ -10,6 +10,7 @@ latitude: 1.6800
 longitude: 7.4400
 sources:
   - https://en.wikipedia.org/wiki/Pr%C3%ADncipe
+score: 7.1
 ---
 
 Roça Belo Monte is a former cocoa plantation on the northeastern coast, established in 1922 and now operating as Príncipe's most comfortable boutique hotel. The restoration has been done with care: the original plantation buildings — the main house, workers' quarters, drying sheds — have been converted into suites and communal spaces without stripping out the colonial character. The result is an unusual combination of colonial-era atmosphere and genuine comfort.

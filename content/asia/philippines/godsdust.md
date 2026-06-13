@@ -6,6 +6,7 @@ tags:
 - books
 title: God's Dust
 type: poi
+score: 6.6
 ---
 
 Ian Buruma's 1989 travelogue examines how seven Asian nations — Burma, Thailand, Singapore, Malaysia, the Philippines, Korea, and Japan — construct their modern identities from the wreckage of colonialism, nationalism, and Westernisation. He is a sharp and unsentimental observer: more interested in the contradictions people live with than in romantic notions of the East.

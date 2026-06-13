@@ -12,6 +12,7 @@ story: >
   air, low pollen, and therapeutic tidal conditions. The designation dates
   from the 1920s when the island began marketing itself as a health resort
   for city-dwellers recovering from the effects of industrial air.
+score: 8.3
 ---
 
 The north beach runs the full length of Langeoog — about 14 kilometres of unbroken sand — and is the island's reason for being. It is broad, backed by high dunes, and the North Sea here is cold even in summer: water temperatures rarely exceed 20°C, and the waves are real waves, not the gentle lapping of a sheltered bay. German families have been coming here for generations specifically because of this.

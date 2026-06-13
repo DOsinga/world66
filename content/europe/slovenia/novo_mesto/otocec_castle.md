@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.8239
 longitude: 15.2456
+score: 7.7
 ---
 
 Otočec Castle is a small Renaissance fortress sitting on an island in the Krka river, about 10 kilometres east of Novo Mesto. The island setting — the castle is connected to both banks by wooden bridges — makes it one of the most picturesque spots in Slovenia, and it features on a remarkable number of postcards.

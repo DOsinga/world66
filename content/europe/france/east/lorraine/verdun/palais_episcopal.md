@@ -8,6 +8,7 @@ tags:
 - museum
 - landmark
 snippet: "18th-century episcopal palace now housing a peace and human rights museum"
+score: 7.3
 ---
 
 The Episcopal Palace next to the cathedral is a grand 18th-century classical building designed by Robert de Cotte, the architect who completed Versailles' chapel. It served the bishops of Verdun until the early 20th century; since 1994 it has been the Centre Mondial de la Paix, des Libertés et des Droits de l'Homme.

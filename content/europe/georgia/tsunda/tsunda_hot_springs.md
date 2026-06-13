@@ -13,6 +13,7 @@ story: >
   opened to travellers decades ago — a grandmother and her descendants who
   charge a modest fee and often invite guests to share a meal of khinkali and
   home-distilled chacha afterward.
+score: 6.0
 ---
 
 On the road between Alkhatsikhe and [Vardzia](/europe/georgia/vardzia), the small hamlet of Tsunda has a family-run mineral bathhouse where naturally hot spring water fills an indoor pool. The water is clear and warm — not scalding — and has a slightly sulphurous mineral quality typical of the region's geothermal springs. After a day of walking at Vardzia or in the surrounding hills, it is one of the most restorative stops in southern Georgia.

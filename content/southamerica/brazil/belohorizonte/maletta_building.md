@@ -8,6 +8,7 @@ tags:
 title: Edifício Maletta
 type: poi
 story: "When Edifício Maletta opened in 1960 it was the most modern building in central Belo Horizonte. Its open-arcade ground floor, by chance more than design, became the meeting point for the city's intellectuals, journalists, and artists, and the small bars and bookshops that filled the arcade still trade on that history sixty years later."
+score: 7.8
 ---
 
 The Edifício Maletta is a 1960 modernist office building in the centro that everyone in Belo Horizonte knows because of its ground floor — an open commercial arcade that became, almost accidentally, the gathering place for the city's bohemian intelligentsia. Bookshops, record stores, small bars, and even smaller cafes fill the space, and by ten o'clock most evenings the arcade and the surrounding pavement are full of people drinking and arguing.

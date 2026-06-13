@@ -7,6 +7,7 @@ tags:
   - scenic_drive
 title: Colonial Parkway
 type: poi
+score: 7.0
 ---
 
 The Colonial Parkway links Yorktown with Williamsburg and Jamestown, running through woods, marshes, and river views with deliberately minimal modern clutter. It is a road designed to feel like a transition through early American history.

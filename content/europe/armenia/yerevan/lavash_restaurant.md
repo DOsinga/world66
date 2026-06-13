@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 21 Tumanyan Street
+score: 7.0
 ---
 
 A long, narrow modern Armenian restaurant on Tumanyan Street, named for the thin Armenian flatbread that is itself UNESCO-listed cultural heritage. The bread is baked in a tonir (clay oven) at the entrance and arrives at the table warm. The menu covers the classic Armenian range — khorovats (grilled meats), trout from Lake Sevan, dolma, ghapama — with a modern, lighter touch.

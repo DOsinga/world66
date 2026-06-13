@@ -6,6 +6,7 @@ longitude: -118.413000
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Strand is a paved beachfront path that runs the length of Manhattan Beach and connects to similar paths in Hermosa Beach and Redondo Beach, forming a continuous coastal route that stretches some 22 miles in total. It is the social spine of the South Bay — busy with joggers, cyclists, roller skaters, dog walkers, and people pushing strollers from first light to late evening.

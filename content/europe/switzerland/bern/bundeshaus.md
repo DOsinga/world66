@@ -9,6 +9,7 @@ latitude: 46.9467
 longitude: 7.4443
 story: >
   Switzerland's political system makes the Bundeshaus unusual among European parliaments. The Federal Council — the seven-person executive that governs Switzerland collectively — meets here, and its members rotate the presidency annually. The building is open for public gallery access when parliament is in session, and free guided tours run on non-sitting days. The tours go into the main chamber, which has a mosaic floor listing all 26 Swiss cantons.
+score: 7.8
 ---
 
 The Bundeshaus is the seat of the Swiss Federal Assembly and Federal Council, a Neo-Renaissance building completed in 1902 on a bluff overlooking the Aare. The copper dome is a landmark visible from much of the city. The main façade faces the Bundesplatz, a broad square that hosts a popular pop-up fountain in summer — jets of water flush from between the cobblestones, marked with the coats of arms of the cantons.

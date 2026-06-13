@@ -7,6 +7,7 @@ tags:
 - beach
 title: Klek Beach
 type: poi
+score: 6.6
 ---
 
 The village beach is a short stretch of pebbles and shingle in the sheltered cove that the village wraps around. The water is clear, calm, and shallow for a long way out — good for families, less good if you want waves. A few pine trees offer shade above the shoreline, and the small bar on the seafront sells drinks and ice cream through the summer.

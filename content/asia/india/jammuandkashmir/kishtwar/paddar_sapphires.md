@@ -6,6 +6,7 @@ latitude: 33.5500
 longitude: 76.0333
 story: >
   Kishtwar sapphires were first reported to the outside world in the 1880s, when a landslide above the Paddar valley exposed a vein of cornflower-blue corundum. Within a decade, stones from this remote valley were commanding premium prices in London and Paris — the "Kashmiri blue" became the benchmark against which all other sapphires were judged. The original discovery vein was largely exhausted by the 1930s, but small-scale mining continues and new pockets are still occasionally found.
+score: 8.1
 ---
 
 The Paddar valley, northeast of Kishtwar town, sits at around 4,000 m and is one of the world's most historically important sapphire sources. Kashmiri sapphires — typically a velvety cornflower blue with exceptional clarity and a distinctive silky appearance caused by fine rutile inclusions — have been considered the finest in the world since their discovery in the 1880s.

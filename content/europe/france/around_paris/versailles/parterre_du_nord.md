@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8063
 longitude: 2.1205
+score: 7.0
 ---
 
 The Parterre du Nord is the formal garden immediately north of the palace, reached from the terrace through the north wing. Two long reflecting pools border the central walk, with bronze sculptures along their edges — the famous Knife-Sharpener and the Wrestlers, among others — and the whole parterre slopes gently down toward the Neptune fountain and the tree-lined allées beyond.

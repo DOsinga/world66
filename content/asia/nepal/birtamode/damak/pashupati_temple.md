@@ -6,6 +6,7 @@ longitude: 87.680101
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 At the heart of Damak's bazaar stands a replica of the Pashupatinath temple in Kathmandu, built to serve the local Hindu population and pilgrims passing through the Terai. The temple is smaller than its Kathmandu model but faithful to the pagoda style and active with daily worship. It draws devotees from the surrounding villages and from traders in the market.

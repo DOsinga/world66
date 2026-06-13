@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.35
 longitude: -111.55
+score: 6.7
 ---
 
 The Manti-La Sal National Forest begins at the edge of town and spreads east into the Wasatch Plateau. The forest offers a welcome contrast to the hot, dry valley floor in summer: the plateau rises above 3,500 metres and stays cool through July and August. The road to the plateau passes through stands of aspen that turn brilliant gold in late September and early October, making this one of the better autumn foliage drives in central Utah.

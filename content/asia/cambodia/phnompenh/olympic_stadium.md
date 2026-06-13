@@ -15,6 +15,7 @@ story: >
   public executions. The terraces are still a daily gathering spot for the
   city's aerobics groups, who fill the stands with synchronised lunges every
   evening at five.
+score: 7.2
 ---
 
 Built in 1964 and now usually called by its Khmer name Stade Olympique, this concrete sports complex is one of the great works of Vann Molyvann's New Khmer Architecture. The stadium never hosted an Olympics — it was built for the GANEFO games that were ultimately cancelled — but its dramatic terraced bowls, ramps and water features are still in use for football matches, school athletics and military parades.

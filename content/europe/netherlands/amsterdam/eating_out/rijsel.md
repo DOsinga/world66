@@ -6,6 +6,7 @@ longitude: 4.9128
 tags:
   - eating_out
   - restaurant
+score: 7.3
 ---
 
 A long-running favourite on Mauritskade, east of the Amstel, that has become the kind of place Amsterdammers recommend without hesitation. The food is modern French-Belgian — brasserie classics done with care and without fuss: steak tartare, moules, grilled fish, a few thoughtful vegetable dishes. The room is warm and unpretentious, the wine list reasonable.

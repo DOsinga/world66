@@ -12,6 +12,7 @@ tags:
 title: Kew Gardens (Royal Botanic Gardens)
 type: poi
 url: www.kew.org
+score: 9.2
 ---
 
 Kew Gardens is 132 hectares of botanical garden on the south bank of the Thames, containing over 50,000 plant species and several remarkable Victorian glasshouses. The Palm House, a vast iron and glass structure completed in 1848, is an experience in itself — the dense humid heat hits you as you step inside, and you walk through banana trees, cacao plants, and palms reaching the full height of the building.

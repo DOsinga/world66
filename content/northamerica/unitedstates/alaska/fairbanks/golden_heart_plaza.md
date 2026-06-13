@@ -10,6 +10,7 @@ story: >
   The plaza is the official starting point of the Yukon Quest International Sled Dog Race,
   a 1,000-mile race between Fairbanks and Whitehorse, Yukon. Every February, mushers and
   their dog teams launch from this spot into the frozen Interior wilderness.
+score: 6.4
 ---
 
 Golden Heart Plaza sits on the south bank of the Chena River in the center of downtown Fairbanks. The centerpiece is the Unknown First Family statue — a bronze sculpture of a Native Alaskan family gazing out over the river, erected in 1986 to honor the city's indigenous heritage and the early settlers who built it.

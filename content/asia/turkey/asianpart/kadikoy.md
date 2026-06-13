@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.9905
 longitude: 29.0265
+score: 8.3
 ---
 
 Kadıköy is the main district of the Asian shore — a neighbourhood of bookshops, fish restaurants, street art, and the kind of comfortable leftwing bohemianism that has long distinguished it from the more conservative Üsküdar to the north. The area has a high concentration of writers, musicians, and university graduates, and the political graffiti is more abundant and more pointed than elsewhere in the city.

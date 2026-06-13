@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: Cave temple with an unfinished 12-metre standing Buddha carved into the cliff
+score: 6.1
 ---
 
 Six kilometres from Ella on the Bandarawela road, easily missed if you blink. The temple sits in a low cliff face and is best known for an unfinished standing Buddha — a 12-metre figure cut into the rock that legend attributes to King Walagamba in the first century BCE, who was said to be hiding here from South Indian invaders. The carving was never completed, which gives it an oddly hesitant quality.

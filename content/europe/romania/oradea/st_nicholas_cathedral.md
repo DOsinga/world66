@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Romanian Orthodox cathedral on Union Square, twin-towered Baroque
+score: 6.6
 ---
 
 The Catedrala Sfântul Nicolae stands directly opposite the Church with the Moon, two Orthodox churches sharing the same square — an indication of how central the Romanian community was to Oradea even under Hungarian rule. Built between 1800 and 1810 in a sober late-Baroque style, it serves as the cathedral of the Romanian Orthodox Diocese of Oradea.

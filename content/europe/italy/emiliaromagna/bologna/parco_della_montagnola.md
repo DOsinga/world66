@@ -7,6 +7,7 @@ snippet: Hillside park near the train station, with a grand stone staircase
 tags:
 - things_to_do
 - park
+score: 5.5
 ---
 
 The Montagnola is the small wooded hill just south of Bologna Centrale station, raised on the rubble of a medieval fortress that the city's residents pulled down in 1511 after expelling its papal governor. The park has been landscaped several times since; the monumental Pincio staircase climbing up to it from Via Indipendenza dates from 1896 and is the formal northern entrance to the historic centre.

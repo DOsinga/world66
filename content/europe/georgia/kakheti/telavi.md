@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.9166
 longitude: 45.4833
+score: 6.9
 ---
 
 Telavi is the regional capital of Kakheti and the natural base for exploring the wine country. It sits on a plateau above the Alazani Valley with the snow-capped Greater Caucasus forming the northern horizon — a setting that justifies the drive from Tbilisi on its own. The old town clusters around the main square, where a plane tree said to be 900 years old shades much of the central plaza.

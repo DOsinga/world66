@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.3820
 longitude: 8.2610
+score: 7.4
 ---
 
 The Parco dell'Adelasia is a forested nature park that spreads across the hills south and east of Cairo Montenotte, taking its name from a local legend about Adalasia, a medieval noblewoman who supposedly hid treasure in these woods. The park covers mixed broadleaf and chestnut forest on the Ligurian Apennine slopes, with trails ranging from easy valley walks to longer routes that climb to ridges with coastal views.

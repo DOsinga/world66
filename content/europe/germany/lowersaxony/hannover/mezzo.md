@@ -11,6 +11,7 @@ tags:
 - bars_and_cafes
 title: Mezzo
 type: poi
+score: 5.4
 ---
 
 The all-day cafe-bar at the head of Lister Meile and a fixture of the Bermuda Triangle drinking district. Students with laptops in the morning, breakfast served until 15:00, evening drinkers by the big front windows, and a packed pavement terrace through the summer. A reliable place to start or end a night.

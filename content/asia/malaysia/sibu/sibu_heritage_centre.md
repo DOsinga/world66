@@ -8,6 +8,7 @@ latitude: 2.289611
 longitude: 111.828139
 sources:
   - https://en.wikipedia.org/wiki/Sibu_Heritage_Centre
+score: 7.6
 ---
 
 The Sibu Heritage Centre is the best first stop in town, especially if Sibu otherwise feels like a jumble of markets, shophouses, and river traffic. The displays cover the communities that shaped the lower Rajang: Iban, Malay, Melanau, and Foochow Chinese settlers, with costumes, tools, photographs, and domestic objects doing most of the explaining.

@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.3
 ---
 
 The Puerta de San Juan is the last of the original five city gates still standing — a heavy red wooden double-door set into the wall at sea level. Until the city expanded in the nineteenth century, this was the formal entrance to San Juan: ships docked just outside, dignitaries disembarked, and the gate was opened for them to walk up to the cathedral.

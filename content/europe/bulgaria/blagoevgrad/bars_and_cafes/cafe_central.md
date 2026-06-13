@@ -7,6 +7,7 @@ tags:
 latitude: 41.7505
 longitude: 23.4912
 snippet: Busy all-day café on the pedestrian boulevard, the social hub of the student scene
+score: 5.8
 ---
 
 The most prominent terrace café on Makedonia Boulevard, Cafe Central is where Blagoevgrad's students come to drink coffee, do coursework, and watch the world go by. It opens early, gets busy by mid-morning, and stays lively until late. The coffee is good; the food — sandwiches, pastries, light meals — is functional but not the point.

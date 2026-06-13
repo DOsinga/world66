@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 36.6583
 longitude: 117.0106
+score: 7.2
 ---
 
 The morning markets along and off Jingsi Road in the old city are where Jinan does breakfast at its most functional and affordable. Stalls set up before dawn selling fresh vegetables, live fish from Yellow River and fish ponds, bean curd in various stages of preparation, and the raw materials of Shandong home cooking. By 7am the main action is in full swing; by 9am most of the vendors are packing up.

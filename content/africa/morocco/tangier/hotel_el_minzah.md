@@ -16,6 +16,7 @@ story: >
   intelligence officers using a suite on the upper floor. Eisenhower,
   Churchill, Rita Hayworth, and Aristotle Onassis all stayed here in the
   decades that followed.
+score: 7.6
 ---
 
 The grandest of Tangier's surviving classic hotels, El Minzah opened in 1930 in a purpose-built blend of Moorish and Andalusi styles — tiled patios, a sunken garden, an indoor pool fed by an Andalusi-style fountain, and arcaded balconies looking down on the city. Even non-guests can wander in for a drink in the **Caid's Bar** (with its leather chesterfields and Churchill-era photographs) or for afternoon tea in the patio.

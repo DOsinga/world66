@@ -10,6 +10,7 @@ tags:
 title: Abbey of Saint-Maurice and Saint-Maur
 type: poi
 url: www.abbaye-clervaux.lu
+score: 7.8
 ---
 
 The pale stone Benedictine abbey on the hillside opposite Clervaux Castle was founded in 1909 by monks from Solesmes Abbey in France, fleeing the French Third Republic's expulsion of religious orders. Built in a neo-Romanesque style, it still feels new — and the monastic community of about a dozen brothers is still active, following the original Solesmes liturgical tradition with daily sung Gregorian chant.

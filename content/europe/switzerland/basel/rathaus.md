@@ -11,6 +11,7 @@ story: >
   The Rathaus was built in the early 16th century, but its startlingly red facade dates from a 1898 restoration that doubled down on the original colouring. The frescoes in the inner courtyard — depicting Basel's entry into the Swiss Confederation in 1501 — were painted at the same time, making the whole ensemble a Victorian reimagining of the medieval.
 sources:
   - https://en.wikipedia.org/wiki/Basel_Town_Hall
+score: 7.8
 ---
 
 The most eye-catching building on Marktplatz, the Rathaus has been the seat of Basel's government since 1512. Its facade is painted a vivid terracotta red — a deliberate, flamboyant choice that makes it immediately recognisable from across the square. The main tower and wings are encrusted with golden coats of arms, statues, and inscriptions.

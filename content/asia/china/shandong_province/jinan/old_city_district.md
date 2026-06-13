@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6560
 longitude: 116.9950
+score: 8.6
 ---
 
 The old city spring district — the area bounded by Quancheng Road to the north, Heihu Spring to the east, and the moat to the west — is the oldest and most atmospheric part of Jinan. The streets here follow a pre-modern grid that the city's expansion has largely bypassed: narrow lanes between courtyard houses, spring channels running alongside low stone walls, and the sound of flowing water audible from most corners.

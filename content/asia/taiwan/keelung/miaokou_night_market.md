@@ -5,6 +5,7 @@ latitude: 25.128611
 longitude: 121.743194
 snippet: "Taiwan's best harbour-side night market, centred on Dianji Temple"
 tags: [things_to_do, market, food]
+score: 8.8
 ---
 
 The Miaokou Night Market fans out from the gates of Dianji Temple in the heart of the old city, and it is one of the most satisfying night markets in Taiwan. Unlike the Taipei markets that have become international tourist circuits, Miaokou still operates primarily for locals. Vendors have held the same stalls for generations. The food reflects the sea: crab congee, oyster vermicelli, grilled squid, braised fish head. Alongside that you will find herbal duck soup, pork rice with pickled vegetables, and thick sweet taro balls.

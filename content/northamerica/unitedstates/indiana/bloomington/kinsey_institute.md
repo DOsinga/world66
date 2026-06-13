@@ -12,6 +12,7 @@ story: >
   scientific data on the subject. His 1948 report on male sexual behaviour sold 200,000 copies in
   two months and was denounced from pulpits across the country. The institute he founded, and its
   art collection, reflect his conviction that curiosity and documentation were morally neutral acts.
+score: 8.1
 ---
 
 The Kinsey Institute at Indiana University is the world's foremost centre for research on sex, gender, and reproduction. Less well known is its Beebe Gallery, which holds a remarkable art collection of about 7,000 objects relating to human sexuality: paintings, sculptures, photographs, and artefacts from ancient Greece to the present, accumulated by Kinsey himself and expanded by later directors.

@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_house
 snippet: The small white frame house where Dwight Eisenhower grew up with his five brothers
+score: 6.8
 ---
 
 This unassuming white clapboard cottage on the Eisenhower campus is preserved exactly as the family kept it. David and Ida Eisenhower bought the house in 1898 and raised six boys here on a railway-mechanic's wage. The kitchen, the parlour with its family portraits, the modest upstairs bedrooms with iron bedsteads — all are as Ida left them when she died in 1946.

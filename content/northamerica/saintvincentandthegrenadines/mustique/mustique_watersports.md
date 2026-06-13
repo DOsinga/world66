@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 12.8703
 longitude: -61.1867
+score: 6.5
 ---
 
 The Mustique Watersports Centre operates from Britannia Bay and is the practical hub for getting into and on the water. Equipment hire covers snorkel gear, stand-up paddleboards, windsurfers, and kayaks. Scuba diving is available for certified divers and beginners — the reefs around the island are in good condition, and the water visibility is excellent outside of summer storm season.

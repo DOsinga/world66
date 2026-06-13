@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.7246
 longitude: 1.6102
+score: 7.2
 ---
 
 La Maison de la Beurière is a small house museum in the Beurière quarter — historically the fishermen's district below the Haute Ville — preserved as it would have looked in the early 20th century when Boulogne's fishing fleet was at its height. The rooms are furnished with original objects and the interpretation focuses on the daily life of a fishing family: the rhythms of the catch, the role of women in processing the fish (herring in particular), the social life of a tight-knit working quarter.

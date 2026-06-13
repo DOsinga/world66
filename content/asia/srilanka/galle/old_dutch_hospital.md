@@ -8,6 +8,7 @@ tags:
   - eating_out
 latitude: 6.026667
 longitude: 80.219444
+score: 6.7
 ---
 
 The Old Dutch Hospital is among the oldest buildings inside the fort, built by the VOC in the seventeenth century to treat its sick officers and soldiers. After a long period as government offices it was restored in the 2010s and reopened as a small shopping and dining arcade — two long parallel galleries with open colonnades looking out to sea.

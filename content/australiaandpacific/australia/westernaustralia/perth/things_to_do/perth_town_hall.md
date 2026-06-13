@@ -8,6 +8,7 @@ tags:
 latitude: -31.955
 longitude: 115.860556
 story: "Perth Town Hall is the only town hall in Australia built by convict labour. When it was completed in 1870, the convicts who built it incorporated a broad arrow — the mark stamped on convict property — into the tower's window tracery. Look closely at the upper windows and you can still see it."
+score: 6.3
 ---
 
 Perth Town Hall stands at the corner of Hay and Barrack streets, a handsome Gothic Revival building in warm limestone that looks slightly incongruous next to the surrounding glass towers. It was built between 1867 and 1870 using convict labour — the last major public building in Australia to be constructed this way — and the convicts apparently left their mark deliberately. The broad arrow design hidden in the tower windows is one of Perth's better architectural Easter eggs, and most people walk past without noticing it.

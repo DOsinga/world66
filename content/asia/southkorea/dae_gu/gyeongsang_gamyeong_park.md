@@ -9,6 +9,7 @@ latitude: 35.8722
 longitude: 128.5924
 sources:
   - https://en.wikipedia.org/wiki/Gyeongsang-gamyeong_Park
+score: 7.0
 ---
 
 Gyeongsang-gamyeong Park preserves the surviving buildings of the old provincial administrative compound (gamyeong) of the Joseon dynasty — the government seat for the Gyeongsang region for several centuries. The compound was the effective centre of power for all of what is now Gyeongbuk and Gyeongnam provinces, and the buildings that survive show the scale of Joseon bureaucratic architecture: large timber halls with stone platforms, painted eaves, and a formal courtyard layout.

@@ -10,6 +10,7 @@ story: >
   The terminal's name — Grand Central — is a knowing nod to New York, but Lucena's version
   handles a distinctly provincial mix: coaches to Bicol sharing bays with jeepneys bound for
   the next barangay, and vendors selling coconut wine alongside bottled water for the long road south.
+score: 5.2
 ---
 
 The Grand Central Terminal on Diversion Road is one of the busiest bus and van terminals in southern Luzon — a vast, organised-chaos hub where coaches to Manila, Bicol, and every corner of Quezon Province depart around the clock. For most travellers it is the first and last thing they see of Lucena, but it's worth a moment's attention as a piece of living infrastructure.

@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Fuhang Soy Milk
 type: poi
+score: 7.1
 ---
 
 The legendary morning soy-milk shop of Taipei: a second-floor walk-up over Shandao Temple MRT, with queues that regularly start at 5am and stretch down two flights of stairs onto the street. The menu is short and quintessentially Taiwanese — **xiandoujiang** (salty soy milk, served warm with chopped pickle, scallions, deep-fried dough sticks, and a soft-boiled egg), sweet soy milk, **shaobing** (flaky baked sesame flatbread, plain or stuffed), and youtiao (Chinese fried dough sticks).

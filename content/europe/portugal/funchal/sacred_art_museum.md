@@ -6,6 +6,7 @@ latitude: 32.6494
 longitude: -16.9085
 story: >
   Several of the Flemish paintings in the collection were paid for with Madeiran sugar, which was the island's primary export in the 15th and 16th centuries. Madeira grew wealthy enough to commission major Flemish workshops at a time when that was a privilege reserved for European royalty and the most powerful merchant families.
+score: 8.2
 ---
 
 The Sacred Art Museum (Museu de Arte Sacra) occupies the old Episcopal Palace next to the cathedral and holds one of the finest collections of 15th and 16th century Flemish religious painting outside northern Europe. The paintings arrived via the lucrative sugar trade that connected Madeira to Antwerp and Bruges, and many carry the coats of arms of the Madeiran noble families who commissioned them.

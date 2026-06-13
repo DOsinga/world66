@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Clear-water beaches along the north coast, the island's main draw"
+score: 6.6
 ---
 
 The beaches along the north and northeast shore of Kish are the primary reason most visitors come. The Persian Gulf here is warm and clear, with a pale sandy bottom and shallow water extending well offshore. Women have designated beach sections where they can swim without the hijab requirement that applies elsewhere in Iran — an arrangement that makes Kish distinctively popular with Iranian women tourists.

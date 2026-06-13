@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -22.9058
 longitude: -47.0608
+score: 7.2
 ---
 
 The Mercadão — the central municipal market — is one of the more useful stops in the city centre, and also one of the more enjoyable. The ground floor has stalls selling tropical fruit, vegetables, dried goods, local cheeses, and cured meats. You can find banana-da-terra, maracujá, jabuticaba (a grape-like fruit that grows directly on the tree trunk), and other produce that does not travel well and is therefore rarely seen outside Brazil. The quality is good and the prices are lower than the supermarkets.

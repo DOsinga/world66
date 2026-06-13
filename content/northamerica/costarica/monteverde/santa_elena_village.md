@@ -5,6 +5,7 @@ snippet: The main commercial town for Monteverde, where almost all hotels, resta
 tags: [things_to_do, neighbourhood]
 latitude: 10.3147
 longitude: -84.8214
+score: 6.2
 ---
 
 Santa Elena is the small commercial town at the centre of the Monteverde area. Most travellers actually stay here rather than in Monteverde proper, since the village has the restaurants, supermarkets, ATMs, hostels, and tour offices. The triangle-shaped main square is the focus, lined with cafes and souvenir shops.

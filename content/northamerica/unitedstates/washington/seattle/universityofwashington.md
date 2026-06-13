@@ -22,6 +22,7 @@ tags:
 - architecture
 title: University of Washington
 type: poi
+score: 8.7
 ---
 
 The University of Washington campus is one of Seattle's best walks, especially when the cherry trees bloom in the Quad or Mount Rainier appears beyond Drumheller Fountain. It gives the city a grand academic landscape that feels very different from downtown's market, towers, and waterfront.

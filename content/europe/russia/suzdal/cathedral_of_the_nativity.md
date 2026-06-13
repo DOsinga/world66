@@ -14,6 +14,7 @@ tags:
   - museum
 title: Cathedral of the Nativity
 type: poi
+score: 8.9
 ---
 
 The Cathedral of the Nativity of the Theotokos stands at the centre of the Kremlin and is the defining image of Suzdal — its blue domes spangled with golden stars visible from across the surrounding meadows. A cathedral has stood on this site since the 11th century; the current structure, much rebuilt over centuries, retains its 13th-century lower walls and the extraordinary Golden Gates on its south and west portals.

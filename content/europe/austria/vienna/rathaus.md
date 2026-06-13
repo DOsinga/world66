@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - landmark
+score: 7.3
 ---
 
 Vienna's city hall is a neo-Gothic showpiece completed in 1883 by Friedrich von Schmidt. The 98-metre central tower is topped by the Rathausmann, an armoured iron figure that has become a symbol of the city. The five inner courtyards host classical concerts in summer.

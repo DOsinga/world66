@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.3
 ---
 
 Long Beach (Uzun Plaj) runs for several kilometres south of Kuşadası between Kadınlar Denizi and the entrance to the Dilek Peninsula National Park. It is the city's main sandy beach: fine yellow sand, gentle slope, calm water in summer. The northern end is closer to town and busier; the southern end thins out into less developed sections.

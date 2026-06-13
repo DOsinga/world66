@@ -13,6 +13,7 @@ story: >
   lagoon, reachable only by boat. In season — October through January — olive ridley
   sea turtles haul themselves up the beach at night to nest, sometimes in their
   thousands in what is called an "arribada".
+score: 8.9
 ---
 
 The Lagunas de Chacahua national park lies about 70 kilometres west of Puerto Escondido along the Oaxacan coast, reached by boat across a series of interconnected lagoons. The park protects one of Mexico's most important mangrove ecosystems, an enormous complex of salt marshes, freshwater lagoons, and isolated beaches where few roads reach.

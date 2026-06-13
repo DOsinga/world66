@@ -7,6 +7,7 @@ tags:
 - food
 title: El Senorio de Sulco
 type: poi
+score: 7.3
 ---
 
 A well-regarded restaurant in Miraflores, Lima, serving traditional Peruvian dishes with real depth of flavour. The menu covers classic regional cooking rather than fusion — expect dishes like seco de cordero, carapulcra, and rocoto relleno, prepared with care. The chicha morada is particularly good here.

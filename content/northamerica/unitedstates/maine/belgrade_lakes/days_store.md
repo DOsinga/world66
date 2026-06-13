@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.5275
 longitude: -69.8884
+score: 6.9
 ---
 
 Day's Store stands on the main street of Belgrade Lakes Village, right beside the channel between Great Pond and Long Pond, and is the working centre of the village in a way that the older Chandler Store no longer is. It sells groceries, bait, beer, ice, fishing tackle, and the basic hardware that the summer camps need; the dock out the back is a public mooring and a useful pick-up point for those arriving by boat.

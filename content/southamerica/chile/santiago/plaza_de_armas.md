@@ -9,6 +9,7 @@ title: Plaza de Armas
 type: poi
 story: >
   Pedro de Valdivia laid out Santiago's Plaza de Armas in February 1541, following the standard Spanish colonial grid. The original wooden cathedral was destroyed in earthquakes in 1647 and 1730; the current neoclassical building dates from the 19th century. In September 1973, soldiers arrested political prisoners on this plaza and marched them to the nearby Estadio Víctor Jara — a fact the square's relaxed Sunday atmosphere does not always advertise.
+score: 7.4
 ---
 
 Santiago's central square since the city's founding in 1541, the Plaza de Armas is still the social heart of the historic centre. The cathedral faces the square on the west, the old post office building (now the Museo Histórico Nacional) on the east, and the municipal government buildings on the south. Shoeshine vendors, chess players, and street performers occupy the benches and pathways year-round, and on Sundays the plaza fills with families in their best clothes.

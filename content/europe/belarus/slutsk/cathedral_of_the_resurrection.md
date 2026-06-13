@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 The Cathedral of the Resurrection is the main Orthodox church in Slutsk and one of the few historic buildings to survive the near-total destruction of World War II, during which more than 90 percent of the city was levelled. The cathedral dates in its current form from the 19th century, though a church has stood on this site since at least the 17th century. The Soviet era brought closure and repurposing — like many churches across Belarus, it was used as a warehouse and later a cultural facility — before returning to religious use after 1991.

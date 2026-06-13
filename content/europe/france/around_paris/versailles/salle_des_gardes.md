@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80450
 longitude: 2.12090
+score: 7.4
 ---
 
 The Salle des Gardes de la Reine — the Queen's Guard Room — is the first of the rooms in the Queen's Apartment sequence and the one with the most dramatic Revolutionary history. It was here, on the night of 5–6 October 1789, that the Queen's bodyguards fought off the first wave of the revolutionary crowd that had broken into the palace. Two of the guards were killed. Marie Antoinette fled through the connecting door to the King's apartment, and the royal family never returned to Versailles.

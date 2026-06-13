@@ -9,6 +9,7 @@ snippet: "Hawaiian-style restaurant at the foot of the pier, named for Duke Kaha
 address: "317 Pacific Coast Highway"
 latitude: 33.6552
 longitude: -118.0024
+score: 5.9
 ---
 
 Hawaiian-American chain restaurant in a long, low building right at the base of the pier — by some distance the best ocean-view dinner spot in town. The cooking is consistent rather than ambitious: macadamia-crusted mahi-mahi, fish tacos, hula pie. Go for the location and the sunset, not the food.

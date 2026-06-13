@@ -7,6 +7,7 @@ snippet: The town's working 18th-century octagonal corn mill
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Kaai (also written De Kaai) is the smock mill standing on Sloten's south rampart, built in 1755 as a corn mill and restored to working order in the 20th century. The miller still grinds wheat and rye on Saturdays during summer, and the milled flour is sold from a small shop beside the wheel.

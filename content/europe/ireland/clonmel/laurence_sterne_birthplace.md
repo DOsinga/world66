@@ -12,6 +12,7 @@ story: >
   life in Ireland — but Clonmel claims him, and not without reason: the peculiar,
   digressive, self-aware style of Tristram Shandy has been linked by some scholars to
   the dislocated, always-moving nature of his early childhood.
+score: 3.9
 ---
 
 Laurence Sterne, author of Tristram Shandy — arguably the first experimental novel in English — was born in Clonmel in 1713. The building where he was born no longer stands, but a plaque on Sarsfield Street marks the approximate site. The town does not make a great fuss of the association, which is part of its charm.

@@ -14,6 +14,7 @@ story: >
   island will be gone by noon.
 sources:
   - https://en.wikipedia.org/wiki/Mah%C3%A9
+score: 7.8
 ---
 
 The Sir Selwyn Selwyn-Clarke Market in the centre of Victoria is the commercial and social hub of the Seychelles. Open daily except Sunday, with the best activity in the mornings from around 6am to noon. The ground floor handles fish — enormous parrotfish, red snapper, and barracuda laid out on ice — while the upper level deals in tropical fruit, spices, and vegetables. Stalls sell fresh coconuts, vanilla pods, cinnamon, and dried fish to take home.

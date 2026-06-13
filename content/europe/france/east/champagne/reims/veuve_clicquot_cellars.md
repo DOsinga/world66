@@ -13,6 +13,7 @@ story: >
   — and produced the first vintage rosé champagne, blending red and white wines.
   She ran the house for fifty years and is largely responsible for the idea of
   champagne as a luxury product.
+score: 8.0
 ---
 
 Veuve Clicquot is one of the great champagne houses and its cellars beneath Reims are among the most atmospheric in the city. The tours wind through the crayères — the ancient chalk galleries that were quarried by the Romans and later adopted by the champagne industry to provide the constant cool temperatures that champagne ageing requires. Veuve Clicquot's cellars descend to about 30 metres below street level.

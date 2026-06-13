@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, market]
 latitude: 43.1237
 longitude: 5.9285
+score: 7.6
 ---
 
 The Quai Cronstadt fish market is one of the best in Provence, and certainly the least polished. Fishermen sell directly from their boats from early morning, offering the day's catch from the waters between the offshore islands and the Giens peninsula. Come before 9am for the best selection — by midday much of it has been snapped up by restaurant buyers and local housewives.

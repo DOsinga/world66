@@ -11,6 +11,7 @@ tags:
   - cafe
 title: Bar Luce
 type: poi
+score: 6.6
 ---
 
 A café inside the Fondazione Prada designed by Wes Anderson, modelled on the bars he fell in love with in 1950s and 60s Milan films. Pastel colours, Formica surfaces, vintage pinball machines, and a ceiling pattern lifted from the Galleria — the whole thing is a loving tribute to mid-century Milanese café culture.

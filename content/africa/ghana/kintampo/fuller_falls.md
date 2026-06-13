@@ -5,6 +5,7 @@ tags: [things_to_do, sight, waterfall, nature]
 latitude: 8.0829
 longitude: -1.7967
 snippet: Quieter, broader waterfall on the Pumpum River west of town
+score: 7.1
 ---
 
 A second waterfall about 10 kilometres west of Kintampo on the Pumpum River, less developed than the main Kintampo Falls and a good deal quieter. The river spreads out across a wide ledge of dark rock before dropping into a basin shaded by tall trees. There is no formal infrastructure — just a footpath down through farmland — so you usually have the place to yourself.

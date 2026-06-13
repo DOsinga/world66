@@ -6,6 +6,7 @@ longitude: 34.8550
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A small protected area on the southern edge of Netanya that exists to preserve the Coastal Iris (Iris atropurpurea), a deep purple-black flower endemic to Israel's coastal sand dunes and now listed as endangered. The flowers bloom for only a few weeks each year, usually mid-February to mid-March.

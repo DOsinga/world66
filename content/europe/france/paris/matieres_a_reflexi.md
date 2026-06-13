@@ -9,6 +9,7 @@ tags:
 - le_marais
 title: Matières à Réflexion
 type: poi
+score: 5.3
 ---
 
 A small atelier-boutique in the Haut Marais where the designer handmakes bags from vintage leather jackets. You can pick from stock or bring in your own old jacket and have a bag made to measure from it. The shop also carries a curated selection of French independent clothing and jewellery designers.

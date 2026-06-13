@@ -15,6 +15,7 @@ story: >
   Catholic theocracy. The street now bears his name and contains seven stone
   crosses marking sites of historical significance, including the spot where
   he fell.
+score: 9.0
 ---
 
 Calle García Moreno is the main north-south artery of Quito's Historic Centre, running between the Plaza Grande and the southern edge of the colonial city. The street is lined with some of the finest colonial architecture in Quito — the Jesuit complex of La Compañía, the Archbishopric, the convents of Santa Catalina and Santa Clara, the rear wall of the San Francisco complex — and its unbroken run of colonial facades makes it the single most concentrated stretch of historic architecture in Ecuador.

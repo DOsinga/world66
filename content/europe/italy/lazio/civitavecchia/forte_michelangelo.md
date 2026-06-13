@@ -15,6 +15,7 @@ story: >
   windowless, with massive proportions — is unmistakably his. Locals will tell
   you it is Michelangelo's only complete fortress; technically he only finished
   the keep, but the attribution stuck.
+score: 8.1
 ---
 
 Forte Michelangelo is the squat, hexagonal Renaissance fortress that anchors the seaward side of Civitavecchia's harbour. Pope Julius II della Rovere commissioned it in 1508 to defend the papal port from Barbary pirates and (more pressingly) from the French. Three architects worked on it in succession: Bramante began the design, Antonio da Sangallo the Younger continued the bastions, and Michelangelo completed the central keep under Paul III. The fortress survived both the bombing of 1943-44 and centuries of subsequent neglect, and is one of the very few Renaissance military structures in Italy still essentially intact.

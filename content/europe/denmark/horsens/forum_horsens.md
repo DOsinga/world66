@@ -6,6 +6,7 @@ tags:
 - sight
 title: Forum Horsens
 type: poi
+score: 5.2
 ---
 
 Forum Horsens is the city's main indoor concert and event arena, with a capacity of around 10,000. Together with the outdoor prison venue, it has made Horsens one of Denmark's most active concert towns. Major international touring acts regularly include Horsens on their Scandinavian dates — the town's reputation as a live music destination is well established and the combination of venues gives promoters flexibility for different crowd sizes.

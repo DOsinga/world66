@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Legendary Aachen café with 18th-century interior serving Printen gingerbread
+score: 7.3
 ---
 
 The oldest and most famous café in Aachen, founded in 1782 on the Markt facing the Dom. The interior — painted ceiling, dark wood panelling, mirrors, and velvet chairs — has changed little since the 18th century. It sells *Printen*, the spiced gingerbread that is Aachen's local speciality, in a range of hardnesses from soft and chewy to rock-solid, along with *Aachener Poschweck* (a raisin and lemon loaf at Easter) and a variety of cakes. The coffee is good and the atmosphere is genuine — this is a place where Aachen has been gossiping for two and a half centuries.

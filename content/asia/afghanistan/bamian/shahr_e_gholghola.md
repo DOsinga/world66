@@ -8,6 +8,7 @@ story: "When Genghis Khan's favourite grandson Mutugen was killed by an arrow fr
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 The hilltop ruins about a kilometre south-east of Bamiyan town are the remains of the citadel of Shahr-e-Gholghola, the 12th-century Ghorid stronghold whose Persian name translates as "City of Screams" or "City of Sorrows." It was the principal fortress in the Bamiyan valley until 1221, when Genghis Khan's Mongol army besieged it during the campaign against the Khwarazmian Empire. After the Mongols took the city the entire population was massacred, the walls were thrown down, and the place was left as a ruin — which is roughly how it has remained.

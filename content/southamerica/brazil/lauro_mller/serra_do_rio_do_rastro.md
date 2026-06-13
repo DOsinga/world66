@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The road was cut into the escarpment face in the 1940s, largely by hand, to connect the coal mines of the Lauro Müller basin to the port. Workers lowered themselves on ropes to drill and blast the rock face section by section. The completed road had 256 curves and dropped 1,400 metres in under 20 kilometres — a feat of engineering that the local government still promotes as one of the great roads of South America.
+score: 9.2
 ---
 
 The Serra do Rio do Rastro is a mountain road that descends the face of the Serra Geral escarpment from the Santa Catarina plateau to the coastal lowlands, dropping approximately 1,400 metres in about 18 kilometres. The road is cut directly into the rock in a series of tight hairpin bends — there are 256 curves in total — and the views from the upper switchbacks, when the cloud breaks, extend across the Atlantic Forest below to the coast.

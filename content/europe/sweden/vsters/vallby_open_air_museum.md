@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.6311
 longitude: 16.5108
+score: 8.0
 ---
 
 Vallby is a well-preserved open-air folk museum on the northern edge of the city, with around 40 historic buildings relocated from across Västmanland to create a working farm settlement spanning several centuries. The buildings range from 17th-century farmhouses to industrial-era workshops, giving a genuine picture of rural Swedish life before industrialisation.

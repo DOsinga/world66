@@ -8,6 +8,7 @@ tags:
 - friedrichshain
 title: Frankfurter Tor
 type: poi
+score: 7.4
 ---
 
 Frankfurter Tor marks the eastern terminus of Karl-Marx-Allee with two near-identical domed towers that frame the boulevard like a gate. They were designed by Hermann Henselmann and completed in 1960 as part of the GDR's grand socialist reconstruction programme. Henselmann borrowed directly from Moscow's Seven Sisters — the Stalinist skyscrapers Stalin had built to assert Soviet modernity — adapting their wedding-cake profile to a Berlin scale, with drum colonnades and tapering stone crowns. The effect, whether you find it pompous or magnificent, is unlike anything else in Western Europe.

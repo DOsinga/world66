@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Woody Creek Tavern
 type: poi
+score: 7.8
 ---
 
 A genuinely casual roadhouse in the hamlet of Woody Creek, 16 km north of Aspen and a world away in feel. The Tavern opened in 1980 and quickly became Hunter S. Thompson's local — he lived half a mile up the road and his presence is everywhere in the place, from the framed manuscripts and photos on the walls to the regulars who still remember him at the bar.

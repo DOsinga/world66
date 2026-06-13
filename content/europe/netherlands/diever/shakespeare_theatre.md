@@ -14,6 +14,7 @@ story: >
   the annual audience of around 20,000 people comes from across the Netherlands
   — making this tiny Drenthe village one of the most visited theatre destinations
   in the country.
+score: 8.2
 ---
 
 The Shakespearetheater Diever is an open-air theatre in the forest on the edge of the village, where Shakespeare plays have been performed every summer since 1946. The productions are in Dutch, performed by local amateur actors, and take place in a purpose-built forest clearing that seats several hundred people. In 2016 a new Globe Theatre — a replica of the original London Globe — was added to the site.

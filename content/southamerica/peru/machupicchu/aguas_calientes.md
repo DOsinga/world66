@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The base camp for Machu Picchu — a noisy tourist village at the bottom of the gorge
+score: 4.8
 ---
 
 Aguas Calientes (officially Machupicchu Pueblo) is the only place to sleep near Machu Picchu. Situated at the bottom of the Urubamba gorge, hemmed in by mountains on all sides, it is accessible only by train or on foot — there is no road. The village exists almost entirely to serve visitors to the ruins above, and it does so with an impressive range of restaurants, guesthouses, and outfitters along the pedestrianised Avenida Pachacutec.

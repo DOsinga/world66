@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Romanesque north door of the Iglesia de Santiago in Villafranca is known as the Puerta del Perdón — the Door of Pardon. Pilgrims too sick or exhausted to continue the Camino over the mountains to Santiago could pass through this door and receive the same indulgence as if they had completed the pilgrimage. It is still opened only in Holy Years."
+score: 8.1
 ---
 
 Villafranca del Bierzo is the last major stop on the Camino de Santiago before the long climb over the mountains into Galicia, and it has the medieval atmosphere to match. Founded in the 11th century by French monks from Cluny — hence the name, "village of the Franks" — it grew up around the pilgrim route and the Iglesia de Santiago, where exhausted pilgrims could earn a plenary indulgence at the Door of Pardon and turn back without losing their reward.

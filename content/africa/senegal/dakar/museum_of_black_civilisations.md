@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Vast modern museum on African civilisations, opened in 2018"
+score: 8.0
 ---
 
 The Musée des Civilisations Noires opened in December 2018, the realisation of an idea first floated by Léopold Senghor in the 1960s. The building, paid for by Chinese aid and shaped like a Casamance impluvium house, has 14,000 square metres of exhibition space — enormous by African standards — and an explicit ambition to host artworks that European museums are slowly returning to the continent. Several pieces from France's Quai Branly collection have already arrived.

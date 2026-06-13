@@ -7,6 +7,7 @@ tags:
 latitude: 35.1614
 longitude: 136.9019
 neighbourhood: Osu
+score: 6.4
 ---
 
 Komehyo is Japan's largest second-hand retailer and the company was founded in Nagoya in 1947 — its eight-storey flagship store in Osu is the densest single concentration of pre-owned luxury goods in the country. Whole floors are devoted to vintage Rolex, second-hand designer handbags, jewellery, kimono, cameras, instruments, watches, art, and most rarely-seen Japanese second-hand specialisms.

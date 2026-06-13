@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "Lake Norman was created in 1963 when Duke Power dammed the Catawba River for the Cowans Ford hydroelectric station. The flooded valley swallowed villages, farms, and a section of the old Catawba Trail. In low-water years roof timbers and the outlines of foundations still appear briefly through the surface — local divers have mapped several of the submerged settlements."
+score: 6.7
 ---
 
 Lake Norman is the largest man-made body of fresh water in North Carolina, 32 miles long and with more than 500 miles of shoreline. The east shore presses up against Mooresville and is lined with houses, marinas, and the occasional public access point.

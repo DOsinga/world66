@@ -9,6 +9,7 @@ tags:
 - sight
 title: Souq Al Arabi
 type: poi
+score: 7.5
 ---
 
 Souq Al Arabi is the central market of Khartoum, sprawling across several blocks south of the Republican Palace. It is the city's main commercial hub: stalls selling fabrics, gold, perfumes, household goods, electronics, and street food crowd narrow lanes that fill from early morning until after dark. Most long-distance buses leave from the chaotic adjacent terminus.

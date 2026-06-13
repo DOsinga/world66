@@ -6,6 +6,7 @@ tags:
 latitude: 53.6435
 longitude: -1.7735
 snippet: "Taproom of one of Britain's most respected craft breweries"
+score: 7.1
 ---
 
 Magic Rock Brewing was founded in Huddersfield in 2011 by Richard Burhouse and head brewer Stuart Ross, and within a few years had established itself as one of the most respected craft breweries in Britain. Their beers — particularly the Cannonball IPA and the High Wire West Coast pale ale — became benchmarks for the style in this country, and the brewery attracted international attention during a period when the British craft beer scene was finding its feet.

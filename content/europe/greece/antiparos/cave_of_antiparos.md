@@ -8,6 +8,7 @@ latitude: 36.9831
 longitude: 25.0631
 story: >
   The cave was known to the ancient Greeks but became a tourist destination in the 15th century — some of the inscriptions on its walls date back that far. On Christmas Day 1673, the French ambassador to the Ottoman court, the Marquis de Nointel, held a candlelit midnight mass inside the cavern with an attendance reportedly exceeding 500 people. The graffiti scratched into the stalactites by subsequent visitors over the next three centuries has become, in a grim way, its own historical document.
+score: 8.6
 ---
 
 The Cave of Antiparos is one of the most impressive stalactite caves in the Mediterranean and one of the longest-known tourist attractions in Europe — visitors have been making the journey here since the 15th century, scratching their names into the formations as they went. The cave descends about 70 metres into the mountain above the village of Agios Ioannis, reached by a path and then a long flight of concrete steps into the hillside.

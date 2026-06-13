@@ -8,6 +8,7 @@ tags:
 - museum
 title: Audium
 type: poi
+score: 7.9
 ---
 
 Audium is unlike anything else in San Francisco -- or anywhere. The small theatre on Bush Street was built in 1967 specifically for "sound sculpture": you sit in complete darkness while 176 speakers arranged across the floor, walls, and ceiling move sound around and through you. The compositions are created by mixing natural sounds, electronic tones, and found audio into immersive, disorienting, sometimes unsettling hour-long experiences.

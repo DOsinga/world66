@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.9347
 longitude: 79.8321
+score: 7.6
 ---
 
 The Manakula Vinayagar Temple is the most visited Hindu temple in Pondicherry, devoted to Ganesha (Vinayagar in Tamil). It sits on the edge of the French Quarter near the seafront and has been here since before the French arrived — attempts by colonial authorities to demolish it reportedly failed, and it survived to become one of the town's enduring institutions.

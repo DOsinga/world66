@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.0232
 longitude: 4.8388
+score: 7.2
 ---
 
 A wine bar rather than a café, and one of the better places in Beaune to drink by the glass without committing to a full bottle. The selection rotates and includes producers from across the Côte d'Or as well as Mâcon and Chablis. The staff are knowledgeable about what's on without being evangelical about it, which is rare in Beaune where everyone has an agenda.

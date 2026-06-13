@@ -8,6 +8,7 @@ tags:
 latitude: 37.3881
 longitude: 136.8717
 snippet: "Dramatic rocky coastline on the peninsula's wild western shore"
+score: 7.2
 ---
 
 The western coast of the Noto Peninsula facing the open Sea of Japan is known as Kongo Coast — a stretch of cliffs, sea stacks, and wave-carved formations running for several kilometres. The scenery is rougher than the gentler eastern side of the peninsula, with winter storms often making sections impassable. In calmer weather the coast can be explored by boat from Wajima or on foot along sections of the coastal trail.

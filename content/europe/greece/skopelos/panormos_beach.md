@@ -8,6 +8,7 @@ latitude: 39.112
 longitude: 23.6653
 sources:
   - https://en.wikipedia.org/wiki/Panormus_(Skopelos)
+score: 8.1
 ---
 
 Panormos on the west coast is one of the most beautiful beaches in Skopelos and one of the most sheltered, tucked into a deep bay ringed by pine trees that run down to the waterline. The water is extraordinarily clear and varies from pale turquoise in the shallows to deep blue further out. Part of the beach is organized with sunbeds and a taverna; the far end is quieter. The bay also functions as a small harbour, and the combination of boats, forest, and water makes for a particularly satisfying Aegean scene.

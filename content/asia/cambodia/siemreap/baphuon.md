@@ -13,6 +13,7 @@ story: The Baphuon's enormous reclining Buddha — carved from the stones of the
   1990s. French archaeologists had completely dismantled the temple for restoration
   when the Khmer Rouge took power, scattering 300,000 numbered stones and destroying
   the catalogues; it took decades to reassemble.
+score: 8.1
 ---
 
 **Baphuon** is a three-tiered temple-mountain at the heart of Angkor Thom, built in the mid-11th century by King Udayadityavarman II as a representation of Mount Meru. It was connected to the south gate of the Royal Palace by a 172-metre elevated sandstone causeway supported by short pillars — still standing and striking to walk along. The French EFEO began dismantling the temple for restoration in 1960, but the work was interrupted by civil war; what you see today is the result of a remarkably long reconstruction project completed in 2011.

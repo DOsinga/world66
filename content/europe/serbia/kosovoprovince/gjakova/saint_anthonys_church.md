@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3727
 longitude: 20.4240
+score: 6.1
 ---
 
 Saint Anthony's Church is a Catholic church and cultural heritage monument in Gjakova, reflecting the small but historically significant Catholic Albanian community in the city. The building dates from the early 20th century, built on the site of an earlier church. It is the focal point for the Albanian Catholic community in the Gjakova area.

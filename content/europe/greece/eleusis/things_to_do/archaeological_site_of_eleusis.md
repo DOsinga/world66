@@ -10,6 +10,7 @@ longitude: 23.5423
 sources:
   - https://en.wikipedia.org/wiki/Elefsina
   - https://en.wikipedia.org/wiki/Eleusinian_Mysteries
+score: 9.0
 ---
 
 The Sanctuary of Demeter and Persephone is one of the most important religious sites of the ancient Greek world. For nearly two thousand years — from Mycenaean times until the sanctuary was sacked by Alaric and his Visigoths in 396 CE — pilgrims came here to be initiated into the Eleusinian Mysteries, secret rites that promised initiates a blessed afterlife and a different relationship to death and rebirth.

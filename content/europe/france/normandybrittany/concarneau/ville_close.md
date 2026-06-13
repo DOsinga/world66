@@ -18,6 +18,7 @@ story: >
   once held hundreds.
 sources:
   - https://en.wikipedia.org/wiki/Concarneau
+score: 8.4
 ---
 
 The Ville Close is a small walled island connected to the mainland by two short bridges, its granite ramparts rising directly from the harbour water. The walls run for about 400 metres around the island and are mostly intact; you can walk the full circuit on the wall walkway, which gives excellent views over the fishing harbour and the bay. The entrance gate and bridge, the most photographed part of town, faces the main quay where the fishing boats tie up.

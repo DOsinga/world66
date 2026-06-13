@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach, wildlife]
 latitude: 20.7350
 longitude: 107.0700
+score: 6.2
 ---
 
 Monkey Island, properly **Cat Dua**, is a small karst island in Lan Ha Bay with a clean crescent beach, a basic beach resort, and a permanent population of around 30 rhesus macaques that have grown habituated to tourists. The boat ride from Cat Ba's Beo Wharf takes about 15 minutes.

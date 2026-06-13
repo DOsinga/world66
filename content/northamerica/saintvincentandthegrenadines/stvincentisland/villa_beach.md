@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 13.1314
 longitude: -61.1989
+score: 5.9
 ---
 
 Villa Beach, about ten minutes east of Kingstown on the south coast, is the closest thing St Vincent has to a tourist beach strip — a long stretch of coral-coloured sand with calm shallow water, looking across the channel to [Young Island](/northamerica/saintvincentandthegrenadines/stvincentisland/young_island). The shore is lined with small hotels, bars and dive operators, and the snorkelling along the coral patches just offshore is decent.

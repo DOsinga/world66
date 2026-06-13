@@ -15,6 +15,7 @@ story: >
 sources:
   - https://fr.wikipedia.org/wiki/Lac_Baleng
   - https://voyage.maresaonline.com/at-the-discovery-of-lake-baleng/?lang=en
+score: 7.4
 ---
 
 Lac Baleng is a crater lake sitting at 1,377 metres in the Baleng chiefdom, about 11 kilometres north of central Bafoussam — close enough for a comfortable half-day trip by moto-taxi. The lake occupies the floor of an ancient volcanic crater, roughly 400 metres long and 250 metres wide, rimmed by arboreal vegetation including eucalyptus stands and dense secondary forest. The trekking path around the lake takes 30 to 45 minutes at a relaxed pace, involving some modest scrambling over stone outcrops and the occasional liana to navigate.

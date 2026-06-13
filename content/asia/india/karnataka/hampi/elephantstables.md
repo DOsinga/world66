@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Elephant Stables
 type: poi
+score: 8.3
 ---
 
 An elegant row of 11 domed chambers built to house the royal elephants of the Vijayanagara court. Each chamber has its own entrance arch and a different style of dome — alternating between ribbed, ribless, and recessed designs — which gives the structure an unexpectedly varied rhythm as you walk along its length. The blending of Hindu corbelling and Islamic arched styles in a single building is unusual for the period and reflects the cosmopolitan character of Vijayanagara's court.

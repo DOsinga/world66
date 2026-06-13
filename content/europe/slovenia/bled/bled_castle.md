@@ -16,6 +16,7 @@ story: >
   oldest castle is also the only one in the country where the printed
   word and the printing press both predate the regional language being
   recognised as Slovene.
+score: 8.2
 ---
 
 Bled Castle perches on a sheer 130-metre cliff above the northern shore of the lake, dating in its earliest stones to 1011 when Holy Roman Emperor Henry II granted the territory to the Bishops of Brixen. The castle was extended and rebuilt repeatedly across nine centuries, ending up as a romantic compound of towers, courtyards and ramparts arranged around a Gothic chapel.

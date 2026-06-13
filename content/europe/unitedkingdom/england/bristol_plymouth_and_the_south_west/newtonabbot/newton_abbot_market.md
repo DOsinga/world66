@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 50.5295
 longitude: -3.6112
+score: 6.8
 ---
 
 Newton Abbot has been a market town since the 13th century — the market charter dates to 1220 — and the weekly outdoor market still draws traders and farmers from across south Devon. The general market runs on Wednesdays, the farmers' market on the second Saturday of each month, and there is a daily indoor market in the covered building on Market Walk.

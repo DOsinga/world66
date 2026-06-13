@@ -9,6 +9,7 @@ latitude: 43.5488
 longitude: 11.0424
 story: >
   The facade of the Palazzo Pretorio is studded with the carved and painted coats of arms of every Vicar who governed from this building — more than a hundred of them, each one different. They were required by custom to leave their heraldic mark on the palace when their term ended, turning the exterior into an accidental gallery of medieval ambition and family pride that has been accumulating since the 13th century.
+score: 8.5
 ---
 
 The Palazzo Pretorio is the building that commands Certaldo Alto — a solid, crenellated fortress originally built in the 12th century for the powerful Alberti Counts and later adapted as the seat of the Florentine Vicariate that governed the surrounding territory for centuries. From its tower you get the clearest view over the valley; from the square in front of it, you understand why the Alberti chose this hilltop.

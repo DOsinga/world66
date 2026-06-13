@@ -13,6 +13,7 @@ story: >
   villages around Deogad taluka. The soil here — a thin laterite over
   basalt, rich in iron — is what gives the fruit its distinctive deep
   saffron flesh and low fibre.
+score: 7.5
 ---
 
 The plateau behind Deogad is one of the great mango-growing landscapes of India. From March to early June the orchards above town are heavy with Alphonso — the cultivar locals call hapus — and the road in is lined with stalls and crates. The Devgad Taluka Mango Growers' Co-operative sells direct to visitors and ships internationally.

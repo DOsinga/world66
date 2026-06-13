@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.5217
 longitude: 47.8373
+score: 6.7
 ---
 
 The Al-Maqam Mosque is a historic mosque and shrine in the Al-'Ashara district of Basra, distinguished by its traditional Iraqi Islamic architecture. The building features pointed arches, ornamental tilework, and a layered minaret in the style developed in the Abbasid period. It serves as both a congregational mosque and a shrine — the combination of functions that characterises many of the sacred buildings in southern Iraq.

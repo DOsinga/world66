@@ -13,6 +13,7 @@ story: >
   showpiece — then lost almost everything when the king reclaimed the noble
   estates in the 1680s Reduktion. De la Gardie died nearly bankrupt, and the
   castle has been state property ever since.
+score: 9.1
 ---
 
 Läckö Castle stands on a low peninsula jutting into Lake Vänern, about 25 km north of Lidköping on Kållandsö island. The white Baroque palace — with its towers, spires, and 248 rooms — rises straight from the water, and the approach by road builds anticipation slowly before the full view opens up. It is one of the most photographed buildings in Sweden, and it earns the attention.

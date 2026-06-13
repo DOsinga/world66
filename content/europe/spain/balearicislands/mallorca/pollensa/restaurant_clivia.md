@@ -6,6 +6,7 @@ longitude: 3.0170
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Clivia, on Avinguda Pollentia just off Plaça Major, is a long-running Pollença institution serving classic Spanish and Mallorcan cooking in a slightly old-fashioned dining room with white tablecloths. Specialities include grilled fish, *arroz negro*, and a strong wine list of Mallorcan and Spanish reds.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - cycling
   - walking
+score: 5.9
 ---
 
 The Hardy Trail is a paved multi-use path that runs the length of downtown Dade City and beyond, built on the bed of a former railway line. The downtown section is short — about three miles round trip — but it links to the larger Withlacoochee State Trail network just to the north, opening up serious distances for cyclists.

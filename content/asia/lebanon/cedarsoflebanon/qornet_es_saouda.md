@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Lebanon's highest peak at 3,088 metres, walkable in summer.
+score: 8.1
 ---
 
 Qornet es Saouda — "the black corner" — is the highest point in Lebanon and in the wider Levant, rising to 3,088 metres on the watershed between the coastal plain and the Bekaa Valley. From the Cedars village it's a roughly 12-kilometre, six-hour out-and-back walk on a rough jeep track, gaining about a thousand metres of elevation. There's no technical climbing, but the upper section is exposed and the weather can change fast.

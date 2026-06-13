@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.8
 ---
 
 The Appalachian Trail passes through the southern Berkshires within easy reach of Great Barrington. Several access points within a short drive of town provide entry to the trail, which here runs through mature hardwood forest, across open ridge lines, and past excellent viewpoints.

@@ -11,6 +11,7 @@ story: >
   the ceiling if he stood up. It was considered one of the Seven Wonders of
   the Ancient World and was eventually taken to Constantinople, where it was
   destroyed in a fire in the 5th century AD. Not a fragment of it survives.
+score: 9.0
 ---
 
 The largest temple on mainland Greece when it was completed around 457 BC, the Temple of Zeus once sheltered the most famous statue in the ancient world. Today only the immense fallen column drums remain, toppled by earthquakes in the 6th century AD and left exactly where they landed — a landscape of enormous stone discs that gives a visceral sense of the temple's original scale. At its peak the building measured 64 metres long and 28 metres wide, with 34 Doric columns.

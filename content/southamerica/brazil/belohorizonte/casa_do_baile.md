@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Casa do Baile
 type: poi
+score: 7.7
 ---
 
 The Casa do Baile is the most playful of Oscar Niemeyer's four Pampulha buildings — a low circular dance pavilion connected by a curving pergola to a smaller restaurant block, set on a small artificial island in the lake. It was finished in 1943 with the rest of the Pampulha complex but, like the others, sat largely unused for years before being restored.

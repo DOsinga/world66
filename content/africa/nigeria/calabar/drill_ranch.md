@@ -15,6 +15,7 @@ story: >
   since 1991 on a shoestring, largely because the founders refused to let the animals die.
 sources:
   - https://en.wikipedia.org/wiki/Drill_(animal)
+score: 8.0
 ---
 
 The Pandrillus Drill Ranch on the outskirts of Calabar is one of the most important primate conservation operations in West Africa. It takes in drills rescued from the bushmeat trade and illegal pet market, rehabilitates them, and where possible prepares them for reintroduction into the wild. The drill — a large, brilliantly coloured forest baboon — is classified as endangered, with perhaps 4,000 remaining in the wild.

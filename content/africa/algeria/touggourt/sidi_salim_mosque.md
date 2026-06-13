@@ -4,6 +4,7 @@ type: poi
 latitude: 33.1054
 longitude: 6.0625
 tags: [things_to_do, sight]
+score: 7.2
 ---
 
 The Sidi Salim mosque adjoins the royal tombs at the edge of the old ksar and is the principal historical mosque of Touggourt. It was built by Sultan Salim of the Beni Djellab dynasty in the seventeenth century, in the traditional Saharan style — sand-coloured mudbrick walls, a single squat minaret, and a flat roof scattered with small domes.

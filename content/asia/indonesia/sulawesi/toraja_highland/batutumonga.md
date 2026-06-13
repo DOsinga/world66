@@ -8,6 +8,7 @@ latitude: -2.914
 longitude: 119.847
 story: >
   Batutumonga sits at nearly 1,400 metres and on a clear morning you can see the entirety of the Rantepao valley laid out below, with rice terraces catching the early light. The village is also the starting point for walks to ancient megalithic stone formations — menhirs and stone discs left by the Torajan ancestors long before the current funeral traditions took hold.
+score: 8.2
 ---
 
 Batutumonga is a hilltop village west of Rantepao that offers the most panoramic views in Tana Toraja. Perched at about 1,400 metres, it looks out across the Sa'dan valley — terraced rice fields, rivers, and tongkonan rooftops laid out below — with the mountains rising beyond. Sunrise is spectacular if you can arrange an early start from Rantepao.

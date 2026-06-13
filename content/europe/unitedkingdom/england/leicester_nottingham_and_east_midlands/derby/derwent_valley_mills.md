@@ -17,6 +17,7 @@ story: >
   sometimes called the cradle of the Industrial Revolution — not a metaphor,
   but a description of where the mechanised production of goods first happened
   at scale.
+score: 8.8
 ---
 
 The Derwent Valley Mills World Heritage Site stretches 24 kilometres north from Derby's Silk Mill to Cromford, following the River Derwent through a sequence of mill villages that grew up around Richard Arkwright's water-powered cotton-spinning frames in the 1770s and 1780s. Cromford Mill at the northern end is where Arkwright built his first water-powered mill in 1771 — the building survives and is open to visitors.

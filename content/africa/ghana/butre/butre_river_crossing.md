@@ -7,6 +7,7 @@ tags:
 - sight
 title: Butre River Crossing
 type: poi
+score: 6.4
 ---
 
 The only way to reach Butre beach and Ellis Hideout from the village is across the Butre River, and there is no bridge. A local boatman paddles travellers across in a narrow wooden dugout — the kind of journey that takes thirty seconds but tells you exactly where you are. The fare is a small handful of cedis.

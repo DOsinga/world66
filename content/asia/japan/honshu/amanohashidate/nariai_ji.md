@@ -8,6 +8,7 @@ latitude: 35.5954
 longitude: 135.1874
 sources:
   - https://en.wikipedia.org/wiki/Nariai-ji
+score: 7.6
 ---
 
 Nariai-ji is a Buddhist temple in the hills above the northern end of the bay, reachable by cable car and then a 20-minute walk or a short ride on the local ropeway. It is the 28th temple on the Saigoku Kannon Pilgrimage, one of Japan's oldest pilgrimage circuits, and it has a significant place in Japanese religious geography.

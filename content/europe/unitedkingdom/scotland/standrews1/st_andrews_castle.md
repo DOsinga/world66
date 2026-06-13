@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Andrews_Castle
 story: >
   During the 1546–47 siege, the Protestant garrison holding the castle dug a mine tunnel to undermine the walls. The besieging forces dug a countermine to intercept it. Both tunnels survive intact and visitors can crawl through them — making this one of the few places in Britain where you can physically enter a siege mine from the medieval period.
+score: 8.8
 ---
 
 St Andrews Castle sits on a rocky promontory above the sea at the northern edge of the town, and it is more interesting than it looks from the outside. The building served as the fortified palace of the Archbishops of St Andrews from the 12th century onward, and several episodes of the Scottish Reformation played out here with particular violence.

@@ -9,6 +9,7 @@ latitude: 45.2915
 longitude: -111.9430
 story: >
   Henry Plummer was elected sheriff of Bannack — the first territorial capital — in 1863. Within months, the Vigilance Committee had concluded he was also the leader of the "Innocents," the road agent gang terrorising the goldfields. He was hanged on his own gallows in January 1864, reportedly asking his executioners to give him a good drop. Whether Plummer was genuinely guilty or the victim of a conspiracy has been debated by Montana historians for 160 years.
+score: 7.6
 ---
 
 The story of Henry Plummer is one of the most compelling in frontier American history. As sheriff of Bannack and a respected figure in territorial society, Plummer was simultaneously alleged to be masterminding a criminal network that robbed and murdered travellers on the road between the goldfields. When the Vigilance Committee moved against the gang in the winter of 1863–64, they eventually hanged 21 men — including the sheriff himself.

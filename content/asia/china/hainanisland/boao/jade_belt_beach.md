@@ -11,6 +11,7 @@ story: >
   Bo'ao's peninsula tip — a narrow strip of white sand that curves between two bodies
   of water. At high tide it narrows to a sliver; at low tide it widens enough to
   walk its full length. The ferry crossing that gets you there takes about three minutes.
+score: 7.9
 ---
 
 Jade Belt Beach (玉带滩, Yudai) is the sandbar at the tip of Bo'ao's peninsula where the Wanquan River finally meets the South China Sea. A short ferry crossing from the main waterfront brings you to a narrow strip of sand that stretches along the separation between river and ocean — calm river water on one side, open sea on the other, with views back towards the lighthouse and the town. The beach is undeveloped and largely crowd-free outside summer weekends.

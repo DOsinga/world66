@@ -8,6 +8,7 @@ latitude: 31.8706
 longitude: 117.3026
 story: >
   During the Tang dynasty, the poet Li Bai visited what was then called the Iron Buddha Temple and wrote a poem comparing its setting to sacred Buddhist mountains. The temple was later renamed Mingjiao — "Bright Teaching" — during the Song dynasty, when local officials sought to distinguish it from the Manichean religious movements also using the name. The medieval renaming stuck.
+score: 6.9
 ---
 
 Mingjiao Temple is one of Hefei's older surviving religious sites, a Buddhist complex in the Luyang District that traces its history to the Tang dynasty. The current buildings are later reconstructions, but the grounds preserve a sense of quiet removed from the commercial streets immediately surrounding them.

@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Poonch River Valley
 type: poi
+score: 6.5
 ---
 
 The Poonch River flows southwest from the hills above Rawalakot, and the road that follows it — the Hajira-Kotli route — offers some of the more rewarding driving in Azad Kashmir. The valley floor sits around 900 metres, noticeably warmer and lower than Rawalakot itself, and the landscape shifts from pine-covered ridges to open agricultural terraces as you descend.

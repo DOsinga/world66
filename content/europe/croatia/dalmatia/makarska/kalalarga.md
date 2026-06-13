@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Konoba Kalalarga
 type: poi
+score: 5.9
 ---
 
 Konoba Kalalarga sits on a quiet old-town lane off Kačić Square and is the kind of small Dalmatian konoba that has been in the same hands for decades. The menu is short and conservative: grilled fish, squid, octopus salad, pašticada with gnocchi, sometimes a peka with advance notice. The wine list focuses on Dalmatian whites.

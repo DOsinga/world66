@@ -13,6 +13,7 @@ story: >
   Manila in 1945 alone killed over 100,000 Filipino civilians. The cemetery, established in Taguig
   within the modern-day Bonifacio Global City, holds 17,206 graves — the largest American overseas
   military cemetery in the world — of soldiers who died in the Pacific theater.
+score: 7.4
 ---
 
 The Manila American Cemetery and Memorial in Taguig is a meticulously maintained American Battle Monuments Commission site covering 152 acres. The graves are arranged in curving rows on a carefully manicured lawn, each marked with a white marble cross or Star of David. Two curved memorial walls record the names of 36,285 servicemen missing in action across the Philippine Islands and surrounding waters.

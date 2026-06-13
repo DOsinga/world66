@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: El Morocco Club
 type: poi
+score: 6.7
 ---
 
 A boutique riad in the kasbah that opened in 2010 as a restaurant, piano bar, and members' club, occupying a 17th-century palace lavishly restored by the Spanish-Moroccan group behind the El Minzah hotel. The dining room is in the cool ground-floor patio under the painted-cedar arches; the rooftop terrace gives one of the best high-table views in the medina; the basement piano bar runs nightly into the early hours.

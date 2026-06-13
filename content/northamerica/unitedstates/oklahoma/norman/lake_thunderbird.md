@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 35.2156
 longitude: -97.2422
+score: 6.7
 ---
 
 A 24-square-kilometre reservoir 20 km east of Norman, set in the rolling cross-timbers forest of central Oklahoma. The lake was dammed in 1965 to provide Norman, Midwest City, and Del City with drinking water; the surrounding state park covers around 7,000 acres with two campgrounds, a marina, swimming beaches, fishing piers, and a network of cycling and equestrian trails.

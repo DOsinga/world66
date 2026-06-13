@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.4431
 longitude: 118.0916
+score: 9.5
 ---
 
 South Putuo Temple is technically on the Xiamen mainland rather than on Gulangyu, but it is close enough to the ferry terminal that it can reasonably be combined with an island visit. One of the most important Buddhist temples in Fujian, it was founded in the Tang dynasty, destroyed and rebuilt multiple times, and currently operates as both an active monastery and a popular pilgrimage destination. The main temple complex climbs the hillside behind the gate, with increasingly significant shrines at each terrace.

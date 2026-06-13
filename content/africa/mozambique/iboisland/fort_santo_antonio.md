@@ -6,6 +6,7 @@ longitude: 40.589444
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The smallest and most picturesque of Ibo's three forts, Fort Santo Antonio sits a short walk south of the old town. It is a compact whitewashed bastion still in fairly good repair, and it now houses the workshops of several of the island's silversmiths -- you can wander in, watch the work, and buy a piece on the way out.

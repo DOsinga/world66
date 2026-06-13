@@ -8,6 +8,7 @@ tags:
 latitude: 58.6033
 longitude: 49.6672
 story: "The museum was founded in 1866, making it one of the oldest public museums in provincial Russia. Its natural history collection includes a complete skeleton of a mammoth excavated from the Vyatka River basin — a reminder that this remote northeastern region was mammoth country during the last ice age."
+score: 8.2
 ---
 
 The Vyatka Regional Studies Museum occupies the former Bishop's Palace, a handsome 18th-century complex of pale classical buildings above the river. It is one of the most comprehensive provincial museums in Russia, covering the region's natural history, archaeological past, and folk art traditions in depth.

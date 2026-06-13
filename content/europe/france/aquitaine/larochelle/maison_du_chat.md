@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 46.1599
 longitude: -1.1530
+score: 5.2
 ---
 
 La Maison du Chat — the Cat House — stands on the corner of the Rue des Augustins and the Place du Marché, an otherwise unremarkable 17th-century townhouse marked by a single curious detail: a small stone cat perched permanently on the roof, staring out across the rooftops of the old town.

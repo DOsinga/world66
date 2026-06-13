@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.4
 ---
 
 The Arab Baths of Elche are a 10th-century hammam preserved underground in the old Moorish quarter of the city. They were built during the period when Elche was part of the Caliphate of Córdoba, and the remains are substantial: a cold room, warm room, and hot room survive, with the characteristic star-shaped skylights piercing the vaulted ceiling — small oculi that let in shafts of light and allowed steam to escape. They are among the best-preserved examples of Moorish bath architecture in the Valencia region.

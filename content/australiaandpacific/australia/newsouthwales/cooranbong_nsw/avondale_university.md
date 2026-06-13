@@ -9,6 +9,7 @@ latitude: -33.087
 longitude: 151.461
 sources:
   - https://en.wikipedia.org/wiki/Avondale_University
+score: 6.6
 ---
 
 Avondale University is the only private university in New South Wales affiliated with the Seventh-day Adventist Church. Founded in 1897, it grew out of the original Adventist settlement here and remains the spiritual and institutional heart of Cooranbong. The campus spreads across a leafy site on the eastern edge of town, with a mix of Victorian-era wooden buildings and more recent structures.

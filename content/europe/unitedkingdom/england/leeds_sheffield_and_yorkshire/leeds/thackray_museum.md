@@ -13,6 +13,7 @@ story: >
   BBC documentary series in the 1990s that made it one of Britain's most famous hospitals. The medical
   collection includes a full recreation of a Victorian slum street with interactive displays on the
   health consequences of 19th-century poverty, designed to be genuinely uncomfortable.
+score: 8.0
 ---
 
 One of the most unusual museums in England, the Thackray is devoted to the history of medicine and the human body from the Victorian era to the present day. The permanent collection traces the development of medicine through hands-on exhibits, a recreated Victorian slum, and an honest account of what illness and surgery meant before anaesthesia and antiseptics. It is not squeamish about the realities of medical history and is better for it.

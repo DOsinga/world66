@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Modernist pavilion in Klambratún park dedicated to Jóhannes Kjarval and contemporary art
+score: 7.5
 ---
 
 The second of the three Reykjavík Art Museum sites, Kjarvalsstaðir is a low modernist pavilion set in the green expanse of Klambratún park. It is named for the painter Jóhannes Kjarval, the great Icelandic landscape modernist whose moss-and-lava abstractions occupy one wing of the building; the other wing holds rotating shows of contemporary Icelandic art.

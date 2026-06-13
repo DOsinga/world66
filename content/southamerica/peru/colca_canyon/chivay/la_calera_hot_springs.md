@@ -12,6 +12,7 @@ story: >
   comfortable 35–45°C by mixing with cold river water. Locals have bathed
   here for centuries; the Inca, who terraced and farmed the Colca Valley extensively,
   likely used these same springs.
+score: 7.4
 ---
 
 La Calera hot springs are the most accessible and enjoyable thermal baths near Chivay, about two kilometres from the town centre. The pools sit at the edge of the Colca Valley, with views of the terraced hillsides and the river below. There are several pools at different temperatures; the hotter ones are closest to the source.

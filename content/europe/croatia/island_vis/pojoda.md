@@ -8,6 +8,7 @@ tags:
 neighbourhood: Vis Town (Kut)
 latitude: 43.0589
 longitude: 16.1947
+score: 6.5
 ---
 
 Pojoda is the long-running Kut institution and the safest bet on Vis for traditional Dalmatian island cooking done extremely well. The dining room spills out into a small enclosed garden under fig and pomegranate trees; the menu is short and seasonal — grilled fish by the kilo, anchovies, octopus salad, the local pogača bread baked to order.

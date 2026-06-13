@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ardenica_Monastery
 story: >
   Ardenica has an unexpected connection to the Albanian national hero Skanderbeg (Gjergj Kastrioti). After his death in 1468, his widow Donika Arianiti is believed to have lived and died in the monastery as a nun. It was also here that the Albanian national leader Ismail Qemali was briefly sheltered during the 1912 declaration of independence.
+score: 8.4
 ---
 
 The Monastery of Ardenica sits on a wooded hilltop about 30 kilometres east of Fier and is one of the finest examples of Albanian Orthodox monastic architecture. The main church, dedicated to Saint Mary, was built in 1743 and contains an outstanding iconostasis — the carved and gilded screen of religious paintings that divides the nave from the sanctuary — created by the Zografi brothers, among the most celebrated icon painters of 18th-century Albania.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - unesco
+score: 9.2
 ---
 
 The two enormous niches cut into the sandstone cliff above Bamiyan town are now empty — and yet they remain one of the most powerful sights in Asia. From the 6th and 7th centuries until March 2001, they held two giant standing Buddhas, the western statue 55 metres tall, the eastern 38 metres. Both were finished with plaster and painted, and originally adorned with gold leaf. Xuanzang, the Chinese pilgrim who passed through in 630 AD, described their dazzling appearance.

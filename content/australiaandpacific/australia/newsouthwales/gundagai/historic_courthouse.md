@@ -5,6 +5,7 @@ tags: [things_to_do, sight, history, architecture]
 latitude: -35.0614
 longitude: 148.1062
 snippet: Greek Revival courthouse from 1860, designed by colonial architect Alexander Dawson
+score: 7.8
 ---
 
 The Gundagai Courthouse, set on an elevated position overlooking the town, is one of the few remaining courthouses in New South Wales designed by colonial architect Alexander Dawson. Built in 1859 from sandstone in a Greek Revival style, it replaced the buildings destroyed or damaged in the 1852 flood and has been in continuous use as a working courthouse ever since.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.5
 ---
 
 Oita Station was rebuilt in 2015 as a large, modern complex called JR Oita City. As well as the railway platforms it contains a department store, a multi-floor shopping mall, restaurants, a cinema, and — most distinctively — a rooftop garden with a hot foot-spa, a children's play area, and a small Shinto shrine, all looking out over the city to the hills beyond.

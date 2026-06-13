@@ -11,6 +11,7 @@ tags:
 - sight
 title: Tenryū-ji
 type: poi
+score: 8.7
 ---
 
 Tenryū-ji ("Temple of the Heavenly Dragon") is the head temple of one of the major schools of Rinzai Zen and the most important monastery in Arashiyama. It was founded in 1339 by the shogun Ashikaga Takauji to pray for the soul of the recently overthrown emperor Go-Daigo, and its founding abbot Musō Soseki — also one of the foremost garden designers of his era — laid out the Sōgen Pond garden that survives almost unchanged behind the main hall.

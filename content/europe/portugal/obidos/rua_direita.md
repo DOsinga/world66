@@ -6,6 +6,7 @@ longitude: -9.1573
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Rua Direita is the single cobbled main street that runs the length of the town from the southern gate to the church square. Whitewashed houses with blue-or-yellow painted trim line both sides, splashed with bougainvillea, and the street is lined with shops selling **ginjinha** (the local sour cherry liqueur), pottery, and craft books.

@@ -6,6 +6,7 @@ latitude: 8.1500
 longitude: -78.0167
 story: >
   Vasco Núñez de Balboa reached the Gulf of San Miguel in September 1513, becoming the first European to see the Pacific Ocean from the Americas. He reportedly waded into the water in full armour and claimed the entire South Sea — as the Pacific was then called — for the Spanish Crown. The gulf he stumbled upon is still one of the most isolated on the Pacific coast.
+score: 7.1
 ---
 
 The Gulf of San Miguel is the wide, mangrove-fringed bay outside La Palma, fed by the Tuira and Sabanas rivers. From the town waterfront you look out over a stretch of open water flanked by dense forest — on a clear morning the gulf has a cinematic stillness. Fishing boats work the shallows, and dolphins are regularly spotted.

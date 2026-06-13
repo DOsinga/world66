@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.165
 longitude: 13.355
+score: 8.7
 ---
 
 Monte Pellegrino is the 600-metre limestone headland that closes Palermo's bay to the north, rising sharply from the coastal strip. The mountain is a regional nature reserve, with hiking paths through carob, olive, and dwarf palm, and lookouts over the city and out toward the Aeolian Islands.

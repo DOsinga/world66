@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 46.3394
 longitude: 14.9631
+score: 5.9
 ---
 
 Mozirski Gaj is a large public flower garden in the town of Mozirje, spread across several hectares along the Savinja River. It is one of the most visited gardens in Slovenia, particularly during spring and summer when the flowers are at their peak. The garden is thoughtfully laid out with different themed sections, water features, and paths that make for a pleasant hour or two of wandering.

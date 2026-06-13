@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
 title: Bar de la Préfecture
 type: poi
+score: 4.4
 ---
 
 A small bar close to the prefecture building, patronised mainly by local government workers and traders. It serves cold beer (Castel and Mocaf) when the refrigerator has power, along with soft drinks and palm wine. Basic food — peanuts, beignets — sometimes available.

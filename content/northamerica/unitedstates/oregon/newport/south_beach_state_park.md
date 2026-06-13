@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 44.6040
 longitude: -124.0637
+score: 6.7
 ---
 
 South Beach State Park spreads across a wide swath of sand and dune-grass just south of the Yaquina Bay Bridge. It offers Newport's most open beach experience: miles of sand for walking, kite-flying, or simply staring at the surf, plus the campground that is the most popular state-park reservation on the Oregon coast.

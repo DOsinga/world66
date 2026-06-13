@@ -8,6 +8,7 @@ tags:
   - inner_harbor
 latitude: 39.2855
 longitude: -76.6112
+score: 7.6
 ---
 
 The USS Constellation is a sloop-of-war launched in 1854, the last sail-only warship designed and built by the United States Navy. She served through the Civil War, made a Mediterranean deployment, and later became a training ship before being preserved in Baltimore. She is now moored in the Inner Harbor and open for tours.

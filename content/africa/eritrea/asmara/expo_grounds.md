@@ -6,6 +6,7 @@ longitude: 38.9389
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A sprawling open ground on the southern edge of the city, used for the annual Eritrean Festival (Expo) in late July and August. During festival weeks the site fills with stalls representing each of Eritrea's nine ethnic groups, with traditional houses set up alongside food vendors, music stages, and craft demonstrations.

@@ -7,6 +7,7 @@ tags:
   - djurgarden
 latitude: 59.3224
 longitude: 18.0964
+score: 5.8
 ---
 
 Gröna Lund is one of the oldest amusement parks in the world, founded in 1883 on Djurgården. The park is compact — it sits on a small waterfront plot squeezed between the water and the road — which makes it more intense than most. Around 30 rides are packed in, ranging from the classic wooden roller coaster from 1935 to more recent thrill machines. The vintage funfair atmosphere, with its old carousel and game stalls, is part of the charm.

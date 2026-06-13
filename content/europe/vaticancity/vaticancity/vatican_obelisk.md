@@ -10,6 +10,7 @@ tags:
 - sight
 - landmark
 story: "The obelisk was moved to its present spot in 1586 by Pope Sixtus V — an operation that took 13 months, 900 men, 75 horses and 44 winches. To ensure silence so the foreman could hear his commands, the Pope ordered death for anyone who spoke during the lift. The legend goes that one sailor in the crowd shouted 'Acqua alle funi!' (Water on the ropes!) when the hemp began to smoke under load. Instead of executing him, the Pope rewarded him; his Bordighera family was granted the right to supply Vatican palms for Holy Week in perpetuity."
+score: 6.8
 ---
 
 The 25-metre red granite obelisk in the centre of St. Peter's Square was quarried at Aswan around 2,000 BC and shipped to Rome by Caligula in 37 AD to decorate his private circus on the Vatican Hill. It is the only obelisk in Rome that has never fallen — it has stood continuously for nearly two thousand years.

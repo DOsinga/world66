@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, street_food]
 latitude: -7.4250
 longitude: 109.2340
+score: 7.0
 ---
 
 Sroto Sokaraja is Purwokerto's most distinctive dish — a clear, lightly spiced chicken broth served over rice vermicelli with shredded chicken, boiled egg, fried shallots and a generous spoonful of peanut sauce stirred in at the table. It is related to the soto found across Java but the peanut sauce sets the Banyumas version apart, giving it a richer, nuttier flavour. The name comes from the town of Sokaraja to the east, where it is said to have originated, but it is eaten throughout the Purwokerto area.

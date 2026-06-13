@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 9.3
 ---
 
 The Marienkirche is the prototype of Backsteingotik, the brick-Gothic style that spread along the Baltic coast from here to Tallinn and Riga. Built between 1265 and 1351, it set the architectural template for every great Hanseatic church that followed. Inside, the central nave rises 38 metres under one of the highest brick vaults in the world, lit by enormous tracery windows.

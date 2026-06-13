@@ -5,6 +5,7 @@ latitude: 64.225
 longitude: 27.729
 snippet: "Neoclassical stone church at the centre of town, built in the early 19th century"
 tags: [things_to_do, sight, historic]
+score: 6.6
 ---
 
 Kajaani Church is a neoclassical stone building dating from 1896, standing on a low rise near the town centre. It replaced an earlier wooden church that had served the congregation since the town's founding, and its scale reflects the modest growth Kajaani experienced in the latter half of the 19th century as the region's timber industry expanded. The exterior is straightforward and restrained, typical of Lutheran church architecture of the period.

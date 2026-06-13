@@ -8,6 +8,7 @@ latitude: 13.1025
 longitude: -59.6210
 story: >
   Mount Gay's oldest deed of sale, from 1703, refers to a rum distillery already in operation on the site — making it the oldest documented commercial rum producer in the world. The name comes from a later owner, John Gay, who acquired the estate in the 18th century and whose descendants ran it for over a century.
+score: 6.6
 ---
 
 Mount Gay is the oldest rum brand in the world, and its visitor centre in the Spring Garden Highway area offers tours that cover the history of Barbadian rum-making and the distillation process, ending with a structured tasting. It is not the actual distillery — production happens at the factory north of Bridgetown — but the centre is well-set-up and the guides are knowledgeable.

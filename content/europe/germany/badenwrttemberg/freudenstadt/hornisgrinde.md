@@ -9,6 +9,7 @@ tags:
 - mountain
 title: Hornisgrinde
 type: poi
+score: 8.1
 ---
 
 The Hornisgrinde is the highest point of the Northern Black Forest at 1163 metres. The summit plateau is unexpectedly flat and treeless, covered in raised peat moor — one of the few high moors in central Europe — and crossed by boardwalk paths to protect the bog. Two stone towers crown it: a 19th-century lookout in the south and a former French military radar mast in the north.

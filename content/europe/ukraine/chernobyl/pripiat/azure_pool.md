@@ -8,6 +8,7 @@ tags:
 - sight
 title: Azure Swimming Pool
 type: poi
+score: 8.0
 ---
 
 The Lazurniy (Azure) swimming pool was one of three Olympic-class pools in Pripyat. It sits in a glazed hall a few blocks east of the central square, near the Avanhard sports complex, and is one of the most photographed interiors in the Exclusion Zone. The bottle-green tiles, the empty rectangular basin, and the high diving platform are usually framed in low afternoon light.

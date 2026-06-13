@@ -10,6 +10,7 @@ neighbourhood: New Town
 latitude: 41.3128
 longitude: 69.2811
 story: "When it opened in 1974 the Hotel Uzbekistan was the showcase Intourist hotel of Central Asia — every visiting foreigner was channelled here, every room bugged, every floor watched by a dezhurnaya. The brutalist concrete-screen façade was meant to evoke a giant suzani embroidery."
+score: 7.5
 ---
 
 The most photogenic Soviet building in Tashkent — a curved seventeen-storey slab with a façade of repeating concrete arches, finished in 1974 and unchanged in essential character since. It still operates as a hotel, somewhat refurbished but determinedly Soviet in atmosphere.

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Presidential Palace
 type: poi
+score: 6.8
 ---
 
 The Presidential Palace (Hor Kham, or Golden Palace) is one of the grandest French Beaux-Arts buildings in Southeast Asia, finished in 1973 just before the monarchy fell. It was intended for King Sisavang Vatthana, who never moved in — the Pathet Lao took power in 1975 and the king was sent to a re-education camp where he later died.

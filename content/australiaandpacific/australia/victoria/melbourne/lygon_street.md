@@ -8,6 +8,7 @@ tags:
   - italian
 latitude: -37.8001
 longitude: 144.9680
+score: 7.9
 ---
 
 Lygon Street in Carlton is the original Italian quarter of Melbourne, the street where post-war immigrants from Italy established the espresso culture, the trattorias, and the delis that shaped the city's food identity. The block between Faraday and Elgin Streets is the heart of it, lined with restaurants that have operated for decades alongside newer arrivals. The street is more tourist-oriented than it was, but the bones are genuine.

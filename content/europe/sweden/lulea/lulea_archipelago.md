@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.5200
 longitude: 22.3500
+score: 8.8
 ---
 
 The Luleå Archipelago extends into the Bothnian Bay as a maze of over 1,700 islands, islets, and skerries — one of the largest archipelagos on the Swedish coast. In summer, the islands are covered in wildflowers and inhabited by breeding seabirds, and the flat, sheltered waters between them are ideal for kayaking and canoeing. A few islands have small fishing communities and summer cottages; most are completely undeveloped.

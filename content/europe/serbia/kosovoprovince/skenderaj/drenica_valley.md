@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The heartland of Kosovo's independence movement, now a peaceful rural valley"
+score: 5.9
 ---
 
 The Drenica valley — Lugidhrent in Albanian — is the broad agricultural valley in which Skenderaj sits, and it carries enormous significance in Kosovo's modern history. This was the region where the Kosovo Liberation Army established its earliest footholds in the mid-1990s, and where the first major battles of the 1998–99 conflict were fought. The villages of Likošane, Çirez, and Prekaz became internationally known as sites of Serbian security force operations.

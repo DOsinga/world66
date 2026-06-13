@@ -7,6 +7,7 @@ tags:
   - mountain
 title: Mount Moran
 type: poi
+score: 7.2
 ---
 
 Mount Moran anchors the northern Teton skyline, rising above Jackson Lake with a broad, imposing face. Its dark dike of volcanic rock makes it easy to recognize from many viewpoints.

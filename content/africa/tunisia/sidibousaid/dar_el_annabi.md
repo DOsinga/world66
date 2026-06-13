@@ -10,6 +10,7 @@ story: >
   The house was built by the Annabi family, one of the old aristocratic families of Tunisia, and remained in private use until relatively recently. The family was connected to the Husainid dynasty that ruled Tunisia under Ottoman suzerainty — the interiors reflect not just domestic life but the particular blend of Arab, Ottoman, and Andalusian influences that shaped the Tunisian upper class.
 sources:
   - https://en.wikipedia.org/wiki/Dar_El_Annabi
+score: 7.7
 ---
 
 Dar El Annabi is the finest traditional house open to visitors in Sidi Bou Said — a wealthy Tunisian aristocratic residence built in the 18th and 19th centuries, with the interconnected courtyards, carved stucco, and zellige tile work characteristic of the best North African domestic architecture. The central courtyard with its fountain and lemon trees sets the tone: this is a house built for shade, beauty, and privacy.

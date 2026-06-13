@@ -7,6 +7,7 @@ tags:
 title: Sculpture Fields at Montague Park
 type: poi
 snippet: "Open meadow displaying more than fifty large-scale outdoor sculptures"
+score: 6.9
 ---
 
 A 33-acre former park transformed into the largest sculpture park in the South. More than fifty works by artists from across the United States and overseas are spread across mown meadow, from monumental steel pieces to subtler stone and concrete installations.

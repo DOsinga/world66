@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.177
 longitude: 20.453
+score: 7.4
 ---
 
 At the edge of Argostoli, seawater from the Ionian Sea pours into holes in the coastal limestone and disappears. Where it went was a mystery for centuries until 1963, when a team of Austrian geologists poured 140 kilograms of fluorescent green dye into the swallow holes. Two weeks later the dye appeared — faint but unmistakable — in springs near Sami on the opposite side of the island, 15 kilometres away. The water travels underground through the island's porous karst limestone, driven by the difference in sea level between the two coasts.

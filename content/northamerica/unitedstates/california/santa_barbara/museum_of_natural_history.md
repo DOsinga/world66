@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.4404
 longitude: -119.7104
+score: 7.9
 ---
 
 Set in oak woodland just up Mission Canyon from the Old Mission, the Museum of Natural History is one of the better small-city natural history museums in California. The Chumash Hall is especially strong, with one of the largest collections of plank canoe (*tomol*) materials anywhere, and the planetarium and observatory offer regular shows.

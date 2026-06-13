@@ -9,6 +9,7 @@ latitude: 52.4083
 longitude: 16.9283
 sources:
   - https://en.wikipedia.org/wiki/Raczy%C5%84ski_Library
+score: 7.4
 ---
 
 The Raczynski Library is one of Poznan's finest neoclassical buildings, fronted by a colonnaded portico that faces Marcinkowskiego Avenue. Founded in 1829 by Count Edward Raczynski as a public lending library — one of the first in Poland — it was an act of deliberate cultural patriotism at a time when Poznan was under Prussian rule and Polish institutions were being suppressed. The count donated both the building and his own book collection to the city.

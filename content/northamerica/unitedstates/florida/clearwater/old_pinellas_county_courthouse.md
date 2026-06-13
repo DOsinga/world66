@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Old Pinellas County Courthouse is a handsome Neoclassical Revival building completed in 1918, the year Pinellas County was carved out of Hillsborough County with Clearwater as its seat. The white-columned facade faces Fort Harrison Avenue and looks the part of a proper Southern courthouse. It served as the county government's home until a larger complex was built in the 1960s.

@@ -7,6 +7,7 @@ tags:
 latitude: -45.9500
 longitude: 169.7000
 story: "On 23 May 1861, Gabriel Read, an Australian prospector, found gold in this stream and reported it, triggering the largest gold rush in New Zealand history. Within months, 11,500 people had flooded into the valley. The original site is marked, and you can still try your luck with a gold pan — but expect to find only traces."
+score: 7.7
 ---
 
 Gabriel's Gully, about 5 km south of Lawrence, is where Gabriel Read made the gold discovery in May 1861 that transformed Otago and, indirectly, all of New Zealand. The population explosion that followed — Lawrence reached 11,500 people within a year — funded the development of Dunedin and provided the capital base for much of Otago's subsequent infrastructure.

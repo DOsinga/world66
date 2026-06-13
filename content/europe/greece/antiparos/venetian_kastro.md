@@ -8,6 +8,7 @@ latitude: 37.0078
 longitude: 25.0607
 story: >
   The kastro was built in the 1440s by the Venetian nobleman Leonardo Loredano, who received the island as a feudal grant from the Duke of Naxos. The construction technique is unusual: rather than building a separate fortification, the outer ring of houses was built directly into the defensive wall, with no external windows on the ground floor. The residents' own homes were the castle walls — the community and its defences were literally the same structure.
+score: 7.8
 ---
 
 The Venetian kastro in Antiparos Chora is the defining structure of the island's main village. Built in the 15th century, it takes the form of a ring of attached houses whose outer walls formed the castle's defensive perimeter — an unusual design in which the architecture of daily life was simultaneously the architecture of defence. The single gateway into the interior courtyard is still the entrance to the old village.

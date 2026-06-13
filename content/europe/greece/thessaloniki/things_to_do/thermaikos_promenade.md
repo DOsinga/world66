@@ -7,6 +7,7 @@ tags:
 latitude: 40.6290
 longitude: 22.9450
 snippet: Thessaloniki's long seafront promenade with views to Mount Olympus
+score: 7.2
 ---
 
 The Thermaikos waterfront runs for several kilometres along the edge of the Thermaic Gulf, from the port in the west to the White Tower and beyond. It is the city's living room — a wide promenade where people walk, cycle, sit on benches watching the water, and gather at sunset in numbers that suggest a communal ritual. On clear days the cone of Mount Olympus rises directly across the bay, close enough to feel like a presence in the city.

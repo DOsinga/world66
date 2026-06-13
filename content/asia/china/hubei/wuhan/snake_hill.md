@@ -9,6 +9,7 @@ tags:
   - park
   - wuchang
 neighbourhood: Wuchang
+score: 6.9
 ---
 
 Snake Hill is the long thin ridge that runs east-west through Wuchang, ending at the Yangtze, and the home of the Yellow Crane Tower at its tip. The name comes from the snaking shape of the ridge as seen from above; together with Tortoise Hill in Hanyang it forms the geographical heart of Wuhan, and dragon-and-tortoise iconography runs through the city's poetry and folklore.

@@ -8,6 +8,7 @@ tags:
 latitude: 48.12417
 longitude: 8.17361
 story: "The Blindensee is a raised bog lake — a type of wetland where the water comes entirely from rainfall rather than groundwater, creating an environment that is both nutrient-poor and biologically distinctive. The Black Forest has few raised bogs left; most were drained in the 19th and early 20th centuries. The Blindensee sits at around 1,000 metres on the territory of Schonwald and is protected as a nature reserve, with access restricted to boardwalk paths to protect the delicate bog vegetation."
+score: 7.8
 ---
 
 The Blindensee is a small raised bog lake about 2.5 kilometres north of Schonwald village centre, protected as a nature reserve for its unusual ecology. Raised bogs form when peat moss accumulates over millennia in areas of high rainfall, eventually creating a dome of peat that sits above the surrounding land level — the name "raised bog" refers to this elevation above the water table.

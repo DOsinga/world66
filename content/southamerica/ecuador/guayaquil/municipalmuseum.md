@@ -6,6 +6,7 @@ tags:
 - museum
 title: Guayaquil Municipal Museum
 type: poi
+score: 7.5
 ---
 
 The Guayaquil Municipal Museum (Museo Municipal) occupies one of the city's finest neoclassical buildings, adjacent to the Municipal Library. The collection covers Ecuadorian art and pre-Columbian archaeology, with a good representation of coastal cultures and an Egyptian mummy that has been here since the 19th century — an unexpected acquisition that has remained ever since.

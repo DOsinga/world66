@@ -10,6 +10,7 @@ longitude: -99.2369
 sources:
   - https://en.wikipedia.org/wiki/Torres_de_Sat%C3%A9lite
 story: "The towers were designed in 1957 by Luis Barragán and the sculptor Mathias Goeritz as a gateway to the new planned suburb of Ciudad Satélite — a project conceived as Mexico's answer to postwar suburban expansion. Barragán and Goeritz intended the towers to be purely abstract and without symbolic meaning. The developer, Mario Pani, disagreed and wanted them to represent something, which led to a falling-out. Barragán's name was removed from the project for decades before being restored."
+score: 8.0
 ---
 
 The Torres de Satélite are five slender, brightly coloured concrete towers that rise from a traffic island at the entrance to the Ciudad Satélite suburb of Naucalpan. Designed in 1957 by Luis Barragán and Mathias Goeritz, they stand between 37 and 57 metres tall and are painted in combinations of yellow, orange, red, white, and blue. As pure abstract sculpture at urban scale they are remarkable, and as a marker of Mexico's postwar engagement with international modernism they are historically important.

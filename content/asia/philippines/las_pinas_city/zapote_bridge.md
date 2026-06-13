@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 14.463989
 longitude: 120.966389
 story: "The Battle of Zapote Bridge on 13 June 1899 was one of the most significant early engagements of the Philippine-American War, in which American forces under General Henry Lawton defeated a much larger Filipino force commanded by General Antonio Luna. Luna had fortified the bridge and its approaches with earthworks and used the Zapote River as a defensive line — a reasonable strategy that nonetheless failed against American firepower and flanking manoeuvres. The battle is still commemorated in Las Piñas as part of the city's revolutionary history."
+score: 6.2
 ---
 
 The Zapote Bridge is a historic stone arch bridge crossing the Zapote River at the boundary between Las Piñas and Bacoor, Cavite. The bridge dates to the Spanish colonial period and the ruins of its original stonework remain visible. During the Philippine Revolution against Spain in 1896 and 1897, Filipino forces used the bridge as a defensive position; the site is also associated with the Philippine-American War battle of June 1899.

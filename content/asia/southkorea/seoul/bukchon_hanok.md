@@ -15,6 +15,7 @@ story: >
   Changdeokgung were awkward for developers — and partly because residents and
   preservationists organised to protect them. The Seoul Metropolitan Government
   began a restoration programme in 2001.
+score: 8.9
 ---
 
 Bukchon Hanok Village is a dense neighbourhood of traditional Korean tile-roofed houses (hanok) on the hillside between Gyeongbokgung and Changdeokgung palaces. The lanes are narrow, the views across rooftops to the palaces below are exceptional, and the overall effect — dark timber, grey tile, stone walls — is unlike anything in the rest of Seoul. Many of the houses are still occupied as private residences; this is a neighbourhood, not a theme park.

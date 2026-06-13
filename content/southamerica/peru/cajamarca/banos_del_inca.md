@@ -13,6 +13,7 @@ story: >
   messenger brought news of the Spanish arrival; Atahualpa decided to meet them. He
   was captured the following afternoon. The springs he was bathing in that morning
   still flow at around 72°C, and you can swim in them today.
+score: 6.9
 ---
 
 The Baños del Inca are a set of thermal hot springs about 6 km east of Cajamarca, long considered sacred by the local Andean population and used by Inca royalty. The main spring flows at about 72°C, too hot to bathe in directly, but the complex has pools where the water is diluted to comfortable temperatures. The facilities range from communal pools to private tubs, and the experience is practical rather than spa-luxurious — popular with local families at weekends.

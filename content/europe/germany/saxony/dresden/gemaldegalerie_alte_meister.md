@@ -7,6 +7,7 @@ tags:
 title: "Gemäldegalerie Alte Meister"
 type: poi
 story: "The collection's most famous work is Raphael's Sistine Madonna, painted in 1512, which for centuries hung in the Gemäldegalerie and inspired every cliché about Renaissance devotion. The two putti at the bottom of the painting — two bored-looking cherubs resting their chins on their hands — became separately famous in the twentieth century as an advertising motif and remain some of the most reproduced images in Western art."
+score: 9.3
 ---
 
 The Old Masters Gallery inside the Zwinger's Semper Gallery is one of the great painting collections in Europe, assembled largely by Augustus the Strong and his son Augustus III through aggressive acquisition across the early eighteenth century. The collection focuses on Italian, Flemish, and Dutch Old Masters from the fifteenth to eighteenth centuries, and includes works by Raphael, Titian, Giorgione, Correggio, Vermeer, Rembrandt, and Rubens. The Canaletto Room, displaying his panoramic views of Dresden circa 1750, serves as a historical document as much as art — the city it depicts was almost entirely destroyed two centuries later.

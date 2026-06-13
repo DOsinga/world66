@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Catoca_diamond_mine
   - https://latitude.to/articles-by-country/ao/angola/57889/catoca-diamond-mine
+score: 6.4
 ---
 
 The Catoca kimberlite pipe, 35 km north of Saurimo, is the fourth-largest diamond mine in the world and the engine of Lunda Sul's economy. It accounts for more than three-quarters of Angola's total diamond output and has been in production since 1997. The mine is not open to casual visitors — a permit through the operating company Sociedade Mineira de Catoca is required — but the scale of the operation is visible from the approach road, and the nearby town of Catoca has grown entirely around it. For those with an interest in industrial-scale mining or Angola's economic story, the effort to arrange a visit is worthwhile.

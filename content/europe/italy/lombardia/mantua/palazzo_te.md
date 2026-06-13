@@ -12,6 +12,7 @@ story: >
   The Sala dei Giganti was designed so that standing anywhere in the room, you appear to be surrounded by collapsing architecture and dying titans. Giulio Romano arranged the frescoes so they wrap around every wall and the ceiling without a break — there is no safe corner to stand in. The room was originally used for banquets, and the Gonzagas would have dined under the impression of total catastrophe.
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_Te
+score: 9.3
 ---
 
 A short walk south of the historic centre, Palazzo Te is one of the finest Mannerist buildings in Italy and a project that Giulio Romano — Raphael's most brilliant student — designed as a summer retreat for Federico II Gonzaga in the 1520s. The deliberately "incorrect" classical architecture (triglyphs that appear to be slipping, keystones that seem out of place) is a sophisticated joke aimed at learned visitors who would appreciate the departures from canon.

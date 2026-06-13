@@ -6,6 +6,7 @@ longitude: -3.33063
 tags:
   - things_to_do
   - museum
+score: 5.4
 ---
 
 The Market House Museum, in the small Georgian building on Market Street, is the town's local history collection. The displays cover Watchet's harbour history, the iron-ore trade with South Wales, the railway, and a particularly good section on the Saxon and Viking-age finds excavated locally — Watchet was a mint town under Alfred the Great and several of the coins struck here are on display.

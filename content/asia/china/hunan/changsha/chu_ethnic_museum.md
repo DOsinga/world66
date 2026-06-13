@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.2050
 longitude: 112.9850
+score: 7.3
 ---
 
 The Chu state dominated central China from the Western Zhou period through 223 BC, when it was absorbed by the Qin dynasty. Hunan was Chu territory, and Changsha was one of the Chu heartland cities. The Chu cultural tradition — distinguished by its lacquerware, its ritual bronzes, and a philosophical and literary tradition (the Chu Ci, or "Songs of the South") separate from the Yellow River heartland culture — left deep marks on Hunanese identity that are still present in the cuisine, the dialect, and the aesthetic traditions of the province.

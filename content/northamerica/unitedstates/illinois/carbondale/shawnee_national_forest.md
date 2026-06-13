@@ -8,6 +8,7 @@ latitude: 37.5500
 longitude: -88.8800
 story: >
   The Shawnee Hills wine trail — sometimes called the "Napa of the Midwest" — runs through the southern edge of the Shawnee National Forest. The region's sandy, loamy soil and long growing season produce wines that have surprised sceptics. The trail has grown from a handful of wineries in the 1990s to over two dozen, most of them accessible on a day trip from Carbondale.
+score: 9.0
 ---
 
 Shawnee National Forest covers 280,000 acres of southern Illinois and is the main reason visitors come to Carbondale. The forest is unusually wild-looking for the Midwest — dramatic sandstone bluffs, natural arches, cypress swamps, and hardwood ridges give it a character more like the Ozarks or Appalachians than the flat Illinois most people imagine.

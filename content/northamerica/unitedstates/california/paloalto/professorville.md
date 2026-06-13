@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "Stanford's original faculty neighbourhood, full of craftsman bungalows"
+score: 7.4
 ---
 
 The first neighbourhood built for Stanford faculty after the university opened — a quiet grid of

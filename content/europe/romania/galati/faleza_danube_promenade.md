@@ -8,6 +8,7 @@ tags:
 title: Faleza Dunării
 type: poi
 story: "From the upper level of the Faleza you can watch Ukraine on the far bank of the Danube — Galați sits at the point where Romania, Moldova and Ukraine almost meet, and the river here is nearly a kilometre wide."
+score: 8.1
 ---
 
 The Faleza is the long promenade that runs along the high bank of the Danube through the centre of Galați. The lower terrace, closer to the water, has cafés, benches and the moored old paddle steamer that now serves as a restaurant. The upper terrace, fifteen metres above, gives the best views over the river and across to the marshlands and bird reserves on the Ukrainian side.

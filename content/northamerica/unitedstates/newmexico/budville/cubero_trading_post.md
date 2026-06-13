@@ -7,6 +7,7 @@ tags:
 latitude: 35.0903
 longitude: -107.5180
 story: "Ernest Hemingway spent several weeks at the Cubero motor lodge in 1947, working on the final draft of *The Old Man and the Sea*. The lodge guest book also has signatures from Lucille Ball, Desi Arnaz, the Von Trapps and Jack Kerouac. The motor courts were closed in the 1990s; the trading post still operates as a convenience store."
+score: 6.6
 ---
 
 A mile north of Budville, on the older 1937 alignment of Route 66, the Villa de Cubero trading post is the rare surviving member of the family that is still actually open for business. The store sells gasoline, snacks and a small selection of Acoma and Laguna pottery; the attached row of stucco motor-court rooms, where Hemingway is supposed to have written part of *The Old Man and the Sea*, has been closed for decades but still stands.

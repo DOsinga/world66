@@ -8,6 +8,7 @@ tags:
 latitude: 52.3733
 longitude: 9.7408
 snippet: 19th-century opera house, the heart of the city's classical scene
+score: 7.5
 ---
 
 A handsome neoclassical opera house finished in 1852 by Georg Friedrich Laves, the architect responsible for much of post-Napoleonic Hanover. The Staatsoper has been the resident company since the 1850s and runs a strong programme of opera and ballet from September to June. The ensemble has a reputation for thoughtful, sometimes provocative productions of standard repertoire.

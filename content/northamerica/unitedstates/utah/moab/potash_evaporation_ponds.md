@@ -8,6 +8,7 @@ latitude: 38.4583
 longitude: -109.7500
 story: >
   The ponds' otherworldly blue colour comes from algae that grows in the potash-saturated brine and from blue dye added by the mining company to speed evaporation. The mine beneath extracts potassium chloride — potash — by dissolving the underground deposits with water and then evaporating the solution in these open-air ponds. The facility has been operating since the 1960s, pumping water 3,000 feet underground to dissolve Permian-era salt deposits.
+score: 6.3
 ---
 
 The Potash Evaporation Ponds are one of the most unexpected sights in the Moab area: a series of large pools in an electric turquoise-blue, sitting in the middle of a red desert canyon with the Colorado River running alongside them. The contrast with the surrounding landscape is so extreme it looks unreal from the Dead Horse Point overlook above, where the ponds are visible against the river meander far below.

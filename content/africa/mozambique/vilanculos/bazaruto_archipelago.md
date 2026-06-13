@@ -9,6 +9,7 @@ latitude: -21.7167
 longitude: 35.4667
 story: >
   The Bazaruto Archipelago was gazetted as a national park in 1971, making it one of the first marine protected areas in Africa. The waters here are the last refuge of a viable population of dugongs — the gentle, manatee-like mammals that may have inspired mermaid legends among ancient sailors. Fewer than 250 are thought to survive in the entire Indian Ocean; Bazaruto holds perhaps 100 of them.
+score: 9.4
 ---
 
 Five islands — Bazaruto, Benguerra, Magaruque, Santa Carolina, and Bangué — make up the Bazaruto Archipelago, a national park protecting some of the richest marine habitat left in East Africa. The surrounding waters are shallow and warm, sheltering coral reefs, seagrass beds, whale sharks, manta rays, dolphins, and one of the last significant populations of dugongs in the Indian Ocean.

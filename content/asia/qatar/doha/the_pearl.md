@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 25.3722
 longitude: 51.5508
+score: 6.6
 ---
 
 The Pearl is a man-made island off the coast of Doha, a 4 sq km development of canals, marinas, residential towers, and a retail strip modelled loosely on Monaco and Porto Cervo. It is not attempting to be subtle about its aspirations. The resident population is largely expat, and the island's Qanat Quartier — a canal district with pale-coloured apartment buildings and waterside restaurants — is pleasant if slightly artificial.

@@ -11,6 +11,7 @@ story: >
   Boppard sits inside the Rhine's most dramatic bend — the Bopparder Hamm, where the river curves through nearly 180 degrees in a horseshoe that is invisible from the river itself. From below, the Hamm looks like an inland lake; from the Vierseenblick viewpoint above, you appear to be looking at four separate lakes rather than one continuous river.
 sources:
   - https://en.wikipedia.org/wiki/Boppard
+score: 8.3
 ---
 
 Boppard is the largest town on the Middle Rhine and has a more lived-in quality than the smaller tourist villages downstream. Its Roman walls — some of the best-preserved in Germany — can still be traced around the old town, and the Romanesque church of St. Severus has carved capitals worth studying closely. The waterfront promenade is unusually long and pleasant.

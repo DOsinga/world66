@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 snippet: A long white-sand crescent on the windward side of PSV, considered one of the finest beaches in the southern Grenadines.
+score: 8.2
 ---
 
 Petite Anse runs along the windward side of Petit St. Vincent, a continuous arc of bright white coral sand backed by sea-grape and palm. The water is the milky turquoise of the Grenadines at their best, shallow for thirty metres out before deepening into reef. Because the entire island is one resort, the beach is effectively private — even in high season you may walk a kilometre without crossing another set of footprints.

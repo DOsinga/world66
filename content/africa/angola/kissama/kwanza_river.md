@@ -8,6 +8,7 @@ tags:
 - river
 title: Kwanza River
 type: poi
+score: 7.4
 ---
 
 The Kwanza is Angola's largest river, and its broad estuary forms the entire northern boundary of Kissama National Park. The river is wide and slow as it approaches the sea, fringed with thick mangroves and stands of dense riverine forest. It is rich in birdlife — African fish eagles, pied kingfishers, herons, the occasional flamingo at the saltpans near the mouth — and supports a relict population of manatees, very rarely seen.

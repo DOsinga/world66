@@ -8,6 +8,7 @@ longitude: 15.5511
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 Part of the Hotel Korana-Srakovčić but very much open to outsiders, this restaurant has long been Karlovac's quiet best, especially in summer when tables move out onto a wide terrace right over the river. The menu is short and confident — seasonal Croatian cooking with the careful presentation of a hotel restaurant.

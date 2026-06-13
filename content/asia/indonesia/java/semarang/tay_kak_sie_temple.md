@@ -9,6 +9,7 @@ longitude: 110.427897
 snippet: "Ancient Chinese temple in the heart of Semarang's Chinatown district"
 sources:
   - https://en.wikipedia.org/wiki/Tay_Kak_Sie_Temple
+score: 7.7
 ---
 
 Tay Kak Sie is the oldest Chinese temple in Semarang, founded in 1746 by the Chinese community that settled around the port. It is a working temple dedicated to the Goddess of Mercy (Guanyin) and several other deities, and the incense coils hanging from the rafters give it the characteristic hazy, fragrant atmosphere of old Chinese religious spaces.

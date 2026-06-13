@@ -9,6 +9,7 @@ tags:
   - park
   - wildlife
 story: "The sierra holds Spain's wettest spot — the Sierra del Pinar receives more than 2,000 mm of rain in an average year, more than three times the regional average. The same humid microclimate is what allows the rare Spanish fir (Abies pinsapo) to survive here when its cousins disappeared from the Mediterranean basin at the end of the last ice age."
+score: 9.0
 ---
 
 A UNESCO biosphere reserve of 530 square kilometres covering some of the most dramatic limestone country in Spain. Peaks reaching 1,650 metres, deep gorges, cave systems, oak and pine forests, and one of the largest griffon vulture colonies in Europe.

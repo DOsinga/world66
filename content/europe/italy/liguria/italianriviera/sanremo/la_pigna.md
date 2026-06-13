@@ -10,6 +10,7 @@ story: >
   The name "La Pigna" — the pine cone — comes from the shape of the hill the old town climbs: tight, compact, and pointed at the top. Locals say that in the medieval period the maze of covered alleys and fortified gates was designed to confuse raiders from the sea, who would enter the quarter and immediately lose their way among the identical-looking lanes.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 8.9
 ---
 
 La Pigna is the medieval heart of Sanremo, a dense cluster of dark alleys, vaulted passages, and stone staircases that climbs from the waterfront up to the hilltop sanctuary. It is one of the best-preserved medieval quarters on the Ligurian coast and, better still, largely free of tourists — you can wander for an hour without hearing another foreign language.

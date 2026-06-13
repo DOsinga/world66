@@ -8,6 +8,7 @@ tags:
   - museum
   - history
 snippet: Kilkenny's history from Viking settlement to Confederation, in a beautifully restored medieval church
+score: 8.1
 ---
 
 The Medieval Mile Museum opened in 2017 in the restored Church of St Mary's, a medieval building that had been disused for centuries. The conversion is a success: the original medieval structure has been respected, and the exhibits sit within it rather than dominating it. The result is one of the better city history museums in Ireland.

@@ -8,6 +8,7 @@ latitude: 49.9711
 longitude: 9.1467
 story: >
   The collegiate church contains a Lamentation over the Dead Christ painted by Matthias Grünewald around 1525 — one of the very few works by this most intense of German Renaissance painters that can be seen outside a museum. Grünewald painted with a rawness of emotion that was unusual even in an era of devotional art, and this piece, with its ashen dead Christ and anguished mourners, is a masterwork.
+score: 7.1
 ---
 
 The Collegiate Church of Saint Peter and Alexander (Stiftsbasilika) is the oldest significant building in Aschaffenburg, with foundations going back to the 10th century. The building as it stands today is a Romanesque structure substantially reworked over centuries, with additions ranging from a Gothic cloister to Renaissance details. The whole ensemble backs up against the hillside in the old town, creating a striking silhouette from the river.

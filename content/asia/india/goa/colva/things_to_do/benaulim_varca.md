@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 15.2530
 longitude: 73.9200
+score: 7.2
 ---
 
 Just south of Colva, the coast grows quieter. Benaulim is roughly 2km down the road — still a proper village with its own beach shacks and a small fishing community, but noticeably less crowded than Colva's main strip. Varca, another 3km further south, is quieter still, with a long, near-empty beach backed by casuarina trees.

@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Bar Celta Pulpería
 type: poi
+score: 7.4
 ---
 
 Bar Celta is one of the best and oldest tapas bars in the Gothic Quarter / Born area — a Galician pulpería (octopus bar) that has been serving the same generous portions of pulpo a la gallega (boiled octopus with paprika, olive oil, and sea salt on wooden boards) since 1962. Also excellent: pimientos de Padrón, grilled razor clams, and Galician empanada.

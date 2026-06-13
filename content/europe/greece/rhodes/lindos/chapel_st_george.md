@@ -8,6 +8,7 @@ latitude: 36.0929
 longitude: 28.0869
 story: >
   The name "Pachymachiotis" (meaning something like "thick-fighter" or "heavy combatant") appears in Byzantine administrative documents as an honorific, and this chapel preserves the memory of a local saint who was known by that epithet. The chapel is one of several small Byzantine churches scattered through Lindos village, most of them still in use for feast days and private devotions.
+score: 6.4
 ---
 
 A small Byzantine chapel at the northern edge of Lindos village, dedicated to Saint George Pachymachiotis, a local saint whose origins are obscure but whose presence in the village's devotional life has been continuous since the Byzantine period. The chapel is modest in scale — a single-nave structure with a barrel vault — but is notable for its intact Byzantine masonry and the fragments of early fresco visible in the apse.

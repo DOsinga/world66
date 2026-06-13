@@ -15,6 +15,7 @@ tags:
 - ballyvolane
 title: Glen Park
 type: poi
+score: 5.7
 ---
 
 Glen Park is the best-kept secret in this part of Cork. A narrow green valley running along the Glen River, it sits at the bottom of a steep path that you'd walk past a dozen times without noticing. Once you're in, the noise of the northside estates disappears entirely. There are ponds, a small lake, and a duck population that has learned to expect bread from the locals.

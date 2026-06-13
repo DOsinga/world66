@@ -11,6 +11,7 @@ done:
 latitude: 51.2417
 longitude: -115.8544
 snippet: Gorge trail to bubbling ink-pot springs, 26 km west of Banff
+score: 8.9
 ---
 
 The most popular short hike in Banff National Park, following a narrow canyon carved by Johnston Creek through overhanging limestone walls. A series of catwalk boardwalks cling to the canyon walls above the rushing water, leading first to the Lower Falls (1.1 km, very easy), then the Upper Falls (2.7 km). Above the Upper Falls, the trail continues to the **Ink Pots** (5.8 km from the trailhead): seven cold mineral springs that bubble up from the ground in vivid colours — blue-green, cream, and ochre — and never freeze, even in winter.

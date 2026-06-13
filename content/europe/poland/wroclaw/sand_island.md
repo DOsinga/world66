@@ -7,6 +7,7 @@ tags:
 latitude: 51.1132
 longitude: 17.04
 address: "Wyspa Piasek, Wrocław"
+score: 7.4
 ---
 
 A small island between the old town and Ostrów Tumski, with the 14th-century Gothic Sand Church (Kościół NMP na Piasku) at its centre. The church is one of the largest brick Gothic structures in Poland and one of the very few major Wrocław churches whose interior fittings escaped serious war damage; it preserves a fine set of late-medieval stone carvings and a renowned 18th-century organ.

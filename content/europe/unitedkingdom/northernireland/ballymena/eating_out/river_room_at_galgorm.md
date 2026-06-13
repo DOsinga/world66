@@ -1,6 +1,7 @@
 ---
 title: "River Room at Galgorm"
 type: poi
+score: 5.8
 ---
 
 The River Room is the fine-dining restaurant at Galgorm Resort, set in the manor house with views over the River Maine and the resort's wooded grounds. The cooking is contemporary Irish, working with local and seasonal produce — Antrim beef, seafood from the north coast, vegetables from small producers around the region. The menu changes to reflect what's available, and the kitchen has a solid reputation for technique without being showy about it.

@@ -17,6 +17,7 @@ story: >
   found much to criticise.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Saint-Elme_(France)
+score: 7.8
 ---
 
 Fort Saint-Elme stands on a rocky spur above the town, a 16th-century star fort with commanding views over the coast and the mountains behind. It was built by the Spanish Crown during their control of Roussillon as a complement to the Château Royal below — together the two fortifications controlled access to the port from both sea and land. Vauban's modifications in the 1670s after French annexation were minimal, suggesting the original design was considered adequate.

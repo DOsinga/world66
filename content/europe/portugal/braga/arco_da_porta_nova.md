@@ -9,6 +9,7 @@ tags:
   - architecture
 title: "Arco da Porta Nova"
 type: poi
+score: 6.8
 ---
 
 The Arco da Porta Nova is an elegant eighteenth-century triumphal arch that marks the western entrance to Braga's pedestrian old town. Designed by André Soares in a rococo-inflected baroque style and completed around 1772, it replaced an older medieval gate and functioned as a ceremonial entrance to the city. The arch frames the long straight line of the Rua do Souto, one of Braga's main shopping streets.

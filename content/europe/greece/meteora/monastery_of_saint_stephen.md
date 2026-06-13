@@ -14,6 +14,7 @@ story: >
   quality of its embroidery and icon-painting workshops. The gold-embroidered
   epitaphios cloth (a funeral shroud) on display in the museum took years to
   complete.
+score: 7.9
 ---
 
 The Monastery of Saint Stephen stands near the eastern edge of the Meteora group, on a broad rock that allowed for a more spacious construction than the other monasteries. It is entered by a small bridge over a narrow gap and has no steep stair climb, making it the most accessible monastery in Meteora. The approach gives an unusual view of the rock formations from approximately their own level rather than from below.

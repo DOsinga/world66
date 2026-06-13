@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3214
 longitude: -1.9989
+score: 6.7
 ---
 
 Santa Clara Island sits in the middle of La Concha bay, close enough to swim to from the beach (it's about 700 metres from shore) but far enough to make it feel like a genuine escape. A small lighthouse, some basic beach facilities, and a lighthouse keeper's cottage are all that stands on the island, which is surrounded by flat rocks and a small sandy beach on the sheltered southern side.

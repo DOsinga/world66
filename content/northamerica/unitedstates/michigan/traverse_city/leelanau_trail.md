@@ -9,6 +9,7 @@ latitude: 44.77537
 longitude: -85.64189
 sources:
   - https://en.wikipedia.org/wiki/Leelanau_Trail
+score: 7.8
 ---
 
 The Leelanau Trail is a 17-mile paved rail trail that runs northwest from Traverse City to Suttons Bay along the western edge of the Leelanau Peninsula. The trail follows a former railroad corridor, which means it is nearly flat — unusual terrain for northern Michigan — and passes through cherry orchards, vineyards, and wooded stretches with occasional bay views. It is part of US Bicycle Route 35 and is well-maintained.

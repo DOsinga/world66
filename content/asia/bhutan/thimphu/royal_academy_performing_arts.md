@@ -7,6 +7,7 @@ tags:
 - sight
 title: Royal Academy of Performing Arts
 type: poi
+score: 7.4
 ---
 
 The Royal Academy of Performing Arts, also known as the Traditional Performing Arts and Music Division, is a government body dedicated to preserving Bhutanese cultural performance traditions. The academy trains performers in traditional music, mask dances, and folk art forms. Occasional public performances and rehearsals can be attended — check the schedule at tourist information in town. The academy is located in the northern part of Thimphu, not far from Tashicho Dzong.

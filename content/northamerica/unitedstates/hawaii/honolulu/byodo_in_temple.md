@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Byodo-In Temple"
 type: poi
+score: 7.8
 ---
 
 The Valley of the Temples memorial park in Kaneohe, on the windward side of Oahu about 30 minutes from Honolulu, contains a full-scale replica of the Byodo-In temple in Uji, Japan — a Japanese national treasure dating from 1053 AD. The Hawaiian version was built in 1968 to mark the 100th anniversary of Japanese immigration to Hawaii, set against the vertical green cliffs of the Ko'olau Mountains.

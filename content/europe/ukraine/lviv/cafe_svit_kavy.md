@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 49.8428
 longitude: 24.031
+score: 6.2
 ---
 
 Svit Kavy — World of Coffee — on Rynok Square is one of Lviv's best-known cafes and a good introduction to the city's coffee culture. The espresso is excellent, the cakes are made in-house, and the location on the corner of the main square means you can watch the city go past while you drink. It gets busy at peak times but the turnover is quick.

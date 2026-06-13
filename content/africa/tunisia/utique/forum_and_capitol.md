@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 37.0563
 longitude: 10.0619
+score: 7.7
 ---
 
 The Roman public centre of Utica sat just east of the residential quarter, on a platform overlooking the silted plain. The forum has been partially excavated; you can read the rectangular outline of paving and a row of column bases that once edged the portico.

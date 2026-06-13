@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Restaurant Ela
 type: poi
+score: 6.3
 ---
 
 Restaurant Ela is one of the better dining options on Katoomba Street, with a menu that takes local produce — Blue Mountains trout, highland lamb, seasonal vegetables — and treats them simply and well. The room is warm and unpretentious, with an open kitchen and a wine list that leans toward smaller Australian producers.

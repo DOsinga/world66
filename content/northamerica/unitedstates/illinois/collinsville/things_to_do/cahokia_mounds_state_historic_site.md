@@ -10,6 +10,7 @@ longitude: -90.0644
 sources:
   - https://en.wikipedia.org/wiki/Cahokia
   - https://cahokiamounds.org/
+score: 9.6
 ---
 
 Cahokia Mounds is a UNESCO World Heritage Site and the largest pre-Columbian settlement north of Mexico. At its peak around 1100 CE, over 20,000 people lived here — a population larger than contemporary London. Today the 2,200-acre site preserves about 80 mounds of varying sizes across an open landscape that still conveys the scale of what was once a metropolis.

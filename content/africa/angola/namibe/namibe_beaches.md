@@ -9,6 +9,7 @@ latitude: -15.2000
 longitude: 12.1000
 story: >
   The cold Benguela Current, which runs north along Angola's coast from Antarctica, keeps these beaches at a comfortable temperature even in summer and gives the water a clarity rare on tropical Atlantic coasts. The same current carries the upwelling of nutrients that makes the Namibe coast one of Angola's richest fishing grounds.
+score: 8.3
 ---
 
 The coast north and south of Namibe has some of Angola's most spectacular beaches — long stretches of pale sand backed by desert dunes or rocky headlands, with the cold Atlantic breaking across them. Most are entirely undeveloped and all but empty. The sea is clear and cool rather than warm, cooled by the Benguela Current.

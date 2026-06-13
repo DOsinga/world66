@@ -13,6 +13,7 @@ story: >
   shrine was so extensive that the settlement grew up around it rather than the
   other way around. The entire city of Kobe, in a sense, developed in the shadow
   of this shrine.
+score: 6.7
 ---
 
 Ikuta Shrine is a Shinto shrine tucked into the heart of Sannomiya, Kobe's busiest commercial district. The contrast between its forested precinct and the surrounding urban density is striking — tall trees and a series of torii gates open suddenly from the shopping streets, and the inner courtyard has a quiet that the surrounding area entirely lacks.

@@ -8,6 +8,7 @@ url: "ignitemuseum.com"
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 Ignite is a private museum of vintage neon and electric signage in a converted east-side warehouse. Old motel marquees, gas station emblems, beer signs, and the giant rooftop letters that used to spell out hotel names — all restored, plugged in, and humming.

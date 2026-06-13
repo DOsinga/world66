@@ -1,6 +1,7 @@
 ---
 title: "Daigaku-dori"
 type: poi
+score: 8.1
 ---
 
 Kunitachi's defining feature is Daigaku-dori — "University Street" — a perfectly straight boulevard that runs due south from Kunitachi Station to the gates of Hitotsubashi University. Both pavements are lined with double rows of zelkova trees, their canopies meeting overhead to form a shaded tunnel of green in summer and a vivid corridor of gold and red in autumn. The street was designed as part of the town's original 1920s planning scheme and has been carefully preserved ever since, giving Kunitachi a parklike spaciousness rare in the Tokyo suburbs.

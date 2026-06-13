@@ -7,6 +7,7 @@ tags:
 - sight
 title: Neuwerkkirche
 type: poi
+score: 8.2
 ---
 
 The Neuwerk was built between 1186 and 1218 for a community of Cistercian nuns and survives almost unchanged, including the choir frescoes — flat-faced saints in red and ochre — that most German Romanesque churches lost to whitewash during the Reformation. The west front, with its two square towers and rose window, is the photograph; the inside, sober and barrel-vaulted, is the substance.

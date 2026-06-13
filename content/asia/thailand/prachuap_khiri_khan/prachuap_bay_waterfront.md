@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.8210
 longitude: 99.7980
+score: 6.8
 ---
 
 The promenade along Prachuap Bay is the social heart of the town. The road skirts the edge of a calm, semicircular bay where fishing boats bob at anchor and a handful of small islands provide a postcard backdrop. In the early morning, locals walk, jog, and cycle along the seafront while vendors set up food stalls. By evening the promenade fills with families enjoying the sea breeze and the last of the light catching the limestone cliffs that close the bay to the south.

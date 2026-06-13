@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 In the old town cemetery, the Cementerio Viejo of Trujillo, a fenced-off rectangular plot holds a stone cross marking the grave of William Walker — the American filibuster who attempted to install himself as ruler of large parts of Central America in the 1850s and was finally executed in Trujillo in 1860. The grave is well kept (the Honduran state has long taken a low-key pride in being the country that finally stopped him) and a small plaque records his execution.

@@ -8,6 +8,7 @@ tags:
   - garden
 title: Chateau de Reduit (State House)
 type: poi
+score: 6.5
 ---
 
 The Chateau de Reduit is the official residence of the President of Mauritius, built in 1778 during the French colonial period and expanded by successive administrations. The main building is not open to the public, but the grounds — a remarkable botanical garden of more than 50 hectares — are accessible on weekends. The gardens include ancient trees, including specimens of the tambalacoque (the dodo tree, whose seeds were reportedly only germinated after passing through the digestive system of the now-extinct dodo), as well as palms, flowering trees, and ornamental plantings.

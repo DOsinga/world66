@@ -8,6 +8,7 @@ tags:
 - sight
 - scenic_drive
 - mountains
+score: 8.1
 ---
 
 The Serra da Leba approach is the dramatic road link between the Namibe lowlands and the high plateau. From Bibala municipality the route begins to gather height and purpose, eventually becoming the famous switchback road associated with Lubango and the Huila escarpment.

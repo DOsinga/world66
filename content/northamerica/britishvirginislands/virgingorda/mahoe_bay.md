@@ -7,6 +7,7 @@ tags:
 latitude: 18.469
 longitude: -64.418
 snippet: A protected horseshoe cove on the east coast, calm and good for families
+score: 6.9
 ---
 
 Mahoe Bay is a small, almost-enclosed cove on the east coast of Virgin Gorda, about a mile north of [Savannah Bay](/northamerica/britishvirginislands/virgingorda/savannah_bay). The bay is essentially a horseshoe of low rock with a perfect white-sand beach inside, sheltered from the wind and the swell. The water inside the cove is shallow and consistently calm — one of the few BVI beaches where small children can swim without much supervision.

@@ -6,6 +6,7 @@ tags:
   - sight
 title: El Jardín
 type: poi
+score: 8.2
 ---
 
 El Jardín — officially the Plaza Allende — is the social centre of San Miguel de Allende, the square where the Parroquia towers over a shaded garden of Indian laurel trees and cast-iron benches. The square fills up every evening: retirees reading on benches, vendors selling mangoes, tourists at the café tables along the north and west sides, street musicians setting up, and families doing the evening paseo that has been San Miguel's tradition for generations.

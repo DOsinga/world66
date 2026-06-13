@@ -11,6 +11,7 @@ story: >
   water level by about 20 metres between the 1930s and 1960s, turning the island
   into a peninsula — a transformation that saved the monastery from flooding but
   permanently changed its character.
+score: 8.3
 ---
 
 Sevanavank sits on the peninsula that was once the island of Sevan, jutting into the northwestern corner of Lake Sevan. Two of the original three churches survive: Surb Arakelots (Church of the Holy Apostles) and Surb Astvatsatsin (Church of the Holy Mother of God), both dating from the ninth century and built from the dark basalt that characterises Armenian ecclesiastical architecture.

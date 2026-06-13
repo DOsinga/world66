@@ -8,6 +8,7 @@ latitude: 39.555425
 longitude: -107.336197
 sources:
   - https://en.wikipedia.org/wiki/Iron_Mountain_Hot_Springs
+score: 8.4
 ---
 
 Where the Glenwood Hot Springs Pool is a lively resort experience, Iron Mountain Hot Springs on the Colorado River bank offers something quieter and more contemplative. Sixteen individual soaking pools of varying temperatures are set into a terraced hillside right above the river, with the current rushing past a few metres below. In winter, when steam rises thick off the pools and the canyon walls are dusted with snow, it is one of the more atmospheric places to soak in the Rockies.

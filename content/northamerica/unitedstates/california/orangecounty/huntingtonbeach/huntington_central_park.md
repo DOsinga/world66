@@ -9,6 +9,7 @@ snippet: "354-acre inland park with library, dog park, and disc golf"
 address: "Goldenwest Street north of Slater"
 latitude: 33.7095
 longitude: -118.0166
+score: 7.0
 ---
 
 Huntington Central Park covers 354 acres about two miles inland from the beach, making it one of the larger municipal parks in Orange County. It is split by Goldenwest Street into two halves connected by a pedestrian bridge.

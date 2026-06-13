@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.7
 ---
 
 A wide, almost empty stretch of sand about four kilometres south of Deogad town, reached down a side road through coconut groves. The beach runs for over a kilometre between two low rocky headlands, with almost no development other than a handful of homestays at the southern end.

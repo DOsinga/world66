@@ -11,6 +11,7 @@ story: >
   the region — including weapons, jewellery, and ritual vessels from the era of Nestor's
   Palace at Pylos, located about 50 km to the west. Messenia was one of the heartlands of
   Mycenaean civilisation, and the museum gives this context that the palace site alone cannot.
+score: 8.1
 ---
 
 The Archaeological Museum of Messenia is housed in a purpose-built modern building on the north side of the city and covers the region's history from prehistoric times through the Byzantine period. The permanent collection is well organized and includes significant finds from excavations across Messenia, including Mycenaean gold, Roman mosaics, and Byzantine sculpture.

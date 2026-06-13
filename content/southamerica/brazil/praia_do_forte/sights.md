@@ -2,6 +2,7 @@
 title: Sights
 type: poi
 url: www.praiadoforte.com
+score: 5.6
 ---
 
 Check these out if you can tear yourself away from the beach.

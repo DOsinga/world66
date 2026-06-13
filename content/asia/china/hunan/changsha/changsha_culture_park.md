@@ -6,6 +6,7 @@ tags:
   - park
 latitude: 28.1920
 longitude: 112.9600
+score: 5.7
 ---
 
 Changsha Culture Park, on the western edge of the old city near the Xiang River, is a large public park that hosts the city's annual book fair, cultural festivals, and outdoor exhibitions. The park itself is pleasant enough — tree-shaded paths, a small lake, pavilions — but it is most worth visiting when an event is in progress. The Changsha Book Fair, held in the park each autumn, is one of the largest regional book fairs in central China and draws publishers, collectors, and browsers from across Hunan.

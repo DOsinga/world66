@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 15.5466
 longitude: 73.7604
+score: 7.2
 ---
 
 The classic Calangute breakfast café, on the main Calangute–Baga road. Infantaria is an Indo-Portuguese pastry shop that grew into a proper café — display cases of fresh croissants, almond bebinca, chicken puffs and chocolate tarts at the front, and a leafy outdoor seating area at the back.

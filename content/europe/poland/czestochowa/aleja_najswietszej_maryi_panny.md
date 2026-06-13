@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8109
 longitude: 19.1061
+score: 6.7
 ---
 
 The Avenue of the Most Holy Virgin Mary — Aleja NMP to locals — is the central boulevard of Częstochowa, running about two kilometres from the main train station to the foot of the Jasna Góra hill. It was designed in the nineteenth century as a processional approach to the monastery, wide enough for the pilgrim crowds that flood the city on major feast days. The avenue is lined with lime trees and flanked by the city's main cafes, restaurants, and shops.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Post Street Mall
 type: poi
+score: 7.1
 ---
 
 Post Street Mall is the busiest pedestrian street in central Windhoek — a wide flagstoned promenade lined with shops, fast-food spots, and a long open-air craft market. Wood carvings, ostrich-egg jewelry, beadwork, and printed cloth from across southern Africa fill the stalls; bargaining is part of the deal.

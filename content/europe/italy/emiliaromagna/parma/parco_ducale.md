@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 Across the Parma stream from the historic centre, the Parco Ducale is the city's main green space — a 20-hectare formal park laid out in the late 16th century around the Palazzo Ducale, with French-style avenues and statues added in the 18th century. It is a pleasant break between sights, much used by joggers and parents with prams.

@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Tombstone_Courthouse_State_Historic_Park
+score: 8.1
 ---
 
 The 1882 Cochise County Courthouse is the best museum in Tombstone. The two-story brick building houses exhibits on the town's silver boom, its legal history, and the broader story of law and order in the frontier Southwest. The original courtroom is intact, and the rear of the building retains the gallows where convicted killers were hanged — a stark reminder that Tombstone's violence extended well beyond the O.K. Corral.

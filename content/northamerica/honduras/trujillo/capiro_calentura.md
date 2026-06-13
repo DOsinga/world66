@@ -7,6 +7,7 @@ snippet: "Cloud-forest reserve in the mountains directly behind Trujillo"
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 Capiro–Calentura rises directly behind Trujillo, climbing from sea level to a 1,200-metre cloud-forest summit in only a few kilometres of horizontal distance. The compressed altitude range produces a remarkable run of habitats — tropical dry forest at the bottom, broadleaf rainforest in the middle, mossy cloud forest with bromeliads and orchids near the top — and a long list of birds and mammals, including howler monkeys and the elusive jaguarundi.

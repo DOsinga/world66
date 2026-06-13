@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8970
 longitude: 35.5145
+score: 6.2
 ---
 
 Saifi Village is a small, planned residential quarter between downtown and Gemmayzeh, built by Solidere in pastel-coloured Ottoman-inspired buildings. It feels deliberately picturesque — almost too neat — but the central Quartier des Arts is full of small galleries, designer boutiques, and quiet courtyard cafes.

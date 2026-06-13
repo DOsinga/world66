@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Gilan Rural Heritage Museum
 type: poi
+score: 8.7
 ---
 
 The Gilan Rural Heritage Museum is the best cultural excursion from Rasht. Set in Saravan Forest Park south of the city, it preserves traditional wooden houses, rice barns, workshops, village spaces, and domestic interiors from the different landscapes of Gilan - coast, plain, foothill, and mountain.

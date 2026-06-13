@@ -11,6 +11,7 @@ story: >
   The Marquis de Sade's family owned the château above Lacoste for generations, and de Sade himself retreated here to write some of his more notorious works in the 1770s. He was eventually tracked down and arrested here in 1778. The American fashion designer Pierre Cardin bought the ruin in 2001 and has been restoring it since, hosting an annual arts festival in the château's courtyard that brings surprising glamour to an otherwise quiet hilltop.
 sources:
   - https://en.wikipedia.org/wiki/Lacoste,_Vaucluse
+score: 7.7
 ---
 
 Lacoste is a tiny, luminous hilltop village overlooking a valley of vineyards and cherry orchards. It occupies the same ridge as Bonnieux, visible across the valley, and shares the same honey-coloured limestone that characterises the Luberon villages. The dominant feature is the ruined Château de Lacoste on the skyline above — partially restored by its current owner Pierre Cardin, with an outdoor theatre carved from the hillside.

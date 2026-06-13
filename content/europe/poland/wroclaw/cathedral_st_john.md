@@ -8,6 +8,7 @@ tags:
 latitude: 51.1142
 longitude: 17.0469
 address: "Plac Katedralny 18, 50-329 Wrocław"
+score: 8.6
 ---
 
 The mother church of the archdiocese of Wrocław and one of the finest examples of brick Gothic in Poland. The cathedral was begun in 1244, replacing earlier Romanesque and pre-Romanesque buildings on the same spot. The twin west towers are 98 metres tall and can be climbed (by lift) for sweeping views over the city.

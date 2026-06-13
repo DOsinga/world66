@@ -7,6 +7,7 @@ tags:
 latitude: 59.165
 longitude: -3.030
 snippet: "'Egypt of the North' — chambered cairns and brochs along one short road"
+score: 8.4
 ---
 
 A short ferry crossing from Tingwall lands you on Rousay, a small hilly island with one of the densest concentrations of prehistoric monuments in northern Europe. A single road circles the island, and the cairns of Taversoe Tuick, Blackhammer, the Knowe of Yarso, Midhowe Chambered Cairn, and Midhowe Broch line its western half within a few kilometres of each other.

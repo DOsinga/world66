@@ -9,6 +9,7 @@ latitude: 42.6505
 longitude: -73.7575
 story: >
   Governor Nelson Rockefeller ordered the demolition of an entire neighbourhood — over 9,000 residents were displaced — to build the plaza in the 1960s. His vision was a modern governmental capital to rival the great civic spaces of Europe. The project took about 16 years, cost nearly $2 billion (roughly $14 billion today), and remains one of the most controversial urban renewal projects in American history.
+score: 8.6
 ---
 
 Empire State Plaza is Nelson Rockefeller's great monumental folly, and it is extraordinary. Completed in 1976, the complex consists of four identical glass office towers, the curved dome of the New York State Museum, the Legislative Office Building, and "The Egg" — a performing arts centre shaped like a giant ellipse on a narrow pedestal. The whole ensemble is built on a massive platform above a concourse level that contains shops, cafés, and what is claimed to be the largest collection of New York State art displayed in a single public space.

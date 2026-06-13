@@ -14,6 +14,7 @@ story: >
   of Vishnu reclining, all underwater in the dry season, all submerged when the
   river flows. The idea was to consecrate the water at its source so that it would
   carry divine blessing downstream to Angkor's fields and reservoirs.
+score: 6.9
 ---
 
 **Kbal Spean** — the "River of a Thousand Lingas" — is one of the most unusual sacred sites in the Angkor region, located about 50 kilometres north of Siem Reap in the Kulen Hills. A 40-minute forest walk from the car park leads to a stretch of the Stung Kbal Spean river where the 11th and 12th-century Khmer carved the riverbed itself with an extraordinary density of sacred imagery: rows of lingas, reclining Vishnus, nagas, and various mythological scenes, all cut directly into the sandstone rock under the flowing water.

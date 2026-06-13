@@ -10,6 +10,7 @@ latitude: 42.2244
 longitude: -73.7953
 sources:
   - https://en.wikipedia.org/wiki/Olana_State_Historic_Site
+score: 9.3
 ---
 
 Olana is the Persian-inspired mansion and 250-acre estate built by Hudson River School painter Frederic Edwin Church beginning in 1870. Church designed the house himself — drawing on Islamic and Victorian Persian architecture after his travels in the Middle East — and also landscaped every detail of the grounds to frame specific views of the river and the Catskill Mountains opposite. The result is one of the most unusual artist's homes in America and a masterwork of 19th-century landscape design.

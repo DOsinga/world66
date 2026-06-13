@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.2
 ---
 
 Warmer Damm is the most central of Wiesbaden's English-style landscape parks — a triangular green space between Wilhelmstraße and the Hessian State Theatre, with a pond, mature trees, and curving gravel paths. It was laid out in 1859 on the site of the city's old defensive ditch, which had been fed by warm spring water (hence the name).

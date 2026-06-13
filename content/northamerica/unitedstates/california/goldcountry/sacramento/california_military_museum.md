@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.5830
 longitude: -121.5016
+score: 6.3
 ---
 
 A small but densely packed museum in Old Sacramento dedicated to California's military history from the Mexican-American War through the present. The collection includes uniforms, weapons, vehicles, and memorabilia from every major conflict in which California soldiers have served, with particular depth on the Spanish-American War and World War II, when California's military geography — the Pacific bases, the defence industries, the Japanese-American internment — was central to the national story.

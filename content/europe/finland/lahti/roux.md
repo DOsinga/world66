@@ -6,6 +6,7 @@ longitude: 25.6580
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 A small contemporary-Finnish restaurant near the central square, with a short, seasonal menu of local ingredients — pike-perch from the lakes, reindeer, root vegetables, foraged berries. The cooking is careful and unfussy, and the price for the standard is good by Finnish measures.

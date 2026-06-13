@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.0838
 longitude: 2.3994
+score: 6.4
 ---
 
 Housed inside the Hôtel Lallemant, the decorative arts museum shows ceramics, glass, ivory, enamels, tapestries, and furniture from the 16th to 19th centuries. The standout is a 17th-century cabinet of curiosities — automata, small bronzes, scientific instruments — assembled in the spirit of a Renaissance prince's collection.

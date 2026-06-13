@@ -14,6 +14,7 @@ story: >
   with goods and financial services. The 2019 Easter Sunday bombings, carried out by
   Islamist extremists, led to significant anti-Muslim violence in Kandy, though the
   community has remained and the mosque continues in regular use.
+score: 6.4
 ---
 
 The Meera Makam Mosque stands in the northern part of the city center, a working mosque serving Kandy's Sri Lankan Moor community. The building reflects a South Asian Islamic architectural tradition with Kandyan decorative elements. The vicinity of the mosque is the center of Kandy's Muslim commercial district, with shops selling fabric, spices, and hardware in a dense and active streetscape that contrasts with the more tourist-oriented lake area.

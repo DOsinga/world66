@@ -9,6 +9,7 @@ snippet: 18th-century palace of Raja Krishnachandra, founder of the town
 latitude: 23.4042
 longitude: 88.4995
 story: "Raja Krishnachandra Roy, who reigned from 1728 to 1782, was a patron of Bengali learning who gathered scholars, poets, and the court jester Gopal Bhar around him — Gopal's stories are still told to children all over Bengal. Krishnachandra also commissioned the first Jagaddhatri Puja in town, the festival that still brings tens of thousands of pilgrims to Krishnanagar each November."
+score: 7.8
 ---
 
 The Rajbari, or royal palace, sits at the centre of Krishnanagar and is the reason the town has its present name and shape. Raja Krishnachandra Roy built it in the early eighteenth century as the seat of the Nadia Raj, the local landlord family that ruled much of present-day Nadia district under the Nawabs of Bengal and later the British.

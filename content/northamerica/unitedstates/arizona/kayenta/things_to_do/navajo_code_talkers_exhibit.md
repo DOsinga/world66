@@ -1,6 +1,7 @@
 ---
 title: "Navajo Code Talkers Exhibit"
 type: poi
+score: 7.8
 ---
 
 It sounds like a punchline — the most moving war memorial in Arizona is inside a Burger King — but the Code Talker Exhibit in Kayenta's Burger King is exactly that, and it deserves your time. During the Second World War, the US Marine Corps recruited Navajo men to transmit messages in their native language, Diné Bizaad. The language had never been written down, was spoken by almost no one outside the Navajo Nation, and proved unbreakable: Japanese code-breakers never cracked it. The Code Talkers' contribution to communications security in the Pacific theatre was significant enough that it remained classified until 1968.

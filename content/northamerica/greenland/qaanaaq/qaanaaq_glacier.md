@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 77.4500
 longitude: -69.2000
+score: 7.7
 ---
 
 A short walk inland from Qaanaaq brings you to the front of a small outlet glacier of the Greenland ice sheet. It is one of the few places in the world where you can be standing on bare gravel one minute and standing on a 200-metre-high wall of ice the next, with a few hours' walk between them. The terminus calves smaller chunks into a meltwater stream that runs back down to the bay.

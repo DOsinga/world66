@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - midtown
   - museum
+score: 7.8
 ---
 
 Tennessee's largest art museum sits inside Overton Park, housed in a Neoclassical building that opened in 1916. The permanent collection is broad and well-maintained: European old masters including works by Rembrandt and Velázquez, a strong collection of Italian paintings, American art from the colonial period through the twentieth century, and an African collection. The Kress Collection of Italian Renaissance and Baroque paintings is the highlight — it arrived in Memphis as part of the nationwide distribution of Samuel Kress's business profits that enriched dozens of American regional museums.

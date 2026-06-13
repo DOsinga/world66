@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -1.7283
 longitude: 29.2561
+score: 6.8
 ---
 
 The Rubona Peninsula juts into Lake Kivu a few kilometres south of the town centre and is the most pleasant walking destination around Gisenyi. A narrow road follows the shoreline past fishing villages, small guesthouses, and the occasional beach bar, with good views across the water to the Congolese hills. The peninsula was heavily damaged by lava flows from Nyiragongo in 2002, when magma from the Congolese volcano crossed the border into Gisenyi and reached the lake.

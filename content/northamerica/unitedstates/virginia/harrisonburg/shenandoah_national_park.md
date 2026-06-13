@@ -6,6 +6,7 @@ tags:
 - sight
 title: Shenandoah National Park and Skyline Drive
 type: poi
+score: 9.0
 ---
 
 Shenandoah National Park begins about 25 kilometres east of Harrisonburg, easily reached via US-33 over the Blue Ridge. The park's 500 square kilometres of ridge-and-valley Appalachian forest are traversed by Skyline Drive — a 170-kilometre ridge-top road with dozens of overlooks over the valley and piedmont below — and over 800 kilometres of hiking trails, including a long section of the Appalachian Trail.

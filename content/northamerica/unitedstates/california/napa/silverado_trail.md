@@ -8,6 +8,7 @@ snippet: The quieter east-side road through the valley's wine country
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 The Silverado Trail runs the length of the Napa Valley on the eastern side, from the town of Napa in the south to Calistoga in the north — about 45 km of two-lane highway that parallels the busier Highway 29 on the western side. The trail is the more enjoyable drive, with less traffic, better views of the vine-covered Mayacamas across the valley, and access to some of the valley's most highly rated wineries.

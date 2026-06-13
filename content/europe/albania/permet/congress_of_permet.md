@@ -15,6 +15,7 @@ story: >
   by the Germans just months before.
 sources:
   - https://en.wikipedia.org/wiki/Congress_of_P%C3%ABrmet
+score: 5.8
 ---
 
 In May 1944, with the German occupation still in force and partisan brigades operating in the mountains, the Albanian Anti-Fascist National Liberation Congress convened in Përmet. It was a founding moment in Albanian history: the congress established the political structures that Enver Hoxha's communist movement would use to seize power after liberation, and it banned the return of the pre-war monarchy. Përmet was chosen partly because of the partisan strength in the surrounding Vjosa valley.

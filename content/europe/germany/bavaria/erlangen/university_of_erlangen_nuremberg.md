@@ -6,6 +6,7 @@ latitude: 49.5979
 longitude: 11.0048
 sources:
   - https://en.wikipedia.org/wiki/University_of_Erlangen%E2%80%93Nuremberg
+score: 6.5
 ---
 
 The Friedrich-Alexander University of Erlangen-Nuremberg, founded in 1743, is one of Germany's larger research universities and the institution that defines the character of the city. Its faculties of medicine, physics, and engineering have generated significant research — it was here that Georg Ohm worked out the relationship between voltage, current, and resistance that now bears his name.

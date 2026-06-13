@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.1008
 longitude: 2.5895
+score: 7.5
 ---
 
 The Dumont quarter, behind the seafront promenade, is one of the best-preserved concentrations of Belle Époque and Art Nouveau architecture on the Belgian coast. The streets were laid out in the 1890s and early 1900s as a fashionable seaside resort for the Flemish bourgeoisie, and many of the original villas survive with their decorative ironwork, turrets, and ceramic tile facades.

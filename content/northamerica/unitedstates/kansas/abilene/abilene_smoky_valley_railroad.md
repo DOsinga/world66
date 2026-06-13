@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Heritage steam and diesel train along the Smoky Hill River to Enterprise
+score: 7.4
 ---
 
 A non-profit heritage railway running on a stretch of the old Rock Island line south from the restored 1887 depot in downtown Abilene to the village of Enterprise, about 10 miles down the Smoky Hill River. The flagship locomotive is a 1945 Alco S-1 diesel, with steam-hauled trips on selected weekends and themed runs around Halloween (the "Ghost Train") and Christmas. The two-and-a-half-hour round trip includes a stop at the wooden Enterprise depot.

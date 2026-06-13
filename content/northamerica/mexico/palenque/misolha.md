@@ -8,6 +8,7 @@ latitude: 17.3909
 longitude: -91.9987
 sources:
   - https://en.wikipedia.org/wiki/Misol-Ha
+score: 7.4
 ---
 
 Misol-Há ("water falls" in the Ch'ol Maya language) is a single-drop waterfall of about 35 metres, set in a natural amphitheatre of jungle about 20 kilometres south of Palenque on the road towards San Cristóbal de las Casas. The water falls into a wide pool, and you can swim here — the water is cool, clear, and refreshing after the heat of the lowlands.

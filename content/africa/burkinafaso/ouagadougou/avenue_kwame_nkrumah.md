@@ -6,6 +6,7 @@ longitude: -1.5180
 tags:
   - things_to_do
   - neighbourhood
+score: 6.4
 ---
 
 The Avenue Kwame Nkrumah is the principal restaurant and bar street of central Ouaga — a tree-lined boulevard running south from the Place des Nations Unies, with most of the city's better restaurants, ice-cream parlours, supermarkets and embassies along its length.

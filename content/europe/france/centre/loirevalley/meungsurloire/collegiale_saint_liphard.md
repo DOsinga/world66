@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Collégiale Saint-Liphard
 type: poi
+score: 7.3
 ---
 
 The Collégiale Saint-Liphard sits directly beside the château, sharing a small open square in front of both buildings. The lower walls are Romanesque, from the 11th century, and the upper church is Gothic; the bell tower has the unusual spear-shape that is a signature of the central Loire region. The dedication is to Saint Liphard, a 6th-century Frankish nobleman turned hermit who is buried in the crypt.

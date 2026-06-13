@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0662
 longitude: -34.88
 tags: [things_to_do, sight, church, santo_antonio]
+score: 7.4
 ---
 
 A baroque Carmelite church and convent complex begun in the 17th century and finished, in stages, over more than two hundred years. The interior is richly carved gilded wood, with a coffered ceiling and a fine main altar. Nossa Senhora do Carmo is the patron of Recife, and the church is one of the city's most active religious sites.

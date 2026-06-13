@@ -8,6 +8,7 @@ latitude: 43.0102
 longitude: -7.5587
 sources:
   - https://en.wikipedia.org/wiki/Lugo
+score: 7.3
 ---
 
 Praza do Campo is the main square inside the Roman walls — a long, asymmetric space that functions as the social centre of the old town. The square is surrounded by Galician stone buildings with arcaded ground floors, and the tapas bars around its perimeter are where the Lugo ritual of free tapas with every drink is most reliably observed. The custom is deeply ingrained here: order a glass of wine or a caña, and a generous portion of food arrives without being asked for.

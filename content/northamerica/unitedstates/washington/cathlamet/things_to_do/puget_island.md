@@ -11,6 +11,7 @@ latitude: 46.1706
 longitude: -123.3764
 sources:
   - https://en.wikipedia.org/wiki/Puget_Island,_Washington
+score: 7.2
 ---
 
 Puget Island sits in the Columbia River directly across from Cathlamet, connected by the Julia Butler Hansen Bridge (built 1938) via State Route 409. At 7.5 square miles, it's flat enough for an easy bike loop — the roads along the dike offer wide views of the Columbia, the Oregon shore, and the Cascade foothills on clear days.

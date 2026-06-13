@@ -8,6 +8,7 @@ title: Hacienda Buena Vista
 type: poi
 story: >
   Hacienda Buena Vista is one of the few surviving nineteenth-century working haciendas in Puerto Rico, preserved by the Conservation Trust rather than the government. The estate produced coffee and corn from the 1830s until the early twentieth century, using a sophisticated hydraulic system that diverted the Canas River to power mills and processing equipment. When the Trust acquired it in 1984, the machinery was largely intact. The restoration took decades and was driven by the principle that everything had to be made to actually work — not displayed, but operated.
+score: 8.6
 ---
 
 Hacienda Buena Vista is a restored nineteenth-century coffee and corn hacienda in the mountains above Ponce, about ten kilometres north of the city. The estate dates to 1833 and operated until the early twentieth century, processing its crops with a hydraulic system that used diverted river water to power grinding wheels, hulling machines, and a water turbine. The Conservation Trust of Puerto Rico acquired it in the 1980s and spent years restoring it to working order — the guided tour includes live demonstrations of the machinery, which still runs.

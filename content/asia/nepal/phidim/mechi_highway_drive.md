@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.0500
 longitude: 87.7200
+score: 5.8
 ---
 
 The road from Charaali on the Mechi Highway up to Phidim is one of the better drives in eastern Nepal — six hours of winding mountain road through subtropical forest, terraced farms, and a dozen river crossings. The route climbs steadily from the Terai lowlands into the hills, passing through cardamom-growing country and small Limbu settlements.

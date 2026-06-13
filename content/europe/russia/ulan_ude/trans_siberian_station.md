@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 51.8412
 longitude: 107.5832
+score: 5.9
 ---
 
 Ulan-Ude station is one of the major junctions on the Trans-Siberian Railway and the branching point for the Trans-Mongolian line south to Ulaanbaatar and Beijing. Built in 1898 and rebuilt several times, it is a low, neoclassical building with a grand central hall and rows of waiting passengers from the four corners of Eurasia.

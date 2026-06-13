@@ -7,6 +7,7 @@ tags:
 latitude: 39.1421
 longitude: 117.2033
 snippet: "The original home of Tianjin's 18-pleated pork buns, in business since 1858"
+score: 6.8
 ---
 
 Goubuli is Tianjin's most famous restaurant — the original home of the city's signature pork buns. The name translates roughly as "the dog ignores it," a nickname the founder apparently received as a child (meaning he was so busy he wouldn't even stop to pet a dog), and the buns are notable for having exactly 18 pleats each, a rule maintained since 1858. The broth-filled dumplings are not as delicate as Shanghai-style xiaolongbao, but they have a heartier, more satisfying quality.

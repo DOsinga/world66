@@ -8,6 +8,7 @@ tags:
 neighbourhood: Hamra
 latitude: 33.8954
 longitude: 35.4787
+score: 5.8
 ---
 
 Bread Republic was one of the first Beirut restaurants to take seasonal, local sourcing seriously. The kitchen turns out brunch dishes, salads, sourdough loaves, and well-made comfort food in a friendly garden tucked off Hamra Street.

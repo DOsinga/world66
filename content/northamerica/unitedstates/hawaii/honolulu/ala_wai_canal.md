@@ -8,6 +8,7 @@ tags:
 - waikiki
 title: Ala Wai Canal
 type: poi
+score: 4.5
 ---
 
 The Ala Wai Canal was dug in the 1920s to drain the wetlands and fishponds that previously occupied Waikiki, allowing the hotel development that created modern Honolulu's tourist strip. Today the canal forms Waikiki's inland boundary and its banks have become the city's most popular running and walking route — shaded in places, with views of Diamond Head and a constant parade of outrigger canoe clubs practising on the water.

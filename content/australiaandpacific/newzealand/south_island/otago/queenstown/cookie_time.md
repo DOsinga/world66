@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: All-night cookie bar with cookie milkshakes
+score: 5.4
 ---
 
 A 24-hour storefront serving the New Zealand chocolate-chip cookie brand in every possible permutation: warm from the oven, ice-cream sandwiches, milkshakes blended with cookies, cookie-stuffed doughnuts. Open all night, which makes it a fixture of the after-bar drift along Camp Street.

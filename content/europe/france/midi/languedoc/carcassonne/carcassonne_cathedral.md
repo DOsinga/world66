@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.2108
 longitude: 2.3511
+score: 6.8
 ---
 
 The Cathedral of Saint-Michel is the working diocese cathedral of Carcassonne — as opposed to the Basilica of Saints Nazarius inside the Cité, which is technically a basilica rather than a cathedral and serves primarily as a historic monument. Saint-Michel is a Gothic church in the Bastide Saint-Louis, begun in the 13th century and substantially rebuilt in the 14th and 15th centuries after various sieges and conflicts. The exterior has a fortress-like quality — heavy stone buttresses, few windows — that reflects the military character of Gothic architecture in Languedoc.

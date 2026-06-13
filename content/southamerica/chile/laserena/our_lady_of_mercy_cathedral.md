@@ -9,6 +9,7 @@ tags:
   - church
   - architecture
 story: "The cathedral has the only cast-iron bell tower in Chile, brought from France in pieces in the 1840s. It rings a different toll for the death of a man, woman, or child — a custom the bell-ringers say they still keep."
+score: 6.4
 ---
 
 The neo-classical Our Lady of Mercy Cathedral faces the Plaza de Armas across the city's main square. The first church on this site went up in 1648; the present cathedral, designed by French architect Jean Herbage, was finished in 1844 and is the seat of the Archdiocese of La Serena.

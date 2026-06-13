@@ -9,6 +9,7 @@ latitude: -18.2500
 longitude: 23.9167
 sources:
   - https://en.wikipedia.org/wiki/Linyanti_River
+score: 8.9
 ---
 
 The Linyanti wetlands form the western boundary of Chobe National Park, a system of marshes, floodplains, and seasonal lakes fed by the Linyanti/Chobe river system. The area is adjacent to the Kwando and Linyanti private concessions and is among the least-visited parts of a park that is itself not overrun. The wildlife here — particularly wild dogs, roan antelope, and sable antelope species less common in the Chobe riverfront area — is excellent, and the absence of day-trippers from Victoria Falls gives the experience a different character.

@@ -5,6 +5,7 @@ latitude: 27.6155
 longitude: -82.7359
 tags: [things_to_do, sight, history]
 story: The fort was built during the Spanish-American War in 1898 to defend Tampa Bay, but never fired a shot in anger. Its rare 12-inch seacoast mortars are the only ones of their kind still in their original mounts anywhere in the United States.
+score: 8.3
 ---
 
 The brick and concrete fort at the southern tip of Mullet Key is the reason the park has its name, and it is free to walk through. Construction began in 1898 during the Spanish-American War to guard the entrance to Tampa Bay, but by the time it was finished the war was over. The fort was garrisoned through World War I, then abandoned in the 1920s and used as a bombing target during World War II before becoming park land.

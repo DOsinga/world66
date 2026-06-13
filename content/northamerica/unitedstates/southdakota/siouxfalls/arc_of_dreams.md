@@ -13,6 +13,7 @@ story: >
   the river without touching, representing the leap of faith required to pursue
   a dream. The gap between the two sides is intentional: the dream remains
   aspirational, never fully closed.
+score: 7.1
 ---
 
 A dramatic stainless steel arc spans the Big Sioux River near the entrance to Falls Park, its two sweeping arms reaching toward each other but never quite meeting. The sculpture has become Sioux Falls' most recognisable landmark, visible from the highway and photographed by virtually every visitor.

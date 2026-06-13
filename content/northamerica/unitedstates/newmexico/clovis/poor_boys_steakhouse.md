@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-running local steakhouse, popular with ranchers, airmen and visitors
+score: 5.7
 ---
 
 Poor Boy's has fed Clovis its steaks for decades, in an unprepossessing building on North Prince Street that looks more like a roadhouse than a destination. The cuts are local beef, hand-cut and grilled over open fire; the sides — baked potato, salad, rolls — are straight-line American.

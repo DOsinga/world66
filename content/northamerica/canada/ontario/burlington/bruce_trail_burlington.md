@@ -8,6 +8,7 @@ tags:
 latitude: 43.3850
 longitude: -79.9520
 snippet: "Canada's oldest and longest hiking trail, passing through North Burlington"
+score: 7.4
 ---
 
 The Bruce Trail is Canada's oldest and longest marked hiking trail, running 900 kilometres along the Niagara Escarpment from Queenston in the south to Tobermory at the tip of the Bruce Peninsula. The Iroquoia and Toronto sections pass directly through the rural northern parts of Burlington, with access points along Walker's Line, Guelph Line and Appleby Line above the QEW.

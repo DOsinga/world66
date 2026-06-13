@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.16583
 longitude: -86.5364
+score: 6.2
 ---
 
 WonderLab is a hands-on science museum on Sixth Street, a short walk from the courthouse square. It is aimed primarily at children but is intelligent and unpretentious enough that adults who come with them will not be bored. The exhibits cover physics, biology, geology, and technology through interactive demonstrations: bubble-making machines, a wind tunnel, a light show, working robotics, and a basement full of computer experiments.

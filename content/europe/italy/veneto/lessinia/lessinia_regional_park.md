@@ -8,6 +8,7 @@ tags:
 - park
 title: Lessinia Regional Park
 type: poi
+score: 8.1
 ---
 
 The Parco Naturale Regionale della Lessinia covers some 100 square kilometres of the high plateau, between roughly 1,200 and 1,800 metres. The landscape is a patchwork of summer pastures, isolated malghe (stone-built cheesemaker huts), beech forests, and karst features — dolines, sinkholes, and stone pavements polished smooth by ten thousand years of weather.

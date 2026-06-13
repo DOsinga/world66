@@ -7,6 +7,7 @@ tags:
 - sight
 title: Chatham Historic Dockyard
 type: poi
+score: 8.6
 ---
 
 Chatham Historic Dockyard is one of the best-preserved historic dockyards in the world, covering 80 acres of the former Royal Navy facility that operated here from the time of Henry VIII until its closure in 1984. The scale of what remains is genuinely impressive: rope-making buildings hundreds of metres long, Georgian storehouses, Victorian covered slips, and a collection of historic vessels including a Victorian sloop, a Second World War destroyer, and a Cold War submarine.

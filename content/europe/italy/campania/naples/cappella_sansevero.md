@@ -15,6 +15,7 @@ tags:
 title: Cappella Sansevero
 type: poi
 url: www.museosansevero.it
+score: 9.8
 ---
 
 A small Baroque chapel housing the *Cristo Velato* (Veiled Christ, 1753) by Giuseppe Sammartino — a marble sculpture so realistic in its rendering of a translucent veil over a recumbent body that visitors have been known to touch it to confirm it is stone. One of the most astonishing objects in Italian art. Antonio Canova called it the most beautiful sculpture he had ever seen.

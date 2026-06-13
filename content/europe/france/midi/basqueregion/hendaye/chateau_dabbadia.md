@@ -10,6 +10,7 @@ latitude: 43.3775
 longitude: -1.7492
 story: >
   Antoine d'Abbadie was one of the great Victorian polymaths: explorer, geodesist, Basque linguist, astronomer, and passionate collector of Ethiopian manuscripts. He spent decades in Ethiopia, learned Amharic, mapped large portions of the country, and returned to France with thousands of manuscripts that eventually went to the Bibliothèque nationale. He then commissioned this castle as a permanent astronomical observatory, with a telescope dome still in working condition today. The interior is decorated with inscriptions in Amharic, Basque, and Gaelic — languages he apparently felt deserved preservation.
+score: 8.3
 ---
 
 The Château d'Abbadia occupies a spectacular promontory south of Hendaye beach, rising above the Atlantic on a rocky headland with views across the Basque coast and into Spain. The castle was built between 1864 and 1884 for Antoine d'Abbadie, a Franco-Irish nobleman and scientist, to the designs of the architect Eugène Viollet-le-Duc — the restorer of Notre-Dame and Mont Saint-Michel — in a flamboyant neo-Gothic style.

@@ -8,6 +8,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 7.3
 ---
 
 The contemporary art museum (SMoCA) occupies a converted movie theatre on the south edge of Old Town and is a small but consistently good place to spend an hour. Its standing draw is the James Turrell "Knight Rise" Skyspace, a windowless room with an aperture cut in the ceiling — sit there for fifteen minutes around dawn or dusk and the colour of the sky goes through a slow, hallucinatory shift.

@@ -12,6 +12,7 @@ tags:
 title: Akodéssewa Fetish Market
 type: poi
 story: "The market is supplied by hunters from across Togo, Benin, Ghana and Burkina Faso who specialise in catching specific animals required by traditional priests. Some of the stranger items — hyena heads, crocodile skulls, parts of chimpanzees — are shipped in from as far away as Cameroon and the DRC."
+score: 9.0
 ---
 
 The Marché des Féticheurs in Akodéssewa, on the eastern edge of Lomé, is one of the largest voodoo supply markets in West Africa. Stalls are piled with animal skulls, dried chameleons, porcupine skins, monkey hands, snake heads, leopard teeth and bundles of dried herbs — the raw materials of vodun ceremonial work for an enormous catchment area stretching across Togo, Benin, Ghana and beyond.

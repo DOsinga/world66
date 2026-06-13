@@ -11,6 +11,7 @@ story: >
   The name "Katz" (cat) is a diminutive insult applied by the Katzenelnbogen counts who built the castle — they named the smaller Maus Castle (built by their rivals the Archbishops of Trier) "the Mouse" to mock its pretensions, and their own fortress became known as "the Cat" in contrast. The rivalry between the two families over Rhine tolls drove castle-building along this stretch of river in the 14th century.
 sources:
   - https://en.wikipedia.org/wiki/Katz_Castle
+score: 5.7
 ---
 
 Katz Castle on the right bank above St. Goarshausen is a handsome example of the Rhine Gothic style — its towers and curtain walls carefully restored in the 19th century by Prussian architects. The castle is privately owned and not normally open to the public, but its silhouette against the hill above the Lorelei rock is one of the most photographed views on the Rhine.

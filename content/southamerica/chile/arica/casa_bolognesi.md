@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 6.4
 ---
 
 The two-storey wooden house just east of Plaza Colon was the headquarters and last residence of Colonel Francisco Bolognesi, the Peruvian commander killed on the Morro in 1880. It survived the war intact and the structure inside is largely original — a rare survivor of pre-1880 Arica.

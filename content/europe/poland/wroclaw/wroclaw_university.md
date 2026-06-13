@@ -10,6 +10,7 @@ longitude: 17.0364
 address: "Plac Uniwersytecki 1, 50-137 Wrocław"
 story: >
   The Aula Leopoldina was almost destroyed in the last weeks of the war when retreating German forces planned to blow up the entire university complex. Local volunteers — including German civilians as well as Polish forced labourers — smuggled the dynamite out at night and replaced it with sand, saving the hall.
+score: 8.8
 ---
 
 The main building of the University of Wrocław is one of the great pieces of Habsburg baroque architecture in Poland. The 13th-century university was reconstituted by the Emperor Leopold I in 1702, and the building dates from that period; the long facade on the Odra has been a Wrocław landmark for three centuries.

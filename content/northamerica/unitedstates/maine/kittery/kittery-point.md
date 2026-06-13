@@ -5,6 +5,7 @@ latitude: 43.081
 longitude: -70.708
 snippet: "The rocky outer peninsula where old sea captains' houses face the open Atlantic and the islands beyond"
 tags: [things_to_do, nature]
+score: 7.8
 ---
 
 Kittery Point is the narrow peninsula that juts southeast from the town center toward the open ocean. Route 103 follows its spine, passing through some of the oldest continuously inhabited landscape in Maine. The houses along the road are a mix of colonial-era sea captains' homes and later summer estates, many of them sitting close to the road with granite outcroppings and tidal coves on either side. This is what the rest of Kittery looked like before Route 1 arrived.

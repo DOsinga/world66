@@ -12,6 +12,7 @@ tags:
 - sight
 title: Punakha
 type: poi
+score: 8.1
 ---
 
 A two-hour drive from Thimphu over the Dochu La pass (3100m), which offers panoramic Himalayan views on clear days. Punakha Dzong, at the confluence of two rivers, is the finest example of Bhutanese fortress architecture still intact. The main lhakhang inside contains some extraordinary thangkas and religious statuary. The drive itself, through rhododendron forest and open mountain landscape, is as good as the destination. Punakha Tshechu, held in February/March, rivals Thimphu Tshechu for atmosphere and is much less crowded.

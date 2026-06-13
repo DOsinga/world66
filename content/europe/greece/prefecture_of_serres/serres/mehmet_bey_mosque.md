@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 15th-century Ottoman mosque, locally known as Hagia Sophia, with a fluted dome and tile-decorated mihrab
+score: 7.4
 ---
 
 The Mehmet Bey Mosque -- known to locals as Hagia Sophia, after the supposed resemblance of its dome to the great church in Constantinople -- was built around 1490 by Mehmet Bey, a senior Ottoman official. It is one of the better-preserved Ottoman mosques in northern Greece and one of the few buildings in central Serres to survive the 1913 fire largely intact.

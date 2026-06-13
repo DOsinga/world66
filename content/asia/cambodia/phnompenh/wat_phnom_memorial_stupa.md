@@ -7,6 +7,7 @@ tags:
 title: Memorial Stupa at Wat Phnom
 type: poi
 snippet: Glass-walled stupa holding the skulls of Khmer Rouge victims
+score: 8.1
 ---
 
 A glass-walled stupa on the grounds of Wat Phnom containing the skulls and bones of an estimated 5,000 Cambodians killed during the Khmer Rouge era. Smaller and less visited than the memorial at Choeung Ek, but its presence in the centre of the city — under the temple from which Phnom Penh takes its name — makes the encounter unusually direct.

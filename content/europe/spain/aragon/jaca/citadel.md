@@ -11,6 +11,7 @@ longitude: -0.5540
 story: "The citadel was built to defend Aragon from French invasion following the Wars of Religion, but it never saw a major siege. What it did see, in 1930, was a doomed military uprising against the monarchy: a small group of Republican army officers declared a republic from the citadel and marched on Huesca before being captured. The two leaders, Fermín Galán and Ángel García Hernández, were executed by firing squad within days. They became martyrs of the Spanish Republic — and ten months later, the Republic arrived anyway."
 sources:
   - https://www.fascinatingspain.com/articulo/what-to-see-in-aragon/what-to-see-in-jaca/20220202020208067735.html
+score: 8.3
 ---
 
 Jaca's citadel is a remarkable example of Renaissance military architecture: a five-pointed star-shaped fortress, built on the orders of Philip II from 1592, with each of the five bastions designed to provide covering fire for adjacent walls. The geometry is beautiful in an abstract way, and the grassy moats, which are now grazed by deer, give the whole thing an unexpectedly pastoral quality.

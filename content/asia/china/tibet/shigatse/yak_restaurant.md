@@ -7,6 +7,7 @@ tags:
   - tibetan
 latitude: 29.1069
 longitude: 86.8754
+score: 4.8
 ---
 
 The Yak Restaurant (also known as Yak Hotel Restaurant) is the most established traveller-friendly place in Shigatse, set in a courtyard in the old quarter near the monastery road. The menu covers standard Tibetan fare — yak butter tea, tsampa, thukpa noodle soup, steamed and fried momos, and yak meat dishes — alongside some basic Chinese options and a few Western staples for those who have been on the road too long.

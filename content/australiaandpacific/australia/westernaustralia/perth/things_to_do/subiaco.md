@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -31.9468
 longitude: 115.8276
+score: 7.3
 ---
 
 Subiaco is one of Perth's most comfortable inner suburbs, about three kilometres west of the CBD and easily reached by train from Perth station. Rokeby Road is the main strip, and it delivers what Subiaco does best: good cafes, a strong restaurant scene, independent bookshops, delis, wine bars, and the kind of neighbourhood businesses that suggest people actually live here and have opinions about where to eat lunch. It is upmarket without being ostentatious, and the tree-lined streets of Federation and Edwardian houses behind the commercial strip are worth wandering through if you like the architecture.

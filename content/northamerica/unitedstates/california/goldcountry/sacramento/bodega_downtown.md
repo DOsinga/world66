@@ -8,6 +8,7 @@ latitude: 38.2534
 longitude: -121.5092
 story: >
   Locke was built in 1915 after fire destroyed the Chinese section of nearby Walnut Grove. The founders chose the name of a local white landowner, George Locke, to reassure the surrounding communities — Chinese immigrants could not own land in California under the Alien Land Laws of 1913. The town they built anyway, on leased land, is now the last surviving rural Chinatown in the United States.
+score: 8.2
 ---
 
 A small town on the Sacramento River levee in the Delta, about 50 kilometres south of Sacramento, that is the last intact rural Chinatown in the United States. Locke was built in 1915 by Chinese-American farm workers who had been displaced from nearby Walnut Grove by fire, and its main street — a single block of two-story wooden buildings with covered sidewalks — remains essentially unchanged since the 1920s.

@@ -14,6 +14,7 @@ story: >
   for trade traffic, and the old fortified gate stands adjacent to the modern
   checkpoint, a juxtaposition that says a great deal about the pragmatic
   relationship between the two countries.
+score: 7.8
 ---
 
 The Friendship Pass sits in a gap in the mountains on the Sino-Vietnamese border, 18 kilometres south of Chongzuo city. The fortified stone gateway — massive, ornate, and considerably older than its name suggests — has guarded this mountain pass since the Ming dynasty, and the current structure was rebuilt and enlarged several times as the strategic importance of the crossing grew. From the upper battlements of the gate you can look south into Vietnam, where the road descends toward Lang Son and eventually Hanoi.

@@ -7,6 +7,7 @@ tags:
 latitude: 32.5461
 longitude: 76.0578
 story: "There is a small floating island of reeds and grass in the centre of the lake. Local belief says it drifts around the surface in answer to prayers — practically, it is a mat of vegetation kept buoyant by the marsh gas trapped beneath."
+score: 7.2
 ---
 
 Khajjiar Lake is the small, oval pool at the centre of the meadow, fed by springs and lined with reeds. It is shallow — knee-deep in most places — and surrounded by a circle of cedars. The 12th-century Khajji Nag temple stands on its eastern edge, and a footpath traces the full circumference in twenty minutes.

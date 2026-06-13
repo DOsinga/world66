@@ -9,6 +9,7 @@ tags:
   - diving
 title: Salang Beach
 type: poi
+score: 8.0
 ---
 
 Salang is the northernmost beach on the island and the last stop for the ferries. It is one of the more developed spots on Tioman but still feels like a village, with budget guesthouses, a handful of restaurants, and a couple of bars strung along the beachfront. The coral reef just offshore makes for easy snorkelling straight off the beach.

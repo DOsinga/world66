@@ -8,6 +8,7 @@ tags:
 latitude: 50.626
 longitude: 3.046
 snippet: The best Sunday market in Lille — multicultural, cheap, and utterly alive from 7am to 2pm
+score: 8.6
 ---
 
 The Marché de Wazemmes fills the Place de la Nouvelle Aventure and the streets around it every Sunday morning, and on a smaller scale on Tuesday and Thursday. It is the most important food market in Lille — more interesting than the tourist-oriented Saturday market near the Grand'Place — and one of the best markets in northern France.

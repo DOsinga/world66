@@ -7,6 +7,7 @@ neighbourhood: Polanco
 address: "Blvd. Miguel de Cervantes Saavedra 303, Granada"
 latitude: 19.4413
 longitude: -99.2056
+score: 7.8
 ---
 
 The Jumex Museum sits directly across Plaza Carso from the Soumaya, and the contrast between them is the point: where the Soumaya is a kitschy private collection in a shimmering tower, the Jumex is a David Chipperfield-designed travertine pavilion housing what is widely held to be the most significant collection of contemporary art in Latin America.

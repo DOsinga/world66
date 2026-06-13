@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.4528
 longitude: 24.5494
+score: 6.1
 ---
 
 The railway station, built in the 1890s under Austro-Hungarian rule on the Stanislaviv to Worochta line, is a small but charming wooden building in the Galician-Carpathian style — gabled roof, fretwork eaves, painted woodwork. It still serves daily trains from Lviv and Ivano-Frankivsk, and the small park in front is a pleasant place to wait.

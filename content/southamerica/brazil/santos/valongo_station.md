@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
 neighbourhood: Centro Histórico
+score: 7.6
 ---
 
 In addition to the stadium memorial, Santos has a second Pelé Museum housed in a restored 1865 mansion in the historic centre. The Casa do Café — the former house of a coffee broker — has been carefully restored and now displays photographs, films, trophies, and personal effects from Pelé's career.

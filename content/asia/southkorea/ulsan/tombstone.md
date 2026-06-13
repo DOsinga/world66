@@ -7,6 +7,7 @@ tags:
   - bar
 title: Tombstone
 type: poi
+score: 3.8
 ---
 
 Tombstone is the closest Ulsan has to a reliable expat bar — a place where English teachers, Hyundai expat workers, and the occasional tourist end up on Friday and Saturday nights. It is in Seongnamdong, within walking distance of the main covered shopping street, and the Western-facing ownership means you can order without pointing at a menu.

@@ -8,6 +8,7 @@ latitude: -41.3058
 longitude: 173.2436
 story: >
   The World of WearableArt competition began in Nelson in 1987 when artist Suzie Moncrieff decided to exhibit wearable art instead of hanging it on a wall. The show grew so large it eventually moved to Wellington — but the museum in Nelson still houses the showstopping garments from previous competitions, including a dress made from 36,000 toy soldiers and another composed entirely of food packaging.
+score: 6.8
 ---
 
 The World of WearableArt (WOW) and Classic Cars Museum in Nelson is one of New Zealand's more unexpected institutions — a double-barrelled attraction combining spectacular wearable art creations from past WOW competitions with a collection of over 150 classic and vintage cars. The pairing is stranger than it sounds and works surprisingly well.

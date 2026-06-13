@@ -15,6 +15,7 @@ tags:
 - museum
 title: Museo de Ávila
 type: poi
+score: 7.4
 ---
 
 The Museo de Ávila occupies the Casa de los Deanes, a fine Renaissance palace with a two-storey arcaded courtyard near the cathedral. The museum covers the archaeology and history of the province, with collections running from prehistoric artefacts through Roman Ávila (the city was a significant Roman settlement called Abula), medieval metalwork, and religious art. The Roman section is particularly worth seeing: the area around Ávila produced a large number of pre-Roman stone figures called verracos — granite carvings of bulls and boars used as territorial markers — and several good examples are in the collection.

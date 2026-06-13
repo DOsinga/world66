@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 43.0715
 longitude: 12.6085
+score: 7.3
 ---
 
 The Benedictine Abbey of San Pietro stands just inside the western gate of Assisi, on the way down to the Basilica di San Francesco. The plain Romanesque facade of dressed Subasio stone, flanked by two slender towers, is one of the most handsome in town — quieter than the more famous churches and usually deserted.

@@ -7,6 +7,7 @@ tags:
 latitude: 41.0699
 longitude: 9.3632
 snippet: Market town north of Olbia that serves as the base for Gallura's prehistoric monuments
+score: 6.8
 ---
 
 Arzachena is a quiet Gallura market town about 25km north of Olbia that makes a practical base for exploring the remarkable concentration of Nuragic prehistoric monuments in the surrounding countryside. Within a short drive lie multiple Giants' Tombs, the Li Muri necropolis, and several nuraghi — the distinctive round stone towers that dot the Sardinian landscape and represent the most visible legacy of the Bronze Age civilisation that flourished here from roughly 1800–900 BC.

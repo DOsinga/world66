@@ -7,6 +7,7 @@ tags:
   - sight
 title: Schwerin Zoo
 type: poi
+score: 6.4
 ---
 
 The Zoologischer Garten Schwerin sits on the northern shore of the Schweriner See, about three kilometres from the city centre. It is a compact zoo by German standards — around 800 animals across 130 species — but well maintained and particularly strong on big cats, primates, and birds of prey. The lakeside setting gives it a pleasant, uncrowded feel that larger zoos cannot match.

@@ -11,6 +11,7 @@ title: St. James Episcopal Church
 type: poi
 story: >
   The churchyard at St. James contains the grave of Thomas Godfrey, the young Philadelphian playwright who wrote "The Prince of Parthia" (1767) — the first play written by an American to be professionally produced in America. Godfrey died in Wilmington in 1763 at 27, never knowing his play would be performed. His grave is largely forgotten even by those who pass it regularly.
+score: 7.5
 ---
 
 St. James Episcopal Church is the oldest congregation in Wilmington, established in 1729, and the current church building — a handsome Gothic Revival structure completed in 1839 — is one of the architectural anchors of the historic district. The parish has been continuously active for nearly three centuries.

@@ -16,6 +16,7 @@ story: >
   in the Humboldt County hills.
 sources:
   - https://en.wikipedia.org/wiki/Humboldt_Arts_Council
+score: 7.2
 ---
 
 The Morris Graves Museum of Art at 636 F Street is Humboldt County's main art museum, housed in a beautifully preserved 1902 Carnegie library building. The galleries hold a permanent collection of regional and Pacific Northwest art, with works by the mystic painter Morris Graves, whose years in the Humboldt hills produced some of his most distinctive work. Temporary exhibitions rotate frequently and have covered everything from local folk art to contemporary photography.

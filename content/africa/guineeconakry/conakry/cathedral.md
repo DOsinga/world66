@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: St. Mary's Cathedral
 type: poi
+score: 6.6
 ---
 
 St. Mary's Cathedral, on the old Kaloum peninsula a few blocks from the Presidential Palace, is the seat of the Archdiocese of Conakry and the principal Catholic church of Guinea. The building dates from the early 20th century, when Conakry was capital of French Guinea, and the simple French neo-Gothic facade — a single bell tower, lancet windows — is one of the better-preserved colonial buildings in the city.

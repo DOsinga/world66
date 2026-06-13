@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Marked hiking trails into the White Carpathians Protected Landscape Area"
+score: 7.1
 ---
 
 Bojkovice sits at the edge of the Bílé Karpaty (White Carpathians) Protected Landscape Area, a UNESCO Biosphere Reserve that runs along the Czech–Slovak border. The KČT (Czech Tourist Club) marked trails from the town climb into the wooded ridges to the east, with views back across the Moravian lowlands.

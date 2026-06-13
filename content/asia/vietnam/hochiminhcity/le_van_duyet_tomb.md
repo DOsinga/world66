@@ -9,6 +9,7 @@ tags:
 latitude: 10.7967
 longitude: 106.6994
 snippet: "Elaborate tomb-temple of a revered Vietnamese military hero in Bình Thạnh district"
+score: 8.2
 ---
 
 Lăng Ông — "Tomb of the Lord" — is the most important historical temple in Ho Chi Minh City, commemorating Lê Văn Duyệt (1764–1832), the military governor of southern Vietnam who was one of the most powerful figures of the early Nguyễn dynasty. He is credited with developing Saigon into a major port city and maintaining stability in the south.

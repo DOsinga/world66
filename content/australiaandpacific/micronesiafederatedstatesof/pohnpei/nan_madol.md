@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Nan_Madol
   - https://whc.unesco.org/en/list/1503/
+score: 9.8
 ---
 
 Nan Madol is the most extraordinary archaeological site in the Pacific. Built between roughly 1200 and 1500 CE on a reef flat off the southeast coast of Pohnpei, it consists of more than a hundred artificial islets constructed from massive basalt columns, linked by canals wide enough to paddle a canoe through. At its height it housed the ceremonial and political centre of the Saudeleur dynasty, a ruling class that governed Pohnpei for three centuries before being overthrown.

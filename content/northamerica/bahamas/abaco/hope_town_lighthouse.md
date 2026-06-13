@@ -15,6 +15,7 @@ story: >
   end the lucrative business of salvaging ships that ran aground on Elbow Reef. According
   to local history, one wrecker bribed the construction crew to delay the project.
   The light went up anyway, and the wrecking trade died within a generation.
+score: 8.6
 ---
 
 The candy-striped lighthouse at Hope Town is the most photographed landmark in the Abacos and one of the most distinctive in the Caribbean. The red-and-white barber-pole tower rises 89 feet from the northern tip of Elbow Cay and has guided ships around the shallow reef since 1863. It is one of only a handful of manually-operated kerosene lighthouses still functioning anywhere in the world.

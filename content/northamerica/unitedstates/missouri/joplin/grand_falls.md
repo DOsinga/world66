@@ -10,6 +10,7 @@ tags:
 - park
 title: Grand Falls
 type: poi
+score: 7.2
 ---
 
 Grand Falls is the largest natural waterfall in Missouri — a wide, low cascade where Shoal Creek pours over an exposed shelf of chert rock. It is not dramatic in the way of a tall plunge waterfall; instead it sprawls across the creek in a broad curtain, especially impressive after heavy rain when the volume of water turns the falls roaring white.

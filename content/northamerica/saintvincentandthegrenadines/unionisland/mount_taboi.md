@@ -9,6 +9,7 @@ latitude: 12.5972
 longitude: -61.4458
 story: >
   At 308 metres, Mount Taboi is the highest point in the Grenadines. On a clear day you can see all the way south to Grenada and north past Canouan — more than a dozen islands visible from a single hilltop.
+score: 7.6
 ---
 
 Mount Taboi is the highest peak on Union Island, rising steeply from the dry scrubland in the northwest of the island. The hike to the summit takes about 90 minutes from Clifton and gains around 300 metres of height on a trail that starts well-marked but becomes faint higher up. A guide from the village is useful for the final section.

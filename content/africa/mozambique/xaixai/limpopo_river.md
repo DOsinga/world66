@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -25.0300
 longitude: 33.6700
+score: 7.1
 ---
 
 The Limpopo River meets the Indian Ocean near Xai-Xai, and the estuary zone — mangrove-lined channels, sandbanks, and open water — is home to a variety of birdlife and occasional crocodile and hippo sightings. The estuary is most easily explored by hiring a local fishing boat; negotiations happen at the riverbank and prices are reasonable.

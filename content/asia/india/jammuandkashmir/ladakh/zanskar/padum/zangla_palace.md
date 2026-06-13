@@ -12,6 +12,7 @@ story: >
   accompanied the last king of Zanskar, Rinchen Namgyal, on the frozen-river crossing
   to Leh — an experience he described in "A Journey in Ladakh." The palace Harvey visited
   at Zangla is the same ruin visible today.
+score: 7.2
 ---
 
 Zangla was the seat of the royal family of Zanskar for several centuries. The palace — or rather the ruins of it — sits on a crag above the village of Zangla, about 40 kilometres northeast of Padum. The Zanskar kingdom was never large or powerful, but it maintained its independence until the early 19th century, and the royal family continued to hold a position of local authority well into the 20th century.

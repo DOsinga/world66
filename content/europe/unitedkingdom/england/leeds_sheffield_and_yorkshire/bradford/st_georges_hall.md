@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.7925
 longitude: -1.7511
+score: 7.5
 ---
 
 Opened in 1853 as a Victorian concert and lecture hall, St George's is the third-oldest concert hall in Britain still in active programming after London's St James's and Liverpool's Philharmonic. The Italianate facade by Lockwood & Mawson is impressive enough, but the interior — a 1,500-seat auditorium with cast-iron balconies and a coffered ceiling — is the real survival, restored in 2019 after a major refurbishment.

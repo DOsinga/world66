@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.5661
 longitude: 22.7961
+score: 6.8
 ---
 
 The Archaeological Museum occupies the old Venetian arsenal on Syntagma Square, a heavy stone block with a vaulted ground floor that once stored gunpowder and naval supplies. The collection covers the whole Argolid from the Neolithic to late antiquity, with a strong emphasis on Mycenae and Tiryns.

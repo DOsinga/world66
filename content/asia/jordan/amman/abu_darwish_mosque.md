@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.9434
 longitude: 35.9425
+score: 6.9
 ---
 
 The Abu Darwish Mosque on Jabal al-Ashrafieh is one of the most architecturally unusual mosques in Jordan, built in 1961 in alternating black and white stone in a geometric pattern that gives it a striking checkerboard appearance. The design uses traditional Levantine stonework techniques in an almost art-deco composition — angular, bold, and quite unlike the Ottoman or modern Saudi styles that predominate elsewhere in Amman.

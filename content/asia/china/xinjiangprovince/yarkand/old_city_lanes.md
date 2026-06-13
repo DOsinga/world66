@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 38.4160
 longitude: 77.2480
+score: 8.9
 ---
 
 Yarkand's old city has survived without the extensive rebuilding that turned Kashgar's old town into a partly reconstructed heritage zone in the 2010s. The result is a neighbourhood that is more dilapidated, less picturesque, and considerably more genuine: mud-brick houses with carved wooden balconies that are actually in use, lanes that are genuinely narrow and not pedestrianised for tourists, workshops that are doing real work rather than demonstrating traditional crafts.

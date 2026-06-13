@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 34.0438
 longitude: -117.0341
+score: 5.7
 ---
 
 The Mousley Museum is a small free natural history museum in downtown Yucaipa, founded by a local family and now run by volunteers. The collection is wide — California minerals and fossils in the front rooms, taxidermy of local desert species, Native American baskets, seashells, and one curiously substantial dinosaur skeleton casting in the main hall.

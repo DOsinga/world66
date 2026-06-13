@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Bohemian Cafe
 type: poi
+score: 5.9
 ---
 
 A no-frills Czech and Hungarian restaurant in the Little Bohemia neighbourhood. The duck is excellent and the goulash is the safe choice if you're undecided. Reasonably priced and unpretentious.

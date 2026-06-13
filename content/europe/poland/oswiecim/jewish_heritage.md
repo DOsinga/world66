@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/O%C5%9Bwi%C4%99cim_Synagogue
   - https://en.wikipedia.org/wiki/The_Great_Synagogue_Memorial_Park
+score: 7.6
 ---
 
 The Oswiecim Synagogue (Chevra Lomdei Mishnayot Synagogue) on Plac Ksiedza Jana Skarbka is the only surviving Jewish house of worship in Oswiecim. Built in 1913, it was used as a warehouse during the Nazi occupation, which is what saved it from destruction when all other synagogues in town were burned. The building has been restored and now houses a small museum documenting the Jewish community of Oswiecim before the war.

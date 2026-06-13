@@ -10,6 +10,7 @@ longitude: 99.5248
 story: "The Death Railway was built in just 16 months — a feat of brutal speed. The Japanese army used about 61,000 Allied prisoners and between 180,000 and 250,000 conscripted Asian labourers. Roughly one in three Asian labourers died; the Allied death rate was about one in four. The railway was 415 kilometres long and included 688 bridges."
 sources:
   - https://en.wikipedia.org/wiki/Thailand%E2%80%93Burma_Railway_Centre
+score: 8.8
 ---
 
 The Thailand–Burma Railway Centre is the most comprehensive museum in Kanchanaburi covering the history of the Death Railway. Opened in 2003, it was built as an educational counterpart to the war cemeteries and uses detailed maps, artefacts, photographs, and personal testimonies to explain both the military context — why Japan needed the railway — and the human cost of building it.

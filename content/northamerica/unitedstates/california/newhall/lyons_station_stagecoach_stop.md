@@ -8,6 +8,7 @@ latitude: 34.3627
 longitude: -118.5074
 story: >
   Lyons Station was established in the 1850s as a rest stop on the Butterfield Overland Mail route, one of the first regular overland mail and passenger routes connecting the eastern United States to California. The station provided water, fresh horses, and food to exhausted travelers who had survived the desert crossings from Yuma. Today the adobe walls still stand, making it one of the oldest surviving structures in the Santa Clarita Valley.
+score: 6.8
 ---
 
 The Lyons Station Stagecoach Stop is a California Historical Landmark preserving the remains of an adobe stage station that served travelers along the El Camino Viejo and later the Butterfield Overland Mail route in the mid-19th century. The surviving adobe walls and foundations are modest but the setting is evocative — this was a genuine frontier waystation where exhausted travelers rested before tackling the mountains.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - family
+score: 4.8
 ---
 
 The Parque Safari, about 20 km north-west of Rancagua on the road to Doñihue, is Chile's only drive-through safari park. Visitors travel in caged trucks through enclosures of lions, tigers, jaguars, and bears, then walk a smaller zoo of giraffes, zebras, and birds.

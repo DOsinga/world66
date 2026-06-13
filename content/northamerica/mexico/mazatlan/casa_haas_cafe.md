@@ -9,6 +9,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Historico
 snippet: "Specialty-coffee roaster on Plazuela Machado, the best espresso in the old town"
+score: 5.8
 ---
 
 Pancamo opened on the Plazuela Machado in the mid-2010s as one of the first specialty-coffee places in Mazatlan, and is still the best espresso in the old town. They roast their own beans, mostly from the highlands of Chiapas and Veracruz, and the menu is the standard third-wave card: pour-over, flat white, cold brew, plus a small selection of pastries.

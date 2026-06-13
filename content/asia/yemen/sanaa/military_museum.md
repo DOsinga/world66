@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: A modest collection of arms, uniforms, and revolutionary memorabilia
+score: 6.3
 ---
 
 The Military Museum traces Yemen's modern military history — the long Ottoman period, the Zaydi imamate, the 1962 revolution that overthrew the imamate, the civil war of the 1960s, and the unifications of 1990. The collection includes uniforms, vintage rifles, photographs, and the inevitable propaganda posters of the revolutionary era. The building stands close to Tahrir Square in the new city.

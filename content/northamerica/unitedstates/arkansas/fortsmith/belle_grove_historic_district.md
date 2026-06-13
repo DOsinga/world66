@@ -9,6 +9,7 @@ latitude: 35.3917
 longitude: -94.4218
 sources:
   - https://encyclopediaofarkansas.net/entries/belle-grove-historic-district-6989/
+score: 7.5
 ---
 
 Belle Grove is Fort Smith's grandest neighbourhood, 22 blocks of Victorian houses built by the merchants, lawyers, and judges who prospered during the federal court era. The district runs northwest of downtown and is listed on the National Register of Historic Places; walking it gives you a sense of how prosperous this border town became once the Arkansas River trade routes were established.

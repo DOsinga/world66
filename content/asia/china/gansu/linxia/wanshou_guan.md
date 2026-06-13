@@ -14,6 +14,7 @@ story: >
   local faith — and it has always felt like a guest in someone else's house. The monks
   here are outnumbered by the imams and murshids of the city below by a ratio of perhaps
   a thousand to one.
+score: 5.8
 ---
 
 The Wanshou Guan is Linxia's solitary Taoist temple, perched on a hillside above the predominantly Muslim city below. It has been rebuilt several times over the centuries, and the current structure is largely modern, but the setting is its real virtue: the views down over the valley, the mosques with their green-tiled roofs, and the ridgelines beyond the city are excellent and the climb takes only about twenty minutes.

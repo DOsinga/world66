@@ -8,6 +8,7 @@ latitude: 51.4892
 longitude: 0.3
 sources:
   - https://en.wikipedia.org/wiki/Chafford_Gorges_Nature_Park
+score: 7.1
 ---
 
 Chafford Gorges is a 200-acre nature reserve on the western edge of Grays, managed by the Essex Wildlife Trust. The park occupies former chalk quarries that have been colonised over decades by chalk grassland, scrub, and woodland, creating a landscape of unexpected drama in an otherwise suburban setting — the quarry walls give the site its gorge-like character, with paths running along ridges above steep drops into green valleys.

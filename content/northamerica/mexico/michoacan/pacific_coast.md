@@ -8,6 +8,7 @@ latitude: 18.5284
 longitude: -103.1034
 sources:
   - https://en.wikipedia.org/wiki/Michoac%C3%A1n
+score: 7.2
 ---
 
 Michoacán's Pacific coast is one of the least-visited stretches of the Mexican coast, despite offering good surf, empty beaches, and a series of small fishing villages between Lázaro Cárdenas in the north and the Colima border in the south. The main towns are Caleta de Campos and La Mira; neither has significant tourist infrastructure, which is precisely their attraction.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The original mosque on this site, built in the thirteenth century, was dynamited by the Soviets in 1936 and the rubble used for road construction. The current building is a careful reconstruction from the 1990s — close to the original in form but with mostly new decoration."
+score: 7.8
 ---
 
 The Bibi-Heybat Mosque sits on a hillside south-west of the city, overlooking the bay and the Bibi-Heybat oil field — one of the oldest productive oil fields in the world, with derricks still standing in the water below. It is a major Shia pilgrimage site, built around the tomb of Ukeyma Khanum, a sister of one of the Twelve Imams who fled here in the eighth century.

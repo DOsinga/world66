@@ -8,6 +8,7 @@ tags:
   - beaches
   - sight
   - swimming
+score: 8.0
 ---
 
 Baie Longue — Long Bay — is a long, mostly empty stretch of white sand on the French side's western shore, facing the sunset. The water here is calmer than Orient Bay's north-facing swells, and commercial development is minimal: a handful of sun loungers for hire and a single upscale hotel property at one end. For visitors who want a beach with space and quiet rather than beach bars and jet skis, it is the best on the island.

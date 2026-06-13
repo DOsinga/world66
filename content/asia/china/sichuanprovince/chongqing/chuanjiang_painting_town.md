@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.5760
 longitude: 106.5810
+score: 5.7
 ---
 
 Jiangbei District, on the north bank of the Jialing River, is Chongqing's most international neighbourhood and its financial centre. The Jiangbei Zuì area around the junction of the Jialing and Yangtze rivers has grown into a forest of skyscrapers and is home to the city's newest luxury hotels, high-end restaurants, and shopping centres.

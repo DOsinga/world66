@@ -10,6 +10,7 @@ longitude: 12.367
 sources:
   - https://en.wikipedia.org/wiki/Soyo
 story: "Soyo was one of the most important embarkation points for enslaved Africans during the transatlantic slave trade. At its peak in the 18th century, tens of thousands of people passed through this port, taken from the Kingdom of Kongo and its territories."
+score: 6.7
 ---
 
 Soyo was formerly known as São António do Zaire, a Portuguese colonial name that reflects the town's centuries of history as a port at the mouth of the Congo. The area was part of the Kingdom of Kongo long before Portuguese contact, and the estuary has been a place of trade and movement for at least five hundred years.

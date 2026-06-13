@@ -6,6 +6,7 @@ longitude: -93.7505
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 A 30,000-square-foot mural on the side of a downtown building, completed in 2002 and at the time the largest publicly funded mural in the United States. Painted by local artist Meg Saligman with help from hundreds of community contributors, it is a swirling, allegorical portrait of Shreveport's history — Caddo Indians, riverboats, oil derricks, jazz, and the Hayride all woven together.

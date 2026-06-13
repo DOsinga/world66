@@ -7,6 +7,7 @@ snippet: Local archaeological museum built around the excavated Greek port
 tags:
 - things_to_do
 - museum
+score: 7.7
 ---
 
 The Musée d'Histoire de Marseille traces the city's 2,600-year story from its Greek founding through Roman trade, medieval fishing village, Renaissance free city and modern French port. Its setting is the unusual part: the museum extends out into the Jardin des Vestiges, the excavated remains of the original Greek port that were uncovered in 1967 during construction of the Centre Bourse shopping centre. Wooden hulls of Greek and Roman ships, a stretch of rampart, the fresh-water basin — all preserved in the open air where they were found.

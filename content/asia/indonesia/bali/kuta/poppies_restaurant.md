@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - garden
+score: 7.1
 ---
 
 Older than most of Kuta. Poppies opened in 1973 in a tropical garden tucked off the lane that now bears its name, and it still serves a slightly old-fashioned menu of Indonesian classics and grilled fish in the same shaded courtyard, with ponds, stone statues, and waiters who have been there for decades.

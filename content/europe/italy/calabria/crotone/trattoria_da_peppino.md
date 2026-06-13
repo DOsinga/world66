@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.0812
 longitude: 17.1278
+score: 5.7
 ---
 
 A small trattoria in the old town, a short walk from Piazza Pitagora, where the cooking is unambiguously Calabrian. The pasta is handmade — look for fileja with 'nduja and tomato, or lagane e cicciari (flat pasta with chickpeas), an ancient dish in this part of Italy. The secondi are mostly meat: roast kid, grilled lamb chops, and the local sausage, cooked simply and served with seasonal vegetables.

@@ -6,6 +6,7 @@ longitude: -80.4218
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The malecon is Bahia de Caraquez's waterfront promenade, running along the northern tip of the peninsula where the Rio Chone meets the Pacific. It's the social heart of the town — the place to walk in the evening, watch the fishing boats come and go, and look across the estuary to San Vicente on the opposite bank. A pedestrian bridge connects the two towns.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 story: "The Dresdner Schwebebahn opened in 1901 as the world's first suspension railway — not the Wuppertal Schwebebahn, which many people assume, but this one, which predates it by a year. The cars hang below the single overhead rail and sway gently as they rise 84 metres up the hillside to Oberloschwitz. It has been operating on the same route ever since, making it not just a historic curiosity but a functioning piece of Dresden's public transport network."
+score: 7.2
 ---
 
 The Dresdner Schwebebahn is easy to miss if you don't know to look for it, but it is one of the most unusual pieces of public infrastructure in Europe. A single suspended rail car hangs from an overhead track and climbs 1.6 kilometres from Loschwitz on the Elbe valley floor up to Oberloschwitz on the ridge above, rising 84 metres through the trees. The views over the Elbe and the Dresden skyline are excellent.

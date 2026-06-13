@@ -6,6 +6,7 @@ longitude: -86.78
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The east-coast road is the best half-day trip on Cozumel — a stretch of wild, windswept Caribbean coastline almost entirely free of development. A single road follows the shore from south to north past low limestone cliffs, sweeping beaches, and a handful of palapa restaurants.

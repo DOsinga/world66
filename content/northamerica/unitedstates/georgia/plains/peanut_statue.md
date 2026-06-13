@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The 13-foot grinning peanut was built by Indiana Democrats for a 1976 Carter campaign rally in Evansville. After the rally it was donated to Plains, which had nowhere obvious to put it; it spent decades being moved around town before settling at its current spot on US 280. Its giant teeth are a deliberate caricature of Carter's famous smile.
+score: 5.2
 ---
 
 A 13-foot fibreglass peanut with a comically wide grin, standing in a grassy lot just east of downtown. Built in 1976 by Indiana Democrats for a campaign stop in Evansville, then shipped to Plains as a gift from the state party. The teeth are sized and shaped to mimic Carter's smile.

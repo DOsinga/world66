@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: 55.5347
 longitude: 21.1339
+score: 8.0
 ---
 
 The main attraction in Juodkranté — the second town on the Curonian Spit driving south from Klaipėda — is the Hill of Witches (Raganų kalnas, also called Jonas Hill). It's a tree-covered slope of old parabolic dunes, and since 1979 an open-air gallery of wooden sculptures depicting characters from Lithuanian mythology has lined the path through it.

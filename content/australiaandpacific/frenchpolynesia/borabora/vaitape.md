@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -16.5064
 longitude: -151.7494
+score: 7.0
 ---
 
 Vaitape is the main town and commercial centre of Bora Bora, sitting on the western shore of the main island and facing the deep channel where cruise ships anchor and ferries from Tahiti arrive. It is a small, unpretentious settlement — a few streets of shops, the market, the post office, the gendarmerie, and a scattering of restaurants and snack bars.

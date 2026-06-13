@@ -6,6 +6,7 @@ longitude: 101.7450
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Jeriau Waterfall is a short walk from the town centre — the trail begins off the main road and takes about twenty minutes through secondary forest to reach the falls, which drop cleanly into a pool suitable for swimming. It is the most visited natural feature on Fraser's Hill, and for good reason: the combination of cool water (genuinely cool, at this altitude) and forested surroundings makes it a reliably pleasant place to spend a couple of hours.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 35.2962
 longitude: 25.4866
+score: 6.8
 ---
 
 Potamos Beach lies east of Malia, close to the archaeological zone, and is usually the better beach for travellers who want sand and sea without being swallowed by the resort strip. The water is clear, the beach is broad enough to breathe, and the palace is nearby.

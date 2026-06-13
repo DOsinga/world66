@@ -9,6 +9,7 @@ tags:
 title: Esztergom Basilica
 type: poi
 story: "The basilica took over 60 years to complete, from 1822 to 1869. The building was funded partly by donations — Archbishop János Simor contributed a large portion of his personal fortune for the final push — and partly by revenues from church estates that spanned much of northern Hungary. Franz Liszt composed and conducted a mass specially for the consecration."
+score: 9.3
 ---
 
 The Primatial Basilica of the Assumption dominates the hill above the Danube with an authority that feels less architectural than geological. At 72 metres high and with a dome diameter that rivals St Peter's in Rome, it is Hungary's largest church and the seat of the country's most senior Catholic prelate. The Archbishop of Esztergom-Budapest still holds the title of Prince Primate of Hungary, a dignity that dates back to the founding of the Hungarian state.

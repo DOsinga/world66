@@ -8,6 +8,7 @@ tags:
 title: Palace Restaurant Al Fassia
 type: poi
 snippet: "Classic Fassi palace-restaurant with live music and fixed menus in a restored riad"
+score: 6.3
 ---
 
 Al Fassia is the archetype of the Fez palace restaurant experience — an enormous restored riad with painted cedar ceilings, zellige floors, and musicians playing *gnaoua* and Andalusian music in the central courtyard while you eat a five-course set menu. The format is always the same: salads, bastilla, tagine, couscous, pastries, mint tea. It is designed for groups and tourist circuits, and makes no apology for that.

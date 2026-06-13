@@ -6,6 +6,7 @@ longitude: 56.0167
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Wadi Shawka is the easiest mountain hike in the UAE — a marked 5.4-kilometre loop running through a dry stream bed in the Hajar foothills southeast of the city. The trail was sponsored by the RAK government as part of a small network of well-signposted walks, and has white-painted stone cairns at regular intervals.

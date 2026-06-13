@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.7
 ---
 
 The Pointe des Mossettes rises to 2,277 metres directly above Les Crosets and is the most accessible peak in the area. A chairlift from the village runs almost to the summit in winter, and the views from the top take in the Dents du Midi across the valley, the high pastures of Chablais, and on a clear day the curve of Lake Geneva to the north.

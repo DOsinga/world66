@@ -8,6 +8,7 @@ latitude: 46.175752777777774
 longitude: 6.806272222222222
 sources:
   - https://en.wikipedia.org/wiki/Pas_de_Chavanette
+score: 8.4
 ---
 
 The Pas de Chavanette, universally known as the Swiss Wall, is one of the most famous ski runs in Europe — a brutally steep mogul field that drops directly on the Swiss-French border, connecting the Champéry side to Avoriaz in France. The gradient reaches 78% in places, and on a busy day the moguls are enormous: hard-packed lumps the size of small cars stretching the full width of the face.

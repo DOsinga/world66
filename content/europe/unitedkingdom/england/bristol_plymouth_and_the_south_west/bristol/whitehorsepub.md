@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: White Horse Pub
 type: poi
+score: 4.5
 ---
 
 A straightforward local pub in Bristol with a comfortable, unfussy atmosphere. The food is reliable pub fare — pies, fish and chips, Sunday roasts — and the drinks list covers the usual cask ales alongside a decent wine selection. Plenty of seating inside makes it a good option when you want a relaxed meal without a reservation.

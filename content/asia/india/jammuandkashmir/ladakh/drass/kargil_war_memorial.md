@@ -15,6 +15,7 @@ story: >
   a clear day and look north: the peaks of Tololing and Tiger Hill are visible
   against the sky — the same ground those men died to retake. Point 4875, now
   renamed Batra Top after Captain Vikram Batra, is the summit to the left.
+score: 8.2
 ---
 
 The Kargil War Memorial stands on the Srinagar–Leh highway about five kilometres east of Drass, built to honour the Indian soldiers killed during the 1999 conflict with Pakistan. The centrepiece is a curved pink sandstone wall inscribed with the names of the dead. Artillery pieces captured or used during the war are displayed on the grounds, and the Captain Manoj Pandey Gallery documents the campaign through photographs and artefacts. A 30-metre flag pole flies a large national flag that is visible from the highway well before you reach the gate.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Aghlabid Basins were engineering marvels of the 9th century — one large circular basin (128 metres in diameter) connected to a smaller settling basin through which water from aqueducts was purified before distribution to the city. The system supplied Kairouan for centuries with no pumps and no machinery, using only gravity and the discipline of Islamic hydraulic engineering.
+score: 7.8
 ---
 
 The Aghlabid Basins are a set of enormous 9th-century water reservoirs built by the Aghlabid dynasty to supply Kairouan with drinking water. The main basin is a circle nearly 130 metres in diameter and several metres deep — a structure that would be impressive in any era, let alone the 9th century. The complex functioned as a settling and purification system fed by an aqueduct running from the hills to the west.

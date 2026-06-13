@@ -8,6 +8,7 @@ latitude: 45.5388
 longitude: -78.3516
 story: >
   Algonquin was Ontario's first provincial park, established in 1893 partly to protect the headwaters of rivers flowing south to Georgian Bay. The landscape painter Tom Thomson, who died mysteriously here in 1917, captured its moose-browsed lakes and jack pine ridges so vividly that his canvases became the visual language through which most Canadians imagine wilderness.
+score: 9.1
 ---
 
 Algonquin Provincial Park begins just east of Huntsville — the West Gate is roughly 30 minutes along Highway 60 — making Huntsville the most convenient base for exploring it. The park covers nearly 8,000 square kilometres of Canadian Shield, a mix of boreal forest, hardwood ridges, and more than 2,400 lakes. In autumn, when the maples turn, the Highway 60 corridor through the park is one of the most intensely coloured drives in eastern Canada.

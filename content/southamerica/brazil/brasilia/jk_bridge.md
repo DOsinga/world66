@@ -8,6 +8,7 @@ story: Inaugurated in 2002, the JK Bridge was Brasília's first new monument add
 tags:
 - things_to_do
 - landmark
+score: 7.0
 ---
 
 The Ponte JK, opened in 2002, crosses Lake Paranoá in three diagonal steel arches that lean alternately left and right — the most photographed modern landmark in Brasília. The 1,200-metre bridge connects the eastern Pilot Plan with the Lago Sul residential area.

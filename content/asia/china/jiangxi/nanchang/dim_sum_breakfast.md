@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.6760
 longitude: 115.8980
+score: 7.1
 ---
 
 Nanchang takes breakfast seriously. Beyond the signature bànfěn noodles, the morning food options are extensive: rice porridge with preserved egg and pork (皮蛋瘦肉粥), deep-fried dough sticks (油条) sold with warm soy milk from sidewalk carts, and steamed dumplings (汤包) with thin skin and soup inside. The best breakfast experience is to walk any residential street between 6am and 8:30am and follow the queue.

@@ -12,6 +12,7 @@ story: >
   reaches you before you enter the town. It is a genuine agricultural festival
   centred on a real crop, and the atmosphere is entirely different from
   manufactured food tourism events.
+score: 7.6
 ---
 
 Hatch, New Mexico, about 65 kilometres north of Las Cruces on NM-185 (a more scenic alternative to I-25), is the self-proclaimed chile capital of the world — and the claim is well-supported. The Hatch Valley produces the majority of New Mexico's commercial chile crop, with a microclimate of hot days and cool nights that develops the flavour of the Hatch Green Chile beyond anything grown elsewhere. Drive the route in late August and the air smells of roasting chiles for kilometres.

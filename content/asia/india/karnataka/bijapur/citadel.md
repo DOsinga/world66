@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Old royal precinct enclosed by inner walls — Gagan Mahal, Sat Manzil, Jal Mandir
+score: 7.8
 ---
 
 The Citadel is a separate walled compound inside the larger old city, ringed by its own wall and moat. Most of the original royal buildings are in ruins, but several survive in a recognisable form. The **Gagan Mahal**, where the sultans gave public audience, has two massive arches still standing. The **Sat Manzil** ("seven storeys") is the truncated remains of the palace tower; the upper levels are gone but you can climb what is left for a view across the citadel. The **Jal Mandir**, a small pavilion in a stone tank, was the sultans' summer pleasure house.

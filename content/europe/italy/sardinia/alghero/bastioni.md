@@ -9,6 +9,7 @@ tags:
 - old_town
 title: City Walls (Bastioni)
 type: poi
+score: 8.7
 ---
 
 The bastioni — the walls and towers ringing the old town — were rebuilt and reinforced by the Aragonese and Spanish through the 16th century, replacing a smaller medieval circuit. Seven defensive towers survive of the original eleven, and the sea-facing walls have been converted into a continuous pedestrian promenade. Walking the full circuit takes around 45 minutes; doing it at sunset, with the sea on one side and the cathedral towers on the other, is the closest thing Alghero has to a single must-do experience.

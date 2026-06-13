@@ -9,6 +9,7 @@ latitude: 56.9041
 longitude: 12.4914
 sources:
   - https://en.wikipedia.org/wiki/Falkenberg_Old_Town_Hall
+score: 5.8
 ---
 
 The yellow-stuccoed Old Town Hall on the central square is the prettiest civic building in town — a neoclassical box from 1826 with a low pitched roof and a small clock turret. The municipality outgrew it long ago, but it has been kept in use and now hosts exhibitions and civic events.

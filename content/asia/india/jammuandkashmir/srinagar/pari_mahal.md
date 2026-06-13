@@ -8,6 +8,7 @@ tags:
   - dal_lake_area
 latitude: 34.1317
 longitude: 74.8567
+score: 8.1
 ---
 
 Pari Mahal — "Palace of the Fairies" — is a ruined seven-terraced garden palace perched on a spur of the Zabarwan Hills above Chashme Shahi, overlooking Dal Lake from the south. Built by Dara Shikoh, the eldest son of Shah Jahan, in the 17th century as a library and observatory for his Sufi teacher Mulla Shah, it was converted into a garden after the complex was damaged by subsequent rulers. The terraced retaining walls and arched niches are largely intact; the gardens have been replanted in a formal style.

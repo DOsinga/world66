@@ -6,6 +6,7 @@ longitude: 120.2850
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 JEST (Jungle Environmental Survival Training) Camp was the actual US Navy SEAL jungle survival training school during the Vietnam War. Today it operates as a low-key visitor centre and survival-skills demonstration site, still run with the participation of the Aeta who taught the SEALs.

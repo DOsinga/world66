@@ -8,6 +8,7 @@ tags:
 latitude: 49.2811
 longitude: -122.7961
 snippet: A Chinese-themed shopping centre in central Coquitlam, with a strong food and Asian retail focus
+score: 6.0
 ---
 
 Henderson Place Mall is a smaller specialty shopping centre across the road from the much larger [Coquitlam Centre](/northamerica/canada/britishcolumbia/vancouver/coquitlam/coquitlam_centre). It opened in 1993 and was designed with an explicitly Chinese architectural theme — a red pagoda-style entrance, a central courtyard with a koi pond, and the tenant mix oriented toward the Chinese-Canadian community.

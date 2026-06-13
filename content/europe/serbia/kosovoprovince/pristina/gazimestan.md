@@ -11,6 +11,7 @@ story: >
   delivered a speech to an audience of a million Serbs. The speech, with its warning that "armed struggle
   cannot be excluded," is widely regarded as the opening salvo of the wars that would tear Yugoslavia apart.
   The monument was present for both a medieval battle and a modern one.
+score: 6.0
 ---
 
 The Gazimestan monument stands on the Kosovo Polje plain about 10km north of Pristina, marking the site of the 1389 Battle of Kosovo — the clash between the Ottoman forces of Sultan Murad I and the Serbian army of Prince Lazar that became the defining myth of Serbian national identity. Both commanders died in the battle, and the Ottomans won decisively, beginning their control of the region that would last five centuries.

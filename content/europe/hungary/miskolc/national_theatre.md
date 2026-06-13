@@ -9,6 +9,7 @@ latitude: 48.0989
 longitude: 20.7908
 sources:
   - https://en.wikipedia.org/wiki/National_Theatre_of_Miskolc
+score: 6.7
 ---
 
 The National Theatre of Miskolc is one of Hungary's oldest regional theatres, with roots going back to the early 19th century. The current building, a neo-baroque structure at the southern end of Széchenyi Street, dates from 1857 and was one of the first purpose-built theatres outside Budapest. It hosts drama, opera, and dance, and has a reputation for strong productions.

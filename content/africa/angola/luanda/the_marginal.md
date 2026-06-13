@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -8.8180
 longitude: 13.2340
+score: 6.6
 ---
 
 The Marginal (Avenida 4 de Fevereiro) is Luanda's waterfront promenade, running along the bay from the commercial port in the north to the bridge to the Ilha do Cabo in the south. It was significantly upgraded in the oil-boom years of the 2000s and early 2010s, with a wide paved walkway, gardens, and restored colonial facades on the inland side.

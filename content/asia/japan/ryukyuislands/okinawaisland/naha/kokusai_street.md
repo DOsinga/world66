@@ -13,6 +13,7 @@ story: >
   shops catering to US military personnel. The nickname stuck long after the
   character changed, and what had been called "the Miracle Mile" for its improbable
   post-war revival is now Naha's main tourist drag.
+score: 7.2
 ---
 
 Kokusai Street is a 1.6-kilometre pedestrianised-ish strip running through the heart of Naha, lined with souvenir shops, restaurants, izakayas, and the occasional traditional craft store. It is touristy and crowded in the evenings but not without charm — the density of activity, the smell of cooking, the Okinawan music drifting out of doorways, gives the street a genuine vitality.

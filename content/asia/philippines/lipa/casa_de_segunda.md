@@ -12,6 +12,7 @@ story: >
   The house is named for Segunda Katigbak, who was briefly the subject of the young José Rizal's romantic interest in 1877, when Rizal was a 16-year-old student. Rizal noted in his diary that he was captivated by Segunda, though she was already engaged to another man. The connection gives the house a small but enduring place in Philippine literary history.
 sources:
   - https://en.wikipedia.org/wiki/Casa_de_Segunda
+score: 7.8
 ---
 
 The Casa de Segunda — also known as the Luz-Katigbak House — is a preserved 19th-century ancestral house on Rizal Street in central Lipa, now operated as a heritage museum. It is a fine example of the bahay na bato style, the stone-and-wood hybrid architecture that wealthy Filipino families favoured in the colonial period: stone ground floor for storage and flood protection, wooden upper storey with capiz shell windows for the living quarters.

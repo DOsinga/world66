@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Kuto Besak ("Great Fortress" in Palembang Malay) is an eighteenth-century kraton — a fortified Malay palace — overlooking the Musi River just west of the Ampera Bridge. Construction began in 1780 under Sultan Mahmud Badaruddin I and took seventeen years; the walls of stone and laterite are the only surviving sultanate fortress in Indonesia built entirely without Dutch construction help.

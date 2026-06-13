@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.1554
 longitude: -89.0699
+score: 6.2
 ---
 
 The Guava Limb Cafe is San Ignacio's most ambitious restaurant, set in a former Maya healer's house on a side street off Burns Avenue. The kitchen sources locally — much of the produce from its own farm outside town — and the menu rotates seasonally between Belizean classics done well and Mediterranean-tinged plates.

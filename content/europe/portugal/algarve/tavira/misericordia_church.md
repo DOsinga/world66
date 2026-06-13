@@ -14,6 +14,7 @@ story: >
   Antwerp, and Flemish merchants and craftsmen were resident in the town. The portal's
   combination of classical columns, elaborate canopy, and figurative sculpture is unique in
   southern Portugal.
+score: 8.0
 ---
 
 The Igreja da Misericórdia, a few steps from the main square, dates from the sixteenth century and contains what is considered the finest Renaissance doorway in the Algarve. The carved stone portal features elaborate Flemish-influenced ornament that reflects Tavira's mercantile connections during the Age of Discovery. The interior has an azulejo (blue tile) panel depicting works of mercy that is among the better examples of eighteenth-century tilework in the region.

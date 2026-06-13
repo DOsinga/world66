@@ -5,6 +5,7 @@ author: "John Steinbeck"
 isbn: "978-0143039433"
 tags:
   - books
+score: 7.3
 ---
 
 The Pulitzer-winning 1939 novel that defined the world's image of Dust Bowl Oklahoma — and arguably Oklahoma itself — for two generations. Steinbeck's Joad family, evicted from their Oklahoma farm in the great drought, drive west on Route 66 looking for work in California; what they find there is just as harsh as what they left.

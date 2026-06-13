@@ -7,6 +7,7 @@ tags:
   - culture
 latitude: 31.1378
 longitude: -3.9795
+score: 7.0
 ---
 
 Khamlia is a small village about 7 kilometres north of Merzouga, home to a community descended from sub-Saharan Africans who were brought to the region as enslaved people centuries ago. They have maintained a distinct cultural tradition — the Gnawa — built around hypnotic, repetitive music played on the guimbri (a three-stringed bass lute), krakeb (iron castanets), and voice. The music was originally ceremonial, used in healing rituals, and it has an immediacy and depth that distinguishes it from anything else in Morocco.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "8,000-foot forested ridge just south of the city"
+score: 7.8
 ---
 
 A long, forested ridge rising 2,500 feet directly above town — the visual backdrop to every street

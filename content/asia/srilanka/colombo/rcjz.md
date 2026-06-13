@@ -9,6 +9,7 @@ tags:
 title: The Basement
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 5.9
 ---
 
 Colombo's craft bar scene is centred on Cinnamon Gardens, where a cluster of bars and restaurants has developed in the area around Flower Road and Barnes Place. The Basement is one of the more consistent: a proper cocktail bar with a knowledgeable team making drinks that go beyond the standard hotel fare. The arrack-based cocktails are the best reason to come.

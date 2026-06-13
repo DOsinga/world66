@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Inhotim day trip
 type: poi
+score: 9.4
 ---
 
 A day trip out to Inhotim, the open-air contemporary art park 60 km west of the city, is the single most rewarding excursion for most cultural visitors to Belo Horizonte. The park covers 140 hectares of botanic garden punctuated by 23 individual gallery pavilions; allow a full day and consider a second.

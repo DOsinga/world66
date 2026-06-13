@@ -8,6 +8,7 @@ latitude: 40.6175
 longitude: 14.5492
 story: >
   Every August since 1982, cliff divers have competed at the Fiordo di Furore in a competition that has become one of the most watched in European cliff diving. The divers launch themselves from the old bridge 30 metres above the gorge — a height that requires precise technique to survive without injury. The competition is part of the World Cliff Diving Series and draws thousands of spectators to the narrow walls of the fjord.
+score: 8.7
 ---
 
 The Fiordo di Furore is a narrow gorge where a small stream cuts through the limestone cliffs of the Amalfi Coast to meet the sea in a hidden cove. The gorge is only a few metres wide at its base, closed in by rock walls that keep it in shadow for much of the day. A flight of steps descends from the road above to a small pebbly beach where fishing boats were once dragged up.

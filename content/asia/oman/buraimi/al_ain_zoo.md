@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.18
 longitude: 55.7392
+score: 6.5
 ---
 
 The Al Ain Zoo is one of the largest zoological gardens in the Arabian peninsula — over 900 hectares with around 4,000 animals, of which many are native Arabian species. The captive-breeding programme for the **Arabian oryx**, which was driven extinct in the wild in the 1970s and reintroduced from zoo stock, is one of the great conservation successes of the region and is centred here.

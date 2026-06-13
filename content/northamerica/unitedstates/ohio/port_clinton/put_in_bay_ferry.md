@@ -7,6 +7,7 @@ tags:
 latitude: 41.5160
 longitude: -82.9370
 snippet: "Gateway to Put-in-Bay and the Lake Erie islands — ferries depart frequently in summer"
+score: 7.6
 ---
 
 Port Clinton is the main launch point for the Lake Erie islands. The Miller Ferry and Jet Express both operate from the town's waterfront, running regular services to Put-in-Bay on South Bass Island and to Kelleys Island throughout the summer season (roughly May to October). The crossing to South Bass Island takes about 20 minutes by regular ferry, less on the faster Jet Express.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, historic]
 latitude: 18.45722
 longitude: -66.073888
+score: 7.5
 ---
 
 La Concha is one of the most architecturally distinctive buildings on the Caribbean coast. Built in 1958 and designed to evoke the curved form of a conch shell, it represents the high point of mid-century tropical Modernism — the style that briefly flourished in Puerto Rico during the postwar tourism boom before international chains arrived with their standardized boxes. The building was derelict for years before restoration and reopening; it now operates as a resort hotel.

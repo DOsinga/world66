@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Russian Orthodox cathedral in the colonial-era European quarter"
+score: 6.2
 ---
 
 The cathedral of St Alexis of Moscow sits in what was the Russian colonial quarter of Samarkand, laid out by Tsarist planners in the 1870s on a separate grid south-west of the old town. The current building is a 1909 brick reconstruction of an earlier wooden church, in a sober neo-Byzantine style; the small belltower and onion dome are still in everyday use by Samarkand's surviving Russian and Tatar Orthodox communities.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The castle was largely empty and crumbling for a century until a long restoration finished in 2021. Inside the keep, builders discovered a hidden chapel with medieval frescoes that had been plastered over and forgotten."
+score: 7.8
 ---
 
 Heinfels Castle sits on a rocky knoll above the village of the same name and dominates the western end of the Hochpustertal. The hilltop has been fortified since the twelfth century, when the Counts of Görz built it to control the road into the Drau valley. Walls, towers, and a Romanesque keep climb the rock in a tight, defensive group.

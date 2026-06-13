@@ -6,6 +6,7 @@ longitude: 101.6208
 tags:
   - things_to_do
   - neighbourhood
+score: 7.3
 ---
 
 SS2 is the most beloved of the PJ sections — a square mile of shophouses, hawker stalls, and old kopitiams that has been the city's de facto food and social centre for fifty years. The central square (technically Jalan SS2/64) is ringed with restaurants and bakeries; the surrounding streets fill in with everything from foot reflexology to mahjong parlours.

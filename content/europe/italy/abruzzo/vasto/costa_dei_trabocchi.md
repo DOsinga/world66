@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The trabocchi are old wooden fishing platforms, built on stilts out into the shallow water, with a net rigged on long poles that can be cranked up and down by a single fisherman. Gabriele D'Annunzio described them in 1889 as 'enormous spiders' clinging to the rocks. A few have been converted into restaurants, where you eat what was caught that morning a few metres from your table."
+score: 7.9
 ---
 
 The Costa dei Trabocchi runs the southern stretch of the Abruzzo coast from Ortona down to Vasto and beyond, taking its name from the traditional wooden fishing platforms that still cling to the rocks at intervals along the cliffs. A cycle and walking path — the **Via Verde dei Trabocchi** — now runs the length of the coast on a converted railway line.

@@ -7,6 +7,7 @@ tags:
 title: "Galerie Neue Meister"
 type: poi
 story: "The collection includes Caspar David Friedrich's 'Two Men Contemplating the Moon' and 'Rocky Landscape in the Elbe Sandstone Mountains' — Friedrich was born in Greifswald but spent most of his working life in Dresden, painting the Saxon landscape obsessively, and the Neue Meister holds the finest concentration of his work anywhere."
+score: 8.0
 ---
 
 The Gallery of New Masters in the Albertinum holds the strongest collection of nineteenth and early twentieth-century paintings in the eastern German states. The focus is on German Romantic and Realist painting — Caspar David Friedrich above all, but also Ludwig Richter, Carl Gustav Carus, and Johann Christian Clausen Dahl — alongside Impressionist and Post-Impressionist works by Monet, Degas, Van Gogh, and Gauguin.

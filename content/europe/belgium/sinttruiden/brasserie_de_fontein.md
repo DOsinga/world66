@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 50.8153
 longitude: 5.1860
+score: 5.5
 ---
 
 A reliable brasserie on the Grote Markt, serving Belgian classics including mussels in season, stoemp (mashed potatoes with vegetables and bacon), and seasonal preparations using local Haspengouw fruit. The terrace faces the square, with the belfry tower overhead and the Saturday market happening around you on weekend mornings.

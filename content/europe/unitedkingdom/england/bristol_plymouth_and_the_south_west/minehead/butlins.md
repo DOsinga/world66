@@ -6,6 +6,7 @@ longitude: -3.4567
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The Butlin's holiday camp at the east end of Minehead has been part of the town since 1962 and is, in its way, a piece of social history — one of the last surviving British family holiday camps, complete with chalet rows, indoor water park, and big-tent entertainment. The white skyline pavilion is visible from miles along the coast.

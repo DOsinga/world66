@@ -1,6 +1,7 @@
 ---
 title: "Playa Potrero"
 type: poi
+score: 7.5
 ---
 
 Playa Potrero is the village's own beach — a wide, gently curving bay of dark volcanic sand that stretches for nearly two kilometres. The headlands on either side shelter it from the open Pacific swell, making the water calm and suitable for swimming almost year-round. The colour of the sand surprises visitors used to the white beaches nearby, but the water is warm and clear, and the bay is considerably less crowded than Tamarindo or even Flamingo in high season.

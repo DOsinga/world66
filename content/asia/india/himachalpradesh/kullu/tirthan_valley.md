@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.6333
 longitude: 77.3833
+score: 7.8
 ---
 
 Tirthan is the quieter alternative to Parvati, an hour and a half south of Kullu by road. The valley is the buffer zone for the Great Himalayan National Park, so big-resort development has been kept out and the villages still feel like working communities of stone-and-slate houses among apple orchards.

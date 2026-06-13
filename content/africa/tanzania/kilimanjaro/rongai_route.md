@@ -10,6 +10,7 @@ tags:
 - trekking
 title: Rongai Route
 type: poi
+score: 8.4
 ---
 
 The Rongai Route approaches Kilimanjaro from the north, near the Kenyan border. It is one of the quieter routes on the mountain and offers a different perspective from the more popular southern approaches. The trail passes through pine forest before reaching open moorland, and the views north towards Kenya are expansive.

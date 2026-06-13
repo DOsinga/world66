@@ -12,6 +12,7 @@ story: >
   exist. Word spread slowly through the adventure travel community around
   Lumiar, and by the time he died the place had become a pilgrimage for
   walkers who value the quietly extraordinary over the officially significant.
+score: 8.0
 ---
 
 A hidden gorge near Lumiar where a local artist spent years carving figures and arranging sculptures among the moss-covered boulders and cascades of the Rio do Vieira. The garden occupies a narrow ravine filled with ferns, hanging roots, and the sound of water, and the transition from the surrounding trail into the enclosed space of the garden is abrupt and affecting. The carvings emerge gradually as your eyes adjust — faces in the rock, figures half-submerged in moss, arrangements of stone that are clearly intentional without ever declaring themselves Art.

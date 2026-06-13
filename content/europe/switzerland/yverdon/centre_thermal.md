@@ -9,6 +9,7 @@ longitude: 6.6485
 snippet: Modern thermal baths fed by sulphurous springs at 29°C — the city's defining attraction
 story: >
   The Romans named the place Eburodunum and built baths here in the first century AD; the modern Centre Thermal sits more or less on the same spot. Roman remains, including bath foundations and an altar to the local water god Apollo Eburodunus, were uncovered when the present complex was extended in the 1970s.
+score: 8.0
 ---
 
 The Centre Thermal is what brings most visitors to Yverdon. Five outdoor and indoor pools are filled with sulphurous mineral water emerging from underground at around 29°C, fed by a spring that the Romans were already using two thousand years ago. The water is rich in sulphate, calcium, and magnesium, and is officially recognised as a therapeutic spring for rheumatology and respiratory complaints.

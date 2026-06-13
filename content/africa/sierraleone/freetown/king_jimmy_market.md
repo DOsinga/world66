@@ -9,6 +9,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4860
 longitude: -13.2350
+score: 7.8
 ---
 
 King Jimmy Market spills down the slope from Pademba Road to the waterfront, with stalls selling fresh fish from the canoes pulled up on the bay, vegetables, palm oil by the bottle, smoked bonga fish, and everything else Freetown households need. It is one of the most intense urban experiences in West Africa.

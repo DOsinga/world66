@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 44.2576
 longitude: -88.4052
+score: 4.9
 ---
 
 In Riverside Cemetery on the south side of Appleton stands a single gravestone set apart from the rest — the marker of Kate Blood, who died in 1874 at age 34. Local legend has accumulated around the isolated stone for a century and a half: some say the church refused to bury her among the righteous, others claim the grass around her grave never grows.

@@ -14,6 +14,7 @@ story: >
   panoramic views in letters home — descriptions that hold up today.
 sources:
   - https://en.wikipedia.org/wiki/Maryland_Heights_(mountain)
+score: 8.8
 ---
 
 Maryland Heights is the prominent ridge on the Maryland side of the Potomac, directly across from Harpers Ferry, and the hike to its summit is the best short walk in the area. The trail begins at the C&O Canal towpath, crosses the Potomac footbridge, and climbs steeply through hardwood forest to the summit, where Civil War fortifications — stone walls, earthworks, and the ruins of a naval battery — occupy a clearing with 360-degree views.

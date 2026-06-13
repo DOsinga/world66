@@ -8,6 +8,7 @@ latitude: 21.1886
 longitude: 72.8294
 story: >
   The lake takes its name from a Mughal governor's beloved daughter named Gopi, who is said to have drowned here in the 17th century. The story may be legend, but the lake has carried her name ever since. A small shrine near the water commemorates her, and the neighbourhood around the lake is still called Gopipura — the settlement of Gopi's people.
+score: 5.9
 ---
 
 Gopi Talav is a historic lake in the Gopipura neighbourhood of central Surat, one of the oldest parts of the city. The lake and its surrounding gardens provide a relatively quiet space within the urban fabric and are popular with locals for early morning walks and evening relaxation.

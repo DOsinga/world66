@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -38.7780
 longitude: -62.2720
+score: 8.0
 ---
 
 The port district of Ingeniero White, about five kilometres south of the city centre, is the most characterful part of Greater Bahía Blanca. This industrial port neighbourhood is simultaneously the origin of some of Argentina's most celebrated tango music — several famous tangos of the early 20th century were written here or named for this part of the country — and a working waterfront where grain elevators and petroleum facilities dwarf the small wooden houses.

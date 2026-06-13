@@ -9,6 +9,7 @@ tags:
 - de_waterkant
 title: Cape Quarter
 type: poi
+score: 5.6
 ---
 
 Cape Quarter is a converted warehouse complex in the heart of De Waterkant, housing a mix of boutiques, design shops, restaurants and delis around a central courtyard and piazza. It is the commercial anchor of the neighbourhood and the easiest starting point for exploring the area.

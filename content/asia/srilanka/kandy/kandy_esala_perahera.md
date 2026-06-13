@@ -14,6 +14,7 @@ story: >
   By the late nineteenth century, British governors were seated in the reviewing stand at
   the beginning of the route — participating in a ceremony that had been associated with
   Sinhalese royal authority for five centuries.
+score: 9.4
 ---
 
 The Esala Perahera is the greatest annual festival in Sri Lanka and one of the most spectacular processions in Asia. Held over ten nights in July or August (the date follows the Buddhist lunar calendar), it features elephants — up to 100, including the Maligawa Tusker who carries a replica casket of the tooth relic — plus fire dancers, whip crackers, drummers, torch bearers, and thousands of costumed participants.

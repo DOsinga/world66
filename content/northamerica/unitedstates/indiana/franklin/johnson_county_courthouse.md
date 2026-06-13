@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.4813
 longitude: -86.1308
+score: 7.4
 ---
 
 The Johnson County Courthouse anchors the centre of Franklin's downtown square, a Richardsonian Romanesque building of 1883 with the kind of civic confidence common to county seats that peaked in the late 19th century. The rough-cut limestone exterior, arched windows, and central tower make it the most architecturally substantial building in town.

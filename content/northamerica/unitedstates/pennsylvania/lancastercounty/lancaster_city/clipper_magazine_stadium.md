@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 40.0461
 longitude: -76.3160
+score: 5.7
 ---
 
 The home of the Lancaster Stormers, a minor-league professional baseball team in the Atlantic League. The stadium opened in 2005 on the north side of downtown, a 10-minute walk from Penn Square. Tickets are cheap, the seating is intimate, and the surrounding neighbourhood is walkable.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Spluga della Preta
 type: poi
+score: 6.7
 ---
 
 A famous limestone abyss high on the southern slopes of the Corno d'Aquilio, west of the plateau's centre. The entrance is a modest oval shaft in the pasture; from it the cave drops in a series of pitches to a known depth of 985 metres, making it one of the deepest in Italy. For most of the twentieth century it was thought to be the deepest in the world, and Italian speleology cut its teeth on the long ropework descents needed to reach the bottom.

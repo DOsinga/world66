@@ -9,6 +9,7 @@ latitude: 11.1701
 longitude: 123.7228
 story: >
   The name "Kota" comes from the Spanish word "cota," meaning fort or defensive position, referencing a small Spanish watchtower that once stood here to guard against pirate raids from the Moro communities of Mindanao and the Sulu Sea. Bantayan Island's shallow waters and accessible beaches made it a regular target for slave raids throughout the Spanish colonial period.
+score: 8.4
 ---
 
 Kota Beach at Santa Fe is the main reason most people come to Bantayan — a long, white-sand beach of fine powdery sand that shelves gently into clear, shallow water. The calm is partly geographic: Bantayan sits in a relatively sheltered position between Cebu and Negros, with the Visayan Sea to the west and Cebu Channel to the east, so significant swell is rare.

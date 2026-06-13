@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.1163
 longitude: -88.2432
+score: 6.0
 ---
 
 One of the better sit-down restaurants in Champaign's downtown, a few blocks east of the Virginia Theatre. The menu centres on regionally sourced American cooking — roasted vegetables, good steaks, seasonal preparations that reflect what grows nearby. It occupies a comfortable middle ground between the student-oriented Green Street options and the more formal dining rooms that open briefly and close.

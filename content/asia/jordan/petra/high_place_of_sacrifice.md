@@ -8,6 +8,7 @@ tags:
 latitude: 30.3219
 longitude: 35.4475
 story: "Two carved channels run from a raised platform to a drain that disappears off the cliff edge. The blood of sacrificed animals — and almost certainly people too, in the earliest period — was channelled away from the worshippers."
+score: 8.9
 ---
 
 A Nabataean ritual platform on top of Jebel al-Madhbah, the long ridge above the main valley. The climb is roughly 800 steps, similar to the Monastery but on the opposite side, and the route can be done as a circular walk down the back of the mountain through the Wadi Farasa, past tombs and a small Roman soldier's tomb facade.

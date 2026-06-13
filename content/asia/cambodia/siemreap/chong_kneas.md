@@ -7,6 +7,7 @@ tags:
 - nature
 title: Chong Kneas Floating Village
 type: poi
+score: 6.2
 ---
 
 **Chong Kneas** is the most accessible of the Tonlé Sap's floating villages, located about 15 kilometres south of Siem Reap at the point where the Siem Reap River empties into the lake. It is a genuine floating community of several thousand people who live in houses built on wooden platforms, which rise and fall with the lake's 8-9 metre annual water level change. Boat tours depart from the main pier and take about two hours to cover the village, a school, a floating monastery, and the open lake.

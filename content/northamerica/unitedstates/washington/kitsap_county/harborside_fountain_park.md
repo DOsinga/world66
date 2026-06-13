@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 neighbourhood: Bremerton
+score: 5.6
 ---
 
 A small piece of waterfront landscape architecture between the Bremerton ferry terminal and the boardwalk, with five copper-clad cones rising out of a shallow pool — jets of water shoot up and over them in a constantly changing sequence. On a summer afternoon the place fills with kids running through the spray; the rest of the year it is a quiet spot to wait for the ferry.

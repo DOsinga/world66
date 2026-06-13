@@ -13,6 +13,7 @@ story: >
   many of the amphorae are now in the Nino Lamboglia Museum in Albenga, but
   significant archaeological material remains on the seabed and the site is
   protected.
+score: 8.2
 ---
 
 Spargi is one of the uninhabited outer islands of the archipelago, and its beaches are consistently ranked among the finest in the park. Cala Granara, on the east side of the island, is an open bay with brilliant turquoise water and a long beach backed by pink granite boulders. It is accessible only by boat and consequently less crowded than beaches closer to La Maddalena.

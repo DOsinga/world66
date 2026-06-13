@@ -9,6 +9,7 @@ longitude: 20.9780
 snippet: "One of Europe's largest Jewish cemeteries, with over 200,000 graves spanning 200 years"
 sources:
   - https://en.wikipedia.org/wiki/Okopowa_Street_Jewish_Cemetery
+score: 8.4
 ---
 
 The Okopowa Street Jewish Cemetery is one of the largest Jewish cemeteries in Europe, covering 33 hectares and containing over 200,000 graves dating from 1806 to the present. It survived the war in damaged but recognisable form, and has been gradually restored since. The cemetery is densely forested, its paths shaded by old trees, with extraordinary carved gravestones in Hebrew, Yiddish, Polish, and German.

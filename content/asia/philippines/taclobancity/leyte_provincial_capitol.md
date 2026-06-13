@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Leyte Provincial Capitol
 type: poi
+score: 7.2
 ---
 
 The Leyte Provincial Capitol is a neoclassical 1907 government building at the north end of downtown Tacloban — a long colonnaded facade in cream and white that survived both the Second World War and Typhoon Haiyan with relatively limited damage. It served as the seat of Leyte's provincial government until 2019, when the offices moved out to a new complex in Palo, but the original building has been retained for ceremonial use and is the site of frequent civic events.

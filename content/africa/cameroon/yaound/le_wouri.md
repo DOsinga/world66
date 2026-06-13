@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 3.867
 longitude: 11.518
+score: 6.9
 ---
 
 Le Wouri serves Cameroonian food in a straightforward setting that caters mainly to local diners — which is always a good sign. The house specialties include ndolé (bitter leaf stew with groundnuts and fish or meat), eru (a forest leaf vegetable slow-cooked with waterleaf and palm oil), and sanga (cassava with black-eyed peas). Portions are large and prices are low.

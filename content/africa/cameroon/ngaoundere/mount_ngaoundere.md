@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mont Ngaoundéré
 type: poi
+score: 7.7
 ---
 
 The flat-topped Mont Ngaoundéré rises just southwest of town and gives the city its name — in Mbum it means "navel mountain" for its rounded summit profile. A reasonably clear walking track climbs from the western edge of town in about two hours, ending at a ridge with views over the basalt plateau, the railway snaking south, and on a clear day the Mandara mountains to the north.

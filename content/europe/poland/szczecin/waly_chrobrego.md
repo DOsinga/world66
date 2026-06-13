@@ -10,6 +10,7 @@ title: Wały Chrobrego
 type: poi
 story: >
   The esplanade was built between 1902 and 1921 as a showcase of Imperial German civic ambition — designed by architect Wilhelm Meyer-Schwartau to transform a grubby riverside area into a monumental promenade. The Nazis later renamed it for Hermann Göring. After the war, when the city became Polish, it was renamed again for Bolesław Chrobry, the first Polish king. The same stones, three different names, three different national projects.
+score: 8.8
 ---
 
 The Wały Chrobrego — officially the Chrobry Embankment — is one of the finest surviving examples of early 20th-century German urban planning in what is now Poland. A broad esplanade runs along a terrace above the Oder River, flanked by a row of grand public buildings: the Szczecin Museum, the Maritime Office, and former government offices, all built in the monumental Historicist style typical of Imperial Germany.

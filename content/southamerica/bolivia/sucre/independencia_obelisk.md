@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Tall stone obelisk at Plaza Libertad commemorating 1825
+score: 6.9
 ---
 
 The Obelisco de la Independencia rises at the centre of Plaza Libertad, a small triangular plaza about ten minutes' walk north of Plaza 25 de Mayo. The monument was erected in 1925 for the centenary of Bolivian independence, a tall slim pillar of grey stone with bronze reliefs depicting the heroes of 1825 around its base. A small flame burns at the foot of the column.

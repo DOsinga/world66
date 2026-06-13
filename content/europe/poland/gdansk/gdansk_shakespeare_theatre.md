@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Gdansk Shakespeare Theatre
 type: poi
+score: 7.8
 ---
 
 Gdansk had a strong connection to Elizabethan theatre: English acting troupes toured here from the 1580s onwards, and the city had one of the earliest purpose-built Shakespeare theatres outside England. The current building, opened in 2014, was designed by Renato Rizzi as a striking contemporary reinterpretation of the Elizabethan model — it has a retractable roof to allow open-air performances, a raked yard with standing groundling space, and a stage that can be configured in multiple ways.

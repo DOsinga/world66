@@ -13,6 +13,7 @@ story: >
   trained for years to perform this movement amid noise and confusion. The festival
   has been celebrated since at least the 14th century and is one of the oldest
   continuously held urban equestrian festivals in Europe.
+score: 8.7
 ---
 
 Ciutadella was Menorca's capital until the British moved the seat of government to Maó in the 18th century, and it retains the grander feel of a former capital. The old city centre is built around Baroque palaces and a Gothic cathedral, with narrow lanes and an aristocratic character that Maó — more commercial, more harbour-oriented — doesn't have. The old town is compact and largely pedestrianized; walking it takes a morning.

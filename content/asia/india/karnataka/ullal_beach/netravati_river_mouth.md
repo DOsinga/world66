@@ -8,6 +8,7 @@ latitude: 12.8333
 longitude: 74.8667
 story: >
   The Netravati River carries the runoff from the Western Ghats all the way to the sea here at Ullal. During the monsoon, the river runs red with laterite soil and spreads wide across the estuary, temporarily swallowing the sandbanks where wading birds feed in the dry season.
+score: 7.7
 ---
 
 The point where the Netravati River meets the Arabian Sea, just north of Ullal, is one of the more scenic spots on this stretch of coast. The estuary creates a shifting landscape of sandbars and channels that changes with the tides and seasons. Fishing boats cross the river mouth on their way in and out of Mangalore's harbour, and the opposite bank offers a view back toward the city's skyline.

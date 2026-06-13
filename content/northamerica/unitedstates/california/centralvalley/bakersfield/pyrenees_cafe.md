@@ -8,6 +8,7 @@ tags:
 neighbourhood: Basque District
 latitude: 35.3665
 longitude: -119.0174
+score: 6.8
 ---
 
 The Pyrenees Café on Sumner Street is the third of Bakersfield's classic Basque restaurants and the smallest in feel. It has been operating since 1945 and takes its name from the mountain range that straddles Spain and France where the Basque people have their heartland. The dining room is low-ceilinged and no-frills, with the long communal tables and pitchers of red wine that define the format across all three establishments.

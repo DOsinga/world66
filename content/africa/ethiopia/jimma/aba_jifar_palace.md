@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Kingdom_of_Jimma
   - https://en.wikipedia.org/wiki/Abba_Jifar_II
+score: 8.4
 ---
 
 The Palace of Abba Jifar sits on a hill north of Jimma city, looking out over the surrounding coffee-growing highlands in a way that makes the choice of location feel deliberate. The compound was the seat of the Kingdom of Jimma, a prosperous Oromo Muslim state that controlled the coffee trade across the Gibe region from the early 19th century until its absorption into the Ethiopian Empire in 1932.

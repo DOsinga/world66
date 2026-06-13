@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -8.7335
 longitude: 116.2835
+score: 6.8
 ---
 
 The main road through Sukarara is lined with cooperative showrooms — open-fronted buildings stacked floor-to-ceiling with folded textiles. The cooperatives pool the work of dozens of village families, set fixed prices, and handle haggling so that the weavers themselves do not have to. They are the easiest place for visitors to buy, and the staff are usually willing to spread out twenty or thirty pieces on the floor so you can compare patterns and colours.

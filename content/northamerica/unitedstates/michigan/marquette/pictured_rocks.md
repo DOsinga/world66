@@ -12,6 +12,7 @@ tags:
 - sight
 title: Pictured Rocks National Lakeshore
 type: poi
+score: 9.5
 ---
 
 Pictured Rocks, an hour east of Marquette around the lakeshore, is one of the

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The architect Deusdedit signed the tower with a Latin inscription set into the brickwork, an unusual gesture of pride for the period and one of the earliest surviving signatures by a medieval Italian builder. He clearly knew he had made something special — visible across the Po Delta, the tower has guided sailors and travellers to Pomposa for nearly a thousand years."
+score: 7.8
 ---
 
 The campanile rises 48 metres beside the abbey church, finished in 1063 and visible from miles across the flat marshlands of the Po Delta. It is built of warm red brick decorated with successive bands of double, triple, quadruple and quintuple arched windows that lighten as the eye travels upward — a classic Romanesque trick that gives the structure both elegance and apparent height.

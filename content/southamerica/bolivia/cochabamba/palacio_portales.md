@@ -12,6 +12,7 @@ story: >
   Simón Patiño was one of the richest men in the world in the early 20th century — a Quechua-speaking mestizo who rose from poverty to control a third of the world's tin supply. He commissioned the Palacio Portales in 1915 as a home fit for his status but died without ever living in it: he spent his later years in Europe, reportedly too accustomed to the comfort there to return to Bolivia's altitude.
 sources:
   - https://en.wikipedia.org/wiki/Sim%C3%B3n_Pati%C3%B1o
+score: 8.6
 ---
 
 Palacio Portales is the most extraordinary building in Cochabamba — a European-style mansion built in 1915 by tin magnate Simón Patiño, who at his peak was one of the wealthiest individuals on earth. The building draws on French, Italian, and Moorish influences simultaneously, with lavish interiors of marble, gilded plasterwork, and hand-painted ceramic tiles imported from Europe. The surrounding gardens, laid out in French formal style, are among the best maintained in Bolivia.

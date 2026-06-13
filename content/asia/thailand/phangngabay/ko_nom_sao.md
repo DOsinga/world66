@@ -7,6 +7,7 @@ tags:
 latitude: 8.3123
 longitude: 98.5172
 snippet: "Twin limestone islets whose silhouette gave them their frank Thai name"
+score: 5.8
 ---
 
 Ko Nom Sao — which translates straightforwardly as "female breast island" — is a pair of small limestone karst islets in the western part of Phang Nga Bay. They are tiny (the larger covers barely a hundred metres across) and uninhabited, but from the right angle their near-identical profiles rising from the water make the name obvious. They are a standard landmark on longtail routes through the bay's northern section.

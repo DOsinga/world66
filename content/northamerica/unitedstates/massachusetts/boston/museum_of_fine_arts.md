@@ -10,6 +10,7 @@ tags:
 title: Museum of Fine Arts
 type: poi
 url: www.mfa.org
+score: 9.5
 ---
 
 Boston's Museum of Fine Arts is one of the great encyclopaedic museums of the United States, with collections strong enough to make any single visit feel partial. The Art of the Americas wing, opened in 2010 by Foster + Partners, holds Copley, Sargent, Homer, Eakins, Cassatt, and the largest Stuart portrait collection anywhere; the original beaux-arts Huntington Avenue building handles the European paintings, including thirty-eight Monets.

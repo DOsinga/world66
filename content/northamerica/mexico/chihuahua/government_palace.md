@@ -9,6 +9,7 @@ latitude: 28.6392
 longitude: -106.0733
 sources:
   - https://en.wikipedia.org/wiki/Government_Palace_of_Chihuahua
+score: 7.8
 ---
 
 A grand 19th-century building on the Plaza Hidalgo, the state government's seat and one of the most ornate public buildings in northern Mexico. The interior walls are covered in murals by Aarón Piña Mora, painted between 1959 and 1972, depicting the history of Chihuahua from pre-Columbian times through independence and the Revolution. The murals are vivid, politically engaged, and take a firm line — the Spanish conquest is shown as subjugation, the Revolution as liberation.

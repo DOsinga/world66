@@ -6,6 +6,7 @@ longitude: 114.3072
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 The Wuhan Yangtze River Tunnel, opened in 2008, was the first tunnel ever bored under the Yangtze and a piece of engineering trivia worth noting if you are interested in Chinese infrastructure. It runs from Hankou to Wuchang under the southern part of central Wuhan, carrying two lanes of traffic in each direction.

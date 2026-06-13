@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: "Triple-river confluence and Kerala-style temple at the foot of Talakaveri."
+score: 7.7
 ---
 
 Bhagamandala is the small temple town at the confluence of the Kaveri, the Kannike, and the mythical underground Sujyoti — a triveni sangam considered second in sanctity only to Prayag. The Bhagandeshwara Temple here is built in classical Kerala style with sloping copper roofs and concentric prakaras, unusual in this part of Karnataka.

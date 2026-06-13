@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.3291
 longitude: 57.5244
+score: 7.0
 ---
 
 The Curepipe Botanic Gardens — officially the Sir Seewoosagur Ramgoolam Botanical Garden of Curepipe — are the second largest botanical gardens in Mauritius, after the famous Royal Botanic Gardens at Pamplemousses. They occupy a compact but well-laid-out site and have a particular strength in endemic Mauritian plants, including Trochetia boutoniana, the island's national flower, known locally as boucle d'oreille (earring) for the shape of its delicate pink blooms.

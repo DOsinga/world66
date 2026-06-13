@@ -6,6 +6,7 @@ tags:
   - swimming
 latitude: 40.3650
 longitude: 0.4020
+score: 6.5
 ---
 
 The north beach stretches roughly 7 km from the base of the rock up toward Benicarló, making it one of the longer strands on the Costa del Azahar. The bulk of Peñíscola's resort hotels line this beach, so July and August bring serious crowds and sunbeds packed end to end. The northern end, well away from the old town, is noticeably quieter.

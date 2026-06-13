@@ -6,6 +6,7 @@ longitude: -72.69
 tags:
   - things_to_do
   - beach
+score: 6.6
 ---
 
 Amani-y is the closest swimming beach to Saint-Marc and one of the more accessible stretches of coast between Port-au-Prince and Gonaïves. The sand is grey-brown rather than postcard white, but the water is calm and shallow, and on weekends it fills up with families from the capital who come for the day. Small concrete-block restaurants line the back of the beach grilling fish and serving cold Prestige.

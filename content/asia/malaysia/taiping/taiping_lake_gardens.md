@@ -13,6 +13,7 @@ story: >
   specimens across Borneo, planted rain trees along the paths — trees that are now so
   large their canopies form a continuous green tunnel. The gardens were the first public
   park in Malaysia, predating the famous Lake Gardens in Kuala Lumpur by several years.
+score: 9.2
 ---
 
 The Taiping Lake Gardens are among the most beautiful public parks in Malaysia, and arguably the most serene. Created in 1880 on the flooded remnants of exhausted tin-mining pits, the gardens spread across a series of interconnected lakes fringed by enormous rain trees whose canopies form cool tunnels over the footpaths. In the early morning, mist drifts across the water and herons stand motionless in the shallows. It takes real effort to leave.

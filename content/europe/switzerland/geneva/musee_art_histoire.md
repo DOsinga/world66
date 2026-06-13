@@ -14,6 +14,7 @@ story: >
   shores of Lake Geneva. Witz painted Christ walking on water, but he set the
   miracle recognisably in Geneva, with the Salève massif visible in the
   background. You can stand on the lakefront today and line up the same view.
+score: 8.7
 ---
 
 The Musée d'Art et d'Histoire is the largest fine arts and history museum in Switzerland, opened in 1910 in a purpose-built Beaux-Arts building in the Vieille Ville. Its collection of over 650,000 objects covers archaeology (Egyptian, Greek, Roman, and medieval), applied arts (watches, furniture, tapestries, armour), and fine arts (paintings from the 15th to 20th centuries), making it genuinely encyclopaedic.

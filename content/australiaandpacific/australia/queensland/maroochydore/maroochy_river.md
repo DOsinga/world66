@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.65
 longitude: 153.1
+score: 7.0
 ---
 
 The Maroochy River winds through wetlands and mangroves before reaching the coast at Maroochydore, and the stretch above the town is excellent for kayaking and stand-up paddleboarding. The calm water and low boat traffic on the upper sections make it manageable for beginners, while the longer estuary run toward the coast offers more variety.

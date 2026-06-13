@@ -7,6 +7,7 @@ longitude: 22.6100
 tags:
 - things_to_do
 - sport
+score: 7.6
 ---
 
 The Map of Africa launch site is one of the best-known paragliding spots in South Africa. The cliff faces directly into the prevailing southwesterly wind and produces reliable ridge lift through most of the day. Pilots launch off the edge and descend along the coast, with a landing zone on the beach near the Touw River mouth.

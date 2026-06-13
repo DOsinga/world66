@@ -13,6 +13,7 @@ story: >
   connected to the same spring that feeds Mary's Well in the square outside.
   The rival traditions have coexisted in Nazareth for centuries without much
   ecumenical warmth.
+score: 8.6
 ---
 
 The Greek Orthodox Church of the Annunciation, also called St Gabriel's Church, offers an alternative tradition to the Catholic basilica: the Greek Orthodox believe that Gabriel appeared to Mary at the well where she was drawing water, not at her home. The church is built directly over this spring, and the lower crypt still contains the bubbling water source.

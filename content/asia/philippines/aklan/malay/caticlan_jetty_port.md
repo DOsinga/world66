@@ -7,6 +7,7 @@ tags:
 - sight
 title: Caticlan Jetty Port
 type: poi
+score: 4.8
 ---
 
 The Caticlan Jetty Port in Malay's Caticlan barangay is the main embarkation point for the ten-minute pumpboat crossing to Boracay. Visitors pay a small environmental fee plus a boat fare at three booths inside the terminal — keep your photo ID handy because the registration system is strict about counting tourists on and off the island.

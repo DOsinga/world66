@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0704
 longitude: 15.4387
+score: 7.7
 ---
 
 The Hauptplatz is the central square of Graz — a broad, slightly irregular space that serves as the hub of the old town. The Erzherzog Johann Fountain at its centre is the meeting point everyone uses; the archduke stands pointing toward his beloved Styrian Alps, a statue commissioned after his death in 1859. Around the square, painted Baroque and Renaissance façades in every shade of yellow and ochre give the place a warmth that survives even in winter.

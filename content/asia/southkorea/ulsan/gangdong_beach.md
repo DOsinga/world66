@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Gangdong Beach
 type: poi
+score: 6.7
 ---
 
 The Jeongja coast along Ulsan’s northeast shore is more about atmosphere than sunbathing. Gangdong Beach stretches out in striking black pebbles, backed by a rugged coastline that feels surprisingly remote given how close the city is. Come for the moody scenery and windswept walks, not for a typical beach day.

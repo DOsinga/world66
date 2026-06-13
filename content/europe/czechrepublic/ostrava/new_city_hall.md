@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Nová radnice, finished in 1930, is the largest city hall in the Czech Republic and a centrepiece of inter-war functionalist architecture. Its 86-metre tower has a public observation gallery near the top with views across the rooftops of Moravská Ostrava and over to the chimneys of Vítkovice.

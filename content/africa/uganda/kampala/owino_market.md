@@ -8,6 +8,7 @@ tags:
 latitude: 0.3136
 longitude: 32.5750
 snippet: Kampala's sprawling central market, one of the largest in Uganda
+score: 7.5
 ---
 
 Owino Market — officially renamed St Balikuddembe Market but still called Owino by almost everyone — covers several city blocks near the central taxi park and is one of the largest markets in Uganda. It is not a tourist market selling crafts; it is a functioning wholesale and retail market where Kampala shops. Stalls sell secondhand clothes (much of it donated Western clothing), fresh produce, dried fish, household goods, tools, phone accessories, and almost anything else you might need.

@@ -8,6 +8,7 @@ latitude: 54.7639
 longitude: -1.5813
 story: >
   The Durham Oriental Museum holds the largest collection of Egyptian antiquities in the north of England outside the British Museum. Among the highlights is the mummy of a wealthy Egyptian woman from the Late Period, with her painted cartonnage intact. The collection was begun in the 1830s by a Durham professor, Rev. Giovanni Battista Belzoni — one of the most extraordinary figures in the history of Egyptology.
+score: 7.6
 ---
 
 The Oriental Museum is a small but exceptionally well-curated museum on the Durham University campus, about a twenty-minute walk from the city centre or reachable by bus. It holds around 36,000 objects from Egypt, China, Japan, India, Korea, and the wider Islamic world, presented across four galleries. Admission is free.

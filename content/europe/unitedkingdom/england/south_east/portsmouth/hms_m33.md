@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_dockyard
 neighbourhood: Historic Dockyard
+score: 7.4
 ---
 
 A small monitor — a shallow-draught coastal bombardment ship — moored in the dockyard alongside Victory. M.33 fought at Gallipoli in 1915 and on the North Russian rivers in 1919, and is one of only three British warships from the First World War still afloat anywhere in the world.

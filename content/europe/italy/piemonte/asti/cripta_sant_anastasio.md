@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.6
 ---
 
 The Cripta e Museo di Sant'Anastasio is one of Asti’s quieter rewards, an archaeological site built around the remains of a Romanesque church and its crypt. Columns, capitals, and brickwork sit close enough to touch, making the city’s early medieval layers unusually tangible.

@@ -13,6 +13,7 @@ story: >
   a detail of the empire rarely taught in either British or Indian schools. He
   died here in 1916 having never been allowed to return home. The Burmese
   government repatriated his remains in 1919.
+score: 7.1
 ---
 
 Thiba Palace was built in 1910 by the British colonial administration to house King Thibaw of Burma, the last Konbaung king, who spent his final years in exile in Ratnagiri. The building sits on a hillock about two kilometres from the town's bus stand, and the grounds are pleasant to walk around — a reminder that this was effectively a comfortable prison.

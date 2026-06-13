@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "World's largest Reformation monument, unveiled in 1868"
+score: 7.4
 ---
 
 A vast Reformation tableau in bronze and stone, set in a small park north of the cathedral. Martin

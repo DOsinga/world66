@@ -10,6 +10,7 @@ story: >
   Royal Manas is the oldest protected area in Bhutan, established as a game reserve in 1966 and upgraded to national park status in 1988. It is contiguous with Manas National Park across the border in Assam, together forming one of the largest tiger conservation areas in the world.
 sources:
   - https://en.wikipedia.org/wiki/Royal_Manas_National_Park
+score: 8.0
 ---
 
 Royal Manas National Park covers 1,057 square kilometres of subtropical and temperate forest sweeping up from the Brahmaputra lowlands into the Himalayan foothills, and is one of the most biologically important protected areas in Asia. Tigers, Asian elephants, clouded leopards, gaur, water buffaloes, and golden langurs — found only in southern Bhutan and adjacent Assam — all live here. The park lists over 360 bird species, including several globally threatened ones.

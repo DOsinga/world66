@@ -14,6 +14,7 @@ story: >
   exploring the city in the 2000s and found the stone arches, temple
   carvings, and city walls almost perfectly preserved — the cold, still water
   had slowed decay to near zero.
+score: 7.1
 ---
 
 Lion City (Shi Cheng) is a 1,300-year-old walled city submerged beneath the waters of Qiandao Lake (Thousand Islands Lake), about 2.5 hours west of Hangzhou by bus. The city — originally a busy administrative centre with five city gates and elaborate stone-carved archways — was flooded in 1959 when the Xin'an River dam created the reservoir. It now lies 25 to 40 metres below the surface, its stone buildings intact.

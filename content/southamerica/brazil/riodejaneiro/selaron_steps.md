@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Selaron_Steps
 story: >
   Jorge Selarón began tiling the steps outside his Lapa house in 1990, calling it "my tribute to the Brazilian people." He worked on them obsessively for 23 years, financing the project by selling his own paintings. In 2013, he was found dead at the bottom of the steps he had built. The cause of death was never officially confirmed; the case was ruled an accident. The tiles continue to be maintained by volunteers who honour his wish that the staircase never be finished.
+score: 7.2
 ---
 
 The Selarón Steps connect the Santa Teresa neighbourhood to Lapa via a 125-metre staircase of 215 steps tiled in a dazzling collage of over 2,000 pieces of ceramic from around 60 countries. Chilean-born artist Jorge Selarón began the project in 1990 as a personal obsession and kept adding and rearranging tiles until his death in 2013. People from all over the world have sent tiles to be incorporated — the collection includes Portuguese azulejos, Brazilian faience, fragments of mirrors, and broken china from dozens of countries.

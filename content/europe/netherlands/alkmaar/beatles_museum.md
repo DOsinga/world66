@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 snippet: "A private collection of Beatles memorabilia in a 17th-century canal house"
 latitude: 52.6310
 longitude: 4.7440
+score: 5.7
 ---
 
 The Beatles Museum is the lifework of a single Alkmaar collector, Azing Moltmaker, who spent decades acquiring records, posters, instruments, signed photographs, and concert paraphernalia from across the band's career. The collection occupies a 17th-century canal house on the Doelenstraat and is unusually comprehensive — among the largest private Beatles collections in continental Europe.

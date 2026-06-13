@@ -11,6 +11,7 @@ story: >
   On 31 May and 1 June 1921, a white mob destroyed Greenwood in one of the worst episodes of racial violence in American history. An estimated 300 Black residents were killed, 10,000 left homeless, and 35 blocks of businesses and homes burned to the ground. The Tulsa Race Massacre was largely suppressed from public history for decades; a formal state commission investigation was not completed until 2001.
 sources:
   - https://en.wikipedia.org/wiki/Greenwood_District,_Tulsa
+score: 8.9
 ---
 
 In the early twentieth century, Greenwood was one of the wealthiest African American communities in the United States, nicknamed Black Wall Street for the concentration of Black-owned banks, law offices, hotels, and shops that lined its streets. The district was built largely from nothing after 1898 by entrepreneurs who were excluded from white commercial areas.

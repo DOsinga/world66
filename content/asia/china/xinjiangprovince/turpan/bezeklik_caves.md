@@ -15,6 +15,7 @@ story: >
   archaeologist Albert von Le Coq and shipped to Berlin, where most were
   destroyed in Allied bombing during World War II. The empty spaces and
   chisel scars are still clearly visible in the surviving caves.
+score: 8.8
 ---
 
 A complex of 77 rock-cut Buddhist cave temples carved into a sandstone cliff above the Murtuk River valley, in the Flaming Mountains 50 km northeast of Turpan. The caves date from the 5th to 14th centuries; their frescoes — Buddhist iconography, Sogdian merchants, Uyghur royalty — were once among the finest in Central Asia.

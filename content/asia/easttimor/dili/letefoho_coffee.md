@@ -6,6 +6,7 @@ longitude: 125.5798
 tags:
   - bars_and_cafes
   - cafe
+score: 7.3
 ---
 
 Letefoho is the most serious of Dili's coffee shops, named after the village in the highlands of Ermera that supplies most of its beans. The cafe roasts on site, sells beans by the bag, and pulls espresso to specialty standards — flat whites, single-origin pourovers, batch brew of the day.

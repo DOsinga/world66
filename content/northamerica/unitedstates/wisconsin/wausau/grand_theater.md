@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.9599
 longitude: -89.6281
+score: 7.6
 ---
 
 The Grand Theater is Wausau's main performing arts venue, a beautifully restored 1927 cinema and vaudeville house that anchors the downtown core. The restored lobby features original terrazzo floors and ornate plasterwork. Today the Grand hosts Broadway touring productions, national concert acts, and local performing arts organizations throughout the year.

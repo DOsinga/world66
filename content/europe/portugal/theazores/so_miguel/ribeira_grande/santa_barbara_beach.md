@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - surfing
+score: 7.8
 ---
 
 A long, dark-sand surf beach on the north coast a couple of kilometres west of town — the best beach in this part of São Miguel and the island's main surf spot. Volcanic black sand, big Atlantic sets, a backdrop of green cliffs, and a slightly Wild West feel: the road down is short, the parking is dirt, and the wind comes in clean from the north.

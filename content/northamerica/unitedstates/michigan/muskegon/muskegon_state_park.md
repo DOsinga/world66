@@ -7,6 +7,7 @@ tags:
 latitude: 43.2680
 longitude: -86.3358
 snippet: Lake Michigan dune park with beaches, a luge run, and cross-country ski trails
+score: 8.1
 ---
 
 Muskegon State Park occupies the sand dunes and channel between Muskegon Lake and Lake Michigan, about 5 km north of the city. In summer it is a beach and camping park — the Lake Michigan shoreline here has classic Great Lakes dune beaches, wide and sandy, with the cold clear water of the lake stretching west to the horizon. The park has several kilometres of frontage on both Lake Michigan and Muskegon Lake.

@@ -12,6 +12,7 @@ story: >
   it has been in continuous ownership by the local Muaūpoko iwi since the
   19th century, an unusual outcome that has shaped how the lake has been
   managed and disputed for over a century.
+score: 5.7
 ---
 
 Lake Horowhenua is a shallow, three-square-kilometre lake on the western edge of Levin, ringed by farmland and a handful of small reserves. The lake is best known historically as a Muaūpoko stronghold and continues to be owned by the iwi today; the surrounding land has been the subject of long-running disputes over water quality, dating from when the surrounding farms began intensive draining in the early 20th century.

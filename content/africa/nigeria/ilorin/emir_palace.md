@@ -15,6 +15,7 @@ story: >
   the city its distinctive character: an Islamic traditional court culture
   overlaid on a Yoruba foundation, producing a city unlike anywhere else
   in Nigeria.
+score: 6.7
 ---
 
 The palace of the Emir of Ilorin is the centre of traditional authority in the city and in Kwara State. The current structure is a substantial compound in the city centre, with an imposing gatehouse and a large inner courtyard. It remains the seat of the emirate, which continues to exercise significant ceremonial and moral authority in the community.

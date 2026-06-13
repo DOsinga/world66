@@ -7,6 +7,7 @@ tags:
 latitude: 47.4181
 longitude: 7.0778
 story: "The Courtedoux excavation site, just 5 km from Porrentruy, began as an emergency dig ahead of the A16 motorway construction in 1996 and turned into one of the largest paleontological excavations in European history. Over 15 years, palaeontologists recovered more than 6,000 bones from over 40 species of dinosaur and other Late Jurassic animals — a site that had been sitting undiscovered beneath the farmland of the Ajoie for 150 million years."
+score: 7.8
 ---
 
 The JURASSICA Museum is the public face of the Courtedoux dinosaur excavations, one of the most significant Late Jurassic fossil finds in Europe. The exhibits cover the full range of the site's discoveries — from the large sauropod trackways preserved in the rock to the individual bones of theropods, crocodilians, and pterosaurs that lived here when the Ajoie was a shallow tropical lagoon.

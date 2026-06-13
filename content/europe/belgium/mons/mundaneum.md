@@ -9,6 +9,7 @@ longitude: 3.9512
 story: "Paul Otlet began building his universal index of human knowledge in 1895 using 12 million index cards stored in filing cabinets. He also drew up plans for something he called a 'réseau mondial' — a global network for sharing information — in 1934. The Mundaneum is now sometimes called 'the Google of paper,' and Google itself has acknowledged Otlet as a precursor to the internet's founding ideas."
 sources:
   - https://en.wikipedia.org/wiki/Mundaneum
+score: 8.2
 ---
 
 The Mundaneum tells the story of Paul Otlet and Henri La Fontaine, two Belgian visionaries who in the 1890s attempted to organise all human knowledge into a single, universal index. Their system used index cards and a hierarchical classification scheme called the Universal Decimal Classification, which is still used in some libraries today. At its peak the collection contained 12 million entries.

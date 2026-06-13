@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar, neighbourhood]
 latitude: 51.5882
 longitude: 4.7705
+score: 6.4
 ---
 
 De Haven (The Harbour) is the waterfront district south of the city centre, where the old canal basin has been converted into Breda's liveliest bar and restaurant strip. In summer the terraces fill up from late afternoon and stay busy well into the night, with a mix of students and locals choosing from a dense row of bars and cafes along the waterside.

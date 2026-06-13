@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.1381
 longitude: 24.8864
+score: 7.5
 ---
 
 The Xanthi Carnival is one of the biggest and most colourful in northern Greece, and one of the liveliest in the country — comparable in atmosphere to the carnivals of Patras and Kozani. It takes place over the two weeks before Clean Monday (the start of Greek Orthodox Lent, in February or March depending on the year) and culminates in a grand parade through the city centre on the final Sunday.

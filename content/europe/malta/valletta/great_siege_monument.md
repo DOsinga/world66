@@ -13,6 +13,7 @@ story: >
   in 1927 during the British period, a time when the memory of the siege was invoked
   regularly in Maltese political discourse as evidence of the island's independent identity
   and its right to self-governance.
+score: 6.2
 ---
 
 The Great Siege Monument stands on the western end of Republic Street, near the Courts of Justice, commemorating the defeat of the Ottoman fleet in 1565. The bronze sculpture by Antonio Sciortino depicts three allegorical figures and was unveiled in 1927. It is one of the most photographed monuments in Valletta and serves as a natural waypoint on the walk between City Gate and St George's Square.

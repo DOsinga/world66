@@ -15,6 +15,7 @@ story: >
   local mythology. The highest, Benbaun at 729 metres, was described by a
   Victorian climber as "more like the surface of the moon than anything in
   Ireland."
+score: 9.4
 ---
 
 The Twelve Bens are Connemara's mountain spine: a tight cluster of quartzite peaks rising abruptly from the bog, their bare flanks streaked with quartz so white they seem to glow in low cloud. They are not high by Alpine standards, but they are steep, trackless, and in Atlantic weather they can be seriously challenging. Experienced walkers tackle the main ridge — a horseshoe connecting Benbaun, Bencorr, and five or six other summits — as a full day.

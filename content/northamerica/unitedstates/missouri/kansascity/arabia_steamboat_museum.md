@@ -12,6 +12,7 @@ tags:
 - museum
 title: Arabia Steamboat Museum
 type: poi
+score: 8.7
 ---
 
 The Arabia sank on the Missouri River in September 1856 with a full cargo of supplies destined for frontier stores across the American West. She lay forgotten at the bottom of the river for 132 years. When a family of treasure hunters excavated the site in 1988, they found something extraordinary: the river had shifted over the centuries, and the wreck was buried 28 feet underground in a Kansas farmer's field. Everything was preserved in the cold, oxygen-free mud — boots still in their boxes, bottles of perfume still fragrant, pickles still edible, a shipment of tools and hardware that had never been used.

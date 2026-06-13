@@ -11,6 +11,7 @@ tags:
   - architecture
   - old_town
 neighbourhood: Old Town
+score: 8.5
 ---
 
 The Church of St. John — officially the Church of St. Johns the Baptist and St. John the Apostle — stands within the Vilnius University complex and is the university's principal church. Originally a Gothic structure from the 14th century, it was comprehensively rebuilt in Baroque style between the 17th and 18th centuries by the Jesuits who ran the university. The result is one of the grandest Baroque interiors in Vilnius.

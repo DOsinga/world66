@@ -12,6 +12,7 @@ story: >
   by golden coach at the Ridderzaal to deliver the Speech from the Throne — the
   annual opening of parliament called Prinsjesdag. The ceremony has been held
   continuously since 1815, and tens of thousands of people line the route to watch.
+score: 9.1
 ---
 
 The Binnenhof — the Inner Court — is the medieval heart of Dutch government and one of the most atmospheric parliamentary complexes in Europe. The complex of buildings around a central courtyard has housed the seats of government since the 13th century, and despite the formality of its function, it is remarkably accessible: you can walk freely into the courtyard and look at the buildings from the outside.

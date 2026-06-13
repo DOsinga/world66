@@ -5,6 +5,7 @@ latitude: -5.8450
 longitude: 38.5630
 snippet: "The wild, undeveloped shoreline south of town — no facilities, no crowds, just coast."
 tags: [beaches, nature]
+score: 6.4
 ---
 
 The beach south of Pangani is less visited than Ushongo to the north, which makes it even more deserted. The shoreline curves south along a series of low headlands backed by coconut palms and scrub. The swimming is good in calm conditions and the water is clear, though there are no facilities of any kind once you leave town.

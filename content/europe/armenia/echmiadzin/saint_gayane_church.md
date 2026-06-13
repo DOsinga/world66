@@ -5,6 +5,7 @@ snippet: Seventh-century church dedicated to the abbess martyred alongside Hrips
 tags: [things_to_do, sight, church, unesco, historic_site]
 latitude: 40.157419
 longitude: 44.291986
+score: 7.9
 ---
 
 Built in 630 AD a few hundred metres south of the cathedral, the Saint Gayane church is the third of the great seventh-century churches of Echmiadzin and shares their UNESCO listing. Gayane was the abbess who led Hripsime and the other nuns to Armenia; she was killed shortly after her younger companion.

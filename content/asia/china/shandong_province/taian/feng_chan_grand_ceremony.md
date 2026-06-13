@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 36.2390
 longitude: 117.1090
+score: 6.5
 ---
 
 The Fengchan Grand Ceremony is a nightly outdoor performance staged on a natural amphitheatre at the foot of Mount Tai, with the mountain itself as a backdrop. Cast of hundreds, projection effects, and elaborate music dramatise the Feng and Shan sacrifices — the imperial rites in which emperors of antiquity legitimised their rule on Taishan's summit.

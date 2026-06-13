@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.1
 ---
 
 Kamini is the tiny fishing hamlet a fifteen-minute walk west of the harbour along the coast road — a single curve of stone quay with a few moored boats, a couple of tavernas, and a small rocky cove that locals use for swimming. The atmosphere is much quieter than the main port; this is where Hydriots come to eat at the end of the day.

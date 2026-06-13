@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.7100
 longitude: 2.6220
+score: 8.2
 ---
 
 Valldemossa's village centre is small enough to walk in twenty minutes, but deserves longer. The steep stone lanes connect flower-draped courtyards, a Baroque parish church, and views south and east across terraced olive groves to the sea. Many houses still follow the traditional Mallorcan pattern: thick walls, deep-set windows, and an inner patio where a lemon tree takes up all the light.

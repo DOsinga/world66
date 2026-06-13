@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2178
 longitude: 77.4536
+score: 8.0
 ---
 
 Dolphin's Nose is a flat rocky ledge projecting out from the escarpment about 8 km from Kodaikanal, reached by a 6 km trail or a short drive and then a walk. The ledge hangs over a 1,200-metre drop to the valley below, and on clear days you can see across the plains to Dindigul and beyond.

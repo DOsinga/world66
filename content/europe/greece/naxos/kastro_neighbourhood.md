@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 37.1055
 longitude: 25.3750
+score: 7.8
 ---
 
 The Kastro is the walled hilltop neighbourhood that crowns Hora, a compact Venetian town-within-a-town built in the 13th century and still clearly distinct from everything below it. Enter through one of the original fortified gates and the atmosphere changes immediately: narrower lanes, taller walls, the muffled quality of a place designed to keep the wind out and, when necessary, enemies. The gate towers, the carved stone crests of Venetian noble families above doorways, and the Catholic cathedral at the centre all date to when Naxos was the capital of a Latin island duchy reaching across the Aegean.

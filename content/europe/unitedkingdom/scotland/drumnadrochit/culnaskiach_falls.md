@@ -8,6 +8,7 @@ latitude: 57.3904613
 longitude: -4.5208894
 sources:
   - https://en.wikipedia.org/wiki/Culnaskiach_Falls
+score: 6.8
 ---
 
 Culnaskiach Falls drop through a narrow rocky gorge in the hills above Drumnadrochit, a quieter and less visited waterfall than the Falls of Divach to the south. The access involves a longer walk from the road than most roadside Highland falls, which keeps the visitor numbers down. The surrounding moorland gives the approach an open, expansive quality that contrasts with the sudden drama of the falls themselves.

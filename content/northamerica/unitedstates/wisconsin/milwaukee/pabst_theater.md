@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Pabst_Theater
 story: >
   The Pabst Theater was built in 1895 as a replacement for an earlier German theatre that burned down. Frederick Pabst funded its construction himself, hiring an architect to build the most elaborate performance space in the city. At the time of opening it was considered the finest theatre west of the Allegheny Mountains. Frank Lloyd Wright, who grew up in Wisconsin, called it one of the most beautiful buildings in America.
+score: 7.3
 ---
 
 The Pabst Theater is Milwaukee's finest performance space and one of the best-preserved Victorian theatres in the United States. Built in 1895 with funding from the Pabst family and designed in a richly ornamented German Renaissance style, it seats around 1,400 and has near-perfect acoustics for mid-sized concerts and theatrical productions.

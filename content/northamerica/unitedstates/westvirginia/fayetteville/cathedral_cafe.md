@@ -11,6 +11,7 @@ address: "134 S Court St, Fayetteville, WV"
 latitude: 38.0533
 longitude: -81.1042
 story: "The Cathedral Café occupies the former First Presbyterian Church of Fayetteville, built in 1894 from local stone. The stained-glass windows are still intact, and the cafe's owners arranged the kitchen and bar so that you can still see the original altar arch. On Sunday mornings the line for breakfast stretches out into the church porch."
+score: 6.5
 ---
 
 The town's heart-of-the-rafting-season meeting place: a converted late-Victorian stone church, with the original wooden pews now used as bench seating along the walls and stained glass throwing colour across the room. Espresso, decent pastries, big breakfast plates with eggs, biscuits and gravy.

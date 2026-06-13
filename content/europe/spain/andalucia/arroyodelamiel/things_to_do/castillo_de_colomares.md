@@ -18,6 +18,7 @@ story: >
   1,500-square-metre footprint. The Guinness Book of World Records once
   listed it as the world's smallest church — a tiny chapel inside measures
   just 1.96 square metres.
+score: 7.3
 ---
 
 A fantastical monument to Christopher Columbus built by a single doctor over seven years, the Castillo de Colomares looks like the result of a very enthusiastic architectural fever dream. It mixes Romanesque arches, Gothic towers, Mudejar tilework, and Byzantine domes into a sprawling structure dedicated to Columbus's 1492 voyage. Inside, a chapel measuring less than two square metres holds the Guinness record as the world's smallest church. The castle is in Benalmádena Pueblo, about 3 km from Arroyo de la Miel, and is best visited in combination with the stupa nearby.

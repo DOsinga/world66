@@ -7,6 +7,7 @@ tags:
 latitude: 38.6912
 longitude: 1.4553
 snippet: "The long wild beach stretching across the southern coast, quieter and more rugged than Ses Illetes"
+score: 7.7
 ---
 
 Migjorn means south in Catalan, and Platja de Migjorn runs along most of the island's southern coast — a continuous stretch of beach nearly five kilometres long, broken only by a few rocky outcrops. It is less sheltered than Ses Illetes, which means a bit more wave action and sometimes seagrass washed ashore, but also that it absorbs visitors more easily. In high season, when Ses Illetes is packed, Migjorn offers actual space. The water is not quite as dramatically clear as on the north spit, but it is still excellent swimming.

@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - centre
+score: 5.8
 ---
 
 Profsoyuznaya Street, two blocks east of Bauman, is the closest thing Kazan has to a bar strip — a short pedestrianised section with a dozen craft-beer bars, gastropubs, cocktail bars, and small clubs packed shoulder to shoulder. The crowd is mainly local students and young professionals.

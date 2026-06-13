@@ -9,6 +9,7 @@ tags:
 latitude: 36.3265
 longitude: -119.6464
 address: "325 N. Douty St., Hanford 93230"
+score: 6.0
 ---
 
 A Hanford institution since 1929. Superior Dairy makes its own ice cream on the premises and is famous for serving portions roughly twice the size most visitors expect — order a single scoop and you will not regret it. The interior is unchanged for decades, with red vinyl booths, formica tables, and pressed-tin ceilings.

@@ -6,6 +6,7 @@ longitude: 101.6849
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 A small but lovingly tended garden of around 800 orchid species set on a terraced hillside within the Lake Gardens. The collection mixes wild Malaysian orchids with cultivated hybrids from across Southeast Asia, displayed in greenhouses, on tree trunks, and in long pergolas. The neighbouring **Hibiscus Garden** showcases the national flower, the bunga raya, in dozens of colour varieties.

@@ -11,6 +11,7 @@ tags:
 title: Neue Galerie
 type: poi
 url: www.neuegalerie.org
+score: 8.2
 ---
 
 A focused, beautiful museum dedicated entirely to early 20th-century German and Austrian art and design. The collection includes works by Klimt, Schiele, and the Wiener Werkstätte craftsmen. The mansion on Museum Mile is as lovely as anything inside it, and the Cafe Sabarsky on the ground floor serves proper Viennese coffee and strudel — worth visiting even if you skip the galleries.

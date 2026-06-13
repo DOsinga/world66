@@ -14,6 +14,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gaberoun
   - https://www.temehu.com/Cities_sites/Gabroun.htm
+score: 9.0
 ---
 
 The Ubari Sand Sea, about 150 kilometres west of Sebha, contains one of the stranger landscapes in the Sahara: a group of roughly twenty lakes sitting in the middle of vast orange dunes. The lakes — fed by underground aquifers left over from when the Sahara was a wetter place — range from the size of a large swimming pool to several hundred metres across. Some are flanked by date palms and reeds. Some are salt-saturated to the point that nothing grows around them. The contrast between the deep turquoise water and the red sand is startling.

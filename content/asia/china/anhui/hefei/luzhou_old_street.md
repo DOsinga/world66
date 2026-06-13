@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 31.8630
 longitude: 117.2470
+score: 4.4
 ---
 
 Luzhou Old Street in the Luyang District preserves the closest thing Hefei has to a traditional commercial streetscape — a restored section of late Qing and Republican-era shophouses with carved wooden facades, overhanging eaves, and the kind of narrow, covered arcade that was once the standard form of Chinese urban retail. The restoration is thorough rather than authentic (most of the buildings have been rebuilt rather than preserved), but the result is livelier than many such projects because the street remains genuinely commercial.

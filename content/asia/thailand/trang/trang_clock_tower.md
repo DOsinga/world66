@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 7.5579
 longitude: 99.6100
+score: 7.0
 ---
 
 Trang's town centre is not a tourist spectacle, but it has a genuine character shaped by generations of Chinese immigrant traders who settled along the coast in the 19th century. The streets around the clock tower — a modest landmark near the main market — are lined with two-storey Sino-Portuguese shophouses, many of them still functioning as hardware stores, herbal medicine shops, and family restaurants.

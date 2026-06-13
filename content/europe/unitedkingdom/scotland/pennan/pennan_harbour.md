@@ -10,6 +10,7 @@ longitude: -2.2600
 snippet: "A small working harbour where grey seals and dolphins are regularly spotted"
 sources:
   - https://www.undiscoveredscotland.co.uk/pennan/pennan/index.html
+score: 7.1
 ---
 
 Pennan's harbour occupies the eastern end of the village and is still used by a handful of fishing vessels, though leisure craft now outnumber working boats. The stone quayside is a good spot to watch the sea — and the wildlife in it. Grey seals haul out on the rocks at the harbour mouth, and dolphins are regularly spotted in the bay, particularly in summer. Gannets and other seabirds work the offshore waters throughout the year.

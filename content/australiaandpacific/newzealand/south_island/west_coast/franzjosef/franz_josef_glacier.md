@@ -7,6 +7,7 @@ tags:
 latitude: -43.46
 longitude: 170.18
 story: "The glacier is named after Emperor Franz Josef I of Austria, by the German geologist Julius von Haast, who explored the West Coast in 1865. The Māori name, Kā Roimata o Hinehukatere — the tears of Hinehukatere — is older and more beautiful: a girl who lost her lover to an avalanche and whose grief froze into the river of ice."
+score: 9.5
 ---
 
 The Franz Josef Glacier is one of the steepest and fastest-flowing valley glaciers in the world — at one point in its history it moved up to four metres a day. Today it has retreated significantly, with the terminal face several kilometres up the valley from where it stood in the 1980s, but it remains the most accessible glacier of its kind in the southern hemisphere.

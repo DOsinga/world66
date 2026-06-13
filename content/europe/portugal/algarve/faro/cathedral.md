@@ -6,6 +6,7 @@ latitude: 37.0133
 longitude: -7.9347
 snippet: "Romanesque-Gothic cathedral with a climbable bell tower"
 story: "The cathedral was built on the site of a Roman forum and later a Visigothic church and a mosque. It was sacked by the Earl of Essex in 1596 during an English raid that also carried off the library of Bishop Jerónimo Osório — those books became the foundational collection of Oxford's Bodleian Library."
+score: 8.1
 ---
 
 The Sé de Faro sits in a quiet square inside the walled Cidade Velha, surrounded by orange trees and the bishop's palace. Begun in 1251 just after the Reconquista, only the lower part of the bell tower and the entrance arch survive from the original Romanesque-Gothic building — the rest was rebuilt after the 1596 English sack and the 1755 earthquake.

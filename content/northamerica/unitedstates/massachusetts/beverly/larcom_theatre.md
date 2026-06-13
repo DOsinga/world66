@@ -7,6 +7,7 @@ tags:
 latitude: 42.5482
 longitude: -70.87976
 story: The Larcom was built in 1912 as a vaudeville house, one of hundreds that lined New England's rail towns during the era when weekly variety shows were the primary popular entertainment. It survived the vaudeville collapse, the Great Depression, and television, and is now one of the few original theaters still operating on the North Shore.
+score: 6.2
 ---
 
 The Larcom Theatre at 13 Wallis Street is a 600-seat auditorium that has been staging live performances since 1912. Originally a vaudeville house, the building passed through several incarnations before being restored as a performing arts venue presenting theater, ballet, music, and comedy.

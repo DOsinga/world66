@@ -9,6 +9,7 @@ latitude: -21.76395
 longitude: -43.3501
 sources:
   - https://en.wikipedia.org/wiki/St._Anthony_Cathedral,_Juiz_de_Fora
+score: 6.3
 ---
 
 The Cathedral of Saint Anthony stands at the heart of the city centre, on Praça da Estação near the main pedestrian street. Built in the early 20th century in a neo-Gothic style, it has twin towers that serve as a landmark for orientation in the downtown grid. The interior is simpler than the exterior suggests but worth a few minutes if the doors are open.

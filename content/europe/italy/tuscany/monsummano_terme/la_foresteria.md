@@ -7,6 +7,7 @@ address: Via Grotta Giusti 1411, 51015 Monsummano Terme
 tags:
   - eating_out
   - restaurant
+score: 5.5
 ---
 
 The Grotta Giusti hotel's restaurant is the most polished kitchen in Monsummano: Tuscan cooking — pici with wild boar, Chianina beef, ricotta and spinach tortelli — served in a glass-walled dining room overlooking the spa gardens. Non-residents are welcome to book lunch or dinner.

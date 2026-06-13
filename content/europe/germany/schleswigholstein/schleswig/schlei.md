@@ -8,6 +8,7 @@ tags:
 latitude: 54.5185
 longitude: 9.5653
 snippet: "Long, narrow Baltic fjord ideal for kayaking and boat trips"
+score: 7.6
 ---
 
 The Schlei is the defining geographical feature of Schleswig — a narrow arm of the Baltic Sea that reaches 42 kilometres inland, tapering as it goes until it becomes almost river-like near the town. Schleswig sits at the head of the Schlei, where the water is at its narrowest and most sheltered. The fjord is not just scenic backdrop; it is actively used for sailing, kayaking, fishing, and swimming in summer.

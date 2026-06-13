@@ -14,6 +14,7 @@ story: >
   was later turned into the base of the Cross of Sacrifice at the centre of
   the cemetery. King George V visited in 1922 and asked that the cross be
   built on top of it, preserving it in place rather than demolishing it.
+score: 9.1
 ---
 
 About 10 km northeast of Ypres, near the village of Passchendaele, Tyne Cot is the largest Commonwealth War Graves Commission cemetery in the world. Nearly 12,000 graves occupy a gentle slope on the Passchendaele Ridge — the ground fought over in the Third Battle of Ypres in 1917, one of the most costly engagements of the entire war. A further 35,000 names are inscribed on the memorial walls of the missing — soldiers killed in the Salient after 15 August 1917 whose bodies were never found.

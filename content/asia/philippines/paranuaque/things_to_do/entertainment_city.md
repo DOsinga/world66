@@ -8,6 +8,7 @@ latitude: 14.5194
 longitude: 120.9817
 sources:
   - https://en.wikipedia.org/wiki/Entertainment_City
+score: 7.2
 ---
 
 Entertainment City is a 120-hectare reclaimed land development along Manila Bay that has become the Philippines' answer to Macau. Four massive integrated resorts occupy the strip: Solaire Resort and Casino, City of Dreams Manila, Okada Manila, and Westside City (still expanding). Together they hold the largest concentration of casino floor space in Southeast Asia outside of Macau and Singapore.

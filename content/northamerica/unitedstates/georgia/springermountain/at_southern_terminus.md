@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The official terminus was moved to Springer in 1958 from nearby Mount Oglethorpe, which had become surrounded by commercial chicken farms whose smell offended hikers. The bronze terminus plaque, set into a rock just below the summit, depicts a hiker striding north and reads simply "A footpath for those who seek fellowship with the wilderness."
+score: 9.1
 ---
 
 The southern end of the 2,194-mile Appalachian Trail is marked by two small bronze plaques on a rock outcrop just below the actual summit. One depicts a hiker; the other notes the elevation and the trail's length. A weatherproof register box lets hikers sign in, both those starting north and those returning to celebrate completing a thru-hike the year before.

@@ -4,6 +4,7 @@ type: poi
 latitude: 39.6028
 longitude: 39.0125
 tags: [things_to_do, sight, ruins, day_trip]
+score: 7.7
 ---
 
 Kemah, about 50 kilometres west of Erzincan, is a small town clinging to a tight bend of the Karasu (upper Euphrates) under a high rock outcrop crowned by a ruined Byzantine and Seljuk citadel. From the early twelfth century until the Mongol conquest, Kemah was the capital of the Mengücek dynasty, a minor Turkmen emirate that controlled much of this stretch of mountains.

@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Mary's Ole Time Swap Meet
 type: poi
+score: 5.5
 ---
 
 No matter what they collect, collectors of everything converge on Mary's Ole Time Swap Meet early on weekends to find bargains. This flea market is mostly outdoors, so it is best during good weather. Open year-round from 6 a.m. to 7 p.m. every Saturday and Sunday.

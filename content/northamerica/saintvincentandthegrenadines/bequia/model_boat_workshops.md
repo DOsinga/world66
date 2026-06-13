@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping]
 latitude: 13.0103
 longitude: -61.2367
+score: 8.1
 ---
 
 Bequia's most distinctive souvenir is the hand-carved scale model sailing boat, made by a handful of master craftsmen in small workshops in Port Elizabeth. The best-known names are Sargeant Brothers and Mauvin's, both with showrooms a short walk from the ferry dock.

@@ -1,15 +1,7 @@
 ---
 latitude: 19.0596
 longitude: 72.8295
-tags:
-- things_to_do
-- neighbourhood
-title: Bandra
-type: neighbourhood
-image: bandra.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bandra_Sea_Link_aerial.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Ranga27
+score: 7.2
 ---
 
 Bandra is Mumbai's most fashionable neighbourhood — the place where the city's film industry, creative class, and affluent young professionals converge. Hill Road and Linking Road are the main shopping arteries, with a mix of Indian brands, casual fashion, and independent stores. The lanes around Chapel Road and St. Andrews Road are pleasant for a walk, lined with old bungalows behind bougainvillea walls.

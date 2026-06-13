@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Lunchtime canteen serving the legendary Samarkand plov to a few hundred people daily"
+score: 6.4
 ---
 
 The Samarkand Plov Center is a large, plain hall near the centre of town where the city's signature dish is cooked in enormous open-air cauldrons from early morning. By noon there is a queue out the door. The plov here is the Samarkand version — fluffier rice, less oil than the Tashkent style, with chunks of yellow carrot, chickpeas, raisins, and a piece of lamb on top.

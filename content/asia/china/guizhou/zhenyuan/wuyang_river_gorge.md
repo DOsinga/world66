@@ -11,6 +11,7 @@ story: >
   millions of years, producing a gorge of sheer limestone walls, hidden caves, and
   formations that locals have been naming — Crouching Dragon, Immortal's Bridge — for
   as long as anyone can remember.
+score: 8.8
 ---
 
 The Wuyang River gorge running east from Zhenyuan is one of the great scenic routes of Guizhou: a narrow corridor of karst limestone, some of it rising nearly vertically from the water, winding through a landscape of extraordinary geological drama. The gorge is best experienced by boat, with trips departing from the pier near the old town and running downstream through the narrowest and most dramatic sections. The journey takes two to three hours and includes sections where the cliffs close in to within a few metres of the boat on both sides.

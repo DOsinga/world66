@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Bellini's
 type: poi
+score: 4.1
 ---
 
 Warm, cozy Northern Italian dining room in the heart of fashionable Yorkville.

@@ -10,6 +10,7 @@ tags:
 latitude: -29.8503
 longitude: 31.0410
 neighbourhood: Golden Mile
+score: 8.1
 ---
 
 North Beach is the central section of the Golden Mile and the city's go-to swimming and surfing beach. The break is consistent, the water is warm, and the beach is netted against sharks — a system pioneered in Durban decades ago and still in use. Lifeguards are on duty from sunrise to sunset.

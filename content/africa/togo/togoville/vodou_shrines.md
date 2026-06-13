@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Sacred trees and altars in active daily use throughout the town
 story: "Togoville is one of the historic centres of West African Vodou, the spiritual practice carried by enslaved people across the Atlantic to Haiti and the Americas. The shrines you can see today are not relics — they are in active daily use by an overwhelmingly Vodou population, despite the Catholic cathedral a hundred metres away. The town's coexistence of the two faiths is unusual even by West African standards."
+score: 8.6
 ---
 
 Scattered around Togoville are small Vodou shrines: low concrete platforms, sacred trees ringed with cloth and palm leaves, clay figures of the deities. Each is dedicated to a particular spirit (vodu) or ancestor; some are private to a family, others are public and visited by people from all over the region.

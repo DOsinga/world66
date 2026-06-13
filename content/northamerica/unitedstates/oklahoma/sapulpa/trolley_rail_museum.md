@@ -7,6 +7,7 @@ tags:
   - railroad
 latitude: 36.0034
 longitude: -96.1083
+score: 6.7
 ---
 
 A small open-air railroad museum on Dewey Avenue south of downtown, preserving the heritage of the Sapulpa Tulsa & Sapulpa interurban line — the streetcar service that linked Sapulpa with Tulsa from 1906 to the 1930s. The collection includes a restored Birney safety car (one of only a handful surviving in the United States), several freight cars, a small steam engine, and a working section of track.

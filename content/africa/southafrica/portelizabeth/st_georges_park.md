@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.4
 ---
 
 St George's Park is a large Victorian public park in the centre of the city, best known internationally as the site of the oldest cricket ground in South Africa — the St George's Park Cricket Ground, which hosted the first Test match ever played on African soil in March 1889. The ground is still active, hosting provincial and occasional international fixtures, and it sits inside the park with a grace that newer stadiums rarely manage.

@@ -7,6 +7,7 @@ tags:
 latitude: 10.1225
 longitude: 99.8208
 story: "The name 'Japanese Gardens' has nothing to do with Japan — it was coined by early dive instructors who thought the shallow coral formations looked like the manicured rock gardens found in Japanese temples. The name stuck, and it is now the standard term on every Koh Tao dive map."
+score: 8.2
 ---
 
 Japanese Gardens is one of the best snorkelling spots on Koh Tao, located on the north side of the island between Mae Haad and Mango Bay. The site consists of shallow coral formations — mostly hard corals — in water between 3 and 14 metres deep, making it ideal for beginners and snorkellers as well as divers. The marine life includes sea turtles (frequently sighted), lionfish, moray eels, and large numbers of reef fish.

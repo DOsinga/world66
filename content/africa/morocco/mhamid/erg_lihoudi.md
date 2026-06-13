@@ -7,6 +7,7 @@ tags:
 latitude: 29.8
 longitude: -5.74
 story: "Erg Lihoudi — the 'dunes of the Jews' — takes its name from a Jewish community that reportedly camped here centuries ago while fleeing persecution. Morocco's Jewish communities historically had a significant presence in the Draa Valley towns, and the name is a reminder that the Sahara was once a trade corridor connecting diverse peoples."
+score: 6.4
 ---
 
 Erg Lihoudi is a much smaller dune field than Chigaga, lying just a couple of kilometres from M'Hamid itself. This makes it ideal for a shorter excursion — a walk or a short camel ride rather than an overnight trip. The dunes are modest by Saharan standards, but they are genuinely sandy desert, and at dawn or dusk the light is beautiful.

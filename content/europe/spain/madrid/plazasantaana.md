@@ -8,6 +8,7 @@ tags:
 - huertas
 title: Plaza Santa Ana
 type: poi
+score: 7.4
 ---
 
 One of Madrid's most atmospheric squares, Plaza Santa Ana sits at the heart of the old literary quarter where Cervantes, Lope de Vega and Calderón de la Barca all lived and worked. Statues of Calderón and García Lorca watch over the terraces.

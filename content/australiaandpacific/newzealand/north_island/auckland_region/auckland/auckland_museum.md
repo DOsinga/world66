@@ -14,6 +14,7 @@ done:
   poi_cleanup: '2026-04-19'
 sources:
   - https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum
+score: 9.1
 ---
 
 Originally founded in 1852, the Auckland Museum moved to its current location in the Domain in 1929, when it was rebuilt as a war memorial after the losses of World War I. The neoclassical building itself is impressive — it sits at the high end of the Domain with a long approach that gives the whole thing a ceremonial weight.

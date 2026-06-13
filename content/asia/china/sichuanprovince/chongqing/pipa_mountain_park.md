@@ -8,6 +8,7 @@ latitude: 29.5567
 longitude: 106.5542
 story: >
   Pipa Mountain takes its name from the pipa — a Chinese lute — whose shape the hill supposedly resembles. At 345 metres above sea level, it is the highest point in central Chongqing, and on a clear day the view from the television tower at the summit takes in the full sweep of the mountain city: the Jialing and Yangtze rivers, the bridges, the tower blocks cascading down the hillsides, and on rare winter days, the snow-dusted mountains to the north.
+score: 7.2
 ---
 
 Pipa Mountain Park occupies a forested hill above the urban centre of Chongqing, offering the best elevated views of the city. The park is reached by a series of paths through gardens and old trees, passing pavilions and teahouses on the way up. The summit television tower marks the highest accessible point.

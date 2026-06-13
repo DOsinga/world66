@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.1453
 longitude: 24.1473
+score: 6.5
 ---
 
 The Folklore Museum of Drama was established by the Lyceum Club of Greek Women and focuses on the traditional material culture of the region — clothing, textiles, household objects, agricultural tools, and the customs of the communities that lived here before and after the population exchanges of the 1920s.

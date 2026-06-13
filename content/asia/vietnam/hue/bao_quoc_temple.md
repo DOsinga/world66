@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bao Quoc Temple
 type: poi
+score: 6.5
 ---
 
 Bao Quoc Pagoda sits on a small hill in the Truong An ward, about two kilometres south of the Truong Tien Bridge — close enough to reach by bicycle but far enough from the main tourist circuit to feel genuinely quiet. Founded in the early 18th century and patronised by several Nguyen lords and emperors, it is one of the oldest pagodas in Hue and an important centre of Vietnamese Buddhism.

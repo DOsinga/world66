@@ -7,6 +7,7 @@ tags:
 latitude: 37.2675
 longitude: -97.39889
 story: "Andrew Carnegie funded over 1,600 public libraries across the United States between 1883 and 1929. Wellington's version, built around 1916 at 121 W. Seventh, is one of the best-preserved Carnegie libraries still standing in Kansas."
+score: 6.5
 ---
 
 The Wellington Carnegie Library at 121 W. Seventh Street is a handsome Neoclassical building dating to around 1916. It's one of the many libraries funded by industrialist Andrew Carnegie's philanthropy program, and this one has held up better than most — the exterior stonework and original proportions are largely intact.

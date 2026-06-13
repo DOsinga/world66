@@ -11,6 +11,7 @@ story: >
   Valparaíso once had over 30 funicular elevators connecting the flat city centre to the hillside barrios above. Many have been closed for years, some permanently. The Ascensor Concepción, the oldest surviving one (built in 1883), has been closed and repaired so many times that locals have stopped expecting it to work. When it does run, the wooden cabin creaks alarmingly — but that is rather the point.
 sources:
   - https://en.wikipedia.org/wiki/Elevators_of_Valpara%C3%ADso
+score: 9.1
 ---
 
 Valparaíso's funicular elevators — the ascensores — are one of the most distinctive urban transport systems in the world. Built from the 1880s onward to connect the flat commercial district with the hillside neighbourhoods above, they are short, steep, and wonderfully anachronistic. At their peak there were 30 of them; today fewer than half a dozen operate regularly.

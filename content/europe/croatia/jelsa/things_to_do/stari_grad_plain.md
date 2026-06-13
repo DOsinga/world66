@@ -13,6 +13,7 @@ story: >
   385 BC and have remained almost entirely unchanged for 2,400 years. The ancient property lines
   are still visible from the air and on the ground — stone walls, pathways, and olive groves
   following boundaries set before Alexander the Great was born.
+score: 9.0
 ---
 
 The flat agricultural plateau stretching west of Jelsa towards Stari Grad is a UNESCO World Heritage Site — one of the best-preserved examples of ancient Greek land organisation in the world. The plain was laid out by colonists from the island of Paros around 385 BC and divided into equal plots using a grid based on the Greek unit of measurement, the stade. Remarkably, the same boundaries are still in use today: modern farmers grow vines, olives, and lavender in fields whose corners were set by Greeks nearly 2,500 years ago.

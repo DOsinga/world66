@@ -10,6 +10,7 @@ tags:
 title: Footprint Center
 type: poi
 url: footprintcenter.com
+score: 6.8
 ---
 
 The downtown indoor arena where the Phoenix Suns (NBA) and Phoenix Mercury (WNBA) play. The Mercury have won three WNBA championships, and the Suns have been a fixture of the Western Conference since 1968. The 17,000-seat arena also hosts concerts year-round and the occasional Disney on Ice run.

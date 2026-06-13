@@ -15,6 +15,7 @@ story: >
   massive concrete cylinders visible along the waterfront — were the largest grain 
   storage structures in the world when they were built, and influenced Le Corbusier's 
   thinking about functional architecture.
+score: 7.7
 ---
 
 Canalside is the redeveloped waterfront district at the foot of Main Street, where the Erie Canal once met Lake Erie. The grain elevators that line the water's edge are Buffalo at its most monumental and most melancholy — enormous concrete cylinders, some still functioning, that made this city the grain-trading capital of North America in the late 19th century. They are now recognized as significant industrial heritage.

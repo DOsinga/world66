@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/House_of_Taga,_Tinian
 story: >
   Taga was a legendary Chamorro chief said to have been of enormous physical strength. According to oral tradition, he erected the massive latte stones single-handedly. Whether or not the stories are true, the stones he supposedly raised are the largest known latte pillars in the Mariana Islands — some standing nearly five metres tall.
+score: 8.6
 ---
 
 The House of Taga is a set of ancient Chamorro latte stone pillars in the village of San Jose, the most impressive prehistoric ruins in the Northern Marianas. Latte stones — tall coral or limestone columns topped with hemispherical capstones — were used as foundation posts for the houses of high-status Chamorros, raised between roughly 900 and 1700 AD.

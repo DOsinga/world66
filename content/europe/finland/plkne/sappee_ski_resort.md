@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.3600
 longitude: 24.2200
+score: 5.9
 ---
 
 The Sappee ski resort, a few kilometres north of Pälkäne town, is a small but well-equipped downhill ski area on a modest Finnish fell. With about 15 slopes and a vertical drop of around 160 metres, it is not going to challenge serious alpine skiers, but it is the nearest ski area to Tampere and draws large numbers of families and beginners from the city. In a country as flat as Finland, any hill with a lift is a significant asset.

@@ -14,6 +14,7 @@ story: >
   evidence for natural selection from tropical species. Darwin described Müller
   as "one of the greatest naturalists in the world." Müller died in Blumenau
   in 1897.
+score: 7.4
 ---
 
 The Fritz Müller Museum honors the German naturalist who spent four decades studying the ecology of the Atlantic Forest and the rivers around Blumenau, corresponding with Charles Darwin and contributing crucial evidence for the theory of evolution. The museum is small but worthwhile — a reminder that Blumenau's contribution to history goes beyond beer and half-timbered buildings.

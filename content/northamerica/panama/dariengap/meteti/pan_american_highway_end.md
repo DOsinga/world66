@@ -8,6 +8,7 @@ latitude: 8.4937
 longitude: -77.9811
 story: >
   The Pan-American Highway runs 30,000 kilometres from Prudhoe Bay in Alaska to Ushuaia in Argentina — with one famous interruption. The Darién Gap, roughly 100 kilometres of jungle between Panama and Colombia, has defeated every road-building attempt since the highway was conceived in the 1920s. Engineers, politicians, and adventurers have proposed solutions for a century. The jungle wins every time.
+score: 6.8
 ---
 
 Meteti sits effectively at the end of the navigable Pan-American Highway heading south. The road continues a bit further east to Yaviza, but Meteti is the practical last stop with consistent services — fuel, food, supplies, and communication. For anyone who has driven from North America, this is where the car stops and the adventure changes character entirely.

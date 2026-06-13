@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Medieval church where Hans Christian Andersen was baptised
+score: 7.3
 ---
 
 Sankt Hans Kirke is a brick Gothic parish church just south of the King's Garden, parts of which date from the 13th century. Hans Christian Andersen was baptised here in 1805, and the church preserves the font; one of the side chapels is signed as the Andersen chapel. The interior is modest by cathedral standards but has some unusual painted decoration on the vault ribs.

@@ -8,6 +8,7 @@ tags:
 - history
 title: Casa Murillo
 type: poi
+score: 7.4
 ---
 
 Casa Murillo is the former home of Pedro Domingo Murillo, the independence leader executed in Plaza Murillo in 1810. The house has been preserved as a museum on Calle Jaén — La Paz's most intact colonial street — and gives a good picture of how a prosperous creole household lived in late-colonial Bolivia. The rooms are furnished in period style, and the courtyard is one of the better preserved examples of the Andean colonial domestic architecture in the city.

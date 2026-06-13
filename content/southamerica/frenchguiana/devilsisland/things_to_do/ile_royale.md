@@ -3,6 +3,7 @@ title: "Ile Royale"
 type: poi
 latitude: 5.289
 longitude: -52.584
+score: 9.1
 ---
 
 The largest and most accessible of the three islands, Ile Royale is where boats dock and most visitors spend the majority of their time. The ruins here are extensive: a church, administrative buildings, the guards' quarters, a hospital, and the convict cemetery all survive in various states of decay. A small museum in the former wardens' building explains the history of the penal colony with photographs, documents, and artefacts.

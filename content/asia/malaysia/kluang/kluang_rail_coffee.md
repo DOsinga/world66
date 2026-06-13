@@ -14,6 +14,7 @@ story: >
   Federation, and independent Malaysia — without changing its recipe.
 sources:
   - https://en.wikipedia.org/wiki/Kluang_railway_station
+score: 8.1
 ---
 
 Kluang Rail Coffee (officially the Kluang Railway Station Coffee Shop) is Malaysia's most famous railway canteen and the main reason many food enthusiasts make the journey to this otherwise unremarkable town. The canteen occupies part of the old station building and serves from early morning (around 7am) until noon, then reopens for afternoon tea. It does not serve dinner.

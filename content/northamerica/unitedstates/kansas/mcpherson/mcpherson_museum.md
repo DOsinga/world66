@@ -11,6 +11,7 @@ story: >
   diamond was produced here. The General Electric team that achieved the breakthrough
   in 1954 had connections to McPherson College's chemistry department, and the
   museum devotes an exhibit to this local footnote in materials science.
+score: 7.2
 ---
 
 The McPherson Museum & Arts Foundation occupies a handsome building in the downtown area and covers both local history and fine arts. The history galleries trace McPherson County from its Native American prehistory through frontier settlement and the wheat boom, with a good collection of pioneer-era tools, photographs, and domestic objects. The art galleries rotate exhibits of regional and national artists.

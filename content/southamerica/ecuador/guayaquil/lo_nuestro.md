@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Lo Nuestro
 type: poi
+score: 5.8
 ---
 
 Lo Nuestro serves traditional Ecuadorian cuisine in the Urdesa neighbourhood, one of Guayaquil's most pleasant residential districts. The dining room is decorated in a nostalgic style with old photographs and antique furnishings that evoke early twentieth-century coastal Ecuador.

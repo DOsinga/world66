@@ -7,6 +7,7 @@ tags:
 - museum
 title: Alserkal Avenue
 type: poi
+score: 8.2
 ---
 
 Alserkal Avenue in Al Quoz is Dubai's most concentrated arts district: a cluster of warehouses converted into galleries, artist studios, design showrooms, and independent arts spaces. About 60 galleries and arts organisations are based here, covering contemporary art, photography, architecture, and design from the region and internationally.

@@ -8,6 +8,7 @@ latitude: 35.2720
 longitude: -120.6658
 address: 100 Madonna Road, San Luis Obispo, CA 93405
 url: madonnainn.com
+score: 7.9
 ---
 
 The Madonna Inn is a legendary California roadside kitsch landmark that opened in 1958. Alex Madonna built it himself, designing each of the 110 rooms in a different theme — there are cave rooms cut from natural rock, rooms decorated entirely in pink, a suite with a waterfall shower. The exterior is candy pink and white, and the overall effect is somewhere between fever dream and folk art installation.

@@ -7,6 +7,7 @@ tags:
 latitude: 32.5226
 longitude: -117.0353
 snippet: Mexico's fifth-largest city starts 20 minutes south of downtown — a half-day border crossing for food, art, and the genuinely foreign
+score: 8.0
 ---
 
 Tijuana is twenty minutes by trolley from downtown San Diego, and the contrast between the two sides of the border fence is one of the most visceral urban juxtapositions in North America. The US side ends at San Ysidro — the busiest land border crossing in the world — and Tijuana's Zona Centro begins immediately on the other side.

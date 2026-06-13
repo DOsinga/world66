@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - architecture
 - sight
+score: 7.0
 ---
 
 Geelong's Town Hall is the most imposing 19th-century civic building in the city — Classical Revival in style, faced in local bluestone with a freestone portico, fronting Johnstone Park. The original 1855 structure was extended in the 1880s as the city's wool wealth peaked, giving the building its current scale.

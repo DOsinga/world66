@@ -11,6 +11,7 @@ story: >
   weather-vane figure was replaced in stone in 1748, and the people of
   Astorga have insisted on his presence at the top of their cathedral ever
   since, no matter how many restorations the towers have undergone.
+score: 8.7
 ---
 
 The Catedral de Santa María was built in stages between 1471 and 1693, which is why it manages to be Gothic, Renaissance and Baroque all at once. The east end and the soaring nave are late Gothic; the western facade with its two pinnacled towers is a piece of late seventeenth-century theatre carved in pinkish sandstone. The interior is generous and luminous, with a magnificent walnut retablo by the Renaissance sculptor Gaspar Becerra (1558–62) that takes up the entire eastern end of the choir.

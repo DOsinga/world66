@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 6.6952
 longitude: -1.618
+score: 6.8
 ---
 
 St Peter's is the seat of the Catholic Archdiocese of Kumasi and the most architecturally ambitious church in the city. The vaulted nave is quiet even when the surrounding streets are at their loudest, and the stained glass is unusually good for a Ghanaian provincial church.

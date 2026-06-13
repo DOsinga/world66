@@ -6,6 +6,7 @@ tags:
 - sight
 title: Nageshwar Jyotirlinga
 type: poi
+score: 7.2
 ---
 
 Nageshwar Jyotirlinga is one of the major Shiva shrines claimed in the jyotirlinga tradition, and it draws a steady stream of pilgrims travelling the Dwarka circuit. A large seated Shiva statue announces the complex from a distance.

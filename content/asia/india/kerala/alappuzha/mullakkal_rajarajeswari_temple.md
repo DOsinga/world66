@@ -8,6 +8,7 @@ latitude: 9.4972
 longitude: 76.3432
 sources:
   - https://en.wikipedia.org/wiki/Mullakkal_Temple
+score: 6.7
 ---
 
 The Mullakkal Rajarajeswari Temple is the principal Hindu temple of Alappuzha and the presiding deity of the town. The temple dates back several centuries and is dedicated to Rajarajeswari, a form of the goddess Parvati. The October festival here — Mullakkal Chirappu — is one of the biggest local events of the year, with processions, traditional arts performances, and a large fair.

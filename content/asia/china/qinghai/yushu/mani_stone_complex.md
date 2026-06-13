@@ -8,6 +8,7 @@ latitude: 33.0040
 longitude: 97.0070
 story: >
   The stones here were not built by a single institution or planned by any authority. They accumulated one by one over centuries as individual pilgrims and devotees added their carved stones to the pile, each one inscribed by hand with the mantra Om Mani Padme Hum. The total is estimated at over two billion stones — a number so large it becomes abstract, until you walk the circuit and try to comprehend the scale of devotion it represents.
+score: 9.1
 ---
 
 The Gyanak Mani Stone Complex (Manishicheng) is a few kilometres from Yushu town centre and is without question one of the most extraordinary religious sites on the Tibetan Plateau. It consists of an enormous collection of carved mani stones — flat stones etched with the mantra Om Mani Padme Hum and images of deities — accumulated over centuries by Buddhist devotees and stacked into walls, terraces, and structures covering a substantial area. The stones are engraved individually; some are crude, some are masterworks of careful carving; all are the product of personal devotion.

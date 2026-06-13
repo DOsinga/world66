@@ -8,6 +8,7 @@ tags:
 - market
 title: Central Market
 type: poi
+score: 7.8
 ---
 
 Built in 1936 as a wet market, this pastel-blue art deco building near the Klang River was rescued from demolition in the 1980s and converted into a crafts and cultural market. Today it sells batik, pewterware, shadow puppets, woodcarvings, and other Malaysian handicrafts across two floors, with live demonstrations of traditional crafts running through the day.

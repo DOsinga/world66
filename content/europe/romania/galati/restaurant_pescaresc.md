@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Pescăresc
 type: poi
+score: 6.5
 ---
 
 A long-running fish restaurant on the lower Faleza, Pescăresc is the obvious choice for a first meal in Galați. The menu runs through the species of the lower Danube — carp, pike, zander, catfish, sometimes sturgeon when available — prepared in the traditional Romanian fish-soup style (saramură), grilled, or fried.

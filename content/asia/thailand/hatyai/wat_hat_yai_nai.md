@@ -8,6 +8,7 @@ tags:
 - sight
 title: Wat Hat Yai Nai
 type: poi
+score: 5.9
 ---
 
 The city's most famous sight is also one of its most photographed. Wat Hat Yai Nai's centrepiece is the Phra Phuttha Mahattamongkhon, a 35-metre reclining Buddha completed in 1972 and reckoned to be the third largest in the world. The figure lies on its right side, hand supporting the head, draped in gold-painted concrete and surrounded by a covered pavilion.

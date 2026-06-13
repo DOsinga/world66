@@ -13,6 +13,7 @@ story: >
   films. After years of decline it was thoroughly restored in the 1990s, and the
   McPherson Community Theatre now produces several shows a year there. The building
   looks almost exactly as it did when it opened.
+score: 7.9
 ---
 
 The McPherson Opera House is one of the better-preserved 19th-century performance venues in Kansas. Built in 1888 in a Romanesque Revival style, the brick exterior with its round-arched windows and corbelled cornice is a standout on the downtown block. The interior has been carefully restored and retains its original stage configuration.

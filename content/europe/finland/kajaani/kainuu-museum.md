@@ -5,6 +5,7 @@ latitude: 64.225
 longitude: 27.733
 snippet: "Regional history museum covering Kainuu's cultural and industrial past, on Asemakatu"
 tags: [things_to_do, museum]
+score: 7.4
 ---
 
 The Kainuu Museum at Asemakatu 4 covers the history of the Kainuu region from prehistoric times through the 20th century. The collection includes artefacts from the area's hunting and fishing traditions, the tar-burning industry that drove the regional economy for centuries, and the timber trade that eventually replaced it. There is also material on the folk culture of the region, which feeds into the broader story of the Kalevala and the oral poetry traditions that Elias Lönnrot documented while living in Kajaani.

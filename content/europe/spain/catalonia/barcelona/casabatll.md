@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Casa Batlló
 type: poi
+score: 9.2
 ---
 
 Casa Batlló is Gaudí at his most exuberant. The facade shimmers with broken ceramic tiles in blues and greens, the balconies curve like the bones of some creature, and the roof ridge ripples like the back of a dragon — a reference to the Catalan legend of Sant Jordi slaying the beast. Gaudí remodelled an existing building for the Batlló family between 1904 and 1906, and the result has no straight lines worth mentioning.

@@ -8,6 +8,7 @@ latitude: 54.3154
 longitude: 48.4054
 story: >
   Ivan Goncharov's great novel Oblomov (1859) gave the Russian language a new word: "oblomovshchina," meaning the paralysing inertia of comfortable provincial life. Goncharov, born in Simbirsk in 1812, drew directly on the town's sleepy atmosphere. The irony of his hometown later producing Lenin — arguably the most energetically anti-Oblomov figure in world history — is one Ulyanovsk residents are well aware of.
+score: 6.8
 ---
 
 The Goncharov Literary Museum, housed in a handsome classical building at 3/4 Novy Venets Boulevard in the heart of the historic centre, is dedicated to Ivan Alexandrovich Goncharov, author of *Oblomov* and the travel memoir *The Frigate Pallada*. Goncharov was born in Simbirsk in 1812 and the museum holds manuscripts, first editions, personal correspondence, and period furniture that recreate the literary world of mid-19th-century Russia.

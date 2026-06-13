@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Lido di Venezia
 type: poi
+score: 6.9
 ---
 
 The Lido is the long, narrow barrier island that shields the Venice lagoon from the Adriatic. Only a short vaporetto ride from San Marco, it feels like a different world — wide streets with actual cars, Liberty-style villas behind garden hedges, and a proper sandy beach facing the open sea.

@@ -7,6 +7,7 @@ address: Beverly Centre, Blue Area
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 Cinnamon was one of the first proper fine-dining restaurants in Islamabad when it opened in the early 2000s and remains a fixture of the city's special-occasion calendar. The menu is contemporary European with a few Mediterranean detours — pastas, grilled fish, beef tenderloin, chocolate fondant — competent rather than dazzling but consistently well-executed.

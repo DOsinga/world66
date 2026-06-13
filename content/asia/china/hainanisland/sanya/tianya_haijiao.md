@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Tianya Haijiao
 type: poi
+score: 7.5
 ---
 
 Tianya Haijiao — literally "Edge of the Sky, Corner of the Sea" — is a coastal park about 26 kilometres west of central Sanya built around two enormous granite boulders sitting just offshore. Chinese calligraphy carved into the rocks during the Qing dynasty gave the site its name, and the phrase has long been a Chinese metaphor for the ends of the earth, used in poems by poets like Su Dongpo (who was himself exiled to Hainan).

@@ -7,6 +7,7 @@ tags:
 latitude: 30.5206
 longitude: 78.2374
 snippet: A quiet hill station in the deodar forests above Mussoorie, with Himalayan views and minimal crowds
+score: 6.8
 ---
 
 Dhanolti is a small hill station on the Mussoorie–Chamba road, at an altitude of about 2,200 metres, surrounded by dense forests of deodar, oak, and rhododendron. It is significantly quieter than Mussoorie and Rishikesh and offers a gentler introduction to the Garhwal hills for travellers who prefer forests to crowds.

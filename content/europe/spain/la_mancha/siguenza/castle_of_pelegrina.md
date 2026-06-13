@@ -9,6 +9,7 @@ tags:
   - nature
 title: Castle of Pelegrina
 type: poi
+score: 6.8
 ---
 
 The ruined Castle of Pelegrina stands above a small village and a limestone ravine south of Sigüenza. Little remains compared with Sigüenza's own castle, but the setting is excellent: broken walls, pale rock, and open views across the high country.

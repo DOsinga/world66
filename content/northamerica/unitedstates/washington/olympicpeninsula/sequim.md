@@ -7,6 +7,7 @@ tags:
   - town
 title: Sequim
 type: poi
+score: 6.9
 ---
 
 Sequim sits in the Olympic rain shadow, which makes it drier and sunnier than the rainforest side of the peninsula. Lavender farms, gentle cycling, and Dungeness Spit give it a softer rhythm than the coast.

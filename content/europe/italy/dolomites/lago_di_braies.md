@@ -13,6 +13,7 @@ story: >
   — including former French prime ministers, the former Austrian chancellor, and various
   generals — to the lake as potential bargaining chips. They were liberated by US Army units
   on 4 May, just four days before Germany's unconditional surrender.
+score: 8.2
 ---
 
 The most photographed lake in the Dolomites, Lago di Braies sits at 1,496 metres in the Braies valley (Val di Braies), backed by the pale limestone cliffs of the Seekofel. Its colour — an intense jade-green in summer, milky turquoise when fed by snowmelt — results from the light passing through glacially ground particles still suspended in the water.

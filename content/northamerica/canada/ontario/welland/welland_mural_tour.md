@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 42.9922
 longitude: -79.2484
 snippet: Over 40 large-scale murals depicting Welland's canal and industrial history
+score: 6.8
 ---
 
 Welland has accumulated over 40 large outdoor murals on buildings throughout the downtown and canal corridor, making it one of the more substantial outdoor public art programs in Ontario. The murals were commissioned over several decades beginning in the 1970s and focus largely on the city's history — canal construction, the steel and textile industries, the multicultural communities that built the city — rather than purely decorative subjects. They are painted at substantial scale, many covering entire building facades.

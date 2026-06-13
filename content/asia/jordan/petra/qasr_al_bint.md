@@ -8,6 +8,7 @@ tags:
 latitude: 30.3295
 longitude: 35.4401
 story: "The local name — Qasr al-Bint Faraoun, 'Palace of the Pharaoh's Daughter' — comes from a Bedouin legend in which she promised her hand to whichever suitor first brought water up to the temple. The water channels at the back of the building are real Nabataean engineering."
+score: 8.2
 ---
 
 The only free-standing Nabataean building still partly standing at Petra — a square temple at the end of the colonnaded street, built around the late first century BC and probably dedicated to the chief god Dushara. The walls still rise to about 23 metres in places, which is unusual for a 2,000-year-old freestanding structure in an active earthquake zone.

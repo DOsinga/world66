@@ -9,6 +9,7 @@ latitude: 43.8805
 longitude: 11.0961
 story: >
   On the exterior corner of the cathedral hangs the Pulpit of the Sacred Girdle — a tiny marble balcony by Donatello and Michelozzo built for a specific purpose: displaying the Virgin's belt, supposedly a relic given to the apostle Thomas by Mary at her Assumption. The girdle is still taken out and shown to the crowd five times a year, just as it has been since the 13th century.
+score: 8.9
 ---
 
 The Cattedrale di Santo Stefano is Prato's most important building and one of the finest Romanesque-Gothic churches in Tuscany. The striped green and white marble facade is characteristic of the Prato school, and the exterior is punctuated by Donatello's famous Pulpit of the Sacred Girdle — a little marble balcony projecting from the corner, supported by a capital carved with dancing putti.

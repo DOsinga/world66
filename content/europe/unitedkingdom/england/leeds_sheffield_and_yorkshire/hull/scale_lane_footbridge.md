@@ -13,6 +13,7 @@ story: >
   bridge while it swings — it carries them out into the middle of the river
   and back. The bridge won several engineering awards after opening in 2013
   and has become one of Hull's quietly memorable city-walking experiences.
+score: 7.2
 ---
 
 The Scale Lane Footbridge connects the Old Town to the regenerated east bank of the River Hull. It is a curving steel structure that pivots on a single base near the eastern shore. The walking surface is decked in hardwood and ends in a small viewing platform.

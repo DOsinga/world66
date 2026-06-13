@@ -8,6 +8,7 @@ tags:
 latitude: 4.6080
 longitude: -74.0691
 snippet: "One of Bogota's oldest churches, at the historic boundary of the colonial city"
+score: 7.4
 ---
 
 The Iglesia de Nuestra Señora de Las Nieves, on Carrera 7 near Calle 19, sits at what was historically the northern edge of colonial Bogota. The original church on this site dates from 1585, making it one of the oldest in the city. The current structure is mostly 19th-century, but the interior preserves colonial paintings and a carved altar.

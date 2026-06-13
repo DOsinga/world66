@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.2525
 longitude: 19.8457
+score: 8.0
 ---
 
 The Gallery of Matica Srpska holds the most important collection of Serbian art outside Belgrade — 18th- to 20th-century paintings and sculpture, displayed in a well-renovated 19th-century building on the edge of the old centre. Free admission and a quiet, contemplative atmosphere.

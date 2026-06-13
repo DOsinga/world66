@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.5947
 longitude: 19.3461
+score: 6.4
 ---
 
 The Queen Elisabeth Park extends behind and beside the Royal Palace, originally laid out as a formal garden and later expanded as an English landscape park in the 19th century. The park is named for Empress Elisabeth, who frequently walked and rode horses through its grounds during the long summer stays at Gödöllő.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 5.8592
 longitude: 48.2541
 story: "The Sultanate of Hobyo was founded in 1878 by Yusuf Ali Kenadid, a Majeerteen prince who broke away from the larger Majeerteen Sultanate to the north and set up his own polity on this stretch of coast. It was absorbed by Italian Somaliland in 1925 after the Italians deposed the last sultan."
+score: 5.9
 ---
 
 Scattered around the town are the modest remains of the Sultanate of Hobyo, the small Somali polity that flourished here from 1878 to 1925. The most visible traces are fragments of the old sultan's palace and stone-built houses near the coast, much of it in ruins or absorbed into later buildings.

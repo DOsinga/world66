@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8112
 longitude: 2.1112
+score: 7.3
 ---
 
 The Belvédère is a small octagonal garden pavilion designed by Richard Mique in 1781 for Marie Antoinette, set on an artificial hill in the English garden of the Petit Trianon with views over the lake below. It was used as a summer music room — the queen held private concerts here, the small interior lit by lanterns hung in the surrounding trees.

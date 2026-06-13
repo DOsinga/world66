@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2441
 longitude: -116.9120
+score: 8.5
 ---
 
 The lake itself — three miles long and nearly a mile wide, set at 6,752 feet in a bowl of pine-covered mountains — is the reason everything else in Big Bear exists. In summer it's given over to motorboats towing water skiers, kayakers crossing to quieter coves, anglers fishing for bass and trout, and paddleboarders drifting in the afternoon light. Boat and kayak rentals are available at several marinas along the south shore.

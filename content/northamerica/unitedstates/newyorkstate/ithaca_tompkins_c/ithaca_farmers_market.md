@@ -8,6 +8,7 @@ tags:
   - eating_out
 latitude: 42.4564
 longitude: -76.5181
+score: 7.9
 ---
 
 Saturdays and Sundays from spring to early winter, in an open-sided timber pavilion at Steamboat Landing on the Cayuga inlet. Around a hundred stalls, all from farms and makers within a 30-mile radius of Ithaca — vegetables, cheeses, breads, prepared foods, beer, wine, ceramics, and quite a lot of tie-dye.

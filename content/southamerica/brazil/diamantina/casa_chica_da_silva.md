@@ -16,6 +16,7 @@ story: >
   of her children, amassed significant property, and had fourteen children with Fernandes de
   Oliveira. When he returned to Portugal in 1770, he left her behind. She died in Diamantina in
   1796.
+score: 7.6
 ---
 
 Chica da Silva was an enslaved woman who became, through her relationship with the royal diamond contractor João Fernandes de Oliveira, one of the wealthiest and most influential people in 18th-century colonial Brazil. Her house on Praça Lobo de Mesquita is now a museum, and the building itself — a large colonial mansion with a central courtyard — gives a sense of the scale of the fortune that passed through Diamantina's diamond trade.

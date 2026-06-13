@@ -9,6 +9,7 @@ latitude: 38.3200
 longitude: 116.8700
 story: >
   The Iron Lion was cast in 953 CE during the Five Dynasties period, making it over 1,070 years old. The casting method used is still not fully understood — producing a seamless 50-tonne iron sculpture in the 10th century required techniques sophisticated enough to have attracted the attention of modern metallurgists. The inscription across its abdomen is not merely decorative: it contains the founding text of the Diamond Sutra, one of the central scriptures of East Asian Buddhism.
+score: 8.0
 ---
 
 The Cangzhou Iron Lion is one of the oldest and largest iron castings in Chinese history — a 5.78-metre standing lion cast in 953 CE that has been exposed to the elements for over a thousand years. The sheer improbability of the object's survival gives it a different quality from most ancient monuments: it has been standing longer than most dynasties have lasted, developing a dense rust patina that has given it the texture of geology rather than manufacture.

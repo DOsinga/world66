@@ -10,6 +10,7 @@ story: >
   The castle's strategic position on Mount Benacantil made it the scene of a remarkable act of resistance in 1812, when a small Spanish garrison held out against French forces for months. When they finally surrendered, the French were so impressed that they allowed the garrison to march out with full military honours.
 sources:
   - https://en.wikipedia.org/wiki/Santa_B%C3%A0rbara_Castle
+score: 8.2
 ---
 
 Santa Bàrbara Castle sits on a rocky outcrop called Mount Benacantil, 166 metres above Alicante's beach, and dominates the city skyline from nearly every direction. The fortress dates from Moorish times, though most of what survives today is the work of Spanish kings from the sixteenth century onwards, when Alicante was an important Mediterranean port.

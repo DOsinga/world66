@@ -9,6 +9,7 @@ tags:
 - market
 title: Khlong Hae Floating Market
 type: poi
+score: 6.9
 ---
 
 Southern Thailand's only floating market, on a small canal about 6 km north of central Hat Yai. Vendors in flat-bottomed boats sell southern Thai snacks — grilled satay, curried noodles, sweet sticky rice, the famous Hat Yai fried chicken — to crowds eating on the canal-side wooden walkways. The atmosphere is touristy but the food is authentic and inexpensive.

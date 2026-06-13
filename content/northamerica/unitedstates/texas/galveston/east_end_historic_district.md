@@ -10,6 +10,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/East_End_Historic_District,_Galveston
+score: 8.3
 ---
 
 The East End Historic District is the most intact Victorian residential neighbourhood in Texas, covering roughly 40 blocks east of Broadway between 9th and 19th streets. The neighbourhood was the home of Galveston's professional and merchant class in the late 19th century, and the mix of Italianate, Queen Anne, and Eastlake Victorian houses has been carefully preserved — partly because the neighbourhood declined economically rather than being torn down for redevelopment.

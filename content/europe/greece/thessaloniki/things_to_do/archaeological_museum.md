@@ -13,6 +13,7 @@ story: >
   delicacy. The Derveni krater — a bronze vessel standing 90 cm tall, decorated with a frieze 
   of Dionysian revellers in high relief — was buried with a Macedonian aristocrat around 320 BC 
   and is considered one of the finest surviving examples of ancient Greek metalwork.
+score: 8.7
 ---
 
 The Archaeological Museum sits near the White Tower and YMCA, a 1960s building that holds one of the most important collections of Macedonian antiquities anywhere. The ground floor covers prehistoric and Bronze Age Macedonia; the upper floors present the Classical, Hellenistic and Roman periods in well-lit rooms with good English labelling.

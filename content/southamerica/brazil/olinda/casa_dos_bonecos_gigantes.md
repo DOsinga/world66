@@ -9,6 +9,7 @@ longitude: -34.8517
 snippet: Workshop where Olinda's famous giant carnival puppets are made and stored year-round
 story: >
   The bonecos de Olinda tradition started in the 1930s when sculptor Silvio Botelho began making large papier-mâché figures to lead Carnival processions through the streets. The figures represent politicians, celebrities, and stock folk characters; new ones are commissioned each year and old ones are retired. A boneco can take months to build and requires a team to carry through the streets during Carnival. The workshop is where that work happens, quietly, all year long.
+score: 8.0
 ---
 
 The Casa dos Bonecos Gigantes is the workshop and storage facility for Olinda's giant carnival puppets — the papier-mâché figures, some reaching three metres tall, that lead the famous Carnival processions through the historic streets. Visiting outside Carnival season gives you the chance to see the figures up close without the crowds, and often to watch the craftspeople at work constructing or repairing them.

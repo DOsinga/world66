@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Manufaktura
 story: >
   The complex was built by Izrael Poznański, a Jewish textile magnate who arrived in Łódź in the 1850s with almost nothing and became one of the richest men in the Russian Empire. By the time he died in 1900, his factory complex covered 30 hectares, his palace was the grandest private residence in the city, and his workers lived in a closed company town built around the factory. The palace now houses the city museum; the factory is a shopping mall. Capitalism has a long memory.
+score: 7.8
 ---
 
 Manufaktura is the centrepiece of Łódź's reinvention: a vast complex of 19th-century red-brick factory buildings around a huge cobbled square, transformed since the 2000s into a mix of shops, restaurants, cinemas, and museums. It sounds like it might be grim, but it works. The scale of the original factory is extraordinary, and enough of the industrial character has been preserved to keep it from feeling like a generic shopping centre.

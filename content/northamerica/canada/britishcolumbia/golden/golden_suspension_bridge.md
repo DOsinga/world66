@@ -8,6 +8,7 @@ latitude: 51.32
 longitude: -117.01
 story: >
   The Golden Skybridge opened in 2021 and immediately became one of BC's most talked-about new attractions. The two suspension bridges span a canyon carved by a tributary of the Kicking Horse River, with the lower bridge hanging 80 metres above the canyon floor and the upper bridge at 130 metres — the highest suspension bridges in Canada.
+score: 6.9
 ---
 
 The Golden Skybridge attraction opened in 2021 and quickly became a must-visit for travellers passing through. The two suspension bridges cross a dramatic canyon just west of Golden, offering vertiginous views down to the river below and out across the Columbia Valley. The experience is enhanced by a zipline, a giant swing, and interpretive trails through the surrounding forest.

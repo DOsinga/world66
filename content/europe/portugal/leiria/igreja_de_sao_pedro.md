@@ -8,6 +8,7 @@ tags:
 snippet: "12th-century Romanesque church, the oldest building in Leiria"
 latitude: 39.7472613
 longitude: -8.8095805
+score: 7.1
 ---
 
 Just below the castle stands the small church of São Pedro, the oldest surviving building in Leiria. The Romanesque portal with its concentric arches dates to the late twelfth century, when the church served the medieval village clustered on the slope beneath the castle walls.

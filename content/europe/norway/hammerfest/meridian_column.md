@@ -9,6 +9,7 @@ latitude: 70.6618
 longitude: 23.6772
 story: >
   The Struve Geodetic Arc was a 2,820-kilometre chain of triangulation measurements made between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm von Struve. The survey ran from Hammerfest in the north to the Danube delta in present-day Ukraine, and it provided the first accurate measurement of the Earth's shape and size — crucial for mapmaking, navigation, and understanding the planet. Hammerfest's column is the northernmost point of the arc; the southernmost is in present-day Moldova.
+score: 7.9
 ---
 
 The Meridian Column stands on a small hillock near Hammerfest's town centre, marking the northern endpoint of the Struve Geodetic Arc — a monumental nineteenth-century scientific project to measure the shape of the Earth. The column was erected in 1854 at the conclusion of the survey, making it one of the oldest geodetic monuments still standing.

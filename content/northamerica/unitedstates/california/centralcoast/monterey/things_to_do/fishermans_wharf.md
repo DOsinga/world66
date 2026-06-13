@@ -9,6 +9,7 @@ latitude: 36.6045
 longitude: -121.8943
 sources:
   - https://en.wikipedia.org/wiki/Fisherman%27s_Wharf_(Monterey,_California)
+score: 5.9
 ---
 
 The wooden pier extending into the bay is undeniably touristy — clam chowder in sourdough bread bowls, taffy shops, whale watching boats — but the California sea lions hauled out on the pilings underneath are the real draw. They are wild animals living in the middle of the harbour, completely unbothered by the foot traffic above them. You can hear them barking from half a block away.

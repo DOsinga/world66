@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Yolanda Shipwreck Memorial
 type: poi
+score: 7.8
 ---
 
 The Yolanda Shipwreck Memorial Park in Barangay Anibong, on Tacloban's bay side, marks the spot where the cargo ship MV Eva Jocelyn was driven aground by Typhoon Haiyan's storm surge on 8 November 2013. The ship landed on top of a coastal neighbourhood, killing several residents and crushing dozens of homes. The bow and a section of the hull have been preserved on site, ringed by a memorial garden and Stations of the Cross.

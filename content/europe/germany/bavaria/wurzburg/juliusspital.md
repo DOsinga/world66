@@ -14,6 +14,7 @@ story: >
   estate, with 170 hectares of some of the best Franken vineyard sites, is one of the three largest
   charitable wine estates in Germany, alongside the Bürgerspital in Würzburg and the
   Staatlicher Hofkeller in the Residenz.
+score: 7.8
 ---
 
 The Juliusspital is one of three great charitable wine estates in Würzburg, each with vineyards that have been maintained for centuries to fund social institutions. The Juliusspital's vineyards cover around 170 hectares across some of the finest sites in Franken, and the wine — particularly the Silvaner and Riesling from the Würzburger Stein and Julius-Echter-Berg sites — is among the best in Germany.

@@ -9,6 +9,7 @@ tags:
 latitude: 47.5038
 longitude: 8.7274
 snippet: Medieval gate tower marking the northern entrance to Winterthur's old town
+score: 5.8
 ---
 
 The Rotes Turm — Red Tower — is the most visible remnant of Winterthur's medieval fortifications, standing at the northern edge of the old town where the main pedestrian shopping street begins. The round tower, built around 1264, served as the city gate and later as a prison. It was restored in the 20th century and now stands somewhat unexpectedly in the middle of the commercial street, dwarfed by department store facades but still commanding in its own way.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 16.2700
 longitude: -0.0480
+score: 7.2
 ---
 
 The Gao market is the commercial centre of the town and a window into the crossroads culture of the eastern Sahel. Traders from across the region converge here — Tuareg camel herders selling leather goods, Songhai farmers with millet and dried fish, Fulani women with milk and butter, and merchants carrying desert goods from further north.

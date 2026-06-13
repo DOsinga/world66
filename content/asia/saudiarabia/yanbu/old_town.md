@@ -16,6 +16,7 @@ story: >
   and spice — a description that still fits parts of the old quarter.
 sources:
   - https://en.wikipedia.org/wiki/Yanbu
+score: 8.0
 ---
 
 The old town of Yanbu — Al-Balad — sits between the modern city and the waterfront, and preserves a degree of traditional Hejazi character that is increasingly rare in Saudi Arabia. The architecture reflects the town's long history as a Red Sea port: coral stone buildings with carved wooden screens (rawasheen), narrow lanes that provide shade, and a few mosques from earlier centuries still in use.

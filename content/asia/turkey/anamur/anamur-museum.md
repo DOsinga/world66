@@ -5,6 +5,7 @@ latitude: 36.07
 longitude: 32.865833
 snippet: "Small town museum holding finds from Anemurium, Mamure, and the surrounding region"
 tags: [things_to_do, museum]
+score: 6.4
 ---
 
 The Anamur Museum is a compact archaeological collection that serves as a useful introduction to the region's ancient history before visiting the sites themselves. Most of the collection comes from excavations at Anemurium — coins, ceramics, glass vessels, jewellery, and inscriptions spanning the Roman and Byzantine periods. There are also finds from the broader Mersin Province, including some prehistoric and early Bronze Age material.

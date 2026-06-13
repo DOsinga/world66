@@ -12,6 +12,7 @@ story: >
   one of the best snorkelling spots on the Florida Gulf coast — the kelp
   beds and rock structure attract sea turtles, sheepshead, and the
   occasional manatee in calm water.
+score: 8.4
 ---
 
 St. Andrews State Park occupies the southeastern tip of the peninsula that separates St. Andrews Bay from the Gulf of Mexico. The 1,200-acre park has sugar-white sand beaches on both the Gulf and bay sides, two long jetties enclosing a calm-water swimming and snorkelling lagoon, twin freshwater ponds, and several miles of pine and palmetto trails behind the dunes.

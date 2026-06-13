@@ -3,6 +3,7 @@ title: "The Lagoon"
 type: poi
 latitude: 9.160
 longitude: 167.080
+score: 8.1
 ---
 
 At 1,100 square miles, the Kwajalein lagoon is the largest coral atoll lagoon in the world. The scale is extraordinary — it takes a good hour to cross by boat, and from one shore the opposite side is beyond the horizon. The water is crystalline, sheltered from the open ocean swells by the reef and islands ringing the atoll.

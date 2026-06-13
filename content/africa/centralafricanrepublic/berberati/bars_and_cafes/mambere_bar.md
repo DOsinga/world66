@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
 latitude: 4.2620
 longitude: 15.7905
+score: 4.9
 ---
 
 One of Berberati's better-known drinking spots, named for the Mambéré River that runs through the prefecture. Cold beer (Castel and Mocaf are the staples), palm wine, and occasionally locally distilled arki are on offer. The clientele is a cross-section of the city — traders, NGO staff, local government workers — and the bar fills up from early evening. Music plays, conversations carry across tables, and the night goes late.

@@ -13,6 +13,7 @@ story: "Near the summit, the tiny hermitage chapel of San Nicola di Bari is carv
   18th century, hollowing out their cells from the rock. The chapel is still used for
   mass on the feast day of San Nicola in December, when a small crowd makes the climb
   before dawn."
+score: 9.1
 ---
 
 At 789 metres, Mount Epomeo is the highest point on Ischia and the dominant feature of the island's interior. It is an extinct volcano — the last eruption was in 1302 — and the summit ridge is made of green tufa, a compressed volcanic rock light enough to be carved by hand. The views from the top take in the whole island and, on a clear day, the Gulf of Naples, Vesuvius, the Amalfi Coast, and the islands of Capri, Procida, and Ponza.

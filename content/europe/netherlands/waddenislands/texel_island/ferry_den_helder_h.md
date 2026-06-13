@@ -5,6 +5,7 @@ tags:
 title: Ferry Den Helder harbour <> Texel island
 type: poi
 url: www.teso.nl
+score: 6.0
 ---
 
 Departure/timetable and tariff information for the ferry [Den Helder](/europe/netherlands/denhelder) harbour-Texel island.

@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Old Town (Centro Storico)
 type: poi
+score: 8.8
 ---
 
 Alghero's old town occupies a small promontory between the harbour and the sea, enclosed by 16th-century walls and seven defensive towers. The street pattern is medieval — narrow, irregular, and aligned more by historical accident than design — and the buildings are still mostly the original stone houses, three or four storeys high, with iron balconies and ground-floor shops. Most of the centre is pedestrianised.

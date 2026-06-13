@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0755
 longitude: 1.158
+score: 7.8
 ---
 
 The Camí de Ronda is an old coastal footpath that runs along the rocky southern section of Salou's coastline, connecting the smaller coves that are inaccessible by road. The path passes above the sea on the clifftop, dipping down to pocket beaches like Cala Llenguadets and Cala Font, and the views of the Mediterranean are consistently good.

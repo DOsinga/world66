@@ -9,6 +9,7 @@ tags:
 title: Old Van
 type: poi
 story: "Until 1915, Van was a thriving Armenian-majority city with churches, schools, markets, and several thousand stone houses crowded below the fortress. During the Armenian genocide and the fighting that followed, the entire old city was burned and dynamited. The new city was rebuilt several kilometres east, and the old site was deliberately left empty."
+score: 8.1
 ---
 
 Walk down the back of the Van Fortress rock and you reach a wide, level plain dotted with low stone foundations and the ruins of two large mosques — the Hüsrev Paşa and Kaya Çelebi mosques, both Ottoman, both still partly standing. This is the site of Old Van: until 1915, a city of around 80,000 people, predominantly Armenian, with two cathedrals, dozens of churches, and a famous bazaar.

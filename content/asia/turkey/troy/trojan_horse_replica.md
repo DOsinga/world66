@@ -7,6 +7,7 @@ tags:
 latitude: 39.9580
 longitude: 26.2395
 snippet: "The unavoidable wooden horse at the entrance to the site — a 1975 reconstruction, climbable, photogenic."
+score: 4.8
 ---
 
 The large wooden horse at the entrance to the archaeological site is the first thing every visitor sees and the most photographed object on the mound. It is a 1975 reconstruction by the architect Izzet Senemoglu, about eight metres tall, built to evoke the famous wooden horse of the *Iliad* and (more directly) the *Aeneid*. A wooden ladder climbs to a small viewing platform inside the horse's belly, looking out through windows cut into the flanks.

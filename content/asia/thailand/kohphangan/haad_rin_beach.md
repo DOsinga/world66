@@ -9,6 +9,7 @@ story: >
   The Full Moon Party began in 1988 with a spontaneous gathering of perhaps 30 backpackers on
   the beach. By the 2010s it was drawing crowds of 10,000 to 30,000 every month — a remarkable
   transformation for an island with no airport and limited infrastructure.
+score: 6.8
 ---
 
 Haad Rin is a peninsula at the southern tip of Koh Phangan with a beach on each side — the east-facing Haad Rin Nok (Sunrise Beach) and the more sheltered Haad Rin Nai (Sunset Beach). Sunrise Beach is where the Full Moon Party takes place: a strip of bars, fire dancers, and tens of thousands of revellers starting at sundown and running to dawn. The party happens every month around the full moon and has made Koh Phangan one of the most recognisable names in backpacker travel.

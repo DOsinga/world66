@@ -8,6 +8,7 @@ snippet: The house behind Thomas Mann's first novel, now a literary museum
 tags:
 - things_to_do
 - museum
+score: 6.2
 ---
 
 The white-fronted patrician house at Mengstraße 4 was owned by Thomas Mann's grandfather and is the setting for the novel that won Mann the Nobel Prize in 1929 — *Buddenbrooks: Verfall einer Familie* (1901). The book traces four generations of a Lübeck merchant family's decline; the rooms, the staircase, the warehouse at the back are all in the novel.

@@ -9,6 +9,7 @@ tags:
 - sight
 title: Sentō Imperial Palace
 type: poi
+score: 7.8
 ---
 
 The Sentō Imperial Palace, immediately adjacent to the main Imperial Palace inside Kyoto Gyoen, was historically the residence of retired emperors. The palace buildings themselves were destroyed by fire in 1854 and never rebuilt, but the gardens — a Kobori Enshū design of 1630, modified by Emperor Go-Mizunoo himself — survive and have continued in use, hosting visiting heads of state and members of the imperial family.

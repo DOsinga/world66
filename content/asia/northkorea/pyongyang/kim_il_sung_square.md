@@ -12,6 +12,7 @@ story: >
   on major state anniversaries are choreographed to a precision that requires
   months of daily rehearsal by participants. The squares of Tiananmen and Red Square
   are both smaller.
+score: 8.4
 ---
 
 Kim Il-sung Square is the political and ceremonial heart of Pyongyang — a vast paved expanse on the west bank of the Taedong River, flanked by the Grand People's Study House (the national library) on one side and the Korean Art Gallery and History Museum on the other. This is where the great military parades take place on state anniversaries, where citizens attend mandatory political rallies, and where tour groups invariably begin their first morning in the city.

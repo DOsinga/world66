@@ -10,6 +10,7 @@ tags:
 latitude: 44.6760
 longitude: 8.4690
 story: The "Bollente" in the centre of Acqui Terme has been gushing for two thousand years — sulphurous water at 75°C bubbling out of a marble pavilion built in 1879. The Romans called the town Aquae Statiellae and built grand baths fed by the same source; a section of the Roman aqueduct still stands across the river.
+score: 7.7
 ---
 
 Acqui Terme is a quiet wine-and-spa town in the south of Monferrato, known since antiquity for its hot sulphur springs. The central piazza is named for, and dominated by, La Bollente — a steaming public fountain that has been the symbol of the town since Roman times. Children paddle around it on hot days; locals fill bottles to take home.

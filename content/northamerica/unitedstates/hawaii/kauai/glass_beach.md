@@ -9,6 +9,7 @@ latitude: 21.9033
 longitude: -159.5917
 sources:
   - https://en.wikipedia.org/wiki/Glass_Beach,_Kauai
+score: 5.8
 ---
 
 Glass Beach in Port Allen, on Kauaʻi's south shore, is an unusual beach where decades of dumped industrial waste has been transformed by the ocean into something beautiful. The town used this stretch of shoreline as a dump from roughly 1900 to 1980, and the surf has spent the decades since grinding bottles, crockery, and pottery into smooth, rounded pieces of sea glass that wash up in every colour — green, amber, white, blue, and occasionally red or purple.

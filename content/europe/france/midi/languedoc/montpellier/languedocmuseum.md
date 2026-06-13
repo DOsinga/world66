@@ -8,6 +8,7 @@ tags:
 - museum
 title: Languedoc Museum
 type: poi
+score: 6.2
 ---
 
 The Musee Languedocien occupies a grand 17th-century hotel particulier on Rue Jacques Coeur. Its collections span a wide arc -- prehistoric and protohistoric artifacts, Greek and Etruscan ceramics, Roman mosaics, Egyptian pieces, and a strong selection of Romanesque sculpture from the region's medieval abbeys. The classical ceramics collection is particularly good.

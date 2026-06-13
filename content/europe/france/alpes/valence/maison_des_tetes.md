@@ -8,6 +8,7 @@ tags:
 latitude: 44.93300
 longitude: 4.89200
 story: "The building gets its name from the 71 sculpted heads that decorate its Renaissance facade. They represent the winds — classical allegorical figures — carved with enough eccentricity and invention that no two are quite the same. The house was built in 1532 for a cloth merchant named Antoine de Mistral, which is a name with obvious Rhône Valley resonance. The sculptor is unknown."
+score: 7.3
 ---
 
 The Maison des Têtes is the finest Renaissance building in Valence, dating from 1532. Its facade is covered in 71 carved heads representing the winds — an exuberant decorative programme that places it firmly in the tradition of French Renaissance display. The building stands on the Grande Rue in the old town and is visible enough that it is impossible to miss on any walk through the centre.

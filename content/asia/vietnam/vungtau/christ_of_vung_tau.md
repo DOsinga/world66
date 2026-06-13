@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Construction started in 1974 under the South Vietnamese government, stopped after the war, and only resumed in 1992 — finished in 1994. At 32 metres on a 4-metre plinth, the statue holds the title of the tallest statue of Christ in Asia, with arms spanning 18 metres."
+score: 8.6
 ---
 
 The Christ statue on Mount Nhỏ at the southern tip of the peninsula is Vung Tau's signature image. It stands 32 metres tall with arms outstretched 18 metres across — a near-twin of Rio's Cristo Redentor, finished in the early 1990s after a stop-start construction that bridged the end of the war.

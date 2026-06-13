@@ -11,6 +11,7 @@ story: >
   The cycling circuit that most travellers do in a day takes in Shweyinhmyaw Pagoda, Kawgun Cave, Yathaypyan Cave (with its bat flight at dusk), Zwegabin trailhead, and several smaller cave pagodas — roughly 50 kilometres of flat roads through rice paddies with karst formations rising from the plain at intervals. The combination of sacred sites, wildlife spectacle, and landscape cycling makes it one of the best day trips in Myanmar.
 sources:
   - https://en.wikipedia.org/wiki/Hpa-an
+score: 7.7
 ---
 
 Hpa-an's landscape is best experienced on a bicycle. The surrounding plain is completely flat, the distances between sites manageable, and the roads quiet enough to ride at leisure. Bicycles are rented from guesthouses in town for a few dollars a day; most guesthouses also have printed maps of the main circuit.

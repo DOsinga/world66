@@ -7,6 +7,7 @@ tags:
 latitude: -9.4880
 longitude: 147.1590
 snippet: "Central waterfront area with ocean views and evening activity"
+score: 6.3
 ---
 
 Ela Beach is the main public waterfront strip in the city centre — a long stretch of grass and sand along the harbour, used by families, joggers, and locals enjoying the evening breeze. The beach itself is pleasant but not suitable for swimming due to pollution from the harbour; it functions more as a park by the sea than a swimming beach.

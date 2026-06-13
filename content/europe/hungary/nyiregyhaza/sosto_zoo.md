@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.9994
 longitude: 21.7249
+score: 7.8
 ---
 
 The **Nyíregyháza Zoo** (known also as Sóstó Zoo) is considered one of the best zoos in Hungary, and one of the largest. Its 30 hectares house a wide range of animals from different continents, including several species bred as part of European conservation programmes. The enclosures are well-designed and considerably more spacious than the cramped facilities found in many older Hungarian zoos.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0334
 longitude: 27.4225
+score: 7.6
 ---
 
 Bodrum's harbour is the centre of daily life in the town — a wide bay sheltered by two arms of land, lined with gulet boats and restaurants, with the Castle of St Peter rising from its promontory at the end. In the mornings, boat captains tout day trips to secluded bays and nearby islands; by evening the quayside fills up with people walking, eating, and watching the sunset turn the castle walls pink.

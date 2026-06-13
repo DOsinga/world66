@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 story: "**Bukit Larut** is the oldest hill station in Malaysia, opened by the British in 1884 — twelve years before Penang's Bukit Bendera. It is also the wettest place in the country, with around five metres of rain a year, much of it falling in steady drizzle. The British administrators built it as a retreat from the lowland heat, and the rest house bungalows are still in use, run by a state-owned tourism office."
+score: 7.9
 ---
 
 **Bukit Larut**, formerly Maxwell Hill, sits in the mountains above the town of Taiping in northern Perak. It is the only place in the country accessible exclusively by government-operated four-wheel-drive vehicles — private cars are not allowed on the steep, narrow road. Land Rovers leave from a depot at the foot of the hill several times a day, taking about forty-five minutes to climb the 12 km of switchbacks.

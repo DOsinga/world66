@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.7636
 longitude: 90.3873
+score: 6.6
 ---
 
 Dhaka's planetarium, housed in a distinctive domed building on Bijoy Sarani Avenue near the Farmgate intersection. Shows run throughout the day covering astronomy and space science; the Bangla-language shows are aimed primarily at school groups, but English sessions are sometimes available. The building itself is a concrete dome of 1960s institutional architecture — less interesting from outside than a planetarium has any right to be, but the interior projections are good.

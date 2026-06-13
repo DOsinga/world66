@@ -7,6 +7,7 @@ tags:
 - sight
 title: Church of Saint Michael
 type: poi
+score: 7.8
 ---
 
 The triple-domed Baroque silhouette of Saint Michael's, perched on a low rise behind Horní náměstí, is one of the most recognisable views in Olomouc. The current building was completed in 1707 to a design by the Italian architect Giovanni Pietro Tencalla, replacing an earlier Dominican monastery destroyed by fire.

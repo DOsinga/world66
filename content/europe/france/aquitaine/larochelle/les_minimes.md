@@ -9,6 +9,7 @@ latitude: 46.1444
 longitude: -1.1667
 sources:
   - https://en.wikipedia.org/wiki/Les_Minimes
+score: 5.9
 ---
 
 Les Minimes is the modern marina south of the old town — at 5,000 berths, the largest pleasure-boat port in France and the second-largest in Europe. Opened in 1972, it took most of the yachting traffic out of the Vieux Port and is now a small town in itself, with hotels, restaurants, sailing schools, and the city's main waterfront beach next door.

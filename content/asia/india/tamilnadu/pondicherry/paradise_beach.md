@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.9001
 longitude: 79.8440
+score: 6.6
 ---
 
 Paradise Beach is the best swimming beach near Pondicherry, reached by a short boat ride from Chunnambar Resort, about 8 km south of the city. The beach is part of a sandbar formed at the mouth of the Chunnambar river backwaters, which means there is no road access — you come by motorboat or by paddling through the backwaters, which some visitors find is half the appeal.

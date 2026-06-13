@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0335
 longitude: 22.0042
+score: 6.4
 ---
 
 The Artur Malawski Subcarpathian Philharmonic — Filharmonia Podkarpacka — is Rzeszów's principal concert hall and the home of a respected symphony orchestra. The building is unloveable late-1970s modernism from the outside, but the acoustics in the main hall are surprisingly good, and the programming is more adventurous than the marketing suggests.

@@ -9,6 +9,7 @@ title: Caja de Muertos
 type: poi
 story: >
   The island's name — Coffin Island, in English — comes from its shape: viewed from the sea, the elongated profile of the land resembles a coffin, or, in some accounts, a reclining body. Despite the grim name, Caja de Muertos is one of the most pristine natural environments in Puerto Rico. The Puerto Rico Department of Natural Resources has restricted access to protect the coral reefs and nesting sea turtles, and the limit on daily visitors has kept it in a condition that most of Puerto Rico's more accessible beaches lost decades ago.
+score: 8.2
 ---
 
 Caja de Muertos is an uninhabited island nature reserve about eight miles off the southern coast of Ponce, accessible by boat from La Guancha. The island protects some of the most intact coral reef in Puerto Rico, and the snorkelling is exceptional: nurse sharks rest on the sandy bottom, hawksbill sea turtles cruise through the reef, and the water clarity makes every dive vivid. The beaches are white sand and largely empty outside of day trips, and the island's interior has hiking trails through dry tropical forest.

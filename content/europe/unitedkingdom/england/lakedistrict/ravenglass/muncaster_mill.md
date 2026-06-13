@@ -5,6 +5,7 @@ snippet: "Working watermill of medieval origin, north of Ravenglass"
 tags: [things_to_do, sight, historic_site]
 latitude: 54.3666
 longitude: -3.3940
+score: 6.4
 ---
 
 Muncaster Mill sits on the River Mite about a mile north of Ravenglass, just off the road to Eskdale Green. A mill has stood here since at least the 13th century — the existing building dates mostly from the 18th — and the waterwheel and millstones are still in working order.

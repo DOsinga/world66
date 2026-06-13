@@ -6,6 +6,7 @@ longitude: 100.3573
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 A short walk from town across the Sianok canyon brings you to Koto Gadang, the village famous for silver filigree and for producing an outsized share of Indonesia's twentieth-century intellectuals — the first prime minister Sutan Sjahrir and the writer Agus Salim both came from here. Workshops along the main lane still hammer fine silver wire into earrings, bracelets, and Minangkabau-style ceremonial pieces.

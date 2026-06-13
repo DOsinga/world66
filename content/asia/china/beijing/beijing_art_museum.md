@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.9306
 longitude: 116.4186
+score: 7.0
 ---
 
 The National Art Museum of China, a large traditional-style building east of Wangfujing, houses the most important collection of 20th-century Chinese art in the country. The permanent collection traces Chinese art from the late Qing period through the Republican era, Socialist Realist works of the Mao period, and contemporary Chinese painting and sculpture. The Mao-era works — heroic peasants, revolutionary workers, golden wheat fields — have an interesting period quality regardless of their political context.

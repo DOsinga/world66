@@ -7,6 +7,7 @@ tags:
 latitude: 52.2628
 longitude: -9.7185
 snippet: Award-winning park with one of Ireland's finest rose gardens and a canal walk
+score: 7.0
 ---
 
 Tralee Town Park is consistently ranked among the best urban parks in Ireland, and the rose garden — with over 5,000 varieties — is one of the largest rose collections in the country. The park runs along the old Tralee Ship Canal, which was built in 1846 to connect the town to the tidal waters of Tralee Bay.

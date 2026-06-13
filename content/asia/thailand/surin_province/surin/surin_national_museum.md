@@ -8,6 +8,7 @@ latitude: 15.0620
 longitude: 103.7611
 sources:
   - https://en.wikipedia.org/wiki/Surin_Province
+score: 7.3
 ---
 
 The Surin National Museum covers the archaeology and ethnology of the Surin region with better-than-average regional collections. The ground floor focuses on the Khmer period — there are original lintels and inscriptions from temples in the province, some too fragile or remote to view in situ. Upstairs, the ethnographic galleries document Suay elephant-keeping culture and the silk-weaving traditions of the local communities.

@@ -8,6 +8,7 @@ latitude: 26.9144
 longitude: 75.8003
 address: Jacob Road, Civil Lines, Jaipur
 snippet: The heritage hotel with the best rooftop bar in Jaipur's upscale zone
+score: 5.7
 ---
 
 The Jai Mahal Palace is a 19th-century former royal residence converted into a luxury hotel, with 18 acres of Mughal garden and a rooftop area that's open to non-guests for drinks. The setting is one of the best in Jaipur — an actual palace rather than a converted haveli, with the formal garden visible from the terrace and the city beyond.

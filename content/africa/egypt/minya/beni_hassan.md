@@ -11,6 +11,7 @@ tags:
 - sight
 - archaeological_site
 story: The Beni Hassan tombs preserve scenes that bring Middle Kingdom life into focus more directly than almost anything elsewhere in Egypt — full pages of wrestling holds painted in sequence like a manual, hunters with dogs, women weaving, and one famous procession of Asiatic foreigners that has been read as everything from refugees to traders. The colours have survived because the tombs were cut into a remote desert escarpment and largely ignored for 4,000 years.
+score: 8.5
 ---
 
 The necropolis of Beni Hassan consists of around 39 rock-cut tombs carved into the limestone cliffs of the east bank, dating from the 11th and 12th dynasties (roughly 2000-1800 BC). A handful are open to visitors and contain some of the best-preserved painted scenes of daily life in ancient Egypt: agricultural work, hunting, fishing, wrestling matches, dancing, weaving, and military training all rendered in vibrant pigments.

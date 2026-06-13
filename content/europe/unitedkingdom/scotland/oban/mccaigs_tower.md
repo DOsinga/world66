@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   John Stuart McCaig, a local banker, commissioned the tower in 1897 for two reasons: to create work for unemployed stonemasons during the off-season, and to build a lasting memorial to his family. He died in 1902 before the tower was finished, and the interior — intended to house a museum and central tower — was never built. The granite shell has stood open to the sky for over a century.
+score: 7.6
 ---
 
 McCaig's Tower is Oban's most distinctive landmark, a granite colosseum perched on Battery Hill above the town that is visible from the water for miles around. The resemblance to Rome's Colosseum is deliberate — McCaig admired classical architecture and hired Edinburgh stonemasons to execute his vision — though the scale is much smaller.

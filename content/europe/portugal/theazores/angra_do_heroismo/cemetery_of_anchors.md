@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 38.65006
 longitude: -27.219266
 story: "The Bay of Angra's seafloor holds one of the most important underwater archaeological sites in the world — hundreds of anchors and remnants of ships from five centuries of Atlantic trade. Many were lost while sheltering from storms, others during sea battles; the bay has been a graveyard for ships since the 15th century. Dive operators based in Angra offer guided dives to the site."
+score: 7.8
 ---
 
 The Bay of Angra looks calm and well-sheltered, and that was exactly the problem. Angra was the main restocking and repair point for the Atlantic fleets — Spanish, Portuguese, Dutch, English — and ships would anchor in the bay during the westerlies that could blow for weeks. When storms intensified, ships dragged their anchors and were lost on the harbor rocks. Over five centuries, the accumulation became extraordinary: hundreds of anchors, cannon, trade goods, and ship timbers now lie on the relatively shallow seafloor of the bay.

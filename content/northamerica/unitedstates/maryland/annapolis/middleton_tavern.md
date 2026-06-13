@@ -8,6 +8,7 @@ tags:
 - history
 title: Middleton Tavern
 type: poi
+score: 7.0
 ---
 
 Middleton Tavern has stood at the foot of Main Street since around 1750, making it one of the oldest continuously operating taverns in the United States. The original proprietor, Horatio Middleton, ran a ferry service across the Chesapeake from the dock outside; later customers included George Washington, Thomas Jefferson, Benjamin Franklin and James Madison, all of whom dined here on their travels between Philadelphia and points south.

@@ -4,6 +4,7 @@ type: poi
 latitude: 32.819
 longitude: 35.001
 tags: [bars_and_cafes]
+score: 6.4
 ---
 
 The nightlife spine of the lower city, running parallel to the port. A row of converted Ottoman warehouses now holds bars, restaurants, and music venues that draw a young crowd from Wednesday through Saturday.

@@ -9,11 +9,8 @@ tags:
 - things_to_do
 - neighbourhood
 title: Old Town and Yuyuan Bazaar
-type: neighbourhood
-image: old_town.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Huxinting_Teahouse_at_the_Yu_Garden_pond,_Old_City,_Shanghai.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Peter K Burian
+type: poi
+score: 8.4
 ---
 
 The walled Chinese city that existed before the foreign concessions arrived. Most of the wall is gone, but the warren of narrow lanes around Yu Garden survives — partly genuinely old, partly rebuilt in flying-eaved Ming-Qing style for tourists. The Yuyuan Bazaar at its centre is unapologetically commercial but worth pushing through to reach the actual Yu Garden, the Huxinting teahouse on its zigzag bridge, and the City God Temple. Come early in the morning to beat the crowds, and stop at Nanxiang Mantou Dian for the original *xiaolongbao*.

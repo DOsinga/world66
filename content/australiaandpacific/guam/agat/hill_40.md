@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.3750
 longitude: 144.6519
+score: 5.6
 ---
 
 Hill 40 is one of the smaller features of the War in the Pacific National Historical Park, marking a low rise just inland from Agat that the Marines fought to secure on the second day of the 1944 landings. The name comes from its height in feet on the wartime maps — the Marines numbered the hills as they took them. The position controls the road and was held by Japanese infantry who had retreated from the beach.

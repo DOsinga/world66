@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 58.5897
 longitude: 16.1892
+score: 7.2
 ---
 
 The Norrköping Concert Hall is home to the Norrköping Symphony Orchestra, one of Sweden's strongest regional orchestras with an international touring profile. The hall is housed in a converted mill building in the Industrilandskapet, and the combination of industrial brick and modern acoustic treatment has produced one of the best concert spaces in the region.

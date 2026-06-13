@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Fish Market
 type: poi
+score: 8.3
 ---
 
 Essaouira was the first commercial fishing port in Morocco, built up around 1875, and the daily auction at the Government Fish Weigh Station is still the most exciting half hour in town. Late afternoon when the boats come in, batches of fish are dumped on the floor in the central hall, weighed, and bid on by buyers shouting from the edge of the circle while a man in a white jacket calls the prices. You will see thirty different species in an hour, including the occasional small shark.

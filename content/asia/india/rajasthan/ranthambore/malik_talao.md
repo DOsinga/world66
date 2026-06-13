@@ -9,6 +9,7 @@ latitude: 26.0250
 longitude: 76.5050
 sources:
   - https://en.wikipedia.org/wiki/Ranthambore_National_Park
+score: 7.2
 ---
 
 Malik Talao is the smallest of Ranthambore's three main lakes, but it has a devoted following among birders and wildlife photographers. The marshes around its edges attract marsh crocodiles, mugger hatchlings, and a variety of waterbirds including the Indian skimmer during winter. Leopards are seen more frequently in this zone than around the larger lakes, which tend to draw all the tiger activity.

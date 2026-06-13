@@ -8,6 +8,7 @@ latitude: 35.5318
 longitude: -97.9544
 story: >
   Robert's has been open continuously since 1926, which makes it the longest-serving restaurant in El Reno and one of the oldest in Oklahoma. It is also the most disciplined: the menu has not changed appreciably in decades. The Coney is the dish to order alongside the onion-fried burger.
+score: 7.1
 ---
 
 Robert's Grill is a tiny, eight-stool counter on Choctaw Avenue, painted white with a red awning and not much else. The onion-fried burger here is slightly thinner than Sid's, the bun smaller, and the place much quieter — perhaps a dozen people in the room at peak. Some locals will argue it is the better of the two; both are good.

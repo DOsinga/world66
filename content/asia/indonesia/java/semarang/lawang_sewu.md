@@ -16,6 +16,7 @@ story: >
   was later found by his grandchildren during a restoration project.
 sources:
   - https://en.wikipedia.org/wiki/Lawang_Sewu
+score: 8.3
 ---
 
 Lawang Sewu is Semarang's most recognized landmark — a grand Dutch colonial building completed in 1919 as the headquarters of the Netherlands Indies Railway Company. The name means "thousand doors" in Javanese, a reference to the building's hundreds of tall, arched windows and doors that give it a maze-like quality from the inside.

@@ -9,6 +9,7 @@ tags:
 latitude: 20.9641
 longitude: -89.6218
 snippet: The best way to eat cochinita pibil is at a market stall on a Sunday morning
+score: 8.0
 ---
 
 Cochinita pibil — slow-roasted pork marinated in achiote paste and bitter orange juice, then wrapped in banana leaves and cooked in an earthen pit — is the defining dish of the Yucatán. The proper time to eat it is early morning, at a market stall, in a torta (bread roll) or on panuchos (handmade tortillas fried crisp with black bean paste), dressed with pickled red onion. The combination of the acidic onion, the slightly sweet and smoky pork, and the crisp shell is one of the better things you will eat in Mexico.

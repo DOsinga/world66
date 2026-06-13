@@ -7,6 +7,7 @@ snippet: Medieval Dominican monastery beside the Hansemuseum, with restored fres
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The Burgkloster is the surviving Dominican monastery at the northern tip of the Altstadt, founded in 1227 and the largest complex of medieval brick monastic architecture in northern Germany. After the Reformation it was used as a workhouse and then a courthouse and prison; the most recent restoration uncovered medieval frescoes hidden under later plaster.

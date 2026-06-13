@@ -6,6 +6,7 @@ longitude: -149.1258
 tags:
   - things_to_do
   - airport
+score: 3.2
 ---
 
 Girdwood Airport is a small state-owned single-strip airfield three miles northeast of the village. There is no scheduled commercial service; the airport handles light aircraft, charter flights, and the occasional flightseeing tour out over the Chugach and Prince William Sound.

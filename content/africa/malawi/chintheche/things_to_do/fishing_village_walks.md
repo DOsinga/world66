@@ -3,6 +3,7 @@ title: "Fishing Village Walks"
 type: poi
 tags:
   - things_to_do
+score: 7.0
 ---
 
 The lakeshore villages around Chintheche offer an unhurried glimpse into everyday Malawian life. The local economy revolves around fishing, and the rhythm of village life is set by the lake: nets are mended in the afternoon, canoes launched at dusk, and the catch brought in before dawn. Walking along the beach between villages takes you past beached ngalawa (traditional outrigger dugout canoes), smoking fish racks, and clusters of children who are generally enthusiastic about visitors.

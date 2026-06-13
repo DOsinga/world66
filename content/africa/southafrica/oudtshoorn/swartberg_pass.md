@@ -11,6 +11,7 @@ story: >
   Bain used no dynamite — just hand-chiselled rock and dry-stone retaining walls that
   have held for 140 years without mortar. His pass is now a National Monument and one
   of the finest examples of nineteenth-century road engineering in the world.
+score: 9.2
 ---
 
 The gravel road that climbs from Oudtshoorn over the Swartberg Mountains and down into the Karoo town of Prince Albert on the other side is one of the most dramatic mountain drives in South Africa. The pass rises more than 1,500 metres in under 24 kilometres, with switchback after switchback and views that extend across the entire Little Karoo.

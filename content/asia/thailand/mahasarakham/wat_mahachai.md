@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The principal city temple, with palm-leaf manuscripts of regional importance
+score: 6.8
 ---
 
 Wat Mahachai is the principal Buddhist temple of central Mahasarakham, a quiet compound a few hundred metres from the clock tower. The buildings are not architecturally remarkable — gilt-trimmed concrete and red roof tiles in the standard Thai Buddhist idiom — but the temple holds an unusually important collection of *bai lan*, the palm-leaf manuscripts in which Isan and Lao monastic scholarship was traditionally recorded. Some of the surviving leaves run back several centuries and have been the subject of academic study at the university.

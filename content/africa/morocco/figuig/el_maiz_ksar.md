@@ -8,6 +8,7 @@ tags:
 latitude: 32.728
 longitude: -2.642
 snippet: The most beautifully maintained of Figuig's fortified villages
+score: 7.8
 ---
 
 El Maiz is generally considered the most picturesque of Figuig's seven ksour, with its ochre earthen walls in better condition than many of the others. The name comes from the Berber word for water, reflecting the ksar's access to a particularly productive spring.

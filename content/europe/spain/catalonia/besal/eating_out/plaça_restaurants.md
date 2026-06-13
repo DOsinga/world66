@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.1994
 longitude: 2.6977
+score: 5.6
 ---
 
 The main square, the Plaça de la Llibertat, has several cafés and restaurants with outdoor tables under the arcades. The offer leans toward the tourist end of the spectrum — sandwiches, set lunches, and plates of cheese and charcuterie — but the setting is genuinely pleasant, and a glass of local wine here while watching visitors stream in from the bridge is one of Besalú's simple pleasures.

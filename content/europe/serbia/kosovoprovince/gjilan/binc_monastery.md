@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4490
 longitude: 21.4520
+score: 6.8
 ---
 
 The Monastery of the Holy Archangels stands in the village of Binç, a few kilometres south of Gjilan. It is a Serbian Orthodox monastery and one of the older religious sites in this part of eastern Kosovo. The building itself is modest, but the surrounding countryside — low hills, orchards, and quiet lanes — makes the short drive worthwhile.

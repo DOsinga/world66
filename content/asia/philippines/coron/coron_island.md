@@ -10,6 +10,7 @@ address: Coron Island, Palawan
 latitude: 11.9292
 longitude: 120.2417
 snippet: Tagbanua-owned limestone island opposite the town
+score: 8.6
 ---
 
 The towering limestone island that looms across the bay from Coron town is not the town itself but a separate landmass — Coron Island — owned and managed by the indigenous Tagbanua people under a 1998 Ancestral Domain title. Almost everything famous in Coron's tourism brochures (Kayangan, Barracuda Lake, Twin Lagoon, the secret beaches) is here.

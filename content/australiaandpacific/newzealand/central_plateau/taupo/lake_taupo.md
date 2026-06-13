@@ -7,6 +7,7 @@ tags:
 latitude: -38.8000
 longitude: 175.9500
 story: "Lake Taupo fills the caldera of a supervolcano whose most recent major eruption — around 186 CE — was the most violent volcanic event on earth in the last 5,000 years. The eruption ejected so much ash and debris that a blood-red sky was recorded by observers in China and Rome who had no idea what had caused it."
+score: 8.6
 ---
 
 Lake Taupo is so large — 616 square kilometres — that it takes the eye a moment to register it as a lake rather than a sea. On calm days the southern shore reveals the snow-capped cones of Ruapehu, Ngauruhoe, and Tongariro reflected in the water, a view that is one of New Zealand's most iconic.

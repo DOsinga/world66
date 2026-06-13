@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, waterfall]
 latitude: 6.9500
 longitude: 0.7250
+score: 7.7
 ---
 
 A long, narrow waterfall about 12 kilometres east of Kpalimé. The water plunges roughly 100 metres down a basalt cliff into a clear pool. A small hydroelectric plant tapped the river above the falls in the 1980s, so the flow varies — it is at its most dramatic in the rainy season; in the dry months it can dwindle to a trickle.

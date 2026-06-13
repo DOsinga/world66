@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4790
 longitude: -2.4500
+score: 6.8
 ---
 
 The flat northern third of Herm is open heath called **The Common**, with low grass, gorse, bracken, and a scatter of small standing stones. The neolithic cromlechs and menhirs are not signposted but the most prominent — **La Pierre aux Rats** — is on the eastern edge of the heath, a 4,000-year-old marker re-erected after a 19th-century quarry destroyed the original.

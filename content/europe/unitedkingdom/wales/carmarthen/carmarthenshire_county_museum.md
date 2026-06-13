@@ -7,6 +7,7 @@ tags:
 latitude: 51.866
 longitude: -4.282
 snippet: The county museum of Carmarthenshire, housed in the former palace of the Bishops of St David's at Abergwili
+score: 7.6
 ---
 
 The Carmarthenshire County Museum occupies the former palace of the Bishops of St David's at Abergwili, three miles east of Carmarthen. The bishops moved their main residence here in the 1540s when the medieval palace at St David's became too remote and uncomfortable; they stayed until 1974, when the diocese sold the house to the county council. The building is a substantial 16th- to 18th-century country house in its own parkland, with a chapel of 1865 by G. E. Street.

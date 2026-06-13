@@ -6,6 +6,7 @@ longitude: 11.0780
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Marine Cemetery occupies a gentle slope between the Borj el Kebir and the sea. Whitewashed graves, most of them undated, lean toward the water in irregular rows; sea spray salts the stones in winter and bleaches them white in summer.

@@ -12,6 +12,7 @@ story: >
   Darién — which creates a layering of species from both biomes. A single morning walk in Mindo can
   produce 50 or 60 species without effort. With a guide and an early start, dedicated birders regularly
   see over 100 species in a day, which puts Mindo among the world's best single-day birdwatching locations.
+score: 9.4
 ---
 
 Over 500 bird species have been recorded within a short radius of Mindo, including 30-plus species of hummingbird, 24 species of tanager, multiple toucans and toucanets, and a list of endemics and near-endemics that draws serious birders from around the world. The density is a function of altitude and geography: the cloud forest at 1,200–2,000 metres on the western Andean slope is one of the most species-rich habitats on earth.

@@ -14,6 +14,7 @@ story: >
   walls survived remarkably intact — they had been built to withstand exactly
   this kind of catastrophe, and four centuries of engineering held against
   modern explosives better than the houses within.
+score: 7.7
 ---
 
 Nuremberg is one of the best-preserved walled cities in Germany. The complete circuit of 15th-century walls — roughly 5 km around — still stands with its 80 towers and three main gates, the moat mostly dry but the earthworks intact. You can walk the full perimeter on the footpath that runs around the outside of the walls, or climb into several of the towers for views over the old city.

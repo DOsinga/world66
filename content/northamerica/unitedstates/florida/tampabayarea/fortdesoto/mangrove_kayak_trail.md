@@ -4,6 +4,7 @@ type: poi
 latitude: 27.6234
 longitude: -82.7228
 tags: [things_to_do, sight]
+score: 7.5
 ---
 
 A 2.25-mile marked paddling trail loops through the mangrove tunnels and seagrass flats on the bay side of the park. The trail starts at the Soft Launch near the bay pier and is shallow enough for stand-up paddleboards as well as kayaks. The mangrove tunnels are the highlight — narrow, green, and full of mullet, crabs, and the occasional small shark cruising through.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.7308
 longitude: 74.7167
 address: "Chunkurchak Gorge, 30 km south of Bishkek"
+score: 6.7
 ---
 
 An hour south of Bishkek on the road towards Chunkurchak, Supara is a large open-air restaurant complex built as a stylised Kyrgyz village. Diners sit in private yurts or in wooden tapchans (raised platforms) scattered across a hillside with views over the gorge. The food is straightforwardly traditional — lagman, manty, beshbarmak (boiled meat with hand-rolled noodles), kazy (horse sausage) — served by waiters in traditional dress.

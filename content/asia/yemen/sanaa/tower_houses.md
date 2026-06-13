@@ -14,6 +14,7 @@ story: >
   The decoration also identified the house — every Sana'ani family had its own
   variation, and skilled gypsum-workers were a recognised craft caste paid by the
   pattern rather than the day.
+score: 9.6
 ---
 
 The most striking thing about Sana'a is the houses themselves — narrow tower houses of five to nine storeys, built of dressed stone on the lower floors and mud brick above, each storey banded with elaborate white gypsum work around the arched windows and topped with stained-glass *qamariya* lights. From a distance the whole city looks like a single carved decorative object.

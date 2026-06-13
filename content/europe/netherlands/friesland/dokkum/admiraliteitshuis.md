@@ -9,6 +9,7 @@ tags:
 latitude: 53.3250
 longitude: 5.9990
 snippet: "Handsome 17th-century naval headquarters recalling Dokkum's maritime past."
+score: 8.2
 ---
 
 The Admiraliteitshuis — the Admiralty House — is the finest historic building in Dokkum's town centre, a well-preserved 17th-century structure that reflects the town's former importance as a naval base for the Frisian Admiralty.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: O Grove
 type: poi
+score: 7.8
 ---
 
 O Grove sits at the tip of a near-island peninsula at the mouth of the Ría de

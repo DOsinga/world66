@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Old French Quarter
 type: poi
+score: 6.1
 ---
 
 A few streets back from the riverfront, Kampong Cham preserves one of the best surviving grids of French colonial shophouses in Cambodia. The two- and three-storey buildings, painted yellow and pale blue and roofed with red tiles, were put up in the early 20th century when the city was a French rubber-plantation administration centre. Several have shuttered second-floor balconies, ornamented stucco mouldings, and overhead arcaded walkways that shade the pavements below.

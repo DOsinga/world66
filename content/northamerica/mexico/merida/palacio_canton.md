@@ -19,6 +19,7 @@ story: >
   becoming the governor's residence and eventually the Regional Museum. The
   general's gilded taste has proved useful — the ornate interiors frame the
   Maya artefacts more dramatically than a purpose-built museum ever would.
+score: 8.6
 ---
 
 The Palacio Cantón, on the Paseo de Montejo at the corner of Calle 43, is the finest surviving mansion of the henequen era and houses the Museo Regional de Antropología e Historia de Yucatán. If you visit one museum in Mérida, make it this one: the collections cover the full sweep of Yucatán's pre-Hispanic cultures, from Preclassic settlements through the Classic Maya florescence to the Spanish conquest, and are displayed with unusual intelligence. Stele, jade jewellery, obsidian blades, painted ceramics, and skeletal remains from cenote offerings are all here.

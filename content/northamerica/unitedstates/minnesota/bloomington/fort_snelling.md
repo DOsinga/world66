@@ -8,6 +8,7 @@ tags:
 - sight
 title: Historic Fort Snelling
 type: poi
+score: 8.5
 ---
 
 A restored 19th-century military fort on the bluffs above the confluence of the Minnesota and Mississippi rivers, about 8 km north of Bloomington. The Minnesota Historical Society operates the fort as a living history site with costumed interpreters, demonstrations, and exhibits covering the full, unvarnished history of the place — including its role in the US-Dakota War. The surrounding Fort Snelling State Park offers excellent riverside hiking and good birdwatching at the river confluence. Open spring through autumn; combined fort and park visit takes a full half-day.

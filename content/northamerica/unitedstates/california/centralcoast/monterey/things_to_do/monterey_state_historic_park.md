@@ -17,6 +17,7 @@ story: >
   free museum with the original chamber preserved and period furniture arranged as it was during
   the convention. The building was constructed with convict labour supervised by Walter Colton,
   the first American alcalde (mayor) of Monterey.
+score: 8.8
 ---
 
 The best concentration of Spanish-colonial civic architecture in California is not in Los Angeles or San Francisco — it is in Monterey's old town, preserved as a loose collection of historic buildings connected by the "Path of History," a self-guided walking trail marked with gold medallions set into the pavement. The **Old Custom House**, dating from 1827, is the oldest surviving government building on the Pacific coast of North America; Commodore John Sloat raised the American flag here in 1846 to claim California. **Colton Hall** is where the state constitution was drafted in 1849. The **Cooper-Molera Adobe** and a dozen other 19th-century adobes are scattered through the same few blocks.

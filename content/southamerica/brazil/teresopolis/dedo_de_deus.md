@@ -10,6 +10,7 @@ latitude: -22.4294
 longitude: -43.0061
 story: >
   The Dedo de Deus appears on the official coat of arms of Teresópolis, making it the only mountain in Brazil to feature on a city emblem. The name — "Finger of God" — was given by early Portuguese settlers who arrived from the coast and saw only this single pinnacle projecting above the forest canopy, pointing skyward from what seemed an otherwise impenetrable range.
+score: 8.2
 ---
 
 The Dedo de Deus is a 1,692-metre granite pinnacle in the Serra dos Órgãos and the most recognisable landmark in the Teresópolis area — a narrow, pointed spire that jabs into the sky above the surrounding forest and is visible from most of the city below. The name means "Finger of God" and is an apt description: seen from the right angle, it does look precisely like a single finger extended toward the clouds.

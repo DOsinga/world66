@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.3268
 longitude: 14.4422
+score: 7.7
 ---
 
 PEEK&POKE claims to be the largest collection of vintage computers and gaming hardware in Europe, spread across more than 300 square metres of exhibition space. The collection runs from punch-hole machines and early calculators through the 8-bit home computer era — ZX Spectrums, Commodore 64s, Atari machines — to early games consoles and arcade cabinets.

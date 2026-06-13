@@ -1,6 +1,7 @@
 ---
 title: "Eating in Auki"
 type: poi
+score: 4.8
 ---
 
 The guesthouses in Auki are the main places to eat, and most will prepare meals for guests with advance notice. The food leans on local staples: fresh fish from the morning market, taro and sweet potato, rice, and greens cooked in coconut milk. Quality varies but the ingredients are good, especially the fish — reef species like parrotfish and snapper come in fresh daily, and barracuda is a regular catch.

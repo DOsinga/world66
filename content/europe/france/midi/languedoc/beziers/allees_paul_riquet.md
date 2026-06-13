@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - walk
 - market
+score: 7.2
 ---
 
 The Allées Paul Riquet is the central boulevard of Béziers, a wide tree-lined promenade named after Pierre-Paul Riquet, the Béziers-born engineer who conceived and built the Canal du Midi. His statue stands at one end of the allée, which runs through the heart of the old town connecting the main squares.

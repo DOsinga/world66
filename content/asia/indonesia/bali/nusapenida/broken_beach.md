@@ -8,6 +8,7 @@ tags:
 latitude: -8.7424
 longitude: 115.4299
 story: "The arch at Broken Beach was formed when the roof of a sea cave collapsed — the sea poured in and created the circular lagoon. Manta rays are sometimes visible from the arch swimming in the blue water below, having entered through the underwater passage that connects the lagoon to the open ocean."
+score: 7.0
 ---
 
 Broken Beach (Pantai Pasih Uug) is a circular lagoon enclosed by limestone cliffs and connected to the open sea through a natural arch. The blue-green water inside the arch is calm and clear; the ocean outside is often rough. You can walk along the cliff edge above and look down through the arch at the lagoon below.

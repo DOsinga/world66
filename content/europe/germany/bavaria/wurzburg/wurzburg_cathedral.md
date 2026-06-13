@@ -13,6 +13,7 @@ story: >
   duke, who objected to Kilian's advice that the duke should not have married his brother's
   widow. The murder made Kilian a martyr, and his relics — still in the cathedral crypt —
   made Würzburg one of the most important pilgrimage destinations in medieval Germany.
+score: 8.4
 ---
 
 Würzburg Cathedral is a massive Romanesque basilica, the fourth largest Romanesque church in Germany, built from 1040 to 1225 on the site of the earlier cathedral in which the Irish missionary Kilian was venerated. The exterior is monumental — four heavy towers, thick stone walls — while the interior is unexpectedly rich, layered with centuries of art and furniture from Gothic through baroque. The episcopal tombs in the nave are particularly fine, including several by Riemenschneider.

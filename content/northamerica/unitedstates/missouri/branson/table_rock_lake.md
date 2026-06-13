@@ -10,6 +10,7 @@ latitude: 36.5920
 longitude: -93.3108
 sources:
   - https://www.bransonmo.gov/316/Tourism-Activities-Attractions
+score: 8.2
 ---
 
 Table Rock Lake is the outdoor counterweight to Branson's strip, a clear Ozark reservoir southwest of town with boating, swimming, fishing, and wooded coves. If Branson starts to feel too loud, this is where you reset.

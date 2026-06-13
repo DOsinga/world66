@@ -10,6 +10,7 @@ latitude: 45.5486
 longitude: 11.5513
 story: >
   The Teatro Olimpico's permanent stage set — a painted perspective of the ancient city of Thebes — has been in place since opening night in 1585. The illusion is created by angled streets behind the stage doorways that are actually only a few metres deep; painted ceilings and floors create the impression of a city receding into the distance. The set has never been removed or altered in 440 years.
+score: 9.6
 ---
 
 The Teatro Olimpico is the oldest surviving indoor theatre in the world, designed by Palladio in the last years of his life and completed after his death by his student Vincenzo Scamozzi. It opened in 1585 with a performance of Sophocles's Oedipus Rex — the same play the Olimpici academy had chosen for its inaugural production. The theatre seats around 400 people and is still used for performances.

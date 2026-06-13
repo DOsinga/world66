@@ -14,6 +14,7 @@ story: >
   refuge, it predates the cathedral by several hundred years. The view from the top
   takes in the whole medieval city, the castle, the River Nore, and the farmland
   beyond — much the same view the monks would have had a thousand years ago.
+score: 9.0
 ---
 
 St Canice's Cathedral is the northern anchor of Kilkenny's Medieval Mile and one of the finest Gothic churches in Ireland. Built in the 13th century on the site of a 6th-century monastery founded by St Cainnech (Canice), from whom Kilkenny takes its name, the cathedral has been restored and modified through the centuries but retains an interior of great beauty and calm.

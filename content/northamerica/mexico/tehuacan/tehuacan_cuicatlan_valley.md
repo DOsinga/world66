@@ -16,6 +16,7 @@ story: >
   15 metres or more. The valley was inhabited and cultivated by humans for over
   10,000 years, making it one of the oldest continuously managed landscapes in
   the Americas.
+score: 8.9
 ---
 
 The Tehuacan-Cuicatlán Valley, designated a UNESCO World Heritage Site in 2018, extends south from Tehuacan into the state of Oaxaca, covering about 145,000 hectares of semi-arid desert landscape. The valley is one of the most biodiverse arid zones in the Americas, with an extraordinary density and variety of cacti — organ pipe, columnar, and barrel cacti, many of them endemic to this valley — alongside a rich array of reptiles, birds, and other wildlife adapted to the dry conditions.

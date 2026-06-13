@@ -15,6 +15,7 @@ story: >
   for generations. The mill itself is real; the story is not.
 sources:
   - https://en.wikipedia.org/wiki/Historic_Mill_of_Sanssouci
+score: 6.4
 ---
 
 The Historic Windmill (Historische Muhle) stands on the hill above Sanssouci Park, immediately adjacent to the palace, and is one of the most recognizable landmarks in the Potsdam landscape. The current structure is a reconstruction — the original 18th-century mill was demolished in 1945 and replaced with this faithful copy in 1993 — but it works as a working mill and contains a museum about the history of windmills in the Brandenburg region.

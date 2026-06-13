@@ -15,6 +15,7 @@ story: >
   a sculptural quality that reflects the prosperity and craft skill of Song-dynasty
   Quanzhou at its peak. Each of the 48 reliefs on the west pagoda has a different
   face, no two the same.
+score: 9.8
 ---
 
 Kaiyuan Temple is the largest Buddhist complex in Fujian and the spiritual anchor of Quanzhou's old town. Founded in 686 CE during the Tang dynasty, it covers 78,000 square metres and encompasses the main hall — supported by 86 stone pillars, some of them repurposed from earlier Hindu temples — a mulberry garden, and the famous twin pagodas that have stood above the city for nearly eight hundred years.

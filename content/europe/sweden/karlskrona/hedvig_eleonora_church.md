@@ -7,6 +7,7 @@ tags:
   - sight
 title: Hedvig Eleonora Church
 type: poi
+score: 6.5
 ---
 
 The Hedvig Eleonora Church lies a short walk east of Stortorget, in the area of the city that was once home to navy administrators and officers. Built in the early 18th century and named for Queen Hedvig Eleonora, mother of King Karl XI who founded Karlskrona, it is a more intimate building than the grand churches on the main square and has a neighbourhood feel that contrasts pleasantly with the formality of the baroque centre.

@@ -11,6 +11,7 @@ tags:
 - nightlife
 title: Café Busybody
 type: poi
+score: 3.6
 ---
 
 A casual café on Scotts Road, close to the Orchard Road shopping belt. The place made its name with desserts — a wide selection of ice cream, sundaes and sweet snacks that keep it busy through the afternoon and into the evening. Straightforward food and drinks alongside, in a comfortable, unpretentious setting. Handy if you need a break from the surrounding malls.

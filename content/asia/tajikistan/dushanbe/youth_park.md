@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5770
 longitude: 68.7920
+score: 6.3
 ---
 
 The Youth Park (Boghi Javonon) in the eastern central area of Dushanbe is one of the city's main public leisure spaces, with fountains, walking paths, cafes, and a general atmosphere of relaxed sociability. On summer evenings the park fills with young people, families, and couples; the fountain area is particularly popular after dark when the colored lights come on.

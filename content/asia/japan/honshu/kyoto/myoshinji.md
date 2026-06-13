@@ -8,6 +8,7 @@ tags:
 - sight
 title: Myōshin-ji
 type: poi
+score: 8.1
 ---
 
 Myōshin-ji is the head temple of the largest Rinzai Zen branch in Japan and, on the ground, a small walled town: an entire enclosed precinct in western Kyoto containing more than forty sub-temples connected by stone-paved lanes. Most are private and closed to visitors, but the experience of walking the long quiet alleys between white-washed walls is itself worth the visit.

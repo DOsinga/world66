@@ -8,6 +8,7 @@ latitude: 42.2519
 longitude: -73.8086
 sources:
   - https://en.wikipedia.org/wiki/Hudson%E2%80%93Athens_Lighthouse
+score: 6.8
 ---
 
 The Hudson-Athens Lighthouse stands on Middle Ground Flats in the Hudson River, roughly midway between Hudson and the village of Athens on the opposite bank. Built in 1874, the two-storey mansard-roofed structure replaced an earlier lighthouse on the same shoal that was a navigation hazard for river traffic heading to and from the Port of Hudson. The lighthouse was in continuous service until 1949.

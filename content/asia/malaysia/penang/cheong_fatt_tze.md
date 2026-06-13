@@ -14,6 +14,7 @@ story: >
   East" by the New York Times. He had eight wives and forty-six recorded children. The Penang mansion —
   designed by a Chinese architect trained in Hong Kong using both Cantonese and European materials — was one
   of nine houses he owned.
+score: 8.7
 ---
 
 The Cheong Fatt Tze Mansion — known locally as the Blue Mansion for its distinctive indigo walls — is one of the finest surviving examples of Straits Chinese architecture in the world. Built in the 1880s and 1890s on Leith Street, it combines a Chinese courtyard layout with louvred windows, cast-iron railings imported from Glasgow, hand-painted Art Nouveau ceramic tiles from France, and carved granite from China. The house was awarded a UNESCO Asia Pacific Award for Cultural Heritage Conservation in 2000 after a decade of careful restoration.

@@ -9,6 +9,7 @@ latitude: 45.5147
 longitude: 13.5920
 sources:
   - https://en.wikipedia.org/wiki/Portoro%C5%BE
+score: 7.3
 ---
 
 The main beach at Portorož is the longest sandy beach in Slovenia — a broad, well-maintained strip backed by the grand Habsburg-era hotels and a tree-lined promenade. The beach itself is partly pebble, partly groomed sand; entrance fees apply at the managed sections, which provide sun loungers, changing facilities, and beach cafes. The promenade running behind it is the social hub of the town in summer, busy from morning to late evening with walkers, cyclists, and the occupants of the many seafront cafes.

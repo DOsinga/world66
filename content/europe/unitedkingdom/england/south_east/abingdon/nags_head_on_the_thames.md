@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 51.6687
 longitude: -1.2797
+score: 5.8
 ---
 
 The Nag's Head sits on its own island in the middle of the Thames, reached by a footbridge from Bridge Street. It is the obvious lunchtime choice in Abingdon — a generous riverside terrace, beer from local Oxfordshire breweries, and standard pub food done well, with the usual Sunday roast a particular draw.

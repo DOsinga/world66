@@ -8,6 +8,7 @@ tags:
 latitude: 42.8040
 longitude: 10.1960
 snippet: "Medici watchtower on the harbour headland, built in the 16th century against pirate raids"
+score: 6.8
 ---
 
 The Torre Medicea stands on the western headland of the harbour, a squat 16th-century watchtower built by the Medici when they controlled Elba and needed to defend the coast against Barbary pirate raids. The tower is not large, but its position — directly on the water, commanding the approach to the harbour — makes it a distinctive landmark and a useful reference point when you are trying to get your bearings in the town.

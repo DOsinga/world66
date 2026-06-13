@@ -8,6 +8,7 @@ tags:
 - nature
 title: Esja
 type: poi
+score: 8.7
 ---
 
 The flat-topped basalt massif that rises north of Reykjavik is the capital area's favourite mountain hike, and Mosfellsbær is the natural starting point. The standard trail begins at the Esjustofa visitor centre at Mógilsá and climbs through birch scrub to a series of waymarked stopping points: Steinn at 597 metres is where most casual walkers turn back, while those continuing to the summit cairn at Þverfellshorn (780 metres) tackle a short chained scramble at the top.

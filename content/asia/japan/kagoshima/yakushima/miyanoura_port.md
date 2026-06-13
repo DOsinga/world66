@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.4269
 longitude: 130.5714
+score: 6.3
 ---
 
 Miyanoura is the main settlement on Yakushima and the island's primary ferry terminal. High-speed hydrofoil ferries from Kagoshima arrive here in about two hours; the slower car ferry takes closer to four hours. The town sits on the northern coast and most visitors arrive in Miyanoura before heading to the trails.

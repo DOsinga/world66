@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 42.4499
 longitude: -76.5132
+score: 5.9
 ---
 
 A 1930s ice cream parlour on Cascadilla Street that has somehow survived as a neighbourhood institution for nearly a century. Flavours rotate through the Finger Lakes seasons — fresh strawberry in June, sweet corn in August, apple cider in October. Among the year-round options, Finger Lakes Tourist (white chocolate chunks and hazelnut in chocolate ice cream) and the Sleepers Awake! coffee fudge are the locals' standbys.

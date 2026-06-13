@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Nagarjuna Restaurant
 type: poi
+score: 6.9
 ---
 
 Nagarjuna is one of the oldest and best-loved Andhra-style restaurants in Bangalore, famous for its meals served on banana leaves. You sit down and the service begins immediately — attendants moving around the table with stainless steel buckets, adding rice, then sambhar, rasam, dal, multiple vegetable preparations, curd, papad, and the restaurant's particularly good mutton curry, all in unlimited quantities until you signal that you are done. It is a format that rewards appetite and patience in roughly equal measure.

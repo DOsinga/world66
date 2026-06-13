@@ -9,6 +9,7 @@ latitude: 42.8178
 longitude: 74.9285
 sources:
   - https://en.wikipedia.org/wiki/Ysyk_Ata_Resort
+score: 6.9
 ---
 
 A few kilometres further up the valley from the ski area, Ysyk-Ata is a balneoclimatic resort set at around 1,775 metres altitude on the northern slopes of the Kyrgyz Ala-Too. The thermal spring waters here have been used for bathing and recuperation since Soviet times, and the resort still draws a steady stream of visitors from Bishkek looking for a weekend break.

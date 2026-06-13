@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.2915
 longitude: -65.4983
+score: 8.6
 ---
 
 The Welsh teahouse tradition in Gaiman is the single most distinctive thing in Patagonia, and possibly in all of Argentina. The custom of afternoon tea — brought from Wales in 1865 — has been maintained continuously in the valley, and the Gaiman teahouses serve it properly: pots of strong tea, homemade cakes, scones with jam and cream, and dark bread with butter and preserves. The recipes are genuine Welsh adaptations that have evolved in Patagonia over 160 years.

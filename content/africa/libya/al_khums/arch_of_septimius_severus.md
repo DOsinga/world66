@@ -13,6 +13,7 @@ story: >
   Leptis Magna after becoming emperor. The four-sided arch (a tetrapylon) stood at the
   intersection of the city's two main streets, the cardo and the decumanus. After centuries
   buried under sand, it was excavated by Italian archaeologists in the 1920s and 30s.
+score: 9.2
 ---
 
 The Arch of Septimius Severus stands at the main crossroads of Leptis Magna, where the city's two principal streets intersected. It is a four-faced triumphal arch (tetrapylon) built in 203 CE to honour the emperor who was born in this city, and its carved relief panels — now partially in the Tripoli museum — depicted scenes of Roman military victory and imperial ceremony in extraordinary detail.

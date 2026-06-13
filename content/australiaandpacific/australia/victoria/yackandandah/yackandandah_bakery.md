@@ -5,6 +5,7 @@ tags: [eating_out, cafe]
 latitude: -36.3134
 longitude: 146.8393
 address: 26 High Street, Yackandandah
+score: 7.0
 ---
 
 The Yackandandah Bakery is one of those regional Australian institutions that draws people from surrounding towns on a Saturday morning. The pies, pastries, and sourdough loaves are made fresh daily, and the coffee is reliably good. It is the kind of place where the owners know the regulars by name and the queue stretches out the door on a long weekend.

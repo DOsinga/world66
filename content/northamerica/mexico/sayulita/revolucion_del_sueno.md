@@ -8,6 +8,7 @@ tags:
   - market
 sources:
   - https://www.travelagewest.com/Travel/Mexico/Shopping-the-Vibrant-Boutiques-of-Sayulita-Mexico
+score: 5.2
 ---
 
 Revolución del Sueño is one of the more interesting clothing boutiques in Sayulita, working a visual language that mixes bold Mexican graphic design with international surf and street aesthetics. The clothes are designed in-house and manufactured locally, which gives the shop a coherence that souvenir-orientated places lack.

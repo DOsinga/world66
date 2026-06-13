@@ -9,6 +9,7 @@ latitude: 34.7500
 longitude: 113.6650
 story: >
   The Shang city wall at Zhengzhou is one of the largest surviving Bronze Age earthwork structures in the world. Built by pounding layers of earth (a technique called hangtu), sections of it still stand up to 9 metres high and 20 metres wide — constructed around 1600 BC, making it roughly contemporaneous with Mycenae and predating Rome by over a thousand years.
+score: 6.8
 ---
 
 Beneath the streets of modern Zhengzhou lie the ruins of a Shang Dynasty city dating back to approximately 1600 BC, one of the earliest urban settlements in Chinese history. Discovered in 1955 during construction work, the site includes a seven-kilometre rammed-earth city wall — sections of which are still visible in several places around the city — and the excavated remains of bronze foundries, pottery kilns, and residential areas.

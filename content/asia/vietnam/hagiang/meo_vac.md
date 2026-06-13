@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.1581
 longitude: 105.4247
+score: 7.7
 ---
 
 Meo Vac is a market town at the lower end of the Ma Pi Leng Pass, strung along the Nho Que River at the bottom of the canyon. It's smaller and less visited than Dong Van — fewer guesthouses, more working-town atmosphere — and that's largely why travellers who've been to both tend to prefer the Sunday market here. The Meo Vac market is considered one of the most authentic in the northern highlands: H'mong, Giay, Lo Lo, and Dao traders come in early morning to buy and sell livestock, produce, and tools in a transaction that happens regardless of who is watching.

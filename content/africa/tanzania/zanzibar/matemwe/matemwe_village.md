@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -5.8650
 longitude: 39.3460
+score: 6.8
 ---
 
 The fishing village set back a few hundred metres from the beach is the working heart of Matemwe — narrow sand lanes, coral-rag houses, a small mosque, a school, and a cluster of shops selling phone credit, fried fish and basic provisions. It is friendly and unselfconscious; children are likely to walk you around and elders will greet you politely from doorways.

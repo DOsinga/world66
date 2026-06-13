@@ -9,6 +9,7 @@ longitude: -120.6630
 address: Higuera Street between Osos and Nipomo, San Luis Obispo, CA 93401
 opening_hours: Thursdays 18:00–21:00 (year-round)
 admission: Free
+score: 8.1
 ---
 
 Every Thursday evening, Higuera Street closes to traffic from about Osos to Nipomo Street and becomes something between a farmers market, a street fair, and a weekly civic ritual. Restaurants set up BBQ grills on the sidewalk, local farms sell produce and flowers, food stalls run down the middle of the street, and live music plays at several spots simultaneously. The crowd runs from Cal Poly students to local families to retirees who've been coming for decades.

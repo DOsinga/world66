@@ -11,6 +11,7 @@ tags:
 story: The Quantocks were the first place in England designated an Area of Outstanding
   Natural Beauty, in 1956. Coleridge wrote much of "The Rime of the Ancient Mariner"
   walking these combes in 1797 — Wordsworth was his neighbour for that year.
+score: 7.8
 ---
 
 The Quantock Hills rise abruptly from the Vale of Taunton Deane, a ten-mile ridge of oak woodland, bracken-covered tops and red deer combes designated England's first Area of Outstanding Natural Beauty in 1956. The hills are at their best on a clear day: from the summit ridge above Crowcombe you can see the Bristol Channel, Exmoor, and the Mendips.

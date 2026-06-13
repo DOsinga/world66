@@ -8,6 +8,7 @@ latitude: 54.2680
 longitude: 48.3460
 story: >
   Ulyanovsk was one of the Soviet Union's primary aviation manufacturing centres — the Aviastar plant, established here in 1979, built the Antonov An-124 Ruslan heavy transport, at the time the largest production aircraft in the world. The city's connection to Soviet and Russian aviation is genuine, and the outdoor museum's collection of decommissioned airliners reflects that industrial heritage.
+score: 8.3
 ---
 
 The Museum of the History of Civil Aviation, located near Ulyanovsk's Baratayevka airport, is one of Russia's largest aviation museums and holds a significant outdoor collection of Soviet and Russian civil aircraft. The exhibits include rare airliners such as the Ilyushin Il-18 turboprop, the supersonic Tupolev Tu-144, and various Antonov and Yakovlev types that defined Soviet civilian air travel from the 1950s onwards.

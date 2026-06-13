@@ -7,6 +7,7 @@ tags:
 - sight
 title: Windjammer Days Festival
 type: poi
+score: 7.6
 ---
 
 Windjammer Days, held in late June, is Boothbay Harbor's biggest annual event. A fleet of traditional schooners and tall ships sails into the harbor and anchors for several days, giving the town an atmosphere straight out of the 19th century. The festival runs for about a week, with a parade of sail, live music on the waterfront, street food, and an arts fair alongside the usual summer commerce.

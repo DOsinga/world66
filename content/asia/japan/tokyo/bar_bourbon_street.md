@@ -11,6 +11,7 @@ tags:
 title: Bar Bourbon Street
 type: poi
 url: http://www.bourbonstreet-tokyo.com
+score: 6.8
 ---
 
 A small New Orleans-style blues bar with free live music every night — blues or Dixieland jazz, no cover charge. Very much the opposite of Roppongi's louder clubs: low-key, comfortable, with 20 wines by the glass, 35 bourbons, classic cocktails like Hurricanes and Sazeracs, and Cuban cigars. Open Tuesday to Saturday, 6pm to 2am.

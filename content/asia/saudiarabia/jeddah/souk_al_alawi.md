@@ -10,6 +10,7 @@ tags:
 neighbourhood: Al Balad
 latitude: 21.4850
 longitude: 39.1894
+score: 7.4
 ---
 
 The principal souk of old Jeddah, running roughly north-south through Al Balad. Pilgrim traders have shopped here for centuries — spices, perfumes, prayer beads, frankincense, gold, fabric, dates, and the carpets and incense burners associated with hajj.

@@ -10,6 +10,7 @@ latitude: 39.9544
 longitude: -4.8322
 sources:
   - https://en.wikipedia.org/wiki/Iron_Bridge_(Talavera_de_la_Reina)
+score: 6.1
 ---
 
 The Iron Bridge, officially the Queen Sofia Bridge, crosses the Tagus just south of the old centre. Opened in 1908, it brought a modern industrial silhouette to a city better known for ceramics and medieval walls.

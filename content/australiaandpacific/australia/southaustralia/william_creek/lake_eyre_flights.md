@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -29.0000
 longitude: 137.3000
+score: 9.3
 ---
 
 Lake Eyre — known in the Arabana language as Kati Thanda — is the largest lake in Australia when full, and one of the most dramatic landscapes on earth when it fills with water. It sits about 55 km east of William Creek, and the usual way to see it properly is by light aircraft from William Creek Airport.

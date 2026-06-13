@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 story: "The neighbouring 309th Aerospace Maintenance and Regeneration Group — the 'boneyard' — stores around 3,100 retired military aircraft in the dry desert air. Pima Air & Space runs the only public bus tours through the facility. It is the world's largest aircraft cemetery."
+score: 8.7
 ---
 
 The Pima Air & Space Museum is one of the largest aviation museums in the world, with over 425 aircraft spread across 80 acres next to Davis-Monthan Air Force Base. SR-71 Blackbirds, B-29 Superfortress, the surviving NB-36H nuclear-powered bomber test airframe, presidential transports — Kennedy's, Nixon's, and Johnson's Air Force Ones are all here.

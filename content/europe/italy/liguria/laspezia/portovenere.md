@@ -7,6 +7,7 @@ tags:
 latitude: 44.0522
 longitude: 9.8390
 snippet: "Cliff-hanging medieval village on the southern tip of the gulf"
+score: 8.1
 ---
 
 Porto Venere sits on a rocky headland at the southern entrance to the Gulf of La Spezia, about 12 kilometres from La Spezia by road or 30 minutes by ferry. The village is a single street of tall coloured houses squeezed between the cliff and the sea, with a Genoese castle at the tip of the promontory and the 12th-century church of San Pietro right at the water's edge.

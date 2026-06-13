@@ -6,6 +6,7 @@ longitude: 3.0590
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Square Port Saïd lies at the junction of the French colonial city and the lower Casbah, a leafy public square shaded by ficus trees that serves as a natural gathering point. The square is flanked by some of the finest colonial-era buildings in Algiers: the covered Marché de la Lyre, an old theatre, and the ornate facade of a 19th-century bank. The old post office is visible from one corner.

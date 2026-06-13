@@ -6,6 +6,7 @@ tags:
 - sight
 title: The Bull Temple
 type: poi
+score: 7.7
 ---
 
 The Bull Temple in Basavanagudi houses one of the largest Nandi statues in India — 15 feet tall and over 20 feet long, carved from a single block of granite. The temple was built in the 16th century by Kempe Gowda, the chieftain who founded the original settlement that became Bangalore. The Nandi here is revered as a protector of the city, and the temple is an active place of worship, not just a monument.

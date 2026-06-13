@@ -9,6 +9,7 @@ tags:
 latitude: -16.5200
 longitude: -151.7100
 story: "The lagoon at Bora Bora is one of the few places in the world where you can routinely snorkel with both blacktip reef sharks and lemon sharks in shallow, calm water. The sharks are habituated to humans from decades of lagoon tour operations, which involve guides tossing fish into the water to attract them. This is controversial among marine biologists who argue it disrupts natural feeding behaviour, but for visitors, the experience of hovering two metres from a two-metre shark in clear water is genuinely unforgettable."
+score: 9.0
 ---
 
 The Bora Bora lagoon is a marine biologist's paradise in miniature — enclosed by a barrier reef, the water is warm (around 28°C year-round), exceptionally clear, and sheltered from ocean swells. Coral gardens cover the shallower sections of the lagoon floor, supporting an extraordinary variety of reef fish, and the deeper channels host bigger animals.

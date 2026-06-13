@@ -6,6 +6,7 @@ tags:
 - sight
 title: Temple Square Garden Tours
 type: poi
+score: 5.4
 ---
 
 Free guided tours of the ornamental gardens surrounding the Church Office Building Plaza run April through September. Tours depart Monday through Saturday at 10am, noon, 2pm, and 4pm from the Church Office Building lobby, with additional evening tours at 7pm on Tuesday, Wednesday, and Thursday. Sunday tours follow the Tabernacle Choir broadcast.

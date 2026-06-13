@@ -7,6 +7,7 @@ tags:
 title: Freedom Park
 type: poi
 snippet: The city's designated assembly point for political demonstrations
+score: 6.6
 ---
 
 A small grassy square near Wat Phnom, designated by the government in 2010 as Cambodia's only legal protest venue. Opposition rallies, garment worker demonstrations and land rights protests have all happened here — with varying degrees of tolerance from the authorities.

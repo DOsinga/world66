@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.1200
 longitude: -45.2500
+score: 8.5
 ---
 
 The most spectacular day hike from Igaliku follows the red-marked trail to a viewpoint above the Tunulliarfik Fjord, looking directly toward the Qooroq Glacier. The route runs about 17 kilometres (6 hours return) through dunes, willow and birch scrub, and a stark plateau of weathered rocks before reaching the viewpoint at around 266 metres. From here you look down on stranded icebergs resting on an underwater moraine at the fjord entrance, with the glacier filling the valley at the head of the fjord.

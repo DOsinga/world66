@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.7358
 longitude: -97.1339
+score: 6.0
 ---
 
 The Arlington Steak House is one of those old Texas steakhouses that hasn't changed much in half a century and has no particular interest in starting now. The setting is basic — a low-slung building on a corner lot, dim lighting, booths — and the menu is a short list of steaks with sides. The steaks are properly aged and cooked the way you ask them to be cooked, which is more than can be said for a lot of places.

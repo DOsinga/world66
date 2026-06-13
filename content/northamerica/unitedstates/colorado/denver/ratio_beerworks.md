@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, rino]
 latitude: 39.7651
 longitude: -104.9803
+score: 6.2
 ---
 
 A music-and-beer-focused brewery in RiNo, Ratio took its name from the brewing-water ratio that determines a beer's mineral character. The flagship Antidote IPA and Domestica American Standard are dependable, the patio is one of the best in the district, and the taproom hosts free live shows weekly.

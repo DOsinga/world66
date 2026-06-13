@@ -7,6 +7,7 @@ tags:
   - museum
 title: Latvian National Museum of Art
 type: poi
+score: 8.1
 ---
 
 The Latvian National Museum of Art is housed in a striking early 20th-century building on Valdemāra iela, designed by Wilhelm Neumann in a lavish Baroque Revival style. The permanent collection spans Latvian painting and sculpture from the 18th century to the present, with strong holdings in Baltic Romanticism and early modernist landscapes.

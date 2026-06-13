@@ -6,6 +6,7 @@ longitude: -84.9619
 tags:
   - things_to_do
   - nature
+score: 8.3
 ---
 
 The shallow bay between the mainland and St. George Island that for most of the 20th century supplied 90 percent of Florida's oysters. The bay collapsed in 2012 after years of upstream water diversion in Georgia reduced the freshwater inflow, throwing off the salinity that oysters depend on. Wild harvesting has been closed since 2020 and is only just beginning to return under heavy restrictions.

@@ -13,6 +13,7 @@ story: >
   Resident Leonard Wray, who had spent years collecting Orang Asli artefacts and
   natural history specimens from the surrounding forests. Many of his original
   collections are still on display.
+score: 8.0
 ---
 
 The Perak Museum, opened in 1883, is the oldest in Malaysia and occupies a handsome colonial building on Jalan Taming Sari, a short walk from the Lake Gardens. The collections cover natural history, ethnography, and the archaeology of the Malay Peninsula, with particular strength in Orang Asli material culture — weapons, musical instruments, rattan baskets, and ceremonial objects collected from the indigenous communities of the Perak jungle.

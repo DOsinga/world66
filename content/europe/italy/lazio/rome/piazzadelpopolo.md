@@ -11,6 +11,7 @@ tags:
 - square
 title: Piazza del Popolo
 type: poi
+score: 7.9
 ---
 
 The grand oval piazza at Rome's northern gate, entered through the Porta del Popolo from what was once the Via Flaminia — the main road from the north. At the centre stands an Egyptian obelisk that Augustus brought back from Heliopolis, over 3,000 years old. The southern end is framed by two near-identical baroque churches, Santa Maria in Montesanto and Santa Maria dei Miracoli, which create a theatrical symmetry as you enter the city.

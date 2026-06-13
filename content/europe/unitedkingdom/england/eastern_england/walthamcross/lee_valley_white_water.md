@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Olympic-built artificial white-water course — kayaking, rafting, and tube riding"
+score: 7.5
 ---
 
 The Lee Valley White Water Centre — built for the canoe slalom events of the London 2012 Olympics — is one of the very few Olympic venues that has thrived as a public attraction afterwards. There are two pumped courses, a 300-metre Olympic-standard channel for serious kayakers and a shorter 160-metre course for first-timers, both running constantly with 13 cubic metres of water per second.

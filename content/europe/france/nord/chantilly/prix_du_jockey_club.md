@@ -12,6 +12,7 @@ tags:
 - sport
 - event
 story: "The Prix du Jockey Club has been run at Chantilly since 1836 and is the French equivalent of the Epsom Derby. The race is 2,100 metres on the right-handed turf, and the winner takes home a purse of over €1 million. Famous winners include Brigadier Gerard (a controversial 1971 ineligible win), Sea Bird, and (in 2009) Le Havre."
+score: 7.2
 ---
 
 The Prix du Jockey Club, also known as the French Derby, is run at the Chantilly Hippodrome on the first Sunday in June and is the most important day on the French flat racing calendar. It draws crowds of around 30,000 — racing professionals, owners and trainers, the country's top jockeys, and Parisian society in summer dress.

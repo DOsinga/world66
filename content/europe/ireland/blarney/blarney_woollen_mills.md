@@ -7,6 +7,7 @@ tags:
 latitude: 51.9332
 longitude: -8.5655
 snippet: "Ireland's most famous woollen goods shop, in a converted 19th-century mill."
+score: 5.8
 ---
 
 The Blarney Woollen Mills occupies a large converted mill building in the village centre, and has been selling Irish woollen goods since 1823. What started as a working mill has expanded into one of Ireland's largest souvenir and craft retailers — the scale can feel overwhelming, but the quality of the core woollen goods is genuine.

@@ -13,6 +13,7 @@ opening_hours: Daily 09:30–18:00; Tue closed at 13:00
 url: www.museogalileo.it
 story: >
   Among the museum's exhibits is Galileo's preserved middle finger — removed from his body when it was moved to Santa Croce in 1737, and displayed upright in a glass reliquary. It points, depending on your interpretation, either at the heavens or at Galileo's opponents.
+score: 8.2
 ---
 
 One of the world's great science museums, housed in a medieval palace on the Arno a short walk from the Uffizi. The collection centres on Galileo's own instruments — two of his telescopes survive, along with the objective lens from the telescope with which he discovered Jupiter's moons. The broader collection covers the Medici and Lorraine dynasties' patronage of science, with astrolabes, armillary spheres, thermometers, mathematical instruments, and anatomical wax models.

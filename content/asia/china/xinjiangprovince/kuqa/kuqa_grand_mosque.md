@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7185
 longitude: 82.9358
+score: 8.2
 ---
 
 The Kuqa Grand Mosque is one of the largest traditional mosques in Xinjiang, with a capacity of several thousand worshippers and a courtyard shaded by enormous mulberry trees that are themselves centuries old. The mosque was founded in the 14th century and has been rebuilt and expanded several times since; the current structure dates largely from the 17th and 18th centuries, in the Central Asian architectural tradition that characterises the region's historic mosques.

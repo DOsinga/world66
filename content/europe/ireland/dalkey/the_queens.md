@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: One of Ireland's oldest pubs, on the main street since 1745
+score: 6.8
 ---
 
 The Queens has been on Castle Street since 1745 and claims to be one of the longest continuously trading pubs in Ireland. The front bar is small, low-ceilinged, and properly old; a series of newer rooms and a sheltered garden have been added at the back without spoiling the original.

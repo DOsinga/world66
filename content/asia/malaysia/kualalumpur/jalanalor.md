@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bukit_bintang
   - restaurant
+score: 7.5
 ---
 
 The most famous open-air food street in KL, a long block off Jalan Bukit Bintang lined with Chinese-Malay seafood restaurants that set up tables down the middle of the road every evening. The atmosphere is the point: red lanterns overhead, the rattle of woks, hawkers carrying barbecue smoke past your shoulder, the heat dropping a few degrees after dark.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 18.4580
 longitude: -69.3045
+score: 6.1
 ---
 
 San Pedro's Malecón runs along the bay and is the city's main gathering place. In the evenings it fills up with families, vendors, motoconchos weaving through the crowd, and clusters of people watching the sea. Unlike the resort-facing Malecón in Santo Domingo, this one is decidedly local — there's no tourist veneer.

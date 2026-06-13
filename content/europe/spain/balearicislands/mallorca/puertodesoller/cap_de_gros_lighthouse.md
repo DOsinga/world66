@@ -7,6 +7,7 @@ tags:
 latitude: 39.8089
 longitude: 2.7025
 snippet: "A remote lighthouse at the northern headland with views back over the perfect bay"
+score: 6.8
 ---
 
 The lighthouse sits on the northern headland of the bay, reachable by a 30 to 40 minute walk from the port along the coastal path. It is still operational, and not open to the public, but the headland around it is freely accessible and the walk there is the point anyway. As you round the final corner and the bay opens up below you, the view back toward the port — the near-circular water, the promenade, the mountains behind — is the best available perspective on Puerto de Sóller. It is the kind of view that makes clear why the bay was historically important as a shelter and why people keep coming back.

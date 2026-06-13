@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8772
 longitude: 12.7472
+score: 6.8
 ---
 
 The cathedral at the top of the hill is dedicated to Sant'Emiliano, the fourth-century bishop of Trevi who was martyred under the Emperor Diocletian — a legacy the town takes seriously. The building's origins are Romanesque, though later centuries added Gothic and Renaissance elements. The façade is relatively plain, as Umbrian churches often are, but the interior holds three notable works: a polyptych by Lo Spagna (a painter who spent most of his career in the Spoleto valley), a 16th-century ciborium over the main altar, and some fragmentary medieval frescoes along the south wall.

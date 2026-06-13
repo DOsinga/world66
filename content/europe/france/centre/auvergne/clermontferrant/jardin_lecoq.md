@@ -15,6 +15,7 @@ tags:
 - park
 title: Jardin Lecoq
 type: poi
+score: 6.4
 ---
 
 The Jardin Lecoq is Clermont-Ferrand's main public garden, a five-hectare botanical park laid out in the 1860s on a gentle slope between the city centre and the university district. The garden holds a varied collection of trees — including several specimens over 150 years old — a rose garden, a bandstand, and a small ornamental lake. It is a working botanical park as well as a public green space, and the adjacent Muséum Henri-Lecoq holds the natural history collections that the garden's founder assembled during his decades of research in the Auvergne.

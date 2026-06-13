@@ -5,6 +5,7 @@ tags: [things_to_do, museum, history]
 latitude: 32.3735
 longitude: -86.3008
 story: "On 30 January 1956, two months into the bus boycott, a bomb was thrown onto the front porch while Coretta Scott King and their baby daughter Yolanda were inside. The damage is still visible in a brick on the porch — the museum guides will point it out. King emerged that evening to address the angry crowd that had gathered and famously asked them not to retaliate."
+score: 7.7
 ---
 
 The modest white-frame house where Martin Luther King Jr. lived with his family from 1954 to 1960 has been preserved as it was during his pastorate. Most of the furniture and books in the study, kitchen, and bedrooms belonged to the Kings.

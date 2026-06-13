@@ -14,6 +14,7 @@ tags:
   - things_to_do
   - architecture
   - museum
+score: 8.6
 ---
 
 Carolina Rediviva is the main building of the Uppsala University Library and the largest research library in Sweden, holding over five million volumes. The neoclassical block at the foot of Castle Hill, completed in 1841, was designed by Carl Fredrik Sundvall — a sober counterpart to the playful pink castle directly above it.

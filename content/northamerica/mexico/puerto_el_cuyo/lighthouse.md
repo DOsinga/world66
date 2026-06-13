@@ -6,6 +6,7 @@ longitude: -87.6792
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 A simple white-and-red striped lighthouse stands above the village on the only piece of ground that could be called a rise. The current tower dates from the 1960s, replacing an older one that guided the small fishing fleet through the shallows.

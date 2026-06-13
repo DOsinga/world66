@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 6.0118
 longitude: 80.2568
+score: 7.4
 ---
 
 On the far side of Rumassala Hill, a short walk or tuk-tuk ride from the main beach, Jungle Beach (also called Secret Beach locally) is a smaller, wilder cove hemmed in by the forested slopes of the hill. There are no guesthouses here and no permanent food stalls — just the beach, the trees coming down to the water's edge, and the occasional fishing boat. The swimming is good but the bay is more exposed than Unawatuna, so the waves can pick up when the swell is running.

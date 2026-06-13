@@ -15,6 +15,7 @@ story: >
   making them older than the Portuguese fortifications at the waterfront.
 sources:
   - https://en.wikipedia.org/wiki/Kechla_Fortress
+score: 7.8
 ---
 
 The Kechla Fortress — also known as Dar Sultan — sits at the top of the old city on a ridge above the medina. Built in stages from the 12th century onward, it served as the seat of regional governors and a prison for high-status captives. The walls are massive and intact; the interior has been partially restored and contains a small local museum.

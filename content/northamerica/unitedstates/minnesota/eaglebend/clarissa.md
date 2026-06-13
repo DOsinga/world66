@@ -8,6 +8,7 @@ latitude: 46.1283
 longitude: -94.9492
 sources:
   - https://en.wikipedia.org/wiki/Clarissa,_Minnesota
+score: 5.0
 ---
 
 Clarissa is a nearby Todd County town southeast of Eagle Bend, useful as a short rural detour rather than a standalone destination. It gives travelers a broader feel for the small communities that dot this part of central Minnesota.

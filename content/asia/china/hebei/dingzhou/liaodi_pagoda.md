@@ -12,6 +12,7 @@ story: >
   as a military watchtower. The flat expanse of the North China Plain meant that
   from 84 metres up, defenders could monitor Liao dynasty movements across a wide
   arc of territory. Devotion and defence, stacked eleven storeys high.
+score: 8.8
 ---
 
 The Liaodi Pagoda of the Kaiyuan Monastery is the tallest surviving pre-modern pagoda in China, rising 84 metres above the surrounding plain and completed in 1055 during the Northern Song dynasty. It is also the tallest brick pagoda ever built, a record that stands after nearly a thousand years. The scale is genuinely astonishing when you stand beside it: the structure tapers through eleven fully accessible storeys, each one giving onto an exterior balcony from which the patchwork farmland and distant Taihang foothills are visible in every direction.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9004
 longitude: -4.0060
+score: 5.5
 ---
 
 Restaurante Zuloaga is one of the better-known restaurants in La Granja, serving traditional Castilian dishes in a solid stone dining room near the palace. The menu centres on the regional classics: cochinillo asado (roast suckling pig), cordero lechal (roast lamb), and bean stews in cooler months. The quality is reliable and the portions generous.

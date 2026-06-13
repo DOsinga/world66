@@ -7,6 +7,7 @@ tags:
 - dubai_marina
 title: Zero Gravity Dubai
 type: poi
+score: 4.9
 ---
 
 Zero Gravity is a beach club and bar on the edge of the Dubai Marina waterfront, with a large outdoor pool, a strip of beach, and a bar that stays open until the early hours at weekends. It is one of the more enjoyable outdoor nightlife spots in the city — the combination of beach, pool, and licensed bar with a view of the Marina towers works well.

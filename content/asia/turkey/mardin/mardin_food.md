@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.3120
 longitude: 40.7300
+score: 7.8
 ---
 
 Mardin's cuisine is one of the most distinctive in Turkey, combining Arab, Kurdish, and Armenian traditions in dishes you will rarely find elsewhere. The signature ingredient is the wild pistachio (menengiç) that grows throughout the Tur Abdin plateau — the small, resinous nuts go into a coffee-like drink (menengiç kahvesi) and various sweets that are the local speciality. Oruk (kibbeh in Arabic, içli köfte in Turkish) — bulgur shells filled with spiced ground meat — is made here in more varieties than anywhere else; the local versions are especially good.

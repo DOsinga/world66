@@ -13,6 +13,7 @@ story: >
   making it the oldest hotel in Ethiopia. The Empress is said to have designed the building
   herself and ran it personally. It hosted diplomats, merchants, and travellers during
   the early years of Addis Ababa and survived both the Italian occupation and the Derg years.
+score: 7.6
 ---
 
 Ethiopia's oldest hotel sits in the Piazza neighbourhood, a white colonial-era building that has been hosting guests since 1898. It is no longer the most comfortable option in the city, but the bar and restaurant on the ground floor are among the most atmospheric places in Addis for a coffee, a beer, or a glass of tej.

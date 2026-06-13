@@ -9,6 +9,7 @@ latitude: 14.5122
 longitude: 120.9801
 sources:
   - https://en.wikipedia.org/wiki/Okada_Manila
+score: 6.7
 ---
 
 The most architecturally ambitious of the Entertainment City resorts, Okada Manila opened in 2016 and is owned by Japanese billionaire Kazuo Okada. The centrepiece is the Fountain of Dreams, a 30,000-square-metre indoor lagoon beneath a vast domed atrium, with a choreographed fountain show that runs several times daily.

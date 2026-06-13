@@ -9,6 +9,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Waskesiu_Lake
+score: 8.0
 ---
 
 The small resort townsite of Waskesiu sits inside the national park on the southern shore of Waskesiu Lake, about 90 km north of Prince Albert. In summer it operates as a classic Canadian lakeside community: a sandy beach, a marina with canoe and kayak rentals, a golf course, a Heritage Museum, restaurants, and an ice cream shop. Families have been coming here since the park opened in 1927.

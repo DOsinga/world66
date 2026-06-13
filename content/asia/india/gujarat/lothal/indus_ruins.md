@@ -8,6 +8,7 @@ latitude: 22.5215
 longitude: 72.2492
 story: >
   The drainage system at Lothal was so well designed that individual houses had private drains connecting to covered street drains — a level of urban sanitation not seen again in the Indian subcontinent for another four millennia.
+score: 8.6
 ---
 
 The excavated ruins of the Lothal settlement cover several distinct zones: a residential upper town, a lower commercial quarter, and the warehouse district where excavators found rows of burnt brick platforms thought to have supported goods awaiting shipment. Walking through these areas, you can trace the outlines of individual houses, identify where hearths stood, and see the remains of the city's famous brick-lined drainage channels running beneath the streets.

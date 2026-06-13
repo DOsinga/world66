@@ -9,6 +9,7 @@ title: Rustaveli National Theatre
 type: poi
 story: >
   The Rustaveli Theatre achieved international recognition under the legendary director Robert Sturua, whose productions of Shakespeare and Brecht in the 1970s and 80s were considered among the most inventive in the world. Sturua's production of *Richard III* with Ramaz Chkhikvadze in the title role toured European festivals and established the Georgian theatrical tradition as something more than a provincial curiosity. Sturua continued working into his 80s.
+score: 7.4
 ---
 
 The Rustaveli National Theatre is Georgia's most prestigious stage company, based in its current building on Rustaveli Avenue since 1921. The theatre company itself is older — it was founded in 1879 — and has played a central role in Georgian cultural life through the Soviet period and independence. The building's neoclassical facade is one of the architectural landmarks of the avenue.

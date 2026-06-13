@@ -8,6 +8,7 @@ tags:
   - garden
 title: National Peony Garden
 type: poi
+score: 7.3
 ---
 
 Luoyang has cultivated peonies for over 1,500 years and holds a peony festival every April that draws visitors from across China. The National Peony Garden (国家牡丹园) on the western edge of the city is the largest and best of the several peony gardens, with hundreds of varieties covering five hectares. The display peaks in mid-April when the flowers bloom simultaneously, filling the garden with colours from white through pink, red, and the prized deep purple-black Luoyang Black variety.

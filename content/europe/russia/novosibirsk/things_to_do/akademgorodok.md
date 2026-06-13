@@ -15,6 +15,7 @@ story: >
   mathematics, physics, and genetics. It also produced an unusually free-thinking culture — 
   in 1968 Akademgorodok academics signed a letter protesting the Soviet invasion of 
   Czechoslovakia, an act of extraordinary courage that cost several of them their careers.
+score: 8.7
 ---
 
 Akademgorodok is a township built from scratch in a birch forest above the Ob Sea reservoir, about 30 km south of central Novosibirsk. It was founded in 1957 as the Siberian branch of the Russian Academy of Sciences, designed to concentrate research institutes, a university, and supporting infrastructure in a single planned community far from the centralised bureaucracy of Moscow.

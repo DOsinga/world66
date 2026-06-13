@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - cycling
+score: 7.2
 ---
 
 The Suså is one of the longest rivers in Denmark, and the stretch running through and south of Næstved is the most popular for canoeing. Canoe rental is available from several operators in the area, and the river is calm and easy enough for beginners. A classic day trip runs from Glumsø or Tyvelse down to the sea.

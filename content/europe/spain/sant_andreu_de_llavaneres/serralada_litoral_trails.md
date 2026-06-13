@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5850
 longitude: 2.4720
+score: 7.1
 ---
 
 The Serralada Litoral — the low coastal mountain range that runs behind the Maresme towns — rises directly above Sant Andreu de Llavaneres and offers straightforward hiking on well-marked trails through pine and cork oak forest. The views over the coast and the sea are the reward: on a clear day you can see across to the Maresme's flat coastline and, from the higher points, to the Pyrenees.

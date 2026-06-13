@@ -13,6 +13,7 @@ story: >
   salute their own taipan's arrival in 1860 — an honour reserved for the Governor. The Royal Navy
   was so offended that they sentenced the company to fire it every day at noon, forever, as
   punishment. Jardine Matheson denies this. They fire it anyway.
+score: 4.7
 ---
 
 A three-pounder Hotchkiss gun on the waterfront in Causeway Bay, the Noonday Gun has been fired every day at noon since at least the 1860s — one of Hong Kong's oldest and most reliably performed rituals. Noel Coward immortalised it in his 1924 song "Mad Dogs and Englishmen" ("In Hong Kong, they strike a gong, and fire off a noonday gun").

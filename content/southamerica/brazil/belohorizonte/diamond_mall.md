@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Diamond Mall
 type: poi
+score: 4.6
 ---
 
 Diamond Mall is the small upscale mall at the heart of Savassi, on three floors with around 130 stores of mostly Brazilian and international clothing, accessories, and lifestyle brands. The food court on the upper floor is one of the better mall food courts in the city, and the cinema runs original-language films.

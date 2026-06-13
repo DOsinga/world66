@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -22.7700
 longitude: -41.9058
+score: 7.7
 ---
 
 Ferradura — the name means horseshoe — takes its shape from the near-circular bay in which it sits. The headlands enclose the water almost completely, producing conditions that are calm and predictable even when other beaches on the peninsula are rough. The result is a beach popular with families and with anyone who prefers their swimming without the anxiety of surf.

@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Skaneateles Historic District
 type: poi
+score: 8.3
 ---
 
 The historic district covers most of the village core and is one of the best-preserved 19th-century town centres in upstate New York. It is small enough to walk in an hour: Genesee Street has the brick storefronts and the 1839 Greek Revival former bank that now houses the historical society, while West Genesee and East Lake Street curve away from the centre past Federal-era houses with porches looking down to the lake.

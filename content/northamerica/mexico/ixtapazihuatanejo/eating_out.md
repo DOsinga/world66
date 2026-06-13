@@ -7,6 +7,7 @@ price: 25-50 pesos
 title: Eating Out
 type: poi
 url: www.lacasacafe.net
+score: 4.2
 ---
 
 Ixtapa-Zihuatanejo is well-known for it's restaurants.

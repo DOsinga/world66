@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Schmalzturm
 type: poi
+score: 6.5
 ---
 
 The slim, four-sided tower at the northern corner of the Hauptplatz is the oldest piece of Landsberg's medieval fortifications still standing — built around 1300 as part of the first inner ring of walls. Its odd name comes from the medieval tradition of using it to store the town's reserve of lard (Schmalz), kept cold by the thick stone walls.

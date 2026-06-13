@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Antigone Quarter
 type: poi
+score: 7.3
 ---
 
 A vast 1980s neoclassical-postmodern district immediately east of the Écusson, designed by Ricardo Bofill. A kilometre-long axis runs from the Place de la Comédie through the Polygone shopping centre, past a colossal pediment, around colonnaded squares with names like Place du Nombre d'Or, Place du Millénaire and Place de Thessalie, all the way down to the river Lez.

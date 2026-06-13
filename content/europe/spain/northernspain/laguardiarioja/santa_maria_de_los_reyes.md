@@ -12,6 +12,7 @@ story: >
   most were whitewashed or stripped during the Baroque period. Laguardia's survived because the
   town was too poor to renovate it. The vivid reds, blues, and golds of the carved figures have
   been sheltered under a later stone arch for centuries and remain astonishingly intact.
+score: 8.7
 ---
 
 The Church of Santa María de los Reyes contains what is arguably the finest painted Gothic doorway in Spain. The late fourteenth-century portico is a riot of carved apostles, angels, and scenes from the life of the Virgin, all retaining much of their original polychrome pigment. Getting inside requires booking a guided visit — the church functions as a museum — but the doorway alone, visible from the street, is worth the trip to Laguardia.

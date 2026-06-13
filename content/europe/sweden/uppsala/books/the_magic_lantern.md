@@ -5,6 +5,7 @@ author: "Ingmar Bergman"
 isbn: "978-0226043845"
 tags:
   - books
+score: 6.2
 ---
 
 Bergman's 1987 autobiography is the most candid book any major filmmaker has written about themselves. It opens with childhood years in Uppsala — his uncle's apartment on Trädgårdsgatan, the long summers at the family's country house — and the city stays as a low note throughout the rest of his life. The deans, pastors, and tradesmen of bourgeois Uppsala recur as the originals of characters in *Fanny and Alexander* and *Wild Strawberries*.

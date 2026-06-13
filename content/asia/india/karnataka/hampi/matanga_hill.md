@@ -13,6 +13,7 @@ story: >
   kingdom of the monkey army that helped Rama rescue her. The giant
   boulders that cover the hill, already strange and dramatic, take on
   an extra quality once you know this.
+score: 8.9
 ---
 
 The highest point in central Hampi, Matanga Hill rises above the ruins and offers a 360-degree view across the entire site — the Tungabhadra River to the north, the royal enclosure and Lotus Mahal to the south, and the Vittala Temple cluster to the northeast. The climb takes about 20 minutes from the Virupaksha Temple side and is steep in places, but there is a good path.

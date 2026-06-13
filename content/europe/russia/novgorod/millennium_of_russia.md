@@ -16,6 +16,7 @@ story: >
   Soviet forces retook the city before it could be removed.
 sources:
   - https://en.wikipedia.org/wiki/Millennium_of_Russia
+score: 7.6
 ---
 
 The Millennium of Russia is one of the most ambitious public monuments ever made in Russia, standing in the centre of the Novgorod Kremlin. Unveiled by Tsar Alexander II in 1862, it commemorates the arrival of Rurik the Varangian in Novgorod in 862 — the event traditionally taken as the founding of the Russian state. The monument is 15 metres tall and depicts 129 figures in bronze, from Rurik himself to Peter the Great and Mikhail Lomonosov.

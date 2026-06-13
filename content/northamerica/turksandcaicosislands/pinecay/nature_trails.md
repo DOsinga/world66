@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 21.8800
 longitude: -72.1050
+score: 7.1
 ---
 
 Nine miles of nature trails wind through the interior of Pine Cay, passing through casuarina pine forest, tidal ponds, and low scrub. The island is a nesting site for several species of seabird and a regular stopping point for migratory birds. Flamingos occasionally make their way over from North Caicos, feeding in the shallow tidal flats on the island's western end.

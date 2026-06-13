@@ -11,6 +11,7 @@ story: >
   The Bükk plateau is home to the densest concentration of caves in Hungary — over 800 known cave systems, many with Palaeolithic human remains. The Szeleta Cave above Miskolc yielded tools from the so-called Szeleta culture, a transitional Palaeolithic industry that appears to represent a contact point between Neanderthal and early modern human populations in central Europe.
 sources:
   - https://en.wikipedia.org/wiki/Bükk_National_Park
+score: 7.8
 ---
 
 The Bükk National Park begins virtually at the northern edge of Miskolc, making the city one of the better base camps for hiking in Hungary. The park covers a plateau of beech and oak forest cut through with limestone karst formations, stream valleys, and rock outcrops, rising to around 960 metres at its highest point. The forest is dense and cool, a significant relief in summer when Miskolc's valley location traps heat.

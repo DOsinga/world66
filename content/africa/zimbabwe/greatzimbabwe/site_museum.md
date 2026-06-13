@@ -7,6 +7,7 @@ longitude: 30.9315
 tags:
 - things_to_do
 - museum
+score: 8.9
 ---
 
 The museum at the entrance to Great Zimbabwe contains the most important finds from the site: original soapstone carved birds (the most famous emblem of Zimbabwe), gold beads and wire ornaments, Arab coins and Chinese porcelain that attest to the site's role in Indian Ocean trade, and tools and ceramics from the Shona inhabitants. It is well worth spending 30 minutes here before walking the ruins.

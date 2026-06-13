@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.851114
 longitude: -99.960892
+score: 5.8
 ---
 
 The Assiniboine Riverwalk runs along the river that gives Assiniboine College its name and the province much of its character. The paved path follows the river through central Brandon, connecting several city parks and passing through a mix of wooded and open terrain. It is the most pleasant way to see the city at a walking or cycling pace, and the river scenery — flat, wide, lined with cottonwoods — is classic Manitoba.

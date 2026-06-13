@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Namibia's only public aquarium, showcasing the cold Benguela Current ecosystem
+score: 7.4
 ---
 
 The National Marine Aquarium sits at the southern end of the beachfront, a short walk from the Mole. It is the only public aquarium in Namibia, and it focuses on what makes the waters off this coast remarkable: the cold Benguela Current, which drives one of the world's most productive marine ecosystems. The tanks hold sharks, rays, large teleost fish, and a variety of cold-water invertebrates. The central tank — a cylindrical walk-through exhibit — lets you stand surrounded by fish while the sharks circle.

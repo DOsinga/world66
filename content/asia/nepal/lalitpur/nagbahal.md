@@ -7,6 +7,7 @@ tags:
 - sight
 title: Nagbahal
 type: poi
+score: 7.4
 ---
 
 Nagbahal is one of the largest open courtyards in Patan, a broad rectangular space ringed by old Newar houses, Buddhist shrines, and a chaitya at its centre. It is the spiritual and social heart of the Sakya Buddhist community in Patan, and the Bara Bahil — the courtyard's main monastery building — has been continuously inhabited by monks since the 12th century.

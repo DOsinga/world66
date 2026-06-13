@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Augustinian church with a particularly fine baroque main altar"
+score: 8.2
 ---
 
 A late-17th-century Augustinian church just south of the cathedral. Less famous than San Francisco or Santo Domingo but, for many locals, the most beautiful interior in town: a soaring baroque main altarpiece in gilded wood, with painted panels and carved saints set against a white nave.

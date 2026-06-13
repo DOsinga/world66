@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -6.4517
 longitude: 38.9101
+score: 7.4
 ---
 
 The Bagamoyo College of Arts — Chuo cha Sanaa, now TaSUBa (Taasisi ya Sanaa na Utamaduni Bagamoyo) — is Tanzania's national institution for the performing arts. Founded in 1981, it trains musicians, dancers, painters, and theatre-makers from across the country and runs a steady programme of public performances on its small campus south of the town centre.

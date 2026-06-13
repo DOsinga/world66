@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - square
+score: 7.5
 ---
 
 Avram Iancu Square is the city's grand civic space — broader and more open than Piața Unirii, with the imposing Orthodox Cathedral on one side and the neo-baroque Opera and National Theatre on the other. The statue of Avram Iancu, the 1848 Transylvanian Romanian revolutionary, stands at the centre.

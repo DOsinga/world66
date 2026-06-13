@@ -10,6 +10,7 @@ story: >
   On 15 July 1944, Japanese soldiers killed 46 Chamorro civilians at this site — mostly elderly men, women, and children who had been unable to flee the advancing US forces. The massacre at Tinta was one of several committed in the Merizo area in the final days of the Japanese occupation.
 sources:
   - https://en.wikipedia.org/wiki/Tinta_Massacre_Site
+score: 5.8
 ---
 
 The Tinta Massacre Site is a memorial to 46 Chamorro civilians killed by Japanese forces on 15 July 1944, in the final days of the Japanese occupation of Guam before American forces liberated the island. The victims had been rounded up from the surrounding area and executed near this spot.

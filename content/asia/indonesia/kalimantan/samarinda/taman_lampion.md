@@ -8,6 +8,7 @@ latitude: -0.5090
 longitude: 117.1520
 sources:
   - https://en.wikipedia.org/wiki/Samarinda
+score: 5.6
 ---
 
 Taman Lampion — the Lantern Garden — is a waterfront park on the south bank of the Mahakam that becomes the city's main evening gathering place. Hundreds of coloured lanterns are illuminated after dark, and the park fills with families, food vendors, and couples. It is unabashedly local and unpretentious, which is exactly its appeal.

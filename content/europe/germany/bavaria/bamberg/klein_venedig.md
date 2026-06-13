@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Klein Venedig
 type: poi
+score: 8.4
 ---
 
 A long row of half-timbered cottages standing directly in the water on the Regnitz River below the Lower Bridge, each with a small wooden balcony, a pitched roof, and a small jetty in front for the family boat. They were built in the Middle Ages as fishermen's housing — a working district, not a constructed beauty spot — and survive remarkably intact.

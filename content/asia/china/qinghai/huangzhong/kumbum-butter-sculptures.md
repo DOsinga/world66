@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.4816
 longitude: 101.5995
+score: 8.8
 ---
 
 The Butter Sculpture Hall (Suyouhua Yuan) is the most technically extraordinary building in the Kumbum complex, housing examples of the ancient Tibetan art of yak-butter sculpture that the monastery's monks have practised for centuries. The works range from small ritual objects to large-scale multi-figure narratives, and the skill involved — creating detailed three-dimensional forms from a material that must be worked cold (monks often submerge their hands in ice water to keep the butter firm) — is remarkable.

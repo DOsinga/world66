@@ -14,6 +14,7 @@ story: >
   in 1846 — escorted from his home next door by armed American settlers while still in his nightgown. After
   California became American, the barracks served a variety of purposes, including as a winery, a hop
   warehouse, and a private residence.
+score: 7.8
 ---
 
 The Sonoma Barracks is a two-storey adobe building facing the north side of the plaza — the old Mexican garrison that once housed the soldiers maintaining order on California's northern frontier. The building was completed in 1840 under the direction of General Mariano Vallejo and is one of the best-preserved examples of Mexican-era California architecture in the state.

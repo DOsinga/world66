@@ -14,6 +14,7 @@ story: >
   base in shallow, clear water no deeper than your knees.
 sources:
   - https://vietnam.travel/things-to-do/7-ways-have-fun-mui-ne
+score: 7.7
 ---
 
 The Fairy Stream is a shallow waterway that runs inland from the coast at the eastern end of the Mui Ne resort strip. You wade along the stream bed between walls of compressed sandstone in shades of rust, cream, and deep orange — layers of different-coloured sand consolidated over thousands of years. The water rarely reaches ankle-height, and the walk takes about thirty minutes each way.

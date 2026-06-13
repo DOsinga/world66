@@ -12,6 +12,7 @@ story: >
   and lesbians who were persecuted for their sexuality. The pink triangle, originally
   forced on gay prisoners in Nazi concentration camps, was reclaimed as a symbol of
   pride and remembrance.
+score: 7.2
 ---
 
 Three large pink granite triangles set into the ground at the Westermarkt, next to the Westerkerk. Together they form a larger triangle — designed by Karin Daan and unveiled in 1987 as the world's first memorial to gay men and lesbians persecuted for their sexuality. One corner points toward the Anne Frank House, one toward the National War Memorial on Dam Square, and one toward the COC, the oldest gay rights organisation in the world, founded in Amsterdam in 1946. Each triangle carries a different meaning: past persecution, present struggle, and hope for the future.

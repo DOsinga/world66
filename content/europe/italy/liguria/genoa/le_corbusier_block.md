@@ -7,6 +7,7 @@ tags:
 - architecture
 type: poi
 snippet: Le Corbusier's only Italian building, an ambitious social housing block in Quezzi
+score: 6.4
 ---
 
 Genoa has the only Le Corbusier building in Italy: the Unité d'Habitation in the Quezzi district, built between 1963 and 1965. One of five such blocks built in different European cities, the Genoese version is the least well-known and the least maintained, which makes it more interesting in some ways than the better-preserved Marseille original.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The pro-cathedral, set at the highest point of the citadel, was built in the 13th century, badly damaged in a gunpowder explosion in 1567 and rebuilt in Greek-cross plan in the 1620s. The interior is gloomy and atmospheric, with a 15th-century walnut altarpiece, a triptych attributed to Barbagelata, and the Christ des Miracles — a black painted statue carried in procession in 1553 when a Turkish fleet besieged the town and, according to local tradition, withdrew.

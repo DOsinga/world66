@@ -5,6 +5,7 @@ tags:
 - museum
 title: Artium
 type: poi
+score: 8.1
 ---
 
 Artium — the Basque Museum of Contemporary Art — is one of the best contemporary art museums in northern Spain, a considerable achievement for a city that rarely appears on visitor itineraries. The building, opened in 2002, is an underground structure beneath a new square, with the gallery spaces arranged around a central void that brings daylight down through levels of exhibition rooms.

@@ -11,6 +11,7 @@ story: >
   The church was built over the course of 60 years, from 1787 to 1873, because the local population was repeatedly disrupted by the decline of the gold trade. Its asymmetrical towers — one was never completed — are visible from the bay and serve as a landmark for boats approaching from the sea.
 sources:
   - https://en.wikipedia.org/wiki/Paraty
+score: 7.2
 ---
 
 The Igreja Nossa Senhora dos Remédios is the largest and most prominent church in Paraty's historic centre, dominating the main praça at the heart of the old town. Its plain whitewashed facade conceals an interior decorated with 18th-century azulejo tiles and gilded woodwork, and the church has served as the spiritual centre of the community since the town's earliest colonial days.

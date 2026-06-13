@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Darband_Cave
 story: >
   Among the artefacts recovered from the cave floor is a gold coin struck in Kufic script, dating to the late Seljuk period or the very beginning of the Mongol invasion in the thirteenth century — evidence that people were sheltering here precisely when the armies were moving through the passes above.
+score: 7.2
 ---
 
 Darband Cave sits about 3 kilometres north of Mahdishar city, hollowed into the limestone flanks of the Alborz at roughly 1,600 metres. It is one of the largest caves in Semnan Province: the main hall runs some 91 metres long and 36 metres wide, with a ceiling that rises to 20 metres in places. The entrance is a wide, dramatic arch — 75 metres across and 35 metres high — that frames a view back down into the valley. Inside, the temperature drops roughly ten degrees below the outside air, making it a cool refuge in summer.

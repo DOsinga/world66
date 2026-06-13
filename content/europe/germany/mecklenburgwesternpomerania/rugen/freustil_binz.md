@@ -6,6 +6,7 @@ longitude: 13.5961
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Freustil in Binz is one of Rügen's most ambitious kitchens — a Michelin-starred operation tucked into a townhouse a block back from the seafront. The cooking is Mecklenburg-rooted but stretches into broader European territory: Baltic cod with sea buckthorn, dry-aged beef from local farms, foraged mushrooms in season.

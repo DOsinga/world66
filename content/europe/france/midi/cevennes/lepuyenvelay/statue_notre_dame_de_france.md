@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 45.0436
 longitude: 3.8856
 snippet: Giant red cast-iron Virgin Mary statue on a third volcanic plug above the town
+score: 7.8
 ---
 
 The Notre-Dame de France is a colossal statue of the Virgin Mary perched on the Rocher Corneille, the highest of Le Puy's volcanic plugs. At 16 metres tall, it is visible from across the Velay plain and dominates the city's skyline almost as much as the cathedral below. The statue was cast in 1860 from over 200 cannons captured at the Siege of Sebastopol during the Crimean War — the recycling of military hardware into devotional art was a deliberate gesture.

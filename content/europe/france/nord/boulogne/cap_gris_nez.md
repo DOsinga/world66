@@ -8,6 +8,7 @@ latitude: 50.8671
 longitude: 1.5856
 story: >
   Cap Gris-Nez is the closest point on the French mainland to England — approximately 28 kilometres to the white cliffs of Dover. On a clear day you can stand here and watch individual container ships navigating through the Strait of Dover, the world's busiest shipping lane, with more than 500 vessels passing every day. Caesar is said to have stood here before his invasion in 55 BC, and the Germans built a massive gun emplacement here in 1940 to shell convoys and the English coast.
+score: 8.3
 ---
 
 Cap Gris-Nez (the Grey Nose) is a blunt headland of chalk and clay cliffs 30 kilometres north of Boulogne, marking the narrowest point of the English Channel. On clear days the white cliffs of Dover are unmistakably visible from the lighthouse at the cape's tip. The surrounding coastal path — part of the GR120 long-distance route — passes through sand dunes, gorse scrub, and open farmland with Channel views.

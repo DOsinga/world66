@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.0144
 longitude: -76.7638
+score: 5.8
 ---
 
 The University of Technology (UTech) on Papine Road in eastern Kingston operates one of the city's more active contemporary art galleries — a university-based space that hosts regular exhibitions of student and faculty work alongside external shows. The quality is variable but the space is serious, the hanging is professional, and the work tends to be more experimental than what the established commercial galleries show.

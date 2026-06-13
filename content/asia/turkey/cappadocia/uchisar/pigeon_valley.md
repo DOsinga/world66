@@ -14,6 +14,7 @@ story: >
   in the region — and left the birds to come and go through small carved
   openings, some of them painted bright colours to attract returning
   birds.
+score: 8.5
 ---
 
 Pigeon Valley runs east from Uçhisar to Göreme through a landscape of fairy chimneys, white tuff cliffs and pigeon-cote caves. The hike between the two villages takes about 90 minutes downhill if you go from Uçhisar to Göreme — easier than the other way around — and is among the most spectacular short walks in Cappadocia.

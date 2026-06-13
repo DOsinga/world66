@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Municipality Square
 type: poi
+score: 7.5
 ---
 
 Municipality Square, often called Shahrdari Square, is Rasht's postcard view: a broad urban space framed by the municipality building, clock tower, post office, and other early-20th-century civic architecture. It is not grand in the Isfahan sense, but it is handsome, walkable, and unusually coherent for a busy Iranian provincial capital.

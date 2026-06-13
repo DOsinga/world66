@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -32.0553
 longitude: 115.7460
+score: 7.1
 ---
 
 Fremantle Markets have operated in the same Victorian-era market building on South Terrace since 1897, making them one of the oldest continuously operating markets in Australia. On weekends (Friday afternoon through Sunday) the building fills with around 150 stalls selling fresh produce, handmade crafts, jewellery, clothing, secondhand goods, and food from a dozen different cuisines. The building itself is beautiful — original wrought-iron columns, timber floors, a high Victorian roof — and the market has enough genuine character and local produce to distinguish it from the purely tourist-oriented markets that have proliferated in other cities.

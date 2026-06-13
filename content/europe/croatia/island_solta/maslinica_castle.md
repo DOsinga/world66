@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Marchi Castle, Maslinica
 type: poi
+score: 7.2
 ---
 
 The Marchi family castle at the western tip of the island, built in 1706, stands beside the picturesque harbour of Maslinica. It is the most complete historical structure on Šolta and the village around it — a handful of stone houses around a sheltered bay — is one of the prettiest spots on the island. The castle has been restored and operates as a hotel, but the exterior and the setting are worth the trip in themselves.

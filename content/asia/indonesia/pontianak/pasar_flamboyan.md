@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -0.0295
 longitude: 109.3275
+score: 7.9
 ---
 
 Pasar Flamboyan is Pontianak's main covered market, a sprawling multi-storey complex near the waterfront where the full produce of West Kalimantan arrives daily. The ground floor is fish and seafood — the variety from the Kapuas river and the South China Sea is remarkable — while the upper floors hold vegetables, spices, dried goods, and the slightly alarming range of freshwater creatures that Borneo's rivers produce.

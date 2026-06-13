@@ -8,6 +8,7 @@ tags:
 - berlinmitte
 title: Galerie Neu
 type: poi
+score: 6.6
 ---
 
 A wide range, from painting and photography to video installations. There are no narrow categories here -but the art has to be international and contemporary.

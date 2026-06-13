@@ -16,6 +16,7 @@ tags:
   - history
   - new_town
 neighbourhood: New Town
+score: 8.8
 ---
 
 The Museum of Occupations and Freedom Fights occupies the former KGB headquarters on Gedimino Avenue, a building that served as the Gestapo's base during the Nazi occupation and then the KGB's during the Soviet period. The building's basement prison — where Lithuanians were interrogated, tortured, and in some cases executed — is preserved in extraordinary detail, with solitary confinement cells, interrogation rooms, and the execution chamber.

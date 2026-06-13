@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.7831
 longitude: 15.5450
+score: 6.5
 ---
 
 The Stadtplatz is the heart of Leibnitz — an attractive elongated market square lined with two-storey burgher houses and anchored by the town fountain. A few of the facades retain their baroque plasterwork, and the square has the lived-in quality of a place that is still a genuine market town rather than a tourist stage set.

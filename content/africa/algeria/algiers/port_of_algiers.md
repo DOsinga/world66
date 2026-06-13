@@ -6,6 +6,7 @@ longitude: 3.0600
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The port of Algiers is the largest in Algeria and one of the major shipping hubs of the Mediterranean. The seafront promenade along the port — the Boulevard Che Guevara — gives good views of the harbour and the city rising steeply behind it. The white buildings of the Casbah and the French colonial centre stacking up the hillside from the waterfront are the defining image of Algiers from the sea.

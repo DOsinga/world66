@@ -15,6 +15,7 @@ tags:
 - cafe
 title: Gran Caffè Gambrinus
 type: poi
+score: 7.6
 ---
 
 The most celebrated cafe in Naples, open since 1860 and occupying a series of lavishly decorated Belle Époque rooms next to Piazza del Plebiscito. Once frequented by Oscar Wilde, Hemingway, and Sartre; the intellectual and artistic life of Naples has passed through these rooms for over 160 years. The place for a Neapolitan espresso (strong, short, drunk standing at the bar) and a sfogliatella — the flaky, shell-shaped Neapolitan pastry — for breakfast.

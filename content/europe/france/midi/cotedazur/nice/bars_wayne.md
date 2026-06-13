@@ -8,6 +8,7 @@ tags:
 address: "15 Rue de la Préfecture, Vieux Nice"
 latitude: 43.6962
 longitude: 7.2750
+score: 4.8
 ---
 
 Wayne's is the loudest and most reliably packed bar in Vieux Nice, a favourite with the city's Anglophone expat community and international visitors. It occupies a prime corner on Rue de la Préfecture and spills onto the street on warm evenings. Live music most nights, a wide selection of international beers and cocktails, and a crowd that starts at late-20s and tilts young.

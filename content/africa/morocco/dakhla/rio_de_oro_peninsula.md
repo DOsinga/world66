@@ -15,6 +15,7 @@ story: >
   colony of Spanish Sahara. The "gold" was presumably the shimmering light off the 
   shallow lagoon waters, or perhaps wishful thinking by men who had sailed very far 
   south looking for wealth.
+score: 7.6
 ---
 
 The Río de Oro Peninsula is the narrow spit of land on which Dakhla sits. It extends about 40 km into the Atlantic Ocean from the coast of Western Sahara, creating the sheltered lagoon on its eastern side and leaving the open Atlantic on the west. The peninsula is mostly flat, sandy Saharan desert — remarkable for its emptiness and for the quality of light.

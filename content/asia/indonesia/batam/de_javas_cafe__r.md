@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: de Java's Cafe & Resto
 type: poi
+score: 4.8
 ---
 
 A relaxed cafe-restaurant tucked behind the Harmoni Hotel, with a fresh tropical look and a mixed Western-Asian menu. Decent wines and beers, comfortable for a long evening with friends, and a calmer alternative to the NED bars a few blocks away.

@@ -14,6 +14,7 @@ story: >
   one of them wanted it. The gin distillery that operates in the old British naval
   facility is a direct legacy of the occupation: the British brought gin to Menorca,
   and the Menorcans never stopped making it.
+score: 8.2
 ---
 
 Maó (in Spanish, Mahón — and the origin of the word "mayonnaise," which was supposedly invented here for a French admiral in 1756) is Menorca's capital, a white-washed town sitting above one of the finest natural harbours in the Mediterranean. The harbour is over five kilometres long and almost completely enclosed — its depth and shelter made it strategically invaluable and brought the British, French, and Spanish into repeated conflict over the island.

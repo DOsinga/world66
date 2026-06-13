@@ -2,6 +2,7 @@
 title: "Lake Oroville State Recreation Area"
 type: poi
 tags: [nature, water-sports, camping, hiking]
+score: 7.6
 ---
 
 Lake Oroville is California's second-largest reservoir, formed by Oroville Dam and stretching 167 miles of shoreline into the Sierra Nevada foothills. The State Recreation Area surrounding it is the main reason most people visit Oroville — a sprawling aquatic playground that draws boaters, anglers, water-skiers, and houseboaters from across Northern California.

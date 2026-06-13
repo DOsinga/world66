@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: -38.3975
 longitude: 142.4826
+score: 6.5
 ---
 
 Lake Pertobe is a large coastal parkland on the Warrnambool foreshore, built around a shallow lake and a network of walking paths through dunes and scrub. The adventure playground — one of the most elaborate in regional Victoria — has giant slides, flying foxes, a maze, and pedal boat hire on the lake. It is aimed firmly at families with children but the surrounding parkland is pleasant for anyone.

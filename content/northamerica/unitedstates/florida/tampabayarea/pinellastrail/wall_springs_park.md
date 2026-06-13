@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - park
+score: 7.0
 ---
 
 Wall Springs Park is a 209-acre county park just east of the trail near Palm Harbor, built around a natural sulphur spring that was a popular swimming and bottling site in the late 1800s. The historic springhouse remains, though swimming is no longer allowed; the spring instead feeds a series of pools and a small lagoon that opens onto the Brooker Creek estuary.

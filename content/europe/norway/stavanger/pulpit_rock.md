@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Pulpit Rock (Preikestolen)
 type: poi
+score: 9.6
 ---
 
 One of Norway's most iconic natural sights: a flat-topped cliff rising 604 metres sheer above Lysefjorden. The hike from the trailhead at Preikestolen fjellstue takes around 2 hours each way over rocky terrain — manageable for fit walkers, but not a casual stroll. The payoff at the top, standing on the edge above the turquoise fjord, is extraordinary.

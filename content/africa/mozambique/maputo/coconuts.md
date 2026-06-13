@@ -10,6 +10,7 @@ tags:
   - costa_do_sol
   - bar
 neighbourhood: Costa do Sol
+score: 5.7
 ---
 
 **Coconuts Live** is Maputo's best-known nightspot, a sprawling open-air venue on the Avenida Marginal that combines a restaurant, several bars, two dance floors and a regular live-music stage. The crowd is mostly Mozambican, in their twenties and thirties, well-dressed and out to dance.

@@ -8,6 +8,7 @@ tags:
   - crafts
 latitude: 6.7006
 longitude: -1.6292
+score: 8.0
 ---
 
 A compound of workshops, stages, and the Prempeh II Jubilee Museum, the Centre for National Culture is the one-stop introduction to Ashanti craft and performance. Wood carvers, brass casters, and kente weavers work in open sheds and will happily explain the symbolism of their pieces before quoting you a price. Prices are negotiable and generally above Bonwire, but the selection is wider.

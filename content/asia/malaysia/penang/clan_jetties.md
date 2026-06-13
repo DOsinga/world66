@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Clan Jetties
 type: poi
+score: 8.1
 ---
 
 The clan jetties are a series of stilt-house communities built on stilts over the waterfront at the southern edge of George Town's heritage zone — each jetty belonging to a different Chinese clan organised by surname. The Chew, Lim, Tan, Lee, and Mixed Clan jetties have existed since the 19th century, when clan-based communities settled the waterfront, built their homes on stilts over the water, and organised their trades (lighterage, fishing, cargo handling) around the jetty.

@@ -8,6 +8,7 @@ tags:
 title: Blaydes House
 type: poi
 snippet: "Grade II* Georgian merchant's house on High Street, owned by the Blaydes shipbuilding family who built HMS Bounty"
+score: 6.8
 ---
 
 Blaydes House is a fine Georgian townhouse on High Street, built around 1730 for the Blaydes family, Hull's most prominent shipbuilders of the period. They built warships for the Royal Navy in their nearby yard, including, most famously, HMS Bounty — the vessel later commandeered by Fletcher Christian in the South Pacific mutiny of 1789.

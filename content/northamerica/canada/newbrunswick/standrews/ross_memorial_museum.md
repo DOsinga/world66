@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Ross_Memorial_Museum
+score: 7.4
 ---
 
 A 1824 red-brick mansion on Montague Street, the Ross Memorial Museum holds the collection of the American couple Reverend Henry and Sarah Juliette Ross, who summered in St. Andrews and bequeathed their house and contents to the town in 1945. The result is a small but unusually rich domestic museum: New Brunswick furniture, Loyalist silver, Victorian decorative arts, ceramics, paintings, and folk objects, arranged in the rooms more or less as the Rosses left them.

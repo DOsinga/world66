@@ -18,6 +18,7 @@ story: >
   a lightness that seems to deny their own weight.
 sources:
   - https://en.wikipedia.org/wiki/Sedlec_Abbey
+score: 8.3
 ---
 
 The Cathedral of the Assumption of Our Lady at Sedlec is one of the finest and most unusual buildings in the Czech Republic — a UNESCO World Heritage Site that almost nobody visits compared to the famous ossuary a hundred metres away. The exterior is striking: a long white nave with soaring buttresses and pointed Gothic profiles, but built in the early 18th century with all the sophistication of mature Baroque spatial design.

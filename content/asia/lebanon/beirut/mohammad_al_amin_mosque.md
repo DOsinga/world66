@@ -10,6 +10,7 @@ story: >
   Prime minister Rafic Hariri championed the mosque's construction and is
   buried in a tomb in its forecourt — assassinated by a massive car bomb on the
   Beirut seafront in 2005 before the building was completed.
+score: 7.4
 ---
 
 The Blue Mosque dominates downtown Beirut, its turquoise dome and four 65-metre minarets visible from across the city. Inaugurated in 2008, it is the largest mosque in Lebanon and an unmistakable landmark on Martyrs' Square.

@@ -13,6 +13,7 @@ story: >
   Valley, which had collapsed due to habitat loss and the pet trade, has largely
   recovered thanks to the programme — birds bred here now nest in the wild from
   the Pacific coast to the Sarapiquí lowlands.
+score: 7.2
 ---
 
 Zoo Ave, in the village of La Garita about 15 km east of Atenas, is one of Costa Rica's better wildlife centres and the best place in the Central Valley to see scarlet macaws up close. The facility rehabilitates injured and confiscated animals — jaguars, tapirs, toucans, caimans, and several species of monkey — and houses those that cannot be returned to the wild in large enclosures.

@@ -10,6 +10,7 @@ longitude: 18.8899
 sources:
   - https://en.wikipedia.org/wiki/Praskvica_Monastery
 story: "The monastery's 1413 charter, issued under Despot Stefan Lazarević, is one of the oldest preserved legal documents in Montenegro. The original is held in a museum in Cetinje; a copy remains at the monastery."
+score: 7.4
 ---
 
 Praskvica Monastery sits on a hillside above Sveti Stefan, surrounded by olive trees and with open views down to the coast. Founded in the 14th century, the complex has two churches: the older Church of St Nicholas and the 18th-century Church of the Holy Trinity. Both are modest in scale but atmospheric — bare stone walls, old frescoes, the quiet of a working monastery.

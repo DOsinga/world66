@@ -15,6 +15,7 @@ story: >
   canopy for months — American reconnaissance only spotted it in late 1942. The battle
   to take it cost the Allies over a thousand dead and took six weeks longer than planned.
   Today, the same strip is New Georgia's main airport.
+score: 7.0
 ---
 
 The airstrip at Munda Point was the prize the Japanese and Americans fought over through the bloody summer of 1943. The [New Georgia campaign](https://en.wikipedia.org/wiki/New_Georgia_campaign) was part of Operation Cartwheel, the Allied strategy to strangle Rabaul by seizing its forward airfields one by one. American forces landed at Rendova Island on 30 June 1943, then crossed to New Georgia, fighting through dense jungle and determined Japanese resistance for weeks before finally taking Munda Point on 5 August.

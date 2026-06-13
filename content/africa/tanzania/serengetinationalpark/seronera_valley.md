@@ -11,6 +11,7 @@ story: >
   The Seronera River contains a population of leopards so dense that it is regularly cited as one of the best places in Africa to see leopards in the wild. The leopards use the riverine fig trees as larders — hauling kills up into the branches away from lions and hyenas — and can often be spotted resting in the canopy or descending to feed at dusk. The combination of water, cover, and prey makes the Seronera river course exceptional for predator sightings year-round.
 sources:
   - https://en.wikipedia.org/wiki/Serengeti_National_Park
+score: 9.2
 ---
 
 The Seronera Valley, in the centre of the Serengeti, is the park's most reliably productive wildlife area. The Seronera River and its tributaries create a band of riverine woodland cutting through the open grassland, attracting both resident and migratory animals year-round. Large prides of lions use the kopjes — the granite rock outcrops — as lookout points and rest sites. Cheetahs hunt the adjacent plains. And the fig trees along the river are famous for leopards.

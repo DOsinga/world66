@@ -8,6 +8,7 @@ snippet: Sea cave where refracted sunlight turns the water electric blue
 latitude: 40.5622
 longitude: 14.1747
 story: "The Blue Grotto was known to the ancient Romans and used as a private bathing chamber by Emperor Tiberius. Marble statues found on the cave floor during 19th-century exploration confirmed Roman worship of the site; some are now in the Museo Nazionale di Capodimonte in Naples."
+score: 8.7
 ---
 
 The Blue Grotto is the most famous sea cave in the Mediterranean and one of the most visited natural sights in Italy. The effect that gives it its name is created by sunlight entering through a wide underwater opening and refracting upward through the water — the interior glows a luminous, almost neon blue that photographs cannot fully capture. The cave is about 54 metres long and 15 metres wide.

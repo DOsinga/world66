@@ -14,6 +14,7 @@ story: >
   culture in the Salzkammergut — an enterprise that says something about
   both his stubbornness and the Habsburgs' general belief that wherever they
   lived could be made to resemble wherever they preferred.
+score: 7.7
 ---
 
 Gmunden is the main town on the Traunsee, a city of about 13,000 people with an unusually well-preserved medieval and baroque core. The Schloss Ort — a small castle built on an island in the lake, connected to the shore by a wooden bridge — is the iconic image and has served as the filming location for an Austrian soap opera (*Schlosshotel Orth*) since the 1990s.

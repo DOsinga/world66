@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.3700
 longitude: 88.5800
+score: 4.4
 ---
 
 The embankment along the south side of Rajshahi, built to protect the city from Padma flooding, has become the city's most popular public space. In the late afternoon and evening, residents come here in large numbers to walk, sit, and watch the river — or, in the dry season, what remains of it, since the Padma's flow has been dramatically reduced by the Farakka Barrage upstream in India. What was once a great braided river is now, for much of the year, a wide sandy plain with a modest channel threading through it.

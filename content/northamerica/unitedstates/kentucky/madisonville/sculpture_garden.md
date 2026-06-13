@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.3293
 longitude: -87.4994
+score: 5.9
 ---
 
 The Glema Mahr Center for the Arts is the main cultural venue for the Madisonville area, hosting theatre, concerts, and art exhibitions year-round. It operates under Madisonville Community College and serves as an anchor for the arts in a region where such facilities are sparse. The programme mixes community productions with touring shows and occasional exhibitions of regional visual art.

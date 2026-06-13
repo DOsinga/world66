@@ -15,6 +15,7 @@ story: >
   came from no longer existed, or because Svaneti was too isolated to make
   return practical. The resulting collection is an accidental masterpiece
   of preservation.
+score: 8.8
 ---
 
 The Svaneti Museum of History and Ethnography in Mestia holds one of the finest collections of medieval Georgian art outside Tbilisi — in some respects finer, because the pieces have been here continuously rather than travelling through auction houses and foreign collections. The collection centres on icons, goldwork, and church objects from the 9th to 14th centuries: enamel diptychs, silver-gilt crosses, embroidered liturgical cloths, and icons painted on wood in a style that bridges Byzantine and distinctly Georgian traditions.

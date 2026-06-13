@@ -8,6 +8,7 @@ tags:
 latitude: 51.0797
 longitude: 2.5969
 story: "Plopsaland opened on this site in 1935 as Meli Park, a garden and amusement park created by the Belgian beekeeping cooperative Meli. Its 87-year run made it one of the oldest theme parks in Europe before it was rebranded under the Plopsa name in 2000. The original bee-garden roots are long gone, but the park has hosted generations of Belgian children."
+score: 6.1
 ---
 
 Plopsaland is Belgium's largest theme park by visitor numbers, sitting just inland from the De Panne coast in the village of Adinkerke. Its rides range from gentle attractions suitable for young children through to The Ride to Happiness, a suspended spinning roller coaster that is one of the most intense rides in Europe.

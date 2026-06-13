@@ -8,6 +8,7 @@ tags:
 latitude: 20.7097
 longitude: -156.2530
 story: "Haleakala means 'house of the sun' in Hawaiian. According to legend, the demigod Maui climbed to the summit and lassoed the sun as it rose, forcing it to slow its journey across the sky so his mother would have enough daylight to dry her tapa cloth. The crater floor is the size of Manhattan — 11 km long, 4 km wide, and 800 metres deep — large enough to hold the entire island of Manhattan."
+score: 9.0
 ---
 
 The 3,055-metre (10,023 ft) dormant volcano that dominates [Maui](/northamerica/unitedstates/hawaii/maui) is one of the defining experiences in Hawaii. The summit crater is vast and otherworldly — a moonscape of cinder cones, lava bombs, and silversword plants that exist nowhere else on earth. Sunrise from the summit is legendary: you watch cloud layers far below, colors shifting from purple through orange to gold, while the temperature hovers near freezing.

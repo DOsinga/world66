@@ -14,6 +14,7 @@ story: >
   the Patriarchate was abolished in 1766 — its properties seized, its monks expelled. It was restored in 1920
   and is now a UNESCO World Heritage Site, though it still operates under KFOR protection due to its
   contested position in independent Kosovo.
+score: 8.9
 ---
 
 The Patriarchate of Peć is one of the most significant medieval Serbian Orthodox sites in existence — a walled complex of four churches built between the 13th and 17th centuries at the entrance to the Rugova Gorge. The churches contain some of the finest Byzantine frescoes in the Balkans: vivid, richly coloured, and remarkably preserved given the turbulent history of the site.

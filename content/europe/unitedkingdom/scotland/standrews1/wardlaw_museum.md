@@ -8,6 +8,7 @@ latitude: 56.3429
 longitude: -2.794
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_the_University_of_St_Andrews
+score: 7.7
 ---
 
 The Wardlaw Museum — known to most people as MUSA, the Museum of the University of St Andrews — reopened in 2022 after a major renovation and is now one of the best small university museums in Scotland. It occupies a converted building on The Scores, the road running along the clifftop between the town centre and the sea.

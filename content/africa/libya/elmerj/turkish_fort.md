@@ -10,6 +10,7 @@ longitude: 20.8339
 story: "The fort belongs to El Merj's Ottoman layer, before Italian colonial maps made Barce familiar to European soldiers. It is a reminder that Cyrenaica's history was not just Greek and Roman."
 sources:
   - https://en.wikipedia.org/wiki/Marj
+score: 6.8
 ---
 
 The restored Turkish fort is the clearest historic landmark in modern El Merj. It dates from the Ottoman period, when the town served as a local administrative and market centre in the Green Mountain country.

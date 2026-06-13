@@ -5,6 +5,7 @@ author: "Greil Marcus"
 isbn: "978-0452283497"
 tags:
   - books
+score: 7.2
 ---
 
 Greil Marcus's 1975 cultural study examines American music through the lens of a handful of artists — including Elvis Presley and Robert Johnson — to argue that rock and roll is the latest expression of a distinctly American mythology. The sections on Elvis and Sun Studio are particularly relevant to Memphis: Marcus describes how Sam Phillips's recording sessions fused white country music with black Delta blues to produce something genuinely new, and why Presley's recordings felt, to those who heard them in 1954, like the sound of a country breaking with its past.

@@ -6,6 +6,7 @@ longitude: -149.0982
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Alyeska tram runs from the Hotel Alyeska base up 600 vertical metres in seven minutes to the Roundhouse and Seven Glaciers Restaurant at 2,300 feet. In winter it serves skiers; in summer it is one of the most popular sightseeing rides in southcentral Alaska.

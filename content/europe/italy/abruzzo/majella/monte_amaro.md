@@ -11,6 +11,7 @@ tags:
 - nature
 title: Monte Amaro
 type: poi
+score: 8.8
 ---
 
 Monte Amaro is the highest summit of the Majella massif, rising to 2,793 metres. It is a serious mountain objective, with long approaches, exposed weather, and broad high terrain that can be disorienting when visibility drops.

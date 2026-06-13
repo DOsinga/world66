@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4402
 longitude: 4.3873
+score: 6.5
 ---
 
 The main public square of Saint-Étienne, fronted by the Hôtel de Ville — the town hall — and flanked by café terraces. It is the social heart of the city centre, where markets are held and the trams converge. Not a grand Haussmanian set piece but a genuine working square with the unglamorous energy of a city that uses its public spaces rather than performing for tourists.

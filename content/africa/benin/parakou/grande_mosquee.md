@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 9.3398
 longitude: 2.6254
+score: 6.4
 ---
 
 The Grande Mosquée is the largest mosque in Parakou and a visible marker of the city's predominantly Muslim character. Islam came to this part of Benin through trade routes from the north, and Parakou's role as a commercial crossroads gave it a significant Muslim community long before the colonial period.

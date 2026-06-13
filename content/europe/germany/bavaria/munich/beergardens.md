@@ -10,6 +10,7 @@ tags:
 - altstadt
 title: Beer Gardens
 type: poi
+score: 8.1
 ---
 
 Munich's beer garden tradition dates back to the early 1800s, when breweries planted chestnut trees over their cellars to keep the beer cool. Today the city has dozens of beer gardens, most open from April through October, where you can bring your own food (but must buy the beer) and sit at long communal tables under the trees. A Mass (one-liter mug) typically costs around 10-12 euros.

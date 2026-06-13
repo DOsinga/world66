@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 51.1300
 longitude: 71.4200
+score: 7.6
 ---
 
 The Ishim River, cutting east to west through the heart of Astana, has been embanked with pedestrian promenades on both sides. The walks are wide, lined with grass and benches, and dotted with sculpture and small cafes. In summer they are the social heart of the city, especially in the evenings when temperatures finally drop below the daytime fierceness.

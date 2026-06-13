@@ -8,6 +8,7 @@ tags:
   - plato
 latitude: 14.9164
 longitude: -23.5092
+score: 6.1
 ---
 
 The Palácio da Presidência da República sits at the southern end of the Platô, a handsome colonial-era building that has served as the official residence and office of Cape Verde's head of state since independence in 1975. The building's exterior is well-preserved and the surrounding square is pleasant to walk through, with the drop to the harbour visible beyond the palace grounds.

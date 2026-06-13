@@ -11,6 +11,7 @@ story: "The Cable Inglés was built to move iron ore from trains directly into s
 sources:
   - https://www.turismodealmeria.org/lugar/el-cable-ingles/
   - https://es.wikipedia.org/wiki/Cable_Ingl%C3%A9s
+score: 7.2
 ---
 
 The Cable Inglés is a huge iron loading gantry beside the waterfront, built when Almería's minerals were shipped out through the port. It could have been left as a rusting industrial relic; instead it has become one of the city's most distinctive landmarks.

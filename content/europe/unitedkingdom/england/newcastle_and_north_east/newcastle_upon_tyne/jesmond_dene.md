@@ -10,6 +10,7 @@ tags:
 - park
 snippet: Lord Armstrong's wooded river valley, twenty minutes from the city centre
 story: William Armstrong, the Tyneside arms magnate, bought up the Ouseburn valley in the 1860s, landscaped it with grottoes and waterfalls, built a path along the burn, and gave the whole strip to Newcastle as a public park in 1883. He kept his own estate, Cragside in Northumberland, for himself.
+score: 8.6
 ---
 
 A mile-long wooded river gorge running north from Jesmond Vale, donated to the city by Lord Armstrong in 1883. Paths follow the Ouseburn through dense woodland, past waterfalls, an old watermill, a stone-walled grotto, and the small Jesmond Dene Pets Corner — a free petting zoo with goats, owls, and reptiles. The Dene is best appreciated on foot, top to bottom, starting at the Mill Bridge.

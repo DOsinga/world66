@@ -10,6 +10,7 @@ longitude: 21.0086
 snippet: "Birthplace of the Nobel Prize-winning physicist and chemist, in the New Town"
 sources:
   - https://en.wikipedia.org/wiki/Maria_Skłodowska-Curie_Museum
+score: 7.4
 ---
 
 Marie Curie was born in Warsaw in 1867, in the building that now houses this small museum. She was the first woman to win a Nobel Prize, the only person to win Nobel Prizes in two different sciences (Physics in 1903, Chemistry in 1911), and remains one of the most important scientists in history. The museum is modest in scale but rich in personal detail — letters, photographs, scientific instruments, and the story of her early years in a Warsaw under Russian occupation, when higher education for women was forbidden.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Nile Fish Restaurants
 type: poi
+score: 5.7
 ---
 
 A string of fish restaurants along Giza's Nile corniche specialises in freshwater fish from the Nile delta — tilapia (bolti), grey mullet (bouri), and catfish (catfish) prepared in the Egyptian style: fried or grilled, served with salad, tahini, bread, and lemon. These are not fancy establishments, but the fish is fresh, the prices are fair, and the riverfront tables make them pleasant for an extended lunch or evening meal.

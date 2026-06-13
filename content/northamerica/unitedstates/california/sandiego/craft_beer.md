@@ -14,6 +14,7 @@ story: >
   American craft brewing for two decades. The breweries that followed — Green Flash, Ballast
   Point, Alesmith, Modern Times — each developed distinct identities, and the concentration
   of quality in a single metro area is now comparable to Portland and Denver.
+score: 7.9
 ---
 
 San Diego has more craft breweries per capita than almost any other American city, and the quality across the range is unusually consistent. The city's style heritage is the West Coast IPA — bitter, dry, aromatic — but the scene has diversified into sours, lagers, stouts, and experimental formats over the past decade.

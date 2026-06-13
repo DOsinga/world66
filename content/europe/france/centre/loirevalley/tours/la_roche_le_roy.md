@@ -6,6 +6,7 @@ tags: [eating_out, restaurant]
 latitude: 47.3676
 longitude: 0.7060
 snippet: Michelin-starred dining in a 16th-century manor south of the centre
+score: 6.5
 ---
 
 A Michelin-starred restaurant in a small 16th-century manor on the southern edge of Tours, on the road towards Saint-Avertin. Chef Maximilien Bridier cooks a precise, technical tasting menu built around Touraine produce — Loire fish, asparagus from Vineuil, goat's cheese from Sainte-Maure.

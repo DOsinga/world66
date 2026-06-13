@@ -15,6 +15,7 @@ story: >
   and compartmentalised into watertight sections, represents a level of naval
   engineering that enabled Chinese merchants to sail to the Persian Gulf and East
   Africa. The design of the compartments influenced ship construction for centuries.
+score: 7.7
 ---
 
 The Quanzhou Maritime Museum is the only museum in China specialising in overseas trading relations, and its collection is the physical evidence of the city's extraordinary medieval history. Stone inscriptions in Arabic, Persian, Tamil, Syriac, and Hebrew document the communities of foreign merchants who lived here permanently; the grave markers of Arab, Persian, and Jewish traders are among the most remarkable objects in the museum. A detailed model of the medieval harbour shows the scale of the infrastructure that served thousands of ships.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach]
 latitude: 42.2104
 longitude: -8.7667
+score: 6.0
 ---
 
 Vigo's main city beach stretches for about 1.5 km along the southern shore of the ría, with views across the water to the Portuguese coast and — on clear days — the Islas Cíes. It is a proper sandy beach with a promenade backed by pines, popular with families and local joggers throughout the year.

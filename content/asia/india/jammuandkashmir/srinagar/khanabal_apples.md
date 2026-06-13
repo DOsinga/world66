@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.0000
 longitude: 74.8333
+score: 6.0
 ---
 
 The Kashmir Valley produces roughly half of India's apple crop, and the orchards that cover the valley floor south of Srinagar and in the hills toward Shopian make September and October particularly picturesque. The trees — most of them classic varieties like Red Delicious, Golden Delicious, and Maharaji — heavy with fruit and the chinar trees turning golden simultaneously, create the landscape most closely associated with Kashmir in autumn.

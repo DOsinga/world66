@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 44.8488
 longitude: 34.9711
+score: 6.8
 ---
 
 Sudak's main beach curves around the bay between the town and the Genoese Fortress headland. It is a long, wide pebble beach with clear water and the fortress visible against the sky at its eastern end — one of the most picturesque settings on the Crimean coast. The water is clean and calm in summer, with good swimming conditions from May through October.

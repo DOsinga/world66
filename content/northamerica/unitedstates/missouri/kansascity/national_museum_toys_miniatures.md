@@ -8,6 +8,7 @@ tags:
 - family
 title: National Museum of Toys and Miniatures
 type: poi
+score: 7.8
 ---
 
 The National Museum of Toys and Miniatures occupies a historic mansion near the University of Missouri-Kansas City campus and houses what it claims is the world's largest collection of fine-scale miniatures alongside one of the largest collections of antique toys in the United States. The miniatures — working at scales as precise as 1/144th — include fully furnished dollhouse rooms, miniature artworks, and functioning mechanical objects, all made with craftsmanship that borders on the obsessive.

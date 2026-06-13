@@ -7,6 +7,7 @@ tags:
 latitude: 52.1078
 longitude: 19.9433
 address: "Stary Rynek, 99-400 Łowicz, Poland"
+score: 9.0
 ---
 
 The Corpus Christi procession in Łowicz is one of the most spectacular folk festivals in Poland, held annually on the Thursday 60 days after Easter (late May or June). Hundreds of local residents dress in the traditional Łowicz costume — women in layered skirts of bold horizontal stripes with floral headdresses, men in embroidered jackets — and process through streets carpeted with flower-petal designs arranged in elaborate patterns.

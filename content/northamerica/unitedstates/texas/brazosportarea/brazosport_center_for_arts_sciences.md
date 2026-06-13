@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 29.0189
 longitude: -95.4344
+score: 6.7
 ---
 
 The Brazosport Center for the Arts and Sciences in Clute is a combined cultural facility with an art gallery, a natural history museum (the Brazosport Museum of Natural Science), and a planetarium. The natural history museum has exhibits on the geology and palaeontology of the Texas Gulf Coast, with a focus on fossils and local ecology. The planetarium shows run regularly and cover both astronomy and natural history topics.

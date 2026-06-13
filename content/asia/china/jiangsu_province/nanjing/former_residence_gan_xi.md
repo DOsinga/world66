@@ -8,6 +8,7 @@ tags:
 - historic_site
 - garden
 - architecture
+score: 8.0
 ---
 
 The Former Residence of Gan Xi is one of the best-preserved Qing-dynasty residential compounds in Nanjing. Built in the 19th century for an official family, it follows the traditional courtyard house plan — a series of halls and courts arranged on a north-south axis — with unusually elaborate carved wooden screens, doors, and ceilings.

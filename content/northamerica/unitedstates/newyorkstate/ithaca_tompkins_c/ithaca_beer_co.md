@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 42.4170
 longitude: -76.5395
+score: 5.8
 ---
 
 Founded in 1998, Ithaca Beer was an early upstate New York craft brewery and remains the town's pride. The taproom on Elmira Road sits in a converted warehouse with high ceilings, a long bar, and tables both inside and out on the lawn. The Flower Power IPA is the year-round flagship; seasonal sours and Apricot Wheat are reliably good.

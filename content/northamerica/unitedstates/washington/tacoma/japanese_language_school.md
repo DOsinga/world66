@@ -8,6 +8,7 @@ tags:
 latitude: 47.24785
 longitude: -122.4415638888889
 story: Tacoma's Nihongo Gakko (Japanese Language School) was one of 24 such schools in Washington State, serving the Japanese-American community of Tacoma's Japantown before World War II. When Japanese-Americans were interned in 1942, the community was forced to liquidate everything with little notice. The school building survived; it is now a memorial site, and the story it tells about the destruction of an established community within weeks has a particular weight in Tacoma, where the Asian-American community had been growing for decades.
+score: 7.2
 ---
 
 The Japanese Language School building in what was once Tacoma's Japantown is one of the few surviving physical remnants of the city's pre-war Japanese-American community. The school educated children in Japanese language and culture from the early 20th century until the forced internment of Japanese-Americans in 1942, when the community was given days to liquidate property and report to assembly centres.

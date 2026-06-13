@@ -6,6 +6,7 @@ latitude: 32.6486
 longitude: -16.9039
 story: >
   The women selling flowers and fruit in the market traditionally wear a distinctive regional costume — a red-and-black striped skirt, white blouse, and a curious pointed hat called a carapuça. The style dates from the 18th century and persists as both cultural tradition and practical working dress.
+score: 8.7
 ---
 
 The Workers' Market is the most alive place in Funchal. A covered market on three floors opening onto a square near the waterfront, it fills every morning with stalls selling Madeira's extraordinary tropical produce: custard apples, papayas, passion fruit, tamarillos, and small sweet bananas quite unlike anything sold in a supermarket.

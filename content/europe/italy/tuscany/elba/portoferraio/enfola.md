@@ -8,6 +8,7 @@ tags:
 latitude: 42.8147
 longitude: 10.2553
 snippet: "The tied island west of Portoferraio — a wooded headland joined to the coast by a narrow sand bar, with two small beaches."
+score: 7.4
 ---
 
 Enfola is a small rocky headland — almost an island — about six kilometres west of Portoferraio along the coast road. It is joined to the mainland of Elba by a low sand bar a few metres wide that you can wade across in either direction, with a small pebble beach on each side. The northern beach is the more sheltered, the southern beach has the better view back across the bay to Portoferraio.

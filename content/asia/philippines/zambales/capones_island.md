@@ -9,6 +9,7 @@ latitude: 14.9131
 longitude: 120.0170
 story: >
   The lighthouse on Capones Island was first lit in 1890 and served as the main navigational marker for ships approaching Manila Bay from the north. During World War II, the lighthouse was destroyed and later rebuilt. Its position on the western tip of the island means it catches the full force of typhoon winds — the current structure has been reinforced multiple times.
+score: 7.8
 ---
 
 Capones Island lies just off the coast of San Antonio municipality, reachable by bangka from Pundaquit in about 15–20 minutes. It is less visited than Anawangin and Nagsasa but has its own strong appeal: a 19th-century lighthouse on the island's western headland, a pristine coral beach on the south side, and clear water suitable for snorkelling without crowds.

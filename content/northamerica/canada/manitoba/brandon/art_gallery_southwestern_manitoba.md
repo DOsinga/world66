@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.8479
 longitude: -99.9476
+score: 6.3
 ---
 
 The Art Gallery of Southwestern Manitoba is a serious contemporary art museum housed in a compact but well-designed space in downtown Brandon. The permanent collection leans toward Canadian artists, with particular strength in prairie and Indigenous work, but the programming rotates frequently and the gallery consistently brings in exhibitions of national quality. It punches above its weight for a city this size.

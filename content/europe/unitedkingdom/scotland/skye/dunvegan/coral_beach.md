@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "The beach is not coral at all. The white grains are fragments of maerl, a coralline red seaweed that grows on the seabed in cold water; storms break it up and wash it onto the shore. The effect is the same — a stretch of Caribbean-bright sand against the dark heather of Skye — but the biology is different and the beach is much colder than it looks."
+score: 8.1
 ---
 
 Coral Beach lies at the end of a short walk from the road past Claigan, north of Dunvegan. The path crosses cropped pasture and ends at one of the most surprising stretches of shoreline in the Hebrides — a fine, almost white beach against turquoise water, framed by green hills.

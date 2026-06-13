@@ -8,6 +8,7 @@ tags:
 - sport
 title: Go-Kart Racing
 type: poi
+score: 3.9
 ---
 
 The Grampian Kart Club holds regular race meetings at Boyndlie Aerodrome, 3 miles west of Banff on the B9031. The aerodrome was a wartime RAF base used by the Banff Strike Wing, which flew anti-shipping operations over the North Sea in 1944–45; the runways now serve as a kart circuit.

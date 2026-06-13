@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6820
 longitude: 117.0569
+score: 7.1
 ---
 
 Shandong University's old central campus in the Hongjialu area is one of the more pleasant university districts in northern China — a neighborhood of tree-lined streets, student cafes, second-hand bookshops, and inexpensive restaurants that surrounds the original campus buildings. The university was founded in 1901 and the older buildings on campus have a subdued colonial-era character.

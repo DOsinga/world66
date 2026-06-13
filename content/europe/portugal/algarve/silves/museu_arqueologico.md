@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.1893
 longitude: -8.4375
+score: 7.0
 ---
 
 The Museu Arqueológico on Rua das Portas de Loulé is the main museum of the city and it earns its place on the itinerary primarily for one unusual feature: a large Arab water cistern, discovered during construction of the building and left in situ beneath a glass floor. The cistern dates from the Almohad period (twelfth to thirteenth century) and is about 10 metres deep, with carefully fitted stone walls still largely intact. You look down into it from above, and the scale and quality of the Moorish engineering is genuinely striking.

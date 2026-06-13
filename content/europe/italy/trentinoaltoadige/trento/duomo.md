@@ -14,6 +14,7 @@ story: >
   Catholic Church for the next four centuries; almost nothing of the wooden setting
   survives, but the cathedral's standing — as the room in which the Counter-Reformation
   was hammered out — has not faded.
+score: 8.6
 ---
 
 The Cattedrale di San Vigilio, on the southern edge of the Piazza Duomo, is a 13th-century Romanesque-Gothic building dedicated to Trento's first Christian bishop, killed (so the legend goes) by hostile pagans in the Val Rendena around 400 AD. The asymmetrical west front, with its rose window and two staircases running diagonally up the inside walls, is unmistakeably the work of the Lombard master mason Adamo d'Arogno.

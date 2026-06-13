@@ -9,6 +9,7 @@ tags:
 latitude: 41.2621
 longitude: -96.1002
 story: "Boys Town was founded in 1917 by Father Edward Flanagan, an Irish-born priest who famously declared 'There is no such thing as a bad boy.' He opened the first home on borrowed money in a rundown Omaha mansion, taking in boys regardless of race or religion at a time when most American institutions were segregated."
+score: 6.7
 ---
 
 Boys Town lies about 10 km west of downtown Omaha and is still a functioning residential community for troubled and abandoned youth — the same mission Father Edward Flanagan started in 1917. The grounds are open to visitors and include the Hall of History, a museum covering the campus's century of operation and Flanagan's remarkable story.

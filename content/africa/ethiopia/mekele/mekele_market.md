@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mekele Central Market
 type: poi
+score: 6.8
 ---
 
 Mekele's main market is a genuine working market serving the farming communities of the Tigray highlands, not a tourist attraction. You will find produce, spices, textiles, pottery, and livestock depending on the day of the week, with Saturday being the busiest. The market spreads across several blocks near the centre of town.

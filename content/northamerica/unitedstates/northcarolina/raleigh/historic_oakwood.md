@@ -14,6 +14,7 @@ story: >
   residents who lived in the city before the Civil War — a complicated proximity that 
   reflects the history of the neighbourhood and city more honestly than most commemorative 
   sites manage.
+score: 8.0
 ---
 
 Historic Oakwood, a Victorian-era residential neighbourhood northeast of the Capitol, is listed on the National Register of Historic Places and contains some of the finest late nineteenth-century domestic architecture in North Carolina. The tree-lined streets are dotted with ornate Queen Anne cottages, Italianate townhouses, and Folk Victorian homes, many of them meticulously maintained. Walking the neighbourhood, particularly on East Jones Street and Polk Street, takes about an hour and is rewarding even if you have no particular interest in architectural history.

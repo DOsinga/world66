@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Plymouth Waterfront
 type: poi
+score: 6.2
 ---
 
 Water Street runs along Plymouth Harbor and is the natural starting point for any visit. Plymouth Rock sits at the north end under its portico, Mayflower II is moored at State Pier a short walk south, and the stretch between them is lined with seafood restaurants, casual clam shacks, and gift shops.

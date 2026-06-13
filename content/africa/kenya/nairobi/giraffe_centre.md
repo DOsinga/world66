@@ -11,6 +11,7 @@ tags:
 neighbourhood: Karen
 title: Giraffe Centre
 type: poi
+score: 7.8
 ---
 
 The African Fund for Endangered Wildlife established the Giraffe Centre in Karen in 1979 to breed the endangered Rothschild's giraffe — one of the rarest subspecies, with fewer than 800 remaining in the wild. The centre has since reintroduced dozens of animals to national parks in Kenya.

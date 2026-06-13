@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 32.0654
 longitude: 34.7728
+score: 6.8
 ---
 
 The Great Synagogue of Tel Aviv sits at the corner of Allenby and Ahad Ha'am, an enormous 1920s building with a domed central hall and a distinctive set of curved concrete arches added in 1969 to give the facade more presence. It was for decades the largest synagogue in the city.

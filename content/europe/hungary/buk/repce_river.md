@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3920
 longitude: 16.7560
+score: 5.9
 ---
 
 The little Répce river loops past Bük on its way down from the Austrian Alpokalja to the Rába. The riverside path is unpaved but well-trodden, and makes a pleasant hour-long walk in either direction from the village — meadows, willows, a few small weirs, and the occasional cattle pasture. Anglers fish here for chub, barbel, and small trout; the necessary state and local permits are available from the spa hotel reception desks.

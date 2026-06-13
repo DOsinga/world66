@@ -8,6 +8,7 @@ latitude: 50.9583
 longitude: 1.8531
 story: >
   Charles de Gaulle and Yvonne Vendroux were married here in April 1921, making Notre-Dame the only church in France where a president of the Republic was wed. De Gaulle always retained a personal attachment to Calais for this reason, and a statue of the couple now stands near the church.
+score: 7.3
 ---
 
 The Église Notre-Dame is the oldest surviving significant building in Calais, a Gothic and Renaissance church whose construction spanned from the 13th to the 17th century. Its exterior has the sturdy, rather austere quality common to northern French ecclesiastical architecture, but the interior is worth stepping inside for the quality of the light filtering through the nave and the sense of accumulated history in the stonework.

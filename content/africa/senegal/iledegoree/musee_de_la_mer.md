@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 14.6684
 longitude: -17.3998
+score: 5.8
 ---
 
 The small Sea Museum sits near the southern end of the island in a former colonial building. Its collection covers the marine life of the Senegalese coast — shells, corals, preserved fish, and a couple of small skeletons — alongside displays on the traditional Lebou fishing culture of the Cap Vert peninsula.

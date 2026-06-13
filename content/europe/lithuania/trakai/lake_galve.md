@@ -8,6 +8,7 @@ latitude: 54.66
 longitude: 24.93
 story: >
   Lake Galvė has 21 small islands within it, more than any other lake in Lithuania. Most are tiny — a few trees on a gravel spit — but together they create the labyrinthine landscape of water, land, and sky that makes kayaking here so good. The castle island is simply the largest and most inhabited of the 21.
+score: 7.4
 ---
 
 Lake Galvė is the largest and most beautiful of the several lakes surrounding Trakai, and it is the body of water on which the Island Castle sits. The lake covers about 4 square kilometres and reaches a maximum depth of 47 metres — unusually deep for a Lithuanian lake, and clear enough for swimming in summer.

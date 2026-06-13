@@ -9,6 +9,7 @@ tags:
 title: Bay of Mali Ston
 type: poi
 story: "The brackish mix of seawater and freshwater from the Neretva makes these waters ideal for the European flat oyster, Ostrea edulis — the same species the Romans prized two thousand years ago, still grown on ropes between Klek and Ston."
+score: 8.2
 ---
 
 The Bay of Mali Ston wraps around the Pelješac peninsula just south of Klek and is one of the most productive shellfish farms in the Adriatic. The combination of saltwater from the open sea and freshwater pouring in from the Neretva delta gives the bay a peculiar salinity that suits oysters and mussels especially well, and the seabed is dotted with the wooden rafts and ropes of small family operations.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.4968
 longitude: -88.1875
 snippet: Museum on the Oneida Reservation covering the history and culture of the Oneida Nation
+score: 7.6
 ---
 
 The Oneida Nation Museum sits on the Oneida Reservation west of Green Bay and tells the history of the Oneida people from their origins in upstate New York through their relocation to Wisconsin in the 1820s and 1830s. The Oneida were one of the six nations of the Haudenosaunee (Iroquois) Confederacy, and they allied with the American colonists during the Revolutionary War — a fact that helped their survival as a people even as it complicated their relationships with other Haudenosaunee nations.

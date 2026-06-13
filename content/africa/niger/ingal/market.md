@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.4
 ---
 
 The weekly market of In-Gall takes place on Wednesdays and is one of the more interesting markets of central Niger — a meeting point of Tuareg from the northern desert, Hausa traders from the south, and Wodaabe Fulani herders. The wares are practical desert goods rather than tourist crafts: dried dates from the oasis groves, salt from Tegidda, indigo cotton from Kano, leather goods, dried meat, millet, and the silver jewellery of the Tuareg smiths.

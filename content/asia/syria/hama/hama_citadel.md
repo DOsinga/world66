@@ -14,6 +14,7 @@ story: >
   Excavations in the 1930s revealed occupation layers running unbroken from the Neolithic
   to the Islamic period — a vertical archive of 6,000 years of continuous urban life
   compressed into a single tell.
+score: 7.9
 ---
 
 The hill at the centre of Hama — technically a *tell*, an artificial mound formed by millennia of accumulated building and rebuilding — has been occupied since at least the Neolithic period, making it one of the longest continuously inhabited sites in Syria. It served as the citadel of the ancient city of Hamath, which appears in the Bible and Assyrian annals as a significant Aramaean city-state; the Assyrian king Sargon II conquered it in 720 BC and deported most of its population. In the Hellenistic period it became Epiphaneia, and later the Byzantines and Arabs both maintained fortifications on the summit.

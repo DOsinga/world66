@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.0270
 longitude: -106.0440
+score: 5.2
 ---
 
 The food service operation at Ohkay Owingeh Casino and Hotel provides a different angle on the Española dining scene: the casino restaurant serves standard American fare alongside some New Mexico regional dishes in a large, comfortable setting that is open to all visitors, not just gamblers. The pueblo's enterprise operation is one of the area's larger employers.

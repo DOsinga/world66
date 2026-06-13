@@ -6,6 +6,7 @@ longitude: 114.2092
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 Wuhan Tianhe International Airport sits about 25 kilometres north of the city centre in Huangpi District and is the principal airport of central China — the busiest in the region by a substantial margin. The current Terminal 3, opened in 2017, is a single great wave-roofed building used by both domestic and international flights.

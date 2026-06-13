@@ -8,6 +8,7 @@ tags:
 - park
 title: Riverfront Park
 type: poi
+score: 6.4
 ---
 
 Riverfront Park is the broad promenade along the Cape Fear River in downtown Wilmington, a pleasant stretch of parkland with benches, a small amphitheatre, and excellent views across the water to the USS North Carolina battleship moored on the opposite bank. In the evening, especially in summer, this is where Wilmington comes to watch the light change over the river — the city's overview page says as much, and it's true.

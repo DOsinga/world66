@@ -4,6 +4,7 @@ longitude: 176.8433
 tags: [eating_out, market]
 title: Hawke's Bay Farmers' Market
 type: poi
+score: 7.9
 ---
 
 The Hawke's Bay Farmers' Market runs every Sunday morning on the Hastings Showgrounds and is one of the best farmers' markets in New Zealand. The region's extraordinary agricultural output — stone fruit, avocados, apples, berries, vegetables, honey, cheese, and wine — means the stalls are consistently full of high-quality produce. Come early for the best selection; most vendors are packed up by noon.

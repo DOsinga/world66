@@ -11,6 +11,7 @@ tags:
 - bars_and_cafes
 title: Prince of Wales
 type: poi
+score: 5.8
 ---
 
 The Prince of Wales is an Australian-run backpacker pub on Dunlop Street in Little India — a lively, unpretentious spot that feels genuinely lived-in rather than themed. Four draught beers on tap, a beer garden out back, and a front porch that catches the street life of the neighbourhood. The main bar is non-smoking. Card-carrying hostel members (YHA, VIP, STA) get a significant discount on drinks, making it popular with the budget-travel crowd. A long way from the polished cocktail bars of the CBD, and all the better for it.

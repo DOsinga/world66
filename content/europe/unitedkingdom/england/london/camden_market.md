@@ -13,6 +13,7 @@ tags:
 title: Camden Market
 type: poi
 url: www.camdenmarket.com
+score: 6.8
 ---
 
 Camden Market is a collection of several adjacent markets along the canal — Camden Lock, the Stables, the Canal Market — and has been the main London destination for alternative clothing, records, street food, and subculture goods since the 1970s. It draws enormous tourist crowds at weekends but retains a genuine energy, particularly in the Stables Market, where the stalls run through a series of old Victorian horse hospital buildings.

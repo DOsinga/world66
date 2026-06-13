@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -39.481459
 longitude: 176.89796
+score: 7.3
 ---
 
 Ahuriri is Napier's most interesting neighbourhood, a former industrial waterfront of woolsheds and warehouses that has been converted into restaurants, bars, boutiques, and galleries over the past two decades. It sits north of the central city around the old inner harbour, and the conversion has been done with enough care that the industrial character survives in the bones of the buildings even as the contents have changed entirely.

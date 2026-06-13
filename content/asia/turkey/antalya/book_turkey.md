@@ -5,6 +5,7 @@ author: "Norman Stone"
 tags:
   - books
 isbn: "978-0500251348"
+score: 6.5
 ---
 
 Norman Stone's compact history of Turkey cuts from the Seljuks through the Ottoman Empire to Atatürk and the republic in under 200 pages, without ever losing the reader. It is particularly good on the Ottoman period that shaped Antalya's architecture and on the wars and upheavals of 1914–1923 that remade the coast.

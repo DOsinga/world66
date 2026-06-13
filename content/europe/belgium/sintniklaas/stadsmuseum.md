@@ -10,6 +10,7 @@ tags:
 - museum
 title: Stadsmuseum Sint-Niklaas
 type: poi
+score: 6.8
 ---
 
 The municipal museum of Sint-Niklaas occupies the same 19th-century convent building as the Mercator Museum, with a combined entrance ticket covering both. The collection covers the history of the city and the broader Waasland region, with displays on textile production, crafts, and civic life from the medieval period to the 20th century.

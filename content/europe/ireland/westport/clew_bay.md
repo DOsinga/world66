@@ -8,6 +8,7 @@ latitude: 53.8200
 longitude: -9.6200
 story: >
   Clew Bay contains an unusually large number of small islands — the accepted count varies between 100 and 365, depending on how you measure. The islands are drumlins, elongated hills of glacial debris deposited during the last ice age and subsequently flooded by the rising sea. From the summit of Croagh Patrick, the pattern of islands across the bay looks unmistakably like the profile of a sleeping giant.
+score: 8.0
 ---
 
 Clew Bay is the large Atlantic inlet that Westport sits at the eastern end of. The bay is defined by its scatter of low, green islands — drumlin islands, formed from deposits left by glaciers thousands of years ago. The contrast between the calm sheltered inner bay and the open Atlantic beyond the islands makes for a striking landscape.

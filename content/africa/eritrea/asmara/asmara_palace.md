@@ -6,6 +6,7 @@ longitude: 38.9219
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 Originally built as the Intercontinental Hotel in the 1990s and now operating under local management, the Asmara Palace is the largest hotel in town and one of the best places for a quiet meal on a hot afternoon. The main restaurant turns out Italian and Eritrean dishes; the pool deck doubles as a casual lunch venue.

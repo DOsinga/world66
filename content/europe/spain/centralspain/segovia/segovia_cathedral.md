@@ -13,6 +13,7 @@ story: >
   elsewhere. It was built to replace the original cathedral, which had been
   destroyed during the Comuneros revolt of 1520. The people of Segovia
   chose to rebuild in the old Gothic style as a deliberate act of tradition.
+score: 8.7
 ---
 
 The Segovia Cathedral stands at the highest point of the old city, its buttresses and spire dominating the skyline. Known as the "Lady of Cathedrals" for its elegant proportions, it is the last Gothic cathedral built in Spain and contains some fine late-Gothic detail alongside Renaissance chapels added over the following century. The cloisters, relocated stone by stone from the destroyed earlier cathedral, are particularly lovely.

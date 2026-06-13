@@ -12,6 +12,7 @@ story: >
   but it is the most accessible of the major summits and the most frequently climbed.
   On clear mornings, from the top you can see both the east and west coasts of the
   island simultaneously — the whole island laid out below you in one view.
+score: 8.3
 ---
 
 Le Pouce is the mountain that defines the skyline north of Moka. The most popular hiking route starts from Petit Verger near Saint Pierre and climbs through sugar cane fields and forest to open grassy ridges, taking three to four hours return. The trail is well-marked and feasible for fit walkers without specialist equipment, though the final push to the summit is steep.

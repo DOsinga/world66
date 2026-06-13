@@ -13,6 +13,7 @@ story: >
   the First World War. They were assembled by Serbian soldiers during the interwar
   years as an act of memorial and transformation: weapons of death converted into
   sources of light.
+score: 8.1
 ---
 
 Ružica Church is a small Serbian Orthodox church built into the walls of Kalemegdan fortress, accessed through the lower fortifications. It occupies a 14th-century gunpowder storage room converted to a place of worship, and is one of the few surviving medieval religious spaces in Belgrade — a city that has been destroyed and rebuilt so many times that medieval fabric of any kind is rare.

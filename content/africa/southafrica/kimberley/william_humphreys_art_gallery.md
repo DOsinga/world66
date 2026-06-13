@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -28.7436
 longitude: 24.7689
+score: 7.6
 ---
 
 The William Humphreys Art Gallery holds one of the best permanent collections of fine art outside South Africa's major cities, and is a genuine surprise in a city of Kimberley's size. The gallery opened in 1952, built around a gift from William Benbow Humphreys, a Northern Cape businessman who had collected Flemish and Dutch Old Masters, English portraiture, and South African painting over decades.

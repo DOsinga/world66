@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.5500
 longitude: -77.0500
+score: 9.0
 ---
 
 The Abaco Sea — the 30-mile-long body of protected water between the barrier cays and Great Abaco — is one of the classic sailing grounds of the western Atlantic. The water is shallow (typically 15 to 20 feet), clearly turquoise, and well charted, with reliable trade winds and a string of anchorages a few miles apart. You can sail the whole chain in a week without retracing a route, stopping each night at a different cay.

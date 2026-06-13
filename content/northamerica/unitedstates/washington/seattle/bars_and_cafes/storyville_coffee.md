@@ -9,6 +9,7 @@ tags:
 neighbourhood: Pike Place Market
 sources:
   - https://en.wikipedia.org/wiki/Storyville_Coffee
+score: 7.2
 ---
 
 Storyville occupies a small room at Pike Place Market with a rooftop terrace that has one of the better views of the market and Elliott Bay below. The coffee is single-origin and well-sourced, the roasting is done in-house, and the baristas know what they are doing. This is a legitimate coffee destination rather than a tourist convenience.

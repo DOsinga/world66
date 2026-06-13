@@ -15,6 +15,7 @@ story: >
   problem-solving.
 sources:
   - https://en.wikipedia.org/wiki/Aga_Khan_Garden,_University_of_Alberta
+score: 7.4
 ---
 
 The Aga Khan Garden opened in 2019 at the University of Alberta Botanic Garden in Devonian Gardens, and is the world's northernmost Islamic garden. Designed by Canadian landscape architect Roland Sookias, it follows the ancient Persian charbagh tradition — a walled garden with water channels dividing the space into quadrants, oriented around a central pavilion.

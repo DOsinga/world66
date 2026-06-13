@@ -6,6 +6,7 @@ longitude: 173.264
 tags:
   - things_to_do
   - market
+score: 6.3
 ---
 
 Held every Saturday morning on Commerce Street, the Kaitaia market is the social event of the week for the surrounding farming and Māori communities. Stalls sell home-grown produce — citrus from Doubtless Bay, kūmara from the dunes, smoked snapper from local fishermen — alongside woodwork, kauri gum jewellery, and Māori carving.

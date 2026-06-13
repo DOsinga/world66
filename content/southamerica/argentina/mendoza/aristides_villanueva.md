@@ -8,6 +8,7 @@ tags:
   - neighbourhood
   - bars_and_cafes
 snippet: Mendoza's main bar and restaurant strip, busiest after midnight
+score: 5.8
 ---
 
 Calle Arístides Villanueva is Mendoza's main entertainment street, a long avenue of restaurants, wine bars, clubs, and cafés that constitutes the city's nightlife spine. It runs westward from the centre and is at its liveliest from around 10pm — which, by Argentine standards, is still early — to the small hours of the morning.

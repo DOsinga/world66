@@ -13,6 +13,7 @@ tags:
 title: Royal Exchange Theatre
 type: poi
 url: www.royalexchange.co.uk
+score: 7.9
 ---
 
 The old Cotton Exchange reinvented as a theatre-in-the-round, with a futuristic steel-and-glass module suspended inside the grand Victorian trading hall. The programme mixes new writing with bold reinterpretations of classics. The building doubles as a daytime cafe worth visiting just for the architecture.

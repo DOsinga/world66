@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3180
 longitude: 48.6710
+score: 6.8
 ---
 
 The Karun is the only navigable river in Iran and the lifeblood of Ahvaz. The riverside promenade that runs between the bridges is the city's best public space — busy in the evenings when the heat subsides, with families walking, vendors selling corn and tea, and fishermen working the banks. The light on the river at dusk is genuinely beautiful, especially when viewed from one of the bridges.

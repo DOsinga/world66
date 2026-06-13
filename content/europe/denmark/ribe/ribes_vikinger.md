@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Excavations at the original Viking market north of the modern town have yielded the oldest dated coin minted in Scandinavia — a sceatta from the 720s — proving Ribe to be the first known town in the Nordic world."
+score: 8.7
 ---
 
 The main town museum and the place to begin any visit. **Ribes Vikinger** covers thirteen hundred years of Ribe history, from the original eighth-century Viking trading market beside the river to the medieval town that became the seat of one of Denmark's two archbishops. The galleries are modern, well-paced and largely in English as well as Danish.

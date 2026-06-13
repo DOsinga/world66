@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8042
 longitude: 2.1216
+score: 7.1
 ---
 
 The Appartement du Dauphin occupies the ground floor of the south wing, directly below the Queen's Apartment, and was the suite of the heir to the throne — the Dauphin — and his wife. The rooms are decorated in the style of Louis XV, and the furniture includes some of the finest 18th-century pieces at Versailles, much of it restored to the rooms after Revolutionary dispersal.

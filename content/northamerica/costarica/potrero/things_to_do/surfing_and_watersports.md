@@ -1,6 +1,7 @@
 ---
 title: "Surfing and Watersports"
 type: poi
+score: 7.8
 ---
 
 The Guanacaste coast is one of the world's most celebrated surfing destinations, and the Potrero area gives access to some of its best breaks. Witch's Rock and Ollie's Point — two of the most famous point breaks in Central America — lie within Santa Rosa National Park, about an hour north by boat. Both produce long, consistent rights that work through much of the year; Witch's Rock is a powerful beach break that handles a range of swells, while Ollie's Point is a more structured point break that rewards intermediate and advanced surfers. Day-trip charters depart from the Flamingo marina, include the necessary park permits, and take about 25–30 people out at a time.

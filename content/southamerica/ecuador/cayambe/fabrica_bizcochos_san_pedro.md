@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 0.0254
 longitude: -77.9874
+score: 6.7
 ---
 
 The Fábrica de Bizcochos San Pedro is one of the most established of Cayambe's many biscuit makers, and the best introduction to what makes the town famous. Bizcochos are made from a simple mixture of butter, lard, flour, and egg yolk, baked to a dry, crumbly texture that keeps well and travels easily. The traditional way to eat them is with a wedge of fresh manaba cheese and a cup of hot chocolate — a combination that sounds humble and tastes exactly right.

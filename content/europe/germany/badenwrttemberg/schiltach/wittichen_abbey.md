@@ -7,6 +7,7 @@ tags:
 latitude: 48.33481
 longitude: 8.34690
 story: "Wittichen Abbey was founded in 1324 by Luitgard von Wittichen, a noblewoman who reportedly experienced visions and chose this remote valley specifically for its isolation. The Poor Clares who settled here lived without any income-generating property — an unusually strict interpretation of Franciscan poverty that forced the community to rely entirely on charitable donations for its first century."
+score: 6.2
 ---
 
 Wittichen Abbey is a former Poor Clares convent tucked into a narrow side valley of the Kleine Kinzig, about 8 kilometres north of Schiltach near the village of Schenkenzell. The setting is extremely quiet — a small whitewashed church, a handful of monastic buildings, and old farmland enclosed by forest on all sides.

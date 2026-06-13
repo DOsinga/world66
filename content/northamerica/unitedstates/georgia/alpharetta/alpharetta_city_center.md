@@ -7,6 +7,7 @@ snippet: The walkable mixed-use heart of the town, with green space and weekend 
 tags:
 - things_to_do
 - sight
+score: 6.2
 ---
 
 Alpharetta City Center, opened in 2017, is the planned town green and surrounding mixed-use district that gave a recognisable centre to a suburb that had previously lacked one. A grassy plaza, a fountain, City Hall and the public library on one side, restaurants and shops on the others.

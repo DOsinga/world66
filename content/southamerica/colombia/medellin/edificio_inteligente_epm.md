@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Edificio Inteligente EPM
 type: poi
+score: 6.4
 ---
 
 The fifteen-storey glass headquarters tower of Empresas Públicas de Medellín, the publicly owned utility company that runs the city's water, electricity, and gas. Reading it as a building is reading the city's twentieth-century social contract — public ownership of strategic infrastructure as the financial engine of urban improvement. Inside the same plinth: the [Museo del Agua](/southamerica/colombia/medellin/museo_del_agua) and the [Parque de los Pies Descalzos](/southamerica/colombia/medellin/parque_pies_descalzos).

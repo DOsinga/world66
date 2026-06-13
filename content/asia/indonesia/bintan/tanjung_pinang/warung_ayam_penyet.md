@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.3
 ---
 
 The string of seafood restaurants along Tanjung Pinang's waterfront all do broadly the same thing — fresh fish, crab, prawns, and squid, cooked to order over charcoal — but the open-air spots near the night market consistently deliver the best atmosphere and freshest product. You point at what you want, agree on a price, and it comes back grilled or wok-fried in whatever sauce you prefer.

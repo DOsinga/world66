@@ -8,6 +8,7 @@ latitude: 25.7958
 longitude: -80.1357
 sources:
   - https://en.wikipedia.org/wiki/Miami_Beach_Botanical_Garden
+score: 5.9
 ---
 
 The Miami Beach Botanical Garden is a compact but well-tended urban garden tucked behind the Miami Beach Convention Center, covering just over 2 acres of subtropical plantings. It is free to enter and provides a quiet, leafy escape from the beach and the commercial activity of Lincoln Road nearby. The collection emphasises tropical and subtropical species suited to the South Florida climate: palms, cycads, bromeliads, ferns, and flowering trees that change throughout the year.

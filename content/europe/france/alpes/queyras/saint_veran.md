@@ -8,6 +8,7 @@ tags:
 - sight
 title: Saint-Véran
 type: poi
+score: 9.2
 ---
 
 Saint-Véran sits at over 2,000 metres in the upper Queyras and is one of the contenders for highest permanently inhabited village in Europe. The houses cling to the southern slope of the valley for maximum sun, and the traditional architecture — stone bases with wooden upper floors and balconies — survives in remarkable quantity.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2640
 longitude: -97.7220
+score: 7.9
 ---
 
 East Austin — east of Interstate 35 — is where the city's creative energy has largely relocated over the past two decades. What was historically Austin's African-American neighbourhood, and then a low-income district, has been transformed by rapid gentrification into the city's most concentrated zone of independent restaurants, bars, coffee shops, and music venues.

@@ -7,6 +7,7 @@ tags:
 - bar
 latitude: 51.8807
 longitude: -9.5838
+score: 5.8
 ---
 
 The Atlantic is the bar inside the Lansdowne Arms Hotel at the top of the town and the most reliable spot for a late drink. It stays open after most of the other pubs have called time, and the crowd is a mix of locals winding down and visitors winding up.

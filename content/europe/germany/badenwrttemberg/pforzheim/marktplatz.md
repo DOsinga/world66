@@ -6,6 +6,7 @@ longitude: 8.7010
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The post-war Marktplatz is the practical centre of the city — the rebuilt Stadtkirche (St Michael Schlosskirche stands separately above), the modern Rathaus, the **Pforzheimer Wochenmarkt** on Wednesdays and Saturdays, and a couple of cafés with outdoor seating.

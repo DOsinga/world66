@@ -8,6 +8,7 @@ tags:
 - religious
 title: Zoravar Astvatsatsin Church
 type: poi
+score: 7.3
 ---
 
 A 17th-century church tucked between Soviet-era apartment blocks in central Yerevan. Funded in 1693 by the wealthy merchant Hoja Panos and rebuilt several times since, it stands on the site of an earlier shrine to Saint Ananias the Apostle, one of the original disciples credited with bringing Christianity to Armenia.

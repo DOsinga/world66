@@ -5,6 +5,7 @@ tags: [things_to_do, sight, temple]
 latitude: 21.291416
 longitude: 99.602946
 story: The Maha Myat Muni image is one of five Burmese Buddha statues believed to have been cast during the lifetime of the historical Buddha, making it an object of immense veneration. Unlike the famous Mahamuni in Mandalay, this image has not been layered with gold leaf by devotees — the face retains its original features, giving it a more intimate, unaltered quality. The temple complex also houses a large bronze drum said to predate the founding of Kengtung itself.
+score: 7.6
 ---
 
 The Maha Myat Muni Temple stands at the centre of Kengtung and is the city's most important religious site. The principal Buddha image — housed in the main shrine behind a gilded facade — draws pilgrims from across the Shan State and from across the border in Thailand and China. Morning alms-giving ceremonies bring a steady flow of monks in saffron robes through the compound.

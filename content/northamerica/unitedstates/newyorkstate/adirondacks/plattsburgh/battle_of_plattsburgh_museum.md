@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Small but well-curated museum on the 1814 War of 1812 victory — set in a former military hospital on the historic Oval"
+score: 8.5
 ---
 
 A small but excellent local museum, housed in the 1838 War Department building on the United States Oval — the historic parade ground of the long-since-closed Plattsburgh Barracks. The museum is run by volunteers and is unusually thorough: detailed exhibits on the naval engagement, the land battle, the broader War of 1812, and the long history of the United States Army in Plattsburgh.

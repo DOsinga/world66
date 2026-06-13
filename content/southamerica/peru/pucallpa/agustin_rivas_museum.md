@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Tropical hardwood sculpture by Pucallpa's most celebrated artist.
+score: 7.5
 ---
 
 Agustín Rivas (born 1924, now in his hundreds) is the great wood sculptor of the Peruvian Amazon — a self-taught artist who has spent six decades carving Amazonian myths, Shipibo cosmology and the human figure out of the region's hardest tropical hardwoods. The small museum on Jirón Tarapacá holds about forty of his best works, some carved from single trunks of *cumaceba* or *huayruro* over a metre across.

@@ -5,6 +5,7 @@ author: "William Faulkner"
 isbn: "978-0679732259"
 tags:
   - books
+score: 7.8
 ---
 
 Faulkner's 1930 novel is the easiest way into his Yoknapatawpha cycle — a short, savage, often funny account of a poor Mississippi family carrying their mother's coffin across the county to her family burial plot. Told in fifteen voices through 59 chapters, the book is set in the country immediately around Oxford and the Bundren family's slow journey passes through every kind of rural Mississippi landscape Faulkner knew first-hand.

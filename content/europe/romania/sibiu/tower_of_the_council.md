@@ -12,6 +12,7 @@ story: >
   it in 1586. During the reconstruction, workers found a coin hoard hidden in
   the walls — a reminder that Sibiu's medieval merchants trusted stonework more
   than banks.
+score: 7.7
 ---
 
 The Council Tower (Turnul Sfatului) stands at the junction of Piata Mare and Piata Mica, its Gothic base topped by a Baroque lantern added in the 18th century. For centuries it served as both watchtower and gateway between the two squares, and the city council held meetings in its upper rooms.

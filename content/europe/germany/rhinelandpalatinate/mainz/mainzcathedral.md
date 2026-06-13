@@ -11,6 +11,7 @@ tags:
 title: Mainz Cathedral
 type: poi
 story: "Archbishop Willigis laid the foundation stone in 975 CE and intended to consecrate the cathedral on the same day. On the night before the ceremony, the nearly complete building burned to the ground. Willigis had it rebuilt and consecrated the following year — the same fate nearly befell it a second time in 1009, when it burned again on the day of its consecration."
+score: 9.2
 ---
 
 The Mainzer Dom is one of the three great Imperial Cathedrals of the Rhine — alongside those of Speyer and Worms — and the most imposing building in the city. Archbishop Willigis began the cathedral in 975 CE; what stands today is the result of a millennium of construction, rebuilding, expansion, and repair, with Romanesque towers, Gothic chapels, and Baroque side altars all coexisting in the same vast space.

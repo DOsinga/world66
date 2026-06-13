@@ -12,6 +12,7 @@ story: >
   when the situation above grew dangerous. The cave preserved not just their lives but traces of 
   their presence: a few personal items and scratched inscriptions were found during archaeological 
   investigation of the site.
+score: 7.2
 ---
 
 Beneath the covered market hall at the centre of Domme, an entrance opens into one of the largest natural cave systems in the Périgord Noir. The Grotte de Domme extends for 450 metres of accessible galleries, with chambers filled with stalactites and stalagmites of considerable size — some of the formations have been growing for hundreds of thousands of years and reach several metres in height.

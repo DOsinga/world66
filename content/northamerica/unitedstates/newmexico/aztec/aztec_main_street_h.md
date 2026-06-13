@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8219
 longitude: -107.9983
+score: 6.5
 ---
 
 The historic downtown core of Aztec is unusually intact for a small New Mexico city. Several buildings from the early 1900s remain on Main Street, including the Aztec Motor Company Building from around 1906, the Engleman-Thomas Building, and the old American Hotel. The Church Avenue-Lovers Lane Historic District to the north adds a residential layer of Victorian and early-20th-century homes.

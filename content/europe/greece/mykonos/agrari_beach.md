@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Agrari Beach
 type: poi
+score: 6.3
 ---
 
 A quiet, pretty beach about 10 km southeast of Mykonos Town. No clubs, no DJ — just clear water and sand. A good escape from the party beaches.

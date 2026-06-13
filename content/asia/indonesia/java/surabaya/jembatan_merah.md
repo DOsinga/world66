@@ -11,6 +11,7 @@ story: >
   Revolution. In November 1945, British and Indian troops clashed with Indonesian nationalists
   here in fighting that left thousands dead. The Battle of Surabaya became a defining moment
   in the independence struggle, and 10 November — Heroes' Day — is still a national holiday.
+score: 7.9
 ---
 
 Jembatan Merah — the Red Bridge — spans the Kalimas River in the heart of the old colonial quarter and is the symbolic centre of old Surabaya. The bridge itself is modest, but the surrounding neighbourhood is the best place to understand the city's Dutch colonial past.

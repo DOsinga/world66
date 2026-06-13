@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: -26.6579
 longitude: 153.0914
+score: 4.6
 ---
 
 Horton Park Golf Club is one of the oldest golf clubs on the Sunshine Coast, with a course that runs through flat coastal terrain alongside the Maroochy River. The layout is accessible rather than punishing, which makes it popular with holiday golfers who want a round without the stress of a resort championship course.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.4829
 longitude: -3.369
+score: 8.3
 ---
 
 The Regional Archaeological Museum of the Community of Madrid occupies an eighteenth-century palace in the historic centre of Alcalá, and holds one of the best collections of Roman material in the Madrid region. The highlight is the extraordinary series of mosaics and painted wall fragments from Complutum — remarkably preserved domestic decoration that transforms what could be dry archaeology into vivid evidence of how a wealthy Roman household actually looked. The colours remain strong after nearly two millennia.

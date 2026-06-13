@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.9468
 longitude: -86.7676
+score: 6.8
 ---
 
 The riverfront is the reason the town exists, and it is still the most atmospheric corner of Tell City. The Ohio bends wide and slow here, and the levee park at the foot of Main Street has benches, a small boat ramp, and a wide view back across to the wooded Kentucky shore.

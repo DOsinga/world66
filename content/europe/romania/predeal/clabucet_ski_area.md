@@ -11,6 +11,7 @@ story: >
   repeatedly across the Carpathians — it means something like "rounded summit"
   in Romanian, though the Predeal version is better known than most thanks to
   the chairlift that has been running here since the communist era.
+score: 7.3
 ---
 
 Clăbucet is Predeal's main ski area, sitting between 1,100 and 1,445 metres on the slopes above the town. The main run — a red-graded intermediate slope — is 2,100 metres long with a vertical drop of around 390 metres, and there are a couple of shorter blue and black variants. Snowmaking covers most of the terrain, and night skiing is possible on the lit sections. For beginners there is a ski school and rental shop at the base.

@@ -7,6 +7,7 @@ tags:
 latitude: 0.052
 longitude: 32.472
 story: Lake Victoria is the world's second-largest freshwater lake by surface area, and Lido Beach sits on its northern shore — one of the few places in Uganda where you can swim in the lake at a maintained, managed beach. The water is warm year-round and the sunsets over the lake, which is wide enough at this point to look like an inland sea, are spectacular.
+score: 5.1
 ---
 
 Lido Beach is Entebbe's most popular swimming beach, a sandy stretch on Lake Victoria with changing facilities, small restaurants, and a relaxed local atmosphere. On weekends it fills with families from both Entebbe and Kampala; on weekdays it's quiet enough to feel like a private resort.

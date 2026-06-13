@@ -9,6 +9,7 @@ title: Eating Out
 type: poi
 url: www.valgelaev.ee
 zipcode: '76805'
+score: 1.5
 ---
 
 ### Valge Laev (eng. White Ship)

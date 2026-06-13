@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.8649
 longitude: 11.4875
+score: 5.7
 ---
 
 The Mvog-Betsi Zoo (Parc Zoo-Botanique de Mvog Betsi) is a combined zoological and botanical park in the western part of the city, the main attraction for families and the closest thing Yaoundé has to a conventional tourist sight for children. The zoo holds gorillas, chimpanzees, mandrills, and other Central African wildlife, alongside the botanical garden's collection of tropical plants.

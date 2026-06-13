@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9744
 longitude: 26.3689
+score: 6.5
 ---
 
 The small harbour at the foot of Plomari's old town is where the town's daily life is most visible. Fishing boats come and go; the catch is sold at the quayside in the morning. A handful of tavernas with outdoor tables face the water and serve the day's fish alongside the local ouzo — the obvious pairing in a town that produces both.

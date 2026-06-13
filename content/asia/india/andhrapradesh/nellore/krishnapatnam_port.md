@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.2500
 longitude: 80.1200
+score: 4.3
 ---
 
 Krishnapatnam is one of the largest all-weather ports on India's east coast, about 40 km south of Nellore, and the main driver of the district's contemporary economy. The area around the port is not a tourist site, but the approach road along the coast reveals the scale of Andhra Pradesh's industrial expansion — cranes, cargo ships, and port infrastructure against a coast that, a few kilometres north or south, is entirely undeveloped.

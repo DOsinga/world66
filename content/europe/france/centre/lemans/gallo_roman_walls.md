@@ -9,6 +9,7 @@ latitude: 48.0078
 longitude: 0.1975
 sources:
   - https://en.wikipedia.org/wiki/Le_Mans
+score: 8.7
 ---
 
 The Roman walls enclosing the Cité Plantagenêt are among the finest surviving examples of late Roman military architecture in Europe. Built between the 3rd and 4th centuries, they stretch for some 1,300 metres around the hilltop old city, reaching up to 10 metres in height in places and incorporating several semicircular towers.

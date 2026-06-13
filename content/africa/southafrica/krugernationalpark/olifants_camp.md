@@ -6,6 +6,7 @@ latitude: -23.9995
 longitude: 31.7395
 story: >
   The Olifants River's name means "elephants" in Afrikaans — a reference to the massive herds that once migrated seasonally through this valley. In 2015-2016, a mysterious die-off killed dozens of elephants near the Olifants and Letaba rivers, and subsequent investigation identified a combination of pansteatitis (a disease linked to contaminated fish) and other factors, raising questions about the health of the river ecosystem. The investigation changed how conservation managers monitor the park's rivers.
+score: 8.5
 ---
 
 Olifants Camp occupies one of the great viewpoints in southern African wildlife-watching: a cliff 100 metres above the Olifants River, with an uninterrupted view across the valley floor. From the terrace you can watch elephants, buffalo, hippo, and crocodile along the river, and raptors — including fish eagle, bateleur, and martial eagle — circle at eye level. The sunsets from this terrace are remarkable.

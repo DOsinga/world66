@@ -7,6 +7,7 @@ tags:
 latitude: 30.1725
 longitude: -95.5103
 story: "The Waterway gondolas are a bit of a quirk — Venice-style boats plying a man-made canal in suburban Texas. They run on weekends and feel slightly absurd, but kids love them and the ride gives a different angle on the Town Center."
+score: 7.0
 ---
 
 The Woodlands Waterway is a 1.25-mile canal that threads through the Town Center, lined with restaurants, shops, and apartment buildings. It's the closest thing The Woodlands has to a lively urban streetscape, with pedestrian paths along both banks and several footbridges. Best in the morning or evening when the heat is manageable.

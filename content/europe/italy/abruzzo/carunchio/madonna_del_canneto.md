@@ -8,6 +8,7 @@ latitude: 41.7683
 longitude: 14.3856
 story: >
   The sanctuary's origins are tied to a local legend: a herdsman found an image of the Madonna hidden in the reeds (canneto) beside a spring in the 12th century. The spring still flows behind the altar, and pilgrims collect its water as a curative. The site blends pre-Christian reverence for the spring with centuries of Catholic devotion.
+score: 7.5
 ---
 
 Just over the border into Molise, the Sanctuary of Madonna del Canneto is one of the most atmospheric pilgrimage sites in the southern Apennines. The 12th-century church sits in a wooded valley, surrounded by ancient beeches, with a small stream running beside it. The location alone is worth the journey — cool and shaded in summer, misty and remote in autumn.

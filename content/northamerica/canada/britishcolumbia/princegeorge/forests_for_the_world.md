@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 53.9205
 longitude: -122.7434
+score: 6.8
 ---
 
 Forests for the World is a community forest that extends north from the city into managed woodland, with 11 kilometres of hiking and mountain biking trails accessible year-round. The area takes its name from a tree-planting initiative but has evolved into a genuine outdoor recreation zone used by Prince George residents for walking, skiing, and snowshoeing.

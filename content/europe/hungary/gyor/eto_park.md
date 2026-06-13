@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 47.6820
 longitude: 17.6240
+score: 6.1
 ---
 
 The riverside park along the Mosoni-Duna is the best place in Győr for a long walk without historical obligation. The tree-lined promenade stretches for several kilometres, passing the ETO football stadium (named after the local club that plays here) and continuing to the point where the smaller channels rejoin the main river.

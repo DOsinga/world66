@@ -9,6 +9,7 @@ tags:
 - museum
 - scheii_brasovului
 neighbourhood: Schei
+score: 8.5
 ---
 
 The small museum beside St Nicholas Church preserves the rooms where, in 1495, the first known school in the Romanian language was opened. In the following century the priest Deacon Coresi set up a printing press here and produced the first books in Romanian — the New Testament in 1561, a Psalter in 1570, and a catechism — all of which can be seen in cases in the upper rooms.

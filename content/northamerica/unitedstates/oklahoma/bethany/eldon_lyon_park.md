@@ -6,6 +6,7 @@ longitude: -97.6422
 tags:
   - things_to_do
   - park
+score: 5.7
 ---
 
 Eldon Lyon Park is the largest of Bethany's parks, on the south-west edge of town beside the North Canadian River. The 35-hectare park has soccer pitches, baseball diamonds, a popular fishing pond stocked by the state's wildlife department, walking trails along the riverbank and a community amphitheatre used for summer concerts.

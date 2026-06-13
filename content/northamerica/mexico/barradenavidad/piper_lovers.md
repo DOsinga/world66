@@ -6,6 +6,7 @@ latitude: 19.2037
 longitude: -104.6835
 sources:
   - https://en.wikipedia.org/wiki/Barra_de_Navidad
+score: 5.7
 ---
 
 Piper Lovers is the best bar in town, a blues-leaning place on Avenida Veracruz with cold beer, live music most evenings, and an easy mix of locals and long-term foreign residents. It has the kind of relaxed atmosphere that belongs to a bar that knows it does not need to try hard — good music, decent drinks, and a crowd that is there to enjoy them rather than to be seen.

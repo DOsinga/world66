@@ -9,6 +9,7 @@ latitude: 33.7664
 longitude: -118.1928
 story: >
   The Long Beach street circuit has a corner named Shoreline Hairpin that was once described as "the most unforgiving corner in North American motorsport." In 1979 a crash between three cars at this bend took out the entire front row of the grid on the opening lap. The race has run on the streets of downtown every April since 1975, making it one of the longest-running street circuits in the world.
+score: 6.7
 ---
 
 Every April, the streets of downtown Long Beach are closed and transformed into a racing circuit for the Acura Grand Prix of Long Beach, an IndyCar Series race that is one of the premier street circuits in North American motorsport. The 3.2-kilometre circuit runs through the waterfront streets and has been hosting races since 1975, originally as a Formula 1 race.

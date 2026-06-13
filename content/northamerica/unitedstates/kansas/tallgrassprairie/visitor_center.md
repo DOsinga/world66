@@ -9,6 +9,7 @@ latitude: 38.4409
 longitude: -96.5575
 sources:
   - https://www.nps.gov/thingstodo/explore-tallgrass-visitor-center.htm
+score: 7.4
 ---
 
 The visitor center is the sensible first stop, not just a place to collect a map. Its exhibits explain the geology, fire, grazing, ranching, and conservation work that make this landscape more complicated than a pretty field of grass.

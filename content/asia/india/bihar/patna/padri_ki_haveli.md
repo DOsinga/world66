@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The oldest church in Bihar, built in 1772, where Mother Teresa took her novitiate training
+score: 6.9
 ---
 
 The Padri Ki Haveli -- "the priest's mansion" -- is Bihar's oldest church, built in 1772 by Father Joseph Cantona on land bought from a Mughal nobleman. The first chapel on the site dated from 1713 and was destroyed when the Maratha army sacked the city in 1761. The present church is in a peculiar Indo-Italian style: arches, a high facade, and an interior with sober wooden pews.

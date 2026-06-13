@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - science
+score: 5.8
 ---
 
 The Nanjing Science and Technology Museum (南京科技馆) near the Yangtze River is a hands-on science centre with exhibits on physics, earth science, space exploration, and information technology. It is primarily designed for children and school groups but has enough substance for adults interested in Chinese science education.

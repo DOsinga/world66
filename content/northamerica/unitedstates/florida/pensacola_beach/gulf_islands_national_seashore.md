@@ -14,6 +14,7 @@ story: >
   rather than freehold title. The Army used the beach area for gunnery ranges and later as a test site for
   early naval aviation. The Fort Pickens area still has intact Civil War-era fortifications visible from
   the bike path.
+score: 8.8
 ---
 
 The Gulf Islands National Seashore is a chain of barrier islands stretching from Fort Walton Beach in Florida to Ship Island in Mississippi, and the Pensacola section is one of the finest stretches. The eastern end of Santa Rosa Island, within the national seashore boundary, is essentially undeveloped — just the beach, the dunes, the sea oats, and the Gulf.

@@ -9,6 +9,7 @@ title: Batu Bolong
 type: poi
 story: >
   "Batu Bolong" means "hollow rock" in Indonesian — the pinnacle has a hole through its base through which the current flows. The site is swept by such strong currents that divers must time their entry precisely to the slack water window; outside that window the current is too powerful to dive against. The fish life the current brings is extraordinary: schools of thousands of jack and fusilier stack up against the pinnacle in spiralling columns visible from 30 metres away.
+score: 9.3
 ---
 
 Batu Bolong is a rock pinnacle in the northern part of Komodo National Park that drops vertically from the surface to about 50 metres. It is consistently rated one of the top dive sites in Asia and, by many experienced divers, in the world. The currents that sweep around the pinnacle bring cold, nutrient-rich water that feeds extraordinary concentrations of marine life — reef sharks, Napoleon wrasse, trevally, pygmy seahorses, and sweeping shoals of fusilier and anthias.

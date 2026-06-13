@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.5
 ---
 
 Šibenik's old town is a stack of pale stone houses clinging to a slope between the fortresses and the sea, bound together by narrow alleys, vaulted passages and shallow staircases polished smooth by centuries of feet. Wandering without a map is the right approach. Look out for the four old town gates, the small Renaissance loggia on the main square and the tiny Church of St Barbara now serving as a museum of sacred art.

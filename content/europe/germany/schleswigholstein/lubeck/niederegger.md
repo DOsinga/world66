@@ -9,6 +9,7 @@ story: Lübeck has been making marzipan since at least the fifteenth century —
 tags:
 - bars_and_cafes
 - food
+score: 6.1
 ---
 
 Niederegger is the institution. The ground floor is the shop — every conceivable shape of marzipan, dark-chocolate-coated bars, marzipan pigs, marzipan models of the Holstentor. The café on the first floor serves the famous Nusstorte with whipped cream, hot chocolate, and the Lübecker Cocktail (marzipan ice cream and a shot of strong coffee).

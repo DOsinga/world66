@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 8.8
 ---
 
 The core of the Vatican's classical sculpture collection, founded in the late 18th century by Popes Clement XIV and Pius VI (hence the name). The galleries are arranged in a circuit of frescoed halls and octagonal courtyards in the Belvedere wing.

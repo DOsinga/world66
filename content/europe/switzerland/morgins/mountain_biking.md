@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 46.2382
 longitude: 6.8519
+score: 7.6
 ---
 
 The Portes du Soleil has developed into one of the most extensive mountain bike destinations in Europe, with lift-served trails for downhill riding and a long-distance circuit for cross-country riders. From Morgins, the lifts run in summer and the bike trails descend through forest and open meadow back to the village. The full Portes du Soleil circuit — 230 kilometres of linked trails across the Swiss-French border — can be ridden in several days with cable cars replacing the climbs.

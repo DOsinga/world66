@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.4824
 longitude: -3.3696
+score: 6.9
 ---
 
 The Archbishop's Palace of Alcalá de Henares is one of the most historically significant buildings in Spain — a medieval and Renaissance complex where Columbus met Ferdinand and Isabella to plan his second voyage to the Americas, and where Catherine of Aragon was born in 1485. For centuries it was the official residence of the Archbishops of Toledo, making Alcalá one of the most important ecclesiastical centres in the Iberian peninsula.

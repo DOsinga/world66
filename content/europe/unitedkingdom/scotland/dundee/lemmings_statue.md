@@ -11,6 +11,7 @@ story: >
   establish Dundee as a serious centre of video-game development. The
   statue was unveiled in 2013, a quiet recognition that the city's biggest
   cultural export of the last forty years is software, not jute.
+score: 4.6
 ---
 
 A small bronze tableau in Seabraes Yards depicts five of the green-haired, blue-robed lemmings from the puzzle game of the same name — one digger, one climber, one blocker, one floater, and one walking obliviously toward the edge. The statue is set on a low plinth at child-eye-level and was sculpted by Alan Herriot.

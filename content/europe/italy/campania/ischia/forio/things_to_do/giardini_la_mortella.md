@@ -13,6 +13,7 @@ story: "Sir William Walton commissioned landscape architect Russell Page to desi
   Walton died in 1983, his wife Susana turned it into a foundation dedicated to supporting
   young musicians — the concerts held in the Greek amphitheatre here each summer are
   some of the most atmospheric in southern Italy."
+score: 9.6
 ---
 
 La Mortella began as a rocky hillside with almost no soil and is now home to over 800 plant species from five continents. Russell Page's original design created a lower garden of tropical pools and exotic planting, while the upper garden opens into wide views over Forio and the sea. The name comes from the myrtle — mortella in the local dialect — that covered the hillside when Walton first arrived.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.2
 ---
 
 A small national park on the northwestern edge of Cobán, Las Victorias is a patch of cloud forest within easy walking distance of the town centre. It is more urban park than wilderness reserve, but the trails through the trees are pleasant and the forest is genuine — mossy, damp, and busy with birds. It is a good place to acclimatise to the cloud forest environment before heading further afield.

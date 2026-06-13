@@ -3,6 +3,7 @@ title: "Glasriket (Kingdom of Crystal)"
 type: poi
 tags:
   - things_to_do
+score: 8.6
 ---
 
 Glasriket — the Kingdom of Crystal — is the name given to a stretch of deep forest between Växjö and Kalmar where some twenty glassworks have operated since the 18th century. The two most famous names are Kosta Boda and Orrefors, but villages like Boda, Åfors, Målerås, and Skruf each have their own character and style. Most factories welcome visitors to watch master glassblowers at work, and every one of them has a showroom and outlet shop selling both gallery pieces and seconds at a fraction of retail prices.

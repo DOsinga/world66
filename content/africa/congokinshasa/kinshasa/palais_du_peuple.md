@@ -8,6 +8,7 @@ tags:
 latitude: -4.3322
 longitude: 15.3031
 snippet: The Chinese-built parliamentary complex that serves as the seat of the DRC's National Assembly and Senate
+score: 6.5
 ---
 
 The Palais du Peuple is the seat of the DRC's parliament, housing both the National Assembly and the Senate in a large complex built with Chinese assistance in the late 1970s during the Mobutu era. The architecture is the confident, slightly heavy style of state buildings from that period -- built to impress, and on a city scale that matches Mobutu's ambitions for his renamed country of Zaïre.

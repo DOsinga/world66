@@ -15,6 +15,7 @@ story: >
   audiences here. He fell ill with smallpox a few months later in Beijing and
   died — a quiet political catastrophe that the Qing court worked hard to
   obscure.
+score: 8.3
 ---
 
 Built in 1780, Xumi Fushou is the youngest of the major outer temples and probably the most architecturally interesting. The Qianlong Emperor commissioned it specifically as a residence for the Sixth Panchen Lama, who had travelled from Shigatse to Chengde for the emperor's seventieth birthday — an enormous diplomatic gesture from Tibet.

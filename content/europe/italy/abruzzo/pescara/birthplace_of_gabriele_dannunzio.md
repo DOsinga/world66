@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Birthplace_of_Gabriele_D%27Annunzio_Museum
 story: >
   D'Annunzio was born here in 1863 and grew up to become Italy's most flamboyant public figure — poet, war hero, proto-fascist showman, and the man Mussolini reportedly feared more than any rival. His childhood home survived the wartime bombing that destroyed most of Pescara, almost as if the city understood it was the one place worth keeping.
+score: 7.4
 ---
 
 The house where Gabriele d'Annunzio was born in 1863 is now a museum dedicated to the poet, novelist, and political adventurer who became one of the most influential and controversial figures in modern Italian culture. The building is one of the few 19th-century structures in Pescara to have survived the Allied bombing campaign of 1943 largely intact, and it stands in the otherwise unremarkable quarter of the old city south of the river.

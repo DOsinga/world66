@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.7900
 longitude: 20.6086
+score: 7.4
 ---
 
 Zsóryfürdő, on the southern edge of Mezőkövesd, is a large thermal spa drawing on hot mineral water discovered in 1939. The complex has outdoor and indoor thermal pools, swimming pools, slides, and a wellness section, and is busy with Hungarian families through the summer.

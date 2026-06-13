@@ -10,6 +10,7 @@ latitude: -34.6355
 longitude: -58.3647
 story: >
   The stadium's design — three nearly vertical tiers on three sides and a single lower tier on the fourth — creates extraordinary acoustics. The sound bounces off the curved walls and concentrates in the lower tiers, amplifying crowd noise to an almost physical intensity. Argentine managers describe playing away at Boca as the most hostile atmosphere in domestic football. The name "La Bombonera" (the chocolate box) refers to the stadium's round, compact shape.
+score: 8.6
 ---
 
 The home ground of Boca Juniors, the most supported football club in Argentina and one of the most fanatical supporter cultures in world sport. La Bombonera holds about 54,000 people and on match days — particularly during the Superclásico against River Plate — the atmosphere is intense to the point of bewilderment.

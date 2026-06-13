@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Well-known bar below the old town walls, open-air with music until late
+score: 4.7
 ---
 
 Tropic Bar sits just below the old town's outer walls on the southern side, with an open-air setup that catches the sea breeze in the evenings. It has been a fixture on Budva's nightlife scene for years — more bar than club, with a mixed crowd that skews toward people who want drinks and music without the full nightclub experience of Top Hill or the seafront megaclubs.

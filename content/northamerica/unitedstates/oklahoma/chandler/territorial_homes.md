@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.7025
 longitude: -96.8822
+score: 5.8
 ---
 
 Three late Victorian houses in Chandler — the Conklin House, the Johnson House, and the Kee House — are collectively listed on the National Register of Historic Places as the Territorial Homes of Chandler. All three date from around 1900, built during the brief Oklahoma Territory period before statehood in 1907, and they represent the domestic architecture of the town's founding generation.

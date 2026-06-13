@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "When Paraná served briefly as capital of the Argentine Confederation in the 1850s, the cathedral on this plaza was the country's seat of Catholic power. The current building, completed in 1885, is the third on the site. The earlier ones were judged too modest for a former national capital and pulled down."
+score: 7.7
 ---
 
 The Catedral Nuestra Señora del Rosario sits at the head of Plaza 1° de Mayo, the heart of the old city. The current building dates from the 1880s, an Italianate basilica with twin towers, a large central dome, and a richly decorated interior — marble columns, gilded altars, paintings from the late 19th century. It is the seat of the Archdiocese of Paraná, raised to that status when the city was briefly the capital of the Argentine Confederation in the 1850s.

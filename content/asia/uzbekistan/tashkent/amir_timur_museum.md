@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3136
 longitude: 69.2789
+score: 7.6
 ---
 
 A grand blue-domed building on Amir Timur Square, opened in 1996 for the 660th anniversary of Tamerlane's birth. The collection is part history, part propaganda — coins, weapons, manuscripts, miniature paintings, and elaborate dioramas tracing Timur and his Timurid descendants across the Silk Road world.

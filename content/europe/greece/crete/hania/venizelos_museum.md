@@ -9,6 +9,7 @@ latitude: 35.5185
 longitude: 24.0388
 sources:
   - https://en.wikipedia.org/wiki/Eleftherios_Venizelos_Museum_of_Chalepa
+score: 7.6
 ---
 
 Eleftherios Venizelos was born in Hania in 1864 and went on to become Greece's greatest modern statesman — prime minister seven times, the architect of modern Greece's territorial expansion, and the dominant Greek political figure of the early 20th century. His family house in the Chalepa suburb east of the old town has been preserved as a museum, with period furniture, documents, photographs, and personal effects from his long career.

@@ -9,6 +9,7 @@ tags:
 - bar
 title: Chuck's Bar
 type: poi
+score: 5.1
 ---
 
 A long-standing bar on the historic River Street waterfront. No-frills drinks and a casual crowd. River Street itself is lined with bars and restaurants; Chuck's is one of the older, more local-feeling options.

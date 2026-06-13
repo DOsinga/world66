@@ -15,6 +15,7 @@ story: Lake Tekapo sits inside the Aoraki Mackenzie International Dark Sky Reser
   been running astronomical research since 1965. On clear nights the Milky Way is
   visible to the naked eye with a clarity that is startling if you have only ever seen
   it from cities.
+score: 8.4
 ---
 
 **Lake Tekapo** is a turquoise glacial lake in the Mackenzie Basin, 225 kilometres southwest of Christchurch via State Highway 8. The water's vivid colour comes from rock flour — particles of finely ground rock suspended in the meltwater from the Southern Alps glaciers. On clear days the lake mirrors the mountains behind it, and the small **Church of the Good Shepherd**, a stone church built in 1935 right on the lakeshore, is one of the most photographed buildings in New Zealand.

@@ -13,6 +13,7 @@ story: >
   After independence it became Martyrs' Square. Under Gaddafi it was renamed Green Square
   in honour of his Green Book ideology. After 2011 the name Martyrs' Square was restored,
   though many residents still use all three names interchangeably.
+score: 6.4
 ---
 
 Martyrs' Square — known variously as Green Square and Piazza Italia through its complicated political history — is the symbolic heart of Tripoli. The large open plaza sits between the old medina and the seafront, bordered by Italian colonial-era government buildings on two sides and the harbour on a third. Gaddafi gave his most famous speeches here; crowds celebrated the fall of his regime here in 2011.

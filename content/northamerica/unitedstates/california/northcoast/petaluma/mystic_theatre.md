@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 38.2341
 longitude: -122.6401
+score: 7.2
 ---
 
 The Mystic Theatre on Petaluma Boulevard is a restored 1911 vaudeville house that has been the main live music venue in town for decades. The interior has been well preserved — pressed tin ceilings, original woodwork, a good stage — and the acoustics are better than you would expect for a room this age. Shows tend toward local and touring rock and country acts, with the occasional big name drawn by the venue's reputation.

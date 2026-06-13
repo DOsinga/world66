@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "305 handmade stone stairs up the escarpment, built by one resident"
+score: 6.4
 ---
 
 The Adventure Stairs are exactly what the name suggests — 305 hand-laid stone steps climbing the Niagara Escarpment from a residential street in west Hamilton to the top of the cliff. They were built over years by a single homeowner who decided he wanted easier access to the top trails. The stairs are unofficial, free, and a little uneven; the city has tolerated them rather than endorsed them.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Great Blasket was evacuated in November 1953 after a winter of storms cut the island off completely and the government decided the population could no longer be safely supported. The last 22 inhabitants were resettled on the mainland at Dunquin. The island had produced an extraordinary body of memoir literature in Irish — *Peig*, *An tOileánach*, *Twenty Years a-Growing* — and is sometimes credited with preserving the dialect of Munster Irish nearly singlehandedly."
+score: 9.0
 ---
 
 Great Blasket is the largest of the seven Blasket Islands and the only one with even a temporary human presence. The island was inhabited continuously until 1953, when the last 22 residents were evacuated and resettled on the mainland. The abandoned village still stands in various states of ruin on the eastern slope, with a handful of cottages restored to house summer caretakers and the small visitor centre.

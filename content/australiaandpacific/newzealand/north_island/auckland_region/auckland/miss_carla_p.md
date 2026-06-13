@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -36.8554
 longitude: 174.7480
+score: 6.8
 ---
 
 Ponsonby Road is Auckland's most reliably enjoyable street for an evening out. The cafes that line it during the day transition to wine bars and restaurants after dark, and the pedestrian traffic keeps going well past midnight on weekends. The crowd is mixed — locals from the surrounding Victorian villas, visitors who've heard the reputation — but the feel is relaxed rather than flashy.

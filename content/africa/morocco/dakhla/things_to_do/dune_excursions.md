@@ -7,6 +7,7 @@ tags:
   - outdoors
 latitude: 23.7800
 longitude: -15.9800
+score: 7.0
 ---
 
 North and east of Dakhla, the Saharan landscape opens into large dune fields accessible by 4WD. Local operators run half-day and full-day excursions into the desert, combining dune driving with stops at viewpoints and occasionally visiting nomadic encampments. The scale of the landscape is hard to overstate — the dunes here are not the neat photogenic rows you see in travel brochures but a chaotic, wind-shaped wilderness with no obvious end.

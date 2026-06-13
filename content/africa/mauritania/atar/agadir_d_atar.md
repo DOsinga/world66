@@ -12,6 +12,7 @@ story: >
   communal grain in a fortified building with a single defended entrance, settled
   communities could protect their food supply against the nomadic raiders who periodically
   swept across the region.
+score: 6.8
 ---
 
 The Agadir d'Atar is a ruined fortified granary on the rocky plateau above the town, the remnant of the communal food-storage system that sustained Adrar communities before the modern era. The walk up from town takes about 20–30 minutes on a rough path and is best done in the early morning before the heat builds.

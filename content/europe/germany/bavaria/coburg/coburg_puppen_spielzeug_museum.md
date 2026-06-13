@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.2576
 longitude: 10.9648
+score: 7.1
 ---
 
 The Coburg Doll and Toy Museum is one of those niche collections that surprises by being genuinely absorbing. Coburg was historically an important centre for toy manufacturing — the region around the town produced dolls, teddy bears, and tin toys that were exported across Europe and to America from the nineteenth century onwards. The museum draws on this local tradition to assemble a collection of around 1,500 dolls and toys, ranging from eighteenth-century carved wooden figures to mid-twentieth-century tin automata.

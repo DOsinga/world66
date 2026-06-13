@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 7.6667
 longitude: 36.8333
+score: 7.6
 ---
 
 Thursday is the main market day in Jimma, when farmers and traders from across the surrounding highlands converge on the city. The market is large and genuinely commercial rather than tourist-oriented — you are as likely to be looking at sacks of grain and live chickens as at craft stalls, which is part of what makes it interesting.

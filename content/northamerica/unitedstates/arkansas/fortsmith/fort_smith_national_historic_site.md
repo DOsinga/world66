@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Fort_Smith_National_Historic_Site
   - https://www.nps.gov/fosm/
+score: 9.0
 ---
 
 Fort Smith National Historic Site preserves the remains of two frontier-era military forts and the federal courthouse where Judge Isaac Parker dispensed frontier justice for 21 years. The site occupies the original fort grounds on a bluff above the confluence of the Arkansas and Poteau rivers, and the restored buildings — the old barracks converted into a courthouse, the basement jail known as "Hell on the Border," and the reconstructed gallows — give an unusually vivid picture of what law enforcement looked like in the 1870s–1890s.

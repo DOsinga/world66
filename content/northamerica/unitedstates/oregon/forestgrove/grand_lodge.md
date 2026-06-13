@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Grand Lodge was built in 1922 as the Masonic and Eastern Star Home of Oregon, a retirement home for Masons and their families. The McMenamin brothers bought the abandoned property in 1999 and turned it into one of their characteristic restored hotels, with murals, a brewery, and a cinema, while preserving most of the original architecture."
+score: 6.8
 ---
 
 A 1922 Masonic retirement home turned into a sprawling hotel, brewery, restaurant, movie theatre, and soaking pool complex by the McMenamins, Oregon's eccentric pub-and-hotel chain. The grounds are large and rambling, the architecture is original, and the renovation is unmistakable McMenamins: bright murals on every wall, themed bars in unexpected corners, and a casual, lived-in feel.

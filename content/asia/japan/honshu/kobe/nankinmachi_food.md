@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.6881
 longitude: 135.1881
+score: 6.8
 ---
 
 The restaurants around and in Nankin-machi offer some of the best Chinese food in Japan. The Kobe Chinese community has roots in the Meiji era, and several of the older establishments have been in business for generations. Cantonese and Shanghainese cooking predominate, with good dim sum available at lunch and proper banquet-style Chinese meals in the evenings.

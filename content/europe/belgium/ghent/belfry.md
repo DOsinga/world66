@@ -18,6 +18,7 @@ title: Belfry of Ghent
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Belfry_of_Ghent
+score: 8.6
 ---
 
 The Belfry is the tallest of Ghent's three medieval towers and a UNESCO World Heritage Site along with the belfries of Belgium and France. At 91 metres, it was built between 1313 and 1380 to symbolise the city's autonomy and power — in medieval Flanders, only a free city could build a belfry. The climb rewards you with one of the best urban panoramas in Belgium, looking out over the tiled rooftops toward Saint Bavo's, Saint Nicholas', and the Graslei.

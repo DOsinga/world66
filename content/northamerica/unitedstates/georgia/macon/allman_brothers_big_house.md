@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/The_Allman_Brothers_Band_Museum
   - https://thebighousemuseum.com/
+score: 7.7
 ---
 
 From 1970 to 1973, the red-brick Tudor revival house on Vineville Avenue was home to the Allman Brothers Band, their families, and a rotating cast of friends and roadies — 23 people at one point. Berry Oakley rented it first, and the other band members moved in as the band was recording its first albums for Capricorn Records and beginning to develop the sound that would define Southern rock. They called it the Big House.

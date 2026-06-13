@@ -15,6 +15,7 @@ story: >
   city. The grove of old-growth coast redwoods at the park's centre predates the zoo
   and represents trees that were already hundreds of years old when European settlement
   began in California.
+score: 8.6
 ---
 
 Sequoia Park on W Street in Eureka combines a free municipal zoo with a grove of old-growth coast redwoods — one of the few such groves accessible from within a city. The trees are enormous: some over 50 metres tall, with bases you need several people to reach around, and the understory has the characteristic cathedral quiet of old-growth redwood forest. The grove alone is worth the visit, and the contrast with the surrounding residential streets is striking.

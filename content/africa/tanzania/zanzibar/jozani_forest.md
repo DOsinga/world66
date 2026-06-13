@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Home of the endemic red colobus monkey — found nowhere else on earth
 story: "The Zanzibar red colobus (Piliocolobus kirkii) is found only on Unguja island and nowhere else in the world. When European hunters first arrived in the 19th century, they called it the 'poison monkey' because of its pungent scent, and largely left it alone — an accident of olfaction that may have saved the species."
+score: 8.4
 ---
 
 Jozani-Chwaka Bay is Zanzibar's only national park and its one remaining significant forest. The heart of the park is a patch of mixed groundwater forest covering the central depression of the island, where high water tables and rich soil have allowed trees to grow to genuine height. The forest is home to around 2,000 **Zanzibar red colobus monkeys** — endemic to the island and listed as endangered — who have become so accustomed to visitors that family troops pass within metres on the forest trail.

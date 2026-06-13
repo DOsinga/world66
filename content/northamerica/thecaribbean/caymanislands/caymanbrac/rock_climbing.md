@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 19.7333
 longitude: -79.7383
+score: 7.8
 ---
 
 Cayman Brac has the most developed sport-climbing scene in the Caribbean — somewhere around 80 bolted routes on the south side of the Bluff, ranging from beginner 5.7s to overhanging 5.13s. The routes were established mostly by visiting American climbers in the 1990s and early 2000s; the rock is solid limestone, often pocketed, with good friction once it has dried after rain.

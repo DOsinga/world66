@@ -11,6 +11,7 @@ story: >
   The layout of Hudson's town centre was platted in 1799 by David Hudson, a Connecticut land speculator who had never visited Ohio — he designed it on the New England village green model he grew up with, and the result is one of the most faithful reproductions of that form anywhere west of the Appalachians.
 sources:
   - https://en.wikipedia.org/wiki/Hudson_Historic_District_(Ohio)
+score: 8.5
 ---
 
 The Hudson Historic District encompasses the core of the original 19th-century town and is listed on the National Register of Historic Places. The central green — called the Village Green or Commons — is the heart of the district, ringed by Federal and Greek Revival commercial and residential buildings from the 1820s through 1860s. The whole ensemble feels remarkably intact.

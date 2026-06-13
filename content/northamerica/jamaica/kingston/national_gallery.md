@@ -9,6 +9,7 @@ latitude: 17.978
 longitude: -76.7833
 story: >
   The gallery's centrepiece is the work of Edna Manley — sculptor, political activist, and wife of the first Prime Minister. Her 1935 bronze sculpture "Negro Aroused" became an iconic image of Jamaican national consciousness well before independence. The gallery holds the original, and it remains one of the most emotionally charged pieces in the collection.
+score: 8.8
 ---
 
 The National Gallery of Jamaica on Orange Street in Downtown Kingston holds the best collection of Jamaican art in the world — spanning from the colonial era to the present, with particular depth in 20th-century painting and sculpture. The building is a converted waterfront warehouse, and the galleries are arranged chronologically, starting with British colonial-period landscapes and portraits before moving into the distinctly Jamaican visual vocabulary that emerged in the 1930s.

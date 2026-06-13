@@ -12,6 +12,7 @@ story: >
   when New Zealand went 35 games unbeaten and created the legend of the "Originals."
   It was during this tour that the team first performed the haka before a test match,
   a practice that has defined All Blacks rugby ever since.
+score: 6.8
 ---
 
 The New Zealand Rugby Museum in Palmerston North is the sport's national repository and the most comprehensive rugby museum in the world. The collection spans 130 years of New Zealand rugby history: jerseys, trophies, balls, programmes, and interactive exhibits covering the All Blacks, women's Black Ferns, and provincial rugby from the earliest days of the game in New Zealand.

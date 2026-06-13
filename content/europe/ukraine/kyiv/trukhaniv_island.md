@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.4577
 longitude: 30.5394
+score: 7.4
 ---
 
 A long, low, wooded island in the Dnieper opposite the city centre, connected to the right bank by a pedestrian bridge from Volodymyrska Hill. The island has sandy beaches on its western shore, weeping willows along the inland canal, cycling paths, and a handful of beach bars. On a hot summer afternoon, half of central Kyiv decamps here.

@@ -6,6 +6,7 @@ tags:
 latitude: 53.6453
 longitude: -1.7835
 snippet: "Huddersfield's Pakistani and Bangladeshi restaurants are among the best in Yorkshire"
+score: 8.0
 ---
 
 Huddersfield has one of the most distinguished South Asian food cultures in the north of England, a legacy of the Pakistani and Bangladeshi communities that came to work the textile mills from the 1950s and 1960s. The cooking here has a seriousness and depth that goes well beyond the generic curry house menu: karahi dishes, slow-cooked haleem, freshly baked roti, and the sort of regional Pakistani cooking that takes time to find even in the larger cities.

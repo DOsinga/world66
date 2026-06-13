@@ -13,6 +13,7 @@ story: >
   American in the United States, and his foundation donated $5 million to the museum
   that bears his name, the largest gift from an African American to a cultural institution
   at the time of his death in 1993.
+score: 7.7
 ---
 
 The Reginald F. Lewis Museum is Maryland's largest African American cultural institution, housed in a striking modern building on the edge of the Inner Harbor East neighbourhood. The collection covers the full sweep of African American history in Maryland — from the colonial period and slavery through Reconstruction, the Jim Crow era, and into the 20th century.

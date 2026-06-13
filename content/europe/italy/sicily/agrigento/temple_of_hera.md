@@ -8,6 +8,7 @@ latitude: 37.2886
 longitude: 13.6002
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Hera,_Agrigento
+score: 8.3
 ---
 
 The Temple of Hera occupies the far eastern end of the temple ridge, perched dramatically on the edge of the escarpment with views down to the coast and across to the hills inland. Built around 450 BC, 25 of its original columns still stand. The eastern position, at the highest point of the ridge, was deliberate — the temple was associated with marriage ceremonies and rites of passage, and women would have processed here along the sacred road from the lower city.

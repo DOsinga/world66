@@ -12,6 +12,7 @@ tags:
 - cajun
 title: Cormier's Cajun
 type: poi
+score: 6.2
 ---
 
 Traditional Cajun food served at picnic tables with a cold beer. Unpretentious and authentic — the kind of place locals eat.

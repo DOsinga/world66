@@ -14,6 +14,7 @@ tags:
 - sight
 title: Sur Fort (Sunaysilah Castle)
 type: poi
+score: 7.2
 ---
 
 The main fort overlooking Sur, formally known as Sunaysilah Castle. It sits on a rise above the town and has been well restored, with several towers, a central courtyard, and good views over the lagoon and surrounding date palms. Worth the short walk up from the market.

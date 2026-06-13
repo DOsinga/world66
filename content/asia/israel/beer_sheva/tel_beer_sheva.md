@@ -9,6 +9,7 @@ latitude: 31.2408
 longitude: 34.8333
 story: >
   Tel Be'er Sheva was the site of a sophisticated Iron Age city with a unique horned altar — one of only three ever found in Israel. The altar was deliberately dismantled, its stones reused in construction, possibly as part of King Hezekiah's 8th-century BC religious reforms. When archaeologists found the stones and reassembled them, they realised they had a cult object mentioned explicitly in the Book of Kings.
+score: 8.7
 ---
 
 Tel Be'er Sheva is a UNESCO World Heritage Site about 5 km east of the modern city, preserving the remains of the biblical city mentioned in connection with Abraham, Isaac, and the early Israelite period. The mound (tel) has been occupied since the Chalcolithic period but reached its peak as a well-planned city in the Iron Age, with a central administrative district, storehouses, and a remarkable water system.

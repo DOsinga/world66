@@ -8,6 +8,7 @@ latitude: 7.2648
 longitude: 5.2313
 sources:
   - https://en.wikipedia.org/wiki/Federal_College_of_Agriculture,_Akure
+score: 4.7
 ---
 
 The Federal College of Agriculture in Akure, established in the 1960s as the School of Agriculture, is one of the leading agricultural education institutions in Nigeria. Its grounds reflect the lush vegetation of the Ondo State countryside: demonstration plots of cocoa, rubber, and cassava spread across a campus that feels more like a research farm than a university.

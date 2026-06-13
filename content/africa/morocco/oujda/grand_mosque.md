@@ -9,6 +9,7 @@ tags:
   - religious
   - architecture
 story: "The mosque was founded in 1296 by the Marinid sultan Abu Yaqub Yusuf, who built it as a statement of legitimacy after the Marinids wrested control of Oujda from the Zayyanids of Tlemcen. Its plain exterior conceals one of the oldest surviving Marinid prayer halls in the country."
+score: 7.1
 ---
 
 The Grand Mosque (Jamaa el-Kebir) is the oldest and most important building in Oujda's medina, founded in the late thirteenth century during the reign of the Marinid sultan Abu Yaqub Yusuf. The current building has been reworked over the centuries — the minaret is a nineteenth-century reconstruction — but elements of the original Marinid prayer hall survive, including the carved stucco around the mihrab.

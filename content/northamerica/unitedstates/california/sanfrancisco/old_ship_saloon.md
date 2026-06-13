@@ -9,6 +9,7 @@ tags:
 title: The Old Ship Saloon
 type: poi
 story: "The bar is built into the remains of the Arkansas, a ship that sailed around Cape Horn during the Gold Rush and was beached and converted into a saloon when its crew abandoned it to pan for gold."
+score: 7.4
 ---
 
 The Old Ship Saloon on Pacific Avenue claims to be San Francisco's oldest bar, and the claim is hard to argue with -- it is literally built into the hull of a Gold Rush-era ship. The Arkansas sailed around Cape Horn in 1849, was beached in what was then the waterfront (now several blocks inland thanks to landfill), and became a drinking establishment when the crew left to seek their fortunes.

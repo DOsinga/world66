@@ -6,6 +6,7 @@ longitude: 8.7050
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Pforzheim sits at the meeting of three rivers — the **Enz**, the **Nagold**, and the **Würm** — and the confluences are the most-photographed natural feature in the city. The Nagold flows in from the Black Forest to the south; the Würm joins from the south-west; the combined stream becomes the Enz, which leaves north-east to find the Neckar.

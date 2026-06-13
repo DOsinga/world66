@@ -7,6 +7,7 @@ tags:
 latitude: 59.3500
 longitude: -2.9050
 snippet: "Two Neolithic stone houses on Papa Westray, older than Skara Brae"
+score: 8.3
 ---
 
 The Knap of Howar consists of two well-preserved Neolithic stone houses on the west coast of Papa Westray, occupied between roughly 3700 BCE and 2800 BCE. That makes them older than Skara Brae and, by some accounts, the oldest standing houses in northern Europe.

@@ -8,6 +8,7 @@ tags:
 latitude: 5.9675
 longitude: -62.5356
 story: "American bush pilot Jimmie Angel landed his Flamingo monoplane on top of Auyán-tepui in 1937 looking for gold, sank the plane in mud, and walked eleven days back to civilisation. The falls now carry his name; his recovered aircraft is on display at the airport in Ciudad Bolívar."
+score: 10.0
 ---
 
 Angel Falls drops 979 metres off the cliff of Auyán-tepui in a single uninterrupted plunge — the highest waterfall in the world by a margin that is hard to overstate. The water is wind-blown into vapour long before it reaches the rocks at the bottom, and on a bright morning the spray catches the sun in a permanent rainbow across the bowl of the canyon. The Pemón name, Kerepakupai Vená, means "fall of the deepest place".

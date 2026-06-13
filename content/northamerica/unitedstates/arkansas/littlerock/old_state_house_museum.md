@@ -12,6 +12,7 @@ story: >
   1996. The building also served as the site of a celebrated brawl in 1837
   when two Arkansas congressmen got into a knife fight on the floor of the
   House. The knife is on display.
+score: 8.3
 ---
 
 The Old State House is Arkansas's original statehouse, built between 1833 and 1842 in Greek Revival style. It is the oldest surviving state capitol building west of the Mississippi and one of the finest antebellum public buildings in the South. The building served as the state capitol until 1912, when the current capitol was completed, and has been a museum since 1947.

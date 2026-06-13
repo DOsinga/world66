@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.2900
 longitude: 106.2700
+score: 6.2
 ---
 
 Yongning sits in the irrigated strip of farmland between the Yellow River and the Helan Mountains, where the combination of desert sun, alkaline soil, and river water has created ideal conditions for growing wolfberries — known internationally as goji berries. Ningxia produces the most prized wolfberries in China, and the area around Yongning is one of the main growing regions.

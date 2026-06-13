@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 53.96222
 longitude: -2.01639
+score: 8.2
 ---
 
 Skipton has held a market on its broad High Street since the twelfth century, and the tradition continues four days a week (Monday, Wednesday, Friday, and Saturday). The Saturday market is the biggest and draws shoppers from across the Dales and beyond. Stalls sell local produce, cheese, meat, clothing, and the usual mix of market goods; the covered Shambles market hall at the top of the street adds permanent traders to the weekly rotation.

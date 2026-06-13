@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.2108
 longitude: 112.9792
+score: 6.8
 ---
 
 The Cathedral of the Immaculate Conception is an English Gothic Revival church in northern Changsha that serves as the cathedral of the Roman Catholic Archdiocese of Changsha. Built in the early twentieth century by French missionaries, the cathedral has the soaring nave and stone construction typical of the Gothic revival style: pointed arches, clerestory windows, and a tower visible from several streets away.

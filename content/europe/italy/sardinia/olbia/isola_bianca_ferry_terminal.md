@@ -7,6 +7,7 @@ tags:
 latitude: 40.9176
 longitude: 9.5300
 snippet: Olbia's main ferry port connecting Sardinia to mainland Italy
+score: 3.0
 ---
 
 The Isola Bianca terminal is Olbia's main ferry port, sitting on a small island connected to the city by a causeway about 2km from the city centre. Multiple ferry companies — Grimaldi, GNV, Tirrenia, and Corsica Sardinia Ferries — operate from here to Civitavecchia (near Rome), Genova, and Livorno. Crossing times range from about 6 hours on the fastest daytime services to 14 hours overnight.

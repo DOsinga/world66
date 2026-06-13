@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 39.942
 longitude: -74.073
+score: 7.8
 ---
 
 Seaside Heights is the definitive Jersey Shore boardwalk experience — amusement rides, arcade games, funnel cake stands, and the smell of sausage sandwiches frying in the salt air. The Casino Pier rides extend over the ocean, and the beach below is broad and crowded in summer. It is unabashedly commercial and proudly so, and the locals wouldn't have it any other way.

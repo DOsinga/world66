@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The killing of a young parishioner, Sebastião Gomes, by Indonesian troops on the grounds of Motael in October 1991 lit the fuse for the Santa Cruz massacre two weeks later. The bullet holes in the church wall were patched but not painted over."
+score: 7.2
 ---
 
 Motael is the oldest Catholic church in Timor-Leste, originally founded in 1877 and rebuilt several times since. The current cream-and-white facade dates from the 1950s, but the parish has been continuously active for nearly 150 years and remains the most prominent church in central Dili after the cathedral.

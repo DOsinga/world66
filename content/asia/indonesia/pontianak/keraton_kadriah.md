@@ -16,6 +16,7 @@ story: >
   itself comes from the Malay word for a female ghost.
 sources:
   - https://en.wikipedia.org/wiki/Pontianak
+score: 8.2
 ---
 
 The Keraton Kadriah is the palace of the Sultan of Pontianak, a modest yellow wooden structure sitting directly on the Kapuas riverbank. Built in 1771, it is one of the oldest surviving buildings in the city and contains the royal artefacts, regalia, and furniture of the Alkadrie sultanate.

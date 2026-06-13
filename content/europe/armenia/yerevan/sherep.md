@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 1 Amiryan Street
+score: 6.1
 ---
 
 An open-kitchen Armenian restaurant from the same group as Lavash, designed around five "live cooking islands" — bread, dumplings, grill, salads, and a soup station — with cooks working the food in front of guests. The format is part theatre, part canteen, with a long menu of regional dishes and a children's-friendly atmosphere.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.7006
 longitude: 51.4173
+score: 6.3
 ---
 
 Lalezar Street was once the Champs-Élysées of Tehran — lined with cabarets, cinemas, restaurants, and hotels in the Pahlavi era. Most of that has been replaced or closed, but a few restaurants on and around Lalezar survive from that period, serving classical Persian cooking in rooms that retain something of their 1960s atmosphere: white tablecloths, dark wood, and a clientele that includes elderly Tehranis who have been coming here for decades.

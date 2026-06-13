@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "The wild Atlantic tip of the peninsula — small coves, rocky headlands, and the lighthouse on Punta Cabicastro"
+score: 7.6
 ---
 
 The exposed Atlantic end of the O Grove peninsula, an 8-km drive south-west of the town centre. San Vicente do Mar is technically a separate village but is administratively part of O Grove, and the landscape is completely different from the sheltered harbour: open Atlantic, rocky headlands, **small sandy coves** tucked between cliffs, and pine woods running down to the water.

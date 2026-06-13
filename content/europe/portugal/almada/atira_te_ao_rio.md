@@ -8,6 +8,7 @@ tags:
   - cacilhas
 latitude: 38.6862
 longitude: -9.1499
+score: 6.3
 ---
 
 Atira-te ao Rio ("throw yourself into the river") occupies a converted riverfront building in Cacilhas with views across the Tagus to Lisbon — the terrace tables face the water and the frigate. The kitchen does traditional Portuguese cooking with good fish and meat options, but the location and the generous portions are as much of the appeal as the food itself. Arrive a little before noon or after 2pm to avoid the worst of the lunch rush; the place fills quickly with locals from the ferry.

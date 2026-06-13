@@ -5,6 +5,7 @@ tags:
 title: Sala Monsoon
 type: poi
 url: www.putahracsa.com
+score: 4.7
 ---
 
 An all day dining restaurant modern and stylish which offers a relaxed yet

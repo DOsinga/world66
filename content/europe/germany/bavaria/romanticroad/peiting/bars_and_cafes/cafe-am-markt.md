@@ -1,6 +1,7 @@
 ---
 title: "Café am Markt"
 type: poi
+score: 4.9
 ---
 
 A small café on or near Peiting's market square, Café am Markt serves the standard repertoire of Bavarian café culture: filter coffee and Milchkaffee, fresh-baked cakes from the local bakery, and in the morning a simple breakfast of bread rolls, cold cuts and jam. It is the kind of place where locals stop in for a mid-morning Pause with the newspaper rather than linger over laptops.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.6677
 longitude: -17.3978
+score: 5.6
 ---
 
 The small sandy beach on the protected eastern side of the island — facing the mainland — is busy with families and swimmers in the late afternoon. The water is calm, shallow, and considerably cleaner than the Dakar shoreline opposite, though it gets crowded.

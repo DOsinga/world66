@@ -9,6 +9,7 @@ latitude: 48.0022
 longitude: 0.2000
 sources:
   - https://en.wikipedia.org/wiki/Notre-Dame_de_la_Couture,_Le_Mans
+score: 7.3
 ---
 
 Notre-Dame de la Couture is the great church of the lower town, distinct in character from the cathedral on the hill above. Originally part of the Benedictine Abbey of Saint-Pierre de la Couture — one of the oldest monasteries in France, founded in the 6th century — the church has a striking mix of Romanesque and early Gothic architecture that predates much of the cathedral's construction.

@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Fuzhou Shizu Pepper Buns
 type: poi
+score: 6.7
 ---
 
 The single most famous food stall in Taipei's night-market scene: a tandoor-oven bun stall at the western entrance to Raohe Night Market, serving one product only. The **pepper bun** (hujiao bing) is a yeasted, sesame-topped flatbread stuffed with marinated beef and a great quantity of black pepper and chopped scallion, slapped to the inside wall of a charcoal tandoor and pulled out crackling.

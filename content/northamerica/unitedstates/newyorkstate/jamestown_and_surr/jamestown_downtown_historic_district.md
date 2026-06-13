@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 42.0964
 longitude: -79.2414
+score: 6.8
 ---
 
 The Jamestown Downtown Historic District covers roughly twenty blocks of late-19th and early-20th-century commercial buildings, listed on the National Register since 2015. The story is a familiar industrial-Rust Belt one: the city grew rich on furniture, voting machines, and textiles, lined the downtown with confident brick and stone facades, then lost most of its industry in the 1970s and spent decades looking for a second act.

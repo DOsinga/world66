@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.9656
 longitude: -83.9192
+score: 5.9
 ---
 
 Tupelo Honey is a Southern comfort food restaurant chain that originated in Asheville, North Carolina, and the Knoxville outpost on Market Square is one of the better places to eat downtown. The food is Southern brunch and lunch done well: shrimp and grits, fried chicken and waffles, sweet potato pancakes, country ham benedicts, and good biscuits.

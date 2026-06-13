@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 16.7500
 longitude: -62.2061
+score: 8.8
 ---
 
 The Centre Hills are the older, dormant volcanic massif that occupies the centre of the island, north of the active Soufrière Hills and south of the inhabited northern strip. The reserve is the last major intact rainforest on Montserrat, home to the critically endangered Montserrat oriole (the national bird, found nowhere else in the world) and a population of the endemic mountain chicken — a large frog that was almost wiped out by chytrid fungus in the early 2000s and is the subject of an active conservation programme.

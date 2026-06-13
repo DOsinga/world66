@@ -6,6 +6,7 @@ longitude: 14.2867
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The harbour is the busiest spot in town in summer. Pleasure boats and the steamer Trafik tie up at the quay; a row of timber buildings along the waterfront houses an ice-cream stand, a fish smokery, and a couple of restaurants with terraces. It is also the place to swim from the long jetty if the lake is warm enough.

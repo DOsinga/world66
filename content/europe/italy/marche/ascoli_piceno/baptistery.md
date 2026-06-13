@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: Octagonal Romanesque baptistery beside the cathedral
+score: 6.1
 ---
 
 The 12th-century baptistery sits beside the cathedral on Piazza Arringo, an octagonal Romanesque structure of plain travertine raised over an earlier Christian foundation. The exterior is sober and undecorated; the interior preserves an octagonal immersion font and traces of frescoes. Both are typical of Marche Romanesque at its most disciplined.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - pizza
+score: 6.1
 ---
 
 Half Full is a wood-fired pizza and small-plates restaurant on Second Street, named for what is presumably the cheerful traveller's view of a glass of wine. The pizzas are thin, blistered, and well-topped, and the small plates — burrata, charcuterie, a daily salad — work as a starter or a meal in themselves. The wine list is short and well-chosen.

@@ -18,6 +18,7 @@ story: >
   practical navigation infrastructure — appears to have disturbed nobody at the time.
 sources:
   - https://en.wikipedia.org/wiki/Collioure
+score: 7.5
 ---
 
 The Église Notre-Dame-des-Anges is the most-photographed image of Collioure: a pink-domed baroque church beside the harbour, its bell tower a converted medieval lighthouse rising directly from the water. The church was built in the 17th century in a baroque style that reflects the Spanish-Catalan culture of the region, with elaborate altar pieces inside painted by local artists of the period. The interior contains seven baroque altarpieces, the most important of which — a large triptych — is attributed to the Catalan artist Joseph Sunyer.

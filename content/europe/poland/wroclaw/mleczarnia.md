@@ -7,6 +7,7 @@ tags:
 latitude: 51.1119
 longitude: 17.0292
 address: "Włodkowica 5, 50-072 Wrocław"
+score: 6.4
 ---
 
 Tucked into a side-street courtyard in the Four Denominations Quarter, Mleczarnia is one of Wrocław's most-loved bars — a deliberately old-fashioned room of mismatched wooden tables, lace tablecloths, candles in bottles, and faded photographs on the walls. The drinks list is heavy on Polish wines, vodkas and craft beers; the food is good and inexpensive.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.8415
 longitude: 3.1149
 snippet: Water park with pools, slides, and a go-kart circuit on the edge of town
+score: 4.3
 ---
 
 Hidropark is a water park on the road between Puerto de Alcudia and the old town — easy to reach on foot or by bike if you are staying nearby. By the standards of the big resort water parks in Mallorca it is modest in scale, but it has enough slides and splash areas to satisfy a full afternoon, and the go-kart circuit makes it useful for older children who might otherwise find a water park limiting.

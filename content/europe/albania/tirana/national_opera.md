@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The national opera and ballet, founded in 1953, performs in the long, low socialist-modernist building that closes the western edge of Skanderbeg Square — the Palace of Culture. The building was constructed in the 1960s on the site of Tirana's old bazaar, demolished by the communist regime to make space.

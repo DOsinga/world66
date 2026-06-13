@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 5.3296
 longitude: 103.138
+score: 7.7
 ---
 
 The Pasar Besar Kedai Payang is Kuala Terengganu's main wet market and craft bazaar, a large covered complex near the riverfront. The lower floors handle the everyday wet market business — fish, vegetables, spices, and produce — while the upper floors are given over to batik fabric, brassware, songket woven cloth, keropok, and other Terengganu crafts and produce. It is the best single place in the city to buy local goods.

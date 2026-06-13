@@ -8,6 +8,7 @@ latitude: 54.3285
 longitude: -2.7430
 story: >
   The tapestry project began in 1981 when a 11-year-old named Michael Gawthorp, attending a Quaker meeting in Letchworth, asked his teacher if they could make embroideries like the ones he had seen at a cathedral. His teacher agreed, and the project grew into a collaborative artwork involving 4,000 people in 15 countries over 14 years.
+score: 8.1
 ---
 
 The Quaker Tapestry is a remarkable collaborative artwork: 77 embroidered panels depicting scenes from Quaker history, from the movement's founding in the 1650s to the present day. The work was created over 14 years by more than 4,000 volunteers in 15 countries, all working in the same embroidery style developed specifically for the project. It is displayed in the Friends Meeting House on Stramongate, the oldest purpose-built Quaker meeting house in England.

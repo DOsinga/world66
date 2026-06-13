@@ -10,6 +10,7 @@ tags:
   - historic
 story: >
   The tunnel was dug in near-total secrecy by citizens working in shifts, using hand tools, under a house in the suburb of Butmir. It took four months to complete in 1993. At its peak, over 3,000 people a day passed through — carrying weapons, food, fuel, medicines, and everything else the city needed. The UN controlled the airport above it and officially knew nothing.
+score: 9.0
 ---
 
 The Tunnel of Hope (Tunel spase) was dug in 1993, at the height of the Siege of Sarajevo, beneath the runway of Sarajevo airport. The 800-metre tunnel connected the besieged city to Bosnian-controlled territory — the only route in or out that wasn't under sniper or artillery fire. Through it flowed weapons, food, fuel, and medicine; through it moved wounded soldiers, escaping civilians, and foreign journalists who paid handsomely for the chance to enter or exit the city.

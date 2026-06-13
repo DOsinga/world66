@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.4612
 longitude: 20.5748
+score: 6.4
 ---
 
 Fiskardo's Byzantine Museum occupies a restored building near the harbour and houses finds from the area including Byzantine pottery, icons, and architectural fragments. It is small — an hour is plenty — but the collection is genuinely interesting, particularly the ceramics recovered from shipwrecks in the surrounding waters.

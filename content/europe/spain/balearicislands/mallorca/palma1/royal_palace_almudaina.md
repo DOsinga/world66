@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Royal_Palace_of_La_Almudaina
 story: >
   When the Spanish royal family visits Palma each July for their annual summer holidays, they stay here rather than in the Cathedral's shadow — making La Almudaina one of the few medieval palaces in Europe still regularly used by a reigning monarchy.
+score: 8.6
 ---
 
 The Almudaina Palace sits immediately beside the cathedral, its towers and battlements completing the great maritime facade of historic Palma. The building began as an Arab citadel — almudaina is an Arabized form of the Latin word for citadel — and was transformed by King James II of Mallorca in the late thirteenth century into a Gothic royal palace that combined Islamic spatial traditions with European Gothic stonework. The result is something genuinely unusual: pointed arches and Catalan Gothic vaulting wrapped around a courtyard that still feels partially Moorish.

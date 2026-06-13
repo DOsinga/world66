@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 8.1
 ---
 
 Pasar Atas, the "upper market", spreads down the slope from the clock tower square and is one of the liveliest markets in Sumatra. It runs every day but is at its most chaotic on Wednesdays and Saturdays — the traditional Minangkabau market days — when villagers from the surrounding highlands bring in produce, textiles, and livestock.

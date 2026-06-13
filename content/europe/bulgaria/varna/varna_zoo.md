@@ -7,6 +7,7 @@ tags:
   - sea_garden
 latitude: 43.2106
 longitude: 27.9371
+score: 4.4
 ---
 
 Varna's small zoo occupies a section of the Sea Garden and is primarily oriented toward families with children. The collection is modest by the standards of major European zoos — you'll find deer, monkeys, reptiles, birds of prey, and a handful of larger mammals — but the setting in the park makes for a pleasant few hours if you're travelling with young children who need a change of pace from museums and beaches.

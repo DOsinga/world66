@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 On the eastern slope of Sulaiman-Too sits a small 18th-century mausoleum traditionally said to hold the remains of Asaf-ibn-Burkhia, vizier and son-in-law of the prophet Sulaiman. Whether or not the historical attribution is sound, the structure is one of the more attractive on the mountain — a square brick base topped with a slightly conical dome and a few simple decorative bands.

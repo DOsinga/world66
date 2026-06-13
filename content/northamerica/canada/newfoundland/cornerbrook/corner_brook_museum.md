@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.9550
 longitude: -57.9450
+score: 6.5
 ---
 
 The Corner Brook Museum and Archives occupies a heritage building near the old railway precinct and does a decent job of covering the layers of the city's history. The pulp and paper industry that built modern Corner Brook gets its due, with machinery, photographs, and accounts of the mill workers who came from across Newfoundland and beyond to work here through the 20th century. Indigenous history — the Beothuk and Mi'kmaq peoples who lived in this part of the island — is covered alongside the European settlement story.

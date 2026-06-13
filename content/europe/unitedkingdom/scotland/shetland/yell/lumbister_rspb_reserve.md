@@ -8,6 +8,7 @@ tags:
 snippet: "Central moorland reserve with red-throated divers and Arctic skuas"
 latitude: 60.6333
 longitude: -1.1333
+score: 7.6
 ---
 
 Lumbister occupies a wide stretch of Yell's central peatland, and in June the reserve is at its most alive — alive in the way that exposed, treeless moorland is alive, which is to say quietly and with effort. The red-throated divers breed on the small lochans scattered through the bog, and their calls — a long, wavering wail that sounds like something between a wolf and a ghost — carry extraordinary distances across the flat landscape. Hearing one for the first time, across half a mile of empty peat, is one of those ornithological moments that stays with you.

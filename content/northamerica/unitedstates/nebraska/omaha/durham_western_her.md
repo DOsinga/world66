@@ -13,6 +13,7 @@ tags:
 title: Durham Museum
 type: poi
 url: www.durhammuseum.org
+score: 8.1
 ---
 
 Housed in the restored Art Deco Union Station, the Durham Museum covers Nebraska and Midwestern history through permanent exhibits including the Byron Reed coin collection and recreated train platforms. Travelling exhibits rotate through regularly. Worth spending two to three hours here.

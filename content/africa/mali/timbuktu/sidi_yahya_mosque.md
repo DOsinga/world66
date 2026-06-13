@@ -11,6 +11,7 @@ story: >
   end of the world. In 2012, Islamist militants who occupied the city forced the door
   open, apparently expecting treasure behind it. Locals said the desecration marked the
   beginning of misfortune for the occupiers; they were driven out within a year.
+score: 8.6
 ---
 
 The third of Timbuktu's UNESCO World Heritage mosques, built in 1400 and named for the city's patron saint, a Malian scholar of immense local reputation. Smaller and less visited than Djingareyber and Sankore, it sits in the heart of the old city and is the most intimate of the three.

@@ -6,6 +6,7 @@ tags: [things_to_do, sight]
 latitude: 43.3428
 longitude: 17.8042
 story: "The statue was conceived as a deliberately neutral hero everyone in divided Mostar — Bosniaks, Croats, Serbs — could agree on. It was vandalised the day after its 2005 unveiling and the original was eventually removed; a replacement now stands in Zrinjski Park."
+score: 5.7
 ---
 
 In a quiet corner of Zrinjski Park on the western, Croat-majority side of Mostar stands a life-size bronze statue of Bruce Lee in a fighting stance. It was unveiled in November 2005, a day before another Bruce Lee statue in Hong Kong, making Mostar briefly the world's only city with a Bruce Lee monument.

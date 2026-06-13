@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: -41.29
 longitude: 174.005
+score: 5.8
 ---
 
 The Picton Foreshore is the long curved promenade that runs from the ferry terminal around the eastern arm of the harbour. It's the social centre of the town — cafes and the i-Site visitor centre on one side, a wide grass reserve with pines and pohutukawa, then the harbour itself with the marina, the moored yachts and the ferry coming and going every couple of hours.

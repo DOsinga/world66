@@ -7,6 +7,7 @@ tags:
 latitude: 37.4525
 longitude: -122.178
 story: The Great Spirit Path is a mile-long trail through Mitchell Park that weaves through stone sculptures inspired by Native American pictographs, each illustrating a verse from a poem about the history and landscape of the Bay Area. The installation was created by artist Lewis deSoto and opened in 2004, funded partly through Menlo Park's public art programme. It is one of the more unusual public artworks on the peninsula — a meditative walk through landscape and language simultaneously.
+score: 6.8
 ---
 
 The Great Spirit Path is a public art installation integrated into the landscape of Mitchell Park in central Menlo Park. The trail follows a mile-long route through the park, passing a series of stone sculptures with carved imagery derived from Native American pictographic traditions, each keyed to verses of a longer poem inscribed along the path. The combination of the walking rhythm, the carved stones, and the text creates an experience closer to a meditation garden than a conventional public artwork.

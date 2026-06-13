@@ -9,6 +9,7 @@ tags:
 - shilin
 title: Shilin Official Residence
 type: poi
+score: 7.6
 ---
 
 For 25 years from 1950, the modest two-storey white villa at Shilin was the home of **Chiang Kai-shek** and his wife **Soong Mei-ling**. The grounds — opened to the public after Madame Chiang's death in 2003 — are some of the most attractive landscaped gardens in Taipei: a large rose garden (with Madame Chiang's named cultivars), a Chinese garden, a chapel, and the formal European-style park surrounding the house.

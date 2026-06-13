@@ -8,6 +8,7 @@ latitude: 35.4158
 longitude: 119.5271
 story: >
   The "eggshell" black pottery from the Longshan culture at Rizhao is astonishing even to archaeologists: walls just 0.2 millimeters thick — thinner than an eggshell — thrown without a wheel and fired to a uniform black gloss. How potters five thousand years ago achieved this has never been fully explained.
+score: 8.1
 ---
 
 The Rizhao Museum is the city's main repository for the extraordinary prehistoric heritage buried under the surrounding countryside. This part of coastal Shandong was the heartland of both the Dawenkou culture (5000–2500 BCE) and its successor the Longshan culture, and excavations across the region have yielded an exceptional collection of Neolithic artifacts.

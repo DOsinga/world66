@@ -8,6 +8,7 @@ tags:
   - sight
   - square
 story: "The square has been redesigned more than half a dozen times in a century. In the 2010s the architect Bujar Nrjaqi covered it with paving stones brought from every region of Albania and the Albanian diaspora — a deliberate political gesture to gather the nation symbolically on one plaza."
+score: 8.9
 ---
 
 Sheshi Skënderbej is the heart of Tirana, a wide pedestrian plaza covered in pale stone and ringed by the most important buildings in the country: the National History Museum, the Et'hem Bey Mosque, the Palace of Culture (housing the National Opera), the City Hall, and the National Bank. The slightly off-centre equestrian statue of Skanderbeg — Albania's fifteenth-century national hero — gives the square its name.

@@ -8,6 +8,7 @@ latitude: 39.9052
 longitude: 116.3873
 story: >
   The museum's collection includes bronze vessels from the Shang dynasty (c. 1600 BC) cast with some of the earliest examples of Chinese writing. One of them, the Simuwu ding — a massive bronze cauldron weighing 832 kg — is the largest known piece of ancient Chinese bronze casting and was used in ritual ceremonies more than three thousand years ago.
+score: 6.9
 ---
 
 The largest museum in the world by floor area, flanking the eastern side of Tiananmen Square. The permanent collection covers 5,000 years of Chinese history and civilisation, from Neolithic jade and oracle bones through Tang dynasty sculpture, Song ceramics, Ming furniture, and Qing imperial robes. The bronzes of the Shang and Zhou dynasties are exceptional; so is the jade collection and the painting and calligraphy galleries.

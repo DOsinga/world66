@@ -7,6 +7,7 @@ tags:
 latitude: 40.7940
 longitude: -77.8614
 snippet: A classic American diner open 24 hours on College Avenue — the default late-night option for generations of Penn State students.
+score: 6.6
 ---
 
 The Diner on College Avenue has been serving State College since 1934 and occupies the kind of comfortable, unimprovable niche that only very old diners manage. It is open 24 hours, 365 days a year, serves breakfast all day, and operates with the efficient warmth of a place that has fed millions of people and has no need to prove anything. On football weekends and during finals week it can be packed, but the line moves.

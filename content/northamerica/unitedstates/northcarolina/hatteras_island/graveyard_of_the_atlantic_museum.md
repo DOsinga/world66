@@ -12,6 +12,7 @@ story: >
   1942, was one of the first U-boats destroyed by the U.S. Navy in American
   waters — the sea floor off these shores holds the wreckage of dozens of
   Allied and Axis vessels from the Battle of the Atlantic.
+score: 7.9
 ---
 
 The Graveyard of the Atlantic Museum occupies a purpose-built building near the Hatteras ferry docks. Admission is free. The collection focuses on the maritime history of the Outer Banks, from 16th-century Spanish vessels through to 20th-century shipwrecks — well over 5,000 vessels have been lost in these waters, more than anywhere else on the East Coast.

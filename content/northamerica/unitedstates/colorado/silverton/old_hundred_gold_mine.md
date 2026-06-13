@@ -8,6 +8,7 @@ tags:
 - sight
 title: Old Hundred Gold Mine
 type: poi
+score: 7.8
 ---
 
 Old Hundred Gold Mine fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 27.7045
 longitude: 85.3067
+score: 7.0
 ---
 
 The Shiva-Parvati Temple stands on the north side of Durbar Square, its carved wooden windows particularly famous for the statues of Shiva and Parvati that lean out from the upper window and look down at the activity in the square below — a rare and intimate portrayal of divine domesticity in what is otherwise a world of formal iconography. The posture suggests a couple watching their neighbourhood from a window, which in a sense is exactly what they are doing.

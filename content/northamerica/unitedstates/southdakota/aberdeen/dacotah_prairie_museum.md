@@ -12,6 +12,7 @@ story: >
   hunting on five continents — a 1950s big-game trophy room transplanted
   whole into a county museum, complete with polar bear, lion, and
   African antelope.
+score: 8.3
 ---
 
 Free to enter and surprisingly substantial for a town this size, the Dacotah Prairie Museum runs three floors of exhibits on the natural and cultural history of the Northern Plains. Lakota and Dakota material occupies one wing, with beadwork, ceremonial objects, and contextual displays on the treaty history of the region. Another wing reconstructs homesteader life, including a one-room schoolhouse, sod-house interior, and railroad-era artefacts from the boom years that built Aberdeen.

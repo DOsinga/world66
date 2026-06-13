@@ -14,6 +14,7 @@ story: >
   religious conflicts in the 16th century and never rebuilt. Whether it truly constituted
   a "university" in the formal sense is debated by scholars, but it was certainly a
   significant centre of learning by the standards of its time and place.
+score: 7.6
 ---
 
 Teampull na Trionaid — the Temple of the Trinity — is a ruined medieval church complex on a small tidal island in North Uist, accessible via a causeway at low tide. The ruins date from the 13th century and are associated with the daughter of Somerled, the Viking-era ruler who dominated the western seaboard. Local tradition calls it the oldest university site in Scotland; what is certain is that it was a substantial ecclesiastical establishment that drew scholars from across the Hebrides and Ireland.

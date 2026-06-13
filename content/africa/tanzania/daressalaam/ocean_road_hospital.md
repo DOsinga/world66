@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Ocean Road Hospital
 type: poi
+score: 4.6
 ---
 
 The two pavilions of Ocean Road Hospital, with their red minaret-style domes and white wooden verandahs, are the most distinctive German colonial buildings left in Tanzania. They were completed in 1897 and 1903 as the European hospital of Deutsch-Ostafrika, designed in a self-consciously "Moorish" style to ease the local population's anxiety about hospitals. The plan worked: the buildings became a city symbol almost immediately.

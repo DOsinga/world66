@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Bandu Khan Restaurant
 type: poi
+score: 6.4
 ---
 
 A Lahore institution for several decades, Bandu Khan is best known for its smoky BBQ and rich karahi — the kind of place where the meat arrives on a skewer and the bread comes straight off the tandoor. The Main Boulevard branch is the most accessible. Best visited in the evening when the grills are at full heat.

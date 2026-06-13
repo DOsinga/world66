@@ -9,6 +9,7 @@ latitude: 57.1489
 longitude: -2.0972
 story: >
   Marischal College was founded in 1593 by the 5th Earl Marischal as a rival to the existing King's College in Old Aberdeen — making Aberdeen briefly the only city in the world with more universities than London. The two institutions merged to form the University of Aberdeen in 1860. The current neo-Gothic facade, completed in 1906, is the second-largest granite building in the world after El Escorial in Spain.
+score: 7.6
 ---
 
 The facade of Marischal College on Broad Street is one of Aberdeen's most dramatic sights — an intricate screen of perpendicular Gothic stonework in silver granite that catches the light in a way that plain granite walls do not. Built between 1891 and 1906 to designs by Alexander Marshall Mackenzie, it represents the peak ambition of Aberdeen's granite architecture.

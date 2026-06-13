@@ -10,6 +10,7 @@ tags:
 - jewish_quarter
 title: Apostolok
 type: poi
+score: 7.0
 ---
 
 A centrally located restaurant with an impressive church-like interior of stained glass and painted ceilings. The menu is traditional Hungarian, the portions are generous, and the atmosphere feels like stepping back a century. Popular with both tourists and locals, which is always a good sign.

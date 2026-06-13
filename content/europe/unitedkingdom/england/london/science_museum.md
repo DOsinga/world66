@@ -13,6 +13,7 @@ address: Exhibition Road, South Kensington, London SW7 2DD
 admission: Free (some special exhibitions and IMAX charged)
 opening_hours: Daily 10am-6pm
 url: www.sciencemuseum.org.uk
+score: 8.8
 ---
 
 A short walk along Exhibition Road from the Natural History Museum, the Science Museum holds the most important British collection of industrial, scientific, and medical objects. Stephenson's Rocket — the prototype steam locomotive from 1829 — sits in the Making the Modern World gallery alongside the Apollo 10 command module that flew around the Moon in 1969. The first computer (Babbage's Difference Engine No. 2), the first jet engine, and a slice of the Difference Engine programmed by Ada Lovelace are all here.

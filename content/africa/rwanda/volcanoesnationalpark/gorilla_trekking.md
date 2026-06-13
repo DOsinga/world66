@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Volcanoes_National_Park
 story: >
   Mountain gorillas were unknown to science until 1902, when a German officer shot two near the Virungas and brought their bodies back for examination. Within thirty years, trophy hunters had killed so many that the population crashed. Conservation efforts since the 1960s — particularly Dian Fossey's long battle against poachers from her research station above the park — reversed the decline. The mountain gorilla is the only great ape whose total wild population has actually increased in recent decades.
+score: 9.8
 ---
 
 Gorilla trekking in Volcanoes National Park is one of the great wildlife experiences on earth. The process is straightforward: report to park headquarters at Kinigi at 7am, receive your gorilla family assignment, drive or walk to the trailhead, hike through bamboo forest for anything from 30 minutes to four hours depending on where the gorillas have moved overnight, and spend one hour with the family once found. The hour passes very quickly.

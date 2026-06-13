@@ -6,6 +6,7 @@ latitude: 4.57142
 longitude: -75.65022
 snippet: Standout gold museum in a Rogelio Salmona building, the cultural highlight of the city
 story: The building, completed in 1986, won the Premio Nacional de Arquitectura and is widely considered Rogelio Salmona's small-format masterpiece. The collection includes the famous Poporo Quimbaya — a small lidded gold flask whose proportions are so finely judged that it has been used as a touchstone for pre-Columbian aesthetics.
+score: 8.9
 ---
 
 The single most rewarding thing to do in Armenia. The Quimbaya were the pre-Columbian peoples of the central Cordillera, and they were among the most accomplished gold-workers in the Americas. The museum holds several hundred of their finest pieces — funerary masks, pendants, the famous lime-flask poporos used with coca leaves, and a series of stylised human figures whose forms feel startlingly modern.

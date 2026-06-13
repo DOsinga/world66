@@ -9,6 +9,7 @@ tags:
   - restaurant
 neighbourhood: Ville Haute
 address: 32 Rue de l'Eau
+score: 6.4
 ---
 
 The reliable address for traditional Luxembourgish cooking in the heart of the old town. Located in a former tower near the Marché-aux-Poissons, it serves Judd mat Gaardebounen (the national dish — smoked pork collar with broad beans), Bouneschlupp (bean soup), and Kniddelen (suet dumplings) without irony or modernist garnish.

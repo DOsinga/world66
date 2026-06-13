@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -2.969
 longitude: 119.9
+score: 7.3
 ---
 
 The market at Rantepao operates on a six-day rotation, reaching its peak every sixth day when farmers and traders come in from across the highlands. On market day the town becomes very much alive: buffalo traders negotiate noisily in the livestock pens at the southern end, and vendors sell vegetables, textiles, local tobacco, and ceremonial goods from stalls arranged around the central square.

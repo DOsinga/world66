@@ -6,6 +6,7 @@ longitude: -80.4236
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The waters around Bahia de Caraquez are reliably productive for marine wildlife. Bottlenose dolphins are present year-round and regularly seen in the bay and estuary. From June to October, humpback whales migrate through these waters — they travel from Antarctic feeding grounds to breed in the warm Pacific waters off Ecuador, and the coast around Bahia is one of the better places to see them.

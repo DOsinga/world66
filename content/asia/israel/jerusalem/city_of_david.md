@@ -14,6 +14,7 @@ story: >
   building from around 900 BCE with remains of a pomegranate-shaped ivory scepter head
   — possibly from the First Temple period. The dig is active; visitors can watch
   archaeologists working in real time on some days.
+score: 8.9
 ---
 
 The oldest part of Jerusalem, predating the Old City walls by 3,000 years, where the Jebusite city captured by King David around 1000 BCE once stood. The archaeological park on the hill just south of the Dung Gate has layers upon layers: Canaanite houses, First Temple-period palaces, Hasmonean streets, Roman structures. The view from the top of the excavated area looking north toward the Temple Mount is one of the best orientation points in the city.

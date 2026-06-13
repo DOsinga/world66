@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: "Iconic neon arch over Virginia Street: 'The Biggest Little City in the World'"
 story: "The slogan 'The Biggest Little City in the World' was chosen in a 1929 contest with a prize of $100. The arch has been rebuilt three times since the original 1926 version; the current arch dates from 1987 and contains 800 feet of neon."
+score: 7.2
 ---
 
 The Reno Arch is the city's emblem — a steel and neon span across Virginia Street at Commercial Row carrying the famous slogan **"The Biggest Little City in the World"**. The first arch went up in 1926 to celebrate the completion of the Lincoln and Victory highways; the current version is the third major rebuild and dates from 1987.

@@ -14,6 +14,7 @@ story: >
   depend on her weekly runs for mail, food, and fuel. Passengers ride alongside the cargo,
   which is hoisted off the deck by a crane onto smaller boats when the water is too shallow
   to dock.
+score: 8.8
 ---
 
 The MV Uchuck III departs from the Gold River government wharf on scheduled runs to remote communities along Nootka Sound, roughly 7 kilometres down the Heber River from the village. She is a working cargo ship — freight, mail, and supplies for isolated communities — and also takes passengers, making her one of the few ways to reach Nootka Island without a private boat or floatplane.

@@ -6,6 +6,7 @@ longitude: -105.4405
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 YamBak is the craft beer bar in Sayulita, open until 3am and something of an institution among people who want to drink well after the restaurants close. The selection runs to local and regional Mexican craft beers alongside imports, with rotating taps that give regulars a reason to keep coming back. It functions as a bar rather than a restaurant, though bar snacks are available.

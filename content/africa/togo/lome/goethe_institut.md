@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.1320
 longitude: 1.2200
+score: 6.4
 ---
 
 The Goethe-Institut in Lomé occupies a low villa on Rue Aniko Palako in the centre of town. It runs a busy programme of film screenings, photography exhibitions, concerts and German classes — most of it free or low-cost — and is one of the most reliable places in the city to see contemporary Togolese visual art and live music in a comfortable setting. The garden cafe is a popular meeting place for the city's creative community.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 30.7352
 longitude: 79.0669
+score: 6.4
 ---
 
 The free community kitchen attached to the main temple, where simple vegetarian meals are served to pilgrims and visitors. The standard is rice, dal, vegetable curry, and roti, served on metal plates and eaten seated on the floor.

@@ -7,6 +7,7 @@ tags:
 latitude: 62.11222222222222
 longitude: -7.434722222222223
 story: "Until a tunnel opened in 2004, Gásadalur was one of the most isolated villages in the Faroes — accessible only by a steep mountain path or by helicopter. The path from Bøur was the only overland route. Now the village gets day visitors by car, but the hike remains the better way to arrive."
+score: 8.1
 ---
 
 A well-marked trail connects Bøur and Gásadalur, covering about 5 km each way over open moorland with significant elevation gain. The path climbs steeply out of Bøur, crosses a col with views back over Sørvágsfjørður and Tindhólmur, then descends to Gásadalur sitting above sea cliffs on the northwest tip of Vágoy.

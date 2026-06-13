@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 14.8195
 longitude: 120.1086
+score: 7.9
 ---
 
 Nagsasa Cove sits about two kilometres south of Anawangin along the same volcanic coastline, and for those who've visited Anawangin before, Nagsasa is the natural next step. The same ash-grey sand, the same agoho pine forest, and the same dramatic hillside backdrop — but the beach is wider, the cove is deeper, and there are typically fewer tents. A freshwater river flows into the cove at the north end, fed by springs from the Zambales Mountains.

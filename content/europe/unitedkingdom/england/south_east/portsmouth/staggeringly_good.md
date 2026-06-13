@@ -6,6 +6,7 @@ longitude: -1.0786
 tags:
   - bars_and_cafes
   - bar
+score: 5.6
 ---
 
 A craft brewery in a railway arch on Albert Road with a small taproom out front. The beers are inventive — sours, pastry stouts, hazy IPAs — and the taproom rotates a dozen on draft including some that don't make it out of the brewery.

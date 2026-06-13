@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Central square fronted by the parliament, cathedral, and downtown cafes
+score: 7.2
 ---
 
 Austurvöllur is the heart of central Reykjavik — a small green square fronted by the parliament, the cathedral, and a row of cafes and bars under the trees. The statue at its centre is of Jón Sigurðsson, the nineteenth-century leader of the Icelandic independence movement.

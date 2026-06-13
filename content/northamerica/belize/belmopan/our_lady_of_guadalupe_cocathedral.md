@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 17.248625
 longitude: -88.763594
+score: 5.6
 ---
 
 Belmopan's main Catholic church carries the status of co-cathedral — sharing episcopal rank with the cathedral in Belize City. The building is modern and functional, reflecting the planned-capital character of the town, but it is an active parish church with a steady congregation and one of the few buildings in Belmopan that draws people for reasons other than government business.

@@ -9,6 +9,7 @@ tags:
 latitude: 51.8855
 longitude: 0.9016
 snippet: Ruined Augustinian priory, first of its kind in England
+score: 8.0
 ---
 
 A short walk south of the town centre, the ruined nave of St Botolph's Priory rises out of the lawn behind a Georgian terrace. The priory was founded around 1100 and was the first Augustinian house established in England — the order would go on to found over 200 priories across the country. The west front, with its great Norman archway and tiers of round-headed window arches, gives a vivid sense of the building's original scale.

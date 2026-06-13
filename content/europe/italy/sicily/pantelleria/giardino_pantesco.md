@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The walled gardens are an extraordinary piece of low-tech climate engineering. The high circular stone wall keeps the salt wind off the citrus tree inside, and the porous lava traps and channels condensation from the morning fog so that the single tree at the heart of the garden never needs to be watered."
+score: 7.6
 ---
 
 A *giardino pantesco* is a circular stone wall, three to five metres high, built around a single fruit tree to shelter it from the salt-laden wind and to collect dew off the porous lava. They are found nowhere else on earth and are one of the most beautiful examples of agricultural adaptation in the Mediterranean.

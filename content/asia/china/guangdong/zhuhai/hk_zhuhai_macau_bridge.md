@@ -14,6 +14,7 @@ story: >
   long. In its first year of operation, it connected Zhuhai directly to
   Hong Kong for the first time, reducing a four-hour ferry journey to a
   40-minute bus ride.
+score: 6.5
 ---
 
 The Hong Kong-Zhuhai-Macau Bridge, opened in 2018, is the longest sea-crossing bridge-tunnel system in the world at 55 kilometres. Driving or taking a shuttle bus across the bridge is itself an experience: the Pearl River Estuary spreads out in every direction, with Lantau Island and the Hong Kong airport visible to the east and the Zhuhai coast behind. The bridge includes a tunnel section beneath a shipping channel, creating a technical feat that required years of construction and engineering work on a scale matched by very few infrastructure projects.

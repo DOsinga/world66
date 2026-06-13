@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.4073
 longitude: -1.4435
+score: 6.8
 ---
 
 The municipal museum is housed in the former hospital of San Antonio Abad, on the small Plaza de Santa María. It is a compact one-floor display of finds from the prehistoric, Iberian, Roman, and Moorish layers of Albarracín's history, with a particularly good section on the ceramic industry that flourished here in the 17th and 18th centuries.

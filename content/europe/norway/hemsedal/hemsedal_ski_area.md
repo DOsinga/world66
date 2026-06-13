@@ -13,6 +13,7 @@ story: >
   off-piste terrain has shaped the resort's design: there is more genuine
   black-run skiing here, relative to the total runs, than at most comparable
   European ski areas.
+score: 8.5
 ---
 
 Hemsedal's ski area covers 53 kilometres of groomed runs and a significant amount of off-piste terrain in the mountains above the resort. The 20 lifts serve terrain from gentle beginner slopes at valley level to demanding ridge runs above the treeline. The highest point of the ski area reaches 1,450 metres, and the vertical drop of about 800 metres is respectable for a Nordic resort.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.9136
 longitude: -103.5235
+score: 6.2
 ---
 
 The Cowboy Hall of Fame on Main Street takes a wide-angle view of plains culture: ranching, rodeo, Native American horse culture, and the lives of homesteaders and trick riders. The signature display is a life-size diorama of a Native American horseman, and the small movie theatre runs a short film on the impact of the horse on the Great Plains.

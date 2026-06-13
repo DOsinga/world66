@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2833
 longitude: 12.4000
+score: 7.1
 ---
 
 Civita Castellana sits on an isolated tufa plateau, and the gorge of the Rio Maggiore that carves around three sides of it is as much a defining feature of the town as any building. The ravine drops sharply from the plateau edge — in places 30 metres or more — and the tufa cliffs glow orange and ochre in afternoon light. Walking paths descend from the town into the gorge, where the vegetation is dense and the temperature noticeably cooler than above. The gorge provided the town's natural defence for millennia before any wall was built, and the Faliscans sited their city here precisely because the plateau was so easily held.

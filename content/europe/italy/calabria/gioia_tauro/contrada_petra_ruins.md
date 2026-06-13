@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 38.42
 longitude: 15.903
+score: 5.7
 ---
 
 In the contrada Petra area on the edge of Gioia Tauro lie the scattered remains of a Roman necropolis and a Roman villa, remnants of the ancient settlement of Metauros — a Greek city of Magna Graecia that later became a Roman town. The site is not formally excavated or presented, and what survives is fragmentary, but archaeologically significant.

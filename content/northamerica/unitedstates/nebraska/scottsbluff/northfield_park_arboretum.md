@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 41.835278
 longitude: -103.668611
+score: 4.8
 ---
 
 Northfield Park Arboretum in Gering, just across the river from Scottsbluff, is a green space with a collection of trees and shrubs demonstrating which species thrive in the challenging climate of the Nebraska Panhandle — hot summers, cold winters, limited rainfall, and fierce wind. The arboretum is part of the broader Northfield Park complex and makes a quiet contrast to the more visited sites around the national monument.

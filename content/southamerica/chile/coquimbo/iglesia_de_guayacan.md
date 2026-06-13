@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Iglesia de Guayacán
 type: poi
+score: 6.8
 ---
 
 Iglesia de Guayacán is one of Coquimbo's strangest and most charming historic buildings: a metal church in the old mining-and-port district of Guayacán. It reflects the industrial optimism of the 19th century more than the adobe-and-stone tradition of northern Chile.

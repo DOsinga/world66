@@ -8,6 +8,7 @@ tags:
 - sight
 title: Palau Guell
 type: poi
+score: 8.7
 ---
 
 Palau Guell was Antoni Gaudi's first major commission, built between 1886 and 1890 for his patron Eusebi Guell. It's a UNESCO World Heritage Site and one of the best places to see Gaudi's early style before the organic forms of his later work took over.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.7543
 longitude: -92.6323
+score: 7.1
 ---
 
 On the north edge of San Cristóbal, where the town gives way to forested hillside, the Orquídeas Moxviquil is a botanical garden and cloud forest reserve that makes for a good half-day escape from the cobblestones. The garden specialises in the orchids native to the Chiapas highlands — a remarkable collection, since cloud forest orchids are some of the most diverse and beautiful in the world.

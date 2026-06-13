@@ -13,6 +13,7 @@ story: >
   while travelling to a funeral in his home village. He was 32.
 sources:
   - https://fr.wikipedia.org/wiki/Samuel_Wanko
+score: 4.9
 ---
 
 The Monument Wanko stands at one of Bafoussam's central roundabouts as the city's most prominent public memorial. It commemorates Samuel Wanko (1925–1957), a locally born engineer and politician who drafted Bafoussam's first urban development plan and envisioned transforming it into a modern city. He built regional hospitals in Bafoussam and district hospitals in Dschang and Foumban before his assassination ended his career just months after his election to the territorial assembly.

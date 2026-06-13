@@ -12,6 +12,7 @@ story: >
   northern end. Fishermen from the village of Jingpohu Town have worked these
   waters for generations, and on weekday mornings in the off-season the lake
   there is as quiet as it was before tourism arrived.
+score: 7.1
 ---
 
 Jingpo Lake is 45 kilometres long but most visitors see only the northern end, near the waterfall and the main resort hotels. Boat tours from the lakeside hotels and from Jingpohu Town offer access to the quieter southern sections, where the forest comes down almost directly to the water and the reflections that gave the lake its name — Mirror Lake — are most likely to appear on calm mornings.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Aloha Tower
 type: poi
+score: 5.9
 ---
 
 The Aloha Tower was built in 1926 at Pier 9 of Honolulu Harbour as a lighthouse and landmark for arriving ships. For decades it was the first sight of Honolulu for passengers arriving by sea — the ten-storey tower, inscribed "ALOHA" on all four sides, greeted arrivals with lei sellers, hula dancers, and the Royal Hawaiian Band. At 56 metres it was briefly the tallest structure in Hawaii.

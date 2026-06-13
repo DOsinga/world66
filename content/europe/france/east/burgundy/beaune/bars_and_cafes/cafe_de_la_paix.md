@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.0245
 longitude: 4.8384
+score: 6.0
 ---
 
 The Café de la Paix occupies a corner of the central place Carnot and is the town's quintessential all-day café — croissants and coffee at 8am, salads at noon, pastis and a game of pétanque from 4pm. The outdoor terrace faces the market square and is the best place in town for watching Beaune go about its business.

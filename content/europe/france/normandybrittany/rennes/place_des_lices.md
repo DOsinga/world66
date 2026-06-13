@@ -12,6 +12,7 @@ story: >
   "les lices" was the term for the enclosed lists where tournaments were held. Rennes held its
   last tournament here in 1640. The 17th-century halle aux toiles (cloth halls) that still frame
   the square were built to replace the spectators' stands.
+score: 8.3
 ---
 
 Place des Lices is the historic heart of old Rennes, a large square flanked by a pair of handsome 17th-century market halls and ringed by medieval half-timbered buildings. On Saturday mornings, one of the largest weekly markets in France fills the square and spills into the surrounding streets — farmers, fishmongers, cheese sellers, butchers, creperies, and stalls selling Breton specialities from cider to charcuterie. If you are in Rennes on a Saturday, the market is unmissable.

@@ -6,6 +6,7 @@ longitude: 119.3890
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A short kilometre south of El Nido town, **Las Cabanas Beach** is the closest properly nice stretch of sand to the centre — a curve of white sand looking west across the Bacuit Bay, perfect for sunset. A row of beach bars (most famously the Maremegmeg and the Sava) sets up loungers and serves drinks until the last of the light goes.

@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: French-Icelandic bistro with all-day brunch, popular with locals
+score: 7.0
 ---
 
 Snaps is one of those rare Reykjavik restaurants that locals go to as much as tourists. The room is a bright glassed-in atrium with banquettes and bistro chairs; the menu is straightforward French — moules-frites, steak-frites, omelette aux fines herbes, eggs Benedict — with an Icelandic accent (a steak that may be horse, char instead of trout).

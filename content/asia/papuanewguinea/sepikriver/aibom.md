@@ -8,6 +8,7 @@ tags:
   - village
 latitude: -4.2748
 longitude: 143.2006
+score: 7.8
 ---
 
 Aibom is a small village on the southern edge of the Chambri Lakes whose clay banks have supplied cooking pots to the Sepik for centuries. The pots — fire-pots and large storage jars decorated with stylised faces and pointed ear-like handles — are made by the women, fired in open pits at the water's edge, and traded up and down the river in exchange for fish, sago, and tobacco.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 7.3
 ---
 
 The Salm is a fast-moving river that cuts through classic Ardennes terrain — beech and oak woodland on the valley sides, meadows by the water, and the occasional old stone bridge or mill. The valley around Vielsam is part of a broader network of GR long-distance walking trails that cross the Belgian Ardennes, and several marked day routes follow the river through the most scenic sections. In summer the valley paths are well maintained and the river is low enough to wade at points; in winter, after rain or snow, the Salm runs high and fast.

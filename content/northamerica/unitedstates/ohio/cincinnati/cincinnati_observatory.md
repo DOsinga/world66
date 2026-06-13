@@ -9,6 +9,7 @@ latitude: 39.1391
 longitude: -84.4226
 story: >
   The Cincinnati Observatory calls itself the "Birthplace of American Astronomy" — a claim rooted in the fact that Ormsby MacKnight Mitchel, who founded it in 1843, trained a generation of American astronomers here and popularised astronomy through public lectures at a time when most Americans had never looked through a telescope. He later became a Union general in the Civil War, which somewhat disrupted his astronomical career.
+score: 7.8
 ---
 
 The Cincinnati Observatory sits atop Mount Lookout in the eastern part of the city, housing two historic refractor telescopes — an 1843 Merz und Mahler instrument and a 1904 Alvan Clark & Sons telescope — that are still in working order and available for public viewing on clear evenings. The observatory runs public nights with guided stargazing and lectures throughout the year.

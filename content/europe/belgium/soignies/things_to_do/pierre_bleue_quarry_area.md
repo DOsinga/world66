@@ -8,6 +8,7 @@ latitude: 50.5650
 longitude: 4.0550
 sources:
   - https://en.wikipedia.org/wiki/Blue_stone_(Belgium)
+score: 7.2
 ---
 
 The Soignies region is the historic heart of Belgian pierre bleue production — a dense blue-grey limestone that has been quarried here since the Middle Ages and used in buildings across the country. Look at any grand civic building, cathedral floor, or cemetery in Belgium and there is a reasonable chance the stone came from within a few kilometres of where you are standing.

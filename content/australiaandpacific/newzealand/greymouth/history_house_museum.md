@@ -6,6 +6,7 @@ longitude: 171.2032
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The History House Museum, housed in the heritage-listed former council chambers on Gresson Street, is the local-history archive for Grey District. The collection runs heavily to mining — coal and gold — and to the boom-and-bust 19th-century rush that built (and emptied) most of the smaller West Coast towns.

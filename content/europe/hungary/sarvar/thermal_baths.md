@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.2560
 longitude: 16.9380
+score: 8.3
 ---
 
 The thermal bath complex is the main reason most Hungarians visit Sárvár. The mineral-rich water, which reaches the surface at around 80°C and is cooled before use, has been channelled here since the 1960s and now supplies an extensive complex of indoor and outdoor pools, wellness facilities and treatment baths. The water has a high sodium bicarbonate content and is used for locomotor ailments, though most visitors simply come to relax.

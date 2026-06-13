@@ -16,6 +16,7 @@ tags:
 - castle
 title: Predjama Castle
 type: poi
+score: 8.8
 ---
 
 Predjama Castle is built directly into the mouth of a 123-metre limestone cliff, making it one of the most dramatically situated castles in Europe. Behind the castle lies Erazmova Jama (Erasmus's Cave), a four-level cave system through which the Lokva river flows. The castle is embedded in the entrance to the cave's middle level. A secret passage from the top level once connected the castle to the plateau above — today it is blocked by rockfall.

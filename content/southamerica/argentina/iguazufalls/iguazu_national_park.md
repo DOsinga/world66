@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 67,000-hectare UNESCO-listed park protecting the Argentinian side of the falls
+score: 9.7
 ---
 
 Parque Nacional Iguazú covers 67,000 hectares of subtropical forest on the Argentinian side of the river, designated a UNESCO World Heritage Site in 1984. The park is much more than its waterfalls: it preserves one of the last big tracts of Atlantic Forest, with jaguars, tapirs, and around 400 bird species recorded.

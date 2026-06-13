@@ -13,6 +13,7 @@ tags:
 title: Metro
 type: poi
 url: www.metrochicago.com
+score: 7.6
 ---
 
 A Chicago institution since 1982. This 1,100-capacity venue in Wrigleyville has launched careers -- the Smashing Pumpkins and Ministry both played their early shows here. The sound is excellent for a room this size, and the booking is consistently strong across genres. The smaller Smart Bar in the basement hosts DJ nights.

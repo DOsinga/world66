@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5703
 longitude: -5.3640
+score: 7.5
 ---
 
 The Musée Ethnographique sits just inside Bab el-Okla, the eastern gate of the medina, housed in a former bastion of the city wall. The displays cover Tetouani domestic life — embroidery, jewellery, costume, ceramics — with a particular emphasis on the Andalusian-Jewish tradition that shaped the city's craftwork after 1492.

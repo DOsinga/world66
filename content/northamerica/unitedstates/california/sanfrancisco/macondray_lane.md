@@ -10,6 +10,7 @@ tags:
 title: Macondray Lane
 neighbourhood: Russian Hill
 type: poi
+score: 8.0
 ---
 
 Macondray Lane is a hidden pedestrian path on Russian Hill that feels like a secret garden in the middle of the city. Wooden steps descend from Taylor Street through a wooded canopy of trees and lush plantings, with glimpses of the Bay and Alcatraz through the branches. It is two blocks long and utterly charming.

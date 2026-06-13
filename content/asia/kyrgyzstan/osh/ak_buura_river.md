@@ -6,6 +6,7 @@ longitude: 72.7970
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The Ak-Buura runs the length of the city, separating the modern centre from the Uzbek mahallas. Its name means "White Camel" in Kyrgyz, and the water is fast, cold and milky with glacial silt for most of the year.

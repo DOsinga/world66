@@ -11,6 +11,7 @@ tags:
 tel: 535 5161
 title: Club Reef
 type: poi
+score: 4.6
 ---
 
 Club Reef is a nightlife spot on Olavinkatu, Savonlinna's main street. It draws a mix of locals and summer visitors with DJ sets and current hits. During the opera festival in July, the place fills up fast — arrive early if you want to avoid a queue.

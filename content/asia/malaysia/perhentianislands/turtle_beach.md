@@ -13,6 +13,7 @@ story: >
   so accustomed to human presence that they often continue feeding on seagrass while
   swimmers hover a few metres away — a reminder that calm, non-intrusive watching is
   both the ethical and the most rewarding approach.
+score: 6.9
 ---
 
 Turtle Beach on Pulau Perhentian Besar is one of several sites around the islands where green turtles nest between March and October. The beach itself is a short boat ride from the main Besar resort area, and snorkelling offshore regularly turns up turtles feeding on seagrass beds. The turtles at the Perhentians have become somewhat habituated to visitors, which makes encounters more likely but also requires that snorkellers keep their distance and avoid touching them.

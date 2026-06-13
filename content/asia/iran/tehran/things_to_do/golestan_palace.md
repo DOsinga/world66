@@ -9,6 +9,7 @@ latitude: 35.6797
 longitude: 51.4203
 story: >
   The Hall of Mirrors (*Talar-e Aineh*) in Golestan was where every Qajar and Pahlavi Shah held their coronation until 1979. The last coronation here was Mohammad Reza Shah's in 1967 — a ceremony that lasted three hours and was watched by 130 invited foreign dignitaries. The hall's 18th-century Belgian mirror work reflects any light source into a thousand fragments, turning a single candle into an explosion of stars. It has not been used for a state ceremony since.
+score: 9.2
 ---
 
 Golestan Palace is the finest historic building in Tehran and the finest example of Qajar-era Persian architecture in the country. The complex — a UNESCO World Heritage Site since 2013 — consists of a walled garden and 17 structures built over 131 years of Qajar rule (1794–1925), ranging from the intimate mirrored halls of the inner palace to the ornate tiled exterior of the Marble Throne.

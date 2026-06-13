@@ -8,6 +8,7 @@ tags:
   - history
 latitude: -4.8783
 longitude: 29.6291
+score: 7.4
 ---
 
 The German colonial railway station at Kigoma is one of the country's most attractive small pieces of colonial architecture: a low whitewashed building with deep verandas, completed in 1914 just before the First World War cut the line off from its German operators. The Central Line from Dar es Salaam took years to build and was the longest railway in German East Africa; its terminus here at Kigoma was meant to bring the lake — and the colonies beyond it — into the German empire's economic orbit.

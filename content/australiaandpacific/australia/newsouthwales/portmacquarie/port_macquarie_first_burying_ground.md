@@ -13,6 +13,7 @@ story: >
   The cemetery was closed in 1841 when it filled up, and for decades the graves were neglected and overgrown.
   A local history group in the 1960s spent years clearing the site and documenting the inscriptions before many more were lost.
   Some of the most legible stones mark convicts whose names had been entirely absent from the official records.
+score: 7.3
 ---
 
 Port Macquarie's first burying ground was established when the penal settlement was founded in 1821 and used until 1841. It is now a small public park on Clarence Street, with surviving headstones from the colonial era still standing among the grass. The inscriptions cover convicts, military officers, their families, and some of the earliest free settlers to reach this part of the coast.

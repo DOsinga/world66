@@ -7,6 +7,7 @@ tags:
 latitude: 43.3213
 longitude: -79.7989
 snippet: "Canada's largest free music festival, two weeks in early June"
+score: 7.0
 ---
 
 The Sound of Music Festival is the country's largest free admission music festival, running for roughly two weeks each June with concerts spread across Spencer Smith Park and other downtown venues. Headliners on the main stage span Canadian and American touring acts — past lineups have included Tegan and Sara, Sam Roberts, the Beach Boys and Sloan — and most of the supporting stages are dedicated to emerging local acts.

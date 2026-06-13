@@ -7,6 +7,7 @@ tags:
 latitude: 43.7906
 longitude: 7.6098
 snippet: Honest trattorias and focaccia bakeries in the flat new town near the station
+score: 5.7
 ---
 
 The new town around the station and the seafront has a good density of no-frills trattorias and panifici (bakeries) catering to locals, railway workers, and French day-trippers looking for a quick lunch. The thing to eat is focaccia — Ligurian focaccia is nothing like the thick slab you get in most of Italy; it is thin, oily, salted, and either plain or topped with olives, rosemary, or onions. Focaccia al formaggio, the cheese-stuffed version from Recco, often appears on menus here. Pick it up warm from a bakery for a few euros.

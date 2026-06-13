@@ -7,6 +7,7 @@ tags:
 latitude: 18.425514
 longitude: -67.154501
 story: "The building was constructed in 1925 as the District Courthouse for the Aguadilla judicial district, with the neoclassical proportions and heavy masonry that the colonial administration favoured for official buildings. It served as a courthouse for decades before the judicial functions moved elsewhere and the building was repurposed as a cultural space."
+score: 6.8
 ---
 
 The Museo de Arte de Aguadilla occupies the handsome 1925 District Courthouse, a neoclassical building that has aged well and now serves a more pleasant function than its original one. The museum focuses on Puerto Rican art, with rotating exhibitions drawn from local and island-wide artists. The permanent collection includes paintings, sculpture, and craft work that gives a reasonable cross-section of contemporary Puerto Rican visual culture.

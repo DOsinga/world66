@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Working fishing port and ferry terminal at the western end of the West Highland Line
+score: 7.4
 ---
 
 Mallaig harbour was rebuilt in the late 19th century to serve a herring fleet that, at its peak, made the village one of the most important fish-landing ports in Europe. The herring are largely gone, but prawns and langoustines still come in by the boxload, and the rusted, working feel of the quayside is part of the appeal. CalMac ferries to Armadale on Skye nudge in beside Cromarty trawlers; smaller boats run out to the Small Isles, Inverie, and Loch Coruisk.

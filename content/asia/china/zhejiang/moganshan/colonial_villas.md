@@ -9,6 +9,7 @@ latitude: 30.6305
 longitude: 119.8260
 story: >
   Moganshan's villas attracted some notable summer residents in the early twentieth century. Chiang Kai-shek and his wife Soong Mei-ling were regular guests, and the villa they stayed in — Villa 1 — is now a small museum. Du Yuesheng, the Shanghai gangster who effectively ran the city's criminal underworld in the 1930s, also maintained a Moganshan retreat.
+score: 8.8
 ---
 
 The defining character of Moganshan is its colonial-era architecture: over 200 stone villas built by foreign missionaries, merchants, and diplomats from the 1890s onward who sought relief from Shanghai's summer heat on this cool forested ridge. The buildings use local granite and tile in a hybrid style that blends Arts and Crafts English country house with Chinese hill-station practicality — deep verandas, solid walls, steep rooflines to shed the heavy fog-rain. Many survive in good condition and have been converted into boutique hotels and guesthouses.

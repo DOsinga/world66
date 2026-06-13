@@ -13,6 +13,7 @@ story: >
   underfoot. Eight climbers died in a single summer in 1965; the National Park
   Service still maintains a sign at the trailhead listing the names of more
   recent fatalities.
+score: 9.5
 ---
 
 The twin peaks of Maroon Peak (4,317 m) and North Maroon Peak (4,275 m) rise above Maroon Lake about 16 km southwest of Snowmass Village, in the Maroon Bells–Snowmass Wilderness. The view across the lake to the maroon-coloured stone of the mountains, framed by aspen groves that go gold in late September, is one of the most reproduced images in North American mountain photography.

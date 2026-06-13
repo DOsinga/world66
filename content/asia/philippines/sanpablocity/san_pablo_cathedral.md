@@ -8,6 +8,7 @@ tags:
 snippet: Colonial-era cathedral at the heart of the city plaza
 latitude: 14.0685
 longitude: 121.3220
+score: 7.6
 ---
 
 The San Pablo Cathedral — formally the Parish of Saint Paul the First Hermit — anchors the city centre at the main plaza. The current structure dates to the Spanish colonial period and was rebuilt and expanded over several centuries. The thick stone walls and bellower are the most visually striking features, and the interior contains colonial-era religious artworks and altarpieces.

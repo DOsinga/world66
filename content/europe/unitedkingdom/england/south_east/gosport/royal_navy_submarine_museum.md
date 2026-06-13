@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Royal_Navy_Submarine_Museum
 story: >
   The museum's centrepiece is HMS Alliance, a World War II-era A-class submarine that never fired a shot in anger but spent twenty-eight years on active service. Getting aboard means ducking through hatches barely wider than your shoulders, and the sheer claustrophobia of the control room — where dozens of men lived and worked for weeks at a time — is something no amount of description prepares you for.
+score: 9.0
 ---
 
 The Royal Navy Submarine Museum on Haslar Creek is one of the best museums of its kind in the world, tracing the history of submarine warfare from its earliest experiments to the nuclear age. The centrepiece is HMS Alliance (P417), a fully preserved A-class submarine laid down in 1944 and completed in 1947, which visitors can board and explore in remarkable detail.

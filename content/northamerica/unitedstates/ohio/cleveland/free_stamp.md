@@ -15,6 +15,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Free Stamp is a 28-foot-tall steel sculpture by Claes Oldenburg and Coosje van Bruggen, depicting an outsized office rubber stamp tipped onto its side in a small downtown park. The underside reads, simply, FREE.

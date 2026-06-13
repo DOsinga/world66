@@ -7,6 +7,7 @@ tags:
 address: "801 Red River St"
 latitude: 30.2680
 longitude: -97.7362
+score: 7.8
 ---
 
 Stubb's is an outdoor amphitheatre and barbecue restaurant on Red River Street that has been one of Austin's premier music venues since the 1970s. The outdoor stage, built in a natural limestone bowl that holds about 2,750 people, has hosted nearly every significant touring act that comes through Austin, along with the free "Gospel Brunch" shows on Sunday mornings that are a beloved Austin institution.

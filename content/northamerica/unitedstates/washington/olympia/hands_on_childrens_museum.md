@@ -7,6 +7,7 @@ tags:
 title: Hands On Children's Museum
 type: poi
 snippet: One of the best children's museums in the Pacific Northwest
+score: 6.6
 ---
 
 A large, busy children's museum on the East Bay waterfront that consistently ranks among the best of its kind in the country. Eight indoor galleries cover everything from a working art studio to a salmon-life-cycle climber to a small-scale grocery store and waterworks tables — and the outdoor area includes a forest play space, climbing structures and a small fishing dock on Budd Inlet.

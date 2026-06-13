@@ -9,6 +9,7 @@ latitude: 19.6170
 longitude: 110.7551
 story: >
   The temple was built in 1027 CE during the Song dynasty and has been rebuilt and expanded several times since, but portions of the current structure date to the Ming period. During the Cultural Revolution it was used as a grain store, which may have saved it from the destruction that visited temples elsewhere — grain was too valuable to move and the building too useful to demolish.
+score: 8.5
 ---
 
 The Wenchang Confucius Temple, established in the 11th century, is among the oldest and best-preserved buildings in Hainan. The main hall stands at the end of a long ceremonial axis flanked by old banyan trees, and the complex includes a number of subsidiary buildings — libraries, ceremonial gates, study halls — that together give a sense of how a classical Chinese centre of learning operated.

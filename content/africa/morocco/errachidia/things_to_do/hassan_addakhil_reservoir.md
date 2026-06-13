@@ -8,6 +8,7 @@ tags:
 latitude: 32.0900
 longitude: -4.4000
 story: "The dam was built in the 1970s to regulate the Ziz River, which until then flooded the palmery unpredictably every spring. The reservoir is named after a Berber chieftain who resisted the Arab invasion in the 7th century — an unusual choice that reflects the Tamazight pride of the region."
+score: 6.8
 ---
 
 A few kilometres north of Errachidia on the N13, the Hassan Addakhil dam backs up the Ziz River into a long blue reservoir flanked by bare red mountains. The contrast between the water and the arid landscape around it is striking. A viewpoint on the road above the dam wall gives the best perspective.

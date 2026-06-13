@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Bhutan's national collection housed in the Ta Dzong watchtower above Rinpung Dzong
+score: 8.1
 ---
 
 The National Museum occupies the Ta Dzong, a circular 17th-century watchtower built to defend the valley from Tibetan invaders. The conical building is itself the museum's most striking object: thick stone walls, narrow slit windows, and a spiral interior that climbs through six floors. The collection covers Bhutanese painting and textiles, religious art (including a notable set of thangkas), masks used in the cham dances at tsechu festivals, ancient weapons and armour, and the country's natural history.

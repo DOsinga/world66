@@ -8,6 +8,7 @@ tags:
 - monument
 - day_trips
 snippet: "Largest German military cemetery in the Verdun area — 11,000 graves"
+score: 6.7
 ---
 
 The German cemetery at Consenvoye holds over 11,000 German soldiers killed in the 1916–17 battles around Verdun. It is the largest of the German military cemeteries in the region — the dark stone crosses, four to a marker, lie in shadowed lines under tall trees.

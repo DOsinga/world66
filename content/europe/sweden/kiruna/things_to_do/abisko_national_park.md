@@ -8,6 +8,7 @@ latitude: 68.3167
 longitude: 18.6833
 sources:
   - https://en.wikipedia.org/wiki/Abisko_National_Park
+score: 9.5
 ---
 
 Abisko National Park, about 90 kilometres west of Kiruna on the E10, is one of Sweden's most accessible Arctic wilderness areas. Established in 1909, it sits on the southern shore of Lake Torneträsk — one of Sweden's largest lakes — and stretches up into the mountains along the Norwegian border. The park is well-known for its unusually stable weather: a peculiarity of its position in the mountains' rain shadow means it sees more clear skies than anywhere else in the region, making it the most reliable spot in Sweden for Northern Lights viewing.

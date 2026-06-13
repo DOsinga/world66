@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cardiff_Castle
 story: >
   The third Marquess of Bute was one of the richest men on earth when he commissioned William Burges to transform Cardiff Castle in the 1860s. Burges, a passionate medievalist, covered every surface in gilded carvings, painted ceilings and stained glass — rooms so lavish that they had no rival in Victorian Britain. The two men never actually lived in the result; Bute used it mainly for entertaining and the Marquess's eccentric genius is still the dominant presence in every room.
+score: 8.9
 ---
 
 Cardiff Castle sits at the heart of the city, a layered history made physical: Roman fort, Norman keep and Victorian Gothic fantasy all on the same footprint. The Roman walls are still visible around the perimeter, dating to around 55 AD when this was a garrison protecting the crossing of the River Taff. The square Norman keep in the centre of the grounds was raised in the 11th century and offers views across the city from its top.

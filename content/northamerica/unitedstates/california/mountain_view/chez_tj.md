@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.3947
 longitude: -122.0804
+score: 6.8
 ---
 
 Chez TJ is the most serious restaurant in Mountain View and one of the more interesting fine-dining rooms in the Bay Area. Housed in a Victorian cottage on Castro Street, it serves a prix-fixe tasting menu that runs to eight courses or so, with an emphasis on French technique applied to local California produce. The wine list is well-considered and the service is attentive without being stiff.

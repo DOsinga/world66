@@ -9,6 +9,7 @@ tags:
   - sight
   - uzupis
 neighbourhood: Užupis
+score: 5.7
 ---
 
 The small bronze mermaid sitting on the Vilnia riverbank near the Užupio Kavinė has become the unofficial symbol of the Republic of Užupis. She looks out over the water with an expression that is ambiguous enough to mean anything — serene, melancholy, mildly amused. The sculptor, Romas Vilčiauskas, placed her here in 2001.

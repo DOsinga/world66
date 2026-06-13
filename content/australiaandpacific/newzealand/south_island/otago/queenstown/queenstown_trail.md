@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: 130-km mountain bike trail network around the basin
+score: 8.8
 ---
 
 The Queenstown Trail is a 130-kilometre network of mostly off-road cycle paths threading the Wakatipu basin, opened in 2012 as part of the New Zealand Cycle Trail. The signature stretches link Queenstown to Arrowtown along the Shotover and Arrow Rivers, with suspension bridges, river crossings, and views back to the Remarkables most of the way.

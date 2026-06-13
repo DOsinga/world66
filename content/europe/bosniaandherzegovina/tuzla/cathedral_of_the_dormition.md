@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.53778
 longitude: 18.68000
+score: 5.8
 ---
 
 The Cathedral of the Dormition of the Theotokos is Tuzla's Serbian Orthodox cathedral, a relatively recent building (completed in the 20th century) but with a classical Orthodox architectural character that stands in interesting contrast to the Ottoman mosques nearby. The cathedral is the main Orthodox place of worship for Tuzla's Serbian community.

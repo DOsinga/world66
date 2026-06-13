@@ -8,6 +8,7 @@ latitude: 47.5556
 longitude: 12.2167
 story: >
   The name Wilder Kaiser — Wild Emperor — is said to derive from a medieval legend in which an emperor and his court were turned to stone for their arrogance, their frozen forms becoming the jagged peaks that dominate the skyline. The neighbouring, gentler range is called the Zahmer Kaiser: the Tame Emperor.
+score: 8.6
 ---
 
 The Wilder Kaiser range — a jagged wall of limestone peaks rising south of Kufstein — is one of the most dramatic mountain landscapes in Tyrol. The tallest summit, the Ellmauer Halt, reaches 2,344 metres and draws serious climbers, but there are routes for every level. The Kufsteiner Klettersteig (via ferrata) is a popular intermediate challenge with fixed cables and ladders.

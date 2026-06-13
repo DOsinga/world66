@@ -11,6 +11,7 @@ story: >
   1492, the last fresh water the fleet would take on before crossing the Atlantic. The well has
   been used continuously since the 15th century; it still holds water today, though the town
   now has a modern supply.
+score: 6.4
 ---
 
 El Pozo de la Aguada — the Well of Watering — is a simple stone well in a small courtyard near the waterfront, easy to miss if you don't know to look for it. It marks the spot where Columbus's fleet filled its water barrels before setting out westward in September 1492, and its historical significance far outweighs its modest appearance.

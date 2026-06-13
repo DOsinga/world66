@@ -10,6 +10,7 @@ tags:
 - cafe
 title: Absolute Cafe
 type: poi
+score: 3.9
 ---
 
 A no-frills pub on Jalan Jaksa with a free 9ft pool table, big-screen TV showing live sports, and budget-priced beers. Good pub food. Open from 4:00 PM until late.

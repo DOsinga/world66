@@ -1,6 +1,7 @@
 ---
 title: Tea houses
 type: poi
+score: 5.8
 ---
 
 The traditional Tunisian tea house — café maure — is a fixture of every town in the south. Mint tea is served sweet and poured from a height to create a froth; pine nuts float on top. The ritual is unhurried. Several tea houses operate around the central square in Ghomrassen, and they are open from early morning until late evening.

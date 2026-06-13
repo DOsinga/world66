@@ -5,6 +5,7 @@ snippet: A small museum in the old market building, with local history and revol
 tags: [things_to_do, sight, museum]
 latitude: 18.3923
 longitude: -88.3960
+score: 6.8
 ---
 
 Housed in the old market building on the seafront — an iron-roofed wooden structure dating from 1886 and one of the few colonial buildings in Corozal to survive Hurricane Janet in 1955 — the House of Culture serves as a small community museum and cultural centre.

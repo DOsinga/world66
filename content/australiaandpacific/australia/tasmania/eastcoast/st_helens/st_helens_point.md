@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beaches
+score: 7.0
 ---
 
 St Helens Point is the long sandy headland that closes off Georges Bay from the open sea, 6 km east of town. The conservation area covers around 600 hectares of coastal scrub, lagoons, and beach, with a dirt road running out to a viewing area at the tip.

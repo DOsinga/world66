@@ -9,6 +9,7 @@ tags:
   - architecture
   - kentron
 neighbourhood: Kentron
+score: 8.0
 ---
 
 The Alexander Spendiaryan Opera and Ballet Theatre is the cultural heart of Yerevan, an enormous tufa-faced rotunda designed by Alexander Tamanian and built between 1933 and 1953. The building actually contains two halls back-to-back — a 1,400-seat opera house on one side and the 1,200-seat Aram Khachaturian Concert Hall on the other — wrapped around a central kitchen of stairwells and foyers.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.5197
 longitude: -48.5085
+score: 8.1
 ---
 
 The historic centre of Paranaguá sits between the waterfront and a low rise of streets stepping inland. Founded in 1648, it is one of the oldest Portuguese settlements in southern Brazil, and the colonial street grid is still intact: narrow stone-paved lanes lined with low pastel-coloured houses, the occasional palm tree leaning over a wall, and the towers of half a dozen 18th-century churches breaking the skyline.

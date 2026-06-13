@@ -7,6 +7,7 @@ tags:
 - sight
 title: Clube do Comércio
 type: poi
+score: 7.2
 ---
 
 The Clube do Comércio is one of the most ornate buildings in Porto Alegre's Centro Histórico: a mid-19th-century social club building whose eclectic facade — a mixture of neoclassical and baroque elements, heavily decorated with pilasters and mouldings — stands out dramatically among the more restrained commercial buildings around it. The club was founded in 1858 by Porto Alegre's merchant class, who needed a proper venue for their dinners, dances, and social dealings; the building was completed a few years later and has been serving the same function, with modifications, ever since.

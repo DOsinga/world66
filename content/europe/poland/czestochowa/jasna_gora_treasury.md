@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.8125
 longitude: 19.0972
+score: 7.8
 ---
 
 The treasury at Jasna Góra holds six centuries of gifts from pilgrims and patrons, making it one of the richest ecclesiastical collections in Poland. The most striking pieces are the votive crowns and robes donated for the Black Madonna icon over the centuries, each reflecting the craftsmanship of its era. John Paul II's white papal cassock and the vestments he wore during his visits to Częstochowa have a prominent place.

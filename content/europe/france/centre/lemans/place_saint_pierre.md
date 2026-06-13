@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.0062
 longitude: 0.1988
+score: 6.9
 ---
 
 Place Saint-Pierre sits at the foot of the cathedral hill and marks the transition between the Cité Plantagenêt and the lower new town. The square and the streets immediately above it contain some of the finest Renaissance architecture in the Sarthe — stone-fronted mansions built by wealthy merchants and clergy in the 16th century, their facades carved with pilasters, medallions, and portrait busts in the French Renaissance manner.

@@ -8,6 +8,7 @@ latitude: -28.7497
 longitude: 24.7800
 story: >
   During the Siege of Kimberley in 1899–1900, Cecil Rhodes commandeered the building — then a luxury hotel and sanatorium — as the British headquarters. Rhodes directed the defence of the city from here for 124 days while Boer forces surrounded it, and the grand dining room became his command centre for one of the most dramatic sieges of the Anglo-Boer War.
+score: 8.1
 ---
 
 The McGregor Museum is the principal natural and cultural history museum of the Northern Cape, housed in a grand colonial building that began life as a luxury hotel in the 1890s. The collections cover the geology and palaeontology of the Karoo, the archaeology and history of the Griqua people, the Anglo-Boer War, and the natural history of the region's arid landscapes.

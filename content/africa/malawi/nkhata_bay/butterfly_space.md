@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -11.6019
 longitude: 34.3017
+score: 5.5
 ---
 
 Butterfly Space is a small lodge and community project on the north side of the bay, set up by a Malawian-British couple in 2008. Beyond the bandas and the lakefront bar, it runs a programme of volunteer-supported work with local children — homework clubs, art classes, sports, a basic library — that gives travellers a useful way to spend time if they end up staying longer than planned.

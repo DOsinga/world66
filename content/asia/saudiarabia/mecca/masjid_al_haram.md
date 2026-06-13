@@ -11,6 +11,7 @@ story: "The Grand Mosque has been massively expanded since Saudi Arabia took con
 sources:
   - https://en.wikipedia.org/wiki/Masjid_al-Haram
   - https://en.wikipedia.org/wiki/Grand_Mosque_seizure
+score: 9.8
 ---
 
 The Masjid al-Haram — the Grand Mosque or Sacred Mosque — is the largest mosque in the world and the centre of Islam's holiest site. It surrounds the Kaaba, the cube-shaped structure towards which Muslims pray worldwide. The mosque has been expanded repeatedly by Saudi authorities to accommodate the growing number of pilgrims; current capacity for simultaneous worshippers runs into the hundreds of thousands, with millions circling the mosque precincts during peak Hajj.

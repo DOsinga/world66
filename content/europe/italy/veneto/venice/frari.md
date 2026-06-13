@@ -13,6 +13,7 @@ tags:
 - church
 title: Basilica dei Frari
 type: poi
+score: 9.4
 ---
 
 The great Gothic brick church of San Polo, and one of the most rewarding in a city full of extraordinary churches. Titian's Assumption of the Virgin (1518) over the high altar is widely considered the greatest painting in Venice — a swirling composition of reds and golds that dominates the entire nave. Also contains Titian's own tomb, Donatello's wooden John the Baptist, and Bellini's triptych in the sacristy.

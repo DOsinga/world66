@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.4653
 longitude: -99.5294
+score: 4.6
 ---
 
 La Zona — known in English as Boy's Town — is Nuevo Laredo's legal red-light district, a formally designated area on the south side of the city where prostitution and a range of adult entertainment have been licensed and regulated since the mid-20th century. Its existence is part of the border city's history and deserves honest mention.

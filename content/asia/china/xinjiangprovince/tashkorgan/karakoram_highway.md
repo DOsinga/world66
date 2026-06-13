@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Karakoram Highway took nearly 20 years to build and cost the lives of around 1,000 Pakistani and Chinese workers. Many are buried at a memorial cemetery at Gilgit on the Pakistani side."
+score: 9.0
 ---
 
 The Karakoram Highway (China National Highway 314) runs through Tashkorgan on its way from Kashgar to the Khunjerab Pass and on into Pakistan, and the road itself is one of the reasons to come. North from town the highway climbs past Karakul Lake, with Muztagh Ata and Kongur Tagh forming a wall of ice on either side; south, it crosses the Pamir at 4,733 metres at Khunjerab — the highest paved international border crossing in the world.

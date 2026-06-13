@@ -9,6 +9,7 @@ tags:
   - museum
   - sight
 story: "In May 1774, a Frisian preacher predicted that the conjunction of Mercury, Venus, Mars, Jupiter and the Moon on 8 May would knock the Earth out of orbit and end the world. The panic this caused infuriated Eise Eisinga, a 30-year-old wool comber with a self-taught passion for mathematics, who built the planetarium to demonstrate exactly how planetary motion really worked. He finished it seven years later. It has been running on the original mechanism ever since."
+score: 9.5
 ---
 
 The Eisinga Planetarium occupies the front room of a small canal-side house in central Franeker and is the oldest functioning planetarium in the world — built by the wool-comber Eise Eisinga between 1774 and 1781, and listed by UNESCO as a Memory of the World object. The mechanism, hand-cut from oak and brass, drives painted wooden discs that map the orbits of Mercury, Venus, Earth, Mars, Jupiter and Saturn onto the blue-painted ceiling of his living room, to scale and at real speed.

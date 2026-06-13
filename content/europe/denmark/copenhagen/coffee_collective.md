@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 55.6998
 longitude: 12.5585
+score: 6.6
 ---
 
 Coffee Collective is the best specialty coffee roaster in Copenhagen, with several locations across the city. The original is in Jægersborggade in Nørrebro. The coffee here is taken seriously in the best sense — beans sourced directly from farms, roasted to maximise flavour rather than to a standard profile, and brewed with care. It was one of the pioneers of Scandinavian specialty coffee, which became one of the most influential styles in global coffee culture.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.6
 ---
 
 Jacmel's iron market — built around the same period and from the same cast-iron kit-of-parts as the more famous Marché Hyppolite in Port-au-Prince — sits a couple of blocks north of the cathedral. It is smaller and less polished but very much working: produce, charcoal, second-hand clothes, livestock, and an aggressive crowd of vendors fill the streets around it on market days.

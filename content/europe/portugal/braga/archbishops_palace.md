@@ -11,6 +11,7 @@ title: "Archbishop's Palace"
 type: poi
 story: >
   The palace was so vast that after the archbishops left in the nineteenth century, three separate institutions moved in: the public library, the university, and the municipal archive. Today you can browse medieval manuscripts in one wing and attend a university lecture in another.
+score: 8.0
 ---
 
 The Archbishop's Palace is the dominant structure of central Braga — a long, austere medieval and baroque complex that runs along the eastern side of the old town. Begun in the fourteenth century and expanded repeatedly over the following five hundred years, it served as the residence of the Archbishops of Braga, who were among the most powerful ecclesiastical figures on the Iberian Peninsula.

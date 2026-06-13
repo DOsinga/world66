@@ -14,6 +14,7 @@ story: >
   preserved the bones of the buildings while opening them to the river breeze. In the evening,
   when the light drops and the river goes orange, it is the most pleasant place in the city to
   have a beer.
+score: 7.3
 ---
 
 The complex has a craft brewery, several restaurants serving Amazonian cuisine, and a small theater. There is also a viewing platform where you can watch river traffic — the enormous boats that serve as passenger ferries between Belém and Manaus, a journey of four days.

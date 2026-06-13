@@ -10,6 +10,7 @@ longitude: -3.838888
 sources:
   - https://en.wikipedia.org/wiki/St_Michael_the_Archangel%27s_Church,_Chagford
 story: "The church tower is a granite landmark visible for miles across the moor. Inside, a memorial to Mary Whiddon records her death on her wedding day in 1641 — shot, according to local tradition, by a disappointed suitor as she left the church after the ceremony. The story inspired R.D. Blackmore to write Lorna Doone, set on Exmoor."
+score: 6.8
 ---
 
 St Michael the Archangel's Church stands at the top of Chagford's market square, its square granite tower a fixture in the views across the eastern moor. The church dates from the fifteenth century, though the site may be much older. Inside, the nave is wide and light, with granite pillars supporting a timber roof, and the medieval proportions have survived relatively intact.

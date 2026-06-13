@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 28.6600
 longitude: 115.8350
+score: 5.9
 ---
 
 The cluster of universities in the western part of Nanchang generates the kind of bar and café district common to Chinese university neighborhoods: dense, inexpensive, open late, and only loosely organized around a central street. The areas around Nanchang University and Jiangxi Normal University have the highest concentration of student-oriented venues — cheap draft beer, board game cafes, late-night hotpot restaurants, and karaoke rooms for small groups.

@@ -10,6 +10,7 @@ tags:
 - kreuzberg
 title: Colours
 type: poi
+score: 6.2
 ---
 
 A secondhand and vintage clothing shop in Kreuzberg with an enormous selection of 1970s pieces. Tucked into a backyard off Bergmannstrasse, it draws serious vintage hunters from across the city. Worth a look if retro fashion is your thing.

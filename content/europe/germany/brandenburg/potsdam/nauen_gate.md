@@ -9,6 +9,7 @@ latitude: 52.3999
 longitude: 13.0561
 sources:
   - https://en.wikipedia.org/wiki/Nauen_Gate
+score: 7.0
 ---
 
 The Nauen Gate (Nauener Tor) is one of three surviving city gates of old Potsdam and the most architecturally unusual — a 1755 Gothic Revival fantasy with flanking octagonal towers, battlements, and pointed arches, built at a time when Gothic was considered exotic and picturesque rather than historical. Frederick the Great commissioned it as one of the first Gothic Revival structures in Germany, decades before the style became fashionable across Europe.

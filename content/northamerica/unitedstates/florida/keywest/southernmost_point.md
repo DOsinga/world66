@@ -9,6 +9,7 @@ latitude: 24.5466
 longitude: -81.7999
 story: >
   The famous buoy isn't actually the southernmost point of the continental US — that distinction belongs to a spot inside a nearby naval station. But when the Navy fenced off public access to the actual southernmost point in 1983, the city installed the buoy as a tourist alternative, and it has since become one of the most photographed landmarks in Florida. The actual point is clearly visible from the buoy but inaccessible.
+score: 5.7
 ---
 
 The Southernmost Point buoy is a large concrete marker painted in red, yellow, and black, sitting at the corner of Whitehead and South Streets. It marks 90 miles to Cuba and claims the title of southernmost point in the continental United States. There is almost always a queue of people waiting to be photographed beside it.

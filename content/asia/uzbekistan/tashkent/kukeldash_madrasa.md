@@ -9,6 +9,7 @@ tags:
 neighbourhood: Old Town
 latitude: 41.3245
 longitude: 69.2389
+score: 7.1
 ---
 
 A modest sixteenth-century madrasa standing on a low hill above Chorsu Bazaar. Built during the reign of the Shaybanid khan Abdullah II, it has the classic Central Asian configuration — a portal entrance, an internal courtyard, and rows of student cells around the perimeter.

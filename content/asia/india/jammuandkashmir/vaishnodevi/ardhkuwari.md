@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 story: "Tradition holds that the goddess Vaishno Devi hid in this cave for nine months while Bhairav Nath, a tantric who had angered her, searched for her — a period symbolically associated with gestation. Crawling through the narrow passage is said to wash away all sins from past lives."
+score: 8.1
 ---
 
 Ardhkuwari is the halfway point of the yatra and the main rest stop. The temple here is built around a small natural cleft in the rock — the **Garbh Joon**, literally "the womb passage" — through which pilgrims squeeze on their hands and knees. The opening is narrow enough that broader-shouldered pilgrims sometimes have to be coaxed through.

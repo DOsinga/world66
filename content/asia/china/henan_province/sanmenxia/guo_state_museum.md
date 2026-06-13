@@ -15,6 +15,7 @@ story: >
   in their original positions, frozen in the moment of burial over 2,600 years
   ago. A glass walkway now runs above the pits so visitors can look down into
   the moment of interment.
+score: 8.8
 ---
 
 The Guo State Museum is one of the most remarkable archaeological museums in Henan and one of the most underrated in China. The Guo state flourished in this region during the Western Zhou and Spring and Autumn periods (roughly 1000–650 BCE), and when Chinese archaeologists excavated its royal burial ground in the 1990s they found something extraordinary: intact burial pits containing actual horse-drawn chariots, with the horses and their drivers still in position after more than two and a half millennia underground. The museum was built around these pits, and a glass walkway above the excavation allows visitors to look directly down into the burials.

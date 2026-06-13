@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0631
 longitude: 16.1742
+score: 8.6
 ---
 
 Vis was founded as the Greek colony of Issa in 397 BC, the first proper urban settlement on the Croatian coast, and pieces of the original city are still visible at the western edge of Vis town. The most accessible remains are the Roman thermal baths — a small set of well-preserved rooms with mosaic floors — and stretches of the original Greek city wall that frame several houses in the modern street grid.

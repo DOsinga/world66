@@ -11,6 +11,7 @@ story: >
   Gatbawi — the "Rock of the Hat" — is a carved stone Buddha near the summit of Palgong, wearing a flat stone slab on its head like a hat. Legend holds that if you pray at Gatbawi with a sincere heart, any one wish will be granted. The statue draws pilgrims year-round, many of them climbing in the pre-dawn dark to be there at sunrise, when the light catches the stone face at its most striking.
 sources:
   - https://en.wikipedia.org/wiki/Palgongsan
+score: 7.9
 ---
 
 Mount Palgong is the dominant natural feature of Daegu — a forested range rising to 1,193 metres on the city's northern edge, accessible by bus from the city centre in about an hour. Several Buddhist temples sit on its slopes, connected by hiking trails that range from easy valley walks to full summit ascents. The mountain is crowded on weekends; weekday mornings are considerably quieter.

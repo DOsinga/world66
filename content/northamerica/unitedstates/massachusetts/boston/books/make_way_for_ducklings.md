@@ -6,6 +6,7 @@ tags:
 - books
 title: Make Way for Ducklings
 type: poi
+score: 6.1
 ---
 
 Robert McCloskey's 1941 picture book about a family of mallards making their way from the Charles River to a permanent home on the lagoon in the Public Garden is the children's book that every Boston-born child grows up with. Mrs. Mallard waddles across Beacon Hill with eight ducklings — Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack — stopping traffic on Beacon Street until a friendly policeman helps them across.

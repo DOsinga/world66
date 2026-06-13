@@ -7,6 +7,7 @@ snippet: Old village cemetery in the heath, end point of the St John's processio
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 The Sint-Janskerkhof sits half a kilometre south-west of the village, in the middle of the Westerheide heath. It is the old cemetery of Laren, in use since the Middle Ages, and the destination of the annual Sint-Jansprocessie that walks here from the basilica on 24 June every year. The setting is striking — heather, a few solitary pines, a chapel, and grave markers scattered through the open landscape.

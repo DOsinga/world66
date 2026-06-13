@@ -14,6 +14,7 @@ story: >
   The priestly role passes within families; training begins in childhood. The number of
   practising dukun has declined as younger generations move to cities, and the tradition
   is under quiet pressure despite the outward continuity of the major festivals.
+score: 7.6
 ---
 
 The Tengger people live in villages scattered across the caldera rim and the surrounding highland plateau — Ngadisari, Wonokitri, Tosari, Ngadas, and Ranu Pani among others. Their Hinduism is distinct from Balinese Hinduism; the ceremonies, the pantheon, and the agricultural practices all reflect a tradition that developed in isolation from the rest of Indonesia's Hindu heritage.

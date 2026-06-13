@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -24.6660
 longitude: -56.4410
+score: 6.7
 ---
 
 The market near the centre of Santaní is where agricultural San Pedro shows its practical face. Farmers bring in produce from the surrounding countryside — yuca, sweet potatoes, corn, and the occasional fresh cheese wrapped in palm leaves. Stalls selling yerba mate in bulk and hand-woven baskets made from local reeds share space with hardware sellers and cheap clothing merchants.

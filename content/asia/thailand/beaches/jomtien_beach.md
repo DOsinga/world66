@@ -9,6 +9,7 @@ tags:
 - beach
 title: Jomtien Beach
 type: poi
+score: 6.3
 ---
 
 Jomtien Beach stretches for about 6km just south of Pattaya, separated from the main resort strip by a headland. It's calmer than Walking Street Pattaya — fewer bars, more families and long-stay visitors. The beach road (Thanon Hat Jomtien) is lined with restaurants, massage shops, and rental outlets.

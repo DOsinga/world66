@@ -9,6 +9,7 @@ latitude: 30.2868
 longitude: -97.7419
 story: >
   Daniel Johnston painted the original mural on a door on Guadalupe Street in 1993 when the space was a record shop called Sound Exchange. Johnston, who suffered from severe bipolar disorder and schizophrenia, became a beloved underground figure through his homemade cassette tapes and crayon drawings, sold from a car in front of the store. When Sound Exchange closed, Austin fought to preserve the mural — it has been restored multiple times and is now protected as a city landmark.
+score: 5.7
 ---
 
 The "Hi, How Are You" mural on Guadalupe Street at 21st, painted by singer-songwriter Daniel Johnston in 1993, is one of Austin's most enduring cultural landmarks. The image — a simple green frog called Jeremiah the Innocent with outstretched arms — has become so associated with Austin's independent music culture that it appears on T-shirts, tote bags, and a thousand Instagram accounts.

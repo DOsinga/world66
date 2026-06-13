@@ -9,6 +9,7 @@ latitude: -26.3250
 longitude: 31.1499
 sources:
   - https://en.wikipedia.org/wiki/Mater_Dolorosa_Church,_Mbabane
+score: 5.8
 ---
 
 Mater Dolorosa is a Catholic church in the centre of Mbabane, one of the older religious buildings in the capital. The church serves as the seat of the Diocese of Manzini and is an active parish with a large Swazi congregation. Its architecture is modest but solid — a common missionary-era style — and it stands in a quiet compound within easy walking distance of the main commercial area.

@@ -8,6 +8,7 @@ latitude: 31.9025
 longitude: 35.2039
 sources:
   - https://en.wikipedia.org/wiki/Al-Kasaba_Theatre
+score: 8.0
 ---
 
 Al-Kasaba Theatre and Cinematheque is the main performing arts venue in Ramallah, presenting theatre, dance, and film in one of the most active cultural programmes in the Palestinian territories. The cinema screens independent and international films that rarely reach Palestinian audiences through other channels.

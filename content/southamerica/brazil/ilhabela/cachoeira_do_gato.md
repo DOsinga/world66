@@ -7,6 +7,7 @@ tags:
 latitude: -23.8373974
 longitude: -45.2877056
 story: "At around 80 metres, Cachoeira do Gato is the tallest waterfall in Ilhabela State Park — but it's not just the height that impresses. The water hits a ledge of dark volcanic rock flecked with orange and fans out in a broad white curtain that you can hear long before you see it through the trees."
+score: 7.5
 ---
 
 The trail to Cachoeira do Gato begins at the left (northern) end of Praia de Castelhanos, at the spot locals call Canto do Ribeirão. The path through the park is well-maintained with handrails, a suspension bridge, and benches — a 3.6-kilometre round trip that takes most people about an hour and a half. The forest along the way is old-growth Atlantic Forest, and the contrast between the shadowed trail and the sudden blast of spray when the waterfall comes into view is one of Ilhabela's great small pleasures.

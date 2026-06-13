@@ -8,6 +8,7 @@ latitude: 52.2095
 longitude: 0.1057
 story: >
   The burial ground is sometimes called "the graveyard with the highest IQ in Britain." Among those buried here: Ludwig Wittgenstein (philosopher), J.J. Thomson (discoverer of the electron), G.E. Moore (philosopher), and dozens of other Cambridge scientists and scholars. No other small English churchyard contains so many people who fundamentally changed our understanding of the world.
+score: 7.4
 ---
 
 The Ascension Parish Burial Ground on All Souls Lane in West Cambridge is a small Victorian cemetery that holds an extraordinary concentration of Cambridge scientists, philosophers, and scholars. Among those buried here are Ludwig Wittgenstein, J.J. Thomson (who discovered the electron at the Cavendish Laboratory a short distance away), and numerous other fellows of the university who shaped their fields.

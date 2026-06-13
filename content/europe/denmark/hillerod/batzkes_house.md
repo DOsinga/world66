@@ -9,6 +9,7 @@ tags:
   - historic_sight
   - architecture
 snippet: Former gardener's cottage at Frederiksborg Castle
+score: 5.6
 ---
 
 Batzke's House is the small white former gardener's cottage just west of [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle), built in the late 18th century for the head gardener and named after one of his long-serving successors. The building has been carefully restored and now houses a small cafe with a terrace overlooking the lake — a useful coffee stop on the walk around the castle moat.

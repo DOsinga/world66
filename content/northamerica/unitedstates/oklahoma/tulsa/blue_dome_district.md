@@ -11,6 +11,7 @@ story: >
   The Blue Dome filling station was built in 1924 with a distinctive glazed blue tile dome designed to be visible from Route 66. Its designers were inspired, rather loosely, by the Hagia Sophia in Istanbul. The gas station closed in the 1980s and became so decrepit that the surrounding area took on its name partly to encourage its preservation. It has since been restored and is the symbol of the district.
 sources:
   - https://en.wikipedia.org/wiki/Blue_Dome_District
+score: 6.6
 ---
 
 Named for a 1924 blue-domed filling station that once served traffic on Route 66, the Blue Dome District is Tulsa's most concentrated nightlife and arts quarter. A few blocks of East 2nd Street and surrounding streets hold independent bars, restaurants, galleries, and live music venues that draw a mixed crowd seven nights a week.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - altstadt
+score: 7.1
 ---
 
 The grandest square in the old town, fronted by the Residenz, the cathedral, and the New Residence with its glockenspiel. The 15-metre marble Residenzbrunnen at the centre — sea horses, Tritons, and a giant on top — is among the largest and showiest baroque fountains north of the Alps.

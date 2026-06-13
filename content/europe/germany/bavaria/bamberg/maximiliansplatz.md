@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Maximiliansplatz
 type: poi
+score: 6.9
 ---
 
 The wide central square of the lower town, dominated on its western side by the long Neoclassical facade of the New Town Hall (the former Catholic seminary). Daily food market here Monday through Saturday — sausage, bread, cheeses, the long-stemmed local salad onions — and the city Christmas market in December.

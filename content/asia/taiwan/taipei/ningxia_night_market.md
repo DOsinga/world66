@@ -9,6 +9,7 @@ tags:
 - datong
 title: Ningxia Night Market
 type: poi
+score: 7.4
 ---
 
 Ningxia is the smallest and most local-feeling of Taipei's old central night markets — a single block-long line of food stalls set up nightly in the middle of Ningxia Road, with covered seating at the kerbside. Foreign tourists turn up but are a minority; the crowd is mostly residents of the old quarter doing dinner.

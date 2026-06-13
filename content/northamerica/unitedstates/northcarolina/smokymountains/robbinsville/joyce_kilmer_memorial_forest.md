@@ -10,6 +10,7 @@ latitude: 35.3647
 longitude: -83.9374
 story: >
   Joyce Kilmer was a poet best known for the 1913 poem "Trees," which begins "I think that I shall never see / A poem lovely as a tree." He was killed in action in France in 1918 at age 31. The forest dedicated to his memory was chosen because it contained some of the largest and oldest trees in the eastern United States — a fitting monument to a poet whose most famous work was about them.
+score: 8.8
 ---
 
 The Joyce Kilmer Memorial Forest preserves one of the last remaining stands of old-growth temperate forest in the eastern United States. The trees here — tulip poplars, hemlocks, sycamores, and oaks — were never logged, and many of them are 400 years old or more, reaching heights of 100 feet with trunks measuring 20 feet around. Walking through is a genuinely humbling experience.

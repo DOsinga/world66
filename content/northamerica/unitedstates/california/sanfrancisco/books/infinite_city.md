@@ -6,6 +6,7 @@ tags:
 - books
 title: "Infinite City: A San Francisco Atlas"
 type: poi
+score: 7.2
 ---
 
 Rebecca Solnit's *Infinite City* is not a conventional atlas. Each of its maps overlays two or three unexpected datasets -- shipwrecks and Zen Buddhist centres, butterfly habitats and cinemas, queer bars and murders -- revealing the invisible cities layered beneath the surface of the one we see. It is a love letter to San Francisco in the form of cartography.

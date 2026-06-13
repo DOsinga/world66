@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.911
 longitude: -1.382
+score: 7.1
 ---
 
 The Northern Gallery for Contemporary Art (NGCA) is a publicly funded art gallery in the Priestman Building of the University of Sunderland campus, near St Peter's Church on the north bank of the Wear. It shows temporary exhibitions of contemporary art, with a programme that tends toward installation, video, and conceptual work from both regional and international artists. Entry is free.

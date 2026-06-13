@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3000
 longitude: 111.4500
+score: 6.6
 ---
 
 Staying in a ger (the Mongolian felt tent also known by the Russian word yurt) is the archetypal Inner Mongolian experience and the main reason many travellers come to Hohhot. The camps within day-trip range of the city — primarily at Xilamuren and Gegentela — offer the essentials: a round felt tent with a central stove and proper beds, evening meals of lamb and dairy products, horse riding at dawn, and a horizon that extends to infinity in every direction.

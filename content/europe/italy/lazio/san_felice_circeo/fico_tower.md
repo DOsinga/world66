@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2245
 longitude: 13.0895
+score: 5.4
 ---
 
 A coastal watchtower built in the 16th century as part of the Spanish-era chain of defensive towers along the Lazio coast, positioned to signal approaching Saracen raids. Torre Fico (Fig Tree Tower) sits at the southern end of the Porto di Circeo beach, its cylindrical form visible from the water and from the harbour. The tower is not open to the public but is a landmark for swimmers and boat-users in the bay.

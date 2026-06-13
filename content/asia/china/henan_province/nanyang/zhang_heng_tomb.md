@@ -17,6 +17,7 @@ story: >
   that no one at court had felt, and courtiers who had doubted it immediately
   changed their minds. It was the world's first seismoscope by at least
   1,700 years.
+score: 7.6
 ---
 
 Zhang Heng (78–139 CE) was one of the most versatile intellects of the Han dynasty: a mathematician, astronomer, poet, inventor, and government official who in the course of a single career produced the first mechanical representation of the celestial sphere, refined calculations of pi, wrote poetry that became models of the Han literary style, and invented the world's first seismoscope. His tomb lies on the outskirts of Nanyang, and the adjacent museum documents his contributions in each of these fields.

@@ -7,6 +7,7 @@ tags:
   - sodermalm
 latitude: 59.3177
 longitude: 18.0844
+score: 8.3
 ---
 
 Fotografiska is Stockholm's international photography museum, housed in a converted art nouveau customs building on the Södermalm waterfront. The galleries are large and the programming serious — major international photographers show here alongside Swedish names, with typically four or five major exhibitions running simultaneously.

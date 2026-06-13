@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.8947
 longitude: 112.5675
+score: 5.6
 ---
 
 Yingze District is the commercial and administrative heart of Taiyuan, containing the main shopping streets, Wuyi Square, the long-distance railway station, and most of the city's hotels and restaurants. Yingze Avenue, the main east-west boulevard, runs through the district and is lined with department stores, banks, and restaurants. The neighbourhood has been heavily redeveloped over the last twenty years and has little remaining historic fabric, but it is where the city's daily commerce happens and is the most convenient base for visitors.

@@ -16,6 +16,7 @@ story: >
   elaborate the higher you look. The church was built in the early 18th century, and
   the quality of the stonework reflects the wealth that passed through Cajamarca in
   the colonial period.
+score: 7.8
 ---
 
 The Complejo de Belén is a large colonial complex built in the early 18th century, comprising the Iglesia de Belén, a former hospital, and two museums. The church is the centrepiece — its baroque facade, carved from the golden volcanic stone that characterizes Cajamarca's colonial buildings, is the most elaborate in the region. Inside, the proportions are generous and the carved stone ceiling of the main nave is remarkable.

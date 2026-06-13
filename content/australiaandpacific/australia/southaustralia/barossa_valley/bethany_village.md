@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.537
 longitude: 138.971
+score: 7.7
 ---
 
 Bethany is the oldest village in the Barossa, established in 1842 by a group of German Lutheran immigrants who had sailed for South Australia to escape religious persecution. The village layout is distinctive — the settlers divided the creek-side land into narrow strips running back from the road, following the pattern of the villages they had left in Silesia. That Hufeisen (horseshoe) plan is still visible today.

@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 37.3408
 longitude: 9.7625
+score: 7.5
 ---
 
 Cap Blanc is the long limestone headland that closes off the western side of the Bay of Bizerte and forms the northernmost mainland point of Africa. The end of the cape is white-cliffed (hence the name), with a small lighthouse, a coastal road part of the way, and dirt tracks the rest. From the lighthouse promontory the view is spectacular — the cliffs drop straight to a turquoise sea, the bay opens out to the south, and on a really clear day you can see Sardinia.

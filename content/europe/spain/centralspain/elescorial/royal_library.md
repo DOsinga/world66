@@ -15,6 +15,7 @@ story: >
   library of the humanist Diego Hurtado de Mendoza, bought at his death in 1575 — 856 manuscripts
   at a stroke, including rare Arabic and Greek texts. Philip also ordered that a copy of every book
   printed in Spain must be deposited here, making it, in effect, the first national copyright library.
+score: 9.1
 ---
 
 The Royal Library of El Escorial occupies the ground floor of the main building, a single magnificent hall 55 metres long with barrel-vaulted ceilings painted by Pellegrino Tibaldi with allegorical frescoes representing the seven liberal arts. The bookcases were designed by Juan de Herrera, the monastery's architect, in a dark wood inlaid with ivory, and the books are stored spine-inward — an unusual arrangement that was thought to protect the bindings.

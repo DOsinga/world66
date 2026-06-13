@@ -14,6 +14,7 @@ story: >
   miniature accessories. The entire Neapolitan world of the eighteenth century
   is reproduced in miniature — from the fishmonger to the shepherd, from the
   nobleman to the beggar.
+score: 8.9
 ---
 
 A former Carthusian monastery at the summit of the Vomero hill, adjacent to Castel Sant'Elmo, converted into a museum of Neapolitan history, art, and culture. The monastery church itself — lavishly decorated in baroque marble and frescoes by Ribera, Caracciolo, and Stanzione — is one of the finest baroque interiors in Naples.

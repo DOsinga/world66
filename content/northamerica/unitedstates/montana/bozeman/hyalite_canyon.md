@@ -9,6 +9,7 @@ tags:
 latitude: 45.5503
 longitude: -111.0697
 story: "Hyalite Reservoir was built in 1948 to supply water to Bozeman. The canyon above it was developed as a recreation area in the following decades, and it now draws more than 300,000 visitors a year — making it one of the busiest pieces of national forest anywhere in Montana, despite being almost entirely unknown outside the region."
+score: 8.8
 ---
 
 Hyalite Canyon runs south from Bozeman into the Gallatin National Forest, offering year-round outdoor recreation within 20 minutes of downtown. In summer, dozens of hiking trails fan out from the canyon road: short walks to Palisade Falls, longer routes to the alpine lakes above timberline, and the Hyalite Peak trail to a 10,000-foot summit with views across the Gallatin Range.

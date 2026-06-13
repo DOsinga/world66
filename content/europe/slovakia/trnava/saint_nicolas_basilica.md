@@ -13,6 +13,7 @@ story: >
   distinction of being the largest Gothic church in Slovakia, though its current
   appearance blends Gothic structural bones with heavy baroque decoration added
   during Trnava's peak as the ecclesiastical centre of Hungary.
+score: 8.8
 ---
 
 The Basilica of Saint Nicholas is the largest and most historically significant church in Trnava, a Gothic hall church whose origins date to the 13th century. The exterior reads as a fortress-like mass of grey stone, while the interior opens into something grander: vaulted ceilings, baroque side chapels added from the 17th century onwards, and an impressive high altar.

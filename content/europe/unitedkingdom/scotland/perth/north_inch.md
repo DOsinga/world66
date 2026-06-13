@@ -10,6 +10,7 @@ longitude: -3.4347
 snippet: Perth's riverside park, site of the 1396 Battle of the Clans — one of medieval Scotland's most violent spectacles
 story: >
   On 28 September 1396, thirty men from Clan Chattan and thirty from Clan Kay fought to the death on the North Inch while the Scottish king Robert III watched from a grandstand. It was a staged battle designed to settle a feud and avoid a wider war — a kind of judicial combat at industrial scale. Only twelve men survived. The event was so striking that Sir Walter Scott used it as the centrepiece of his novel The Fair Maid of Perth.
+score: 5.8
 ---
 
 The North Inch is the larger of Perth's two flat riverside parks, running along the west bank of the Tay to the north of the city centre. It's a pleasant open space for walking and jogging, with views across the Tay to the wooded hills beyond. The park hosts football pitches, a golf course, and a bowling green, and is busy with local residents in good weather.

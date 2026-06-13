@@ -6,6 +6,7 @@ longitude: -82.44
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 Boquete sits in a long narrow valley on the eastern flank of Volcán Barú at about 1,200 metres of altitude, which keeps the climate cool, the rainfall plentiful, and the coffee excellent. The town itself is small and a little overrun — the population has roughly doubled in twenty years as American and European retirees moved in — but the surrounding fincas and trails are the point.

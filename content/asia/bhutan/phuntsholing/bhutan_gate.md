@@ -13,6 +13,7 @@ story: >
   simple gap in a fence allowed people to move freely between Jaigaon and
   Phuntsholing. It was only in 2011 that a proper border wall was constructed
   around the town, and the gate became the official crossing point it is today.
+score: 6.1
 ---
 
 The Bhutan Gate is the main land border crossing between India and Bhutan, separating the Bhutanese town of Phuntsholing from the Indian market town of Jaigaon. The gate itself is a striking structure — an ornate arch in traditional Bhutanese style, painted in deep reds and whites with a golden roof, flanked by painted panels depicting religious and royal imagery.

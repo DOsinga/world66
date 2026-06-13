@@ -8,6 +8,7 @@ tags:
 snippet: "Wildlife park near West Bay with free-roaming monkeys, macaws, and a private beach"
 latitude: 16.2989
 longitude: -86.6010
+score: 6.5
 ---
 
 A privately run nature park on a hillside above West Bay, marketed heavily to the cruise-day-tripper trade but worth a couple of hours regardless. The walk through the **animal sanctuary** lets you sit with capuchin monkeys (they climb on your shoulders), feed scarlet macaws by hand, and see a few less-charismatic locals — agoutis, iguanas, and the like.

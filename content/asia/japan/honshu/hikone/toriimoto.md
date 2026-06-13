@@ -9,6 +9,7 @@ latitude: 35.2839
 longitude: 136.2842
 story: >
   Toriimoto-juku was the sixty-third of sixty-nine post stations on the Nakasendō, the inland mountain road connecting Edo with Kyoto. Travellers who completed the full Nakasendō walked over 530 kilometres through the mountains of central Honshu, a journey of about two weeks. The station served as a rest stop for merchants, pilgrims, and feudal lords' processions alike — all of whom were required by law to use designated post towns.
+score: 7.8
 ---
 
 One of the best-preserved post towns on the old Nakasendō highway, sitting on the outskirts of Hikone about 3 kilometres northeast of the castle. The main street retains its original scale: low wooden buildings with deep eaves, latticed facades, and inns that have been operating since the Edo period. Walking its length takes under twenty minutes and feels genuinely removed from the modern city.

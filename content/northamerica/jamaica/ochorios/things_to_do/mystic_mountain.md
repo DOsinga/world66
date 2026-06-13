@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4179
 longitude: -77.1198
+score: 6.7
 ---
 
 Mystic Mountain is a rainforest adventure park above Ocho Rios, reached by a chairlift that rises through the tree canopy with views over the bay. At the top there are a bobsled ride — a wheeled cart on a track that winds down through the forest — a zip line, a waterslide, a swimming pool, and a butterfly garden. The chairlift alone is worth the trip, especially on a clear day when the sea stretches out below you.

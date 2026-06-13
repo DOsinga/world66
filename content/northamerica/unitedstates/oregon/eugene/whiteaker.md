@@ -7,6 +7,7 @@ tags:
 snippet: "Eugene's old industrial quarter, now its hippiest — breweries, taquerias, murals"
 latitude: 44.0598
 longitude: -123.1067
+score: 7.8
 ---
 
 The Whiteaker — "the Whit" to locals — is the older industrial neighbourhood north of downtown and west of Skinner Butte, gradually gentrifying since the early 2000s without losing its grit. Murals cover the warehouses. Breweries cluster on Madison and Van Buren streets. Food carts, taquerias, vintage clothing, and the smell of patchouli are constants.

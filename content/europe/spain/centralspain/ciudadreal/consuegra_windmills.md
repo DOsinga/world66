@@ -6,6 +6,7 @@ longitude: -3.6094
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The ridge above Consuegra carries the most photographed windmills in Spain — twelve whitewashed mills running along the skyline with a Moorish castle at the southern end. They were working flour mills until the early 20th century and a few have been restored with their original wooden machinery; one functions occasionally for visitors during the autumn saffron festival.

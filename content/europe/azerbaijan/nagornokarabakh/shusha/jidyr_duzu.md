@@ -15,6 +15,7 @@ story: >
   and raced on this plateau. The Karabakh horse nearly went extinct during the
   conflict years; breeding programmes in Azerbaijan have been working to
   restore numbers.
+score: 8.6
 ---
 
 Jidyr Düzü is a natural plateau on the southern edge of Shusha, perched at the upper rim of the Gargarchay Canyon. The plateau is an open grassy expanse surrounded by the rocky escarpments of the Karabakh highlands, with panoramic views in every direction. It is considered one of the most beautiful natural viewpoints in Azerbaijan.

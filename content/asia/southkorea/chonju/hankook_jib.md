@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 35.8165
 longitude: 127.1482
+score: 6.6
 ---
 
 Hankook Jib is one of the oldest and most respected bibimbap restaurants in Jeonju, operating in the Hanok Village area for decades. The restaurant serves the classic Jeonju-style bibimbap in both the traditional earthenware bowl and the heated stone dolsot version — the stone bowl creates a crispy rice crust at the bottom (nurungji) that many regulars consider the best part.

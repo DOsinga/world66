@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.6985
 longitude: 84.9889
+score: 7.5
 ---
 
 The Royal Bhutan Monastery is one of the most distinctive buildings in Bodh Gaya, constructed by the King of Bhutan as an offering to the Buddha. The architecture is unmistakably Bhutanese — thick whitewashed walls, ornate painted wooden window frames, and a roof of traditional Himalayan design. Inside, the walls carry elaborate clay carvings depicting scenes from the Buddha's life and episodes from Bhutanese Buddhist iconography.

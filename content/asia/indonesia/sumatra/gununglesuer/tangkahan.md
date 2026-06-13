@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 3.6900
 longitude: 98.0700
+score: 7.8
 ---
 
 Tangkahan is the much quieter sister destination to Bukit Lawang, about 40 km north along the edge of the park where the Buluh and Batang rivers meet at the boundary of the protected forest. The setting is striking: a wide jungle valley with hot springs, jungle pools, and the rivers themselves available for swimming, tubing and short rafting. It is an easy place to slow down for a few days after the more intense scene at Bukit Lawang.

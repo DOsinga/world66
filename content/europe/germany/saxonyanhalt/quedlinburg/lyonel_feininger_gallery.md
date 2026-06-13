@@ -9,6 +9,7 @@ longitude: 11.1374
 snippet: Small but serious gallery devoted to the Bauhaus painter who loved this town
 story: >
   Feininger was born in New York in 1871 and spent much of his career in Germany, becoming one of the masters of the Bauhaus. He was a regular visitor to Quedlinburg from the 1920s, drawn by the angular geometry of the half-timbered town. His paintings of the church towers, lanes, and rooflines are some of the most distinctive images of Quedlinburg in existence — cubist-influenced, with shafts of light breaking across medieval facades.
+score: 7.1
 ---
 
 The gallery occupies a modest space but uses it well, showing a rotating selection of Feininger's prints, drawings, and paintings alongside biographical material about his long relationship with the town. It is the kind of small specialist museum that justifies a visit precisely because you would not expect to find it here.

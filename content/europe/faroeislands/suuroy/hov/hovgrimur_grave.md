@@ -9,6 +9,7 @@ latitude: 61.5095
 longitude: -6.7572
 story: >
   Hovgrímur was one of the most powerful chieftains in Faroese history, controlling roughly half the island chain from this village. He was killed in single combat on the tiny island of Stóra Dímun — and so was his opponent, Brestir Sigmundsson. Both men died. The grave on the hillside has two piles of rocks: one for the chieftain, one for his horse.
+score: 7.8
 ---
 
 On the hillside above Hov, two modest cairns of stacked stones mark the burial place of Hovgrímur, the Viking-age chieftain who ruled roughly half the Faroe Islands from this village. There is no inscription, no monument — just the rocks themselves, placed here over a thousand years ago, with a view across the fjord that Hovgrímur would have known well.

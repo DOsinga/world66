@@ -15,6 +15,7 @@ story: >
   2014 documentary North of the Sun (Nordfor sola), which followed two
   Norwegian surfers who spent a winter living on the beach in a driftwood
   shelter while surfing the breaks below Ryten.
+score: 9.3
 ---
 
 Kvalvika is a perfect crescent of white sand pressed between two headlands on the outer Atlantic coast of Moskenesøy. There is no road in, no shop, no shelter — only the trail from Fredvang that climbs over a pass and drops to the beach in about an hour. In summer the beach gets a steady flow of day-walkers and wild campers; in winter it is empty, with the surf running hard against the cliffs and the wind unbroken from the open sea.

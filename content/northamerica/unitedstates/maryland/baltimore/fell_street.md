@@ -15,6 +15,7 @@ story: >
   of early Fells Point commerce. The building is now operated by Historic Ships in
   Baltimore and is one of the few colonial-era buildings in the city that has been
   preserved and interpreted.
+score: 6.8
 ---
 
 The Robert Long House is the oldest surviving urban residence in Baltimore, a brick merchant's house from 1765 that stands in Fells Point as evidence of how the neighbourhood looked before the Revolution. It has been restored by Historic Ships in Baltimore and is occasionally open for tours.

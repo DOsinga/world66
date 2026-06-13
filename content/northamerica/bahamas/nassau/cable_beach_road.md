@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 25.0786
 longitude: -77.4061
+score: 5.6
 ---
 
 The west-of-downtown resort strip, running along West Bay Street from Saunders Beach all the way to the new Baha Mar complex at the western end. Named for the undersea telegraph cable that came ashore here in 1892. It is essentially a single road of hotels, restaurants, casinos, and beach access points.

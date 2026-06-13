@@ -7,6 +7,7 @@ tags:
 snippet: "250 murals from 150 international artists covering the walls of Er Riadh village"
 latitude: 33.8139
 longitude: 10.8594
+score: 7.8
 ---
 
 In 2014 a French-Tunisian art collective invited 150 artists from 30 countries to paint the walls of Er Riadh, the village near the El Ghriba Synagogue. The result — Djerbahood — transformed a quiet, whitewashed village into one of the largest outdoor galleries in the Arab world, with murals ranging from tiny to monumental covering houses, shops, and courtyard walls throughout the neighbourhood.

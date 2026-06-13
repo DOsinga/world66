@@ -7,6 +7,7 @@ tags:
 title: Estonian National Museum
 type: poi
 story: "The Estonian National Museum's building, opened in 2016, extends the full length of the runway of Raadi airfield — a former Soviet military aerodrome that closed Tartu to foreigners for decades during the Cold War. The building's floor plan is literal: it traces the runway axis, 355 meters long, pointing toward Russia. The architects placed the main entrance where aircraft used to take off."
+score: 9.3
 ---
 
 The Estonian National Museum is one of the best museums in the Baltic states and worth a special trip from anywhere in Estonia. The permanent exhibition covers Estonian history, culture, and folklore from prehistoric times to the present, with particular depth on the Soviet period and the 1991 independence movement. The Finno-Ugric collection is one of the largest in the world, documenting the related peoples across northern Eurasia.

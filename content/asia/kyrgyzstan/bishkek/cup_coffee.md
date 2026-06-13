@@ -7,6 +7,7 @@ tags:
 latitude: 42.876
 longitude: 74.612
 address: "Manas Avenue 28, Bishkek"
+score: 5.3
 ---
 
 A small specialty coffee shop near the Hyatt Regency and the diplomatic quarter, popular with both local professionals and expats. The roast is locally sourced and the espresso is consistent. Light pastries, sandwiches and a few breakfast options.

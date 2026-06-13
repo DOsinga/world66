@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The 21-kilometre seafront promenade that runs the length of the city"
+score: 7.6
 ---
 
 The Malecon runs from Olas Altas in the south almost all the way to the Marina at the north end of the Zona Dorada — about 21 kilometres of paved promenade fronting the open Pacific. It is one of the longest seafront walks in Latin America. Joggers and cyclists own it before nine in the morning; from late afternoon the families come out, with paleta carts and corn vendors lining the rail.

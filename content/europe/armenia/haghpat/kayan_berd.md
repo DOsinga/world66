@@ -9,6 +9,7 @@ tags:
   - monastery
 latitude: 41.0954
 longitude: 44.6991
+score: 7.1
 ---
 
 About a kilometre west of Haghpat village, the ruins of Kayan Berd cling to a rocky outcrop above the Debed gorge. The site combined a small fortress with a monastery (also known as Dsevank), built between the 11th and 13th centuries to defend the approaches to Haghpat. Much of it has collapsed, but enough of the walls and the small church remain to make a short walk worthwhile, especially for the view straight down into the canyon.

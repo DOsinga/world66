@@ -10,6 +10,7 @@ latitude: 50.5557
 longitude: 9.6732
 story: >
   The palace was built for the Prince-Abbots of Fulda, who were ecclesiastical rulers of both a monastery and a secular principality — a combination of roles that gave them both the spiritual authority to order elaborate funerary monuments and the worldly income to pay for a palace with a formal French garden. The architect Johann Dientzenhofer designed it in the early 18th century to complement the new cathedral; the two buildings together were intended to announce that Fulda was a serious European court, not a provincial backwater.
+score: 7.9
 ---
 
 The Prince-Abbots' Palace (Stadtschloss) sits immediately north of the cathedral precinct, a restrained Baroque composition by Johann Dientzenhofer that now houses the Fulda municipal museum and regional historical collections. The adjoining Orangery — built to the same design as the palace — and the geometric flower gardens stretching in front of them give the city its characteristic southern European formality, transplanted unexpectedly into the Hessian landscape.

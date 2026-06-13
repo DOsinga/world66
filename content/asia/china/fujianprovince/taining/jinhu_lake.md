@@ -14,6 +14,7 @@ story: >
   vertical walls now drop directly into the water, their reflections colouring
   the lake a dark red at sunrise and sunset. The flooding destroyed what was there,
   but the new landscape is undeniably extraordinary.
+score: 9.8
 ---
 
 Jinhu Lake is the centrepiece of the Taining UNESCO Global Geopark and the most photogenic element of the Danxia landscape. The artificial reservoir fills a narrow valley flanked by vertical red sandstone cliffs, their bases riddled with caves that can be explored by motorised boat. The water lanes between the cliff walls are narrow enough in places that the boat barely fits, and the close proximity to the red rock, with the dark water below reflecting it, creates a colour saturation that photographs struggle to reproduce.

@@ -8,6 +8,7 @@ tags:
 latitude: 45.3008
 longitude: -66.0692
 snippet: Large wilderness park within city limits, with lakes, trails, and a campground
+score: 7.0
 ---
 
 Rockwood Park is one of the largest urban parks in North America, covering over 870 hectares of forested terrain within Saint John's city limits. It feels more like a provincial park than a city green space: the interior has a genuine sense of wildness, with spruce and fir forest, rocky outcrops, kettle lakes, and trails that can take the better part of a day to properly explore.

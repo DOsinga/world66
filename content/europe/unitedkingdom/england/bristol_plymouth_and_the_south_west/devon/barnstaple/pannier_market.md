@@ -10,6 +10,7 @@ longitude: -4.0601
 snippet: "Victorian covered market hall with adjacent historic butchers' arcade"
 story: >
   The market takes its name from the panniers — the wicker baskets — that farmers' wives traditionally carried on their backs when walking to town to sell butter, eggs, and vegetables. The Pannier Market was built in 1855 to bring this centuries-old trade under cover, and the tradition of small-scale local producers selling direct to buyers continues in the same building today.
+score: 7.8
 ---
 
 The Pannier Market is the civic and commercial heart of Barnstaple, a handsome covered hall built in 1855 that operates on several days a week with a rotating programme of produce, crafts, antiques, and general goods. Tuesday and Friday are the main market days; the antiques market runs on Wednesdays and Saturdays. The building is a good piece of Victorian engineering — iron columns and a glass roof that fills the interior with light.

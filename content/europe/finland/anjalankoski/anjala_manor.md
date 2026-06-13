@@ -8,6 +8,7 @@ tags:
 - sight
 title: Anjala Manor
 type: poi
+score: 8.4
 ---
 
 Anjala Manor (Anjalan kartano) sits on a bend of the Kymijoki, a wooden manor house that has belonged to the same Wrede family since the 1750s. The current main building was completed in 1791 and is unusually intact for a Finnish manor of its age.

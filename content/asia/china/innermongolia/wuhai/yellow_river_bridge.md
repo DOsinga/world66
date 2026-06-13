@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6700
 longitude: 106.8200
+score: 6.4
 ---
 
 The Yellow River Road Bridge connects Wuhai's three districts across the river and lake system, and a walk or cycle across the bridge gives the best overview of the city's unusual geography. From the bridge, you can see simultaneously the desert dunes to the west, the sandstone cliffs to the east, the broad Yellow River channel, and the urban development of the three districts strung along the riverbanks. The scale of the river at this point — wide, flat, and swift, carrying the heavy silt load that gives it its name — is impressive.

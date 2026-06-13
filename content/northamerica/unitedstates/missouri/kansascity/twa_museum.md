@@ -7,6 +7,7 @@ tags:
 - museum
 title: TWA Museum
 type: poi
+score: 6.7
 ---
 
 Trans World Airlines had its world headquarters in Kansas City for most of its existence, and the TWA Museum preserves the golden age of that airline in a former downtown airport terminal. The collection covers TWA's history from its 1926 founding through its 2001 absorption by American Airlines, with particular focus on the glamorous decades of the 1950s and 1960s when air travel was aspirational and TWA was the airline of Hollywood and international business.

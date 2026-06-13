@@ -1,6 +1,7 @@
 ---
 title: "Whitewater Rafting on the Río Negro"
 type: poi
+score: 8.5
 ---
 
 The Río Negro is the reason Tobia is on the map. The river cuts a dramatic canyon through the cordillera on its way toward the Magdalena valley, and the section near the village holds Class III and Class IV rapids — challenging enough to be genuinely exciting, manageable enough that no prior experience is needed. The rapids have names, character and a reliable rhythm: pools of flat water give way to narrow chutes and wave trains, the canyon walls crowd in overhead, and the warm river temperature (warm by Colombian highland standards, at least) makes a capsize feel more like a bonus than a disaster.

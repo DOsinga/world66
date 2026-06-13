@@ -7,6 +7,7 @@ tags:
   - local_food
 latitude: 5.5186
 longitude: 5.7480
+score: 7.8
 ---
 
 Warri is one of the best places in Nigeria to eat Delta cuisine — specifically banga soup, the region's defining dish. Made from palm nut cream, fresh and dried fish, stockfish, crayfish, periwinkles, and a distinctive spice blend that includes the aromatic dried seed of the obeletete plant, banga has a depth of flavour that distinguishes it from the simpler palm nut soups found elsewhere in West Africa. It is served with pounded yam, eba (cassava fufu), or starch.

@@ -8,6 +8,7 @@ latitude: 63.4190
 longitude: -19.0050
 story: >
   During the 1973 eruption of Eldfell volcano on Heimaey in the Westman Islands — visible on clear days from the hills above Vik — hundreds of islanders were evacuated to the mainland. Several stayed in Vik while their island burned. The church on the hill above Vik has long been identified as a landmark of safety; local tradition holds that in the event of a Katla eruption, people should run for the church, as its position on the hill is believed to put it above the worst of any volcanic flood.
+score: 6.3
 ---
 
 The little red-roofed church on the hill above Vik is one of the iconic images of Iceland's south coast. It sits on a promontory above the village with panoramic views over the black sand beach to the west, the sea to the south, and the mountains and glacier to the north. The building itself is a simple Lutheran church of the type found throughout rural Iceland, with wooden benches and plain whitewashed walls inside.

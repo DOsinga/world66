@@ -8,6 +8,7 @@ tags:
 title: University of Montana
 type: poi
 url: https://www.umt.edu
+score: 7.2
 ---
 
 The University of Montana was founded in 1893 and its presence shapes everything about Missoula — the bookshops, the coffee houses, the breweries, the independent restaurants, and the culture of the place. The campus sits at the foot of Mount Sentinel on the south side of the Clark Fork, with the river running along its northern edge. The oldest buildings are in a Craftsman-influenced brick style that has worn well.

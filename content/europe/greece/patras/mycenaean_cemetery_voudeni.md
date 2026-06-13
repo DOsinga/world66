@@ -8,6 +8,7 @@ tags:
   - ancient
 latitude: 38.29
 longitude: 21.79
+score: 7.6
 ---
 
 The Mycenaean Cemetery of Voudeni, northeast of Patras near the village of the same name, is one of the most significant Bronze Age sites in the western Peloponnese and almost entirely overlooked by visitors. Excavated from the 1980s onwards, the cemetery consists of dozens of chamber tombs cut into the hillside and dating to the Late Bronze Age (roughly 1400–1200 BC) — the same era as Mycenae, Tiryns, and the Troy of Homer's Iliad. The finds from the site, including jewellery, weapons, pottery, and bronze vessels, are now in the Archaeological Museum of Patras and represent an extraordinary window into Mycenaean life on the Gulf of Patras.

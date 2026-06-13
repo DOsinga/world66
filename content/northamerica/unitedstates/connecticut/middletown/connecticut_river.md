@@ -7,6 +7,7 @@ tags:
   - sight
 title: Connecticut River
 type: poi
+score: 6.7
 ---
 
 The Connecticut River at Middletown is wide, slow, and navigable — this was an active port into the 19th century, and the river's breadth here still feels maritime. The riverfront is accessible via a riverside park below Main Street, and a boat launch allows easy access for kayaks and canoes. Rental equipment is available seasonally.

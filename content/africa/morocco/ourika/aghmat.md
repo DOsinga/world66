@@ -13,6 +13,7 @@ story: >
   sight of his daughters working as servants — before dying in exile in 1095.
 sources:
   - https://en.wikipedia.org/wiki/Aghmat
+score: 6.8
 ---
 
 At the mouth of the Ourika Valley, where the road begins to climb away from the plains, lies the site of Aghmat — a city that was once the most important settlement in southern Morocco, predating Marrakesh by centuries. In the eleventh century it served as the first capital of the Almoravid dynasty before they founded Marrakesh and Aghmat faded into obscurity.

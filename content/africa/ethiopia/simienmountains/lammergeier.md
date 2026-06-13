@@ -14,6 +14,7 @@ story: >
   the only bird known to use cosmetics. The Simien escarpments, with their
   thermals and cliff faces, are ideal lammergeier habitat, and sightings here
   are among the most reliable in Africa.
+score: 8.6
 ---
 
 Lammergeiers — bearded vultures — are among the most impressive birds in Africa and the Simien Mountains are one of the best places on the continent to see them. These massive raptors, with wingspans reaching 2.8 metres, ride the thermals along the escarpment walls throughout the day, sometimes passing at eye level when you stand on the rim. Their rusty orange-red plumage and distinctive bearded profile make them unmistakable.

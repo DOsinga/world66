@@ -8,6 +8,7 @@ tags:
 latitude: 52.2542
 longitude: 21.0398
 snippet: "Neo-Gothic cathedral in Praga — one of the few Warsaw churches that survived the war intact"
+score: 7.4
 ---
 
 St. Florian's Cathedral is the main church in the Praga district and one of the few Warsaw churches that survived World War II. Built between 1888 and 1904 in the Neo-Gothic style, it served as Stalin's headquarters for a period in 1945. The interior contains original stained glass and furnishings — a rare survival in a city where almost everything was destroyed.

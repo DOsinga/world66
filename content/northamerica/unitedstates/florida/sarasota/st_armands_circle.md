@@ -8,6 +8,7 @@ tags:
   - shopping
 title: St. Armands Circle
 type: poi
+score: 6.1
 ---
 
 St. Armands Circle is a ring of boutiques, galleries, and restaurants on Lido Key, built in the 1920s as part of John Ringling's grand plan to develop his holdings along the keys. The development stalled when Ringling's fortunes collapsed in the Depression, but the circle survived and eventually became Sarasota's most visitor-friendly shopping and dining destination.

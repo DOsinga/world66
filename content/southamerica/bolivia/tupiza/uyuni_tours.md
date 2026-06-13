@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.4438
 longitude: -65.7208
+score: 8.8
 ---
 
 Tupiza is the alternative starting point for the great four-day jeep loop through southwestern Bolivia: the high-altitude lakes of the Eduardo Avaroa Reserve, the geysers at Sol de Mañana, the Laguna Colorada with its flamingos and the Salar de Uyuni itself.

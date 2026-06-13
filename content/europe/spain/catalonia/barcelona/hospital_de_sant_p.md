@@ -15,6 +15,7 @@ tags:
 title: Hospital de Sant Pau
 type: poi
 url: www.santpau.es
+score: 9.3
 ---
 
 Recinto Modernista de Sant Pau is one of the finest examples of Catalan Art Nouveau architecture in the world, designed by Lluís Domènech i Montaner and built between 1902 and 1930. The complex was a functioning hospital until 2009; today it operates as a UNESCO World Heritage Site open to visitors.

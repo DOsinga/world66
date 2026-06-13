@@ -9,6 +9,7 @@ tags:
 latitude: -27.4509
 longitude: -58.9870
 address: "Plaza 25 de Mayo, Resistencia"
+score: 5.2
 ---
 
 The Catedral San Fernando Rey is the modest cathedral of Resistencia, facing the Plaza 25 de Mayo. Built in the 1960s in a plain modernist style, it replaced an earlier 19th-century church and sits at the heart of the diocese of Resistencia.

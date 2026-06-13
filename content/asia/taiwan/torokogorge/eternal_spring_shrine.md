@@ -14,6 +14,7 @@ story: >
   The official memorial focuses on the "sacrifice" for Taiwan's development;
   the political circumstances of the workers' presence on the project are
   less prominently acknowledged.
+score: 8.0
 ---
 
 The Eternal Spring Shrine (Changchun Shrine) is the most photographed sight in Taroko Gorge — a red pavilion built directly over a waterfall, connected to the cliff face by a narrow bridge, with the gorge walls rising above and the river below. It was built in 1958 to commemorate the workers who died building the Cross-Island Highway; the water flowing continuously beneath it gives it the name.

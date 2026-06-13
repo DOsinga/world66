@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Cuello contains some of the earliest confirmed evidence of Maya civilization in Belize, with occupation dating back to around 2500 BC. Excavations in the 1970s and 1980s turned the academic consensus about Maya development upside down: the site showed a sophisticated community with well-built platforms and ceramics centuries earlier than archaeologists had expected, pushing the origins of Maya culture deeper into prehistory."
+score: 6.8
 ---
 
 Cuello is a Maya archaeological site about 5 kilometres west of Orange Walk Town on private agricultural land. Unlike Lamanai's dramatic jungle setting, Cuello is modest in appearance — the visible structures are low mounds among sugarcane fields — but its archaeological importance is exceptional. The site has produced evidence of Maya settlement dating to around 2500 BC, making it one of the earliest known Maya communities in Belize.

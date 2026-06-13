@@ -10,6 +10,7 @@ story: >
   The Tricity Landscape Park was established in 1979 as one of Poland's first landscape parks — a category between a strict nature reserve and ordinary countryside, intended to protect the mixed beech-oak forests on the Kashubian hills while still allowing hiking and recreation. It covers 199 square kilometres, stretching from Gdynia in the north to the southern suburbs of Gdańsk.
 sources:
   - https://en.wikipedia.org/wiki/Tricity_Landscape_Park
+score: 8.3
 ---
 
 West and south of Sopot, the Tricity Landscape Park begins where the resort streets end: a protected forest of beech and oak covering the Kashubian hills, with hiking trails, viewpoints, and a surprising amount of wildness given the urban context. You can walk directly from Monte Cassino Street into the forest in about twenty minutes.

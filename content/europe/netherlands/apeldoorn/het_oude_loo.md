@@ -9,6 +9,7 @@ tags:
   - castle
   - architecture
 snippet: 15th-century moated castle on the Het Loo estate, predating the palace by two centuries
+score: 7.0
 ---
 
 The "Old Loo" is a small 15th-century moated castle a few hundred metres behind Paleis Het Loo, in the woods of the royal estate. William III bought it as a hunting lodge in 1684 and it was his summer residence while the grander palace was being built; today it is occasionally used by the Dutch royal family and is open to the public only on a limited number of guided tours each year.

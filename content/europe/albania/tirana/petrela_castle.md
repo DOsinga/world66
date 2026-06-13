@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_building
+score: 7.6
 ---
 
 A medieval castle 18 km south of Tirana, perched on a rocky outcrop above the Erzeni river. The site has been fortified since Justinian's time, but the surviving towers and walls are Skanderbeg-era — his sister, the legend goes, held the castle while her brother fought Ottomans in the north.

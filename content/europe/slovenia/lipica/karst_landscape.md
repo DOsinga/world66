@@ -14,6 +14,7 @@ story: >
   the sinkholes, caves, disappearing rivers, and rocky scrub — but the term comes from
   the Slovenian word "kras," referring to this exact region between Trieste and Ljubljana.
   When you walk the plateau, you are walking on the world's geological type specimen.
+score: 6.8
 ---
 
 The Karst plateau around Lipica gives both the horse breed and the geological term their names. The landscape is striking: bare white limestone outcrops pushing through thin soil, dotted with scrubby oak and pine, cut by dry valleys and sudden sinkholes where the ground opens into underground cave systems. It looks harsh but has a spare beauty, particularly in the late afternoon when the light catches the pale rock.

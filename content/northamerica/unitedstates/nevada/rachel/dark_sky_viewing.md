@@ -13,6 +13,7 @@ story: >
   town lights for over 100 miles in most directions, this produces some of the darkest skies
   in the contiguous United States. The Milky Way is visible to the naked eye as a distinct
   structure with texture and depth, not just a pale smear.
+score: 8.1
 ---
 
 The skies above Rachel are among the darkest in the contiguous United States. No major town within 100 miles, no commercial air routes overhead, and virtually no artificial light of any kind means that on a clear moonless night the Milky Way is visible as a vivid band across the entire sky. The nearest Bortle Class 1 (the darkest possible) zones are within driving distance, but Rachel itself is dark enough that the difference is academic — what you see here will astonish anyone who has only ever stargazed near a city.

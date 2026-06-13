@@ -11,6 +11,7 @@ story: >
   revived the Salers cattle breed from near-extinction. The statue in the centre
   shows him with one of his beloved cows — a tribute from the farmers of Cantal
   who owe their livelihoods to his stubbornness.
+score: 8.4
 ---
 
 The main square is the heart of Salers and the best place to get your bearings. It is flanked by tall Renaissance mansions built from the local dark grey basalt, giving it an unusually dramatic look for a French village square. The towers and turrets belong to private houses — families who grew wealthy from selling Salers cheese and cattle in the 16th century.

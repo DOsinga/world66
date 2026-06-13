@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: The parish church where García Márquez was baptised
+score: 5.9
 ---
 
 The yellow-painted parish church on the main square, where García Márquez was baptised in 1927. The structure is unremarkable colonial — a single nave, a flat-fronted bell tower — but the square in front, in the merciless midday heat, will be familiar to anyone who has read the early chapters of *One Hundred Years of Solitude*.

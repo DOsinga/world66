@@ -13,6 +13,7 @@ tags:
 - sight
 title: Tizi n'Ouanoums
 type: poi
+score: 7.6
 ---
 
 At 3,664 metres, Tizi n'Ouanoums is the high pass that connects the South Cwm below Toubkal's summit with the Azzaden valley to the west. It forms the key link in the standard Toubkal circuit — a three-day loop that climbs from Imlil, summits Toubkal, crosses the pass, descends through the Azzaden, and returns over the Tizi Mzik. The pass itself is a narrow notch of dark rock with precipitous drops on both sides; on a clear day the views extend over ranges upon ranges of the Atlas.

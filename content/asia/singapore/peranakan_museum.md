@@ -9,6 +9,7 @@ tags:
 - museums
 title: Peranakan Museum
 type: poi
+score: 8.1
 ---
 
 Housed in a handsome colonial building that was once the Tao Nan School, this museum explores the culture of the Peranakans -- the descendants of Chinese immigrants who married into local Malay and Indonesian communities across Southeast Asia. The collection covers everything from elaborate wedding ceremonies and beadwork to Nonya cuisine and Baba fashion.

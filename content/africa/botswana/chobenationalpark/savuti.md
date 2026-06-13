@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Savute_Channel
 story: >
   The Savuti Channel is one of Africa's great hydrological mysteries: a 100km-long distributary of the Linyanti/Chobe system that has stopped and started flowing multiple times in the past 150 years, apparently due to tectonic activity raising and lowering the local water table. It ran dry in 1879, briefly revived, dried again in 1944, and flowed again in 1957. By 1982 it had dried up once more. In 2010 it inexplicably started flowing again. No one fully understands why.
+score: 9.7
 ---
 
 Savuti is the remote interior of Chobe — 160km south of Kasane on sandy tracks that require high-clearance 4WD — and is consistently rated one of the best game-viewing areas in Africa. The Savuti marsh, fed by the Savuti Channel, attracts enormous concentrations of game in the dry season: lion prides hunting buffalo, hyena clans competing for kills, wild dogs denning in the open plain, and the largest gathering of elephants in Botswana outside the Chobe riverfront.

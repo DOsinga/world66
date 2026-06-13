@@ -9,6 +9,7 @@ tags:
 latitude: 35.8917
 longitude: -115.0483
 snippet: "17,000 acres of remote desert peaks within the NCA"
+score: 7.4
 ---
 
 The North McCullough Wilderness occupies the southern and western half of the conservation area — about 17,000 acres of steep canyons, ridges, and unsigned routes leading up onto the McCullough Range. It is the wildest land within easy reach of Las Vegas: no signed trails, no rangers, no shade, and no water sources you can rely on.

@@ -8,6 +8,7 @@ tags:
 latitude: 29.1010
 longitude: 75.9650
 snippet: "Sufi shrine to four Chishti saints, a regional pilgrimage site since the 13th century"
+score: 7.4
 ---
 
 Char Qutub — literally "the four poles" or "the four saints" — is the dargah of four generations of Chishti Sufi teachers, the most famous being Jamaluddin Hansvi (d. 1260), a disciple of Baba Farid and a major figure in the spread of the Chishti order across northern India. The shrine has been a regional pilgrimage centre since the thirteenth century.

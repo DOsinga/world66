@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Tuti Bridge
 type: poi
+score: 7.0
 ---
 
 Tuti Bridge is the cable-stayed bridge that links central Khartoum to Tuti Island. Designed by a German engineering firm and opened in 2009, it replaced a small ferry that had served the island for more than a century. The single concrete pylon and fan of cables make it the most modern-looking structure in central Khartoum.

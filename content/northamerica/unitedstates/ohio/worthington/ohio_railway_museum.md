@@ -15,6 +15,7 @@ story: >
   densest interurban networks in the world — by the late 1930s it was almost
   entirely gone. The museum operates on a short section of track and still runs
   electric cars under their own power, a rare survival.
+score: 7.3
 ---
 
 On the eastern edge of Worthington, the Ohio Railway Museum preserves a collection of streetcars, interurban cars, and railway locomotives, many of them from Ohio's once-vast network of electric interurban railways. Founded in 1948, the museum is one of the oldest electric railway preservation organisations in the United States, and its collection spans the full arc of Ohio rail history from the horse-car era through the mid-20th century.

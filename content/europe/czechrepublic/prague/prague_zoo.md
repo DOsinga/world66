@@ -9,6 +9,7 @@ tags:
 title: Prague Zoo
 type: poi
 url: zoopraha.cz
+score: 8.0
 ---
 
 Prague Zoo consistently ranks among Europe's best, spread over 58 hectares of hilly terrain above the Vltava in the Troja neighbourhood. The layout takes advantage of the topography — enclosures follow natural gradients and viewpoints are built into the walking routes. The zoo has a strong reputation for breeding programmes, particularly for endangered species.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "The Popayán-born modernist sculptor Edgar Negret's house and a small contemporary art museum"
+score: 7.6
 ---
 
 Two small museums on the same site: the childhood home of Edgar Negret (1920–2012), one of Colombia's most important 20th-century sculptors, and the adjoining Museo Iberoamericano de Arte Moderno (MIAMP). The combination is unexpected in a town this traditional and worth the visit.

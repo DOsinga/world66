@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cripple_Creek_District_Museum
 story: >
   The museum occupies the former Midland Terminal Railroad Depot, built in 1895 at the height of the gold rush. At its peak Cripple Creek was producing more gold per year than any other district in the United States — by 1900 it had yielded more gold than the California and Klondike rushes combined. The museum's collection reflects a community that went from a cattle ranch to a city of 50,000 people in less than a decade.
+score: 8.1
 ---
 
 The Cripple Creek District Museum is the best place to grasp the full scale of what happened here. The collection spans assay equipment, period photographs, mining tools, and documents from the boom years of the 1890s and early 1900s, including material on the bitter 1894 and 1903–04 miners' strikes that shaped the district's political history as much as the gold shaped its physical landscape.

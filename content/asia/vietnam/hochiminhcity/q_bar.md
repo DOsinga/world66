@@ -9,6 +9,7 @@ tags:
 - bar
 title: Q Bar
 type: poi
+score: 6.1
 ---
 
 A sleek lounge bar set in the basement opposite the Opera House on Lam Son Square, Q Bar has been a fixture of Saigon's nightlife scene since the late 1990s. The interior is minimalist and moody, with low lighting and comfortable seating that draws a mix of expats and well-heeled locals.

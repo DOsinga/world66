@@ -7,6 +7,7 @@ tags:
   - alsancak
 latitude: 38.4336
 longitude: 27.1395
+score: 8.3
 ---
 
 The streets of Alsancak behind the Kordon are dense with meyhane restaurants — the traditional Turkish tavern serving rakı and a long sequence of meze and fish dishes. The concentration of good meyhane on and around 1453 Sokak and the surrounding lanes is among the best in Turkey outside Istanbul.

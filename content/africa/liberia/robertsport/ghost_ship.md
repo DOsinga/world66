@@ -7,6 +7,7 @@ tags:
 latitude: 6.7400
 longitude: -11.3800
 story: The 80-metre tanker Tamaya 1 ran aground on the Liberian coast in 2009 after several weeks of radio silence — its crew vanished, the cause never officially determined. The wreck has been a beach landmark ever since, slowly being eaten by the sea.
+score: 5.9
 ---
 
 The Robertsport "ghost ship" is the rusting hulk of a small oil tanker that grounded on a remote stretch of beach near the town in 2009. The crew were never accounted for and the circumstances of the grounding were never fully explained — making the wreck one of those coastal oddities that travellers go out of their way to see.

@@ -4,6 +4,7 @@ type: poi
 latitude: 27.6166
 longitude: -82.7392
 tags: [things_to_do, sight]
+score: 6.2
 ---
 
 The Gulf Pier extends 1,000 feet into the Gulf of Mexico from the western side of Mullet Key and is one of the longest free fishing piers in Florida. You do not need a fishing licence to fish from it — that is covered by the county. A bait and tackle shop at the base sells rods, bait, ice, and cold drinks, and rents gear by the half day.

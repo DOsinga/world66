@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.7
 ---
 
 The Milk Market on Mungret Street has operated as a city market since 1852 and is now Limerick's most reliable food destination. The covered area, refurbished and roofed in 2010, holds the Saturday market — easily the busiest of the week — with around 50 stalls of farmhouse cheeses, organic vegetables, local fish from Kerry and Clare, sourdough bread, hot food, and the Limerick speciality of cured pork.

@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Haj Ali Darvish Teahouse
 type: poi
+score: 6.5
 ---
 
 Haj Ali Darvish Teahouse is one of the oldest and certainly the smallest tea house

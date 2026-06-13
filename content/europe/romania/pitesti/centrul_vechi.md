@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.8573
 longitude: 24.8699
+score: 5.8
 ---
 
 Pitești's old centre is small and unpretentious — a compact grid of pedestrian streets centred on Bulevardul Republicii and the main square, Nicolae Bălcescu Park. The architecture is a mixture of interwar Romanian townhouse style and communist-era blocks, with occasional older buildings surviving in the gaps.

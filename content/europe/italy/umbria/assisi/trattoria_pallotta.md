@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.0712
 longitude: 12.6149
+score: 6.5
 ---
 
 A long-running family trattoria a few steps from Piazza del Comune, hidden in a vaulted medieval room on Vicolo della Volta Pinta. Pallotta has been serving traditional Umbrian food since the 1960s. The local strangozzi with truffle, the pigeon stuffed with sausage and herbs, and the rabbit with olives are house standards. Set menus offer good value.

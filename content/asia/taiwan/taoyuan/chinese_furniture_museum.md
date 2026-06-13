@@ -9,6 +9,7 @@ longitude: 121.3022
 snippet: Specialist museum with a serious collection of traditional Chinese furniture
 sources:
   - https://en.wikipedia.org/wiki/Chinese_Furniture_Museum
+score: 7.5
 ---
 
 The Chinese Furniture Museum in Taoyuan holds what is probably Taiwan's most significant collection of classical Chinese furniture — hardwood pieces spanning the Ming and Qing dynasties, including chairs, tables, cabinets, and screens made from huanghuali (rosewood) and zitan (purple sandalwood). The collection documents the evolution of Chinese furniture design over six centuries and is well presented with good contextual information.

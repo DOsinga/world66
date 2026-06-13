@@ -9,6 +9,7 @@ longitude: 120.2044
 story: "The building itself is a 1916 Japanese colonial-era structure originally built as the Tainan Hall — a civic assembly building. During World War II it served as a military headquarters, and it was one of the few Japanese-era buildings in Tainan to survive the war intact. The decision to locate Taiwan's national literature museum here was a pointed one: a building erected by the colonisers now houses the literature through which Taiwanese writers grappled with colonisation, war, and the question of identity."
 sources:
   - https://en.wikipedia.org/wiki/National_Museum_of_Taiwan_Literature
+score: 8.4
 ---
 
 The National Museum of Taiwan Literature occupies a handsome 1916 Japanese colonial-era building in the centre of old Tainan, and the building itself is as interesting as the collection it houses. The museum traces Taiwanese literature from the earliest indigenous oral traditions through the Dutch colonial period, the Qing era, Japanese occupation, and the complex post-war decades — a literary history that maps closely onto Taiwan's turbulent political history.

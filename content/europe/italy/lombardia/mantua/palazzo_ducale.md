@@ -12,6 +12,7 @@ story: >
   Andrea Mantegna spent nine years painting the Camera degli Sposi (1465–1474), covering every wall and ceiling with illusionistic scenes of the Gonzaga court. The trompe l'oeil oculus on the ceiling — a painted skylight with laughing putti peering down — is considered the first example of illusionistic ceiling painting in Western art.
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_Ducale,_Mantua
+score: 9.4
 ---
 
 The Gonzaga family's palace complex is one of the largest in Europe, a labyrinth of about 500 rooms, 15 courtyards, and gardens that evolved over three centuries of dynastic rule. The family began building here in the 14th century and kept adding until the sack of Mantua in 1630, when the Habsburgs auctioned off most of the art collection — what remains is still extraordinary.

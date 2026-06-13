@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Romanian National Opera and the Mihai Eminescu National Theatre share the same Renaissance Revival building on Victory Square — a long ornate pile completed in 1875 by the Viennese theatre architects Helmer and Fellner, who built dozens of opera houses across the Habsburg empire. The building was burnt and rebuilt in the late 1920s in a more austere style, then renovated again in the 2000s.

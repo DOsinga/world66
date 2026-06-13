@@ -15,6 +15,7 @@ story: >
   for building stone — a lucky accident of geography.
 sources:
   - https://en.wikipedia.org/wiki/Quiliano
+score: 7.3
 ---
 
 Two Roman bridges survive in the Val Quazzola, marking the course of the ancient Via Julia Augusta (built around the 2nd century AD) through the hills above Quiliano. The remains of three more bridges are visible nearby, giving a clear sense of the original road's alignment through the valley.

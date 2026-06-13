@@ -10,6 +10,7 @@ latitude: 52.5530
 longitude: -2.7728
 sources:
   - https://en.wikipedia.org/wiki/Caer_Caradoc
+score: 8.4
 ---
 
 Caer Caradoc is the sharp volcanic hill that dominates the skyline east of Church Stretton. At 459 metres it is lower than the Long Mynd but far more dramatic in profile — a steep-sided ridge with an Iron Age hillfort on its summit, defended by double ramparts that are still clearly visible. The ascent from Three Gates, the usual starting point north of the town, takes around 45 minutes and is steep but manageable.

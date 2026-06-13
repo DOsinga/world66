@@ -6,6 +6,7 @@ tags:
 - sight
 title: St. Mark's Cathedral
 type: poi
+score: 7.6
 ---
 
 St. Mark's Cathedral on St. Mark's Road is one of Bangalore's finest colonial-era buildings, founded in 1808 and completed in 1816. The cream-painted exterior with its graceful dome and classical proportions belongs to a style of Indian colonial church architecture that is now rare. The building was consecrated by the Bishop of Calcutta and has been in continuous use since then.

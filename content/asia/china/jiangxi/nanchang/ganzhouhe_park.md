@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.7050
 longitude: 115.7800
+score: 5.9
 ---
 
 The Nanchang Wetland Expo Garden (南昌国际湿地公园) in Xinjian district was developed around the Poyang Lake watershed ecosystems and includes reconstructed habitats showcasing the region's native plant and animal communities. Boardwalks, bridges, and open water areas extend across hundreds of hectares, with interpretive exhibits on wetland ecology and the environmental challenges facing the Poyang basin. The garden is better for families and nature lovers than for casual sightseeing; bird activity is consistent throughout the year.

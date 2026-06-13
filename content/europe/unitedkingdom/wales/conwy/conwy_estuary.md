@@ -9,6 +9,7 @@ latitude: 53.2760
 longitude: -3.8330
 sources:
   - https://en.wikipedia.org/wiki/RSPB_Conwy
+score: 6.9
 ---
 
 The RSPB Conwy nature reserve, at the mouth of the Conwy estuary just off the A55 near Llandudno Junction, is one of the most accessible birdwatching sites in north Wales. The reserve was created from land reclaimed during the construction of the A55 tunnel and now covers a mix of lagoons, reed beds, and grassland that attracts a substantial variety of waders and wildfowl.

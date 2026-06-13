@@ -7,6 +7,7 @@ tags:
 latitude: 46.9926
 longitude: -120.5475
 story: "Jane Orleman and Dick Elliott began covering their house in salvaged toys, mirrors, bottle caps, and reflectors in 1979 and never stopped. By the time Dick died in 2008 the property held more than 10,000 individual artworks visible from the street."
+score: 8.1
 ---
 
 Dick and Jane's Spot is the kind of place that justifies a detour off I-90 by itself — an outsider-art property in a residential block a few minutes' walk from downtown Ellensburg, with every fence, post, tree, and inch of yard covered in mosaics, painted faces, kinetic sculptures, and reflector-disk pieces.

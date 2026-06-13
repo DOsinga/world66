@@ -9,6 +9,7 @@ latitude: 38.8573
 longitude: 115.4930
 story: >
   The pillars are inscribed in the Tangut script — the writing system of the Xi Xia kingdom that ruled northwest China from the 11th to 13th centuries before being annihilated by the Mongols. Almost no Tangut-inscribed objects survive outside the former Xi Xia heartland, and the presence of these pillars in Baoding reflects a connection — probably Buddhist — between the two regions that is not fully understood. The script was not fully deciphered until the late 20th century.
+score: 7.1
 ---
 
 The Tangut dharani pillars in Baoding are a remarkable survival — a pair of octagonal stone columns inscribed with Buddhist prayers in the Tangut script, the writing system of the Xi Xia kingdom. Dating from the 11th or 12th century, the pillars are among the very few Tangut-inscribed objects found outside the northwest, and their presence in Hebei reflects the reach of Xi Xia Buddhist culture across northern China before the Mongol conquest.

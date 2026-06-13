@@ -15,6 +15,7 @@ story: >
   pilgrimage site ever since. It is, in a real sense, the oldest pilgrimage mountain
   in China — its association with immortality predates both Buddhism and formal Taoism
   as organised religions.
+score: 8.8
 ---
 
 Kongtong Mountain is one of the five sacred mountains of Chinese Taoism — the westernmost of the group, and the least visited by foreign travellers. The mountain rises steeply above the Jing River valley, its ridges covered in dense forest and its upper slopes studded with temple buildings. The complex developed over many dynasties; the earliest structures date to the Tang, though most of what survives is Ming and Qing reconstruction following periods of destruction in the intervening centuries.

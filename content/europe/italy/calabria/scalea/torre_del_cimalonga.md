@@ -8,6 +8,7 @@ latitude: 39.8160
 longitude: 15.7893
 story: >
   The tower takes its name from a corruption of "Clima Longa" — the long summit — and was built by the Byzantines, then reinforced by the Normans, to watch for Saracen raids along this stretch of coast. It is one of the best-preserved watchtowers in Calabria.
+score: 7.7
 ---
 
 The Torre del Cimalonga is the dominant landmark of Scalea's old town, a squat medieval watchtower perched at the very top of the hill above the Tyrrhenian coast. Built by the Byzantines and reinforced by the Normans, the tower served for centuries as the first line of warning against coastal raids, its position giving unobstructed views in every direction along the coastline.

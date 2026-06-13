@@ -6,6 +6,7 @@ latitude: 7.3833
 longitude: -7.4333
 story: >
   The Wobé are one of the Dan peoples of western Ivory Coast, known across the region for their masked ceremonies and dances. The temate is a women's performance associated with celebration and social cohesion — it is not performed on a schedule for tourists but emerges from within village life, which is both its limitation and its appeal.
+score: 7.1
 ---
 
 The Wobé women of Fakobly perform a traditional dance called the temate — a flowing, rhythmic performance that is one of the more distinctive things you might encounter in this corner of Ivory Coast. It is not a set-piece for visitors; performances happen on their own schedule, tied to village events, ceremonies, and occasions that are determined by the community rather than the calendar.

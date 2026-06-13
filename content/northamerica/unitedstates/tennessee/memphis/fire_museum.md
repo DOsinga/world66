@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - downtown
   - museum
+score: 6.8
 ---
 
 The Fire Museum of Memphis occupies a working-era fire station on Adams Avenue, downtown, and contains one of the more impressive collections of vintage fire apparatus in the South. The trucks span from the horse-drawn steam pumpers of the nineteenth century through gleaming mid-century American LaFrance and Seagrave engines to more recent apparatus. The collection is well-maintained and clearly loved by the people who run the place.

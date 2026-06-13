@@ -16,6 +16,7 @@ story: >
   wide overhanging eaves of the regional building tradition — a hybrid
   that is more functionally adapted to the subtropical climate than either
   purely European or purely Chinese architecture would be.
+score: 6.3
 ---
 
 Beihai Old Street (Zhongshan Road) is a few blocks of late nineteenth-century arcaded shophouses, now given over to small shops, craft vendors, tea houses, and bars. The buildings are in reasonable condition and the street retains its original character: a pedestrianised commercial lane with the covered walkways that allowed year-round pavement use despite the subtropical rain. The scale is modest — this is not a major heritage zone — but the atmosphere is pleasant and the food stalls are good.

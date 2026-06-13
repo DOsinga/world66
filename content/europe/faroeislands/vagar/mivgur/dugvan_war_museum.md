@@ -9,6 +9,7 @@ latitude: 62.0478
 longitude: -7.1929
 sources:
   - https://en.wikipedia.org/wiki/Mi%C3%B0v%C3%A1gur
+score: 6.8
 ---
 
 The Dúgvan War Museum occupies a preserved Nissen hut from the British military installation that operated on Vágar during World War II. Britain occupied the Faroe Islands in April 1940, days after Germany invaded Denmark, to prevent the strategically positioned islands from falling under German control. The base on Vágar supported RAF operations and helped defend Atlantic convoy routes.

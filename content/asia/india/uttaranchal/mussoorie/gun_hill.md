@@ -9,6 +9,7 @@ longitude: 78.0742
 snippet: Mussoorie's most popular viewpoint, reached by ropeway from The Mall
 story: >
   The hill takes its name from the cannon that was fired here every day at noon during the British period, allowing residents across the valley to set their watches. The practice ended long ago but the name stuck.
+score: 6.8
 ---
 
 Gun Hill is the second highest point in Mussoorie at 2,122 metres, reached by a short ropeway from The Mall near the library end of town. The ride takes a few minutes and the views from the top, on a clear day, stretch north to the Himalayan peaks — Bandarpunch, Swargarohini, and the snows above Gangotri. Go early in the morning before the haze builds.

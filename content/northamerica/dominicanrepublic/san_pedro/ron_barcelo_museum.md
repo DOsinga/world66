@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.4600
 longitude: -69.3020
+score: 5.9
 ---
 
 The Centro Histórico Ron Barceló is a small museum dedicated to the history of Ron Barceló, one of the Dominican Republic's most famous rum brands, which has been produced in San Pedro de Macorís since the early 20th century. The brand was founded in 1929 by Spanish immigrant Julián Barceló, and the museum traces both the family story and the evolution of Dominican rum production.

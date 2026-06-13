@@ -16,6 +16,7 @@ story: >
   building was damaged in the 1755 earthquake and the top two floors were only
   reconstructed in the 1980s during excavations that revealed a Roman fish-
   salting tank in the basement.
+score: 7.7
 ---
 
 A 16th-century palace near the waterfront with a facade of over a thousand pyramid-shaped stones (bicos means beaks or points), creating a diamond-rusticated surface unique in Portuguese architecture and unlike anything else in Lisbon. The house belonged to the Albuquerque family, one of the great dynasties of the Age of Discovery.

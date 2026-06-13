@@ -9,6 +9,7 @@ tags:
 - bar
 title: Maguire's Pub
 type: poi
+score: 4.9
 ---
 
 An Irish-style pub in Bergamo Bassa that draws a loyal local crowd. The beer selection leans heavily on draught imports — Guinness and Kilkenny on tap — alongside a decent range of Italian craft bottles. The atmosphere is relaxed and unpretentious, making it a good spot for a casual evening drink away from the more polished bars up in the Citta Alta.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 47.3245
 longitude: 1.0695
+score: 7.8
 ---
 
 Chenonceau has two formal gardens on either side of the entrance to the château, each associated with one of its most important owners. The Jardin de Diane de Poitiers, on the north bank of the Cher, is the older of the two — a classic French Renaissance parterre of clipped box and seasonal plantings laid out in geometric beds. The Jardin de Catherine de' Medici, on the south bank, is larger and more expansive, with great round beds and an old-fashioned kitchen garden that supplies the château restaurant.

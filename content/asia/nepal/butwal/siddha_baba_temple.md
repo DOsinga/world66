@@ -11,6 +11,7 @@ story: >
   The temple is dedicated to Bal Bhadra Kuvar, a 19th-century ascetic known as Siddha Baba, who is said to have attained enlightenment at this spot above the Tinau gorge. His fame spread across the western Terai, and the temple built at the site of his samadhi (final meditation) has attracted pilgrims ever since. The date of his birth and death are disputed, but his influence on local Hindu devotional practice is considerable.
 sources:
   - https://en.wikipedia.org/wiki/Siddha_Baba_Temple
+score: 7.1
 ---
 
 The Siddha Baba temple sits at the dramatic point where the Tinau River emerges from the Siwalik Hills into the Terai plains, in a narrow gorge about 4 kilometres north of central Butwal. The setting is striking — the river squeezes between steep, forested slopes, and the white-painted temple complex clings to the hillside above the water. Hindu pilgrims come throughout the year, but the site draws especially large crowds during the major Hindu festivals, particularly in January (Magh Sankranti) and at the full moon.

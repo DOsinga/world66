@@ -13,6 +13,7 @@ story: >
   harassment and economic boycotts. Its founder Clarence Jordan's experiment in shared
   living eventually gave Millard Fuller the idea that would become one of the world's
   largest affordable-housing movements.
+score: 7.4
 ---
 
 Habitat for Humanity was founded in Americus in 1976, and this is where the organization's international headquarters remains. The Global Village and Discovery Center, just outside the downtown core, tells the full story — from Clarence Jordan's Koinonia Farm experiment in the 1940s through Millard Fuller's development of the Habitat model, and on to the organization's work in dozens of countries.

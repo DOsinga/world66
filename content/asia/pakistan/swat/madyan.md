@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1003
 longitude: 72.5439
+score: 6.6
 ---
 
 Madyan is a small town on the Swat River 50 km north of Mingora, set among walnut and chinar trees with cool summer evenings. It is the historic centre of the Swat fishing district — the trout hatchery here stocks the river, and the angling season opens in April.

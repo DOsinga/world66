@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sport
 type: poi
+score: 8.8
 ---
 
 The Olympia Bob Run is the only naturally iced bobsled track still in operation in the world. All other competition tracks are artificially refrigerated; this one relies entirely on cold nights and careful waterwork to build and maintain the ice. It was constructed in 1904, served two Winter Olympic Games (1928 and 1948), and still hosts World Cup races and European championships each season.

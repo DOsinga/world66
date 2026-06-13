@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.5089
 longitude: 20.9585
+score: 6.4
 ---
 
 Kičevo's old čaršija is a compact Ottoman-era market district in the town centre, a modest but authentic example of the commercial architecture that once defined western Macedonian towns. Small shops, craft workshops, and tea houses occupy stone and timber buildings along narrow lanes. It is nothing on the scale of Skopje's Old Bazaar, but that relative lack of tourist attention is part of its charm.

@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.7510
 longitude: -11.3680
+score: 7.1
 ---
 
 Holy Cross Episcopal Church is one of the oldest surviving structures in Robertsport, a small whitewashed stone church built in the nineteenth century by Americo-Liberian settlers and the missionary societies that came with them. The Episcopal church (American counterpart of the Anglican) has had a long presence in Liberia.

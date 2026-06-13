@@ -11,6 +11,7 @@ tags:
 - sight
 - architecture
 story: "Local legend says that Zhabdrung Ngawang Namgyal, founder of Bhutan as a unified state, chose this spot in 1638 after watching four ravens fly off in the four cardinal directions — taken as a sign that Buddhism would spread from here. A boy named Wangdi, found playing in the sand by the river, gave the place its name."
+score: 7.1
 ---
 
 The Wangdue Phodrang Dzong was one of Bhutan's most striking fortresses, a long, narrow building riding the spine of a steep ridge above the meeting of the Puna Tsang Chhu and Tang Chhu rivers. In June 2012 a butter-lamp fire spread through the wooden interior in a few hours and reduced almost the entire dzong to charcoal. None of the resident monks were hurt, but most of the centuries-old murals and statues were lost.

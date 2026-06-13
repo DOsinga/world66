@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Protestant_Church_(Aruba)
+score: 6.5
 ---
 
 The Protestant Church of Aruba is one of the oldest surviving buildings in Oranjestad, a modest white-painted church with a distinctive octagonal bell tower. It dates from 1846, though the congregation it served was established much earlier under Dutch colonial rule. The church still holds regular services and has not been converted to a museum or tourist attraction, which gives it an authenticity that is easy to appreciate.

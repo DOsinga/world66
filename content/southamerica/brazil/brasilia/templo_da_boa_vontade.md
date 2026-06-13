@@ -7,6 +7,7 @@ snippet: Seven-sided pyramid temple with the world's largest pure crystal
 tags:
 - things_to_do
 - religious_site
+score: 6.9
 ---
 
 The Templo da Boa Vontade is a unique seven-sided white pyramid 21 metres high, opened in 1989 by the Legion of Good Will (LBV). At its apex sits a 21-kg pure crystal — said to be the largest such stone in the world — that focuses sunlight onto a spiral floor below.

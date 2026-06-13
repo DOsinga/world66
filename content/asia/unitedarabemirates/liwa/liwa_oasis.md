@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.13231
 longitude: 53.79662
+score: 8.6
 ---
 
 The Liwa Oasis is a crescent-shaped band of settlements and date palm plantations stretching about 70 km along the northern edge of the Rub al Khali. It is one of the largest oases in Arabia and one of the oldest continuously inhabited places in the Gulf: the Bani Yas tribes who settled here were the ancestors of the ruling families of both Abu Dhabi and Dubai.

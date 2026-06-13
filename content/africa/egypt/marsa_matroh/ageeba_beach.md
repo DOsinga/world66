@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 31.3754
 longitude: 27.1536
+score: 8.0
 ---
 
 About 24 kilometres west of Marsa Matruh, Ageeba Beach is the most dramatic on this stretch of coast. Stone steps cut into the cliff face lead down to a hidden cove ringed by pale limestone bluffs, with transparent green-blue water and flat rocky shelves that work as natural diving platforms. The water is slightly deeper and clearer than in town, and there's good snorkelling along the base of the cliffs.

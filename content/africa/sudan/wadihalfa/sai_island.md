@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Sai Island has been continuously occupied for over 3,000 years. Egyptian pharaohs built a fortress and temple here during the New Kingdom; later the island became part of the Kushite, Meroitic, and Christian kingdoms in turn. Each left buildings on the same ground, so the ruins represent a compressed cross-section of Nubian history that archaeologists are still working through.
+score: 8.4
 ---
 
 Sai Island lies in the Nile about 180 kilometres south of Wadi Halfa, reachable by road along the west bank and then by boat. The island stretches roughly 12 kilometres long and 5 kilometres wide, and its silty, relatively fertile ground has made it attractive to settlers since the Middle Palaeolithic.

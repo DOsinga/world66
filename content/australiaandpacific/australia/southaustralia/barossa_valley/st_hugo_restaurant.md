@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -34.527
 longitude: 138.963
+score: 7.3
 ---
 
 The restaurant at Jacob's Creek's premium estate, St Hugo, is one of the more formal dining options in the Barossa. The menu is modern Australian with a strong focus on local produce — Barossa Valley beef, free-range pork from nearby farms, and vegetables from estate and regional suppliers. The wine list draws heavily on the Jacob's Creek premium labels, and the setting overlooking the creek and vines is genuinely attractive.

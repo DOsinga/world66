@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -12.8275
 longitude: 45.1662
+score: 9.0
 ---
 
 Mayotte's lagoon contains some of the finest diving in the Indian Ocean. The barrier reef shelters an inner lagoon with calm, clear water, and the reef itself drops away into oceanic depths on the outer face, providing wall dives and encounters with large pelagic species — hammerhead sharks, manta rays, whale sharks in season. Dive sites include the famous Passe en S, a winding channel through the reef where currents concentrate fish in spectacular density.

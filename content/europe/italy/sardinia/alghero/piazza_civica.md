@@ -9,6 +9,7 @@ tags:
 - old_town
 title: Piazza Civica
 type: poi
+score: 6.8
 ---
 
 Piazza Civica is the principal square of the old town, just inside the main land gate and a few steps from the harbour. The east side is dominated by the Palazzo d'Albis, a 16th-century Catalan Gothic palace with a tracery window and stone balcony from which, locally, Emperor Charles V was supposed to have addressed Algherese citizens in 1541 — the source of the city's nickname "Bonita y Bien Asentada", or "pretty and well-placed."

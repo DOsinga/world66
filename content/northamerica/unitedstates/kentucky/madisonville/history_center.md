@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.3282
 longitude: -87.4989
+score: 6.7
 ---
 
 The Hopkins County History Center occupies the old city hall building in downtown Madisonville, a well-preserved late 19th-century structure that is one of the better examples of civic architecture in western Kentucky. The museum covers the history of Hopkins County from its early settlement through the coal-mining era that defined the region's economy for most of the 20th century.

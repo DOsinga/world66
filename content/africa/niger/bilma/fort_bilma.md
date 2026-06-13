@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 A small French colonial fort at the centre of town, built in the 1900s when French Equatorial Africa was being secured and used until independence as a remote outpost. Square walls of mud brick, a single tower, a parade ground inside — modest by the standards of Saharan forts further east, but the only piece of formal architecture in Bilma.

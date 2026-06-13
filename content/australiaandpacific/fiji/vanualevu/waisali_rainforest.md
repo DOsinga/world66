@@ -9,6 +9,7 @@ tags:
   - walking
   - wildlife
 snippet: Protected lowland rainforest with walking trails and native birds
+score: 7.2
 ---
 
 The Waisali Rainforest Reserve is a patch of lowland tropical forest inland from Savusavu, protecting one of the last significant stands of native vegetation on Vanua Levu. The island's interior has been heavily modified by sugar cane farming and copra plantations, making Waisali an important refuge for native species. Several marked walking trails lead through the reserve; the main loop takes about two hours at a comfortable pace.

@@ -7,6 +7,7 @@ tags:
 - market
 title: Analakely Market
 type: poi
+score: 8.1
 ---
 
 Analakely is the beating commercial heart of Antananarivo — a dense grid of covered stalls and open-air vendors sprawling across the lower town below the central ridge. The market runs daily but is largest on Tuesdays and Fridays, when traders pour in from surrounding districts. Stalls sell everything from fresh produce and dried fish to textiles, zebu leather, household goods, and second-hand electronics. The noise, smell, and visual density are overwhelming at first and exhilarating once you settle in.

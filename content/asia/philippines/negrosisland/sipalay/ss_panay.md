@@ -8,6 +8,7 @@ tags:
 title: SS Panay Wreck
 type: poi
 story: "The SS Panay was a passenger-cargo ship torpedoed by a Japanese submarine in 1942. Divers exploring the wreck have found gas masks still stored in their original cabinets — among the most haunting reminders anywhere in Philippine waters that ships carried civilian passengers during the war."
+score: 8.3
 ---
 
 The SS Panay is Sipalay's most famous dive site: a well-preserved World War II passenger-cargo ship that was torpedoed by a Japanese submarine in 1942 and now rests on a sandy bottom at around 28 metres. The wreck is largely intact, with the structure still recognisable and the interior accessible to experienced divers. Gas masks remain in the stock rooms, and the holds give a vivid sense of the ship's wartime role.

@@ -13,6 +13,7 @@ story: >
   carillon of 49 bells that plays concerts throughout the academic year. Beneath Old Main lawn
   lies a network of steam tunnels students have been sneaking into for decades, though the
   university strongly discourages exploration.
+score: 6.8
 ---
 
 Old Main is Penn State's iconic administration building and the symbolic heart of the university. The tall Victorian-style tower with its distinctive cupola is visible from much of campus and appears on virtually every piece of Penn State promotional material. The building houses the president's office and key administrative functions — it is not primarily a visitor attraction, but the grounds around it are the centre of campus life and worth a walk.

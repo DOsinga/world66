@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 5.6
 ---
 
 The house museum of President Gabriel González Videla (1946–1952) occupies a colonial mansion on the corner of the Plaza de Armas. Two floors of personal effects, presidential furniture, gifts of state, and a gallery of regional painting on the upper level.

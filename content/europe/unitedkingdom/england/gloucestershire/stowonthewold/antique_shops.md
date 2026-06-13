@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 51.9300
 longitude: -1.7228
+score: 7.4
 ---
 
 Stow-on-the-Wold is one of England's most concentrated antique-dealing centres, with around forty dealers operating in and around the town — a remarkable number for a place with a population of two thousand. The shops are clustered around the market square and along Sheep Street and Church Street, ranging from individual dealers with a single room to the large Stow Antiques Centre which houses multiple traders under one roof.

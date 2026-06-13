@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Afrikaans_Language_Monument
 story: >
   The monument was unveiled on 10 October 1975, the centenary of the founding of the Genootskap van Regte Afrikaners, the society that pushed for Afrikaans recognition as a distinct language from Dutch. The sculptor Jan van Wijk designed it to represent the language's three main influences: Dutch (the tall central pillar), African languages (the lower rounded forms), and Malay (the linking columns). It remains controversial to some as a symbol of Afrikaner nationalism.
+score: 8.2
 ---
 
 The Afrikaans Language Monument stands on the slopes of Paarl Mountain and is one of South Africa's more striking pieces of post-war architecture. The three interconnected concrete columns rise dramatically from the hillside, and the views across the Paarl valley from the monument terrace are exceptional. On a clear day you can see Table Mountain in the distance.

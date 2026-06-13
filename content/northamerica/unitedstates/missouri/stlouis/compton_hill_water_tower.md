@@ -7,6 +7,7 @@ tags:
 - compton_heights
 latitude: 38.6168
 longitude: -90.2247
+score: 7.5
 ---
 
 The Compton Hill Water Tower is a 179-foot stone tower built in 1898 in a French Romanesque style, with rough-cut limestone and a copper-clad observation deck. It was built to disguise a 134-foot iron standpipe used to equalise water pressure in the city's distribution system — at a time when St Louis was vain enough to dress its utilities in elaborate architecture.

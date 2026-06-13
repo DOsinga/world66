@@ -8,6 +8,7 @@ tags:
 latitude: 5.4300
 longitude: -8.7000
 story: Long-term primatology research in Sapo has confirmed that the park holds one of the largest remaining populations of the critically endangered western chimpanzee — likely well over a thousand individuals. Studies by the Wild Chimpanzee Foundation and partners have been instrumental in monitoring the population through and after the civil-war years.
+score: 7.3
 ---
 
 The forests of Sapo hold significant populations of western chimpanzees and other primates — Diana monkeys, red colobus, sooty mangabeys, putty-nosed monkeys among them. Researchers from the Wild Chimpanzee Foundation, SCNL and international universities have run long-term monitoring at several sites within and around the park, mostly using camera-trap arrays and nest surveys.

@@ -7,6 +7,7 @@ tags:
 latitude: 33.8519
 longitude: 132.7864
 snippet: Historic hot spring district east of the city, centered on the famous Honkan bathhouse
+score: 8.6
 ---
 
 Dogo is Matsuyama's famous hot spring district, connected to the city center by the same historic tram line that has been running since 1887. The neighborhood is built around Dogo Onsen and has a dense cluster of traditional ryokan, sweet shops, sake vendors, and covered arcade streets that fill up in the evenings with visitors in yukata.

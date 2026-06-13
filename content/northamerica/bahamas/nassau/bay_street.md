@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0780
 longitude: -77.3411
+score: 6.8
 ---
 
 The main commercial street of downtown Nassau, running along the waterfront from the cruise terminal in the west to Fort Montagu in the east. The historic stretch — roughly the first kilometre east from the docks — is lined with pink-and-white Loyalist-era buildings now occupied by duty-free jewellery shops, restaurants, banks, and the Straw Market.

@@ -6,6 +6,7 @@ address: 'Wollaston Road'
 latitude: -38.3912
 longitude: 142.4721
 snippet: "1890s suspension bridge built with recycled cable-tram cables"
+score: 5.7
 ---
 
 An early example of a suspension bridge, built in 1890. The cables were repurposed from old Melbourne cable trams, giving it an unusual link to the city's transport history.

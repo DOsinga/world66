@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - bar
   - the_bund
+score: 6.1
 ---
 
 The classic Bund rooftop, on top of the restored Bund 18 building, with a wide outdoor terrace looking straight across at the Pudong skyline. Glamorous and pricey, with a late-night dance crowd at weekends. Go early for a sunset cocktail and the view; the music gets louder and the crowd thicker as the night goes on.

@@ -6,6 +6,7 @@ longitude: 21.1755
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 A small fourteenth-century monastery hidden in a fold of the hillside about a kilometre below the town, reachable by a footpath that descends from the lower edge of Metsovo (signposted). It is the oldest surviving religious building in the area, with a tiny single-aisled church almost entirely covered in frescoes from the late sixteenth and seventeenth centuries.

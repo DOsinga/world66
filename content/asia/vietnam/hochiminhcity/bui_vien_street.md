@@ -8,6 +8,7 @@ tags:
 latitude: 10.7674
 longitude: 106.6918
 snippet: "The backpacker street — chaotic, noisy, and the centre of budget nightlife in Saigon"
+score: 6.2
 ---
 
 Bui Vien Street in District 1 is the axis of the backpacker district — a two-block stretch of hostels, cheap restaurants, bars, and street vendors that becomes one of the loudest places in Asia after 9PM. It is resolutely unsubtle: competing bars blast music at each other, tuk-tuks weave through the pedestrians, and vendors press beers into your hand before you've sat down.

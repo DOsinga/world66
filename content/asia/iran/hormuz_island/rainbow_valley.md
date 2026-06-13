@@ -13,6 +13,7 @@ story: >
   called tomshi. The same mineral pigments were historically exported across the Persian
   Gulf as a dye and pigment. Hormuzis call this part of the island the "Valley of the
   Statues" for the wind-eroded formations that rise from the ground in human-like shapes.
+score: 8.8
 ---
 
 Rainbow Valley, on the southern side of Hormuz, is where the island's extraordinary geology puts on its most dramatic display. The soil and rock cycle through bands of deep red, rust, ochre, violet, yellow, and white — the product of different mineral concentrations including iron oxide, sulfur, and magnesium. On sunny afternoons the colours are almost impossibly vivid.

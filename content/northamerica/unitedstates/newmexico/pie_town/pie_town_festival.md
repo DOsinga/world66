@@ -10,6 +10,7 @@ story: >
   Pie Town got its name in the 1920s when a man named Clyde Norman opened a dried-apple pie stand by the road. The name stuck, and the settlement that grew up around the crossroads took the same name. Today the annual festival draws hundreds of visitors to a place that normally sees a fraction of that number — proving that a good name and a good pie can outlast almost anything.
 sources:
   - https://en.wikipedia.org/wiki/Pie_Town,_New_Mexico
+score: 6.6
 ---
 
 The Pie Town Pie Festival, held on the second Saturday of September each year, is this tiny community's big annual event. Local bakers and visitors alike bring pies — fruit pies, cream pies, savoury pies — and the community gathers around the handful of buildings that constitute the town to eat, compete, and celebrate the place's unlikely claim to fame.

@@ -8,6 +8,7 @@ tags:
   - seafood
 title: Aariya Resort Restaurant
 type: poi
+score: 5.4
 ---
 
 One of the better kitchens along the main strip, serving Sri Lankan rice and curry alongside fresh catch — the fish is bought daily from the Pottuvil market. The crab curry is worth ordering if they have it. Prices are higher than local spots but reasonable for the quality and the sea view. The terrace fills up at lunch and dinner during surf season; arrive early or expect to wait.

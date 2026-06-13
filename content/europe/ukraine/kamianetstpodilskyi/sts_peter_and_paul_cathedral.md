@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   When the Ottomans captured Kamianets-Podilskyi in 1672, they converted the cathedral to a mosque and added a minaret. The minaret still stands today. When the Polish-Lithuanian Commonwealth regained the city in 1699, the returned bishop refused to demolish the minaret but had it topped with a golden statue of the Virgin Mary, creating the unusual hybrid structure you can still see — a Catholic church with a 17th-century Ottoman minaret wearing a Marian crown.
+score: 7.8
 ---
 
 Sts. Peter and Paul Cathedral (Cathedral of SS. Peter and Paul) is the dominant building in the old town — a large Latin rite Catholic church built between 1580 and 1640 in a mixture of Renaissance and Gothic styles. The most striking feature of the exterior is the Ottoman minaret added in 1672 during the brief Turkish occupation, which still rises beside the church tower and is topped by a later statue of the Virgin Mary.

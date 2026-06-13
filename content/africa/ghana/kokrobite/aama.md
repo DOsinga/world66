@@ -8,6 +8,7 @@ latitude: 5.4975
 longitude: -0.3640
 story: >
   Mustapha Tettey Addy, who founded AAMA, came from a family of master drummers from the Ga people. He performed at Carnegie Hall and the Royal Albert Hall in the 1970s, was recorded by ethnomusicologists, and could have built a career in Western concert halls. Instead he returned to Kokrobite and built a school to keep traditional drumming alive where it came from. His philosophy was that the drum was not a relic to be preserved in glass, but a living language that needed to be spoken.
+score: 8.2
 ---
 
 The Academy of African Music and Arts (AAMA) is the cultural anchor of Kokrobite, founded by master drummer Mustapha Tettey Addy. The academy teaches traditional Ghanaian drumming, dance, and music — techniques that are passed down orally and physically through daily practice. Week-long residential courses are available for serious students; shorter sessions and single-evening workshops cater to visitors passing through.

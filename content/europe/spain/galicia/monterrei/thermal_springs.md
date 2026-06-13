@@ -10,6 +10,7 @@ story: >
   The Roman legions stationed near Aquae Querquennae — a fort at the southern end of the Monterrei valley — used the thermal springs here for bathing and recuperation. The mineral water of Cabreiroá has been bottled commercially since the 19th century and is now one of the best-selling still waters in Spain. The bottles come from the same source the Romans drank from two thousand years ago.
 sources:
   - https://en.wikipedia.org/wiki/Ver%C3%ADn
+score: 7.4
 ---
 
 The Monterrei valley has been known for its mineral springs since Roman times. The waters at Cabreiroá and Sousas emerge naturally at around 15–18°C, rich in bicarbonate and calcium — mild enough to drink in volume, which is why both brands are bottled commercially. But the real experience is bathing. Several spa hotels in and around Verín offer thermal pool access, and a day between the castle, a wine tasting, and an afternoon at the baths makes a very complete visit.

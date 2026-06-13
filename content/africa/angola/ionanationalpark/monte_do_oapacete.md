@@ -8,6 +8,7 @@ tags:
 - sight
 - mountain
 - geology
+score: 6.4
 ---
 
 Monte do Oapacete, also known as Serra da Cobra, is another of the park's inland mountain landmarks. Its value for travellers is less about climbing a named summit and more about seeing how abruptly rock rises from the surrounding arid country.

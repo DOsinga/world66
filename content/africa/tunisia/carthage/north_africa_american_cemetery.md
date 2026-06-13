@@ -7,6 +7,7 @@ tags:
 - historic
 title: North Africa American Cemetery and Memorial
 type: poi
+score: 7.3
 ---
 
 The North Africa American Cemetery and Memorial sits north of the main Carthage archaeological zone on a quiet stretch of suburban Tunis. It is the only American military cemetery in Africa from World War II and holds the graves of 2,841 American servicemen who died during the North African Campaign — primarily in the fighting against the Afrika Korps in Tunisia in the spring of 1943.

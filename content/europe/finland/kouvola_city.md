@@ -5,6 +5,7 @@ latitude: 60.771009
 longitude: 26.786649
 title: Sights in Kouvola City
 type: poi
+score: 3.5
 ---
 
 **Kymmene River**, **Kuusankoski**, **Ankkapurha**, **Myllykoski Falls** and **Valkeala lake district** are most famous

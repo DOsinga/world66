@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.0
 ---
 
 The hooked spit of land that closes off Castries harbour to the north is the Vigie ("Lookout") Peninsula. A pretty 19th-century lighthouse stands at the tip, an old French battery sits halfway along, and the road continues round to George F. L. Charles Airport, whose single short runway crosses the peninsula side to side.

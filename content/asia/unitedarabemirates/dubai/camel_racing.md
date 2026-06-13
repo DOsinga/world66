@@ -6,6 +6,7 @@ tags:
 - sight
 title: Al Marmoom Camel Racing Track
 type: poi
+score: 7.6
 ---
 
 Camel racing is one of the oldest sports in the Gulf, and the Al Marmoom Camel Racing Track about 40 kilometres southeast of the city is where Dubai's racing season runs from October to April. Races take place on Friday and Saturday mornings, typically starting around 7am. Entry is free.

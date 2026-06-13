@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.0526
 longitude: 34.7517
+score: 7.4
 ---
 
 The Jaffa Port is one of the oldest continuously used harbours in the world — Egyptian texts from the fifteenth century BC describe ships unloading here. The current harbour is a small working fishing port at the base of the old Jaffa hill, with about a dozen fishing boats, a row of seafood restaurants, and a small flea market on the quayside on Saturdays.

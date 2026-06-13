@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 28.2023
 longitude: 112.9737
+score: 6.9
 ---
 
 The Korean Provisional Government Memorial Hall in central Changsha marks the period from 1937 to 1938 when the Korean government-in-exile, forced out of Shanghai by the Japanese invasion, relocated to Changsha before moving further south. The Korean independence movement used Changsha as a base for organising resistance to Japanese colonial rule, and several important meetings and decisions took place here. The memorial documents this largely forgotten chapter of Korean-Chinese wartime cooperation.

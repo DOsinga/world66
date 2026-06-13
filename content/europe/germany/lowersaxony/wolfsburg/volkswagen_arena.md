@@ -7,6 +7,7 @@ tags:
 snippet: 30,000-seat football stadium, home of VfL Wolfsburg
 latitude: 52.4328
 longitude: 10.8039
+score: 6.3
 ---
 
 The Volkswagen Arena is the home ground of VfL Wolfsburg, the city's Bundesliga club and one of the more successful corporate-backed clubs in German football. VfL won the league in 2009, and their women's team has been a dominant force in the women's Bundesliga and Champions League for over a decade.

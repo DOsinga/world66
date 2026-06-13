@@ -8,6 +8,7 @@ tags:
 latitude: 42.5135
 longitude: -8.8152
 snippet: Spain's parador network occupies a 17th-century pazo ruin overlooking the Ría de Arousa
+score: 7.0
 ---
 
 The Parador de Cambados occupies the remains of the 17th-century Pazo de Bazán, a manor house that fell into ruin and was later incorporated into the national parador network. The building wraps around a large stone courtyard planted with greenery, and the position is superb — the estuary views from the garden and the upper terrace take in the full width of the Ría de Arousa on clear days. Even if you are not staying here, the courtyard and bar are worth visiting.

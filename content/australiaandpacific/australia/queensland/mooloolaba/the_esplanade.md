@@ -6,6 +6,7 @@ longitude: 153.1177
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Mooloolaba Esplanade is the kilometre-long beachfront strip that defines the town. Restaurants, ice-cream parlours, surf shops and a few hotels line the inland side; mature Norfolk Island pines and a wide grass verge stand between the road and the sand on the seaward side.

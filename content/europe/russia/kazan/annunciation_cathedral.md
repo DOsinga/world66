@@ -9,6 +9,7 @@ tags:
   - cathedral
   - kremlin_district
   - architecture
+score: 8.7
 ---
 
 The Annunciation Cathedral inside the Kremlin is the senior Russian Orthodox church of the city, built between 1555 and 1562 by the same Pskovian architects responsible for parts of St Basil's in Moscow. The white-walled cathedral with five blue-and-gold cupolas is one of the oldest surviving stone buildings in Kazan.

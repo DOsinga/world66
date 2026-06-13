@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.8
 ---
 
 A small ornamental park immediately outside the Old City walls, the Philharmonic Gardens were laid out in the 1860s and are named for the small concert hall at one end. The fountains, ornamental flower beds, and shaded paths are a pleasant antidote to the heat of the surrounding stone in summer, and the park is a favoured spot for wedding photographs at weekends.

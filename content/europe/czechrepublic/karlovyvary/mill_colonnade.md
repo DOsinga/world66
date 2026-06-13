@@ -14,6 +14,7 @@ story: The five springs inside the Mill Colonnade range in temperature from 53°
   temperatures that would otherwise scald your mouth. Locals carry their personal
   cups; you can buy one at every souvenir shop in town, and it quickly becomes an
   essential accessory for an afternoon at the colonnades.
+score: 8.7
 ---
 
 The grandest structure on the Teplá promenade, the Mill Colonnade was designed by Josef Zítek — the same architect who built the National Theatre in Prague — and completed in 1881. The building runs for about 130 metres along the river, a long neo-Renaissance arcade of columns enclosing five hot springs. The interior is elegant and appropriately theatrical for a building that was as much about display as hydrology.

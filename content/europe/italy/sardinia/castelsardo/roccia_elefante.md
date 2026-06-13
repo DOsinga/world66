@@ -13,6 +13,7 @@ story: >
   and 2700 BC. The Sardinian name reflects a folk belief that the mysterious carved chambers
   were made by supernatural small people. Sardinia has more than 2,500 known domus de janas;
   the ones at Elephant Rock are among the most accessible.
+score: 6.9
 ---
 
 About 4 km south of Castelsardo on the road toward Sassari, a large boulder of volcanic trachyte eroded into the unmistakable shape of an elephant rises from the roadside scrubland. The natural rock formation is striking enough on its own, but more interesting are the two Neolithic burial chambers carved into its base — domus de janas, the Sardinian term for the prehistoric rock-cut tombs found across the island.

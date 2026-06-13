@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.1968
 longitude: -120.2338
+score: 6.1
 ---
 
 Fireside Pizza Company is the most reliable casual option in the village — wood-fired pizzas with good char and an honest selection of toppings, at prices that are reasonable by resort standards. The dining room has an open fire and fills quickly after the lifts close, so arriving by 5:30pm avoids the main queue.

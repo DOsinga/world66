@@ -9,6 +9,7 @@ story: Chillingham's herd of ancient white cattle are believed to be descended f
   in a hunt was King Edward VII.
 title: Chillingham Wild Cattle
 type: poi
+score: 7.8
 ---
 
 Chillingham is a tiny village but contains three things of considerable interest. The wild white cattle that roam the castle park are unique in Britain: a herd of ancient bovines that have lived enclosed but wild since medieval times, believed to be the closest surviving relatives of the original native wild cattle of Britain. They are white, horned, and genuinely dangerous.

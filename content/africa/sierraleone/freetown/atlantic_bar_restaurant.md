@@ -11,6 +11,7 @@ tags:
 neighbourhood: Lumley
 latitude: 8.4680
 longitude: -13.2790
+score: 5.6
 ---
 
 A long-running open-air grill and bar on Lumley Beach, mid-strip. The drill is simple: choose a fish from the fresh catch, agree a price, and have it grilled with plantain or chips. Add a cold Star beer or a baby Heineken and watch the surf.

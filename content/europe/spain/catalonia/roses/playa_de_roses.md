@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.5
 ---
 
 The main beach is a five-kilometre crescent of pale, fine sand that runs along the front of the town and on across the bay toward Empuriabrava. It is wide enough that even in August it doesn't feel cramped, and the gentle slope into the water makes it a good swimming beach for children.

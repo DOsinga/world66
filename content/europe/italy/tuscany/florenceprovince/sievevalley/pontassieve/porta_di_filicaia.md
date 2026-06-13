@@ -6,6 +6,7 @@ longitude: 11.4380
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 The south gate of the medieval walls, the smallest and quietest of the three. It opens onto the slope that climbs out of the town toward the surrounding hills and the old hilltop villas — Pievecchia, Grignano, Monterifrassine.

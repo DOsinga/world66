@@ -11,6 +11,7 @@ tags:
 title: Royal Tombs (Mala'ekula)
 type: poi
 story: "Mala'ekula means 'red square' — the entire enclosure is kept covered in crushed red volcanic gravel. Every Tongan monarch since King George Tupou I has been laid to rest here, including King Taufa'ahau Tupou IV in 2006, whose funeral drew nearly half the country."
+score: 6.9
 ---
 
 The royal burial ground of Tonga since 1893, set in a fenced enclosure in the centre of Nuku'alofa near the [Basilica of St Anthony of Padua](/australiaandpacific/tonga/tongatapu/nukualofa/basilica_st_anthony). The walled rectangle is filled with red volcanic gravel from which the central tombs rise; King George Tupou I, who unified Tonga and gave the country its constitution, lies in the largest.

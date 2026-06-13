@@ -8,6 +8,7 @@ tags:
 - museum
 - hafencity
 neighbourhood: HafenCity
+score: 8.2
 ---
 
 Hamburg's international maritime museum occupies a converted 1879 red-brick warehouse on the eastern edge of HafenCity. Nine floors trace the entire history of seafaring — from prehistoric dugouts and Roman triremes to the Hanseatic cogs, the East India Companies, the great age of sail, modern container shipping, and naval warfare.

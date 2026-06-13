@@ -16,6 +16,7 @@ story: >
   Mahler built a composing hut at Maiernigg on the south shore, where he
   wrote his fifth, sixth, seventh, and eighth symphonies between 1900 and 1906.
   The lake proved remarkably productive for late Romantic music.
+score: 7.2
 ---
 
 The Wörthersee is the largest and most celebrated of the Carinthian lakes, stretching 16 kilometres east of Villach toward Klagenfurt. The lake is easily reached from Villach by train (the stations at Pörtschach and Velden are about 20 minutes away) or by bicycle along the lakeside path that runs along the northern shore.

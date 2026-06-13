@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.1374
 longitude: -120.4651
+score: 8.2
 ---
 
 Murphys' Main Street is about four blocks long, and almost every building on it dates to the Gold Rush or shortly after. The standout is the Peter L. Traver Building (1856), a California Historical Landmark with the thick stone walls and iron shutters that Gold Country merchants used to fireproof their inventories. Several other buildings from the same era survive along the block, giving the street a coherence that's increasingly rare — most mining towns lost their historic fabric to fire, neglect, or highway widening. Murphys lost relatively little and has restored carefully rather than over-restored.

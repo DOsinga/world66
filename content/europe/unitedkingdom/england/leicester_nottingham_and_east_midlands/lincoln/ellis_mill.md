@@ -7,6 +7,7 @@ snippet: "Restored 18th-century tower windmill, the last of nine in Lincoln"
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 Built in 1798, Ellis Mill is the last surviving working tower windmill in Lincoln — at one time the city had nine such mills perched along the breezy edge of the cliff to take advantage of the wind. The four-sail mill was operating commercially until 1900, then fell into ruin; it was restored in the 1970s by volunteers and now works at weekends, grinding stoneground wholemeal flour for sale on site.

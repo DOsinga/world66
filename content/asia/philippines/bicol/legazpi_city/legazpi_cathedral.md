@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 13.1384
 longitude: 123.7332
+score: 6.8
 ---
 
 The Cathedral of Saint Gregory the Great in the Old Albay district is the seat of the Diocese of Legazpi and one of the older surviving Spanish colonial churches in the Bicol region. The current structure dates mainly from the 18th and 19th centuries, built and rebuilt after volcanic damage and earthquakes — a process that gives it a somewhat layered appearance. The facade is a sober neoclassical design fronting a long nave with carved wooden details inside.

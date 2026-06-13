@@ -12,6 +12,7 @@ story: >
   eventually abandoned — the animals stayed anyway. Today elephants, zebra, impala, eland, and
   hyena wander in and around the town itself, and it is not unusual to look up from dinner at
   a guesthouse to find a zebra grazing a few metres away.
+score: 8.1
 ---
 
 Maralal National Sanctuary wraps around and through the town, making it one of Kenya's few places where large wildlife is genuinely part of everyday life. Elephants, zebra, impala, eland, and spotted hyena move through the sanctuary freely, and sightings within walking distance of the town centre are common, especially at dawn and dusk.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Oconto_River
+score: 7.4
 ---
 
 A 130-mile tributary of Lake Michigan via Green Bay, running south through Oconto County from the Nicolet National Forest to the lake. The river is well known among Wisconsin anglers for brown trout, steelhead, and salmon — particularly in autumn when the salmon run brings fish up from Lake Michigan and draws anglers from across the region.

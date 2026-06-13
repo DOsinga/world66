@@ -7,6 +7,7 @@ tags:
 latitude: 45.4407
 longitude: 10.6907
 sources: []
+score: 5.5
 ---
 
 The main square of Peschiera, Piazza Ferdinando di Savoia (often still called Piazza Bettotti by locals), sits in the centre of the walled old town. It is a modest, rectangular space lined with cafes, the Palazzo del Comando, and the elegant 17th-century church of San Martino. The square is the natural meeting point in the evening passeggiata.

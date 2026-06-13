@@ -6,6 +6,7 @@ longitude: -105.2414
 tags:
 - sight
 - historic
+score: 6.2
 ---
 
 The Peabody Mansion was the home of James Hamilton Peabody, governor of Colorado from 1903 to 1905 and one of Cañon City's leading merchants in the late nineteenth century. It is an 1881 Italianate brick villa with a square tower, a wraparound veranda, and a large garden — comfortably the grandest house in town.

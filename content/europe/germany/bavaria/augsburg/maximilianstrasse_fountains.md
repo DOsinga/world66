@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Maximilianstrasse Fountains
 type: poi
+score: 7.7
 ---
 
 Three Renaissance bronze fountains placed along the length of Maximilianstrasse, Augsburg's main ceremonial street. The Augustusbrunnen at the northern end shows Emperor Augustus, founder of the Roman city; the Merkurbrunnen at the centre depicts Mercury, god of commerce — a telling choice for a city built on trade; the Herkulesbrunnen at the southern end shows Hercules subduing a sea monster. All three were cast in the 1590s–1600s and represent some of the finest public sculpture in Renaissance Germany. Walking the length of Maximilianstrasse between the three fountains gives the clearest sense of why Augsburg was once one of the most prosperous cities in Europe.

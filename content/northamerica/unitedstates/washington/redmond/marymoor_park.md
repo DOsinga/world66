@@ -5,6 +5,7 @@ tags: [things_to_do, park, outdoor]
 latitude: 47.65918055555555
 longitude: -122.10931111111111
 story: Marymoor is King County's largest and most visited park, drawing over three million people a year to its 640 acres on the north end of Lake Sammamish. It hosts the region's biggest outdoor concert series, a working velodrome, a dog off-leash area that's the largest in the Puget Sound area, and a climbing rock that's been a training ground for local mountaineers for decades.
+score: 8.2
 ---
 
 Marymoor Park occupies a wide, flat stretch along the Sammamish River and the northern tip of Lake Sammamish. The venue side of the park gets most of the attention — summer concerts by well-known acts fill the natural amphitheatre on warm weekends — but the park is just as good on a quiet Tuesday morning when families are cycling the Sammamish River Trail and dogs are sprinting across the off-leash meadows.

@@ -5,6 +5,7 @@ snippet: Small museum inside the Tara tower at the Stari Most, telling the bridg
 tags: [things_to_do, museum]
 latitude: 43.3375
 longitude: 17.8147
+score: 7.8
 ---
 
 Housed inside the Tara tower at the western end of the Stari Most, this compact museum walks visitors through the bridge's construction in the 16th century, its destruction in 1993, and its meticulous reconstruction. Archaeological remains, photographs, and video footage from the war are displayed across several floors.

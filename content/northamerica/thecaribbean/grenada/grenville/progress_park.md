@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 12.1328
 longitude: -61.6202
+score: 4.6
 ---
 
 Progress Park is Grenville's main sports ground, used for cricket and football. It is not a formal tourist sight, but it is a good place to see the town at ease if a local match or school event is happening.

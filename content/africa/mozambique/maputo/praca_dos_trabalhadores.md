@@ -10,6 +10,7 @@ tags:
   - baixa
   - sight
 neighbourhood: Baixa
+score: 7.9
 ---
 
 The **Praça dos Trabalhadores** ("Workers' Square") is the triangular plaza at the foot of the Baixa, framed on one side by the pale-green facade of the **Maputo Central Railway Station** and on the others by the colonial-era post office and the customs building. Before independence it was the **Praça Mac-Mahon**, named after the 19th-century French president who arbitrated the Anglo-Portuguese boundary dispute that left Lourenço Marques in Portuguese hands.

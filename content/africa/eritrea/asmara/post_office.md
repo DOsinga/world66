@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 A handsome 1916 building just off Liberation Avenue, the central post office is one of the earliest examples of Italian neoclassical architecture in the city. The facade is dressed in pale stone with a deep arcaded loggia at street level and a clock above the central pediment.

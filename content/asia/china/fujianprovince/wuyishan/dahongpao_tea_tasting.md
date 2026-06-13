@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7550
 longitude: 117.9650
+score: 9.5
 ---
 
 The tea culture around Wuyishan is not just backdrop — it is one of the genuine reasons to be here. The valley farms produce Da Hong Pao and other Wuyi rock oolongs (岩茶, yánchá), which take their distinctive mineral character from being grown in the crevices and thin soils of the sandstone terrain. This "rock rhyme" (岩韵) flavour — earthy, roasted, and persistent — is unlike oolongs from anywhere else in China.

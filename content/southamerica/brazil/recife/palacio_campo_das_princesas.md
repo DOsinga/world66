@@ -4,6 +4,7 @@ type: poi
 latitude: -8.06
 longitude: -34.8775
 tags: [sight, santo_antonio]
+score: 5.6
 ---
 
 The seat of the Pernambuco state government, a pink-and-white neoclassical palace facing onto the Praça da República. The interior is normally closed to visitors, but the exterior and the formal garden are the main reasons to walk through the square.

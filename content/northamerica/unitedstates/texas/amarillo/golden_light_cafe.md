@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - live_music
+score: 6.7
 ---
 
 The Golden Light has been serving beer and burgers on Route 66 since 1946, making it one of the oldest continuously operating bars on the old highway. It sits in the heart of the historic 6th Street district in a low brick building with a neon sign that looks exactly as it should. The interior is dim and unpretentious — pool tables, mismatched furniture, and the kind of décor that accumulates over eight decades rather than being designed.

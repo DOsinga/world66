@@ -7,6 +7,7 @@ longitude: -104.6662
 sources:
   - https://www.openstreetmap.org
   - https://en.wikipedia.org/wiki/Barra_de_Navidad
+score: 8.0
 ---
 
 The lagoon is what makes Barra de Navidad different from a standard beach town. It stretches behind the sandbar on which the town sits, and it is alive with birds — herons, egrets, cormorants, pelicans, and frigatebirds are all common. The mangroves fringing the far shore are worth exploring by kayak or panga, and local fishermen gather scallops in the shallower areas.

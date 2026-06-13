@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Peace Bridge
 type: poi
+score: 5.3
 ---
 
 The Peace Bridge crosses the Niagara River between Fort Erie and Buffalo, New York, and has been the main land crossing between the two countries at this point since 1927. It was named to commemorate 100 years of peace between Canada and the United States following the War of 1812. The Mather Arch on the Fort Erie side, a ceremonial gateway at the Canadian plaza, is a local landmark and the focal point of the annual Friendship Festival held over Canada Day and Fourth of July weekend.

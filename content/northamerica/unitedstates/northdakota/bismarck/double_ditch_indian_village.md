@@ -14,6 +14,7 @@ story: >
   visitors walk among today.
 sources:
   - https://en.wikipedia.org/wiki/Double_Ditch_Indian_Village_State_Historic_Site
+score: 7.3
 ---
 
 Double Ditch Indian Village Historic Site, about 10 km north of Bismarck along the Missouri River, preserves the earthworks of a large Mandan village occupied from around 1490 to 1785. The site takes its name from the two concentric ditches — originally defensive moats — that encircled the village. The raised circular depressions of the earth lodges are still clearly visible on the river bluff, along with the midden mounds and the outermost defensive earthworks.

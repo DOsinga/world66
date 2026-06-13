@@ -8,6 +8,7 @@ tags:
 latitude: -1.3490
 longitude: 36.7120
 snippet: Relaxed Karen restaurant with a garden terrace and solid East African and international menu
+score: 5.8
 ---
 
 Tamambo is a popular Karen restaurant with a large garden terrace shaded by mature trees — the kind of outdoor dining setting that works particularly well in Nairobi's highland climate. The menu is broad: East African dishes (nyama choma, ugali, pilau), grilled meats, pasta, and salads, all executed reliably. It is a good place for a long lunch after visiting the Karen Blixen Museum or the Giraffe Centre.

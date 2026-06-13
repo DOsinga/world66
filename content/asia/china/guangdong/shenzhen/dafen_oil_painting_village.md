@@ -11,6 +11,7 @@ story: >
   Around 8,000 artists and workers in Dafen produce an estimated five million oil paintings a year — roughly 60 percent of all oil painting exports in the world. A single studio might turn out dozens of Monet Waterlilies in a day. The village supplies hotel chains, cruise ships, and interior designers across Europe and North America.
 sources:
   - https://en.wikipedia.org/wiki/Dafen_Oil_Painting_Village
+score: 7.3
 ---
 
 Dafen Oil Painting Village is one of Shenzhen's most unusual attractions — an entire neighbourhood in the Longgang District given over to the production and sale of oil paintings. What started as a small enclave of replica painters in the 1980s has grown into a community of thousands, lined with studios, galleries, and warehouses stacked floor to ceiling with canvases.

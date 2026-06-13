@@ -9,6 +9,7 @@ latitude: 10.917
 longitude: -68.34
 story: >
   The Cuare lagoons are one of the few places in Venezuela where the scarlet ibis (corocoro) still breeds in large numbers. At sunset the flocks return to the mangroves in waves, turning the trees red. The species is the national bird of Trinidad and Tobago but is increasingly rare on its Venezuelan side of the Caribbean.
+score: 8.3
 ---
 
 Just west of Chichiriviche, the Cuare Wildlife Refuge protects a network of mangrove lagoons that hold flamingos, scarlet ibis, herons, pelicans, and over 300 other bird species. The flamingos are the headline attraction — pink against grey mud at low tide, often visible from the road.

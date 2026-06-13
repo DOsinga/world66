@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.1
 ---
 
 The broad Blue Flag-certified beach stretches for over a kilometre along the Baltic just west of the old town centre. The sand is fine, the dunes are backed by Scots pine, and the water — never warm by Mediterranean standards — is clean and shallow.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - transport
 - airport
+score: 2.2
 ---
 
 Jijel Ferhat Abbas Airport is the small airport east of the city. It is useful when domestic flights line up with your plans, especially from Algiers, but service patterns can be limited and should be checked carefully before you build an itinerary around them.

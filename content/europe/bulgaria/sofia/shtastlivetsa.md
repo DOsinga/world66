@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - bulgarian
+score: 5.6
 ---
 
 A long-running flagship of Bulgarian comfort food on Vitosha Boulevard, with a second branch up at Aleko on Vitosha mountain. The name means "the lucky one." The menu runs to shopska salad, grilled meats, kavarma stews, and clay-pot bakes; the service is fast and prices fair for the location.

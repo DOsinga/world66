@@ -9,6 +9,7 @@ tags:
 title: 16th Street Baptist Church
 type: poi
 story: "On September 15, 1963, a Ku Klux Klan bomb hidden beneath the church's east steps killed four young girls — Addie Mae Collins, Cynthia Wesley, Carole Robertson, and Carol Denise McNair — during Sunday school. The bombing galvanized national opinion and accelerated the passage of the Civil Rights Act of 1964. The church still holds services today, and its stained-glass windows include a 1965 gift from the people of Wales depicting a Black Christ figure."
+score: 9.4
 ---
 
 The most historically significant Black church in America, the 16th Street Baptist Church stands directly across from the Birmingham Civil Rights Institute. It served as a meeting place for civil rights leaders including Martin Luther King Jr. and Fred Shuttlesworth throughout the 1950s and early 1960s, making it a natural target for white supremacist violence.

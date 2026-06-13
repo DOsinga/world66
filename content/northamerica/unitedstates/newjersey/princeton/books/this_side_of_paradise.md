@@ -5,6 +5,7 @@ author: "F. Scott Fitzgerald"
 isbn: "978-0486289991"
 tags:
   - books
+score: 7.2
 ---
 
 Fitzgerald's 1920 debut novel — written in two months at the age of twenty-three — is set largely at Princeton, where he had been a famously distracted undergraduate from 1913 until he dropped out to join the army. The book is autobiographical to the point of indiscretion: the Cottage Club, the dorm rooms in Holder Court, the long talks in the gardens of the Graduate College all appear barely-disguised on the page.

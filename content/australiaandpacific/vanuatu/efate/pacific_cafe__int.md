@@ -8,6 +8,7 @@ longitude: 168.3120
 address: "Lini Highway, Ballande Centre (D Dock), Port Vila"
 email: "pacificcafe@vanuatu.com.vu"
 phone: "+678 26240"
+score: 4.4
 ---
 
 A budget-friendly cafe in central Port Vila, opposite The Sebel Hotel. The menu is extensive and nothing costs more than 990 vatu. Takeaway plates start at 350 vatu — generous portions at the same price as eating in.

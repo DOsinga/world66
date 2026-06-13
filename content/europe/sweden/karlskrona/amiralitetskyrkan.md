@@ -12,6 +12,7 @@ tags:
 title: Amiralitetskyrkan Ulrica Pia
 snippet: "Sweden's largest wooden church, built for naval dockworkers"
 type: poi
+score: 8.4
 ---
 
 The Admiralty Church — formally the Royal Church of the Admiralty, Ulrica Pia — is the largest wooden church in Sweden and one of the most evocative buildings in Karlskrona. Built in 1685 to serve the sailors and dockyard workers who could not fit into the city's stone churches, it is a cavernous timber construction with a warm, maritime atmosphere: ship models hang from the ceiling, and the pews are worn smooth by generations of naval men. Outside the entrance stands Rosenbom, a carved wooden beggar figure who has been collecting alms for poor sailors since the 17th century.

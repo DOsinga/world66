@@ -6,6 +6,7 @@ longitude: 3.0580
 tags:
   - things_to_do
   - architecture
+score: 6.6
 ---
 
 The National Library of Algeria is a striking modern building at the top of the city's central axis, visible from much of the lower town. The architecture is bold and angular — a deliberate contrast to the French colonial and Ottoman buildings that dominate the centre — and the reading rooms inside are unusually impressive for a working library.

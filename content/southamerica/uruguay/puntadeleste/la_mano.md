@@ -9,6 +9,7 @@ longitude: -54.9372
 snippet: "Five enormous fingers emerging from Playa Brava — the defining image of Punta del Este"
 story: >
   The sculpture was made by Chilean artist Mario Irarrázabal in 1982 for the first International Sculpture Symposium held on the beach. It was intended as a reminder of the dangers of drowning — five fingers reaching upward from the sand as if a swimmer were going under. Visitors immediately adopted it as a symbol of the city instead. Irarrázabal has since installed nearly identical hands on beaches in Spain, Hungary, and Venezuela, but this was the first.
+score: 8.2
 ---
 
 Five enormous concrete fingers thrust up from the sand of Playa Brava — the image that appears on more postcards and social media feeds from Uruguay than anything else in the country. The scale surprises visitors who have only seen photographs: the sculpture is about 4 metres tall, with fingers proportioned to a body that would be roughly 40 metres high. The hand emerges at an angle, slightly tilted, which makes it look genuinely desperate rather than decorative.

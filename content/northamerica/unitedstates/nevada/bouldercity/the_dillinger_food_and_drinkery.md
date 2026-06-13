@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.9775
 longitude: -114.8336
+score: 5.4
 ---
 
 The Dillinger occupies a former Wells Fargo bank on Arizona Street, with the original 1930s vault still visible at the back of the bar. The menu is American comfort food — short ribs, burgers with names like "the Public Enemy", a serious chilli — and the bourbon list is unusually deep for a small town.

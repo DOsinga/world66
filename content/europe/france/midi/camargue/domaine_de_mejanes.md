@@ -8,6 +8,7 @@ tags:
   - family
 title: "Domaine de Mejanes"
 type: poi
+score: 6.3
 ---
 
 Domaine de Mejanes is an accessible estate near the Vaccares, known for horse rides, bull traditions, and family-friendly ways into the landscape. It is not the wildest Camargue, but it is useful if you are travelling with children or want an organised ride.

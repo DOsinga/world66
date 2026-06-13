@@ -8,6 +8,7 @@ latitude: 65.5418
 longitude: 22.1056
 sources:
   - https://en.wikipedia.org/wiki/Flygmuseet_F21
+score: 7.8
 ---
 
 Sweden's northernmost military air base, F21, was established at Luleå during the Second World War and remained active through the Cold War. The Flygmuseet F21 occupies part of the original airfield and displays an impressive collection of Swedish military aircraft, from piston-engined fighters of the 1940s through to jet aircraft of the Cold War era.

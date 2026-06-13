@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - neighbourhood
+score: 6.8
 ---
 
 The smaller resort village eight kilometres west of central Marmaris, set in its own bay at the foot of the pine-covered mountains. The beach is longer and the water noticeably clearer than at Marmaris itself — the run-off from the river and the marinas does not reach this far — and the atmosphere is marginally quieter, with more families and fewer all-night bars.

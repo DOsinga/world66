@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4425
 longitude: -97.4410
+score: 6.1
 ---
 
 The Oklahoma Country & Western Music Hall of Fame is a small but enthusiastic institution dedicated to the state's deep roots in country and western music. Oklahoma has produced a remarkable number of significant country artists, and this museum in Del City makes the case for the state's contribution to the genre with memorabilia, photographs, and rotating exhibits.

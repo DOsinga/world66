@@ -7,6 +7,7 @@ tags:
 - day_trip
 snippet: The most prestigious cognac-growing region, a 30-minute drive south through rolling vineyards
 type: poi
+score: 8.5
 ---
 
 The Grande Champagne growing area — the name refers to the chalky soil, not the sparkling wine — stretches south of Cognac through rolling hills of vines and Romanesque churches. The chalky terroir here produces the most aromatic and age-worthy eaux-de-vie in the appellation. Driving or cycling through it takes you through villages that appear almost unchanged from a hundred years ago, past small family distilleries and Romanesque church towers.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.0670
 longitude: 12.5840
+score: 7.2
 ---
 
 The grand-hotel section of the Rimini beach is where the Adriatic Riviera as a concept began. The Grand Hotel Rimini — opened 1908, the building that haunts every Fellini film — still stands at the centre, and the surrounding streets are full of belle-époque pensiones, gelaterias, and the original seafront promenade, the Parco del Mare.

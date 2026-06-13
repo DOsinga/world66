@@ -8,6 +8,7 @@ latitude: 38.0382
 longitude: 12.5866
 sources:
   - https://en.wikipedia.org/wiki/Cordici_Museum
+score: 6.1
 ---
 
 The Cordici Museum — named after the 17th-century humanist Antonio Cordici who assembled much of the original collection — is Erice's civic museum, housed in the Palazzo Municipale at the top of the main square. The collection covers the full depth of Erice's history: Elymian pottery and artefacts from the pre-Greek period, Greek and Roman coins, medieval objects, and paintings from the 15th to 18th centuries.

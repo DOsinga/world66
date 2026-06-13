@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 44.5330
 longitude: 9.2050
+score: 6.3
 ---
 
 Barbagelata is a summer hamlet at over 1,100 metres in the upper reaches of the Trebbia Valley, used by Genoese families as a mountain retreat since at least the 18th century. The name means "frozen beard" in dialect — a nod to the winters, which are considerably more severe up here than in the valley below. In summer, the meadows around the hamlet are lush and flower-filled, and the air temperature is reliably 10–15°C cooler than the coast.

@@ -8,6 +8,7 @@ latitude: 36.6596
 longitude: 116.9892
 story: >
   Jinan's springs have been numbered and named since at least the Song Dynasty, when the poet Zeng Gong compiled the first list of 72 named springs. In the Ming Dynasty, a local official drew a map of all the spring clusters — five main groups, each with dozens of individual upwellings. The springs emerge along the same geological contact line where impermeable granite meets porous limestone, forcing groundwater to the surface in a narrow band that runs through the city center.
+score: 7.6
 ---
 
 The Zhuchao Spring scenic cluster in the old city district south of Baotu Spring contains several of Jinan's smaller but still impressive named springs, along with the narrow canal-side streets and historic stone walls of one of the few remaining old neighborhoods in the city. The springs here flow directly under and alongside old houses, with spring pools enclosed by stone walls and traditional architecture pressing close on all sides.

@@ -9,6 +9,7 @@ tags:
 latitude: 10.279
 longitude: -85.846
 snippet: A quieter, rockier beach a kilometre south of Tamarindo
+score: 6.6
 ---
 
 Playa Langosta begins where Tamarindo ends, separated from the main bay by a low rocky headland. The mood is different — fewer surf schools, fewer beach bars, more low-key holiday homes set back behind the dunes. The sand is darker and patches of black volcanic rock break the beach into smaller coves.

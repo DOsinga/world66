@@ -6,6 +6,7 @@ longitude: -107.8830
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A paved seven-mile trail follows the Animas River through the heart of Durango, from north of Animas City to south of the Highway 160 bridge. It's flat, scenic, and used as much by commuting locals on bikes as by visitors.

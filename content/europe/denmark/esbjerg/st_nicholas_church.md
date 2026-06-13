@@ -9,6 +9,7 @@ tags:
   - architecture
 latitude: 55.4706
 longitude: 8.4500
+score: 6.9
 ---
 
 St Nikolaj Kirke is the most distinctive piece of post-war religious architecture in Esbjerg — a 1969 building by Inger and Johannes Exner that uses raw white concrete and unrendered red brick in alternating bands. The Exners were among Denmark's most thoughtful church architects of the twentieth century, and St Nikolaj is one of their better-known commissions outside Copenhagen.

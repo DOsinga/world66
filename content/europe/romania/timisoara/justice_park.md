@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.7
 ---
 
 Justice Park (Parcul Justiției) sits on the north bank of the Bega Canal between Cathedral Park and the Bega-side promenade. It was laid out at the same time as the adjacent Palace of Justice (a 1855 Eclectic court building still in use) and is named after it.

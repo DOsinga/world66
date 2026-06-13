@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 21.0072
 longitude: 101.4076
+score: 7.0
 ---
 
 The Nam Tha River flows through the valley below Luang Namtha, and half-day or full-day kayaking trips along it are a popular alternative to trekking for those who prefer to travel by water. The river passes through forest and farmland with sections of gentle rapids and long calm stretches, with mountains visible on both sides. The route can be combined with a stop at a riverside village.

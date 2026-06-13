@@ -8,6 +8,7 @@ latitude: 53.0465
 longitude: -2.9909
 sources:
   - https://en.wikipedia.org/wiki/T%C5%B7_Pawb
+score: 6.3
 ---
 
 Tŷ Pawb (Welsh for "everybody's house") is Wrexham's contemporary arts centre, opened in 2018 in the renovated People's Market building in the city centre. The conversion preserved the market hall's industrial structure while inserting gallery spaces, studios, a café, and an events programme. It's one of the more interesting cultural spaces in north Wales — genuinely mixed in its audience, bilingual in its signage, and presenting a programme that ranges from local artists to touring contemporary exhibitions.

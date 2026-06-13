@@ -11,6 +11,7 @@ story: >
   19th century. It is thought to have been worn by a Breton Bronze Age chieftain as ceremonial
   dress — an astonishing survival from a period when most organic materials have long since
   decomposed.
+score: 7.7
 ---
 
 The Musée de Bretagne shares a striking modern building (Les Champs Libres, designed by Christian de Portzamparc) with the science museum and the regional library. It covers the whole of Breton history from the Palaeolithic through to the present, with thoughtful displays on the Breton language, the chouannerie (the royalist counterrevolution), fishing culture, and the Breton independence movement.

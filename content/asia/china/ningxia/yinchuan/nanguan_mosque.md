@@ -13,6 +13,7 @@ story: >
   the 1980s after the Cultural Revolution, is one of the largest mosques in
   China and an active place of worship that can accommodate over 3,000
   worshippers at Friday prayers.
+score: 7.2
 ---
 
 The Nanguan Mosque in Yinchuan's old city is one of the most important mosques in China and the main place of worship for the city's substantial Hui Muslim community. The current building was constructed in the 1980s — the original mosque was destroyed during the Cultural Revolution — and combines Arabic architectural elements (domes, minarets) with some Chinese detailing.

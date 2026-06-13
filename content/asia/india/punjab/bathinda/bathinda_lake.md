@@ -6,6 +6,7 @@ longitude: 74.9528
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A man-made lake on the northern edge of the city, **Bathinda Lake** (sometimes called Sirhind Canal Lake) is an evening promenade for local families — joggers in the morning, lovers and groups of college students by sunset. There are paddle boats for hire, a small amusement area for children, and food stalls along the embankment.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 7.3
 ---
 
 The Zagreb Funicular has been climbing the same 66-metre stretch of hillside between Tomićeva Street and the Strossmayer Promenade since 1890, making it one of the oldest still in operation in Europe — and, at 66 metres in length and a 55-second ride, often described as the shortest public transport line in the world. The two original cars, restored several times, are still in use; the system is protected as a cultural monument.

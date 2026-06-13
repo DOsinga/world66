@@ -6,6 +6,7 @@ longitude: 15.2270
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A mid-range restaurant near the ferry terminal that specialises in Dalmatian classics and shellfish. The black risotto and the octopus carpaccio are particularly good, and the wine list — heavy on Dalmatian whites — is reasonably priced.

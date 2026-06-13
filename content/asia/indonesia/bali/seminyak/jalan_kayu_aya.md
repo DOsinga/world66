@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 7.4
 ---
 
 Jalan Kayu Aya — universally known as Eat Street — runs east from Petitenget Temple inland through the heart of Seminyak. It is the densest concentration of restaurants on the island: Japanese ramen bars, Italian trattorias, Spanish tapas, Indonesian fine dining, and a thousand cocktails between them.

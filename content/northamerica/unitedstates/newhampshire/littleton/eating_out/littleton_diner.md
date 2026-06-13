@@ -9,6 +9,7 @@ latitude: 44.3044
 longitude: -71.7756
 sources:
   - https://en.wikipedia.org/wiki/Littleton,_New_Hampshire
+score: 6.6
 ---
 
 A classic New England lunch counter that has occupied the same spot on Main Street since 1930, the Littleton Diner is one of those places that locals treat as an institution and visitors immediately understand why. Booths along the wall, counter stools, a laminated menu of breakfast all day, burgers, sandwiches, and daily specials. The maple syrup comes from nearby farms. Weekend mornings get busy — arrive early or expect a short wait.

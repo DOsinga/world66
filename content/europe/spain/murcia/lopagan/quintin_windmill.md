@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.8220
 longitude: -0.7870
+score: 5.8
 ---
 
 The Quintín Windmill stands at the southern entrance to Lo Pagán, one of two surviving windmills that were used for decades to pump water from the Mar Menor into the salt pond storage lagoons to the north. The windmills have been replaced by electric pumps but remain a visual landmark — their white towers and wooden sails are the most photographed feature of the town.

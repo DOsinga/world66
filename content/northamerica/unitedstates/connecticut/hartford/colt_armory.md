@@ -14,6 +14,7 @@ story: >
   world's largest private armoury. The dome is modelled on a Russian Orthodox
   church and decorated with gold stars — an eccentric, magnificent statement
   from a man who had made a fortune arming the American West.
+score: 7.5
 ---
 
 The Colt Armory is the architectural centrepiece of Coltsville, the factory complex and workers' village that Samuel Colt built in the 1850s on the South Meadows along the Connecticut River. The main building is immediately recognisable by its extraordinary blue onion dome, decorated with gold stars and topped with a rampant colt — a piece of Victorian industrial theatre that made the factory one of the most distinctive buildings in New England.

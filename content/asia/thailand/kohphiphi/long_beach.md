@@ -8,6 +8,7 @@ latitude: 7.7250
 longitude: 98.7680
 story: >
   Long Beach earned its name honestly — it is the longest beach on Phi Phi Don at about 800 metres, stretching along the eastern coast of the southern headland. Because it faces the sheltered Krabi side rather than the open Andaman, the water is almost always calm and clear, and the reef just offshore is in reasonable shape.
+score: 7.3
 ---
 
 Long Beach is the quietest of the main beaches on Phi Phi Don, a 10-15 minute walk along the coast from Tonsai Village or a quick longtail ride. The absence of direct boat access from the pier keeps the crowds lighter than at Tonsai Beach itself, and the beach has a noticeably different atmosphere — calmer, less commercial, with the bars and restaurants spaced out rather than packed together.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - centre
+score: 5.5
 ---
 
 A bronze statue of the great Russian opera bass Feodor Chaliapin stands in front of the Epiphany Cathedral on Bauman Street, the cathedral where he was baptised in 1873. Chaliapin grew up in Kazan and started singing in the cathedral choir before leaving for Moscow and a world career.

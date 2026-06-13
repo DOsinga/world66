@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 21.5167
 longitude: 83.8667
 story: When Hirakud was completed in 1957, it required the displacement of nearly 110,000 people from 249 villages that were submerged beneath the rising reservoir. Nehru called it "a great enterprise" even as he acknowledged the human cost — the project became a touchstone in Indian debates about large dams and the price of development. On winter mornings, the mist over the reservoir and the silence broken only by birds make it easy to forget that a drowned world lies below the surface.
+score: 7.4
 ---
 
 Hirakud Dam sits on the Mahanadi river about 15 km upstream from Sambalpur, and at the time of its completion it was the longest earthen dam in the world — 25.8 km from end to end. The reservoir behind it is one of the largest in Asia, stretching roughly 80 km upstream and covering an area of around 750 square kilometres. The dam was the first major irrigation and hydroelectric project of independent India, inaugurated by Nehru in 1957, and it remains a source of both practical importance and civic pride in western Odisha.

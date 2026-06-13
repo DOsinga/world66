@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 61.1153
 longitude: 10.4663
 story: "Storgata is widely considered the best-preserved 19th-century wooden main street in Norway — a fact that would have surprised the citizens who built it, since they simply needed somewhere to put shops. The buildings are painted in warm earth tones (ochre, red, pale yellow) and their timber-frame construction is visible in the overhanging upper storeys. The street curves gently uphill from the lake, following the line of an older track, and its irregular building heights give it a character quite different from the regularised stone streets of larger Norwegian cities."
+score: 7.5
 ---
 
 Storgata is the main pedestrian street of Lillehammer, a long, gently curving thoroughfare of 19th-century wooden buildings that runs from the lake shore up through the town centre. The buildings date primarily from the decades after Lillehammer received its town charter in 1827, a period of rapid commercial development that filled the street with shops, hotels, and offices.

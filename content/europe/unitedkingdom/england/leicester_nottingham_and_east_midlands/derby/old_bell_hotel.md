@@ -8,6 +8,7 @@ latitude: 52.9233
 longitude: -1.4777
 sources:
   - https://en.wikipedia.org/wiki/The_Old_Bell_Hotel,_Derby
+score: 7.4
 ---
 
 The Old Bell Hotel on Sadler Gate is one of Derby's great coaching inn survivors, a large timber-framed building that served travellers on the road between London and the north from at least the 17th century. The hotel rooms above have been updated, but the ground-floor bar retains the character of the original structure — a wide, rambling space with exposed beams and alcoves that feel as if they were used for private dealings of various kinds.

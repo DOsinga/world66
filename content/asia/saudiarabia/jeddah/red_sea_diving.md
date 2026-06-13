@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 21.7000
 longitude: 39.0900
+score: 8.7
 ---
 
 Jeddah sits on one of the richest stretches of the Red Sea — vibrant fringing reefs, drop-offs, and a string of historic wrecks. The water is warm year-round (22°C in winter, 30°C in summer), visibility is regularly over 30 metres, and the reefs are far less dived than the equivalent sites on the Egyptian side.

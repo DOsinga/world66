@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Zoo and botanical garden combining wildlife with adobe ruins
+score: 6.5
 ---
 
 The **Parque de las Leyendas** is Lima's main zoo, but it is more interesting than that: the 100-hectare park is organised by Peru's three ecological zones — **coast**, **highlands** (sierra), and **jungle** (selva) — and you walk between Andean condors, Amazon anacondas, and Pacific sea lions in sequence. The grounds also contain a working pre-Inca site, the **Huaca San Miguel**, with adobe pyramids dotted between enclosures.

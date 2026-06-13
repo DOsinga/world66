@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.4267
 longitude: -94.0428
+score: 6.1
 ---
 
 State Line Avenue runs through the heart of Texarkana, dividing the city between Texas to the west and Arkansas to the east. It is a normal commercial street in most respects — gas stations, fast food, small shops — but the median strip is literally the state line, painted and marked to leave no doubt about which state you are walking on. The novelty wore off for locals long ago, but for visitors there is something genuinely pleasing about a street that belongs to two states simultaneously.

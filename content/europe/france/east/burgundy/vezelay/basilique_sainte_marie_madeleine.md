@@ -12,6 +12,7 @@ story: >
   On 31 March 1146, Bernard of Clairvaux preached the Second Crusade at Vézelay to a crowd so large that it could not fit inside the basilica. A wooden platform was erected outside for the occasion. King Louis VII of France was present and took the cross along with his queen, Eleanor of Aquitaine. The same hillside became the gathering point for the Third Crusade in 1190, when Richard I of England and Philippe II of France met here before setting out together.
 sources:
   - https://en.wikipedia.org/wiki/V%C3%A9zelay_Abbey
+score: 9.6
 ---
 
 The Basilique Sainte-Marie-Madeleine is the reason Vézelay exists and the reason it was important for eight centuries. It is a masterpiece of Romanesque architecture — recognised as a UNESCO World Heritage Site alongside the pilgrimage roads to Santiago de Compostela, of which Vézelay was one of the four principal French starting points.

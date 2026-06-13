@@ -17,6 +17,7 @@ tags:
 - history
 title: Temple of Kwan Ti
 type: poi
+score: 8.3
 ---
 
 One of the most unexpected sights in Mendocino is this small but genuine Taoist temple, built by Chinese immigrants in the mid-19th century and still maintained today. The temple is dedicated to Kwan Ti, a deified general from the Three Kingdoms period who became one of the most widely worshipped figures in Chinese folk religion. The interior is richly decorated with carved wood, incense holders, and devotional objects that have been here for over 150 years. It is open to respectful visitors and offers a striking counterpoint to the New England character of the rest of the town.

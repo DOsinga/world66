@@ -9,6 +9,7 @@ title: "Cathédrale Saint-Pierre"
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Saintes_Cathedral
+score: 7.1
 ---
 
 The Cathédrale Saint-Pierre stands on the high ground above the Charente, a Gothic cathedral that replaced an earlier Romanesque building after the Hundred Years' War and bears the marks of successive additions and restorations. The most striking feature is the truncated tower above the crossing — originally intended to carry a spire that was never completed, it gives the building an oddly powerful silhouette. The interior is spacious and cool, with good stained glass in several windows.

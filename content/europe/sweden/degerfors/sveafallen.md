@@ -11,6 +11,7 @@ story: >
   What remains is a geological record of the river's former power — smooth basins, 
   deep gorges, and polished rock faces carved by water that has been gone since the 
   last Ice Age.
+score: 7.5
 ---
 
 Sveafallen is the geological curiosity that makes Degerfors worth a stop. The site preserves the dramatic landscape of ancient rapids — deep rock channels, carved basins, and stepped gorges — left behind when the river changed course thousands of years ago and the water simply stopped. The scale of the carving gives a strong sense of the force that once flowed here.

@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
   - swimming
+score: 6.3
 ---
 
 The lake gives the town its name and its character. Wawa Lake stretches just east of downtown, ringed by the boreal forest and dotted with cottages. In summer it is a swimming, paddling, and fishing destination — locals catch pike, walleye, and lake trout, and the town beach is a pleasant spot to spend an afternoon.

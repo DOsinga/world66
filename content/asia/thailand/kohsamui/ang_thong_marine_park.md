@@ -8,6 +8,7 @@ tags:
 - nature
 title: Ang Thong Marine Park
 type: poi
+score: 8.7
 ---
 
 A protected archipelago of forty-two limestone islands an hour's boat ride off the west coast. Kayaking, snorkelling, and a short jungle climb on Koh Wua Talap for a panoramic view of the whole park. Koh Mae Ko, with its hidden emerald-green saltwater lake at the centre of the island, was the inspiration for Alex Garland's novel *The Beach*. Book a day tour from any beach on Samui — most leave by 8 am.

@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Lottas Krog
 type: poi
+score: 7.0
 ---
 
 Lottas Krog on Stora Östergatan is the kind of neighbourhood restaurant that most Swedish towns of this size have quietly lost. The menu centres on Skåne cooking: roast pork with root vegetables, the regional plättar pancakes, eel and herring preparations in season. The room is warm and unhurried, service is personal, and the prices are lower than the quality warrants.

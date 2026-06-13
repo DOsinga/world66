@@ -7,6 +7,7 @@ tags:
   - costa_rican
 latitude: 8.8270
 longitude: -82.9742
+score: 5.8
 ---
 
 The quintessential Costa Rican soda: a small, no-frills dining room where a set lunch of casado — rice, black beans, a protein, a small salad — arrives quickly and costs almost nothing. Soda Central is the kind of place that keeps the town fed: workers at the counter, families at the tables, a television in the corner. Gallo pinto (rice and beans fried together) comes with everything at breakfast.

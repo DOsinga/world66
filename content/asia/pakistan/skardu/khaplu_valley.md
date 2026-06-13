@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - sight
+score: 8.1
 ---
 
 Khaplu Valley lies about 100 km east of Skardu and is one of the most beautiful corners of Baltistan, with terraced orchards stepping down to the Shyok river and dramatic views to the Masherbrum massif. The valley town of Khaplu is the launching point for treks into the Karakoram, including the Hushe valley and the approach to K6, K7 and Masherbrum.

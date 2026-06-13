@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.3582
 longitude: 0.4076
+score: 5.8
 ---
 
 Peñíscola served as the exterior of Meereen, the slave city ruled by Daenerys Targaryen, in Seasons 5 and 6 of Game of Thrones. The castle gate, the walls of the old town, and the harbour at the base of the rock all appear in the show. The pyramid scenes were added digitally, but the stone streets, arches, and the view from the battlements are unmistakably Peñíscola.

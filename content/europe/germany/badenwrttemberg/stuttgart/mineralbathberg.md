@@ -14,6 +14,7 @@ tags:
 - things_to_do
 title: Mineral Bath Berg
 type: poi
+score: 7.2
 ---
 
 Stuttgart sits on top of one of Germany's richest deposits of mineral springs, and the Berg bath is where residents have come to soak since the 19th century. The water comes up naturally warm and rich in sodium and sulfur compounds — the smell takes getting used to, but regulars swear by its restorative properties.

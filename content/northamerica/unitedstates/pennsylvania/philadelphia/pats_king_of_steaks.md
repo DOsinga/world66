@@ -7,6 +7,7 @@ tags:
 latitude: 39.9290
 longitude: -75.1590
 snippet: "The legendary cheesesteak corner at 9th and Passyunk — open 24 hours, permanently contested, essential Philadelphia"
+score: 5.2
 ---
 
 Pat Olivieri claims to have invented the cheesesteak in 1930, selling them from a hot dog stand at 9th and Passyunk. The current Pat's King of Steaks has been on this corner ever since, open 24 hours a day, serving chopped beef and cheese on a long roll to an unbroken line of Philadelphians and visitors. Directly across the street is Geno's Steaks, founded in 1966, whose neon-lit exterior and claims to superiority have been fueling one of the most durable fast food debates in American culinary history.

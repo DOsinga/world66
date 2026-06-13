@@ -7,6 +7,7 @@ tags:
   - ramen
 latitude: 36.0824
 longitude: 140.0769
+score: 5.6
 ---
 
 The blocks immediately around Tsukuba Station have a handful of ramen shops serving the local workforce and the steady stream of day-trippers from Tokyo. Tsukuba leans toward rich tonkotsu and miso-based broths, suited to the cold winters on the Kanto Plain. Lunchtime is the prime window — many shops open around 11am and close once the day's broth is gone, often by mid-afternoon.

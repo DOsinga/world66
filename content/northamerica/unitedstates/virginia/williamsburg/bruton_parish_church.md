@@ -9,6 +9,7 @@ latitude: 37.271111
 longitude: -76.702778
 snippet: A 1715 Anglican church that served colonial Virginia's political elite, still an active congregation
 story: George Washington, Thomas Jefferson, and Patrick Henry all worshipped at Bruton Parish — it was essentially the official church of colonial Virginia government. During the Revolution, the building served briefly as a hospital. In the 1930s, a retired military man named W.T. Mann convinced himself that Francis Bacon had buried secret manuscripts in a vault beneath the church. The resulting excavations, authorised and then reversed by the church, became a minor scandal in Williamsburg's restoration history.
+score: 8.3
 ---
 
 Bruton Parish Church has stood on this site since 1715 and remains an active Episcopal congregation, making it one of the oldest continuously operating churches in America. The brick building with its white tower is an architectural landmark of Colonial Williamsburg and sits on Duke of Gloucester Street in the heart of the historic district.

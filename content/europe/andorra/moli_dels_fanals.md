@@ -11,6 +11,7 @@ tags:
 - food
 title: Molí dels Fanals
 type: poi
+score: 6.8
 ---
 
 Molí dels Fanals is a restaurant in the village of Sispony, just outside La Massana, housed in a restored stone mill. The setting is rustic and warm, with stone walls and heavy beams. The kitchen focuses on traditional Andorran and Catalan mountain cooking — grilled meats, trinxat (a cabbage and potato dish), and game in season.

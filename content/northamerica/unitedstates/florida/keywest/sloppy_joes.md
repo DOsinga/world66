@@ -9,6 +9,7 @@ tags:
 latitude: 24.5586
 longitude: -81.8046
 neighbourhood: Duval Street
+score: 5.4
 ---
 
 Sloppy Joe's is the bar that Hemingway supposedly frequented in the 1930s — though the connection is complicated by the fact that the bar has moved locations and the original establishment is now Captain Tony's Saloon a few blocks away. Historical accuracy aside, Sloppy Joe's has made itself into Key West's most famous bar through sheer persistence and a permanent live-music lineup.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8940
 longitude: 125.1350
+score: 6.5
 ---
 
 The Dongliao River runs through Liaoyuan and provides the best walking in the urban area. The riverbank has been developed into a park-like promenade, with paths running along both banks and the bridges serving as gathering places in the evenings. In summer the river is pleasant and green, with willows trailing over the water; in winter the ice is thick enough that locals sometimes walk across it.

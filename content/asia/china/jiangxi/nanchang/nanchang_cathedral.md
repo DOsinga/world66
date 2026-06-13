@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 28.6718
 longitude: 115.8964
+score: 6.5
 ---
 
 The Cathedral of the Sacred Heart in Nanchang is the seat of the Archdiocese of Nanchang, one of the oldest Catholic dioceses in China — Jesuit missionaries established a presence in Jiangxi in the sixteenth century, and the church has maintained an unbroken institutional presence through an extraordinary range of political upheavals. The current cathedral building is a twentieth-century structure with a gothic-influenced facade that stands somewhat incongruously among the apartment blocks of the Donghu district.

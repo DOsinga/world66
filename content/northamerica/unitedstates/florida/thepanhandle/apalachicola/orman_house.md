@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.3
 ---
 
 The Orman House sits on a low bluff overlooking the Apalachicola River, built in 1838 by Thomas Orman, a cotton merchant from upstate New York who moved south to make his fortune. The two-story frame house mixes Federal and Greek Revival features and is one of the few antebellum merchant homes on the Gulf Coast still in its original setting.

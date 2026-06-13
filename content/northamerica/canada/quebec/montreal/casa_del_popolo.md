@@ -9,6 +9,7 @@ tags:
   - mile_end
 neighbourhood: Mile End
 snippet: The Mile End venue that has launched more Montreal bands than anywhere else
+score: 7.3
 ---
 
 Casa del Popolo at 4873 boulevard Saint-Laurent is the small venue that sits at the centre of Montreal's music scene. The room holds about 150 people and has hosted more emerging Montreal bands than any other space in the city over the past two decades. Arcade Fire, Wolf Parade, and Stars all played here early in their careers. The calendar is consistently interesting: local acts, touring indie bands, experimental music, DJ nights.

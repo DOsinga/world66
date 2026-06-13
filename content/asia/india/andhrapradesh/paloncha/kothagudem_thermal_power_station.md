@@ -8,6 +8,7 @@ latitude: 17.62
 longitude: 80.69
 sources:
   - https://en.wikipedia.org/wiki/Kothagudem_Thermal_Power_Station
+score: 6.2
 ---
 
 The Kothagudem Thermal Power Station (KTPS), operational since 1965, is not a conventional tourist attraction, but it is the reason Paloncha exists and it shapes everything about the town. The plant — run by Telangana State Power Generation Corporation — has an installed capacity of over 1,600 MW across multiple units, making it one of the larger coal-fired stations in the state.

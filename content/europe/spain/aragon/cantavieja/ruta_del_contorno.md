@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ruta del Contorno
 type: poi
+score: 8.2
 ---
 
 **The Ruta del Contorno** is a circular walking route of about 3 kilometres that loops below and around the rocky spur on which Cantavieja sits. The path descends from the village into the ravine below, skirts the base of the cliff on which the old town perches, and returns via a different approach. It is the only way to properly appreciate the village's extraordinary position: from below, you can see the buildings literally hanging over vertical rock faces, with some house walls flush with a sheer 100-metre drop. The sight is more vertiginous than anything visible from within the old town itself.

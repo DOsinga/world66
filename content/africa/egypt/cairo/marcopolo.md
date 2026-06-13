@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Marco Polo
 type: poi
+score: 4.0
 ---
 
 An international restaurant that rotates its menu weekly. Good for variety if you're staying in Heliopolis for a few nights.

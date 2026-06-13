@@ -11,6 +11,7 @@ story: >
   over the centuries, was incorporated by Sir Walter Scott into his novel
   "The Betrothed" in 1825, making Mab's Cross one of the few medieval
   Lancashire monuments to have inspired Victorian romantic fiction.
+score: 6.4
 ---
 
 Mab's Cross stands on Standishgate, the main road out of town toward the north. The stone cross dates from the thirteenth century and is one of the oldest standing monuments in Wigan. The original shaft survives, set on a stepped base, and the cross is a listed building.

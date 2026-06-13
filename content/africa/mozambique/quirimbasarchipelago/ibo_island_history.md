@@ -14,6 +14,7 @@ story: >
   fort at São João was built partly to control and regulate this trade. The families of
   the silversmiths who work on Ibo today are descendants of the communities that lived
   through this history.
+score: 8.5
 ---
 
 Ibo Island has been continuously inhabited for over a thousand years, first as a Swahili trading settlement in the network that connected East Africa to Arabia, Persia, and India, then as one of the main Portuguese colonial outposts on the northern Mozambican coast. The layers of this history are visible in the island's ruined mosques, Portuguese forts, and the architectural blend of the old town — Arab-influenced courtyard houses with Portuguese-colonial facades, many now roofless and overgrown.

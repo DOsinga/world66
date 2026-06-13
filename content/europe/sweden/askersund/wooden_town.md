@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 Askersund's old centre is a compact grid of painted timber houses from the 18th and 19th centuries. Most of Sweden's wooden towns were lost to fire, making intact examples like this genuinely rare. The streets around Storgatan and the market square are worth walking slowly — the houses range from modest workers' cottages to the grander merchant homes near the harbour.

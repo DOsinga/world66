@@ -6,6 +6,7 @@ tags:
 - sight
 title: Rada Tilly
 type: poi
+score: 7.6
 ---
 
 Rada Tilly is the small beach resort 12km south of Comodoro, connected by a direct road along the coast. The beach is genuinely beautiful — a long crescent of dark sand on the Atlantic, with clear water and the wild character that Patagonian beaches tend to have. It is the best reason to spend an extra day in Comodoro, and on calm afternoons the contrast between the wind-battered industrial city and this quiet bay is striking.

@@ -11,6 +11,7 @@ longitude: 6.8011
 snippet: Sacred high-altitude lake with an annual pilgrim procession
 story: >
   On the last weekend of July, pilgrims from the surrounding valleys carry a small statue of Saint Anne up to the lake's shore for an outdoor mass. The tradition has continued unbroken since the 17th century — shepherds originally dedicated the lake to the saint to protect their flocks from storms.
+score: 8.8
 ---
 
 Higher and wilder than Lac Miroir, Lac Sainte-Anne sits at 2,415 metres beneath a cirque of rocky peaks. The trail from Ceillac is longer and more demanding — expect three hours or more of steady climbing — but the setting at the top is dramatic.

@@ -6,6 +6,7 @@ tags:
   - sight
 title: Lake Orestiada
 type: poi
+score: 8.3
 ---
 
 Lake Orestiada is the reason Kastoria looks the way it does. The city's peninsula juts out into it, giving views over the water in almost every direction from the old part of town. The lake is shallow and warm in summer, ringed by reeds and wetland vegetation, and forms an important habitat for water birds — herons, egrets, and cormorants are common along the shores.

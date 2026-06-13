@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -3.3677
 longitude: 36.6965
+score: 5.8
 ---
 
 Via Via occupies the gardens behind the Natural History Museum Boma, and is the most reliable meeting point in Arusha for independent travellers. The bar and restaurant are run under the Via Via network — a Belgian-founded chain of cultural cafes in East African cities, now operating as a genuinely local institution. Cold beer, decent food (local and international), and a notice board covered in safari offers, ride shares, and companion-wanted notes.

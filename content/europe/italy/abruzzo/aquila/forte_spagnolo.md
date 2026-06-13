@@ -8,6 +8,7 @@ tags:
 latitude: 42.3537
 longitude: 13.4051
 story: "The Forte Spagnolo was built in the 1530s by the Spanish viceroy Don Pedro of Toledo, who reportedly stated it was built as much to intimidate the Aquilani as to defend them. The fortress never saw major military action but served as a prison for centuries, incarcerating political prisoners during both the Bourbon period and the Fascist era. In 1934, workers excavating near the fortress uncovered the skeleton of a woolly mammoth — it is now one of the highlights of the museum inside."
+score: 8.8
 ---
 
 The Forte Spagnolo is one of the finest examples of 16th-century Renaissance military architecture in central Italy. The huge square fortress with its angled bastions was built by the Spanish in the 1530s to consolidate their control over L'Aquila, and its sheer scale is immediately impressive — the walls are fifteen metres high and the structure dominates the northern part of the old town.

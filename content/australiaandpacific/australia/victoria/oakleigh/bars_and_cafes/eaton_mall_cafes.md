@@ -1,6 +1,7 @@
 ---
 title: "Eaton Mall Cafes"
 type: poi
+score: 7.5
 ---
 
 The cafes lining Eaton Mall serve strong espresso coffee alongside a selection of Greek sweets, and they operate according to a different rhythm from the specialty cafes of inner Melbourne. The coffee is made to be drunk at a table, with company, over a conversation that is not expected to conclude quickly. Outdoor tables are occupied in all seasons, and the crowd at any given time is likely to be a mix of Greek-Australians who have been coming to the same table for years and visitors discovering the strip for the first time.

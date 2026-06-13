@@ -11,6 +11,7 @@ story: >
   established the town of Nuevo Laredo. The original church was a modest adobe
   structure; the present twin-towered building dates from the late 19th century
   and replaced successive earlier structures destroyed by flood and neglect.
+score: 7.2
 ---
 
 The Cathedral of Our Lady of Guadalupe anchors the central plaza in the Zona Centro, its twin towers rising above the low skyline of downtown Nuevo Laredo. Built in the colonial style typical of northern Mexico, it is the oldest institution in a city that is otherwise all commerce and motion.

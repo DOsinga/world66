@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "The Stadtplatz follows the line of the Roman road through Ovilava, the trading colony Wels grew out of. Stone pillars from that road were reused in some of the cellar walls still in use today."
+score: 7.9
 ---
 
 The Stadtplatz is one of the longest closed market squares in Austria, running roughly 400 metres east to west through the heart of the old town. The Ledererturm anchors the western end and the Stadtpfarrkirche the east; in between, a continuous run of pastel facades — baroque, Renaissance and a few earlier Gothic gables — lines both sides. Most of the ground-floor arcades have been turned into cafes and shops.

@@ -12,6 +12,7 @@ story: >
   was a sacred site in pre-Christian Niue, associated with the creation of the island.
   Naming a sea cave after the mythological origin-place of the entire Polynesian world
   says something about how central it was to the island's spiritual geography.
+score: 8.2
 ---
 
 Avaiki Cave is a large sea cave on Niue's west coast, accessible at low tide via the Avaiki Sea Track near the village of Makefu. The cave is carved into the coral limestone cliffs and opens to the ocean through an archway that fills with sea water at high tide. At low tide, you can walk inside and explore the chamber, which has dramatic stalactite formations and a pool of clear water at the back.

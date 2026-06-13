@@ -7,6 +7,7 @@ tags:
 latitude: 46.9600
 longitude: 4.2958
 snippet: Roman northern gate of Augustodunum, intact since the 1st century BC
+score: 7.1
 ---
 
 The Porte d'Arroux is the northern gate of the original Roman city, built in the 1st century BC and remarkably well preserved for its 2,000-year age. Like the Porte Saint-André to the east, it has four archways at street level — two large ones for carts and two smaller pedestrian passages — with a Corinthian arcade above. The gate stands at the point where the road from Rome entered the city.

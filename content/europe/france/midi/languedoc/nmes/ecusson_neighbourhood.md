@@ -7,6 +7,7 @@ snippet: The roughly shield-shaped historic centre, holding most of what visitor
 tags:
 - things_to_do
 - neighbourhood
+score: 7.6
 ---
 
 The Écusson — "the shield" — is the colloquial name for the old centre of Nîmes, so called because the loop of the former city walls (now boulevards) gives the district a rough shield shape. Everything inside is walkable: the Arena at the south, the Maison Carrée toward the west, the cathedral in the middle, the Halles to the east.

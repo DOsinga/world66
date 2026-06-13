@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Tanzania's parliament was formally moved to Dodoma in 1996, more than two decades after Nyerere decided the capital should shift inland. For most of those years MPs commuted from Dar es Salaam; only since the 2010s has the centre of national government really followed."
+score: 5.4
 ---
 
 The National Assembly building, known as Bunge, is Tanzania's parliament. It is the most concrete sign that Dodoma is indeed the capital — when parliament is in session, the city fills up with MPs, civil servants, and journalists, and the otherwise quiet streets see real traffic. When it is not, the building can feel like a stranded monument on the eastern edge of town.

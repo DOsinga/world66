@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 8.8267
 longitude: -82.9736
+score: 5.0
 ---
 
 Bar Central is a local's bar near the town square — the kind of place where men from the coffee farms come after work, where local football is discussed with more passion than the actual football on the television, and where a cold Imperial is served without fuss. It is not set up for foreign visitors and is none the worse for that.

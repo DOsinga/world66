@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - sight
+score: 7.3
 ---
 
 The Klong Chao river runs back from the beach through a corridor of mangrove forest before climbing into the hills to the waterfall. Paddled at low tide and in the early morning, it is one of the quietest hours you can spend on the island — kingfishers in the branches, mudskippers on the banks, the occasional water monitor watching from a root.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - boat_trip
+score: 8.8
 ---
 
 A boat trip on Lake Tana is the one Bahir Dar experience you should not skip. Even a half-day route to the Zege Peninsula gives you waterbirds, fishermen, forest paths, and at least one monastery; longer trips reach quieter islands and feel more like a pilgrimage.

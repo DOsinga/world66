@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Large family park in Surco with sculpture and a Japanese garden
+score: 5.5
 ---
 
 The **Parque de la Amistad** ("Friendship Park") in Surco is a 50-hectare landscaped park with a small zoo, a Japanese-style garden donated by the Japanese community, a sculpture trail, and a long fountain pool that fills with paddle-boaters at weekends. Each section of the park is themed around a different country or region.

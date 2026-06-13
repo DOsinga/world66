@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The collection began with the private cat memorabilia of a Venetian aristocrat, Francesca von Habsburg, who saw Kotor's stray cat population during a visit and decided the city was the natural home for her hoard. A small dedicated museum opened in 2013; the entry fees go to a feeding-and-neutering programme for the local strays."
+score: 6.3
 ---
 
 The Cats Museum is a charmingly absurd little institution in a single room in the old town — a private collection of cat-themed prints, postcards, posters, advertisements, and ephemera assembled over decades. The displays are unapologetically hand-curated, with handwritten labels in several languages.

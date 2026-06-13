@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0268
 longitude: 11.6192
+score: 7.0
 ---
 
 The public thermal bathing facility below the village — known as the Piscina Val di Sole or Terme Bagno Vignoni — offers what the historic pool in the piazza does not: the actual experience of soaking in the thermal water. The pools are fed by the same underground source that fills the piazza, at temperatures around 39–42°C, and sit in the valley below the village with views up to the old stone buildings above.

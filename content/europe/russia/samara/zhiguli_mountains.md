@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.3500
 longitude: 49.9500
+score: 8.5
 ---
 
 Just downstream from Samara, the Volga makes a dramatic loop around the Zhiguli Mountains — one of the oldest mountain systems in European Russia, worn down to rounded forested hills by hundreds of millions of years of erosion. The Samara Bend, as the loop is known, is a national park and one of the most scenic stretches of the Volga. The contrast between the broad flat river and the forested hills rising 350 metres from the water is striking.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Mexico's largest aquarium, with sharks, rays, and a sea-lion show"
+score: 5.3
 ---
 
 The Acuario Mazatlan opened in 1980 and was for years the largest aquarium in Mexico. It is a block back from the Malecon at Playa Norte and is the obvious place to take small children. The tanks cover Pacific reef fish, freshwater species from the Rio Presidio, and a shark tank with bull and nurse sharks; outdoor enclosures hold crocodiles, sea lions, and turtles.

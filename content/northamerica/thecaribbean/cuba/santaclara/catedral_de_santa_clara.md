@@ -6,6 +6,7 @@ tags:
   - sight
 title: Catedral de Santa Clara de Asís
 type: poi
+score: 6.3
 ---
 
 The Cathedral of Saint Clare of Assisi faces Parque Vidal and has been the city's main Catholic church since the colonial era. The current building is relatively restrained by Cuban cathedral standards — a single-tower neoclassical facade without the elaborate baroque decoration of churches in Havana or Trinidad. Inside, the nave is long and cool, with whitewashed walls and wooden pews, and the natural light from the high windows gives it a calm, contemplative quality.

@@ -9,6 +9,7 @@ tags:
   - sight
 story: "Sarı Saltık was a 13th-century Turkish dervish whose legendary biography credited him with seven tombs in seven different countries — partly because his followers later spread out and each settlement claimed his remains. The Krujë cave is the most important of the surviving pilgrimage sites and is visited by Albanians, Turks and Bosnian Muslims."
 snippet: "Mountain cave shrine of a 13th-century dervish, a major Bektashi pilgrimage site"
+score: 7.5
 ---
 
 A short, steep climb (or a longer drive) up Mount Sarisalltëk above Krujë leads to a cave that has been a Bektashi pilgrimage site since the 13th century. According to tradition, the wandering Sufi mystic Sarı Saltık (Sari Salltik in Albanian) preached and was buried here — one of seven supposed tombs across the Balkans. The cave is a working shrine with candles, prayer ribbons, and a steady trickle of pilgrims, especially in August around the saint's feast.

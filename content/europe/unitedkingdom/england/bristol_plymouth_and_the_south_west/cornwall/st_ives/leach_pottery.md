@@ -8,6 +8,7 @@ latitude: 50.2068
 longitude: -5.4931
 story: >
   Bernard Leach and Shoji Hamada founded the pottery in 1920 intending to bring Japanese studio ceramics traditions to England. Hamada returned to Japan and became one of the most celebrated potters of the twentieth century; Leach stayed in St Ives and defined British studio pottery for the next fifty years.
+score: 8.8
 ---
 
 The Leach Pottery, founded by Bernard Leach and Shoji Hamada in 1920, is the most historically important ceramics studio in Britain. Its influence on the development of studio pottery worldwide is difficult to overstate: the idea of the artist-craftsperson working with hand-built or wheel-thrown forms, drawing on Japanese and Korean traditions, began here and spread through the English-speaking world.

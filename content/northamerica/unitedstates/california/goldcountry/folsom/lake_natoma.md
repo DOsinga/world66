@@ -11,6 +11,7 @@ longitude: -121.192
 snippet: Calm, non-motorised lake ideal for paddling and the American River Bike Trail
 sources:
   - https://en.wikipedia.org/wiki/Lake_Natoma
+score: 7.9
 ---
 
 Lake Natoma is a narrow reservoir on the American River between Nimbus Dam and Folsom Dam, just south of the city. It is smaller and calmer than Folsom Lake — motor boats are prohibited, which keeps the water quiet and makes it particularly good for kayaking, canoeing, and stand-up paddleboarding. A rental concession near Negro Bar State Park offers paddle craft by the hour.

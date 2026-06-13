@@ -14,6 +14,7 @@ tags:
 - sight
 title: Plaza de la Universidad
 type: poi
+score: 7.2
 ---
 
 The Plaza de la Universidad is the social heart of Huesca's old town, a broad square lined on one side by the former university buildings — a dignified Renaissance ensemble built in the 16th and 17th centuries when Huesca had one of the significant universities in the Crown of Aragon. The main building's facade is a fine example of Aragonese Renaissance, restrained and well-proportioned.

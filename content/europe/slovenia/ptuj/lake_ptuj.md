@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4019
 longitude: 15.8933
+score: 5.8
 ---
 
 Lake Ptuj is a reservoir on the Drava River, created in the 1970s by the Formin hydroelectric dam, about 3 km southeast of the old town. Despite its industrial origin it has become a pleasant recreational area: there is swimming in summer, a campsite on the shore, and good birdwatching in the surrounding wetlands.

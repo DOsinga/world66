@@ -9,6 +9,7 @@ tags:
 - sight
 title: Higashi Hongan-ji
 type: poi
+score: 7.9
 ---
 
 Higashi Hongan-ji is the head temple of the Ōtani branch of Jōdo Shinshū, the largest Pure Land Buddhist denomination in Japan. The vast Goeidō hall in the centre of the complex — fifty-eight metres across — is one of the largest wooden buildings in the world, finished in 1895 after the previous structure burned down four times in two and a half centuries. It commemorates Shinran, the thirteenth-century founder of the sect.

@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: Renaissance palace where Margaret of Austria ran the Habsburg Netherlands and educated the young Charles V
 story: "Charles V grew up here. Margaret of Austria, his aunt and regent, ran the most cultured court in northern Europe from this palace between 1507 and 1530 — Erasmus visited, Dürer signed the guest book, and the young Charles received the education that turned him into Holy Roman Emperor. The building is the first Renaissance palace north of the Alps."
+score: 7.6
 ---
 
 Margaret commissioned the palace in 1507 — initially in Gothic style, then rebuilt in pure Italian Renaissance form after her architect saw Bramante's work in Rome. The galleried inner courtyard is the architectural prize, and the proportions are still those of a serious court.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - cetate
+score: 5.8
 ---
 
 Intermezzo on Union Square is one of the city's most consistent kitchens — Italian-leaning rather than Romanian, with a focus on housemade pasta, wood-oven pizza and a respectable list of Italian wines. The dining room is in a vaulted ground-floor space below one of the Baroque palaces on the square.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 41.6458
 longitude: -4.7308
+score: 6.6
 ---
 
 Campo Grande is the central park of Valladolid — a leafy triangular green space at the southern edge of the historic centre, with a small pond, fountains, walking paths, and a population of peacocks, pheasants, and red squirrels that wander between the flowerbeds. It dates from the 18th century and is the obvious place to escape the summer heat.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 3.5
 longitude: 16.2
+score: 8.2
 ---
 
 Berberati is the nearest substantial town to the Dzanga-Sangha Special Reserve, one of the most biodiverse and least-visited protected areas in Africa. The reserve covers 3,359 square kilometres of dense equatorial rainforest in the southwestern corner of the CAR, where the country meets Cameroon and the Republic of Congo. It is home to forest elephants, western lowland gorillas, bongo antelope, and an extraordinary variety of primates and birds.

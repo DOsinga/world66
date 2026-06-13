@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 27.4863
 longitude: 83.2742
+score: 6.7
 ---
 
 The site museum sits between the Monastic Zone and the Tourism Village, just east of the central canal. The collection covers Buddhist art and archaeology from across Asia — Mauryan-era coins, terracotta and stone figures excavated at Lumbini, Tibetan thangkas, and a useful display of comparative scripts of the Pali canon.

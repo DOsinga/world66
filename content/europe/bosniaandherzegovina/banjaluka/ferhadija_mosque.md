@@ -9,6 +9,7 @@ latitude: 44.7675
 longitude: 17.1872
 story: >
   The original Ferhadija Mosque, completed in 1579, was one of the finest examples of Ottoman architecture in the western Balkans. In May 1993, during the Bosnian War, it was demolished with explosives by Serb forces — along with fifteen other mosques in Banja Luka on the same night. Reconstruction was completed in 2016, with stones from the original building recovered and incorporated where possible. The imam who led the first prayer in the rebuilt mosque had last prayed there as a child before the war.
+score: 8.3
 ---
 
 The Ferhat Pasha Mosque, known locally as the Ferhadija, is the most important Islamic monument in Banja Luka and one of the most significant Ottoman mosques in the western Balkans. Built in 1579 using the ransom paid for a Habsburg prince, it was a masterpiece of 16th-century Bosnian-Ottoman architecture before its deliberate destruction in 1993.

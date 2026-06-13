@@ -11,6 +11,7 @@ latitude: 14.4361
 longitude: 101.3747
 sources:
   - https://en.wikipedia.org/wiki/Khao_Yai_National_Park
+score: 9.3
 ---
 
 Khao Yai is Thailand's oldest national park and one of its best. Together with Thap Lan, Pang Sida, and Ta Phraya parks, it forms the Dong Phayayen–Khao Yai Forest Complex, inscribed as a UNESCO World Heritage Site in 2005 for its exceptional biodiversity. The park covers 2,168 square kilometres of tropical and subtropical forest across the Sankamphaeng mountain range, with peaks rising to over 1,300 metres.

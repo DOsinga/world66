@@ -6,6 +6,7 @@ tags:
   - sight
 title: Gallery District
 type: poi
+score: 6.8
 ---
 
 Todos Santos has attracted artists and craftspeople for decades, drawn by the light, the affordable colonial buildings, and the proximity to both desert and ocean. The result is a cluster of galleries and studios within a few blocks of the historic centre, concentrated mainly along Calle Topete and Calle Centenario.

@@ -11,6 +11,7 @@ story: The road was built by prisoners from the nearby penitentiary in 1905. The
   used hand tools to cut a one-lane track along the very crest of a sharp limestone
   hogback. Dinosaur trackways were exposed in the cuttings. They are still visible
   beside the road today.
+score: 7.9
 ---
 
 Skyline Drive is a three-mile, one-way road that runs along the spine of a thin limestone ridge above western Cañon City. The ridge is barely wider than the car: a near-vertical drop on each side gives the impression of driving along a knife edge with the town and the Arkansas valley spread out below.

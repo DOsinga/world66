@@ -6,6 +6,7 @@ longitude: 74.3047
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The shrine of the 11th-century Sufi saint Ali Hujwiri — known as Data Ganj Bakhsh, "the giver of treasures" — is the most important shrine in Lahore and one of the most visited in South Asia. Pilgrims arrive at all hours; Thursday and Friday nights bring qawwali singers, langar (free communal meal), and a press of devotees that runs into thousands.

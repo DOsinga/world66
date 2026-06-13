@@ -10,6 +10,7 @@ tags:
 snippet: "Tomb of the wandering dervish whose meeting with Rumi changed Islamic poetry"
 story: >
   Şems of Tabriz arrived in Konya in 1244, an unknown wandering dervish whose intense conversations with the established scholar Rumi transformed both men. Rumi withdrew from teaching to spend forty days locked in a cell with Şems, after which his entire poetic vocation began. Şems then disappeared, perhaps murdered by jealous followers of Rumi; this tomb is one of several places that claim him.
+score: 7.8
 ---
 
 The Şems-i Tebrizi mosque and tomb, just north of the old bazaar quarter, marks the place where Şems of Tabriz — Rumi's spiritual master and the strange wandering dervish whose arrival in Konya transformed Rumi's life — was supposedly buried. The tomb is set within a modest mosque of fifteenth-century origin, rebuilt several times since, and is one of the most active pilgrimage sites in Konya after the Mevlana shrine itself.

@@ -15,6 +15,7 @@ tags:
 - museum
 title: Musée d'Art Roger-Quilliot (MARQ)
 type: poi
+score: 7.6
 ---
 
 The Musée d'Art Roger-Quilliot — usually called the MARQ — is Clermont-Ferrand's main art museum, housed in a large 17th-century former Ursuline convent in the Montferrand historic quarter, east of the city centre. The collection spans paintings, sculpture, decorative arts, and jewellery from antiquity through the 20th century, with particular strength in medieval and Renaissance pieces. The building itself is worth the visit: the cloister and the former chapel have been incorporated into the exhibition spaces.

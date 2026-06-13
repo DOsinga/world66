@@ -9,6 +9,7 @@ latitude: 33.2834
 longitude: 131.4975
 story: >
   The building dates from 1879 and has changed little since. It sits incongruously in the middle of Beppu's lively nightlife district, surrounded by bars and restaurants, which gives it a strangely atmospheric quality late at night — a Meiji-era bathhouse glowing with warm light while the street outside fills with noise.
+score: 8.5
 ---
 
 Takegawara Onsen is Beppu's most famous historic bathhouse, housed in a wooden building from 1879 that has been maintained in its original form. The architecture — steep roof, latticed woodwork, and a warm interior smell of timber and minerals — is a striking contrast to the modern spa facilities elsewhere in the city. It is one of the few places in Beppu offering a suna-yu (sand bath): you are buried up to the neck in naturally heated black sand that draws out impurities and relaxes muscles in a way that conventional hot water bathing does not.

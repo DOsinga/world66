@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 44.9411
 longitude: 26.0225
+score: 7.2
 ---
 
 The Halele Centrale is the covered central market of Ploiești and the best place in the city to get a sense of daily Romanian life. The market hall dates from the late 19th century and operates as a proper working market — not a tourist attraction — selling local cheeses, smoked meats, fresh vegetables, pickles, and seasonal produce from the Prahova Valley.

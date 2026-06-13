@@ -10,6 +10,7 @@ tags:
 - bar
 title: Il Sorpasso
 type: poi
+score: 7.7
 ---
 
 Il Sorpasso is one of Rome's most consistently excellent wine bars — a large, atmospheric space in Prati (the neighbourhood between the Vatican and the Tiber) that serves good coffee in the morning, excellent lunch plates at midday, and one of the best wine selections in the city from late afternoon. The aperitivo hour (roughly 6–9pm) with complimentary snacks is the most popular.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Al-Shifa Hammam has been heated continuously since 1480 — nearly 550 years of daily operation. Under Ottoman rule it served as a civic institution as important as the mosque: a place to wash, to meet, and to conduct business. It still operates today as a working bath.
+score: 8.3
 ---
 
 Al-Shifa Hammam is one of the oldest continuously operating Turkish baths in the West Bank, dating to the Mamluk period and functioning without break since 1480. It sits in the eastern part of the old city, a few doors from the An-Nasir Mosque. The structure — the entrance hall, the cooling room, the hot rooms with their star-shaped skylights — is remarkably well preserved.

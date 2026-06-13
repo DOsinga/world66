@@ -4,6 +4,7 @@ type: poi
 latitude: 52.3083
 longitude: 4.8639
 tags: [things_to_do, shopping]
+score: 5.7
 ---
 
 Stadshart Amstelveen is the town's pedestrianised shopping centre — a covered and open-air mix of around 200 shops, cafés, and restaurants designed by Hans Ruijssenaars and opened in 1994. It is one of the largest open-air shopping centres in the Netherlands and pulls in shoppers from across the Amsterdam region.

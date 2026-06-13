@@ -12,6 +12,7 @@ story: >
   that contains several spelling mistakes. It has been repaired and partially corrected over 
   the years, but traces of the original errors remain. No one is quite sure whether this was 
   carelessness or a deliberate vernacular choice.
+score: 7.9
 ---
 
 Plaza de la Constitución, also known as Plaza Matriz, is the oldest square in Montevideo and the historical heart of the Ciudad Vieja. It was the central point of colonial life, flanked by the Cabildo (the colonial town hall) on one side and the Metropolitan Cathedral on the other — the same pairing of civic and religious authority found in colonial plazas across Latin America.

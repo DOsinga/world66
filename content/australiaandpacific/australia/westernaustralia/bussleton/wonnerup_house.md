@@ -15,6 +15,7 @@ story: >
   Noongar people on this land, in revenge for the spearing of stockman George
   Layman. The site is one of the most heavily contested in Western Australian
   settler history.
+score: 7.2
 ---
 
 The Wonnerup farmhouse, ten kilometres east of Busselton, was built in stages between 1838 and 1859 by the Layman family — one of the very first European settler families on the south coast. The simple jarrah-and-stone house, with its outbuildings, schoolroom, and dairy, is one of the most complete colonial farmsteads in Australia, now run as a house museum by the National Trust.

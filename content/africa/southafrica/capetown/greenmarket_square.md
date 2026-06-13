@@ -16,6 +16,7 @@ tags:
 - city_bowl
 title: Greenmarket Square
 type: poi
+score: 7.5
 ---
 
 Greenmarket Square is one of the oldest public squares in Cape Town, laid out in 1696 as a market for vegetables and slaves. The cobbled square is now occupied six days a week by stalls selling African crafts, beadwork, wire sculptures and curios — much of it imported from elsewhere in southern and central Africa, but the bargaining is genuine and the atmosphere is lively.

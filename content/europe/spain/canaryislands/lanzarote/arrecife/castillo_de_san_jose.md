@@ -9,6 +9,7 @@ tags:
 latitude: 28.9709
 longitude: -13.5333
 story: "The 18th-century fort was originally built by King Carlos III to provide work and bread for an island devastated by famine and volcanic eruptions — locals called it the Fortaleza del Hambre, the Hunger Fortress. In the 1970s, the artist and visionary César Manrique restored it to house Lanzarote's contemporary art collection, adding a glass-walled restaurant that hangs over the cliff and the harbour."
+score: 8.1
 ---
 
 The Castillo de San José, on the cliff above the harbour about two kilometres from the city centre, is the most important sight in Arrecife. The 18th-century stone fort was converted by César Manrique in the 1970s into the International Museum of Contemporary Art (MIAC), with a collection that runs from Tàpies and Millares to Manrique himself.

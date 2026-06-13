@@ -7,6 +7,7 @@ tags:
 latitude: 40.6655
 longitude: 16.6077
 url: musma.it
+score: 7.8
 ---
 
 Tucked into a series of interconnected cave rooms in the Sasso Caveoso, MUSMA (Museo della Scultura Contemporanea Matera) is one of the more unusual museum settings in Italy. The sculpture collection — works by artists including Arturo Martini, Umberto Mastroianni, and Mauro Staccioli — is displayed in rock-cut chambers that range from intimate niches to hall-sized caverns.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.7232
 longitude: -92.0629
+score: 6.5
 ---
 
 Barker's Island is a small peninsula jutting into Superior Harbor that functions as the city's waterfront hub. The SS Meteor museum sits here, and the marina alongside it is one of the largest freshwater marinas in the country. A paved loop trail runs around the island's perimeter, offering views across the harbor to Duluth and across the bay to the Wisconsin Point lighthouse.

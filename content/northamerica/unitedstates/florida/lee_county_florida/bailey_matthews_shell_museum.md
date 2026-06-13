@@ -8,6 +8,7 @@ tags:
 - museum
 title: Bailey-Matthews National Shell Museum
 type: poi
+score: 7.6
 ---
 
 The only museum in the Americas dedicated entirely to shells and the molluscs that made them. The collection covers around 30,000 species through well-designed galleries that explain mollusc biology, ecology, and the cultural history of shells — their use in trade, currency, jewellery, and religion across human civilisations. A hall of local species gives context for the shells visitors find on the beach, with identification charts and magnification stations that make even a small find more interesting.

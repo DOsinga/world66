@@ -11,6 +11,7 @@ story: >
   water table. Each island was effectively a private farm, accessible to its neighbours only by boat
   or over wooden bridges. The road-less character of the village is not a design decision: it is a
   survival of the original geography.
+score: 8.3
 ---
 
 The main canal through the oldest part of Giethoorn is the village at its most photogenic — thatched roofs reflected in narrow water, wooden footbridges arching between gardens, and flower borders running to the canal edge. On a quiet weekday morning in spring or autumn this is genuinely lovely. On a summer Saturday it is considerably more chaotic, with boats queuing under the bridges and groups of visitors photographing from every angle.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.8
 ---
 
 Munigou is a quieter alternative to Jiuzhaigou — a valley with travertine pools, waterfalls, and forest scenery that draws a fraction of the crowds. The Zhaga waterfall in the valley is one of the widest in Sichuan at 104 metres. The travertine formations here are younger and less coloured than at Huanglong but the hiking is more relaxed and the experience less packaged.

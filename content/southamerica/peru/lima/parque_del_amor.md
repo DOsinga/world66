@@ -10,6 +10,7 @@ tags:
   - miraflores
 neighbourhood: Miraflores
 snippet: Cliff-top park with the famous bronze of an embracing couple
+score: 5.9
 ---
 
 A small clifftop park on the Miraflores Malecón, **Parque del Amor** is built around **El Beso**, a four-metre bronze statue of an embracing couple by Peruvian sculptor Víctor Delfín — installed in 1993 and immediately a Lima landmark. Around it run undulating mosaic walls in the Gaudí manner, inlaid with romantic phrases in Spanish.

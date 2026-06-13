@@ -13,6 +13,7 @@ story: >
   during the siege, and the embedded ball has been left in place.
 sources:
   - https://www.english-heritage.org.uk/visit/places/dunster-yarn-market/
+score: 7.1
 ---
 
 The octagonal market building in the middle of Dunster's high street dates from around 1609 and is one of only two surviving yarn markets in England. It was built at the height of Dunster's wool and cloth trade, when the town was a significant manufacturing centre producing a cloth known as "Dunster" that was sold across southern England. The trade collapsed in the 18th century, but the market building survives in good condition.

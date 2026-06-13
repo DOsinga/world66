@@ -8,6 +8,7 @@ latitude: 36.621835
 longitude: -121.917136
 sources:
   - https://en.wikipedia.org/wiki/Pacific_Grove_Museum_of_Natural_History
+score: 7.9
 ---
 
 The Pacific Grove Museum of Natural History is one of the finest small natural history collections on the California coast. Founded in the 1880s, it holds extensive displays of local birds, mammals, and marine life — including a full-sized grey whale skeleton suspended in the main hall — and is a good place to understand the ecology of the Monterey Bay before venturing out to observe it.

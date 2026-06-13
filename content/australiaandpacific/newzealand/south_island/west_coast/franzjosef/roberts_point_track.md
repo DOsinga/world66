@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: -43.41861
 longitude: 170.18083
+score: 8.4
 ---
 
 The Roberts Point Track is the most rewarding day hike out of Franz Josef. It climbs steeply through rainforest to a high viewpoint overlooking the Franz Josef Glacier from above — one of the best perspectives on the ice you can get without a helicopter.

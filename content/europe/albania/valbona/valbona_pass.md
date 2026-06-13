@@ -15,6 +15,7 @@ story: >
   During the communist period, when internal movement was restricted, the
   pass also became a route for those trying to reach Kosovo or Montenegro,
   crossing at night to avoid border patrols.
+score: 9.5
 ---
 
 The Valbona Pass, at around 1,800 metres, is the midpoint of the most celebrated hiking route in the Albanian Alps: the crossing from Valbona to Theth (or the reverse). The trail from the valley floor climbs steeply through beech forest, then transitions to open alpine meadows and bare limestone as you approach the saddle. From the top, the views into both valleys are extraordinary — Valbona's river glinting far below one side, Theth's white church spire visible in the other.

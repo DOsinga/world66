@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 neighbourhood: Poulsbo
+score: 7.5
 ---
 
 The sheltered finger of saltwater that frames Poulsbo's waterfront and gives the town its character — calm enough to learn to kayak on, deep enough that the marina holds several hundred boats, narrow enough to swim across on a still summer evening. The two-mile **Liberty Bay Waterfront Park** boardwalk runs the length of the marina and meets the downtown shopping street at its centre.

@@ -16,6 +16,7 @@ story: >
   archaeological dig; it changed everything about how Chinese prehistory
   was understood, revealing a civilisation that predated the Yellow Emperor
   by two thousand years.
+score: 7.4
 ---
 
 The Yangshao Village site, southwest of Sanmenxia in Mianchi County, is where Chinese Neolithic archaeology effectively began. When Johan Gunnar Andersson excavated here in 1921, he found distinctive red-and-black painted pottery associated with agricultural settlements dated to roughly 7000–2800 BCE. The culture he identified — later called the Yangshao culture — proved to be one of the most widespread Neolithic traditions in East Asia, extending from Gansu in the west to the Hebei coast in the east.

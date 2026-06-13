@@ -10,6 +10,7 @@ longitude: 120.590265
 sources:
   - https://en.wikipedia.org/wiki/Holy_Rosary_Parish_Church_(Angeles_City)
 story: "The church is known locally as the Pisamban Maragul — the Big Church — and its parish records date back to the earliest Spanish colonial settlement of Angeles. During the Philippine-American War, the church served as a refuge and meeting place for residents caught between the two sides of the conflict."
+score: 7.9
 ---
 
 The Holy Rosary Parish Church, known to Kapampangans as the Pisamban Maragul or Big Church, is the oldest and most important Catholic church in Angeles City. Elevated to the status of Minor Basilica, its history stretches back to the Spanish colonial era and it has served as the spiritual heart of the community through revolutions, wars, a volcanic eruption, and the upheavals of the twentieth century.

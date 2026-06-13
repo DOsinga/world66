@@ -10,6 +10,7 @@ story: >
   The Sea Lab itself — the research facility behind the Estuarium — plays a key role in monitoring the health of Mobile Bay, which is one of the most biologically diverse estuaries in North America. The bay's "jubilees," where low-oxygen water pushes fish, crabs, and shrimp into the shallows in huge numbers, are a famous local phenomenon that scientists at the lab study and track.
 sources:
   - https://en.wikipedia.org/wiki/Dauphin_Island_Sea_Lab
+score: 7.2
 ---
 
 The Dauphin Island Sea Lab is Alabama's marine education and research center, and its public-facing Estuarium is an excellent aquarium for families and anyone curious about the ecology of the northern Gulf of Mexico. The exhibits are organised around four Gulf Coast habitat types: the Mobile-Tensaw Delta, Mobile Bay, the barrier island coast, and the open Gulf.

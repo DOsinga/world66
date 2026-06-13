@@ -9,6 +9,7 @@ latitude: 61.4961
 longitude: 21.7807
 story: >
   Pori Jazz started in 1966 as a small local event and has grown into one of Europe's longest-running jazz festivals. The festival famously mixes genres — in recent decades it has hosted rock, soul, and pop acts alongside jazz — earning both criticism and credit for its broad appeal. Miles Davis, Ray Charles, and B.B. King all played Kirjurinluoto in its golden era.
+score: 8.7
 ---
 
 Every July for roughly nine days, Kirjurinluoto Island transforms into one of Scandinavia's most enjoyable music festivals. The open-air main stage and the smaller riverside stages host an eclectic mix of international headliners and Finnish acts — jazz in name, broad in practice. Tickets for headliner evenings sell fast; some daytime and riverside events are free.

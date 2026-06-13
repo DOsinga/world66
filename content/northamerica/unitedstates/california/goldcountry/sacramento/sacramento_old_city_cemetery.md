@@ -9,6 +9,7 @@ latitude: 38.5698
 longitude: -121.4892
 story: >
   The cemetery contains the grave of John Sutter Jr., son of the fort's founder, who laid out the street grid of Sacramento in 1849 as his father's land empire was collapsing around them. John Sr. is buried in Pennsylvania; John Jr. stayed in Sacramento and lies here among the miners, merchants, and immigrants who built the city that destroyed his father's dream.
+score: 7.7
 ---
 
 The oldest existing cemetery in Sacramento, opened in 1849, and a remarkably intact record of the city's first decades. Some 25,000 people are buried here, representing every wave of Gold Rush immigration — the headstones mark German, Irish, Chinese, and Californio names in roughly equal proportion. Many graves belong to cholera victims from the epidemics of 1850 and 1852 that killed thousands of newcomers.

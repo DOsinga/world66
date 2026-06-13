@@ -8,6 +8,7 @@ longitude: 8.1147
 snippet: Hilltop castle ruins with sweeping Neva valley views
 title: The Castle above Zuccarello
 type: poi
+score: 7.2
 ---
 
 The ruins of Zuccarello's castle sit on the hill directly above the village, offering sweeping views down into the Neva valley. The Marchesato di Zuccarello controlled this stretch of the Ligurian interior for centuries, and the castle's remaining walls and towers hint at its former importance.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - nature
 - beaches
+score: 8.1
 ---
 
 The Frioul archipelago — four small limestone islands a couple of kilometres off the coast — sits within sight of the city and is the obvious half-day escape from Marseille. Most visitors come for the two larger islands, Ratonneau and Pomègues, linked by a man-made dyke and home to a small marina, a sleepy fishing village, scrubby walking trails and several swimming coves with clear water. The third island is the Château d'If; the fourth, Tiboulen, is uninhabited.

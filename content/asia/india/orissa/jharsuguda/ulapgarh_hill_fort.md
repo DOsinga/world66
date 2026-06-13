@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.8300
 longitude: 83.8700
+score: 7.2
 ---
 
 The ruined hill fort at Ulapgarh is the most substantial historical monument in the Jharsuguda district. Situated on a rocky hilltop with commanding views over the surrounding plains, the fort dates to the Sambalpur kingdom period — roughly the 16th to 19th centuries — and served as a defensive post guarding the western approaches to the region.

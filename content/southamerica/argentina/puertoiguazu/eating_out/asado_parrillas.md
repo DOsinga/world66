@@ -1,6 +1,7 @@
 ---
 title: Asado and Parrillas
 type: poi
+score: 6.1
 ---
 
 Puerto Iguazú has several good parrillas where Argentine asado is done properly — beef ribs, chorizo, morcilla, and sweetbreads grilled over wood coals, arriving at the table still crackling. Portions are generous; a single mixed grill will defeat most appetites. House wine is cheap and drinkable, usually from Mendoza.

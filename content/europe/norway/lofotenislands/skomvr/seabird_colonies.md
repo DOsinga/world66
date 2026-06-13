@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 67.4099
 longitude: 11.8757
+score: 8.9
 ---
 
 Skomvær and the surrounding skerries hold one of the densest concentrations of seabirds in Norway. Puffins, kittiwakes, common guillemots, razorbills, shags, and Atlantic fulmars all nest here in numbers that have declined sharply since the 1970s but remain spectacular by any reasonable measure. White-tailed eagles patrol the cliffs.

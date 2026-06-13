@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Homewood and Mountain Brook Shopping
 type: poi
+score: 5.5
 ---
 
 The suburbs of Homewood and Mountain Brook, immediately south of Red Mountain, have the most walkable retail strips in the Birmingham area. Homewood's 18th Street and Mountain Brook Village have independent clothing stores, antique dealers, bookshops, and specialty food shops within walking distance of each other.

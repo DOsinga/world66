@@ -9,6 +9,7 @@ latitude: 26.8800
 longitude: 112.5950
 story: >
   Shigu Academy takes its name — "Stone Drum" — from a large drum-shaped rock that has sat at the confluence of the Xiang and Zheng rivers for centuries. The Song dynasty literati who founded the academy here chose the site because of it. The drum-rock was already ancient when the academy opened.
+score: 7.8
 ---
 
 Shigu Academy, founded in the Song dynasty, stands at the confluence of the Xiang and Zheng rivers on a promontory that gives it fine views over the water in two directions. The name means "Stone Drum," after the distinctive boulder that marks the site. The academy was one of the great scholarly institutions of central China before it was severely damaged during the wars of the 20th century; the present buildings are a careful reconstruction.

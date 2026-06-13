@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Acropolium of Carthage
 type: poi
+score: 7.4
 ---
 
 The Acropolium — formally Saint Louis Cathedral — is the substantial late-19th-century church that dominates the top of Byrsa hill. It was built by the French colonial administration in 1890 to commemorate Saint Louis IX, who died near here during the Eighth Crusade in 1270, and was the seat of the Archdiocese of Carthage until Tunisian independence.

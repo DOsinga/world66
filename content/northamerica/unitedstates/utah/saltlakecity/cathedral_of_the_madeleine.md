@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Cathedral of the Madeleine
 type: poi
+score: 8.3
 ---
 
 The Cathedral of the Madeleine on East South Temple is Salt Lake City's Catholic cathedral, a Gothic Revival building completed in 1909. Built from local Utah stone, the exterior features twin towers and elaborate carved stonework; the interior is one of the finest examples of ecclesiastical decoration in the American West, with a restored baldachin over the altar and exceptional stained glass windows.

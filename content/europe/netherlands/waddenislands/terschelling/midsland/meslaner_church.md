@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.3826
 longitude: 5.2850
+score: 6.2
 ---
 
 The Dutch Reformed church that anchors the centre of Midsland, built in 1881, is a compact single-nave building that punches above its weight visually. The characteristic facade is best photographed in late afternoon when the low Wadden Sea light catches the brickwork. The church is a listed national heritage site and still holds services.

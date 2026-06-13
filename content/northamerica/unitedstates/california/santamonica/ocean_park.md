@@ -7,6 +7,7 @@ tags:
 latitude: 34.0050
 longitude: -118.4884
 snippet: "Santa Monica's southernmost neighbourhood, bordering Venice, with a more laid-back character"
+score: 7.0
 ---
 
 Ocean Park occupies Santa Monica's southern end, running from Pico Boulevard to the Venice border. The neighbourhood has a looser, slightly more bohemian character than downtown — lower buildings, more street art, a higher ratio of locals to tourists. Main Street is the commercial spine, with a good mix of galleries, independent restaurants, vintage shops, and cafes that feel removed from the resort circuit to the north.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Opened in 1787 — two years before the Louvre — the Musée des Beaux-Arts is one of the oldest public museums in France. Its star pieces are the tombs of Philip the Bold and John the Fearless, hauled out of the destroyed Charterhouse of Champmol during the Revolution and reassembled in the ducal Salle des Gardes."
+score: 8.8
 ---
 
 The Beaux-Arts is one of the best art museums in France outside Paris. Housed in the east wing of the Palace of the Dukes, the collection runs from Egyptian and medieval art through Flemish and Italian Renaissance painting to a strong 19th- and 20th-century French collection — Manet, Monet, Courbet, Vuillard, and a quiet trove of works by the Dijon-born sculptor François Pompon, including his celebrated polar bear.

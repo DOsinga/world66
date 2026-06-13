@@ -7,6 +7,7 @@ tags:
 latitude: 22.6233
 longitude: 120.2840
 snippet: Old port district being reinvented as the city's hippest neighbourhood
+score: 8.1
 ---
 
 The old salt-port district on the inner harbour, just inland from Pier-2. Yancheng was the original commercial heart of Kaohsiung in the Japanese era, declined badly when the port shifted south, and has spent the last decade reinventing itself as the city's most interesting neighbourhood.

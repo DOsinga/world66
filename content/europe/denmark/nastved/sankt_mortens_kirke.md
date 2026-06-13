@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.9
 ---
 
 Sankt Mortens Kirke is the smaller of Næstved's two medieval churches, a short walk from Sankt Peders Kirke in the town centre. It dates from the 13th century and has a simpler, less embellished interior than its larger neighbour — though it retains medieval brick vaulting and some original features.

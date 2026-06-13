@@ -10,6 +10,7 @@ tags:
 - bar
 title: Thermos
 type: poi
+score: 5.6
 ---
 
 Thermos is one of Geneva's established LGBTQ venues, running in a basement space in Carouge. It draws a mixed crowd from the wider gay community as well as Carouge regulars. The bar upstairs is relaxed; the action downstairs on weekend nights is more concentrated. Not flashy, but consistent and welcoming.

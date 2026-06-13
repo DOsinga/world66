@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.3
 ---
 
 Al Rudaf is the largest public park in Ta'if, a rocky, partly wooded area on the southern edge of town with picnic spots tucked between massive granite boulders. In the cooler months, Saudi families spread out across the boulders in the evening with charcoal grills and tea. There are play areas for children, a small zoo, and a network of paved walks through the granite outcrops.

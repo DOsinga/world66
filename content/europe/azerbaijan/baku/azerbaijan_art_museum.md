@@ -6,6 +6,7 @@ longitude: 49.8413
 tags:
   - things_to_do
   - museum
+score: 8.1
 ---
 
 The National Museum of Art splits between two adjoining nineteenth-century mansions on Niyazi Street, holding the country's most substantial collection of paintings — Azerbaijani, Russian, and European, from the seventeenth century to the present. The Russian and Soviet rooms are particularly strong, with works by Aivazovsky, Repin, and a string of Caucasian landscape painters.

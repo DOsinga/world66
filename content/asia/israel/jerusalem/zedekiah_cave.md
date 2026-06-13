@@ -13,6 +13,7 @@ story: >
   it only to be captured at Jericho. The Freemasons claim it as a sacred site because
   the stones for Solomon's Temple were supposedly quarried here, and they hold private
   ceremonies in the cave to this day.
+score: 7.6
 ---
 
 The largest man-made cave in Israel stretches five acres beneath the Muslim Quarter of the Old City, its vaulted ceiling dripping with stalactites. It was quarried over centuries, probably beginning in Herod's era, and the stone cut here went into building projects across Jerusalem. The entrance is a low doorway in the northern city wall between Damascus Gate and Herod's Gate — easy to miss if you are not looking for it.

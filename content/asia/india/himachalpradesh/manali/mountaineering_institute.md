@@ -9,6 +9,7 @@ longitude: 77.192
 snippet: "National mountaineering training institute offering courses and a small climbing museum"
 story: >
   The institute was founded in 1961 as the Mountaineering Institute and Allied Sports, and has trained tens of thousands of mountaineers over six decades, including many who went on to lead expeditions to Everest and other 8,000-metre peaks. Several of India's most celebrated high-altitude climbers began here on the institute's introductory courses.
+score: 6.9
 ---
 
 The Atal Bihari Vajpayee Institute of Mountaineering and Allied Sports (ABVIMAS) is India's premier mountaineering training institution, established in 1961 in the Manali cantonment area. The institute runs certified mountaineering courses from basic to advanced levels, as well as courses in skiing, river rafting, and mountain rescue. These are open to Indian and foreign nationals.

@@ -15,6 +15,7 @@ story: >
   the Gothic choir holds the "Plzeň Madonna," a limestone statue from around 1390 that is considered
   one of the finest examples of the Beautiful Style in Czech Gothic sculpture. The statue survived
   the Hussite Wars, the Thirty Years' War, and two world wars intact.
+score: 7.9
 ---
 
 The Cathedral of St. Bartholomew dominates the eastern end of Republic Square and has defined the Plzeň skyline since the 14th century. Construction began around 1320 on the site of an earlier Romanesque church; the nave was completed by the late 14th century, the choir in the 15th, and the tower — the tallest in Bohemia at 102 metres — was finished in the 16th century. The building was elevated to cathedral status only in 1993, when the Diocese of Plzeň was created.

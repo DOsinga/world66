@@ -11,6 +11,7 @@ tags:
 title: Old State House
 type: poi
 url: revolutionaryspaces.org
+score: 8.3
 ---
 
 A small brick building dwarfed by the financial-district towers around it, the Old State House is the oldest surviving public building in Boston, built in 1713. It served as the seat of colonial Massachusetts government, the chamber where John Adams argued cases, and the spot where the Declaration of Independence was first read aloud to the people of Boston in 1776.

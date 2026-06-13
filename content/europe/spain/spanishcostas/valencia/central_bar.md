@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.4736
 longitude: -0.3789
+score: 7.1
 ---
 
 Inside the Mercado Central — set against one of the columns under the great glass dome — the Michelin-starred chef Ricard Camarena's all-day tapas counter. The format is informal: stand or perch at the bar, order from a short list of bocadillos, small plates, oysters from the market across the aisle, all turned around fast and good.

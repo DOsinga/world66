@@ -14,6 +14,7 @@ story: >
   (their throne room survives intact), and the Spanish Inquisition used another section
   as its Zaragoza headquarters. Today the Aragonese parliament sits in what was once
   a Moorish garden palace.
+score: 9.3
 ---
 
 The Aljafería is the finest surviving example of Moorish architecture outside Andalucía — a palace built by the Muslim taifa kings of Zaragoza in the 11th century, later modified by the Christian kings of Aragon, and now the seat of the Aragonese parliament. It stands about a kilometre west of the city centre.

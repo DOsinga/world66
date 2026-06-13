@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Zutphen
+score: 8.3
 ---
 
 A medieval water gate where the river Berkel passes under the old city wall and into the town. The Berkelpoort is one of the most photographed spots in Zutphen: a low arch of weathered brick over dark water, flanked by the remains of the wall, with willow branches trailing in the current. It is a genuinely beautiful piece of medieval engineering.

@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Johanniskirche
 type: poi
+score: 8.0
 ---
 
 A tiny rococo gem on the way up to the Bayertor, the Johanniskirche was Dominikus Zimmermann's last work, completed in 1750. The exterior is plain and pink — easy to walk past — but the oval interior is one of his finest rooms: pastel pinks and blues, slender pilasters, an explosion of stucco around a Last Judgement ceiling fresco by Zimmermann's son Franz Anton.

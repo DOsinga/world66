@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "The Upper Kern is one of the steepest big rivers in California, dropping an average of 31 feet per mile through 18 miles of granite gorge. The Kern's reputation as a killer led to the nickname 'Killer Kern' — local outfitters now require helmets and lifejackets on any guided trip above Kernville."
+score: 8.8
 ---
 
 The North Fork of the Kern River is one of the great whitewater rivers of the American West. In spring runoff — typically April through July, depending on the Sierra snowpack — the Upper Kern delivers some of the most consistent class III–V rapids in the state, drawing professional kayakers and commercial rafters in roughly equal numbers.

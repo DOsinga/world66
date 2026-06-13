@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 Quaid-i-Azam University, founded in 1965 as the federal university of the new capital, occupies a 700-hectare campus on the lower slopes of the Margalla Hills east of central Islamabad. It is the most highly ranked research university in Pakistan and a useful set piece of 1960s modernist campus planning — open courtyards, brutalist concrete halls, a long axial spine of academic buildings.

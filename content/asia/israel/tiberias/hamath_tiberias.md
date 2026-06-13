@@ -11,6 +11,7 @@ story: >
   The zodiac mosaic floor at Hamath Tiberias is one of the most theologically puzzling objects in Jewish art. A fourth-century synagogue floor depicts, without apparent controversy, the sun god Helios riding his chariot at the centre of a zodiac wheel — surrounded by the Hebrew names of the months. No other ancient synagogue contains pagan figurative imagery on this scale, and scholars still debate whether the congregation was unusually liberal, or whether the zodiac carried a purely calendrical meaning stripped of religious content.
 sources:
   - https://en.wikipedia.org/wiki/Hammat_Tiberias
+score: 8.3
 ---
 
 Hamath Tiberias National Park sits a few kilometres south of the city centre along the lake shore, preserving the ruins of an ancient town that preceded Tiberias itself. The site contains hot springs that have been in continuous use since antiquity — the name Hamath means "hot springs" in Hebrew — and several layers of synagogue remains.

@@ -9,6 +9,7 @@ story: Lalish is the spiritual centre of the Yazidi religion. The tomb of Sheikh
   Adi, the twelfth-century reformer of the faith, lies under one of the conical
   white spires that mark the temple complex. Visitors enter barefoot and step over
   the threshold of every doorway — never on it.
+score: 9.1
 ---
 
 The holiest place in the Yazidi religion, set in a wooded valley about an hour southeast of Duhok. The temple complex centres on the tomb of Sheikh Adi ibn Musafir, surrounded by the distinctive conical spires that are the symbol of Yazidi sacred architecture.

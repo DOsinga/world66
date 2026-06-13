@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.6
 ---
 
 A short drive south of Wonthaggi, Cape Paterson is a quiet stretch of Bass Coast with rock pools, a family beach, and a surf beach — all in a compact area. The Caves Beach section, reached by a short walk, offers the best rock pool exploring at low tide: large sandstone shelves with pools full of sea anemones, crabs, and small fish. The main beach is sheltered and safe for swimming. Anderson Inlet, further west, is good for kayaking in calm weather.

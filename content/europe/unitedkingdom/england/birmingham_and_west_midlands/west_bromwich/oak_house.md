@@ -16,6 +16,7 @@ story: >
   Reuben Farley in 1894, who gave it to the town as a museum — the act of a
   local ironmaster who wanted to preserve something genuinely old in a town
   being rapidly transformed by industry.
+score: 8.2
 ---
 
 Oak House is a late-Elizabethan timber-framed manor house dating from around 1600, one of the best-preserved examples of its type in the West Midlands. The building survives largely intact: the close-studded oak framing, the projecting upper storeys, the small-paned windows, and the interior with its original fireplaces and panelling. It is open to the public as a museum managed by Sandwell Council.

@@ -6,6 +6,7 @@ longitude: 75.7700
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Jai Meadows are the closest high-altitude pastures to Bhadarwah town, lying above the treeline at around 2,800 metres and reachable by a combination of road and short walk. In summer the grass is thick and wildflower-covered, with views back down to the Bhadarwah valley and across to the snowy ridgelines of the Pir Panjal.

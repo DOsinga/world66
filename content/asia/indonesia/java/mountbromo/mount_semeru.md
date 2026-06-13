@@ -14,6 +14,7 @@ story: >
   2022, when a pyroclastic flow and ash cloud swept the southern slopes and caused
   fatalities. Climbing permits and current status should be checked with the national
   park authority before planning a summit attempt.
+score: 8.7
 ---
 
 Mount Semeru (3,676m) is Java's highest mountain and one of Indonesia's most active volcanoes — erupting on a near-daily basis with ash plumes visible from Bromo, 20 kilometres to the north. The standard trekking route begins at Ranu Pani lake (2,100m), passes through alpine meadows and forest, and reaches the summit in a two to three-day return. Trekking permits are required and issued at the Ranu Pani ranger post.

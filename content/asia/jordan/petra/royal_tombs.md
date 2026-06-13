@@ -8,6 +8,7 @@ tags:
 latitude: 30.3265
 longitude: 35.4470
 story: "The largest of the four — the Urn Tomb — was later converted into a Byzantine church. A Greek inscription dating the consecration to AD 446 is still legible high on the back wall, recording the bishop who carried out the conversion."
+score: 8.7
 ---
 
 Four monumental tomb facades carved into the cliff above the main valley, reached by a stairway from the colonnaded street. From south to north they are the Urn Tomb, the Silk Tomb, the Corinthian Tomb, and the Palace Tomb — the last with a five-storey facade so wide that part of it had to be built up in masonry where the cliff ran out.

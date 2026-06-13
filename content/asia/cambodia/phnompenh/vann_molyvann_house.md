@@ -7,6 +7,7 @@ tags:
 title: Vann Molyvann House
 type: poi
 snippet: Modernist family villa of Cambodia's most important post-war architect
+score: 6.1
 ---
 
 The house that Vann Molyvann designed for his own family in 1966 is one of the clearest expressions of his theory: tropical modernism rooted in Khmer tradition. The split-level concrete villa is raised on pilotis to catch the breeze, with louvered walls, a fish pond beneath the living room and a roof terrace facing the river.

@@ -13,6 +13,7 @@ story: >
   merchants who had established a trading post outside the Hittite city. They
   record the prices of tin, textiles, and gold in a script that predates the
   Hittite use of cuneiform.
+score: 7.4
 ---
 
 Kayseri Archaeology Museum reopened in 2019 inside Kayseri Castle, with 14 exhibition halls arranged in chronological order from the Chalcolithic period through the late Ottoman era. The new installation is well-designed and the collection is genuinely impressive, partly because Kayseri sits in one of Anatolia's most historically rich zones.

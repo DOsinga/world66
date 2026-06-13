@@ -8,6 +8,7 @@ tags:
   - national_park
 latitude: 1.6886
 longitude: 109.8531
+score: 7.5
 ---
 
 A 41 km² national park near the coastal town of Lundu, 90 minutes west of Kuching, protecting one of the most reliable populations of Rafflesia tuan-mudae — the giant parasitic flower that produces a single 75 cm bloom over a few days, then collapses into a black mush. Sightings are unpredictable, but the park rangers post daily updates on the status of buds and open flowers; if you time it right, the experience is unforgettable.

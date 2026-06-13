@@ -8,6 +8,7 @@ tags:
 - sight
 story: "The sculptor Edwin Russell modelled the Alice in his work not on John Tenniel's drawings but on a real Guildford child, Annette Vaughan, who lived in a house Carroll often visited. The original of John Tenniel's Alice was a different girl, Alice Liddell of Oxford."
 snippet: Bronze Alice and rabbit on the riverside path
+score: 5.2
 ---
 
 A bronze sculpture by Edwin Russell, unveiled in 1990, of Alice climbing through the looking glass with the White Rabbit just behind her. It stands on the lawn between Guildford Castle and the Castle Arch museum and is one of the most photographed pieces of public art in town.

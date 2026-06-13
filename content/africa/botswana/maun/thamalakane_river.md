@@ -12,6 +12,7 @@ story: >
   surplus water out of the Okavango Delta after the seasonal flood. In dry years it
   barely flows at all; in good years it runs wide and brown past Maun. Whether it
   flows depends on the rains far away in Angola, months earlier.
+score: 6.9
 ---
 
 The Thamalakane River runs through Maun town, giving the settlement its surprisingly pleasant character. In the late afternoon, the sandy banks attract small groups of antelope — impala most commonly, and sometimes kudu — and you may spot hippos wallowing in the deeper pools along the main course. Crocodiles are present; swimming is not advised.

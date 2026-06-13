@@ -12,6 +12,7 @@ tags:
 - music
 title: Kauffman Center for the Performing Arts
 type: poi
+score: 8.1
 ---
 
 The Kauffman Center for the Performing Arts, opened in 2011, is Kansas City's premier venue for classical music, opera, and ballet. Moshe Safdie's design — two sweeping metallic shells housing the 1,800-seat Helzberg Hall and the 1,600-seat Muriel Kauffman Theatre — is the most architecturally ambitious building in the city and has transformed the western edge of downtown. The exterior is as dramatic from a distance, against the skyline, as it is up close.

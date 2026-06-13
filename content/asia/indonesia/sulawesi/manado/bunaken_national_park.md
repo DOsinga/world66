@@ -13,6 +13,7 @@ story: >
   forces that built the volcanoes above the waterline. More than 390 species of
   coral have been recorded in the park, along with over 2,000 fish species,
   making it one of the most biodiverse marine environments on earth.
+score: 9.4
 ---
 
 Bunaken National Marine Park, about 30 minutes by boat from Manado's harbour, is the main reason most visitors come to North Sulawesi. The park covers 890 square kilometres and encompasses five islands — Bunaken, Siladen, Mantehage, Nain, and the dramatic volcanic cone of Manado Tua. The diving is world-class: vertical coral walls dropping to hundreds of metres, dense reef gardens, and waters teeming with turtles, sharks, Napoleon wrasse, and reef fish in extraordinary variety.

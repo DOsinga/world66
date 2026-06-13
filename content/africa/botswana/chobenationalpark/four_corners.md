@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Kazungula,_Botswana
 story: >
   The "Four Corners" where Botswana, Namibia, Zambia, and Zimbabwe supposedly meet is a popular tourist stop, but the geometry is slightly misleading — Botswana and Zambia share a short stretch of the Zambezi River as their border, meaning the four countries technically don't all meet at a single point. The actual quadripoint, or as close as the cartographers can get, is in the middle of the Zambezi, technically the work of colonial boundary drawers in the 1890s who were trying to prevent Germany (controlling South-West Africa/Namibia) from gaining access to the Zambezi.
+score: 5.6
 ---
 
 The Four Corners monument at Kazungula, 8km east of Kasane, marks the approximate point where the borders of Botswana, Namibia, Zambia, and Zimbabwe converge. Four flags, a stone marker, and a viewing platform over the Zambezi make this a popular photo stop on the circuit between Chobe and Victoria Falls. On a clear day, you can see Zimbabwe's banks to the east, Zambia's to the north, and the Namibian Caprivi Strip to the west.

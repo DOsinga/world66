@@ -9,6 +9,7 @@ tags:
   - sport
 story: >
   Iten sits at 2,400 metres on the Elgeyo escarpment, where the road drops 1,000 metres to the floor of the Rift Valley in a series of dramatic switchbacks. Runners from around the world come to train at altitude here — the thin air and the gruelling hill sessions have produced more marathon world records than any other training venue on earth.
+score: 8.6
 ---
 
 About 35 kilometres east of Eldoret, Iten is the running capital of the world — a small town perched on the edge of the Kerio Valley escarpment where hundreds of elite Kenyan athletes and international visitors train at altitude. Every morning the red-dirt roads are thick with runners from 4am onwards.

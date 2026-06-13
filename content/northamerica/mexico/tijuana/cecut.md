@@ -9,6 +9,7 @@ latitude: 32.53
 longitude: -117.023889
 snippet: "Tijuana's cultural heart, topped by a giant geodesic sphere."
 story: "The Centro Cultural Tijuana opened in 1982 as a statement that this border city had cultural ambitions beyond tourism. Its giant spherical Omnimax theater — which locals call La Bola, the ball — became an instant landmark visible from the US side. The complex was designed by Pedro Ramírez Vázquez, the architect behind Mexico City's National Anthropology Museum, and it shows: the scale and seriousness are unmistakable."
+score: 8.6
 ---
 
 The Centro Cultural Tijuana, universally known as CECUT, is the most architecturally striking building in the city. The main hall, topped by a 37-metre geodesic sphere housing an Omnimax cinema, sits beside the Agua Caliente Boulevard in Zona Río and anchors the cultural life of the city.

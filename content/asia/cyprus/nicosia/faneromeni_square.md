@@ -8,6 +8,7 @@ latitude: 35.1735
 longitude: 33.3628
 sources:
   - https://en.wikipedia.org/wiki/Faneromeni_Square
+score: 6.6
 ---
 
 Faneromeni Square is one of the oldest and most historically charged public spaces in Nicosia's walled city. The square is dominated by the Church of Faneromeni, a neoclassical building from 1872 that contains the marble mausoleum of four Greek Cypriot bishops and two laymen executed by the Ottomans in 1821 following the outbreak of the Greek Revolution. The monument was a flashpoint for Cypriot nationalism in the 19th and early 20th centuries and retains a solemn weight.

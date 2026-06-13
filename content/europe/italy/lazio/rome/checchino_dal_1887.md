@@ -13,6 +13,7 @@ title: Checchino dal 1887
 type: poi
 snippet: "Rome's most serious quinto quarto restaurant, built into a hill of broken Roman amphorae"
 url: www.checchino-dal-1887.com
+score: 8.0
 ---
 
 The most serious of the Testaccio institutions — a century-and-a-half old, family-run, built into the ancient Monte Testaccio (a hill made entirely of broken Roman amphora). The wine cellar cuts directly into it. Checchino specialises in the elevated end of quinto quarto cookery: rigatoni con pajata, zampa e coda (trotter and oxtail), coda alla vaccinara. More formal than most Testaccio trattorias, with prices to match, but the cooking has a depth that justifies the cost. One of Rome's great dining experiences for those willing to commit to the menu.

@@ -14,6 +14,7 @@ story: >
   regularly cited as Korea's answer to the Mona Lisa — a comparison that
   understates its power. It occupies an entire gallery on its own, lit to
   emphasise the extraordinary fineness of the bronze casting.
+score: 9.1
 ---
 
 The National Museum of Korea in Yongsan is one of the largest museums in Asia, holding over 400,000 objects covering Korean prehistory, the Three Kingdoms period, the Goryeo Dynasty, the Joseon period, and beyond. The collection of Buddhist art — paintings, sculptures, bronze bells, and ritual objects — is outstanding. The Goryeo celadon ceramics are the best in the world outside Korea's dedicated celadon museums.

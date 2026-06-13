@@ -15,6 +15,7 @@ title: Union Station
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Union_Station_(Ogden,_Utah)
+score: 8.1
 ---
 
 Once the crossroads of the west, this grand Beaux Arts station still captures the glamour and excitement of rail travel. Inside, museum exhibits cover railroad and automotive history across several collections: the Utah State Railroad Museum, the Browning Firearms Museum, and a natural history exhibit. Special events like model railroad shows often take place in the main lobby. Enormous locomotives from the glory days of the Union Pacific sit outside, and [Historic 25th Street](/northamerica/unitedstates/utah/ogden/historic_25th_street) is just across the street.

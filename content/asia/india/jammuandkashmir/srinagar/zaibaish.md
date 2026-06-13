@@ -11,6 +11,7 @@ tags:
 - clothing_store
 title: Zaibaish
 type: poi
+score: 4.3
 ---
 
 A family clothing centre specialising in traditional Kashmiri wedding suits and suiting material for men. Good for formal Kashmiri menswear.

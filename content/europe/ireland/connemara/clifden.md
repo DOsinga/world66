@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 53.4878
 longitude: -10.0218
+score: 7.8
 ---
 
 Clifden is the unofficial capital of Connemara: a cheerful, modest town strung along a hillside above a tidal inlet, with the Atlantic visible in the distance and the Twelve Bens behind. It has the only concentration of shops, restaurants, and accommodation in the western half of the region, and most visitors use it as their base.

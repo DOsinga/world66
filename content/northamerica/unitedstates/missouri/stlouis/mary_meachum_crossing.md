@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 38.6633
 longitude: -90.1842
+score: 6.2
 ---
 
 Mary Meachum Freedom Crossing marks a stretch of Mississippi riverbank where, on the night of 21 May 1855, a free Black woman named Mary Meachum tried to lead nine enslaved people across the river to freedom in Illinois. The attempt was intercepted by armed federal marshals on the Illinois side; several of the escapees were caught and re-enslaved.

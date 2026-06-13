@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.9027
 longitude: 35.5008
+score: 6.8
 ---
 
 Bourj al Hamam is a long-standing classic for traditional Lebanese cuisine, with a branch overlooking Zaitunay Bay. The mezze run long — hummus with sliced lamb, tabbouleh, baba ghanoush, kibbeh — followed by exceptional charcoal-grilled meats and fish.

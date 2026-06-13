@@ -7,6 +7,7 @@ tags:
 latitude: 38.9064
 longitude: 16.5887
 snippet: Calabria's main regional museum, with Greek and Roman archaeology from Magna Graecia sites
+score: 8.0
 ---
 
 The Museo Provinciale di Catanzaro is the main archaeological and cultural museum for the Calabria region, holding collections drawn from the Greek, Roman, Byzantine, and medieval periods of a region that was thoroughly colonised by ancient Greece. Calabria was part of Magna Graecia — Greater Greece — and the museum's holdings reflect the density of ancient settlement, with ceramics, coins, sculpture, and everyday objects from sites across the province.

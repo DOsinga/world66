@@ -13,6 +13,7 @@ story: >
   Kirkland and ran community programmes throughout the early settlement period when
   municipal services were minimal. The building is one of the few surviving structures
   from Kirkland's Edwardian-era civic life.
+score: 5.8
 ---
 
 The Kirkland Woman's Club building is one of the older surviving civic structures in downtown Kirkland, listed on the National Register of Historic Places. It stands on a corner near the other historic commercial buildings of the Peter Kirk era, part of a small cluster of early 20th-century architecture that gives Kirkland's downtown its modest historic character.

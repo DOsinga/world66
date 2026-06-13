@@ -7,6 +7,7 @@ tags:
 - bar
 latitude: 51.8801
 longitude: -9.5834
+score: 6.1
 ---
 
 Davitt's is a long pub-restaurant on Henry Street that does double duty as a daytime food stop and a music venue in the evening. The food is solid Irish pub fare — fish and chips, seafood chowder, lamb stew — served until late, which is unusual in Kenmare.

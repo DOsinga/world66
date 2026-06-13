@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.8773
 longitude: -97.4264
+score: 7.7
 ---
 
 The Pollard Theatre is Oklahoma's oldest continuously operating professional theatre company, staging six or more productions annually in a historic downtown Guthrie venue. The company is known for classic American theatre and its annual production of A Territorial Christmas Carol — a frontier-era adaptation of the Dickens story that has become a regional institution in its own right.

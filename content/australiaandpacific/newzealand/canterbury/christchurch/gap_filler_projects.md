@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.5330
 longitude: 172.6360
+score: 8.3
 ---
 
 Gap Filler is the community organisation that turned Christchurch's post-earthquake vacant lots into one of the most talked-about urban design experiments in the world. The basic premise was simple: take the empty spaces left by demolished buildings and fill them temporarily with something useful or delightful. The results have ranged from vegetable gardens and performance stages to a miniature golf course, a pocket library, and the Dance-O-Mat — a coin-operated outdoor sound system on a painted concrete slab in a parking lot where people turn up and dance.

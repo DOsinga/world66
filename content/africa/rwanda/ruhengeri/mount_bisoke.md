@@ -8,6 +8,7 @@ latitude: -1.4608
 longitude: 29.4817
 story: >
   The crater lake at Bisoke's summit (Lake Ngezi) formed when the volcano collapsed inward after a major eruption. The lake is almost perfectly round, about 600 metres across, and the crater walls rise steeply around it. Bisoke last erupted in 1957. The border between Rwanda and the Democratic Republic of Congo runs across the top of the mountain, and from the crater rim you can look into both countries simultaneously.
+score: 8.3
 ---
 
 Mount Bisoke (also known as Visoke) is a 3,711-metre active stratovolcano in the Virunga chain within Volcanoes National Park, and the second most popular trekking destination in the park after the gorilla trekking. The summit holds a beautiful crater lake, and the full-day climb — a return trek of about 12 kilometres through montane forest and giant heath zone — is one of the best hikes in Rwanda.

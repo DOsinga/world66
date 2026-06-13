@@ -7,6 +7,7 @@ snippet: Living-history museum with full-scale ship and fort recreations
 tags:
 - things_to_do
 - museum
+score: 8.8
 ---
 
 Jamestown Settlement, run by the Commonwealth of Virginia and a short distance from the original archaeological site, is the living-history museum: full-scale recreations of the three ships that brought the colonists in 1607 (Susan Constant, Godspeed, Discovery), a wooden fort with thatched buildings, and a recreated Powhatan village. Costumed interpreters demonstrate musket drills, blacksmithing, and Powhatan crafts.

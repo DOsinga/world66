@@ -10,6 +10,7 @@ tags:
 - historic_house
 title: Joplin Downtown Historic District
 type: poi
+score: 7.5
 ---
 
 The lead and zinc boom of the 1890s and early 1900s left Joplin with a downtown that still shows its ambitions. The commercial buildings along Main Street and Fourth Street are solid, ornate affairs — brick facades with terra cotta detailing, corner towers, and the kind of wide-windowed shopfronts that speak of a city that expected to grow. The Joplin Downtown Historic District is listed on the National Register of Historic Places, covering several blocks of this mining-era commercial architecture.

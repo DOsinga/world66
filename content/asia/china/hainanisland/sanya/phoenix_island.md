@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Phoenix Island
 type: poi
+score: 6.0
 ---
 
 Phoenix Island is an artificial island in Sanya Bay, joined to the mainland by a short bridge, dominated by five elliptical high-rise towers that look like vertical eggs or, depending on your mood, hovering UFOs. It was conceived during China's mid-2000s building boom as a luxury resort and cruise terminal complex — apartments here briefly sold at some of the highest prices ever recorded in China — and the architecture is unmistakably of that era: ambitious, expensive, and a bit of a folly.

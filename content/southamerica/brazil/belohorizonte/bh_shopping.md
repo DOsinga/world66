@@ -6,6 +6,7 @@ tags:
 - shopping
 title: BH Shopping
 type: poi
+score: 4.8
 ---
 
 BH Shopping opened in 1979 as the first large-format shopping mall in Belo Horizonte and is still one of the most upmarket. It sits in the Belvedere neighbourhood at the south end of the city, with around 300 stores on three floors and a large food court and cinema complex.

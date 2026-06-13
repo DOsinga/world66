@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Poltava
+score: 8.4
 ---
 
 The museum sits on the battlefield south of the city centre, where on 27 June 1709 Peter the Great's Russian army crushed Charles XII of Sweden and their Cossack allies under Hetman Ivan Mazepa. The exhibits include weapons, maps, and period armour — and most memorably, the outsized uniform of Peter the Great, made for a man who stood nearly 2.1 metres tall. Outside, redoubts (small earthwork fortifications) built for the battle have been partially reconstructed, and a round rotunda with a panoramic painting of the battle stands nearby.

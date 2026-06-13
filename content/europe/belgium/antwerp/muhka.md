@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Belgium's main contemporary art museum, in a converted Het Zuid grain silo
+score: 7.2
 ---
 
 The country's main contemporary art museum, housed in a converted grain silo in the up-and-coming Het Zuid (Southern) district. The collection focuses on Belgian and Dutch artists from the 1970s onwards, with strong holdings of Marlene Dumas, Luc Tuymans, Marcel Broodthaers, and Panamarenko. Programming runs to several major shows a year of international contemporary artists.

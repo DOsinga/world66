@@ -8,6 +8,7 @@ tags:
 - historic_site
 - museum
 story: Meiling is the courtesy name of Soong Mei-ling, Chiang Kai-shek's wife — educated at Wellesley College, she served as his English-language spokesperson and was arguably the most effective face of the Nationalist government to Western audiences. The villa was built as a private retreat and finished in 1934. After 1949, like everything else in Nanjing, it passed to Communist administration.
+score: 7.2
 ---
 
 Meiling Palace (美龄宫) is the villa built for Chiang Kai-shek and his wife Soong Mei-ling on the slopes of Purple Mountain, completed in 1934. The building is a graceful two-storey structure in a hybrid Chinese-Western style, with decorative tiles on the roof in the traditional manner but Western interior arrangements. The surrounding landscape design, with circular plant beds visible from above, gives the villa the appearance of a Chinese necklace — an intentional tribute to Soong Mei-ling, it is said.

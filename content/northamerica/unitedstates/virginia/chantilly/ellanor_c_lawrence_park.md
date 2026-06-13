@@ -7,6 +7,7 @@ tags:
 latitude: 38.8614
 longitude: -77.4306
 snippet: "A 650-acre Fairfax County park with forested trails, a nature center, and two historic farmsteads — a quiet escape in an otherwise heavily developed suburb."
+score: 5.4
 ---
 
 Ellanor C. Lawrence Park covers 650 acres of second-growth forest and stream valley in the southern part of Chantilly. Fairfax County operates a nature center on the grounds that runs programs on local ecology and wildlife. The trail network is modest — a few miles of well-marked paths through mixed hardwood forest — and the terrain is gentle enough for children and casual walkers. Two historic farmsteads, the Walney and Cabell's Mill sites, are preserved on the property, though the structures are in varying states of repair.

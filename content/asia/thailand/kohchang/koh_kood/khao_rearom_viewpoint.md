@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 7.1
 ---
 
 The highest accessible point on the island, with a clear view across the rubber-forested interior to the long west-coast beaches and the smaller islands of the Mu Ko Chang marine park beyond. The track up is steep and unpaved — a sturdy scooter or a guide is sensible, especially in the wet season — but the panorama at the top is the best on Koh Kood.

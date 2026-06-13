@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.9400
 longitude: 121.7000
+score: 6.8
 ---
 
 The cross-sea road network connecting Ningbo to the Zhoushan archipelago is one of the more remarkable pieces of civil engineering in eastern China. The Zhoushan Cross-Sea Bridge — actually a series of five connected bridges crossing the various channels between the mainland and the islands — covers thirty-plus kilometres and includes a section that was, when completed in 2009, one of the longest cable-stayed bridges in the world.

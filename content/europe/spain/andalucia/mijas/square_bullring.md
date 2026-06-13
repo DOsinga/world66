@@ -16,6 +16,7 @@ story: >
   Whether or not the legend is true, the square ring has become Mijas's most
   distinctive landmark and a symbol of the town's willingness to do things its
   own way.
+score: 6.0
 ---
 
 The Plaza de Toros of Mijas is a square bullring, a rarity in a country where virtually every other ring is oval or circular. Built into the hillside to take advantage of the natural slope for seating, the ring holds several thousand spectators and is still used for bullfights during the town's fiestas. Outside of the bullfighting season it functions as a venue for concerts and cultural events.

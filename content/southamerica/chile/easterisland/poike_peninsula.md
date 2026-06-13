@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 6.5
 ---
 
 Poike is the oldest of the island's three volcanoes and forms the entire eastern headland. The peninsula is mostly empty grassland, cut off from the rest of the island by the long shallow ditch of the Ko Te Ava O Iko — once thought to be a battle trench, more likely a horticultural feature. A few weathered moai stand at the inland edge.

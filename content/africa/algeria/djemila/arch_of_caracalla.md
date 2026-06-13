@@ -16,6 +16,7 @@ story: >
   insult. The arch at Djemila commemorates the beneficent version.
 sources:
   - https://en.wikipedia.org/wiki/Arch_of_Caracalla_(Dj%C3%A9mila)
+score: 7.6
 ---
 
 The Arch of Caracalla stands at the southern end of the main street of the Roman town, marking the transition between the old forum quarter and the later southern expansion. Erected in 216 AD when the emperor Caracalla visited the province of Numidia, it is a triumphal arch of the standard Roman type: three openings, with the central passage wider than the two flanking ones.

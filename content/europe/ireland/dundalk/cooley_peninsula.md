@@ -10,6 +10,7 @@ story: >
   The Cooley Peninsula is the setting of the Táin Bó Cúailnge, the great Irish cattle-raid epic that forms the centrepiece of the Ulster Cycle — Ireland's equivalent of the Iliad. Queen Medb of Connacht launches her invasion to steal the great bull of Cooley, and the hero Cú Chulainn defends the Ulster border single-handedly from a ford on the River Dee. The Táin Way walking route follows the mythological geography of the story through the mountains and glens.
 sources:
   - https://en.wikipedia.org/wiki/Cooley_Peninsula
+score: 8.6
 ---
 
 The Cooley Peninsula juts northeast from Dundalk between Dundalk Bay and Carlingford Lough, rising into a compact range of granite hills that feel surprisingly remote given their proximity to two capital cities. The peninsula is about 15 km long and 8 km wide, and its circular road offers some of the best coastal and mountain scenery in northeast Ireland.

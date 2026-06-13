@@ -8,6 +8,7 @@ tags:
 neighbourhood: Port Credit
 latitude: 43.562
 longitude: -79.567
+score: 6.7
 ---
 
 The Adamson Estate is a Tudor revival country house from 1920, built for Agar Adamson and his wife Mabel Cawthra and now owned by the Credit Valley Conservation Authority. The house sits in 11 hectares of mature parkland on the lakefront between Port Credit and Lakeview.

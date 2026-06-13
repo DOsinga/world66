@@ -9,6 +9,7 @@ latitude: 51.6500
 longitude: -121.3000
 sources:
   - https://en.wikipedia.org/wiki/100_Mile_House
+score: 6.7
 ---
 
 100 Mile House has one of the finest groomed cross-country ski trail networks in British Columbia, maintained by the 100 Mile Nordic club. The trails wind through spruce and pine forest around town, with well-marked routes for all abilities. The Cariboo gets reliable dry snow — often 60 to 80 cm on the ground through winter — and the season typically runs from late November to March.

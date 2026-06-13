@@ -12,6 +12,7 @@ tags:
   - sight
   - architecture
 story: "Shah Jahan, who built the Taj, was deposed and imprisoned in this fort by his own son Aurangzeb in 1658. He spent his final eight years confined here in the Musamman Burj, the octagonal marble tower at the eastern corner. Tradition says that from its terrace, in a small mirror set in his deathbed, he could see the white dome of the Taj where his wife was buried."
+score: 9.5
 ---
 
 The Agra Fort is one of India's most important Mughal monuments and deserves as much time as the Taj Mahal itself. Built primarily in red sandstone, the fort began as a military structure under Akbar from 1565 before becoming the lavish palace of emperors Akbar, Jahangir, and Shah Jahan. The whole complex is enclosed by 21-metre walls running for two and a half kilometres.

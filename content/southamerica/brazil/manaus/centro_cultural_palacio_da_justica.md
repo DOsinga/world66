@@ -8,6 +8,7 @@ tags:
 - centro
 latitude: -3.1318
 longitude: -60.0230
+score: 7.1
 ---
 
 A short walk from the Teatro Amazonas, the Palácio da Justiça is another monument of the rubber-boom years — a flamboyant neoclassical pile inaugurated in 1900 to house the state courts. The exterior, with its mansard roof, allegorical sculptures and rusticated stonework, is one of the most photogenic facades in the centre.

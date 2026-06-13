@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A quieter alternative to Phewa Lake, 15 km east of town
+score: 7.9
 ---
 
 The second of the **Pokhara Valley** lakes, about 15 km east of town. Begnas is bigger than Phewa, surrounded by terraced rice fields rather than the tourist strip, and has fewer than a tenth of the visitors. A few small resorts have appeared along the shore but the place still feels essentially rural.

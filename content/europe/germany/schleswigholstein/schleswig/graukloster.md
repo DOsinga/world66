@@ -8,6 +8,7 @@ tags:
 latitude: 54.5145
 longitude: 9.572
 snippet: "Medieval Franciscan friary with intact Gothic cloister"
+score: 7.8
 ---
 
 The Graukloster — the Grey Friars' monastery — was founded in the 13th century by Franciscans and is one of the best-preserved medieval monastic complexes in Schleswig-Holstein. The name comes from the grey habits the Franciscan friars wore. After the Reformation, the buildings passed through several uses before eventually finding their current role as a retirement home, which means they remain in active use rather than standing as a ruin or museum.

@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 15.5613
 longitude: 73.7495
+score: 6.4
 ---
 
 A short walk up the beach toward Baga — technically just over the line, but everyone heading north from Calangute ends up here at some point. Britto's has been doing the same things since 1965: chilli fry, sausage chouriço, prawn caldine, the inevitable fish curry rice, plus a long beer list and live music most evenings.

@@ -7,6 +7,7 @@ tags:
 title: Raccoon Mountain Caverns
 type: poi
 snippet: "Five-mile cave system with both walking tours and serious wild-cave trips"
+score: 7.9
 ---
 
 Less polished than Ruby Falls but, for many cavers, more interesting — Raccoon Mountain holds more than five miles of passages and is one of the few US show caves that still runs proper wild-caving expeditions to the unlit sections.

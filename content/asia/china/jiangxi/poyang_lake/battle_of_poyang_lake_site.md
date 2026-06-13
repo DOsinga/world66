@@ -8,6 +8,7 @@ latitude: 29.1200
 longitude: 116.4000
 story: >
   The Battle of Poyang Lake in 1363 pitted Zhu Yuanzhang (the future first Ming emperor) against Chen Youliang, both rebel warlords fighting to fill the vacuum left by the collapsing Mongol Yuan dynasty. Over several weeks in August and September, fleets estimated at hundreds of thousands of men engaged on the lake's waters. Chen was killed by a stray arrow, his coalition collapsed, and Zhu went on to found the Ming dynasty. The engagement is considered by some historians the largest naval battle in history — an extraordinary claim for an inland lake in Jiangxi, but the scale of the forces involved makes it plausible.
+score: 6.2
 ---
 
 The site of the 1363 Battle of Poyang Lake is commemorated near the eastern shore of the lake, with a memorial marking one of the decisive military engagements in Chinese history. The battle determined which of the major rebel factions vying for control of a crumbling Mongol dynasty would ultimately succeed — and by extension, shaped the course of Chinese history for the next three centuries.

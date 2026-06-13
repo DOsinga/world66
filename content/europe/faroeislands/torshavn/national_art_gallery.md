@@ -8,6 +8,7 @@ tags:
   - museum
   - gallery
 snippet: The principal collection of Faroese painting and sculpture
+score: 7.9
 ---
 
 The National Art Gallery is housed in a low concrete building beside the Nordic House. It holds the largest collection of Faroese art anywhere, from the pioneering landscape painter Sámal Joensen-Mikines through to contemporary work. Mikines' dark, expressive paintings of grindadráp (pilot whale hunts) and Faroese village life dominate one wing.

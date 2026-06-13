@@ -8,6 +8,7 @@ tags:
 latitude: 33.5087
 longitude: 36.3057
 snippet: Long covered souq running along the Roman Via Recta
+score: 7.7
 ---
 
 The covered Madhat Pasha Souq runs east-west through the Old City along the line of the Roman Via Recta — the "Street Called Straight" of the New Testament. The roofed section is about 600 metres long and lined with shops selling clothing, household goods, textiles and tools.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 5.8
 ---
 
 A short rocky beach between Bang Bao and Ao Phrao, named for the dark stones (*hin*) scattered along the sand. Not a swimming beach — the rocks make it awkward to wade in and out — but a good place to wander, look for hermit crabs, and watch the local fishing boats work just offshore.

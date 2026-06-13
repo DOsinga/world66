@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Neoclassical parish church on the site of a much older building
+score: 6.0
 ---
 
 The parish church of Sant'Ambrogio dominates the small main square of the village. It was rebuilt in 1810 on the site of an earlier medieval church that had been damaged in the Napoleonic battles of the 1790s; the present neoclassical façade and three-nave interior date from that rebuild.

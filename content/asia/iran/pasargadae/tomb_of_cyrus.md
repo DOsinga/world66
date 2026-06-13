@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Tomb of Cyrus
 type: poi
+score: 9.4
 ---
 
 The iconic tomb of Cyrus the Great is the most recognisable monument at Pasargadae — a simple gabled stone chamber set on six stepped platforms, rising to a total height of 11 metres. The massive limestone blocks were held together without mortar, using iron and lead clamps in the Achaemenid manner. It has survived over 2,500 years of earthquakes, invasions, and weather.

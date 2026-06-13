@@ -6,6 +6,7 @@ longitude: 13.4333
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Bergen is the administrative capital of Rügen, sitting in the middle of the island where most of the railway lines meet. It is not a resort town and is not normally on the tourist itinerary — but the old town has a quiet, low-key charm and the twelfth-century Marienkirche, with its impressive Romanesque interior and surviving fragments of medieval frescoes, is worth a stop.

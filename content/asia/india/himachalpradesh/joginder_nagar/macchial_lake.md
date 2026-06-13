@@ -6,6 +6,7 @@ longitude: 76.79704
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Macchial Lake is a small forest-fringed lake about 6 km south of Joginder Nagar, considered sacred and home to a temple to Lord Varuna on its bank. The water is full of mahseer fish — locally protected and fed by visitors — and a low-key fair is held here each summer.

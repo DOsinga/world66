@@ -13,6 +13,7 @@ story: >
   The Bear Flag Republic lasted exactly 25 days before the US Navy arrived and raised the Stars and Stripes.
   The republic's flag, slightly refined, became the state flag of California — still flying today on the basis
   of a 25-day unrecognised state.
+score: 8.5
 ---
 
 Sonoma Plaza is the largest town square in California — eight acres of park, fountain, duck pond, and lawn at the centre of the city. The plaza was laid out in 1835 by General Mariano Vallejo on the Spanish colonial model, and the surrounding buildings include some of the most significant historic structures in California. The farmers' market on Tuesday and Friday mornings is one of the best in Sonoma County, with wine country produce from the surrounding farms.

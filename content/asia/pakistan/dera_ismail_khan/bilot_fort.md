@@ -6,6 +6,7 @@ latitude: 31.8450
 longitude: 70.9200
 sources:
   - https://en.wikipedia.org/wiki/Dera_Ismail_Khan
+score: 6.9
 ---
 
 Bilot Fort is a pre-Islamic hill fort on an elevated position near the Chashma highway, a few kilometres outside D.I. Khan. The structure dates from before the Islamic conquest of the region and represents one of the older surviving archaeological features in the area. Its hilltop position gave commanding views over the Indus floodplain and the approach routes from the mountains, explaining why it was fortified in the first place.

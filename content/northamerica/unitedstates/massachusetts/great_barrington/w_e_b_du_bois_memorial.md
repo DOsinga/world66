@@ -13,6 +13,7 @@ story: >
   injustice until he left Massachusetts — which made the shock of the Jim
   Crow South all the more radicalising. Great Barrington shaped him before
   America reminded him of his place in it.
+score: 6.8
 ---
 
 W.E.B. Du Bois — sociologist, civil rights leader, co-founder of the NAACP, and author of "The Souls of Black Folk" — was born and raised in Great Barrington. A small historic site marks the location of his boyhood home on Burghardt Street; the house itself no longer stands, but the site is maintained as a memorial, and plaques give context to his early life in western Massachusetts.

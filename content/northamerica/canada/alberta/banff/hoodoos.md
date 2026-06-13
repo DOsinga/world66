@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Hoodoos
 type: poi
+score: 7.2
 ---
 
 Tall pillars of cemented gravel and rock capped by harder stone, sculpted over thousands of years by wind and water erosion. The Banff Hoodoos stand on a bluff above the Bow River about 4 km east of town along Tunnel Mountain Drive. A short interpretive trail leads to a viewpoint overlooking the formations and the river valley beyond.

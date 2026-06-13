@@ -16,6 +16,7 @@ story: >
   was killed at the Battle of Teba, and the heart was returned to Scotland
   and buried at Melrose. A lead casket exhumed during excavations in 1921 and
   reburied in 1998 is believed to contain it.
+score: 9.5
 ---
 
 Melrose Abbey was founded in 1136 by King David I as the first Cistercian house in Scotland, and at its peak was one of the wealthiest and most influential monasteries in the country. The current ruins date mostly from a 14th-century rebuild after Edward II of England burned the original; even partly ruined, the carved red sandstone is some of the finest medieval stonework in Britain — look out for the bagpipe-playing pig high on the southern wall, a piece of medieval whimsy hidden in plain sight.

@@ -15,6 +15,7 @@ story: >
   the devastation of war than anything that could be built." The Belgian
   government disagreed. Reconstruction began in 1934 and was not completed
   until 1967.
+score: 8.8
 ---
 
 The Ypres Cloth Hall is one of the largest Gothic secular buildings in the world — 133 metres long, with a 70-metre belfry — and was built between 1200 and 1304 when Ypres was one of the great cloth-trading cities of medieval Europe. By November 1918 it was rubble.

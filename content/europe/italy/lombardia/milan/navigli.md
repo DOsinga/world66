@@ -10,6 +10,7 @@ snippet: Leonardo-designed canals lined with aperitivo bars and restaurants
 tags:
   - things_to_do
   - neighbourhood
+score: 7.4
 ---
 
 Milan's surviving network of canals, originally designed in part by Leonardo da Vinci. The Naviglio Grande and Naviglio Pavese are the main channels; the embankments (alzaia) are lined with bars, restaurants, and aperitivo spots. From around 18:00 to 21:00 the area fills with locals doing the traditional Milanese aperitivo — a drink plus free or subsidised food that serves as a light dinner.

@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Curruncho
 type: poi
+score: 6.0
 ---
 
 A bar in the old quarter playing jazz, blues, pop-rock, and indie. One of the livelier spots in the Entremuros area. The music leans toward live acts and DJ sets on weekends, drawing a mixed crowd of locals and pilgrims fresh off the Camino. Drinks are reasonably priced by Santiago standards, and the atmosphere stays relaxed even when it gets busy.

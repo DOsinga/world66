@@ -7,6 +7,7 @@ snippet: Famous venue for choro music, near the TV Tower
 tags:
 - bars_and_cafes
 - music
+score: 8.2
 ---
 
 The Clube do Choro de Brasília is a small concert venue founded in 1977 to keep the choro tradition — a fast, syncopated instrumental music born in 19th-century Rio — alive in the new capital. Today it is one of the most respected choro venues in the world, hosting nightly performances by visiting players and the resident Choro do Quintal ensemble.

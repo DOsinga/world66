@@ -9,6 +9,7 @@ latitude: 43.8751
 longitude: 125.3100
 story: >
   Puyi, China's last emperor, nominally reigned here as Emperor of Manchukuo — but his private diaries, on display in the museum, reveal that he understood his situation perfectly. He was a prisoner, not a ruler. The Japanese kept him as a figurehead while running the state through the Kwantung Army, and the imperial palace was as much a gilded cage as the Forbidden City he had been forced to leave decades before.
+score: 9.1
 ---
 
 The Museum of the Imperial Palace of Manchukuo occupies the complex where Puyi — the last Qing emperor, made famous in the West by Bernardo Bertolucci's film — lived and nominally ruled the Japanese puppet state from 1932 to 1945. The buildings are grand in the hybrid Japanese-Chinese neoclassical style that characterized Manchukuo's official architecture: ceremonial halls, state rooms, residential quarters, and the various offices from which the bureaucratic machinery of a colonial fiction was maintained.

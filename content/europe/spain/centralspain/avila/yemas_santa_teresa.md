@@ -12,6 +12,7 @@ tags:
 - food
 title: Yemas de Santa Teresa
 type: poi
+score: 5.8
 ---
 
 Yemas de Santa Teresa are the confection most associated with Ávila — small, intensely sweet egg-yolk sweets wrapped in paper in round boxes, sold in convent shops and confectioneries throughout the old town. The recipe is essentially very ripe egg yolks cooked with sugar until they form a firm paste, shaped into balls, and dusted with sugar. They are richer than almost any other Spanish sweet and should be eaten in small quantities.

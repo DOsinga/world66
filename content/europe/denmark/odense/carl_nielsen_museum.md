@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Tribute to Odense's other great cultural export — the composer
+score: 6.9
 ---
 
 Carl Nielsen, born to a poor musician's family in a village outside Odense in 1865, became Denmark's most important composer — six symphonies, two operas, and a body of songs that almost every Dane learns at school. The museum, attached to the concert hall, displays manuscripts, instruments, and the sculptures by his wife Anne Marie Carl-Nielsen.

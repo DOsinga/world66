@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 San Juan Bautista is the only village on the island and home to nearly all of its roughly 500 residents. It sits on Cumberland Bay, a horseshoe of deep blue water hemmed in by basalt cliffs and the green wall of the El Yunque massif. The settlement is little more than a single waterfront strip, a school, a church, a fishing co-op, and dirt streets climbing up the slope.

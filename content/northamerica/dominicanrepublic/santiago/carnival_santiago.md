@@ -9,6 +9,7 @@ title: Santiago Carnival
 type: poi
 snippet: The country's most spectacular Carnival, every Sunday in February
 story: Santiago's Carnival is famous for its lechones — masked figures in elaborate costumes representing local neighbourhoods, who run through the crowd swinging inflated bladders called vejigas and giving spectators a stinging slap. The tradition descends from colonial-era processions where masked figures mocked the Spanish; today it is the most distinctive Carnival in the Caribbean.
+score: 8.6
 ---
 
 Santiago's Carnival is held every Sunday in February and is the most spectacular such celebration in the Dominican Republic. The processions are dominated by the lechones — masked figures in horned costumes whose look (Mexican-style demonic horns, sequinned tunics, exaggerated noses) is unique to the Cibao region. Each neighbourhood has its own troupe with its own costume design.

@@ -8,6 +8,7 @@ tags:
   - sight
 title: Metropolitan Cathedral
 type: poi
+score: 6.7
 ---
 
 The Metropolitan Cathedral is the seat of the Archbishop of San José and the country's main Catholic church. The current building dates largely from the 19th century — the earlier structure was destroyed by an earthquake — and the neoclassical facade is one of the more dignified architectural presences in the city centre. The interior is cool and calm, with stained glass and a high vaulted ceiling.

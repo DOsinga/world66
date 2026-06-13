@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.2722
 longitude: -48.8419
+score: 7.2
 ---
 
 The Zoobotânico is a combined zoo and botanical garden on the north side of the city, set in an area of preserved Atlantic Forest. The animal collection is modest by South American standards but does a good job with the regional fauna — capuchin monkeys, jaguars, ocelots, anteaters, and a particularly large macaw aviary.

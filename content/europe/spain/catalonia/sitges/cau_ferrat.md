@@ -17,6 +17,7 @@ story: >
   Grecos he had personally carried home from a pilgrimage to Paris, ceramics
   by Picasso, and the bohemian crowd that turned Sitges into the unofficial
   capital of Catalan Modernisme.
+score: 9.1
 ---
 
 The Museu Cau Ferrat is the heart of Modernista Sitges — the studio, residence, and bohemian meeting place that the painter Santiago Rusiñol assembled at the end of the 19th century. The blue-painted interior is hung wall-to-wall with his own paintings, alongside the El Greco canvases he bought in Paris in 1894, works by Ramon Casas, Picasso ceramics, and a vast collection of medieval and renaissance wrought ironwork.

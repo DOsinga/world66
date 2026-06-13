@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 33.8976
 longitude: 35.5031
+score: 5.9
 ---
 
 The Beirut Souks are not really souks at all — they are a clean, contemporary shopping district rebuilt by Solidere on the site of the old Ottoman markets, which were destroyed in the civil war. Stone-paved lanes lead between international fashion brands, restaurants, and a multiplex cinema, with archaeological remains preserved in glass-floored corners.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.6192
 longitude: -124.0456
+score: 6.5
 ---
 
 The Hatfield Marine Science Center is the public-facing wing of Oregon State University's marine research operation on Yaquina Bay. It is smaller and quieter than the Oregon Coast Aquarium next door, and it has a different mission: to show you the science, not the spectacle.

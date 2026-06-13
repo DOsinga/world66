@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.7020
 longitude: 115.8640
+score: 6.0
 ---
 
 The OCT Creative Park (华侨城创意文化园) in Honggutan adapts a repurposed factory complex into galleries, artist studios, design shops, and restaurants. It's modeled on similar creative parks in Shenzhen and Chengdu but at a smaller, more manageable scale. The industrial brick buildings contain a mix of contemporary art exhibitions, design studios, craft workshops, and specialty cafés.

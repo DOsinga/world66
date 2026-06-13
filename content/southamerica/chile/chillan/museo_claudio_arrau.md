@@ -14,6 +14,7 @@ story: >
   Liszt's pupils.
 sources:
   - https://en.wikipedia.org/wiki/Chill%C3%A1n
+score: 6.5
 ---
 
 The Museo Claudio Arrau León is a small museum in Chillán dedicated to the city's most celebrated native son: the pianist Claudio Arrau (1903–1991), widely considered one of the great interpreters of the Romantic repertoire. The museum occupies a house in the city centre and displays personal memorabilia, photographs, concert programs, and recordings from across Arrau's extraordinary career.

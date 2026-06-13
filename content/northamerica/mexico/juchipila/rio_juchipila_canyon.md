@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 21.3781
 longitude: -103.1261
+score: 7.5
 ---
 
 The town sits inside a river canyon carved by the Río Juchipila, and the landscape is the defining fact of the place. The valley walls are steep and rocky, covered in dry scrub and cactus, and the river runs along the canyon floor through the town and south toward its confluence with the Río Verde. Highway 54 winds through the gorge, and from any elevated point on the road there are views down into the canyon that explain why travellers on the old Camino Real de Tierra Adentro stopped here.

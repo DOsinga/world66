@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.6
 ---
 
 The Serbian Orthodox cathedral sits a short walk uphill from the Catholic one — a reminder that Dalmatia has always been a borderland of faiths. Built in the early nineteenth century, the church is modest from the outside but has a richly painted interior with an iconostasis worth a look.

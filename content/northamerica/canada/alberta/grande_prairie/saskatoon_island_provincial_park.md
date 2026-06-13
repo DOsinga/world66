@@ -14,6 +14,7 @@ story: >
   Country, and conservation work here helped the species recover. There are now several thousand trumpeters
   again — but it is still a thrill to watch a pair come in to land, wings beating audibly across half a kilometre
   of water.
+score: 6.4
 ---
 
 Saskatoon Island Provincial Park lies about 25 kilometres west of Grande Prairie, on the shores of Little Lake. The "island" stopped being one when the lake levels dropped, leaving a wooded peninsula reachable by road. The park is small, easy and the most pleasant slice of nature within reach of the city — birdwatchers come for the trumpeter swans that nest here in spring and gather again in autumn before migration.

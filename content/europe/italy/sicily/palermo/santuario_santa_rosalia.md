@@ -9,6 +9,7 @@ latitude: 38.1605
 longitude: 13.3514
 story: >
   Rosalia, a 12th-century noblewoman, withdrew to live as a hermit in a cave on Monte Pellegrino, where she died. Her bones were rediscovered in 1624 during a plague epidemic and paraded around the city — the plague subsided and Rosalia has been Palermo's patron saint ever since. Every July her relics are processed through the streets in the Festino di Santa Rosalia, the city's biggest festival.
+score: 7.8
 ---
 
 The Santuario di Santa Rosalia occupies the saint's original hermit cave high on Monte Pellegrino, the limestone massif that closes the Gulf of Palermo to the north. The 17th-century Baroque shrine is built right up against the natural cliff, with water seeping down rock walls inside the chapel — collected as it drips for centuries by sheets of zinc.

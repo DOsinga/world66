@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - wildlife
+score: 7.7
 ---
 
 The Bóquer Valley is a celebrated short walk for birdwatchers and casual hikers, starting at the north end of Port de Pollença's beach and crossing a low pass to the rocky cove of Cala Bóquer. The walk is about two hours round trip, mostly easy underfoot.

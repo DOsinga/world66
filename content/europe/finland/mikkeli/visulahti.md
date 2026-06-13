@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.7011
 longitude: 27.3465
+score: 5.5
 ---
 
 Visulahti is a family-oriented leisure complex on the shores of Lake Saimaa about four kilometres from the town centre, easily the most popular day-out destination for families visiting Mikkeli. The park centres on a dinosaur-themed amusement area — somewhat incongruous in a Finnish lakeside setting, but enthusiastically maintained — with a children's farm, swimming pools, miniature golf, and a wax museum.

@@ -9,6 +9,7 @@ latitude: 67.8503
 longitude: 20.1928
 sources:
   - https://en.wikipedia.org/wiki/Kiruna_mine
+score: 8.7
 ---
 
 The Kiruna mine is the largest and most productive underground iron ore mine in the world. The ore body at Kiirunavaara mountain has been mined since 1900 and now extends more than 1,700 metres below the surface, running roughly four kilometres in length. LKAB, the state-owned mining company, extracts tens of millions of tonnes of iron ore pellets here each year, much of it exported via the railway to the port of Narvik in Norway.

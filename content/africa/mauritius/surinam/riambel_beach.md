@@ -7,6 +7,7 @@ tags:
 - beach
 title: Riambel Beach
 type: poi
+score: 6.6
 ---
 
 Riambel is a long stretch of public beach west of Surinam village, much less developed than anything around Flic-en-Flac or the north coast. The water here is more exposed — a real southern coast, with stronger surf and stronger trade winds — and the beach is fringed by casuarina trees that drop a thick carpet of needles.

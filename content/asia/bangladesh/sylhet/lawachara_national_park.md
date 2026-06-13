@@ -11,6 +11,7 @@ story: >
   western hoolock gibbon, the only ape native to the Indian subcontinent.
   Fewer than 200 of them survive in Bangladesh, almost all in this small
   patch of forest about 90 km south of Sylhet.
+score: 9.8
 ---
 
 Lawachara National Park covers a small but important patch of semi-evergreen forest between Sylhet and Srimangal. The hoolock gibbons are the headline attraction — early-morning treks (5am start) into the forest with a park guide are the best chance of hearing their loud whooping calls and, if you're lucky, seeing a small family group in the canopy.

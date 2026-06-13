@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.1
 ---
 
 Oasis Hiroba 21 is a small skyscraper containing the prefectural government's iichiko Cultural Centre — a 1,966-seat concert hall and theatre named after the Oita-distilled shochu brand that funded it. The building also houses a public library and a free observation lounge on the top floor with a view across the city and out to Beppu Bay.

@@ -11,6 +11,7 @@ tags:
 - hiking
 snippet: 12th-century Benedictine monastery on the highest peak of the Holy Cross Mountains
 story: "The monastery is supposed to hold a fragment of the True Cross brought from Hungary by Prince Emeric in the 11th century — the relic that gave the mountains their name. Less reverently, in the interwar years the monastery was used as a Polish state prison, and after 1939 the Germans turned it into a holding camp for Soviet POWs. Several thousand died there in the winter of 1941–42 alone."
+score: 8.4
 ---
 
 The Benedictine monastery on Łysa Góra (Bald Mountain), traditionally called Święty Krzyż or "Holy Cross," is the spiritual centre of the region and gives the whole mountain range its name. The first monastery was founded here in the 12th century around an alleged fragment of the True Cross. The current Baroque buildings, much rebuilt after fire and war, sit at 595 metres on the second-highest peak of the Świętokrzyskie range, surrounded by the protected primeval forest of the national park.

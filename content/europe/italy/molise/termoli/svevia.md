@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.0058
 longitude: 14.9982
+score: 7.1
 ---
 
 Tucked into the lanes of the Borgo Vecchio close to the castle, Svevia is the most consistently praised restaurant in Termoli — a small dining room with a focused fish menu and a short, well-chosen Molisan wine list. Reserve a few days in advance for dinner, especially in summer.

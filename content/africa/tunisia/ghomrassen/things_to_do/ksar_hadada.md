@@ -3,6 +3,7 @@ title: Ksar Hadada
 type: poi
 latitude: 33.0607
 longitude: 10.3369
+score: 8.0
 ---
 
 Ksar Hadada is one of the best-preserved examples of Berber ksar architecture in the Tataouine region. The structure follows the traditional form: stone-vaulted ghorfas (storage chambers) stacked in tiers around a central courtyard, originally built to store grain and olive oil for the surrounding community. The vaulted chambers and rough stone construction give a strong sense of how these buildings worked as both fortified storehouses and communal infrastructure.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Ali Pasha Museum
 type: poi
+score: 7.9
 ---
 
 The small museum on Ioannina Island, inside the **Monastery of Pantelimon**, marks the spot where Ali Pasha of Ioannina was killed by Ottoman troops in January 1822. The reconstructed monk's cell where he died still has visible bullet holes in the floorboards, along with weapons, costumes, paintings, and personal effects of the pasha and his court.

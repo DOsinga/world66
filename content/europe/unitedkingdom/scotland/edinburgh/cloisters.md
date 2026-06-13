@@ -11,6 +11,7 @@ tags:
 - bar
 title: Cloisters
 type: poi
+score: 7.5
 ---
 
 A converted parsonage on the edge of Tollcross that does the traditional Edinburgh pub right: no music, no slot machines, no fuss. Eight to ten cask ales, a long row of single malts and a serious clientele of beer drinkers. Excellent pub lunch.

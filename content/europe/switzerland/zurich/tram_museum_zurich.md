@@ -9,6 +9,7 @@ tags:
 - museum
 title: Tram-Museum Zürich
 type: poi
+score: 6.1
 ---
 
 A volunteer-run museum in Höngg housing a collection of original trams, trolleybuses, and buses from Zürich's public transport history, dating back to the 1890s. The collection includes beautifully restored vehicles you can climb aboard, plus photographs, uniforms, and ticketing equipment.

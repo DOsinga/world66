@@ -14,6 +14,7 @@ story: >
   decoration is almost entirely absent — bare stone, a few carved capitals, light falling through
   narrow windows. After the painted intensity of the adjacent oratorio, the austerity feels
   deliberate and appropriate.
+score: 8.3
 ---
 
 Santa Maria Assunta stands beside the Oratorio di San Pellegrino and is the main church of Bominaco. Dating from the 11th century, it is one of the best-preserved Romanesque churches in Abruzzo: three apses, a nave and two aisles, carved capitals depicting animals and foliage, and a simple stone pulpit. The building has never been substantially altered.

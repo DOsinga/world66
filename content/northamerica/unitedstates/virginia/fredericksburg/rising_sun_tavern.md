@@ -15,6 +15,7 @@ story: >
   from the 1930s restoration.
 sources:
   - https://en.wikipedia.org/wiki/Rising_Sun_Tavern_(Fredericksburg,_Virginia)
+score: 7.4
 ---
 
 The Rising Sun Tavern is a restored colonial tavern on Caroline Street, built in the 1760s and operated as a public house from approximately 1792 to around 1820. It is now a museum run by the Association for the Preservation of Virginia Antiquities, offering costumed guided tours that do a good job of conveying what a busy 18th-century tavern actually smelled, sounded, and functioned like.

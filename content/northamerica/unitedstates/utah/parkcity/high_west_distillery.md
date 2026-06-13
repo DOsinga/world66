@@ -10,6 +10,7 @@ story: >
   High West was the first distillery to open in Utah since the state went dry in 1917. Getting a distillery license in a state run by the Church of Jesus Christ of Latter-day Saints required considerable persistence and legal creativity; the founders ultimately opened in a former livery stable on Main Street, which seemed appropriate for a whiskey operation in a mining town.
 sources:
   - https://en.wikipedia.org/wiki/High_West_Distillery
+score: 7.0
 ---
 
 High West Distillery, on Main Street, was the first whiskey distillery to open in Utah since Prohibition and remains one of the most distinctive craft spirits producers in the American West. The distillery specialises in blended American whiskeys — combining sourced bourbon and rye from the Midwest with its own distillate — and has won numerous awards for its Rendezvous Rye and Double Rye expressions.

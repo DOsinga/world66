@@ -11,6 +11,7 @@ tags:
 - beatles
 title: Cavern Club
 type: poi
+score: 8.1
 ---
 
 The most famous music venue in the world by reputation, the Cavern is a tight, brick-arched cellar on Mathew Street where the Beatles cut their teeth as a working bar band. Brian Epstein walked in to see them play here on 9 November 1961 and signed them a few weeks later. The current club, opened in 1984 and expanded since, sits on most of the original footprint with bricks from the demolished 1957 cellar.

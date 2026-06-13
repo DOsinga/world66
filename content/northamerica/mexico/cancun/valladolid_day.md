@@ -8,6 +8,7 @@ tags:
 - history
 title: Valladolid
 type: poi
+score: 7.9
 ---
 
 A handsome 16th-century colonial city 160 km west of Cancun, founded by the Spanish in 1543 on the site of a destroyed Mayan town. The cathedral on the main square (Catedral de San Servacio) anchors a grid of pastel-coloured houses, several restored convents, and one of the most authentic markets in the Yucatán. Most tour buses skip Valladolid for the bigger draw of Chichén Itzá an hour further on, which means the city remains genuinely Mexican rather than tourist-shaped.

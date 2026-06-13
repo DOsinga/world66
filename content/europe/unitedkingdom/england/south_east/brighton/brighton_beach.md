@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.8188
 longitude: -0.1425
+score: 8.1
 ---
 
 Brighton Beach is shingle, not sand — a fact that surprises some visitors and deters others, but has never stopped Brightonians from treating it as a summer living room. The beach runs for miles in each direction from the piers, with beach bars, cafes, volleyball nets, and deckchair hire all appearing between May and September. The sea is the English Channel, which means it is rarely warm, but it is swimmable from June onwards.

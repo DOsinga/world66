@@ -7,6 +7,7 @@ tags:
 latitude: -20.1119
 longitude: 16.1547
 snippet: "Small local history museum covering the German colonial period, the Herero and Nama wars, and Outjo's development"
+score: 6.8
 ---
 
 The Outjo Museum occupies a small colonial-era building in the town centre and covers the history of the region from the Herero and Nama peoples through the German colonial period and into the 20th century. The collection includes colonial-era photographs, Herero artefacts, farming equipment, and documents from the period of German South West Africa.

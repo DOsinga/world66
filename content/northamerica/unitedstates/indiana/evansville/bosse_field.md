@@ -7,6 +7,7 @@ tags:
 latitude: 37.977
 longitude: -87.5753
 story: Bosse Field opened in 1915 and is the fourth-oldest professional baseball stadium still in use in the United States, after Fenway Park, Wrigley Field, and Dodger Stadium. The 1992 film "A League of Their Own," about the All-American Girls Professional Baseball League, was filmed here — Bosse Field's vintage appearance stood in for fictional Rockford, Illinois. Tom Hanks's famous line was delivered in this park.
+score: 7.6
 ---
 
 Bosse Field is a historic baseball stadium in the Haynie's Corner neighbourhood of Evansville, home to the Evansville Otters of the Frontier League. Built in 1915 and named after Mayor Benjamin Bosse, the stadium has survived and operated continuously for over a century, making it one of the oldest professional baseball venues in the country. Its vintage double-deck grandstand, curved roofline, and brick exterior are almost entirely intact.

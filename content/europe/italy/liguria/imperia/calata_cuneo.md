@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Calata Cuneo
 type: poi
+score: 7.2
 ---
 
 Calata Cuneo is the main quayside in Oneglia, running along the working port with fishing boats moored on one side and a line of restaurants and bars on the other. It's a functional, unpretentious place — the seafood on offer at lunchtime is whatever was landed that morning, and the prices are calibrated for locals rather than tourists. There's a covered market building at one end of the quay and a small marina beyond it.

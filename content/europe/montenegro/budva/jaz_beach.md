@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 snippet: Large open beach 3 km north of Budva, less developed than the hotel strip
+score: 7.0
 ---
 
 Jaz is a broad, gently-curving beach about 3 km north of Budva, separated from the resort strip by a headland. It is longer and less developed than Slovenska obala, with a mix of pebble and sand and water that is clear and calm in summer. The backdrop is a low headland of Mediterranean scrub rather than a wall of hotels, which gives it a more open feel.

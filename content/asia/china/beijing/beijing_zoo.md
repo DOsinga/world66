@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9374
 longitude: 116.3370
+score: 8.1
 ---
 
 One of the oldest and largest zoos in China, located in the northwest of the city near the Paleozoological Museum. The main draw is the Giant Panda exhibit — Beijing Zoo has had giant pandas since 1957 and typically holds six to eight animals, a larger collection than most zoos outside Chengdu. The pandas are reliably visible, usually eating bamboo with characteristic indifference to the visitors photographing them.

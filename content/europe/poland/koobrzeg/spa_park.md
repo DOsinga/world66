@@ -9,6 +9,7 @@ tags:
 - park
 snippet: "Long landscaped park between the old town and the sea, full of spa hotels and the brine pavilion"
 story: "Kołobrzeg's salt has been worth fighting over since at least the tenth century — the medieval town's wealth was largely built on it. The same brine springs that drove the medieval saltworks now feed the spa industry, with thousands of patients booked into multi-week treatments each year."
+score: 7.8
 ---
 
 The Spa Park is the long, landscaped green strip that runs between the old town and the seafront, lined with sanatorium hotels where visitors come for two- or three-week courses of brine baths, peat wraps, and inhalations. The 19th-century **pijalnia wód** (pump room) in the centre of the park still dispenses local brine for drinking — bring a small bottle and try it; it is potent enough to be sobering.

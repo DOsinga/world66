@@ -6,6 +6,7 @@ longitude: -71.6022
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 Restaurant Señor de Huanca on the main plaza is a reliable choice for a cheap set lunch. For around one or two dollars you get soup, a main (typically rice, potatoes, and some form of meat), and sometimes a small dessert. The food is hearty and suited to the cold mountain air. The plaza location makes it easy to find.

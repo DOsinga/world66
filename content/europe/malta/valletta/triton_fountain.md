@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8975
 longitude: 14.5086
+score: 6.1
 ---
 
 The Triton Fountain stands in the piazza immediately outside City Gate, marking the transition between the city's historic core and the bus terminus beyond. Three bronze Tritons — half-men, half-fish from classical mythology — support a wide shallow basin that was designed in the 1950s by sculptor Vincent Apap. The fountain was non-functional for many years but was restored as part of the 2018 Capital of Culture works and now runs reliably.

@@ -13,6 +13,7 @@ story: >
   Lake Ngaroto in 1973, where it had been hidden to protect it. It now occupies a
   specially designed gallery and is considered one of the finest surviving examples of
   traditional Maori woodcarving.
+score: 7.8
 ---
 
 The Waikato Museum (Te Whare Taonga o Waikato) sits on the east bank of the Waikato River in the centre of Hamilton. Its permanent collection covers Tainui Maori history and culture, New Zealand art, and the region's European settlement history. The gallery dedicated to Tainui taonga is genuinely outstanding — it includes carved meeting-house panels, greenstone ornaments, and the magnificent carved canoe Te Winika.

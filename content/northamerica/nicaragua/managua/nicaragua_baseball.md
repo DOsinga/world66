@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 12.1490
 longitude: -86.2828
+score: 7.7
 ---
 
 Baseball in Nicaragua is not merely a sport — it is a cultural institution with roots in the American occupation of the early 20th century that has grown deeper and more Nicaraguan with every passing decade. The country has produced a number of major league players and takes enormous pride in its baseball tradition. The winter professional league (LNBP) runs from late November through March, with teams from Managua, Granada, León, Masaya, and other cities.

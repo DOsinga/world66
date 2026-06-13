@@ -10,6 +10,7 @@ story: >
   The pier has been rebuilt four times since the 19th century — storms destroyed each previous structure. The current pier, completed in the 1990s, is 470 metres long and made of treated pine. On midsummer evenings, the crowd gathered to watch the sunset from the pier's end includes much of Palanga — a ritual so ingrained in Lithuanian seaside culture that the pier is sometimes called simply "the bridge."
 sources:
   - https://en.wikipedia.org/wiki/Palanga_Pier
+score: 7.6
 ---
 
 The Palanga Pier — Palangos tiltas in Lithuanian — extends 470 metres into the Baltic Sea and is the social heart of the resort town. On warm evenings in summer, virtually the entire population of Palanga gathers on and around it to watch the sunset. The light over the Baltic can be extraordinary: long, flat, golden-orange across the water, fading slowly in the way that only Baltic and Nordic sunsets do.

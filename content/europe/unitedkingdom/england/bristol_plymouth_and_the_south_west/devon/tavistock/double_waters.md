@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5031
 longitude: -4.1414
+score: 6.9
 ---
 
 Where the Walkham meets the Tavy in a deep wooded valley south of Tavistock, Double Waters is one of the prettiest spots in west Devon. The two rivers join below steep oak-clad slopes and there is a long shingle bar at the confluence that is good for paddling on a hot day.

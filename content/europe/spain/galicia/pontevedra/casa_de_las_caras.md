@@ -9,6 +9,7 @@ latitude: 42.4317
 longitude: -8.6439
 story: >
   Nobody knows who the seventeen carved stone faces on the facade represent. Local tradition says they are portraits of members of the family who commissioned the building, but no documentation survives to confirm this. They have been staring out over the same narrow lane for five centuries.
+score: 7.2
 ---
 
 The Casa de las Caras — House of the Faces — is one of the most intriguing buildings in Pontevedra's old town. A 16th-century pazo, it takes its name from the seventeen carved stone heads arranged across the facade, each one different in expression and detail. The identity of those depicted has never been established.

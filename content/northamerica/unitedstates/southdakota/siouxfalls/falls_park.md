@@ -14,6 +14,7 @@ story: >
   from iron oxide trapped in the stone during the Precambrian era. The mill ruins
   alongside the falls were part of a grist mill that operated briefly in the 1880s
   before flooding destroyed it within a decade of opening.
+score: 9.0
 ---
 
 The Big Sioux River drops over a series of exposed quartzite ledges in the centre of town, and the pink-red colour of the stone gives the cascades an unexpected warmth that catches most visitors off guard. The falls are the city's defining feature and the best free attraction in South Dakota's largest city.

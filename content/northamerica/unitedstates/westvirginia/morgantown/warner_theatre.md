@@ -9,6 +9,7 @@ latitude: 39.6286
 longitude: -79.9572
 sources:
   - https://en.wikipedia.org/wiki/Warner_Theatre_(Morgantown,_West_Virginia)
+score: 6.4
 ---
 
 The Warner Theatre at 147 High Street is an Art Deco cinema built in 1931, one of the more architecturally distinctive buildings on Morgantown's main commercial street. The facade has the characteristic vertical lines and ornamental detailing of the style. The theatre operated as a movie house for decades before closing; it has since been repurposed and restored.

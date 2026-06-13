@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.6
 ---
 
 A handsome 18th-century townhouse in the Troino district, the old fishermen's quarter west of the centre. The pink facade and tile-clad interior are typical of the merchant houses that the orange and salt trades made possible in Setúbal's wealthier centuries. The Feu Guião family, of French Huguenot origin, owned the local salt pans.

@@ -18,6 +18,7 @@ story: >
   walls, called it an "Arab village." Today it is a UNESCO World Heritage Site.
 sources:
   - https://en.wikipedia.org/wiki/Weissenhof_Estate
+score: 9.5
 ---
 
 The Weissenhof Estate (Weißenhofsiedlung) is one of the most significant collections of modernist architecture in existence — a housing exhibition built in 1927 on a hillside north of Stuttgart city center, with buildings by 17 of the leading architects of the early Modern Movement.

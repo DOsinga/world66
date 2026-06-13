@@ -8,6 +8,7 @@ latitude: 38.5855
 longitude: -121.5049
 story: >
   The Central Pacific Railroad, which built the western half of the transcontinental line, had its headquarters in Sacramento and employed over ten thousand Chinese workers who drove the line across the Sierra Nevada between 1863 and 1869. The museum displays the surviving rolling stock and recreates the conditions those workers faced, including a simulated snowshed crossing in the Sierra winter.
+score: 9.4
 ---
 
 The best railroad museum in North America, full stop. Twenty-one restored locomotives and dozens of pieces of rolling stock fill a vast exhibition hall in Old Sacramento, including the massive Governor Stanford — the first locomotive owned by the Central Pacific — and a gleaming 1929 Southern Pacific passenger car you can walk through. The exhibits cover the full sweep of western railroad history, from the Gold Rush supply lines through the construction of the transcontinental railroad to the twilight of steam.

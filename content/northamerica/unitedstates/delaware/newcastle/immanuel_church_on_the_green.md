@@ -8,6 +8,7 @@ latitude: 39.6608
 longitude: -75.5626
 sources:
   - https://en.wikipedia.org/wiki/Immanuel_Episcopal_Church_on_the_Green
+score: 8.0
 ---
 
 Immanuel on the Green is one of the oldest Episcopal congregations in the United States, with roots going back to the Church of England presence in New Castle in the late seventeenth century. The current church building dates from 1703, though it has been rebuilt and enlarged since. It faces the Green directly — together with the courthouse and the old town hall, it forms the classic colonial American triangle of government, commerce, and church.

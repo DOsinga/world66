@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Municipal museum in a Baroque church, housing religious art and ethnographic collections"
+score: 8.1
 ---
 
 The Municipal Museum of Ponte de Lima occupies the former church and convent of the Third Order of St Francis — a Baroque complex that still feels authentically ecclesiastical. The collections span religious sculpture and painting from the medieval period through the 18th century, alongside ethnographic material from the Minho region: traditional costumes, farm tools, and objects of daily life from a rural world that has largely disappeared.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8200
 longitude: 25.4100
+score: 7.1
 ---
 
 The hills above Bojentsi offer excellent walking in the Stara Planina (Balkan Mountains), with views north across the foothills to the Danubian plain on clear days. The village sits at 750 metres, and the ridge above it rises to around 1,000 metres — high enough for beech forest and mountain pastures, but accessible to any reasonably fit walker without specialist equipment.

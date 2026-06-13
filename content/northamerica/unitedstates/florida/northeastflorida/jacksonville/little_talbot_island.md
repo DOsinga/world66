@@ -8,6 +8,7 @@ latitude: 30.4540
 longitude: -81.4140
 story: >
   Little Talbot Island has one of the longest undeveloped beaches on Florida's Atlantic coast — nearly 5 miles without a single hotel, condo, or beach bar. This is remarkable in a state that has managed to develop essentially every accessible mile of coastline over the past seventy years. The island's status as a state park is the only thing standing between it and the kind of development that has transformed every neighbouring stretch of coast.
+score: 7.9
 ---
 
 Little Talbot Island State Park protects one of the best undeveloped beaches in northeast Florida — a 7.5-kilometre stretch of Atlantic coast backed by coastal scrub, maritime hammock, and salt marsh. The beach is wide, the waves are genuine, and on a weekday outside summer you may have long stretches entirely to yourself.

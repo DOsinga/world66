@@ -17,6 +17,7 @@ tags:
 - bo_kaap
 title: Noon Gun
 type: poi
+score: 7.1
 ---
 
 The Noon Gun fires from a small battery on the lower slopes of Signal Hill, audible across the entire central bowl of Cape Town. It has gone off daily — Mondays to Saturdays — since 1806, making it almost certainly the longest-running daily time signal anywhere.

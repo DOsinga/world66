@@ -8,6 +8,7 @@ tags:
 latitude: 51.3393
 longitude: 12.3712
 snippet: Museum in the Bose family house opposite the Thomaskirche, where Bach was a regular guest
+score: 8.6
 ---
 
 The Bach Museum occupies the Bose family house directly across from the Thomaskirche — the family were merchants and close friends of Bach, and he visited regularly. The museum covers his life and work with a mix of original documents, instruments, and interactive displays. Original Bach manuscripts are shown in rotating exhibitions; the Magical Sound Room allows you to hear the acoustics of the spaces where he worked.

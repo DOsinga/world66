@@ -8,6 +8,7 @@ latitude: 35.7158
 longitude: 51.3978
 story: >
   The most technically demanding carpet in the museum is a 16th-century Safavid hunting-ground carpet from Kerman — a room-sized piece whose weavers achieved 800 knots per square inch. At that density, a single square metre contains more than 8 million individual knots, each tied by hand. The design shows a hunting scene so detailed that individual animals in the border are distinguishable as specific species. It took an estimated three years to weave.
+score: 8.4
 ---
 
 The Iran Carpet Museum, in a 1970s building near Laleh Park designed to resemble a loom, holds a collection of around 130 historic carpets spanning four centuries and all of Iran's major weaving traditions. Persian carpet is to Iran what Gothic cathedral building was to medieval France — the supreme technical and artistic achievement of its civilisation — and this collection makes that case more clearly than any other single place.

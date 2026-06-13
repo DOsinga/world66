@@ -7,6 +7,7 @@ tags:
 latitude: 51.9285
 longitude: -8.5715
 snippet: "A small hidden cemetery for the estate's horses, tucked in the castle grounds."
+score: 4.8
 ---
 
 In a corner of the Blarney Castle estate, sheltered by trees and easy to miss, lies a small cemetery for the horses kept by the castle's owners over the generations. The graves are marked by simple headstones, some with names and dates, some noting what the horse was used for.

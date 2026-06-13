@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The largest and most popular of Sareyn's hot springs, fed by the slopes of Mount Sabalan.
 story: "The spring takes its name from Mount Sabalan, the 4,811-metre extinct volcano whose magma chamber still warms the groundwater of the whole region. Persian tradition holds that Zarathustra wrote part of the Avesta on Sabalan's summit."
+score: 7.4
 ---
 
 Sabalan is the busiest of Sareyn's nine springs and the one most visitors try first. The bathhouse sits on the central avenue, with separate large pools for men and women fed by water that emerges from the ground at around 46°C. The mineral content — bicarbonates, sulphates, a little iron — gives the water a faint metallic taste and is supposed to be good for rheumatism and skin complaints. Whether that is true or not, the immersion is genuinely relaxing after a cold day in the Alborz.

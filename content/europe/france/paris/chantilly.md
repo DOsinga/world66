@@ -12,6 +12,7 @@ tags:
 title: Chantilly
 type: poi
 url: www.domainedechantilly.com
+score: 7.8
 ---
 
 Chantilly, 50km north of Paris, is worth a day for its château, its forest, and its horses. The Château de Chantilly contains the Musée Condé — the second largest collection of old master paintings in France after the Louvre, assembled by the Prince de Condé in the 19th century. The Italian and French Renaissance rooms are extraordinary. The building itself, reflected in ornamental lakes, is one of the most photogenic in France.

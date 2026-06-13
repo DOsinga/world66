@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.1568
 longitude: -89.0689
+score: 5.8
 ---
 
 The Green Iguana Conservation Project, on the grounds of the San Ignacio Resort Hotel, is a small in-town stop that doubles as a serious conservation programme. Volunteers raise green iguana hatchlings to release into the wild — the species was nearly wiped out in Belize by hunting for meat — and the tour is a fifteen-minute guided look at iguanas of all ages.

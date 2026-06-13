@@ -18,6 +18,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Villa_di_Cerreto_Guidi
   - https://en.wikipedia.org/wiki/Isabella_de%27_Medici
+score: 8.4
 ---
 
 The Villa Medicea di Cerreto Guidi was built in the 1560s on the orders of Cosimo I de' Medici, who wanted a comfortable base for hunting expeditions in the Montalbano hills. The building is immediately recognisable from the street: two long parallel ramps of stone steps, called "the fishbones" for their herringbone-like structure, lead up from the piazza to the entrance. These access ramps, designed by Buontalenti, allowed Cosimo and his guests to ride horses directly to the piano nobile — a practical touch that became one of the most distinctive architectural features of any Medici property.

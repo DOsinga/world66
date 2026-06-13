@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.4584
 longitude: -82.7058
+score: 6.7
 ---
 
 The Jet Express runs hourly during the summer from the Jackson Street Pier in downtown Sandusky to Put-in-Bay on South Bass Island — the most popular of the Lake Erie Islands and a famously rowdy summer resort. The crossing takes about 25 minutes and the boat doubles as a city bus for islanders.

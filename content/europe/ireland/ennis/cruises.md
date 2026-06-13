@@ -6,6 +6,7 @@ tags: [bars_and_cafes, bar, music]
 address: "Abbey Street, Ennis"
 latitude: 52.8451
 longitude: -8.9821
+score: 8.0
 ---
 
 Cruises occupies a narrow 17th-century building on Abbey Street, almost in the shadow of Ennis Friary. The interior is dim, low-ceilinged, and lined with bric-a-brac of an indeterminate age — coal-effect fires, framed sheet music, a sleepy dog when the regulars bring one in.

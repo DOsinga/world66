@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - fine_dining
+score: 7.4
 ---
 
 Address: Via Liguria 250, Godia. Agli Amici has held two Michelin stars under chef Emanuele Scarello, whose family has run the restaurant since 1887. The cooking is contemporary Friulian — local fish from the Marano lagoon, Alpine cheeses, wild herbs — presented with serious technique but without the theatre of some star kitchens.

@@ -14,6 +14,7 @@ story: >
   models are connected to the real Swiss rail network: they run on the same timetable.
 sources:
   - https://www.swissactivities.com/en-ch/ticino-region/
+score: 6.5
 ---
 
 Swissminiatur in Melide, on the shore of Lake Lugano, collects 123 scale models of Switzerland's most significant buildings and landscapes across a lakeside park. The parliament building in Bern, the Matterhorn, the Gotthard railway, the old town of Berne — all rendered at 1:25 scale in remarkable detail, with miniature trains running between them.

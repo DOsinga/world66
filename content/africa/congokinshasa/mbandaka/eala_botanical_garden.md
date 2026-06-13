@@ -12,6 +12,7 @@ story: >
   species and a network of paths through dense equatorial forest. After independence in 1960, 
   funding dried up and the garden was gradually overtaken by the forest it was meant to contain. 
   What remains is a strange hybrid: managed garden and primary jungle in constant negotiation.
+score: 8.2
 ---
 
 The Eala Botanical Garden sits about 6 kilometres east of Mbandaka on the bank of the Congo River, established by Belgian colonial botanists in 1900 to study and collect tropical plant species from across the Congo Basin. At its colonial-era peak it was one of the great tropical gardens of Africa. Today it is something stranger: a partially maintained botanical collection surrounded by encroaching equatorial forest, where signposted paths lead through groves of exotic trees to sections that have been entirely reclaimed by the jungle.

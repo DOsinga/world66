@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6300
 longitude: 101.7700
+score: 6.8
 ---
 
 Lhamo — Tibetan opera — is performed in Xining at the Tibetan performing arts venues in the cultural district and occasionally at Kumbum Monastery during festivals. The performances combine stylised song, dance, mask work, and comedy in productions that typically last several hours (sometimes a full day for major pieces). The plots are drawn from Buddhist scripture, Tibetan history, and popular legend.

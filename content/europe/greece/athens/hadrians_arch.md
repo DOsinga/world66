@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 6.6
 ---
 
 Hadrian's Arch stands at the boundary between the classical Greek city of Athens and the new Roman district that Hadrian built around the Temple of Olympian Zeus in 131 CE. The inscriptions on the two sides make the point bluntly: facing the Acropolis the arch reads "This is Athens, the old city of Theseus"; facing the temple, "This is the city of Hadrian, not of Theseus."

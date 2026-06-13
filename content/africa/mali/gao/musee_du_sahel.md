@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 16.2700
 longitude: -0.0460
+score: 6.9
 ---
 
 The Musée du Sahel is Gao's main museum, housed in a building near the town centre. The collections focus on the Sahel region's cultural heritage — tools, weapons, textiles, jewellery, and household objects from the Songhai, Tuareg, and Fulani peoples. There are also archaeological finds from the wider Gao region, some dating back to the height of the Songhai Empire in the 15th and 16th centuries.

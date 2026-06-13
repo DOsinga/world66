@@ -11,6 +11,7 @@ story: >
   13,161 feet. The peak was named for Major George Wheeler, who led the US Army's 
   geographic surveys of the territory in the 1870s. On clear days the summit offers views 
   stretching into Colorado and across the Rio Grande Gorge.
+score: 8.3
 ---
 
 The Enchanted Circle is an 83-mile scenic drive that connects Angel Fire with Taos, Red River, Cimarron, and Eagle Nest in a loop around Wheeler Peak, New Mexico's highest mountain. The route passes through four distinct landscapes: the pine forests and ski slopes above Angel Fire, the Moreno Valley ranching country, the old mining town of Red River in its narrow canyon, and the high desert approaching Taos.

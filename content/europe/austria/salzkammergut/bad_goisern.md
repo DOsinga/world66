@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6500
 longitude: 13.6167
+score: 6.2
 ---
 
 Bad Goisern sits between [Bad Ischl](/europe/austria/badischl) and Hallstatt in the narrow valley of the Traun, a market town of about 7,000 people that most visitors drive through on the way to somewhere more famous. It is worth stopping for, especially for cyclists: the town is the hub of the Salzkammergut cycling network, with routes connecting north toward Bad Ischl, south toward Hallstatt, and east toward the Ausseerland via the Pötschenpass.

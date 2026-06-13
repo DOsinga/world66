@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.9
 ---
 
 The Kuin floating market — the original Pasar Terapung — sits on the Barito River at the mouth of the Kuin tributary, a short boat ride upstream from central Banjarmasin. It is smaller and quieter than Lok Baintan, but more easily combined with the Sultan Suriansyah Mosque and the river islands.

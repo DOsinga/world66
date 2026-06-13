@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - sight
+score: 4.9
 ---
 
 Punto Fijo is the peninsula's largest city and its commercial center, built up around the Amuay and Cardón oil refineries that together form one of the world's largest petrochemical complexes. The refineries dominate the skyline to the south and east, and the city's character is shaped by the workers and engineers who service them.

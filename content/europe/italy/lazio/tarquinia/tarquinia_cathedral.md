@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.2544
 longitude: 11.755
+score: 7.1
 ---
 
 The Cathedral of Santi Margherita e Martino stands in the centre of the medieval hilltop town and is the principal church of Tarquinia. The current building dates largely from the 11th century, with later additions and modifications, and preserves a fine Romanesque-Gothic interior. The crypt contains early Christian and medieval sculpture, and the main nave has a wooden ceiling painted in the 16th century.

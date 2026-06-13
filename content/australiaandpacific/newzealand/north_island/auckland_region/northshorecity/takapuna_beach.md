@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -36.7878
 longitude: 174.7706
+score: 8.1
 ---
 
 One of the best urban beaches in Auckland — a long strip of golden sand with views straight across to Rangitoto Island's distinctive volcanic silhouette. The beach sits at the bottom of Hurstmere Road, so you can walk from the cafes and shops to the sand in five minutes. It is a proper swimming beach rather than a surf beach, with calm water and a gently shelving bottom that makes it safe for all ages.

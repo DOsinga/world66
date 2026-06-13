@@ -9,6 +9,7 @@ latitude: 22.0027
 longitude: 120.7436
 story: >
   Hengchun's walls were completed in 1879, just eight years after Japan invaded Taiwan and slaughtered Paiwan villagers near this spot — the Mudan Incident, which triggered an international crisis and accelerated Qing-dynasty fortification of the island's frontier zones.
+score: 8.4
 ---
 
 Hengchun ("Eternal Spring") is the old walled town 7 km north of the Kenting resort area, and its Ming-dynasty-style walls are one of the best-preserved examples of traditional Chinese military architecture in Taiwan. Four gates survive intact — the North, South, East, and West gates — along with substantial sections of the original wall. Most walled cities in Taiwan were demolished during the Japanese colonial period; Hengchun's survival is partly luck and partly the town's peripheral location.

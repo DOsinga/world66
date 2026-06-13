@@ -9,6 +9,7 @@ tags:
 - bar
 title: La Buena Vida
 type: poi
+score: 5.5
 ---
 
 La Buena Vida sits directly on Half Moon Bay, with sand floors, a thatched roof, and stools at the bar that are literally rope swings. The food is solid Caribbean-Mexican: fresh ceviche, grilled fish, fish tacos, and big plates of guacamole, washed down with margaritas or cold Pacífico beer.

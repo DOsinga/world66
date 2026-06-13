@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Iglesia San Francisco de Castro
 type: poi
+score: 8.7
 ---
 
 Iglesia San Francisco stands on Castro's Plaza de Armas and is the most visible of Chiloé's UNESCO-listed wooden churches. Its colours are cheerful, even eccentric, but the building is one of the island's great pieces of architecture.

@@ -8,6 +8,7 @@ tags:
 latitude: 10.8
 longitude: 49.35
 story: The Golis range is the coolest and most biodiverse part of Somalia, home to endemic species found nowhere else — including the Golis starling and several highland plants that exist only on this ridge. The escarpment rises abruptly from the hot coastal plain to elevations above 2,000 metres, creating a climate difference of 10 degrees Celsius within a few kilometres.
+score: 8.3
 ---
 
 The Golis Mountains form the dramatic backdrop to Bossaso, rising sharply from the Gulf of Aden coast to form one of the highest and most ecologically distinct mountain ranges in the Horn of Africa. The road from Bossaso south toward Garowe climbs the escarpment through increasingly spectacular scenery — switchbacks cut into the rock face, with the sea visible far below and the Somali plateau opening ahead.

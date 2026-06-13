@@ -10,6 +10,7 @@ tags:
   - market
 title: Mercado Central
 type: poi
+score: 8.3
 ---
 
 The Mercado Central is everything a covered market should be: dense, fragrant, loud, and indispensable to the people who live around it. Butchers hang their cuts at the front, spice sellers offer dried chiles and medicinal herbs, and fishmongers pack ice around the morning catch. Push deeper and you find cheap sodas — the informal Costa Rican lunch counters — serving casados (the classic rice, beans, salad, and protein plate) for under a dollar more than the tourist zone charges.

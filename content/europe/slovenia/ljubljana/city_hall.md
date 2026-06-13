@@ -9,6 +9,7 @@ tags:
 - architecture
 title: City Hall (Magistrat)
 type: poi
+score: 6.9
 ---
 
 Ljubljana's City Hall sits on Mestni trg, originally erected in 1484 and rebuilt in Baroque style in 1718. Step through the entrance to find an arcaded courtyard with the Narcissus Fountain by Francesco Robba. The courtyard is open to visitors and worth a look even if you are just passing through.

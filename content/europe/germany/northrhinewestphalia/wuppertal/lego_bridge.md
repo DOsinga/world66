@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Lego-Br%C3%BCcke
+score: 5.7
 ---
 
 A railway bridge near Wuppertal Hauptbahnhof that was painted to look like giant Lego bricks in 2011, the Lego Bridge has become one of the city's minor but genuinely charming landmarks. Street artist Martin Heuwold covered the concrete supports in a pattern of oversized coloured studs, transforming a piece of grey urban infrastructure into something that makes people smile when they walk under it.

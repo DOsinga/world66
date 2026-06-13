@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 48.8106
 longitude: 14.3153
+score: 9.1
 ---
 
 The historic centre of Český Krumlov is small enough to cross on foot in fifteen minutes, but it rewards slower exploration. The medieval street plan is largely intact — narrow lanes, archways, and small squares that curve with the river. The whole area is a UNESCO World Heritage Site and the preservation is exceptional.

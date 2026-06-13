@@ -8,6 +8,7 @@ tags:
   - sight
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 7.7
 ---
 
 The classic St. Kitts panoramic view. From this hilltop on the Dr. Kennedy Simmonds Highway, the peninsula narrows to a thin band of land with the Caribbean Sea visible on one side and the Atlantic Ocean on the other, the silhouette of Nevis rising across the channel beyond.

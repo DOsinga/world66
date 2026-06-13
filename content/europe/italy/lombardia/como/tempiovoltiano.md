@@ -10,6 +10,7 @@ tags:
 - museum
 title: Tempio Voltiano
 type: poi
+score: 7.9
 ---
 
 This small neoclassical temple on the lakefront was built in 1927 to honour

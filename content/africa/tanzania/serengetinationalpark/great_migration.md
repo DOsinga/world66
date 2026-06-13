@@ -11,6 +11,7 @@ story: >
   The wildebeest's migration route makes no logical sense if you think of it as a journey from A to B. It is a continuous circuit, driven not by destination but by the smell of rain. Wildebeest can detect a rainstorm from 50 km away and will change direction mid-march to follow new grass. The entire circular route of over 3,000 km is not planned or remembered — it is improvised, year after year, by a million animals each following the one in front and the smell of water.
 sources:
   - https://en.wikipedia.org/wiki/Wildebeest_migration_in_East_Africa
+score: 10.0
 ---
 
 The Great Migration is the largest overland movement of animals on earth: roughly 1.5 million wildebeest, 200,000 zebra, and 350,000 Thomson's and Grant's gazelles moving in a continuous circuit around the Serengeti-Mara ecosystem in search of fresh grass. There is no single starting point and no true beginning or end — the animals are always moving, and the "migration" is simply the name given to the annual pattern.

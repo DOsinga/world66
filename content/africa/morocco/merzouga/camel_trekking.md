@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: 31.1002
 longitude: -4.0092
+score: 8.5
 ---
 
 The standard Merzouga camel trek leaves the village edge in the late afternoon, winds into the dunes for an hour or two, and arrives at a desert camp for sunset, dinner, and an overnight stay under an extraordinary quantity of stars. The return is at dawn, timed for sunrise over the dunes. It is a well-oiled operation and the experience is genuinely good, even if you are one of a dozen groups doing the same thing that evening.

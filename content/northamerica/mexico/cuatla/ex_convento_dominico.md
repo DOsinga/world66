@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 18.8150
 longitude: -98.9500
 snippet: "16th-century Dominican convent in the historic center"
+score: 6.8
 ---
 
 The Dominican convent was built in the mid-16th century, shortly after the Spanish established control over the region. It is one of the early colonial religious complexes in Morelos, part of a wave of monastery building that the mendicant orders — Dominicans, Franciscans, Augustinians — undertook across central Mexico in the decades after the conquest. The cloister and chapel have survived earthquakes, sieges, and the anticlerical legislation that converted many such buildings to secular use.

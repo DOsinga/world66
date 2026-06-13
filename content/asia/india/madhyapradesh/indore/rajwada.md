@@ -15,6 +15,7 @@ story: >
   the interior. What you see today is a careful restoration.
 sources:
   - https://en.wikipedia.org/wiki/Rajwada
+score: 8.0
 ---
 
 The Rajwada is a seven-storey palace built by the Holkar dynasty — the Maratha rulers who governed the region — in the late 18th century, and it sits at the centre of the old city directly on the main Rajwada square. The lower floors are stone in a broadly Mughal style; the upper floors are wood and influenced by French colonial architecture, reflecting the cosmopolitan tastes of the Holkar court.

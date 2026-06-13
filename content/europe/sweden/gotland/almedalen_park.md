@@ -13,6 +13,7 @@ story: >
   since grown into the largest political gathering in Scandinavia, with hundreds
   of seminars, debates, and informal meetings drawing politicians, journalists,
   and lobbyists from across Sweden for a week each summer.
+score: 6.3
 ---
 
 Almedalen is a public park running along the harbour front inside the city wall at the south of Visby. It occupies the site of a former harbour basin — the sea used to reach much further inland, and the park is built on reclaimed ground. Today it is a pleasant stretch of grass and mature trees giving views over the water, with old warehouses and merchants' buildings lining one edge.

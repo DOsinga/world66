@@ -17,6 +17,7 @@ story: >
   among China's most valuable living artists, selling works at auction for
   tens of millions of yuan while continuing to produce at a remarkable pace
   into his nineties.
+score: 6.9
 ---
 
 Huang Yongyu's connection to Fenghuang is one of the two great literary-artistic associations of the town (the other being Shen Congwen, his elder cousin). Huang grew up here before leaving to become an artist, and his return to the town is visible in his work: Miao motifs, the Tuo River landscape, and the earthy humour of western Hunan appear repeatedly throughout his output.

@@ -14,6 +14,7 @@ story: >
   still flying. Key wrote the poem that became "The Star-Spangled Banner" on the back
   of a letter that morning. The original flag that flew that night is now in the
   Smithsonian in Washington.
+score: 8.9
 ---
 
 Fort McHenry is a star-shaped brick fort on a peninsula in Baltimore Harbour, most famous as the site of the bombardment that inspired the American national anthem. The fort is a National Monument and Historic Shrine, one of only two sites in the US to hold that designation, and the setting — surrounded by water on three sides, with views back to downtown Baltimore — adds to the sense of occasion.

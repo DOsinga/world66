@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 49.8990
 longitude: 2.3005
+score: 7.2
 ---
 
 The Quartier Saint-Leu is the most picturesque corner of Amiens, a neighbourhood of old houses, cafes, and restaurants along the channels of the Somme immediately north of the cathedral. While most of Amiens was rebuilt after the wartime destruction, Saint-Leu survived relatively intact and retains its character as a working-class district that has gentrified gently over the past few decades.

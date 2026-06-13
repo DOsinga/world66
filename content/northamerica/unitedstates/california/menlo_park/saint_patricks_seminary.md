@@ -7,6 +7,7 @@ tags:
 latitude: 37.45919
 longitude: -122.16808
 story: Saint Patrick's Seminary was founded in 1898 on a hilltop site at the edge of what was then open farmland at the base of the Santa Cruz Mountains. The original buildings by architect Charles I. Devlin are in a Roman basilica style, with terracotta detailing and a large central courtyard. The seminary still trains Catholic priests today and the campus remains largely intact, with gardens and an ornate chapel that preserve the scale and ambition of the original design.
+score: 7.6
 ---
 
 Saint Patrick's Seminary and University sits at the eastern edge of Menlo Park's upscale hillside quarter, on a large campus that has changed relatively little since its founding. The main buildings, constructed from the late 1890s onward, form an imposing Romanesque complex set around a quadrangle with formal gardens. The chapel interior has elaborate painted decoration and stained glass from the early 20th century.

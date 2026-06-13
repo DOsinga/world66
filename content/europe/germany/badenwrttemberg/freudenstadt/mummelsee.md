@@ -9,6 +9,7 @@ tags:
 - lake
 title: Mummelsee
 type: poi
+score: 7.8
 ---
 
 The Mummelsee is a small but famously moody cirque lake set at 1036 metres on the eastern flank of the Hornisgrinde. It is the most legendary of the Black Forest lakes — folklore made it the home of water sprites — and as a result the most visited. A hotel-restaurant stands on the shore and rowing boats can be hired in summer.

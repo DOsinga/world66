@@ -8,6 +8,7 @@ tags:
 - sight
 title: Basílica de Santa Maria
 type: poi
+score: 7.4
 ---
 
 The Basílica de Santa Maria is Mataró's principal church and the focal point of the old town. Construction began in the sixteenth century and continued well into the eighteenth, leaving a Baroque interior of considerable scale — broad nave, painted vaults, and an ornate high altar. The building was declared a cultural asset of national interest.

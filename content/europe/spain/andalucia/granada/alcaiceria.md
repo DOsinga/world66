@@ -8,6 +8,7 @@ tags:
   - albaicin
 latitude: 37.1759
 longitude: -3.5984
+score: 6.6
 ---
 
 The Alcaicería was Granada's ancient silk market, built in the 10th century alongside the Great Mosque. The original was largely destroyed by fire in the 19th century and the current narrow lanes of shops are a 19th-century reconstruction of the Moorish bazaar, but the atmosphere — dark alleyways lined with stalls selling silk goods, ceramics, spices, and leather — is still persuasive.

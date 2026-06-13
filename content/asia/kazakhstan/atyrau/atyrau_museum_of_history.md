@@ -7,6 +7,7 @@ tags:
 latitude: 47.1142
 longitude: 51.8823
 snippet: Regional history museum covering the Caspian coast, nomadic culture, and the oil era
+score: 6.9
 ---
 
 The regional history and local lore museum in Atyrau covers the history of the area from its days as a Kazakh nomadic territory through the Russian imperial period (when the city was known as Guriev) to the oil boom of the post-Soviet era. The collections include ethnographic material on the Kazakh way of life, archaeological finds from the Caspian steppe, and documents and photographs from the oil industry.

@@ -9,6 +9,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Oranjestad_Reef_Islands
+score: 7.1
 ---
 
 Just offshore from Oranjestad, a chain of small reef islands breaks the surface of the Caribbean close to the cruise terminal. These tiny islets — some barely more than sandbanks with a few scrubby trees — protect the inner harbour from ocean swells and create calm, sheltered water close to the city. Several snorkelling and diving operators run trips to the reef systems around them.

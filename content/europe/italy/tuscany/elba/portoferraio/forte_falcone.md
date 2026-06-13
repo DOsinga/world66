@@ -8,6 +8,7 @@ tags:
 latitude: 42.8175
 longitude: 10.3270
 snippet: "The larger of the two Medici forts, on the highest point above the old town."
+score: 8.0
 ---
 
 Forte Falcone sits 80 metres above the harbour, on the highest ground above Portoferraio's old town — the higher and larger of the two Medici forts that anchor the historic centre. It was built by Cosimo I de' Medici from 1548 onwards as the keep of his new ideal city, and the massive bastioned walls have survived almost unchanged. The walls enclose a substantial inner courtyard, the foundations of barracks and a chapel, and a deep cistern.

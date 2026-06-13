@@ -7,6 +7,7 @@ tags:
 latitude: 59.5800
 longitude: -151.1500
 snippet: Wild and remote state park across the bay, accessible only by water taxi
+score: 9.3
 ---
 
 Kachemak Bay State Park occupies the entire southern shore of the bay opposite Homer — mountains, glaciers, old-growth spruce forest, sea otter colonies, tide pools, and about 80 km of hiking trails — and it is accessible only by boat. Water taxis run from the Homer Spit marina to several trailheads and lodges, with crossings taking 20–45 minutes depending on the destination.

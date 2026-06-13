@@ -12,6 +12,7 @@ story: >
   as German General Richter's command post — it is now incorporated into the museum's
   entrance. Richter commanded the 716th Infantry Division during D-Day and was captured
   that same day; the bunker where he issued his last orders is now the museum's reception hall.
+score: 8.8
 ---
 
 Opened in 1988 on the 44th anniversary of D-Day, the Mémorial de Caen is one of the most ambitious and affecting war museums in Europe. Its scope goes beyond Normandy: the museum covers the entire arc of the Second World War — the rise of fascism, the fall of France, the occupation, D-Day and the liberation — and then extends into the Cold War and questions of peace. The approach is historical and analytical rather than purely commemorative, which makes it valuable even for visitors who have read extensively on the subject.

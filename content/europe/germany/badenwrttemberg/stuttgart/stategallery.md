@@ -12,6 +12,7 @@ tags:
 - museum
 title: Staatsgalerie Stuttgart
 type: poi
+score: 8.8
 ---
 
 One of Germany's most important art museums, the Staatsgalerie holds a collection spanning from the medieval period to contemporary art. The highlights include works by Rembrandt, Rubens, Picasso and Caspar David Friedrich, alongside a strong collection of 20th-century German and international art.

@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: Santanassa
 type: poi
+score: 5.5
 ---
 
 A Barcelona nightlife staple in the Eixample district, Santanassa blends a laid-back cocktail bar with rotating art exhibitions and DJ sets that run into the small hours. The vibe shifts through the evening — quiet drinks early on, then music and dancing as the night picks up.

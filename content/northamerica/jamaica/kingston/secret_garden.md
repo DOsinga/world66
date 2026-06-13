@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
 latitude: 18.0085
 longitude: -76.7742
+score: 6.4
 ---
 
 Café Blue on Holborn Road in New Kingston is the main Kingston outlet for Blue Mountain Coffee — Jamaica's famous high-altitude coffee grown in the mountains above the city and sold at premium prices internationally. The café serves the full range of Blue Mountain grades alongside simpler blends, and the quality of the espresso-based drinks is markedly better than what most hotels in the city serve under the same label.

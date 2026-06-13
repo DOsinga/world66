@@ -7,6 +7,7 @@ tags:
   - barrio_lastarria
 latitude: -33.4365
 longitude: -70.6411
+score: 7.8
 ---
 
 The Museo de Arte Contemporáneo (MAC) occupies the eastern wing of the same Beaux-Arts building as the Museo Nacional de Bellas Artes in the Parque Forestal. The MAC was founded in 1947 and focuses on Chilean and international contemporary art, with a permanent collection and rotating temporary exhibitions. The quality of the temporary shows in particular has improved significantly in recent years.

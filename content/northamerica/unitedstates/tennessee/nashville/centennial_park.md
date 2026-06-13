@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.3
 ---
 
 A 132-acre Victorian-era park on West End Avenue, immediately east of Vanderbilt University, with a large lake, walking paths, a band shell, and the full-scale Parthenon replica at its centre. The park was the site of Tennessee's centennial exposition in 1897 — the Parthenon was originally a temporary exhibition building — and most of the park's mature trees date from the same period.

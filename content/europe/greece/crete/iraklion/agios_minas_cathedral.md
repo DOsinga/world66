@@ -7,6 +7,7 @@ tags:
 latitude: 35.3375
 longitude: 25.1308
 snippet: "The great cathedral of Iraklion, patron saint's church and Cretan Orthodox seat"
+score: 7.1
 ---
 
 The 19th-century cathedral of Agios Minas dominates the square at the south end of the old city, paired with a smaller mediaeval church of the same dedication that stands directly alongside it. The large cathedral — built between 1862 and 1895 — is the seat of the Archbishop of Crete and the largest church on the island. Its interior is richly decorated with gold-ground icons and chandeliers, and the ceiling fresco of the Last Judgement covers the full nave vault.

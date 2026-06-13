@@ -9,6 +9,7 @@ longitude: 155.5523
 story: "After American code-breakers intercepted Admiral Yamamoto's detailed itinerary in April 1943, Admiral Nimitz authorised an assassination mission. Sixteen P-38 Lightnings flew a 700-km low-level approach to avoid radar detection. First Lieutenant Rex Barber fired into Yamamoto's transport as it crossed over the Bougainville jungle — the aircraft crashed, and a Japanese search party found Yamamoto the next day, still upright in his seat under a tree, white-gloved hand on his katana."
 sources:
   - https://en.wikipedia.org/wiki/Isoroku_Yamamoto
+score: 7.4
 ---
 
 The Yamamoto crash site in the jungle near Buin, in southern Bougainville, marks where Japan's most celebrated naval commander died on 18 April 1943. Admiral Isoroku Yamamoto — architect of the Pearl Harbor attack and the dominant figure in the Imperial Japanese Navy — was shot down here by American P-38 fighters in one of the most audacious targeted-killing operations in military history.

@@ -8,6 +8,7 @@ latitude: 10.506944444444445
 longitude: -67.60638888888889
 story: >
   The Afro-Venezuelan tambor tradition in Choroni and Puerto Colombia descends from enslaved Africans brought to work on the coastal cacao plantations in the seventeenth and eighteenth centuries. The drumming survived abolition and the twentieth century, and today remains a living cultural practice rather than a staged performance — the musicians play because it is their tradition, not for tourists.
+score: 8.7
 ---
 
 The tambor sessions at Puerto Colombia's Plaza Bolívar are the cultural highlight of a Choroni visit. On weekend evenings, particularly Friday and Saturday nights, local musicians gather in the plaza and begin drumming — traditional Afro-Venezuelan rhythms played on cylindrical drums, accompanied by singing and dancing. The sessions are communal and participatory; everyone is welcome to join the dancing, which requires no skill beyond willingness and a sense of rhythm.

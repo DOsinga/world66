@@ -9,6 +9,7 @@ tags:
 - sight
 title: Chion-in
 type: poi
+score: 8.3
 ---
 
 Chion-in is the headquarters of the Jōdo (Pure Land) school of Japanese Buddhism, the country's largest Buddhist denomination, founded by the monk Hōnen in the late twelfth century. The current temple buildings date largely from the seventeenth century and are spectacular in scale. The two-storey *sanmon* gate of 1619 is the largest surviving wooden temple gate in Japan, twenty-four metres tall and fifty metres wide; the giant *Mieidō* main hall behind it, recently restored, dwarfs the visitor.

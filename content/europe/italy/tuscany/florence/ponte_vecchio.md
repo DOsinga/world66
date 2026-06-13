@@ -13,6 +13,7 @@ tags:
 - bridge
 title: Ponte Vecchio
 type: poi
+score: 8.3
 ---
 
 Florence's oldest bridge, built in 1345 and the only Florentine bridge not destroyed by the retreating Germans in 1944. The shops lining both sides have been occupied by goldsmiths since 1593, when the Medici expelled the butchers who preceded them. The Vasari Corridor runs above the shops, connecting the Uffizi to Palazzo Pitti.

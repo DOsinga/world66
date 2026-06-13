@@ -15,6 +15,7 @@ story: >
 tags:
 - things_to_do
 - museum
+score: 8.7
 ---
 
 Goa Chitra Museum, in the village of Benaulim a couple of kilometres south-west of Margao, is one of the most compelling museums in India — not for its building or its setting (both are modest) but for what it contains. Founder Victor Hugo Gomes collected over 4,000 objects from across Goa: hand tools, ploughs, fishing equipment, pottery, furniture, palanquins, ox-carts, and the accumulated material of Goan agricultural and domestic life over several centuries. The result is less a conventional museum than an attempt to preserve an entire way of life before it vanished.

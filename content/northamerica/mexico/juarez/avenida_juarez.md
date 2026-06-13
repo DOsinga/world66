@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.7395
 longitude: -106.4860
+score: 6.7
 ---
 
 Avenida Juárez runs south from the Puente Paso del Norte — the main pedestrian bridge from El Paso — directly into the commercial heart of the city. For decades this street was the first thing most American visitors experienced of Mexico, and it developed a border-town economy to match: pharmacies, dental clinics, restaurants, souvenir shops, and bars selling cheap drinks to visitors who had crossed to drink at the legal age.

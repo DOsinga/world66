@@ -7,6 +7,7 @@ tags:
 latitude: 51.5761
 longitude: -3.2203
 story: "The leaning southeast tower is the result of a deliberate seventeenth-century undermining attempt by Parliamentarian forces, who tried to blow up the castle after the Civil War but only managed to crack one tower. It has stood at its alarming angle ever since — visibly more out of plumb than the campanile at Pisa, although less famously so."
+score: 9.4
 ---
 
 A castle that does not really compare to any other in Britain. Caerphilly was built in the 1260s by Gilbert de Clare to keep the rebellious Welsh prince Llywelyn ap Gruffudd out of the lowlands, and de Clare went about it on an industrial scale: more than thirty acres of walls, moats and artificial lakes wrapping a central keep, all designed so that an attacker who broke one defensive line had to face another behind it. It is the largest castle in Wales, the second largest in Britain after Windsor, and arguably the most architecturally important medieval fortress in the country.

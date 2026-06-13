@@ -7,6 +7,7 @@ neighbourhood: Roma
 address: "Álvaro Obregón 86, Roma Norte"
 latitude: 19.4194
 longitude: -99.1608
+score: 7.3
 ---
 
 A small chain of bookshop-cafés where the difference between the two functions is barely policed: shelves of Spanish-language literature and English imports, a café upstairs and on a mezzanine, plants and trees growing through the building, and live acoustic music in some branches on weekend evenings.

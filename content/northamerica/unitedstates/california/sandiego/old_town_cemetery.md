@@ -15,6 +15,7 @@ story: >
   that an estimated 477 people were buried in the cemetery, far more than the visible markers
   indicated. Researchers have placed small plaques in the sidewalk and road surface at points
   corresponding to known burials.
+score: 7.3
 ---
 
 El Campo Santo Cemetery is one of the oldest surviving graveyards in California, established in 1849 as the Catholic burial ground for Old Town San Diego. The walled enclosure holds around 50 visible headstones from the early American period of San Diego's history — Mexican-era residents, early American settlers, and a few Chinese labourers. The inscriptions are in English, Spanish, and occasionally German.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.0069
 longitude: -76.7856
+score: 6.9
 ---
 
 The Frame Centre Gallery on Tangerine Place in New Kingston is one of Kingston's most active commercial galleries for contemporary Jamaican art — a programme-driven space that shows both established names and emerging artists, with an emphasis on painting, sculpture, and mixed media. The gallery has been operating for decades and has a track record for identifying significant Jamaican talent early.

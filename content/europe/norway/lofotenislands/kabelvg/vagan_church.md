@@ -13,6 +13,7 @@ story: >
   population but the thousands of fishermen who poured into Vågan during the cod
   season every year. It has been nicknamed the Lofoten Cathedral ever since,
   although it has never been a cathedral in the formal sense.
+score: 7.9
 ---
 
 The white wooden Vågan Church stands on a slight rise above the harbour and dominates the view of Kabelvåg from any approach. The neo-Gothic exterior is plain but enormous; inside, the high vaulted nave and rows of pews give a clearer sense of why it was built so large.

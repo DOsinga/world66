@@ -7,6 +7,7 @@ tags:
   - sight
 title: Leutascher Geisterklamm
 type: poi
+score: 8.2
 ---
 
 A narrow mountain gorge cut by the Leutascher Ache where it crosses the Austrian border just south of Mittenwald. The trail is built from steel walkways anchored to the cliff face, carrying you out over the rushing water and along the walls for several hundred metres. Spray, mossy rocks, and the constant roar of the water make it one of the most theatrical short walks in the Karwendel.

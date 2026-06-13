@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, cafe]
 latitude: -7.4320
 longitude: 109.2450
+score: 5.6
 ---
 
 The strip of cafes along Jalan Overste Isdiman and the side streets around the Universitas Jenderal Soedirman (Unsoed) campus is Purwokerto's most concentrated patch of cafe culture. A dozen or more independent coffee shops have opened here over the past several years, most following the Indonesian indie-cafe formula: exposed brick, overhead Edison bulbs, cold-brew coffee on the menu alongside es kopi susu (iced coffee with condensed milk), and playlists running to late in the evening.

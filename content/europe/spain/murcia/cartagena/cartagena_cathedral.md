@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Cartagena Cathedral
 type: poi
+score: 8.0
 ---
 
 Cartagena Cathedral, also known as Santa María la Vieja, is a ruin rather than an active cathedral, and that gives it a strange power. It stands above the Roman Theatre on a site where Roman, medieval, and modern Cartagena overlap almost too neatly.

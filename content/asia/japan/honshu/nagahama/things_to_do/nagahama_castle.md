@@ -10,6 +10,7 @@ tags:
 snippet: "A reconstructed lakeside castle with deep ties to Toyotomi Hideyoshi and fine views across Lake Biwa."
 story: >
   When Oda Nobunaga rewarded his young general Hashiba Hideyoshi with a domain on Lake Biwa in 1574, Hideyoshi was given the task of building a castle from scratch — his very first. He named the surrounding town Nagahama in honour of Nobunaga, whose given name was Nobunaga (the naga of Nagahama meaning "long"). The original castle stood for just 41 years before being demolished in 1615: its stone and timbers were carted across the lake to bolster the construction of Hikone Castle, leaving the site bare for more than three centuries.
+score: 6.9
 ---
 
 **Nagahama Castle** (長浜城) stands on a low promontory at the southern edge of the castle park, its white walls reflected in the waters of Lake Biwa. The current structure is a 1983 reconstruction built over the original 1574 foundations — reinforced concrete inside, traditional castle silhouette outside. It houses a local history museum spread across five floors, with exhibits covering the castle's origins, the Azuchi-Momoyama period, and Nagahama's role in the civil wars of the sixteenth century.

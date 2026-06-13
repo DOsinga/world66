@@ -13,6 +13,7 @@ story: >
   people to harvest agave thousands of years before the Spanish arrived — a
   reminder that the agave plant was already central to Mexican life long before
   anyone thought to distill it.
+score: 7.2
 ---
 
 The National Museum of Tequila (Museo Nacional del Tequila, MUNAT) occupies a handsome colonial building on the main plaza and does a thorough job of tracing the spirit's history from its pre-Hispanic roots to its current status as Mexico's most famous export.

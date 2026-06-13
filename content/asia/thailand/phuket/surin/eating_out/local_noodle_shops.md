@@ -8,6 +8,7 @@ tags:
 latitude: 7.9790
 longitude: 98.2820
 snippet: Cheap and authentic Thai breakfast and lunch spots on the road behind the beach
+score: 5.9
 ---
 
 The road running inland from Surin Beach has a handful of small Thai food shops that serve the local workers and residents of the area rather than beachgoing tourists. The cooking is genuinely local: boat noodles with pork blood broth, rice porridge with minced pork, pad see ew with wide rice noodles, and the occasional Hokkien noodle dish reflecting the area's Chinese-Thai heritage.

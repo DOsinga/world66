@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Chinatown-International_District,_Seattle
+score: 8.4
 ---
 
 Seattle's International District is one of the few neighbourhoods in the United States where Chinese, Japanese, Filipino, and Vietnamese communities all share the same blocks, a result of the city's particular immigration history and the forced internment of Japanese Americans in 1942 which left their neighbourhood intact for other communities to fill. The result is a genuinely layered place rather than a sanitised tourist district.

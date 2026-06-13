@@ -10,6 +10,7 @@ latitude: 40.806
 longitude: 14.3479
 sources:
   - https://en.wikipedia.org/wiki/Herculaneum
+score: 9.0
 ---
 
 The House of the Wooden Partition is one of the most remarkable survivals at Herculaneum. The carbonised wooden screen that divides the atrium from the tablinum — the reception room where the owner conducted business — still stands in place, its hinges and sliding panels intact. In any other Roman city this would have been the first thing to rot away or burn; here, the pyroclastic carbonisation that killed the town preserved it.

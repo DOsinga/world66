@@ -9,6 +9,7 @@ tags:
 - mala_strana
 title: Café Savoy
 type: poi
+score: 7.1
 ---
 
 Café Savoy occupies a restored 19th-century coffee house across the river from Malá Strana, its vaulted and painted ceiling one of the most spectacular interiors of any café in Prague. The neo-renaissance decorations — gilded columns, elaborate cornice work, painted lunettes — give it the feel of a Viennese grand café transported to Bohemia.

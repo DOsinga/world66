@@ -12,6 +12,7 @@ story: >
   in international law. The French administrators who founded it were primarily interested
   in the Roman remains of Salona — at that point still largely buried. The museum's founding
   collection came from excavations that were, for 1820, remarkably systematic.
+score: 7.8
 ---
 
 The Archaeological Museum of Split is the oldest and most important museum in Croatia, housing around 150,000 objects from prehistoric, Greek, Roman, early Christian, and medieval Dalmatia. The core collection comes from Salona — the great Roman provincial capital 5km north of Split, which was destroyed in the 7th century and has never been rebuilt — giving it a depth that no other museum on this coast can match.

@@ -9,6 +9,7 @@ latitude: 32.2325
 longitude: 76.3244
 story: >
   Namgyal Monastery was founded in Lhasa in 1564 as the personal monastery of the Dalai Lamas. After the 1959 uprising, it was re-established here in McLeod Ganj along with the Dalai Lama himself. The monks maintain the same tantric ritual functions they performed in Tibet — the Kalachakra, Yamantaka, and Chakrasamvara practices — now on a forested hillside in Himachal Pradesh rather than inside the Potala Palace.
+score: 9.4
 ---
 
 The Namgyal Monastery is the personal monastery of the 14th Dalai Lama, relocated from Lhasa to McLeod Ganj after the 1959 Tibetan uprising. The monastery is attached to the Tsuglagkhang temple complex — the main place of worship for the Tibetan exile community — which houses statues of Shakyamuni Buddha, Avalokitesvara (the bodhisattva of compassion), and Padmasambhava. Around 200 monks live and study here, maintaining the same tantric curriculum they would have followed in Tibet.

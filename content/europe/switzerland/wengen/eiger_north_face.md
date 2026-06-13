@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 1936 climbing disaster — in which four climbers died on the face within sight of the hotel windows at Kleine Scheidegg — turned the Eigerwand into a fixture of the international press. The first successful ascent came two years later; the face has killed at least 64 climbers since."
+score: 8.5
 ---
 
 The 1,800-metre north face of the Eiger — the Eigerwand — looms directly across the valley from Wengen, dark and concave even in midsummer. From the village the best view is from the cable car going up to the Männlichen, or from the train climbing to Kleine Scheidegg, which passes within a few hundred metres of the base of the wall.

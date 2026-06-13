@@ -11,6 +11,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4900
 longitude: -13.2356
+score: 7.4
 ---
 
 The Anglican cathedral on Lightfoot Boston Street, built between 1817 and 1828, is the oldest stone church in Freetown and one of the oldest in West Africa. The white-painted exterior with its squat clock tower is a familiar sight on the city's central skyline.

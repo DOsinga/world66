@@ -13,6 +13,7 @@ story: >
   reintroduced from Swedish Lapland in 1952. The Cairngorms are cold enough and the
   vegetation similar enough to Scandinavian tundra that the herd has thrived, reaching
   around 150 animals today.
+score: 7.5
 ---
 
 The Cairngorm Reindeer Centre near Glenmore offers guided hill visits to the free-ranging herd that lives on the plateau above. There are around 150 reindeer in the herd, descended from animals imported from Sweden in 1952 — the first successful reindeer reintroduction in Britain. The herd roams the open hillside above the tree line and is moved between grazing areas seasonally.

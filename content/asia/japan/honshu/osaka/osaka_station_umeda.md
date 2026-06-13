@@ -6,6 +6,7 @@ tags:
 - shopping
 latitude: 34.7026
 longitude: 135.4959
+score: 7.1
 ---
 
 The main northern hub of Osaka, where Osaka Station (JR) and Umeda Station (Hankyu, Hanshin, Subway) converge in a complex of underground passages, shopping malls, and department stores so extensive that first-time visitors routinely get lost in it. The station complex handles over 2.5 million passengers per day, making it one of the busiest transit points in Japan.

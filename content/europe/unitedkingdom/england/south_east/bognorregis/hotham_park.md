@@ -9,6 +9,7 @@ latitude: 50.7875
 longitude: -0.6684
 sources:
   - https://en.wikipedia.org/wiki/Hotham_Park
+score: 6.2
 ---
 
 Hotham Park is a Victorian public park just north of the town centre, set around Hotham Park House — a Grade II* listed 18th-century country house that gives the park its name and its grandest feature. The park is small by city-park standards but well-kept, with a duck pond, a miniature railway that runs on summer weekends, a putting course, and enough mature trees to make it feel genuinely peaceful.

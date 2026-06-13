@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.6415
 longitude: 12.0804
+score: 7.1
 ---
 
 The twin towers of Roskilde Cathedral can be climbed via a narrow internal staircase during summer opening hours, rewarding visitors with a panoramic view across the town, the fjord, and the flat agricultural landscape stretching in all directions. The towers are 19th-century neo-Gothic additions to the original Romanesque and Gothic structure below, and from the top you can trace the rooflines of the medieval town clearly.

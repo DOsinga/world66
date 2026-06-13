@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.2
 ---
 
 Lahore's main railway station is a fortress-like Victorian construction, completed in 1859 as one of the first major stations on the Indian subcontinent's railway network. After the 1857 uprising, the British insisted the station also be defensible: hence the turrets, slit windows, and crenellated walls that make it feel as much military redoubt as transport hub.

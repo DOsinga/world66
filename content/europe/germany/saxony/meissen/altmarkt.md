@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.1625
 longitude: 13.4742
+score: 7.2
 ---
 
 Meissen's old town sits below the hilltop castle on the slopes descending toward the Elbe. The Altmarkt (old market square) is the centre, lined with a mix of Gothic and Renaissance burgher houses that survived the Second World War largely intact — a contrast to nearby Dresden, which was almost entirely destroyed. The square is not especially dramatic, but it has a quiet, working-town character that feels genuine rather than reconstructed.

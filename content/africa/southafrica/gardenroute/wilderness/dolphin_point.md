@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - viewpoint
+score: 6.9
 ---
 
 A signposted lay-by on the N2 between George and Wilderness, perched on the cliff above the Kaaimans River mouth. The view sweeps east along the entire Wilderness coastline and back over the river bridge below. As the name suggests, dolphins are often visible in the surf zone, and southern right and humpback whales pass through on their annual migrations (roughly July to November).

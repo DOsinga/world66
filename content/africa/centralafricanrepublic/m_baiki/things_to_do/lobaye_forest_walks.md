@@ -8,6 +8,7 @@ tags:
   - nature
 title: Lobaye Forest Walks
 type: poi
+score: 7.6
 ---
 
 The equatorial forest begins almost at the edge of M'Baïki, and the landscape between the town and the Lobaye River offers accessible walking through genuine rainforest. The forest here is secondary in places — disturbed by logging, plantation agriculture, and settlement — but it remains dense and biologically rich, with tall canopy, lianas, and a rich understorey.

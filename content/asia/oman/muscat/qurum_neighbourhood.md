@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 23.6030
 longitude: 58.5444
+score: 6.0
 ---
 
 Qurum is a residential and leisure district west of central Muscat, built around a long sandy beach and a natural park of mangroves and tidal creek. The beach — Qurum Beach — stretches for several kilometres and is one of the better city beaches in the Gulf, relatively clean and accessible without requiring a hotel key. The Qurum Natural Park behind the beach is an unexpected patch of green in the middle of the city, with walking paths through cultivated gardens and the mangrove channel beyond.

@@ -8,6 +8,7 @@ tags:
 latitude: 17.1333
 longitude: -62.6167
 snippet: A ruined 1778 hotel built over natural hot springs — once the most fashionable spa resort in the Caribbean
+score: 7.7
 ---
 
 The Bath Hotel, built in 1778, was once considered the finest hotel in the Caribbean. Wealthy planters and merchants came from across the region to take the waters in the natural hot springs that emerge from the volcanic rock at the base of Nevis Peak. The springs reach around 51°C and were believed to cure rheumatism and various ailments. At its peak the hotel hosted hundreds of guests, including Prince William Henry (later King William IV) who visited with Horatio Nelson in 1787.

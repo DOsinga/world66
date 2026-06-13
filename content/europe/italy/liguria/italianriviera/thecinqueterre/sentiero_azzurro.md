@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Sentiero Azzurro follows routes that local farmers and fishermen used for centuries to move between the isolated villages before any road existed. The path was formalised as a hiking trail in the 1960s, but parts of it are documented in maps going back to at least the 18th century. The terraced vineyards it passes through are a UNESCO World Heritage landscape in themselves."
+score: 8.8
 ---
 
 The Sentiero Azzurro (Blue Trail, Trail No. 2) is the main coastal hiking path linking all five Cinque Terre villages. The full length is about 12 km, taking in the Via dell'Amore, the steep descent into Manarola, the climb up to Corniglia, the spectacular traverse above the vineyards to Vernazza, and the final push over the headland to Monterosso. It traverses a total of around 600 metres of ascent.

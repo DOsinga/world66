@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Jagdish Temple
 type: poi
+score: 8.6
 ---
 
 The largest and most visited temple in Udaipur, built in 1651 in the Indo-Aryan style and dedicated to Lord Vishnu. Climb the steep steps flanked by stone elephants to reach the main shrine, which has a black stone image of Vishnu. The exterior is heavily carved with dancers, musicians, elephants, and horsemen.

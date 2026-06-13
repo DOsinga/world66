@@ -7,6 +7,7 @@ tags:
 latitude: 4.0430
 longitude: 9.6960
 story: "The museum was established inside the city's Hôtel de Ville — itself a colonial-era building constructed during the German administration of Kamerun. The combination of civic administration and cultural institution in a single building is distinctly African in its pragmatism and reflects the city's ongoing negotiation between its German colonial past and its post-independence identity."
+score: 6.8
 ---
 
 The Musée de Douala, housed inside the Hôtel de Ville in the Akwa district, is the city's main repository of traditional art from Cameroon's interior. The collection concentrates on pieces from the Bamoun and Bamileke peoples of the western highlands — masks, carved thrones, ceremonial objects, and textiles that represent some of the most sophisticated artistic traditions in Central Africa.

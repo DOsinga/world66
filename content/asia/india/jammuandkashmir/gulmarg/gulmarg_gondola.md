@@ -9,6 +9,7 @@ tags:
   - skiing
 title: Gulmarg Gondola
 type: poi
+score: 9.6
 ---
 
 The Gulmarg Gondola is one of the highest cable cars in the world, climbing in two stages from the meadow at 2,690 m to the ridge of Afarwat Peak at 3,980 m. The first stage deposits you at Kongdori (3,050 m), a broad bowl popular with beginner skiers and day visitors. The second stage — steeper, longer, and often windier — continues to the top of the ridge.

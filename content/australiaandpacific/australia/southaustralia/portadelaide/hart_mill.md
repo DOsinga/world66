@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: -34.8431
 longitude: 138.5090
 story: "Hart's Mill, built in 1842, was the first steam-powered flour mill in South Australia and a vital piece of colonial infrastructure — flour milled here fed the early settlers while crop yields from Adelaide's farms were still unreliable. The tower is the oldest surviving industrial building in the state."
+score: 6.6
 ---
 
 Hart's Mill is a stone flour mill built in 1842, standing at the inner harbour's edge as one of the oldest surviving industrial buildings in South Australia. The tower has been restored and is occasionally open for events and exhibitions; at other times it forms the backdrop to the Fishermen's Wharf area and the dolphin cruise departure point.

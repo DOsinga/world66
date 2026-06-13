@@ -15,6 +15,7 @@ story: >
   transformed Japan's capacity to build ships, railways, and bridges. The mill also
   transformed Yahata — then a small fishing village — into an industrial city almost
   overnight.
+score: 6.8
 ---
 
 The Kitakyushu Innovation Gallery and Studio, located in the Yahata ward, occupies a corner of the massive Nippon Steel complex that built Japan's industrial identity. The museum covers the history of the Yawata Steel Works and Japan's broader industrialisation from the Meiji period through the post-war economic miracle, using hands-on exhibits, historical photographs, and working demonstrations of industrial processes.

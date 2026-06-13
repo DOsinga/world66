@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -7.5568
 longitude: 110.8214
+score: 6.5
 ---
 
 Solo Balapan is the main railway station for Surakarta, a handsome building with a Javanese-Dutch colonial character that has been substantially preserved through successive renovations. The station serves as the city's main transport hub and handles several million passengers a year, but it retains the character of a provincial station rather than the anonymous functionality of Indonesia's largest urban terminals.

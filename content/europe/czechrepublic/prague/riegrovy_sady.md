@@ -9,6 +9,7 @@ tags:
 - vinohrady
 title: Riegrovy Sady
 type: poi
+score: 7.4
 ---
 
 Riegrovy Sady is the large park on the eastern slope of Vinohrady, a favourite spot for locals who come to picnic, walk their dogs, or nurse a cold Pilsner on the terrace of the beer garden at the top. The view west from the garden benches takes in the castle, the cathedral, and the entire Prague skyline — arguably the best single view of the city available for the cost of a beer.

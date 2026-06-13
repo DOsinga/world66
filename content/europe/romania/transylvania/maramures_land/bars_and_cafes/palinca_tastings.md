@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.75
 longitude: 24.1
+score: 7.4
 ---
 
 Pălincă — double-distilled plum brandy — is the spirit of Maramureș in every sense. Almost every village family with an orchard makes it, and many have small licensed distilleries (called cazane) where the autumn's plum harvest is processed in October. The result ranges from rough and immediate to something that, with a few years of resting in oak, develops real complexity and warmth.

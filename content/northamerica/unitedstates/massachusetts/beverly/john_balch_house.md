@@ -8,6 +8,7 @@ tags:
 latitude: 42.56222
 longitude: -70.88439
 story: The Balch House has been continuously occupied or preserved since around 1636, making it one of the oldest surviving wood-frame structures in the United States. The original timber frame shows First Period construction techniques — heavy posts and beams joined with wooden pegs — that predate any standardized building codes by two centuries.
+score: 8.1
 ---
 
 The John Balch House at 448 Cabot Street dates to approximately 1636, making it one of the oldest surviving wood-frame houses in the United States. John Balch was among the original Puritan settlers who arrived at Cape Ann in 1623 and later relocated to what became Beverly. The structure has been preserved and is operated as a house museum.

@@ -8,6 +8,7 @@ tags:
 latitude: 12.1450
 longitude: -68.2333
 snippet: "Refuge for the island's feral donkeys"
+score: 5.6
 ---
 
 Donkeys were brought to Bonaire in the 1600s by the Spanish as pack animals, and when they were no longer needed they were released. The descendants — small, hardy, and slightly unsociable — wandered the island freely for centuries. The sanctuary, founded in 1993 near Lac Bay, takes in sick, orphaned, and elderly donkeys and runs a drive-through compound where visitors can feed them.

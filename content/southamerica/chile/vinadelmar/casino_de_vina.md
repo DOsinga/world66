@@ -8,6 +8,7 @@ tags:
 snippet: 1930 Art Deco casino on the seafront, the social heart of summer in Viña
 latitude: -33.0182
 longitude: -71.5475
+score: 5.8
 ---
 
 The Casino Municipal sits at the northern end of the seafront, an ample 1930 Art Deco block that has been at the centre of Viña's summer social life for nearly a century. It was one of the first legal casinos in South America and its presence is much of the reason the city established itself as Santiago's playground.

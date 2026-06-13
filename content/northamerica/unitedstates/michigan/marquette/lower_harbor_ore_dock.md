@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lower Harbor Ore Dock
 type: poi
+score: 7.1
 ---
 
 The Lower Harbor Ore Dock is the more decorative of Marquette's two great iron

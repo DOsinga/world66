@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 9.1
 ---
 
 A marine reserve of three small islands — Choros, Damas, and Chañaral — about 100 km north of La Serena. Choros and Damas hold the largest colony of Humboldt penguins in the world, plus sea lions, otters (chungungo), and an extraordinary concentration of seabirds. Bottlenose dolphins and fin whales pass through the channel between November and March.

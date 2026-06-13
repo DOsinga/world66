@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.528
 longitude: -44.3
+score: 8.1
 ---
 
 Maranhão cuisine is perhaps the most distinctive regional food tradition in Brazil, less well known than Bahian or Amazonian cooking but every bit as interesting. The key dishes are *arroz de cuxá* (rice with dried shrimp, sesame, and vinagreira leaves), *moqueca maranhense* (fish stew in coconut milk), *torta de camarão* (shrimp tart), *caruru* (okra stew with dried shrimp), and the various crab preparations that use the exceptional local crabs.

@@ -10,6 +10,7 @@ latitude: 37.7258
 longitude: -112.3178
 sources:
   - https://en.wikipedia.org/wiki/Red_Canyon_(Utah)
+score: 8.0
 ---
 
 Red Canyon sits right on US-89 between Panguitch and the Bryce Canyon turnoff, and most visitors drive straight through it on the way to the national park without stopping. That is a mistake. The canyon is studded with the same brilliant red and orange hoodoos as Bryce, costs nothing to enter, and is considerably less crowded.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 33.8106
 longitude: 73.8164
+score: 7.1
 ---
 
 Banjosa Lake is a man-made reservoir about 18 kilometres from Rawalakot, set in a forest of pine and fir at around 1,600 metres. It was created in the mid-20th century as a water source and has since become one of Azad Kashmir's most visited tourist spots. The lake is ringed by trees and backed by green hillsides, giving it a pleasantly Swiss-looking character that surprises visitors expecting something more austere.

@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Malleshwaram
 type: poi
+score: 8.3
 ---
 
 Malleshwaram is one of Bangalore's oldest residential neighbourhoods, established in the 1890s as a planned extension of the city. It has a strong traditional Brahmin character — good Udupi restaurants, old temples, the Sampige Road vegetable and flower market, and the kind of domestic architecture that has almost entirely disappeared from central Bangalore. The 18th Cross area is known for its morning coffee, and the filter coffee here is as good as it gets in the city.

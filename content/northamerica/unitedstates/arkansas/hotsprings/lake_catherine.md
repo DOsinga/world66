@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "Quieter Ouachita lake with hiking trails to a hidden waterfall"
+score: 7.2
 ---
 
 A 2,000-acre state park around twenty minutes east of Hot Springs, set on the smallest and least

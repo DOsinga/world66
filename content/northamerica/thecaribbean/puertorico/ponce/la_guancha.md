@@ -9,6 +9,7 @@ title: La Guancha Boardwalk
 type: poi
 story: >
   La Guancha began as an informal gathering place where ponceños went to eat and socialize by the water. The municipality formalized it in the 1990s, adding a proper boardwalk, permanent food kiosks, and a pier. On weekend evenings it fills with families, couples, and groups of friends eating fried seafood, drinking beer, and listening to whatever band has set up. It has a specific Ponce quality — more relaxed and less packaged than the tourist infrastructure in San Juan — that makes it the local's choice for a Saturday night out.
+score: 6.0
 ---
 
 La Guancha is Ponce's waterfront boardwalk, situated at the southern edge of the city where the land meets the Caribbean. It is primarily a gathering place rather than a destination: a long wooden boardwalk lined with food kiosks selling fried fish, empanadillas, and cold beer, with a public beach at one end and a pier extending into the bay. On weekend evenings, live music and the smell of cooking fill the air.

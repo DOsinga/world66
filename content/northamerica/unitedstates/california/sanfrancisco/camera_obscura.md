@@ -8,6 +8,7 @@ tags:
 - museum
 title: Camera Obscura
 type: poi
+score: 7.4
 ---
 
 Next to the Cliff House, a small wooden building houses a walk-in camera obscura -- an optical device that uses a rotating mirror and lens to project a live, full-colour, 360-degree image of the surrounding coastline onto a parabolic dish in a darkened room. The technology dates back centuries, but watching the waves, rocks, and passing ships appear as a luminous moving painting on the dish never gets old.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "220-metre seafront pier and promenade, the focal point of the resort"
+score: 7.3
 ---
 
 The pier juts out from the centre of the beachfront promenade, just beside the lighthouse, and is the heart of seafront Kołobrzeg in summer. It is 220 metres long and rebuilt in concrete after war damage, with benches along its length, a low restaurant pavilion at the end, and small fishing boats moored alongside.

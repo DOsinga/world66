@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4438
 longitude: -5.0429
+score: 8.4
 ---
 
 Watergate Bay is the spectacular two-mile stretch of sand and cliffs north of Newquay. The beach is huge — at low tide you can walk for what feels like miles between the cliffs and the sea — and the surf is reliable.

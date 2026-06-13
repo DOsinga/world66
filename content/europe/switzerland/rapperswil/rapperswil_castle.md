@@ -9,6 +9,7 @@ latitude: 47.2267
 longitude: 8.8183
 story: >
   The castle has been held by a remarkable succession of owners. Built in the early 13th century by the counts of Rapperswil, it passed through the Habsburgs, the town of Rapperswil, and a Capuchin monastery before being offered to the Polish exile community in 1870. The Polish Museum that opened here in 1871 was the first museum of Polish national history anywhere in the world — established in exile because no such institution was permitted in partitioned Poland.
+score: 8.1
 ---
 
 Rapperswil Castle stands on the rocky hill at the centre of the peninsula, its three towers rising above the old town rooftops. Built in the early 13th century, it is a compact square structure with a courtyard and a well-preserved great hall. The grounds around the castle offer some of the best views of Lake Zurich — east toward the Etzel hills and west toward Zurich itself.

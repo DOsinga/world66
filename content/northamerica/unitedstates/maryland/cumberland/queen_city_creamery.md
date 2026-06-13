@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - cafe
 snippet: "Old-fashioned ice-cream parlour and lunch counter on the mall."
+score: 5.8
 ---
 
 Queen City Creamery is Cumberland's classic soda fountain — a 1950s-era diner with vinyl-clad booths, swivel stools at the counter, and a menu of homemade ice cream, soups, sandwiches, and the milkshakes that the place is genuinely famous for. The black raspberry is the local favourite.

@@ -13,6 +13,7 @@ story: >
   decorative pieces for historic building restoration projects across the country. Hollenbeck
   built much of the equipment himself from 19th-century designs, making the mill as much a
   working museum of Victorian-era production techniques as a commercial operation.
+score: 7.8
 ---
 
 Blue Ox Millworks at the south end of Eureka is a working Victorian mill that still produces ornamental woodwork using antique machinery — band saws, scroll saws, and lathes dating from the 1890s. The company manufactures the gingerbread trim, spindles, and decorative brackets used in restoring Victorian homes across California and beyond, and the mill tour shows the entire process from raw lumber to finished ornamental details.

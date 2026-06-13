@@ -8,6 +8,7 @@ tags:
 latitude: 33.5472
 longitude: -117.7069
 snippet: "44-acre fishing lake and recreational park in the heart of Laguna Niguel"
+score: 5.9
 ---
 
 Laguna Niguel Regional Park surrounds the 44-acre Laguna Niguel Lake, an artificial reservoir that serves as the main outdoor recreational focus of the city. The lake is stocked for fishing — largemouth bass, catfish, crappie, and bluegill — and fishing permits are available at the park entry. Pedal boats and kayaks are available for rental, and the lakeside paths are popular with walkers and joggers.

@@ -10,6 +10,7 @@ story: >
   Trout was introduced to the Quindío rivers in the 1950s to stock cold-water streams for sport fishing. The industry gradually shifted toward aquaculture, and today farm-raised rainbow trout from the Cocora valley and surrounding streams is the signature dish of Salento and the wider Eje Cafetero. The cold, fast-flowing mountain water gives the trout a clean, mild flavour appreciated throughout Colombia.
 sources:
   - https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo
+score: 6.4
 ---
 
 Trout is the definitive Salento meal and you will find it on the menu of virtually every restaurant in town. The standard preparation is pan-fried and served with patacones (flattened fried plantain), rice, and salad — simple and good. More elaborate preparations exist at the better establishments on Calle Real.

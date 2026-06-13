@@ -8,6 +8,7 @@ tags:
 - sight
 title: Oštro Peninsula
 type: poi
+score: 7.0
 ---
 
 The Oštro peninsula juts south from Kraljevica into the channel toward Krk, ending in a small wooded park and a pebble beach that is the most pleasant swimming spot in the area. The Krk Bridge soars overhead nearby, and the views across the channel are dominated by the long arching span. A waterfront path from town runs out to the point.

@@ -8,6 +8,7 @@ tags:
   - sight
 neighbourhood: Bremerton
 story: "The Navy still keeps a row of mothballed aircraft carriers tied up here in the inactive ships maintenance facility — recently the USS Kitty Hawk, USS Constellation, USS Independence and the nuclear-powered USS Enterprise — slowly being dismantled or readied for tow to the breakers."
+score: 6.2
 ---
 
 The Puget Sound Naval Shipyard, founded in 1891 and now part of Naval Base Kitsap, takes up much of the south side of Bremerton and is the largest naval shipyard on the West Coast. You cannot get in without an escort — it is a working military installation — but the dry docks and the row of grey hulls dominate the view from the ferry, from the boardwalk, and from any restaurant table on the Bremerton waterfront.

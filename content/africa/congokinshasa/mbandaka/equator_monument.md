@@ -13,6 +13,7 @@ story: >
   a monument marking the crossing. The current monument is a concrete structure; a stone placed 
   by Henry Morton Stanley near the riverbank to mark where he believed the equator crossed 
   still stands nearby.
+score: 6.2
 ---
 
 The Equator Monument marks the point where the equator crosses through the city — one of the few places in the world where a major river city sits directly on the earth's midline. The concrete marker and painted line on the road are modest in themselves, but the concept is not: standing here you are equidistant from both poles, in the heart of the Congo Basin, on the largest river in Africa by discharge.

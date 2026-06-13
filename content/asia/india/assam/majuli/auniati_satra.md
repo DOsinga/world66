@@ -14,6 +14,7 @@ story: >
   displayed in the attached museum.
 sources:
   - https://en.wikipedia.org/wiki/Auniati_Satra
+score: 8.6
 ---
 
 Auniati Satra is one of the most important of Majuli's monasteries, founded in 1653 and one of the four raj satras — royal satras that received patronage from the Ahom kings who ruled Assam. It sits on the banks of the Brahmaputra's anabranch, surrounded by a wide, peaceful courtyard. Monks in white and yellow robes go about the daily rhythm of prayer, study, and upkeep, and early morning devotions — the striking of drums, the chant of Borgeets (Vaishnavite devotional songs) — carry across the compound before sunrise.

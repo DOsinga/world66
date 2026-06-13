@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2902
 longitude: 12.2138
+score: 7.5
 ---
 
 Ronciglione is a medieval hill town directly south of Lake Vico, perched on a tufa ridge above the Biedano valley. The historic centre is well preserved, with a Roman-era aqueduct arch still standing at the edge of the cliff, a 16th-century castle ruin, and a warren of medieval lanes leading to the Collegiata church at the top of the town.

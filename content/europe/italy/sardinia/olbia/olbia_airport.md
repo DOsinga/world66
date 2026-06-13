@@ -7,6 +7,7 @@ tags:
 latitude: 40.8858
 longitude: 9.5169
 snippet: The main airport for northeastern Sardinia, 3km south of the city centre
+score: 2.8
 ---
 
 Olbia Costa Smeralda Airport (IATA: OLB) is the primary gateway for northeastern Sardinia and the Costa Smeralda. The airport is small but handles a large volume of seasonal traffic, particularly in July and August when charter flights from Northern Europe supplement the scheduled services. Ryanair, easyJet, Alitalia/ITA Airways, and various charter operators serve the airport.

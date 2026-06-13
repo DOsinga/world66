@@ -8,6 +8,7 @@ latitude: 39.176264
 longitude: -75.532765
 sources:
   - https://en.wikipedia.org/wiki/Silver_Lake_(Dover,_Delaware)
+score: 6.2
 ---
 
 Silver Lake is a small lake and public park in the northern part of Dover, connected to the St Jones River. The park surrounding the lake has walking paths, picnic areas, and good birding — the wetland edges attract herons, egrets, and a variety of waterfowl year-round. It is one of the most pleasant green spaces in the city and popular with joggers and families.

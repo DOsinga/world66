@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 47.6300
 longitude: 108.2900
+score: 7.4
 ---
 
 Several ger camps operate within and around the Gun-Galuut Nature Reserve, ranging from basic nomadic family camps to more organized tourist operations. Staying in a ger camp overnight changes the experience entirely — you see the steppe at dusk and dawn when the light is best and the wildlife most active, and you get a feel for the pace of life in this part of Mongolia that a day trip cannot provide.

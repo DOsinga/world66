@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.8683
 longitude: -92.1181
+score: 7.0
 ---
 
 A surprising number of the brick storefronts around the Mountain View square are individually listed on the National Register of Historic Places — the Lackey General Merchandise and Warehouse, the Farmers and Merchants Bank, the C.L. Smith & Son General Store, the Stegall General Store, the A.B. Brewer Building, and the Commercial Hotel among them. They are mostly turn-of-the-century one- and two-storey brick, with the original cornices and storefront geometry intact.

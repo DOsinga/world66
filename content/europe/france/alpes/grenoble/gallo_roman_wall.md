@@ -8,6 +8,7 @@ longitude: 5.73208
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 Beneath the medieval streets of Grenoble's old town lie the foundations of Cularo, the Gallic settlement that became a Roman town. The most visible remnant is a section of the late 3rd-century defensive wall, built under emperors Diocletian and Maximian — a massive construction of limestone blocks and tile courses that still stands several metres high.

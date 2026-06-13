@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 55.568333
 longitude: 9.739444
+score: 5.1
 ---
 
 Fredericia station is one of the most important rail junctions in Denmark — the point where the lines from Copenhagen across Funen meet the north-south Jutland mainline. The current station, opened in 1935, is a fine piece of functional Danish modernism, with a low brick concourse and a clock tower.

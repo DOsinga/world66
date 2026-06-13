@@ -6,6 +6,7 @@ tags:
   - adventure
 title: Kayaking the Nile
 type: poi
+score: 4.4
 ---
 
 For those who want more control than a raft offers, kayaking on the Nile around Jinja ranges from instructional courses for beginners to multi-day expeditions for experienced paddlers. Nile River Explorers runs half-day kayak tours on the calmer sections suitable for beginners, while the Freestyle Kayak World Championships have been held on the Bujagali rapids — an indication of what the river can offer at the top end.

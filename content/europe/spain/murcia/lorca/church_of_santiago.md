@@ -7,6 +7,7 @@ tags:
 - sight
 title: Church of Santiago
 type: poi
+score: 7.1
 ---
 
 The Iglesia de Santiago is a 16th- and 17th-century parish church a short walk

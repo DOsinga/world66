@@ -10,6 +10,7 @@ longitude: 120.9782
 neighbourhood: Entertainment City Area
 sources:
   - https://en.wikipedia.org/wiki/Dampa_Seaside_Market
+score: 6.8
 ---
 
 Dampa is the classic Metro Manila seafood experience: you walk through the wet market, choose your fish, squid, crab, shrimp, or clams from the stalls, then carry your selection to one of the surrounding cook-to-order restaurants who will prepare it however you like — grilled, steamed, in a broth, with garlic butter, or cooked in any of a dozen Filipino preparations. The fee for cooking is separate and modest.

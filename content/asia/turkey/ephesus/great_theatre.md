@@ -11,6 +11,7 @@ story: >
   According to the Acts of the Apostles, Paul preached in Ephesus so effectively that the silversmiths who made statues of Artemis feared for their trade and incited a riot. The crowd dragged Paul's companions into this theatre and spent two hours shouting "Great is Artemis of the Ephesians!" before a city clerk managed to restore calm. Paul was eventually persuaded not to enter the theatre himself, and left the city shortly after.
 sources:
   - https://en.wikipedia.org/wiki/Theatre_of_Ephesus
+score: 9.2
 ---
 
 The largest theatre in the ancient world, with a seating capacity of about 25,000, built into the natural slope of Mount Panayır. Originally constructed in the Hellenistic period under Lysimachus, it was substantially rebuilt and enlarged under successive Roman emperors from Augustus through Trajan. The three-storey stage building, largely collapsed, would have risen to roughly the height of the cavea and created an enclosed acoustic environment.

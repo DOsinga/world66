@@ -7,6 +7,7 @@ tags:
   - sight
 title: The Ropewalk
 type: poi
+score: 8.0
 ---
 
 The Ropewalk on Lindholmen island is one of the most striking industrial buildings in Sweden — a single structure stretching nearly 300 metres to allow the twisting of long cables and ropes for the navy's ships. Built in 1692, it is part of the UNESCO World Heritage naval dockyard and remains one of the best-preserved ropewalk buildings in the world.

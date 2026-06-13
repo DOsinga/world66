@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.0222
 longitude: 4.8375
+score: 6.2
 ---
 
 A classic Beaune institution, set in the vaulted stone cellars beneath the old town. The arched ceiling, stone walls, and dimly lit alcoves give it the atmosphere of eating inside a barrel, which is appropriate. The food is solidly Burgundian — coq au vin, andouillette, gougères, and cheese boards that include the local Époisses at various stages of ripening.

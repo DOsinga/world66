@@ -14,6 +14,7 @@ story: >
   northern tip of the chain in near-pristine condition, though it also means
   budget travellers are largely excluded. The resort employs almost exclusively
   from the island's own villages.
+score: 7.8
 ---
 
 Yasawa Island is the northernmost and most remote of the large islands in the chain. It is long, narrow, and volcanic, with a rugged spine of hills and some of the finest beaches in the archipelago along its western shore. The island has several traditional villages and a single luxury resort — the Yasawa Island Resort — which has operated here since 1987 and remains one of the finest small resorts in the Pacific.

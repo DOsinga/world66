@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - cafe
 - zona_hotelera
+score: 5.2
 ---
 
 A roadside shack on the beach road with two wooden swings under a thatched roof, Matcha Mama has become one of the most photographed spots in Tulum despite being essentially a smoothie counter. The drinks are good — matcha lattes with oat milk, açaí bowls, ginger and turmeric shots — and you order at the window and sit on a swing or one of a few stools while you drink.

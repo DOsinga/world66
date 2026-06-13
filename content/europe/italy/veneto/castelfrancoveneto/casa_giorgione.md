@@ -8,6 +8,7 @@ latitude: 45.6713
 longitude: 11.9272
 sources:
   - https://en.wikipedia.org/wiki/Giorgione
+score: 6.8
 ---
 
 A small museum in a brick house just inside the walls occupies what is traditionally identified as Giorgione's birthplace. The building itself is medieval, with frescoes attributed to the young Giorgione decorating one upper room — a frieze of allegorical figures, faded but recognisably in his hand.

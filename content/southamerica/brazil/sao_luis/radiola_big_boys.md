@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -2.525
 longitude: -44.293
+score: 7.6
 ---
 
 Big Boys is one of the most famous *radiolas* (sound systems) in São Luís — a mobile sound system operation that sets up in outdoor locations around the city for weekend dances. When Big Boys is playing, the event draws thousands of people to a field, a parking lot, or a neighbourhood street that temporarily becomes the best reggae party in Brazil.

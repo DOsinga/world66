@@ -6,6 +6,7 @@ longitude: -70.9118
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 The most consistently recommended restaurant in town, **La Marmita** sits in a small wooden house on Plaza Sampaio. The menu is short, written on a blackboard, and shifts with what comes off the boats. Expect things like centolla risotto, cordero with mashed potato and merkén, a thick paila marina, and very good homemade bread.

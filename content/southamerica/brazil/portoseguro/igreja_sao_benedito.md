@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 8.0
 ---
 
 A tiny chapel built by the Jesuits in 1549 — only fourteen years after the Portuguese established the settlement, making this one of the oldest surviving religious buildings in Brazil. The whitewashed façade and squat bell turret are unchanged in their basic form for nearly five centuries. The interior is small, plain, and bare; the appeal is the age and setting rather than any decorative programme.

@@ -12,6 +12,7 @@ story: >
   championships are judged on flavour, texture, presentation, and creativity; Dondoli's
   winning flavours have included a Vernaccia-and-saffron gelato that deliberately
   incorporated the town's two most famous products into a single scoop.
+score: 7.0
 ---
 
 The Gelateria di Piazza has been on the Piazza della Cisterna since 1969, run by Sergio Dondoli and now something of a pilgrimage destination for anyone who takes gelato seriously. The queues in summer are real but move quickly. The flavours rotate by season, with a handful of house signatures that never leave the list — the crema di Santa Fina (saffron and pine nuts, inspired by the chapel nearby) is the one to try if it's available.

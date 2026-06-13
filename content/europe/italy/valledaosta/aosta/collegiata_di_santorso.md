@@ -5,6 +5,7 @@ tags: [things_to_do, sight, church]
 latitude: 45.7393
 longitude: 7.3253
 story: "The cloister of Sant'Orso, built in the early 12th century, contains 54 carved capitals on its double colonnade — each one different. Among the subjects are biblical scenes, monsters, and figures that have been interpreted as portraits of the canons who lived there. One capital depicts a man in what looks like a dentist's chair; another shows acrobats. The variety of the carving suggests the work of several different hands over an extended period."
+score: 8.8
 ---
 
 The Collegiate church of Sant'Orso stands just east of the Porta Praetoria, outside the Roman walls, at the point where a pre-Roman sanctuary once stood. The church is dedicated to Saint Ursus of Aosta, an early Christian missionary, and the site has been a place of worship since at least the 6th century. The current buildings are largely 11th and 12th century, with later additions and restorations, but the core of the complex retains its Romanesque character.

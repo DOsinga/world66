@@ -12,6 +12,7 @@ story: >
   the Adrar plateau, many arriving by camel or donkey from villages with no road access.
   The goods on sale reflect a society still adapting from pastoral nomadism to a more
   settled way of life.
+score: 7.6
 ---
 
 The Monday market (souk) is the commercial heart of Atar and the best place in town to observe the meeting of desert cultures. Traders come from across the Adrar region with livestock, vegetables, dates, dried fish from the coast, cloth, metalwork, and the general merchandise that isolated desert communities depend on.

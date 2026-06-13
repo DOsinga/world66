@@ -8,6 +8,7 @@ tags:
   - historic_site
 latitude: 5.8252
 longitude: -55.1499
+score: 8.4
 ---
 
 The Surinaams Museum occupies several buildings within the Fort Zeelandia compound on the riverfront. Its permanent collection covers the full sweep of Surinamese history — from the pre-Columbian indigenous cultures through the Dutch colonial period, the centuries of plantation slavery, the arrival of indentured workers from Asia, and independence in 1975. There is also a significant section on the military dictatorship of the 1980s and the December Murders of 1982, when fifteen opposition figures were executed at the fort.

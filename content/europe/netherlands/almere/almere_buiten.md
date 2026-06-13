@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 52.3942
 longitude: 5.2780
+score: 5.5
 ---
 
 Almere-Buiten is the suburban-feeling eastern district, developed in the 1980s and 90s as a more conventional residential area of single-family houses and low-rise apartment blocks. There is less architecture for tourists here, but the district is home to **De Groene Kathedraal**, the Yanmar Stadion of Almere City FC, the Oostvaarders College, and the largest of the city's shopping centres, **Doemere**.

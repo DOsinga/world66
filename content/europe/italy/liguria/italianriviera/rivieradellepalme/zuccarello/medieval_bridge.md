@@ -6,6 +6,7 @@ longitude: 8.1154
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The humpbacked medieval bridge over the Neva river at Zuccarello is described by local historians as the finest medieval bridge in western Liguria — a bold claim, but the proportions are elegant. The single arch carries the old road across the river at the bottom of the village and has survived intact despite floods and centuries of use.

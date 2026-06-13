@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.1868
 longitude: -7.4164
 story: The lighthouse marks the point where the Guadiana river meets the Atlantic, and in the late 19th century it guided ships navigating the tricky sandbar at the river mouth — a hazard that had wrecked dozens of vessels trying to enter what was then a busy fishing port.
+score: 5.8
 ---
 
 The Vila Real de Santo António lighthouse sits at the southern end of town where the Guadiana meets the sea. It is an elegant white tower built in 1923, and while you cannot enter the working lighthouse, the surrounding area at the river mouth is one of the most scenic spots in the city. The view looks back up the river toward Ayamonte, out to the Atlantic, and across the dunes of the Guadiana estuary nature reserve.

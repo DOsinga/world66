@@ -10,6 +10,7 @@ story: >
   The ore here is exceptionally high-grade — some seams run above 60% iron content —
   which is why the infrastructure investment of a 700 km rail line to the coast was
   considered worthwhile when the mine was opened in the 1960s.
+score: 7.0
 ---
 
 The iron ore operation at Guelb el Rhein is the reason Zouerate exists. The mines extract millions of tonnes of iron ore annually from deposits in the hills immediately north of the town, and the scale of the operation is visible from the town itself: the ore-stained hillsides, the crusher facilities, the constant movement of massive trucks.

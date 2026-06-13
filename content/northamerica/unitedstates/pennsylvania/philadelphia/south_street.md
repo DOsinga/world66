@@ -7,6 +7,7 @@ tags:
 latitude: 39.9410
 longitude: -75.1490
 snippet: "Philadelphia's long-running bohemian strip — vintage shops, cheesesteaks, Magic Gardens, and weekend energy"
+score: 6.7
 ---
 
 "Where do all the hippies meet? South Street, South Street" — the 1963 hit by The Orlons gave the neighborhood its anthem before it had fully become what the song described. South Street runs east-west through South Philadelphia, and its stretch from Front Street to about 10th Street has been the city's counter-cultural commercial strip for sixty years: head shops, tattoo parlors, vintage clothing, record stores, and restaurants that have changed in style and cuisine while maintaining the same general energy of accessible, unpretentious fun.

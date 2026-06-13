@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - street_food
+score: 6.6
 ---
 
 Pancit habhab is Quezon Province's most distinctive dish: egg noodles stir-fried with vegetables, pork, and soy-vinegar sauce, served on a folded banana leaf and eaten by lifting the leaf to your mouth — no plate, no fork, no utensils. "Habhab" refers to the slurping action. The result is intensely savoury, slightly sticky, and best eaten standing up at a street stall.

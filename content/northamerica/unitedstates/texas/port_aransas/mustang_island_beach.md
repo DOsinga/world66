@@ -8,6 +8,7 @@ tags:
 latitude: 27.8278
 longitude: -97.0553
 snippet: "Eighteen miles of wide, gently sloping Gulf beach — good for swimming, shelling, and watching dolphins"
+score: 8.8
 ---
 
 The Gulf-facing beach on Mustang Island stretches for 18 continuous miles, and the Port Aransas section is the most accessible and most visited part of it. The beach here is wide and sandy, with a gentle gradient that makes it safe for swimming in normal conditions. The water is warm from April through October, typically reaching the mid-80s Fahrenheit in summer.

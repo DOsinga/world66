@@ -8,6 +8,7 @@ latitude: 49.4325
 longitude: 2.0814
 sources:
   - https://en.wikipedia.org/wiki/Beauvais_astronomical_clock
+score: 8.8
 ---
 
 Inside the south transept of the cathedral stands one of the most complex mechanical clocks ever built. Constructed between 1865 and 1868 by Auguste-Lucien Vérité, a clockmaker from Beauvais, it has 52 dials, around 90,000 individual parts, and tracks an extraordinary range of astronomical and civil phenomena: solar and lunar time, the movements of the planets, tidal predictions, the liturgical calendar, and the time in 18 cities around the world.

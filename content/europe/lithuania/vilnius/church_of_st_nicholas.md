@@ -10,6 +10,7 @@ tags:
   - church
   - old_town
 neighbourhood: Old Town
+score: 7.1
 ---
 
 The Church of St. Nicholas on Šv. Mykolo Street is one of the oldest surviving brick churches in Lithuania, first mentioned in records from the time of Grand Duke Gediminas in the early 14th century. The church was built for Vilnius's German merchant community — St. Nicholas is the patron saint of merchants — and was the first Catholic church in a city that was still officially pagan.

@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Il Desco
 type: poi
+score: 6.8
 ---
 
 Verona's most celebrated restaurant, in a 16th-century palazzo a few steps from Piazza Erbe. The kitchen works with Veneto and Lake Garda produce — lake fish, mountain herbs, Vialone Nano rice — and the wine cellar is extraordinary, with deep vertical runs of Amarone going back decades. Formal but not stiff; a special-occasion place that justifies the price. Reservations essential, and worth making weeks in advance for weekend evenings.

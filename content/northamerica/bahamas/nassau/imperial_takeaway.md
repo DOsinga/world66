@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.0780
 longitude: -77.3267
+score: 7.0
 ---
 
 A tiny food stand at **Potter's Cay** that serves what locals consider some of the best stewed conch in Nassau, in a paper plate with peas and rice for a few dollars. Order at the window, eat at the picnic tables under the bridge, and watch the mail boats arrive from the Out Islands.

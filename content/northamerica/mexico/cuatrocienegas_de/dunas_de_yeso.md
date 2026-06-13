@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 26.9333
 longitude: -102.0833
+score: 8.7
 ---
 
 The Dunas de Yeso are an extraordinary landscape of white gypsum dunes rising from the desert floor south of Cuatrocienegas town. The gypsum — calcium sulphate — precipitates from the evaporating spring water of the valley and accumulates into dunes that can reach several metres in height, shifting slowly with the wind. The whiteness of the sand against the blue desert sky and the surrounding mountains is striking and, to eyes accustomed to tan or red desert landscapes, genuinely surprising.

@@ -8,6 +8,7 @@ latitude: 44.6998
 longitude: 10.6285
 sources:
   - https://en.wikipedia.org/wiki/Synagogue_of_Reggio_Emilia
+score: 7.2
 ---
 
 The former synagogue of Reggio Emilia stands on Via dell'Aquila in the heart of what was the city's Jewish ghetto, established in 1671 and dissolved after emancipation in 1848. The building dates from the eighteenth century and was the spiritual centre of a Jewish community that had been in Reggio for several centuries before the ghetto was created.

@@ -13,6 +13,7 @@ story: >
   to elect Jean-Baptiste Bernadotte — a French marshal and favourite of
   Napoleon — as crown prince of Sweden. He became King Karl Johan XIV and
   founded the dynasty that still reigns today.
+score: 8.4
 ---
 
 Örebro Castle is a medieval fortress on an island in the River Svartån, at the centre of the city. A fortified tower was first built here in the 14th century; the structure was expanded over the following two centuries into a grand Renaissance castle with four round towers and a moat. It remains the most recognisable landmark in the city and one of Sweden's best-preserved medieval castles.

@@ -9,6 +9,7 @@ latitude: 32.9170
 longitude: 117.3890
 story: >
   Zhanggong Mountain is named for Zhang Gong, a Han dynasty official who reportedly retired here after a distinguished career. The hill is modest in height but sits at a pivot point between two lakes, giving it a visual presence far beyond its actual scale — an effect that would not have been lost on the official who chose it as his retirement retreat.
+score: 8.2
 ---
 
 Zhanggong Mountain is the green heart of Bengbu, a forested hill rising between Zhanggong Lake to the west and Longzihu Lake to the east. The summit is easily reached in twenty minutes and carries a white pagoda visible from much of the city — the panoramic view from the top, taking in both lakes and the Huaihe River beyond, is the best introduction to Bengbu's geography.

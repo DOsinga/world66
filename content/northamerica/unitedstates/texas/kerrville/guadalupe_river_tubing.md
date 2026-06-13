@@ -9,6 +9,7 @@ tags:
 latitude: 30.0485
 longitude: -99.1399
 snippet: Float the clear Hill Country river on an inner tube — the classic summer activity
+score: 7.8
 ---
 
 Tubing the Guadalupe is what people come to the Hill Country to do in summer, and Kerrville is one of the better spots to do it. The river runs clear and cold over limestone gravel, fed by springs, and rarely gets warm enough to be unpleasant even in July. Several outfitters near town rent tubes and shuttle you upstream for a float back — a couple of hours depending on water levels, with enough current to keep you moving without much effort.

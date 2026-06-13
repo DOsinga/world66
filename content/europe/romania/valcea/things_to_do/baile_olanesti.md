@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 45.1970
 longitude: 24.2360
+score: 6.6
 ---
 
 Băile Olănești is a spa resort in a forested side valley about 20km north of Râmnicu Vâlcea, reached by a winding road that is pleasant in itself. The town's mineral springs — over thirty distinct sources — have been used medicinally since at least the 18th century, and a sanatorium established here in the 19th century is still in operation. The waters are used primarily for kidney and digestive conditions, but the forest setting and the quiet make it worth a visit even without a cure.

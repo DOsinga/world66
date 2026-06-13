@@ -15,6 +15,7 @@ tags:
 - sight
 title: Table Mountain
 type: poi
+score: 9.8
 ---
 
 Table Mountain is the defining landmark of Cape Town — visible from almost everywhere in the city, it serves as a constant compass point and one of the most recognisable natural monuments in the world. On cloudy days, Capetonians call the low-hanging cloud the "Tablecloth."

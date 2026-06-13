@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5490
 longitude: 7.0280
+score: 6.2
 ---
 
 Between the private hotel beaches that front the Croisette there are several stretches of free public beach, and these are perfectly good — sandy, cleaned daily, and with the same backdrop of sea, palms, and grand hotels. The beaches fill quickly on summer weekends; arrive early to find a good spot.

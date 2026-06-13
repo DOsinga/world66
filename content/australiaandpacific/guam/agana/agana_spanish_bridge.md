@@ -10,6 +10,7 @@ tags:
 - sight
 - historical_site
 - architecture
+score: 6.4
 ---
 
 The Agana Spanish Bridge (Puente Español de Agaña) is a small two-arched stone bridge across what was once the Agana River, built in 1800 under the Spanish governor Manuel Muro. It is one of the very few Spanish-era structures in central Hagåtña to have survived the destruction of the 1944 battle and is the oldest standing bridge in Guam.

@@ -12,6 +12,7 @@ story: >
   Pico Humboldt's glacier was declared "disappeared" in 2021, making Venezuela the first
   country in modern times to lose all its glaciers. What remains is still wild and beautiful,
   but these mountains are changing visibly within a single lifetime.
+score: 9.3
 ---
 
 Sierra Nevada National Park covers nearly 3,000 square kilometres of the Venezuelan Andes immediately south and west of Mérida, encompassing the country's highest peaks and most dramatic mountain scenery. The park is accessible from the city and offers everything from single-day hikes to multi-day wilderness expeditions.

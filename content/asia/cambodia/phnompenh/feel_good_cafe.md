@@ -9,6 +9,7 @@ title: Feel Good Coffee
 type: poi
 neighbourhood: Toul Tom Poung
 snippet: Pioneering specialty café using Cambodian-grown Mondulkiri beans
+score: 6.1
 ---
 
 Feel Good was one of the first cafés in Phnom Penh to take Cambodian coffee seriously, working directly with smallholder farmers in Mondulkiri. The flagship branch on Street 432 is a small two-storey shophouse with a long counter of brewing equipment and a quiet upstairs room popular with people working from laptops.

@@ -7,6 +7,7 @@ tags:
 snippet: "Local institution for pad senchan and Chantaburi noodles"
 latitude: 12.6080
 longitude: 102.1100
+score: 6.2
 ---
 
 Chanthorn Phochana, on Benchamarachuthit Road just south of the centre, is the obvious place to try pad senchan — the city's signature dish of springy local rice noodles stir-fried with prawns, egg, garlic, and a touch of soy sweetened with palm sugar. Order it the dry way, not the wet one, and ask for it spicy.

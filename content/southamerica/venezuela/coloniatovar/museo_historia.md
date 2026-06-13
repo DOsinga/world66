@@ -8,6 +8,7 @@ tags:
 title: Museo de Historia y Artesanía
 type: poi
 snippet: "Small local museum tracing the story of the German settlers and the founding of the colony"
+score: 7.7
 ---
 
 The Museo de Historia y Artesanía sits in a restored period house in the centre of the town. The collection is modest but well-presented: ship's manifests from the 1843 crossing, settlers' tools and clothes, family photographs, and examples of the original crafts brought from the Black Forest — woodcarving, weaving, blacksmithing. Labels are in Spanish, with some German.

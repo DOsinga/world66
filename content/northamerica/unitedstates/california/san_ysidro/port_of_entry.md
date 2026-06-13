@@ -15,6 +15,7 @@ story: >
   minutes; the northbound queue can stretch to several hours.
 sources:
   - https://en.wikipedia.org/wiki/San_Ysidro_Port_of_Entry
+score: 7.0
 ---
 
 The San Ysidro Port of Entry is at once the most unremarkable and the most fascinating border crossing in the world. On the US side, the pedestrian walkway begins at the San Ysidro Transit Center — the southern terminus of the San Diego Trolley — and funnels through the US Customs and Border Protection facility before depositing you in the streets of Tijuana. The whole process heading south takes about five minutes. Heading north is another matter entirely.

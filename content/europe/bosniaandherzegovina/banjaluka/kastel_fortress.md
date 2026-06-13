@@ -9,6 +9,7 @@ latitude: 44.7666
 longitude: 17.1907
 story: >
   Kastel was built on a Roman-era site — the Romans knew this spot as Castra, and the rocky promontory above the Vrbas bend has been fortified continuously since at least the 2nd century. What you see today is primarily Ottoman reconstruction from the 16th century, but the walls sit on foundations that go back to an empire that ruled here fifteen hundred years ago.
+score: 8.5
 ---
 
 The Kastel Fortress is Banja Luka's defining landmark, a medieval-Ottoman fortification perched on a rocky promontory above a bend in the Vrbas River. The walls enclose a large grassy interior used today for outdoor concerts and events, and the riverside position — with the fast, green water of the Vrbas below — makes this one of the more scenic fortress settings in the Balkans.

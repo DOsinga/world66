@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.0
 ---
 
 The Mönchgut peninsula is the elongated southeast tip of Rügen — a fingerlike strip of land, low cliffs, dunes, and inland heath, with a remarkable density of preserved traditional houses. It belonged to the Eldena Abbey monks (the name means 'monk-good') from the thirteenth century, which limited development and gave the peninsula its distinctive isolated character.

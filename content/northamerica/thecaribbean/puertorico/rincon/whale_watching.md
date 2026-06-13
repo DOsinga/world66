@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.3620
 longitude: -67.2710
+score: 8.4
 ---
 
 The Mona Passage between Puerto Rico and the Dominican Republic is one of the humpback whale's main migration routes. From roughly December to March, pods of humpbacks pass through Rincón's waters, and spotting them is reliable enough that several local operators offer dedicated whale watching excursions by boat.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The collection of Asian art in Corfu was assembled by two Corfiot diplomats — Gregorios Manos and Nikolaos Chadjivasiliou — in the late 19th and early 20th centuries during postings to China, Japan, and Southeast Asia. The fact that two men from a small Greek island managed to assemble over 15,000 pieces of Chinese, Japanese, Korean, Indian, and Tibetan art, now displayed in a neoclassical palace, is one of the more improbable stories in European museum history."
+score: 7.5
 ---
 
 The Museum of Asian Art occupies the Palace of Saint Michael and Saint George, a neoclassical building on the north side of the Esplanade built by the British in 1819 as the residence of the Lord High Commissioner. The museum houses one of the most important collections of Asian art in Europe: over 15,000 objects from China, Japan, Korea, Cambodia, India, Tibet, Nepal, and Thailand.

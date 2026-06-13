@@ -8,6 +8,7 @@ latitude: 39.1803
 longitude: -94.1958
 sources:
   - https://en.wikipedia.org/wiki/Sibley,_Missouri
+score: 5.2
 ---
 
 Sibley is a small Missouri River village just north of Buckner, best known to travelers as the community near Fort Osage. It is a quiet place, but its position by the river explains why this area mattered.

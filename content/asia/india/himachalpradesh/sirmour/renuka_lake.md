@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Renuka Lake is named for the mother of the warrior-sage Parashurama, and its outline is said to resemble her reclining form. Each November the Renuka Fair celebrates the annual reunion of mother and son — a five-day festival with a procession, fair, and the descent of the deities to the water's edge."
+score: 8.0
 ---
 
 Renuka Lake, about 40 km northeast of Nahan, is the largest natural lake in Himachal Pradesh — a long, narrow body of water in a wooded bowl, sacred to the goddess Renuka. The 3-km circuit around the shore takes 90 minutes and passes a small temple, a tiny zoo with native ungulates, and a series of viewpoints. Rowboats are available on the water in good weather.

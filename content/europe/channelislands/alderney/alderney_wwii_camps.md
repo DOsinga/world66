@@ -9,6 +9,7 @@ longitude: -2.2
 story: "Alderney was the site of four Nazi forced-labour camps during the German occupation — the only such camps on British soil. Thousands of workers, mostly Soviet prisoners and Jews, laboured and died here in conditions that survivors described as among the worst they had encountered. The island's total evacuation in 1940 meant no civilian population remained to witness or resist what happened."
 sources:
   - https://en.wikipedia.org/wiki/Alderney_camps
+score: 8.3
 ---
 
 During the German occupation of Alderney from 1940 to 1945, the island housed four forced-labour camps: Lager Borkum, Lager Helgoland, Lager Norderney, and Lager Sylt. The population had been evacuated to Britain before the Germans arrived, leaving an empty island that was intensively fortified and used as a forced-labour site. The camps held thousands of workers — mainly Soviet prisoners of war, Jews transported from across occupied Europe, and workers from the Organisation Todt — who built the island's fortifications under brutal conditions.

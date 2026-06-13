@@ -16,6 +16,7 @@ story: >
   100,000 visitors over its run. A few years earlier the gallery had bought a
   newly attributed portrait by Pietro Lorenzetti, painted around 1320, for
   £1.6 million — one of the earliest panel paintings in any UK regional collection.
+score: 8.8
 ---
 
 The Ferens occupies a handsome neoclassical building on Queen Victoria Square donated by the politician and philanthropist Thomas Ferens in 1927. The permanent collection is far better than a city this size has any right to: a Frans Hals double portrait, an early Canaletto, work by Stanley Spencer, Patrick Heron, and David Hockney, plus a Lorenzetti panel that ranks among the gallery's most prized acquisitions.

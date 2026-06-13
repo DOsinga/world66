@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.6483
 longitude: -102.9901
+score: 7.8
 ---
 
 The parish church of Jerez is an 18th-century colonial church built in the regional pink quarried stone that characterises the town. The exterior facade is an elegant example of late-colonial Mexican Baroque, restrained compared to the exuberance of Zacatecas city's cathedral but with the same warm, burnished quality in afternoon light. The interior is whitewashed and simply decorated, with carved wooden altarpieces and a quiet dignity that rewards a brief visit.

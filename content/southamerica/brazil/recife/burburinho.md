@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0608
 longitude: -34.8712
 tags: [bars_and_cafes, music, recife_antigo]
+score: 7.0
 ---
 
 The longest-running live music bar in Recife Antigo, with a small stage that has hosted a sizeable share of the Pernambuco music scene since the 1990s. Programmes cover frevo, manguebeat, samba, and rock, mostly local acts.

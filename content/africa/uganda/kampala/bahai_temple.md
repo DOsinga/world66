@@ -15,6 +15,7 @@ story: >
   almost like folded paper from a distance. The architect was Charles Mason Remey,
   who later broke from the Bahá'í Faith — an irony that the temple's custodians
   prefer not to dwell on.
+score: 6.8
 ---
 
 The Bahá'í House of Worship on Kikaya Hill is a genuine architectural surprise — a white nine-sided temple set in quiet gardens above the city, with views across Kampala in several directions. It is one of only eight continental Bahá'í temples in the world, and the only one in Africa. The building is open to anyone for prayer and meditation, regardless of religion.

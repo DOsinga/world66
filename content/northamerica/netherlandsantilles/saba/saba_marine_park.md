@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, diving]
 latitude: 17.635
 longitude: -63.2499
 story: When Saba established its marine park in 1987, it was one of the first self-financing marine protected areas in the Caribbean, funded by diver fees rather than government grants. The approach worked — coral cover and fish biomass on Saba's reefs are substantially higher than on unprotected Caribbean reefs nearby, making it a model studied by marine park managers worldwide.
+score: 9.3
 ---
 
 The Saba National Marine Park encircles the entire island from the high-water mark to 200 feet depth, and it shows. Diving here is among the best in the Caribbean, and the reason is simple: it has been properly protected for decades. The underwater terrain is as dramatic as the island above — volcanic pinnacles rise from the deep, walls drop into darkness, and lava formations shelter an abundance of marine life that has all but vanished from more visited islands.

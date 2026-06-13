@@ -11,6 +11,7 @@ latitude: 30.2172
 longitude: -82.4233
 sources:
   - https://en.wikipedia.org/wiki/Osceola_National_Forest
+score: 6.8
 ---
 
 Osceola National Forest covers 157,000 acres of pine flatwoods, cypress swamps, and wetlands immediately east of Lake City. It's a working forest with a wild core — the Big Gum Swamp Wilderness is one of the most remote and least-visited places in Florida.

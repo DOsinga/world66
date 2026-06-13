@@ -6,6 +6,7 @@ longitude: 23.8047
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Ancient Stagira, on the eastern coast of Halkidiki near the modern village of Olympiada, is the birthplace of Aristotle. The town was founded in the seventh century BC by colonists from Andros and lasted, in various forms, into the Byzantine period. The remains today sit on a small forested peninsula jutting into a clear blue bay — the setting alone is reason enough to visit.

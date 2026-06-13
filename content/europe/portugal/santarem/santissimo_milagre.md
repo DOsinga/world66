@@ -15,6 +15,7 @@ story: >
   the trunk, he found a glowing monstrance instead of the cloth. The "Miracle of Santarém"
   became one of the most venerated Eucharistic miracles in Catholicism, drawing pilgrims
   here for eight centuries.
+score: 7.2
 ---
 
 The Igreja do Santíssimo Milagre is built on the site where, in 1247, the so-called Miracle of Santarém is said to have occurred — one of the most celebrated Eucharistic miracles in Catholic tradition. The church has been a pilgrimage destination ever since, and the reliquary said to contain the miraculously transformed host is still venerated here.

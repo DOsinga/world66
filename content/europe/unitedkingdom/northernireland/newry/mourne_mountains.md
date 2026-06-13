@@ -9,6 +9,7 @@ latitude: 54.1800
 longitude: -6.0800
 story: >
   C. S. Lewis grew up looking at the Mournes from his bedroom window in Belfast, and is supposed to have used them as the model for the country of Narnia. Whether or not the story is literally true, the suddenness with which the Mournes rise from the coast — bare granite domes from flat farmland — does have something of a parallel-world quality.
+score: 9.0
 ---
 
 The Mournes are the highest mountain range in Northern Ireland, a compact cluster of granite peaks immediately east of Newry. Slieve Donard, the highest at 850 metres, is less than half an hour's drive away through Hilltown or Rostrevor and can be done as a long day walk from Newcastle on the coast.

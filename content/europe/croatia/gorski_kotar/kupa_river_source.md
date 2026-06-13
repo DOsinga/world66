@@ -8,6 +8,7 @@ latitude: 45.4989
 longitude: 14.6803
 story: >
   The Kupa (or Kolpa, as it is known on the Slovenian side) emerges from a karst spring at the base of Risnjak and immediately forms the border between Croatia and Slovenia. The spring itself is a perfectly circular pool of aquamarine water, and its depth has never been fully measured — divers have descended to 130 metres without reaching the bottom.
+score: 7.6
 ---
 
 The source of the Kupa river lies in a nature reserve at the foot of Risnjak, about 14 km northwest of Delnice. A marked trail from the village of Razloge leads through dense forest to the spring, a walk of around 45 minutes each way through progressively quieter woodland.

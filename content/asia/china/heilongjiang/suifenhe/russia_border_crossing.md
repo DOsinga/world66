@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.4124
 longitude: 131.1518
+score: 8.0
 ---
 
 The Suifenhe–Pogranichny border crossing into Russia is the central reason this town exists and one of the more accessible China-Russia land crossings for independent travellers. Vladivostok is approximately 200 kilometres to the southeast, and the combination of twice-weekly trains and regular road transport makes the crossing feasible for those with the correct Russian visa.

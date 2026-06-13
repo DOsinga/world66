@@ -8,6 +8,7 @@ latitude: 50.5808
 longitude: 8.6764
 sources:
   - https://en.wikipedia.org/wiki/University_of_Giessen
+score: 6.2
 ---
 
 The Justus-Liebig-Universität Gießen, founded in 1607 as the Ludoviciana, is one of the oldest universities in Germany and the second oldest in Hesse after Marburg. It was established by Landgrave Ludwig V to compete with Marburg's Protestant university, and has produced a disproportionate share of notable scientists over the centuries — Liebig and Röntgen among them.

@@ -10,6 +10,7 @@ story: >
   The plaza is named for Arturo Prat, the Chilean naval officer who died commanding the corvette Esmeralda against a Peruvian ironclad at the Battle of Iquique in 1879 during the War of the Pacific. Prat became a national hero — his refusal to surrender and his death boarding the enemy ship made him a symbol of Chilean military honour that persists to this day.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 6.4
 ---
 
 Plaza Prat is the main square of Copiapó, framed by the cathedral, the old Intendencia building, and a row of palm trees that provide shade in a city where shade matters. It is the social centre of the city — busy in the evenings with families and street vendors, quiet in the midday heat when most sensible people are indoors.

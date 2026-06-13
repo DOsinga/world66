@@ -13,6 +13,7 @@ story: >
   competitors from across Europe and Africa. What makes the venue exceptional is the 
   combination of near-constant trade winds, shallow warm water, and a lagoon wide 
   enough that beginners rarely reach the far shore.
+score: 9.4
 ---
 
 The Dakhla Lagoon is the reason most visitors make the long journey to this remote peninsula. The lagoon occupies the sheltered inner side of the Río de Oro Peninsula, separated from the Atlantic Ocean by a thin strip of sand and protected from swell by the peninsula's shape. The result is flat water, a depth of one to two metres across most of the area, and trade winds that blow reliably from the north-northeast almost year-round.

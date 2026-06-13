@@ -12,6 +12,7 @@ tags:
 - gamla_stan
 title: The Great Synagogue
 type: poi
+score: 7.1
 ---
 
 Stockholm's Great Synagogue was completed in 1870 and sits on Wahrendorffsgatan, just off Berzelii Park near the waterfront. The exterior is an unusual Moorish Revival design with striped brickwork and arched windows, standing out sharply among the surrounding Neoclassical buildings. The interior is equally striking, with an ornate ark and painted ceiling.

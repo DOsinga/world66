@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 54.155
 longitude: -4.478
+score: 8.1
 ---
 
 An extraordinarily intact 1900 Frank Matcham theatre on the Douglas promenade, part of the Villa-Gaiety complex. Matcham was the most prolific Victorian theatre architect in Britain, and the Gaiety is one of his finest surviving works — a riot of gilded plasterwork, wrought iron, and maroon velvet in an intimate horseshoe auditorium. It was almost demolished in the 1970s and was saved by a sustained local campaign.

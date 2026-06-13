@@ -6,6 +6,7 @@ longitude: 73.6875
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A small, busy Ganesh temple on the eastern flank of Machhla Magra hill — much loved by local students before exams. The shrine itself is unremarkable architecturally, but the elevated location gives a nice view down over the southern end of Lake Pichola.

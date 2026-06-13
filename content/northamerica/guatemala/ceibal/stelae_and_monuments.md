@@ -8,6 +8,7 @@ tags:
 latitude: 16.4167
 longitude: -90.1667
 story: Ceibal was one of the last Maya cities to erect carved stelae — dated monuments showing rulers and recording historical events. While most major Maya cities stopped producing stelae after 900 AD as the Classic period collapsed, Ceibal continued erecting monuments into the early 10th century, suggesting it survived the collapse longer than its neighbors by adopting new political models, possibly tied to Gulf Coast or central Mexican groups.
+score: 8.4
 ---
 
 Ceibal's carved stelae are the primary reason specialists rate the site so highly. The Late Classic monuments here are unusually well-preserved — the moist lowland jungle that hastened the decay of unprotected sites elsewhere actually kept many of Ceibal's stelae buried and intact until excavations in the 1960s. The figures depicted show a range of styles: some are standard Maya court compositions, while later monuments show figures with non-Maya headdresses and iconography suggesting outside influence.

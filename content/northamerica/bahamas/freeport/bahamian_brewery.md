@@ -9,6 +9,7 @@ latitude: 26.5472
 longitude: -78.6744
 story: >
   The Bahamian Brewery was founded in 2007, ending the Bahamas' long dependence on imported beer. Sands, its flagship lager, became the first Bahamian-brewed beer sold nationally in modern times. The brewery grew quickly and now supplies much of the country — a not insignificant achievement given that the local market had been dominated by Kalik (brewed in Nassau) for decades.
+score: 5.8
 ---
 
 The Bahamian Brewery is a working craft brewery in Freeport that produces Sands, Strong Back stout, High Rock lager, and a rotating selection of craft beers. Tours of the facility are available on weekdays, showing the brewing process from grain to bottle, and ending at the tasting room where the full range can be sampled.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.5579
 longitude: 5.0914
 snippet: Neo-Gothic spire anchoring Tilburg's central square
+score: 6.9
 ---
 
 The Sint-Jozefkerk — known locally as the Heuvelse kerk — rises above the Heuvel pedestrian square and gives Tilburg's city centre its skyline. Built in the 1870s to a neo-Gothic design, the tower is the dominant feature of the square and a useful navigation point when you are trying to get your bearings in the city.

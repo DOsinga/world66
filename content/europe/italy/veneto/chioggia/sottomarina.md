@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 45.214722
 longitude: 12.294722
+score: 6.3
 ---
 
 Across the bridge from the old town, Sottomarina is what gives Chioggia its other identity: a beach town with miles of pale sand on the Adriatic side of the spit. The beach itself is wide, gently shelving, and lined with the standard Italian summer infrastructure of lidos, umbrellas, and changing huts.

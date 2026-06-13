@@ -15,6 +15,7 @@ story: >
   its perspective: Bouts uses a single vanishing point, one of the earliest known examples of strict linear 
   perspective in Flemish panel painting. The four panels flanking the central scene depict Old Testament 
   prefigurations of the Eucharist, forming a complete theological argument in paint.
+score: 8.4
 ---
 
 Sint-Pieterskerk stands on the south side of the Grote Markt, its broad Gothic nave and unfinished west towers giving it a slightly rugged look beside the lacework extravagance of the town hall opposite. The church was begun in the late 14th century in the Brabantine Gothic style and took over a century to complete; a planned central tower was abandoned after the foundations proved inadequate, leaving the silhouette we see today.

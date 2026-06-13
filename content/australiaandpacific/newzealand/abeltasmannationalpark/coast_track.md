@@ -13,6 +13,7 @@ story: >
   Conservation operates a permit system for huts and campsites year-round —
   the only Great Walk where you can lose your spot by missing your booked
   start date.
+score: 9.6
 ---
 
 The Coast Track is the obvious headline activity in Abel Tasman: 60 kilometres of well-graded coastal walking, with a hut or campsite at the end of each day's section. Most people walk it over three or four days, north from Marahau to Wainui or Totaranui, though strong walkers do it in two and an unhurried itinerary takes five.

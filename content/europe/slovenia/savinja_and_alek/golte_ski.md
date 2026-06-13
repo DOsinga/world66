@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 46.4256
 longitude: 14.9158
+score: 7.2
 ---
 
 Golte is the main ski resort serving the Šalek and Savinja valleys, perched high above Mozirje at around 1400 metres. It is a mid-sized resort by alpine standards but benefits from reliable snow cover and spectacular views over the surrounding peaks and valleys.

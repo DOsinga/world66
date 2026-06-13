@@ -9,6 +9,7 @@ tags:
   - scenic_drive
 story: "The Narrows was the principal natural gap through the Allegheny Front for early European travellers heading west. George Washington came through here in 1748 as a young surveyor, and Braddock's army hauled artillery and supplies through it on the disastrous 1755 expedition to Fort Duquesne."
 snippet: "Dramatic 1,000-foot rock gap immediately west of downtown."
+score: 8.1
 ---
 
 The Cumberland Narrows is the natural pass through which Wills Creek breaks through Wills Mountain — a sheer, near-vertical gap with cliffs rising 1,000 feet on either side. US-40 (the old National Road), the CSX railroad, and Wills Creek itself all squeeze through this gap. From downtown Cumberland it is a five-minute drive west.

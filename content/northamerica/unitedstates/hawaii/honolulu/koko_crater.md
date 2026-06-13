@@ -7,6 +7,7 @@ tags:
 - sight
 title: Koko Crater Trail
 type: poi
+score: 8.0
 ---
 
 Koko Crater is the hardest of Honolulu's hikes and the most rewarding view. The trail follows the tracks of a disused military incline railway up the inside of the crater wall — roughly 1,000 wooden railway ties acting as steps at gradients that reach 45 degrees near the summit. It is steep, relentless, and takes 45 to 90 minutes depending on fitness. The view from the top, 368 metres above the ocean, takes in the crater interior, Hanauma Bay, the Koolau mountains, and the eastern coast of Oahu.

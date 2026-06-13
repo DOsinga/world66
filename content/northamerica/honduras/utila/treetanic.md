@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 16.0939
 longitude: -86.8961
+score: 6.2
 ---
 
 The Treetanic is the strangest bar on the island, and one of the best. The bar is built into and around a tree on the grounds of the Jade Seahorse guesthouse, every surface covered in mosaic, coloured glass and recycled bottles. The drinks are unremarkable but the place is worth a slow visit just to wander through.

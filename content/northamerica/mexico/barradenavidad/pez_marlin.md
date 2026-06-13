@@ -6,6 +6,7 @@ latitude: 19.2064
 longitude: -104.6838
 sources:
   - https://www.openstreetmap.org
+score: 4.5
 ---
 
 A large marlin sculpture stands near the waterfront in the centre of town, one of those cheerful pieces of public art that Mexican fishing villages like to erect in honour of their most prized catch. The blue marlin is the prestige fish of this stretch of coast, and sport fishing for them is one of the activities local boat operators offer.

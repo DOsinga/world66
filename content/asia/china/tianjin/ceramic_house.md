@@ -8,6 +8,7 @@ tags:
 latitude: 39.1375
 longitude: 117.1803
 snippet: "House entirely encrusted with ceramic chips, plates, and figurines — a private obsession made public"
+score: 7.2
 ---
 
 The Ceramic House in the Italian Concession district is the obsessive creation of Zhang Lianzhi, who covered every surface — walls, ceilings, floors, furniture, even the toilet — with ceramic shards, broken plates, figurines, and porcelain fragments over three decades. The result is somewhere between folk art installation and genuine folk madness.

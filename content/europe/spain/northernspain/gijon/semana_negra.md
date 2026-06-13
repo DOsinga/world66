@@ -8,6 +8,7 @@ tags:
   - culture
 latitude: 43.5333
 longitude: -5.7
+score: 7.1
 ---
 
 Semana Negra — the Black Week — is Gijón's summer crime fiction festival, held for ten days in July on the waterfront by the harbour. Founded in 1988 by the Spanish crime writer Paco Ignacio Taibo II, it has grown into one of the larger literary events in Spain: talks, signings, panel discussions, and readings from Spanish and international crime and thriller writers, set against a large outdoor fairground complete with fairground rides, food stalls, and a beer tent that keeps the whole thing firmly on the side of popular rather than elite culture. The literary events and the fairground coexist with cheerful incongruity.

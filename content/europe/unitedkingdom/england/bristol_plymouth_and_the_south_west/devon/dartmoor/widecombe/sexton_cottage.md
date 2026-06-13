@@ -9,6 +9,7 @@ latitude: 50.5761
 longitude: -3.8120
 sources:
   - https://en.wikipedia.org/wiki/Widecombe-in-the-Moor
+score: 6.8
 ---
 
 Adjacent to the church, Sexton's Cottage is a 14th-century granite building that now serves as a National Trust information centre and small shop. It is one of the most complete surviving medieval domestic buildings on Dartmoor — the walls are thick, the ceilings are low, and the scale gives an immediate physical sense of how people lived in this landscape 600 years ago.

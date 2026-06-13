@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.4925
 longitude: -82.9872
+score: 5.8
 ---
 
 The Haywood County Courthouse is a Neoclassical Revival building on the north end of Main Street, listed on the National Register of Historic Places. Built in 1932 and designed in the fashionable civic style of the period — red brick with white stone detailing and a symmetrical facade — it anchors the upper end of downtown and gives Waynesville's civic core a sense of permanence.

@@ -11,6 +11,7 @@ story: >
   the Triple Alliance (1864–1870), during which Paraguayan forces briefly occupied
   Corumbá and held it for several months. The fort was retaken by Brazilian forces
   on 13 June 1867 — now celebrated as Corumbá's principal civic holiday.
+score: 6.5
 ---
 
 Forte Junqueira is a small hexagonal fort with walls three metres thick, sitting within an active Brazilian military base on the riverbank. Despite its compact size, it has a significant history — it was built in 1772 and served as the primary military installation defending Corumbá during the 19th century, including during the Paraguayan War when it was briefly captured and held by enemy forces.

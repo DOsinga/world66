@@ -7,6 +7,7 @@ tags:
 latitude: 41.7546
 longitude: 23.4921
 snippet: Open-access café in the American University campus, good for working or people-watching
+score: 5.9
 ---
 
 The café inside the American University in Bulgaria's main building is open to visitors and offers one of the more unusual coffee experiences in southwestern Bulgaria: sitting among students from 30 countries, many conducting seminars or working on laptops in English, in a city that would otherwise feel fairly provincial.

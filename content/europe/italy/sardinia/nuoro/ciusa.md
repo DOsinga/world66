@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Ciusa
 type: poi
+score: 5.1
 ---
 
 A reliable and popular pizzeria on Via Ciusa, well-liked by locals. Affordable and unpretentious — good for an easy evening meal.

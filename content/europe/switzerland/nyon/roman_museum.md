@@ -8,6 +8,7 @@ tags:
 - museum
 - sight
 snippet: Underground museum on the site of Nyon's Roman basilica, founded by Julius Caesar in 45 BCE
+score: 8.2
 ---
 
 Modern Nyon sits on top of Roman Noviodunum — Colonia Iulia Equestris — founded in 45 BCE by Julius Caesar's veterans of the Gallic Wars. The Roman Museum is built into the foundations of the colonia's original basilica, discovered in the 1970s under what is now the Place du Marché. The descent into the basement plunges you straight into stone walls, mosaics, and column bases that have stood here since the 1st century.

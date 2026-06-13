@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, outdoor, walking]
 latitude: -36.3135
 longitude: 146.8380
+score: 7.3
 ---
 
 The Yackandandah Creek Trail follows the creek through the valley below the township, winding past old mining sluices, river red gums, and patches of remnant bush. The trail is well-formed and accessible to most walkers; a loop of about four kilometres can be completed in under two hours. Swimming holes in the creek are cool in summer, and the birdlife along the water is good year-round.

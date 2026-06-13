@@ -8,6 +8,7 @@ tags:
 latitude: 31.7500
 longitude: -4.2500
 story: "The Tafilalet was once the richest oasis in the Sahara — a waypoint on the caravan routes from sub-Saharan Africa to the Mediterranean. At its height it supported over a million date palms. A bayoud disease outbreak from the 1960s onward devastated the groves, and the number of trees has never fully recovered."
+score: 7.4
 ---
 
 The Tafilalet is one of the largest oasis regions in Morocco, stretching south from Errachidia through Erfoud toward Rissani. The palmery — several hundred square kilometres of date groves, ksour, and irrigated gardens — lines both banks of the Ziz River and is best seen from the road or from the flat rooftop of a kasbah guesthouse.

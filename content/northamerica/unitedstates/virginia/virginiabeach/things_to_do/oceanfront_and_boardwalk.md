@@ -1,6 +1,7 @@
 ---
 title: "The Oceanfront and Boardwalk"
 type: poi
+score: 7.2
 ---
 
 The Virginia Beach Boardwalk stretches three miles along the Atlantic from 2nd Street to 40th Street, making it one of the longest pleasure boardwalks in the United States. Wide enough for cyclists, joggers, and strolling families at the same time, it runs parallel to a broad sandy beach that ranks consistently among the most visited in the country. The resort strip behind the boardwalk is dense with hotels, restaurants, arcades, and souvenir shops — unabashedly commercial, occasionally tacky, and entirely comfortable with what it is.

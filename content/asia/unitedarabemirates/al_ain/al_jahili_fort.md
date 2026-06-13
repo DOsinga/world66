@@ -6,6 +6,7 @@ longitude: 55.7525
 snippet: "The UAE's finest mud-brick citadel, built to guard Al Ain's oases and now restored as a world-class museum."
 tags: [things_to_do, sight, museum, history]
 story: "Built in the late 19th century on the orders of Sheikh Zayed the First to protect Al Ain's oases from raiders, the fort later served as a base for the Trucial Oman Scouts and briefly housed British explorer Wilfred Thesiger during his 1940s crossings of the Empty Quarter. A permanent exhibition inside the round tower tells Thesiger's story with his own photographs — haunting black-and-white images of the Bedouin landscape that had changed almost nothing since the fort was built."
+score: 8.5
 ---
 
 Al Jahili Fort is the largest fort in Al Ain and one of the best-preserved examples of traditional Gulf military architecture anywhere in the UAE. The main structure dates from around 1891, though it was substantially expanded in the early 20th century. The name means "place of ignorance" in Arabic — a reference to the pre-Islamic era, suggesting the site may have had earlier significance before the fort was built.

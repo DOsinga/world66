@@ -8,6 +8,7 @@ tags:
   - monastic_zone
 latitude: 27.4779
 longitude: 83.2787
+score: 7.6
 ---
 
 A white marble Thai-style temple on the eastern side of the Monastic Zone, gifted by the Thai royal family and the Thai Sangha and completed in 1999. The three-tiered roof, gilded finials, and white walls make it one of the most striking buildings in Lumbini — a transplanted piece of Bangkok in the Terai.

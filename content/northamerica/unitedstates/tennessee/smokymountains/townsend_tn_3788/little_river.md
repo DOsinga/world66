@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6775
 longitude: -83.7521
+score: 8.0
 ---
 
 The Little River runs clear and cold through the valley floor from its headwaters deep in the park, passing right through Townsend before joining the Tennessee River system. The stretch through town is popular for tubing in summer — rental operations along the main road provide tubes and drop-off points — and the river pools and shoals attract swimmers when temperatures rise. The water is genuinely clean by most standards and shockingly cold even in July, fed by mountain springs.

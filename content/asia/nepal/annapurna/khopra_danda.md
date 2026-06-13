@@ -9,6 +9,7 @@ latitude: 28.4083
 longitude: 83.6919
 sources:
   - https://en.wikipedia.org/wiki/Khopra_Ridge
+score: 7.9
 ---
 
 Khopra Danda (3,660m) is a ridge viewpoint above Ghorepani that offers panoramic views of Dhaulagiri and the Annapurna range with far fewer crowds than the neighbouring Poon Hill. The trail from Ghorepani climbs for about three hours through rhododendron forest to reach the community guesthouses and tea stalls on the ridge, where the 360-degree mountain view is, if anything, more impressive than Poon Hill — and the only people sharing it with you are likely to be a handful of other independent trekkers.

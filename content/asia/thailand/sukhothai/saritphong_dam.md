@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A 13th-century earthen dam that once watered the capital — the oldest engineering work of its kind in Thailand.
+score: 6.6
 ---
 
 The Saritphong Dam (also called Phra Ruang Dam) is the oldest large hydraulic work in Thailand, built in the late 13th century to gather monsoon runoff from the Khao Phra Bat Yai hills and feed it through canals into the moats and ponds of Sukhothai. The dam is an earthen embankment about 400 metres long and 10 metres high, plugging a narrow gap between two hills about 4 km southwest of the central park.

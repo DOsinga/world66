@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - nature
+score: 7.1
 ---
 
 Tirana's main park stretches across 230 hectares on the south side of the city, with an artificial lake at its centre. This is where locals come to run, cycle, paddle a hired boat, or sit at one of the lakeside cafés. The park also contains the President's Residence, the open-air stage that hosts summer concerts, the Presidential Cemetery, and a small zoo.

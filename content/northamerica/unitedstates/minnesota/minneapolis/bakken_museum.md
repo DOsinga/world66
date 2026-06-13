@@ -9,6 +9,7 @@ latitude: 44.9531
 longitude: -93.3050
 story: >
   Earl Bakken, the founder of Medtronic, built the world's first wearable cardiac pacemaker in his garage in Minneapolis in 1957, a device he constructed in two weeks at a cardiologist's request after a patient was kept alive by a bedside pacemaker during a power outage. Bakken went on to found Medtronic, now one of the world's largest medical device companies, and the Bakken Museum reflects both his personal fascination with the history of electricity and his belief in its life-saving potential.
+score: 7.4
 ---
 
 The Bakken Museum is housed in a Tudor Revival mansion on the western shore of Lake of the Isles, and focuses on the history of electricity and its influence on life and health from the 18th century to the present. The collection of early electrical instruments, medical devices, and scientific apparatus is displayed with genuine care, and the mansion setting adds period atmosphere.

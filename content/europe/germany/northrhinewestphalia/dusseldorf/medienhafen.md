@@ -9,6 +9,7 @@ latitude: 51.2133
 longitude: 6.7682
 story: >
   The three Gehry towers were built in 1999 and immediately divided the city. One local newspaper described them as "the ugliest buildings in Düsseldorf." They are now the most photographed.
+score: 7.8
 ---
 
 The Medienhafen is Düsseldorf's former inner harbour, a stretch of 19th-century dock warehouses that was redeveloped from the 1990s onward into a district of architecture offices, advertising agencies, restaurants, and bars. It is the showpiece of the city's post-industrial reinvention and worth visiting for the buildings alone.

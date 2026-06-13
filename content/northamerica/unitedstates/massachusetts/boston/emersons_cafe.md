@@ -13,6 +13,7 @@ tags:
 - cafe
 title: Emerson's Cafe
 type: poi
+score: 5.2
 ---
 
 A low-key cafe on Boylston Street near the Theater District, handy for a coffee before or after a show.

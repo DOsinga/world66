@@ -10,6 +10,7 @@ story: >
   carved with pagan symbols directly into the exterior walls. Whether this was a deliberate act of
   cultural absorption or simply convenient building material is still debated — but the stones are
   still there, pagan faces staring out from a Christian wall.
+score: 8.6
 ---
 
 St. Catherine's Church in Liiva village dates to the 13th century and is one of the oldest surviving churches in Estonia. Built of local limestone in a simple Romanesque style, it has the solidity of a building that was also conceived as a refuge — the walls are thick, the windows narrow, the whole structure low and anchored to the ground. What makes it exceptional are the pre-Christian tombstones that were set directly into the exterior masonry, their carved pagan motifs still legible after eight centuries. You can walk the perimeter and pick them out: abstract spirals, stylised figures, symbols that no one now can fully decode.

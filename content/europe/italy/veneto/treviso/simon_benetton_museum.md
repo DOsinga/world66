@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.6713
 longitude: 12.2331
+score: 5.9
 ---
 
 The workshop and home of the sculptor Simon Benetton (1933–2016), now run as a small private museum by his family. Benetton specialised in monumental steel sculpture and the open-air courtyard contains many of his rusting abstract pieces alongside the maquettes and tools from the studio.

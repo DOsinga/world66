@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 21.5275
 longitude: 39.1814
+score: 7.8
 ---
 
 A vast private museum built by Sheikh Abdul Raouf Khalil in a deliberate pastiche of Hijazi architecture. The building itself — coral-stone walls, intricate roshan windows, tall towers — is a study in old Jeddah construction. Inside, the collection is organised across hundreds of rooms covering Islamic art, manuscripts, pilgrim routes, Saudi tribal heritage, and pre-Islamic Arabia.

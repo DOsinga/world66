@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 54.8920
 longitude: 10.4118
+score: 6.8
 ---
 
 Hammerichs Hus is one of the oldest surviving merchant's houses on the island, a well-preserved 18th-century townhouse now open as a local museum. The interior gives a genuine sense of what daily life looked like for a prosperous island family in the 1700s — the furniture, textiles, and household objects are largely original rather than reproduction.

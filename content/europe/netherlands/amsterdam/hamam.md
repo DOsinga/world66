@@ -8,6 +8,7 @@ tags:
 - activities
 title: Hamam Zaanstraat
 type: poi
+score: 6.1
 ---
 
 A proper Turkish bath in Amsterdam's Westerpark neighbourhood offering the full hammam experience: steam room, kese scrub, olive-oil soap massage, and a tea room to recover in afterwards. Towels and slippers are provided.

@@ -9,6 +9,7 @@ tags:
 - sight
 - museum
 story: "The Pillnitz camellia arrived from Japan in 1801 and is now 9 metres tall and over 230 years old — the oldest camellia in Europe. When the palace was restored in the 1990s, engineers had to design a custom-built steel-and-glass greenhouse on wheels around the tree, because the camellia was far too precious and fragile to be moved. Every spring when it flowers, it draws crowds from across Germany."
+score: 8.9
 ---
 
 Pillnitz Palace lies 12 kilometres southeast of Dresden along the Elbe, and the most elegant way to arrive is by paddle steamer from the city centre — a journey that gives you the river views that made this stretch famous among Romantic painters. Augustus the Strong built the palace as a summer residence in the early 18th century, and its distinctive East Asian-influenced rooflines — sweeping curved eaves on a European Baroque body — reflect his obsession with China and Japan.

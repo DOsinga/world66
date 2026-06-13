@@ -6,6 +6,7 @@ tags:
 - sight
 title: Wheeler Historic Farm
 type: poi
+score: 6.0
 ---
 
 Wheeler Historic Farm in Murray, about 12 miles south of downtown Salt Lake City, is a working historic farm preserved from the late nineteenth century. The farm offers tours, animal demonstrations, wagon rides, and seasonal activities throughout the year, with a focus on farming life in pioneer-era Utah.

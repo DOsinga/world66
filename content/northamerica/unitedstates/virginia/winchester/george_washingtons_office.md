@@ -16,6 +16,7 @@ story: >
   civilian life, he channeled the same political energy into the House of Burgesses, winning his first 
   election from Frederick County (which includes Winchester) in 1758. It was the beginning of his 
   political career.
+score: 7.8
 ---
 
 The Adam Kurtz House, known today as George Washington's Office Museum, is a small log and stone structure at the corner of Cork and Braddock Streets where Washington maintained his office between 1755 and 1758. He was here as a 22-year-old colonel in the Virginia militia, tasked with organizing the defense of Virginia's western frontier against French and Native American raids during the French and Indian War. From this office he supervised the construction of Fort Loudoun, reviewed frontier dispatches, and managed the logistics of an underfunded and often mutinous colonial force.

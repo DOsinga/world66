@@ -16,6 +16,7 @@ story: >
   after his death. He died of dysentery at thirty-two. Montaigne, who considered him the
   greatest friend he ever had, wrote the most celebrated essay on friendship in response to the
   loss.
+score: 6.8
 ---
 
 The house where Étienne de La Boétie was born in 1530 is one of the finest Renaissance buildings in Sarlat — a three-storey facade of carved golden limestone with mullioned windows and pilasters decorated with medallions and classical motifs. It stands on the Rue de la Boétie, just off the main square, and can be admired from the street.

@@ -9,6 +9,7 @@ latitude: 26.594834
 longitude: 13.118285
 sources:
   - https://slsgazetteer.org/1728/
+score: 7.5
 ---
 
 Wadi al-Ajal is the oasis corridor that made Germa possible. Palms, fields and settlement traces sit between the desert and the escarpment, showing how the Garamantes turned scarce water into political power.

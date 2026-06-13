@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 47.7450
 longitude: 7.3385
+score: 8.1
 ---
 
 Mulhouse was one of the great centres of the European textile industry, and this museum — the Fabric Printing Museum — is the best record of that heritage anywhere in the world. The collection holds over six million fabric samples dating from the eighteenth century to the present, representing every technique of fabric printing from hand-block printing to digital inkjet. Some of the archive is so extensive it takes up rooms of its own.

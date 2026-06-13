@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 38.150
 longitude: -81.737
+score: 4.8
 ---
 
 Big Bend Golf Course occupies the western bank of the Coal River below the falls. It's a local nine-hole course, nothing fancy, but set in a genuinely attractive river valley with the Appalachian ridgeline as a backdrop. The bend in the river that gives the course its name wraps around part of the fairways, which keeps golfers on their toes.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.4133
 longitude: 12.5778
+score: 7.6
 ---
 
 A few kilometres south of Anzio, the Tor Caldara nature reserve protects a stretch of coastal woodland that is among the last of its kind in Lazio. A 16th-century watchtower — the tor — stands above sulphurous springs that emerge on the beach, evidence of the volcanic geology beneath the flat coastline. The forest behind it is made up of holm oak and Mediterranean scrub.

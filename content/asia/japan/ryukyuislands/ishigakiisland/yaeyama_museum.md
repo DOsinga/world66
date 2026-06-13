@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 24.3394
 longitude: 124.1558
+score: 7.7
 ---
 
 The Yaeyama Museum in central Ishigaki town is the best place to understand how distinct the Yaeyama Islands are from both mainland Japan and from Okinawa's main island. The archipelago has its own language (Yaeyaman, mutually unintelligible with standard Japanese), its own textile traditions, and a history shaped more by trade with China and Southeast Asia than by feudal Japan.

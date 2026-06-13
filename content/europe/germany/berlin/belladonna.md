@@ -11,6 +11,7 @@ tags:
 - kreuzberg
 title: Belladonna
 type: poi
+score: 5.3
 ---
 
 Natural cosmetics and perfumes on Bergmannstrasse. The shop stocks a well-edited range of plant-based skincare and scents, and offers facial treatments in a small treatment room. Monday to Friday 10am–7pm, Saturday 10am–4pm.

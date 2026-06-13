@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, beach]
 latitude: 37.5212
 longitude: 15.1117
+score: 6.7
 ---
 
 La Scogliera is the rocky coast immediately north-east of central Catania, where the 1669 lava flow met the sea and froze in jagged black ledges. The local solution to the lack of sand has been to lay out concrete swimming platforms among the rocks, which the city uses heavily in summer.

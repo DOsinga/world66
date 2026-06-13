@@ -13,6 +13,7 @@ story: >
   and can be walked among. For most visits, a set of plaster casts has been
   made and set at eye level in the rock above — the originals are usually
   under the sea.
+score: 8.0
 ---
 
 **Gantheaume Point** is a rocky headland 6 km south of Cable Beach where the red rock meets the Indian Ocean in a dramatic collision of colours. At low tide, rock platforms extend out from the cliff base and are exposed for exploration. The point is famous for 130-million-year-old dinosaur footprints preserved in the rock — visible in the original (at very low tides) and replicated in plaster casts set into the rock above tide level.

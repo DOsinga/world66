@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.775
 longitude: 5.95
+score: 8.5
 ---
 
 The Weerribben holds one of the most diverse wetland wildlife assemblages in the Netherlands. The reed beds support breeding populations of great bittern, marsh harrier, and bearded reedling — species that require extensive undisturbed reed for nesting and are genuinely rare elsewhere in northwest Europe. Eurasian otters, reintroduced in 2002 after a long absence, are now firmly established and most active at dawn and dusk near the water channels.

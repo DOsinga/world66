@@ -14,6 +14,7 @@ story: >
   flowers" — became one of the most quoted autumn lines in Chinese literature.
   The pavilion has been rebuilt many times but the view it was named for is
   the same.
+score: 8.8
 ---
 
 Yuelu Mountain rises on the west bank of the Xiang River, directly across from Orange Island, and provides Changsha's best escape from the city. At 300 metres the summit is modest, but the trails through mixed forest past Buddhist and Daoist temples, memorial pavilions, and cemetery monuments to historical figures make it more interesting than its height suggests. Lushan Temple (founded 267 AD) is one of the oldest Buddhist institutions in Hunan; the Autumn-Admiring Pavilion offers the classic view celebrated in Tang dynasty poetry.

@@ -15,6 +15,7 @@ story: >
   outside the classic car world.
 sources:
   - https://en.wikipedia.org/wiki/Circuit_des_Remparts
+score: 8.1
 ---
 
 The medieval ramparts of Angoulême run around most of the plateau on which the upper town sits, and the walkway along their top offers panoramic views in every direction. To the north and east you look out over the Charente valley and the industrial lower town; to the south, the hillside drops into a tangle of old streets and gardens. The walk takes about 45 minutes at a comfortable pace and is one of the best free things to do in the city.

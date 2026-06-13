@@ -8,6 +8,7 @@ tags:
 latitude: 21.5903
 longitude: -88.1122
 story: "The flamingo colony at Ría Lagartos is one of only four major Caribbean flamingo breeding sites in the world. At peak season — May through July — more than 20,000 birds concentrate in the salt flats to nest, turning the shallows into a moving pink mass. The mud they nest in is high in iron oxide, which the flamingos smear on their feathers to intensify their colour during courtship."
+score: 8.5
 ---
 
 The Ría Lagartos Biosphere Reserve is a UNESCO-recognised coastal ecosystem covering over 600 square kilometres of shallow lagoons, mangrove forests, salt flats, and beach. The reserve's most famous inhabitants are its Caribbean flamingos — thousands of birds breed in the protected salt pans, and boat trips bring visitors close enough to watch them feed by filtering brine shrimp through their bent bills.

@@ -6,6 +6,7 @@ longitude: -5.0739
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Ben Nevis Distillery has been making whisky on the same site at the foot of the mountain since 1825, founded by "Long John" McDonald. The single malt is matured in casks beside the distillery and is a richer, fruitier dram than most Highland whiskies — closer in character to a Speyside than its geography would suggest. The visitor centre and shop are open year-round; guided tours run several times a day in season.

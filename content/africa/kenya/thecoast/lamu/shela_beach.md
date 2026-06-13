@@ -6,6 +6,7 @@ longitude: 40.9150
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The twelve-kilometre stretch of pale sand running south from Shela village is the main beach on Lamu Island, and one of the finest on the East African coast. It is fronted by low dunes, has no buildings beyond a couple of beach restaurants at the village end, and even in peak season feels uncrowded once you walk a few hundred metres south.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.9985
 longitude: -21.2050
+score: 6.8
 ---
 
 Hveragerði's greenhouses are a genuine curiosity — tomatoes, cucumbers, peppers, and flowers growing year-round at 64°N latitude, heated entirely by the geothermal energy rising from the ground beneath the town. The town has been a centre of Icelandic horticulture since the early twentieth century, when the first growers realised that the cheap heat underground could make growing vegetables in Iceland commercially viable.

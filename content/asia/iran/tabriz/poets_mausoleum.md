@@ -12,6 +12,7 @@ tags:
 - sight
 title: Maqbarat-ol-Shoara (Mausoleum of Poets)
 type: poi
+score: 6.9
 ---
 
 The Maqbarat-ol-Shoara, or Mausoleum of Poets, is a striking modern monument in

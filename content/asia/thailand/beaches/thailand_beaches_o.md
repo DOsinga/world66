@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Thailand Beaches on the Sunrise Coast
 type: poi
+score: 6.2
 ---
 
 The "Sunrise Coast" runs south from Bangkok along the Gulf of Thailand, stretching from Cha Am through Hua Hin and down past Chumphon. It's mainland Thailand's most accessible beach stretch -- no flights or ferries needed, just a few hours by train or car from the capital.

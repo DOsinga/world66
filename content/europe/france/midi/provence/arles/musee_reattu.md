@@ -12,6 +12,7 @@ story: >
   back. The gift was characteristic of Picasso's impulsive generosity, and
   rather unexpected for a relatively small regional museum in a former
   Knights Hospitaller priory.
+score: 7.0
 ---
 
 The Musée Réattu occupies a beautiful 15th-century Grand Priory of the Knights Hospitaller, right on the Rhône. The core collection consists of 800 paintings and drawings by Arles-born painter Jacques Réattu, but the museum has accumulated considerably more interesting additions since then.

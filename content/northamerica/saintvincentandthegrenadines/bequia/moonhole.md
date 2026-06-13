@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 12.9917
 longitude: -61.2761
 story: "The original house was built around a natural rock arch — the 'moon hole' — through which the full moon could be seen at certain times of year. The Johnsons reportedly used no straight lines, no plumb bob, and no electricity for years; the houses grew organically out of the local volcanic stone. Most are still privately owned and require permission to visit."
+score: 8.8
 ---
 
 Moonhole is the eccentric architectural community on the south-western tip of Bequia, founded by American architects Tom and Gladys Johnson in the 1960s. They built a series of stone-and-coral houses into the cliffs, each one different, all using local volcanic stone and incorporating natural rock arches, driftwood beams, and whalebone fittings. The result looks like something between Gaudí and a Caribbean cave.

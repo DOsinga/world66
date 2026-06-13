@@ -8,6 +8,7 @@ latitude: 33.2510
 longitude: -8.4960
 sources:
   - https://en.wikipedia.org/wiki/El_Jadida
+score: 6.3
 ---
 
 El Jadida's main beach runs for several kilometres along the Atlantic coast, with the old Portuguese walls visible at the northern end. The sand is wide and golden, and the Atlantic here is cooler and choppier than the Mediterranean — good for swimming in summer, bracing the rest of the year. In July and August the beach fills with families from Casablanca and the inland cities; outside of peak season you can have long stretches almost to yourself.

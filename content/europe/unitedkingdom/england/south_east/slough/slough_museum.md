@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.5070
 longitude: -0.5860
+score: 6.6
 ---
 
 Slough Museum is a small independent museum in the town centre covering local history from prehistoric times to the present. The collection includes material on the famous Slough Trading Estate — the industrial site that transformed Slough's economy in the twentieth century — as well as the Herschel astronomy connection, the town's wartime role, and its history of immigration and multicultural development.

@@ -13,6 +13,7 @@ story: >
   Records has certified Sean's Bar as the oldest pub in Ireland, and possibly the oldest in the world.
 sources:
   - https://en.wikipedia.org/wiki/Sean%27s_Bar
+score: 8.6
 ---
 
 Sean's Bar sits on the west bank of the Shannon, just down from the castle, and holds the Guinness World Record as the oldest pub in Ireland — and possibly the world, with verified origins around 900 AD. The floor slopes unevenly, the walls bulge with centuries of accumulated material, and the bar itself is barely changed from what you might have found here a few hundred years ago.

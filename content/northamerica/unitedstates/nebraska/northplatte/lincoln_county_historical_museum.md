@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.136
 longitude: -100.775
+score: 7.5
 ---
 
 The Lincoln County Historical Museum covers the history of the North Platte region from the days of the Pawnee and Lakota through the pioneer trail era and into the twentieth century. It occupies a campus of several buildings including a restored 1880s village with original structures moved to the site — a depot, a church, a one-room schoolhouse, and several homestead cabins.

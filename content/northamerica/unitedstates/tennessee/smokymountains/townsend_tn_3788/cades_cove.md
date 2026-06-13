@@ -13,6 +13,7 @@ story: >
   "primitives" — prevailed and kept the building. Historians who examined the walls during a 1990s
   restoration found the fingerprints of the original builders pressed into the mortar, preserved
   for 170 years.
+score: 9.7
 ---
 
 Cades Cove is a large, flat valley enclosed by the surrounding Smokies ridgelines, preserved almost exactly as it appeared in the 1800s when European settlers farmed it. The 11-mile loop road passes working grist mills, log cabins, barns, and three historic churches — all maintained in good repair by the National Park Service. White-tailed deer graze the open fields throughout the day. Black bears are commonly spotted at dawn and dusk, particularly in spring and late summer when they feed heavily before winter.

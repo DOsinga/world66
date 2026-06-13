@@ -6,6 +6,7 @@ tags:
 - museum
 title: Diocesan Museum of Huesca
 type: poi
+score: 7.8
 ---
 
 The Diocesan Museum of Huesca occupies a building adjacent to the Cathedral and houses one of the more significant collections of Aragonese medieval and Renaissance religious art in Spain. The collection includes carved altarpieces, panel paintings, illuminated manuscripts, and liturgical silver from churches across the Province of Huesca — much of it rescued from villages that were abandoned or damaged in the 20th century.

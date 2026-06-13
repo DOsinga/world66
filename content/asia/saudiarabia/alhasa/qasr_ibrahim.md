@@ -15,6 +15,7 @@ story: >
   The compound is a palimpsest of Islamic political history in the Gulf, with
   Arabic inscriptions in its walls that have been translated and debated by
   scholars for generations.
+score: 8.1
 ---
 
 The main Ottoman-era monument in Hofuf, Qasr Ibrahim is a walled palace-fort dating to 1556, built on much older foundations. The compound encloses a mosque with a distinctive minaret, a palm-shaded courtyard, reception rooms, and a deep well. The architecture is the purest example of Ottoman provincial style in the Eastern Province — arched doorways, decorative brickwork, and carved plaster panels inside the prayer hall.

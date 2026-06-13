@@ -7,6 +7,7 @@ tags:
 latitude: 28.1611
 longitude: -82.7686
 snippet: Paddling through mangroves and estuaries on the Gulf coast
+score: 7.1
 ---
 
 The Anclote River flows into the Gulf of Mexico just north of the Sponge Docks, passing through mangrove forest, tidal flats, and estuaries that are among the most intact stretches of Gulf coast between Tampa and Clearwater. The river and its tributaries form an excellent kayaking and paddleboarding network accessible to anyone of moderate fitness.

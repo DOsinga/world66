@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Ubin Seafood
 type: poi
+score: 6.3
 ---
 
 The best-known of the pier restaurants, Ubin Seafood has been feeding day-trippers for years. The chilli crab is excellent, the black pepper prawns are generous, and the prices are well below what you would pay in the city. Order the sambal kangkong (water spinach) as a side. It gets busy on weekend afternoons; arrive before noon or after 2pm.

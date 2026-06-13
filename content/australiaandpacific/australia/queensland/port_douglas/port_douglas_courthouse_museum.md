@@ -9,6 +9,7 @@ longitude: 145.4628
 story: "Port Douglas was once a rival to Cairns as the main port servicing the Palmer River goldfields. This courthouse handled the rough justice of a frontier boomtown in the 1880s. Within two decades the town had declined enough that the courthouse was largely unnecessary."
 sources:
   - https://en.wikipedia.org/wiki/Port_Douglas_Court_House_Museum
+score: 6.6
 ---
 
 The Port Douglas Court House Museum is a heritage building on Wharf Street that served as the town's courthouse from 1879 to 1980. The building is a fine example of Queensland colonial architecture — elevated timber construction with deep verandahs, designed to deal with the heat and humidity of tropical Queensland before air conditioning existed.

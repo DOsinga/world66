@@ -15,6 +15,7 @@ story: >
   Loong — the oldest imperial dragon in the world still in use — arrived from
   China in 1892. Both dragons are housed at the museum and were used in the
   Easter Festival parade for more than a century.
+score: 8.1
 ---
 
 The Golden Dragon Museum tells the story of the Chinese community that shaped Bendigo during and after the gold rush — a story largely absent from the conventional gold rush narrative. Chinese miners arrived in their tens of thousands in the 1850s and 1860s, many settling permanently and building one of the most significant Chinese-Australian communities in the country.

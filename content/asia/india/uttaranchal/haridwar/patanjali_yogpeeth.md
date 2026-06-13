@@ -8,6 +8,7 @@ latitude: 29.9375
 longitude: 78.1167
 story: >
   Patanjali Yogpeeth is named after the sage Patanjali, who codified the practice of yoga in the Yoga Sutras around the 2nd century BCE. The campus has become one of the most visited sites near Haridwar — a sign of how dramatically the global yoga revival has transformed the economy of this region.
+score: 6.5
 ---
 
 Patanjali Yogpeeth is a vast complex on the outskirts of Haridwar founded by Baba Ramdev, the yoga guru who turned yogic practice into a global movement. The campus covers over 100 acres and includes a large hospital, research facilities, an ayurvedic pharmacy, and a meditation hall that can seat thousands. It receives millions of visitors annually.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.2783
 longitude: 73.2093
+score: 7.8
 ---
 
 Jaigad Fort stands on a rocky promontory about 55 kilometres north of Ratnagiri town, at the point where the Shastri River meets the sea. Built in the seventeenth century, it commands the river mouth and was strategically vital during the Maratha period for controlling sea trade along the Konkan coast.

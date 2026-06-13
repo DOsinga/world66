@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.0330
 longitude: 12.6139
+score: 5.9
 ---
 
 The ferry crossing from Helsingør to Helsingborg on the Swedish side is four kilometres and takes about 20 minutes — the shortest international sea crossing in Europe. Ferries run throughout the day and evening, making a combined Denmark-Sweden day trip easy. The crossing itself is worth doing for the view of Kronborg from the water, which is the perspective from which it would have appeared to every ship approaching through the Sound.

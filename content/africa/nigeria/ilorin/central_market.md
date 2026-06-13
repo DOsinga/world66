@@ -7,6 +7,7 @@ tags:
 latitude: 8.5000
 longitude: 4.5540
 snippet: "The sprawling main market — textiles, crafts, and the daily commerce of a major regional city"
+score: 7.8
 ---
 
 The Ilorin Central Market is one of the largest and most active markets in north-central Nigeria. It sprawls across a large area near the city centre, its sections organized by trade: dyers' alleys where cloth hangs in long indigo curtains, sections for leather goods, metalwork, pottery, and kola nuts. The textile section is the most celebrated — Ilorin has a long tradition of weaving and has been a major centre of the indigo-dyed fabric trade.

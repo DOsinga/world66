@@ -14,6 +14,7 @@ story: >
   unjustified and that the victims posed no threat. The British Prime Minister
   issued a formal apology — one of the very few occasions the UK government has
   done so for events in Northern Ireland.
+score: 8.4
 ---
 
 The Museum of Free Derry in the Bogside tells the story of the civil rights movement and the period of the late 1960s and early 1970s when this part of the city effectively governed itself beyond British law. The museum is small but densely documented — personal testimony, photographs, and contemporary film footage of the civil rights marches, the Battle of the Bogside in 1969, and Bloody Sunday in 1972.

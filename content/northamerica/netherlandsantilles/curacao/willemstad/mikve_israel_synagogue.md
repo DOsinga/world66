@@ -10,6 +10,7 @@ latitude: 12.1065
 longitude: -68.9321
 story: >
   The floor of the synagogue is covered in white sand, a practice with several competing explanations: some say it represents the desert the Israelites crossed during the Exodus, others that it muffled footsteps during the Inquisition when Jewish worship was forbidden. The congregation has worshipped here continuously since 1732, making it one of the oldest Jewish communities in the Western Hemisphere.
+score: 8.8
 ---
 
 The Mikvé Israel-Emanuel Synagogue is the oldest continuously functioning synagogue in the Americas, built in 1732 by Sephardic Jewish merchants who had fled the Iberian Inquisition and settled in Curaçao. The building is an imposing neoclassical structure with yellow-trimmed white walls and a sand-covered floor — the sand is the most striking feature, immediately visible as you enter.

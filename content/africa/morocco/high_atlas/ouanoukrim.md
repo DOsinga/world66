@@ -8,6 +8,7 @@ latitude: 31.03639
 longitude: -7.94722
 sources:
   - https://en.wikipedia.org/wiki/Ouanoukrim
+score: 8.1
 ---
 
 Ouanoukrim is the second-highest massif in Morocco, with its twin summits of Timzguida (4,089m) and Ras n'Ouanoukrim (4,083m) sitting roughly 5km southwest of Toubkal. Unlike Toubkal, which attracts a steady stream of trekkers, Ouanoukrim is rarely crowded. The approach from the Toubkal refuges is straightforward and the views back toward Toubkal from the summit are arguably better than from Toubkal itself.

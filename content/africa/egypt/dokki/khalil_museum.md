@@ -15,6 +15,7 @@ story: >
   Africa. The collection was nationalised after the 1952 revolution and has had
   a troubled history: 13 paintings were stolen in 2010, including a Renoir, and
   only one has since been recovered.
+score: 8.2
 ---
 
 In an opulent early 20th-century villa near the Nile Corniche, the Khalil Museum houses one of the most surprising art collections on the African continent: a Gilded Age Egyptian politician's personal trove of French Impressionist and Post-Impressionist works. Monet, Pissarro, Renoir, Toulouse-Lautrec, and a Van Gogh landscape are all here, hung in ornate rooms that feel closer to a Paris townhouse than a Cairo gallery.

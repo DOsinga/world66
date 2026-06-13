@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: Three Khmer-style prangs predating the Thai kingdom, later converted to Buddhist use.
+score: 8.1
 ---
 
 Wat Sri Sawai, in the southwest corner of the central zone, is the oldest structure in the park. Its three corn-cob-shaped prangs were built by the Khmers in the late 12th or early 13th century, when this region was still on the northwestern fringe of the Angkor empire, as a Hindu shrine probably dedicated to Shiva. After the Sukhothai kingdom emerged, the temple was repurposed as a Buddhist sanctuary and given a vihara, viharas and an outer wall.

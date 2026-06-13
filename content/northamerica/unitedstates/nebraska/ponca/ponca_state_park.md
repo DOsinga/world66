@@ -9,6 +9,7 @@ tags:
   - park
   - hiking
 story: "The bluffs in the park rise nearly 250 feet directly out of the Missouri floodplain — a glacial-era ridge that funnels migrating raptors south every autumn. The annual September hawk count from the park's Three State Overlook routinely tallies tens of thousands of broad-winged hawks in a few hours."
+score: 8.4
 ---
 
 A 2,400-acre state park on a wooded bluff above the Missouri River, four miles north of Ponca. Twenty-two miles of trails wind through oak and hickory forest along the bluff edge, with regular overlooks down onto a stretch of the river that has been left to braid, shift, and form sandbars — the way the Missouri behaved across the whole continent before the dams. The Three State Overlook gives a view across to South Dakota and Iowa simultaneously.

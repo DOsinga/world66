@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - archaeology
+score: 7.4
 ---
 
 Vinapu is the puzzle that has fed every alternative-history theory about Easter Island. The seaward wall of one of the platforms here is built of huge basalt blocks fitted together without mortar, the joints so precise that, as the saying goes, you can't slip a knife between them. The technique is virtually identical to Inca masonry at Cusco — which is what got Thor Heyerdahl convinced the island had been settled from South America, not Polynesia.

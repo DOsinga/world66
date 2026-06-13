@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.2
 ---
 
 Lake View Park sits on the north shore of Rawal Lake and is the most child-oriented of the Islamabad parks — boating, pony rides, a small zoo, a Ferris wheel, a chairlift, paintball, archery and a gauntlet of food stalls. It is busy at weekends with families from across the twin cities.

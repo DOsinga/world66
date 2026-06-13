@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - chinatown
   - sight
+score: 7.5
 ---
 
 A handsome Chinese clan association building on the southern edge of Chinatown, built between 1897 and 1906 by the Chan, See, and Yuen families — three surnames considered related under the old Chinese system of clan kinship. The shipped-in granite and timber, the painted roof ridge with its plaster figurines and ceramic dragons, and the interior of carved wooden screens and ancestral altars are all in the Lingnan style of Guangdong.

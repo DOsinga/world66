@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 10.7869
 longitude: 79.1365
+score: 6.9
 ---
 
 Thanjavur painting is a distinct south Indian art form developed under the Maratha rulers — characterised by rich, flat colours, gold foil applied over gesso relief work, and embedded semi-precious stones around the central figure, which is almost always a Hindu deity. The best examples have an intensity of colour and a layered three-dimensionality quite unlike any other painting tradition: the figures stand slightly proud of the surface, outlined and jewelled.

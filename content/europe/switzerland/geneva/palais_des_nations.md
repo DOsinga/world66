@@ -16,6 +16,7 @@ story: >
   painted by José Maria Sert in 1936, was famously controversial: critics noted
   that its allegorical figures celebrating human progress looked somewhat
   fascist, painted as they were during the Spanish Civil War.
+score: 7.9
 ---
 
 The Palais des Nations is the European headquarters of the United Nations and the second-largest UN complex in the world after New York. It sits in the 45-hectare Ariana Park on the northern shore of the lake, surrounded by manicured lawns and a view of Mont Blanc when conditions are clear. The complex processes millions of documents per year and hosts some 10,000 meetings annually — it is, in other words, a working office building, not a monument.

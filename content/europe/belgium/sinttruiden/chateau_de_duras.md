@@ -9,6 +9,7 @@ latitude: 50.835
 longitude: 5.152
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Duras
+score: 6.7
 ---
 
 A thirty-minute walk or short cycle north of Sint-Truiden brings you to this handsome Classical-style château, set in parkland on the edge of the village of Duras. The building dates from the eighteenth century and has the clean proportions characteristic of aristocratic Belgian country houses of that era.

@@ -16,6 +16,7 @@ story: >
   the tuatara, little spotted kiwi, and kākāpō (briefly resident) — have
   recovered dramatically. The little spotted kiwi population has grown from
   6 birds in 2000 to over 200.
+score: 9.2
 ---
 
 Zealandia sits in the Karori valley about 2 km west of the city centre — a steep bus ride or pleasant downhill walk — and is one of Wellington's most extraordinary assets. A 500-year restoration project, it works by maintaining an 8.6-km predator-proof fence around the entire valley, within which native species can breed without the threat that has eliminated so many from mainland New Zealand.

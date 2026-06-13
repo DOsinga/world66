@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2238
 longitude: 13.0797
+score: 6.7
 ---
 
 A larger sea cave on the western face of the Monte Circeo promontory, notable both as a snorkelling and diving site and as an archaeological site. Fossellone has yielded prehistoric remains — animal bones and evidence of human occupation — and is considered part of the same Palaeolithic landscape as the better-known Grotta Guattari nearby.

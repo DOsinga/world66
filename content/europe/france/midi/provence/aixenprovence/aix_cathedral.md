@@ -10,6 +10,7 @@ latitude: 43.5319
 longitude: 5.4472
 snippet: Romanesque, Gothic, and Baroque all under one roof
 story: "Behind a pair of carved walnut doors kept covered by protective panels, the cathedral hides Nicolas Froment's Burning Bush triptych from 1476 — King Rene of Provence and his queen Jeanne kneel before a vision of the Virgin sitting in a flaming bush that does not burn, a thoroughly Provencal piece of medieval painting that has lost none of its strangeness."
+score: 8.8
 ---
 
 Aix Cathedral stands on the highest ground in the old town, on the spot where the Roman forum once was. It grew over fifteen centuries, and you can read each one in the building. The octagonal baptistery to the right of the entrance still holds Roman columns; the central Romanesque nave is plain and heavy; the Gothic nave on the left is taller and more delicate; the whole thing is wrapped in a sixteenth-century facade.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.4438
 longitude: 28.2274
+score: 9.7
 ---
 
 The Old Town of Rhodes is a functioning neighbourhood — roughly 6,000 people live inside the walls — that happens to be one of the most intact medieval urban environments in Europe. UNESCO has listed it as a World Heritage Site since 1988, recognising a place that has been continuously inhabited for over two thousand years and that preserves visible layers of ancient, Byzantine, Latin, Ottoman, and modern Greek history within a single square kilometre.

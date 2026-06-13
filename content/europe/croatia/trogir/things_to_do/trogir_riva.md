@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.51750
 longitude: 16.25250
+score: 7.1
 ---
 
 The Riva is the promenade that runs along the north shore of Trogir's old town island, facing the mainland and the marina. It is the social spine of the city: lined with cafe and restaurant tables, shaded by palm trees, and busy from morning coffee through to late-evening drinks. The boats moored along the waterfront range from small fishing vessels to substantial charter yachts in summer.

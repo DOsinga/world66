@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.9
 ---
 
 The Catherine Church was built in the early fourteenth century as the conventual church of the Franciscan order, distinguishable from the city's parish churches by its lack of a tower — Franciscan rule forbade it. After the Reformation it became a school church for the adjoining Katharineum gymnasium and is now used mostly for displays and concerts.

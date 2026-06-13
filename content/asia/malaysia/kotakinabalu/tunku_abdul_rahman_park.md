@@ -12,6 +12,7 @@ story: >
   who spent his honeymoon on Pulau Gaya in 1939. Today Gaya is the largest of
   the five islands and supports a sprawling water village of several thousand
   residents — the only permanent settlement within the park boundaries.
+score: 8.8
 ---
 
 Five islands 15 to 20 minutes by speedboat from Jesselton Point Ferry Terminal make up Tunku Abdul Rahman Marine Park, Kota Kinabalu's most accessible escape. Pulau Manukan has the best snorkeling — good coral close to shore and regular sightings of sea turtles and reef fish — while Pulau Sapi and Pulau Mamutik are smaller and quieter for beach lounging. Combined island-hopping day trips take in two or three islands.

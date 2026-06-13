@@ -13,6 +13,9 @@ tags:
 title: Second City
 type: poi
 url: www.secondcity.com
+sources:
+- https://en.wikipedia.org/wiki/The_Second_City
+score: 8.0
 ---
 
 The Second City has been the incubator for American comedy for over sixty years. It opened on North Wells Street in 1959 and has since produced an extraordinary roster of alumni: Dan Aykroyd, John Belushi, Bill Murray, Gilda Radner, Mike Myers, Tina Fey, Stephen Colbert, and Steve Carell, among many others. The Chicago mainstage hosts a rotating revue that mixes scripted material with improvised scenes; the smaller e.t.c. stage next door is where newer material is tested.

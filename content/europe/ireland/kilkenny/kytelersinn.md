@@ -15,6 +15,7 @@ story: >
   servant Petronilla de Meath was less lucky: she was burned at the stake on Kilkenny's
   High Street, the first person to be executed for witchcraft in Ireland. The inn
   Alice owned on St Kieran's Street has been serving drinks ever since.
+score: 7.6
 ---
 
 Kyteler's Inn claims to be the oldest in Kilkenny, operating from the building that belonged to the infamous Dame Alice Kyteler in the early 14th century. The stone walls of the lower floors are genuinely medieval, and the place has been a drinking establishment in one form or another for most of those seven centuries.

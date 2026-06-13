@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.6689
 longitude: 11.1603
+score: 7.3
 ---
 
 The modern Therme Meran (Terme di Merano) is a large spa and thermal baths complex built in 2005 beside the Passirio River, continuing the town's centuries-old tradition as a health destination. The pools — indoor and outdoor, thermal and non-thermal — are fed by the local mineral springs and the facility includes various saunas, treatment areas, and a large outdoor section overlooking the mountains.

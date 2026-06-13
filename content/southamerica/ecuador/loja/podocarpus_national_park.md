@@ -12,6 +12,7 @@ story: >
   tree genera in the world, with origins in the Gondwana supercontinent. The park was
   established in 1982 and covers over 146,000 hectares of páramo, cloud forest, and
   subtropical rainforest at elevations from 900 to 3,600 metres.
+score: 9.2
 ---
 
 One of the most biodiverse protected areas in the world sits just outside Loja, where the Andes meet the edge of the Amazon basin. Podocarpus National Park encompasses an extraordinary range of habitats across a single mountain system — páramo highlands with frailejón plants, cloud forest dripping with mosses and bromeliads, and lower subtropical forest where the vegetation becomes dense and tropical.

@@ -8,6 +8,7 @@ tags:
 latitude: 35.1755
 longitude: 136.9082
 neighbourhood: Sakae
+score: 7.2
 ---
 
 Hisaya-odori is the wide central boulevard of Sakae, with a green park strip running for over a kilometre down its middle. After decades as a slightly tired civic space, the southern half was reborn in 2020 as Hisaya-odori Park Mirai, an open-air retail and food promenade designed by Nikken Sekkei. Two storeys of glass-fronted shops and cafes sit along the green strip; lawns, water features and event terraces fill the gaps.

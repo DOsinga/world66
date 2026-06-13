@@ -7,6 +7,7 @@ tags:
 - beaches
 - beach
 snippet: "Wide sandy beach at Hartlepool's traditional seaside resort"
+score: 7.4
 ---
 
 Seaton Carew is Hartlepool's old seaside resort, at the southern end of the long sandy bay. The beach is genuinely good — wide, clean enough for a Blue Flag, with the long sweep of dunes and the offshore wind farm in the distance.

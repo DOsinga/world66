@@ -17,6 +17,7 @@ story: >
   made the building unusual even among tulou, and when outsiders first saw aerial
   photographs of it in the 1980s, the CIA reportedly spent several months trying
   to determine whether it was a missile installation.
+score: 6.8
 ---
 
 Hongkeng Folk Village in Yongding County is the primary destination for tulou visitors, and with good reason: the village packs more than a dozen tulou of different sizes and periods into a compact valley, connected by paths through paddy fields and bamboo groves. The most famous individual building is Zhencheng Lou, a large round tulou from 1912 whose inner ring follows an eight-trigram layout. The adjacent Rusheng Lou, at just 17 metres diameter, is one of the smallest tulou in existence and sits incongruously next to its enormous neighbour.

@@ -6,6 +6,7 @@ longitude: 20.7846
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 A curious small museum dedicated to East Asian art — Chinese ceramics, Japanese prints, Tibetan bronzes — assembled by the Albanian-American photographer Dhimitër Vangjeli "Bratko" (1903–1995) and gifted to his home city. There is almost nothing else like it in Albania.

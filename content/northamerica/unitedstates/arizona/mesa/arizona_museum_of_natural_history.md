@@ -8,6 +8,7 @@ latitude: 33.4152
 longitude: -111.8296
 story: >
   The museum's Dinosaur Mountain is a three-storey indoor recreation of a canyon setting, where full-scale animatronic dinosaurs move and roar beside a real cascading waterfall. It was built when this was still a pioneering attraction in the early 1990s, and the technology has aged in ways that only make it more charming.
+score: 7.9
 ---
 
 The Arizona Museum of Natural History anchors Mesa's downtown arts district at 53 N MacDonald and is the best reason to spend a half-day in the city centre. Its Dinosaur Mountain gallery is the headline: a full three-storey walk through a recreated canyon where life-size animatronic dinosaurs inhabit Arizona's prehistoric landscape. It is dramatic enough to hold adults as well as children.

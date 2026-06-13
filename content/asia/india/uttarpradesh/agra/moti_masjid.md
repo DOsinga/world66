@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Moti Masjid — "Pearl Mosque" — is the small private mosque inside Agra Fort, built by Shah Jahan between 1648 and 1654 for the personal use of his courtiers. It is entirely of white marble, with three domes and a courtyard floor of black-and-white marble inlay.

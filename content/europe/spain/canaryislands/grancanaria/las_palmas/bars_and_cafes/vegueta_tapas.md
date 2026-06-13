@@ -8,6 +8,7 @@ tags:
 neighbourhood: Vegueta
 latitude: 28.0976
 longitude: -15.4146
+score: 8.2
 ---
 
 The tapas bars clustered around the streets behind the Catedral de Santa Ana are the most honest places to drink in Las Palmas. The format is straightforward: stand at the bar, order a glass of wine, and point at whatever is under the glass covers on the counter. Prices are set for locals, not visitors.

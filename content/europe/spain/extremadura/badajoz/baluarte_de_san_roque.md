@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Baluarte de San Roque
 type: poi
+score: 6.9
 ---
 
 One of the eight surviving bastions of the star-shaped fortifications that ring the old city, built between 1640 and 1680 during the Portuguese Restoration War. The walls are a textbook example of the bastioned trace popularised by Vauban — angular, low-profile, designed to deflect cannon fire — and Badajoz is one of the best preserved fortress cities of its type in Spain.

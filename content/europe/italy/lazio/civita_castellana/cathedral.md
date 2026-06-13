@@ -13,6 +13,7 @@ story: >
   technique they inherited from Byzantine craftsmen. The signature on the Civita
   Castellana portico is one of the few signed Cosmati works that survives, and
   it names Jacobus and his sons Cosmas and Lucas, dating the work to 1210.
+score: 7.8
 ---
 
 The Cathedral of Santa Maria Maggiore stands at the heart of the old town and is most famous for the magnificent portico that precedes its entrance. The cathedral itself was largely rebuilt in the 12th century over an earlier structure, but it is the portico — completed in 1210 and bearing the signed inscription of the Cosmati craftsmen who made it — that draws visitors from across Lazio. The columns are wrapped in spiralling bands of Cosmati mosaic: intricate geometric patterns of coloured stone and glass tesserae, combining red porphyry, green serpentine, and gilded glass in combinations that have not faded in eight centuries. The overall effect, particularly in morning light, is extraordinary.

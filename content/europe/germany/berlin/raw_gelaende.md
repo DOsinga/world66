@@ -8,6 +8,7 @@ tags:
 - friedrichshain
 title: RAW-Gelände
 type: poi
+score: 8.2
 ---
 
 RAW-Gelände — the former Reichsbahnausbesserungswerk, a railway repair yard built in 1867 and decommissioned after reunification — is a sprawling industrial site behind Warschauer Straße that Berlin has never quite decided what to do with, which is exactly why it works. The grounds hold a skate park built into a ruined building, a bouldering and climbing wall, a beach bar, a boxing club, an Urban Spree gallery, and enough bare concrete and broken glass to remind you what the district looked like in the 1990s. Cassiopeia and Suicide Circus, two of the best mid-sized clubs in the city, operate from converted halls on the site and run on Friday and Saturday nights.

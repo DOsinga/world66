@@ -6,6 +6,7 @@ longitude: 18.7680
 tags:
   - things_to_do
   - neighbourhood
+score: 8.1
 ---
 
 Dobrota is the long strip of waterfront village that runs north from Kotor along the bay — once the home of the captains and merchants who made the Boka one of the richest sailing communities in the Adriatic. The 18th and 19th-century stone houses, many with their own small private chapels, line the road for almost five kilometres.

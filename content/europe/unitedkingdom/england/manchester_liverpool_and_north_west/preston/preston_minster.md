@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.2
 ---
 
 The Minster Church of St John the Evangelist — Preston's medieval parish church, raised to minster status in 2003 — stands on Church Street, on a Christian site continuous since the seventh century. The present building is largely the work of E. H. Shellard in 1855, on the site of older churches that had stood and been rebuilt over a millennium. The tall west tower is the city centre's most prominent church silhouette.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 48.9191
 longitude: -123.7136
+score: 6.4
 ---
 
 The Chemainus waterfront looks out across Stuart Channel toward Thetis Island and Salt Spring Island, with the blue shapes of the Gulf Islands filling the eastern horizon. The small harbour is a mix of working fishing boats and pleasure craft, and the waterfront path is an easy walk from the town centre. At low tide, the tidal flats attract herons and shorebirds.

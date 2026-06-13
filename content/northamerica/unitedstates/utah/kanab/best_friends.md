@@ -16,6 +16,7 @@ story: >
   that figure had fallen to under 400,000, a change Best Friends claims to have played a
   significant role in achieving through advocacy, partnerships, and demonstrating that
   no-kill is operationally and financially viable.
+score: 7.2
 ---
 
 Best Friends Animal Sanctuary sits in the red rock hills of Angels Canyon, about 8 km north of Kanab. The sanctuary cares for several hundred dogs, cats, rabbits, horses, pigs, and birds at any given time — all animals that have been rescued from shelters facing euthanasia. Visitors are welcome for free guided tours that take you through the different areas; the tour ends at the adoption centre, and you can spend as long as you like playing with the animals.

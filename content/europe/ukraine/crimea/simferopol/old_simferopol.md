@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.7
 ---
 
 The original Crimean Tatar quarter, on a slope south-east of the city centre between the river and the railway. The lanes here are narrower, more crooked, and quieter than anywhere else in Simferopol: one- and two-storey houses of pale limestone, courtyard gates, occasional bakeries selling fresh chebureki.

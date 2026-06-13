@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 Goldfield's high school, built in 1907, is the kind of building boomtowns put up to convince newcomers and themselves that the place would last. Three storeys, brick, classical pilasters, and a capacity for hundreds of students at a time when most Nevada towns had a one-room schoolhouse. It served as a school until 1953 and then sat empty for half a century.

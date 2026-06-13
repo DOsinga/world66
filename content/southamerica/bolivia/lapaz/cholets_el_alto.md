@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Cholets of El Alto
 type: poi
+score: 8.8
 ---
 
 The cholets of El Alto are the most original architectural development in South America in the last twenty years, and almost nobody outside Bolivia knew they existed until relatively recently. Freddy Mamani Silvestre built the first one around 2005, a multi-storey building for a wealthy El Alto merchant that incorporated the bold geometric patterns of Tiwanaku stonework into the facade, painted in colours — electric turquoise, deep pink, lime yellow — that have no precedent in conventional architecture. The ground floor is typically a ballroom for hire; the upper floors contain apartments or offices; the owner lives at the top. The pattern has been copied by other builders across El Alto, but Mamani's originals are distinguishable by their more precise detailing and more audacious colour.

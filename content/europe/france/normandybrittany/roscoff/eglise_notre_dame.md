@@ -8,6 +8,7 @@ latitude: 48.7265
 longitude: -3.9855
 story: >
   The ornate Renaissance bell tower was built in 1545, funded largely by merchants who had grown rich on the linen and onion trade with England. The tower is a rare example of pure Renaissance architecture in Brittany, a region that otherwise stuck stubbornly to its own Gothic and Flamboyant traditions.
+score: 6.9
 ---
 
 The church at the heart of Roscoff's old town is dominated by a Renaissance bell tower of unusual elegance for northern Brittany. The tower rises over the granite rooftops in carved tiers, decorated with lanterns and pinnacles that owe more to Loire Valley architecture than anything local.

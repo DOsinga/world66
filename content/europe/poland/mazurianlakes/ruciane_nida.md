@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 53.6400
 longitude: 21.5300
+score: 6.6
 ---
 
 Ruciane-Nida is a twin town at the southern end of the Great Masurian Lakes, the terminus of the classic Krutynia kayak route and the gateway to Pisz Forest (Puszcza Piska), one of the largest remnant forest complexes in Poland. The town is quieter and less touristy than Mikołajki and Giżycko, making it a good base for forest walking and cycling rather than sailing.

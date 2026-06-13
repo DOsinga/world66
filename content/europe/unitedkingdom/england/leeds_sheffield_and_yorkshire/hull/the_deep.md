@@ -16,6 +16,7 @@ story: >
   from across the estuary it looks more like a piece of public sculpture than a
   building. Inside, the central tank is ten metres deep and holds a quarter of
   a million litres of saltwater, sharks and rays included.
+score: 9.2
 ---
 
 The Deep is Hull's most recognisable modern landmark and its biggest single tourist draw. The exhibits are organised around a journey through the world's oceans — from coral reefs and tropical lagoons to the cold deep, with sharks, rays, and the only colony of Gentoo penguins in the north of England. The 10-metre viewing tank has a glass lift that runs straight through it, so you ascend surrounded by water on all sides.

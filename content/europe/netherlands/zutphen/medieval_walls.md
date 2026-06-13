@@ -6,6 +6,7 @@ longitude: 6.1925
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 Zutphen retains more of its medieval defences than almost any other Dutch town. Substantial stretches of the town wall survive along the Berkel river on the southern side, including towers, gates, and a section of the wall walk. The Berkelpoort, a water gate where the river enters the old town, is particularly photogenic.

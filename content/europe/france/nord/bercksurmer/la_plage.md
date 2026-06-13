@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4046
 longitude: 1.5575
+score: 7.5
 ---
 
 The beach at Berck is one of the longest and widest on the Opal Coast — a broad expanse of pale sand that stretches north and south almost without interruption, backed by low dunes and open to the wind from the English Channel. The sand is firm enough for sand sailing (char à voile) and horse riding, which are the activities most closely identified with Berck, and the beach is wide enough at low tide that entire courses of both activities can be run without disturbing sunbathers.

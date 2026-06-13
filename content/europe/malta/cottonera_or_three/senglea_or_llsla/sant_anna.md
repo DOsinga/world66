@@ -6,6 +6,7 @@ longitude: 14.5154
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The Sant'Anna Bastion is the great curved limestone wall that closes off the landward end of the Senglea peninsula, part of the 16th-century fortifications planned by the Knights' military engineers. The single gate at the top has been the only land entrance to the town for nearly 500 years.

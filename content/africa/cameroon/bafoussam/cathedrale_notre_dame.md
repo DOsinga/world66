@@ -15,6 +15,7 @@ story: >
   practice anywhere on the continent.
 sources:
   - https://en.wikipedia.org/wiki/Diocese_of_Bafoussam
+score: 6.6
 ---
 
 The Cathedral of Our Lady of Victories is Bafoussam's Roman Catholic cathedral and the seat of the Diocese of Bafoussam. The building occupies a prominent position near the city centre, its twin towers visible from several surrounding streets. The architecture is a product of mid-twentieth-century missionary building — solid, functional, and larger than the surrounding streets quite prepare you for.

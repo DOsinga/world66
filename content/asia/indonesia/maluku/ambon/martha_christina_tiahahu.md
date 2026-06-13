@@ -13,6 +13,7 @@ story: >
   birthday. She is now a National Hero of Indonesia and one of the few
   women in that category, recognized for a resistance that cost her
   everything.
+score: 6.6
 ---
 
 The Martha Christina Tiahahu Monument stands on a hill in the Karang Panjang area, about ten minutes from downtown Ambon. An eight-metre bronze statue of the young Ambonese freedom fighter, spear raised, gazes out over the city and Ambon Bay below.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Barranco
 snippet: Old-fashioned Lima cooking on enormous family plates in a Barranco bistro
 url: isolina.pe
+score: 8.0
 ---
 
 **Isolina** is the most consistently brilliant of the Barranco mid-range restaurants — a *taberna criolla* that serves the food of Lima's grandmothers in oversized portions designed to share. Chef José del Castillo cooks from the recipes of his mother and grandmother: *causa rellena*, *cau cau* (tripe stew), *ají de gallina*, slow-braised seco beef, *tacu tacu* with steak.

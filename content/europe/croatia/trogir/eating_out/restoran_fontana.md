@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.51740
 longitude: 16.25160
+score: 5.9
 ---
 
 Restoran Fontana sits on the Riva with a terrace that looks directly out over the marina and the strait between the old town island and the mainland. The setting is one of the best in Trogir for a long lunch: boats, the low mainland hills behind, and the old town walls rising behind your chair. The food is consistent Dalmatian cooking — fresh fish, Adriatic shellfish, black risotto — delivered without fuss.

@@ -8,6 +8,7 @@ latitude: 40.703
 longitude: 19.944
 sources:
   - https://en.wikipedia.org/wiki/Gorica_Bridge
+score: 7.7
 ---
 
 The Gorica Bridge spans the Osum River between the Mangalem and Gorica quarters, its seven stone arches dating from the 18th century Ottoman period. It is the most photographed structure in Berat after the castle and the Mangalem windows, and with good reason: standing on the bridge gives simultaneous views of both banks, with the castle on the hill behind and the river running clear below.

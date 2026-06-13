@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 19.7
 longitude: -80.0667
+score: 9.4
 ---
 
 Jackson's Bight is the wall stretch immediately east of Bloody Bay, continuing the same near-vertical drop into the Cayman Trench. The dive sites here — Jackson's Reef, Mixing Bowl, Eagle Ray Pass — are if anything richer than Bloody Bay in coral health and fish density, and the wall here has more swim-throughs and chimneys cut into the reef face that you can drop down through to emerge on the wall at depth.

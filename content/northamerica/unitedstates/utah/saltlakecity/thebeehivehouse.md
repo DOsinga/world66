@@ -11,6 +11,7 @@ tags:
 title: The Beehive House
 type: poi
 story: "The beehive symbol carved above the entrance represents industry — the core virtue of the Mormon pioneer ethic. Brigham Young chose it deliberately, and it is now the official state symbol of Utah. The house next door, the Lion House, was home to his larger household; the Beehive House was his personal residence."
+score: 7.0
 ---
 
 The Beehive House at 67 East South Temple was the official residence of Brigham Young, second president of the Church of Jesus Christ of Latter-day Saints and the governor of Utah Territory, from 1854 until his death in 1877. Built in a Greek Revival style, it is a National Historic Landmark, restored and furnished with original pieces and period artifacts.

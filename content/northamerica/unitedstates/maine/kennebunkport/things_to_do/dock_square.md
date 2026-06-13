@@ -10,6 +10,7 @@ longitude: -70.47697
 snippet: Kennebunkport's village centre with shops, galleries, and harbour views
 sources:
   - https://en.wikipedia.org/wiki/Dock_Square_(Kennebunkport)
+score: 7.5
 ---
 
 The commercial heart of Kennebunkport: a compact cluster of shops, galleries, restaurants, and ice cream parlours gathered around the mouth of the Kennebunk River where it meets the tidal cove. The architecture is classic Maine coastal — mostly 19th-century wooden buildings, well-maintained and largely un-chain-store'd, which is a minor miracle given the summer tourist traffic.

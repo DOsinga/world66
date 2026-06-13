@@ -12,6 +12,7 @@ story: "Lāhainā served as the capital of the Kingdom of Hawaii from 1820 to 18
 sources:
   - https://en.wikipedia.org/wiki/Lahaina_Historic_District
   - https://en.wikipedia.org/wiki/Lahaina,_Hawaii
+score: 7.4
 ---
 
 Lāhainā was the cultural and historical heart of Maui — a former royal capital of Hawaii, a major 19th-century whaling port, and a compact waterfront town with one of the finest collections of historic buildings in the Pacific. In August 2023, a catastrophic wildfire destroyed most of the historic Front Street and killed over 100 people in the deadliest American disaster in over a century. Recovery is ongoing, and travellers should check the current situation before planning a visit.

@@ -10,6 +10,7 @@ latitude: 21.8746
 longitude: -159.4712
 sources:
   - https://en.wikipedia.org/wiki/Po%CA%BBip%C5%AB_Beach
+score: 7.8
 ---
 
 Poʻipū Beach Park is the most popular beach on Kauaʻi's sunny south shore, and for good reason: it faces south rather than north, which means it is sheltered from the winter swells that make the north shore beaches dangerous for swimming. The beach is divided by a natural sandbar into two separate areas — the calmer, shallower section on the west is ideal for families and snorkeling, while the more exposed east side has better wave action. It has been named one of America's best beaches on multiple occasions.

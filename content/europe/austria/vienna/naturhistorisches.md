@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
   - museumsquartier
+score: 8.8
 ---
 
 Vienna's natural history museum faces the Kunsthistorisches across Maria-Theresien-Platz, in an identical Ringstrasse-era palace. The collections are vast — 30 million specimens including the world's largest assemblage of meteorites — but the highlight is the Venus of Willendorf, an 11-centimetre limestone fertility figurine carved around 30,000 years ago in Lower Austria and one of the earliest known representations of the human form.

@@ -7,6 +7,7 @@ tags:
 latitude: 11.9500
 longitude: -86.0800
 snippet: A volcanic crater lake beside the city, visible from the Malecón with the volcano in the background
+score: 6.4
 ---
 
 Laguna de Masaya is a volcanic crater lake that sits directly beside the city, separated from the urban centre by a short walk to the Malecón (waterfront promenade). The lake fills one of the volcanic calderas of the same system as Volcán Masaya, and from the Malecón you get a view across the lake to the volcano on the far shore — a landscape that is simultaneously industrial and primally beautiful.

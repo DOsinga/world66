@@ -14,6 +14,7 @@ story: >
   dissolved calcium carbonate that it precipitates out wherever the flow slows.
   The Chinese name means "Yellow Dragon" — from above, the golden cascade of
   terraced pools resembles a dragon lying along the valley floor.
+score: 9.3
 ---
 
 Huanglong — Yellow Dragon — is a 7.5-kilometre valley high in the Min Mountains at around 3,500 metres, filled with the most vivid series of travertine pools in the world. More than 3,400 terraced pools step down the valley, their colours ranging from turquoise and emerald to milky white and gold depending on the angle of the light and the depth of the calcium deposits. A UNESCO World Heritage Site since 1992, it shares that listing with [Jiuzhaigou](/asia/china/sichuanprovince/jiuzhaigou) to the south.

@@ -7,6 +7,7 @@ tags:
   - insadong
 title: Pojangmacha Street Food Tents
 type: poi
+score: 7.5
 ---
 
 Pojangmacha are the orange-tented street food stalls that appear across Seoul from late afternoon until the early hours, serving a rotating cast of food and alcohol to workers, students, and late-night drinkers. The classic pojangmacha sells tteokbokki (spicy rice cakes), eomuk (fish cake on skewers), odeng (fish cake soup), tornado potatoes, and soondae (blood sausage stuffed with glass noodles and vegetables). Beer, soju, and makgeolli flow freely.

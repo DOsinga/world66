@@ -12,6 +12,7 @@ story: >
   independent king of the Gilbert Islands — a formidable character who held a monopoly on
   trade and kept his people in strict order. Stevenson's account in In the South Seas remains
   the most vivid portrait of pre-colonial Gilbertese society ever written.
+score: 8.5
 ---
 
 The lagoon of Abemama is one of the finest in the central Pacific — a shallow, enclosed expanse of water so clear you can see the coral heads from the surface. The atoll's rim encloses it almost entirely, and on calm days the surface is mirror-flat, reflecting the deep blue of the sky and the thin green line of the islets.

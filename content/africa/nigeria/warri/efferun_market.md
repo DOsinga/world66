@@ -8,6 +8,7 @@ tags:
   - cultural_heritage
 latitude: 5.5350
 longitude: 5.7250
+score: 6.9
 ---
 
 Efferun, the southern district of Warri that has effectively merged with the city, has one of the region's most active daily markets. The market is a working commercial hub — not a tourist attraction — where fresh produce, dried fish, palm oil, yams, garri, and an enormous variety of dried spices and local ingredients are sold alongside cheap manufactured goods, fabrics, and household items.

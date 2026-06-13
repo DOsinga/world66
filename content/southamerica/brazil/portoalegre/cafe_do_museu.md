@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Café do Museu (Casa de Cultura)
 type: poi
+score: 6.2
 ---
 
 The rooftop café of the Casa de Cultura Mário Quintana — sometimes called Café do Museu, sometimes just the café on the roof of the old hotel — is Porto Alegre's best-located coffee stop: a terrace on the top floor of the former Hotel Majestic, with views over the city centre rooftops to the Guaíba and the hills beyond. On weekend mornings, when the city below is still waking up and the light is soft, it is one of those places that makes you glad you are in the city at all.

@@ -6,6 +6,7 @@ longitude: 115.7416
 tags:
   - eating_out
   - bars_and_cafes
+score: 7.3
 ---
 
 Little Creatures opened on the eastern side of the Fishing Boat Harbour in 2000 in a converted boat shed and has become the most famous craft brewery in Australia, both for the beer and for the building. The vast hangar-like space — high ceilings, polished concrete, the brewing kit visible behind glass — is filled with long communal tables and is open for lunch, dinner, and drinks every day.

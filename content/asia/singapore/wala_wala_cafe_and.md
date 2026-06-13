@@ -11,6 +11,7 @@ tags:
 - bars_and_cafes
 title: Wala Wala Cafe and Bar
 type: poi
+score: 5.7
 ---
 
 A well-worn fixture in Holland Village, Wala Wala draws a mix of expats and locals with its relaxed two-storey setup. The ground floor is good for watching street life over a drink and some bar snacks. Head upstairs most nights and you'll find a live band — covers of everything from rock to pop — keeping the place loud and sociable well into the evening.

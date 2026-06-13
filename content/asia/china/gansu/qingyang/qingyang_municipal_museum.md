@@ -13,6 +13,7 @@ story: >
   but a deeply embedded cultural practice — Qingyang women have been making intricate
   cut-paper designs for weddings, festivals, and funerals for at least a thousand years,
   and the patterns encode symbolic meanings that older locals can still read fluently.
+score: 6.8
 ---
 
 The Qingyang Municipal Museum covers the region's history from the neolithic period through to the twentieth century, with the strongest material coming from the Yangshao and Zhou periods. The painted pottery collection is good, and the bronzeware section includes pieces that reflect the frontier character of this part of Gansu — objects that show influences from both the Central Plains and the steppe cultures to the north.

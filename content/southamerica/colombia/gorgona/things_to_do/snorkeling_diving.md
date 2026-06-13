@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 2.9710
 longitude: -78.1780
+score: 9.0
 ---
 
 The waters around Gorgona are among the richest in the Colombian Pacific. The island sits where cold, nutrient-dense upwellings from the Humboldt Current meet warmer surface water, and the result is exceptional marine diversity: reef fish, sea turtles, white-tipped reef sharks, rays, eels, and, during the right months, whale sharks.

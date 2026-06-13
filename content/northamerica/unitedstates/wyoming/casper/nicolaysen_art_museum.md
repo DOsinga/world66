@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Contemporary art museum and a respected children's discovery centre"
+score: 7.0
 ---
 
 A modern art museum housed in a converted 1920s power-station building two blocks off the river.

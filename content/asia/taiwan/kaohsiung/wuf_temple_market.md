@@ -8,6 +8,7 @@ tags:
 latitude: 22.6422
 longitude: 120.3030
 snippet: Crowded all-day market around the 350-year-old Sanfeng Temple
+score: 6.8
 ---
 
 Sanfeng Temple is one of Kaohsiung's oldest temples, founded in the 17th century and dedicated to the boy general Nezha. The surrounding lanes have become one of the city's busiest markets, with stalls and shops selling temple offerings, traditional snacks, dried goods, hardware, fabric and flowers.

@@ -10,6 +10,7 @@ tags:
   - odunpazari
 neighbourhood: Odunpazarı
 story: "Eskişehir produces almost all of the world's commercial meerschaum — lutfu taşı or 'foam of the sea' in Turkish — from clay seams near the village of Sepetçi, where it is mined from open pits and then aged underground before carving. The finest pieces are passed down through generations of pipe-makers; an unsmoked white pipe gradually turns a deep amber-red with use."
+score: 7.3
 ---
 
 Meerschaum — literally "sea foam" — is the soft white mineral that Eskişehir has produced for centuries and turned into pipes, beads, and figurines. The Meerschaum Museum, housed in a restored Ottoman building in Odunpazarı, displays both raw blocks and finished carvings, with explanations of how the material is mined, cured, and worked.

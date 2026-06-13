@@ -8,6 +8,7 @@ latitude: 29.3515
 longitude: 110.4615
 story: >
   The Bailong Elevator was built between 1999 and 2002, bolted directly onto the cliff face of a quartzite column. Chinese engineers had to design a structure that could carry thousands of visitors daily while remaining anchored to rock that could not be drilled through conventionally. When it opened it was immediately controversial — international conservation groups objected to the industrial infrastructure in a UNESCO World Heritage site — but it became one of the most popular single attractions in Hunan.
+score: 7.4
 ---
 
 The Bailong Elevator rises 326 metres up the face of a sandstone cliff, making it the world's tallest outdoor elevator. Three parallel shafts carry visitors between the valley floor and the plateau above in less than two minutes, with glass walls that allow the surrounding columns and forest to come fully into view as the ground drops away below.

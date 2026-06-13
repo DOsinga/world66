@@ -7,6 +7,7 @@ snippet: "Hilltop villages and vineyards just west of Nova Gorica"
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The Brda hills begin on the western edge of Nova Gorica and roll for about twenty kilometres up to the Italian Collio. The same geology, the same grapes, the same families on both sides of an arbitrary border — when border controls finally went in 2004, locals on both sides celebrated by tearing the customs gates down themselves. Today this is one of the best wine regions in Slovenia, particularly for Rebula (Ribolla Gialla) and the orange skin-contact whites that put the region on the international map.

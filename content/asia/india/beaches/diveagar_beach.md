@@ -6,6 +6,7 @@ tags:
   - beaches
 latitude: 18.1685
 longitude: 72.9930
+score: 6.6
 ---
 
 Diveagar sits about 170 km south of Mumbai along the Konkan coast, reachable from the Mumbai-Goa highway via Kolad or Karnala. The beach stretches roughly six kilometers, backed by dense casuarina (suru) groves and belu trees that are otherwise uncommon in the area.

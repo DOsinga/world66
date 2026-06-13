@@ -7,6 +7,7 @@ tags:
   - northeast
 latitude: 44.9994
 longitude: -93.2525
+score: 6.9
 ---
 
 Indeed Brewing opened in 2012 in the Nordeast neighbourhood and quickly established itself as one of the more creative craft breweries in Minneapolis, known for experimental seasonal beers and a comfortable taproom. The taproom space is large and casual, with long communal tables, rotating food trucks parked outside, and a beer program that covers everything from approachable pale ales to sour and barrel-aged specialties.

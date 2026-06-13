@@ -4,6 +4,7 @@ type: poi
 latitude: -14.0875
 longitude: -75.7625
 tags: [things_to_do, activity]
+score: 7.6
 ---
 
 The dunes around Huacachina rise more than 100 metres above the oasis and are perfect for sandboarding. Boards can be hired for a few soles at the oasis; for a more guided experience, the standard dune-buggy tours include several boarding runs of increasing steepness.

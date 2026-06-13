@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.1308
 longitude: 4.5672
+score: 7.0
 ---
 
 Housed in a fine 18th-century mansion near the Beguinage, this museum holds a collection of Flemish paintings from the 16th to 18th centuries assembled by the Wuyts-Van Campen family and later expanded by the Baron Caroly collection. The emphasis is on genre scenes, still lifes, and landscapes from the Golden Age of Flemish painting, displayed in room settings that feel closer to a wealthy private house than a formal gallery.

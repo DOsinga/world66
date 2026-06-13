@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.2750
 longitude: 108.0500
+score: 6.7
 ---
 
 The An Cu Lagoon lies behind the Lang Co spit, a wide shallow body of brackish water connected to the sea by a narrow channel. From the road bridge above the channel you can watch boats slide in and out with the tide and see the patchwork of bamboo poles and floating cages where the village raises oysters, fish and prawns.

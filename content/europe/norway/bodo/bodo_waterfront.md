@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 67.2860
 longitude: 14.3900
+score: 6.5
 ---
 
 The Bodø waterfront runs along the northern edge of the city centre, centred on the ferry terminal and the Sjøgata quayside. This is the working face of the city: Lofoten ferries berth here, fishing boats unload, and the Hurtigruten coastal steamer calls in twice a day (northbound and southbound). On a summer evening the quayside fills with people eating takeaway fish and watching the boat traffic.

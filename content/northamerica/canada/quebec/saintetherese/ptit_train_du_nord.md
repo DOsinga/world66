@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The trail follows the bed of the old Laurentian railway, which ran from Saint-Jérôme up to Mont-Laurier from 1876 until the line closed for passenger service in 1981. The province turned the corridor into a linear park in the 1990s and it has become one of Canada's longest rail-trails — 232 kilometres end to end."
+score: 6.7
 ---
 
 The P'tit Train du Nord is a 232-kilometre linear park that follows the old railway corridor north from Saint-Jérôme into the Laurentian highlands, passing through Sainte-Thérèse on the way. The Sainte-Thérèse access point is just north of the centre, with parking, a refreshment kiosk in season, and a small visitor map.

@@ -8,6 +8,7 @@ tags:
   - bar
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 7.4
 ---
 
 A proper Basque cider house in the old town, where the cider is poured from barrels in a thin stream into wide glasses (a technique called "txotx") and the menu is the traditional fixed sequence: cod omelette, salt cod with peppers, beef chop, walnuts and Idiazabal cheese.

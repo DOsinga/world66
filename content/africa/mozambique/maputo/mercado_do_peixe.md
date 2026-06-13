@@ -12,6 +12,7 @@ tags:
   - market
   - seafood
 neighbourhood: Costa do Sol
+score: 7.4
 ---
 
 The **Mercado do Peixe** on the Costa do Sol is a Maputo institution and the city's best-value seafood experience. Pick your fish, prawns or lobster from the morning's catch at one of the long marble counters; pay by weight; then carry the bag across the courtyard to one of the small restaurants ringing the market, where they will grill or fry the lot for a small cooking fee. Add a salad, a plate of *xima* and a Laurentina, and you have a feast for half the restaurant price.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 28.6850
 longitude: 115.9050
+score: 7.2
 ---
 
 The Shengmi Lane Historic Block (胜利路历史文化街区) preserves a stretch of Republican-era streetscape in Donghu district, with two-story shophouses, stone-paved lanes, and decorative Baroque and Neoclassical facades that reflect the architectural hybridization of 1920s and 1930s Chinese cities. Several buildings have been restored as cafes, bookshops, and craft studios, which brings pedestrian life back to the streets without overwhelming the historic character.

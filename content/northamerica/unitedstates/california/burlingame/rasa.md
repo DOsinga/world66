@@ -9,6 +9,7 @@ longitude: -122.346048
 snippet: "Modern Indian restaurant on Burlingame Avenue with upscale South Asian cooking"
 sources:
   - https://en.wikipedia.org/wiki/Rasa_(restaurant)
+score: 6.8
 ---
 
 Rasa is one of Burlingame Avenue's best restaurants — a modern Indian place that moves beyond the buffet format into more composed, regional Indian cooking. The menu draws on cuisines from across the subcontinent: coastal Kerala fish preparations sit alongside Punjabi dishes and more unusual items from the northeast. The presentation is considered without being fussy.

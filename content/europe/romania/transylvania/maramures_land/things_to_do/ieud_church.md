@@ -9,6 +9,7 @@ latitude: 47.7375
 longitude: 24.2633
 sources:
   - https://en.wikipedia.org/wiki/Wooden_churches_of_Maramure%C8%99
+score: 8.8
 ---
 
 Ieud has two wooden churches and is the place to come if you want to understand what makes Maramureș church architecture so remarkable. The older of the two — the Church of the Nativity, sometimes called the Hill Church — dates from the 17th century and is thought to be the oldest surviving wooden church in Romania. It stands on a rise above the village surrounded by old trees, its shingle roof and soaring spire blackened with age.

@@ -7,6 +7,7 @@ tags:
 latitude: 38.8604
 longitude: -77.0424
 snippet: Riverside park directly under Reagan National Airport's final approach
+score: 6.8
 ---
 
 A narrow strip of grass and riverside path just north of Reagan National Airport's runway, where aircraft on final approach pass about 30 metres overhead at full throttle. It is the most accessible plane-spotting location on the East Coast — no barrier between you and the aircraft, just open sky and noise.

@@ -7,6 +7,7 @@ tags:
 - experience
 title: Vanilla Plantations
 type: poi
+score: 7.1
 ---
 
 Lifou produces some of the best vanilla in the Pacific — a small, almost cottage-scale industry run by Drehu families on customary land. Several producers welcome visitors for short tours showing how the vines are hand-pollinated, the green pods cured in the sun, and the finished beans sorted and graded.

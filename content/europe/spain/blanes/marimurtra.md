@@ -10,6 +10,7 @@ story: >
   Marimurtra was created by the German-born botanist Karl Faust, who bought the clifftop site in 1919 and spent decades cultivating it. Faust was motivated partly by scientific interest and partly by a vision of Mediterranean landscape gardening as an art form in itself. After his death the garden was bequeathed to a foundation that still maintains it today.
 sources:
   - https://en.wikipedia.org/wiki/Marimurtra_Botanical_Garden
+score: 8.5
 ---
 
 The Marimurtra Botanical Garden clings to a cliff above the sea at the north end of Blanes, and the views alone would justify the visit. From the terraced paths you look directly down to the water and across to the rocky headlands of the lower Costa Brava — some of the best scenery on the coast.

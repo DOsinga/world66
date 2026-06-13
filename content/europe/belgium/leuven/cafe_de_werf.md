@@ -7,6 +7,7 @@ snippet: "Long-established brown café off the Oude Markt with Belgian ales on t
 tags:
   - bars_and_cafes
   - bar
+score: 5.3
 ---
 
 Café De Werf is the kind of traditional Belgian brown café that Leuven used to have many more of — a dim, woody interior, wooden tables, and a blackboard listing the beers on tap alongside a short food menu of soups and cheese plates. It sits a short distance from the Oude Markt's main concentration of bars, which means it tends to attract a slightly more mixed crowd: students alongside regulars who have been drinking here for decades.

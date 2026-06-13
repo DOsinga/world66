@@ -6,6 +6,7 @@ longitude: 56.0833
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Suwaidi Pearls is the only working pearl farm in the UAE, run by Abdulla Al Suwaidi, the grandson of one of the last commercial pearl divers active before the industry collapsed in the 1930s. The farm sits in the calm waters of the Al Rams creek north of the city, and visits are by guided tour only — book ahead.

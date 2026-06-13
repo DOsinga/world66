@@ -10,6 +10,7 @@ story: >
   At midday around the summer solstice (December 21–22), a shaft of sunlight falls through a natural opening in the roof of the Cathedral Cave and lights up the cave floor in a circle of bright white light. This solar event, known locally as the "Cathedral Christmas", draws visitors who time their trip specifically for it. The effect lasts only a few minutes but is worth the wait.
 sources:
   - https://en.wikipedia.org/wiki/Rockhampton
+score: 8.2
 ---
 
 The Capricorn Caves are a network of ancient limestone caves 23 kilometres north of Rockhampton in the Berserker Ranges, and they are the most compelling natural attraction in the immediate area. The caves have been used by Aboriginal people for tens of thousands of years and were opened to European visitors in 1882. Several kilometres of passages have been explored, though the guided tours cover the main chambers.

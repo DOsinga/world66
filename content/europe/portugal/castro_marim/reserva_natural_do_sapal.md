@@ -14,6 +14,7 @@ story: >
   current Salmarim cooperative still harvests fleur de sel by hand using
   techniques essentially unchanged since the Moors refined them in the 9th
   century.
+score: 8.0
 ---
 
 The reserve covers more than 2,000 hectares of tidal mudflat, salt pan, and dry scrub along the Guadiana estuary — the first nature reserve created in Portugal, designated in 1975. It is on a major migration route, and the bird list runs to over 200 species: greater flamingo, spoonbill, white stork, kentish plover, avocet, and a healthy population of breeding little terns.

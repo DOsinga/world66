@@ -8,6 +8,7 @@ tags:
 latitude: 12.000
 longitude: 8.52
 snippet: Roadside grills selling Kano's defining street food — spiced beef skewers cooked over charcoal
+score: 6.6
 ---
 
 Suya is northern Nigeria's most beloved street food, and Kano is widely considered its spiritual home. At dusk, roadside suya stands materialise across the city — men in white singlets fanning smoke from long charcoal grills loaded with skewers of thin-sliced beef, chicken, or ram, coated in a spice blend (*yaji*) of ground peanuts, ginger, paprika, and chilli. The meat cooks fast over intense heat and is served wrapped in newspaper with fresh onion, tomatoes, and extra yaji.

@@ -14,6 +14,7 @@ story: >-
   net-zero electricity contribution. The "view pod" inside the nacelle —
   a glass-floored viewing chamber four metres behind the spinning blades —
   was added partly to win over public opinion.
+score: 6.4
 ---
 
 The Eye of the Wind is the 1.5-megawatt working wind turbine at the summit of Grouse Mountain, the only one in the world with a public viewing platform inside the nacelle behind the rotor hub. A glass elevator carries up to 12 visitors at a time 65 metres up the column to a small circular glass-floored room. From inside you watch the blades pass overhead, look directly down at the mountain trails below, and — on a clear day — see across the Strait of Georgia to Vancouver Island.

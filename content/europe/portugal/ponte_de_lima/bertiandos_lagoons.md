@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Protected wetland reserve 4 km west, excellent for birdwatching"
+score: 7.5
 ---
 
 A small protected landscape about 4 km west of town, where seasonal lagoons form along the Lima floodplain and attract impressive numbers of migratory birds in autumn and winter. The reserve covers a few hundred hectares of wetland, gallery forest, and meadow — unusual terrain in a region otherwise dominated by vineyards and pasture.

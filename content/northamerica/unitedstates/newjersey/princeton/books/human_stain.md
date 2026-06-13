@@ -5,6 +5,7 @@ author: "Philip Roth"
 isbn: "978-0099282198"
 tags:
   - books
+score: 5.5
 ---
 
 The third novel in Roth's American Trilogy is set in fictional Athena College, a thinly-veiled version of a New England liberal arts campus rather than Princeton — but the novel's central conceit (a classics professor destroyed in a single word's worth of academic outrage) and its rendering of late-twentieth-century campus politics will be deeply familiar to anyone walking around a place like Princeton.

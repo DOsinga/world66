@@ -9,6 +9,7 @@ longitude: 15.6414
 snippet: "Medieval fortification tower where condemned prisoners spent their last nights"
 story: >
   The tower takes its name from its use as a holding cell for prisoners condemned to death. They spent their final nights here before execution. According to local records, the tower was also used to imprison women accused of witchcraft in the 16th and 17th centuries. The name — Sodni stolp, literally "judicial tower" — has stuck for five centuries.
+score: 6.4
 ---
 
 The Judgement Tower (Sodni stolp) is one of the surviving elements of Maribor's medieval town walls, a squat round tower that once formed part of the fortifications along the Drava. It stands near the western end of the Lent promenade and is one of the more atmospheric old structures in the city. The tower is now used as an exhibition space and you can climb to the top for a view over the riverside.

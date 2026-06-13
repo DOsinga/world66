@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9647
 longitude: 79.7840
+score: 7.8
 ---
 
 Kanchipuram is the silk capital of Tamil Nadu, and the city's other great tradition — after its temples — is the production of Kanchipuram silk saris. The saris are made from pure mulberry silk with broad zari (gold thread) borders, traditionally woven in two or three contrasting colours using a technique where the body and border are interlocked rather than sewn. They are considered among the finest in India and are the standard wedding gift across Tamil Nadu and much of south India.

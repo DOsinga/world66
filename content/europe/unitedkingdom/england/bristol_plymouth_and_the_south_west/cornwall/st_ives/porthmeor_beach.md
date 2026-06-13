@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.2151
 longitude: -5.4830
+score: 7.9
 ---
 
 Porthmeor is the surf beach, facing the open Atlantic on the north side of St Ives. The waves here can be substantial and there is surf hire and instruction available from several outfitters on the beach. RNLI lifeguards patrol during summer months.

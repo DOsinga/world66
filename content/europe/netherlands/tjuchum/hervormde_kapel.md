@@ -5,6 +5,7 @@ latitude: 53.309
 longitude: 6.905
 snippet: "A compact Amsterdam School chapel from 1928, the only national monument in the village"
 tags: [things_to_do, sight, historic]
+score: 6.8
 ---
 
 The Hervormde Kapel on Hoofdweg is Tjuchem's sole Rijksmonument — a modest but carefully designed single-storey chapel built in 1928 for the local Dutch Reformed evangelism society. The architect, Evert Rozema from Appingedam, worked in the regional variant of the Amsterdam School style: the building has expressive brickwork, wooden roof beams, and a small roof turret that signals its purpose from the road without making grand claims about it.

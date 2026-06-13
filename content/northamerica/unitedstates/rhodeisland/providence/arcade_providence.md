@@ -14,6 +14,7 @@ story: >
   it was empty and threatened with demolition. The 2013 conversion into
   micro-apartments — some as small as 225 square feet — was one of the first
   such adaptive-reuse projects in New England.
+score: 7.6
 ---
 
 The Greek Revival building at 130 Westminster Street was built in 1828 and is the oldest enclosed shopping arcade in the United States. Two monumental granite colonnaded facades frame a three-story interior of cast iron and skylights. After years of vacancy, the upper floors were converted into micro-loft apartments in 2013; the ground floor holds a handful of small restaurants, artisan shops, and food vendors.

@@ -10,6 +10,7 @@ tags:
 - story
 title: Maison des Esclaves
 type: poi
+score: 9.1
 ---
 
 The House of Slaves is the island's most visited and most haunting site. Built around 1776, it served as a trading house and holding facility during the Atlantic slave trade. The small, dark cells where enslaved people were held before being loaded onto ships give the place its terrible power — and the "Door of No Return," opening directly onto the sea, has become one of the most potent symbols of the slave trade in the world.

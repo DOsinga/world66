@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.6624
 longitude: 9.1762
+score: 8.7
 ---
 
 The Münster rises from the highest point of the old town, its Romanesque foundations dating to the eleventh century and its tower added in the fifteenth. The interior is a mix of periods — Romanesque crypt, Gothic nave, Renaissance chapels — and the whole thing survived the war intact, which gives it a completeness you rarely find in German church architecture.

@@ -12,6 +12,7 @@ story: >
   saturated the crater lake and the mountainside gave way, burying the settlement
   of Ciudad Vieja entirely. The disaster prompted the Spanish to move the capital
   to the site of modern Antigua.
+score: 7.5
 ---
 
 Volcán de Agua is the cone that defines Antigua's southern horizon — an almost geometrically perfect stratovolcano rising to 3,760 metres, visible from the city streets and, on clear days, from as far away as Guatemala City. Unlike its neighbours Acatenango and Fuego, Agua is dormant: no eruptions in recorded history since the catastrophic lahar of 1541.

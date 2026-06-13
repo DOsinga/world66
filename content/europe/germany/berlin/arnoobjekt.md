@@ -8,6 +8,7 @@ tags:
 - charlottenburg
 title: Arno Objekt
 type: poi
+score: 5.6
 ---
 
 A designer lighting showroom near Savignyplatz stocked with modern lamps, pendants, and sculptural fixtures in every shape and size. Worth a look if you're into contemporary interior design, even if you're not buying — the displays themselves are eye-catching. Nearest station is S Savignyplatz.

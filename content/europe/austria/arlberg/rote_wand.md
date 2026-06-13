@@ -7,6 +7,7 @@ tags:
   - lech
 latitude: 47.2342
 longitude: 10.1378
+score: 6.5
 ---
 
 The Rote Wand sits in the small hamlet of Zug, a couple of kilometres above Lech, and is reached either by ski or by horse-drawn sleigh from the village. The hotel restaurant has held a Michelin star for years; the more atmospheric option is the Schualhus next door, which serves a fondue-and-grill menu in a series of historic wood-panelled stube rooms.

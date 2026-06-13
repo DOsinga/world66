@@ -9,6 +9,7 @@ tags:
   - beach
 title: Playa de Los Guíos
 type: poi
+score: 7.5
 ---
 
 Playa de Los Guíos is a small black-sand beach tucked below the cliffs beside the marina. It is not large, and it can feel crowded quickly, but the setting is one of the most memorable on Tenerife: dark sand, blue water, boats, and the cliffs rising immediately behind.

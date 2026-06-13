@@ -10,6 +10,7 @@ tags:
 - shopping
 - neighbourhood
 - sight
+score: 6.9
 ---
 
 A small but walkable shopping and dining district at the south end of town, near the border with Torrance. The streets — Avenue I, Catalina Avenue, Esplanade — are lined with boutiques, surf shops, salons, cafés and small restaurants, mostly independent rather than chain operations. The architecture is low-rise, the streets are wide and palm-shaded, and outdoor tables spill from most of the restaurants.

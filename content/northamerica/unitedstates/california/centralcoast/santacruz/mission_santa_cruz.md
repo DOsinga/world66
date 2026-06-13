@@ -9,6 +9,7 @@ latitude: 36.9781
 longitude: -122.0294
 story: >
   The original Mission Santa Cruz, founded in 1791, was repeatedly damaged by earthquakes — a problem endemic to California's missions, most of which were built by Native Californian forced labour on unstable soils near fault lines. The current structure is a one-third-scale reproduction built in 1931 from photographs and historic descriptions of the original. Ironically, the reproduction is better preserved than almost all the surviving original missions, having been built with modern foundations.
+score: 6.8
 ---
 
 A small reproduction of the original 1791 California mission, built in 1931 at one-third scale from historic photographs of the original building, which was destroyed by earthquake. The reproduction stands on the downtown plaza and contains a museum covering the mission period and the fate of the Ohlone people who were brought here — sometimes by force — to be converted and put to work.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.395405
 longitude: 8.796589
+score: 7.1
 ---
 
 The Neckar Valley between Neckargemünd and Heidelberg offers one of the most pleasant flat river paths in the region — about 12 kilometres of well-maintained trail along the riverbank, suitable for walking or cycling. The route passes through woodland, farmland, and the riverside village of Ziegelhausen, with the wooded hillsides closing in overhead and occasional views of ruined castle towers on the heights.

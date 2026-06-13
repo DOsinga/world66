@@ -6,6 +6,7 @@ latitude: 49.2086
 longitude: 5.4322
 snippet: "Lantern-tower ossuary holding the bones of at least 130,000 unidentified soldiers"
 story: "The ossuary's 46-metre lantern tower was built so that its light could be seen across the entire battlefield. Through small windows around its base, visitors can look in at piles of bones brought up from the field — French and German mingled together, since after a year of artillery duels few were identifiable as either."
+score: 8.8
 ---
 
 The Ossuaire de Douaumont stands on the ridge above Verdun, its lantern tower visible for miles across the plateau. It was completed in 1932 to house the unidentified remains gathered from the battlefield of the 1916 Battle of Verdun — eventually at least 130,000 French and German soldiers. The interior is a long vaulted gallery of marble tombs, each engraved with the names of the missing of one sector of the battlefield.

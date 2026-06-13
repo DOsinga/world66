@@ -9,6 +9,7 @@ latitude: 38.0903
 longitude: -122.2633
 story: >
   The first ship built at Mare Island, the USS Saginaw, was commissioned in 1860. The last ship repaired there before the base closed in 1996 was a submarine. In between, the shipyard built or serviced over 500 vessels, including the submarines that patrolled the Pacific in World War II. The base closure ended 142 years of continuous Navy presence and eliminated thousands of jobs — the impact on Vallejo's economy took decades to recover from.
+score: 8.6
 ---
 
 Mare Island Naval Shipyard — the first US Navy base established on the Pacific Ocean — occupies a peninsula across the Napa River from downtown Vallejo. It operated for 142 years, from 1854 to 1996, building and repairing Navy vessels from the Civil War through the Cold War. Since closure, the island has been gradually redeveloped as a mixed-use district with historic preservation at its core.

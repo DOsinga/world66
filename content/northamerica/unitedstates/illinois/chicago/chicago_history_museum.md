@@ -15,6 +15,9 @@ tags:
 title: Chicago History Museum
 type: poi
 url: www.chicagohistory.org
+sources:
+- https://en.wikipedia.org/wiki/Chicago_History_Museum
+score: 8.1
 ---
 
 The Chicago History Museum does justice to one of America's most eventful urban histories. The permanent collection covers the Great Chicago Fire of 1871, the rise of the meatpacking industry, the labour movement, the 1919 race riots, and the city's extraordinary musical legacy from blues and jazz through house and Chicago rap. The "Chicago: Crossroads of America" exhibit is the best single overview of the city's development.

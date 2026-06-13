@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.1980
 longitude: 26.2130
+score: 5.8
 ---
 
 The beach at Skala Kalloni is a long, gently sloping stretch of coarse sand and fine gravel at the head of the Gulf of Kalloni, a deep inlet that reaches 20 km into the interior of Lesbos. The water is shallow and warms quickly in summer, making it one of the most comfortable swimming beaches on the island for children. The beach extends for well over a kilometre, with beach bars at the village end and quieter stretches further along.

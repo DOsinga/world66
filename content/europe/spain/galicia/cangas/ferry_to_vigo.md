@@ -12,6 +12,7 @@ story: >
   work and shopping. Standing on the deck as Vigo's port fills the view ahead,
   with the hills of Cangas shrinking behind, is one of those small Galician
   pleasures that costs almost nothing.
+score: 6.7
 ---
 
 The ferry crossing between Cangas and Vigo is the nicest way to arrive in Cangas, and in its own right one of the better things to do here. The crossing takes about 30 minutes and runs frequently throughout the day and evening. The views of both towns from the water — and of the ría itself — are excellent.

@@ -5,6 +5,7 @@ latitude: 15.213
 longitude: 145.723
 snippet: "National park on the Garapan waterfront commemorating American and indigenous CNMI casualties of the 1944 battle."
 tags: [things_to_do, sight, historic, museum]
+score: 8.4
 ---
 
 American Memorial Park occupies a stretch of the Garapan waterfront and is administered by the US National Park Service. The park's Court of Honor has a flag circle and the American Memorial — a tall white structure bearing the names of the 1,000-plus Americans and more than 900 Chamorro and Carolinian civilians killed in the Battle of Saipan and the broader Mariana Islands campaign. The park also includes a museum building (the Visitor Center) with well-organized exhibits on the battle and on Chamorro and Carolinian culture before, during, and after the Japanese colonial period.

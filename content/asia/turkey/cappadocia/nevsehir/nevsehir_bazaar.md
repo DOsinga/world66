@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 38.6255
 longitude: 34.7155
+score: 6.3
 ---
 
 The covered market area around the central bazaar district is where Nevşehir does its actual business, and it has a more authentic feel than the tourist-saturated markets of Göreme or Ürgüp. Pottery from nearby Avanos, Cappadocian wines, dried fruit and nuts, and local textiles are all available at prices aimed at the local population.

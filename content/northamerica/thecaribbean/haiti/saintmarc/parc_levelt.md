@@ -6,6 +6,7 @@ longitude: -72.6958
 tags:
   - things_to_do
   - sport
+score: 6.2
 ---
 
 Parc Levelt is Saint-Marc's football stadium, a modest concrete bowl that serves as home ground for the local club and as the town's main venue for big events. There is nothing architecturally notable about it, but a Sunday match — when the stands fill up with a few thousand vocal supporters and roving compas bands — is one of the best ways to see Saint-Marc in a good mood.

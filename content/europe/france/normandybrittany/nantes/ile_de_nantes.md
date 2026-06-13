@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 47.207
 longitude: -1.558
+score: 8.1
 ---
 
 The Île de Nantes is a 5-kilometre-long island in the Loire that was, until the early 21st century, dominated by the massive former shipyards of the Dubigeon and Chantiers de l'Atlantique companies. The yard is now closed, but the island has been transformed into one of the most interesting urban regeneration projects in France — home to Les Machines de l'Île, the regional theatre, a cluster of architecture and design schools, restaurants and cultural venues.

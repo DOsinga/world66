@@ -12,6 +12,7 @@ story: >
   said to refuse food from anyone with bad intentions. Films and bad
   behaviour at the site have caused tensions in recent years; a guide
   is essential.
+score: 8.3
 ---
 
 A short drive south of Bobo-Dioulasso, the sacred pools of Dafra lie at the foot of a rocky cliff, where huge catfish — some over a metre long — surface from the deep green water to take offerings from pilgrims and visitors. The site is a working shrine for the Bobo people, and the fish are considered sacred messengers.

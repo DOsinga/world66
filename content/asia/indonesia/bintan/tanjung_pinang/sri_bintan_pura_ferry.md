@@ -6,6 +6,7 @@ longitude: 104.4465
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 Sri Bintan Pura is the international ferry terminal that connects Tanjung Pinang to Singapore. In practical terms it is where most foreign visitors arrive — but the terminal is also worth understanding as a piece of the city's economic geography. The waterfront around it, when ferries are loading and unloading, is a genuinely vivid scene: Singaporean day-trippers with duty-free bags, Indonesian migrant workers returning home with enormous packages of goods, fishermen selling the morning catch from the dockside, and the constant transit of sampans between the terminal and Penyengat Island.

@@ -8,6 +8,7 @@ tags:
 latitude: 50.4595
 longitude: 30.5198
 story: "Tradition holds that the Apostle Andrew planted a cross on this hill in the first century, prophesying that a great Christian city would rise on the spot — the only reason a major Baroque church was built at the top of an impossibly steep, geologically unstable hillside in the 18th century."
+score: 8.6
 ---
 
 A small Baroque jewel commanding the highest viewpoint above the Dnieper. Bartolomeo Rastrelli — court architect to Empress Elizabeth — designed it in 1747-1754 in the same Italianate Baroque idiom he used at the Winter Palace and Catherine Palace in Saint Petersburg.

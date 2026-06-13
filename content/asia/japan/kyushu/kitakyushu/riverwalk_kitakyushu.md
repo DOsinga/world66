@@ -14,6 +14,7 @@ story: >
   intended to recreate the sensation of wandering through a complex urban environment
   inside a single building. The result is odd by Japanese shopping centre standards:
   more chaotic, more European in feeling, and harder to navigate than the usual grid-layout mall.
+score: 4.9
 ---
 
 Riverwalk Kitakyushu is a shopping and cultural complex on the bank of the Murasaki River, directly adjacent to Kokura Castle. The building — colourful, layered, and architectural distinctive — contains shops, restaurants, a cinema, and the Kitakyushu Art Museum annex. Its position next to the castle creates an interesting visual contrast between feudal and contemporary Kokura.

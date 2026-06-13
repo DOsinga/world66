@@ -12,6 +12,7 @@ story: >
   administration and has continued without interruption through wars, population
   exchanges, and border changes. It is one of the few functioning Ottoman-era
   market traditions in Greece.
+score: 8.2
 ---
 
 The Saturday bazaar in Xanthi is one of the biggest and most authentic traditional markets in northern Greece. It has operated in the same location for centuries, and it shows: the format — farmers selling produce directly from their vehicles, stalls of textiles, tools, second-hand goods, household items, and local food products — retains its old-fashioned character despite the modern town around it.

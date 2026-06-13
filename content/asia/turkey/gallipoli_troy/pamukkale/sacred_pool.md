@@ -9,6 +9,7 @@ tags:
 title: Sacred Pool (Cleopatra's Pool)
 type: poi
 story: "Local tradition says Mark Antony gave the pool to Cleopatra as a wedding gift. The submerged columns and marble fragments are real — they fell from a Roman portico in the great earthquake of AD 60 — but the Cleopatra story is almost certainly later embroidery for the Ottoman tourist trade."
+score: 6.3
 ---
 
 A naturally heated swimming pool fed by mineral springs at the centre of the Hierapolis site, with marble columns and broken architraves lying on the bottom from a building destroyed in a 7th-century earthquake. The water is 36°C year-round, lightly carbonated, faintly sulphurous, and full of bubbles that cling to the skin.

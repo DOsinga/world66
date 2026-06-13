@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - architecture
 snippet: Covered wooden bridge on the approach to the shrine, dating from 1869
+score: 6.2
 ---
 
 A small covered wooden bridge over the Kongō River on the main approach to Konpira-san, built in 1869 in a style unusual in this part of Japan. The roof is tile-covered and overhanging; the structure is supported by stone pillars and forms a small dim tunnel about thirty metres long. The bridge sits at the edge of the old shrine town, just before the first torii gate of the climb.

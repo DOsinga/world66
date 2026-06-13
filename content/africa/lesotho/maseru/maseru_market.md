@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 6.4
 ---
 
 The bustling open market on Pioneer Road is the everyday heart of central Maseru — stalls heaped with vegetables, sacks of maize, second-hand clothes, and electronics, with the warm smells of grilled meat and fat cakes (vetkoek) drifting between them. Vendors are happy to chat but firm on prices.

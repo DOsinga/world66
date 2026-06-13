@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Martin's on Eighth
 type: poi
+score: 5.8
 ---
 
 An upscale restaurant on Stephen Avenue serving steaks, grilled mussels, cedar-baked salmon, and a solid wine list. The dining room is on the main floor with a lounge upstairs. A good choice for a proper sit-down dinner in the downtown core.

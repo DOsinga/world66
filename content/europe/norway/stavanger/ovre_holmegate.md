@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 58.9699
 longitude: 5.7325
+score: 6.4
 ---
 
 A short pedestrian street painted in vivid, mismatched colours — each building a different hue — that has become both a Stavanger landmark and its main bar strip. The colour scheme was the idea of hairdresser Tom Kjørsvik and artist Craig Flannigan in the early 2000s, who persuaded the building owners to repaint their facades together. What was a slightly run-down street became one of the most photographed and visited in the city.

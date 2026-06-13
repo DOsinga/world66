@@ -8,6 +8,7 @@ latitude: 11.4102
 longitude: 76.6950
 story: >
   The Nilgiri Mountain Railway was built between 1891 and 1908 using a Swiss rack-and-pinion system — the only such system in India — to climb gradients up to 1 in 12.5. The locomotive pushes from behind on the ascent, breathing steam through the tunnels and over the viaducts. The journey from Mettupalayam to Ooty takes nearly five hours and covers just 46 km.
+score: 8.8
 ---
 
 The Nilgiri Mountain Railway is one of the great railway journeys in Asia: a UNESCO World Heritage narrow-gauge line that climbs from the hot plains at Mettupalayam (326 m) to the cool hill station of Ooty (2,203 m) through 16 tunnels and over 31 bridges in a distance of 46 km. The steam locomotives used on the lower section are among the last in regular service in India.

@@ -7,6 +7,7 @@ tags:
 latitude: 41.9200
 longitude: -6.8000
 story: "The Iberian wolf lives in Montesinho — a genuinely wild population that persists in the oak forests and river valleys of this high plateau. Sightings are rare, but the park's rivers, particularly the Onor and the Sabor, are good places to look at dusk. The villages inside the park, some with fewer than 50 residents, maintain a way of life — communal grazing, stone construction, communal bread ovens — that has almost vanished elsewhere in western Europe."
+score: 8.7
 ---
 
 Montesinho Natural Park begins immediately north of Bragança and covers a large tract of rolling hills, oak forest, and rocky river valleys along the Spanish border. It is one of the wildest and least-visited protected areas in Portugal, which is exactly its appeal. Wolves and otters live here; the birdwatching is excellent; the stone villages inside the park are as quiet and traditional as any in the country.

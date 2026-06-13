@@ -13,6 +13,7 @@ story: >
   religious orders were dissolved by the Portuguese government. The recipe has
   never been published and is known only to a small number of confeiteiros who
   work in the kitchen. The shop produces an estimated 20,000 tarts per day.
+score: 8.2
 ---
 
 The original home of the pastel de nata, the custard tart that has become Portugal's most exported food icon. The recipe dates to 1837 when monks from the adjacent Jerónimos Monastery began selling their custard tarts to survive after the dissolution of the religious orders. The secret recipe has been handed down in a single family since then.

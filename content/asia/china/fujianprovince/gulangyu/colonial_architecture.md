@@ -9,6 +9,7 @@ latitude: 24.4480
 longitude: 118.0620
 story: >
   At its peak in the 1930s, Gulangyu hosted thirteen foreign consulates and a total of over twenty nationalities. The Americans, British, Germans, Japanese, Dutch, and Spaniards each built in their own stylistic tradition, sometimes blending with local Fujianese construction methods, sometimes ignoring local context entirely. The result is an architectural layer cake compressed into two square kilometers — a built record of the international order that collapsed between 1937 and 1949.
+score: 7.5
 ---
 
 The back lanes of Gulangyu, away from the commercial drag near the ferry terminal, are the best place to experience the island's extraordinary architectural mix. Victorian mansions with Doric columns stand next to Spanish-style villas with terracotta tile roofs; Japanese-era buildings in a stripped classical style face Fujianese shophouses with carved eaves; mid-century modernist blocks interrupt rows of 19th-century construction. The effect is not chaotic — the scale is consistently low and the lane widths consistent — but it is unlike anything else in China.

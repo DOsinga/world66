@@ -5,6 +5,7 @@ tags:
 - shopping
 title: Ibn Battuta Mall
 type: poi
+score: 5.9
 ---
 
 Ibn Battuta Mall is themed around the travels of the 14th-century Moroccan explorer Ibn Battuta, with six sections representing the countries he visited — Morocco, Andalusia, Tunisia, Persia, India, and China — each decorated in an elaborate architectural pastiche of the respective region. The Persia court's domed ceiling is genuinely impressive; the China court has a full-scale replica junk suspended from the ceiling.

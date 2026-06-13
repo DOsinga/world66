@@ -12,6 +12,7 @@ tags:
 - berlinmitte
 title: Tukadu
 type: poi
+score: 5.7
 ---
 
 A small shop selling handmade bead jewelry and accessories opposite the Hackesche Höfe. The selection is colourful and inventive, and prices are reasonable for one-of-a-kind pieces. A good place to pick up an unusual gift.

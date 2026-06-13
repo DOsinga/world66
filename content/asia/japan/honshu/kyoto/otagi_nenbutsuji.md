@@ -9,6 +9,7 @@ tags:
 - sight
 title: Otagi Nenbutsu-ji
 type: poi
+score: 7.8
 ---
 
 Otagi Nenbutsu-ji sits in a quiet corner of the hills above Arashiyama, well beyond the bamboo grove and the day-tripper crowds. The temple was founded in the eighth century, washed away by a flood, rebuilt, blown apart by a typhoon, and moved repeatedly; the present site dates only from 1922 and feels, on a quiet morning, like a private discovery.

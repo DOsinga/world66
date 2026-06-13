@@ -6,6 +6,7 @@ tags:
 - architecture
 title: Stella Maris
 type: poi
+score: 7.2
 ---
 
 Stella Maris is the striking former seaside colony on Montesilvano's waterfront, with a shape that stands out among the modern resort buildings. It is one of the few pieces of architecture along the beach that feels truly memorable.

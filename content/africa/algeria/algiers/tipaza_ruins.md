@@ -11,6 +11,7 @@ story: >
   is inhabited by gods and the gods speak in the sun and the scent of absinth leaves, in
   the silver armour of the sea, in the raw blue sky, the flower-covered ruins, and the
   great bubbles of light among the heaps of stone." The ruins made Camus a pagan, he said.
+score: 9.1
 ---
 
 The Roman site of Tipasa, 70km west of Algiers along the coast road, is one of the most atmospheric ancient sites in North Africa. The ruins of the Roman town — basilicas, forum, theatre, mausoleum, baths — stretch along a clifftop above the Mediterranean. The sea is visible through the broken columns. In spring the ruins are carpeted with flowers.

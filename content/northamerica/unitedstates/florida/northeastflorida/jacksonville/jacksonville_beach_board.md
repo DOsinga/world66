@@ -7,6 +7,7 @@ tags:
   - jacksonville_beach
 latitude: 30.2779
 longitude: -81.3994
+score: 5.7
 ---
 
 The strip of bars and restaurants along 1st Street and the Ocean Walk boardwalk in Jacksonville Beach is the most concentrated nightlife scene in the beaches area. It is unpretentious and occasionally raucous — beach bars with tiki torches, open-air patios, live cover bands, and beer towers are the dominant mode.

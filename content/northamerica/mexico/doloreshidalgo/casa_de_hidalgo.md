@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 8.0
 ---
 
 The single-storey house where Miguel Hidalgo lived as parish priest of Dolores from 1804 until the morning he raised his army is now a museum and a national monument. The building has been left close to its original state — cool tiled rooms around a small patio, the kitchen, the bedroom, the study where Hidalgo wrote — with display cases adding letters, prints, and personal possessions associated with the priest and the insurgency he led.

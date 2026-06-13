@@ -7,6 +7,7 @@ tags:
 snippet: "Remarkably preserved medieval Jewish ritual bath"
 latitude: 49.3168
 longitude: 8.4410
+score: 8.8
 ---
 
 One of the oldest and best-preserved Jewish ritual baths in Europe, Speyer's Mikwe dates to around 1128. You descend a steep stone staircase about ten metres underground to reach the bath chamber, fed by groundwater. The Romanesque masonry is striking — clean lines, rounded arches, and a stillness that feels almost sacred.

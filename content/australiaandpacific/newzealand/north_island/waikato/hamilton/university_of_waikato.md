@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: New Zealand's fifth-oldest university, on the Waikato River
+score: 5.8
 ---
 
 The University of Waikato was founded in 1964 and has a main campus on the eastern bank of the Waikato River, about 2 km from the city centre. The campus itself is worth a walk — it is green and well laid out, with open lawns running down to the river. The university's Gallagher Academy of Performing Arts hosts public concerts and events throughout the year.

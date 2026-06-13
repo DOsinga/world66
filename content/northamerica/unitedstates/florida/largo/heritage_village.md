@@ -11,6 +11,7 @@ story: >
   The village includes a working late-19th-century general store, a one-room schoolhouse, and a Victorian-era home — all relocated here from their original sites around Pinellas County. The Sugar Mill, one of the oldest structures in the collection, dates from before Florida's statehood and gives a tangible sense of how different this subtropical peninsula looked before the railroad arrived in the 1880s.
 sources:
   - https://en.wikipedia.org/wiki/Heritage_Village_(Largo,_Florida)
+score: 7.1
 ---
 
 Heritage Village is an outdoor living history museum adjacent to the Florida Botanical Gardens in Pinewood Cultural Park. More than 30 historic structures from across Pinellas County have been relocated and restored here, creating a walkable village that spans roughly a century of local history — from pioneer-era homesteads to craftsman bungalows of the early 20th century.

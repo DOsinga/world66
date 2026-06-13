@@ -13,6 +13,7 @@ tags:
 - historic_site
 title: Roman Bathhouse
 type: poi
+score: 6.8
 ---
 
 A small but well-preserved Roman bathhouse, tucked below street level off Church Street. It dates from around the 1st to 4th centuries AD, when Lancaster was the Roman fort of *Longovicium* (or possibly *Calunium* — historians disagree). The remains include the hypocaust underfloor heating system. It's easy to walk past without noticing — look for the railings near the car park on Vicarage Fields.

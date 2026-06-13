@@ -9,6 +9,7 @@ tags:
 - sight
 title: The Grand Canal
 type: poi
+score: 9.8
 ---
 
 Venice's main artery, the Grand Canal sweeps in a broad reverse-S through the city for 3.8 km, lined with over 170 buildings spanning five centuries of architecture. Venetian Gothic palaces like Ca' d'Oro and Ca' Foscari sit beside Renaissance and Baroque facades, all slowly sinking and shimmering in the reflected water.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.8
 ---
 
 A Beaux-Arts limestone-and-brick courthouse completed in 1904, the Brown County Courthouse anchors the downtown historic district. The dome, classical columns, and clock tower are the most ambitious civic architecture in the region — a statement of confidence from a railroad town that briefly imagined itself the next Minneapolis.

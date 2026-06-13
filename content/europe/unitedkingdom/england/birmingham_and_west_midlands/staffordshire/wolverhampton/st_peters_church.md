@@ -10,6 +10,7 @@ story: "In the churchyard stands the Wolverhampton Pillar — a carved Anglo-Sax
 sources:
   - https://en.wikipedia.org/wiki/St_Peter%27s_Collegiate_Church
   - https://en.wikipedia.org/wiki/Wolverhampton_Pillar
+score: 7.9
 ---
 
 St Peter's is the oldest building in Wolverhampton and the anchor of the city's historic centre. The current structure dates mainly from the fifteenth century, built in the Perpendicular Gothic style with a handsome central tower that still defines the city's skyline. Inside, the church retains medieval features including carved choir stalls and a fine range of monuments.

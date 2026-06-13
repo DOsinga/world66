@@ -8,6 +8,7 @@ latitude: 37.8515
 longitude: 15.2882
 story: >
   Corso Umberto was already a tourist promenade in the 1800s, when Taormina was on the Grand Tour circuit and wealthy Northern Europeans came to convalesce in the mild climate. D.H. Lawrence lived in Taormina between 1920 and 1923 and walked this street regularly. He was deeply ambivalent about the tourists — and so are the tourists who follow him today.
+score: 6.6
 ---
 
 Corso Umberto is Taormina's spine — a 1 km pedestrianised street running the full length of the hilltop town between Porta Messina and Porta Catania, lined with shops, restaurants, gelaterie, and the kind of boutiques that exist to separate tourists from their money. It is undeniably beautiful and undeniably commercialised, with views down to the sea opening at every cross-street.

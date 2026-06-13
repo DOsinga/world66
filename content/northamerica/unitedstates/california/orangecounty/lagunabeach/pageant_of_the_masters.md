@@ -9,6 +9,7 @@ latitude: 33.5483
 longitude: -117.7824
 story: >
   The Pageant started in 1933 during the Great Depression as part of an arts festival intended to attract visitors and money to Laguna Beach. The "living pictures" format — where costumed volunteers pose inside elaborate stage sets to re-create famous paintings — began almost by accident that first year and proved so popular that it has run every summer since. Some tableaux require more than 200 performers and crew members to stage a single two-minute scene.
+score: 8.3
 ---
 
 The Pageant of the Masters is Laguna Beach's defining summer spectacle. Running every night from early July through late August at the Irvine Bowl amphitheater, the show involves dozens of elaborately costumed volunteers holding perfectly still within meticulously constructed stage sets to reproduce famous works of art — from Vermeer to Grant Wood to Seurat. The illusion of a flat painting populated by real people is startling how well it works at distance.

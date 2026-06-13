@@ -8,6 +8,7 @@ tags:
   - sport
 title: Estadio Antonio Domínguez Alfonso
 type: poi
+score: 4.2
 ---
 
 The Estadio Antonio Domínguez Alfonso is the local sports ground in Playa de las Américas. It is not a conventional sightseeing stop, but it gives a glimpse of ordinary municipal life in a place better known for hotels and nightlife.

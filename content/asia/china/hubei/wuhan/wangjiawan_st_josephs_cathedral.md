@@ -10,6 +10,7 @@ tags:
   - architecture
   - hankou
 neighbourhood: Hankou
+score: 7.0
 ---
 
 St Joseph's Cathedral (Hankou Catholic Cathedral) is a neo-Romanesque church on Shanghai Road in the old French concession, built in 1876 and serving the Catholic diocese of Hankou. The exterior is a serious piece of late-Victorian missionary architecture in stone and brick, with twin bell towers and a substantial nave.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.5
 ---
 
 The Taman Purbakala Kerajaan Sriwijaya is a low-key archaeological park on the western edge of Palembang, opened in 1994 around an excavated network of Srivijaya-era canals and brick foundations. The Srivijaya capital is thought to have sat in this general area, though the precise centre has never been pinned down — most of it lies under the modern city.

@@ -10,6 +10,7 @@ latitude: 47.9652
 longitude: 23.7012
 sources:
   - https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba-Peri_Monastery
+score: 7.2
 ---
 
 The church at Săpânța-Peri Monastery claims to be the tallest wooden church in the world, with a spire reaching 78 metres — built entirely of oak, with no metal reinforcement in the tower. It was constructed between 1993 and 2003 as a deliberate revival of the Maramureș wooden church tradition, on the site of a medieval monastery destroyed in the 17th century.

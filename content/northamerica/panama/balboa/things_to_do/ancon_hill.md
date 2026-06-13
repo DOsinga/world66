@@ -10,6 +10,7 @@ longitude: -79.5494
 snippet: Forested hill above Balboa with wildlife, views, and a giant Panamanian flag
 sources:
   - https://en.wikipedia.org/wiki/Ancon_Hill
+score: 8.3
 ---
 
 Cerro Ancón rises 199 metres above Panama City on the edge of Balboa, topped by a Panamanian flag visible from much of the city. The hill is covered in protected tropical forest and is home to a surprising amount of wildlife given its urban location — sloths, toucans, titi monkeys, and agoutis can all be seen by patient walkers on the well-maintained trail to the summit.

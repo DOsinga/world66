@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3683
 longitude: 20.7126
+score: 5.9
 ---
 
 Lazareto is the tiny islet that sits in the middle of Vathy harbour, with a single white-walled chapel — the church of Soter — and a few cypresses. The name suggests an earlier use as a quarantine station, and a small Venetian-era fort once stood here as well.

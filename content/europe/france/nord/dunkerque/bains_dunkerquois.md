@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A forgotten Art Deco bathhouse on the seafront, weathered but still standing
+score: 5.8
 ---
 
 The Bains Dunkerquois is a large Art Deco public bathhouse built in the 1930s on the seafront esplanade — one of several ambitious projects that gave Dunkerque a dash of modernist architecture before the war. It was damaged in the fighting of 1940 and again in subsequent bombing, and has never fully reopened. Today it stands in a state of picturesque decay, its tiled facades and rounded forms still clearly elegant despite decades of coastal weathering and deferred maintenance.

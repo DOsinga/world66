@@ -9,6 +9,7 @@ latitude: -14.2764
 longitude: -170.6528
 sources:
   - https://en.wikipedia.org/wiki/Rainmaker_Mountain
+score: 6.5
 ---
 
 Rainmaker Mountain — also known as Mount Pioa or Mount Peiva — rises behind the bay and is one of the most recognisable landmarks on Tutuila. It catches moisture-laden trade winds and creates its own micro-climate: the summit is almost perpetually in cloud, which is why this part of the south coast receives some of the highest rainfall in American Samoa. The dense rainforest on its flanks is part of the National Park of American Samoa.

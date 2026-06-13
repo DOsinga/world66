@@ -9,6 +9,7 @@ longitude: -111.7969
 address: 4160 Emigration Canyon Road
 story: >
   The original diner was a 1930 streetcar that Ruth Evans bought in 1949 and parked at the mouth of Emigration Canyon. Ruth ran it personally until 1979, taking no nonsense from customers and chain-smoking behind the counter. The original streetcar still sits at the back of the current restaurant, now used as additional seating.
+score: 6.4
 ---
 
 Ruth's Diner, at the mouth of Emigration Canyon, is the second-oldest restaurant in continuous operation in Utah and a city institution. The original 1930 streetcar that Ruth Evans bought and converted into a diner in 1949 sits at the back of the current building, now used as extra seating in summer.

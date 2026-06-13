@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.3582
 longitude: 0.4076
+score: 8.5
 ---
 
 The walled old town covers the entire upper part of the rock peninsula. Medieval walls encircle it almost intact, and the streets inside are narrow, steep, and largely traffic-free. The main gate — the Puerta Forcada — leads up through a tangle of whitewashed houses, small squares, and the odd wine shop to the castle at the top.

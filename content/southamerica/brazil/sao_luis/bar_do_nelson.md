@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -2.528
 longitude: -44.298
+score: 7.5
 ---
 
 Bar do Nelson is a long-running institution of the Praia Grande bar scene, a simple, no-frills place that has been pouring cold beer and playing reggae for decades. The owner knows everyone and everyone knows the owner. There's no website, no Instagram, no cocktail menu — just beer, cachaça, and the music.

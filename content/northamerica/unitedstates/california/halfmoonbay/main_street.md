@@ -8,6 +8,7 @@ tags:
 - sight
 type: poi
 title: Main Street
+score: 7.4
 ---
 
 Half Moon Bay's downtown core is essentially three blocks of Main Street, between the bridge at the north end and Kelly Avenue to the south. Many of the false-front wooden buildings date from the 1870s and 1880s, when the town was the commercial hub for the coastside farming community, and the scale is small and walkable. Today the buildings hold a mix of antique stores, independent boutiques, a couple of bookshops, and a dense cluster of restaurants and tasting rooms.

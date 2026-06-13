@@ -11,6 +11,7 @@ story: >
   Kössen's reputation in the paragliding world rests on an unusual combination of geography: the valley acts as a thermal funnel, and the surrounding peaks create predictable, consistent lift
   that beginners and experienced pilots can both read easily. The annual Paragliding World Cup event held here regularly attracts pilots who rate the conditions
   better than famous sites in Switzerland and France.
+score: 8.4
 ---
 
 The ridge above Kössen — specifically the Unterberghorn and the slopes around Wallberg — produces some of the most consistent thermal conditions in the Alps. On a clear summer day, dozens of colourful wings fill the sky above the valley, circling in the rising air before gliding down to the landing field on the valley floor near the village.

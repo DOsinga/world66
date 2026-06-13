@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 7.8
 ---
 
 The hills around Vielsam are laced with marked walking trails — a mixture of local circular routes (marked with coloured blazes on trees and posts) and long-distance GR trails that cut across the Belgian Ardennes. The terrain is varied: beech forest on the high ground, open meadows and farmland in the valleys, and stands of conifers on the steeper slopes. Most of the local circular routes are between 8 and 15 km, manageable as half-day or full-day walks depending on pace.

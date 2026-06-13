@@ -13,6 +13,7 @@ story: >
   unmarketed compared to the Serengeti circuit. The pans also flood seasonally
   to form a vast shallow lake that draws one of the world's largest flamingo
   congregations, sometimes numbering in the hundreds of thousands.
+score: 8.3
 ---
 
 The Makgadikgadi Pans are among the largest salt flats on earth — the dried beds of an ancient super-lake that once covered much of northern Botswana. Today they stretch vast and white toward the horizon, broken by the occasional baobab or island of palms. In the dry season (May to October) the pans are bleached moonscapes where mirages shimmer; in the wet season they flood and become a magnet for flamingos, pelicans, and wading birds.

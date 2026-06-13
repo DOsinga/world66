@@ -12,6 +12,7 @@ story: >
   Monbazillac appellation is represented here at non-tourist prices, and the staff will
   happily steer travellers towards small producers who do not export. The vaulted cellar
   below the cloister still smells faintly of the centuries of wine it has held.
+score: 8.1
 ---
 
 The Maison des Vins occupies the Cloître des Récollets, a 17th-century monastic complex on a terrace looking out over the Dordogne — the most evocative single building in central Bergerac. The brick-and-stone cloister around the central courtyard is open to visitors free of charge; the upper-floor rooms are used for changing exhibitions on the local appellations, and the lower cellars for tastings.

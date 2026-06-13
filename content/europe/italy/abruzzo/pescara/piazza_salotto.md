@@ -8,6 +8,7 @@ latitude: 42.4641
 longitude: 14.2141
 sources:
   - https://en.wikipedia.org/wiki/Pescara_Town_Hall
+score: 6.4
 ---
 
 Piazza della Rinascita — universally known as Piazza Salotto ("Living Room Square") — is the social centre of Pescara and the nearest thing the city has to a grand piazza. It is flanked by the town hall and surrounded by cafés, and in the evening it fills with people doing the passeggiata along the adjoining Corso Umberto I. The square was redesigned in the 1990s and is not architecturally distinguished, but it functions well as a gathering place.

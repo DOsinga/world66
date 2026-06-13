@@ -7,6 +7,7 @@ tags:
 - walk
 title: George Town Street Art
 type: poi
+score: 7.1
 ---
 
 In 2012, the George Town Festival commissioned Lithuanian artist Ernest Zacharevic to paint a series of murals on the shophouse walls of the heritage zone. The most famous — a boy on a real bicycle, welded into the wall — immediately became one of the most photographed images in Malaysia. Several other artists followed, and the city now has dozens of murals and wrought-iron caricature signs scattered through the old town, each one marking a specific location's history or identity.

@@ -9,6 +9,7 @@ longitude: 4.8497
 sources:
   - https://en.wikipedia.org/wiki/Oudeschild
 story: "In 1994, a storm uncovered the wreck of a Dutch East India Company ship from 1640 on the Texel seafloor. The Palmwood Wreck, as it was named, yielded thousands of objects — personal belongings, tools, cargo, navigational instruments — that had been preserved under sand for 350 years. Many of the best finds are now displayed in Museum Kaap Skil."
+score: 9.0
 ---
 
 Museum Kaap Skil is the finest museum on Texel and one of the most distinctive maritime museums in the Netherlands. It is built around a simple but compelling concept: Texel lies at the junction of the North Sea and the Wadden Sea, which made it one of the most dangerous stretches of water on the Dutch shipping routes for centuries. Thousands of ships have wrecked on its shores, and the beachcombers who worked these shores accumulated extraordinary finds.

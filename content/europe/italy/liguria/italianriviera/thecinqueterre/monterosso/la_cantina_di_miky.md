@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.1471
 longitude: 9.6480
+score: 7.1
 ---
 
 One of the most celebrated restaurants in the Cinque Terre, La Cantina di Miky sits in the Fegina district and has spent decades perfecting the local canon: anchovies every way imaginable, handmade trofie pasta with pesto, seafood risotto, and a wine list that goes deep on Ligurian producers. The acciughe al limone — fresh anchovies marinated with lemon — are a must.

@@ -6,6 +6,7 @@ longitude: 10.6967
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A 12-metre waterfall on the Lech river at the southern edge of Füssen, where the river drops over an engineered concrete weir into a narrow rocky gorge. The falls were a natural barrier in the medieval period (boats had to be portaged around them) and were rebuilt in 1786 in their current form to drive a series of watermills. The water roars impressively, especially in spring snowmelt.

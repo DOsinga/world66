@@ -9,6 +9,7 @@ tags:
   - architecture
   - historic
 story: "The palace was rebuilt in 1621 by Gabriel Bethlen, the Calvinist Prince of Transylvania who briefly held the Hungarian throne. He used it as his summer residence, and the building became one of the earliest surviving examples of Renaissance secular architecture in the region."
+score: 7.4
 ---
 
 Magna Curia ("the Great Court"), also known as Bethlen Castle, is the low, dignified Renaissance palace at the foot of Citadel Hill. It was built in the late sixteenth century and remodelled in 1621 by Prince Gabriel Bethlen of Transylvania, then again in the Baroque style in 1733. The exterior has loggias, painted scrolls, and an ornamented portal; the courtyard is open during museum hours.

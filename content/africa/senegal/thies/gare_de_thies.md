@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 14.7961
 longitude: -16.9285
+score: 8.0
 ---
 
 The railway station at Thiès is historically one of the most important in West Africa. Thiès was the junction point of the Dakar–Niger railway, which at its height connected Dakar to Bamako in Mali — the principal railway of French West Africa. The station building, a colonial-era structure, still stands and the railway remains active in a reduced form.

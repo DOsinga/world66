@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 A single block of brick storefronts along Main Street, most dating from around 1900 — the boomlet that followed the arrival of the railroad in 1885. The buildings have been carefully preserved and now house antique stores, gift shops, a small museum, and the obligatory peanut-themed souvenir shop.

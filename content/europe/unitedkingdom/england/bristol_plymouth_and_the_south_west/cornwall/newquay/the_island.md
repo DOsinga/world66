@@ -10,6 +10,7 @@ story: >
   The Island became fully detached from the mainland after a Victorian rock-fall.
   The current footbridge — a slender 22-metre suspension span — was installed in
   1900 so that the owner of the house on top could come and go.
+score: 5.3
 ---
 
 The Island is the small rocky outcrop just off Towan Beach, joined to the mainland by a thin private suspension bridge. A single house sits on top, occasionally rented to celebrities and the very wealthy, and is otherwise closed to the public.

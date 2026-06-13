@@ -13,6 +13,7 @@ story: >
   delightful or terrifying depending on who you ask. On a clear day from the 1019-metre
   summit you can see Corsica, the Tuscan Archipelago islands, and on very clear days the
   Apennines on the mainland.
+score: 8.2
 ---
 
 The cable car from Marciana village, a short drive south of Marciana Marina, climbs Monte Capanne — at 1,019 metres, the highest point on Elba — in about 14 minutes. The gondolas are open baskets rather than enclosed cabins, which gives the ride an exposed, exhilarating quality that is not for the nervous. The views from the top on a clear day take in Corsica to the west, the scattered islands of the Tuscan Archipelago, and the Piombino coast on the mainland.

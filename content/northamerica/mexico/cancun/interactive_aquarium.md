@@ -7,6 +7,7 @@ tags:
 - sight
 title: Interactive Aquarium
 type: poi
+score: 4.5
 ---
 
 A small but well-organised aquarium occupying the second level of La Isla Shopping Village. The collection includes shark and ray tanks, a touchpool for kids, a coral reef tank, and freshwater stingrays. A walk-through tunnel passes underneath the larger predator tank. Optional and extra-cost activities include in-tank dolphin encounters and shark swims (in cages, with safety divers).

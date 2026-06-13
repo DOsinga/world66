@@ -13,6 +13,7 @@ story: >
   had requested, in a Byzantine baptistery that was converted into a mausoleum. The current 
   structure dates from 1868; earthquake and time destroyed the original, but the continuity of 
   the site makes it one of the oldest hallowed spots in the Ottoman world.
+score: 7.8
 ---
 
 The tombs of Osman I and Orhan I stand on the terrace in Tophane, looking out over the city the first Ottoman sultans seized from the Byzantines. They are modest by later Ottoman standards — silver-grilled cenotaphs in small domed rooms — but their historical weight is considerable. This is the dynasty's starting point.

@@ -9,6 +9,7 @@ latitude: -28.1500
 longitude: -57.3000
 story: >
   Argentina's jaguar reintroduction programme faced an unexpected challenge: the first animals released were wild-caught adults from Brazil, habituated to human presence through earlier rescue and rehabilitation. Their offspring, born in the park, are genuinely wild and far harder to track. Sightings of free-ranging adults are now reported by rangers and visitors several times each week, but an encounter is never guaranteed — which is exactly as it should be with one of the Americas' most powerful predators.
+score: 8.5
 ---
 
 The reintroduction of jaguars to Iberá is one of the most significant conservation achievements in South American wildlife management in recent decades. The programme, run by Fundación Rewilding Argentina, began with the establishment of a breeding centre in 2015, where rescued or donated jaguars from Brazil were kept in large enclosed areas to acclimatise to the habitat. In 2021, the first animals were fully released into the open park.

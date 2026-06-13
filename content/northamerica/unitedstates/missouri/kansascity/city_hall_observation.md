@@ -8,6 +8,7 @@ tags:
 - free
 title: City Hall Observation Deck
 type: poi
+score: 7.9
 ---
 
 Kansas City City Hall, completed in 1937 in Art Deco style, has a public observation deck on the 30th floor that is free and open to visitors on weekdays. It is consistently one of the least-known and best free experiences in the city. The deck offers unobstructed 360-degree views: north across the Missouri River into Clay County, south toward the Plaza and Brookside, east across the grid of the old city, and west into Kansas. On clear days the view extends 20 or more miles in each direction.

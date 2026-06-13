@@ -8,6 +8,7 @@ latitude: 38.1731
 longitude: 20.4889
 story: >
   Argostoli sits on a lagoon connected to the sea by an extraordinarily short route — the famous "sea mills" or katavothres, where seawater disappears into holes in the rock and travels through the island's limestone interior, emerging 15 kilometres away at the Melissani Cave. This underground connection was only confirmed in the 1960s by pouring dye into the sea mills and watching it appear in the cave.
+score: 6.9
 ---
 
 Argostoli is the capital of Kefalonia and the island's main town, rebuilt in a uniform mid-century style after the 1953 earthquake destroyed virtually everything. The architecture is not the draw — the pre-earthquake town was reportedly beautiful — but Argostoli functions well as a base, with banks, shops, the island's main hospital, and a ferry connection to the mainland.

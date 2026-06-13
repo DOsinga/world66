@@ -6,6 +6,7 @@ longitude: -3.1013
 tags:
 - sight
 - historic
+score: 7.2
 ---
 
 The Tudor Tavern at No 15 Fore Street is a Grade I listed timber-framed merchant's house built in the late fifteenth century — the finest surviving medieval domestic building in Taunton. The two upper storeys jetty out over the pavement in classic fashion, the close-studded timbers carved with quatrefoils and grotesque heads.

@@ -9,6 +9,7 @@ tags:
   - nature
 story: >
   Nepal's tea industry is tiny compared to India's, but the gardens around Damak and Ilam produce teas that have won international recognition in recent years. The Jhapa district's flat, humid lowlands grow a different style of tea from the high-altitude Ilam gardens — lighter in body, suited to blending — and walking through a working estate in the early morning, while the pickers are moving through the rows, is worth the detour.
+score: 6.4
 ---
 
 The area around Damak is part of Nepal's modest but growing tea belt, concentrated in the Jhapa district of the eastern Terai. Tea was introduced here in the colonial era, and the estates that surround the town on several sides are among the oldest in Nepal.

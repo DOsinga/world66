@@ -8,6 +8,7 @@ tags:
 - drugs
 title: Anyday
 type: poi
+score: 4.3
 ---
 
 A coffeeshop just a few minutes' walk from Centraal Station. Known for its vaporizers and a generally laid-back atmosphere. The upstairs seating area provides extra space to sit and unwind.

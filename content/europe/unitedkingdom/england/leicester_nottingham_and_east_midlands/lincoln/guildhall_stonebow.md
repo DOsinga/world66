@@ -9,6 +9,7 @@ tags:
 - sight
 - architecture
 - downhill
+score: 7.7
 ---
 
 The Stonebow is a 15th-century gateway that marks the southern boundary of the medieval walled city, with the Lincoln Guildhall built directly on top of it as a first-floor council chamber. The structure replaced an earlier Roman gate on the same site (a fragment of which is preserved inside) and has been the meeting place of Lincoln City Council from medieval times to the present day — one of the oldest councils in continuous occupation of the same room anywhere in England.

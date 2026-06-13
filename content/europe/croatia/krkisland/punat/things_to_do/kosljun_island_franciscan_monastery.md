@@ -1,6 +1,7 @@
 ---
 title: "Košljun Island Franciscan Monastery"
 type: poi
+score: 8.6
 ---
 
 A short taxi-boat ride from Punat's harbour brings you to the islet of Košljun, which sits almost perfectly in the middle of the sheltered bay. The entire island — barely two hundred metres across — is a nature reserve, and the Franciscan friars who have lived here since the fifteenth century have kept it that way. A path loops around the shore beneath a canopy of oaks and Mediterranean shrubs, and the silence is broken only by birdsong and the distant hum of the marina.

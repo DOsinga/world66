@@ -15,6 +15,7 @@ story: >
   pair of trousers made from the skin of a dead man's legs, said to fill perpetually
   with coins if a coin stolen from a widow is placed in the scrotum. The museum has a
   reconstruction.
+score: 7.5
 ---
 
 The Museum of Icelandic Sorcery and Witchcraft in Hólmavík is housed in a small building on the harbour but contains some of the most unusual material culture in Iceland. The exhibition focuses on the grimoires (galdrabækur) and magical staves (galdrastafir) that were used in Iceland from the Middle Ages onward — geometric symbols inscribed on materials ranging from skin to bone, used for protection, harm, or gain. Iceland's magical tradition is distinct from mainland European witchcraft, rooted in Scandinavian rune traditions and local folklore.

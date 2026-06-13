@@ -9,6 +9,7 @@ tags:
 latitude: -41.105
 longitude: 174.835
 story: Whitireia Peninsula was returned to Ngati Toa as part of a 2012 Treaty of Waitangi settlement, in recognition of Te Rauparaha's seizure of the land for the iwi in the 1820s and its subsequent loss to settlers. It is now co-managed as a regional park.
+score: 7.9
 ---
 
 Whitireia Park covers most of the rugged peninsula between Titahi Bay and the entrance to Porirua Harbour. It is a regional park of windswept grassland, low coastal cliffs, and exposed rocky shore, with sweeping views across Cook Strait to Mana Island and on a clear day the snowcaps of the South Island.

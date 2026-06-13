@@ -9,6 +9,7 @@ longitude: 6.5775
 snippet: One of the world's most dramatic small airports, with a runway on a mountain slope at 1,733m
 story: >
   Landing at Méribel Altiport is listed among the most challenging approaches in civil aviation. The runway slopes uphill at a 17% gradient — pilots must commit to landing on touchdown since there is no possibility of going around on the slope. Takeoff is equally dramatic: the aircraft accelerates down the slope and launches into the void over the valley below. Only specially trained pilots with an altiport rating are permitted to operate there.
+score: 6.6
 ---
 
 Méribel Altiport is one of a handful of altiports in the French Alps — small airfields built on mountain slopes, with steeply inclined runways that use gravity to help aircraft decelerate on landing and accelerate on takeoff. The Méribel Altiport sits at 1,733m, just above the main village, with a runway pitched at a 17% slope and an approach that requires pilots to commit immediately on touchdown with no possibility of a go-around.

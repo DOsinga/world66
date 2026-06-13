@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 46.5990
 longitude: -112.0390
+score: 5.9
 ---
 
 Blackfoot River Brewing is a smaller, more neighborhood-oriented taproom than Lewis & Clark, tucked into a converted space a short walk from downtown. The atmosphere is relaxed — wooden tables, a bar that fills up with regulars on weekday evenings, no particular effort to impress anyone. The beers are well-brewed and rotate frequently, with an emphasis on IPAs and seasonal styles alongside the core lineup. The Blackfoot IPA has a following.

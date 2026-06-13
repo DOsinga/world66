@@ -11,6 +11,7 @@ latitude: 51.28139
 longitude: 1.07583
 story: >
   Built around 1380 during the Hundred Years' War on the orders of Archbishop Sudbury — who would be dragged from the Tower of London and beheaded by Wat Tyler's rebels a year after the gate was finished — Westgate is the largest surviving medieval city gate in England. It guarded the main London road into Canterbury and has, in turn, been a defensive bastion, a city jail, a police museum, and now a small history museum. The medieval murder holes above the entrance arch are still in place.
+score: 8.4
 ---
 
 The twin drum towers of Westgate close off the western end of the High Street and are the most photographed view in Canterbury. The structure is the largest medieval city gate to survive anywhere in England — 60 feet high, with arrow slits, machicolations, and the original portcullis groove still visible inside.

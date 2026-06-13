@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 4.8
 ---
 
 An open-air shopping centre on the Bossier City side of the river, with outlet stores, restaurants, a cinema, and the Bass Pro Shops flagship that doubles as a tourist attraction in itself. The riverfront promenade has good views back to the Shreveport skyline and the Long-Allen Bridge.

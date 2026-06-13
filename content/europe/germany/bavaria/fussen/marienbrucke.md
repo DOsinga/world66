@@ -6,6 +6,7 @@ longitude: 10.7521
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The iron footbridge built in 1866 by King Maximilian II, named after his wife Queen Marie, that spans the 92-metre-deep Pöllat gorge directly behind Neuschwanstein. It gives the canonical view of the castle — the spires and white facade silhouetted against the wooded Alpine ridge, with the valley dropping away below.

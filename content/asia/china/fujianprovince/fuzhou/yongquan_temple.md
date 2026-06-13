@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Yongquan Temple was founded in 908 CE and has never been burned or destroyed — an almost unique distinction among Chinese temples. A spring beneath the main hall gives the temple its name (yongquan means "gushing spring"), and the sound of water flowing under the floorboards is audible in the main hall during quiet moments.
+score: 9.6
 ---
 
 Yongquan Temple sits high on the forested slopes of Gushan (Drum Mountain), about 9 km east of Fuzhou's city centre. It is one of the most important Buddhist temples in Fujian — active, well-maintained, and surrounded by forested trails. The main complex includes several halls built in Song dynasty style with later restorations, and the grounds contain two Song-era pagodas.

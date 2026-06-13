@@ -5,6 +5,7 @@ tags: [things_to_do, beach, nature]
 latitude: 33.9275
 longitude: -6.9325
 story: Temara Beach has a strange dual life. During the week, particularly in the off-season, it is almost empty — a long stretch of Atlantic sand with small cafes and fishing boats. On summer weekends, the entire population of Rabat appears to descend simultaneously. The result is one of the few places in Morocco where the middle classes of the capital relax in public together, a distinctly social occasion involving large family groups, tea vendors, and a long promenade of café terraces that comes to life around sunset.
+score: 6.4
 ---
 
 Temara Beach is a long stretch of Atlantic sand that forms the western edge of the city, running several kilometres along the coast. It is the primary reason visitors come to Temara, and it is substantially less developed than the beaches north of Rabat — fewer tourist hotels, more local cafes and snack bars, and a more authentic Moroccan beach atmosphere.

@@ -1,6 +1,7 @@
 ---
 title: "Camp Restaurants and Local Fondas"
 type: poi
+score: 5.3
 ---
 
 The adventure camps that line the approach to the Río Negro all run their own dining facilities, and these are where the vast majority of visitors eat. The format is consistent: a large open-sided rancho with wooden tables and benches, a kitchen turning out straightforward Colombian countryside cooking, and a menu calibrated to fuel people who have just spent a morning throwing themselves into a river. Lunch is the main meal of the day and usually the one included in rafting packages.

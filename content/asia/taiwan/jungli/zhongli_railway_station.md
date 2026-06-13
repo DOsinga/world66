@@ -14,6 +14,7 @@ story: >
   the streets around the station and the local police building was burned
   down. The incident is widely seen as the moment when Taiwan's democracy
   movement began to gather mass support.
+score: 5.9
 ---
 
 Zhongli station is a busy interchange on the Taiwan Railways western trunk line, with frequent commuter trains to Taipei in the north and Hsinchu and Taichung in the south. The new station building, opened in stages from the 2000s onwards, replaced the older Japanese-era structure but kept some of the original platforms. The Taoyuan MRT runs underneath, with a separate station at Laojie River one stop east.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.2097
 longitude: -2.6459
+score: 6.8
 ---
 
 The Wells and Mendip Museum occupies the Cathedral Green and focuses on the geology and archaeology of the Mendip Hills as well as the history of Wells itself. The Mendips have produced remarkable cave finds — human bones, tools, and animal remains dating back tens of thousands of years — and the museum holds a good collection of them.

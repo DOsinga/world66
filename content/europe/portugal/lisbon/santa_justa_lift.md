@@ -15,6 +15,7 @@ story: >
   and decorative flourishes — reflects the Victorian taste for dressing
   industrial machinery in historical ornament. Lisbon had several similar lifts
   and funiculars; the Santa Justa is the only vertical one remaining.
+score: 7.2
 ---
 
 A wrought-iron neo-Gothic elevator rising 45 metres from the Baixa to the Carmo neighbourhood above, completed in 1902 and still in daily use. The structure is absurdly ornate for what is essentially a lift to save pedestrians a steep climb: columns of riveted iron, decorative arches, a viewing platform at the top, and a cafe.

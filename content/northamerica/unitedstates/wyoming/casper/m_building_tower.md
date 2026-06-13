@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Casper's downtown 'Onion' and 'Egg Beater' — local-favourite mid-century landmarks"
+score: 4.9
 ---
 
 Two oddities side by side downtown: a bulbous reflective-glass office tower the locals call the

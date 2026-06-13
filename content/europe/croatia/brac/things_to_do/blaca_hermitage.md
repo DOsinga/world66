@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Blaca_hermitage
+score: 9.0
 ---
 
 One of the most extraordinary buildings in Dalmatia — a 16th-century monastery and hermitage built directly into a canyon wall on the deserted south-western coast of Brač. Glagolitic priests fleeing the Ottoman advance on the mainland founded it here in 1551, and it was inhabited continuously until 1963. The last resident, Father Niko Miličević, was an amateur astronomer; the small museum inside holds his telescope and instruments alongside religious art and manuscripts.

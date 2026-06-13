@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ngaoundéré Central Station
 type: poi
+score: 6.3
 ---
 
 Ngaoundéré Central is the end of the line — the northern terminus of the Trans-Cameroonian railway that runs nearly 900 kilometres from Yaoundé. Trains run roughly nightly in each direction (when conditions allow), and the station itself is the busiest spot in town when one arrives or departs.

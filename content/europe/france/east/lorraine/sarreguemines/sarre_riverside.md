@@ -7,6 +7,7 @@ tags:
   - sight
 title: Sarre Riverside Walk
 type: poi
+score: 6.3
 ---
 
 The banks of the Sarre river offer a genuinely pleasant walk through the town centre and out to the junction with the Blies river. The paths are well-maintained and tree-lined, and on a mild day the waterfront has a calm, provincial beauty that the town centre's traffic cannot quite replicate. From the riverside you can see across into the German suburb of Kleinblittersdorf, where the streets are quieter still.

@@ -5,6 +5,7 @@ latitude: 27.758
 longitude: -15.577
 snippet: "A long-running bar on the Yumbo strip with a mixed crowd and good caipirinhas"
 tags: [bars_and_cafes, bar]
+score: 5.3
 ---
 
 Bar do Brasil sits on the second floor of the Yumbo Centrum and has been there long enough that it feels like a fixture rather than a tenant. The Brazilian theme is not overdone — a few flags, some samba on the sound system — but the caipirinhas are made properly with muddled lime and decent cachaça rather than the pre-mixed version most resort bars default to. The terrace tables look down over the central courtyard, which makes it a good place to arrive early and watch the complex wake up after dark.

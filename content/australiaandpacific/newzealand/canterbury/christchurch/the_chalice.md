@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.53136
 longitude: 172.63648
+score: 5.7
 ---
 
 Neil Dawson's stainless steel sculpture stands at the centre of Cathedral Square and has been there since 2001, when it was installed as part of the millennium celebrations. It is a six-metre-high funnel form — technically a chalice shape, though it reads more like a stylised leaf or flame from different angles — made from triangular steel panels that catch and scatter light. The surface is cut with native plant forms: kotukutuku (tree fuchsia), koru, and other references to the New Zealand landscape.

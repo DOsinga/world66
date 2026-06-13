@@ -8,6 +8,7 @@ tags:
 latitude: 4.1778
 longitude: 73.5111
 snippet: "Maldives's oldest cultural institution, founded in 1945"
+score: 7.2
 ---
 
 The National Library of the Maldives, Qaumee Kuthubuhaanaa, was established in 1945 by Sultan Abdul Majeed Didi and is the oldest cultural institution in the country. It holds the most complete collection of works in Dhivehi script anywhere — including ola fath, the old palm-leaf manuscripts that were the standard medium of writing before paper.

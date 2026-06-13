@@ -10,6 +10,7 @@ address: "Via Raffaello, 57, Urbino"
 latitude: 43.7268
 longitude: 12.6350
 story: "Raphael was born here in 1483 to Giovanni Santi, court painter to Federico da Montefeltro. The young Raphael ground pigments and watched his father work — and on the wall of an upstairs bedroom is a small fresco of the *Madonna and Child* attributed to Raphael himself, possibly painted in his teens."
+score: 8.3
 ---
 
 The Casa Natale is the modest house, halfway up the steep Via Raffaello, where Raphael was born and spent his childhood. His father Giovanni Santi was a respectable court painter, and the house preserves his small studio with the original stone trough used for grinding pigments.

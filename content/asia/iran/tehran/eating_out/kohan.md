@@ -8,6 +8,7 @@ tags:
 neighbourhood: Elahieh
 latitude: 35.7876
 longitude: 51.4315
+score: 6.2
 ---
 
 Kohan is a well-regarded restaurant in northern Tehran that represents the contemporary approach to Persian cuisine — taking the same classical ingredients and techniques but presenting them in a setting that is more refined and less hurried than the traditional bazaar-area establishments. The menu reads like an anthology of Persian cooking: various rice preparations, regional stews, grilled meats, and the full repertoire of Persian cold appetisers (*meze*).

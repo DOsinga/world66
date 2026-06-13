@@ -11,6 +11,7 @@ story: >
   (pen name of Sara Fabricius) until 1906. In 2017, her son bequeathed 25 of
   her paintings to the museum — a surprise to many who knew her only as a writer.
   She painted throughout her life but rarely showed the work.
+score: 7.0
 ---
 
 The Perspektivet Museum occupies a handsome Empire-style merchant's house from 1838 in the city centre. Its focus is cultural history and documentary photography, with a particular interest in northern Norwegian life and the connections between the Arctic and the wider world.

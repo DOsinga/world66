@@ -10,6 +10,7 @@ latitude: 39.5700
 longitude: 2.6474
 story: >
   Guillem Sagrera, who designed and built La Llotja between 1426 and 1456, was the greatest Gothic architect of the Crown of Aragon. He moved to Naples shortly after completing La Llotja to work on the Castel Nuovo, taking Mallorca's architectural vocabulary with him to the Italian mainland.
+score: 8.9
 ---
 
 La Llotja is widely considered the finest secular Gothic building in Spain and ranks with the great merchant exchanges of Valencia and Barcelona as a monument to the prosperity of medieval Mediterranean trade. Built between 1426 and 1456 by the Mallorcan architect Guillem Sagrera, it served as the main trading hall of Palma's merchant community until the island's commercial decline in the sixteenth century. The exterior presents a rectangle of elegant stone, punctuated by turrets and slender windows, with gargoyles along the cornice.

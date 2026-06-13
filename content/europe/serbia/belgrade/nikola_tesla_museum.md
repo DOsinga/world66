@@ -13,6 +13,7 @@ story: >
   cremation and for his ashes to be returned to Serbia; he died in New York in 1943,
   penniless and largely forgotten, having been outmanoeuvred in patents by Edison
   and Westinghouse during the so-called War of the Currents.
+score: 8.5
 ---
 
 The Nikola Tesla Museum is small — four rooms in a 1920s villa in the Savamala district — but its collection is surprisingly engaging. Tesla's working models and original patents are displayed alongside recreations of the demonstrations he staged in the 1890s to prove the safety of alternating current. The famous rotating magnetic field model, the tesla coil, and the early radio receiver are all here. Guides can run the equipment, which dramatically drives home just how revolutionary Tesla's ideas were.

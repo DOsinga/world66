@@ -8,6 +8,7 @@ latitude: 37.3372
 longitude: -121.8732
 sources:
   - https://en.wikipedia.org/wiki/Adega_(restaurant)
+score: 8.0
 ---
 
 Adega is the only Portuguese restaurant in California to have held a Michelin star. The dining room, in a strip mall on East Santa Clara Street that gives no hint of what is inside, serves the cuisine of northern Portugal with both classical and modern preparations: salt cod, octopus, suckling pig, cataplana stews. The wine list focuses entirely on Portuguese bottles.

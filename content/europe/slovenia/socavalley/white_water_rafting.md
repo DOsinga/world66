@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 46.34
 longitude: 13.55
+score: 8.7
 ---
 
 The Soča River is one of the best white-water rivers in Europe. Its glacially fed current is fast, cold, and consistently graded — rapids range from gentle Grade II stretches suitable for families to serious Grade IV and V sections requiring technical skills. The standard commercial rafting run between Bovec and Trnovo ob Soči takes two to three hours and includes several good rapids without being dangerously technical.

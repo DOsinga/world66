@@ -8,6 +8,7 @@ latitude: 46.5271
 longitude: 12.1169
 sources:
   - https://en.wikipedia.org/wiki/Sacrario_militare_di_Pocol
+score: 6.9
 ---
 
 The military ossuary at Pocol, a few kilometres south of Cortina on the road toward Falzarego Pass, holds the remains of around 10,000 Italian soldiers who died on the Dolomite front between 1915 and 1918. The shrine is set on a wooded hillside with direct views toward the Tofane — the peaks that were the scene of some of the most brutal mountain warfare in history. The building is austere and solemn, with a chapel and an outdoor terrace.

@@ -9,6 +9,7 @@ tags:
   - sport
 story: >
   Michigan Stadium is the largest stadium in the United States and the third largest in the world. When full on a Saturday in autumn, "The Big House" holds over 107,000 people — more than the entire population of many Michigan cities. The stadium was built in 1927 and has been expanded repeatedly, yet from the outside it barely rises above street level because the bowl is dug into the earth.
+score: 7.7
 ---
 
 Home to University of Michigan football, Michigan Stadium is simply one of the great sporting venues in America. On fall Saturdays the stadium fills to capacity, the marching band plays, and the atmosphere is something you do not forget. Even if you have no interest in American football, the sheer scale of the place and the intensity of the crowd make it worth experiencing at least once.

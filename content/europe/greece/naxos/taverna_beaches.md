@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.0720
 longitude: 25.3500
+score: 6.3
 ---
 
 The beach strip running from Agios Prokopios south through Agia Anna has accumulated enough tavernas and beach bars to constitute a genuine eating option rather than a last resort. Lunch here is uncomplicated: fish fresh from the harbour at Agia Anna, Naxian salads, cold beer, sea in front. The quality of the raw ingredients on Naxos means that a simple meal done without pretension is usually satisfying, and the competition between beach establishments keeps standards from slipping too far.

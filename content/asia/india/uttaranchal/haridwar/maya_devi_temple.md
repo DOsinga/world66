@@ -8,6 +8,7 @@ latitude: 29.95
 longitude: 78.162
 story: >
   Maya Devi Temple is one of the Shakti Peethas — places where body parts of the goddess Sati fell to earth after her death. Haridwar is said to be where Sati's heart and navel fell. The temple is considered one of the oldest in the city, and some accounts trace its origins to the 11th century.
+score: 6.8
 ---
 
 Maya Devi Temple is the adhisthatri devi (presiding deity) of Haridwar and one of the city's most sacred sites. It houses a three-headed, four-armed idol of the goddess Maya, carved in black stone, and is part of the Panch Tirtha circuit of Haridwar. The temple sits in the heart of the old city, close to the railway station.

@@ -7,6 +7,7 @@ snippet: The famous broad boulevard climbing inland from the Vieux-Port
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 La Canebière is the boulevard that runs east from the Vieux-Port into the heart of the city. In the late 19th and early 20th centuries it was Marseille's grand artery, lined with cafés, department stores and hotels — the closest thing the city had to a Champs-Élysées. The name comes from the Provençal canebe (hemp), reflecting the area's old role in supplying ships' rope.

@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - eating_out
+score: 5.5
 ---
 
 A French micro-brewery chain that opened a Papeete branch in 1999 on the waterfront opposite the cruise terminal. Brews four house beers on site — a blonde, an amber, an IPA, and a dark — for around 700 XPF a half-pint, and serves the standard tarte flambée and choucroute menu.

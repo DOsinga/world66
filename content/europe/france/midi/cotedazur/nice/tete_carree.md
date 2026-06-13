@@ -9,6 +9,7 @@ latitude: 43.7011
 longitude: 7.2668
 story: >
   The building was designed by Yves Bayard and inaugurated in 2002. The "square head" form references Nice's famous son, the novelist Louis Nucéra, and more obliquely the Carré d'As — the local expression for a jack in cards. The library inside is entirely functional and freely open to the public; the sculpture is best appreciated by walking around it.
+score: 6.3
 ---
 
 The Bibliothèque Louis Nucéra is best known by its popular nickname, La Tête Carrée — the Square Head. A massive public sculpture by Sacha Sosno sits above the library building, forming the head of an enormous stylised human figure whose body is the library itself, with the building's windows serving as the face's features. The effect is simultaneously monumental and slightly absurd.

@@ -15,6 +15,7 @@ story: >
   entirely of ice followed naturally. The first true Icehotel opened in 1990,
   making it the world's first ice hotel — it has been rebuilt every winter since,
   never in quite the same form.
+score: 8.8
 ---
 
 The Icehotel in Jukkasjärvi, 20 kilometres east of Kiruna, is rebuilt from scratch every winter using ice harvested from the frozen Torne River. Each year a new set of artists from around the world is commissioned to sculpt the guest suites, communal rooms, and the ice chapel — which hosts real weddings. Rooms are kept at around -5°C; guests sleep in thermal sleeping bags on beds of ice and reindeer hides. The experience is unforgettable and genuinely cold.

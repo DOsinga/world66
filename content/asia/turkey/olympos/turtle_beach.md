@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 snippet: "Çıralı beach is a major nesting site for caretta caretta sea turtles"
+score: 6.8
 ---
 
 The long pebble strand at Çıralı is one of the major loggerhead sea turtle (Caretta caretta)

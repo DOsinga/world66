@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Top-floor museum of Icelandic photography in the city library building
+score: 7.4
 ---
 
 On the sixth floor of the city library building near the harbour, the Reykjavík Museum of Photography holds an archive of around six million Icelandic images — from the earliest 1860s plates to contemporary art photography — and runs a programme of changing exhibitions drawn from the collection or from invited Icelandic and international photographers.

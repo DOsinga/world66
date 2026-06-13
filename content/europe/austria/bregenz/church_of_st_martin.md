@@ -8,6 +8,7 @@ tags:
   - oberstadt
   - sight
 neighbourhood: Oberstadt
+score: 8.0
 ---
 
 The Church of St Martin stands in the heart of the Oberstadt and is the oldest intact church in Bregenz. Its origins go back to the 14th century, and the interior preserves some of the finest Gothic frescoes in Vorarlberg, painted around 1380. The scenes from the life of St Martin — particularly the famous episode of the saint cutting his cloak in two to share with a beggar — cover the choir walls and retain much of their original colour.

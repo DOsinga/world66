@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 50.2290
 longitude: 12.8720
+score: 4.8
 ---
 
 A larger-than-life bust of Karl Marx, erected in 1976 during the Communist period, stands in a town that Marx never visited and that was, in the 19th century, precisely the kind of luxury resort where the European bourgeoisie went to rest and recover. The monument is still here, decades after the regime that installed it collapsed, now coexisting with the luxury spas and Mercedes-Benz dealerships that characterise the modern town.

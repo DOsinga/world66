@@ -16,6 +16,7 @@ story: >
   preserved here rather than absorbed by the Javanese court, making this
   collection the physical trace of a kingdom that once held off Banten, Cirebon,
   and Demak simultaneously.
+score: 7.3
 ---
 
 The main reason to stop in Sumedang rather than just drive through it, this small museum sits on Jalan Geusan Ulun and holds the crown jewels, weapons, and regalia of the Sumedang Larang kingdom — the Sundanese successor state that kept independence for nearly a century after the fall of the Pajajaran Kingdom in the late sixteenth century.

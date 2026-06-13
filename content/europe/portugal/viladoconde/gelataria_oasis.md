@@ -7,6 +7,7 @@ tags:
   - bar
 title: Gelataria Oásis
 type: poi
+score: 4.7
 ---
 
 A cafe and ice cream parlour on the beach avenue, well-positioned for people-watching after a walk along the seafront. The ice cream is good by local standards, and the coffee and pastries make it a reliable morning stop.

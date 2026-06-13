@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: Restored home of García Márquez's father, the village telegraph operator
+score: 7.3
 ---
 
 The wooden colonial house where Gabriel Eligio García — García Márquez's father — worked as the village telegraph operator and where he courted Luisa Santiaga Márquez against her family's wishes. The courtship was the basis of *Love in the Time of Cholera*; the building has been restored as a small museum with a working telegraph, period furniture, and family photographs.

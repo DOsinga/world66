@@ -9,6 +9,7 @@ latitude: -25.2281
 longitude: -50.0336
 story: >
   The extraordinary sandstone formations of Vila Velha are the result of 300 million years of erosion — far older than the dinosaurs. Local Guaraní people called the plateau "Vila Velha," meaning "old village," because the eroded towers and pillars seemed to them like the ruins of an ancient settlement.
+score: 9.2
 ---
 
 Vila Velha State Park is the region's signature attraction, about 22 km from central Ponta Grossa on the road to Curitiba. Over millions of years, wind and water have carved the Furnas sandstone into dozens of extraordinary columns, arches, and towers rising from the plateau — some reaching 15 metres high and shaped into forms that the imagination readily turns into animals, faces, and ruins.

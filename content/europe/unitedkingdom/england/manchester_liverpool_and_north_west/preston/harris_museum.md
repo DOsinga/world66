@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
 story: "The Harris was funded by the £100,000 bequest of Edmund Robert Harris, a Preston lawyer who left his fortune in 1877 to build 'an institution for the diffusion of useful knowledge'. The Greek Revival exterior, completed in 1893, is modelled on the Erechtheion in Athens; the inscription on the pediment reads 'Lex Liturgia Litterae' — Law, Worship, Literature."
+score: 9.0
 ---
 
 The Harris dominates the eastern side of Market Square — a Grade I-listed Greek Revival temple of culture, finished in 1893 and recently restored after a major refurbishment that reopened it in 2024. Inside, three floors hold the city's fine and decorative arts collections, a Lancashire-focused local history museum, and the central public library reading room — one of the great Victorian library spaces in the north of England.

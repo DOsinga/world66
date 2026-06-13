@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The mosque is the only one in Shkodër to have survived Enver Hoxha's 1967 declaration that Albania was the world's first officially atheist state. The Communist authorities used it as a warehouse rather than demolishing it — possibly because the lead-roofed domes were considered architecturally important — and it reopened for worship in 1990."
+score: 6.9
 ---
 
 A small Ottoman mosque at the base of the Rozafa castle hill, built in 1773 by the Bushati family who ruled the autonomous pashalik of Shkodër in the late 18th century. The name comes from the nine lead-sheathed domes that cap the prayer hall — an unusual feature for the region, where copper or terracotta was the norm.

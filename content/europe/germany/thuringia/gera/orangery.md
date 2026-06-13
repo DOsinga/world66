@@ -9,6 +9,7 @@ latitude: 50.8760
 longitude: 12.0800
 sources:
   - https://en.wikipedia.org/wiki/Gera
+score: 7.0
 ---
 
 The Orangery at the edge of Gera's old town is a well-preserved example of Baroque garden architecture — a long, low building with large south-facing windows originally built to overwinter citrus trees and tender plants for the ruling Reuss princes in the 18th century. The formal garden in front of the building is maintained and offers pleasant walking, with views across the surrounding landscape. It is one of the better examples of this type of princely garden architecture in Thuringia.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.5020
 longitude: 117.1380
+score: 6.3
 ---
 
 The evening food stalls along the Mahakam waterfront are the best and most atmospheric place to eat in Samarinda. Vendors set up plastic tables and chairs on the riverside promenade from around 5pm, grilling fish over charcoal and serving it with steaming rice, sambal, and vegetables from the garden.

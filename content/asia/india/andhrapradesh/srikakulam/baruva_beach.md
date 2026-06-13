@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.44
 longitude: 84.14
+score: 6.2
 ---
 
 Baruva is a small coastal village near the Andhra Pradesh–Odisha border, reached by continuing north along the coast from Srikakulam. The beach here is clean and almost entirely free of visitors — casuarina-lined, with fine sand and a village of fishing families who watch passing travellers with mild curiosity. There is no tourist infrastructure at all.

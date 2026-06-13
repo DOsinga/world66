@@ -8,6 +8,7 @@ latitude: 46.4713
 longitude: 9.7267
 story: >
   Two granite pillars stand at the summit of the Julier Pass, roughly 1.5 metres tall, which have been there since Roman times. No one knows exactly what they were — column bases, shrines, milestone markers. Their presence proves that the Romans used this pass regularly, and they are among the most quietly impressive Roman monuments in Switzerland.
+score: 7.6
 ---
 
 The Julier Pass (Passo del Giulia, Pass dal Güglia in Romansh) climbs south from the Surses valley above Savognin to 2,284 metres before descending to the Engadin. It has been a trade and travel route since at least Roman times — two ancient Roman granite pillars stand at the summit as silent evidence of that history.

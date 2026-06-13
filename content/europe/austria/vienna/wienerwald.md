@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - day_trips
+score: 8.2
 ---
 
 The Wienerwald is the wooded range of low limestone hills wrapping around the west and north of the city — a UNESCO Biosphere Reserve of around 1,000 square kilometres of beech and oak forest, meadows, and vineyards. It is where the Viennese walk, cycle, and ride at weekends.

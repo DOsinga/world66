@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: 100,000-square-foot food and retail hall in a former aviation factory
 story: "The building was Stanley Aviation's factory, where engineer Bob Stanley designed the ejection seats that saved hundreds of US Air Force pilots from the late 1950s onward. The original sawtooth-roofed assembly bay is now the central marketplace; you can still see the ceiling cranes and the bolt patterns where the production line once stood."
+score: 7.3
 ---
 
 Stanley Marketplace opened in 2016 in a vast mid-century aviation factory on the border of Aurora and Denver's Stapleton neighbourhood, and it has become the city's strongest single argument for an afternoon out. The 100,000-square-foot hall holds around fifty independent businesses — restaurants, bars, a brewery, a yoga studio, a children's play space, and a small marketplace of local makers.

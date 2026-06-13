@@ -13,6 +13,7 @@ story: >
   but Scotland's latitude is not far from the bears' natural range, and winter
   temperatures on the plateau can approach Arctic conditions. They seem to have
   settled in reasonably well.
+score: 7.3
 ---
 
 Highland Wildlife Park near Kincraig is run by the Royal Zoological Society of Scotland and focuses on species associated with the Scottish Highlands — past, present, and future. The park has the largest collection of Scottish wildlife anywhere in the world: red deer, red squirrels, capercaillie, Scottish wildcats, ospreys. It also holds species that once lived in Scotland but were hunted or driven out: wolves, lynx, brown bears, European bison.

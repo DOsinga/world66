@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   The clock tower tells lunar time — the Ottoman system based on the Islamic calendar, in which the day begins at sunset rather than midnight. This means the time shown changes every day relative to solar time, requiring a different adjustment each morning. The tower's keeper traditionally set the clock each day by observing the sun. It is thought to be the only public clock in the world still keeping lunar time.
+score: 7.7
 ---
 
 The Sahat-kula (Clock Tower) stands near the Gazi Husrev-beg Mosque complex in Baščaršija, a square stone tower with a distinctive Ottoman clock face. What makes it extraordinary is not its architecture but its timekeeping: the clock displays lunar time, in which noon is marked at sunset rather than midday, and the time must be adjusted every day relative to the sun. It is thought to be the only public clock in the world still operating on lunar time.

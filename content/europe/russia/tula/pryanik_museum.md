@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.193
 longitude: 37.617
+score: 7.1
 ---
 
 The Tula pryanik — a spiced honey cake stamped with decorative wooden moulds — is one of Russia's most famous regional foods, and Tula takes considerable pride in it. The Pryanik Museum, a small but enthusiastic affair in the city centre, tells the full story of how the recipe evolved over centuries, how the carved wooden printing boards were made, and how pryaniki were traditionally used as gifts, dowry items, and offerings at festivals.

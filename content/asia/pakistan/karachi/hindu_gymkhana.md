@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Hindu Gymkhana
 type: poi
+score: 8.0
 ---
 Built in 1924 as a social and sporting club for Karachi's Hindu merchant community, the Hindu Gymkhana is one of the most beautiful colonial buildings in the city and one of the saddest. The two-storey structure, with its ornate facade, Corinthian columns, arched loggias, and intricate carved detailing, was designed with the permanence of a community that had no reason to imagine it would not be here forever. After Partition in 1947, most of the Hindu population left for India almost overnight. The building passed through various government hands and now sits in a state of managed decline.
 

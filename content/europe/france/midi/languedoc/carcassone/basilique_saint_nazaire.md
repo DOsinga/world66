@@ -10,6 +10,7 @@ tags:
   - architecture
 neighbourhood: La Cité
 story: "The stained glass in the choir — early fourteenth century — is among the oldest surviving in southern France. Look for the so-called 'Tree of Life' window in the north transept, which uses an extraordinary depth of cobalt blue that the medieval glaziers achieved by repeatedly firing the cobalt-bearing flux."
+score: 8.8
 ---
 
 The basilica is the jewel inside the Cité — half austere Romanesque, half airy Gothic, the two halves joined at the crossing like a hinge. The eleventh-century nave is barrel-vaulted, dark, and heavy; the thirteenth- and fourteenth-century transepts open out into pointed arches and tall stained-glass windows.

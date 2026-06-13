@@ -7,6 +7,7 @@ tags:
   - haute_ville
 latitude: 50.7274
 longitude: 1.6148
+score: 8.5
 ---
 
 The Château-Musée occupies a medieval castle built in the 13th century by the counts of Boulogne on Roman foundations. The castle itself — a square plan with round corner towers and a substantial gatehouse — is an impressive structure that rewards attention before you enter the museum inside. The castle changed hands repeatedly between French, Burgundian, and English rulers; Henry VIII of England stayed here on his way to the Field of the Cloth of Gold in 1520.

@@ -10,6 +10,7 @@ latitude: -30.3540
 longitude: 152.7597
 story: >
   The Dorrigo rainforest is part of the Gondwana Rainforests of Australia, a UNESCO World Heritage Site covering several disconnected patches of subtropical and warm temperate rainforest along the east Australian escarpment. These forests are direct descendants of the vegetation that covered the supercontinent Gondwana before it broke apart 180 million years ago — making a walk through the canopy a journey into deep geological time.
+score: 8.8
 ---
 
 Dorrigo National Park sits on the plateau above Bellingen at around 800 metres elevation, part of the World Heritage-listed Gondwana Rainforests. The park protects a swathe of subtropical and warm temperate rainforest that is spectacular in any weather — the mist that rolls up the escarpment from the coast gives the forest an otherworldly quality.

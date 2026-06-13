@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6570
 longitude: 16.6210
+score: 9.1
 ---
 
 Across the ravine from the Sassi, the Murgia Timone plateau offers the most dramatic view of Matera — from the far side of the canyon, the cave city unfolds in full relief, with the Civita and the cathedral silhouetted against the sky. The plateau is part of the Parco della Murgia Materana and is dotted with over 150 rupestrian (rock-cut) churches from the Byzantine era, most of them unmarked and many accessible only on foot.

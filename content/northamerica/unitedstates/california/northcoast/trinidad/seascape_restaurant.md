@@ -8,6 +8,7 @@ tags:
 title: Seascape Restaurant
 type: poi
 snippet: "The harbour restaurant with Dungeness crab, chowder, and views of the bay"
+score: 7.0
 ---
 
 Seascape is the restaurant at the Trinidad harbour — a casual, unassuming place with the best views in town and a menu built around what the boats bring in. Dungeness crab in season is the reason to come: whole crab, cracked and served with drawn butter, alongside fish chowder and a cold local beer. The sourdough bread is made in-house. It is not sophisticated cooking, but it is honest and the ingredients are genuinely local.

@@ -5,6 +5,7 @@ snippet: The grand neoclassical theatre on Hayk Square, named after Lori provinc
 tags: [things_to_do, sight, architecture, theatre]
 latitude: 40.8106
 longitude: 44.4839
+score: 6.2
 ---
 
 Vanadzor's main theatre faces Hayk Square with a colonnaded facade that would not look out of place in a much larger city. It is named for Hovhannes Tumanyan, the early-twentieth-century poet and storyteller born up the road in the village of Dsegh, whose verse novel Anush and the epic Sasuntsi Davit are pillars of modern Armenian literature.

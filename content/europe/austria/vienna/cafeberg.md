@@ -8,6 +8,7 @@ tags:
 - innere_stadt
 title: Cafe Berg
 type: poi
+score: 5.4
 ---
 
 A pleasant cafe with a mixed clientele in the 9th district, near the University, the Votivkirche, and the Palais Luxembourg. Good for a quiet coffee or a large mug of tea. The bookshop next door is connected. U-Bahn: Schottentor.

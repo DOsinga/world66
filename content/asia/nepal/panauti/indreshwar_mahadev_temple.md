@@ -11,6 +11,7 @@ story: >
   The roof struts on the lower two storeys of the Indreshwar Mahadev Temple carry some of the finest Newar woodcarving in Nepal. Slender deities dance on each strut with a precision and grace that has not been bettered in the centuries since. Tucked among them, in keeping with temple tradition, are small erotic panels — a reminder that these temples were designed as complete cosmological statements, not just places of worship. The upper section is hung with pots and pans, left by young couples hoping for a happy family life.
 sources:
   - https://en.wikipedia.org/wiki/Indreshwar_Mahadev_Temple
+score: 9.3
 ---
 
 The Indreshwar Mahadev Temple is the reason most visitors come to Panauti, and it justifies the journey. Built over a sacred lingam in 1294, it is the oldest surviving purpose-built temple in Nepal, predating even the great temples at Bhaktapur. The triple-roofed Shiva temple was remodelled in the 15th century on the pattern of the great Pashupatinath temple in Kathmandu, and in scale and ambition it rivals anything in the Kathmandu Valley.

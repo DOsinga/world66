@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1893
 longitude: -114.0566
+score: 5.5
 ---
 
 A small park across the street from the Powerhouse Building, anchored by Engine 3759 — a black steel Santa Fe steam locomotive built in 1927 that hauled passenger trains across the Southwest until diesel power retired it in 1953. The Santa Fe donated it to Kingman in 1957 and it has been parked here ever since, polished and floodlit at night.

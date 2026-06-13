@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.8780
 longitude: -10.0450
+score: 4.8
 ---
 
 Buchanan is the county capital of Grand Bassa, and the County Administration Building, along with the Superintendent's office, sit in the centre of town. The buildings themselves are modest mid-twentieth century affairs, but they are still the place where county business is conducted and a focus of local civic life.

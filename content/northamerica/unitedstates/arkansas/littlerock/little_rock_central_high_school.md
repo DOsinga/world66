@@ -13,6 +13,7 @@ story: >
   National Guard to block them. President Eisenhower responded by sending in
   the 101st Airborne Division — the first time since Reconstruction that
   federal troops were used to enforce civil rights in the South.
+score: 9.4
 ---
 
 Central High School was the site of the most dramatic confrontation of the early civil rights era. In 1957, nine Black students — now known as the Little Rock Nine — attempted to desegregate the school under a federal court order. Governor Faubus deployed the Arkansas National Guard to prevent them from entering. Eisenhower federalised the Guard and sent paratroopers from the 101st Airborne to escort the students inside.

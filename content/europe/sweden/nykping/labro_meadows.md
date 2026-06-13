@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Labro_Meadows_Nature_Reserve
+score: 6.8
 ---
 
 Labro Meadows (Labro ängar) is a nature reserve on the eastern edge of Nyköping municipality, protecting a stretch of traditionally managed meadow and wetland along the Svärtaån river. It is one of the best wildflower sites in Södermanland, with orchids and other meadow species appearing in early summer across the hay meadows that line the river.

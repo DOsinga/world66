@@ -7,6 +7,7 @@ tags:
   - sight
 title: Ferry to Rab Island
 type: poi
+score: 7.0
 ---
 
 The car and passenger ferry from Jablanac to Mišnjak on Rab Island is the reason most people stop here. The crossing takes about 15 minutes and runs throughout the day in summer, less frequently in winter. The ferry carries cars, making this the primary mainland connection for Rab if you are travelling with a vehicle. Foot passengers and cyclists pay considerably less.

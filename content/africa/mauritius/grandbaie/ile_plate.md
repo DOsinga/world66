@@ -7,6 +7,7 @@ tags:
 latitude: -19.8833
 longitude: 57.65
 snippet: Flat coral island with lighthouse, beaches, and quarantine history
+score: 8.4
 ---
 
 Île Plate, about 11 km north of Cap Malheureux, is the largest of the offshore islets and the only one that catamarans regularly land on. It is a long, low limestone platform with two beaches, a 19th-century French lighthouse, and the abandoned ruins of a quarantine station that once held cholera victims from arriving immigrant ships.

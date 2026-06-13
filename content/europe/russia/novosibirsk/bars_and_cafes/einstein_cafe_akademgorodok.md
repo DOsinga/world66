@@ -12,6 +12,7 @@ story: >
   theoretical physics, and Einstein was the archetype of the scientist-as-intellectual that they 
   were trying to cultivate. Whether or not the real Einstein would have approved of the coffee 
   is another question.
+score: 6.2
 ---
 
 The Einstein Cafe in Akademgorodok is part of the science city's mythology — a place where physicists, mathematicians, and biologists have been arguing over coffee since the 1960s. The atmosphere is determinedly unpretentious: mismatched furniture, walls covered with equations and portraits, coffee that is strong if not sophisticated.

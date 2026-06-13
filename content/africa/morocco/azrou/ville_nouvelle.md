@@ -6,6 +6,7 @@ longitude: -5.2230
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The ville nouvelle — the French-built quarter laid out in the 1920s — centres on Place Mohammed V, a large square ringed by cafés, a couple of patisseries, and a row of small hotels. It is the social heart of the town, busy in the early evening when families come out to walk and eat ice cream.

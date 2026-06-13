@@ -13,6 +13,7 @@ story: >
   thousands of labourers each dry season. The result is one of the most
   visually striking landscapes in Bangladesh: a river bed paved in stones, with
   Indian hills rising on the far side.
+score: 4.3
 ---
 
 Jaflong is about 60 km northeast of Sylhet and one of the most popular day trips in the country. The scenery — Khasi Hills rising across the river, the Piyain River strewn with stones, and the bright dresses of the Khasi tribal people who live in the surrounding villages — is unlike anything else in Bangladesh. Small boats cross to the opposite bank and to the Indian border zone.

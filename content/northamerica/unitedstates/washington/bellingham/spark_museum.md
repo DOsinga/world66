@@ -8,6 +8,7 @@ latitude: 48.75146
 longitude: -122.48039
 sources:
   - https://en.wikipedia.org/wiki/SPARK_Museum_of_Electrical_Invention
+score: 8.3
 ---
 
 The SPARK Museum of Electrical Invention is one of the most unusual museums in the Pacific Northwest — a serious collection of antique electrical and radio equipment that ranges from early Leyden jars and galvanometers to the golden age of broadcast radio. The building is packed with working demonstrations, and the staff regularly fire up a high-voltage Tesla coil for weekend "Megashock" shows that leave visitors genuinely awestruck.

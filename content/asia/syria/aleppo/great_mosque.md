@@ -16,6 +16,7 @@ story: >
   being rebuilt.
 sources:
   - https://en.wikipedia.org/wiki/Great_Mosque_of_Aleppo
+score: 8.2
 ---
 
 The Great Mosque of Aleppo, also known as the Umayyad Mosque, was first built in the early 8th century on the site of a Byzantine cathedral, which itself stood on an earlier Roman building. It was the largest and most important mosque in Aleppo for over a millennium. The complex was heavily damaged during the civil war — the north arcade and courtyard were largely destroyed, and the 11th-century minaret collapsed in 2013 during the fighting.

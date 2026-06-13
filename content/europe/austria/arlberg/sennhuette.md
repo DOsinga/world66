@@ -7,6 +7,7 @@ tags:
   - st_anton
 latitude: 47.1336
 longitude: 10.2606
+score: 6.2
 ---
 
 The Sennhütte is a slope-side mountain lodge on the Nasserein side of St. Anton, halfway down the Steissbachtal piste. It looks much like dozens of other mountain huts on the Arlberg until you step inside: the walls are entirely covered in pressed and framed edelweiss flowers, the result of a decades-long collection by the family who run the place.

@@ -8,6 +8,7 @@ tags:
 latitude: -30.0488
 longitude: 30.8901
 snippet: "Shark-netted swimming beach with a tidal pool and lifeguards"
+score: 6.2
 ---
 
 The main beach at Amanzimtoti is a long stretch of golden sand backed by a grassy promenade. The swimming area is shark-netted and lifeguarded, and a sheltered tidal pool at the southern end is reliable for families and weaker swimmers. The water is warm — usually around 22 to 25°C — and clean.

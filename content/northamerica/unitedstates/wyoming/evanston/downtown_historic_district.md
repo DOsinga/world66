@@ -9,6 +9,7 @@ latitude: 41.2678
 longitude: -110.9647
 sources:
   - https://en.wikipedia.org/wiki/Downtown_Evanston_Historic_District
+score: 6.8
 ---
 
 Evanston's downtown historic district contains about sixty buildings from the railroad era, clustered in a compact commercial grid. The architecture is the solid brick commercial vernacular of the late 19th century American West — functional, unpretentious, and well-preserved in ways that newer development hasn't managed to overwhelm. The district is listed on the National Register of Historic Places.

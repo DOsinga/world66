@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: -2.527
 longitude: -44.303
+score: 6.8
 ---
 
 Cafofo is an informal bar and music venue in the historic centre, with a stage in the corner where live acts play most evenings. The music is eclectic — reggae, obviously, but also MPB (Música Popular Brasileira), forró, and the occasional jazz or blues night. The crowd is young and mixed, and the atmosphere is relaxed and friendly.

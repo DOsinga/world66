@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 38.8594
 longitude: -104.9208
+score: 7.5
 ---
 
 The Manitou Penny Arcade has been operating on Manitou Avenue since the 1890s, and despite everything, it still works exactly as it always did. You exchange cash for tokens and feed them into machines that are, in several cases, genuinely antique: fortune tellers, strength testers, shooting galleries, and a Mutoscope (a hand-cranked flip-book movie viewer) that predates cinema. The more modern video games sit alongside them but feel slightly out of place.

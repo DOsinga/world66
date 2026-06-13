@@ -15,6 +15,7 @@ story: >
   would revert to forest within a generation.
 sources:
   - https://en.wikipedia.org/wiki/Hortob%C3%A1gy_National_Park
+score: 9.4
 ---
 
 Hungary's oldest and largest national park covers 800 km² of the Great Hungarian Plain, protecting the last major stretch of original puszta grassland in Central Europe. The landscape is flat, treeless, and immense — the horizon visible in every direction, broken only by the silhouettes of the traditional well-sweep structures (gémeskút) that dot the plain.

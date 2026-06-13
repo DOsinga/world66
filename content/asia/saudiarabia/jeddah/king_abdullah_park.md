@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 21.5478
 longitude: 39.1839
+score: 4.9
 ---
 
 A large central park with landscaped lawns, water features, an artificial lake with paddleboats, a dancing-fountains show, a Ferris wheel, and a small museum. The grounds are walking distance from the centre and a popular family destination in the cooler evenings.

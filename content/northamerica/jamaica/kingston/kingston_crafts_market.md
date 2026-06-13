@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 17.9792
 longitude: -76.7942
+score: 5.1
 ---
 
 The Kingston Crafts Market on Ocean Boulevard, near the waterfront in Downtown Kingston, is the city's main concentration of craft vendors — wood carving, woven bags, wooden sculpture, t-shirts, and the usual range of Jamaican souvenir production. The quality varies from genuinely skilled work in lignum vitae (Jamaica's national wood, extraordinarily dense and beautifully grained) to factory-produced tourist items.

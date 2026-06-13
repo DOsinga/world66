@@ -9,6 +9,7 @@ latitude: -26.1974
 longitude: 28.0612
 story: >
   Gandhi arrived in South Africa in 1893 as a 24-year-old lawyer on a one-year contract. He stayed 21 years. His experience of systematic racial discrimination in the country shaped the philosophy of Satyagraha — non-violent resistance — that he would later deploy to challenge British rule in India.
+score: 7.7
 ---
 
 Satyagraha House is the home where Mahatma Gandhi lived during part of his 21 years in South Africa, from 1893 to 1914. It was in this country — not India — that Gandhi developed the political and moral philosophy that would define the twentieth century. The house in the Orchards/Troyeville area has been carefully preserved and looks much as it did when Gandhi lived and worked here. It now operates as a small guesthouse and museum.

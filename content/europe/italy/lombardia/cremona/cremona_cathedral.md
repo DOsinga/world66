@@ -12,6 +12,7 @@ story: >
   The facade of the Cathedral was the template for a number of Lombard Romanesque churches in the region. Its most unusual feature is the enormous 16th-century fresco cycle inside — the entire nave is covered in frescoes by Boccaccino, Gatti, and Romanino, constituting one of the most extensive decorative programmes of the Lombard Renaissance. The frescoes were painted over several decades and show noticeable differences in style between the artists who worked on different sections.
 sources:
   - https://en.wikipedia.org/wiki/Cremona_Cathedral
+score: 9.1
 ---
 
 Cremona Cathedral (Cattedrale di Santa Maria Assunta) was begun in 1107 and consecrated in 1190, though construction and modifications continued for centuries. The facade combines Romanesque structure with Gothic ornamental additions — the large rose window was added in the 14th century — and it is one of the finest facades in Lombardy. The octagonal baptistery and the Torrazzo bell tower stand beside it, together forming the compositional heart of the Piazza del Comune.

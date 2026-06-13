@@ -9,6 +9,7 @@ longitude: 9.3149
 snippet: Switzerland's Grand Canyon — the Rhine cutting through a prehistoric rockslide
 story: >
   The Flims rockslide that created this gorge happened around 10,000 years ago and deposited the equivalent of 30 times the volume of water in Lake Zurich across the Rhine valley. The river spent millennia grinding its way through the rubble. The result is a 13-kilometre canyon up to 400 metres deep, walled with white dolomite pinnacles that have earned it the nickname "the Swiss Grand Canyon."
+score: 9.0
 ---
 
 Ruinaulta is the dramatic gorge the Rhine has carved through the ancient Flims rockslide debris south of the village. Tall white limestone pinnacles rise from the canyon floor, the river churns turquoise below, and the forested slopes above are largely roadless and silent. It is one of the most spectacular landscapes in Switzerland and still surprisingly little visited.

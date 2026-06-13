@@ -9,6 +9,7 @@ latitude: 38.0476
 longitude: 23.5418
 sources:
   - https://en.wikipedia.org/wiki/Telesterion
+score: 8.6
 ---
 
 The Telesterion was the initiation hall of the Eleusinian Mysteries — the building where, once a year, thousands of initiates gathered to witness whatever it was that the priests of Demeter revealed. We still do not know what they saw. Every initiate who ever entered took an oath of silence that, remarkably, held for a thousand years.

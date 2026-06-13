@@ -9,6 +9,7 @@ story: >
   parallel lifts side by side, allowing significantly higher passenger throughput on the
   most popular runs. The resort has stayed family-oriented ever since, deliberately not
   chasing the "biggest mountain" crowd that flocks to larger resorts.
+score: 8.0
 ---
 
 Hoch-Ybrig's ski area covers around 50 km of marked pistes spread across 20 runs, ranging from the base station at Weglosen (1,035 m) up to the Sternen area at 1,856 m. The majority of the slopes are blue and red — long, groomed cruising runs that suit intermediates and families well. There are very few black runs, which tells you the character of the place: it is not trying to be Verbier.

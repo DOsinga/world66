@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.5
 ---
 
 Punta San Martino is the rocky headland that separates Arenzano from Vesima to the east. A small harbour for fishing boats and pleasure craft sits in its shelter, and a coastal path climbs over the cape to deliver the best sea views in the area.

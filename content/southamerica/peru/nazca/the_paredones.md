@@ -8,6 +8,7 @@ latitude: -14.838
 longitude: -74.938
 sources:
   - https://en.wikipedia.org/wiki/Paredones,_Nazca
+score: 6.7
 ---
 
 An Inca administrative complex on the outskirts of Nazca town, overlooking the Aja River valley. The Paredones — meaning "big walls" — are the remains of a waystation and storage facility built by the Inca after they absorbed the Nazca region in the fifteenth century. The trapezoidal doorways, niched walls, and terraced construction are unmistakably Inca in style.

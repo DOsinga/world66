@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.6087
 longitude: -1.9627
+score: 5.8
 ---
 
 The parish church of St Mary the Virgin sits inland from the seafront on the rise of the High Street, with a stocky 14th-century tower and a Victorian-era nave that replaced an earlier medieval building. The interior is plain Victorian Gothic Revival, with stained glass mostly from the 1860s and 1870s and a quiet, well-kept atmosphere unusual for a busy seaside town.

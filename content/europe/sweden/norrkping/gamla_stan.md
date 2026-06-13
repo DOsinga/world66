@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 58.5944
 longitude: 16.1944
+score: 7.3
 ---
 
 Norrköping's old town centre, on the north side of the Motala Ström, has a modest but appealing collection of 18th and 19th-century buildings. The main pedestrian street runs through a mix of independent shops, cafes, and the occasional timber-framed house that survived the various fires that periodically swept 18th-century Swedish towns. The central square, Stortorget, has a market on weekday mornings.

@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "Coll is one of the last strongholds of the corncrake in the UK. The bird's rasping, two-note call from the long iris beds at dusk in May and June is one of the great Hebridean sounds. The RSPB pays crofters to delay their hay-cutting so the nesting birds and their chicks survive."
+score: 8.1
 ---
 
 The RSPB manages a large reserve at the south-west end of the island covering 1,200 hectares of machair, dune, beach and croftland. The headline species is the corncrake, a secretive rail that has all but vanished from the British mainland but still breeds on Coll in good numbers.

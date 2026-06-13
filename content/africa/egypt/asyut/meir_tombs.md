@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The tombs were cut for the nomarchs — provincial governors — of Cusae during the Old and Middle Kingdoms. The wall paintings include the famous scene of an emaciated herdsman driving a starved cow, one of the rare depictions of famine in ancient Egyptian art."
+score: 8.2
 ---
 
 In the cliffs above the village of Meir, about 50 km northwest of Asyut, a series of rock-cut tombs preserves some of the finest provincial painting of pharaonic Egypt. The tombs belonged to local governors of the Old and Middle Kingdoms and show hunting, farming, and ritual scenes in unusually lively detail.

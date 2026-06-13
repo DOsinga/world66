@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Temple of Isis was the first building to be excavated at Pompeii after the site was rediscovered in 1748, and it caused a sensation throughout Europe. The cult of Isis — an Egyptian goddess — was extremely popular in first-century Pompeii, as it was across the Roman world. Mozart visited Pompeii as a young man and was so struck by the temple's atmosphere that he drew on it for *The Magic Flute*, setting the opera's action in an Egyptian temple that closely resembles this one."
+score: 8.4
 ---
 
 The Temple of Isis is one of the best-preserved religious buildings at Pompeii and gives a vivid sense of how the city's religious life mixed Roman, Greek, and Egyptian traditions. Isis, an Egyptian goddess of magic and rebirth, had an enormous following in first-century Pompeii — her cult was particularly popular with women, freedmen, and merchants who traded across the Mediterranean.

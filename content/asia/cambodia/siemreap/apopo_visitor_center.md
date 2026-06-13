@@ -14,6 +14,7 @@ story: >
   light to trigger the mines they find, which makes them safe for the work.
   APOPO calls them HeroRATs and they have cleared more than 13,000 mines and
   explosive remnants in Cambodia since operations began.
+score: 4.4
 ---
 
 **APOPO's Visitor Center** is attached to their demining headquarters near Siem Reap International Airport and offers a direct, engaging look at one of the most unusual conservation and development projects in Southeast Asia. APOPO trains African giant pouched rats to detect landmines by smell — the rats identify TNT and then signal by scratching at the spot. Cambodia remains one of the most heavily mined countries in the world (a legacy of decades of conflict), and APOPO's rats have cleared large areas of land that was previously unusable by rural communities.

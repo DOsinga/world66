@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 36.6614
 longitude: 117.0067
+score: 6.3
 ---
 
 Jingsi Road and its side streets form Jinan's main concentration of bars, late-night restaurants, and entertainment venues for the young professional demographic. The bars range from small live music venues to larger club-format spaces, and the street food available on the surrounding alleys from late evening into the early hours is some of the best in the city — particularly the late-night noodles and the barbecue stalls.

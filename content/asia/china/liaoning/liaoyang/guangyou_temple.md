@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2780
 longitude: 123.1700
+score: 7.4
 ---
 
 Guangyou Temple, adjacent to the White Pagoda, claims origins in the Eastern Han Dynasty — making it potentially one of the oldest Buddhist sites in northeast China. The current buildings are later Qing Dynasty reconstructions, but the location has been a Buddhist complex for at least fifteen hundred years, and the accumulated atmosphere of that continuity is apparent even in the rebuilt structures.

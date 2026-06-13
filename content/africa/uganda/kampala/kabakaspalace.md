@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Kabaka's Palace
 type: poi
+score: 7.0
 ---
 
 The official residence of the Kabaka, or king, of the Buganda kingdom, set on Mengo Hill in a leafy compound surrounded by a reed fence. The palace grounds have been a royal seat since Kabaka Mutesa I moved his court here in the 1880s. The current main building dates from 1922 and blends colonial architecture with Ganda tradition.

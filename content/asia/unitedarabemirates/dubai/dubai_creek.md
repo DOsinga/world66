@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dubai Creek
 type: poi
+score: 9.2
 ---
 
 Dubai Creek (Khor Dubai) is the tidal inlet that gave rise to the city. For a century it was the commercial heart of the Gulf coast — a natural harbour busy with pearling boats, fishing dhows, and later the Indian and Iranian trading vessels that made Dubai a regional entrepôt before oil changed everything. The Creek still functions today: the dhow wharves along Baniyas Road in Deira remain active cargo terminals, with traditional wooden vessels loaded with car parts, electronics, and consumer goods destined for Iran, Pakistan, and the Swahili coast.

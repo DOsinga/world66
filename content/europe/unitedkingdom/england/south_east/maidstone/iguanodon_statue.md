@@ -8,6 +8,7 @@ tags:
 latitude: 51.2758
 longitude: 0.5206
 story: The "Maidstone Iguanodon" was one of only a handful of nearly complete Iguanodon fossils known in the 1830s when it was discovered in a quarry near Maidstone. Gideon Mantell, who had been studying Iguanodon for years from fragmentary remains, bought the skeleton for £25 and used it to revolutionise the scientific understanding of the dinosaur. The statue outside the Maidstone Museum commemorates this local connection to one of the founding moments of palaeontology.
+score: 4.8
 ---
 
 A full-scale bronze Iguanodon statue stands outside the Maidstone Museum and Bentlif Art Gallery, marking the town's significant place in the history of palaeontology. In 1834, a remarkably complete Iguanodon skeleton was discovered in a local quarry — the "Maidstone Iguanodon" — and acquired by the geologist Gideon Mantell, who used it to substantially advance scientific understanding of these dinosaurs.

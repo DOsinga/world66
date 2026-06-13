@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: An 18th-century stone palace winery producing Mencía reds since 1805, with tastings
+score: 6.8
 ---
 
 The Bodega Palacio de Arganza occupies a beautiful 18th-century stone palace on the edge of town, its archways and courtyard worn smooth with two centuries of use. The winery has been in continuous production since 1805, making it one of the oldest in El Bierzo, and has watched the region's reputation transform from local curiosity to one of Spain's more talked-about appellations. The Denominación de Origen El Bierzo covers a confined mountain-ringed basin with distinctive schist soils that give the wines an intensity and freshness unusual for Castile and León.

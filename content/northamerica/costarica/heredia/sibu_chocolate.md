@@ -14,6 +14,7 @@ story: >
   varieties that have been cultivated in the country for centuries. The combination
   of historical method and modern bean-to-bar production makes it one of the more
   instructive chocolate tours in Central America.
+score: 7.2
 ---
 
 The Sibu Chocolate facility in the hills above Heredia offers one of the better food-industry tours in the Central Valley. The operation is a serious artisan chocolate maker, not a tourist attraction that happens to make chocolate, and the tour reflects that: visitors see the full process from raw cacao pods through fermentation, drying, roasting, and grinding to the finished bar, with tasting at each stage.

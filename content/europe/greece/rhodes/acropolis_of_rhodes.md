@@ -15,6 +15,7 @@ story: >
   Greek stadia still visible in its original form. During restoration they
   discovered a subscription inscription recording who funded each section of
   the construction.
+score: 7.5
 ---
 
 The Acropolis of Rhodes sits on Monte Smith, a hill about three kilometres southwest of the city centre named after the British admiral Sir Sidney Smith, who used it as an observation post during the Napoleonic Wars. The ancient city of Rhodes spread across this hillside, and the remains include a partially reconstructed Temple of Apollo Pythios, a restored Hellenistic stadium, and a small odeon (covered theatre) used today for concerts.

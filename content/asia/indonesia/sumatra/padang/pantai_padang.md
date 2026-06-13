@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.9580
 longitude: 100.3440
+score: 6.5
 ---
 
 The main beach running along the western edge of the city is a long strip of grey-black volcanic sand backed by a promenade with food stalls, cafés, and the inevitable beach vendors. It is not a swimming beach — the waves and currents make it unsuitable — but the sunsets here are excellent and the promenade fills with locals in the late afternoon and evening.

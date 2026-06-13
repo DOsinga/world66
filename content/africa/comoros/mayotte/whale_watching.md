@@ -12,6 +12,7 @@ story: >
   into a sheltered lagoon to nurse and rest. The calves stay in the lagoon for several weeks, growing
   strong before their mother leads them on the southward migration to Antarctic feeding grounds. Researchers
   have documented individual whales returning to Mayotte year after year.
+score: 9.2
 ---
 
 From July to October, humpback whales enter the Mayotte lagoon to calve and nurse their young. This makes Mayotte one of the best places on earth for close encounters with these animals — boat operators can approach within a few meters, and swimmers can enter the water alongside the whales when conditions allow.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7762
 longitude: -9.0563
+score: 7.7
 ---
 
 The harbour at Muros is a working fishing port — not a marina dressed up for tourists, but a place where boats go out at night and come back in the morning with actual fish. The lonja (fish market) auction takes place early in the morning when the boats return; if you are up early enough and the gates are open, the spectacle of the day's catch being sorted and auctioned is one of those unrepeatable things that coastal Galicia still offers.

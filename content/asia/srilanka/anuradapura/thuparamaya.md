@@ -7,6 +7,7 @@ tags:
   - sight
 title: Thuparamaya
 type: poi
+score: 8.6
 ---
 
 Thuparamaya is the oldest dagoba in Sri Lanka and one of the most historically significant Buddhist monuments on the island. It was built by King Devanampiya Tissa in the 3rd century BC, shortly after Buddhism arrived in Sri Lanka, and is said to contain the right collarbone of the Buddha — a relic brought from India by the missionary monk Mahinda.

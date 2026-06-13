@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.1290
 longitude: 1.2200
+score: 7.1
 ---
 
 Boulevard du Mono is the long seafront road that runs along the southern edge of Lomé, separating the city from the Atlantic by a row of coconut palms and a continuous strip of yellow beach. It is the most pleasant axis in the city: a wide four-lane road with a tree-lined median that doubles as a jogging track in the cooler hours.

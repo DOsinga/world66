@@ -8,6 +8,7 @@ latitude: 39.21472
 longitude: -121.0675
 sources:
   - https://en.wikipedia.org/wiki/Mount_Saint_Mary%27s_Convent_and_Academy
+score: 6.9
 ---
 
 The Grass Valley Museum occupies part of the old Mount Saint Mary's Convent complex — a Victorian institution that was the oldest continuously operating Catholic school west of the Mississippi before it closed. The museum focuses on local history from the Gold Rush through the 20th century, with exhibits on mining, the immigrant communities that settled Nevada County, and the town's Cornish heritage.

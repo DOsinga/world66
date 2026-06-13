@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Harbour-side tavern whose Labrador silhouette became one of America's most-copied T-shirt logos
+score: 6.5
 ---
 
 The Black Dog Tavern opened on the Vineyard Haven harbourfront in 1971 in a converted 1828 boathouse, and despite the now-iconic gift-shop empire that grew out of it, the original restaurant remains a good place to eat. The dining room looks straight out over the harbour and the working ferries; the tables are wooden, the menu is straightforward New England (chowder, lobster roll, scrod, fish and chips).

@@ -8,6 +8,7 @@ tags:
   - sight
   - quirky
 story: "Local folklore once held that newborn babies were fetched from Hønekilden — not delivered by storks. A queen visiting the area in the 18th century is supposed to have been told this and given the spring its place in royal anecdote."
+score: 5.8
 ---
 
 A small fenced spring in the woods east of town, with a low stone surround and a wooden cover. Hønekilden — the Hen Spring — is one of those minor folk-religious spots that survives because the local story attached to it is more interesting than the place itself.

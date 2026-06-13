@@ -9,6 +9,7 @@ latitude: 31.2283
 longitude: -7.6733
 sources:
   - https://en.wikipedia.org/wiki/Ourika_Valley
+score: 7.2
 ---
 
 Seven waterfalls cascade down the gorge above the village of Setti Fatma, and reaching them is the main physical attraction of a visit to the valley. The trail begins beyond the last restaurants at the end of the road, where guides and unofficial helpers will offer to accompany you — unnecessary for the lower falls, useful for the upper ones.

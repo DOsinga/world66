@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 A short drive west of Armacao, the headland at Nossa Senhora da Rocha carries a small white fort and an even smaller medieval chapel. The chapel is one of the oldest religious buildings on the Algarve coast — parts of it pre-date the Portuguese reconquest.

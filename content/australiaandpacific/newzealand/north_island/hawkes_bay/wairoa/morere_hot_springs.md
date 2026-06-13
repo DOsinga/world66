@@ -13,6 +13,7 @@ story: >
   40°C, and the pools are set inside 364 hectares of nikau palm forest — a
   forest type that extends further south here than almost anywhere else in
   New Zealand.
+score: 8.2
 ---
 
 Mōrere Hot Springs, about 45 kilometres north of Wairoa on State Highway 2, offers hot and cold mineral pools in one of the finest native forest settings in Hawke's Bay. The hot pools are therapeutic and well-maintained, and the surrounding nikau palm forest has a network of walking tracks ranging from a ten-minute stroll to a three-hour circuit through the reserve.

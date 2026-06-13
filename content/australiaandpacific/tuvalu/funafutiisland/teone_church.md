@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -8.5211
 longitude: 179.1983
+score: 4.7
 ---
 
 The Teone Church — also known as the Catholic Centre of Teone — is the principal Catholic place of worship in Tuvalu, a small population in a country that is overwhelmingly Protestant (Ekalesia Kelisiano Tuvalu). The building is modest, white-walled, and unmistakably Polynesian in its proportions, sitting just back from the road in central Vaiaku.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 67.6436
 longitude: 12.5938
 story: The people of Måstad survived largely by catching puffins using the Norwegian Lundehund — a dog breed so specialized for cliff work that it has six toes on each foot and can fold its ears shut and bend its head backward to lie flat; at the height of the practice, a single household might catch thousands of puffins in a season.
+score: 8.9
 ---
 
 Måstad sits on the far side of Værøy's mountain ridge, on the wild western coast that faces the open Atlantic rather than the sheltered channel toward the Lofoten mainland. To reach it you hike over or around the ridge from Sørland — a route that takes two to three hours depending on conditions and fitness — or you come by boat around the island's western coast. The hike is the more common approach, and it's worth it: the path takes you through the landscape that shaped the people who once lived here, and the arrival at the ruins from the ridge above has a particular quality to it.

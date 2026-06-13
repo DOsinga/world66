@@ -7,6 +7,7 @@ tags:
   - arts
 latitude: 61.4981
 longitude: 23.7625
+score: 6.8
 ---
 
 Tampere Theatre is one of the two major theatres in the city — the other being the Tampere Workers' Theatre — and one of the largest in Finland. The current building dates from 1913 and sits directly on the Hämeenkatu, Tampere's main street. Programming covers mainstream Finnish drama, musicals, and dance, with most productions in Finnish.

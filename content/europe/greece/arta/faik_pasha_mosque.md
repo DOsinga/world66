@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 The Faik Pasha Mosque, also known locally as the Imaret of Arta, is one of the very few surviving Ottoman mosques in Epirus. It was built in the late fifteenth century by Faik Pasha, a local Ottoman governor, and sits in a quiet residential quarter west of the castle, slightly off the standard sightseeing path.

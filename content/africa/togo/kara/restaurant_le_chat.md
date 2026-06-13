@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 9.5466
 longitude: 1.1921
+score: 5.2
 ---
 
 Le Chateau has a terrace that catches the evening breeze, making it one of the more pleasant places to eat in Kara once the midday heat has passed. The menu runs from pizzas to grilled chicken, brochettes, and local rice and bean dishes, with mains around 5 euros — reasonable for a restaurant that draws both locals and travellers.

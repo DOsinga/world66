@@ -15,6 +15,7 @@ story: >
   making it one of Scotland's longest-lived family food companies.
 sources:
   - https://en.wikipedia.org/wiki/Baxters
+score: 6.8
 ---
 
 The Baxters food company was founded in Fochabers in 1868, and this visitor centre on the western edge of the village tells the story of how a single grocer's shop grew into one of Scotland's best-known food brands. The centrepiece is a faithful recreation of the original shop, complete with period fittings, tins, and packaging from across the decades. It is genuinely well done — not the corporate museum it could easily be, but a specific and affectionate account of one family's enterprise over 150 years.

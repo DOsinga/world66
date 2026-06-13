@@ -7,6 +7,7 @@ tags:
 latitude: 56.7000
 longitude: 16.6000
 snippet: "Over 400 windmills — more per square kilometre than anywhere in Europe"
+score: 7.6
 ---
 
 Öland has more windmills per square kilometre than anywhere else in Europe, and they are one of the defining images of the island. At the peak in the 19th century, there were over 2,000 working mills on the island; today around 400 survive in varying states of preservation, scattered across the alvar and farmland.

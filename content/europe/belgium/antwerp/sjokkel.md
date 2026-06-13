@@ -8,6 +8,7 @@ tags:
 - shop
 title: Sjokkel
 type: poi
+score: 3.7
 ---
 
 Small children shop in the Wijngaardstraat, lots of good wooden toys.

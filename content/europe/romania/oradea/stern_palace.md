@@ -9,6 +9,7 @@ tags:
   - architecture
   - art_nouveau
 snippet: 1905 Secessionist palace with an asymmetric green tiled roof
+score: 7.4
 ---
 
 The Palatul Stern, built in 1905 to designs by Komor Marcell and Jakab Dezső, is one of the most photographed buildings in Oradea — partly for its asymmetric green-and-yellow tiled roof, partly for its location on the corner facing Strada Republicii. It belonged to the Stern family, prominent Jewish merchants in the late Habsburg period.

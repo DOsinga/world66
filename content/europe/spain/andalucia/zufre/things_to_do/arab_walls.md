@@ -15,6 +15,7 @@ story: >
   was an important defensive point in the borderland between al-Andalus and the Christian
   kingdoms. After the reconquest, the settlement was repopulated with Christian settlers
   but the Moorish population and their architecture left a lasting mark on the village.
+score: 7.2
 ---
 
 Zufre retains a substantial section of its Moorish defensive walls from the period when the village was an Islamic fortification in the borderlands of al-Andalus. The walls run along the northern edge of the village and include a gateway tower that survives in reasonable condition. Unlike the more famous Moorish walls at Niebla or the Alcazaba in Badajoz, these walls are rarely visited and not marked with tourist infrastructure, which makes them all the more atmospheric.

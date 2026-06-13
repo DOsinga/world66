@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -17.7210
 longitude: 177.4150
+score: 7.7
 ---
 
 The Sabeto Hot Springs sit in the Sabeto Valley about 20 km south of Lautoka, between the highway and the Sabeto mountain range. The springs feed a series of shallow pools — some hot enough to be uncomfortable, others pleasantly warm — and a set of therapeutic mud pools where visitors can coat themselves in grey volcanic mud, let it dry in the sun, then rinse off in the adjacent cool pool.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2776
 longitude: 8.0415
+score: 8.3
 ---
 
 The Marktplatz is the heart of Osnabrück and one of the best-preserved medieval market squares in northern Germany. It is surrounded by a sequence of significant buildings — the Gothic Rathaus to the north, the Marienkirche to the east, the Ledenhof to the south — that make it feel like a coherent historical ensemble rather than a collection of survivors. The square itself is large enough to feel open and has been the commercial and civic centre of the city since the Middle Ages.

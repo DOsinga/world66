@@ -12,6 +12,7 @@ story: >
   75,000 years ago, making it one of the oldest known attempts by any human
   species to represent a face. Whether Neanderthals were making art remains
   debated; this object refuses to let the question rest.
+score: 8.1
 ---
 
 Two kilometres north of Langeais, tucked into the limestone cliffs above the Loire, the cave of La Roche-Cotard is the least-visited remarkable place in Touraine. Most Loire Valley visitors walk straight past — which is understandable, because there is no castle here, no manicured garden, and no clear sign telling you to stop.

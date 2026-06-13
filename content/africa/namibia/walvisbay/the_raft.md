@@ -9,6 +9,7 @@ tags:
 snippet: Waterfront restaurant on stilts in the lagoon
 story: >
   The restaurant is reached by a long timber walkway from the shore and sits over the water of the lagoon on wooden stilts. Pelicans and flamingos sometimes feed metres from the dining tables, an unusual lunchtime companion.
+score: 6.2
 ---
 
 The Raft is a Walvis Bay institution: a wooden restaurant built on stilts over the lagoon, reached by a long timber walkway from the shore at the end of Atlantic Street. The dining room has wraparound windows giving uninterrupted views of the lagoon and the dunes beyond; flamingos, pelicans and seals are regular visitors to the water immediately below.

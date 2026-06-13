@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.0
 ---
 
 The Babeș-Bolyai University, founded in 1581 as a Jesuit college, is Romania's largest and oldest higher education institution. The main building on Strada Mihail Kogălniceanu, finished in 1872, is a neoclassical landmark — pediment, columns, the lot — with a grand staircase inside that students use as a meeting point.

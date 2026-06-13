@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Moussa Abdel Karim al-Maamari was a teenager in the 1940s when a schoolteacher in Beit ed-Dine slapped him for daydreaming about building a castle. He spent the next sixty years building this one with his own hands, financed by carving and selling tourist souvenirs out of a shed by the road; the original schoolteacher reportedly visited and apologised in the 1980s.
+score: 5.9
 ---
 
 Half-way between Deir el Qamar and Beit ed-Dine, Moussa Castle is the lifework of a man who decided as a child to build himself a medieval fortress and then did. It is not authentic — the architecture is a folk-fantasy mix of Crusader keep, French chateau, and Lebanese village house — but it is more interesting than that summary suggests.

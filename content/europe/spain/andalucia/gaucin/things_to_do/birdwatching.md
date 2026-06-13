@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - activity
   - nature
+score: 8.4
 ---
 
 Gaucín sits directly beneath one of Europe's great bird migration corridors. In spring — particularly April and May — raptors and other soaring birds funnel through the narrow strait between Europe and Africa, and the thermals above the Serrania de Ronda carry thousands of birds northward in a single day. Honey buzzards, black kites, short-toed eagles, booted eagles, Egyptian vultures, and black storks all pass through in large numbers; on peak days the count runs into thousands.

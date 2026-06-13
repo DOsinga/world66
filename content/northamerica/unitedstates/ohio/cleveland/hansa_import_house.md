@@ -10,6 +10,7 @@ tags:
 - market
 title: Hansa Import House
 type: poi
+score: 4.8
 ---
 
 A shop specializing in German imports, mostly food items with some unique gifts. A great place to browse and pick up an inexpensive treat when visiting the West Side Market. Located a block away on Lorain Avenue in a small chalet-type building.

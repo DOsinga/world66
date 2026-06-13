@@ -11,6 +11,7 @@ latitude: 29.9785
 longitude: -82.7621
 sources:
   - https://en.wikipedia.org/wiki/Ichetucknee_Springs_State_Park
+score: 8.7
 ---
 
 The Ichetucknee River is one of north Florida's finest natural places. Nine major springs feed a 6-mile run of crystal-clear water through a hardwood forest, maintaining a constant temperature of 68°F year-round. Tubing the upper section on a summer afternoon — drifting through the shade, watching turtles bask and manatees hover in the deeper pools — is as good as Florida gets.

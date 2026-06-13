@@ -7,6 +7,7 @@ snippet: Quiet glacial lake with public swimming and a small boat launch
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 Glen Lake is a three-mile-long glacial lake that runs along the west side of Queensbury, just behind the ridge from Lake George. It is shallower and warmer than its more famous neighbour and is largely ringed by lakefront houses, with a public boat launch and a small swimming area on the southern shore.

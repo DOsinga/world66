@@ -13,6 +13,7 @@ story: >
   theatre companies, and a production on a warm July night — the sea far below,
   the pink stone houses on three sides — remains one of those experiences that
   theatre lovers travel specifically to have.
+score: 8.3
 ---
 
 The centrepiece of Verezzi, the highest of the four medieval hamlets that make up the upper village, Piazza di Sant'Agostino is an open terrace above the sea formed by the convergence of several narrow lanes between close-packed stone houses. On one side the land drops away toward the Ligurian coast; on the other, the church of Sant'Agostino and its campanile close the view. Theatre professionals have long described it as "the most theatrical square in Italy."

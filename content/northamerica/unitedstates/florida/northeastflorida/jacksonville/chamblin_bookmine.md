@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3320
 longitude: -81.6611
+score: 8.1
 ---
 
 Chamblin Bookmine is a vast used and rare bookshop occupying a former Winn-Dixie grocery store in downtown Jacksonville, with more than a million books in stock across a space that takes most of an afternoon to explore properly. The stock covers every subject, from recent paperback fiction to out-of-print academic texts, rare first editions, vinyl records, DVDs, comics, and maps. It is the kind of bookshop that sends you home with things you didn't know you needed.

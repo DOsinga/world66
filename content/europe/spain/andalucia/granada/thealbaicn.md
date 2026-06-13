@@ -11,6 +11,7 @@ tags:
 - albaicin
 title: The Albaicín
 type: poi
+score: 9.5
 ---
 
 The old Moorish quarter sprawls across the hill opposite the Alhambra, a UNESCO World Heritage Site in its own right. Whitewashed houses line narrow cobblestone streets that wind uphill past exotic shops, North African teahouses, and small restaurants.

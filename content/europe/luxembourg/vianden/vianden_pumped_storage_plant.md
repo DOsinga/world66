@@ -7,6 +7,7 @@ longitude: 6.177222
 story: "The Vianden pumped storage plant is one of the largest in Europe, with 11 turbines and a capacity of 1,296 MW. It stores energy by pumping water uphill when electricity is cheap, then releasing it through the turbines when demand peaks — essentially a giant rechargeable battery hidden inside a mountain."
 sources:
   - https://en.wikipedia.org/wiki/Vianden_Pumped_Storage_Plant
+score: 6.5
 ---
 
 The Vianden Pumped Storage Plant sits a few kilometres north of town, built into the hillside above the Our river. It is one of the largest pumped-storage hydroelectric facilities in Europe, with a visitor centre that explains how the plant works and why pumped storage is increasingly important for balancing electricity grids as renewable generation grows.

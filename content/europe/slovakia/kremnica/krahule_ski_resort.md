@@ -6,6 +6,7 @@ longitude: 18.9300
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Krahule is the main ski area serving Kremnica, just a few kilometers to the north on the slopes of the Kremnica Mountains. It is a modest resort — a handful of lifts serving runs of varying difficulty — but well suited for families, beginners, and those who want uncrowded slopes without the queues and prices of the larger Slovak resorts.

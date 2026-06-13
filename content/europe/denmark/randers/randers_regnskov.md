@@ -8,6 +8,7 @@ tags:
 latitude: 56.456944444444446
 longitude: 10.03277777777778
 story: "Randers Regnskov was built directly over the Gudenå river — the domes span the water, so the rainforest sits on top of a Danish waterway. The three climate zones (South America, Africa, Asia) are connected by bridges and walkways, and the ambition of the engineering is matched by the collection: anacondas, pygmy hippos, fruit bats, and free-flying tropical birds in a controlled humidity environment that feels genuinely unlike anything else in Scandinavia."
+score: 8.6
 ---
 
 Randers Regnskov (Randers Rainforest) is one of Denmark's most original attraction concepts: three interconnected glass domes housing tropical ecosystems built over the Gudenå river in the middle of the city. Each dome represents a different climate zone — the Americas, Africa, and Asia — with the temperature, humidity, and flora calibrated to support the animals and plants of that region.

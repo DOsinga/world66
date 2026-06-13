@@ -5,6 +5,7 @@ tags:
 - nature
 title: As Burgas
 type: poi
+score: 7.8
 ---
 
 As Burgas are the most famous of Ourense's many thermal springs — three natural vents in the old city centre that have been flowing since at least Roman times. The water comes out at around 65°C and the springs have supplied the city with hot water for over two thousand years. A Roman bathhouse was built here, and the springs may give the city its name (from the Latin *aqua urente*, burning water).

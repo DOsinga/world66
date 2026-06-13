@@ -6,6 +6,7 @@ longitude: 10.5369
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Stadtmarkt is the main market square at the heart of Wolfenbüttel's old town. Surrounded by half-timbered buildings on three sides, it is the natural starting and finishing point for a walk through the town. The square hosts a small weekly market and the town's Christmas market in December.

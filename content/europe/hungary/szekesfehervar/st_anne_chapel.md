@@ -6,6 +6,7 @@ latitude: 47.1899
 longitude: 18.4183
 story: >
   The chapel is the only intact piece of medieval architecture left in Székesfehérvár — the Ottomans demolished or repurposed almost everything else from the period. It survived because they converted it into a small mosque rather than tearing it down.
+score: 7.4
 ---
 
 The Szent Anna kápolna, built around 1485, is a small late-Gothic chapel tucked behind the cathedral. It is the only late-medieval building in the city centre to have survived the Ottoman occupation and the great fires of the 18th century, and as such is the oldest standing structure here apart from the ruin garden.

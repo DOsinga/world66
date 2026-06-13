@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.4
 ---
 
 The Sprinkenhof, designed by Fritz Höger and the Gerson brothers in 1927–43, is the second great Kontorhaus of the Speicherstadt district. Where the neighbouring Chilehaus is a single sharp wedge, the Sprinkenhof is broader and lower, with a façade of dark Oldenburg brick patterned all over with terracotta lozenges and ceramic crests — the heaviest, most decorative brickwork in the quarter.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.5912
 longitude: -93.6122
+score: 7.0
 ---
 
 The State Historical Museum sits at the foot of the capitol hill and is the obvious complement to a capitol tour. The permanent collection traces Iowa from glaciation through agriculture, immigration, and the various twentieth-century booms; the upper-floor exhibits on the meatpacking industry, the prairie ecosystem, and Iowa's role in the Civil War are the strongest sections.

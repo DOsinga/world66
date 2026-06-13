@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The Jackson Building is Asheville's first skyscraper: a fifteen-storey neo-Gothic tower built in 1924 on a square of land just twenty-seven feet on a side at the edge of Pack Square. The constraints of the lot pushed the architect upward, and the result is a strikingly slender pinnacle of brick and limestone with a small observation room on top.

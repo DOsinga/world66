@@ -7,6 +7,7 @@ tags:
 latitude: -14.0306
 longitude: 34.8340
 snippet: "Snorkelling and dive site on the rocky headland south of the beach"
+score: 8.2
 ---
 
 Otter Point is the rocky promontory at the southern end of Chembe beach, where the granite hills tumble straight into deep water. It is the closest serious snorkelling and dive site to the village — clear water, large boulder formations, and a particularly heavy concentration of cichlid species in the shallows around the headland.

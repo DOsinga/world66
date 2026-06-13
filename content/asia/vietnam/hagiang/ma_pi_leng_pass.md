@@ -15,6 +15,7 @@ story: >
   the outside world.
 sources:
   - https://en.wikipedia.org/wiki/Ma_Pi_L%C3%A8ng_Pass
+score: 9.3
 ---
 
 Ma Pi Leng is the most dramatic of Ha Giang's high mountain passes, dropping 1,600 metres from the plateau edge down to the Nho Que River in a series of vertiginous switchbacks along a cliff face above a turquoise canyon. The canyon itself — carved by the Nho Que River over millennia through the limestone karst — is striking enough to stop riders in their tracks at every overlook. The pass appears roughly midway along the Ha Giang Loop, between Dong Van and Meo Vac.

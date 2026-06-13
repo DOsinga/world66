@@ -8,6 +8,7 @@ latitude: 23.073454
 longitude: 70.090585
 sources:
   - https://en.wikipedia.org/wiki/Adipur
+score: 7.1
 ---
 
 Adipur is the twin township of Gandhidham, founded at the same time and for the same purpose: resettling Hindu Sindhi refugees who had fled after Partition in 1947. Where Gandhidham was developed as a commercial and industrial hub around the railway and port, Adipur was intended as the residential and cultural heart of the displaced Sindhi community. The two towns have since merged into a single urban area under the Gandhidham Municipal Corporation, but Adipur retains its own identity and pride.

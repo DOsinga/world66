@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.4
 ---
 
 The Ganja Gate is the largest of the three surviving gates of the eighteenth-century fortress wall that once encircled Shusha. It sits on the northern edge of the old town, controlling what was historically the road to Ganja, and consists of two squat stone towers flanking a pointed-arch passage.

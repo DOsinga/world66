@@ -11,6 +11,7 @@ story: >
   The duel was fought at dusk on 15 July 1841. Lermontov's second later claimed the poet fired into the air, unwilling to shoot his opponent. His opponent, Major Martynov, did not reciprocate the gesture. Lermontov died on the spot. A thunderstorm broke over Mashuk as he fell, which Russians have recounted ever since as the mountain mourning its poet.
 sources:
   - https://en.wikipedia.org/wiki/Mikhail_Lermontov
+score: 7.8
 ---
 
 A stone obelisk on the lower slopes of Mount Mashuk marks the spot where Mikhail Lermontov was killed in a duel on 15 July 1841. The site is about a kilometre from the city centre, reachable on foot. A small ceremonial grove surrounds the obelisk, and the approach path passes through parkland that preserves the feeling of the semi-wild edge of town as it would have been in Lermontov's time.

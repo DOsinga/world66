@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 3,000-seat performing arts centre hosting Broadway tours and major touring concerts
+score: 6.4
 ---
 
 The Tanger Center opened in 2021 and is the biggest performing arts venue in the Triad. It seats just over 3,000 and pulls in a mix of Broadway touring productions, big-name concerts, and the Greensboro Symphony. The acoustics are by Akustiks and the auditorium has had broadly positive reviews from visiting performers.

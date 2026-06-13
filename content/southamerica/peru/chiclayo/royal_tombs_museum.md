@@ -12,6 +12,7 @@ story: "When archaeologist Walter Alva excavated Huaca Rajada in 1987, he found 
 sources:
   - https://en.wikipedia.org/wiki/Royal_Tombs_of_Sip%C3%A1n_Museum
   - https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n
+score: 9.3
 ---
 
 The Royal Tombs of Sipán Museum in nearby Lambayeque is the finest pre-Columbian archaeology museum in Peru and rivals anything in Lima. The building itself is striking — a modern stepped pyramid designed to echo the Moche temple mounds that the treasures came from. Inside, the exhibits are organised as a descent into the burial chambers: you enter at the top and work your way down, arriving at the recreated royal tomb with its gold and copper treasures at ground level.

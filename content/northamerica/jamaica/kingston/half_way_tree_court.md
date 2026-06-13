@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9989
 longitude: -76.7908
+score: 6.7
 ---
 
 Half Way Tree Transport Centre is the main public transport hub for Uptown Kingston and, by extension, one of the best places to observe how the city actually functions day to day. Route taxis — white Toyota Corolla station wagons that run fixed routes for a flat fare — converge here from every direction, their windscreen placards showing destinations from Papine to Portmore, Spanish Town to Bull Bay. JUTC buses also terminate here.

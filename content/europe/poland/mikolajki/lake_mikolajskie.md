@@ -14,6 +14,7 @@ story: >
   fishermen finally caught the king, the legend goes, the fish granted them a
   wish before being released, and the town that grew up here was named after
   Saint Nicholas, not the fish.
+score: 7.8
 ---
 
 Lake Mikołajskie is a glacial lake covering about five square kilometres, stretching 5.8 kilometres from north to south with a maximum depth of 26 metres. It is one of the most popular sailing lakes in Poland, and the waterfront at Mikołajki fills with masts and rigging from late May through September. The lake connects to Lake Tałty to the north and Lake Śniardwy — Poland's largest — to the south through a system of straits and canals, making it the hub of a much larger cruising ground.

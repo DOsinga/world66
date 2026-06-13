@@ -8,6 +8,7 @@ latitude: 39.1631
 longitude: 23.4900
 sources:
   - https://en.wikipedia.org/wiki/Papadiamantis_House_Museum
+score: 7.3
 ---
 
 The two-storey stone house on Papadiamantis Street where the writer Alexandros Papadiamantis was born in 1851 and died in 1911 has been preserved as a small museum. Papadiamantis is one of the most important figures in modern Greek literature — his short stories set on Skiathos captured island life with a precision and melancholy that still resonates. The museum displays his personal belongings, manuscripts, and first editions in the simply furnished rooms where he lived and worked.

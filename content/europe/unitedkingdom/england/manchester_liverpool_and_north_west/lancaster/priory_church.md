@@ -7,6 +7,7 @@ tags:
 snippet: "Medieval church with superb carved choir stalls and estuary views"
 latitude: 54.0494
 longitude: -2.8038
+score: 8.6
 ---
 
 The Priory Church of St Mary sits alongside the castle on Castle Hill and is one of the finest medieval churches in northwest England. Founded as a Benedictine priory in 1094, little of the original Norman structure survives — the current building is mostly 14th and 15th century, and all the better for it.

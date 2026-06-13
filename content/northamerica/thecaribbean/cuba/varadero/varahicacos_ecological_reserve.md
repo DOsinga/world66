@@ -10,6 +10,7 @@ latitude: 23.1871
 longitude: -81.1737
 story: >
   Cueva Ambrosio, the main cave in the reserve, contains 47 pre-Columbian pictographs painted by the Ciboney people who inhabited the peninsula before European arrival. The paintings — geometric shapes, human figures, and abstract forms in ochre and black — were discovered in the 1960s and represent one of the most significant collections of indigenous art in the Caribbean. The cave was also used as a tomb.
+score: 8.2
 ---
 
 At the eastern tip of the Hicacos Peninsula, away from the resort hotels, Varahicacos is a 730-acre protected area of coastal scrub, limestone outcrops, and native vegetation. It feels completely different from the resort strip — quieter, wilder, and genuinely interesting.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 58.3405
 longitude: 11.9527
+score: 6.4
 ---
 
 Tureborg is a faux-medieval castle built on a hill in the Tureborg neighbourhood of Uddevalla in the late 19th century, at a time when romantic historicism was fashionable among wealthy Swedish families. It sits on a forested ridge with views over the town and the fjord below.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Mosaic-covered church at the head of the Main Quad"
+score: 8.8
 ---
 
 The visual anchor of the Main Quad — a Romanesque cross with a glittering Venetian-mosaic facade

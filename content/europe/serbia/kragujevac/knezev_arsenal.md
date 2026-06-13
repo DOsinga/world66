@@ -6,6 +6,7 @@ tags: [things_to_do, sight, architecture, industry]
 latitude: 44.0089
 longitude: 20.9134
 story: "Knežev Arsenal — the Prince's Arsenal — was Serbia's first state-owned weapons factory, founded in 1853, when Kragujevac was made the industrial centre of the new nation. The complex of brick and stone halls grew into the Zastava arms works that still operates next door. Parts of the original arsenal now host concerts, art installations and a museum of industry, repurposing the cathedral-like industrial halls."
+score: 8.2
 ---
 
 Knežev Arsenal is a sprawling 19th-century industrial complex of red brick and iron — the original state arms factory — that has been partly turned over to cultural use. The high vaulted halls have the same scale and atmosphere as some of London or Berlin's repurposed industrial buildings, and the city has been working over recent years to open more of the site to visitors.

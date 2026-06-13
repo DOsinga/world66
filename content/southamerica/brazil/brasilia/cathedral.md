@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - religious_site
 - niemeyer
+score: 9.2
 ---
 
 Oscar Niemeyer's most beloved building, completed in 1970, sits at the western end of the Esplanada dos Ministérios. Sixteen 90-tonne concrete columns rise out of the ground in a hyperboloid curve, meeting in a slender ring at the top — Niemeyer said he wanted "an act of faith expressed in pure form".

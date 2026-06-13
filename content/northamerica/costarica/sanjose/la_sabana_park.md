@@ -12,6 +12,7 @@ tags:
   - sight
 title: La Sabana Metropolitan Park
 type: poi
+score: 7.0
 ---
 
 La Sabana is the closest San José comes to a Central Park — 72 hectares of lawns, sports fields, walking paths, and mature trees on the western edge of the city centre. On weekends it fills with joggers, football players, families grilling food, and teenagers on bicycles. The artificial lake in the centre is a meeting point. The park is always busy because it serves genuine community needs rather than functioning primarily as a tourist attraction.

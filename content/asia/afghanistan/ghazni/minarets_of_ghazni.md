@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: Two surviving brick towers from the Ghaznavid summer capital
 story: "When the explorer Charles Masson visited in 1832, both minarets still rose to almost twice their current height. The 1902 earthquake brought down their upper stages, and they have stood as stumps ever since — but their decorated brickwork is some of the finest in the Islamic world."
+score: 8.1
 ---
 
 The two **Minarets of Ghazni** stand on open ground about two kilometres north of the modern city, the last upright structures of the Ghaznavid summer palace complex. The taller — the **Minaret of Mas'ud III** — was built around 1115; the smaller, the **Minaret of Bahram Shah**, about 30 years later. They were originally part of mosque complexes, since vanished.

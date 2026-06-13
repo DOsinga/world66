@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Cafe Ferdowsi
 type: poi
+score: 5.4
 ---
 
 One of the newer specialty coffee places in central Shiraz, Cafe Ferdowsi pulls competent espresso, V60 pour-overs, and the usual selection of cakes, and is popular with university students. The room is small, with a few tables on the pavement and a long counter inside.

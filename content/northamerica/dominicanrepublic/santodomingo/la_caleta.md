@@ -8,6 +8,7 @@ tags:
 latitude: 18.4277
 longitude: -69.7832
 story: "The Hickory, the main wreck at La Caleta, was a decommissioned US Coast Guard vessel sunk deliberately in 1984 to create an artificial reef. It sits at about 16 metres and has colonised so thoroughly by coral and fish that it is now barely recognisable as a ship — more like an underwater garden with a ship-shaped skeleton at its centre."
+score: 7.3
 ---
 
 La Caleta Underwater National Park is the closest dive site to Santo Domingo, about 30 minutes east of the city by car. The park protects a stretch of Caribbean coast where calm, clear water and two shipwrecks — the Hickory and the Limón — provide excellent conditions for both diving and snorkelling. Several dive centres in Santo Domingo offer half-day excursions here.

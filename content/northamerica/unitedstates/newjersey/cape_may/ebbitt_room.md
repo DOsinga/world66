@@ -6,6 +6,7 @@ longitude: -74.9239
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 The dining room at the Virginia Hotel on Jackson Street is the most polished restaurant in town — small, candlelit, and serious about its kitchen. The menu changes with the seasons and uses Jersey produce and Delaware Bay seafood; it consistently wins state restaurant awards.

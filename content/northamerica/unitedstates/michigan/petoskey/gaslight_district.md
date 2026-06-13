@@ -8,6 +8,7 @@ latitude: 45.375
 longitude: -84.9553
 story: >
   The neighbourhood takes its name from the Victorian gas lamps that still line the streets — originally installed in the 1880s when Petoskey was an emerging resort town catering to wealthy Midwesterners escaping the heat of Chicago and Detroit. The original cast-iron lamp posts survive in modified form, now lit with electric lights shaped to resemble the originals.
+score: 7.2
 ---
 
 The Gaslight District is the heart of Petoskey's downtown — a ten-block stretch of Victorian commercial buildings on Lake and Howard Streets that has been maintained as a shopping and dining precinct. The buildings are well preserved and the streetscape is attractive without being too heavily themed. Independent shops predominate: galleries, clothing boutiques, bookstores, and kitchen stores mix in with the restaurants and cafes.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.3183
 longitude: -81.6576
+score: 6.7
 ---
 
 The Museum of Science and History sits on the Southbank Riverwalk and covers northeast Florida's natural and cultural history through a combination of permanent exhibits and rotating hands-on displays. The Currents of Time exhibit traces Jacksonville and northeast Florida's history from the Timucua people through Spanish colonialism, the Civil War, and the 20th century. The Alexander Brest Planetarium, inside the museum, offers regular sky shows on a 60-foot dome.

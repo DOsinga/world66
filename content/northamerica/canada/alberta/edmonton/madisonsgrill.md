@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.5419
 longitude: -113.4953
+score: 5.7
 ---
 
 Madison's Grill occupies the lobby level of the historic Union Bank Inn on Jasper Avenue, a converted bank building with cathedral ceilings and generous natural light. The menu is upscale Canadian with international influences — East Coast lobster, Atlantic salmon, Alberta beef, and pasta dishes alongside seasonal specials. The setting inside the heritage building is more interesting than most downtown hotel restaurants.

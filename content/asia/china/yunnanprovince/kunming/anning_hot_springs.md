@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hot_springs
+score: 6.4
 ---
 
 A small spa town 40 kilometres southwest of Kunming, Anning has been known for its hot springs since the Ming dynasty. The mineral-rich water emerges at around 45°C and is reputed to be especially gentle on the skin — "the first spring under heaven", in the inscription left here by the Ming admiral and viceroy Wang Hongzhao.

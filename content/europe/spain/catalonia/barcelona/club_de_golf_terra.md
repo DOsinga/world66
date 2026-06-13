@@ -7,6 +7,7 @@ tags:
 snippet: "Seaside 18-hole golf course in Sitges, near Barcelona"
 latitude: 41.2340
 longitude: 1.7850
+score: 4.0
 ---
 
 Club de Golf Terramar is an 18-hole course in Sitges, about 35 km southwest of Barcelona along the coast. The course runs close to the beach, and several holes have sea views -- it is one of the more scenic courses in Catalonia.

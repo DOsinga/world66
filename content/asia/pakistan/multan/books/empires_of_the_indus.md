@@ -5,6 +5,7 @@ author: "Alice Albinia"
 isbn: "978-0719560064"
 tags:
   - books
+score: 7.4
 ---
 
 Alice Albinia's 2008 travelogue follows the Indus river from the Arabian Sea up to its source in Tibet, and she spends a long chapter in **Multan** — the city that sits between the Chenab and the Indus and that has been a strategic prize for every empire that has tried to control either river. The Multan section weaves together the visit to the Shah Rukn-e-Alam shrine, the legacy of Muhammad bin Qasim's 712 AD conquest and the modern texture of bazaars and Sufi music.

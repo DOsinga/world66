@@ -11,6 +11,7 @@ tags:
 - bar
 title: Joe's Seafood Prime Steak & Stone Crabs
 type: poi
+score: 6.8
 ---
 
 From their famous home in Miami Beach, the crabs have arrived in Vegas!

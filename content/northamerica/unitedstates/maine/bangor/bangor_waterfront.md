@@ -10,6 +10,7 @@ story: >
   Penobscot watershed, floated downriver to the sawmills here and were loaded onto
   ships bound for Boston, New York, and Britain. The lumber trade had largely collapsed
   by the 1880s as the forests gave out.
+score: 6.4
 ---
 
 The Bangor Waterfront has been redeveloped into a pleasant riverside park along the Penobscot River, with a walking trail, public sculpture, and the Maine Savings Amphitheater — a summer concert venue that attracts national acts in pop, rock, and country. The waterfront is most alive on summer evenings when concerts are on, but it's worth visiting any time of year for the river views and a sense of the site's history.

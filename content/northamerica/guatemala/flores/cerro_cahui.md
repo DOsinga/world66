@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - hike
+score: 7.8
 ---
 
 A 650-hectare protected forest covering the peninsula behind El Remate, run as a research biotope by Universidad de San Carlos. Two trails — about 3 km and 6 km — loop through dry tropical forest with mahogany, ceiba, and cohune palm; birdlife is varied, howler and spider monkeys are routinely visible, and a small mirador on the upper trail looks back south across Lake Peten Itza.

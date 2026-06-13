@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 39.3986
 longitude: -84.5519
+score: 7.5
 ---
 
 Dayton Lane is Hamilton's best-preserved Victorian neighborhood, a grid of streets lined with late-19th-century houses ranging from modest workers' cottages to substantial Italianate and Queen Anne mansions. Listed on the National Register of Historic Places in 1983, it stands as evidence that Hamilton was once a prosperous manufacturing city whose business owners built confidently and well.

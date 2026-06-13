@@ -8,6 +8,7 @@ latitude: 34.5500
 longitude: 73.6667
 snippet: Spectacular mountain valley north of the city, gateway to Keran, Sharda, and Kel
 story: "The Neelum Valley road runs along the Line of Control with Indian-administered Jammu and Kashmir. For much of its length, the valley is visible from Indian territory and vice versa — the road was often closed or dangerous during periods of tension. Since the 2003 ceasefire, it has been more consistently open and accessible, opening up one of Pakistan's most beautiful mountain landscapes to visitors."
+score: 8.9
 ---
 
 The Neelum Valley stretches north from Muzaffarabad along the Neelum River into the high Himalayas, offering some of the most spectacular mountain scenery in Pakistan. The river runs clear and fast between forested slopes, and the villages along the valley — Keran, Sharda, Kel — become progressively more remote and more rewarding as you travel upstream.

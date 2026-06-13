@@ -7,6 +7,7 @@ tags:
 latitude: 51.1115
 longitude: 17.0326
 address: "Pasaż Niepolda, 50-127 Wrocław"
+score: 5.4
 ---
 
 A long covered passage between Św. Antoniego and Ruska streets, lined with bars, pubs and clubs in former 19th-century warehouses. Pasaż Niepolda is Wrocław's most concentrated nightlife strip — half a dozen venues side by side, mostly aimed at students and the under-30 crowd.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.0075
 longitude: 16.2310
+score: 5.9
 ---
 
 Casino Baden, founded in 1934 and operating in an elegant neoclassical building on the Kurpark, is one of Austria's oldest and most celebrated casinos. It occupies a former Kurhaus — the building where the fashionable set gathered to take the waters and socialise during Baden's imperial heyday — and the interior retains much of its grandeur, with high ceilings, chandeliers, and a ballroom that is still used for events.

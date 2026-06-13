@@ -5,6 +5,7 @@ latitude: 27.752
 longitude: -15.560
 snippet: "Several kilometres of golden sand beach backed by the resort strip"
 tags: [beaches, beach]
+score: 7.6
 ---
 
 The beach at Playa del Inglés runs about three kilometres from roughly San Agustín in the east to where the sand begins its transition into the Maspalomas dune system in the west. The sand is a warm gold colour, the water stays between 19 and 23 degrees Celsius through most of the year, and the gentle Atlantic swell makes it comfortable for swimming most days. Sun loungers and parasols are available for hire along the full length.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: FACT
 type: poi
+score: 7.4
 ---
 
 The Foundation for Art and Creative Technology — a contemporary arts venue on Wood Street with three cinema screens and three galleries, dedicated to film, video and new media. Programming runs from arthouse and indie cinema releases to commissioned digital art installations from international artists.

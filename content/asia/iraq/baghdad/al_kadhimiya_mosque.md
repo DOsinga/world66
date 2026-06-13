@@ -13,6 +13,7 @@ story: >
   anniversary of al-Kadhim's death, millions of pilgrims converge on the shrine
   from across Iraq and Iran, making the journey on foot in what is one of the
   largest religious gatherings on earth.
+score: 8.0
 ---
 
 The Al-Kadhimiya Mosque, in the Kādhimiya suburb north of central Baghdad, is one of the most important Shia shrines in the world. Its four golden minarets and two great gold-sheathed domes are visible from a considerable distance, and the shrine complex draws millions of pilgrims each year. The current building largely dates to restoration work carried out in the early 16th century under Shah Ismail I of Persia, with further embellishment by the Ottoman Sultan Suleiman the Magnificent after 1534.

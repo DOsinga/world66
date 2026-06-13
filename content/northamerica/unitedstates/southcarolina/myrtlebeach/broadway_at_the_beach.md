@@ -13,6 +13,7 @@ story: >
   district at a time when most American beach resorts were simply adding more strip 
   development. Whether it works aesthetically is debatable; whether it works commercially 
   is not. It draws over 15 million visitors per year.
+score: 4.4
 ---
 
 Broadway at the Beach is the commercial heart of Myrtle Beach's entertainment offering: a 350-acre complex built around a man-made lake off Kings Highway, ringed with restaurants, chain retail, nightclubs, and attraction buildings including a Ripley's Aquarium, mini-golf courses, and a wax museum. It looks like Las Vegas designed a family resort, which is essentially what it is.

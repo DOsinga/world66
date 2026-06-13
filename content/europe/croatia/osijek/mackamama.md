@@ -8,6 +8,7 @@ latitude: 45.5555
 longitude: 18.6972
 snippet: "Statue of Osijek's eccentric 19th-century noblewoman, surrounded by cats"
 story: "Paulina Hermann, a 19th-century Osijek noblewoman, was so devoted to cats that she kept hundreds of them in her mansion and left her entire estate to their upkeep in her will. After her death in 1832, the cats were distributed around the city. Locals still call her 'Mačkamama' — the Mother of Cats."
+score: 5.6
 ---
 
 The Mačkamama statue in central Osijek depicts Paulina Hermann, an eccentric 19th-century noblewoman who became a local legend for her obsessive devotion to cats. The bronze figure shows her surrounded by cats at her feet — an accurate representation of how she spent most of her life in her mansion on the main street.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.9480
 longitude: 82.6275
+score: 7.2
 ---
 
 The East Kazakhstan Regional Museum is the main historical and ethnographic museum in the city, covering the long human story of the region — from the Bronze Age Andronovo culture and the ancient Turkic and Mongolian periods through Russian colonial expansion, Soviet industrialisation, and the present. The collection includes archaeological finds from burial mounds in the surrounding steppe, traditional Kazakh domestic objects, and exhibits on the region's industrial and mining heritage.

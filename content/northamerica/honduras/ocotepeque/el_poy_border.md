@@ -7,6 +7,7 @@ tags:
 latitude: 14.3947
 longitude: -89.1772
 snippet: "Honduras-El Salvador border crossing, 4 km south of Ocotepeque"
+score: 4.9
 ---
 
 The El Poy crossing, about 4 km south of Ocotepeque on the Carretera CA-4, connects Honduras with El Salvador's Chalatenango department. It is the main crossing point for travelers heading between the two countries on the western highland route, busier with local traffic and trucks than with tourists.

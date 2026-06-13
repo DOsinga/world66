@@ -9,6 +9,7 @@ tags:
   - bondibeach
 latitude: -33.8950
 longitude: 151.2740
+score: 9.1
 ---
 
 The Bondi to Coogee walk is one of the finest urban coastal walks in the world — six kilometres of clifftop paths, ocean pools and tiny beaches strung between Bondi and Coogee along Sydney's eastern coastline. The walk passes Tamarama (known locally as Glamarama for the model population that sunbathes there), Bronte, Clovelly and Gordon's Bay before descending into Coogee. It takes between 2 and 3 hours at a comfortable pace, though most people stop for a swim or a coffee along the way.

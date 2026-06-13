@@ -5,6 +5,7 @@ tags: [things_to_do, outdoor, hiking]
 latitude: 47.68833333333333
 longitude: -122.13611111111112
 story: The PSE Trail (also called the Puget Power Trail or Redmond Powerline Trail) runs under high-voltage transmission lines through a narrow greenway corridor in north Redmond. The unpaved surface and wilder character set it apart from the manicured Sammamish River Trail nearby — it attracts mountain bikers and equestrians as well as walkers, and connects residential neighborhoods to the broader trail network.
+score: 5.8
 ---
 
 The PSE Trail follows a power-line easement through Redmond, providing a rougher and more natural trail experience than the paved riverside routes. The unpaved surface passes through areas of second-growth forest and open meadow, with the power lines overhead giving it an industrial edge that some find pleasingly honest about what urban green space often is.

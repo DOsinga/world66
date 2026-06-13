@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Restaurant Torkel
 type: poi
+score: 6.6
 ---
 
 Torkel sits in the middle of the Herawingert vineyard, inside a historic wine-pressing building belonging to the Prince of Liechtenstein. The chef specialises in freshwater fish and local produce, and the kitchen holds a Michelin star. Tables on the vine-shaded terrace are the best seats in Vaduz in summer. Book well in advance. Hintergass 9.

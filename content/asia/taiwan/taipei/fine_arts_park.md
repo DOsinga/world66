@@ -7,6 +7,7 @@ tags:
 - sight
 title: Taipei Fine Arts Park
 type: poi
+score: 6.9
 ---
 
 The broad green stretch of park between **Taipei Fine Arts Museum**, the **Taipei Story House**, and the river is one of the city's better open spaces — partly because it includes the **Yuanshan archaeological site**, one of the most important prehistoric finds in Taiwan, and partly because it has more public sculpture than any other district. Several large-scale installations from the Biennial are permanently sited here.

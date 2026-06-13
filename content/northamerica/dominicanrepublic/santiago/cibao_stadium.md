@@ -8,6 +8,7 @@ tags:
 title: Estadio Cibao
 type: poi
 snippet: Home of the Águilas Cibaeñas baseball team, opened 1958
+score: 8.3
 ---
 
 The Estadio Cibao is the home of the Águilas Cibaeñas, the most successful franchise in Dominican baseball and the heart of Santiago sporting life. The stadium has been in use since 1958 and seats around 18,000 — modest by major-league standards, but the atmosphere on a winter night when the Águilas play their archrivals from Santo Domingo is hard to match anywhere in the Caribbean.

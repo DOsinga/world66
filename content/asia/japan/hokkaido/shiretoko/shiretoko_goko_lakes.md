@@ -16,6 +16,7 @@ story: >
   inner trail network.
 sources:
   - https://en.wikipedia.org/wiki/Shiretoko_Goko_Lakes
+score: 8.8
 ---
 
 Shiretoko Goko is the most visited site on the peninsula — five small, deep-blue lakes connected by an elevated boardwalk loop through old-growth forest. The lakes reflect the volcanic peaks of the Shiretoko range and in autumn the surrounding trees turn vivid reds and yellows. Brown bears are regularly spotted near the lakes, and the rules governing access reflect this: all visitors must watch a bear awareness video before entering.

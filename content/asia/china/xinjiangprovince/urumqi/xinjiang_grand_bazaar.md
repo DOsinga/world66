@@ -9,6 +9,7 @@ latitude: 43.7900
 longitude: 87.6290
 story: >
   Ürümqi sits at almost exactly the midpoint of the ancient routes that carried silk west and horses east between China and the Mediterranean world. The city was a waypoint, not a destination — a place to resupply, trade, rest, and move on. The Grand Bazaar is the modern, somewhat sanitised echo of that function: commerce at a junction point of civilisations, now housed in a complex with a gate you can see from half a kilometre away.
+score: 8.2
 ---
 
 The Xinjiang International Grand Bazaar in the Erdaoqiao district is one of the largest bazaars in Central Asia and the commercial centre of Uyghur life in Ürümqi. The entrance is hard to miss: a tall Uyghur-style gate marks the threshold between the city's Han commercial strips and something altogether different inside. The stalls sell dried fruit in mountains — raisins, apricots, figs, jujubes — alongside spices, carpets, silk, traditional Uyghur clothing, and the distinctive pichak (Uyghur knives) that make excellent if occasionally complicated souvenirs.

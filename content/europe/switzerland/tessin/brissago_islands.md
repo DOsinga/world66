@@ -13,6 +13,7 @@ story: >
   beauty influenced the setting of several works he wrote during his years in Ticino.
 sources:
   - https://www.ascona-locarno.com/en/what-s-on/ticino-highlights
+score: 7.8
 ---
 
 Two small islands in the Swiss portion of Lake Maggiore, just south of Brissago, hold one of the finest botanical gardens in Switzerland. The larger island is entirely given over to the garden, which exploits the mild microclimate — among the warmest in the country — to grow subtropical and tropical species that have no business growing this far north: azaleas, cacti, eucalyptus, and banana plants alongside camellias and rhododendrons.

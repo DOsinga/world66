@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 story: "The cloister is the oldest part of the abbey complex — its squat sandstone arcades and short, sturdy columns date back to the 12th century. According to legend the abbey itself was founded by Charlemagne after he heard a dove drinking from a well in the forest here and took it as a divine sign."
+score: 8.4
 ---
 
 Tucked beside the Stiftskirche, the Romanesque cloister of the former Benedictine abbey is the prettiest single corner of Feuchtwangen — short, weathered sandstone arcades on stocky columns enclosing a small courtyard. The carved capitals are the original 12th-century work and worth a careful look.

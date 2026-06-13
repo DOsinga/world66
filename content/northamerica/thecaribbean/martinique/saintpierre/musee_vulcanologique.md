@@ -14,6 +14,7 @@ story: >
   himself, sifting through the ruins in the years following 1902. His personal fascination with
   the disaster made him one of the first scientists to systematically document the aftermath of
   a pyroclastic surge.
+score: 9.0
 ---
 
 The Musée Vulcanologique Frank Perret is the essential first stop in Saint-Pierre. Its collection of objects recovered from the ruins tells the story of the 8 May 1902 eruption more powerfully than any written account: clocks stopped at 8:02am, glass bottles fused and deformed by the heat, a church bell that melted and slumped out of shape, everyday kitchen items twisted beyond recognition. These are not reconstructions — they are the actual objects from the households of people who died that morning.

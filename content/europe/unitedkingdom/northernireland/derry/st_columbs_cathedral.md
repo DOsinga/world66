@@ -9,6 +9,7 @@ latitude: 54.9939
 longitude: -7.3231
 story: >
   Built between 1628 and 1633, this was the first post-Reformation cathedral erected in Britain or Ireland — a distinction that reflects how new and contested the Protestant presence in Ulster was at the time. Its construction was paid for by the City of London guilds who had sponsored the Plantation of Ulster, which is why the city was renamed Londonderry.
+score: 7.6
 ---
 
 St Columb's Cathedral stands within the city walls in the south-west corner of the old city, built from the same grey-green schist as the walls themselves. It is the cathedral of the Church of Ireland's Diocese of Derry and Raphoe, and at nearly four centuries old, it is the oldest surviving building in Derry.

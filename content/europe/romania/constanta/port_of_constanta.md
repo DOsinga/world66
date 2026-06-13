@@ -8,6 +8,7 @@ snippet: The largest port on the Black Sea and one of the most important in the 
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The **Portul Constanța** is the largest port on the Black Sea and the engine of the city's economy — a vast complex that runs for more than thirty kilometres of quay, handling oil, grain, containers and bulk minerals from the Danube hinterland and beyond. Since 2022 it has also become Europe's main alternative export route for Ukrainian grain, with thousands of barge tows running down the river to the sea.

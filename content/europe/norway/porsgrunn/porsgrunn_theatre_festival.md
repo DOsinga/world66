@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.1104
 longitude: 9.7270
+score: 7.0
 ---
 
 The Porsgrunn International Theatre Festival takes place every June and transforms the compact city centre into an outdoor performance space for a week. Street performers, circus acts, physical theatre companies, and clowns from across Europe converge on the waterfront and the main squares for shows that range from intimate pieces in small venues to large-scale spectacles that fill the streets.

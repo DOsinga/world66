@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.0747
 longitude: 12.6056
+score: 7.7
 ---
 
 The vast Franciscan friary attached to the Basilica di San Francesco — a complex of buildings on multiple terraces propped up by the famous arcade of arches that you see on the approach from the plain. Begun in the 1230s alongside the basilica, it has been continuously inhabited by Franciscan friars ever since.

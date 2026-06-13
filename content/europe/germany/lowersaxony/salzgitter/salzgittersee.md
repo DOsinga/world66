@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.15694
 longitude: 10.30500
+score: 5.8
 ---
 
 A large recreational lake on the western edge of Salzgitter-Lebenstedt, formed in the 1970s when former iron-ore mining pits were flooded. Today it's the city's main outdoor escape: a sandy beach, a swimming area, pedalo and boat rentals, and a promenade that loops around much of the shore.

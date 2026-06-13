@@ -9,6 +9,7 @@ tags:
   - nature
 story: >
   Tankar island has been a navigation landmark since 1608, when the first lighthouse was established here. The current lighthouse dates from 1889. The island is one of the best seabird nesting sites in the Gulf of Bothnia — tens of thousands of eider ducks, common terns, and black guillemots nest on the low rocky outcrops in summer. The lighthouse keeper's cottage, now a summer café, was inhabited continuously from the lighthouse's founding until automation ended the posting.
+score: 8.2
 ---
 
 Tankar is a small rocky island about 20 km off the coast of Kokkola, topped by a red and white lighthouse that has been guiding ships through the Gulf of Bothnia for over four centuries. In summer, a passenger ferry runs from Kokkola harbour to the island and back, taking about an hour each way.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The main square of the medina, lined with cafes and connecting old town to port
+score: 8.0
 ---
 
 The central square of Essaouira's medina, a wide pedestrian space between the fortified walls and the port. During the day it is the town's main gathering point: café chairs spread across the paving, vendors sell argan oil and spices, and the crowd is a mix of Moroccan families and international visitors. In the evenings it fills further as people return from the beach and the port.

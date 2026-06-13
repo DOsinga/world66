@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
   - historic_house
+score: 7.9
 ---
 
 A grand sea-captain's mansion from the late 18th century, halfway up the slope on the west side of the harbour, now operated as a branch of the National Historical Museum. Lazaros Kountouriotis was one of the wealthiest merchants on Hydra and one of the principal financiers of the Greek War of Independence — he spent his fortune outfitting ships and supplying the revolutionary fleet.

@@ -15,6 +15,7 @@ story: >
   pilgrims from across Punjab and Himachal Pradesh. Local legend says the
   sacred stone emerged from the earth on its own rather than being installed
   by human hands.
+score: 7.0
 ---
 
 Kathgarh Temple, about 22 kilometres southeast of Pathankot near the town of Kathua, is one of the most important Shiva shrines in the region and a significant pilgrimage destination. The temple houses an extraordinary Ardhnarishwar Shivalingam — a single stone naturally divided into two halves, one representing Shiva and the other Parvati, symbolising the inseparable union of masculine and feminine divine principles.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Rufabgo_Falls
 story: >
   The Adyghe people have their own myths about the Rufabgo canyon: the waterfalls are said to be the former home of a giant called Rufabgo who terrorised the surrounding people until he was defeated by the hero Sozrukh. The dark pools and narrow gorge walls are the kind of landscape that generates myths easily. Local guides still tell the story on the descent into the canyon.
+score: 7.8
 ---
 
 The Rufabgo Waterfalls are a series of cascades in a narrow limestone gorge about 65 kilometres south of Maykop, near the village of Kamennomostsky. The Rufabgo stream drops through a series of seven main waterfalls over about 4 kilometres of canyon, the largest of which — Shum — falls about 6 metres into a deep pool. The limestone walls of the gorge are up to 70 metres high and heavily forested, making it an impressive destination in its own right rather than just a scenic detour.

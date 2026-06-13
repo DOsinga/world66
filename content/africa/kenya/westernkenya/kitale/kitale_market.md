@@ -7,6 +7,7 @@ tags:
 latitude: 1.018
 longitude: 35.001
 snippet: "Busy agricultural market at the centre of Trans-Nzoia's farming economy"
+score: 5.8
 ---
 
 Kitale's market is the commercial heart of Trans-Nzoia County, one of Kenya's most productive agricultural regions. The stalls spill out along the streets surrounding the main market building, with maize, beans, potatoes, fresh vegetables, and fruit piled high on tables and spread out on cloths on the ground.

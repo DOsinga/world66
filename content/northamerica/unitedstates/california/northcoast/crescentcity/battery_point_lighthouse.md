@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Battery Point Lighthouse
 type: poi
+score: 8.3
 ---
 
 Built in 1856, Battery Point is the oldest working lighthouse on the Pacific Coast, and it earns that distinction. At low tide, a causeway emerges from the water and you can walk across to the small island where the lighthouse stands. Inside, volunteer docents from the Del Norte County Historical Society give tours of the keeper's quarters, which have been preserved largely as they were in the nineteenth century.

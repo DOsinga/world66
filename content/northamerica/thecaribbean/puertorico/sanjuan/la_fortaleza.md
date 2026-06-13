@@ -10,6 +10,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "When La Fortaleza was finished in 1540, the Spanish realised they had built it in completely the wrong spot — too far inside the bay, with no clear field of fire on incoming ships. They started over with El Morro a few years later. Despite the mistake, La Fortaleza never stopped being the seat of government and is the oldest continuously occupied executive mansion in the Americas."
+score: 7.9
 ---
 
 La Fortaleza, also called the Palacio de Santa Catalina, is the official residence of the Governor of Puerto Rico. The original sixteenth-century fortress has been swallowed by four centuries of additions; the pink-painted neoclassical front you see from Calle Fortaleza dates mostly from the 1840s, but two of the original towers are still standing.

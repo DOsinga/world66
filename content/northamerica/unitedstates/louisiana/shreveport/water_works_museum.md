@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The McNeill Street Pumping Station is the only steam-powered municipal water plant left in the United States — and possibly the world — with all of its original equipment intact and operable. It pumped Shreveport's drinking water from 1887 until 1980."
+score: 8.3
 ---
 
 A National Historic Landmark and a quietly extraordinary building — three vast brick pump halls full of cast-iron flywheels, gauges, and Worthington compound engines, all kept in working order by a small group of volunteers. They will fire up the steam plant for organised tours.

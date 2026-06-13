@@ -6,6 +6,7 @@ longitude: -84.701
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Thomas Hughes's own house in Rugby, built in 1884. He lived here only briefly — most of his time was still spent in England, and he visited the colony just twice — but the cottage has been preserved with much of the furniture he shipped over from London. The interior is small, dim, and unmistakably Victorian.

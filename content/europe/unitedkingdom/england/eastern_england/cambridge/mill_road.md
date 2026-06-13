@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 52.2013
 longitude: 0.1297
+score: 7.6
 ---
 
 Mill Road is the main street of multicultural Cambridge — a mile-long stretch running southeast from the city centre through the working-class Romsey Town neighbourhood that has gradually filled with independent shops, restaurants, and cafes. It is where Cambridge residents actually shop and eat: Turkish, Ethiopian, Sri Lankan, Persian, and Indian restaurants; a Saturday morning street market; independent bookshops; a deli or two; and some of the city's best pubs.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Tigrovaya Balka Nature Reserve
 type: poi
+score: 7.7
 ---
 
 Tigrovaya Balka ("Tiger Ravine") Nature Reserve, south of Bokhtar near the Afghan border, protects one of the last remaining stands of tugai — the dense riverine forest of willow, tamarisk, and reeds that once lined the rivers of Central Asia. This habitat has been almost entirely destroyed by Soviet-era irrigation schemes, and Tigrovaya Balka is one of its last refuges.

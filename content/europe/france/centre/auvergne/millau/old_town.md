@@ -6,6 +6,7 @@ longitude: 3.0788
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The old centre of Millau is small enough to walk through in an hour but pretty enough to come back to. The Place du Maréchal Foch — locals just call it Place Foch — is an arcaded square with cafés on every side, lined by stone houses with covered walkways. The octagonal belfry of the Église Notre-Dame de l'Espinasse rises a couple of blocks away.

@@ -14,6 +14,7 @@ story: >
   the outer coast in 1774 was using information passed to them by Haida people they
   encountered. Captain Cook's chart of 1778 is recognisable; the Haida place names on
   the islands they pass are not.
+score: 9.1
 ---
 
 Sea kayaking through Gwaii Haanas is the best way to experience the southern archipelago — moving quietly between islands, camping on beaches, and arriving at abandoned village sites from the sea as the Haida themselves would have. Several operators based in Queen Charlotte offer guided multi-day kayak expeditions through the park, typically lasting 7 to 12 days and covering the highlights from Moresby Camp to SGang Gwaay.

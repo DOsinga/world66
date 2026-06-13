@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 neighbourhood: Bremerton
+score: 6.9
 ---
 
 The Puget Sound Navy Museum sits directly opposite the Bremerton ferry terminal in a former Navy Yard fire station and tells the story of the Pacific fleet and the shipyard that supports it. Exhibits cover everything from the launching of the Maine in 1895 to recent carrier overhauls; standout pieces include a working bridge simulator, large-scale models of every carrier ever based on the West Coast, and salvaged hardware from a century of work in the dry docks.

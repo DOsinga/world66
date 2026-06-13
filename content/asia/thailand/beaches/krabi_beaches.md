@@ -6,6 +6,7 @@ longitude: 98.9063
 snippet: "Limestone karsts and turquoise water along Thailand's Andaman coast"
 tags:
 - things_to_do
+score: 9.4
 ---
 
 The Krabi coastline offers some of the most dramatic beach scenery in Southeast Asia. Towering limestone karsts rise straight out of turquoise water, and the variety of beaches means you can find something whether you want a party scene or solitude.

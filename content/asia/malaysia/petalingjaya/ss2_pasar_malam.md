@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - ss2
+score: 7.5
 ---
 
 The SS2 night market on Monday evenings is the biggest pasar malam in PJ and one of the biggest in the Klang Valley. Several hundred stalls fill the square and the surrounding streets — fruit, hawker noodles, satay, freshly pressed sugar cane juice, fried chicken, pirate DVDs, fake watches, slippers, the occasional puppy.

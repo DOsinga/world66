@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 24.4975
 longitude: 93.9845
+score: 6.7
 ---
 
 Kakching's main market — locally divided into the Main Market and the Super Market — is one of the liveliest in southeastern Manipur and worth wandering for an hour even if you are not buying anything. The stalls move between agricultural produce, textiles, handicrafts, and electronics, much of it imported from Myanmar across the nearby border.

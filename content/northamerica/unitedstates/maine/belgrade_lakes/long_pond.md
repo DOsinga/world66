@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.5050
 longitude: -69.9200
+score: 8.2
 ---
 
 Long Pond runs roughly north-south for about seven miles immediately west of Belgrade Lakes village, separated from Great Pond by the narrow strip of land that the village occupies. It is the most scenic of the chain — long, narrow, with steep wooded hills on the west bank that have been protected through conservation easements and that hold the longest stretch of undeveloped shoreline in the area.

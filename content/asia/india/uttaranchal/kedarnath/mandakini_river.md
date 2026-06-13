@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.7340
 longitude: 79.0670
+score: 6.2
 ---
 
 The cold glacial river that runs past the Kedarnath temple, fed by the Chorabari and Companion glaciers and flowing down to join the Alaknanda at Rudraprayag. The Mandakini is considered holy and many pilgrims take a ritual bath in the icy water near the temple before entering for darshan.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.8053
 longitude: -16.8800
+score: 6.2
 ---
 
 Santana is a small town on Madeira's north coast known for its A-frame thatched cottages — small, triangular, brightly painted houses with steep roofs sweeping down almost to the ground. They are the traditional rural dwelling of this part of the island and a handful are preserved in the centre of the village as a kind of open-air folk museum.

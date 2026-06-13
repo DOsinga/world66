@@ -6,6 +6,7 @@ tags:
 - museum
 title: Lanna Folklife Museum
 type: poi
+score: 7.8
 ---
 
 The Lanna Folklife Museum occupies a colonial-era building near the Three Kings Monument in the old city and does an excellent job explaining the everyday culture of the Lanna kingdom — the northern Thai civilisation that ruled this region from the 13th to the 18th century. Exhibits cover traditional clothing, household objects, religious practices, and agricultural tools, all with good English labelling.

@@ -14,6 +14,7 @@ tags:
 title: Restaurant Croatia - Zur Mühle
 type: poi
 url: www.restaurant-zur-muehle.de
+score: 4.9
 ---
 
 A family-run restaurant in the Wolfskehlen district of Riedstadt, housed in a former mill along the B26. The menu splits between German standards and Croatian specialties — expect grilled meats, cevapcici, and hearty stews alongside schnitzel and local Hessian dishes. Portions are generous and prices reasonable. The staff are notably welcoming, and the setting along the road has a certain rustic charm.

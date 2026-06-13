@@ -13,6 +13,7 @@ story: >
   the island's coastline is rocky or pebbly. The beach faces southwest, which
   gives it some shelter from the prevailing Baltic wind and makes it reliably
   warmer than beaches on the exposed northern coast.
+score: 7.4
 ---
 
 Balka is a small seaside village about 3 kilometres southwest of Nexø, and its beach is among the finest on Bornholm. The sand is clean and fine, the water shallow and relatively warm by Baltic standards, and the setting — a gentle curve backed by low dunes and a few summer houses — is easy and uncrowded outside July.

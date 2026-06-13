@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 Kilmalkedar is a complex of early Christian and medieval ruins around a roofless 12th-century Hiberno-Romanesque church a few kilometres beyond Gallarus. The church has the same corbelled stone construction at one end but adds a richly carved Romanesque doorway, a chancel arch, and several centuries of accumulated stonework — a useful contrast to the much earlier Gallarus.

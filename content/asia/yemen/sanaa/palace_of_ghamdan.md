@@ -15,6 +15,7 @@ tags:
   - old_city
 title: Palace of Ghamdan
 type: poi
+score: 6.9
 ---
 
 Said to be one of the world's earliest multi-storey structures, the Palace of Ghamdan is now largely in ruins — much was demolished in the early Islamic period — but the remnants stand within the old city and are worth visiting for the sense of how ancient and layered Sana'a actually is. Even in ruin it conveys something of the ambition of pre-Islamic Arabian architecture.

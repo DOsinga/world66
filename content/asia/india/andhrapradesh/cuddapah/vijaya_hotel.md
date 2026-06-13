@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - vegetarian
+score: 5.8
 ---
 
 Vijaya Hotel occupies the clock-tower building at the Seven Roads junction and is one of the most recognised pure-vegetarian restaurants in the city. The food is straight-down-the-line south Indian: dosas in the morning, full meals at lunch, tiffin items in the evening. Prices are low and the service is fast.

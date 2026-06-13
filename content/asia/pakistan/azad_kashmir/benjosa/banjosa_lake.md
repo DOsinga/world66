@@ -8,6 +8,7 @@ tags:
 latitude: 33.8106
 longitude: 73.8164
 story: "The lake is artificial — dammed in the 1980s for water storage — but the surrounding pine forest predates it by centuries and gives the basin a settled, almost alpine feel that you don't expect a few kilometres above the plain."
+score: 8.2
 ---
 
 A dammed lake set in dense pine and oak forest at about 1,980 metres, Banjosa Lake is the reason most visitors come up here. The water is clear, ringed by a walking path that takes around 40 minutes at an easy pace, and there are paddle boats and rowing boats for hire by the hour. Trout fishing is permitted with a permit from the Fisheries Department.

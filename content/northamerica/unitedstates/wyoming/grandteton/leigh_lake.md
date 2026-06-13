@@ -7,6 +7,7 @@ tags:
   - lake
 title: Leigh Lake
 type: poi
+score: 7.4
 ---
 
 Leigh Lake is quieter than Jenny Lake, with clear water and close views of Mount Moran. Canoes, kayaks, and easy shoreline walking make it a good choice when the busier trailheads feel overrun.

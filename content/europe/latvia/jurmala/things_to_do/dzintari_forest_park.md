@@ -1,6 +1,7 @@
 ---
 title: "Dzintari Forest Park"
 type: poi
+score: 6.6
 ---
 
 Dzintari Forest Park is a quiet expanse of pine woodland between the Dzintari train stop and the beach, crisscrossed by sandy paths and wooden boardwalks. It's used by Jurmala residents as an everyday park — somewhere for a morning run, a walk with a dog, or a picnic away from the crowds on Jomas iela. In summer the air smells strongly of warm pine resin.

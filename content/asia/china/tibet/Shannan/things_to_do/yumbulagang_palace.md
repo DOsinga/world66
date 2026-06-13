@@ -9,6 +9,7 @@ longitude: 91.7467
 story: "Yumbulagang is said to be where the first Tibetan king, Nyatri Tsenpo, descended from the sky to rule over the people of the Yarlung valley. According to tradition, this was around the 2nd century BC — making it the oldest surviving structure in Tibet, though the current building is largely a 1980s reconstruction of the original, which was destroyed during the Cultural Revolution."
 sources:
   - https://en.wikipedia.org/wiki/Yumbulagang
+score: 8.4
 ---
 
 Yumbulagang Palace perches on a narrow rocky ridge above the Yarlung valley, a slim tower of whitewashed stone that has served as watchtower, palace, and eventually monastery over its long history. It is Tibet's oldest surviving building — or at least, the oldest site in continuous use — and the views from the ridge across the barley fields and river below are magnificent.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 26.4659
 longitude: -80.0726
+score: 5.8
 ---
 
 A small house museum operated by the Delray Beach Historical Society in a restored 1915 wooden cottage that belonged to a Methodist minister named John Cason. The interior has been furnished to look like an early-20th-century Florida home, with photographs and documents tracing the town's growth from a Bahamian settlement to a 1920s resort.

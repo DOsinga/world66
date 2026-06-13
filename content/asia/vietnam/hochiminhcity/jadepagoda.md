@@ -18,6 +18,7 @@ story: >
   was beamed around the world.
 sources:
   - https://en.wikipedia.org/wiki/Jade_Emperor_Pagoda
+score: 8.8
 ---
 
 The Jade Emperor Pagoda (Chua Ngoc Hoang or Phuoc Hai Tu) is one of the most atmospheric temples in Ho Chi Minh City. Built by the Cantonese community in 1909, the pagoda is dedicated to the Jade Emperor, the supreme deity in the Taoist pantheon. Inside, the air is thick with incense smoke and the rooms are packed with an elaborate collection of gilded wooden statues, papier-mache figures, and carved panels depicting Buddhist and Taoist divinities.

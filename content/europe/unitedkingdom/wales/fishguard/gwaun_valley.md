@@ -10,6 +10,7 @@ longitude: -4.9200
 story: "The Gwaun Valley is one of the few places in Wales where the old Julian calendar is still observed. The local community celebrates New Year on January 13th — Hen Galan, or 'Old New Year's Day' — with a tradition that predates the 1752 calendar reform that moved Britain to the Gregorian calendar. Children go from door to door collecting gifts of money and food, a custom called 'Calennig' that has died out almost everywhere else."
 sources:
   - https://en.wikipedia.org/wiki/River_Gwaun
+score: 7.6
 ---
 
 The Gwaun Valley runs inland from Fishguard through one of the most beautiful and secluded landscapes in Pembrokeshire. The River Gwaun flows through a deep, wooded gorge below the northern edge of the Preseli Hills — a narrow, winding road follows it, passing through hamlets of whitewashed farmhouses and old mill buildings. The valley has an otherworldly, enclosed quality, a green tunnel between the open hillsides above.

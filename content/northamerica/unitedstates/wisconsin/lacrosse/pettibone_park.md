@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.817
 longitude: -91.262
+score: 6.3
 ---
 
 Pettibone Park occupies an island in the Mississippi River just west of downtown, connected to the city by a causeway. The park has a beach on the protected backwater side that is popular in summer for swimming, and a boat launch for those exploring the river by kayak or canoe. The backwater channels between Pettibone Island and the Wisconsin shore are shallow and calm, making them good for beginner paddlers and for watching herons, egrets, and the occasional bald eagle.

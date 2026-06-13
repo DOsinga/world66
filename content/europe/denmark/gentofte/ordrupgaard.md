@@ -9,6 +9,7 @@ latitude: 55.7669
 longitude: 12.5633
 sources:
   - https://en.wikipedia.org/wiki/Ordrupgaard
+score: 8.8
 ---
 
 Ordrupgaard is one of the finest small art museums in northern Europe, and the least trumpeted. Housed in a late 19th-century manor house in Charlottenlund, it holds a collection built around French Impressionism and Danish Golden Age painting — Gauguin, Manet, Degas, Sisley, and Morisot on one side; Hammershøi, Købke, and Lundbye on the other. The pairing is unusual and it works: the grey Danish light that Hammershøi painted indoors is the same light that falls through the museum windows.

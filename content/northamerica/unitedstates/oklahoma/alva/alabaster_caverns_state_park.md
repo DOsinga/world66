@@ -9,6 +9,7 @@ snippet: One of the world's largest gypsum caves open to the public
 latitude: 36.7028
 longitude: -99.1517
 story: "The main cavern is carved from a single bed of pink, white, and translucent alabaster — a rare massive form of gypsum. Five species of bat roost in the cave's side passages, and the park naturalists time guided tours so visitors can watch them emerge at dusk."
+score: 7.8
 ---
 
 Alabaster Caverns lies about 30 miles south of Alva near the town of Freedom. The main cavern is a 200-million-year-old gypsum cave roughly three-quarters of a mile long; guided tours run hourly and last about 45 minutes. The temperature inside stays at 50°F regardless of the weather outside, so bring a sweater.

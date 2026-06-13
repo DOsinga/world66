@@ -16,6 +16,7 @@ story: >
   took four field seasons to clear. At the bottom lay the intact sarcophagus
   of Pakal the Great, sealed for 1,300 years, covered in jade and cinnabar,
   the ruler's face masked in a jade mosaic of astonishing craftsmanship.
+score: 9.3
 ---
 
 Palenque was one of the great city-states of the Classic Maya world, reaching its peak between roughly 600 and 800 AD under a series of brilliant rulers. Set against a wall of jungle-covered hills, the site has an atmosphere that few ruins can match: the sound of howler monkeys drifts down from the trees, and the stones are still green with moss in the wetter months.

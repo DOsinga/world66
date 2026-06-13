@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -26.9245
 longitude: -49.0734
+score: 7.3
 ---
 
 Bierland is one of Blumenau's most celebrated craft breweries, producing German-style lagers, weissens, and bocks that have won prizes at international beer competitions. The brewery runs guided tours of the production facility followed by tastings in the taproom. The Märzen and the Dunkel are both excellent.

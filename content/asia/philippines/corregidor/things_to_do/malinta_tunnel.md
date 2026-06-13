@@ -11,6 +11,7 @@ tags:
 - world_war_ii
 title: Malinta Tunnel
 type: poi
+score: 8.9
 ---
 
 The Malinta Tunnel is a network of lateral tunnels blasted through the volcanic rock of Malinta Hill in the 1930s. During the Japanese siege of 1942 it served simultaneously as General MacArthur's headquarters, a military hospital for the wounded from Bataan, and a refuge for thousands of Filipino and American soldiers. The main corridor runs 253 metres with 24 lateral branches. A sound-and-light show recreates the wartime siege conditions and is the most atmospheric single experience on the island.

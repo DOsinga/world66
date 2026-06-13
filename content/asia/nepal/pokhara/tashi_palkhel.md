@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: One of four Tibetan refugee settlements in Pokhara, with a monastery and a carpet workshop
+score: 7.2
 ---
 
 A Tibetan refugee settlement of around 1,000 people, founded in the early 1960s after the Chinese occupation of Tibet. Tashi Palkhel — at Hyangja, about 7km north of Pokhara — is the largest of the four such settlements around the city and the easiest to visit.

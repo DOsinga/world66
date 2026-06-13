@@ -7,6 +7,7 @@ tags:
 - museum
 title: Palace of the Dukes of La Roca
 type: poi
+score: 7.4
 ---
 
 A 16th-century palace built into the Alcazaba walls, now home to the Provincial Archaeological Museum. The collection spans prehistory to the Moorish period, with over 15,000 items from sites across the province — much of it brought together from the dolmens, Roman villas and Visigothic settlements scattered across Extremadura.

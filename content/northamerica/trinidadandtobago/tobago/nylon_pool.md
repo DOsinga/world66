@@ -8,6 +8,7 @@ tags:
 latitude: 11.1850
 longitude: -60.8450
 snippet: A shallow sandbar in the middle of the lagoon off Pigeon Point, with warm knee-deep water
+score: 6.6
 ---
 
 The Nylon Pool is a shallow, sheltered sandbar sitting in the middle of the lagoon off Pigeon Point, accessible only by boat. The water is barely knee-deep over the white sand, perfectly clear and considerably warmer than the surrounding sea — the combination of shallowness and sun heating the sand gives it a bathtub quality that makes it feel impossible to be this far offshore. Local legend holds that bathing in the pool restores youth.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.217
 longitude: 55.762
+score: 8.8
 ---
 
 The Al Ain Oasis lies on the UAE side of the border, a short taxi from central Buraimi, but it is the single most rewarding sight in the wider area and the obvious reason to come up here. The oasis is a thousand hectares of date plantations criss-crossed by traditional **falaj** irrigation channels, with shaded walking paths winding between the palms.

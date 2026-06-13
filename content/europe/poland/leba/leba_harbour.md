@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.7620
 longitude: 17.5480
+score: 6.6
 ---
 
 Łeba's small harbour sits where the Łeba river meets the sea, sheltered behind a breakwater on the eastern side of the beach. Fishing boats go out and come back here most mornings, bringing in Baltic cod, herring, and flounder. It is a genuinely working harbour, not a tourist marina, and on a weekday morning the activity around the boats and fish stalls gives the town its best flavour.

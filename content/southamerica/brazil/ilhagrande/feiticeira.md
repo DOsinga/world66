@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -23.1492
 longitude: -44.1850
+score: 7.2
 ---
 
 A small waterfall about 90 minutes' walk from Abraão along the western trail. The water falls 15 metres into a clear, cold pool that is deep enough to swim in and just wide enough to feel like a private hideout. The forest around the pool is dense and shady, with the constant noise of insects.

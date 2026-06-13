@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.00666
 longitude: 36.20483
+score: 8.8
 ---
 
 The Baalbeck International Festival, held annually in July and August, is one of the most distinctive cultural events in the Middle East. Concerts, dance performances, and theatrical productions take place in the courtyard of the Roman temples — with the columns of the Temple of Jupiter as a backdrop and the Bekaa Valley sky above. The scale and drama of the setting is unlike anything available to performers in a conventional venue.

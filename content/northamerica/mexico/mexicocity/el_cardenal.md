@@ -7,6 +7,7 @@ neighbourhood: Centro Histórico
 address: "Palma 23, Centro"
 latitude: 19.4338
 longitude: -99.1385
+score: 7.6
 ---
 
 El Cardenal has been the place upper-middle-class Mexican families come for Sunday lunch since 1969. The original branch on Palma is the most atmospheric — a colonial townhouse converted into multiple dining rooms with high ceilings and tile floors. Politicians and bankers eat here on weekdays; weekends are family parties.

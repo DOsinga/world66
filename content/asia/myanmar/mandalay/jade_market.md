@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 21.9759
 longitude: 96.0820
+score: 8.4
 ---
 
 Mandalay's Jade Market is one of the most absorbing bazaars in Myanmar — a warren of stalls and workshops where raw jade boulders from Kachin State are assessed, traded, carved, and sold. Dealers with loupes examine rough stones under bare light bulbs; craftsmen work at spinning wheels cutting jade into bangles and discs; merchants display finished pieces from jadeite pendants to carved figures.

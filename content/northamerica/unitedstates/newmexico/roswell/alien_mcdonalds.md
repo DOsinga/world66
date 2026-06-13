@@ -8,6 +8,7 @@ tags:
 address: "720 N Main St, Roswell, NM"
 latitude: 33.4030
 longitude: -104.5230
+score: 5.6
 ---
 
 Built in the late 1990s during Roswell's full embrace of its UFO identity, this McDonald's on North Main Street is unmistakable: the play structure is shaped like a flying saucer, complete with portholes and lights, and the building itself includes spaceship motifs.

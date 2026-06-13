@@ -12,6 +12,7 @@ story: >
   of clear water that maintains its colour and temperature regardless of season. The spring
   feeds a series of swimming holes connected by a short jungle trail, and the water runs blue-green
   year-round — the mineral content from the limestone produces the colour.
+score: 7.4
 ---
 
 Nuoc Mooc is a short eco-trail in the western section of the national park, less visited than the main cave circuit, that leads through jungle to a series of spring-fed swimming pools. The water is clear and cold — unusually so in this climate — and a vivid blue-green from the mineral content of the limestone geology. You can swim in the main pool, then walk deeper along the trail to smaller pools and waterfalls.

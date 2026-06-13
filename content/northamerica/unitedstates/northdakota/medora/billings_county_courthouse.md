@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.9128
 longitude: -103.5222
+score: 5.3
 ---
 
 The Billings County Courthouse is a modest two-story brick building from around 1880, remodelled in 1913 to its present form. It is one of the oldest functioning courthouses in North Dakota, still used for local proceedings despite serving a county with fewer than a thousand residents.

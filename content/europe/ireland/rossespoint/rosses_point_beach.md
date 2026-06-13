@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 54.3074
 longitude: -8.5654
+score: 7.2
 ---
 
 Two long sandy beaches — the First Beach near the village pier and the Second Beach a little further north — make Rosses Point a long-standing favourite for Sligo families on hot summer weekends. The water is clean enough to swim in, the sand is firm enough to walk for miles, and the views inland to Knocknarea and Benbulben are exceptional.

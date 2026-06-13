@@ -8,6 +8,7 @@ tags:
 title: Shrine of Shah Shams Tabrez
 type: poi
 story: "Local legend says that on a sweltering day Shah Shams summoned the sun closer to roast a fish for himself; the sun obliged so enthusiastically that it never quite went back. Multanis still blame him for the city's heat."
+score: 8.0
 ---
 
 About five hundred metres east of the old fort, on the high bank of a dried branch of the river Ravi, stands the **Shrine of Shah Shams Tabrez** (Syed Shams-ud-Din Sabzwari), the third of Multan's great Sufi tombs after Rukn-e-Alam and Bahauddin Zakariya. The saint, a Persian-born missionary of the **Ismaili** community, died in 1276 AD. The original tomb was built by his grandson around 1330 and substantially rebuilt in 1718.

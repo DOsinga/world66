@@ -9,6 +9,7 @@ latitude: 33.9057
 longitude: 73.3922
 story: >
   Holy Trinity Church was built in 1857 — the year of the Indian Rebellion — as a garrison church for the British troops stationed in Murree. The churchyard contains graves of soldiers and officers from that era, and the church itself has been in continuous use since then, one of the oldest functioning churches in northern Pakistan. Services are still held here and the building is maintained by the local Christian community.
+score: 6.3
 ---
 
 Holy Trinity Church on The Mall is one of the most visible of Murree's colonial-era buildings, a sturdy Victorian stone church that has sat on the main pedestrian street since 1857. The exterior is simple Gothic revival, with a tower that serves as a landmark along The Mall. The interior is modest and the building is unremarkable by British church standards, but its age and location make it worth a brief stop.

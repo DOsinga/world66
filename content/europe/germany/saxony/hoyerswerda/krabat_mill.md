@@ -13,6 +13,7 @@ story: >
   the old Sorbian legend, became a classic of German children's
   literature and was later made into a film. The mill at Schwarzkollm,
   where the legend is set, still stands.
+score: 6.9
 ---
 
 The village of Schwarzkollm, about 8 km northwest of Hoyerswerda, is the setting for the Sorbian legend of Krabat — a miller's apprentice who serves a dark master at a mill that operates on supernatural power. The legend was retold in Otfried Preussler's 1971 novel, which became a beloved work of German children's literature and introduced Sorbian folk tradition to a much wider audience.

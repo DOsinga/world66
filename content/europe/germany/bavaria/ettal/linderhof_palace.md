@@ -11,6 +11,7 @@ story: >
   Ludwig II built Linderhof as a private retreat where he could be entirely alone — it is the only one of his palaces he actually finished and the only one where he regularly lived. He was obsessed with French court culture and modelled parts of the interiors on Versailles, though at a fraction of the scale. The dining table could be raised and lowered through the floor so that servants could set it below stairs without Ludwig having to see them; he often dined alone at midnight.
 sources:
   - https://en.wikipedia.org/wiki/Linderhof_Palace
+score: 9.1
 ---
 
 Linderhof Palace, about 10 km west of Ettal, is the smallest of Ludwig II's royal castles and the most intimate. Where Neuschwanstein was a grand theatrical statement and Herrenchiemsee an extravagant Versailles copy, Linderhof is a compact rococo gem hidden in a steep valley, surrounded by formal French gardens that feel surreal at this altitude.

@@ -9,6 +9,7 @@ latitude: 49.4832
 longitude: 10.9881
 sources:
   - https://en.wikipedia.org/wiki/F%C3%BCrth
+score: 6.7
 ---
 
 Fürth's Stadtpark is one of the most beautiful municipal parks in Bavaria — a broad, landscaped green space laid out in the English style in the late 19th century, with mature trees, meandering paths, and a small lake at its centre. It sits just north of the Altstadt and is easy to reach on foot from the main train station.

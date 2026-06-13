@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 32.6800
 longitude: 109.0100
+score: 5.9
 ---
 
 The Han River runs through the heart of Ankang, and the city's riverside wetland park preserves a stretch of the original riverbank habitat — reed beds, willow woodland, and shallow mudflats — that provides excellent birdwatching. The park is particularly rewarding during spring and autumn migration when waders, ducks, and herons are passing through; grey herons, little egrets, and mandarin ducks are present year-round.

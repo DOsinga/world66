@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - chinatown
   - sight
+score: 7.7
 ---
 
 The oldest Hindu temple in KL, founded in 1873 by the Tamil community brought to British Malaya as labourers. The current building dates from 1968 and the gopuram — the soaring polychrome gateway tower above the entrance — was added in 1972. It is encrusted with 228 statues of Hindu deities painted in vivid colours, and is one of the most photographed sights in Chinatown.

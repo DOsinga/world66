@@ -11,6 +11,7 @@ tags:
 - museum
 title: Hill 62 (Sanctuary Wood)
 type: poi
+score: 8.0
 ---
 
 A memorial site preserving original World War I trenches and bomb craters in Sanctuary Wood. Unlike the manicured cemeteries, this site gives a raw sense of the conditions soldiers endured. The small private museum alongside has a collection of artefacts and stereoscopic photographs from the war.

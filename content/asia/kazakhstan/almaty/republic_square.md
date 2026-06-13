@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   At the base of the Independence Monument's column stands a bronze palm print — that of Kazakhstan's first president, Nursultan Nazarbayev. According to a local tradition that emerged shortly after the monument was erected, pressing your own hand against it and making a wish will bring good luck. Whether Nazarbayev himself endorsed this practice is unclear, but the palm print is now worn smooth by thousands of hands each year.
+score: 6.6
 ---
 
 Republic Square is the ceremonial heart of Almaty, a vast open plaza flanked by government buildings and the former residence of the president. At its centre rises the Independence Monument, a 28-metre column topped by a golden warrior — a modern take on the ancient Saka "Golden Man" found in a burial mound near the city. The warrior stands on the backs of winged snow leopards, Kazakhstan's national symbol.

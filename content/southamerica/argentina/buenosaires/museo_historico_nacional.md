@@ -10,6 +10,7 @@ longitude: -58.3683
 address: Defensa 1600, San Telmo
 url: museohistoriconacional.cultura.gob.ar
 opening_hours: "Wed–Sun 11:00–18:00"
+score: 7.4
 ---
 
 Argentina's national history museum, installed in a mid-19th-century mansion at the southern end of San Telmo, holds the primary collection of objects relating to Argentine independence and the early national period. The collection includes weapons, portraits, and personal effects of José de San Martín (the independence general whose image is everywhere in the city); coins and documents from the colonial period; and a substantial archive of material relating to the political and military history of the 19th century.

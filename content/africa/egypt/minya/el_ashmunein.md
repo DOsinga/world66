@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - archaeological_site
+score: 7.7
 ---
 
 El-Ashmunein is the modern name of ancient Hermopolis Magna, the principal cult centre of the god Thoth and one of the most important cities of pharaonic Egypt. The site is sprawling and partly buried, but several monuments stand out: a row of Coptic basilica columns reused from earlier pharaonic structures, two enormous quartzite statues of baboons (animals sacred to Thoth), and the remnants of a pylon from a temple of Amun.

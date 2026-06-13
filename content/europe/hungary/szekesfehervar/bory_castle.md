@@ -6,6 +6,7 @@ latitude: 47.2068
 longitude: 18.4467
 story: >
   The sculptor Jenő Bory began building this fantasy castle in 1923 as a present for his wife, the painter Ilona Komócsin. He spent every summer at it for forty years, working largely with his own hands and a few helpers, mixing Romanesque, Gothic, Scottish baronial, and his own invention. The result is one of the strangest and most personal pieces of architecture in Hungary.
+score: 8.5
 ---
 
 Bory Castle (Bory-vár) is a unique amateur creation on the eastern outskirts of Székesfehérvár — turrets, arcades, courtyards, statues, and a chapel, all built single-handedly by the sculptor Jenő Bory over more than four decades. It is part castle, part sculpture park, part outsider-art statement, and it is unlike anything else in the country.

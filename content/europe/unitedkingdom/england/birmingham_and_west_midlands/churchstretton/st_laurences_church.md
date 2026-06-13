@@ -9,6 +9,7 @@ latitude: 52.5382
 longitude: -2.8088
 sources:
   - https://en.wikipedia.org/wiki/St_Laurence%27s_Church,_Church_Stretton
+score: 7.0
 ---
 
 St Laurence's is Church Stretton's medieval parish church, sitting at the centre of the old settlement. The nave dates to the 12th century, making it by some centuries the oldest building in town. The church was substantially enlarged in Victorian times, when Church Stretton was reinventing itself as a spa resort, but the Norman bones survive throughout.

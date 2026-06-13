@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Experimental_Media_and_Performing_Arts_Center
+score: 8.1
 ---
 
 The Curtis R. Priem Experimental Media and Performing Arts Center opened in 2008 on the RPI campus and immediately became the most architecturally striking building in Troy. Designed by Nicholas Grimshaw & Partners, it cantilevers over the hillside in a glass and steel form that contrasts sharply with the Victorian brick below. Inside are four performance venues — a 1,200-seat concert hall, a smaller theatre, a studio, and a black box — each designed to a different acoustic standard.

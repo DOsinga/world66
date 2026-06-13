@@ -8,6 +8,7 @@ tags:
   - monastic_zone
 latitude: 27.4774
 longitude: 83.2756
+score: 7.5
 ---
 
 The first international monastery completed in Lumbini, dedicated in 1992, and still one of the most distinctive. Three structures cluster on the site — a meditation hall, a large prayer hall, and a tall stupa modelled on **Yangon's Shwedagon Pagoda**, gilded to gleam in the Terai sun.

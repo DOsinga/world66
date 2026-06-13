@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Episcopal cathedral on Monument Circle, dating to 1857 — the oldest church in continuous use in Indianapolis. The Gothic Revival sandstone exterior is unassuming next to the soaring monument, but the interior holds a notable Tiffany window and a hand-carved English oak rood screen.

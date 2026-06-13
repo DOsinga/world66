@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.1547
 longitude: -76.3017
+score: 8.8
 ---
 
 The historic district occupies the original Moravian-planned town centre — laid out in 1756 around the Moravian Church and the central square. Most of the houses on East Main Street and Church Square date from the 18th and early 19th centuries, in the simple, symmetrical style the Moravians brought from central Europe.

@@ -12,6 +12,7 @@ tags:
   - architecture
   - salamanca
 snippet: "The seat of Tasmania's parliament since 1856 — originally a customs house at the head of Sullivans Cove"
+score: 7.4
 ---
 
 A neat, low Georgian sandstone building at the head of Salamanca Place, designed by John Lee Archer and completed in 1840 as the colony's customs house. It became the seat of Tasmania's bicameral parliament in 1856 and has been ever since — making it the oldest parliament house still in continuous use in Australia. The chambers are modest in scale, both with cedar fittings and red leather benches; the **Long Room** above is hung with portraits of past Premiers and Speakers.

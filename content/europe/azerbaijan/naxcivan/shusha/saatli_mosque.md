@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Saatli Mosque is a smaller neighbourhood mosque set into a quiet residential street near the centre of Shusha. Built in the early nineteenth century, it has the same red brick and tile detailing as the larger Govhar Agha mosques but on a domestic scale — a single short minaret and a hall sized for the families of one quarter.

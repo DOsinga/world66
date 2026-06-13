@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 7.0
 ---
 
 A Cape May institution on the harbour since 1956, with its own fishing fleet docked out front. The full dining room serves the standard New England seafood line — lobster, broiled scallops, flounder — but the better experience is at the Fish Market takeout counter or aboard the *Schooner America*, a 1947 Maine schooner permanently moored alongside and converted into a deck bar.

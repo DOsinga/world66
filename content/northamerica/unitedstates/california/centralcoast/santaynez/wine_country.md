@@ -10,6 +10,7 @@ longitude: -120.0826
 sources:
   - https://en.wikipedia.org/wiki/Santa_Ynez_Valley_AVA
   - https://en.wikipedia.org/wiki/Ballard_Canyon_AVA
+score: 8.4
 ---
 
 The Santa Ynez Valley is one of California's most distinctive wine regions, shaped by a geography that channels cool Pacific air through the east-west Santa Ynez Mountains — one of the few mountain ranges in North America that run sideways to the coast. That marine influence keeps temperatures moderate and lets Pinot Noir and Chardonnay ripen slowly on the valley floor.

@@ -5,6 +5,7 @@ tags: [things_to_do, market, shopping]
 latitude: 43.3575
 longitude: -80.3133
 story: "Cambridge Farmers Market has operated continuously since 1830, making it one of the oldest farmers markets in Ontario — predating the amalgamation of Galt, Preston, and Hespeler into Cambridge by nearly 150 years."
+score: 7.6
 ---
 
 The Cambridge Farmers Market runs year-round in the old market hall near the Ainslie Street transit terminal. The Saturday morning market draws vendors from the surrounding Waterloo Region farmland — Mennonite farmers from Elmira and Waterloo County bring produce, preserves, and baked goods that are genuinely different from what turns up at urban weekend markets.

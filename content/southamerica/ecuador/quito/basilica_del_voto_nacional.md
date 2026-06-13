@@ -15,6 +15,7 @@ story: >
   extraordinarily expensive and slow undertaking. The neo-Gothic gargoyles
   are distinctly Ecuadorian: among the standard monsters, you will find
   iguanas, sea turtles, and Galápagos tortoises.
+score: 8.5
 ---
 
 The Basílica del Voto Nacional is the largest neo-Gothic church in the Americas, an enormous grey stone building that rises above the northern edge of the Historic Centre. Construction began in 1892 and the church is still not considered officially complete, though it has been in use for over a century. From the street, the scale is impressive; from a distance, the two 115-metre towers dominate the Quito skyline.

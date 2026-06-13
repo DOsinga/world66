@@ -7,6 +7,7 @@ tags:
 latitude: 37.270556
 longitude: -76.701667
 snippet: The commercial district between Colonial Williamsburg and the college, with restaurants, shops, and galleries
+score: 5.9
 ---
 
 Merchants Square is the small commercial district at the eastern end of Duke of Gloucester Street where the historic area meets the college. It has about 40 shops and restaurants in colonial-style buildings, plus a bookshop and a few galleries. The architecture is designed to complement the colonial district without being replica 18th century — it was built in the 1930s as part of the wider Rockefeller restoration plan.

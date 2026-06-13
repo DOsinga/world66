@@ -11,6 +11,7 @@ tags:
 - museum
 title: Collection de l'Art Brut
 type: poi
+score: 8.8
 ---
 
 One of the most distinctive museums in Europe, housed in the Château de Beaulieu. The collection features work by self-taught and outsider artists — people who created compulsively, often in isolation, with no training and no interest in the art world. The results are startling, obsessive, and frequently beautiful. Unlike anything you will see in a conventional gallery.

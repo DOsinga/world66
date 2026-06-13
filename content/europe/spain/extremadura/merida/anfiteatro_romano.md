@@ -7,6 +7,7 @@ tags:
 latitude: 38.9162
 longitude: -6.3377
 story: "Inaugurated in 8 BC, the amphitheatre held around 15,000 spectators — more than a quarter of the modern town's entire population. Some surviving inscriptions name the gladiators who died fighting here."
+score: 8.5
 ---
 
 Right next to the theatre and entered on the same ticket, the amphitheatre is the larger and more ruinous of the pair, but no less atmospheric. Built for gladiatorial combat and wild beast hunts, its oval arena, two cavea tiers, and underground service tunnels are all clearly legible from the surviving walls. Local tradition holds that early Christian martyrs, including Saint Eulalia, were killed here.

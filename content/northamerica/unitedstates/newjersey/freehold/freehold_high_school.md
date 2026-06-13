@@ -16,6 +16,7 @@ story: >
   talent show here with the Castiles, the band that would be his first real
   outfit. A teacher told him he had no future; he went on to sell over 140 million
   records worldwide.
+score: 4.8
 ---
 
 This is a working public high school, not a museum, which means you can't just walk in — but you can stand outside and take in the building that shaped one of rock and roll's great mythologisers. Springsteen attended from 1963 to 1967, and the auditorium where he played some of his earliest gigs still stands largely unchanged. The school is a pilgrimage stop for devoted Springsteen fans who trace the geography of his early songs through the streets of Freehold.

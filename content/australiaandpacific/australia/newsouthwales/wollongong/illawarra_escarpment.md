@@ -12,6 +12,7 @@ story: >
   1863. Before that, the only practical route was around the northern end. The
   sandstone cliffs that defeated colonial engineers are now a world-class paragliding
   launch site.
+score: 8.6
 ---
 
 The Illawarra Escarpment is the dramatic sandstone scarp that defines Wollongong's western skyline, rising nearly 500 metres from the coastal plain to the Southern Highlands plateau within a few kilometres. It gives the city its distinctive compressed geography — beach, city, and escarpment all within walking distance of each other.

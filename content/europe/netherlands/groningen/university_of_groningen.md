@@ -7,6 +7,7 @@ snippet: Founded 1614, second-oldest university in the Netherlands
 tags:
 - things_to_do
 - landmark
+score: 7.4
 ---
 
 Founded in 1614, the University of Groningen is the second-oldest in the Netherlands after Leiden. With more than 30,000 students it sets the rhythm of the city — bikes, terraces, late nights — and explains why a town this size has such a busy cultural calendar.

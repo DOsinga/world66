@@ -7,6 +7,7 @@ tags:
   - sight
 title: Clock Tower
 type: poi
+score: 6.7
 ---
 
 The Turnul lui Ștefan (Stefan's Tower) is a 15th-century belfry tower that was part of the original Princely Court complex. It stands at the edge of the old town square and is one of the defining landmarks of Piatra Neamț. The tower was used as a defensive structure, a watchtower, and a belfry at various points in its history.

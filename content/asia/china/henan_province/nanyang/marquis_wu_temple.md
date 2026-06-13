@@ -16,6 +16,7 @@ story: >
   Whether Zhuge Liang actually lived near modern Nanyang or near Xiangyang
   (his other claimed home to the south) has been debated by scholars for
   seventeen centuries without resolution.
+score: 8.3
 ---
 
 The Nanyang Memorial Temple of Marquis Wu — marquis being Zhuge Liang's posthumous title, not one he held in life — is the city's most important historical monument, dedicated to the strategist of the Three Kingdoms period who is regarded as a near-perfect embodiment of loyalty, intelligence, and self-sacrifice. The temple complex is large and well-maintained, with ancient cypress trees shading the main courtyards and a series of halls covering Zhuge Liang's biography, the political geography of the Three Kingdoms, and the literary tradition that grew up around him.

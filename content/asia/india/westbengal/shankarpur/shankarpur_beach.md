@@ -8,6 +8,7 @@ tags:
 latitude: 21.634
 longitude: 87.583
 snippet: Quiet stretch of grey-gold sand backed by casuarina groves
+score: 7.1
 ---
 
 The beach runs more or less unbroken from Tajpur in the east to the headland west of the village — about 5 km of pale sand backed by planted casuarina (*jhau*) trees that give shade and break the wind. The sea is shallow and the slope gentle, with no strong currents under most conditions, so swimming is genuinely safe.

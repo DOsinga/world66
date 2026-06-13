@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.3120
 longitude: 40.7280
+score: 9.7
 ---
 
 Mardin's old city is the entire reason to come here. Built on a ridge at 1,070 metres, the medieval and Ottoman urban fabric climbs from the lower bazaar streets to the citadel at the summit, connected by a series of narrow alleys, stairways, and tunnels that burrow through the hillside. The uniformity of the honey-coloured limestone — every building, wall, and pavement cut from the same local stone — gives the city a visual coherence rare in the region.

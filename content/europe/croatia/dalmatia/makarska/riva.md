@@ -8,6 +8,7 @@ tags:
 - architecture
 title: The Riva
 type: poi
+score: 6.9
 ---
 
 The Riva is the broad palm-lined waterfront promenade that runs from Sveti Petar in the west to the eastern beach, a slow curve around the bay with cafés, bars, restaurants, and shops behind it. In the evening the passeggiata fills the path, a fixture of Croatian coastal towns where the whole population walks slowly between the bars and the sea wall.

@@ -11,6 +11,7 @@ tags:
 neighbourhood: Neristan
 story: >
   The English sailors in the park's story arrived during the Crimean War (1854–55), when a British fleet attacked the Finnish coast in an attempt to weaken Russia, which then controlled Finland. The Kokkola militia repulsed the British landing party, capturing a longboat and several prisoners. The longboat has been in the park ever since — a somewhat unlikely trophy from an episode the Finns remember and the British largely do not.
+score: 6.8
 ---
 
 Tucked into the Neristan quarter is English Park, a small public garden that contains one of the more unusual historical curiosities in Finland: a British longboat captured during the Crimean War. In June 1854 a British naval squadron attacked the Kokkola coast as part of a campaign against Russian-controlled Finland. The local militia drove off the landing party, capturing their boat and several sailors. The boat was kept as a trophy and eventually displayed in the park.

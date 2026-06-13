@@ -8,6 +8,7 @@ tags:
 latitude: 49.795
 longitude: 5.067
 snippet: "Waymarked forest trails following the Semois river loops"
+score: 8.1
 ---
 
 The Semois valley around Bouillon has an excellent network of waymarked walking trails through dense mixed forest — beech, oak, and pine — along both banks of the river. The river's exaggerated meanders mean that short loops can feel much longer, as you repeatedly encounter the same water from different angles. The classic walk follows the south bank east to the Tombeau du Géant (Giant's Grave), a dramatic rocky spur about 3km from town with views over the broadest loop of the Semois.

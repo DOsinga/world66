@@ -5,6 +5,7 @@ latitude: 35.2630
 longitude: -77.5812
 snippet: "Pioneering local craft brewery in a restored downtown building, with rooftop garden"
 tags: [bars_and_cafes, bar]
+score: 6.6
 ---
 
 Mother Earth Brewing was one of the first craft breweries in eastern North Carolina and an anchor of the Kinston downtown revival. The brewery occupies a restored brick building on Queen Street and produces a range of beers — its Endless River Kolsch and Weeping Willow Wit are widely distributed across the South.

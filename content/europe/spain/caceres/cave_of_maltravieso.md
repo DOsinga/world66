@@ -9,6 +9,7 @@ latitude: 39.4575
 longitude: -6.3709
 story: >
   Hand stencils in the Cave of Maltravieso were dated in 2018 using uranium-thorium dating to at least 66,700 years old — predating the arrival of Homo sapiens in Europe. The implication, controversial but taken seriously by researchers, is that the art was made by Neanderthals. If correct, it makes Maltravieso one of the earliest evidence of symbolic behaviour by any human species anywhere in the world. The cave sits quietly on the western edge of Cáceres, visited by surprisingly few tourists.
+score: 7.4
 ---
 
 The Cave of Maltravieso was discovered in 1951 when construction workers blasted through the rock during building works on the city's edge. Inside they found a Palaeolithic cave decorated with hand stencils and animal engravings. The cave has been closed to direct public entry since its discovery (as with Altamira, open access causes rapid deterioration), but visits are possible through guided tours to a designated viewing area.

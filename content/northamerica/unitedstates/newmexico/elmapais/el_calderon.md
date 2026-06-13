@@ -6,6 +6,7 @@ longitude: -108.0490
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 El Calderon is a low cinder cone on the western edge of the monument, with the most accessible cave hike in the park: a roughly three-mile loop that takes in the cone, a small bat cave and Junction Cave, a long lava tube that you can scramble through with a torch. The cave floor is rough but largely flat, and the experience is genuinely cinematic — sunlight from collapsed skylights, a constant cool draught, and absolute silence once you are inside.

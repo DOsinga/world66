@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Easo Beach
 type: poi
+score: 6.9
 ---
 
 A long stretch of white sand on the west coast, in the curve of Santal Bay. The water is calm and clear, with turtles occasionally visible close to shore. The nearby chapel on the headland makes for a good short walk after a swim. This is one of the more accessible beaches from Wé and gets the nicest light in the afternoon.

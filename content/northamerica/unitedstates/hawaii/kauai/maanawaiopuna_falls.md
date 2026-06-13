@@ -13,6 +13,7 @@ story: >
   which means the only way to visit them is essentially to recreate the cinematic experience.
 sources:
   - https://en.wikipedia.org/wiki/M%C4%81n%C4%81waiopuna_Falls
+score: 6.6
 ---
 
 Mānawaiopuna Falls drops 122 metres into the lush Hanapepe Valley in the interior of Kauaʻi, and is accessible exclusively by helicopter — the surrounding land is private ranch property with no road or trail access. Several helicopter tour operators from Lihue include a landing at the base of the falls in their tours, allowing visitors to stand directly beneath it for about 15 minutes.

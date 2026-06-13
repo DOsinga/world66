@@ -11,6 +11,7 @@ tags:
 - nature
 title: Khao Lak Beach
 type: poi
+score: 8.2
 ---
 
 Khao Lak Beach stretches about three kilometres along the Andaman coast in Phang Nga Province, roughly 80 km north of Phuket Airport. The beach is backed by casuarina trees, and the views out to the island rock formations offshore are excellent.

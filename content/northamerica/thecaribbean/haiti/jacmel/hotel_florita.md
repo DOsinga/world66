@@ -6,6 +6,7 @@ longitude: -72.5352
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 The restaurant at Hotel Florita, occupying a beautifully restored 1888 coffee-merchant house on Rue du Commerce, is the place for a sit-down meal in Jacmel. The dining room is the original tile-floored salon, with shuttered French doors opening onto the street; the bar in the corner serves rum sours that earned the place a fan club among visiting journalists in the 1980s.

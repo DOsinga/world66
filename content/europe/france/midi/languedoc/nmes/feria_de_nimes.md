@@ -9,6 +9,7 @@ tags:
 - sight
 - festival
 story: "The Feria draws roughly a million people to a city of 150,000. For five days the bodegas — temporary bars set up in town houses, gardens, and courtyards across the city — run nonstop from morning to dawn, and the streets are continuous open-air party."
+score: 6.4
 ---
 
 The Feria de Nîmes — held at Pentecost in May and again at the wine harvest in September — is the city's defining event. Bullfights in the Arena are the formal core, but the real festival is in the streets: thousands of pasodoble bands, paella stands, courses camarguaises with cattle running through penned streets, and bodegas pouring rosé until dawn.

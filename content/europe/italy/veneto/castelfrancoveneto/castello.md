@@ -12,6 +12,7 @@ story: >
   Padua and Vicenza. The town's name — "free castle" — refers to the tax
   exemption granted to its first settlers as an incentive to populate the new
   fortress.
+score: 8.5
 ---
 
 The brick walls of Castelfranco are the reason most visitors stop here. Built around the year 1200 as a Trevisan border fort against Padua, they form a near-square enclosure roughly 230 metres on a side, with corner towers and a tall belfry rising from the western side. The moat survives on three sides and has been planted with lime trees and grass, making a quiet circular park around the walls.

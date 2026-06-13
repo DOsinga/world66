@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.9167
 longitude: -95.3122
+score: 6.4
 ---
 
 The Sacred Heart Catholic Church and Rectory on Center Point Road is listed on the National Register of Historic Places, a handsome brick structure that reflects the significant Catholic presence brought to the area by immigrants who came to work the Latimer County coal mines in the late 19th and early 20th centuries.

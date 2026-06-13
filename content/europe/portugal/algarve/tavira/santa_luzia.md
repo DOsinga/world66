@@ -13,6 +13,7 @@ story: >
   lowering clay pots to the seabed — the pots simulate shelter and octopuses enter voluntarily,
   making capture easy without bait or hook. The stacks of earthenware pots along the waterfront
   are the working equipment of the local fishermen, not decorations put out for tourists.
+score: 7.5
 ---
 
 Santa Luzia, a village 3 km west of Tavira along the lagoon shore, is the most unspoiled fishing village in the eastern Algarve. The waterfront is lined with octopus pots — terracotta vessels used by local fishermen to trap octopus in the lagoon — and several excellent seafood restaurants serve the catch. The cataplana de polvo (octopus cataplana, a traditional copper-pot stew) here is among the best in Portugal.

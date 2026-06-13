@@ -7,6 +7,7 @@ tags:
 latitude: 14.7676
 longitude: -88.7781
 snippet: 'The lively central plaza and heart of the colonial town'
+score: 6.9
 ---
 
 Every Honduran town has a parque central, but Santa Rosa's is one of the more pleasant ones. Shaded benches surround a small central gazebo, and the cathedral rises on one side with the Casa de la Cultura on another. In the evenings it fills with families, food vendors selling baleadas and grilled corn, and teenagers killing time.

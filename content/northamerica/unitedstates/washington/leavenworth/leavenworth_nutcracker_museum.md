@@ -8,6 +8,7 @@ latitude: 47.5947
 longitude: -120.6625
 story: >
   The museum holds over 7,000 nutcrackers from 38 countries, spanning 500 years of history — from medieval iron screw-type tools to ornate carved wooden figures. Among the collection is a nutcracker shaped like Jimmy Carter (a former peanut farmer), and several that predate the Nutcracker ballet that made the carved wooden soldier figure iconic.
+score: 7.2
 ---
 
 One of those museums that sounds ridiculous until you're actually inside it — and then it's genuinely interesting. The collection runs to over 7,000 nutcrackers from 38 countries, displayed in a former retail space on the main Bavarian-themed street. The oldest pieces are functional iron implements from the 1500s; the newest include celebrity likenesses and political figures.

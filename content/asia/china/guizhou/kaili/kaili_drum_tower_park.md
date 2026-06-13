@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.5835
 longitude: 107.9740
+score: 5.1
 ---
 
 Kaili's central plaza, Minzu Guangchang, is built around a large reconstruction of a Dong-style drum tower — the pagoda-like wooden towers that serve as the communal centres of Dong villages. The tower in the square is taller and more ornate than most genuine village examples, a civic statement about the regional identity of Qiandongnan Prefecture. In the evenings, the plaza fills with residents doing the group exercise routines that have taken over public squares across China, but with a local flavour: the music sometimes includes lusheng bamboo pipe recordings.

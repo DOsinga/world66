@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The Kenya Forest Service station and the deepest walking routes into the forest
+score: 8.4
 ---
 
 The Isecheno station, on the southern edge of the Kakamega forest, is the Kenya Forest Service's main entry point and the starting point for the most rewarding longer walks into the forest. The routes here are denser and quieter than from Buyangu — fewer day trippers, more chance of seeing the shy de Brazza's monkeys, deeper passages through old-growth canopy.

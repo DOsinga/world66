@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: Largest display of human brains in Latin America, in a small institute
 story: "The collection contains over 3,000 preserved human brains and was assembled by neurologist Diana Rivas as a teaching resource. Each labelled brain documents a specific disease or condition — from rabies to Alzheimer's — visible directly on the tissue."
+score: 7.2
 ---
 
 The **Museo del Cerebro** ("Brain Museum"), at the **Instituto Nacional de Ciencias Neurológicas** in central Lima, is one of the more unusual museum visits in the city. Founded in 2010, it displays over 3,000 preserved human brains in glass cases, each labelled with the disease or condition it documents — strokes, rabies, Alzheimer's, Creutzfeldt-Jakob, tumours, brain damage from various sources.

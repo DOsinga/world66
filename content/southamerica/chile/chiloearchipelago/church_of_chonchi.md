@@ -9,6 +9,7 @@ latitude: -42.6233
 longitude: -73.773
 sources:
   - https://en.wikipedia.org/wiki/Church_of_Chonchi
+score: 7.3
 ---
 
 The Church of Chonchi, dedicated to St Charles Borromeo, stands on the steep hillside of the town of Chonchi, about 25 km south of Castro. Chonchi is one of the best-preserved small towns in Chiloé — it was wealthy in the late 19th century from timber export and the money shows in the wooden buildings around the main plaza. The church crowns it all: a three-tower facade in yellow and cream, the central tower higher than the flanking ones.

@@ -8,6 +8,7 @@ tags:
 - park
 - lake
 - historic_site
+score: 6.4
 ---
 
 Mochou Lake Park (莫愁湖) is a well-tended lakeside park in the western part of the old city, named after a legendary girl from the Tang dynasty. The park combines the landscaped lake with historical structures — the Chess Tower (Liuxiang Pavilion), built in the Ming dynasty, the Moon-Embracing Tower, and a collection of stone steles and pavilions.

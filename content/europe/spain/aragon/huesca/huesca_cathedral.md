@@ -16,6 +16,7 @@ tags:
 - architecture
 title: Huesca Cathedral
 type: poi
+score: 8.0
 ---
 
 Huesca Cathedral is a Gothic church begun in the 13th century and completed, in stages, over the following three centuries. The main facade, with its unusually elaborate portal, is the most immediately striking feature: the carved stone decoration is dense and inventive, mixing biblical scenes with naturalistic foliage in the Aragonese Gothic manner. Inside, the principal altarpiece by Damian Forment is one of the finest examples of Spanish Renaissance relief sculpture in the region.

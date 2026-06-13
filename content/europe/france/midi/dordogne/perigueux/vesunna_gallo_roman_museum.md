@@ -9,6 +9,7 @@ tags:
 latitude: 45.1799
 longitude: 0.7128
 story: "The Domus of Vesunna was found in 1959 when workers preparing the foundations of an apartment block kept hitting Roman mosaics. Excavation revealed a 4,000-square-metre patrician house, and the apartment block was quietly relocated."
+score: 8.7
 ---
 
 Vesunna was the Gallo-Roman name for Périgueux, and this museum sits directly on top of one of its largest townhouses — a courtyard mansion with surviving mosaic floors, painted plaster walls, an underground heating system and a private bathhouse. Jean Nouvel designed the glass-and-steel canopy that floats above the ruins, allowing you to walk the original streets and rooms on raised wooden walkways.

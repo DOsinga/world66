@@ -10,6 +10,7 @@ latitude: 36.3714
 longitude: 140.4771
 story: >
   The Kodokan was one of the largest domain schools in Tokugawa Japan, founded in 1841 by Tokugawa Nariaki to educate the samurai of the Mito domain. Its curriculum combined martial arts with Confucian scholarship and the distinctively Mito brand of nationalist ideology that would help fuel the movement to restore imperial rule. Several of the Meiji Restoration's key figures were educated here.
+score: 8.2
 ---
 
 The Kodokan was the official school of the Mito Tokugawa domain, founded in 1841. It survives as one of the best-preserved examples of a Confucian domain school in Japan, with the original main hall, Confucian shrine, martial arts hall, and several auxiliary buildings still standing in a quiet compound near Mito Castle.

@@ -4,6 +4,7 @@ type: poi
 latitude: 27.6422
 longitude: -82.7197
 tags: [things_to_do, sight]
+score: 5.2
 ---
 
 Florida is not generous with off-leash beaches, which is why Paw Playground is one of the most visited corners of the park. It has three fenced areas — small dog, large dog, and a beach run that opens onto a stretch of Bay shoreline where dogs can swim. Tap water, washing stations, and shaded benches keep things civilised in the heat.

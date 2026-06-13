@@ -10,6 +10,7 @@ longitude: -3.4281
 snippet: Perth's medieval church, where John Knox sparked the Scottish Reformation in 1559
 story: >
   On 11 May 1559, John Knox mounted the pulpit of St John's Kirk and preached a sermon against idolatry so inflammatory that the congregation immediately stormed out and began destroying Catholic churches and monasteries throughout Perth. The riot spread across Scotland and within months had overturned a century of religious settlement. The building where it began was left damaged in the subsequent upheaval and only fully restored in the 20th century.
+score: 7.8
 ---
 
 St John's Kirk is the oldest building in central Perth and the reason the city originally bore the name "St Johnstoun." The church was founded in the 12th century, substantially rebuilt in the 15th, and has been the scene of some of the most consequential events in Scottish religious history.

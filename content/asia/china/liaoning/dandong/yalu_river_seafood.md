@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 40.1167
 longitude: 124.3833
+score: 6.8
 ---
 
 The riverfront strip between the Broken Bridge and the railway station concentrates Dandong's best seafood restaurants, most of them operating out of the same template: tanks of live fish and shellfish at the entrance, plastic tables, and a menu written on a whiteboard. The yellow croaker (黄花鱼) and razor clams (蛏子) are the things to order; river crab from the Yalu is a particular regional speciality in autumn, typically served steamed with vinegar and ginger.

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 41.2287
 longitude: -111.9869
+score: 6.6
 ---
 
 A reconstruction of the fur-trading post established by Miles Goodyear in 1845, Fort Buenaventura gives a tangible sense of what pre-railroad Ogden looked like. The log palisade, cabin interiors, and period equipment are authentic in feeling if not in original material — the original fort was long since demolished. State park staff in period dress explain the fur trade and mountain man culture, particularly on living history weekends.

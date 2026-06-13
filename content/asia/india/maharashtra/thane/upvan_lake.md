@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - sight
+score: 5.8
 ---
 
 Upvan Lake is the quieter of Thane's two central lakes, located a few kilometres west of Masunda in a more residential neighbourhood. The lakeside area has been developed with a garden, jogging track, and a small children's play area. It is popular with early morning walkers and joggers from the surrounding apartment blocks, giving it a more locally flavoured atmosphere than the more tourist-aware Masunda waterfront.

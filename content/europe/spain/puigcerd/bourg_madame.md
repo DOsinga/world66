@@ -6,6 +6,7 @@ longitude: 1.9447
 tags:
 - sight
 - day_trip
+score: 5.5
 ---
 
 Bourg-Madame sits immediately across the Riu Raür from Puigcerdà — a five-minute walk over the bridge from the Spanish town and effectively its French twin. The two settlements have grown into each other; only the change of street signs and shop fronts marks the international boundary.

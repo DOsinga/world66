@@ -8,6 +8,7 @@ tags:
   - pasta
 latitude: 8.8268
 longitude: -82.9738
+score: 6.0
 ---
 
 Liliana's is the place to go for a taste of San Vito's Italian heritage on the plate. The menu runs to pasta dishes — simple preparations, proper al dente, served with sauces made from local ingredients — alongside Costa Rican staples for those who prefer something more familiar. The cooking is home-style rather than polished, which is exactly right for a small town restaurant in the southern highlands.

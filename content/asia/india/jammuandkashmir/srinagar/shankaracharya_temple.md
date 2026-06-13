@@ -16,6 +16,7 @@ story: >
   and composed some of his works, giving the temple its current name. The stone
   structure that stands today dates from the Mauryan period (roughly 200 BCE) according
   to some accounts, though it has been restored and modified repeatedly since.
+score: 8.4
 ---
 
 The oldest temple in Srinagar, Shankaracharya Temple sits atop a 1,000-metre rocky hill (about 300 m above the city floor) on the southern side of Dal Lake. The approach is by a road that winds up the hill, but the final 243 steps must be walked — no vehicles beyond the checkpoint. The small stone shrine at the top, dedicated to Lord Shiva, is less impressive architecturally than the location itself. The 360-degree view from the summit takes in Dal Lake, the old city, the Mughal Gardens, and the mountain ranges in every direction. On a clear day the view stretches to Gulmarg.

@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 37.9375
 longitude: -107.8100
+score: 5.2
 ---
 
 An unremarkable brick building on Colorado Avenue marks the site of Butch Cassidy's first known bank robbery. On June 24, 1889, Cassidy and his gang rode into Telluride and robbed the San Miguel Valley Bank of around $21,000 — a sum worth considerably more today — before escaping north over the mountains. It was the job that launched his outlaw career.

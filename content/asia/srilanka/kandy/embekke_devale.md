@@ -14,6 +14,7 @@ story: >
   be a man and woman in erotic embrace. The craftsmen carved every surface as if it were the
   only one, with no filler ornament anywhere. The Kandyan kings apparently commissioned this
   excess of care for a structure that was, functionally, just a porch.
+score: 8.3
 ---
 
 Embekke Devale, a fourteenth-century shrine dedicated to the god Skanda (Kataragama), is famous throughout Sri Lanka for its extraordinary carved wooden pillars. The drum hall and porch are supported by columns covered top to bottom with intricate relief carvings of wrestlers, dancers, birds, and mythological figures — the carving quality is exceptional and remarkably well preserved given the building's age.

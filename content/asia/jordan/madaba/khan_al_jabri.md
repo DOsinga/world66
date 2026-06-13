@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.7140
 longitude: 35.7960
+score: 6.8
 ---
 
 Mosaic-making is a living craft in Madaba, kept alive by a sequence of vocational schools and workshops that train artisans in the techniques used for the Byzantine floors. The **Madaba Institute for Mosaic Art and Restoration**, set up in 1992 with Italian support, is the largest of these — students learn to cut tesserae from local limestone, lay them, and restore damaged ancient works.

@@ -7,6 +7,7 @@ tags:
 latitude: 57.9894
 longitude: -5.1555
 story: "The Assynt–Coigach area was the location, in 1993, of Scotland's first major community land buyout. Crofters and local residents bought out the landowner to establish the Assynt Crofters' Trust — a landmark moment that triggered a wave of community land ownership across the Highlands and Islands."
+score: 7.0
 ---
 
 The bulk of Ben More Coigach dominates the skyline south of Ullapool. At 743m it is not one of Scotland's highest mountains, but the approach through wild moorland and the views from the summit — across the Summer Isles, south to the Torridon peaks, and north into Assynt — make it one of the more rewarding hill walks accessible from the town.

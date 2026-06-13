@@ -11,6 +11,7 @@ story: >
   Shakespeare sets two scenes of Henry IV Part 1 and Henry IV Part 2 at Warkworth Castle — the first time a real English castle was used as a setting in a major play. The Percys who owned Warkworth were the models for some of Shakespeare's most vivid characters: Hotspur, the reckless warrior, and his father the Earl of Northumberland. The castle's great keep, with its cross-shaped plan, is unusual enough that it has been given its own architectural classification.
 sources:
   - https://en.wikipedia.org/wiki/Warkworth_Castle
+score: 8.4
 ---
 
 Warkworth Castle sits on a loop of the River Coquet above the village of Warkworth, seven miles south of Alnwick. English Heritage manages the site, and the remains are impressive — the great 14th-century keep standing to its full height, the hermitage chapel accessible only by boat along the river, and extensive curtain walls enclosing a large courtyard.

@@ -13,6 +13,7 @@ story: >
   The circular design of the mandala — traditional in Buddhist and Hindu cosmology — was
   repurposed as a space for modern political assertion. It is now seen as both a religious
   monument and a symbol of democratic aspiration.
+score: 4.7
 ---
 
 The Maitighar Mandala is a large circular garden near Singha Durbar (the government secretariat) in central Kathmandu. The mandala design incorporates religious symbolism — the circular layout represents the Buddhist cosmos — but it has also become one of Kathmandu's most important sites for political protest, used in the 1990 and 2006 pro-democracy movements.

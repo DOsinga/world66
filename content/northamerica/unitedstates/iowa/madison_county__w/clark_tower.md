@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Clark Tower
 type: poi
+score: 7.2
 ---
 
 A twenty-five-foot limestone tower built in 1926 as a memorial to Caleb and Ruth Clark, among Madison County's first white settlers. It stands on a wooded ridge inside Winterset City Park, reached by a narrow road that climbs through oak hickory forest.

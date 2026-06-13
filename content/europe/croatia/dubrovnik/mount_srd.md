@@ -12,6 +12,7 @@ story: >
   several times during the siege and became a symbol of resistance. The Museum of the Homeland War inside
   the fort documents the siege with remarkable candour, including maps showing the trajectories of artillery
   attacks and photographs taken during the bombardment.
+score: 8.7
 ---
 
 Mount Srđ rises 412 metres directly above the old town, connected by a cable car that was rebuilt and reopened in 2010 after being destroyed in the 1991-92 siege. The ride takes three minutes and delivers you to a panorama that is among the finest in the Adriatic — the old town laid out below, the islands of the Elafiti archipelago stretching northwest, and on clear days the mountains of Montenegro to the south.

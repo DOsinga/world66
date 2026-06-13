@@ -9,6 +9,7 @@ tags:
 - sight
 - historic
 story: "Until 1994, archaeologists assumed the original 1607 fort had washed into the James River centuries ago. That summer, William Kelso put a spade into the ground a few metres from the river and immediately struck the post-holes of the wooden palisade. The dig has continued ever since, uncovering more than three million artefacts."
+score: 9.4
 ---
 
 Historic Jamestowne is the actual archaeological site of the 1607 English settlement — the real one, on the original island, where ongoing excavations have spent three decades uncovering the foundations of James Fort. The Archaearium museum displays the most striking finds, including the skeletons of the colonists and the famous "Jane" remains that confirmed cannibalism during the Starving Time of 1609–10.

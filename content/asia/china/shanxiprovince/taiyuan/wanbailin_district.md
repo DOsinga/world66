@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.8730
 longitude: 112.5167
+score: 6.1
 ---
 
 Wanbailin District on the western bank of the Fen River is Taiyuan's newer cultural and institutional quarter, home to the Shanxi Museum, the Art Museum, the Grand Theatre, and a broad riverside park. The district was developed with public investment over the last two decades and has a cleaner, more spacious feel than the older eastern districts — wider streets, newer buildings, and the green corridor of the river embankment running along its eastern edge.

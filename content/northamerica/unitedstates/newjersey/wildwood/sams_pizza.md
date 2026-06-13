@@ -6,6 +6,7 @@ longitude: -74.8138
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Sam's Pizza Palace has been on the boardwalk at Schellenger Avenue since 1957 and is the Wildwood pizza-by-the-slice that lifelong visitors return to. The pie is thin, oily, foldable, and best eaten standing at the counter — not the place for a critical assessment of crust technique, very much the place for a hot slice after a swim.

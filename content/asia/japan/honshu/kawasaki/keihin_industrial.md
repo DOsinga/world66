@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 35.5150
 longitude: 139.7450
 snippet: "Petrochemical plants and factories illuminated at night — Japan's industrial sublime"
+score: 7.9
 ---
 
 The Keihin industrial zone stretches along Kawasaki's waterfront and into neighbouring areas of Yokohama, forming one of the densest concentrations of heavy industry in Asia. By day it is a working landscape of storage tanks, cooling towers, conveyor belts, and pipelines. At night, when the facilities light up in orange and white against the dark bay, it becomes something else: an inadvertent spectacle that has attracted photographers and tourists in sufficient numbers that dedicated factory night-view cruise boats now operate from nearby piers.

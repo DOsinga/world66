@@ -8,6 +8,7 @@ tags:
 latitude: 32.6614
 longitude: -117.2375
 snippet: The dramatic peninsula protecting San Diego Bay, with panoramic ocean views from 400 feet up
+score: 8.1
 ---
 
 Point Loma is the long rocky peninsula that forms the western arm of San Diego Bay, and it gives the city its dramatic topography. From the ridge of the peninsula, 400 feet above the Pacific, the views extend north along the coast, south toward Tijuana, and east across the entire urban landscape of San Diego and its surrounding hills.

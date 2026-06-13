@@ -1,6 +1,7 @@
 ---
 title: "Clear Creek Whitewater"
 type: poi
+score: 7.8
 ---
 
 Clear Creek runs through the center of Idaho Springs on its way down from the Continental Divide, and the section through town and the canyon below it is one of the more accessible stretches of whitewater in Colorado. The creek drops steeply through a narrow granite canyon carved over millennia, and the resulting rapids range from Class II beginner sections to Class IV technical runs that require experience and proper equipment.

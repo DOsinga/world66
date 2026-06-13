@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.9
 ---
 
 Chankanaab — the name means "small sea" in Yucatec Maya — is a saltwater lagoon connected to the ocean by an underground channel, set in a botanical garden of palms, orchids, and reproduced Maya buildings. It was the island's first marine park and remains one of its most-visited day attractions.

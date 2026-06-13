@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.10746
 longitude: 18.519884
+score: 6.7
 ---
 
 Built in 1869 to a design by the engineer Achille Rossi, the Punta Palascia lighthouse rises 32 metres above the clifftop and was for decades one of the most important navigation lights in the central Mediterranean — recognised by the Italian state and the EU as one of the five historically significant lighthouses of the country.

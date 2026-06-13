@@ -14,6 +14,7 @@ story: >
   Coming in early September, when the air is still and the first snow has dusted
   the summit, gives the best chance. Photographers camp at the shore in the
   small hours to get the shot before the afternoon breeze ruins it.
+score: 8.2
 ---
 
 Riffelsee is a small alpine lake at 2,757 metres on the Riffelberg plateau, accessible from Zermatt via the Gornergrat Railway — get off at Rotenboden station and walk five minutes to the shore. On calm mornings the lake produces a perfect reflection of the Matterhorn, which has made it one of the most photographed spots in Switzerland.

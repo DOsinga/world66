@@ -14,6 +14,7 @@ story: >
   aragonite crystals and Gothic-arch stalactites. He opened the caverns to paying
   visitors within a year, making Mercer Caverns one of California's earliest
   commercial caves.
+score: 7.9
 ---
 
 Discovered in 1885 by prospector Walter Mercer, these limestone caverns are a genuine surprise — a series of chambers decorated with aragonite crystals, stalactites, and cave formations that took millions of years to grow. The geology here is unusually varied: different chambers hold different formations, and one room contains helictites growing in defiance of gravity. Guided tours run regularly and last about an hour. The caverns stay a cool 55°F year-round, so bring a layer regardless of the season.

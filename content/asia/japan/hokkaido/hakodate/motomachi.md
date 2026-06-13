@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.7640
 longitude: 140.7120
+score: 8.4
 ---
 
 Motomachi is the hillside district above the old waterfront, the best-preserved area of Hakodate's early foreign settlement period and the most atmospheric part of the city for walking. The slopes facing the bay were where foreign traders and diplomats lived and worked after the port opened in 1859, and the Western-style buildings they left behind — churches, consulates, merchant houses — give Motomachi a distinctly different character from other Japanese cities.

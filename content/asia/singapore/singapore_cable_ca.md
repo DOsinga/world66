@@ -11,6 +11,7 @@ tags:
 - beaches
 title: Singapore Cable Car
 type: poi
+score: 6.7
 ---
 
 The Singapore Cable Car runs from the top of Mount Faber down to HarbourFront and across to Sentosa Island, offering good views over the southern harbour, the port, and the islands beyond. The ride takes about 15 minutes one way and is a pleasant way to arrive on Sentosa if you're not in a rush.

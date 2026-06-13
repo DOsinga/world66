@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Zaibatsu Cafe Bar
 type: poi
+score: 4.5
 ---
 
 A laid-back cafe-bar on Senator Enage Street that doubles as a small bistro: coffee and tea by day, cocktails, smoothies, and food into the evening. Lounge-style seating, low lighting, decent music, and Wi-Fi for laptop people. A reliable, easy spot rather than a destination, and a good place to escape the heat of the afternoon.

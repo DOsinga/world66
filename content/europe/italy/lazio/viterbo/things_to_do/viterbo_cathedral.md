@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Viterbo_Cathedral
+score: 7.5
 ---
 
 The Cathedral of San Lorenzo stands beside the Papal Palace on the highest point of the medieval city, its black-and-white striped Romanesque campanile visible from most of the old town. Founded in the 12th century, the building was substantially reworked in subsequent centuries; the current facade is a 20th-century reconstruction following World War II bomb damage, but the interior preserves its medieval character with a single nave and notable artworks.

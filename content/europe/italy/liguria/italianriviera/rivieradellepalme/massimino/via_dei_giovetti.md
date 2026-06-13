@@ -6,6 +6,7 @@ longitude: 8.0700
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The Via dei Giovetti is the mountain pass that explains why Massimino exists at all. Running through the ridge that separates Liguria from the Piedmontese interior, the pass provided a viable route between the coast and the Po valley at a time when routes through these mountains mattered — for merchants moving salt and olive oil inland, for troops moving between the Republic of Genoa and its rivals, and for the ordinary commerce of upland life. Genoa acquired Massimino in 1713 specifically for the control it gave over this crossing.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8569
 longitude: -120.8893
+score: 6.7
 ---
 
 A large irrigation reservoir about 8 km north of Oakdale, managed as a Stanislaus County regional park. The lake covers nearly 3,000 acres when full and has a long, irregular shoreline of low oak-studded hills — popular for waterskiing, sailing, jet-skiing and bass fishing.

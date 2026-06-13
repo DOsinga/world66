@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.705
 longitude: 35.205
+score: 7.1
 ---
 
 A small but carefully curated folk museum in a traditional stone house in the old town, the Baituna al-Talhami (meaning "our home") displays traditional Palestinian domestic life: embroidered textiles, household objects, agricultural tools, and costumes from the various regions of historic Palestine. The collection was assembled from families across the West Bank and represents a deliberate effort to preserve material culture under difficult conditions.

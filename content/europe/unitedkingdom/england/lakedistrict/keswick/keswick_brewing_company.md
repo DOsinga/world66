@@ -6,6 +6,7 @@ tags:
   - brewery
 latitude: 54.6029
 longitude: -3.1410
+score: 5.8
 ---
 
 The town's microbrewery, on Brewery Lane in a Victorian iron-works building. The bar is open in the afternoons for tastings of the house range — Thirst Pitch, Thirst Run, Thirst Quencher, Bitter — and tours of the brewery run several days a week.

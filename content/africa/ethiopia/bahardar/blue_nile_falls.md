@@ -8,6 +8,7 @@ tags:
 - sight
 - waterfall
 story: The Amharic name Tis Abay means "great smoke", a lovely description when the river is in full flow and spray lifts from the gorge. In the dry season the name can feel optimistic, so timing matters.
+score: 8.2
 ---
 
 Blue Nile Falls, or Tis Abay, is the big excursion from Bahir Dar. The river leaves Lake Tana, gathers itself, and then drops over a broad cliff into a green gorge about 30 kilometres from the city.

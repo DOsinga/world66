@@ -1,6 +1,7 @@
 ---
 title: Liquorice Heritage
 type: poi
+score: 7.8
 ---
 
 Pontefract Cakes — small, round, flat liquorice sweets stamped with an image of the castle — have been made in this town since the 17th century. The local soil and climate turned out to be oddly well suited to growing liquorice root, and the town built a confectionery industry around it that lasted for centuries. Haribo now owns and operates the main factory, though the sweets remain closely associated with the town.

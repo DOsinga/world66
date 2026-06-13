@@ -9,6 +9,7 @@ tags:
 story: The painted ceilings at Delgatie — dating from 1592 and 1597, with mythological scenes, animals, and the Hay family motto in fading colour on bare wood — survive only because they were hidden under a 19th-century plaster layer. They were rediscovered during restoration work in 1939 and are now among only a handful of intact Renaissance painted ceilings left in Scotland.
 title: Delgatie Castle
 type: poi
+score: 8.1
 ---
 
 Two miles east of Turriff, Delgatie Castle has been the seat of the Hay family for over 600 years. The current tower dates from the 16th century, with later additions, and rises five storeys above a deep wooded estate. The interior is fully furnished as a family home rather than a museum, with the original Hay family furniture, portraits, and weapons. Mary Queen of Scots stayed here in 1562 after the battle of Corrichie, and her bedroom is preserved.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 18.7501
 longitude: 73.4070
+score: 5.4
 ---
 
 Chai stalls punctuate the main street, the road to every viewpoint, and the trailheads to the forts. The tea is the standard Maharashtrian style: strong, milky, sweetened, boiled together and poured through a strainer into small glasses or earthenware cups. A glass costs a few rupees.

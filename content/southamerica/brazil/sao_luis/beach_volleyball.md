@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: -2.481
 longitude: -44.258
+score: 5.7
 ---
 
 Calhau beach has a long tradition of beach sports — volleyball, football on the sand, and *frescobol* (a Brazilian beach paddle game) are all played here on a daily basis. The volleyball courts at the northern end of the beach are the most serious, with organized pickup games most afternoons and more formal competitions on weekends.

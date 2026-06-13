@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.813
 longitude: 9.3189
+score: 7.5
 ---
 
 Il Spir is a cantilevered viewing platform perched at the rim of the Ruinaulta gorge above the village of Conn, about 400 metres above the Rhine river below. Designed by architect Corinna Menn and opened in 2006, the platform is shaped like a common swift — narrow and pointed, jutting out over the void. Standing on it and looking straight down into the canyon is genuinely vertiginous.

@@ -8,6 +8,7 @@ latitude: -9.5267
 longitude: -77.5317
 story: >
   The museum's outdoor lapidary garden — a quiet courtyard filled with Recuay and Wari stone figures — contains some of the best-preserved pre-Columbian stone sculpture in South America. Most visitors walk straight past it looking for the main gallery.
+score: 7.4
 ---
 
 The Regional Museum of Ancash on the Plaza de Armas in Huaraz holds one of Peru's most important collections of pre-Columbian artefacts. The highlights are the Recuay and Wari stone sculptures — monoliths and carved figures from cultures that predate the Inca by centuries — displayed both indoors and in the museum's outdoor lapidary garden.

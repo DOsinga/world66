@@ -7,6 +7,7 @@ tags:
 latitude: 32.0290
 longitude: 77.3489
 story: "The water rises here at temperatures up to 95°C — hot enough that pilgrims and travellers cook rice and dal in cloth bags lowered into the spring. The gurdwara serves langar prepared this way, which means the same water that boils your meal also pours into the temple's bathing pools."
+score: 8.2
 ---
 
 Forty-five kilometres up the Parvati valley, the village of Manikaran is built around natural hot springs revered by both Sikhs and Hindus. A large Sikh gurdwara dominates the centre; a Hindu temple sits across the bridge; both make use of the steaming water for ritual baths.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3196
 longitude: 7.5872
+score: 8.0
 ---
 
 A neo-Gothic castle on a wooded hill above the Rhine, five kilometres south of central Koblenz. The original thirteenth-century stronghold was a ruin until the city of Koblenz gave it to Crown Prince Friedrich Wilhelm of Prussia in 1823; he rebuilt it in the Romantic style as a summer residence with the help of Karl Friedrich Schinkel.

@@ -8,6 +8,7 @@ latitude: 55.6490
 longitude: 12.0809
 story: >
   The five ships on display were not shipwrecks — they were deliberately sunk around 1070 AD to block a channel in Roskilde Fjord and prevent a naval attack on the town. Archaeologists excavated them from the fjord bed in 1962 inside a temporary dam, piece by piece, recovering thousands of fragments that took years to reassemble.
+score: 9.1
 ---
 
 The Viking Ship Museum houses five original Viking ships recovered from Roskilde Fjord in 1962, where they had been sunk a thousand years earlier to block a waterway. The ships range from a small fishing vessel to a large ocean-going longship, and seeing them together makes immediately clear how varied Viking maritime technology actually was — these were not all the same beast.

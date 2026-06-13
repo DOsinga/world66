@@ -6,6 +6,7 @@ longitude: -80.2410
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 Salem Academy (founded 1772) and Salem College (1772 as well, with college status from 1866) together form the oldest continuously operating educational institution for girls and women in the United States. The campus, immediately south of Old Salem, is small and walkable, with several restored 18th- and 19th-century buildings still in academic use.

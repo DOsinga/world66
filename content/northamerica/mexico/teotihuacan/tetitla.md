@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.689
 longitude: -98.854
+score: 8.4
 ---
 
 Right next to Atetelco in the west of the city, Tetitla preserves the densest concentration of murals at Teotihuacan — over a hundred wall paintings survive in at least thirty rooms and patios. Look for the Great Goddess with her open hands raining green jade, the strings of beaded pectoral ornaments above the doorways, and the pink coral-feathered birds in flight. It is dim and quiet inside; sometimes you have it entirely to yourself.

@@ -9,6 +9,7 @@ type: poi
 snippet: Kayak the bay-side mangroves for almost-certain wildlife encounters
 sources:
   - https://en.wikipedia.org/wiki/Anna_Maria_Island
+score: 8.6
 ---
 
 The bay side of Anna Maria Island — between the island and the mainland — is a network of shallow tidal flats, seagrass beds, and mangrove channels that support dense populations of West Indian manatees and bottlenose dolphins. Kayaking here is one of the island's most rewarding activities, and encounters with wildlife are nearly guaranteed in the right season (winter and early spring for manatees, year-round for dolphins).

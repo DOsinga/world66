@@ -7,6 +7,7 @@ tags:
 latitude: 48.7626
 longitude: 8.2419
 story: "The Roman soldiers stationed here in the 3rd century AD called their settlement *Aquae* — 'the waters'. The baths uncovered beneath the modern town were primarily for legionaries, whose graffiti has been found on the surviving stones."
+score: 7.1
 ---
 
 Beneath Römerplatz, between the Friedrichsbad and the Caracalla Therme, are the surviving ruins of the **Roman imperial baths** built in the 2nd and 3rd centuries AD. The complex was uncovered during the construction of the Friedrichsbad in the 1840s and has been left in place, accessible by a short underground walk.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Mandorah Cafe
 type: poi
+score: 6.1
 ---
 
 Mandorah Cafe sits on the Cox Peninsula shoreline, a short ferry ride across Darwin Harbour from the city. The cafe serves standard Australian pub fare — burgers, fish and chips, cold beers — and the real draw is the setting. Tables look out over the water toward the Darwin skyline, and the sunsets here are reliably spectacular.

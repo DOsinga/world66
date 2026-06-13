@@ -1,6 +1,7 @@
 ---
 title: "Lake Murray State Park"
 type: poi
+score: 8.0
 ---
 
 Lake Murray State Park, about eight miles south of Ardmore on US-77, holds the distinction of being Oklahoma's first state park, established in 1933 as a New Deal-era project. The centerpiece is 5,728-acre Lake Murray, a reservoir ringed by red-clay hills and eastern cedar. The park is enormous by Oklahoma standards — nearly 13,000 acres in total — and offers a range of activities that rewards a full day or even an overnight stay.

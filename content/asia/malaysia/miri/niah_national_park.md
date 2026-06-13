@@ -9,6 +9,7 @@ longitude: 113.7814
 story: "In 1958, archaeologist Tom Harrisson lowered a human skull from a rope deep in the Great Cave. Dated to around 37,000–38,000 years ago, the 'Deep Skull' pushed back the known date of human presence in Southeast Asia by tens of thousands of years. The site transformed our understanding of early human migration through the region."
 sources:
   - https://en.wikipedia.org/wiki/Niah_National_Park
+score: 8.5
 ---
 
 Niah National Park, about 110 km south of Miri (roughly three hours by road), contains one of the most important archaeological sites in Southeast Asia. Excavations of the Niah Caves between 1954 and 1967 uncovered human remains, tools, and animal bones spanning 40,000 years of continuous occupation — at the time, among the oldest evidence of modern humans in the region.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 5.3444
 longitude: -0.6503
+score: 7.6
 ---
 
 A few kilometres west of Winneba, the Muni Lagoon and the salt-pan flats around it form a designated Ramsar wetland — one of six in Ghana. The site is a major stop for migratory waders from Europe and West Asia between September and April, with regular sightings of black-winged stilts, sandpipers, terns, and the occasional flamingo.

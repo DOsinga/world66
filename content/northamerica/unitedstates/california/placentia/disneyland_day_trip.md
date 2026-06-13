@@ -4,6 +4,7 @@ type: poi
 tags: [day_trips, sight]
 latitude: 33.8121
 longitude: -117.919
+score: 9.0
 ---
 
 The Disneyland Resort sits five miles southwest of Placentia in Anaheim — close enough that the fireworks are audible from many Placentia neighbourhoods on summer nights. The reason a lot of visitors to Placentia are here at all is to use the city as a quieter, cheaper base for a Disneyland trip.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8961
 longitude: 116.3732
+score: 7.0
 ---
 
 A restored Qing-dynasty market street in the southwest of the old city, specialising in antiques, calligraphy brushes and ink, old books, paintings, and art supplies. The street was heavily restored in the 1980s and looks more like a film set of old Beijing than the real thing, but the shops themselves — many of them long-established — carry genuine quality goods alongside the tourist tat. The Rongbaozhai studio, one of China's most respected publishers of art reproductions, has its flagship store here.

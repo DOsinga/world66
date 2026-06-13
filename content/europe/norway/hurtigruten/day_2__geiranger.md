@@ -6,6 +6,7 @@ tags:
 - sights
 title: Day 2 - Geiranger [summer only]
 type: poi
+score: 9.1
 ---
 
 In all seasons the boat stops at Ålesund, but in summer it cruises from there up to Geiranger and back. The scenery gets more and more impressive by the mile as you travel from the open sea into one of Norway's most spectacular fjords, the [Geirangerfjord](/europe/norway/geirangerfjord). Waterfalls cascade down sheer rock faces on both sides, and passengers crowd the upper decks for photographs.

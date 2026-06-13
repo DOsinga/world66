@@ -8,6 +8,7 @@ latitude: 37.7459
 longitude: -119.5332
 story: >
   The drive from Fresno to Yosemite Valley via Highway 41 climbs nearly 5,000 feet in about 60 miles, passing through the Sierra Nevada foothills, the Mariposa Grove of giant sequoias, and the Wawona tunnel, whose opening frames the most famous view in American landscape photography: El Capitan, Half Dome, and Bridalveil Fall in a single panorama.
+score: 8.6
 ---
 
 Yosemite National Park is 60 miles north of Fresno on Highway 41 — about 1.5 hours' drive under good conditions. Fresno serves as one of the main gateway cities; many visitors flying into Fresno Yosemite International Airport base themselves here and make the day trip rather than staying inside the park, where accommodation is expensive and limited.

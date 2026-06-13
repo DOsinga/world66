@@ -14,6 +14,7 @@ story: >
   ever since. The three tiers of triple-arched windows — a Ligurian Romanesque
   motif — are carved from local stone, and the salt wind has softened their edges
   over seven centuries into something that looks almost hand-modelled.
+score: 7.6
 ---
 
 The collegiate church of Sant'Ambrogio is Varazze's principal monument, standing on the square of the same name in the historic centre. The church was built in 1535, incorporating an older Romanesque-Gothic campanile from the 14th century. The tower, with its three tiers of triple-arched windows, is the finest architectural element in town and gives the square its character.

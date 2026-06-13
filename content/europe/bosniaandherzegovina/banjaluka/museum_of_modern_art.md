@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.7723
 longitude: 17.1897
+score: 6.7
 ---
 
 The Museum of Modern Art of Republika Srpska is the main art institution in Banja Luka, holding a collection that spans Yugoslav modernism and contemporary work from the post-war period. The building sits close to the city centre and regularly hosts temporary exhibitions alongside the permanent collection.

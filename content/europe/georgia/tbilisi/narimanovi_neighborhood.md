@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Kala (Historical Core)
 type: poi
+score: 8.5
 ---
 
 Kala is the innermost historic core of Tbilisi, the area between Freedom Square to the north and Sioni Cathedral to the south. This is the densest part of the old town: the streets are narrow enough to touch both walls with your arms outstretched in places, the buildings overhang above, and the occasional glimpse of a courtyard reveals private worlds of washing lines and cats and fragrant cooking.

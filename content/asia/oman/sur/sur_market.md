@@ -7,6 +7,7 @@ tags:
   - eating_out
   - market
 snippet: "The covered market in Sur's town centre, good for cheap curries and fresh juice"
+score: 6.3
 ---
 
 Sur's market sits in the town centre and is the best place to eat cheaply, buy supplies, or simply sit for a while and watch the town go about its business. Stalls selling Indian and Omani food — curries, biryanis, fresh breads, samosas — operate through the day and well into the evening. Fresh juice stalls offer mango, lime, and tropical blends at low prices.

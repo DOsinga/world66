@@ -9,6 +9,7 @@ tags:
 - sight
 title: Yasaka Shrine
 type: poi
+score: 7.8
 ---
 
 Yasaka Shrine — also called Gion-san by locals — stands at the eastern end of Shijō-dōri, where the long shopping street runs up against the western edge of the Higashiyama hills. The orange Western Gate (Saimon) facing the street is one of the most familiar landmarks in Kyoto. The shrine was founded in 656 and has been the spiritual sponsor of the Gion district and the great Gion Matsuri summer festival for more than a thousand years.

@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: "Baroque Dominican church, the heart of the Semana Santa processions"
+score: 8.0
 ---
 
 A 17th-century Dominican church with a richly carved stone façade and a single tall bell tower. The interior holds an ornate gilded altarpiece and several colonial-era processional figures used in Holy Week — including the heavy *pasos* depicting the Passion that are paraded through the streets each night of Semana Santa.

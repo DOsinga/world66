@@ -11,6 +11,7 @@ story: >
   The Rotonda was buried for centuries — literally built over and incorporated into the surrounding buildings until its existence was forgotten. In the 1870s, investigators noticed the upper drum of the rotunda poking above the roofline of adjacent houses. When they broke through, they found the interior intact, with fragmentary Byzantine-influenced frescoes still visible. It was excavated and restored, emerging as the oldest church in Mantua after more than 400 years of enclosure.
 sources:
   - https://en.wikipedia.org/wiki/Rotunda_of_San_Lorenzo,_Mantua
+score: 8.1
 ---
 
 Standing in the Piazza delle Erbe, the Rotonda di San Lorenzo is Mantua's oldest surviving church, built around 1082 by Countess Matilda of Tuscany in the Romanesque style. The round plan follows early Christian and Byzantine models, with a women's gallery running around the upper level — a feature that places it in the tradition of the Holy Sepulchre in Jerusalem.

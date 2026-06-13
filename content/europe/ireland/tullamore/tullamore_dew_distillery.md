@@ -13,6 +13,7 @@ story: >
   distillery in the town centre closed in 1954 and production moved to Kilbeggan. It only
   returned to Tullamore in 2014 when a brand-new distillery was built on the edge of town —
   the first time whiskey had been made in Tullamore in 60 years.
+score: 7.5
 ---
 
 The modern Tullamore D.E.W. distillery opened in 2014 on the western edge of town, returning whiskey production to Tullamore after a sixty-year gap. Tours take visitors through the distilling, maturation, and blending process, ending with a tasting of the triple-distilled Irish whiskey the brand is known for. The visitor centre is well-designed and the staff are knowledgeable about both the technical process and the local history.

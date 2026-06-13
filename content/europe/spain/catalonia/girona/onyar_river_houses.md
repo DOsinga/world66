@@ -7,6 +7,7 @@ tags:
 - sight
 title: Onyar River Houses
 type: poi
+score: 7.4
 ---
 
 The row of brightly painted houses overhanging the Onyar River is Girona's most iconic image — ochre, terracotta, yellow, and blue facades reflected in the water below. The houses were built backing onto the city walls, their facades projecting out over the river on wooden corbels. The best views are from the iron bridge designed by Gustave Eiffel's company (Pont de les Peixateries Velles) or from the Pont de Sant Feliu.

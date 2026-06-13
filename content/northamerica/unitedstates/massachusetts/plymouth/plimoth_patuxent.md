@@ -18,6 +18,7 @@ tags:
 title: Plimoth Patuxent
 type: poi
 url: www.plimoth.org
+score: 9.2
 ---
 
 This is the main event in Plymouth. About a mile south of downtown, Plimoth Patuxent is an outdoor living history museum on the waterfront, comprising a re-created 1620s English colonial village and a separate Wampanoag homesite — each staffed by people who actually know what they are talking about.

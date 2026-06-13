@@ -12,6 +12,7 @@ tags:
 - sight
 title: North Downs Walks
 type: poi
+score: 7.5
 ---
 
 Woldingham sits at the heart of some of the best walking in Surrey, on the chalk ridge of the North Downs. Tracks run through open downland, beechwood, and old farmland in all directions. The North Downs Way National Trail passes within a few kilometres of the village, connecting to longer routes eastward into Kent. On a clear day, the viewpoints south of the village look out across the Sussex Weald. Woldingham station is a useful start and end point — the walk from the station up onto the ridge and back takes about two hours at an easy pace.

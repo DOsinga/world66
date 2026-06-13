@@ -9,6 +9,7 @@ latitude: 56.0257
 longitude: -5.4213
 sources:
   - https://en.wikipedia.org/wiki/Kilmory_Castle
+score: 6.5
 ---
 
 Kilmory Castle sits just south of Lochgilphead, a large baronial house dating from the 19th century that is now the headquarters of Argyll and Bute Council. The building itself is not open to the public, but the wooded grounds — managed as Kilmory Castle Park — are, and they are well worth an hour's wander.

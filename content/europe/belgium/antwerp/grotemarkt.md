@@ -9,6 +9,7 @@ title: Grote Markt
 type: poi
 snippet: Antwerp's irregular central square — guild houses, City Hall, Brabo fountain
 story: "The Brabo fountain in the centre is the city's founding myth made bronze. The giant Druon Antigoon demanded a toll from sailors on the Scheldt and cut off the hand of anyone who refused. The Roman soldier Silvius Brabo cut off Antigoon's hand and threw it into the river — 'handwerpen' in Dutch, supposedly the origin of the name Antwerp."
+score: 8.6
 ---
 
 The irregular shape of the Grote Markt was set by medieval property lines and never tidied up — which is part of its charm. The square is ringed by tall, narrow guild houses with stepped gables from the late sixteenth and seventeenth centuries, when Antwerp was the wealthiest trading city in Europe. The Stadhuis (City Hall), a 1564 masterpiece of Italianate-Flemish architecture, dominates the west side.

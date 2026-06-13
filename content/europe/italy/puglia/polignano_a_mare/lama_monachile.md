@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   The cove takes its name from the "lama", a dry ravine cut through the limestone, not from a fjord in the northern sense. The old bridge above it follows the line of the Roman Via Traiana, so the famous beach is also a piece of ancient road geography.
+score: 8.7
 ---
 
 Lama Monachile, also called Cala Porto, is the image that sells Polignano: a narrow pebble cove squeezed between high limestone cliffs, with the old town rising directly above the water. From the bridge and terraces, the view is almost absurdly photogenic.

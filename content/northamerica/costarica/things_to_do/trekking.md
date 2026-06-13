@@ -4,6 +4,7 @@ tags:
 - things_to_do
 title: Trekking
 type: poi
+score: 8.5
 ---
 
 Costa Rica packs an extraordinary range of terrain into a small country, and trekking is one of the best ways to experience it. The national parks are well maintained and most have marked trail systems, though venturing off-trail in dense rainforest is a serious undertaking — hire a guide if you plan to do anything beyond the main loops.

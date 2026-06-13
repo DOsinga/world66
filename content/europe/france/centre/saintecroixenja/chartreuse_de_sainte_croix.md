@@ -16,6 +16,7 @@ story: >
   collision of sacred and domestic life.
 sources:
   - https://en.wikipedia.org/wiki/Sainte-Croix-en-Jarez
+score: 8.9
 ---
 
 The village of Sainte-Croix-en-Jarez is, in its entirety, a converted Carthusian monastery. The Chartreuse was founded in 1280 by Béatrix de la Tour du Pin and grew over the following centuries into a substantial complex of two great courtyards, a church, chapter house, chapter hall, and the individual cells in which the Carthusian monks lived their lives of almost total solitude. The Carthusians were, and remain, the strictest of the contemplative orders: their monks rarely speak, meet for meals only on Sundays and feast days, and spend most of their existence alone in their cells.

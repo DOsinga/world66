@@ -15,6 +15,7 @@ story: >
   beach itself remains extraordinary.
 sources:
   - https://en.wikipedia.org/wiki/Praia_da_Rocha
+score: 8.9
 ---
 
 Praia da Rocha, two kilometres south of Portimão town centre, is one of the finest beaches on the Algarve coast. The beach is broad and long — around 1.5 kilometres — backed by dramatic ochre and red sandstone cliffs that have been sculpted by the Atlantic into arches, stacks, and caves. The sand is golden and firm underfoot, and the sea is generally calm enough for swimming from May to October.

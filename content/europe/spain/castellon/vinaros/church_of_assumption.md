@@ -6,6 +6,7 @@ tags:
 - sight
 title: Archpriestal Church of the Assumption
 type: poi
+score: 7.8
 ---
 
 The Archpriestal Church of the Assumption (Arxiprestal de l'Assumpció) is the architectural centrepiece of Vinaròs — a large fortress-church in Renaissance style, built between 1583 and 1596 at the height of the town's prosperity as a wine-trading and shipbuilding centre. The exterior has a deliberately austere quality typical of late-16th-century Spanish ecclesiastical architecture, broken only by the spectacular Baroque portal added in 1698–1702: a cascade of columns, carved stone ornamentation, and religious imagery that is among the finer examples of Churrigueresque-influenced work in the province.

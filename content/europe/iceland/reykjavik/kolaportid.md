@@ -9,6 +9,7 @@ tags:
   - market
 opening_hours: Sat–Sun 11:00–17:00
 snippet: Reykjavik's weekend indoor flea market, in a former customs warehouse
+score: 7.9
 ---
 
 Kolaportið is the only flea market in Iceland and a Reykjavik weekend institution. Held in a draughty former customs warehouse near the old harbour, the stalls sell secondhand wool sweaters and Icelandic books, vintage records, costume jewellery, smoked fish, fermented shark for the brave, and an unpredictable mix of small junk.

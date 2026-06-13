@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.1
 ---
 
 Champéry is the larger neighbouring village in the Val-d'Illiez and the historic centre of the area. It sits at the foot of the Dents du Midi and is the gateway to the Swiss side of the Portes du Soleil. From Les Crosets you reach it by a steep mountain road or, in winter, by the lift network.

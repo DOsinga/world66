@@ -6,6 +6,7 @@ tags:
 - curiosity
 title: Pag Triangle
 type: poi
+score: 4.9
 ---
 
 The **Pag Triangle** (*Paški trokut*) is an irregular quadrilateral landform on the bare limestone of Pag island, located near the village of Caska adjacent to Novalja. It consists of three ground-level linear ridges forming a rough triangular shape, clearly visible from above. The origin of the formation — whether natural erosion, ancient agricultural or ritual construction, or some other process — has never been definitively established, which has made it a minor point of curiosity and speculation among those interested in unexplained geological or archaeological features.

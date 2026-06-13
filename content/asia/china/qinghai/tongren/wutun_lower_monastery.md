@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5610
 longitude: 102.0556
+score: 8.0
 ---
 
 Wutun Lower Monastery is a Gelug institution sitting a few hundred metres south of the upper monastery in the same village, on the valley floor. Where the upper monastery is known for its Nyingma painting tradition, the lower monastery represents the other major tradition in this valley, producing some of the finest gilded sculpture in the region.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - spa
 snippet: Large thermal spa complex built around the famous salt-hill spring
+score: 8.5
 ---
 
 The Saliris Resort is the reason most people visit Egerszalók. Built around the natural salt-hill thermal spring, it offers a full range of indoor and outdoor thermal pools, wellness treatments, and a water park aimed at families. The outdoor pools closest to the travertine terraces are the most spectacular, with views of the white mineral formations and the rolling Bükk foothills.

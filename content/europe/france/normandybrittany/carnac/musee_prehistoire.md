@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.5847
 longitude: -3.0794
+score: 8.2
 ---
 
 The Musée de Préhistoire de Carnac is one of the best prehistoric archaeology museums in France and an essential companion to the alignments outside. The collection covers the entire Neolithic and Bronze Age sequence of the Morbihan region, with excavated objects from the tumuli and alignments: polished stone axes, gold jewellery, pottery, and engraved stones that give some sense of the culture that raised the menhirs.

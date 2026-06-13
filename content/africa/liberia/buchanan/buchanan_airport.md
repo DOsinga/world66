@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.9042
 longitude: -10.0583
+score: 2.5
 ---
 
 Buchanan Airport is a small airstrip on the northern edge of town, used mainly by humanitarian flights, occasional charter services and the iron-ore companies. Scheduled commercial service has been intermittent at best in the last decade, and most travellers reach the city by road from [Monrovia](/africa/liberia/monrovia).

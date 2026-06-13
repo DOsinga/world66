@@ -9,6 +9,7 @@ tags:
 title: Shinnawi Palace
 type: poi
 story: "The Shinnawi family made their fortune in Egyptian cotton during the boom years of the late nineteenth and early twentieth centuries, when Egypt supplied much of the world's long-staple cotton and the Delta was extraordinarily wealthy. The palace was built in 1928, near the end of that era — close enough to the peak that it reflects genuine prosperity, and near enough to the crash of 1929 to feel like a last extravagance."
+score: 7.7
 ---
 
 A flamboyant 1928 mansion designed by an Italian architect for a wealthy Egyptian cotton merchant — marble floors, frescoed ceilings, mirrored halls, and ornamental ironwork throughout. The interior combines the European eclecticism fashionable among wealthy Egyptian families of the period with local architectural details that ground it in the Delta rather than in Europe. It is considered one of the finest examples of this hybrid style in Egypt.

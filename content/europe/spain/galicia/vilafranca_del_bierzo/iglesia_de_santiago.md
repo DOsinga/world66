@@ -15,6 +15,7 @@ story: >
   stage into Galicia, over the O Cebreiro pass, killed weaker pilgrims every year. The
   door was the Church's acknowledgement that the spirit of the pilgrimage mattered more
   than its physical completion.
+score: 7.8
 ---
 
 The Iglesia de Santiago stands at the entrance to Vilafranca del Bierzo's old town, precisely where it has stood since the 12th century — positioned deliberately to be the first significant building a pilgrim arriving from the east would encounter. The church is a solid example of Romanesque architecture, with thick stone walls, round arches, and a restraint that feels appropriate for a place where exhausted travellers came for grace rather than spectacle.

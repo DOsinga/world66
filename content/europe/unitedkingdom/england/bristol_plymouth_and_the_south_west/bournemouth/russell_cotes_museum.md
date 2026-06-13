@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: A Victorian seaside villa filled with the eccentric world tour collection of a 19th-century hotelier
 story: "Merton Russell-Cotes ran the Royal Bath Hotel and circled the globe four times collecting pieces for the villa he built his wife Annie as a birthday present in 1901. Japanese armour, Russian icons, a stuffed black bear shot in Vermont, and 'The Tempest', a Turner-influenced canvas he bought directly from the artist Henry Dawson -- everything is arranged on her birthday plan. They gave the house to the town in 1922 on condition it never be altered."
+score: 8.6
 ---
 
 The Russell-Cotes is one of the strangest and most enjoyable museums in southern England: a clifftop villa above the bay, built around 1900 in an extravagant blend of Italianate, Moorish, and Scottish baronial styles, and crammed with the eclectic collection assembled by the Russell-Cotes family on their world tours. It opened to the public in 1922 and has been preserved largely as the family left it.

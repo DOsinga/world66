@@ -9,6 +9,7 @@ tags:
   - sight
   - island
   - snorkelling
+score: 7.2
 ---
 
 A short pirogue ride off the west coast of Nosy Be, Nosy Sakatia is the quietest of the easy day-trip islands. A reserved seagrass meadow off its west shore reliably hosts green turtles, and you can usually snorkel with several in an hour. A handful of small guesthouses dot the island for those who want to slow down further.

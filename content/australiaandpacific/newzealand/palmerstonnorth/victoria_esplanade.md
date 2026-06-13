@@ -8,6 +8,7 @@ tags:
 - park
 title: Victoria Esplanade
 type: poi
+score: 7.8
 ---
 
 The Victoria Esplanade is the green spine of Palmerston North, running along the south bank of the Manawatū River below the central city. The 27-hectare park dates from 1897 — Queen Victoria's Diamond Jubilee — and was designed in the formal English-garden tradition, with mature trees, ornamental gardens, an aviary, and a children's playground.

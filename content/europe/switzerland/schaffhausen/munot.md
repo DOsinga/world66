@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6969
 longitude: 8.6397
+score: 8.3
 ---
 
 The Munot is a circular 16th-century fortress on Emmersberg hill, built on the basis of a design attributed to Albrecht Dürer. It is the symbol of Schaffhausen and earns its status: the round tower, the moat, and the vineyard terraces below it make for a coherent and surprisingly intimate fortification. The interior is open to walk through, and the acoustics inside the rotunda are worth testing.

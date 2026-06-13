@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Café de la Renaissance
 type: poi
+score: 6.4
 ---
 
 A former French Foreign Legion hangout on Place Mohammed V in the Ville Nouvelle. Faded grandeur, decent coffee, and a good vantage point for watching the square come to life in the early evening.

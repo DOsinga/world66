@@ -7,6 +7,7 @@ tags:
 latitude: 42.4567
 longitude: -7.5124
 snippet: The best viewpoint over the Sil canyon — looking directly down onto the terraced vineyards
+score: 8.2
 ---
 
 The Mirador de Cabezoas sits on the rim of the Sil canyon and looks directly down several hundred metres to the river and the terraced vineyards on the opposite wall. It is the single most dramatic viewpoint in the Ribeira Sacra and appears on virtually every photograph taken of the region. The drive along the narrow canyon road to reach it is itself scenic.

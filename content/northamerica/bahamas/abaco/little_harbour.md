@@ -13,6 +13,7 @@ story: >
   He found Little Harbour, anchored, and never left. He built a foundry, cast
   bronze sculpture, and raised his children on this remote cay decades before it
   became accessible by road. Pete carries on the foundry today.
+score: 7.8
 ---
 
 Little Harbour is a tiny, almost perfectly circular anchorage at the southern end of Great Abaco, ringed by limestone cliffs and accessible by road from Marsh Harbour (about 45 minutes south) or by boat. The harbour is one of the most sheltered in the Bahamas and has long been a favoured bolt-hole for cruising sailors.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.5928
 longitude: -93.6724
+score: 6.6
 ---
 
 Eatery A is a wood-fired Mediterranean restaurant on the western edge of Ingersoll and one of the consistently best dinners in Des Moines. The menu runs Italian and Greek through North African — pizzas from the open hearth, lamb cooked over coals, mezze platters with house-made flatbread.

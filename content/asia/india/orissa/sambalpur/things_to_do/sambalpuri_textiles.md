@@ -1,6 +1,7 @@
 ---
 title: "Sambalpuri Textile Weaving"
 type: poi
+score: 8.6
 ---
 
 Sambalpur is the capital of one of India's most distinctive handloom traditions. Sambalpuri ikat — known locally as bandha — is a double-ikat resist-dyeing technique in which both the warp and weft threads are tie-dyed in complex geometric and floral patterns before weaving, so that the finished fabric displays perfectly aligned designs on both sides. The patterns draw on traditional motifs: the shankha (conch), chakra (wheel), phula (flower), and fish scales appear repeatedly, often in deep reds, blacks, and blues against natural or cream backgrounds. Sambalpuri saris and dress fabric are prized across India and the technique has a geographical indication (GI) certification.

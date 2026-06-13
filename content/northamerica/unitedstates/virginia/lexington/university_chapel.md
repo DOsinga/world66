@@ -13,6 +13,7 @@ story: >
   chapel, after suffering a stroke two weeks earlier. His horse Traveller died the following
   year and is buried just outside, in a small enclosure by the chapel's basement entrance.
   Both are visitors' first question when they arrive.
+score: 8.4
 ---
 
 The University Chapel on the Washington and Lee campus — still widely known as Lee Chapel — is a National Historic Landmark and one of the most significant Civil War memorial sites in Virginia. Built in 1867 under Robert E. Lee's personal supervision, it contains his tomb, the Edward Valentine recumbent marble statue of the general lying in his military uniform, and a small museum about Lee's presidency of the university.

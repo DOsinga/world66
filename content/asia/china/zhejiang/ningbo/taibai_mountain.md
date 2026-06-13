@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8700
 longitude: 121.7400
+score: 7.5
 ---
 
 Taibai Mountain, about twenty-five kilometres east of central Ningbo, is the forested highland that contains both Tiantong Temple and Ayuwang Temple within a national forest park. The mountain rises to about 650 metres and is covered in mixed subtropical forest — camphor, cedar, bamboo, and pine — that gives the area a cool, shaded quality even in summer. Several hiking trails connect the two major temples via forest ridges and valley streams.

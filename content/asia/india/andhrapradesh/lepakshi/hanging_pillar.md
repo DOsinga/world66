@@ -7,6 +7,7 @@ tags:
 latitude: 13.8018
 longitude: 77.6095
 story: "A British engineer in the early 20th century is said to have tried to discover the secret of the suspended pillar by dislodging it; he succeeded only in shifting it slightly, after which several other pillars in the hall went out of alignment. The temple authorities ordered him to stop. The dent he made remains visible on the pillar's base."
+score: 7.7
 ---
 
 In the natya mandapa — the dance hall — of the Veerabhadra Temple stands one of seventy carved granite pillars that does not, in fact, touch the ground. A small gap is visible at its base, and you can slip a thin cloth or a piece of paper underneath and pass it through to the other side. The temple guides will demonstrate this for a small tip, with what is genuinely an impressive party trick.

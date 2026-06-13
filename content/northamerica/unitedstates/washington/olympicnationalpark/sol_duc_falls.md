@@ -7,6 +7,7 @@ tags:
   - waterfall
 title: Sol Duc Falls
 type: poi
+score: 8.0
 ---
 
 Sol Duc Falls drops into a narrow rocky slot, splitting into white ribbons that look especially good after rain. The trail is short, shaded, and far more atmospheric than its modest distance suggests.

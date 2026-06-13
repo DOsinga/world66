@@ -10,6 +10,7 @@ latitude: 51.8369
 longitude: 12.4197
 sources:
   - https://en.wikipedia.org/wiki/Garden_Kingdom_of_Dessau-W%C3%B6rlitz
+score: 8.8
 ---
 
 The centrepiece of the Garden Kingdom of Dessau-Wörlitz, Wörlitzer Park was laid out from the 1760s onward for Prince Franz of Anhalt-Dessau, who had toured England and come back inspired by the English landscape garden. The result is one of the finest examples in continental Europe: serpentine paths wind through meadows and woodland, over bridges and past neoclassical pavilions, around a system of artificial lakes and channels that can be explored by flat-bottomed gondola.

@@ -8,6 +8,7 @@ tags:
   - sight
   - unesco
 story: "Tubbataha was the first marine UNESCO World Heritage Site in Southeast Asia, listed in 1993. It is also the only park in the Philippines reserved entirely as a no-take zone — there is no resident population, no fishing, and the only way to enter is on a permitted liveaboard."
+score: 9.8
 ---
 
 The **Tubbataha Reefs** are a double atoll in the middle of the Sulu Sea, 150 km southeast of Puerto Princesa, completely uninhabited apart from a rotating park ranger station. They are the diving jewel of the Philippines: 100,000 hectares of pristine coral, with sharks (reef, grey, occasionally hammerhead), manta rays, schooling jacks and barracuda, and some of the highest fish biomass measured anywhere in Asia.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.6665
 longitude: 133.7818
+score: 8.2
 ---
 
 The Kibiji cycling route is a 17-kilometre path through the flat agricultural plain west of Okayama city, connecting the ancient shrines and burial mounds of one of Japan's oldest settled regions. The route passes through rice paddies and past large kofun (burial mounds), stopping at two of the most important shrines in western Japan: Kibitsu Shrine and Kibitsuhiko Shrine, both associated with the legendary prince Kibitsuhiko-no-mikoto, whose story of slaying a demon served as one of the inspirations for the Momotarō folk tale.

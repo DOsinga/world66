@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 47.3949
 longitude: 0.6885
+score: 7.5
 ---
 
 A small square just off Rue Colbert, sloping gently down towards the Loire. Less famous than Place Plumereau but arguably more architecturally interesting — three sides are lined with handsome 16th- and 17th-century stone townhouses, with one extraordinary 15th-century half-timbered building at the south corner.

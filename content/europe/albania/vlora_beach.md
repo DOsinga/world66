@@ -7,6 +7,7 @@ tags:
 - beaches
 title: Vlora Beach
 type: poi
+score: 5.5
 ---
 
 Vlora's main city beach stretches along the Lungomare promenade on the south side of town. The water is calm and shallow, making it a good choice for families, though it gets busy in July and August when Albanian holidaymakers fill the coast. Sunbed and umbrella rentals line the sand, and a strip of cafes and restaurants backs the beach.

@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Cleopatra_Beach
+score: 7.8
 ---
 
 Cleopatra Beach is Alanya's main western beach, stretching roughly 2.5 km along the coast from the base of the promontory toward Damlataş Cave. The sand is coarse and golden, the water is clear and calm (the promontory provides natural shelter from the prevailing winds), and facilities — sunloungers, parasols, showers, and cafes — are well established along most of the length.

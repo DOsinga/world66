@@ -10,6 +10,7 @@ tags:
 - indian
 title: Taj India
 type: poi
+score: 5.1
 ---
 
 A reliable Indian restaurant with something for everyone, including vegans. The tandoori dishes are the highlight -- tandoori chicken, fish tikka, and the mixed grill. The lamb badami and chicken madras are also excellent. All entrees come with basmati rice.

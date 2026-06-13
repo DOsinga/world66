@@ -12,6 +12,7 @@ tags:
 - memorial
 title: Joplin Tornado Memorial
 type: poi
+score: 5.8
 ---
 
 On 22 May 2011, an EF5 tornado — the most powerful category on the scale — cut a mile-wide path through the southern half of Joplin, killing 161 people and destroying or damaging more than eight thousand structures. It remains one of the deadliest tornadoes in United States history since records began.

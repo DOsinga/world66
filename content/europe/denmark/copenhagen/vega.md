@@ -10,6 +10,7 @@ tags:
 - music
 title: Vega
 type: poi
+score: 8.0
 ---
 
 One of Copenhagen's most distinctive music venues, housed in a 1950s trade union building in Vesterbro. The original interior has been kept, from the zigzag tiled floors to the sixties mural behind the bar. The main hall hosts big Danish and international acts, while the smaller stage (Little Vega) showcases underground talent. Club nights follow the concerts most weekends.

@@ -10,6 +10,7 @@ address: "120 Kingmingya Road"
 latitude: 68.3684
 longitude: -133.7375
 story: "Built in Winnipeg, the mosque was trucked west to the Hay River, barged 1,800 km down the Mackenzie River, and reassembled in Inuvik in 2010 to serve a small but established Muslim community working in the oil patch and the hospital. The shipping operation made the international news."
+score: 6.2
 ---
 
 The Midnight Sun Mosque — known locally as the "Little Mosque on the Tundra" — is a small green-and-white prefabricated wooden building on the north edge of town that serves Inuvik's roughly 100-strong Muslim community. It is the northernmost mosque in the Americas.

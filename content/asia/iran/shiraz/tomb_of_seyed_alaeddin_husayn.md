@@ -7,6 +7,7 @@ tags:
 - sight
 title: Astaneh Seyyed Ala'edin Hossein
 type: poi
+score: 7.1
 ---
 
 Often overlooked because the more famous Shah Cheragh sits a few hundred metres away, the Astaneh Seyyed Ala'edin Hossein is the mausoleum of another descendant of the Shia Imams who died in Shiraz in the 9th century. The current complex dates mostly from the Safavid period, with a domed central chamber and a courtyard that fills up in the late afternoon.

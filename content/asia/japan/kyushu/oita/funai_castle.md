@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Funai Castle was the seat of the Christian daimyo Otomo Sorin, who in 1551 welcomed the Jesuit Francis Xavier to his port and made Oita briefly one of the most cosmopolitan towns in Japan — with a hospital, a printing press, and a community of Portuguese traders. Almost nothing of that period survived the Tokugawa anti-Christian purges."
+score: 6.6
 ---
 
 Funai Castle stood in the centre of Oita from the sixteenth century until the Meiji era, when most of its structures were dismantled. What remains is the moated castle park: stone walls, a turret, several gates, and a wide open green that is the city's main public space. The reconstructed Hakusan Yagura turret gives a sense of the original scale.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Batumi Public Service Hall
 type: poi
+score: 7.2
 ---
 
 The Batumi Public Service Hall, on the south side of town, is one of the most photographed pieces of architecture in the city — and one of the most functional. It is the building where Georgians come to get a driving licence, a passport, or a property title, but the structure looks like a piece of speculative science fiction: a series of overlapping glass-and-aluminium rings spreading outwards like leaves, with a central atrium at the heart.

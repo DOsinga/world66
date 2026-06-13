@@ -11,6 +11,7 @@ latitude: 45.8185
 longitude: 8.8240
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_Estense
+score: 7.8
 ---
 
 Palazzo Estense was built in the 1760s as a summer residence for Francesco III d'Este, Duke of Modena, who briefly ruled the region under Austrian patronage. The building itself now houses the Varese town hall, but the formal Italian gardens behind it are open to the public and are among the finest in Lombardy.

@@ -8,6 +8,7 @@ latitude: 43.7750
 longitude: 126.5478
 story: >
   The Fengman dam that created Songhua Lake was built between 1937 and 1943 under Japanese colonial administration using conscript and prisoner labour in conditions that killed thousands. The lake — one of the most beautiful stretches of water in Jilin Province — exists as the incidental legacy of an imperial infrastructure project built under brutal conditions. The dam also produces the warm water that creates the rime ice downstream in winter, a consequence its builders neither planned nor experienced.
+score: 7.5
 ---
 
 Songhua Lake is the Fengman Reservoir, created by damming the Songhua River about fifteen kilometres southeast of Jilin City. The reservoir is large — 554 square kilometres at full pool — and the surrounding hills and forest give it a landscape quality that belies its industrial origins. Boat cruises operate in summer, and the lake shore has developed resort facilities for domestic visitors.

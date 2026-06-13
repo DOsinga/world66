@@ -9,6 +9,7 @@ latitude: 38.2133
 longitude: 26.0878
 story: >
   The geometric black-and-white decoration covering the facades of Pyrgi is called xysta — a technique in which the plaster is coated in two colours and the top layer is scraped away to reveal patterns underneath. Every surface in the village is covered in this way: arches, house fronts, church walls, public buildings. The patterns are based on traditional geometric motifs and no two facades are identical. The technique dates back at least to the 15th century and may be older.
+score: 8.9
 ---
 
 Pyrgi is the most visually distinctive village in all of Greece, possibly in all of Europe. Every building facade in the old quarter is covered in elaborately scratched geometric decoration in black, white, and grey — an effect so complete and deliberate that walking through the village feels like entering an enormous work of abstract art.

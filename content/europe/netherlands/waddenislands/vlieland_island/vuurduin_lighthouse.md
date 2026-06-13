@@ -11,6 +11,7 @@ story: >
   *vuurboet* of "Vuurboetsduin" means "fire hut", a coal-burning
   beacon that lit ships through the Vlie inlet long before
   lighthouses existed.
+score: 7.3
 ---
 
 The Vuurduin — Vuurboetsduin — is the red iron lighthouse on the highest dune above Oost-Vlieland, the island's permanent landmark. The 18-metre tower sits on a dune that itself rises 39 metres above sea level, so it dominates the skyline from almost everywhere. At night the signal flashes white at 8-second intervals, visible from far out in the North Sea.

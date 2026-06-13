@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Hospital church with a long history of caring for the poor
+score: 7.1
 ---
 
 San Juan de Dios is the church of the Order of the Hospitallers of St John, founded in Sucre in the 17th century to run the original colonial hospital. The hospital itself moved long ago to a modern facility on the city's edge but the church and a small cloister remain, on Calle Hernando Siles south of the centre. The interior is plain compared with Sucre's more lavish churches but has fine carved choir stalls and a serene 18th-century image of San Juan tending the sick.

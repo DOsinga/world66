@@ -10,6 +10,7 @@ longitude: 10.9131
 snippet: "Romanesque church containing Giovanni Pisano's greatest pulpit"
 story: >
   Giovanni Pisano completed the hexagonal pulpit in Sant'Andrea in 1301, after carving a similar pulpit in Pisa. The Pistoia pulpit is considered by many art historians to be the finer work. During the carving, Pisano inscribed the pulpit with a text defending himself against critics who had accused him of not knowing his craft — a remarkable glimpse of artistic ego from the medieval period.
+score: 8.6
 ---
 
 Sant'Andrea is a modest-looking Romanesque church on Via Sant'Andrea, a short walk from the Piazza del Duomo, but it contains one of the greatest works of medieval Italian sculpture: the hexagonal pulpit carved by Giovanni Pisano and completed in 1301. The six narrative reliefs — Annunciation and Nativity, Journey of the Magi, Adoration, Massacre of the Innocents, Crucifixion, and Last Judgment — are carved with extraordinary energy, the figures pushing against the frame in a way that feels almost physically violent.

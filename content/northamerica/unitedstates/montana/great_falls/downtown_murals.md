@@ -7,6 +7,7 @@ tags:
 title: Downtown Murals
 type: poi
 snippet: "Open-air collection of large-scale murals on the brick walls of downtown buildings"
+score: 5.8
 ---
 
 Since the early 2000s artists from across the West have been adding large-scale murals to the brick sides of downtown buildings, depicting Charles Russell's Montana, Lewis and Clark, Indigenous history, and contemporary themes. There are now more than two dozen, concentrated on Central Avenue and the cross-streets.

@@ -13,6 +13,7 @@ story: >
   composer. The painting is a record of a world about to fall apart.
 sources:
   - https://en.wikipedia.org/wiki/Skagens_Museum
+score: 9.2
 ---
 
 Skagens Museum holds the definitive collection of the Skagen Painters — the loose colony of Danish and Scandinavian artists who converged here from the 1870s onwards, drawn by the extraordinary northern light and by each other. The key figures are P.S. Krøyer, Michael and Anna Ancher, and Holger Drachmann.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.84861
 longitude: 5.86972
+score: 6.7
 ---
 
 The Stratemakerstoren is one of the few surviving towers from Nijmegen's 16th-century city wall, a chunky bastion of brick and stone that sits on the Waalkade at the edge of the old harbour district. Its name comes from the road-pavers (stratenmakers) who historically worked in the area. The tower was built around 1544 as part of a major strengthening of the city's defences and is the most visible remnant of the medieval fortifications.

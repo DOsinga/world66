@@ -8,6 +8,7 @@ tags:
 latitude: 54.8940
 longitude: -2.9390
 snippet: Sections of medieval fortifications still standing around the old city centre
+score: 7.5
 ---
 
 Carlisle's city walls are fragmentary but real — substantial sections of the medieval defences survive, and you can walk along them and through the remaining gateways to get a sense of how thoroughly fortified this city once was. The best-preserved stretch runs along the north and west sides of the city, near the castle. The three medieval gates — Scotch Gate, English Gate, and Irish Gate — have all been demolished, but the line of the walls survives.

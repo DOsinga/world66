@@ -9,6 +9,7 @@ tags:
   - sight
 title: Underground Passages
 type: poi
+score: 8.0
 ---
 
 Beneath the streets of central Exeter runs a network of medieval tunnels, unique in England as a visitor attraction. They were built in the 14th and 15th centuries to carry lead pipes bringing fresh water from springs outside the city walls to the cathedral and city centre. Rather than dig up the streets every time a pipe needed repair, the builders constructed vaulted passageways wide enough to walk through.

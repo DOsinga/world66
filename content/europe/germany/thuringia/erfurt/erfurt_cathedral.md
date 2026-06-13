@@ -11,6 +11,7 @@ story: >
   The cathedral's greatest treasure is the Maria Gloriosa, a bell cast in 1497 and weighing nearly 12 tonnes — the largest medieval bell still in use in the world. It rings only on special occasions; hearing it in person is an experience people remember for a long time.
 sources:
   - https://en.wikipedia.org/wiki/Erfurt_Cathedral
+score: 8.9
 ---
 
 The Erfurt Cathedral, properly the Hohe Domkirche St. Marien, occupies the high ground above Domplatz alongside the Severikirche. It has stood in various forms since the 8th century; the current Gothic building dates mainly from the 13th to 15th centuries. The choir, with its extraordinary stained glass windows from the 14th century, is among the finest in Germany.

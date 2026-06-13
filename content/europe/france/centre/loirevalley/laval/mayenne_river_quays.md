@@ -6,6 +6,7 @@ longitude: -0.7720
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Mayenne curves through the centre of Laval, and the stone quays along both banks make for the town's most enjoyable walk. Old wash-houses cling to the water on the right bank below the château, and the bridges — including the 13th-century Pont Vieux — give the best photograph of the fortress above.

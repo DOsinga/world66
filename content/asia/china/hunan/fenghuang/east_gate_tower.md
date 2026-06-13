@@ -14,6 +14,7 @@ story: >
   he arrived to find a town largely unchanged from his childhood, which moved
   him to write that "the small town is exactly the same as it was twenty years
   ago." That observation is considerably less accurate today.
+score: 7.8
 ---
 
 The East Gate Tower (Shengheng Gate) is one of four original city gates of Fenghuang Ancient Town, the only one fully restored and open to visitors, and the most recognisable landmark in the old town photographs. The tower sits at the river's edge, its stone base descending directly to the Tuo River, and a covered walkway along the wall from the gate provides views over the stilt houses extending upstream and the Hong Bridge further west.

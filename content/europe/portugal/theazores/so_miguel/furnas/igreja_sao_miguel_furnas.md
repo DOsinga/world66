@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 5.8
 ---
 
 The parish church of Furnas, dedicated to St Michael the Archangel, stands on the main square in the centre of the village. The current building dates from the early nineteenth century, replacing an earlier church damaged by earthquakes — a recurring problem in this still-active volcanic area. The exterior is simple white stuccoed walls with grey trachyte trim, the standard Azorean idiom; the interior is restrained, with a gilded altarpiece and a few baroque side chapels.

@@ -8,6 +8,7 @@ tags:
 latitude: -0.4660
 longitude: -76.9854
 story: The Omaguas, Cofán, Tagaeri and other Amazonian peoples who lived along the Napo and Coca rivers left behind sophisticated ceramic traditions that are barely known outside the region. The Coca museum is one of very few places where their pottery is shown in any organised way.
+score: 7.4
 ---
 
 The Museo Arqueológico Centro Cultural Orellana (MACCO), housed in the modern cultural centre near the Napo malecón, is the best display in Ecuador of pre-Columbian ceramics from the Oriente region. The collection includes pottery, stone tools and ornaments from the Omagua, Napo-phase and Cofán cultures, with helpful Spanish-language panels explaining the chronology.

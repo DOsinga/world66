@@ -9,6 +9,7 @@ latitude: 13.1105
 longitude: 80.2901
 snippet: "One-room museum dedicated to Srinivasa Ramanujan, the self-taught mathematical genius."
 story: "Srinivasa Ramanujan grew up poor in Tamil Nadu, taught himself mathematics from a single textbook, and went on to produce work of extraordinary originality that mathematicians are still working through today. When the Cambridge mathematician G.H. Hardy visited him in hospital near the end of his life and mentioned he had arrived in a taxi with the 'dull number' 1729, Ramanujan immediately replied that 1729 was actually interesting — it is the smallest number expressible as the sum of two cubes in two different ways. He died in 1920 at 32. The museum preserves photographs, letters, and documents from his brief, remarkable life."
+score: 6.2
 ---
 
 The Ramanujan Museum is a small, earnest institution in the Royapuram neighbourhood dedicated to preserving the memory of Srinivasa Ramanujan (1887–1920), one of the greatest self-taught mathematical geniuses in history.

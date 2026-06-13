@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 snippet: Easygoing pub with live music most nights
+score: 5.9
 ---
 
 A reliable mid-range pub at the Steamer Wharf complex with live acoustic music most evenings, a long beer list, and pub food that exceeds expectations for the genre. Less raucous than the Shotover Street strip and less self-consciously craft than Atlas, it works as both a dinner stop and a place to settle in for a few drinks afterwards.

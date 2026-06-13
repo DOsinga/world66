@@ -8,6 +8,7 @@ tags:
 - sight
 title: Piazza dei Signori
 type: poi
+score: 8.0
 ---
 
 The civic and political heart of Verona since the Scaligeri period, immediately behind Piazza Erbe and reached through the Arco della Costa. The square is more formal and quieter than its neighbour: it is framed by the Palazzo del Capitanio, the Palazzo della Ragione (the old court of justice), and the Renaissance Loggia del Consiglio — the finest Renaissance building in the city. A statue of Dante stands in the centre, a reminder that the poet took refuge here at the Scaligeri court during his exile. The Torre dei Lamberti, at 84 metres the tallest tower in Verona, rises from the Palazzo della Ragione; a lift takes visitors to the top.

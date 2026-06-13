@@ -5,6 +5,7 @@ tags: [things_to_do, sight, history, religious]
 latitude: 42.7503
 longitude: 17.5464
 story: Founded in the 12th century on a small islet in the middle of Veliko jezero, the monastery sits on ground that may originally have been a Roman fort — the island's strategic position in the lake would have made sense for either purpose. Over the centuries it has been a working Benedictine house, a summer guesthouse, and briefly a restaurant before being returned to its religious function. The boat ride from the nearest shore takes roughly thirty seconds; the islet is genuinely tiny.
+score: 9.0
 ---
 
 The monastery's setting is improbable enough to stop you mid-paddle when you first see it: a solid Romanesque church rising from a scrap of land in the middle of a lake that is itself in the middle of an island. The church of St. Mary dates from the 12th century, though the complex was expanded over several hundred years, and the blend of Romanesque stonework and later Baroque additions gives it a layered quality. The cloister courtyard is small but well-preserved. Inside the church, look for the carved stone details — the craftwork is finer than you might expect given how remote the location was when it was made.

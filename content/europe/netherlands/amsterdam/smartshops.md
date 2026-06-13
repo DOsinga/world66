@@ -8,6 +8,7 @@ tags:
 - drugs
 title: Smart Shops
 type: poi
+score: 3.6
 ---
 
 Distinct from the coffeeshops that sell cannabis, Amsterdam's smart shops specialize in psychoactive substances that fall into legal grey areas. The original draw was magic mushrooms (*paddo's*, short for *paddenstoelen*), but fresh mushrooms were banned in 2008 after a string of tourist incidents. The shops pivoted to magic truffles — technically a different part of the same organism — which remain legal.

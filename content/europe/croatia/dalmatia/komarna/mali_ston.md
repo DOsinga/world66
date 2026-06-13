@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - eating_out
+score: 8.3
 ---
 
 Mali Ston — Little Ston — is the smaller of the two walled villages at the neck of the Pelješac peninsula, a cluster of stone houses around a tiny harbour where the oyster boats dock. The setting is unforgettable, with the city walls climbing the hillside behind and the calm green water of the bay in front.

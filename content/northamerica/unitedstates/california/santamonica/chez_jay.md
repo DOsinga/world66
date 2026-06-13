@@ -7,6 +7,7 @@ tags:
 latitude: 34.0108
 longitude: -118.4981
 snippet: "A scruffy dive bar near the pier that has outlasted multiple cycles of Santa Monica gentrification"
+score: 7.1
 ---
 
 Chez Jay has occupied its spot on Ocean Avenue since 1959 and survived every subsequent wave of development and gentrification in the neighbourhood. The interior is dim, the booths are vinyl, and the menu runs to steaks and chilli. Astronaut Alan Shepard is said to have celebrated his return from space here in 1961; the claim may be apocryphal but the bar has cultivated this sort of mythology deliberately.

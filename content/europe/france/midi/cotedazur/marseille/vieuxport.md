@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - old_port
+score: 8.6
 ---
 
 The Vieux-Port is the oldest part of Marseille and the city's geographical and emotional centre. Greek sailors founded Massalia on its eastern shore around 600 BC, and the harbour has been in continuous use ever since — first for trade with the Eastern Mediterranean, later for the slave trade, then for fishing and pleasure boats. Today the fishing fleet still ties up along the Quai des Belges and sells the morning catch directly from the quay; the rest of the port is packed with sailing boats and small motor cruisers.

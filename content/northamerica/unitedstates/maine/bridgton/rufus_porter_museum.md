@@ -16,6 +16,7 @@ story: >
   airship to ferry passengers to the California Gold Rush; three prototypes were
   destroyed by a tornado and by vandals before he gave up. He died in 1884 at
   age 92, having outlasted almost every rival.
+score: 8.4
 ---
 
 The Rufus Porter Museum is the best surprise in Bridgton. Porter (1792–1884) was a western Maine native who crammed several remarkable careers into one very long life: itinerant muralist, inventor, journalist, and founder of *Scientific American*. The museum occupies a pair of historic buildings in the center of town and celebrates this chronically underestimated figure with rotating exhibits on both his art and his inventions.

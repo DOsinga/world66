@@ -9,6 +9,7 @@ latitude: 54.7760
 longitude: -1.5733
 story: >
   The collection at Palace Green Library includes the Cosin Bible — one of the most important illuminated manuscripts in England — and the original archives of the Prince Bishops of Durham, who for centuries wielded near-sovereign power in the north as a buffer between the English crown and Scotland. The library building itself, a handsome 17th-century structure, was built under Bishop Cosin, who assembled much of the collection.
+score: 7.7
 ---
 
 Palace Green Library is Durham University's main exhibition space, housed in a 17th-century building directly between the castle and cathedral. It runs a changing programme of exhibitions drawing on the university's remarkable special collections: medieval manuscripts, early printed books, archives of the Durham coalfield, maps, and more. Entry to exhibitions is usually free or low-cost.

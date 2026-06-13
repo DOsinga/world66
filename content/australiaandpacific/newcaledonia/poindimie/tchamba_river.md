@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - river
+score: 7.5
 ---
 
 The Tchamba flows down from the central range to meet the lagoon south of Poindimié, cutting through a deep valley of rainforest and Kanak tribal land. The unpaved track that follows the river inland is one of the best short detours on the east coast — the road quickly leaves the lagoon behind and climbs into dense subtropical forest, passing scattered tribal villages along the way.

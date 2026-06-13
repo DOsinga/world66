@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua
 story: >
   The fort was used by the Somoza regime as a military post and prison. During the 1979 insurrection, Sandinista fighters stormed it from below, and the battle left bullet holes and scorch marks that are still visible in the walls. The fort changed hands several times before the final Sandinista victory.
+score: 7.4
 ---
 
 El Fortín de Acosasco is a hilltop military fort on the edge of León, built during the Somoza dictatorship and offering commanding views over the city and the surrounding volcanic landscape. It is a dark place — used as a prison and interrogation site — but visiting it provides essential context for understanding León's revolutionary history.

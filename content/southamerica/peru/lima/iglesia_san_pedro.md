@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: Best-preserved colonial church interior in Lima
+score: 8.4
 ---
 
 The Jesuit **Iglesia de San Pedro**, two blocks from Plaza Mayor, has the best-preserved colonial church interior in Lima — much of the 17th-century gilded carved-cedar altarpieces, painted ceiling, and tiled chapel walls survived because the church was not refurbished in the 19th or 20th centuries.

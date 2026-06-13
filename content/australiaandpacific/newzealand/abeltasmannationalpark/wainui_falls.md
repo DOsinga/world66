@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - sight
+score: 7.1
 ---
 
 Wainui Falls, in the northern reaches of the park near Wainui Bay, is the largest waterfall accessible by a short walk in the area — a 20-metre drop over a granite ledge into a green pool. The track from the carpark is about 45 minutes return, easy walking through beech and nikau forest.

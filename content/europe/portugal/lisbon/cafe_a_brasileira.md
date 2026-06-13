@@ -15,6 +15,7 @@ story: >
   alternative identities with their own biographies, philosophies, and styles.
   He died in 1935 leaving a trunk of 25,000 unpublished manuscripts. Most of
   them remained unread for decades.
+score: 7.1
 ---
 
 One of Lisbon's great historic cafés, open since 1905 on Rua Garrett in Chiado, associated above all with the poet Fernando Pessoa who was a regular customer. The bronze Pessoa on the terrace is one of the most photographed things in the city; the interior retains its art deco fittings — dark wood panelling, azulejo panels, high ceilings — and the atmosphere is still that of a proper Lisbon café rather than a tourist trap, although it is emphatically both.

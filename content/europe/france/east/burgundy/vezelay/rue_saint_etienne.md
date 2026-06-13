@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.0
 ---
 
 Rue Saint-Étienne is the main cobbled street of Vézelay, climbing from the lower village gate up to the basilica at the top of the hill. It is essentially the whole of the old village: a single medieval street flanked by stone houses, a handful of art galleries, a few cafes, and the modest commerce that a place of this size can sustain.

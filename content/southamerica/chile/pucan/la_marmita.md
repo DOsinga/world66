@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -39.2745
 longitude: -71.9750
+score: 5.7
 ---
 
 La Marmita is one of Pucón's most reliable restaurants, known for its seasonal Chilean cooking using ingredients from local farms and the lake. The menu changes, but look for the cazuela — a slow-cooked stew of meat and vegetables that is the definitive Chilean comfort food — and the fresh lake trout when it is available. The room is warm and unpretentious, with wooden tables and a busy open kitchen.

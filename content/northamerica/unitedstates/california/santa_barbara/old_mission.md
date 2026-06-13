@@ -13,6 +13,7 @@ story: >
   continuous Franciscan stewardship since its founding. The 1925 Santa Barbara
   earthquake collapsed both towers; they were rebuilt within two years using
   the original 18th-century sandstone where possible.
+score: 9.1
 ---
 
 The Old Mission sits on a low rise about a mile and a half north of downtown, its pink sandstone facade and twin bell towers visible from much of the city. The current church is the fifth on the site, completed in 1820; the design is unusual among California missions for its symmetry and its explicit reference to a temple by the Roman architect Vitruvius — the priest in charge had a copy of Vitruvius's treatise and modelled the front directly on it.

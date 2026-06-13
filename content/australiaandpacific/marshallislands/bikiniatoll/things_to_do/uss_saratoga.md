@@ -3,6 +3,7 @@ title: "USS Saratoga"
 type: poi
 tags:
   - diving
+score: 9.6
 ---
 
 The USS Saratoga is the centrepiece of Bikini's dive programme and one of the most extraordinary wreck dives anywhere in the world. She was a Lexington-class aircraft carrier — 270 metres long, displacing 33,000 tonnes — and she survived the first Crossroads test (the aerial detonation) only to be sunk by the underwater Baker shot on 25 July 1946. She settled upright on the sandy lagoon floor at around 52 metres, with her flight deck at roughly 27 metres and her island superstructure accessible from about 22 metres. That combination of manageable depth and enormous scale makes her uniquely diveable among aircraft carriers anywhere on earth.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Smaller, less-visited monastery on the Tvrdoš road
+score: 6.9
 ---
 
 A smaller working monastery, on the same road as [Tvrdoš](/europe/bosniaandherzegovina/trebinje/tvrdos_monastery), but with a fraction of the visitors. The community dates from the 16th century; the church was rebuilt in the 19th, and the monastery served as the seat of the Bishop of Zahumlje-Herzegovina during the Ottoman period.

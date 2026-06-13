@@ -9,6 +9,7 @@ tags:
 - sights
 title: National Museum of Monaco
 type: poi
+score: 6.2
 ---
 
 Monaco's National Museum — formally the Musée des Automates et Poupées d'Autrefois — lives in a villa designed by Charles Garnier, the architect behind the Paris Opéra and the Monte Carlo Casino. Inside are thousands of antique dolls and wind-up automaton toys made in 19th-century Paris: monkeys that smoke, magicians whose heads disappear, circus performers.

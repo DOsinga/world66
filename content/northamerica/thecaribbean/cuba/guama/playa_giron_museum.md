@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 22.0639
 longitude: -81.0408
+score: 6.6
 ---
 
 The Museum of the Battle of Girón sits at the southern end of the Bay of Pigs road in the village of Playa Girón. It is a single squat building with a Sea Fury fighter and a Soviet T-34 tank parked outside, both used in the 1961 defence against the CIA-backed invasion.

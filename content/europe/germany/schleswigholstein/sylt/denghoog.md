@@ -14,6 +14,7 @@ story: >
   paved with flat stones, the chamber roofed with three vast capstones, and grave
   goods including flint axes, amber beads, and around 130 pottery vessels — most of
   it now in the Hamburg Archaeology Museum.
+score: 7.7
 ---
 
 The Denghoog is one of the largest and best preserved neolithic passage graves in northern Europe — a stone burial chamber built around 3,000 BC by the Funnelbeaker culture and then covered by an earth mound to form a low hill. The chamber inside is generous: three metres wide, five long, and 1.6 metres high, roofed with three enormous granite capstones that the builders dragged here from glacial deposits elsewhere on the island.

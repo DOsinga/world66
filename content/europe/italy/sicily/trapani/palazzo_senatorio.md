@@ -11,6 +11,7 @@ story: >
   The building served as the seat of the city's senate from the 17th century until Italian unification, and the two marble clocks on the upper facade — one showing the Roman time, one showing the French time (relating to the time systems used in different parts of the island) — are an unusual survival from that era. The building's official name is Palazzo Cavarretta, after the Cavarretta family who funded its construction.
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_Senatorio_(Trapani)
+score: 6.3
 ---
 
 The Palazzo Senatorio, also known as the Palazzo Cavarretta, stands at the centre of the old town at the intersection of the Corso Vittorio Emanuele and Via Garibaldi. It is Trapani's most photogenic secular building — a two-story baroque facade with curved central section, statuary, and a clock tower topped by a belfry. Built in the early 18th century, it served as the seat of the city senate and later as city hall.

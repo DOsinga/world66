@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Dante's
 type: poi
+score: 5.6
 ---
 
 On the second level of Penny Lane Mall in downtown Calgary, Dante's serves an eclectic menu of grilled chicken salads with honey-lime dressing, venison, seafood ragout, salmon fillet and tenderloin medallions. Desserts are house-made. Catering available.

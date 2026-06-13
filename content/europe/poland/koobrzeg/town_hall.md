@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: "Neo-Gothic town hall by Karl Friedrich Schinkel, completed in 1832"
+score: 7.2
 ---
 
 The Town Hall on Plac Ratuszowy is the most distinctive secular building in the old town: a long, low neo-Gothic block of red brick with corner towers, pointed-arch windows, and crow-stepped gables. It was designed by **Karl Friedrich Schinkel** — the great Prussian architect of the nineteenth century — and completed in 1832, replacing an earlier town hall destroyed in the Napoleonic siege of 1807.

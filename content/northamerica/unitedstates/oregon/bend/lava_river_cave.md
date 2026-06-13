@@ -15,6 +15,7 @@ story: >
   empty tunnel. Lanterns are available to rent at the entrance.
 sources:
   - https://en.wikipedia.org/wiki/Lava_River_Cave
+score: 7.7
 ---
 
 The Lava River Cave is the longest uncollapsed lava tube in Oregon — about a mile from entrance to the back wall. It sits within the Newberry National Volcanic Monument, about 12 miles south of Bend on Highway 97. The cave formed roughly 80,000 years ago when a lava flow cooled on the outside and drained from the inside, leaving a hollow tube through the basalt.

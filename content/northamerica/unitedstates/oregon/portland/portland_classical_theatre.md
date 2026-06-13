@@ -9,6 +9,7 @@ latitude: 45.5261
 longitude: -122.6862
 story: >
   Portland Center Stage performs at the Gerding Theater in the Armory — a conversion of the 1891 First Regiment Armory building in the Pearl District that received LEED Platinum certification for historic renovation, the first such building in the United States to do so. The Armory's brick exterior and the circular drill floor that forms the main stage space were preserved; the renovation added the technical systems, seating, and facilities of a modern theatre within the Victorian shell.
+score: 7.7
 ---
 
 Portland Center Stage is the largest theatre company in Oregon, performing at the Gerding Theater at the Armory in the Pearl District. The season typically includes six to eight productions mixing contemporary plays, American classics, and world premieres. The main stage seats about 600; the Ellyn Bye Studio is an intimate 200-seat experimental space in the same building.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Conundrum Hot Springs
 type: poi
+score: 8.2
 ---
 
 The hike from the Conundrum Creek trailhead south of Aspen to the hot springs is 14 km one way and climbs about 850 metres — a long day-hike or, more sensibly, an overnight backpack. The reward is a series of small natural pools at the head of the valley at 3,400 metres, fed by hot springs that maintain a temperature in the 35–39°C range year-round. The view out of the pools, north down the U-shaped glacial valley with peaks on three sides, is extraordinary.

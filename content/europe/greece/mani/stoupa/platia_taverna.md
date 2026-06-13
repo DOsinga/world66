@@ -6,6 +6,7 @@ longitude: 22.2643
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Platia Taverna is the village standby for honest Greek cooking — moussaka, souvlaki, grilled lamb, mezedes, a Greek salad served with proper feta. The atmosphere is more family-Greek than tourist-Greek, and the staff are likely to be the same people you saw delivering bread or running the laundry shop earlier in the day.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Vimean Sokha Museum
 type: poi
+score: 6.7
 ---
 
 **The Vimean Sokha Museum** is an eccentric and entirely personal collection: antique electronics, wind-up clocks, vintage cameras, early motorcycles and bicycles, old radios, and miscellaneous mechanical curiosities, all gathered over decades by a Cambodian collector and displayed in his family compound. The collection spans roughly 1920 to 1970 and reflects the particular history of Cambodia's relationship with foreign technology during the colonial and post-independence periods.

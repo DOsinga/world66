@@ -8,6 +8,7 @@ latitude: 49.4482
 longitude: -2.5312
 story: >
   The tunnels were built by forced labourers — Russian, Polish, and other prisoners of war and deportees brought to Guernsey by the Germans during the Occupation. The conditions were brutal and many died. When the German forces surrendered in May 1945, the tunnels were found to contain enormous quantities of fuel and military supplies, stored for the anticipated Allied invasion. The tunnels were never used for their intended purpose.
+score: 7.7
 ---
 
 La Valette Underground Military Museum occupies a complex of tunnels built by German forces during the Occupation of Guernsey (1940–1945). The tunnels were originally designed as fuel storage for U-boats, and the museum preserves both the tunnel structure and an extensive collection of German and British military artifacts from both World Wars.

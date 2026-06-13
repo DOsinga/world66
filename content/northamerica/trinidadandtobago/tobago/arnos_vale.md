@@ -9,6 +9,7 @@ tags:
 latitude: 11.2167
 longitude: -60.7500
 snippet: A cove beach with good birding, a ruined sugar mill, and calm water for swimming
+score: 6.4
 ---
 
 Arnos Vale is a small cove on the leeward (Caribbean) coast between Plymouth and Castara, notable for combining a decent beach with excellent birding. The ruined stonework of an old sugar estate overlooks the bay, and the wooded hillsides around the cove attract hummingbirds, mot-mots, and jacamars. A small hotel and restaurant operates at the property, serving food and cold drinks to day visitors.

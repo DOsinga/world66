@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.5498
 longitude: -79.6502
+score: 5.4
 ---
 
 Several small comedores (basic lunch counters) in Portobelo serve the same food locals eat every day: a plate of rice and beans, a piece of chicken or fried fish, and a pile of patacones. The meal costs almost nothing and is exactly as filling as it looks. These are not tourist restaurants — there is no menu in English, the tables are shared, and lunch service ends when the food runs out.

@@ -7,6 +7,7 @@ tags:
 latitude: 49.679313
 longitude: 6.443098
 story: "The Moselle here forms the actual border between Luxembourg and Germany: the Luxembourg bank is in the European Union's Schengen zone, and so is Germany, but the river itself still carries the old symbolic weight of frontier. Cyclists crossing by ferry at Wormeldange are technically entering a different country."
+score: 7.8
 ---
 
 The Moselle cycle path is the best way to experience the wine country around Grevenmacher. The route runs along the river for the entire length of Luxembourg's eastern border, and the stretch between Grevenmacher and Wormeldange is particularly rewarding: flat, well-surfaced, and flanked by continuous vineyards rising steeply on both banks. On a clear day, the reflections in the river and the orderly rows of vines give the landscape a quietly theatrical quality.

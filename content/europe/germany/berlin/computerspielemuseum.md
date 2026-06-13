@@ -9,6 +9,7 @@ tags:
 title: Computer Games Museum
 type: poi
 url: https://www.computerspielemuseum.de
+score: 7.4
 ---
 
 The Computer Games Museum on Karl-Marx-Allee opened in 2011 and claims — correctly — to be the world's first museum dedicated permanently to the history of video games. The collection spans the full arc from 1970s arcade cabinets and home consoles through to contemporary gaming, with around 300 exhibits and a significant proportion of them playable. The curation is unusually serious for its subject: the museum treats games as cultural objects and design artefacts, not just nostalgia triggers, and there is genuine historical depth in the way it traces the medium's development across different national industries.

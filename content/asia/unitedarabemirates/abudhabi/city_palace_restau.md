@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: City Palace Restaurant
 type: poi
+score: 4.8
 ---
 
 A large multi-floor restaurant on Khalifa Street serving Chinese cuisine alongside Indian, Filipino, and Arabic dishes. The party hall and karaoke rooms fill up on weekends with the city's international population. Inexpensive by Abu Dhabi standards.

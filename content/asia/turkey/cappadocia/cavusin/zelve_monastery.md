@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Zelve was inhabited by a mixed Christian and Muslim community until the population exchanges of 1923, and then by Muslim Turks until 1952, when rockfalls forced a final evacuation. It is the most recently abandoned of all the Cappadocian cave settlements."
+score: 8.8
 ---
 
 Zelve, a few kilometres northeast of Çavuşin, is one of the largest abandoned cave villages in Cappadocia. Three deep valleys with steep tuff walls are honeycombed with dwellings, churches, stables, and a mosque, used continuously from the early Christian period until 1952.

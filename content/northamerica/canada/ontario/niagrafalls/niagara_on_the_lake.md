@@ -15,6 +15,7 @@ story: >
   a military catastrophe 200 years ago.
 sources:
   - https://en.wikipedia.org/wiki/Niagara-on-the-Lake
+score: 7.1
 ---
 
 Niagara-on-the-Lake, 20 km north along the Niagara Parkway, is everything Niagara Falls the city is not: quiet, handsome, and thoroughly walkable, with tree-lined streets of Georgian houses, good restaurants, and an excellent collection of wineries on the surrounding escarpment. The Shaw Festival — one of Canada's major theatrical events, running April through October — performs in three theatres in the town each summer.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.3738
 longitude: -8.7615
+score: 7.0
 ---
 
 The Lapa Church, formally the Igreja Paroquial de Nossa Senhora da Lapa, sits on a low rise near the south end of the city and is one of the most distinctive small churches in the region. Originally an 18th-century maritime chapel, it was rebuilt in the 19th century with a tall facade and twin bell towers visible from the seafront.

@@ -13,6 +13,7 @@ story: >
   there — a fact that raises complex questions about the long-term purpose of the facility,
   which has evolved from rescue operation into what is effectively an elephant breeding
   programme.
+score: 6.2
 ---
 
 The Pinnawela Elephant Orphanage, about 40 km northwest of Kandy, houses a large herd of elephants including orphaned calves, injured adults, and a substantial population of captive-born animals. Twice daily the entire herd walks down to the Maha Oya river for a bath — a remarkable spectacle best seen from the riverbank restaurants that line the opposite shore.

@@ -8,6 +8,7 @@ latitude: 52.2448
 longitude: 0.7127
 sources:
   - https://en.wikipedia.org/wiki/The_Nutshell
+score: 6.2
 ---
 
 The Nutshell is a pub on The Traverse that spent many years claiming to be the smallest pub in Britain — a claim disputed by several rivals but still worth visiting to form your own opinion. The interior measures about 15 feet by 7 feet. This sounds oppressive until you realise that most of your fellow drinkers will be outside on the pavement anyway, Greene King pints in hand.

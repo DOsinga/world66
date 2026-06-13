@@ -7,6 +7,7 @@ tags:
 - shopping
 latitude: 44.3990
 longitude: 0.5910
+score: 6.6
 ---
 
 Friday morning brings the town to life. Stalls fill the central square and the streets around it with the standard southwestern repertoire — duck breast, foie gras, Agen prunes, walnuts, goat's cheese, river fish, vegetables straight from the orchards. The pace is leisurely and the atmosphere unmistakably provincial.

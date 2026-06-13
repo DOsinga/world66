@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.8880
 longitude: 70.4014
+score: 6.8
 ---
 
 Bhalka Tirtha, a short walk from the main Somnath Temple, marks the spot where, according to the Mahabharata, a hunter named Jara mistook Krishna's foot for a deer and shot him with an arrow. Krishna, recognising this as the moment of his departure from the mortal world, blessed the hunter and passed away. The site is sacred to Vaishnavas and attracts pilgrims who come specifically to venerate this episode.

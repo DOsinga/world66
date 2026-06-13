@@ -8,6 +8,7 @@ tags:
 title: Wat Si Saket
 type: poi
 story: "When the Siamese army sacked Vientiane in 1828, they spared Wat Si Saket because it had been built in the Siamese style. Every other major temple was burnt to the ground."
+score: 8.8
 ---
 
 Built in 1818 by King Anouvong, Wat Si Saket is the oldest temple still standing in Vientiane and the only major one to survive the Siamese destruction of the city in 1828. The cloister walls hold more than 2,000 silver and ceramic Buddha images, set into small niches and stacked in rows on long benches.

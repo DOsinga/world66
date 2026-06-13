@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -31.3800
 longitude: -57.9640
+score: 7.4
 ---
 
 The Costanera is Salto's waterfront promenade, running along the Uruguay River through the northern and southern parts of the city. The northern section is the more active, with joggers, cyclists and families in the evenings, views across the wide river to Argentina's Entre Ríos province, and a handful of bars and snack stalls. The river here is wide enough that the far bank sometimes disappears in river haze.

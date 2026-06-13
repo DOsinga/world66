@@ -6,6 +6,7 @@ longitude: 119.2712
 tags:
   - things_to_do
   - sight
+score: 8.9
 ---
 
 Xichan Temple (Western Zen Temple) sits on the slopes of Mount Yi in Gulou District, close to the city centre. Founded in the Tang dynasty, it is one of the oldest Buddhist temples in Fuzhou. The grounds are quiet and spacious, with a pleasant mix of old and restored halls arranged around a courtyard with a large banyan tree.

@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 40.1373
 longitude: 94.6663
+score: 6.7
 ---
 
 A few hundred metres of covered pedestrian street east of Reservation Square that comes alive every evening from about seven and stays open past midnight in summer. The food half — the larger half — is a row of open-air kitchens grilling lamb skewers, frying noodles, and steaming dumplings; pull up a plastic stool, point at what looks good on the neighbouring table, and order a bottle of cold local beer.

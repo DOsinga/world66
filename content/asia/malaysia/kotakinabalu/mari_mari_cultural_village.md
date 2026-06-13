@@ -6,6 +6,7 @@ longitude: 116.1300
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 About 35 kilometres northeast of the city, the Mari Mari Cultural Village recreates the traditional longhouses and daily life of Sabah's five main indigenous groups: the Kadazan-Dusun, Bajau, Murut, Lundayeh, and Rungus. Guided tours last about two hours and move through each community's dwelling, with demonstrations of food preparation, traditional blowpipe use, fire-starting, rice wine brewing, and dance.

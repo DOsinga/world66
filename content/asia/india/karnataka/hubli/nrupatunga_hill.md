@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 15.3580
 longitude: 75.1350
+score: 6.2
 ---
 
 The modest hill that rises above the city's southern districts offers the best elevated view over Hubli and, on a clear day, the distant outline of Dharwad. The climb is short and the path is well-used by morning walkers from the surrounding neighbourhoods.

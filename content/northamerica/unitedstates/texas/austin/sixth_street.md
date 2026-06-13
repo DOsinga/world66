@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2671
 longitude: -97.7415
+score: 6.8
 ---
 
 The six blocks of East 6th Street between Congress Avenue and Interstate 35 have been Austin's main nightlife strip since the 1970s, and they remain the most concentrated stretch of live music venues in the city. On weekend nights the street is closed to traffic and becomes a walking circuit of bars with bands playing simultaneously — rock, country, blues, R&B, and everything in between, often with no cover charge.

@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Moon River Brewing Company
 type: poi
+score: 6.5
 ---
 
 Moon River Brewing occupies the old City Hotel building on Bay Street, one of the oldest surviving hotel structures in the country (built 1821). The brewery produces its own ales and lagers on site — the Indian Pale Ale and the seasonal ales are the most reliable. The food menu leans toward pub fare: burgers, sandwiches, and a few Southern-inflected dishes.

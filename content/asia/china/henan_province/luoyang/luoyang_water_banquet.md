@@ -16,6 +16,7 @@ tags:
   - luoyang_old_town
 title: Luoyang Water Banquet
 type: poi
+score: 7.8
 ---
 
 The Luoyang water banquet (水席) is the city's defining culinary experience and one of the oldest surviving formal meal formats in Chinese cuisine. Every dish involves liquid — soups, braised dishes with generous sauce, poached vegetables — giving the meal its name and its distinctive character. A full banquet runs to twenty-four courses and takes two to three hours to eat.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Where to Try Koofteh Tabrizi
 type: poi
+score: 6.0
 ---
 
 Koofteh Tabrizi is the dish you cannot leave Tabriz without trying: a single grapefruit-

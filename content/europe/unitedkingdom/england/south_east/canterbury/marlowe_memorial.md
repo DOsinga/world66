@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.28066
 longitude: 1.07815
+score: 5.7
 ---
 
 Christopher Marlowe — Canterbury's most famous literary son, a contemporary of Shakespeare, and the author of *Doctor Faustus* — is commemorated by an oddly delicate bronze statue of the Muse of Poetry outside the theatre that bears his name. The figure was unveiled in 1891 and originally stood on the Buttermarket near the cathedral; she was moved to her current spot in front of the Marlowe Theatre in the 1990s.

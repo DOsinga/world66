@@ -9,6 +9,7 @@ tags:
 - sight
 title: Torre dei Lamberti
 type: poi
+score: 7.7
 ---
 
 At 84 metres, the tallest tower in Verona, built from 1172 onwards by the Lamberti family as a statement of mercantile power. The tower rises from the Palazzo della Ragione on Piazza dei Signori. A lift (and 368 steps) leads to the top, where the view takes in the rooftops of the old city, the Arena, the Adige, and on clear days the Alps to the north. The tower's two bells — the Marangona (14th century) and the Rengo (15th century) — still ring on the hour.

@@ -9,6 +9,7 @@ neighbourhood: Ironbound
 snippet: The main Ironbound restaurant strip — Portuguese and Brazilian grilled meat and seafood
 latitude: 40.7295
 longitude: -74.1601
+score: 8.1
 ---
 
 Ferry Street is the gastronomic spine of the Ironbound: eight or ten blocks of Portuguese and Brazilian restaurants, bakeries, meat shops, and fish markets that collectively make up one of the most concentrated dining destinations in the New York metropolitan area. Restaurants like Iberia, Fornos of Spain, and Adega Grill are Ironbound institutions; newer Brazilian churrascarias have added to the selection.

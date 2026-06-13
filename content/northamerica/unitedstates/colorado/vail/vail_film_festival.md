@@ -8,6 +8,7 @@ latitude: 39.6426
 longitude: -106.3921
 sources:
   - https://en.wikipedia.org/wiki/Vail_Film_Festival
+score: 5.9
 ---
 
 The Vail Film Festival, held each spring since 2004, is one of the more agreeable film festivals on the American calendar — partly because its setting is an attractive mountain resort town and partly because it focuses on independent film without the industry frenzy of Sundance or Toronto. The festival runs for several days in late March or early April, screening feature films, shorts, and documentaries in venues around Vail Village.

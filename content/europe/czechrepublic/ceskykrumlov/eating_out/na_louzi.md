@@ -7,6 +7,7 @@ tags:
 latitude: 48.8108
 longitude: 14.3155
 address: "Kájovská 66, Český Krumlov"
+score: 6.5
 ---
 
 Na Louži is the kind of Czech pub-restaurant that visitors spend their whole trip hoping to find: a low-ceilinged, dark-wood interior, long communal tables, beer served without asking, and a menu of solid traditional food at prices that feel almost implausibly reasonable given the setting. It has been feeding locals and travellers for generations.

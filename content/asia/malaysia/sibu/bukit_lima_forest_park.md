@@ -10,6 +10,7 @@ latitude: 2.283183
 longitude: 111.866625
 sources:
   - https://www.visitsibu.com/bukit-lima-forest-park/
+score: 6.4
 ---
 
 Bukit Lima Forest Park is Sibu's easiest patch of urban forest, a boardwalk-and-trail escape from traffic and concrete. It protects peat-swamp forest on the edge of town, with birds, insects, and the damp green stillness that makes Borneo feel close even in an ordinary city.

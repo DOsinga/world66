@@ -10,6 +10,7 @@ longitude: -0.1085
 story: "Bujaruelo has long been a passage toward the high frontier with France. The valley feels quieter than Ordesa, but its tracks and bridges belong to the same old mountain logic of movement, pasture, and border crossings."
 sources:
   - https://www.turismo-ordesa.com/
+score: 8.2
 ---
 
 The Bujaruelo valley is Torla's wilder-feeling alternative to the main Ordesa route. It has river walks, mountain tracks, and a less managed atmosphere, especially once you get beyond the first busy stretches.

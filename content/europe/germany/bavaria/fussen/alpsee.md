@@ -6,6 +6,7 @@ longitude: 10.7236
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A small, jewel-clear glacial lake at the foot of the Schwangau castles, ringed by wooded slopes and easily walked around in an hour. It is the lake Ludwig II would have looked out on from his Hohenschwangau windows as a boy, and remains one of the prettiest short walks in the area.

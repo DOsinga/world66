@@ -8,6 +8,7 @@ tags:
 latitude: 20.7833
 longitude: 107.1167
 story: "Lan Ha Bay is geologically identical to Ha Long — the same drowned karst landscape, the same limestone towers rising from emerald water — but it falls outside the UNESCO heritage boundary and was historically administered separately. The accidental result is that Lan Ha receives a fraction of the cruise traffic. Boats based in Cat Ba can spend the day weaving among 400 islets and several small beaches where you may not see another vessel for hours."
+score: 8.7
 ---
 
 The southern extension of Ha Long Bay, separated from the main heritage zone by Cat Ba Island. Lan Ha contains around 400 islands across roughly 70 square kilometres of sheltered water, with the same dramatic karst formations as Ha Long but a fraction of the tourist boats.

@@ -9,6 +9,7 @@ latitude: 23.534
 longitude: 87.321
 snippet: Durgapur's sprawling old market district with food, goods, and local character
 story: "Benachity was the first neighbourhood to develop when the Durgapur Steel Plant brought workers in from across India in the 1950s. The bazaar that grew up around it became the city's commercial heart before the malls arrived — and in terms of atmosphere and food, it still is."
+score: 6.8
 ---
 
 Benachity Bazaar is Durgapur's old market district, a 2–3 km strip of shops, stalls, and restaurants that predates the steel city's planned residential townships. It has the organic density and bustle that the malls have tried and failed to replicate. The range of goods is impressive: textiles, electronics, fresh produce, household items, and several strong food options.

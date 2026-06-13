@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fort_Louis_(La_Rochelle)
 story: >
   Cardinal Richelieu had Fort Louis built in 1625 specifically to blockade La Rochelle, the most powerful Huguenot stronghold in France. When the city finally surrendered in 1628 after a 14-month siege in which over 20,000 civilians starved to death, Louis XIII entered through the town's gates to accept its submission. The fort made the city's resistance impossible: it controlled the road from Paris and prevented any relief reaching the defenders.
+score: 6.8
 ---
 
 Fort Louis sits on a low promontory west of the town centre, built by Cardinal Richelieu in 1625 as the siege fortification from which the royal forces ultimately strangled La Rochelle into submission. The fort preceded the great 1627–28 siege — Richelieu first established military control of the landward approaches, then built the famous dyke across the harbour mouth to cut off the fleet of English ships that came to resupply the defenders.

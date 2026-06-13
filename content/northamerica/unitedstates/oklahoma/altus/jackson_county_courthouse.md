@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Jackson County Courthouse
 type: poi
+score: 6.2
 ---
 
 The Jackson County Courthouse stands on the central block of downtown Altus, at Main Street and Broadway. Completed in 1939 with Public Works Administration funds during the New Deal, it is one of the better small-town courthouses in southwestern Oklahoma — a stone-clad three-storey building with modest Art Deco styling, a clock tower, and a square plaza out front that hosts the county's main civic events.

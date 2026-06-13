@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - beach
 - sight
+score: 8.5
 ---
 
 The defining feature of the town. A five-kilometre stretch of broad sandy beach, backed by dunes and forested hills, with the Outeniqua Mountains rising in the distance. The beach faces the open Indian Ocean; the surf is wild on southwesterly swells, and powerful rip currents make ocean swimming risky except at the few patrolled stretches in high season.

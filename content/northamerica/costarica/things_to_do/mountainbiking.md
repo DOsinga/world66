@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Mountain biking
 type: poi
+score: 6.9
 ---
 
 Costa Rica's volcanic terrain and dense trail networks make it genuinely good mountain biking country. The area around Tilarán and the shores of Lake Arenal is the best-established riding region, with routes ranging from mellow lakeside tracks to steep singletrack through cloud forest. Rides here can run from a couple of hours to a full day.

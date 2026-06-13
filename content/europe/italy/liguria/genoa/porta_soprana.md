@@ -8,6 +8,7 @@ tags:
 - architecture
 type: poi
 snippet: Twin-towered medieval gate, gateway to the old city and near Columbus's boyhood home
+score: 8.1
 ---
 
 The most impressive surviving gate of Genoa's medieval walls, Porta Soprana dates from 1155 and anchors the southern edge of the old city. The two semicircular towers and the arch between them are in remarkably good condition for a structure nearly 900 years old. In the mid-19th century, the urban fabric around it was cleared to create a small park, giving you the rare chance to see a medieval gate properly, free-standing in space rather than embedded in later buildings.

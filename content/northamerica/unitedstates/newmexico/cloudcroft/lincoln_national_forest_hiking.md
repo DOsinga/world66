@@ -12,6 +12,7 @@ story: >
   Checkerspot butterfly, found nowhere else on earth. The checkerspot depends on a
   single host plant, the New Mexico penstemon, and has declined sharply as the forest
   has changed. Hikers in June and July may spot them along the Rim Trail.
+score: 8.4
 ---
 
 The Lincoln National Forest surrounds Cloudcroft with dense stands of ponderosa pine, Douglas fir, and Engelmann spruce. Several trailheads are accessible from the village or within a short drive. The Osha Trail is a moderate 3.2-mile loop through mixed forest with views down toward the White Sands basin far below. The Rim Trail, which runs along the edge of the mountain escarpment, offers the most dramatic views — on clear days you can see the white gypsum expanse of White Sands National Park glowing on the valley floor.

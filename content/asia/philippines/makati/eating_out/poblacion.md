@@ -1,6 +1,7 @@
 ---
 title: "Poblacion"
 type: poi
+score: 8.0
 ---
 
 Poblacion is Makati's old town district and the most interesting neighbourhood in the city for eating and drinking on a budget. What was a slightly rough residential area a decade ago has been colonised by small restaurants, coffee shops, and cocktail bars operating out of converted houses along narrow one-way streets. The density of options is remarkable: Filipino comfort food, Japanese ramen, Korean barbecue, Vietnamese pho, Mexican tacos, and Filipino-inflected fusion cooking all within a few blocks of each other.

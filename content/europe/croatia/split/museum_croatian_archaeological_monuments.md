@@ -12,6 +12,7 @@ story: >
   collection of early medieval Croatian stonework in existence. The 11th-century stone
   altar screens, with their distinctive interlace patterns, represent a carving tradition
   that was entirely local and had no parallel elsewhere in Europe at the time.
+score: 7.2
 ---
 
 The Museum of Croatian Archaeological Monuments is the only museum in Croatia entirely dedicated to the material culture of the early medieval Croatian state — the period from the arrival of the Croats in the 7th century to the formation of the Croatian-Hungarian kingdom in the 12th century. The collection includes jewellery, weapons, decorated stonework, and church furnishings from the formative era of Croatian identity.

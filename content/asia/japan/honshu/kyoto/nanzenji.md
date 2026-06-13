@@ -8,6 +8,7 @@ tags:
 - sight
 title: Nanzen-ji
 type: poi
+score: 9.1
 ---
 
 Nanzen-ji is the highest-ranked Rinzai Zen temple in Japan, founded in 1291 on the grounds of an earlier imperial retirement villa at the foot of the Higashiyama hills. The complex is unusually large for a city-centre temple, spreading across a wooded grove that climbs east toward the Philosopher's Path. The huge two-storey *sanmon* gate at the entrance is one of Japan's three great Zen gates; climb up for a view back over the rooftops of central Kyoto.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 8.8
 ---
 
 The Yellow Bastion (Žuta Tabija) is the best-preserved remnant of the Ottoman fortifications that once enclosed Sarajevo, a squat yellow-ochre tower on a hill above Baščaršija. It is reached by a short climb through the Vratnik neighbourhood — a steep residential district of old wooden houses and narrow lanes that is itself worth exploring.

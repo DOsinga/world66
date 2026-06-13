@@ -9,6 +9,7 @@ tags:
 title: Four Seasons Centre for the Performing Arts
 type: poi
 url: https://www.coc.ca
+score: 8.1
 ---
 
 The Four Seasons Centre for the Performing Arts is Canada's first purpose-built opera house, opened in 2006 after decades of lobbying and planning. Home to the Canadian Opera Company (COC) and the National Ballet of Canada, it was designed by Toronto architect Jack Diamond and immediately praised for its acoustics — the horseshoe-shaped main hall seats 2,071 people with clear sightlines from every seat.

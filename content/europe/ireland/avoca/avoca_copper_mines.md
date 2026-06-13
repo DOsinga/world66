@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.845
 longitude: -6.205
+score: 7.5
 ---
 
 The Avoca copper mines were once the largest working copper mines in Europe, and the distinctive orange and ochre staining of the rocks along the Avoca River bears witness to three thousand years of extraction that continued until 1958. The mining landscape — spoil heaps, flooded workings, and collapsed tunnels — is now a protected geological site of unusual ecological interest: the acid soils around the old workings support plant communities found nowhere else in Ireland.

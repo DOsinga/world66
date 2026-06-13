@@ -10,6 +10,7 @@ tags:
 latitude: 17.0414
 longitude: 81.2456
 story: The presiding deity at Dwaraka Tirumala is a swayambhu (self-manifested) idol of Venkateswara, visible only from the chest upwards. The temple is one of two important Venkateswara shrines in this part of Andhra; pilgrims often refer to it as "Chinna Tirupati" — Little Tirupati — and pair it with a pilgrimage to the better-known temple in Chittoor district.
+score: 7.8
 ---
 
 Dwaraka Tirumala, about 40 km northeast of Eluru, is one of the most important Vaishnavite pilgrimage sites in Andhra Pradesh. The Sri Venkateswara temple stands on a small hill at the end of a long climb of steps, drawing tens of thousands of pilgrims a week, particularly at weekends and during the Brahmotsavam festival in spring.

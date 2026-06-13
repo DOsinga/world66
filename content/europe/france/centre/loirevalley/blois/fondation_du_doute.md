@@ -8,6 +8,7 @@ tags:
 latitude: 47.5867
 longitude: 1.3315
 snippet: "Fluxus art collection, mostly drawn from Ben Vautier and friends"
+score: 6.8
 ---
 
 The Fondation du Doute is a small, deliberately weird museum dedicated to the Fluxus art movement of the 1960s and 70s, opened in 2013 in a converted couvent next to the château. The core of the collection comes from Ben Vautier — the French artist known for his hand-painted "Ben dit la vérité" signs — and includes work by Yoko Ono, John Cage, George Brecht, and other Fluxus figures.

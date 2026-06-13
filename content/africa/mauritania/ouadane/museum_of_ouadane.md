@@ -8,6 +8,7 @@ latitude: 20.9167
 longitude: -11.6167
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Ouadane
+score: 7.1
 ---
 
 The small municipal museum holds artefacts from the town's caravan-era past: pottery, tools, jewellery, and items from the trans-Saharan trade. It is modest by any international standard but provides useful context for the ruins on the cliff above, and the staff are often happy to talk about local history if you have the time.

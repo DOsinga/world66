@@ -7,6 +7,7 @@ tags:
   - market
 title: Mercado Municipal de Cumaná
 type: poi
+score: 7.9
 ---
 
 The municipal market near the riverfront is the place to feel the pulse of working Cumaná. Fishermen arrive in the early morning with the night's catch — grouper, snapper, king mackerel, and the small sardines that fill out countless local dishes — and the rows of stalls cover everything from tropical fruit to plantain dough and arepa fillings.

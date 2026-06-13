@@ -7,6 +7,7 @@ tags:
 snippet: "British memorial to the missing of the Battle of the Yser"
 latitude: 51.1371
 longitude: 2.7556
+score: 7.1
 ---
 
 A short walk from the King Albert I monument, the British Nieuport Memorial is a circular open enclosure of white stone designed by William Bryce Binnie and unveiled in 1928. It records the names of 547 British officers and men killed in the Nieuwpoort sector of the Western Front who have no known grave.

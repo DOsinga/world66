@@ -1,16 +1,13 @@
 ---
-title: Salamanca
-type: neighbourhood
 latitude: 40.4271
 longitude: -3.6839
+score: 6.6
 tags:
 - things_to_do
 - neighbourhood
 - retiro_barrio
-image: salamanca.jpg
-image_source: https://commons.wikimedia.org/wiki/File:A_brick_building_at_Barrio_de_Salamanca_Madrid,_Spain.JPG
-image_license: CC BY-SA 4.0
-image_attribution: David Adam Kess
+title: Salamanca
+type: neighbourhood
 ---
 
 The grand bourgeois quarter east of the Castellana, laid out on a strict grid in the 1860s by the Marquis of Salamanca and now Madrid's most expensive postcode. The architecture is uniformly 19th-century mansion-blocks, the streets are wide and tree-lined, and the boutiques on **Calle Serrano** and **Calle Ortega y Gasset** are where Madrid's old money does its luxury shopping.

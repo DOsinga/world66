@@ -11,6 +11,7 @@ story: >
   hanged here by the Ottoman authorities in 1916. It has been pockmarked by
   bullets from every Lebanese conflict since, and the holes have deliberately
   been left unrepaired.
+score: 7.1
 ---
 
 The old centre of Beirut converges on Martyrs' Square, a broad open space between downtown, the port and the eastern neighbourhoods. Once the lively heart of the city, it was completely destroyed in the civil war and remains an awkward patchwork of reconstruction, gravel lots and unfinished projects.

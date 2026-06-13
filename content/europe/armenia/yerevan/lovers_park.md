@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: Baghramyan Avenue
+score: 7.1
 ---
 
 A small landscaped park beside Baghramyan Avenue, redesigned in 2008 by a Belgian architect into a contemporary garden of curved stone paths, water channels, granite-edged ponds, and quiet sitting areas. It is genuinely lovely — a piece of considered modern landscape design in a city that does not have much of it.

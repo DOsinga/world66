@@ -9,6 +9,7 @@ latitude: 36.035
 longitude: 103.8217
 story: >
   The "Five Springs" name comes from a legend about the Tang Dynasty general Huo Qubing, who struck the mountain with his whip and caused five springs to burst forth for his thirsty soldiers. Whether or not the springs have anything to do with Huo Qubing, they have been flowing for at least a thousand years, and the site has accumulated temples, pagodas, and pavilions in stages across successive dynasties.
+score: 8.3
 ---
 
 Wuquan Mountain — Five Springs Mountain — rises steeply from the southern edge of Lanzhou's city center and has been a park and temple complex since the Han Dynasty. The five springs that give the mountain its name still flow, emerging from the rock face in different parts of the hillside. A network of stone paths winds upward through a maze of pavilions, halls, and temples, most rebuilt during the Ming and Qing dynasties.

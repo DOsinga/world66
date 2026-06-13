@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - niemeyer
+score: 7.2
 ---
 
 The Museu Nacional Honestino Guimarães is a windowless white concrete dome 50 metres in diameter, half-buried in the Esplanada dos Ministérios. Designed by Niemeyer late in his career (it opened in 2006), it pairs visually with the [National Library](/southamerica/brazil/brasilia/national_library) directly opposite — a long horizontal box facing a sphere.

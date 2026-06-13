@@ -8,6 +8,7 @@ tags:
 latitude: 12.1581
 longitude: -68.3108
 snippet: "Uninhabited islet 800 m offshore — best beaches, best snorkelling"
+score: 8.1
 ---
 
 Klein Bonaire is the uninhabited islet that lies a kilometre off the Kralendijk waterfront. It is flat, covered in scrub and cactus, ringed by white sand beaches and a coral wall — and entirely empty. Boats leave from town all morning, dropping snorkellers and beach-goers at **No Name Beach** for the day and returning in the afternoon.

@@ -6,6 +6,7 @@ longitude: -66.15085
 tags:
   - things_to_do
   - sport
+score: 5.3
 ---
 
 The Juan Ramón Loubriel Stadium is a small soccer-specific ground in central Bayamón. It has been home to several Puerto Rican Football League clubs over the years and is the closest thing to a dedicated football venue on the island. Capacity is modest — around 12,500 — and the atmosphere on match days is friendly and family-oriented.

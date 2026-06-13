@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.4100
 longitude: 121.6800
+score: 6.8
 ---
 
 Yangma Island is a small island about 20 kilometers east of central Yantai, connected to the mainland by a causeway and developed as a beach resort area. The island has a milder microclimate than the mainland coast — cooler in summer, frost-free longer in winter — and the beaches here are among the better ones in the Yantai area.

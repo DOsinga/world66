@@ -9,6 +9,7 @@ tags:
   - architecture
   - basseterre
 neighbourhood: Basseterre
+score: 6.7
 ---
 
 The grandest church in Basseterre, a tall stone Roman Catholic co-cathedral overlooking the eastern side of Independence Square. The present building dates from 1928, replacing an earlier 19th-century church destroyed by hurricane; its twin towers and a high vaulted nave dominate this corner of the old town.

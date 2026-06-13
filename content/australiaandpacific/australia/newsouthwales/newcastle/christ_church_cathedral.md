@@ -12,6 +12,7 @@ story: >
   for the colony's earliest buildings in the 1810s. The foundation stone for the current building was
   laid in 1892, but construction dragged on for over a century — the western towers were only completed
   in 2008, making this one of the last Anglican cathedrals in Australia to be finished.
+score: 7.8
 ---
 
 Christ Church Cathedral occupies the commanding hilltop position at the intersection of Church and King Streets, overlooking the city towards the harbour. The current Victorian Gothic building, designed by John Horbury Hunt, replaced an earlier sandstone church and was constructed in stages over more than a hundred years. The result is a building of considerable presence, its stone tower visible from much of the central city.

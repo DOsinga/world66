@@ -6,6 +6,7 @@ longitude: -105.0368
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Big Dry Creek Trail is Westminster's main multi-use trail, running along the creek corridor for roughly 10 miles through the city and connecting into the broader regional trail network. It is paved, well-maintained, and wide enough to handle the mix of cyclists, joggers, and dog-walkers that use it throughout the week. The trail passes through riparian habitat that delivers a surprising amount of wildlife watching given how thoroughly suburban the surroundings are — great blue herons, red foxes, and deer are regularly spotted along the creek corridor.

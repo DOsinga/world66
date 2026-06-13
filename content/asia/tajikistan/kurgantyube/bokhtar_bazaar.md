@@ -7,6 +7,7 @@ tags:
   - market
 title: Bokhtar Bazaar
 type: poi
+score: 6.0
 ---
 
 The central bazaar in Bokhtar is a working market serving the agricultural district rather than tourists. The surrounding area is intensively farmed — cotton, fruits, vegetables, and livestock — and the bazaar reflects this. Look for dried apricots, pomegranates, nuts, and the distinctive cottonwool quilts made in the region.

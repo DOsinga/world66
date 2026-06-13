@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 68.1529
 longitude: 14.2007
+score: 8.8
 ---
 
 Henningsvær has become one of the premier rock climbing destinations in northern Europe, with routes on the surrounding granite walls that range from beginner-friendly slabs to serious multi-pitch climbs. The rock quality is excellent, the scenery is extraordinary, and the combination of sea air and mountain exposure is something climbers seek out specifically.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Batumi Synagogue
 type: poi
+score: 6.8
 ---
 
 Batumi's synagogue, also known as the Stone Ashkenazi Synagogue, was built in 1904 by the city's then-considerable Jewish community of merchants, shipping agents, and oil traders. The architect was Semyon Vlangali, and the building's design borrows openly from the Great Synagogue in Den Haag, which Vlangali had seen and admired — the result is an unusually elegant facade of pale stone with three rounded windows above the main entrance.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.1317
 longitude: 4.5665
+score: 6.2
 ---
 
 This museum is dedicated to Felix Timmermans, the Lier-born writer whose novel "Pallieter" (1916) became one of the most-loved works in Dutch-language literature — a lyrical, life-affirming story of a free spirit living close to nature in the Flemish countryside around Lier. The house is a beautifully preserved bourgeois interior from the early 20th century, filled with personal objects, manuscripts, sketches, and the furniture Timmermans actually used.

@@ -8,6 +8,7 @@ tags:
 latitude: 40.1564
 longitude: -76.3006
 story: "Julius Sturgis claimed to have learned pretzel twisting from a hobo who exchanged the recipe for a meal in his father's bakery. He opened the commercial bakery in 1861, making it the first in America — the company still uses the original stone hearth ovens, although production for sale moved out long ago."
+score: 8.2
 ---
 
 Sturgis is the oldest commercial pretzel bakery in the United States, founded in 1861 in a stone-faced house on East Main Street. The bakery still gives short hands-on tours: you twist your own dough into a pretzel under the eye of a guide, listen to a short history of the operation, and visit the old stone-arch oven that produced the original pretzels.

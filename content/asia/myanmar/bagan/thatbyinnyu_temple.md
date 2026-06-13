@@ -13,6 +13,7 @@ tags:
   - landmark
 title: Thatbyinnyu Temple
 type: poi
+score: 8.3
 ---
 
 The tallest temple in Bagan rises 61 metres above the dusty plain — a two-storey cube stacked on a cube, built by King Alaungsithu in the mid-12th century. The name means "omniscient" or "all-knowing" in Burmese, and from the upper terraces the view lives up to the ambition: hundreds of temples spreading out in every direction toward the Ayeyarwady River.

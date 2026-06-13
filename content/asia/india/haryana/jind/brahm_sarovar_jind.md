@@ -13,6 +13,7 @@ story: >
   battle here. Whether or not the Mahabharata geography is accurate, the association gives
   Jind a mythological weight that shapes how residents relate to their unremarkable-looking
   town.
+score: 6.3
 ---
 
 Jind has several ancient ponds and tanks associated with Mahabharata traditions, of which the Brahm Kund is among the oldest. The kund (tank) is used for ritual bathing and is ringed by small temples. The setting is typical of Haryana's religious geography — modest in appearance, significant in local belief.

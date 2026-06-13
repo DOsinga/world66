@@ -14,6 +14,7 @@ story: >
   assertions of a Native American woman's agency in U.S. exploratory history.
 sources:
   - https://en.wikipedia.org/wiki/Ecola_State_Park
+score: 9.0
 ---
 
 Ecola State Park, just north of Cannon Beach, is among the most dramatically beautiful state parks on the entire Pacific coast. The park occupies a series of forested headlands above the ocean, with clifftop trails that give sweeping views of the coast: Haystack Rock to the south, the sea stacks at Indian Beach, and — on clear days — the lighthouse on Tillamook Head. The old-growth Sitka spruce forest that covers the headland adds a primeval quality to the scenery.

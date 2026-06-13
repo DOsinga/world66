@@ -10,6 +10,7 @@ longitude: 77.6968
 snippet: Ladakh's largest and wealthiest monastery, famous for its masked dance festival
 story: >
   The Hemis thangka — a silk tapestry depicting Padmasambhava — is so large that it can only be displayed once every twelve years during the grand festival. The last full unveiling drew tens of thousands of pilgrims from across the Himalayan Buddhist world.
+score: 8.8
 ---
 
 Hemis Monastery, 45 kilometres southeast of Leh, is the largest and wealthiest gompa in Ladakh. Re-established in 1672 by the Ladakhi king Sengge Namgyal under the Drukpa Lineage, it sits hidden in a side valley off the Leh-Manali Highway. The location — tucked against a cliff face, invisible until you round the last bend — adds to its atmosphere. The monastery houses exceptional collections of thangka paintings, gold statues, and ancient manuscripts.

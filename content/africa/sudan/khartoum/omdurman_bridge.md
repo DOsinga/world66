@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Omdurman Bridge
 type: poi
+score: 6.5
 ---
 
 The Omdurman Bridge, also called the White Nile Bridge, opened in 1928 to link the colonial-era city of Khartoum with the older Mahdist capital across the river. For most of the 20th century it was the only bridge across the White Nile in the area, carrying the entire traffic of the two cities and the railway to the west.

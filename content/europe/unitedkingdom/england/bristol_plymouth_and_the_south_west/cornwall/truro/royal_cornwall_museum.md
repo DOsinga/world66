@@ -8,6 +8,7 @@ latitude: 50.2637
 longitude: -5.0548
 story: >
   The museum's collection includes the largest collection of Cornish minerals in the world — a remarkable legacy of the county's tin and copper mining heritage. Cornwall was once the world's leading producer of both metals, and the mineral specimens gathered during that era fill room after room: tourmalines, chlorites, cassiterites, and extraordinary specimens of native copper. The collection was assembled by the Royal Institution of Cornwall, founded in 1818, making it one of the oldest learned societies in the country.
+score: 8.3
 ---
 
 The Royal Cornwall Museum on River Street is the county's main museum and, by some distance, the best. It covers Cornish natural history, archaeology, and art across a handsome early 19th-century building with surprisingly good depth of content.

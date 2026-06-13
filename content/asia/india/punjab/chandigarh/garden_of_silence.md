@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 6.3
 ---
 
 The Garden of Silence sits at the eastern end of Sukhna Lake, away from the busy promenade and the boating jetty. It was conceived as a meditation space — no music, no hawkers, no children's rides, just rocks, water and shade trees. In a city as planned and on-message as Chandigarh, this is the only park designed for deliberate quiet.

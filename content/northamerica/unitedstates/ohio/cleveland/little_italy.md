@@ -7,6 +7,7 @@ snippet: A compact Italian neighbourhood on the eastern edge of University Circl
 tags:
   - things_to_do
   - neighbourhood
+score: 8.2
 ---
 
 Cleveland's Little Italy is unusual in being still recognisably Italian. The neighbourhood took shape in the 1880s when stonemasons from southern Italy were brought in to work on Lake View Cemetery; by the 1920s it was the densest Italian American community in Ohio, and although demographics have shifted the church (Holy Rosary, 1892), the bakeries, the cafés, and the family-run trattorias have stayed.

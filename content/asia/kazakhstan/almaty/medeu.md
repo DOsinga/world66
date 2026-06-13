@@ -9,6 +9,7 @@ tags:
   - sport
 story: >
   More than 180 world records in speed skating were set at Medeu during the Soviet era, more than at any other rink in the world. The altitude — 1,691 metres above sea level — means thinner air, less wind resistance, and faster ice. The Soviet sports machine exploited this ruthlessly, sending athletes here for altitude training and record-breaking attempts. The stadium became a source of enormous national pride for Kazakhstan, and the records still stand on its roll of honour.
+score: 8.4
 ---
 
 Medeu is the world's highest ice rink, sitting at 1,691 metres above sea level in the Medeu Valley, about 15 kilometres south of central Almaty. On a clear day, the view from the rink toward the surrounding Tien Shan peaks is spectacular, and the sheer scale of the structure — built in Soviet times and expanded for international competition — is impressive even if you have no interest in skating.

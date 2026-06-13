@@ -9,6 +9,7 @@ tags:
   - architecture
   - altstadt
 story: "Mozart was baptised in the marble font here in 1756 and later served as cathedral organist. The original 8th-century basilica burnt down twice before the present early-baroque building was completed in 1628 — at the time the largest church north of the Alps to be built in the Italian style."
+score: 8.9
 ---
 
 The Dom occupies the heart of the old town, fronting two large interlinked squares with its twin-towered marble facade. Inside, the cool grey-and-white interior is restrained Italianate baroque on a vast scale, with a 71-metre dome and five organs that are still played together for big festival masses.

@@ -9,6 +9,7 @@ tags:
 address: 521 E 8th St, National City, CA 91950
 latitude: 32.6778
 longitude: -117.1006
+score: 7.3
 ---
 
 Built in 1887 of redwood and consecrated the same year, St Matthew's was patterned by its founders after an English country parish church and is one of the oldest continuously used wooden churches in the San Diego region. The pitched roof, lancet windows, and steeply gabled bell turret give the building a transplanted Sussex feeling that sits oddly — and pleasingly — among the surrounding suburban streets.

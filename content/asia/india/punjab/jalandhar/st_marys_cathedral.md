@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2879
 longitude: 75.6200
+score: 6.3
 ---
 
 The Roman Catholic cathedral of the Diocese of Jalandhar sits in the Cantonment, several kilometres east of the city centre. Built in 1933 and substantially extended in the 1980s, it is a working parish church for the small Catholic community in this part of Punjab, and one of the few colonial-era buildings in the Cantonment still in its original use. The Gothic Revival exterior is more impressive than the interior, but the gardens are pleasant and the side chapel to Our Lady of Lourdes is well kept.

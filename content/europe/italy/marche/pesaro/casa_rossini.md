@@ -15,6 +15,7 @@ story: >
   city has made him its own ever since. When the composer died in Paris in 1868,
   he left his entire estate to found a music school in Pesaro — the Conservatorio
   Rossini, still operating today.
+score: 7.6
 ---
 
 At Via Rossini 34, the house where Gioachino Rossini was born in 1792 is now a small but well-curated museum. The rooms have been furnished in period style and the displays cover the composer's life and legacy: portraits, manuscripts, letters, and personal objects including his piano and musical memorabilia. The museum is modest in scale — a single building — but the context of standing in the actual room where Rossini was born gives it a weight that larger institutions lack.

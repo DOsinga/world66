@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Palace_of_the_Popes_in_Viterbo
+score: 9.6
 ---
 
 The Palace of the Popes is the most important secular Gothic building in central Italy and the defining monument of Viterbo. Construction began in 1255 and was completed in 1266 to house the papal court after it relocated from the violence of Rome. The palace's great loggia — seven arched bays open to the sky above the valley — is an extraordinary work of Gothic architecture, elegant and austere at once.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.1030
 longitude: 119.1000
+score: 9.3
 ---
 
 The Mazu Folklore Museum on Meizhou Island documents the spread of the Mazu cult from its origins on this island across the Chinese-speaking world. The collection covers the iconography of the goddess — the different forms her image takes in different regions and periods — alongside ritual objects, offerings, temple furniture, and photographs from Mazu festivals in Taiwan, Vietnam, Malaysia, and the Chinese diaspora communities of Southeast Asia.

@@ -10,6 +10,7 @@ tags:
 - wildlife
 - sport
 story: "Santa Monica Bay sits along one of the longest mammalian migration routes on earth — Pacific grey whales travel 10,000 to 14,000 miles round-trip each year between feeding grounds in the Bering Sea and breeding lagoons in Baja California, passing offshore of Redondo from December to May. Blue whales — the largest animals ever to have lived — pass through in summer and feed on krill blooms just offshore in June through October."
+score: 8.1
 ---
 
 Boats leave Redondo Pier year-round to look for whales in Santa Monica Bay. Different species are around in different seasons: grey whales migrate past from December to May, blue and humpback whales arrive to feed in June through October, and pods of common dolphins and bottlenose dolphins are present in large numbers year-round.

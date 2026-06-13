@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Parish Church of San Matteo
 type: poi
+score: 8.0
 ---
 
 The parish church of San Matteo, built between 1754 and 1783, dominates the seafront of Laigueglia and is the principal monument of the village. The facade is a fine example of late Ligurian baroque, flanked by two slender campaniles whose domes are decorated with brightly glazed yellow and blue tiles. From the beach the church reads as a single broad composition — twin towers, a curving central facade, white walls against the green hillside.

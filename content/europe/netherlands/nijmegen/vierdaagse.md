@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.847495
 longitude: 5.863777
+score: 8.5
 ---
 
 Every July, around 45,000 walkers from dozens of countries descend on Nijmegen to complete the Vierdaagse — the International Four Days Marches, the world's largest multi-day walking event. Participants walk distances of 30, 40, or 50km per day across four consecutive days, following routes through the surrounding countryside before finishing each day in Nijmegen's city centre. The final day's arrival, when the exhausted and jubilant walkers stream across the Waalbrug and through the Via Gladiola (the Street of Gladioli, where locals hand flowers to every walker), is one of the more genuinely moving spectacles in the Dutch calendar.

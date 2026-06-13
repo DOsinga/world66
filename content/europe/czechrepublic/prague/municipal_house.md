@@ -13,6 +13,7 @@ type: poi
 url: obecni-dum.cz
 story: >
   Czechoslovakia was declared independent from the Austro-Hungarian Empire on 28 October 1918 in the Smetana Hall of this building — the new state was literally born here. The founders had no more appropriate venue in mind; the Municipal House had been built as the cultural centerpiece of Czech national revival.
+score: 8.7
 ---
 
 Prague's most complete Art Nouveau building, completed in 1912, stands at the end of the Royal Route where a royal court once stood. Every interior surface is decorated — mosaics, stained glass, gilded plasterwork, and murals by Alphonse Mucha and other leading Czech artists of the period. The mosaic on the facade, "Homage to Prague," is Mucha's work.

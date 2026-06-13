@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Macayo
 type: poi
+score: 5.8
 ---
 
 Macayo is an amazing Mexican restaurant located in the southern part of Phoenix. When eating out in Phoenix, Mexican food is certainly a type of food that Phoenix is known for. Offering a variety of delicious yet traditional Mexican dishes, the history of Macayo extends

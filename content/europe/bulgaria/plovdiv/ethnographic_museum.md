@@ -9,6 +9,7 @@ story: >
   The Koiumdjioglu House — home to the Ethnographic Museum — was built in 1847 by a wealthy Greek merchant. Its architect, who came from Epirus in northwestern Greece, used a style that mixed Bulgarian National Revival influences with Baroque elements from the Ottoman cosmopolitan tradition. The building is as interesting as the collection inside.
 sources:
   - https://en.wikipedia.org/wiki/Plovdiv_Regional_Ethnographic_Museum
+score: 8.5
 ---
 
 The Regional Ethnographic Museum occupies the Koiumdjioglu House, one of the finest National Revival houses in Bulgaria — a sweeping symmetrical building with an elaborately painted interior, carved wooden ceilings, and a facade that looms over the old town cobblestones. The building alone is worth the entrance fee.

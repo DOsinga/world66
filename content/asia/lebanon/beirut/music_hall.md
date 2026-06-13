@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 33.9012
 longitude: 35.5005
+score: 8.1
 ---
 
 Music Hall is Beirut's most beloved live-music venue. The format is a parade of short sets — Lebanese rock, Arabic pop, jazz, oud, a cabaret comedy turn, a samba band — drawn from the city's diaspora of musicians. The acts change weekly; the formula does not.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: St. Mary Church
 type: poi
+score: 6.2
 ---
 
 The Armenian Christian community in Shiraz built St. Mary in the early 17th century, around the same time the Safavid king Abbas I was settling Armenians at Isfahan's New Julfa. The small church is buried in the alleys north of the bazaar and is easily missed — there is little to mark it from the street.

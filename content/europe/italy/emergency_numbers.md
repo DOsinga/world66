@@ -8,6 +8,7 @@ tags:
 - practical_information
 title: Emergency Numbers
 type: poi
+score: 1.2
 ---
 
 Italy's main emergency numbers:

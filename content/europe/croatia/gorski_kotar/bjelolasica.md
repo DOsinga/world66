@@ -8,6 +8,7 @@ latitude: 45.2750
 longitude: 14.9583
 story: >
   Bjelolasica hosted the 1987 Winter Universiade alpine skiing events, the first time a Yugoslav venue had been chosen for a major international winter sports competition. The facilities built for the games gave the mountain a competitive infrastructure that smaller resorts in the region still can't match — though the overall scale remains modest by Alpine standards.
+score: 6.3
 ---
 
 Bjelolasica is the main ski resort in Gorski Kotar and the largest ski area in Croatia, topping out at 1534 metres. It is not large by European standards — around 20 km of piste, mostly blue and red runs — but it has reliable snow cover from December to March and is easily accessible from Rijeka (about 70 km) and Zagreb (about 120 km).

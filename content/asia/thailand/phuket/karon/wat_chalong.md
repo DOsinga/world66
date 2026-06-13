@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 7.8467
 longitude: 98.3367
+score: 7.5
 ---
 
 Wat Chalong is the largest and most important Buddhist temple on Phuket and one of the most visited religious sites in southern Thailand. The main complex includes a series of halls and chedis in Thai, Burmese, and Chinese architectural styles, the whole ensemble painted in orange and cream and set in well-maintained gardens. The most sacred building holds relics believed to be fragments of the Buddha's bones.

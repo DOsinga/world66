@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_building
 story: "The clock mechanism, replaced in 1928, was a German Bachhausen — at the time the most expensive clock in the Balkans. The mayor who ordered it was sacked by the city council for overspending. The clock has been running, with patient repairs, ever since."
+score: 6.4
 ---
 
 Just beside the Et'hem Bey Mosque, the Clock Tower (Kulla e Sahatit) was built in 1822 by the same Et'hem Bey who founded the mosque. Thirty-five metres tall, with a spiral staircase of ninety steps you can climb for a small fee.

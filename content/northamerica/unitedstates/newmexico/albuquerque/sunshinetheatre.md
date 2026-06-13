@@ -9,6 +9,7 @@ tags:
 - bar
 title: Sunshine Theatre
 type: poi
+score: 6.4
 ---
 
 A historic live music venue on Central Avenue downtown, the Sunshine Theatre hosts touring bands and local acts in an intimate standing-room setting. One of the better spots in Albuquerque to catch a show.

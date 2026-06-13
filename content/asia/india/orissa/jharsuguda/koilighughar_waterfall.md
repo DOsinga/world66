@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.9000
 longitude: 83.8600
+score: 6.8
 ---
 
 The Koilighughar waterfall near Lakhanpur is the most scenic natural attraction in the Jharsuguda district. The waterfall drops over a rocky forested escarpment and is most impressive during and shortly after the monsoon (August–October), when the flow is at its strongest. Outside the monsoon season, the flow reduces but the setting — forested hills, sandstone outcrops — remains attractive.

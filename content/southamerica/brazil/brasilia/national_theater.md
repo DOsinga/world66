@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 6.7
 ---
 
 A grey stepped pyramid set just off the Eixo Monumental near the bus station, the Teatro Nacional was designed by Niemeyer (with Athos Bulcão's textured concrete reliefs on the outside walls). Inside are two main halls — the Sala Villa-Lobos and the Sala Martins Pena — used for opera, ballet, theatre, and the Brasília Music Festival each November.

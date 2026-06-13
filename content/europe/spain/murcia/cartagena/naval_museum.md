@@ -8,6 +8,7 @@ tags:
   - museum
 title: Cartagena Naval Museum
 type: poi
+score: 7.8
 ---
 
 Cartagena's Naval Museum explains why the city is still a naval town, not just an archaeological showpiece. The collections cover shipbuilding, artillery, navigation, uniforms, and the long relationship between the harbour and the Spanish navy.

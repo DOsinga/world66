@@ -10,6 +10,7 @@ snippet: NSW's oldest lighthouse, perched on a headland above Lighthouse Beach
 story: >
   Built in 1879, Tacking Point Lighthouse is the oldest lighthouse in New South Wales and was constructed without any roads to the site.
   All materials — stone, lime, bricks, and the lantern equipment — were transported by boat and then hauled up the headland by bullock team.
+score: 7.7
 ---
 
 Tacking Point Lighthouse stands on a rocky headland at the southern end of Lighthouse Beach, offering one of the best viewpoints on the mid-north coast. The lighthouse itself is a compact stone tower built in 1879, still operational today and listed on the state heritage register. The headland around it is a grassy reserve that makes for a fine spot to sit and watch for dolphins or whales (humpbacks pass the coast between June and November).

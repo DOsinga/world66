@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Álafoss
 type: poi
+score: 6.8
 ---
 
 Álafoss is the small waterfall on the river Varmá that gave the country's oldest wool mill its name. The mill itself, founded in 1896, still operates as a factory outlet selling Icelandic wool — yarn in every colour, finished lopapeysa sweaters, blankets and socks — at prices noticeably lower than in Reykjavik's tourist shops. The setting is unassuming: a cluster of low industrial buildings beside the river, with the falls tumbling past.

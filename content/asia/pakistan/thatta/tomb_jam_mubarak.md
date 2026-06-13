@@ -8,6 +8,7 @@ tags:
 latitude: 24.77549
 longitude: 67.90256
 snippet: "One of the most elaborate royal tombs in the Makli Necropolis."
+score: 7.8
 ---
 
 The Tomb of Jam Mubarak Khan is among the finest individual structures within the Makli Necropolis, representing the Tarkhan period of the 16th and 17th centuries at its most architecturally ambitious. The tomb follows the canonical Mughal mausoleum type — a raised plinth, a central domed chamber, decorative arched screens — but executed in the local Sindhi sandstone with surface carving of exceptional quality.

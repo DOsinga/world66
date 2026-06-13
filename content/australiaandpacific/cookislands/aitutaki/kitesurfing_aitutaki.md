@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: -18.90
 longitude: -159.76
+score: 7.4
 ---
 
 Aitutaki's lagoon is close to ideal for kitesurfing. It's large, shallow — averaging one to two metres across much of its expanse — and the southeast trade winds blow consistently from May through October, the same months when the weather is most pleasant. The flat water means you can cover ground fast without fighting swell, and the shallow bottom provides a safety margin that open-ocean kitesurfing doesn't. For intermediate and experienced riders, this is one of the best lagoon setups in the Pacific.

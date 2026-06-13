@@ -8,6 +8,7 @@ latitude: 35.3863
 longitude: 136.9368
 story: >
   Inuyama Castle is the only castle in Japan that was ever privately owned by an individual. After the Meiji government stripped the domain lords of their castles, Inuyama was gifted to the Naruse family in 1895 as thanks for their services during the Boshin War. The Naruse family held it as private property until 2004, when they donated it to a foundation — making it Japan's first castle to transition from private to public ownership in the modern era.
+score: 8.8
 ---
 
 Inuyama Castle is one of only twelve original castle keeps surviving in Japan — meaning not reconstructed in concrete, but built of wood and standing since the feudal era. The present main tower dates from 1537, making it the oldest existing castle keep in the country. It sits on a bluff above the Kiso River, and the view from the top floor across the water to the forested hills of Gifu Prefecture is one of the finest castle panoramas in Japan.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Janta Sweet Home
 type: poi
+score: 6.7
 ---
 
 Pyaaz kachori — a deep-fried pastry stuffed with spiced onions — is Jodhpur's signature street snack, and Janta Sweet Home is one of the best places to eat one. The shop has been in the same family for decades, in the lanes of the old city near the clock tower market. The kachoris come out of the oil hot and are best eaten immediately, doused in tamarind chutney and green chili sauce.

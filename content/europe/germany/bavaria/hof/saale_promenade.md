@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Walking path along the Saale river through the centre of town
+score: 5.9
 ---
 
 The river Saale, which runs eventually north into the Elbe, passes through Hof at the foot of the hill the old town sits on. A landscaped promenade follows the eastern bank for about two kilometres, from the Untreusee reservoir in the south to the meadows north of Theresienstein park. It is the easiest piece of green walking in the city.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7962
 longitude: -121.2155
+score: 6.3
 ---
 
 The Manteca Mural Society has been working since the early 2000s to document the city's agricultural and cultural history through large-scale painted murals on downtown buildings. The best concentration is along East Yosemite Avenue in the downtown district. Subjects range from the almond harvests and pumpkin fields that define the local economy to the Central Valley's railroading past and its diverse immigrant communities.

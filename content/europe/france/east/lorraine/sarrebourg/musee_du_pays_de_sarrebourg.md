@@ -7,6 +7,7 @@ tags:
 snippet: Regional museum with Gallo-Roman archaeology and a Chagall tapestry
 latitude: 48.7348
 longitude: 7.0528
+score: 7.3
 ---
 
 The Musée du Pays de Sarrebourg occupies a contemporary building adjacent to the Chapelle des Cordeliers and is visited as part of the Parcours Chagall route. The collection is anchored by two strong holdings: Gallo-Roman archaeology from the rich sites of the Sarrebourg basin, including pottery, sculptures, and funerary objects; and the regional decorative arts of Lorraine, particularly the earthenwares and porcelains produced at the nearby Niderviller manufactory since the 18th century.

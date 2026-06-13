@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.0
 ---
 
 The Ekmecioğlu Ahmed Pasha Caravanserai, built in 1609 near the old city's commercial centre, is the best-preserved example of a caravanserai in Edirne. Unlike the Rüstem Pasha Caravanserai which has been converted into a hotel, this one functions as a bazaar — its ground-floor cells are occupied by small shops selling antiques, textiles, and handicrafts, and the atmosphere is that of a working marketplace rather than a restored monument. The building follows the standard courtyard plan, with a central open space surrounded by arched galleries on two levels.

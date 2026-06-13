@@ -7,6 +7,7 @@ tags:
 - bar
 title: Schwarzer Bauer
 type: poi
+score: 6.3
 ---
 
 A pub with its own house brewery on Bergstrasse. The interior is lively and cosy — the kind of place where regulars claim the same bench every night. Good spot for a Kellerbier after a day in the old town.

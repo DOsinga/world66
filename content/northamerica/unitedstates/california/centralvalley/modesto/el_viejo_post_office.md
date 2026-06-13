@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 A 1933 New Deal post office in downtown Modesto, built in the Spanish Colonial Revival style that swept California public buildings of the period. Sandstone-coloured stucco, terracotta tiled roof, arched doorways, and a small fountain courtyard at the entry.

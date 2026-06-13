@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Namo_Buddha
+score: 8.5
 ---
 
 Namobuddha is one of the three most sacred Buddhist pilgrimage sites in Nepal, revered across the Tibetan Buddhist world. The hilltop stupa marks the spot where, according to legend, Prince Mahasattva offered his own body to feed a starving tigress and her cubs — a story of ultimate compassion that predates the Buddha. The site sits at roughly 1,750 m on a forested ridge about 10 km south of Dhulikhel. Alongside the ancient stupa is Thrangu Tashi Yangtse Monastery, a large active monastery with resident monks and good views over the surrounding hills. The hike from Dhulikhel takes two to three hours each way through rhododendron forest and small villages; the path is clear and well-walked.

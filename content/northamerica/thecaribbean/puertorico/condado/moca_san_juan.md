@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, art]
 latitude: 18.450072
 longitude: -66.074406
+score: 8.4
 ---
 
 Just across the border from Condado in Santurce, the Museum of Contemporary Art occupies a handsomely converted former school building — the 1918 Carnegie Library building on the corner of Ponce de León and R.H. Todd avenues. The institution is the main serious contemporary art space in Puerto Rico, with a permanent collection focused on Caribbean and Latin American work alongside a rotating international exhibition program. The quality is consistently high and the programming takes real risks.

@@ -7,6 +7,7 @@ tags:
   - plaza_district
 latitude: 35.4847
 longitude: -97.5377
+score: 7.3
 ---
 
 A 1936 Art Deco cinema in the heart of the Plaza District — Oklahoma's first air-conditioned theatre, originally an Atmospheric-style movie palace, and the anchor of the district's recent revival. After decades closed, the theatre reopened in 2015 as a live performance space for indie music, theatre and burlesque, and is now one of the more interesting small venues in the city.

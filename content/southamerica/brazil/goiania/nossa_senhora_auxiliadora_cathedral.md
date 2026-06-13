@@ -8,6 +8,7 @@ tags:
 latitude: -16.6791
 longitude: -49.2536
 story: "The cathedral was designed by Armando de Godoi, one of the architects responsible for the urban plan of Goiânia itself. The city was built in the 1930s as the new capital of Goiás under Governor Pedro Ludovico Teixeira, as part of Getúlio Vargas's 'March to the West' — a project to develop the Brazilian interior and integrate it into the national economy."
+score: 7.4
 ---
 
 The Metropolitan Cathedral of Nossa Senhora Auxiliadora stands at the symbolic heart of Goiânia, on the Praça Cívica that was laid out as the centrepiece of the new planned city. The building is a striking example of 1930s ecclesiastical architecture that manages to blend Art Deco rationalism with elements of neo-Gothic verticality.

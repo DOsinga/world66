@@ -9,6 +9,7 @@ latitude: 58.2660
 longitude: -134.5103
 story: >
   The waters around Juneau are among the most productive feeding grounds for humpback whales in North America. The tidal currents channelled through Frederick Sound and the approach to the Gastineau Channel concentrate krill and small fish in ways that attract dozens of whales each summer. Scientists have identified over 1,000 individual humpbacks that return to Southeast Alaska every year, recognizable by the patterns on the undersides of their flukes.
+score: 9.0
 ---
 
 Humpback whale watching from Juneau is among the most reliable in North America. The cold, nutrient-rich waters around the city are prime summer feeding grounds, and sightings are virtually guaranteed from late May through early September. Multiple operators run tours of two to four hours from the downtown waterfront; smaller vessels — 12–30 passengers — give a better experience than the larger tour boats, and a closer approach when whales allow it.

@@ -14,6 +14,7 @@ story: >
   The paintings from this period — showing mango trees, women in brightly
   patterned dresses, and the lush hillside above the coast — are considered the
   direct precursors to his famous Tahitian series.
+score: 6.7
 ---
 
 The Musée Gauguin in Le Carbet occupies the site where Paul Gauguin lived for five months in 1887, before his more famous time in Tahiti. The museum documents this earlier Caribbean period with reproductions of the Martinique paintings (the originals are scattered across international collections), correspondence, and biographical material explaining what drew Gauguin to the island and what he found here.

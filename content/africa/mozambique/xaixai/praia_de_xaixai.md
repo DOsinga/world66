@@ -11,6 +11,7 @@ story: >
   of the Limpopo River. Floodwaters reached Praia de Xai-Xai and the famous image
   of a woman giving birth in a tree above the floodwaters — rescued by a South African
   Air Force helicopter — was taken here. The baby, born in the tree, was named Rositha.
+score: 8.4
 ---
 
 Praia de Xai-Xai is a long sandy beach about 10 km east of Xai-Xai town, protected by a coral reef that runs roughly a kilometre offshore. The reef creates a calm lagoon between beach and reef, making the swimming safe and pleasant — significantly calmer than the open ocean beaches further north. The water is warm and the sand is clean.

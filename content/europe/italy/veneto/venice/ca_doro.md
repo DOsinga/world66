@@ -13,6 +13,7 @@ snippet: "Finest Venetian Gothic palace on the Grand Canal, originally gilded go
 neighbourhood: Cannaregio
 story: >
   The Ca' d'Oro — House of Gold — gets its name from the gilding that once covered the elaborate Gothic facade. By the 15th century the gold leaf was all gone, worn away or stripped, and the building has been white and terracotta ever since. The facade we see today is still considered the most beautiful in Venice, but it was designed to be far more dazzling than it currently appears.
+score: 8.6
 ---
 
 The Ca' d'Oro is the finest surviving example of Venetian Gothic domestic architecture, built in the 1430s for the patrician Contarini family. The facade on the Grand Canal — asymmetrical, with its delicate open loggia, carved stonework, and tracery — was originally gilded and painted in blue and vermillion. Even stripped of its colour, it is the most photographed palace on the canal.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Small museum on Île de Gorée devoted to the lives and work of Senegalese women"
+score: 6.8
 ---
 
 The Musée de la Femme Henriette Bathily on Île de Gorée is small but rewarding — a single restored Goréen house turned into a thematic display of the work, dress, ritual and daily life of Senegalese women through history. Exhibits include kitchen tools, woven cloth, marriage objects, healing instruments and photographs from the 19th century onward.

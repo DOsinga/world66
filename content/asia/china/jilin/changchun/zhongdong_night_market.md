@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.8800
 longitude: 125.3150
+score: 6.3
 ---
 
 The Zhongdong night market near central Changchun is a reliable evening street food destination, operating from late afternoon through midnight during the warmer months and with reduced but continuing activity in winter. The stalls cover the full range of northeastern street food: skewered lamb and vegetables (chuan'r), cold noodles with sesame paste, corn in various preparations, and the range of baozi and jianbao that are the staple of late-night eating in northern China.

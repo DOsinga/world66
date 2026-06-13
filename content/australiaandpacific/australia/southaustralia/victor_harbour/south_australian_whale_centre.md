@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -35.5533
 longitude: 138.6215
+score: 6.8
 ---
 
 The South Australian Whale Centre on Railway Terrace is the main interpretive facility for the southern right whale population that uses Encounter Bay as a calving ground each winter. The centre has exhibits on whale biology, the history of whaling in southern Australian waters (Victor Harbor was a whaling station in the 19th century), and the conservation story of the southern right whale — one of the great recovery successes in marine conservation.

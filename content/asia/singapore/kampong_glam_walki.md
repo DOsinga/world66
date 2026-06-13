@@ -7,6 +7,7 @@ tags:
 - tours_and_excursions
 title: Kampong Glam Walking Tour
 type: poi
+score: 8.0
 ---
 
 Kampong Glam takes its name from the gelam tree, a eucalyptus relative that once grew thickly here. The village is long gone — shophouses from the colonial era line the streets now — but the neighbourhood remains the heart of Singapore's Malay and Arab community.

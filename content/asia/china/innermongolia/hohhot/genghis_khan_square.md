@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8150
 longitude: 111.6600
+score: 6.3
 ---
 
 Genghis Khan Square is Hohhot's main civic plaza, a large paved area flanked by government buildings and dominated by an equestrian statue of Genghis Khan — an omnipresent figure in Inner Mongolian public art, his image deployed with a frequency that reflects both genuine cultural pride and deliberate political positioning. The plaza is the scene of public events throughout the year, from political ceremonies to cultural performances during Naadam.

@@ -12,6 +12,7 @@ story: >
   legend names it for Anund, an early Swedish king. The stone ship settings surrounding
   it, with stones arranged in the outline of Viking longships, are among the most intact
   in Scandinavia.
+score: 9.1
 ---
 
 Anundshög is one of Sweden's most important ancient monuments, sitting in a field about eight kilometres northeast of the city centre. The main burial mound dates from around 500 CE, surrounded by a field of standing stones arranged in the outlines of five Viking-era longships. The site was a significant meeting place and trading point for centuries.

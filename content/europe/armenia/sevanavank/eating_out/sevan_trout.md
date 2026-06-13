@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 40.5560
 longitude: 44.9350
+score: 6.8
 ---
 
 Ishkhan — Armenian trout, also called Sevan trout — is the regional dish and the reason to eat here rather than back in Yerevan. The species is endemic to Lake Sevan; it exists nowhere else in the world. It is grilled whole and served at lakeside restaurants, usually with bread and herbs and little else to distract from the fish.

@@ -9,6 +9,7 @@ latitude: 43.4933
 longitude: -1.4751
 sources:
   - https://en.wikipedia.org/wiki/Nive
+score: 7.2
 ---
 
 The Nive river divides Bayonne into two distinct quarters. Grand Bayonne on the west bank is the older and more formal half, dominated by the cathedral and commercial streets. Petit Bayonne on the east bank is smaller, more bohemian, and notably livelier in the evenings — the streets around the Rue des Cordeliers are lined with bars, and the riverside quays fill up on warm evenings.

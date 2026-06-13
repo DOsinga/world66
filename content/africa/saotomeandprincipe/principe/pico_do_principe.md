@@ -15,6 +15,7 @@ story: >
   had never been documented before, including the first evidence that the
   Príncipe thrush still existed — a bird previously feared extinct, surviving
   only in the forest near the summit.
+score: 8.9
 ---
 
 At 948 metres, Pico do Príncipe is the highest point on the island and one of the more demanding hikes in West Africa. The trail climbs through multiple vegetation zones, from secondary forest near the park boundary to dense montane cloud forest near the top, where the trees are hung with moss and the air is cool and damp even on a clear day. The summit offers views across the whole island when cloud permits, which is not always.

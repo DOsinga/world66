@@ -7,6 +7,7 @@ tags:
 - beach
 title: French Beach
 type: poi
+score: 7.4
 ---
 
 A secluded stretch of sand about 40 km west of Karachi along the Makran Coastal Highway. French Beach is one of the few clean, swimmable beaches near the city, with clear water and rocky coves. The beach is privately managed, so you'll pay a small entry fee, but that keeps it less crowded than Hawke's Bay or Sandspit.

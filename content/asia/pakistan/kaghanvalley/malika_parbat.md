@@ -7,6 +7,7 @@ tags:
   - mountain
 latitude: 34.8367
 longitude: 73.7408
+score: 6.8
 ---
 
 Malika Parbat — "Queen Mountain" in Urdu — rises to 5,290 metres and is the highest peak in the Kaghan Valley area. It dominates the skyline from Naran and is most dramatically framed when reflected in the glacial waters of Lake Saiful Muluk directly below its southern face. The mountain is considered among the most accessible serious climbs in Pakistan for experienced mountaineers, though it still requires proper acclimatisation, technical gear, and ideally a guide from Naran.

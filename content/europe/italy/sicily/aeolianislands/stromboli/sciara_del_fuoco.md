@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 'Stream of Fire' is the scar of a collapse around 5,000 years ago, when the northwest flank of the volcano slid into the sea. Today it is the natural channel down which lava bombs and ash from the summit reach the water — and the only place on earth where ocean and an active crater are connected by a slope of open volcanic debris."
+score: 9.1
 ---
 
 The Sciara del Fuoco — Stream of Fire — is the steep, blackened slope on the northwest face of the island where molten material slides from the summit craters straight into the sea. By day it is a desolate avalanche track of pumice and ash; by night, when the eruptions become visible, it glows red.

@@ -11,6 +11,7 @@ story: >
   but because park staff add a small quantity of soap powder to break the surface tension of the
   water in the vent. This has been happening daily since 1901, when prisoners from a nearby camp
   discovered the trick accidentally while doing their laundry.
+score: 9.2
 ---
 
 Wai-O-Tapu (Sacred Waters in Māori) is the most visually spectacular of the geothermal parks near Rotorua, located about 30 kilometres south of the city. What sets it apart from the other thermal areas is colour: pools of vivid green, deep orange, and bright yellow, created by different mineral deposits — arsenic for yellow, antimony for orange, sulphur and carbon dioxide for the greens. The Champagne Pool, a 65-metre-wide cauldron of 74°C water ringed by bright orange silica, is the signature image.

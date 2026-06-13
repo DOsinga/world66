@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Eighteenth-century Baroque church on Corso Persiani"
+score: 5.9
 ---
 
 The church of San Filippo Neri is a small but finely detailed Baroque church on the corso just north of the main square, attached to the Oratorian congregation founded by Saint Philip Neri in sixteenth-century Rome. The current building dates from the eighteenth century, with a curved facade in mellow brick and stone and an interior that is more elaborate than the exterior suggests: stucco angels, painted vaults, and an altarpiece of Saint Philip flanked by spiral columns.

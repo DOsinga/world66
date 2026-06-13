@@ -11,6 +11,7 @@ story: >
   Painting and Carving School, a regional tradition that produced some of the finest
   sacred woodwork in 18th-century Ukraine. The school's founder, Ivan Rutkovych, trained
   a generation of craftsmen whose work survives in churches across the western Ukraine.
+score: 8.6
 ---
 
 The Holy Trinity Church, built in 1720, is a UNESCO World Heritage Site — part of the collective designation of sixteen wooden tserkvas (Eastern Orthodox churches) of the Carpathian Region spanning Ukraine and Poland. The listing recognises these timber structures as outstanding examples of a regional vernacular building tradition that developed over several centuries.

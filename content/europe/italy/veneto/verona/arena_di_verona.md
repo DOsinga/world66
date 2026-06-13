@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Arena di Verona
 type: poi
+score: 9.4
 ---
 
 The second-largest Roman amphitheatre in the world after the Colosseum, built in the first century AD and seating around 30,000 spectators. The outer ring was largely destroyed by a 1117 earthquake; what remains — the inner tiers of pink marble and limestone — is remarkably complete. Every summer since 1913 the Arena has hosted opera, and the scale of the setting is extraordinary: a Verdi chorus filling a Roman amphitheatre under the open sky.

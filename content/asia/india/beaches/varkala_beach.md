@@ -7,6 +7,7 @@ snippet: Dramatic cliff-backed beach in Kerala's south
 tags:
 - things_to_do
 - beach
+score: 7.3
 ---
 
 Varkala is unlike any other beach in Kerala. Instead of flat sand stretching to the horizon, dramatic red laterite cliffs rise straight up from the shore, with restaurants, shops, and guesthouses perched along the cliff edge. The main stretch, known as Papanasam Beach, is considered sacred — Hindu tradition holds that bathing here washes away sins, and the ancient Janardhana Swami Temple sits just above.

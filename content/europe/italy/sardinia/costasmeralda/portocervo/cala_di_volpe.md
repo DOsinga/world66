@@ -6,6 +6,7 @@ longitude: 9.539
 tags:
   - beaches
   - sight
+score: 7.2
 ---
 
 Cala di Volpe is the narrow, hooked bay south of Porto Cervo around which Jacques Couelle designed the eponymous hotel — a deliberately rustic, granite-and-stucco hotel that opened in 1963 and is still one of the most photographed buildings on the Costa Smeralda. The beach at the head of the bay is small, gentle, and protected, and the water shades through every variation of green and blue.

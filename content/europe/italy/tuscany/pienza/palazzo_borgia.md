@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.0764
 longitude: 11.6793
+score: 7.6
 ---
 
 The fifteenth-century palace built by Cardinal Rodrigo Borgia — the future Pope Alexander VI — directly opposite Palazzo Piccolomini across the cathedral piazza. It now houses the small but unusually rich Diocesan Museum.

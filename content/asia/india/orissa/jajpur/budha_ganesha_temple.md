@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, temple]
 latitude: 20.857723
 longitude: 86.336424
+score: 6.4
 ---
 
 A short walk from the Dasashwamedh Ghat sits the Budha Ganesha Temple — "Old Ganesha" — one of the few shrines in India that depicts the elephant-headed god as an elder rather than a child or a stout adolescent. The image is squat and dignified, said to mark Ganesha after he has retired from his usual mischief.

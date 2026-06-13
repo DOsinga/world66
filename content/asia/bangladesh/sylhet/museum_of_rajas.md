@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.8949
 longitude: 91.8673
+score: 7.2
 ---
 
 The Museum of Rajas (also called the Folk Museum) occupies an old zamindar's residence and displays the everyday objects, costumes, tools, and instruments of the indigenous and rural communities of the Sylhet region — Khasia, Manipuri, Garo, and Bengali villagers. The collection is small but well chosen, with detailed labels in Bengali and English.

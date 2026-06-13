@@ -8,6 +8,7 @@ latitude: -13.8364
 longitude: -76.2530
 story: >
   Julio C. Tello was the Peruvian archaeologist who first excavated the Paracas culture sites in the 1920s, unearthing the famous Paracas textiles — extraordinary woven cloths of such complexity and colour that they rewrote what scholars thought was possible in pre-Columbian textile production. Tello, the son of a peasant from Huarochirí who became Peru's greatest archaeologist, named the culture after the peninsula. The museum named for him sits at the site of one of his original excavations.
+score: 6.2
 ---
 
 The Julio C. Tello Site Museum, inside the Paracas National Reserve, is a small museum dedicated to the Paracas culture — the people who inhabited this desert coast between roughly 900 BCE and 100 CE. The Paracas culture is known primarily through its extraordinary textiles: embroidered cloths with complex geometric and figurative designs in vivid colours, used to wrap the dead in elaborate burial bundles.

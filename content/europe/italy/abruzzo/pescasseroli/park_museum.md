@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.8000
 longitude: 13.7833
+score: 7.0
 ---
 
 The national park maintains a small natural history museum in Pescasseroli that is worth an hour before heading out on the trails. Displays cover the park's geology, its flora across the seasons, and — most usefully — detailed sections on each of the major animal species. The bear exhibit explains the Marsican subspecies, its behaviour, and why this corner of the Apennines became its last stronghold. There are also live enclosures in an adjacent area where injured or orphaned animals that cannot be released are kept: brown bear, wolf, lynx, deer, and other park species.

@@ -14,6 +14,7 @@ story: >
   medieval castle that stood on the same hill. Its columns were only rediscovered
   in 1882, when the castle was being demolished — a case of a Roman building
   surviving by accident inside a medieval one.
+score: 7.8
 ---
 
 The Roman temple of Vic is one of the best-preserved Roman temples in the Iberian Peninsula. Built in the second century AD as part of the Roman town of Auso (modern Vic), it consists of a raised podium with six Corinthian columns on the facade and supporting columns along the sides. It is a genuinely impressive survivor.

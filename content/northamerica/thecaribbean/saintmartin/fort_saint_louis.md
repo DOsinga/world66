@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fort_Saint-Louis_(Saint-Martin)
 story: >
   The fort was built by the French in 1767 after a century of competing European claims on the island. It was captured by the British, recaptured by the French, and eventually abandoned — a pattern that summarises much of Saint-Martin's colonial history in miniature.
+score: 7.1
 ---
 
 Fort Saint-Louis sits on a promontory above Marigot harbour, and the walk up to the ruins takes about fifteen minutes from the waterfront. What remains is modest — walls, a few cannon emplacements, and a small museum — but the views over Marigot and the Simpson Bay Lagoon are the real reward. The lagoon to the south, the sea to the north, and the Dutch side visible in the distance make this the best panoramic viewpoint on the island.

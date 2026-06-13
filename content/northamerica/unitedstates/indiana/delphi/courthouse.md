@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Carroll County Courthouse on the central square is the great photograph of Delphi and one of the finest small-town courthouses in Indiana. The current building is the third on the site, completed in 1917 to a design by Indianapolis architects Bunting and Granberg in a restrained Beaux-Arts style — three storeys of buff Bedford limestone, a heavy classical entablature, and corner pavilions topped by stone urns.

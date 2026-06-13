@@ -14,6 +14,7 @@ story: >
   destinations. The bandstand in the park still hosts free Sunday concerts in
   summer, a tradition that dates to the Habsburg era when the imperial court
   made Baden its summer residence.
+score: 8.0
 ---
 
 The Kurpark is Baden's centrepiece: a large, beautifully maintained public park running along the edge of the old town, shaded by mature trees and laid out in the 19th century English landscaping style. The park's rose garden is its crown jewel — hundreds of varieties in bloom from June through September, arranged around paths and fountains that make for one of the most pleasant afternoon walks in the Vienna region.

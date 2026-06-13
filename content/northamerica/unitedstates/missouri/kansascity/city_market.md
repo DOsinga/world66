@@ -8,6 +8,7 @@ tags:
 - food
 title: City Market
 type: poi
+score: 7.7
 ---
 
 Kansas City's City Market has operated continuously in the River Market district since 1857 — one of the longest-running public markets in the United States. The Saturday morning market is the main event: from 6am until mid-afternoon, dozens of vendors sell fresh produce, flowers, herbs, baked goods, honey, and prepared food from a mix of local farms and international vendors. The surrounding permanent stalls include several international grocery stores specializing in Asian, African, and Latin American ingredients.

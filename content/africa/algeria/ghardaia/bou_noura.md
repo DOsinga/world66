@@ -8,6 +8,7 @@ latitude: 32.4872
 longitude: 3.6606
 sources:
   - https://en.wikipedia.org/wiki/Bou_Noura
+score: 6.9
 ---
 
 Bou Noura is the smallest of the five M'zab ksour and the least visited, which makes it the most comfortable to explore in human-scale quiet. Its compact huddle of houses on a low hill is visible from the main road connecting the other ksour, and the walk up to the old quarter takes only twenty minutes. The mosque and the narrow alleys around it are in excellent condition.

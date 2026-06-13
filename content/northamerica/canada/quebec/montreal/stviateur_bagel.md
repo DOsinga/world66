@@ -10,6 +10,7 @@ tags:
   - cafe
 neighbourhood: Mile End
 snippet: Wood-fired Montreal bagels, baked 24 hours a day since 1957
+score: 7.5
 ---
 
 St-Viateur Bagel has been baking wood-fired bagels at 263 avenue Saint-Viateur Ouest since 1957, and the recipe and method have not changed since. The bagels are hand-rolled, dipped in honey water, and baked in a wood-fired oven that runs around the clock. The result is denser, chewier, and slightly sweeter than New York bagels — a product of a completely different tradition.

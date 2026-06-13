@@ -8,6 +8,7 @@ tags:
   - restaurant
   - bar
 snippet: Craft beer and pub food on Victoria Street
+score: 4.8
 ---
 
 The Local Taproom on Victoria Street is one of Hamilton's better-established craft beer bars, with a good rotating tap list that leans heavily on New Zealand breweries. The food is solid pub fare — burgers, pizzas, loaded fries — and the prices are reasonable. The courtyard out the back fills up on warm evenings.

@@ -7,6 +7,7 @@ tags:
 latitude: 21.025
 longitude: 105.847
 snippet: "Hanoi's busiest active Buddhist pagoda, a living place of worship since the 1400s"
+score: 7.8
 ---
 
 Quan Su Pagoda — the Ambassador's Pagoda — takes its name from its original purpose: it was built in the 15th century to house Buddhist delegations visiting the Vietnamese court from neighboring kingdoms. A guest house for diplomatic monks, in other words. Today it is the seat of the Vietnam Buddhist Sangha and the most important active Buddhist pagoda in Hanoi, which means it is always busy, always full of incense smoke, and always populated by worshippers rather than just visitors.

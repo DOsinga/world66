@@ -8,6 +8,7 @@ tags:
 latitude: -36.095
 longitude: 174.586
 story: The Mangawhai Heads Volunteer Surf Lifesaving Club has patrolled this beach since 1962, and locals will tell you the rip at the harbour entrance is what made it necessary — the channel funnels water out so fast that even strong swimmers can be carried half a kilometre offshore before they realise.
+score: 8.2
 ---
 
 The ocean beach at Mangawhai Heads is a long, gentle curve of pale sand that runs north from the harbour entrance for several kilometres. The sand is soft, the dunes behind it are covered in pohutukawa and marram grass, and the water on a calm day is the milky turquoise that you get all along this stretch of the Northland coast.

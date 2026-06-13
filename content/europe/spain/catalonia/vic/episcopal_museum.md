@@ -14,6 +14,7 @@ story: >
   scholars recognized that the altarpieces and frescoes in isolated country parishes
   were at risk of destruction or theft. Their rescue effort gathered over a thousand
   years of Catalan religious art into a single building.
+score: 9.0
 ---
 
 The Episcopal Museum (Museu Episcopal de Vic) holds one of the finest collections of Romanesque art in Europe outside of a cathedral or major capital. The collection of altarpieces, sculptures, frescoes, and liturgical objects spans the tenth to the fifteenth century, with particular strength in the twelfth- and thirteenth-century works from the Catalan Pyrenean churches.

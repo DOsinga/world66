@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 30.16667
 longitude: -96.39694
+score: 7.8
 ---
 
 Brenham's historic downtown surrounds the courthouse square and the four blocks of Main and Alamo Streets either side of it. Roughly fifty buildings — most from the 1870s to the 1920s — make up a National Register district that has been carefully preserved and quietly reinvented as antique shops, boutiques, coffee bars and small restaurants.

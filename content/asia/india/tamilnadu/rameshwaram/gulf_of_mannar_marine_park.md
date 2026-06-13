@@ -6,6 +6,7 @@ tags:
 - sight
 title: Gulf of Mannar Marine National Park
 type: poi
+score: 7.4
 ---
 
 The Gulf of Mannar Marine National Park covers around 560 square kilometres of shallow sea between Rameshwaram and the Sri Lankan coast, encompassing 21 islands and the waters between them. The park contains coral reefs, seagrass beds, mangroves, and some of the more diverse marine ecosystems on the Indian side of the subcontinent. Dugongs — large, slow-moving sea mammals related to manatees — are occasionally sighted in the seagrass zones, though populations are small and sightings are not guaranteed.

@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 26.6675
 longitude: 108.3212
+score: 7.8
 ---
 
 The Miao embroidery of the Taijiang area is among the most technically complex textile work in China, and this is not just a matter of regional pride. The silk thread work involves cross-stitch, satin stitch, and a distinctive twisted thread technique called "weaving embroidery" (织绣, zhī xiù) in which threads are woven through the backing fabric rather than simply stitched over it. The motifs — phoenixes, fish, dragons, geometric patterns — carry meaning that relates to Miao cosmology and clan history, though the full interpretive system is largely inaccessible to outsiders.

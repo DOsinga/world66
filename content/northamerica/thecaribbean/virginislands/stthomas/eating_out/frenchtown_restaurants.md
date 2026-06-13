@@ -1,6 +1,7 @@
 ---
 title: "Frenchtown"
 type: poi
+score: 6.4
 ---
 
 Frenchtown, a ten-minute walk west of Charlotte Amalie along the harbour road, is the most characterful neighbourhood on St. Thomas for an evening meal. It was settled in the late 19th century by French-speaking fishermen and their families from St. Barts and the islands of St. Martin and Guadeloupe, and the neighbourhood retains a slightly different feel from the rest of the island: quieter, more residential, and with a handful of restaurants and bars that stay open after the cruise ship crowds have dispersed.

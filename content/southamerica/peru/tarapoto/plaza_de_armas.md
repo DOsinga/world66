@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Plaza de Armas
 type: poi
+score: 5.9
 ---
 
 The Plaza de Armas is the social centre of Tarapoto, a compact jungle city in Peru's San Martín region. Banks, shops, and government offices cluster within a block or two, but in the evenings the square belongs to locals who come to sit, stroll, and catch up. On weekends there are often live bands or food fairs.

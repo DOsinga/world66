@@ -8,6 +8,7 @@ tags:
 title: Ak Mosque
 type: poi
 snippet: "Small 19th-century quarter mosque near the Tash Hauli, named for its white-painted columns"
+score: 6.0
 ---
 
 The Ak Mosque, the White Mosque, is one of several small quarter mosques scattered through Itchan Kala — a much more modest building than the Juma Mosque a few blocks away. It was built in the early 19th century to serve the residents of the eastern part of the old town and takes its name from the whitewashed wooden columns that hold up the porch.

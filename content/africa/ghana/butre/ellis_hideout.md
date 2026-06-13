@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Ellis Hideout
 type: poi
+score: 5.8
 ---
 
 Ellis Hideout is the only place to eat — or sleep — on the beach side of the Butre River. A cluster of simple thatched bungalows and a sand-floor restaurant sit just behind the dunes, run by Ellis and his family for over two decades. The kitchen turns out fresh-caught fish, jollof rice, red-red (bean stew with fried plantain), and cold beer, all priced for backpacker budgets.

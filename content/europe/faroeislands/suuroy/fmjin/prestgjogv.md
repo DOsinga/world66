@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 61.5240
 longitude: -6.8870
+score: 7.4
 ---
 
 Prestgjógv is a dramatic narrow sea gorge at the end of the road past the village, where the cliffs that line Suðuroy's western coast briefly part and the Atlantic surges into a thin slot of rock. A short footpath leads down from the road end onto a viewpoint above the gorge — the sound of waves echoing in the chamber and the spray hitting hundreds of feet up the cliff face are the main attractions.

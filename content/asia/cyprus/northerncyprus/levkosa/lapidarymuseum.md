@@ -9,6 +9,7 @@ tags:
 - sight
 title: Lapidary Museum
 type: poi
+score: 6.8
 ---
 
 The Lapidary Museum occupies a fine 15th-century Venetian Gothic mansion in the old city and displays stone carvings, architectural fragments, and coats of arms gathered from buildings across northern Cyprus. The pieces span the island's Lusignan and Venetian periods, when Cyprus was a prosperous trading outpost and its churches and palaces were decorated accordingly. The courtyard alone, with its carved capitals and column remnants, is worth the short detour.

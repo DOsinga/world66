@@ -8,6 +8,7 @@ tags:
 address: "Largo Castello"
 latitude: 44.8373
 longitude: 11.6190
+score: 6.4
 ---
 
 The small Oratorio dell'Annunziata beside the Este Castle is an elegant Renaissance chapel, often overlooked by visitors who walk straight past towards the castle entrance. The exterior is plain, but the interior retains 15th-century carved decoration and a peaceful atmosphere quite different from the busy street outside.

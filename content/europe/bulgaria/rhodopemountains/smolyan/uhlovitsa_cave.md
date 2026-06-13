@@ -13,6 +13,7 @@ story: >
   The cave was first scientifically explored in the 1950s, when speleologists found
   an entirely new species of cave beetle that has since been catalogued and named after
   the cave.
+score: 7.1
 ---
 
 Uhlovitsa is a show cave in the Smilyan area of the Rhodopes, formed in karst limestone and featuring a small river flowing through a series of chambers with modest stalactite formations. It is less dramatic than the Devil's Throat at Trigrad but more intimate — a guide takes small groups through the cave on a lit walkway, and the riverside pools at the entrance allow paddling in clear water.

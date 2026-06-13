@@ -9,6 +9,7 @@ latitude: 56.1917
 longitude: -2.8314
 snippet: "Historic links course founded in 1875, with a famous submarine periscope in the starter's hut"
 story: "The starter's hut has a real submarine periscope, taken from HMS Excalibur and installed so the starter can see whether the first fairway — blind from the tee — is clear. It's the only golf course in the world with one."
+score: 7.4
 ---
 
 The Golf House Club, Elie was founded in 1875 on land that had been used for golf since the 16th century. The course is laid out across the dune fields west of the village, with sea views from most holes and a quirky first hole that is completely blind from the tee — which is why the starter's hut has a periscope from a Royal Navy submarine, used to check whether the fairway is clear.

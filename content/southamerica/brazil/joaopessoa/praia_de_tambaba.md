@@ -6,6 +6,7 @@ longitude: -34.8079
 tags:
   - things_to_do
   - beach
+score: 8.1
 ---
 
 About 25 kilometres south of João Pessoa, Tambaba is one of Brazil's few officially designated nudist beaches — a distinction it has held since the 1990s. The beach sits in a sheltered natural cove, flanked by dark cliffs and backed by Atlantic Forest vegetation. Only the northern section is open to clothed visitors; the southern stretch, accessed through a gate, is clothing-optional.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -2.531
 longitude: -44.297
+score: 8.1
 ---
 
 The Mercado Central is the main public market of São Luís, a lively indoor-outdoor market near the historic centre where the city does its everyday food shopping. Fish, crabs, prawns, and shellfish fresh from the bay occupy one hall; vegetables, spices, and dried goods fill another; and a ring of restaurants and snack bars serves market workers and shoppers.

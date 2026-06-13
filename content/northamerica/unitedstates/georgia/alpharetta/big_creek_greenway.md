@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 6.8
 ---
 
 The Big Creek Greenway is a paved multi-use trail that runs roughly eight miles along Big Creek through Alpharetta and Roswell — wooded, mostly flat, popular with cyclists, joggers, and stroller-pushing parents. The trail crosses the creek on a series of wooden bridges and passes through patches of forest that feel surprisingly remote for a suburban setting.

@@ -9,6 +9,7 @@ latitude: 38.1022
 longitude: -122.2577
 story: >
   The Empress opened in 1911 as a vaudeville and silent film house. It survived the decline of downtown Vallejo through the 20th century, closed, was threatened with demolition, and was eventually restored by a community effort that took years and millions of dollars. It reopened as a live music and events venue and has become a genuine anchor of Vallejo's arts revival.
+score: 7.3
 ---
 
 The Empress Theatre is a restored 1911 vaudeville house in the heart of downtown Vallejo, now operating as one of the more atmospheric live music venues in the San Francisco Bay Area. The ornate façade and the interior — with its original proscenium arch, restored plasterwork, and 700-person capacity — give it a character that modern venues rarely achieve.

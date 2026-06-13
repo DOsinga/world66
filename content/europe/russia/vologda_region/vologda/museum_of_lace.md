@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.2185
 longitude: 39.8905
+score: 8.0
 ---
 
 Vologda lace has been produced in the city and surrounding villages since at least the 18th century, and the museum dedicated to it holds the most comprehensive collection of examples in Russia — from simple early-19th-century household pieces to the elaborate tablecloths and mantilla-style articles that won international prizes at 19th-century exhibitions.

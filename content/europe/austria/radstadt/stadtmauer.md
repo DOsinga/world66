@@ -7,6 +7,7 @@ tags:
 latitude: 47.3839
 longitude: 13.4618
 story: "Radstadt earned its walls — and the right to charge tolls on traffic over the Tauern passes — by remaining loyal to the Salzburg archbishop during the Bavarian war of 1289. The walls were never breached, even during the great Peasants' War of 1525, when they kept the rebels out for three months."
+score: 8.0
 ---
 
 The Radstadt town walls are among the most intact medieval fortifications in the eastern Alps. The almost square circuit, the three round corner towers — Kapuzinerturm, Mauttörl, Hexenturm — and the two gate towers all survive from the late thirteenth and fourteenth centuries. The walls are still mostly free-standing and can be walked around in twenty minutes.

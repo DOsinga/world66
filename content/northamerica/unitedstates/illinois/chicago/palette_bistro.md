@@ -14,6 +14,7 @@ tags:
 title: Palette Bistro
 type: poi
 url: www.paletteonsouthport.com
+score: 5.4
 ---
 
 A romantic American bistro on Southport Avenue in Lakeview, within walking distance of the Athenaeum Theatre and the Southport shopping corridor. The menu runs to classic bistro fare — a good wine list at reasonable prices is part of the draw. Dinner is served Tuesday through Sunday from 5pm, with brunch on weekends. Outdoor seating in summer.

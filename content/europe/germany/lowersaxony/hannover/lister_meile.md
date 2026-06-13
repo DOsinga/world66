@@ -8,6 +8,7 @@ tags:
 latitude: 52.3853
 longitude: 9.7447
 snippet: Long pedestrianised street through the List district, lined with cafes
+score: 6.6
 ---
 
 A two-kilometre pedestrian boulevard running north from the Lister Platz, the longest in Hanover. Cafes, independent shops, a weekly farmers' market on Wednesday and Saturday and a steady traffic of cyclists and parents with prams.

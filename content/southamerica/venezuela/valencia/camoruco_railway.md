@@ -8,6 +8,7 @@ tags:
 - sight
 title: Camoruco Railway Terminus
 type: poi
+score: 7.6
 ---
 
 The Camoruco station was the Valencia end of the German-built Great Venezuela Railway, which from 1894 connected the city to the port of Puerto Cabello and then on to the Caribbean. Most of the line was torn up after the railway closed in the 1960s and the terminus could easily have been demolished with it. That it survives — the only nineteenth-century railway terminus left intact in Venezuela — is something of an accident.

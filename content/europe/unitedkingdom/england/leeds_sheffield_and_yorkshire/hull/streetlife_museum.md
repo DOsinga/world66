@@ -8,6 +8,7 @@ tags:
 title: Streetlife Museum of Transport
 type: poi
 snippet: "Free transport museum on High Street with a recreated Victorian street, horse-drawn carriages, vintage cars, and old trams"
+score: 9.0
 ---
 
 The Streetlife Museum tells the story of transport in Britain through reconstructed environments rather than glass cases. A full Victorian high street has been built indoors — chemists, sweet shops, a tailor — complete with sound effects of horses and hawkers. Around it are bicycles from the boneshaker era, horse-drawn carriages, early motor cars, a recreated 1940s railway station, and a small but lovingly maintained tram collection.

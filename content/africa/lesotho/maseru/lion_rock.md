@@ -6,6 +6,7 @@ longitude: 27.7167
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The conical hill of **Qiloane**, about 25 km north-east of Maseru on the way to Thaba Bosiu, is the natural feature that allegedly inspired the shape of the Basotho mokorotlo hat. Its smooth sandstone summit thrusts up like a giant beehive and is unmistakable from miles away.

@@ -12,6 +12,7 @@ story: >
   site, one of the largest Puebloan villages ever discovered, helped establish the timeline
   of population collapse and migration from the Four Corners around AD 1280. Researchers
   here helped show that the abandonment was not a single event but a decades-long process.
+score: 8.0
 ---
 
 Crow Canyon Archaeological Center, a few kilometres west of Cortez, is a research and education facility where archaeologists conduct active excavations alongside enrolled participants. Programmes range from day visits to multi-day residential courses — you can join a dig, work in the laboratory analysing artefacts, or tour the excavation sites with a researcher who explains what they have found and what it means.

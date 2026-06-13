@@ -8,6 +8,7 @@ latitude: 37.3000
 longitude: 55.2500
 sources:
   - https://en.wikipedia.org/wiki/Turkmen_Sahra
+score: 6.8
 ---
 
 Gonbad-e Kavus sits at the southern edge of the Turkmen Sahra, the steppe lands stretching north to the Turkmenistan border. This is the Iranian heart of the Turkmen people: a Sunni Muslim, Turkic-language minority whose herders have ridden the famous Akhal-Teke and Yomud horses across these grasslands for centuries. The landscape is mostly flat and treeless, punctuated by rolling hills, herds of horses and sheep, and the occasional Turkmen yurt camp during the warmer months.

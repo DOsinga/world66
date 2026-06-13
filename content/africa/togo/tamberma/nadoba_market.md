@@ -5,6 +5,7 @@ latitude: 10.087
 longitude: 1.187
 snippet: "Weekly market in the Tamberma region — produce, livestock, and local sorghum beer"
 tags: [things_to_do, market, sight]
+score: 7.2
 ---
 
 The weekly market at Nadoba — held on Wednesdays — is the major commercial gathering of the Tamberma region. Batammariba farmers come down from the surrounding hills with millet, sorghum, fonio, peanuts, peppers, goats, and chickens; traders from Kande and further afield arrive with cloth, salt, tools, and small manufactured goods. Sorghum beer (tchoukoutou) is sold in big calabashes from women's stalls along one edge.

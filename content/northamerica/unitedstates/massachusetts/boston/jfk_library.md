@@ -11,6 +11,7 @@ tags:
 title: John F. Kennedy Presidential Library and Museum
 type: poi
 url: www.jfklibrary.org
+score: 7.9
 ---
 
 I. M. Pei's stark white concrete and dark glass building, completed in 1979, sits at the tip of Columbia Point peninsula with views straight back across Dorchester Bay to the city skyline — the kind of view a young Bostonian president would have wanted for his memorial. The library holds Kennedy's papers, plus Ernest Hemingway's literary archive (an oddity arranged through Jacqueline Kennedy and Mary Hemingway).

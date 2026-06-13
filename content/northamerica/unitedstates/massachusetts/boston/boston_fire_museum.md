@@ -13,6 +13,7 @@ tags:
 title: Boston Fire Museum
 type: poi
 url: www.bostonfiremuseum.com
+score: 6.6
 ---
 
 The Boston Fire Museum houses antique fire apparatus, fire alarm displays, artifacts, photo displays, and firefighting equipment. The museum occupies a restored 1891 firehouse in the Fort Point neighborhood, close to South Station — about a five to ten minute walk. Open Fridays from April through October, 10am to 4pm.

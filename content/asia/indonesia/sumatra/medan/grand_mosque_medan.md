@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "One of the largest and most beautiful mosques in Indonesia, built in 1906 for the Sultan of Deli"
 latitude: 3.5751
 longitude: 98.6873
+score: 7.9
 ---
 
 The Grand Mosque of Medan, known as Masjid Raya Al-Mashun, was built in 1906 as the official mosque of the Sultanate of Deli — funded by the Sultan from tobacco revenues at the height of Deli's prosperity. The building's architecture blends Islamic, Moorish, Indian, and Malay elements, with five octagonal domes and a large prayer hall surrounded by wide verandas.

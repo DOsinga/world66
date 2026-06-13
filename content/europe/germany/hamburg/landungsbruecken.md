@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.9
 ---
 
 The Landungsbrücken — landing bridges — is the great floating pontoon along the north bank of the Elbe where harbour ferries and tour boats tie up. The 700-metre line of mooring piers rises and falls with the tide and is fronted by a long Art Nouveau and Imperial pavilion built between 1907 and 1911, with twin towers at the western end.

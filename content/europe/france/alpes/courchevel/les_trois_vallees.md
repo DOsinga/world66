@@ -7,6 +7,7 @@ tags:
 latitude: 45.35
 longitude: 6.6
 story: "With 600 kilometres of marked piste connected by 150-odd lifts, the Trois Vallées is the largest linked ski area in the world. A determined skier can start the morning above Courchevel and have lunch in Val Thorens, an entire valley away, without taking off their skis."
+score: 9.4
 ---
 
 Les Trois Vallées — the Three Valleys — is the headline reason most people come to Courchevel. The system links Courchevel, Méribel, and Val Thorens, plus a clutch of smaller resorts, into a single ticketed area covering some 600 kilometres of marked piste. It is the largest linked ski domain in the world.

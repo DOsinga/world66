@@ -8,6 +8,7 @@ latitude: 31.3820
 longitude: 75.3790
 sources:
   - https://www.incredibleindia.gov.in/en/punjab/kapurthala/panch-mandir
+score: 6.4
 ---
 
 The Panch Mandir — literally "five temples" — is a group of five small Hindu temples built within a single compound and dedicated to different deities. It is one of the few major Hindu religious sites in Kapurthala, which is otherwise dominated by the architectural experiments of the Muslim and European-influenced maharajas. The compound is shaded by old trees and has the quiet, maintained atmosphere of a place that people actually use for worship rather than tourism.

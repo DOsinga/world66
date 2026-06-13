@@ -14,6 +14,7 @@ tags:
   - museum
 title: Museum of Wooden Architecture and Peasant Life
 type: poi
+score: 8.4
 ---
 
 On the southern edge of town, across the river from the Kremlin, the Museum of Wooden Architecture is an open-air collection of traditional Russian buildings gathered from across the Vladimir region. Log churches, peasant houses, mills, and outbuildings have been dismantled at their original sites and reassembled here on a meadow beside the Kamenka — a snapshot of rural Russian life before industrialisation erased it.

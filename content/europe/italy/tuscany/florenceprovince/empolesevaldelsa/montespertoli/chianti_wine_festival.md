@@ -7,6 +7,7 @@ tags:
 latitude: 43.6437
 longitude: 11.0753
 snippet: "Annual wine festival in June drawing producers from across the Chianti DOC zone"
+score: 7.9
 ---
 
 The Mostra del Chianti Classico di Montespertoli, held each June (usually the second or third weekend), is one of the oldest wine festivals in Tuscany and the main event on the Montespertoli calendar. Producers from across the Chianti DOC zone bring their wines for tasting, the town's streets fill with market stalls, and the piazza hosts cooking demonstrations and live music.

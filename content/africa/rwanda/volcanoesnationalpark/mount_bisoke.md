@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mount_Bisoke
 story: >
   Mount Bisoke is an active stratovolcano — its last eruption was in 1957 and geologists consider it potentially active still, with fumaroles visible at the crater rim. The volcano forms the border between Rwanda and the DRC; the crater lake sits exactly on the frontier. During the genocide of 1994, the mountain was a frontline, and burned villages in the DRC were visible from the summit for years afterward. Today it is serene, the lake deep blue, the border unmarked.
+score: 8.6
 ---
 
 The hike to the summit of Mount Bisoke (3,711m) is the best day's walking in the Virungas available to trekkers. The trail leaves from the same Kinigi trailhead as the gorilla treks, climbing steeply through bamboo forest, then through hagenia woodland, and finally up bare volcanic slopes to the summit crater. The round trip takes six to eight hours. At the rim, a perfectly circular crater lake — deep blue-green and surrounded by cloud forest — makes the effort worthwhile.

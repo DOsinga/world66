@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7788
 longitude: 140.7826
+score: 7.4
 ---
 
 Yunokawa Onsen is Hokkaido's oldest hot spring resort, located on the eastern edge of Hakodate where the Matsukura River meets the sea. The hot spring district has been welcoming visitors since the 17th century, and the water — alkaline bicarbonate sodium, around 47°C — has a notably soft, smooth quality good for the skin. Several of Hakodate's larger ryokan and hotel onsen facilities are concentrated here, and the public bath houses are straightforwardly inexpensive.

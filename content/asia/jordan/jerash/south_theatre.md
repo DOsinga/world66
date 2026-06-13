@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The South Theatre seats 3,000 and has acoustics that still work: a whisper from the stage can be heard clearly at the top tier. The theatre was built in the 1st century AD and was so well designed that it required no amplification technology — the curved cavea and the smooth stone of the stage wall do the work. Local musicians have been known to give impromptu performances to demonstrate the effect.
+score: 8.2
 ---
 
 The South Theatre is the larger and better-preserved of Jerash's two Roman theatres, built in the first century AD and capable of seating around 3,000 spectators. Its curved tiers of limestone seating are largely intact, and the stage building behind the orchestra — the scaenae frons — retains several of its original columns.

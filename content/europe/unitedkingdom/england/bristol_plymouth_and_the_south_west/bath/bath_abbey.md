@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The west front features carved stone angels climbing up and down two ladders, inspired by a dream that Bishop Oliver King had in 1499. King dreamt of angels ascending to heaven on ladders, and interpreted it as a divine command to rebuild the church. The ladders and angels remain one of the most distinctive church facades in England.
+score: 8.9
 ---
 
 The last great medieval church built in England, Bath Abbey dominates the city centre with its soaring Perpendicular Gothic windows. The interior is remarkable for its fan-vaulted ceiling, one of the finest in the country, and the sheer amount of light that pours through the enormous stained glass windows — earning it the nickname "the Lantern of the West."

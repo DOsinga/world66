@@ -8,6 +8,7 @@ latitude: 40.7378
 longitude: -84.1121
 story: >
   Nickel Plate No. 779, the last steam locomotive built at the Lima Locomotive Works, was delivered on 13 May 1949 — just as the age of diesel was making steam locomotives obsolete. Lima closed its locomotive plant in 1981, and the 779 stands in Lincoln Park as a monument to the industry that defined the city.
+score: 6.3
 ---
 
 Lincoln Park sits along the Ottawa River in the south of downtown Lima and combines green space with a small railway heritage exhibit. The centrepiece is Nickel Plate 779, the last steam locomotive built by Lima Locomotive Works, delivered in May 1949 and now preserved on display alongside information about the plant's history.

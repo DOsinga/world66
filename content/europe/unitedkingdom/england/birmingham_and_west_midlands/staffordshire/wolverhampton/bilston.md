@@ -15,6 +15,7 @@ story: >
   workshops.
 sources:
   - https://en.wikipedia.org/wiki/Bilston
+score: 5.8
 ---
 
 Bilston, now part of the metropolitan borough of Wolverhampton but historically its own town, sits a few miles south-east of the city centre and has a long industrial past in ironworking, japanning, and enamel production. It is not a pretty place, but for anyone interested in the Black Country's craft heritage, it has genuine historical significance.

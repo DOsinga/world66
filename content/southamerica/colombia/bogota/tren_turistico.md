@@ -7,6 +7,7 @@ tags:
 latitude: 4.6559
 longitude: -74.0829
 snippet: "Steam-hauled heritage train to Zipaquirá or Cajicá from La Sabana station"
+score: 6.4
 ---
 
 On Sundays and holidays, a steam-hauled heritage train departs from the old La Sabana station west of the city centre on excursions to Zipaquirá (for the salt cathedral) and the colonial town of Cajicá. The journey takes about two hours each way and passes through the flat savanna that surrounds Bogota.

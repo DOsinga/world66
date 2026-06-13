@@ -8,6 +8,7 @@ tags:
   - mountain
 latitude: 54.6123
 longitude: -3.1179
+score: 7.5
 ---
 
 The grassy hill on the north-eastern edge of town is the easiest of the Keswick fells: a 368 m bump rather than a mountain, with a path up its southern flank from the suburb of Briar Rigg. The view from the summit — Derwentwater fanning out beneath, with Borrowdale curling away to the south — is one of the best in the Lakes for the effort involved.

@@ -8,6 +8,7 @@ tags:
 title: Pez Dorado
 type: poi
 snippet: Long-standing Chinese-Dominican restaurant on the Calle del Sol
+score: 5.5
 ---
 
 Pez Dorado has been on the Calle del Sol since 1965 and is something of a Santiago institution — a classic Chinese-Dominican kitchen serving Cantonese standards alongside criollo dishes. The dining room is large, the booths and decor unapologetically 1970s, and the regulars include local politicians and businesspeople.

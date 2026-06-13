@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - midtown
   - bar
+score: 6.2
 ---
 
 The Lamplighter Lounge has been on Madison Avenue since 1977, and it has not changed much in that time. Low-lit, a little worn, with a pool table and a jukebox and cheap drinks poured without ceremony — it is the kind of bar that serves the neighborhood and does not particularly chase anyone else. Midtown residents have been coming here for decades; new ones discover it and become regulars. The absence of tourist infrastructure is part of the appeal.

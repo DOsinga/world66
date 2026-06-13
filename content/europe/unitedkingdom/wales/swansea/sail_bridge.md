@@ -8,6 +8,7 @@ tags:
 latitude: 51.6200
 longitude: -3.9389
 neighbourhood: Maritime Quarter
+score: 6.4
 ---
 
 The Sail Bridge is a pedestrian and cycle crossing of the River Tawe, opened in 2003 with a single 42-metre mast leaning over the river and twenty-six steel cables fanning down to support the deck. By night it is floodlit and reflects in the water, one of the more photogenic pieces of contemporary architecture in the city.

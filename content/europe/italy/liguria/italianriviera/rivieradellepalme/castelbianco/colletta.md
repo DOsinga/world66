@@ -13,6 +13,7 @@ story: >
   wired for fibre-optic internet, making it one of the world's first "tele-villages." The idea 
   was to attract remote workers and artists. Colletta became a minor footnote in the history of 
   the internet and a major footnote in the history of Italian rural restoration.
+score: 8.7
 ---
 
 Colletta di Castelbianco is the most unusual and interesting feature of the commune — a medieval village perched on a hilltop above the valley that was completely abandoned by the 1950s as the population left for the cities. In the 1990s it was restored as what its creators called a "tele-village": every house rewired for satellite broadband, designed to attract professionals who could work remotely from a restored medieval setting in the Ligurian hills.

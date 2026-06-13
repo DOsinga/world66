@@ -8,6 +8,7 @@ tags:
   - surfing
 latitude: 32.3360
 longitude: -9.2720
+score: 7.2
 ---
 
 Cap Beddouza is a dramatic Atlantic headland 11 km north of Safi, with a lighthouse on the cliff edge and wild surf breaking against the rocks below. The beaches either side of the cape are long, exposed, and largely empty — serious surf country, not swimming beaches. On clear days you can see back south along the coast to Safi and north toward Essaouira.

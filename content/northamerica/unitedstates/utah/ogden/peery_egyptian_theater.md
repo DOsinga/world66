@@ -9,6 +9,7 @@ latitude: 41.2218
 longitude: -111.9709
 sources:
   - https://en.wikipedia.org/wiki/Peery%27s_Egyptian_Theater
+score: 7.9
 ---
 
 One of the finest surviving movie palaces in the American West, Peery's Egyptian Theater opened in 1924 and went full Egyptomania — the Egyptian Revival architecture was at the peak of its craze following the discovery of Tutankhamun's tomb in 1922. The exterior features pharaonic columns, lotus capitals, and hieroglyphic-style decoration, and the interior is even more lavish, with painted ceilings, gilded ornaments, and a ceiling sky that once simulated stars.

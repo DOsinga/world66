@@ -7,6 +7,7 @@ tags:
 latitude: 46.8155
 longitude: -71.2148
 snippet: The local institution for poutine, with multiple locations across the city
+score: 6.5
 ---
 
 The defining Québec City poutine chain, founded in 1969 by Ashton Leblond — who is credited with inventing the poutine format as it's now understood (fries, cheese curds, gravy). Chez Ashton has become something between a regional institution and a fast-food chain, with locations across the greater Québec City area. The quality is consistent and the poutine is legitimately good: proper fresh cheese curds, thick gravy applied generously, and fries cooked to order.

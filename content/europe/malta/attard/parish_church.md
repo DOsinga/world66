@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 The Parish Church of St Mary stands at the heart of the old village core of Attard, the finest Renaissance church on Malta. It was built between 1613 and 1624 to designs by the Maltese architect Tumas Dingli, who used the local globigerina limestone to striking effect.

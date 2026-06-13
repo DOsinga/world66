@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.882
 longitude: 121.585
+score: 6.0
 ---
 
 Number 5 Creative Park is a converted industrial complex in the Jiangdong district that has been redeveloped into a hub for design studios, galleries, restaurants, and creative businesses. The buildings are former factory and warehouse structures from the 1950s and 1960s, and the conversion has retained the industrial aesthetic — exposed brick, steel roof trusses, concrete floors — while filling them with the kind of artisanal coffee, design retail, and studio spaces found in similar post-industrial conversions in creative cities worldwide.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 34.1670
 longitude: -94.7300
+score: 5.9
 ---
 
 Hochatown is the unincorporated strip just north of Broken Bow along Highway 259 that has become the de facto tourist town for the area. It is essentially a row of cabin-rental offices, restaurants, distilleries, and outdoor outfitters serving the steady flow of visitors heading to Beavers Bend.

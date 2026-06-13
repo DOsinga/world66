@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.217056
 longitude: 12.27725
+score: 7.0
 ---
 
 The Duomo of Chioggia stands at the southern end of the old town, set back behind a small piazza. The current building dates to the 17th century, designed by Baldassare Longhena — the architect of Venice's Santa Maria della Salute — after a fire destroyed the medieval church on the same site in 1623.

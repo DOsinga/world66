@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "At 51 feet and 10 inches end to end, Queen Charlotte Street is officially the shortest street in Britain. It is also one of the most photographed — a narrow gap between the Crooked House and the Guildhall, lined with shop windows, leading nowhere in particular."
+score: 4.2
 ---
 
 Queen Charlotte Street is a small piece of trivia near Windsor Castle: officially recognised as the shortest named street in Britain, at just 51 feet and 10 inches (15.8 metres) from end to end. It runs between the High Street and the Castle Hill, hemmed in by the Crooked House on one side and the Guildhall on the other.

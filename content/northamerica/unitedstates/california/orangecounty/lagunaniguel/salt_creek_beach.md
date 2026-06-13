@@ -8,6 +8,7 @@ tags:
 latitude: 33.4826
 longitude: -117.7209
 snippet: "South Orange County beach popular for surfing and accessible by trail from Laguna Niguel"
+score: 7.6
 ---
 
 Salt Creek Beach is the closest ocean beach to Laguna Niguel, about four kilometres south of the city centre via Crown Valley Parkway. The beach is well-known for surfing — the point break at the southern end produces reliable waves that attract experienced surfers, and the more sheltered northern section is suitable for beginners and swimmers. The beach is wide and sandy, with a park and facilities at the top of the bluff.

@@ -9,6 +9,7 @@ latitude: 39.0464
 longitude: -94.5800
 story: >
   Outside the museum, four giant shuttlecocks — each standing 18 feet tall and weighing 5,500 pounds — lie scattered on the lawn as if a giant had abandoned a badminton game mid-play. Created by Claes Oldenburg and Coosje van Bruggen in 1994, they have become one of the most photographed public artworks in the country, the unlikely face of a serious institution.
+score: 9.3
 ---
 
 The Nelson-Atkins Museum of Art is one of the finest art museums in the United States, and it's free. The permanent collection spans 35,000 works across 5,000 years — from ancient Egyptian artefacts to Impressionist paintings to the largest collection of Henry Moore bronzes in the world. The new Bloch Building, a dramatic glass-and-translucent-wall extension by architect Steven Holl, is worth a visit in itself, particularly at night when it glows.

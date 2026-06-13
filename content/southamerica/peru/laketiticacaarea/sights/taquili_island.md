@@ -8,6 +8,7 @@ tags:
 - story
 latitude: -15.7667
 longitude: -69.6833
+score: 8.6
 ---
 
 Taquile is a small, steep-sided island in Lake Titicaca where Quechua-speaking islanders maintain a social order unlike anywhere else in Peru. Clothing signals everything: married men wear red-and-white knitted caps, single men wear white ones with floppy tips, and the quality of a man's knitting is genuinely assessed by prospective in-laws. UNESCO recognized Taquile's textile art as an Intangible Cultural Heritage in 2005.

@@ -9,6 +9,7 @@ tags:
 - theatre
 title: Banco do Brasil Cultural Center
 type: poi
+score: 7.8
 ---
 
 One of Rio's best cultural venues, housed in a grand neoclassical building in Centro. Two theatres, four exhibition halls, a library, auditorium, cinema and a bookshop. The rotating exhibitions are consistently excellent and admission is usually free. Located near Candelaria Church and Casa Franca-Brasil.

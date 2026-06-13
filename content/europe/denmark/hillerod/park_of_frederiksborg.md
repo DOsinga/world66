@@ -9,6 +9,7 @@ tags:
   - park
   - architecture
 snippet: Baroque terrace garden on a hillside facing the castle
+score: 7.9
 ---
 
 The Park of Frederiksborg Castle stretches north and west of the castle on a hillside that gives the best long views of the building. The baroque terrace garden directly north of the castle was laid out in 1720 by Johan Cornelius Krieger, swept away in the 19th century, and meticulously restored in 1996 to its early-eighteenth-century geometry — clipped yew pyramids, parterres in box hedge, fountains, and the royal monograms cut into the lawn.

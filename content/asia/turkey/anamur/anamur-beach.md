@@ -5,6 +5,7 @@ latitude: 36.057
 longitude: 32.847
 snippet: "A long sandy stretch running southeast from town toward Mamure Castle"
 tags: [beaches, beach]
+score: 6.8
 ---
 
 Anamur Beach extends for several kilometres southeast of the town along the coast road toward Mamure Castle. The sand here is a mix of coarse golden grains and fine gravel, the water is a consistent deep blue, and the Taurus Mountains form a backdrop to the north. The beach is rarely crowded — the absence of large hotels keeps visitor numbers low even in July and August.

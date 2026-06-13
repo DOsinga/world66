@@ -3,6 +3,7 @@ title: Souffleur Beach
 type: poi
 latitude: 16.3050
 longitude: -61.0800
+score: 8.0
 ---
 
 Souffleur is the main beach on the southwestern end of La Désirade, and one of the few genuinely flat, sandy beaches on an island that is otherwise rocky and cliffy. The water is calm and clear, sheltered from the Atlantic by the reef offshore, and the sand is white and fine. On a typical weekday you may share it with a handful of people at most.

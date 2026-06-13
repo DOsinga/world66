@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8857
 longitude: 35.4944
+score: 6.9
 ---
 
 Sanayeh, officially the René Moawad Garden, is the largest urban park in central Beirut. Laid out in the 19th century as a French-style public garden, it is now a popular gathering place for families, runners, and migrant workers on their Sunday off.

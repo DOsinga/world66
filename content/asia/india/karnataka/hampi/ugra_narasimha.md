@@ -13,6 +13,7 @@ story: >
   him — but the confederation of Muslim sultans who sacked Vijayanagara
   in 1565 destroyed the Lakshmi figure. Only the outline of her arm
   remains, still visible against Narasimha's left side.
+score: 7.9
 ---
 
 The largest monolithic sculpture in Hampi: a 6.7-metre figure of Narasimha — the man-lion avatar of Vishnu — carved from a single boulder in 1528 AD. The face is terrifying, with bulging eyes and fanged teeth, and the figure sits cross-legged with a seven-headed serpent canopy spread above its head. The craftsmanship is extraordinary given the scale.

@@ -9,6 +9,7 @@ latitude: 12.7644
 longitude: 45.0542
 story: >
   Built in the late 19th century as a residence for the Sultan of Lahej, the palace was taken over by the British during the Aden Protectorate, then used as the residence of the President of South Yemen after 1967. After unification in 1990 it became an official Yemeni state guesthouse. Since 2015 it has been the seat of the internationally recognised government in Aden and has been hit by missile attacks more than once.
+score: 5.2
 ---
 
 Al-Maashiq Palace stands on a small peninsula on Aden's southeast coast, between the old town of Crater and the sea cliffs of Steamer Point. The pale stone building, with arched verandas and a red-tiled roof, is one of the few late-19th-century palace structures along the south Arabian coast.

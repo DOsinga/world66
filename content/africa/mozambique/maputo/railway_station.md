@@ -12,6 +12,7 @@ tags:
   - architecture
 neighbourhood: Baixa
 story: The station is sometimes credited to Gustave Eiffel himself, which is romantic but wrong. Eiffel had retired and his firm had no role in the design — that was the Portuguese architect Alfredo Augusto Lisboa de Lima, working with Mario Veiga and Ferreira da Costa. The Eiffel myth has been stamped on souvenirs and quoted in newspapers so often that the truth no longer matters.
+score: 9.3
 ---
 
 The **Estação Central dos Caminhos de Ferro** is Maputo's signature building and the easiest one to fall in love with. Completed in 1910, painted in pale green and white, it is a wedding cake of wrought iron, marble, palms and arcaded verandas, crowned with a copper dome. Trains still run from here — slow services to Ressano Garcia on the South African border, and the *Comboio dos Bons Sinais* tourist train at weekends — but the station is now visited as much as a building.

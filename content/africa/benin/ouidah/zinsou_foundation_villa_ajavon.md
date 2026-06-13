@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Contemporary African art museum in a restored Afro-Brazilian villa"
+score: 7.8
 ---
 
 A small but ambitious contemporary art museum, opened in 2013 by the Fondation Zinsou, the leading private supporter of contemporary art in Benin. The Villa Ajavon itself — a two-storey Afro-Brazilian mansion built in the late 19th century — is part of the experience: ornate ironwork, restored ochre stucco, courtyards used for installations.

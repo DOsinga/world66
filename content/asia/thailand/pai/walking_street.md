@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.3583
 longitude: 98.4440
+score: 7.2
 ---
 
 The Pai Walking Street occupies the main road through the centre of town from dusk until late, transforming the narrow street into a night market. Stalls sell the usual combination of traveller clothing, handmade jewellery, handicrafts, and hill tribe textiles alongside Thai food, fruit shakes, and grilled items. The atmosphere is relaxed and the crowd is a genuine mix of Thai domestic tourists and international travellers.

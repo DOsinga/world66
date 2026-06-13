@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 51.8339
 longitude: 4.1437
+score: 8.0
 ---
 
 Hellevoetsluis was designed as a fortified naval base, and its star-shaped earthwork fortifications survive largely intact — an increasingly rare thing in the Netherlands, where most fortifications were demolished during 19th- and 20th-century urban expansion. The circuit of the walls takes about 30–40 minutes to walk at a relaxed pace, with good views over the harbour basin and out toward the Haringvliet.

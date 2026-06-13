@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - theatre
+score: 7.9
 ---
 
 The Romanian National Opera shares a sumptuous neo-baroque building with the Lucian Blaga National Theatre on Piața Avram Iancu, designed by the Viennese firm Fellmer and Helmer in 1906 — the same architects responsible for several Habsburg-era theatres across Eastern Europe. The exterior is showy; the gilded auditorium inside is showier.

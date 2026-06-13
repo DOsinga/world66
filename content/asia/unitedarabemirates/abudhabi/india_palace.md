@@ -7,6 +7,7 @@ tags:
   - indian
 latitude: 24.4710
 longitude: 54.3580
+score: 6.1
 ---
 
 A reliable, slightly old-fashioned North Indian restaurant in Khalidiya with formal table service and a wide tandoor-led menu. Murgh makhani, dal makhani, mutton roganjosh, freshly baked breads — all done well, with a separate section in the menu for the Hyderabadi biryanis.

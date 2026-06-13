@@ -10,6 +10,7 @@ story: >
   Thomas Becket's trial for treason took place at Northampton Castle in 1164 — the confrontation with Henry II that led directly to Becket's flight to France and, six years later, his murder in Canterbury Cathedral. The castle also hosted multiple medieval parliaments. When the Victorians demolished it in 1879 to build a railway station, they destroyed one of the most historically significant royal castles in England.
 sources:
   - https://en.wikipedia.org/wiki/Northampton_Castle
+score: 4.5
 ---
 
 Almost nothing remains of Northampton Castle, which was one of the most important royal castles in medieval England — it hosted parliaments, served as a prison, and was the site of Thomas Becket's trial before Henry II. The Victorians demolished the majority of it in 1879 to build the railway station that now occupies the site.

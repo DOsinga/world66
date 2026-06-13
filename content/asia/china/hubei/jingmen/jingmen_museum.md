@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.0350
 longitude: 112.2072
+score: 6.8
 ---
 
 The Jingmen Museum covers the regional history of the prefecture with a particular focus on the Chu and Han periods — the eras when this part of central China was among the most culturally active in the ancient world. The collection includes bronzes, lacquerware, and ceramics from the Warring States period and the Han dynasty, much of it excavated from tombs in the surrounding countryside that the Jingmen region has produced in large numbers.

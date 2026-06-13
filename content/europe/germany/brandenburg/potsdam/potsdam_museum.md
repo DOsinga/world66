@@ -8,6 +8,7 @@ latitude: 52.3944
 longitude: 13.0613
 sources:
   - https://en.wikipedia.org/wiki/Potsdam_Museum
+score: 7.1
 ---
 
 The Potsdam Museum on the Old Market Square is the main civic museum for the city, covering the history of Potsdam from its origins as a Slavic settlement through its rise as a Prussian royal residence to the present day. The permanent collection includes paintings, maps, and artefacts documenting the city's development across five centuries, with particular attention to the 18th-century transformation under Frederick William I and Frederick the Great.

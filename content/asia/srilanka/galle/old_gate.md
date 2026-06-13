@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.027900
 longitude: 80.219000
+score: 7.6
 ---
 
 Before the British cut the larger Main Gate in 1873, the Old Gate on the eastern side of the fort was the only entrance — a low arched passage facing the harbour through which everything and everyone had to pass. Above the gate on the outside, the British coat of arms was carved over the original Dutch one; on the inside, the VOC monogram — the entwined letters of the Dutch East India Company — is still clearly visible.

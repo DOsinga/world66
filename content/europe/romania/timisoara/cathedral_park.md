@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.9
 ---
 
 Cathedral Park (Parcul Catedralei) wraps around the base of the Orthodox Cathedral at the southern end of Victory Square — a small but well-kept formal park with rose beds, lawns, and a fountain. The park forms the transition between the Victory Square axis and the green corridor along the Bega Canal further south.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu de Artes e Ofícios
 type: poi
+score: 8.6
 ---
 
 The Museu de Artes e Ofícios occupies the old central railway station on Praça Rui Barbosa and is one of the most thoughtfully curated museums in the country. The collection — more than 2,000 objects — covers the trades, crafts, and ways of working that built pre-industrial Brazil: blacksmithing, weaving, leatherwork, ceramics, woodturning, and a dozen others.

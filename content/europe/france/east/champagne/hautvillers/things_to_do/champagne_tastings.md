@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.085
 longitude: 3.9444
+score: 8.4
 ---
 
 Several small récoltant-manipulant (grower-producer) champagne houses in Hautvillers offer tastings directly from the producer. These are not the grandes maisons of Epernay — they are family operations making champagne from their own vineyards, typically without appointment, in cellars you can walk down into. The champagnes tend to be more site-specific and expressive than branded products.

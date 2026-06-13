@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, park]
 latitude: 38.65668
 longitude: -27.218622
+score: 6.8
 ---
 
 The Jardim Duque da Terceira is the main public garden in the center of Angra, a formal 19th-century layout of paths, exotic trees, and a bandstand enclosed by old walls. The garden occupies the site of a former convent and retains a sense of enclosure that makes it feel like a room in the city rather than a civic afterthought. In the afternoon, when the sun gets serious, it's one of the better places in Angra to sit under shade.

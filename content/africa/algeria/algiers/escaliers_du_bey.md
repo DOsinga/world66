@@ -6,6 +6,7 @@ longitude: 3.0570
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Escaliers du Bey — the Bey's Stairs — are one of the principal pedestrian routes through the Casbah, a long staircase connecting the port area to the upper levels of the old city. The stairs are narrow, lined by whitewashed walls, and offer glimpses into the lives of the neighbourhood: laundry, children, cats, occasional conversation through open doorways.

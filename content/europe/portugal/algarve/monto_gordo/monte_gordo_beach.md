@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - beach
 story: Monte Gordo's beach is flat, wide, and backed by low dunes rather than cliffs — which makes it unusual in an Algarve dominated by dramatic rock formations. The shallow gradient of the seafloor and the sheltered position near the mouth of the Guadiana River mean the water temperature consistently runs a degree or two warmer than at beaches further west. Portuguese and Spanish families have been coming here for generations precisely because of this, and the beach's infrastructure — pedalo hire, umbrellas, lifeguards all summer — reflects that long domestic tradition.
+score: 7.3
 ---
 
 Monte Gordo's beach is one of the longest on the Algarve coast: a near-flat nine-kilometre arc of pale sand that extends east toward the mouth of the Guadiana River and the Spanish border. The sea here is measurably warmer than at beaches further west — typically around 22–25°C in midsummer — because of the shallower gradient and the geography of the estuary nearby.

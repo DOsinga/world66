@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 12.1581
 longitude: -86.2780
+score: 6.4
 ---
 
 The Puerto Salvador Allende development on the lake shore has a strip of open-air bars and restaurants that operate in the evenings and are at their best on weekend nights. They range from simple cervecerías serving cold Victoria beer and bar snacks to larger establishments with live music — marimba, salsa, or local rock bands depending on the night.

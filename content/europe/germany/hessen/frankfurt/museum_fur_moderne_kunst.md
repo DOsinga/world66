@@ -5,6 +5,7 @@ tags: [things_to_do, museum, altstadt]
 latitude: 50.1117
 longitude: 8.6847
 story: The architect Hans Hollein nicknamed his triangular 1991 building the "slice of cake" — a description so apt it has stuck to the museum ever since. Every gallery is an irregular shape, which forces curators into improvising installations that would never work in a rectangular room.
+score: 8.2
 ---
 
 The MMK is Frankfurt's contemporary art museum and one of the best in Germany. Hans Hollein's striking 1991 building, in the shape of a triangular wedge, sits at the eastern edge of the Altstadt and houses a permanent collection that focuses on art from 1960 to the present — strong holdings in pop art (Lichtenstein, Warhol, Oldenburg), the Düsseldorf school (Beuys, Polke, Richter), and a serious international contemporary collection.

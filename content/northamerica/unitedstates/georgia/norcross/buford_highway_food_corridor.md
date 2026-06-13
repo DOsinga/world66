@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, sight]
 latitude: 33.9230
 longitude: -84.2050
+score: 8.1
 ---
 
 Buford Highway running north from Atlanta through Doraville and into Gwinnett County is one of the most celebrated strips of international food in the United States — a stretch of suburbs that has been transformed by successive waves of immigration into an astonishing concentration of restaurants representing dozens of cuisines. The section near Norcross, around Jimmy Carter Boulevard, is especially dense with Vietnamese, Korean, Chinese, and Latin American options.

@@ -5,6 +5,7 @@ snippet: Guided 2-hour walks after dark in private reserves around Santa Elena â
 tags: [things_to_do, activity, wildlife]
 latitude: 10.3138
 longitude: -84.8146
+score: 7.8
 ---
 
 Most of the cloud forest's mammals and amphibians are nocturnal, and a guided night walk is the easiest way to see them. Several operators run them on private reserves around Santa Elena, typically a two-hour loop with torches and a naturalist guide who knows where to look.

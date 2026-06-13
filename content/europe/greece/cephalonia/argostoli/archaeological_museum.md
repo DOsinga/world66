@@ -12,6 +12,7 @@ story: >
   been sealed for three thousand years. Destruction and discovery arrived
   simultaneously — the disaster that erased most of Argostoli also revealed the
   Mycenaean civilisation that had flourished here long before the Greeks.
+score: 7.0
 ---
 
 The Archaeological Museum of Argostoli holds the most important collection of antiquities from Cephalonia, covering the island's long history from prehistoric times through the Roman period. The Mycenaean collection is particularly strong: bronze weapons, jewellery, vases, and objects recovered from chamber tombs demonstrate that Cephalonia was a prosperous and well-connected Bronze Age settlement. Some researchers have connected the island's Mycenaean remains to the legends of Odysseus, who is said to have been king of this region.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Oberon's
 type: poi
+score: 5.8
 ---
 
 Oberon's on 2nd Street is Eureka's best cocktail bar, occupying a Victorian-era commercial space that suits the drinks program well. The bar focuses on classic cocktails and straightforward execution — no elaborate foam or smoke, just properly made drinks in a room with good bones.

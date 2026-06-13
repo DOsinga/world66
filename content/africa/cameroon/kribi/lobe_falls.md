@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
 story: "The Lobé Falls are sacred to the Batanga and Mabea peoples, who hold cleansing ceremonies in the spray where the river hits the sea. The falls are listed on UNESCO's tentative World Heritage list precisely because there are only a handful of places on Earth where a river drops directly into the ocean — Iceland's Skógá, Antarctica's Cougar Falls, and here."
+score: 8.9
 ---
 
 About eight kilometres south of Kribi, the Lobé River reaches the coast and tumbles directly into the Atlantic in a series of broad cascades. It is one of the very few places in the world where a waterfall empties straight into the sea, and the effect is genuinely strange: fresh water and salt water mixing in the spray, fishermen working pirogues in the surf at the foot of the drops.

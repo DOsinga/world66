@@ -10,6 +10,7 @@ latitude: 35.1913
 longitude: -114.0513
 sources:
   - https://en.wikipedia.org/wiki/Bonelli_House
+score: 6.4
 ---
 
 The Bonelli House at the corner of Fifth and Spring Streets is Kingman's finest surviving example of early-twentieth-century domestic architecture. Built in 1915 for prosperous merchant George Bonelli, the two-storey house features a mix of Territorial and Victorian elements — wide wrap-around porch, decorative woodwork, and native tufa stone construction that kept the interior cool in Kingman's fierce summers.

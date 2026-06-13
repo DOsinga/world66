@@ -8,6 +8,7 @@ tags:
 - market
 title: Depachika (Department Store Food Halls)
 type: poi
+score: 8.8
 ---
 
 "Depachika" — from "depato" (department store) and "chika" (underground) — refers to the basement food halls of Tokyo's major department stores, which operate at a level of quality and variety that no other city in the world matches. These are not supermarkets with fancy packaging. They are curated collections of Japan's best regional foods, confectionery, prepared dishes, sushi, grilled fish, and baked goods, presented as carefully as jewellery.

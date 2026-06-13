@@ -8,6 +8,7 @@ tags:
 - day_trip
 title: Djebel Tazzeka National Park
 type: poi
+score: 7.5
 ---
 
 **Djebel Tazzeka National Park** surrounds the 1,980-metre peak of the same name about 30 kilometres southwest of Taza, covering cedar forest, cork oak, and rocky mountain terrain typical of the northern Middle Atlas. The park was established partly to protect the cedar forest and partly because the area around the summit provides exceptional views across both the Rif and the Middle Atlas on clear days.

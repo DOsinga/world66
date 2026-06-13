@@ -7,6 +7,7 @@ tags:
 - sight
 title: Preah Ang Chek Preah Ang Chorm Shrine
 type: poi
+score: 4.5
 ---
 
 **The Preah Ang Chek Preah Ang Chorm Shrine** is a small but locally important religious site near the centre of Siem Reap, housed in a simple pavilion beside a pond. Two gilded standing Buddha figures — Preah Ang Chek and Preah Ang Chorm — are among the most revered in Cambodia, drawing a constant stream of local worshippers who come to pray, leave offerings of incense and flowers, and tie white strings around their wrists as blessings. The atmosphere is genuinely devotional rather than tourist-oriented.

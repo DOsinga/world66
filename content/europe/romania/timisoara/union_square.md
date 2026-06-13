@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The square's two facing cathedrals — Catholic and Serbian Orthodox — are not coincidence. The Habsburgs built them simultaneously in the 1740s to declare the equal standing of the two Christian communities that had returned to Timisoara after a century and a half of Ottoman rule. The square between them was deliberately left wide so that processions from each church could meet, mingle and part again without losing face."
+score: 9.0
 ---
 
 Union Square (Piata Unirii) is the most beautiful of Timisoara's three central squares — a large rectangular open space surrounded on all sides by Baroque palaces in pale yellow, pink and green stucco. The Roman Catholic Dome of St. George dominates the northern side and the Serbian Orthodox Cathedral the southern, facing each other across the cobbles.

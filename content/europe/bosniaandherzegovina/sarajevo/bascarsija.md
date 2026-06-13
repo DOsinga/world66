@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   The name Baščaršija comes from the Turkish "başçarşı" meaning "main market." It was established by Ottoman governor Gazi Husrev-beg in 1531, and many of the guild divisions he set up — with streets dedicated to specific crafts — are still legible in the street names today: Kazandžiluk (Coppersmiths' Street) still has coppersmiths.
+score: 9.7
 ---
 
 Baščaršija is the Ottoman heart of Sarajevo — a quarter of cobblestone lanes, courtyard mosques, copper workshops, and cafes that has been trading since the 16th century. It is touristy in places but not fake; this is a living market quarter, not a reconstruction, and the coppersmiths still hammer out džezva coffee pots and round trays the way they have for centuries.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Halles Castellane
 type: poi
+score: 6.8
 ---
 
 The covered market at the corner of Rue de la Loge and Rue des Étuves dates from the 1850s — a wrought-iron-and-glass hall in the spirit of the old Halles in Paris. Inside, around two dozen stalls sell oysters from the Bassin de Thau, Pic Saint-Loup wines, southern French cheeses, charcuterie, and produce from the Hérault.

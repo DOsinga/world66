@@ -7,6 +7,7 @@ address: Saidpur Village
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Khyber Pass is a Pashtun restaurant in Saidpur Village specialising in the heavy meat dishes of the north-west: chapli kebab, mutton ribs grilled over open charcoal, namkeen gosht (literally "salted meat" — lamb cooked with nothing but salt and its own fat). The terrace looks out over the village rooftops to the Margalla Hills.

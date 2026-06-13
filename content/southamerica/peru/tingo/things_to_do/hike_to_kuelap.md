@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: -6.3904
 longitude: -77.9417
+score: 8.2
 ---
 
 The 10-kilometre trail from Old Tingo to Kuélap is a serious climb — the path rises over 1,000 metres through cloudforest — but it rewards those who make it with a gradual appreciation of the landscape the Chachapoyas chose to defend. Allow three to five hours depending on fitness. The trail begins behind the village and follows the ridgeline up; local guides can be arranged in the village for those who want company or reassurance on the route.

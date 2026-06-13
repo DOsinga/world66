@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 35.8991
 longitude: 14.5131
+score: 6.6
 ---
 
 Cafe Cordina on Republic Street has been the grandest cafe in Valletta since 1837, facing St George's Square from a Baroque palazzo. The interior is high-ceilinged, ornate, and self-consciously traditional — mirrors, painted panels, marble counters — and the cafe has been supplying Valletta's political and professional class with coffee and pastries for nearly two centuries. The outdoor tables on the square are the best in Valletta for watching the city go by.

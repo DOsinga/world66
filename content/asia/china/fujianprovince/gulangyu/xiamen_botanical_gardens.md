@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.4550
 longitude: 118.0917
+score: 6.7
 ---
 
 The Xiamen Botanical Garden is on the mainland rather than on Gulangyu, but it is close enough to the ferry terminals to combine with an island visit for those who want a quiet afternoon away from the heritage crowds. The garden covers a substantial hillside area with good collections of tropical and subtropical species, a cactus house, and a bonsai section that is among the better examples in China. The hillside trails provide views over the city and the strait.

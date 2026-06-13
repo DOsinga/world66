@@ -6,6 +6,7 @@ latitude: 43.6762
 longitude: -72.8109
 story: >
   Gifford Woods contains one of the last remaining old-growth hardwood forests in Vermont — a tiny remnant of the forest that once covered the entire state before 19th-century agriculture cleared most of it. The trees in the old-growth section are 300 to 400 years old, with sugar maples and yellow beeches that would have been saplings when the Pilgrims arrived in Massachusetts.
+score: 7.1
 ---
 
 Gifford Woods State Park sits at the base of Pico Peak, less than 3km from the Killington Access Road, and contains one of the most accessible and beautiful campgrounds in Vermont. The park is best known for its old-growth hardwood stand — a small grove of ancient maple, beech, and ash on the eastern edge of the park that has never been logged. The contrast with the second-growth forest surrounding it is dramatic even to an untrained eye.

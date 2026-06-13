@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Restored 17th-century townhouse-museum displaying Flemish paintings in period rooms
+score: 8.0
 ---
 
 A pair of merged seventeenth-century townhouses where the wealthy mayor Nicolaas Rockox and the still-life painter Frans Snijders once lived as neighbours. The houses have been restored to their seventeenth-century appearance and used as a setting for the Royal Museum of Fine Arts collection while the main museum was closed — works by Rubens, Van Dyck, Snijders, Bruegel the Younger, and others, hung in rooms with period furniture exactly as a collector of the time would have displayed them.

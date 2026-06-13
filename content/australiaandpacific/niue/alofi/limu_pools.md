@@ -12,6 +12,7 @@ story: >
   60 metres, making it one of the clearest ocean environments in the world. The island
   is also home to large numbers of yellow-lipped sea kraits, the banded sea snakes that
   glide through the reef. They are highly venomous but entirely non-aggressive.
+score: 8.6
 ---
 
 The Limu Pools are a set of natural rock pools and reef channels on Niue's northwest coast, considered among the island's best snorkelling spots. The pools sit at the base of the coastal cliffs and are protected enough to enter safely in calm conditions; the coral formations inside are excellent and the fish life is prolific. Blue-banded sea kraits — the island's famous sea snakes — are frequently seen here.

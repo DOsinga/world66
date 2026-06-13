@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 7.2
 ---
 
 The covered market of Metz sits in an 18th-century stone building right next to the cathedral, originally built as a bishop's palace and converted to a market hall in 1831. Inside, around 40 stalls sell the best of Lorraine produce — Mirabelle plums and their distilled eau-de-vie, quiche lorraine, charcuterie, regional cheeses, and fresh fruit and vegetables from the surrounding farms.

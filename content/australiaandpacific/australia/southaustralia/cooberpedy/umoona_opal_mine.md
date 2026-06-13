@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 story: "The Umoona has been a working mine since 1920. Today the public sections are a museum but parts of the same hill are still mined commercially — opal seams worth chasing are often found within metres of the tour route."
+score: 8.0
 ---
 
 The Umoona Opal Mine and Museum on Hutchison Street is the right first stop in Coober Pedy. The combined attraction includes a walk-through opal mine, displays on the geology and history of mining in the area, a small Aboriginal cultural exhibit, and a furnished underground house showing how locals live. Guided tours run several times a day in season.

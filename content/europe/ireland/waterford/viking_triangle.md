@@ -9,6 +9,7 @@ longitude: -7.1065
 snippet: "The preserved heart of Viking and medieval Waterford — three museums, city walls, and medieval streets in a compact area"
 sources:
   - https://en.wikipedia.org/wiki/Waterford_Viking_Triangle
+score: 8.8
 ---
 
 The Viking Triangle is the historic core of Waterford City — the area bounded roughly by Reginald's Tower to the east, the Medieval Museum and Bishop's Palace to the south, and the surviving stretches of the medieval city walls. It takes its name from the roughly triangular shape of the original Viking settlement, and within this small area are concentrated most of the city's principal attractions.

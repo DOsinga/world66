@@ -8,6 +8,7 @@ latitude: 50.8594
 longitude: 15.6983
 sources:
   - https://en.wikipedia.org/wiki/Cieplice_%C5%9Al%C4%85skie-Zdr%C3%B3j
+score: 7.3
 ---
 
 Cieplice Śląskie-Zdrój — now administratively part of Jelenia Góra but with its own distinct character — is one of the oldest spa towns in Poland, with thermal springs that have been in use since the twelfth century. The springs produce water at around 44°C, and several treatment centres and hotels make use of them.

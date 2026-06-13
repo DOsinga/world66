@@ -9,6 +9,7 @@ tags:
   - hiking
   - mountain
 story: "Mount Kenya is the eroded core of an extinct volcano that was once estimated to have stood over 6,000 metres high — taller than Kilimanjaro. What remains today are the volcanic plugs of Batian and Nelion, the two main peaks that only experienced rock climbers can reach. Trekkers climb to Point Lenana, the third-highest summit at 4,985 metres, and call themselves Mount Kenya summiteers anyway."
+score: 9.4
 ---
 
 Mount Kenya is the second-highest mountain in Africa after Kilimanjaro, an ancient volcano whose two highest peaks — Batian (5,199 m) and Nelion (5,188 m) — are technical rock climbs requiring ropes and serious mountaineering experience. The third peak, Point Lenana at 4,985 metres, is reachable by walking and is the realistic summit for most trekkers.

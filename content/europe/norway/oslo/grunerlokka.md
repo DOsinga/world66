@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 59.9226
 longitude: 10.7580
+score: 8.4
 ---
 
 Grünerløkka is Oslo's most characterful neighbourhood — a former working-class district along the Akerselva river that has become the city's main hub for independent cafes, vintage shopping, and street food. It has the density and energy that the city centre often lacks, and the Akerselva riverside path running through it connects Mathallen and the Vulkan arts district in the south to Nydalen in the north, past old mill buildings and contemporary art centres.

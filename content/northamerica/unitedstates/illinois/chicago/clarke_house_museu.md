@@ -12,6 +12,7 @@ tags:
 - south_loop
 title: Clarke House Museum
 type: poi
+score: 6.9
 ---
 
 Chicago's oldest surviving building, dating to 1836. This restored Greek Revival home gives a vivid sense of how an early Chicago family lived, with period furnishings and wallpaper. A timeline exhibit in the basement traces how the house's history intertwines with the city's. The house has been moved three times from its original Michigan Avenue location, which is a story in itself. Tours are brief and informative.

@@ -9,6 +9,7 @@ tags:
 - bar
 title: Pimm's Good
 type: poi
+score: 7.5
 ---
 
 Pimm's Good is the best cocktail bar in Rome — a small, serious bar in the unfashionable Marconi district south of Trastevere, where bartender Massimiliano Bruno has been making exceptional cocktails for over a decade. The bar runs competitions and the team have won multiple awards; the quality of the drinks is consistently the highest in the city.

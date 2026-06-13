@@ -8,6 +8,7 @@ tags:
 latitude: 41.309722
 longitude: -105.593889
 story: "Laramie was founded in 1868 as a construction camp for the Union Pacific Railroad, and grew explosively as the transcontinental railroad pushed west. The downtown's Victorian brick architecture — much of it surviving intact — dates largely from the boom years of the 1880s and 1890s, when Laramie's position on the UP main line made it a genuinely prosperous town."
+score: 7.0
 ---
 
 Laramie's downtown is a well-preserved block of late-nineteenth century commercial architecture strung along Second Street and Ivinson Avenue. The brick storefronts — mostly from the 1880s and 1890s railroad boom — now house bars, coffee shops, and independent retailers that cater to a mixed population of ranchers, university students, and the service economy.

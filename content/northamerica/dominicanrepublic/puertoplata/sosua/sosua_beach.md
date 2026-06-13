@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.7571
 longitude: -70.5173
+score: 8.0
 ---
 
 Sosua Beach is a sheltered cove about a kilometre long, protected by headlands on both sides that keep the Atlantic swell out and make the water calm enough for easy swimming and snorkelling. The sand is pale and the water a turquoise that gets deep blue further out in the bay. It is not the most pristine beach on the north coast, but it is among the most accessible and the coral starts close to shore.

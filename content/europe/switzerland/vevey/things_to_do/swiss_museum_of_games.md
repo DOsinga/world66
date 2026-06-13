@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.4527
 longitude: 6.8548
+score: 7.0
 ---
 
 A short walk east along the lakefront from Vevey, in the neighbouring town of La Tour-de-Peilz, the Swiss Museum of Games occupies the medieval Chateau de La Tour-de-Peilz. The collection covers everything from prehistoric dice and the Royal Game of Ur to 20th-century video games — much of it playable.

@@ -10,6 +10,7 @@ story: >
   The Baltic region produces about 80 percent of the world's amber, and Palanga sits on one of the richest stretches of Baltic coastline for amber collecting. The museum's collection includes a piece of amber containing 14 different insect species — a frozen moment from 40 million years ago. The oldest pieces in the collection predate the dinosaurs.
 sources:
   - https://en.wikipedia.org/wiki/Palanga_Amber_Museum
+score: 8.5
 ---
 
 The Amber Museum occupies the elegant 19th-century Tiskevicius Palace, surrounded by a botanical park designed by French landscape architect Edouard André. The collection is substantial: over 25,000 pieces of Baltic amber, displayed with proper care and informative context. Many contain perfectly preserved insects, plants, and other organic material dating back 40 million years.

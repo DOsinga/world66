@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -4.0350
 longitude: -79.2030
+score: 6.7
 ---
 
 On the southern edge of the city, the Universidad Nacional de Loja manages a large botanical and ecological park that serves as both a research station and a public recreation area. The park contains cloud forest habitats with trails through native vegetation, a botanical garden with labelled specimens of the region's flora, and a weather station.

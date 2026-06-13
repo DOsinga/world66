@@ -7,6 +7,7 @@ tags:
 title: Skosh
 type: poi
 snippet: "York's best small-plates restaurant on Micklegate, with modern British cooking and Asian influences"
+score: 7.1
 ---
 
 Skosh on Micklegate is consistently considered one of the best places to eat in York. The format is small plates — five or six dishes per person covers it adequately — and the cooking combines British seasonal ingredients with techniques and flavour combinations drawn from Japan, Southeast Asia, and the Middle East. The result is creative without being difficult: this is food that makes sense as you eat it even when the combinations are unexpected. The restaurant occupies an old building on the south side of Micklegate, the street that leads from Micklegate Bar towards the city centre.

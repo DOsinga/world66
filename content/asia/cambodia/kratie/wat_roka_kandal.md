@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.6820
 longitude: 106.0150
+score: 8.8
 ---
 
 Wat Roka Kandal is the most interesting of Kratie's several Buddhist temples, notable for its age — parts of the structure date to the 19th century — and for its position on the riverbank just south of the main town. The original vihara (main prayer hall) has some original murals that survived the Khmer Rouge period, when most temples in Cambodia were damaged or destroyed. The monks here are approachable and the temple has a peaceful, unhurried atmosphere.

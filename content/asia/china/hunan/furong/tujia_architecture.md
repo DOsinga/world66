@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.7450
 longitude: 109.9400
+score: 7.9
 ---
 
 The stilt-house architecture visible throughout Furong Ancient Town is characteristic of the Tujia people — the indigenous inhabitants of northwestern Hunan and adjacent Chongqing municipality. Tujia stilt buildings (diaojiaolou) are constructed on wooden posts driven into the slope or riverbed, allowing the building to be level while the terrain beneath it drops away steeply. The upper floors overhang the lower in a series of corbelled balconies; the whole structure is held together without nails by a mortise-and-tenon timber frame.

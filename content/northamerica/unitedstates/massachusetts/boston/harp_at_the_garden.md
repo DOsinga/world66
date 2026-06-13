@@ -8,6 +8,7 @@ tags:
 title: Harp at the Garden
 type: poi
 snippet: "Irish pub steps from TD Garden for pre-game pints"
+score: 5.7
 ---
 
 An Irish pub right near TD Garden, making it a natural pre-game or post-game stop for Bruins and Celtics fans. Crowded on event nights but has a good atmosphere and solid pub fare.

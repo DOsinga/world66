@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - pagoda
+score: 7.0
 ---
 
 The East Pagoda (Dongsi Ta) is one of two surviving Tang-dynasty brick pagodas in Kunming, both built around AD 824 as part of the long-vanished Changle Temple. The pagoda is 13 storeys tall, square in plan, and stands about 40 metres high; its eaves curve gently outwards in the early Tang manner.

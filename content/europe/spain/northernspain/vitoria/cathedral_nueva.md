@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Cathedral of María Inmaculada
 type: poi
+score: 6.5
 ---
 
 The Cathedral of María Inmaculada — sometimes called the New Cathedral — is a 20th-century Gothic Revival building of considerable scale, its construction stretching from 1907 to 1969. The interior is impressive for its size: a long nave, high Gothic vaulting, and a series of large stained glass windows in a 20th-century interpretation of medieval glass. The building dominates the western side of the old town.

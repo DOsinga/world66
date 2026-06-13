@@ -9,6 +9,7 @@ tags:
 - sight
 title: Philae Temple
 type: poi
+score: 9.4
 ---
 
 Philae Temple was dismantled and reassembled on Agilika Island, about 500 metres from its original home on Philae Island, to save it from the rising waters of the High Dam. Dedicated to the goddess Isis, it is one of the most beautifully situated temples in Egypt. Its shrines and sanctuaries include a temple of Hathor, a Birth House, and two pylons, all celebrating the deities of the Isis and Osiris myth.

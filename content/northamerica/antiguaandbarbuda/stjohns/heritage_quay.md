@@ -9,6 +9,7 @@ latitude: 17.1212
 longitude: -61.8462
 sources:
   - https://en.wikipedia.org/wiki/Heritage_Quay_(Antigua)
+score: 4.5
 ---
 
 Heritage Quay is the main cruise ship shopping complex, built in the 1980s on reclaimed land at the edge of St. John's Harbour. It is purpose-built for visitors stepping off the big ships, with duty-free shops selling jewellery, electronics, spirits, and designer goods, plus a casino and a handful of restaurants.

@@ -15,6 +15,7 @@ story: >
   falls you see during the day are essentially staged at their most impressive.
 sources:
   - https://en.wikipedia.org/wiki/Horseshoe_Falls
+score: 10.0
 ---
 
 The Horseshoe Falls is the largest and most powerful of the three waterfalls that make up Niagara Falls, and the view from the Canadian side — from Queen Victoria Park or the Niagara Falls State Park observation points — looks directly along the 670-metre crest. The sheer volume of water is physically overwhelming: the spray soaks you from a hundred metres away, and the roar is constant and bass-heavy.

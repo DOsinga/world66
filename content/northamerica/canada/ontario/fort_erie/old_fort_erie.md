@@ -16,6 +16,7 @@ tags:
 - sight
 title: Old Fort Erie
 type: poi
+score: 8.0
 ---
 
 A reconstructed British-era fort dating to the War of 1812, now operated as a living history museum by the Niagara Parks Commission. Staff in period costume demonstrate musket drills, cannon firing, and garrison life of the early 19th century. The fort's earthworks and stone walls are original or closely based on archaeological evidence; the site saw some of the heaviest fighting of the entire war.

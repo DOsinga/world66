@@ -14,6 +14,7 @@ story: >
   free time building trails through the mountains. He constructed the path to these lakes with hand tools over several
   summers, hauling rock to create the staircase sections. The peak above them also bears his name, and the trails he
   built are still in use more than a century later.
+score: 8.4
 ---
 
 The Grassi Lakes sit at about 1,525 metres above sea level, a short but steep hike above Canmore. The two lakes are a striking turquoise — the colour comes from glacial rock flour suspended in the water — and the surrounding cliffs are a popular rock-climbing destination. The hike to the lakes is 3.5 kilometres return via the upper trail (steeper and more scenic) or 4.5 kilometres via the lower trail (more gradual).

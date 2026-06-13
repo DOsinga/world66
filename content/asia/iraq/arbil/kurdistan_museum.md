@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Kurdistan Museum
 type: poi
+score: 3.8
 ---
 
 The Kurdistan Museum is best understood as an ambitious cultural project rather than a conventional museum you can reliably walk into. Designed by Studio Daniel Libeskind for a site at the base of the Erbil Citadel, the proposed museum was conceived as a national-scale institution for Kurdish history, memory, and identity, with exhibition halls, archives, education spaces, and public gardens.

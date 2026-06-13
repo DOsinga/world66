@@ -15,6 +15,7 @@ story: >
   materials over 140 years later.
 sources:
   - https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park
+score: 9.6
 ---
 
 Bryce Canyon is not actually a canyon but a series of natural amphitheaters carved into the edge of the Paunsaugunt Plateau. The landscape is defined by hoodoos — tall, thin spires of rock in shades of orange, red, and white — clustered in dense forests that look like nothing else on earth. The park sits at elevations between 8,000 and 9,100 feet, so the light and temperature shift constantly throughout the day.

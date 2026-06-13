@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8800
 longitude: 125.3100
+score: 6.9
 ---
 
 Guo bao rou — sweet and sour crispy pork in a tangy caramelised sauce — is the signature dish of northeast Chinese cooking and the thing to order in Changchun. It is found on nearly every menu in the city, but the quality varies enormously. The genuine version uses fresh pork loin, a batter that stays crisp rather than turning soggy, and a sauce where the sweet-sour balance is precisely calibrated.

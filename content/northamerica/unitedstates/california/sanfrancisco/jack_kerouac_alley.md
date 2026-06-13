@@ -10,6 +10,7 @@ tags:
 title: Jack Kerouac Alley
 neighbourhood: North Beach
 type: poi
+score: 7.2
 ---
 
 This narrow lane runs between City Lights Books on Columbus Avenue and the edge of Chinatown on Grant Avenue, connecting two of San Francisco's most atmospheric worlds in about fifty metres. The cobblestones are embedded with bronze plaques bearing quotes from Kerouac, Ginsberg, John Steinbeck, and other writers associated with the city.

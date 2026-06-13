@@ -15,6 +15,7 @@ story: >
   the rock channel rainwater from the upper face down through a system of
   natural cracks — but the visual effect, with the rock face permanently dark
   with the running water, is striking.
+score: 7.0
 ---
 
 The Crying Stone of Ilesi is a 40-metre block of granite that rises straight out of a low hill ten kilometres west of Kakamega town, with a perched boulder near its summit and a permanent trickle of water running down its face. The result, from a distance, is the impression of a giant weeping head — and the Luhya stories that have grown up around it treat it as exactly that.

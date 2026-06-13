@@ -10,6 +10,7 @@ latitude: 58.3878
 longitude: 24.3931
 story: >
   The name Valgeranna simply means "white beach" in Estonian, and the beach earns it — the sand here is noticeably paler and finer than at most spots along the Estonian coast, a quality local geologists attribute to the particular glacial deposits left behind after the last ice age. In the Soviet era the area was developed as a workers' rest resort, and some of the old wooden summer houses from that period still stand among the pines.
+score: 7.7
 ---
 
 Valgeranna Beach is a 500-metre stretch of pale white sand on the eastern shore of Pärnu Bay, sheltered from behind by a wall of tall Scots pines. The water is shallow and warms up relatively quickly in summer, making it one of the better swimming beaches on Estonia's west coast. Unlike the busier Pärnu beach a few kilometres to the east, Valgeranna rarely feels crowded, and the pine-backed setting is more attractive.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 33.88728
 longitude: -117.883177
+score: 7.8
 ---
 
 Technically just over the Placentia line on the Cal State Fullerton campus, the Fullerton Arboretum is 26 acres of plant collections from around the world: California natives, rare conifers, a desert garden, and a productive citrus grove that nods back to the region's farming past.

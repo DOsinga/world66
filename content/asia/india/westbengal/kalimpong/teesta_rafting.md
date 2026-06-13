@@ -10,6 +10,7 @@ story: >
   The Teesta is one of the fastest-flowing rivers in West Bengal, dropping from over 5,000 metres in Sikkim to the plains in a relatively short distance. The rafting section near Teesta Bazaar runs through narrow gorges cut through the Himalayan foothills, with the mountains visible above the canyon walls on clear days. The season is dictated by the river's flow: too high in monsoon, too low in summer.
 sources:
   - https://en.wikipedia.org/wiki/Teesta_Bazaar
+score: 6.4
 ---
 
 Teesta Bazaar, 16 km from Kalimpong town on the Siliguri road, is the main base for whitewater rafting on the Teesta river. The rafting season runs from mid-November to mid-February, when the river has dropped sufficiently after the monsoon but is still lively. The rapids on this section range from Grade II to Grade IV, suitable for beginners and intermediates. Several operators in Kalimpong and Siliguri run day trips.

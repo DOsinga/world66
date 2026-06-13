@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 32.8005
 longitude: 130.7091
+score: 6.0
 ---
 
 A short side alley off Shimotōri, lined with tiny standing-bars (kakuuchi), grilled-skewer shops, and small izakaya. The atmosphere from about seven in the evening is busy without being chaotic, and the food is consistently good — most places do a strong line in grilled offal, basashi, and locally produced shōchū.

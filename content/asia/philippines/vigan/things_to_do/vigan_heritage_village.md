@@ -1,6 +1,7 @@
 ---
 title: "Vigan Heritage Village"
 type: poi
+score: 9.3
 ---
 
 The UNESCO World Heritage Site at Vigan is not just Calle Crisologo but the broader historic town centre — a planned Spanish colonial grid of streets that has survived four centuries of earthquakes, typhoons, and war largely intact. The heritage zone covers several blocks of bahay na bato mansions, churches, government buildings, and plazas, making it the most complete surviving example of a Spanish colonial town in Asia.

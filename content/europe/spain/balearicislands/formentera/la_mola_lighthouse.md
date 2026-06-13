@@ -12,6 +12,7 @@ story: >
   wind-battered promontory at La Mola. He used it as a setting in his 1877 novel Hector Servadac,
   in which the lighthouse keeper and his daughter are among the survivors of an extraordinary cosmic
   collision. A small monument near the lighthouse commemorates the connection.
+score: 7.8
 ---
 
 The Far de la Mola stands at the eastern edge of the island's high plateau, where the land simply stops and drops into the sea. Built in 1861, it is one of the more dramatic lighthouse sites in the Balearics — not because the structure is spectacular (it is plain and white, as lighthouses tend to be) but because of the setting. The cliffs here fall some 60 metres into the sea, the wind comes in unimpeded from the east, and on a clear day you can see the profile of Ibiza to the north and the open Mediterranean stretching south toward Algeria.

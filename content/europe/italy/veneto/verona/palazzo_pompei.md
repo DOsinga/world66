@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Palazzo Pompei (Museo di Storia Naturale)
 type: poi
+score: 7.4
 ---
 
 A Renaissance palazzo designed by Michele Sanmicheli in the mid-16th century — one of his masterpieces, with a serene courtyard and a façade of refined classical proportions. The building now houses the Museo Civico di Storia Naturale, with substantial collections of fossils (the Eocene fossils from Bolca are world-class), minerals, and natural history specimens. The fossil fish of Monte Bolca, some 50 million years old, are one of the best-preserved marine Lagerstätten in Europe.

@@ -9,6 +9,7 @@ longitude: -70.9060
 snippet: Major ski area 45 minutes east, with summer mountain biking and gondola rides
 sources:
   - https://en.wikipedia.org/wiki/Mont-Sainte-Anne_(ski_resort)
+score: 7.8
 ---
 
 The largest ski area in eastern Canada by trail count, 45 minutes east of Québec City on the north shore of the St. Lawrence. Mont-Sainte-Anne has 71 trails spread across three faces, reliable snowfall supplemented by snowmaking, and 625 metres of vertical — serious skiing by any standard. The resort is family-oriented but has genuine challenge on the north face. Night skiing is available most evenings.

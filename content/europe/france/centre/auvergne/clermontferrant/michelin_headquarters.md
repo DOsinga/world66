@@ -13,6 +13,7 @@ tags:
 - sight
 title: Michelin in Clermont-Ferrand
 type: poi
+score: 7.8
 ---
 
 Clermont-Ferrand is the birthplace and world headquarters of Michelin, one of the most economically significant companies in France. The Michelin factories and research facilities cover a substantial part of the northern city, and the company's history is inseparable from the city's development through the 20th century. The Michelin corporate museum (L'Aventure Michelin) is open to the public and traces the history of the company from its founding in 1889 through the development of the pneumatic tyre, the invention of Bibendum, and the creation of the guide books.

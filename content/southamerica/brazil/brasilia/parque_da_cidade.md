@@ -7,6 +7,7 @@ snippet: Sprawling 4.2 km² urban park designed by Burle Marx
 tags:
 - things_to_do
 - park
+score: 6.1
 ---
 
 Named for JK's wife Sarah, this huge city park — 4.2 km² — was landscaped by Roberto Burle Marx and is the recreational lungs of Brasília. The lakes, jogging tracks (10 km of them), bike paths, sports fields, and shaded picnic areas fill up on weekends with everyone from cyclists to barbecuing families to capoeira circles.

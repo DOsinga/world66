@@ -8,6 +8,7 @@ latitude: 46.2364
 longitude: 7.3669
 sources:
   - https://en.wikipedia.org/wiki/Tourbillon_Castle
+score: 8.8
 ---
 
 Tourbillon Castle stands on the higher of Sion's two rocky hills, its ruined towers and walls open to the sky and to the wind that sweeps the valley. Built in the 13th century by the Bishop of Sion, it was burned down in 1788 and never rebuilt. The ruins are deliberately unrestored, which makes the site feel more immediate than many Swiss heritage attractions — there is nothing between you and the stonework but 700 years of weather.

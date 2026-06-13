@@ -5,6 +5,7 @@ latitude: 37.9856
 longitude: -0.6725
 tags: [things_to_do, sight]
 snippet: "A rocky headland between beaches, with a small lighthouse, clear water coves for snorkelling, and good views along the Costa Blanca coastline."
+score: 6.4
 ---
 
 Cabo Cervera is the rocky headland that separates the northern beaches from the central ones, and it does the thing that headlands do well: interrupt the sandy uniformity of a beach resort coast with something different. The cape juts into the sea with low cliffs and a scattering of rocky coves, and a small lighthouse marks the point. The water around the rocks is clear and shallow over the kind of mixed sand and rock bottom that supports more marine life than bare sand — it is one of the better snorkelling spots on this stretch of coast, accessible from the cove beaches below the cape.

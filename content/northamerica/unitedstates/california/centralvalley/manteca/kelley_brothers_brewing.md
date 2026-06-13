@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 37.7958
 longitude: -121.2163
+score: 5.6
 ---
 
 Kelley Brothers Brewing operates out of a converted theatre building in downtown Manteca — a handsome space that gives the taproom more character than the usual brewery warehouse. The core lineup covers the California craft beer staples (IPA, pale ale, amber) with seasonal releases that follow the agricultural calendar: a pumpkin ale in autumn, lighter options for the valley's brutal summer heat.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.0160
 longitude: -9.3769
+score: 6.5
 ---
 
 McGann's sits between the other two pubs in Roadford and is the largest of the three. It has expanded over the years into a restaurant as well as a bar, and it handles the tourist trade more smoothly than its neighbours — which makes it a good option when the other two are packed, though the sessions here can be slightly more variable in quality.

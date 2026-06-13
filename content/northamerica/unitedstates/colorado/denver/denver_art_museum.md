@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 39.737188
 longitude: -104.989345
 story: 'The Hamilton Building, designed by Daniel Libeskind in 2006, is a riot of titanium-clad angles that point toward the Rocky Mountains. There are almost no straight floors inside — Libeskind wanted the visitor''s perception of space to be unsettled, the way Western landscape is unsettling.'
+score: 9.2
 ---
 
 The DAM is one of the best regional art museums in the United States, and the holdings of Indigenous Arts of North America are the strongest in the country — over 18,000 objects spanning pre-contact ceramics to contemporary work. The pre-Columbian and Spanish Colonial galleries are similarly deep, reflecting Denver's position at the crossroads of Latin American trade routes.

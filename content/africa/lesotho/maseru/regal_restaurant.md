@@ -6,6 +6,7 @@ longitude: 27.4815
 tags:
   - eating_out
   - restaurant
+score: 4.8
 ---
 
 A long-running Indian restaurant on Kingsway that is the local favourite for a sit-down meal — curries, biryanis and tandoori plates served in generous portions. Vegetarians are well looked after, the bill is around M150–250 a head, and the service is friendly even when the place is full.

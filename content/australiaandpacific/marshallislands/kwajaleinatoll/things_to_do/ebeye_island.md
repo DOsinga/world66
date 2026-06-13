@@ -3,6 +3,7 @@ title: "Ebeye Island"
 type: poi
 latitude: 8.786
 longitude: 167.735
+score: 7.2
 ---
 
 Ebeye has been called "the slum of the Pacific." With roughly 15,000 people crowded onto an island barely half a mile long and a few hundred metres wide, it is one of the most densely populated places on earth. The population is almost entirely Marshallese — the workforce and families who came to Kwajalein for work but are barred from living on the American base itself.

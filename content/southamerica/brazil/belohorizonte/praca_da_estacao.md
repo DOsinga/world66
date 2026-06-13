@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Praça da Estação
 type: poi
+score: 6.7
 ---
 
 Praça Rui Barbosa, universally known to locals as Praça da Estação, is the open square in front of the old central train station. It is one of the city's main public stages — concerts, demonstrations, food fairs, and the annual Carnival celebrations all happen here. The station building itself, now the Museu de Artes e Ofícios, fills the south side of the square; the metro station is underneath.

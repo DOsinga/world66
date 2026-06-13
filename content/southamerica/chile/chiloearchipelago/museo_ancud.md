@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -41.8688
 longitude: -73.8291
+score: 7.7
 ---
 
 The Museo Regional de Ancud is the best museum in the archipelago and an excellent first stop on any Chiloé visit. The collection covers the natural history and archaeology of the islands, the Huilliche indigenous culture, the Spanish colonial period, and the distinctly Chilote traditions that developed in isolation over two centuries. The mythology section — covering the creatures and beliefs unique to Chiloé — is thoughtfully presented and genuinely informative rather than sensationalised.

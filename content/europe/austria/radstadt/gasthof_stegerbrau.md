@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.3837
 longitude: 13.4617
+score: 5.2
 ---
 
 The Stegerbräu has stood on the Stadtplatz since the seventeenth century and still brews its own beer in a small attached brewery — one of the smallest in Austria. The dining room is comfortable rather than rustic; the kitchen does straight Pongau cooking with reliable execution.

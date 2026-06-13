@@ -16,6 +16,7 @@ story: >
   and Judaism alike. Archaeologists excavating the site in the 1990s uncovered a
   Byzantine church complex from the 5th–6th centuries, complete with mosaic
   floors — physical evidence of a pilgrimage site active for over a thousand years.
+score: 7.2
 ---
 
 Tell Mar Elias is a low, exposed hill north-west of Ajlun that local and religious tradition holds as the birthplace of the Prophet Elijah. The tell — an artificial mound built up over centuries of occupation — preserves the remains of a Byzantine church and what appears to have been a pilgrimage complex. Fragmentary mosaic floors survive, and the views across the forested hills towards the Jordan Valley are excellent.

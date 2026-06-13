@@ -9,6 +9,7 @@ longitude: -77.0640
 address: "3223 K Street NW"
 phone: "202-298-8222"
 neighbourhood: Georgetown
+score: 5.6
 ---
 
 The River Club is a Georgetown institution — a dinner-and-dancing venue on K Street near the C&O Canal that has operated since the 1980s in various forms. The format is old-fashioned in a way that has become rare: a proper band, a dance floor, good food, and dress code. It draws a crowd that knows how to dress and how to dance, which is a more specific clientele than most Georgetown bars attract.

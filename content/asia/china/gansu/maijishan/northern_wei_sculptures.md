@@ -15,6 +15,7 @@ story: >
   owe nothing to Chinese artistic tradition, the expressions caught between spiritual
   abstraction and something approaching portraiture. Nothing quite like them was made
   before, and nothing quite like them was made after.
+score: 9.3
 ---
 
 The Northern Wei-period sculptures at Maijishan, dating to the late fourth and fifth centuries, are considered among the finest early examples of Buddhist art in China. Carved from the sandstone cliff face and built up in clay over wooden armatures, they display the characteristic Northern Wei style: elongated figures with serene, slightly archaic faces, rendered in an aesthetic that blends Indian Buddhist iconography with early Chinese artistic conventions.

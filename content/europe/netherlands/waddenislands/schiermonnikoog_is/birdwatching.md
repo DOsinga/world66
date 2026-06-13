@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.4650
 longitude: 6.2500
+score: 8.5
 ---
 
 Schiermonnikoog's position at the junction of the Wadden Sea tidal flats and the North Sea beach makes it one of the best birdwatching locations in the Netherlands. The south-facing tidal flats are a key staging and feeding area on the East Atlantic Flyway — the migratory corridor used by birds breeding in Arctic Siberia and Canada who winter on the African coast.

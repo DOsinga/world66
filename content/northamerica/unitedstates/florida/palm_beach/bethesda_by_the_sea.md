@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 26.711111
 longitude: -80.036944
+score: 7.8
 ---
 
 Bethesda-by-the-Sea is a Gothic Revival Episcopal church on the oceanfront side of Palm Beach, set in mature grounds with a cloister garden that provides a quiet contrast to the surrounding town. The current building dates from 1927, though a church has stood on the site since 1889 — making it one of the oldest congregations in the county.

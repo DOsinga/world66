@@ -8,6 +8,7 @@ tags:
 snippet: Pink-and-cream Catholic cathedral, seat of the Diocese of Krishnagar
 latitude: 23.4052
 longitude: 88.4867
+score: 7.1
 ---
 
 The Cathedral of Christ the King sits on the western edge of Krishnanagar and is the seat of the Roman Catholic Diocese of Krishnagar, founded in 1886. It is a striking pink-and-cream building in a loose Italianate style, with a tall central tower, twin side chapels, and a remarkably calm enclosure of gardens and seminary buildings around it.

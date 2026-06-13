@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7795
 longitude: 3.029
+score: 7.2
 ---
 
 Sant Feliu's seafront promenade — a long palm-shaded boulevard between the main town beach and a row of Modernista summer villas built by wealthy Barcelonan cork merchants in the late 19th century. Among the finest buildings: the Casino dels Nois (now a cultural centre with a free entrance hall worth seeing), the Casa Estrada with its tiled façade, and the Casa Patxot, with a distinctive turret.

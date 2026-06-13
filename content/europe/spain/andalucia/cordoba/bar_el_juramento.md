@@ -8,6 +8,7 @@ tags:
 - bar
 title: Bar El Juramento
 type: poi
+score: 5.9
 ---
 
 A small neighbourhood tapas bar tucked away in a quiet street north of the Mezquita. Honest local cooking, friendly staff, and Montilla wines by the glass at prices a long way below what you'll pay near the cathedral.

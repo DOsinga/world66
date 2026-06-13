@@ -8,6 +8,7 @@ tags:
 - sight
 - nature
 snippet: "Five-mile out-and-back hike from suburban Reno to a hidden Sierra waterfall"
+score: 7.8
 ---
 
 One of the more surprising things about Reno is that you can start at a quiet trailhead in a suburban housing development and within an hour and a half be standing under a thirty-foot waterfall in a fold of the Sierra Nevada. The **Hunter Creek Trail** runs from a small parking area in the Caughlin Ranch subdivision, about ten minutes west of downtown, and climbs gradually through chaparral and pine to the falls.

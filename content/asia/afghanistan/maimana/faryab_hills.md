@@ -7,6 +7,7 @@ tags:
   - sight
 title: Faryab Hills
 type: poi
+score: 6.5
 ---
 
 The bare brown hills that ring Maimana give the city its character. Faryab is a province of grasslands, dry ridges, and seasonal streams — the kind of country where Turkic and Mongol horse cultures thrived for centuries. In spring, after the snowmelt, the hills briefly turn green, dotted with wildflowers and the black goat-hair tents of the kuchi nomads who graze their flocks here. By midsummer the landscape is back to its usual tan-and-ochre palette.

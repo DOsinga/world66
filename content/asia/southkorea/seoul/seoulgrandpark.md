@@ -9,6 +9,7 @@ tags:
 - sight
 title: Seoul Grand Park
 type: poi
+score: 6.2
 ---
 
 Seoul Grand Park sits at the foot of Mt. Cheonggye in Gwacheon, just south of the Seoul city limits and reachable on metro line 4 (Seoul Grand Park station). It is the country's largest park complex, combining Korea's biggest zoo with a botanical garden, Seoul Land amusement park, hiking trails, a campground, and the National Museum of Modern and Contemporary Art (MMCA).

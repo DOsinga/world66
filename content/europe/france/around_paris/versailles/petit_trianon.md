@@ -12,6 +12,7 @@ story: >
   accession, he said simply "do with it what you will." She had the gardens
   redesigned from French formal to English landscape, to the bafflement of
   Versailles traditionalists who saw it as a rejection of everything the gardens stood for.
+score: 9.1
 ---
 
 The Petit Trianon is a small neoclassical palace — four floors, essentially a cube — built between 1762 and 1768 for Louis XV's mistress Madame de Pompadour, who died before it was finished. Louis XVI gave it to Marie Antoinette in 1774 on the first day of his reign, and she made it the centre of her private world for the next 15 years.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 15.5471
 longitude: 73.7851
+score: 7.4
 ---
 
 A ten-minute scooter ride east of Calangute, the Mae de Deus church at Saligao is the photogenic one — a tall, white, neo-gothic façade with a slender spire, set in tidy paddy fields. It was built in 1873 to house a statue of the Mother of God rescued from a ruined convent in Old Goa, and the building gives Saligao village its skyline.

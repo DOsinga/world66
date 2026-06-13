@@ -14,6 +14,7 @@ story: >
   The event is not staged for tourists; it is a genuine community tradition of
   considerable antiquity, and the crowd that lines the route is almost entirely
   local. Riders who fall off simply climb back on.
+score: 8.6
 ---
 
 Two hours by road from Huehuetenango, Todos Santos sits in a valley at around 2,500 metres surrounded by steep mountains. It is one of the most traditional communities in Guatemala: the men wear the town's distinctive red-and-white striped trousers and embroidered shirts, and the women wear elaborate huipiles in indigo and red. These are not costumes for tourists — they are everyday clothes, worn to the market and the fields.

@@ -7,6 +7,7 @@ tags:
   - wine
 latitude: 40.6842
 longitude: 27.2198
+score: 8.3
 ---
 
 The coastal road south from Tekirdağ through Şarköy and Mürefte is one of Turkey's most pleasant wine drives. The hills between the road and the sea are planted with vineyards producing Papazkarası, Yapıncak, and international varieties, and several small wineries have opened tasting rooms along the route. The scenery is excellent — Aegean light, terraced hillsides, the blue of Saros Bay opening up to the south.

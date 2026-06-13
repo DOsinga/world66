@@ -12,6 +12,7 @@ story: >
   Arizona history. The gold funded the founding of Phoenix, which grew partly
   as a supply town for the mine. At peak production in the 1880s, over 5,000
   people lived at Vulture City.
+score: 8.5
 ---
 
 About 14 miles south of Wickenburg on Vulture Mine Road, this ghost town preserves the remains of one of Arizona's most productive gold mines. Vulture Mine was discovered by Henry Wickenburg in 1863 and operated on and off until 1942. The site now has around 20 original structures surviving — a bunkhouse, assay office, blacksmith shop, schoolhouse, and the mine headframe itself — in various states of preservation.

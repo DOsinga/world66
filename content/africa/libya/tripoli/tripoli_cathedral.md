@@ -15,6 +15,7 @@ story: >
   Gaddafi converted it to a mosque in 1970, on the first anniversary of the revolution,
   symbolically ending the Italian presence in the city. The bell towers were converted to
   minarets.
+score: 7.9
 ---
 
 Tripoli's former Roman Catholic cathedral stands on what the Italians called Piazza della Cattedrale in the city centre, now a mosque named after Gamal Abdel Nasser. The building is a striking example of Italian colonial architecture — a Romanesque-Byzantine design with twin towers that were converted to minarets after the cathedral's conversion in 1970.

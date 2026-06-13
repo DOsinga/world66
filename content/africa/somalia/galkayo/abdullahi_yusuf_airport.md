@@ -8,6 +8,7 @@ latitude: 6.7808
 longitude: 47.4544
 sources:
   - https://en.wikipedia.org/wiki/Abdullahi_Yusuf_Airport
+score: 2.4
 ---
 
 Abdullahi Yusuf Airport (IATA: GLK) is the main gateway to Galkayo, named for Abdullahi Yusuf Ahmed, the founder of Puntland and later transitional President of Somalia, who was from the Mudug region. The airport handles flights from Mogadishu, Hargeisa, Bosasso, and occasionally other regional cities via carriers such as Jubba Airways and African Express Airways.

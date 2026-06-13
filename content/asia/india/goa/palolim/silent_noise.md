@@ -8,6 +8,7 @@ tags:
   - sight
   - bar
 story: "Goa's state government banned loud music on the beach after 10pm in 2007, which would have killed Palolem's nightlife. A local entrepreneur, Ben, responded by inventing the silent disco for India in 2008 — wireless headphones with three channel selectors and rival DJs. The format has since spread the world over, but Palolem still claims to be where the modern silent disco was born in earnest."
+score: 5.8
 ---
 
 Most of Palolem's late-night dancing happens at the **Silent Noise** parties on Saturdays at Neptune Point, a small headland between Palolem and Colomb Bay. Three DJs broadcast at once on different channels; everyone wears headphones and you switch with a button on the side. The novelty wears off fast, but the silence between songs — when fifty people are jumping but you can hear the surf — is genuinely strange.

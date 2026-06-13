@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Alabama Symphony Orchestra / Alys Stephens Center
 type: poi
+score: 7.0
 ---
 
 The Alabama Symphony Orchestra performs at the Alys Stephens Performing Arts Center on the UAB campus. The 1,300-seat main auditorium and the smaller Jemison Concert Hall host classical concerts, touring performers, and special events throughout the year. The ASO has punched above its weight for decades, attracting nationally prominent conductors and soloists.

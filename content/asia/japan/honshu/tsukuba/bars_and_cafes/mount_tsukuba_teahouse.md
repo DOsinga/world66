@@ -9,6 +9,7 @@ tags:
 latitude: 36.2253
 longitude: 140.1066
 story: "The summit of Mount Tsukuba has been associated with refreshment for centuries — vendors have operated there since at least the Edo period, when pilgrims climbing to the shrine would pay for hot tea and a rest before the descent. The current teahouse continues that tradition, serving hikers largely the same things their predecessors wanted: something warm and a place to sit."
+score: 5.9
 ---
 
 At the summit ridge between Nantai and Nyotai peaks, a small traditional teahouse sells hot tea, amazake (a mild sweet fermented rice drink), and simple snacks. After two hours on the trail, it is exactly what you want.

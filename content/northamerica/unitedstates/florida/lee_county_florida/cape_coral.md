@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Cape Coral
 type: poi
+score: 5.3
 ---
 
 Cape Coral is one of the stranger cities in the United States: a planned residential development that began as a land-sales scheme in the late 1950s, built almost entirely on a grid of 400 miles of canals dredged from mangrove swamp. More miles of navigable waterway run through Cape Coral than any other city in the world — more than Amsterdam, more than Venice. The practical consequence is that a large proportion of residents have boats in their backyard, and the city has an unexpectedly thriving waterfront culture of boat ramps, marinas, and waterside restaurants.

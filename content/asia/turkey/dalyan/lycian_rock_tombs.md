@@ -15,6 +15,7 @@ tags:
 - sight
 title: Lycian Rock Tombs
 type: poi
+score: 8.3
 ---
 
 Four large tomb façades and several smaller ones are cut into the cliff face rising above the east bank of the Dalyan River. They're best seen from the water — the scale only becomes clear when you see the boats passing below them. The tombs are lit up at night, which has a genuine effect. You can reach the base of the cliff on foot from town, but getting close to the tombs themselves requires a scramble and there's no formal access path.

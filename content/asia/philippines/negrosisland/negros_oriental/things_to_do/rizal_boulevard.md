@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 9.3085
 longitude: 123.3077
+score: 7.8
 ---
 
 Rizal Boulevard is the spine of Dumaguete — a long, tree-shaded promenade running along the waterfront, where benches face the Tañon Strait and Cebu floats on the horizon on a clear day. In the afternoon it is a place for students from Silliman University to sit and read, or for old men to watch the fishing boats. By early evening it transforms: portable grills appear, stalls unfurl their awnings, and the smell of charcoal and seafood takes over.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Papyrus Institute
 type: poi
+score: 4.5
 ---
 
 Several papyrus workshops operate near the Giza Plateau, offering demonstrations of the traditional craft of papyrus-making — the process of slicing and cross-layering strips of papyrus reed, soaking, pressing, and drying them into sheets — followed by the opportunity to buy finished works printed or painted with Egyptian hieroglyphic scenes. The best ones grow their own papyrus in tanks and show the whole process from plant to finished sheet.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 36.0820
 longitude: 140.0760
+score: 5.8
 ---
 
 The streets around Tsukuba Center fill up in the early evening with researchers and university staff heading to the izakaya pubs that cluster along the pedestrian boulevard and the side streets behind the main shopping complex. An izakaya is somewhere between a pub and a casual restaurant — you order small plates of grilled skewers, edamame, fried chicken, potato salad, and sashimi alongside beer, sake, or shochu, and the evening can stretch as long as you like.

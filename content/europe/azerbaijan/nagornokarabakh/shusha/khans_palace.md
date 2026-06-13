@@ -14,6 +14,7 @@ story: >
   of these ravines so that it was surrounded on two sides by cliffs — a
   position that made it nearly impregnable. The Karabakh Khanate he established
   survived for sixty years before Russian annexation in 1806.
+score: 8.1
 ---
 
 The Palace of Panah Ali Khan is the surviving residence of the founder of the Karabakh Khanate, built in the mid-18th century at the dramatic edge of a deep ravine in the southeastern part of the old city. Only two palace structures survive in Shusha — this is the more significant, sited directly above a cliff with views across the canyon and surrounding mountains.

@@ -12,6 +12,7 @@ story: >
   On the morning of 5 May 1945, German General Johannes Blaskowitz sat across a table from Canadian General Charles Foulkes in the dining room of this hotel and signed the surrender of all German forces in the Netherlands. The Dutch had endured five years of brutal occupation, including the catastrophic Hunger Winter of 1944–45 in which some 20,000 people starved to death. The choice of Wageningen — a small university town with no particular strategic significance — was almost accidental: Foulkes had his headquarters nearby.
 sources:
   - https://en.wikipedia.org/wiki/Hotel_de_Wereld
+score: 8.0
 ---
 
 The most historically significant building in Wageningen stands on the Markt square in the town centre. Hotel de Wereld — "Hotel The World" — is a modest four-storey townhouse-style hotel, nothing that would draw a second glance if you didn't know what happened inside it on 5 May 1945.

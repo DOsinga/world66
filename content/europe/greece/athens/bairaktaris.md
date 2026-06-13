@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 neighbourhood: Monastiraki
+score: 5.4
 ---
 
 Bairaktaris has stood on Monastiraki Square since 1879 and is the place to come for souvlaki and gyros after a long day at the Acropolis. The shop occupies two corner buildings and serves both as a counter takeaway for the standard pita-wrapped souvlaki and as a full taverna with table service on the outdoor terrace.

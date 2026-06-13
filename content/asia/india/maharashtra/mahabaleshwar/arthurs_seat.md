@@ -12,6 +12,7 @@ story: >
   the husband hanged. Whether the story is true is doubtful, but it has made the viewpoint 
   memorable enough that it survived the renaming of almost every other British-era landmark 
   in the region.
+score: 8.5
 ---
 
 Arthur's Seat is a rocky outcrop at the edge of the Mahabaleshwar plateau, offering a sheer 1,200-metre drop into the Savitri river valley and the Konkan plains below. On clear days the descent from the plateau to the coast is visible in a single sweeping view — forest, river, and eventually the haze above the Arabian Sea. This is the most dramatic viewpoint in Mahabaleshwar, the one that most captures the sense of standing at the edge of something.

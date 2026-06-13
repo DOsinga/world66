@@ -15,6 +15,7 @@ story: >
   canals, roads, and civic buildings that outlasted him by more than a century.
   He died here in 1858, the same year the East India Company was dissolved, and
   is buried in the town he created.
+score: 5.8
 ---
 
 The Victoria Clock Tower is one of the few surviving colonial-era structures in Jacobabad's town centre, a four-sided tower that rises above the bazar area and remains a landmark of the city. It is a modest structure by the standards of the grand clock towers that the British erected across the subcontinent, but in a city with little other architecture of note, it stands out.

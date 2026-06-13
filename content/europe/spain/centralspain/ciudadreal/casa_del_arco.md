@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 The Casa del Arco — literally "house of the arch" — is the elegant neo-Gothic building on the north side of the Plaza Mayor, recognisable by the arched passageway that gives it its name. It served as the city's town hall until 1976 and now houses cultural offices.

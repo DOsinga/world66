@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Ajman has been one of the last places on the Arabian coast where ocean-going dhows are still made in the traditional way — frames laid first, planks bent over them, no plans. A new boat takes months and is paid for in cash, often by Yemeni or Iranian owners."
+score: 7.5
 ---
 
 Tucked along Ajman Creek, the dhow yard is one of the last working traditional shipyards in the UAE. Carpenters work in the open air, shaping teak ribs and planks for fishing dhows and the larger cargo boum that still ply the routes to Iran, Yemen and the east African coast. There are no signs, no tickets — you walk up and watch, asking permission before taking close-up photos of the workers.

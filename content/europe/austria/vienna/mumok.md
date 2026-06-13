@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - museumsquartier
+score: 7.9
 ---
 
 The Museum of Modern Art Ludwig Foundation Vienna — MUMOK — is housed in a dark basalt cube inside the MuseumsQuartier and holds Austria's most important collection of 20th- and 21st-century art. The permanent collection runs from Picasso and the Cubists through Pop Art (Warhol, Lichtenstein, Oldenburg) to Vienna Actionism, the confrontational performance movement that emerged in the 1960s.

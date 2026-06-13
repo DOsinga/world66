@@ -12,6 +12,7 @@ story: >
   existed in a regulatory grey zone that made it an epicentre of cross-border trade in
   everything from jade to goods that don't bear close inspection. The Special Economic Zone
   designation has formalised some of this, but the frontier atmosphere persists.
+score: 7.9
 ---
 
 Jiegao sits on a peninsula formed by a bend in the Ruili River, connected to Ruili city by a bridge and separated from Myanmar by a few metres of water on three sides. The area is designated a Border Trade Economic Zone and functions as the main formal crossing point between China and Myanmar in this sector. The river here is narrow enough to shout across, and the Myanmar town of Muse is visible from the Chinese bank.

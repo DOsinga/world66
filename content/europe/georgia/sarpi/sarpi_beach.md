@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 41.5219
 longitude: 41.5490
 snippet: "A quiet pebble beach at the Turkish border, calmer than anything closer to Batumi"
+score: 6.6
 ---
 
 The Black Sea coast along this stretch is all pebbles — smooth, grey-black, polished by decades of slow wave action — and Sarpi's beach is no exception. What it does have, that the beaches five kilometres north towards Batumi increasingly lack, is space. The village is small and the visitors who come this far are generally people crossing the border or those who have figured out to get ahead of the Batumi crowds. The result is a beach where you can actually spread out, with the mountains rising green and immediate behind and the border checkpoint building visible to the south, its white curves incongruous against the skyline.

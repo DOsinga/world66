@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.5081
 longitude: -84.7319
+score: 6.3
 ---
 
 A small but worthwhile natural history museum on the Miami University campus, the Limper Geology Museum contains rocks, minerals, fossils, and geological specimens from around the world. It is particularly strong on Ohio geology, which is more interesting than it sounds — the state sits atop significant Ordovician and Silurian rock sequences, and the fossil record from the region's shallow ancient seas is rich.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Cape Eleuthera Resort opened in 1972 and counted Richard Nixon among its guests; oil prices spiked, the dollar crashed, and Bahamian independence in 1973 cut off the easy American market. The owners walked away in 1979, leaving cars in the garage and china on the tables. The bush has done the rest."
+score: 6.2
 ---
 
 The Cape Eleuthera Resort ruins, at the south-western tip of the island, are a moody walk through a 1970s luxury complex slowly being eaten by the Bahamian bush. Empty villas, a derelict marina, an overgrown golf course, and palms growing through tile floors.

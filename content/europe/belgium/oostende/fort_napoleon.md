@@ -14,6 +14,7 @@ story: >
   defence system that was actually finished. The Germans used it as a command
   post in both world wars; the casemates still show the layers of alteration.
 type: poi
+score: 8.0
 ---
 
 Fort Napoleon is a polygonal fort built between 1810 and 1814 on Napoleon's orders, one of a chain of coastal defences along the North Sea and English Channel. The star-shaped earthwork design — typical of late 18th-century military engineering — has survived almost intact, and the interior casemates and central courtyard are well-preserved. After extensive restoration, the fort now houses a visitor centre with exhibitions on its military history, a restaurant, and a viewing terrace over the dunes.

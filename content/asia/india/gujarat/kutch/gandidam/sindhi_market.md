@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 23.0725
 longitude: 70.1298
+score: 6.8
 ---
 
 The central market area of Gandhidham — known informally as the Sindhi Market — is the commercial and cultural core of the city. It grew organically from the trading traditions of the Sindhi community, who arrived in 1947 with little more than their entrepreneurial instincts and rebuilt a mercantile culture from scratch. Today the market is a dense grid of wholesale and retail shops dealing in textiles, spice, hardware, and household goods, supplying much of the Kutch district.

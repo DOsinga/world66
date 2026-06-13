@@ -14,6 +14,7 @@ story: >
   woodland. Since the 1990s, conservation programmes have reintroduced grazing
   animals — mostly sheep and cattle — to hold back the forest and restore the
   open heath landscape.
+score: 7.2
 ---
 
 The Tareste conservation area sits just a few kilometres northwest of Kärdla and preserves a stretch of the open juniper heath for which Hiiumaa is known. The landscape is unlike most of northern Europe: low, twisted junipers across a windswept coastal plain, with glimpses of the sea and a silence that feels unusually complete.

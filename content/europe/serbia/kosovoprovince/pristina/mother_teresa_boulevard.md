@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 42.6629
 longitude: 21.1600
+score: 6.2
 ---
 
 Mother Teresa Boulevard — Bulevardi Nënë Tereza — is Pristina's central pedestrian axis and the social heart of the city. Named for the Albanian-heritage Catholic nun from Skopje (born Anjezë Bojaxhiu, canonised as Saint Teresa of Calcutta), the boulevard runs for about a kilometre through the city centre, lined with cafes, shops, government buildings, and public space.

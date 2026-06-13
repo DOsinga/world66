@@ -9,6 +9,7 @@ tags:
 - bar
 title: Red's Old 395 Bar and Grill
 type: poi
+score: 5.5
 ---
 
 Red's Old 395 is a Carson City institution with wall-to-wall eclectic decor that takes a few visits to fully absorb. The menu goes well beyond bar food -- the Rocky Mountain Oysters are a local dare for first-timers, and the burgers are solid.

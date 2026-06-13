@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 33.9165
 longitude: -78.3009
+score: 6.5
 ---
 
 Provision Company sits on the Intracoastal Waterway side of the bridge and is the kind of place every coastal town should have: a no-shoes, no-shirt-required dockside seafood joint where you order at the counter, sit at picnic tables on the deck, and watch boats come and go while you eat. The grilled or steamed shrimp baskets are the standard order, with a beer and a view of the marsh grass across the channel.

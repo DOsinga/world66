@@ -6,6 +6,7 @@ longitude: 31.3667
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The weekly ferry between Wadi Halfa and Aswan is one of the classic overland crossing points between Africa and the Arab world, used by travellers heading south into sub-Saharan Africa or north through Egypt. The journey takes roughly 18 to 24 hours and crosses Lake Nubia — the Sudanese section of the reservoir created by the Aswan High Dam — through a landscape of desert shores and occasional rock outcrops.

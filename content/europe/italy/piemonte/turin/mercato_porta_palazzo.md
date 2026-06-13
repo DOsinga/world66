@@ -8,6 +8,7 @@ tags:
 latitude: 45.0769
 longitude: 7.6827
 story: "Locals call Porta Palazzo simply 'Porta Pila'. By stall count — about 700 — it is the largest open-air market in Europe and has run continuously on this square since 1835."
+score: 8.9
 ---
 
 The vast daily open-air market on Piazza della Repubblica, on the northern edge of the historic centre. Seven hundred stalls fan out across the square in a clear pecking order: fish on one corner, meat and cheese under the iron sheds, fruit and vegetables in the centre, clothes and household goods on the far side.

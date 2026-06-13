@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3225
 longitude: 21.9460
+score: 8.0
 ---
 
 The parish church — formally the church of Saints John the Baptist and Bartholomew — sits just up from the market square and is the oldest building in town still in active use. The current Renaissance/Mannerist structure dates from the early seventeenth century, although a church has stood on the site since the fourteenth.

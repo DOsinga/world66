@@ -10,6 +10,7 @@ address: "411 Olive Avenue"
 latitude: 33.6592
 longitude: -118.0008
 story: "The museum holds the certified Guinness World Record surfboard — a 42-foot, 1,300-pound monster ridden by 66 people simultaneously off Huntington Beach in June 2015, smashing the previous record."
+score: 6.7
 ---
 
 A small, opinionated museum tucked one block inland from the pier. The collection runs from pre-modern Hawaiian alaia boards through balsa, foam, and modern shortboards, with strong sections on the early Californian surf pioneers and the surf music of the 1960s. There is a Duke Kahanamoku case, a wall of vintage longboards, and rotating exhibits on contemporary surfers.

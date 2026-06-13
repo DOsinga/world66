@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do]
 latitude: 8.3900
 longitude: 76.9783
+score: 4.2
 ---
 
 The shopping on Kovalam's Lighthouse Beach strip is what you'd expect from a well-worn Indian beach resort: cotton clothing, hammocks, Kashmiri pashminas, silver jewellery, Tibetan singing bowls, Kerala spices, and carvings. Most of it is imported from elsewhere in India rather than locally made, and the prices are tourist-inflated. Bargaining is expected and 50% of the opening price is a common starting point.

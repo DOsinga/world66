@@ -15,6 +15,7 @@ tags:
 - things_to_do
 title: Saint Nshan Church (Sev Zham)
 type: poi
+score: 6.8
 ---
 
 Known locally as the "Black Church" (Sev Zham), this Armenian Apostolic church dates from 1870. Built in dark tufa, it has an austere presence quite different from the grander Amenaprkitch nearby. Damaged in the 1988 earthquake, it has since been restored. The church is worth seeking out for its architecture and for the quiet contrast it offers to the busier central square.

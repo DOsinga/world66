@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5265
 longitude: 68.5388
+score: 6.8
 ---
 
 The New Madrasa stands next to its older neighbour and was built in the 17th or 18th century. The layout is similar — a square plan around a small courtyard — but the brick decoration on the portal is a little more ambitious. The building was restored in the Soviet period.

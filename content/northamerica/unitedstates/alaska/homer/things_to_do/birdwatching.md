@@ -7,6 +7,7 @@ tags:
 latitude: 59.6454
 longitude: -151.5446
 snippet: World-class shorebird migration and seabird diversity on the Kenai Peninsula coast
+score: 7.9
 ---
 
 Homer is one of Alaska's top birdwatching destinations. Kachemak Bay lies along a major Pacific flyway, and the tidal flats, beaches, and spruce forests around town attract an impressive variety of species year-round. The Homer Spit during low tide is productive for shorebirds; the mudflats at the base of the Spit see thousands of migrating dunlin, dowitchers, and sandpipers in May.

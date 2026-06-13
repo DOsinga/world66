@@ -10,6 +10,7 @@ tags:
 - ximending
 title: Bopiliao Historic Block
 type: poi
+score: 8.1
 ---
 
 A few blocks south of Ximending in the old Wanhua district, the Bopiliao block is a half-restored stretch of narrow shophouse alleys preserving a mix of late-Qing-era, Japanese colonial, and 1960s Taipei urban fabric. The buildings — brick, timber, tiled roofs — were rescued from demolition in the early 2000s and converted into a small museum complex and exhibition space dedicated to the history of the surrounding **Wanhua** neighbourhood.

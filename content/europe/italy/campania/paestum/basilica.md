@@ -8,6 +8,7 @@ latitude: 40.4198
 longitude: 15.0050
 story: >
   The name "Basilica" was given by Grand Tour travellers who assumed, from the building's long rectangular plan and civic scale, that it must have been a Roman law court or meeting hall. It isn't — it is almost certainly a temple to Hera, and it predates the Roman conquest of the city by centuries. The name has persisted for two hundred years despite being entirely wrong.
+score: 8.8
 ---
 
 The Basilica is the oldest standing temple at Paestum, built around 530 BC, and it looks it. The columns are shorter and fatter than those of the Temple of Neptune next door, and their capitals swell outward with an exaggerated mushroom flare — a feature called entasis, the slight bulge that the Greeks used to counter the optical illusion of concavity in a straight shaft. At Paestum's Basilica, the entasis is pushed as far as it goes anywhere; these columns feel almost organic, like they are straining under the weight above them.

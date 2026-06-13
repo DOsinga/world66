@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 21.3935
 longitude: -157.7400
+score: 6.6
 ---
 
 Over Easy is the other essential Kailua breakfast spot — small, bright, with a focus on local ingredients and a tighter, less retail-spectacle menu than Cinnamon's down the road. The signature dishes are the bird-in-the-nest (sourdough wrapped around an egg with bacon and arugula), excellent shakshuka, and house-baked biscuits.

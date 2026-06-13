@@ -6,6 +6,7 @@ longitude: -93.7462
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 A small but well-curated museum dedicated to the cultural communities of north Louisiana — African American, Italian, Lebanese, Jewish, Vietnamese, Irish, and others. The exhibits cover migration histories, religious traditions, food, and music, with rotating displays drawn from local family collections.

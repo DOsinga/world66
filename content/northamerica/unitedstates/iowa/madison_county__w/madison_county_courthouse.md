@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Madison County Courthouse
 type: poi
+score: 7.8
 ---
 
 The Victorian courthouse at the centre of Winterset's town square, built of local limestone in 1876 with a clock tower that you can climb. The square around it, lined with two-storey brick storefronts, is a designated historic district and one of the best-preserved nineteenth-century courthouse squares in Iowa.

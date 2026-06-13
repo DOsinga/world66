@@ -10,6 +10,7 @@ tags:
 - club
 title: Club Fifty Eight
 type: poi
+score: 5.4
 ---
 
 Things get really started here when most places close. Good music and great staff.

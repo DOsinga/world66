@@ -7,6 +7,7 @@ tags:
 - activities
 title: De Mirandabad
 type: poi
+score: 5.9
 ---
 
 Amsterdam's biggest and most popular public swimming complex, De Mirandabad draws families and lap swimmers alike. The subtropical indoor section has a wave pool, water slides, and a warm-water leisure pool, while the outdoor area opens in summer with sunbathing lawns and an open-air pool. Squash courts and a restaurant round out the facilities.

@@ -6,6 +6,7 @@ longitude: 73.6817
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Held over three days in late March or early April, the **Mewar Festival** is the city's biggest annual cultural event — timed with the women's spring festival of **Gangaur**, when Rajasthani women fast for the happiness of their husbands and parade brightly dressed images of Parvati through the streets.

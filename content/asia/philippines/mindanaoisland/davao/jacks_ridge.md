@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Jack's Ridge
 type: poi
+score: 6.3
 ---
 
 Located at the top of Shrine Hills in Matina, this place offers a

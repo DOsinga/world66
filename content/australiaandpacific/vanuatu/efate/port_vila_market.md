@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 8.2
 ---
 
 The covered market on the waterfront is the social heart of Port Vila and the best place to get a feel for the islands without leaving town. It runs almost continuously from Monday morning to Saturday afternoon, with women from the surrounding villages camping among their produce, sleeping under their tables overnight.

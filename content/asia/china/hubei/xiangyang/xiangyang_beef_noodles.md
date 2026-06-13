@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.0450
 longitude: 112.1370
+score: 6.9
 ---
 
 Xiangyang beef noodle soup is one of the more distinctive regional breakfast dishes in central China: a clear, intensely concentrated bone broth served with smooth rice-flour noodles, thin-sliced beef, and spring onion. Unlike the spicy red broths of Sichuan or the dark soy-heavy versions from elsewhere, the Xiangyang style is clean and savoury, with a depth that only comes from long overnight simmering. The best versions have a slight silkiness in the broth from collagen. A bowl costs ¥8–12 at a street stall.

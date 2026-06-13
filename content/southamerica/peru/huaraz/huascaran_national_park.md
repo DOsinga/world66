@@ -8,6 +8,7 @@ latitude: -9.1111
 longitude: -77.6083
 story: >
   Huascarán itself reaches 6,768 metres, making it the highest peak in Peru and the fourth highest in the Western Hemisphere. Its name in Quechua means "dawn" — the same root as Huaraz, the city that sits in its shadow.
+score: 9.0
 ---
 
 Declared a UNESCO World Heritage Site in 1985, Huascarán National Park covers 340,000 hectares of the Cordillera Blanca and contains twenty-seven peaks above 6,000 metres — the highest concentration of tropical glaciated peaks on earth. The park entry fee is paid at the main entrance and is valid for multiple days, making it economical to plan several excursions.

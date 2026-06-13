@@ -13,6 +13,7 @@ story: >
   2,000 years. The house sits on the mound they accumulated over centuries of
   shellfish harvesting — which is why the ground floor is several feet higher
   than the surrounding land.
+score: 7.2
 ---
 
 DuBois Park occupies a peninsula at the Jupiter Inlet where the Indian River Lagoon meets the Atlantic, with water on three sides and panoramic views across to the lighthouse. The park has a swimming area in the sheltered cove, a boat launch, and easy snorkelling in the inlet. It is a popular and genuinely beautiful spot for an afternoon.

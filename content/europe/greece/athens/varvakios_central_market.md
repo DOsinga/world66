@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.6
 ---
 
 The Varvakios is the central food market of Athens, an iron-and-glass hall built in 1886 in the spirit of Les Halles in Paris, and still the city's main commercial market for meat and fish. The fish hall, in particular, is a spectacle — long counters piled with octopus, swordfish, mullet, prawns, and crates of live crabs.

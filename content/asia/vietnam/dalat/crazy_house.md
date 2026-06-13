@@ -17,6 +17,7 @@ story: >
   something that looks like nothing the Soviet system ever produced: a sprawling
   fantasy of caves, giant mushrooms, and connecting bridges that has been under
   continuous construction since 1990.
+score: 8.8
 ---
 
 Hang Nga Villa — universally known as the Crazy House — is one of the most genuinely strange buildings in Southeast Asia. Designed by architect Đặng Việt Nga, it is a living structure of cave-like rooms, twisted staircases, giant tree trunks, and rooftop bridges that coil over the surrounding neighbourhood. It functions as both a working guesthouse and a tourist attraction; visitors who aren't staying the night pay a small entrance fee to wander through its ten themed guest rooms and up onto the roof terraces. The comparison to Gaudí is inevitable but apt: this is expressionist architecture as total environment. Budget at least an hour and wear shoes with grip — the walkways are steep and slippery when wet.

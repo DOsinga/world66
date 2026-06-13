@@ -14,6 +14,7 @@ story: >
   the frozen shore are a common sight. The reflection of the surrounding peaks in the lake
   surface on windless mornings is among the more extraordinary views available on foot in
   Yunnan.
+score: 9.2
 ---
 
 Ice Lake (Binghu) is reached by a full-day return hike from Lower Yubeng, gaining around 800 metres over rocky alpine terrain above the treeline. The trail diverges from the Holy Waterfall route in the upper valley and climbs through boulder fields and meadows before reaching the lake at 3,900 metres. Above and beyond the lake, the glacier feeding it is visible on the flanks of the peaks above, and the full scale of the Meili Snow Mountain massif opens up from this elevation.

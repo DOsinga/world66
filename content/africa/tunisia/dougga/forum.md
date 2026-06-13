@@ -6,6 +6,7 @@ longitude: 9.2186
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The Forum of Dougga is small by Roman standards — about 38 by 24 metres — and it is hemmed in by the Capitol on one side, the temple of Mercury on another, and a tight ring of buildings on the remaining sides. The paving is largely intact, and you can still trace the lines of the surrounding colonnade.

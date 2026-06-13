@@ -17,6 +17,7 @@ story: >
   roughly 1,000 square kilometres of the most intact forest remaining.
 sources:
   - https://en.wikipedia.org/wiki/Amani_Nature_Reserve
+score: 8.9
 ---
 
 The Amani Nature Reserve in the Eastern Usambaras protects one of Africa's most biodiverse forest blocks. The reserve surrounds the old German research station at Amani — its stone buildings, planted specimen trees from around the world, and botanical garden create a peculiar, overgrown colonial atmosphere within the dense forest.

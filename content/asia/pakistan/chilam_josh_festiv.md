@@ -10,6 +10,7 @@ tags:
 - festivals
 title: Chilam Josh Festival
 type: poi
+score: 8.3
 ---
 
 The Chilam Joshi festival marks the beginning of summer pasturing season for the Kalash people of Chitral's three valleys — Rumbur, Bumburet, and Birir. It runs for several days in late April or early May, rotating between the valleys, and is one of the most accessible windows into Kalash culture.

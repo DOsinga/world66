@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.7486
 longitude: 2.2564
+score: 7.7
 ---
 
 The Sandelin Museum is housed in an elegant 18th-century mansion and is one of the best small decorative arts museums in northern France. The collections were assembled by the Viscountess of Fruges in the early 19th century and include Flemish and Dutch paintings, medieval sculpture, Saint-Omer faïence (the town had a flourishing pottery tradition), and an exceptional collection of Flemish tin-glazed earthenware and objets d'art.

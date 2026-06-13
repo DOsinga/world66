@@ -12,6 +12,7 @@ story: >
   leaders including Jawaharlal Nehru and B.R. Ambedkar were imprisoned by the British. The
   original prison walls and some buildings have been preserved within the park grounds as a
   historical reminder.
+score: 6.3
 ---
 
 Freedom Park opened in 2008 on the grounds of the former Bangalore Central Jail. The jail itself was a significant site during the independence struggle — numerous freedom fighters were imprisoned here by the British colonial administration. The park preserves sections of the original prison walls and some of the buildings, integrating them into a 12-acre public space of lawns, walkways, and children's play areas.

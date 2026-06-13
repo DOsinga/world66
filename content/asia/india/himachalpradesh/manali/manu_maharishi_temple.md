@@ -10,6 +10,7 @@ longitude: 77.1820
 snippet: "Ancient hill temple in Old Manali dedicated to the sage Manu, after whom the town is named"
 story: >
   Hindu tradition holds that after the great flood, the sage Manu landed his boat near this spot and set about recreating human civilisation. The town's name — Manali — is a contraction of Manu-Alaya, meaning 'abode of Manu'. The temple is the only one in India dedicated to the sage, which gives it an unusual status among Hindu pilgrims.
+score: 7.7
 ---
 
 The Manu Maharishi Temple in Old Manali is the oldest place of worship in the area and the only temple in India dedicated to the sage Manu, the progenitor of humanity in Hindu cosmology. It stands on a rocky outcrop above the old village lanes, a modest structure built in traditional Himachali style with a tiered wooden roof and stone walls.

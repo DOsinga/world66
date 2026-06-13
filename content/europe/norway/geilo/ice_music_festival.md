@@ -12,6 +12,7 @@ story: >
   from blocks of mountain-lake ice. The American sculptor Bill Covitz and the
   Norwegian musician Terje Isungset pioneered the form, and the festival has
   become an international curiosity.
+score: 7.8
 ---
 
 The Geilo Ice Music Festival is a small, distinctly Norwegian annual event that has built a serious international following. Concerts are held outdoors in a custom-built igloo amphitheatre, with all the instruments carved fresh each year from blocks of glacier or lake ice. The acoustic properties of ice change as the temperature shifts, so no two performances are quite alike.

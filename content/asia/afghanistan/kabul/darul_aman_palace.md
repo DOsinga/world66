@@ -9,6 +9,7 @@ tags:
   - architecture
   - historic
 story: "King Amanullah commissioned the palace in the 1920s as the centrepiece of a new European-style capital — wide boulevards, electric trams, a parliament — that he hoped would drag Afghanistan into the twentieth century in a generation. His reforms triggered a tribal revolt that drove him into exile in 1929. The palace, never properly used, was bombed in the 1990s, gutted by fire, and stood as a ruin for twenty years."
+score: 7.6
 ---
 
 A neo-classical three-storey palace on a hilltop south-west of central Kabul, built by King Amanullah in the 1920s as the capital of a modernising Afghan state that never quite materialised. The hill commands the southern approaches to the city and the palace was both showpiece and symbol — gardens, fountains, the planned parliament across the road that became the National Museum.

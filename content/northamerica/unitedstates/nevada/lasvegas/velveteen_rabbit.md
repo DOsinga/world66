@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - arts_district
+score: 7.8
 ---
 
 The Velveteen Rabbit opened in 2013 and is one of the bars credited with kickstarting the Arts District revival. Sisters Pamela and Christina Dylag built out a small mid-century space with vintage furniture, original art on every wall, and a cocktail programme that rotates seasonally and reads more like a tasting menu than a drink list. The result is a properly grown-up bar that feels nothing like the Strip.

@@ -12,6 +12,7 @@ tags:
 title: Ulm Museum
 type: poi
 url: https://www.museum.ulm.de
+score: 8.4
 ---
 
 The Ulm Museum sits right on the Marktplatz and holds one of the largest art collections in southern Germany, spanning from the late Middle Ages to the present day. The medieval section is particularly strong, with outstanding examples of Upper Swabian wood sculpture and panel painting from the 14th and 15th centuries.

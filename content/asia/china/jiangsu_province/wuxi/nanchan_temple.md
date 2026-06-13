@@ -8,6 +8,7 @@ latitude: 31.5611
 longitude: 120.3050
 story: >
   Nanchan Temple was founded in the Southern Liang Dynasty (502–557 AD) and has burned down and been rebuilt several times over. The current structure is modern but the seven-storey Miaoxiang Pagoda beside it is a genuine Ming Dynasty survival, its brick core intact after five hundred years despite the fires that destroyed the wooden halls around it.
+score: 6.8
 ---
 
 Nanchan Temple sits in the heart of Wuxi's commercial centre, flanked by a pedestrian shopping street that is one of the busiest in the city. The temple itself — a working Buddhist institution — provides an abrupt contrast to the surrounding commercial noise: a courtyard of incense smoke, prayer, and relative quiet a few metres from the crowds.

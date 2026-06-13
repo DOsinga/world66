@@ -9,6 +9,7 @@ title: Bonn Minster
 type: poi
 story: >
   The Minster contains the remains of two Roman soldiers, Cassius and Florentius, who were executed for their Christian faith around 300 AD. Their remains, long venerated as relics, made Bonn a pilgrimage destination in the Middle Ages. Two giant stone heads representing the martyrs still guard the crypt entrance.
+score: 8.8
 ---
 
 Bonn's great Romanesque minster is one of the finest churches in the Rhineland and the spiritual heart of the old city. The building spans six centuries of construction — the crypt dates from around 1060, the nave is late Romanesque, and the Gothic east choir was added in the 13th century.

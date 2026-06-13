@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7333
 longitude: 58.0167
+score: 7.7
 ---
 
 Erbent preserves traditional Turkmen textile crafts that have declined sharply in urban areas. Carpet weaving here follows the Tekke style — deep reds and crimsons built from repeated geometric guls (medallion motifs), each pattern encoding tribal identity in a way that Turkmen weavers can read at a glance. Women typically weave on horizontal ground looms, a technique better suited to the nomadic lifestyle than the vertical looms used in Persian workshops.

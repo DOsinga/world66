@@ -9,6 +9,7 @@ longitude: -0.1017
 snippet: "Sacred polyphonic music festival held every six years in Morella — a UNESCO Intangible Cultural Heritage event"
 sources:
   - https://en.wikipedia.org/wiki/Morella,_Spain
+score: 8.0
 ---
 
 El Sexenni is one of the most extraordinary festivals in Spain — a celebration of sacred polyphonic music held every six years in Morella, dating back to 1673. For ten days in August, the town fills with choirs, musicians, and visitors from across Spain and beyond, performing in the basilica, the convent, and in the medieval streets. The festival is recognised by UNESCO as an Intangible Cultural Heritage of Humanity.

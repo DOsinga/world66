@@ -15,6 +15,7 @@ tags:
   - sight
   - church
   - architecture
+score: 9.5
 ---
 
 The Church of SS. Peter and Paul in the Antakalnis district, a ten-minute walk east of the old town, contains the most extraordinary interior in Vilnius. Two thousand stucco figures cover almost every surface of the nave, chapels, and vault: angels, apostles, saints, allegorical figures, hunting scenes, and mythological tableaux all rendered in white plaster with a skill that has few equivalents in northern Europe.

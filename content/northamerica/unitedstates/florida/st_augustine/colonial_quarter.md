@@ -10,6 +10,7 @@ longitude: -81.3131
 story: "The Colonial Quarter recreates the look of 18th-century St. Augustine using archaeological evidence from sites across the city. Archaeologists have excavated dozens of colonial-era properties along St. George Street, and the reconstructed buildings closely match the footprints and construction methods they found — making this one of the more evidence-based living history sites in the country."
 sources:
   - https://en.wikipedia.org/wiki/Colonial_Quarter
+score: 6.9
 ---
 
 The Colonial Quarter is a living-history museum on St. George Street that reconstructs life in 18th-century Spanish St. Augustine. Costumed interpreters demonstrate period skills — musket firing, blacksmithing, leatherworking — in recreated colonial structures representing the various phases of the city's history. The site is hands-on and family-friendly.

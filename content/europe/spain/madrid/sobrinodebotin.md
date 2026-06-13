@@ -1,6 +1,7 @@
 ---
 latitude: 40.414
 longitude: -3.7099
+score: 7.4
 story: The Guinness Book of Records lists Botín as the oldest continuously operating
   restaurant in the world — open since 1725. Goya is said to have worked here as a
   dishwasher; Hemingway sent Jake Barnes there for cochinillo asado in the final chapter
@@ -10,8 +11,6 @@ tags:
 - la_latina
 - restaurant
 - lalatina
-title: Sobrino de Botín
-type: poi
 ---
 
 The world's oldest restaurant, in business since 1725 and still cooking suckling pig in the original wood-fired oven on the basement level. The building, on Calle de los Cuchilleros below Plaza Mayor, is a four-storey 18th-century tile-and-timber maze, and the dining rooms — narrow, dark, tile-walled — feel exactly as they must have done two centuries ago.

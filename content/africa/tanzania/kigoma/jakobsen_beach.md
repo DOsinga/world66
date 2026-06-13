@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -4.9050
 longitude: 29.6105
+score: 7.0
 ---
 
 About 10 km south of Kigoma, Jakobsen's Beach is the cleanest and most pleasant swimming spot within easy reach of town. A pair of small white-sand bays separated by a rocky headland, it is set in a quiet patch of forested shoreline that drops sharply into deep, very clear water. The owners run a simple campsite and a couple of bandas, so you can also stay overnight.

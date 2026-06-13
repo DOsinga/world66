@@ -6,6 +6,7 @@ longitude: -86.8709
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Columbian Park is a large riverside park along the Wabash River, the main green space in the city. It has a small seasonal zoo (one of the oldest municipally operated zoos in Indiana), an amusement area with a carousel and miniature train, picnic areas, and sports facilities. It is primarily a family park and particularly busy on summer weekends.

@@ -6,6 +6,7 @@ longitude: 57.498448
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 Caudan Waterfront is a redeveloped harbour precinct on the western edge of the city — shops, restaurants, a craft market, a casino, and a cinema, all arranged around the old port basin. It's the cleaned-up, air-conditioned face of Port Louis, and prices reflect that.

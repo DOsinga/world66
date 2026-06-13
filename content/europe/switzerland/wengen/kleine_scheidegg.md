@@ -6,6 +6,7 @@ longitude: 7.9614
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 Kleine Scheidegg is the high pass at 2,061 metres where the cog railways from Wengen and Grindelwald meet, and where the Jungfrau Railway begins its tunnel climb to the Jungfraujoch. The setting is theatrical: the Eiger north face rises almost vertically a kilometre to the south, the Mönch and Jungfrau line up behind it, and the meadow around the station is a tangle of restaurant terraces, ski lifts, and arriving trains.

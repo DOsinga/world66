@@ -13,6 +13,7 @@ story: >
   engine derailed on the descent and a passenger jumped from a moving carriage
   and died. Services were suspended for a year while the rack system was rebuilt.
   It has run reliably ever since.
+score: 8.4
 ---
 
 The Snowdon Mountain Railway has been carrying passengers to the summit of Wales's highest mountain since 1896, running on a rack-and-pinion system up 7.6 kilometres of steep track from Llanberis to the summit at 1,085 metres. The journey takes about an hour each way, with views that open up dramatically above the treeline — on a clear day you can see Ireland, the Isle of Man, and the Wicklow Mountains.

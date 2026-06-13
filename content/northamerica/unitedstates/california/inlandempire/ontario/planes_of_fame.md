@@ -6,6 +6,7 @@ longitude: -117.6359
 tags:
   - things_to_do
   - museum
+score: 8.8
 ---
 
 A 15-minute drive south of Ontario at Chino Airport, Planes of Fame is one of the best WWII-era aircraft museums in the country, with a collection of about 150 aircraft, many of them still flyable. The hangars hold P-51 Mustangs, an F4U Corsair, a Japanese Zero (one of the last airworthy examples), a B-25 bomber, and dozens of others.

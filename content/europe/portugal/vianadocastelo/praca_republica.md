@@ -8,6 +8,7 @@ tags:
 latitude: 41.6934
 longitude: -8.8276
 snippet: Medieval central square flanked by the cathedral, Misericórdia church, and old town hall
+score: 8.5
 ---
 
 The Praça da República is the heart of Viana do Castelo's old town — a rectangular medieval square lined with the city's finest buildings. On one side stands the Cathedral of St. Mary the Great, on another the Renaissance facade of the Misericórdia church, and at the end the old town hall with its Gothic arcade. Together they make a set piece that is difficult to beat anywhere in northern Portugal.

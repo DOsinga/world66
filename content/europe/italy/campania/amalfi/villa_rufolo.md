@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Villa Rufolo's Moorish cloister was built in the 13th century by the Rufolo family, one of the wealthiest merchant dynasties of Amalfi. The family's fortune came from trade with North Africa and the Middle East, and they built their home in a style that reflected their customers — pointed arches, interlocking geometric patterns, and a cloister that looks more like Palermo's Palatine Chapel than a Campanian villa."
+score: 8.5
 ---
 
 Villa Rufolo in Ravello is one of the oldest surviving private gardens in Italy, occupying a promontory with views straight down to the Gulf of Salerno. The complex was built in the 13th century by the Rufolo family and was later used by various kings and popes; by the 19th century it had fallen into near-ruin and was purchased by a Scottish businessman, Francis Neville Reid, who restored the gardens in 1853.

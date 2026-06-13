@@ -15,6 +15,7 @@ story: >
   of altitude, soil, and the particular skill of Anxi growers produces a flavour
   profile — floral, slightly sweet, with a lingering aftertaste — that has never
   been successfully replicated elsewhere.
+score: 7.7
 ---
 
 Anxi County, about 60 kilometres northwest of Quanzhou, is the home of Tieguanyin oolong, one of the most celebrated teas in China and the primary product that Quanzhou merchants sold along the maritime trade routes. Tea from Anxi is sold in shops throughout Quanzhou city, but visiting the county gives a more direct experience: you can see the tiered plantations on the mountain slopes, visit working tea farms during the April and October harvests, and taste from producers who have been growing the same varieties for generations.

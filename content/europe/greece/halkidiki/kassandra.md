@@ -6,6 +6,7 @@ longitude: 23.4500
 tags:
   - things_to_do
   - neighbourhood
+score: 6.6
 ---
 
 Kassandra, the westernmost of Halkidiki's three fingers, is the most developed and the closest to Thessaloniki — about a 90 minute drive from the city. The peninsula has a string of resort towns along its east coast (Kallithea, Pefkochori, Hanioti) and a narrower, quieter west coast facing the Thermaic Gulf.

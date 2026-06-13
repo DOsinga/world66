@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8041
 longitude: 2.1215
+score: 7.4
 ---
 
 The Salle du Sacre is dominated by one of the largest paintings in the palace: Jacques-Louis David's immense *The Consecration of Emperor Napoleon*, painted in 1807 and measuring nearly 10 metres wide. It shows the moment in Notre-Dame cathedral on 2 December 1804 when Napoleon, having taken the crown from the pope, placed it on Josephine's head himself — one of history's most calculated acts of self-coronation.

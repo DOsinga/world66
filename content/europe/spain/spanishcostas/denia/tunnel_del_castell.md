@@ -7,6 +7,7 @@ tags:
 latitude: 38.8430
 longitude: 0.1060
 snippet: Underground Civil War air-raid shelter beneath the castle, open for guided tours
+score: 7.0
 ---
 
 The Túnel del Castell is a network of underground passages beneath the castle hill, originally constructed as an air-raid shelter during the Spanish Civil War (1936–39). Dénia was a Republican stronghold during the war, and the tunnels were dug to protect the civilian population from Nationalist bombing raids. The shelter could hold hundreds of people and was equipped with medical facilities and food stores.

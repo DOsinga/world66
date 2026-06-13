@@ -11,6 +11,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Loch_Lubnaig
+score: 7.5
 ---
 
 Loch Lubnaig stretches north from the Pass of Leny for about five kilometres, pinched between steep hillsides in a shape that gives it its name — "the crooked loch" in Gaelic. The A84 runs along its eastern shore, but the far quieter path on the western side (accessible from the Falls of Leny car park) gives a better experience: birch and alder woodland fringing pebbly beaches, and the water cold and clear enough to see the bottom. Brown trout and Arctic char live in the loch; otter are occasionally spotted at dawn and dusk.

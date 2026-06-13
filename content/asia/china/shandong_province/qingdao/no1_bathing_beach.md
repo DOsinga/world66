@@ -6,6 +6,7 @@ tags:
   - sight
 title: No. 1 Bathing Beach
 type: poi
+score: 7.5
 ---
 
 The most famous of Qingdao's city beaches, backed by a row of red-roofed bathhouses built by the Germans in 1901. No. 1 Beach curves in a wide arc of golden sand between two rocky headlands, with the Qingdao Aquarium to the west and Lu Xun Park to the east. In high summer it fills with millions of Chinese holidaymakers.

@@ -15,6 +15,7 @@ story: >
   transformation was declared.
 sources:
   - https://en.wikipedia.org/wiki/Ulsan_Industrial_Center_Monument
+score: 5.9
 ---
 
 This modest monument stands at the symbolic starting point of South Korea's industrial transformation. In 1962, Ulsan was designated the country's first Special Industrial District, and the construction of refineries, shipyards, and car plants here over the following two decades drove Korea's economic miracle as effectively as anything else. The monument is not spectacular as a physical object, but the history it represents is extraordinary.

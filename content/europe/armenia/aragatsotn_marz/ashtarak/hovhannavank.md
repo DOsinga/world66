@@ -12,6 +12,7 @@ tags:
   - sight
 title: Hovhannavank
 type: poi
+score: 8.7
 ---
 
 A 12th to 13th-century monastery perched dramatically above the Kasagh River gorge, about 7 kilometres north of Ashtarak. Hovhannavank is notable for its exceptionally fine carved stonework — the portal of the main church is one of the best examples of Armenian stone carving of the period. The monastery is built on foundations that go back to the very earliest days of Armenian Christianity.

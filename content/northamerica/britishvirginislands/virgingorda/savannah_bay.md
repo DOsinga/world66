@@ -8,6 +8,7 @@ tags:
 latitude: 18.466
 longitude: -64.415
 snippet: A mile-long crescent of white sand on the east coast of Virgin Gorda, usually almost empty
+score: 7.7
 ---
 
 Savannah Bay is one of the longest and quietest beaches on Virgin Gorda — a mile of soft white sand running along the east coast about two miles north of Spanish Town. There is no resort or restaurant on the bay, no parking lot to speak of, and no cruise-ship excursions, so even in high season it is unusual to see more than a handful of people on the sand.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.9200
 longitude: 90.4700
+score: 5.6
 ---
 
 The Gelephu Tshachu are hot springs located a short drive north of town, in a forested valley where the Himalayan foothills begin to rise. Hot springs (tshachu) have deep cultural significance in Bhutan — they are believed to have curative properties and are associated with the activities of Guru Rinpoche, who is said to have blessed the waters in the eighth century. The springs at Gelephu are popular with locals who come to bathe and relax.

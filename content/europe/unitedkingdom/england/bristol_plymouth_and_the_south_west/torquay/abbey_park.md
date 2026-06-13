@@ -7,6 +7,7 @@ tags:
 snippet: "Public park stretching from Torre Abbey to the seafront"
 latitude: 50.4630
 longitude: -3.5380
+score: 5.9
 ---
 
 A long ribbon of public park running from the back of Torre Abbey down to the seafront on Torre Abbey Sands. The southern half is open grass and palms — pleasant for a picnic and surprisingly empty even on busy summer days — and the northern half is more wooded, with mature trees and the historic abbey gardens beyond.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Fuerte de San Sebastián del Pastelillo
 type: poi
+score: 6.3
 ---
 
 The Fuerte de San Sebastián del Pastelillo is a small 18th-century colonial fort at the tip of the Manga peninsula, looking out over the channel that separates Cartagena's old city from the district of Bocagrande. It was built as part of the defensive system protecting the inner harbour and worked in tandem with the larger fortifications on the city walls.

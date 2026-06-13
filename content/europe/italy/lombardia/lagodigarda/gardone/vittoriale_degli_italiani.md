@@ -9,6 +9,7 @@ latitude: 45.623961
 longitude: 10.565013
 story: >
   D'Annunzio moved into the Villa Cargnacco in 1921 after the Italian government bought it to get him out of Fiume, where his private army had been causing diplomatic embarrassment. He spent the rest of his life transforming it. Among his acquisitions was the prow of the cruiser Puglia, which he had embedded into the hillside at roughly the height of a second-storey window. The rest of the ship sits in a dry dock in the gardens, fifty metres from the nearest water.
+score: 9.2
 ---
 
 The Vittoriale degli Italiani is the hillside estate of Gabriele D'Annunzio — poet, aviator, proto-fascist, and the most extravagantly self-mythologising figure in Italian cultural history. He lived here from 1921 until his death in 1938, and in that time transformed a pleasant lakeside villa into something between a museum, a mausoleum, and a private delirium. It is one of the stranger things you can visit in Italy, which is saying something.

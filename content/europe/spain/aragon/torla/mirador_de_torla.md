@@ -9,6 +9,7 @@ latitude: 42.6288
 longitude: -0.1094
 sources:
   - https://www.turismo-ordesa.com/pueblos/1/torla-ordesa
+score: 7.0
 ---
 
 The viewpoints around Torla are simple but powerful: stone village below, cliffs ahead, and the Ordesa valley pulling the eye into the mountains. You do not need a formal platform for the view to work.

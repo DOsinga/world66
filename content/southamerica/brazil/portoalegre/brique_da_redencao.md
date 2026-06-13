@@ -8,6 +8,7 @@ tags:
 story: The Brique da Redenção started in 1978 during the military dictatorship, initially as a small gathering of artists and artisans who needed a space to sell work that official channels would not touch. The market grew every year and became, over time, one of the few truly democratic public spaces in the city — a place where class, politics, and social divisions blurred for a few hours every Sunday.
 title: Brique da Redenção
 type: poi
+score: 7.9
 ---
 
 The Brique da Redenção is Porto Alegre's great weekly market, held every Sunday morning along the northern edge of Parque Farroupilha (Redenção) from about 8am to 2pm. It is not merely a craft market — though there are craft stalls — but a full market ecosystem: antiques dealers with old gaúcho silver and 20th-century furniture, vintage clothing sellers with genuinely good finds, jewellery makers, local food producers with cheese and cured meats and infused cachaça, book dealers, artists selling original work, children's toy vendors, and a dozen different food stalls doing their best business of the week.

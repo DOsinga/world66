@@ -6,6 +6,7 @@ longitude: 19.5120
 tags:
   - things_to_do
   - museum
+score: 6.2
 ---
 
 The municipal history museum, in a restored Ottoman-era house on a side street off the pedestrian zone. The exhibits trace Shkodër from the Illyrian period through the Venetian and Ottoman centuries to independence and the Communist era. A small ethnographic section on the ground floor displays traditional dress, looms, and ceramics from the surrounding villages.

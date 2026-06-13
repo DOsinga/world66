@@ -11,6 +11,7 @@ tags:
 - huertas
 title: The Watch Museum
 type: poi
+score: 5.4
 ---
 
 A small, specialist museum housed in the Grassy building on Gran Vía, displaying a private collection of antique clocks and watches spanning several centuries. The collection includes ornate pocket watches, early wristwatches, and decorative table clocks. A curiosity rather than a must-see, but worth a quick look if you are passing.

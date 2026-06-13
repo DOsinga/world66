@@ -9,6 +9,7 @@ latitude: 56.1400
 longitude: 47.2440
 story: >
   Chapayev became more famous in death than in life. His drowning while fleeing the White Army in 1919 — whether crossing the Ural River or the Belaya River, accounts differ — was mythologised into a heroic last stand. A 1934 Soviet film about him became one of the most-watched movies in Soviet history. The jokes, however, were funnier: "Chapayev jokes" became a whole genre of Russian humour, with Chapayev as a brave but dim-witted hero.
+score: 6.2
 ---
 
 Vasily Chapayev was born in a village near Cheboksary in 1887 and became one of the most celebrated commanders of the Red Army during the Civil War — and then, perhaps even more so, one of the most beloved subjects of Soviet jokes. The museum in his honour occupies a modest building in the city, with displays covering his military career, the Civil War period, and the remarkable afterlife his legend had in Soviet popular culture.

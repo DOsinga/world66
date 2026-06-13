@@ -1,6 +1,7 @@
 ---
 title: "Piazza Aranci"
 type: poi
+score: 6.8
 ---
 
 Piazza Aranci is the civic heart of Massa, an elegant rectangular space lined with arcaded buildings and planted with the orange trees that give it its name. The trees were introduced by the Cybo-Malaspina dukes in the seventeenth century as a mark of noble taste and a mild climate — oranges were a luxury plant, and their presence signalled that this was a court city of some standing. The piazza retains much of its original character, with the Palazzo Ducale (now housing local government offices) forming one side of the square.

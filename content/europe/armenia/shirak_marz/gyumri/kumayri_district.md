@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Kumayri Historic District
 type: poi
+score: 9.2
 ---
 
 Kumayri is the old name for Gyumri — the name the city had before the Russians renamed it Alexandrapol in 1837 — and the name the Soviets gave to the historic quarter when they declared it a protected area. It is the most rewarding part of the city to explore on foot: a dense grid of narrow lanes lined with two-storey tufa buildings, their facades often decorated with carved stone ornament and wrought-iron balconies that speak to the craftsmanship the city was once known for.

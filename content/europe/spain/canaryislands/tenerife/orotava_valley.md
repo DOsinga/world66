@@ -14,6 +14,7 @@ story: >
   petals, seeds, and bark. They are walked on at the end of the procession and
   destroyed. The tradition dates from the 17th century and is considered one of
   the finest Corpus Christi celebrations in Spain.
+score: 8.0
 ---
 
 The Orotava valley runs from the flanks of Teide down to the sea at Puerto de la Cruz, a sweep of terraced banana plantations, vineyards, and garden estates that has been cultivated for over 500 years. The town of La Orotava itself, about eight kilometres above Puerto de la Cruz, is one of the best-preserved colonial towns in the Canaries: Baroque mansions with traditional Canarian balconies, a lace-making tradition that persists in the old town, and the exceptional Casa de los Balcones where local crafts are still made and sold.

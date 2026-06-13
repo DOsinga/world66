@@ -9,6 +9,7 @@ latitude: -40.9183
 longitude: 174.9799
 sources:
   - https://en.wikipedia.org/wiki/Raumati_Marine_Gardens
+score: 5.4
 ---
 
 The Marine Gardens is a small public park that sits at the northern end of the beach, at the mouth of the Wharemauku Stream. It is a modest space — lawn, paths, a few mature trees — but it functions as the social centre of the village and the easiest way to access the sand.

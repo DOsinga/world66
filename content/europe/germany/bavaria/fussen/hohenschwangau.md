@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.7
 ---
 
 The childhood home of Ludwig II, perched on a small hill below the more famous Neuschwanstein and visited as a pair. Hohenschwangau is older and more lived-in: the castle was rebuilt by Ludwig's father Maximilian II in the 1830s in a Gothic-revival style over the ruins of a medieval keep, and the family used it as a summer residence for several decades.

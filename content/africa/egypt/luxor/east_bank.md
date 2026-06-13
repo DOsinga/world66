@@ -7,6 +7,7 @@ tags:
 latitude: 25.700000
 longitude: 32.645000
 snippet: "The living city — temples, corniche, bazaar, and the starting point for West Bank explorations"
+score: 7.8
 ---
 
 The East Bank is where Luxor's modern city sits, arrayed along the Corniche beside the Nile. Luxor Temple is literally on the waterfront, and the Karnak complex is 2.5 kilometres north. The Avenue of Sphinxes connects the two. Between and around them is the contemporary city: bazaars, restaurants, hotels, the train station, and the practical infrastructure of a functioning Egyptian town.

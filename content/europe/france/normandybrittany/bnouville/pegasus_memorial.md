@@ -13,6 +13,7 @@ tags:
 - museum
 latitude: 49.2423
 longitude: -0.2717
+score: 8.3
 ---
 
 The museum dedicated to the British 6th Airborne Division's role in Operation Overlord. Exhibits trace the planning and execution of the glider assault on Pegasus Bridge and the Ranville area, with personal equipment, weapons, uniforms, and oral history accounts from veterans. The original Pegasus Bridge spans a shallow pool in the museum grounds — visitors can walk across it. A full-size replica Horsa glider sits outside, giving a visceral sense of just how close to the ground these troops came in when they landed in the dark. Open March to November; closed December and January. Tel: +33 (0)2 31 78 19 44.

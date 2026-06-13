@@ -15,6 +15,7 @@ story: >
   making it the only lighthouse in Greece rebuilt by a private individual.
 sources:
   - https://en.wikipedia.org/wiki/Tourlitis_Lighthouse
+score: 7.4
 ---
 
 The Tourlitis Lighthouse is one of the most photographed sights in the Cyclades — a small automated lighthouse perched on a solitary sea rock just off the coast of Andros town. You can see it clearly from the castle promontory and from the terrace of the Museum of Modern Art, particularly striking at sunset when the light comes on.

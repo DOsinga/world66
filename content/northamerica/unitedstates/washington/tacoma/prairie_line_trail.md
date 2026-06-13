@@ -8,6 +8,7 @@ tags:
 latitude: 47.24527777777778
 longitude: -122.43805555555556
 story: The Prairie Line was a Northern Pacific Railroad spur line built in the 1870s as part of the transcontinental railroad connection that made Tacoma a terminus city. The railroad's choice of Tacoma over Seattle as its Puget Sound terminus shaped the region's development for decades, and the Prairie Line — the commercial artery connecting the waterfront to the interior — was central to that history. The rail tracks are gone now, replaced by a linear park connecting the University of Washington Tacoma campus to the waterfront.
+score: 6.6
 ---
 
 The Prairie Line Trail is a converted rail corridor running through downtown Tacoma, connecting the University of Washington Tacoma campus and the waterfront cultural district. The trail passes through the heart of Tacoma's history as a railroad terminus city, with interpretive installations along the route telling the story of the Northern Pacific Railroad's role in building the city.

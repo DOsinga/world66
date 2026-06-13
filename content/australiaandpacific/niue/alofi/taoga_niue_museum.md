@@ -12,6 +12,7 @@ story: >
   examples of Niuean woodcarving, tapa cloth, and plaited work in existence — artefacts
   that were never collected by colonial museums because Niue was so remote that European
   collectors rarely visited. What is here is here because it stayed.
+score: 7.3
 ---
 
 The Tāoga Niue Museum is Niue's national museum and cultural centre, located in central Alofi. The collection covers the full range of Niuean material culture: traditional carvings, woven mats, tapa cloth, fishing tools, and objects connected to the island's pre-Christian spiritual life. The building also hosts temporary exhibitions on Pacific history and contemporary Niuean art.

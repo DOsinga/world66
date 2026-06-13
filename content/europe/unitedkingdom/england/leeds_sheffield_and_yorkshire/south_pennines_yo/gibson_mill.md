@@ -9,6 +9,7 @@ tags:
 - museum
 title: Gibson Mill
 type: poi
+score: 7.2
 ---
 
 In the middle of the Hardcastle Crags woodland sits Gibson Mill, a National Trust attraction that combines social history with applied sustainability. The mill operated from 1800 as a cotton spinner, later became a Victorian pleasure ground with a dance floor and roller-skating rink, and now houses exhibitions on its three lives plus a café fuelled entirely by on-site renewable power.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 story: >
   The Pump Room has been serving visitors since 1706, making it one of the longest-running restaurants in England. In its Georgian heyday, Beau Nash held court here and the room was the social centre of fashionable Bath. A fountain at one end still dispenses warm spa water — you are welcome to try a glass, though most people manage only a sip before pulling a face.
+score: 7.7
 ---
 
 The grand neoclassical room adjoining the Roman Baths, serving morning coffee, lunch, and afternoon tea to the accompaniment of a live pianist or trio. The room itself is magnificent — high ceilings, Corinthian columns, a chandelier the size of a small car — and taking tea here is one of the classic Bath experiences. The afternoon tea with finger sandwiches, scones, and cakes is the main draw.

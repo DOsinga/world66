@@ -13,6 +13,7 @@ story: >
   Of the 238 people on board — passengers and crew, many of them servicemen — 137 died. It was 
   the worst maritime disaster in Newfoundland's history and the last major U-boat attack in 
   Canadian coastal waters.
+score: 6.2
 ---
 
 The memorial in the town centre commemorates the sinking of the SS Caribou on 14 October 1942. The ferry was making its regular crossing of the Cabot Strait when a German submarine torpedoed it; the ship sank in under five minutes. Of the 238 passengers and crew, 137 drowned — an enormous loss for a small community that depended on the crossing.

@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Antiques
 type: poi
+score: 4.9
 ---
 
 A small antiques shop on Praspiekt Niezaliezhnastsi (formerly Skoriny), Minsk's central boulevard. The stock leans toward Soviet-era memorabilia — medals, porcelain, clocks, samovars — alongside older Belarusian folk items. Worth a browse if you're in the area, though hours are limited: weekdays 10:00--14:00 and 15:00--19:00, closed weekends.

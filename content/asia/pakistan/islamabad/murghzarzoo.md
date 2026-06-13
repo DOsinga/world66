@@ -6,6 +6,7 @@ longitude: 73.0590
 tags:
   - things_to_do
   - sight
+score: 4.6
 ---
 
 Murghzar Mini Zoo sits at the foot of the Daman-e-Koh viewpoint in the Margalla Hills, an easy stop if you're already heading up for the views over Islamabad. The collection is modest — a few deer, birds, and monkeys — but the forested setting is pleasant and it's a popular spot for families.

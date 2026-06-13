@@ -13,6 +13,7 @@ story: >
   same one that levelled most of colonial Shillong — toppled the
   rock into the gorge. The name stuck even though the elephant
   has been gone for over a century.
+score: 6.8
 ---
 
 A three-stage waterfall in the pine forest about twelve kilometres from Shillong, just past the Air Force station on the road to Cherrapunji. A flight of stone steps descends past each tier; the lowest pool is the widest and most photographed.

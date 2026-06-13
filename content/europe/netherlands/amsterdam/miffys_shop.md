@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Miffy's Shop
 type: poi
+score: 3.2
 ---
 
 Dick Bruna's beloved rabbit has her own shop on Scheldestraat in the south of Amsterdam. Books, toys, teddies, games, clothing, and just about anything else that can carry the Miffy logo. A good stop if you are traveling with small children or need a distinctly Dutch gift.

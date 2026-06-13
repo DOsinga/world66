@@ -10,6 +10,7 @@ tags:
 - park
 title: Botanical Gardens Lorenzo Rota
 type: poi
+score: 6.5
 ---
 
 A well-tended botanical garden tucked into the hillside of Città Alta, with over 900 plant species across 1,357 square meters. The micro-habitats range from Alpine and Mediterranean to swamp and exotic plants. Free and worth a quiet half-hour.

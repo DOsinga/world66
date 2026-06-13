@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -16.4568
 longitude: -39.0631
+score: 6.5
 ---
 
 The car ferry across the Rio Buranhém is the only way in and out of Arraial that doesn't involve a long detour inland. It runs roughly every fifteen minutes from early morning to late at night, takes about ten minutes to cross, and costs little for foot passengers.

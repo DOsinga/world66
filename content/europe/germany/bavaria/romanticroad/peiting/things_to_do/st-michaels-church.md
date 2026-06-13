@@ -1,6 +1,7 @@
 ---
 title: "St. Michael's Church"
 type: poi
+score: 6.1
 ---
 
 St. Michael's is Peiting's parish church and its most visible landmark. The church dates in its current form to the Baroque era, and its white-rendered exterior with a characteristic onion-dome tower is typical of Upper Bavarian country church architecture — a style that repeats itself across the Pfaffenwinkel with subtle variations. The interior follows the regional pattern of whitewashed walls, painted ceiling panels and gilded side altars, though on a modest scale appropriate to a market town rather than a major pilgrimage site.

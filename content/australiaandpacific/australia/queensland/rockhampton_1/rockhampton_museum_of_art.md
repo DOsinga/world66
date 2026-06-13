@@ -10,6 +10,7 @@ longitude: 150.515076
 sources:
   - https://en.wikipedia.org/wiki/Rockhampton_Museum_of_Art
 story: "The museum holds one of the largest collections of works by Doris Greis and other central Queensland artists, alongside a nationally significant collection of Australian art assembled over a century. Regional galleries of this quality are genuinely rare outside state capitals."
+score: 6.9
 ---
 
 The Rockhampton Museum of Art (RMOA) is a regional gallery with a collection spanning more than a century of Australian art. Originally established as the Rockhampton Art Gallery in 1967, it was extensively rebuilt and reopened in 2021 in a purpose-built riverside building. The collection is weighted towards Australian art from the 19th century onwards, with particular strength in Queensland artists and works depicting central Queensland's landscape and cattle country.

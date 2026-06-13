@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 28.6746
 longitude: 115.8947
+score: 6.8
 ---
 
 The night market around Shengjin Tower is one of the oldest and most visited food markets in the city, operating every evening in the streets surrounding the ancient pagoda. Stalls sell skewered meats (including unusual offal options), fried rice cakes, stinky tofu, roast corn, freshwater crayfish (especially popular in summer), and a Jiangxi version of scallion pancake that is thinner and crispier than its northern counterpart.

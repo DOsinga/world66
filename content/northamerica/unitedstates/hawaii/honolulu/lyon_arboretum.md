@@ -8,6 +8,7 @@ tags:
 - sight
 title: Lyon Arboretum
 type: poi
+score: 7.0
 ---
 
 The Harold L. Lyon Arboretum sits at the mouth of Manoa Valley, managed by the University of Hawaii, and contains over 5,000 tropical plant species spread across 194 acres of steep, lush terrain. The arboretum specialises in Hawaiian native plants, ethnobotanical collections, and palms — the palm collection alone has hundreds of species from across the Pacific.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.9360
 longitude: -120.2820
+score: 7.8
 ---
 
 The Tuolumne River runs through steep granite canyons south of Sonora and offers some of the most challenging commercial white-water rafting in California. The main run descends roughly eighteen miles through a roadless wilderness canyon with a succession of Class IV and V rapids — Cherry Creek, Clavey Falls, and the Jawbone are among the most demanding stretches on any commercially run river in the state.

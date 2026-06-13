@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Punta Uva
 type: poi
+score: 8.3
 ---
 
 About 8 km south of Puerto Viejo, Punta Uva is the most postcard-perfect beach on the Caribbean coast — a deep horseshoe bay of pale-gold sand backed by tall coconut palms, with calm turquoise water inside the headland. The point at the north end has a small bat cave you can paddle around at low tide, and snorkelling along the rocks turns up reef fish and the occasional ray.

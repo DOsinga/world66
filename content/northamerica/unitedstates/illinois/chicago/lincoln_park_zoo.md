@@ -12,6 +12,7 @@ tags:
 title: Lincoln Park Zoo
 type: poi
 url: www.lpzoo.org
+score: 7.2
 ---
 
 One of the oldest zoos in the country and one of the last that is completely free. Lincoln Park Zoo sits in the heart of the North Side with a surprisingly good collection of animals, a working farm, and regular events throughout the year. It is family-oriented without being saccharine, and presentations are often given in small, intimate groups with the animals close by.

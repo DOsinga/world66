@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.9948
 longitude: -4.1005
+score: 5.2
 ---
 
 A proper Breton café on the riverbank, the kind of place where you can sit with a pression and watch the Odet go by. The terrace faces the old town quarter and is one of the more agreeable spots in Quimper for an afternoon drink. They serve Breton ciders from local producers alongside the usual café offerings.

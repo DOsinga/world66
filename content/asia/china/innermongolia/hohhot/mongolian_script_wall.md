@@ -7,6 +7,7 @@ tags:
   - old_town_quarter
 latitude: 40.8050
 longitude: 111.6450
+score: 6.6
 ---
 
 The short pedestrian street near Dazhao that has been themed around Mongolian script and calligraphy makes for an unusual urban walk. The vertical Mongolian alphabet — one of the few traditional scripts in the world that is still taught in schools and used in official signage — is displayed in large-format works along the street walls, including examples in classical calligraphic style, modern graphic design interpretations, and carved stone. The street has several shops selling Mongolian calligraphy, printed textiles with script designs, and books on the Mongolian language.

@@ -9,6 +9,7 @@ tags:
 - oberkampf
 title: Born Bad Records
 type: poi
+score: 6.3
 ---
 
 Born Bad Records is the best independent record shop in Paris for rare, underground, and experimental music of all kinds — soul, garage, kraut, punk, experimental, and anything that doesn't fit neatly elsewhere. The Bastille-area shop stocks vinyl and CDs with genuine curatorial taste. A second branch, Born Bad Exotica, focusing on world music and global sounds, is a few streets away at 11 rue Saint-Sabin.

@@ -8,6 +8,7 @@ latitude: 67.1167
 longitude: 26.9833
 sources:
   - https://en.wikipedia.org/wiki/Luosto
+score: 8.1
 ---
 
 About 70 kilometres south of Kemijärvi, the Luosto fell rises above the surrounding forest and hosts a small but enjoyable ski resort. The runs are modest compared to Alpine destinations — the longest is around 700 metres — but the setting is outstanding: open fell slopes, reindeer wandering the pistes, and a real chance of seeing the Northern Lights from the chairlift on a clear winter night.

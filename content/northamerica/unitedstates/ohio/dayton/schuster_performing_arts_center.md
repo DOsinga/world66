@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.76111
 longitude: -84.19333
+score: 6.8
 ---
 
 The Benjamin & Marian Schuster Performing Arts Center, opened in 2003, is Dayton's principal venue for the performing arts — home to the Dayton Philharmonic Orchestra, the Dayton Opera, and the Dayton Ballet, as well as touring Broadway productions. The building is the centrepiece of the downtown arts district, connected by an elevated pedestrian bridge to the adjacent Mead Theatre.

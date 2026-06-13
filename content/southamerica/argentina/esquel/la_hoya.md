@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small, friendly Patagonian ski hill 15km north of Esquel
+score: 7.9
 ---
 
 A small ski hill in a circular valley (la hoya = "the bowl") 15km north of Esquel, run as a family-friendly resort with about 24 marked runs and a vertical drop of around 850 metres. The skiing season is June to October — long by Andean standards because the valley faces south and holds snow well.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Museum on a thousand years of Worms's Jewish community"
+score: 7.3
 ---
 
 A small, calmly arranged museum in the rebuilt Rashi House next to the synagogue, telling the

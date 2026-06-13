@@ -9,6 +9,7 @@ latitude: 25.2940
 longitude: 51.5367
 story: >
   The park's central water feature — a large round fountain — was designed to frame the Museum of Islamic Art across the inlet. On calm evenings, the geometry of Pei's building reflected in the water is one of the cleaner views in Doha. The park also hosts the Museum of Illusions, a commercial entertainment venue that has nothing to do with Islamic art but draws steady family crowds.
+score: 7.1
 ---
 
 MIA Park occupies the land-side of the Museum of Islamic Art island, connected to the Corniche promenade by a footbridge. It is one of the more pleasant outdoor spaces in central Doha — shaded lawns, a small beach, a marina of traditional dhows, and unobstructed views across Doha Bay toward West Bay's skyline.

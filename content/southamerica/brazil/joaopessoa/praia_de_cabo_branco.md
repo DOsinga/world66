@@ -6,6 +6,7 @@ longitude: -34.7928
 tags:
   - things_to_do
   - beach
+score: 7.4
 ---
 
 Cabo Branco beach runs south from Tambaú along the base of the famous white cliffs that give the cape its name. It is quieter and cleaner than Tambaú, backed by the dramatic falésias (cliffs) that turn orange and gold at sunset. A cycle path runs along the top of the cliffs, with excellent views out over the Atlantic.

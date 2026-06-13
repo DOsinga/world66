@@ -13,6 +13,7 @@ story: >
   architectural elements — floors, walls, garden features. The result is less
   a house than a total environment, the product of one person's sustained
   obsession. He made the house a museum and left it to the city.
+score: 6.8
 ---
 
 The house and studio of sculptor Agustín Cardozo Velásquez is one of the more unusual sights in Oruro. The sculptor dedicated his career to making stone spheres — perfect spheres of all sizes, from marble-sized to boulder-sized — and built them into every surface of his home. The effect is something between a gallery and an architectural folly.

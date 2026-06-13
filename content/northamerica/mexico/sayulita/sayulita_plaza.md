@@ -12,6 +12,7 @@ story: >
   usually a marimba band or local group playing norteño or cumbia. Locals and
   visitors share the benches around the square with equal ease, which is not
   always true of tourist towns along this coast.
+score: 6.2
 ---
 
 The Plaza Principal is the social center of Sayulita — a shaded square with a central gazebo, surrounded by restaurants, shops, and the kind of benches where sitting and watching the world pass is entirely acceptable as an afternoon activity. It's compact enough that you can see it all from one spot, which makes it oddly useful for getting your bearings when you first arrive.

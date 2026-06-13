@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 13.4641
 longitude: -16.7019
+score: 8.2
 ---
 
 Kotu Stream runs through the resort area just south of Bakau and has earned a reputation among birders that extends well beyond The Gambia. The vegetation along the stream banks holds an improbable density of species: kingfishers, herons, warblers, and hornbills are reliable sightings, and serious listers come here specifically for African species that are otherwise hard to find. The bridge over the stream is a classic watching spot and is frequented by knowledgeable local guides who can make identifications at a distance.

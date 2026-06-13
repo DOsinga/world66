@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 snippet: "Norfolk's arts and nightlife hub in converted warehouses near downtown"
 latitude: 36.8523
 longitude: -76.2850
+score: 7.1
 ---
 
 The NEON District (New Energy of Norfolk) is a former warehouse and light-industrial area northeast of downtown that has been steadily colonised by galleries, murals, bars, and independent businesses. The Chrysler Museum has an outreach presence here, and the One Eleven East arts complex anchors one end.

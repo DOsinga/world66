@@ -9,6 +9,7 @@ tags:
 title: The Square
 type: poi
 story: "The Square is laid out on the site of an old Rangitāne pā called Papaioea (the original Māori name for the area). Surveyors in the 1860s set out the new town around it and adopted the Square — wider than most British colonial-era town squares — as the centrepoint of every street axis. Every road in central Palmy still leads to or from it."
+score: 6.2
 ---
 
 The Square is the heart of Palmerston North — a seven-hectare park-cum-plaza that fills the entire block where the city's main streets converge. It is one of the largest urban squares in New Zealand and unusual in that it is a real park rather than a paved plaza: lawns, mature oak and plane trees, a band rotunda, a clock tower, a small lake, and a 19th-century fountain.

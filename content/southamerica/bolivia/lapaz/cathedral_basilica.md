@@ -8,6 +8,7 @@ tags:
 - church
 title: Cathedral Basilica of Our Lady of Peace
 type: poi
+score: 7.2
 ---
 
 The Cathedral Basilica of Our Lady of Peace anchors the east side of [Plaza Murillo](/southamerica/bolivia/lapaz/plaza_murillo) and is, by the standards of South American cathedrals, a relatively restrained building. Construction began in 1831 and the cathedral was not consecrated until 1925 — nearly a hundred years of work, interrupted by wars, coups, and funding crises that make the timeline feel very Bolivian. The result is neoclassical: a broad facade with twin towers, carved stone saints in the niches, and a pale grey exterior that looks best in the low morning light.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 40.8200
 longitude: 111.6500
+score: 6.1
 ---
 
 The indoor handicraft market in central Hohhot — concentrated in the covered arcade between Zhongshan Road and the Dazhao area — is the best single-stop for Mongolian souvenirs in the city. The range of goods is considerable: snuff bottles in carved stone and jade, silver ornaments for horse bridles and clothing, painted leather goods, embroidered table runners in Mongolian floral patterns, and the small decorative wood-and-silver cases traditionally used to carry personal items on horseback.

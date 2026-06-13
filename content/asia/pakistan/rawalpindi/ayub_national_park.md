@@ -6,6 +6,7 @@ tags:
 - sight
 title: Ayub National Park
 type: poi
+score: 5.7
 ---
 Ayub National Park is the largest park in the twin cities, a long strip of green that runs along the edge of the Margalla foothills and forms one of the more pleasant breaks available from the congestion of central Rawalpindi. Named after Field Marshal Ayub Khan, who served as Pakistan's first military ruler, the park contains a small zoo, a lake, picnic grounds, and walking paths that get genuinely quiet midweek.
 

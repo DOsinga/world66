@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6970
 longitude: 7.2692
+score: 8.3
 ---
 
 Nice Carnival is one of the world's largest and oldest carnivals, held each February in the weeks before Lent and drawing hundreds of thousands of visitors for its two processions along the Promenade des Anglais and through Place Masséna. The King of the Carnival — a giant papier-mâché figure mounted on a float — presides over the festivities and is ritually burned at the closing ceremony on Shrove Tuesday.

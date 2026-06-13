@@ -13,6 +13,7 @@ story: >
   thousands of acres, had become one of the wealthiest men in the state, and was about to be
   elected Governor of Wyoming and then US Senator. The house stands as evidence that the
   rags-to-riches arc of frontier mythology was occasionally real.
+score: 7.5
 ---
 
 Trail End at 400 Clarendon Avenue is the 1913 Flemish Revival mansion of John B. Kendrick — cattle rancher, Governor of Wyoming, and United States Senator. The house is unusually grand for a ranching town, with 13,748 square feet of living space, original furnishings, and a full-width carriage house. It is maintained by Wyoming State Parks as a museum.

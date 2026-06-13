@@ -14,6 +14,7 @@ story: >
   the stadium was eventually built. When construction workers turned up no trace of it,
   the name stuck as a tribute to something valuable that might still be buried under
   the pitch.
+score: 5.9
 ---
 
 The Estádio Brinco de Ouro da Princesa is the home ground of Guarani FC, one of Campinas's two main football clubs, and one of the most unusually named stadiums in South America. The ground holds around 30,000 spectators and dates from 1953. Guarani had its finest moment in 1978 when the club won the Campeonato Brasileiro — the Brazilian national championship — a feat no other Campinas club has matched.

@@ -8,6 +8,7 @@ latitude: 54.1504
 longitude: -4.4687
 story: >
   The tower was built in 1832 by Sir William Hillary, founder of the Royal National Institution for the Preservation of Life from Shipwreck — the body that later became the RNLI. Hillary himself was rescued from a shipwreck on the very rock where the tower now stands, and he personally led over 20 lifeboat rescue missions from Douglas Bay, including several at great personal risk to himself.
+score: 6.8
 ---
 
 A small castellated stone tower on a reef in Douglas Bay, built in 1832 to give shelter to sailors wrecked on the submerged rock known as Conister Rock. The tower is now a protected structure and a distinctive landmark visible from the promenade — a small gothic folly sitting on what amounts to a few square metres of exposed rock in the middle of the bay.

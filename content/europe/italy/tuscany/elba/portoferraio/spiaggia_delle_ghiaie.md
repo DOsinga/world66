@@ -8,6 +8,7 @@ tags:
 latitude: 42.8197
 longitude: 10.3214
 snippet: "The white-pebble town beach just outside the walls — clear water, easy access, and the best swim within walking distance of the old town."
+score: 7.6
 ---
 
 Ghiaie — Italian for "gravels" — is the long white-pebble beach immediately west of Portoferraio's old town walls, a five-minute walk from the harbour. The pebbles are mostly white quartz, smoothed to almost spherical by the sea, and they give the water its characteristic clarity: even at a depth of several metres you can see the bottom clearly. The beach is wide, the swimming is gentle, and it is the easiest place to combine a morning's sightseeing in town with an afternoon swim.

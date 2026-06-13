@@ -6,6 +6,7 @@ longitude: 24.6950
 tags:
   - eating_out
   - market
+score: 5.8
 ---
 
 Thassos is known for two local products worth going out of your way for: thyme honey and white wine. The honey is produced from the thyme and pine that blanket the island's hillsides, and it has a flavour that is noticeably different from supermarket honey — darker, more aromatic, with a resinous quality that reflects the landscape it comes from. You will find it in small shops in Thassos Town and in village shops throughout the island; buy from a local producer rather than a tourist shop and you will pay half the price for a better product.

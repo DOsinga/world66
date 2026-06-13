@@ -10,6 +10,7 @@ tags:
 - sight
 title: Am Sande
 type: poi
+score: 7.8
 ---
 
 Lüneburg's main market square is lined with gabled brick houses built by the salt merchants who made the city rich. The square is dominated at its eastern end by the Johanniskirche, a massive Gothic brick church whose tower leans noticeably — the result of subsidence from centuries of salt extraction beneath the city. The weekly market still fills the square on Wednesdays and Saturdays.

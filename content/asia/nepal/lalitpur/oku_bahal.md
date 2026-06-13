@@ -7,6 +7,7 @@ tags:
 - sight
 title: Oku Bahal (Rudra Varna Mahavihar)
 type: poi
+score: 7.8
 ---
 
 Oku Bahal, also called Rudra Varna Mahavihar, is a working monastery courtyard south of the Mahabouddha temple. It is one of the most photographed of Patan's bahals because of the menagerie of metal objects in its central square: bells, lions, an elephant, a stone Garuda, a peacock. Each is a votive offering left over centuries by craftsmen and patrons.

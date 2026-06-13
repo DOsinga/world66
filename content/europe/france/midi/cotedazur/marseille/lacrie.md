@@ -9,6 +9,7 @@ tags:
 - theatre
 title: La Criée
 type: poi
+score: 6.2
 ---
 
 La Criée — the name means the fish auction — opened as the Théâtre National de Marseille in 1981, when the old fish-auction building on the Quai de Rive Neuve was converted by Marcel Maréchal. It is one of France's national theatres, with a main stage of 800 seats and a smaller space for 250. The programme mixes contemporary French drama with touring productions and occasional opera and dance. The building preserves the industrial bones of its former life — high ceilings, cast-iron pillars — which gives it a rawness that suits the city.

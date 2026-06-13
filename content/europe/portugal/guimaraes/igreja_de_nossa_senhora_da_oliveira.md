@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 8.2
 ---
 
 The collegiate church that gives Oliveira Square its name. Founded in the 10th century by the same Mumadona Dias who built the castle, then rebuilt in the 14th by King João I as thanks for victory at Aljubarrota, the church mixes Romanesque foundations with Gothic and Manueline additions.

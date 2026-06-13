@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - wildlife
+score: 8.2
 ---
 
 A 59-mile reach of the Missouri River downstream from Gavins Point Dam near Yankton, South Dakota, ending at Ponca State Park. It is one of only two stretches of the lower Missouri to still flow free of locks and dams, and the National Park Service protects it as a unit of the National Recreational River system. The river here braids around sandbars and chutes, with constantly shifting islands and gravel beaches.

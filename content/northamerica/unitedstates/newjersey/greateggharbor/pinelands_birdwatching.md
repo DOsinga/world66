@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.5155
 longitude: -74.3822
+score: 7.5
 ---
 
 The Great Egg Harbor River corridor is one of the best birdwatching areas in southern New Jersey. The mix of freshwater wetlands, tidal marshes, pine forest, and cedar swamp supports a wide variety of species that are difficult to find elsewhere in the densely developed Northeast. Bald eagles nest along the river and have become increasingly reliable sightings since their recovery from near-extinction in the region. Osprey are common in summer, using the taller dead trees and purpose-built platforms for nesting.

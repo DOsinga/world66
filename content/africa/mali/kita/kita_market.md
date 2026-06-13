@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 6.4
 ---
 
 The weekly market is the heart of Kita's economy and social life. Traders converge on the central market square with everything the surrounding country produces — millet, peanuts, shea butter, dried fish from the Niger, mangoes in season — and everything it needs in exchange: enamel pots, fabric, batteries, plastic sandals, secondhand clothes from Europe.

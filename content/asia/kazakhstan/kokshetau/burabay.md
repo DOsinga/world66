@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.0800
 longitude: 70.2700
+score: 9.0
 ---
 
 Burabay — or Borovoe — is Kazakhstan's most popular domestic resort destination, a series of forested granite hills rising dramatically from the flat steppe about 70 km south of Kokshetau. The area encompasses several lakes (among them the large Lake Shchuchye and smaller Lake Borovoe), surrounded by Scots pine and birch forest — a startling landscape for a region so dominated by open grassland. In summer the lakes are warm enough for swimming; in winter the area is used for cross-country skiing and ice fishing.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Thomas Heatherwick's experimental glass-and-resin public plaza
+score: 5.9
 ---
 
 Thomas Heatherwick's first major piece of public art, a glass-and-resin paved plaza outside the Laing Art Gallery designed to give the gallery a coherent forecourt. The brilliant blue surface was intended to "curl up" at the edges to form benches and bollards; the experiment has aged unevenly but is still worth a look.

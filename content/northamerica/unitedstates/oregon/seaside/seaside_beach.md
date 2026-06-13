@@ -8,6 +8,7 @@ tags:
   - beaches
   - beach
   - sight
+score: 7.6
 ---
 
 Seaside's beach is wide, flat, and dark-sand — the volcanic origin of the Pacific Northwest coast gives Oregon beaches their characteristic grey color rather than the white quartz sand of the Atlantic coast. The beach runs for several miles in each direction and at low tide the flat wet sand extends a long way out, making it ideal for running, cycling (permitted on the hard-packed lower beach), and the kind of long, mindless walking that the Oregon coast does best.

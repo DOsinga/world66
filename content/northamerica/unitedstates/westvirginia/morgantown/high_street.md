@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.6297
 longitude: -79.9559
+score: 5.8
 ---
 
 High Street runs through the center of downtown and is where you find most of the bars, restaurants, and coffee shops that serve the university crowd. The strip is at its most alive on Thursday and Friday evenings during the academic year, when the sidewalks fill and the bars run two-deep at the counter.

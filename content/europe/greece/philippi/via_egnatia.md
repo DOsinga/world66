@@ -6,6 +6,7 @@ longitude: 24.2868
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 The Via Egnatia, the great Roman road that linked Rome (via Brindisi and Dyrrachium on the Albanian coast) to Constantinople, cut directly through the middle of Philippi. The paved section that runs through the site is a few hundred metres long and is the original stone, with the wheel ruts of two thousand years of cart traffic still visible.

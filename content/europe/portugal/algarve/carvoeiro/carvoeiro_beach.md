@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0940
 longitude: -8.4710
+score: 7.0
 ---
 
 Carvoeiro's main beach sits at the bottom of the village, a compact sandy cove framed by rust-coloured limestone cliffs and the old fort to the east. It is sheltered, calm, and small — which means it fills up in July and August. Outside the peak season it is quietly pleasant, with the village restaurants and bars a short walk up the hill.

@@ -14,6 +14,7 @@ story: >
   tourist transport — and the "burro taxis" became Mijas's most recognisable
   symbol. The donkeys are now overseen by a municipal association responsible
   for their welfare.
+score: 5.0
 ---
 
 The donkey taxis of Mijas are a genuine piece of local history repurposed for tourism. When mechanised vehicles replaced the working donkeys that had carried marble and lime down from the hillside quarries, the animals were converted to a new purpose: carrying visitors through the steep cobbled lanes of Mijas Pueblo. The route up and down the village main street, with the sea visible at every turn, is still covered by donkey for those who want the experience.

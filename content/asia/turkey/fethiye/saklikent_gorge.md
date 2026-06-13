@@ -7,6 +7,7 @@ tags:
 snippet: Dramatic 300-metre-deep canyon you wade through waist-deep in meltwater
 latitude: 36.4867
 longitude: 29.4200
+score: 8.0
 ---
 
 Saklıkent is Turkey's longest gorge — an 18 km slot canyon cut through limestone by the Eşen river, with walls rising 300 metres on either side. You enter via a wooden walkway bolted to the canyon wall, then wade into the river itself. The water is cold — it is snowmelt from the Akdağlar mountains — and the current is surprisingly strong in places.

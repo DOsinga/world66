@@ -8,6 +8,7 @@ latitude: 20.9118
 longitude: -156.9637
 story: >
   The Hawaiian name Keahiakawelo — "the fire of Kawelo" — comes from a legend of a contest between two priests, one from Lanai and one from Molokai, each trying to keep a sacred fire burning longest using only the vegetation of their island. The Lanai priest, Kawelo, stripped the surrounding land bare to feed his fire and won. The barren landscape, the story goes, has never recovered.
+score: 8.5
 ---
 
 The Garden of the Gods is one of Lanai's most striking sights: a high plateau scattered with boulders, spires, and pinnacles of red, ochre, and purple volcanic rock, arranged by erosion into shapes that look deliberate but are entirely accidental. In the early morning or late afternoon, when the low sun turns the rocks amber and the shadows deepen between them, the landscape is genuinely otherworldly — more Utah than Hawaii.

@@ -11,6 +11,7 @@ story: >
   During the Confederate invasion of Pennsylvania in June 1863, General J.E.B. Stuart's cavalry shelled Carlisle from outside town before learning that the Battle of Gettysburg had begun and riding south to join it. The bombardment set fire to the cavalry barracks, but most of the historic buildings in the borough centre survived — which is why so much of the pre-Civil War streetscape is still intact.
 sources:
   - https://en.wikipedia.org/wiki/Carlisle_Historic_District_(Carlisle,_Pennsylvania)
+score: 7.6
 ---
 
 The Carlisle Historic District encompasses much of the old borough centre and contains a concentrated collection of 18th and 19th century architecture — Federal, Georgian, and Victorian buildings mostly intact along the main streets. It is on the National Register of Historic Places.

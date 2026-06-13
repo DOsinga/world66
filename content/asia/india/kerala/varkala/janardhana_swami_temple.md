@@ -9,6 +9,7 @@ longitude: 76.71000
 story: "The Janardhana Swami Temple is believed to be over 2,000 years old, making it one of the oldest continuously worshipped temples in Kerala. According to tradition, the presiding deity — Vishnu in the form of Janardhana — appeared here spontaneously, which gives the site a special sanctity. Pilgrims believe that performing the final rites (*pitru tharpanam*) for the dead at Papanasam Beach below absolves all ancestral sins."
 sources:
   - https://en.wikipedia.org/wiki/Janardanaswamy_Temple
+score: 8.2
 ---
 
 The Janardhana Swami Temple sits on the cliff top above Papanasam Beach, and its 2,000-year history gives Varkala a different weight from most Kerala beach towns. This is not a backpacker resort that happens to have a temple — it is an ancient pilgrimage site that also has backpackers. The distinction matters: the beach below is considered sacred, and the rituals performed there by Hindu pilgrims are a genuine part of daily life here, not a performance for visitors.

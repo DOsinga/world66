@@ -8,6 +8,7 @@ tags:
 - sight
 title: The Bani River
 type: poi
+score: 5.9
 ---
 
 Djenné sits on an island in the Bani River, a tributary of the Niger. The river is the reason the town exists: it isolates and protects the old quarter, brings traders by pirogue from the Niger Delta, and floods the surrounding plain each year to leave behind the rich rice-growing land that sustains the region. The ferry crossing on the main road from Mopti — a wooden barge poled across the channel — is part of any approach to the town.

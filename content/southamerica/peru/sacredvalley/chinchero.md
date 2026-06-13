@@ -6,6 +6,7 @@ latitude: -13.3911
 longitude: -72.0478
 snippet: High-altitude weaving village above the valley, with a Sunday market and a colonial church
 story: The 17th-century church at Chinchero was built directly on top of an Inca royal estate said to have belonged to Tupac Yupanqui. The foundations and lower walls — including the great trapezoidal wall along one side of the plaza — are pure Inca stonework supporting a Spanish baroque superstructure.
+score: 8.3
 ---
 
 A small village sitting on a plateau at 3,762 metres — higher than Cusco — above the main Sacred Valley. Chinchero is famous for two things: its weaving cooperatives, which produce some of the finest natural-dye textiles in Peru, and a striking colonial church built directly on the foundations of an Inca royal estate.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.024116
 longitude: -4.548374
+score: 7.6
 ---
 
 The Dolmen de Viera stands a few hundred metres from the Dolmen of Menga in the same archaeological park and is a different construction altogether — a long, narrow corridor tomb rather than a wider chamber tomb, with a small square burial chamber at the end. It dates from around 2500 BCE, somewhat later than Menga, and is aligned to face the rising sun at the equinoxes. A shaft of sunlight enters the corridor and reaches the back chamber at spring and autumn equinox.

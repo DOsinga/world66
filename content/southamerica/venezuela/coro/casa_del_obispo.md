@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 11.4076
 longitude: -69.6782
+score: 6.3
 ---
 
 The Bishop's House sits on the corner of the Plaza Bolívar opposite the cathedral, a long single-storey building that served as the archbishop's residence through the colonial period. The thick walls of bahareque, deep eaves, and small windows are textbook 18th-century Coro construction; the building is one of the more intact survivors of the colonial centre.

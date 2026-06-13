@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.4350
 longitude: 27.1390
+score: 5.6
 ---
 
 The İzmir Natural History Museum in Culture Park covers the geology, flora, and fauna of the Aegean region, with fossil collections, mineral specimens, and displays on the region's biodiversity. It is a modest but thoughtfully organised museum that gives context to the extraordinary natural landscape around İzmir — the Aegean coastline, the volcanic geography, and the unusually rich endemic plant life of the Aegean bioregion.

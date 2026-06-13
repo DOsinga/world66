@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.9925
 longitude: -2.1675
+score: 7.1
 ---
 
 Severn Ham is a large area of flood meadow between the Severn and the town, designated as a Site of Special Scientific Interest for its unimproved grassland habitat. The meadows flood regularly in winter and spring, creating a temporary wetland that attracts wildfowl and wading birds in numbers that can be impressive after heavy rain.

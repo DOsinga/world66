@@ -2,6 +2,7 @@
 category: Sight
 latitude: 31.2296
 longitude: 121.4744
+score: 7.4
 snippet: Central public square on the site of the old British race course
 story: From 1862 to 1949 this was the Shanghai Race Course — the second-largest racetrack
   in the British Empire. After the Communist takeover, the track was bulldozed, the
@@ -12,8 +13,6 @@ tags:
 - things_to_do
 - sight
 - city_center
-title: People's Square
-type: poi
 ---
 
 The civic centre of modern Shanghai, between the Bund and Nanjing Road. Surrounded by the Shanghai Museum, the Grand Theatre, the Urban Planning Exhibition Center and the City Hall, with the green expanse of People's Park to the north. On weekends the park hosts the famous **marriage market**: anxious parents pin handwritten advertisements describing their unmarried adult children — height, salary, education, hukou — and hover, hoping to interview a match for their offspring.

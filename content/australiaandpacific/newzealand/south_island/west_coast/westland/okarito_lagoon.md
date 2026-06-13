@@ -12,6 +12,7 @@ story: >
   individuals in the wild. The Ōkārito Kiwi Sanctuary programme uses pest
   control across 11,000 hectares of forest to protect nesting pairs; the
   population has grown from around 160 birds in the 1990s to its current level.
+score: 8.6
 ---
 
 Okarito Lagoon is the largest unmodified wetland in New Zealand, a vast tidal estuary on the coast north of Franz Josef where wetland, rainforest, and the open sea meet without any human interference in between. The lagoon is one of the only places in the world where kōkako can still be heard, and it is the sole stronghold of the rowi — the Ōkārito brown kiwi — the rarest subspecies of kiwi on earth. Guided night tours run from the small village of Okarito, and if conditions are right, you have a genuine chance of encountering one at close range.

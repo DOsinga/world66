@@ -9,6 +9,7 @@ tags:
   - diving
 snippet: The Red Sea's flagship marine park, where the Gulfs of Aqaba and Suez meet.
 story: "When the protective status was declared in 1983, Ras Mohammed became Egypt's first national park. The Shark Reef wall plunges almost straight down for 800 metres, drawing nutrient-rich currents that bring schooling barracuda, reef sharks, and the great gathering of red snapper that arrives every July."
+score: 9.3
 ---
 
 Ras Mohammed sits on the southern tip of the Sinai Peninsula, about 20 km south of central Sharm el-Sheikh. The park protects 480 square kilometres of land and sea where the Gulfs of Aqaba and Suez collide, creating powerful currents that support some of the densest coral cover anywhere in the Red Sea. The famous Shark Reef and Yolanda Reef walls are textbook drift dives, with sightings of pelagics common throughout the year.

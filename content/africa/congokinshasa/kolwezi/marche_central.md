@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
 snippet: The central market — the daily commercial life of the city
+score: 6.3
 ---
 
 The main market in central Kolwezi is, like central markets across Congo, the easiest way to see the everyday life of the place outside the mining sector. Cassava, fish brought up from the Lualaba, fabrics in the famous Congolese wax prints, kitchen goods imported via Lubumbashi, and a fair amount of basic mining-camp supplies share the stalls.

@@ -14,6 +14,7 @@ story: >
   formations that create cave systems elsewhere — and the springs are the visible
   expression of an extensive underground water network that has carved the valley
   over millions of years.
+score: 6.9
 ---
 
 The Baiquan Gorge in Kangxian County is Longnan's best-known scenic area, a limestone gorge with multiple waterfalls, deep pools, and the dense forest cover that distinguishes southern Gansu from the arid landscapes further north. The footpaths through the gorge are well maintained and can be walked in a few hours, though the full scenic area is large enough to justify a full day if the weather is good.

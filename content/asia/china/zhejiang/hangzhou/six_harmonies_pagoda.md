@@ -13,6 +13,7 @@ story: >
   outlasted most of its contemporaries. The bore still comes — up to 9 metres
   high on the highest lunar tides of the year — and people still gather to
   watch it.
+score: 8.6
 ---
 
 Six Harmonies Pagoda stands on Yuelun Hill where the Qiantang River enters the southern edge of Hangzhou, thirteen stories of brick and wood rising 60 metres over the water. Built in the Northern Song dynasty to calm the famous tidal bore of the Qiantang River, it is one of the best-preserved ancient pagodas in China and gives views across the river and down into the city.

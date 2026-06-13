@@ -10,6 +10,7 @@ tags:
 - sight
 story: >
   The cable cars are known locally as "les bulles" — the bubbles — because of their spherical transparent gondolas. When they were installed in 1934, they were the first urban cable car in France. The current bubble design dates from 1976 and has become one of Grenoble's most distinctive sights: watching the spheres rise silently above the Isère River toward the hilltop fortifications is a pleasure whether you're inside one or watching from the quay.
+score: 8.4
 ---
 
 The Grenoble-Bastille cable car rises from the Jardins de Ville on the banks of the Isère to the Bastille fortress 476 metres above the city. The journey takes less than five minutes and the panoramic views begin almost immediately: the Chartreuse to the north, the Belledonne to the east, the Vercors to the southwest, and Grenoble spread out below in the flat valley floor.

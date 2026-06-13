@@ -14,6 +14,7 @@ story: >
   It was his first season in organised baseball. He hit .336, led the Northern League
   in runs batted in, and was named the league's Most Valuable Player. Carson Park's
   stadium still displays a plaque at the spot where he stood.
+score: 8.4
 ---
 
 Carson Park occupies a wooded peninsula in Half Moon Lake on the west side of town, and it manages to pack three genuinely interesting attractions into 134 acres. The Paul Bunyan Logging Camp is an open-air museum of the 19th-century timber industry — seven authentic logging camp buildings, including a bunkhouse, cook shanty, and blacksmith shop, staffed by interpreters in period dress. It brings the industry that built Eau Claire to life more effectively than most indoor museums manage.

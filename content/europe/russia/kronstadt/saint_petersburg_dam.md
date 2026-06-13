@@ -8,6 +8,7 @@ latitude: 60.0064
 longitude: 29.7483
 sources:
   - https://en.wikipedia.org/wiki/Saint_Petersburg_Dam
+score: 6.7
 ---
 
 The Saint Petersburg Flood Prevention Facility Complex is the 25-kilometre dam and barrier system that connects Kotlin Island to the mainland on both sides, carrying the ring road that links Kronstadt to St Petersburg and the shore communities. The dam was one of the largest infrastructure projects in Soviet and post-Soviet Russia: begun in 1980, suspended for lack of funds in the 1990s, and finally completed in 2011.

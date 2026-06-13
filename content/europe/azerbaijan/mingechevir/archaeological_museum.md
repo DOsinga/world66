@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Local history museum with finds from the pre-Islamic Caucasian Albanian sites"
+score: 7.9
 ---
 
 Mingechevir's history museum holds finds from the extraordinary archaeological excavations conducted in the area before and during the dam's construction. The region was continuously occupied for over 5,000 years — Iron Age, Caucasian Albanian, early Christian, and medieval Islamic layers all co-exist in the stratigraphy here. Many of the most significant finds went to the National Museum of History in Baku, but the local museum retains substantial collections from the excavations.

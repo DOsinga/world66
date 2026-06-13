@@ -13,6 +13,7 @@ story: >
   exposing goods to rain or snow. Rosenheim's arcades date from the
   17th and 18th centuries but follow a building tradition stretching back
   to the medieval salt trade.
+score: 7.2
 ---
 
 **Max-Josefs-Platz** is the main square of Rosenheim's old town, surrounded by colourful arcaded buildings (Laubenhäuser) that are characteristic of the Inn Valley architectural tradition. The square is pedestrianised and lined with cafes, shops, and the town hall. It is the natural starting point for a walk through the historic centre.

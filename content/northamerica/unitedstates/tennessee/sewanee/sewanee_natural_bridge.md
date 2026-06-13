@@ -9,6 +9,7 @@ latitude: 35.1537
 longitude: -85.9215
 sources:
   - https://en.wikipedia.org/wiki/Sewanee_Natural_Bridge
+score: 7.7
 ---
 
 A 25-foot-high natural sandstone arch with a 50-foot span, located in a Tennessee state natural area about 5 miles south of the Sewanee campus. It's one of the more accessible natural arches in the region — a short flat walk from the small parking area brings you directly to the arch, and you can walk across the top if you're comfortable with heights.

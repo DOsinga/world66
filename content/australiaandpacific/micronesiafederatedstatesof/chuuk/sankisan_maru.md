@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
 snippet: A cargo wreck with trucks still parked in its hold
+score: 8.8
 ---
 
 The Sankisan Maru sank during the second day of Operation Hailstone with its cargo of military vehicles still secured below decks. The top of the mast breaks the surface, making it easy to find, and the wreck sits at 6–40 metres, making part of it accessible even to snorkellers.

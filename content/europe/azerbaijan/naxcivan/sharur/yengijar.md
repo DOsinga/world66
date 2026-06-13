@@ -6,6 +6,7 @@ longitude: 44.9700
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 A small town a couple of kilometres south of Sharur, on the older route through the valley. Yengijar was the principal local centre before the railway came north and the modern town of Sharur grew up around the station. It is still the more interesting of the two — a couple of old mosques, the ruined Soviet-era baths, and a small but lively bazaar.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: The Baltic Fleet
 type: poi
+score: 7.7
 ---
 
 A handsome Victorian wedge-shaped pub on Wapping, just south of the Albert Dock, said to be haunted and to have smuggling tunnels in the cellar that connect to the docks. It was for many years Liverpool's only pub with its own brewery — Wapping Beers, brewed on the premises — and the cask ales are still excellent.

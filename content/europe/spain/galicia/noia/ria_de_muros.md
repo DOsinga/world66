@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7700
 longitude: -8.9200
+score: 6.9
 ---
 
 The estuary at Noia's feet is one of the four great Galician rías — long inlets carved by the sea into the granite coastline, sheltered from the Atlantic swell, and extraordinarily productive. The mussel and oyster rafts that float on the water are a common sight; this is one of the most productive shellfish areas in Europe, and the molluscs eaten in Santiago de Compostela restaurants 35 km away were almost certainly grown here.

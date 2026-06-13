@@ -8,6 +8,7 @@ latitude: 47.9701
 longitude: 23.6940
 sources:
   - https://en.wikipedia.org/wiki/Merry_Cemetery
+score: 9.0
 ---
 
 In most cultures death is solemn. In Săpânța, a village at the far northwestern edge of Maramureș, a local craftsman named Stan Ioan Pătraș decided it should be cheerful. Starting in the 1930s, he began carving and painting the crosses in the village cemetery with vivid portraits of the dead — and then adding verses in the first person describing how they lived, how they died, and occasionally what they thought of their neighbours.

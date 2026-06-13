@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 33.8893
 longitude: -117.8772
+score: 6.0
 ---
 
 A 39-acre park spanning the borders of Placentia, Fullerton, and Brea — hence the name — built around a small lake that you can walk all the way around in under half an hour. There are picnic shelters, playgrounds, a fishing pier, and enough waterfowl to keep small kids entertained for an afternoon.

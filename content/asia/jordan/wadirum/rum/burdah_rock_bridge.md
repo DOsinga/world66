@@ -10,6 +10,7 @@ story: >
   At roughly 35 metres above the ground, Burdah is one of the highest natural rock arches in the
   world. The first recorded crossing by a Western climber was in 1984, but Bedouin shepherds had
   been scrambling over it for generations before that, using it as a shortcut between valleys.
+score: 9.5
 ---
 
 The trek to Burdah Rock Bridge is the most demanding hike most visitors will attempt in Wadi Rum, and it is magnificent. The bridge sits high on the ridge of Jabal Burdah in the southern part of the protected area, about 15 kilometres from the village.

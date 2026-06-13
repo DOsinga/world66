@@ -8,6 +8,7 @@ latitude: 17.9891
 longitude: -76.7993
 story: >
   Bob Marley's "Concrete Jungle" was written about Arnett Gardens — a government housing estate in West Kingston built in the 1960s that became, by the 1970s, one of the most politically contested neighbourhoods in the city. The gangs and political patrons who controlled Jungle, as locals call it, were central to the violence that accompanied every election during the garrison politics era. The neighbourhood has a football club — Arnett Gardens FC — that has competed at the top of Jamaican football since the 1970s.
+score: 6.2
 ---
 
 Arnett Gardens, known universally as Jungle, is a government housing estate in West Kingston that became one of the most famous of the city's "garrison communities" — neighbourhoods where political parties distributed housing and employment in exchange for electoral loyalty, creating densely populated urban zones with their own internal hierarchies and periodic outbreaks of serious violence.

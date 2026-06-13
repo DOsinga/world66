@@ -10,6 +10,7 @@ latitude: 8.9344
 longitude: 77.2742
 snippet: Cluster of medicinal-water waterfalls 60 km north of the city
 story: "The waters of Courtallam pass through forests of medicinal herbs in the Western Ghats before falling, and Siddha tradition holds that they retain therapeutic properties — particularly during the monsoon. The season is unusual: Courtallam's main monsoon comes from the southwest in late June through August, and again from the northeast in October–November, giving it the longest active waterfall season in Tamil Nadu."
+score: 8.3
 ---
 
 Courtallam — locally "the Spa of the South" — is a cluster of nine waterfalls 60 km northwest of Tirunelveli, dropping out of the Western Ghats onto the plain. The Main Falls, where the water plunges 60 metres in a single sheet, is the most popular and the most crowded, with concrete bathing platforms below and changing rooms cut into the rocks.

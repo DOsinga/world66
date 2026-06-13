@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - airfield
+score: 5.8
 ---
 
 A small grass airstrip in the middle of the island, the Juist airfield handles a handful of small aircraft a day — light tourist flights from the mainland and the air-mail / supply runs that the larger East Frisian islands no longer rely on. The terminal is essentially a hut with a windsock and a coffee machine.

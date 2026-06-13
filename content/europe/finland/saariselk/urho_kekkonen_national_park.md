@@ -9,6 +9,7 @@ tags:
 latitude: 68.3500
 longitude: 27.8500
 story: "Named after the long-serving Finnish president (1956–1982), the park covers 2,550 square kilometres — bigger than Luxembourg — and runs all the way to the Russian border. It is one of the largest protected wildernesses in the European Union."
+score: 9.5
 ---
 
 The park starts where Saariselkä village ends. From the trailhead at Kiilopää or directly from the centre of the village, marked paths cross the open fells and drop into birch forests, then into the deeper pine taiga to the east. The terrain is gentle by mountain standards but the distances are vast — multi-day hikers can walk for a week without crossing a road.

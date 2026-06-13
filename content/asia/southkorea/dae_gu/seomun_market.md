@@ -11,6 +11,7 @@ story: >
   Seomun Market has been trading on approximately the same site since the Joseon period. It became particularly important in the late 19th and early 20th centuries as the centre of Daegu's textile industry — the city was the capital of Korean cotton production, and the markets here determined prices across the peninsula. The textile trade has largely moved on, but the market's lanes are still thick with fabric sellers, and the reputation survives.
 sources:
   - https://en.wikipedia.org/wiki/Seomun_Market
+score: 7.5
 ---
 
 Seomun Market (서문시장) is one of Korea's largest traditional markets, a sprawling covered complex in the western part of central Daegu that has been in continuous operation for centuries. The market's footprint now includes several attached buildings and thousands of stalls selling textiles, clothing, dried food, hardware, and household goods. It is a working market rather than a tourist attraction, which makes it more interesting than the curated experience of some Seoul markets.

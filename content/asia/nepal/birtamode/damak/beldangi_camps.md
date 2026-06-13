@@ -9,6 +9,7 @@ tags:
   - history
 story: >
   The Bhutanese refugee crisis was one of the least-covered mass displacements of the 1990s. Over 100,000 ethnic Nepali-speaking Lhotshampa were expelled from Bhutan between 1990 and 1993 — often from families that had lived there for generations — in a policy of enforced cultural homogenisation. They ended up in camps in eastern Nepal, where many spent fifteen to twenty years before third-country resettlement in the US, Canada, Australia, and Europe. The Beldangi camps at their peak housed around 50,000 people.
+score: 7.1
 ---
 
 The Beldangi camps north of Damak were the largest of several refugee settlements in Jhapa district that housed Bhutanese refugees — ethnic Nepali Lhotshampa expelled from Bhutan from 1990 onwards. At their peak the camps held over 100,000 people across the district. Since 2007, the UNHCR has overseen a major third-country resettlement programme, and the camps have gradually emptied as residents were resettled primarily to the United States, Canada, Australia, and European countries.

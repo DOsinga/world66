@@ -10,6 +10,7 @@ tags:
 latitude: 39.3275
 longitude: -120.1867
 story: "Commercial Row was built in the 1870s and 1880s during Truckee's railroad heyday, when the town was a major supply point for Central Pacific Railroad workers pushing the transcontinental line over Donner Pass. The wooden false fronts and brick facades look almost exactly as they did then — the town's isolation helped preserve what many California railroad towns long since demolished."
+score: 8.4
 ---
 
 Commercial Row is Truckee's historic main street, a Victorian-era strip of brick and wooden storefronts that runs parallel to the railroad tracks. Built during the town's 1870s logging and railroad boom, the buildings are on the National Register of Historic Places and have been well maintained without being sanitised. Today the storefronts house good restaurants, independent shops, coffee places, and the odd bookshop — it is exactly what a genuine mountain town commercial district should look like.

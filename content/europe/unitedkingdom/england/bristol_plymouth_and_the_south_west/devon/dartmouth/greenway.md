@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Greenway_(house)
 story: >
   Agatha Christie's grandfather bought Greenway in 1938 as her holiday home, and she kept it until her death in 1976. During the Second World War the house was requisitioned by the US military as a base for officers commanding landing craft operations. An American officer painted a mural in the library to pass the time — Christie found it so charming she kept it, and you can still see it today.
+score: 8.4
 ---
 
 Greenway is Agatha Christie's holiday home on a wooded bend of the River Dart, now managed by the National Trust. The house is not a museum in the formal sense — it still feels like somewhere someone lives, crammed with Christie's collections of china, silver, archaeological finds from her travels with husband Max Mallowan, and the comfortable clutter of a family that has been coming here for decades.

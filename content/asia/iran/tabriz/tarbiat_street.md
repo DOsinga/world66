@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tarbiat Street
 type: poi
+score: 5.7
 ---
 
 Tarbiat Street is the central pedestrian artery of downtown Tabriz, lined with

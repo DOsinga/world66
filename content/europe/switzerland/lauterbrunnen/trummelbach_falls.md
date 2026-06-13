@@ -8,6 +8,7 @@ latitude: 46.5691
 longitude: 7.9150
 story: >
   Trümmelbach carries glacier meltwater from the Eiger, Mönch, and Jungfrau — three of the most famous peaks in the Alps — and can carry up to 20,000 litres per second at peak melt. All of this pours through a series of ten tiered falls entirely inside the mountain, carved over millennia into a tight corkscrew of a gorge. The sound alone, once you're inside, is overwhelming.
+score: 8.9
 ---
 
 Trümmelbach Falls is one of the most unusual natural attractions in the Alps: a series of ten tiered waterfalls flowing entirely through the interior of a mountain. Walkways and bridges cut into the rock give visitors access to the falls at close range, traversing about 600 metres of tunnels, galleries, and stairways blasted into the cliff. The experience is dramatic — deafening, soaking, and genuinely spectacular.

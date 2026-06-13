@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 story: >
   The Barrio Antiguo was largely neglected through the mid-20th century and had become derelict by the 1980s. Its survival as a coherent historic district was essentially accidental — it was too far from the centre of commercial development to be demolished, like the blocks that made way for the Macroplaza. Artists and musicians moved in during the 1990s and the regeneration that followed preserved the 19th-century street grid and building stock that makes it what it is today.
+score: 7.8
 ---
 
 Barrio Antiguo is Monterrey's historic district and its most characterful neighbourhood — a compact grid of 19th-century buildings that survived the city's aggressive modernisation and is now filled with bars, restaurants, galleries, and small shops. It sits just east of the Macroplaza and is easily walkable from the city centre.

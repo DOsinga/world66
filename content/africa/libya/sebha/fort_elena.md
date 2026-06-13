@@ -9,6 +9,7 @@ latitude: 27.0103
 longitude: 14.4542
 sources:
   - https://evendo.com/locations/libya/ghat/attraction/sebha-castle
+score: 6.1
 ---
 
 Fort Elena — also called Fortezza Margherita or Sebha Castle — was built by the Italian colonial administration in the 1930s on the site of a much older Ottoman structure. The Italians used it as a military garrison and administrative centre; the Libyan government retained it after independence in 1951. It is a substantial rectangular fort with watchtowers at the corners, characteristic of Italian colonial construction across North Africa.

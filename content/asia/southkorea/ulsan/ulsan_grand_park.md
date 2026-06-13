@@ -15,6 +15,7 @@ story: >
   essential about how the city thinks about itself.
 sources:
   - https://en.wikipedia.org/wiki/Ulsan_Grand_Park
+score: 6.9
 ---
 
 At 3.7 square kilometres, Ulsan Grand Park is the largest urban park in South Korea — larger than Central Park in New York, a fact Ulsan residents will mention with quiet pride. The grounds include a rose garden with over 4,000 varieties, a butterfly house, a petting zoo, an arboretum, cycle paths, and several large ponds. On weekends it fills with families; on weekday mornings it is peaceful enough for a proper walk.

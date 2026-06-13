@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 8.7
 ---
 
 The Cifrapalota — "the showy palace" — sits one block off the main square and is the most flamboyant building in Kecskemét. Designed by Géza Márkus in 1902 and completed in the Hungarian Secession style, it has heart-shaped windows, a curling green-and-cream tile facade, and floral and folk-motif decoration that owes equal debt to Lechner and to Antoni Gaudí.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 11.7765
 longitude: -86.5130
+score: 7.7
 ---
 
 The comedores strung along Masachapa's beachfront are the main reason to make the trip from Managua. These are informal family-run kitchens — plastic tables, mismatched chairs, a roof for shade — serving whatever came in on the boats that morning. The menu is effectively the same everywhere: whole fried snapper or sea bass, grilled shrimp, rice and beans, tostones, perhaps a simple salad. Occasionally lobster appears, at prices that feel implausibly low.

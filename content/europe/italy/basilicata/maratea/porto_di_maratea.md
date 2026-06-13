@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0017
 longitude: 15.7100
+score: 6.5
 ---
 
 The port of Maratea is a small natural harbour about three kilometres below the old town, sheltered by a low headland and lined with a string of restaurants, gelaterias, bars and a few souvenir shops along the quay. It is the social hub of the lower town in summer — the place where visitors and the local crowd both converge in the evening for an aperitivo with a view of the moored fishing boats and yachts.

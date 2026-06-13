@@ -6,6 +6,7 @@ longitude: -24.9879
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The Praca Nova (officially Praca Amilcar Cabral) is Mindelo's social heart: a small leafy square in the centre of town, with a Portuguese-style bandstand at its core, jacaranda and Indian almond trees giving shade, and benches that fill up every evening with locals walking the slow Cape Verdean dusk.

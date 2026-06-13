@@ -10,6 +10,7 @@ longitude: -7.9906
 snippet: Mali's national performing arts centre and home to live Malian music
 story: >
   The centre is named for Amadou Hampâté Bâ, the Malian scholar and writer who coined the phrase "In Africa, when an old man dies, a library burns to the ground." Bâ spent decades collecting and transcribing oral traditions before they were lost — the Palais named in his honour continues that work of preserving and showcasing Malian culture.
+score: 8.0
 ---
 
 The Palais de la Culture is Bamako's main venue for concerts, theatre, dance, and cultural events. If you are going to hear live Malian music — and you should — this is the most reliable place to find it in a proper setting. The programme varies, but traditional Mande music, kora performances, and visiting artists from across West Africa appear regularly.

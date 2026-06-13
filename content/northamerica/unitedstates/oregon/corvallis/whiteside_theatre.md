@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Whiteside Theatre is a 1922 movie palace on Second Street, one of the oldest theatres in continuous operation in Oregon. It was designed by Lee Thomas in a Spanish Colonial Revival style and has gone through periods of decline and restoration — it was saved from demolition by community effort in the 1990s and is now listed on the National Register of Historic Places.

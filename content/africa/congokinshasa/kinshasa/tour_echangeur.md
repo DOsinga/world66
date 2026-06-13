@@ -8,6 +8,7 @@ tags:
 latitude: -4.3267
 longitude: 15.3633
 snippet: An unfinished tower in the Limete district, visible from much of the city, that has been under intermittent construction for decades
+score: 6.3
 ---
 
 The Tour de l'Échangeur -- sometimes called the Limete Tower -- is one of Kinshasa's strangest landmarks: a tall unfinished tower block in the Limete district that has been under intermittent construction since the 1970s and never completed. It is visible from a remarkable distance across the flat city, an accidental monument to the aspirations and frustrations of development in the DRC. Work has started and stopped on it multiple times over the decades, and its skeletal concrete frame has become part of the landscape.

@@ -8,6 +8,7 @@ tags:
 latitude: 42.8800
 longitude: -76.5200
 snippet: The northernmost of the Finger Lakes, with swimming beaches and boat launches a short drive from Auburn
+score: 6.4
 ---
 
 Owasco Lake is the closest of the Finger Lakes to Auburn, its north end just a few kilometres south of the city centre. The lake is 18 kilometres long and up to 55 metres deep — typical of the long, narrow, glacially-carved lakes of the region. The water is clean and the fishing is good, with lake trout and other species attracting anglers year-round.

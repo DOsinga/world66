@@ -8,6 +8,7 @@ tags:
 - sight
 title: Shrine of Rajaram Meghwal
 type: poi
+score: 6.3
 ---
 
 When Rao Jodha began building Mehrangarh in 1459, the fort's foundations kept shifting on the rocky hillside. His astrologer declared that only a human sacrifice would stabilize the ground. A man named Rajaram Meghwal volunteered, and was buried alive within the walls. In exchange, his family was given free housing within the fort and guaranteed food for as long as the fort stood. The arrangement reportedly lasted for generations.

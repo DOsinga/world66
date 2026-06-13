@@ -8,6 +8,7 @@ tags:
 latitude: 44.4007
 longitude: 0.5870
 story: "In 1956, after the French defeat in Indochina, more than a thousand Vietnamese — most of them women and children with French citizenship — were resettled in a former munitions depot on the edge of Sainte-Livrade. The camp, the Centre d'Accueil des Français d'Indochine, stayed open for half a century, with the last families only relocated in 2008. A small Vietnamese community remains in the town today."
+score: 7.9
 ---
 
 The CAFI (Centre d'Accueil des Français d'Indochine) was for fifty years a slice of Vietnam on the banks of the Lot. The original wooden barracks have largely been demolished and replaced with new housing, but a memorial garden, a small museum, and the Pagode Tu-An preserve the story. The pagoda, painted in the traditional red and gold, is incongruous against the southwestern French roofs around it.

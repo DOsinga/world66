@@ -11,6 +11,7 @@ latitude: 30.5514
 longitude: 114.3678
 story: >
   Mao Zedong swam in East Lake 42 times over his lifetime, and his swims here were political statements as much as exercise — each time he swam the Yangtze (18 times total), the news was used to demonstrate his vigour and authority. He was 72 the last time he swam across the full width of the Yangtze, in 1966 at the start of the Cultural Revolution.
+score: 6.7
 ---
 
 The East Lake Villa (Donghu Binguan), on the western shore of East Lake, was Mao Zedong's preferred residence outside Beijing and the place where he reportedly spent more time than anywhere except Zhongnanhai. The compound, built in the late 1950s, contains several villas in different styles set among gardens leading to a private section of the lakefront, and is preserved as a museum documenting Mao's association with Wuhan.

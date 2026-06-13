@@ -14,6 +14,7 @@ story: >
   in a single mass evacuation, leaving behind their church, their homes, and their dead. The church stands
   as they left it. A stone church from 1912 was built nearby before the evacuation, but it is the old wooden
   one — built in 1644 by the same community's ancestors — that holds the weight of that history.
+score: 8.2
 ---
 
 The Church of Saint Magdalene is one of the oldest surviving wooden buildings in Estonia, built in 1644 during the Swedish colonial period when Ruhnu's Swedish-speaking community was at its most established. The building has been maintained but not heavily restored — it retains the patina of age that makes old wooden churches so compelling.

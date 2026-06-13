@@ -8,6 +8,7 @@ latitude: 30.0500
 longitude: 120.5167
 story: >
   In 353 CE, the calligrapher Wang Xizhi gathered forty-one scholars and poets at the Orchid Pavilion near Shaoxing for a spring purification ceremony. They floated wine cups down a stream and composed poems wherever a cup stopped near them. Wang Xizhi wrote the preface for the collected poems in a state of inebriation that he was never quite able to replicate sober — the resulting manuscript, *Lanting Xu* (Preface to the Orchid Pavilion Collection), is considered the greatest piece of Chinese calligraphy ever written. The original was entombed with the Tang Emperor Taizong; only copies survive.
+score: 7.7
 ---
 
 The Orchid Pavilion (*Lanting*) is a memorial site about thirteen kilometres southwest of Shaoxing, marking the location where Wang Xizhi (303–361 CE), the greatest calligrapher in Chinese history, wrote the *Lanting Xu* preface that has defined the standard for Chinese brush calligraphy ever since. The site includes a classical garden with a winding stream, pavilions, bamboo groves, and numerous steles bearing reproductions of Wang Xizhi's calligraphy in different interpretations and periods.

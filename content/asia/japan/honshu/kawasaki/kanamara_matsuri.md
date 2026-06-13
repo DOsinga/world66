@@ -7,6 +7,7 @@ longitude: 139.7247
 snippet: "Annual festival at Kanayama Shrine, famous for its phallic floats and fertility prayers"
 story: >
   The festival's central float — a giant pink phallus — was donated by a transgender bar in Kawasaki in the 1970s as part of a broader fundraising effort for HIV/AIDS research. What began as a local ritual connected to sex workers seeking protection has become, partly by accident, one of the most photographed events in Japan.
+score: 7.6
 ---
 
 Held annually on the first Sunday of April at Kanayama Shrine in Daishi-ku, the Kanamara Matsuri (Festival of the Steel Phallus) draws enormous crowds including many international visitors. The festival has roots in Edo-period rituals connected to fertility, safe childbirth, and protection against sexually transmitted disease — the shrine was traditionally associated with sex workers from the nearby Kawasaki-juku post town.

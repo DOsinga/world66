@@ -8,6 +8,7 @@ tags:
 - church
 title: Churches and Convents
 type: poi
+score: 6.6
 ---
 
 Lugo's old town contains several churches worth a detour. The parish church of San Pedro

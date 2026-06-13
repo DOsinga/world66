@@ -7,6 +7,7 @@ tags:
 snippet: "Emerald-green lake surrounded by volcanoes"
 latitude: -41.09800
 longitude: -72.30800
+score: 7.9
 ---
 
 Lago Todos los Santos, in the heart of Vicente Pérez Rosales National Park, is one of the most striking lakes in South America. Its colour — a deep, glowing emerald-green — comes from glacial sediment suspended in the water. The lake is twenty kilometres long, almost completely undeveloped, and ringed by the cones of Osorno, Puntiagudo, and Tronador.

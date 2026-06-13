@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - architecture
+score: 8.2
 ---
 
 Sofia's grand 1910s bathhouse, built where the city's thermal springs had drawn bathers since Roman times. A striped yellow-and-red building in the Vienna Secession style, fronted by a public plaza where locals still come to fill bottles from the free hot-water fountains.

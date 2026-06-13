@@ -13,6 +13,7 @@ story: >
   which Tito was expected to host. Tito died in May 1980, the summit was
   moved to Havana, and the gleaming new congress centre that had been built
   for him opened to much quieter events than planned.
+score: 7.4
 ---
 
 Sava Centar is an international congress and cultural centre on the Sava riverfront, a 1979 construction that was one of socialist Yugoslavia's most ambitious civic buildings. Designed in the style of late modernism that Yugoslavia did well — clean geometry, quality materials, optimistic scale — it housed a concert hall, conference rooms, a hotel, and business facilities in a complex intended to project Yugoslav sophistication to the world. It still functions in something close to its original capacity.

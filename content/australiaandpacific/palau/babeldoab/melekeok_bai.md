@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 8.0
 ---
 
 A bai is the traditional Palauan men's meeting house, with a soaring thatched roof and richly painted gables that tell stories from clan history and Palauan legend. The bai at Melekeok is one of the best-maintained on the island, kept up by the state government and used for ceremonial occasions.

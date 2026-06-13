@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Ruined medieval fortress on the bluff above town
+score: 7.8
 ---
 
 The ruined fortress of Meghri sits on a steep bluff above the upper town, fragmentary now but still impressive for its location. Built in the late medieval period to control the route between the Armenian highlands and the Iranian plateau, the fortress was variously held by Armenians, Persians, and the Russian empire after 1828. Most of the walls and towers were dismantled in the 19th century but the stone footings and parts of the lower wall remain.

@@ -9,6 +9,7 @@ tags:
   - sight
 latitude: 46.8800
 longitude: -111.9000
+score: 8.0
 ---
 
 About 30 kilometers north of Helena, the Missouri River cuts through a limestone canyon with walls rising over 370 meters straight from the water. Lewis and Clark named it the Gates of the Rocky Mountains in 1805, and the name has stuck because nothing better has suggested itself. The canyon is genuinely spectacular — the rock is white and pale gray, streaked with mineral deposits, and the walls press close enough on both sides that the river feels like a corridor.

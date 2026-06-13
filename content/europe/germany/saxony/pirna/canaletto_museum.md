@@ -19,6 +19,7 @@ story: >
   the 1750s; his views of Pirna and the Elbe valley were commissioned as part
   of that engagement, and are considered among the finest topographical
   paintings of the 18th century.
+score: 7.7
 ---
 
 The Stadtmuseum Pirna is housed in the former Dominican monastery, a 15th-century building in the old town a short walk from the market square. It holds the collection of paintings by Bernardo Bellotto known informally as the Canaletto Museum — a series of extraordinarily detailed views of Pirna and the Elbe valley made in the 1750s. Bellotto painted the market square, the church, the Elbe waterfront, and the surrounding landscape with the precision of a surveyor. His paintings are some of the most accurate pre-photographic records of any German town, and historians have used them to reconstruct the appearance of buildings destroyed in subsequent centuries.

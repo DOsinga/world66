@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Upper Barrakka Gardens
 type: poi
+score: 9.4
 ---
 
 Perched on the highest point of Valletta's southern bastions, the Upper Barrakka Gardens offer the definitive view over the Grand Harbour. The Three Cities — Vittoriosa, Senglea, and Cospicua — sit directly opposite, with Fort St Angelo at the tip. The Saluting Battery below the gardens fires a noon cannon daily. Come early morning or late afternoon for the best light on the harbour.

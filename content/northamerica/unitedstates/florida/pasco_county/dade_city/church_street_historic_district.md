@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.1
 ---
 
 The Church Street Historic District is a compact downtown grid of late nineteenth and early twentieth century brick storefronts, churches, and bungalows. It is the heart of Dade City's pleasant walkability — a few square blocks of two-storey buildings with covered sidewalks, antique shops, restaurants, and the kind of slow Florida pace that has mostly vanished elsewhere in the state.

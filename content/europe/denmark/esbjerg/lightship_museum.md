@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 55.4830
 longitude: 8.4108
+score: 7.1
 ---
 
 The Horns Rev lightship — Motorfyrskib XVII — spent decades anchored in the dangerous shallows off western Jutland, warning shipping away from the sandbanks. Decommissioned in 1989, she is now permanently moored on the Esbjerg waterfront and open as a small museum about lightship life and the difficult navigation of the southern North Sea.

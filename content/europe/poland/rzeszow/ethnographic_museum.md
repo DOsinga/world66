@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.0376
 longitude: 22.0000
+score: 7.2
 ---
 
 The Franciszek Kotula Ethnographic Museum occupies the old town hall annexe on the western side of the Market Square and is the most rewarding museum in Rzeszów. The permanent collection covers folk culture across the Subcarpathian region — the costumes, embroideries, woodwork, and ritual objects of the rural Polish, Ukrainian Lemko, and Boyko communities who lived side by side in this corner of Galicia until the population transfers of the 1940s.

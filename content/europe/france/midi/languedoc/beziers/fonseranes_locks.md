@@ -9,6 +9,7 @@ tags:
 - sight
 - canal
 story: Pierre-Paul Riquet, the engineer who built the Canal du Midi, needed to drop boats from the high ground near Béziers down to the Orb River in a short distance. His solution — nine consecutive locks forming a staircase — was the boldest single piece of engineering on the entire canal. Completed in 1681, it raised and lowered boats by over 21 metres over less than 300 metres. A parallel water slope was added in the 1980s as an experiment in replacing lock travel with an inclined elevator system; it was eventually abandoned, but still stands beside the original locks.
+score: 8.7
 ---
 
 The Fonsérannes Locks, about two kilometres west of Béziers town centre, are the most dramatic feature on the Canal du Midi — a staircase of nine consecutive lock chambers that drops boats over 21 metres from the high ground near the city down toward the Orb River valley. Pierre-Paul Riquet designed them as part of the original canal in the 1670s, and they were completed in 1681 alongside the canal's opening.

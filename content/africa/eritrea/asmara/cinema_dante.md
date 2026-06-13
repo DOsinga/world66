@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 A more modest contemporary of the Cinema Impero, the Cinema Dante was built in the late 1930s on a corner block in central Asmara. Its facade is a small but well-preserved piece of Rationalist design, with a streamlined corner and a recessed entrance.

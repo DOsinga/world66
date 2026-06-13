@@ -6,6 +6,7 @@ tags:
   - sight
 title: Sunset Bay State Park
 type: poi
+score: 8.0
 ---
 
 Sunset Bay is the most sheltered beach on the Cape Arago corridor, its broad crescent of sand enclosed by sandstone headlands that tame the swells and make it one of the few places on the southern Oregon coast where swimming is feasible. The protected cove is good for kayaking and picnicking even when the open coast is rough, and the tide pools along the rocky edges are among the best accessible in the region.

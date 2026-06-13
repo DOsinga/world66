@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.60889
 longitude: 12.1633
+score: 6.6
 ---
 
 The Hechtsee is a small natural lake about three kilometres north of the Kufstein old town, set in a shallow forest basin at the foot of the Thierberg hill. It is the warmest lake in North Tyrol in summer — the water typically reaches 24–26°C by July — and is a popular swimming spot for locals. Entrance to the bathing area is free and facilities are basic: a grassy bank, a jetty, and a refreshment kiosk.

@@ -11,6 +11,7 @@ tags:
   - church
 snippet: Antwerp's Gothic cathedral — 123m spire and four Rubens altarpieces
 story: "The cathedral was begun in 1352 and was supposed to have two towers. The northern tower was completed in 1521, but money ran out before the southern could be finished — Charles V himself stopped contributing because he was bankrolling wars elsewhere. The asymmetric silhouette is the result."
+score: 9.4
 ---
 
 The largest Gothic church in the Low Countries and the dominant feature of Antwerp's skyline — the northern tower reaches 123 metres, and a single stair of 514 steps leads to the top. The southern tower was never completed; the asymmetry is one of the building's distinguishing marks.

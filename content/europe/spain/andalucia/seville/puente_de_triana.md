@@ -9,6 +9,7 @@ tags:
   - triana
 title: Puente de Triana
 type: poi
+score: 7.6
 ---
 
 The Puente de Triana — officially the Puente de Isabel II — is Seville's oldest iron bridge, built in 1852 on the foundations of a Roman bridge and a series of boat bridges that preceded it. Designed by French engineers Steinacher and Bernadet, it was the first iron bridge built in Spain and used cast iron produced in a Seville foundry. The bridge connects the old city to the Triana neighbourhood and is the most picturesque of the city's river crossings.

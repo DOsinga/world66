@@ -6,6 +6,7 @@ tags:
 - sight
 title: Kochi-Muziris Biennale
 type: poi
+score: 8.4
 ---
 
 The Kochi-Muziris Biennale, launched in 2012, is Asia's largest contemporary art festival. Held every two years from December to March, it takes over Fort Kochi and the surrounding historic district with installations, performances, and exhibitions by artists from across the world. The venues are as varied as the work itself — warehouses, palaces, churches, abandoned buildings, and purpose-built structures.

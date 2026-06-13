@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 33.1247
 longitude: -117.0758
+score: 7.4
 ---
 
 The California Center for the Arts is a full-scale performing arts campus in downtown Escondido — the kind of venue you would not expect to find outside a major city. It hosts a 1,524-seat concert hall, a smaller theatre, and a contemporary art museum, all set in a landscaped complex designed by Moore Ruble Yudell and opened in 1994.

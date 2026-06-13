@@ -8,6 +8,7 @@ latitude: 10.5620
 longitude: 72.6380
 story: >
   The Lakshadweep coral reefs suffered significant bleaching during the 1998 El Niño event — one of the worst mass bleaching events in history — but have recovered more completely than reefs elsewhere in the Indian Ocean, partly because the islands are so remote that fishing pressure and coastal development remain low. The lagoons around Kavaratti are considered some of the healthiest coral ecosystems in India.
+score: 8.9
 ---
 
 The lagoon that wraps around Kavaratti is the island's defining feature: shallow, intensely turquoise water protected by the coral reef from the open sea, with a sandy bottom that makes it safe for swimming and snorkelling at almost any point along the shore. The water temperature hovers around 28–30°C year-round.

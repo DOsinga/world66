@@ -10,6 +10,7 @@ tags:
 neighbourhood: New Center
 title: Baobab Fare
 type: poi
+score: 7.0
 ---
 
 Baobab Fare is the most celebrated newcomer to Detroit's food scene in years: a Burundian restaurant in New Center opened in 2021 by Hamissi Mamba and Nadia Nijimbere, refugees who arrived in Detroit in 2013. The menu is short — goat stew, beef stew, fish, plantains, ndizi — and exceptionally good. James Beard has nominated them as semifinalists multiple times.

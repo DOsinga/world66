@@ -8,6 +8,7 @@ tags:
   - restaurant
   - basseterre
 neighbourhood: Basseterre
+score: 6.7
 ---
 
 A no-nonsense local lunch place on Bay Road in Basseterre, beloved by Kittitians and a small number of in-the-know visitors. The menu is short and entirely West Indian: goat-water stew, conch, stewed oxtail, fried fish, all served with rice and peas, plantain, and macaroni pie.

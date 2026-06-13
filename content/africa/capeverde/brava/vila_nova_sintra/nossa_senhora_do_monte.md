@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.858
 longitude: -24.718
+score: 7.4
 ---
 
 Nossa Senhora do Monte is a small settlement in the interior of Brava, connected to Vila Nova Sintra by old bridle paths that wind through some of the most pleasant walking country on the island. The village takes its name from a pilgrimage church — Nossa Senhora do Monte — which is the focus of the island's main religious festival, held on 15 August each year.

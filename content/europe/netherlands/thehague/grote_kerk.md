@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.5
 ---
 
 The Grote of Sint-Jacobskerk is the main Gothic church of The Hague, looming over the old city centre near the Binnenhof. The building dates from the 15th century, and its tower — visible from much of the centre — has been a landmark since the Counts of Holland first established their court nearby. The interior is large and atmospheric, with the characteristic whitewashed walls and plain glass windows of a Dutch Protestant church, and a notable late-Gothic choir.

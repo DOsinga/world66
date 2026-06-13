@@ -11,6 +11,7 @@ story: >
   stone over several centuries — which is why no two columns are identical in
   diameter, profile, or capital design. The temple is a living record of how
   Doric architecture evolved across two hundred years.
+score: 8.2
 ---
 
 One of the oldest Doric temples in Greece, the Temple of Hera predates the Temple of Zeus by well over a century. Enough of the lower structure survives to give a clear picture of the building's plan, and two columns still stand to their full height. Originally the temple may have been dedicated to both Zeus and Hera; it later became the sanctuary of the goddess alone.

@@ -11,6 +11,7 @@ tags:
 - sight
 - church
 story: The Hagerbeer organ in the Martinikerk dates from 1781 and has been rebuilt by some of the most important Dutch organ builders, including Albertus Hinsz. It is one of the largest and best-preserved historic instruments in the Netherlands and the church hosts an international organ festival in summer. The wooden choir stalls are even older, with late medieval misericords showing scenes from daily life and the saints.
+score: 8.5
 ---
 
 The Martinikerk, dedicated to Saint Martin, is the principal church of Bolsward and dates from the late 15th century in its current form, although there was a church on the site from at least the 11th century. It is a three-aisled hall church of brick, typical of late Gothic Frisian construction, with a free-standing tower that leans visibly.

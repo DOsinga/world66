@@ -9,6 +9,7 @@ tags:
   - swimming
 snippet: Free man-made saltwater pool on the foreshore — the answer to stinger season
 story: "The Lagoon was built after a 2003 redevelopment so that locals and visitors had somewhere to swim during the box-jellyfish season from October to May, when the ocean is effectively off-limits without a stinger suit."
+score: 6.7
 ---
 
 The Lagoon is the heart of Airlie Beach — a free, lifeguard-patrolled, man-made saltwater pool right on the foreshore, surrounded by lawn, palms, and a covered barbecue area. It exists for a simple reason: from October to May, deadly Irukandji and box jellyfish make the open beach unsafe to swim, and a town that markets itself on tropical sun and water needed a guaranteed swim.

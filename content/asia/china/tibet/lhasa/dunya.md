@@ -9,6 +9,7 @@ tags:
 - bar
 title: Dunya Restaurant & Bar
 type: poi
+score: 5.8
 ---
 
 Dunya, on Beijing East Road, has been the long-term default expat hangout in Lhasa — a Dutch-Tibetan-run restaurant downstairs and a small bar upstairs. The food is the more reliable Western kitchen in town: pasta, salads, soups, decent steaks, generous breakfasts.

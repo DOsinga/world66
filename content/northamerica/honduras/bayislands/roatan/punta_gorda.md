@@ -9,6 +9,7 @@ snippet: "Garifuna village on the north coast — the original Black Carib settl
 latitude: 16.4193
 longitude: -86.3603
 story: "The Garifuna are the descendants of West African and Indigenous Caribbean peoples who were deported by the British from the island of Saint Vincent in 1797 and abandoned on Roatán. From here they spread along the Honduran and Belizean coasts. Punta Gorda is the oldest continuous Garifuna settlement in Central America."
+score: 8.0
 ---
 
 Punta Gorda is a small Garifuna fishing village on Roatán's north coast, about an hour by road from West End, and the oldest Garifuna settlement on the Central American mainland. The houses are wooden, painted in bright colours; the language spoken on the street is Garifuna rather than Spanish; the food and the music are distinct from anywhere else on the island.

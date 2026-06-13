@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Church of San Pablo
 type: poi
+score: 7.8
 ---
 
 The Church of San Pablo stands in the working-class neighbourhood of the same name, west of the city centre, and is one of the best examples of Aragonese Mudéjar architecture alongside the Seo cathedral. The octagonal tower, decorated with geometric patterns of brick and glazed tiles, is the finest Mudéjar tower in Zaragoza and one of a group listed as UNESCO World Heritage.

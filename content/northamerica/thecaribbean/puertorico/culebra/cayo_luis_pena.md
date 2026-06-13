@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - island
+score: 8.3
 ---
 
 A small uninhabited cay just off Culebra's west coast, part of the Culebra National Wildlife Refuge. Water taxis from Dewey will drop you on one of the small beaches for a few hours of solitude and snorkelling.

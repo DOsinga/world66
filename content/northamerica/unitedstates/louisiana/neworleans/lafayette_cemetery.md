@@ -7,6 +7,7 @@ tags:
   - garden_district
 latitude: 29.9285
 longitude: -90.0968
+score: 7.9
 ---
 
 Lafayette Cemetery No. 1, in the heart of the Garden District, is the more atmospheric and less visited alternative to the famous St. Louis cemeteries. Opened in 1833 to serve the American immigrants settling upriver from the Creole French Quarter, it is filled with the above-ground vaults and family tombs characteristic of New Orleans burial custom — here in a setting of ancient live oaks whose roots have buckled the paths and whose branches filter the light into shifting green patterns.

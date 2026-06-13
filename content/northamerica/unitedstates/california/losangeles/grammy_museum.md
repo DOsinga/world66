@@ -10,6 +10,7 @@ tags:
 title: GRAMMY Museum
 type: poi
 url: www.grammymuseum.org
+score: 6.7
 ---
 
 Four floors of music history at L.A. LIVE, next to the Staples Center. Rotating exhibits cover the history and craft of recorded music from Delta blues to hip-hop, with listening stations, interactive mixing boards, and archive footage. The permanent collection is impressively broad — costumes, instruments, handwritten lyrics — and the 200-seat theater hosts intimate live performances and interviews.

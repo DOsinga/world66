@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: La Cova Fumada
 type: poi
+score: 7.9
 ---
 
 La Cova Fumada is a no-frills fish bar in Barceloneta that claims — with solid evidence — to have invented the bomba, the fried mashed potato ball stuffed with meat that became one of Barcelona's signature snacks. The bar has been in the same family since 1944 and shows it: cash only, no sign outside, no reservations, tables that fill by 10am.

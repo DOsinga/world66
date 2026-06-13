@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.510
 longitude: 80.045
+score: 5.6
 ---
 
 Locally known as the "Second Shirdi," this Sai Baba temple in Ongole draws large numbers of devotees, particularly on Thursdays — the day associated with the saint — and on his major festival days. The temple is modest in scale but actively maintained, with daily aratis and a steady flow of pilgrims from across Andhra Pradesh.

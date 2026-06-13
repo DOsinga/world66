@@ -7,6 +7,7 @@ tags:
   - day_trips
   - sight
   - ruin
+score: 6.8
 ---
 
 A small Classic Maya site about 17 km north of Yaxha, reachable only by dirt road from the larger site — usually combined with Yaxha as a longer day or overnight trip from Flores. The cleared centre includes a substantial palace complex and one large pyramid; most of the rest of the city is still under jungle.

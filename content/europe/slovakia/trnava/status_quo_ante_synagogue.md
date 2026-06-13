@@ -14,6 +14,7 @@ story: >
   community for centuries. The "Status Quo Ante" designation refers to a faction
   of Slovak Jews who maintained traditional practices independent of both
   Orthodox and Reform movements.
+score: 7.1
 ---
 
 The Status Quo Ante Synagogue is one of the best-preserved synagogues in Slovakia, a 19th-century building in Moorish Revival style that has been carefully restored and now functions as a gallery and cultural space. The exterior is distinctive — ornate facades in a style quite unlike the surrounding baroque architecture — and the interior retains much of its original decorative scheme.

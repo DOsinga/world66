@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.4917
 longitude: -8.5833
+score: 3.4
 ---
 
 Nimba Airport is a small airstrip near the LAMCO/ArcelorMittal mining complex in the Yekepa area, used mainly by company charter flights, occasional humanitarian flights and a handful of small operators. Scheduled commercial service has been rare or non-existent in recent decades, and most travellers reach Sanniquellie and the Nimba region by road via [Gbarnga](/africa/liberia/gbarnga).

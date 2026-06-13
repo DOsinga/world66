@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "The waterfront warehouse precinct — the row of 1830s sandstone storehouses at the foot of Battery Point"
+score: 8.0
 ---
 
 A narrow strip of waterfront between Parliament Square and Castray Esplanade, anchored by the row of 1830s sandstone warehouses that gives the precinct its character. Salamanca is technically not a separate suburb — administratively it is part of Battery Point — but it functions as a neighbourhood in its own right. The Saturday market dominates the precinct's public image, but the rest of the week Salamanca Place is a row of cellar-level restaurants, art galleries, design shops, and bars.

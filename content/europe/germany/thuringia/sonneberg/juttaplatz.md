@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.3610
 longitude: 11.1773
+score: 5.2
 ---
 
 Juttaplatz is a small square opposite the German Toy Museum and one of the more visible stops on Sonneberg's toy-themed walk. It is not grand, but it works as a compact stage for the town's playful self-image.

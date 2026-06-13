@@ -14,6 +14,7 @@ story: >
   vertical drop, with a glass balustrade at the end. This design has since
   been replicated at dozens of locations across Norway, but Stegastein,
   being first, remains the most visited.
+score: 8.5
 ---
 
 Stegastein is a viewing platform on the Aurlandsfjellet mountain road above the Aurlandsfjord, projecting 30 metres horizontally out over a 650-metre drop with a glass rail at the end. The view it frames — straight down the length of the Aurlandsfjord to the junction with the main Sognefjorden — is one of the finest in Norway. The platform is reached by the Aurlandsvegen toll road from Aurland village; the road also continues across the high plateau to Laerdal, providing access to the highland landscape above the fjord.

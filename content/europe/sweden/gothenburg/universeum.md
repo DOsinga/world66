@@ -8,6 +8,7 @@ tags:
 title: Universeum
 type: poi
 url: https://www.universeum.se
+score: 7.5
 ---
 
 Universeum is a science museum adjacent to Liseberg that manages to contain a full five-floor tropical rainforest, a shark and ray tank, and a space science gallery within a single building. It is primarily aimed at families with children, but adults who enjoy natural history will find it engaging too.

@@ -9,6 +9,7 @@ title: Pfaffenteich
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Pfaffenteich
+score: 7.3
 ---
 
 The Pfaffenteich — "Priests' Pond" — is a rectangular artificial lake dug in the twelfth century to power a mill, now sitting at the heart of the city. It is ringed by nineteenth-century villas, the Arsenal building, and green promenades that make a fine morning walk. The Arsenal on the northern bank, a classicist brick building from the 1840s, is now used as an events venue. Swans occupy the lake year-round and have been a symbol of the city for centuries.

@@ -9,6 +9,7 @@ latitude: 46.0557
 longitude: 6.7767
 sources:
   - https://en.wikipedia.org/wiki/Sixt_Abbey
+score: 6.7
 ---
 
 Founded before 1144 by regular canons linked to the Abbey of Abondance, Sixt Abbey anchors the village and is the oldest substantial building in the valley. The Church of Saint Madeleine still stands, its 13th-century Gothic choir with ribbed vaults largely intact; the conventual buildings behind it house former refectories and the canons' cells. Medieval artefacts and early modern religious objects are displayed in the sacristy.

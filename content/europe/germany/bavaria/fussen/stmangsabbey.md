@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 A former Benedictine monastery on the south bank of the Lech river, founded in the 9th century around the grave of the missionary St. Magnus and rebuilt in High Baroque style between 1701 and 1717 by Vorarlberg architect Johann Jakob Herkomer. The church interior is a stuccoed, gilded, and frescoed festival of pinks, golds, and pale greens — characteristic Bavarian baroque at its lightest.

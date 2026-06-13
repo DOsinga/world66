@@ -8,6 +8,7 @@ tags:
 latitude: -30.0539
 longitude: 30.8884
 snippet: "Rockier southern beach with a tidal pool popular with locals"
+score: 6.9
 ---
 
 A more characterful beach than the main one, Inyoni Rocks sits at the southern end of the Amanzimtoti beachfront. Outcrops of sandstone break up the shore, sheltering a deep natural tidal pool that holds water at all but the lowest spring tides. The pool is good for snorkelling — small reef fish, sea urchins, and the occasional octopus inhabit its corners.

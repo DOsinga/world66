@@ -15,6 +15,7 @@ story: >
   churches the settlers had left behind in the Black Forest, in a cruciform
   plan with both arms of the cross of equal length. It is one of very few
   examples of this Germanic plan anywhere in the Americas.
+score: 8.1
 ---
 
 The Iglesia San Martín de Tours sits at the highest point of the town, with views down across the red-tiled roofs and the surrounding cloud forest. The whitewashed walls, the steep timber roof, and the unusual equal-armed cruciform plan all mark it out from any other church in the country. The original wooden altar and pulpit are still in use, and the cemetery beside it holds the graves of the first settlers — names like Gerig, Breidenbach, and Strubinger that still recur in the modern village.

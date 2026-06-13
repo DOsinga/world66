@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.9839
 longitude: 17.0994
+score: 7.2
 ---
 
 A small car ferry runs frequently between Orebić (4 km east of Viganj) and Korčula town, taking about fifteen minutes to cross the channel. From Viganj it makes an obvious half-day trip: cycle or drive to Orebić, leave the car, and walk on as a foot passenger.

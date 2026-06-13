@@ -16,6 +16,7 @@ tags:
 - sight
 - architecture
 - uphill
+score: 9.4
 ---
 
 Begun by William the Conqueror in 1068 on the site of the Roman fortress, Lincoln Castle is one of the best-preserved Norman castles in England. The complete circuit of walls — nearly half a kilometre — can be walked all the way around, with panoramic views into the city and out across the Wolds.

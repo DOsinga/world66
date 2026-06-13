@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Lavish baroque interior, considered the finest in the city
+score: 8.1
 ---
 
 La Merced has the most lavish interior of any church in Sucre — and given the competition that is saying something. The single nave is lined with carved and gilded altarpieces from the 17th and early 18th centuries, several of them attributed to the great mestizo carver Sebastián Acostopa. The high altar, dripping with gold leaf and crowned with mirrored panels, was paid for by the silver wealth of nearby Potosí and looks it.

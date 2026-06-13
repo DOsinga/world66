@@ -10,6 +10,7 @@ tags:
 - unesco
 - day_trip
 snippet: The ruined Kushite capital, with iron-smelting slag heaps and a temple of Amun
+score: 8.2
 ---
 
 A few kilometres from the pyramids, between the road and the river, are the foundations of the city of Meroë itself — the capital of the Kushite kingdom from the sixth century BC onwards. The visible remains include the Royal Enclosure, with the throne room and bath of the king; a large temple of Amun built on the Egyptian model; and a reservoir or "Sun Temple" out in the sand to the east.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4500
 longitude: 20.6200
+score: 7.7
 ---
 
 Ithaca is visible from Fiskardo across a narrow strait — on a clear day you can see its mountains clearly. Water taxis and small tour boats make the crossing regularly in summer, taking around 20 to 30 minutes to reach Kioni or Frikes on the Ithaca side. This is one of the most rewarding half-day trips available from Fiskardo.

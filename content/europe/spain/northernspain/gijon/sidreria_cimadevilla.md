@@ -8,6 +8,7 @@ tags:
   - asturian
 latitude: 43.5453
 longitude: -5.6622
+score: 7.7
 ---
 
 The concentration of cider bars (sidrerías) in the streets of Cimadevilla is one of the best reasons to spend an evening in Gijón. The typical sidrería is a narrow, stone-floored room with barrels along one wall, a kitchen at the back, and tables packed close enough that conversations with strangers are unavoidable. The menu is fixed and simple: the cider comes in bottles of 75cl, poured from height by the waiter in a thin stream that aerates the liquid; the food is chorizo, morcilla (blood sausage), cabrales cheese, and grilled fish or chuleta (thick pork chop), served without ceremony.

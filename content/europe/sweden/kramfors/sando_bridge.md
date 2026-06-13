@@ -8,6 +8,7 @@ tags:
 latitude: 62.8833
 longitude: 17.8771
 story: "When the original Sandö Bridge collapsed during construction in August 1939, eighteen workers were killed in one of Sweden's worst industrial accidents. The replacement, completed in 1943, briefly held the world record as the longest concrete arch bridge at 264 metres."
+score: 7.2
 ---
 
 The Sandö Bridge spans the Ångerman river just south of Kramfors with a single 264-metre concrete arch that, in its day, was the longest of its kind in the world. The roadway sits 40 metres above the water — high enough to clear the masts of the largest cargo ships that once carried timber down the river to the Bothnian Sea.

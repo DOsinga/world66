@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 42.2402
 longitude: -8.7224
 story: "Jules Verne set a dramatic episode of 'Twenty Thousand Leagues Under the Sea' in Vigo Bay — the scene where Captain Nemo dives to recover gold from Spanish galleons sunk in the 1702 Battle of Rande. Verne knew Vigo well and visited the city, and Vigonians embraced the connection. The monument, erected in 2012, shows Verne wrestling a giant bronze octopus at the harbour's edge, and has become one of the city's most photographed landmarks."
+score: 6.2
 ---
 
 One of the most distinctive public sculptures in Spain stands at the edge of Vigo's harbour: a bronze Jules Verne locked in combat with a giant octopus. The work was created by sculptor José Molares for the centenary of Verne's death, unveiled in 2012, and references the author's famous association with Vigo Bay.

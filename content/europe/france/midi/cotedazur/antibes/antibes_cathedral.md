@@ -9,6 +9,7 @@ tags:
 - sight
 - vieille_ville
 neighbourhood: Vieil Antibes
+score: 7.2
 ---
 
 The Cathedrale Notre-Dame-de-l'Immaculee-Conception sits in the centre of the old town, a few steps from the Musée Picasso. The Romanesque bell tower at the back is the oldest part — 12th century, with traces of an earlier church on the site. The west front is 17th-century Baroque, an unexpected pink and ochre confection.

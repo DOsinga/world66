@@ -8,6 +8,7 @@ tags:
 latitude: 44.11375
 longitude: 8.031713
 story: The Del Carretto marchesi who built the Vignoletto castle maintained an unusual degree of independence from both Genoa and the major powers for centuries. The 1202 pact with the Republic of Genoa that Nasino signed gave the village legal and commercial protections, and the relationship held largely intact for over 500 years until the Kingdom of Sardinia absorbed the fief in 1735.
+score: 6.8
 ---
 
 The ruins of Vignoletto castle stand above the village in an excellent strategic position overlooking the Pennavaire valley, built by the marchesi Del Carretto as part of their network of hill fortifications in the medieval Ligurian hinterland. The Del Carretto were one of the most significant feudal families in this part of Italy, holding extensive territory between the coast and the Alpine passes.

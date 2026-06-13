@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 50.6587
 longitude: 10.8842
+score: 6.1
 ---
 
 Jagdhaus Gabelbach is a former ducal hunting lodge in the forest above Ilmenau. Today it serves as a museum tied to Goethe, the local landscape, and the courtly hunting culture that once shaped these hills.

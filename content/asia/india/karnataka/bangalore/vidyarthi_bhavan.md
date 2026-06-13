@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Vidyarthi Bhavan
 type: poi
+score: 7.5
 ---
 
 Vidyarthi Bhavan in Gandhi Bazaar has been serving the same breakfast since 1943, and the dosa here has become something of a Bangalore legend. The masala dosa arrives crisp and golden, filled with a spiced potato mixture, with chutneys and sambar alongside. The filter coffee, served in the traditional steel tumbler and davara, is excellent. The menu is short and the focus is total.

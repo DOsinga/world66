@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.5599
 longitude: -103.4405
+score: 7.3
 ---
 
 The Suraya Mosque is one of the more unexpected sights in northern Mexico: a Shia Muslim mosque built by Torreón's Lebanese-origin community, whose families arrived in Mexico in the early twentieth century and established themselves as merchants and entrepreneurs across the country. The building is architecturally striking — a proper mosque with a dome and minaret, not a converted warehouse — and stands in clear contrast to the Catholic churches that dominate most Mexican cities.

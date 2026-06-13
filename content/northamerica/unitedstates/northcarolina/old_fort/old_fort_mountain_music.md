@@ -7,6 +7,7 @@ tags:
 latitude: 35.6293
 longitude: -82.1817
 snippet: Free weekly old-time music gathering on Friday evenings
+score: 7.4
 ---
 
 Every Friday evening, Old Fort Mountain Music brings together local musicians for a free old-time and country music session. The format is informal: musicians set up, start playing, others join in, and anyone who wants to dance can dance. It is the kind of thing that has been happening in Appalachian communities for generations, and the fact that Old Fort still does it weekly makes it genuinely special.

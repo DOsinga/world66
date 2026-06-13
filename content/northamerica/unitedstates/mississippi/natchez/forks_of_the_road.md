@@ -8,6 +8,7 @@ tags:
 latitude: 31.556667
 longitude: -91.389444
 story: "The Forks of the Road was the second-largest slave market in the antebellum United States, after New Orleans. Between roughly 1833 and 1863, tens of thousands of enslaved people were bought and sold here — transported from the Upper South by the domestic slave trade and auctioned to cotton planters across the Mississippi River Delta. For much of the nineteenth century, the site was simply unacknowledged."
+score: 8.1
 ---
 
 The Forks of the Road is a quiet intersection on the east side of Natchez that was, for three decades before the Civil War, one of the most consequential and brutal sites in American history. The slave market operated here continuously from around 1833, and the volume of transactions — entire families separated, individuals sold to distant plantations — was enormous by any measure.

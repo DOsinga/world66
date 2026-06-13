@@ -6,6 +6,7 @@ latitude: 29.6034
 longitude: 94.6058
 story: >
   Temo La served as a key node on the route between central Tibet and the Yarlung Tsangpo valley long before the modern highway was built. Prayer flags strung across the pass still mark it as a threshold in the Tibetan tradition.
+score: 6.2
 ---
 
 Temo La is a high mountain pass in the hills north of Bayi, sitting on the edge of the transition zone between the barren Tibetan plateau to the west and the forested Nyingchi valleys to the east. The pass offers views down into the Niyang River valley and is draped in the dense forest of rhododendron and fir that characterises this part of Tibet.

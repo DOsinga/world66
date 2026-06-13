@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum is housed in the original 1882 station of the North-Western Railway and contains the personal saloon coach of Lord Curzon (Viceroy of India 1899–1905), a 19th-century steam locomotive driven by the British engineer A.G. Mole, and the world's only surviving model of the 1942 Pakistan Mail."
+score: 8.0
 ---
 
 A small, evocative railway museum in the original 1882 station of the British-built Golra Sharif line, about 15 km west of central Islamabad on the road to Taxila. The collection is a wonderful muddle of Victorian timetables, brass nameplates, signalling equipment, royal carriages and a couple of working steam locomotives in the yard.

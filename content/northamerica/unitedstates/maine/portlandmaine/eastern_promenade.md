@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6722
 longitude: -70.2472
+score: 8.1
 ---
 
 Sixty-eight acres of public park on the bluff at the east end of the peninsula, with the best free view in Portland — out across Casco Bay to the Calendar Islands. Locals walk dogs here at sunrise; in summer the lower lawns fill with picnicking families and the harbour fills with sailboats.

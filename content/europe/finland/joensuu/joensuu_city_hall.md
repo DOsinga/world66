@@ -9,6 +9,7 @@ latitude: 62.6014
 longitude: 29.7637
 story: >
   The City Hall was designed by Eliel Saarinen, who would later emigrate to the United States and become one of the most influential architects of the 20th century — his Cranbrook Academy in Michigan and the first design for Chicago's Tribune Tower made him famous internationally. The Joensuu building, completed in 1914, is one of his Finnish National Romantic masterpieces, finished just before he left for America. Saarinen's son Eero, who designed the Gateway Arch in St Louis and the TWA terminal at JFK, was born in Finland the year the building opened.
+score: 7.9
 ---
 
 The Joensuu City Hall is the city's architectural centrepiece: a red-granite National Romantic building designed by Eliel Saarinen and completed in 1914. The building combines Saarinen's signature use of natural stone and Finnish motifs with Art Nouveau styling, and it reads as both a civic statement and a piece of craftsmanship. The main tower is visible from most of the centre.

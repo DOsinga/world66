@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.6413
 longitude: 12.0823
+score: 6.4
 ---
 
 Stændertorvet is the main square in Roskilde, a compact market space lined with low buildings that gives the town its practical centre. The square has been the focal point of the town since the Middle Ages, and a Saturday market still fills it most weeks. The town hall faces onto it, and the view from the square toward the cathedral towers — which are never quite hidden from any angle in the old centre — gives you a good feel for how thoroughly the church dominated medieval Roskilde.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.5430
 longitude: 35.8560
+score: 6.3
 ---
 
 University Street — known locally as Sharea al-Jamea — runs along the northern edge of the Yarmouk University campus and is the social spine of Irbid. This half-mile stretch contains a density of internet cafes, student restaurants, juice bars, shawarma stands, falafel shops, and cheap clothing stalls that reportedly gave it a claim to the highest concentration of internet cafes per capita anywhere in the world during the mid-2000s.

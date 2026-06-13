@@ -7,6 +7,7 @@ tags:
 latitude: 37.1750
 longitude: -113.2900
 snippet: "Small local history museum documenting Washington County's Mormon pioneer settlers, with some genuinely unusual artefacts."
+score: 6.4
 ---
 
 The Pioneer Heritage Museum in Hurricane covers the settlement of Washington County by Mormon pioneers in the second half of the nineteenth century. The collection runs to period furniture, farm tools, photographs, and domestic objects from the early settler households — the kind of material that rarely makes it into larger institutions but gives a specific, grounded sense of what daily life looked like.

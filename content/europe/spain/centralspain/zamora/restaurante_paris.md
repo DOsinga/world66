@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.6888
 longitude: -5.9432
+score: 5.8
 ---
 
 A long-established restaurant near the Plaza Mayor serving traditional Zamorano and Castilian cuisine. The menu focuses on roast meats — lechazo (suckling lamb) and cochinillo (suckling pig) — alongside seasonal dishes and good local wine. The dining room is unpretentious and the service is professional.

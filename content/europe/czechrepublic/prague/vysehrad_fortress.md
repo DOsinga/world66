@@ -11,6 +11,7 @@ title: Vyšehrad
 type: poi
 story: >
   The Vyšehrad legend says this rocky promontory was the original seat of the Přemyslid dynasty before Prague Castle, where a princess named Libuše stood and prophesied the founding of a great city on the opposite bank. The myth was a central piece of 19th-century Czech national identity.
+score: 8.8
 ---
 
 The Vyšehrad fortress on its rocky bluff south of the Old Town is quieter and less visited than Prague Castle but arguably more atmospheric. The park on the plateau contains the 11th-century Rotunda of St Martin, the neo-Gothic Basilica of St Peter and Paul, and the Vyšehrad Cemetery, where Dvořák, Smetana, Mucha, and other Czech luminaries are buried under elaborate tombs.

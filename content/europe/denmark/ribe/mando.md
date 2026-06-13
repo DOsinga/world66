@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Mandø is one of only two Danish islands reached by a tidal road — at high tide, the seven-kilometre Låningsvej causeway is completely under the sea, and only the tractor-bus knows the safe shallow track. Cars have been driven off the wrong line and lost to the tide as recently as the 2010s."
+score: 8.1
 ---
 
 The tidal island of **Mandø**, about 15 km southwest of Ribe in the Wadden Sea, is reached by a seven-kilometre road across the mudflats that disappears underwater twice a day at high tide. Visitors usually go on a **tractor-pulled bus** (the *traktorbus*) from Vester Vedsted, which only crosses when the tide is right.

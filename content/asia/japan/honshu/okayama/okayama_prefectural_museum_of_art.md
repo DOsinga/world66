@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, art]
 latitude: 34.6678
 longitude: 133.9300
+score: 6.5
 ---
 
 The Okayama Prefectural Museum of Art concentrates on artists connected with the region, along with travelling exhibitions. It is a polished, manageable museum rather than a blockbuster institution.

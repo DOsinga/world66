@@ -10,6 +10,7 @@ longitude: 9.3607
 snippet: The most ornate Weser Renaissance building in Hameln, named for the Pied Piper legend
 story: >
   An inscription running along the top of the facade reads, in old German, that in the year 1284 on the day of John and Paul, the 26th of June, a piper led 130 children born in Hameln out of the town and they were lost at Calvary by the Koppen. This is the oldest written record of the legend, and it suggests the legend may be rooted in a real historical event — possibly a children's crusade, a plague, or a mass emigration to the east.
+score: 8.7
 ---
 
 The Rattenfängerhaus — Rat Catcher's House — is the most elaborately decorated building in Hameln's old town, a masterpiece of Weser Renaissance style built in 1602. The style is distinctive: ornate stone facades with elaborate carvings, scrolled gables, and decorative friezes that are specific to the Weser Valley towns. The building is the undisputed architectural star of the old town.

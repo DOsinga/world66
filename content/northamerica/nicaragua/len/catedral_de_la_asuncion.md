@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/Le%C3%B3n_Cathedral,_Nicaragua
 story: >
   The cathedral took nearly a century to complete — construction began in 1747 but the structure was not consecrated until 1860. Legend says the building plans were swapped with those intended for Lima, giving León a far grander church than originally planned. UNESCO inscribed it as a World Heritage Site in 2011.
+score: 9.3
 ---
 
 The Cathedral of the Assumption — or Catedral de la Asunción — is the largest cathedral in Central America and the city's most commanding presence. Its pale limestone facade faces the main plaza, and the interior holds the tombs of several Nicaraguan poets, including Rubén Darío, whose recumbent figure rests beneath a marble lion at the foot of the nave.

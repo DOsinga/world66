@@ -6,6 +6,7 @@ tags:
 - transport
 title: Sanya Phoenix International Airport
 type: poi
+score: 2.7
 ---
 
 Sanya Phoenix International Airport (IATA: SYX) lies on the western edge of the city, about 15 kilometres from downtown Dadonghai. It is the second-busiest airport on Hainan after Haikou and handles the heaviest tourist traffic on the island, with regular flights to virtually every major Chinese city and a growing list of international routes — mostly to East Asia and Southeast Asia.

@@ -6,6 +6,7 @@ longitude: 12.9965
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 A mid-range restaurant with an attitude — the menu is nose-to-tail, focused on offal, cured meats, and the less fashionable cuts that other restaurants leave out. The cooking is honest and direct, the portions generous, and the price lower than you'd expect for the quality. Head cheese, bone marrow, and house-made charcuterie feature alongside roasted vegetables and well-chosen natural wines.

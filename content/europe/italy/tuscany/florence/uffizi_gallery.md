@@ -15,6 +15,7 @@ title: Uffizi Gallery
 snippet: World's finest Renaissance collection with Botticelli, Leonardo, and Michelangelo
 type: poi
 url: www.uffizi.it
+score: 10.0
 ---
 
 The world's pre-eminent showcase of Renaissance painting, housed in a U-shaped palace along the Arno built by Vasari for the Medici in the 1560s. The collection covers Giotto through Caravaggio, with the highlights concentrated on the second floor: Botticelli's Birth of Venus and Primavera, Leonardo's Annunciation, Michelangelo's Holy Family, Raphael, and Titian. Allow at least 2–3 hours; the museum is large and can be overwhelming.

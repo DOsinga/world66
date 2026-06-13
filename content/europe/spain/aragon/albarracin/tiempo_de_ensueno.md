@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.4071
 longitude: -1.4436
+score: 6.4
 ---
 
 A small, well-regarded restaurant in the upper town, on the climb up from the river. Modern takes on inland Aragonese cooking — duck with cabrales, slow-cooked lamb, a good carrillada de ternera — and a thoughtful short wine list.

@@ -11,6 +11,7 @@ tags:
 - hiking
 title: Coloured Canyon
 type: poi
+score: 7.8
 ---
 
 The Coloured Canyon (Wadi Mtamir) near Nuweiba is the Sinai's most spectacular inland hike, a narrow slot canyon where iron oxide, manganese, and other minerals have stained the sandstone walls in vivid bands of red, purple, ochre, and gold. The canyon floor is narrow enough in places to squeeze through sideways; the walls rise up to 30 metres on either side, blocking out the sky. The full circuit takes about two hours.

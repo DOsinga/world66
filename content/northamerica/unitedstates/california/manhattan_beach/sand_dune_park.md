@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Sand_Dune_Park
+score: 6.3
 ---
 
 Sand Dune Park is a surprisingly large natural sand dune in the middle of a residential neighborhood, used by the locals primarily as a fitness challenge. The main face of the dune rises about 100 feet and serves as a de facto outdoor gym — people sprint up and plod back down, over and over, in the California tradition of turning natural features into workout equipment.

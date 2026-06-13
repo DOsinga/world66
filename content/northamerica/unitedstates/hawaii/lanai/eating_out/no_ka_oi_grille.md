@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.8275
 longitude: -156.9211
+score: 5.1
 ---
 
 No Ka Oi — Hawaiian for "the best" — is Lanai City's casual grill, the sort of place where islanders eat on a Tuesday night when they don't feel like cooking. The menu runs to burgers, plate lunches, and grilled proteins with rice; nothing elaborate, nothing pretentious, everything honest.

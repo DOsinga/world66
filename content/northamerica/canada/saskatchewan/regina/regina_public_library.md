@@ -5,6 +5,7 @@ tags: [things_to_do, culture]
 latitude: 50.4527
 longitude: -104.6082
 story: The Regina Public Library's Film Theatre is one of the few dedicated repertory cinema screens in Saskatchewan, showing independent, documentary, and classic films on a year-round programme. The library's local history collection at the Prairie History Room is one of the best research resources for Saskatchewan history in the province, holding extensive photographic archives, newspapers, and documents relating to the settlement era, the Depression, and the development of the Co-operative Commonwealth Federation (CCF) — the political party that invented universal health care in Canada.
+score: 6.9
 ---
 
 The Regina Public Library's main branch on 12th Avenue is a more useful cultural resource than its modest exterior suggests. The building holds a good collection, a dedicated film theatre that shows repertory and documentary cinema on a regular schedule, and the Prairie History Room — a specialized local history collection that is the right place to understand Saskatchewan's remarkable political and social history.

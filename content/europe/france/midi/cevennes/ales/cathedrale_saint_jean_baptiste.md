@@ -8,6 +8,7 @@ tags:
   - church
 title: "Cathedral of Saint John the Baptist"
 type: poi
+score: 6.5
 ---
 
 The Cathedral of Saint John the Baptist is Alès' main church, set close to the old centre and the Gardon. Its history has been knocked around by the same religious tensions that marked the Cévennes, and the present building carries a layered rather than pristine character.

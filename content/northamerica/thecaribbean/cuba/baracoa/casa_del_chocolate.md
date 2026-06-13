@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - cafe
+score: 6.5
 ---
 
 A simple state-run café on the corner of Antonio Maceo and Maraví, serving hot chocolate, chocolate cake, and chocolate ice cream made from the local cocoa. The hot chocolate is served thick, almost like a melted bar — the way the Aztecs drank it, and presumably the way Columbus first encountered it on this very coast.

@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 43.155
 longitude: 16.710
+score: 7.8
 ---
 
 The coastline around Jelsa is studded with rocky coves — pebble and stone rather than sand, as is standard on Hvar — that offer clear, calm swimming with good visibility to the bottom. The nearest and most popular are a short walk or five-minute drive from the harbour: Mina beach to the east, and a handful of smaller inlets to the west that you can reach on foot along the coastal path.

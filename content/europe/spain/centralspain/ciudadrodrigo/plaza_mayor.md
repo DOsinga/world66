@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.5983
 longitude: -6.5344
+score: 6.8
 ---
 
 Ciudad Rodrigo's Plaza Mayor is a proper working square — not prettified for tourists, but used daily by the people who live here. The arcaded buildings around the perimeter house cafés, a pharmacy, and local businesses. The town hall occupies one side; a few bars have tables outside.

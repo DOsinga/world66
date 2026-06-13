@@ -8,6 +8,7 @@ tags:
   - orchards
 latitude: 48.6500
 longitude: -119.6000
+score: 7.4
 ---
 
 The Okanogan Valley runs roughly north from the town toward the Canadian border, and the drive along US-97 through it is one of the more quietly satisfying stretches of road in eastern Washington. Apple orchards line the valley floor in some sections, with cattle ranches on the benches above; sagebrush covers the drier hills. The light in late summer, when the apples are heavy on the trees, is something particular to this country.

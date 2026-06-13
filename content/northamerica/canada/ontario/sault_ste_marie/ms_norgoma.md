@@ -8,6 +8,7 @@ tags:
 latitude: 46.50847
 longitude: -84.33569
 story: "The Norgoma was the last passenger cruise ship built for the Owen Sound Transportation Company and served the Lake Huron islands until 1974, when road and air links made her redundant. She now sits at the Roberta Bondar Marina as a museum ship — the last surviving passenger vessel from the era when island communities on Georgian Bay and the North Channel depended entirely on the boat schedule."
+score: 6.5
 ---
 
 MS Norgoma is moored at the waterfront near the Roberta Bondar Marina and open to visitors as a museum ship. Built in 1950, she carried passengers and freight between Sault Ste. Marie, Manitoulin Island, and Georgian Bay ports for more than two decades. The interior has been preserved with period furnishings, giving a sense of Great Lakes passenger travel in the mid-20th century.

@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 1.2333
 longitude: 111.5167
+score: 7.8
 ---
 
 The Lemanak is a tributary of the Batang Lupar in central Sarawak, lined for around 30 km with Iban longhouses that have been receiving visitors since the 1970s. A typical overnight tour leaves Kuching by minibus (4 hours) to a riverbank loading point, then 90 minutes upriver by motorised longboat to a working longhouse where 10–20 households still live in single connected lengths of stilted timber.

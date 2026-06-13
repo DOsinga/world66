@@ -12,6 +12,7 @@ story: >
   safe channel into the harbour for ships approaching Sligo. There is an
   identical Metal Man at Tramore in County Waterford — both were cast in
   London and shipped to Ireland together.
+score: 5.8
 ---
 
 The Metal Man stands on a low column on Perch Rock, about a kilometre offshore from Rosses Point at the entrance to Sligo Bay. He points with his right arm to indicate the safe channel for ships — a working navigation aid for two centuries, still in use today although now lit electrically rather than by oil lamp.

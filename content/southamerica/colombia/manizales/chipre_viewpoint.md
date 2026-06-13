@@ -8,6 +8,7 @@ tags:
   - sight
   - views
 story: "On a clear morning the Chipre viewpoint frames the Nevado del Ruiz, the active volcano whose 1985 eruption buried the town of Armero and killed over 23,000 people in one of the worst volcanic disasters of the 20th century. The volcano is still active — on a clear day you can sometimes see steam rising from its summit crater 50 kilometres to the south."
+score: 8.2
 ---
 
 The Chipre neighbourhood sits on the western ridge of Manizales and the public mirador at its tip is the best place in the city to watch the sunset, with views over the Cauca river valley to the west and the Cordillera Central to the south.

@@ -6,6 +6,7 @@ longitude: 20.9990
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 A few kilometres south of the centre of Arta, on a hillside above the Arachthos as it flows down towards the Ambracian Gulf, sits the thirteenth-century Kato Panagia monastery. Like the Parigoritissa, it was founded by the despots of Epirus, and like them it survives in good condition: a single-aisled domed church surrounded by a low monastic enclosure.

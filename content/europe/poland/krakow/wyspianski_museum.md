@@ -7,6 +7,7 @@ tags:
   - stare_miasto
 latitude: 50.0597
 longitude: 19.9330
+score: 8.1
 ---
 
 Stanisław Wyspiański (1869-1907) was one of the most complete artists produced by Poland — painter, playwright, designer, and visionary who worked in the compressed final decade of his short life to transform Krakow's cultural identity. The Wyspiański Museum in the Szołayski House near the Franciscan church presents his work across media: the pastel portraits of his children that show his extraordinary draughtsmanship, the stage designs for his theatrical work (his play "The Wedding" is the most important Polish drama of the 20th century), cartoons for the stained-glass windows he designed for the Church of St. Francis, and his furniture and interior designs.

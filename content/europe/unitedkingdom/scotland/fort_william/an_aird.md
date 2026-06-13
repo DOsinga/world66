@@ -6,6 +6,7 @@ longitude: -5.1020
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 An Aird is the small park and Shinty pitch on the loch shore just north of the town centre, with a long curving promenade that gives the best easy view of Loch Linnhe and the hills of Ardgour rising directly across the water. On a clear evening it is the place to walk before dinner. The local Shinty side, Kingussie or Newtonmore matches, draws a noisy crowd in summer.

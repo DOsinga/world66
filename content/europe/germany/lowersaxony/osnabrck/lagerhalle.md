@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 52.2762
 longitude: 8.0394
+score: 6.9
 ---
 
 The Lagerhalle is Osnabrück's main independent cultural venue, housed in a converted nineteenth-century warehouse on the western fringe of the old town. It runs concerts across most genres — rock, jazz, electronic, world music — alongside club nights, theatre performances, film screenings, and exhibitions. It has been the anchor of the city's alternative arts scene for decades and has a reputation well beyond the size of the city it serves, regularly booking acts that would normally play larger venues.

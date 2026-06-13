@@ -9,6 +9,7 @@ longitude: 4.34889
 snippet: Elegant 18th-century gardens built around ancient Roman sanctuaries, topped by the Tour Magne
 sources:
   - https://en.wikipedia.org/wiki/Sanctuaire_de_la_Fontaine
+score: 8.6
 ---
 
 The Jardins de la Fontaine are the most peaceful spot in Nîmes — a long, formal French garden climbing the slope of Mont Cavalier, with ornamental canals, balustrades, and stone urns laid out in the 18th century around a Roman spring that was sacred to the Gauls long before the Romans arrived. The Sanctuaire de la Fontaine, visible below the gardens, was a Roman complex of temples, baths, and nymphaeum built around this spring.

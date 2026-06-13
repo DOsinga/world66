@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The southern reef, reachable on a swim from the beach — turtles, reef sharks, ray"
+score: 8.6
 ---
 
 The Rasdhoo house reef sits off the bikini beach on the south side of the island, about 50 metres from shore. The reef edge is shallow at the inner side and drops off sharply at the outer wall to about 25 metres. Hawksbill turtles, blacktip reef sharks, eagle rays in the right season, and reasonable hard- and soft-coral cover make for one of the most consistently productive house-reef snorkels in the Maldives.

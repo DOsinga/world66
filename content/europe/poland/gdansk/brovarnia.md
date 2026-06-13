@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Brovarnia
 type: poi
+score: 6.2
 ---
 
 Brovarnia occupies a converted granary on the Raduna Canal in the Old Town and has a working brewery visible behind glass in the restaurant. The house beers — an unfiltered wheat, a dark amber, and a seasonal — are brewed on-site and are better than most tourist-trap brewpubs manage. The food is a step up from standard Polish fare: game dishes, duck, Baltic fish, and good pierogi. Prices are mid-range.

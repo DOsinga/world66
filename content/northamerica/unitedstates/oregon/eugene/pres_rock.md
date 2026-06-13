@@ -10,6 +10,7 @@ address: "Skyline Boulevard, above Hendricks Park"
 latitude: 44.0286
 longitude: -123.0588
 story: "Prefontaine was driving home from a post-race party on 30 May 1975 when his MG flipped on Skyline Boulevard. He held every American distance record from 2,000 metres to 10,000 metres at the time. Forty-eight years later, runners still leave race bibs, medals, and shoes at the stone."
+score: 6.4
 ---
 
 The stone marker on a quiet, sloped street above Hendricks Park is where **Steve Prefontaine** died on the night of 30 May 1975, at 24, on his way home from a meet at Hayward Field. The site has become a place of pilgrimage for distance runners and a low-key memorial to the figure who, more than anyone, made Eugene a running town.

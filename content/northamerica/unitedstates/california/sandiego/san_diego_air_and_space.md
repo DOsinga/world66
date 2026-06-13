@@ -7,6 +7,7 @@ tags:
 latitude: 32.7268
 longitude: -117.1483
 snippet: Aviation history from the Wright Brothers to the Space Age, in Balboa Park's historic Ford Building
+score: 7.3
 ---
 
 The San Diego Air and Space Museum occupies the 1935 Ford Building in the southern end of Balboa Park, a streamline moderne structure built for the California Pacific International Exposition that now houses aircraft from the full history of powered flight. The museum's location in San Diego is appropriate: the city was a centre of early aviation manufacturing, and Charles Lindbergh's Spirit of St. Louis was built in a factory in downtown San Diego before the 1927 transatlantic crossing.

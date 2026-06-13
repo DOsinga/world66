@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 21.3935
 longitude: -157.7224
+score: 5.9
 ---
 
 Buzz's, across the bridge from Kailua Beach Park, has been grilling steaks and serving mai tais since 1967, with the kind of unbroken continuity that is increasingly rare on Oahu. The dining room is open-air and wood-panelled, the menu sticks to the classics — steak, fish, garlic shrimp, all with a salad bar — and the bar mixes properly strong cocktails.

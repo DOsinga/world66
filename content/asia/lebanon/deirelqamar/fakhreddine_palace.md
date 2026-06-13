@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Fakhreddine II was kidnapped, marched to Istanbul, and executed by the Ottomans in 1635 after they finally lost patience with his territorial ambitions. He had used these very rooms to host European traders and Florentine merchants — early Western contact that the Sublime Porte read, correctly, as a step toward independence.
+score: 7.6
 ---
 
 The Fakhreddine II Palace, also called the Beit Faqra, is the larger of the two princely buildings on the Midan, dating from the early seventeenth century. The sandstone facade with its long row of triple-arched windows is the calling card of Deir el Qamar — every photograph of the town has it in the background somewhere.

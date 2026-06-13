@@ -18,6 +18,7 @@ story: >
   treachery in the history of the Americas.
 sources:
   - https://en.wikipedia.org/wiki/Ransom_Room
+score: 8.1
 ---
 
 The Cuarto del Rescate is a small stone building a few blocks from Cajamarca's Plaza de Armas, and it is one of the most historically significant places in South America. This is where the Inca emperor Atahualpa was held after Francisco Pizarro captured him in November 1532, and where Atahualpa made his famous offer: to fill the room with gold — a line drawn on the wall shows the promised height — in exchange for his freedom.

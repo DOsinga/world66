@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 8.4
 ---
 
 The 1921 brick schoolhouse where both Jimmy and Rosalynn Carter studied — he graduated in 1941, she in 1944 — now houses the main visitor centre for the historical park. The school closed in 1979 and was donated to the park in 1996.

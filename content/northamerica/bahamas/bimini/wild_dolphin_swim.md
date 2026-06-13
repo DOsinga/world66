@@ -7,6 +7,7 @@ tags:
 - swimming
 title: Wild Dolphin Swims
 type: poi
+score: 8.8
 ---
 
 The shallow banks west of Bimini are home to a long-studied population of Atlantic spotted dolphins, and the area is one of the few places in the world where snorkelers can reliably meet them in open water. Boats run out for half-day trips from Alice Town to the dolphin grounds, usually in the afternoon when the pods are most active.

@@ -13,6 +13,7 @@ story: >
   up to 2,100 cubic feet per second into the Truckee River. It was listed on the
   National Register of Historic Places in 1981. The adjacent Fanny Bridge gets its
   name from the posture of tourists who lean over the railing to see the fish below.
+score: 6.8
 ---
 
 At the very point where Lake Tahoe ends and the Truckee River begins, the historic Lake Tahoe Dam controls the flow of one of the largest alpine lakes in the world into its only outlet. The structure is modest in scale but significant in consequence: it regulates the top six feet of the lake, which represents an enormous volume of water and critically affects downstream Nevada's agricultural water supply.

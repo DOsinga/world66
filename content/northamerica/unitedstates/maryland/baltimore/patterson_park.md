@@ -14,6 +14,7 @@ story: >
   surrounded by rowhouses. During the War of 1812, cannon were placed on this same
   hill to defend the city from British land attack while Fort McHenry handled the
   harbour approach.
+score: 7.8
 ---
 
 Patterson Park is one of Baltimore's most important neighbourhood parks, serving the densely populated east side of the city where several immigrant communities — Polish, Greek, Ukrainian, and now Latino — have historically concentrated. The park has a boathouse on a small lake, tennis courts, an ice skating rink in winter, and the eccentric 1891 Pagoda observation tower.

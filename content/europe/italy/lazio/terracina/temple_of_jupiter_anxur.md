@@ -11,6 +11,7 @@ story: >
   The Romans believed the hill-top sanctuary was sacred to a beardless Jupiter worshipped under the name Anxur — an ancient Volscian name for the site predating Rome's conquest. The sanctuary's elevated terrace was also used as a treasury and place of asylum, making it one of those rare Roman sites where religion, politics, and money all operated under the same roof.
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Jupiter_Anxur
+score: 8.8
 ---
 
 The Temple of Jupiter Anxur crowns Monte Sant'Angelo above Terracina, and the views from its terrace are extraordinary: the Tyrrhenian Sea, the Pontine Plain, the islands of Ponza and Palmarola on a clear day, and the ancient Via Appia cutting straight across the marshes below. Getting up here is reason enough to visit Terracina.

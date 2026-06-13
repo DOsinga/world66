@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 6.2
 ---
 
 Walsall has held a market since 1220, when Henry III granted the town a market charter. The modern market, held in the town centre, is one of the oldest continuously operating markets in the West Midlands. It operates several days a week with a mix of fresh produce, household goods, clothes, and local traders.

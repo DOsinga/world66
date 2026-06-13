@@ -7,6 +7,7 @@ tags:
 latitude: 44.8419
 longitude: -0.5731
 snippet: Bordeaux's famous steak-only restaurant — one dish, secret sauce, queue out the door
+score: 6.8
 ---
 
 L'Entrecôte is a Bordeaux institution: a restaurant that serves exactly one dish, no choices, no reservations. You arrive, you sit, you get a green salad followed by entrecôte steak with thinly sliced fried potatoes and the establishment's celebrated sauce — a recipe allegedly kept secret for three generations. You can have a second helping of steak. That is the whole menu.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.8050
 longitude: 10.1975
 snippet: "The town beach — sandy, sheltered, and suitable for families"
+score: 6.4
 ---
 
 The main beach at Marciana Marina runs along the town's waterfront, sheltered by the harbour breakwater on one side and the headland on the other. The sand is coarse and the water clear; in midsummer it is genuinely busy but never as overwhelmed as the more famous beaches further east on the island. Sun loungers and umbrellas are available for hire from the beach operators.

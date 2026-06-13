@@ -8,6 +8,7 @@ latitude: 43.80722
 longitude: 11.2925
 story: >
   The cathedral was built on the site of an earlier Lombard church, which itself replaced a Roman temple dedicated to a pagan deity. Descend into the crypt and you'll find early Christian sarcophagi from the 5th and 6th centuries — stone coffins that predate the cathedral above them by half a millennium.
+score: 8.3
 ---
 
 The Cathedral of San Romolo sits on the north side of Piazza Mino and has dominated the square since the 11th century. Its Romanesque exterior is plain and powerful — rough pietra serena stonework with none of the decorative ambition of Florence's later churches. The bell tower was added in the 14th century and is now one of Fiesole's landmarks.

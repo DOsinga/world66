@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 47.7619
 longitude: 7.3261
+score: 8.9
 ---
 
 The Cité du Train is the largest railway museum in France and one of the most comprehensive in Europe. The collection spans 150 years of French railway history across 15,000 square metres of former SNCF workshops, from the very earliest steam locomotives to modern TGV trains. Highlights include nineteenth-century imperial saloon coaches used by Napoleon III and Empress Eugénie, a recreation of a 1950s station, and an extensive model railway layout.

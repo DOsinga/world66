@@ -14,6 +14,7 @@ story: >
   for "Arrangement in Grey and Black No. 1," universally called "Whistler's Mother."
   Whistler himself was not particularly fond of Lowell and reportedly tried to obscure
   the connection in later life, claiming to have been born in St. Petersburg, Russia.
+score: 7.2
 ---
 
 The Whistler House Museum of Art occupies the 1823 Federal-style house where James McNeill Whistler was born, on Worthen Street in downtown Lowell. The museum holds a collection of 19th-century American art, including a fine selection of Whistler's own etchings and lithographs — technically demanding works that show a different side of the artist usually known for his tonalist paintings.

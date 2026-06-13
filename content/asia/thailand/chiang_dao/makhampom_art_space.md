@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Makhampom Art Space
 type: poi
+score: 5.9
 ---
 
 A community arts centre founded in 2004, about two kilometres from the bus station. The compound includes studios, a sculpture garden, a small theatre, and the Gooseberry Café. The people behind it have done serious work with hill tribe and migrant communities in the region. Drop in to see what's on — there are occasional performances and workshops. Free admission.

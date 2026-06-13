@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.4333
 longitude: -71.8500
+score: 7.1
 ---
 
 Termas Los Pozones is a more rustic and affordable hot springs option than the famous Termas Geométricas, and for many travellers it is the more enjoyable experience. A series of natural rock pools step down the hillside, each at a slightly different temperature, with the river running alongside and the forest above. The setting is informal and the atmosphere sociable — this is where Pucón's backpacking crowd tends to end up.

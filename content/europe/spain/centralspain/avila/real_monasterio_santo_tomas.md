@@ -14,6 +14,7 @@ tags:
 - historic
 title: Real Monasterio de Santo Tomás
 type: poi
+score: 8.6
 ---
 
 The Real Monasterio de Santo Tomás is a late Gothic Dominican monastery built at the command of Ferdinand and Isabella in the 1480s and 1490s, just outside the walls of Ávila. It served as the summer residence of the Catholic Monarchs and is the most important royal monument in the city. The architecture is of the highest quality — the exterior combines Late Gothic and early Renaissance elements in the Isabelline style particular to that reign.

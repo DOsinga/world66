@@ -8,6 +8,7 @@ tags:
 latitude: 16.2527
 longitude: 81.1439
 story: "Kalamkari — literally 'pen work' — uses natural dyes derived from pomegranate rind, iron filings, and tamarind seeds. Before a cloth is painted, it must be washed, treated with buffalo milk, and sun-dried multiple times. The process takes weeks and the result is a textile that cannot be factory-replicated."
+score: 8.3
 ---
 
 The small town of Pedana, about 8 km north of Machilipatnam, is the centre of the block-print style of Kalamkari that Machilipatnam is known for. Artisans here use carved wooden blocks and natural plant-based dyes to print elaborate patterns on cotton — floral designs, geometric borders, and scenes from the Mahabharata and Ramayana rendered in earthy reds, blues, and greens.

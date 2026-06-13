@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Het Oeverloze Eiland
 type: poi
+score: 5.2
 ---
 
 If you are in for a cup of tea served the way it should be, this is the place to be. They have a large variety of teas and coffees, and the prices are very reasonable. The ambience is different on each of the three floors, so pick the one that suits your mood. The name means "the island without shores."

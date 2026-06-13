@@ -11,6 +11,7 @@ story: >
   Walchand Hirachand, who convinced the Mysore government to establish India's first aircraft
   manufacturer. The factory grounds are still active; the museum shows the aircraft it produced
   over eight decades.
+score: 6.8
 ---
 
 The HAL Aerospace Museum at Hindustan Aeronautics Limited's east Bangalore campus is the only museum of its kind in India dedicated to the country's aviation and aerospace manufacturing history. The outdoor display includes HAL-built fighters, trainers, and helicopters — including the HF-24 Marut, India's first indigenous jet fighter — along with engines, missiles, and aviation equipment from several decades of production. The indoor galleries cover HAL's history from 1940 to the present.

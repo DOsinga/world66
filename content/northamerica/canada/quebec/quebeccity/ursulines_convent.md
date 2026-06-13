@@ -11,6 +11,7 @@ address: "12 rue Donnacona, Québec City, QC G1R 3Y7"
 snippet: North America's oldest educational institution for women, founded 1639
 sources:
   - https://en.wikipedia.org/wiki/Ursulines_of_Quebec
+score: 8.2
 ---
 
 The Ursuline convent was founded in 1639 by Marie de l'Incarnation — the first superior of the order in New France and the most significant woman in the history of early Canada. The museum attached to the convent presents the history of the Ursuline Sisters and their three centuries of educational mission in Québec, with an impressive collection of religious art, embroidery, and colonial artifacts.

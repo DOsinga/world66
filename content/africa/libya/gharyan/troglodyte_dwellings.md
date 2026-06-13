@@ -8,6 +8,7 @@ latitude: 32.1716
 longitude: 13.0211
 story: >
   Gharyan's underground homes were not caves in the wilderness — they were built beneath the courtyard floors of existing houses, accessed by a ramp or staircase. Families lived below ground through the hottest months, returning to the surface in cooler weather. Some have been continuously occupied for several centuries.
+score: 8.6
 ---
 
 Gharyan is one of the best places in Libya to see troglodyte dwellings — houses dug vertically into the soft limestone hillside, with rooms cut around a central underground courtyard open to the sky. The design was both practical and elegant: the earth acts as insulation, keeping the interior around 18°C even when the surface temperature tops 40°C in summer.

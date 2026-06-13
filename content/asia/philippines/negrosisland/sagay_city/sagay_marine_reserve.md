@@ -9,6 +9,7 @@ latitude: 10.9
 longitude: 123.4167
 sources:
   - https://en.wikipedia.org/wiki/Sagay_Marine_Reserve
+score: 8.4
 ---
 
 The Sagay Marine Reserve is the largest marine protected area in the Philippines, covering 32,000 hectares of the Visayan Sea north of Negros Island. Established in 1999, it protects the Carbin and Maca reefs along with extensive seagrass beds and mangrove forests. The reserve was created after years of destructive fishing — dynamite blasting, cyanide, and muro-ami nets — had severely damaged the reefs, and recovery has been significant since protection began.

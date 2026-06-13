@@ -10,6 +10,7 @@ tags:
 title: 826 Valencia / Pirate Supply Store
 neighbourhood: Mission District
 type: poi
+score: 7.7
 ---
 
 The storefront at 826 Valencia looks like a pirate supply shop -- and it is. You can buy eye patches, mast cleaner, lard, and bottles labelled "Scurvy Begone." But the real purpose is behind the shop: a free drop-in writing and tutoring centre for young people, founded by author Dave Eggers in 2002.

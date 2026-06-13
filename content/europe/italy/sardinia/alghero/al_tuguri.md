@@ -10,6 +10,7 @@ tags:
 - old_town
 title: Al Tuguri
 type: poi
+score: 5.9
 ---
 
 Al Tuguri has been running on Via Maiorca, in the heart of the old town, for over thirty years and is consistently named among the better restaurants in Sardinia. The dining room is small and intimate — exposed stone walls, dark wood, perhaps fifteen tables — and the menu is short, changes with the catch, and leans Catalan in the local sense: aragosta alla catalana, anchovies, sea urchin pasta when in season, and grilled spaghetti with bottarga.

@@ -6,6 +6,7 @@ latitude: 43.6217
 longitude: 11.4733
 story: >
   The Florence-Arezzo railway line through the Valdarno was one of the earliest rail lines in Tuscany, built in the 1860s. It follows the Arno upstream through a valley that has been an important communications corridor since Roman times — the Via Cassia ran through the same terrain.
+score: 3.8
 ---
 
 Figline Valdarno railway station serves the town on the main Florence-Arezzo line, with frequent trains in both directions. Florence is about 35 minutes; Arezzo about 40 minutes. The station itself is a modest affair on the eastern edge of the town centre, easily reached on foot from the main square.

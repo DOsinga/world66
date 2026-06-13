@@ -15,6 +15,7 @@ story: >
   are acidic enough to react with metal; visitors are asked not to wear jewellery.
 sources:
   - https://en.wikipedia.org/wiki/Kamuiwakka_Falls
+score: 8.0
 ---
 
 Kamuiwakka Falls is a series of warm waterfalls on the Kamuiwakka River, heated by volcanic activity from Mount Iō above. The water emerges from the mountain already warm and slightly acidic, and you can wade up through the lower falls — pool after pool of warm water in a forest gorge — until you reach the main falls and their natural tub of heated water. The experience is extraordinary: a natural hot spring you hike into rather than just sit beside.

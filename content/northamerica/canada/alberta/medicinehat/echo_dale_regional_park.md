@@ -9,6 +9,7 @@ tags:
 snippet: Beach, swimming lake, and a restored coal mine on the city's western edge
 latitude: 50.0500
 longitude: -110.8000
+score: 6.2
 ---
 
 Echo Dale is the city's main summer destination — a couple of small lakes carved out of an old gravel pit, with sand beaches, swimming areas roped off in the lake, paddleboat rental, and a network of picnic shelters under cottonwoods. It can get busy on hot July weekends.

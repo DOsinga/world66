@@ -1,6 +1,7 @@
 ---
 title: Walking or Cycling the Coast Road
 type: poi
+score: 7.4
 ---
 
 The single road along La Désirade's southern coast runs about ten kilometres from end to end, connecting the ferry dock at Grande-Anse to the beaches and villages at the western tip. On foot it takes most of a day at a gentle pace with stops; on a bicycle, less than two hours. The road is flat along the coast and rises where it crosses the ridge to reach the northern side of the island.

@@ -10,6 +10,7 @@ latitude: 15.4877
 longitude: 120.5881
 sources:
   - https://en.wikipedia.org/wiki/Tarlac_Cathedral
+score: 6.7
 ---
 
 San Sebastian Cathedral, known to everyone as Tarlac Cathedral, is the seat of the Diocese of Tarlac and the most prominent building in the town centre. The current Neo-Gothic structure went up after the Second World War — the older wood-and-stone church on the same site was destroyed during the fighting in 1945. The interior is tall and white, with a long nave, pointed arches, and stained glass that catches the late-afternoon sun.

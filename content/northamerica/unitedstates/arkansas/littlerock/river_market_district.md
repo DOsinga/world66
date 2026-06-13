@@ -6,6 +6,7 @@ longitude: -92.2694
 tags:
   - things_to_do
   - neighbourhood
+score: 7.2
 ---
 
 The River Market District is Little Rock's most animated neighbourhood — a stretch of blocks between the Arkansas River and Capitol Avenue that has been rebuilt since the 1990s as the city's entertainment and cultural centre. The Clinton Presidential Center, the Old State House, and the Historic Arkansas Museum are all here, along with the best concentration of restaurants and bars in the city.

@@ -10,6 +10,7 @@ latitude: 25.0775
 longitude: -77.3405
 story: >
   The pink Georgian buildings are nearly identical to the South Carolina state house in Charleston — a clear borrowing from Loyalists who fled the American colonies after independence and rebuilt their architectural world in Nassau. A statue of a youthful Queen Victoria, seated and holding the orb, has watched over the square since 1905.
+score: 7.8
 ---
 
 Three matching pink-and-white Georgian buildings face each other across a small square just off Bay Street: the **Bahamian Parliament Building** (House of Assembly), the Senate, and the old Colonial Secretary's office. The colour is a particularly Bahamian shade of pink that you see all over the old downtown. A seated bronze of Queen Victoria sits at the centre.

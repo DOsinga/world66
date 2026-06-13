@@ -7,6 +7,7 @@ tags:
 latitude: 35.872194
 longitude: 12.878611
 snippet: "Active lighthouse on Linosa's northeastern tip, with wide views to Lampedusa"
+score: 7.0
 ---
 
 The lighthouse at Punta Beppe Tuccio stands on the northeastern tip of Linosa, where the island's lava shelf drops into open sea. It is an active navigation aid — white-painted, compact, and very much still working — but the real draw is the walk to reach it and the views from the headland.

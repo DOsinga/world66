@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.9030
 longitude: 117.9965
+score: 7.5
 ---
 
 Ruiyuge is one of the better-preserved residential compounds in Xidi's inner village, a Qing dynasty house whose narrow street facade gives little indication of the space within. The interior follows the standard Huizhou layout — an entry hall, a sky-well courtyard, and a main reception hall — but the proportions and the quality of the stone and woodwork throughout are above average. The sky-well, the characteristic narrow internal courtyard of Huizhou domestic architecture, focuses rain and light onto the central floor and creates a microclimate that keeps the interior cooler than the surrounding lanes.

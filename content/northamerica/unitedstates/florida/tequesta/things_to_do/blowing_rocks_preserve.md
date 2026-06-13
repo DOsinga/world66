@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 26.9658
 longitude: -80.0596
+score: 8.0
 ---
 
 Blowing Rocks Preserve occupies a mile-long stretch of Jupiter Island, just east of Tequesta across the inlet. The name comes from the Anastasia limestone formation that lines the beach — during rough surf, waves force water through fissures in the rock and shoot plumes up to 50 feet into the air. It is one of the most unusual beaches in Florida, nothing like the broad sand beaches to the south.

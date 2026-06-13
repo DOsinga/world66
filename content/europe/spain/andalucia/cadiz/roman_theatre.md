@@ -10,6 +10,7 @@ longitude: -6.2897
 snippet: "1st-century BC Roman theatre, largely unexcavated and free to visit"
 story: >
   The theatre was forgotten entirely for over 1,500 years. When excavations began in 1980, they discovered it had been buried under a mediaeval barrio whose residents had been living on top of two millennia of history without knowing it. Walls, arches, seats and stage machinery were found intact below street level. The site is still being excavated; the full extent of the theatre — estimated to seat 10,000 people — is not yet clear.
+score: 8.1
 ---
 
 One of the largest Roman theatres ever built in the Iberian Peninsula lies partially excavated in the heart of Cádiz's old city. The Theatrum Balbi was constructed in the 1st century BC, possibly commissioned by Lucius Cornelius Balbus — the first provincial Roman to hold the consulship — and remained in use for several centuries before being dismantled and gradually buried. The remains visible today include sections of the seating tiers (cavea), the orchestra floor, and parts of the stage wall, all in remarkably good condition.

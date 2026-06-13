@@ -10,6 +10,7 @@ story: >
   The Charleroi metro was planned in the 1960s as a 48-kilometre network that would connect the entire industrial agglomeration. Construction began and several stations were built to full specification — escalators, tiling, electrical systems, platform lighting — before the money ran out. Several stations were completed but never opened, sitting in a ghostly state of readiness underground. The network that operates today covers only a fraction of the planned system, and urban explorers occasionally document the sealed stations in their original condition.
 sources:
   - https://en.wikipedia.org/wiki/Palais_metro_station
+score: 7.2
 ---
 
 The Métro Léger de Charleroi is one of the more curious urban rail systems in Europe — a network built to ambitious 1960s plans that was never completed, leaving it as a partial system with a strange grandeur. What does operate connects the Ville-Haute and Ville-Basse (upper and lower towns) and extends to Gilly and Anderlues on the eastern and western arms.

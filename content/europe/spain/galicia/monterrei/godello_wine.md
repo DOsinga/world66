@@ -10,6 +10,7 @@ story: >
   Godello nearly became extinct. In the 1970s the variety had been largely abandoned across Galicia in favour of higher-yielding but inferior grapes. A handful of producers in Valdeorras — and later in Monterrei — rescued it from near-disappearance in the 1980s. Today Godello is one of the most sought-after white wine grapes in Spain.
 sources:
   - https://en.wikipedia.org/wiki/Monterrei_(DO)
+score: 7.9
 ---
 
 The Monterrei DO produces wines with a distinctive character compared to other Galician denominations. The valley is further inland than the Rías Baixas, warmer and drier — Monterrei gets significantly less rain than the Atlantic coast — and the wines reflect this: Godello and Treixadura whites here are fuller-bodied and more mineral than Albariño, with a golden colour and moderate acidity. The reds, primarily Mencía, can be surprisingly structured for a region better known for its whites.

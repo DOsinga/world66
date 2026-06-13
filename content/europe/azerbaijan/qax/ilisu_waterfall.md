@@ -9,6 +9,7 @@ longitude: 47.0580
 sources:
   - https://azerbaijan.travel/hike-gorgeous-illisu-waterfall
   - https://guidedazerbaijan.com/news/discover-ilisu-waterfall-in-qakh-a-mesmerizing-natural-wonder-of-azerbaijan
+score: 7.5
 ---
 
 A twenty-minute walk from the centre of Ilisu village brings you to one of the most attractive waterfalls in northwestern Azerbaijan. The Ilisu waterfall — locally known as Ram-Rama — drops around 25 metres over a cliff face into a small pool, surrounded by dense mixed forest. The path from the village descends steeply over loose rock and can be slippery in wet weather; sensible footwear matters.

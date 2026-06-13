@@ -7,6 +7,7 @@ tags:
 latitude: 38.6769
 longitude: 1.5175
 snippet: "A tiny fishing harbour on the north coast with traditional wooden boat shelters and good swimming"
+score: 8.2
 ---
 
 Es Caló de Sant Agustí is a small fishing harbour on the northern coast of the La Mola plateau, where a series of traditional wooden fishing shelters — *coves* — are built into the low cliffs beside the water. These arc-roofed structures, each just large enough for a small boat, are among the most photographed things on the island: functional vernacular architecture that has barely changed in a century. The harbour itself is not a beach in the conventional sense but a rocky inlet with clear water and a couple of concrete platforms for swimming.

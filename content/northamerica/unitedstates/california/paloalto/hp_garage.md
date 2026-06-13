@@ -12,6 +12,7 @@ story: >
   oscillators there; their first big customer was Walt Disney, who ordered eight for the production
   of Fantasia. The state of California declared the building the "Birthplace of Silicon Valley" in
   1989.
+score: 6.0
 ---
 
 A modest wood-shingled garage behind a small house on Addison Avenue — universally credited as the

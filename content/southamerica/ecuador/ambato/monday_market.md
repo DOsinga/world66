@@ -13,6 +13,7 @@ story: >
   the sierra, and the Amazon. After the 1949 earthquake, the market resumed even before
   the city was fully rebuilt. For the towns around Ambato, Monday market is simply what
   you do.
+score: 8.1
 ---
 
 Ambato's Monday market is one of the biggest and most authentic market days in the central Ecuadorian highlands. Farmers and traders arrive from the surrounding valleys — the fertile Ambato basin, the slopes above Baños, the páramo villages to the east — bringing produce, livestock, and handicrafts.

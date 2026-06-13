@@ -12,6 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palacio_Real,_Amsterdam,_2
 latitude: 52.373145
 longitude: 4.891336
 neighbourhood: Centrum
+score: 7.9
 ---
 
 Built between 1648 and 1665 as the most prestigious town hall in the Dutch world, the palace on Dam Square was designed by Jacob van Campen in restrained Dutch Classicist style — a deliberate civic statement at the height of the Golden Age, when Amsterdam was the richest city in Europe. Napoleon's brother Louis converted it into a royal residence in 1808, and much of the Empire-period furniture he installed is still inside.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 12.4720
 longitude: -85.6584
+score: 5.1
 ---
 
 A simple bar on the edge of the central park that does reliable business on weekend evenings. Cold Toña beer, rum with mixer, and an outdoor table from which you can watch the park. The clientele is almost entirely local — men playing cards, groups talking loudly, the usual weekend mix.

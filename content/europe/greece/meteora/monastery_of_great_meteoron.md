@@ -13,6 +13,7 @@ story: >
   a net hauled by a windlass — visitors were hoisted in a swinging basket over a
   300-metre drop. The windlass mechanism still exists, though tourists now arrive
   via a staircase carved into the rock in 1923.
+score: 9.5
 ---
 
 The Monastery of Great Meteoron (Megalo Meteoro) is the largest and highest of the Meteora monasteries, sitting at 613 metres above sea level on the broadest of the sandstone pillars. Founded in the 1340s by the monk Athanasios Meteorites and greatly expanded under the Serbian king Stephen Uroš IV Dušan, it became the spiritual and administrative centre of the entire Meteora monastic community.

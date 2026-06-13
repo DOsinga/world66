@@ -9,6 +9,7 @@ latitude: 54.998
 longitude: -7.320
 story: >
   The Guildhall was bombed twice during the Troubles — once in 1972 and again in 1977. On both occasions it was rebuilt and its stained-glass windows restored. The building's survival, and the determination to repair it, became its own kind of statement about Derry's relationship to its past.
+score: 7.9
 ---
 
 Just outside the city walls at Shipquay Gate, the Guildhall is one of the most impressive Victorian buildings in the north of Ireland. Built in a neo-Gothic style and completed in 1890, then rebuilt after a fire in 1912 and again after IRA bombings in the 1970s, the building now houses the elected council chamber for Derry City and Strabane District Council.

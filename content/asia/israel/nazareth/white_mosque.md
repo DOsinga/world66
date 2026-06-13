@@ -14,6 +14,7 @@ story: >
   mosque sits in the heart of the old market quarter, which explains its name —
   Masjid al-Abiad, "the White Mosque," standing out against the grey stone of
   the surrounding buildings.
+score: 7.1
 ---
 
 The White Mosque is Nazareth's oldest mosque, built in the early 19th century in the center of the old market quarter. Its slender pencil minaret and pale limestone walls are distinctively Ottoman in character. The mosque is still an active place of worship; non-Muslim visitors are welcome outside prayer times.

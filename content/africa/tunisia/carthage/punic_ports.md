@@ -13,6 +13,7 @@ tags:
 - historic
 title: Punic Ports
 type: poi
+score: 8.8
 ---
 
 The Punic Ports are the most evocative surviving Punic-era structures at Carthage — a pair of artificial harbours hand-dug by the city's engineers and connected by a narrow channel to the Mediterranean. The southern port was rectangular and used for commercial shipping; the northern one, perfectly circular and 130 metres across, was the military naval base — at its peak it could berth 220 warships in covered dry docks ringed around an admiralty island.

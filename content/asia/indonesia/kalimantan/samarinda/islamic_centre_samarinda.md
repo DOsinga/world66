@@ -11,6 +11,7 @@ story: >
   The mosque's main dome is among the largest in Southeast Asia at 27 metres in diameter, and the complex was built to accommodate 40,000 worshippers at once — a scale that reflects East Kalimantan's ambition to become the religious and cultural heart of Indonesian Borneo.
 sources:
   - https://en.wikipedia.org/wiki/Islamic_Center_of_Samarinda
+score: 7.4
 ---
 
 The Islamic Centre of Samarinda is the city's most striking building and one of the largest mosques in Southeast Asia. The complex rises from the bank of the Mahakam River in a cluster of white domes and minarets that are visible from far downstream, making it the most memorable element of Samarinda's skyline.

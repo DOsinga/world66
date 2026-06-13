@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "PJ Old Town was Malaysia's first satellite township, laid out in 1952 by the British colonial government to rehouse Chinese squatters cleared from Kuala Lumpur during the Malayan Emergency. The grid of low-rise shophouses and the original numbering scheme — Section 1, Section 2 — survive almost unchanged."
+score: 7.8
 ---
 
 The original heart of Petaling Jaya, a tight grid of two-storey shophouses around the Jalan Pasar wet market. The architecture is unfussy 1950s utilitarian, but it is the only part of PJ that feels like an old Malaysian town rather than a freeway-stitched suburb.

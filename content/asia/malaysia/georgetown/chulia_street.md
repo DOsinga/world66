@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - neighbourhood
 - street_food
+score: 7.9
 ---
 
 Lebuh Chulia is the long shop-lined street that runs roughly east-west through the heart of the old town. The name comes from "Chulias," an older Malay term for South Indian Muslim traders, and the street was historically the centre of their community. For travellers it has become Georgetown's main backpacker district — most of the cheaper guesthouses are here or in the lanes immediately off it.

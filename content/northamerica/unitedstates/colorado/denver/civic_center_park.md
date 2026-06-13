@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 39.739444444444445
 longitude: -104.9888888888889
+score: 6.7
 ---
 
 The formal park between the State Capitol and the Denver City and County Building, Civic Center Park is the city's official front lawn — laid out in Beaux-Arts style with twin neoclassical pavilions, the Greek Theater on its southern edge, and a Voorhies Memorial colonnade with twin bronze sea lions to the north. The view east from the Capitol steps down the long axis to the City and County Building is one of Denver's best vistas.

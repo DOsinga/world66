@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The shrine of the Madonna del Deserto stands on a wooded slope a short walk above the town. The current eighteenth-century chapel, with its octagonal dome, replaces an earlier structure on the same site and was extensively rebuilt a century after it was first put up.

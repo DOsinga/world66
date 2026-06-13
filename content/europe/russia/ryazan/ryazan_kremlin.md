@@ -10,6 +10,7 @@ longitude: 39.7483
 story: "The original city of Ryazan — Old Ryazan — was completely destroyed by the Mongol khan Batu in 1237, one of the first Russian cities to fall. The citizens sent a delegation to Batu asking for mercy; he demanded tribute of one tenth of everything, including the people themselves. When they refused, the city was annihilated. The Kremlin we see today was built at a different site, the former city of Pereyaslavl-Ryazansky, which only received the Ryazan name in 1778."
 sources:
   - https://en.wikipedia.org/wiki/Ryazan_Kremlin
+score: 8.9
 ---
 
 The Ryazan Kremlin occupies a promontory above the confluence of the Oka and Trubezh rivers, and is the oldest part of the city. The complex contains several significant buildings from the fifteenth to eighteenth centuries, all now forming part of an open-air museum. The Cathedral of the Assumption (Uspensky Sobor), built between 1693 and 1699, dominates the ensemble with its ornate baroque facade and five blue domes. The belfry standing beside it is the tallest historic structure in Ryazan.

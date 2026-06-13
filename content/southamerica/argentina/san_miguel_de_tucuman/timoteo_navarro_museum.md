@@ -6,6 +6,7 @@ longitude: -65.2047
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 Tucumán's provincial fine arts museum sits on the corner of Plaza Independencia, a manageable collection focused on Argentine painters with strong representation from the northwestern provinces. The permanent collection includes works by Lino Eneas Spilimbergo, Antonio Berni, and Raquel Forner, alongside paintings by the museum's namesake, the Tucumán-born artist Timoteo Eneas Navarro, who died young in 1944.

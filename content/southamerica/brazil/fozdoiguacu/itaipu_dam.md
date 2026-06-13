@@ -10,6 +10,7 @@ story: >
   Itaipu was once the largest hydroelectric plant in the world by energy output, a record it held for 16 years before China's Three Gorges Dam overtook it in 2014. But Itaipu still generates enough electricity to power roughly 90% of Paraguay and 17% of Brazil's entire consumption — a staggering figure for a single structure on a single river.
 sources:
   - https://en.wikipedia.org/wiki/Itaipu_Dam
+score: 8.7
 ---
 
 The Itaipu Dam is an engineering feat on a scale that is hard to grasp until you are standing in front of it. Completed in 1984 after 16 years of construction involving 40,000 workers, it spans 7.9 kilometres across the Paraná River and stands 196 metres tall. The reservoir behind it stretches 1,350 square kilometres into the interior of Brazil. To build it, the Brazilians and Paraguayans had to divert an entire section of the Paraná River — an operation that reportedly used more earth than the Panama Canal.

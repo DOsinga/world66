@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8223
 longitude: 118.0573
+score: 5.1
 ---
 
 Dengfeng Bridge is a historic stone arch bridge crossing the Heng River in the valley below the main mountain complex. Built during the Ming dynasty, it served as the ritual gateway for pilgrims approaching the mountain from the direction of Xiuning County — the formal beginning of the sacred journey. The bridge is named for the imperial ceremony of ascending a mountain to offer sacrifices to heaven, which gives it a status beyond that of a mere river crossing.

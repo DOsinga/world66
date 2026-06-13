@@ -8,6 +8,7 @@ latitude: 27.3508
 longitude: 88.6036
 sources:
   - https://en.wikipedia.org/wiki/Banjhakri_Falls_and_Energy_Park
+score: 6.5
 ---
 
 Banjhakri Falls is a striking waterfall about four kilometres from the centre of Gangtok, set in a forested ravine and developed into a recreation park with sculptures, gardens, and walkways. The falls drop about 40 metres into a pool below, and the park surrounding them draws on Sikkimese folk tradition — the name refers to the Banjhakri, a shaman figure from local mythology depicted in several large bronze statues around the grounds.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.5681
 longitude: -16.2647
+score: 7.8
 ---
 
 The central market in Ziguinchor is one of the most animated in the Casamance region. Several interconnected sections cover everything from fresh produce and dried fish to fabric, hardware, and household goods. The fish section is particularly remarkable — the Casamance River and the nearby Atlantic supply barracuda, monkfish, shrimp, and oysters, and the women who run the stalls will tell you exactly how it was caught and how to cook it.

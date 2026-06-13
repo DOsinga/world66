@@ -10,6 +10,7 @@ latitude: -34.0167
 longitude: 23.05
 story: >
   A tiny population of forest elephants — probably fewer than ten individuals — still roams the Knysna Forest, the last wild elephants in South Africa outside Kruger. They are extremely shy and almost never seen, but their footprints and dung are found by rangers and dedicated trackers. The forest has been their home since long before European settlement; their survival through centuries of hunting, logging, and land conversion is remarkable.
+score: 8.7
 ---
 
 The Knysna Forest is a remnant of the great coastal forest that once stretched along much of South Africa's southern coast. Today it covers around 60,000 hectares of the Garden Route National Park, managed by SANParks. It is one of the largest indigenous forests in South Africa, with yellowwood trees — the country's national tree — reaching enormous size.

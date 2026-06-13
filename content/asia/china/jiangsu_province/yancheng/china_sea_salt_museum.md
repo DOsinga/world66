@@ -8,6 +8,7 @@ latitude: 33.3833
 longitude: 120.1167
 story: >
   Sea salt production was not simply an industry in imperial China — it was the primary source of government revenue for several dynasties, controlled through a state monopoly so profitable that officials competed fiercely for postings to salt production districts. Yancheng's "Salt City" name directly reflects this: for much of its two-thousand-year history, controlling the salt marshes here meant controlling real wealth.
+score: 6.6
 ---
 
 The China Sea Salt Museum in Yancheng traces the history of salt production along China's eastern coast, from the Han Dynasty saline marshes through the sophisticated imperial salt monopoly system to the modern chemical industry. The exhibits include traditional salt-making equipment, records of the salt merchants who grew wealthy here, and documentation of how the salt trade shaped the region's cities and canal network.

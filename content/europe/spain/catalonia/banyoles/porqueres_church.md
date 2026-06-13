@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.1097
 longitude: 2.7886
+score: 7.1
 ---
 
 The Romanesque church of Sant Pere de Porqueres stands at the southern end of the lake in the small municipality of Porqueres, about 2 km from Banyoles town. Built in the 11th century, it is one of the finest examples of Romanesque architecture in the Girona region — small, severe, and perfectly proportioned, with an apse that appears to grow directly from the lakeside rock.

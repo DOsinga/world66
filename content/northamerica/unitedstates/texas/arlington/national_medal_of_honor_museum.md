@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.7544
 longitude: -97.0847
+score: 7.2
 ---
 
 The National Medal of Honor Museum opened in Arlington in 2024, dedicated to the stories of every American recipient of the Medal of Honor — the country's highest military decoration, awarded to fewer than 3,600 people since it was established in 1861. The museum uses digital and immersive exhibits to tell individual stories in depth rather than presenting the collection as a catalogue of names and battles.

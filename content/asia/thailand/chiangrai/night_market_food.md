@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 19.9082
 longitude: 99.8316
+score: 5.9
 ---
 
 The cluster of food stalls and tables around the night bazaar and the walking street near the clock tower is the best and most convenient place to eat in central Chiang Rai. Vendors set up from around 5pm and the whole area is in full swing by 7pm. Northern Thai food dominates: khao soi (egg noodles in coconut curry broth with crispy noodles on top), sai ua (herbed pork sausage from the grill), larb with mixed herbs, and nam prik (chilli dips with vegetables and pork scratchings).

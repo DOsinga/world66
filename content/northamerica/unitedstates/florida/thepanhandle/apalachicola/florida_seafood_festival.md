@@ -6,6 +6,7 @@ longitude: -84.9827
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The longest-running seafood festival in Florida, held annually since 1963 on the first weekend of November in Riverfront Park. The town's population effectively triples for the two days. The big draws are the oyster-eating and oyster-shucking competitions, a Blue Crab Race, the King and Queen Retsyoyster pageant, and a Saturday morning parade.

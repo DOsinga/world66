@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Marda Loop
 type: poi
+score: 7.2
 ---
 
 A walkable stretch of 33rd Avenue SW in Calgary's inner city, marked by the iconic Marda Loop sign just east of Crowchild Trail. The neighborhood packs three blocks with independent boutiques, locally owned restaurants, and coffee shops. It's one of the city's best areas for a casual afternoon of browsing and eating without setting foot in a mall.

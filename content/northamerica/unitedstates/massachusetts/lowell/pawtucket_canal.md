@@ -14,6 +14,7 @@ story: >
   The canal system they built — 5.6 miles of channels, locks, and gatehouse structures —
   was the first large-scale industrial water-power system in America, and the model for
   industrial cities across the country.
+score: 7.7
 ---
 
 The Pawtucket Canal is the oldest of Lowell's five canals, originally dug in 1796 to allow river traffic to bypass the Pawtucket Falls. When Lowell was founded as an industrial city in the 1820s, the canal was incorporated into a complex power system that channelled the Merrimack's water through channels and drops to turn the mill wheels. Today it is a pleasant walking path through the historic district.

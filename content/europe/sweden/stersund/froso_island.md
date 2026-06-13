@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 63.19167
 longitude: 14.54167
+score: 7.9
 ---
 
 Frösön is the island in Lake Storsjön that Östersund faces across the water, connected to the city by the Frösö Bridge and also by a railway bridge further south. The island is about 10 km long and has its own character distinct from the mainland city: quieter, greener, with a scattering of historical and natural attractions that make it an excellent half-day or full-day destination. Local buses cross the bridge regularly, but a bicycle is the ideal way to explore.

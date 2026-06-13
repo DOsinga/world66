@@ -14,6 +14,7 @@ story: >
   periodically dissolve entire palace walls. UNESCO listed it as a World
   Heritage Site in 1986 and simultaneously placed it on the list of World
   Heritage in Danger, where it has remained ever since.
+score: 9.4
 ---
 
 The adobe capital of the Chimú Empire, about 5 km west of Trujillo, is the largest pre-Columbian city in South America and a UNESCO World Heritage Site. At its peak in the 15th century, the city housed around 60,000 people in a complex of royal palaces, temples, storehouses, and residential quarters — all built from adobe brick on a flat coastal desert.

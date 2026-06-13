@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museum of Colonial Religious Art
 type: poi
+score: 7.5
 ---
 
 A small museum with one of the more interesting collections in Honduras: gold and silver religious objects, colonial-era paintings, liturgical vestments, and wooden sculpture from the 16th to 18th centuries. The collection reflects Comayagua's importance as the colonial capital and bishop's seat — wealthy donors and the church itself accumulated significant artistic wealth here.

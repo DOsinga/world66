@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.2014
 longitude: 5.7959
+score: 6.1
 ---
 
 Long-standing fine-dining restaurant on the Eewal — Leeuwarden's most picturesque canal street — with a candle-lit dining room overlooking the water and a kitchen that takes seasonal Frisian produce seriously. The menu changes monthly and runs to four- and six-course tasting menus with optional wine pairings.

@@ -15,6 +15,7 @@ story: >
   productive agricultural regions. The canal still irrigates a vast area of
   Punjab and Rajasthan today, making this modest colonial barrage one of the
   most consequential pieces of engineering in the subcontinent.
+score: 6.7
 ---
 
 The Madhopur Headworks is a colonial-era barrage on the Ravi River, built in the 1870s to feed the Upper Bari Doab Canal that transformed the agriculture of central Punjab. Sitting about eight kilometres south of Pathankot, it is a pleasant and unhurried excursion from the town — the kind of quiet, overlooked site that rewards those who seek it out.

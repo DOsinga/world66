@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2308
 longitude: 7.3582
+score: 6.5
 ---
 
 The Tour des Sorciers — Witches' Tower — is a medieval tower in the lower town that served for centuries as a prison, including during the waves of witch trials that convulsed Valais in the 15th and 16th centuries. Valais was, by some accounts, one of the earliest regions in Europe to prosecute witchcraft systematically; the trials here predate the famous later European witch hunts by several decades.

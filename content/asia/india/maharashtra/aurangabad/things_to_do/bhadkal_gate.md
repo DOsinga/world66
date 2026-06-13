@@ -9,6 +9,7 @@ latitude: 19.8887
 longitude: 75.3217
 sources:
   - https://en.wikipedia.org/wiki/Bhadkal_Gate
+score: 6.8
 ---
 
 One of the original 52 gates in Aurangabad's 17th-century city walls, the Bhadkal Gate is the best-preserved of the four principal surviving gateways. Built by Malik Ambar, the Abyssinian regent who founded the city in 1610, it is a large double-storied stone arch with guardrooms on either side, flanked by octagonal towers. The name may derive from "bhadra kala" (auspicious time) or from a nearby village.

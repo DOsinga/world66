@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 4.8
 ---
 
 The long north-south arterial of central Kunming, Beijing Road runs the full length of the city from the new high-speed rail station in the south through Panlong District to the northern suburbs. The middle section, between the South Bus Station and the Daguan flyover, is the city's main department-store strip — Parkson, Walmart, Carrefour, plus the long-running Kunming Department Store at the southern end.

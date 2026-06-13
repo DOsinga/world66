@@ -5,6 +5,7 @@ latitude: 19.2678
 longitude: -103.7258
 tags: [things_to_do, sight, archaeology]
 story: La Campana was the largest urban centre of pre-Columbian western Mexico, occupied for more than a thousand years before being abandoned around 1100 AD. Excavations have uncovered shaft tombs, a ball court, and stone-faced platforms aligned to the rising sun behind the Volcan de Fuego — a reminder that the volcano has always been part of the local cosmology.
+score: 7.7
 ---
 
 La Campana sits on the northern edge of the city, a low platform of basalt-faced mounds rising out of what is now a quiet residential neighbourhood. The site covers about fifty hectares of which only a small portion has been excavated and opened to the public, but the part you can walk is enough to give a sense of the scale.

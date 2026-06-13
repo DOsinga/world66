@@ -13,6 +13,7 @@ story: >
   noted that the rebuilt version is steeper and more dramatic-looking
   than the original would have been, essentially creating a more
   cinematic wall for the tourist era.
+score: 9.0
 ---
 
 The Overhanging Great Wall (悬壁长城) is a section of the Ming Wall that climbs steeply up a ridge north of Jiayuguan, approximately seven kilometres from the main fortress. The name comes from the angle of ascent — the wall goes up the ridgeline at a gradient that makes it appear to hang vertically when viewed from below. The climb to the top section is genuinely steep and takes about 20 minutes each way; the views from the summit watchtower extend across the Hexi Corridor in both directions and give a sense of how the wall functioned as a surveillance system across the desert plains.

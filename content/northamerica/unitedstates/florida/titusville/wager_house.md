@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.6
 ---
 
 A two-story frame Folk Victorian home built in 1898 by Captain James Wager, an Indian River pilot. The Wager House sits a few blocks south of the commercial district and is one of the better-preserved residential survivors of the period. It is now privately owned and not generally open to visitors, but the exterior — original clapboard, gingerbread trim, wraparound porch — is visible from the street.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 50.0611
 longitude: 19.9363
+score: 7.2
 ---
 
 Pod Baranem ("Under the Ram") is one of Krakow's most dependable traditional restaurants, occupying a Gothic cellar just off the Main Market Square. The vaulted brick interior is what you hope for when you descend below the Old Town's cobblestones — low ceilings, candlelight, and a menu of carefully prepared Polish classics. The kitchen handles pierogi, żurek, and roasted meats with skill and care that distinguishes it from the tourist-trap restaurants that crowd the square.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hanyang
 neighbourhood: Hanyang
+score: 7.7
 ---
 
 The Qingchuan Pavilion stands on the Hanyang side of the Yangtze, at the foot of Tortoise Hill, directly opposite the Yellow Crane Tower. The pair of pavilions face each other across the river — one on Snake Hill in Wuchang, the other on Tortoise Hill in Hanyang — and have done since the Ming dynasty, when the original Qingchuan was built.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/St._Francis_of_Assisi_Church,_Oranjestad
+score: 6.8
 ---
 
 The Catholic church of St. Francis of Assisi is the largest church in Oranjestad, a yellow-painted building with a distinctive twin-tower facade that dominates its neighbourhood. It was built in the early 20th century on the site of an earlier mission church, and the adjacent San Francisco convent has been converted into a public space housing the National Archaeological Museum.

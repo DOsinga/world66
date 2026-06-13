@@ -15,6 +15,7 @@ story: >
   through various owners, was requisitioned by Italian and then German forces in
   World War II, and fell badly into neglect. The University of Genoa took over
   restoration in 1983, and the gardens have been recovering ever since.
+score: 8.2
 ---
 
 Created in 1867 by the English merchant Sir Thomas Hanbury, these botanical gardens sprawl across eighteen hectares of clifftop at Capo Mortola, sloping down toward the sea. Hanbury had traveled extensively in the Far East and enlisted his brother Daniel, a pharmacologist, to help assemble a collection of exotic plants from around the world. The sheltered position — mountains on three sides, the Mediterranean to the south — creates a microclimate where species from the tropics, Australia, and southern Africa thrive alongside native Mediterranean flora.

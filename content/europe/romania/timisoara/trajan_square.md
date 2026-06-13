@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - fabric
+score: 7.9
 ---
 
 Trajan Square (Piata Traian) is the central square of the Fabric district, a long open plaza lined with Eclectic and Secession buildings from the late 19th and early 20th centuries. It has the character of a small provincial centre — slightly faded, quieter than Cetate, with mature plane trees down the centre and a row of cafes along the eastern edge.

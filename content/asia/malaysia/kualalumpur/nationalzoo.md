@@ -7,6 +7,7 @@ tags:
 - landmark
 title: National Zoo
 type: poi
+score: 5.9
 ---
 
 Zoo Negara sits on 45 hectares along Jalan Hulu Kelang, a welcome break from central KL's concrete and traffic. Around 400 species of mammals, reptiles, and birds are on show, with the emphasis on Southeast Asian wildlife. The Sumatran tigers and orangutans are the headline draws, and the gibbon enclosure is worth lingering at.

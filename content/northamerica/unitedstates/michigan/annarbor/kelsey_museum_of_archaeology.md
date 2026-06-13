@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   The museum's collection grew from University of Michigan excavations that began in the 1920s at sites in Egypt, Iraq, and the Mediterranean. Many of the artifacts on display were dug up by Michigan students and faculty and shipped back to Ann Arbor, a practice that would be impossible under modern antiquities laws.
+score: 7.8
 ---
 
 A small but rewarding museum on the university campus, the Kelsey holds over 100,000 artifacts from the ancient Mediterranean, Near East, and Egypt. The collection is strong on Greco-Roman material and includes well-preserved mummy portraits, Roman glass, and cuneiform tablets. The building itself — Newberry Hall, a Richardsonian Romanesque structure from 1891 — adds to the atmosphere.

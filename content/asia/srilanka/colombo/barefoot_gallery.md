@@ -10,6 +10,7 @@ tags:
 title: Barefoot Gallery
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 7.8
 ---
 
 Barefoot on Alfred House Road is the most pleasant place to spend an hour in Cinnamon Gardens — a combination of gallery, craft boutique, and courtyard cafe occupying a colonial house with shaded gardens. The textile collection is exceptional: handloomed fabrics designed by Barbara Sansoni in vivid Sri Lankan colours, sold by the metre or made into clothing, bags, and homewares. The books section has the best selection of Sri Lanka–related titles in Colombo.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.961663
 longitude: -2.015883
+score: 6.8
 ---
 
 The Craven Museum and Gallery is housed in Skipton's Victorian town hall and covers the history of the Craven district — the area encompassing Skipton and the surrounding Dales. The collection is a good regional one: Roman finds from the local area, natural history specimens, displays on the wool and cotton textile industries that shaped the local economy, and rotating art exhibitions in the gallery.

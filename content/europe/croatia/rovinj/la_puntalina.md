@@ -9,6 +9,7 @@ tags:
   - restaurant
   - seafood
 snippet: "Romantic cliffside restaurant on the western tip of the old town, with sea views and fresh fish"
+score: 6.6
 ---
 
 La Puntalina occupies a series of terraces cut into the rock on the western shore of the old town, with tables perched above the sea and views stretching across the Adriatic. The setting is spectacular and the kitchen makes good use of it — the food is straightforwardly excellent, focused on the day's catch and Istrian ingredients.

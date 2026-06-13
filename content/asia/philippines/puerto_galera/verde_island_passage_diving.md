@@ -14,6 +14,7 @@ story: >
   Triangle that contains more marine fish species per unit area than anywhere else on the
   planet. The term was coined from a 2005 survey that found more species in a single dive
   here than in entire regions of the Caribbean.
+score: 9.0
 ---
 
 The Verde Island Passage, the channel separating Mindoro from the Batangas coast to the north, has been called the centre of the centre of marine biodiversity. The dive sites accessible from Puerto Galera sit in or near this passage, and the underwater life reflects it: hard and soft coral formations in excellent condition, more than 180 species of nudibranchs, sea turtles, humphead wrasse, giant clams, and regular sightings of pelagic fish.

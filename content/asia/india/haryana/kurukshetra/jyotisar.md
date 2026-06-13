@@ -9,6 +9,7 @@ latitude: 29.9614
 longitude: 76.7711
 snippet: 'The spot where Krishna delivered the Bhagavad Gita to Arjuna'
 story: 'Jyotisar is identified as the exact spot where Krishna stood between the two armies and delivered the Bhagavad Gita to Arjuna. A banyan tree here is venerated as a descendant of the one under which Krishna spoke, and the site is marked by a chariot sculpture with a Vishnu statue above it.'
+score: 9.0
 ---
 
 The most spiritually charged site in Kurukshetra — and the essential stop on any itinerary — Jyotisar lies about five kilometres west of the town centre. The name means "Light of the Soul." Tradition holds that on this ground, with the two armies arrayed and Arjuna paralysed by doubt, Krishna revealed to him the teachings that became the Bhagavad Gita. A large Vishnu temple, a riverside ghat, and the ancient banyan tree (garlanded and tended daily) mark the spot. A modern chariot sculpture with a statue of Vishnu-as-Krishna above it stands at the entrance.

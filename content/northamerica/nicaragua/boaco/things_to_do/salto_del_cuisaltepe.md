@@ -7,6 +7,7 @@ tags:
   - waterfall
 latitude: 12.4900
 longitude: -85.6450
+score: 6.5
 ---
 
 A waterfall in the hills outside Boaco, reached by a short hike through cattle country. The falls are modest — this is not the kind of spectacle that draws tour groups — but the walk is pleasant and the setting is cool and shaded. It is popular with local families on weekends, who come to swim in the pool at the base.

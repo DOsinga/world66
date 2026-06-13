@@ -8,6 +8,7 @@ tags:
 title: Russian Market (Phsar Toul Tom Poung)
 type: poi
 snippet: Tin-roofed warren of stalls famed for clothing, handicrafts and lunch
+score: 6.9
 ---
 
 Officially Phsar Toul Tom Poung, but known to everyone as the Russian Market — a name dating to the 1980s when Soviet expatriates came here to shop. It is far more atmospheric than Phsar Thmei: a low, dim labyrinth of tin-roofed alleys packed with stalls selling handicrafts, silks, silver jewellery, antiques (real and otherwise), and overruns from the Cambodian garment factories.

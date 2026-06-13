@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.8520
 longitude: 72.1180
+score: 6.7
 ---
 
 A small, almost forgotten stepwell in the heart of the old town, dating from the 17th century and named after the merchant who commissioned it. Trikam Barot ni Vav is nothing like Rani ki Vav in scale or ornament, but it is a working example of a medieval Gujarati water structure: stairs descending past a small pavilion to a square water surface, with carved brackets and a few weathered figures. Local women still come here to collect water.

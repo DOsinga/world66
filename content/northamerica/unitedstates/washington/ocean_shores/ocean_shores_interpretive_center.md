@@ -6,6 +6,7 @@ longitude: -124.1622
 tags:
   - things_to_do
   - museum
+score: 6.3
 ---
 
 The Ocean Shores Interpretive Center, run by the Grays Harbor Audubon Society, sits near the northern tip of the Ocean Shores peninsula at the Point Brown Avenue end. It is a small but well-organized natural history center focused on the ecology of the peninsula, the adjoining wetlands, and the coastal migration corridor.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "Tiruparankundram is considered the first of the six 'aaru padai veedu' — the six 'battle camps' of Lord Murugan, the Tamil warrior-god. Mythology says Murugan married Devasena here after his victory over the demon Surapadman, and the marriage is re-enacted each year during the Panguni Uthiram festival."
+score: 8.1
 ---
 
 Tiruparankundram is one of the six abodes of Lord Murugan, carved into the side of a great granite hill 8 kilometres south of Madurai. The temple is partly rock-cut and partly built over centuries, with sculptures from the Pandya, Nayak and Vijayanagara periods overlapping in the same dim halls.

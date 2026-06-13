@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Ujung Kulon National Park
 type: poi
+score: 9.2
 ---
 
 Ujung Kulon National Park occupies the remote southwestern tip of Java, covering about 760 square kilometers of dense tropical forest, coastline, and offshore islands. The Dutch established it in 1921 to protect the Javan rhinoceros, and it remains the last place on earth where the species survives in the wild. The park is a UNESCO World Heritage Site.

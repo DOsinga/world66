@@ -10,6 +10,7 @@ tags:
 title: Château de Meung-sur-Loire
 type: poi
 story: "The poet François Villon was thrown into the château's underground oubliette by Bishop Thibault d'Aussigny in 1461 and condemned to die of starvation. He was saved only because the new king, Louis XI, passed through Meung on his coronation tour and ordered all prisoners freed. Villon's most famous ballads were written in the months that followed."
+score: 8.5
 ---
 
 The Château de Meung-sur-Loire is the great surprise of the town. From the front it looks like a refined 18th-century country house, all symmetrical white limestone with tall windows; walk around to the back and you find a hulking medieval fortress, with a great square tower and round corner turrets. The two-faced building is the result of nearly a thousand years of additions: the bishops of Orléans, who owned the château from the 12th century until the Revolution, kept rebuilding it to suit each successive age.

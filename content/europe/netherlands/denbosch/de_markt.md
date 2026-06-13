@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.6876
 longitude: 5.3069
+score: 6.2
 ---
 
 De Markt is the main square of Den Bosch and the natural centre of city life. It's a large, attractive space dominated by the Renaissance-style town hall on the north side and surrounded by café terraces that are packed from the first warm day of spring until the last of autumn. The square hosts a market on Wednesday and Saturday mornings.

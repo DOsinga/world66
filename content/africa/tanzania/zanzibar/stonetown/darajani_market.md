@@ -5,6 +5,7 @@ latitude: -6.1621
 longitude: 39.1935
 snippet: The chaotic local food and spice bazaar
 tags: [things_to_do, market]
+score: 7.8
 ---
 
 Darajani is where Stone Town actually shops. The covered hall sits at the eastern edge of the old town on Creek Road, marking the boundary between Stone Town proper and the Ng'ambo side of the city. Inside, the layout is roughly logical — fish on the seaward side, meat in the middle, vegetables and spices along the back — and entirely overwhelming on first arrival.

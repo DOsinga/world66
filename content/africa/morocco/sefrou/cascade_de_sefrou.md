@@ -8,6 +8,7 @@ latitude: 33.8281
 longitude: -4.8522
 story: >
   The waterfall sits above a spring that locals call Lalla Rekia, named after a woman traditionally believed to have the power to cure insanity. Whether or not you have use for that particular service, the spring and its shaded surroundings make a genuinely pleasant picnic spot above the heat of the town.
+score: 6.9
 ---
 
 A small but pretty waterfall sits about 1.5 km west of the medina, reached by a straightforward walk through the hillside above town. The approach follows the river upstream through gardens and orchards before the path steepens toward the falls.

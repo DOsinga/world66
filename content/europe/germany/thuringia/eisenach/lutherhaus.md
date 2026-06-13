@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 50.9748
 longitude: 10.3192
+score: 8.1
 ---
 
 One of Thuringia's finest half-timbered buildings, dating to the late 15th century. Martin Luther lived here from 1498 to 1501 while studying at the Latin school, boarding with the Cotta family. The building is now a museum devoted to Luther's life, the Reformation, and religious culture in late medieval Germany.

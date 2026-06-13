@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, outdoor, swimming, sport]
 latitude: -4.3050
 longitude: 55.7100
+score: 8.4
 ---
 
 The reefs around Praslin are among the best in the Indian Ocean for snorkelling. The water is warm year-round, visibility is typically excellent, and the marine life is extraordinary: over 900 species of fish have been recorded in Seychelles waters, along with hawksbill turtles, green turtles, whale sharks (seasonal), reef sharks, rays, and enormous Napoleon wrasse. The best snorkelling beaches on Praslin itself are Anse Lazio (north reef), Anse Georgette, and the beaches around the southwest tip.

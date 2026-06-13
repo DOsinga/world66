@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 42.15138888888889
 longitude: -77.06416666666667
+score: 6.2
 ---
 
 The Benjamin Patterson Inn Museum Complex preserves a group of historic structures from the late 18th and early 19th centuries, including a restored 1796 inn, a log cabin, a barn, a schoolhouse, and a one-room schoolhouse. The inn was a stopping point on the route between the Chemung Valley and the western frontier during the early settlement period of the Southern Tier.

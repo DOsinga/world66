@@ -9,6 +9,7 @@ latitude: 17.9925
 longitude: -76.7886
 story: >
   The Carib opened in 1937 as one of the grandest cinema palaces in the Caribbean — an art deco building with a striking facade and an interior designed to give Kingston moviegoers the full Hollywood experience. It was here that many Jamaicans first encountered the American films that would eventually filter back into the music and fashion of the streets, creating the feedback loop between American popular culture and Jamaican creativity that produced reggae, dancehall, and sound system culture.
+score: 6.7
 ---
 
 The Carib Cinema at Cross Roads is one of Kingston's most architecturally distinctive buildings — a 1937 art deco cinema that has operated, in various configurations, for almost nine decades. It sits at the busy Cross Roads intersection, where major roads from Downtown, Uptown, Half Way Tree, and the eastern suburbs all converge.

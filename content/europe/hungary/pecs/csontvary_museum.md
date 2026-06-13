@@ -18,6 +18,7 @@ story: >
   Gogh who remained hidden for decades after his death.
 sources:
   - https://en.wikipedia.org/wiki/Csontv%C3%A1ry_Museum
+score: 8.4
 ---
 
 The Csontváry Museum houses the largest collection of works by Tivadar Csontváry Kosztka, the Hungarian visionary painter who is now recognized as one of the most original artists of the early 20th century. The museum occupies a Baroque townhouse near the Cathedral Quarter and displays some of his most ambitious large-format canvases, including the enormous "Baalbek" (a near-hallucinatory rendering of the Roman ruins in Lebanon) and "Solitary Cedar" — works of unusual scale and emotional intensity.

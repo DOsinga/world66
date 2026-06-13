@@ -8,6 +8,7 @@ tags:
 latitude: 37.3136
 longitude: 40.7352
 story: "The Church of the Forty Martyrs has been in continuous use since the 4th or 5th century CE, making it one of the oldest functioning churches in the world. During the upheavals of the early 20th century, when Mardin's Christian population was dramatically reduced, the church survived while many others were converted or abandoned. Services are still held here by the small remaining Syriac Christian community."
+score: 8.3
 ---
 
 The Church of the Forty Martyrs (Kırklar Kilisesi in Turkish, or in Syriac, Arba'a u Arba'ino) is one of Mardin's oldest and most important Christian buildings, a Syriac Orthodox church built in the 4th or 5th century CE and dedicated to forty Christian soldiers martyred for their faith in 320 CE. The stone facade with its arched windows and decorative carving sits on a stepped terrace that looks out over the lower city and the plain.

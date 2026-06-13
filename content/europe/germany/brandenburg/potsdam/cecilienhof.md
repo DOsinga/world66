@@ -16,6 +16,7 @@ story: >
   a Soviet-planted red star of flowers in the courtyard is faithfully maintained to this day.
 sources:
   - https://en.wikipedia.org/wiki/Cecilienhof
+score: 8.8
 ---
 
 Cecilienhof is the most unusual royal residence in Potsdam — not a Baroque palace but a mock-Tudor English country house, built in 1917 for Crown Prince Wilhelm and his wife Cecilie. With its half-timbered gables, cottage gardens, and 55 chimneys, it looks completely out of place in Prussia. It was the last palace built by the Hohenzollern dynasty, completed just a year before the war ended and the dynasty fell.

@@ -6,6 +6,7 @@ longitude: -3.1022
 tags:
 - things_to_do
 - theatre
+score: 5.8
 ---
 
 The Taunton Brewhouse — long called The Brewhouse Theatre and Arts Centre — is a 350-seat theatre and live-music venue on Coal Orchard, beside the River Tone. The programme runs across drama, contemporary dance, comedy, folk and indie music, with an emphasis on small-scale touring work that doesn't get to the bigger Bristol and Bath venues.

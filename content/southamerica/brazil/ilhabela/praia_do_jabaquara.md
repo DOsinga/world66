@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: -23.7362563
 longitude: -45.2929289
+score: 6.5
 ---
 
 Jabaquara is one of Ilhabela's most accessible beaches, sitting on the northern end of the eastern shore at the narrowest crossing point between island and mainland. It's reachable by bus or car from the ferry terminal — a short ride up the island's northern tip — which makes it a good option if you want an easy morning at the beach without venturing further. The water here is calmer than the fully exposed east-coast beaches further south, protected by a rocky point that creates the natural pools the beach is known for.

@@ -9,6 +9,7 @@ snippet: "Long waterfront promenade with a public beach popular at sunset"
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 Ajman's corniche runs along the Gulf side of the city for several kilometres, lined with palm trees, jogging paths and a wide white-sand beach that is free, public and well-maintained — a real rarity by UAE standards. The shallows are calm enough for swimming, and the late afternoon brings families, expat workers and joggers out in numbers.

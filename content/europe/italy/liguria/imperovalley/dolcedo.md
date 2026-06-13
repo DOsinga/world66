@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.9000
 longitude: 7.9500
+score: 8.0
 ---
 
 Dolcedo sits on a tributary valley south of the main Impero route, a well-preserved medieval village known for its ancient bridges — seven of them span the Prino stream within or near the village, the oldest dating to the 13th century. The village itself is a tight cluster of ochre and terracotta buildings connected by narrow covered passages and external staircases, with the church of San Tommaso at its centre.

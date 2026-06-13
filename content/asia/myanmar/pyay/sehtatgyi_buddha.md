@@ -8,6 +8,7 @@ tags:
 - pagoda
 title: Sehtatgyi Pagoda (Big Buddha)
 type: poi
+score: 6.1
 ---
 
 On the hill just east of central Pyay, the Sehtatgyi Pagoda houses an enormous seated Buddha image — over twenty metres tall — visible from much of the city. The image is unfinished in the traditional Burmese sense (one of its hands is raised, and locals will explain the reasons), and the platform around it gives an alternative view of Pyay and the river to the one from Shwesandaw.

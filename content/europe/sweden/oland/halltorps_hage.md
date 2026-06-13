@@ -7,6 +7,7 @@ tags:
 latitude: 56.7958
 longitude: 16.5733
 snippet: "Ancient deciduous woodland with centuries-old oaks and walking trails"
+score: 7.8
 ---
 
 Halltorps Hage is a nature reserve on the western coast of Öland, protecting one of the finest ancient deciduous forests in Sweden. The reserve is best known for its magnificent old oaks — some are hundreds of years old, their gnarled trunks wider than a person's armspan, and the forest has the atmospheric quality that comes only with genuine age. In spring it is carpeted with wood anemones.

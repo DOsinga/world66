@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Historic_Town_of_Grand-Bassam
   - https://whc.unesco.org/en/list/1322
+score: 9.0
 ---
 
 The historic quarter of Grand-Bassam occupies a narrow peninsula between the Atlantic Ocean and the Comoé lagoon, just as it did when French traders first settled here in the 1840s. Inscribed as a UNESCO World Heritage Site in 2012, it is one of the most complete examples of a late 19th-century French colonial trading town in West Africa, with a layout and building stock that has changed remarkably little since the capital was moved away in 1896.

@@ -10,6 +10,7 @@ story: >
   The image of the Virgin Mary venerated at Las Lajas is not painted on the rock face — it is in the rock itself. According to scientific analysis, the pigmentation goes several metres deep into the stone, which neither explains how it got there nor provides any natural mechanism for its formation. The Catholic Church has not made an official ruling on whether this constitutes a miracle. Pilgrims continue to arrive from across South America regardless.
 sources:
   - https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas
+score: 9.4
 ---
 
 Las Lajas Sanctuary is one of the most extraordinary buildings in South America. A Neo-Gothic church built between 1916 and 1949, it spans a bridge across the Guáitara River gorge at a height of 50 metres, in a setting so improbable that photographs of it consistently fail to look real. The canyon walls rise on both sides, and the church occupies the space between them, its towers and buttresses growing out of the rock as though the building and the gorge were designed for each other.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.496
 longitude: -44.29
+score: 6.4
 ---
 
 Ponta d'Areia is the closest beach to the city centre, a shorter stretch of sand at the western tip of the island where the bay meets the open sea. It's convenient and popular with locals who want a quick swim after work, and the collection of beach bars here are among the best in the city for grilled seafood and cold beer.

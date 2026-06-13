@@ -8,6 +8,7 @@ tags:
 latitude: 40.0380
 longitude: -76.3082
 story: "The Fulton stands on the site of Lancaster's old county jail, where in 1763 a vigilante mob called the Paxton Boys massacred a group of peaceful Conestoga Indians who had taken refuge there. The theatre's later builders covered the foundations, but the basement walls of the jail remain underneath the stage."
+score: 8.1
 ---
 
 The Fulton, two blocks west of Penn Square on Prince Street, is one of the oldest continuously operating theatres in the United States. The Italianate facade dates to 1852, with a heavily ornamented Second Empire interior added later in the nineteenth century. Mark Twain, John Philip Sousa, Ethel Barrymore, and Sarah Bernhardt all performed here in its heyday.

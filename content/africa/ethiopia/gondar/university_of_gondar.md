@@ -8,6 +8,7 @@ latitude: 12.5840
 longitude: 37.4430
 sources:
   - https://en.wikipedia.org/wiki/University_of_Gondar
+score: 4.6
 ---
 
 The University of Gondar, founded in 1954 as the Gondar Public Health College, is the oldest medical and public health institution in Ethiopia outside Addis Ababa. It was established with the support of the World Health Organization and trained generations of health officers who served across rural Ethiopia.

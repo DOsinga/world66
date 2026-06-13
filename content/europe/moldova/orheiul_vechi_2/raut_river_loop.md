@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.307
 longitude: 28.978
+score: 8.9
 ---
 
 The most dramatic view at Orheiul Vechi is from the limestone promontory above the cave monastery, where the Raut River makes a near-complete loop around the headland, leaving only a narrow neck of land connecting the peninsula to the surrounding plateau. The river has carved the limestone over millennia into a canyon that drops sharply from the clifftop.

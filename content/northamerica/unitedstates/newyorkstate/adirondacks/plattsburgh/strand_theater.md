@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "Restored 1925 vaudeville-and-cinema house — Plattsburgh's main live performance venue"
+score: 7.1
 ---
 
 A handsome 1925 vaudeville-and-cinema house in central Plattsburgh, restored in 2010 after several decades of decline. The 700-seat auditorium has the original gilt plasterwork, the proscenium arch, and the unusual balcony arrangement preserved; the lobby has been carefully reproduced from period photographs. The Strand Center for the Arts now uses the venue for touring concerts, local productions, classic film series, and the annual Plattsburgh Film Festival.

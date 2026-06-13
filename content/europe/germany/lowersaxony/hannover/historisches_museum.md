@@ -8,6 +8,7 @@ tags:
 latitude: 52.3718
 longitude: 9.7322
 snippet: City-history museum incorporating the medieval Beginenturm
+score: 7.6
 ---
 
 The city-history museum, on the bank of the Leine in the Old Town, is built around the surviving medieval Beginenturm tower. The collection runs from the early settlement of the marshes to the Hannover Messe trade fair, with strong sections on the Welf dynasty, the rise of the British–Hanoverian crown, and the 1943 firestorm that destroyed almost the entire inner city.

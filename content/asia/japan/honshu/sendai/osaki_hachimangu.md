@@ -8,6 +8,7 @@ latitude: 38.2746
 longitude: 140.8607
 story: >
   The shrine was built in 1607 on the orders of Date Masamune and has never been significantly altered. It survived the 1945 bombing raids that flattened much of the city, and today stands as one of the finest examples of early Edo-period shrine architecture in the Tohoku region. The approach stairway lined with lanterns is particularly atmospheric during the Dontosai festival in January, when people burn their New Year decorations here.
+score: 8.5
 ---
 
 Osaki Hachimangu is Sendai's most important Shinto shrine and one of the finest examples of Momoyama-era religious architecture in northern Japan. Date Masamune had it built in 1607, and the main hall — all black lacquer, gold leaf, and carved decorative panels — is a National Treasure. The restraint of the wooded setting heightens the impact of the ornate building.

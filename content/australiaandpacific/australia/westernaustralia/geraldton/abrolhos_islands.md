@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -28.4636
 longitude: 113.6976
+score: 9.4
 ---
 
 The Houtman Abrolhos Islands are an archipelago of 122 coral islands and reefs about 60 kilometres offshore from Geraldton — the southernmost coral reef ecosystem in the Indian Ocean and one of the richest marine environments in Western Australia. The waters are extraordinary: visibility of 20 to 30 metres is common, and the reefs support a diversity of fish, sea lions, dolphins, and seasonal whale sharks that few dive destinations in Australia can match.

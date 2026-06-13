@@ -1,6 +1,7 @@
 ---
 title: "Blackbeard's Castle"
 type: poi
+score: 6.8
 ---
 
 Blackbeard's Castle is the name given to a five-storey stone watchtower built by the Danes in 1679, which stands on a hill above Charlotte Amalie overlooking the harbour. The pirate connection is mostly legend — there is no reliable evidence that Edward Teach, known as Blackbeard, ever used the tower — but the story has stuck, and the name is more marketable than "Skytsborg Tower," its original Danish designation.

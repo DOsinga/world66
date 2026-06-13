@@ -1,6 +1,7 @@
 ---
 title: "Springbrook Plateau Cafe Scene"
 type: poi
+score: 4.5
 ---
 
 The cafes of Springbrook plateau occupy a special niche: they're where hikers end up after a morning on the tracks, slightly damp and very ready for coffee. The handful of options in and around the village are uniformly casual — picnic tables, mismatched crockery, views of tree ferns — and the coffee is reliably good.

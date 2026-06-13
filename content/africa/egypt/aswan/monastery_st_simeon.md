@@ -8,6 +8,7 @@ latitude: 24.0860
 longitude: 32.8640
 story: >
   Saladin's army sacked the monastery in 1173, ending its occupation. The monks left and never returned. The reason given in historical sources is that Saladin diverted the water supply — a simple act that made the desert monastery uninhabitable overnight. The walls and cells they left behind have barely changed in the eight centuries since.
+score: 8.1
 ---
 
 The Monastery of St Simeon stands on the west bank of the Nile, a forty-minute walk through desert sand from the river, or a short camel ride. Built in the seventh century and expanded in the tenth, it is one of the largest surviving Coptic monasteries in Egypt and one of the best-preserved examples of early Christian monastic architecture anywhere in the Middle East.

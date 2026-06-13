@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 61.5080
 longitude: 23.7500
+score: 6.4
 ---
 
 Näsinpuisto is a large park on the west shore of Lake Näsijärvi between the city centre and Särkänniemi. The park has formal gardens near the lakefront, mixed forest on the higher ground, and good walking paths connecting the Finlayson area to Särkänniemi along the lake. In winter the paths are maintained and the lake views are good under snow.

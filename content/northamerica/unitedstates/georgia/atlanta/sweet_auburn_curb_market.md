@@ -9,6 +9,7 @@ tags:
 neighbourhood: Sweet Auburn
 latitude: 33.7547
 longitude: -84.3786
+score: 7.4
 ---
 
 The Curb Market is the historic public market of Atlanta, opened in 1924 in a low brick hall on Edgewood Avenue. It has been the place where city restaurants, home cooks, and visitors come for local produce, country sausage, Georgia pecans, peaches, and fresh seafood for almost a hundred years.

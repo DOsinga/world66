@@ -9,6 +9,7 @@ latitude: 8.7285
 longitude: 77.6900
 snippet: 'The "dark shop" selling Tirunelveli''s most famous wheat halwa'
 story: "The shop has been run by the same family since 1900 and gets its name — 'the dark shop' — from a practical refusal to install electric light: the founder reckoned natural evening light was enough. It still opens only between roughly 4 p.m. and 7 p.m., still has no signboard worth mentioning, and still sells out within an hour or two of opening. Queues form well before the shutters lift."
+score: 7.1
 ---
 
 A small unmarked shop opposite the eastern entrance to the Nellaiappar Temple, Iruttu Kadai is the most famous halwa shop in Tamil Nadu. It opens only in the late afternoon, sells out within hours, and is the benchmark by which every other Tirunelveli halwa is measured.

@@ -7,6 +7,7 @@ tags:
 latitude: 43.9520
 longitude: 4.8069
 snippet: Hilltop garden above the Palais des Papes with panoramic views over the Rhône
+score: 8.0
 ---
 
 The Rocher des Doms is a rocky promontory rising above the Palais des Papes, now laid out as a formal garden with ponds, peacocks, and a belvedere looking north over the Rhône. The views from the terrace take in the Pont d'Avignon below, the ruined tower of Villeneuve-lès-Avignon on the far bank, and the Alpilles hills beyond — on clear days the profile of Mont Ventoux is visible in the east.

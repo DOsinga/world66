@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 47.5451
 longitude: 9.6858
+score: 6.4
 ---
 
 Zum Sünfzen is Lindau's most historic restaurant, occupying a building in the old town that dates back to the 15th century. The dining room has the low ceilings, dark wood, and painted walls of a proper south German gasthaus, and the menu follows suit: fresh lake fish — Bodensee Felchen, pike-perch, perch — alongside Bavarian staples and a wine list drawing from the Württemberg and Bodensee wine regions on the lake's northern shore.

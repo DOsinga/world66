@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 title: Old City of Gaza
 type: poi
+score: 8.9
 ---
 
 The Old City of Gaza occupied a low hill in the centre of modern Gaza City and contained nearly all of the strip's significant historic buildings: the Great Mosque, the Church of Saint Porphyrius, Qasr al-Basha, the Hamam al-Sammara, a network of Mamluk- and Ottoman-era mosques and madrasas, and a dense quarter of stone-built courtyard houses. Until the early twenty-first century it remained a working, lived-in district, with the Souk al-Zawiya market threading between its monuments.

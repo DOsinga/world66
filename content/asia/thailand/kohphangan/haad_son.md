@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Haad Son
 type: poi
+score: 6.1
 ---
 
 Haad Son is a secluded cove on the west coast, tucked between Thong Sala and the busier Haad Yao beach. The small bay is sheltered and quiet, with only modest bungalow accommodation on the beach — making it a good choice for those who want to avoid the more developed stretches further south.

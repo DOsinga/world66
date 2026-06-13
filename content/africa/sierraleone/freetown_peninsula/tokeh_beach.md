@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 8.2747
 longitude: -13.1969
+score: 7.9
 ---
 
 A long crescent of soft white sand backed by the green wall of the peninsula hills. Tokeh has the most developed beach lodges on the coast — Tokeh Sands and The Place are the two best known — and is the easiest place to stay overnight south of Freetown.

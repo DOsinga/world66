@@ -6,6 +6,7 @@ longitude: -117.1490
 tags:
   - things_to_do
   - museum
+score: 6.1
 ---
 
 Pennypickle's Workshop, the official name of the Temecula Children's Museum, is the cleverest small-children's attraction in the Inland Empire. The conceit is that you have wandered into the laboratory of one Professor Pennypickle, an eccentric inventor; the entire building is themed as his workshop, with brass gears, mysterious devices, and hands-on science demonstrations in every room.

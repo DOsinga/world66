@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2869
 longitude: 59.6192
 tags: [things_to_do, sight]
+score: 7.3
 ---
 
 A small, exquisite Safavid tomb in the bazaar quarter east of the Imam Reza Shrine, the Tomb of Pir Palandouz commemorates a 16th-century Sufi mystic and saddle-maker. The little octagonal building, with its blue-tiled dome and slender minarets, is easy to miss among the surrounding bazaar streets but worth seeking out for the quality of the original Safavid tilework.

@@ -5,6 +5,7 @@ snippet: The only wine press on Cyprus preserved with its complete original equi
 tags: [things_to_do, sight, historic_site, wine]
 latitude: 34.8500
 longitude: 32.8170
+score: 8.3
 ---
 
 The linos is the village's prize possession — a traditional Cypriot wine press, made from a single hollowed-out stone basin, with the wooden screw beam, the baskets, and the collection jars all still in place. Other villages on the island have restored their old presses, but the one at Lania is the only one to have been preserved with its full set of original equipment, untouched by modernisation.

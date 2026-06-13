@@ -7,6 +7,7 @@ tags:
   - adventure
 latitude: 36.80000
 longitude: 30.66000
+score: 6.3
 ---
 
 Paragliding over the bay of Antalya, with the city below and the Taurus Mountains behind, has become one of the more popular adrenaline activities for visitors. Several operators offer tandem flights from the slopes above Konyaaltı, launching from around 600–800 metres altitude and soaring over the beach and sea below. The flight typically lasts 20–40 minutes depending on thermals.

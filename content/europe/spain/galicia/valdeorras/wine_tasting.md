@@ -16,6 +16,7 @@ tags:
 - sight
 title: "Wine Tasting in Valdeorras"
 type: poi
+score: 7.8
 ---
 
 Valdeorras produces two wines worth knowing: Godello and Mencía. The white Godello — aromatic, mineral, with good acidity and a long finish — is the one that put the region on the map internationally. The best examples come from old vines on steep slate slopes, and the top producers to seek out are Valdesil (their Pedrouzos bottling is exceptional), Rafael Palacios (whose "As Sortes" is a benchmark for the grape anywhere in the world), and A Tapada / Guitián, the pioneers who helped start the revival. Telmo Rodríguez, one of Spain's most restless winemakers, also works here. The red Mencía is deeply coloured, elegantly fruity, and far less well-known outside the region — which means it's often good value.

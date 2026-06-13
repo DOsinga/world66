@@ -10,6 +10,7 @@ story: >
   The first cathedral on this site — a makeshift chapel cut from the salt rock by miners — was completed in 1954. The miners used it as a place of worship before each shift and carried the tradition of lighting candles to the Virgin of Guadalupe into the tunnels. The current cathedral, opened in 1995 after the original was closed on safety grounds, is a larger and more architecturally ambitious structure — but the impulse that created it was the same: miners asking for protection in a place where the rock could kill them.
 sources:
   - https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1
+score: 9.2
 ---
 
 The Salt Cathedral of Zipaquirá is carved 180 metres underground into the tunnels of a halite (rock salt) mountain that the Muisca people mined for centuries before the Spanish arrived and continues to be mined today. The cathedral is built around a single enormous nave with side aisles, an antechamber with fourteen chapels representing the Stations of the Cross, and a vast central cross carved in relief from the rock — the whole space lit in shifting colours by a system of LED lighting designed to enhance the geological character of the salt walls.

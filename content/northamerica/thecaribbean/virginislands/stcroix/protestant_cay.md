@@ -15,6 +15,7 @@ story: >
   mainland. The Danish colonial authorities maintained a strict religious
   geography in Christiansted — Catholics in town, Protestants on the
   small island just offshore.
+score: 6.1
 ---
 
 Protestant Cay is a small island sitting directly in Christiansted Harbor, close enough to the waterfront to reach by a short ferry that runs throughout the day for a couple of dollars. For most visitors it means a quiet beach and the Hotel on the Cay's facilities, including a bar and water sports rentals. The swimming off the cay is calm and clear — the harbor itself is protected, and the bottom is sandy without the rocky patches that characterize some of the island's other swimming spots.

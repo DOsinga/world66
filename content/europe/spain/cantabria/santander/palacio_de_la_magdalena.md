@@ -17,6 +17,7 @@ story: >
   became the social centre of Spanish aristocratic life every August, drawing
   ministers, generals, and European royalty to what was effectively a seasonal
   court by the sea.
+score: 8.8
 ---
 
 The Palacio de la Magdalena sits at the tip of its own wooded peninsula jutting into the entrance to the Bay of Santander, surrounded by water on three sides and connected to the city by a long, scenic road through pine woods. Built between 1909 and 1912 in a mixture of English country house and French Renaissance styles, it served as the summer residence of the Spanish royal family for nearly two decades and remains one of the most handsomely situated buildings in northern Spain.

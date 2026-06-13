@@ -6,6 +6,7 @@ longitude: 21.2288
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 St. George Square (Piata Sfantu Gheorghe) is a small intimate square one block east of Union Square, hidden between the Catholic Dome and the Serbian Cathedral. The square sits over the foundations of the original Ottoman-era main mosque of Timisoara — when the Habsburgs took the city in 1716 they demolished the mosque, named the new square after the Christian saint, and built the small chapel that still occupies the eastern side.

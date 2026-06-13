@@ -8,6 +8,7 @@ latitude: 38.5067
 longitude: -109.5351
 story: >
   Albert Christensen spent twelve years — from 1945 to his death in 1957 — blasting 5,000 cubic feet of sandstone out of the cliff face by hand to create the home. His wife Gladys, who outlived him, turned it into a roadside attraction and ran it until her own death in 1974. The couple are both buried inside the rock, per Albert's specifications.
+score: 5.4
 ---
 
 Hole N' the Rock is one of Moab's most eccentric attractions: a 5,000-square-foot home carved directly into a sandstone cliff face on US-191, six miles south of town. Albert Christensen blasted and chiselled the dwelling from 1945 to 1957, creating a 14-room house complete with a fireplace, a bathtub, and a small chapel inside the rock.

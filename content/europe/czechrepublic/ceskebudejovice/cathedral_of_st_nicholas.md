@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_St_Nicholas,_České_Budějovice
+score: 7.3
 ---
 
 The Cathedral of St Nicholas stands at the corner of the main square and has been the dominant church of České Budějovice since the 13th century. The current baroque building dates from a major reconstruction in the early 18th century. The interior is light and airy — pale plasterwork, frescoed vaulting, and ornate side chapels that reward a slow wander.

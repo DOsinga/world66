@@ -14,6 +14,7 @@ story: >
   and restored. The tomb of Mustafa Pasha's daughter, who died young, stands in the courtyard.
 sources:
   - https://en.wikipedia.org/wiki/Skopje
+score: 8.6
 ---
 
 The Mustafa Pasha Mosque, built in 1492 by the grand vizier of Sultan Beyazid II, is one of the finest Ottoman mosques in the Balkans and the most important religious building in Skopje. It stands within the Old Bazaar at the foot of the fortress hill, with a single minaret, a dome, and a portico of five arches that opens onto a courtyard with a fountain and a marble tomb.

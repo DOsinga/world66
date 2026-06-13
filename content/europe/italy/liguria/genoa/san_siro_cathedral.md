@@ -8,6 +8,7 @@ tags:
 - architecture
 type: poi
 snippet: Genoa's original cathedral, rebuilt in baroque style with a magnificent organ
+score: 7.2
 ---
 
 Before San Lorenzo became the cathedral, San Siro was the principal church of Genoa — it held cathedral status until the 10th century and the Bishop of Genoa was based here. The current building dates largely from the 17th century, with a baroque interior of great richness and a magnificent early 18th-century organ that is still used for concerts.

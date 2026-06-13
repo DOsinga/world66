@@ -8,6 +8,7 @@ tags:
   - sight
   - zoo
 story: "The Toledo Zoo's most famous resident was a Sumatran orangutan called Fu Manchu who, in the 1960s, repeatedly escaped his enclosure to be found relaxing in nearby trees. Keepers eventually discovered he had been picking the lock with a piece of wire kept hidden inside his lip. He was made an honorary member of the American Association of Locksmiths."
+score: 8.4
 ---
 
 The Toledo Zoo runs to roughly 5,000 animals across 720 species on a 51-acre site in south Toledo, and is consistently ranked among the better US zoos. The Hippoquarium — built in 1986, the first underwater hippo-viewing facility in the world — remains the signature exhibit: glass walls let visitors see the hippos swim, eat and (occasionally) give birth underwater.

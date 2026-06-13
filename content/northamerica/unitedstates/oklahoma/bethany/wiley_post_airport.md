@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Wiley Post died, with the cowboy humorist Will Rogers, in a 1935 crash near Point Barrow, Alaska. Their plane, an experimental Lockheed hybrid, was overloaded and underpowered. The deaths of two of the country's most famous figures on the same day were front-page news for a week."
+score: 6.4
 ---
 
 Wiley Post Airport is one of the busiest general aviation fields in Oklahoma, named for the pioneer Oklahoma aviator who made the first solo round-the-world flight in 1933. The two-runway field is home to flight schools, corporate jets, helicopter services, and the Oklahoma Museum of Flying. The control tower's distinctive A-frame top is visible from much of Bethany.

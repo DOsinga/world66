@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: Fifteenth-century fortified townhouse turned heritage centre with costumed guides
 story: "The building started life as one of seven fortified merchants' houses that gave medieval Dalkey its other name — 'the town of seven castles' — because Viking-era raids on Dublin meant valuable cargo was unloaded here and stored behind battlements rather than risked at the city docks."
+score: 7.8
 ---
 
 The grandest of the surviving medieval castles in the village centre, Dalkey Castle was built around 1450 by the Archbold family as a fortified merchant's townhouse — a stronghold for goods being trans-shipped from the deep-water anchorage off Dalkey Island to the shallow port of Dublin. It is also known locally as Goat's Castle.

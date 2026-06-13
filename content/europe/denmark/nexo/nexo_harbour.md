@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.0627
 longitude: 15.1382
+score: 7.1
 ---
 
 Nexø's harbour is the working heart of the town and one of the most genuinely active fishing harbours on Bornholm. Unlike the more picturesque harbours at Gudhjem or Allinge, which cater primarily to tourists and leisure boats, Nexø's quayside is dominated by commercial fishing vessels and the infrastructure that supports them — fish processing facilities, net sheds, fuel pumps.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Andrea Restaurant
 type: poi
+score: 5.7
 ---
 
 Andrea is a Cairene institution: a large open-air Egyptian restaurant that has been feeding families, politicians, and tourists for decades. It specialises in the Egyptian grill tradition — rotisserie chicken cooked over charcoal, lamb chops, kofta, and the full spread of mezze that comes before the meat. The setting is a farmhouse complex with a garden and duck pond.

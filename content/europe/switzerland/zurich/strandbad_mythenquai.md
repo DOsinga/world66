@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 snippet: "Lakeside swimming complex on the western shore with grass lawns and a sand beach"
+score: 6.8
 ---
 
 Strandbad Mythenquai, on the western shore of Lake Zürich a short bus ride south of the centre, is the city's largest public lake bath. There is an imported sand beach, a long stretch of grass lawn for sunbathing, a children's paddling pool, diving boards, a swimming raft anchored offshore, and a café-bar that gets crowded with the after-work crowd in summer.

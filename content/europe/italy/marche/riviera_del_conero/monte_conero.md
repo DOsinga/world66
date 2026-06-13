@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, hiking]
 latitude: 43.5333
 longitude: 13.6000
 story: A 572-metre limestone hump that drops straight into the Adriatic — the only real mountain on a coast that runs flat from Trieste almost to the Gargano. The Romans named the dye-yielding strawberry tree that grows on its slopes komaros; the name stuck.
+score: 8.9
 ---
 
 Monte Conero is the limestone promontory that gives the Riviera its name and its shape. The summit is 572 metres above the sea, the slopes are covered in macchia and Mediterranean oak, and the eastern face drops sheer into the Adriatic in a series of white-stone cliffs.

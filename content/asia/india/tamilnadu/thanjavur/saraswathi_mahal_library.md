@@ -15,6 +15,7 @@ story: >
   they were quietly kept off display for most of the library's modern history.
   More representative is the collection of 49,000 palm-leaf manuscripts in Tamil,
   Sanskrit, Marathi, and Telugu, some dating to the 13th century.
+score: 8.4
 ---
 
 The Saraswathi Mahal Library is one of the oldest functioning libraries in Asia, established in the 16th century by the Nayaka rulers and substantially expanded by the Maratha king Serfoji II in the early 19th century. The main collection holds around 49,000 manuscripts on palm leaves and paper, covering literature, medicine, music, astronomy, and philosophy in Tamil, Sanskrit, Telugu, and Marathi. The library's manuscript conservation programme is still active.

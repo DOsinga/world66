@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The annual Saharan cultural festival, the one event Tindouf fills up for
+score: 8.0
 ---
 
 The *mouggar* (a Berber word for the seasonal gathering of nomadic groups around a saint's tomb or a marketplace) of Tindouf is the principal cultural event of the western Algerian Sahara. Held annually in late winter or early spring, it draws musicians, poets, camel herders, and craft sellers from across the wilaya and from the neighbouring Sahrawi camps. The town's modest hotel capacity is overwhelmed, and visitors who arrive without a booking either camp on the outskirts or sleep in the homes of obliging local families.

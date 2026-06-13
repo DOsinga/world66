@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.4607
 longitude: -3.8062
+score: 7.7
 ---
 
 Cañadío is the neighbourhood that locals head to for a night out — a grid of streets south of the city centre with the highest concentration of bars, pintxos spots, and restaurants in Santander. It is livelier and younger than the formal seafront promenade, and far less touristy than the streets around the cathedral. The neighbourhood takes its name from the Cañadío square, which anchors one end and has an excellent traditional restaurant of the same name that has been popular with the city's political and business class for decades.

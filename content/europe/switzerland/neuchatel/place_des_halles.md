@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 46.9899
 longitude: 6.9285
+score: 7.9
 ---
 
 The Place des Halles is the central square of Neuchâtel's old town, surrounded by Renaissance and Baroque arcaded buildings and anchored by the old market hall at its centre. On Wednesday and Saturday mornings it fills with a genuine farmers' market — not a craft fair or tourist market, but a working market where locals buy their cheese, vegetables, wine, and bread.

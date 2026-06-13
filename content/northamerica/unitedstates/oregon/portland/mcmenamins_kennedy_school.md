@@ -9,6 +9,7 @@ latitude: 45.5588
 longitude: -122.6283
 story: >
   McMenamins turned a decommissioned 1915 elementary school in the Concordia neighbourhood into a hotel, multiple bars, a restaurant, a movie theatre, and a soaking pool. Every room was once a classroom; the original chalkboards, coat hooks, and school corridor feel are preserved and incorporated into the decor. The company has made a specialty of converting neglected historic buildings — breweries, theatres, poorhouses — across the Pacific Northwest.
+score: 7.9
 ---
 
 McMenamins Kennedy School, in the NE Concordia neighbourhood, is one of the most characterful places to drink, eat, or stay in Portland. The 1915 elementary school building has been converted into a hotel (rooms in former classrooms), a restaurant and bar in the old gymnasium, a soaking pool in the basement, and a movie theatre with couch seating. The corridors are covered in murals referencing the school's history.

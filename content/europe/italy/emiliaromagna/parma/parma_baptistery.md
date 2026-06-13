@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The pink Verona marble that gives the building its colour was floated up the Po and dragged overland — a single octagonal block, then 16 smaller pillars, before the inner sculptural programme began. Benedetto Antelami signed and dated the lunette on the north portal in 1196, an unusually proud gesture for a medieval sculptor."
+score: 9.2
 ---
 
 The octagonal Baptistery on the Piazza del Duomo is a transitional building between Romanesque and Gothic, built in pink Verona marble and largely the work of Benedetto Antelami from the 1190s onward. Outside, three carved portals show scenes from the life of John the Baptist and a magnificent Christ in Majesty; inside, an early 13th-century fresco cycle around the dome depicts the labours of the months, the apostles, and the prophets.

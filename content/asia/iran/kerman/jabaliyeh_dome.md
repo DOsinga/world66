@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.6
 ---
 
 A short way east of the bazaar, set on its own in a small park, the Jabaliyeh Dome is an octagonal stone-and-brick monument of mysterious origin. Most scholars date it to the Saljuq or early Mongol period (11th–13th century), but its function — tomb? observatory? Zoroastrian shrine? — has never been settled. The construction is unusual for Kerman: dressed stone rather than the city's standard brick.

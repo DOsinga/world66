@@ -10,6 +10,7 @@ tags:
   - luftlmalerei
 story: >
   The word Lüftlmalerei comes from the nickname of the 18th-century house painter Franz Zwink — Zum Lüftl — and the technique he and his contemporaries developed of painting in true fresco directly onto the wet plaster of Bavarian house facades. Oberammergau is its best surviving home.
+score: 8.1
 ---
 
 A free self-guided walk takes you past the village's two dozen significant painted facades, most of them within five minutes of the parish church. The tourist office on Eugen-Papst-Strasse hands out a map; you can also follow brown signs marked Lüftlmalerei from the main street.

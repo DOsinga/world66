@@ -6,6 +6,7 @@ longitude: -120.4575
 tags:
   - things_to_do
   - museum
+score: 6.3
 ---
 
 The Santa Maria Museum of Flight on Airpark Drive near the Santa Maria Public Airport is a small but enthusiastic collection dedicated to aviation history, with particular focus on World War II aircraft. The collection includes a P-51 Mustang, a T-6 Texan trainer, and a growing number of restored and replica aircraft displayed alongside personal histories of the men and women who flew them.

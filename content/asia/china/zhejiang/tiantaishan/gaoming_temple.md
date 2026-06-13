@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 29.1988
 longitude: 121.0694
+score: 7.4
 ---
 
 Gaoming Temple occupies a dramatic position high on Tiantai Mountain's northern slopes, set against a cliff face with views down into forested valleys. Founded in the Song dynasty and rebuilt repeatedly over the centuries, it is less visited than Guoqing Temple and has a more contemplative atmosphere — the monks here follow a stricter practice, and the complex sees far fewer organized tour groups.

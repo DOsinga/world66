@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Old Town Hall (Primaria Veche) faces Liberty Square — a 1734 Baroque building of cream stucco and red roof tile, with a small clock tower above the entrance. It was the city's official town hall from 1734 until 1849, when the city outgrew the building.

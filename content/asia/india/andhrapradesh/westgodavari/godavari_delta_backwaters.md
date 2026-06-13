@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.75
 longitude: 81.78
+score: 8.2
 ---
 
 The eastern portion of West Godavari district, where the river fans out into multiple channels approaching the Bay of Bengal, is a landscape of canals, palm groves, rice paddies, and river islands that rewards slow travel. Boat trips on the waterways are available from several points, particularly around Narsapur — a town at the heart of the lace-making industry that produces the distinctive Narsapur lace found in handicraft shops across India.

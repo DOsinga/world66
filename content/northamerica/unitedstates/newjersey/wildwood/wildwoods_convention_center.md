@@ -6,6 +6,7 @@ longitude: -74.8099
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 The Wildwoods Convention Center sits directly on the boardwalk and is the venue for most of the city's bigger events: car shows, dance competitions, the Irish Festival, and concerts that pull crowds from Philadelphia and New York. The building, finished in 2002, was designed to echo the curves and pastel colours of the surrounding Doo Wop motels.

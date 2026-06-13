@@ -7,6 +7,7 @@ tags:
 snippet: "The city's main opera and theatre house"
 latitude: 47.99556
 longitude: 7.84528
+score: 7.1
 ---
 
 The Theater Freiburg is the city's main repertory house, mounting opera, ballet, drama, and musicals across four stages — a big house, a small house, a studio, and the open-air Münsterplatz in summer. The current building dates from 1910, was destroyed in 1944, and rebuilt in plain post-war style.

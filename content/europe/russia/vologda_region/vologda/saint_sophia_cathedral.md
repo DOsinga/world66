@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Vologda
 story: >
   Ivan the Terrible ordered the construction of Saint Sophia's Cathedral in 1568, intending it as the centrepiece of a new royal capital he planned to establish at Vologda. According to legend, on the day of the cathedral's consecration in 1571, a piece of plaster fell from the ceiling and struck Ivan on the head. He took this as a bad omen and abandoned Vologda as his capital, spending less than a year in the city he had built specifically to impress his enemies.
+score: 9.2
 ---
 
 The oldest surviving building in Vologda, completed in 1570 under Ivan the Terrible's patronage, Saint Sophia Cathedral is one of the finest examples of mid-16th-century Muscovite religious architecture outside Moscow. The white-stone exterior — five domes above a massive cube — was modelled on the Dormition Cathedral in the Moscow Kremlin. The scale is deliberately imperial: Ivan intended the cathedral as a statement of power to rival anything in Russia at the time.

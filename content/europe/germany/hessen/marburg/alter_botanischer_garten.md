@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.8124
 longitude: 8.7724
+score: 7.2
 ---
 
 The old botanical garden on Pilgrimstein is one of the oldest university botanical gardens in Germany, established in 1809 on the slopes above the Lahn. It is small — 3.6 hectares — but beautifully maintained, with a good collection of medicinal plants, an arboretum section, and a greenhouse with tropical species. The terraced layout takes advantage of the hillside, giving views back over the river valley.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 43.3583
 longitude: -80.3167
 story: "Waterloo's architecture school chose Cambridge deliberately — a small, post-industrial Ontario city with genuine historical fabric rather than a campus setting — so students would engage with real urban conditions rather than a controlled environment."
+score: 7.2
 ---
 
 The University of Waterloo's School of Architecture occupies a converted industrial building on the south side of the Grand River in downtown Galt. The school relocated here from the main Waterloo campus, choosing the old industrial core as a more instructive setting for architecture students — a working environment rather than an insulated campus.

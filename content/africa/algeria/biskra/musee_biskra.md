@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.8484
 longitude: 5.7286
+score: 6.9
 ---
 
 The regional museum of Biskra occupies a building in the city centre and holds a compact but worthwhile collection covering the Ziban region from prehistory through the Ottoman period. Roman artefacts dominate the archaeological displays — Biskra was the Roman town of Vescera, an important military post on the desert frontier, and finds from around the province include inscriptions, ceramics, and coins. Ethnographic displays document traditional Berber life: jewellery, textiles, agricultural tools, and the material culture of the palm oasis settlements.

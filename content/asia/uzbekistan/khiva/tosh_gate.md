@@ -7,6 +7,7 @@ tags:
 title: Tosh Gate
 type: poi
 snippet: "Southern gate of Itchan Kala, the quietest entrance and the start of the route to the Hazrat-i Pahlavon"
+score: 5.3
 ---
 
 The Tosh Gate is the southern entrance to Itchan Kala and the quietest of the four — most visitors enter from the western Ata Gate, so the south side stays relatively empty. The gate itself is a simple arched brick passage with a small modern security check; the interest is the immediate approach to the Pahlavon Mahmud Mausoleum just inside.

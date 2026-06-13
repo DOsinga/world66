@@ -7,6 +7,7 @@ tags:
 snippet: "Cobra-carved bathing pool cut from the living rock"
 latitude: 8.3517
 longitude: 80.5170
+score: 7.9
 ---
 
 A long pool cut directly into the granite below the upper terraces, fed by rainwater channelled along grooves in the rock. The face of the boulder above the water is carved with a five-headed cobra (*naga*), still clear if you know where to look. Monks used the pool for bathing; the water level is regulated by stone outlets that engineers have always pointed to as a feat of early hydraulic design.

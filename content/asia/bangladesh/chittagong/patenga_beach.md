@@ -7,6 +7,7 @@ tags:
 latitude: 22.2406
 longitude: 91.7951
 snippet: Wide beach where the Karnaphuli river meets the Bay of Bengal
+score: 4.5
 ---
 
 A long, broad beach at the southern tip of Chittagong, near the Karnaphuli river mouth and the city's main port. Patenga is a busy spot in the evenings when families and young couples come out for a walk, ice cream and a horse-and-cart ride along the sand. The view back across the harbour is full of ships — Patenga is one of the few spots in Bangladesh from which you can clearly watch ocean-going traffic.

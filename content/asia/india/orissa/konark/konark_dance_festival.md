@@ -6,6 +6,7 @@ tags:
   - festival
 latitude: 19.8876
 longitude: 86.0945
+score: 8.4
 ---
 
 For five evenings every December, an open-air stage built against the floodlit backdrop of the Sun Temple's audience hall hosts performances of Indian classical dance — Odissi, Bharatanatyam, Kuchipudi, Manipuri, Kathak — by the country's leading dancers. The setting is unmatched, and the festival has run since 1986 under the Orissa Tourism Department.

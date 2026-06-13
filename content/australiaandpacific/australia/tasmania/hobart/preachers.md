@@ -12,6 +12,7 @@ tags:
   - bar
   - battery_point
 snippet: "A two-storey weatherboard cottage and a converted Hobart bus turned beer garden — Battery Point's most popular drinking spot"
+score: 6.8
 ---
 
 A small weatherboard cottage on the edge of Battery Point, with a deceptively large back garden that includes an old yellow **Hobart Metro bus** converted into seating. The bar is locally famous for its outdoor space — open fires in winter, fairy lights and dogs in summer, a permanent crowd of locals and visitors. The drinks list is solid: Tasmanian beers on tap, a serviceable cocktail list, and a decent Tasmanian wine selection.

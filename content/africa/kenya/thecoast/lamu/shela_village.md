@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Shela is the spiritual home of the Lamu sultan's enemies in the 1813 Battle of Shela — the Pate-Mazrui forces who landed on the dunes here and were routed by the Lamu defenders. The battle is what prompted Lamu to call in Omani protection and build the fort up the coast."
+score: 8.1
 ---
 
 Shela, three kilometres south of Lamu town along the seafront, is a small whitewashed Swahili village set back from a long crescent beach. It is quieter and more polished than Lamu town — fewer donkeys, more renovated villas, several small hotels — and is where most visitors who want a beach base end up.

@@ -8,6 +8,7 @@ snippet: Covered market hall in the Quadrilatero, ideal for a stand-up lunch
 tags:
 - food
 - shopping
+score: 5.9
 ---
 
 The Mercato di Mezzo is a covered, two-floor food hall in the middle of the Quadrilatero. Originally a working market — fishmongers, butchers, bakers — it was restored and reopened in 2014 as a hybrid market and food court, with counters serving Bolognese classics: tigelle, fried gnocco, mortadella platters, fritto misto, fresh pasta, wine by the glass.

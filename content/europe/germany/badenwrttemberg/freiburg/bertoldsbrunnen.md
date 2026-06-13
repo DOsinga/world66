@@ -7,6 +7,7 @@ tags:
 snippet: "Fountain at the busiest crossroads of the old town"
 latitude: 47.99490
 longitude: 7.84990
+score: 6.3
 ---
 
 The Bertoldsbrunnen stands at the city's main crossroads where Kaiser-Joseph-Strasse meets Bertoldstrasse and Salzstrasse — the very centre of the old town and the busiest tram junction. The current bronze fountain, designed by Nikolaus Röslmeir in 1965, depicts a galloping rider thought to represent Berthold V, the last duke of Zähringen and founder of Freiburg in 1120.

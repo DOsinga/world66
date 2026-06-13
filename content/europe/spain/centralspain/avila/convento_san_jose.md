@@ -8,6 +8,7 @@ tags:
 - church
 title: Convento de San José
 type: poi
+score: 7.8
 ---
 
 The Convento de San José (also known as Las Madres) was the first convent founded by Teresa of Ávila when she began her reform of the Carmelite order in 1562. The original small building she rented and converted is preserved within the current complex. A small museum inside the convent holds personal objects that belonged to Teresa, including the drum she reportedly played while encouraging her nuns to dance, and one of the few surviving handwritten manuscripts in her own hand.

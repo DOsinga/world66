@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.1591
 longitude: -1.1517
+score: 7.8
 ---
 
 The Grosse Horloge — the Big Clock — is the 14th-century stone gateway between the harbour and the old town. The original tower was the eastern gate in the city walls; in the 17th century it was crowned with the present clock and a fanciful belfry. The arch beneath is a tunnel about ten metres long, and you pass through it dozens of times in a visit to La Rochelle because everything funnels through here.

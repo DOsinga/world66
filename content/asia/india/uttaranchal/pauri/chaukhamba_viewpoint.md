@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.0700
 longitude: 78.7200
+score: 8.0
 ---
 
 The Chaukhamba massif — four linked summits with the highest at 7138 metres — is one of the most dramatic sights visible from the Pauri ridge on a clear day. Several spots around town offer good views of this peak, but the best are found on the upper reaches of the ridge above Kandoliya, where the full extent of the Garhwal Himalaya stretches across the horizon.

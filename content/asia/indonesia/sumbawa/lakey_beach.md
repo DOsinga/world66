@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -8.8667
 longitude: 118.5167
+score: 7.4
 ---
 
 Lakey Beach, in the Dompu Regency on Sumbawa's south coast, is one of the best-known surf spots in eastern Indonesia. The beach produces powerful and consistent right-hand and left-hand reef breaks that work across a range of swell sizes, making it suitable for intermediate to expert surfers. International surf competitions have been held here, and a small surf community of guesthouses, warungs, and board-repair shops has grown up around the beach.

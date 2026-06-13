@@ -9,6 +9,7 @@ latitude: 52.0261
 longitude: -9.4956
 story: >
   Queen Victoria visited Muckross House in 1861 during a tour of Ireland — the only visit she ever made to Kerry. The owners spent lavishly on renovating the house and grounds to receive her, and the financial strain of the preparations reportedly contributed to the eventual sale of the estate. Victoria's four-day visit is still mentioned in local pride of place.
+score: 8.2
 ---
 
 Muckross House is a large Victorian mansion on the shores of Muckross Lake, set in beautifully maintained gardens. The house was built in 1843 and is now a national historic property. Guided tours take you through the kitchens, dining rooms, and bedrooms, giving a good picture of how a wealthy nineteenth-century Irish household operated.

@@ -9,6 +9,7 @@ latitude: 33.80130
 longitude: 72.70104
 story: >
   Emperor Akbar is said to have exclaimed "Wah!" (wonderful) when he first saw this garden, and the name has stuck for four centuries. The gardens were later used as a pleasure resort by Emperor Jahangir and his wife Nur Jahan, who spent considerable time in the region en route to Kashmir.
+score: 8.0
 ---
 
 Wah Gardens is a Mughal garden complex dating to the reign of Emperor Akbar, located at the village of Wah just south of Hassan Abdal. It is one of the better-preserved Mughal gardens in Pakistan outside of Lahore, though it receives a fraction of the visitors that the Lahore gardens attract.

@@ -5,6 +5,7 @@ latitude: 54.3641
 longitude: -2.9210
 snippet: "Medieval parish church at the heart of the old village, with a large stained glass window assembled from salvaged medieval fragments."
 tags: [things_to_do, sight, historic]
+score: 7.0
 ---
 
 St Martin's is the parish church of Bowness and predates the tourist town that grew up around it by several centuries. The building dates substantially from the fifteenth century, though there has been a church on the site since at least the twelfth. It sits slightly set back from the main strip, in the older part of Bowness around St Martin's Square, and the surrounding lanes give a sense of what the village looked like before the Victorian holiday trade arrived.

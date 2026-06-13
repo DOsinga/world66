@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_house
+score: 7.8
 ---
 
 The Outspan was developed in the 1920s by Eric Sherbrooke Walker, a former secretary to Baden-Powell, as a colonial-era staging post on the way up to the Aberdares. The main building still has its old wide verandah, log fires, and view across the lawn to Mount Kenya — and the gardens contain Paxtu, the small cottage where Baden-Powell himself lived from 1938 until his death in 1941.

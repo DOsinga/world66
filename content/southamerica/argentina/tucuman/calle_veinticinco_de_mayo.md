@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.8313
 longitude: -65.2040
+score: 6.9
 ---
 
 The pedestrianised section of Calle 25 de Mayo runs south from Plaza Independencia and is the main shopping and people-watching street. Late-19th- and early-20th-century buildings line both sides, many now in shabby but ornate disrepair.

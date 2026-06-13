@@ -10,6 +10,7 @@ latitude: 35.1919
 longitude: -85.9368
 sources:
   - https://en.wikipedia.org/wiki/Sewanee_Perimeter_Trail
+score: 8.8
 ---
 
 A 20-mile (32 km) loop trail tracing the rim of the Cumberland Plateau around the University of the South's Domain. The trail passes sandstone bluff overlooks, waterfalls, rock formations, and dense mixed hardwood forest, offering some of the best hiking on the plateau without requiring a long drive to a national park.

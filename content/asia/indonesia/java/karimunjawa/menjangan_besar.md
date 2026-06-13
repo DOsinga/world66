@@ -6,6 +6,7 @@ longitude: 110.4500
 tags:
   - beaches
   - sight
+score: 5.1
 ---
 
 A small island twenty minutes by boat from the main village, Menjangan Besar holds the islands' only sanctuary for blacktip reef sharks — a controversial pen built into a shallow lagoon where visitors can wade in the water with the sharks for a fee. The conditions for the animals are debated locally; many tour operators have stopped including the pen for ethical reasons.

@@ -18,6 +18,7 @@ tags:
   - historic_house
 title: Roman Walls
 type: poi
+score: 8.3
 ---
 
 Exeter's Roman and medieval city walls survive better than almost any other English city. The circuit is largely intact and can be walked in sections throughout the centre, with the best-preserved stretches on the north and east sides near Northernhay Gardens and along Southernhay.

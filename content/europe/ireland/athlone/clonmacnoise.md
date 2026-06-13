@@ -14,6 +14,7 @@ story: >
   by a monk named Mael Muire mac Céileachair, who was killed at the site when Vikings raided in 1106.
 sources:
   - https://en.wikipedia.org/wiki/Clonmacnoise
+score: 9.5
 ---
 
 Clonmacnoise lies on a bend of the River Shannon about 20 km south of Athlone, and for around 600 years it was one of the most important monastic settlements in Europe. Founded by St Ciarán in 548, it grew into a centre of learning, manuscript production, and metalwork that drew pilgrims and scholars from across Ireland and beyond. Vikings raided it repeatedly; the Anglo-Normans plundered it; Cromwell's army tore apart the cathedral. What remains is still remarkable.

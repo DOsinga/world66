@@ -6,6 +6,7 @@ longitude: 73.6828
 tags:
   - bars_and_cafes
   - bar
+score: 7.1
 ---
 
 Inside the City Palace complex, the **Sunset Terrace** at Fateh Prakash hotel is exactly what it sounds like — a stone terrace facing west across Lake Pichola, with a small bar, comfortable wicker chairs and a live ghazal singer most evenings. The drinks list runs to a respectable selection of Indian wines and imported spirits; the bar snacks are good.

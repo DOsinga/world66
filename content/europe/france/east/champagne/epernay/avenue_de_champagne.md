@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "The street has been called 'the most drinkable street in the world'. The cellars running beneath it hold more than 200 million bottles of maturing champagne, in tunnels carved out of the chalk to a combined length of well over a hundred kilometres."
+score: 9.2
 ---
 
 The Avenue de Champagne is the showpiece of Epernay and, since 2015, part of the UNESCO World Heritage listing for the Champagne hillsides, houses and cellars. Along a single kilometre of road, from the Place de la Republique to the church of Notre-Dame, stand the grand offices of Moet et Chandon, Perrier-Jouet, Mercier, De Castellane, Boizel and Pol Roger, alongside private mansions built by the wealthy champagne families of the 19th century.

@@ -16,6 +16,7 @@ story: >
   chandeliers in the rotunda were destroyed in the 1949 earthquake; the
   third still hangs, the largest Tiffany chandelier ever made, held by a
   101-foot cable that itself weighs more than the chandelier.
+score: 8.7
 ---
 
 The Legislative Building, completed in 1928 in restrained neoclassical style, is the centrepiece of the Washington State Capitol campus — a remarkable assembly of public buildings, formal lawns, fountains and view-corridors looking across Capitol Lake to the Olympic Mountains. The 287-foot stone dome is the fifth tallest masonry dome in the world.

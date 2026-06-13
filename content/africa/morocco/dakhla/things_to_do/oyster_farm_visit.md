@@ -13,6 +13,7 @@ story: >
   conditions were ideal for bivalves. The Dakhla oyster is now well known across 
   Morocco and exported to Europe — a remarkable outcome for a remote peninsula in 
   disputed territory.
+score: 7.7
 ---
 
 The Dakhla lagoon's clean, cold, nutrient-rich water produces oysters that have earned a strong reputation in Morocco and beyond. Several farms operate in the southern part of the lagoon, and a few offer visits where you can see the cultivation process and taste oysters pulled directly from the water.

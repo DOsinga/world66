@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1880
 longitude: 91.7510
+score: 6.3
 ---
 
 A medieval man-made tank in the heart of Guwahati, half a kilometre long and a few hundred metres wide. Tradition attributes it to the wedding gift of king Bhagadatta to his daughter Bhanumati; archaeology dates it to at least the 9th century. Today it is essentially the city's central park — joggers in the morning, families in the evening, boatsmen renting out paddle boats for ₹100 a head.

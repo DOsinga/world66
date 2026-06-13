@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Tegucigalpa Cathedral
 type: poi
+score: 7.9
 ---
 
 The Cathedral of Saint Michael the Archangel is the main Catholic church of Tegucigalpa, facing directly onto Parque Central. Built between 1765 and 1782, it has a Baroque façade that shows the Spanish colonial architectural tradition at a relatively late stage of its evolution in Honduras.

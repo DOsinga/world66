@@ -13,6 +13,7 @@ story: >
   a ratio of displaced people to irrigated hectares that became notorious in Indian water
   policy debates. The dam is now cited as a cautionary example of the difference between
   what large infrastructure projects promise and what they deliver.
+score: 5.8
 ---
 
 Bargi Dam, about 30 km north of Jabalpur, creates a large reservoir on the Narmada River that stretches for nearly 75 km upstream. The dam itself is one of the earliest major projects on the Narmada and is now primarily used for water supply to Jabalpur and some power generation.

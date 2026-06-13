@@ -13,6 +13,7 @@ story: >
   it. Evelyn Waugh mentioned it. The cemetery became a destination for 19th-century
   Romantics who came specifically to see the sculptures — a practice that continues
   to this day.
+score: 8.9
 ---
 
 One of the most remarkable cemeteries in the world, Staglieno covers 160 hectares in the hills north of Genoa and contains an extraordinary collection of funerary sculpture. The monuments here are not sombre stone slabs but elaborate marble tableaux: weeping women of uncanny realism, angels in mid-flight, children reaching upward, draped figures of extraordinary technical skill.

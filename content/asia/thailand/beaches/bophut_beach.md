@@ -7,6 +7,7 @@ tags:
 - beach
 title: Bophut Beach
 type: poi
+score: 6.9
 ---
 
 Bophut Beach stretches along Koh Samui's northern coast, a mellower alternative to the busy Chaweng strip just a short drive east. The sand is coarser than Chaweng's but the water is calm and the atmosphere is relaxed. The real draw is Fisherman's Village at the beach's eastern end — a narrow lane of converted wooden shophouses now housing restaurants, bars, and boutiques. On Friday evenings a walking street market takes over, with food stalls, live music, and local crafts.

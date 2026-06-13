@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, church]
 latitude: 52.3493
 longitude: -1.5823
+score: 7.2
 ---
 
 St Nicholas is a Church of England parish church begun in the twelfth century and rebuilt repeatedly since. The most striking feature is the great west doorway: a recycled Norman arch lifted from the ruins of the nearby Augustinian priory after the Dissolution, with chevron and beak-head carving still sharp eight centuries on.

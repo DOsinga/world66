@@ -15,6 +15,7 @@ story: >
   the museum.
 sources:
   - https://en.wikipedia.org/wiki/Onufri_Iconographic_Museum
+score: 8.5
 ---
 
 The Onufri Museum, housed in the Cathedral of the Dormition of St Mary within Berat Castle, is the most important collection of Albanian Byzantine iconography in the country. The museum's centrepiece is a large group of 16th-century icons by Onufri himself and his school — vivid, luminous works that represent the high point of post-Byzantine painting in the Albanian tradition. Onufri's distinctive use of a deep crimson red, derived from a pigment formula he never disclosed, gives his icons an unmistakable quality.

@@ -9,6 +9,7 @@ longitude: 13.73625
 tags:
 - things_to_do
 - museum
+score: 9.5
 ---
 
 The Green Vault is one of Europe's most extraordinary treasure collections, housed in the Residenzschloss (Royal Palace). Augustus the Strong established it in 1723 to display the wealth of Saxony, and the sheer volume of gold, jewels, ivory, and amber on show is staggering.

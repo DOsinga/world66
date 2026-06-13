@@ -13,6 +13,7 @@ story: >
   layers dating back 5,000 years — were submerged. Archaeologists worked intensively 
   through the 1940s to excavate what they could, and the finds transformed understanding 
   of pre-Islamic Caucasian history.
+score: 7.4
 ---
 
 The Mingechevir Reservoir, created when the Kura River was dammed in 1953, covers 605 square kilometres and is the largest body of water in Azerbaijan. It transformed this section of the Kura valley entirely: the lake stretches for kilometres in both directions, and the shoreline park on the western bank of the town is the most pleasant public space in Mingechevir.

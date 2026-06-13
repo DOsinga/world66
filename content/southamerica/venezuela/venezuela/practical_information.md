@@ -4,6 +4,7 @@ email: editor@southamericatour.net
 title: Practical Information
 type: poi
 url: Venezuela Travel Directory' rel='nofollow'>
+score: 1.0
 ---
 
 This information is basically up to date as of 1994-1995. The present government in Venezuela has caused a downturn in many industries so some of the production figures are now much lower.

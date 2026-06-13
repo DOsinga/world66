@@ -19,6 +19,7 @@ story: >
   library in the English-speaking world.
 sources:
   - https://en.wikipedia.org/wiki/Chetham%27s_Library
+score: 9.2
 ---
 
 Chetham's Library occupies a medieval fortified house immediately adjacent to Manchester Cathedral, and it feels as though nothing much has changed inside since the 17th century. The building dates from around 1421 and still has its original dark-oak reading bays, chained books, and the atmosphere of a place that has outlasted every change in the city around it.

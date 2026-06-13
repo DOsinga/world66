@@ -11,6 +11,7 @@ longitude: 38.9468
 sources:
   - https://en.wikipedia.org/wiki/Kaole
 story: "Kaole was a wealthy Shirazi trading town long before Bagamoyo existed. By the time the Portuguese arrived in the early 1500s, Kaole already had brick mosques, coral-stone houses, and a network of trade routes reaching Persia and India. Its sudden decline in the 16th century — the cause is still debated — left the town almost forgotten until German archaeologists began clearing the bush around 1900."
+score: 8.8
 ---
 
 The Kaole ruins are the remains of a medieval Swahili trading town that flourished from the 13th to the 16th centuries, several hundred years before the rise of Bagamoyo. Two coral-stone mosques still stand, partly roofed by their own ancient mangrove timbers, and around them lie the carved pillar tombs that are the architectural signature of Shirazi Islam on the East African coast.

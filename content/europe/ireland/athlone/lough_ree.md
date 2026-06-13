@@ -12,6 +12,7 @@ story: >
   to the 6th century, when three priests claimed to have seen it from a coracle. More recent sightings in 1960
   by three priests fishing on the lake were taken seriously enough to be reported in the national press and
   investigated by naturalists, who found no satisfactory explanation.
+score: 7.8
 ---
 
 Lough Ree, the middle of the three great Shannon lakes, stretches north from Athlone for about 25 km, with a shoreline of islands, reedy bays, and limestone karst. The town is the main base for Shannon navigation in this section — boats can be hired by the day or week, and a week on the water exploring the islands and quiet inlets of Lough Ree is one of the great underrated Irish holiday experiences.

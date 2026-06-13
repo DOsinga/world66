@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.40129
 longitude: -122.82275
+score: 6.4
 ---
 
 The 1903 powerhouse building for the Petaluma & Santa Rosa Railway is one of the best-preserved industrial heritage buildings in Sebastopol — a solid brick structure that once generated the electrical power for the interurban railway that connected Sonoma County towns in the early 20th century. The railway carried passengers and agricultural produce (apples, hops, dairy) through the county until automobiles made it uneconomic; the line was abandoned in 1932.

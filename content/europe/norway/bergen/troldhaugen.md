@@ -8,6 +8,7 @@ story: >
   Grieg composed most of his late work in a small wooden hut at the bottom of the garden, away from the main house. He called it his "studio" and refused to let anyone else enter it while he was working. The hut is still there, preserved exactly as it was when he died in 1907 — manuscript paper on the desk, pencils in a jar.
 sources:
   - https://en.wikipedia.org/wiki/Troldhaugen
+score: 8.7
 ---
 
 Edvard Grieg's villa on the shores of Nordåsvannet lake, about 8 km south of Bergen centre, is the most rewarding cultural excursion from the city. He and his wife Nina lived here from 1885 until his death in 1907. The house is preserved as he left it — full of family photographs, musical instruments, and the collected objects of a life in music. The museum next door tells the story of his career and his importance to Norwegian cultural identity.

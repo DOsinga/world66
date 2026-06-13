@@ -9,6 +9,7 @@ tags:
 - beach
 title: Kerala Beaches
 type: poi
+score: 7.2
 ---
 
 Kerala's coastline stretches over 500 km along the Arabian Sea, offering everything from busy resort beaches to quiet fishing villages. Kovalam, at the southern tip near Trivandrum, is the most developed — three crescent bays separated by rocky headlands, with the lighthouse beach the most photogenic. Further north, Varkala sits atop dramatic red laterite cliffs with a long beach below.

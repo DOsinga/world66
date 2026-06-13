@@ -8,6 +8,7 @@ latitude: 46.2833
 longitude: -79.0167
 snippet: Boreal forest provincial park on the Ottawa River west of Mattawa
 url: https://www.ontarioparks.com/park/samuelddechamplain
+score: 7.4
 ---
 
 Samuel de Champlain Provincial Park sits on the north shore of the Ottawa River about 30 kilometres west of Mattawa along Highway 17. The park covers classic Canadian Shield terrain — boreal forest, rocky outcrops, lakes, and the wide Ottawa River — and provides a good base for canoeing, hiking, swimming, and fishing in the area.

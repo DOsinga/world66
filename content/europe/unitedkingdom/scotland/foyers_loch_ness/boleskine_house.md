@@ -8,6 +8,7 @@ tags:
 latitude: 57.2653
 longitude: -4.4747
 story: "The occultist Aleister Crowley bought Boleskine in 1899 to perform a long ritual from a medieval grimoire. He never finished it. Decades later Led Zeppelin guitarist Jimmy Page bought the house, drawn by its Crowley connection. Two fires — in 2015 and 2019 — have since gutted the building."
+score: 5.7
 ---
 
 A small Georgian manor a couple of kilometres north of Foyers, perched above the loch on the B852. Boleskine is famous less for its architecture than for its owners and its reputation for haunting. Aleister Crowley lived here at the turn of the twentieth century; Jimmy Page bought it in 1970. After two serious fires, the house is a roofless shell, and restoration work by the Boleskine House Foundation is slow but ongoing.

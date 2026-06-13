@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 24.0500
 longitude: 121.1640
+score: 7.4
 ---
 
 Cingjing Farm is a former government livestock farm at 1,700 metres altitude in the central mountains, about three hours from Taichung. The cool climate, alpine views, and sheep grazing on open pasture make it one of the most popular mountain destinations on the island.

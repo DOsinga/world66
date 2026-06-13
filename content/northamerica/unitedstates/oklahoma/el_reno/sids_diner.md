@@ -8,6 +8,7 @@ latitude: 35.5314
 longitude: -97.9548
 story: >
   El Reno's onion-fried burger was born during the Depression, when local short-order cook Ross Davis found he could stretch a small patty of beef much further by pressing it down into a generous pile of shaved onions. The result is a thin patty fused to a caramelised mat of onion. Sid's, opened in 1990 by Marty Hall in honour of his father Sid, has done it the same way ever since.
+score: 7.9
 ---
 
 Sid's Diner is on Choctaw Avenue in central El Reno, a small chrome-and-stool counter joint that gets a queue at lunchtime and on weekends. The onion-fried burger is the order — a single by default, double on request, with the onions hammered into the beef on the flat-top so they turn deep brown at the edges.

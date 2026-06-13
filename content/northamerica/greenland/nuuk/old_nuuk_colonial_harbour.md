@@ -15,6 +15,7 @@ story: >
   that protrudes into the fjord, because it offered protection from ice and a reasonable
   anchorage. The buildings that survive today are mostly eighteenth and nineteenth century;
   several have been converted into museums and offices.
+score: 8.4
 ---
 
 The old colonial district around Nuuk's original harbour is the most atmospheric part of the city. The coloured wooden buildings — red, yellow, and ochre — cluster around a small bay on the fjord side of the peninsula, with the Greenland National Museum occupying a group of colonial warehouses and the statue of Hans Egede dominating the slope above. On a clear day, the backdrop of the fjord and the mountains beyond is extraordinary.

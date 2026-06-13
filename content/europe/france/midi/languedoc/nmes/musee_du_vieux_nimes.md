@@ -7,6 +7,7 @@ snippet: Local history and decorative arts in a 17th-century bishop's palace
 tags:
 - things_to_do
 - museum
+score: 6.5
 ---
 
 The Musée du Vieux Nîmes occupies the 17th-century former bishop's palace next to the cathedral. The collection focuses on the city's local history, the regional textile industry (Nîmes gave its name to "denim" — de Nîmes — through its blue serge cloth), and the religious and civic life of the 17th and 18th centuries.

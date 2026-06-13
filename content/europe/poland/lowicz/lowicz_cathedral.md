@@ -9,6 +9,7 @@ longitude: 19.9433
 address: "Stary Rynek 20, 99-400 Łowicz, Poland"
 opening_hours: "Daily 06:00–19:00"
 admission: "Free"
+score: 7.3
 ---
 
 A Baroque collegiate church dominating the old market square, built in the 17th century on the site of an earlier Gothic church. The interior is richly decorated with frescoes, gilded altarpieces, and the tombs of the Archbishops of Gniezno — Łowicz was the seat of the Polish primates for centuries, and the church reflects that long ecclesiastical importance.

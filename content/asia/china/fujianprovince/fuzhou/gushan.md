@@ -6,6 +6,7 @@ longitude: 119.3865
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Gushan — Drum Mountain — is the principal hill east of Fuzhou city, rising to about 925 metres and covered in subtropical forest. It is named for a rock formation near the summit that allegedly produces a drumlike sound in the wind. A cable car runs from the base to near the Yongquan Temple complex, and a network of paved hiking trails connects the various viewpoints and pavilions.

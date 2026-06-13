@@ -6,6 +6,7 @@ tags:
 - museum
 title: Preah Norodom Sihanouk-Angkor Museum
 type: poi
+score: 7.8
 ---
 
 **The Preah Norodom Sihanouk-Angkor Museum** is a newer addition to Siem Reap's cultural infrastructure, located near the Angkor ticket centre on the road from town. Named after Cambodia's most iconic post-independence leader, the museum focuses on the Angkor civilisation with a collection that complements rather than duplicates the Angkor National Museum in town. The emphasis is on the social and cultural history of the Khmer Empire — how people lived, worked, and worshipped — alongside display of artefacts from archaeological excavations in the wider Siem Reap region.

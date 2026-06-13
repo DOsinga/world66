@@ -14,6 +14,7 @@ story: >
   thing is not just that the hills exist, but that there are over 1,200 of them and they are all roughly
   the same height (30 to 50 metres) and the same shape. That uniformity is what makes them genuinely
   strange rather than merely picturesque.
+score: 9.1
 ---
 
 The Chocolate Hills Complex at Carmen is the main viewing point — a concrete observation deck built on top of one of the hills, from which you look out over a sea of identical brown cones in every direction. In the dry season (roughly November through May) the grass covering the hills turns brown, which is when they earn the name. In the wet season they are vivid green but still arresting.

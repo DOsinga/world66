@@ -12,6 +12,7 @@ tags:
 - saint_germain
 title: Au Bon Marché
 type: poi
+score: 6.7
 ---
 
 The name means "cheap" in French, but Le Bon Marché is anything but. Founded in 1852, it is the oldest department store in Paris and one of the first in the world. The building itself, with its iron-and-glass structure designed in part by Gustave Eiffel, is worth seeing even if you don't buy anything.

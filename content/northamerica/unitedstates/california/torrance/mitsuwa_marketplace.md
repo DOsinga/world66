@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 33.8728
 longitude: -118.3025
+score: 8.0
 ---
 
 The Torrance branch of Mitsuwa is the largest Japanese supermarket in southern California and effectively a small Japanese cultural centre. The supermarket itself is exceptional — proper fresh fish counters, hard-to-find Japanese vegetables, a 50-metre wall of soy sauces, and a bakery selling melon-pan and anko-pan made on-site.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.5085
 longitude: 32.2650
+score: 6.6
 ---
 
 The Kirovohrad Regional History Museum (Kirovohradskyi oblasny kraieznavchyi muzei) covers the history and natural environment of Kirovohrad Oblast from prehistoric times through to the present. The collections include archaeological finds from Trypillia culture settlements, Scythian artefacts, and exhibits covering the city's 18th-century founding and its development as a regional centre.

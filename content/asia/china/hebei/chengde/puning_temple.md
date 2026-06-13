@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Puning Temple
 type: poi
+score: 8.1
 ---
 
 Built in 1755 to commemorate a Qing military victory over Mongolian tribes, Puning Temple blends Han Chinese and Tibetan styles within a single complex. The front half follows standard Chinese temple design; the rear rises into a Tibetan-style mandala structure.

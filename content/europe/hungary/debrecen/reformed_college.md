@@ -9,6 +9,7 @@ tags:
   - architecture
   - history
 story: "Through the centuries the Reformed College trained generations of Hungarian poets, scientists, and revolutionaries — including Mihály Csokonai Vitéz, Ferenc Kölcsey (who wrote the Hungarian national anthem), and the chemist George de Hevesy, who won the 1943 Nobel Prize. The library still holds Kölcsey's own copy of the anthem text in his handwriting."
+score: 8.4
 ---
 
 Just behind the Great Church, the Reformed College is one of the oldest centres of learning in Hungary, founded in 1538 and continuously operating ever since. The current yellow neoclassical building dates from the early nineteenth century and houses both the working theological university and a museum that opens up the college's history to visitors.

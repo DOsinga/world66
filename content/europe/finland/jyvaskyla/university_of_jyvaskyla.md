@@ -9,6 +9,7 @@ latitude: 62.2364
 longitude: 25.7328
 sources:
   - https://en.wikipedia.org/wiki/University_of_Jyv%C3%A4skyl%C3%A4
+score: 9.1
 ---
 
 The University of Jyväskylä campus is the largest concentration of Alvar Aalto's architecture anywhere in the world. Aalto designed the original campus buildings in the 1950s and continued adding to it through the 1970s, creating a remarkably coherent ensemble on the forested slopes west of the city centre. The main building, library, and several faculties are all his work.

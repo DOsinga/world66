@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Fragmentary 1st-century Roman theatre — the least visited of Tarragona's major Roman sights"
+score: 6.8
 ---
 
 A relatively recent excavation (the site was uncovered in 1919 and most of the work was done from the 1970s onwards) revealing the curved seating, orchestra, and scaena of an early-imperial Roman theatre. Less spectacular than the amphitheatre but more intimate — the cavea seated around 5,000 spectators, and the surviving back wall of the stage (the *scaenae frons*) still carries traces of its original marble cladding.

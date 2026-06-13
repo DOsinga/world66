@@ -6,6 +6,7 @@ longitude: 120.2840
 tags:
   - shopping
   - market
+score: 6.5
 ---
 
 The wet market in the city centre is where Olongapo actually shops — a covered hall surrounded by streets of vendors selling fresh fish (much of it landed that morning at the nearby fishing port), produce from the surrounding farms, and the usual market staples of pork, chicken, and rice.

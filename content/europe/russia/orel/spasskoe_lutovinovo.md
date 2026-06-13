@@ -11,6 +11,7 @@ story: >
   When Turgenev was exiled from St Petersburg by Tsar Nicholas I for writing an obituary of Gogol that the censors found politically suspect, he was confined to Spasskoye for two years. He used the enforced stay to write some of his best work, including several pieces from the Sketches. The estate became a place of creative exile — and, paradoxically, of literary freedom.
 sources:
   - https://en.wikipedia.org/wiki/Spasskoye-Lutovinovo
+score: 8.7
 ---
 
 Spasskoye-Lutovinovo, about 70km north of Oryol, is the ancestral estate where Ivan Turgenev spent his childhood and formative years. The manor house has been restored to roughly its mid-19th-century appearance, with period furnishings, Turgenev's library, and a study where he wrote. The park around it — old lime trees, a pond, meadows sloping to a stream — captures exactly the landscape described in *Sketches from a Hunter's Album*.

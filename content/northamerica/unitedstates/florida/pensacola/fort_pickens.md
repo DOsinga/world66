@@ -8,6 +8,7 @@ latitude: 30.3283
 longitude: -87.2951
 story: >
   Geronimo, the Apache leader, was held prisoner at Fort Pickens from 1886 to 1888, together with 14 other Apache men. His presence drew such crowds of paying visitors that the army opened the fort as a tourist attraction — a rare case of a military prisoner becoming a tourist draw in his own lifetime. Geronimo apparently cooperated with the arrangement and was photographed there. He was eventually transferred to a military post in Alabama, where he died in 1909, never having been allowed to return to his homeland.
+score: 8.8
 ---
 
 Fort Pickens occupies the western tip of Santa Rosa Island, accessible by road through the Gulf Islands National Seashore. Construction began in 1829, making it one of Florida's oldest surviving military fortifications. The massive brick pentagonal fort remained in Union hands throughout the Civil War — one of only four Southern forts not captured by the Confederacy — and continued in active use through World War II.

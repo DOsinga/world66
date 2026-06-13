@@ -14,6 +14,7 @@ story: >
   known — developed a Dutch variant of expressionism, using flat colour and bold
   line influenced by Cézanne and Matisse. The movement was never a formal school;
   what bound them was geography more than manifesto.
+score: 7.5
 ---
 
 The main museum in Bergen, housed in a late 19th-century villa next to the Ruïnekerk, holds the most significant collection of Bergen School expressionist painting. The permanent collection covers the main figures of the movement — Charley Toorop, Jan Sluijters, Leo Gestel, and others who lived and worked in Bergen from about 1910 onwards.

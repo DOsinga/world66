@@ -13,6 +13,7 @@ story: >
   escape. Several gang members were captured, and the robbery failed. The story ran
   nationally — a Black town in Oklahoma had held off Pretty Boy Floyd. The bank was
   celebrated. Turner was mourned. The building stood.
+score: 7.4
 ---
 
 The Farmers and Merchants Bank was the first Black-owned bank with a national charter in the United States, established in Boley in the early 1900s as one of the cornerstones of the town's economic self-sufficiency. The brick building still stands on the main street of the historic district.

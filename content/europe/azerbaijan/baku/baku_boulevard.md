@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.2
 ---
 
 The Baku Boulevard, or Bulvar, is the long landscaped promenade along the curve of the bay between the seaport and Crystal Hall, a distance of about three kilometres. It dates from 1909, when the city decided to landscape the oily, rubbish-strewn coastal strip into something more dignified, and has been extended several times since.

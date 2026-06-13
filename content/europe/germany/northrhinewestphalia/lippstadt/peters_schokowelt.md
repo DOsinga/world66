@@ -8,6 +8,7 @@ latitude: 51.6536
 longitude: 8.3609
 sources:
   - https://www.peters-schokowelt.de/
+score: 6.4
 ---
 
 Peters SchokoWelt is a chocolate experience centre spread across 1,200 square metres in a steampunk-themed building at Hansastraße 11, in Lippstadt's industrial area south of the old town. The main attraction is either a 90-minute guided tour of the chocolatiers' workshop or a self-guided SchokoRallye trail — both follow the process from cocoa to finished praline. Hands-on praline-making courses run regularly and can be booked in advance.

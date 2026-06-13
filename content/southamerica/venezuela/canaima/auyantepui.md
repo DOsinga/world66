@@ -8,6 +8,7 @@ tags:
 latitude: 5.8833
 longitude: -62.5333
 story: "Pemón mythology calls Auyán-tepui the Devil's Mountain — a malevolent place where lightning is the spirit Maraguakan striking down on intruders. Pilots flying the Angel Falls route do see thunderstorms cling to the summit far more often than the rest of the region."
+score: 8.7
 ---
 
 Auyán-tepui is the largest of all the tepuis at around 700 square kilometres of summit plateau, and the one that carries Angel Falls off its western face. From below it presents a continuous black wall of vertical sandstone rising over a thousand metres straight out of the rainforest, often half-hidden by cloud. The Pemón name means "Devil's Mountain", and the surrounding people traditionally avoided going up.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.482001
 longitude: 72.911052
 snippet: Ancient city near the Jhelum with Sufi shrines and Alexandrian legends
+score: 6.7
 ---
 
 A historic city in the Sargodha District, home to the shrine of Sufi saint Hazrat Mehar Ali Shah. Alexander the Great is said to have fought King Porus near this area. The banks of the River Jhelum nearby make for a pleasant picnic spot.

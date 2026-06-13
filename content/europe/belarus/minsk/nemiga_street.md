@@ -9,6 +9,7 @@ longitude: 27.5479
 snippet: A pedestrian shopping street over the buried river of the same name — and the site of a famous medieval battle
 story: >
   The Nyamiha River was one of two rivers on which Minsk was founded in the 11th century. In 1067 a fierce battle was fought here between the forces of several Rus' princes — the bloodiest conflict of the civil wars that tore apart the early Rus' state. The river that witnessed it was later buried in a culvert and eventually built over entirely. Today the metro station below carries the old name, and a small memorial in the pedestrian precinct marks the site of the battle and the 1999 stampede at an outdoor concert that killed 53 people.
+score: 5.2
 ---
 
 Nemiga is both a street and a neighbourhood in Minsk, centred on the pedestrian precinct near the Nemiga metro station. The area is one of the oldest-settled parts of the city — Minsk was founded at the confluence of two rivers, the Svislach and the now-buried Nyamiha, and this neighbourhood sits at that ancient junction.

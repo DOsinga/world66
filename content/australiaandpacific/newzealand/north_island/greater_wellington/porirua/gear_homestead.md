@@ -8,6 +8,7 @@ tags:
 - museum
 latitude: -41.124
 longitude: 174.852
+score: 6.8
 ---
 
 Gear Homestead is a grand colonial villa built in 1882 by James Gear, a wealthy Wellington butcher whose meat-freezing works at Petone were among the first in the country. The house sits on a hill above the eastern arm of Porirua Harbour with views back down the inlet.

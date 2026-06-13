@@ -7,6 +7,7 @@ tags:
 latitude: -4.3045
 longitude: 15.312
 snippet: A reliable Gombe grill serving Congolese favourites and decent grilled meats in a relaxed setting
+score: 6.2
 ---
 
 MAM Grillades is one of the more consistent options in the Gombe restaurant scene, serving straightforward Congolese cooking -- grilled meats, moambe chicken, brochettes, fried plantains -- at prices that are fair by Kinshasa's expensive standards. The grilled capitaine, when available, is worth ordering. The atmosphere is unpretentious and the crowd is a mix of local professionals and the occasional visitor looking for something honest rather than elaborate.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.0059
 longitude: 14.9985
+score: 6.6
 ---
 
 A long-running borgo trattoria with a small terrace strung along one of the medieval lanes — Da Nicolino has been feeding locals and visitors fresh Adriatic fish since the 1960s and has a deserved reputation for unfussy, traditional cooking.

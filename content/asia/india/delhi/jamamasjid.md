@@ -10,6 +10,7 @@ tags:
 - old_delhi
 title: Jama Masjid
 type: poi
+score: 9.0
 ---
 
 Jama Masjid is the largest mosque in India, built by Mughal emperor Shah Jahan in 1656. The courtyard can hold 25,000 worshippers and remains an active place of prayer. Three great gates, four towers, and two 40-metre minarets frame a massive open courtyard paved in red sandstone and white marble.

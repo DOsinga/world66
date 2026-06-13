@@ -9,6 +9,7 @@ tags:
 - sight
 - church
 - architecture
+score: 7.8
 ---
 
 The Cathédrale Sainte-Marie-Majeure, locally known as La Major, looms over the edge of the Panier in alternating bands of green Florentine marble and white Cassis limestone. Built between 1852 and 1893 in a Romano-Byzantine style by Léon Vaudoyer and finished by Henri-Jacques Espérandieu, it is one of the largest cathedrals built in France in the 19th century — capable of holding 3,000 worshippers.

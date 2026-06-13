@@ -11,6 +11,7 @@ story: >
   The trails along the lake's western shore have been used by nomadic herders for centuries. When outsiders first started riding them in the early 1990s, horses were hired directly from Tsaatan families. Today several outfitters in Khatgal can arrange multi-day trips, but the horses still come from the same families.
 sources:
   - https://en.wikipedia.org/wiki/Khatgal,_Kh%C3%B6vsg%C3%B6l
+score: 8.7
 ---
 
 Horse trekking along the western shore of Lake Khövsgöl is one of Mongolia's most memorable travel experiences, and Khatgal is the place to organise it. The route north hugs the shoreline through larch and birch forest, crossing clear streams that feed the lake, with opportunities to camp on beaches that few travellers reach.

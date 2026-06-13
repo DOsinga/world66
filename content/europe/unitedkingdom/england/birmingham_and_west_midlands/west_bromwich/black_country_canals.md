@@ -8,6 +8,7 @@ latitude: 52.5069
 longitude: -2.0001
 sources:
   - https://en.wikipedia.org/wiki/Spon_Lane_Locks_Branch
+score: 7.7
 ---
 
 West Bromwich sits within the densest canal network in the world — the Black Country's waterways were built in the late 18th and early 19th centuries to carry coal, iron, and finished goods between the industrial towns and the wider canal system. The network around West Bromwich includes the Old BCN Main Line (1769) and the New Main Line (1828), engineered by Thomas Telford with his characteristic straight-line approach to canal design.

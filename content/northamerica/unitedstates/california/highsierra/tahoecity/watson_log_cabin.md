@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 39.171388
 longitude: -120.138888
+score: 5.9
 ---
 
 Built in 1908 by Robert Montgomery Watson, the Watson Log Cabin is the only surviving historic log cabin in the Tahoe City area and is listed on the National Register of Historic Places. Watson's name lives on in nearby Watson Creek and Watson Lake, both just north of the lake.

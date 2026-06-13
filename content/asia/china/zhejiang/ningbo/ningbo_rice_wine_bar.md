@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 29.8720
 longitude: 121.5460
+score: 7.5
 ---
 
 Ningbo sits in the cultural heartland of Shaoxing *huangjiu* (yellow rice wine) country, and the city has a strong tradition of drinking the local variety warm in small ceramic cups at the zinc counters of neighbourhood wine bars. These establishments — *huangjiu* bars rather than the Westernised bars of Jiangbei — are scattered through the old town lanes near the Drum Tower and the Lingqiao area, and they follow a format that has barely changed in a century: ceramic jars of rice wine at room or warming temperature, salt-preserved edamame and pickled vegetables as accompaniments, an elderly clientele, and a complete absence of ambient music.

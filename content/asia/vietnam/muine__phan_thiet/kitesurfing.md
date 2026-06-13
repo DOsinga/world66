@@ -15,6 +15,7 @@ story: >
   during peak season, the bay is a forest of kites from mid-morning to late afternoon.
 sources:
   - https://www.iksurfmag.com/travel-guides/asia/vietnam/mui-ne/
+score: 9.0
 ---
 
 Mui Ne is the best kitesurfing and windsurfing destination in Southeast Asia, and one of the most reliable wind sites in the world. The northeast trade wind blows strongly from November to April, typically reaching 20-30 knots and sometimes gusting higher. The beach faces the right direction to make the most of it, and the water is shallow for a long way out — ideal for learners who fall frequently.

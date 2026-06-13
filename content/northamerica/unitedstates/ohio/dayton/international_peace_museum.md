@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.75979
 longitude: -84.19329
+score: 6.3
 ---
 
 The International Peace Museum on Courthouse Square is a small but thoughtfully assembled museum examining the history of peace movements, conflict resolution, and anti-war activism. Founded in 1998, it covers everything from abolition and civil rights to nuclear disarmament campaigns and contemporary peacebuilding efforts.

@@ -14,6 +14,7 @@ story: >
   The railway connecting Hallstatt station on the far shore was built in 1877,
   but the station is still on the opposite bank; a small ferry runs on demand
   to connect arriving trains with the village.
+score: 8.5
 ---
 
 The Hallstätter See is the most dramatic of the Salzkammergut lakes: narrow, mountain-walled, with the village of Hallstatt pressed improbably between cliff and water at its southwestern corner. The lake is cold and very deep — reaching 125 metres — and the colour ranges from deep blue-black in the shadows under the Dachstein wall to brilliant aquamarine in the shallower northern sections.

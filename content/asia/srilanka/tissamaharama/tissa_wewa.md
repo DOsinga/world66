@@ -7,6 +7,7 @@ tags:
 latitude: 6.2845
 longitude: 81.2878
 snippet: Ancient reservoir and birdwatching spot at the heart of town
+score: 7.2
 ---
 
 Tissa Wewa is an ancient artificial lake constructed by King Kavantissa in the 3rd century BC to supply water for the royal capital and surrounding paddy fields. Today it forms the scenic backdrop to the town, fringed by palm trees and visible from much of Tissamaharama.

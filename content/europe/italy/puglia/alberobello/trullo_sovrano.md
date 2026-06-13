@@ -14,6 +14,7 @@ story: The removable stone pinnacles on top of each trullo cone were not decorat
   the owner could claim the house was still under construction whenever an inspector
   arrived. The Trullo Sovrano was wealthy enough that its owner simply built two floors
   regardless.
+score: 8.2
 ---
 
 On Via Cadorna in Rione Aia Piccola stands the only two-storey trullo in the world, the Trullo Sovrano. Every other trullo is a single room capped by a single cone; this one was built in the 18th century by a wealthy priest's family who apparently felt entitled to ignore the usual structural logic. The result is a house of surprising size and presence, its upper floor reached by an internal staircase.

@@ -14,6 +14,7 @@ story: >
   figures — that have become the primary visual record of pre-contact Greenlandic culture.
   He produced over 400 works before his death from tuberculosis in 1869, most of them
   while living in increasing poverty as the traditional hunting economy collapsed.
+score: 7.4
 ---
 
 The Nuuk Art Museum occupies a restored colonial building near the Katuaq centre and displays a collection focused on Greenlandic and Arctic art from the nineteenth century to the present. The historical section, including works by Aron of Kangeq and other early Inuit artists, is valuable as a cultural document as much as an art collection. The contemporary section reflects the complexity of modern Greenlandic identity — works that are simultaneously Inuit, Danish-influenced, and internationally aware.

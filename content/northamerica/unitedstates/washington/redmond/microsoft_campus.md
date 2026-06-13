@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 47.64194444444444
 longitude: -122.12722222222222
 story: The Microsoft campus sprawls across more than 500 acres in Redmond, housing over 50,000 employees in roughly 150 buildings. The campus grew from a small Bellevue office in 1979 to its current scale as one of the largest corporate headquarters in the world — it has its own fire department, health clinic, and ZIP code.
+score: 6.8
 ---
 
 The Microsoft campus isn't a formal tourist attraction, but the surrounding area and the company's Visitor Center (when open) give some sense of the scale and culture of one of the world's most influential technology companies. The campus features manicured grounds, an internal transit system, and dozens of cafeterias that have been cited as models for corporate dining.

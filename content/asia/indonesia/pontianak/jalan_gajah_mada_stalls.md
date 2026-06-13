@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -0.0285
 longitude: 109.3340
+score: 7.6
 ---
 
 The stretch of Jalan Gajah Mada between the city centre and the river comes alive after dark with food stalls setting up along the pavement. This is the best place in Pontianak to eat local food — the range is wide, the prices are very low, and you can assemble a meal by pointing and wandering between stalls.

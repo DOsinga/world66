@@ -8,6 +8,7 @@ tags:
 snippet: Surviving stretches of the medieval town wall
 latitude: 49.8125
 longitude: 6.4208
+score: 7.1
 ---
 
 Sections of the medieval town wall still ring Echternach, particularly along the southern and western sides of the old town. The most photogenic stretches run from the Tor in der Pol — the old west gate — along to the rebuilt towers near the river. The walls were largely intact until the 19th century, when much was demolished to ease traffic, but a careful programme of consolidation since the 1980s has preserved what remains.

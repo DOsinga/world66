@@ -8,6 +8,7 @@ latitude: 40.608
 longitude: 43.096
 snippet: The restored overnight train from Ankara to Kars, now a popular scenic journey
 story: The Eastern Express fell into near-disuse for decades as roads and domestic flights overtook the route. Then in 2018 it went viral on social media — Turkish travellers started posting photographs of the train moving through snowy eastern Anatolian landscapes, and suddenly reservations were selling out weeks in advance. The train hasn't changed much, but the perception of it transformed completely from old-fashioned necessity to desirable experience.
+score: 8.4
 ---
 
 The Eastern Express (Doğu Ekspresi) runs the 1,310km from Ankara to Kars in approximately 24 hours, passing through the volcanic landscape of central Anatolia, the mountains of eastern Turkey, and arriving at Kars station in the early morning. It is one of the great overland train journeys in Turkey, and the social media attention it received from around 2018 onwards has made booking competitive.

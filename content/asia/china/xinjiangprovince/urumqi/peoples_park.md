@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.7970
 longitude: 87.6015
+score: 6.6
 ---
 
 People's Park is the green lung of central Ürümqi, a large urban park that functions as a genuine gathering place for the city's residents rather than a tourist attraction. On weekend mornings it fills with older couples doing ballroom dancing, groups practising fan dancing or tai chi, and families spreading out picnics on the grass. There is a calm to it that can feel like a breath of fresh air after the intensity of the bazaar areas.

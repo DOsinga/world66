@@ -6,6 +6,7 @@ longitude: 104.7286
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Al-Quran Al-Akbar is one of Palembang's stranger, more memorable attractions: a thirty-volume Quran carved in full into giant wooden panels, displayed in a purpose-built pesantren (Islamic school) in the southern part of the city. Each panel measures roughly 1.7 by 1.4 metres, and the entire work fills four floors.

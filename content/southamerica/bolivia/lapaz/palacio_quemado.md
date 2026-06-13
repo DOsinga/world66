@@ -14,6 +14,7 @@ tags:
 - history
 title: Palacio Quemado
 type: poi
+score: 6.8
 ---
 
 The Palacio Quemado sits on the north side of Plaza Murillo, facing the Cathedral across the square. It is a solid, neoclassical block of a building — pale stone, symmetrical facade, nothing that shouts presidential ambition — and yet it has been at the centre of more political turbulence than almost any building in South America. Bolivia has had well over 200 coups and governmental changes since independence, and a great many of them have begun or ended at this address.

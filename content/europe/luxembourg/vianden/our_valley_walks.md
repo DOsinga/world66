@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 49.933698
 longitude: 6.206671
+score: 8.0
 ---
 
 The Our river valley around Vianden offers some of the best walking in Luxembourg. Trails run along the river both north and south of town through forested hillsides and past small villages on the German side of the border. The scenery is classic Ardennes: steep wooded slopes, a meandering river, and occasional sandstone outcrops.

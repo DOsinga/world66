@@ -8,6 +8,7 @@ latitude: 36.2746
 longitude: -6.0873
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.6
 ---
 
 The parish church of Santa Catalina stands in the main square of the old town, a solid 17th-century structure with the plain whitewashed exterior typical of Andalucian churches of this period. It is not as ornate as the great churches of Seville or Cádiz, but it is the social and spiritual centre of the town, and on feast days and during Semana Santa it is the focal point of processions through the surrounding streets.

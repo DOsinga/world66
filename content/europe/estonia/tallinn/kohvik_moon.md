@@ -7,6 +7,7 @@ tags:
 latitude: 59.4462
 longitude: 24.7336
 snippet: Kalamaja neighbourhood restaurant with daily-changing Estonian and Nordic menu
+score: 7.3
 ---
 
 Kohvik Moon ("Cafe Moon") is the neighbourhood restaurant that helped put Kalamaja on the culinary map. The menu changes daily based on what's available, leaning into Estonian and Nordic flavours — game, Baltic fish, rye, foraged ingredients — at prices that feel honest for the quality. The interior is simply decorated, the service friendly and unaffected.

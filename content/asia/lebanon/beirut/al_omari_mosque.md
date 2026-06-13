@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8964
 longitude: 35.5051
+score: 8.6
 ---
 
 A 12th-century Crusader church repurposed as a mosque when the Mamluks took the city in 1291, the Al-Omari Grand Mosque retains the proportions, vaulted bays and stone-cut details of its origins. The minaret rises from a former bell tower; the mihrab faces Mecca through what was once an apse.

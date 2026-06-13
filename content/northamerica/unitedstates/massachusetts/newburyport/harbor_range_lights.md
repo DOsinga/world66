@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A matched pair of cast-iron lighthouses on the waterfront
+score: 6.3
 ---
 
 Two small lighthouses, one in front of the other, built in 1873 to guide vessels in from the Atlantic across the Merrimack bar — line one up directly above the other from your foredeck and you were in the channel. The cast-iron front-range light is 14 feet tall; the rear-range light, set back two blocks, is 53 feet.

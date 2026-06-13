@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 38.7076
 longitude: -76.3382
+score: 7.0
 ---
 
 Tilghman Island is a working fishing community, and the bay outside is extraordinarily productive. Charter fishing trips out of Knapps Narrows target rockfish (striped bass), bluefish, and flounder depending on the season. Crabbing trips are available in summer — the blue crab is the defining creature of the Chesapeake and catching your own, then having them steamed at a local place, is one of the great experiences of the Eastern Shore.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_house
+score: 8.9
 ---
 
 The Royal Walls are Ceuta's defining monument — a layered system of fortifications, moats, and drawbridges built and rebuilt by the Marinids, Portuguese, and Spanish over six centuries. The complex stretches along the southern approach to the city centre and is extraordinarily well preserved. You can walk the ramparts, cross the moats on stone bridges, and explore the underground passages that connected the defensive towers. The adjacent moat, the Foso Real, has been turned into a landscaped garden that is pleasant in the evenings.

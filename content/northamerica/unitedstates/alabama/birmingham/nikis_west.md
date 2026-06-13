@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Niki's West
 type: poi
+score: 6.8
 ---
 
 A Birmingham institution since 1957, Niki's West is a cafeteria-style Southern restaurant on the north side of town that serves an extraordinary number of vegetable dishes alongside its meat offerings. The steam-table lineup changes daily but typically includes dozens of options — turnip greens, fried okra, black-eyed peas, mashed potatoes, field peas, and much more alongside pork chops, chicken, and fish.

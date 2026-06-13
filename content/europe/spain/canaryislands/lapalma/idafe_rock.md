@@ -11,6 +11,7 @@ story: >
   The Benahoarita, the indigenous Guanche people of La Palma, believed that the fate of the world depended on Idafe Rock remaining standing. If the rock fell, everything would end. To prevent this, they made regular offerings and sacrifices at the base of the pinnacle. When Spanish missionaries told them this was superstition, the story goes that some Benahoarita began pelting the rock with stones, trying to make it fall so they could prove them wrong. The rock is still standing.
 sources:
   - https://en.wikipedia.org/wiki/Idafe_Rock
+score: 7.1
 ---
 
 Idafe Rock is a slender basalt pinnacle rising inside the Caldera de Taburiente, accessible by a moderately difficult hiking trail from the caldera floor. The pinnacle is about 40 metres tall and stands alone in the caldera's landscape — dramatic from a distance, otherworldly up close.

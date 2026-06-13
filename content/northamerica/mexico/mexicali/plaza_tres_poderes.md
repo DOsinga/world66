@@ -7,6 +7,7 @@ snippet: "Civic plaza fronting Mexicali's three branches of state government"
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 The Plaza de los Tres Poderes is Mexicali's civic centre — a long open plaza fronting the buildings of Baja California's executive, legislative, and judicial branches. The architecture is austere mid-century modernist with concrete plazas, fountains, and large open paving. It is not pretty in a postcard sense, but it gives a sense of Mexicali's role as a state capital that resists being just a border town.

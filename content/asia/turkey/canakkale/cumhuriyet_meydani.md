@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Çanakkale's main square and the seafront promenade where the town spends its evenings"
+score: 6.8
 ---
 
 Cumhuriyet Meydanı (Republic Square) is the heart of central Çanakkale, anchored by an Atatürk monument and surrounded by cafes, ice-cream parlours, and bookshops. The waterfront promenade runs east from here along the strait — past the famous Trojan Horse, the ferry pier, and a row of seafront tea gardens — and continues west to Çimenlik Castle.

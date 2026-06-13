@@ -6,6 +6,7 @@ longitude: 73.4683
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Guraidhoo is a small inhabited island in the southern part of South Malé Atoll with a developing local guesthouse scene. It's quieter than Maafushi and feels more like a real Maldivian village. The island has a channel nearby that is one of the best snorkelling spots in the atoll — sea turtles are resident here and almost guaranteed on a morning snorkel.

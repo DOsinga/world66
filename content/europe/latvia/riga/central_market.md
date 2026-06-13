@@ -9,6 +9,7 @@ tags:
   - market
 title: Riga Central Market
 type: poi
+score: 9.0
 ---
 
 The Riga Central Market (Rīgas Centrāltirgus) is one of the largest and most impressive food markets in Europe. It occupies five enormous arched hangars that were originally built during the First World War to house German military Zeppelins and were transported to Riga after the war. Each hangar is dedicated to a different category: meat, dairy, fish, produce, and a general goods hall.

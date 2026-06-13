@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -6.128
 longitude: 12.358
+score: 6.1
 ---
 
 The Atlantic coastline north and south of Soyo offers stretches of wild beach, largely undeveloped and mostly empty. The sea here can be rough, with strong currents common where the Congo's outflow meets the ocean — swimming is not recommended — but the beaches are worth visiting for the scenery. The mixture of river sediment and ocean gives the water a distinctive brown colour close to shore, gradually fading to blue further out.

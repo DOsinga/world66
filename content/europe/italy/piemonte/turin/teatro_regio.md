@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0716
 longitude: 7.6878
+score: 7.8
 ---
 
 Turin's opera house. The original 1740 Benedetto Alfieri building survived two centuries until a 1936 fire gutted the auditorium; what you see today is a daring 1973 redesign by Carlo Mollino that has aged into a classic of post-war Italian architecture — a futuristic ruby-and-gold cavern under a 1,200-bulb cluster chandelier.

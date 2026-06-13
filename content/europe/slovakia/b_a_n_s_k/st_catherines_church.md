@@ -8,6 +8,7 @@ latitude: 48.4590
 longitude: 18.8926
 sources:
   - https://en.wikipedia.org/wiki/St._Catherine%27s_Church,_Bansk%C3%A1_%C5%A0tiavnica,_Slovakia
+score: 7.8
 ---
 
 St. Catherine's Church is a late Gothic church in the heart of Banská Štiavnica's historic district, built in the fifteenth century during the height of the town's silver-mining prosperity. The exterior is modest — the narrow streets around it limit the view — but the interior contains remarkable late medieval frescoes and carved stone details that survived the religious turbulence of the Reformation relatively intact.

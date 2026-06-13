@@ -8,6 +8,7 @@ tags:
 - books
 title: A Revolution Aborted
 type: poi
+score: 7.7
 ---
 
 A collection of essays examining the 1979-83 Grenadian revolution and the American invasion that ended it. Essential reading for understanding why Grenada's recent history feels so present — the events shaped the island's politics, its relationship with the United States, and the way Grenadians think about their own identity.

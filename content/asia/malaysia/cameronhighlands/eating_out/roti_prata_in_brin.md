@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Roti Prata in Brinchang
 type: poi
+score: 6.4
 ---
 
 Brinchang has a couple of roti prata stalls where you can watch the whole show — traditional sarong-wearing cooks flipping and whipping dough on a hot griddle until it puffs up crispy and golden. The process is as entertaining as the result is delicious.

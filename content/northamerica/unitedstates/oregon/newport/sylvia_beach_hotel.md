@@ -14,6 +14,7 @@ story: >
   Hotel Gilmore and later the New Cliff House — and was rescued from
   closure in the 1980s by two booksellers who turned every room into a
   tribute to a different writer.
+score: 7.2
 ---
 
 The Sylvia Beach Hotel is a weathered cliff-top hotel above Nye Beach, famous less for its rooms than for its premise: twenty bedrooms each decorated as a tribute to a particular author. Agatha Christie's room has a body outline in chalk on the floor; Edgar Allan Poe's has a pendulum and a stuffed raven; Dr. Seuss's is striped in red and blue.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.0667
 longitude: 167.4833
+score: 6.6
 ---
 
 A small island just off the northeast coast of Malakula, used as a port of call by South Pacific cruise ships. On non-cruise days it is a quiet village with a long beach and a friendly population accustomed to outside visitors.

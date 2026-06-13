@@ -10,6 +10,7 @@ latitude: 37.1307
 longitude: -6.4847
 story: >
   El Rocío's village streets are deliberately kept unsurfaced — packed sand and earth rather than tarmac. The officially stated reason is tradition, but the effect is that the marsh horses who wander through the village find the ground familiar under their hooves, and the whole place feels suspended somewhere between the Middle Ages and the wild Doñana beyond.
+score: 9.0
 ---
 
 El Rocío sits directly beside one of Doñana's permanent lagoons, and the view from the village edge is one of the finest free wildlife spectacles in Europe. Flamingos feed in the shallows, spoonbills wade through the reeds, and in winter the lagoon fills with ducks and waders in extraordinary numbers. The Doñana National Park — a UNESCO World Heritage Site and Ramsar wetland — begins effectively at the end of the village boardwalk.

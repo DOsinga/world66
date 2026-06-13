@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8820
 longitude: 125.3180
+score: 7.2
 ---
 
 Changchun's Confucian Temple (Wenmiao) is a Qing-dynasty foundation serving the city's traditional scholarly and ceremonial life. The temple follows the standard Confucian complex layout with a main hall housing the tablets of Confucius and the canonical sages, flanked by subsidiary halls and a front courtyard planted with traditional trees.

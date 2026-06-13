@@ -7,6 +7,7 @@ tags:
 latitude: 47.6580
 longitude: -2.7582
 snippet: Breton fine arts in a medieval market hall and courthouse
+score: 7.3
 ---
 
 La Cohue was the main market hall and law court of medieval Vannes, a large covered building where trades were transacted and judgements were handed down simultaneously. Today it houses the Musée des Beaux-Arts, a modest but well-presented collection of paintings, engravings, and sculpture with a strong focus on Breton art and artists from the nineteenth and twentieth centuries.

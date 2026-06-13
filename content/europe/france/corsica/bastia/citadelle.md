@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 42.6920
 longitude: 9.4520
 story: "The Genoese governors of Corsica built their citadel at Bastia on a promontory that falls steeply to the sea on three sides — an almost impregnable position that they defended successfully for over four centuries. Inside the walls, the residential quarter of Terra Nova developed as a neighbourhood exclusively for the Genoese ruling class, while ordinary Corsicans lived in the lower town below. The social separation is still legible in the architecture: the buildings inside the citadel are taller, better-built, and more formal than those in the medieval lanes below."
+score: 8.6
 ---
 
 The Citadelle — known in Corsican as Terra Nova (New Land) — is the upper fortified quarter of Bastia, built by the Genoese in the 15th century on a steep rocky headland above the Vieux Port. The main gate, the Porte Louis XVI, leads into a compact but handsome residential neighbourhood of stone palaces and paved alleys quite different in character from the terra vecchia below.

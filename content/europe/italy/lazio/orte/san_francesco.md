@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4614
 longitude: 12.3859
+score: 6.3
 ---
 
 San Francesco stands on Piazza Senatore Manni in the heart of the historic centre, a Baroque rebuild of an older Franciscan church. The facade is restrained — flat pilasters and a simple pediment — but inside the nave is decorated with eighteenth-century stucco work and altar paintings by local masters.

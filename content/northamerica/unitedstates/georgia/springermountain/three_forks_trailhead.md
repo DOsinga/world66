@@ -6,6 +6,7 @@ longitude: -84.1742
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The shortest practical route to the Springer summit starts here, at the Three Forks parking area on Forest Service Road 58, where Long Creek, Chester Creek, and Stover Creek meet. The walk from the lot to the summit is about a mile via the Appalachian Trail itself, with around 800 feet of elevation gain.

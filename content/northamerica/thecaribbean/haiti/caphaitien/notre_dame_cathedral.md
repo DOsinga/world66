@@ -12,6 +12,7 @@ story: >
   rule and was once called "the Paris of the Antilles" — wealthier and more elegant than 
   most colonial cities in the Caribbean. The earthquake erased much of that elegance in 
   minutes.
+score: 7.4
 ---
 
 The Cathedral of Our Lady of the Assumption — Notre-Dame de l'Assomption — is the Catholic cathedral of Cap-Haïtien and the seat of the Archdiocese. The current building replaced a predecessor destroyed in the great earthquake of 1842. It stands on the main square of the city, a neoclassical structure with twin towers that has been the religious and civic anchor of Cap-Haïtien since the nineteenth century.

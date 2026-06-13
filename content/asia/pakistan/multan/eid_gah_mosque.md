@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Shahi Eid Gah Mosque
 type: poi
+score: 8.1
 ---
 
 The **Shahi Eid Gah Mosque**, built in 1735 by Nawab Abdul Samad Khan when he was governor of Multan, stands on the northeastern edge of the walled city beside the old Lahore road. It is a large open-air *eidgah* — a courtyard mosque used for the great communal prayers at the two Eid festivals — with a long prayer chamber of seven domes facing west across a vast paved yard. The exterior was originally faced entirely in glazed blue tile and the interior dressed with **kashi-kari** floral mosaics, the best of which still survive in patches.

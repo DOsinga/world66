@@ -9,6 +9,7 @@ story: The wax anatomical models of Anna Morandi Manzolini, made in the 1750s, a
 tags:
 - things_to_do
 - museum
+score: 7.8
 ---
 
 The Palazzo Poggi houses the museums of the University of Bologna. The university's old eighteenth-century cabinets of physics, military architecture, navigation, natural history, and anatomy have been kept largely intact, so a visit feels like a walk through Enlightenment science as it was practised — globes, terrestrial models, ship cutaways, mineral collections, and the famous anatomical waxes of Ercole Lelli and Anna Morandi Manzolini.

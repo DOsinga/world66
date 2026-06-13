@@ -10,6 +10,7 @@ tags:
   - historic
 title: Erwang Temple
 type: poi
+score: 7.6
 ---
 
 Erwang Temple — the Temple of the Two Kings — stands on a wooded hillside directly above the Dujiangyan irrigation works, connected to the site by a covered walkway and suspension bridge. It was built to honour Li Bing and his son Er Lang, the father-and-son engineers credited with designing and supervising the irrigation system. The original structure dates to the fourth or fifth century; the current buildings are Qing-dynasty reconstructions.

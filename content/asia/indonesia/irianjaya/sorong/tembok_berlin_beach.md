@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -0.8736
 longitude: 131.2906
+score: 5.7
 ---
 
 Tembok Berlin — literally "Berlin Wall" — is a long concrete seawall lining a stretch of beach on the eastern edge of Sorong. The name comes from the wall itself, which separates the road from the shore. Locals come here in the late afternoon to escape the heat, fish from the wall, and watch the sun set across the strait.

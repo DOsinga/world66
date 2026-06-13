@@ -9,6 +9,7 @@ latitude: 36.6437
 longitude: -93.2149
 sources:
   - https://en.wikipedia.org/wiki/Branson_Scenic_Railway
+score: 7.0
 ---
 
 The Branson Scenic Railway runs heritage train excursions from the old downtown depot, heading into the Ozark foothills on routes that vary by operating conditions. It is one of the gentler Branson attractions, better suited to scenery than adrenaline.

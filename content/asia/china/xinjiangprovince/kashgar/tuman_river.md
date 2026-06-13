@@ -8,6 +8,7 @@ latitude: 39.4875
 longitude: 75.9676
 sources:
   - https://en.wikipedia.org/wiki/Tuman_River
+score: 6.4
 ---
 
 The Tuman River flows along the northern edge of Kashgar's old city, and the riverside path makes for a pleasant walk away from the bustle of the bazaar lanes. The embankment has been landscaped with benches and small gardens, and in the evening families stroll here in the cool air. The views back toward the old town are among the best in the city.

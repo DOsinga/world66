@@ -7,6 +7,7 @@ tags:
 snippet: "August through April: the auroral oval sits roughly over Inuvik"
 latitude: 68.36
 longitude: -133.72
+score: 8.7
 ---
 
 Inuvik sits more or less directly under the auroral oval, which makes it one of the best places on earth to see the northern lights. The season runs from late August (when the sun starts setting again) through to mid-April. The lights themselves are present most clear nights; the question is whether the sky is cloud-free and whether the magnetic activity is high enough to bring them to a strong display.

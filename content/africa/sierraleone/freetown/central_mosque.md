@@ -10,6 +10,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4919
 longitude: -13.2328
+score: 6.2
 ---
 
 The Central Mosque is the principal Sunni mosque of Freetown and one of the city's most visible religious buildings — a large, modern, green-and-white structure on the side of the central ridge. About a fifth of Sierra Leoneans are Muslim, and the surrounding streets are correspondingly busy on Fridays.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8225
 longitude: 107.5847
+score: 7.4
 ---
 
 The Odigitrievsky Cathedral is Ulan-Ude's oldest stone building, completed in 1785 and one of the finest examples of Siberian Baroque outside Irkutsk. Its layered, almost wedding-cake silhouette of white walls and green roofs stands above the Uda river just below the city centre.

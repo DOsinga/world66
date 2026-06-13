@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.9
 ---
 
 Arenzano's seafront promenade runs the length of the town, lined with pastel-painted apartment blocks, ice cream kiosks, and a string of small private beach clubs (bagni). It is one of the most pleasant evening walks on the western Riviera, especially at sunset when the cliffs of Cape San Martino light up to the east.

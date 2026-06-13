@@ -8,6 +8,7 @@ story: >
   On 15 August 1944, Allied forces landed on the beaches west of Toulon as part of Operation Dragoon — the invasion of southern France that Churchill opposed and Roosevelt overruled. The memorial at the summit records the liberation of Toulon that followed, and the view from the top takes in the same harbour approaches that the fleet navigated eighty years ago.
 sources:
   - https://en.wikipedia.org/wiki/Mont_Faron
+score: 8.8
 ---
 
 Mont Faron is the 584-metre mountain that rises directly above Toulon, and the cable car up to the summit is the single best thing to do in the city. The view from the top takes in the entire natural harbour — one of the finest in the Mediterranean — with the fleet at anchor, the city spread below, and on clear days the coastline stretching east toward Saint-Tropez and west toward Marseille.

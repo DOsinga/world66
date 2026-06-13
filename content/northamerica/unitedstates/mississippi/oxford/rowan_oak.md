@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The outline of *A Fable*, Faulkner's 1954 novel, is written in pencil and red crayon directly on the plaster walls of his study at Rowan Oak — a working day-by-day map of the book. The Pulitzer-winning manuscript took eleven years to finish; the wall notes are the only one of his outlines that survives. Faulkner asked his housekeeper Mammy Callie not to wipe them away; they have been preserved untouched since 1962."
+score: 9.4
 ---
 
 Rowan Oak is William Faulkner's home from 1930 until his death in 1962 and the most important literary house in the American South. Built around 1844 in the Greek Revival style, the building was a near-ruin when Faulkner bought it for $6,000 and spent decades restoring and extending it — most of the work he did himself, learning carpentry, plumbing, and farming as he went. The University of Mississippi has owned the house since 1972 and keeps it almost exactly as he left it.

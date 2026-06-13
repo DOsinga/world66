@@ -11,6 +11,7 @@ tags:
 - book
 title: A-Z of Barbados
 type: poi
+score: 5.9
 ---
 
 Macmillan Caribbean A-Z's are a comprehensive series of reference books that provide an invaluable and entertaining source of information to the countries that comprise the Caribbean region. Highly-illustrated and in full-colour throughout, they are a unique "one-stop" resource to the cultural heritage of a fascinating and richly diverse part of the world.

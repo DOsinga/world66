@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.5933
 longitude: 103.5340
+score: 6.2
 ---
 
 The Serendipity Pier at the northern end of Ochheuteal Beach is the main departure point for boats out to the islands of Koh Rong and Koh Rong Sanloem. A line of ferry operators sells tickets from kiosks on the pier; departures run several times a day in season, less frequently in the rainy months.

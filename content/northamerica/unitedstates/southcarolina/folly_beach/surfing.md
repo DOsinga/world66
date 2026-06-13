@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sport, swimming]
 latitude: 32.6527
 longitude: -79.9405
+score: 8.7
 ---
 
 Folly Beach is the closest surf spot to Charleston and the most popular in South Carolina, with consistent small waves year-round and occasional larger swells from Atlantic storms in late summer and autumn. The breaks on either side of the pier are the most reliable, though the beach along the southwest end of the island can also be good when the wind is right.

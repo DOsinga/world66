@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.8867
 longitude: 100.4964
+score: 7.1
 ---
 
 Wat Chomphuwek is a riverside Buddhist temple on Sanam Bin Nam Road in the Tha Sai subdistrict, notable for its collection of unusual temple architecture and for housing an important Mon-style ubosot (ordination hall). The temple belongs to the Mahanikaya sect and has an active community of monks.

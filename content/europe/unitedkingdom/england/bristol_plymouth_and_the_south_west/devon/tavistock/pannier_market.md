@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 50.5499
 longitude: -4.1462
+score: 7.7
 ---
 
 The Pannier Market is the social and commercial heart of Tavistock. Built in 1857 on the orders of the seventh Duke of Bedford as part of his rebuilding of the town centre, it is a handsome stone-and-glass hall behind a granite arcade on Bedford Square. Markets have been held on this spot since the abbey days, with a charter granted by Henry I.

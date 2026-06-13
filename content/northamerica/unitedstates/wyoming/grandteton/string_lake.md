@@ -7,6 +7,7 @@ tags:
   - lake
 title: String Lake
 type: poi
+score: 6.9
 ---
 
 String Lake is shallow, scenic, and popular with families, paddlers, and hikers heading toward Leigh Lake. The water is warmer than many of the deeper lakes, though still mountain-cold by normal standards.

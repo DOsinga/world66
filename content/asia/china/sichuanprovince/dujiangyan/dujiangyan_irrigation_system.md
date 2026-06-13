@@ -17,6 +17,7 @@ story: >
   with a fish-mouth island, then regulating it through an angled spillway cut
   through solid rock — worked so well that it has required only maintenance,
   never replacement, for over two millennia.
+score: 9.4
 ---
 
 The Dujiangyan Irrigation System is one of the oldest hydraulic engineering projects in the world still in operation. Built in 256 BC by Li Bing, the Qin-dynasty governor of Shu, it diverts the fast-flowing Min River into an inner channel feeding the Chengdu Plain and an outer channel for flood management. No dam wall was ever used — the system relies entirely on the geometry of the diversion, a brilliance that meant it survived the 2008 earthquake largely intact while modern Zipingpu Dam upstream suffered significant damage.

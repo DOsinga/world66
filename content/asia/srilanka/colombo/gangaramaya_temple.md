@@ -16,6 +16,7 @@ tags:
 title: Gangaramaya Temple
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 8.4
 ---
 
 Gangaramaya is the most photographed religious site in Colombo and one of the most visited in Sri Lanka. Founded in the late 19th century beside the Beira Lake, it has grown over the decades into a sprawling complex of temples, a museum-like collection hall, and a library. The collection inside is extraordinary — thousands of donated objects spanning multiple centuries and countries, from priceless Buddha statues to vintage cars, elephant howdahs, and Buddhist artifacts from across Asia and Japan.

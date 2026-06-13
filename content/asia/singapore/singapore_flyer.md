@@ -14,6 +14,7 @@ tags:
 title: Singapore Flyer
 type: poi
 url: www.singaporeflyer.com.sg
+score: 6.5
 ---
 
 At 165 metres, the Singapore Flyer was one of the world's largest observation wheels when it opened in 2008. Each air-conditioned capsule holds about 28 people and takes roughly 30 minutes to complete one full rotation. On a clear day the views extend across Marina Bay to the downtown towers, and on a very clear day you can see into Malaysia and Indonesia.

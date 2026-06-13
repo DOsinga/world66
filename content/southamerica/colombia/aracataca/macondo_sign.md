@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The mural at the entrance to town, fixing Aracataca as the real Macondo
+score: 4.7
 ---
 
 The town's entrance sign — "Aracataca, donde el mundo se llama Macondo" (where the world is called Macondo) — sits at the southern edge of town and is the obligatory photograph for any literary visitor. The mural behind it shows yellow butterflies and the chestnut tree from the novel.

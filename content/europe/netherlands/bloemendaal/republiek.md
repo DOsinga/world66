@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - beach
+score: 5.6
 ---
 
 Republiek is the standard-bearer for the harder, more club-oriented end of the Bloemendaal aan Zee scene — DJs on a serious sound system from early afternoon, dance floor on the sand, dress code edging from beachwear toward weekend-out. The seasonal pavilion sits a few buildings down from Woodstock, with the same view of the beach but a markedly different crowd.

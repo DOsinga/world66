@@ -8,6 +8,7 @@ tags:
 - sight
 title: Woody Guthrie Folk Festival
 type: poi
+score: 8.3
 ---
 
 Held over four days around Guthrie's birthday in mid-July, WoodyFest is a free, volunteer-run festival that takes over much of downtown Okemah. Main concerts happen at the Crystal Theatre and the Pastures of Plenty outdoor stage; impromptu jams break out on every porch and bar patio in town from morning to night.

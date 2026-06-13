@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.5000
 longitude: 47.8100
+score: 7.8
 ---
 
 The Ashar district is Basra's historic commercial heart, and its bazaar — a dense network of covered lanes and open-fronted shops — is one of the most atmospheric in Iraq. The market stretches for several blocks behind the Corniche, selling everything from spices and textiles to electronics and household goods. The streets are narrow and overhung in places by traditional wooden-balconied buildings that survive in various states of repair.

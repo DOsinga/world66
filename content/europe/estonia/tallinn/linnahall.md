@@ -12,6 +12,7 @@ story: >
   Linnahall was built for the 1980 Moscow Olympics sailing events, which were held in Tallinn Bay. It was one of the last large Soviet public projects in Estonia before independence, designed by Raine Karp in a deliberately monumental style — 20,000 seats, massive concrete terracing, an indoor arena. It hosted concerts through the 1990s but was closed in 2009. The cost of renovation has prevented any redevelopment, and it has been slowly crumbling, unloved and spectacular, ever since.
 sources:
   - https://en.wikipedia.org/wiki/Linnahall
+score: 7.9
 ---
 
 Linnahall is a vast concrete amphitheatre on the Tallinn waterfront, built for the 1980 Moscow Olympic sailing events and now standing empty and slowly decaying. The building is enormous — a stepped pyramid of grey concrete terracing that rises from the harbour side — and its state of semi-ruin has made it one of the more compelling sights in the city for anyone interested in Soviet-era architecture or the aesthetics of beautiful decay.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.6886
 longitude: -75.2206
+score: 7.0
 ---
 
 The local history museum of the Northampton County Historical and Genealogical Society, housed in a converted 1900s commercial building on South 4th Street. The collection covers Lenape Native American material, colonial-era domestic life, the Industrial Revolution in the Lehigh Valley, and the immigration waves — German, Italian, Eastern European — that shaped the region.

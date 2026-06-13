@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Tagdilt Track
 type: poi
+score: 7.1
 ---
 
 A dusty piste running south from Boumalne across the stony desert toward the Jbel Saghro, the Tagdilt Track has been a pilgrimage spot for European birdwatchers since the 1970s. The reason is simple: it is one of the best places in Morocco to see four species of desert larks (Temminck's, thick-billed, hoopoe, and bar-tailed) in a single morning, along with cream-coloured coursers, trumpeter finches, red-rumped wheatears, and sandgrouse coming to water.

@@ -8,6 +8,7 @@ tags:
 latitude: -34.5975
 longitude: -58.3783
 address: Libertad 1161, Recoleta/Microcentro
+score: 5.9
 ---
 
 A serious cocktail bar and wine bar in a narrow Recoleta building, run as a sophisticated small space with good-quality drinks and a kitchen that serves small plates until late. The wine list focuses on Argentine producers and is arranged by region — Mendoza, Patagonia, Salta, and the lesser-known provinces — with genuinely helpful descriptions. The cocktails are well-made and not over-complicated.

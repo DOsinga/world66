@@ -8,6 +8,7 @@ tags:
 latitude: 51.1528
 longitude: 14.9876
 story: "After the original Kaufhaus Görlitz closed in the 1990s, the building sat empty for years, deteriorating slowly. Its salvation came partly from Hollywood: the ornate Art Nouveau interior was used as a filming location for several movies, including Wes Anderson's The Grand Budapest Hotel, and the resulting international attention helped drive the restoration effort that eventually returned it to use."
+score: 8.5
 ---
 
 The Görlitz Department Store (Kaufhaus) on Berliner Strasse is one of the finest surviving examples of German Jugendstil (Art Nouveau) commercial architecture, built in 1912-13 by the architect Carl Schmanns. The building's facade is elaborately decorated with ceramic tiles, figurative sculpture, and ornate ironwork, and the interior atrium — with its Art Nouveau staircase and glass ceiling — is breathtaking.

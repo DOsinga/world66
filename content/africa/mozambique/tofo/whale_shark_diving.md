@@ -11,6 +11,7 @@ longitude: 35.555
 snippet: Tofo Bay's famous whale sharks — one of the highest concentrations on earth
 story: >
   A 2008 marine survey estimated that Tofo Bay hosts one of the largest aggregations of whale sharks in the world, with population estimates suggesting dozens of individual sharks return to the bay year after year. Researchers have identified individuals by their spot patterns — unique as fingerprints — and tracked some of the same sharks returning for over a decade.
+score: 9.5
 ---
 
 Tofo Bay holds one of the densest concentrations of whale sharks anywhere on earth. From October to March, seasonal plankton blooms draw these enormous fish — the largest in the ocean, reaching 12 metres and more — to the surface, where they feed with their vast mouths open. Several established dive centres run daily excursions to snorkel or dive alongside them.

@@ -8,6 +8,7 @@ tags:
   - centro_storico
   - sight
   - architecture
+score: 5.6
 ---
 
 The Church of San Rocco is a small devotional stop in Locorotondo’s old centre, dedicated to the plague saint whose cult appears all over southern Italy. It is easy to miss if you are only hunting for viewpoints.

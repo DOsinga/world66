@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.8
 ---
 
 The Madonna di San Luca sits on the wooded hill of Colle della Guardia, 280 metres above the southwest edge of the city. The Byzantine-style icon inside, said to have been painted by Saint Luke himself, has been the city's protector since the twelfth century. Every year at Ascension the icon is carried in procession down the portico into Bologna, where it stays in the cathedral for a week before being returned.

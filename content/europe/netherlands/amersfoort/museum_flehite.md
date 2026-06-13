@@ -18,6 +18,7 @@ title: Museum Flehite
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Museum_Flehite
+score: 8.1
 ---
 
 The regional history museum of Amersfoort and the Eemland region, housed in three beautifully preserved medieval canal houses on the Westsingel. The collection spans Roman times through the Middle Ages and up to the twentieth century — well-organised and accessible even without Dutch. The star exhibit is a section on the Amersfoort Kei (Stone), a legendary glacial boulder that became a symbol of the city. Don't miss the medieval town scale model in the basement that shows just how little the street plan has changed in 600 years.

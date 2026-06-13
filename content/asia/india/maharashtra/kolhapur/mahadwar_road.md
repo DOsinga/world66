@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 16.7010
 longitude: 74.2340
+score: 6.9
 ---
 
 The street leading to the Mahalakshmi Temple is the place to buy Kolhapuri chappals — the hand-stitched leather sandals that have been made in this city for centuries. The workshops and shops along this road (and in the surrounding lanes) produce the genuine article: thick vegetable-tanned leather, hand-punched geometric patterns, and a construction method that produces sandals lasting years with proper care.

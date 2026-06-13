@@ -9,6 +9,7 @@ title: Dosa Corner
 type: poi
 neighbourhood: BKK1
 snippet: Tamil South Indian vegetarian stalwart in BKK1
+score: 3.8
 ---
 
 A no-frills South Indian vegetarian restaurant on Street 51, run by the same family for two decades and beloved by the city's Indian and Sri Lankan community. The thali plates, served on banana leaves at lunchtime, are the standout — a heap of rice surrounded by curries, sambar, rasam, pickle and yoghurt for around four dollars.

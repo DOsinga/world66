@@ -15,6 +15,7 @@ story: >
   paintings that form one of the best Impressionist holdings in Germany.
 sources:
   - https://en.wikipedia.org/wiki/Museum_Barberini
+score: 8.9
 ---
 
 The Museum Barberini is one of the best art museums in the wider Berlin region, housed in a purpose-built reconstruction of the 18th-century Palais Barberini on the Old Market Square. The building was destroyed in World War II and stood as a ruin through the East German era; its rebuilding and conversion into a museum was funded by Hasso Plattner, co-founder of SAP, who donated both the building and his art collection.

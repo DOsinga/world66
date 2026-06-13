@@ -16,6 +16,7 @@ story: >
   over a thousand people, including Sitting Bull and Annie Oakley — was the
   most-watched live entertainment in the world. The mansion was built in 1886
   and still contains original furnishings.
+score: 8.1
 ---
 
 Scout's Rest Ranch, about five kilometres west of downtown, was the home of William F. "Buffalo Bill" Cody from 1886 until his death in 1917. The property is now a Nebraska state historical park centred on Cody's Victorian mansion and the original barn that hosted early rehearsals of his Wild West show.

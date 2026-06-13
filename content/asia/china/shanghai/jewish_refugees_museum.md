@@ -2,6 +2,7 @@
 category: Museum
 latitude: 31.2531
 longitude: 121.5039
+score: 8.1
 snippet: On the site of the Hongkew ghetto where 20,000 Jews escaped the Holocaust
 story: From 1938 to 1941, Shanghai was the only major port in the world that required
   no visa to enter — which made it a haven of last resort for some 20,000 Central
@@ -12,8 +13,6 @@ tags:
 - things_to_do
 - museum
 - hongkou
-title: Shanghai Jewish Refugees Museum
-type: poi
 ---
 
 A small museum in the restored Ohel Moshe Synagogue, in the Hongkou neighbourhood north of Suzhou Creek. It tells the story of how Shanghai — being a "free port" without immigration controls from 1938 to 1941 — became one of the few places in the world that would accept Jews fleeing Nazi Europe.

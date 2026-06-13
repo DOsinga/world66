@@ -8,6 +8,7 @@ latitude: 10.9850
 longitude: 76.9200
 story: >
   The temple's inner sanctum houses one of the largest Nataraja (dancing Shiva) bronzes in Tamil Nadu — a bronze image so finely cast that it was taken to Paris for the 1900 World Exhibition, where it was admired by European sculptors. Auguste Rodin reportedly called it "the perfect equilibrium of movement and repose."
+score: 7.7
 ---
 
 Perur Pateeswarar Temple is one of the oldest Shiva temples in Tamil Nadu, with inscriptions dating to the Chola period (9th–13th centuries), though the current structure was largely built by the Vijayanagara kings in the 16th century. The temple stands about 6 km west of the city centre in the suburb of Perur, and its gopuram (entrance tower) is visible from a distance across the flat land.

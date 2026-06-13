@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.6
 ---
 
 Smuggler's Cove sits at the very western tip of Tortola, reached by a rough unpaved track that puts off most casual visitors. The reward is one of the loveliest beaches in the BVI — a short, sheltered curve of white sand backed by sea grape trees, with crystal water and almost nobody on it most days. The reef in front of the beach is good for snorkelling.

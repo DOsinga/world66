@@ -7,6 +7,7 @@ tags:
 latitude: 65.0172
 longitude: 25.4672
 story: "The castle was destroyed in 1793 when its powder magazine was struck by lightning and exploded. The remains were turned into a public observation tower in 1875, then a cafe. A small ruin of the original castle wall still survives at the foot of the present cafe tower."
+score: 6.7
 ---
 
 The remains of the 16th-century castle that gave Oulu (in Swedish, Uleåborg — "the castle on the Ule") its name. The Swedish Crown built the castle around 1590 to defend the eastern frontier against Russia; it was destroyed by a lightning strike in 1793 and never rebuilt.

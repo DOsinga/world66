@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Museum_of_Tomorrow
 story: >
   The museum was conceived as the centrepiece of Rio's Porto Maravilha urban regeneration project, which transformed the city's derelict port zone ahead of the 2016 Olympics. Designed by Spanish architect Santiago Calatrava, the building's solar panels and fins move to track the sun, reducing energy consumption — a live demonstration of the sustainable themes explored inside.
+score: 7.4
 ---
 
 The Museu do Amanhã is a science museum focused on humanity's future, designed by Santiago Calatrava and opened in 2015 on the revamped waterfront of the Porto Maravilha district. The building is spectacular: a long white structure with moving solar fins and a reflecting pool, projecting over Guanabara Bay like a white egret about to take flight.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2882
 longitude: -97.7423
+score: 6.7
 ---
 
 Guadalupe Street along the west edge of the University of Texas campus has been known as "The Drag" since at least the 1960s — a dense strip of student-oriented restaurants, bookshops, coffeehouses, and independent businesses that serves both the UT community and the adjacent residential neighbourhoods.

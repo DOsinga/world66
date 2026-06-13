@@ -9,6 +9,7 @@ longitude: -121.3138
 snippet: "Oregon's iconic craft brewery, founded in Bend in 1988"
 sources:
   - https://en.wikipedia.org/wiki/Deschutes_Brewery
+score: 7.2
 ---
 
 Deschutes Brewery was founded in Bend in 1988 and helped establish the city's reputation as a craft beer destination before that was even a phrase. The original brewpub on Bond Street is still there — a lively, loud, welcoming place with long communal tables and a menu of burgers and pub food designed to go with beer. The Black Butte Porter and Mirror Pond Pale Ale are the classics; seasonal releases are worth trying when available.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.5798
 longitude: 77.0221
+score: 7.9
 ---
 
 Shasur Gompa sits about 3 kilometres from Keylong on a rocky spur above the Bhaga valley, surrounded by a grove of blue pine trees that makes it unusual and scenic even from a distance. The name "Shasur" means "new monastery," though it is anything but recent — it was founded in the 17th century. The monastery belongs to the Gelugpa school (the same school as the Dalai Lama) and has a small but active community.

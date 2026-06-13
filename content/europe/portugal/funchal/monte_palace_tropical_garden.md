@@ -6,6 +6,7 @@ latitude: 32.6680
 longitude: -16.9007
 story: >
   The garden is built on the grounds of a hotel that went spectacularly bankrupt after a single season in the 1920s. The owner had bet that aristocratic Europeans would flock to Monte for the mountain air; they didn't. The building sat empty for decades before being bought by businessman José Berardo and transformed into one of the great gardens of the Atlantic islands.
+score: 9.2
 ---
 
 Monte Palace Tropical Garden is the most spectacular garden on Madeira — which is saying something on an island where things grow with subtropical enthusiasm at every altitude. The garden covers 70,000 square meters on steep terraced hillsides above Funchal, and contains plants from five continents, 100,000 cycads and tree ferns, a collection of azulejo panels depicting Portuguese history, an African art museum, and a mineral and gem collection of unlikely size.

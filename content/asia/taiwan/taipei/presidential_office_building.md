@@ -10,6 +10,7 @@ tags:
 title: Presidential Office Building
 type: poi
 url: https://www.president.gov.tw
+score: 8.0
 ---
 
 The Presidential Office Building is one of the grandest pieces of Japanese-era architecture in Taipei: a five-storey red-and-white brick palace with a central clock tower, designed by Uheiji Nagano and completed in 1919 as the headquarters of the Japanese colonial government. After 1949 it was repurposed as the seat of the Republic of China government in exile, a role it still holds.

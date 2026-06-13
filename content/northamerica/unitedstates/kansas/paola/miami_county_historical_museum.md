@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Local history museum in a restored downtown commercial block
+score: 7.2
 ---
 
 The Miami County Historical and Genealogical Museum occupies a restored 1880s commercial building a block off Park Square. The collection tells the story of Miami County from the Wea, Peoria, and Miami peoples who lived here before removal (the town's name comes from the Peoria word for the Wea), through the violent Kansas–Missouri border-war years of the 1850s, to the railroad-era farming boom and the 20th century.

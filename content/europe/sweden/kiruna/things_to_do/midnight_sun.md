@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 67.8750
 longitude: 20.2222
+score: 7.8
 ---
 
 From late May to mid-July, the sun never sets in Kiruna. The midnight sun is not simply "it stays light" — it is genuinely strange and disorienting in ways photographs rarely capture. At 2am the light is golden and long-shadowed, identical to early evening or late morning, and the birch trees are in full leaf, and the temperature is reasonable. Darkness never comes, and your body takes several days to adjust.

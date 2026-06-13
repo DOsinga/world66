@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.1614
 longitude: 1.5669
+score: 6.8
 ---
 
 Valençay cheese is one of the most distinctive products of the Loire Valley — a small, truncated pyramid of aged goat's milk cheese with an ash-grey rind and a creamy, lightly tangy interior. It carries its own AOC designation, which means it must be made within a defined zone of the Berry and Touraine using the milk of local goats.

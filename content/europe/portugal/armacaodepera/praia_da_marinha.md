@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "Praia da Marinha was named by the Michelin Guide as one of the ten most beautiful beaches in Europe, and the limestone arches just offshore — the so-called M Rocks — have been the favourite postcard image of the central Algarve since the 1980s."
+score: 9.0
 ---
 
 Praia da Marinha is one of the most photogenic beaches on the Algarve coast, a small cove framed by yellow limestone cliffs and a sea-arch standing in the water just offshore. It is reached by a steep set of steps down from the clifftop car park.

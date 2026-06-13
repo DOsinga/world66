@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: "The whitewashed Portuguese-era church that anchors the village."
+score: 6.5
 ---
 
 Tucked back from the main road in the heart of old Candolim village, Our Lady of Hope is the parish church and the historic centre of the place that became a beach resort. It was first built in 1661 and rebuilt in the 19th century in the typical Goan-Portuguese style — bright whitewashed walls, blue trim, and a small forecourt.

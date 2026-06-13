@@ -9,6 +9,7 @@ tags:
 snippet: "Bundaberg's coastal community — beaches, basalt headlands, fringing reef"
 latitude: -24.8181
 longitude: 152.4631
+score: 7.3
 ---
 
 Bargara is the seaside town fifteen kilometres east of Bundaberg, where most locals own a holiday house or know someone who does. The shoreline alternates between sandy beaches (**Nielson Park**, **Kelly's Beach**) and black basalt headlands eroded into shelves and rock pools.

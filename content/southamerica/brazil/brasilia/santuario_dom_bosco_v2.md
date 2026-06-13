@@ -7,6 +7,7 @@ snippet: Small wild park with maned wolves in the south of the city
 tags:
 - things_to_do
 - park
+score: 5.5
 ---
 
 The Parque Ecológico Bosque dos Constituintes (informally "Mariposa", after a stream that flows through it) is a small protected pocket of Cerrado in the south of the Pilot Plan with a population of maned wolves (*lobo-guará*), Brazil's largest canine. Several of the resident wolves are habituated to people and can occasionally be seen near the trail heads in the early evening.

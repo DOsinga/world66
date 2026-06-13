@@ -6,6 +6,7 @@ longitude: 96.4700
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 On the outskirts of Bago, the Hmwe Paya — known to travellers as the Snake Monastery — is a small pagoda complex built around a very large and very old Burmese python. The python lives in an enclosure within the shrine, adorned with a gold necklace and small jewelled ornaments, and is regarded by the local community as the reincarnation of a revered abbot who once presided over the monastery. The monks care for it, worshippers leave offerings, and the animal has become the spiritual centre of the place.

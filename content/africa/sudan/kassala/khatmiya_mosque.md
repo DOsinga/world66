@@ -7,6 +7,7 @@ latitude: 15.4500
 longitude: 36.4030
 story: >
   Locals will tell you that the roof of the mosque was either smashed in a rockfall from the mountain or destroyed by British shells during the late 19th-century Anglo-Egyptian campaigns — and that the holy power of Sayyid Hassan, buried in the adjoining tomb, has prevented rain from falling through the opening ever since. Whether the building has actually never leaked is unverifiable, but the story is part of the local sense of the place.
+score: 8.4
 ---
 
 Khatmiya is the oldest neighbourhood of Kassala and the historical headquarters of the Khatmiyya Sufi brotherhood, founded in the early 19th century. The mosque sits dramatically against the base of Jebel Taka, with one wall continuing into the natural rock face. It is roofless, by design or accident depending on who you ask, and visitors are welcome inside if they are dressed modestly.

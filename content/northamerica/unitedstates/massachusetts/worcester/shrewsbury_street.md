@@ -8,6 +8,7 @@ tags:
 title: Shrewsbury Street
 type: poi
 snippet: Worcester's restaurant row, originally the Italian quarter
+score: 6.9
 ---
 
 Shrewsbury Street runs east from the train station out toward Lake Quinsigamond, and the stretch closest to downtown is the city's main restaurant strip. The street was the heart of Italian Worcester in the early 20th century — the neighbourhood is still informally called the Italian East Side — and many of the long-standing restaurants here are Italian-American family-run places.

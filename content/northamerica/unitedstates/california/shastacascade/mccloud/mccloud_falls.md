@@ -7,6 +7,7 @@ tags:
 latitude: 41.2382
 longitude: -122.0353
 story: "The river drops in three distinct steps over basalt ledges left by Mount Shasta's lava flows. Local Wintu people called this stretch sacred and used the lower pool for ritual bathing long before loggers ever floated timber down it."
+score: 8.8
 ---
 
 The McCloud River Falls are the headline sight, a three-tier waterfall complex strung along a short section of the river about ten miles east of town off Highway 89. **Lower Falls** is the easiest to reach: a roar of white water dropping into a wide turquoise pool that doubles as the area's swimming hole on hot summer days. There are picnic tables, fire rings, and a small parking lot right at the brink.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: Lower Salmon Falls Dam
 type: poi
+score: 5.8
 ---
 
 Lower Salmon Falls Dam is a concrete gravity-type hydroelectric dam on the Snake River a few miles upstream from Hagerman. Built in the 1910s and expanded over subsequent decades, it is one of several hydroelectric projects that have tamed the lower Snake River. The dam creates a reservoir popular with anglers fishing for trout and bass, and the canyon walls above the water line are dramatic at any season.

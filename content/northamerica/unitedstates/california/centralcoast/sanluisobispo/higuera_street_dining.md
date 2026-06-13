@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.2800
 longitude: -120.6620
+score: 5.2
 ---
 
 Higuera Street and the blocks immediately surrounding it concentrate most of SLO's restaurants within easy walking distance of each other. The range is good: Mexican and Cal-Mex, pizza, sushi, Thai, American comfort food, wine bars, and a few spots that resist categorization. Prices are reasonable by California standards — the presence of Cal Poly students keeps things somewhat grounded.

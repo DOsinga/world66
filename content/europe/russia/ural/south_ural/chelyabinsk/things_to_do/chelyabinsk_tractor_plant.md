@@ -9,6 +9,7 @@ latitude: 55.1556
 longitude: 61.4733
 sources:
   - https://en.wikipedia.org/wiki/Chelyabinsk_Tractor_Plant
+score: 8.1
 ---
 
 The Chelyabinsk Tractor Plant (ChTZ) is one of the great industrial monuments of the Soviet era. Founded in 1933, it became one of the largest tractor manufacturers in the world — and during the Second World War, evacuated factories relocated here from across the western USSR, turning Chelyabinsk into "Tankograd" (Tank City), producing T-34 tanks and other armaments at an industrial scale that helped turn the tide of the war.

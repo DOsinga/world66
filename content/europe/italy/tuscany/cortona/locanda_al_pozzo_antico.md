@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.2752
 longitude: 11.9837
+score: 5.6
 ---
 
 A small trattoria tucked into a vaulted stone room near the cathedral, with a short menu of well-executed Tuscan classics. The name comes from the medieval well preserved in the corner of the dining room.

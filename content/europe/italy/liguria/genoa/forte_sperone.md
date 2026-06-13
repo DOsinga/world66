@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: 17th-century hilltop fort on the ridge above Genoa, reachable on foot via the city walls
+score: 8.1
 ---
 
 The 17th-century city walls of Genoa — built between 1626 and 1632 to enclose the entire city against attack — run for 22 kilometres along the ridge above the city. Forte Sperone, the main fort on the crest, was the key defensive position and still dominates the skyline when seen from the valleys inland.

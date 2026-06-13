@@ -5,6 +5,7 @@ tags: [things_to_do, architecture, sight]
 latitude: 35.5156
 longitude: 139.6883
 snippet: "Metabolism-era residential complex that looks like a stacked space colony"
+score: 7.0
 ---
 
 Built in the 1970s, the Kawaramachi Urban Development Housing Complex is a prime example of Metabolism — the Japanese architectural movement that envisioned cities as living organisms whose cells (buildings) could be replaced as needed. The complex consists of large concrete frames supporting modular residential units, creating a structure that resembles a grid of stacked containers or, from certain angles, a space station planted in the suburbs.

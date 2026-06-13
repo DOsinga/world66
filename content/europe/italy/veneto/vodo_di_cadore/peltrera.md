@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4283
 longitude: 12.2333
+score: 6.2
 ---
 
 Peaio is the largest of Vodo's three frazioni, sitting on a side road north of the main village. It preserves much of the original alpine architecture of the upper Cadore — tall stone-and-timber houses with deep balconies and shingle roofs, clustered around a small parish church.

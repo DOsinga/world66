@@ -7,6 +7,7 @@ tags:
   - carne_asada
 latitude: 29.0735
 longitude: -110.9580
+score: 7.8
 ---
 
 Hermosillo is the capital of Mexico's carne asada culture, and the city takes its beef seriously. The classic Sonoran parrillada involves cuts of beef — typically arrachera (skirt steak), diezmillo (chuck), or carne asada (trimmed flank) — grilled over a mesquite fire until slightly charred, then served with handmade flour tortillas, roasted onions, and a selection of salsas ranging from mild ranchera to fiercely hot chile de agua.

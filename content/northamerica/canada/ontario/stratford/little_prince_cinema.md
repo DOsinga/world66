@@ -8,6 +8,7 @@ tags:
   - sight
   - cinema
 story: "The Little Prince has been credited as the smallest commercial cinema in the world — twelve seats arranged in front of a screen the size of a large home television, in what used to be a back-of-house office."
+score: 6.4
 ---
 
 A twelve-seat micro-cinema tucked into a downtown building, often cited as the smallest commercial movie theatre in the world. The programming leans toward independent films, classics, and screenings tied to whatever is playing at the Festival.

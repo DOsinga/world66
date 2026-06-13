@@ -9,6 +9,7 @@ address: Papanasam, Tirunelveli district, Tamil Nadu
 latitude: 8.7050
 longitude: 77.3717
 snippet: Sacred waterfall and Shiva temple at the foot of the Western Ghats
+score: 7.3
 ---
 
 Papanasam — literally "destroyer of sins" — is a small temple-and-waterfall complex about 50 km west of Tirunelveli, where the Thamirabarani river drops out of the Western Ghats. The Papanasanathar temple, dedicated to Shiva, sits beside the falls, and pilgrims bathe in the lower pools before darshan.

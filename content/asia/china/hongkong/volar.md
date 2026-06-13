@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
   - lan_kwai_fong
+score: 5.7
 ---
 
 A basement club in the thick of Lan Kwai Fong that built its reputation on hip-hop and electronic nights, with a steady stream of international DJs alongside resident spinners. The room is small and gets very crowded on weekends.

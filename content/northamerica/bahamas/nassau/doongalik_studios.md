@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 25.0700
 longitude: -77.3115
+score: 7.3
 ---
 
 The Bahamas' leading commercial gallery for contemporary Bahamian art, housed in a cluster of cottages and gardens on Village Road, south-east of downtown. Founded by Antonius Roberts and Pam Burnside, it represents many of the country's best painters and sculptors.

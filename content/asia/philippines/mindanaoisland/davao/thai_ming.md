@@ -5,6 +5,7 @@ tags:
 - restaurant
 title: Thai Ming
 type: poi
+score: 5.4
 ---
 
 Two locations, NCCC Mall and The Venue Compound. Excellent Thai food. The prices are reasonable and the orders are good for 2-3 persons. The restaurants have good ambiance and the personnel are helpful. Occasionally they have a buffet event.

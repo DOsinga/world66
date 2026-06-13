@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sailing
+score: 6.9
 ---
 
 Woudsend sits in the heart of the Frysk Meren, the chain of inland lakes that makes this corner of the Netherlands one of the best sailing areas in northern Europe. The two large lakes on either side of the village — the Slotermeer to the east and the Heegermeer-Fluessen complex to the west — are connected through the Ee, and skippers passing between them invariably stop in Woudsend for an hour or a night.

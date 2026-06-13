@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 story: "The museum's centrepiece is the Molasses Reef Wreck — at over 500 years old, the oldest European shipwreck so far discovered in the Americas. Found by treasure hunters in 1976, the ship is thought to have gone down between 1505 and 1513, before Columbus's son Diego had even consolidated Spanish power in the region."
+score: 8.3
 ---
 
 The National Museum on Front Street, housed in the 19th-century Guinep House — one of the oldest stone buildings in the country — is the right place to start a Cockburn Town visit. The collection is small but coherent: Lucayan artefacts, salt-raking tools, the Molasses Reef Wreck timbers and ballast, and material on John Glenn's 1962 splashdown off Grand Turk.

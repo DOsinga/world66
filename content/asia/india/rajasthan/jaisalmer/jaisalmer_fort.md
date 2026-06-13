@@ -16,6 +16,7 @@ story: >
   at least three times in the fort's history. The most documented occurrence was in
   1294, when the Mongol general Ulugh Khan besieged the city; the women lit a massive
   pyre inside the fort walls while the men rode out to die in battle.
+score: 9.5
 ---
 
 The fort rises 76 metres from the desert plain on a hill called Trikuta. Built in 1156 by Rawal Jaisal, it is one of the few living forts in the world -- several thousand people still live inside, along with temples, havelis, restaurants, and guest houses. The sandstone is so particular in its yellow-gold colour that the fort is known as Sonar Quila, the Golden Fort.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Gorges de Diosso
 type: poi
+score: 7.9
 ---
 
 About 20km north of Pointe-Noire, near the village of Diosso, a series of spectacular ravines drop from the plateau to the coastal plain. The cliffs are carved from red and ochre laterite by centuries of wind and rain, and reach heights of several dozen metres. The effect is striking — more like the American Southwest than equatorial Africa.

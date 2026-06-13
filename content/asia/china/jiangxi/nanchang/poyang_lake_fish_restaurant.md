@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.6795
 longitude: 115.9050
+score: 6.7
 ---
 
 Nanchang's position downstream from [Poyang Lake](/asia/china/jiangxi/poyang_lake) means freshwater fish is genuinely fresh here. Restaurants specializing in lake fish cluster in the neighborhoods around the eastern part of the city, serving mandarin fish (鳜鱼), silver carp (鲢鱼), and crucian carp (鲫鱼) either steamed with ginger and scallion or braised in chilli and doubanjiang sauce. The fish tank at the restaurant entrance usually lets you choose your fish by sight.

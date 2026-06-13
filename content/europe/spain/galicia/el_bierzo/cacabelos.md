@@ -6,6 +6,7 @@ longitude: -6.717
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 Cacabelos is the wine town of El Bierzo — a small Camino settlement on the river Cúa where most of the major Mencía producers have their bodegas. There are more than thirty wineries within a few kilometres of the town, and many can be visited; the Archaeological Museum on the main street displays Roman finds from the surrounding gold-mining country and serves as a useful introduction.

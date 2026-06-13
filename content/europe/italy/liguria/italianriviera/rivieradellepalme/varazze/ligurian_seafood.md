@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 44.3595
 longitude: 8.5750
+score: 6.6
 ---
 
 The restaurants along Varazze's seafront and in the streets behind the beach serve the Ligurian repertoire of fish dishes: fritto misto di pesce (mixed fried fish), grilled sea bass and sea bream, fish soup, and the local specialty buridda — a Genoese fish stew made with stockfish, pine nuts, capers, and dried mushrooms. Pesto alla Genovese, the basil, olive oil, and pine nut sauce from the nearby capital, is on every menu as a dressing for trofie pasta.

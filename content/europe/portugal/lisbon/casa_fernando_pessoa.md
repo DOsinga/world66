@@ -6,6 +6,7 @@ longitude: -9.1518
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 Fernando Pessoa lived at Rua Coelho da Rocha 16 in Campo de Ourique from 1920 until his death in 1935, and this apartment — his last — has been preserved and transformed into a small museum dedicated to his life and work. The house displays personal objects, manuscripts, and photographs, and the library reconstruction gives a sense of the isolated, prolific inner life of the writer who created over 70 literary heteronyms.

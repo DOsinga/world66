@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -32.5800
 longitude: -53.3600
+score: 7.2
 ---
 
 The Yaguarón River and its surrounding wetlands and rice paddies form part of the extended eastern Uruguayan wetland system — a vast lowland landscape of shallow lakes, marshes, and flooded grasslands that connects eventually to the Lagoa Mirim and the Atlantic coast. The area around Río Branco is one of the less-visited parts of this system, which means that during the spring and autumn migration seasons you can watch waterbirds without competition from other birders.

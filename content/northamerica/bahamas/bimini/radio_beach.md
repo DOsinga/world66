@@ -9,6 +9,7 @@ tags:
 - swimming
 title: Radio Beach
 type: poi
+score: 6.8
 ---
 
 Radio Beach (sometimes called Blister Beach) is the long west-facing strip of sand along the ocean side of Alice Town. The water is the textbook Bahamian shade of turquoise, the swimming is easy, and a couple of beach bars at the south end serve cold drinks all afternoon.

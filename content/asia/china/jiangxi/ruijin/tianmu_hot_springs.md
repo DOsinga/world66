@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.8600
 longitude: 115.9800
+score: 5.8
 ---
 
 Tianmu Hot Springs (天沐温泉) provides an efficient counterpoint to a day of revolutionary history, with outdoor hot spring pools in a garden setting with views of the surrounding hills. The water temperature is reliably high and the facilities are clean and well organized. Chinese hot spring resorts follow a consistent format — multiple pools at different temperatures, mineral contents, and sizes — and Tianmu is a competent example of the type.

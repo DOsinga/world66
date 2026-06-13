@@ -14,6 +14,7 @@ story: >
   had killed the freight business; the last commercial canal boat
   passed Easton in 1932. The museum keeps the mule-and-rope traditions
   alive on a restored half-mile of working canal.
+score: 7.6
 ---
 
 A small but well-curated museum on the upper floors of Two Rivers Landing, dedicated to America's nineteenth-century towpath canals — the Lehigh, the Morris, the Erie. The exhibits cover the mechanics of locks and aqueducts, the lives of canal families, and the economic boom that the canals made possible. There is a working model of a lock you can fill and drain.

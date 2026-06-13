@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Lukove
 type: poi
+score: 7.6
 ---
 
 Lukove (or Lukova) is a traditional village on the Albanian Riviera, about 35 km north of Saranda on the coastal road. The village sits on steep hillside above a series of beaches that vary from sandy coves to rocky inlets, all with the clear water characteristic of this stretch of the Ionian coast. The village itself — old stone houses, a mosque, and a central square with a view over the sea — is one of the more intact traditional settlements on the coast.

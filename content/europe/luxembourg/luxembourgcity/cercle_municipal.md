@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - architecture
+score: 6.4
 ---
 
 The exuberant Beaux-Arts building dominating the western side of Place d'Armes. Built 1907–1909 by Pierre and Paul Funck as a civic events hall — and still used as such today. The frieze running the length of the facade depicts Countess Ermesinde granting the city its freedom charter in 1244.

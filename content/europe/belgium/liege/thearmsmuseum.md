@@ -10,6 +10,7 @@ tags:
 - museum
 title: Grand Curtius - Arms Museum
 type: poi
+score: 6.8
 ---
 
 The second most important arms museum in Europe, reflecting Liège's long history as a centre of arms manufacturing — most weapons were made in the factories of Herstal, just outside the city. The collection is housed in a neo-classical building constructed between 1775 and 1779.

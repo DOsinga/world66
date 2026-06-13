@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - bakklandet
+score: 7.5
 ---
 
 The Old Town Bridge, Gamle Bybro, links the cathedral side of the river to the wooden houses of Bakklandet. The current red-painted wooden bridge dates from 1861, replacing an earlier crossing built in 1681 as part of the rebuilding after the great fire. The view from the middle of the bridge — colourful warehouses on stilts above the river, the cathedral spire in the distance — is one of the most photographed in Trondheim.

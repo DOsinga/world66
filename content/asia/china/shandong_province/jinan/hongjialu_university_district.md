@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6820
 longitude: 117.0550
+score: 7.1
 ---
 
 The Hongjialu area around Shandong University's original campus is the liveliest and most affordable neighborhood in Jinan for travelers — a dense network of student cafes, bookshops, small bars, bicycle repair shops, and cheap restaurants that runs along and off Wenhua West Road. The area has the energy that university districts acquire over generations, with layers of student culture accumulated since the university's 1901 founding.

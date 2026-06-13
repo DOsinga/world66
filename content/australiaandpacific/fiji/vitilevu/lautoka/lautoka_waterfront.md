@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -17.6010
 longitude: 177.4430
+score: 6.5
 ---
 
 The Lautoka waterfront runs along Vitogo Parade, the town's main street, between the sugar mill at the north end and the port at the south. The view from the waterfront looks across the shallow reef to the Mamanuca islands — Malolo, Mana, and the others — with their flat profiles and the deeper blue of the Yasawa chain behind them on clear days. The Yasawa Flyer catamaran departs from the port each morning and is the main link for island-hopping travellers.

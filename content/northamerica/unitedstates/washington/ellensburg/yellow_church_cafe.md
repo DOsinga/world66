@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.9947
 longitude: -120.5453
+score: 7.3
 ---
 
 The Yellow Church Cafe occupies a converted 1923 German Lutheran church on N Pearl Street, just south of downtown. The interior keeps the original stained glass and the high vaulted ceiling and adds white tablecloths and an open kitchen. The food is the best in town: Northwest-leaning, careful, and not too precious.

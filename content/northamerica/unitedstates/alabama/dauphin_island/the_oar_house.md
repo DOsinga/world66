@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 30.2553
 longitude: -88.1120
+score: 5.2
 ---
 
 The Oar House on Bienville Boulevard is the island's main casual restaurant, sitting across from the public beach and pier. Made-to-order sandwiches, burgers, and housemade soups dominate the menu — the seafood chowder and tomato basil soup are reliably good. There is a full bar with draft beer and a spacious back deck shaded by live oaks, which fills up at sunset.

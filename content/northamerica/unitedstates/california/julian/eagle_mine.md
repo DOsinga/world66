@@ -8,6 +8,7 @@ tags:
 latitude: 33.0778
 longitude: -116.6003
 story: "The Eagle Mine was the richest gold producer in Julian's boom years. Guides take you 1,000 feet into the mountain and demonstrate the original equipment still in place. The temperature inside is a constant 55°F — bring a jacket even in summer."
+score: 7.9
 ---
 
 The Eagle and High Peak Mine offers underground tours of Julian's original gold mine, one of the richest producers during the gold rush of the 1870s. A guide leads you through a tunnel that stretches about 1,000 feet into the mountain, past original mining equipment, ore veins, and the shafts where gold was extracted by hand for nearly three decades.

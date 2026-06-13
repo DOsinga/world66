@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: "Striking golden geodesic-dome theatre from 1967, central Reno's main performing arts venue"
+score: 7.5
 ---
 
 The Pioneer Center is one of the most distinctive buildings in Reno: a 1967 performing-arts theatre crowned by a golden anodised geodesic dome 145 feet across, looking somewhere between a piece of 1960s utopian architecture and a giant Christmas tree ornament. Inside is a 1,500-seat auditorium home to the Reno Philharmonic, the Nevada Opera, and a roster of touring Broadway productions.

@@ -8,6 +8,7 @@ tags:
 latitude: 44.8501
 longitude: 0.4847
 snippet: "19th-century city hall on Rue Neuve d'Argenson"
+score: 5.6
 ---
 
 The Hôtel de Ville stands on Rue Neuve d'Argenson, on the edge of the old town. The current building is a 19th-century neoclassical work, but the site has been the seat of Bergerac's municipal government since the Middle Ages — the town was an unusually independent commune through the late medieval period and was one of the major Huguenot strongholds during the Wars of Religion.

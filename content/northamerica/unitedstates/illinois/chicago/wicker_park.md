@@ -9,11 +9,10 @@ tags:
 - things_to_do
 - neighbourhood
 title: Wicker Park
-type: neighbourhood
-image: wicker_park.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Wicker_Park_Chicago_Damen_North_Milwaukee.JPG
-image_license: Public domain
-image_attribution: Victorgrigas
+type: poi
+sources:
+- https://en.wikipedia.org/wiki/Wicker_Park,_Chicago
+score: 7.8
 ---
 
 Wicker Park is where the three-way intersection of Milwaukee, North, and Damen avenues creates one of Chicago's most energetic street-level environments. The neighbourhood draws independent boutiques, record shops, vintage clothing stores, and a dense cluster of bars and restaurants across a dozen blocks. The surrounding streets are lined with well-preserved Victorian and Queen Anne houses from the 1880s and 1890s, when the neighbourhood was home to wealthy German and Scandinavian merchant families.

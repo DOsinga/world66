@@ -8,6 +8,7 @@ latitude: 53.196667
 longitude: -6.125
 story: >
   John Boorman's Excalibur was filmed almost entirely at Ardmore in 1980, with the surrounding Wicklow countryside standing in for Arthurian England. Mel Gibson brought Braveheart here in 1994, and much of Neil Jordan's work — including The Crying Game — was shot on these stages. The studios have been in continuous operation since 1958, making them the oldest working film studios in Ireland.
+score: 3.7
 ---
 
 Ardmore Studios sits just west of Bray town centre and has been at the heart of Irish film production since it opened in 1958. The complex was founded by Emmet Dalton and Louis Elliman and quickly attracted international productions drawn by lower costs, skilled crews, and the varied landscapes of County Wicklow nearby. Over the following decades it became the default choice for any major film requiring Irish locations or facilities, and it has remained consistently busy ever since.

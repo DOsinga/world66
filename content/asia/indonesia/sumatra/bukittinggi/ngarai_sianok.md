@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The canyon is the surface trace of the Great Sumatran Fault, the same crustal scar that produces most of the island's earthquakes. Locals call it the Buffalo Hole — a buffalo once fell in and could not be retrieved."
+score: 8.8
 ---
 
 A 100-metre-deep gorge cut into volcanic tuff runs along the western edge of the town, with vertical green walls and a small river snaking through the bottom. The viewpoint at Panorama Park, a five-minute walk from the clock tower, gives the easiest look down. For the better experience, follow the road that drops to the canyon floor and walk through the village of Sianok at the bottom — terraced rice fields, water buffalo, and rumah gadang houses with their saddle-roofed gables.

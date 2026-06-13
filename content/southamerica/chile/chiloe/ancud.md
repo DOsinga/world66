@@ -6,6 +6,7 @@ tags:
 - sight
 title: Ancud
 type: poi
+score: 7.2
 ---
 
 Ancud is the main town in northern Chiloé and the first proper stop for many travellers arriving by ferry. It has a working-port feel, a good regional museum, old fortifications, and easier access to Puñihuil than Castro.

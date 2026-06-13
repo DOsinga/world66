@@ -7,6 +7,7 @@ tags:
   - beaches
   - sight
 snippet: "Long popular beach close to Pangkalpinang, favourite with local families"
+score: 5.5
 ---
 
 Pasir Padi is the beach closest to Pangkalpinang, which makes it the default swimming spot for the city's residents. It's a long, gently curving stretch of sand — nothing dramatically scenic, but perfectly pleasant and practical. The water is calm and shallow, which makes it good for children. Vendors sell grilled corn and cold drinks along the shore, and a strip of seafood restaurants lines the road behind the beach.

@@ -12,6 +12,7 @@ story: >
   were fished out by the 1880s, the boom collapsed and the town was essentially preserved in
   amber — buildings stopped being replaced, the population stayed tiny, and the Victorian streetscape
   survived intact. The town was formally placed on the National Register of Historic Places in 1976.
+score: 8.2
 ---
 
 At the far north end of the peninsula, Oysterville is one of the most complete Victorian townscapes surviving in the Pacific Northwest. A handful of original 1860s and 1870s buildings — the church, the general store, the schoolhouse, and a string of Victorian houses — line a single road running along the bay, more or less unchanged since the oyster boom ended. The setting, with Willapa Bay visible through the trees and no commercial development for miles, is quietly beautiful.

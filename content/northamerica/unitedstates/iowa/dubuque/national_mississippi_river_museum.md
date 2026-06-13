@@ -10,6 +10,7 @@ longitude: -90.6610
 story: "The aquarium holds living examples of nearly every fish species found in the Upper Mississippi River system, including paddlefish — ancient creatures that have been filtering plankton from the Mississippi for 300 million years and can grow to six feet long. The museum is one of only a handful of places in the world where you can see them in a tank large enough to appreciate their size."
 sources:
   - https://en.wikipedia.org/wiki/National_Mississippi_River_Museum_and_Aquarium
+score: 8.8
 ---
 
 The National Mississippi River Museum and Aquarium on the Dubuque riverfront is the most compelling attraction in the city and one of the better natural and cultural history museums in the Midwest. It is laid out across several buildings and an outdoor area on the old ice harbor, and covers the Mississippi River system from its headwaters to the Gulf through a combination of live fish, river otters, boat displays, and historical exhibits.

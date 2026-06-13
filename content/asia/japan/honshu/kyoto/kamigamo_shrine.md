@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kamigamo Shrine
 type: poi
+score: 8.4
 ---
 
 Kamigamo Shrine — officially *Kamowake-ikazuchi-jinja* — is the older of the two great shrines dedicated to the deity Kamo of the Thunder, founded in 678 in a meadow on the northern edge of the Kyoto basin. The grounds are large and contain a small river crossed by stone bridges and lined with white-walled buildings; in particular two precisely formed cones of pure sand, the *tatesuna*, stand in front of the inner shrine — a stylised representation of the sacred mountain (Mount Kō) on which the deity is said to have first descended.

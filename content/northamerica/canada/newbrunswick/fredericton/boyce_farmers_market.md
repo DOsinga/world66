@@ -14,6 +14,7 @@ story: >
   all buy their produce from the same vendors — a rare equalizer in a small capital city.
 sources:
   - https://en.wikipedia.org/wiki/Boyce_Farmers%27_Market
+score: 8.6
 ---
 
 The Boyce Farmers Market, held every Saturday morning from 6am to 1pm year-round, is Fredericton's best event and one of the finest markets in the Maritime provinces. The long red-brick building on George Street fills with vendors selling local produce, cheese, baked goods, smoked fish, maple syrup, crafts, and prepared food. In summer the stalls spill out into the surrounding streets.

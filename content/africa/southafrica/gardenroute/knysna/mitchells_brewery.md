@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.0355
 longitude: 23.0467
+score: 6.8
 ---
 
 Mitchell's is one of South Africa's oldest craft breweries, founded in Knysna in 1983. They were making real beer while the big commercial breweries still dominated South Africa, and the brewery has grown into a proper institution. Their Bosun's Bitter and Raven Stout are the standards worth trying; seasonal and special releases appear throughout the year.

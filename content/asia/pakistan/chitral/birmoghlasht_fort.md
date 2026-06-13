@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 35.8845
 longitude: 71.7662
+score: 7.8
 ---
 
 Roughly four kilometres up the mountain north-west of Chitral, on a ridge above the airport, sit the ruins of Birmoghlasht — the summer residence of the Mehtars built around 1810. The kings retreated here in the hot months to enjoy cooler air and views down the valley.

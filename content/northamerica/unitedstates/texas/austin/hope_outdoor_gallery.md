@@ -7,6 +7,7 @@ tags:
 address: "1011 Baylor St"
 latitude: 30.2799
 longitude: -97.7552
+score: 6.5
 ---
 
 The HOPE Outdoor Gallery is Austin's largest outdoor art space — a multi-level hillside of concrete walls covered in rotating murals and graffiti art, managed by a local nonprofit. Unlike a conventional gallery, the art here is meant to be painted over: artists submit applications to paint a section, execute the work, and eventually give way to the next artist. The result is a constantly evolving surface where some pieces are fresh and vivid, others are half-covered, and the palimpsest of paint layers has its own history.

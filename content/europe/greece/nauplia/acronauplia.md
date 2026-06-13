@@ -8,6 +8,7 @@ tags:
 latitude: 37.5639
 longitude: 22.7953
 story: "Acronauplia was the entire town of Nafplio until the Venetians arrived in 1389. Three successive rings of walls — Byzantine, Frankish and Venetian — climb the headland, each one built on the foundations of the last."
+score: 8.4
 ---
 
 The Acronauplia is the oldest part of Nafplio, a fortified spur of rock running west of the old town between the Palamidi and the sea. It carries Cyclopean foundations, Byzantine walls, Frankish gates and Venetian bastions in roughly that vertical order. For most of the town's existence this was where everyone lived; the lower streets only filled in once the Venetians felt safe enough to come down.

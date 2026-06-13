@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 43.5455
 longitude: 10.3162
+score: 5.8
 ---
 
 Trattoria da Galileo on Via della Campana is one of the older, more reliably traditional trattorias in Livorno's city centre. The menu changes with the fish market, but cacciucco is always there — thick, brick-red, intensely flavoured, served with garlic-rubbed toast. The setting is unpretentious: checked tablecloths, local customers, a short wine list that features Tuscan whites well suited to seafood.

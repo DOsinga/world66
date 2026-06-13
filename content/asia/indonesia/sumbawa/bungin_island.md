@@ -13,6 +13,7 @@ story: >
   to the original reef for generations, extending their territory outward into the
   sea as the population grows. There is almost no vacant land, and houses crowd the
   shoreline on all sides.
+score: 7.2
 ---
 
 Bungin Island, near the north coast of Sumbawa about 70 km from Sumbawa Besar, is home to a community of Bajo people — the "sea nomads" of Southeast Asia who have traditionally lived on or above the water. The island itself is built on coral and sand; the Bajo have been extending it outward for generations as their community grows, and it is now densely packed with houses, jetties, and workshops.

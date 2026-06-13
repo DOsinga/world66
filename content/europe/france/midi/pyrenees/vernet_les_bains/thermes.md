@@ -8,6 +8,7 @@ latitude: 42.5488
 longitude: 2.3890
 story: >
   Rudyard Kipling was a regular visitor to the Vernet baths in the early 20th century, coming to treat his chronic bronchitis. He wrote about the Canigou mountain with genuine awe, and Hans Christian Andersen visited decades earlier — the gentleness of the valley clearly made an impression on northern writers used to harsher climates.
+score: 5.9
 ---
 
 The thermal baths have been Vernet's reason for existence since the 18th century. The hot springs emerge at 65°C, heavily laden with sodium and sulphur, and are recognised for their effectiveness against respiratory conditions — asthma, bronchitis, sinusitis — as well as rheumatism. The current baths complex on the main road through town offers both curative programmes (typically three-week courses covered by French health insurance) and shorter wellness treatments for casual visitors.

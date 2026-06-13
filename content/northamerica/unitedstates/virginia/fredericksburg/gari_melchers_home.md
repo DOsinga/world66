@@ -9,6 +9,7 @@ latitude: 38.3250
 longitude: -77.4729
 sources:
   - https://en.wikipedia.org/wiki/Gari_Melchers_Home_and_Studio
+score: 7.7
 ---
 
 Gari Melchers was one of the most celebrated American painters of his generation — winner of the Grand Prix at the 1889 Paris Exposition, friend of Rodin and Whistler, and a portraitist who counted Theodore Roosevelt among his subjects. His home and studio at Belmont, a few miles north of Fredericksburg, has been preserved essentially as he left it at his death in 1932, and it now operates as a state historic site and gallery.

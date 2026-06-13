@@ -6,6 +6,7 @@ tags:
   - sight
 title: Qingdao Aquarium
 type: poi
+score: 5.8
 ---
 
 One of China's oldest aquariums, founded in 1932 in the old German quarter near the shoreline. The original building is a German-era structure with ornate ironwork; subsequent wings have been added over the decades and the complex now covers a large area along the western seafront.

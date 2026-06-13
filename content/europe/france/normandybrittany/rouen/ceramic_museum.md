@@ -4,6 +4,7 @@ type: poi
 latitude: 49.4455
 longitude: 1.0936
 tags: [things_to_do, museum]
+score: 6.8
 ---
 
 A small museum dedicated to the tin-glazed earthenware (faïence) for which Rouen was famous from the late 16th century onward. The medium is delicate and the displays are well-lit and well-paced; the building, a 17th-century hôtel particulier with a quiet inner courtyard, is part of the appeal.

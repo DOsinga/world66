@@ -6,6 +6,7 @@ tags: [things_to_do, sight, park, centro_historico]
 neighbourhood: Centro Histórico
 latitude: 19.4358
 longitude: -99.1432
+score: 7.8
 ---
 
 Mexico City's oldest park has been a public garden since 1592 — three centuries before Central Park opened in New York. It runs for half a kilometre west of the Palacio de Bellas Artes, planted with poplars (álamos, from which the name comes), fountains, and a roster of neoclassical sculpture.

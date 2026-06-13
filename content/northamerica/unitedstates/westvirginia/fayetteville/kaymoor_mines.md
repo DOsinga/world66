@@ -9,6 +9,7 @@ tags:
 latitude: 38.0478
 longitude: -81.0647
 story: "At its peak in the 1920s, Kaymoor employed 800 men and shipped tens of thousands of tons of coal a day. When the mine closed in 1962 the company demolished most of the town to avoid taxes. What remains — the tipple, the coke ovens, the iron stairs down the cliff — slowly turned into one of the strangest, most photogenic industrial ruins in Appalachia."
+score: 8.3
 ---
 
 A mile down into the gorge from the trailhead off Kaymoor Road, the Cunard Trail brings you out on a steep wooded slope scattered with the remains of an early 20th-century coal operation: rusting tipple skeletons, brick coke ovens half-eaten by the forest, the foundations of houses and a school. A 821-step iron staircase plunges from the upper bench down to the riverside processing area.

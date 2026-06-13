@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - museum
+score: 9.3
 ---
 
 Siida — the word means "settlement" or "community" in the Inari Sámi language — is one of the best ethnographic museums in Finland and unquestionably the most important place to understand Sámi culture from a Finnish perspective. The permanent exhibition is split between a Sámi-culture gallery (history, language, religion, the year of the herder) and a natural-history gallery covering the ecology of the Arctic forest, fells, and lakes.

@@ -14,6 +14,7 @@ story: >
   cover its surface in bloom season. Tigers here have learned that the lake is
   the best hunting ground; they have been photographed swimming across it in
   pursuit of sambar deer wading at the edges.
+score: 8.6
 ---
 
 Padam Talao is the largest of Ranthambore's three lakes and the single most reliable spot for wildlife viewing in the park. In the early morning, sambar and chital deer wade in the shallows, marsh crocodiles bask on the banks, and painted storks and cormorants fish the water. Tigers come regularly to drink and hunt, making this zone the most popular and the most competitive for safari permits.

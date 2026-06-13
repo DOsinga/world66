@@ -16,6 +16,7 @@ story: >
   Cornish, Italian, and Eastern European immigrant communities.
 sources:
   - https://en.wikipedia.org/wiki/Bachelor_Syracuse_Mine
+score: 7.9
 ---
 
 The Bachelor Syracuse Mine is an operating mine-turned-tourist-attraction on the mountain above Ouray, reached by a narrow switchback road 4 kilometers north of town. Tours enter the actual mine tunnel in an ore cart pulled by a small electric locomotive, going about 500 meters into the mountain before dismounting for a walking tour of the ore-processing area.

@@ -11,6 +11,7 @@ story: >
   the southern tip of Africa — the first European to do so. He named the bay Angra das
   Voltas. The cross now in Lüderitz is a 1971 replica; the original is in Lisbon.
 snippet: Headland with penguin colony and replica of Dias cross, south of Lüderitz
+score: 7.8
 ---
 
 Diaz Point is a rocky peninsula 20 km south of Lüderitz (accessible by car on a dirt road), where a replica of the stone padrao planted by Bartolomeu Dias in 1488 marks the European discovery of this coast. The headland is worth visiting for the rockhopper penguins — a colony lives on the rocks below the lighthouse — and for the views back toward Lüderitz across the bay, with the cold green Benguela swells breaking on the granite.

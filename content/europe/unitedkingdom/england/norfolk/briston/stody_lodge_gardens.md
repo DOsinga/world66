@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 52.8729
 longitude: 1.0541
+score: 8.1
 ---
 
 Stody Lodge, a private estate just east of Briston, throws open its gardens for around six weekends each May when the rhododendrons and azaleas are at their peak. The display is genuinely one of the best in East Anglia — sixty acres of woodland walks under tall oaks and beeches, dotted with banks of brilliant orange, pink, and white blooms.

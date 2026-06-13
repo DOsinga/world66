@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, beach]
 latitude: 28.9300
 longitude: -13.6336
+score: 6.2
 ---
 
 Playa de los Pocillos lies a couple of kilometres west of central Puerto del Carmen, towards the airport, and is the longest of the resort's beaches at around a kilometre and a half. It is broader and more open than Playa Grande, more exposed to the prevailing northeasterly trade winds, and consequently a magnet for windsurfers, kitesurfers and surfers — a row of board-rental and surf-school operations sets up on the sand most mornings.

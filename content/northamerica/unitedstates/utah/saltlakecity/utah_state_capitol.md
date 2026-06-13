@@ -8,6 +8,7 @@ tags:
 title: Utah State Capitol
 type: poi
 story: "The Capitol dome is modelled on the national Capitol in Washington but is faced with Utah's own granite rather than white marble. The dome houses a small gallery at its base, and on clear days you can see across the entire Salt Lake Valley from the steps — a view that puts into perspective just how completely the mountains surround the city."
+score: 8.5
 ---
 
 The Utah State Capitol sits on a hill north of downtown, visible from most of the city and approached by a grand terraced stairway through the Capitol Hill grounds. Completed in 1916, the building uses Utah granite and Georgia marble throughout, with a dome modelled on the Capitol in Washington. Free guided and self-guided tours run Monday through Friday.

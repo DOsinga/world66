@@ -9,6 +9,7 @@ latitude: 44.8703
 longitude: 13.8455
 story: >
   The Kaštel was built by the Venetians in 1630 on the same hill the Romans had used for their capitol temple — a direct line of strategic dominance across 1,600 years. The star-shaped plan with four bastions is a classic example of Renaissance military architecture, designed to deflect cannon fire rather than resist it.
+score: 7.6
 ---
 
 The star-shaped Venetian fortress at the top of Pula's hill offers the best panoramic views in the city — the old centre below, the harbour, the Brijuni islands in the distance on clear days, and the amphitheatre seen from above. The fortress was built in 1630 to replace earlier medieval defences and has never seen serious military action; it served for much of its history as a storehouse and prison.

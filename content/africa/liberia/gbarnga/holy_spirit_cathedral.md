@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 6.9937
 longitude: -9.4678
+score: 6.4
 ---
 
 The Holy Spirit Cathedral is the seat of the Roman Catholic Diocese of Gbarnga and one of the most prominent buildings in the town. The diocese was established in 1986, and the cathedral was built in the years that followed in a relatively simple modern style — concrete, a steeply pitched roof, large windows to admit the equatorial light.

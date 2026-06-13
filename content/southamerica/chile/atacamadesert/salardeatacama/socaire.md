@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Socaire
 type: poi
+score: 6.4
 ---
 
 Socaire is the last substantial village before the road climbs toward the altiplano lagoons. Terraced fields cut green lines into the slope, and the old adobe church looks out over a landscape that feels both cultivated and severe.

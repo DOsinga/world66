@@ -9,6 +9,7 @@ latitude: 5.1963
 longitude: -3.7328
 story: >
   The Governor's Palace housed the highest authority in French West Africa for only three years — from 1893, when Grand-Bassam became the colonial capital, to 1896, when yellow fever forced the administration to flee. Three years of occupation in over a century of history, and yet the building defines the town more than anything else.
+score: 7.4
 ---
 
 The Governor's Palace stands at the eastern end of the historic peninsula, a two-storey colonial building that was the administrative centre of French West Africa before the epidemics ended Grand-Bassam's brief moment of importance. The scale is impressive even in its current state of partial ruin — wide arched galleries on both floors, a formal facade, and grounds that once extended to the edge of the lagoon.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.3
 ---
 
 The Otepää Landscape Conservation Area (or Otepää Nature Park) protects about 230 km² of the rolling moraine hills around the town — the highest country in Estonia, though never more than 300 metres above sea level. The terrain is unusually varied for the Baltic: more than 80 small lakes, beech and spruce forests, bogs, and meadows full of wildflowers in early summer.

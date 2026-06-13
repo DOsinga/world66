@@ -8,6 +8,7 @@ latitude: 38.5757
 longitude: -121.4695
 story: >
   Patty Reed's doll is a small wooden toy that Patty Reed, aged eight, smuggled inside her coat when her family was forced to abandon most of their possessions in the Sierra Nevada in October 1846. She kept it hidden through the entire winter. The doll survived; so did Patty, though nearly half the 87-person Donner-Reed party did not. The toy is now displayed at Sutter's Fort — the same fort that provided the rescue parties that eventually reached the survivors.
+score: 6.7
 ---
 
 Sutter's Fort houses several artefacts directly connected to the Donner Party disaster of 1846-47 — the emigrant wagon train that became snowbound in the Sierra Nevada and resorted to cannibalism to survive the winter. Among them is Patty Reed's doll, a small wooden toy that Patty Reed smuggled through the ordeal and kept for the rest of her long life (she died in 1923, aged 84).

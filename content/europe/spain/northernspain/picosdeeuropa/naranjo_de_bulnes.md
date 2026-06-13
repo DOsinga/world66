@@ -9,6 +9,7 @@ latitude: 43.2000
 longitude: -4.8167
 story: >
   The name "Naranjo de Bulnes" — orange tree of Bulnes — probably refers to the warm ochre glow the peak takes on at sunset when seen from the village below. The mountain was first climbed in 1904 by Pedro Pidal, Marquess of Villaviciosa, who hired a local shepherd, Gregorio Pérez, to guide him to the base and then left him behind for the summit attempt. Pérez, nicknamed "El Cainejo" for his home village of Caín, had been trying to climb the mountain for years and reportedly was furious at being excluded from the first ascent.
+score: 9.1
 ---
 
 Naranjo de Bulnes (called Picu Urriellu in Asturian) is a 2,519-metre limestone tower with a near-vertical 550-metre west face that has become Spain's most celebrated rock climbing objective. The peak is not visible from most approaches to the Picos — it lurks in the interior of the Central Massif — which makes the moment when you first see it from the Vega Urriellu plateau all the more startling. The face simply rises vertically from the ground with almost no foreshortening.

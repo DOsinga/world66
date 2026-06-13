@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: 17th-century Armenian church with carved stone iconography
+score: 8.1
 ---
 
 The Church of Surb Astvatsatsin (Holy Mother of God) is the main religious building of upper Meghri and dates from the late 17th century. The squat three-naved basilica sits on the upper slopes of the town with a tile roof and weathered tuff walls; the bell tower is later, added in the 19th century. Inside, you can still see fragments of original wall paintings — rare in Armenian churches of this date — depicting saints and Old Testament scenes in a style heavily influenced by Persian miniatures.

@@ -8,6 +8,7 @@ tags:
   - restaurant
   - indonesian
   - cheap
+score: 6.4
 ---
 
 A no-frills locals-and-backpackers warung on Poppies II — plastic tables, fluorescent lights, fan instead of air-conditioning, and a buffet line at the back where you point at what you want and pay for what is on your plate. Nasi campur with a couple of toppings comes in well under three dollars.

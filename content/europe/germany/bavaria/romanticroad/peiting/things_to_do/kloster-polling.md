@@ -1,6 +1,7 @@
 ---
 title: "Kloster Polling"
 type: poi
+score: 7.5
 ---
 
 Kloster Polling, about 5km east of Peiting, is a former Augustinian Canons' monastery that was one of the most culturally significant religious houses in Bavaria during the medieval and early modern periods. Its library, assembled over centuries, became one of the most important collections of medieval manuscripts in the German-speaking world before the monastery was secularised in 1803 during the Napoleonic reorganisation of Bavaria. The manuscripts were dispersed — many went to what is now the Bavarian State Library in Munich — but the buildings themselves survived.

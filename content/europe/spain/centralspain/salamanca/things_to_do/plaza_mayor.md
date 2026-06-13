@@ -3,6 +3,7 @@ title: "Plaza Mayor"
 type: poi
 latitude: 40.965
 longitude: -5.664
+score: 9.1
 ---
 
 Completed in 1729 to designs by Alberto Churriguera, the Plaza Mayor is widely regarded as the finest baroque town square in Spain — perfectly enclosed, arcaded on all four sides, and lined with medallion portraits of Spanish monarchs and notables. One medallion, originally bearing Franco's likeness, was deliberately left defaced after his death; the city has never restored it, making it a quiet political statement in stone.

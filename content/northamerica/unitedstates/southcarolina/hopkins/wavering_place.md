@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 33.9094
 longitude: -80.8133
+score: 4.2
 ---
 
 Wavering Place, also known historically as the Francis Tucker Hopkins House and as Magnolia, is an antebellum plantation house in the Gadsden community a few miles south of the village of Hopkins. The Greek Revival main house, with its tall columns and quiet, oak-shaded grounds, is one of the most intact period homes in Lower Richland County.

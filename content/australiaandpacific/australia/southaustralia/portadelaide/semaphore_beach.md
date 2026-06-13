@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -34.8386
 longitude: 138.4850
 story: "Semaphore takes its name from the optical telegraph station established here in 1839 to relay shipping signals from the port to Adelaide — messages could travel the 14 kilometres in minutes compared to hours by horse. The station was replaced by electric telegraph in the 1850s but the name stuck."
+score: 7.2
 ---
 
 Semaphore is the beach suburb directly north of Port Adelaide, connected by a heritage tram that runs between the two on weekends. The beach is long, flat, and sandy — typical of Adelaide's Gulf St Vincent coast — with calm water and modest surf. The Semaphore Road esplanade is lined with old-fashioned amusement venues, a heritage carousel, fish-and-chip shops, and a 1920s-era jetty that has been recently restored.

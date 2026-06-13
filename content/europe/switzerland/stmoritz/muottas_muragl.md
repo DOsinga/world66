@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 9.0
 ---
 
 Muottas Muragl is the viewpoint hill northeast of St. Moritz, reached by funicular from Punt Muragl in the valley. At 2,454 metres, the summit terrace looks out over the full chain of Engadin lakes — St. Moritz, Silvaplana, and Sils — with the peaks of the Bernina massif closing the view to the south. It is arguably the finest single panorama in the Upper Engadin and worth the detour even in the middle of a ski trip.

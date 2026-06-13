@@ -5,6 +5,7 @@ author: "Freya Stark"
 tags:
   - books
 isbn: "978-0719555121"
+score: 6.8
 ---
 
 Freya Stark's travel writing on Turkey and the Middle East remains some of the finest in the genre. Her accounts of travelling through the Lycian coast in the 1950s — before mass tourism, before paved roads, when the ancient cities sat in undisturbed forest — capture the region at its most luminous.

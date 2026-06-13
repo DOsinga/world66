@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture]
 latitude: 38.4842
 longitude: 48.8365
+score: 4.7
 ---
 
 Standing 243.9 metres tall on the edge of town, the Astara Television Tower is one of the taller steel lattice towers in the Caucasus region. It is not open to the public, but it dominates the skyline and serves as a useful landmark when navigating the town.

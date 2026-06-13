@@ -12,6 +12,7 @@ story: >-
 tags:
   - bars_and_cafes
   - cafe
+score: 7.2
 ---
 
 Ofvandahls is the oldest surviving konditori in Uppsala, in business on Sysslomansgatan since 1878. The interior is a small museum in itself — original mirrors, art-nouveau tile, marble-topped tables — and the cake counter still produces the classic Swedish pastries that have been the house repertoire for over a century. Princess cake, almond tarts, and the cinnamon and cardamom buns are all worth crossing town for.

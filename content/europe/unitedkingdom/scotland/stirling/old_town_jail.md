@@ -7,6 +7,7 @@ tags:
 latitude: 56.1213
 longitude: -3.9434
 snippet: A Victorian prison turned visitor attraction, with a rooftop viewing platform over the old town
+score: 6.6
 ---
 
 The Old Town Jail opened in 1847, replacing the medieval Tolbooth jail at the foot of the hill, and was considered a model of progressive Victorian penal architecture in its day. It closed as a prison in 1935 and reopened in the 1990s as a visitor attraction, with costumed guides leading walking tours that play up the prison's grim 19th-century routines.

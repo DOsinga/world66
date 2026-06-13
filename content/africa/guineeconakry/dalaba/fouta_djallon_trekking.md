@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 10.9624
 longitude: -12.1926
+score: 8.6
 ---
 
 The Fouta Djallon highlands are one of West Africa's best destinations for trekking, and Dalaba is the most practical base for multi-day routes through the plateau. The terrain is varied: open grasslands on the high plateau, granite outcrops, forested river gorges, and the dramatic escarpment edges where the plateau drops in cliffs and waterfalls to the plains below. Fulani villages are scattered throughout, and local families will often offer hospitality to trekkers passing through.

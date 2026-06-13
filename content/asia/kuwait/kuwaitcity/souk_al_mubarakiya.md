@@ -15,6 +15,7 @@ story: >
   protectorate over Kuwait, a decision that kept the Ottomans out but shaped
   the country's political relationship with outside powers for the next century.
   His market has survived both decisions.
+score: 8.7
 ---
 
 Souk Al-Mubarakiya is the oldest market in Kuwait City, a covered labyrinth of narrow lanes where spice merchants, gold dealers, perfumers, fishmongers, and fabric sellers operate much as they have for generations. It is the most atmospheric place in the city for a morning walk — the smells of cardamom and frankincense competing with fresh fish, the gold shops glittering under fluorescent lights, the tea houses full of old men nursing small cups of sweet tea.

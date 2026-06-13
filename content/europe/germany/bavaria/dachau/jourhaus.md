@@ -12,6 +12,7 @@ story: >
   of the 20th century. The gate at Dachau was the original; the better-known one
   at Auschwitz was copied from it. The replica gate installed after the original
   was stolen and recovered in 2014 is an exact reproduction of the 1936 design.
+score: 8.4
 ---
 
 The Jourhaus is the gatehouse at the entrance to the prisoners' compound at Dachau concentration camp, and the iron gate spanning the entrance corridor — with its notorious "Arbeit macht frei" inscription — is one of the most charged objects in any memorial site in Germany.

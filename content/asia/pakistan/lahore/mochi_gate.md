@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 7.5
 ---
 
 The southern gate of the Walled City — the name means "cobbler" in Punjabi, a reference to the shoe-makers who historically worked in the bazaar inside. The original gate was demolished in the British period; what remains is the bazaar district, which still has the city's best concentration of **khussa** (traditional leather slipper) makers.

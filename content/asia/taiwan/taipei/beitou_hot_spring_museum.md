@@ -11,6 +11,7 @@ tags:
 title: Beitou Hot Spring Museum
 type: poi
 url: https://hotspringmuseum.taipei
+score: 7.9
 ---
 
 The Beitou Hot Spring Museum occupies the original 1913 Japanese public bathhouse that was the heart of Beitou's golden age as a spa town. The two-storey building is itself the attraction: brick downstairs with the cavernous original bath hall (a Romanesque-arched, stained-glass-lit pool, now empty), wooden upstairs with a tatami room and a wide veranda overlooking the valley.

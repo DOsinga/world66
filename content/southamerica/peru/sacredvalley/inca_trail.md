@@ -6,6 +6,7 @@ latitude: -13.2581
 longitude: -72.2633
 snippet: The classic four-day hike to Machu Picchu via the original Inca route
 story: The Peruvian government caps the number of people permitted to start the trail at 500 a day (including guides and porters), which works out to around 200 trekkers. Permits sell out four to six months in advance for the dry-season months of May to September.
+score: 9.8
 ---
 
 The classic Inca Trail is a four-day, three-night hike from a trailhead at Kilometre 82 (near Ollantaytambo) along the original Inca road to Machu Picchu. The walk passes through stunning montane scenery — cloud forest, high alpine passes, several intact Inca sites — and finishes by arriving at Machu Picchu through the Inti Punku (Sun Gate) at dawn on the fourth day.

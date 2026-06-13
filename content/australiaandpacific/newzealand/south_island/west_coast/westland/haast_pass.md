@@ -6,6 +6,7 @@ longitude: 169.3333
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Haast Pass is the southernmost route through the Southern Alps, connecting the West Coast to Wanaka and Queenstown across a pass that sits at only 563 metres — low enough to stay open year-round in all but the most extreme snowfall. The highway follows the Haast River through a river gorge of real drama: water-worn boulders, vertical walls of rainforest, and waterfalls that spill straight off cliff faces onto the road verge. The transition from the wet West Coast to the dry interior is one of the sharpest climate changes you can drive through in New Zealand, completed in about an hour.

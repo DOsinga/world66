@@ -7,6 +7,7 @@ tags:
 latitude: 59.6100
 longitude: -151.4800
 snippet: Guided and self-guided sea kayaking on Kachemak Bay with otters, eagles, and mountain views
+score: 8.6
 ---
 
 Kachemak Bay is one of the premier sea kayaking destinations in Alaska. The water is calm in the inner bay when the weather cooperates, sea otters float past at close range, bald eagles circle overhead, and the mountain backdrop across the water from Kachemak Bay State Park is rarely matched. Several outfitters on the Homer Spit offer guided half-day and full-day paddles, with all equipment provided and no previous kayaking experience required.

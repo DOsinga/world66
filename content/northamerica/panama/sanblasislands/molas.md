@@ -7,6 +7,7 @@ tags:
   - culture
 title: Molas
 type: poi
+score: 7.8
 ---
 
 Molas are the most important craft of the Guna people — appliquéd fabric panels made by cutting through multiple layers of coloured cloth to create intricate geometric and figurative designs. They depict animals, mythological figures, sea creatures, and abstract patterns drawn from the natural world of the islands. A woman may spend weeks on a single mola; the most complex examples can involve six or more layers of fabric and thousands of tiny stitches. They are worn sewn into blouses as part of everyday dress, not just as tourist souvenirs.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 snippet: "Quieter 232-metre hill east of Windermere with similar views to Orrest Head"
+score: 7.2
 ---
 
 School Knott rises to 232 metres east of Windermere — close in height to Orrest Head and with very similar views back over the lake to the Langdale Pikes, but with a fraction of the visitors. The summit is open, grassy, and sometimes shared with the few sheep that crop the fellside.

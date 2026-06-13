@@ -7,6 +7,7 @@ tags:
 title: Sisowath Quay
 type: poi
 snippet: Riverside promenade lined with bars, restaurants and street food stalls
+score: 7.5
 ---
 
 The two-kilometre stretch of road along the Tonle Sap and Mekong rivers is the city's most popular evening hangout. Locals gather on the grass strip between the road and the water from dusk onwards — families spread mats and share takeaway dinners, teenagers play badminton, exercise groups perform synchronised aerobics to booming speakers.

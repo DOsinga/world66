@@ -8,6 +8,7 @@ tags:
 - market
 title: Psar Kampong Cham (Central Market)
 type: poi
+score: 7.2
 ---
 
 A few blocks back from the river, Psar Kampong Cham is the daily produce, household-goods and food market for the entire province. The covered hall is given over to dried fish, fresh meat, vegetables, rice in open sacks, kitchenware and clothes; the lanes outside spread out for blocks with motorcycle parts, secondhand books, and stalls of locally pressed sesame oil.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 8.4778
 longitude: 124.6438
+score: 7.1
 ---
 
 The Divisoria district is the commercial heart of Cagayan de Oro and the place to get a sense of the city's trading culture. The market sells everything from fresh produce and dried fish to textiles, electronics, and cheap clothing. The nearby Plaza Divisoria is where the famous Friday and Saturday night market sets up — open-air food stalls and live music making it the liveliest place in the city after dark.

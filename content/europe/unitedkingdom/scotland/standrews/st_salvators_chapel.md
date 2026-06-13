@@ -6,6 +6,7 @@ tags: [things_to_do, sight, church]
 address: "North Street"
 latitude: 56.3414
 longitude: -2.7944
+score: 8.1
 ---
 
 The chapel of St Salvator's College stands at the centre of the medieval university, just inside the great gate on North Street. Its slender stone tower has dominated the rooflines of the town since 1450. Inside, the carved stone reredos behind the high altar and the tomb of the founder, Bishop James Kennedy, are both original survivors of the Reformation.

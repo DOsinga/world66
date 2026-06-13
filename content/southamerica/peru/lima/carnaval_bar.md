@@ -10,6 +10,7 @@ tags:
 neighbourhood: San Isidro
 snippet: Award-winning San Isidro cocktail bar, several times on the World's 50 Best Bars
 url: barcarnaval.com
+score: 7.8
 ---
 
 **Carnaval**, in San Isidro, has been on the World's 50 Best Bars list every year since 2019 and topped the Latin American 50 Best more than once. Bartender **Aaron Díaz** builds the menu around Latin American ingredients — Peruvian pisco, Mexican mezcal, Brazilian cachaça — applied to highly technical reinterpretations of classic drinks, often presented theatrically (smoke, ice carvings, paired bites).

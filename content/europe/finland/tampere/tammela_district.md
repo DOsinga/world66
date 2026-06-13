@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 61.4990
 longitude: 23.7780
+score: 7.1
 ---
 
 Tammela is a working-class residential neighbourhood east of the city centre that has acquired a reputation for independent cafes, bars, and small creative businesses without being gentrified out of its original character. Tammelan puistokatu (the park street that runs along the neighbourhood's northern edge) has a good concentration of independent bars and restaurants.

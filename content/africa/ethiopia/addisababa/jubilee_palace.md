@@ -13,6 +13,7 @@ story: >
   palace in a Volkswagen Beetle, deliberately chosen to humiliate a man whose name meant
   "Power of the Trinity." He died in captivity the following year; his remains were found
   under a palace staircase in 1992.
+score: 5.3
 ---
 
 The Jubilee Palace was built in 1955 to mark Emperor Haile Selassie's silver jubilee and served as the imperial residence until his overthrow in 1974. The building is now the official residence of the Ethiopian president and not open to the public, but its location and history make it a landmark worth knowing about.

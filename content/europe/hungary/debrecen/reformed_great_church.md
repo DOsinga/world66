@@ -9,6 +9,7 @@ tags:
   - church
   - architecture
 story: "It was from the pulpit of this church on 14 April 1849 that Lajos Kossuth read out Hungary's declaration of independence from the Habsburg empire. The church served as the Hungarian parliament for that brief revolutionary spring, and the original bench Kossuth spoke from is still in place — visitors can sit in it."
+score: 8.6
 ---
 
 The Great Reformed Church on Kossuth tér is the largest Protestant church in Hungary and the symbol Debrecen recognises itself by. Its twin yellow towers are visible from anywhere in the city centre, and the neoclassical facade has dominated the main square since the church was finished in 1819. The interior is austere by design — Calvinism stripped Hungarian churches of their saints and gold — but the scale of the central nave and the famous Rákóczi Bell (the largest bell in Hungary) give it real weight.

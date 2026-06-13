@@ -14,6 +14,7 @@ story: >
   above the river — hence the name "de la Peña," meaning "of the rock."
 sources:
   - https://en.wikipedia.org/wiki/Jes%C3%BAs_de_la_Pe%C3%B1a_Chapel
+score: 7.3
 ---
 
 The Jesús de la Peña Chapel, also known as the San Isidro Labrador Church, is the oldest surviving religious site in Marikina. It stands on a rocky outcrop in Barangay Concepción Uno, where Augustinian missionaries established the first place of worship in the area during the Spanish colonial era. The chapel is a small structure compared to the city's main parish church, but it has a quiet, atmospheric quality that the larger church lacks.

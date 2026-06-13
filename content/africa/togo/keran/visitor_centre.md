@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.0500
 longitude: 1.0667
+score: 5.8
 ---
 
 The small visitor centre at Naboulgou, on the road into the park from Kandé and Kara, is the administrative gateway to Kéran. Park entrance fees are paid here, rangers can be hired, and the centre keeps a small display about the park's ecology, history and the conservation work being done with local communities along the boundary.

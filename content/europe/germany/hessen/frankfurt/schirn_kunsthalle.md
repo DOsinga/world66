@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, altstadt]
 latitude: 50.1103
 longitude: 8.6836
+score: 7.8
 ---
 
 The Schirn Kunsthalle is Frankfurt's leading exhibition venue with no permanent collection — instead, it stages four to six major exhibitions a year of international modern and contemporary art. The building, opened in 1986, runs along the eastern flank of the Römerberg in a long red-and-glass arcade leading to a small rotunda; the architecture has dated less gracefully than the curating, but the exhibitions themselves are reliably strong.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The boardwalk's neon-lit 'WILDWOODS' sign on Rio Grande Avenue was installed in 2001 to mark a stretch that has hosted everything from Bill Haley's first public performance of 'Rock Around the Clock' in 1954 to the 'Watch the Tram Car, please' loudspeaker announcement that locals still recite from memory."
+score: 8.8
 ---
 
 The Wildwood boardwalk runs for nearly two miles along the beach, lined with arcades, custard stands, T-shirt shops, and the entrances to three amusement piers. It is wider and busier than most Jersey Shore boardwalks, and in midsummer the evening crowd is dense enough that you walk at the pace of the slowest stroller in front of you. That is part of the point.

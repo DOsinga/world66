@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4500
 longitude: -65.9950
+score: 7.1
 ---
 
 Pine Grove is the public beach section at the eastern end of Isla Verde, and it is the best surfing spot in the San Juan metro area. The break here is consistent and beginner-friendly — several surf schools operate from the beach, and you can rent boards and take lessons year-round. In winter, when north swells push through, the waves get more serious and the local surfers come out in force.

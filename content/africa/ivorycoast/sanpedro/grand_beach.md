@@ -7,6 +7,7 @@ tags:
 - beach
 title: Grand Beach (Plage de Grand)
 type: poi
+score: 6.8
 ---
 
 The beaches between San-Pédro and the Liberian border grow progressively emptier and wilder the further you go. Plage de Grand, roughly 15km west of the city, is a broad stretch of Atlantic coast backed by forest — the kind of beach that takes some effort to reach but rewards that effort with near-total solitude. The surf here is stronger than at Bali Beach and not always safe for swimming, so read the conditions before wading in.

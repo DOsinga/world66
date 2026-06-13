@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - museum
+score: 8.4
 ---
 
 The city museum is squeezed into four interconnected 17th-century townhouses on Rue du Saint-Esprit. The clever architectural intervention by Conny Lentz threads a glass lift through the historic shells; ride it from cellar to roof for a section through 1,000 years of city building. The permanent display runs from the foundation of the fortress to the EU era, with the cellars showing the actual rock-cut foundations of the medieval town.

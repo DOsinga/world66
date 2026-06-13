@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 30.0333
 longitude: -5.7833
+score: 6.5
 ---
 
 The Dunes of Tinfou are a small but beautiful dune formation about 20 kilometres north of M'Hamid on the road toward Zagora. They are far more accessible than Erg Chegaga — you can walk to the top of the main dune in twenty minutes — and less visited than the larger formations near Merzouga. For travellers without the time or budget for a full desert excursion, this is the most accessible taste of Saharan dunes in the region.

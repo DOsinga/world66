@@ -8,6 +8,7 @@ latitude: 40.6194
 longitude: 14.5538
 story: >
   The Arte a Furore project was initiated in the 1980s by the painter Marisa Albanese, who began inviting artists to create works on the walls and surfaces of the village. The tradition of hosting artists continues today, and new murals are added periodically. Some have survived for decades; others have faded into the limestone or been painted over, so the gallery is always slowly changing.
+score: 6.4
 ---
 
 The hamlet of Furore has been transformed over several decades into an open-air gallery, with murals, sculptures, and ceramic installations tucked into walls, stairways, and terraces throughout the scattered village above the fjord. International and Italian artists have contributed work, ranging from large painted murals to small ceramic plaques let into stone walls.

@@ -7,6 +7,7 @@ tags:
 - bar
 title: Rua José do Patrocínio (Cidade Baixa)
 type: poi
+score: 7.1
 ---
 
 Rua José do Patrocínio is the axis of Cidade Baixa's nightlife, a street that would be perfectly ordinary by day — terrace houses, small shops, a couple of bakeries — and becomes one of the most animated streets in southern Brazil by Thursday evening. The bars here are mostly small, informal, and spilling onto the pavement: no velvet ropes, no dress code, no attitude. Cold chopp (draft beer), caipirinhas made with local cachaça, and pastel from the street vendors are the consistent through-line.

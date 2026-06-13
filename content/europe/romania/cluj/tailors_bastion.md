@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 7.3
 ---
 
 The Tailors' Bastion is what remains of Cluj's medieval defences: a stocky stone tower at the southeast corner of the old citadel, first built in the 15th century and rebuilt after a Tatar attack in 1658. The tailors' guild was responsible for defending this stretch of wall — hence the name — and the building still has the murder-holes and arrow slits to prove it.

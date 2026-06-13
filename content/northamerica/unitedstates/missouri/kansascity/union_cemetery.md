@@ -7,6 +7,7 @@ tags:
 - historic
 title: Union Cemetery
 type: poi
+score: 7.3
 ---
 
 Union Cemetery, established in 1857, is the oldest cemetery in Kansas City and one of the more interesting in the Midwest for its historic significance. The most famous resident is no longer here — Jesse James was briefly buried at Union before being moved to Missouri — but the cemetery holds the graves of many of the city's founding figures, Civil War veterans from both sides, and former mayors and civic leaders going back to the 1860s.

@@ -9,6 +9,7 @@ latitude: 30.0044
 longitude: 31.2289
 story: >
   The Hanging Church gets its name from its location: it is built directly on top of the south gate of the Roman Fortress of Babylon, with its nave suspended over the gatehouse passageway — hence "hanging." Construction began in the 4th century, making it one of the oldest Christian churches in the world still in continuous use. Coptic Christians have been holding services here without interruption for roughly 1,600 years.
+score: 8.0
 ---
 
 The Hanging Church — Al-Mu'allaqa in Arabic, "the suspended one" — is the most visited of Coptic Cairo's ancient churches and one of the oldest continuously used Christian churches in the world. It sits atop the south gate of the Roman Fortress of Babylon in Old Cairo, its nave literally suspended over the ancient passageway below.

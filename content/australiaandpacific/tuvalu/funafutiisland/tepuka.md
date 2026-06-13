@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -8.477
 longitude: 179.082
+score: 7.0
 ---
 
 Tepuka is an uninhabited islet on the western edge of Funafuti's lagoon, inside the conservation area. It is a classic Pacific picture-book island: a strip of white sand, a stand of coconut palms, a small interior of pisonia forest, and reef on all sides. There is no jetty and no infrastructure — boats anchor offshore and you wade in.

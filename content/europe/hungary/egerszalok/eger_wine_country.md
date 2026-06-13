@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - wine
 snippet: Day trip to Hungary's most famous wine region, 10km from Egerszalók
+score: 6.8
 ---
 
 Egerszalók sits in the heart of the Eger wine region, one of Hungary's most celebrated. The city of Eger, just ten kilometres north, is surrounded by vineyards and the valley known as Szépasszony-völgy — the Valley of the Beautiful Women — is the classic destination for wine tasting. Dozens of small cellars line the valley, most of them serving their own wines directly from the barrel at very reasonable prices.

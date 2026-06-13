@@ -15,6 +15,7 @@ story: >-
   Slavery Bugle just three weeks after Truth spoke, contain neither the refrain
   nor the dialect: Truth, born in upstate New York, spoke Dutch as her first
   language and English with a New York accent.
+score: 5.3
 ---
 
 In May 1851 the Akron Women's Rights Convention gathered in the Old Stone Church on the corner of High and East Market streets, and Sojourner Truth — born enslaved in New York, by then a travelling preacher and abolitionist — rose to speak. The address that has come down to history as "Ain't I a Woman?" was given here, in the heart of what is now downtown Akron.

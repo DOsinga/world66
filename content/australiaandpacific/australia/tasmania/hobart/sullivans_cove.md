@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "The waterfront precinct — docks, ferry terminals, museums, and the head of the harbour"
+score: 8.1
 ---
 
 The historic harbour of Hobart, named after John Sullivan, a colonial secretary in London who never visited. Sullivans Cove is the neighbourhood that takes in Constitution Dock, Victoria Dock, the long sweep of **Hunter Street** (where the original government granaries still stand), Mawson Place, Macquarie Wharf, and Brooke Street Pier. It is the working harbour, the cruise-ship terminal, the ferry port, and the social hub of the city all at once.

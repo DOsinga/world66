@@ -7,6 +7,7 @@ snippet: The artist-and-restaurant neighbourhood south of downtown
 tags:
   - things_to_do
   - neighbourhood
+score: 7.9
 ---
 
 Tremont is the neighbourhood south of downtown, perched on a bluff above the Cuyahoga steel mills, threaded by a tangle of streets that ignore the surrounding grid. It is one of the oldest parts of Cleveland — Polish, Greek, Russian, Ukrainian, and Lebanese immigrants all moved in during the late 19th century, and their nine surviving Eastern Orthodox churches have given Tremont its distinctive skyline of onion domes.

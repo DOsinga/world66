@@ -13,6 +13,7 @@ tags:
   - sight
 title: Kisite Marine Park and Wasini Island
 type: poi
+score: 8.7
 ---
 
 Kenya's most rewarding marine destination, reached by boat from Shimoni village about 80 kilometres south of Diani. Kisite-Mpunguti Marine National Park protects a section of pristine coral reef with exceptional visibility and abundant fish life. The Indo-Pacific bottlenose dolphins that live here are encountered on almost every trip.

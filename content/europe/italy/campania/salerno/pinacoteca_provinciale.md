@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 40.6808
 longitude: 14.7651
+score: 7.0
 ---
 
 The Provincial Picture Gallery of Salerno occupies a floor of the Palazzo Pinto and houses the most significant collection of paintings in the province, spanning from the thirteenth to the nineteenth century. The medieval section contains panels and polyptychs from the Salerno area, including works linked to the workshop tradition that developed around the Norman court. The Renaissance and Baroque holdings include paintings by artists active in Naples during the seventeenth century — a period when Neapolitan painting was one of the most dynamic schools in Europe, producing works of raw drama and psychological intensity under the influence of Caravaggio.

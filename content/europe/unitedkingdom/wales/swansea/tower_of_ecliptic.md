@@ -9,6 +9,7 @@ latitude: 51.6135
 longitude: -3.9389
 neighbourhood: Maritime Quarter
 story: "The Tower was designed in 1991 by sculptor Robin Campbell so that on the equinoxes the rising sun aligns with the slot in its walls — both an art piece and a working observatory. It is one of the few public buildings in Britain commissioned as an astronomical instrument."
+score: 6.0
 ---
 
 This curious cylindrical building near the marina is half sculpture, half observatory. The Swansea Astronomical Society uses the rooftop telescope for occasional public open evenings, when you can climb the spiral stair and look at the moon, planets and bright deep-sky objects over the bay.

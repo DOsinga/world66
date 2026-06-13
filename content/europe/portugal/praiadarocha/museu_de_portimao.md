@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The museum is housed in a former Feu Hermanos sardine cannery, which operated from 1902 to 1995. The exhibition preserves the original processing lines — the gutting tables, the cooking vats, the sealing machines — and the museum's centrepiece is essentially the entire cannery, kept in place rather than removed."
+score: 7.7
 ---
 
 The Museu de Portimão is one of the most rewarding regional museums in southern Portugal, occupying the vast brick-and-tile former Feu Hermanos sardine cannery on the Arade river. The cannery operated until 1995, and the museum has preserved the original equipment in place: a complete industrial archaeology of the Algarve fishing economy across the twentieth century.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Linden–Lethem Road
 type: poi
+score: 6.8
 ---
 
 The Linden–Lethem road is Guyana's main interior highway, running about 482km south from Linden through the jungle and the Rupununi savannahs to the Brazilian border town of Lethem. It is a rough, largely unpaved road that passes through some of the most remote territory in South America, traversing several river crossings and passing through Amerindian villages.

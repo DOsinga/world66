@@ -11,6 +11,7 @@ story: >
   Among the museum's treasures is a wool cap that belonged to Henry VIII — one of only two surviving pieces of clothing associated with him, and the only one outside Britain. It was given to the mayor of Waterford as a royal gift in the sixteenth century and has remained in the city's possession ever since. The cap is displayed alongside other pieces of medieval Waterford's civic plate and regalia that are remarkable for a city of this size.
 sources:
   - https://en.wikipedia.org/wiki/Waterford_Treasures
+score: 9.1
 ---
 
 The Medieval Museum is the centrepiece of the Waterford Treasures complex — a purpose-built museum that incorporates two actual medieval structures within its walls. The thirteenth-century Choristers' Hall and the fifteenth-century Mayor's Wine Vault are built into the fabric of the exhibition spaces, so you move from modern gallery into genuine medieval chamber and back again as you progress through the collection.

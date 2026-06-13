@@ -6,6 +6,7 @@ longitude: 6.0697
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A long-running mountain cabin a short hike or ski above the resort, serving the kind of food skiers actually want at lunch: hot tartiflette, a big plate of charcuterie, vin chaud, a long terrace facing the sun. Reservations recommended on weekends. The walk back down through the larch trees is, by then, perfectly judged.

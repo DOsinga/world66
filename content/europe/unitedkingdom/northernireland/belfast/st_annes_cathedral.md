@@ -9,6 +9,7 @@ latitude: 54.6023
 longitude: -5.9257
 story: >
   St Anne's Cathedral houses the tomb of Sir Edward Carson, the barrister and politician who led the opposition to Irish Home Rule before the First World War and is regarded as the founder of Northern Ireland. Carson's memorial is in the south transept; the effigy shows him in legal robes rather than political dress. His legacy remains deeply contested — hero to unionists, villain to nationalists.
+score: 7.3
 ---
 
 St Anne's Cathedral — the Church of Ireland Cathedral of Belfast — is a rather fine Romanesque building in the Cathedral Quarter that has been under construction since 1899. The spire, which was added in 2007, is made of stainless steel and rises 40 metres above the roof; it was called the Spire of Hope and it catches the light magnificently in the afternoon.

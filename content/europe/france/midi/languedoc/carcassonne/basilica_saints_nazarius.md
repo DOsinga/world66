@@ -13,6 +13,7 @@ story: >
   Languedoc. The windows show both sides: crusaders and Cathars, victors and victims. The irony is
   that this window, commemorating a crusade launched partly against Carcassonne, sits inside the
   walls the crusaders fought to take.
+score: 8.7
 ---
 
 Inside the walls of the Cité, the Basilica of Saints Nazarius and Celsus combines two distinct medieval styles in one building: a Romanesque nave built between 1096 and 1130, and a Gothic transept and choir added in the 13th and 14th centuries after the Albigensian Crusade. The transition between the two styles is visible as you walk from the door toward the altar — the thick round columns and low barrel vault of the Romanesque give way suddenly to soaring Gothic ribbing and tracery.

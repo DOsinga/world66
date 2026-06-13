@@ -8,6 +8,7 @@ tags:
   - dal_lake_area
 latitude: 34.1519
 longitude: 74.8878
+score: 8.4
 ---
 
 The largest of the Dal Lake gardens in terms of drama, Nishat Bagh rises in twelve terraces from the lake shore up the steep slope of the Zabarwan Hills. Built in 1633 by Asaf Khan, the brother-in-law of Mughal Emperor Jahangir, it is named the "Garden of Gladness" and the name fits: the view from the upper terraces — over the lake, across to the city, and south to the Pir Panjal range — is the finest elevated panorama in Srinagar. The central channel descends through all twelve levels, cascading from fountain to fountain.

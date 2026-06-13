@@ -7,6 +7,7 @@ tags:
 - bar
 title: Hilton Sky Bar
 type: poi
+score: 6.0
 ---
 
 The rooftop bar of the Hilton Windhoek is the place to come for a drink at sunset. The view is comfortably the best in the city — west over the Klein Windhoek valley to the dry mountains, east to the Independence Memorial tower, north along Independence Avenue. Cocktails are pricey by Namibian standards but cheap by international ones.

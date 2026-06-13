@@ -6,6 +6,7 @@ longitude: -13.1000
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The dune fields of the Adrar region begin on the plateau above Atar and extend eastward towards Chinguetti. These are classic Saharan ergs — seas of sculpted sand in orange and gold, shifting slowly with the wind. The dunes near Atar are accessible by vehicle, and walking to the crest of the nearest ridge takes about an hour from the plateau road.

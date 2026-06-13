@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "When sculptor Timothy Schmalz's bronze figure of a homeless Jesus sleeping under a blanket on a park bench was installed at St Alban's Episcopal Church in 2013, several Davidson residents called the police thinking a real person was lying there. Others complained that the parish, in an affluent town, should not be making such a statement. The piece — the first installation of the now-globally-distributed sculpture — has stayed."
+score: 6.9
 ---
 
 In front of St Alban's Episcopal Church on Davidson's Main Street, on a low bench shaded by trees, a life-sized bronze figure lies wrapped in a blanket. Only the feet, exposed at the end of the bench and showing crucifixion wounds, identify the figure as Jesus. The face is hidden.

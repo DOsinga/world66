@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 story: "Exarchia is the heart of left-wing and anarchist Athens, a district where police rarely enter and political graffiti covers every wall. The November 1973 Polytechnic uprising — students against the military junta — began here and ended in tanks crushing the gates of the National Technical University on the western edge of the neighbourhood, leaving 24 dead and forcing the regime's collapse the following year."
+score: 7.6
 ---
 
 Exarchia is the most distinctive neighbourhood in central Athens — a tight grid of streets between the National Archaeological Museum and Lycabettus Hill, traditionally home to students, anarchists, left-wing intellectuals, and artists. The walls are covered floor-to-ceiling in political graffiti and stencil work, the bars stay open all night, and the central square is a permanent open-air debate.

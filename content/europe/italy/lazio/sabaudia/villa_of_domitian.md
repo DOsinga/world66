@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2685
 longitude: 13.0393
+score: 6.8
 ---
 
 On the southern shore of Lake Sabaudia, in a locality called Palazzo, are the substantial remains of an imperial Roman villa attributed to the emperor Domitian. The complex spread along the lagoon for several hundred metres and included thermal baths, a nymphaeum, a private harbour, and a long terraced garden looking out over the water. Most of what survives is brick and concrete substructure; the marble cladding and statuary were stripped centuries ago.

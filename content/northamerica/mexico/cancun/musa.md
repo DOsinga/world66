@@ -14,6 +14,7 @@ story: >
   growth. The installation began in 2009 as a deliberate strategy to
   divert snorkellers and divers away from the over-trafficked natural reefs
   off Cancun and to seed new ones.
+score: 8.1
 ---
 
 The Museo Subacuático de Arte sits underwater off the coast of Cancun, with two main galleries: Salon Manchones (deeper, for scuba divers) at 8-10 metres, and Salon Nizuc (shallow, for snorkellers) at 3-4 metres. The dominant installation is "Silent Evolution" — 450 life-cast figures, each modelled on a real Mexican villager, standing in a vast cluster on the sandy bottom and slowly being colonised by coral and sponges.

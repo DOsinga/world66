@@ -6,6 +6,7 @@ longitude: 12.3377
 tags:
   - things_to_do
   - beach
+score: 6.4
 ---
 
 Lido Burrone is Favignana’s most straightforward beach option, with sandier access and facilities that make it easier for families or anyone tired of rocky coves. It is less wild than the east-coast spots, but sometimes comfort is exactly what you need.

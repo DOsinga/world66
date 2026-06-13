@@ -9,6 +9,7 @@ tags:
 title: Grotta di Nettuno
 type: poi
 story: "The 654 steps of the Escala del Cabirol — Catalan for 'roe deer staircase' — were carved into the cliff face in the 1950s by a single engineer, Antonio Simon Mossa, who designed the entire route to spiral 110 metres down the limestone face. Local legend names the staircase for the wild goats that used to scale the cliffs."
+score: 8.3
 ---
 
 Neptune's Grotto is the dramatic sea cave at the foot of the Capo Caccia headland, twenty-four kilometres north-west of Alghero. The cave system extends four kilometres into the limestone cliff and contains a freshwater lake — Lake Lamarmora — surrounded by stalactites and stalagmites, some over a thousand years in formation. The acoustics are extraordinary, occasionally used for chamber concerts.

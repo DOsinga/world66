@@ -9,6 +9,7 @@ snippet: Regional university campus and home of the SWOSU Bulldogs
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 Southwestern Oklahoma State University, locally always just SWOSU, was founded in 1901 and has been the defining institution of Weatherford ever since. The campus is a pleasant cluster of mostly mid-20th-century buildings centred on a quadrangle.

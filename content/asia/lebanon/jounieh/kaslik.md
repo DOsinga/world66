@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.9831
 longitude: 35.6181
+score: 5.8
 ---
 
 Kaslik is the upscale commercial district on the northern edge of Jounieh, stretching along the coast toward Zouk Mosbeh. It has the densest concentration of restaurants, bars, and cafes outside Beirut, packed along the waterfront and in the streets behind it. For eating and nightlife, Kaslik is where most Lebanese come when they head north from the capital.

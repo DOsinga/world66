@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.5797
 longitude: 73.7475
+score: 7.3
 ---
 
 The Tribal Research and Training Institute museum documents the culture and daily life of the Adivasi communities of the Dang district — the Bhil, Warli, Gamit, and other groups who have inhabited these forests for centuries. The exhibits include traditional tools, ceremonial objects, musical instruments, and clothing, along with photographs and explanatory panels that give context absent from most of Gujarat's bigger museums.

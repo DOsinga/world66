@@ -8,6 +8,7 @@ tags:
   - space
 latitude: 66.047859
 longitude: -17.344387
+score: 5.6
 ---
 
 Outside the Exploration Museum stands a monument commemorating the Apollo astronauts who trained in northern Iceland in 1965 and 1967. It's a modest piece of public art — not a grand statue but a thoughtful marker — and it tends to stop people in their tracks once they understand what it's commemorating. The idea that Neil Armstrong and Buzz Aldrin were trudging across Icelandic lava fields to prepare for the Moon is the kind of fact that takes a moment to settle.

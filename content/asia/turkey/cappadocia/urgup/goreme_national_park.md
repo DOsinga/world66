@@ -9,6 +9,7 @@ story: >
   the most damaged. When the churches were repurposed as pigeon houses (hence "pigeon valley" nearby), the pigeons'
   droppings preserved some frescoes while destroying others. The eyes of the saints were scratched out by later
   iconoclasts, giving many figures an eerie, blank stare.
+score: 9.3
 ---
 
 The Göreme Open Air Museum is a UNESCO World Heritage Site about 10 kilometres from Urgup, containing a remarkable cluster of rock-cut Byzantine churches and monasteries dating from the 10th to 12th centuries. The churches are carved directly into the volcanic tuff and decorated inside with vivid frescoes — scenes from the life of Christ, portraits of saints, complex theological narratives painted in the warm ochres and blues that survive surprisingly well in the dry Cappadocian climate.

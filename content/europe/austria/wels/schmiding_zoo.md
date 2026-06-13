@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Schmiding started in the 1970s as a private bird collection — the bird park is still its strongest section, with one of central Europe's largest walk-through aviaries. The chimpanzees and orang-utans were added much later, in a purpose-built indoor jungle."
+score: 6.8
 ---
 
 About 8 km north of Wels, Zoo Schmiding is one of the bigger zoos in Austria and the obvious family outing from town. It started as a bird park — the aviaries are still the highlight, with parrots, hornbills and crowned cranes moving freely overhead — and has since expanded into a full zoo with around 4,000 animals.

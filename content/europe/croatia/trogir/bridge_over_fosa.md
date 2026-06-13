@@ -11,6 +11,7 @@ story: >
   The narrow channel called Foša separates the old town island from the mainland, and for centuries it was crossed by a drawbridge that could be raised in times of danger. The current pedestrian bridge, designed by Croatian architect Josip Seissel and installed in 2006, is a deliberately modern piece of engineering — a sleek curved form with a rope net along its sides that contrasts with the medieval walls it connects. It divides opinion locally but has become a popular social gathering spot.
 sources:
   - https://en.wikipedia.org/wiki/Bridge_over_Fo%C5%A1a_in_Trogir
+score: 6.5
 ---
 
 The Foša channel runs between the mainland and Trogir's island core, and the pedestrian bridge that spans it is a striking piece of contemporary design in a city otherwise dominated by medieval and Renaissance architecture. The net-sided walkway over the channel makes for an unusual crossing and gives good views along the old town walls in both directions.

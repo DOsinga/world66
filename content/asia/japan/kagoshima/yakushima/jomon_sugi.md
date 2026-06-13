@@ -15,6 +15,7 @@ story: >
   girth of 16.4 metres makes it the largest known living cedar in Japan.
 sources:
   - https://en.wikipedia.org/wiki/J%C5%8Dmon_Sugi
+score: 9.4
 ---
 
 Jōmon Sugi is the most famous of all the yakusugi cedars — old-growth Cryptomeria trees that grow in Yakushima's high interior forests. It sits at around 1,300 metres elevation, reachable only on foot via a trail that takes most walkers five to six hours each way. The name comes from the Jōmon period, Japan's prehistoric era, because the tree may be older than recorded Japanese civilisation.

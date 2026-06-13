@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0401
 longitude: 27.4216
+score: 8.3
 ---
 
 The ancient theatre of Halicarnassus sits on the hillside above the town, cut into the rock in the Hellenistic style with a spectacular view over the harbour and the bay. It was built in the 4th century BC and could seat around 13,000 people. The seating tiers are in reasonable condition, and the stage building has been partly restored for performances.

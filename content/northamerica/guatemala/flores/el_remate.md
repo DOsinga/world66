@@ -6,6 +6,7 @@ longitude: -89.804
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A scrappy roadside village on the eastern arm of Lake Peten Itza, 30 kilometres from Flores on the Tikal road. The reason to come is the lakeshore: clean water, quiet beaches, and a string of small lakeside hotels and restaurants that are a more peaceful alternative to staying in Flores itself.

@@ -8,6 +8,7 @@ latitude: 63.1180
 longitude: 7.8097
 sources:
   - https://en.wikipedia.org/wiki/Kvernberget
+score: 7.3
 ---
 
 Kvernberget is a barren rocky plateau rising to 205 metres on the eastern edge of Kristiansund, and the best viewpoint in the area. From the top you look out over the island town below, the archipelago of skerries and inlets stretching west toward the Atlantic, and on clear days the mountains of the interior — the peaks of the Trollheimen range are visible to the southeast. The airport sits at the base of the mountain, so you occasionally watch planes approach and depart directly below.

@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Siyadi House
 type: poi
+score: 7.7
 ---
 
 A beautifully preserved merchant's house in the Muharraq old town, built in the 19th century by the pearl trader Ahmed bin Qassem Siyadi. Part of the UNESCO-listed Bahrain Pearling Path, the house features ornate coffered ceilings, stained-glass windows, carved screens, and a large safe set into the wall of a small upper reception room — a nice glimpse of life during the peak years of the Gulf pearling economy.

@@ -12,6 +12,7 @@ story: >
   house signature — was Jim's own invention and reflects the Italian-American
   immigrant culture of mid-century Huntington. The booth seats and the
   chequered tablecloths are original.
+score: 5.9
 ---
 
 Jim's Steak and Spaghetti House is one of those restaurants that has outlasted every trend by simply refusing to change. It has been serving the same combination of grilled steaks and Italian-American pasta dishes since 1938, and the dining room looks much as it did then: deep booths, low lighting, and a menu that requires no explanation.

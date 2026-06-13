@@ -11,6 +11,7 @@ tags:
 - la_candelaria
 title: Plaza Bolivar
 type: poi
+score: 7.7
 ---
 
 The political and historic heart of Bogota, ringed by the Cathedral, the Congress, the Palace of Justice, and the city hall. The bronze statue of Simon Bolivar at the centre was the first monument to the Liberator erected in South America. Pigeons, street vendors, and occasional protests complete the scene. Start your exploration of La Candelaria here.

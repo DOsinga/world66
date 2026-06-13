@@ -7,6 +7,7 @@ tags:
 latitude: 43.0613
 longitude: 74.4775
 address: "Manas Airport, 25 km north of Bishkek"
+score: 4.8
 ---
 
 A small open-air display of decommissioned Soviet aircraft outside the terminal at Manas International — a Yak-40, a Tupolev Tu-154, and several MiG fighter jets. The park is essentially a roadside curiosity but worth a stop if you have time at the airport.

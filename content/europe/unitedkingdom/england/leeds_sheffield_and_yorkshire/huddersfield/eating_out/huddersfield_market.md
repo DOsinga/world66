@@ -6,6 +6,7 @@ tags:
 latitude: 53.6468
 longitude: -1.7826
 snippet: "Indoor and outdoor market with local produce, street food, and the town's best pie stall"
+score: 7.8
 ---
 
 Huddersfield Market has occupied the area around the Queensgate Market Hall since the Victorian era, and the indoor market building — a brutalist structure from 1970, contentious but striking — still houses a proper working market with butchers, fishmongers, greengrocers, and a range of food stalls that reflect the town's demographics accurately. This is not a gentrified food market; it is where people actually shop.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.0805
 longitude: 2.3989
+score: 5.9
 ---
 
 Bourges's city hall stands on Rue Jacques Rimbault, in a former episcopal palace dating from the 17th century. The building is dignified rather than spectacular — restrained classical facade, a courtyard, and a garden that opens directly onto the south side of the cathedral.

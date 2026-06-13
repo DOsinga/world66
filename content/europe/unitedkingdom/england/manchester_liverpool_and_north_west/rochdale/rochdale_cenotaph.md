@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.6163
 longitude: -2.1598
+score: 6.3
 ---
 
 The Rochdale Cenotaph stands on the Esplanade in front of the town hall, a prominent memorial to the town's dead in the First and Second World Wars. It was designed by Lutyens associate Walter Marsden and unveiled in 1922. The stone obelisk and surrounding garden occupy a prominent position at the civic heart of the town.

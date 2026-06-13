@@ -13,6 +13,7 @@ story: >
   the bay's entrance into federal waters, where local ordinances did not apply.
 title: Humboldt Bay Harbor Cruise
 type: poi
+score: 6.7
 ---
 
 The MV Madaket, a small passenger vessel that has been running harbor tours since 1910, departs from the foot of C Street for 75-minute cruises of Humboldt Bay. It is a good way to get a feel for the scale of the bay — the second-largest coastal bay in California — and to see the waterfront from the water. The cruise passes the fishing docks, the oyster beds, and the wetland margins that make the bay one of the most important shorebird habitats on the Pacific coast.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 7.5570
 longitude: 99.6105
+score: 6.5
 ---
 
 Sin Jiew is a covered food court in Trang's old town that has been serving Chinese-Thai food for several generations. The setting is functional rather than atmospheric — plastic tables, fluorescent lights, the usual food-court arrangement — but the food is excellent and very local. Dishes lean heavily on the Teochew Chinese traditions of the Hokkien immigrants who shaped southern Thai coastal cuisine.

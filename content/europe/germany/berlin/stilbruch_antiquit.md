@@ -12,6 +12,7 @@ title: Stilbruch Antiquitäten & Schmuck
 type: poi
 url: www.antik-stilbruch.de
 zipcode: '10623'
+score: 6.0
 ---
 
 It's far from being the largest antiques store in Berlin, but something about its dense inventories of Biedermeier-era furniture, tableware, and jewelry might appeal to your sense of schmaltz and nostalgia. Owner Margareta Wojcieszak makes sure that objects are waxed and polished to a high sheen. Everything seems to evoke a story about other places, other priorities, and other eras.

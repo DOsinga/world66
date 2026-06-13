@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Ruta de las Villas
 type: poi
+score: 7.8
 ---
 
 In the second half of the nineteenth century Benicàssim became the most fashionable summer-bathing resort in the province of Castelló — to the point where it was nicknamed "the Biarritz of the Levante". The wealthy bourgeoisie of Castelló and Valencia built a row of summer villas along the seafront here, in eclectic styles ranging from neoclassical to **modernista** to neo-Mudéjar.

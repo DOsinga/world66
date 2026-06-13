@@ -8,6 +8,7 @@ tags:
 latitude: -4.3323
 longitude: 55.6644
 snippet: "Giant tortoises roam freely on the island, descended from animals introduced to protect grazing land from invasive species"
+score: 7.6
 ---
 
 Aldabra giant tortoises were introduced to Cousin Island as part of the conservation management programme, and they now wander freely across the reserve. These are the world's largest tortoises — adults can reach 250 kilograms and live well over 100 years. On Cousin they are unhurried and entirely unafraid of visitors, making for close encounters impossible in the wild.

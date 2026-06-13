@@ -6,6 +6,7 @@ longitude: 101.391389
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 The regional capital of the Kerinci valley is a sprawling small town set in a perfect circular plain ringed by mountains. It is the practical base for visits to the southern sector of the national park, the place to find ATMs, decent accommodation, and a connection back to the wider road network. The bus station for Padang and Jambi is here.

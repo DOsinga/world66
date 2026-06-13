@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - medieval_quarter
+score: 8.2
 ---
 
 A two-level arcaded promenade designed in the late 18th century by Olaguíbel to bridge the difference in level between the medieval hill town and the new neoclassical city below. The lower arcade looks onto the Plaza del Machete; the upper one opens at the level of the old town walls.

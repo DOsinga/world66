@@ -16,6 +16,7 @@ story: >
   ruler Ali ibn Musa who commissioned the minaret. The Southern mausoleum, built in 1152,
   is the latest of the three and shows the refinement of Karakhanid decorative style
   over the 140 years between constructions.
+score: 8.3
 ---
 
 Three portal-tombs stand beside the Uzgen Minaret on the bluff above the river. They date from the 11th and 12th centuries, when Uzgen served as the eastern capital of the Karakhanid khanate — the first Turkic dynasty to convert to Islam. The Karakhanids controlled a large swath of Central Asia and the Silk Road, and their architectural patronage produced some of the most distinctive buildings of the period.

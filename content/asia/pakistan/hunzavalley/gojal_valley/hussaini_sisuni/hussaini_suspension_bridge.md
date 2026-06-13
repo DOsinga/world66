@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.4238
 longitude: 74.8825
 story: "Travel blogs routinely call this 'the most dangerous bridge in the world,' a label invented online and recycled endlessly. Locals use it without ceremony every day to get to and from school and work."
+score: 8.4
 ---
 
 A long pedestrian bridge of spaced wooden planks strung on a pair of steel cables, crossing the Hunza River below where it widens out toward Borit Lake. From a distance it looks like a length of wire suspended over a brown gorge; up close it sways and creaks underfoot, and the gaps between planks are easily wide enough to see the river through.

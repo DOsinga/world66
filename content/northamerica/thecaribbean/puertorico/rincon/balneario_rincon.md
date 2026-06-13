@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.3376
 longitude: -67.2542
+score: 6.5
 ---
 
 Balneario de Rincón is the main public beach on the south side of town, a wide stretch of sand with calm water protected from the heavy Atlantic swells that characterise the northern beaches. The public balneario (beach facility) has changing rooms, lifeguards on weekends and holidays, and a parking area. The beach is popular with local families, particularly on weekends.

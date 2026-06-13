@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: The breakfast institution — reindeer sausage, salmon hash, and serious queues
+score: 6.5
 ---
 
 The best-known breakfast and brunch spot in the city. Reindeer sausage hash, smoked-salmon eggs benedict, blueberry coffee cake, and a strong reliable cup of coffee. Lunch shifts to soups, sandwiches, and the daily quiche. Service is quick once you are seated; the queue out the door before you get in is the cost of the food being this good.

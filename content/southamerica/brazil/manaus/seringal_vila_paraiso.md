@@ -9,6 +9,7 @@ latitude: -3.2156
 longitude: -60.1539
 story: >
   The rubber estate at Vila Paraíso was built in 2002 as a film set for the Brazilian movie "A Selva", an adaptation of Ferreira de Castro's 1930 novel. After filming the state of Amazonas turned it into an open-air museum dedicated to the seringueiros, the tappers whose forced labour fed the wealth of Belle Époque Manaus.
+score: 7.1
 ---
 
 Vila Paraíso is a reconstructed seringal — a rubber-tappers' estate of the kind that operated in the upper Rio Negro from the 1880s to the 1920s. The site reproduces a barracão (the owner's house and store), a defumador for smoking latex, tappers' huts, and the trails through the forest where workers cut and bled the seringueira trees.

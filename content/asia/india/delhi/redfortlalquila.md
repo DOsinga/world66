@@ -9,6 +9,7 @@ tags:
 - old_delhi
 title: Red Fort (Lal Quila)
 type: poi
+score: 8.9
 ---
 
 The Red Fort is one of Delhi's most impressive sights. Built in red sandstone by Mughal Emperor Shah Jahan in 1648, the massive complex sits along the Yamuna river and is laid out as an irregular octagon.

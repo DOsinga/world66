@@ -7,6 +7,7 @@ tags:
 latitude: 41.1283
 longitude: 16.8667
 snippet: Medieval fortress built by Frederick II at the edge of the old town
+score: 7.7
 ---
 
 The Swabian Castle stands at the northwestern corner of the old town, a muscular Norman-Swabian fortress originally built around 1132 and thoroughly remodelled by the Emperor Frederick II of Hohenstaufen in the 13th century. The trapezoidal plan with round towers at the corners is characteristic of Frederician castle design, the same architectural intelligence that produced Castel del Monte and Castel Maniace.

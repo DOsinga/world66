@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 story: "The gallery's most famous holding is Eugene von Guérard's 1856 *View of Geelong* — bought back from a Welsh collector in 2006 for over A$3 million, partly through public donations from Geelong residents. It now hangs as the centrepiece of the Australian colonial-art rooms."
+score: 8.2
 ---
 
 The Geelong Gallery, on the northern edge of Johnstone Park, is one of the oldest and best regional art galleries in Australia, founded in 1896. The collection runs strong in 19th-century colonial landscape painting (von Guérard, Buvelot, Streeton, McCubbin) and includes a respectable holding of European decorative arts.

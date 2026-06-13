@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The national collection of English farming and rural history, on the University of Reading campus
+score: 8.3
 ---
 
 The Museum of English Rural Life — MERL to everyone who goes there — is the national collection of English agricultural and rural history, housed in a purpose-built gallery on the University of Reading campus, about a mile south of the town centre. It holds over a million objects: ploughs, wagons, tools, clothing, photographs, and the full archive of the old farming press. The collection is vast and eccentric in equal measure, and the curators have made a virtue of the eclecticism rather than suppressing it.

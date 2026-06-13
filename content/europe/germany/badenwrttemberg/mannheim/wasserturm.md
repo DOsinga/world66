@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Wasserturm
 type: poi
+score: 7.5
 ---
 
 The Art Nouveau water tower on Friedrichsplatz has been Mannheim's civic symbol since 1889. It stands 60 metres tall, surrounded by a formal park with fountains, and is flanked by the curved facades of Jugendstil apartment buildings. The tower itself is not open to the public, but the square around it is the natural centre of the eastern half of the grid and worth spending time in.

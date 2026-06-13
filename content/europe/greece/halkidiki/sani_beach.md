@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.1
 ---
 
 Sani sits on the upper west coast of Kassandra, where a long curve of fine sand meets a small, marshy wetland and a marina full of yachts. The beach is reliably calm and family-friendly; the wetland behind it is a Natura 2000 site and a good spot for birdwatching, especially during spring and autumn migrations.

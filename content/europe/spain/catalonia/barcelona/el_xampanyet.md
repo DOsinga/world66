@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: El Xampanyet
 type: poi
+score: 7.9
 ---
 
 El Xampanyet is a Barcelona institution on one of the oldest streets in the Born quarter, a few metres from the Picasso Museum. The bar serves its own house cava alongside anchovies from L'Escala, Iberian charcuterie, and simple tapas in a room lined with ceramic tiles that has not changed materially since 1929.

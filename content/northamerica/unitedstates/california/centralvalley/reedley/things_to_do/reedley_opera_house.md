@@ -9,6 +9,7 @@ tags:
 latitude: 36.5958
 longitude: -119.4491
 address: "1720 10th Street, Reedley, CA 93654"
+score: 6.8
 ---
 
 Built in 1905, the Reedley Opera House is the most recognizable building in town — a handsome brick structure that once hosted traveling theatrical companies and civic gatherings when Reedley was a booming agricultural hub. It fell into disrepair over the decades but was restored by the community and now operates as a performing arts venue hosting local theatre, concerts, and events.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Protected coastal dune and reedbed reserve at the mouth of the Tech river
+score: 6.8
 ---
 
 A small but precious nature reserve protecting one of the last sections of natural coastline between the Pyrenees and the Camargue: a strip of dunes, reedbeds and Mediterranean pinewoods at the mouth of the **Tech** river, just north of Argelès beach. The site supports a varied bird population — egrets, kingfishers, marsh harriers — and a patchwork of Mediterranean flora that has otherwise mostly disappeared under campsites and apartment blocks.

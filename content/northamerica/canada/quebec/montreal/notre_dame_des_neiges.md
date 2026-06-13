@@ -9,6 +9,7 @@ tags:
 snippet: Canada's largest cemetery — a vast Victorian garden of monuments on the slopes of Mount Royal
 sources:
   - https://en.wikipedia.org/wiki/Notre-Dame-des-Neiges_Cemetery
+score: 7.7
 ---
 
 Notre-Dame-des-Neiges is the largest cemetery in Canada, covering over 50 hectares on the western slopes of Mount Royal. Founded in 1854, it is the resting place of more than a million people — prime ministers, artists, athletes, and ordinary Montrealers — their monuments arranged along broad avenues shaded by mature trees. It is a garden cemetery in the Victorian tradition, designed as much for the living as the dead.

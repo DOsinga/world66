@@ -16,6 +16,7 @@ tags:
 - park
 title: Jardines del Rastro
 type: poi
+score: 6.5
 ---
 
 The Jardines del Rastro are a small public park outside the southern gate of the city walls, below the wall's highest section. The gardens are an unpretentious local amenity — benches, a café terrace, some mature trees — but they occupy a superb position: the wall rises directly behind you, and to the south the land drops away toward the Sierra de Gredos mountains, with views across a wide agricultural plateau. On clear days the Gredos peaks (rising to over 2,500 metres) are visible in the middle distance.

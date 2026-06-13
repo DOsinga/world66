@@ -8,6 +8,7 @@ latitude: 8.57678
 longitude: 81.24161
 sources:
   - https://en.wikipedia.org/wiki/Gokanna_Vihara
+score: 6.2
 ---
 
 Gokanna Vihara is a Buddhist temple complex on the Swami Rock headland, adjacent to the fort and below the Hindu Koneswaram Temple. The site is ancient — Trincomalee's older name "Gokanna" refers to this sacred location — and the vihara marks a significant Buddhist pilgrimage point on the eastern coast.

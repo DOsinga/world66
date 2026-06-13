@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The church of Saint-Jacques in Le Carbet dates to 1645, making it one of the oldest churches in the entire Caribbean. The building has been rebuilt and restored several times following hurricanes and the 1902 eruption of Mont Pelée, which destroyed the nearby city of Saint-Pierre and sent ash and tremors across the northern part of the island. The current structure preserves much of the original floor plan.

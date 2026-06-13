@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Taprock Northwest Grill
 type: poi
+score: 5.7
 ---
 
 Taprock sits directly on the south bank of the Rogue, with a wide deck looking onto the river. The menu is centred on Pacific Northwest staples — Chinook salmon, locally caught steelhead, regional beef — with a serviceable list of Oregon wines and a strong selection of regional beers.

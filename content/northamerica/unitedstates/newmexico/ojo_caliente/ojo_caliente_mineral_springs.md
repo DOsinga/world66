@@ -13,6 +13,7 @@ story: >
   from nearby pueblos considered the springs sacred long before Spanish colonists named
   them in the 16th century. The same five mineral sources — arsenic, iron, lithia, soda,
   and sodium — still bubble up from the same volcanic hillside today.
+score: 8.4
 ---
 
 Five different geothermal springs emerge from the hillside here, each with a distinct mineral composition: arsenic, iron, lithia, soda, and sodium. The pools are named for their predominant mineral, and regulars swear each has different therapeutic properties. Whether or not you believe in the curative claims, the warm water and spectacular desert scenery make for a genuinely restorative experience.

@@ -8,6 +8,7 @@ tags:
 snippet: Painted hillside village built by wartime refugees
 latitude: 35.0970
 longitude: 129.0109
+score: 8.2
 ---
 
 A hillside neighbourhood of pastel-painted houses stacked up a steep slope above the city's western waterfront. The village was built by refugees during the Korean War, many of them followers of a Taoist sect called Taegukdo who settled here in close-knit clusters. The density and the topography — houses climbing one above the other, connected by narrow alleys and painted staircases — give it a look unlike anywhere else in Korea.

@@ -14,6 +14,7 @@ story: >
   meet Pope Paul V. By the time he returned home in 1620, Japan had effectively
   closed itself to the West and his mission was politely forgotten for nearly
   three centuries.
+score: 4.8
 ---
 
 A bronze statue of the 17th-century samurai diplomat Hasekura Tsunenaga, in full court dress with his sword at his side, stands on the seafront not far from the Church of the Holy Japanese Martyrs. The statue was a 2014 gift from the Japanese city of Sendai (Hasekura's home) to mark the 400th anniversary of his landing at Civitavecchia.

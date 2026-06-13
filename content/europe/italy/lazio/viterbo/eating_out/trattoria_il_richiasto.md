@@ -6,6 +6,7 @@ longitude: 12.1055
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 Il Richiasto is a long-standing trattoria in the old town that serves straightforward Viterbese cooking without pretension. The menu follows the seasons: in autumn expect pasta with porcini from the Cimini hills and slow-roasted pork with wild herbs; in spring there are artichokes from the volcanic plain and lamb. The *acquacotta* — the local peasant soup of vegetables, eggs, and Pecorino on stale bread — is reliably good year-round.

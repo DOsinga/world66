@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.3592
 longitude: 8.5775
+score: 5.8
 ---
 
 The Marina di Varazze is one of the larger yacht harbours on the western Ligurian Riviera, with berths for about 300 boats and a full range of facilities for visiting sailors. The marina sits just east of the main beach and is surrounded by cafes and seafood restaurants catering to the sailing crowd.

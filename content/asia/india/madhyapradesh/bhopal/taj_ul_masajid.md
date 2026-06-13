@@ -9,6 +9,7 @@ longitude: 77.393
 snippet: "One of the largest mosques in India, with twin pink minarets reflected in the Upper Lake"
 story: >
   The Taj-ul-Masajid was begun in the 1870s by Nawab Shah Jahan Begum, one of the four remarkable women who ruled Bhopal as Nawabs during the 19th and early 20th centuries. Construction was repeatedly interrupted — by funding shortfalls, political upheavals, and the death of the Nawab herself — and the mosque was only completed in 1985, over a century after it was started. The name means "Crown of Mosques."
+score: 8.9
 ---
 
 The Taj-ul-Masajid is Bhopal's most spectacular building and one of the largest mosques in Asia. Its two pink sandstone minarets rise 18 storeys above the city and can be seen from across the Upper Lake; at sunset the light catches the sandstone and the whole structure seems to glow. The central courtyard can hold thousands of worshippers and the three white domes over the prayer hall are imposing even from a distance.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The stairs are named for Valery Chkalov, the Soviet test pilot who in 1937 completed the first non-stop flight from Moscow over the North Pole to Vancouver, Washington — a distance of nearly 9,000 kilometres. Born in a village near Nizhny Novgorod, he died the following year testing a new fighter prototype. The statue at the top shows him in his leather flying gear with his arms crossed, looking out over the same river he crossed as a child.
+score: 7.9
 ---
 
 Chkalov Stairs is the grand staircase descending from the Upper Town to the Volga embankment — 560 steps arranged in a double zigzag pattern that makes the descent feel ceremonial rather than merely practical. Built in the Stalinist period, the stairs are flanked by balustrades and turn back on themselves at a midpoint landing, giving successive views of the river below. At the top stands the bronze statue of pilot Valery Chkalov for whom the stairs are named.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 36.9733
 longitude: -122.0283
+score: 5.9
 ---
 
 A beloved Santa Cruz institution: a rambling Victorian house on Cedar Street converted to a multi-room café, with a large porch for outdoor seating and a back room hung with local art. Pergolesi has been a meeting place for Santa Cruz's counterculture, student, and academic communities since 1989, and the atmosphere reflects it — the conversations around you will cover everything from evolutionary biology to local politics.

@@ -1,6 +1,7 @@
 ---
 title: "Bay Swimming and Water Sports"
 type: poi
+score: 7.2
 ---
 
 Punat Bay is one of the calmest stretches of water on Krk Island, and that makes it a reliable spot for swimming even when the open coast is rough. The main beach runs along the town waterfront and is pebbly underfoot, with clear water that warms quickly in early summer and stays warm well into September. The gentle slope and lack of waves makes it a favourite with families travelling with small children.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Whitewashed village church with vivid medieval ceiling frescoes"
+score: 8.0
 ---
 
 Elmelunde Church is the oldest stone church on Møn, parts of it dating from around 1080. The plain whitewashed exterior gives no clue to what's inside: the vaulted ceilings are covered in vivid late-medieval frescoes painted around 1480 by the unnamed artist known as the Elmelunde Master, whose work appears across several Møn churches. The scenes — Adam and Eve, the Last Judgement, the Magi — were intended as a Bible for a congregation that could not read.

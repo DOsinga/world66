@@ -14,6 +14,7 @@ story: >
   secondary burial chamber, a repository for cleaned bones rather than a site of
   primary burial. This practice, known as ossuary burial, was widespread in
   prehistoric cultures of the western Mediterranean.
+score: 7.9
 ---
 
 The Naveta des Tudons is the oldest intact building in Spain still standing — a boat-shaped stone funerary chamber built around 1000 BC during the Talayotic Bronze Age culture that flourished across Menorca. The structure is built of large dry-stone blocks fitted together without mortar, and despite three thousand years of weather and occasional plundering, it is remarkably well preserved. The chamber is divided into two levels by a stone shelf; a narrow entrance at the west end requires most visitors to stoop.

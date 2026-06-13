@@ -7,6 +7,7 @@ tags:
 - park
 title: Liberty Park
 type: poi
+score: 6.3
 ---
 
 Liberty Park is Salt Lake City's largest urban park, a 110-acre green space about two miles south of downtown. The park includes tennis courts, a small amusement area, an aviary, walking and running paths, ponds, and a swimming pool, making it the primary outdoor recreation space for the central city.

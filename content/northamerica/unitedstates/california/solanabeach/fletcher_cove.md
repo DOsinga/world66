@@ -7,6 +7,7 @@ tags:
 latitude: 32.9924
 longitude: -117.2730
 snippet: "Main beach access in Solana Beach, with surf, tide pools, and bluff-top whale watching"
+score: 7.3
 ---
 
 Fletcher Cove is the main beach access point in Solana Beach — a small sandy cove at the foot of the sandstone bluffs, reached via a ramp from the clifftop park. The break here is popular with surfers; the waves are generally better suited to intermediate and experienced riders than to beginners. At low tide, the rocky reef to the north exposes tide pools with anemones, starfish, and hermit crabs.

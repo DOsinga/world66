@@ -8,6 +8,7 @@ latitude: 54.581
 longitude: -5.9339
 story: >
   The Palm House at the Botanic Gardens was designed by Charles Lanyon — the architect responsible for much of Victorian Belfast — and completed in 1852. It was one of the earliest examples of curvilinear cast-iron glasshouse construction in the world, predating Paxton's Crystal Palace in London. The structure has been restored several times and is now painted white during summer to prevent the plants from being scorched by direct sunlight.
+score: 7.2
 ---
 
 The Belfast Botanic Gardens stretch across 28 acres near Queen's University, a fine Victorian public park with a remarkable glass Palm House and a curvilinear Tropical Ravine. The gardens are open daily and free to enter, and they're used by university students and local residents as an everyday green space — picnicking on the lawns in summer, walking the tree-lined paths in autumn.

@@ -6,6 +6,7 @@ longitude: -3.7261
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Tablas de Daimiel is the smallest of Spain's national parks but biologically one of the richest, a wetland created by the meeting of two saline rivers and historically the chief habitat for migratory waterfowl on the southern meseta. The reserve has suffered repeated droughts caused by groundwater extraction for agriculture — at times it has nearly disappeared — and the recovery of the marshes remains a national-park cause célèbre.

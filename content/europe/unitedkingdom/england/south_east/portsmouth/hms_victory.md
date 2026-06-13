@@ -9,6 +9,7 @@ tags:
   - historic_dockyard
 story: "Nelson was shot by a French musketeer firing from the rigging of the Redoutable at about 1.15pm on 21 October 1805. He lived for another three hours below decks, long enough to be told that the British had won, before dying with the words 'Now I am satisfied. Thank God I have done my duty.' His body was preserved in a barrel of brandy for the trip home."
 neighbourhood: Historic Dockyard
+score: 9.2
 ---
 
 The world's oldest commissioned warship, Nelson's flagship at the Battle of Trafalgar on 21 October 1805. Launched in 1765, the Victory was already forty years old at Trafalgar; the ship is preserved in dry dock at the Historic Dockyard as it would have appeared on that day.

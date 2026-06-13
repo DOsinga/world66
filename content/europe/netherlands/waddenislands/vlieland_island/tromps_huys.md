@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sight]
 snippet: "17th-century captain's house with a museum on the history of the island"
 latitude: 53.2978
 longitude: 5.0648
+score: 7.6
 ---
 
 Tromp's Huys is the oldest surviving building in Oost-Vlieland, a captain's house from 1576 that was later associated (though the link is more legend than fact) with the family of Admiral Maarten Tromp. The interior is preserved in 17th-century style with original beams, tiled stoves, and Delft Blue tile work, and serves as the village museum.

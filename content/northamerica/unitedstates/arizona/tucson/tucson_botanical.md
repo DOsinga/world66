@@ -9,6 +9,7 @@ url: "tucsonbotanical.org"
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Tucson Botanical Gardens occupy a series of small themed gardens on what used to be a private estate north of downtown — a pleasant 5.5-acre maze of paths through a Mediterranean garden, a herb garden, a children's discovery garden, a Native American crops plot, and the highlight, an enclosed butterfly conservatory.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - midtown
   - sight
+score: 7.8
 ---
 
 Memphis Zoo, inside Overton Park, consistently ranks among the best zoos in the South and has a genuine claim to being one of the best in the country. The collection includes giant pandas on loan from China — a distinction shared by only a handful of American zoos — as well as a well-maintained big cat complex, a large primate section, and a recreation of an ancient Egyptian gateway (the Tut exhibit) that has become one of the zoo's most photographed features. The grounds are well landscaped and the enclosures have been substantially modernized over the past two decades.

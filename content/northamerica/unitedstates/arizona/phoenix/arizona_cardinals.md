@@ -9,6 +9,7 @@ tags:
 title: Arizona Cardinals
 type: poi
 url: www.azcardinals.com
+score: 6.5
 ---
 
 The Arizona Cardinals of the NFL play at State Farm Stadium in nearby Glendale, about 20 minutes west of downtown Phoenix. The season runs from August through December or January. The stadium has hosted the Fiesta Bowl and multiple Super Bowls, and its retractable roof and roll-out natural grass field make it an engineering curiosity worth seeing even if football isn't your thing. Check the schedule early — popular games sell out.

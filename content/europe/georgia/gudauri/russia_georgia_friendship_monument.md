@@ -12,6 +12,7 @@ story: >
   Russian protection against Persian and Ottoman invasions, the monument now stands as a complicated symbol:
   the friendship it commemorates has soured into two wars and an ongoing Russian occupation of Georgian territory.
   The murals inside still show Soviet-era scenes of Georgian-Russian brotherhood.
+score: 7.3
 ---
 
 A large circular panoramic viewpoint on the Jvari Pass, about 2,400 metres above sea level, with one of the finest views on the Georgian Military Highway — the Aragvi river gorge unfolding below, the Greater Caucasus ridgeline spreading north, and the Soviet road itself curving through the mountain in engineered switchbacks. The circular structure is decorated inside with mosaics depicting scenes of Georgian-Russian brotherhood.

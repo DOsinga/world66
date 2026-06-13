@@ -17,6 +17,7 @@ story: >
   career painting for his home state rather than in Mexico City, and the
   murals are understood locally as a political statement about Yucatecan
   identity as much as a work of art.
+score: 8.2
 ---
 
 The Palacio de Gobierno faces the Plaza Mayor from the north and houses the offices of Yucatán state government, but it is open to the public for a compelling reason: the murals of Fernando Castro Pacheco, which cover the main staircase and the upper hall with a sweeping narrative of Yucatecan and Maya history. The paintings are enormous, saturated with colour, and deeply political — Pacheco's Maya figures are proud, suffering, and ultimately triumphant, and the Spanish are not presented sympathetically.

@@ -13,6 +13,7 @@ story: >
   reportedly runs red — interpreted as the goddess's menstrual cycle. The temple
   closes for three days during this Ambubachi festival; on the fourth day,
   pilgrims receive scraps of red cloth said to have been used by Kamakhya.
+score: 9.5
 ---
 
 Set high on Nilachal Hill above the Brahmaputra, Kamakhya is one of the 51 Shakti Pithas — places where, according to myth, parts of the goddess Sati's body fell when Vishnu dismembered her — and a centre of Tantric Hinduism for over a thousand years. The current structure dates from the 17th century, rebuilt by the Koch king Naranarayan after the original was destroyed by Muslim invaders; the distinctive beehive-shaped shikhara is a hybrid Nilachal style unique to this temple.

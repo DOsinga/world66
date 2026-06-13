@@ -8,6 +8,7 @@ latitude: 41.73416
 longitude: -111.82794
 story: >
   The Logan Temple was the second temple completed by the Church of Jesus Christ of Latter-day Saints, finished in 1884 after a seven-year construction effort largely carried out by Cache Valley settlers who donated labour, materials, and money over years. The architect Truman O. Angell, who also designed the Salt Lake Temple, drew on Gothic and Early Christian sources for a building that was deliberately unlike anything else in the Utah landscape.
+score: 6.3
 ---
 
 The Logan Utah Temple is the most prominent building in Logan, its twin towers rising above the city on a hill visible from most of the valley. Completed in 1884, it was built by pioneering Latter-day Saint settlers over seven years and remains in active use. The architecture is striking: a pale cream-coloured castellated Gothic structure that looks simultaneously medieval and uniquely American.

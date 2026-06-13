@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 43.2034
 longitude: -71.5371
+score: 4.7
 ---
 
 True Brew Barista, on South Main Street next to Red River Theatres, is the de facto downtown living room — a small cafe that does serious coffee and a steady food menu of pastries, soups and sandwiches. Local roasters supply most of the beans; the espresso is reliably good. The room has a few tables, a bar along the front window, and a corner stage that hosts open-mic nights and small acoustic acts most evenings.

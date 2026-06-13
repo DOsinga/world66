@@ -11,6 +11,7 @@ story: >
   The Bagmati River flows into the Ganges, and Hindus believe that cremation here — with ashes scattered in the Bagmati — ensures release from the cycle of rebirth. Dying in Pashupatinath is considered so auspicious that some elderly and terminally ill Nepalis travel from across the country to spend their final days in the Mrigasthali hospice near the temple.
 sources:
   - https://en.wikipedia.org/wiki/Pashupati_Aryaghat
+score: 8.8
 ---
 
 The cremation ghats along the Bagmati River are the spiritual heart of Pashupatinath. Arya Ghat, immediately downstream of the main temple bridge, is reserved for royalty and high-caste Hindus. Ordinary citizens are cremated at Bhasmeshvar Ghat, a short walk further downstream.

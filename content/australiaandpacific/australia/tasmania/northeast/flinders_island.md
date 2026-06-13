@@ -10,6 +10,7 @@ title: Flinders Island
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Flinders_Island
+score: 8.8
 ---
 
 Flinders Island lies about 70 kilometres north of Tasmania in the Bass Strait, the largest of the Furneaux Group. At 1,367 square kilometres it is a substantial island, but only about 800 people live here permanently, which means you can walk beaches that see almost no visitors and camp in the bush without booking.

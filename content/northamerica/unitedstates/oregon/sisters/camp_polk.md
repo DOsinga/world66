@@ -13,6 +13,7 @@ tags:
 - historic
 title: Camp Polk Meadow Preserve
 type: poi
+score: 6.5
 ---
 
 Camp Polk Meadow Preserve is a 145-acre nature reserve about five kilometres north of Sisters along Whychus Creek, managed by the Deschutes Land Trust. It was the site of a short-lived U.S. Army camp during the Indian Wars of the 1860s and was later a working ranch. The Land Trust now manages it as a wildlife area with restored riparian meadows, oxbows along the creek, and walking trails.

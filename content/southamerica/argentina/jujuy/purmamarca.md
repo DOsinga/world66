@@ -11,6 +11,7 @@ tags:
 - village
 title: Purmamarca
 type: poi
+score: 8.7
 ---
 
 The most photographed village in the quebrada sits at the foot of the Cerro de los Siete Colores, the rainbow-striped hill that gives it its name. Walking the streets at dawn or sunset, when the rock walls shift through their full palette, is the reason most travellers come — and many stay overnight in one of the small adobe inns to catch both.

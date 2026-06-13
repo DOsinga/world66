@@ -5,6 +5,7 @@ tags: [things_to_do, hiking, nature]
 latitude: -13.3500
 longitude: -72.5500
 snippet: Five-day high-mountain trek around Mount Salkantay, finishing at Machu Picchu
+score: 8.6
 ---
 
 A challenging five-day trek around the flanks of Salkantay (6,271 m), one of the most sacred peaks in the Cusco region. The route climbs to a pass at 4,650 m, then descends rapidly through dramatic alpine and cloud-forest terrain to Aguas Calientes and Machu Picchu.

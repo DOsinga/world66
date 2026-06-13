@@ -14,6 +14,7 @@ story: >
   Edmontonians took some convincing; most have come around.
 sources:
   - https://en.wikipedia.org/wiki/Art_Gallery_of_Alberta
+score: 7.5
 ---
 
 The Art Gallery of Alberta occupies a standout building on Sir Winston Churchill Square in downtown Edmonton — a swirl of stainless steel and zinc that is either inspired or ostentatious, depending on who you ask. Inside, the collection is strong on Alberta and Canadian artists, with rotating exhibitions that bring international work to the city.

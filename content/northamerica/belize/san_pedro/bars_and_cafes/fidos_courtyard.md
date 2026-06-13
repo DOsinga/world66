@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 17.9146
 longitude: -87.9652
+score: 5.7
 ---
 
 Fido's Courtyard is the social hub of San Pedro's town centre — a large open-air bar, restaurant, and entertainment venue on the waterfront. The thatched roof, fairy lights, and broad deck are unpretentious in a way that feels right for a place this size. Belikin is on tap and the pours are generous.

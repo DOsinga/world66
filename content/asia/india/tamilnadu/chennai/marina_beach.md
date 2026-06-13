@@ -9,6 +9,7 @@ latitude: 13.0500
 longitude: 80.2824
 snippet: "The longest urban beach in India — 13 kilometres of sand and Tamil life."
 story: "Marina Beach is where Chennai comes to breathe. Thirteen kilometres of uninterrupted sand, the longest urban beach in India and one of the longest in the world. The beach is not for swimming — the surf is dangerous and the water is dirty — but that doesn't matter at all. What happens on Marina is a procession of evening walkers, kite fliers, corn vendors, politicians giving speeches, cricket games, and family picnics that begins at dusk and continues past midnight. Early morning is a different world: fishermen sorting catches, joggers, and an almost meditative quiet before the crowds arrive."
+score: 8.8
 ---
 
 Marina Beach stretches for 13 kilometres along the Bay of Bengal, running south from the Cooum River mouth through the heart of Chennai. It is the longest natural urban beach in India and one of the longest in the world — a fact the city is justifiably proud of.

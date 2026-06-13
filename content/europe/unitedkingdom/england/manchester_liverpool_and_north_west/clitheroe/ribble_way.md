@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 53.871
 longitude: -2.392
+score: 6.4
 ---
 
 The Ribble Way is a 73-mile long-distance footpath following the River Ribble from its source in the Yorkshire Dales to the sea at Lytham. Clitheroe is roughly at the halfway point and makes a natural base for day walks along the river in either direction. The stretch north of Clitheroe toward Sawley and Bolton-by-Bowland passes through some of the most unspoiled pastoral countryside in Lancashire.

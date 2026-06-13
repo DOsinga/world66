@@ -6,6 +6,7 @@ longitude: 11.0710
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The small Place du Caire is the social heart of the medina — a tree-shaded square ringed by old wooden doors, a fragment of the Mustapha Hamza mosque on one side and several cafes spilling tables onto the cobbles. Locals come here for mint tea and a domino game; in spring the bougainvillea takes over the walls.

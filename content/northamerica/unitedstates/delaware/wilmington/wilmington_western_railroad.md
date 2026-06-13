@@ -6,6 +6,7 @@ longitude: -75.6433
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Wilmington & Western is a heritage railway running through the Red Clay Valley west of the city — a 10-mile branch line that operates seasonal steam and diesel trains on weekends from spring through fall. The route follows the Red Clay Creek through wooded valleys and farmland, with stops at Mt. Cuba Picnic Grove and the Hockessin station.

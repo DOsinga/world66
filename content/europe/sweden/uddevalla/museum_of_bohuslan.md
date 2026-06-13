@@ -10,6 +10,7 @@ story: >
   The museum was founded in 1863 — making it one of the oldest regional museums 
   in Sweden — in a town that was then still rebuilding after a devastating fire 
   in 1806 had destroyed most of the old wooden town centre.
+score: 7.8
 ---
 
 The Museum of Bohuslän is the main cultural institution in the province, housed in a building in the centre of Uddevalla. The collections cover the full sweep of Bohuslän history: Bronze Age rock carvings (the best of which are along the coast to the north), Viking-era finds, the medieval and early modern herring trade that made coastal towns like Uddevalla wealthy, and the shipbuilding and fishing industries that dominated until the 20th century.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 38.3492
 longitude: -120.7728
+score: 7.7
 ---
 
 Jackson's Main Street and the side streets running off it preserve a tight cluster of brick and wood-frame commercial buildings from the second half of the 19th century — most of them rebuilt after fires in the 1860s, when wooden Gold Rush construction repeatedly burned down. The National Trail Saloon, the National Hotel (the oldest continuously operating hotel in California, since 1862), and a string of antique shops still face the street.

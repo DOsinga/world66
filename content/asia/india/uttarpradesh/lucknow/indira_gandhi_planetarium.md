@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 26.8489
 longitude: 80.9456
+score: 5.6
 ---
 
 The Indira Gandhi Planetarium is a Saturn-shaped building on the banks of the Gomti — a 21-metre dome painted to imitate the ringed planet, supported on stubby columns that double as exhibition halls. It opened in 2003 and contains one of the largest planetariums in Asia, with a hybrid optical-and-digital projection system imported from Japan.

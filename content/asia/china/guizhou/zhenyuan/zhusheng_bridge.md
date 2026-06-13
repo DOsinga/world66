@@ -12,6 +12,7 @@ story: >
   making it older than the current stone arch, which was rebuilt in 1723. The Zhuangyuan Pavilion
   on the bridge's midpoint was traditionally where candidates rested after crossing to sit their
   imperial examinations in the academy above.
+score: 7.8
 ---
 
 The Zhusheng Bridge spans the Wuyang River at the east end of Zhenyuan's old town, a 135-metre stone arch bridge that has connected the north and south banks since the Ming dynasty. The current structure dates from 1723 — the first year of the Yongzheng emperor's reign — though bridges have occupied this crossing since the 14th century. At 8.5 metres wide and 14 metres above the water, it is substantial enough to have served as the town's main commercial artery for three centuries.

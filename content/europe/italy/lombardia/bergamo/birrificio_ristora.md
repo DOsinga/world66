@@ -11,6 +11,7 @@ tags:
 title: Birrificio Ristorante Pizzeria Maivisto
 type: poi
 url: www.maivisto.info
+score: 5.0
 ---
 
 A Brew Pub which sells 4 kinds of beer - home made with local mountain water and passion: pils, ale, double bock and a scotch ale which can also be had from the spout. It's located in an old restructured building with a cantina, a courtyard and a terrace with room for 500 people. Closed Mondays.

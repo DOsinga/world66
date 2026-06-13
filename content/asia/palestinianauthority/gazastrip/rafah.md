@@ -7,6 +7,7 @@ tags:
   - sight
 title: Rafah
 type: poi
+score: 5.4
 ---
 
 Rafah is the southernmost city of the Gaza Strip, straddling the boundary with Egypt. Historically a single town, it was split in 1982 by the Camp David accords; the Egyptian-administered Rafah remained part of Sinai while the Palestinian-administered Rafah became the southern edge of the strip. The border crossing at Rafah has for decades been Gaza's only land connection to the outside world that does not pass through Israel.

@@ -7,6 +7,7 @@ snippet: Annual sand sculpture exhibition on the beach, June to September
 tags:
 - things_to_do
 - festival
+score: 5.8
 ---
 
 Every summer, an international team of professional sand sculptors comes to Jesolo for the **Jesolo Sand Nativity** (winter) and the **Sand Sculpture Festival** (summer). The summer event runs from June into late September, with large-scale sculptures around a different theme each year — past editions have ranged from the works of Dante to scenes from world cinema.

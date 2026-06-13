@@ -7,6 +7,7 @@ tags:
 title: Wat Ounalom
 type: poi
 snippet: Headquarters of Cambodian Buddhism, founded in the 15th century
+score: 9.0
 ---
 
 The head temple of the Mohanikay order and the seat of Cambodia's Supreme Buddhist Patriarch, Wat Ounalom faces the Tonle Sap River just north of the Royal Palace. The complex was largely destroyed by the Khmer Rouge in the 1970s — most of the monks were killed and the library burned — and the current buildings reflect a long, patient restoration.

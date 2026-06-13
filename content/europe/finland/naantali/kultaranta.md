@@ -14,6 +14,7 @@ story: >
   a single weekend — the only time visitors can walk among the rose gardens,
   the formal beds, and the castle-like main building. The Kultaranta discussions,
   Finland's annual foreign and security policy seminar, also take place here.
+score: 7.8
 ---
 
 The gardens at Kultaranta cover several hectares and include one of the largest rose collections in Finland, along with sculpted hedges, water features, and views across the archipelago. The granite castle at the centre was designed by Lars Sonck and completed in 1916. On the open weekend, thousands of people come over from Turku and Naantali to walk the grounds.

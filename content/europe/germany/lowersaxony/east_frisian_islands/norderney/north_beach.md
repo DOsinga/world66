@@ -9,6 +9,7 @@ latitude: 53.7200
 longitude: 7.2200
 story: >
   German beach culture evolved here. Norderney was Germany's first North Sea resort, established in 1797 when King George III of England (who was simultaneously the Elector of Hanover) gave his backing to the development. The distinctive Strandkorb — the hooded wicker beach chair that defines German beach life — was invented to protect against the North Sea wind and is still rented by the millions at every East Frisian beach.
+score: 7.9
 ---
 
 The main beach on Norderney's north coast runs for kilometres in both directions from the town — wide, flat, and backed by a continuous dune system. The western section near town has all the amenities: lifeguards, Strandkorb rentals, showers, beach cafes. Moving east, it gets quieter and eventually merges into the nature reserve.

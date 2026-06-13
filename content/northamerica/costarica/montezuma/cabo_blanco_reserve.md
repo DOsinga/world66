@@ -10,6 +10,7 @@ story: >
   Cabo Blanco was established in 1963, making it the first protected area in Costa Rica. The driving force was two Danish-Costa Rican conservationists, Nicolás Wessberg and Karen Mogensen, who campaigned for decades to protect the southern tip of the Nicoya Peninsula from logging and hunting. Wessberg was murdered in 1975 while surveying land for another protected area on the Osa Peninsula. His wife Karen continued the work alone until the preserve was secure.
 sources:
   - https://en.wikipedia.org/wiki/Nicolas_Wessberg_Absolute_Natural_Reserve
+score: 8.1
 ---
 
 Cabo Blanco Absolute Natural Reserve protects the southern tip of the Nicoya Peninsula — a strip of tropical dry and moist forest, rocky coastline, and offshore waters that serves as habitat for howler monkeys, white-faced capuchins, coatis, peccaries, and an impressive variety of birds. The reserve's main trail (the Sueco Trail) runs about 4.5 kilometres each way through forest to a deserted beach at the peninsula's tip — one of the more rewarding short hikes on the Nicoya coast.

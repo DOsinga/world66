@@ -6,6 +6,7 @@ longitude: 72.7880
 tags:
   - things_to_do
   - neighbourhood
+score: 8.1
 ---
 
 The dense, low-rise Uzbek neighbourhoods west of the river — Cheremushki, On Adyr, and several smaller mahallas — are the oldest residential parts of Osh, with mud-walled compounds, vine-shaded courtyards, and a network of narrow lanes. Half of Osh's population is ethnically Uzbek, and these are the streets they call home.

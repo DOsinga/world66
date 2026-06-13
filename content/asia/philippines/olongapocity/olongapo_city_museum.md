@@ -6,6 +6,7 @@ longitude: 120.2850
 tags:
   - things_to_do
   - museum
+score: 6.1
 ---
 
 A small civic museum near the city hall, covering the history of Olongapo from its pre-colonial Aeta origins through the Spanish naval station, the seven decades of American military presence, and the post-1992 transition into a freeport city.

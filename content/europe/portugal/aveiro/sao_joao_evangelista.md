@@ -8,6 +8,7 @@ tags:
 latitude: 40.6383
 longitude: -8.6534
 snippet: An 18th-century Carmelite church on Aveiro's central square with a fine azulejo interior
+score: 7.1
 ---
 
 The Church of São João Evangelista, also known as the Carmelite Church, stands on the Praça Marquês de Pombal — Aveiro's principal square — and is one of the most elegant Baroque buildings in the city. Built in the early 18th century, it has a restrained classical facade that opens onto a richly decorated interior, with gilded altarpieces and walls panelled in blue-and-white azulejo tiles depicting scenes from the life of the prophet Elijah.

@@ -6,6 +6,7 @@ longitude: 2.8900
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Sidi Fredj Peninsula juts into the Mediterranean about 25km west of central Algiers. It has some of the best sandy beaches in the Algiers area, a small pleasure harbour with sailing boats and fishing vessels, and an old Ottoman fortress that guards the neck of the peninsula. In summer the beach fills with Algerois, and several waterfront restaurants and cafes open late into the night.

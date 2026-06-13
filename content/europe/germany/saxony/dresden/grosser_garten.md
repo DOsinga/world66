@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - nature
 - sight
+score: 7.8
 ---
 
 The Großer Garten — Great Garden — is Dresden's main park and one of the oldest Baroque gardens in Germany, laid out from 1676 onward as a pleasure ground for the Saxon court. It covers 1.8 square kilometres in the southern part of the city between the Albertinum and the Hygiene Museum, and it functions today as a public park, a zoo, and a venue for summer concerts and events.

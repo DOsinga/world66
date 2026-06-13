@@ -8,6 +8,7 @@ latitude: 33.3758
 longitude: -118.4166
 story: >
   The bison on Catalina are descendants of fourteen animals brought to the island in 1924 for a film shoot — the production company never retrieved them. The herd grew to over 400 by the 1970s, at which point the Conservancy began managing numbers through contraception and relocation. You can hike through the interior and encounter them at reasonably close range, which remains surreal no matter how many times you're told the back story.
+score: 8.9
 ---
 
 The Catalina Island Conservancy manages about 88 percent of the island's land area as a protected natural reserve, keeping it free of development and open to hiking, mountain biking, and wildlife viewing. The interior is surprisingly rugged — Mount Orizaba at 634 metres is the island's high point, and the terrain between the coasts is a mix of rocky grassland, scrub oak woodland, and coastal sage.

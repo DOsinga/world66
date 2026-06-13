@@ -8,6 +8,7 @@ latitude: 41.2647
 longitude: -110.9383
 sources:
   - https://en.wikipedia.org/wiki/Bear_River_State_Park
+score: 7.6
 ---
 
 Bear River State Park straddles the Bear River on the east side of Evanston, with a paved trail that follows the water for several kilometres through open grassland. Elk and bison roam the grounds year-round — not in enclosed paddocks but in large open areas that make for genuine wildlife watching at close range. The bison herd in particular tends to graze near the trail, and encounters at a respectful distance are common.

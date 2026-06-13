@@ -6,6 +6,7 @@ longitude: -66.1612
 tags:
   - things_to_do
   - museum
+score: 5.9
 ---
 
 The Bayamón Museum of Art (Museo de Arte de Bayamón) sits next to the Parque de las Ciencias and is operated by the municipality. The permanent collection focuses on Puerto Rican painters and sculptors from the mid-20th century onward, with a rotating programme of temporary shows by local artists.

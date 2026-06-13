@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 62.2868
 longitude: -6.9665
+score: 6.3
 ---
 
 Six kilometres south over the mountain road from Gjogv lies Funningur, an even smaller village with one of the ten surviving old wooden churches in the Faroes. Built in 1847 with the characteristic tarred timber walls and turf roof, it sits low against the slope above the village.

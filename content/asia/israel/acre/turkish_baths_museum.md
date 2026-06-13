@@ -13,6 +13,7 @@ story: >
   bathhouse until 1948. When it closed, the fittings and furnishings were left largely
   in place. When archaeologists arrived decades later, they found it essentially intact,
   right down to the marble slabs and the wooden changing room partitions.
+score: 7.8
 ---
 
 The finest preserved Ottoman hammam in Israel, built in 1795 and now operating as an atmospheric museum with a sound-and-light show. The original marble floors, domed ceilings with star-shaped skylights, and bathing chambers are all intact. The show uses projections and audio to reconstruct the bathhouse as it would have operated.

@@ -7,6 +7,7 @@ snippet: "Mangrove-lined cenote where a crocodile sometimes appears"
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Casa Cenote is unusual: instead of a sinkhole in the jungle, this cenote forms a long, narrow mangrove channel that runs almost to the sea, with brackish water that mixes fresh and salt. The channel is wide enough to paddle a kayak through, and the surrounding mangroves shelter heron, snook, and barracuda — Casa Cenote sits at the mouth of one of the longest underwater cave systems in the world.

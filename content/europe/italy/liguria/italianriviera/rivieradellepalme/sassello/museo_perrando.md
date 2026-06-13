@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.4790
 longitude: 8.4902
+score: 7.4
 ---
 
 The Museo Perrando is Sassello's main museum, housed in a historic building in the town centre. The collection has three distinct sections: archaeological finds from the surrounding Apennine area (Bronze Age and Ligurian material), a significant collection of 17th- and 18th-century majolica from the ceramic workshops of nearby Savona and Albisola, and a gallery of paintings spanning the 16th to 20th centuries.

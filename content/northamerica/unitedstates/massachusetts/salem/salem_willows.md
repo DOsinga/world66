@@ -10,6 +10,7 @@ tags:
 address: Salem Willows Park, Salem, MA
 sources:
   - https://en.wikipedia.org/wiki/Salem_Willows
+score: 5.7
 ---
 
 Salem Willows is a public park and amusement area on the northern tip of Salem, jutting into Salem Sound with views across to the islands and, on clear days, to Cape Ann. The park has been a popular summer destination for Salem families since the 1870s, with its old-fashioned arcade, fried clam stands, and picnic grounds shaded by enormous willow trees planted in 1801 to help smallpox patients convalesce.

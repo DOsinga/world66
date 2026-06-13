@@ -15,6 +15,7 @@ story: >
   Winter Palace dome — forced the architect to keep within six storeys, but he compensated with the
   glass-and-iron tower that still crowns the corner. During the siege of Leningrad the building was
   the headquarters of Lenizdat, the Soviet state publishing house.
+score: 8.4
 ---
 
 Singer House on the corner of Nevsky Prospekt and the Griboedov Canal is one of the most striking buildings on the boulevard — an Art Nouveau commercial palace clad in granite, bronze, and glass, topped with a remarkable glazed tower and a globe held up by valkyries. Since 1919 it has housed Dom Knigi (House of the Book), the city's largest bookshop and a cultural institution in its own right.

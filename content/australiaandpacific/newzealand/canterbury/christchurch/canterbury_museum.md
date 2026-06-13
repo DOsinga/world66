@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -43.5270
 longitude: 172.6294
+score: 8.2
 ---
 
 Canterbury Museum sits at the entrance to the Botanic Gardens and has been collecting since 1867. The building is a handsome Victorian Gothic pile that survived the earthquake in reasonable shape, which is fortunate because the collections inside are substantial. The Antarctic galleries are the highlight: Christchurch was the departure point for most of the major polar expeditions of the heroic era, and the museum holds artefacts, equipment, and photographs from Scott, Shackleton, and Amundsen's Antarctic journeys that you will not find anywhere else with quite this density or context. Scott's sleeping bag is here. So are his boots.

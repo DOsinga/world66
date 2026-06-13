@@ -8,6 +8,7 @@ tags:
 title: Vikten
 type: poi
 snippet: "Outer-coast village with a working glassblower and ceramicist, both open to visitors"
+score: 6.8
 ---
 
 Vikten is a small village on the outer western coast of Flakstadøya, reached by a winding side road off the E10 that drops down to a pebble beach facing the open Arctic Ocean. The village is best known for two craft workshops: the Glasshytta, a glassblower founded in 1975 by Åsvar Tangrand, which is open in summer with regular demonstrations, and the neighbouring pottery, Åses Pottery, also open to visitors.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The most visited tomb is a small statue of an unnamed indigenous infant, the so-called Indiecito. Locals leave flowers, sweets and handwritten notes asking for favours — a folk cult that the church officially disapproves of but cannot quite suppress."
+score: 8.8
 ---
 
 Easily one of the most extraordinary cemeteries in the Americas, the municipal cemetery is a small fortified city in itself, a grid of mausoleums set among manicured cypresses clipped into perfect cylinders. The wealthy estancia families — Braun, Menéndez, Nogueira, Campos — built whole chapels for their dead, in styles ranging from Greek temple to Gothic Revival to Art Deco. The poorer Croatian, Spanish and British immigrants who built the city's working life lie in plainer rows around them.

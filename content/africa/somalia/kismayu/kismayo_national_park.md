@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.4500
 longitude: 42.4800
+score: 5.8
 ---
 
 Located southwest of the city, Kismayo National Park was established to protect the coastal scrubland and semi-arid habitat that supports some of Somalia's distinctive wildlife, including the Somali wild ass — one of the most endangered equids in the world. The park also shelters species of antelope and a range of bird life along the coast.

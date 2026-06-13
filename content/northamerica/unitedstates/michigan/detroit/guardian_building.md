@@ -13,6 +13,7 @@ neighbourhood: Downtown
 title: Guardian Building
 type: poi
 story: "When the Guardian Building opened in 1929 it was nicknamed the 'Cathedral of Finance'. The interior tile was made by Pewabic Pottery and the architect Wirt Rowland insisted on orange brick rather than the standard limestone, against fierce client objection."
+score: 9.0
 ---
 
 The Guardian Building is the most photogenic interior in Detroit. The Aztec-influenced lobby is faced with Pewabic and Rookwood tile, with a vaulted ceiling painted by Ezra Winter showing the figures of Industry, Commerce, and Agriculture. The 40-storey orange-brick tower stands out among the surrounding limestone skyscrapers in the Financial District.

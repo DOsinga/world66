@@ -8,6 +8,7 @@ latitude: 33.5117
 longitude: 36.3006
 snippet: Massive medieval fortress at the northwest corner of the Old City
 story: "The Citadel was the headquarters of Saladin, who launched many of his campaigns against the Crusaders from inside its walls. He was buried in the smaller mausoleum just outside the eastern gate after his death in 1193, by his own request — close enough to the Umayyad Mosque to hear the call to prayer."
+score: 8.3
 ---
 
 The great fortress that anchors the northwestern corner of Damascus's Old City. The current walls date mostly from the early 13th century, when the Ayyubid Sultan al-Adil rebuilt the older Seljuk citadel on a vast scale. Twelve square towers ring a rectangular interior the size of two football pitches.

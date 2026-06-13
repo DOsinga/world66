@@ -14,6 +14,7 @@ story: >
   Nijinsky and Pavlova trained. After the revolution it was renamed the Kirov, and its ballet
   company toured the West under that name for most of the 20th century. The original name was
   restored in 1992.
+score: 8.9
 ---
 
 The Mariinsky Theatre is the heart of Russian ballet and opera and one of the world's great houses. The original 1860 building, with its pale-green and gold facade on Theatre Square in the Kolomna district, still hosts most productions. A second, glass-and-honey-stone modern theatre — the Mariinsky II — opened next door in 2013 and has expanded what the company can stage. Together they put on around 70 different productions a year.

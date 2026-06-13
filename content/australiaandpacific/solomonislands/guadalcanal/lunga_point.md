@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -9.4167
 longitude: 160.0333
+score: 8.1
 ---
 
 Lunga Point is the low promontory between the Lunga and Ilu river mouths, a couple of kilometres north of Henderson Field. The point gave its name to the airfield in the early weeks of the campaign and to a string of naval battles fought in the dark waters offshore. From the headland on a clear day you can see Savo Island and Florida Island across the strait — the geography of the night battles in Iron Bottom Sound laid out in front of you.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9505
 longitude: 8.1400
+score: 5.4
 ---
 
 The Porto di Andora is a large modern marina on the western edge of the town, with berths for over 600 boats. It has all the facilities a sailor needs — fuel, repairs, chandlery, showers, and a sailing club that organises races and courses throughout the season. The promenade around the marina is one of the more pleasant walking areas in town, especially in the evening when the boats are all in and the cafes fill up.

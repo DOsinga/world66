@@ -8,6 +8,7 @@ longitude: 75.781
 tags:
 - eating_out
 - restaurant
+score: 7.3
 ---
 
 Paragon, on Kannur Road just north of the railway station, has been in business since 1939 and is the standard against which Kozhikode's hotels and restaurants are measured. The Malabar mutton biryani is the most famous order — kaima rice cooked in the dum style with bone-in mutton — but the fish moilee, the meen-pollichathu (fish wrapped in banana leaf), and the parotta with kadala curry are all worth ordering.

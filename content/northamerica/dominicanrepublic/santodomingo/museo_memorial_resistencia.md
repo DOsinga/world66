@@ -11,6 +11,7 @@ longitude: -69.8905
 story: "Rafael Trujillo's 31-year dictatorship (1930–1961) was one of the most absolute in the Western Hemisphere. His government controlled every aspect of Dominican life; the secret police (SIM) operated a network of informants so extensive that neighbours routinely reported on each other. The museum preserves accounts of those who resisted — many of whom were tortured in the La 40 prison complex, a few blocks from this site."
 sources:
   - https://en.wikipedia.org/wiki/Memorial_Museum_of_Dominican_Resistance
+score: 7.4
 ---
 
 The Memorial Museum of Dominican Resistance is a small but affecting museum in the Zona Colonial dedicated to documenting resistance against the Trujillo dictatorship (1930–1961). The exhibits cover the methods of repression — secret police, informers, torture, disappearances — and the individuals and groups who resisted, many of whom were killed for doing so.

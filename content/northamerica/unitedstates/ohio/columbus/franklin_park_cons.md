@@ -12,6 +12,7 @@ story: >
   hosted that year. Its centrepiece dome was modelled on the Crystal Palace in London.
   Starting in the 1990s, the conservatory became the primary permanent home of Dale
   Chihuly's glass installations — the two collections now seem inseparable from each other.
+score: 7.8
 ---
 
 The Franklin Park Conservatory is a large Victorian-era botanical garden in a domed glass building about two miles east of downtown. It contains distinct biome rooms simulating a Pacific island water garden, a Himalayan mountain environment, a desert, and a rainforest — you can walk through all of them in an hour. The plant collections are serious, and the building itself is lovely.

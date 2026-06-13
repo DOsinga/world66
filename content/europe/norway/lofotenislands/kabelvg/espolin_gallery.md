@@ -13,6 +13,7 @@ story: >
   in scratched black scraperboard and ink, depicting fishermen and the northern
   Norwegian coast in stark, almost monochrome compositions. The technique suited
   his limited vision.
+score: 8.2
 ---
 
 The Espolin Gallery sits beside the Lofoten Museum at Storvågan and is dedicated to the work of one artist — Kaare Espolin Johnson (1907–1994), whose dark, dramatic depictions of northern Norwegian fishing life made him one of the most popular Norwegian artists of the 20th century. The collection was donated by Espolin Johnson himself to Vågan municipality.

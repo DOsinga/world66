@@ -8,6 +8,7 @@ tags:
 latitude: 36.8764
 longitude: -94.8778
 story: "The Coleman opened in April 1929 — six months before the Wall Street Crash — built by zinc-mining millionaire George Coleman as a gift to his home town. Its 1928 Mighty Wurlitzer organ was sold off in the 1960s, tracked down in private hands decades later, bought back by the town and reinstalled. It still rises out of the pit on a hydraulic lift to accompany silent films."
+score: 8.7
 ---
 
 The Coleman is the architectural showpiece of Miami and one of the great Route 66 buildings in Oklahoma. The exterior is Spanish Colonial Revival — terracotta tiles, twin towers, gargoyles, scrollwork; the interior is Louis XV — gilded boxes, painted ceiling, an enormous proscenium arch. It seats around 1,600.

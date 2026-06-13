@@ -6,6 +6,7 @@ longitude: -86.3360
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The St. Joseph River winds through Berrien Springs on its way north to Lake Michigan at St. Joseph, and the stretch through town is one of the more attractive in the lower part of its course. A short walking path along the bank offers river views, and the bridges in town give good vantage points.

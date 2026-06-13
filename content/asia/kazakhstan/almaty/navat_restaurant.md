@@ -6,6 +6,7 @@ longitude: 76.9384
 tags:
   - eating_out
   - restaurant
+score: 6.0
 ---
 
 Navat is one of Almaty's most celebrated restaurants for traditional Kazakh and Central Asian cuisine, set in an interior decorated with intricate woodwork and tilework in the manner of a Silk Road caravanserai. The menu covers the full range of Kazakh specialities: beshbarmak (boiled horse meat over flat noodles, eaten by hand), shashlik from the grill, laghman noodle soup, and the wide variety of samsa pastries that are the everyday street food of the region.

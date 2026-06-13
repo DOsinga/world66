@@ -7,6 +7,7 @@ tags:
 - shopping
 - market
 snippet: The weekly market that draws Berbers and nomads from across the Draa
+score: 7.2
 ---
 
 Wednesday morning is when Zagora pulls itself together. Berbers and a few remaining Sahrawi nomads come in from the surrounding palmeries and desert to trade dates, livestock, blankets, and produce, and the otherwise sleepy town fills up. The animal section, on the southern edge, is the most striking — donkeys, goats, the occasional camel, and a great deal of haggling.

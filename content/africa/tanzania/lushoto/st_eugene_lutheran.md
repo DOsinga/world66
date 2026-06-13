@@ -7,6 +7,7 @@ tags:
   - church
 latitude: -4.7864
 longitude: 38.2806
+score: 6.3
 ---
 
 Lushoto was a German colonial hill station under the name Wilhelmstal, and the small Lutheran church on the main street is a survival from that era: a stone-and-timber building with steeply pitched roof and round-arched windows, looking transplanted from Saxony.

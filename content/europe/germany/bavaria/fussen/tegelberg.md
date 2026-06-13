@@ -6,6 +6,7 @@ longitude: 10.7567
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 A cable car running from the valley floor near Schwangau up the 1,720-metre Tegelberg peak, the closest serious mountain to Füssen and the easiest way to a high Alpine viewpoint. The summit station has a restaurant terrace with views back down to the lakes and out to the Austrian Alps — and, on a clear day, directly across to the silhouette of Neuschwanstein from above.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.0185
 longitude: 73.3162
+score: 6.2
 ---
 
 One of the oldest sweet shops in the old city, Chhotu Motu Joshi has been selling Bikaner's specialities for generations. The rasgulla here is genuinely different from the Bengali version — firmer, less syrup-soaked, with a slight tang. The kalakand (milk cake) and soan papdi are worth buying by the kilo to take away.

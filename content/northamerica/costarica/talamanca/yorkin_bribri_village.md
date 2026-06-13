@@ -10,6 +10,7 @@ story: >
   The Bribri of Yorkin are a matrilineal society — clan membership and land rights pass through women, and only women
   are permitted to prepare and serve the sacred cacao drink used in ceremonies. Male visitors are offered cacao
   prepared differently, and the distinction is maintained strictly even for tourists.
+score: 8.1
 ---
 
 Yorkin is a Bribri indigenous community accessible only by dugout canoe up the Yorkin River, which forms the border with Panama. The journey from Bambú takes about 45 minutes through flat river valley forest, passing other small communities and occasional caiman sunning on the banks.

@@ -10,6 +10,7 @@ tags:
 snippet: One of Canada's great universities, with a campus open to anyone who wants to walk through it
 sources:
   - https://en.wikipedia.org/wiki/McGill_University
+score: 7.7
 ---
 
 McGill University is one of the finest universities in North America and its downtown campus is one of the most beautiful in Canada. The main campus runs up the lower slope of Mount Royal, accessed through the Roddick Gates on Sherbrooke Street. The older buildings — Redpath Hall, the Arts Building with its neo-Gothic clock tower, the 1882 Redpath Museum — are well worth a wander, and the grounds are genuinely pleasant.

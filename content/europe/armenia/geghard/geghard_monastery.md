@@ -13,6 +13,7 @@ story: >
   Lance — the spear believed to have pierced Christ's side — here from Jerusalem, where it was venerated
   for nearly a millennium before being moved to the Mother Cathedral at Echmiadzin. The monastery's very
   name, Geghard, means "spear" in Armenian.
+score: 9.6
 ---
 
 Geghard is one of the most extraordinary monasteries in the world, and not only for its age. While the outer church and gavit (antechamber) are conventional stone construction from the thirteenth century, the inner complex is carved directly from the cliff face of the Azat River Gorge — chambers, chapels, and a baptistry hewn from living rock, their walls covered with intricate relief carvings of animals, pomegranates, and Armenian script.

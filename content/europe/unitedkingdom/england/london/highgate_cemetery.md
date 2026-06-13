@@ -14,6 +14,7 @@ admission: Ticketed (both East and West sides)
 url: highgatecemetery.org
 story: >
   In the 1970s, Highgate became briefly famous as the site of a supposed vampire — the "Highgate Vampire" — and rival self-styled vampire hunters held armed nocturnal vigils among the tombs. Court cases, broken graves, and at least one act of grave-desecration followed before the press tired of the story. The cemetery had been semi-derelict and overgrown for decades by then; the publicity actually helped fund the restoration that has since reopened most of it.
+score: 8.7
 ---
 
 Opened in 1839 as part of the Victorian "Magnificent Seven" private cemeteries built to relieve the overcrowded London parish graveyards, Highgate spreads across two wooded hillsides on either side of Swain's Lane in north London. The West side is the older and more atmospheric — the Egyptian Avenue, the Circle of Lebanon, and a labyrinth of toppled, ivy-wrapped tombs visible only on guided tours. The East side, which you can walk freely, holds the most famous graves: Karl Marx beneath a large bronze head, George Eliot, Douglas Adams, Malcolm McLaren, and a long roll of Victorian and later notables.

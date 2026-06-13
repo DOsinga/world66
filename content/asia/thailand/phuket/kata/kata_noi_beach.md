@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beaches
   - sight
+score: 8.3
 ---
 
 Kata Noi (Little Kata) is the smaller, quieter cousin of Kata Yai, separated from it by a short rocky headland. The beach is around 700 metres long, with finer sand and clearer water than its bigger neighbour, and a single line of low-rise hotels rather than open beachfront restaurants. It feels much more relaxed.

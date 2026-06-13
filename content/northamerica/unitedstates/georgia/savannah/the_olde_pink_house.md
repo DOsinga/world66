@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: The Olde Pink House
 type: poi
+score: 7.0
 ---
 
 One of Savannah's most celebrated restaurants, housed in a pink 1771 mansion in the heart of the historic district. The building served as a bank and army headquarters before becoming a restaurant. The menu focuses on Low Country cuisine — shrimp and grits, fried oysters, she-crab soup, and fresh local seafood. Formal but welcoming. Reservations recommended.

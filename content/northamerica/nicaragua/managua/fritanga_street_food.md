@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1050
 longitude: -86.2500
+score: 7.0
 ---
 
 Fritangas are Nicaragua's definitive street food: outdoor grills set up on pavements and in parking lots each evening, where a cook manages a large charcoal grill loaded with chicken, pork ribs, chorizos, skirt steak, and plantains. Around it go folding tables and plastic chairs, and the meal costs almost nothing — a full plate of grilled meat with rice, beans, salad, and tortillas for well under $5.

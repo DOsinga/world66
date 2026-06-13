@@ -9,6 +9,7 @@ story: >
   the thermal winds build. On a busy morning, 150 or more balloons can be in the air simultaneously, drifting
   over the fairy chimneys and valleys in near-silence. From above, you can see the geological logic of the
   landscape in a way that ground-level exploration never quite delivers.
+score: 9.1
 ---
 
 Hot air balloon flights have become one of the defining experiences of Cappadocia, and the flights depart from fields near Göreme, about ten kilometres from Urgup. The standard flight lasts about an hour, launching at dawn when the air is still and the light is golden. You drift over the Rose Valley, the fairy chimneys, the rock-cut monasteries, and — on a clear morning — all the way to the volcanic cone of Erciyes Dağı on the horizon.

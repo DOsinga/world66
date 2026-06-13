@@ -1,6 +1,7 @@
 ---
 latitude: 19.1275
 longitude: 72.8475
+score: 6.6
 story: 'The basalt column at Gilbert Hill is geologically identical to the basalt
   cliffs of the Giant''s Causeway in Northern Ireland and the Deccan Plateau — all
   formed by the same enormous volcanic event roughly 66 million years ago. The hill
@@ -9,12 +10,7 @@ story: 'The basalt column at Gilbert Hill is geologically identical to the basal
 
   '
 tags:
-- things_to_do
-- sight
-- nature
 - andheri
-title: Gilbert Hill
-type: poi
 ---
 
 A 200-metre column of solid basalt rising from the suburban streets of Andheri, formed by volcanic activity 66 million years ago. The sheer vertical faces of the rock are reminiscent of New York's Palisades or Oregon's Columbia River Gorge — entirely out of place in a dense Mumbai suburb, which is exactly what makes it worth seeking out. The surrounding area is protected as a nature reserve.

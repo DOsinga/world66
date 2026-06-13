@@ -8,6 +8,7 @@ tags:
 title: Restoration House
 type: poi
 story: "Dickens is believed to have based Miss Havisham's Satis House in Great Expectations on Restoration House, which he walked past regularly during his years living near Rochester. The decaying grandeur of the building — and perhaps the melancholy air of a great house fallen on quieter times — evidently made an impression. He also features a version of it in The Mystery of Edwin Drood."
+score: 7.6
 ---
 
 Restoration House is one of the finest Elizabethan and early Jacobean mansions in Kent, a large red-brick building set slightly back from Crow Lane near the southern end of the High Street. The name comes from a 1660 visit by Charles II on his way to London to reclaim the throne, though the house dates from the late 16th century.

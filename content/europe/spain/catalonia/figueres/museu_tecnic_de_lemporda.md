@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.268056
 longitude: 2.966111
+score: 7.7
 ---
 
 The Technical Museum of the Empordà (Museu Tècnica de l'Empordà) is an overlooked gem in Figueres, housing an extraordinary collection of antique typewriters, calculating machines, printing equipment, and scientific instruments. The typewriter collection alone runs to hundreds of examples spanning the history of mechanical writing, from early experimental models to mid-century electric machines.

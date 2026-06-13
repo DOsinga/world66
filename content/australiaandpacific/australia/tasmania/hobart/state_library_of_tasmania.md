@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Tasmania's state library, with the rare-book Allport Library and free changing exhibitions"
+score: 7.5
 ---
 
 A modern public library wrapped around the **Allport Library and Museum of Fine Arts** — a private collection of colonial Tasmanian art, antique furniture, and rare books bequeathed in 1965 by the lawyer-collector Henry Allport. The Allport Library reading room on the first floor is gorgeous: cedar shelves, Persian carpets, a working fireplace, and walls hung with John Glover and Conrad Martens watercolours. Anyone can walk in and sit down to read.

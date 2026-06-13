@@ -13,6 +13,7 @@ story: >
   Owners breed and train prize bulls for years; a famous fighter has a name, a
   reputation, and a following of supporters who come from neighbouring villages
   on the morning of a fight.
+score: 8.1
 ---
 
 Bullfighting is a Luhya tradition with no analogue in the rest of Kenya. On Saturday mornings, in villages across Western Province, owners bring their prize bulls — large Friesian-cross animals with horns adapted to pushing rather than goring — to dusty arenas where they are matched in pairs to fight for dominance. The losing bull breaks off and runs; the winning bull is paraded through the village to the accompaniment of a brass band. There are no human matadors, no killing, and (usually) no serious injuries.

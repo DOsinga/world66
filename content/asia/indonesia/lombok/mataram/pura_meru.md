@@ -7,6 +7,7 @@ tags:
 latitude: -8.5876
 longitude: 116.1330
 story: "Pura Meru was built in 1720 by the Balinese prince Anak Agung Made Karang with the explicit aim of uniting the various Hindu factions on Lombok under a single temple. It houses three meru towers of different heights representing the Hindu trinity — the tallest, 33-tiered tower is dedicated to Shiva."
+score: 7.7
 ---
 
 Pura Meru is the largest Hindu temple on Lombok, a substantial walled compound in the Cakranegara district of Mataram. It was founded in 1720 and remains an active place of worship for Lombok's Balinese Hindu community, who constitute a significant minority alongside the predominantly Sasak Muslim population.

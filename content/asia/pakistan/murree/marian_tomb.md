@@ -7,6 +7,7 @@ tags:
 title: Marian Tomb
 type: poi
 snippet: "Hilltop site believed to be Mary's burial place"
+score: 4.8
 ---
 
 Many locals believe that Mary, mother of Jesus, is buried in Murree and that the town is named after her (formerly Mari). Her supposed tomb sits on a hill beneath a television tower near Pindi Point. Ask locals for directions. You may need special permission to visit.

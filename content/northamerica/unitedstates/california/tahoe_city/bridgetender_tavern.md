@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.1670
 longitude: -120.1438
+score: 6.6
 ---
 
 The Bridgetender sits beside Fanny Bridge in a low wood building that has been a bar since 1976. The deck overhangs the Truckee River and is the place to be on a summer evening — beers, burgers, and the constant churn of the river below.

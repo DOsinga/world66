@@ -11,6 +11,7 @@ story: >
   a 19th-century captain from Sligo. The story is plausible but unproven; the
   Sligo island has about a dozen permanent residents, a pub, the ruins of an
   early church, and a tarmac road that vanishes underwater at high tide.
+score: 7.4
 ---
 
 Coney Island sits a kilometre or so south of Rosses Point in the middle of Sligo Bay. At low tide a marked road across the sand from Strandhill makes it driveable; the drive is famous and slightly nerve-wracking, with the tides giving you a fixed window each day. There is also a ferry from Rosses Point pier during the summer.

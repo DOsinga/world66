@@ -6,6 +6,7 @@ longitude: -86.6747
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The block-and-a-half of late 19th-century commercial buildings that ring the courthouse square — Italianate, Romanesque Revival, and Queen Anne shopfronts in brick and limestone, most still in commercial use. The district was added to the National Register of Historic Places in 1991 and is one of the better-preserved small-town squares in central Indiana.

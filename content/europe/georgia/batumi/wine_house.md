@@ -7,6 +7,7 @@ tags:
 - bar
 title: Wine House
 type: poi
+score: 6.1
 ---
 
 Wine House is one of a clutch of small old-town wine bars that have opened in the last decade as Georgian natural wine has become a global cult product. The list runs the length of the wine-growing country: Kakhetian ambers from qvevri-aged Rkatsiteli, deep Saperavi reds, Adjaran whites, and a small but well-chosen list of European bottles for comparison.

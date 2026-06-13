@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 56.3408
 longitude: -2.7978
+score: 6.6
 ---
 
 The Dunvegan is a traditional Scottish pub on South Street with a long-established reputation as one of the better places to drink in St Andrews. It does not cater primarily to golfers or tourists — the clientele is a mix of locals, academics, and students — and the atmosphere is correspondingly more relaxed than the more prominent bars near the Old Course. The decor is dark wood and unpretentious, the whisky selection is decent, and real ales on tap include Scottish regionals.

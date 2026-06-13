@@ -3,6 +3,7 @@ title: "HIJMS Nagato"
 type: poi
 tags:
   - diving
+score: 9.1
 ---
 
 The Nagato carries a weight of history that few sunken ships can match. She was the flagship of Admiral Isoroku Yamamoto and the vessel from whose bridge the order to attack Pearl Harbor was transmitted on 7 December 1941. After Japan's surrender she was surrendered to Allied forces, brought to Bikini as a target ship for Operation Crossroads in 1946, and sank on 29 July — four days after the Baker test — when she finally succumbed to her accumulated damage. She lies inverted at around 55 metres, her stern slightly shallower than her bow.

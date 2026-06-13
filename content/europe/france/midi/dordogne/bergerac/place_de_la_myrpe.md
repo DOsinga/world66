@@ -7,6 +7,7 @@ tags:
 latitude: 44.8508
 longitude: 0.4828
 snippet: "The most atmospheric square in the old town, with a Cyrano statue and the market"
+score: 7.4
 ---
 
 The Place de la Myrpe is the smaller and more characterful of Bergerac's two main old-town squares — a triangular space of paved cobbles, lime trees, half-timbered houses, and a stone statue of Cyrano de Bergerac in the middle. The statue, by Émilien Cabuchet, has been here since the 1970s and is the older of the town's two Cyranos.

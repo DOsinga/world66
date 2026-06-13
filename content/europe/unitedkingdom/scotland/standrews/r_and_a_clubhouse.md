@@ -6,6 +6,7 @@ tags: [things_to_do, sight, architecture]
 address: "The Links"
 latitude: 56.3424
 longitude: -2.8011
+score: 6.4
 ---
 
 The Royal and Ancient Golf Club of St Andrews — the R&A — occupies a grey-sandstone Victorian clubhouse at the north end of the town, with windows looking straight up the 18th fairway of the Old Course. Built in 1854 to designs by George Rae, it has been the home of the senior club in world golf for nearly 170 years.

@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Los Arcos National Marine Park
 type: poi
+score: 7.9
 ---
 
 A small marine park south of the city built around three granite arches that rise from the sea just off the coast at Mismaloya. Best reached by water taxi from Playa de los Muertos or by tour boat; the snorkelling among the arches is the best close to town.

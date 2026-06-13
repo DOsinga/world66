@@ -13,6 +13,7 @@ story: >
   threatened a Saxon house, he would wave it; if it was a Romanian house, he
   would let it burn. True or not, the story captures something of the city's
   complicated ethnic history.
+score: 8.4
 ---
 
 The Gothic Evangelical Cathedral on Huet Square is the dominant building in Sibiu's skyline, its squat stone tower rising above the red tile rooftops. Built in the 15th and 16th centuries on the site of an earlier Romanesque church, it is the largest Lutheran church in Romania and the spiritual centre of the Transylvanian Saxon community for centuries.

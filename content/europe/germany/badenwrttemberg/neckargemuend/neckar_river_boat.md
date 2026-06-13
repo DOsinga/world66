@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3939
 longitude: 8.7975
+score: 7.3
 ---
 
 The most enjoyable way to arrive in Neckargemünd is by river boat from Heidelberg. The Rhein-Neckar-Fahrgastschifffahrt runs seasonal cruises along this stretch of the Neckar, and the two-hour journey upstream passes through some of the prettiest scenery in the Odenwald: wooded slopes, ruined castle towers on the ridgelines, and the villages of Ziegelhausen and Kleingemünd along the way.

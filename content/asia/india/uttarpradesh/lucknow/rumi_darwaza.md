@@ -8,6 +8,7 @@ tags:
   - hussainabad
 latitude: 26.8606
 longitude: 80.9158
+score: 8.4
 ---
 
 The Rumi Darwaza is Lucknow's signature gateway — a 60-foot ornamental arch built by Nawab Asaf-ud-Daula in 1784 as part of the same famine-relief programme that produced the Bara Imambara. The name (literally "Roman Gate") comes from the gateway's resemblance to a Byzantine arch at Constantinople — the Nawab and his architect were said to have admired engravings of the Sublime Porte.

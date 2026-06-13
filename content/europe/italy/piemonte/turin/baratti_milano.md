@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 45.0708
 longitude: 7.6851
+score: 7.7
 ---
 
 A cathedral of a cafe inside the Galleria Subalpina, off Piazza Castello: stained glass, Belle Époque mirrors, marble pillars, gilded plasterwork. Opened in 1875 as the headquarters of the chocolate makers Baratti & Milano, who are still in business and whose dark gianduja chocolates are sold at the front counter.

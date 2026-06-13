@@ -14,6 +14,7 @@ story: >
   peak it employed several hundred people and produced wool cloth for the imperial
   military. It closed in the Soviet period and its workers' housing became the
   core of modern Kärdla.
+score: 6.8
 ---
 
 The ruins of the 19th-century cloth factory that effectively founded Kärdla as a town stand in a pretty riverside park near the town centre. The old stone walls have been partly stabilised and left in a picturesque state of managed decay, surrounded by mature trees and a stream. It is one of the more atmospheric corners of the town.

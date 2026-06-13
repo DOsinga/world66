@@ -16,6 +16,7 @@ story: >
   British engineers who surveyed it reportedly disagreed so fiercely about the
   route that the final alignment was only settled by the intervention of a
   government committee.
+score: 8.8
 ---
 
 The Kangra Valley Railway departs from Pathankot Junction and winds for 164 kilometres through the foothills of the Himalayas to Jogindernagar, passing through [Kangra](/asia/india/himachalpradesh/kangra), Dharamsala, and Palampur along the way. It is one of the most scenic railway journeys in India — narrow gauge, unhurried, with views of paddy fields, cedar forests, and the snow-capped Dhauladhar range on clear days.

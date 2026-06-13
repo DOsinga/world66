@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.4560
 longitude: 78.5770
+score: 5.8
 ---
 
 The lane running down from the fort's main entrance gate has a string of chaat stalls that do brisk business from mid-morning until late evening. The format is familiar — aloo tikki, gol gappa, papri chaat, tamatar chaat — but the Jhansi versions tend toward more tamarind and less mint than Delhi, and the tikki is crispier. This is where locals eat; the prices are low and the turnover is fast enough that nothing sits around.

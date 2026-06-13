@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 61.5000
 longitude: 23.7650
+score: 6.8
 ---
 
 Koskipuisto is a long linear park running along the north bank of the Tammerkoski Rapids and extending north along Lake Näsijärvi toward Särkänniemi. It is Tampere's main green corridor through the city centre — an easy walk from the rapids to the amusement park, passing the old Tampella factory buildings and the lakefront along the way.

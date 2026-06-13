@@ -8,6 +8,7 @@ snippet: "Iconic Thunder Gate entrance to Sensoji temple complex"
 tags:
 - asakusa
 - things_to_do
+score: 6.9
 ---
 
 The "Thunder Gate" marks the entrance to the Sensoji temple complex and is the iconic image of Asakusa. Two fierce guardian statues — the gods of thunder and wind — flank the gate, and a massive red paper lantern hangs from the centre. Every visitor to Tokyo ends up here for the photograph.

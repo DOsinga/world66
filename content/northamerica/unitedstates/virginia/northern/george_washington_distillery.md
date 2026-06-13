@@ -14,6 +14,7 @@ story: >
   profit. Washington, often cash-poor despite his land holdings, found the
   whiskey business one of his most reliably lucrative enterprises in his final
   years.
+score: 7.8
 ---
 
 A full reconstruction of the stone distillery George Washington operated at Mount Vernon from 1797 to 1799 — one of the largest whiskey distilleries in the young United States. The original building burned and was rebuilt; archaeologists excavated the site in the 1990s, allowing an accurate reconstruction that produces rye whiskey using 18th-century methods.

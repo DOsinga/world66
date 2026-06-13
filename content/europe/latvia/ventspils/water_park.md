@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 address: Medņu iela 19
+score: 4.9
 ---
 
 A modern indoor-outdoor water park just inland from the beach, with multiple pools, a long outdoor lazy river, several looping slides, and saunas. It is one of the larger water parks on the Baltic coast and a major draw for Latvian families travelling to Ventspils.

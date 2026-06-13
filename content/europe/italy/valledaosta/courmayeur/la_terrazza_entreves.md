@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.8167
 longitude: 6.9667
+score: 5.1
 ---
 
 The hamlet of Entrèves, just north of Courmayeur at the entrance to the Mont Blanc Tunnel, has a clutch of restaurants that are slightly more local and less resort-glossy than those in the main town. La Terrazza is among the most dependable: a straightforward trattoria with an outdoor terrace that faces the mountains and a menu that changes with the season. In summer, grilled meats and local charcuterie dominate; in winter, warming stews and polenta dishes.

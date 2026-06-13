@@ -9,6 +9,7 @@ latitude: 26.7597
 longitude: -77.3205
 sources:
   - https://en.wikipedia.org/wiki/Black_Sound_Cay_National_Reserve
+score: 6.6
 ---
 
 Black Sound Cay National Reserve sits in the sheltered waters just off Green Turtle Cay, protecting the cay and the mangrove-fringed sound that separates it from the main island. The mangroves here are a critical nursery habitat for the fish that populate the surrounding reef — nurse sharks, juvenile grouper, and snapper all use the root systems as cover.

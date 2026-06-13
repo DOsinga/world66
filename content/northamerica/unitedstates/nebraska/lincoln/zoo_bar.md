@@ -9,6 +9,7 @@ latitude: 40.8144
 longitude: -96.7008
 sources:
   - https://en.wikipedia.org/wiki/Zoo_Bar_(Lincoln,_Nebraska)
+score: 7.6
 ---
 
 The Zoo Bar on 14th Street is the most important blues venue in the Great Plains — a dark, narrow room with a stage barely large enough for a quartet, where the music has been going six nights a week since 1973. The walls are layered with photographs of performers who have played here over fifty years, and the list reads like a roll call of American blues: Junior Wells, Muddy Waters, Koko Taylor, Bobby Blue Bland. National acts still tour through regularly.

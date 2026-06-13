@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.705
 longitude: 19.952
+score: 8.9
 ---
 
 Mangalem is the Muslim lower quarter of Berat, the Ottoman-era neighbourhood that gave the town its nickname "town of a thousand windows." The houses — stacked up the hillside in tight rows — have an extraordinary number of large, bay-fronted windows, designed in the Ottoman fashion to maximise light while maintaining privacy from the street. The visual effect, of rank upon rank of identical windows climbing toward the castle, is what most photographs of Berat are taken to capture.

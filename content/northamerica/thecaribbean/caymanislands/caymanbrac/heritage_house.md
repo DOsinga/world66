@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 19.7297
 longitude: -79.8264
+score: 6.7
 ---
 
 The Cayman Brac Museum occupies the old Government Administration Building at Stake Bay — a small two-room collection that traces the island's history from settlement through the catboat-building era to the major hurricanes. The 1932 hurricane gets particular attention; it killed more than 100 Brackers and is still the defining catastrophe in island memory.

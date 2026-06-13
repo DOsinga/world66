@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0607
 longitude: -34.8784
 tags: [things_to_do, sight, santo_antonio]
+score: 7.7
 ---
 
 A neoclassical theatre completed in 1850 and rebuilt after a fire later that century. It is the most architecturally important building in the central Praça da República, with a colonnaded facade fronting a generous open square shaded by mango trees.

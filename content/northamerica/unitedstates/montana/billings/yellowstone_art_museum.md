@@ -14,6 +14,7 @@ story: >
   about the city's quiet ambition.
 sources:
   - https://en.wikipedia.org/wiki/Yellowstone_Art_Museum
+score: 7.0
 ---
 
 The largest contemporary art museum in Montana, housed in a modern building in downtown Billings. The collection focuses on art of the American West, particularly Montana and the northern plains, with strong holdings of 20th-century Western painting and significant works by Will James, Russell Chatham, and other regional artists who captured this landscape on canvas.

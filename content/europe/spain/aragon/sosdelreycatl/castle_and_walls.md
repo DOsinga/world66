@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 Sos del Rey Católico retains its medieval defensive circuit almost intact — walls, towers, and the hilltop castle above the church. The castle (also called the Castillo) served as a watchtower and refuge for centuries and now provides the highest viewpoint in the town, with panoramas over the Cinco Villas comarca and the foothills of the Aragonese Pyrenees.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -26.191
 longitude: 28.031
+score: 7.5
 ---
 
 The Wits Art Museum on the University of the Witwatersrand campus has a strong collection of southern African traditional and contemporary art. The highlights are the traditional beadwork — among the finest collections of Zulu and Ndebele beadwork in the country — alongside carved wooden figures, masks, and ceremonial objects from across the region. The temporary exhibitions are consistently worth checking.

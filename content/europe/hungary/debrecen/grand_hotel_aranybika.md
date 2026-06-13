@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The Aranybika ("Golden Bull") is Debrecen's grand old hotel, an art nouveau pile on Piac utca dating from 1915 and still in operation. Even if you are not staying, the lobby and ground-floor cafe are worth a look — the original stained glass, mosaic floors, and the carved doorway with its bull motif are all intact. The hotel has hosted everyone from Béla Bartók to Liszt to most of Hungary's twentieth-century writers; the wall plaques in the foyer list a small history of central European culture.

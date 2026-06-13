@@ -14,6 +14,7 @@ story: >
   though his successors returned the territory to Persia eight years later.
 sources:
   - https://en.wikipedia.org/wiki/Cabin_of_Peter_the_Great_(Derbent)
+score: 5.9
 ---
 
 Peter the Great visited Derbent in 1722 as part of his Persian Campaign, a military push southward along the Caspian coast intended to extend Russian power into the region. The small wooden cabin where he lodged during his stay has been preserved as a historical monument near the Caspian shore.

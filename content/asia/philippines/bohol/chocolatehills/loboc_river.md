@@ -7,6 +7,7 @@ tags:
   - sight
 title: Loboc River
 type: poi
+score: 7.8
 ---
 
 The Loboc River flows through the interior of Bohol on the road between Tagbilaran and Carmen. The standard tourist activity is a floating restaurant cruise — a flat-bottomed boat with tables and a buffet lunch, drifting slowly through a canopy of bamboo and coconut palms with a local band playing traditional Filipino music. It's unabashedly touristy and genuinely pleasant.

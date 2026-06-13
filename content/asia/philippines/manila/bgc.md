@@ -7,6 +7,7 @@ tags:
 latitude: 14.5500
 longitude: 121.0495
 snippet: Manila's newest business and lifestyle district, built on the former Fort Bonifacio military base
+score: 6.8
 ---
 
 Bonifacio Global City (BGC) is Manila's most recent reinvention: a planned mixed-use district built from scratch on the 240-hectare former Fort Bonifacio military base, which the Philippines acquired from the United States in 1995. The result is the cleanest, most walkable, and most internationally minded neighbourhood in Metro Manila — wide tree-lined boulevards, public art, parks, and an almost complete absence of jeepneys and traffic chaos.

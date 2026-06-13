@@ -8,6 +8,7 @@ tags:
 title: Queen Victoria Square
 type: poi
 snippet: "The civic heart of Hull, flanked by City Hall, the Ferens Gallery and the old dock offices"
+score: 7.7
 ---
 
 Queen Victoria Square sits at the western edge of the Old Town, where the medieval street pattern meets the Victorian expansion of the city. The square was created when Hull's central dock was filled in during the 1930s, leaving the maritime museum's three domes marooned where ships once moored. A statue of Victoria, donated by Alderman Thomas Ferens, sits in the centre.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -5.0660
 longitude: 39.1056
+score: 5.6
 ---
 
 The Port of Tanga is the second-largest port in Tanzania after Dar es Salaam, and the historic engine of the town. It was the principal sisal-exporting harbour during the German and British colonial periods — for decades sisal from the surrounding plantations was the foundation of Tanga's economy — and the long ranks of warehouses and the deepwater pier still dominate the northern waterfront.

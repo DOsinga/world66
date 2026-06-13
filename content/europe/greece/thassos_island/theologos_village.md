@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.4
 ---
 
 The former capital of Thassos, Theologos is a whitewashed mountain village in the central south of the island, tucked into the pine-forested hills well back from the coast. It served as the island's main settlement through the Ottoman period and into the early 20th century — built inland deliberately to be invisible from the sea and safe from pirates. When the coast became safe and the economy shifted to fishing and tourism, the population drifted down to the shore, and Theologos was largely abandoned for the coast villages. What remains is a quiet, unhurried place of old stone houses, some restored and occupied, others not.

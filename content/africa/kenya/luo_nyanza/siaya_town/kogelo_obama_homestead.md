@@ -13,6 +13,7 @@ story: >
   Journalists flew in, satellite trucks lined the dirt road, and villagers watched the
   inauguration on a television powered by a generator. The homestead had been a quiet
   family compound for decades; suddenly it was on the front page of every newspaper.
+score: 7.0
 ---
 
 About 30 km north of Siaya town, the village of Kogelo holds the ancestral homestead of the Obama family. This is where Barack Obama Sr. — father of the 44th US president — grew up, and where his grandmother Sarah Obama lived until her death in 2021. The compound contains the graves of Barack Obama Sr. and his father Hussein Onyango Obama, a cook for the British colonial administration whose story features prominently in the president's memoir *Dreams from My Father*.

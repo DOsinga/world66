@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -2.527
 longitude: -44.3
+score: 7.4
 ---
 
 The Museum of the Indigenous People of Maranhão documents the indigenous cultures of the state, including the Guajajara (Tentehar), Canela, and several other groups. The collection includes traditional crafts, tools, musical instruments, and ceremonial objects, along with documentation of the indigenous communities that still survive in Maranhão's interior.

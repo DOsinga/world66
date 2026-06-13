@@ -6,6 +6,7 @@ tags:
 - museum
 title: Casa della Cultura Leonida Repaci
 type: poi
+score: 6.2
 ---
 
 The Casa della Cultura Leonida Repaci is Palmi's main cultural complex, named for the local writer and Viareggio Prize founder. It brings together library spaces, archives, art collections, ethnographic material, and civic memory under one roof.

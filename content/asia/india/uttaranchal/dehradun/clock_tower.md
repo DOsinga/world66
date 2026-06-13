@@ -6,6 +6,7 @@ longitude: 78.0426
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 The hexagonal Ghanta Ghar at the centre of Paltan Bazaar is the spatial heart of old Dehradun — six clock faces, all of which usually disagree, atop a column visible for blocks in every direction. Built in 1948 to commemorate freedom fighters, it is the city's most photographed landmark and the point everyone uses for directions.

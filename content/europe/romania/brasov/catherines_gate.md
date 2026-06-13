@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.4
 ---
 
 Poarta Ecaterinei is the prettiest of Brasov's surviving fortifications — a square tower with four corner turrets, built in 1559 to control access between the Saxon walled town and the Romanian quarter of Schei beyond it. The four turrets had a practical purpose: a town with this signal could exercise the ius gladii, the right of capital punishment.

@@ -8,6 +8,7 @@ tags:
 - mosque
 title: Darussalam Grand Mosque
 type: poi
+score: 5.2
 ---
 
 The Darussalam Grand Mosque is the principal mosque of Central Kalimantan and one of the largest religious buildings in Palangka Raya. It sits at the western end of town and has a tall central dome flanked by minarets, in the standard Indonesian provincial-mosque style.

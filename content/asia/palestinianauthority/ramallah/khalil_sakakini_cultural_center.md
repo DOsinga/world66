@@ -8,6 +8,7 @@ latitude: 31.8986
 longitude: 35.2018
 sources:
   - https://en.wikipedia.org/wiki/Khalil_Sakakini_Cultural_Center
+score: 7.8
 ---
 
 The Khalil Sakakini Cultural Center is one of the most active arts organisations in the Palestinian territories, hosting exhibitions, film screenings, lectures, and performances throughout the year. It is based in a renovated Ottoman-era mansion in the centre of Ramallah, named after the Palestinian intellectual and educator Khalil Sakakini.

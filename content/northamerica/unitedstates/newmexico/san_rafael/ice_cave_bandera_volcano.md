@@ -13,6 +13,7 @@ story: >
   winter air sinks in, summer air can't push it out, and the tube stays below
   freezing all year. The deepest ice is over 20 feet thick and stained green by
   arctic algae — bottom layers are an estimated 3,400 years old.
+score: 7.6
 ---
 
 A privately owned attraction on NM-53 south of San Rafael, where two volcanic features sit on adjacent properties. The **Ice Cave** is the collapsed end of a lava tube where year-round ice has built up to a depth of over 20 feet; a wooden staircase drops into a chilled grotto with a turquoise ice floor at the bottom.

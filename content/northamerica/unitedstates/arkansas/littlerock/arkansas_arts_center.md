@@ -12,6 +12,7 @@ story: >
   new museum spaces in the South. The works-on-paper collection is
   particularly strong — over 14,000 drawings, watercolours, and prints, among
   the best such collections in the United States.
+score: 8.6
 ---
 
 The Arkansas Museum of Fine Arts, reopened in 2022 after a major rebuilding, is the most significant cultural institution in the state. The collection spans five centuries and includes paintings, sculpture, and a particularly deep holding of works on paper — drawings and watercolours by Monet, Degas, Toulouse-Lautrec, and a strong American modernist section.

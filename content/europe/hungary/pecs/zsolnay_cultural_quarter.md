@@ -18,6 +18,7 @@ story: >
   decades and is still partially proprietary.
 sources:
   - https://en.wikipedia.org/wiki/Zsolnay_porcelain_manufactory
+score: 8.6
 ---
 
 The Zsolnay Cultural Quarter occupies the 19th-century factory complex of the famous Zsolnay porcelain manufactory, which was converted into a cultural hub during Pécs's year as European Capital of Culture in 2010. The complex includes several museums — a Zsolnay collection with the finest examples of the factory's Art Nouveau porcelain, a toy museum, and various galleries — as well as a university campus, workshop spaces, cafés, and a park.

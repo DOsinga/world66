@@ -9,6 +9,7 @@ tags:
 - museum
 title: Musee de l'Abbaye
 type: poi
+score: 6.8
 ---
 
 The abbey museum is housed in the vaulted cellars of the Benedictine abbey complex and traces the history of the scriptorium that produced some of the finest illuminated manuscripts of the early Middle Ages. The collection includes archaeological finds from the abbey grounds and reproductions of the celebrated Echternach Gospels.

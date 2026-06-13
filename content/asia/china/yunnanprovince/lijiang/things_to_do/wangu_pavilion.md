@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Wangu_Pavilion
+score: 7.4
 ---
 
 Wangu Pavilion stands on Lion Hill at the western edge of the old town and offers the best aerial view of Dayan's rooftops — a sea of grey curved tiles punctuated by wooden gables and the occasional pagoda, with Jade Dragon Snow Mountain filling the horizon to the north. The climb to the top is short and the pavilion itself is a handsome four-storey wooden structure in traditional Naxi style.

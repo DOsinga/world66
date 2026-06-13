@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.589
 longitude: 76.438
+score: 6.5
 ---
 
 The villages around Kumarakom and across the wider Vembanad region are the centre of Kerala's coir industry — the fibre extracted from coconut husks and spun into rope, mats, and matting. Husks are soaked in the brackish backwaters for months before the fibre is teased out, washed, and spun.

@@ -12,6 +12,7 @@ story: >
   of the Shire in The Lord of the Rings. Tolkien himself acknowledged the importance of
   the landscape of his Birmingham childhood to his creative imagination. The area is now
   managed as a nature reserve and the connection is well-documented by scholars.
+score: 6.7
 ---
 
 An ancient wet woodland and nature reserve in the south Birmingham suburb of Moseley, about 4 miles south of the city centre. The bog is a remnant of the wildwood that once covered much of central England — old oaks, willows, and alders over permanently wet ground — and is notable both for its ecological value and its literary associations.

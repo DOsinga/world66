@@ -12,6 +12,7 @@ tags:
 - sights
 title: Tahkuna Lighthouse
 type: poi
+score: 8.1
 ---
 
 Tahkuna lighthouse stands over 40 metres tall on the northern tip of Hiiumaa, an iron tower built in Paris in 1874 and shipped to Estonia by freighter. Its sister lighthouse, Ristna, was delivered at the same time and placed on the western tip of the island. Local legend insists the two were switched by mistake — Tahkuna, the taller of the pair, should logically have gone west, where it would be the first beacon ships saw coming from Europe. Instead the shorter Ristna ended up there.

@@ -10,6 +10,7 @@ tags:
   - historic_house
 snippet: Eccentric cliffside stone mansion cooled by a natural cave underneath.
 story: "Bothwell built the lodge over a sinkhole connected to a natural cave system; cool air rising through floor vents from the cave kept the house bearable through Missouri summers decades before air conditioning."
+score: 8.0
 ---
 
 About six miles north of Sedalia on US-65, Bothwell Lodge sits on a limestone bluff above the surrounding farmland — a four-storey stone house begun in 1897 and finished, in fits and starts, by 1928. John Homer Bothwell was a Sedalia lawyer, state legislator and amateur engineer, and the lodge reflects all three: castle-like turrets, hidden staircases, a billiards room with a stone fireplace, and the famous cave underneath that he plumbed into the building as natural air conditioning.

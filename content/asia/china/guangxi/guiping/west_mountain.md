@@ -14,6 +14,7 @@ story: >
   particular flavour is attributed to the mountain's combination of spring water,
   acid soil, and semi-shade from the forest canopy. During the Song dynasty the
   tea was sent as tribute to the imperial court.
+score: 8.6
 ---
 
 West Mountain rises behind Guiping city, its forested slopes dotted with Buddhist and Taoist temples that have been accumulating on these hillsides since the Tang dynasty. The mountain has been considered sacred for over a thousand years, and the temples — Longhua Temple, the white Guanyin pavilion, and several smaller shrines connected by paved paths — give the place a layered quality: centuries of religious construction visible at once, with the river and the karst landscape of central Guangxi visible beyond.

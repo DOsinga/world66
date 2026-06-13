@@ -4,6 +4,7 @@ longitude: 176.8350
 tags: [things_to_do, sight]
 title: Hawke's Bay Wine Trail
 type: poi
+score: 7.8
 ---
 
 Hawke's Bay is New Zealand's second-largest wine region and one of its best, specialising in Bordeaux-style reds and Chardonnay from the warm, dry climate of the Heretaunga Plains. Cellar doors are clustered within cycling distance of Hastings: Sileni, Te Awa, Craggy Range, and Elephant Hill are among the most well-regarded, though there are dozens of smaller producers scattered through the valleys.

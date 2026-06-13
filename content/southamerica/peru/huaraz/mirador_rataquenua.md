@@ -8,6 +8,7 @@ latitude: -9.5108
 longitude: -77.5192
 story: >
   On clear mornings before the valley clouds build, the view from Rataquenua takes in the entire span of the Cordillera Blanca from north to south — a 180-kilometre wall of glaciated peaks that includes more than two dozen summits above 6,000 metres.
+score: 6.8
 ---
 
 The Mirador de Rataquenua sits above the city at around 3,600 metres and offers the most accessible panoramic view of the Cordillera Blanca from Huaraz. The trail starts from the upper part of town and takes about one hour at a gentle pace — a good acclimatisation walk on your first or second day in the city.

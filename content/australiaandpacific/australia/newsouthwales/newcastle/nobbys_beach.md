@@ -12,6 +12,7 @@ story: >
   coal in the colony was found in 1797. Convict labour was used to build the breakwater connecting it
   to the mainland between 1818 and 1846, creating the protected harbour entrance that made Newcastle
   a viable port.
+score: 7.5
 ---
 
 Nobbys Beach sits at the northern tip of Newcastle's urban beach chain, backed by the grassy slope leading up to the lighthouse on Nobbys Head. It is the most sheltered of the city's beaches — tucked inside the harbour breakwater — and tends to be calmer than the ocean beaches to the south, making it a good option for families. The view back across the beach to the city centre and the Stockton sand dunes across the harbour entrance is the classic Newcastle image.

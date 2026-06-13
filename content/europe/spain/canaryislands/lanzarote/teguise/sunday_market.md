@@ -9,6 +9,7 @@ tags:
 snippet: "Largest weekly market in the Canary Islands, every Sunday morning in the old town"
 story: >
   The market began as a livestock and produce fair held when the surrounding villages came into Teguise for Mass. Animals are long gone but the rhythm is the same: stalls go up before dawn, the bigger restaurants put on extra staff, and tour buses from every resort on the island roll in from about nine. By two in the afternoon it is all over.
+score: 8.1
 ---
 
 The Sunday market is the busiest day of the week in Teguise by a wide margin. From early morning until about two in the afternoon, the plazas and main streets of the old town fill with hundreds of stalls selling everything from local cheeses, *gofio* flour, mojo sauces and cured tuna to leather goods, embroidered cloth, sun hats, and the inevitable bric-a-brac. There is live folk music in the main square and street food spilling out of every corner.

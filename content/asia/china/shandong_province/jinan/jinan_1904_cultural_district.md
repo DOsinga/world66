@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6697
 longitude: 116.9844
+score: 6.7
 ---
 
 The 1904 Cultural and Creative District occupies the former site of an early-twentieth-century commercial complex near the old railway station, the year in the name referring to the Jinan-Qingdao Railway opening in 1904 that connected the provincial capital to the sea. The development has converted old warehouses and factory buildings into creative offices, galleries, cafes, restaurants, and design shops in the industrial-chic style familiar from similar projects in Shanghai and Beijing.

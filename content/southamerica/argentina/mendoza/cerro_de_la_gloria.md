@@ -17,6 +17,7 @@ story: >
   wars of independence — a material connection to the events it commemorates.
 sources:
   - https://en.wikipedia.org/wiki/General_San_Mart%C3%ADn_Park
+score: 7.6
 ---
 
 Cerro de la Gloria is a rocky hill at the western end of Parque San Martín, rising above the park to give the best views of Mendoza and the Andes from within the city. A paved road and a footpath wind up to the summit, where the Monument to the Army of the Andes — a large bronze ensemble unveiled in 1914 — commemorates General San Martín's famous crossing of the Andes in 1817. The monument was cast from cannons captured during the wars of independence that followed.

@@ -8,6 +8,7 @@ tags:
 - beach
 title: Lido Island
 type: poi
+score: 6.9
 ---
 
 The Lido is the long, narrow barrier island that shields the Venice lagoon from the Adriatic, a fifteen-minute vaporetto ride from San Marco. It feels like a different world: wide streets with actual cars, Liberty-style villas behind garden hedges, and a proper sandy beach facing the open sea.

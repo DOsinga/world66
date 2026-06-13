@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6524
 longitude: 116.9897
+score: 8.1
 ---
 
 Tangjiaqiao is one of the best-preserved historic lanes in Jinan's southern old city, a narrow alley flanked by Qing and early Republican courtyard houses whose wooden gates, carved stone lintels, and spring-water gutters give an immediate sense of what the city looked like before concrete arrived. The lane is residential — people live here — and the combination of authentic decay and lived-in character that results is rare in a Chinese city where heritage is usually either demolished or over-restored.

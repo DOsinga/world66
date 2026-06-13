@@ -9,6 +9,7 @@ longitude: -0.1835
 story: >
   Local legend holds that the Goldstone was thrown by the Devil — or by a giant — and that it has magical properties including the ability to protect the town from plague.
   In 1834 it was buried by a farmer who was tired of people trampling his crops to see it; it was rediscovered and reinstated in the 1900s after local outcry.
+score: 6.4
 ---
 
 The Goldstone is a large sarsen stone — a type of sandstone boulder that occurs naturally across southern England but is not native to Sussex — that has stood in Hove since before recorded history. It weighs around 20 tonnes and was probably moved here during the prehistoric period, possibly as a waymarker or ritual object. Similar stones were used to build Stonehenge.

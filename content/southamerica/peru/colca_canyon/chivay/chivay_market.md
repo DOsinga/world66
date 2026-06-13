@@ -6,6 +6,7 @@ longitude: -71.6018
 tags:
   - things_to_do
   - market
+score: 6.8
 ---
 
 The daily market in Chivay's plaza area is a good place to stock up on supplies before heading deeper into the Colca Canyon — and to get a sense of the valley's agricultural abundance. The Colca Valley is one of the most extensively terraced agricultural regions in the Americas, and the market reflects this: corn in a dozen colours, potatoes, quinoa, freeze-dried chuño, fresh cheese, and meat.

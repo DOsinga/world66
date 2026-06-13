@@ -6,6 +6,7 @@ tags:
   - sight
 title: Dinh Cau Temple (Rock Temple)
 type: poi
+score: 6.6
 ---
 
 Dinh Cau temple is a small shrine perched on a rocky promontory at the entrance to Duong Dong harbour, dedicated to the goddess Thien Hau (Mazu) who protects sailors and fishermen. The temple and its lighthouse occupy a dramatic position at the end of a narrow rock outcrop, with views back over the harbour and the fishing fleet moored in the river mouth.

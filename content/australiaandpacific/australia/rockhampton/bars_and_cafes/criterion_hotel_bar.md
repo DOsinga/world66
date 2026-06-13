@@ -11,6 +11,7 @@ story: >
   The Criterion was built in 1889 during Rockhampton's gold rush peak, when the city had grand ambitions about its future as a major Queensland hub. It outlasted those ambitions, the gold rush, and several ownership changes, and it remains the kind of pub that feels genuinely connected to the place rather than constructed to look authentic.
 sources:
   - https://en.wikipedia.org/wiki/Criterion_Hotel,_Rockhampton
+score: 6.6
 ---
 
 The Criterion Hotel at 150 Quay Street is a heritage-listed pub that has been serving drinks in Rockhampton since 1889. The building is a fine example of the ornate two-storey commercial hotels of Queensland's gold rush era, with iron lacework verandas and a solid sandstone base. It has been restored rather than gutted, and the original character survives in the bar and the upstairs dining room.

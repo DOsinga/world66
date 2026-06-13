@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "Vela Plaža has flown the European Blue Flag continuously since 1999 — one of the longest unbroken runs of any beach on the Croatian coast. Locals will tell you the pebbles are smoother at the eastern end, where the prevailing bora wind has been working them for centuries."
+score: 8.8
 ---
 
 Vela Plaža, the Great Beach, runs for 1,800 metres along the curve of Baška Bay and is the reason most people come here. The shore is pebbles rather than sand — small, smooth, light grey — which means the water stays remarkably clear even in high season. The slope into the sea is gentle, making it one of the more child-friendly beaches on the Adriatic.

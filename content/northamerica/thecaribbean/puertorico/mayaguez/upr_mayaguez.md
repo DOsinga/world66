@@ -6,6 +6,7 @@ longitude: -67.1397
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The Mayagüez campus of the University of Puerto Rico — known to everyone simply as the *Colegio* — is the island's main engineering and agricultural school and one of the most respected technical universities in the Spanish-speaking world. It was founded in 1911 as a college of tropical agriculture and now has around 13,000 students.

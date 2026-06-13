@@ -1,6 +1,7 @@
 ---
 title: "Charlotte Amalie"
 type: poi
+score: 8.8
 ---
 
 Charlotte Amalie is one of those rare colonial capitals that has kept its historic fabric more or less intact. The old town climbs the hillside above the harbour in a grid of narrow streets whose Danish names — Dronningens Gade (Queen's Street), Kongens Gade (King's Street), Norre Gade — survived the American takeover unchanged. The red-roofed warehouses along the waterfront, built to hold sugar and rum in the 18th century, are now full of duty-free jewellers, liquor stores, and boutiques; the back alleys behind them are quieter and more interesting, with shaded arcades, old courtyards, and the occasional ruin.

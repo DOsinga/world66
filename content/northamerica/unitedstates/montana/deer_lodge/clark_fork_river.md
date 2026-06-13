@@ -7,6 +7,7 @@ tags:
   - fishing
 latitude: 46.4000
 longitude: -112.7400
+score: 6.2
 ---
 
 The Clark Fork rises just south of Butte and flows north past Deer Lodge before turning west toward Missoula and ultimately the Columbia. The stretch around town offers good trout fishing — brown and rainbow trout dominate, with the occasional cutthroat — and most of it is wadeable from public access points either side of I-90.

@@ -10,6 +10,7 @@ tags:
 - old_town
 title: Cathedral of Santa Maria
 type: poi
+score: 7.7
 ---
 
 Alghero's cathedral was begun in 1530 in the late Catalan Gothic style. Construction ran on for two centuries, so the building is something of a stylistic patchwork — Gothic ribbed vaulting at the apse end, a Renaissance nave, a Baroque dome, and an octagonal bell tower that is one of the few intact Catalan Gothic structures left on the island. The exterior is rough trachyte stone, austere from the outside.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Contadora_Island
 story: >
   The Pearl Islands were among the most productive pearl fisheries in the world during the 16th and 17th centuries. Spanish conquistadors enslaved Indigenous divers and later African slaves to harvest oysters from the seabed — brutal work that killed many. The pearls retrieved here helped finance Spain's empire. Contadora's administrative role gave the entire archipelago its popular name: the Pearl Islands.
+score: 4.2
 ---
 
 Contadora means "counter" in Spanish — the island was the place where pearls harvested from across the Pearl Islands archipelago were brought, sorted, counted, and prepared for shipment to Spain. This administrative role during the colonial era gave the island its name and made it the commercial hub of one of the Americas' most lucrative industries.

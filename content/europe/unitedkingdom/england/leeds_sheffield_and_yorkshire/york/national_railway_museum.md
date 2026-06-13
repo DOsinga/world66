@@ -14,6 +14,7 @@ story: >
   alongside locomotives from the Rocket (1829) to a Eurostar, making the Great
   Hall one of the few places on earth where you can see the entire arc of railway
   history in a single room.
+score: 9.3
 ---
 
 The National Railway Museum is one of the best free museums in Britain, and not only for people who care about trains. The Great Hall is a converted steam locomotive depot, and its sheer scale — combined with the variety of engines inside, from early Victorian to modern Japanese — produces a genuinely impressive effect. Royal saloon carriages used by Queen Victoria and later monarchs are in immaculate condition. The working turntable allows locomotives to be repositioned, and on good days you can watch them move. Allow at least three hours; the museum is bigger and better than you expect.

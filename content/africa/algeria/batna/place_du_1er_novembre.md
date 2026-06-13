@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5563
 longitude: 6.1741
+score: 5.7
 ---
 
 The main square of Batna — named, like dozens of Algerian town squares, after the date the independence war began in 1954 — is the social centre of the city. In the evenings it fills with families, young men playing cards at café tables, and the general unhurried circulation that characterises Algerian public life. There is nothing architecturally remarkable about the square itself, but it is the best place to feel the pulse of the city.

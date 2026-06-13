@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The ghat takes its name from the Gangaur festival each March-April, when richly dressed images of Shiva and Parvati are paraded through the city and finally brought to these steps for a ceremonial lake immersion. The procession has barely changed in 400 years."
+score: 8.4
 ---
 
 The most photographed flight of steps in Udaipur, **Gangaur Ghat** runs down from the old city into Lake Pichola directly in front of Bagore ki Haveli. From dawn the steps fill with women washing clothes and dishes, pilgrims floating tiny oil lamps, and tourists waiting for boats. The triple-arched gateway at the top — the **Tripoliya** — is one of the city's signature views.

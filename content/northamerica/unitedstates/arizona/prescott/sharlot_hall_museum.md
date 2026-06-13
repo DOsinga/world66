@@ -13,6 +13,7 @@ story: >
   for twenty years, curating the collection herself while continuing to write poetry and history.
 sources:
   - https://en.wikipedia.org/wiki/Iron_Turbine_Windmill
+score: 8.4
 ---
 
 The Sharlot Hall Museum occupies a three-acre campus on the edge of downtown, preserving several historic structures from Arizona's territorial period. The centerpiece is the Old Governor's Mansion, a hewn log building from 1864 that served as the home and office of Arizona's first territorial governor, John Goodwin. It remains one of the oldest surviving government buildings in the state.

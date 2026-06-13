@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wenlin
+score: 7.2
 ---
 
 Wenlin Street and the surrounding lanes northwest of Cuihu Park form the unofficial expatriate and student quarter of Kunming — a low-rise pocket of cafés, bars, restaurants, second-hand bookshops, and Yunnan craft outlets, wedged between Yunnan University and Yunnan Normal University. It is the most cosmopolitan corner of the city and the easiest place for a foreign visitor to spend an evening.

@@ -9,6 +9,7 @@ tags:
 latitude: 34.4833
 longitude: -114.3833
 snippet: Colorado River reservoir with year-round warm water and 60 kilometres of shoreline
+score: 7.5
 ---
 
 Lake Havasu is a 35-kilometre reservoir on the Colorado River created by Parker Dam in 1938. The lake sits in a natural trough between the Mohave Mountains on the Arizona side and the Whipple Mountains on the California side, giving it a dramatic desert-canyon setting that is more striking than most American reservoir lakes. Water temperatures reach 30°C (86°F) in summer and rarely drop below 15°C in winter, which makes it genuinely usable year-round.

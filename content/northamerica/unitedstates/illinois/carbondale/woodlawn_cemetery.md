@@ -8,6 +8,7 @@ latitude: 37.727222222222224
 longitude: -89.21083333333334
 story: >
   The first formal observance of what would become Memorial Day is claimed by several places in the United States, but Carbondale's Woodlawn Cemetery has one of the strongest historical cases. On April 29, 1866 — before any other documented observance — former Union generals John Logan and John McClernand led a procession to Woodlawn, where graves were decorated with flowers to honour Civil War dead. Logan later issued the general order in 1868 that established Decoration Day as a national practice.
+score: 6.8
 ---
 
 Woodlawn Cemetery at 405 E. Main Street is a historic Victorian-era cemetery that claims the distinction of hosting one of the first Memorial Day observances in the United States, predating the official declaration of Decoration Day by two years. A historical marker at the cemetery records the April 1866 ceremony.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 50.3163
 longitude: -119.2925
+score: 7.2
 ---
 
 Swan Lake, just north of Vernon, is a shallow, reedy lake that is one of the best birdwatching sites in the Okanagan. The lake and its surrounding wetlands attract over 200 species of birds through the year, with particularly good numbers during spring and autumn migration. Great blue herons, white pelicans, ospreys, and various duck species are common in summer; tundra swans and other migrants pass through in spring.

@@ -14,6 +14,7 @@ story: >
   remains fondly maintained.
 sources:
   - https://en.wikipedia.org/wiki/Fredericton_Region_Museum
+score: 7.1
 ---
 
 The Fredericton Region Museum is housed in the old Officers' Barracks building in the Historic Garrison District, a fine stone building from the 1820s. The museum covers the history of the Fredericton region from the Indigenous Wolastoqiyik people through the Acadian and Loyalist periods, the British garrison era, and into the modern city. The collections are eclectic — military artefacts, household goods, photographs, and oddities sit side by side in a way that feels pleasingly old-fashioned.

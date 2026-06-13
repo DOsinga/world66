@@ -8,6 +8,7 @@ latitude: 30.1960
 longitude: -81.3960
 story: >
   The 17th hole at TPC Sawgrass is one of the most famous and most feared holes in golf — a par-3 with an island green reachable only by a short bridge. The hole was designed by Pete Dye in 1980 specifically to intimidate professional golfers. During The Players Championship it is estimated that the combination of nerves and wind causes several hundred balls per round to enter the water surrounding the green. A diver retrieves them after each day's play.
+score: 6.9
 ---
 
 TPC Sawgrass in Ponte Vedra Beach, about 25 kilometres south of Jacksonville, is home to The Players Championship — the event often described as golf's unofficial "fifth major." The Stadium Course, designed by Pete Dye in 1980, is one of the most recognisable courses in world golf, with its famous island-green 17th hole visible from the road on approach.

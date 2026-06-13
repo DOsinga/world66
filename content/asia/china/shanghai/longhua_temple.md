@@ -2,6 +2,7 @@
 category: Sight
 latitude: 31.175
 longitude: 121.4493
+score: 8.3
 snippet: Shanghai's oldest temple, with a 10th-century pagoda — once visited as Longhua
   Cemetery
 story: The 40-metre Longhua Pagoda has stood here since 977 AD, making it one of the
@@ -12,8 +13,6 @@ tags:
 - things_to_do
 - sight
 - french_concession
-title: Longhua Temple and Pagoda
-type: poi
 ---
 
 The oldest temple in Shanghai, founded according to tradition in 242 AD and rebuilt many times since. Five halls run on a north-south axis, with a 977 AD seven-storey pagoda visible from outside. The main Mahavira Hall holds large gilded statues of the Buddhas of past, present and future, and the rear hall has a smiling rotund Maitreya. It is an active monastery and the courtyards smell of incense.

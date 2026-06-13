@@ -19,6 +19,7 @@ story: >
   within a single visit.
 sources:
   - https://en.wikipedia.org/wiki/Srisailam
+score: 8.9
 ---
 
 Srisailam, around 180 kilometres from Kurnool, is one of the most important religious sites in Andhra Pradesh — the location of the Mallikarjuna Jyotirlinga, one of the twelve most sacred Shiva shrines in India, built in the Dravidian style with fine Vijayanagara-era stonework. The temple complex is substantial and busy, particularly on major religious occasions, when it draws pilgrims from across the region.

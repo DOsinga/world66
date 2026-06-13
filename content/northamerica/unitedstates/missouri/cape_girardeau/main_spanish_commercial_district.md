@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.30444444444444
 longitude: -89.51888888888888
+score: 7.7
 ---
 
 The Main-Spanish Commercial Historic District encompasses the core blocks of Cape Girardeau's downtown, where a cohesive collection of 19th and early 20th-century commercial buildings creates one of the better-preserved small-city streetscapes in Missouri. The buildings range from modest brick storefronts to the more ambitious commercial architecture of the town's steamboat-era prosperity.

@@ -8,6 +8,7 @@ tags:
 snippet: "A 30-metre waterfall in the jungle hills above Puerto Galera"
 latitude: 13.4706
 longitude: 121.0081
+score: 6.8
 ---
 
 Tamaraw Falls is the most visited natural attraction inland from Puerto Galera. A 30-metre cascade drops through dense tropical vegetation about 15 kilometres southeast of town, off the main road toward Calapan. The surrounding area is cool and humid — a welcome contrast to the coastal heat — and the pool at the base of the falls is good for swimming.

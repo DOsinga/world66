@@ -8,6 +8,7 @@ snippet: "Hidden German cemetery on Vatican grounds, in use since the 8th centur
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 A small German-speaking enclave tucked just south of St. Peter's Basilica, with a cemetery that has been in continuous use since around 799, when Charlemagne reportedly granted the site to a Frankish religious community. The Campo Santo Teutonico is the burial ground of the College of German Priests in Rome and is bordered by a tiny baroque church, Santa Maria della Pietà.

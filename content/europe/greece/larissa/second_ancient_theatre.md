@@ -8,6 +8,7 @@ latitude: 39.6403
 longitude: 22.4119
 sources:
   - https://en.wikipedia.org/wiki/Second_Ancient_Theatre,_Larissa
+score: 6.8
 ---
 
 The Second Ancient Theatre sits on the western side of Frourio Hill, a few hundred metres from its larger sibling. It is a more intimate structure — smaller in diameter and capacity — and is thought to be a Roman-era construction, possibly built to complement rather than replace the Hellenistic theatre. The two theatres operating simultaneously in a single Greek city is unusual and reflects Larissa's importance as the capital of the Thessalian League.

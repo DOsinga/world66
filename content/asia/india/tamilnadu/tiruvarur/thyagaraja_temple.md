@@ -9,6 +9,7 @@ latitude: 10.938061
 longitude: 79.413043
 story: >
   The Thyagaraja Temple's central lingam is said to represent prithvi — earth — one of the five classical elements. According to tradition, the lingam is self-manifested and embedded in the earth itself rather than placed by human hands. The vast temple tank, one of the largest in Tamil Nadu at 36 hectares, feeds the surrounding fields and served for centuries as the town's water supply.
+score: 9.1
 ---
 
 The Thyagaraja Temple (also called the Thiru Thyageswara Temple) is one of the most important Shiva temples in Tamil Nadu, dedicated to the lord as Thyagarajaswamy and classified as one of the Pancha Bhuta Stalas — the five temples associated with the five classical elements. This temple represents earth, and the main shrine is said to stand directly on the element it embodies.

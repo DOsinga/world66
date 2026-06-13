@@ -14,6 +14,7 @@ story: >
   been recreated as a digital animation that plays in a darkened room in the
   park. Watching the painted city come to life, with its 800-odd figures moving
   and speaking, gives a peculiar sensation of history becoming present.
+score: 7.5
 ---
 
 Millennium City Park is a large-scale recreation of the city depicted in the Song-dynasty masterpiece "Along the River During the Qingming Festival" — a scroll painting that has been called the Chinese Mona Lisa for its cultural ubiquity. The park is unapologetically theatrical: costumed performers play merchants, fortune tellers, acrobats, and court officials; reproduction Song-dynasty streets and buildings line artificial canals; boat rides and mock ceremonies fill the schedule. It would be easy to dismiss as kitsch, and in some respects it is, but the ambition of the recreation is genuinely impressive and gives visitors without a scholarly background in the period a visceral sense of what a medieval Chinese capital felt like at its height.

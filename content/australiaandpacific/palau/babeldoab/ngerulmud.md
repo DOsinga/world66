@@ -6,6 +6,7 @@ longitude: 134.6242
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Ngerulmud is the official capital of Palau and one of the smallest national capitals in the world — essentially the cluster of government buildings on a hill above Melekeok. The capital moved here from Koror in 2006 when the new capitol complex opened.

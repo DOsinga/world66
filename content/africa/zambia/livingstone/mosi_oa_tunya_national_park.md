@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mosi-oa-Tunya_National_Park
 story: >
   The park is the only place in Zambia where white rhinoceros live. The current population of southern white rhinos was reintroduced in the early 1990s after the species had been poached to local extinction in the preceding decades. They are now regularly seen on game drives, usually in the riverside area where they graze in the late afternoon.
+score: 8.7
 ---
 
 Mosi-oa-Tunya National Park is a small but rewarding game reserve that begins just outside Livingstone and extends south to the falls. Despite its modest size, it has a good selection of wildlife: elephant, buffalo, giraffe, zebra, various antelope, and the famous white rhinos. Game drives are conducted in open vehicles, and the rhinos are usually traceable with the park's guides.

@@ -8,6 +8,7 @@ tags:
 latitude: -7.7496
 longitude: 110.3696
 snippet: Pyramidal museum to the Indonesian independence struggle
+score: 6.4
 ---
 
 A 31-metre pyramid in the Ngaglik sub-district, three kilometres north of Yogyakarta city centre. The Monumen Yogya Kembali ("Yogyakarta Returns") commemorates the recapture of the city from Dutch forces in 1949, a turning point in the war of independence.

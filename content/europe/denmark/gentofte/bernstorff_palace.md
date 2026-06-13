@@ -10,6 +10,7 @@ latitude: 55.7584
 longitude: 12.5523
 sources:
   - https://en.wikipedia.org/wiki/Bernstorff_Palace
+score: 6.8
 ---
 
 Bernstorff Palace was built between 1756 and 1759 for Count Johann Hartwig Ernst von Bernstorff, Denmark's foreign minister, and quickly became a favourite summer residence of the Danish royal family. The French Baroque palace — now used for official state functions — is not open to the public, but the surrounding park is one of the most pleasant green spaces in the municipality and well worth a walk.

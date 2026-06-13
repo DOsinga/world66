@@ -11,6 +11,7 @@ story: >
   The 99 doors of Richmond Castle are not a coincidence. According to local tradition, the original owner — a Sinhalese aristocrat who had grown wealthy as a carbon-copy of his colonial patrons — deliberately kept the count at 99 to avoid paying a tax that was levied on buildings with 100 or more openings. Whether the tax existed or not, the count stuck, and visitors still count doors on their way around the building.
 sources:
   - https://en.wikipedia.org/wiki/Richmond_Castle,_Kalutara
+score: 8.0
 ---
 
 Richmond Castle is an Edwardian mansion built around 1900 by a wealthy Sinhalese landowner, located about four kilometres north of Kalutara town on the Colombo road. It is an extraordinary piece of architecture — a hybrid of European and South Asian styles that sits in a large garden with views toward the river.

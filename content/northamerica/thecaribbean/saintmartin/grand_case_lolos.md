@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 7.7
 ---
 
 The lolos are the open-air barbecue shacks at the northern end of Grand Case's restaurant strip, and they represent some of the best-value eating on the island. A row of corrugated-roof stalls fronts the beach with plastic chairs and simple tables; each grill turns out fresh fish, lobster, chicken, ribs, and the standard Creole sides — rice and peas, plantain, coleslaw. Order by pointing at the grill and negotiating from there.

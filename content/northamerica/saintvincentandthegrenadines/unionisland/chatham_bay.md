@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 12.6022
 longitude: -61.4483
+score: 8.0
 ---
 
 Chatham Bay is Union Island's finest beach — a wide crescent of pale sand on the western coast, backed by low hills and usually empty of crowds. The bay faces west, which means brilliant sunset light in the late afternoon and calm, sheltered water good for swimming.

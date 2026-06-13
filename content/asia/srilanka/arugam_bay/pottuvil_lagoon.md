@@ -8,6 +8,7 @@ tags:
   - wildlife
 title: Pottuvil Lagoon
 type: poi
+score: 8.1
 ---
 
 Pottuvil Lagoon separates the main bay from the town of Pottuvil to the north — a shallow, mangrove-fringed body of water that is excellent for birdwatching. Species seen regularly include purple herons, painted storks, kingfishers, and various egrets. Crocodiles are present and visible most mornings if you scan the banks.

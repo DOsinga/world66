@@ -9,6 +9,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4672
 longitude: 54.6031
+score: 5.9
 ---
 
 The Yas Marina branch of the Cipriani family of restaurants — Venetian dining-room aesthetic, white tablecloths, waiters who pour your wine for you. The carpaccio is the obligatory order, the calf's liver alla Veneziana is the right one.

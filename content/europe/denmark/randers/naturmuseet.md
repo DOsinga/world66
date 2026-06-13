@@ -8,6 +8,7 @@ tags:
 latitude: 56.4594
 longitude: 10.0328
 story: Naturmuseet Randers holds collections of Danish and international natural history covering geology, zoology, and botany. The museum occupies a historic building near the riverfront and has been particularly active in school and family programming. It shares a cultural district with the Randers Kunstmuseum, making the riverfront area Randers' main concentration of museums.
+score: 6.1
 ---
 
 Naturmuseet Randers (The Natural History Museum) is a regional natural history institution with collections of local geology, Danish wildlife, and international specimens. The museum appeals particularly to families and those interested in the natural history of Jutland — the geological displays on the formations of the Danish landscape, including the effects of the last ice age on the region's terrain, are among the more informative in eastern Jutland.

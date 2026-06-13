@@ -7,6 +7,7 @@ tags:
   - eating_out
   - chiado
   - restaurant
+score: 7.0
 ---
 
 A small, much-praised petiscos restaurant in Chiado where the menu changes daily depending on what is fresh and seasonal. The format is small plates in the Portuguese tradition — good cheese, cured meats, fried codfish cakes, razor clams, slow-braised meats — paired with natural wines from small producers. The room is simple and often full.

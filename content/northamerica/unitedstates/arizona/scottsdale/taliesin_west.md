@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Wright first camped on the site in 1937 with his apprentices and built much of the original studio from desert rubble — slabs of red quartzite cemented with sand from the wash. He kept a canvas roof on the drafting room for years because he liked the diffused light, and only replaced it with glass when his second wife Olgivanna insisted."
+score: 9.2
 ---
 
 Frank Lloyd Wright's winter home, studio, and architecture school sits on the lower slopes of the McDowell Mountains north-east of central Scottsdale. Wright considered the building his greatest work and described the desert site as an organism — every angle of the building is calculated against the slope and the sun. It is a UNESCO World Heritage site and the centre of the Frank Lloyd Wright Foundation.

@@ -14,6 +14,7 @@ story: >
   lies entirely in the human agility. The sport has been practised in the
   Landes since at least the seventeenth century, and the écarteurs who perform
   during the Fêtes are treated as local heroes.
+score: 8.6
 ---
 
 Every July, Mont-de-Marsan hosts one of the great popular festivals of southwest France. For a week around the feast of Saint Madeleine, the streets fill with bandas — brass bands of fifty or more musicians playing loudly and without restraint — while crowds in white and red follow the procession from morning to well past midnight. Bull-running through the streets draws the biggest audiences, but the course landaise contests in the arenas are the real local passion.

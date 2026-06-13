@@ -16,6 +16,7 @@ story: >
   the castle for six centuries.
 sources:
   - https://www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill
+score: 9.1
 ---
 
 Dunster Castle has stood on its red sandstone hill since Norman times — the Domesday Book records a fortification here — but the building visitors see today is largely a 17th-century country house built around earlier medieval walls. The Luttrell family owned it from 1376 to 1976, and their centuries of continuous occupation give the interior an unusually personal quality: paintings, silver, furniture, and family portraits accumulated over generations rather than assembled by collectors.

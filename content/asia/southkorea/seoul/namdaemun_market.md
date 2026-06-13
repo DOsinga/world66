@@ -7,6 +7,7 @@ tags:
   - myeongdong
 title: Namdaemun Market
 type: poi
+score: 7.8
 ---
 
 Namdaemun is Seoul's largest traditional market and one of the oldest surviving commercial areas in the country, operating continuously since 1414. The market sprawls across several blocks around Sungnyemun (the Great South Gate), with over ten thousand shops and stalls selling everything from ginseng and dried seafood to clothing, hardware, and kitchen equipment. The streets most interesting to visitors are those selling Korean street food, imported goods, and tourist-oriented products.

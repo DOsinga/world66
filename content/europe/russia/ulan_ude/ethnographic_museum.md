@@ -11,6 +11,7 @@ story: >
   in a remote Buryatian village and rebuilt on site — paint, painted ceilings,
   and stove all intact — making it one of the finest preserved examples of
   Siberian peasant interior decoration anywhere.
+score: 8.9
 ---
 
 The Ethnographic Museum is one of the largest open-air museums in Russia: about 40 hectares of pine forest on the edge of the city, dotted with reconstructed buildings from each of Transbaikalia's communities — Evenki nomadic camps, Buryat yurt clusters, Cossack farmsteads, Old Believers' villages, and a Soviet-era town square.

@@ -6,6 +6,7 @@ latitude: 26.234726
 longitude: 50.574661
 snippet: "British-era gateway that marks the entrance to Manama's old souq district"
 story: "When the British built the Bab al-Bahrain in 1945, the sea came right up to the square behind it. Today the coastline is 400 metres further north — the entire strip of land between the gate and the water was reclaimed over the following decades."
+score: 5.7
 ---
 
 Bab al-Bahrain — the Gate of Bahrain — was built by the British in 1945, on what was then the customs waterfront at the edge of the sea. It served as the formal ceremonial entrance to Manama and the start of the main commercial street. The building now houses Bahrain's tourism directorate and a small visitor information office. Its construction reflects the hybrid aesthetic of British colonial administration in the Gulf: a low-rise stone structure with arched windows and crenellations, gesturing at Arabesque design while remaining thoroughly functional.

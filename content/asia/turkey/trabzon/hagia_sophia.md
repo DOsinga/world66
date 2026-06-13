@@ -11,6 +11,7 @@ story: >
   The Hagia Sophia of Trabzon contains one of the most unusual collections of Byzantine frescoes in existence — unusual because they were preserved by being plastered over when the Ottomans converted the church to a mosque in 1461. The plaster that covered them for five centuries protected the colours perfectly. When the building was opened as a museum in 1964, restorers found the 13th-century paintings in extraordinary condition: the Last Judgement scene in the narthex is among the finest Byzantine fresco cycles surviving anywhere.
 sources:
   - https://en.wikipedia.org/wiki/Hagia_Sophia,_Trabzon
+score: 8.9
 ---
 
 The Hagia Sophia of Trabzon is not to be confused with its far more famous namesake in Istanbul — but it has claims to attention that stand independently. Built in the 13th century during the Empire of Trebizond, this three-aisled basilica with a detached bell tower is one of the best-preserved examples of Byzantine architecture in Turkey, featuring both an impressive exterior with carved stone relief panels and a well-restored interior of frescoes.

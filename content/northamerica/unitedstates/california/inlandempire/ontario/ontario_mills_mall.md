@@ -9,6 +9,7 @@ tags:
   - market
 title: Ontario Mills
 type: poi
+score: 4.8
 ---
 
 The largest one-storey shopping mall west of the Mississippi, Ontario Mills is 200-plus outlet and discount stores under a single roof at the junction of I-10 and I-15. Nike, Levi's, Polo, Saks Off 5th, Last Call by Neiman Marcus — most at 30–60 percent off mall prices. There is also a multiplex cinema, food court, a Dave & Buster's, and the inevitable Rainforest Cafe.

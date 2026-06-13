@@ -7,6 +7,7 @@ tags:
 latitude: 18.9262
 longitude: 102.4488
 snippet: A family-run Lao restaurant on the main street serving honest, inexpensive local food
+score: 5.8
 ---
 
 Nangphone is the kind of place that gets recommended by guesthouses and then fills up with travellers who are pleasantly surprised by how good simple Lao cooking can be. The laap — minced meat salad with toasted rice powder, fish sauce, and herbs — is excellent, and the or lam (a thick Lao stew with eggplant and wood ear mushrooms) is made properly, not toned down for foreign palates. Sticky rice comes in a traditional woven basket.

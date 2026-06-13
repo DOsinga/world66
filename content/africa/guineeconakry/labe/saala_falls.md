@@ -8,6 +8,7 @@ latitude: 11.2950
 longitude: -12.3100
 story: >
   The Fouta Djallon plateau is the source of three of West Africa's greatest rivers — the Gambia, the Senegal, and the Niger — all rising within a few hundred kilometres of Labe. The plateau's waterfalls are a consequence of the same geology: rivers cutting rapidly off the highland edge into deep valleys, producing falls that are most spectacular during and just after the rainy season.
+score: 7.9
 ---
 
 The Saala Falls are the most accessible waterfall from Labe, a short journey by vehicle into the highland landscape south of the town. The falls drop from the plateau edge into a gorge surrounded by dense vegetation, and the volume of water is impressive during and after the rainy season (July to October). Swimming is possible in pools at the base when water levels permit.

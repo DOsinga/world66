@@ -13,6 +13,7 @@ story: >
   eruption was preceded by years of heightened activity, but evacuation was incomplete. The event prompted
   the establishment of PHIVOLCS, the Philippine Institute of Volcanology and Seismology, which has monitored
   the volcano continuously since.
+score: 8.2
 ---
 
 Camiguin's highest and most active volcano at 1,332 metres, Mt Hibok-Hibok last erupted in 1951 and remains closely monitored by PHIVOLCS. The volcano rises steeply from the island's centre, and its cone is visible from almost everywhere on the island — the visual anchor around which everything else is organised.

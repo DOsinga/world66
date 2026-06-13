@@ -12,6 +12,7 @@ story: >
   the others were Philadelphia and Trenton. The reading happened on
   the wooden courthouse steps that once stood on this square; a small
   plaque marks the spot.
+score: 6.3
 ---
 
 The colonial-era heart of Easton — a circular green at the meeting of Northampton and Third Streets, with the **Peace Candle** at its centre. The candle is a 106-foot temporary "candle" that goes up over the existing Civil War monument every December, lit through the holiday season as a community gesture. The rest of the year, the obelisk underneath honours Civil War dead.

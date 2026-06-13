@@ -9,6 +9,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Al_Zubarah_Fort
+score: 7.4
 ---
 
 Built in 1938 by the Qatari state as a border police post, the fort sits at the edge of the archaeological zone and now houses the site's interpretive museum. The collection is well-organized and modest in scale: pottery shards, pearl-diving weights, trade goods, and maps that explain the settlement's development and commercial reach. The fort's rooftop offers the best views over the ruins and out to the coast.

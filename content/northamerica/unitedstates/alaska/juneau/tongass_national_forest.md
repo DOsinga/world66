@@ -9,6 +9,7 @@ latitude: 58.3500
 longitude: -134.5000
 story: >
   The Tongass National Forest covers 17 million acres — an area larger than West Virginia — making it the largest national forest in the United States. It contains more than a third of the world's remaining old-growth temperate rainforest. The trees that grow in the Tongass are some of the oldest living organisms in North America: Sitka spruce, western hemlock, and red cedar that were old when the first European ships entered the Inside Passage.
+score: 8.4
 ---
 
 The Tongass National Forest begins almost at the edge of downtown Juneau and covers essentially all of the land visible from the city. It is the largest national forest in the United States, a vast temperate rainforest of Sitka spruce, western hemlock, and red cedar threading between glaciers, fjords, and islands. For hikers, it offers everything from flat forest walks to multi-day routes through serious alpine terrain.

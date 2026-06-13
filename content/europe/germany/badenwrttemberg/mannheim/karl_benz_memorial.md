@@ -15,6 +15,7 @@ story: >
   with local resources: using a hairpin to unblock a fuel pipe, buying ligroin (a petroleum solvent)
   from pharmacies as fuel, and having a cobbler nail leather onto the brake shoes. The route is now
   a signposted heritage trail.
+score: 6.9
 ---
 
 In the courtyard of a building on Waldhofstraße, a simple plaque marks the workshop where Karl Benz developed and built the Patent Motorwagen between 1884 and 1886 — the world's first vehicle designed and built to be powered by a petrol engine. The invention happened here, in Mannheim, in this unremarkable industrial space.

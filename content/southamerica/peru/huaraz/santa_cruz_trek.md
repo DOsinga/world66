@@ -9,6 +9,7 @@ latitude: -9.0183
 longitude: -77.6167
 story: >
   The Santa Cruz loop crosses the Punta Union pass at 4,750 metres — high enough to feel like a different planet. On a clear day you can see Alpamayo, voted the world's most beautiful mountain by a 1966 German alpine survey, its near-perfect pyramid of ice rising above the Santa Cruz valley.
+score: 9.4
 ---
 
 The Santa Cruz Trek is the classic four-day circuit in the Cordillera Blanca and one of South America's finest mountain walks. The route loops through the Quebrada Santa Cruz and Quebrada Huaripampa valleys, crossing the Punta Union pass at 4,750 metres and passing beneath some of the region's most spectacular peaks. Campsites at Llamacorral and Taullipampa give you close views of Alpamayo and Chopicalqui.

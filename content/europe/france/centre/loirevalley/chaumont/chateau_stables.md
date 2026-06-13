@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 47.4793
 longitude: 1.1822
+score: 7.9
 ---
 
 The stable block at Chaumont is often overlooked next to the château itself, but it is one of the great 19th-century stables in Europe. Built in 1877 for Prince Henri-Amédée de Broglie, it has electric lighting, hot water for the horses, and porcelain mangers — an extraordinary investment at a time when the horse was already being eclipsed by the engine.

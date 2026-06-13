@@ -12,6 +12,7 @@ story: >
   Ottoman administration. The mihrab and minbar of black, white and red
   inlaid marble are the finest of their kind in Anatolia and bear the
   Mamluk signature in their banded geometry.
+score: 8.8
 ---
 
 The Ulu Camii is the most important historic monument in Adana — a Mamluk-Ramazanoğlu mosque complex begun in 1513 and completed in 1541. The exterior, in distinctive bands of black and white stone, looks more Egyptian or Syrian than Anatolian, a reminder of the Mamluk artistic tradition that the local beys inherited. The single tall minaret rises from the south-east corner; the small surrounding courtyard contains the founder's türbe (tomb).

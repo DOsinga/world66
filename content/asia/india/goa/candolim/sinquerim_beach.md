@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: "Calmer southern extension of Candolim Beach, under the walls of Fort Aguada."
+score: 8.0
 ---
 
 Sinquerim is the southern continuation of Candolim Beach, ending at a rocky bastion below Fort Aguada that juts into the Arabian Sea. The sand is the same, but the crowd is smaller and the water is generally cleaner — the fort's outflow currents push the tourist debris north.

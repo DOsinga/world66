@@ -6,6 +6,7 @@ tags:
   - sight
 title: Itsandra Beach
 type: poi
+score: 6.5
 ---
 
 Itsandra, a small town about 7 kilometres north of Moroni along the coast road, has a beach that is more accessible and less crowded than those near the capital. The reef extends close to shore and snorkelling is possible at high tide. The town itself has historical significance — Itsandra was the seat of one of the island's most powerful sultanates before French colonisation, and the ruins of old buildings can be found among the coral-stone village houses.

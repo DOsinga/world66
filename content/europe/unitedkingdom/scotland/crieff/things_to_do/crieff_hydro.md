@@ -1,6 +1,7 @@
 ---
 title: "Crieff Hydro"
 type: poi
+score: 6.9
 ---
 
 Crieff Hydro opened in 1868 as a hydropathic hotel — one of many Victorian establishments that offered water-cure treatments as a fashionable alternative to medicine. Most of those places have long since become ordinary hotels or fallen derelict. Crieff Hydro became something else entirely: a sprawling, 900-acre family resort that has been a Scottish institution for more than 150 years, still owned by the same family that has run it for generations.

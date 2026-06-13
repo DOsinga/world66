@@ -7,6 +7,7 @@ tags:
 latitude: 44.0080
 longitude: 8.1730
 snippet: "Four kilometres of sandy beach in the Baia del Sole — the longest uninterrupted sandy beach on the western Ligurian Riviera"
+score: 8.3
 ---
 
 Alassio's beach is the reason the town became a resort in the Belle Époque, and the reason it still fills up every summer. The sand stretches for roughly 4 kilometres along the Baia del Sole (Bay of the Sun), sheltered by the curve of the coast and backed by the pastel-coloured hotels and villas that give the Ligurian Riviera its character. The seabed slopes gently, making it safe for families and inexperienced swimmers — a rarity on a coast where many beaches drop away quickly.

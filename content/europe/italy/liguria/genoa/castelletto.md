@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: Hilltop neighbourhood with sweeping views over the city and port
+score: 7.5
 ---
 
 Castelletto is the hillside neighbourhood that rises above the old city to the north, reached by funicular from Piazza del Portello (a short walk from Via Garibaldi). At the top, the Belvedere Montaldo terrace gives one of the best views in Genoa: the red-roofed old city below, the port behind it, and the hills stretching away on both sides.

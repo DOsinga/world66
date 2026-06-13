@@ -8,6 +8,7 @@ latitude: 34.5527
 longitude: 38.2593
 story: >
   Khaled al-Asaad was the site's chief archaeologist for over 40 years before his retirement. When ISIS seized Palmyra in 2015, he refused to reveal where the museum's most important artefacts had been hidden. He was tortured for information and then publicly executed on 18 August 2015, his body hung from a traffic light. He was 82 years old. The artefacts he died protecting had already been moved to safety by his team.
+score: 6.7
 ---
 
 The Palmyra Museum was a small but extraordinarily rich collection of artefacts from the site — funerary reliefs, statues, jewellery, textiles, and inscriptions in Palmyrene Aramaic, Greek, and Latin. It told the story of one of the ancient world's most cosmopolitan trading societies, through the faces carved on burial stones and the objects people took to their graves.

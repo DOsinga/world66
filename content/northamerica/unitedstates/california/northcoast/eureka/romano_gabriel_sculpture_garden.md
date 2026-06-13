@@ -15,6 +15,7 @@ story: >
   every day until he died in 1977. The garden, which had become one of Old Town's
   most beloved landmarks, was eventually moved indoors and is now displayed at the
   Clarke Historical Museum.
+score: 7.3
 ---
 
 The Romano Gabriel Wooden Sculpture Garden is a remarkable piece of folk art: hundreds of colorful carved wooden figures — people, flowers, trees, animals — created over four decades by an Italian immigrant carpenter who worked entirely in his front yard on 2nd Street. Gabriel used discarded vegetable and fruit crates from the local markets as his raw material, painting the finished pieces in vivid primary colors.

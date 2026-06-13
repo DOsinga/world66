@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The Atuel has carved through 350 million years of sedimentary rock, and the differential erosion has produced shapes locals have given names to: the Cathedral, the Submarine, the Lion, the Camel. Stop at the named viewpoints along the road and you can usually see why."
+score: 9.3
 ---
 
 The Cañón del Atuel is the reason most visitors come to San Rafael who are not coming for wine. The Atuel River has carved through layers of red, orange, and ochre sandstone to create a canyon of real drama — 50 kilometres of cliffs, hoodoos, and improbable rock formations, stretched between the Valle Grande reservoir at the upper end and the smaller Los Reyunos at the lower.

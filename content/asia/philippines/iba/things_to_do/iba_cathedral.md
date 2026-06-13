@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Iba_Cathedral
+score: 6.6
 ---
 
 The Saint Augustine Cathedral Parish — universally called Iba Cathedral — is the seat of the Diocese of Iba and the most prominent building in the town centre. The present structure is a mid-twentieth-century concrete church, plain by the standards of the Spanish colonial churches elsewhere in the Philippines, but it holds a steady place in local life: its plaza fills on Sunday mornings, and it serves as the ceremonial anchor of the Paynauen Festival processions each April.

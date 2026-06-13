@@ -12,6 +12,7 @@ snippet: The town's landmark Cape Dutch church, dating from 1847, with a distinc
 story: >
   The congregation here is one of the oldest in South Africa — services have been held on this site since 1691, just three years after the first Huguenots arrived.
   The current building replaced an earlier structure in 1847, but the community it serves has been continuous for over three hundred years.
+score: 6.9
 ---
 
 The Dutch Reformed Church stands at the top of Huguenot Road, its white-gabled facade visible from most of the town and marking the visual centre of Franschhoek. The church is a handsome example of Cape Dutch ecclesiastical architecture — clean lines, thick walls, and a symmetrical gabled front — dating from 1847, though the congregation occupying it is far older.

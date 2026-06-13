@@ -9,6 +9,7 @@ latitude: 10.7447
 longitude: -4.8019
 sources:
   - https://en.wikipedia.org/wiki/Fabedougou
+score: 7.9
 ---
 
 The Dômes de Fabédougou are a cluster of unusual sandstone formations rising out of the savannah about 15 kilometres north of Banfora — beehive-shaped domes and mushroom pillars eroded out of a single horizontal sandstone layer over millions of years. The whole field covers about a square kilometre, with the largest domes rising forty or fifty metres above the surrounding bush.

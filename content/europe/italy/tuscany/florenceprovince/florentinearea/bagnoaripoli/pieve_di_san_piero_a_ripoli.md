@@ -5,6 +5,7 @@ tags: [things_to_do, sight, church]
 latitude: 43.752
 longitude: 11.321
 story: "The pieve that gives Bagno a Ripoli its name predates the modern municipality by many centuries — it was already an important parish church in the early medieval period, serving the scattered farming communities across these hills. The baptismal font inside is Romanesque and among the oldest surviving objects in the municipality."
+score: 6.5
 ---
 
 The parish church of San Piero a Ripoli stands at the heart of the municipality's main settlement, its origins going back to the early medieval period. The word 'pieve' denotes an old baptismal church that served as the religious centre for surrounding villages before parish networks spread more widely — San Piero a Ripoli was one of the key such churches for the League of Bagno a Ripoli.

@@ -9,6 +9,7 @@ latitude: -1.7
 longitude: 29.25
 story: >
   Lake Kivu sits over a deep rift in the earth's crust and holds vast amounts of dissolved methane and carbon dioxide — some 300 cubic kilometres of gas trapped in its lower layers. Rwanda and the DRC are developing this into a methane-extraction industry (the Gasmeth plant off Gisenyi's shore is the most visible sign), but the gas also means the lake has no large fish below 70 metres, and the sheer scale of the reserves has historically raised fears about a catastrophic eruption similar to the 1986 Lake Nyos disaster in Cameroon.
+score: 8.5
 ---
 
 Lake Kivu is one of Africa's Great Lakes and one of its most beautiful: a long, island-dotted expanse hemmed in by steep green hills, with the Virunga volcanoes rising above the Congolese shore to the north. The water is warm enough to swim in year-round and calm enough near the shore for kayaking and paddleboarding. Several of Gisenyi's lakeside hotels and guesthouses have boat jetties and kayak rental.

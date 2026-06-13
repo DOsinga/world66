@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.7
 ---
 
 San Domenico is the burial church of Dominic of Caleruega, founder of the Dominican order. He died here in 1221 while travelling to negotiate the order's affairs in Bologna. The basilica that grew around his tomb became one of the most important Dominican churches in Italy.

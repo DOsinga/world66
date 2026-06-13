@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.9740
 longitude: -122.0295
+score: 6.9
 ---
 
 Laili is the best restaurant in downtown Santa Cruz, serving Afghan and Mediterranean food in a warm, atmospheric space on Cedar Street behind Pacific Avenue. The menu centres on kabobs, slow-cooked lamb dishes, and the flatbreads and dips of Central Asian cuisine — done carefully, without the corners-cutting that affects many ethnic restaurants in tourist-oriented towns.

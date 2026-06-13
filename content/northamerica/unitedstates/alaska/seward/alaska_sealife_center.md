@@ -13,6 +13,7 @@ story: >
   of Alaskan coastline and killed hundreds of thousands of seabirds and marine mammals. The center
   serves as both a public aquarium and Alaska's only permanent marine mammal rehabilitation facility,
   its origins a direct consequence of that catastrophe.
+score: 8.0
 ---
 
 The Alaska SeaLife Center is both a public aquarium and a working marine research and rehabilitation facility — the only one of its kind in Alaska. Steller sea lions, harbor seals, puffins, and seabirds share tanks you can view from above and below the waterline. The center takes in injured and orphaned marine animals, rehabilitates them, and releases those that recover.

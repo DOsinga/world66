@@ -6,6 +6,7 @@ latitude: 12.9266
 longitude: -85.9186
 story: >
   The cathedral was finished in 1874, when Matagalpa was a modest highland town and the coffee boom that would transform it was only just beginning. The Jesuits who commissioned it were making a long-term statement about the town's importance. Within a generation, German coffee planters were building estates in the surrounding mountains and the population had grown dramatically — but the neoclassical cathedral remained the centrepiece, as it does today.
+score: 7.2
 ---
 
 The Cathedral of Matagalpa is the city's most recognizable landmark — a handsome neoclassical structure that dominates the central plaza and anchors daily life in the way that Central American cathedrals do. Built by the Jesuits and completed in 1874, it is large enough to suggest civic ambition in what was then a provincial highland town.

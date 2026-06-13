@@ -9,6 +9,7 @@ tags:
 - walk
 title: Philosopher's Path
 type: poi
+score: 7.7
 ---
 
 The Philosopher's Path (*Tetsugaku no Michi*) follows a small canal — actually the Lake Biwa aqueduct — for about two kilometres through the foothills of the Higashiyama, connecting Nanzen-ji in the south with Ginkaku-ji in the north. Hundreds of cherry trees line the route, planted by the painter Hashimoto Kansetsu, and at the end of March the path becomes one of the most spectacular blossom walks in the country.

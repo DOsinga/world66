@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The cliff at the western edge of the fort, used for executions
 story: "Takmak Tok is a sheer drop of several hundred metres from the western plateau. In Shivaji's time, condemned prisoners were thrown from the edge; the local name translates roughly as 'the looking-down point'. The viewing platform is unfenced — keep small children well back."
+score: 7.5
 ---
 
 The cliff at the western corner of the fort plateau, with one of the most dramatic views in Maharashtra: a near-vertical drop into the valleys below, with the Sahyadri ranges fading into haze on the horizon. On a clear day the sea is visible far to the west.

@@ -7,6 +7,7 @@ tags:
 latitude: 20.2993
 longitude: -103.2606
 snippet: Community centre for English-speaking residents with gardens, library, and events
+score: 5.9
 ---
 
 The Lake Chapala Society is the social hub of Ajijic's enormous expat community — a private membership club on the malecon with a large garden, a library stocked with English-language books, a café, and a packed programme of lectures, classes, Spanish lessons, exercise groups, and social events. Non-members can visit the garden and library.

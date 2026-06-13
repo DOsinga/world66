@@ -14,6 +14,7 @@ tags:
 - things_to_do
 title: Elbasan Castle
 type: poi
+score: 8.3
 ---
 
 The 15th-century castle walls are the defining feature of Elbasan's old town, enclosing a rectangular area of around four hectares in the city centre. Large sections of the walls still stand to their full height, with the original towers visible at the corners. You can walk along the top of part of the wall and look out over the rooftops. The main gate on the west side is well preserved and makes a good entry point into the old city.

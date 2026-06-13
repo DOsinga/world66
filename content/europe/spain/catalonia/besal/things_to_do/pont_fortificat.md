@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.1986
 longitude: 2.6960
+score: 9.2
 ---
 
 The fortified Romanesque bridge across the Fluvià river is the defining image of Besalú — and one of the finest medieval bridges in Spain. Built in the 12th century, it is crenellated along its length and anchored by a gatehouse at the town end. Its most distinctive feature is a deliberate dogleg midway across: any attacker who made it past the gatehouse was forced to slow down and change direction, exposed the whole time.

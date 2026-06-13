@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 5.5
 ---
 
 The Eisendrath House — known locally as the pink house on the hill — is a 1930 adobe villa above the Salt River, built by a wealthy Chicago heiress wintering in Arizona. It is a rare surviving example of pueblo revival architecture in the area, with thick adobe walls, rounded corners, and timber vigas projecting from the roof.

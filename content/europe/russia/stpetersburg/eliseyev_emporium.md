@@ -9,6 +9,7 @@ tags:
   - nevskiyprospekt
 latitude: 59.9342
 longitude: 30.3375
+score: 7.4
 ---
 
 The Eliseyev Emporium is a sumptuous turn-of-the-century luxury food hall on the corner of Nevsky and Malaya Sadovaya, set inside the lavishly decorated 1903 Eliseyev Brothers building. After decades as a generic Soviet grocery shop, it was restored in the 2010s to its full Art Nouveau glory: stained glass, marble counters, a vaulted ceiling, mechanical mannequins in the windows, and a chocolate boutique that wraps every truffle in tinted foil.

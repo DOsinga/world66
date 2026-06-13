@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.6272
 longitude: 1.2905
+score: 6.8
 ---
 
 The Theatre Royal is Norwich's main producing and receiving theatre, dating to 1758 in its original form though rebuilt several times since. The current building seats around 1,300 and hosts a varied programme of West End transfers, opera, ballet, comedy, and drama throughout the year. It is the largest theatre in the region and the first stop for many touring productions coming to East Anglia.

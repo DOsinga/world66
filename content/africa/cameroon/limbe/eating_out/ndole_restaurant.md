@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 4.0115
 longitude: 9.2080
+score: 5.7
 ---
 
 Ndolé is the dish that defines Cameroonian cooking: bitter leaf — a mildly astringent green — slow-cooked with ground peanuts, crayfish, and usually beef or shrimp until the sauce becomes dark, rich, and deeply savoury. It is served with plantains, rice, or miondo (fermented cassava sticks), and a good version is one of the better things to eat in this part of Africa.

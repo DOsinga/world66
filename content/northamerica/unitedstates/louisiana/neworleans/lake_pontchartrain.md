@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 30.18
 longitude: -90.1
+score: 6.3
 ---
 
 Lake Pontchartrain is a vast, shallow estuary — technically a lagoon connected to the Gulf of Mexico — that forms the entire northern boundary of New Orleans. It is about 40 miles across and the view from the lakefront in the Lakeview neighbourhood feels genuinely oceanic. The Lake Pontchartrain Causeway, which crosses it to the north, held the record for the longest bridge over water in the world for many years: 23.8 miles of twin spans.

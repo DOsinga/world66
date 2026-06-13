@@ -9,6 +9,7 @@ latitude: 53.6156
 longitude: -2.1594
 story: >
   Rochdale Town Hall was designed by William Henry Crossland, completed in 1871, and cost over £160,000 — an enormous sum for a market town of the time. The investment reflected the civic ambition of a generation of mill owners and councillors determined to express their town's wealth and self-belief in stone. The building has been called the finest Victorian Gothic civic building in England outside of London.
+score: 9.2
 ---
 
 Rochdale Town Hall is an extraordinary building for a town of its size — a full-scale Victorian Gothic statement in local stone, with a clock tower, ornate carvings, and an interior including a great hall with a hammerbeam roof and stained glass windows of extraordinary quality. It was completed in 1871 at the height of Rochdale's prosperity as a cotton and flannel manufacturing centre, and it was built to make a point: this town matters.

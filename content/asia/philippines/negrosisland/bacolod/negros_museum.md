@@ -11,6 +11,7 @@ tags:
 - museum
 title: Negros Museum
 type: poi
+score: 8.0
 ---
 
 The Negros Museum occupies a handsome building within the Provincial Capitol complex on Lacson Street. Exhibits trace life on Negros Island from pre-Spanish times through the sugar boom era, with collections of folk art, religious artifacts, and contemporary works by Negrense artists. The hacienda-era section is particularly interesting -- sugar shaped everything here, and the museum doesn't shy away from the darker side of that history.

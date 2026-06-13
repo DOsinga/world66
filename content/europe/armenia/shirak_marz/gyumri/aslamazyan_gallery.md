@@ -11,6 +11,7 @@ story: >
   The sisters Mariam (1907–2006) and Yeranuhi (1909–1994) Aslamazyan were born in Akn (now in Turkey) and spent much of their careers in Moscow and Leningrad,
   but always considered Gyumri their home. Their works hung in the Tretyakov Gallery in Moscow, yet Soviet critics periodically attacked them for being "too bright"
   and insufficiently socialist. The sisters outlasted every critic. Mariam died in 2006 at the age of 98, still painting.
+score: 7.9
 ---
 
 A dedicated gallery in a restored 19th-century tufa building near Vartanants Square, showing works by the two Aslamazyan sisters who became among Armenia's most celebrated painters. The collection spans several decades of work — oil paintings, ceramics, and works on paper — notable for their vivid colour and a folk-art warmth that set them apart from mainstream Soviet realism.

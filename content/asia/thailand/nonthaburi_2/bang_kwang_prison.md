@@ -8,6 +8,7 @@ latitude: 13.8467
 longitude: 100.4931
 story: >
   Bang Kwang is known as the "Bangkok Hilton" among foreign prisoners, a nickname that inspired the 1989 Australian TV miniseries of the same name. Death row prisoners were historically kept here in leg irons for the first months of imprisonment, a practice that continued into the 2000s. The prison has held numerous high-profile foreign nationals, and international prison reform organisations have repeatedly cited conditions here in their reports.
+score: 2.5
 ---
 
 Bang Kwang Central Prison sits on the Chao Phraya River in Nonthaburi, about 11 kilometres north of central Bangkok. It is a maximum-security facility holding death row inmates and long-term prisoners, and is known internationally — primarily for its severe conditions and for housing foreign nationals convicted of drug offences under Thailand's strict narcotics laws.

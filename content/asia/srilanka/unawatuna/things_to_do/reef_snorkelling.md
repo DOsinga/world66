@@ -7,6 +7,7 @@ tags:
   - water_sports
 latitude: 6.0185
 longitude: 80.2510
+score: 6.8
 ---
 
 The fringing reef that protects Unawatuna Bay also makes for decent snorkelling straight from the beach. The coral is not pristine — it was damaged by the 2004 tsunami and has recovered unevenly — but the fish life is good, and on a calm day with clear water you can see parrotfish, wrasse, surgeonfish, and lionfish within easy snorkelling distance of shore. Mask and snorkel sets are available for rent from several operators along the beach for a few hundred rupees.

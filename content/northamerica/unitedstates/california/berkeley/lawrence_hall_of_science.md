@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.8796
 longitude: -122.2467
+score: 7.8
 ---
 
 Perched in the hills above the UC campus, the Lawrence Hall of Science is both a hands-on science museum and the place to come for bay views that most tourists never find. Founded in 1968 to honour Ernest Lawrence — UC Berkeley's first Nobel laureate, who invented the cyclotron — it is aimed at families and school groups but engages adults just as well.

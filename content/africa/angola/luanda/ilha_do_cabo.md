@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -8.8200
 longitude: 13.2050
+score: 7.8
 ---
 
 The Ilha do Cabo (Cape Island, also called Ilha de Luanda) is the narrow sand peninsula that curls around Luanda's bay, connected to the mainland by a short bridge. It is Luanda's most popular leisure destination: a string of restaurants, beach bars, and seafood restaurants facing the bay on one side and the open Atlantic on the other.

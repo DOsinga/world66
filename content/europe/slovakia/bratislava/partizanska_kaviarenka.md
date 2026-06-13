@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, cafe, stare_mesto]
 latitude: 48.1460
 longitude: 17.1075
+score: 6.7
 ---
 
 Partizánska Kaviareň (Partisan Cafe) is a deliberately retro-styled cafe in the old town that leans into Bratislava's communist-era aesthetic with an affection that avoids kitsch. The decor draws on the design vocabulary of 1960s and 1970s Czechoslovakia — clean lines, muted colours, period typography — and the coffee is genuinely good.

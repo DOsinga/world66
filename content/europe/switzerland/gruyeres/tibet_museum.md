@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.5842
 longitude: 7.0826
+score: 6.8
 ---
 
 The Tibet Museum in Gruyères holds one of the most significant collections of Tibetan sacred art in Europe, assembled by Swiss collector Alain Bordier over several decades. The museum occupies a building adjacent to the HR Giger Museum, and the proximity of two such contrasting collections — one drawing on the dark inner cosmos of a Swiss surrealist, the other on the spiritual traditions of the Himalaya — is one of Gruyères' more unusual cultural conjunctions.

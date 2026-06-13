@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 54.0168
 longitude: 23.9700
+score: 5.2
 ---
 
 Kolonada is one of the most popular restaurants in Druskininkai, occupying a prime spot near the spa district. The menu leans into Lithuanian food — cepelinai (potato dumplings stuffed with meat and served with sour cream), chilled beet soup (šaltibarščiai), kugelis (potato pudding), and various pork dishes — with a few concessions to international visitors. The dining room has the slightly formal air of a resort restaurant without being stiff about it.

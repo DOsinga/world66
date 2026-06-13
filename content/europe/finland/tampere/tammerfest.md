@@ -7,6 +7,7 @@ tags:
   - music
 latitude: 61.4981
 longitude: 23.7608
+score: 6.7
 ---
 
 Tammerfest is Tampere's main outdoor music festival, held over four days in July in the city centre. Multiple stages host Finnish and some international acts across rock, pop, hip-hop, and electronic genres. The main stage is in the Central Square area, making it one of the few Finnish festivals that happens entirely within an urban centre rather than on a festival field outside town.

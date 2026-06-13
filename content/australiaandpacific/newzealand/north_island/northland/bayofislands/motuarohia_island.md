@@ -6,6 +6,7 @@ longitude: 174.1667
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 Motuarohia, also called Roberton Island, has the most photographed view in the bay — a short climb up the central ridge gives an aerial-style look down on two perfect blue lagoons separated by a thin spit of sand. Cruise boats stop here regularly for snorkelling and a short walk.

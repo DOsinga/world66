@@ -8,6 +8,7 @@ latitude: 47.1300
 longitude: 10.2100
 story: >
   In 2016 the Flexenbahn gondola was finally finished, linking the Lech/Zürs side of the Arlberg with the St. Anton side over the Flexen pass. For nearly a century the two valleys had been a single mental ski region but physically separate — skiers had to bus or drive between them. The new lift turned 88 individual lifts into the largest interconnected ski area in Austria, with a single ticket valid across the lot.
+score: 9.5
 ---
 
 Ski Arlberg is one of the great names in Alpine skiing — over 300 kilometres of marked piste, 200 kilometres of high-altitude ski routes through powder bowls, 88 lifts, and a vertical drop of nearly 1,500 metres. The terrain ranges from gentle nursery slopes at the bottom of each village to genuinely serious off-piste at the top of the Vallugagrat and the Madlochjoch.

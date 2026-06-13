@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: The handsome 1880 main station that was a Cold War border terminus
 story: "From 1945 until 1989 the line east of Hof Hauptbahnhof ended at the inner-German border. Trains to Plauen, Leipzig and Berlin simply did not run for the citizens of West Germany. The first East German train into Hof after the border opened on 11 November 1989 was met by crowds of weeping local people; the station became, briefly, a symbol of reunification."
+score: 6.8
 ---
 
 The handsome neo-Renaissance station building from 1880 sits a kilometre south of the old town. It is bigger than a city of Hof's size really needs because for much of the 20th century this was the terminus of a major route system — first as the main East–West junction for the Berlin–Munich line, then as the end of the line at a closed border.

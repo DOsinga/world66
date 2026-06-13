@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, cafe, vegetarian]
 latitude: 51.6810
 longitude: -9.4540
+score: 6.7
 ---
 
 A wholefoods shop on Glengarriff Road with a busy café attached, run by the Mazière sisters since the late 1990s. The food is largely vegetarian, mostly organic, and consistently good — soups, salads, hot tarts, baked things — and the bakery turns out the best sourdough in the town. The dinner menu is more ambitious, with wood-fired pizzas added in the evenings.

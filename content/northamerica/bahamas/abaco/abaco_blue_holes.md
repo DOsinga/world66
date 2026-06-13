@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 26.4100
 longitude: -77.1400
+score: 7.7
 ---
 
 The Great Abaco interior is riddled with blue holes — vertical shafts in the limestone bedrock that drop into flooded cave systems connected to the sea. They are among the most dramatic natural features of the Abacos and almost completely unknown to the average visitor.

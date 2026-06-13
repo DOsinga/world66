@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.2305
 longitude: 6.9916
+score: 8.2
 ---
 
 The Place of the Invisible Memorial (Platz des Unsichtbaren Mahnmals) is one of the most unusual Holocaust memorials in Europe. In 1993, artist Jochen Gerz secretly excavated 2,146 cobblestones from the square in front of Saarbrücken Castle, engraved the names of destroyed Jewish cemeteries in Germany on their undersides, and replaced them. The square looks perfectly normal — but every stone carries a hidden inscription.

@@ -15,6 +15,7 @@ story: >
   commissioned to celebrate the city's fishing heritage. The starting fish, a
   shark on Whitefriargate, is the most photographed; the smallest is barely
   the size of a postcard.
+score: 7.0
 ---
 
 The Seven Seas Fish Trail is one of Hull's quirkier ways of seeing the Old Town. Forty-one bronze fish, each a different species, are set into the pavements between Princes Quay and the River Hull, leading walkers past Hull Minster, the Land of Green Ginger, the Museums Quarter, and the Marina. A free leaflet — available from the Tourist Information point at the Maritime Museum — lists each species and where to find it.

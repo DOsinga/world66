@@ -8,6 +8,7 @@ latitude: 61.0220
 longitude: 24.4620
 story: >
   Aulanko was landscaped in the 1880s by Hugo Standertskjöld, a Finnish arms dealer who made his fortune in Russia and returned to Hämeenlinna to create a romantic English-style park on the promontory above the lake. He built towers, grottos, and bridges, planted exotic trees, and released swans on the lake. The Finnish government purchased the estate in 1926 and designated it a nature reserve — but the romantic landscape Standertskjöld created is still visible beneath the forest.
+score: 8.4
 ---
 
 Aulanko Nature Reserve is the finest natural area in the Hämeenlinna region — a forested promontory on Lake Vanajavesi, about four kilometres north of the city centre, where trails wind through old-growth forest, past a swan lake, and up to a granite observation tower with panoramic views across the Finnish lake district.

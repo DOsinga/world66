@@ -15,6 +15,7 @@ tags:
 - wildlife
 title: Buckskin Gulch Slot Canyon
 type: poi
+score: 9.4
 ---
 
 The main canyon traverse begins at Wire Pass Trailhead, where a short approach hike through a smaller slot leads to the junction with Buckskin Gulch. From there it's 12 miles to the confluence with the Paria River — 12 miles during which you never leave the narrows. The walls close in to two or three feet in places, and the canyon floor alternates between dry sand, ankle-deep mud, and wading pools of standing water that may persist year-round in the lower sections.

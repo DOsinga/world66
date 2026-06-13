@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 32.5000
 longitude: 90.0000
+score: 8.6
 ---
 
 The northern plateau around Nagqu holds some of the greatest concentrations of large mammals remaining in Asia. Nagqu prefecture falls within or borders the Chang Tang National Nature Reserve, one of the largest protected areas in the world, where Tibetan antelope (chiru), Tibetan gazelle, kiang (wild ass), Tibetan wild yak, and snow leopard all survive in populations that would have been considered remarkable even before the reserve's creation in 1993.

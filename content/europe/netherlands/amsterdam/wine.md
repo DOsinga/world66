@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Wine
 type: poi
+score: 3.0
 ---
 
 As I have experienced quite often, it is of certain advantage for the wine shops if a country or region does not have it's own wines: the result are "independent" wine shops that are not bound to local habits. Generally speaking that means they have a bigger choice of different wines from all over the world. So here in Amsterdam. You can find some shops with a remarkable choice and - as long as you're not from a typical wine area yourself - for a very decent price, too.

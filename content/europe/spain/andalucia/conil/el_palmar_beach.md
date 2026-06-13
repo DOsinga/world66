@@ -9,6 +9,7 @@ latitude: 36.2350
 longitude: -6.0650
 sources:
   - https://en.wikipedia.org/wiki/El_Palmar_de_Vejer
+score: 7.1
 ---
 
 El Palmar is a long, straight Atlantic beach about 8 km south of Conil, technically within the municipality of Vejer de la Frontera but in practice the closest surf beach for Conil visitors. The beach is exposed and faces the open Atlantic, with a consistent swell that varies from gently rolling in calm weather to genuinely powerful when Atlantic low-pressure systems roll in. Surf schools operate here in summer, and the beach is popular with both beginners working with instructors and experienced surfers.

@@ -8,6 +8,7 @@ latitude: 34.9161
 longitude: 33.6363
 sources:
   - https://en.wikipedia.org/wiki/Pierides_Museum
+score: 7.5
 ---
 
 The Pierides Museum occupies a 19th-century colonial house in the centre of Larnaca and holds one of the oldest private collections in Cyprus. The Pierides family began gathering antiquities in the 1830s, originally to rescue pieces being sold or destroyed as the island's archaeological heritage went unprotected. The collection now spans from the Chalcolithic period to medieval times, with particularly strong holdings in Bronze Age pottery and terracotta figurines.

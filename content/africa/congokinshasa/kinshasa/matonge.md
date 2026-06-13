@@ -7,6 +7,7 @@ tags:
 latitude: -4.339
 longitude: 15.3176
 snippet: Kinshasa's cultural heart, where live rumba and ndombolo pour from the bars every weekend night
+score: 8.9
 ---
 
 Matonge is where Kinshasa's famous music scene lives and breathes. Named -- unusually -- after the neighbourhood in Brussels where Congolese immigrants settled in the 1960s and 1970s, the original Matonge is a dense residential quarter that comes alive at night with live rumba, ndombolo, and the newer sounds that have grown from them. This is where musicians gather, where the best bands play, and where you can hear in person the music that gave Congo its biggest cultural export.

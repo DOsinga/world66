@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.5455
 longitude: -72.3385
+score: 6.2
 ---
 
 The main civic plaza of Port-au-Prince, a long park in front of the ruins of the national cathedral and flanked by the National Palace (severely damaged in 2010) and the MUPANAH museum. The plaza takes its name from the Champ de Mars in Paris and was the ceremonial heart of the Haitian capital from the 18th century onwards.

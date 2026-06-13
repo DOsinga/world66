@@ -8,6 +8,7 @@ tags:
   - religious
 latitude: 6.027222
 longitude: 80.217222
+score: 6.8
 ---
 
 All Saints' Church on Church Street is the Anglican church of the fort, a Gothic-revival building completed in 1871 by the British. Pale stone, a steeply pitched roof, pointed arch windows and a small bell turret — it could almost have been transplanted from a Hampshire village.

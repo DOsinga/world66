@@ -7,6 +7,7 @@ tags:
 latitude: 54.9974
 longitude: 82.8784
 snippet: One of Russia's best zoos, known for its snow leopard breeding programme
+score: 7.9
 ---
 
 The Novosibirsk Zoo is one of the largest and best-regarded zoos in Russia, occupying a forested site on the southwestern edge of the city. It has a serious scientific mission alongside the public attraction: the zoo is known internationally for its breeding programme for snow leopards and has successfully bred several generations of this endangered Central Asian big cat. It also keeps Siberian tigers, amur leopards, and a collection of Arctic animals that are impressive in the context of Siberia's own extreme climate.

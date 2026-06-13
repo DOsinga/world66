@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 12.3195
 longitude: 76.655
+score: 7.8
 ---
 
 St. Philomena's Cathedral is a neo-Gothic church built between 1933 and 1941 in a style that recalls Cologne Cathedral — twin spires, flying buttresses, pointed arches, and stained glass. At 54 metres high it is one of the tallest churches in India. It was built under the last Mysore maharaja, Jayachamarajendra Wadiyar, on the site of an earlier church built by Tipu Sultan's French advisors; the maharaja's family, though Hindu, maintained an established tradition of patronising Catholic institutions in the city.

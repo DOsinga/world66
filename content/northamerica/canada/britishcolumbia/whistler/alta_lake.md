@@ -14,6 +14,7 @@ story: >
   cabins still survive in a municipally managed preserve.
 sources:
   - https://en.wikipedia.org/wiki/Alta_Lake_(British_Columbia)
+score: 6.9
 ---
 
 Alta Lake is the longest of Whistler's five lakes, stretching about 4.5 kilometres through the valley floor. It's less busy than the areas immediately around the village and is popular for windsurfing, paddling, swimming, and quiet picnicking along its shores. The Valley Trail runs along the western edge, making it accessible by bike or on foot from the village.

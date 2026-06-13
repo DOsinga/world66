@@ -7,6 +7,7 @@ tags:
 latitude: 37.6520
 longitude: -7.5008
 snippet: "River beach on the Chança reservoir — a summer swimming spot in the middle of nowhere"
+score: 6.3
 ---
 
 A few kilometres south of the mine, the Chança river has been dammed into a reservoir and the old loading quay at Pomarão has become an unlikely summer beach destination. Praia do Peso is the main swimming area on this stretch — a broad sandy bank with calm brown water, backed by cork oaks and without a hotel or resort in sight.

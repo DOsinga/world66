@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - amsterdam_noord
+score: 7.9
 ---
 
 A street art museum in a vast former warehouse at the NDSM wharf in Amsterdam-Noord. The collection features over 150 large-scale works by artists from more than 30 countries, painted directly on the walls of the industrial space. The scale is immense — many pieces are several storeys high — and the quality is consistently impressive, ranging from photorealistic portraits to abstract murals to politically charged installations.

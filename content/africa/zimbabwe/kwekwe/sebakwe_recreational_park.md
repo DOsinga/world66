@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -18.7833
 longitude: 30.0
+score: 7.4
 ---
 
 About 50 kilometres east of Kwekwe, the Sebakwe Recreational Park surrounds Sebakwe Dam, one of Zimbabwe's larger inland water bodies. The park is unusually quiet compared with the country's more famous reserves: zebra, kudu, impala, giraffe, and the occasional sable wander the miombo woodland, and birdlife on the lake is excellent.

@@ -8,6 +8,7 @@ latitude: -33.7289
 longitude: 18.9518
 sources:
   - https://en.wikipedia.org/wiki/Paarl
+score: 6.2
 ---
 
 The Berg River Bird Sanctuary runs along the riverbanks north of the town centre and shelters over 130 bird species within its wetland and riparian habitats. The Malachite Kingfisher — small, jewel-bright, and improbably fast — is regularly spotted along the reed-fringed banks. African Fish Eagles circle overhead. Herons, egrets, and ducks complete a picture that feels far from a busy Winelands town.

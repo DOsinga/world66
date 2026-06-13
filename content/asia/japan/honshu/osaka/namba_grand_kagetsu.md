@@ -6,6 +6,7 @@ tags:
 - entertainment
 latitude: 34.6688
 longitude: 135.5007
+score: 8.1
 ---
 
 The flagship theatre of Yoshimoto Kogyo, the talent agency and entertainment company that has dominated Osaka's comedy scene since 1912. The Namba Grand Kagetsu — known locally as NGK — is a 1,000-seat theatre in the heart of Namba that runs several shows daily of manzai, a form of two-person stand-up comedy that originated in Osaka and remains the dominant form of Japanese television comedy.

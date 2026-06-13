@@ -6,6 +6,7 @@ tags:
   - winery
 latitude: 35.6279
 longitude: -120.6247
+score: 7.5
 ---
 
 Gary Eberle was one of the first to plant Syrah in California, doing so at his Estrella River Winery in 1974 before opening Eberle in 1982. The winery sits on the Eastside along Highway 46 and offers cave tours in addition to standard tastings — a maze of tunnels dug beneath the estate houses 16,000 barrels and a private dining room.

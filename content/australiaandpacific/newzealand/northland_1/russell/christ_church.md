@@ -12,6 +12,7 @@ story: >
   Waitangi — led an attack on the British garrison at Russell and famously
   chopped down the British flagpole on Flagstaff Hill for the first of four
   times. The church survived; the flagpole did not.
+score: 8.1
 ---
 
 Christ Church is New Zealand's oldest surviving church, built in 1836 in what was then the settlement of Kororareka. The small white timber building stands on a hill above The Strand, its exterior walls still marked by musket ball holes from the fighting of 1845 — the most vivid physical reminder of the colonial conflicts that shaped New Zealand's early history.

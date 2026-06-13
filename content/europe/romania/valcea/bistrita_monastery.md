@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.0400
 longitude: 24.0180
+score: 7.4
 ---
 
 Bistrița Monastery stands in a forested valley north of Râmnicu Vâlcea, founded in the 15th century by the Craiovești boyar family and rebuilt several times since. The current church is largely 18th century, though it incorporates medieval elements, and the setting — surrounded by beech forest with a stream running below — is among the most peaceful in the county.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1069
 longitude: 9.8280
 snippet: "La Spezia Centrale station: gateway to all five villages"
+score: 6.4
 ---
 
 La Spezia Centrale station is the most convenient starting point for visiting all five Cinque Terre villages — Riomaggiore (12 minutes), Manarola (16 minutes), Corniglia (21 minutes), Vernazza (25 minutes), and Monterosso (35 minutes). Regional trains run every 30 minutes or so, and the service is frequent enough to allow you to visit two or three villages in a day without rushing.

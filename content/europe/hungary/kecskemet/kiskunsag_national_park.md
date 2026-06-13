@@ -6,6 +6,7 @@ longitude: 19.6500
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Bugac district of Kiskunság National Park is the easiest way to experience the Hungarian Puszta from Kecskemét — about 35 kilometres south of the city, reachable by car in under an hour. The landscape is open, gently undulating grassland with sand dunes and stands of acacia, with shepherds' huts, traditional whip-cracking horsemen displays, and herds of grey cattle and curly-horned racka sheep grazing the plains.

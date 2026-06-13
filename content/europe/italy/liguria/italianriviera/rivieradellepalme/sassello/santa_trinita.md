@@ -12,6 +12,7 @@ story: >
   but they represent a genuine example of provincial Baroque painting at its
   most exuberant — vivid colours, dramatic perspectives, and an evident delight
   in the craft that more famous painters sometimes lose.
+score: 7.8
 ---
 
 The parish church of Santa Trinità, built in 1654, is the main church of Sassello and the finest of its buildings. The interior is decorated with frescoes by Bruschetto — a 17th-century local artist — which cover the vaulted ceiling and apse in elaborate Baroque compositions.

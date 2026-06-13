@@ -8,6 +8,7 @@ tags:
   - sight
   - basseterre
 neighbourhood: Basseterre
+score: 5.2
 ---
 
 A national stadium on the north side of Basseterre, hosting cricket and football matches and built up for the 2007 Cricket World Cup, when St. Kitts was a host venue. The complex includes a 10,000-seat cricket ground that has held One Day Internationals and Test matches between West Indies and visiting teams.

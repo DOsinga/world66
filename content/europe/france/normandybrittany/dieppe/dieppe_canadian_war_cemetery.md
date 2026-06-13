@@ -8,6 +8,7 @@ latitude: 49.89583
 longitude: 1.06778
 story: >
   The Dieppe Raid on 19 August 1942 was intended as a test of amphibious assault tactics, but it became a disaster. Of the roughly 6,100 troops who set out, fewer than 2,500 returned to England. Over 900 Canadians were killed in a single morning, and nearly 2,000 were taken prisoner — the largest single-day loss in Canadian military history to that point. Many historians argue that the hard lessons of Dieppe directly shaped the more successful D-Day landings two years later.
+score: 6.1
 ---
 
 The Dieppe Canadian War Cemetery lies in the village of Hautot-sur-Mer, about five kilometres south of Dieppe, on a hillside overlooking the valley. It holds the graves of 707 soldiers, most of them Canadian, killed during the Dieppe Raid of August 1942. The Commonwealth War Graves Commission maintains the cemetery; the headstones are the familiar Portland stone, arranged in neat rows on a closely mown lawn.

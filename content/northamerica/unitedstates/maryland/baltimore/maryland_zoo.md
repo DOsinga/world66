@@ -14,6 +14,7 @@ story: >
   in 1967, is one of the most successful in the Western Hemisphere and has helped
   develop techniques for maintaining African penguins in captivity that are now used
   by zoos worldwide.
+score: 6.4
 ---
 
 The Maryland Zoo in Druid Hill Park is one of the oldest zoos in the United States and has undergone significant renovation in recent decades. The African Journey section, which simulates a savanna environment, is the highlight — well-designed habitat for lions, giraffes, zebras, and other large African mammals. The penguin exhibit is also excellent.

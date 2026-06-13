@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 52.7718
 longitude: -108.2988
+score: 6.6
 ---
 
 The old Canadian Northern Railway station downtown is a substantial 1911 station house that once handled passenger trains running between Winnipeg and Edmonton on the line that brought settlers to the prairies. Passenger service ended decades ago, but the building has been preserved as a railway and community heritage site.

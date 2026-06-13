@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 43.4456
 longitude: -79.6669
+score: 5.4
 ---
 
 The Crossing is a wine bar and small plates restaurant in Old Oakville that operates as more of a bar in the evenings, with a well-chosen list of wines by the glass and a rotating selection of charcuterie and cheese boards. The room is narrow and candlelit, with exposed brick and a comfortable bar counter where solo drinkers settle in happily.

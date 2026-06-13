@@ -15,6 +15,7 @@ tags:
   - memorial
 title: Lynmouth Flood Memorial Garden
 type: poi
+score: 5.4
 ---
 
 A small garden and memorial on the Lynmouth seafront commemorating the flood disaster of August 1952, when a catastrophic flash flood swept through the village killing 34 people. The memorial stone and garden occupy a quiet corner near the harbour, and interpretive panels describe what happened — but the most affecting thing is simply looking at the low-lying buildings around the harbour and imagining the wall of water that came through them.

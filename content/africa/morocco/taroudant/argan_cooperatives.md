@@ -13,6 +13,7 @@ story: >
   of a UNESCO Biosphere Reserve, and the cooperatives here were among the first to
   be organised specifically to give Berber women economic independence and fair
   income from what had previously been informal labour.
+score: 7.4
 ---
 
 Several women's argan oil cooperatives operate in and around Taroudant, and visiting one is genuinely worthwhile — not just for buying oil, but for seeing how it's made. Workers crack the impossibly hard argan nuts by hand (a skill that takes months to learn), grind the kernels on stone mills, and knead the paste until golden oil emerges. The process is slow and labour-intensive, which is why good argan oil is expensive.

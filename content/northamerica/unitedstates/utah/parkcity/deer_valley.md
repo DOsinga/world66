@@ -8,6 +8,7 @@ latitude: 40.6373
 longitude: -111.4784
 story: >
   Deer Valley has a standing policy of limiting the number of skiers on the mountain each day — a unusual choice in an industry that typically maximises throughput. The result is famously uncrowded runs even on busy weekends, which goes some way toward explaining why it has won the Ski Magazine award for best resort in North America more times than any other mountain.
+score: 8.4
 ---
 
 Deer Valley Resort is Park City's premium alternative to Park City Mountain: smaller, more refined, and deliberately exclusive. It bans snowboarders, employs more ski patrol per acre than almost any resort in the country, and provides a level of service — ski valets, groomed corduroy runs, mountain hosts — that feels closer to a European luxury resort than a typical American ski hill.

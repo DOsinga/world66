@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.0
 ---
 
 The Cathédrale Notre-Dame-et-Saint-Castor of Nîmes was consecrated in 1096 and has been remodelled in nearly every century since. The Romanesque frieze along the west front, partially preserved, depicts Old Testament scenes; the rest of the facade is a 19th-century reconstruction in Romanesque style following damage during the Wars of Religion.

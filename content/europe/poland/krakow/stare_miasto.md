@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.0617
 longitude: 19.9372
+score: 9.8
 ---
 
 Krakow's Old Town (Stare Miasto) is the medieval city centre, enclosed within the Planty — a ring of parkland that replaced the city walls demolished in the 19th century. The area was spared the destruction that flattened Warsaw and much of Poland during the Second World War, which means the Old Town's streetscape of Gothic churches, Renaissance palaces, and Baroque townhouses is largely intact and genuine, not reconstructed.

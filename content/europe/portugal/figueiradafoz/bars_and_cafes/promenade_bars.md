@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.1492
 longitude: -8.8645
+score: 6.1
 ---
 
 The terrace bars along the promenade are where Figueira da Foz does its summer evenings. Beer, ginjinha, and cocktails arrive as the light drops; the crowd builds from around nine; the Atlantic is somewhere in the dark beyond the tables. In peak season — July and August — the better spots fill up and stay that way until late.

@@ -8,6 +8,7 @@ latitude: 36.5183
 longitude: -87.3467
 story: >
   Fort Defiance was built by Confederate forces in 1861 to defend Clarksville against Union gunboat attacks from the Cumberland River. Within months it was outflanked by Ulysses S. Grant's river campaign, and the Confederates abandoned the fort without a fight in February 1862. Union forces briefly renamed it Fort Bruce before Confederate guerrillas burned most of the town in 1862 — though the fort itself survived.
+score: 7.2
 ---
 
 Fort Defiance Civil War Park occupies the bluffs at the confluence of the Red River and the Cumberland River, where earthworks from the Civil War fortification still survive in the landscape. The site has been developed as an interpretive park with walking trails, reconstructed cannon positions, and panels explaining both the Confederate and Union phases of occupation.

@@ -7,6 +7,7 @@ tags:
   - theme_park
 latitude: 41.4788
 longitude: -82.6796
+score: 6.5
 ---
 
 The Midway Carousel is the oldest operating ride at Cedar Point — a 1912 Daniel Müller machine with 60 hand-carved jumping horses and four chariots, restored to original condition. Müller, who carved many of the horses in the [Merry-Go-Round Museum](/northamerica/unitedstates/ohio/sandusky/merry_go_round_museum), worked in Sandusky for much of his career.

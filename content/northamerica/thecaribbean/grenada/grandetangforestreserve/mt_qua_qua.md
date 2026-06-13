@@ -8,6 +8,7 @@ tags:
   - viewpoint
 latitude: 12.1056
 longitude: -61.7022
+score: 8.7
 ---
 
 Mt Qua Qua is the most rewarding moderate hike in Grand Etang — a 720-metre peak on the western edge of the crater that gives 360-degree views across the spine of Grenada to both coasts on a clear day. The trail starts opposite the visitor centre and climbs steadily through cloud forest, with the path turning to a clay ladder of exposed roots in the wetter sections.

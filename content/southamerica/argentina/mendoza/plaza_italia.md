@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: One of the four satellite plazas around Plaza Independencia, with weekend fair
+score: 5.9
 ---
 
 Plaza Italia is one of the four smaller plazas that surround the central Plaza Independencia, each two blocks out from the centre in its respective direction. The Italian community donated and designed it, and the result has a slightly more formal character than some of the others — stone paths, good shade trees, and a monument to Italian immigration that acknowledges the substantial Italian component of Argentine society.

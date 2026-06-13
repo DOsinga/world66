@@ -15,6 +15,7 @@ story: >
   the ancient world, it originally had 104 Corinthian columns 17 metres tall.
   Only 15 remain standing — a 16th was blown down in a storm in 1852 and still
   lies where it fell, its drums scattered on the ground like a toppled spine.
+score: 7.2
 ---
 
 The massive ruined temple south of the Acropolis was the largest in Greece and one of the greatest in the ancient world, occupying a site that had been considered sacred for centuries before the first column was raised. The 15 remaining columns, their capitals still carrying their heavy stone beams, give a sense of the original scale — each column stands 17 metres high, and the temple originally had 104 of them.

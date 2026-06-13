@@ -6,6 +6,7 @@ longitude: 124.8453
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Bay Walk is the name Koronadal locals give to the stretch of food stalls that comes alive every evening along one of the city's main streets. Around 25 barbecue vendors set up side by side, cooking over charcoal grills that send smoke drifting across the whole strip. Pork belly, chicken inasal, seafood skewers, and isaw (grilled chicken intestines) are the staples — order by the stick and eat standing up or at the plastic tables the vendors set out.

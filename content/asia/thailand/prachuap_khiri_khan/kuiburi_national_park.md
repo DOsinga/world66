@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 12.0700
 longitude: 99.6700
+score: 8.6
 ---
 
 About 60 kilometres north of Prachuap Khiri Khan town, Kuiburi National Park protects a stretch of hills and coastal lowland forest on the Burmese border. The park is best known for its wild elephants — one of the healthiest elephant populations in Thailand — which can often be seen at dusk near a salt lick and cleared grassland area accessible from the visitor centre. Gaur (wild cattle), banteng, and leopard also live within the park, though they are rarely spotted.

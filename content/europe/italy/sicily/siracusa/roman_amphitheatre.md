@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.07416666666667
 longitude: 15.27888888888889
+score: 7.0
 ---
 
 The Roman amphitheatre of Syracuse dates from the 3rd or 4th century AD and is one of the largest in Sicily, though substantially smaller than the Colosseum in Rome. The arena floor has been excavated to reveal the underground passages and chambers through which animals and gladiators entered — a vivid reminder of the practical mechanics of Roman spectacle. The surrounding retaining walls are intact to a considerable height.

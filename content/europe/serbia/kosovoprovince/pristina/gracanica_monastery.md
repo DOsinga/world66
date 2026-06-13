@@ -12,6 +12,7 @@ story: >
   the frescoes inside depict his family — including his young queen Simonida, who is shown with elongated
   fingers meant to express her spiritual refinement. She was twelve years old when she married the fifty-year-old
   king. The royal family portrait is one of the most psychologically complex images in Serbian medieval art.
+score: 8.8
 ---
 
 Gračanica Monastery, about 10km south of Pristina, is one of the finest examples of Byzantine architecture in the Balkans — and for many visitors the single most worthwhile day trip from the capital. Built in 1321 by the Serbian king Stefan Milutin, the monastery church is a masterpiece of the Serbian-Byzantine style, with its characteristic multiple domes rising in tiers above the cruciform plan.

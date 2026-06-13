@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.3806
 longitude: -8.7582
+score: 7.8
 ---
 
 The Ethnography and History Museum, housed in an 18th-century mansion just behind the Matriz Church, focuses on Póvoa's fishing past and the unusual maritime culture of the town. The collection includes scale models of the traditional *masseira* fishing boats, fishing nets and tackle, and a striking display of the *siglas poveiras* — the writing system of geometric marks the fishermen used to identify property and family lines.

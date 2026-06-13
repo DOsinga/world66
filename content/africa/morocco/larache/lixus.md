@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Amphitheater_of_Lixus
 story: >
   The ancients believed Lixus was the site of the Garden of the Hesperides — the mythical grove where golden apples grew at the edge of the world. Herodotus placed the garden here, beside the Loukkos River. Whether or not that legend holds any truth, Lixus does sit at the mouth of a great river on what was once the western edge of the known world.
+score: 8.9
 ---
 
 Five kilometres north of Larache on a hill above the Loukkos River, Lixus is one of the oldest continuously occupied sites in Morocco. Phoenician traders established a trading post here in the 8th or 7th century BC — before Carthage was founded — and the Romans later built a substantial city on top, including a mosaic-floored temple complex and an amphitheatre.

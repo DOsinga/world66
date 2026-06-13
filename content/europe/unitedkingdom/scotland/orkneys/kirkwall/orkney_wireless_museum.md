@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 58.9842
 longitude: -2.9601
+score: 6.9
 ---
 
 A cheerfully eccentric museum near the harbour documenting wireless communications from the earliest crystal sets to World War Two military radio. The collection was assembled by Jim MacDonald, a South Ronaldsay electrician, starting in 1983, and expanded after his death into a proper archive of domestic and military wireless equipment.

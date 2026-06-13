@@ -9,6 +9,7 @@ phone: "035 211556"
 tags:
 - bars_and_cafes
 - bar
+score: 5.1
 ---
 
 A large cafe right on the piazza in Bergamo's lower town, with tables spilling out into the square. Open daily from early morning, it does breakfast buffets, lunch, and an aperitivo spread in the evening. The upstairs dining room has a faded grandeur that suits longer meals. Nothing extraordinary, but a solid spot to sit and watch the piazza go by.

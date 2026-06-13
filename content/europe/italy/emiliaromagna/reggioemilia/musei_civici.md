@@ -8,6 +8,7 @@ latitude: 44.7002
 longitude: 10.6324
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_dei_Musei,_Reggio_Emilia
+score: 7.8
 ---
 
 The Musei Civici of Reggio Emilia are housed in the Palazzo dei Musei, a stately eighteenth-century building on Piazza Martiri del 7 Luglio just north of the opera house. The complex brings together several collections under one roof: natural history, archaeology, and the city's collections of medieval and early modern art. The archaeological section is particularly strong, covering the Roman and pre-Roman periods of the Po Valley.

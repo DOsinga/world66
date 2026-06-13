@@ -9,6 +9,7 @@ latitude: 52.9229
 longitude: -1.4764
 sources:
   - https://en.wikipedia.org/wiki/Derby_Guildhall
+score: 7.0
 ---
 
 The Derby Guildhall, completed in 1842 to designs by Henry Duesbury, is a handsome Italianate building facing the Market Place. Its arcaded ground floor, clock tower, and ordered stonework give the Market Place the gravity that many English town centres of similar size lack. The building functioned as the seat of local government for over a century and still hosts civic events.

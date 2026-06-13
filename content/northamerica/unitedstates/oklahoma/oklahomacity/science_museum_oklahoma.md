@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5232
 longitude: -97.4775
+score: 7.0
 ---
 
 A sprawling, hands-on science museum (formerly the Omniplex) in the Adventure District northeast of downtown, sharing a campus with the OKC Zoo and the Cowboy Museum. The exhibits are very much aimed at children and families — a tornado simulator, a Tesla coil show, the Mind Games illusion gallery, a planetarium, and a high-wire bicycle thirty feet off the ground that adults are also welcome to try.

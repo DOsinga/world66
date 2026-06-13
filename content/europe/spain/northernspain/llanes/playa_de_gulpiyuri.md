@@ -13,6 +13,7 @@ story: >
   definition but looks completely impossible from the surface. In 2001 it was declared a Natural Monument.
 sources:
   - https://en.wikipedia.org/wiki/Gulpiyuri_beach
+score: 7.9
 ---
 
 Gulpiyuri is one of the most unusual beaches in the world: a small enclosed beach, about 40 metres wide, that sits entirely inland in a grassy meadow with no visible connection to the sea. When the tide rises, water fills the bowl through an underground cave system in the limestone, creating a miniature beach surrounded by green fields and hedgerows. At low tide the sand lies exposed, the water retreats, and it looks like an inland pond. At high tide, it becomes a proper swimming beach, albeit a tiny one.

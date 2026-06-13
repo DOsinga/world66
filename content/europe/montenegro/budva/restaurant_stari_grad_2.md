@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 snippet: Long-established fish restaurant near the old town, popular with locals and visitors alike
+score: 5.9
 ---
 
 Galija has been operating near Budva's old town for decades and has a reputation for consistency that most tourist-facing restaurants on the Montenegrin coast fail to maintain. The menu is focused on Adriatic seafood: grilled fish by weight, seafood pasta, octopus stew, and shellfish from the Bay of Kotor. The fish is fresh and the kitchen doesn't overcomplicate it.

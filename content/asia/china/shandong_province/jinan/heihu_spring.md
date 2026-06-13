@@ -8,6 +8,7 @@ latitude: 36.6562
 longitude: 117.0117
 story: >
   The spring gets its name from the roaring sound the water makes as it rushes from the limestone into the pool — a deep resonant gurgling that early visitors interpreted as the voice of a black tiger. Three stone tiger heads channel the water, and the spring discharges at a rate that has historically been second only to Baotu Spring in Jinan's spring system. Local women come here in the early morning to fill water jugs, as they have for generations.
+score: 8.5
 ---
 
 Heihu Spring — Black Tiger Spring — is the second-most famous of Jinan's named springs and one of the most impressive for the sheer volume of water it discharges. Three stone tiger heads spout water into a wide pool, and the surrounding park along the old city moat has been developed into a pleasant canal-side walkway. The spring is at its most dramatic in rainy seasons when the water table is high.

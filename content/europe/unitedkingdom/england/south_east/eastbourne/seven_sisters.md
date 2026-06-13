@@ -10,6 +10,7 @@ tags:
 snippet: The undulating white chalk cliffs that continue west from Beachy Head toward Seaford
 sources:
   - https://en.wikipedia.org/wiki/Seven_Sisters,_East_Sussex
+score: 9.7
 ---
 
 The Seven Sisters are a series of chalk cliffs that extend west from Cuckmere Haven to Birling Gap, forming one of the most photographed stretches of coastline in England. Unlike Beachy Head, which is a single dramatic promontory, the Sisters are a sequence of undulating white chalk hills that dip to the cliff edge — each dip marking the mouth of an ancient dry valley. Walking the full stretch from Birling Gap to the Cuckmere estuary and back takes about four to five hours at a comfortable pace.

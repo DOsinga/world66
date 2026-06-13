@@ -5,6 +5,7 @@ tags: [things_to_do, historic, sight]
 latitude: 39.164166
 longitude: -119.766388
 story: "Nevada was admitted to the Union in 1864 — just eight days before the presidential election — in a rush to give Abraham Lincoln three more electoral votes. The Capitol was built the following year of locally quarried sandstone. The silver-painted dome (silver being Nevada's reason for existing) contains the original Senate and Assembly chambers, which are still in use today."
+score: 8.1
 ---
 
 The Nevada State Capitol is one of the more intimate state capitol buildings in the American West — a modest, well-proportioned sandstone structure built in 1871 that has avoided the fate of many 19th-century capitols (which were either demolished for larger replacements or expanded beyond recognition). The original chambers are still in use for legislative sessions, which means the building functions as a working government building rather than a museum, and that changes how it feels to walk through.

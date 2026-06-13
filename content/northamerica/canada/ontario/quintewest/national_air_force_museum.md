@@ -10,6 +10,7 @@ longitude: -77.5507
 story: "CFB Trenton serves as Canada's primary air transport hub and is the base from which the Snowbirds aerobatic team deploys. During the Afghanistan war, the base's runway at night became the somber return point for fallen Canadian soldiers — a ceremony the public called the Highway of Heroes."
 sources:
   - https://en.wikipedia.org/wiki/National_Air_Force_Museum_of_Canada
+score: 8.2
 ---
 
 The National Air Force Museum of Canada, located on the western edge of CFB Trenton, is the country's largest aviation museum dedicated to the history of the Royal Canadian Air Force. The main hangar holds a rotating collection of restored military aircraft spanning from World War I biplanes to Cold War jets. Outside, the Air Park displays larger aircraft — bombers, transports, and patrol planes — that can be walked around and photographed up close.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Isen Mulang Palace
 type: poi
+score: 4.3
 ---
 
 The Isen Mulang Palace (Istana Isen Mulang) is the official residence of the Governor of Central Kalimantan, sitting near the centre of Palangka Raya. The name comes from the provincial motto in Dayak Ngaju — roughly "never retreat" — and the building is used for official receptions and provincial ceremonies.

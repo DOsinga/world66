@@ -8,6 +8,7 @@ tags:
   - sight
   - kentron
 neighbourhood: Kentron
+score: 7.6
 ---
 
 The terraced sculpture garden at the foot of the Cascade, filled with works from the Cafesjian collection. The line-up includes Fernando Botero's plump *Cat* and *Roman Warrior*, Lynn Chadwick's hooded figures, Barry Flanagan's leaping hares, and Jaume Plensa's lit-from-within text figure. The bronze of architect Alexander Tamanian, hunched over his drawings, stands at the centre.

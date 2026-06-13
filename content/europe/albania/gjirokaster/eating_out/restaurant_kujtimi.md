@@ -1,6 +1,7 @@
 ---
 title: "Restaurant Kujtimi"
 type: poi
+score: 6.2
 ---
 
 One of the most reliably good restaurants in Gjirokastër, Kujtimi sits in the bazaar district in a stone building with a terrace looking over the cobbled streets. The menu is rooted in southern Albanian cooking: *tavë kosi* (lamb baked in yoghurt and eggs), *byrek* (flaky pastry filled with cheese or spinach), roasted lamb on the bone, and a rotating selection of oven dishes that vary with the season and whatever is available from local farms. The food is unpretentious and generously portioned.

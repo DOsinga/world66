@@ -8,6 +8,7 @@ latitude: 54.7200
 longitude: 17.3750
 story: >
   The moving dune advances at roughly 3 to 10 metres per year, pushed inland by Baltic winds. It has already buried and swallowed a nineteenth-century forest, and the dead trunks of pine trees can still be seen emerging from the sand on its eastern face — a forest slowly being exhumed as the dune moves on.
+score: 9.1
 ---
 
 The Łącka Dune in Słowiński National Park is one of the most striking natural phenomena in northern Europe: a massive wall of white sand, up to 42 metres high, that creeps steadily inland at the mercy of the wind. It has been moving since at least the seventeenth century, and in that time has buried forests, farmland, and the remains of the medieval village of Łącka.

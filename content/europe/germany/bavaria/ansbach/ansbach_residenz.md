@@ -11,6 +11,7 @@ story: >
   The Residenz holds one of the largest collections of Ansbach faience — tin-glazed earthenware produced locally from 1710. The distinctive blue-and-white pieces decorated 17 rooms and represent a complete court service of over 2,600 pieces, one of the best-preserved baroque faience sets in the world.
 sources:
   - https://en.wikipedia.org/wiki/Ansbach_Residence
+score: 9.0
 ---
 
 The Ansbach Residenz, formally known as the Markgrafenschloss, is the baroque palace of the Margraves of Brandenburg-Ansbach and the centrepiece of any visit to the town. Built primarily between 1705 and 1745 under Margrave Wilhelm Friedrich and his successors, the palace contains 27 richly decorated state rooms that demonstrate the full range of German baroque interior decoration — stucco ceilings, silk wall-coverings, tapestries, and an extraordinary collection of Ansbach faience porcelain.

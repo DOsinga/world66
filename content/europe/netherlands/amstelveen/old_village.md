@@ -4,6 +4,7 @@ type: poi
 latitude: 52.2944
 longitude: 4.8694
 tags: [things_to_do, sight]
+score: 7.4
 ---
 
 The original village of Amstelveen survives as a small enclave of historic buildings around the Amsterdamseweg, a few hundred metres south of the Stadshart. The seventeenth-century Oude Kerk (Old Church) with its squat brick tower is the centrepiece, surrounded by old farmhouses and small canals that hint at what the area looked like before postwar expansion.

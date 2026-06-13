@@ -15,6 +15,7 @@ story: >
   of pre-redevelopment Changsha. It opened in 2015 and within two years had
   queues running several hours long — a phenomenon that prompted as much local
   debate about authenticity and nostalgia as the food itself.
+score: 6.9
 ---
 
 Wen He You is the most famous restaurant in Changsha, a place that has achieved national celebrity through a combination of good food, theatrical atmosphere, and expert social media deployment. The Changsha original, near Pozi Street, is built inside a converted building whose interior has been fitted out as a recreation of 1980s Changsha street life: old shop signs, neon, hawker-stall furniture, and an atmosphere of deliberate nostalgia that works despite itself.

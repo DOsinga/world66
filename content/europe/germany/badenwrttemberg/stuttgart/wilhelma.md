@@ -17,6 +17,7 @@ story: >
   architecturally unusual zoos in the world.
 sources:
   - https://en.wikipedia.org/wiki/Wilhelma
+score: 8.4
 ---
 
 The Wilhelma is Germany's only combined zoological and botanical garden and one of Stuttgart's most popular attractions. The grounds, in the Bad Cannstatt district north of the center, were built in the 1840s as a private pleasure garden for King Wilhelm I of Württemberg in the Moorish style — a fashion for elaborately decorated "oriental" architecture that swept Romantic Europe in the mid-19th century.

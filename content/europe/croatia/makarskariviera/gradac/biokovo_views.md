@@ -7,6 +7,7 @@ tags:
 latitude: 43.3375
 longitude: 17.0519
 story: "The Biokovo massif reaches 1762 metres at its highest point, Sveti Jure, making it visible from the islands of Hvar and Brač on clear days. In spring the slopes above Gradac are covered with wild sage, which local people have harvested for centuries to make the strong herbal brandy known as travarica."
+score: 7.1
 ---
 
 The Biokovo mountain range rises almost directly behind Gradac, its grey limestone ridges climbing from the coast to over 1700 metres in a series of steep terraces. From the beach, the contrast between the flat blue sea and the craggy mountain wall is one of the most dramatic landscapes on the Dalmatian coast.

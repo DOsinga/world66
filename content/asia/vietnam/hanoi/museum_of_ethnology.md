@@ -13,6 +13,7 @@ tags:
 - museum
 title: Vietnam Museum of Ethnology
 type: poi
+score: 9.0
 ---
 
 The best museum in Hanoi, devoted to the 54 officially recognised ethnic groups of Vietnam. The main building holds excellent, well-translated exhibits on costume, tools, and ceremonies. The outdoor grounds are the highlight: full-scale reconstructions of traditional houses from across the country — Tay stilt-houses, Ede longhouses, a Hmong home — rebuilt by craftsmen from each community. About 8 km west of the centre; a taxi is the easiest way.

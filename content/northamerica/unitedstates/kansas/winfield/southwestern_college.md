@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.2494
 longitude: -96.9769
+score: 6.9
 ---
 
 Southwestern, founded in 1885 by Kansas Methodists, is a small liberal arts college of around 1,500 students on a green campus on the north edge of Winfield. The Mossman Administration Building, the campus's anchor, is a 1888 limestone landmark visible from blocks away.

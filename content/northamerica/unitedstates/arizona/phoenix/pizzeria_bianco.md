@@ -10,6 +10,7 @@ tags:
 title: Pizzeria Bianco
 type: poi
 url: pizzeriabianco.com
+score: 8.0
 ---
 
 Chris Bianco's downtown pizzeria is regularly named one of the best pizza restaurants in the United States, and despite the hype the food still lives up to the reputation. The Neapolitan-style pies come out of a wood-fired oven Bianco built himself, with house-made mozzarella, Bianco DiNapoli tomatoes from his California sister project, and toppings that change with what's local. The Rosa — red onion, rosemary, Parmigiano, and Arizona pistachios — is the signature.

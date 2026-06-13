@@ -9,6 +9,7 @@ latitude: -7.8500
 longitude: 39.7833
 story: >
   Studies of the marine park have found fish biomass six to ten times greater inside the protected area than outside — one of the most dramatic documented conservation successes on the East African coast. The blackspot snapper population alone showed biomass levels six to ten times higher than unprotected areas nearby. The diving is exceptional partly because the protection is working.
+score: 9.0
 ---
 
 Mafia Island Marine Park covers 822 square kilometres of reef, lagoon, and open water, and it protects what is generally considered the best diving on the Tanzanian coast. The reefs here have seen less pressure from divers than those around Zanzibar — a significant advantage for coral coverage and fish populations. Expect walls, coral gardens, and channels where current brings in pelagic fish; turtles are common, and the visibility can exceed 30 metres in the right season.

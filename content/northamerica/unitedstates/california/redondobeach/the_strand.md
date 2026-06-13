@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - cycling
+score: 8.4
 ---
 
 The Marvin Braude Bike Trail — universally known as the Strand — is the paved coastal path that runs from Redondo Beach Pier 22 miles north along the Pacific to Will Rogers State Beach in Pacific Palisades. The Redondo end is the southern terminus; from here the path crosses into Hermosa Beach, Manhattan Beach, El Segundo, Playa del Rey, Venice and Santa Monica.

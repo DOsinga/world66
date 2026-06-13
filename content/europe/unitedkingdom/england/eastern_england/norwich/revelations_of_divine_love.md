@@ -6,6 +6,7 @@ tags:
   - books
 latitude: 52.6196
 longitude: 1.2957
+score: 5.2
 ---
 
 Written in the late 14th century by the anchorite Julian of Norwich, this is the earliest surviving book written in English by a woman. Julian experienced a series of visions during a near-death illness in 1373 and spent the next twenty years in her cell at St Julian's Church working out their meaning. The result is a theological meditation on divine love that is also, unexpectedly, one of the most direct and accessible pieces of medieval prose.

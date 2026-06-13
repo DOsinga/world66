@@ -9,6 +9,7 @@ tags:
   - architecture
 latitude: 40.33917
 longitude: -74.67472
+score: 6.9
 ---
 
 Drumthwacket is an 1835 Greek Revival house on Stockton Street, set well back from the road behind a long lawn and a colonnaded front portico. The estate has been the official residence of the Governor of New Jersey since 1981, although most governors have continued to live in their own homes — Drumthwacket is used mostly for state functions and as a museum house.

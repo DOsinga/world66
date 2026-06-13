@@ -6,6 +6,7 @@ tags:
   - museum
 title: Family Museum
 type: poi
+score: 6.4
 ---
 
 The Family Museum is Bettendorf's standout visitor attraction — a hands-on children's museum at 2900 Learning Campus Drive that does its job exceptionally well. It is aimed at children eight and under, and the exhibits are genuinely interactive rather than look-but-don't-touch: kids can operate a crane, sort mail in a post office, work in a veterinarian's clinic, or splash around a 28-foot Mississippi River water table that replicates the geography of the Quad Cities stretch of the river.

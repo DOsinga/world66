@@ -13,6 +13,7 @@ story: >
   eastward toward the Pacific rather than south to China — a fact that makes the
   watershed ecologically unusual and helps explain the Manchurian forest character
   of the vegetation here.
+score: 8.4
 ---
 
 Onon-Balj National Park covers a broad stretch of boreal forest, river valley, and wetland in the northeastern corner of Khentii province, straddling the Onon and Balj rivers near the Russian border. The landscape is a sharp contrast to central Mongolia: instead of open steppe, you get birch and larch forest, boggy river flats thick with birdlife, and the feeling of being much farther north than you are.

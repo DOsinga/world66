@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.5961
 longitude: 76.4305
+score: 8.5
 ---
 
 The Kerala houseboat — the kettuvallam — was originally a rice barge: a long thatched-roof boat tied together with coir rope instead of nails, used to move rice from the polders to the coastal markets. From the 1990s the surplus boats were converted to floating hotels, and today several thousand of them work the backwaters of central Kerala.

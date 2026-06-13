@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - wine
+score: 6.4
 ---
 
 A serious wine bar in a narrow stone room off Kralja Tomislava, with around two hundred Croatian labels by the bottle and a rotating list of around thirty by the glass. The owner is happy to walk you through indigenous varieties — Pošip, Plavac Mali, Babić, Debit — with small plates of Pag cheese, Dalmatian pršut and anchovies on the side.

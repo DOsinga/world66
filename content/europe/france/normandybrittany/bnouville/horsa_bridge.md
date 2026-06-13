@@ -14,6 +14,7 @@ tags:
 - sight
 title: Horsa Bridge
 type: poi
+score: 6.8
 ---
 
 The second bridge seized by British gliderborne troops in the opening minutes of D-Day, spanning the Orne River a short walk east of Pegasus Bridge. While the canal bridge tends to get all the attention, Horsa Bridge was equally critical to the operation — holding both crossings prevented German armoured units from flanking the Allied beachhead from the east. Major John Howard's D Company took both bridges within minutes of landing, an achievement that military historians still regard as a model of the coup de main raid.

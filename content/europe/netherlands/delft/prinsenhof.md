@@ -12,6 +12,7 @@ story: >
   bullet holes are still visible in the wall, preserved behind glass. William's
   last words, according to tradition, were "Mon Dieu, ayez pitié de moi et de
   ce pauvre peuple" — My God, have pity on me and on this poor people.
+score: 8.5
 ---
 
 A former medieval monastery that served as the residence of William of Orange during the Dutch Revolt, and the place where he was assassinated in 1584. The building is now Delft's main museum, combining the story of William's life and death with exhibitions on Delft's Golden Age — Vermeer, Delftware pottery, and the city's role in the Dutch East India Company.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 5.8
 ---
 
 About 3 kilometres into the climb above Banganga, Charan Paduka is a small shrine built around stone markings said to be the footprints of the goddess. According to tradition, she paused here on her flight up the mountain to look back at the pursuing Bhairav Nath.

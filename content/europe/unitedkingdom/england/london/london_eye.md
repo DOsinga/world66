@@ -11,6 +11,7 @@ tags:
 title: London Eye
 type: poi
 url: www.londoneye.com
+score: 6.9
 ---
 
 The 135-metre observation wheel on the South Bank completes one rotation in about 30 minutes, rising high enough to see landmarks as far as Windsor Castle on a clear day. Each of the 32 glass capsules holds around 25 people and the ride is smooth enough to walk around comfortably. Book online in advance to save significantly on the walk-up price and to skip the queues, which can be substantial in summer.

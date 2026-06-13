@@ -11,6 +11,7 @@ tags:
 title: Parking Pizza
 type: poi
 url: www.parkingpizza.com
+score: 7.3
 ---
 
 The best pizza in Barcelona is made in a converted parking garage in the Eixample by an Italian-Catalan team using a wood-fired oven, good flour, and San Marzano tomatoes. The result is Neapolitan-style pizza with a light, blistered base and serious ingredients. The selection is not enormous, which is how it should be.

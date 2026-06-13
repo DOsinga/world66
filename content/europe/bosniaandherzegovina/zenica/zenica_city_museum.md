@@ -5,6 +5,7 @@ snippet: Regional museum covering archaeology, ethnography, and the steelworks e
 tags: [things_to_do, museum]
 latitude: 44.2031
 longitude: 17.9075
+score: 7.8
 ---
 
 The Muzej Grada Zenice covers the long arc of the area's past: Roman settlement at Bilino Polje, medieval Bosnian stećci tombstones, Ottoman crafts, and a striking section on the iron and steel works that defined the city through the 20th century. The presentation is old-school — wooden cases, hand-typed labels — but the collection is the best available for understanding what Zenica is.

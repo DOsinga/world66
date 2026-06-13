@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.8200
 longitude: 109.5500
+score: 7.7
 ---
 
 The terraced rice fields at Yahu, northeast of Wuzhishan city, are among the most photographed agricultural landscapes in Hainan. The terraces step down steep hillsides in irregular curves shaped by the contours of the land rather than by any imposed geometry, which gives them a natural quality that the more famous terraced fields in Yunnan and Guangxi sometimes lack.

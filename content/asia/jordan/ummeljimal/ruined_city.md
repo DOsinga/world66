@@ -10,6 +10,7 @@ story: >
   Unlike most ancient sites in Jordan, Umm el Jimal was never extensively excavated or cleared for tourism — it was simply abandoned and then rediscovered. This means the ruins retain their authentic disorder: fallen lintels, collapsed walls, and the accumulated detritus of centuries. In many places you can still see the beam slots where wooden roof structures once sat, and the grooves worn into basalt thresholds by generations of foot traffic.
 sources:
   - https://en.wikipedia.org/wiki/Umm_el-Jimal
+score: 8.8
 ---
 
 The ruined city of Umm el Jimal occupies about 80 hectares of the basalt plateau, comprising roughly 150 identifiable structures that range from a 1st-century Nabataean building to 7th-century Islamic structures abandoned when the city was finally left empty. The uniformly dark stone gives the entire site an unusually atmospheric quality — walking the streets on an overcast day, with the basalt walls rising to roof height on either side, it is not difficult to imagine the place inhabited.

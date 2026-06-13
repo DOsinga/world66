@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Fred Marquis Pinellas Trail follows the former route of the Orange Belt Railway, which ran from Sanford to St. Petersburg in the 1880s. When the rail line was abandoned, Pinellas County converted the corridor into a paved multi-use trail that now stretches 47 miles from Tarpon Springs to St. Petersburg, making it one of the longest urban trails in the southeastern United States.
+score: 6.2
 ---
 
 The Pinellas Trail passes through Clearwater on its 47-mile route from [Tarpon Springs](/northamerica/unitedstates/florida/tarpon_springs) in the north to St. Petersburg in the south. The paved path is flat, well-maintained, and popular with cyclists, joggers, and inline skaters. The Clearwater section runs through downtown and connects to several parks and neighborhoods along the way.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.005
 longitude: 42.750
+score: 8.2
 ---
 
 The coast around Assab is among the least-visited stretches of the Red Sea. The water is exceptionally clear, the beaches largely empty, and the surrounding terrain — flat, arid, and volcanic — has a severity that is striking rather than beautiful in any conventional sense. It is the kind of landscape that stays with you.

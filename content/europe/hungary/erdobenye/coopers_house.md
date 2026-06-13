@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Cooper's Dance of Erdőbénye, performed only here, mimics the rhythm of barrel-making — striking iron hoops onto wooden staves with hammers in syncopated patterns. It is passed down from father to son and has UNESCO recognition as an element of Hungary's intangible cultural heritage."
+score: 7.8
 ---
 
 Barrel-making (kádár) is the village's defining craft, bound up with the wine trade of the Tokaj region for centuries. The Erdőbénye coopers are the only craftspeople in the world who still perform the traditional Cooper's Dance — a stylised hammer-and-stave performance handed from father to son.

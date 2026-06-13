@@ -11,6 +11,7 @@ snippet: "Willamette Valley's most celebrated Pinot Noir sub-appellation, 15 min
 sources:
   - https://en.wikipedia.org/wiki/Eola-Amity_Hills_AVA
   - https://eolaamityhills.com/
+score: 6.8
 ---
 
 The Eola-Amity Hills AVA sits in the hills west of the Willamette River, a fifteen-minute drive from downtown Salem, and it produces some of Oregon's most serious Pinot Noir. The sub-appellation runs about fifteen miles north to south between the towns of Amity and Eola, with vineyards set at elevations between 250 and 700 feet. The key here is the Van Duzer Corridor — a gap in the Coast Range that funnels cool Pacific air into the valley each afternoon, slowing ripening and preserving the acidity that makes these wines age well.

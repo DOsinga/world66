@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kačić Square
 type: poi
+score: 6.7
 ---
 
 Kačić Square (Kačićev trg) is the social heart of Makarska, named after the 18th-century Franciscan poet Andrija Kačić Miošić, whose statue stands at its centre. The church of St Mark anchors the eastern side, baroque townhouses fill the others, and the surrounding cafés put out tables that essentially fill the open space in summer.

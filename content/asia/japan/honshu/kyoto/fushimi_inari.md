@@ -9,6 +9,7 @@ tags:
 - sight
 title: Fushimi Inari-taisha
 type: poi
+score: 9.6
 ---
 
 Fushimi Inari is the head shrine of Inari, the Shintō deity of rice, sake, and prosperity, and one of the most photographed places in Japan. The shrine sits at the foot of Mount Inari, south of Kyoto Station, and a network of orange *torii* gates — together known as the Senbon Torii ("thousand gates" but in practice closer to ten thousand) — winds up the mountain through cedar forest for about four kilometres.

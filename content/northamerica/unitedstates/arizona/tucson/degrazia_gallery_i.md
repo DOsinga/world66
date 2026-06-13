@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 story: "Ted DeGrazia built the whole compound himself out of adobe, saguaro ribs and cement between 1951 and his death in 1982. Reportedly fed up with the Internal Revenue Service taxing his original paintings as appreciable property, he is said to have once gathered up a hundred of his canvases, packed them onto mules, ridden them into the Superstition Mountains, and burned them all on a pyre."
+score: 6.8
 ---
 
 The DeGrazia Gallery in the Sun is a handmade adobe compound in the foothills of the Santa Catalina Mountains where the Arizona artist Ted DeGrazia lived, worked, and is buried. He was best known for his stylised paintings of Native American and Mexican children, reproduced on cards and posters worldwide.

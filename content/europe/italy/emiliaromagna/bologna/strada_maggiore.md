@@ -7,6 +7,7 @@ snippet: The grand medieval street running east from the Two Towers
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 Strada Maggiore is one of the seven streets that radiate from the Two Towers and the best surviving stretch of medieval Bologna. The unbroken porticoes on both sides give a covered walk for nearly a kilometre, past the Museo Davia Bargellini, the Casa Isolani (with its tilting wooden beams), Santa Maria dei Servi, and a string of patrician palazzi.

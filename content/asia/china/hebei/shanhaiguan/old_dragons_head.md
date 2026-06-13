@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: The wall here was destroyed by the **Eight-Nation Alliance** of foreign forces in 1900 during the **Boxer Rebellion**, and the present structure is a 1980s reconstruction faithful to the Ming originals. The original stone foundations — including the **Sea God Temple** at the tip — were preserved, and several Ming-era cannons stand in the courtyards behind the wall.
+score: 8.6
 ---
 
 **Old Dragon's Head** (*Laolongtou*) is the easternmost point of the Great Wall — the place where the long stone serpent reaches the sea and runs into the surf. The image of the dragon's head dipping into the **Bohai Sea** has been a defining symbol of China's defensive boundary for six centuries. The site is 5 km south of Shanhaiguan town, set on a low spit between the river mouth and the open sea.

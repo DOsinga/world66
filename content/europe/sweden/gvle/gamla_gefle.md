@@ -9,6 +9,7 @@ latitude: 60.6722
 longitude: 17.1400
 story: >
   The great fire of 1869 destroyed most of central Gävle in a matter of hours, sweeping through the densely packed wooden buildings of the city. The area south of the Gavleån river — Gamla Gefle — survived because the river acted as a firebreak. What makes this particularly fortunate is that most other Swedish coastal towns were rebuilt in brick after their own fires, erasing the wooden architecture entirely. Gävle's preserved quarter is therefore a rare survivor.
+score: 8.2
 ---
 
 Gamla Gefle is the old town district south of the Gavleån river, the only part of central Gävle to survive the catastrophic fire of 1869. It consists of a neighbourhood of low wooden houses from the 18th and early 19th centuries, painted in the traditional ochre, red, and white of Swedish vernacular architecture, set along narrow cobblestoned lanes that follow the original town plan.

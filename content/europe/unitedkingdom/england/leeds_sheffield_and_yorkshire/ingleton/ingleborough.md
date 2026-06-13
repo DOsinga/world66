@@ -15,6 +15,7 @@ story: >
   and on a clear day you can understand exactly why it was chosen.
 sources:
   - https://en.wikipedia.org/wiki/Ingleborough
+score: 8.6
 ---
 
 Ingleborough is the most distinctive of the Yorkshire Three Peaks — a flat-topped plateau at 723 metres that dominates the western Dales skyline for miles in every direction. From Ingleton, the ascent follows the steep western flank through limestone outcrops and upland grassland, gaining height quickly on clear ground. The approach from the village is the most direct route and takes around three to four hours return.

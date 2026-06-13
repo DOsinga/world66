@@ -7,6 +7,7 @@ tags:
 - sight
 title: Old Boots (Zapatos Viejos)
 type: poi
+score: 4.6
 ---
 
 The Old Boots sculpture — officially Zapatos Viejos — is a large bronze installation near the Cartagena waterfront depicting an oversized pair of worn shoes. It's one of those public artworks that divides opinion but has become a genuine landmark, well-known enough to serve as a meeting point and a backdrop for photographs.

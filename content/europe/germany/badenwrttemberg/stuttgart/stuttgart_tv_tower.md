@@ -17,6 +17,7 @@ story: >
   in Toronto and the Berlin TV Tower, is a descendant of this one.
 sources:
   - https://en.wikipedia.org/wiki/Stuttgart_TV_Tower
+score: 8.3
 ---
 
 The Stuttgart Fernsehturm opened in 1956 as the world's first reinforced concrete television tower, a prototype that was copied across Europe and beyond for the next half-century. The tower stands 217 meters tall on the Hoher Bopser hill south of the city center, with a viewing platform and restaurant at 150 meters giving panoramic views over Stuttgart, the Neckar valley, and on clear days, the peaks of the Swabian Alps to the southeast.

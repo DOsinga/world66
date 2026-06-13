@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 34.0144
 longitude: -117.0194
+score: 7.4
 ---
 
 Wildwood Canyon State Park sits in the foothills at the eastern edge of Yucaipa, a 850-acre slice of chaparral and oak savannah climbing up from the valley floor. The park is undeveloped by California standards — no visitor centre, no paved trails, just a small parking lot and a handful of fire roads that double as hiking routes.

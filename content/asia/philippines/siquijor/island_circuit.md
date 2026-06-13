@@ -11,6 +11,7 @@ story: >
   bioluminescent plankton visible in the sea around its shores on dark nights. Riding
   the circuit after sunset with the phosphorescent waves glowing in the darkness is
   one of those quietly astonishing Philippines experiences that costs nothing.
+score: 7.8
 ---
 
 The road around Siquijor island is approximately 70 kilometres, entirely paved, and takes 3 to 4 hours to complete without stops — or a full day if you stop at every waterfall, beach, and historic church along the way. Motorbikes are available for rent from guesthouses in San Juan and the capital for around 400–500 pesos per day; a full tank of fuel is sufficient for the circuit.

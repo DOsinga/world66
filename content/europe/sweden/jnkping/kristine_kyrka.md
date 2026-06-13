@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.7819
 longitude: 14.1792
+score: 6.7
 ---
 
 Kristine kyrka, Jönköping's oldest surviving church, dates to the 17th century and is the main church of the city centre. The current building was largely reconstructed in the 18th century after fires, but retains its historic character. The tower is a landmark visible from much of the city.

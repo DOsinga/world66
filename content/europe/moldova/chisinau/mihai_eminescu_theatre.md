@@ -6,6 +6,7 @@ tags:
   - theatre
 latitude: 47.0215
 longitude: 28.8360
+score: 6.8
 ---
 
 Moldova's flagship Romanian-language drama theatre operates from a tidy 1950s building south of the central park. Founded in 1921 in what was then Romanian Bessarabia, it has gone through occupation, repression, and renaming under Soviet rule but kept a continuous troupe — making it one of the longest-running theatres in the post-Soviet space.

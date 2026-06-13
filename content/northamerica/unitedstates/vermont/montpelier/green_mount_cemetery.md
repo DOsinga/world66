@@ -7,6 +7,7 @@ address: 250 State Street, Montpelier, VT
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 A 35-acre Victorian rural cemetery on the wooded slope west of downtown, laid out in 1854 in the picturesque style fashionable at the time. The drives wind around the contour, and the older sections hold a remarkable concentration of Vermont granite carving — much of it the work of the Italian and Scottish stonecutters who built nearby Barre.

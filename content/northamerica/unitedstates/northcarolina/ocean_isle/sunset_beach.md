@@ -10,6 +10,7 @@ story: >
   Sunset Beach was, until 2011, connected to the mainland by one of the last remaining single-lane pontoon swing bridges in the United States — a wooden drawbridge dating from 1958 that had to open for boat traffic, sometimes backing up cars for significant stretches. When it was finally replaced by a modern bridge, a preservation campaign saved the old bridge structure as a local landmark.
 sources:
   - https://en.wikipedia.org/wiki/Sunset_Beach,_North_Carolina
+score: 6.7
 ---
 
 Sunset Beach lies immediately west of Ocean Isle Beach, accessible in about 10 minutes by car. It shares the same barrier island geography — wide, undeveloped beach facing the Atlantic — but has a slightly different character: quieter even than Ocean Isle, with more year-round residents and less commercial development. The beach is known for its unusual tidal flats exposed at low tide, which attract shell collectors and waders.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 6.8
 ---
 
 Several Bagyéli (often called Pygmy) communities live in the forest along the upper Lobé River, a short pirogue ride inland from the falls. The Bagyéli are hunter-gatherers whose ancestors were here long before Bantu peoples reached the coast, and a handful of the villages now host visitors as a way of earning income outside the forest economy.

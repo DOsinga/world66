@@ -8,6 +8,7 @@ tags:
 title: Bishop Museum
 type: poi
 story: "The museum was founded in 1889 by Charles Reed Bishop as a memorial to his wife Princess Bernice Pauahi Bishop, the last direct descendant of Kamehameha I. Her entire collection of Hawaiian royal artifacts, feathered cloaks, koa furniture, and royal regalia was given to the museum at her death. It remains the most significant collection of Hawaiian royal objects in existence."
+score: 9.2
 ---
 
 The Bishop Museum is Hawaii's largest natural history and cultural history institution, containing over 25 million items and the most important collection of Hawaiian and Pacific material in the world. The Hawaiian Hall, a Victorian building with three floors of galleries, holds feathered royal capes, weapons, navigational instruments, and Kanak objects that have no parallel anywhere else.

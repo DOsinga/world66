@@ -8,6 +8,7 @@ tags:
 latitude: 37.9764
 longitude: 23.7236
 snippet: Lively flea-market neighbourhood with Roman ruins, kebab shops, and rooftop bars
+score: 7.6
 ---
 
 Monastiraki is where Athens feels most alive. The small square at its centre, overlooked by the stripped-down Tzistarakis Mosque (now a ceramics museum), is a permanent crossroads of backpackers, vendors, and locals. The flea market spreading through the surrounding streets is best on Sunday, when antiques, junk, and everything in between spill out across the pavements.

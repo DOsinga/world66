@@ -8,6 +8,7 @@ latitude: 21.4583
 longitude: 87.0275
 story: >
   The sea at Chandipur retreats up to five kilometres at low tide — one of the most dramatic tidal withdrawals anywhere in the world. Crabs, molluscs, and other creatures are left stranded in pools across the exposed red sand, and local children follow the retreating water's edge collecting shellfish. Then, in a matter of hours, the tide rushes back across the flat beach at what feels like alarming speed.
+score: 8.6
 ---
 
 Chandipur beach, about 16 kilometres from Balasore town, is one of the genuinely unusual beaches in India. At low tide the sea withdraws so far — up to five kilometres in some conditions — that the exposed sand flats stretch to the horizon and the water vanishes completely from view. The sand is reddish, the light is flat and coastal, and the effect is unlike any other beach experience in the country.

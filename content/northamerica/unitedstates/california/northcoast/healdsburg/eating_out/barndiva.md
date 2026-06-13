@@ -10,6 +10,7 @@ address: "231 Center Street, Healdsburg, CA 95448"
 snippet: Farm-to-table dining in a converted barn with a garden setting
 sources:
   - https://en.wikipedia.org/wiki/Barndiva
+score: 8.1
 ---
 
 The most celebrated restaurant in Healdsburg, and one of the better farm-to-table operations in all of Sonoma County. Barndiva operates out of a converted barn on Center Street — the interior is relaxed and warmly lit, and the garden patio in back is one of the nicest places to eat in Northern California on a summer evening.

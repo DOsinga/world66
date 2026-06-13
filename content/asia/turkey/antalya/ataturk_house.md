@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 36.88800
 longitude: 30.70600
+score: 5.7
 ---
 
 The house in Kaleiçi where Mustafa Kemal Atatürk stayed during his visits to Antalya has been preserved as a small museum. It is a typical Ottoman wooden house of the late 19th century, now containing furniture, photographs, and personal items associated with the founder of modern Turkey.

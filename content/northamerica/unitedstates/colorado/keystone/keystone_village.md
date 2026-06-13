@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.6052
 longitude: -105.9573
+score: 5.4
 ---
 
 Keystone Village is the original base area, dating from when the resort opened in 1970. It sits along the Snake River at the foot of the mountain, connected to the upper slopes by the Argentine and Montezuma lifts. The character here is more low-key than River Run: older buildings, a quieter plaza, and a slightly removed feel from the main lift infrastructure.

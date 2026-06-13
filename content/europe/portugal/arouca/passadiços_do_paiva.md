@@ -14,6 +14,7 @@ story: >
   previous year and runs through a municipality most international visitors had
   never heard of. The award put Arouca on the map and directly led to the
   construction of the 516 bridge alongside it.
+score: 9.1
 ---
 
 The Passadiços do Paiva is an 8.7-kilometre boardwalk trail that follows the Paiva River through a deep, forested gorge between Espiunca and Areinho. The trail winds through forest, crosses the river on suspension footbridges, and passes waterfalls and exposed rock formations. The river runs fast and clear; on warm days people swim in the pools. It is one of the best marked and best maintained trails in Portugal.

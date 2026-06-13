@@ -7,6 +7,7 @@ tags:
 snippet: "Craft brewery and beer garden in the old town"
 latitude: 47.99355
 longitude: 7.85360
+score: 7.0
 ---
 
 The Feierling is an organic microbrewery on Gerberau, the narrow street that follows the canal in the Insel quarter. They brew their own unfiltered Inselhopf and a rotating seasonal beer in the cellar; the food is solid pub fare with a few vegetarian options.

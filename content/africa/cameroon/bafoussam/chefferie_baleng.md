@@ -9,6 +9,7 @@ latitude: 5.5125
 longitude: 10.4113
 sources:
   - https://evendo.com/locations/cameroon/bafoussam/landmark/chefferie-baleng
+score: 7.2
 ---
 
 The Chefferie Baleng is one of three traditional chiefdom compounds within the greater Bafoussam area — along with Fusap and Bamougoum — each of which has preserved its own royal lineage and ceremonial structures despite the city's growth around them. The Baleng compound sits in the northern part of the urban area and operates as both a working chiefdom and a cultural museum, housing hand-carved wooden sculptures, traditional garments, and artefacts relating to local customs and ancestor veneration.

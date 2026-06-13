@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Grand Theatre
 type: poi
+score: 7.3
 ---
 
 A working professional theatre opened in 1901 with one of the last surviving original proscenium arches in Canada — Frederick Challener's painted allegory across the top of the stage is the building's signature feature. The main season runs September through May with a mix of contemporary Canadian work and classics; the smaller Auburn studio space upstairs handles edgier productions.

@@ -7,6 +7,7 @@ tags:
 - train
 title: TranzAlpine Train Journey
 type: poi
+score: 8.6
 ---
 
 The **TranzAlpine** is one of the great scenic rail journeys of the Southern Hemisphere, running daily between Christchurch and Greymouth across the Southern Alps. The 233-kilometre route takes about 4.5 hours each way, climbing from the flat Canterbury Plains through the Waimakariri River gorge, ascending to Arthur's Pass through beech forest and sub-alpine scrub, entering the 8.5-kilometre Otira Tunnel under the Main Divide, and descending through the rain forest of the West Coast to the Tasman Sea coast at Greymouth.

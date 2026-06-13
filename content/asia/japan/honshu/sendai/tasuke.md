@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.2619
 longitude: 140.8791
+score: 7.1
 ---
 
 Tasuke is widely regarded as the restaurant that made gyutan a Sendai institution. Founded in 1948 by Keishiro Sano, who devised the technique of salting and smoking beef tongue before grilling it over charcoal, it has spawned dozens of imitators throughout the city. The original branch near the station is still the reference point.

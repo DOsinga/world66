@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 16.8633
 longitude: -88.2669
+score: 6.4
 ---
 
 Hopkins village beach runs the length of the village — a long, gently curved stretch of brown sand edged by palms. It's not the white-sand Caribbean postcard picture, but the water is warm, calm, and clear enough to see your feet in the shallows. Local fishing boats are pulled up on the sand, nets spread to dry. Nobody is selling anything. It's a working beach and a village beach, and that's what makes it worth an afternoon.

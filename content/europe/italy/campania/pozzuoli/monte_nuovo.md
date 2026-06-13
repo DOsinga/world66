@@ -10,6 +10,7 @@ story: >
   Monte Nuovo grew from nothing to 133 metres high in a single week in September 1538 — the most recent volcanic eruption on the Italian mainland. Local inhabitants had been watching ground deformation and earthquakes for two years; when the eruption finally came, most had already fled. A party who returned to inspect the new mountain on the fourth day were caught by a sudden violent explosion and killed.
 sources:
   - https://en.wikipedia.org/wiki/Monte_Nuovo
+score: 7.7
 ---
 
 Monte Nuovo — "New Mountain" — is a cinder cone volcano just west of Pozzuoli that rose from the flat ground in a catastrophic eruption in September 1538, the most recent volcanic eruption on the Italian mainland. In a week of intense activity, ash, pumice, and lava built a cone 133 metres high and 870 metres in diameter. The eruption destroyed the village of Tripergole and the ancient hot springs associated with it, and permanently changed the local coastline.

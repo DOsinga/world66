@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Dera_Ismail_Khan
 story: >
   The Bagai Mahal, once the grandest private mansion in D.I. Khan, stood near the bazaars until it was demolished — it was a late 19th-century architectural landmark with elaborate carved woodwork and arched galleries, a reminder that this city once had considerable mercantile wealth. The lacquered woodwork still sold in the bazaar carries on the same craft tradition.
+score: 7.3
 ---
 
 The old bazaars of D.I. Khan are the commercial heart of the city and the best reason to wander on foot. Four main bazaars — Topanwala, Bhatiya, Muslim, and Kalan — converge at the Chowaglla intersection, forming a dense network of covered streets and open-air stalls that has served traders between the Punjab plains and the mountain frontier for centuries.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 60.6094
 longitude: 6.3573
+score: 6.7
 ---
 
 Vangsvatnet is the long, deep lake that gives Voss its setting — the town strung along its northeastern shore, mountains rising sharply on both sides. From the water the place looks more dramatic than from the streets, and a stroll along the lakefront promenade in front of the Fleischer's Hotel is the easiest way to take the town in.

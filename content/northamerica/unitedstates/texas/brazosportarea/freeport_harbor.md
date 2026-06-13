@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.9541
 longitude: -95.3597
+score: 6.8
 ---
 
 Freeport's working harbor is one of the busiest small ports on the Texas Gulf Coast, home to a commercial shrimping fleet, charter fishing boats, and a steady traffic of industrial vessels serving the petrochemical plants that line the coast. It is not polished or touristy, which gives it a genuine character missing from the more developed beach towns further up the coast.

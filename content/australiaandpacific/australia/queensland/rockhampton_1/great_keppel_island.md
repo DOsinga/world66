@@ -9,6 +9,7 @@ longitude: 150.940
 sources:
   - https://en.wikipedia.org/wiki/Great_Keppel_Island
 story: "Great Keppel has 17 beaches on an island of just 14 square kilometres — more beaches per square kilometre than almost anywhere else in Queensland. Most of them see very few visitors on any given day outside peak school holiday periods."
+score: 8.0
 ---
 
 Great Keppel Island lies about 15 kilometres offshore from Rosslyn Bay, which is itself about 45 minutes from Rockhampton by car. Ferries run from Rosslyn Bay Marina several times a day, making the island a practical day trip or overnight stop. The island has 17 beaches, clear water with good snorkelling over fringing coral reefs, and walking tracks through the national park interior.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -6.143
 longitude: 12.375
+score: 6.3
 ---
 
 The Kwanda Offshore Supply Base is the operational heart of Angola's offshore oil industry and defines much of Soyo's character. The base supports the deep-water oil platforms operated by major international companies in the Congo Basin. While you cannot enter the facility, its presence is visible across the waterfront — the supply vessels, helicopters overhead, and constant movement of personnel and equipment give Soyo its distinctly industrial feel.

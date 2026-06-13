@@ -15,6 +15,7 @@ story: >
   rather than a purely historical collection.
 sources:
   - https://en.wikipedia.org/wiki/West_Kalimantan_Provincial_Museum
+score: 7.4
 ---
 
 The West Kalimantan Provincial Museum (Museum Provinsi Kalimantan Barat) sits near Tanjungpura University on Jalan Jenderal Ahmad Yani, about 5 km south of the city centre. It is the main repository for the cultural heritage of the province and covers the full range of West Kalimantan's remarkable ethnic diversity: Dayak, Malay, Chinese, and Dutch colonial objects all under one roof.

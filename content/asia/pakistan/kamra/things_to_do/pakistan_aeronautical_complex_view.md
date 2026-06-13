@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8695
 longitude: 72.4017
+score: 5.8
 ---
 
 The Pakistan Aeronautical Complex (PAC) is the reason Kamra exists in its current form — a large military aviation facility that manufactures, assembles, and overhauls aircraft for the Pakistan Air Force. You cannot enter the complex, and photography in its vicinity is strongly discouraged. What you can observe from the public road is the scale of the operation: it covers a substantial area on the northern edge of town and the sound of aircraft is a constant backdrop.

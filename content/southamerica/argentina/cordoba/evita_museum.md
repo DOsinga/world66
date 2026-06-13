@@ -8,6 +8,7 @@ tags:
 latitude: 31.4267
 longitude: -64.1847
 neighbourhood: Nueva Córdoba
+score: 7.8
 ---
 
 A small but rewarding fine arts museum housed in the early 20th-century Palacio Ferreyra, a French academic mansion on the edge of Sarmiento Park. The building was the family home of one of Córdoba's wealthy industrial dynasties and was bought by the province in 2006 to house the collection.

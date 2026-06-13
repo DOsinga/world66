@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market]
 latitude: 16.6162
 longitude: -11.4002
+score: 7.4
 ---
 
 The Kiffa market is the commercial heart of the Assaba region, drawing traders and buyers from the surrounding desert and Sahel for hundreds of kilometres. It is a proper working market rather than a tourist attraction, with sections for livestock, grain, cloth, household goods, and the Kiffa beads for which the town is famous beyond Mauritania.

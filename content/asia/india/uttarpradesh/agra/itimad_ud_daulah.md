@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Often called the 'Baby Taj', this is the older Taj — it was completed in 1628, four years before Shah Jahan even began the Taj Mahal. The dense inlay work and the use of white marble on a Mughal tomb were tried here first; the Taj is in many ways its grander descendant."
+score: 8.7
 ---
 
 This small jewel of a tomb sits on the eastern bank of the Yamuna, two kilometres upstream from the Taj. It was built between 1622 and 1628 by Empress Nur Jahan for her father Mirza Ghiyas Beg, a Persian noble whom Jahangir had made his chief minister and given the title I'timad-ud-Daulah ("Pillar of the State").

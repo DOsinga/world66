@@ -9,6 +9,7 @@ tags:
 - historic_site
 - memorial
 story: The memorial stands on the site of a mass grave from the 1937 massacre. During construction, workers unearthed bones that are now displayed behind glass in the entry corridor — you walk past them on the way in. The final count of victims remains contested between China and Japan, but the evidence of mass killing is unambiguous and displayed in harrowing detail.
+score: 8.5
 ---
 
 The Nanjing Massacre Memorial Hall (侵华日军南京大屠杀遇难同胞纪念馆) documents the killings carried out by Japanese Imperial Army troops after they captured Nanjing in December 1937. The death toll is estimated at 200,000-300,000 people. It is one of China's most visited memorial sites and one of its most sobering.

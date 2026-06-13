@@ -10,6 +10,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Ali_Pasha_Mosque_(Sarajevo)
+score: 7.6
 ---
 
 The Ali Pasha Mosque (Ali-pašina džamija) is a 16th-century Ottoman mosque in the Centar neighbourhood, away from the tourist density of Baščaršija. Built in 1561 during the reign of Suleiman the Magnificent, it is one of the earliest surviving Ottoman mosques in Bosnia and reflects the classical Ottoman style in its proportions and decoration — a single dome, a portico, and a minaret.

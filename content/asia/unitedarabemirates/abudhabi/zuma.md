@@ -10,6 +10,7 @@ tags:
 neighbourhood: Al Maryah Island
 latitude: 24.5024
 longitude: 54.3877
+score: 6.4
 ---
 
 The Abu Dhabi branch of the global izakaya-style Japanese restaurant, on the Galleria waterfront. Robata grill, sushi counter, and a separate bar that fills up after work. The cooking is consistent across all Zuma locations, which is to say accomplished and overpriced.

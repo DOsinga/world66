@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.1022
 longitude: -80.6533
+score: 6.6
 ---
 
 Powers Auditorium is a handsome early 20th-century concert hall on West Federal Street in downtown Youngstown, home to the Youngstown Symphony Orchestra and various other performing arts events. The building dates from 1931 and has been restored to good condition; the interior retains its original plasterwork and theatrical lighting.

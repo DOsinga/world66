@@ -14,6 +14,7 @@ story: >
   of the lakes are still being filled; others are already the size of
   small inland seas, with beaches, marinas, and ferry connections
   between them.
+score: 7.4
 ---
 
 The Lausitzer Seenland (Lusatian Lake District) is a chain of 23 lakes created from former open-pit lignite mines, stretching northeast of Hoyerswerda into Brandenburg. The project is still ongoing — some lakes are only partially filled — but several are already well-developed recreational destinations with beaches, campsites, sailing clubs, and cycle paths along the shore.

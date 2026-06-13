@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4275
 longitude: 20.6753
+score: 7.6
 ---
 
 Anogi is a half-deserted hill village in the centre of Ithaca, at around 500 metres above sea level, sitting amid a strange landscape of huge limestone boulders called *menhirs* by the locals. The largest, the **Araklis** ("Hercules") rock, stands several metres tall and looks like a deliberate monument — though it is simply a piece of weathered karst.

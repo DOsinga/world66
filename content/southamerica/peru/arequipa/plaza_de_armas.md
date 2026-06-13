@@ -9,6 +9,7 @@ tags:
 - centro_historico
 title: Plaza de Armas
 type: poi
+score: 8.8
 ---
 
 Arequipa's Plaza de Armas is among the finest colonial squares in South America. The entire north side is taken up by the Basilica Cathedral, a single immense white facade with twin bell towers and a fountain in front. The other three sides have continuous two-storey arcades — *los portales* — with restaurants, cafes, and balconies that look out over a manicured central garden with palm trees and a bronze fountain topped by a sixteenth-century *tuturutu* trumpeter.

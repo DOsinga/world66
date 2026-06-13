@@ -10,6 +10,7 @@ story: >
   The monastery was consecrated by the 14th Dalai Lama himself during a visit to Kalimpong — a rare honour for an institution outside Tibet. The wall paintings inside are in the traditional Tibetan style, executed by artists brought specifically from Tibet, and depict the complete cosmological universe of Tibetan Buddhism in intricate detail.
 sources:
   - https://en.wikipedia.org/wiki/Zang_Dhok_Palri_Phodang
+score: 8.4
 ---
 
 The Zong Dog Palri Fo-Brang Gompa sits on Durpin Hill at the southern end of town, built in the mid-1970s to a traditional Tibetan design. It is the newest of Kalimpong's main monasteries but arguably the most spectacular in terms of setting and interior decoration. The Dalai Lama consecrated the temple, and it belongs to the Nyingma school, the oldest of the four main schools of Tibetan Buddhism.

@@ -10,6 +10,7 @@ latitude: 13.0644
 longitude: -59.5444
 sources:
   - https://en.wikipedia.org/wiki/Oistins
+score: 8.5
 ---
 
 Every Friday and Saturday evening the working fish market at Oistins transforms into one of the Caribbean's best-known street food gatherings. Stalls line the waterfront selling freshly caught mahi-mahi, snapper, and — the Bajan staple — flying fish, served with macaroni pie, rice, coleslaw, and fried plantain. You buy your fish from whichever stall appeals, take it to a communal bench, and eat while sound systems thump soca and reggae from every direction.

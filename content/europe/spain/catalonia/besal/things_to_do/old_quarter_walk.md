@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 42.1996
 longitude: 2.6978
+score: 8.2
 ---
 
 Once you've crossed the bridge, the old quarter rewards a slow wander. The **Plaça de la Llibertat** is the main square — the social and commercial heart of the town, surrounded by arcaded buildings and a good place to get your bearings. From there, everything is within a few minutes' walk.

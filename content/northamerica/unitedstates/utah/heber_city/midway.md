@@ -8,6 +8,7 @@ latitude: 40.5119
 longitude: -111.4700
 story: >
   The geothermal craters in Midway were formed by hot springs that have been depositing calcium carbonate for thousands of years, building up travertine mounds up to 55 feet high. The largest, the Homestead Crater, is warm enough to swim in year-round — around 90°F — and deep enough to scuba dive. It is one of the only places in Utah where you can dive indoors, inside a rock dome, in naturally heated water.
+score: 7.8
 ---
 
 Midway, five miles west of Heber City, is a Swiss-themed town — the resemblance to Alpine Europe inspired 19th-century Swiss immigrants to settle here — and today it is home to a cluster of resorts, a golf course, and the Homestead Crater, a geothermal spring encased in a natural travertine dome. The crater can be visited for swimming and, uniquely, scuba diving through a hatch in the dome wall.

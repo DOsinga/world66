@@ -7,6 +7,7 @@ tags:
 snippet: Swim with bottlenose dolphins in open Caribbean water, not a tank
 latitude: 18.6500
 longitude: -68.4250
+score: 3.2
 ---
 
 Dolphin Island Park offers structured encounters with bottlenose dolphins in a lagoon environment on the Bávaro coast. The key difference from many dolphin programs is that this one operates in open water rather than a pool — the dolphins are contained by a lagoon rather than concrete walls, and the swims take place in natural seawater.

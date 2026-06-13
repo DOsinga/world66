@@ -9,6 +9,7 @@ tags:
   - nature
 story: >
   Portage Glacier was, for a long time, the most-visited single attraction in Alaska — the easy roadside glacier on the way south from Anchorage. Then the glacier kept retreating. By the 2000s it had pulled back around the corner from the visitor centre and was no longer visible from the building, much to the embarrassment of the rangers. The boat trip is now the standard way to actually see it.
+score: 8.5
 ---
 
 Portage Glacier sits at the head of Portage Lake, about 15 km southeast of Girdwood along the Seward Highway. The Begich, Boggs Visitor Center on the lake shore — a striking modernist building with a green-shingled roof — has excellent interpretive displays on glaciers, the 1964 earthquake, and the ecology of the Chugach National Forest. The Forest Service-run *Ptarmigan* tour boat sails six times daily in summer right up to the glacier face.

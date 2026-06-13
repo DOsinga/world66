@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 47.2530
 longitude: 16.9330
+score: 6.9
 ---
 
 The arboretum runs along the banks of the Gyöngyös brook alongside the castle, and contains several hundred tree species and varieties collected over more than two centuries. The star specimens are a 36-metre pyramid oak — one of the tallest in Hungary — and several English oaks believed to be over 400 years old, planted when the Nádasdy family was at the height of its power. In autumn the colour along the brook is exceptional.

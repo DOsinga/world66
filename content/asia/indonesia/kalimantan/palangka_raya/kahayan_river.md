@@ -9,6 +9,7 @@ tags:
 - river
 title: Kahayan River
 type: poi
+score: 7.0
 ---
 
 The Kahayan flows past the eastern edge of Palangka Raya and is the city's reason for being. A short klotok trip upstream gives you the city from the water — the orange Kahayan Bridge, the floating houses on the far bank, and after an hour or so the Dayak villages where life still revolves around the river.

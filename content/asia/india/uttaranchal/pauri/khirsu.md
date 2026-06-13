@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.1200
 longitude: 78.7100
+score: 7.3
 ---
 
 Khirsu is a small hill station about 19 km from Pauri, quieter and less developed than Pauri itself. It sits at around 1700 metres in a landscape of apple orchards, oak forests, and meadows, with the same long views of the Himalayan peaks that make this part of Garhwal compelling. The Uttarakhand Tourism bungalow here is a good base if you want to be away from Pauri's administrative bustle.

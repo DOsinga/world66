@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 39.7281
 longitude: -121.8371
+score: 6.8
 ---
 
 The Chico Museum, at 141 Salem Street in the old Carnegie Library building downtown, covers the history of Chico and the surrounding region from the indigenous Mechoopda Maidu people through the ranching and farming history of the Sacramento Valley. The building itself — a handsome 1904 Carnegie-funded library — is worth a look.

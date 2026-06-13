@@ -8,6 +8,7 @@ latitude: 47.1632
 longitude: 27.5848
 sources:
   - https://en.wikipedia.org/wiki/Ia%C8%99i_National_Theatre
+score: 7.9
 ---
 
 The Iași National Theatre — formally the Vasile Alecsandri National Theatre, named for the Romanian playwright and poet born in the city — is the oldest national theatre in Romania, founded in 1840. The current building dates from the late 19th century and is a handsome Neo-Baroque structure on the main boulevard, next to the Romanian National Opera. Together the two buildings form the cultural centrepiece of the city.

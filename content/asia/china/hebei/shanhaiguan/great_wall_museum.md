@@ -8,6 +8,7 @@ snippet: Comprehensive museum of Great Wall history and construction, inside the
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The **Great Wall Museum** (*Changcheng Bowuguan*) is the country's most thorough museum dedicated to the history of the wall. Located inside the old town a few hundred metres south of the First Pass, it occupies a series of low Ming-style courtyard halls and runs visitors through the wall's history from the Warring States period (5th century BC) through the great Ming reconstruction and into the modern conservation era.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Corktown
 title: Mudgie's Deli
 type: poi
+score: 6.9
 ---
 
 Mudgie's is a Corktown deli with a long printed sandwich list, a strong beer selection, and an oddly relaxed atmosphere for a place that is usually packed. The standout is anything with house-made roast beef. The patio in summer is among the most pleasant outdoor seating in the city. They also do soups and a passable salad list for the rare sandwich-skeptic.

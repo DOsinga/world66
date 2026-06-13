@@ -14,6 +14,7 @@ story: >
   Charles IV authorised the demolition in exchange for trade privileges.
   The beautiful square was built on a crime that the city acknowledges today
   with a plaque near the Frauenkirche.
+score: 7.0
 ---
 
 The Hauptmarkt is the main square of Nuremberg's old city — a broad open space ringed by the Gothic Frauenkirche, the Schöner Brunnen fountain, and the city hall. On ordinary days it serves as a farmers' market; in December it becomes Germany's most famous Christmas market, the Christkindlmarkt, with stalls selling Lebkuchen, Glühwein, and handmade ornaments from an early 16th-century tradition.

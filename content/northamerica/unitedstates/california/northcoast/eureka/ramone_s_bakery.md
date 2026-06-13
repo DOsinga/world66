@@ -9,6 +9,7 @@ tags:
 - cafe
 title: Ramone's Bakery
 type: poi
+score: 5.9
 ---
 
 Ramone's Bakery is a Eureka institution with several locations, the most convenient being on F Street in Old Town. The bakery produces good bread, pastries, and breakfast items; the attached cafe serves sandwiches and soups at lunch. It is the kind of place that a city of Eureka's size is lucky to have — genuinely good baking, consistent quality, reasonable prices.

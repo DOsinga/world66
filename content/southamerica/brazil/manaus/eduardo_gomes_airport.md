@@ -6,6 +6,7 @@ tags:
 - getting_around
 latitude: -3.0386
 longitude: -60.0497
+score: 3.7
 ---
 
 Eduardo Gomes International Airport (MAO) is the main gateway to Manaus and the entire western Amazon. Direct flights connect it to major Brazilian cities — São Paulo, Rio, Brasília, Belém, Recife — and seasonal international services to Panama City, Bogotá and occasionally Miami and Lisbon. Local airlines also fly small regional routes to towns up and down the river.

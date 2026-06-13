@@ -10,6 +10,7 @@ latitude: 8.7867
 longitude: -82.9580
 sources:
   - https://en.wikipedia.org/wiki/Wilson_Botanical_Garden
+score: 8.7
 ---
 
 Six kilometres south of San Vito, the Wilson Botanical Gardens are one of the finest botanical collections in the Americas. Operated by the Organization for Tropical Studies (OTS), the 25-hectare garden holds over 1,000 genera of plants — palms, heliconias, aroids, ferns, orchids — arranged across a lush hillside that drops into a river gorge. The garden was established in 1963 by American horticulturalists Robert and Catherine Wilson, then donated to OTS in 1973.

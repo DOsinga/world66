@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.7081
 longitude: 8.7722
+score: 8.4
 ---
 
 The Heinz Nixdorf MuseumsForum is one of the world's largest computer museums, located at the site of the former Nixdorf Computer AG headquarters. It traces the history of computing and information technology from cuneiform tablets through the mainframe era to the personal computer — a remarkably coherent narrative covering five thousand years.

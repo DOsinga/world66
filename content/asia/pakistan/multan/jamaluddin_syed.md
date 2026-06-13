@@ -8,6 +8,7 @@ tags:
 title: Shrine of Shah Yousaf Gardezi
 type: poi
 story: "Shah Yousaf Gardezi is said to have arrived in Multan around 1088 AD riding a tiger, with a live cobra wrapped around his neck as a horsewhip — an entrance that established his reputation locally before he ever opened his mouth."
+score: 8.2
 ---
 
 Just inside the **Bohar Gate** stands the **Shrine of Shah Yousaf Gardezi**, the most photogenic of Multan's tombs. The mausoleum is a rectangular, flat-roofed building — unusually domeless among the city's great shrines — and its entire exterior is faced in tightly worked blue, white and green glazed tile, in floral panels and geometric medallions. The work was commissioned in the early seventeenth century by the saint's descendants, and is one of the finest surviving examples of pre-Mughal Multani kashi-kari.

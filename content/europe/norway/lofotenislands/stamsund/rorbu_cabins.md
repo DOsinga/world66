@@ -8,6 +8,7 @@ latitude: 68.1301
 longitude: 13.8493
 story: >
   The rorbu — literally "fishing cabin" — was a seasonal dwelling where fishermen from southern Norway would stay during the annual cod migration to Lofoten. At peak season in the early 20th century, up to 30,000 fishermen would crowd into these cabins across the archipelago. The fishing season ran from January to April, when the skrei (migratory Arctic cod) arrived in enormous schools from the Barents Sea.
+score: 6.8
 ---
 
 The red-painted wooden cabins on stilts along Stamsund's waterfront are rorbuer — traditional fishermen's quarters that are now let as holiday accommodation. Staying in one is the quintessential Lofoten experience: waking to the sound of the harbour, with the mountains directly behind and the sea immediately in front, and eating cod that was swimming in those same waters a few hours earlier.

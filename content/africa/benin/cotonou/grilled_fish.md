@@ -6,6 +6,7 @@ longitude: 2.4253
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 Cotonou's street food scene centres on the roadside grill. From late afternoon, vendors fire up charcoal braziers across the city, cooking brochettes of beef and mutton, whole grilled fish, and chicken seasoned with ground chilli and ginger. The best concentrations are along the Boulevard Saint-Michel and around the Jonquet quarter. Look for a grill with a crowd of regulars and order by weight.

@@ -13,6 +13,7 @@ story: >
   fed an intricate system of water channels driving the stamp mills that crushed
   Cerro Rico ore. Most have long since silted up or been drained, but San Ildefonso
   survives as a reminder of the industrial scale of colonial silver processing.
+score: 7.1
 ---
 
 The Khari Khari Lakes are a pair of artificial reservoirs in the mountains southeast of Potosí, created in the 1570s as part of the vast hydraulic infrastructure that powered the colonial ore-processing industry. The Spanish engineers who designed the system — and the indigenous mitayos who built it — dammed mountain streams to create reservoirs that fed water wheels, which in turn drove the stamp mills crushing silver ore. At its peak, the system included 32 such lakes.

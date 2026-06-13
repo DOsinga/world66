@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.9500
 longitude: 99.2500
+score: 8.0
 ---
 
 The Amnye Machen massif carries several major glaciers descending from its highest peaks, including the Harlong Glacier on the northeastern flank — one of the largest in the Qinghai section of the Plateau. The glacier's terminal moraine, reachable on foot from the kora route, is a dramatic landscape of ice seracs, meltwater streams, and ancient lateral moraines colonised by sparse alpine scrub.

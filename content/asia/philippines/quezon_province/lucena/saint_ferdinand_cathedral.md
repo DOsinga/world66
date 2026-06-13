@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Lucena_Cathedral
+score: 6.7
 ---
 
 Saint Ferdinand Cathedral — locally known as Lucena Cathedral — is the seat of the Diocese of Lucena and the spiritual anchor of the city. The twin-towered façade in cream and ochre faces onto a modest plaza that doubles as the city's social centre on feast days and Sunday mornings. The current structure was substantially rebuilt in the twentieth century, but a church has stood on this site since the Spanish colonial period; the original parish dates to the seventeenth century.

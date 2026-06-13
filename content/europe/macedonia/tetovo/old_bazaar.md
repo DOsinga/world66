@@ -8,6 +8,7 @@ tags:
 latitude: 42.006500
 longitude: 20.970000
 snippet: "Traditional market area with Albanian traders, metalworkers, and the atmosphere of a small Ottoman town"
+score: 7.2
 ---
 
 The old bazaar district in central Tetovo is compact but lively, with a predominantly Albanian character that distinguishes it from most Macedonian market towns. Traders sell copper and brassware, fresh produce, clothing, and the kind of practical goods that bazaars have always carried. The streets are mostly pedestrianised in the core area and busy on weekday mornings.

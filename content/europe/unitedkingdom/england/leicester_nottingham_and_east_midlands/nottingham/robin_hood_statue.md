@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Bronze archer below the castle walls — the mandatory Nottingham photograph.
+score: 5.8
 ---
 
 A life-size bronze of Robin Hood, bow drawn, stands at the foot of the castle gatehouse on Castle Road. James Woodford's statue was unveiled in 1952 and was paid for by a public subscription organised by a local businessman who felt the city was failing to capitalise on its most famous fictional son. Three smaller bronzes around it depict Little John, Friar Tuck and Will Scarlet.

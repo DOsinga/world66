@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6697
 longitude: -96.3388
+score: 7.1
 ---
 
 Ree Drummond — the Pioneer Woman of Food Network fame — grew up on a ranch near Pawhuska, and her Mercantile on Main Street has become one of the most visited restaurants in Oklahoma. The two-story building houses a restaurant, bakery, and general store with Pioneer Woman branded goods. The food is generous American comfort cooking: chicken pot pie, burgers, massive cinnamon rolls, and pies that are worth the wait.

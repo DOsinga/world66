@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6700
 longitude: 117.0150
+score: 7.2
 ---
 
 The Shandong Folk Arts Museum covers the traditional craft and material culture of the province — agricultural tools, household objects, festival items, and the regional embroidery, woodcarving, and ceramics that distinguished Shandong's different districts. The collection is strongest on the late Qing and early Republican periods, when traditional crafts were still in daily use.

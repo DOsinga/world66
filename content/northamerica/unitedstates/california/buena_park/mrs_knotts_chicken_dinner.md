@@ -6,6 +6,7 @@ longitude: -118.0017
 tags:
   - eating_out
   - restaurant
+score: 7.6
 ---
 
 Mrs. Knott's Chicken Dinner Restaurant is the spot where the entire Knott's Berry Farm story began. In 1934, Cordelia Knott started serving fried chicken dinners on her wedding china to bring in extra income; the line of waiting customers stretched so far that Walter built the Ghost Town next door to entertain them. The restaurant is now in its third building and you can still eat the same meal: pan-fried chicken, mashed potatoes, biscuits, and a slice of boysenberry pie.

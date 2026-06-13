@@ -9,6 +9,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 7.4
 ---
 
 The Vilnius Picture Gallery on Didžioji Street holds the main collection of Lithuanian fine art, housed in a restored 17th-century Baroque palace. The collection covers Lithuanian painting from the 16th century to the 20th, with particular strength in the 19th and early 20th centuries when Lithuanian artists were navigating questions of national identity during Russian imperial rule.

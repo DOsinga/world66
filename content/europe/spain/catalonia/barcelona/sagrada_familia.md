@@ -21,6 +21,7 @@ story: >
   forty years of his life to completing. On 20 February 2026, the basilica
   reached its final height of 172.5 metres — one hundred years after his death.
 url: www.sagradafamilia.org
+score: 10.0
 ---
 
 Construction of the Sagrada Família began in 1882 under a different architect. Gaudí took over in 1883, completely changed the design, and spent the rest of his life on it — at the end, living on site and working exclusively on this project. He expected it to take several generations. He was right: when he died in 1926, less than a quarter was complete. The building was finally finished in February 2026.

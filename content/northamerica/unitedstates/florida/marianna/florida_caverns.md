@@ -9,6 +9,7 @@ longitude: -85.2331
 snippet: The only publicly accessible dry cave system in Florida, with stalactites, stalagmites, and spring swimming
 story: >
   Florida's geology is almost entirely flat limestone, honeycombed with underground caverns that formed over millions of years as rainwater dissolved the rock. Most of Florida's caves are flooded — they form the springs and sinkholes that characterise the state's hydrology. Florida Caverns is exceptional: here the cave system sits above the water table, creating dry chambers accessible on foot. It's one of the few places in Florida where you can see stalactites and stalagmites.
+score: 8.4
 ---
 
 Florida Caverns State Park is the main reason to stop in Marianna. The park protects a dry cave system — exceptional in a state where most caves are underwater — and offers guided tours through chambers filled with stalactites, stalagmites, columns, and flowstone formations in shades of white, cream, and amber.

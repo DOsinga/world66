@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 25.388
 longitude: 68.367
+score: 6.7
 ---
 
 Hyderabad is one of the best cities in Pakistan to buy Sindhi handicrafts, particularly ajrak — the distinctive block-printed cloth in deep red and blue geometric patterns that is the signature textile of Sindh. Ajrak is made using a resist-printing process that takes several days of repeated dipping, washing, and drying, and the best quality pieces command high prices.

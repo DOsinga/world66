@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 39.4718
 longitude: 75.9850
+score: 6.7
 ---
 
 Doolan is the most well-known Uyghur restaurant in Kashgar and a reliable choice for a sit-down meal in the old town. The menu covers the full range of Xinjiang Uyghur cooking: dapanji (whole chicken braised with potato and green peppers in a red broth that arrives at the table in an enormous bowl), pilaf (polo) with carrot and lamb, and hand-pulled lagman noodles in a variety of sauces. The portions are large enough to share and the prices are modest.

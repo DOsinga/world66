@@ -4,6 +4,7 @@ type: poi
 latitude: -3.8167
 longitude: 39.8000
 tags: [things_to_do, beach]
+score: 6.8
 ---
 
 Vipingo lies between Kilifi and Mombasa, and the beach here is one of the longest unbroken stretches of white sand on the Kenyan coast. A reef about a kilometre offshore creates a wide, calm lagoon ideal for swimming and snorkelling at high tide.

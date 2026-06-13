@@ -11,6 +11,7 @@ tags:
   - restaurant
 title: Sabor Latino
 type: poi
+score: 5.7
 ---
 
 Ann Arbor's standout Mexican restaurant, offering solid, authentic flavors at fair prices. The food consistently outperforms the no-frills interior. A good choice when you want something more substantive than campus-area fast food.

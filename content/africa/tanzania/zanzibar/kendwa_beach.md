@@ -8,6 +8,7 @@ tags:
   - beach
   - sight
 snippet: Full-moon beach parties and calmer swimming than neighbouring Nungwi
+score: 7.6
 ---
 
 Kendwa is a short walk south of Nungwi along the northwest coast, and while it shares the same clear water and white sand, it has a character of its own — younger, louder at night, and famous across East Africa for its **full-moon beach parties**. Held monthly at Kendwa Rocks, they draw visitors from across the island and from the mainland with bonfires, dancing, and an outdoor bar that runs until dawn. During the day, the beach is simply beautiful and far less hectic.

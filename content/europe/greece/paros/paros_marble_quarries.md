@@ -13,6 +13,7 @@ story: >
   world's most prized sculptural stone in antiquity — slightly translucent,
   finely crystalline, and warm white. Napoleon's tomb is lined with it. The main
   tunnels were worked from the 7th century BC until the 19th century AD.
+score: 8.8
 ---
 
 In the hills above Marathi village, about five kilometres east of Parikia, you can walk into the ancient marble quarries that made Paros famous across the ancient world. The tunnels are dimly lit by oil lamps — the same lamps the ancient miners used, because the passages are too narrow and winding for sunlight to penetrate.

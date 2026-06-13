@@ -6,6 +6,7 @@ longitude: 13.0431
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 Salzburg's modern art museum sits on top of the Mönchsberg at the end of the lift ride from the old town. The clean white travertine building, finished in 2004, holds rotating exhibitions of 20th- and 21st-century art — strong on Austrian and German postwar painting, Vienna Aktionism, and contemporary photography.

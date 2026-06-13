@@ -14,6 +14,7 @@ tags:
 - market
 title: Hutsul Crafts and Local Market
 type: poi
+score: 6.8
 ---
 
 The Hutsul people of the Ukrainian Carpathians have one of the most distinctive folk craft traditions in eastern Europe. In and around Vorokhta you will find woodcarving, embroidered textiles, handwoven woollen goods, and pysanky — the ornately decorated Easter eggs that are among the most recognisable symbols of Ukrainian culture. These are not tourist reproductions: most items sold in the local market and by individual craftspeople are genuinely handmade by village families.

@@ -8,6 +8,7 @@ latitude: 39.6181
 longitude: 22.3933
 sources:
   - https://en.wikipedia.org/wiki/Diachronic_Museum_of_Larissa
+score: 7.7
 ---
 
 The Diachronic Museum of Larissa (officially the Museum of Larissa — From Prehistory to Late Antiquity) is the city's main archaeological museum, opened in 2015 in a purpose-built building on the outskirts of the historic centre. The collection spans an enormous chronological range: finds from Neolithic settlements in the Thessalian plain, Bronze Age objects, Classical and Hellenistic grave goods, and Roman-era artefacts recovered from excavations across the region.

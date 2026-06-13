@@ -9,6 +9,7 @@ tags:
   - hiking
 sources:
   - https://en.wikipedia.org/wiki/Jade_Dragon_Snow_Mountain
+score: 8.7
 ---
 
 The Jade Dragon Snow Mountain (Yulong Xueshan) is a massif of thirteen peaks rising to 5,596 metres about 15 kilometres north of Lijiang. It is permanently snow-covered, sacred to the Naxi people as the home of the god Sanduo, and visible from the old town on any clear day. The mountain is accessible by three cable cars that cover different sections of the massif — the main gondola climbs to a glacial plateau at 4,506 metres, which is genuinely cold (bring a layer) and genuinely spectacular when the clouds part.

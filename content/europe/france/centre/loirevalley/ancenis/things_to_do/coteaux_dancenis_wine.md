@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3550
 longitude: -1.1650
+score: 7.0
 ---
 
 The hills south of town are planted with vines that produce Coteaux d'Ancenis, an appellation so small it barely registers outside the Loire. The wines are unusual: the white Malvoisie (a local name for Pinot Gris) is rich and slightly honeyed; the red is mostly Gamay, light and good with a chill in summer. A few producers also make Muscadet here, though the heart of that appellation lies further west towards Nantes.

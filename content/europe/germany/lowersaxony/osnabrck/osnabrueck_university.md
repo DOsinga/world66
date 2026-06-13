@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 52.2730
 longitude: 8.0420
+score: 4.8
 ---
 
 Osnabrück University was founded in 1973 as part of the wave of new German universities established in the postwar decades to expand access to higher education. It is spread between two historic buildings in the city centre: the Baroque Schloss — the former residence of the Prince-Bishops — and the former arsenal, a substantial eighteenth-century building a few streets away. The Schloss in particular gives the university an unusually handsome physical setting for an institution that barely predates punk.

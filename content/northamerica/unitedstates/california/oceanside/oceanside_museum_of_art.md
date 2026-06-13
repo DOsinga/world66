@@ -8,6 +8,7 @@ latitude: 33.1945
 longitude: -117.3783
 story: >
   The museum building itself is architecturally notable — the main gallery space was designed by Frederick Fisher, while an adjoining annex was designed by Frederica Bauer, making it a rare example of two significant West Coast architects' work in deliberate dialogue on a single campus. The city of Oceanside funded the original construction in 1996 to anchor a downtown arts district that has since grown substantially.
+score: 7.5
 ---
 
 The Oceanside Museum of Art (OMA) is the city's principal visual arts venue, housed in two connected buildings in downtown. It shows contemporary art with a particular focus on Southern California artists and themes — the sea, the desert, the military, and the cultural mix of the US-Mexico borderland all recur in its programme.

@@ -9,6 +9,7 @@ latitude: 30.9450
 longitude: 117.8200
 story: >
   The Bronze Giant at the center of the park stands as one of the largest pure copper statues in the world — a deliberate act of civic assertion by a city that has based its modern identity on the same metal its ancestors worked 3,500 years ago. The scale is genuinely startling: the casting required technical processes that had not been attempted before at this size, and the engineering achievement is as interesting as the object itself.
+score: 8.5
 ---
 
 Copper Culture Park is Tongling's flagship attraction, combining an outdoor sculpture garden, a museum, and the city's claim to world records in bronze casting. The Bronze Giant dominates the central area — a monumental figure in pure copper that functions as both a civic landmark and a statement of industrial pride. The scale is most impressive at close range, where the surface texture and the sheer mass of the casting become apparent.

@@ -10,6 +10,7 @@ tags:
 - world_heritage
 snippet: "The site of Homer's Troy, with nine layered cities and a modern museum"
 story: "Heinrich Schliemann, the wealthy German amateur who began excavating here in 1870, was so eager to find Homer's Troy that he dug straight down through the layer that was almost certainly it, destroying a vast amount of evidence in the process. The site is still revealing what Schliemann's haste damaged."
+score: 9.1
 ---
 
 The ruins on the low mound of Hisarlık, about 30 km south of Çanakkale, are the most famous archaeological site in Turkey. What you actually see — low stone walls, a ramp, a half-reconstructed gate, a stretch of paved street — is a palimpsest of nine cities, built one on top of another between roughly 3000 BC and 500 AD. Troy VI or VII is the candidate for the city of Homer's Iliad.

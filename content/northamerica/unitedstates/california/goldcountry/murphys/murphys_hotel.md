@@ -15,6 +15,7 @@ story: >
   is said to have stayed here between jobs. He was eventually caught partly because
   he left a handkerchief at a crime scene that was traced back to a San Francisco
   laundry.
+score: 7.7
 ---
 
 One of the oldest continuously operating hotels in California, the Murphys Hotel has been putting up travelers since 1856 — back when the town it's named after was a serious economic engine, not a charming backwater. The building is a solid stone structure typical of Gold Rush-era Murphys, built to survive fire in a way that wooden buildings couldn't. Inside, the lobby and bar have been restored without being fussed over: wood, brick, and a certain lived-in quality that distinguishes the real thing from themed approximations.

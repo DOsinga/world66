@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Birra Korça was founded in 1928 and is the oldest commercial brewery in Albania. During communism it was the only national brand of beer; today it is still made in Korçë and is still, by some margin, the country's most popular lager."
+score: 6.4
 ---
 
 The brewery sits on the southern edge of the city and is something of a local institution. The site itself isn't formally open as a museum, but the on-site Pub Korça is open to the public and serves draft Birra Korça straight from the source — drier and fresher than the bottled version sold across the country.

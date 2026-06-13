@@ -9,6 +9,7 @@ latitude: 40.6657
 longitude: 16.6090
 story: >
   When the government forcibly relocated the Sassi's residents in the 1950s, it intended the caves to be sealed permanently. The evictions were completed by 1968. Two decades later, architects and preservationists began arguing for restoration rather than erasure; UNESCO listing followed in 1993. The same caves that the Italian state once called a national disgrace are now its most photographed site.
+score: 10.0
 ---
 
 The Sassi — from the Italian word for "stones" — are the cave districts that line two ravines below the Civita, Matera's original hilltop nucleus. They are divided into the Sasso Caveoso (south, older and rougher) and the Sasso Barisano (north, more restored). Together they constitute one of the most extraordinary urban landscapes in the Mediterranean: roughly 9,000 cave dwellings, rock-cut churches, and interconnected cisterns dug into the soft tufa over a period stretching from the Palaeolithic to the 20th century.

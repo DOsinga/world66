@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7556
 longitude: -116.3819
+score: 6.7
 ---
 
 Two municipal championship courses on the north side of town — Firecliff and Mountain View — that consistently rank among the best public-access golf in the desert. The layouts are by Hurdzan, Fry, and John Cook; the conditioning is good year-round; and unlike many of the valley's private clubs, anyone can book a tee time.

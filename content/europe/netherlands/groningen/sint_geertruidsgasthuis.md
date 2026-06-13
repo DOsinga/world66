@@ -7,6 +7,7 @@ snippet: Hidden 14th-century almshouse with a peaceful courtyard
 tags:
 - things_to_do
 - landmark
+score: 8.4
 ---
 
 Step through an unassuming gate on the Peperstraat — directly across from the city's busiest nightlife street — and find one of the oldest hofjes in the Netherlands. The Sint Geertruidsgasthuis, generally called the Pepergasthuis, was founded around 1408 as an almshouse for elderly women and pilgrims.

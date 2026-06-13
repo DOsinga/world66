@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 8.4
 ---
 
 Blankenese, in the far west of Hamburg, is the city's most picturesque suburb — a steeply terraced former fishing village climbing up the Elbe escarpment, with whitewashed houses scattered through a maze of narrow stepped lanes called Treppenviertel. There are something like 5,000 steps in total; orienteering by street map is futile, so just wander.

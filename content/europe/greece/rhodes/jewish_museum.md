@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.4422
 longitude: 28.2304
+score: 7.9
 ---
 
 The Jewish Museum of Rhodes occupies a medieval building in the Juderia and documents five centuries of Sephardic Jewish life on the island. The collection includes photographs, documents, religious objects, and personal effects recovered after the deportations of 1944. Period photographs show the quarter in its prewar condition — crowded, busy, and distinctly unlike the rest of the Old Town. There are also artefacts from the Byzantine and earlier Jewish presence on the island.

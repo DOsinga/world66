@@ -16,6 +16,7 @@ story: >
   founded by Bishop Vasco de Quiroga, the "Good Bishop" whose humanist
   educational programs transformed Michoacan. Father Miguel Hidalgo, who
   launched Mexican independence in 1810, was a rector here.
+score: 7.4
 ---
 
 The Universidad Michoacana de San Nicolas de Hidalgo is one of Mexico's great public universities, with a history stretching back to the colonial period and a campus that preserves some of the finest 17th and 18th-century buildings in the city. The main campus buildings cluster around Ciudad Universitaria, about 2km southwest of the historic centre, but several faculties occupy historic buildings closer to the Plaza de Armas.

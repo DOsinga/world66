@@ -11,6 +11,7 @@ story: >
   occupation. The Dutch engineers deliberately slowed the work to prevent the
   Germans from using it, but it was eventually completed under pressure. The
   Art Deco entrance buildings and tile work inside survived the war intact.
+score: 8.7
 ---
 
 The Netherlands' first road tunnel under a river, connecting the north and south banks of the Nieuwe Maas. Built in the late 1930s, it is notable not for its engineering (though that was impressive for the time) but for its interiors: the entrance halls are pure Art Deco, with geometric tilework, elegant lighting fixtures, and a streamlined aesthetic that makes descending into a car tunnel feel oddly glamorous.

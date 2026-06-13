@@ -14,6 +14,7 @@ story: >
   panel records a different agricultural or aristocratic activity, with extraordinary
   attention to dress, tools, snow, and weather. It is one of the very few surviving
   cycles of its kind in Europe.
+score: 8.7
 ---
 
 The Torre Aquila is a square 13th-century tower in the outer ring of the Castello del Buonconsiglio, given over almost entirely to one of the most important works of late-medieval secular painting in Europe: the **Ciclo dei Mesi**, a series of panels showing the months of the year in scenes of peasant labour and aristocratic leisure.

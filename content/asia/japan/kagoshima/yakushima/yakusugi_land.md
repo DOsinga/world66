@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.3147
 longitude: 130.5497
+score: 8.1
 ---
 
 Yakusugi Land is a managed forest park in the lower mountains of Yakushima, set up specifically to give visitors access to ancient cedar trees without undertaking the full-day hike to Jōmon Sugi. Four trail loops of varying length wind through forest where thousand-year-old yakusugi cedars stand amid younger trees, streams, and moss-covered rocks. The shortest loop takes about 30 minutes; the longest is around 150 minutes.

@@ -16,6 +16,7 @@ story: >
   professors, endowed scholarships, and built a campus that combined colonial Gothic
   with local design elements. The institution outlasted the princely state by decades
   and is now an autonomous college affiliated with Andhra University.
+score: 6.7
 ---
 
 Maharajah's College was founded in 1879 by the rulers of the Vizianagaram princely state, making it one of the older educational institutions in Andhra Pradesh. The campus buildings — built in the late 19th and early 20th centuries — are architecturally interesting: colonial administrative style adapted to the Indian climate, with covered walkways, high ceilings, and decorative elements that mix British and local traditions.

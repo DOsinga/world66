@@ -10,6 +10,7 @@ longitude: 27.5594
 snippet: The Minsk flat where JFK's assassin lived for three years after defecting to the Soviet Union
 story: >
   Oswald defected to the Soviet Union in October 1959, aged 19. Soviet authorities, unsure whether he was a genuine defector or a spy, settled him in Minsk — far from sensitive military installations but comfortable enough to keep him content. He worked at a radio factory, met and married a Belarusian woman named Marina, and lived a fairly ordinary Soviet life before growing disillusioned and returning to the United States in 1962. Less than two years later he assassinated President Kennedy.
+score: 4.8
 ---
 
 The apartment building at Kommunisticheskaya 4 is where Lee Harvey Oswald, the man who assassinated President John F. Kennedy, lived from 1960 to 1962 after defecting from the United States to the Soviet Union. He was given a studio apartment here by the KGB, which monitored his activities closely throughout his stay.

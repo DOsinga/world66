@@ -8,6 +8,7 @@ tags:
 - belleville
 title: La Miroiterie
 type: poi
+score: 6.0
 ---
 
 La Miroiterie is a colourful "magasin gratuit" (free shop) housed in a squat in the 20th arrondissement. Clothes and books are all free, though donations of money or goods are welcome.

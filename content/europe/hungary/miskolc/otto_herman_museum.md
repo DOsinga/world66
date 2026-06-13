@@ -10,6 +10,7 @@ story: >
   The museum is named after Herman Ottó, a remarkable 19th-century Hungarian polymath who was simultaneously a natural historian, archaeologist, ethnographer, and politician. He documented the traditional fishing and shepherding cultures of Hungary before industrialisation erased them, producing illustrated volumes that are now irreplaceable records. His personal collection formed the core of what became this museum.
 sources:
   - https://en.wikipedia.org/wiki/Herman_Ottó_Museum
+score: 6.9
 ---
 
 The Herman Ottó Museum is the main regional museum for northeast Hungary, with collections covering archaeology, natural history, and the history of the region from prehistoric times to the present. The archaeological collection is the highlight, tracing Palaeolithic settlement of the Bükk region through to medieval Hungary with well-presented exhibits.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.8697
 longitude: -94.8769
+score: 6.9
 ---
 
 Miami's surviving 1929 Marathon service station, a cottage-style brick building at 331 South Main Street, is on the National Register of Historic Places. It was built in the era when oil companies tried to make their stations look like little suburban houses so they would blend in with their neighbourhoods.

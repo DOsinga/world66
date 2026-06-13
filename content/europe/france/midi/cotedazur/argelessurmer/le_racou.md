@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The transition point between sandy beaches and rocky Cote Vermeille
+score: 7.1
 ---
 
 The southern tip of Argelès beach, where the long sandy coast of Languedoc-Roussillon abruptly ends and the rocky **Cote Vermeille** begins. Le Racou is built up with small holiday villas and bungalows, has its own modest beach and a few good restaurants, and feels quite separate from the main Argelès tourist scene a kilometre to the north.

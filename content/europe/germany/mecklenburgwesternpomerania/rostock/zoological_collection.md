@@ -11,6 +11,7 @@ opening_hours: "Mon–Fri 09:00–17:00, Sat 10:00–16:00"
 admission: "Free"
 story: >
   Among the collection's most famous specimens is a white stork with an African spear still lodged through its neck — proof that European storks winter in sub-Saharan Africa. Discovered in 1822, it was the first scientific evidence of long-distance bird migration. The stork is preserved here and still has the spear through it.
+score: 6.5
 ---
 
 The university zoological collection occupies a 19th-century building near the historic university complex. It holds over 2,000 prepared specimens — mammals, birds, fish, reptiles, and invertebrates — collected over two centuries of academic natural history. Entry is free, making it an easy add-on to a walk through the old town.

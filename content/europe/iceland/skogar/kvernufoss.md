@@ -7,6 +7,7 @@ tags:
 latitude: 63.529
 longitude: -19.4803
 snippet: "Hidden waterfall 10 minutes from Skógafoss, almost always crowd-free"
+score: 8.1
 ---
 
 Kvernufoss is a secret that most visitors to Skógar walk straight past. Just fifteen minutes' walk east of Skógafoss, along a path that most people miss entirely, this 30-metre waterfall drops into a narrow canyon where you can walk behind the curtain of water on a wet ledge of rock. In summer, when Skógafoss is surrounded by hundreds of people, Kvernufoss is typically visited by a handful.

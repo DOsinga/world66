@@ -4,6 +4,7 @@ type: poi
 latitude: 43.2456
 longitude: 17.0764
 tags: [things_to_do, sight, church]
+score: 5.6
 ---
 
 The parish church on the small square just back from the seafront was rebuilt after the 1962 earthquakes that levelled most of the town. The result is a plain, light, modernist church with a tall thin bell tower that doubles as a landmark visible from the beach. The older church of the same name, partly preserved as a ruin, stands further up the hillside in the old village.

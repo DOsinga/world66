@@ -8,6 +8,7 @@ tags:
 neighbourhood: Nyamirambo
 latitude: -1.9731
 longitude: 30.0492
+score: 7.4
 ---
 
 The Gisimba Memorial Centre is a less-visited genocide memorial that has a different character from the main Kigali Genocide Memorial. In 1994, Damas Mutezintare Gisimba sheltered hundreds of Tutsi civilians in his family orphanage in Nyamirambo, protecting them through weeks of genocide at personal risk. The site is now a community centre for disadvantaged children and a small memorial to those who were saved and those who were not.

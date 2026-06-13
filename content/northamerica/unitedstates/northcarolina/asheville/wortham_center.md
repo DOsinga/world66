@@ -6,6 +6,7 @@ longitude: -82.5511
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Wortham Center is Asheville's main mid-size performing arts venue, a 500-seat theatre on Pack Square inside the Pack Place cultural complex. It opened in 1992 and reopened after a renovation in 2019. The programme runs through the year and mixes touring dance and theatre with chamber music, jazz, and the city's own Asheville Symphony chamber series.

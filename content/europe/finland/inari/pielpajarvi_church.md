@@ -15,6 +15,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.2
 ---
 
 The Pielpajärvi *erämaakirkko* — "wilderness church" — is a small whitewashed wooden Lutheran chapel built in 1760 on the site of the original 17th-century Inari church. The building is reached only by a six-kilometre walking trail through the forest from the Siida museum or from the parking area at Heikinniemi — there is no road. The walk is easy, mostly flat, signposted, and crosses small streams on plank bridges.

@@ -11,6 +11,7 @@ story: >
   When Felipe V took Lleida in 1707 for backing the Habsburg claimant in the War of the Spanish Succession, he punished the city by handing La Seu Vella to the army. Soldiers knocked holes in the Gothic walls to run gun emplacements, stabled horses in the nave, and stored gunpowder in the cloisters. The cathedral served as a barracks for over two centuries. Only in 1948 was it deconsecrated as a military facility and opened to the public.
 sources:
   - https://en.wikipedia.org/wiki/Lleida
+score: 9.5
 ---
 
 La Seu Vella is the great cathedral of Lleida, begun in the thirteenth century and one of the finest Gothic structures in Catalonia. It sits on the highest point in the city, inside the walls of a later medieval castle, reached by a long ramp that climbs steeply from the old quarter. The climb is worth every step — the views from the cloister over the Segre plain and, on clear days, toward the Pyrenees are stunning.

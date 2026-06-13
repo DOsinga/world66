@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: Underground exhibition built around the foundations of a tenth-century Viking longhouse
 story: "The longhouse on display was found during work for a new hotel in 2001. A wall fragment dated to before 871 — the year of a major volcanic ashfall layer that runs across south Iceland — suggesting that someone was already living on the spot a few decades before the official 'settlement' year of 874."
+score: 8.7
 ---
 
 Built into the basement of an unremarkable downtown block, the Settlement Exhibition is one of the more imaginative small museums in northern Europe. The centrepiece is the excavated foundation of a Viking longhouse from before 871 AD, displayed in situ under low lighting with projected reconstructions and interactive panels around it.

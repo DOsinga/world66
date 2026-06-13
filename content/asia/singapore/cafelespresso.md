@@ -7,6 +7,7 @@ tags:
 - nightlife
 title: Cafe L'Espresso
 type: poi
+score: 2.8
 ---
 
 A culinary exploration

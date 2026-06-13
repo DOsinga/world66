@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_centre
+score: 6.1
 ---
 
 The main square of Yekaterinburg, named for the Russian revolution of 1905 in which workers from the city's foundries took part. A Lenin statue stands in the centre; the City Administration and a large pre-revolutionary department store form the south side.

@@ -9,6 +9,7 @@ tags:
 - nature
 title: San Francisco Bay Trail
 type: poi
+score: 6.6
 ---
 
 San Francisco Bay Trail is one of the Bay Area stops that explains why this region keeps pulling visitors back. It works best when you give it time rather than treating it as a quick photo stop; the setting, history, and surrounding neighborhoods are part of the point.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -16.5332
 longitude: -151.7417
+score: 9.2
 ---
 
 The only public white-sand beach on the main island of Bora Bora, and one of the finest in French Polynesia. The long, shallow crescent of sand at the southern tip of the island faces west into the lagoon, with the motu islands visible across the water and sunset views that are hard to beat anywhere in the Pacific. The water here is calm, shallow, and warm — ideal for swimming, snorkelling, and paddling.

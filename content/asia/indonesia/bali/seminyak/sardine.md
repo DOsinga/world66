@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.4
 ---
 
 Sardine sits in a bamboo pavilion overlooking a rice paddy on the inland edge of Petitenget — one of those Bali settings that looks engineered for Instagram but is in fact just what land looked like fifteen years ago. The kitchen sources fish from the Jimbaran day-boats, cooks it simply, and pairs it with vegetables from its own garden.

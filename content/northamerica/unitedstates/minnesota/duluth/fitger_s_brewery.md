@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 46.7910
 longitude: -92.0910
+score: 7.2
 ---
 
 Fitger's Brewery, a handsome Romanesque Revival complex of red brick buildings on the lake shore north of Canal Park, was a working brewery from 1882 to 1972. Now converted into a complex of restaurants, bars, a boutique hotel, and shops, it retains much of its industrial character — exposed brick, heavy timber beams, and the original brewery equipment visible in the common areas.

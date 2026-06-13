@@ -8,6 +8,7 @@ tags:
 - books
 title: Gunnar's Daughter
 type: poi
+score: 6.7
 ---
 
 A short, fierce novel set in 13th-century Norway by Sigrid Undset, who later won the Nobel Prize for *Kristin Lavransdatter*. The story follows Vigdis Gunnarsdatter after she is violated by a man she trusted — her pursuit of justice and honour drives the narrative through a landscape of fjords, farms, and early Christianity's uneasy hold on Norse society.

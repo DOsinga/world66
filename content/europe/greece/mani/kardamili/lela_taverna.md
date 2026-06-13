@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: "Lela's Taverna"
 type: poi
+score: 6.6
 ---
 
 Lela's is the most famous taverna in Kardamili, and fame here is well-founded. The kitchen does straightforward Greek food — grilled fish, slow-cooked lamb, good horiatiki, excellent local wine from the barrel — with more care than most waterfront tavernas bother to apply. The terrace looks out over the bay and catches the evening breeze.

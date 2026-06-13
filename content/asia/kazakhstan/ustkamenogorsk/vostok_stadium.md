@@ -9,6 +9,7 @@ latitude: 49.9699
 longitude: 82.5869
 sources:
   - https://en.wikipedia.org/wiki/Vostok_Stadium
+score: 5.4
 ---
 
 Vostok Stadium is the city's main football venue, a large open-air ground built during the Soviet period and now home to FC Vostok — the local football club that competes in the Kazakhstan Premier League. The stadium holds around 12,000 spectators and has seen periodic renovation since independence.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 49.2480
 longitude: 1.4190
+score: 8.3
 ---
 
 The chalk cliffs that tower above the Seine here — rising steeply from the river's edge to the ridge where Château Gaillard stands — give Les Andelys a visual drama that few Normandy towns can match. Walking along the riverbank in Petit-Andely, with the cliffs and ruined castle above and the slow green river below, is one of the most atmospheric experiences in the region.

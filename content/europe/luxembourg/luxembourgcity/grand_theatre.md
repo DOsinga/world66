@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The city's main opera and ballet venue, in a mid-century building (1964) by Alain Bourbonnais on the edge of the Limpertsberg plateau. The exterior, with its giant abstract sculpture facing Rond-Point Schuman, is more memorable than the modest auditorium. The programme is mainly opera, dance, and serious theatre, with a strong international slant.

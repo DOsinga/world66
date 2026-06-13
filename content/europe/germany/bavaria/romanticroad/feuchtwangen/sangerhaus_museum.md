@@ -6,6 +6,7 @@ longitude: 10.3320
 tags:
 - things_to_do
 - museum
+score: 5.6
 ---
 
 A small and specialised museum dedicated to the history of choral singing in Germany — Feuchtwangen is, somewhat improbably, the seat of the Deutscher Sängerbund, the German Choral Federation. Exhibits cover the rise of bourgeois choral societies in the 19th century, sheet music, banners, and the political role of singing in the German national movement.

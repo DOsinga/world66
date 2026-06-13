@@ -7,6 +7,7 @@ tags:
 - schoneberg
 title: Winterfeldtplatz
 type: poi
+score: 7.7
 ---
 
 Winterfeldtplatz is where Schöneberg happens. The square hosts a market on Wednesday and Saturday mornings, and the Saturday version in particular is one of the best in Berlin — not the biggest, but well-stocked and genuinely local in character. The stalls sell seasonal vegetables and fruit from regional farms, cheeses, bread and pastries, meat, fish, flowers, and olives. The surrounding cafés — particularly the ones on the square itself and around the northern edge — open early on market days and fill with people who have bought a coffee and a pastry and have settled in for the morning. It has a relaxed, unhurried rhythm that distinguishes it from the more tourist-oriented city markets.

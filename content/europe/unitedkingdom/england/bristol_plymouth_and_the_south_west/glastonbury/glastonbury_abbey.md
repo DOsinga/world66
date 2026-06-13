@@ -9,6 +9,7 @@ tags:
 title: Glastonbury Abbey
 type: poi
 story: "In 1191, four years after a catastrophic fire devastated the abbey and its income, the monks announced they had discovered the grave of King Arthur and his queen Guinevere beneath the choir. A lead cross supposedly inscribed 'Here lies buried the famous King Arthur, with Guinevere his second wife, in the Isle of Avalon' was produced. The pilgrims and donations promptly returned. The cross has since vanished."
+score: 9.3
 ---
 
 Glastonbury Abbey is one of the most important medieval ruins in England — and one of the most atmospheric. Founded probably in the 7th century on the site of an older Christian community, it grew into the second-wealthiest monastery in the country before Henry VIII's commissioners dissolved it in 1539. The last abbot, Richard Whiting, was hanged on the Tor and his head spiked on the abbey gate.

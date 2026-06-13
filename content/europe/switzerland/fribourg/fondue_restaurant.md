@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.8063
 longitude: 7.1625
+score: 6.2
 ---
 
 Gruyères, where the Gruyère cheese used in Swiss fondue is made, is 30 kilometres south of Fribourg — which means that the fondue served in Fribourg restaurants is made with cheese from its own backyard. The difference in quality compared to what most visitors have encountered elsewhere is noticeable. The local moitié-moitié fondue (half Gruyère, half Vacherin Fribourgeois) is the regional speciality, creamier and more complex than straight Gruyère.

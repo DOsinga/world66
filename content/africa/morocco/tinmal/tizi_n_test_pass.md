@@ -9,6 +9,7 @@ longitude: -8.5061
 sources:
   - https://en.wikipedia.org/wiki/Tizi_n%27Test
 story: "The Tizi n'Test was not paved until 1928, and before that the route was a mule track used by Berber traders and Almohad armies. When French engineers finally surfaced it, they did so without guardrails on much of the route — an approach that has not entirely changed."
+score: 8.4
 ---
 
 The road over the Tizi n'Test pass is one of the great mountain drives in Morocco, and Tinmal sits roughly in the middle of it. Coming from Marrakesh, the road climbs from the plains through the Nfis valley, passing Berber villages clinging to the hillsides, before cresting the pass at 2,092 metres and descending toward Taroudant and the Souss plain on the far side. The views from the top — north toward the plains, south toward the Anti-Atlas — are sweeping.

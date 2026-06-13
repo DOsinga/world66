@@ -7,6 +7,7 @@ tags:
   - history
 latitude: -8.5167
 longitude: 179.2
+score: 6.6
 ---
 
 In 1942 the United States Navy built a major forward base on Funafuti to support the central Pacific campaign against Japan. At its peak the atoll hosted tens of thousands of personnel, a long-range airstrip (later the international airport), a seaplane base, fuel storage, and a network of gun emplacements scattered across the islets. From here, B-24 bombers flew sorties against the Gilbert and Marshall Islands.

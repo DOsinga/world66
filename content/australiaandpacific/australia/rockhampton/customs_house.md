@@ -11,6 +11,7 @@ story: >
   The Rockhampton Customs House was built in 1900 at a moment when the port was still handling significant trade flows from the Queensland interior. By the time the building was finished, the gold rush that justified it was already fading. It has been repurposed several times since, most recently as a function venue, but the colonial-era façade and the sandstone detailing remain intact.
 sources:
   - https://en.wikipedia.org/wiki/Customs_House,_Rockhampton
+score: 7.1
 ---
 
 The Customs House on Quay Street is one of the most photographed buildings in Rockhampton — a fine Queensland colonial building in sandstone and brick, with classical detailing and a corner position that lets you see it properly. It is heritage-listed and has been carefully maintained; the facade looks much as it would have in 1900.

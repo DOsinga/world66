@@ -11,6 +11,7 @@ tags:
 - history
 title: Museum of Belize
 type: poi
+score: 8.5
 ---
 
 Housed in a beautifully restored Victorian colonial jail on Gabourel Lane, the Museum of Belize covers the country's natural history, archaeology, and colonial past. The building itself — brick and imposing, constructed in the 1850s — is part of the appeal.

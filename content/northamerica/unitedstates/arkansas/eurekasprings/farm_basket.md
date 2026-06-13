@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 36.4015
 longitude: -93.7395
+score: 6.0
 ---
 
 Farm Basket is a daytime cafe and market in the downtown district, focused on breakfast and lunch made from local and regional produce. The menu changes based on what's available from nearby farms — in spring that means asparagus, morels, and ramps; in summer, tomatoes and peppers; in fall, squash and apples. The breakfast biscuits are made fresh each morning and sell out by mid-morning on busy days.

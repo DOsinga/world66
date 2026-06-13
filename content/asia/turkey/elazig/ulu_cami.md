@@ -9,6 +9,7 @@ tags:
 - landmark
 story: "The minaret leans visibly to one side — it has been off vertical since the 13th century, and the Turkish name for it is the Eğri Minare, the Crooked Minaret. Theories range from an earthquake to deliberate construction; no one is sure."
 snippet: "12th-century Seljuk mosque in old Harput with a famously crooked minaret"
+score: 8.5
 ---
 
 The Ulu Cami in Harput is one of the oldest Seljuk mosques in Anatolia, built in 1156 under the Artuqid ruler Fahreddin Karaaslan. The prayer hall is low and atmospheric, with stout brick piers and a system of small domes typical of early Seljuk architecture.

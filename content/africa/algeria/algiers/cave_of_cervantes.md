@@ -11,6 +11,7 @@ story: >
   Algiers. He attempted to escape four times, hiding in this cave during one attempt
   before being betrayed and recaptured. The experience deeply influenced his later
   writing, including passages in Don Quixote.
+score: 5.8
 ---
 
 A small cave in the Belouizdad neighbourhood of Algiers, traditionally identified as the hiding place where Miguel de Cervantes took shelter during one of his failed escape attempts from captivity in the city. The author of Don Quixote was held as a slave in Algiers from 1575 to 1580, and the cave has been a minor literary pilgrimage site since the 19th century.

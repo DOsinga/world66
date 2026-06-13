@@ -11,6 +11,7 @@ tags:
 neighbourhood: Midtown
 title: Cathedral Church of St Paul
 type: poi
+score: 7.5
 ---
 
 The Cathedral Church of St Paul, the Episcopal cathedral for the Diocese of Michigan, sits on Woodward Avenue at the southern edge of Midtown. The architect Ralph Adams Cram designed it in 1908 in English Gothic Revival, but the planned central tower and west towers were never built — the cathedral has the strange, truncated profile of an unfinished medieval church. The interior is unusually intact, with notable Tiffany and Connick stained glass.

@@ -12,6 +12,7 @@ tags:
 - sight
 - museum
 - architecture
+score: 8.1
 ---
 
 A 13th-century stone barn, three storeys tall, originally built as a merchant warehouse during the heyday of the Champagne Fairs. The ground floor opens directly onto Rue Saint-Jean, giving wagons access to load and unload. The vaulted ceiling above is a beautiful example of early Gothic ribbed vaulting.

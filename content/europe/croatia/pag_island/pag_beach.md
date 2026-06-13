@@ -7,6 +7,7 @@ tags:
 - sight
 title: Pag Town Beaches
 type: poi
+score: 6.2
 ---
 
 **Pag Town** has several beaches within walking distance of the old town, occupying the coves and inlets of the channel between the island and the mainland. The water here is notably calm — sheltered by the narrow channel — and clear, with the characteristic blue-green of the Dalmatian Adriatic. The beaches are pebble and rock rather than sand, which is standard for the Dalmatian islands.

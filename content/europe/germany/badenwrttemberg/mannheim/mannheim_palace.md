@@ -13,6 +13,7 @@ tags:
 - story
 title: Mannheim Palace
 type: poi
+score: 8.4
 ---
 
 One of the largest Baroque palaces in Germany, with a main facade stretching 450 metres across the western end of the grid. The Elector Johann Wilhelm commissioned it in the early 18th century, and it was completed under Karl III Philipp, who moved his court here from Heidelberg. Mozart performed here as a child; the court orchestra was one of the finest in Europe.

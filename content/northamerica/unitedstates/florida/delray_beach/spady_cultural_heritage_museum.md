@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 26.4646
 longitude: -80.0784
+score: 8.0
 ---
 
 A small but well-organised museum of African American history housed in the 1926 Mission Revival home of Solomon David Spady, who was the principal of Delray's segregated Black high school and a key figure in the early Black community. The exhibits trace the history of the West Settlers — Bahamian and African American pioneers who settled the area in the 1890s, well before incorporation — and the businesses, churches, and schools that grew up around what is now West Atlantic Avenue.

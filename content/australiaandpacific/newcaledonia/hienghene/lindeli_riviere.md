@@ -7,6 +7,7 @@ tags:
 - nature
 title: Hienghène River
 type: poi
+score: 7.8
 ---
 
 The Hienghène River descends from the central range and reaches the sea just south of the village. A walking track follows the river upstream past natural swimming pools and a series of limestone caves; the river is clear, cool, and at its best in the dry season (July to October) when the flow is gentle and the pools fill clearly.

@@ -7,6 +7,7 @@ tags:
   - sight
   - market
 type: poi
+score: 6.8
 ---
 
 The market at the centre of town is the hub of life in Maralal and the best place to watch the meeting of different worlds that characterises this frontier town. Samburu herders in traditional ochre-dyed cloth and elaborate beadwork trade alongside Somali merchants, Turkana pastoralists, and the occasional traveller passing through on the way north toward Lake Turkana.

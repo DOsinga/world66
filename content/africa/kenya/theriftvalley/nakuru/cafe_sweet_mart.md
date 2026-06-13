@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Cafe Sweet Mart
 type: poi
+score: 4.9
 ---
 
 A popular bakery-cafe on Gusii Road in central Nakuru. Good for an inexpensive lunch — Indian samosas, masala burgers, French bread, puff pastries — and the staff are friendly. A useful stop while wandering the town.

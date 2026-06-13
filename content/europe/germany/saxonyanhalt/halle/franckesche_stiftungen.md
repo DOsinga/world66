@@ -8,6 +8,7 @@ tags:
 latitude: 51.4783
 longitude: 11.9778
 story: "Founded as an orphanage in 1698 by the Pietist theologian August Hermann Francke, the foundations grew within a generation into a self-contained educational city with schools, a printing press, a pharmacy, a library and the Wunderkammer cabinet of curiosities that still survives today. It is one of the oldest unbroken educational institutions in Europe."
+score: 8.4
 ---
 
 The Franckesche Stiftungen — the Francke Foundations — are a vast walled complex on the southern edge of the old town, founded in 1698 and built over the following decades as a Pietist educational utopia. The main building is one of the largest half-timbered houses in Europe; behind it stretch a network of school buildings, a baroque chapel, a long avenue of lime trees, and several museums.

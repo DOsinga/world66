@@ -13,6 +13,7 @@ story: >
   Bay access to the town. Each day at one o'clock the Time Ball drops and a
   cannon is fired — a ceremony unbroken since 1900, when it was used to set
   the ships' chronometers in the harbour below.
+score: 8.2
 ---
 
 The Round House sits on the small limestone bluff at the western end of High Street, looking out across the Indian Ocean. It is a twelve-sided, eight-celled gaol — the only one of its kind in Australia — and predates the founding of Fremantle proper by several years.

@@ -10,6 +10,7 @@ latitude: 36.88230
 longitude: 30.70147
 story: >
   The harbour was built by the Attalid kings of Pergamon, who founded the city around 150 BCE, and later expanded by the Romans. For nearly two millennia it was the main port of entry for the Pamphylian coast. Today it handles only pleasure boats, but the Hellenistic quay walls on the south side are still the original stonework.
+score: 7.9
 ---
 
 The old harbour at the foot of Kaleiçi has been converted into an attractive marina, ringed with fish restaurants whose terraces overhang the water. Boats moored here offer half-day and full-day cruises along the coast, taking in the Düden Waterfalls, nearby bays, and the coast towards Kemer.

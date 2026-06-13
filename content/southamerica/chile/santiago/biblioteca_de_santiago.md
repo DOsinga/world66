@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4444
 longitude: -70.6787
+score: 7.7
 ---
 
 The Biblioteca de Santiago is Chile's largest public library, housed in a beautifully restored 1938 building in the Barrio Yungay neighbourhood. The conversion from a former factory into a public library was completed in 2005 and is considered one of the more successful adaptive reuse projects in Santiago — the industrial bones of the original structure are visible in the interior, with high brick walls and large windows creating generous reading spaces.

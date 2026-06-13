@@ -8,6 +8,7 @@ tags:
   - restaurant
 address: 6100 East 2nd Street
 snippet: "Wood-fired Wyoming steaks at the east edge of town"
+score: 5.7
 ---
 
 A locally owned steakhouse on the east side, doing solid wood-fired ribeyes, prime rib, and bison

@@ -15,6 +15,7 @@ story: >
   its hold over the region, extracting treaties that effectively ended Vizianagaram's
   independent political power. It was the kind of accidental self-destruction that
   the Company had learned to wait for.
+score: 7.8
 ---
 
 Vizianagaram Fort was built in the early 18th century by the rulers of the Vizianagaram zamindari — a regional power that controlled much of what is now the northern Andhra coast. The fort occupies a modest rise at the edge of the old town, with outer walls and a gate that remain largely intact, though the interior structures have suffered from neglect and partial demolition.

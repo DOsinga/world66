@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9351
 longitude: 24.4177
+score: 6.4
 ---
 
 The Panagia district has the best concentration of tavernas in Kavala, tucked into the lanes around and below the castle. Most serve the standard northern Aegean repertoire: grilled or fried fish, octopus in wine, mussels, and seafood meze. The setting — cobbled lanes, Ottoman stonework, a view of the sea — is significantly better than anything in the lower town.

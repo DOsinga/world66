@@ -6,6 +6,7 @@ longitude: 19.5125
 tags:
   - bars_and_cafes
   - cafe
+score: 5.6
 ---
 
 A typical Shkodër pedestrian-street café, with two dozen tables under canvas umbrellas opposite a row of restored 19th-century facades. Good espresso, decent macchiato, fresh-squeezed orange juice, simple snacks. Everyone in town seems to drop in at some point during the day.

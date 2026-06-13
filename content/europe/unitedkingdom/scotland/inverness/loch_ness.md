@@ -9,6 +9,7 @@ title: Loch Ness
 type: poi
 story: >
   Loch Ness contains more fresh water than all the lakes and rivers in England and Wales combined. The loch has never completely frozen in recorded history, despite temperatures regularly dropping below zero — the sheer volume of water retains enough heat to prevent freezing. The monster, first reported in a newspaper article in 1933, has generated a tourism industry worth millions of pounds a year.
+score: 8.9
 ---
 
 Loch Ness stretches 37 kilometres southwest of Inverness through the Great Glen, flanked by steep wooded hillsides. At its deepest point it reaches 230 metres — deep enough to swallow the Eiffel Tower. The water is permanently murky with peat particles, which gives the loch its dark, slightly sinister quality and has helped sustain the monster myth for nearly a century.

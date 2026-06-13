@@ -5,6 +5,7 @@ latitude: 40.1753
 longitude: -74.0311
 snippet: "Flat-water paddling through Neptune Township with good birdwatching along the banks"
 tags: [things_to_do, activity, nature]
+score: 6.5
 ---
 
 The Shark River winds inland from the inlet at the north end of Belmar through Neptune Township, offering a calm and scenic paddle well away from the ocean crowds. Kayak and paddleboard rentals are available at the marina — no experience necessary. The water is flat and the current is gentle, making it a practical option for first-time paddlers and families with older children.

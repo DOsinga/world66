@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -23.1383
 longitude: -44.2547
+score: 7.6
 ---
 
 The Blue Lagoon is a sheltered cove on the northwest side of the island where extraordinarily clear water sits over a pale sandy bottom, surrounded by low rocks. Even snorkellers without much practice can see schools of small reef fish — sergeant majors, parrotfish, the occasional small ray — without going more than a few metres from the surface.

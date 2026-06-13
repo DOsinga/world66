@@ -9,6 +9,7 @@ tags:
   - architecture
   - theatre
 snippet: The 1920s art deco theatre near the pier, hosting West End touring shows
+score: 6.9
 ---
 
 The Pavilion was built in 1929 as a combined ballroom, restaurant, and theatre, in a restrained Portland-stone art-deco style with a copper-domed clock tower. It was a key piece of Bournemouth's reinvention as a sophisticated holiday destination -- the theatre staged its first show, Charley's Aunt, on Easter Monday 1929.

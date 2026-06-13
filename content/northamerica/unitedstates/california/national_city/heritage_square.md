@@ -9,6 +9,7 @@ tags:
 address: 921 A Ave, National City, CA 91950
 latitude: 32.6783
 longitude: -117.0975
+score: 8.2
 ---
 
 Heritage Square preserves Brick Row, a terrace of ten attached red-brick houses designed by R.C. Ball and built in 1887 for senior Santa Fe Railroad executives. The terrace was modelled directly on the row houses of Philadelphia — Frank Kimball wanted the railroad brass to feel at home, having pulled most of them west from the east coast.

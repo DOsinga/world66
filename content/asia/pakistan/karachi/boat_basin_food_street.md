@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Boat Basin Food Street
 type: poi
+score: 6.9
 ---
 The Boat Basin area in Clifton comes alive after dark when the food stalls set up along the road and the restaurants on the surrounding streets fill with the evening crowd. This is the upscale version of Karachi street food culture — the vendors are slightly more organised, the seating slightly more comfortable, and the prices slightly higher than the Saddar equivalents, but the energy is the same. The specialities are chaat, seekh kebabs, gola ganda (shaved ice), and fresh juices, eaten standing up or balanced on the plastic chairs that spill onto the pavement.
 

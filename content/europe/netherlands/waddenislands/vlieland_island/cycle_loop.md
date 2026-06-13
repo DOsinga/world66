@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "26 km of cycle paths through dunes, forest, and along the Wadden Sea"
 latitude: 53.2900
 longitude: 5.0500
+score: 8.1
 ---
 
 The full cycling loop of Vlieland is around 25 km — out west from Oost-Vlieland through pine plantation and dune valleys to the Posthuys, then along the edge of the Vliehors, back along the inner coast facing the Wadden Sea, and home via the harbour. It takes most cyclists three to four hours including stops, longer if you keep stopping for the view.

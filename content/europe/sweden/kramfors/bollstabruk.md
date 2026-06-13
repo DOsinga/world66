@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.0000
 longitude: 17.6833
+score: 7.5
 ---
 
 Bollstabruk, ten kilometres north of Kramfors, was one of the original iron mills of the Ådalen valley, founded in 1739. The surviving mill house, manor, and old workers' cottages line the river and give a clear picture of how a 19th-century company town in northern Sweden looked.

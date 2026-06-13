@@ -8,6 +8,7 @@ tags:
   - brewery
 latitude: 61.5011
 longitude: 23.7583
+score: 7.3
 ---
 
 The Plevna brewery restaurant occupies one of the finest industrial spaces in Tampere — a vast former factory hall in the Finlayson complex, with original brick walls, high ceilings, and brewing equipment visible from the dining area. Koskipanimo, the microbrewery that operates within the building, produces a range of ales, lagers, and seasonal beers brewed on the premises.

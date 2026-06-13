@@ -1,14 +1,15 @@
 ---
 address: At the top of La Rambla
+latitude: 41.387
+longitude: 2.17
+score: 6.6
+snippet: Barcelona's central square where La Rambla meets the Eixample grid
 tags:
 - things_to_do
 - landmark
+- eixample
 title: Plaça de Catalunya
 type: poi
-latitude: 41.3870
-longitude: 2.1700
-snippet: "Barcelona's central square where La Rambla meets the Eixample grid"
-score: 6.6
 ---
 
 Plaça de Catalunya is the pivot around which Barcelona rotates. La Rambla runs south from here toward the port; the Eixample grid fans out to the north and west; Passeig de Gràcia begins just off the northeast corner. The square itself is large and airy, with fountains, bronze sculptures, and flocks of pigeons, and it draws tourists, commuters, and protesters in roughly equal measure.

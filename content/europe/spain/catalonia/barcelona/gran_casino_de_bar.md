@@ -7,14 +7,15 @@ done:
 latitude: 41.388062
 longitude: 2.197744
 phone: 93-225-78-78
+score: 4.2
 snippet: Casino and nightclub in Port Olympic, open until 5am
 tags:
 - bars_and_cafes
 - nightlife
+- sant_marti
 title: Gran Casino de Barcelona
 type: poi
 url: www.casino-barcelona.com
-score: 4.2
 ---
 
 The Gran Casino de Barcelona sits at the base of the Hotel Arts in Port Olympic, right on the waterfront. Slots, roulette, blackjack, and poker on the main floor; floor shows and a disco upstairs. Dress code is smart-casual; bring your passport for entry. Open daily from 1pm until 5am.

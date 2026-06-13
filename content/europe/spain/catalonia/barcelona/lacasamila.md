@@ -6,13 +6,14 @@ done:
 latitude: 41.395256
 longitude: 2.161572
 phone: +34 93 487 36 13
+score: 9.1
 snippet: Gaudí's undulating stone masterpiece on Passeig de Gràcia
 tags:
 - things_to_do
 - sights
+- eixample
 title: La Casa Mila
 type: poi
-score: 9.1
 ---
 
 La Casa Mila, nicknamed La Pedrera ("The Quarry") for its rough-hewn stone facade, is the last major residential building Gaudí designed. Built between 1905 and 1910, it wraps around Passeig de Gràcia with rippling balconies and an organic roofline that looks like nothing else on the boulevard.

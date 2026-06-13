@@ -1,12 +1,13 @@
 ---
 latitude: 41.371346
 longitude: 2.189262
+score: 6.8
 snippet: Barcelona's closest and liveliest city beach
 tags:
 - beaches
+- barceloneta
 title: Playa de la Barceloneta
 type: poi
-score: 6.8
 ---
 
 Barceloneta beach is the closest beach to Barcelona city centre. From the Columbus monument at the end of the Ramblas it is about a 15-minute walk, or you can take the metro to Barceloneta station. The beach runs for over a kilometre along the old fishing quarter, backed by a promenade lined with restaurants and chiringuitos.

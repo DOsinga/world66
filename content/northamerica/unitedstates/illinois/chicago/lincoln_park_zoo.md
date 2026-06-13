@@ -2,12 +2,14 @@
 address: 2001 N Clark St, Chicago, IL 60614
 latitude: 41.9211
 longitude: -87.634
+neighbourhood: Lincoln Park
 opening_hours: varies by season
 phone: 312-742-2000
-snippet: "One of America's oldest free zoos, in the heart of Chicago's North Side"
+snippet: One of America's oldest free zoos, in the heart of Chicago's North Side
 tags:
 - things_to_do
 - zoo
+- lincoln_park
 title: Lincoln Park Zoo
 type: poi
 url: www.lpzoo.org

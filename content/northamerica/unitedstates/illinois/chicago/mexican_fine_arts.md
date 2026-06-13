@@ -3,6 +3,7 @@ address: 1852 W 19th St, Chicago, IL 60608
 category: Museum
 latitude: 41.8561
 longitude: -87.673
+neighbourhood: Pilsen
 phone: 312-738-1503
 snippet: Free museum of Mexican art in the heart of Pilsen
 tags:

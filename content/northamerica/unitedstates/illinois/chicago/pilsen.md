@@ -2,13 +2,17 @@
 latitude: 41.8554
 longitude: -87.6658
 snippet: Chicago's Mexican neighbourhood, dense with murals, taquerias, and galleries
+sources:
+- https://en.wikipedia.org/wiki/Pilsen,_Chicago
 tags:
 - things_to_do
 - neighbourhood
 title: Pilsen
-type: poi
-sources:
-- https://en.wikipedia.org/wiki/Pilsen,_Chicago
+type: neighbourhood
+image: pilsen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Architecture_in_Pilsen_Neighborhood_-_Chicago_-_Illinois_-_USA_-_01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Adam Jones, Ph.D.
 ---
 
 Pilsen is the heart of Mexican Chicago, a working-class neighbourhood on the Lower West Side where 18th Street is lined with taquerias, bakeries, and restaurants that have served the community for generations. The neighbourhood takes its name from the Bohemian city -- Czech and Slovak immigrants settled here in the late 19th century before Mexican families arrived in the 1950s and transformed its character.

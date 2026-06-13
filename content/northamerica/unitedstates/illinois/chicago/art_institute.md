@@ -2,17 +2,20 @@
 address: 111 S Michigan Ave, Chicago, IL 60603
 latitude: 41.8796
 longitude: -87.6237
+neighbourhood: The Loop
 opening_hours: Thu-Mon 11:00 AM - 5:00 PM, closed Tue-Wed
 phone: 312-443-3600
-snippet: One of the finest art museums in the world, anchored by the lions on Michigan Ave
+snippet: One of the finest art museums in the world, anchored by the lions on Michigan
+  Ave
+sources:
+- https://en.wikipedia.org/wiki/Art_Institute_of_Chicago
 tags:
 - things_to_do
 - museum
+- the_loop
 title: Art Institute of Chicago
 type: poi
 url: www.artic.edu
-sources:
-- https://en.wikipedia.org/wiki/Art_Institute_of_Chicago
 ---
 
 The Art Institute holds one of the most impressive permanent collections in any American museum. The Impressionist and Post-Impressionist galleries are world-class -- Georges Seurat's "A Sunday on La Grande Jatte" is here, as is Grant Wood's "American Gothic" and Edward Hopper's "Nighthawks." The medieval armor collection is a surprise favorite. The Modern Wing, added in 2009 and designed by Renzo Piano, doubles as an architectural statement.

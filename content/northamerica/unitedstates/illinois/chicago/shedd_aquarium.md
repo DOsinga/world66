@@ -3,11 +3,13 @@ address: 1200 S Lake Shore Dr, Chicago, IL 60605
 category: Sight
 latitude: 41.8676
 longitude: -87.614
+neighbourhood: South Loop
 phone: 312-939-2438
 snippet: World-class aquarium on the Lake Michigan waterfront
 tags:
 - things_to_do
 - sight
+- south_loop
 title: Shedd Aquarium
 type: poi
 url: www.sheddaquarium.org

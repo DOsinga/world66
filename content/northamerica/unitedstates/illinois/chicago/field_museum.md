@@ -4,12 +4,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.8663
 longitude: -87.617
+neighbourhood: South Loop
 opening_hours: 9:00 AM - 5:00 PM daily
 phone: 312-922-9410
 snippet: Home to Sue, the world's most complete T. Rex skeleton
 tags:
 - things_to_do
 - museum
+- south_loop
 title: Field Museum
 type: poi
 url: www.fieldmuseum.org

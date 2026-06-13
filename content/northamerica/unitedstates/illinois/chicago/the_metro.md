@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.9498
 longitude: -87.659
+neighbourhood: Lakeview and Wrigleyville
 phone: 773-549-0203
 snippet: Legendary Wrigleyville venue that launched the Pumpkins
 tags:
 - bars_and_cafes
 - bar
+- lakeview
 title: Metro
 type: poi
 url: www.metrochicago.com

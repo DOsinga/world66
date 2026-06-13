@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - retiro
+- retiro_barrio
 title: Naval Museum
 type: poi
 ---

@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - landmark
 - retiro
+- retiro_barrio
 title: Puerta de Alcala
 type: poi
 ---

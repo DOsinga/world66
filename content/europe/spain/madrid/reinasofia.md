@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - retiro
+- lavapies
 title: Museo Reina Sofía
 type: poi
 ---

@@ -6,6 +6,7 @@ tags:
 - la_latina
 - sight
 - architecture
+- lalatina
 title: Basilica of San Francisco el Grande
 type: poi
 ---

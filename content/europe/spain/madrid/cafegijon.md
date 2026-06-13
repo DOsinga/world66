@@ -5,6 +5,7 @@ tags:
 - bars_and_cafes
 - eating_out
 - retiro
+- retiro_barrio
 title: Café Gijón
 type: poi
 ---

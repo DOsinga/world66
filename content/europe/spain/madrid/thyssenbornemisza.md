@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - retiro
+- huertas
 title: Thyssen-Bornemisza Museum
 type: poi
 ---

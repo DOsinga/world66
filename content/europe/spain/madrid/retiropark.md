@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 - retiro
+- retiro_barrio
 title: Retiro Park
 type: poi
 ---

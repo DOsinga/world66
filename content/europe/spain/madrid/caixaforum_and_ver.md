@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - architecture
 - retiro
+- retiro_barrio
 title: CaixaForum and Vertical Garden
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 - retiro
+- retiro_barrio
 title: Real Jardín Botánico
 type: poi
 ---

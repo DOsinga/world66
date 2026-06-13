@@ -1,13 +1,15 @@
 ---
-title: "Vietnamese Coffee Culture"
-type: poi
-tags:
-  - bars_and_cafes
-  - cafe
 latitude: 10.7769
 longitude: 106.7009
-snippet: "Strong drip-filtered robusta coffee, drunk everywhere — a cornerstone of Saigon daily life"
 score: 8.1
+snippet: Strong drip-filtered robusta coffee, drunk everywhere — a cornerstone of
+  Saigon daily life
+tags:
+- bars_and_cafes
+- cafe
+- district_1
+title: Vietnamese Coffee Culture
+type: poi
 ---
 
 Vietnamese coffee is among the strongest in the world — robusta beans, dark-roasted, brewed through a small metal drip filter (phin) directly over a glass of ice and condensed milk. The result is cà phê sữa đá: thick, sweet, intensely caffeinated, and drunk through a straw. It is the fuel that runs Saigon.

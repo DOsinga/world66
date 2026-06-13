@@ -1,15 +1,16 @@
 ---
-title: "Phở Hòa"
-type: poi
-tags:
-  - eating_out
-  - restaurant
-  - vietnamese
-  - pho
 latitude: 10.7757
 longitude: 106.6879
-snippet: "Famous pho restaurant on Pasteur Street, open since 1960"
 score: 7.8
+snippet: Famous pho restaurant on Pasteur Street, open since 1960
+tags:
+- eating_out
+- restaurant
+- vietnamese
+- pho
+- pham_ngu_lao
+title: Phở Hòa
+type: poi
 ---
 
 Phở Hòa on Pasteur Street has been serving phở bò (beef noodle soup) since 1960, surviving the change of regime and becoming one of the most consistently recommended pho restaurants in the city. The broth is clear, deeply flavoured, and arrives with a plate of fresh herbs, bean sprouts, lime, and chilli on the side.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - park
 - landmark
+- chamberi_barrio
 title: Parque de Berlín
 type: poi
 ---

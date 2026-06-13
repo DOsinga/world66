@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - bar
 - sol
+- lalatina
 title: Casa Labra
 type: poi
 ---

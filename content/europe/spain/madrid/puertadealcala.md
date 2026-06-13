@@ -7,6 +7,7 @@ tags:
 - landmark
 - retiro
 - retiro_barrio
+- huertas
 title: Puerta de Alcala
 type: poi
 ---

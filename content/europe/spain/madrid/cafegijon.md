@@ -6,6 +6,7 @@ tags:
 - eating_out
 - retiro
 - retiro_barrio
+- huertas
 title: Café Gijón
 type: poi
 ---

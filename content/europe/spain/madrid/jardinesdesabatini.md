@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - sight
 - sol
+- arguelles
 title: Sabatini Gardens
 type: poi
 ---

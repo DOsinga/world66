@@ -6,6 +6,7 @@ tags:
 - sight
 - architecture
 - sol
+- arguelles
 title: Almudena Cathedral
 type: poi
 ---

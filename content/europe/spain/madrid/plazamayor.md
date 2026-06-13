@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - landmark
 - sol
+- lalatina
 title: Plaza Mayor
 type: poi
 ---

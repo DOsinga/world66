@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - museum
 - huertas
+- lalatina
 title: Lope de Vega House Museum
 type: poi
 ---

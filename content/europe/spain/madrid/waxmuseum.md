@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - museum
 - huertas
+- chueca
 title: Wax Museum
 type: poi
 ---

@@ -10,6 +10,7 @@ tags:
 - museum
 - retiro
 - lavapies
+- huertas
 title: Museo Reina Sofía
 type: poi
 ---

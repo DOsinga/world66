@@ -3,13 +3,14 @@ title: Malasaña
 type: neighbourhood
 latitude: 40.4259
 longitude: -3.7037
-tags:
-- things_to_do
-- neighbourhood
 story: The neighbourhood is named after Manuela Malasaña, a 15-year-old seamstress
   shot by Napoleonic troops on 2 May 1808 during the popular uprising against the
   French occupation. Goya's two paintings of that day, both in the Prado, are the
   great visual record of the event.
+tags:
+- things_to_do
+- neighbourhood
+- malasana
 image: malasana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Madrid_-_Malasa%C3%B1a,_Plaza_Juan_Pujol_1.jpg
 image_license: CC0

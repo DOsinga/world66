@@ -10,6 +10,7 @@ tags:
 - museum
 - retiro
 - retiro_barrio
+- lavapies
 title: Railway Museum
 type: poi
 ---

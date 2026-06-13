@@ -8,6 +8,7 @@ tags:
 - architecture
 - retiro
 - retiro_barrio
+- huertas
 title: CaixaForum and Vertical Garden
 type: poi
 ---

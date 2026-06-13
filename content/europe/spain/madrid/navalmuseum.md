@@ -8,6 +8,7 @@ tags:
 - museum
 - retiro
 - retiro_barrio
+- huertas
 title: Naval Museum
 type: poi
 ---

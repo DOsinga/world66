@@ -7,6 +7,7 @@ tags:
 - architecture
 - retiro
 - retiro_barrio
+- huertas
 title: Atocha Station Tropical Garden
 type: poi
 ---

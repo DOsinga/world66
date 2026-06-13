@@ -9,6 +9,7 @@ tags:
 - museum
 - retiro
 - retiro_barrio
+- huertas
 title: The Prado Museum
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: -3.6989
 tags:
 - things_to_do
 - neighbourhood
+- chueca
 image: chueca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Madrid_-_Plaza_de_Chueca_2.jpg
 image_license: CC0

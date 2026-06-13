@@ -8,6 +8,7 @@ tags:
 - landmark
 - retiro
 - retiro_barrio
+- huertas
 title: Real Jardín Botánico
 type: poi
 ---

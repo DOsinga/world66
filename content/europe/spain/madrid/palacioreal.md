@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - sol
+- arguelles
 title: Palacio Real
 type: poi
 url: www.patrimonionacional.es

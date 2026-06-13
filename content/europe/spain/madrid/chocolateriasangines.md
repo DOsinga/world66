@@ -5,6 +5,7 @@ tags:
 - bars_and_cafes
 - eating_out
 - sol
+- lalatina
 title: Chocolatería San Ginés
 type: poi
 ---

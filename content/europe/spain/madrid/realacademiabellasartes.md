@@ -5,6 +5,7 @@ tags:
 - things_to_do
 - museum
 - huertas
+- sol
 title: Real Academia de Bellas Artes de San Fernando
 type: poi
 ---

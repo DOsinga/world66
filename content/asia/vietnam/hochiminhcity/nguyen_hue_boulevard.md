@@ -1,16 +1,17 @@
 ---
-title: "Nguyen Hue Boulevard"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - neighbourhood
 latitude: 10.7741
 longitude: 106.7036
-snippet: "Tree-lined pedestrian boulevard from City Hall to the Saigon River"
-sources:
-  - https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87_Boulevard
 score: 6.9
+snippet: Tree-lined pedestrian boulevard from City Hall to the Saigon River
+sources:
+- https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87_Boulevard
+tags:
+- things_to_do
+- sight
+- neighbourhood
+- district_1
+title: Nguyen Hue Boulevard
+type: poi
 ---
 
 Nguyen Hue Boulevard is the city's pedestrian promenade, running from the Hôtel de Ville (City Hall) at its northern end down to the waterfront. The wide tree-lined walkway was created in the 1980s on the site of a canal; it has become the city's main public gathering space, used for the Tết celebrations, outdoor concerts, protests, and evening strolls by Vietnamese families.

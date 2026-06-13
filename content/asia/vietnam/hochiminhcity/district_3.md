@@ -1,13 +1,15 @@
 ---
-title: "District 3"
-type: poi
+latitude: 10.785
+longitude: 106.684
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: 10.7850
-longitude: 106.6840
-snippet: "Quieter, more residential district north of District 1, popular with expats and good for restaurants"
-score: 7.9
+- things_to_do
+- neighbourhood
+title: District 3
+type: neighbourhood
+image: district_3.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Medical_Checkpoint_at_Saigon_Railway_Station.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Magicknight94
 ---
 
 District 3 is the immediate neighbour of District 1 to the north and west, and has a noticeably different character: more residential, tree-lined streets, fewer tourists, and a concentration of good restaurants and cafés popular with the Vietnamese middle class and expats. It is an excellent alternative base to District 1 — quieter at night and more representative of how Saigon actually lives.

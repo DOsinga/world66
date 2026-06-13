@@ -1,17 +1,19 @@
 ---
-title: "Ho Chi Minh City Hall (Hôtel de Ville)"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - landmark
 latitude: 10.7765
 longitude: 106.7009
-snippet: "Ornate French colonial town hall at the top of Nguyen Hue Boulevard — not open to visitors but magnificent at night"
-sources:
-  - https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Hall
 score: 6.8
+snippet: Ornate French colonial town hall at the top of Nguyen Hue Boulevard — not
+  open to visitors but magnificent at night
+sources:
+- https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Hall
+tags:
+- things_to_do
+- sight
+- architecture
+- landmark
+- district_1
+title: Ho Chi Minh City Hall (Hôtel de Ville)
+type: poi
 ---
 
 Built between 1901 and 1908 in French colonial baroque style, the Hôtel de Ville de Saigon is one of the most photographed buildings in Ho Chi Minh City. It sits at the northern end of Nguyen Hue Boulevard, its cream-and-yellow facade and clock tower framing the pedestrian promenade below.

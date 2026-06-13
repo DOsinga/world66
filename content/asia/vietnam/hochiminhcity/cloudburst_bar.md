@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 10.768044
 longitude: 106.693639
+score: 5.9
 snippet: Late-night backpacker bar with indie and rock music
 tags:
 - bars_and_cafes
 - bar
+- pham_ngu_lao
 title: Cloudburst Bar
 type: poi
-score: 5.9
 ---
 
 A late-night bar on De Tham Street in the heart of Saigon's backpacker district. The music leans toward indie, rock, and dance, and the atmosphere is relaxed and welcoming. Drinks are cheap by District 1 standards, with generous pours.

@@ -2,18 +2,18 @@
 admission: Free
 latitude: 43.7672
 longitude: 11.2424
+score: 7.5
 snippet: Oltrarno's lively square with Brunelleschi church and aperitivo bars
 tags:
 - One Day in Florence
 - 24 Hours in Florence
 - 3 Days in Florence
 - things_to_do
-- church
 - square
-- restaurant
-- bar
+- oltrarno
+- san_frediano
 title: Piazza Santo Spirito
-type: neighbourhood
+type: poi
 ---
 
 The beating heart of the Oltrarno neighbourhood — a leafy square anchored by Brunelleschi's unfinished-facade church of Santo Spirito, ringed with restaurants and bars, and populated throughout the day by students, residents, and visitors who've crossed the Arno to find a less tourist-heavy Florence. In the evening it becomes one of the city's best aperitivo spots.

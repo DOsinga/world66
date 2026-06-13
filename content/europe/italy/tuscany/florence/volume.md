@@ -5,6 +5,7 @@ done:
 latitude: 43.7673
 longitude: 11.2426
 opening_hours: Daily 09:00–02:00
+score: 6.5
 snippet: Bookshop-bar with Negronis on Piazza Santo Spirito
 tags:
 - 24 Hours in Florence
@@ -12,9 +13,9 @@ tags:
 - bars_and_cafes
 - bar
 - square
+- san_frediano
 title: Volume
 type: poi
-score: 6.5
 ---
 
 A laid-back bookshop-bar right on Piazza Santo Spirito, recommended for ending the evening with a classic Negroni at a piazza-side table. One of the best aperitivo spots in the Oltrarno — unpretentious, full of locals, and open late. The book collection (mostly Italian, some English) lines the walls and is browsable if you arrive early.

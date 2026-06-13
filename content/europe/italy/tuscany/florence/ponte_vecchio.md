@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 43.768
 longitude: 11.2531
+score: 8.3
 snippet: Medieval bridge lined with goldsmiths' shops over the Arno
 tags:
 - One Day in Florence
@@ -11,9 +12,9 @@ tags:
 - 3 Days in Florence
 - things_to_do
 - bridge
+- signoria
 title: Ponte Vecchio
 type: poi
-score: 8.3
 ---
 
 Florence's oldest bridge, built in 1345 and the only Florentine bridge not destroyed by the retreating Germans in 1944. The shops lining both sides have been occupied by goldsmiths since 1593, when the Medici expelled the butchers who preceded them. The Vasari Corridor runs above the shops, connecting the Uffizi to Palazzo Pitti.

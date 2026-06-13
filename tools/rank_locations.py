@@ -118,10 +118,11 @@ class State:
 
 CONTINENTS = {'africa', 'antarctica', 'asia', 'australiaandpacific', 'europe',
                'northamerica', 'southamerica'}
+SCORABLE_LOC_TYPES = {'city', 'feature', 'island'}
 
 
 def discover_locations() -> list[tuple[str, str]]:
-    """Scan content/ for type: location pages under known continents."""
+    """Scan content/ for below-region location pages under known continents."""
     found = []
     for md_file in sorted(CONTENT_DIR.rglob('*.md')):
         rel = md_file.relative_to(CONTENT_DIR)
@@ -132,6 +133,8 @@ def discover_locations() -> list[tuple[str, str]]:
         except Exception:
             continue
         if meta.get('type') != 'location':
+            continue
+        if meta.get('loc_type') not in SCORABLE_LOC_TYPES:
             continue
         if md_file.parent.name == md_file.stem:
             content_path = str(rel.parent)
@@ -147,7 +150,7 @@ def cmd_discover(args) -> None:
     existing = set(state.ratings.keys())
 
     locations = discover_locations()
-    print(f'Found {len(locations)} location pages.')
+    print(f'Found {len(locations)} below-region location pages.')
 
     if args.sample is not None:
         if args.sample < BATCH_SIZE:

@@ -1,12 +1,13 @@
 ---
-title: Shanghai Centre (Portman Ritz-Carlton)
-type: poi
+latitude: 31.2215
+longitude: 121.4465
+score: 6.5
 tags:
 - things_to_do
 - sight
 - jing_an
-latitude: 31.2215
-longitude: 121.4465
+title: Shanghai Centre (Portman Ritz-Carlton)
+type: poi
 ---
 
 A mixed-use development from 1990 on Nanjing Road West that was the first significant Western-standard commercial and residential complex in Shanghai — pre-dating Pudong's development and serving as the anchor for the expatriate business community through the 1990s. The complex includes the Portman Ritz-Carlton, the Shanghai Playhouse (a Western-standard theatre that brought international touring productions to Shanghai for the first time), and retail and office space.

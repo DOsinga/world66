@@ -1,12 +1,13 @@
 ---
-title: North Bund (Sichuan Road North)
-type: poi
+latitude: 31.2467
+longitude: 121.4892
+score: 6.5
 tags:
 - things_to_do
 - sight
 - the_bund
-latitude: 31.2467
-longitude: 121.4892
+title: North Bund (Sichuan Road North)
+type: poi
 ---
 
 The North Bund, north of Suzhou Creek and less visited than the main Bund strip, has been developed since 2010 with contemporary towers including the Shanghai Tower viewing area and several mixed-use projects that offer a different perspective on the Bund experience — less crowded, more local, with better access to the waterfront.

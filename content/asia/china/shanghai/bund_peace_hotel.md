@@ -1,12 +1,13 @@
 ---
-title: Peace Hotel
-type: poi
+latitude: 31.2407
+longitude: 121.4887
+score: 8.0
 tags:
 - things_to_do
 - sight
 - the_bund
-latitude: 31.2407
-longitude: 121.4887
+title: Peace Hotel
+type: poi
 ---
 
 The Sassoon House at the north end of the Bund, completed in 1929 and now the Fairmont Peace Hotel, is the most architecturally distinctive building on the waterfront — an Art Deco pyramid tower in green copper, built by Elias David Sassoon as the centre of his Shanghai trading empire. The hotel was where Noël Coward wrote Private Lives in 1930.

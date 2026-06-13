@@ -1,12 +1,13 @@
 ---
-title: Nanjing Road West (Luxury Shopping)
-type: poi
+latitude: 31.2246
+longitude: 121.4527
+score: 7.5
 tags:
 - things_to_do
 - shopping
 - jing_an
-latitude: 31.2246
-longitude: 121.4527
+title: Nanjing Road West (Luxury Shopping)
+type: poi
 ---
 
 The continuation of Nanjing Road west from People's Square into the Jing'an district transforms from the tourist-oriented East Nanjing Road into a genuine luxury retail street — PRADA, Hermès, Louis Vuitton, Cartier, and the Chinese high-end anchors in purpose-built malls (Plaza 66, Jing'an Kerry Centre). This is where Shanghai's wealthy residents actually shop rather than where tourists are directed.

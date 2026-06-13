@@ -1,12 +1,13 @@
 ---
-title: Zhongshan Road South (Nanpu Bridge)
-type: poi
+latitude: 31.2115
+longitude: 121.4827
+score: 5.5
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2115
-longitude: 121.4827
+title: Zhongshan Road South (Nanpu Bridge)
+type: poi
 ---
 
 The Nanpu Bridge over the Huangpu River, completed in 1991, was the first of Shanghai's six major river crossings and connects the Huangpu district to the Pudong New Area. The approach ramp on the west bank, which spirals down from bridge height to street level over a 1-kilometre radius, is an extraordinary piece of infrastructure engineering visible from the Bund Sightseeing Tunnel exit.

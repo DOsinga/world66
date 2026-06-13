@@ -1,12 +1,13 @@
 ---
-title: Lu Xun Park
-type: poi
+latitude: 31.2718
+longitude: 121.4886
+score: 7.0
 tags:
 - things_to_do
 - park
 - hongkou
-latitude: 31.2718
-longitude: 121.4886
+title: Lu Xun Park
+type: poi
 ---
 
 The main park of Hongkou district, Lu Xun Park contains the tomb of Lu Xun — China's most important modern literary figure — in the northeast corner, and a memorial hall adjacent to it. The park itself is a pleasant public green space used by Hongkou residents for morning exercise, weekend recreation, and the outdoor gatherings of retired people that characterize Chinese urban parks.

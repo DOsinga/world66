@@ -1,12 +1,13 @@
 ---
-title: Maoming Road South (Restaurant Strip)
-type: poi
+latitude: 31.2158
+longitude: 121.4641
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - xintiandi
-latitude: 31.2158
-longitude: 121.4641
+title: Maoming Road South (Restaurant Strip)
+type: poi
 ---
 
 The south section of Maoming Road, between Huaihai Road and Nanchang Road, concentrates some of Shanghai's most established French Concession restaurants — a mix of long-operating Shanghai cuisine establishments, new European restaurants, and the bars that have been here since the 1990s. The road is less tourist-saturated than Xintiandi or Tianzifang and more consistently used by French Concession residents.

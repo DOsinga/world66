@@ -1,12 +1,13 @@
 ---
-title: Jin Mao Tower
-type: poi
+latitude: 31.2355
+longitude: 121.4996
+score: 8.5
 tags:
 - things_to_do
 - sight
 - pudong
-latitude: 31.2355
-longitude: 121.4996
+title: Jin Mao Tower
+type: poi
 ---
 
 The first of Lujiazui's supertall towers, completed 1999 by SOM, the Jin Mao Tower is a 88-storey pagoda-derived design that incorporates the number 8 (lucky in Chinese numerology) into every aspect of its proportions. The tower was, briefly, the third-tallest building in the world and established the aesthetic direction of Shanghai's skyline.

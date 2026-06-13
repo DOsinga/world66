@@ -1,12 +1,13 @@
 ---
-title: Shanghai Science and Technology Museum
-type: poi
+latitude: 31.2201
+longitude: 121.5432
+score: 7.0
 tags:
 - things_to_do
 - museum
 - lujiazui
-latitude: 31.2201
-longitude: 121.5432
+title: Shanghai Science and Technology Museum
+type: poi
 ---
 
 A large hands-on science museum at Century Avenue in the outer Lujiazui/Zhangjiang area, the Shanghai Science and Technology Museum is oriented toward family visitors with interactive exhibits on biology, physics, technology, earth science, and space exploration. The IMAX theatre complex within the building runs multiple shows daily.

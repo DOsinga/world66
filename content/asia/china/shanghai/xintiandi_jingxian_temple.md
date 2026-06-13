@@ -1,12 +1,13 @@
 ---
-title: Jing'an Villa (Housing Complex)
-type: poi
+latitude: 31.2197
+longitude: 121.4575
+score: 5.5
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2197
-longitude: 121.4575
+title: Jing'an Villa (Housing Complex)
+type: poi
 ---
 
 A 1928–1936 housing development in the southern Jing'an/northern French Concession area, Jing'an Villa consists of 48 shikumen row houses organized around a series of interconnected lanes. The complex is one of the best-preserved examples of large-scale shikumen housing in Shanghai — still entirely residential, not converted for commercial use.

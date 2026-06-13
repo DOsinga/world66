@@ -1,12 +1,13 @@
 ---
-title: Fuxing Road West (City Center South)
-type: poi
+latitude: 31.2185
+longitude: 121.4678
+score: 6.0
 tags:
 - things_to_do
 - sight
 - city_center
-latitude: 31.2185
-longitude: 121.4678
+title: Fuxing Road West (City Center South)
+type: poi
 ---
 
 Fuxing Road runs east to west through the southern edge of the city center, forming the boundary between the French Concession and the Old Town. The western portion, in Luwan district, is one of Shanghai's best remaining examples of a pre-war residential boulevard — plane trees on both sides, Art Deco apartment buildings, and a scale that was standard for Shanghai's wealthy neighbourhoods before 1949.

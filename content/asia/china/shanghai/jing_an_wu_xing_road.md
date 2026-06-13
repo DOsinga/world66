@@ -1,12 +1,13 @@
 ---
-title: Wuding Road (Food Street)
-type: poi
+latitude: 31.232
+longitude: 121.451
+score: 6.0
 tags:
 - things_to_do
 - restaurant
 - jing_an
-latitude: 31.2320
-longitude: 121.4510
+title: Wuding Road (Food Street)
+type: poi
 ---
 
 Wuding Road in Jing'an has developed since the 2010s as one of Shanghai's better concentrated dining streets — a mixture of Shanghainese home cooking restaurants, hand-pulled noodle shops, Sichuan specialists, and newer Japanese and Korean businesses serving the neighbourhood's mixed resident population.

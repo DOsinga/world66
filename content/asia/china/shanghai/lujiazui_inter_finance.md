@@ -1,12 +1,13 @@
 ---
-title: International Finance Centre (IFC) Shanghai
-type: poi
+latitude: 31.2389
+longitude: 121.498
+score: 7.0
 tags:
 - things_to_do
 - shopping
 - lujiazui
-latitude: 31.2389
-longitude: 121.4980
+title: International Finance Centre (IFC) Shanghai
+type: poi
 ---
 
 The Shanghai IFC is a twin-tower mixed-use development on the north side of Lujiazui, containing luxury retail (one of Shanghai's best high-end malls), offices, and the Four Seasons Hotel. The mall's tenant list includes brands not found in other Shanghai malls, making it useful for shoppers interested in luxury retail rather than mass-market chains.

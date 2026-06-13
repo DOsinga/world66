@@ -1,12 +1,13 @@
 ---
-title: Weihai Road Gallery District
-type: poi
+latitude: 31.2281
+longitude: 121.4605
+score: 6.0
 tags:
 - things_to_do
 - art
 - jing_an
-latitude: 31.2281
-longitude: 121.4605
+title: Weihai Road Gallery District
+type: poi
 ---
 
 The blocks around Weihai Road and Xikang Road in Jing'an have developed a secondary gallery cluster, separate from M50, with a focus on established contemporary Chinese artists and a clientele of serious collectors. The galleries here are generally more commercial than M50's artist-studio model and more accessible for visitors who want to see finished work.

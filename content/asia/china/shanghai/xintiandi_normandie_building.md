@@ -1,12 +1,13 @@
 ---
-title: Normandie Apartments (Wukang Mansion)
-type: poi
+latitude: 31.2152
+longitude: 121.4478
+score: 8.0
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2152
-longitude: 121.4478
+title: Normandie Apartments (Wukang Mansion)
+type: poi
 ---
 
 The Wukang Mansion at the north end of Wukang Road — where the road meets Huaihai Road in a sweeping curve — is a 1924 French-style apartment building with a distinctive triangular facade that follows the convergence of two streets. The building is the most photographed architecture in the French Concession and the defining image of the district's pre-war residential character.

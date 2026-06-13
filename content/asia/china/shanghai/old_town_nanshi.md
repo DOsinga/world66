@@ -1,12 +1,13 @@
 ---
-title: Nanshi Old Town Streets
-type: poi
+latitude: 31.2244
+longitude: 121.4945
+score: 7.0
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2244
-longitude: 121.4945
+title: Nanshi Old Town Streets
+type: poi
 ---
 
 Away from the Yu Garden tourist zone, the lanes of the Nanshi district retain something of the pre-modern Chinese urban fabric that existed before Shanghai's rapid development — narrow streets, courtyard houses, local shops, and a pace of life that contrasts sharply with the city a few blocks away. The area between Fangbang Road and Zhonghua Road has the best surviving examples.

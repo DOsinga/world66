@@ -1,12 +1,13 @@
 ---
-title: Sinan Mansions
-type: poi
+latitude: 31.2172
+longitude: 121.4716
+score: 7.0
 tags:
 - things_to_do
 - sight
 - city_center
-latitude: 31.2172
-longitude: 121.4716
+title: Sinan Mansions
+type: poi
 ---
 
 A cluster of 51 restored Republican-era villas on Sinan Road, converted into a mixed-use complex of restaurants, cafés, and cultural venues around 2010. The buildings — French Concession-style villas from the 1920s to 1940s — have been accurately restored and the complex provides one of the better opportunities in Shanghai to experience the architectural quality of the pre-war residential districts without visiting a private home.

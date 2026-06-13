@@ -1,12 +1,13 @@
 ---
-title: Columbia Circle (Former Columbia Country Club)
-type: poi
+latitude: 31.1997
+longitude: 121.4461
+score: 7.0
 tags:
 - things_to_do
 - sight
 - tianzifang_area
-latitude: 31.1997
-longitude: 121.4461
+title: Columbia Circle (Former Columbia Country Club)
+type: poi
 ---
 
 A restored 1920s country club complex in the Xujiahui district, southwest of Tianzifang, the former Columbia Country Club has been converted into a mixed retail and cultural complex maintaining the original Californian Spanish colonial architecture. The main clubhouse, tennis courts, and outdoor pool area are preserved; the interior houses boutiques and restaurants.

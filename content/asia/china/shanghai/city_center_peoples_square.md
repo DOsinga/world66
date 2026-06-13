@@ -1,12 +1,13 @@
 ---
-title: People's Square (Renmin Guangchang)
-type: poi
+latitude: 31.2294
+longitude: 121.4737
+score: 8.0
 tags:
 - things_to_do
 - sight
 - city_center
-latitude: 31.2294
-longitude: 121.4737
+title: People's Square (Renmin Guangchang)
+type: poi
 ---
 
 The central civic square of Shanghai, occupying the site of the former Shanghai Race Course on the boundary between the Old Town and the International Settlement. People's Square was developed from the 1950s onward and now anchors the main transit hub (multiple metro lines converge here) and the surrounding cluster of municipal cultural institutions.

@@ -1,12 +1,13 @@
 ---
-title: The Bund Promenade
-type: poi
+latitude: 31.237
+longitude: 121.4882
+score: 9.5
 tags:
 - things_to_do
 - sight
 - the_bund
-latitude: 31.2370
-longitude: 121.4882
+title: The Bund Promenade
+type: poi
 ---
 
 The riverside promenade along the west bank of the Huangpu River — the Bund proper — runs for about a mile between Suzhou Creek to the north and the Old French Concession to the south. The view across the water to the Pudong skyline is the most photographed in Shanghai and is best at night when both banks are illuminated.

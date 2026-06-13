@@ -1,12 +1,13 @@
 ---
-title: Shanghai World Financial Center (SWFC)
-type: poi
+latitude: 31.2355
+longitude: 121.5005
+score: 8.5
 tags:
 - things_to_do
 - sight
 - pudong
-latitude: 31.2355
-longitude: 121.5005
+title: Shanghai World Financial Center (SWFC)
+type: poi
 ---
 
 The 492-metre SWFC, completed in 2008, contains a distinctive trapezoidal aperture at the top — originally designed as a circle but changed to avoid political sensitivity about the Japanese developer's Rising Sun imagery. The Sky Walk 100 on floor 100 (474 metres) has a glass floor section and a glass-walled walkway with views straight down.

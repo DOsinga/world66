@@ -1,14 +1,15 @@
 ---
-title: Jin Mao Tower
-type: poi
 latitude: 31.2355
 longitude: 121.5012
+score: 8.5
 tags:
 - things_to_do
 - architecture
 - sight
 - lujiazui
 - pudong
+title: Jin Mao Tower
+type: poi
 ---
 
 The most architecturally satisfying of Pudong's three signature skyscrapers — an 88-storey tower built in 1998 that incorporates traditional Chinese pagoda proportions into its glass-and-steel exterior in a way that actually works. The tower steps back in thirteen stages that echo the horizontal banding of Tang Dynasty towers, tapering to a spire at 421 metres.

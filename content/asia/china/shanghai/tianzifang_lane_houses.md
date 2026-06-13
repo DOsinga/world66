@@ -1,12 +1,13 @@
 ---
-title: Tianzifang Lane House Complex
-type: poi
+latitude: 31.2108
+longitude: 121.4707
+score: 8.5
 tags:
 - things_to_do
 - sight
 - tianzifang_area
-latitude: 31.2108
-longitude: 121.4707
+title: Tianzifang Lane House Complex
+type: poi
 ---
 
 The core of Tianzifang is a preserved complex of shikumen lane houses from the 1930s — approximately three interconnected lanes (Lu 210, Lu 248, Lu 274) with original courtyard houses converted to shops, galleries, cafés, and bars. The conversion began organically in the early 2000s when artists and small businesses moved into affordable lane house spaces; the current Tianzifang is a controlled tourist destination with carefully managed character.

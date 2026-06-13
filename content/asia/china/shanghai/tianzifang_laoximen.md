@@ -1,12 +1,13 @@
 ---
-title: Laoximen (Old Western Gate Area)
-type: poi
+latitude: 31.2234
+longitude: 121.4974
+score: 6.0
 tags:
 - things_to_do
 - sight
 - tianzifang_area
-latitude: 31.2234
-longitude: 121.4974
+title: Laoximen (Old Western Gate Area)
+type: poi
 ---
 
 The Laoximen area, north and east of the Old Town, was the commercial district that grew up outside the old city gate and served as the transition zone between the Chinese Old Town and the Foreign Concessions. The area has been largely redeveloped but retains some sections of the pre-war commercial building stock that characterised this border zone.

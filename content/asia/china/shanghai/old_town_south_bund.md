@@ -1,12 +1,13 @@
 ---
-title: South Bund Soft-Spinning Material Market
-type: poi
+latitude: 31.2214
+longitude: 121.4882
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - old_town
-latitude: 31.2214
-longitude: 121.4882
+title: South Bund Soft-Spinning Material Market
+type: poi
 ---
 
 A multi-floor fabric and tailoring market in the South Bund area, the Soft-Spinning Material Market (often called the South Bund Fabric Market) is the most practical shopping venue for custom-tailored clothing in Shanghai. The ground floor has fabric dealers selling silk, wool, linen, and cotton by the metre; the upper floors have tailors who will produce suits, dresses, and shirts from fabric purchased downstairs.

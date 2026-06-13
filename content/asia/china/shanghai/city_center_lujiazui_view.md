@@ -1,12 +1,13 @@
 ---
-title: The Bund View from Pudong
-type: poi
+latitude: 31.2329
+longitude: 121.4747
+score: 8.0
 tags:
 - things_to_do
 - sight
 - city_center
-latitude: 31.2329
-longitude: 121.4747
+title: The Bund View from Pudong
+type: poi
 ---
 
 The view across the Huangpu River from the central waterfront — looking east from the Bund promenade — is the defining image of contemporary Shanghai. The Pudong skyline (Shanghai Tower, Shanghai World Financial Center, Jin Mao Tower) rising against the sky directly across the river from the 1920s and 1930s colonial buildings on the Bund provides the visual summary of the city's entire compressed history.

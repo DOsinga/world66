@@ -1,12 +1,13 @@
 ---
-title: Confucius Temple (Wenmiao)
-type: poi
+latitude: 31.2229
+longitude: 121.488
+score: 7.0
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2229
-longitude: 121.4880
+title: Confucius Temple (Wenmiao)
+type: poi
 ---
 
 Shanghai's Confucius Temple, dating from 1855 (rebuilt after the Taiping Rebellion destroyed the original), occupies a formal compound in the southern Old Town. The temple complex includes the main hall, gardens, and a book market that operates on weekends — one of the few remaining open-air book markets in central China.

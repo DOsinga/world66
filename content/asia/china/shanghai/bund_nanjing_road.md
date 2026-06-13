@@ -1,12 +1,13 @@
 ---
-title: Nanjing Road East (Walking Street)
-type: poi
+latitude: 31.2367
+longitude: 121.481
+score: 8.5
 tags:
 - things_to_do
 - shopping
 - the_bund
-latitude: 31.2367
-longitude: 121.4810
+title: Nanjing Road East (Walking Street)
+type: poi
 ---
 
 Nanjing Road East from the Bund west to People's Square is one of the busiest pedestrian commercial streets in the world — about 1.2 kilometres of department stores, chain retailers, restaurants, and tourist shops visited by 1 million people per day during peak season. It is simultaneously a genuine Shanghai commercial artery and one of the most tourist-saturated streets in China.

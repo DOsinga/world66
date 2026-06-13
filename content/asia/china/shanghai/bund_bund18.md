@@ -1,12 +1,13 @@
 ---
-title: Bund 18 and Bund Finance Centre
-type: poi
+latitude: 31.2377
+longitude: 121.4898
+score: 7.0
 tags:
 - things_to_do
 - bars_and_cafes
 - the_bund
-latitude: 31.2377
-longitude: 121.4898
+title: Bund 18 and Bund Finance Centre
+type: poi
 ---
 
 The rooftop bars and restaurants in the upper floors of the Bund's colonial buildings are a Shanghai institution, offering elevated views of the Pudong skyline with the Huangpu River in between. Bund 18 (the former Chartered Bank of India, Australia and China building) and the Bund Finance Centre have the most active food and beverage operations at height.

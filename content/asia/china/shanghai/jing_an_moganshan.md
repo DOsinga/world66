@@ -1,12 +1,13 @@
 ---
-title: M50 Creative Park (Moganshan Road)
-type: poi
+latitude: 31.2493
+longitude: 121.4518
+score: 8.0
 tags:
 - things_to_do
 - art
 - jing_an
-latitude: 31.2493
-longitude: 121.4518
+title: M50 Creative Park (Moganshan Road)
+type: poi
 ---
 
 The concentration of contemporary art galleries in repurposed industrial buildings along Moganshan Road is Shanghai's equivalent of Beijing's 798 — a cluster of independent galleries, studios, and creative businesses in a former textile mill complex that has been the centre of Shanghai's commercial art world since the early 2000s.

@@ -1,12 +1,13 @@
 ---
-title: Shanghai Tower Observation (Top of the World)
-type: poi
+latitude: 31.2354
+longitude: 121.5013
+score: 9.0
 tags:
 - things_to_do
 - sight
 - lujiazui
-latitude: 31.2354
-longitude: 121.5013
+title: Shanghai Tower Observation (Top of the World)
+type: poi
 ---
 
 The 118th floor observation deck of Shanghai Tower at 546 metres is the highest public access point in China and the second-highest observation deck in the world. On a clear day — best after rainfall when particulates clear — the view extends across the Yangtze Delta to the horizon. The city below is reduced to a pattern of grids and curves, the Bund waterfront a thin line at the bend of the river.

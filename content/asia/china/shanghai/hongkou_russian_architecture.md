@@ -1,12 +1,13 @@
 ---
-title: Broadway Mansions (Astor House Hotel Area)
-type: poi
+latitude: 31.2484
+longitude: 121.4918
+score: 7.0
 tags:
 - things_to_do
 - sight
 - hongkou
-latitude: 31.2484
-longitude: 121.4918
+title: Broadway Mansions (Astor House Hotel Area)
+type: poi
 ---
 
 The Broadway Mansions Hotel, a 1934 Art Deco residential tower on the north bank of Suzhou Creek at the Waibaidu Bridge, is one of the most visible landmarks at the approach to the Bund from the north. The 22-storey building was the headquarters for foreign journalists during the Sino-Japanese War and Mao's 1949 revolution — the press corps photographed the communist troops crossing the Waibaidu Bridge from the upper floors.

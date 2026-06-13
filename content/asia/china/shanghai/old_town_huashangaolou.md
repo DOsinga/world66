@@ -1,12 +1,13 @@
 ---
-title: Old Town Water Town Walks
-type: poi
+latitude: 31.2274
+longitude: 121.4923
+score: 6.0
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2274
-longitude: 121.4923
+title: Old Town Water Town Walks
+type: poi
 ---
 
 The canal network that once ran through the Nanshi Old Town has been largely filled in, but a few sections survive and have been restored as walking routes. The Zhangjiabang section near the southern Old Town offers a glimpse of what the city looked like before the Republican-era filling of the canals — the relationship between residential buildings and water, the stone embankments, and the scale of domestic life built around water transport.

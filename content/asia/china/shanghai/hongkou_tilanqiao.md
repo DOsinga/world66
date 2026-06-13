@@ -1,12 +1,13 @@
 ---
-title: Tilanqiao Prison (Former Ward Road Gaol)
-type: poi
+latitude: 31.2631
+longitude: 121.5048
+score: 6.5
 tags:
 - things_to_do
 - sight
 - hongkou
-latitude: 31.2631
-longitude: 121.5048
+title: Tilanqiao Prison (Former Ward Road Gaol)
+type: poi
 ---
 
 The former Ward Road Gaol, built in 1903 and now known as Tilanqiao Prison, is the largest prison in Asia and one of the most significant surviving examples of the International Settlement's institutional architecture. The six-storey radial cell block, built on the Pentonville model with a central surveillance hub and radiating wings, held political prisoners, criminals, and Japanese prisoner-of-war detainees through successive regimes.

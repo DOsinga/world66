@@ -1,12 +1,13 @@
 ---
-title: Xintiandi Commercial District
-type: poi
+latitude: 31.2195
+longitude: 121.4718
+score: 8.0
 tags:
 - things_to_do
 - restaurant
 - city_center
-latitude: 31.2195
-longitude: 121.4718
+title: Xintiandi Commercial District
+type: poi
 ---
 
 A pedestrianised retail and dining district in the Huangpu district, just south of the French Concession border, developed from 2001 onward by converting shikumen (stone gate) lane houses into restaurants and bars while retaining the lane house exteriors. Xintiandi was the first major adaptive reuse project in Shanghai and the model for numerous subsequent conversions.

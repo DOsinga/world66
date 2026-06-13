@@ -1,12 +1,13 @@
 ---
-title: Ferguson Lane (Wukang Road Area)
-type: poi
+latitude: 31.215
+longitude: 121.449
+score: 8.0
 tags:
 - things_to_do
 - restaurant
 - xintiandi
-latitude: 31.2150
-longitude: 121.4490
+title: Ferguson Lane (Wukang Road Area)
+type: poi
 ---
 
 Ferguson Lane — the former name of the Wukang Road area — is a complex of late 1920s buildings around a courtyard that has been converted to an upscale restaurant and café cluster. The physical environment is some of the best-preserved pre-war institutional architecture in the former French Concession: a coherent group of buildings with intact facades and courtyard spaces.

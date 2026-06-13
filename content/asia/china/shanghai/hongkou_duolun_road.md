@@ -1,12 +1,13 @@
 ---
-title: Duolun Road Cultural Street
-type: poi
+latitude: 31.2688
+longitude: 121.4888
+score: 6.5
 tags:
 - things_to_do
 - sight
 - hongkou
-latitude: 31.2688
-longitude: 121.4888
+title: Duolun Road Cultural Street
+type: poi
 ---
 
 A preserved 1930s commercial street in Hongkou, Duolun Road was where Shanghai's Republican-era literary and political intelligentsia gathered — Lu Xun, Mao Dun, Guo Moruo, and other writers and political figures who shaped 20th-century China lived and worked on this street. The street has been pedestrianised and partially restored, with historical markers identifying the former residences.

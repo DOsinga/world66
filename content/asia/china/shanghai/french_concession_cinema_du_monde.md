@@ -1,12 +1,13 @@
 ---
-title: Cathay Theatre
-type: poi
+latitude: 31.2233
+longitude: 121.4694
+score: 7.0
 tags:
 - things_to_do
 - entertainment
 - french_concession
-latitude: 31.2233
-longitude: 121.4694
+title: Cathay Theatre
+type: poi
 ---
 
 A 1932 Art Deco cinema on Huaihai Road — the finest surviving example of concession-era cinema architecture in Shanghai — the Cathay Theatre was designed by C.H. Gonda in a streamlined Art Deco style with an interior that preserves much of its original decorative scheme. The cinema is still operating, programming a mix of Chinese and international films.

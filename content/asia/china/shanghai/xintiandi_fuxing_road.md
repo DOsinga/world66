@@ -1,12 +1,13 @@
 ---
-title: Fuxing Road French Concession
-type: poi
+latitude: 31.2185
+longitude: 121.4668
+score: 7.0
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2185
-longitude: 121.4668
+title: Fuxing Road French Concession
+type: poi
 ---
 
 The east section of Fuxing Road between Ruijin Road and Sinan Road runs through the heart of the French Concession's most intact pre-war residential district. The road is tree-lined with mature plane trees, flanked by villa residences from the 1920s and 1930s, and retains the boulevard character of the original French urban design.

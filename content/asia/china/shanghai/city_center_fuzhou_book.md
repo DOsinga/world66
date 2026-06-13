@@ -1,12 +1,13 @@
 ---
-title: Fuzhou Road (Culture Street)
-type: poi
+latitude: 31.2366
+longitude: 121.4769
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - city_center
-latitude: 31.2366
-longitude: 121.4769
+title: Fuzhou Road (Culture Street)
+type: poi
 ---
 
 A street in the heart of the old International Settlement that was historically Shanghai's center for bookshops, art supply stores, and stationery dealers — a tradition that began in the 19th century and has partially survived the digital transition. The Shanghai Foreign Languages Bookstore and several large Chinese-language bookshops remain on Fuzhou Road.

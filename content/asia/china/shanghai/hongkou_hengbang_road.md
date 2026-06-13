@@ -1,12 +1,13 @@
 ---
-title: Hongkou Market Streets
-type: poi
+latitude: 31.2593
+longitude: 121.499
+score: 5.0
 tags:
 - things_to_do
 - restaurant
 - hongkou
-latitude: 31.2593
-longitude: 121.4990
+title: Hongkou Market Streets
+type: poi
 ---
 
 The working-class market streets of Hongkou, in the blocks around Lujing Road and Zhoushan Road, serve the neighbourhood's residential population with the full range of daily provisioning: wet markets for fresh produce and seafood, stalls for prepared foods, noodle shops, and the Shanghainese street food that the tourist districts have sanitised. Shengjian mantou (pan-fried pork buns), wonton soup, dan dan mian, and the Shanghainese version of shengjianbao are available at prices that reflect the neighbourhood's working-class character.

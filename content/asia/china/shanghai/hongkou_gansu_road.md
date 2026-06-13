@@ -1,12 +1,13 @@
 ---
-title: Ohel Moishe Synagogue (Jewish Refugees Museum)
-type: poi
+latitude: 31.2597
+longitude: 121.5021
+score: 8.0
 tags:
 - things_to_do
 - museum
 - hongkou
-latitude: 31.2597
-longitude: 121.5021
+title: Ohel Moishe Synagogue (Jewish Refugees Museum)
+type: poi
 ---
 
 The former Ohel Moishe Synagogue on Changyang Road, built in 1927 by the Ashkenazi Jewish community of Hongkou, now houses the Shanghai Jewish Refugees Museum documenting the 20,000 European Jews who found sanctuary in Shanghai during the Holocaust. The exhibition covers the arrival and daily life of the refugee community in Hongkou, the Japanese occupation's eventual concentration order in 1943, and the postwar dispersal.

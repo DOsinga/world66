@@ -1,12 +1,13 @@
 ---
-title: Sipailou Road (Old Town Commercial)
-type: poi
+latitude: 31.226
+longitude: 121.4932
+score: 5.5
 tags:
 - things_to_do
 - restaurant
 - old_town
-latitude: 31.2260
-longitude: 121.4932
+title: Sipailou Road (Old Town Commercial)
+type: poi
 ---
 
 The main commercial street of the Old Town, Sipailou Road runs through the residential fabric connecting the Yuyuan Bazaar area to the quieter southern sections. The street has traditional Shanghai food shops — preserved vegetables, dried seafood, tea dealers, pastry shops — alongside newer restaurants serving both Shanghainese and pan-Chinese cooking.

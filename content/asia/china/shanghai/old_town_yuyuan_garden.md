@@ -1,12 +1,13 @@
 ---
-title: Yu Garden (Yuyuan Garden)
-type: poi
+latitude: 31.2267
+longitude: 121.4933
+score: 9.0
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2267
-longitude: 121.4933
+title: Yu Garden (Yuyuan Garden)
+type: poi
 ---
 
 The best-preserved Ming dynasty garden in Shanghai, Yu Garden was built between 1559 and 1577 by Pan Yunduan for his father's retirement and now attracts millions of visitors per year. The garden itself — two acres of pavilions, rock formations, covered walkways, koi ponds, and planted courts — is a masterwork of the classical Chinese garden tradition, designed to create a landscape of apparent great depth within a small space.

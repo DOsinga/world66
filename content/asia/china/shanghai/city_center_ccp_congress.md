@@ -1,12 +1,13 @@
 ---
-title: CCP First National Congress Memorial
-type: poi
+latitude: 31.2193
+longitude: 121.472
+score: 7.0
 tags:
 - things_to_do
 - sight
 - city_center
-latitude: 31.2193
-longitude: 121.4720
+title: CCP First National Congress Memorial
+type: poi
 ---
 
 A shikumen lane house in Xintiandi marks the site where the First National Congress of the Chinese Communist Party was held on July 23, 1921 — the founding meeting of the party that would govern China from 1949 onward. The original house is preserved and converted into a museum documenting the Congress and its thirteen participants, including the young Mao Zedong.

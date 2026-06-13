@@ -1,12 +1,13 @@
 ---
-title: Temple of the City God (Chenghuang Miao)
-type: poi
+latitude: 31.2266
+longitude: 121.4897
+score: 8.5
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2266
-longitude: 121.4897
+title: Temple of the City God (Chenghuang Miao)
+type: poi
 ---
 
 The patron temple of Shanghai, the Temple of the City God is the religious centre of the Old Town and has been active continuously since its founding in the 14th century. The current structures date mostly from Qing dynasty reconstructions, with the main hall dedicated to Huo Guang, a Han dynasty general elevated to divine status as the city's protector.

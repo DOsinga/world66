@@ -1,12 +1,13 @@
 ---
-title: Xintiandi Lake and South Block
-type: poi
+latitude: 31.2179
+longitude: 121.4719
+score: 6.5
 tags:
 - things_to_do
 - shopping
 - xintiandi
-latitude: 31.2179
-longitude: 121.4719
+title: Xintiandi Lake and South Block
+type: poi
 ---
 
 The artificial lake at the centre of the Xintiandi development, flanked by the South Block (a contemporary mall tower) and the North Block lane houses, provides an open-air gathering space that fills on weekend evenings with diners from the surrounding restaurants and walkers from the surrounding hotel development.

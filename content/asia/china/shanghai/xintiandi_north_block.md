@@ -1,12 +1,13 @@
 ---
-title: Xintiandi North Block (Lane Houses)
-type: poi
+latitude: 31.2196
+longitude: 121.4717
+score: 8.5
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2196
-longitude: 121.4717
+title: Xintiandi North Block (Lane Houses)
+type: poi
 ---
 
 The preserved shikumen lane houses of the Xintiandi North Block represent the most architecturally polished example of the concession-era lane house in Shanghai — restored to a standard that the original buildings never achieved, but providing an accurate impression of the architectural vocabulary of 1920s and 1930s Shanghai residential design. The stone gate entrances, stucco facades, and narrow lane proportions are all authentic in form.

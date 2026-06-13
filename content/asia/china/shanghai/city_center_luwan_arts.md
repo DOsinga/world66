@@ -1,12 +1,13 @@
 ---
-title: Shanghai Museum of Contemporary Art (MOCA)
-type: poi
+latitude: 31.2288
+longitude: 121.4717
+score: 6.5
 tags:
 - things_to_do
 - museum
 - city_center
-latitude: 31.2288
-longitude: 121.4717
+title: Shanghai Museum of Contemporary Art (MOCA)
+type: poi
 ---
 
 A private contemporary art museum in People's Park, the Shanghai Museum of Contemporary Art focuses on new media, digital art, and design-oriented contemporary work in a 2005 building at the edge of the park. The programming is international and focuses on accessible contemporary art for a broad audience rather than the specialist market orientation of the commercial galleries.

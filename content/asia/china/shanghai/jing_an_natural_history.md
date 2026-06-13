@@ -1,12 +1,13 @@
 ---
-title: Shanghai Natural History Museum
-type: poi
+latitude: 31.23
+longitude: 121.455
+score: 7.5
 tags:
 - things_to_do
 - museum
 - jing_an
-latitude: 31.2300
-longitude: 121.4550
+title: Shanghai Natural History Museum
+type: poi
 ---
 
 The newest major museum in Shanghai, opened in 2015 in the Jing'an Sculpture Park, is one of the best natural history museums in Asia. The building — a spiral design loosely based on the shape of a nautilus shell, half buried in the park — is architecturally distinguished and entirely at odds with the generic museum architecture of earlier Shanghai institutions.

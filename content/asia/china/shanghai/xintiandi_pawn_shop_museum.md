@@ -1,12 +1,13 @@
 ---
-title: Chen Xiangshu Deli and Neighbourhood Life
-type: poi
+latitude: 31.2196
+longitude: 121.472
+score: 5.5
 tags:
 - things_to_do
 - restaurant
 - xintiandi
-latitude: 31.2196
-longitude: 121.4720
+title: Chen Xiangshu Deli and Neighbourhood Life
+type: poi
 ---
 
 The neighbourhood surrounding Xintiandi, away from the pedestrianised commercial zone, has a working residential and commercial character that provides context for the restored lanes. The blocks east toward Madang Road and south toward Jianguo Road have local Shanghainese restaurants, tea houses, and the daily commercial life of the former Luwan district.

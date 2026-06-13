@@ -1,12 +1,13 @@
 ---
-title: Huangpu River Cruise
-type: poi
+latitude: 31.2352
+longitude: 121.4891
+score: 8.0
 tags:
 - things_to_do
 - sight
 - the_bund
-latitude: 31.2352
-longitude: 121.4891
+title: Huangpu River Cruise
+type: poi
 ---
 
 River cruises on the Huangpu River depart from piers on the Bund and offer views of both the colonial west bank and the contemporary east bank (Pudong) simultaneously — the classic Shanghai juxtaposition of 1930s Art Deco and 21st-century commercial skyscrapers that defines the city's visual identity. The standard tourist cruise runs one hour.

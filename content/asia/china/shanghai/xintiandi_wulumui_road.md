@@ -1,12 +1,13 @@
 ---
-title: Wulumuqi Road (Neighbourhood Street)
-type: poi
+latitude: 31.2127
+longitude: 121.4555
+score: 6.0
 tags:
 - things_to_do
 - restaurant
 - xintiandi
-latitude: 31.2127
-longitude: 121.4555
+title: Wulumuqi Road (Neighbourhood Street)
+type: poi
 ---
 
 A neighbourhood commercial street in the western French Concession, Wulumuqi Road is named after the Xinjiang capital and has the character of a local street that has developed independent restaurant and café culture without the tourist overlay of the main French Concession attractions. The blocks between Huaihai Road and Fuxing Road have the most activity.

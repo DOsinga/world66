@@ -1,12 +1,13 @@
 ---
-title: Abnormal Night Entertainment (Jing'an)
-type: poi
+latitude: 31.2264
+longitude: 121.4481
+score: 5.5
 tags:
 - things_to_do
 - bars_and_cafes
 - jing_an
-latitude: 31.2264
-longitude: 121.4481
+title: Abnormal Night Entertainment (Jing'an)
+type: poi
 ---
 
 The Jing'an district has developed a concentration of cocktail bars and late-night venues around the Nanjing Road West and Changshu Road area that is less tourist-saturated than the French Concession bar scene but equally capable. The neighbourhood's high-end residential population (serviced apartments for international business executives) supports a bar scene calibrated to local regular customers rather than visitors.

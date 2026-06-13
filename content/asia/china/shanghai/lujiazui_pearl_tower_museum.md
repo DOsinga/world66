@@ -1,12 +1,13 @@
 ---
-title: Shanghai History Museum (Pearl Tower Base)
-type: poi
+latitude: 31.2397
+longitude: 121.4995
+score: 7.5
 tags:
 - things_to_do
 - museum
 - lujiazui
-latitude: 31.2397
-longitude: 121.4995
+title: Shanghai History Museum (Pearl Tower Base)
+type: poi
 ---
 
 The ground level of the Oriental Pearl Tower houses a comprehensive Shanghai city history museum, covering the city's development from a Ming dynasty fishing village through the concession period, Japanese occupation, 1949, and the Reform era. The museum is well-resourced and contains extraordinary period artefacts — a recreated 1930s Shanghai street scene, original concession-era documents, and one of the best collections of old Shanghai photographs in the city.

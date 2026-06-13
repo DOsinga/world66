@@ -1,12 +1,13 @@
 ---
-title: Tianzifang Gallery and Studio Scene
-type: poi
+latitude: 31.211
+longitude: 121.4712
+score: 7.5
 tags:
 - things_to_do
 - art
 - tianzifang_area
-latitude: 31.2110
-longitude: 121.4712
+title: Tianzifang Gallery and Studio Scene
+type: poi
 ---
 
 The galleries and studios within the Tianzifang complex represent the residual art community that established the area before tourist development overtook it. Several studios are still working spaces where artists produce and sell directly; the galleries show a mix of Chinese contemporary art and craft objects aimed at the tourist market.

@@ -1,12 +1,13 @@
 ---
-title: Ohel Rachel Synagogue
-type: poi
+latitude: 31.2254
+longitude: 121.456
+score: 7.0
 tags:
 - things_to_do
 - sight
 - jing_an
-latitude: 31.2254
-longitude: 121.4560
+title: Ohel Rachel Synagogue
+type: poi
 ---
 
 A 1920 Sephardic Jewish synagogue on North Shaanxi Road — the largest synagogue in the Far East when it was built — constructed by Jacob Elias Sassoon as a memorial to his wife. The building is in a neo-classical style, with a large ark and women's gallery, and is one of the few surviving monuments to Shanghai's Sephardic Jewish community.

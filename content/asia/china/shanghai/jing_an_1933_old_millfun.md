@@ -1,12 +1,13 @@
 ---
-title: 1933 Old Millfun (Slaughterhouse)
-type: poi
+latitude: 31.2554
+longitude: 121.4836
+score: 7.5
 tags:
 - things_to_do
 - sight
 - jing_an
-latitude: 31.2554
-longitude: 121.4836
+title: 1933 Old Millfun (Slaughterhouse)
+type: poi
 ---
 
 A 1933 slaughterhouse designed by the British architectural firm Balfours in a Wudi concrete style — a series of interconnected circular floors and cattle-walk ramps that has been converted into an event and dining complex. The architecture is extraordinary: the interlocking ramps, the octagonal core, and the cattle floors with their elaborate ventilation perforations create a building that is unlike any other surviving structure in Shanghai.

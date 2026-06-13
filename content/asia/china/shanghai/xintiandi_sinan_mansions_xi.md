@@ -1,12 +1,13 @@
 ---
-title: Sinan Road (Historic Villas)
-type: poi
+latitude: 31.2175
+longitude: 121.4709
+score: 7.0
 tags:
 - things_to_do
 - sight
 - xintiandi
-latitude: 31.2175
-longitude: 121.4709
+title: Sinan Road (Historic Villas)
+type: poi
 ---
 
 Sinan Road runs south from Fuxing Road through the heart of the French Concession, lined with former consulate buildings, villas, and the Sinan Mansions development of restored Republican-era houses. The street is one of the best in Shanghai for experiencing the pre-war residential architecture of the foreign concessions at close range.

@@ -1,12 +1,13 @@
 ---
-title: Power Station of Art
-type: poi
+latitude: 31.2253
+longitude: 121.4921
+score: 7.5
 tags:
 - things_to_do
 - museum
 - pudong
-latitude: 31.2253
-longitude: 121.4921
+title: Power Station of Art
+type: poi
 ---
 
 China's first state-run contemporary art museum, the Power Station of Art occupies a former steel and iron factory on the South Bund, converted for the 2010 World Expo and adapted as a permanent art institution in 2012. The scale of the former industrial building — a 165-metre chimney visible from the Bund — and its conversion into a free contemporary art space make it one of the more significant art institutions in Shanghai.

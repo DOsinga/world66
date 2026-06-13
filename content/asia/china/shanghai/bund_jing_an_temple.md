@@ -1,12 +1,13 @@
 ---
-title: Rockbund Art Museum
-type: poi
+latitude: 31.2449
+longitude: 121.4866
+score: 7.0
 tags:
 - things_to_do
 - museum
 - the_bund
-latitude: 31.2449
-longitude: 121.4866
+title: Rockbund Art Museum
+type: poi
 ---
 
 A contemporary art museum in a restored 1932 Art Deco building on Huqiu Road, in the Rockbund development north of the main Bund stretch. The museum is the most serious contemporary art venue on the waterfront — programme is international and consistently well-curated, focusing on large-scale installation and video work.

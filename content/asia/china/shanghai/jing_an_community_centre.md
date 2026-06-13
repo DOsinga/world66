@@ -1,12 +1,13 @@
 ---
-title: Fuxing Park (Jing'an)
-type: poi
+latitude: 31.2287
+longitude: 121.444
+score: 6.0
 tags:
 - things_to_do
 - park
 - jing_an
-latitude: 31.2287
-longitude: 121.4440
+title: Fuxing Park (Jing'an)
+type: poi
 ---
 
 A French-era park on Fuxing Road West, smaller than the main Fuxing Park in the French Concession but with the same character — morning exercises, retired residents playing cards and chess, and a general atmosphere of neighbourhood park life undisturbed by tourist traffic. The park is a useful reference point for understanding what Shanghai's residential open space looks like in use.

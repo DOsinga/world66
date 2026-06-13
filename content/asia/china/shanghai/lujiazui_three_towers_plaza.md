@@ -1,12 +1,13 @@
 ---
-title: Three Towers Plaza
-type: poi
+latitude: 31.2356
+longitude: 121.5005
+score: 7.5
 tags:
 - things_to_do
 - sight
 - lujiazui
-latitude: 31.2356
-longitude: 121.5005
+title: Three Towers Plaza
+type: poi
 ---
 
 The public plaza connecting the bases of the Jin Mao Tower, Shanghai World Financial Center, and Shanghai Tower is where the three supertall towers can be seen together at close range — a juxtaposition available nowhere else in the world, since the three tallest buildings in Shanghai share a single city block.

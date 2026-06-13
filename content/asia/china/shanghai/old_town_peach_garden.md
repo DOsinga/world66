@@ -1,12 +1,13 @@
 ---
-title: Peach Garden Mosque
-type: poi
+latitude: 31.2251
+longitude: 121.4949
+score: 6.5
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 31.2251
-longitude: 121.4949
+title: Peach Garden Mosque
+type: poi
 ---
 
 Shanghai's oldest surviving mosque, the Peach Garden Mosque (Xiao Taoyuan Mosque) on Xiaotaoyuan Street dates from 1917 and serves as the principal mosque for Shanghai's Muslim community. The building is in a modified Chinese traditional style — tiled roofs, ornamental screens — adapted for Islamic use.

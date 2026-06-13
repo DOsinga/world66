@@ -1,12 +1,13 @@
 ---
-title: Longhua Temple and Pagoda
-type: poi
+latitude: 31.1859
+longitude: 121.4558
+score: 8.0
 tags:
 - things_to_do
 - sight
 - tianzifang_area
-latitude: 31.1859
-longitude: 121.4558
+title: Longhua Temple and Pagoda
+type: poi
 ---
 
 The oldest and largest Buddhist temple in Shanghai, Longhua dates to the Three Kingdoms period (247 CE) though the current structures are mostly Qing dynasty reconstructions. The temple complex includes a seven-storey Song dynasty brick pagoda — the best surviving example of pre-modern architecture in Shanghai — visible from some distance.

@@ -1,12 +1,13 @@
 ---
-title: World Expo Site (Expo Park)
-type: poi
+latitude: 31.2214
+longitude: 121.4912
+score: 7.0
 tags:
 - things_to_do
 - sight
 - pudong
-latitude: 31.2214
-longitude: 121.4912
+title: World Expo Site (Expo Park)
+type: poi
 ---
 
 The site of the 2010 Shanghai World Expo, the largest in history (73 million visitors), stretches along both banks of the Huangpu River south of the city center. Most Expo pavilions have been demolished, but the China Pavilion (now the China Art Museum) and the Expo Culture Centre (now Mercedes-Benz Arena, the main indoor concert venue) are the surviving landmarks.

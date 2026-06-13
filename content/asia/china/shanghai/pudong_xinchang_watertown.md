@@ -1,12 +1,13 @@
 ---
-title: Xinchang Ancient Town (Day Trip from Pudong)
-type: poi
+latitude: 30.9075
+longitude: 121.6566
+score: 7.0
 tags:
 - things_to_do
 - sight
 - pudong
-latitude: 30.9075
-longitude: 121.6566
+title: Xinchang Ancient Town (Day Trip from Pudong)
+type: poi
 ---
 
 A preserved waterway town south of Pudong, Xinchang (or Xinchang Old Street) is one of the smaller and less-visited classical water towns accessible from Shanghai without crossing to the western suburbs. The town dates to the Ming dynasty and preserves a canal network with original stone bridges, courtyard houses, and a street of traditional shops and food stalls.

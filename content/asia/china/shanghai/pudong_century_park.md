@@ -1,12 +1,13 @@
 ---
-title: Century Park and Century Avenue
-type: poi
+latitude: 31.2191
+longitude: 121.5452
+score: 6.5
 tags:
 - things_to_do
 - park
 - pudong
-latitude: 31.2191
-longitude: 121.5452
+title: Century Park and Century Avenue
+type: poi
 ---
 
 A 140-hectare park at the east end of Century Avenue, the main civic boulevard of Pudong. Century Park is the largest central urban park in Shanghai and provides a genuine green escape from the built density of the Lujiazui financial district. The park has a large lake, cycling paths, picnic areas, and facilities for outdoor sports.

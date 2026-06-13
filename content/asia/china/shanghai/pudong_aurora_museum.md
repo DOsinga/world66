@@ -1,12 +1,13 @@
 ---
-title: Aurora Museum (Museum of Ancient Chinese Art)
-type: poi
+latitude: 31.239
+longitude: 121.5098
+score: 6.5
 tags:
 - things_to_do
 - museum
 - pudong
-latitude: 31.2390
-longitude: 121.5098
+title: Aurora Museum (Museum of Ancient Chinese Art)
+type: poi
 ---
 
 A private museum in the Aurora Mansion on the Lujiazui riverside dedicated to Chinese antiquities — bronzes, ceramics, jade, and calligraphy from the collection of the Aurora Foundation. The collection is not as encyclopaedic as the Shanghai Museum on the Bund side, but the museum is smaller and easier to navigate in an hour.

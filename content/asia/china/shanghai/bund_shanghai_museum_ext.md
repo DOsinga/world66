@@ -1,12 +1,13 @@
 ---
-title: Shanghai Museum (People's Square Side)
-type: poi
+latitude: 31.2286
+longitude: 121.4739
+score: 7.5
 tags:
 - things_to_do
 - museum
 - the_bund
-latitude: 31.2286
-longitude: 121.4739
+title: Shanghai Museum (People's Square Side)
+type: poi
 ---
 
 One of the great museums of China, the Shanghai Museum on People's Square holds a comprehensive collection of Chinese art from the Neolithic period through the Qing dynasty. The building — a 1996 structure designed to evoke an ancient bronze ding vessel from above — is one of the most visited museums in China, with particular strength in bronzes, ceramics, painting and calligraphy, and furniture from the classical period.

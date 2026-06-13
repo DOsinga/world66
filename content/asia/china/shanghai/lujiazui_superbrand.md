@@ -1,12 +1,13 @@
 ---
-title: Superbrand Mall
-type: poi
+latitude: 31.24
+longitude: 121.4998
+score: 5.0
 tags:
 - things_to_do
 - shopping
 - lujiazui
-latitude: 31.2400
-longitude: 121.4998
+title: Superbrand Mall
+type: poi
 ---
 
 The largest shopping mall in Lujiazui, Superbrand Mall (Zhengda Guangchang) has 13 floors of retail, dining, and entertainment — larger than most European shopping centres. The mix is heavily Chinese consumer brands with some international chain anchors, calibrated to the local working professional population rather than tourist shoppers.

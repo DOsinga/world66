@@ -1,12 +1,13 @@
 ---
-title: Luwan District Community Life
-type: poi
+latitude: 31.2092
+longitude: 121.4683
+score: 5.5
 tags:
 - things_to_do
 - restaurant
 - tianzifang_area
-latitude: 31.2092
-longitude: 121.4683
+title: Luwan District Community Life
+type: poi
 ---
 
 The Luwan district surrounding Tianzifang has preserved more of its everyday neighbourhood commercial life than the French Concession streets further north. The market streets, local food shops, and neighbourhood restaurants catering to residents rather than visitors are concentrated in the blocks between Zhaojiabang Road and Jianguo Road.

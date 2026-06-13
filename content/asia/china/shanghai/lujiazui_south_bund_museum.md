@@ -1,12 +1,13 @@
 ---
-title: Riverside Museum of Contemporary Art (RoCA)
-type: poi
+latitude: 31.2348
+longitude: 121.505
+score: 6.0
 tags:
 - things_to_do
 - museum
 - lujiazui
-latitude: 31.2348
-longitude: 121.5050
+title: Riverside Museum of Contemporary Art (RoCA)
+type: poi
 ---
 
 A privately operated contemporary art space in the Lujiazui area with a rotating programme of exhibitions focused on international contemporary art and design. The museum has less fixed identity than the Power Station of Art or Rockbund but fills an exhibition calendar with accessible and well-presented shows.

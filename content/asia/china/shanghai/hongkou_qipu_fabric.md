@@ -1,12 +1,13 @@
 ---
-title: Qipu Road Clothing Market
-type: poi
+latitude: 31.2529
+longitude: 121.4861
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - hongkou
-latitude: 31.2529
-longitude: 121.4861
+title: Qipu Road Clothing Market
+type: poi
 ---
 
 The Qipu Road area in Hongkou is Shanghai's largest wholesale and retail clothing market — a multi-block concentration of indoor markets and street stalls selling fashion at prices well below retail. The market serves the wholesale trade but is accessible to individual buyers willing to navigate the density and negotiate prices.

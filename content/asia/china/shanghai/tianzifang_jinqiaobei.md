@@ -1,12 +1,13 @@
 ---
-title: Jinqiao Road and South French Concession Lanes
-type: poi
+latitude: 31.2098
+longitude: 121.4666
+score: 5.5
 tags:
 - things_to_do
 - sight
 - tianzifang_area
-latitude: 31.2098
-longitude: 121.4666
+title: Jinqiao Road and South French Concession Lanes
+type: poi
 ---
 
 The residential lanes of the southern French Concession between Tianzifang and Hengshan Road are among the best-preserved examples of 1930s Shanghai lane house residential fabric — shikumen houses arranged along narrow lanes, with small courtyards behind stone gate entrances, accumulated over decades into a continuous neighbourhood.

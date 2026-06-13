@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 18.958162
 longitude: 72.803366
+neighbourhood: Malabar Hill
 snippet: Terraced hilltop gardens with topiary and Arabian Sea views
 tags:
 - things_to_do
 - park
+- malabar_hill
 title: Hanging Gardens
 type: poi
 ---

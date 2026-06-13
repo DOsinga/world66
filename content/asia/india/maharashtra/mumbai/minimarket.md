@@ -2,11 +2,13 @@
 address: 33/31, Mutton Street,
 latitude: 18.959073
 longitude: 72.829903
+neighbourhood: Lower Parel
 phone: +91-22-3475786, 3472427
 tags:
 - shopping
 - shop
 - market
+- lower_parel
 title: Mini Market
 type: poi
 ---

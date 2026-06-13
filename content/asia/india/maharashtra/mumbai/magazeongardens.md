@@ -1,10 +1,12 @@
 ---
 latitude: 18.9616
 longitude: 72.8465
+neighbourhood: Dharavi
 snippet: Quiet neighbourhood park with Arabian Sea views
 tags:
 - things_to_do
 - park
+- dharavi
 title: Mazagon Gardens
 type: poi
 ---

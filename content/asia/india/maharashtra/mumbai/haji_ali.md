@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 18.977639
 longitude: 72.809035
+neighbourhood: Worli
 snippet: Island mosque reached by a causeway that floods at high tide
 tags:
 - things_to_do
 - sight
+- worli
 title: Haji Ali Dargah
 type: poi
 ---

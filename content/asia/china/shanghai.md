@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-13'
   poi_cleanup: '2026-04-20'
 image: shanghai.jpg
 image_attribution: King of Hearts

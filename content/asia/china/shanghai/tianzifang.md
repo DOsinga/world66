@@ -1,14 +1,15 @@
 ---
-title: "Tianzifang"
-type: poi
-category: "Sight"
+category: Sight
 latitude: 31.2107
 longitude: 121.4671
+neighbourhood: French Concession
+snippet: Maze of shikumen lanes turned into craft shops, cafes and small boutiques
 tags:
-  - things_to_do
-  - sight
-  - french_concession
-snippet: "Maze of shikumen lanes turned into craft shops, cafes and small boutiques"
+- things_to_do
+- sight
+- french_concession
+title: Tianzifang
+type: poi
 ---
 
 A warren of *shikumen* — Shanghai's distinctive lane-house tenements — in the southern French Concession, converted in the 2000s into a dense little arts-and-crafts quarter. Around 200 small shops sell ceramics, paintings, T-shirts, jewellery and souvenirs; the lanes are too narrow for cars, and on a weekend afternoon the whole place is shoulder to shoulder.

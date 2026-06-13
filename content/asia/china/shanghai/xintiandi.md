@@ -9,7 +9,11 @@ tags:
 - things_to_do
 - neighbourhood
 title: Xintiandi
-type: poi
+type: neighbourhood
+image: xintiandi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fountain_with_Sculptures_in_Xintiandi_Shanghai_20210329.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Leynadmar
 ---
 
 A two-block grid of restored *shikumen* lane houses turned into bars, cafes and upscale restaurants. Purists complain Xintiandi is a stage set rather than a real neighbourhood — and they have a point — but it remains one of the easiest places in Shanghai to spend a relaxed evening outdoors among historic architecture. The site also holds the small but interesting Site of the First National Congress of the Communist Party of China, where the CCP was founded in July 1921.

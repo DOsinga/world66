@@ -11,7 +11,11 @@ tags:
 - things_to_do
 - neighbourhood
 title: The Bund
-type: poi
+type: neighbourhood
+image: the_bund.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20264-Shanghai,_The_Bund.jpg
+image_license: CC BY 2.0
+image_attribution: Xiquinho Silva
 ---
 
 Shanghai's most famous mile: a curve of grand colonial-era banks, trading houses and hotels along the west bank of the Huangpu river. Built mostly between 1900 and 1930, when Shanghai was the financial capital of Asia, the buildings look across the water at the floodlit towers of Pudong. The promenade is best at dusk, when both sides light up at once. Walk from the old British Consulate at the north end down past the HSBC Building (1923), the Customs House with its clock, and the Peace Hotel.

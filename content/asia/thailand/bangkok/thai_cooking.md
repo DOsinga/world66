@@ -1,12 +1,13 @@
 ---
 latitude: 13.7207
 longitude: 100.5152
+score: 7.3
+snippet: Hands-on cooking classes across the city
 tags:
 - things_to_do
+- silom
 title: Thai Cooking Classes
 type: poi
-snippet: Hands-on cooking classes across the city
-score: 7.3
 ---
 
 Bangkok offers dozens of Thai cooking classes ranging from half-day market tours with hands-on cooking to multi-day professional courses. Most classes start with a guided trip to a local market to pick out fresh ingredients, then move to a kitchen where you prepare four or five dishes yourself -- pad thai, green curry, tom yum, mango sticky rice, that sort of thing.

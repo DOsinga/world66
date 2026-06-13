@@ -1,18 +1,23 @@
 ---
-title: "Museo del Novecento"
-type: poi
-tags:
-  - things_to_do
-  - museum
+address: Via Marconi 1, 20122 Milan
+admission: €10 full, €8 reduced; free for under 18 and over 65
 latitude: 45.4635
 longitude: 9.19
-address: "Via Marconi 1, 20122 Milan"
-opening_hours: "Tue–Sun 10:00–19:30, Thu until 22:30; Mon 14:30–19:30"
-admission: "€10 full, €8 reduced; free for under 18 and over 65"
-url: "www.museodelnovecento.org"
-story: >
-  The museum occupies the Palazzo dell'Arengario — a fascist-era building that Mussolini used for speeches from a balcony overlooking Piazza del Duomo. The building's grim political history and the modern art it now contains make for an unexpected juxtaposition.
+opening_hours: Tue–Sun 10:00–19:30, Thu until 22:30; Mon 14:30–19:30
 score: 8.3
+story: 'The museum occupies the Palazzo dell''Arengario — a fascist-era building that
+  Mussolini used for speeches from a balcony overlooking Piazza del Duomo. The building''s
+  grim political history and the modern art it now contains make for an unexpected
+  juxtaposition.
+
+  '
+tags:
+- things_to_do
+- museum
+- centro_storico
+title: Museo del Novecento
+type: poi
+url: www.museodelnovecento.org
 ---
 
 Milan's museum of 20th-century Italian art, housed in the modernist Palazzo dell'Arengario on Piazza del Duomo — connected by a bridge to the Palazzo Reale next door. The collection is strong on the major Italian movements of the last century: Futurism, the Novecento, Arte Povera, and beyond.

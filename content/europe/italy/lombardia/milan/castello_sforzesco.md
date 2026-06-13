@@ -8,14 +8,15 @@ latitude: 45.4706
 longitude: 9.1797
 opening_hours: Castle grounds daily 07:00–19:30; museums Tue–Sun 09:00–17:30; closed
   Mon
+score: 8.8
 snippet: 15th-century fortress with Michelangelo's final unfinished Pietà
 tags:
-  - things_to_do
-  - sight
-  - museum
+- things_to_do
+- sight
+- museum
+- sempione
 title: Castello Sforzesco
 type: poi
-score: 8.8
 ---
 
 A vast 15th-century red-brick fortress built by the Sforza duchy, now housing several civic museums. The most important is the Museo d'Arte Antica, which contains Michelangelo's unfinished Pietà Rondanini — his last work, left incomplete at his death in 1564, and one of the most moving sculptures in Italy.

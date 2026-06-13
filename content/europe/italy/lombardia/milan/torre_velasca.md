@@ -1,14 +1,15 @@
 ---
-title: "Torre Velasca"
-type: poi
-tags:
-  - things_to_do
-  - architecture
-  - sight
+address: Piazza Velasca 5, 20122 Milan
 latitude: 45.4601
 longitude: 9.1916
-address: "Piazza Velasca 5, 20122 Milan"
 score: 6.3
+tags:
+- things_to_do
+- architecture
+- sight
+- centro_storico
+title: Torre Velasca
+type: poi
 ---
 
 A striking 26-storey tower completed in 1958, designed by BBPR architects as one of the most distinctive buildings of the postwar Italian modernism. The tower's mushroom-like form — a narrow lower shaft widening dramatically at the upper floors — was controversial when built and remains polarising. It is one of the most debated buildings in Italian architecture history, admired by some as a brilliant synthesis of modernism and medieval Lombard tower traditions, dismissed by others as willfully ugly.

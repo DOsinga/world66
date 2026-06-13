@@ -1,16 +1,17 @@
 ---
-title: "Osteria Tajoli"
-type: poi
-category: "Trattoria"
-address: "Via Amedei 4, 20123 Milan"
-opening_hours: "Mon–Sat 12:00–15:00, 19:00–23:00; closed Sun"
+address: Via Amedei 4, 20123 Milan
+category: Trattoria
 latitude: 45.4622
 longitude: 9.1873
+opening_hours: Mon–Sat 12:00–15:00, 19:00–23:00; closed Sun
+score: 6.8
 snippet: Old-school Milanese trattoria with wood-roasted meats
 tags:
-  - eating_out
-  - restaurant
-score: 6.8
+- eating_out
+- restaurant
+- brera
+title: Osteria Tajoli
+type: poi
 ---
 
 An old-school Milanese osteria in the centro storico, beloved for roasted meats and potatoes cooked in a wood oven. No menu printed in English, no concessions to the tourist trade — just straightforward Lombard cooking at reasonable prices. Especially popular for Sunday lunch (check their hours, as these change seasonally).

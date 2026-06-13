@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Sant'Ambrogio
 type: neighbourhood
+image: sant_ambrogio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Firenze-piazza_dei_ciompi.jpg
+image_license: CC BY 2.5
+image_attribution: an kor
 ---
 
 Sant'Ambrogio, just east of Santa Croce, is one of the most genuinely local quarters in central Florence, named after its old parish church and built around the daily Mercato di Sant'Ambrogio. Smaller and far less touristy than the central market, it sells fruit, vegetables, cheese, and flowers under a nineteenth-century iron hall, with cheap trattorie and food stalls feeding market traders and residents alike.

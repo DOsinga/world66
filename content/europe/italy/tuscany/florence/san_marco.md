@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: San Marco
 type: neighbourhood
+image: san_marco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David,_Galleria_dell%27Accademia,_Florence_(26612167281).jpg
+image_license: CC BY 2.0
+image_attribution: Dimitris Kamaras from Athens, Greece
 ---
 
 The San Marco district, north of the cathedral, is the city's quieter scholarly quarter, built around the Dominican convent of San Marco where the friar-painter Fra Angelico frescoed the monks' cells with luminous scenes of the life of Christ. The convent, now a museum, is one of the most moving sights in Florence.

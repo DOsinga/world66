@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Signoria
 type: neighbourhood
+image: signoria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Firenze_-_Florence_-_Piazza_della_Signoria_-_View_ESE_on_Palazzo_Vecchio_II.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Txllxt TxllxT
 ---
 
 Piazza della Signoria has been the political heart of Florence for seven centuries, an open-air sculpture gallery dominated by the fortress-like Palazzo Vecchio and its soaring tower. A copy of Michelangelo'''s David stands where the original once did, alongside the Neptune fountain and, under the arches of the Loggia dei Lanzi, masterpieces such as Cellini'''s bronze Perseus and Giambologna'''s Rape of the Sabine Women.

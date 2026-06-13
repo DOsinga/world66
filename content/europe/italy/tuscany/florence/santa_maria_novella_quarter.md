@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Santa Maria Novella
 type: neighbourhood
+image: santa_maria_novella_quarter.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Basilique_Santa_Maria_Novella_(Florence).JPG
+image_license: CC BY-SA 4.0
+image_attribution: Nono vlf
 ---
 
 The Santa Maria Novella quarter spreads west from the centre around the church that gives it its name, the great Dominican basilica with its green-and-white marble facade by Alberti and a fresco cycle that includes Masaccio's pioneering Trinity. The adjoining cloisters and the ancient Officina Profumo-Farmaceutica, a perfumery run by friars since the seventeenth century, are quietly atmospheric.

@@ -6,14 +6,15 @@ email: info@lagauchedivine.com
 latitude: 41.377904
 longitude: 2.177787
 phone: +34 933 016 125
+score: 4.8
 snippet: Concept store mixing fashion, art, and music in the Gothic Quarter.
 tags:
 - shopping
+- gothic_quarter
 title: La Gauche Divine
 type: poi
 url: www.lagauchedivine.com
 zipcode: 08002
-score: 4.8
 ---
 
 In the 1960s, a group of young artists in Barcelona used their work to challenge the establishment and push for social change. The movement became known as La Gauche Divine, and its spirit inspired this concept store in the Gothic Quarter.

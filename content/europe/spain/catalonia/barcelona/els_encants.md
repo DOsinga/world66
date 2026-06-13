@@ -4,12 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.4025
 longitude: 2.1878
+score: 7.8
 snippet: Barcelona's oldest flea market under a striking mirrored canopy
 tags:
 - shopping
+- sant_marti
 title: Els Encants
 type: poi
-score: 7.8
 ---
 
 Els Encants Vells is one of Europe's oldest flea markets, trading in [Barcelona](/europe/spain/catalonia/barcelona) since the 14th century. In 2013 it moved into a striking new structure near Plaça de les Glòries — an open-sided building topped with an enormous angled mirror canopy that reflects the market below and has become an architectural landmark in its own right.

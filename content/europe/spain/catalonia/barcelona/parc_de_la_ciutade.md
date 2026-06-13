@@ -1,14 +1,15 @@
 ---
 address: Passeig de Pujades and Passeig de Picasso
 latitude: 41.3879
-longitude: 2.1870
+longitude: 2.187
+score: 7.8
+snippet: Barcelona's central park on a former fortress site
 tags:
 - things_to_do
 - sights
+- el_born
 title: Parc de la Ciutadella
 type: poi
-snippet: "Barcelona's central park on a former fortress site"
-score: 7.8
 ---
 
 This is one of the greenest zones in the city. Parc de la Ciutadella was the first public park in Barcelona, built on the site of an 18th-century military fortress that was demolished in the 19th century.

@@ -4,13 +4,14 @@ latitude: 41.380671
 longitude: 2.155042
 opening_hours: Mon–Sat 9am–midnight; closed Sun
 price_range: €8–15
+score: 7.6
 snippet: Old Eixample wine bodega serving pintxos and house wine at the counter
 tags:
 - eating_out
 - restaurant
+- eixample
 title: Bodega Sepúlveda
 type: poi
-score: 7.6
 ---
 
 Bodega Sepúlveda is a classic old-fashioned Barcelona bodega — wine in carafes from the barrel, pintxos on the counter, marble tables worn smooth by decades of elbows. The kind of place that has been serving the Eixample neighbourhood since Franco was in power and shows no signs of changing.

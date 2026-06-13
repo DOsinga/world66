@@ -2,14 +2,15 @@
 address: Aristides Maillol, Les Corts
 latitude: 41.378348
 longitude: 2.12125
-snippet: "Europe's largest football stadium and FC Barcelona's home ground"
+score: 8.1
+snippet: Europe's largest football stadium and FC Barcelona's home ground
 tags:
 - things_to_do
 - sport
+- les_corts
 title: Soccer Game at Camp Nou
 type: poi
 url: www.fcbarcelona.com
-score: 8.1
 ---
 
 Camp Nou is one of football's great cathedrals — a colossal stadium seating nearly 100,000 fans that has hosted some of the sport's most memorable nights. Even if you can't catch a match, the stadium tour and museum are worth a visit, covering FC Barcelona's history from its founding in 1899 through its modern dominance.

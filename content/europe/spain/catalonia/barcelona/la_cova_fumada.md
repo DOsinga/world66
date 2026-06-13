@@ -4,13 +4,14 @@ latitude: 41.377613
 longitude: 2.188902
 opening_hours: Mon–Sat 9am–3pm; closed Sun and evenings
 price_range: €10–20
+score: 7.9
 snippet: The bar that invented the bomba, Barceloneta's fried potato snack
 tags:
 - eating_out
 - restaurant
+- barceloneta
 title: La Cova Fumada
 type: poi
-score: 7.9
 ---
 
 La Cova Fumada is a no-frills fish bar in Barceloneta that claims — with solid evidence — to have invented the bomba, the fried mashed potato ball stuffed with meat that became one of Barcelona's signature snacks. The bar has been in the same family since 1944 and shows it: cash only, no sign outside, no reservations, tables that fill by 10am.

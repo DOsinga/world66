@@ -4,13 +4,14 @@ latitude: 41.384259
 longitude: 2.180977
 opening_hours: Tue–Sat noon–4pm, 7–11pm; Sun noon–4pm; closed Mon
 price_range: €10–20
+score: 7.9
 snippet: Old cava bar near the Picasso Museum, unchanged since 1929
 tags:
 - eating_out
 - restaurant
+- el_born
 title: El Xampanyet
 type: poi
-score: 7.9
 ---
 
 El Xampanyet is a Barcelona institution on one of the oldest streets in the Born quarter, a few metres from the Picasso Museum. The bar serves its own house cava alongside anchovies from L'Escala, Iberian charcuterie, and simple tapas in a room lined with ceramic tiles that has not changed materially since 1929.

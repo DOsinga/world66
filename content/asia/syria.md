@@ -14,7 +14,7 @@ quick_facts:
   Alphabet Origin: "The first alphabet was invented here"
 done:
   country_cleanup: 2026-03-30
-score: 0.14
+score: 0.31
 loc_type: country
 ---
 

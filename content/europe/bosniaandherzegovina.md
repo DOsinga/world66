@@ -1,4 +1,5 @@
 ---
+score: 0.70
 title: Bosnia and Herzegovina
 type: location
 loc_type: country

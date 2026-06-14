@@ -8,7 +8,7 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Cua_Tung_Beach.jpg
 latitude: 15.926666
 longitude: 107.965086
-score: 0.69
+score: 0.88
 title: Vietnam
 type: location
 quick_facts:

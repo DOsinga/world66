@@ -8,7 +8,7 @@ quick_facts:
   Time Zone: "UTC+8 (one zone)"
   High-Speed Rail: "45,000 km"
   Great Wall Length: "21,196 km"
-score: 0.57
+score: 0.94
 title: China
 type: location
 loc_type: country

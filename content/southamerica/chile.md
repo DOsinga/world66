@@ -9,7 +9,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg
 latitude: -31.761336
 longitude: -71.31877
-score: 0.48
+score: 0.85
 title: Chile
 type: location
 quick_facts:

@@ -14,7 +14,7 @@ quick_facts:
   Country Size: "About the size of Ireland"
 done:
   country_cleanup: 2026-03-30
-score: 0.69
+score: 0.80
 loc_type: country
 ---
 

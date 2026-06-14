@@ -14,7 +14,7 @@ quick_facts:
   Cost Level: "Europe's cheapest — meal ~$3"
   Mileștii Mici Wine Cellar: "200 km of tunnels"
   Wine Per Capita: Among the highest in the world
-score: 0.37
+score: 0.46
 loc_type: country
 ---
 

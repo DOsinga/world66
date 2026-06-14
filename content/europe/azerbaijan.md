@@ -14,7 +14,7 @@ quick_facts:
   Religion: "~97% Muslim, but alcohol is widely available"
   Mud Volcanoes: "More than any other country — about 350"
   Land of Fire: "Natural gas flames have burned for millennia at Yanar Dag"
-score: 0.32
+score: 0.60
 loc_type: country
 ---
 

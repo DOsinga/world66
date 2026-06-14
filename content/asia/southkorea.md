@@ -14,7 +14,7 @@ quick_facts:
   DMZ from Seoul: "Just 50 km"
 done:
   country_cleanup: 2026-03-30
-score: 0.74
+score: 0.83
 loc_type: country
 ---
 

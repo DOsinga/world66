@@ -16,7 +16,7 @@ quick_facts:
   Official Languages: "4 (German, French, Italian, Romansh)"
   Rail Tunnels: Gotthard Base is world's longest at 57 km
   Direct Democracy: Citizens vote on policy ~4 times a year
-score: 0.63
+score: 0.87
 loc_type: country
 ---
 

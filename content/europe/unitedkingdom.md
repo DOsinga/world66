@@ -14,7 +14,7 @@ quick_facts:
   Driving Side: Left
   Pubs: "~40,000 across the country"
   Countries Within a Country: "4 (England, Scotland, Wales, N. Ireland)"
-score: 0.42
+score: 0.91
 loc_type: country
 ---
 

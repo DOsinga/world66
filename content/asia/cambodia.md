@@ -8,7 +8,7 @@ quick_facts:
   Currency: Riel (USD widely used)
   Angkor Temples: "1,000+"
   Tonle Sap: Reverses flow yearly
-score: 0.71
+score: 0.77
 loc_type: country
 ---
 

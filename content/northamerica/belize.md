@@ -13,7 +13,7 @@ quick_facts:
   Currency: Belize dollar (BZD), pegged 2:1 to USD
   Barrier Reef: Second longest in the world
   Language: "Only English-speaking country in Central America"
-score: 0.63
+score: 0.64
 title: Belize
 type: location
 loc_type: country

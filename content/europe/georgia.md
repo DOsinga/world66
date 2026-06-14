@@ -13,7 +13,7 @@ quick_facts:
   Budget Meal: "~$3–5"
   Winemaking Tradition: "8,000 years old"
   Unique Alphabet: "One of only 14 in the world"
-score: 0.48
+score: 0.78
 title: Georgia
 type: location
 loc_type: country

@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$1-2"
   Languages: "22 official"
   Railway Network: "68,000 km"
-score: 0.31
+score: 0.96
 title: India
 type: location
 loc_type: country

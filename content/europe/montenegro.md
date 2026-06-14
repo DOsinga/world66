@@ -15,7 +15,7 @@ quick_facts:
   Currency: Euro (non-EU)
   Tara River Canyon: "1,300 m deep — Europe's deepest"
   Coastline: "294 km with 117 beaches"
-score: 0.7
+score: 0.68
 loc_type: country
 ---
 

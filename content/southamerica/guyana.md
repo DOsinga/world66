@@ -15,7 +15,7 @@ quick_facts:
   Drives On: Left
   Language: "Only English-speaking country in South America"
   Kaieteur Falls: "5× higher than Niagara"
-score: 0.39
+score: 0.46
 loc_type: country
 ---
 

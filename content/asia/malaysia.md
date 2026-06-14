@@ -14,7 +14,7 @@ quick_facts:
   Drives On: Left
   Oldest Rainforest: "130 million years"
   Street Food Meal: "under $2"
-score: 0.5
+score: 0.78
 title: Malaysia
 type: location
 loc_type: country

@@ -15,7 +15,7 @@ quick_facts:
   Gorilla Permit: "$1,500"
 done:
   country_cleanup: 2026-03-31
-score: 0.56
+score: 0.64
 loc_type: country
 ---
 

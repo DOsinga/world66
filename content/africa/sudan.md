@@ -8,7 +8,7 @@ quick_facts:
   Language: "Arabic"
   Pyramids: "~255 (more than Egypt)"
   Nile Confluence: Blue + White Nile meet at Khartoum
-score: 0.22
+score: 0.25
 loc_type: country
 ---
 

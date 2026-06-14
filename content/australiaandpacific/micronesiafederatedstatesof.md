@@ -1,4 +1,5 @@
 ---
+score: 0.41
 title: Micronesia, Federated States of
 type: location
 loc_type: country

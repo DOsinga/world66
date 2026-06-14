@@ -15,7 +15,7 @@ quick_facts:
   Budget Meal: "~$5–7"
   Thermal Springs: "Over 1,000 natural hot springs"
   Rubik's Cube: Invented in Budapest in 1974
-score: 0.44
+score: 0.76
 loc_type: country
 ---
 

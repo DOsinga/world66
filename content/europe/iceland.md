@@ -15,7 +15,7 @@ quick_facts:
   Cost Level: "A beer costs ~$12"
   Glaciers: "Cover 11% of the country"
   No Surnames: Icelanders use patronymics
-score: 0.81
+score: 0.84
 loc_type: country
 ---
 

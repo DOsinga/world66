@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$2–3"
   Bilingual Nation: Spanish and Guaraní both official
   Largest Hydroelectric Dam: Itaipú supplies 86% of electricity
-score: 0.42
+score: 0.46
 loc_type: country
 ---
 

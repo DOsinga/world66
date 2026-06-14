@@ -14,7 +14,7 @@ quick_facts:
   Currency: Singapore Dollar (SGD)
   Land Area: "730 km² (and still growing via reclamation)"
   Hawker Centres: "UNESCO-recognised street food culture"
-score: 0.84
+score: 0.69
 title: Singapore
 type: location
 loc_type: country

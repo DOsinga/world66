@@ -13,7 +13,7 @@ quick_facts:
   Driving Side: Left
   Sheep-to-People Ratio: "5 to 1"
   First Country to Grant Women the Vote: "1893"
-score: 0.8
+score: 0.91
 title: New Zealand
 type: location
 loc_type: country

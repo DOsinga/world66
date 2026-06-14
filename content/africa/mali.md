@@ -15,7 +15,7 @@ quick_facts:
   Language: French
   Size: "twice the size of France"
   Great Mosque of Djenné: largest mud-brick building in the world
-score: 0.27
+score: 0.39
 loc_type: country
 ---
 

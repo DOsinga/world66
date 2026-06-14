@@ -1,4 +1,5 @@
 ---
+score: 0.07
 title: British Indian Ocean Territory
 type: location
 loc_type: country

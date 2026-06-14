@@ -1,4 +1,5 @@
 ---
+score: 0.17
 title: Central African Republic
 type: location
 loc_type: country

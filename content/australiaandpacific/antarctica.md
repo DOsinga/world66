@@ -1,4 +1,5 @@
 ---
+score: 0.71
 title: "Antarctica"
 type: location
 image: antarctica.jpg

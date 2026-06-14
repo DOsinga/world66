@@ -16,7 +16,7 @@ quick_facts:
   Budget Meal: "~$4–5"
   Belgrade Fortress: Besieged by 115 armies
   Rakija: National spirit, homemade in most households
-score: 0.48
+score: 0.65
 title: Serbia
 type: location
 loc_type: country

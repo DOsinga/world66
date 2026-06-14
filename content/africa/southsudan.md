@@ -15,7 +15,7 @@ quick_facts:
   White Nile: "Flows through the country north to south"
 done:
   country_cleanup: 2026-03-31
-score: 0.18
+score: 0.13
 loc_type: country
 ---
 

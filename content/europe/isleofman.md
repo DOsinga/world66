@@ -15,7 +15,7 @@ quick_facts:
   Currency: Manx Pound (£)
   Tynwald Parliament: "Founded 979 AD — still sitting"
   TT Race Top Speed: "Over 330 km/h on public roads"
-score: 0.56
+score: 0.39
 loc_type: country
 ---
 

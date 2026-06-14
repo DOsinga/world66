@@ -106,7 +106,16 @@ python3 tools/grep_obscura.py <country> <city>
 
 Focus POIs on the neighbourhood's character. A museum district should have museums; a dining neighbourhood needs restaurants; a creative district needs galleries and bars. See the `location_enrich` TASK.md for POI writing standards.
 
-Every new POI (`type: poi`) must include a `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city — if the city already has a 9.0 for its most iconic sight, score new POIs relative to that. `type: neighbourhood` files do **not** get a score.
+Every new POI (`type: poi`) must include:
+- A `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city — if the city already has a 9.0 for its most iconic sight, score new POIs relative to that. `type: neighbourhood` files do **not** get a score.
+- A `snippet` field — one factual line (10–20 words) saying what the place IS. No period. No leading "A" or "The". Be specific: name the era, cuisine, style, or what makes it notable. Example: `"Baroque church with the oldest working pipe organ in the country"` not `"Popular historic church worth visiting"`.
+
+**No concept or filler POIs.** Every POI must be a specific, named, visitable place. Do not create POIs for:
+- Generalised activities: "Bar scene in Shoreditch", "Street food in Chinatown", "Daily life in Kazimierz"
+- Navigation entries: "Getting to X by taxi", "Walking from A to B"
+- Vague categories: "Local markets", "Rooftop bars", "Jazz clubs"
+
+If you can't name a specific place with a real address, don't create the POI.
 
 **After adding POIs, re-run the count for each neighbourhood.** If any neighbourhood is still under 10, keep going.
 
@@ -128,6 +137,8 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 - [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs
+- [ ] Every new POI has a `snippet` field — one specific factual line, 10–20 words, no period
+- [ ] No concept or filler POIs — every POI is a specific named place with a real address
 - [ ] `eating_out` has at least 10–15 POIs for a major city (add restaurants if thin)
 - [ ] No legacy section subdirectories remain (any `eating_out/`, `things_to_do/` *directories* have been flattened)
 
@@ -138,4 +149,4 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 | `europe/netherlands/amsterdam` | Gold standard — 20 neighbourhoods, all with images |
 | `asia/japan/tokyo` | 12 neighbourhoods, well-tagged POIs |
 | `southamerica/chile/santiago` | 10 neighbourhoods, complete tagging |
-| `europe/italy/lazio/rome` | Partial (3) — shows the tagging pattern in action |
+| `europe/italy/lazio/rome` | Full implementation — processed in batch_0005 |

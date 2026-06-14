@@ -1,16 +1,18 @@
 ---
-address: 17 Jiak Kim Street, Singapore
+address: 3C River Valley Road, Clarke Quay, Singapore 179022
 done:
   poi_cleanup: '2026-04-19'
-latitude: 1.2893
-longitude: 103.831
-score: 5.4
-snippet: Electronic and hip-hop nights inside the Zouk complex
+latitude: 1.2907
+longitude: 103.8463
+score: 6.0
+snippet: Hip-hop and R&B room inside the Zouk complex at Clarke Quay
 tags:
 - nightlife
-- tiong_bahru
+- clarke_quay
 title: Phuture
 type: poi
 ---
 
-Phuture sits inside the Zouk complex, Singapore's most famous clubbing institution. Where the main Zouk room goes heavy on house and techno, Phuture leans toward hip-hop, R&B, and electronic beats. The vibe is more laid-back than the main floor, making it a good spot to ease into a night out or wind down from one. Open Wednesday through Saturday; expect long queues on weekends.
+Phuture is the hip-hop and R&B room inside the Zouk complex at Clarke Quay — the more laid-back counterpart to the main Zouk floor, which runs on house and techno. The vibe is looser and the crowd slightly younger, making it a good entry point for a night at Zouk or a spot to wind down from the main room. Open Wednesday through Saturday; expect queues on weekends.
+
+Zouk relocated from its original Jiak Kim Street home to Clarke Quay in 2016. Check current opening hours before visiting.

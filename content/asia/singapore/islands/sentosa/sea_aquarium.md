@@ -1,15 +1,17 @@
 ---
-title: "S.E.A. Aquarium"
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - aquarium
 latitude: 1.2548
 longitude: 103.8198
-sources:
-  - https://en.wikipedia.org/wiki/Singapore_Oceanarium
 score: 7.4
+snippet: One of the world largest aquariums, with sharks and manta rays in a massive
+  Open Ocean tank
+sources:
+- https://en.wikipedia.org/wiki/Singapore_Oceanarium
+tags:
+- things_to_do
+- museum
+- aquarium
+title: S.E.A. Aquarium
+type: poi
 ---
 
 The S.E.A. Aquarium at Resorts World Sentosa holds around 100,000 marine animals across more than 800 species, displayed in 50 themed zones that trace an imaginary voyage from the Red Sea to the South China Sea. The centrepiece is the Open Ocean habitat — one of the world's largest aquarium panels, measuring 36 by 8.3 metres, with sharks, manta rays, and schools of tuna circling in front of it. Allow two to three hours for a thorough visit.

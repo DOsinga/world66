@@ -1,11 +1,21 @@
 ---
-title: Coral Lagoon
-type: poi
-tags: [things_to_do, sight, swimming]
 latitude: 1.224
 longitude: 103.749
-story: The narrow seawall linking Pulau Hantu's two islands creates a sheltered lagoon that has allowed coral to establish itself despite the murky waters of the Strait of Singapore — a minor miracle given the tanker traffic and land reclamation happening on all sides. Marine biologists from the National University of Singapore monitor the reefs here and have recorded over 30 species of hard coral, along with nudibranch, cuttlefish, and the occasional reef shark cruising the deeper edges.
 score: 8.8
+snippet: Surprisingly rich coral reef in a sheltered lagoon on Pulau Hantu, best snorkelled
+  at low tide
+story: The narrow seawall linking Pulau Hantu's two islands creates a sheltered lagoon
+  that has allowed coral to establish itself despite the murky waters of the Strait
+  of Singapore — a minor miracle given the tanker traffic and land reclamation happening
+  on all sides. Marine biologists from the National University of Singapore monitor
+  the reefs here and have recorded over 30 species of hard coral, along with nudibranch,
+  cuttlefish, and the occasional reef shark cruising the deeper edges.
+tags:
+- things_to_do
+- sight
+- swimming
+title: Coral Lagoon
+type: poi
 ---
 
 The coral lagoon at Pulau Hantu is the reason people make the effort to get out here. Snorkeling conditions are never tropical-postcard perfect — the Strait of Singapore is turbid, and visibility typically runs between two and five metres — but what you find once you're in is genuinely surprising. Brain corals, table corals, and staghorn corals crowd the shallower sections, and the fish life is richer than you'd expect this close to one of the world's busiest shipping lanes. Look for schools of damselfish, batfish hanging motionless in mid-water, and sea anemones hosting clownfish that seem entirely unbothered by the industrialised cityscape looming on the horizon.

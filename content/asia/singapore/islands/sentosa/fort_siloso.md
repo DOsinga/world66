@@ -1,15 +1,17 @@
 ---
-title: "Fort Siloso"
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - historic_site
 latitude: 1.2503
 longitude: 103.8108
-sources:
-  - https://en.wikipedia.org/wiki/Sentosa
 score: 8.1
+snippet: Last surviving British coastal gun battery in Singapore, with tunnels and
+  WWII exhibits
+sources:
+- https://en.wikipedia.org/wiki/Sentosa
+tags:
+- things_to_do
+- museum
+- historic_site
+title: Fort Siloso
+type: poi
 ---
 
 Fort Siloso occupies the western tip of Sentosa and preserves the last surviving coastal gun battery in Singapore. Built by the British in the 1880s to guard the western approaches to Keppel Harbour, the fort saw action in February 1942 when Japanese forces invaded from the north through Malaya — a direction the fixed guns could not cover. The battery surrendered without firing a shot seaward.

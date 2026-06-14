@@ -1,14 +1,16 @@
 ---
 latitude: 34.9876
 longitude: 135.7593
-snippet: 131-metre observation tower facing Kyoto Station, controversial since the day it opened
+score: 5.7
+snippet: 131-metre observation tower facing Kyoto Station, controversial since the
+  day it opened
 tags:
 - things_to_do
 - sight
 - viewpoint
+- nishiki
 title: Kyoto Tower
 type: poi
-score: 5.7
 ---
 
 Kyoto Tower opened in 1964, just before the Tokyo Olympics, and immediately became the most controversial building in the city — a 131-metre white spire on top of a department store, completed in defiance of a long-standing convention that nothing should rise above the rooflines of the temples. Critics objected at the time; locals have since become fond of it in the way that Parisians eventually became fond of the Eiffel Tower.

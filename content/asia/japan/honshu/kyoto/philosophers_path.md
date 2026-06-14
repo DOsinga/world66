@@ -1,15 +1,19 @@
 ---
 latitude: 35.0264
 longitude: 135.7948
-snippet: Two-kilometre canal-side walk between Nanzen-ji and Ginkaku-ji, lined with cherry trees
-story: The path takes its name from the philosopher Nishida Kitarō, who walked it daily during his teaching years at Kyoto University in the early twentieth century while meditating on Zen and Western metaphysics.
+score: 7.7
+snippet: Two-kilometre canal-side walk between Nanzen-ji and Ginkaku-ji, lined with
+  cherry trees
+story: The path takes its name from the philosopher Nishida Kitarō, who walked it
+  daily during his teaching years at Kyoto University in the early twentieth century
+  while meditating on Zen and Western metaphysics.
 tags:
 - things_to_do
 - sight
 - walk
+- philosophers_walk
 title: Philosopher's Path
 type: poi
-score: 7.7
 ---
 
 The Philosopher's Path (*Tetsugaku no Michi*) follows a small canal — actually the Lake Biwa aqueduct — for about two kilometres through the foothills of the Higashiyama, connecting Nanzen-ji in the south with Ginkaku-ji in the north. Hundreds of cherry trees line the route, planted by the painter Hashimoto Kansetsu, and at the end of March the path becomes one of the most spectacular blossom walks in the country.

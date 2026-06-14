@@ -1,15 +1,17 @@
 ---
 latitude: 35.0526
 longitude: 135.7991
-snippet: 17th-century imperial mountain villa in the north-east hills, with three terraced gardens
+score: 8.6
+snippet: 17th-century imperial mountain villa in the north-east hills, with three
+  terraced gardens
 tags:
 - things_to_do
 - villa
 - garden
 - sight
+- philosophers_walk
 title: Shūgakuin Imperial Villa
 type: poi
-score: 8.6
 ---
 
 Shūgakuin Imperial Villa was built in the 1650s for the retired emperor Go-Mizunoo on a wooded hillside in the north-eastern foothills, at the bottom of Mount Hiei. Unlike Katsura, which is essentially a small architectural set piece, Shūgakuin is a vast landscape garden — three separate enclosures (Lower, Middle, and Upper) connected by long walks through fields and pine groves that the imperial estate still maintains in something close to their seventeenth-century state.

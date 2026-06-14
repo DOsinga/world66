@@ -1,14 +1,17 @@
 ---
 latitude: 35.0078
 longitude: 135.7765
-snippet: Small canal lined with weeping willows and old tea houses in the northern part of Gion
+score: 7.4
+snippet: Small canal lined with weeping willows and old tea houses in the northern
+  part of Gion
 tags:
 - things_to_do
 - gion
 - sight
+- eating_out
+- bars_and_cafes
 title: Shirakawa
 type: poi
-score: 7.4
 ---
 
 Shirakawa ("white river") is a small canal running east–west through the northern part of Gion, lined with cherry trees, willows, and a row of two-storey wooden tea houses with low stone walls. It is more atmospheric and considerably less crowded than the main Hanamikōji a few blocks south, and the views down the canal in cherry-blossom season are some of the most photographed in Kyoto.

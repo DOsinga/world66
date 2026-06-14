@@ -1,7 +1,7 @@
 ---
 latitude: 13.75
 longitude: 100.5375
-score: 5.4
+score: 6.5
 snippet: Legendary multi-storey IT and electronics mall near Pratunam
 tags:
 - things_to_do

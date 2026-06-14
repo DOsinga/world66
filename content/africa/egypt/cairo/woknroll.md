@@ -5,12 +5,13 @@ done:
 latitude: 30.058056
 longitude: 31.200278
 phone: +20 2 7490092
+score: 4.1
 snippet: Asian wok dishes in Mohandiseen with a diverse menu
 tags:
 - eating_out
+- mohandiseen
 title: Wok-n-Roll
 type: poi
-score: 4.1
 ---
 
 Malaysian, Thai, and Chinese dishes in Mohandiseen. The wok dishes are reliably good and the menu is one of the more diverse in the city for Asian food.

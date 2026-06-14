@@ -5,12 +5,13 @@ done:
 latitude: 30.049444
 longitude: 31.235556
 phone: +20 2 3369700
+score: 4.6
 snippet: Indonesian restaurant offering a break from local fare
 tags:
 - eating_out
+- downtown
 title: Madura
 type: poi
-score: 4.6
 ---
 
 One of Cairo's few Indonesian restaurants, and a welcome change of pace if you have been eating Egyptian and Middle Eastern food for days. The menu covers the Indonesian essentials — nasi goreng, satay, gado-gado, and rendang — at reasonable prices. The downtown location near Galaa Square makes it easy to reach. Service is relaxed and the portions are generous.

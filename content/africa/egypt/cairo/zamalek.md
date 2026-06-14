@@ -1,11 +1,17 @@
 ---
-title: "Zamalek"
-type: neighbourhood
-tags:
-  - things_to_do
-  - neighbourhood
-latitude: 30.0640
+image: zamalek.jpg
+image_attribution: Francisco Anzola
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Zamalek_(Cairo)_(2348060732).jpg
+latitude: 30.064
 longitude: 31.2178
+snippet: Nile island enclave with embassies, art deco villas, and Cairo's most reliable
+  international restaurants
+tags:
+- things_to_do
+- neighbourhood
+title: Zamalek
+type: neighbourhood
 ---
 
 Zamalek occupies the northern end of Gezira Island in the Nile, and functions as Cairo's most cosmopolitan neighbourhood — home to embassies, NGOs, expat residents, and the city's most reliable cluster of international-quality restaurants and cafés. The streets are quieter than the rest of central Cairo, shaded by old trees, and the architecture is a pleasant mix of art deco and early 20th-century colonial villas.

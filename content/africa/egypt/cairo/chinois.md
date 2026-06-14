@@ -5,13 +5,14 @@ done:
 latitude: 30.088333
 longitude: 31.325556
 phone: +20 2 2677730
+score: 4.1
 snippet: Teppanyaki and Japanese dining in Heliopolis
 tags:
 - eating_out
 - restaurant
+- heliopolis
 title: Chinois
 type: poi
-score: 4.1
 ---
 
 A teppanyaki restaurant in the Heliopolis district, Chinois has long been one of Cairo's more reliable options for Japanese food. The teppanyaki counter is the main attraction -- watching the chef work the grill is half the experience. Sushi and sashimi are also on offer, though the cooked dishes tend to be stronger.

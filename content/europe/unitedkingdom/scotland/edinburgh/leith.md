@@ -4,6 +4,7 @@ longitude: -3.17
 snippet: Edinburgh's reborn port district with Michelin stars and the Royal Yacht
 tags:
 - things_to_do
+- neighbourhood
 - restaurant
 title: Leith
 type: neighbourhood

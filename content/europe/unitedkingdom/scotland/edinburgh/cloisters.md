@@ -5,13 +5,14 @@ done:
 latitude: 55.943897
 longitude: -3.201422
 phone: 0131 221 9997
+score: 7.5
 snippet: No-nonsense cask ale pub in a converted parsonage
 tags:
 - bars_and_cafes
 - bar
+- newtown
 title: Cloisters
 type: poi
-score: 7.5
 ---
 
 A converted parsonage on the edge of Tollcross that does the traditional Edinburgh pub right: no music, no slot machines, no fuss. Eight to ten cask ales, a long row of single malts and a serious clientele of beer drinkers. Excellent pub lunch.

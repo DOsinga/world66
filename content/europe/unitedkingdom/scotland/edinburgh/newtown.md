@@ -4,6 +4,7 @@ longitude: -3.199167
 snippet: UNESCO-listed Georgian grid of terraces, crescents and squares
 tags:
 - things_to_do
+- neighbourhood
 title: New Town
 type: neighbourhood
 ---

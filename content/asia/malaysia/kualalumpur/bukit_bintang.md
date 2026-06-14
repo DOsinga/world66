@@ -1,6 +1,10 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: bukit_bintang.jpg
+image_attribution: Yu Chu Chin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bukit_Bintang_in_Kuala_Lumpur,_Malaysia_-_04.jpg
 latitude: 3.147107
 longitude: 101.708601
 snippet: KL's main shopping and nightlife strip

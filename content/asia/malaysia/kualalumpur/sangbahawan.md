@@ -1,12 +1,13 @@
 ---
-title: "Sangeetha Vegetarian Restaurant"
-type: poi
-latitude: 3.1300
-longitude: 101.6870
-tags:
-  - eating_out
-  - restaurant
+latitude: 3.13
+longitude: 101.687
 score: 6.0
+tags:
+- eating_out
+- restaurant
+- bangsar
+title: Sangeetha Vegetarian Restaurant
+type: poi
 ---
 
 A South Indian vegetarian institution in the heart of Brickfields, part of a small Chennai-based chain that opened its Brickfields branch in 2010 and quickly became one of the busier vegetarian restaurants in KL. The menu runs through the standard Tamil Nadu repertoire — masala dosa, idli, vada, uthappam, biryani — with a long list of regional thali sets at lunch.

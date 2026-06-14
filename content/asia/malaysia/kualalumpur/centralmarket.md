@@ -1,14 +1,14 @@
 ---
 latitude: 3.1446
 longitude: 101.695532
-snippet: "Restored 1930s art deco market hall selling Malaysian crafts and batik"
+score: 7.8
+snippet: Restored 1930s art deco market hall selling Malaysian crafts and batik
 tags:
 - shopping
-- chinatown
 - market
+- chinatown
 title: Central Market
 type: poi
-score: 7.8
 ---
 
 Built in 1936 as a wet market, this pastel-blue art deco building near the Klang River was rescued from demolition in the 1980s and converted into a crafts and cultural market. Today it sells batik, pewterware, shadow puppets, woodcarvings, and other Malaysian handicrafts across two floors, with live demonstrations of traditional crafts running through the day.

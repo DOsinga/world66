@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Chinatown
 type: neighbourhood
+image: chinatown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Jalan_Petaling._2019-12-10_21-37-24.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Shesmax (Maxim Shesterikov)
 ---
 
 Chinatown sits about 300 metres south-east of Merdeka Square, centred on Jalan Petaling — a car-free market street that's at its best after dark, when stalls, food vendors, and bright lights take over. You'll find old shophouses selling Chinese herbs, jewellery, and baskets alongside fortune tellers, flower sellers, and sign painters spreading their wares across the pavements.

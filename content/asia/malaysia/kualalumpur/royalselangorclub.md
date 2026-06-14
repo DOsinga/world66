@@ -1,13 +1,14 @@
 ---
-title: "Royal Selangor Club"
-type: poi
 latitude: 3.1492
 longitude: 101.6928
-tags:
-  - things_to_do
-  - architecture
-  - sight
 score: 6.2
+tags:
+- things_to_do
+- architecture
+- sight
+- chinatown
+title: Royal Selangor Club
+type: poi
 ---
 
 The Royal Selangor Club has stood on the west side of Merdeka Square since 1884, a long mock-Tudor building of black timber and white plaster that looks as though it belongs in Surrey rather than the equator. It was the social heart of colonial KL — its long bar earned the nickname "the Spotted Dog", supposedly after a member's pet — and remains a private club today, with cricket pitches and tennis courts spread across the field opposite.

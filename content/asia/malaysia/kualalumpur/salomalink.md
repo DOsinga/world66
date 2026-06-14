@@ -1,13 +1,14 @@
 ---
-title: "Saloma Link"
-type: poi
-latitude: 3.1610
+latitude: 3.161
 longitude: 101.7081
-tags:
-  - things_to_do
-  - sight
-  - architecture
 score: 6.4
+tags:
+- things_to_do
+- sight
+- architecture
+- klcc
+title: Saloma Link
+type: poi
 ---
 
 A 370-metre pedestrian and cycle bridge across the Klang River, opened in 2020 and named after the legendary 1960s Malaysian singer Saloma. The design — twin folded steel arches encrusted in 4,000 LED panels that change colour through the evening — is by Singaporean architect Ar Khairul Ariffin, and connects the **Kampung Baru** Malay village on one side with the **KLCC** financial district on the other.

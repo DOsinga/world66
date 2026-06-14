@@ -1,12 +1,13 @@
 ---
-title: "Telekom Museum"
-type: poi
 latitude: 3.1489
 longitude: 101.6991
-tags:
-  - things_to_do
-  - museum
 score: 5.6
+tags:
+- things_to_do
+- museum
+- chinatown
+title: Telekom Museum
+type: poi
 ---
 
 Malaysia's first interactive museum, housed in a 1928 Art Deco building that originally served as the central telephone exchange of British Malaya. The collection traces the history of telecommunications in the country from the colonial telegraph through hand-cranked switchboards to the early mobile-phone era, with a number of working exhibits to play with.

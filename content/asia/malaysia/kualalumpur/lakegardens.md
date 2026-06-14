@@ -3,13 +3,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 3.143795
 longitude: 101.684817
+score: 7.3
 snippet: Sprawling urban parkland with a lake, birds, and orchids
 tags:
 - things_to_do
 - landmark
+- lake_gardens
 title: Lake Gardens
 type: poi
-score: 7.3
 ---
 
 Kuala Lumpur's largest public park, 92 hectares of green space west of the city centre. The centrepiece is Tasik Perdana, a pleasant artificial lake where you can hire paddle boats. Walking paths wind through rolling lawns, rain trees, and flowering shrubs.

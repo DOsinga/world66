@@ -1,6 +1,9 @@
 ---
 latitude: 31.6295
 longitude: -7.9811
+image: medina.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Bab_Agnaou.jpg"
+image_license: "CC BY 3.0"
 tags:
 - things_to_do
 - neighbourhood

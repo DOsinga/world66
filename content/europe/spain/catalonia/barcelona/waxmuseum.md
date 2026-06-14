@@ -1,7 +1,7 @@
 ---
 latitude: 41.377101
 longitude: 2.177456
-score: 4.6
+score: 6.0
 snippet: Over 300 wax figures in a theatrical neoclassical setting
 tags:
 - things_to_do

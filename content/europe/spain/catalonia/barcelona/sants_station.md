@@ -1,7 +1,7 @@
 ---
 latitude: 41.381469
 longitude: 2.141114
-score: 2.8
+score: 5.5
 snippet: Barcelona main train station and transport hub
 tags:
 - practical_information

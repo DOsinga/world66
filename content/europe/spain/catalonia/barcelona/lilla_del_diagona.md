@@ -1,7 +1,7 @@
 ---
 latitude: 41.3933
 longitude: 2.1326
-score: 4.8
+score: 5.5
 snippet: Upscale shopping mall anchoring the upper Diagonal boulevard
 tags:
 - shopping

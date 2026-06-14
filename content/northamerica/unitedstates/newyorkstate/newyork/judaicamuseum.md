@@ -5,13 +5,14 @@ done:
 latitude: 40.89897
 longitude: -73.92199
 phone: +1 718 549 8700
+score: 5.0
 snippet: Intimate Jewish heritage museum overlooking the Hudson in Riverdale
 tags:
 - things_to_do
 - museum
+- harlem
 title: Judaica Museum
 type: poi
-score: 5.0
 ---
 
 Housed within the Hebrew Home at Riverdale overlooking the Hudson, this small museum presents 150 years of Jewish history through 800 artifacts — ceremonial objects, textiles, and items from synagogue life. It offers an intimate alternative to the larger Jewish heritage museums downtown, with rotating exhibits and educational programs.

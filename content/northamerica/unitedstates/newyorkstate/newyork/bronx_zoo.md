@@ -5,13 +5,14 @@ done:
 latitude: 40.845415
 longitude: -73.877354
 phone: 718-367-1010
+score: 8.7
 snippet: Largest metropolitan zoo in the US, 265 acres of habitats
 tags:
 - things_to_do
+- harlem
 title: Bronx Zoo
 type: poi
 url: www.bronxzoo.com
-score: 8.7
 ---
 
 The largest metropolitan zoo in the United States, with 265 acres and over 4,000 animals. The indoor Jungle World habitat — a recreated Asian rainforest complete with gibbons, hornbills, and langurs — is genuinely impressive, as is the Congo Gorilla Forest. Go on a weekday in spring or fall to avoid the worst of the crowds.

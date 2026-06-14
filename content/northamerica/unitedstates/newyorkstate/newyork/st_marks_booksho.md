@@ -5,14 +5,15 @@ done:
 latitude: 40.72904
 longitude: -73.98934
 phone: 212-260-7853
+score: 6.6
 snippet: East Village indie bookshop for literary fiction and theory
 tags:
 - shopping
 - shop
+- soho
 title: St. Mark's Bookshop
 type: poi
 url: www.stmarksbookshop.com
-score: 6.6
 ---
 
 An East Village institution for readers who care about what they're reading. St. Mark's stocks cultural theory, literary fiction, poetry, and an excellent selection of literary journals and zines. The kind of bookshop where browsing the shelves teaches you something, and the staff recommendations can be trusted.

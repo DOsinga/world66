@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.738224
 longitude: -73.987684
+score: 6.4
 snippet: Manhattan's only private park, ringed by elegant townhouses
 tags:
 - things_to_do
 - park
+- midtown
 title: Gramercy Park
 type: poi
-score: 6.4
 ---
 
 One of Manhattan's great quirks: a private park in the middle of the city, accessible only to residents of the surrounding townhouses. Even without a key, the wrought-iron perimeter makes for a pleasant stroll. The 19th-century row houses in Gothic revival and Italianate styles that ring the park are among the finest in the city — take the 6 train to 23rd Street and walk a block south.

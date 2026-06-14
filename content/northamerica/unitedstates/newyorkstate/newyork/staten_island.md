@@ -3,13 +3,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.583456
 longitude: -74.149605
+score: 7.7
 snippet: NYC's quietest borough with free ferry views
 tags:
 - day_trips
 - park
+- statenisland
 title: Staten Island
 type: poi
-score: 7.7
 ---
 
 The forgotten borough deserves better than its reputation as a place you pass through on the way to nowhere. The Staten Island Ferry alone is worth the trip -- a free, 25-minute ride with unbeatable views of the Statue of Liberty and Lower Manhattan skyline.

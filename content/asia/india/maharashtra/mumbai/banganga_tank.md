@@ -2,6 +2,7 @@
 latitude: 18.9542
 longitude: 72.7972
 score: 8.8
+snippet: Ancient sacred tank surrounded by Hindu temples, one of Mumbai's oldest surviving sites
 story: 'According to legend, the tank was created when Lord Rama''s arrow struck the
   ground and the waters of the Ganges sprang up — hence "Banganga" (arrow of the Ganga).
   The tank is believed to be one of the oldest surviving structures in Mumbai, predating
@@ -10,7 +11,11 @@ story: 'According to legend, the tank was created when Lord Rama''s arrow struck
 
   '
 tags:
+- things_to_do
+- culture
 - malabar_hill
+title: Banganga Tank
+type: poi
 ---
 
 A sacred bathing tank surrounded by Hindu temples in the Walkeshwar neighbourhood on Malabar Hill. The tank has been here since at least the 12th century and is one of the most tranquil spots in Mumbai — an extraordinary contrast to the density of the city immediately around it. The ghats (stone steps) descend into the water, and the tank is used daily for ritual bathing.

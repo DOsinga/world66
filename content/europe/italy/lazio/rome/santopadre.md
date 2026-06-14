@@ -5,13 +5,14 @@ done:
 latitude: 41.908019
 longitude: 12.493842
 phone: +39 06 4745405
+score: 6.8
 snippet: Small upscale Roman restaurant near Via Veneto, dinner only
 tags:
 - eating_out
 - restaurant
+- monti
 title: Santopadre
 type: poi
-score: 6.8
 ---
 
 Small upscale restaurant near Via Veneto with a strong reputation for quality cooking and attentive service. Dinner only. Closed Sundays and for two weeks in August.

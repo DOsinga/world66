@@ -5,12 +5,13 @@ done:
 latitude: 41.8827
 longitude: 12.4751
 opening_hours: Tue–Sun 19:00–23:30; closed Mon
+score: 8.0
 snippet: Inventive Neapolitan pizza in a buzzy Testaccio room
 tags:
 - eating_out
+- trastevere
 title: Seu Pizza Illuminati
 type: poi
-score: 8.0
 ---
 
 One of Rome's most ambitious pizzerias — Neapolitan technique applied to high-quality, sometimes unusual toppings, in a sharp neon-lit room in Testaccio. Pier Daniele Seu trained in Naples and brings the soft, charred cornicione to Rome, then fills it with things like burrata, nduja, and seasonal produce that wouldn't exist on a traditional menu. The fried starters (montanarine, crocché) are excellent. Book ahead; this is one of the most popular pizzerias in the city.

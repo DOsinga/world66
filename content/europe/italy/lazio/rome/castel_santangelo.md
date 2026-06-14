@@ -4,6 +4,7 @@ admission: €14
 latitude: 41.9031
 longitude: 12.4663
 opening_hours: Tue–Sun 09:00–19:30; closed Mon
+score: 8.3
 snippet: Hadrian's mausoleum turned papal fortress with rooftop views
 tags:
 - 48 Hours in Rome
@@ -11,10 +12,10 @@ tags:
 - things_to_do
 - museum
 - palace
+- prati
 title: Castel Sant'Angelo
 type: poi
 url: www.castelsantangelo.beniculturali.it
-score: 8.3
 ---
 
 A cylindrical fortress on the Tiber built as a mausoleum for Emperor Hadrian in AD 139, converted in the Middle Ages into a papal stronghold and connected to the Vatican by an elevated passageway (the Passetto di Borgo) used by popes fleeing in emergencies. Now a museum with rooms ranging from Roman-era foundations to lavishly frescoed Renaissance papal apartments at the top.

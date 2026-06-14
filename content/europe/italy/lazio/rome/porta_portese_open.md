@@ -5,14 +5,15 @@ done:
 latitude: 41.881
 longitude: 12.475
 opening_hours: Sundays 07:00-13:00
+score: 6.7
 snippet: Rome's sprawling Sunday-morning flea market in Trastevere
 tags:
 - shopping
 - shop
 - market
+- trastevere
 title: Porta Portese Flea Market
 type: poi
-score: 6.7
 ---
 
 Rome's most famous flea market, where hundreds of vendors sell everything from vintage furniture and antique books to paintings and accessories. Open Sundays only, and shoulder-to-shoulder by 10am, so arrive early for the best finds. Watch your pockets in the crowds.

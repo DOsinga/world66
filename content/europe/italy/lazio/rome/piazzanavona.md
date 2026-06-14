@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.8989
 longitude: 12.473
+score: 8.4
 snippet: Rome's grandest Baroque square on an ancient stadium
 tags:
 - 48 Hours in Rome
@@ -11,9 +12,9 @@ tags:
 - things_to_do
 - square
 - cafe
+- pantheon_navona
 title: Piazza Navona
 type: poi
-score: 8.4
 ---
 
 Rome's most theatrical Baroque square, built on the footprint of the 1st-century Stadium of Domitian — its elongated shape still traces the ancient racecourse beneath. Three fountains punctuate the piazza; Bernini's Fontana dei Quattro Fiumi (1651), with river gods symbolising the Nile, Ganges, Danube, and Río de la Plata, is the centrepiece.

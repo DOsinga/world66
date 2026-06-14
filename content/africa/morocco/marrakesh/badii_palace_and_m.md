@@ -10,6 +10,7 @@ tags:
 - sight
 - mosque
 - mellah
+- kasbah
 title: El Badi Palace
 type: poi
 score: 8.9

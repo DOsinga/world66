@@ -3,12 +3,13 @@ address: 3818 Meadows Lane, Las Vegas, NV 89107
 latitude: 36.1719
 longitude: -115.2099
 phone: 702 258-1554
+score: 4.8
 tags:
 - eating_out
 - cafe
+- chinatown
 title: The Wildflower Cafe & Florist
 type: poi
-score: 4.8
 ---
 
 Full-service restaurant tucked into the south end of Meadows Mall, well west of the Strip. Breakfast, lunch, and dinner menus run to standard American fare — omelettes, sandwiches, salads, steak — at prices a fraction of what you would pay on Las Vegas Boulevard. The space doubles as a florist, which gives the dining room an oddly homey feel for a mall restaurant.

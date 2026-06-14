@@ -1,15 +1,17 @@
 ---
-title: Joël Robuchon at the MGM Grand
-type: poi
 address: 3799 Las Vegas Blvd South
 latitude: 36.1027
 longitude: -115.1701
-snippet: "Three-Michelin-star French tasting menu, the Strip's classic special-occasion meal"
+score: 8.1
+snippet: Three-Michelin-star French tasting menu, the Strip's classic special-occasion
+  meal
 tags:
 - eating_out
 - restaurant
 - center_strip
-score: 8.1
+- the_strip
+title: Joël Robuchon at the MGM Grand
+type: poi
 ---
 
 The American flagship of the late Joël Robuchon — once the most-Michelin-starred chef in history — sits inside the MGM Grand and holds the Strip's only three-star rating. The dining room is decked out like a Paris drawing room of the 1920s: chandeliers, velvet, polished wood, and a small bread cart rolled tableside that holds more than a dozen choices. Tasting menus run sixteen courses and cost accordingly.

@@ -5,6 +5,8 @@ latitude: 45.4737
 longitude: 9.1768
 opening_hours: Daily 06:30–21:00 (summer to 23:00)
 score: 6.5
+snippet: Main city park behind the Castello Sforzesco, with a small lake and the 1838
+  Arco della Pace
 tags:
 - things_to_do
 - sight

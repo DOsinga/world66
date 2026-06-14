@@ -3,6 +3,8 @@ address: Piazza Velasca 5, 20122 Milan
 latitude: 45.4601
 longitude: 9.1916
 score: 6.3
+snippet: Brutalist 1958 skyscraper with a mushroom-shaped overhanging top, a Milan
+  landmark
 tags:
 - things_to_do
 - architecture

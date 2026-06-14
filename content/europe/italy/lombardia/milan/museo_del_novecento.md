@@ -5,6 +5,8 @@ latitude: 45.4635
 longitude: 9.19
 opening_hours: Tue–Sun 10:00–19:30, Thu until 22:30; Mon 14:30–19:30
 score: 8.3
+snippet: 20th-century Italian art museum in the Arengario palace overlooking Piazza
+  del Duomo
 story: 'The museum occupies the Palazzo dell''Arengario — a fascist-era building that
   Mussolini used for speeches from a balcony overlooking Piazza del Duomo. The building''s
   grim political history and the modern art it now contains make for an unexpected

@@ -5,6 +5,7 @@ latitude: 45.4628
 longitude: 9.1933
 opening_hours: Mon–Fri 07:30–13:00, 14:00–17:30; Sat 09:30–12:30; closed Sun
 score: 7.1
+snippet: 14th-century ossuary chapel with walls lined with human bones and skulls
 story: 'The ossuary dates to around 1210, when the cemetery of the nearby hospital
   ran out of space. Rather than disturb consecrated ground, monks collected the overflowing
   bones and arranged them decoratively in a side chapel. The practice continued for

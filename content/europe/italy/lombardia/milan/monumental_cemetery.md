@@ -5,6 +5,8 @@ latitude: 45.4866
 longitude: 9.1787
 opening_hours: Tue–Sun 08:00–18:00; closed Mon
 score: 8.7
+snippet: Vast neo-Gothic cemetery with monumental sculptures by Italian masters, open
+  since 1866
 story: 'The Famedio — the ''Temple of Fame'' at the cemetery''s entrance — is reserved
   for Milan''s most celebrated citizens. Alessandro Manzoni, author of The Betrothed,
   is buried here, as is conductor Arturo Toscanini. Every year on November 2, the

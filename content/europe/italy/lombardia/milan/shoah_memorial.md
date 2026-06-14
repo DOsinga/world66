@@ -5,6 +5,8 @@ latitude: 45.4844
 longitude: 9.2021
 opening_hours: Tue–Fri 09:00–17:00, Sun 10:00–18:00; closed Mon, Sat
 score: 7.8
+snippet: Memorial inside Centrale station basement, where Milan Jews were deported
+  to Auschwitz
 story: 'The memorial occupies the underbelly of Milano Centrale station — the platform
   where deportation trains left for Auschwitz between 1943 and 1945. The track is
   preserved as found: the same platform, the same gap between train and edge, the

@@ -134,6 +134,8 @@ def location_or_section(request, path):
     _cpath = _city_path if page.page_type in NAV_TYPES else (
         page.path if nav_pages and not locations else None
     )
+    if not _cpath and page.page_type == "poi" and page.meta.get("provider_category"):
+        _cpath = _find_city_path(page.path)
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
@@ -142,6 +144,11 @@ def location_or_section(request, path):
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
+
+    # Provider category POIs display their bookable providers
+    providers = []
+    if page.page_type == "poi" and page.meta.get("provider_category"):
+        providers = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
@@ -281,6 +288,7 @@ def location_or_section(request, path):
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
         "inline_sections": inline_sections,
+        "providers": providers,
     })
 
 

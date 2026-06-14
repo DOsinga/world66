@@ -1,7 +1,9 @@
 ---
 latitude: 30.0444
 longitude: 31.2358
-score: 5.8
+score: 8.5
+snippet: The symbolic heart of Cairo, famous worldwide as the site of the 2011 revolution
+  that ended Mubarak's 30-year rule
 story: 'On 25 January 2011, several hundred thousand Egyptians converged on Tahrir
   Square to demand the end of Hosni Mubarak''s three-decade presidency. They stayed
   for 18 days. On 11 February Mubarak resigned, and the crowd''s reaction — the roar

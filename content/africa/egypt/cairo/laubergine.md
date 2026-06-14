@@ -1,7 +1,7 @@
 ---
 latitude: 30.060415
 longitude: 31.222838
-score: 5.0
+score: 6.5
 snippet: Rare vegetarian restaurant on Zamalek island
 tags:
 - eating_out

@@ -1,7 +1,9 @@
 ---
 latitude: 3.1472
 longitude: 101.6933
-score: 5.4
+score: 6.5
+snippet: Orientation museum on Merdeka Square with an enormous scale model of KL,
+  housed in the 1899 Government Printing Office
 tags:
 - things_to_do
 - museum

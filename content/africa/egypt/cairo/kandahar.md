@@ -3,7 +3,7 @@ address: El Dowal El Arabia St., Mohandiseen
 latitude: 30.058056
 longitude: 31.200278
 phone: +20 2 3030615
-score: 4.5
+score: 6.5
 snippet: Well-regarded Indian restaurant in Mohandiseen
 tags:
 - eating_out

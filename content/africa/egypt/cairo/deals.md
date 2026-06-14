@@ -3,7 +3,7 @@ address: El Sayed El Bakri Street, off 26th July Street, Zamalek
 latitude: 30.061944
 longitude: 31.223056
 phone: +20 2 3410502
-score: 4.7
+score: 6.0
 snippet: No-frills Zamalek bar popular with expats
 tags:
 - bars_and_cafes

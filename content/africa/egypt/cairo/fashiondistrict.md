@@ -3,7 +3,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 30.088889
 longitude: 31.325556
-score: 4.5
+score: 5.0
 snippet: Heliopolis boutique cluster with locally designed contemporary clothing
 tags:
 - shopping

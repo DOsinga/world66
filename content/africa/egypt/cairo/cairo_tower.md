@@ -1,7 +1,9 @@
 ---
 latitude: 30.045
 longitude: 31.2244
-score: 6.8
+score: 7.5
+snippet: Iconic 187-metre concrete tower on Gezira Island offering the best panoramic
+  view of Cairo, with a revolving restaurant at the top
 story: 'The Cairo Tower was built in 1961 during Nasser''s presidency, partly funded,
   according to Egyptian government sources, by CIA money that the Americans had given
   Nasser as a bribe to suppress the Egyptian communist movement. Nasser reportedly

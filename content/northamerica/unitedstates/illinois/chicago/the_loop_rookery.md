@@ -2,6 +2,8 @@
 latitude: 41.8796
 longitude: -87.6323
 score: 8.0
+snippet: 1888 Burnham and Root office building containing Frank Lloyd Wright's light-flooded
+  lobby renovation from 1905
 tags:
 - things_to_do
 - architecture

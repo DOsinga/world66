@@ -2,6 +2,7 @@
 latitude: 31.2397
 longitude: 121.4995
 score: 7.5
+snippet: Shanghai city history museum at the base of the Oriental Pearl Tower
 tags:
 - things_to_do
 - museum

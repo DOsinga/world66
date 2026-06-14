@@ -2,6 +2,8 @@
 latitude: 40.4124
 longitude: -3.7007
 score: 7.0
+snippet: Covered market on Calle Santa Isabel that reinvented itself as a gastronomic
+  market with international food stalls
 tags:
 - things_to_do
 - shopping

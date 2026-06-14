@@ -2,6 +2,8 @@
 latitude: 28.6536
 longitude: 77.1966
 score: 5.0
+snippet: Central green lung of Karol Bagh, a neighbourhood park popular for morning
+  walks
 tags:
 - things_to_do
 - park

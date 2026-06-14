@@ -2,6 +2,8 @@
 latitude: 31.232
 longitude: 121.451
 score: 6.0
+snippet: Wuding Road food street in Jing'an with casual restaurants and weekend market
+  stalls
 tags:
 - things_to_do
 - restaurant

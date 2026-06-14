@@ -2,6 +2,8 @@
 latitude: 28.6432
 longitude: 77.2115
 score: 6.5
+snippet: Rooftop cafés and restaurants on Main Bazaar catering to budget travellers
+  since the 1970s
 tags:
 - things_to_do
 - restaurant

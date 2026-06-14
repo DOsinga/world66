@@ -2,6 +2,8 @@
 latitude: 28.5494
 longitude: 77.2053
 score: 8.5
+snippet: Medieval reservoir, madrasa, and Feroz Shah Tughlaq's tomb complex overlooking
+  a lake
 tags:
 - things_to_do
 - historic

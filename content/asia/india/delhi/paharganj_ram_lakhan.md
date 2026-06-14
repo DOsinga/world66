@@ -2,6 +2,8 @@
 latitude: 28.624
 longitude: 77.2284
 score: 6.0
+snippet: Small, elegant antiques and crafts market near the Pandara Road area of central
+  Delhi
 tags:
 - things_to_do
 - shopping

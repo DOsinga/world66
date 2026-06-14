@@ -2,6 +2,8 @@
 latitude: 28.5922
 longitude: 77.2462
 score: 7.5
+snippet: 16th-century octagonal Sur-dynasty mausoleum in the gardens of Humayun's
+  Tomb
 tags:
 - things_to_do
 - historic

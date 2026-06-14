@@ -2,6 +2,8 @@
 latitude: 41.9085
 longitude: -87.6769
 score: 7.0
+snippet: One of the largest used bookstores in Chicago, with over 80,000 titles in
+  a three-floor Milwaukee Avenue storefront
 tags:
 - things_to_do
 - shopping

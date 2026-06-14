@@ -2,6 +2,8 @@
 latitude: 40.4232
 longitude: -3.682
 score: 7.5
+snippet: Main dining street of the Salamanca district, concentrating top-end and mid-range
+  restaurants in a compact strip
 tags:
 - things_to_do
 - restaurant

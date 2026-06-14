@@ -2,6 +2,7 @@
 latitude: 31.2287
 longitude: 121.444
 score: 6.0
+snippet: Small French-era park on Fuxing Road West with morning exercise crowds
 tags:
 - things_to_do
 - park

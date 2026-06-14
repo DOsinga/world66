@@ -2,6 +2,8 @@
 latitude: 41.8755
 longitude: -87.6262
 score: 6.0
+snippet: South Wabash Avenue stretch traditionally known as Antique Row, now transitioning
+  toward new residential development
 tags:
 - things_to_do
 - shopping

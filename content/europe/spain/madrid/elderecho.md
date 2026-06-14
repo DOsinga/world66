@@ -2,6 +2,8 @@
 latitude: 40.4262
 longitude: -3.7082
 score: 6.5
+snippet: Romantic cocktail bar on Calle Conde Duque with a hidden garden terrace behind
+  an unmarked door
 tags:
 - bars_and_cafes
 - eating_out

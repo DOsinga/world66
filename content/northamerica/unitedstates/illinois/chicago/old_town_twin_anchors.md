@@ -2,6 +2,8 @@
 latitude: 41.9122
 longitude: -87.636
 score: 7.0
+snippet: Chicago rib joint and tavern on Sedgwick Street in Old Town operating since
+  1881, a Sinatra favorite
 tags:
 - things_to_do
 - restaurant

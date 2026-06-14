@@ -2,6 +2,8 @@
 latitude: 28.6497
 longitude: 77.191
 score: 7.0
+snippet: Renowned chaat stalls around Karol Bagh serving Delhi-style golgappas and
+  aloo tikki
 tags:
 - restaurant
 - bars_and_cafes

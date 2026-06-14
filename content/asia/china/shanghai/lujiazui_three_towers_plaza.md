@@ -2,6 +2,7 @@
 latitude: 31.2356
 longitude: 121.5005
 score: 7.5
+snippet: Public plaza at the base of the Jin Mao Tower, SWFC, and Shanghai Tower
 tags:
 - things_to_do
 - sight

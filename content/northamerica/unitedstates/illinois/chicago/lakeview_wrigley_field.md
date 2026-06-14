@@ -2,6 +2,8 @@
 latitude: 41.9484
 longitude: -87.6553
 score: 9.5
+snippet: Second-oldest Major League Baseball park in use, home of the Cubs since 1916
+  and famous for its ivy-covered outfield wall
 tags:
 - things_to_do
 - sight

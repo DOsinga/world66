@@ -2,6 +2,8 @@
 latitude: 31.2397
 longitude: 121.4995
 score: 8.5
+snippet: 1994 television tower with distinctive red spheres, the first Pudong supertall
+  structure
 tags:
 - things_to_do
 - sight

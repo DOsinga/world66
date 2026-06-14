@@ -2,6 +2,7 @@
 latitude: 31.2215
 longitude: 121.4465
 score: 6.5
+snippet: 1990 mixed-use complex on Nanjing Road West anchored by the Portman Ritz-Carlton
 tags:
 - things_to_do
 - sight

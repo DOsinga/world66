@@ -2,6 +2,8 @@
 latitude: 41.9088
 longitude: -87.6773
 score: 7.5
+snippet: The six-corners triangle at Damen, Milwaukee, and North — the commercial
+  heart of Wicker Park and Bucktown
 tags:
 - things_to_do
 - shopping

@@ -2,6 +2,8 @@
 latitude: 31.2092
 longitude: 121.4683
 score: 5.5
+snippet: The Luwan neighbourhood surrounding Tianzifang with intact everyday French
+  Concession streetlife
 tags:
 - things_to_do
 - restaurant

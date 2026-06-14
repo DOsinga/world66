@@ -2,6 +2,8 @@
 latitude: 40.4059
 longitude: -3.7039
 score: 7.5
+snippet: Contemporary arts and social centre in a restored 1920s Monte de Piedad building
+  on Ronda de Valencia
 tags:
 - things_to_do
 - art

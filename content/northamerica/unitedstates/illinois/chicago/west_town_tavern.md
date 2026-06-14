@@ -2,6 +2,8 @@
 latitude: 41.8968
 longitude: -87.6721
 score: 5.5
+snippet: Neighborhood American bistro on West Chicago Avenue serving the Ukrainian
+  Village and West Town area since 2003
 tags:
 - eating_out
 - restaurant

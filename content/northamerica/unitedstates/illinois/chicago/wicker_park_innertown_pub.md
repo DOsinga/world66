@@ -2,6 +2,8 @@
 latitude: 41.9028
 longitude: -87.6819
 score: 6.0
+snippet: One of Wicker Park's last unreconstructed neighborhood taverns, a cash-only
+  bar open since the early 1990s
 tags:
 - things_to_do
 - bars_and_cafes

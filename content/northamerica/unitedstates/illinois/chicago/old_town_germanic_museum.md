@@ -2,6 +2,8 @@
 latitude: 41.911
 longitude: -87.6358
 score: 6.5
+snippet: Old Town neighborhood just north of downtown, bounded by Division, Clark,
+  and Armitage, with Wells Street as its spine
 tags:
 - things_to_do
 - sight

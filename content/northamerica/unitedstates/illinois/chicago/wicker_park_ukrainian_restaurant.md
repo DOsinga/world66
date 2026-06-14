@@ -2,6 +2,8 @@
 latitude: 41.9091
 longitude: -87.6773
 score: 6.5
+snippet: Vinyl and CD record store on Milwaukee Avenue, one of the most carefully
+  curated independent record shops in Chicago
 tags:
 - things_to_do
 - shopping

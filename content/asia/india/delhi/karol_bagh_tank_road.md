@@ -2,6 +2,7 @@
 latitude: 28.6485
 longitude: 77.1907
 score: 6.0
+snippet: Wholesale shoe-manufacturing and leather-goods district in Karol Bagh
 tags:
 - things_to_do
 - shopping

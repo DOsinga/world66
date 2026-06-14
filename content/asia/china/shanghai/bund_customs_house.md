@@ -2,6 +2,7 @@
 latitude: 31.238
 longitude: 121.4882
 score: 7.5
+snippet: 1927 neo-classical customs building anchoring the northern end of the Bund
 tags:
 - things_to_do
 - sight

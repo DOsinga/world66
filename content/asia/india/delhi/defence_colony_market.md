@@ -2,6 +2,8 @@
 latitude: 28.5735
 longitude: 77.2271
 score: 6.5
+snippet: Beloved South Delhi neighbourhood market with restaurants, bakeries, and
+  boutique shops
 tags:
 - things_to_do
 - restaurant

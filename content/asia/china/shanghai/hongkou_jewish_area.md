@@ -2,6 +2,8 @@
 latitude: 31.261
 longitude: 121.5012
 score: 8.0
+snippet: The Hongkou ghetto district where 20,000 European Jewish refugees were confined
+  1941–1945
 tags:
 - things_to_do
 - sight

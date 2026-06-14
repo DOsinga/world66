@@ -2,6 +2,8 @@
 latitude: 41.8786
 longitude: -87.6401
 score: 7.5
+snippet: Daniel Burnham's 1925 Beaux-Arts rail terminal with a Great Hall modeled
+  on ancient Roman baths, still serving Amtrak
 tags:
 - things_to_do
 - sight

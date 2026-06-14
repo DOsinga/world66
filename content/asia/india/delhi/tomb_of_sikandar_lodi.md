@@ -2,6 +2,8 @@
 latitude: 28.5963
 longitude: 77.2216
 score: 7.5
+snippet: Early 16th-century Lodi sultan's tomb standing within the landscaped grounds
+  of Lodi Gardens
 tags:
 - things_to_do
 - historic

@@ -2,6 +2,8 @@
 latitude: 41.8971
 longitude: -87.6219
 score: 8.0
+snippet: Largest contemporary art museum in the United States, in a 1996 Josef Paul
+  Kleihues building on East Chicago Avenue
 tags:
 - things_to_do
 - museum

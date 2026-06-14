@@ -2,6 +2,8 @@
 latitude: 40.4258
 longitude: -3.7048
 score: 7.5
+snippet: Last surviving Movida-era bar from the post-Franco cultural explosion, still
+  running on Calle Velarde since 1979
 tags:
 - things_to_do
 - bars_and_cafes

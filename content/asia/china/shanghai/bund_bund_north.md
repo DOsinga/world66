@@ -2,6 +2,7 @@
 latitude: 31.2467
 longitude: 121.4892
 score: 6.5
+snippet: Quieter northern extension of the Bund waterfront, north of Suzhou Creek
 tags:
 - things_to_do
 - sight

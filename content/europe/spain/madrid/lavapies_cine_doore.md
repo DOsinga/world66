@@ -2,6 +2,8 @@
 latitude: 40.4117
 longitude: -3.7012
 score: 8.0
+snippet: Modernista 1922 cinema building now housing the Filmoteca Española, with
+  films from 2.50 euros
 tags:
 - things_to_do
 - entertainment

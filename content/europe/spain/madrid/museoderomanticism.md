@@ -2,6 +2,8 @@
 latitude: 40.425869
 longitude: -3.6942
 score: 7.5
+snippet: Lavishly decorated 19th-century mansion on Calle San Mateo recreating Romantic-era
+  domestic interiors
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,8 @@
 latitude: 41.7964
 longitude: -87.5751
 score: 7.0
+snippet: Manmade 1930s peninsula into Lake Michigan at 55th Street, beloved for its
+  unrestricted lakefront views
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 41.7909
 longitude: -87.5985
 score: 6.5
+snippet: Main quadrangles of the University of Chicago, designed by Henry Ives Cobb
+  in English Gothic Revival
 tags:
 - things_to_do
 - sight

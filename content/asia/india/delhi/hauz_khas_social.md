@@ -2,6 +2,8 @@
 latitude: 28.5487
 longitude: 77.2066
 score: 6.5
+snippet: Pioneer café-bar in Hauz Khas Village that helped launch Delhi's rooftop
+  nightlife scene
 tags:
 - bars_and_cafes
 - bar

@@ -2,6 +2,8 @@
 latitude: 28.5247
 longitude: 77.1851
 score: 9.0
+snippet: 5th-century Gupta iron pillar standing in the Quwwat ul-Islam Mosque courtyard
+  at Qutb Minar
 tags:
 - things_to_do
 - historic

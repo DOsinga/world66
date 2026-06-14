@@ -2,6 +2,8 @@
 latitude: 28.5235
 longitude: 77.1823
 score: 7.5
+snippet: 16th-century Mughal tomb in Mehrauli built for Akbar's foster-brother, thrown
+  from Agra Fort
 tags:
 - things_to_do
 - historic

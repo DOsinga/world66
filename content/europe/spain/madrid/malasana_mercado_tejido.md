@@ -2,6 +2,8 @@
 latitude: 40.4254
 longitude: -3.7047
 score: 6.5
+snippet: Weekend vintage market in and around Malasaña, one of the best places for
+  second-hand clothes in Madrid
 tags:
 - things_to_do
 - shopping

@@ -2,6 +2,8 @@
 latitude: 41.8916
 longitude: -87.6121
 score: 7.0
+snippet: Chicago Children's Museum at Navy Pier with hands-on exhibits spanning three
+  floors for children under 10
 tags:
 - things_to_do
 - museum

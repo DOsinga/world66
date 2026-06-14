@@ -2,6 +2,8 @@
 latitude: 40.4265
 longitude: -3.7096
 score: 7.5
+snippet: Early 18th-century military barracks transformed into a major cultural centre
+  with exhibition and performance spaces
 tags:
 - things_to_do
 - entertainment

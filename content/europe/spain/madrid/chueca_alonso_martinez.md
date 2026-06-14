@@ -2,6 +2,8 @@
 latitude: 40.4284
 longitude: -3.6968
 score: 7.0
+snippet: Traffic square marking the top of Chueca, popular meeting point between the
+  barrio and Almagro
 tags:
 - things_to_do
 - bars_and_cafes

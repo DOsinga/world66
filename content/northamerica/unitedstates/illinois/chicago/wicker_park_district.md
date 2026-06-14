@@ -2,6 +2,8 @@
 latitude: 41.9077
 longitude: -87.6775
 score: 7.5
+snippet: Small triangular park at Damen and Schiller that gives the neighborhood its
+  name, with a fieldhouse and weekend markets
 tags:
 - things_to_do
 - landmark

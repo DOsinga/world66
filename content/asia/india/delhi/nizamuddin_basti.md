@@ -2,6 +2,8 @@
 latitude: 28.5912
 longitude: 77.242
 score: 7.5
+snippet: One of Delhi's few surviving medieval neighbourhoods, clustered around the
+  Nizamuddin Dargah
 tags:
 - things_to_do
 - historic

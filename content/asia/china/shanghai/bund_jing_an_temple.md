@@ -2,6 +2,7 @@
 latitude: 31.2449
 longitude: 121.4866
 score: 7.0
+snippet: Contemporary art museum in a restored 1932 Art Deco building on Huqiu Road
 tags:
 - things_to_do
 - museum

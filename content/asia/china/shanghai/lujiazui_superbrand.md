@@ -2,6 +2,7 @@
 latitude: 31.24
 longitude: 121.4998
 score: 5.0
+snippet: Major shopping mall in Lujiazui with over 250 shops across multiple floors
 tags:
 - things_to_do
 - shopping

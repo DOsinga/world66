@@ -2,6 +2,8 @@
 latitude: 41.8855
 longitude: -87.6266
 score: 7.5
+snippet: 1921 French baroque movie palace on State Street, now a concert venue and
+  one of the city's most recognizable landmarks
 tags:
 - things_to_do
 - entertainment

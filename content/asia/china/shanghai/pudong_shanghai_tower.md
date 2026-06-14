@@ -2,6 +2,8 @@
 latitude: 31.2354
 longitude: 121.5013
 score: 9.0
+snippet: 632-metre Shanghai Tower, second tallest in the world, with a public observation
+  deck
 tags:
 - things_to_do
 - sight

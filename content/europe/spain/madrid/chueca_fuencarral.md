@@ -2,6 +2,8 @@
 latitude: 40.4221
 longitude: -3.7003
 score: 7.5
+snippet: Main shopping street connecting Gran Vía to Chueca and Malasaña, blending
+  chains with independent fashion
 tags:
 - things_to_do
 - shopping

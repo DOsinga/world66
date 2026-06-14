@@ -2,6 +2,8 @@
 latitude: 40.4253
 longitude: -3.7024
 score: 7.5
+snippet: Madrid taverna serving vermouth from the barrel since 1892, with porrón wine
+  jugs and house vermouth on tap
 tags:
 - things_to_do
 - bars_and_cafes

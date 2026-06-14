@@ -2,6 +2,8 @@
 latitude: 41.7921
 longitude: -87.5985
 score: 7.0
+snippet: University of Chicago's fine arts museum with a 15,000-piece permanent collection
+  spanning five millennia
 tags:
 - things_to_do
 - museum

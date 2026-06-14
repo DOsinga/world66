@@ -2,6 +2,8 @@
 latitude: 28.6253
 longitude: 77.2265
 score: 6.5
+snippet: Intimate concert hall near Mandi House, a key venue for classical Indian
+  music and dance
 tags:
 - things_to_do
 - culture

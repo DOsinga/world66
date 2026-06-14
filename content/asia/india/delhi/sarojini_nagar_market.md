@@ -2,6 +2,8 @@
 latitude: 28.5795
 longitude: 77.1971
 score: 7.5
+snippet: Hugely popular South Delhi market known for cheap export-surplus clothing
+  and street food
 tags:
 - things_to_do
 - shopping

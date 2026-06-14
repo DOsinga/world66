@@ -2,6 +2,8 @@
 latitude: 40.4364
 longitude: -3.7079
 score: 7.0
+snippet: Chamberí's 1930s iron-and-brick neighbourhood market on Calle Vallehermoso,
+  renovated and home to quality food stalls
 tags:
 - eating_out
 - shopping

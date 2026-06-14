@@ -2,6 +2,8 @@
 latitude: 31.2407
 longitude: 121.4887
 score: 8.0
+snippet: Art deco Sassoon House at the north Bund, a legendary Shanghai hotel since
+  1929
 tags:
 - things_to_do
 - sight

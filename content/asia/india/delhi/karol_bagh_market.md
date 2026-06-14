@@ -2,6 +2,8 @@
 latitude: 28.6511
 longitude: 77.1888
 score: 7.5
+snippet: One of Delhi's largest wholesale and retail shopping districts, popular for
+  clothing and electronics
 tags:
 - things_to_do
 - shopping

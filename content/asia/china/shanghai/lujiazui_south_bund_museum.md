@@ -2,6 +2,8 @@
 latitude: 31.2348
 longitude: 121.505
 score: 6.0
+snippet: Private contemporary art space on the Lujiazui riverside with a rotating
+  programme
 tags:
 - things_to_do
 - museum

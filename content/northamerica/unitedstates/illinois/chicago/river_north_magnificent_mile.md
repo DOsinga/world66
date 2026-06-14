@@ -2,6 +2,8 @@
 latitude: 41.896
 longitude: -87.6239
 score: 9.0
+snippet: North Michigan Avenue from the Chicago River to Oak Street — Chicago's primary
+  luxury retail and hotel corridor
 tags:
 - things_to_do
 - shopping

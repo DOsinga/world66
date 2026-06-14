@@ -2,6 +2,8 @@
 latitude: 28.5826
 longitude: 77.2236
 score: 8.0
+snippet: Open-air street-art district in Lodhi Colony, created during the 2016 St+art
+  India festival
 tags:
 - things_to_do
 - art

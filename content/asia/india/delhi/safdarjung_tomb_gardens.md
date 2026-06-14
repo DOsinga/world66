@@ -2,6 +2,8 @@
 latitude: 28.5893
 longitude: 77.2106
 score: 7.5
+snippet: Last great garden tomb of Delhi's Mughal tradition, built in 1754 for Nawab
+  Safdarjung
 tags:
 - things_to_do
 - park

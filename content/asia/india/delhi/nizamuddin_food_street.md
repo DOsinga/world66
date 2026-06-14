@@ -2,6 +2,8 @@
 latitude: 28.5914
 longitude: 77.2415
 score: 7.0
+snippet: Food vendors in the lanes around Nizamuddin Dargah serving Mughlai nihari,
+  kebabs, and biryani
 tags:
 - things_to_do
 - restaurant

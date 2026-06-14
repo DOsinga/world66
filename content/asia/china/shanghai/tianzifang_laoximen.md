@@ -2,6 +2,7 @@
 latitude: 31.2234
 longitude: 121.4974
 score: 6.0
+snippet: Former commercial district at the old western gate of the walled Old Town
 tags:
 - things_to_do
 - sight

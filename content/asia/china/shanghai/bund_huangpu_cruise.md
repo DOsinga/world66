@@ -2,6 +2,7 @@
 latitude: 31.2352
 longitude: 121.4891
 score: 8.0
+snippet: River cruises on the Huangpu departing from Bund piers with skyline views
 tags:
 - things_to_do
 - sight

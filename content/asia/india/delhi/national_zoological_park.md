@@ -2,6 +2,8 @@
 latitude: 28.6044
 longitude: 77.2462
 score: 7.0
+snippet: 176-acre zoo between Purana Qila and the Yamuna, home to white tigers and
+  Asian elephants
 tags:
 - things_to_do
 - park

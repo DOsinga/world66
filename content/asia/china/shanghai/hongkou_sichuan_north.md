@@ -2,6 +2,8 @@
 latitude: 31.2622
 longitude: 121.4847
 score: 5.5
+snippet: Main commercial street of the Hongkou and Zhabei districts north of Suzhou
+  Creek
 tags:
 - things_to_do
 - shopping

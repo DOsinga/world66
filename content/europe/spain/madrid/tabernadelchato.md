@@ -2,6 +2,8 @@
 latitude: 40.4131
 longitude: -3.7098
 score: 7.0
+snippet: Classic old La Latina taberna — dark wood, ceramic tiles, and generous tapas
+  on Calle de la Cava Baja
 tags:
 - eating_out
 - bars_and_cafes

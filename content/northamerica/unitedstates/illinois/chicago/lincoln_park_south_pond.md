@@ -2,6 +2,8 @@
 latitude: 41.923
 longitude: -87.6379
 score: 6.5
+snippet: North Pond Restaurant in a 1912 Arts and Crafts shelter house on a lagoon
+  inside Lincoln Park
 tags:
 - things_to_do
 - restaurant

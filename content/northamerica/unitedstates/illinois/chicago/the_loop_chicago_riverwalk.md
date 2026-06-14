@@ -2,6 +2,8 @@
 latitude: 41.8878
 longitude: -87.6311
 score: 8.5
+snippet: Pedestrianised promenade along the south bank of the Chicago River with restaurants,
+  kayak rentals, and public art
 tags:
 - things_to_do
 - sight

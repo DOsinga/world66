@@ -2,6 +2,8 @@
 latitude: 41.8892
 longitude: -87.6344
 score: 6.5
+snippet: Hubbard Street and surrounding blocks west of Michigan Avenue, Chicago's
+  densest concentration of brunch and dinner restaurants
 tags:
 - things_to_do
 - restaurant

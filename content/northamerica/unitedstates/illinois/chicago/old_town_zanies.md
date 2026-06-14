@@ -2,6 +2,8 @@
 latitude: 41.9116
 longitude: -87.635
 score: 7.0
+snippet: Small comedy club operating on Wells Street since 1978, booking nationally
+  touring stand-up comics
 tags:
 - things_to_do
 - entertainment

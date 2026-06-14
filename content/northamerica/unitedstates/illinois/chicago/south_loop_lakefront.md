@@ -2,6 +2,8 @@
 latitude: 41.8618
 longitude: -87.614
 score: 7.0
+snippet: Burnham Park lakefront south of Museum Campus with the lakefront path, beaches,
+  and views of the downtown skyline
 tags:
 - things_to_do
 - park

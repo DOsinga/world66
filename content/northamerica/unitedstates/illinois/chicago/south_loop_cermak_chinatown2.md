@@ -2,6 +2,8 @@
 latitude: 41.8525
 longitude: -87.6292
 score: 6.5
+snippet: Riverfront park at the north edge of Chinatown, designed with Chinese landscape
+  elements by Peter Landon in 1999
 tags:
 - things_to_do
 - park

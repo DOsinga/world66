@@ -2,6 +2,8 @@
 latitude: 31.237
 longitude: 121.4882
 score: 9.5
+snippet: Riverside promenade along the Huangpu facing the 52 colonial buildings of
+  the Bund
 tags:
 - things_to_do
 - sight

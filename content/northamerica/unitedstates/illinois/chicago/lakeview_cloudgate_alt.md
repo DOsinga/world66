@@ -2,6 +2,8 @@
 latitude: 41.932
 longitude: -87.6357
 score: 6.5
+snippet: Diversey Harbor on the lakefront path, with sailing, kayaking, and the best
+  unobstructed skyline views from the north
 tags:
 - things_to_do
 - park

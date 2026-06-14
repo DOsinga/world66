@@ -2,6 +2,8 @@
 latitude: 31.2493
 longitude: 121.4518
 score: 8.0
+snippet: M50 cluster of contemporary art galleries in repurposed textile mills on
+  Moganshan Road
 tags:
 - things_to_do
 - art

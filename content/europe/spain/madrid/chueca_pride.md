@@ -2,6 +2,8 @@
 latitude: 40.4224
 longitude: -3.6987
 score: 8.5
+snippet: One of the world's largest Pride festivals, centred on Chueca each July with
+  a million-plus attendance
 tags:
 - things_to_do
 - entertainment

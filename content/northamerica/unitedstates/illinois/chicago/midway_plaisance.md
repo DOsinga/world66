@@ -2,6 +2,8 @@
 latitude: 41.7908
 longitude: -87.6073
 score: 7.5
+snippet: Construction site of the Obama Presidential Center, the future museum and
+  community campus in Jackson Park
 tags:
 - things_to_do
 - sight

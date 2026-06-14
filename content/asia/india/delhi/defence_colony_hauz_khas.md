@@ -2,6 +2,8 @@
 latitude: 28.5832
 longitude: 77.2243
 score: 6.5
+snippet: South Delhi dining and café strip on Lodhi Road between Lodi Gardens and
+  Defence Colony
 tags:
 - things_to_do
 - restaurant

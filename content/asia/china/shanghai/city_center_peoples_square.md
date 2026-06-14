@@ -2,6 +2,7 @@
 latitude: 31.2294
 longitude: 121.4737
 score: 8.0
+snippet: Central civic square of Shanghai on the former racecourse site
 tags:
 - things_to_do
 - sight

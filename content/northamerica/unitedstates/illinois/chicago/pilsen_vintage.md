@@ -2,6 +2,8 @@
 latitude: 41.8571
 longitude: -87.669
 score: 6.5
+snippet: Concentration of vintage clothing, antique dealers, and furniture resellers
+  along 18th Street and side streets
 tags:
 - things_to_do
 - shopping

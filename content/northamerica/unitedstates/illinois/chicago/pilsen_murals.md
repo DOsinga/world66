@@ -2,6 +2,8 @@
 latitude: 41.8565
 longitude: -87.6638
 score: 8.0
+snippet: One of Chicago's largest outdoor mural galleries — dozens of large-scale
+  works cover Pilsen's walls year-round
 tags:
 - things_to_do
 - art

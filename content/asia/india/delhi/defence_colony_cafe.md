@@ -2,6 +2,8 @@
 latitude: 28.619
 longitude: 77.2436
 score: 6.0
+snippet: Café at the National Crafts Museum serving regional Indian dishes in a heritage
+  courtyard
 tags:
 - restaurant
 - bars_and_cafes

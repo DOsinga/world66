@@ -2,6 +2,8 @@
 latitude: 28.5201
 longitude: 77.1869
 score: 7.5
+snippet: 16th-century Sufi mosque and twin-tomb complex hidden inside Mehrauli Archaeological
+  Park
 tags:
 - things_to_do
 - historic

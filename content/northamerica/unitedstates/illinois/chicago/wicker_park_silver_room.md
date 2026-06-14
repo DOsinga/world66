@@ -2,6 +2,8 @@
 latitude: 41.9088
 longitude: -87.6769
 score: 7.0
+snippet: Milwaukee Avenue boutique and community anchor hosting the annual Silver
+  Room Block Party, Chicago's biggest neighborhood festival
 tags:
 - things_to_do
 - entertainment

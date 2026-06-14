@@ -2,6 +2,8 @@
 latitude: 28.6019
 longitude: 77.2144
 score: 8.5
+snippet: Birla House mansion where Mahatma Gandhi spent his last days and was assassinated
+  in 1948
 tags:
 - things_to_do
 - museum

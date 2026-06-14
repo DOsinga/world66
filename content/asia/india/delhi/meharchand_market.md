@@ -2,6 +2,8 @@
 latitude: 28.5847
 longitude: 77.2261
 score: 6.5
+snippet: Boutique shopping street in Lodhi Colony popular with designers and South
+  Delhi residents
 tags:
 - things_to_do
 - shopping

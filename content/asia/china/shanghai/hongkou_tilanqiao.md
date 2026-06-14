@@ -2,6 +2,8 @@
 latitude: 31.2631
 longitude: 121.5048
 score: 6.5
+snippet: 1903 former Ward Road Gaol in Hongkou, one of the largest prisons in the
+  Far East
 tags:
 - things_to_do
 - sight

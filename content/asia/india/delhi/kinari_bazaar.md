@@ -2,6 +2,8 @@
 latitude: 28.6553
 longitude: 77.2335
 score: 7.5
+snippet: Old Delhi's wedding and ceremonial accessories market, crowded with tinsel,
+  sequins, and lace
 tags:
 - things_to_do
 - shopping

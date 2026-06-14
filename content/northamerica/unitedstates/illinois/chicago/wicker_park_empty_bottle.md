@@ -2,6 +2,8 @@
 latitude: 41.9013
 longitude: -87.6851
 score: 7.0
+snippet: Essential independent music venue on Western Avenue booking indie, experimental,
+  and touring acts since 1992
 tags:
 - things_to_do
 - entertainment

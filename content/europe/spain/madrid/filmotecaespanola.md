@@ -2,6 +2,8 @@
 latitude: 40.4105
 longitude: -3.7004
 score: 7.5
+snippet: Spain's national film archive and repertory cinema, screening classics and
+  rarities in a 1920s modernista building
 tags:
 - things_to_do
 - culture

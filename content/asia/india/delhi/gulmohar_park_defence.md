@@ -2,6 +2,8 @@
 latitude: 28.5677
 longitude: 77.2373
 score: 6.5
+snippet: South Delhi's most popular all-round shopping market, especially busy for
+  women's fashion
 tags:
 - things_to_do
 - shopping

@@ -2,6 +2,8 @@
 latitude: 28.5158
 longitude: 77.1775
 score: 7.5
+snippet: Heritage walk through one of Delhi's oldest continuously inhabited villages,
+  dating to 1000 CE
 tags:
 - things_to_do
 - historic

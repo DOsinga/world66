@@ -2,6 +2,7 @@
 latitude: 28.5825
 longitude: 77.2236
 score: 6.0
+snippet: Tree-lined colony lanes and garden borders popular for birdwatching at dawn
 tags:
 - things_to_do
 - park

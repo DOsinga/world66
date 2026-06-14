@@ -2,6 +2,8 @@
 latitude: 28.5575
 longitude: 77.2075
 score: 7.0
+snippet: Forested urban wildlife reserve adjoining the Hauz Khas Complex, home to
+  spotted deer
 tags:
 - things_to_do
 - park

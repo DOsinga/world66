@@ -2,6 +2,8 @@
 latitude: 41.9108
 longitude: -87.6351
 score: 7.0
+snippet: Scruffy North Wells Street dive bar operating since the 1950s, adorned with
+  paintings of local political figures
 tags:
 - bars_and_cafes
 - bar

@@ -2,6 +2,8 @@
 latitude: 41.7894
 longitude: -87.5996
 score: 8.5
+snippet: Frank Lloyd Wright's 1910 Prairie Style masterpiece, considered the most
+  important house in American architecture
 tags:
 - things_to_do
 - architecture

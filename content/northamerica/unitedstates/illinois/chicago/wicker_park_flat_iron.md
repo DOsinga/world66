@@ -2,6 +2,8 @@
 latitude: 41.9053
 longitude: -87.678
 score: 7.5
+snippet: Triangular artist loft building at Milwaukee, North, and Damen, a landmark
+  of Chicago's 1990s bohemian art scene
 tags:
 - things_to_do
 - art

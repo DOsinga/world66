@@ -2,6 +2,8 @@
 latitude: 40.4224
 longitude: -3.7044
 score: 7.0
+snippet: Oval Baroque church from 1633–1699 built for the German community, ceiling
+  frescoed by Luca Giordano
 tags:
 - things_to_do
 - sight

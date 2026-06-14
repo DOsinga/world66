@@ -2,6 +2,8 @@
 latitude: 41.8935
 longitude: -87.6736
 score: 5.5
+snippet: One of the surviving Ukrainian restaurants in the neighborhood that gave
+  Ukrainian Village its name
 tags:
 - eating_out
 - restaurant

@@ -2,6 +2,8 @@
 latitude: 40.4245
 longitude: -3.6887
 score: 7.0
+snippet: Former cinema on Plaza de Colón converted into a spectacular multi-chef food
+  hall with over 30 stalls
 tags:
 - eating_out
 - salamanca

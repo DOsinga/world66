@@ -2,6 +2,7 @@
 latitude: 28.6558
 longitude: 77.2363
 score: 8.0
+snippet: Oldest Jain temple in Delhi, opposite the Red Fort, with a rooftop bird hospital
 tags:
 - things_to_do
 - temple

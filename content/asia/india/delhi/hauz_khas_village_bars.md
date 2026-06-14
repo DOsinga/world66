@@ -2,6 +2,8 @@
 latitude: 28.5495
 longitude: 77.2057
 score: 7.0
+snippet: Delhi's most fashionable nightlife district, set inside medieval Tughlaq-era
+  ruins
 tags:
 - bars_and_cafes
 - bar

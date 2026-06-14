@@ -2,6 +2,8 @@
 latitude: 41.896
 longitude: -87.6726
 score: 6.5
+snippet: Ukrainian National Museum on the edge of Ukrainian Village preserving artifacts,
+  folk art, and documents of Ukrainian immigration
 tags:
 - things_to_do
 - museum

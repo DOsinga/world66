@@ -2,6 +2,8 @@
 latitude: 28.5208
 longitude: 77.185
 score: 8.0
+snippet: 200-acre forested zone in South Delhi containing over 100 medieval monuments
+  and ruins
 tags:
 - things_to_do
 - park

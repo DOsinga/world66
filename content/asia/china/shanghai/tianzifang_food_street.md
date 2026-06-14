@@ -2,6 +2,7 @@
 latitude: 31.2106
 longitude: 121.4718
 score: 7.5
+snippet: Street-level café and restaurant strip on Taikang Road leading into Tianzifang
 tags:
 - things_to_do
 - restaurant

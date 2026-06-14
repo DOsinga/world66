@@ -2,6 +2,8 @@
 latitude: 28.6565
 longitude: 77.2265
 score: 8.5
+snippet: Asia's largest wholesale spice market, operating in the shadow of Fatehpuri
+  Mosque since the 1600s
 tags:
 - things_to_do
 - shopping

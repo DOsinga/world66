@@ -2,6 +2,8 @@
 latitude: 28.5548
 longitude: 77.1945
 score: 7.0
+snippet: 14th-century Tughlaq-era mosque in South Delhi, one of the best-preserved
+  of its period
 tags:
 - things_to_do
 - historic

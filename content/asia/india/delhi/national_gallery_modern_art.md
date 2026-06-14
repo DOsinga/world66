@@ -2,6 +2,8 @@
 latitude: 28.6116
 longitude: 77.2253
 score: 8.0
+snippet: India's premier modern art museum, housed in the former Jaipur House near
+  India Gate
 tags:
 - things_to_do
 - museum

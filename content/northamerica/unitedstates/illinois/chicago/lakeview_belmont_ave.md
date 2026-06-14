@@ -2,6 +2,8 @@
 latitude: 41.9395
 longitude: -87.6538
 score: 7.0
+snippet: Belmont Avenue stretch in Lakeview that anchored Chicago's punk and alternative
+  scene from the late 1970s onward
 tags:
 - things_to_do
 - shopping

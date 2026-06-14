@@ -2,6 +2,8 @@
 latitude: 41.9275
 longitude: -87.6327
 score: 6.5
+snippet: Lakefront performance space in Lincoln Park hosting theatre productions,
+  with the lake as a backdrop
 tags:
 - things_to_do
 - entertainment

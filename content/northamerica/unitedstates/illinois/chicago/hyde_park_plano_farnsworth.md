@@ -2,6 +2,8 @@
 latitude: 41.7886
 longitude: -87.5993
 score: 7.5
+snippet: Rockefeller Memorial Chapel, the Gothic Revival centerpiece of the University
+  of Chicago campus, completed 1928
 tags:
 - things_to_do
 - sight

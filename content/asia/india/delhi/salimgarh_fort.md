@@ -2,6 +2,8 @@
 latitude: 28.661
 longitude: 77.24
 score: 7.5
+snippet: 1546 Sur-dynasty island fort on the Yamuna, connected to Red Fort and used
+  as a Mughal prison
 tags:
 - things_to_do
 - historic

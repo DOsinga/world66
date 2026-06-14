@@ -2,6 +2,8 @@
 latitude: 41.8552
 longitude: -87.6712
 score: 6.0
+snippet: Working tortilla factory in Pilsen selling masa-ground tortillas directly
+  to the public by the kilo
 tags:
 - things_to_do
 - shopping

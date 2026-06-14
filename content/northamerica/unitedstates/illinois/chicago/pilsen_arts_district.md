@@ -2,6 +2,8 @@
 latitude: 41.8558
 longitude: -87.6671
 score: 7.5
+snippet: Chicago's most active artist community since the 1990s, centered on 18th
+  Street and Halsted in the Lower West Side
 tags:
 - things_to_do
 - art

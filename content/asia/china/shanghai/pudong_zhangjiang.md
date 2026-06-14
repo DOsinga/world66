@@ -2,6 +2,8 @@
 latitude: 31.2014
 longitude: 121.5965
 score: 5.0
+snippet: Technology and pharmaceutical research district 30 kilometres southeast of
+  central Pudong
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 latitude: 31.2191
 longitude: 121.5452
 score: 6.5
+snippet: 140-hectare civic park at the east end of Century Avenue in outer Pudong
 tags:
 - things_to_do
 - park

@@ -2,6 +2,8 @@
 latitude: 31.226
 longitude: 121.4932
 score: 5.5
+snippet: Main commercial street of the Old Town running through the Nanshi residential
+  district
 tags:
 - things_to_do
 - restaurant

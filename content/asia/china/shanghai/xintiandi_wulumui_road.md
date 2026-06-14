@@ -2,6 +2,8 @@
 latitude: 31.2127
 longitude: 121.4555
 score: 6.0
+snippet: Neighbourhood commercial street in the western French Concession with local
+  shops and cafés
 tags:
 - things_to_do
 - restaurant

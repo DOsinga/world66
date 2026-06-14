@@ -2,6 +2,7 @@
 latitude: 31.2244
 longitude: 121.4945
 score: 7.0
+snippet: Residential lanes of the Nanshi Old Town away from the tourist Yuyuan zone
 tags:
 - things_to_do
 - sight

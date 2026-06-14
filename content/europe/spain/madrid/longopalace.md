@@ -2,6 +2,8 @@
 latitude: 40.4254
 longitude: -3.6948
 score: 7.5
+snippet: Spectacular 1902 Modernista palace built for financier González Longoria,
+  now the Spanish writers' association headquarters
 tags:
 - things_to_do
 - architecture

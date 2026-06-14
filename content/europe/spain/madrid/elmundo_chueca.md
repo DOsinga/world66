@@ -2,6 +2,8 @@
 latitude: 40.4208
 longitude: -3.6969
 score: 6.0
+snippet: Legendary Chueca bar on Calle Infantas, famous across the city for the generosity
+  of its free tapas
 tags:
 - bars_and_cafes
 - eating_out

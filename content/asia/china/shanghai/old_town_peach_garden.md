@@ -2,6 +2,8 @@
 latitude: 31.2251
 longitude: 121.4949
 score: 6.5
+snippet: Shanghai's oldest surviving mosque on Xiaotaoyuan Road, established in the
+  1920s
 tags:
 - things_to_do
 - sight

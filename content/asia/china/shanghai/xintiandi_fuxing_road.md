@@ -2,6 +2,8 @@
 latitude: 31.2185
 longitude: 121.4668
 score: 7.0
+snippet: Eastern stretch of Fuxing Road between Ruijin Road and Sinan Road lined with
+  plane trees and villas
 tags:
 - things_to_do
 - sight

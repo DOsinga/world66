@@ -2,6 +2,8 @@
 latitude: 41.7886
 longitude: -87.5987
 score: 8.5
+snippet: One of the finest Gothic Revival university campuses in America, built from
+  1891 onward on a compact Hyde Park grid
 tags:
 - things_to_do
 - architecture

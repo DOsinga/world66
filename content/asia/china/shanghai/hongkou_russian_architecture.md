@@ -2,6 +2,8 @@
 latitude: 31.2484
 longitude: 121.4918
 score: 7.0
+snippet: 1934 Art Deco residential tower on the north bank of Suzhou Creek near the
+  Bund
 tags:
 - things_to_do
 - sight

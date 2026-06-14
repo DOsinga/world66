@@ -2,6 +2,8 @@
 latitude: 28.6143
 longitude: 77.1993
 score: 8.5
+snippet: Lutyens-designed presidential palace on Raisina Hill, completed in 1929 with
+  340 rooms
 tags:
 - things_to_do
 - landmark

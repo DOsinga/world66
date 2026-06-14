@@ -2,6 +2,8 @@
 latitude: 40.4083
 longitude: -3.7029
 score: 6.5
+snippet: Best concentration of South Asian restaurants in Madrid — neighbourhood spots
+  serving Indian, Pakistani, and Bangladeshi food
 tags:
 - things_to_do
 - restaurant

@@ -2,6 +2,8 @@
 latitude: 41.898
 longitude: -87.6804
 score: 5.5
+snippet: Smith Park at Loomis and Ohio, the main green space in Ukrainian Village
+  with a fieldhouse and community programming
 tags:
 - things_to_do
 - park

@@ -2,6 +2,8 @@
 latitude: 31.2115
 longitude: 121.4827
 score: 5.5
+snippet: Nanpu Bridge over the Huangpu River, the first of Shanghai's modern cable-stayed
+  bridges
 tags:
 - things_to_do
 - sight

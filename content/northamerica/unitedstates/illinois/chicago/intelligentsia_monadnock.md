@@ -2,6 +2,8 @@
 latitude: 41.8936
 longitude: -87.6287
 score: 6.0
+snippet: Chicago's pioneering specialty coffee roaster, founded 1995 and credited
+  with reshaping American coffee culture
 tags:
 - bars_and_cafes
 - river_north

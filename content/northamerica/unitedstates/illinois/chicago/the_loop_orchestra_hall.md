@@ -2,6 +2,8 @@
 latitude: 41.8808
 longitude: -87.6242
 score: 8.0
+snippet: Symphony Center on Michigan Avenue, home of the Chicago Symphony Orchestra
+  since 1904 in a Daniel Burnham building
 tags:
 - things_to_do
 - entertainment

@@ -2,6 +2,8 @@
 latitude: 41.9378
 longitude: -87.6641
 score: 7.0
+snippet: Seven-block stretch of Southport Avenue between Belmont and Irving Park known
+  for boutique shops and restaurants
 tags:
 - things_to_do
 - shopping

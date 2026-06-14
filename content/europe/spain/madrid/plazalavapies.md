@@ -2,6 +2,8 @@
 latitude: 40.4085
 longitude: -3.7027
 score: 7.5
+snippet: Sunny, slightly tilted square at the centre of Lavapiés, ringed by café terraces
+  and street life
 tags:
 - things_to_do
 - landmark

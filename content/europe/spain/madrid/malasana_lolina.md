@@ -2,6 +2,8 @@
 latitude: 40.4261
 longitude: -3.7055
 score: 6.5
+snippet: Self-consciously vintage café in Malasaña, popular and heavily photographed
+  for its retro interior
 tags:
 - things_to_do
 - restaurant

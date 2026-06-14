@@ -2,6 +2,8 @@
 latitude: 28.525
 longitude: 77.1825
 score: 7.0
+snippet: One of Delhi's oldest continuously active temples in Mehrauli, dedicated
+  to the goddess Yogmaya
 tags:
 - things_to_do
 - temple

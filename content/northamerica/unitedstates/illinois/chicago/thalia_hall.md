@@ -2,6 +2,8 @@
 latitude: 41.8581
 longitude: -87.6611
 score: 7.0
+snippet: Magnificently restored 1892 Czech community hall on West 18th Street, now
+  operating as a concert venue and bar complex
 story: Thalia Hall was built in 1892 by Czech immigrant John Dusek as a community
   opera house and multi-use event space for the neighbourhood's Bohemian population.
   It fell into disuse by the mid-20th century and was eventually restored and reopened

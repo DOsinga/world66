@@ -2,6 +2,8 @@
 latitude: 41.8998
 longitude: -87.6733
 score: 6.5
+snippet: Small serious museum on West Chicago Avenue dedicated to modern and contemporary
+  Ukrainian and Ukrainian-American art
 tags:
 - things_to_do
 - museum

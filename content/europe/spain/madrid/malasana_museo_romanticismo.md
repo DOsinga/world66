@@ -2,6 +2,8 @@
 latitude: 40.4272
 longitude: -3.7011
 score: 7.5
+snippet: Small 19th-century palace-house on Calle San Mateo recreating the domestic
+  life of the Romantic era
 tags:
 - things_to_do
 - museum

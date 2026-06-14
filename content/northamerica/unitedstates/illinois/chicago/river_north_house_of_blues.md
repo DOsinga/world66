@@ -2,6 +2,8 @@
 latitude: 41.8859
 longitude: -87.6284
 score: 7.5
+snippet: Mid-sized music venue in the Marina City complex booking national acts across
+  rock, blues, hip-hop, and gospel
 tags:
 - things_to_do
 - entertainment

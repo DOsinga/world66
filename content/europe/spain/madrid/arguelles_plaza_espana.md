@@ -2,6 +2,8 @@
 latitude: 40.4237
 longitude: -3.7122
 score: 8.0
+snippet: Renovated grand square at the western end of Gran Vía, flanked by the Torres
+  de Madrid and Edificio España
 tags:
 - things_to_do
 - sight

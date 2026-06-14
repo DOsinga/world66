@@ -2,6 +2,8 @@
 latitude: 31.2197
 longitude: 121.4716
 score: 7.5
+snippet: Museum in Xintiandi preserving a shikumen lane house interior with period
+  furnishings
 tags:
 - things_to_do
 - museum

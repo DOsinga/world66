@@ -2,6 +2,8 @@
 latitude: 41.8546
 longitude: -87.6682
 score: 7.0
+snippet: Spectacular 1914 Roman Catholic church built by Polish immigrants, with twin
+  towers and Baroque-style interior
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 31.2355
 longitude: 121.4996
 score: 8.5
+snippet: SOM-designed 88-floor pagoda-form tower completed 1999, the first Lujiazui
+  supertall
 tags:
 - things_to_do
 - sight

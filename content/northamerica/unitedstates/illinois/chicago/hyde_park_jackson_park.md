@@ -2,6 +2,8 @@
 latitude: 41.7876
 longitude: -87.58
 score: 7.5
+snippet: 543-acre lakefront park that hosted the 1893 World's Columbian Exposition,
+  now a National Historic Landmark
 tags:
 - things_to_do
 - park

@@ -2,6 +2,8 @@
 latitude: 40.4253
 longitude: -3.7062
 score: 6.5
+snippet: Classic Malasaña neighbourhood bar on Calle San Andrés, near the symbolic
+  centre of the barrio
 tags:
 - bars_and_cafes
 - eating_out

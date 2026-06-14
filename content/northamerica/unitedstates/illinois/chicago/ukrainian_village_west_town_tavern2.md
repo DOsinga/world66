@@ -2,6 +2,8 @@
 latitude: 41.8964
 longitude: -87.6745
 score: 6.0
+snippet: Chicago Avenue running through the heart of Ukrainian Village, its main commercial
+  spine with bars, cafes, and shops
 tags:
 - things_to_do
 - restaurant

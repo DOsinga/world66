@@ -2,6 +2,8 @@
 latitude: 40.4181
 longitude: -3.7165
 score: 8.0
+snippet: English-style formal gardens below the Palacio Real, open to the public and
+  largely overlooked
 tags:
 - things_to_do
 - sight

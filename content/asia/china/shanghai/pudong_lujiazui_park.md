@@ -2,6 +2,8 @@
 latitude: 31.2392
 longitude: 121.5026
 score: 6.0
+snippet: Circular park at the centre of the Lujiazui financial district beneath the
+  three towers
 tags:
 - things_to_do
 - park

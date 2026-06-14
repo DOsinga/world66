@@ -2,6 +2,8 @@
 latitude: 41.9082
 longitude: -87.6817
 score: 6.0
+snippet: Wicker Park's restaurant cluster along North Avenue and Milwaukee Avenue,
+  with a range from tacos to tasting menus
 tags:
 - things_to_do
 - restaurant

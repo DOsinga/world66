@@ -2,6 +2,8 @@
 latitude: 40.4219
 longitude: -3.6978
 score: 7.0
+snippet: Dense restaurant strip running through Chueca from Gran Vía toward Alonso
+  Martínez
 tags:
 - things_to_do
 - restaurant

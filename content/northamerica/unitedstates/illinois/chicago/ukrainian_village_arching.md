@@ -2,6 +2,8 @@
 latitude: 41.8987
 longitude: -87.6733
 score: 7.0
+snippet: Ukrainian Village contains some of Chicago's most intact late 19th-century
+  brick worker's cottages and two-flats
 tags:
 - things_to_do
 - sight

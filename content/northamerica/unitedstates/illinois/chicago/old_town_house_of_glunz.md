@@ -2,6 +2,8 @@
 latitude: 41.9133
 longitude: -87.6338
 score: 6.5
+snippet: Oldest wine merchant in Chicago, the House of Glunz has operated continuously
+  on Wells Street since 1888
 tags:
 - things_to_do
 - shopping

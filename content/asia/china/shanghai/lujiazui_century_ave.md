@@ -2,6 +2,7 @@
 latitude: 31.2362
 longitude: 121.5016
 score: 6.5
+snippet: 4-kilometre boulevard running from the Lujiazui roundabout to Century Park
 tags:
 - things_to_do
 - sight

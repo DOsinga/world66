@@ -2,6 +2,8 @@
 latitude: 28.6244
 longitude: 77.2268
 score: 6.5
+snippet: Government cultural centre near Mandi House with galleries, a theatre, and
+  a café terrace
 tags:
 - things_to_do
 - art

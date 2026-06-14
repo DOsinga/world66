@@ -2,6 +2,8 @@
 latitude: 28.5702
 longitude: 77.2197
 score: 6.5
+snippet: Major upmarket South Delhi shopping district spread across two markets on
+  Ring Road
 tags:
 - things_to_do
 - shopping

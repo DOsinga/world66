@@ -2,6 +2,7 @@
 latitude: 31.2246
 longitude: 121.4527
 score: 7.5
+snippet: Luxury shopping corridor from People's Square west through Jing'an to Changning
 tags:
 - things_to_do
 - shopping

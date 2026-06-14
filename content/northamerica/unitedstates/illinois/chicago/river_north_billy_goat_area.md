@@ -2,6 +2,8 @@
 latitude: 41.8881
 longitude: -87.625
 score: 7.0
+snippet: Billy Goat Tavern on Lower Michigan Avenue — the below-street-level dive
+  that spawned the SNL "cheezborger" sketch
 tags:
 - things_to_do
 - bars_and_cafes

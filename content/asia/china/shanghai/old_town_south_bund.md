@@ -2,6 +2,8 @@
 latitude: 31.2214
 longitude: 121.4882
 score: 6.0
+snippet: Multi-floor fabric and tailoring market in the South Bund area near Nanpu
+  Bridge
 tags:
 - things_to_do
 - shopping

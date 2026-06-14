@@ -2,6 +2,8 @@
 latitude: 28.5977
 longitude: 77.2197
 score: 6.0
+snippet: Colonial-era heritage hotel on Aurangzeb Road, Delhi's most distinguished
+  pre-independence property
 tags:
 - things_to_do
 - landmark

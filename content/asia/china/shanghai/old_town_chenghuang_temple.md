@@ -2,6 +2,7 @@
 latitude: 31.2266
 longitude: 121.4897
 score: 8.5
+snippet: Active Taoist temple in the Yuyuan Bazaar, the patron temple of Shanghai
 tags:
 - things_to_do
 - sight

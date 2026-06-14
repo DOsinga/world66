@@ -2,6 +2,8 @@
 latitude: 31.2163
 longitude: 121.4529
 score: 5.5
+snippet: Local neighbourhood market street in the French Concession between Huaihai
+  and Fuxing roads
 tags:
 - things_to_do
 - shopping

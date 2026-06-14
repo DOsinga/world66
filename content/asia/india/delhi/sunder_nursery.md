@@ -2,6 +2,8 @@
 latitude: 28.5969
 longitude: 77.2453
 score: 7.5
+snippet: 16th-century Mughal heritage garden next to Humayun's Tomb, restored as a
+  public park in 2018
 tags:
 - things_to_do
 - park

@@ -2,6 +2,7 @@
 latitude: 31.2354
 longitude: 121.5013
 score: 9.0
+snippet: Observation deck at 546 metres on the 118th floor of Shanghai Tower
 tags:
 - things_to_do
 - sight

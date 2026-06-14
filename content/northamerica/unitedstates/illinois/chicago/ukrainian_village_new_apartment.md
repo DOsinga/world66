@@ -2,6 +2,8 @@
 latitude: 41.8985
 longitude: -87.6766
 score: 5.0
+snippet: Blocks around Oakley and Cortez in the heart of Ukrainian Village, among
+  the best-preserved worker housing in Chicago
 tags:
 - things_to_do
 - sight

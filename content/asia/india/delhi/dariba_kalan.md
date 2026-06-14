@@ -2,6 +2,7 @@
 latitude: 28.6553
 longitude: 77.2342
 score: 7.0
+snippet: Old Delhi's main silver jewellery street, trading since the Mughal era
 tags:
 - things_to_do
 - shopping

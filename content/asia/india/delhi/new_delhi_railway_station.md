@@ -2,6 +2,8 @@
 latitude: 28.6428
 longitude: 77.2191
 score: 6.0
+snippet: Main rail hub for the capital, gateway to Delhi's budget hotels and Paharganj
+  backpacker area
 tags:
 - things_to_do
 - landmark

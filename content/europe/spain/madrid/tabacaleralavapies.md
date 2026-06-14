@@ -2,6 +2,8 @@
 latitude: 40.4063
 longitude: -3.7036
 score: 7.5
+snippet: Former state tobacco factory on Calle Embajadores turned free-entry alternative
+  arts and community space
 story: La Tabacalera was Madrid's state tobacco factory until 2000, when it closed.
   After years of abandonment, the building was ceded to the Ministry of Culture, which
   converted part of it into an autonomous cultural space managed by the surrounding

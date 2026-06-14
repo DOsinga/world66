@@ -2,6 +2,7 @@
 latitude: 31.2488
 longitude: 121.4852
 score: 7.5
+snippet: Rehabilitated creek walk separating Hongkou from Jing'an, lined with warehouses-turned-galleries
 tags:
 - things_to_do
 - sight

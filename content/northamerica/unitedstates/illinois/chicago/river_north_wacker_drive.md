@@ -2,6 +2,8 @@
 latitude: 41.8874
 longitude: -87.634
 score: 7.5
+snippet: Two-level street along the Chicago River's south bank — lower level for trucks,
+  upper for cars and pedestrians
 tags:
 - things_to_do
 - sight

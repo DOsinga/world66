@@ -2,6 +2,8 @@
 latitude: 28.5143
 longitude: 77.1785
 score: 7.0
+snippet: Large Lodi-era caravanserai in Mehrauli, shaped like a ship with a central
+  courtyard
 tags:
 - things_to_do
 - historic

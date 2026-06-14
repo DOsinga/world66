@@ -2,6 +2,8 @@
 latitude: 31.2239
 longitude: 121.4907
 score: 6.5
+snippet: Surviving fragment of Shanghai's Ming dynasty city wall preserved at Dajing
+  Road
 tags:
 - things_to_do
 - sight

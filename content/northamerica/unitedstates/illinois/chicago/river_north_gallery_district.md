@@ -2,6 +2,8 @@
 latitude: 41.8922
 longitude: -87.6349
 score: 7.5
+snippet: Largest concentration of commercial art galleries in the United States outside
+  New York, centered on Superior Street
 tags:
 - things_to_do
 - art

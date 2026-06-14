@@ -2,6 +2,8 @@
 latitude: 31.2158
 longitude: 121.4641
 score: 7.0
+snippet: Restaurant-dense block of Maoming Road South between Huaihai Road and Nanchang
+  Road
 tags:
 - things_to_do
 - restaurant

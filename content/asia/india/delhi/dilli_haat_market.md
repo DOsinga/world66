@@ -2,6 +2,8 @@
 latitude: 28.572
 longitude: 77.208
 score: 7.5
+snippet: Government-run open-air crafts bazaar in South Delhi showcasing artisans
+  from every state
 tags:
 - things_to_do
 - shopping

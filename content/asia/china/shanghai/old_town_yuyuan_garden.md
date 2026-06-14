@@ -2,6 +2,7 @@
 latitude: 31.2267
 longitude: 121.4933
 score: 9.0
+snippet: Ming dynasty private garden in the Old Town built between 1559 and 1577
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 31.2386
 longitude: 121.4985
 score: 6.5
+snippet: Underground cable-car tunnel beneath the Huangpu River running tourist light
+  shows
 tags:
 - things_to_do
 - sight

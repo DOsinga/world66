@@ -2,6 +2,8 @@
 latitude: 40.4227
 longitude: -3.7121
 score: 7.5
+snippet: 19th-century aristocratic palace left intact by its owner as a museum, interiors
+  and collections preserved as-is
 tags:
 - things_to_do
 - museum

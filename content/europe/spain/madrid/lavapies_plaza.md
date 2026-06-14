@@ -2,6 +2,8 @@
 latitude: 40.4082
 longitude: -3.7026
 score: 7.5
+snippet: Central square of Madrid's most ethnically diverse neighbourhood, busy with
+  terraces and street life
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 41.8789
 longitude: -87.6359
 score: 9.0
+snippet: Former world's tallest building at 1,451 feet, with the Skydeck's glass-floored
+  ledges extending over the city on the 103rd floor
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 latitude: 31.2419
 longitude: 121.4977
 score: 8.0
+snippet: Riverside promenade along the east Huangpu bank in Lujiazui with Bund views
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 28.6558
 longitude: 77.2325
 score: 8.0
+snippet: Historic Sikh gurdwara in Chandni Chowk marking the site of Guru Tegh Bahadur's
+  martyrdom
 tags:
 - things_to_do
 - temple

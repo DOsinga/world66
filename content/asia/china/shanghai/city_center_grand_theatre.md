@@ -2,6 +2,7 @@
 latitude: 31.2303
 longitude: 121.472
 score: 7.5
+snippet: 1998 concert hall on People's Square designed by Jean-Marie Charpentier
 tags:
 - things_to_do
 - entertainment

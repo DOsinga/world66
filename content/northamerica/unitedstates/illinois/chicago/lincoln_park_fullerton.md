@@ -2,6 +2,8 @@
 latitude: 41.9268
 longitude: -87.6352
 score: 7.0
+snippet: Lakefront access point in Lincoln Park at Fullerton Avenue, with beach, harbor,
+  and the lakefront running path
 tags:
 - things_to_do
 - sight

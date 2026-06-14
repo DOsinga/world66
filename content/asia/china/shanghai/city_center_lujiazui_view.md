@@ -2,6 +2,8 @@
 latitude: 31.2329
 longitude: 121.4747
 score: 8.0
+snippet: The iconic view west across the Huangpu River toward the colonial Bund from
+  Pudong
 tags:
 - things_to_do
 - sight

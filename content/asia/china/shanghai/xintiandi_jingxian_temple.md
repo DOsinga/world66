@@ -2,6 +2,8 @@
 latitude: 31.2197
 longitude: 121.4575
 score: 5.5
+snippet: 1928–1936 garden housing development in southern Jing'an with Georgian-influenced
+  architecture
 tags:
 - things_to_do
 - sight

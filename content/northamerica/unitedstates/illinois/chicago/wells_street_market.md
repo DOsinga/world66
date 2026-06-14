@@ -2,6 +2,8 @@
 latitude: 41.912
 longitude: -87.6343
 score: 6.0
+snippet: North Wells Street between Division and North Avenue — the commercial and
+  cultural spine of Old Town
 tags:
 - eating_out
 - shopping

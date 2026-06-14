@@ -2,6 +2,8 @@
 latitude: 41.8537
 longitude: -87.6701
 score: 5.5
+snippet: Network of community gardens and pocket parks developed in Pilsen since the
+  1990s by the local Mexican-American community
 tags:
 - things_to_do
 - park

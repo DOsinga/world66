@@ -2,6 +2,7 @@
 latitude: 31.2152
 longitude: 121.4478
 score: 8.0
+snippet: Wukang Mansion, a 1924 French Concession landmark at the top of Wukang Road
 tags:
 - things_to_do
 - sight

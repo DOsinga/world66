@@ -2,6 +2,7 @@
 latitude: 31.2439
 longitude: 121.4978
 score: 7.0
+snippet: Riverside public walk along the east bank of the Huangpu facing the Bund
 tags:
 - things_to_do
 - park

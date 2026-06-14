@@ -2,6 +2,8 @@
 latitude: 41.8758
 longitude: -87.6189
 score: 8.5
+snippet: One of the world's largest fountains, donated to Chicago in 1927 and modeled
+  on the Latona Fountain at Versailles
 tags:
 - things_to_do
 - sight

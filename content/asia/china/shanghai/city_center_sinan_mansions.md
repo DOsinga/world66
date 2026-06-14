@@ -2,6 +2,8 @@
 latitude: 31.2172
 longitude: 121.4716
 score: 7.0
+snippet: Cluster of 51 restored Republican-era villas on Sinan Road now used as hotels
+  and restaurants
 tags:
 - things_to_do
 - sight

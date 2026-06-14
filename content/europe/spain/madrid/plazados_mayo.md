@@ -2,6 +2,8 @@
 latitude: 40.4271
 longitude: -3.7037
 score: 8.0
+snippet: Social heart of Malasaña, with a monument to the 1808 uprising and terraces
+  filling every corner
 story: The square commemorates the Dos de Mayo Uprising of 1808, when the people of
   Madrid rose against Napoleon's occupation. The neighbourhood is named after Manuela
   Malasaña, a 15-year-old seamstress executed by French troops that day for allegedly

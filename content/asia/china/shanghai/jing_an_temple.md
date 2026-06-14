@@ -2,6 +2,7 @@
 latitude: 31.2244
 longitude: 121.4453
 score: 8.5
+snippet: Active Buddhist temple on Nanjing Road West rebuilt in Tang dynasty style
 tags:
 - things_to_do
 - sight

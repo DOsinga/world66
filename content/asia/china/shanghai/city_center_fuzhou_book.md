@@ -2,6 +2,7 @@
 latitude: 31.2366
 longitude: 121.4769
 score: 6.0
+snippet: Historic book and stationery street in the old International Settlement
 tags:
 - things_to_do
 - shopping

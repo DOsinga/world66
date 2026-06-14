@@ -2,6 +2,8 @@
 latitude: 40.4226
 longitude: -3.6984
 score: 7.5
+snippet: Chueca's tree-lined central square, the neighbourhood's social hub and outdoor
+  living room
 tags:
 - things_to_do
 - landmark

@@ -2,6 +2,7 @@
 latitude: 31.2718
 longitude: 121.4886
 score: 7.0
+snippet: Hongkou park containing the tomb of writer Lu Xun and a morning tai chi crowd
 tags:
 - things_to_do
 - park

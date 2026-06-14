@@ -2,6 +2,7 @@
 latitude: 31.2251
 longitude: 121.4919
 score: 7.0
+snippet: Weekend antique and curio market on Fuyou Road in the Old Town
 tags:
 - things_to_do
 - shopping

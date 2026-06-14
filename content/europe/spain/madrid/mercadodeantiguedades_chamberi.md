@@ -2,6 +2,8 @@
 latitude: 40.4344
 longitude: -3.704
 score: 6.5
+snippet: Small Sunday antiques and collectables market filling Plaza de Chamberí on
+  weekend mornings
 tags:
 - shopping
 - market

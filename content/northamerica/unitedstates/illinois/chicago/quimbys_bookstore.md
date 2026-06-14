@@ -2,6 +2,8 @@
 latitude: 41.9107
 longitude: -87.6738
 score: 6.5
+snippet: Essential Chicago independent bookstore for zines, comics, art books, and
+  underground publishing since 1991
 tags:
 - shopping
 - wicker_park

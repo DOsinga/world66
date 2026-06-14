@@ -2,6 +2,7 @@
 latitude: 31.2137
 longitude: 121.4461
 score: 7.5
+snippet: Private collection of 6,000 Chinese propaganda posters from the Maoist era
 tags:
 - things_to_do
 - museum

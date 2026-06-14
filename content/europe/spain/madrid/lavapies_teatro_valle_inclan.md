@@ -2,6 +2,8 @@
 latitude: 40.4086
 longitude: -3.7034
 score: 7.5
+snippet: Centro Dramático Nacional's main venue in Lavapiés, staging contemporary
+  Spanish theatre
 tags:
 - things_to_do
 - entertainment

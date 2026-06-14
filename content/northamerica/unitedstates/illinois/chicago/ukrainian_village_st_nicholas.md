@@ -2,6 +2,8 @@
 latitude: 41.8973
 longitude: -87.6752
 score: 7.5
+snippet: 1915 Byzantine-style cathedral modeled on the Hagia Sophia, the architectural
+  centerpiece of Ukrainian Village
 tags:
 - things_to_do
 - sight

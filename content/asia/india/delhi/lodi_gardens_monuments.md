@@ -2,6 +2,8 @@
 latitude: 28.593
 longitude: 77.22
 score: 8.5
+snippet: Collection of 15th and 16th-century Lodi and Sayyid tombs scattered through
+  a landscaped park
 tags:
 - things_to_do
 - historic

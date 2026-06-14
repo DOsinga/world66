@@ -2,6 +2,8 @@
 latitude: 31.239
 longitude: 121.5098
 score: 6.5
+snippet: Private museum in the Aurora Mansion dedicated to ancient Chinese jade and
+  bronzes
 tags:
 - things_to_do
 - museum

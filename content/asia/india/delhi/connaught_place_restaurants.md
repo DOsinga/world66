@@ -2,6 +2,8 @@
 latitude: 28.6314
 longitude: 77.2194
 score: 7.5
+snippet: Dining scene in the colonnaded Georgian heart of Lutyens' Delhi, from dhabas
+  to fine dining
 tags:
 - restaurant
 - bars_and_cafes

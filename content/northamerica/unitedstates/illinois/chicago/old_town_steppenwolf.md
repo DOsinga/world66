@@ -2,6 +2,8 @@
 latitude: 41.9131
 longitude: -87.635
 score: 8.5
+snippet: Steppenwolf Theatre on Halsted Street, America's most influential regional
+  theatre company, founded by Gary Sinise in 1974
 tags:
 - things_to_do
 - entertainment

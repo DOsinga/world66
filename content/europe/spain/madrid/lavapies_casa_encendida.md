@@ -2,6 +2,8 @@
 latitude: 40.4071
 longitude: -3.702
 score: 7.5
+snippet: Contemporary arts centre in a beautifully restored 1920s building on the
+  edge of Lavapiés
 tags:
 - things_to_do
 - museum

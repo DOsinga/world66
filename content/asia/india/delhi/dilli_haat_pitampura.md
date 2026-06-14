@@ -2,6 +2,7 @@
 latitude: 28.7003
 longitude: 77.1338
 score: 5.5
+snippet: North Delhi branch of the government-run Dilli Haat crafts and food market
 tags:
 - things_to_do
 - shopping

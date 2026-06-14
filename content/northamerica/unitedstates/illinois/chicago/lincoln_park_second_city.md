@@ -2,6 +2,8 @@
 latitude: 41.9212
 longitude: -87.6319
 score: 8.5
+snippet: Chicago History Museum at the south end of Lincoln Park, with the city's
+  definitive collection of artifacts and photographs
 tags:
 - things_to_do
 - museum

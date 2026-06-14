@@ -2,6 +2,8 @@
 latitude: 31.2389
 longitude: 121.498
 score: 7.0
+snippet: Twin-tower IFC development on the north Lujiazui waterfront with luxury retail
+  and IFC Mall
 tags:
 - things_to_do
 - shopping

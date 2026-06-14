@@ -2,6 +2,8 @@
 latitude: 40.4258
 longitude: -3.6953
 score: 7.5
+snippet: Free city history museum on Calle Fuencarral in a building with an exceptional
+  Churrigueresque portal
 tags:
 - things_to_do
 - museum

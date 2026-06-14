@@ -2,6 +2,8 @@
 latitude: 40.4229
 longitude: -3.6975
 score: 7.5
+snippet: Three-storey covered market rebuilt in 2011 as a food hall, with stalls,
+  restaurants, and a rooftop terrace
 tags:
 - things_to_do
 - shopping

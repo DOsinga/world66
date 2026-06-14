@@ -2,6 +2,8 @@
 latitude: 28.5756
 longitude: 77.2097
 score: 6.5
+snippet: South Delhi's most popular fresh produce and international food market, busy
+  all week
 tags:
 - things_to_do
 - shopping

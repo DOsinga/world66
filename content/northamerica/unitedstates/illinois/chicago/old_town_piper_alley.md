@@ -2,6 +2,8 @@
 latitude: 41.9118
 longitude: -87.636
 score: 7.0
+snippet: iO Theater at Pipers Alley on North Wells Street, the second home of Chicago
+  improv comedy after Second City
 tags:
 - things_to_do
 - entertainment

@@ -2,6 +2,8 @@
 latitude: 28.6501
 longitude: 77.1875
 score: 6.0
+snippet: Wholesale textile and clothing lanes of Karol Bagh, centred on Ajmal Khan
+  Road
 tags:
 - things_to_do
 - shopping

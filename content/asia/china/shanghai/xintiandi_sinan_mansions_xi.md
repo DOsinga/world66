@@ -2,6 +2,8 @@
 latitude: 31.2175
 longitude: 121.4709
 score: 7.0
+snippet: Sinan Road running south through French Concession villa streets to Fuxing
+  Park
 tags:
 - things_to_do
 - sight

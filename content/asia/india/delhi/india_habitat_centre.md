@@ -2,6 +2,8 @@
 latitude: 28.5897
 longitude: 77.2249
 score: 7.0
+snippet: Modernist cultural campus in Lodhi Road with galleries, cinemas, and acclaimed
+  restaurants
 tags:
 - things_to_do
 - culture

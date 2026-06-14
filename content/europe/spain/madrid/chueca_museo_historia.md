@@ -2,6 +2,8 @@
 latitude: 40.4251
 longitude: -3.7004
 score: 7.5
+snippet: Free city history museum in a former hospice, with one of the most spectacular
+  Churrigueresque doorways in Madrid
 tags:
 - things_to_do
 - museum

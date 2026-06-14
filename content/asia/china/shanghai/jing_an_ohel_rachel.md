@@ -2,6 +2,7 @@
 latitude: 31.2254
 longitude: 121.456
 score: 7.0
+snippet: 1920 Sephardic synagogue on North Shaanxi Road, the largest in Shanghai
 tags:
 - things_to_do
 - sight

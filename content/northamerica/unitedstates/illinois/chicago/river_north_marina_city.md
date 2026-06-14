@@ -2,6 +2,8 @@
 latitude: 41.8858
 longitude: -87.6281
 score: 8.0
+snippet: Twin corncob-shaped concrete towers on the Chicago River, completed 1967
+  by Bertrand Goldberg as a city-within-a-city
 tags:
 - things_to_do
 - sight

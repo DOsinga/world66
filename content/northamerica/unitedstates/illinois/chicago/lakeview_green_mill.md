@@ -2,6 +2,8 @@
 latitude: 41.9659
 longitude: -87.6551
 score: 8.0
+snippet: Jazz bar on Broadway in Uptown open since 1907, former Capone haunt and current
+  home of the Uptown Poetry Slam
 tags:
 - things_to_do
 - bars_and_cafes

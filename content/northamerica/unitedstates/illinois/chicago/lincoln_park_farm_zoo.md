@@ -2,6 +2,8 @@
 latitude: 41.9218
 longitude: -87.6339
 score: 7.0
+snippet: Working farm within Lincoln Park Zoo where visitors see chickens, cows, pigs,
+  and sheep in an urban setting
 tags:
 - things_to_do
 - sight

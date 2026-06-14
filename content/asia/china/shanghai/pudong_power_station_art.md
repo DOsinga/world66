@@ -2,6 +2,8 @@
 latitude: 31.2253
 longitude: 121.4921
 score: 7.5
+snippet: China's first state-run contemporary art museum in a converted 1985 power
+  station
 tags:
 - things_to_do
 - museum

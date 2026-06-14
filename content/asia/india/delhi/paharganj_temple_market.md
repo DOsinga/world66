@@ -2,6 +2,7 @@
 latitude: 28.6437
 longitude: 77.2098
 score: 6.5
+snippet: Handicraft and souvenir shops in the lanes off Paharganj Main Bazaar
 tags:
 - things_to_do
 - shopping

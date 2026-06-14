@@ -2,6 +2,8 @@
 latitude: 41.8572
 longitude: -87.6668
 score: 6.5
+snippet: Bar scene along 18th Street in Pilsen with a distinct Latin-punk-indie character
+  unlike any other Chicago neighborhood
 tags:
 - things_to_do
 - bars_and_cafes

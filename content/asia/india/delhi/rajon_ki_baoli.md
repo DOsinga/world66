@@ -2,6 +2,8 @@
 latitude: 28.5203
 longitude: 77.1834
 score: 7.5
+snippet: 15th-century stepwell hidden inside Mehrauli Archaeological Park, built for
+  Lodi-era masons
 tags:
 - things_to_do
 - historic

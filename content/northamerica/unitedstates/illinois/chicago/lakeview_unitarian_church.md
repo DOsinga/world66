@@ -2,6 +2,8 @@
 latitude: 41.9686
 longitude: -87.6545
 score: 6.0
+snippet: Small museum in Andersonville documenting the history of Swedish immigration
+  to Chicago and the Midwest
 tags:
 - things_to_do
 - museum

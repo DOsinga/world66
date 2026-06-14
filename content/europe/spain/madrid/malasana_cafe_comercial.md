@@ -2,6 +2,8 @@
 latitude: 40.4271
 longitude: -3.7027
 score: 7.5
+snippet: Madrid café institution at Glorieta de Bilbao dating from 1887, known for
+  marble tables and literary clientele
 tags:
 - things_to_do
 - restaurant

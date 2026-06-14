@@ -2,6 +2,7 @@
 latitude: 31.2355
 longitude: 121.5012
 score: 8.5
+snippet: SOM-designed 88-floor supertall in Lujiazui inspired by Chinese pagoda proportions
 tags:
 - things_to_do
 - architecture

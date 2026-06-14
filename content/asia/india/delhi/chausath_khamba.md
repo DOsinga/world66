@@ -2,6 +2,7 @@
 latitude: 28.5913
 longitude: 77.2418
 score: 7.0
+snippet: Mughal-era white marble mausoleum with 64 pillars in the Nizamuddin Basti
 tags:
 - things_to_do
 - historic

@@ -2,6 +2,7 @@
 latitude: 31.2222
 longitude: 121.4683
 score: 6.5
+snippet: Main commercial artery of the former French Concession running east to west
 tags:
 - things_to_do
 - shopping

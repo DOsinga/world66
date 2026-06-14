@@ -2,6 +2,8 @@
 latitude: 31.2175
 longitude: 121.4616
 score: 7.5
+snippet: Residential French Concession street that became Shanghai's most concentrated
+  bar strip
 tags:
 - things_to_do
 - bars_and_cafes

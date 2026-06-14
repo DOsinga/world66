@@ -2,6 +2,7 @@
 latitude: 28.5598
 longitude: 77.2093
 score: 5.5
+snippet: Busy neighbourhood shopping street just south of Hauz Khas Metro station
 tags:
 - things_to_do
 - restaurant

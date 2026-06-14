@@ -2,6 +2,8 @@
 latitude: 31.2377
 longitude: 121.4898
 score: 7.0
+snippet: Mixed-use heritage building at Bund 18, housing high-end boutiques and rooftop
+  bars
 tags:
 - things_to_do
 - bars_and_cafes

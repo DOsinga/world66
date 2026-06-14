@@ -2,6 +2,8 @@
 latitude: 41.8623
 longitude: -87.6167
 score: 7.5
+snippet: Home of the Chicago Bears and site of the 1926 and 1996 Olympic ceremonies,
+  with a controversial modern stadium bowl inside classical colonnades
 tags:
 - things_to_do
 - entertainment

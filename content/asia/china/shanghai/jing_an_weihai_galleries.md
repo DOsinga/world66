@@ -2,6 +2,7 @@
 latitude: 31.2281
 longitude: 121.4605
 score: 6.0
+snippet: Secondary gallery cluster around Weihai Road and Xikang Road in Jing'an
 tags:
 - things_to_do
 - art

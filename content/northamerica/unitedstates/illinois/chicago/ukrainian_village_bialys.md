@@ -2,6 +2,8 @@
 latitude: 41.8972
 longitude: -87.6748
 score: 6.0
+snippet: Eastern European bakeries and delis in Ukrainian Village maintaining traditions
+  of Polish, Ukrainian, and Jewish baking
 tags:
 - things_to_do
 - shopping

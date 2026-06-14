@@ -2,6 +2,8 @@
 latitude: 41.9019
 longitude: -87.6714
 score: 6.5
+snippet: Byzantine-style Orthodox cathedral on North Leavitt, built 1903 with Louis
+  Sullivan's blessing
 tags:
 - things_to_do
 - sight

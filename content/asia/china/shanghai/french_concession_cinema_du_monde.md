@@ -2,6 +2,8 @@
 latitude: 31.2233
 longitude: 121.4694
 score: 7.0
+snippet: 1932 Art Deco cinema on Huaihai Road, the finest surviving concession-era
+  picture house
 tags:
 - things_to_do
 - entertainment

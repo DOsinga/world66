@@ -2,6 +2,8 @@
 latitude: 28.5732
 longitude: 77.2085
 score: 7.0
+snippet: Open-air food court inside Dilli Haat INA serving regional dishes from across
+  India
 tags:
 - things_to_do
 - restaurant

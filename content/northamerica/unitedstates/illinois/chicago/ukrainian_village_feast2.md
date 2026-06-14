@@ -2,6 +2,8 @@
 latitude: 41.8951
 longitude: -87.6763
 score: 6.0
+snippet: 1885 Gothic Revival Catholic church on Paulina Street, built by the Polish
+  community and still an active parish
 tags:
 - things_to_do
 - sight

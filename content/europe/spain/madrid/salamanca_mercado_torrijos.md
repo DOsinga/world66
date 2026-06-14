@@ -2,6 +2,8 @@
 latitude: 40.4248
 longitude: -3.6847
 score: 7.0
+snippet: Salamanca's neighbourhood food market on Calle Ayala, operating since 1882
+  with quality fresh produce
 tags:
 - things_to_do
 - shopping

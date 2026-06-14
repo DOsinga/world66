@@ -2,6 +2,8 @@
 latitude: 41.9033
 longitude: -87.6763
 score: 6.5
+snippet: Division Street on the boundary between Ukrainian Village and Wicker Park,
+  lined with bars and longtime neighborhood businesses
 tags:
 - things_to_do
 - bars_and_cafes

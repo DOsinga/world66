@@ -2,6 +2,8 @@
 latitude: 41.9077
 longitude: -87.6759
 score: 6.5
+snippet: Wicker Park neighborhood proper — the triangular park at Damen and Schiller
+  around which the community's identity is centered
 tags:
 - things_to_do
 - sight

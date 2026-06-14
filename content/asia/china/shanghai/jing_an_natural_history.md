@@ -2,6 +2,8 @@
 latitude: 31.23
 longitude: 121.455
 score: 7.5
+snippet: Large natural history museum opened 2015 in Jing'an Sculpture Park with a
+  spiral shell form
 tags:
 - things_to_do
 - museum

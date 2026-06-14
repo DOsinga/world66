@@ -2,6 +2,7 @@
 latitude: 31.2214
 longitude: 121.4912
 score: 7.0
+snippet: Site of the 2010 Shanghai World Expo, now a park with retained national pavilions
 tags:
 - things_to_do
 - sight

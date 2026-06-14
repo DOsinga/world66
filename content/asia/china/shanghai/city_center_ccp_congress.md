@@ -2,6 +2,8 @@
 latitude: 31.2193
 longitude: 121.472
 score: 7.0
+snippet: Shikumen lane house in Xintiandi where the Chinese Communist Party held its
+  first congress in 1921
 tags:
 - things_to_do
 - sight

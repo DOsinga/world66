@@ -2,6 +2,8 @@
 latitude: 41.9076
 longitude: -87.6758
 score: 5.5
+snippet: Wicker Park Community Garden at Schiller and Damen, one of Chicago's original
+  urban gardens established in the 1990s
 tags:
 - things_to_do
 - park

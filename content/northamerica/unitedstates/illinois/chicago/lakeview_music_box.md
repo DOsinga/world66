@@ -2,6 +2,8 @@
 latitude: 41.9385
 longitude: -87.6587
 score: 7.5
+snippet: Independent cinema from 1929 on Southport Avenue, still operating with its
+  original atmospheric interior intact
 tags:
 - things_to_do
 - entertainment

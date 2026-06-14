@@ -2,6 +2,8 @@
 latitude: 31.2229
 longitude: 121.488
 score: 7.0
+snippet: Shanghai Confucius Temple dating from 1855, with a Sunday book and antique
+  market
 tags:
 - things_to_do
 - sight

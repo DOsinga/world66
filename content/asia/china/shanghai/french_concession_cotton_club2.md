@@ -2,6 +2,7 @@
 latitude: 31.215
 longitude: 121.4478
 score: 6.5
+snippet: Café cluster that grew around Wukang Mansion at the top of Wukang Road
 tags:
 - things_to_do
 - bars_and_cafes

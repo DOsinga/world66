@@ -2,6 +2,8 @@
 latitude: 41.9437
 longitude: -87.649
 score: 7.0
+snippet: Halsted Street through Lakeview linking Boystown to Wrigleyville, the spine
+  of Chicago's most visited nightlife corridor
 tags:
 - things_to_do
 - restaurant

@@ -2,6 +2,8 @@
 latitude: 41.8799
 longitude: -87.6292
 score: 7.0
+snippet: German-American restaurant on Adams Street operating since 1898, Chicago's
+  oldest continuously operating restaurant
 tags:
 - things_to_do
 - restaurant

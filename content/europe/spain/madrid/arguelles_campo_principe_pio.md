@@ -2,6 +2,8 @@
 latitude: 40.4181
 longitude: -3.7187
 score: 6.5
+snippet: Former 1880 railway terminus converted into a shopping centre, keeping its
+  original iron-and-glass structure
 tags:
 - things_to_do
 - sight

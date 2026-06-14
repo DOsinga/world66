@@ -2,6 +2,8 @@
 latitude: 41.9248
 longitude: -87.637
 score: 7.0
+snippet: Natural history museum at the north end of Lincoln Park with a butterfly
+  haven and focus on Midwestern ecology
 tags:
 - things_to_do
 - museum

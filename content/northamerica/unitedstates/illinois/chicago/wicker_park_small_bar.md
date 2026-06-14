@@ -2,6 +2,8 @@
 latitude: 41.9073
 longitude: -87.6772
 score: 5.5
+snippet: Deliberately modest Division Street neighborhood bar in Wicker Park with
+  a strong craft beer list and no pretense
 tags:
 - things_to_do
 - bars_and_cafes

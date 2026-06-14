@@ -2,6 +2,7 @@
 latitude: 28.6011
 longitude: 77.2535
 score: 5.5
+snippet: Long Yamuna riverfront park running along the eastern edge of central Delhi
 tags:
 - things_to_do
 - park

@@ -2,6 +2,8 @@
 latitude: 30.9075
 longitude: 121.6566
 score: 7.0
+snippet: Preserved waterway town south of Pudong with Ming and Qing dynasty stone
+  arch bridges
 tags:
 - things_to_do
 - sight

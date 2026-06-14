@@ -2,6 +2,8 @@
 latitude: 28.6511
 longitude: 77.1888
 score: 6.5
+snippet: Dense restaurant strip on Pusa Road offering North Indian, Punjabi, and Mughlai
+  cuisine
 tags:
 - things_to_do
 - restaurant

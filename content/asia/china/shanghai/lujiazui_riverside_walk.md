@@ -2,6 +2,7 @@
 latitude: 31.2429
 longitude: 121.4968
 score: 7.0
+snippet: Ferry terminal at the north end of Lujiazui connecting to the Bund by river
 tags:
 - things_to_do
 - sight

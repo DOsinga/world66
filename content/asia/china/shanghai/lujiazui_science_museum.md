@@ -2,6 +2,7 @@
 latitude: 31.2201
 longitude: 121.5432
 score: 7.0
+snippet: Hands-on science museum at Century Avenue in outer Lujiazui with a planetarium
 tags:
 - things_to_do
 - museum

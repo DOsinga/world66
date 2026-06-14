@@ -2,6 +2,8 @@
 latitude: 28.6272
 longitude: 77.2098
 score: 7.5
+snippet: Delhi's most prominent Sikh gurdwara, a gleaming white landmark near Connaught
+  Place
 tags:
 - things_to_do
 - temple

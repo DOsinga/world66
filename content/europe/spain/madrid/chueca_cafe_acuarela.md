@@ -2,6 +2,8 @@
 latitude: 40.4225
 longitude: -3.6994
 score: 6.5
+snippet: Chueca café institution since the 1990s, known for exuberant décor and a
+  long-running LGBTQ+ crowd
 tags:
 - things_to_do
 - bars_and_cafes

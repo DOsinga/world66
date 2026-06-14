@@ -2,6 +2,8 @@
 latitude: 41.8826
 longitude: -87.6294
 score: 8.0
+snippet: The Loop's streetscape is the most concentrated assemblage of commercially
+  significant 20th-century skyscrapers in the world
 tags:
 - things_to_do
 - architecture

@@ -2,6 +2,8 @@
 latitude: 40.4122
 longitude: -3.7129
 score: 7.5
+snippet: 16th-century parish church on Plaza de San Andrés with the attached Chapel
+  of San Isidro, patron of Madrid
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 41.9186
 longitude: -87.6488
 score: 6.5
+snippet: Armitage and Halsted intersection in Lincoln Park — the neighborhood's boutique
+  retail and restaurant anchor
 tags:
 - things_to_do
 - restaurant

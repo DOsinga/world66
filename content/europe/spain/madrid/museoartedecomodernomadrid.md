@@ -2,6 +2,8 @@
 latitude: 40.4283
 longitude: -3.6847
 score: 7.5
+snippet: Terrace bars and restaurants along Calle Serrano and Calle Ortega y Gasset
+  popular with the Salamanca crowd
 tags:
 - eating_out
 - bars_and_cafes

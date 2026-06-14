@@ -2,6 +2,7 @@
 latitude: 28.6338
 longitude: 77.2012
 score: 7.5
+snippet: Birla-built 1939 Hindu temple in New Delhi dedicated to Lakshmi and Narayan
 tags:
 - things_to_do
 - temple

@@ -2,6 +2,8 @@
 latitude: 31.2083
 longitude: 121.4737
 score: 5.5
+snippet: Residential neighbourhood south and east of Tianzifang retaining everyday
+  local character
 tags:
 - things_to_do
 - sight

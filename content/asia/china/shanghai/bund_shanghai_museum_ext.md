@@ -2,6 +2,7 @@
 latitude: 31.2286
 longitude: 121.4739
 score: 7.5
+snippet: One of China's great museums, holding 120,000 pieces of Chinese art and antiquities
 tags:
 - things_to_do
 - museum

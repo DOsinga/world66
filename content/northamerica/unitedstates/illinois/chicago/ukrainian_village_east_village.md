@@ -2,6 +2,8 @@
 latitude: 41.9011
 longitude: -87.6695
 score: 6.5
+snippet: Eastern edge of Ukrainian Village bordering Wicker Park near Damen Avenue,
+  where the two neighborhoods blend
 tags:
 - things_to_do
 - bars_and_cafes

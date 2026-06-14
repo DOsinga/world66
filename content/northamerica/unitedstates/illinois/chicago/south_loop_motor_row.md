@@ -2,6 +2,8 @@
 latitude: 41.8639
 longitude: -87.6231
 score: 6.0
+snippet: South Michigan Avenue corridor lined with 1910s–1920s auto showrooms, now
+  a National Register Historic District
 tags:
 - things_to_do
 - sight

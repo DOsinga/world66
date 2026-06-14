@@ -2,6 +2,8 @@
 latitude: 41.7928
 longitude: -87.5993
 score: 6.0
+snippet: Hyde Park institution since 1962 — diner, coffee bar, and informal university
+  gathering place on 57th Street
 tags:
 - things_to_do
 - restaurant

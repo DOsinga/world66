@@ -2,6 +2,8 @@
 latitude: 31.2593
 longitude: 121.499
 score: 5.0
+snippet: Working-class market streets of Hongkou around Lujing Road, little changed
+  since the 1980s
 tags:
 - things_to_do
 - restaurant

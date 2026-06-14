@@ -2,6 +2,8 @@
 latitude: 41.8973
 longitude: -87.6745
 score: 5.5
+snippet: Ukrainian Village restaurant scene anchored by neighborhood bistros along
+  Chicago Avenue and the surrounding blocks
 tags:
 - things_to_do
 - restaurant

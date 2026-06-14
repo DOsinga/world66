@@ -2,6 +2,8 @@
 latitude: 40.4268
 longitude: -3.6874
 score: 8.0
+snippet: Madrid's principal luxury shopping street, home to international brands and
+  Spanish designers in Salamanca
 tags:
 - shopping
 - salamanca

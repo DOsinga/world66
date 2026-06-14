@@ -2,6 +2,7 @@
 latitude: 28.6095
 longitude: 77.2432
 score: 7.0
+snippet: Landscaped boating lake in the moat of Purana Qila, popular at weekends
 tags:
 - things_to_do
 - park

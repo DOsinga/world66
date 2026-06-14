@@ -2,6 +2,8 @@
 latitude: 41.909
 longitude: -87.6352
 score: 6.0
+snippet: Southern end of Old Town where Halsted and Clark Streets converge near the
+  North Avenue nightlife corridor
 tags:
 - things_to_do
 - bars_and_cafes

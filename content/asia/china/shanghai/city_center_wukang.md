@@ -2,6 +2,8 @@
 latitude: 31.2151
 longitude: 121.4476
 score: 7.5
+snippet: Curved residential street in Xuhui district lined with plane trees and heritage
+  villas
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 31.1997
 longitude: 121.4461
 score: 7.0
+snippet: Restored 1920s Columbia Country Club complex in Xujiahui, now restaurants
+  and a hotel
 tags:
 - things_to_do
 - sight

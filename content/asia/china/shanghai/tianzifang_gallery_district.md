@@ -2,6 +2,7 @@
 latitude: 31.211
 longitude: 121.4712
 score: 7.5
+snippet: Galleries and artist studios within the Tianzifang lane house complex
 tags:
 - things_to_do
 - art

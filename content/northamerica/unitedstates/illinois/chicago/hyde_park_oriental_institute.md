@@ -2,6 +2,8 @@
 latitude: 41.7891
 longitude: -87.5991
 score: 8.0
+snippet: University of Chicago museum with one of the world's finest collections of
+  ancient Near Eastern artifacts
 tags:
 - things_to_do
 - museum

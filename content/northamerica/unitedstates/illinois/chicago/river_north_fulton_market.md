@@ -2,6 +2,8 @@
 latitude: 41.8862
 longitude: -87.6475
 score: 8.0
+snippet: Chicago's most concentrated restaurant district, a former meatpacking area
+  now home to nationally recognized dining
 tags:
 - things_to_do
 - restaurant

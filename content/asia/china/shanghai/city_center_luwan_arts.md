@@ -2,6 +2,7 @@
 latitude: 31.2288
 longitude: 121.4717
 score: 6.5
+snippet: Private contemporary art museum inside People's Park in a glass structure
 tags:
 - things_to_do
 - museum

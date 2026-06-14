@@ -2,6 +2,7 @@
 latitude: 31.2188
 longitude: 121.478
 score: 7.0
+snippet: Outdoor antique market a short walk north of Tianzifang in the Huangpu district
 tags:
 - things_to_do
 - shopping

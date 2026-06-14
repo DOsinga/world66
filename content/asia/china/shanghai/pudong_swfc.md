@@ -2,6 +2,8 @@
 latitude: 31.2355
 longitude: 121.5005
 score: 8.5
+snippet: 492-metre Shanghai World Financial Center with a trapezoidal aperture and
+  sky walk at the top
 tags:
 - things_to_do
 - sight

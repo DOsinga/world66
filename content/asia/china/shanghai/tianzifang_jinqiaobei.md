@@ -2,6 +2,8 @@
 latitude: 31.2098
 longitude: 121.4666
 score: 5.5
+snippet: Quiet residential lanes of the southern French Concession between Tianzifang
+  and Hengshan Road
 tags:
 - things_to_do
 - sight

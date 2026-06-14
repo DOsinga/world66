@@ -2,6 +2,7 @@
 latitude: 31.2179
 longitude: 121.4719
 score: 6.5
+snippet: Artificial lake and South Block at the centre of the Xintiandi development
 tags:
 - things_to_do
 - shopping

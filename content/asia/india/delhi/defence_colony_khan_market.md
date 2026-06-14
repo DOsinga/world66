@@ -2,6 +2,8 @@
 latitude: 28.5995
 longitude: 77.226
 score: 8.0
+snippet: Upscale retail enclave in central Delhi, one of the world's most expensive
+  shopping streets
 tags:
 - things_to_do
 - shopping

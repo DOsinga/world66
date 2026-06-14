@@ -2,6 +2,8 @@
 latitude: 41.8728
 longitude: -87.6298
 score: 7.0
+snippet: Two-block stretch of South Dearborn Street, Chicago's former printing district,
+  now lined with loft condos and a book fair
 tags:
 - things_to_do
 - sight

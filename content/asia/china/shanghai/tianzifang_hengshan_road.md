@@ -2,6 +2,7 @@
 latitude: 31.2065
 longitude: 121.4586
 score: 7.0
+snippet: Main bar street of the southern French Concession, lined with plane trees
 tags:
 - things_to_do
 - bars_and_cafes

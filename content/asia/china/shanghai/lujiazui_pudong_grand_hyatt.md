@@ -2,6 +2,8 @@
 latitude: 31.2355
 longitude: 121.4996
 score: 7.0
+snippet: Cloud 9 bar on the 87th floor of the Jin Mao Tower inside the Grand Hyatt
+  Shanghai
 tags:
 - things_to_do
 - bars_and_cafes

@@ -2,6 +2,8 @@
 latitude: 28.6189
 longitude: 77.2436
 score: 8.0
+snippet: India's largest crafts collection at Pragati Maidan, with recreated village
+  courtyards and workshops
 tags:
 - things_to_do
 - museum

@@ -2,6 +2,8 @@
 latitude: 28.529
 longitude: 77.2191
 score: 6.5
+snippet: Saket's landmark upscale mall, consistently rated among India's best shopping
+  destinations
 tags:
 - things_to_do
 - shopping

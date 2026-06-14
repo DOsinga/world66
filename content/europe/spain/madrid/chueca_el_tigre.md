@@ -2,6 +2,8 @@
 latitude: 40.4208
 longitude: -3.6992
 score: 7.0
+snippet: Bar notorious for the enormous free tapas plates that arrive with every drink
+  order
 tags:
 - things_to_do
 - bars_and_cafes

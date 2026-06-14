@@ -2,6 +2,8 @@
 latitude: 41.8835
 longitude: -87.6249
 score: 8.0
+snippet: Free art exhibition space in Chicago's 1897 public library building, with
+  two spectacular Tiffany mosaic domes
 tags:
 - things_to_do
 - museum

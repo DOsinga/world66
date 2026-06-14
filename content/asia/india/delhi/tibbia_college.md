@@ -2,6 +2,8 @@
 latitude: 28.6558
 longitude: 77.1947
 score: 6.0
+snippet: Delhi's premier Ayurvedic and Unani medicine college, founded in 1916 under
+  British patronage
 tags:
 - things_to_do
 - historic

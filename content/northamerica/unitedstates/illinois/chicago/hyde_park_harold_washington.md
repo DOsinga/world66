@@ -2,6 +2,8 @@
 latitude: 41.8009
 longitude: -87.6035
 score: 6.0
+snippet: Community arts center at the northern edge of Hyde Park programming exhibitions
+  and performances since 1998
 tags:
 - things_to_do
 - museum

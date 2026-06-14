@@ -2,6 +2,8 @@
 latitude: 40.4233
 longitude: -3.7058
 score: 7.5
+snippet: Northern end of Gran Vía from Callao to Bilbao, forming the southern boundary
+  of the Malasaña neighbourhood
 tags:
 - things_to_do
 - sight

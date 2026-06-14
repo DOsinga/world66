@@ -2,6 +2,8 @@
 latitude: 41.7907
 longitude: -87.5993
 score: 7.0
+snippet: Two legendary Hyde Park independent bookstores — Seminary Co-op and 57th
+  Street Books — under the same ownership
 tags:
 - things_to_do
 - shopping

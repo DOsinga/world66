@@ -2,6 +2,8 @@
 latitude: 41.8827
 longitude: -87.6217
 score: 8.0
+snippet: Millennium Park beyond Cloud Gate — Crown Fountain, Lurie Garden, and the
+  Jay Pritzker Pavilion's outdoor concert lawn
 tags:
 - things_to_do
 - sight

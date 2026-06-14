@@ -2,6 +2,7 @@
 latitude: 28.5766
 longitude: 77.2092
 score: 5.5
+snippet: Quiet residential neighbourhood market popular with locals for everyday shopping
 tags:
 - things_to_do
 - restaurant

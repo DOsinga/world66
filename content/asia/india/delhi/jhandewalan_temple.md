@@ -2,6 +2,8 @@
 latitude: 28.6492
 longitude: 77.2042
 score: 5.5
+snippet: Popular Hindu temple near Karol Bagh dedicated to Vaishno Devi, cut into
+  a rocky ridge
 tags:
 - things_to_do
 - temple

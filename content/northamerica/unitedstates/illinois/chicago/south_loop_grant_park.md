@@ -2,6 +2,8 @@
 latitude: 41.8758
 longitude: -87.6189
 score: 8.5
+snippet: Chicago's primary civic park along the lakefront from Randolph to Roosevelt,
+  home to Millennium Park and the Art Institute
 tags:
 - things_to_do
 - park

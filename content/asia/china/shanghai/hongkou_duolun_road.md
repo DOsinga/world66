@@ -2,6 +2,8 @@
 latitude: 31.2688
 longitude: 121.4888
 score: 6.5
+snippet: Preserved 1930s cultural street in Hongkou once home to leftist writers including
+  Lu Xun
 tags:
 - things_to_do
 - sight

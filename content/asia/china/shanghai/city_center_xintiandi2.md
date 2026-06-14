@@ -2,6 +2,8 @@
 latitude: 31.2195
 longitude: 121.4718
 score: 8.0
+snippet: Pedestrianised dining and retail district built around restored shikumen
+  lane houses
 tags:
 - things_to_do
 - restaurant

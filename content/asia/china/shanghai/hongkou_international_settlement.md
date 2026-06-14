@@ -2,6 +2,7 @@
 latitude: 31.2556
 longitude: 121.4853
 score: 6.5
+snippet: North Sichuan Road commercial street in the former Japanese Concession area
 tags:
 - things_to_do
 - sight

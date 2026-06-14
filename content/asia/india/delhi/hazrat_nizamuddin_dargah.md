@@ -2,6 +2,8 @@
 latitude: 28.5914
 longitude: 77.242
 score: 9.0
+snippet: Sufi shrine of 14th-century saint Nizamuddin Auliya, drawing devotees for
+  Thursday qawwali
 tags:
 - things_to_do
 - temple

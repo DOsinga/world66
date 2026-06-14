@@ -2,6 +2,8 @@
 latitude: 41.948
 longitude: -87.6537
 score: 6.5
+snippet: Bar-dense stretch of Clark Street north of Wrigley Field, packed on Cubs
+  game days and summer nights
 tags:
 - things_to_do
 - restaurant

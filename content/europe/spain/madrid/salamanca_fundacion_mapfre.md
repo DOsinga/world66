@@ -2,6 +2,8 @@
 latitude: 40.4222
 longitude: -3.6875
 score: 7.5
+snippet: Private foundation with high-quality free and low-cost art exhibitions near
+  the Retiro and on Paseo de Recoletos
 tags:
 - things_to_do
 - museum

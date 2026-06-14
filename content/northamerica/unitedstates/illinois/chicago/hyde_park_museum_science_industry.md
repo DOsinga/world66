@@ -2,6 +2,8 @@
 latitude: 41.7908
 longitude: -87.5832
 score: 8.5
+snippet: Largest science museum in the Western Hemisphere, housed in the 1893 World's
+  Fair Palace of Fine Arts
 tags:
 - things_to_do
 - museum

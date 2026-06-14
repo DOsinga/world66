@@ -2,6 +2,8 @@
 latitude: 31.1859
 longitude: 121.4558
 score: 8.0
+snippet: Oldest and largest Buddhist temple in Shanghai, with a 7-storey pagoda dating
+  to the 10th century
 tags:
 - things_to_do
 - sight

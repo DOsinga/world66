@@ -2,6 +2,8 @@
 latitude: 41.9222
 longitude: -87.6361
 score: 7.5
+snippet: Victorian glass-and-iron conservatory from 1895 with four large greenhouses
+  and a free permanent collection of tropical plants
 tags:
 - things_to_do
 - sight

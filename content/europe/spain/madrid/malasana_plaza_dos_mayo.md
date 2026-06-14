@@ -2,6 +2,8 @@
 latitude: 40.4267
 longitude: -3.7038
 score: 8.0
+snippet: Central square of Malasaña, named for the 1808 uprising, ringed by bars and
+  busy at all hours
 tags:
 - things_to_do
 - sight

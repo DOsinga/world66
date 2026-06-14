@@ -2,6 +2,7 @@
 latitude: 31.2185
 longitude: 121.4678
 score: 6.0
+snippet: Fuxing Road corridor linking the city centre to the French Concession
 tags:
 - things_to_do
 - sight

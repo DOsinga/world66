@@ -2,6 +2,8 @@
 latitude: 41.9437
 longitude: -87.649
 score: 8.0
+snippet: America's first officially recognized gay neighborhood, anchored by Halsted
+  Street rainbow pylons in Lakeview
 tags:
 - things_to_do
 - entertainment

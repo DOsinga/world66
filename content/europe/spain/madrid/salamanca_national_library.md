@@ -2,6 +2,8 @@
 latitude: 40.4252
 longitude: -3.6878
 score: 8.0
+snippet: One of the largest libraries in the world, holding Spanish national archives
+  and literary heritage in a grand 1892 building
 tags:
 - things_to_do
 - museum

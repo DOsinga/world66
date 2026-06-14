@@ -2,6 +2,8 @@
 latitude: 28.5194
 longitude: 77.1886
 score: 7.0
+snippet: 13th-century ruined mausoleum of the Slave Dynasty sultan Balban, with India's
+  earliest true arch
 tags:
 - things_to_do
 - historic

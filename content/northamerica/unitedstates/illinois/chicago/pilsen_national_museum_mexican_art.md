@@ -2,6 +2,8 @@
 latitude: 41.8557
 longitude: -87.6747
 score: 8.0
+snippet: Only nationally designated Latino museum in the United States, with 10,000
+  pieces spanning 3,000 years of Mexican art
 tags:
 - things_to_do
 - museum

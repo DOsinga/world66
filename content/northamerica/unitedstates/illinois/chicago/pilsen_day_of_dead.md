@@ -2,6 +2,8 @@
 latitude: 41.8557
 longitude: -87.6674
 score: 8.0
+snippet: Chicago's largest and most authentic Día de los Muertos celebration, held
+  annually in Pilsen every early November
 tags:
 - things_to_do
 - entertainment

@@ -2,6 +2,8 @@
 latitude: 41.8933
 longitude: -87.6326
 score: 7.0
+snippet: Commercial art gallery district centered on Superior and Franklin Streets
+  in River North with over 60 galleries
 tags:
 - things_to_do
 - art

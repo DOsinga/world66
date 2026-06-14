@@ -2,6 +2,8 @@
 latitude: 31.2108
 longitude: 121.4707
 score: 8.5
+snippet: Preserved shikumen lane house complex from the 1930s converted into shops
+  and studios
 tags:
 - things_to_do
 - sight

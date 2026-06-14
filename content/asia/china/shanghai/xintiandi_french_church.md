@@ -2,6 +2,8 @@
 latitude: 31.2183
 longitude: 121.4683
 score: 7.0
+snippet: 1934 Russian Orthodox church in the French Concession built for White Russian
+  émigrés
 tags:
 - things_to_do
 - sight

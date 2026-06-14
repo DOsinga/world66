@@ -2,6 +2,8 @@
 latitude: 31.2554
 longitude: 121.4836
 score: 7.5
+snippet: Former 1933 municipal slaughterhouse converted into restaurants and event
+  spaces
 tags:
 - things_to_do
 - sight

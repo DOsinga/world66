@@ -2,6 +2,7 @@
 latitude: 31.2515
 longitude: 121.4895
 score: 5.5
+snippet: Large-scale commercial redevelopment zone north of Suzhou Creek in Hongkou
 tags:
 - things_to_do
 - sight

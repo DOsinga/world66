@@ -2,6 +2,7 @@
 latitude: 31.2367
 longitude: 121.481
 score: 8.5
+snippet: Pedestrian shopping street running from the Bund west to People's Square
 tags:
 - things_to_do
 - shopping

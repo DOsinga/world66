@@ -2,6 +2,8 @@
 latitude: 28.5892
 longitude: 77.2542
 score: 5.0
+snippet: Atmospheric railway area adjoining Humayun's Tomb, Nizamuddin Dargah, and
+  mughal gardens
 tags:
 - things_to_do
 - restaurant

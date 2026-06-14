@@ -2,6 +2,8 @@
 latitude: 28.6095
 longitude: 77.2435
 score: 8.5
+snippet: 16th-century Mughal and Sur-dynasty fort on an ancient mound, possibly the
+  site of Indraprastha
 tags:
 - things_to_do
 - historic

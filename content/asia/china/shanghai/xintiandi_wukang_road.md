@@ -2,6 +2,7 @@
 latitude: 31.215
 longitude: 121.449
 score: 8.0
+snippet: Ferguson Lane complex of late 1920s villas and gardens on Wukang Road
 tags:
 - things_to_do
 - restaurant

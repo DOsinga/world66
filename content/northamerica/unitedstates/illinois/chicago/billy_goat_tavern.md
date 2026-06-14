@@ -2,6 +2,8 @@
 latitude: 41.8896
 longitude: -87.6278
 score: 7.5
+snippet: Legendary dive bar under Michigan Avenue, birthplace of the Saturday Night
+  Live "cheezborger" sketch
 story: The Billy Goat was the inspiration for John Belushi's famous "Cheezborger,
   Cheezborger, no Pepsi — Coke!" Saturday Night Live sketch from 1978, which was itself
   based on the real behaviour of the tavern's original owner, Billy Sianis.

@@ -2,6 +2,8 @@
 latitude: 41.8525
 longitude: -87.6326
 score: 7.5
+snippet: Chicago's Chinatown centered on Wentworth Avenue, established by Cantonese
+  immigrants in 1912 and still thriving
 tags:
 - things_to_do
 - restaurant

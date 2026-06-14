@@ -2,6 +2,7 @@
 latitude: 31.2196
 longitude: 121.4717
 score: 8.5
+snippet: Xintiandi North Block of restored shikumen lane houses with shops and restaurants
 tags:
 - things_to_do
 - sight

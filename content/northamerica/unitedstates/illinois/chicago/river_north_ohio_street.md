@@ -2,6 +2,8 @@
 latitude: 41.892
 longitude: -87.6311
 score: 6.0
+snippet: Ohio and Ontario Street corridor in River North with a concentration of design
+  showrooms and casual dining chains
 tags:
 - things_to_do
 - shopping

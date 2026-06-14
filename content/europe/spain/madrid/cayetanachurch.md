@@ -2,6 +2,8 @@
 latitude: 40.4094
 longitude: -3.7066
 score: 6.5
+snippet: 18th-century Churrigueresque church on Embajadores with one of the most ornate
+  Baroque façades in Madrid
 tags:
 - things_to_do
 - sight

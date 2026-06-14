@@ -2,6 +2,8 @@
 latitude: 40.425
 longitude: -3.6889
 score: 7.0
+snippet: Large roundabout at the northern end of Paseo de Recoletos, home to the Torres
+  de Colón and the Discovery Gardens
 tags:
 - things_to_do
 - landmark

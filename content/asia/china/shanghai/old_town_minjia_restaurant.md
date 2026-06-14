@@ -2,6 +2,7 @@
 latitude: 31.2269
 longitude: 121.493
 score: 6.5
+snippet: Yuyuan Bazaar area with concentrated xiaolongbao restaurants and street food
 tags:
 - things_to_do
 - restaurant

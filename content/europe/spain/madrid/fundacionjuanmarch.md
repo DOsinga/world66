@@ -2,6 +2,8 @@
 latitude: 40.4296
 longitude: -3.6868
 score: 7.5
+snippet: Private foundation running one of the best free contemporary art exhibition
+  programmes in Madrid
 tags:
 - things_to_do
 - art

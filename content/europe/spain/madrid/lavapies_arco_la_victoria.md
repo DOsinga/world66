@@ -2,6 +2,8 @@
 latitude: 40.4097
 longitude: -3.7043
 score: 6.5
+snippet: Network of atmospheric streets rising from Plaza de Lavapiés toward La Latina
+  and the Rastro market
 tags:
 - things_to_do
 - sight

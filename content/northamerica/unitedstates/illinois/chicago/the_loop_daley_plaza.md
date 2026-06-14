@@ -2,6 +2,8 @@
 latitude: 41.8843
 longitude: -87.6294
 score: 7.5
+snippet: Civic plaza in front of Chicago City Hall containing Picasso's untitled 50-foot
+  Cor-Ten steel sculpture from 1967
 tags:
 - things_to_do
 - sight

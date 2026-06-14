@@ -2,6 +2,8 @@
 latitude: 28.6508
 longitude: 77.1891
 score: 5.5
+snippet: Surviving single-screen cinemas of Karol Bagh showing Bollywood and regional
+  films
 tags:
 - things_to_do
 - culture

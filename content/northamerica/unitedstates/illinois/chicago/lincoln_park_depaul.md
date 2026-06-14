@@ -2,6 +2,8 @@
 latitude: 41.9247
 longitude: -87.6554
 score: 6.0
+snippet: DePaul University's Lincoln Park campus, the residential hub of Chicago's
+  largest private university
 tags:
 - things_to_do
 - sight

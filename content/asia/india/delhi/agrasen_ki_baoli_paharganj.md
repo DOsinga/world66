@@ -2,6 +2,8 @@
 latitude: 28.6435
 longitude: 77.2103
 score: 6.5
+snippet: Chaotic kilometre-long backpacker strip running through the heart of central
+  Delhi
 tags:
 - things_to_do
 - shopping

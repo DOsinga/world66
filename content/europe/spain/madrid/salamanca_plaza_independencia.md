@@ -2,6 +2,8 @@
 latitude: 40.4187
 longitude: -3.6853
 score: 7.5
+snippet: Traffic roundabout where the Puerta de Alcalá stands, the monumental northeastern
+  gateway to the Retiro
 tags:
 - things_to_do
 - sight

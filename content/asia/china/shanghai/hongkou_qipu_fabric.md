@@ -2,6 +2,7 @@
 latitude: 31.2529
 longitude: 121.4861
 score: 6.0
+snippet: Shanghai's largest wholesale clothing market stretching along Qipu Road
 tags:
 - things_to_do
 - shopping

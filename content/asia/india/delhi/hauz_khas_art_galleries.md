@@ -2,6 +2,8 @@
 latitude: 28.5495
 longitude: 77.2058
 score: 7.0
+snippet: Active cluster of contemporary art galleries occupying medieval buildings
+  in Hauz Khas Village
 tags:
 - things_to_do
 - art

@@ -2,6 +2,8 @@
 latitude: 28.571
 longitude: 77.227
 score: 5.5
+snippet: Weekly flea market under the Defence Colony flyover, known for export-surplus
+  clothing
 tags:
 - things_to_do
 - shopping

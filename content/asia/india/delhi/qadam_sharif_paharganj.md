@@ -2,6 +2,8 @@
 latitude: 28.6498
 longitude: 77.2119
 score: 6.5
+snippet: 14th-century Sufi shrine in Paharganj enshrining a footprint relic of the
+  Prophet
 tags:
 - things_to_do
 - historic

@@ -2,6 +2,8 @@
 latitude: 31.2218
 longitude: 121.4616
 score: 6.0
+snippet: The French Concession street grid, laid out from the 1840s and largely intact
+  today
 tags:
 - things_to_do
 - sight

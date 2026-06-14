@@ -2,6 +2,8 @@
 latitude: 31.2597
 longitude: 121.5021
 score: 8.0
+snippet: Former Ashkenazi synagogue on Changyang Road, now a museum of Shanghai's
+  Jewish refugee history
 tags:
 - things_to_do
 - museum

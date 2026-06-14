@@ -2,6 +2,8 @@
 latitude: 41.8571
 longitude: -87.6695
 score: 5.5
+snippet: Reliable counter-service taqueria in Pilsen serving masa-forward Mexican
+  street food
 tags:
 - eating_out
 - restaurant

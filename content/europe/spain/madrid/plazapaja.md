@@ -2,6 +2,8 @@
 latitude: 40.4127
 longitude: -3.7121
 score: 7.5
+snippet: Finest medieval square in Madrid — an irregular sloping space that was the
+  commercial centre of the old city
 tags:
 - things_to_do
 - landmark

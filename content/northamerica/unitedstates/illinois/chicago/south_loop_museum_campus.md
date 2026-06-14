@@ -2,6 +2,8 @@
 latitude: 41.8665
 longitude: -87.6143
 score: 9.0
+snippet: Lakefront park clustering the Field Museum, Shedd Aquarium, and Adler Planetarium
+  on a peninsula south of the Loop
 tags:
 - things_to_do
 - sight

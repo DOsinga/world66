@@ -2,6 +2,7 @@
 latitude: 28.6508
 longitude: 77.1937
 score: 7.0
+snippet: Old Delhi kulfi institution near Ajmal Khan Road, operating since the 1940s
 tags:
 - restaurant
 - bars_and_cafes

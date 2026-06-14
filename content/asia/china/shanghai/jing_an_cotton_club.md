@@ -2,6 +2,7 @@
 latitude: 31.2264
 longitude: 121.4481
 score: 5.5
+snippet: Concentration of cocktail bars and late-night venues in Jing'an district
 tags:
 - things_to_do
 - bars_and_cafes

@@ -2,6 +2,8 @@
 latitude: 41.9127
 longitude: -87.6358
 score: 7.5
+snippet: Main commercial street of Old Town — eight blocks of restaurants, bars, and
+  shops centered on the Second City comedy club
 tags:
 - things_to_do
 - restaurant

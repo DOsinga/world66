@@ -2,6 +2,8 @@
 latitude: 28.6511
 longitude: 77.192
 score: 6.5
+snippet: Karol Bagh's dense electronics and mobile phone bazaar with some of Delhi's
+  lowest prices
 tags:
 - things_to_do
 - shopping

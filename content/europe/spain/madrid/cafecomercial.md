@@ -2,6 +2,8 @@
 latitude: 40.4286
 longitude: -3.7045
 score: 7.5
+snippet: Bilbao-area café opened in 1887, one of the oldest continuously operating
+  in Madrid
 story: Café Comercial was used for decades as a writers' and intellectuals' hangout,
   then threatened with closure in 2015, which provoked a fierce local campaign to
   preserve it. It eventually reopened under new management in 2017 with the original

@@ -2,6 +2,8 @@
 latitude: 41.872
 longitude: -87.624
 score: 6.0
+snippet: Columbia College Chicago's South Loop campus with several free galleries
+  showing student and professional contemporary art
 tags:
 - things_to_do
 - museum

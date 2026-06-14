@@ -2,6 +2,8 @@
 latitude: 31.2145
 longitude: 121.4714
 score: 7.0
+snippet: Former 1917 British estate in the French Concession, now a luxury hotel with
+  garden villas
 tags:
 - things_to_do
 - sight

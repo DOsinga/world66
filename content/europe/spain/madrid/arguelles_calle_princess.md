@@ -2,6 +2,8 @@
 latitude: 40.4263
 longitude: -3.7142
 score: 7.0
+snippet: Main commercial artery of Argüelles, running north from Plaza de España toward
+  Moncloa
 tags:
 - things_to_do
 - shopping

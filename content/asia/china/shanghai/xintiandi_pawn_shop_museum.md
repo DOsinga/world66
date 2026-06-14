@@ -2,6 +2,8 @@
 latitude: 31.2196
 longitude: 121.472
 score: 5.5
+snippet: Neighbourhood life surrounding Xintiandi away from the pedestrianised commercial
+  zone
 tags:
 - things_to_do
 - restaurant

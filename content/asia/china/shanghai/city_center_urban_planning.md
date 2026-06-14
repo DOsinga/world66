@@ -2,6 +2,8 @@
 latitude: 31.2301
 longitude: 121.473
 score: 7.0
+snippet: Museum on People's Square dedicated to Shanghai urban development, with a
+  vast city model
 tags:
 - things_to_do
 - museum

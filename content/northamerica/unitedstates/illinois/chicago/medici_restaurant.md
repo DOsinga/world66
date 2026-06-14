@@ -2,6 +2,8 @@
 latitude: 41.7944
 longitude: -87.5964
 score: 6.5
+snippet: Hyde Park's informal headquarters since 1962 — a diner-café hybrid at 57th
+  Street beloved by University of Chicago students
 tags:
 - eating_out
 - bars_and_cafes

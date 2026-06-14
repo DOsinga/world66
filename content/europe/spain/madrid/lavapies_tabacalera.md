@@ -2,6 +2,8 @@
 latitude: 40.4067
 longitude: -3.7018
 score: 7.5
+snippet: Former state tobacco factory turned alternative cultural space, with murals,
+  studios, and free events
 tags:
 - things_to_do
 - entertainment

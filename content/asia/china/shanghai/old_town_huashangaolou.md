@@ -2,6 +2,7 @@
 latitude: 31.2274
 longitude: 121.4923
 score: 6.0
+snippet: Old Town canal-side walks and surviving water lanes around the Nanshi district
 tags:
 - things_to_do
 - sight

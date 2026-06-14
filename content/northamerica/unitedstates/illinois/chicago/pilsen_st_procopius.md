@@ -2,6 +2,8 @@
 latitude: 41.854
 longitude: -87.6646
 score: 6.5
+snippet: 1883 Czech Gothic Revival church, one of the surviving architectural monuments
+  to Pilsen's Bohemian immigrant founders
 tags:
 - things_to_do
 - sight

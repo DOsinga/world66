@@ -2,6 +2,8 @@
 latitude: 41.8566
 longitude: -87.6671
 score: 6.0
+snippet: Printmaking studio and open-access gallery in Pilsen offering studio membership
+  and workshops to working artists
 tags:
 - things_to_do
 - art

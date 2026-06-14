@@ -2,6 +2,8 @@
 latitude: 28.5934
 longitude: 77.2223
 score: 7.0
+snippet: Premier New Delhi cultural institution hosting lectures, exhibitions, and
+  a members' library
 tags:
 - things_to_do
 - culture

@@ -2,6 +2,8 @@
 latitude: 41.9125
 longitude: -87.6345
 score: 7.0
+snippet: Historic core of Old Town — a triangle of Victorian-era rowhouses and coach
+  houses north of North Avenue
 tags:
 - things_to_do
 - sight

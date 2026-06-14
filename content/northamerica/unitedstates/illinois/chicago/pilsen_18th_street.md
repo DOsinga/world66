@@ -2,6 +2,8 @@
 latitude: 41.8577
 longitude: -87.6694
 score: 7.0
+snippet: Main commercial street of Chicago's largest Mexican-American neighborhood,
+  lined with taquerias, bakeries, and murals
 tags:
 - things_to_do
 - restaurant

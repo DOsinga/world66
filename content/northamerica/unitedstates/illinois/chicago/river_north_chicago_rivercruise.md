@@ -2,6 +2,8 @@
 latitude: 41.8871
 longitude: -87.6249
 score: 8.5
+snippet: Chicago Architecture Foundation's riverboat cruise, the best single introduction
+  to the city's skyscraper history
 tags:
 - things_to_do
 - sight

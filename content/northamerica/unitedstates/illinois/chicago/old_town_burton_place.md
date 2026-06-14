@@ -2,6 +2,8 @@
 latitude: 41.9106
 longitude: -87.6367
 score: 5.5
+snippet: Residential streets of Old Town between North Avenue and Armitage lined with
+  1870s–1880s Chicago cottage architecture
 tags:
 - things_to_do
 - sight

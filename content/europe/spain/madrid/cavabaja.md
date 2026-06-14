@@ -2,6 +2,8 @@
 latitude: 40.4122
 longitude: -3.7091
 score: 8.0
+snippet: Concentrated tapas street in La Latina — bars and tabernas lining a single
+  300-metre slope
 tags:
 - eating_out
 - bars_and_cafes

@@ -2,6 +2,8 @@
 latitude: 28.5914
 longitude: 77.242
 score: 9.0
+snippet: Thursday evening Sufi devotional singing at Hazrat Nizamuddin Dargah, open
+  to all visitors
 tags:
 - things_to_do
 - culture

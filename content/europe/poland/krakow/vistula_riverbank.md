@@ -2,6 +2,8 @@
 latitude: 50.051
 longitude: 19.9387
 score: 7.9
+snippet: Redeveloped Vistula embankment below Wawel with bars, kayak hire, and cycle
+  paths
 tags:
 - things_to_do
 - sight

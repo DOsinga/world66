@@ -2,6 +2,8 @@
 latitude: 50.0656
 longitude: 19.921
 score: 6.6
+snippet: Large public park on the western edge of the Old Town, with sports facilities
+  and playgrounds
 tags:
 - things_to_do
 - sight

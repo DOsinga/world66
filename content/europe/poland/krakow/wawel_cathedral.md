@@ -2,6 +2,8 @@
 latitude: 50.0541
 longitude: 19.935
 score: 9.7
+snippet: Royal Cathedral on Wawel Hill, coronation church of Polish kings and site
+  of royal tombs
 story: 'The Sigismund Bell, hung in the Sigismund Tower in 1521, is the largest bell
   in Poland and one of the great bells of Europe. It is only rung on the most important
   national and religious occasions — coronations, royal funerals, and major state

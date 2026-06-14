@@ -2,6 +2,8 @@
 latitude: 50.0621
 longitude: 19.9288
 score: 7.1
+snippet: Former 19th-century brewery complex on Szczepańska Street, now converted
+  to offices and bars
 tags:
 - bars_and_cafes
 - stare_miasto

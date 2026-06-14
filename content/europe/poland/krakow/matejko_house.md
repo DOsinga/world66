@@ -2,6 +2,8 @@
 latitude: 50.0643
 longitude: 19.9397
 score: 7.7
+snippet: Birthplace and studio of history painter Jan Matejko, preserved as a museum
+  in the Old Town
 tags:
 - things_to_do
 - museum

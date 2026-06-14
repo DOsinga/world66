@@ -2,6 +2,8 @@
 latitude: 50.0473
 longitude: 19.9488
 score: 7.7
+snippet: Pharmacy on Ghetto Heroes' Square run by Tadeusz Pankiewicz throughout the
+  German occupation
 story: 'Tadeusz Pankiewicz was the only non-Jewish inhabitant of the Krakow Ghetto,
   which was established by the Germans in the Podgórze district in 1941. When the
   Germans offered him the chance to relocate his pharmacy outside the ghetto walls,

@@ -2,6 +2,8 @@
 latitude: 50.0487
 longitude: 19.9625
 score: 8.9
+snippet: Museum in Oskar Schindler's wartime enamelware factory in Zabłocie, documenting
+  occupied Kraków
 story: 'Oskar Schindler was not a hero by instinct. He came to Krakow as a war profiteer,
   using Jewish forced labour to run his enamelware factory as cheaply as possible.
   The transformation came gradually — prompted partly by witness, partly by bribes,

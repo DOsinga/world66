@@ -2,6 +2,8 @@
 latitude: 50.0679
 longitude: 19.9378
 score: 7.8
+snippet: Outdoor market north of the Old Town selling fruit, vegetables, flowers,
+  and street food daily
 tags:
 - shopping
 - market

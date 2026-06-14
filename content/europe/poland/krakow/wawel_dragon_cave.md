@@ -2,6 +2,8 @@
 latitude: 50.0535
 longitude: 19.9336
 score: 6.2
+snippet: Natural limestone cave at the foot of Wawel Hill, associated with the legend
+  of the Wawel Dragon
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 50.0614
 longitude: 19.9425
 score: 6.9
+snippet: Surviving communist-era milk bar on Tomasza Street serving cheap traditional
+  Polish meals
 tags:
 - eating_out
 - kazimierz

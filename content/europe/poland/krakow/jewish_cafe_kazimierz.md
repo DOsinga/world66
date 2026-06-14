@@ -1,13 +1,15 @@
 ---
-title: "Café Szeroka 1"
-type: poi
-tags:
-  - eating_out
-  - kazimierz
-  - restaurant
 latitude: 50.0502
 longitude: 19.9462
 score: 6.7
+snippet: Strip of restaurants and cafés on Szeroka Street at the heart of historic
+  Kazimierz
+tags:
+- eating_out
+- kazimierz
+- restaurant
+title: Café Szeroka 1
+type: poi
 ---
 
 The restaurants and cafes on and around Szeroka Street in Kazimierz offer a version of Central European Jewish cooking that has been reconstructed from historical recipes: borscht, cholent, gefilte fish, tzimmes, and the various Shabbat dishes that formed the traditional diet of the Ashkenazi community that lived in this quarter for centuries. Several restaurants along the street compete for the same heritage and the same tourist audience, but the best of them — including Café Szeroka 1 — take the cooking seriously and provide a genuinely good meal.

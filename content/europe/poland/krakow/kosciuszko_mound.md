@@ -2,6 +2,8 @@
 latitude: 50.0556
 longitude: 19.894
 score: 7.7
+snippet: Hand-built 34-metre earthen mound commemorating the national hero Tadeusz
+  Kościuszko, raised in 1823
 story: 'The mound was built between 1820 and 1823 by volunteer labour — citizens came
   from across Poland, then divided between Russia, Prussia, and Austria, to carry
   handfuls of soil from the battlefields where Kościuszko had fought. The soil thus

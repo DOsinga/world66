@@ -2,6 +2,8 @@
 latitude: 50.0543
 longitude: 19.9355
 score: 9.6
+snippet: Royal residence on Wawel Hill, seat of Polish kings from the 11th to early
+  17th century
 story: 'Beneath the castle hill lies the Smok Wawelski — the Wawel Dragon — whose
   legend dates to the founding of the city. According to the story, a shoemaker named
   Skuba killed the dragon by stuffing a sheep with sulphur; when the beast drank from

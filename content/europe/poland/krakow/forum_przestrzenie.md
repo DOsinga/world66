@@ -2,6 +2,8 @@
 latitude: 50.0509
 longitude: 19.9379
 score: 6.8
+snippet: Riverside bar and cultural venue in the brutalist Hotel Forum building from
+  1989
 tags:
 - bars_and_cafes
 - bar

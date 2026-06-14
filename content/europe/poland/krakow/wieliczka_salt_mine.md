@@ -1,14 +1,24 @@
 ---
-title: "Wieliczka Salt Mine"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 49.9847
 longitude: 20.0554
-story: >
-  The mine has been in continuous operation since the 13th century, which makes it one of the oldest operating mines in the world — and one of the longest continuously running enterprises in European history. Miners working here in medieval times carved the first religious chapels underground as places of devotion, a tradition that continued for centuries. The mine's most elaborate space, the Chapel of St. Kinga (completed 1895), is entirely carved from salt — its chandeliers, altar reliefs, and even the floor are salt crystal. Pope John Paul II, who grew up in nearby Wadowice, celebrated Mass here.
 score: 9.0
+snippet: UNESCO-listed salt mine with underground chapels and chambers, worked continuously
+  since the 13th century
+story: 'The mine has been in continuous operation since the 13th century, which makes
+  it one of the oldest operating mines in the world — and one of the longest continuously
+  running enterprises in European history. Miners working here in medieval times carved
+  the first religious chapels underground as places of devotion, a tradition that
+  continued for centuries. The mine''s most elaborate space, the Chapel of St. Kinga
+  (completed 1895), is entirely carved from salt — its chandeliers, altar reliefs,
+  and even the floor are salt crystal. Pope John Paul II, who grew up in nearby Wadowice,
+  celebrated Mass here.
+
+  '
+tags:
+- things_to_do
+- sight
+title: Wieliczka Salt Mine
+type: poi
 ---
 
 Fifteen kilometres southeast of Krakow, the Wieliczka Salt Mine has been extracting salt from beneath the Carpathian foothills since the 13th century and is one of the oldest industrial enterprises in Europe. The mine was a crucial source of Poland's royal revenue for centuries — "white gold" — and the inscribed UNESCO World Heritage Site status reflects both its historical significance and the extraordinary spaces the miners created underground.

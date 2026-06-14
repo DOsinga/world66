@@ -2,6 +2,7 @@
 latitude: 50.0648
 longitude: 19.9393
 score: 8.2
+snippet: Only surviving medieval city gate in Kraków, part of the 14th-century fortifications
 story: 'The Barbican outside the Florian Gate was built between 1498 and 1499, when
   news reached Krakow that a Turkish army had raided as far west as Hungary. It was
   the most advanced fortification of its type in Poland — a circular barbican with

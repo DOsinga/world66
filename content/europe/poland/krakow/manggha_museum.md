@@ -2,6 +2,8 @@
 latitude: 50.0538
 longitude: 19.9303
 score: 7.6
+snippet: Museum of Japanese art and technology on the Vistula bank, established with
+  a donation from Andrzej Wajda
 tags:
 - things_to_do
 - museum

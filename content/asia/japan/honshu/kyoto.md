@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-01'
+  major_city_neighborhoods: '2026-06-14'
 image: kyoto.jpg
 image_attribution: 663highland
 image_license: CC BY 2.5

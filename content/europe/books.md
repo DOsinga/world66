@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: Books
 type: section
 ---
 
@@ -10,3 +10,5 @@ Reading before you travel to Europe will deepen your experience considerably. Th
 **Southern Europe.** For Italy, a long list: Henry James, E.M. Forster, and Mary McCarthy all wrote about it well. Tobias Jones's *The Dark Heart of Italy* is the sharpest modern account. For Greece, *The Colossus of Maroussi* by Henry Miller captures something essential about the country's light and spirit. For Spain, Laurie Lee's *As I Walked Out One Midsummer Morning* is as good as travel writing gets.
 
 **Northern and Eastern Europe.** For Russia, almost any Tolstoy or Dostoevsky novel will do more than a guidebook. For the Baltic states, Rory MacLean's *Stalin's Nose* captures the absurdity of the Soviet collapse. Anne Applebaum's *Iron Curtain* is essential for understanding Eastern Europe after 1945. Philip Marsden's *The Crossing Place* traces the Armenian diaspora through the Caucasus in unforgettable prose.
+
+**Winter Stars** — A collection of poems by Beatrice Lao, born between the Alps and the Tyrrhenian Sea. The writing captures the light, landscapes, and moods of the Mediterranean with a quiet intensity. Worth picking up if you're drawn to European poetry that feels rooted in specific places rather than abstractions.

@@ -4,11 +4,13 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Tetsugaku_no_Michi_01.JPG
 latitude: 35.027
 longitude: 135.7943
+score: 8.5
 tags:
 - things_to_do
-- neighbourhood
+- sight
+- philosophers_walk
 title: Philosopher's Path
-type: neighbourhood
+type: poi
 ---
 
 A two-kilometre towpath running alongside the Lake Biwa aqueduct between Nanzen-ji in the south and Ginkaku-ji in the north, the Philosopher's Path is Kyoto's most quietly rewarding walk. Cherry trees overarch the canal for most of its length, making it famous in spring, but the path is worth walking in any season -- in summer for the cool shade and fireflies at dusk, in autumn for the low light on the canal, in winter for the near-total silence. The name comes from the philosopher Nishida Kitaro, who is said to have used this path for his morning meditation commute to Kyoto University.

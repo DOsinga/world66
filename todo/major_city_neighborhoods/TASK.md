@@ -2,9 +2,11 @@
 
 ## Goal
 
-Every major world city should have **around 10 neighbourhood POIs**, each with a hero image, and **at least 10–20 POIs tagged** with each neighbourhood's slug. The 20-POI target is the goal; 10 is the minimum before a neighbourhood page is considered done. A city with 6 well-chosen neighbourhoods is fine, but each neighbourhood must have enough tagged POIs to be a genuinely useful browsing surface.
+Every major world city should aim for **around 10 neighbourhood POIs**, each with a hero image, and a handful of **other POIs tagged** with each neighbourhood's slug so the page becomes a useful browsing surface.
 
-**These are major world cities. Thin coverage is not acceptable.** If a neighbourhood only has 3–5 POIs, keep adding until you reach at least 10. Use `wiki_geosearch.py`, your knowledge of the city, and any POIs already in the directory that haven't been tagged yet.
+**Quality beats quantity. Always.** These numbers are aspirations, not quotas. It is far better to have **fewer neighbourhoods and fewer POIs than to pad with bad content.** A neighbourhood with 6 genuinely good, specific POIs is better than one inflated to 12 with filler. A city with 7 real, characterful neighbourhoods is better than 11 where four are landmarks or markets dressed up as districts.
+
+**Never invent a POI to hit a count.** If a neighbourhood only yields 5 real, named, visitable places, tag those 5 and move on. Do not manufacture "Bar scene in X", "Restaurants of Y", "X Metro Station", or a hotel page to reach a number. Padding is worse than thin coverage — it gets removed in review and makes the whole guide less trustworthy.
 
 ## For each city in the batch
 
@@ -15,19 +17,27 @@ Every major world city should have **around 10 neighbourhood POIs**, each with a
 find content/<path> -name "*.md" | xargs grep -l "type: neighbourhood"
 
 # Count POIs tagged with a specific neighbourhood slug
-grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md" | wc -l
+grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md"
 ```
 
-Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps, not replacing what's there. **Any neighbourhood with fewer than 10 tagged POIs needs more work.**
+Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps with real content, not padding to a target.
 
 ### 2. Plan the neighbourhood set
 
-Research the city's neighbourhoods. Look for the 10–15 most characterful, visitor-relevant districts — the places travellers actually go to, the areas with a distinct identity. Aim for geographic spread across the city. Good sources: Wikivoyage, Lonely Planet, local tourism boards.
+Research the city's neighbourhoods. Look for the most characterful, visitor-relevant districts — the places travellers actually go to, the areas with a distinct identity. Aim for geographic spread. Good sources: Wikivoyage, Lonely Planet, local tourism boards.
 
-Each neighbourhood needs:
+A neighbourhood needs:
 - A distinct character or identity worth describing
-- Enough attractions, restaurants, and bars to collect 10–20+ POIs
 - A recognisable name (preferably the one locals use)
+- Enough real, named places within it to make the page worth visiting
+
+**What is NOT a neighbourhood** — do not create a `type: neighbourhood` page for any of these:
+- **A single landmark and its surroundings.** "Trinity College Area", "Dublin Castle Area", "Phoenix Park Area" are landmarks, not districts. The landmark is a POI; make it `type: poi`.
+- **A walking path or route.** "Philosopher's Path" is a sight you walk, not a district. Make it a `type: poi`.
+- **A single market or building.** "Dilli Haat" is a craft market — a POI, not a neighbourhood.
+- **An arts/craft enclave that is really part of a larger district** (e.g. a single lane of galleries) — tag those POIs under the parent neighbourhood instead.
+
+If you find yourself adding a `_nb`, `_area`, or `_quarter` suffix just to dodge a slug collision with a POI, that is a sign the thing is probably a POI, not a neighbourhood.
 
 ### 3. Create missing neighbourhood POIs
 
@@ -77,13 +87,11 @@ tags:
 neighbourhood: Shilin   # ← never do this
 ```
 
-Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
-
-**Minimum: each neighbourhood page should collect at least 10 tagged POIs. Target: 20.** If an existing neighbourhood has fewer than 10, you must add more POIs — real things worth covering, not padding.
+Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. Tag every POI that genuinely sits in a neighbourhood. If that comes to only 5 or 6, that is fine — **do not add weak POIs to make the number bigger.**
 
 ### 5. Check section balance
 
-Before adding POIs, look at how many the city has in each section:
+Look at how many POIs the city has in each section:
 
 ```bash
 grep -rl "eating_out" content/<city_path> --include="*.md" | xargs grep -l "type: poi" | wc -l
@@ -91,13 +99,13 @@ grep -rl "bars_and_cafes" content/<city_path> --include="*.md" | xargs grep -l "
 grep -rl "things_to_do" content/<city_path> --include="*.md" | xargs grep -l "type: poi" | wc -l
 ```
 
-A major city should have at least 10–15 restaurants and 10+ bars/cafes. If a section is thin, adding POIs there is just as important as neighbourhood tagging. **Amsterdam, for example, has only 3 eating_out POIs — a city that size needs 15–20 good restaurants documented.**
+If a section is genuinely thin and the city has real, well-known places that aren't yet documented, adding them is worthwhile. But the same rule applies: add *named* restaurants and bars, never "Eating out in X" or "Bar scene in Y".
 
 Also check for legacy section subdirectories (`eating_out/`, `things_to_do/`, etc. that are *directories* rather than `.md` files). If any exist, move their POIs flat to the city directory and add the right tags before continuing.
 
-### 6. Create new POIs if needed
+### 6. Create new POIs only where there are real places to add
 
-If a neighbourhood doesn't have enough POIs to reach the minimum of 10, add them. Use:
+If a neighbourhood has real, named places worth covering that aren't documented yet, add them. Use:
 
 ```bash
 python3 tools/wiki_geosearch.py <lat> <lng> --radius 2000 --limit 30 --json
@@ -107,17 +115,18 @@ python3 tools/grep_obscura.py <country> <city>
 Focus POIs on the neighbourhood's character. A museum district should have museums; a dining neighbourhood needs restaurants; a creative district needs galleries and bars. See the `location_enrich` TASK.md for POI writing standards.
 
 Every new POI (`type: poi`) must include:
-- A `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city — if the city already has a 9.0 for its most iconic sight, score new POIs relative to that. `type: neighbourhood` files do **not** get a score.
+- A `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city. `type: neighbourhood` files do **not** get a score.
 - A `snippet` field — one factual line (10–20 words) saying what the place IS. No period. No leading "A" or "The". Be specific: name the era, cuisine, style, or what makes it notable. Example: `"Baroque church with the oldest working pipe organ in the country"` not `"Popular historic church worth visiting"`.
 
-**No concept or filler POIs.** Every POI must be a specific, named, visitable place. Do not create POIs for:
-- Generalised activities: "Bar scene in Shoreditch", "Street food in Chinatown", "Daily life in Kazimierz"
-- Navigation entries: "Getting to X by taxi", "Walking from A to B"
-- Vague categories: "Local markets", "Rooftop bars", "Jazz clubs"
+#### A POI is ONE specific, named, visitable place. The following are NOT POIs — do not create them:
 
-If you can't name a specific place with a real address, don't create the POI.
+- **Category / "scene" aggregates.** "Sidi Ghanem Cafes", "Connaught Place Restaurants", "Vedado Bar Scene", "Nørrebro Street Food", "Gueliz Shopping", "Maadi Supermarkets", "Heliopolis Commercial Arcades". If the title is `<Place> <plural category>` or `<Place> Scene`, it is filler. Name the *specific* café, restaurant, or bar instead — or add nothing.
+- **Hotels and accommodation.** Banned everywhere in this guide (see CLAUDE.md). No Four Seasons, Kempinski, La Mamounia, "boutique hotels", "spa retreats", guesthouses. (A genuinely iconic building that happens to contain a hotel — e.g. an Art Deco landmark or famous observation tower — is acceptable *as the landmark*, written about as a sight, not a place to stay.)
+- **Activities and experiences.** "Camel rides", "Hot air balloon over X", "Cycling the Y perimeter", "X at sunrise", "Walking tour of Z", "Cooking class". These are things you do, not places. Write the *place* (the grove, the park, the street) if it merits a POI.
+- **Transit infrastructure.** Metro/LRT/railway stations, bus interchanges, "X Station Area", ordinary road bridges. (A bridge or station that is itself a famous landmark — Ha'penny Bridge, a historic terminus — is fine *as a sight*.)
+- **Walking routes.** "X Evening Walk", "Heritage Walk", "Canal Walk", "Neighbourhood Walk". A *named street that is itself a sight* (Grafton Street, Victoria Street, Al-Muizz Street) is a fine POI; a route you trace between places is not.
 
-**After adding POIs, re-run the count for each neighbourhood.** If any neighbourhood is still under 10, keep going.
+**Litmus test:** can you point to one specific place on a map and name it? If not, don't create the POI. When in doubt, leave it out — fewer, real POIs always win.
 
 ### 7. Update the city overview
 
@@ -129,17 +138,15 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 
 ## Checklist before committing each city
 
-- [ ] City has as many neighbourhood POIs as makes sense (target ~10)
-- [ ] Each neighbourhood POI has an image (sourced via `find-photo`)
-- [ ] Each neighbourhood POI has accurate coordinates
-- [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
-- [ ] **Each neighbourhood collects at least 10 POIs (target 20) via its slug tag** — run `grep -rl "<slug>" content/<city_path>/ --include="*.md" | wc -l` for each neighbourhood
+- [ ] Every neighbourhood is a real district — not a single landmark, market, or walking path (those are POIs)
+- [ ] Each neighbourhood POI has an image (sourced via `find-photo`), accurate centre coordinates, and only `things_to_do` + `neighbourhood` in tags
+- [ ] Each neighbourhood collects the POIs that genuinely sit in it — **no POIs invented to hit a number**
 - [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
+- [ ] No category/"scene" aggregate POIs (no "X Restaurants", "X Bar Scene", "X Street Food", "X Galleries")
+- [ ] No hotels/accommodation, no transit-station pages, no activity/experience pages, no walking-route pages
+- [ ] Every POI is one specific, named, visitable place
+- [ ] Every new POI has a `score` (1.0–10.0, calibrated) and a `snippet` (one specific factual line, 10–20 words, no period)
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
-- [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs
-- [ ] Every new POI has a `snippet` field — one specific factual line, 10–20 words, no period
-- [ ] No concept or filler POIs — every POI is a specific named place with a real address
-- [ ] `eating_out` has at least 10–15 POIs for a major city (add restaurants if thin)
 - [ ] No legacy section subdirectories remain (any `eating_out/`, `things_to_do/` *directories* have been flattened)
 
 ## Reference implementations

@@ -1,17 +1,19 @@
 ---
+image: st_stephens_green_area.jpg
+image_attribution: Holger Uwe Schmitt
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%22Eine_gr%C3%BCne_Oase_inmitten_der_Stadt_Dublin%22._02.jpg
 latitude: 53.338
 longitude: -6.26
+score: 8.0
 snippet: The leafy Victorian park and the lively streets of pubs and shops around
   it
 tags:
 - things_to_do
-- neighbourhood
+- sight
+- st_stephens_green_area
 title: St Stephen's Green Area
-type: neighbourhood
-image: st_stephens_green_area.jpg
-image_source: https://commons.wikimedia.org/wiki/File:%22Eine_gr%C3%BCne_Oase_inmitten_der_Stadt_Dublin%22._02.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Holger Uwe Schmitt
+type: poi
 ---
 
 St Stephen's Green is the city's best-loved central park, a Victorian pleasure garden of ponds, fountains, and flowerbeds laid out in the 1880s with money from the Guinness family. Office workers and tourists alike spread out on its lawns in summer, and a bandstand still hosts concerts on warm afternoons.

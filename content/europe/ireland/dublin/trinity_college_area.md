@@ -1,16 +1,18 @@
 ---
+image: trinity_college_area.jpg
+image_attribution: Beyourbest2
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:County_Dublin_-_Long_Room-Trinity_College_-_20161209101035.jpg
 latitude: 53.3444
 longitude: -6.259
+score: 9.0
 snippet: The grand campus quarter around Trinity, College Green, and Grafton Street
 tags:
 - things_to_do
-- neighbourhood
+- sight
+- trinity_college_area
 title: Trinity College Area
-type: neighbourhood
-image: trinity_college_area.jpg
-image_source: https://commons.wikimedia.org/wiki/File:County_Dublin_-_Long_Room-Trinity_College_-_20161209101035.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Beyourbest2
+type: poi
 ---
 
 The area around Trinity College is the dignified heart of Dublin, where the cobbled squares of Ireland's oldest university open onto the broad sweep of College Green. The Old Library's Long Room and the illuminated Book of Kells draw long queues, while the surrounding lawns and bell tower give the campus a calm, scholarly air a few steps from the bustle.

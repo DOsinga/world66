@@ -36,8 +36,19 @@ A neighbourhood needs:
 - **A walking path or route.** "Philosopher's Path" is a sight you walk, not a district. Make it a `type: poi`.
 - **A single market or building.** "Dilli Haat" is a craft market — a POI, not a neighbourhood.
 - **An arts/craft enclave that is really part of a larger district** (e.g. a single lane of galleries) — tag those POIs under the parent neighbourhood instead.
+- **A separate town or suburb.** If it's its own town outside the city (Portmarnock near Dublin, a coastal village), it is a `type: location` that sits beside the city under the country/region — **not** a neighbourhood of the city. A neighbourhood is a district *inside* the city.
 
 If you find yourself adding a `_nb`, `_area`, or `_quarter` suffix just to dodge a slug collision with a POI, that is a sign the thing is probably a POI, not a neighbourhood.
+
+### 2b. Placement, duplicates, and overlaps — get the structure right
+
+Before and after tagging, sanity-check the whole city against these. They catch the mistakes that look fine file-by-file but are wrong in aggregate:
+
+- **One place = one entry.** Never create a POI that duplicates a neighbourhood (a "Chinatown" POI next to a Chinatown neighbourhood), and never two POIs for the same place under different names (Velvet Strand *is* Portmarnock Beach; the Officina Profumo *is* the Spezieria). Merge them; keep the better name.
+- **No overlapping neighbourhoods.** If two neighbourhoods cover the same ground (San Frediano sits inside the Oltrarno; Pratunam blurs into Siam), merge them and tag each POI to exactly **one** neighbourhood. A POI tagged to two neighbourhoods is a signal they overlap.
+- **Is it actually IN the city, and in the right section?** Check coordinates against the centre. A sight 30 km away is a **day trip**, not a `things_to_do` POI (tag it `day_trips` if the city has that section). A beach goes in the `beaches` section. A POI in another town belongs to that town's `location`, not this city.
+- **Drop closed/defunct places.** Verify the place still operates. Gucci Garden (closed 2024), Fry Model Railway (closed 2010), Siam Niramit (closed 2020) are not POIs. When unsure whether somewhere niche is still open, do a quick web check before adding it.
+- **Only what makes sense to a visitor.** Every neighbourhood must be somewhere a traveller would actually go and browse; every POI a specific place worth their time. A transit interchange (Victory Monument), a members-only club, a supermarket, or a road are not visitor POIs. Fewer, real entries beat a padded list.
 
 ### 3. Create missing neighbourhood POIs
 
@@ -145,6 +156,10 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] No category/"scene" aggregate POIs (no "X Restaurants", "X Bar Scene", "X Street Food", "X Galleries")
 - [ ] No hotels/accommodation, no transit-station pages, no activity/experience pages, no walking-route pages
 - [ ] Every POI is one specific, named, visitable place
+- [ ] Every neighbourhood is a district *inside* the city — separate towns/suburbs are `type: location`, not neighbourhoods
+- [ ] No duplicate entries (a POI duplicating a neighbourhood; two POIs for the same place) and no overlapping neighbourhoods
+- [ ] No POI sits far outside the city in a main section — out-of-town sights are `day_trips`, beaches are in `beaches`
+- [ ] No closed/defunct places (verify anything niche still operates)
 - [ ] Every new POI has a `score` (1.0–10.0, calibrated) and a `snippet` (one specific factual line, 10–20 words, no period)
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 - [ ] No legacy section subdirectories remain (any `eating_out/`, `things_to_do/` *directories* have been flattened)

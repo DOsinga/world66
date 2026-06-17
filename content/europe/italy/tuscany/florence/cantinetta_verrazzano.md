@@ -9,7 +9,7 @@ tags:
 - 24 Hours in Florence
 - eating_out
 - restaurant
-- duomo
+- centro_storico
 title: Cantinetta dei Verrazzano
 type: poi
 ---

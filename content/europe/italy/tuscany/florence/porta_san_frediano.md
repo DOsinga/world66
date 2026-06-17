@@ -7,7 +7,7 @@ snippet: Medieval city gate (1332–1334) with its original wooden doors still i
   — rare for any Italian city gate
 tags:
 - sight
-- san_frediano
+- oltrarno
 title: Porta San Frediano
 type: poi
 ---

@@ -6,7 +6,7 @@ snippet: Grand 19th-century theatre, a hub of Florentine performance
 tags:
 - things_to_do
 - sight
-- sant_ambrogio
+- santa_croce_quarter
 title: Teatro Verdi
 type: poi
 ---

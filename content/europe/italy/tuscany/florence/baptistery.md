@@ -17,7 +17,7 @@ tags:
 - sight
 - church
 - architecture
-- duomo
+- centro_storico
 title: Baptistery of San Giovanni
 type: poi
 ---

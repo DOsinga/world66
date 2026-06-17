@@ -15,7 +15,7 @@ tags:
 - monument
 - tower
 - square
-- signoria
+- centro_storico
 title: Piazza della Signoria
 type: poi
 ---

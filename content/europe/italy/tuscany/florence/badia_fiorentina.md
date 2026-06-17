@@ -7,7 +7,7 @@ snippet: Quiet Benedictine abbey founded in 978 where Boccaccio lectured on Dant
   with a Filippino Lippi fresco
 tags:
 - sight
-- duomo
+- centro_storico
 title: Badia Fiorentina
 type: poi
 ---

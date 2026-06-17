@@ -12,7 +12,7 @@ tags:
 - 3 Days in Florence
 - bars_and_cafes
 - bar
-- duomo
+- centro_storico
 title: Gelateria Perché No
 type: poi
 ---

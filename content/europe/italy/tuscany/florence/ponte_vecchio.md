@@ -12,7 +12,7 @@ tags:
 - 3 Days in Florence
 - things_to_do
 - bridge
-- signoria
+- centro_storico
 title: Ponte Vecchio
 type: poi
 ---

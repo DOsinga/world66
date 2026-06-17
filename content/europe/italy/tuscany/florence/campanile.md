@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- duomo
+- centro_storico
 title: Giotto's Campanile
 type: poi
 ---

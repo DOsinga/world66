@@ -7,7 +7,7 @@ snippet: 16th-century fish market loggia by Vasari, relocated to Piazza dei Ciom
   after the old Mercato Vecchio was demolished
 tags:
 - sight
-- sant_ambrogio
+- santa_croce_quarter
 title: Loggia del Pesce
 type: poi
 ---

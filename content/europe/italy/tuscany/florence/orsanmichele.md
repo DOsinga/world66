@@ -16,7 +16,7 @@ tags:
 - sight
 - church
 - architecture
-- duomo
+- centro_storico
 title: Orsanmichele
 type: poi
 ---

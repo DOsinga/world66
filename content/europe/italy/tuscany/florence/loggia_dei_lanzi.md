@@ -7,7 +7,7 @@ snippet: Open-air sculpture gallery with Cellini's Perseus and Giambologna's Rap
   of the Sabine Women
 tags:
 - sight
-- signoria
+- centro_storico
 title: Loggia dei Lanzi
 type: poi
 ---

@@ -7,7 +7,7 @@ snippet: Traditional Florentine trattoria in operation since 1945, on the south 
   of the Arno — ribollita and bistecca
 tags:
 - eating_out
-- san_frediano
+- oltrarno
 title: Trattoria Cammillo
 type: poi
 ---

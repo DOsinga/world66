@@ -13,7 +13,7 @@ tags:
 - palace
 - square
 - cafe
-- signoria
+- centro_storico
 title: Caffè Rivoire
 type: poi
 ---

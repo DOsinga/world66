@@ -13,7 +13,7 @@ tags:
 - things_to_do
 - museum
 - palace
-- signoria
+- centro_storico
 title: Uffizi Gallery
 type: poi
 url: www.uffizi.it

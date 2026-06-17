@@ -7,7 +7,7 @@ snippet: Main square of a working-class neighbourhood far less touristed than th
   centre, with trattorias used by locals
 tags:
 - sight
-- sant_ambrogio
+- santa_croce_quarter
 title: Piazza Sant'Ambrogio
 type: poi
 ---

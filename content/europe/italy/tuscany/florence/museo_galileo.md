@@ -15,7 +15,7 @@ tags:
 - things_to_do
 - museum
 - sight
-- signoria
+- centro_storico
 title: Museo Galileo
 type: poi
 url: www.museogalileo.it

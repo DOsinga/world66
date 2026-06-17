@@ -7,7 +7,7 @@ score: 6.7
 tags:
 - eating_out
 - restaurant
-- duomo
+- centro_storico
 title: Buca Mario
 type: poi
 ---

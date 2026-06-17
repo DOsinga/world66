@@ -7,7 +7,7 @@ snippet: The second bridge upstream from Ponte Vecchio — quieter, with beautif
   of the Arno at sunset
 tags:
 - sight
-- san_frediano
+- oltrarno
 title: Ponte alla Carraia
 type: poi
 ---

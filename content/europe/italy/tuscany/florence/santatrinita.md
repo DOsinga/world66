@@ -9,7 +9,7 @@ snippet: Gothic church with Ghirlandaio's Sassetti Chapel frescoes
 tags:
 - things_to_do
 - church
-- signoria
+- centro_storico
 title: Santa Trinita
 type: poi
 ---

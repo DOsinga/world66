@@ -13,7 +13,7 @@ tags:
 - 3 Days in Florence
 - things_to_do
 - church
-- duomo
+- centro_storico
 title: Duomo — Cathedral of Santa Maria del Fiore
 type: poi
 url: www.museumflorence.com

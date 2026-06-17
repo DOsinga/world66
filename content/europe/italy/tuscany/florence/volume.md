@@ -13,7 +13,7 @@ tags:
 - bars_and_cafes
 - bar
 - square
-- san_frediano
+- oltrarno
 title: Volume
 type: poi
 ---

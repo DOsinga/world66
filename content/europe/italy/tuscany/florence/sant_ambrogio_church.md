@@ -7,7 +7,7 @@ snippet: 13th-century church with a tabernacle by Mino da Fiesole; the neighbour
   takes its name from this building
 tags:
 - sight
-- sant_ambrogio
+- santa_croce_quarter
 title: Sant'Ambrogio Church
 type: poi
 ---

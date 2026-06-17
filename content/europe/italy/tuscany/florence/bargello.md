@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - museum
 - palace
-- duomo
+- centro_storico
 title: Museo Nazionale del Bargello
 type: poi
 ---

@@ -6,7 +6,7 @@ snippet: Soaring Moorish-style synagogue with a green copper dome
 tags:
 - things_to_do
 - sight
-- sant_ambrogio
+- santa_croce_quarter
 title: Great Synagogue of Florence
 type: poi
 ---

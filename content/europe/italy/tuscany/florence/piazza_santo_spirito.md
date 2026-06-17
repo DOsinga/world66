@@ -11,7 +11,6 @@ tags:
 - things_to_do
 - square
 - oltrarno
-- san_frediano
 title: Piazza Santo Spirito
 type: poi
 ---

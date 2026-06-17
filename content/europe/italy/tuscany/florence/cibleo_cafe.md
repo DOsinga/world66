@@ -7,7 +7,7 @@ snippet: Famous Florentine restaurant complex — the caffè and Cibreino serve 
   food to the main restaurant without reservations
 tags:
 - eating_out
-- sant_ambrogio
+- santa_croce_quarter
 title: Cibrèo Caffè and Trattoria Cibreino
 type: poi
 ---

@@ -6,7 +6,7 @@ snippet: Florence's beloved local food market under a 19th-century iron hall
 tags:
 - things_to_do
 - shopping
-- sant_ambrogio
+- santa_croce_quarter
 title: Mercato di Sant'Ambrogio
 type: poi
 ---

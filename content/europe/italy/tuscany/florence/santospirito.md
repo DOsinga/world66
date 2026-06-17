@@ -9,7 +9,7 @@ tags:
 - church
 - monument
 - square
-- san_frediano
+- oltrarno
 title: Santo Spirito
 type: poi
 ---

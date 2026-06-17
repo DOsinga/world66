@@ -7,7 +7,7 @@ snippet: Holds original sculpture from the cathedral complex, including Ghiberti
   Gates of Paradise up close
 tags:
 - museum
-- duomo
+- centro_storico
 title: Museo dell'Opera del Duomo
 type: poi
 ---

@@ -7,7 +7,7 @@ snippet: Permanent antiques and flea market with a large outdoor extension on th
   last Sunday of every month
 tags:
 - shopping
-- sant_ambrogio
+- santa_croce_quarter
 title: Piazza dei Ciompi Flea Market
 type: poi
 ---

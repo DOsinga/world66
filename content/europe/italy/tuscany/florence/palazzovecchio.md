@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - palace
 - tower
-- signoria
+- centro_storico
 title: Palazzo Vecchio
 type: poi
 ---

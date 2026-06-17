@@ -7,7 +7,7 @@ snippet: One of Italy's most celebrated restaurants with three Michelin stars an
   a cellar holding over 150,000 bottles
 tags:
 - eating_out
-- sant_ambrogio
+- santa_croce_quarter
 title: Enoteca Pinchiorri
 type: poi
 ---

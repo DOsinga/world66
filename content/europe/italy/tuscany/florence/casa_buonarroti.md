@@ -6,7 +6,7 @@ snippet: Michelangelo museum in the house his family built with his fortune
 tags:
 - things_to_do
 - museum
-- sant_ambrogio
+- santa_croce_quarter
 title: Casa Buonarroti
 type: poi
 ---

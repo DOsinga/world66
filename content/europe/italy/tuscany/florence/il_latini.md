@@ -7,7 +7,7 @@ snippet: Famously boisterous Florentine trattoria where strangers share long tab
   under hanging prosciuttos
 tags:
 - eating_out
-- san_frediano
+- oltrarno
 title: Il Latini
 type: poi
 ---

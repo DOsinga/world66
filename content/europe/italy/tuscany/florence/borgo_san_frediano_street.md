@@ -7,7 +7,7 @@ snippet: The main street of a working-class Oltrarno neighbourhood, with artisan
   trattorie, and wine bars
 tags:
 - sight
-- san_frediano
+- oltrarno
 title: Borgo San Frediano
 type: poi
 ---

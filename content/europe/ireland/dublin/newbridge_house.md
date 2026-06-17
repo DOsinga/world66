@@ -7,7 +7,7 @@ snippet: Georgian mansion with one of Ireland's best 18th-century interiors and 
   working traditional farm
 tags:
 - sight
-- the_village_of_por
+- day_trips
 title: Newbridge House & Traditional Farm
 type: poi
 url: https://www.newbridgehouseandfarmdublin.com

@@ -1,16 +1,16 @@
 ---
+image: georgian_dublin.jpg
+image_attribution: William Murphy
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Flowers_In_Merrion_Square_Park_in_Dublin.jpg
 latitude: 53.3385
 longitude: -6.251
 snippet: Elegant district of Georgian squares, brick terraces, and national museums
 tags:
 - things_to_do
 - neighbourhood
-title: Georgian Dublin
+title: Georgian Quarter
 type: neighbourhood
-image: georgian_dublin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Flowers_In_Merrion_Square_Park_in_Dublin.jpg
-image_license: CC BY-SA 2.0
-image_attribution: William Murphy
 ---
 
 Georgian Dublin, spread around Merrion Square and Fitzwilliam Square on the southeast side of the centre, preserves the city's most graceful eighteenth-century streetscapes. Rows of red-brick townhouses with fanlight windows and brightly painted front doors line the squares, their private gardens now mostly opened as public parks.

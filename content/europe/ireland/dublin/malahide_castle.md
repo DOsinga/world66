@@ -7,7 +7,7 @@ snippet: 800-year-old castle occupied by the Talbot family until 1975, in 260 ac
   of parkland
 tags:
 - sight
-- the_village_of_por
+- day_trips
 title: Malahide Castle
 type: poi
 url: https://www.malahidecastleandgardens.ie

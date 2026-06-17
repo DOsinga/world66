@@ -8,7 +8,6 @@ snippet: Long Blue Flag beach north of Portmarnock, reached by DART; less crowde
 tags:
 - park
 - beaches
-- the_village_of_por
 title: Donabate Beach
 type: poi
 ---

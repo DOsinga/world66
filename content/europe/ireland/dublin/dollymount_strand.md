@@ -9,7 +9,6 @@ tags:
 - things_to_do
 - beaches
 - sight
-- the_village_of_por
 title: Dollymount Strand
 type: poi
 ---

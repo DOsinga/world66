@@ -8,7 +8,6 @@ snippet: Sheltered family beach in Malahide estuary, walkable from the DART stat
 tags:
 - park
 - beaches
-- the_village_of_por
 title: Malahide Beach
 type: poi
 ---

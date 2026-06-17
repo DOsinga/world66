@@ -7,7 +7,7 @@ snippet: Bangkok's landmark luxury mall — designer shops, a major aquarium, ci
   and great food floor.
 tags:
 - shopping
-- pratunam
+- siam_square
 title: Siam Paragon
 type: poi
 ---

@@ -8,7 +8,6 @@ snippet: Free Muay Thai matches broadcast live on TV — real competitive fights
   crowd, no tourist premium.
 tags:
 - things_to_do
-- victory_monument
 title: Channel 7 Muay Thai Stadium
 type: poi
 ---

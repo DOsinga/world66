@@ -6,7 +6,6 @@ snippet: Elegant early-20th-century royal palace tucked inside a military hospit
 tags:
 - things_to_do
 - sight
-- victory_monument
 title: Phaya Thai Palace
 type: poi
 ---

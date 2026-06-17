@@ -6,7 +6,7 @@ snippet: Compact green park offering a quiet break amid the Pratunam shopping cr
 tags:
 - things_to_do
 - park
-- pratunam
+- siam_square
 title: Pathumwananurak Park
 type: poi
 ---

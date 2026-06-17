@@ -7,7 +7,7 @@ snippet: One of Southeast Asia's largest malls — department stores, an ice rin
   an excellent food court.
 tags:
 - shopping
-- pratunam
+- siam_square
 title: CentralWorld
 type: poi
 ---

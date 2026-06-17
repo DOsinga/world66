@@ -6,7 +6,6 @@ snippet: Traditional teak house museum with antiques and a lacquer pavilion
 tags:
 - things_to_do
 - museum
-- victory_monument
 title: Suan Pakkad Palace
 type: poi
 ---

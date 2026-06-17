@@ -7,7 +7,7 @@ snippet: Bangkok's most visited shrine — non-stop devotees, flower offerings, 
   traditional dance performances.
 tags:
 - sight
-- pratunam
+- siam_square
 title: Erawan Shrine
 type: poi
 ---

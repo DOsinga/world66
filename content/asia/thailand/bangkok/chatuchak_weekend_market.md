@@ -8,7 +8,6 @@ snippet: The world's largest weekend market — 15,000 stalls of antiques, cloth
   plants, and everything else.
 tags:
 - shopping
-- victory_monument
 title: Chatuchak Weekend Market
 type: poi
 ---

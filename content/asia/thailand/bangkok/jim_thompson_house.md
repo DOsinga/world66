@@ -9,7 +9,7 @@ snippet: Six Thai houses filled with antiques, built by the American silk entrep
 tags:
 - museum
 - sight
-- pratunam
+- siam_square
 title: Jim Thompson House
 type: poi
 ---

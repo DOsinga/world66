@@ -123,6 +123,20 @@ def init_db(conn):
     """)
     conn.execute("CREATE TABLE IF NOT EXISTS meta (path TEXT PRIMARY KEY, mtime REAL, hash TEXT)")
     conn.execute("CREATE TABLE IF NOT EXISTS config (key TEXT PRIMARY KEY, value TEXT)")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS geo (
+            url_path  TEXT PRIMARY KEY,
+            title     TEXT,
+            page_type TEXT,
+            lat       REAL,
+            lng       REAL,
+            snippet   TEXT,
+            image     TEXT,
+            score     REAL,
+            depth     INTEGER,
+            loc_type  TEXT
+        )
+    """)
     conn.execute(f"""
         CREATE VIRTUAL TABLE IF NOT EXISTS embeddings USING vec0(
             path TEXT PRIMARY KEY,
@@ -219,6 +233,26 @@ def index_file(conn, path):
             "INSERT INTO docs(path, title, body, page_type, url_path, location) VALUES(?,?,?,?,?,?)",
             (rel, title, body, page_type, url_path, location),
         )
+        # Geo index — store all pages that have coordinates
+        meta, _ = _load(path)
+        try:
+            lat = float(meta["latitude"])
+            lng = float(meta["longitude"])
+            depth = len(url_path.split("/"))
+            try:
+                score = float(meta.get("score") or 0)
+            except (TypeError, ValueError):
+                score = 0.0
+            conn.execute(
+                """INSERT OR REPLACE INTO geo
+                   (url_path, title, page_type, lat, lng, snippet, image, score, depth, loc_type)
+                   VALUES (?,?,?,?,?,?,?,?,?,?)""",
+                (url_path, title, page_type, lat, lng,
+                 meta.get("snippet", "") or "", meta.get("image", "") or "",
+                 score, depth, meta.get("loc_type", "") or ""),
+            )
+        except (KeyError, TypeError, ValueError):
+            conn.execute("DELETE FROM geo WHERE url_path=?", (url_path,))
         conn.execute("INSERT OR REPLACE INTO meta(path, mtime, hash) VALUES(?,?,?)", (rel, mtime, h))
 
     if not content_changed:
@@ -277,9 +311,11 @@ def remove_deleted(conn):
     indexed = {row[0] for row in conn.execute("SELECT path FROM meta")}
     current = {str(p.relative_to(CONTENT_DIR)) for p in CONTENT_DIR.rglob("*.md")}
     for path in indexed - current:
+        url_path = _url_path(Path(path))
         conn.execute("DELETE FROM docs WHERE path=?", (path,))
         conn.execute("DELETE FROM meta WHERE path=?", (path,))
         conn.execute("DELETE FROM embeddings WHERE path=?", (path,))
+        conn.execute("DELETE FROM geo WHERE url_path=?", (url_path,))
 
 
 def run():

@@ -8,7 +8,7 @@ tags:
 - museum
 - palace
 - architecture
-- san_lorenzo_quarter
+- santa_maria_novella_quarter
 title: Palazzo Strozzi
 type: poi
 url: www.palazzostrozzi.org

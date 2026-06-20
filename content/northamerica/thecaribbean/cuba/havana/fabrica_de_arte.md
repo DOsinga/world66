@@ -5,7 +5,6 @@ latitude: 23.1330
 longitude: -82.3875
 score: 9.0
 tags:
-- things_to_do
 - sight
 - bars_and_cafes
 - vedado

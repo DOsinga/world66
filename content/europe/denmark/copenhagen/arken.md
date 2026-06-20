@@ -4,7 +4,7 @@ latitude: 55.6062
 longitude: 12.3874
 snippet: Ship-shaped modern art museum on the coast south of the city
 tags:
-- things_to_do
+- day_trips
 - museum
 title: ARKEN
 type: poi

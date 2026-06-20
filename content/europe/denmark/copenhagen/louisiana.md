@@ -4,7 +4,7 @@ latitude: 55.9694
 longitude: 12.5432
 snippet: World-class modern art museum on the Øresund coast
 tags:
-- things_to_do
+- day_trips
 - museum
 title: Louisiana Museum of Modern Art
 type: poi

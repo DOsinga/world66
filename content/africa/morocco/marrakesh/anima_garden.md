@@ -1,7 +1,7 @@
 ---
 title: ANIMA Garden
 type: poi
-tags: [things_to_do, sight, garden]
+tags: [day_trips, sight, garden]
 latitude: 31.4458
 longitude: -7.9756
 story: "The garden was created by the Austrian multimedia artist André Heller, who scattered modern sculptures by Keith Haring, Pablo Picasso, and Auguste Rodin among the planting."

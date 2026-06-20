@@ -1,11 +1,11 @@
 ---
-latitude: 23.1398
-longitude: -82.4067
+latitude: 23.126
+longitude: -82.406
 score: 7.0
 tags:
 - things_to_do
 - sight
-- vedado
+- miramar
 title: Pabellón Cuba
 type: poi
 ---

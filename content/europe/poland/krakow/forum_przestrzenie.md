@@ -7,7 +7,6 @@ snippet: Riverside bar and cultural venue in the brutalist Hotel Forum building 
 tags:
 - bars_and_cafes
 - bar
-- podgorze
 title: Forum Przestrzenie
 type: poi
 ---

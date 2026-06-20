@@ -9,6 +9,7 @@ tags:
 - museum
 - french_concession
 - tianzifang_area
+type: poi
 ---
 
 A handsome two-storey Western-style villa on Xiangshan Road in the French Concession, kept much as Sun Yat-sen and his wife Soong Ching-ling left it. Sun lived here from 1918 until his death in 1925, drafting the constitution for the Republic of China in the upstairs study and meeting with Soviet emissaries to plan the first cooperation between the Nationalist Party and the Communists.

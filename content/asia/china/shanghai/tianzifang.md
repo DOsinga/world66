@@ -9,6 +9,7 @@ tags:
 - sight
 - french_concession
 - tianzifang_area
+type: poi
 ---
 
 A warren of *shikumen* — Shanghai's distinctive lane-house tenements — in the southern French Concession, converted in the 2000s into a dense little arts-and-crafts quarter. Around 200 small shops sell ceramics, paintings, T-shirts, jewellery and souvenirs; the lanes are too narrow for cars, and on a weekend afternoon the whole place is shoulder to shoulder.

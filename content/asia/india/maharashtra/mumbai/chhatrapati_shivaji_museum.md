@@ -12,6 +12,7 @@ story: 'The museum building itself — designed by George Wittet and opened in 1
   '
 tags:
 - colaba
+type: poi
 ---
 
 Mumbai's pre-eminent museum, formerly the Prince of Wales Museum, holds an outstanding collection of Indian art, sculpture, and decorative arts. The collection includes ancient Buddhist and Hindu sculpture, Mughal miniature paintings, terracotta from the Indus Valley Civilisation, and a notable collection of Himalayan bronzes. The European paintings section is modest; the Indian material is exceptional.

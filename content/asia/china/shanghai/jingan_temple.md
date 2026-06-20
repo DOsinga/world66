@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - jing_an
+type: poi
 ---
 
 A Buddhist temple that has stood on this site (under various names) since 247 AD, but the gleaming current version is essentially a 21st-century reconstruction with a golden Burmese-teak finial and a 6.2-tonne silver Buddha inside. The new building sits incongruously among the Plaza 66 luxury mall and the high-rises of West Nanjing Road — making for one of the more startling juxtapositions in Shanghai.

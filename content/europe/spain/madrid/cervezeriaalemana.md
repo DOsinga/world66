@@ -7,6 +7,7 @@ tags:
 - eating_out
 - bar
 - huertas
+type: poi
 ---
 
 A traditional German-style beer hall on Plaza Santa Ana that has been in the same family since 1904 and was Ernest Hemingway's favourite Madrid bar — his usual corner table is still pointed out. The marble-top tables, dark wood panelling, and white-jacketed waiters are exactly as he would have known them.

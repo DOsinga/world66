@@ -11,6 +11,7 @@ story: 'The Art Deco buildings that line Marine Drive were built in a rush in th
   '
 tags:
 - fort_area
+type: poi
 ---
 
 The four-kilometre curved seafront boulevard running from Nariman Point to Chowpatty Beach, facing west across the Arabian Sea. The unbroken line of Art Deco apartment buildings along the landward side is one of the most handsome stretches of urban architecture in India, and at night the streetlights along the promenade create a glittering arc visible from the hills — giving it the nickname "Queen's Necklace."

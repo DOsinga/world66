@@ -12,6 +12,7 @@ story: 'The station was designed by F.W. Stevens and opened in 1887 as Victoria 
   '
 tags:
 - fort_area
+type: poi
 ---
 
 The grand Victorian Gothic railway terminus that serves as both the headquarters of the Central Railway and one of the busiest train stations in Asia. The building is extraordinary: a riot of pointed arches, domes, turrets, flying buttresses, gargoyles, and stained glass, topped with a figure representing Progress. It was designed by F.W. Stevens and completed in 1887.

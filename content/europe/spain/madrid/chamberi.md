@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - chamberi_barrio
+type: poi
 ---
 
 A perfectly preserved 1919 station of the original Madrid metro, closed in 1966 because the curved platforms could not be lengthened for longer trains. The station was sealed and forgotten for four decades — and then, in 2008, restored exactly as it had been left and reopened as a small museum-platform called the **Andén 0**.

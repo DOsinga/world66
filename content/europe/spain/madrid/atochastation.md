@@ -8,6 +8,7 @@ tags:
 - architecture
 - huertas
 - retiro_barrio
+type: poi
 ---
 
 Madrid's main railway station has a secret: the original 1892 iron-and-glass concourse, designed by Alberto del Palacio (better known for the Vizcaya Bridge in Bilbao), was repurposed in 1992 into an indoor tropical botanical garden — 4,000 square metres of palms, ficuses, ferns, banana trees, and a pond full of turtles, all under the soaring Belle Époque iron roof.

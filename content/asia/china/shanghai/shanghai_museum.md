@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - city_center
+type: poi
 ---
 
 One of the great museums of Asia, on the south side of People's Square in a circular building that echoes an ancient bronze *ding* vessel. The collection is strongest on bronzes (some pieces over 3,000 years old), ceramics, painting and calligraphy, jade, and Ming-Qing furniture, displayed across four floors. Free entry, audio guides in many languages. Allow at least three hours; the bronze gallery alone is worth a morning.

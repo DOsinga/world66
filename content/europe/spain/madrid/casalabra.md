@@ -12,6 +12,7 @@ tags:
 - bar
 - lalatina
 - sol
+type: poi
 ---
 
 A tiny, scruffy, much-loved tapas bar two minutes from Puerta del Sol, in business since 1860 and serving essentially two things: **bacalao rebozado** (battered chunks of salt cod, fried fresh to order) and **croquetas de bacalao** (cod croquettes). You queue at the takeaway hatch on the street, hand over a euro or two per piece, and eat standing on the corner.

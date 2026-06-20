@@ -7,6 +7,7 @@ tags:
 - eating_out
 - huertas
 - lalatina
+type: poi
 ---
 
 A long-running flamenco tablao and tapas restaurant in Lavapiés, in business since 1979 and considered one of the most authentic flamenco venues in Madrid — a working performance space rather than a tourist circus. The crowd is a mix of Spanish enthusiasts and travellers; the dancers and musicians on the small wooden stage are first-rate.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - malasana
+type: poi
 ---
 
 A small, modest 17th-century church in Malasaña that conceals one of the most extraordinary baroque interiors in Spain. The exterior gives nothing away — a plain brick facade on a narrow street — but step inside and the entire interior is covered in vertiginous trompe-l'oeil frescoes by Italian master Luca Giordano and Spanish painter Francisco Rizi.

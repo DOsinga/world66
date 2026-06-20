@@ -13,6 +13,7 @@ tags:
 - sight
 - architecture
 - hongkou
+type: poi
 ---
 
 A genuinely strange concrete building in Hongkou, finished in 1933 as an industrial-scale slaughterhouse — for which it was equipped with a maze of cattle-ramps, twisting bridges, narrow stairs and connecting walkways arranged to move animals smoothly to the killing floor. After the abattoir closed in the 1970s, the building sat empty for thirty years before being converted in 2007 into a complex of offices, art studios and event spaces.

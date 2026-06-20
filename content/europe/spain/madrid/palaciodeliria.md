@@ -11,6 +11,7 @@ tags:
 - art
 - arguelles
 - malasana
+type: poi
 ---
 
 The Palacio de Liria is the Madrid residence of the House of Alba, one of Spain's oldest and most titled noble families. The 18th-century neoclassical palace was badly damaged during the Civil War and painstakingly rebuilt in the 1950s. It opened to the public in 2019, and the guided tours reveal a staggering private art collection.

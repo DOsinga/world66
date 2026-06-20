@@ -11,6 +11,7 @@ tags:
 - museum
 - huertas
 - lavapies
+type: poi
 ---
 
 The third corner of Madrid's Golden Triangle of Art and the home of Spain's national collection of 20th-century painting. The centrepiece is Picasso's **Guernica** — the vast black-and-white canvas painted in response to the 1937 bombing of the Basque town, still arguably the most powerful anti-war painting ever made. The museum's other strengths are Dalí, Miró, Juan Gris, and the post-Civil War generation of Spanish abstract painters.

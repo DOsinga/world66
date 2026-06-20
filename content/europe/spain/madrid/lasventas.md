@@ -1,12 +1,13 @@
 ---
 latitude: 40.4321
 longitude: -3.6634
-tags:
-  - things_to_do
-  - salamanca
-  - architecture
-  - sight
 score: 7.6
+tags:
+- things_to_do
+- salamanca
+- architecture
+- sight
+type: poi
 ---
 
 The largest and most prestigious bullring in the Spanish-speaking world, opened in 1931, an enormous neo-Mudéjar brick rotunda seating 24,000 spectators. The architecture alone — the horseshoe arches, the polychrome ceramic decoration, the patterned brickwork — justifies a visit, and the **Museo Taurino** inside houses bull-fighting memorabilia spanning two centuries.

@@ -11,6 +11,7 @@ story: 'Dhobi Ghat was established in the early 19th century and has operated co
   '
 tags:
 - lower_parel
+type: poi
 ---
 
 The world's largest outdoor laundry: a complex of over 700 open-air concrete washing pens where a community of washermen (dhobis) launders shirts, hospital linens, hotel bedding, and domestic washing by hand. The best view is from the pedestrian bridge on Dr. E Moses Road near Mahalaxmi station, where you can look down into the ghat without entering — the sight of hundreds of pens being worked simultaneously, with washing hanging to dry on lines above, is one of Mumbai's most memorable.

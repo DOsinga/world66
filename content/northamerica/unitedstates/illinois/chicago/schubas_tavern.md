@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - lakeview
+type: poi
 ---
 
 A beloved small music venue in a converted Schlitz brewery tied house. The back room hosts singer-songwriters and indie acts in an intimate setting, while the front bar is a neighborhood hangout in its own right. The adjacent Harmony Grill serves a solid weekend brunch.

@@ -7,6 +7,7 @@ tags:
 - salamanca
 - museum
 - chamberi_barrio
+type: poi
 ---
 
 The private collection of financier-collector José Lázaro Galdiano, housed in the early-20th-century palace he built for it on Calle Serrano. Spread across four floors are some 12,000 pieces — paintings (Goya, Bosch, El Greco, Velázquez, Murillo, Constable), Renaissance bronzes, medieval ivories, Islamic ceramics, Italian majolica, and a famously good collection of jewellery and small metalwork.

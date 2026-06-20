@@ -7,6 +7,7 @@ tags:
 - eating_out
 - lalatina
 - sol
+type: poi
 ---
 
 A 24-hour chocolate-and-churros institution tucked into a small alley off Calle del Arenal, open since 1894. The order is always the same — a porcelain cup of thick dark chocolate so rich it borders on pudding, plus a wicker basket of fresh-fried churros (or the heavier porras) to dunk in it. Around €5.

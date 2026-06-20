@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - museum
 - city_center
+type: poi
 ---
 
 A surprisingly absorbing six-floor museum dedicated to the city itself: its past, present, and 2035 master plan. The centrepiece on the third floor is one of the largest scale models in the world — the whole of central Shanghai, every building over six storeys, picked out under spotlights, with future buildings rendered in transparent acrylic.

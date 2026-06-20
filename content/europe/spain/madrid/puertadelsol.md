@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - sol
+type: poi
 ---
 
 The geographic and symbolic centre of Spain — kilometre zero of the country's road network is marked by a plaque underfoot on the south side of the square, and the bronze **Bear and the Strawberry Tree** statue on the east side is Madrid's civic symbol, painted on taxis and signposts across the city. The square is busy from breakfast to small hours, with buskers, ticket touts, demonstrators, and the constant flow of commuters in and out of the metro and Cercanías stations underneath.

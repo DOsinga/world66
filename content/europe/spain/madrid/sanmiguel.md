@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - sight
 - sol
+type: poi
 ---
 
 The big square at the western end of Gran Vía, reopened in 2021 after a five-year redesign that buried the traffic, opened up the green space, and gave the square back to pedestrians. The two anchor buildings are the **Edificio España** (a 1953 mixed-use tower) and the **Torre de Madrid** (1957 — at one time the tallest building in Spain).

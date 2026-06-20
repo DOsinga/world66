@@ -6,6 +6,7 @@ sources:
 - https://en.wikipedia.org/wiki/Agrasen_ki_Baoli
 tags:
 - lutyens
+type: poi
 ---
 
 Agrasen ki Baoli is a 14th-century stepwell hidden in plain sight off the busy Hailey Road near Connaught Place. While the location suggests commerce and offices, descend a narrow lane and you find a massive medieval structure — a long rectangular tank with 103 steps descending to the bottom, flanked by ornate arched galleries on three levels. It is one of the finest preserved stepwells in northern India.

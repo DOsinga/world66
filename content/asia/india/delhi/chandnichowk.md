@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - shopping
 - old_delhi
+type: poi
 ---
 
 Chandni Chowk is Old Delhi at its most intense — a sprawling Mughal-era bazaar stretching from the Red Fort to the Fatehpuri Mosque. Laid out in the 1650s by Jahanara Begum, Shah Jahan's daughter, it was once a grand canal-lined avenue for the city's wealthiest families. Today it's a heaving maze of narrow lanes, each specialising in something different: textiles in one alley, spices in the next, electronics around the corner, wedding cards down the way.

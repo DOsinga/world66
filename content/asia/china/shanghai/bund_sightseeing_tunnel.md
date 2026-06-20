@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - the_bund
+type: poi
 ---
 
 Five minutes of pure bizarre — a small driverless pod-train running through a tunnel under the Huangpu, walls and ceiling pulsing with fibre-optic light shows while an English-Chinese voiceover announces "magma!" and "meteor shower!" at random. It is the slowest way to cross the river and by far the most expensive.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - lutyens
+type: poi
 ---
 
 An open-air collection of enormous geometric instruments built in 1724 by Maharaja Sawai Jai Singh II of Jaipur, who was obsessed with astronomy and dissatisfied with the brass instruments of his day. The Delhi Jantar Mantar is the oldest and largest of the five observatories he built across northern India.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - huertas
+type: poi
 ---
 
 The smallest and most easily digested of the Golden Triangle's three museums, the Thyssen fills the gaps that the Prado (Spanish and pre-19th century) and the Reina Sofía (modern Spanish) leave. The collection runs chronologically from medieval altarpieces through Italian Renaissance, Dutch Golden Age, French Impressionism, German Expressionism, American post-war abstraction, and Pop Art — a one-museum tour through 700 years of Western painting.

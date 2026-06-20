@@ -2,6 +2,7 @@
 latitude: 28.5494
 longitude: 77.2001
 score: 8.3
+type: poi
 ---
 
 Hauz Khas Village is the most atmospheric of Delhi's arty neighbourhoods — a cluster of boutiques, galleries, cafes, and restaurants built into and around a 14th-century reservoir complex in South Delhi. The "village" part is somewhat misleading: it is now thoroughly gentrified, but the setting is genuinely beautiful. A medieval tank (Hauz Khas means "Royal Tank") bordered by the remains of Firoz Shah's madrasa and tomb gives the neighbourhood a distinctive character that no other Delhi entertainment district can match.

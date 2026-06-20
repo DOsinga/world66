@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - city_center
+type: poi
 ---
 
 The civic centre of modern Shanghai, between the Bund and Nanjing Road. Surrounded by the Shanghai Museum, the Grand Theatre, the Urban Planning Exhibition Center and the City Hall, with the green expanse of People's Park to the north. On weekends the park hosts the famous **marriage market**: anxious parents pin handwritten advertisements describing their unmarried adult children — height, salary, education, hukou — and hover, hoping to interview a match for their offspring.

@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+type: poi
 ---
 
 A tiny canteen with a permanent queue out the door, serving what is widely regarded as the best soup dumplings in central Shanghai. Pure pork is the safe choice; crab roe in season is the splurge. They sell out by mid-afternoon — go for lunch. No frills, no menu in English (point at the picture board), no problem.

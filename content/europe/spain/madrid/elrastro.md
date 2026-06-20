@@ -11,6 +11,7 @@ tags:
 - la_latina
 - market
 - lalatina
+type: poi
 ---
 
 Madrid's vast open-air flea market, held every Sunday morning and on public holidays in the streets south of Plaza de Cascorro in La Latina. Several hundred stalls spread across half a kilometre of streets — Calle Ribera de Curtidores is the spine — selling everything from genuine antiques and vinyl records to fake football shirts, second-hand books, leather, hardware, vintage cameras, and a fair amount of straightforward junk.

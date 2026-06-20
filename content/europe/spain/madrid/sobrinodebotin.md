@@ -11,6 +11,7 @@ tags:
 - la_latina
 - restaurant
 - lalatina
+type: poi
 ---
 
 The world's oldest restaurant, in business since 1725 and still cooking suckling pig in the original wood-fired oven on the basement level. The building, on Calle de los Cuchilleros below Plaza Mayor, is a four-storey 18th-century tile-and-timber maze, and the dining rooms — narrow, dark, tile-walled — feel exactly as they must have done two centuries ago.

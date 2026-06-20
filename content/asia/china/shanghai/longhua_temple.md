@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - french_concession
+type: poi
 ---
 
 The oldest temple in Shanghai, founded according to tradition in 242 AD and rebuilt many times since. Five halls run on a north-south axis, with a 977 AD seven-storey pagoda visible from outside. The main Mahavira Hall holds large gilded statues of the Buddhas of past, present and future, and the rear hall has a smiling rotund Maitreya. It is an active monastery and the courtyards smell of incense.

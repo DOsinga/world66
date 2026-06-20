@@ -3,7 +3,8 @@ address: Porthusgade 2, Copenhagen
 latitude: 55.6759
 longitude: 12.577
 score: 8.2
-snippet: Neoclassical sculpture museum where Thorvaldsen is buried in the courtyard
+snippet: Neoclassical museum housing Bertel Thorvaldsen's sculptures, with the artist
+  buried in the courtyard
 tags:
 - things_to_do
 - museum

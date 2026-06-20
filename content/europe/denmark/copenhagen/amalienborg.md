@@ -4,11 +4,12 @@ done:
 latitude: 55.6841
 longitude: 12.5931
 score: 8.2
-snippet: Four rococo palaces forming the Danish royal winter residence
+snippet: Four rococo palaces arranged around an octagonal courtyard, the Danish royal
+  winter residence
 tags:
 - things_to_do
 - landmark
-- stroget
+- harbourfront
 title: Amalienborg
 type: poi
 ---

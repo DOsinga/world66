@@ -2,7 +2,8 @@
 latitude: 55.6747
 longitude: 12.5744
 score: 9.3
-snippet: 10,000 years of Danish history from Stone Age to Vikings
+snippet: 10,000 years of Danish history from the Stone Age through Vikings to the
+  present
 tags:
 - things_to_do
 - museum

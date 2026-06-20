@@ -1,13 +1,12 @@
 ---
-title: Carlsberg City District
-type: poi
 latitude: 55.6638
-longitude: 12.5370
+longitude: 12.537
 score: 7.6
 tags:
 - things_to_do
 - sight
-- vesterbro
+title: Carlsberg City District
+type: poi
 ---
 
 The former Carlsberg brewery site in western Vesterbro is being transformed into a new city district. The old brewing buildings — some architecturally significant, including the Elephant Gate and the original cellars — are being converted into apartments, offices, a hotel, and cultural spaces, while new residential buildings fill the former open lots. The process is ongoing and the result is a neighbourhood mid-transformation.

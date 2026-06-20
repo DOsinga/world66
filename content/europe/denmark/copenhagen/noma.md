@@ -11,7 +11,6 @@ story: Noma closed its restaurant operation in January 2024 after being named th
 tags:
 - eating_out
 - restaurant
-- christiania
 title: Noma
 type: poi
 ---

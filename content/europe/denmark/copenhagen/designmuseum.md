@@ -11,7 +11,7 @@ story: The museum's Danish design collection includes the original prototype of 
 tags:
 - things_to_do
 - museum
-- osterbro
+- harbourfront
 title: Designmuseum Danmark
 type: poi
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 55.6816
 longitude: 12.5761
 score: 6.9
-snippet: 17th-century church with the Round Tower observatory
+snippet: 17th-century church physically attached to the Round Tower astronomical observatory
 tags:
 - things_to_do
 - landmark

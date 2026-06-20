@@ -5,7 +5,8 @@ done:
 latitude: 55.668
 longitude: 12.5442
 score: 8.0
-snippet: Copenhagen's best music venue in a preserved 1950s trade union hall
+snippet: Copenhagen's best music venue, occupying a preserved 1950s trade union hall
+  in Vesterbro
 tags:
 - bars_and_cafes
 - music

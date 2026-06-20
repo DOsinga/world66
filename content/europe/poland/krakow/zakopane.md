@@ -5,7 +5,7 @@ score: 8.8
 snippet: Mountain resort town at the foot of the Tatras, 100 km south of Kraków, known
   for hiking and folk culture
 tags:
-- things_to_do
+- day_trips
 - sight
 title: Zakopane
 type: poi

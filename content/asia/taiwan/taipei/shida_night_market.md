@@ -5,7 +5,6 @@ longitude: 121.5294
 score: 7.2
 snippet: Student night market beside National Taiwan Normal University
 tags:
-- things_to_do
 - eating_out
 - shopping
 - daan

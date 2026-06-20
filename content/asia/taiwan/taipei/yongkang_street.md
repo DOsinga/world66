@@ -5,7 +5,6 @@ score: 7.6
 snippet: Da'an's famous food street, lined with restaurants, teahouses, and dessert
   shops
 tags:
-- things_to_do
 - eating_out
 - daan
 title: Yongkang Street

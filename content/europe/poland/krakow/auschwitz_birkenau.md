@@ -13,7 +13,7 @@ story: 'The name "Auschwitz" comes from the Polish name of the town Oświęcim, 
 
   '
 tags:
-- things_to_do
+- day_trips
 - sight
 title: Auschwitz-Birkenau Memorial and Museum
 type: poi

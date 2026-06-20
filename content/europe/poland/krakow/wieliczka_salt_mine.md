@@ -15,7 +15,7 @@ story: 'The mine has been in continuous operation since the 13th century, which 
 
   '
 tags:
-- things_to_do
+- day_trips
 - sight
 title: Wieliczka Salt Mine
 type: poi

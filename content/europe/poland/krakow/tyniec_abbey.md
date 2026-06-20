@@ -5,7 +5,7 @@ score: 8.5
 snippet: Benedictine abbey on a limestone cliff above the Vistula, founded in the
   11th century
 tags:
-- things_to_do
+- day_trips
 - sight
 title: Tyniec Abbey
 type: poi

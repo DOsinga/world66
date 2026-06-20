@@ -9,7 +9,6 @@ story: Opened in 1895, the cafe became the haunt of the Mloda Polska (Young Pola
   bills settled them with drawings, and the dim, Secession-style rooms are still hung
   with their caricatures and puppets.
 tags:
-- things_to_do
 - eating_out
 - kleparz
 title: Jama Michalika

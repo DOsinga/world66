@@ -1,12 +1,10 @@
 ---
-category: Neighbourhood
 image: french_concession.jpg
 image_attribution: N509FZ
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Wukang_Mansion_(20191114161507).jpg
 latitude: 31.2127
 longitude: 121.453
-score: 9.3
 snippet: Tree-lined Art Deco quarter with the best bars and cafes in Shanghai
 tags:
 - things_to_do

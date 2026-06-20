@@ -8,7 +8,6 @@ snippet: Old-school Gold Coast steakhouse with enormous portions
 tags:
 - eating_out
 - restaurant
-- old_town
 title: Gibsons
 type: poi
 ---

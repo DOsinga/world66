@@ -7,7 +7,7 @@ snippet: Chicago Architecture Foundation's riverboat cruise, the best single int
 tags:
 - things_to_do
 - sight
-- river_north
+- the_loop
 title: Chicago Architecture Foundation River Cruise
 type: poi
 ---

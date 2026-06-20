@@ -7,7 +7,7 @@ snippet: Two-level street along the Chicago River's south bank — lower level f
 tags:
 - things_to_do
 - sight
-- river_north
+- the_loop
 title: Upper and Lower Wacker Drive
 type: poi
 ---

@@ -7,7 +7,6 @@ snippet: Community arts center at the northern edge of Hyde Park programming exh
 tags:
 - things_to_do
 - museum
-- hyde_park
 title: Hyde Park Arts Center
 type: poi
 ---

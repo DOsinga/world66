@@ -4,7 +4,8 @@ done:
 latitude: 31.625668
 longitude: -7.989246
 score: 9.7
-snippet: Marrakesh's legendary square of food stalls and storytellers
+snippet: Marrakesh's great square of storytellers, snake charmers, and nightly food
+  stalls open until midnight
 tags:
 - things_to_do
 - sight

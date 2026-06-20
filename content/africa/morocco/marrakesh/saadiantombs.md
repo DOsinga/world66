@@ -2,7 +2,8 @@
 latitude: 31.617259
 longitude: -7.988555
 score: 8.7
-snippet: 16th-century royal necropolis with exceptional carved plasterwork and zellige
+snippet: 16th-century royal necropolis sealed for two centuries, decorated in carved
+  cedar and zellige tilework
 tags:
 - things_to_do
 - mosque

@@ -3,7 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.6216
 longitude: -7.9819
-snippet: 19th-century vizier's palace of lavish courtyards and painted ceilings
+score: 8.8
+snippet: 19th-century vizier's palace of carved cedar ceilings, painted plasterwork,
+  and orange-tree courtyards
 tags:
 - things_to_do
 - sight
@@ -11,7 +13,6 @@ tags:
 - mellah
 title: Bahia Palace
 type: poi
-score: 8.8
 ---
 
 Built in the 1890s for Si Ahmed ben Moussa, the powerful vizier of Sultan Moulay Hassan, the Bahia Palace was designed to be the greatest palace of its time. The name means "brilliance," and the decorative ambition is clear: carved cedar ceilings, intricate zellij tilework, and a series of courtyards planted with orange trees and flowering shrubs.

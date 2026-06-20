@@ -2,7 +2,8 @@
 latitude: 31.6172
 longitude: -7.9906
 score: 7.1
-snippet: Medieval southern gate of the medina, flanked by ancient olive presses
+snippet: 12th-century southern gate of the medina, the historic exit for caravans
+  heading south to Agadir
 tags:
 - things_to_do
 - sight

@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - sight
 - garden
-- semlalia
+- medina
 title: Arset el Bil Garden
 type: poi
 ---

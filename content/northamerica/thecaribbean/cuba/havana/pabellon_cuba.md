@@ -1,13 +1,13 @@
 ---
-title: Pabellón Cuba
-type: poi
 latitude: 23.1398
 longitude: -82.4067
 score: 7.0
 tags:
 - things_to_do
 - sight
-- miramar
+- vedado
+title: Pabellón Cuba
+type: poi
 ---
 
 Pabellón Cuba is a large event and exhibition space in Miramar, built in the 1960s as a showcase for Cuban arts and industry. The complex — open on all sides, modernist and functional — hosts trade fairs, concerts, and cultural events throughout the year. The architecture, particularly the tower and the circular auditorium, is a good example of the optimistic early-revolutionary aesthetic.

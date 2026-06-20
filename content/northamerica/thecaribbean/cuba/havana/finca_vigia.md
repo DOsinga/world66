@@ -11,9 +11,7 @@ story: 'Hemingway kept his Nobel Prize medal not in a vault but on the altar of 
 
   '
 tags:
-- things_to_do
-- museum
-- habana_del_este
+- day_trips
 title: Finca Vigía (Hemingway House Museum)
 type: poi
 ---

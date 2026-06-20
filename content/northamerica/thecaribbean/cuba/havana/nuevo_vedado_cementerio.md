@@ -1,13 +1,13 @@
 ---
-title: Cementerio de Colón
-type: poi
 latitude: 23.1297
 longitude: -82.3876
 score: 8.2
 tags:
 - things_to_do
 - sight
-- nuevo_vedado
+- vedado
+title: Cementerio de Colón
+type: poi
 ---
 
 The Necrópolis Cristóbal Colón, bordering Nuevo Vedado to the north, is one of the largest and most architecturally significant cemeteries in the Americas. Founded in 1876, it covers over 56 hectares and contains hundreds of elaborate mausoleums, chapels, and sculptures representing Cuban history across a century and a half: generals of the independence wars, presidents, artists, athletes, and ordinary families whose funerary monuments span every architectural movement from neoclassicism to art deco to socialist realism.

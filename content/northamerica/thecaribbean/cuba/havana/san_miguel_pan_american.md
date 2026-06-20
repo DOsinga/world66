@@ -1,13 +1,13 @@
 ---
-title: Pan American Stadium
-type: poi
 latitude: 23.1575
 longitude: -82.3167
 score: 7.0
 tags:
 - things_to_do
 - sight
-- san_miguel_padron
+- habana_del_este
+title: Pan American Stadium
+type: poi
 ---
 
 The Pan American Stadium (Estadio Panamericano) was built for the 1991 Pan American Games hosted in Havana and remains the city's main athletics facility. The stadium complex includes a velodrome, aquatics centre, and various training facilities, and has continued to host major sporting events since the games.

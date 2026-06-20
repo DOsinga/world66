@@ -14,7 +14,6 @@ story: 'The Tropicana opened in 1939 in what were then the suburbs of Havana —
 tags:
 - bars_and_cafes
 - bar
-- miramar
 title: Tropicana Club
 type: poi
 ---

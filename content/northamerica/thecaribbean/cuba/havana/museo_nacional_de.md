@@ -8,7 +8,7 @@ snippet: Cuba's premier art museum with European and Latin American collections
 tags:
 - things_to_do
 - museum
-- vedado
+- centro_habana
 title: Museo Nacional de Bellas Artes
 type: poi
 url: www.museonacional.cult.cu

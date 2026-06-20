@@ -1,13 +1,13 @@
 ---
-title: Iglesia de San Francisco de Paula
-type: poi
 latitude: 23.1295
-longitude: -82.3420
+longitude: -82.342
 score: 7.0
 tags:
 - things_to_do
 - culture
-- san_miguel_padron
+- habana_vieja
+title: Iglesia de San Francisco de Paula
+type: poi
 ---
 
 The small Baroque church of San Francisco de Paula stands on the harbour waterfront at the southeastern edge of Habana Vieja, close to the border with San Miguel del Padrón. Built in the mid-18th century, it is one of the older surviving religious structures in the city. The church fell into disuse after the revolution and was subsequently repurposed as a concert venue, hosting chamber music performances in its roofless nave.

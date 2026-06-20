@@ -1,13 +1,14 @@
 ---
-title: Fábrica de Arte Cubano
-type: poi
-latitude: 23.1330
+latitude: 23.133
 longitude: -82.3875
 score: 9.0
 tags:
+- things_to_do
 - sight
 - bars_and_cafes
 - vedado
+title: Fábrica de Arte Cubano
+type: poi
 ---
 
 The Fábrica de Arte Cubano (FAC) is the most exciting cultural venue in Havana — a former cooking oil factory in Vedado converted into a multi-floor exhibition, performance, and party space. Founded by musician X Alfonso, it opened in 2014 and has become the hub of Havana's contemporary cultural life. On Thursday through Sunday evenings, the FAC fills with young Cubans and visitors moving between galleries, cinema screens, live music stages, and a rooftop bar.

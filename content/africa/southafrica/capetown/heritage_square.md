@@ -3,12 +3,11 @@ latitude: -33.9236
 longitude: 18.4156
 score: 6.9
 snippet: Restored 18th-century Cape Dutch and Georgian townhouses around a quiet central
-  courtyard.
+  courtyard
 tags:
 - things_to_do
 - historic
 - de_waterkant
-- city_bowl
 title: Heritage Square
 type: poi
 ---

@@ -6,7 +6,8 @@ score: 7.5
 scores:
   activities: 0.5808
   sightseeing: 0.6296
-snippet: White-sand Atlantic beach below the Twelve Apostles
+snippet: White-sand Atlantic beach below the dramatic Twelve Apostles ridge, lined
+  with cafés and bars
 tags:
 - things_to_do
 - beach

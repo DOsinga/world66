@@ -17,7 +17,6 @@ tags:
 - things_to_do
 - sight
 - outdoor
-- bo_kaap
 - bokaap
 title: Signal Hill
 type: poi

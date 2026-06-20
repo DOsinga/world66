@@ -14,7 +14,6 @@ snippet: Cape Town's working harbour redeveloped into a waterfront precinct of m
 tags:
 - things_to_do
 - neighbourhood
-- waterfront
 title: Victoria & Alfred Waterfront
 type: neighbourhood
 ---

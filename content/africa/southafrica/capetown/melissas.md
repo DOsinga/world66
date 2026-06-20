@@ -11,7 +11,7 @@ snippet: Cape Town deli-café institution with multiple branches, good for a day
 tags:
 - eating_out
 - restaurant
-- green_point
+- city_bowl
 title: Melissa's
 type: poi
 ---

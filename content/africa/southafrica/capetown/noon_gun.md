@@ -14,7 +14,6 @@ tags:
 - things_to_do
 - sight
 - history
-- bo_kaap
 - bokaap
 title: Noon Gun
 type: poi

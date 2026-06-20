@@ -16,7 +16,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- green_point
+- city_bowl
 title: Foreshore Freeway Bridge
 type: poi
 ---

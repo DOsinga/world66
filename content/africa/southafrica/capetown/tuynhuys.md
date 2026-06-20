@@ -5,7 +5,7 @@ longitude: 18.4186
 score: 5.3
 scores:
   sight: 0.6612
-snippet: The president's Cape Town office, an 18th-century garden pavilion
+snippet: President's Cape Town office, an 18th-century garden pavilion
 tags:
 - things_to_do
 - sight

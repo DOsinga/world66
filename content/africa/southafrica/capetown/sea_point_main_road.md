@@ -1,14 +1,14 @@
 ---
 latitude: -33.9201
 longitude: 18.3862
-snippet: The city's most cosmopolitan restaurant and deli street, busy from breakfast
+score: 7.0
+snippet: City's most cosmopolitan restaurant and deli street, busy from breakfast
   to midnight
 tags:
 - eating_out
 - sea_point
 title: Sea Point Main Road
 type: poi
-score: 7.0
 ---
 
 Sea Point Main Road is Cape Town's most cosmopolitan eating and shopping street, a dense strip of restaurants, delis, bakeries and supermarkets running parallel to the promenade from Mouille Point to Bantry Bay. Unlike the tourist-facing V&A Waterfront, this is a neighbourhood high street used by residents.

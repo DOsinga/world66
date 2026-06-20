@@ -16,7 +16,6 @@ tags:
 - things_to_do
 - sight
 - outdoor
-- camps_bay_neighbourhood
 - atlantic_seaboard
 title: Lion's Head
 type: poi

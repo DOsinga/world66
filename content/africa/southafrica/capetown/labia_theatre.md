@@ -7,7 +7,8 @@ scores:
   activities: 0.6231
   sight: 0.5935
   sightseeing: 0.5985
-snippet: Independent cinema running art-house and classic films
+snippet: Independent art-house cinema in a converted ballroom, running classic and
+  foreign-language films since 1949
 tags:
 - things_to_do
 - sight

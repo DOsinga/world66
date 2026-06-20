@@ -10,7 +10,6 @@ snippet: Legendary Cape Malay home cooking in the Bo-Kaap, open since 1965
 tags:
 - eating_out
 - restaurant
-- bo_kaap
 - bokaap
 title: Biesmiellah
 type: poi

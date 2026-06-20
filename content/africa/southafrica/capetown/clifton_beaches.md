@@ -6,11 +6,11 @@ score: 7.5
 scores:
   activities: 0.5243
   sightseeing: 0.5954
-snippet: Four white-sand coves separated by granite boulders
+snippet: Four white-sand coves separated by granite boulders, sheltered from the southeaster
+  wind
 tags:
 - things_to_do
 - beach
-- camps_bay_neighbourhood
 - atlantic_seaboard
 title: Clifton Beaches
 type: poi

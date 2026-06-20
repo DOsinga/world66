@@ -7,7 +7,7 @@ scores:
   activities: 0.5592
   sight: 0.6055
   sightseeing: 0.6257
-snippet: The mother church of the Dutch Reformed Church in South Africa
+snippet: Mother church of the Dutch Reformed Church in South Africa
 tags:
 - things_to_do
 - sight

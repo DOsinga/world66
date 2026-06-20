@@ -10,7 +10,7 @@ story: 'Dhobi Ghat was established in the early 19th century and has operated co
 
   '
 tags:
-- lower_parel
+- malabar_hill
 title: Dhobi Ghat
 type: poi
 ---

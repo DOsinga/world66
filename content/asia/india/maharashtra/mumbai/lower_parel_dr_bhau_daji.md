@@ -5,7 +5,6 @@ score: 8.0
 tags:
 - things_to_do
 - museum
-- lower_parel
 title: Dr. Bhau Daji Lad City Museum
 type: poi
 ---

@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - park
 - nature
-- andheri
 title: Sanjay Gandhi National Park
 type: poi
 ---

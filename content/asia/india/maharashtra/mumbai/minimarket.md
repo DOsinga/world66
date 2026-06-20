@@ -3,14 +3,14 @@ address: 33/31, Mutton Street,
 latitude: 18.959073
 longitude: 72.829903
 phone: +91-22-3475786, 3472427
+score: 4.2
 tags:
 - shopping
 - shop
 - market
-- lower_parel
+- malabar_hill
 title: Mini Market
 type: poi
-score: 4.2
 ---
 
 Dealing in old glass wares, brasswares, wooden carvings, old paintings, antiques, silver coins, ivory jewellery and figures.

@@ -5,7 +5,7 @@ score: 8.5
 tags:
 - things_to_do
 - culture
-- lower_parel
+- fort_area
 title: National Centre for the Performing Arts
 type: poi
 ---

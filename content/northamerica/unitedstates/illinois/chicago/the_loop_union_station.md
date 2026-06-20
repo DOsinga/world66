@@ -7,7 +7,7 @@ snippet: Daniel Burnham's 1925 Beaux-Arts rail terminal with a Great Hall modele
 tags:
 - things_to_do
 - sight
-- the_loop
+- west_loop
 title: Union Station
 type: poi
 ---

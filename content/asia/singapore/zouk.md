@@ -1,14 +1,14 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-latitude: 1.3048
-longitude: 103.8632
+latitude: 1.291
+longitude: 103.847
 score: 6.2
 snippet: Singapore's flagship superclub with multiple dance rooms
 tags:
 - nightlife
 - club
-- kampong_glam
+- clarke_quay
 title: Zouk
 type: poi
 ---

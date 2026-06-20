@@ -8,7 +8,6 @@ score: 5.5
 snippet: Major mall above City Hall MRT with dining and retail
 tags:
 - shopping
-- bugis
 title: Raffles City Shopping Centre
 type: poi
 ---

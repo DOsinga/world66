@@ -5,7 +5,7 @@ done:
 latitude: 1.3065
 longitude: 103.8557
 score: 7.5
-snippet: sprawling 24-hour emporium in Little India selling almost everything
+snippet: Sprawling 24-hour emporium in Little India selling almost everything
 tags:
 - things_to_do
 - sight

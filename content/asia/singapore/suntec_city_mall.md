@@ -8,7 +8,6 @@ score: 4.5
 snippet: Massive convention-district mall with the Fountain of Wealth
 tags:
 - shopping
-- bugis
 title: Suntec City Mall
 type: poi
 ---

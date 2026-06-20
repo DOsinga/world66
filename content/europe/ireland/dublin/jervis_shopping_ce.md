@@ -6,7 +6,7 @@ score: 5.0
 snippet: Large city-centre mall on Mary Street with over 60 shops
 tags:
 - shopping
-- temple_bar
+- north_city
 title: Jervis Shopping Centre
 type: poi
 ---

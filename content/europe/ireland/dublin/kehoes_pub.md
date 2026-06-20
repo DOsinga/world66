@@ -7,6 +7,7 @@ phone: +353 1 677 8312
 score: 7.0
 snippet: Victorian pub interior unchanged since the 1880s — one of Dublin's best
 tags:
+- georgian_dublin
 - bars_and_cafes
 - bar
 - pub

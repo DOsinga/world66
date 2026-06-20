@@ -6,6 +6,7 @@ score: 8.0
 snippet: 18th-century ducal palace that became the Irish parliament; said to have
   inspired the White House
 tags:
+- georgian_dublin
 - sight
 - st_stephens_green_area
 title: Leinster House / Dáil Éireann

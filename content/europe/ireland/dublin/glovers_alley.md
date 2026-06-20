@@ -5,6 +5,7 @@ score: 8.8
 snippet: Andy McFadden's fine dining restaurant in the Fitzwilliam Hotel on St Stephen's
   Green
 tags:
+- georgian_dublin
 - eating_out
 - st_stephens_green_area
 title: Glover's Alley

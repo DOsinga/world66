@@ -9,6 +9,7 @@ phone: +353 1 677 5217
 score: 6.6
 snippet: Leopold Bloom's pub from Ulysses, still serving on Bloomsday
 tags:
+- georgian_dublin
 - things_to_do
 - bar
 - story

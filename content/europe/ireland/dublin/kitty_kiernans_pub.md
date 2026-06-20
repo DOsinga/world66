@@ -3,6 +3,7 @@ title: Kitty Kiernan's Pub
 type: poi
 snippet: Traditional local pub on Collins Avenue named after Michael Collins's fiancée
 tags:
+- north_city
 - bars_and_cafes
 - bar
 - pub

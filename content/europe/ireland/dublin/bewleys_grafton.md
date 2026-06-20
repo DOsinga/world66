@@ -6,6 +6,7 @@ score: 7.5
 snippet: Dublin café institution since 1927, with Harry Clarke stained glass and famous
   sticky buns
 tags:
+- creative_quarter
 - bars_and_cafes
 - eating_out
 - st_stephens_green_area

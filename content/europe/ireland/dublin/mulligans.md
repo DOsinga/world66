@@ -7,6 +7,7 @@ longitude: -6.256141
 score: 7.3
 snippet: Legendary no-frills Dublin pub, perfect Guinness guaranteed
 tags:
+- temple_bar
 - bars_and_cafes
 - bar
 - pub

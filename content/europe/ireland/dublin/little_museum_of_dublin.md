@@ -6,6 +6,7 @@ score: 7.5
 snippet: Charming small museum telling Dublin's 20th-century story through donated
   objects and artefacts
 tags:
+- georgian_dublin
 - museum
 - st_stephens_green_area
 title: Little Museum of Dublin

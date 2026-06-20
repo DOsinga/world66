@@ -6,6 +6,7 @@ score: 6.5
 snippet: 1720 church near Grafton Street; associated with Bram Stoker and a bread
   charity tradition since 1723
 tags:
+- georgian_dublin
 - sight
 - trinity_college_area
 title: St Ann's Church

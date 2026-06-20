@@ -6,6 +6,7 @@ longitude: -6.2524
 score: 7.5
 snippet: Free science-meets-art gallery at Trinity with imaginative themed exhibitions
 tags:
+- georgian_dublin
 - museum
 - trinity_college_area
 title: Science Gallery Dublin

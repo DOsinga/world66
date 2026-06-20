@@ -6,6 +6,7 @@ score: 8.2
 snippet: Ireland's premier classical music venue, hosting the RTÉ National Symphony
   Orchestra
 tags:
+- georgian_dublin
 - things_to_do
 - st_stephens_green_area
 title: National Concert Hall

@@ -6,6 +6,7 @@ score: 7.5
 snippet: Hidden Victorian walled gardens with a cascade and grotto — Dublin's least-known
   gem
 tags:
+- creative_quarter
 - park
 - st_stephens_green_area
 title: Iveagh Gardens

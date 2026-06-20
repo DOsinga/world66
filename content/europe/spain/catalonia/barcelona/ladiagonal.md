@@ -8,7 +8,6 @@ snippet: Grand boulevard cutting diagonally across Barcelona’s grid
 tags:
 - things_to_do
 - sights
-- les_corts
 title: La Diagonal
 type: poi
 ---

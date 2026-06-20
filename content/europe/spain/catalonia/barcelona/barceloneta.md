@@ -1,7 +1,7 @@
 ---
 latitude: 41.3784
 longitude: 2.19
-snippet: The old fishermen's quarter by the sea, beaches and seafood
+snippet: Old fishermen's quarter by the sea, with beaches and seafood
 tags:
 - things_to_do
 - neighbourhood

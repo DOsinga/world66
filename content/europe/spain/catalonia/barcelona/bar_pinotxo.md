@@ -5,7 +5,7 @@ longitude: 2.171966
 opening_hours: Mon–Sat 6:30am–4pm; closed Sun
 price_range: €8–18
 score: 8.0
-snippet: The most beloved breakfast counter inside La Boqueria market
+snippet: Beloved breakfast counter inside La Boqueria market
 tags:
 - eating_out
 - restaurant

@@ -7,7 +7,7 @@ latitude: 41.377904
 longitude: 2.177787
 phone: +34 933 016 125
 score: 4.8
-snippet: Concept store mixing fashion, art, and music in the Gothic Quarter.
+snippet: Concept store mixing fashion, art, and music in the Gothic Quarter
 tags:
 - shopping
 - gothic_quarter

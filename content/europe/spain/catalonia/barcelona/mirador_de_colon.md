@@ -9,7 +9,7 @@ snippet: 60-metre Columbus column with panoramic viewing gallery
 tags:
 - things_to_do
 - sights
-- barceloneta
+- gothic_quarter
 title: Mirador de Colón
 type: poi
 ---

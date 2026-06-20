@@ -1,7 +1,7 @@
 ---
 latitude: 41.368
 longitude: 2.155
-snippet: The museum-and-garden hill above the city and its port
+snippet: Museum-and-garden hill above the city and its port
 tags:
 - things_to_do
 - neighbourhood

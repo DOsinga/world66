@@ -8,7 +8,6 @@ score: 4.7
 snippet: Upscale boutique in Turó Park with top European designers
 tags:
 - shopping
-- les_corts
 title: Coquette (Turó Park)
 type: poi
 url: www.coquettecollection.com

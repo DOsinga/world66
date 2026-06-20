@@ -6,7 +6,7 @@ score: 4.3
 snippet: Futuristic-themed bar inside the Maremagnum harbour mall
 tags:
 - bars_and_cafes
-- gothic_quarter
+- barceloneta
 title: Insolit
 type: poi
 ---

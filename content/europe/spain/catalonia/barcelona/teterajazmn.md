@@ -4,7 +4,7 @@ latitude: 41.4012
 longitude: 2.156379
 phone: +34 93 218 71 84
 score: 5.8
-snippet: Moroccan-style tea house in the Gràcia neighbourhood.
+snippet: Moroccan-style tea house in the Gràcia neighbourhood
 tags:
 - bars_and_cafes
 - gracia

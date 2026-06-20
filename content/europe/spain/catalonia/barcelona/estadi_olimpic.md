@@ -10,7 +10,7 @@ longitude: 2.156749
 opening_hours: Weekdays 10:00–13:00 and 16:00–18:00, weekends 10:00–18:00
 phone: 93 426 06 60
 score: 6.9
-snippet: Barcelona's 1992 Olympic main stadium on Montjuic, with 70,000 seats.
+snippet: Barcelona's 1992 Olympic main stadium on Montjuic, with 70,000 seats
 tags:
 - things_to_do
 - sights

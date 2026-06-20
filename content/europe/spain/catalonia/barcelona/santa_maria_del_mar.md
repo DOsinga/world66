@@ -1,15 +1,15 @@
 ---
-title: Santa Maria del Mar
-type: poi
+latitude: 41.3835
+longitude: 2.1819
+score: 8.7
+snippet: Pure Catalan Gothic masterpiece in El Born, known as the "people's cathedral"
 tags:
 - things_to_do
 - sight
 - architecture
 - el_born
-latitude: 41.3835
-longitude: 2.1819
-snippet: The "people's cathedral" — a pure Catalan Gothic masterpiece in El Born
-score: 8.7
+title: Santa Maria del Mar
+type: poi
 ---
 
 Built between 1329 and 1383, Santa Maria del Mar is the finest expression of Catalan Gothic anywhere in the city, and arguably its most beautiful church. It went up astonishingly fast for a medieval building — just 54 years — which gives it a rare stylistic unity: soaring octagonal columns spaced unusually far apart, a single uninterrupted sweep of nave and aisles, and walls that seem to dissolve into light. The bastaixos, the dockworkers who hauled the stone down from the Montjuïc quarry on their backs, are remembered in carvings on the great bronze doors.

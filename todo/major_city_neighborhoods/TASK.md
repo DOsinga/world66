@@ -122,6 +122,23 @@ neighbourhood: Shilin   # ← never do this
 
 **Do not force-tag every POI.** City centre landmarks that don't belong to any specific neighbourhood should remain untagged. Only tag a POI to a neighbourhood if a traveler browsing that neighbourhood page would genuinely want to find it there.
 
+#### Verify geographic accuracy
+
+Every neighbourhood tag assignment must be geographically correct. A POI that is physically outside a neighbourhood should never carry that neighbourhood's slug — even if the slug appears in the filename, the title, or the description.
+
+**How to verify:**
+1. Check the POI's `latitude` and `longitude` fields against the neighbourhood's known boundaries (use your knowledge of the city and cross-reference with OpenStreetMap or Wikivoyage boundary maps).
+2. If coordinates are missing, use your knowledge of the specific named place to determine which neighbourhood it sits in — and add coordinates while you're at it.
+3. Ask: "Would a person standing at these coordinates consider themselves to be in this neighbourhood?" If no, remove the tag.
+
+**Common failure patterns to guard against:**
+- A temple 4 km south of a neighbourhood tagged to it because the filename starts with the neighbourhood slug
+- A building in one district tagged to an adjacent district because they "feel related"
+- A day-trip destination (30+ km away) tagged to a neighbourhood
+- A POI on the wrong side of a river, park, or major road that defines a neighbourhood boundary
+
+**Before committing, do a final check:** for each neighbourhood, look at the list of POIs that carry its slug and ask whether they are plausibly within its boundaries. If any look wrong, verify the coordinates.
+
 ### 5. Create new POIs only where there are real places to add
 
 If a neighbourhood genuinely lacks coverage, add POIs using:
@@ -173,6 +190,7 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] No neighbourhood created for a park, campus, landmark area, or the city centre itself
 - [ ] Each neighbourhood POI has an image (sourced via `find-photo`), accurate centre coordinates, and only `things_to_do` + `neighbourhood` in tags
 - [ ] Each neighbourhood collects POIs that genuinely sit in it — **no POIs invented to hit a count**
+- [ ] Every neighbourhood tag is geographically accurate — verify each tagged POI's coordinates fall within the neighbourhood's boundaries; remove any tags that are wrong even if the slug appears in the filename
 - [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
 - [ ] No category/"scene" aggregate POIs, no hotels, no transit-station pages, no activity pages, no walking-route pages
 - [ ] Every POI is one specific, named, visitable place

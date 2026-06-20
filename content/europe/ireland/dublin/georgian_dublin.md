@@ -1,8 +1,8 @@
 ---
 image: georgian_dublin.jpg
-image_attribution: William Murphy
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Flowers_In_Merrion_Square_Park_in_Dublin.jpg
+image_attribution: Frank Kovalchek
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Georgian_doors_in_Dublin_(8339103652).jpg
 latitude: 53.3385
 longitude: -6.251
 snippet: Elegant district of Georgian squares, brick terraces, and national museums

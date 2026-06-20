@@ -6,8 +6,9 @@ score: 7.5
 snippet: Renaissance workshop still producing Medici stone inlay (pietre dure), with
   a small museum of the craft
 tags:
+- things_to_do
 - museum
-- san_lorenzo_quarter
+- san_marco
 title: Opificio delle Pietre Dure
 type: poi
 ---

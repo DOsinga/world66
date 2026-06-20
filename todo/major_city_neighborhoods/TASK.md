@@ -45,16 +45,22 @@ grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md" | wc -l
 
 Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps with real content, not padding to a target.
 
-### 2. Plan the neighbourhood set
+### 2. Research first — then decide on neighbourhoods
 
-Research the city's neighbourhoods from a traveler's perspective. Good sources: Wikivoyage, Lonely Planet, local tourism boards. Ask: where do travelers actually *go* in this city? What areas have a distinct identity?
+**Start from real research, not from a quota.** Do not decide "I need 10 neighbourhoods" and then create neighbourhood pages. Instead:
+
+1. **Look at what real named places already exist** in the city's content directory. Read the POI titles. Where do they cluster?
+2. **Research the city's visitor-relevant areas** — Wikivoyage, Lonely Planet, local tourism boards. Ask: where do travelers actually *go* in this city? What areas have a distinct identity that a visitor would consciously seek out?
+3. **Only create a neighbourhood page once you can name 3+ real specific places in it.** If you cannot name at least three specific, named, visitable places in an area (restaurants, museums, bars, markets, historic sites with actual addresses), that area is not ready to be a neighbourhood. Do not create the page hoping to fill it later.
+
+The failure mode to avoid: creating a neighbourhood page for "Agdal" because Marrakesh has royal gardens in that direction, then inventing "Agdal Royal Pavilions", "Agdal Khettara Irrigation System", "Agdal Orchards" as fake sub-feature POIs to fill it. The Agdal Gardens is ONE specific place. Its sub-features are not separate POIs.
 
 A neighbourhood needs:
 - A distinct character or identity worth describing — something a traveler would specifically seek out
 - A recognisable name (preferably the one locals use)
-- Enough real, named places within it to make the page worth visiting
+- **At least 3 specific, named, real places you can already identify before creating the page**
 
-Aim for geographic spread across the city. 7–12 neighbourhoods is typical for a major city; some cities genuinely have fewer distinct traveler-relevant districts, and that's fine.
+Aim for geographic spread across the city. 7–12 neighbourhoods is typical for a major city; many cities genuinely have fewer distinct traveler-relevant districts, and that is fine. **Do not reach for 10 if 6 are real and 4 would be manufactured.**
 
 ### 2b. Placement, duplicates, and overlaps — get the structure right
 

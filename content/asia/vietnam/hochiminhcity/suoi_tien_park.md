@@ -5,9 +5,8 @@ score: 8.0
 snippet: Buddhist-themed waterpark on the edge of the city — an extraordinary cultural
   experience
 tags:
-- things_to_do
-- sight
 - day_trips
+- sight
 title: Suối Tiên Theme Park
 type: poi
 ---

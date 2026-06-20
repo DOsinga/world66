@@ -1,13 +1,13 @@
 ---
-title: Alamar — Soviet Housing Estate
-type: poi
-latitude: 23.1640
-longitude: -82.2857
+latitude: 23.12
+longitude: -82.284
 score: 6.5
 tags:
 - things_to_do
 - sight
 - habana_del_este
+title: Alamar — Soviet Housing Estate
+type: poi
 ---
 
 Alamar is one of the largest microbrigade housing developments in Cuba — a vast modernist suburb built largely by its own future residents during the 1970s under the Soviet-influenced microbrigade construction programme. Rows of identical prefabricated concrete apartment blocks stretch along the coast east of central Havana, housing over 100,000 people.

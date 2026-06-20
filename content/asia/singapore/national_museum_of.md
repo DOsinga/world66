@@ -4,14 +4,15 @@ latitude: 1.296548
 longitude: 103.848317
 opening_hours: 10:00–19:00 daily
 phone: (65) 6332 3659
+score: 8.2
 snippet: Singapore's oldest museum covering history and culture
 tags:
 - things_to_do
 - museums
+- clarke_quay
 title: National Museum of Singapore
 type: poi
 url: https://www.nationalmuseum.sg
-score: 8.2
 ---
 
 Singapore's oldest museum, established in 1887, occupies a grand neoclassical building on Stamford Road. The permanent Singapore History Gallery traces the island's story from the 14th century through independence and beyond, using personal objects and multimedia installations that bring the narrative to life.

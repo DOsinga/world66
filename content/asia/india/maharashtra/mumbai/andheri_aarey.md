@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - park
 - nature
-- andheri
 title: Aarey Milk Colony Forest
 type: poi
 ---

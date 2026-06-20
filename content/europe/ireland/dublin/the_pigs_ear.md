@@ -4,7 +4,6 @@ longitude: -6.2564
 score: 7.8
 snippet: Modern Irish cooking in a Georgian townhouse facing Trinity College
 tags:
-- things_to_do
 - eating_out
 - trinity_college_area
 title: The Pig's Ear

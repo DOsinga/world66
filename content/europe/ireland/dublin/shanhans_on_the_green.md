@@ -4,7 +4,6 @@ longitude: -6.2604
 score: 8.3
 snippet: Grand Dublin steakhouse in a Georgian townhouse on St Stephen's Green
 tags:
-- things_to_do
 - eating_out
 - st_stephens_green_area
 title: Shanahan's on the Green

@@ -4,7 +4,6 @@ longitude: -6.2681
 score: 8.0
 snippet: Restaurant above a beloved bookshop, looking out over Ha'penny Bridge
 tags:
-- things_to_do
 - eating_out
 - temple_bar
 title: The Winding Stair

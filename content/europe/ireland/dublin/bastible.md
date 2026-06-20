@@ -4,7 +4,6 @@ longitude: -6.2744
 score: 8.2
 snippet: Neighbourhood restaurant at Leonard's Corner with careful, seasonal cooking
 tags:
-- things_to_do
 - eating_out
 - liberties
 title: Bastible

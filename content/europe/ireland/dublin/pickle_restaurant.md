@@ -4,7 +4,6 @@ longitude: -6.2673
 score: 8.0
 snippet: Bold north Indian cooking on Camden Street, with outstanding lamb dishes
 tags:
-- things_to_do
 - eating_out
 - liberties
 title: Pickle

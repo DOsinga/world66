@@ -4,7 +4,6 @@ longitude: -6.2513
 score: 8.1
 snippet: Intimate French restaurant in a basement on Pembroke Street Upper
 tags:
-- things_to_do
 - eating_out
 - georgian_dublin
 title: Dax

@@ -4,7 +4,6 @@ longitude: -6.2639
 score: 9.0
 snippet: Michelin-starred restaurant in the vaults beneath the Dublin Writers Museum
 tags:
-- things_to_do
 - eating_out
 - north_city
 title: Chapter One

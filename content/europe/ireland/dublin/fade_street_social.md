@@ -4,7 +4,6 @@ longitude: -6.2635
 score: 7.8
 snippet: Dylan McGrath's bustling gastro bar with a serious kitchen, off Grafton Street
 tags:
-- things_to_do
 - eating_out
 - dublin_castle_area
 title: Fade Street Social

@@ -4,7 +4,6 @@ longitude: -6.2508
 score: 9.0
 snippet: Michelin-starred French-influenced fine dining on Baggot Street Lower
 tags:
-- things_to_do
 - eating_out
 - georgian_dublin
 title: L'Ecrivain

@@ -4,7 +4,6 @@ longitude: -6.2547
 score: 8.2
 snippet: Italian small plates and natural wines on Merrion Row
 tags:
-- things_to_do
 - eating_out
 - st_stephens_green_area
 title: Etto

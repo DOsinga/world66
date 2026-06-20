@@ -9,7 +9,6 @@ tags:
 - things_to_do
 - sight
 - mosque
-- mellah
 - kasbah
 title: El Badi Palace
 type: poi

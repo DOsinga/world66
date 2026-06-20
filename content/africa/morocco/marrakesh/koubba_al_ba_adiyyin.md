@@ -1,7 +1,7 @@
 ---
 title: Mechouar Kasba
 type: poi
-tags: [things_to_do, sight, mellah]
+tags: [things_to_do, sight, kasbah]
 latitude: 31.6236
 longitude: -7.9869
 score: 7.1

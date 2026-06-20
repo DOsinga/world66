@@ -7,7 +7,7 @@ score: 6.0
 snippet: Small free museum tracing the history of the Irish police force since 1922
 tags:
 - museum
-- dublin_castle_area
+- medieval_quarter
 title: Garda Museum
 type: poi
 ---

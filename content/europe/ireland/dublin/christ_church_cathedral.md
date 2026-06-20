@@ -18,7 +18,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- dublin_castle_area
+- medieval_quarter
 title: Christ Church Cathedral
 type: poi
 url: https://www.christchurchcathedral.ie

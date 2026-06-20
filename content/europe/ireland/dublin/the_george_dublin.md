@@ -7,7 +7,7 @@ snippet: Dublin's oldest LGBTQ+ bar, open since 1985, with drag nights and a wel
   atmosphere
 tags:
 - bars_and_cafes
-- dublin_castle_area
+- creative_quarter
 title: The George
 type: poi
 ---

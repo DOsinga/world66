@@ -6,7 +6,7 @@ score: 7.5
 snippet: Dublin's most famous chipper, trading since 1913 near Christ Church Cathedral
 tags:
 - eating_out
-- dublin_castle_area
+- medieval_quarter
 title: Leo Burdock's
 type: poi
 ---

@@ -9,7 +9,7 @@ snippet: Neoclassical 1779 building with free history exhibition and a magnifice
 tags:
 - museum
 - sight
-- dublin_castle_area
+- medieval_quarter
 title: City Hall
 type: poi
 ---

@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- dublin_castle_area
+- medieval_quarter
 title: Dublin Castle
 type: poi
 url: https://www.dublincastle.ie

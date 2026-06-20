@@ -8,7 +8,7 @@ snippet: Dublin's best independent shopping street, with cafés, vintage shops, 
 tags:
 - shopping
 - sight
-- dublin_castle_area
+- creative_quarter
 title: South Great George's Street
 type: poi
 ---

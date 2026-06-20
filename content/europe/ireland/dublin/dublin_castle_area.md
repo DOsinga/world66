@@ -10,7 +10,7 @@ snippet: The historic core around Dublin Castle and the two medieval cathedrals
 tags:
 - things_to_do
 - sight
-- dublin_castle_area
+- medieval_quarter
 title: Dublin Castle Area
 type: poi
 ---

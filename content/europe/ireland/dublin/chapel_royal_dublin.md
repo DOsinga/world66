@@ -7,7 +7,7 @@ snippet: Gothic Revival chapel (1814) with 100+ limestone carvings of Irish sain
   and English monarchs
 tags:
 - sight
-- dublin_castle_area
+- medieval_quarter
 title: Chapel Royal
 type: poi
 ---

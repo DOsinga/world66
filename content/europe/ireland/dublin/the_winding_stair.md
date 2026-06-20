@@ -5,7 +5,7 @@ score: 8.0
 snippet: Restaurant above a beloved bookshop, looking out over Ha'penny Bridge
 tags:
 - eating_out
-- temple_bar
+- north_city
 title: The Winding Stair
 type: poi
 ---

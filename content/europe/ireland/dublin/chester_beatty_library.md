@@ -9,7 +9,7 @@ snippet: World-class collection of Islamic, Asian, and European manuscripts; con
 tags:
 - things_to_do
 - museum
-- temple_bar
+- medieval_quarter
 title: Chester Beatty Library
 type: poi
 url: https://chesterbeatty.ie

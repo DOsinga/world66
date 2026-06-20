@@ -2,7 +2,6 @@
 title: Rambla del Poblenou
 type: poi
 tags:
-- things_to_do
 - bars_and_cafes
 - sant_marti
 latitude: 41.4007

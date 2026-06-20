@@ -2,7 +2,6 @@
 title: Carrer de Blai
 type: poi
 tags:
-- things_to_do
 - eating_out
 - poble_sec
 latitude: 41.3727

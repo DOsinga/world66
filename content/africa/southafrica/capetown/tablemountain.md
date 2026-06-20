@@ -13,6 +13,7 @@ snippet: Flat-topped icon of Cape Town with cable car and hiking trails
 tags:
 - things_to_do
 - sight
+- city_bowl
 title: Table Mountain
 type: poi
 score: 9.8

@@ -9,7 +9,7 @@ snippet: Home to Pontormo's extraordinary Mannerist Deposition
 tags:
 - things_to_do
 - church
-- centro_storico
+- oltrarno
 title: Santa Felicita
 type: poi
 ---

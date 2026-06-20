@@ -7,7 +7,6 @@ snippet: Natural limestone cave at the foot of Wawel Hill, associated with the l
 tags:
 - things_to_do
 - sight
-- stare_miasto
 - wawel
 title: Wawel Dragon's Cave
 type: poi

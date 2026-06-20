@@ -1,10 +1,9 @@
 ---
-done:
-  poi_cleanup: '2026-04-19'
 latitude: 50.0625
 longitude: 19.9215
 score: 8.2
-snippet: Poland's largest gallery of 20th-century Polish art
+snippet: Poland's largest gallery of 20th-century Polish art, spread across multiple
+  branch museums citywide
 tags:
 - things_to_do
 - museum

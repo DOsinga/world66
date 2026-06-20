@@ -1,17 +1,16 @@
 ---
-latitude: 50.0502
-longitude: 19.9462
-score: 6.7
-snippet: Strip of restaurants and cafés on Szeroka Street at the heart of historic
-  Kazimierz
+latitude: 50.0501
+longitude: 19.9463
+score: 7.5
+snippet: Jewish Galician restaurant in a former mikvah on Szeroka Street with nightly klezmer music
 tags:
 - eating_out
 - kazimierz
 - restaurant
-title: Café Szeroka 1
+title: Klezmer Hois
 type: poi
 ---
 
-The restaurants and cafes on and around Szeroka Street in Kazimierz offer a version of Central European Jewish cooking that has been reconstructed from historical recipes: borscht, cholent, gefilte fish, tzimmes, and the various Shabbat dishes that formed the traditional diet of the Ashkenazi community that lived in this quarter for centuries. Several restaurants along the street compete for the same heritage and the same tourist audience, but the best of them — including Café Szeroka 1 — take the cooking seriously and provide a genuinely good meal.
+Klezmer Hois occupies a former mikvah (ritual bathhouse) at Szeroka 6, in the heart of Kazimierz, and serves traditional Galician Jewish cuisine: cholent, gefilte fish, matzo ball soup, and the various stewed and pickled dishes that formed the everyday diet of the Ashkenazi community that lived in this quarter for centuries. The dining rooms keep their old furniture and faded photographs, giving the place a lived-in, unstaged feel that's rare on a street with several more theatrical competitors.
 
-The tables outside on warm evenings, with the Old Synagogue lit up across the square and klezmer musicians playing in the courtyard, create an atmosphere that is admittedly somewhat manufactured but not entirely inauthentic — the street has been the social centre of Kazimierz's Jewish life for 500 years, and the current revival carries more history in it than the tourist-trap version suggests. The chickpea stew, the apple cake, and the herring plates are all worth trying.
+Live klezmer music plays most evenings, drawing a mix of tourists and locals rather than a purely tour-bus crowd. It works as a sit-down dinner or just a coffee and a slice of cake at the attached café. Reservations are worth making on weekends, when the small dining rooms fill quickly.

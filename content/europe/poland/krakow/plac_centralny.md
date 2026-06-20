@@ -1,16 +1,16 @@
 ---
-title: "Plac Centralny"
-type: poi
-category: "Sight"
-address: "Plac Centralny im. Ronalda Reagana, Nowa Huta, Kraków"
-admission: "Free"
+address: Plac Centralny im. Ronalda Reagana, Nowa Huta, Kraków
+admission: Free
+category: Sight
 latitude: 50.0719
 longitude: 20.0376
+score: 7.2
+snippet: Monumental central square of Nowa Huta, the planned socialist town
 tags:
 - things_to_do
 - nowa_huta
-snippet: "The monumental central square of the planned socialist town"
-score: 7.2
+title: Plac Centralny
+type: poi
 ---
 
 The heart of Nowa Huta and the showpiece of Poland's most complete piece of Socialist Realist town planning. Laid out from 1949, the square is a vast pentagonal space from which five broad avenues radiate like the spokes of a half-wheel, framed by monumental apartment blocks whose arcaded ground floors and Renaissance-borrowed proportions dress communist housing in the clothes of a classical city.

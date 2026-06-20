@@ -16,7 +16,6 @@ story: 'Oskar Schindler was not a hero by instinct. He came to Krakow as a war p
 tags:
 - things_to_do
 - museum
-- kazimierz
 - podgorze
 title: Schindler's Factory Museum
 type: poi

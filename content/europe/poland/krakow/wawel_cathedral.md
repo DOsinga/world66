@@ -15,7 +15,6 @@ story: 'The Sigismund Bell, hung in the Sigismund Tower in 1521, is the largest 
 tags:
 - things_to_do
 - sight
-- stare_miasto
 - wawel
 title: Wawel Cathedral
 type: poi

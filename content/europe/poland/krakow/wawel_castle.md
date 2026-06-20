@@ -15,7 +15,6 @@ tags:
 - things_to_do
 - sight
 - museum
-- stare_miasto
 - wawel
 title: Wawel Castle
 type: poi

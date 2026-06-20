@@ -1,7 +1,7 @@
 ---
 address: Piazza della Signoria 5/r, 50122 Florence
-latitude: 43.7684
-longitude: 11.2533
+latitude: 43.7691
+longitude: 11.2552
 opening_hours: Tue–Sun 07:30–midnight; closed Mon
 score: 6.4
 snippet: Historic cafe on Piazza della Signoria with Palazzo Vecchio views

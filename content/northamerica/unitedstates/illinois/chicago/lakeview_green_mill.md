@@ -7,7 +7,6 @@ snippet: Jazz bar on Broadway in Uptown open since 1907, former Capone haunt and
 tags:
 - things_to_do
 - bars_and_cafes
-- lakeview
 title: Green Mill Cocktail Lounge
 type: poi
 ---

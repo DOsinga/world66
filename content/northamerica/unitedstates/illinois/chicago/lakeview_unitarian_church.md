@@ -7,7 +7,6 @@ snippet: Small museum in Andersonville documenting the history of Swedish immigr
 tags:
 - things_to_do
 - museum
-- lakeview
 title: Swedish-American Museum
 type: poi
 ---

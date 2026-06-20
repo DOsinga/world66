@@ -7,7 +7,6 @@ snippet: Chicago Children's Museum at Navy Pier with hands-on exhibits spanning 
 tags:
 - things_to_do
 - museum
-- old_town
 title: Chicago Children's Museum
 type: poi
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 1.291
 longitude: 103.847
 score: 6.2
-snippet: Singapore's flagship superclub with multiple dance rooms
+snippet: Singapore's most famous superclub since 1991 — multiple rooms spanning house, techno, and hip-hop
 tags:
 - nightlife
 - club
@@ -13,6 +13,6 @@ title: Zouk
 type: poi
 ---
 
-Singapore's most famous nightclub and consistently ranked among Asia's best. Zouk has been a fixture of the city's nightlife since 1991, though it relocated from its original Jiak Kim Street warehouse to a larger venue at Clarke Quay in 2016. The complex houses multiple rooms — the main Zouk floor for electronic and house music, Phuture for hip-hop, and Capital for a more upscale lounge vibe.
+Singapore's most famous nightclub and consistently ranked among Asia's best. Zouk has been a fixture of the city's nightlife since 1991, though it relocated from its original Jiak Kim Street warehouse to a larger venue at Clarke Quay in 2016. The complex houses multiple rooms — the main Zouk floor for electronic and house music, Phuture for hip-hop and R&B (looser crowd, good entry point for the night), and Capital for a more upscale lounge vibe.
 
 Expect queues on Friday and Saturday nights. Dress codes are enforced and entry fees vary depending on the night and the DJ. Wednesday is the traditional locals' night out.

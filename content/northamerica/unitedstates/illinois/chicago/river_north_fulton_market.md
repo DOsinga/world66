@@ -7,6 +7,7 @@ snippet: Chicago's most concentrated restaurant district, a former meatpacking a
 tags:
 - things_to_do
 - restaurant
+- west_loop
 title: Fulton Market District
 type: poi
 ---

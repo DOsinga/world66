@@ -5,7 +5,6 @@ score: 6.8
 tags:
 - bars_and_cafes
 - eating_out
-- lalatina
 - sol
 title: Chocolatería San Ginés
 type: poi

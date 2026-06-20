@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - salamanca
 - museum
-- chamberi_barrio
 title: Museo Lázaro Galdiano
 type: poi
 ---

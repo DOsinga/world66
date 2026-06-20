@@ -6,7 +6,6 @@ tags:
 - bars_and_cafes
 - eating_out
 - huertas
-- lalatina
 title: Casa Patas
 type: poi
 ---

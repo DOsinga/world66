@@ -11,6 +11,10 @@ tags:
 - neighbourhood
 title: Malasaña
 type: neighbourhood
+image: malasana.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Madrid_-_Malasa%C3%B1a,_Plaza_Juan_Pujol_1.jpg
+image_license: CC0
+image_attribution: Zarateman
 ---
 
 Madrid's bohemian quarter, north of Gran Vía and west of Chueca, centred on **Plaza del Dos de Mayo**. The neighbourhood was the cradle of the **Movida madrileña** — the post-Franco cultural explosion of the late 1970s and early 1980s — and still carries the flag for independent music venues, design shops, vintage clothing, vegetarian and brunch cafés, and the inevitable thicket of speciality coffee bars.

@@ -10,7 +10,6 @@ tags:
 - landmark
 - art
 - arguelles
-- malasana
 title: Palacio de Liria
 type: poi
 ---

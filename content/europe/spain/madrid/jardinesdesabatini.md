@@ -5,8 +5,6 @@ score: 7.1
 tags:
 - things_to_do
 - sight
-- arguelles
-- sol
 title: Jardines de Sabatini
 type: poi
 ---

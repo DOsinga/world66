@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - sight
 - huertas
-- retiro_barrio
 title: Plaza de Cibeles
 type: poi
 ---

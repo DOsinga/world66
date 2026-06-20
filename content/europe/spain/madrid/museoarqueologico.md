@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - salamanca
 - museum
-- chamberi_barrio
 title: Museo Arqueológico Nacional
 type: poi
 ---

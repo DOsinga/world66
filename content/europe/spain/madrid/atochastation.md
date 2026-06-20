@@ -6,8 +6,6 @@ tags:
 - things_to_do
 - sight
 - architecture
-- huertas
-- retiro_barrio
 title: Atocha Station
 type: poi
 ---

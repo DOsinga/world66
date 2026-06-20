@@ -5,7 +5,6 @@ score: 8.5
 tags:
 - things_to_do
 - museum
-- huertas
 - sol
 title: Real Academia de Bellas Artes
 type: poi

@@ -7,7 +7,6 @@ tags:
 - sight
 - architecture
 - huertas
-- retiro_barrio
 title: Palacio de Cibeles
 type: poi
 ---

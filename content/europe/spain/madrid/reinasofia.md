@@ -9,7 +9,6 @@ story: Picasso painted Guernica in just a few weeks in 1937 for the Spanish Pavi
 tags:
 - things_to_do
 - museum
-- huertas
 - lavapies
 title: Reina Sofía
 type: poi

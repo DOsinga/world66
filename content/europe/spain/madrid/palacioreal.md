@@ -3,16 +3,14 @@ address: Plaza de Oriente
 latitude: 40.418
 longitude: -3.7143
 phone: +34 91 454 88 00
+score: 8.9
 snippet: Europe's largest royal palace, still used for state ceremonies
 tags:
 - things_to_do
 - landmark
-- sol
-- arguelles
 title: Palacio Real
 type: poi
 url: www.patrimonionacional.es
-score: 8.9
 ---
 
 The Palacio Real is the official residence of the Spanish monarchy, though the royal family actually lives elsewhere — this one's for ceremonies and tourists. And what a building: over 3,000 rooms make it the largest functioning royal palace in Europe, bigger than Buckingham Palace or Versailles.

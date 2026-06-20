@@ -9,8 +9,6 @@ snippet: Historic locomotives and carriages in a grand 19th-century station
 tags:
 - things_to_do
 - museum
-- retiro
-- lavapies
 title: Railway Museum
 type: poi
 ---

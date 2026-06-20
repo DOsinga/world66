@@ -2,16 +2,15 @@
 address: Paseo del Prado, 36
 latitude: 40.41114
 longitude: -3.693568
+score: 7.3
 snippet: Free cultural centre with a five-storey vertical garden
 tags:
 - things_to_do
 - architecture
 - retiro
-- retiro_barrio
 - huertas
 title: CaixaForum and Vertical Garden
 type: poi
-score: 7.3
 ---
 
 CaixaForum Madrid is a free cultural centre housed in a striking converted power station on Paseo del Prado. The building appears to float above street level, with its brick facade cantilevered over an open ground floor. Inside, two floors of large exhibition halls host rotating temporary shows -- the programming is consistently strong and always free.

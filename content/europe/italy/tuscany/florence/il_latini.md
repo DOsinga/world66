@@ -7,7 +7,7 @@ snippet: Famously boisterous Florentine trattoria where strangers share long tab
   under hanging prosciuttos
 tags:
 - eating_out
-- oltrarno
+- santa_maria_novella_quarter
 title: Il Latini
 type: poi
 ---

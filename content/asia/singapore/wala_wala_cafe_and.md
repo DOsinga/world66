@@ -7,7 +7,6 @@ longitude: 103.796
 phone: +65 6733 9400
 snippet: Holland Village bar with live music and a loyal expat crowd
 tags:
-- things_to_do
 - bars_and_cafes
 title: Wala Wala Cafe and Bar
 type: poi

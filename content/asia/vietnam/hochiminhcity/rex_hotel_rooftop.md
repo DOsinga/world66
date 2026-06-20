@@ -15,7 +15,6 @@ story: 'The daily US military press briefings held at the Rex Hotel were nicknam
 
   '
 tags:
-- things_to_do
 - bars_and_cafes
 - bar
 - landmark

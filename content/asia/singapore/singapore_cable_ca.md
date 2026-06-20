@@ -9,6 +9,7 @@ snippet: Gondola link from Mount Faber to Sentosa with harbour views
 tags:
 - things_to_do
 - beaches
+- sentosa
 title: Singapore Cable Car
 type: poi
 score: 6.7

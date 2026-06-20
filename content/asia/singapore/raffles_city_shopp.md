@@ -7,7 +7,6 @@ longitude: 103.8526
 score: 5.5
 snippet: Major mall above City Hall MRT with dining and retail
 tags:
-- things_to_do
 - shopping
 - bugis
 title: Raffles City Shopping Centre

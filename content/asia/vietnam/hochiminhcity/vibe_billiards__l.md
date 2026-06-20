@@ -6,7 +6,6 @@ tags:
 - bar
 - district_1
 address: 102 Suong Nguyet Anh, Ben Thanh Ward, District 1
-neighbourhood: District 1
 score: 4.6
 ---
 

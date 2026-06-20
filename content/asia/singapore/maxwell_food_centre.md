@@ -4,9 +4,9 @@ longitude: 103.8447
 score: 8.2
 snippet: Famous Chinatown hawker centre, home of Tian Tian chicken rice
 tags:
-- things_to_do
 - eating_out
 - chinatown
+- tanjong_pagar
 title: Maxwell Food Centre
 type: poi
 image: maxwell_food_centre.jpg

@@ -4,7 +4,6 @@ longitude: 103.9071
 score: 6.7
 snippet: Beloved old-school Katong kopitiam famous for kaya toast and buns
 tags:
-- things_to_do
 - eating_out
 - katong_joo_chiat
 title: Chin Mee Chin Confectionery

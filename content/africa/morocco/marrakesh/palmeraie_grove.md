@@ -8,7 +8,6 @@ tags:
 - things_to_do
 - sight
 - garden
-- palmeraie
 title: Palmeraie Palm Grove
 type: poi
 ---

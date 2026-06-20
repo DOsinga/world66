@@ -5,7 +5,6 @@ score: 7.1
 tags:
 - things_to_do
 - sight
-- agdal
 title: Agdal Gardens
 type: poi
 ---

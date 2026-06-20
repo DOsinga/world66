@@ -6,8 +6,7 @@ longitude: 72.883257
 score: 8.7
 snippet: ancient Buddhist caves carved into a national park cliff
 tags:
-- things_to_do
-- park
+- day_trips
 title: Kanheri Caves
 type: poi
 ---

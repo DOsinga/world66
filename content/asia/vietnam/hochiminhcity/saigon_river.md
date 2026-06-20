@@ -6,7 +6,6 @@ snippet: The city's working waterfront, with boat tours and views of the river t
 tags:
 - things_to_do
 - sight
-- neighbourhood
 - ben_thanh
 title: Saigon River Waterfront
 type: poi

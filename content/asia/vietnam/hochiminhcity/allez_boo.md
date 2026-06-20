@@ -2,7 +2,8 @@
 latitude: 10.768515
 longitude: 106.693216
 score: 4.7
-snippet: Long-running backpacker bar on Pham Ngu Lao
+snippet: Long-running backpacker bar on Pham Ngu Lao with cheap drinks and a mixed
+  local and tourist crowd
 tags:
 - bars_and_cafes
 - bar

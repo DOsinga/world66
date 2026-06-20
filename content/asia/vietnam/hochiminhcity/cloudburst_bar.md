@@ -5,7 +5,8 @@ done:
 latitude: 10.768044
 longitude: 106.693639
 score: 5.9
-snippet: Late-night backpacker bar with indie and rock music
+snippet: Late-night backpacker bar on Bui Vien playing indie and rock, open until
+  the last person leaves
 tags:
 - bars_and_cafes
 - bar

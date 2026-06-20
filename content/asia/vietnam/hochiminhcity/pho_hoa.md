@@ -2,13 +2,14 @@
 latitude: 10.7757
 longitude: 106.6879
 score: 7.8
-snippet: Famous pho restaurant on Pasteur Street, open since 1960
+snippet: Famous pho shop on Pasteur Street operating since 1960, known for its rich
+  northern-style bone broth
 tags:
 - eating_out
 - restaurant
 - vietnamese
 - pho
-- pham_ngu_lao
+- district_1
 title: Phở Hòa
 type: poi
 ---

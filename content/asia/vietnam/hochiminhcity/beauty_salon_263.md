@@ -6,7 +6,6 @@ snippet: Tree-lined District 3 street with some of the best independent restaura
   and cafes in Saigon
 tags:
 - eating_out
-- neighbourhood
 - district_3
 title: Vo Van Tan Street (District 3 Restaurant Row)
 type: poi

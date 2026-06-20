@@ -1,13 +1,15 @@
 ---
-title: "Suối Tiên Theme Park"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.8699
 longitude: 106.8343
-snippet: "Buddhist-themed waterpark on the edge of the city — an extraordinary cultural experience"
 score: 8.0
+snippet: Buddhist-themed waterpark on the edge of the city — an extraordinary cultural
+  experience
+tags:
+- things_to_do
+- sight
+- day_trips
+title: Suối Tiên Theme Park
+type: poi
 ---
 
 Suối Tiên Cultural Park is one of the most remarkable theme parks in the world — a Buddhist-themed waterpark and amusement complex on the northeastern edge of Ho Chi Minh City. Giant statues of dragons, kings, and Buddhist deities tower over a combination of water slides, traditional performances, temples, and a crocodile farm. The aesthetic is relentlessly maximalist.

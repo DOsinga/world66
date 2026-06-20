@@ -4,7 +4,8 @@ done:
 latitude: 10.7769
 longitude: 106.7032
 score: 6.1
-snippet: Stylish cocktail bar opposite the Opera House
+snippet: Stylish cocktail bar opposite the Opera House — one of HCMC's most polished
+  late-night venues
 tags:
 - bars_and_cafes
 - bar

@@ -2,7 +2,8 @@
 latitude: 10.7657
 longitude: 106.6908
 score: 5.3
-snippet: Reliable, locally-run budget restaurant on Bui Vien Street
+snippet: Reliable locally-run com binh dan on Bui Vien Street — heaped rice plates
+  at street prices with no tourist markup
 tags:
 - eating_out
 - restaurant

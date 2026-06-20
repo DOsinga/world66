@@ -8,7 +8,6 @@ tags:
 - eating_out
 - restaurant
 - vietnamese
-- pham_ngu_lao
 title: Cơm Tấm Nguyễn Văn Cừ
 type: poi
 ---

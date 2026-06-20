@@ -4,7 +4,8 @@ done:
 latitude: 10.7769
 longitude: 106.7009
 score: 5.1
-snippet: Downtown wine bar with Western comforts and prices
+snippet: Downtown wine bar in District 1 with an extensive international list and
+  reliably Western-standard service
 tags:
 - bars_and_cafes
 - bar

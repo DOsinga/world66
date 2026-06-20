@@ -19,7 +19,7 @@ tags:
 - sight
 - landmark
 - history
-- district_1
+- district_3
 title: Thích Quảng Đức Monument
 type: poi
 ---

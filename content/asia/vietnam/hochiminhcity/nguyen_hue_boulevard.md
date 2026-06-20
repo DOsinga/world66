@@ -8,7 +8,6 @@ sources:
 tags:
 - things_to_do
 - sight
-- neighbourhood
 - district_1
 title: Nguyen Hue Boulevard
 type: poi

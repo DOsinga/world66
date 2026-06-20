@@ -7,7 +7,6 @@ snippet: Working street market on Nguyen Trai — fresh produce, herbs, and spic
 tags:
 - shopping
 - market
-- pham_ngu_lao
 title: Nguyen Trai Street Market
 type: poi
 ---

@@ -11,7 +11,7 @@ tags:
 - sight
 - architecture
 - viewpoint
-- ben_thanh
+- district_1
 title: Bitexco Financial Tower
 type: poi
 ---

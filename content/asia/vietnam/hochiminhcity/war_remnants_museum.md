@@ -17,7 +17,7 @@ tags:
 - things_to_do
 - museum
 - history
-- district_1
+- district_3
 title: War Remnants Museum
 type: poi
 ---

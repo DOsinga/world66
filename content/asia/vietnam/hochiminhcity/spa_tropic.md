@@ -2,7 +2,8 @@
 latitude: 10.784
 longitude: 106.6869
 score: 5.7
-snippet: Long-established luxury spa in a villa in District 3
+snippet: Long-established luxury spa in a restored colonial villa in District 3, offering
+  traditional Vietnamese treatments
 tags:
 - things_to_do
 - spa

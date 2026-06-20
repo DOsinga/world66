@@ -6,7 +6,7 @@ longitude: 9.1864
 opening_hours: Mon–Fri 08:30–12:00, 15:00–18:30; Sat 10:00–12:00, 15:00–18:30; Sun
   10:00–12:30
 score: 8.2
-snippet: Bramante 1480s church with a trompe-l oeil choir that creates the illusion
+snippet: Bramante 1480s church with a trompe-l'oeil choir that creates the illusion
   of depth
 story: 'Architect Donato Bramante faced a problem when he designed this church in
   1476: the street behind the apse left no room for a real choir. His solution was

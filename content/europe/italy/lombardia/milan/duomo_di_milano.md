@@ -6,7 +6,8 @@ latitude: 45.4641
 longitude: 9.1919
 opening_hours: Daily 08:00–19:00; rooftop terraces 09:00–19:00
 score: 9.7
-snippet: Gothic cathedral with rooftop walks among 135 marble spires
+snippet: Gothic cathedral at the heart of Milan, with rooftop walks among 135 marble
+  spires and views to the Alps
 story: 'Napoleon Bonaparte chose the Duomo as the site of his coronation as King of
   Italy in May 1805. He placed the Iron Crown of Lombardy on his own head — just as
   Charlemagne had done a thousand years earlier — reportedly saying "God gave it to

@@ -6,11 +6,11 @@ latitude: 45.4396
 longitude: 9.2044
 opening_hours: Mon, Wed–Fri 09:00–21:00; Sat–Sun 09:00–21:00; closed Tue
 score: 6.6
-snippet: Wes Anderson-designed cafe inside Fondazione Prada
+snippet: Wes Anderson-designed cafe inside Fondazione Prada with 1950s Milanese decor
+  and excellent pastries
 tags:
 - bars_and_cafes
 - cafe
-- porta_romana
 title: Bar Luce
 type: poi
 ---

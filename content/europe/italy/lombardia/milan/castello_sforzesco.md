@@ -9,7 +9,8 @@ longitude: 9.1797
 opening_hours: Castle grounds daily 07:00–19:30; museums Tue–Sun 09:00–17:30; closed
   Mon
 score: 8.8
-snippet: 15th-century fortress with Michelangelo's final unfinished Pietà
+snippet: 15th-century fortress housing Michelangelo's final unfinished Pietà and Milan's
+  most comprehensive museum complex
 tags:
 - things_to_do
 - sight

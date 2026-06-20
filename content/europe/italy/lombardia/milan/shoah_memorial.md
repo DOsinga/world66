@@ -18,7 +18,6 @@ tags:
 - things_to_do
 - sight
 - museum
-- porta_nuova
 title: Shoah Memorial of Milan (Memoriale della Shoah)
 type: poi
 url: www.memorialeshoah.it

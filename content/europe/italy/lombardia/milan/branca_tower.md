@@ -5,7 +5,8 @@ latitude: 45.473
 longitude: 9.1729
 opening_hours: Wed, Sat, Sun (hours vary by season); closed Mon, Tue, Thu, Fri
 score: 5.9
-snippet: Gio Ponti's 1933 steel tower with panoramic city views
+snippet: Gio Ponti's 1933 steel observation tower in Parco Sempione with 360-degree
+  panoramic views across Milan
 tags:
 - things_to_do
 - sight

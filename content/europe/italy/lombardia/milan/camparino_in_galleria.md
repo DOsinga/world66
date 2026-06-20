@@ -5,7 +5,8 @@ latitude: 45.4654
 longitude: 9.1908
 opening_hours: Tue–Sun 08:00–20:00; closed Mon
 score: 7.4
-snippet: Art Nouveau birthplace of the Campari Soda since 1915
+snippet: Art Nouveau bar in the Galleria and birthplace of the Campari Soda, open
+  continuously since 1915
 tags:
 - bars_and_cafes
 - bar

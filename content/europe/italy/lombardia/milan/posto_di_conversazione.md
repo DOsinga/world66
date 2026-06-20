@@ -4,11 +4,12 @@ latitude: 45.4589
 longitude: 9.1835
 opening_hours: Mon–Sat 12:00–14:30, 19:00–22:30; closed Sun
 score: 7.2
-snippet: Textbook risotto alla Milanese in a neighbourhood trattoria
+snippet: Beloved neighbourhood trattoria in Ticinese serving textbook risotto alla
+  Milanese and braised meats
 tags:
 - eating_out
 - restaurant
-- centro_storico
+- ticinese
 title: Posto di Conversazione
 type: poi
 ---

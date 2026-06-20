@@ -5,7 +5,8 @@ latitude: 45.4756
 longitude: 9.2077
 opening_hours: Wed–Mon 09:00–01:30; closed Tue
 score: 7.4
-snippet: Birthplace of the Negroni Sbagliato, open since 1947
+snippet: Birthplace of the Negroni Sbagliato, open since 1947 — Milan's definitive
+  late-night aperitivo institution
 tags:
 - bars_and_cafes
 - porta_venezia

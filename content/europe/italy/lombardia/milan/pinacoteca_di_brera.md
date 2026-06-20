@@ -8,7 +8,8 @@ latitude: 45.4718
 longitude: 9.188
 opening_hours: Tue–Sun 08:30–19:15; closed Mon
 score: 9.1
-snippet: Milan's finest art gallery with Italian masters across centuries
+snippet: Milan's finest public art gallery, housing Raphael, Caravaggio, and Mantegna
+  across 38 rooms in a Baroque palazzo
 tags:
 - things_to_do
 - museum

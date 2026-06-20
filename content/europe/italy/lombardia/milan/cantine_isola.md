@@ -10,7 +10,6 @@ snippet: Family-run wine bar in Chinatown with superb Lombard wines by the glass
 tags:
 - bars_and_cafes
 - bar
-- isola
 title: Cantine Isola
 type: poi
 ---

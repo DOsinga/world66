@@ -17,7 +17,6 @@ tags:
 - things_to_do
 - sight
 - architecture
-- isola
 title: Monumental Cemetery (Cimitero Monumentale)
 type: poi
 ---

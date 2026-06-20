@@ -5,7 +5,8 @@ category: Architecture
 latitude: 45.4849
 longitude: 9.1931
 score: 6.9
-snippet: Plant-covered twin towers redefining urban architecture
+snippet: Plant-covered twin residential towers in Porta Nuova — a landmark of contemporary
+  Milanese architecture
 tags:
 - things_to_do
 - architecture

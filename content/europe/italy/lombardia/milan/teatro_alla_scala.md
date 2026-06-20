@@ -6,7 +6,8 @@ latitude: 45.4674
 longitude: 9.1895
 opening_hours: 'Museum: daily 09:00–17:30; performances vary'
 score: 8.1
-snippet: World-famous opera house, home to Verdi and Puccini premieres
+snippet: World-famous opera house where Verdi and Puccini premiered major works —
+  book season tickets months ahead
 tags:
 - things_to_do
 - sight

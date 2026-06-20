@@ -8,11 +8,11 @@ latitude: 45.4396
 longitude: 9.2042
 opening_hours: Mon, Wed–Fri 10:00–19:00; Sat–Sun 10:00–21:00; closed Tue
 score: 8.9
-snippet: Koolhaas-designed contemporary art complex in a converted distillery
+snippet: Rem Koolhaas-designed contemporary art complex across a converted 1910 distillery
+  with permanent and rotating collections
 tags:
 - things_to_do
 - museum
-- porta_romana
 title: Fondazione Prada
 type: poi
 url: www.fondazioneprada.org

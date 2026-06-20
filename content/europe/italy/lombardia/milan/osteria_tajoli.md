@@ -5,11 +5,12 @@ latitude: 45.4622
 longitude: 9.1873
 opening_hours: Mon–Sat 12:00–15:00, 19:00–23:00; closed Sun
 score: 6.8
-snippet: Old-school Milanese trattoria with wood-roasted meats
+snippet: Old-school trattoria in the centro storico serving wood-roasted meats and
+  classic risotto alla Milanese
 tags:
 - eating_out
 - restaurant
-- brera
+- centro_storico
 title: Osteria Tajoli
 type: poi
 ---

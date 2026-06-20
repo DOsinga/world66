@@ -3,7 +3,8 @@ address: Via Montenapoleone, 20121 Milan
 latitude: 45.4696
 longitude: 9.1968
 score: 5.8
-snippet: Milan's luxury fashion district with flagship designer stores
+snippet: Milan's luxury fashion street anchoring the Quadrilatero della Moda — Prada,
+  Versace, and Valentino flagship stores
 tags:
 - things_to_do
 - shopping

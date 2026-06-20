@@ -5,7 +5,8 @@ latitude: 45.466
 longitude: 9.1706
 opening_hours: Tue–Sun 08:15–19:00; closed Mon
 score: 9.5
-snippet: Leonardo's Last Supper in a UNESCO church
+snippet: UNESCO-listed Dominican church housing Leonardo's Last Supper — book tickets
+  months in advance
 story: 'The Last Supper almost did not survive the 20th century. In August 1943, Allied
   bombs destroyed the surrounding refectory walls — but sandbagged scaffolding erected
   around the painting held, and the fresco survived. The empty roofless ruin stood

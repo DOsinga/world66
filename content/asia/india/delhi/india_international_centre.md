@@ -7,7 +7,7 @@ snippet: Premier New Delhi cultural institution hosting lectures, exhibitions, a
 tags:
 - things_to_do
 - culture
-- defence_colony
+- lodhi_colony
 title: India International Centre
 type: poi
 ---

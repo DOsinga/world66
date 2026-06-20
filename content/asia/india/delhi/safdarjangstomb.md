@@ -3,7 +3,7 @@ latitude: 28.589325
 longitude: 77.212568
 score: 7.5
 tags:
-- defence_colony
+- lodhi_colony
 title: Safdarjang Tomb
 type: poi
 ---

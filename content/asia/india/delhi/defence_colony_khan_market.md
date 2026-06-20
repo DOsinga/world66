@@ -8,7 +8,6 @@ tags:
 - things_to_do
 - shopping
 - restaurant
-- defence_colony
 - lodhi_colony
 title: Khan Market
 type: poi

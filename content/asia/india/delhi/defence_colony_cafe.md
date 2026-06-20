@@ -7,7 +7,7 @@ snippet: Café at the National Crafts Museum serving regional Indian dishes in a
 tags:
 - restaurant
 - bars_and_cafes
-- defence_colony
+- lutyens
 title: Cafe Lota
 type: poi
 ---

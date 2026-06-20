@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - park
 - historic
-- defence_colony
+- lodhi_colony
 title: Safdarjung's Tomb Gardens
 type: poi
 ---

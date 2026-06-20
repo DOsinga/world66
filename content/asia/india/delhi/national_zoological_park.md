@@ -7,7 +7,7 @@ snippet: 176-acre zoo between Purana Qila and the Yamuna, home to white tigers a
 tags:
 - things_to_do
 - park
-- old_delhi
+- lutyens
 title: National Zoological Park Delhi
 type: poi
 ---

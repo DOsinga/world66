@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - art
 - culture
-- lodhi_colony
+- lutyens
 title: Triveni Kala Sangam
 type: poi
 ---

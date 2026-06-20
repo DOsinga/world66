@@ -12,6 +12,7 @@ tags:
 - bars_and_cafes
 - eating_out
 - chamberi_barrio
+- malasana
 title: Café Comercial
 type: poi
 ---

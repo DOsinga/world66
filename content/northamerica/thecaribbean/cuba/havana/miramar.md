@@ -1,17 +1,17 @@
 ---
-title: Miramar
-type: neighbourhood
-latitude: 23.135
-longitude: -82.42
+image: miramar.jpg
+image_attribution: Happypepe
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Quinta_avenida.jpg
+latitude: 23.13
+longitude: -82.415
+snippet: Leafy residential district of embassies and pre-revolution mansions west
+  of Vedado
 tags:
 - things_to_do
 - neighbourhood
-snippet: Leafy residential district of embassies and pre-revolution mansions west
-  of Vedado
-image: miramar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Quinta_avenida.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Happypepe
+title: Miramar
+type: neighbourhood
 ---
 
 Miramar is the wealthiest neighbourhood in Havana — a broad grid of tree-lined avenues west of Vedado where pre-revolution mansions, now converted to embassies and government offices, sit behind high walls and gardens. The Fifth Avenue (Quinta Avenida) is the main artery: a divided boulevard planted with royal palms and lined with some of the grandest houses in Cuba.

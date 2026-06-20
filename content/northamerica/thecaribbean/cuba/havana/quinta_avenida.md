@@ -1,13 +1,13 @@
 ---
-title: Quinta Avenida (Fifth Avenue)
-type: poi
-latitude: 23.1350
-longitude: -82.4210
+latitude: 23.132
+longitude: -82.43
 score: 8.0
 tags:
 - things_to_do
 - sight
 - miramar
+title: Quinta Avenida (Fifth Avenue)
+type: poi
 ---
 
 Quinta Avenida (Fifth Avenue) is Miramar's main boulevard — a broad divided avenue planted with royal palms and lined with some of the finest houses in Cuba. Constructed in the early 20th century as the address of Havana's wealthy elite, the avenue is now home to embassies, government offices, and a few surviving private residences. The scale and greenery make it one of the most pleasant streets in Havana to walk or cycle.

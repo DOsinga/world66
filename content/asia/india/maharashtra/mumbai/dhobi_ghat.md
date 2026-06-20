@@ -11,6 +11,7 @@ story: 'Dhobi Ghat was established in the early 19th century and has operated co
   '
 tags:
 - lower_parel
+title: Dhobi Ghat
 type: poi
 ---
 

@@ -2,6 +2,7 @@
 latitude: 19.041
 longitude: 72.8541
 score: 7.5
+title: Dharavi
 type: poi
 ---
 

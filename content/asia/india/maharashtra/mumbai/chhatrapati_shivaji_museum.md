@@ -12,6 +12,7 @@ story: 'The museum building itself — designed by George Wittet and opened in 1
   '
 tags:
 - colaba
+title: Chhatrapati Shivaji Museum
 type: poi
 ---
 

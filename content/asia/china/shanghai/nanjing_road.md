@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - the_bund
+title: Nanjing Road
 type: poi
 ---
 

@@ -11,6 +11,7 @@ tags:
 - museum
 - huertas
 - lavapies
+title: Reina Sofía
 type: poi
 ---
 

@@ -11,6 +11,7 @@ story: 'The basalt column at Gilbert Hill is geologically identical to the basal
   '
 tags:
 - andheri
+title: Gilbert Hill
 type: poi
 ---
 

@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - lakeview
+title: Schubas Tavern
 type: poi
 ---
 

@@ -7,6 +7,7 @@ tags:
 - sight
 - architecture
 - sol
+title: Gran Vía
 type: poi
 ---
 

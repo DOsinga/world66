@@ -6,6 +6,7 @@ sources:
 - https://en.wikipedia.org/wiki/Agrasen_ki_Baoli
 tags:
 - lutyens
+title: Agrasen Ki Baoli
 type: poi
 ---
 

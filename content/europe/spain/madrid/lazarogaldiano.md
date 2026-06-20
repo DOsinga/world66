@@ -7,6 +7,7 @@ tags:
 - salamanca
 - museum
 - chamberi_barrio
+title: Museo Lázaro Galdiano
 type: poi
 ---
 

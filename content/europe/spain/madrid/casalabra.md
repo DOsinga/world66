@@ -12,6 +12,7 @@ tags:
 - bar
 - lalatina
 - sol
+title: Casa Labra
 type: poi
 ---
 

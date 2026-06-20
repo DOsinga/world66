@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - malasana
+title: Templo San Antonio
 type: poi
 ---
 

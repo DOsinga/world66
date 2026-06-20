@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - sight
 - arguelles
+title: Casa de Campo
 type: poi
 ---
 

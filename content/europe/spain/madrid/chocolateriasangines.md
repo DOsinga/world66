@@ -7,6 +7,7 @@ tags:
 - eating_out
 - lalatina
 - sol
+title: Chocolatería San Ginés
 type: poi
 ---
 

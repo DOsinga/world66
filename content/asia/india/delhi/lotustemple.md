@@ -5,6 +5,7 @@ longitude: 77.258601
 score: 7.9
 tags:
 - hauz_khas_village
+title: Lotus Temple
 type: poi
 ---
 

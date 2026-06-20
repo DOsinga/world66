@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - xintiandi
+title: Site of the First CCP Congress
 type: poi
 ---
 

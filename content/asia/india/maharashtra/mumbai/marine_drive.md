@@ -11,6 +11,7 @@ story: 'The Art Deco buildings that line Marine Drive were built in a rush in th
   '
 tags:
 - fort_area
+title: Marine Drive
 type: poi
 ---
 

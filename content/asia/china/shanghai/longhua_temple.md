@@ -12,7 +12,7 @@ story: The 40-metre Longhua Pagoda has stood here since 977 AD, making it one of
 tags:
 - things_to_do
 - sight
-- french_concession
+title: Longhua Temple
 type: poi
 ---
 

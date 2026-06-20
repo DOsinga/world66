@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - chamberi_barrio
+title: Chamberi
 type: poi
 ---
 

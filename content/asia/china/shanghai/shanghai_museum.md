@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - city_center
+title: Shanghai Museum
 type: poi
 ---
 

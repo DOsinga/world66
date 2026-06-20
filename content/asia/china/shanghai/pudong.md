@@ -1,5 +1,9 @@
 ---
 category: Neighbourhood
+image: pudong.jpg
+image_attribution: King of Hearts
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017.jpg
 latitude: 31.2304
 longitude: 121.54
 score: 7.8
@@ -7,6 +11,7 @@ snippet: Shanghai's futuristic skyline district, farmland until 1990
 tags:
 - things_to_do
 - neighbourhood
+title: Pudong
 type: neighbourhood
 ---
 

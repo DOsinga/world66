@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - city_center
+title: Peoples Square
 type: poi
 ---
 

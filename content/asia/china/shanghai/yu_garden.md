@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - old_town
+title: Yu Garden
 type: poi
 ---
 

@@ -6,7 +6,6 @@ snippet: Hands-on science museum at Century Avenue in outer Lujiazui with a plan
 tags:
 - things_to_do
 - museum
-- lujiazui
 title: Shanghai Science and Technology Museum
 type: poi
 ---

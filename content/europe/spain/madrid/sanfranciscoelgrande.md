@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 - lalatina
+title: San Francisco el Grande
 type: poi
 ---
 

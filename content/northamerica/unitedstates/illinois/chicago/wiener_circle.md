@@ -8,6 +8,7 @@ snippet: Late-night hot dogs served with legendary verbal abuse
 tags:
 - eating_out
 - lincoln_park
+title: Wiener Circle
 type: poi
 ---
 

@@ -6,6 +6,7 @@ tags:
 - eating_out
 - salamanca
 - restaurant
+title: Streetxo
 type: poi
 ---
 

@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+title: Gibsons
 type: poi
 ---
 

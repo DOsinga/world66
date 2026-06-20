@@ -7,6 +7,7 @@ tags:
 - shopping
 - market
 - sol
+title: Mercado de San Miguel
 type: poi
 ---
 

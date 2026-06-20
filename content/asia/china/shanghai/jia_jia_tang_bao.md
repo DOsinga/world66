@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+title: Jia Jia Tang Bao
 type: poi
 ---
 

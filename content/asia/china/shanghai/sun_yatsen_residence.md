@@ -9,6 +9,7 @@ tags:
 - museum
 - french_concession
 - tianzifang_area
+title: Sun Yat-sen's Former Residence
 type: poi
 ---
 

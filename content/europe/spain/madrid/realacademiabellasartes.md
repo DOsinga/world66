@@ -7,6 +7,7 @@ tags:
 - museum
 - huertas
 - sol
+title: Real Academia de Bellas Artes
 type: poi
 ---
 

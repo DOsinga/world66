@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - sol
+title: Puerta del Sol
 type: poi
 ---
 

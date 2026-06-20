@@ -11,6 +11,7 @@ tags:
 - la_latina
 - restaurant
 - lalatina
+title: Sobrino de Botín
 type: poi
 ---
 

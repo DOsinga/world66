@@ -7,8 +7,8 @@ snippet: Preserved waterway town south of Pudong with Ming and Qing dynasty ston
 tags:
 - things_to_do
 - sight
-- pudong
-title: Xinchang Ancient Town (Day Trip from Pudong)
+- day_trips
+title: Xinchang Ancient Town
 type: poi
 ---
 

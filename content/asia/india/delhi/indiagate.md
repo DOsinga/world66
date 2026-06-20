@@ -9,6 +9,7 @@ tags:
 - sight
 - monument
 - lutyens
+title: India Gate
 type: poi
 ---
 

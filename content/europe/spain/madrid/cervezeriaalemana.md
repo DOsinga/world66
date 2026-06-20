@@ -7,6 +7,7 @@ tags:
 - eating_out
 - bar
 - huertas
+title: Cervecería Alemana
 type: poi
 ---
 

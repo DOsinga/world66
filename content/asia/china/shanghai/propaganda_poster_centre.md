@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - museum
 - french_concession
+title: Propaganda Poster Centre
 type: poi
 ---
 

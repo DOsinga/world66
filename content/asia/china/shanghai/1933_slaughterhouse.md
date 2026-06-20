@@ -13,6 +13,7 @@ tags:
 - sight
 - architecture
 - hongkou
+title: 1933 Slaughterhouse
 type: poi
 ---
 

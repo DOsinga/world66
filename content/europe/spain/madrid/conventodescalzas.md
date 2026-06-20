@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - sol
+title: Convento de las Descalzas Reales
 type: poi
 ---
 

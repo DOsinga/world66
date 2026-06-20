@@ -2,6 +2,7 @@
 latitude: 28.6435
 longitude: 77.2103
 score: 6.3
+title: Paharganj
 type: poi
 ---
 

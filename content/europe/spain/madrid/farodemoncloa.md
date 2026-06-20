@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - sight
 - arguelles
+title: Faro de Moncloa
 type: poi
 ---
 

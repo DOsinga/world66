@@ -7,6 +7,7 @@ tags:
 - sight
 - arguelles
 - sol
+title: Jardines de Sabatini
 type: poi
 ---
 

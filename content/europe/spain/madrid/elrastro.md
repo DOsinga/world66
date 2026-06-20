@@ -11,6 +11,7 @@ tags:
 - la_latina
 - market
 - lalatina
+title: El Rastro
 type: poi
 ---
 

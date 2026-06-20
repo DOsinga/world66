@@ -2,6 +2,7 @@
 latitude: 28.5494
 longitude: 77.2001
 score: 8.3
+title: Hauz Khas Village
 type: poi
 ---
 

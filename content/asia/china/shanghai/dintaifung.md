@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - xintiandi
+title: Din Tai Fung
 type: poi
 ---
 

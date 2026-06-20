@@ -7,6 +7,7 @@ sources:
 - https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi
 tags:
 - mehrauli
+title: Qutub Minar
 type: poi
 ---
 

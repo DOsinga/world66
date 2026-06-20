@@ -2,6 +2,7 @@
 latitude: 19.0596
 longitude: 72.8295
 score: 7.2
+title: Bandra
 type: poi
 ---
 

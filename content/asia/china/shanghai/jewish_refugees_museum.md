@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - museum
 - hongkou
+title: Jewish Refugees Museum
 type: poi
 ---
 

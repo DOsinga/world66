@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - sight
 - sol
+title: San Miguel
 type: poi
 ---
 

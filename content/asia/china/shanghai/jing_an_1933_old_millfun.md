@@ -7,7 +7,7 @@ snippet: Former 1933 municipal slaughterhouse converted into restaurants and eve
 tags:
 - things_to_do
 - sight
-- jing_an
+- hongkou
 title: 1933 Old Millfun (Slaughterhouse)
 type: poi
 ---

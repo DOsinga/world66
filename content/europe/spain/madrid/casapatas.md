@@ -7,6 +7,7 @@ tags:
 - eating_out
 - huertas
 - lalatina
+title: Casa Patas
 type: poi
 ---
 

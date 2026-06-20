@@ -13,6 +13,7 @@ tags:
 - things_to_do
 - sight
 - the_bund
+title: Bund Sightseeing Tunnel
 type: poi
 ---
 

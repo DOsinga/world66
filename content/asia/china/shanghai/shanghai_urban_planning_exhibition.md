@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - museum
 - city_center
+title: Shanghai Urban Planning Exhibition
 type: poi
 ---
 

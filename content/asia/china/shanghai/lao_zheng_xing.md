@@ -10,6 +10,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+title: Lao Zheng Xing
 type: poi
 ---
 

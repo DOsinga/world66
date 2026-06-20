@@ -7,6 +7,7 @@ tags:
 - sight
 - architecture
 - sol
+title: Teatro Real
 type: poi
 ---
 

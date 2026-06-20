@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - shopping
 - hauz_khas_village
+title: Ansal Plaza
 type: poi
 ---
 

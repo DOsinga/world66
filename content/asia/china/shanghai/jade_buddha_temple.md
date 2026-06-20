@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - jing_an
+title: Jade Buddha Temple
 type: poi
 ---
 

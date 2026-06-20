@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - cafe
 - french_concession
+title: Manner Coffee
 type: poi
 ---
 

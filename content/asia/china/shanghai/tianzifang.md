@@ -9,6 +9,7 @@ tags:
 - sight
 - french_concession
 - tianzifang_area
+title: Tianzifang
 type: poi
 ---
 

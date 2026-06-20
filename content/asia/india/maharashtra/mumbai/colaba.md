@@ -2,6 +2,7 @@
 latitude: 18.9155
 longitude: 72.8316
 score: 7.6
+title: Colaba
 type: poi
 ---
 

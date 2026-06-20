@@ -8,6 +8,7 @@ tags:
 - shopping
 - market
 - old_town
+title: Fuyou Road Market
 type: poi
 ---
 

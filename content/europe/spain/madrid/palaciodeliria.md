@@ -11,6 +11,7 @@ tags:
 - art
 - arguelles
 - malasana
+title: Palacio de Liria
 type: poi
 ---
 

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - jing_an
+title: Shanghai Natural History Museum
 type: poi
 ---
 

@@ -6,6 +6,7 @@ sources:
 - https://en.wikipedia.org/wiki/National_Museum,_New_Delhi
 tags:
 - lutyens
+title: National Museum
 type: poi
 ---
 

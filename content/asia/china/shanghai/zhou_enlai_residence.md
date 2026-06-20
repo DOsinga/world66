@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - french_concession
+title: Zhou Enlai Residence
 type: poi
 ---
 

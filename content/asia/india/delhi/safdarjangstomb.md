@@ -4,6 +4,7 @@ longitude: 77.212568
 score: 7.5
 tags:
 - defence_colony
+title: Safdarjang Tomb
 type: poi
 ---
 

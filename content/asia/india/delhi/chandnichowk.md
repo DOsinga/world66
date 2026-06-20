@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - shopping
 - old_delhi
+title: Chandni Chowk
 type: poi
 ---
 

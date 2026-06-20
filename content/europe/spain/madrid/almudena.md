@@ -8,6 +8,7 @@ tags:
 - architecture
 - arguelles
 - sol
+title: Almudena Cathedral
 type: poi
 ---
 

@@ -12,6 +12,7 @@ story: 'The station was designed by F.W. Stevens and opened in 1887 as Victoria 
   '
 tags:
 - fort_area
+title: Chhatrapati Shivaji Terminus
 type: poi
 ---
 

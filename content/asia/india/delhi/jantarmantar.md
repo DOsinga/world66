@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - lutyens
+title: Jantar Mantar
 type: poi
 ---
 

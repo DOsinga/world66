@@ -7,6 +7,7 @@ tags:
 - salamanca
 - architecture
 - sight
+title: Las Ventas
 type: poi
 ---
 

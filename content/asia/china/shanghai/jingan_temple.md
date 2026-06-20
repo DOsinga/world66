@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - jing_an
+title: Jingan Temple
 type: poi
 ---
 

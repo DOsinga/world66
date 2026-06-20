@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - park
 - lodhi_colony
+title: Lodhi Gardens
 type: poi
 ---
 

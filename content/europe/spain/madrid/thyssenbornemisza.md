@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - huertas
+title: Thyssen-Bornemisza
 type: poi
 ---
 

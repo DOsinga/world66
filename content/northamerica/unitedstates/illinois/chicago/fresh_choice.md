@@ -8,6 +8,7 @@ snippet: Healthy made-to-order food in Old Town
 tags:
 - eating_out
 - lincoln_park
+title: Fresh Choice
 type: poi
 ---
 

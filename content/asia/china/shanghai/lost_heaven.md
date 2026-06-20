@@ -10,6 +10,7 @@ tags:
 - eating_out
 - restaurant
 - the_bund
+title: Lost Heaven
 type: poi
 ---
 

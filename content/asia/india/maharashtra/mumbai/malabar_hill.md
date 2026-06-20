@@ -7,9 +7,9 @@ tags:
 - things_to_do
 - neighbourhood
 image: malabar_hill.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bombay._Back_Bay_from_Malabar_Hill.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Paper Jewels
+image_source: https://commons.wikimedia.org/wiki/File:Bombay10.jpg
+image_license: Public domain
+image_attribution: ''
 ---
 
 The ridge that forms the western spine of the city, long the most exclusive residential address in Mumbai and one of the most expensive in India. The Governor of Maharashtra's official residence is here, as are many of the city's oldest and wealthiest families, in a mixture of colonial bungalows, Parsi mansions, and newer apartment towers, all set back from streets that are lined with trees and relatively quiet by Mumbai standards.

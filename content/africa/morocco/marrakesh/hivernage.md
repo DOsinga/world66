@@ -4,7 +4,7 @@ type: neighbourhood
 latitude: 31.622
 longitude: -8.007
 image: hivernage.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio_(1).jpg
 image_license: CC BY 3.0
 tags:
 - things_to_do

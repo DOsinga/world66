@@ -5,6 +5,7 @@ snippet: Former Spanish, Dutch and British river port at the mouth of the Tamsui
 tags:
 - things_to_do
 - sight
+- day_trips
 title: Tamsui
 type: poi
 score: 8.2

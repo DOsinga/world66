@@ -7,7 +7,7 @@ snippet: Century-old botanical garden famous for its lotus pond
 tags:
 - things_to_do
 - nature
-- wanhua
+- zhongzheng
 title: Taipei Botanical Garden
 type: poi
 ---

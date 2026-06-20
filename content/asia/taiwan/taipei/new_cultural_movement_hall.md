@@ -7,7 +7,7 @@ snippet: Museum of 1920s Taiwanese cultural awakening, in a former police statio
 tags:
 - things_to_do
 - museum
-- zhongshan
+- datong
 title: Taiwan New Cultural Movement Memorial Hall
 type: poi
 ---

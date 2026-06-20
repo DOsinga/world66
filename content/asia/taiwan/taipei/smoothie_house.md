@@ -7,7 +7,6 @@ snippet: Famous Taiwanese shaved-ice dessert shop
 tags:
 - eating_out
 - daan
-- zhongzheng
 title: Smoothie House (Ice Monster)
 type: poi
 ---

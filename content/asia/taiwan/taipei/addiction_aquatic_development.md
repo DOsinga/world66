@@ -8,7 +8,7 @@ tags:
 - eating_out
 - restaurant
 - seafood
-- shilin
+- zhongshan
 title: Addiction Aquatic Development
 type: poi
 url: https://www.addiction.com.tw

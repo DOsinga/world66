@@ -4,16 +4,12 @@ latitude: 25.0792
 longitude: 121.5258
 score: 7.3
 snippet: Vast neoclassical Chinese palace hotel built by Chiang Kai-shek's wife
-story: Hidden beneath the hotel are two long air-raid tunnels, dug in the 1970s as
-  escape routes for Chiang Kai-shek's family in the event of a mainland Chinese invasion.
-  The eastern tunnel ends in a slide several hundred metres long, intended to evacuate
-  the hotel's residents to a riverside helipad in minutes. Both tunnels are open to
-  occasional public tours.
+story: Hidden beneath the hotel are two long air-raid tunnels, dug in the 1970s as escape routes for Chiang Kai-shek's family in the event of a mainland Chinese invasion. The eastern tunnel ends in a slide several hundred metres long, intended to evacuate the hotel's residents to a riverside helipad in minutes. Both tunnels are open to occasional public tours.
 tags:
 - things_to_do
 - sight
 - architecture
-- shilin
+- zhongshan
 title: Grand Hotel
 type: poi
 url: https://www.grand-hotel.org

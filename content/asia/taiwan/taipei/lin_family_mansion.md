@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+- day_trips
 title: Lin Family Mansion and Garden
 type: poi
 url: https://www.linfamily.ntpc.gov.tw

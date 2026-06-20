@@ -8,7 +8,6 @@ tags:
 - eating_out
 - restaurant
 - daan
-- zhongzheng
 title: Yongkang Beef Noodle
 type: poi
 ---

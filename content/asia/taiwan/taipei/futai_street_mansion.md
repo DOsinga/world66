@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- ximending
+- zhongzheng
 title: Taipei Futai Street Mansion
 type: poi
 ---

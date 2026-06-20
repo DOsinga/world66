@@ -7,7 +7,7 @@ snippet: Historic traffic-circle site, once Taipei's most famous food market
 tags:
 - things_to_do
 - sight
-- zhongshan
+- datong
 title: Chien-Cheng Circle
 type: poi
 ---

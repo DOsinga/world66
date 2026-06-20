@@ -6,6 +6,7 @@ snippet: Colonial-era fortress in Tamsui with Spanish, Dutch, and British layers
 tags:
 - things_to_do
 - sight
+- day_trips
 title: Fort San Domingo
 type: poi
 score: 7.8

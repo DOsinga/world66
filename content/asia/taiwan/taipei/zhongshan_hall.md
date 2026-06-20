@@ -2,12 +2,11 @@
 latitude: 25.0431
 longitude: 121.5101
 score: 7.4
-snippet: Historic 1936 civic hall on the edge of Ximending, where Japan surrendered
-  Taiwan
+snippet: Historic 1936 civic hall on the edge of Ximending, where Japan surrendered Taiwan
 tags:
 - things_to_do
 - sight
-- ximending
+- zhongzheng
 title: Zhongshan Hall
 type: poi
 ---

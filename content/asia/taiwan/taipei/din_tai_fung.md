@@ -3,17 +3,12 @@ address: 194 Xinyi Road Sec 2, Da'an District, Taipei
 latitude: 25.0331
 longitude: 121.5298
 score: 6.8
-snippet: The original Taipei outpost of the world-famous xiaolongbao chain
-story: Din Tai Fung began as a small cooking-oil shop on Xinyi Road in 1958. When
-  the oil business collapsed in 1972 the owners diversified into noodles to keep the
-  rent paid; the **xiaolongbao** soup dumplings the kitchen had been making as a sideline
-  became a hit, and the rest is history. The Xinyi Road shop opened in 1972 and is
-  still open in the same building.
+snippet: Original Taipei outpost of the world-famous xiaolongbao chain
+story: Din Tai Fung began as a small cooking-oil shop on Xinyi Road in 1958. When the oil business collapsed in 1972 the owners diversified into noodles to keep the rent paid; the **xiaolongbao** soup dumplings the kitchen had been making as a sideline became a hit, and the rest is history. The Xinyi Road shop opened in 1972 and is still open in the same building.
 tags:
 - eating_out
 - restaurant
 - daan
-- zhongzheng
 title: Din Tai Fung (Xinyi flagship)
 type: poi
 url: https://www.dintaifung.com.tw

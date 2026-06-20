@@ -8,7 +8,6 @@ tags:
 - things_to_do
 - sight
 - architecture
-- ximending
 - wanhua
 title: Bopiliao Historic Block
 type: poi

@@ -1,10 +1,11 @@
 ---
-latitude: 24.9710
-longitude: 121.5790
+latitude: 24.971
+longitude: 121.579
 snippet: Tea-growing hillside village in south Taipei, reached by gondola
 tags:
 - things_to_do
 - sight
+- day_trips
 title: Maokong
 type: poi
 score: 8.2

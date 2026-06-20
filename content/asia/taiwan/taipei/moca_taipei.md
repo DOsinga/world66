@@ -7,7 +7,7 @@ snippet: Contemporary art in a former Japanese-era city hall
 tags:
 - things_to_do
 - museum
-- zhongshan
+- datong
 title: Museum of Contemporary Art Taipei
 type: poi
 ---

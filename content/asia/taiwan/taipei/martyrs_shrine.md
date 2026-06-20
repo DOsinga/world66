@@ -7,7 +7,7 @@ snippet: Imperial-style memorial with an hourly changing-of-the-guard
 tags:
 - things_to_do
 - sight
-- shilin
+- zhongshan
 title: Martyrs' Shrine
 type: poi
 ---

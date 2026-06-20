@@ -5,9 +5,10 @@ snippet: Atmospheric old gold-mining town in the hills above the northeast coast
 tags:
 - things_to_do
 - sight
+- day_trips
 title: Jiufen
 type: poi
-story: "Jiufen flourished during the Japanese colonial era as the centre of Taiwan's gold rush; when the mines closed in the 1970s it nearly emptied. The 1989 Hou Hsiao-hsien film *A City of Sadness* — the first popular cultural treatment of the 2-28 incident, with much of its action set in Jiufen — sent visitors flooding back. The town's lantern-lit teahouses were later widely (and apocryphally) credited as the inspiration for the bathhouse in Studio Ghibli's *Spirited Away*."
+story: Jiufen flourished during the Japanese colonial era as the centre of Taiwan's gold rush; when the mines closed in the 1970s it nearly emptied. The 1989 Hou Hsiao-hsien film *A City of Sadness* — the first popular cultural treatment of the 2-28 incident, with much of its action set in Jiufen — sent visitors flooding back. The town's lantern-lit teahouses were later widely (and apocryphally) credited as the inspiration for the bathhouse in Studio Ghibli's *Spirited Away*.
 score: 8.7
 ---
 

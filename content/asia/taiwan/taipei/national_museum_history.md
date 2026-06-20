@@ -7,7 +7,7 @@ snippet: Chinese antiquities, bronzes and ceramics beside the Botanical Garden
 tags:
 - things_to_do
 - museum
-- wanhua
+- zhongzheng
 title: National Museum of History
 type: poi
 ---

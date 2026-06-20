@@ -7,7 +7,7 @@ snippet: Taiwan's largest indoor stadium, host of baseball and big concerts
 tags:
 - things_to_do
 - sight
-- songshan
+- xinyi
 title: Taipei Dome
 type: poi
 ---

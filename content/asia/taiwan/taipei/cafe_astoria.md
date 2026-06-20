@@ -7,7 +7,7 @@ snippet: Taipei's first Western-style cafe, a 1949 literary haunt
 tags:
 - things_to_do
 - drink
-- ximending
+- zhongzheng
 title: Astoria Cafe
 type: poi
 ---

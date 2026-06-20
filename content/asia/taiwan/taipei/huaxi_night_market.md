@@ -2,7 +2,7 @@
 latitude: 25.0359
 longitude: 121.499
 score: 6.4
-snippet: The old "Snake Alley" night market beside Longshan Temple
+snippet: Old "Snake Alley" night market beside Longshan Temple
 tags:
 - things_to_do
 - shopping

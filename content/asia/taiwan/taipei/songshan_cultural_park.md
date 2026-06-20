@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- songshan
+- xinyi
 title: Songshan Cultural and Creative Park
 type: poi
 url: https://www.songshanculturalpark.org

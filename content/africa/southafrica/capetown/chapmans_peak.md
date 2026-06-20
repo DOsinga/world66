@@ -1,5 +1,4 @@
 ---
-category: Drive
 latitude: -34.0775
 longitude: 18.3589
 score: 9.2

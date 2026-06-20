@@ -1,5 +1,4 @@
 ---
-category: Viewpoint
 latitude: -33.9162
 longitude: 18.4019
 score: 7.4

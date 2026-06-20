@@ -1,5 +1,4 @@
 ---
-category: Square
 latitude: -33.9046
 longitude: 18.4214
 score: 5.7

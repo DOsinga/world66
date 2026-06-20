@@ -1,6 +1,5 @@
 ---
 address: (UCT) Cecil Road, Rosebank.
-category: Museum
 latitude: -33.9584
 longitude: 18.4694
 phone: ++27 (0)21 685 5686.

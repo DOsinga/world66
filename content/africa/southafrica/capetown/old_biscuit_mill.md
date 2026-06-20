@@ -1,5 +1,4 @@
 ---
-category: Market
 latitude: -33.9277
 longitude: 18.4575
 score: 7.3
@@ -11,6 +10,7 @@ snippet: Converted Woodstock biscuit factory hosting design shops and the Neighb
   Market
 tags:
 - things_to_do
+- market
 - shopping
 - eating_out
 - woodstock

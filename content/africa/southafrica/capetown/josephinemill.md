@@ -1,6 +1,5 @@
 ---
 address: Boundary Road, Newlands
-category: Historic Site
 latitude: -33.971331
 longitude: 18.466182
 phone: ++27 (0)21 686 4939.

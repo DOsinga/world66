@@ -1,5 +1,4 @@
 ---
-category: Stadium
 latitude: -33.9036
 longitude: 18.4108
 score: 6.3

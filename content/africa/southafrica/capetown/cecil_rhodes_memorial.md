@@ -1,5 +1,4 @@
 ---
-category: Monument
 latitude: -33.954
 longitude: 18.4571
 score: 7.0

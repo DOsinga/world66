@@ -1,5 +1,4 @@
 ---
-category: Sculpture
 latitude: -34.193
 longitude: 18.4316
 score: 5.8

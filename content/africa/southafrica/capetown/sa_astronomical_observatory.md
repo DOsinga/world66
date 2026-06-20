@@ -1,5 +1,4 @@
 ---
-category: Observatory
 latitude: -33.9341
 longitude: 18.4774
 score: 7.5

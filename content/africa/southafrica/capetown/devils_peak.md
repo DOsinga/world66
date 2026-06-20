@@ -1,5 +1,4 @@
 ---
-category: Mountain
 latitude: -33.951
 longitude: 18.435
 score: 7.6

@@ -1,5 +1,4 @@
 ---
-category: Curiosity
 latitude: -33.9183
 longitude: 18.4033
 score: 7.1

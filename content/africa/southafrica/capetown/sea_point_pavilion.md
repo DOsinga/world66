@@ -1,5 +1,4 @@
 ---
-category: Pool
 latitude: -33.9152
 longitude: 18.388
 score: 7.4

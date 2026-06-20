@@ -1,14 +1,15 @@
 ---
 title: Hivernage
 type: neighbourhood
-latitude: 31.6220
-longitude: -8.0070
-image: "Hivernage,_Marrakesh,_Morocco_-_panoramio_(1).jpg"
-image_source: "https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio_(1).jpg"
-image_license: "CC BY 3.0"
+latitude: 31.622
+longitude: -8.007
+image: hivernage.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+image_license: CC BY 3.0
 tags:
 - things_to_do
 - neighbourhood
+image_attribution: karel291
 ---
 
 Hivernage is Marrakesh's upscale resort district — a compact neighbourhood of palm-lined avenues, grand hotels, and private villas directly southwest of the Medina walls. The French laid it out during the Protectorate era as a winter resort for European visitors, and the name (French for "wintering") reflects its original purpose: a comfortable, quiet quarter insulated from the intense life of the old city.

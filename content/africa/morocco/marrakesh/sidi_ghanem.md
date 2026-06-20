@@ -1,14 +1,15 @@
 ---
 title: Sidi Ghanem
 type: neighbourhood
-latitude: 31.6500
-longitude: -8.0500
-image: Artisan_in_Marrakech_(54242645726).jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Artisan_in_Marrakech_(54242645726).jpg"
-image_license: "CC BY 2.0"
+latitude: 31.65
+longitude: -8.05
+image: sidi_ghanem.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Artisan_in_Marrakech_(54242645726).jpg
+image_license: CC BY 2.0
 tags:
 - things_to_do
 - neighbourhood
+image_attribution: Jorge Franganillo
 ---
 
 Sidi Ghanem is Marrakesh's design district — a former light industrial zone on the western edge of the city that has been colonised over the past two decades by furniture showrooms, concept stores, contemporary art galleries, and artisan workshops. Where factories once made basic goods for the domestic market, design studios now produce high-end furniture, ceramics, and textiles for the luxury Moroccan market and for export.

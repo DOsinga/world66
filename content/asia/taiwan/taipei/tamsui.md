@@ -1,14 +1,13 @@
 ---
 latitude: 25.1715
 longitude: 121.4408
+score: 8.2
 snippet: Former Spanish, Dutch and British river port at the mouth of the Tamsui
 tags:
-- things_to_do
 - sight
 - day_trips
 title: Tamsui
 type: poi
-score: 8.2
 ---
 
 At the mouth of the Tamsui River, an hour from central Taipei on the end of the red MRT line, the riverside town of Tamsui is the city's classic half-day outing. The riverfront promenade is broad and lively, the open-air **Tamsui Old Street** sells street food, and a string of historic buildings strung along the bluff above the river — most importantly **Fort San Domingo**, the **British consul's residence**, and the elegant **Oxford College** — record three centuries of foreign trade and missionary activity.

@@ -3,8 +3,6 @@ latitude: 25.1085
 longitude: 121.8443
 snippet: Atmospheric old gold-mining town in the hills above the northeast coast
 tags:
-- things_to_do
-- sight
 - day_trips
 title: Jiufen
 type: poi

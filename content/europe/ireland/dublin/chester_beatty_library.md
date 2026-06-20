@@ -7,8 +7,9 @@ score: 9.0
 snippet: World-class collection of Islamic, Asian, and European manuscripts; consistently
   voted Ireland's best museum
 tags:
+- things_to_do
 - museum
-- dublin_castle_area
+- temple_bar
 title: Chester Beatty Library
 type: poi
 url: https://chesterbeatty.ie

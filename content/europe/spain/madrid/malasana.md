@@ -9,7 +9,6 @@ story: The neighbourhood is named after Manuela Malasaña, a 15-year-old seamstr
 tags:
 - things_to_do
 - neighbourhood
-- malasana
 title: Malasaña
 type: neighbourhood
 ---

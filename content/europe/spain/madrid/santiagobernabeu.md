@@ -5,7 +5,6 @@ score: 7.5
 tags:
 - things_to_do
 - sight
-- chamberi_barrio
 title: Santiago Bernabéu
 type: poi
 ---

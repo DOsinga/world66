@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - sight
 - architecture
-- arguelles
 - sol
 title: Almudena Cathedral
 type: poi

@@ -11,7 +11,7 @@ snippet: Essential museum for tracing Joyce's Dublin
 tags:
 - things_to_do
 - sight
-- oconnell_street
+- north_city
 title: James Joyce Centre
 type: poi
 url: www.jamesjoyce.ie

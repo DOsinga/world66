@@ -8,7 +8,7 @@ snippet: Garden dedicated to Irish freedom fighters, with Oisín Kelly's Childre
 tags:
 - park
 - sight
-- oconnell_street
+- north_city
 title: Garden of Remembrance
 type: poi
 ---

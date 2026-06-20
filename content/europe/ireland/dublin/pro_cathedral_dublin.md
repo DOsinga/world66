@@ -7,7 +7,7 @@ snippet: Dublin's principal Catholic church (1825) with a famous boys' choir and
   Revival façade
 tags:
 - sight
-- oconnell_street
+- north_city
 title: Pro Cathedral
 type: poi
 ---

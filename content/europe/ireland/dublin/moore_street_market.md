@@ -6,7 +6,7 @@ snippet: Dublin's oldest open-air street market, just off O'Connell Street
 tags:
 - things_to_do
 - shopping
-- oconnell_street
+- north_city
 title: Moore Street Market
 type: poi
 ---

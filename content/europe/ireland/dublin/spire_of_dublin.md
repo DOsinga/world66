@@ -6,7 +6,7 @@ snippet: 120-metre stainless-steel needle on O'Connell Street
 tags:
 - things_to_do
 - sight
-- oconnell_street
+- north_city
 title: Spire of Dublin
 type: poi
 ---

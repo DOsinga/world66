@@ -6,7 +6,7 @@ snippet: Michelin-starred restaurant in the vaults beneath the Dublin Writers Mu
 tags:
 - things_to_do
 - eating_out
-- oconnell_street
+- north_city
 title: Chapter One
 type: poi
 ---

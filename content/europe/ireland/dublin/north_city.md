@@ -5,7 +5,7 @@ snippet: The grand northside boulevard with the Spire, the GPO, and Joycean site
 tags:
 - things_to_do
 - neighbourhood
-title: O'Connell Street
+title: North City
 type: neighbourhood
 image: oconnell_street.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Long_exposure_O%27Connell_Street_Dublin_looking_towards_the_Spire.jpg

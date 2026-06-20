@@ -8,7 +8,7 @@ snippet: One of Dublin's great theatres since 1928, known for European and class
 tags:
 - things_to_do
 - sight
-- oconnell_street
+- north_city
 title: Gate Theatre
 type: poi
 url: https://www.gatetheatre.ie

@@ -7,7 +7,7 @@ snippet: Dublin's oldest cinema (1929) with an Art Deco interior and Ireland's p
   premiere venue
 tags:
 - things_to_do
-- oconnell_street
+- north_city
 title: The Savoy Cinema
 type: poi
 ---

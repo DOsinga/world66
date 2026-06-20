@@ -7,7 +7,7 @@ snippet: Ireland's national theatre, founded by Yeats and Lady Gregory in 1904
 tags:
 - things_to_do
 - sight
-- oconnell_street
+- north_city
 title: Abbey Theatre
 type: poi
 url: https://www.abbeytheatre.ie

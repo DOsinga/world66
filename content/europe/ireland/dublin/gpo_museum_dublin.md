@@ -6,7 +6,7 @@ snippet: Immersive museum on the 1916 Rising inside the General Post Office
 tags:
 - things_to_do
 - museum
-- oconnell_street
+- north_city
 title: GPO Museum
 type: poi
 ---

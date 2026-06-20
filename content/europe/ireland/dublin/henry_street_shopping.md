@@ -7,7 +7,7 @@ snippet: The north side's main shopping street with Arnotts and busy pedestriani
   market atmosphere
 tags:
 - shopping
-- oconnell_street
+- north_city
 title: Henry Street
 type: poi
 ---

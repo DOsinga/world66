@@ -7,7 +7,6 @@ snippet: Oldest and largest Buddhist temple in Shanghai, with a 7-storey pagoda 
 tags:
 - things_to_do
 - sight
-- tianzifang_area
 title: Longhua Temple and Pagoda
 type: poi
 ---

@@ -7,7 +7,6 @@ snippet: Restored 1920s Columbia Country Club complex in Xujiahui, now restauran
 tags:
 - things_to_do
 - sight
-- tianzifang_area
 title: Columbia Circle (Former Columbia Country Club)
 type: poi
 ---

@@ -6,7 +6,6 @@ snippet: Site of the 2010 Shanghai World Expo, now a park with retained national
 tags:
 - things_to_do
 - sight
-- pudong
 title: World Expo Site (Expo Park)
 type: poi
 ---

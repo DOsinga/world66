@@ -7,7 +7,7 @@ snippet: Curved residential street in Xuhui district lined with plane trees and 
 tags:
 - things_to_do
 - sight
-- city_center
+- french_concession
 title: Wukang Road (Historic Residential)
 type: poi
 ---

@@ -6,7 +6,6 @@ snippet: Former commercial district at the old western gate of the walled Old To
 tags:
 - things_to_do
 - sight
-- tianzifang_area
 title: Laoximen (Old Western Gate Area)
 type: poi
 ---

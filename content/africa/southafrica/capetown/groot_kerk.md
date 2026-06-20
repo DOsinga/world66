@@ -1,5 +1,4 @@
 ---
-category: Religious
 latitude: -33.9242
 longitude: 18.42
 score: 8.1

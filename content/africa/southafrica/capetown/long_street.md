@@ -1,5 +1,4 @@
 ---
-category: Street
 latitude: -33.9237
 longitude: 18.4148
 score: 7.8

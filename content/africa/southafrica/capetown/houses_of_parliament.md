@@ -1,5 +1,4 @@
 ---
-category: Historic Site
 latitude: -33.9261
 longitude: 18.4192
 score: 6.3

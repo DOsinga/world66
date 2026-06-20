@@ -1,5 +1,4 @@
 ---
-category: Cinema
 latitude: -33.9286
 longitude: 18.4128
 score: 7.8

@@ -1,5 +1,4 @@
 ---
-category: Museum
 latitude: -33.9289
 longitude: 18.415
 score: 8.0

@@ -1,5 +1,4 @@
 ---
-category: Historic Building
 latitude: -33.9274
 longitude: 18.4186
 score: 5.3

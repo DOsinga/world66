@@ -1,5 +1,4 @@
 ---
-category: Architecture
 latitude: -33.9258
 longitude: 18.424
 score: 7.6

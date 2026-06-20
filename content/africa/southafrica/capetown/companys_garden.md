@@ -1,5 +1,4 @@
 ---
-category: Park
 latitude: -33.9278
 longitude: 18.4169
 score: 8.5

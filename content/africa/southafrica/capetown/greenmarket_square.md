@@ -1,5 +1,4 @@
 ---
-category: Market
 latitude: -33.9247
 longitude: 18.4197
 score: 7.5

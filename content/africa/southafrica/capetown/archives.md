@@ -1,6 +1,5 @@
 ---
 address: 72 Roeland Street City
-category: Archive
 latitude: -33.931791
 longitude: 18.423252
 phone: ++27 (0)21 462 4050.

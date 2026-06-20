@@ -7,7 +7,7 @@ snippet: Excellent wine bar just beyond the city walls near Porta San Miniato, w
   1,000+ wines and good crostini
 tags:
 - bars_and_cafes
-- santa_croce_quarter
+- oltrarno
 title: Fuori Porta
 type: poi
 ---

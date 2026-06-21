@@ -9,6 +9,8 @@ latitude: -34.4266
 loc_type: city
 longitude: 172.6775
 score: 0.54
+snippet: Dramatic North Island cape where the Tasman Sea and Pacific Ocean meet below
+  a lighthouse.
 title: Cape Reinga
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 44.119961
 loc_type: city
 longitude: 9.708687
 score: 0.61
+snippet: Quiet Cinque Terre village perched above the sea, reached by steps and surrounded
+  by terraced vineyards.
 title: Corniglia
 type: location
 ---

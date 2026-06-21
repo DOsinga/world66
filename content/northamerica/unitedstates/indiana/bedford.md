@@ -6,6 +6,8 @@ latitude: 38.8612
 loc_type: city
 longitude: -86.4875
 score: 0.25
+snippet: Southern Indiana limestone city whose pale stone shaped landmarks from the
+  Pentagon to the Empire State Building.
 title: Bedford
 type: location
 ---

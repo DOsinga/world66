@@ -10,6 +10,8 @@ latitude: 41.439
 loc_type: city
 longitude: 22.6374
 score: 0.37
+snippet: Southeastern Macedonian valley town known for fertile fields, Mastika aniseed,
+  and monasteries below Belasica mountain.
 title: Strumica
 type: location
 ---

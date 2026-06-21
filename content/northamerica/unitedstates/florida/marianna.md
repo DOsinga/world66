@@ -6,6 +6,8 @@ latitude: 30.7744
 loc_type: city
 longitude: -85.2269
 score: 0.27
+snippet: Quiet Florida Panhandle county seat near red-clay hills and the dry chambers
+  of Florida Caverns.
 title: Marianna
 type: location
 ---

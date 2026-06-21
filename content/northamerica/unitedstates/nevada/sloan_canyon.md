@@ -10,6 +10,8 @@ latitude: 35.90321
 loc_type: feature
 longitude: -115.020182
 score: 0.36
+snippet: Desert conservation area south of Las Vegas, protecting basalt canyons filled
+  with ancient Native American petroglyphs.
 title: Sloan Canyon
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 37.413754
 loc_type: city
 longitude: -79.142246
 score: 0.33
+snippet: Central Virginia city on seven James River hills, rich in preserved tobacco-era
+  architecture.
 sources:
 - https://en.wikipedia.org/wiki/Lynchburg,_Virginia
 - https://en.wikipedia.org/wiki/Point_of_Honor

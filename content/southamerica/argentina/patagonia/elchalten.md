@@ -1,19 +1,21 @@
 ---
 done:
   location_create: '2026-06-04'
+image: elchalten.jpg
+image_attribution: Liam Quinn from Canada
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:El_Chalt%C3%A9n.jpg
 latitude: -49.3303
 loc_type: city
 longitude: -72.8893
+score: 0.61
+snippet: Patagonian trekking village below Mount Fitz Roy, with trails leading straight
+  from town into Los Glaciares.
 sources:
 - https://en.wikipedia.org/wiki/El_Chalt%C3%A9n
 - https://en.wikivoyage.org/wiki/El_Chalten
 title: El Chaltén
 type: location
-image: elchalten.jpg
-image_source: https://commons.wikimedia.org/wiki/File:El_Chalt%C3%A9n.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Liam Quinn from Canada
-score: 0.61
 ---
 
 El Chaltén is a small mountain village at the northern end of Los Glaciares National Park in Argentine Patagonia, and it exists almost entirely for hiking. Founded in 1985 as an act of territorial assertion against Chile — the border in this area was disputed, and Argentina needed a settlement — it has grown into one of the premier trekking destinations in South America. The walking is exceptional: trails begin right from the edge of town and within 30 minutes you are in pristine wilderness.

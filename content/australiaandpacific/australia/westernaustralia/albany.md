@@ -9,6 +9,8 @@ latitude: -35.024782
 loc_type: city
 longitude: 117.883608
 score: 0.45
+snippet: Western Australia’s oldest European settlement, set on King George Sound
+  with whaling and colonial heritage.
 title: Albany
 type: location
 ---

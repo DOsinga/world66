@@ -9,6 +9,8 @@ latitude: 68.2777
 loc_type: city
 longitude: 14.6631
 score: 0.6
+snippet: Lofoten island municipality centred on Svolvær, with fishing harbours, sea
+  stacks, and the peaks of Austvågøy.
 sources:
 - https://en.wikipedia.org/wiki/V%C3%A5gan_Municipality
 - https://en.wikipedia.org/wiki/Svolv%C3%A6r

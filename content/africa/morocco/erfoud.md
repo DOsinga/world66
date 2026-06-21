@@ -10,6 +10,8 @@ latitude: 31.434992
 loc_type: city
 longitude: -4.232829
 score: 0.44
+snippet: Dusty Moroccan desert gateway town near palm groves, fossil country, and
+  the Erg Chebbi dunes.
 title: Erfoud
 type: location
 ---

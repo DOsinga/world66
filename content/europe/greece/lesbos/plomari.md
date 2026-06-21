@@ -9,6 +9,8 @@ latitude: 38.975389
 loc_type: city
 longitude: 26.368424
 score: 0.44
+snippet: Lesbos hillside town known as Greece’s ouzo capital, with distilleries, neoclassical
+  mansions, and a small harbour.
 title: Plomari
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 44.3166
 loc_type: city
 longitude: 8.1643
 score: 0.32
+snippet: Scattered Ligurian commune in the Bormida valley, linked by chestnut woods
+  and medieval Del Carretto ruins.
 title: Murialdo
 type: location
 ---

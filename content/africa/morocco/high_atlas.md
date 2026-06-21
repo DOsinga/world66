@@ -9,6 +9,8 @@ latitude: 31.06
 loc_type: city
 longitude: -7.9
 score: 0.57
+snippet: Morocco’s highest mountain range, stretching from Atlantic slopes to desert
+  passes around Jebel Toubkal.
 title: High Atlas
 type: location
 ---

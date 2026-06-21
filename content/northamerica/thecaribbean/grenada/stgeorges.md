@@ -10,6 +10,8 @@ latitude: 12.053
 loc_type: city
 longitude: -61.7488
 score: 0.56
+snippet: Grenadian capital wrapped around the Carenage, with pastel Georgian warehouses
+  and steep harbour lanes.
 title: St. George's
 type: location
 ---

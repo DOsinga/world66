@@ -11,6 +11,8 @@ latitude: 40.75962
 loc_type: city
 longitude: -111.886797
 score: 0.46
+snippet: Utah capital shaped by Temple Square, a Wasatch Front grid, and quick access
+  to canyon ski slopes.
 sources:
 - https://en.wikipedia.org/wiki/Salt_Lake_City
 - https://en.wikivoyage.org/wiki/Salt_Lake_City

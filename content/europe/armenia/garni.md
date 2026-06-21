@@ -6,6 +6,8 @@ latitude: 40.122331
 loc_type: city
 longitude: 44.742019
 score: 0.47
+snippet: Armenian village above the Azat gorge, known for its standing Greco-Roman
+  temple.
 title: Garni
 type: location
 ---

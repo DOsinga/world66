@@ -6,6 +6,8 @@ latitude: 54.282001
 loc_type: city
 longitude: -0.401187
 score: 0.45
+snippet: Yorkshire seaside resort divided by a North Sea headland into north and south
+  bays.
 title: Scarborough
 type: location
 ---

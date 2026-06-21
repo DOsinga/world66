@@ -9,6 +9,8 @@ latitude: 53.156847
 loc_type: city
 longitude: -6.91172
 score: 0.43
+snippet: Irish county west of Dublin, defined by Curragh grassland and thoroughbred
+  horse country.
 sources:
 - https://en.wikipedia.org/wiki/Kildare
 - https://en.wikipedia.org/wiki/Irish_National_Stud

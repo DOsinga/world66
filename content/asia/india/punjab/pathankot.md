@@ -10,6 +10,8 @@ latitude: 32.3022
 loc_type: city
 longitude: 75.6589
 score: 0.29
+snippet: Northern Punjab transport junction where the plains meet routes into Himachal
+  and the Himalayas.
 sources:
 - https://en.wikipedia.org/wiki/Pathankot
 - https://en.wikipedia.org/wiki/Kangra_Valley_Railway

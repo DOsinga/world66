@@ -10,6 +10,8 @@ latitude: 58.349055
 loc_type: city
 longitude: 11.938285
 score: 0.37
+snippet: West Swedish harbour town on Byfjorden, used as a base for the rocky Bohuslän
+  coast.
 title: Uddevalla
 type: location
 ---

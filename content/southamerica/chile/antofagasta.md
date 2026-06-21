@@ -10,6 +10,8 @@ latitude: -23.646374
 loc_type: city
 longitude: -70.398003
 score: 0.37
+snippet: Northern Chilean port city between Pacific cliffs and desert ranges, built
+  on copper wealth.
 title: Antofagasta
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 42.3439
 loc_type: city
 longitude: -3.697
 score: 0.54
+snippet: Gothic Castilian city on the Camino de Santiago, dominated by its UNESCO-listed
+  cathedral.
 title: Burgos
 type: location
 ---

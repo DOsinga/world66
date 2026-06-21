@@ -10,6 +10,8 @@ latitude: -2.794682
 loc_type: city
 longitude: 115.496021
 score: 0.42
+snippet: Meratus Mountains town in South Kalimantan, used as a base for rainforest
+  treks to Dayak villages.
 sources:
 - https://en.wikipedia.org/wiki/Meratus_Mountains
 title: Loksado

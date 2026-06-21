@@ -10,6 +10,8 @@ latitude: 47.657193
 loc_type: city
 longitude: -117.42351
 score: 0.37
+snippet: Eastern Washington river city where Expo 74 left downtown parks around Spokane
+  Falls.
 title: Spokane
 type: location
 ---

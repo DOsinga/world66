@@ -10,6 +10,8 @@ latitude: -21.761
 loc_type: city
 longitude: -43.3501
 score: 0.3
+snippet: University city in Minas Gerais hills, with coffee-era architecture and a
+  milder Zona da Mata climate.
 title: Juiz de Fora
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 49.8425
 loc_type: city
 longitude: 8.4829
 score: 0.22
+snippet: Hessian Ried town federation near the Rhine, beside floodplain forest and
+  oxbow lakes.
 title: Riedstadt
 type: location
 ---

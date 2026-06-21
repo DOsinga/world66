@@ -6,6 +6,8 @@ latitude: 35.262265
 loc_type: city
 longitude: -81.183819
 score: 0.27
+snippet: Gaston County city west of Charlotte, marked by textile history and nearby
+  Kings Mountain battlefields.
 title: Gastonia
 type: location
 ---

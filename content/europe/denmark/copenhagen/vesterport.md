@@ -5,7 +5,7 @@ score: 7.0
 tags:
 - bars_and_cafes
 - bar
-- meatpacking_district
+- vesterbro
 title: Kødbyen Vin og Ølhandel
 type: poi
 ---

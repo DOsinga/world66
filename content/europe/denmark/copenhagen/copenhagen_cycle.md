@@ -5,7 +5,7 @@ score: 8.7
 tags:
 - things_to_do
 - sight
-- stroget
+- indre_by
 title: Cycling in Copenhagen
 type: poi
 ---

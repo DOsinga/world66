@@ -1,13 +1,13 @@
 ---
-title: Pusher Street
-type: poi
 latitude: 55.6755
 longitude: 12.6106
 score: 7.2
 tags:
 - things_to_do
 - sight
-- christiania
+- christianshavn
+title: Pusher Street
+type: poi
 ---
 
 Pusher Street is the informal name for the main lane through Christiania where cannabis has been openly sold for decades. The stalls — low wooden tables and makeshift booths — operate in a grey area that the Danish state has periodically tried to close but never fully succeeded in shutting down. The hash market here is one of the most unusual sights in Scandinavia.

@@ -1,12 +1,12 @@
 ---
-title: Christiania Art and Craft Stalls
-type: poi
 latitude: 55.6758
-longitude: 12.6110
+longitude: 12.611
 score: 6.8
 tags:
 - shopping
-- christiania
+- christianshavn
+title: Christiania Art and Craft Stalls
+type: poi
 ---
 
 Along the main lane into Christiania, beyond Pusher Street, there are a dozen or so stalls and small workshops selling handmade goods — jewellery, leather work, ceramics, prints, and clothing. Quality varies, but some genuinely skilled craftspeople work here, and you can sometimes watch things being made.

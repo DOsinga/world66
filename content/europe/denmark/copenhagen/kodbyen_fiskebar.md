@@ -1,13 +1,13 @@
 ---
-title: Kødbyens Fiskebar
-type: poi
 latitude: 55.6652
 longitude: 12.5448
 score: 8.4
 tags:
 - eating_out
 - restaurant
-- meatpacking_district
+- vesterbro
+title: Kødbyens Fiskebar
+type: poi
 ---
 
 Kødbyens Fiskebar is one of the best fish restaurants in Copenhagen — a large, noisy room in the Meatpacking District's white sector that specialises in fresh seafood and natural wine. The menu changes with the catch, but the oysters are consistently excellent and the kitchen handles fish simply and confidently. The interior uses the original industrial building: concrete floors, high ceilings, communal tables.

@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- harbourfront
+- osterbro
 title: Frederiks Kirke (The Marble Church)
 type: poi
 ---

@@ -5,7 +5,7 @@ score: 7.9
 tags:
 - things_to_do
 - sight
-- latin_quarter
+- indre_by
 title: Botanical Garden
 type: poi
 ---

@@ -10,7 +10,7 @@ story: When the city opened the first harbour bath in 2002, they invited a few t
 tags:
 - things_to_do
 - sight
-- harbourfront
+- christianshavn
 title: Islands Brygge Harbour Bath
 type: poi
 ---

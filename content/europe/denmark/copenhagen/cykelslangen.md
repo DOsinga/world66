@@ -1,13 +1,13 @@
 ---
-title: Cykelslangen (Bicycle Snake)
-type: poi
-latitude: 55.6680
-longitude: 12.5750
+latitude: 55.668
+longitude: 12.575
 score: 7.8
 tags:
 - things_to_do
 - sight
-- harbourfront
+- vesterbro
+title: Cykelslangen (Bicycle Snake)
+type: poi
 ---
 
 The Cykelslangen — literally the Bicycle Snake — is an elevated orange bicycle path that curves above the harbour south of the city centre, connecting Dybbølsbro station to the waterfront at Fisketorvet. It is one of the most photographed pieces of cycling infrastructure in the world, designed by DISSING+WEITLING and opened in 2014. The sinuous form swoops over the water at rooftop level, giving cyclists views across the harbour and towards the Meatpacking District.

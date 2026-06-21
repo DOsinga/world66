@@ -5,7 +5,7 @@ score: 7.7
 tags:
 - eating_out
 - market
-- latin_quarter
+- indre_by
 title: Torvehallerne
 type: poi
 ---

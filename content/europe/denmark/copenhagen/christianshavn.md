@@ -5,10 +5,12 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Christianshavns_Kanal_-_Kayaks.jpg
 latitude: 55.673
 longitude: 12.599
+snippet: Canal-lined maritime quarter housing both 18th-century townhouses and the
+  Freetown of Christiania
 tags:
 - things_to_do
 - neighbourhood
-title: Christianshavn
+title: Christianshavn and Christiania
 type: neighbourhood
 ---
 

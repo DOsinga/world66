@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - museum
 - sight
-- latin_quarter
+- indre_by
 title: Rosenborg Castle
 type: poi
 ---

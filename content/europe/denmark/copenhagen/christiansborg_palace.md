@@ -12,7 +12,7 @@ tags:
 - things_to_do
 - sight
 - museum
-- stroget
+- indre_by
 title: Christiansborg Palace
 type: poi
 ---

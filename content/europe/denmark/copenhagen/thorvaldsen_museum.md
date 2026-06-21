@@ -8,7 +8,7 @@ snippet: Neoclassical museum housing Bertel Thorvaldsen's sculptures, with the a
 tags:
 - things_to_do
 - museum
-- stroget
+- indre_by
 title: Thorvaldsen Museum
 type: poi
 ---

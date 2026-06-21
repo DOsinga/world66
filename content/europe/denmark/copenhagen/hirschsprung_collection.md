@@ -11,7 +11,7 @@ story: Heinrich Hirschsprung was a tobacco manufacturer who collected Danish art
 tags:
 - things_to_do
 - museum
-- latin_quarter
+- indre_by
 title: Hirschsprung Collection
 type: poi
 ---

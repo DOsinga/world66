@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - architecture
 - sight
-- harbourfront
+- christianshavn
 title: Copenhagen Opera House
 type: poi
 ---

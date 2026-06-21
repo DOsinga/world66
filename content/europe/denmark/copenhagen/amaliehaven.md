@@ -1,13 +1,13 @@
 ---
-title: Amaliehaven
-type: poi
 latitude: 55.6845
 longitude: 12.5938
 score: 7.0
 tags:
 - things_to_do
 - sight
-- harbourfront
+- osterbro
+title: Amaliehaven
+type: poi
 ---
 
 Amaliehaven is a small formal garden between Amalienborg Palace and the harbour, designed by a Belgian landscape architect and donated by the A.P. Møller-Mærsk shipping family to mark their centenary. The garden has fountains, low hedges, and views across the water to the Opera House — a pleasant, formal space that links the palace square to the waterfront.

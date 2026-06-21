@@ -5,7 +5,7 @@ score: 7.6
 tags:
 - things_to_do
 - museum
-- latin_quarter
+- indre_by
 title: Natural History Museum of Denmark
 type: poi
 ---

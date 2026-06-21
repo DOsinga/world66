@@ -7,7 +7,7 @@ snippet: 10,000 years of Danish history from the Stone Age through Vikings to th
 tags:
 - things_to_do
 - museum
-- stroget
+- indre_by
 title: Nationalmuseet
 type: poi
 ---

@@ -8,7 +8,7 @@ snippet: 17th-century church physically attached to the Round Tower astronomical
 tags:
 - things_to_do
 - landmark
-- latin_quarter
+- indre_by
 title: Trinitatis Kirke
 type: poi
 ---

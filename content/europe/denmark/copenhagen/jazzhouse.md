@@ -5,7 +5,7 @@ score: 7.4
 tags:
 - bars_and_cafes
 - bar
-- latin_quarter
+- indre_by
 title: Jazzhouse Copenhagen
 type: poi
 ---

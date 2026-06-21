@@ -12,7 +12,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- latin_quarter
+- indre_by
 title: Round Tower
 type: poi
 ---

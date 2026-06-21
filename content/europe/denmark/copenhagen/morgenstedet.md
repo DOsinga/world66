@@ -1,13 +1,13 @@
 ---
-title: Morgenstedet
-type: poi
-latitude: 55.6760
+latitude: 55.676
 longitude: 12.6112
 score: 7.3
 tags:
 - eating_out
 - restaurant
-- christiania
+- christianshavn
+title: Morgenstedet
+type: poi
 ---
 
 Morgenstedet (the Morning Place) is Christiania's best-loved vegetarian restaurant — a low-key wooden dining room that has been feeding commune members and visitors for decades. The menu is simple and changes daily: whatever is available, often organic and locally sourced, served as a single communal meal at shared tables.

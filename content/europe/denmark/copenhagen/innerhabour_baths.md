@@ -1,13 +1,13 @@
 ---
-title: Copenhagen Harbour Baths
-type: poi
-latitude: 55.6630
-longitude: 12.5890
+latitude: 55.663
+longitude: 12.589
 score: 8.3
 tags:
 - things_to_do
 - sight
-- harbourfront
+- indre_by
+title: Copenhagen Harbour Baths
+type: poi
 ---
 
 Copenhagen's inner harbour has been clean enough to swim in since the late 1990s — a remarkable achievement for a major European city. Several floating harbour baths (havnebade) are open in summer, the most popular being Islands Brygge Havnebad on the south harbour and Kalvebod Bølge further west. The Islands Brygge baths have pools, platforms, and diving boards built on floating pontoons and are free to use.

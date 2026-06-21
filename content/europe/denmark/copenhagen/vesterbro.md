@@ -5,10 +5,12 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Vesterbro_Torv.jpg
 latitude: 55.668
 longitude: 12.55
+snippet: 'Copenhagen''s gritty-turned-hip quarter: immigrant kitchens, indie bars,
+  and Kødbyen''s food scene'
 tags:
 - things_to_do
 - neighbourhood
-title: Vesterbro
+title: Vesterbro and Meatpacking District
 type: neighbourhood
 ---
 

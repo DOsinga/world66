@@ -7,7 +7,7 @@ snippet: Striking black granite extension of the Royal Library cantilevered over
 tags:
 - things_to_do
 - architecture
-- harbourfront
+- indre_by
 title: The Black Diamond
 type: poi
 ---

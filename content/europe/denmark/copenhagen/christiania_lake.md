@@ -1,13 +1,13 @@
 ---
-title: Christiania's Bathing Lake
-type: poi
-latitude: 55.6780
+latitude: 55.678
 longitude: 12.6138
 score: 7.0
 tags:
 - things_to_do
 - sight
-- christiania
+- christianshavn
+title: Christiania's Bathing Lake
+type: poi
 ---
 
 At the eastern end of Christiania, beyond the main lanes and the densely built-up commune area, a series of small lakes formed in the old moat provide a peaceful outdoor swimming spot in summer. Christiania residents have used them for decades, and visitors are welcome to swim or sunbathe on the banks. The setting — surrounded by old ramparts, with hand-built community structures visible through the trees — is unlike anything else near central Copenhagen.

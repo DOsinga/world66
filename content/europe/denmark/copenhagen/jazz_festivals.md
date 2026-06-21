@@ -5,7 +5,7 @@ score: 8.2
 tags:
 - things_to_do
 - sight
-- stroget
+- indre_by
 title: Copenhagen Jazz Festival
 type: poi
 ---

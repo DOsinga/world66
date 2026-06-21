@@ -6,7 +6,7 @@ score: 6.4
 snippet: Retro cocktail bar with lava lamps, velvet booths, and a Latin jazz soundtrack
 tags:
 - bars_and_cafes
-- latin_quarter
+- indre_by
 title: Stereo Bar
 type: poi
 ---

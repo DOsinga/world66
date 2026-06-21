@@ -11,7 +11,7 @@ story: The SMK's collection includes the largest surviving number of works by th
 tags:
 - things_to_do
 - museum
-- latin_quarter
+- indre_by
 title: Statens Museum for Kunst
 type: poi
 ---

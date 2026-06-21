@@ -10,7 +10,7 @@ snippet: 'Carl Jacobsen''s 1897 bequest: the largest Rodin collection outside Fr
 tags:
 - things_to_do
 - museum
-- stroget
+- indre_by
 title: Ny Carlsberg Glyptotek
 type: poi
 ---

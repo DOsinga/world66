@@ -5,7 +5,7 @@ score: 7.4
 tags:
 - eating_out
 - restaurant
-- latin_quarter
+- indre_by
 title: Smørrebrød at Schonnemann
 type: poi
 ---

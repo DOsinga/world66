@@ -12,7 +12,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- stroget
+- indre_by
 title: Copenhagen City Hall
 type: poi
 ---

@@ -7,7 +7,7 @@ snippet: Traditional jazz bar on Rådhuspladsen with free live music several nig
   a week
 tags:
 - bars_and_cafes
-- stroget
+- indre_by
 title: Charlie Scott's Bar
 type: poi
 ---

@@ -10,7 +10,7 @@ story: Walt Disney visited Tivoli in 1951 and later said it partly inspired Disn
 tags:
 - things_to_do
 - sight
-- stroget
+- indre_by
 title: Tivoli Gardens
 type: poi
 ---

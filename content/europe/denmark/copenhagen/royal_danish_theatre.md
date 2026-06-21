@@ -11,7 +11,7 @@ story: Hans Christian Andersen came to the Royal Danish Theatre as a 14-year-old
 tags:
 - things_to_do
 - sight
-- stroget
+- indre_by
 title: Royal Danish Theatre
 type: poi
 ---

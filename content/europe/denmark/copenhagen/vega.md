@@ -10,7 +10,7 @@ snippet: Copenhagen's best music venue, occupying a preserved 1950s trade union 
 tags:
 - bars_and_cafes
 - music
-- meatpacking_district
+- vesterbro
 title: Vega
 type: poi
 ---

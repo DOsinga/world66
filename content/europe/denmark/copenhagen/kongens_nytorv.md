@@ -10,7 +10,7 @@ story: The equestrian statue of Christian V in the centre of Kongens Nytorv was 
 tags:
 - things_to_do
 - sight
-- harbourfront
+- indre_by
 title: Kongens Nytorv
 type: poi
 ---

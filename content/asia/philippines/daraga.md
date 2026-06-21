@@ -11,6 +11,8 @@ latitude: 13.148
 loc_type: city
 longitude: 123.7121
 score: 0.35
+snippet: Albay municipality known for Cagsawa's buried church tower below the cone
+  of Mayon Volcano.
 title: Daraga
 type: location
 ---

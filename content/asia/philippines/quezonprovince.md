@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 14.0312
+loc_type: region
 longitude: 122.1108
+score: 0.42
+snippet: Luzon province of coconut groves, Pacific surf towns, and the sacred slopes
+  of Mount Banahaw.
 title: Quezon Province
 type: location
-score: 0.42
-loc_type: region
 ---
 
 Quezon is a large province stretching down the southeastern coast of Luzon, named after Philippine President Manuel L. Quezon. Its capital, Lucena City, sits at the head of the Tayabas Bay, but most travellers pass through on the way to the beaches and surf breaks further south.

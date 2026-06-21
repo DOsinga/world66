@@ -10,6 +10,8 @@ latitude: 38.527
 loc_type: city
 longitude: 68.549
 score: 0.21
+snippet: Tajik town near Dushanbe known for a ruined fortress, madrasas, and Bukharan
+  governor history.
 title: Hisar
 type: location
 ---

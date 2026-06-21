@@ -10,6 +10,8 @@ latitude: -13.792841
 loc_type: city
 longitude: -47.456852
 score: 0.35
+snippet: Cerrado gateway town with waterfalls, Kalunga quilombo culture, and access
+  to Chapada dos Veadeiros.
 title: Cavalcante
 type: location
 ---

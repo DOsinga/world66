@@ -11,6 +11,8 @@ latitude: 44.8378
 loc_type: city
 longitude: -0.5792
 score: 0.63
+snippet: French wine city of 18th-century limestone quays, Garonne riverfronts, and
+  surrounding vineyard estates.
 title: Bordeaux
 type: location
 ---

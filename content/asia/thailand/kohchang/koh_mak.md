@@ -10,6 +10,8 @@ latitude: 11.816
 loc_type: city
 longitude: 102.492633
 score: 0.51
+snippet: Quiet Gulf of Thailand island with low-key beaches, coconut plantations,
+  and bicycle-friendly roads.
 title: Koh Mak
 type: location
 ---

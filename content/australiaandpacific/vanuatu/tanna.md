@@ -6,6 +6,8 @@ latitude: -19.485778
 loc_type: city
 longitude: 169.334501
 score: 0.51
+snippet: Southern Vanuatu island defined by Mount Yasur, an active volcano with an
+  accessible crater rim.
 title: Tanna
 type: location
 ---

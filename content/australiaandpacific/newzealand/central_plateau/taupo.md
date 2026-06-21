@@ -9,6 +9,8 @@ latitude: -38.6866
 loc_type: city
 longitude: 176.0695
 score: 0.54
+snippet: Lakeside New Zealand town beside a vast volcanic caldera, central to exploring
+  the plateau.
 title: Taupo
 type: location
 ---

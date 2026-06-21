@@ -6,6 +6,8 @@ latitude: 17.2967
 loc_type: city
 longitude: -7.0283
 score: 0.34
+snippet: Remote Saharan caravan town known for earth-coloured houses painted with
+  geometric Oualata designs.
 title: Oualata
 type: location
 ---

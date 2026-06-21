@@ -9,6 +9,8 @@ latitude: -19.2569
 loc_type: city
 longitude: 146.824
 score: 0.41
+snippet: North Queensland coastal city beneath Castle Hill, with Magnetic Island just
+  offshore.
 sources:
 - https://en.wikipedia.org/wiki/Townsville
 - https://en.wikipedia.org/wiki/Reef_HQ

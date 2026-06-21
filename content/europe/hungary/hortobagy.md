@@ -10,6 +10,8 @@ latitude: 47.582614
 loc_type: city
 longitude: 21.152537
 score: 0.45
+snippet: Hungarian puszta grassland of csikós horsemen, grey cattle, mirages, and
+  the Nine-Arched Bridge
 title: Hortobágy
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 3.5559
 loc_type: city
 longitude: 101.6547
 score: 0.37
+snippet: Foothill town north of Kuala Lumpur, used as a jumping-off point for rainforest
+  waterfalls and rafting
 title: Kuala Kubu Baru
 type: location
 ---

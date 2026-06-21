@@ -9,6 +9,8 @@ latitude: 54.517271
 loc_type: city
 longitude: -128.599548
 score: 0.36
+snippet: Skeena River hub in northwestern British Columbia, shaped by railways, forestry,
+  and nearby First Nations communities
 title: Terrace
 type: location
 ---

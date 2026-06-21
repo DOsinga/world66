@@ -10,6 +10,8 @@ latitude: -1.6935
 loc_type: city
 longitude: 29.2599
 score: 0.36
+snippet: Lake Kivu border town and relaxed Rwandan base for beaches, boat trips, and
+  Virunga excursions
 title: Gisenyi
 type: location
 ---

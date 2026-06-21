@@ -5,6 +5,8 @@ latitude: 40.984254
 loc_type: region
 longitude: 16.621003
 score: 0.76
+snippet: Southern Italian region in the boot's heel, known for baroque Lecce, trulli,
+  and working Adriatic ports
 title: Puglia
 type: location
 ---

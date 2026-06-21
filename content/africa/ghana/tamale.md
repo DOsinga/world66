@@ -11,6 +11,8 @@ latitude: 9.405199
 loc_type: city
 longitude: -0.842399
 score: 0.31
+snippet: Northern Ghanaian capital and transport hub, with Muslim culture, markets,
+  and routes toward Mole National Park
 title: Tamale
 type: location
 ---

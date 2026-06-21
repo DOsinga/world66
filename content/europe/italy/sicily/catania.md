@@ -9,6 +9,8 @@ latitude: 37.5024
 loc_type: city
 longitude: 15.0874
 score: 0.59
+snippet: Sicilian city under Mount Etna, rebuilt in dark lava-stone baroque after
+  the 1693 disaster
 title: Catania
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 53.195625
 loc_type: city
 longitude: 50.101493
 score: 0.33
+snippet: Volga river city with Stalin's bunker, Art Nouveau waterfront mansions, and
+  a long summer embankment
 title: Samara
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 11.529684
 loc_type: city
 longitude: -6.866326
 score: 0.21
+snippet: Southern Malian city in green border country, anchored by Kénédougou walls
+  and a busy regional market
 title: Sikasso
 type: location
 ---

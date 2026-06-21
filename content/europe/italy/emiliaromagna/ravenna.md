@@ -9,6 +9,8 @@ latitude: 44.364061
 loc_type: city
 longitude: 12.05901
 score: 0.57
+snippet: Adriatic city of Byzantine churches and vivid early Christian mosaics unmatched
+  in Western Europe
 title: Ravenna
 type: location
 ---

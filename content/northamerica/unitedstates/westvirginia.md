@@ -7,6 +7,8 @@ title: West Virginia
 type: location
 score: 0.44
 loc_type: region
+snippet: Rugged Appalachian state of steep ridges, coal towns, and New River Gorge
+  wilderness.
 ---
 
 West Virginia is the most rugged and mountainous state in the eastern United States, a land of steep ridges, narrow valleys, and fast rivers carved through the Allegheny Plateau. Separated from Virginia in 1863 when its western counties refused to join the Confederacy, the state has always had a distinct identity — shaped by the coal industry, organised labour, and the Scots-Irish settlers who came to work the mountains long before coal was king.

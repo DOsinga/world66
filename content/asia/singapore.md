@@ -10,14 +10,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Skylines_of_the_Central_Bu
 latitude: 1.357107
 longitude: 103.819499
 quick_facts:
-  Population: "6 million"
+  Population: 6 million
   Currency: Singapore Dollar (SGD)
-  Land Area: "730 km² (and still growing via reclamation)"
-  Hawker Centres: "UNESCO-recognised street food culture"
+  Land Area: 730 km² (and still growing via reclamation)
+  Hawker Centres: UNESCO-recognised street food culture
 score: 0.69
 title: Singapore
 type: location
 loc_type: country
+snippet: Island city-state at the Malay Peninsula's tip, built from a trading port
+  into a dense multicultural metropolis.
 ---
 
 Singapore is a city-state on a small island at the southern tip of the Malay Peninsula, and it works harder than almost anywhere on earth to justify its own existence. No natural resources, no agricultural land, no hinterland — just 730 square kilometres of reclaimed and original island, six million people, and an economy that has grown from colonial trading port to one of the wealthiest places in the world within a single lifetime.

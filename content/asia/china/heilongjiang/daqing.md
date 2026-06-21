@@ -13,6 +13,8 @@ sources:
 title: Daqing
 type: location
 score: 0.26
+snippet: Industrial Chinese oil city built around 1959 petroleum discoveries on the
+  Songhua-Liao Plain.
 ---
 
 Daqing is China's oil city, built from scratch in 1959 after massive petroleum reserves were discovered beneath the Songhua-Liao Plain. The name means "great celebration," and the founding story is so bound up with Maoist mythology — "In industry, learn from Daqing" was one of the defining slogans of the Cultural Revolution — that the city retains an ideological aftertaste even now. The oil wells are still pumping, the refineries still dominate the skyline, and the sense that you are somewhere shaped entirely by a single industrial purpose has not entirely faded.

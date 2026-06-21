@@ -7,6 +7,8 @@ longitude: 11.039437
 score: 0.66
 title: Emilia-Romagna
 type: location
+snippet: Northern Italian region where Bologna, Parma, Modena, and coastal resorts
+  anchor a famous food culture.
 ---
 
 Emilia-Romagna is Italy's gastronomic heartland. Parmigiano-Reggiano, prosciutto di Parma, balsamic vinegar from [Modena](/europe/italy/emiliaromagna/modena), mortadella and tortellini from [Bologna](/europe/italy/emiliaromagna/bologna) -- the region reads like a menu of Italy's greatest hits. [Bologna](/europe/italy/emiliaromagna/bologna), nicknamed "la grassa" (the fat one), is the unofficial capital of Italian food, and every city in the region has its own specialties worth seeking out.

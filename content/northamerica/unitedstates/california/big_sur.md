@@ -7,6 +7,8 @@ title: Big Sur
 type: location
 score: 0.65
 loc_type: feature
+snippet: Central California coastal stretch where the Santa Lucia Mountains drop sharply
+  into the Pacific.
 ---
 
 Big Sur is a 90-mile stretch of [California's](/northamerica/unitedstates/california) central coast where the Santa Lucia Mountains rise abruptly from the Pacific. Highway 1 clings to the cliffs between San Simeon and Carmel, crossing famous bridges — Bixby Creek Bridge is the most photographed — and passing through groves of redwoods that somehow thrive in the fog.

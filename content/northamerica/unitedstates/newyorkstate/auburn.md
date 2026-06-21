@@ -7,6 +7,8 @@ latitude: 42.9317
 loc_type: city
 longitude: -76.5661
 score: 0.29
+snippet: Finger Lakes city with Harriet Tubman's home, Owasco Lake, and handsome nineteenth-century
+  brick streets.
 title: Auburn
 type: location
 ---

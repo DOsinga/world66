@@ -12,6 +12,8 @@ latitude: 35.8509
 loc_type: city
 longitude: 71.7902
 score: 0.34
+snippet: Remote Hindu Kush valley town beneath Tirich Mir, gateway to the Kalash side
+  valleys.
 title: Chitral
 type: location
 ---

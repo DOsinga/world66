@@ -10,6 +10,8 @@ latitude: 54.1363
 loc_type: city
 longitude: -1.5238
 score: 0.43
+snippet: Small Yorkshire city with a medieval cathedral, Saxon crypt, and nightly
+  Wakeman's horn tradition.
 title: Ripon
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 34.250723
 loc_type: city
 longitude: 36.009991
 score: 0.45
+snippet: Lebanese mountain town above Qadisha Gorge, birthplace of Khalil Gibran and
+  gateway to cedar forests.
 title: Bcharre
 type: location
 ---

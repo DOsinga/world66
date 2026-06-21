@@ -6,6 +6,8 @@ latitude: 6.010002
 loc_type: city
 longitude: -58.312488
 score: 0.26
+snippet: Demerara River town shaped by bauxite mining, red laterite soil, and the
+  road south to Brazil.
 sources:
 - https://en.wikipedia.org/wiki/Linden,_Guyana
 title: Linden

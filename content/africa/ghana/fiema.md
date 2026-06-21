@@ -10,6 +10,8 @@ latitude: 7.719088
 loc_type: city
 longitude: -1.693715
 score: 0.25
+snippet: Ghanaian village sanctuary where sacred colobus and mona monkeys live freely
+  among houses and forest.
 sources:
 - https://en.wikipedia.org/wiki/Boabeng-Fiema_Monkey_Sanctuary
 title: Fiema

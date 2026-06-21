@@ -10,6 +10,8 @@ latitude: 32.75175
 loc_type: city
 longitude: -16.981749
 score: 0.66
+snippet: Volcanic Atlantic island of steep ravines, cloud-touched peaks, levada walks,
+  and Funchal's hillside harbour.
 title: Madeira
 type: location
 ---

@@ -3,6 +3,8 @@ done:
   location_cleanup: '2026-04-09'
 loc_type: region
 score: 0.64
+snippet: Guanacaste resort gulf with sheltered Pacific waters, dry-season sunshine,
+  and beach-lined coves.
 title: Gulf of Papagayo
 type: location
 ---

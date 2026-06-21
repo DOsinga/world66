@@ -10,6 +10,8 @@ latitude: 19.0506
 loc_type: city
 longitude: -104.316
 score: 0.44
+snippet: Colima port city and Pacific resort spread around Manzanillo and Santiago
+  bays.
 title: Manzanillo
 type: location
 ---

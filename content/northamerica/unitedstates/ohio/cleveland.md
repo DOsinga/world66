@@ -12,6 +12,8 @@ latitude: 41.499657
 loc_type: city
 longitude: -81.693677
 score: 0.35
+snippet: Lake Erie city of music museums, serious cultural institutions, and neighborhood
+  food scenes from Ohio City to Little Italy.
 title: Cleveland
 type: location
 ---

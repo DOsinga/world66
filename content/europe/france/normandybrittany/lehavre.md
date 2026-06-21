@@ -10,6 +10,8 @@ latitude: 49.493898
 loc_type: city
 longitude: 0.107973
 score: 0.44
+snippet: Normandy port city rebuilt by Auguste Perret into a UNESCO-listed grid of
+  modernist concrete and light.
 title: Le Havre
 type: location
 ---

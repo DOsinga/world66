@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%A9cs-_Mosque_of_Pasha
 latitude: 46.0785
 loc_type: city
 longitude: 18.2271
+score: 0.51
+snippet: Southern Hungarian city where Roman tombs, Ottoman mosques, Baroque churches,
+  and Mecsek hills meet.
 sources:
 - https://en.wikipedia.org/wiki/P%C3%A9cs
 - https://en.wikivoyage.org/wiki/P%C3%A9cs
 title: Pécs
 type: location
-score: 0.51
 ---
 
 Pécs is the fifth-largest city in Hungary and one of the most rewarding places to visit in the country, sitting at the southern foot of the Mecsek hills close to the Croatian border. It has been inhabited continuously for roughly two thousand years — the Romans called it Sopianae and made it the capital of Lower Pannonia — and the layers of history are unusually visible: Roman burial chambers, Ottoman mosques, Baroque churches, and major modern museums all coexist in a compact old town that takes about half a day to walk.

@@ -11,6 +11,8 @@ latitude: -8.5072
 loc_type: city
 longitude: 115.2618
 score: 0.75
+snippet: Balinese cultural town among rice terraces and river gorges, known for dance,
+  painting, and temples
 title: Ubud
 type: location
 ---

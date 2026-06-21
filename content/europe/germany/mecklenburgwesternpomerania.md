@@ -1,9 +1,11 @@
 ---
+latitude: 53.6127
+loc_type: region
+longitude: 12.4296
+snippet: Northern German Baltic state of lagoons, beach resorts, lake country, and
+  sparsely populated countryside
 title: Mecklenburg-Western Pomerania
 type: location
-loc_type: region
-latitude: 53.6127
-longitude: 12.4296
 ---
 
 Mecklenburg-Western Pomerania is Germany's northernmost state, a flat landscape of lakes, forests, and Baltic coastline that most Germans associate with summer holidays and affordable fish suppers. It is the least densely populated state in the country — more cows than people, as the locals half-boast — and its unhurried character is part of the appeal. The state stretches from the outskirts of Hamburg east to the Polish border, with the Baltic Sea forming its entire northern edge.

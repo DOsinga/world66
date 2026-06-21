@@ -9,6 +9,8 @@ latitude: 25.335649
 loc_type: city
 longitude: 83.007629
 score: 0.64
+snippet: Ancient Hindu sacred city on the Ganges, where ghats, cremations, and dawn
+  rituals define daily life
 title: Varanasi
 type: location
 ---

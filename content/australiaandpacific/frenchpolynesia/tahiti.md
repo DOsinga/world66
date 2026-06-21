@@ -10,6 +10,8 @@ latitude: -17.6873
 loc_type: region
 longitude: -149.4452
 score: 0.81
+snippet: French Polynesia's largest volcanic island, with black-sand beaches, waterfalls,
+  marae, and Papeete's urban coast
 title: Tahiti
 type: location
 ---

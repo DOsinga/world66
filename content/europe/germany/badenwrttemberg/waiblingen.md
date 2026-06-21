@@ -10,6 +10,8 @@ latitude: 48.8326
 loc_type: city
 longitude: 9.3164
 score: 0.33
+snippet: Swabian town east of Stuttgart, with half-timbered streets, medieval gates,
+  and Stihl industrial heritage
 title: Waiblingen
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 29.699375
 loc_type: city
 longitude: -91.20677
 score: 0.26
+snippet: Atchafalaya River oil-and-shrimp town where offshore drilling history meets
+  swamp country and maritime festivals
 title: “Morgan City”
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 5.210419
 loc_type: city
 longitude: -74.736192
 score: 0.32
+snippet: Small colonial river town where Magdalena boats once met mule trains bound
+  for Bogotá
 title: Honda
 type: location
 ---

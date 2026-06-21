@@ -8,6 +8,8 @@ latitude: -0.3031
 loc_type: city
 longitude: 36.08
 score: 0.46
+snippet: Rift Valley city beside Lake Nakuru, ringed by soda lakes, volcanoes, farmland,
+  and rhino country
 title: Nakuru
 type: location
 ---

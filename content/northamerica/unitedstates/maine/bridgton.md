@@ -10,6 +10,8 @@ latitude: 44.0544
 loc_type: city
 longitude: -70.7089
 score: 0.38
+snippet: Western Maine lakes-and-mountains town with old summer cottages, ski slopes,
+  and four-season outdoor escapes
 title: Bridgton
 type: location
 ---

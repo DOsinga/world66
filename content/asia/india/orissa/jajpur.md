@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-28'
+image: jajpur.jpg
+image_attribution: Deepak das
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Jajpur,_Odisha,_India_-_panoramio_(14).jpg
 latitude: 20.85
 loc_type: city
 longitude: 86.33
 score: 0.28
+snippet: Odisha pilgrimage town on the Vaitarani River, centred on Viraja worship
+  and ancestral rites
 title: Jajpur
 type: location
-image: jajpur.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jajpur,_Odisha,_India_-_panoramio_(14).jpg
-image_license: CC BY 3.0
-image_attribution: Deepak das
 ---
 
 Jajpur — also known as Vaitarani Tirtha — is one of Odisha's most important Hindu pilgrimage sites, built around the sacred Vaitarani river. The presiding deity is Goddess Viraja, whose [Biraja Temple](/asia/india/orissa/jajpur/biraja_temple) draws devotees from across India, particularly those performing ancestral rites.

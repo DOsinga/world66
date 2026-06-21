@@ -9,6 +9,8 @@ latitude: 39.993103
 loc_type: city
 longitude: 15.723124
 score: 0.5
+snippet: Basilicata coastal town squeezed between Tyrrhenian cliffs, mountain churches,
+  and cave-dotted coves
 title: Maratea
 type: location
 ---

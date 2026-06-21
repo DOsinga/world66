@@ -6,6 +6,8 @@ latitude: 38.8586
 loc_type: city
 longitude: -104.9179
 score: 0.49
+snippet: Artsy Colorado resort town at Pikes Peak's foot, built around mineral springs
+  and steep mountain trails
 sources:
 - https://en.wikipedia.org/wiki/Manitou_Springs,_Colorado
 title: Manitou Springs

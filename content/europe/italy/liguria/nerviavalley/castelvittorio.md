@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Castellvittorio_viewed_fro
 latitude: 43.9333
 loc_type: city
 longitude: 7.6333
+score: 0.4
+snippet: Tiny Ligurian hilltop village with medieval stone lanes and wide views into
+  the Nervia gorge
 sources:
 - https://en.wikipedia.org/wiki/Castelvittorio
 title: Castelvittorio
 type: location
-score: 0.4
 ---
 
 Castelvittorio is a tiny hilltop village in the upper [Nervia Valley](/europe/italy/liguria/nerviavalley), perched on a ridge a couple of kilometres south of [Pigna](/europe/italy/liguria/nerviavalley/pigna). It is the kind of place most visitors find by accident — there is no real reason to drive up here unless you are exploring the valley properly — but the layout of the old village is unusually well preserved, and the views down into the Nervia gorge are exceptional.

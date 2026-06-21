@@ -10,6 +10,8 @@ latitude: 19.6419
 loc_type: city
 longitude: -155.9969
 score: 0.61
+snippet: Sunny Big Island resort town on lava-rock shores, beside royal Hawaiian sites
+  and Kona coffee slopes
 title: Kailua-Kona
 type: location
 ---

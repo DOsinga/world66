@@ -9,6 +9,8 @@ latitude: 40.47076
 loc_type: city
 longitude: 19.491272
 score: 0.45
+snippet: Albanian port city where independence was declared, set between Adriatic
+  beaches and Ionian cliffs
 title: Vlore
 type: location
 ---

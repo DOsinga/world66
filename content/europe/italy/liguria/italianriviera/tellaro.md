@@ -10,6 +10,8 @@ latitude: 44.058022
 loc_type: city
 longitude: 9.93037
 score: 0.55
+snippet: Car-free Ligurian fishing village of pastel houses, rocky swimming coves,
+  and Gulf of La Spezia views
 title: Tellaro
 type: location
 ---

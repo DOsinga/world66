@@ -10,6 +10,8 @@ latitude: 14.3505
 loc_type: city
 longitude: -3.6113
 score: 0.38
+snippet: Dusty Dogon country gateway where travellers arrange guides for treks along
+  the sandstone escarpment
 title: Bandiagara
 type: location
 ---

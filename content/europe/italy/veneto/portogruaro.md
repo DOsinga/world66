@@ -7,6 +7,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Portogruaro_veduta_06.jpg
 latitude: 45.775
 loc_type: city
+snippet: Veneto river town near Friuli, preserving a long medieval port centre along the Lemene.
 longitude: 12.8367
 sources:
 - https://en.wikipedia.org/wiki/Portogruaro

@@ -3,6 +3,7 @@ done:
   link_coverage: '2026-06-08'
 latitude: 36.6131
 loc_type: city
+snippet: Small Wakhi village in Upper Hunza, perched above the Karakoram Highway amid harsh mountain terraces.
 longitude: 74.8646
 title: Moorkhoun
 type: location

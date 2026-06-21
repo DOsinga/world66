@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-06-02'
 latitude: 25.27
 loc_type: city
+snippet: Highland Mao Naga town on Manipur's Dimapur-Imphal road, surrounded by terraced hills and subtropical forest.
 longitude: 93.87
 score: 0.22
 title: Mao

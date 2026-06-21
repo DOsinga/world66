@@ -7,6 +7,7 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:The_Hanging_Gardens_of_Haifa,_Israel_(50099173503)_(cropped).jpg
 latitude: 32.819122
 loc_type: city
+snippet: Working Israeli port city on Mount Carmel, mixing Bahá'í gardens, beaches, and Jewish-Arab neighbourhoods.
 longitude: 34.998386
 score: 0.52
 title: Haifa

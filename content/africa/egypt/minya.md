@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-06-01'
 latitude: 28.119444
 loc_type: city
+snippet: Nile city in Middle Egypt, base for Beni Hassan tombs and quieter ancient sites.
 longitude: 30.744444
 score: 0.35
 title: Minya

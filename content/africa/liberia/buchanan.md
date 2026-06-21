@@ -3,6 +3,7 @@ done:
   link_coverage: '2026-06-08'
 latitude: 5.8808
 loc_type: city
+snippet: Relaxed Liberian port city on Waterhouse Bay, shaped by Bassa roots and Americo-Liberian history.
 longitude: -10.0467
 sources:
 - https://en.wikipedia.org/wiki/Buchanan,_Liberia

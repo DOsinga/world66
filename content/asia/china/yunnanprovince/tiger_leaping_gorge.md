@@ -7,6 +7,7 @@ image_license: CC BY-SA 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Tiger_Leaping_Gorge.jpg
 latitude: 27.2359
 loc_type: feature
+snippet: Yunnan mountain gorge where the upper Yangtze cuts between Jade Dragon and Haba snow peaks.
 longitude: 100.1325
 sources:
 - https://en.wikivoyage.org/wiki/Tiger_Leaping_Gorge

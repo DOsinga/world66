@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-16'
 latitude: 46.0
 loc_type: region
+snippet: Autonomous northeastern Italian region where Alpine, Adriatic, Slovenian, Austrian, and Friulian influences meet.
 longitude: 13.2
 score: 0.6
 title: Friuli Venezia Giulia

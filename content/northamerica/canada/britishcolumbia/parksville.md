@@ -4,6 +4,7 @@ done:
 latitude: 49.317951
 longitude: -124.311739
 title: Parksville
+snippet: "Vancouver Island beach town known for broad tidal sand flats and unusually warm shallow water."
 type: location
 score: 0.41
 loc_type: city

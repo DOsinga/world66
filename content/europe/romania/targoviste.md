@@ -11,6 +11,7 @@ loc_type: city
 longitude: 25.462816
 score: 0.38
 title: Târgoviște
+snippet: "Former Wallachian capital northwest of Bucharest, centred on the Princely Court of Vlad the Impaler."
 type: location
 ---
 

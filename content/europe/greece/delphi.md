@@ -10,6 +10,7 @@ loc_type: city
 longitude: 22.500549
 score: 0.65
 title: Delphi
+snippet: "Ancient Greek sanctuary on Mount Parnassus, where Apollo's oracle looked over the Phocis olive plain."
 type: location
 ---
 

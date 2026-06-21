@@ -11,6 +11,7 @@ loc_type: city
 longitude: 16.810096
 score: 0.41
 title: Metaponto
+snippet: "Ionian coastal town on a Magna Graecia landscape where Pythagoras spent his final years."
 type: location
 ---
 

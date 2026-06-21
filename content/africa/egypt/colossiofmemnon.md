@@ -4,6 +4,7 @@ done:
 latitude: 25.720495
 longitude: 32.610441
 title: Colossi of Memnon
+snippet: "Ancient Nile-side statue pair, surviving from Amenhotep III's vast funerary temple near Luxor."
 type: location
 score: 0.55
 loc_type: feature

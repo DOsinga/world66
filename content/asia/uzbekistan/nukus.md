@@ -7,6 +7,7 @@ loc_type: city
 longitude: 59.61766
 score: 0.28
 title: Nukus
+snippet: "Karakalpakstan capital in arid western Uzbekistan, home to the Savitsky Museum's rescued avant-garde art."
 type: location
 ---
 

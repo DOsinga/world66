@@ -10,6 +10,7 @@ loc_type: city
 longitude: -116.91018
 score: 0.43
 title: Big Bear Lake
+snippet: "Southern California mountain lake resort, with ski slopes and summer boating high in the San Bernardino Mountains."
 type: location
 ---
 

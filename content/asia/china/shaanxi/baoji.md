@@ -11,6 +11,7 @@ longitude: 107.1751
 sources:
 - https://en.wikivoyage.org/wiki/Baoji
 title: Baoji
+snippet: "Wei River city at Shaanxi's western mountains, rooted in Zhou and Qin bronze-age history."
 type: location
 score: 0.3
 ---

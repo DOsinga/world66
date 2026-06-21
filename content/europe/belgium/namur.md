@@ -11,6 +11,7 @@ loc_type: city
 longitude: 4.8662
 score: 0.46
 title: Namur
+snippet: "Walloon capital at the Sambre-Meuse confluence, watched over by a fortress citadel and tunnel network."
 type: location
 ---
 

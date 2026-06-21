@@ -10,6 +10,7 @@ loc_type: city
 longitude: -75.4806
 score: 0.49
 title: Hatteras Island
+snippet: "Outer Banks barrier island of dunes, fishing villages, and Cape Hatteras National Seashore beaches."
 type: location
 ---
 

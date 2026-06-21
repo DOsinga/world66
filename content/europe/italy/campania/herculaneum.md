@@ -10,6 +10,7 @@ loc_type: city
 longitude: 14.347104
 score: 0.59
 title: Herculaneum
+snippet: "Roman resort town buried by Vesuvius, where carbonised wood, food, and furniture survived beneath pyroclastic flows."
 type: location
 ---
 

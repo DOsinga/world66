@@ -10,6 +10,7 @@ loc_type: city
 longitude: 81.234495
 score: 0.5
 title: Trincomalee
+snippet: "Tamil northeast coast city on a deep natural harbour long coveted by Sri Lanka's naval powers."
 type: location
 ---
 

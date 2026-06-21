@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Castle
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Museum
 title: Nevşehir
+snippet: "Cappadocia transport hub and provincial capital shaped by Damat İbrahim Paşa's Ottoman-era rebuilding."
 type: location
 ---
 

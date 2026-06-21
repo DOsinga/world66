@@ -7,6 +7,7 @@ loc_type: city
 longitude: 23.646265
 score: 0.28
 title: Pirkkala
+snippet: "Small lakeside municipality south of Tampere, best known as the airport gateway to the Tampere region."
 type: location
 ---
 

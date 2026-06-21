@@ -11,6 +11,7 @@ loc_type: city
 longitude: 15.2907
 score: 0.65
 title: Siracusa
+snippet: "Ancient Sicilian city where Greek temples, Baroque Ortigia, and Mediterranean harbour life overlap."
 type: location
 ---
 

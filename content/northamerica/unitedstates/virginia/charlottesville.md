@@ -10,6 +10,7 @@ loc_type: city
 longitude: -78.476678
 score: 0.44
 title: Charlottesville
+snippet: "Blue Ridge foothills city defined by Thomas Jefferson, the University of Virginia, and Albemarle wine country."
 type: location
 ---
 

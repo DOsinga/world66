@@ -1,5 +1,6 @@
 ---
 title: Puerto Morelos
+snippet: "Riviera Maya fishing town with a leaning lighthouse and reef protected just offshore."
 type: location
 loc_type: city
 latitude: 20.8493

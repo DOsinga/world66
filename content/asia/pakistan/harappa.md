@@ -9,6 +9,7 @@ score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Harappa
 title: Harappa
+snippet: "Indus Valley archaeological site in Punjab, preserving the type-city of a Bronze Age civilisation."
 type: location
 ---
 

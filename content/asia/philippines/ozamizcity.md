@@ -14,6 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Ozamiz
 - https://en.wikipedia.org/wiki/Fuerte_de_la_Concepcion_y_del_Triunfo
 title: Ozamiz City
+snippet: "Northern Mindanao bay city with Spanish Misamis roots and a coral-stone fort on the waterfront."
 type: location
 ---
 

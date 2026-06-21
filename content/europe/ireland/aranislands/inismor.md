@@ -12,6 +12,7 @@ longitude: -9.7056
 score: 0.57
 title: Inis Mór
 type: location
+snippet: Largest Aran Island, a limestone landscape of stone walls and prehistoric Atlantic forts.
 ---
 
 Inis Mór is the largest of the three Aran Islands, lying off the coast of County Galway at the mouth of Galway Bay. It is a slab of karst limestone nine miles long, windswept and treeless, crisscrossed by thousands of stone walls and scattered with some of the most impressive prehistoric and early Christian ruins in Ireland. Irish is the first language here.

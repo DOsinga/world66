@@ -11,6 +11,7 @@ longitude: -85.6166
 score: 0.47
 title: Traverse City
 type: location
+snippet: Northern Michigan bay city known for cherry orchards, vineyards, and Grand Traverse Bay.
 ---
 
 Traverse City sits at the base of the two arms of Grand Traverse Bay in northern Michigan and styles itself the Cherry Capital of the World. The surrounding Leelanau and Old Mission peninsulas are covered in cherry orchards and vineyards, and the [National Cherry Festival](/northamerica/unitedstates/michigan/traverse_city/national_cherry_festival) each July draws big crowds.

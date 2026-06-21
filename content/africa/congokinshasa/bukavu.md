@@ -12,6 +12,7 @@ longitude: 28.859489
 score: 0.2
 title: Bukavu
 type: location
+snippet: Lake Kivu city of steep peninsulas, terraced streets, and access to Kahuzi-Biega National Park.
 ---
 
 Bukavu tumbles down a series of steep peninsulas into the southern end of [Lake Kivu](/africa/congokinshasa/bukavu/lake_kivu), one of Africa's Great Lakes. The setting is stunning — green hills plunging into deep blue water, with the volcanoes of the Albertine Rift visible in the distance. The Belgians built the town as Costermansville and gave it a hilly, terraced layout that earns it occasional comparisons to an African lakeside version of a Mediterranean town.

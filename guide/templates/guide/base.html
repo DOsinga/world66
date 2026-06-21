@@ -29,13 +29,6 @@
     </a>
     {% block breadcrumbs %}{% endblock %}
     <div class="nav-right">
-      <div class="site-search-wrap">
-        <form class="site-search" action="/search" method="get" role="search">
-          <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" autocomplete="off" aria-label="Search destinations">
-          <button type="submit" aria-label="Search">&#128269;</button>
-        </form>
-        <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
-      </div>
       <div class="nav-actions" aria-label="Project links">
         <a class="nav-icon-button" href="https://github.com/DOsinga/world66" target="_blank" rel="noopener" aria-label="World66 on GitHub" title="World66 is open source">
           <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -48,6 +41,13 @@
           </svg>
           <span>File issue</span>
         </a>
+      </div>
+      <div class="site-search-wrap">
+        <form class="site-search" action="/search" method="get" role="search">
+          <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" autocomplete="off" aria-label="Search destinations">
+          <button type="submit" aria-label="Search">&#128269;</button>
+        </form>
+        <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
       </div>
     </div>
   </div>

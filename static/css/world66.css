@@ -315,6 +315,7 @@ img { max-width: 100%; height: auto; }
 
 .site-search input[type="search"] {
   flex: 1;
+  height: 28px;
   padding: 5px 10px;
   font-size: 13px;
   border: 1px solid var(--border);
@@ -332,6 +333,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .site-search button {
+  height: 28px;
   padding: 5px 10px;
   font-size: 13px;
   border: 1px solid var(--border);
@@ -355,7 +357,7 @@ img { max-width: 100%; height: auto; }
 
 .nav-icon-button {
   width: 34px;
-  height: 32px;
+  height: 28px;
   display: inline-flex;
   align-items: center;
   justify-content: center;

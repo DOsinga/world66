@@ -12,6 +12,8 @@ latitude: 42.2314
 loc_type: city
 longitude: -8.7227
 score: 0.45
+snippet: Galician fishing port on a deep Atlantic bay, shaped by seafood markets and
+  shipyards.
 title: Vigo
 type: location
 ---

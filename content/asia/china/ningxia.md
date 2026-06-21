@@ -5,6 +5,8 @@ latitude: 37.0
 loc_type: region
 longitude: 106.0
 score: 0.42
+snippet: Arid Hui Muslim region of northwest China, shaped by the Yellow River and
+  Helan Mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Ningxia
 title: Ningxia

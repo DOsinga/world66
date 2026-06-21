@@ -10,6 +10,8 @@ latitude: 46.124017
 loc_type: city
 longitude: 3.420366
 score: 0.46
+snippet: Belle Époque spa town on the Allier, inseparable from France's wartime collaboration
+  history.
 title: Vichy
 type: location
 ---

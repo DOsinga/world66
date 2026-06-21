@@ -10,6 +10,8 @@ latitude: 12.1784
 loc_type: city
 longitude: -68.2385
 score: 0.59
+snippet: Southern Caribbean island with calm reef-lined shores and one of the region's
+  strongest shore-diving scenes.
 title: Bonaire
 type: location
 ---

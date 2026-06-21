@@ -12,6 +12,8 @@ latitude: 39.952724
 loc_type: city
 longitude: -75.163526
 score: 0.52
+snippet: Historic American city on the Delaware, central to the Revolution and rich
+  in neighbourhood culture.
 title: Philadelphia
 type: location
 ---

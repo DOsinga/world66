@@ -10,6 +10,8 @@ latitude: 39.395888
 loc_type: city
 longitude: 47.0286
 score: 0.18
+snippet: Southern Karabakh foothill town by the Araz River, marked by ruined historic
+  sites and wartime displacement.
 title: Cebrayil
 type: location
 ---

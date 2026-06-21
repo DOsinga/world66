@@ -10,6 +10,8 @@ latitude: 30.5
 loc_type: region
 longitude: 34.916667
 score: 0.52
+snippet: Vast Israeli desert region of erosion craters, Nabataean ruins, and Bedouin
+  towns south of Be'er Sheva.
 title: Negev
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 20.046233
 loc_type: city
 longitude: 110.19565
 score: 0.38
+snippet: Hainan capital on the Qiongzhou Strait, with qilou arcades built by returned
+  overseas Chinese.
 title: Haikou
 type: location
 ---

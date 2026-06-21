@@ -9,6 +9,8 @@ latitude: 49.2927
 loc_type: city
 longitude: 21.2756
 score: 0.46
+snippet: Northeastern Slovak medieval town with an intact UNESCO-listed square and
+  preserved fortifications.
 title: Bardejov
 type: location
 ---

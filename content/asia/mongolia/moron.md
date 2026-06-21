@@ -10,6 +10,8 @@ latitude: 49.628481
 loc_type: city
 longitude: 100.174557
 score: 0.26
+snippet: Northern Mongolian provincial town and supply gateway to Lake Khövsgöl's
+  forested mountain basin.
 title: Moron
 type: location
 ---

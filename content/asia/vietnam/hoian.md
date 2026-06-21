@@ -17,6 +17,8 @@ latitude: 15.8801
 loc_type: city
 longitude: 108.338
 score: 0.71
+snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assembly
+  halls, and a Japanese covered bridge.
 title: Hoi An
 type: location
 ---

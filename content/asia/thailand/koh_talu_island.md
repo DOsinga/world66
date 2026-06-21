@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 11.122436
+loc_type: feature
 longitude: 99.486958
+score: 0.5
+snippet: Quiet Gulf of Thailand island off Bang Saphan, centred on beaches, snorkelling,
+  and seafood.
 title: Koh Talu
 type: location
-score: 0.5
-loc_type: feature
 ---
 
 Koh Talu is a small, quiet island in the Gulf of Thailand, sitting off the coast near [Bang Saphan](/asia/thailand/bang_saphan) and Ban Krut on the so-called Thai Sunrise Coast. No nightlife, no shopping — just beach, sea, and silence. It is the kind of place you go to when you want to do as little as possible: snorkeling, kayaking, lazing on the sand, eating fresh Thai seafood.

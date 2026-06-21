@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Perast_100.jpg
 latitude: 42.486268
 loc_type: city
 longitude: 18.698859
-score: 0.65
+score: 0.58
 title: Perast
 type: location
 ---

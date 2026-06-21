@@ -1,0 +1,200 @@
+{
+  "round": 3311,
+  "timestamp": "2026-06-13T22:44:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -2.1467,
+      "prior_variance": 0.117868,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -3.4853,
+      "prior_variance": 0.13746,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -2.0932,
+      "prior_variance": 0.131151,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -0.8809,
+      "prior_variance": 0.111531,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/south_east/harrow",
+      "prior_score": -4.6049,
+      "prior_variance": 0.120505,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -3.4952,
+      "prior_variance": 0.126061,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -4.5947,
+      "prior_variance": 0.145814,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -5.073,
+      "prior_variance": 0.158193,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -6.3361,
+      "prior_variance": 0.213637,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -4.7067,
+      "prior_variance": 0.165887,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -4.3367,
+      "prior_variance": 0.126283,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_score": -6.2084,
+      "prior_variance": 0.192066,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.8107,
+      "prior_variance": 0.126085,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Mardakan",
+      "path": "europe/azerbaijan/mardakan",
+      "prior_score": -4.0541,
+      "prior_variance": 0.129791,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -5.3097,
+      "prior_variance": 0.131116,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -5.9902,
+      "prior_variance": 0.149605,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.9788,
+      "prior_variance": 0.153109,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -5.5735,
+      "prior_variance": 0.144486,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -5.389,
+      "prior_variance": 0.162727,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.4911,
+      "prior_variance": 0.193388,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -6.0547,
+      "prior_variance": 0.172551,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -5.9246,
+      "prior_variance": 0.171946,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.4531,
+      "prior_variance": 0.176809,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -8.4992,
+      "prior_variance": 0.243336,
+      "prior_n": 10
+    }
+  ]
+}

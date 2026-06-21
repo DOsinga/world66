@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buckingham_Friends_Meeting
 latitude: 40.3465
 loc_type: city
 longitude: -75.0312
-score: 0.39
+score: 0.36
 title: Lahaska
 type: location
 ---

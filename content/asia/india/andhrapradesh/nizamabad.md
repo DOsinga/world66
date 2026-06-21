@@ -5,7 +5,7 @@ done:
 latitude: 18.673269
 loc_type: city
 longitude: 78.097848
-score: 0.29
+score: 0.26
 title: Nizamabad
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pantai_Tanjung_Tinggi_Beli
 latitude: -2.884281
 loc_type: city
 longitude: 107.66316
-score: 0.56
+score: 0.5
 title: Belitung
 type: location
 ---

@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Ayr_(Scotland)
 title: Ayr
 type: location
+score: 0.43
 ---
 
 Ayr is a coastal town on the Firth of Clyde in South Ayrshire, best known as the birthplace of Robert Burns — Scotland's national poet, born at Alloway on the southern edge of the town in 1759. The Burns connection is Ayr's dominant attraction: [Burns Cottage](/europe/unitedkingdom/scotland/ayr/burns_cottage) and the [Burns National Heritage Park](/europe/unitedkingdom/scotland/ayr/burns_heritage_park) draw visitors from around the world, particularly on Burns Night (25 January) when the town is at its most animated. The nearby Auld Brig — the ancient bridge over the River Ayr that appears in Burns's narrative poem "Tam o' Shanter" — is still standing, still walkable, and still gives a shiver of recognition to anyone who knows the poem.

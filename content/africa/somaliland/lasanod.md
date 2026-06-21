@@ -5,7 +5,7 @@ done:
 latitude: 8.474261
 loc_type: city
 longitude: 47.355194
-score: 0.14
+score: 0.13
 title: Lasanod
 type: location
 ---

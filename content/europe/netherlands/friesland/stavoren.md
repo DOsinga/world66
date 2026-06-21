@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/60057960@N06/52752353874
 latitude: 52.883269
 loc_type: city
 longitude: 5.360213
-score: 0.44
+score: 0.37
 title: Stavoren
 type: location
 ---

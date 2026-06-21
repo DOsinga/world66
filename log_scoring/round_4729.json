@@ -1,0 +1,200 @@
+{
+  "round": 4729,
+  "timestamp": "2026-06-14T00:36:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.7915,
+      "prior_variance": 0.087697,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.8843,
+      "prior_variance": 0.087124,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.5862,
+      "prior_variance": 0.089332,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.1236,
+      "prior_variance": 0.08714,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.9366,
+      "prior_variance": 0.080667,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.1835,
+      "prior_variance": 0.088908,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 1.4079,
+      "prior_variance": 0.085173,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 0.1423,
+      "prior_variance": 0.081552,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.4225,
+      "prior_variance": 0.088426,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 0.5533,
+      "prior_variance": 0.09026,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 1.6824,
+      "prior_variance": 0.089404,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.2965,
+      "prior_variance": 0.086339,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.398,
+      "prior_variance": 0.100767,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.5267,
+      "prior_variance": 0.121147,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -3.6987,
+      "prior_variance": 0.084525,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -2.9375,
+      "prior_variance": 0.090521,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -3.7735,
+      "prior_variance": 0.104454,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -3.5997,
+      "prior_variance": 0.094567,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.5526,
+      "prior_variance": 0.090973,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.6763,
+      "prior_variance": 0.083976,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.1958,
+      "prior_variance": 0.097686,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.0342,
+      "prior_variance": 0.103531,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.0327,
+      "prior_variance": 0.096917,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.0065,
+      "prior_variance": 0.101605,
+      "prior_n": 16
+    }
+  ]
+}

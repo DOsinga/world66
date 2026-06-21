@@ -5,7 +5,7 @@ latitude: 51.807553
 longitude: -2.448843
 title: Severn Bore
 type: location
-score: 0.45
+score: 0.37
 loc_type: feature
 ---
 

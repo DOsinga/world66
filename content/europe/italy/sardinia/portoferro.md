@@ -5,7 +5,7 @@ done:
 latitude: 40.6896
 loc_type: city
 longitude: 8.2
-score: 0.57
+score: 0.44
 title: Porto Ferro
 type: location
 ---

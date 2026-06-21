@@ -5,7 +5,7 @@ done:
 latitude: 45.832683
 loc_type: city
 longitude: 2.851766
-score: 0.41
+score: 0.34
 title: Pontgibaud
 type: location
 ---

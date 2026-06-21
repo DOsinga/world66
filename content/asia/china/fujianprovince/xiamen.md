@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:An_overall_view_of_Xiamen_
 latitude: 24.479832
 loc_type: city
 longitude: 118.089425
-score: 0.75
+score: 0.5
 title: Xiamen
 type: location
 ---

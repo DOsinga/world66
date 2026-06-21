@@ -5,7 +5,7 @@ latitude: -21.0233
 longitude: 55.5333
 title: Cirque de Salazie
 type: location
-score: 0.61
+score: 0.55
 loc_type: feature
 ---
 

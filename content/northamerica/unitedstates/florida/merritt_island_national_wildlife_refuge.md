@@ -5,7 +5,7 @@ latitude: 28.620231
 longitude: -80.742237
 title: Merritt Island National Wildlife Refuge
 type: location
-score: 0.51
+score: 0.41
 loc_type: feature
 ---
 

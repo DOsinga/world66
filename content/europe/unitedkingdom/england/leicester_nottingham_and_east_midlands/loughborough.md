@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loughborough_Carillon_towe
 latitude: 52.772386
 loc_type: city
 longitude: -1.207798
-score: 0.38
+score: 0.32
 title: Loughborough
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 35.766
 loc_type: city
 longitude: 10.7774
-score: 0.4
+score: 0.38
 title: Skanes
 type: location
 ---

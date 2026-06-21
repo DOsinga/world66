@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portsmouth,_Ohio.jpg
 latitude: 38.7318
 loc_type: city
 longitude: -82.9977
-score: 0.29
+score: 0.22
 title: Portsmouth
 type: location
 ---

@@ -1,199 +1,199 @@
 {
   "round": 419,
-  "timestamp": "2026-04-12T09:30:04",
+  "timestamp": "2026-06-13T19:34:29",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Oahu",
-      "path": "northamerica/unitedstates/hawaii/oahu",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.6919,
+      "prior_variance": 2.596695,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "St. Augustine",
-      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
-      "prior_mu": 22.3839,
-      "prior_sigma": 5.797,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 5.3979,
+      "prior_variance": 2.23774,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Tampa Bay Area",
-      "path": "northamerica/unitedstates/florida/tampabayarea",
-      "prior_mu": 21.9461,
-      "prior_sigma": 4.8372,
-      "prior_n": 2
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 5.6264,
+      "prior_variance": 3.462715,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Snowmass Village",
-      "path": "northamerica/unitedstates/colorado/snowmass_village",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 4.4395,
+      "prior_variance": 1.481072,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Paso Robles",
-      "path": "northamerica/unitedstates/california/paso_robels",
-      "prior_mu": 22.2761,
-      "prior_sigma": 5.7838,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 5.98,
+      "prior_variance": 2.230536,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Berkeley",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 5.8001,
+      "prior_variance": 2.030512,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Museum District",
-      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 6.5484,
+      "prior_variance": 1.672122,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Downtown",
-      "path": "northamerica/unitedstates/texas/houston/downtown",
-      "prior_mu": 22.2327,
-      "prior_sigma": 5.5363,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 5.3038,
+      "prior_variance": 1.964492,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Tarpon Springs",
-      "path": "northamerica/unitedstates/florida/tarpon_springs",
-      "prior_mu": 22.7228,
-      "prior_sigma": 5.9499,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 2.9914,
+      "prior_variance": 1.8629,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Helen",
-      "path": "northamerica/unitedstates/georgia/helen",
-      "prior_mu": 22.8869,
-      "prior_sigma": 5.7238,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 4.1886,
+      "prior_variance": 2.658094,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Northampton",
-      "path": "northamerica/unitedstates/massachusetts/northhampton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 5.2417,
+      "prior_variance": 2.233149,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Hotsprings",
-      "path": "northamerica/unitedstates/arkansas/hotsprings",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 5.2561,
+      "prior_variance": 1.767986,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Laguna Niguel",
-      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 5.3826,
+      "prior_variance": 2.681441,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Windsor",
-      "path": "northamerica/unitedstates/california/windsor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sabaudia",
+      "path": "europe/italy/lazio/sabaudia",
+      "prior_score": 3.9505,
+      "prior_variance": 2.042609,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Cahokia",
-      "path": "northamerica/unitedstates/illinois/cahokia",
-      "prior_mu": 22.4313,
-      "prior_sigma": 5.9005,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 4.0197,
+      "prior_variance": 1.551705,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Norman",
-      "path": "northamerica/unitedstates/oklahoma/norman",
-      "prior_mu": 22.7843,
-      "prior_sigma": 5.7172,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": 5.9737,
+      "prior_variance": 2.268196,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Plano",
-      "path": "northamerica/unitedstates/texas/plano",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": 2.4068,
+      "prior_variance": 2.363573,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Riverside",
-      "path": "northamerica/unitedstates/california/inlandempire/riverside",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 1.8377,
+      "prior_variance": 1.584607,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Ontario",
-      "path": "northamerica/unitedstates/california/ontario",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 1.8729,
+      "prior_variance": 1.824132,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Indiana",
-      "path": "northamerica/unitedstates/indiana",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": 0.8419,
+      "prior_variance": 3.802851,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Huntsville",
-      "path": "northamerica/unitedstates/utah/huntsville",
-      "prior_mu": 22.5525,
-      "prior_sigma": 5.6659,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 3.9561,
+      "prior_variance": 1.55105,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Reading",
-      "path": "northamerica/unitedstates/vermont/reading",
-      "prior_mu": 21.3291,
-      "prior_sigma": 5.496,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 3.2211,
+      "prior_variance": 1.450487,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Sedalia",
-      "path": "northamerica/unitedstates/missouri/sedalia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -1.9336,
+      "prior_variance": 2.739275,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Wynnewood",
-      "path": "northamerica/unitedstates/oklahoma/wynnewood",
-      "prior_mu": 18.0998,
-      "prior_sigma": 6.6994,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 2.8393,
+      "prior_variance": 2.13288,
       "prior_n": 1
     }
   ]

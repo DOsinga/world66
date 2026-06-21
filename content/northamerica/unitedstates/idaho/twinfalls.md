@@ -4,7 +4,7 @@ done:
 latitude: 42.555854
 loc_type: city
 longitude: -114.470068
-score: 0.47
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Twin_Falls,_Idaho
 - https://en.wikipedia.org/wiki/Shoshone_Falls

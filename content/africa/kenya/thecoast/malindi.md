@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pillar_of_Vasco_da_Gama.jp
 latitude: -3.229594
 loc_type: city
 longitude: 39.975088
-score: 0.51
+score: 0.43
 title: Malindi
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alc.XIII-Solar_Capela.jpg
 latitude: 39.915137
 loc_type: city
 longitude: -7.461465
-score: 0.33
+score: 0.26
 title: Alcains
 type: location
 ---

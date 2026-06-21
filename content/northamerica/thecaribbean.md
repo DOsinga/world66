@@ -1,4 +1,5 @@
 ---
+score: 0.74
 title: The Caribbean
 type: location
 loc_type: country

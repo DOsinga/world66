@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tv%C3%B8royri_from_Smyril_
 latitude: 61.555329
 loc_type: city
 longitude: -6.804682
-score: 0.47
+score: 0.43
 title: Tvøroyri
 type: location
 ---

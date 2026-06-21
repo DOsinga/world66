@@ -7,7 +7,7 @@ done:
 latitude: 34.596074
 loc_type: city
 longitude: -120.138374
-score: 0.5
+score: 0.44
 title: Solvang
 type: location
 ---

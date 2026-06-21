@@ -1,0 +1,200 @@
+{
+  "round": 3770,
+  "timestamp": "2026-06-13T23:18:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 4.1487,
+      "prior_variance": 0.12432,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.3245,
+      "prior_variance": 0.116744,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.8211,
+      "prior_variance": 0.111522,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -0.8552,
+      "prior_variance": 0.093617,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.0012,
+      "prior_variance": 0.119247,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -8.6483,
+      "prior_variance": 0.250548,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -0.0206,
+      "prior_variance": 0.109031,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.604,
+      "prior_variance": 0.10742,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -1.0763,
+      "prior_variance": 0.107072,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -3.2623,
+      "prior_variance": 0.117265,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -1.9344,
+      "prior_variance": 0.107123,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Changzhou",
+      "path": "asia/china/jiangsu_province/changzhou",
+      "prior_score": -2.9369,
+      "prior_variance": 0.119711,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.4655,
+      "prior_variance": 0.115151,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.5082,
+      "prior_variance": 0.117617,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -2.7314,
+      "prior_variance": 0.138497,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -3.9165,
+      "prior_variance": 0.13089,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -3.7492,
+      "prior_variance": 0.125345,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.2527,
+      "prior_variance": 0.106765,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "B\u00e9ja",
+      "path": "africa/tunisia/beja",
+      "prior_score": -3.0629,
+      "prior_variance": 0.125257,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -5.4436,
+      "prior_variance": 0.120198,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.2782,
+      "prior_variance": 0.138516,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -4.1128,
+      "prior_variance": 0.144896,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -5.7126,
+      "prior_variance": 0.120652,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -4.8722,
+      "prior_variance": 0.142108,
+      "prior_n": 12
+    }
+  ]
+}

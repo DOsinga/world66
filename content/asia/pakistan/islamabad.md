@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Area,_Islamabad_at_Ni
 latitude: 33.693812
 loc_type: city
 longitude: 73.065151
-score: 0.46
+score: 0.36
 title: Islamabad
 type: location
 ---

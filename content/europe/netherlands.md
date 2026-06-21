@@ -16,7 +16,7 @@ quick_facts:
   Bicycles: "23 million"
 title: Netherlands
 type: location
-score: 0.39
+score: 0.82
 loc_type: country
 ---
 

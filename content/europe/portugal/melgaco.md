@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Melga%C3%A7o_(4).jp
 latitude: 42.113041
 loc_type: city
 longitude: -8.259342
-score: 0.43
+score: 0.34
 title: Melgaço
 type: location
 ---

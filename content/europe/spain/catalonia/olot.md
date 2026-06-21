@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Olot_urban_view_from_Monts
 latitude: 42.182218
 loc_type: city
 longitude: 2.489021
-score: 0.52
+score: 0.42
 title: Olot
 type: location
 ---

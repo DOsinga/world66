@@ -5,7 +5,7 @@ latitude: 21.7732
 longitude: -72.2651
 done:
   location_cleanup: 2026-04-07
-score: 0.74
+score: 0.65
 image: providenciales.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chalk_Sound_-_Providenciales.jpg
 image_license: Public domain

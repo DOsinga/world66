@@ -5,7 +5,7 @@ done:
 latitude: 49.1095
 loc_type: city
 longitude: 7.0709
-score: 0.38
+score: 0.35
 title: Sarreguemines
 type: location
 ---

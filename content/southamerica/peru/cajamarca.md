@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Cajamarca_Per%
 latitude: -7.1617
 loc_type: city
 longitude: -78.5128
-score: 0.55
+score: 0.48
 title: Cajamarca
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Zuccarello.jpg
 latitude: 44.111029
 loc_type: city
 longitude: 8.115849
-score: 0.43
+score: 0.41
 title: Zuccarello
 type: location
 ---

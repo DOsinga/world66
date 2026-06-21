@@ -5,7 +5,7 @@ done:
 latitude: 9.537
 loc_type: city
 longitude: 138.129
-score: 0.51
+score: 0.46
 title: Yap
 type: location
 ---

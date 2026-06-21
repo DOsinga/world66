@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Dunes_Vilanculos_Mozam
 latitude: -21.998996
 loc_type: city
 longitude: 35.320475
-score: 0.53
+score: 0.44
 title: Vilanculos
 type: location
 ---

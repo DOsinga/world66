@@ -1,0 +1,200 @@
+{
+  "round": 3516,
+  "timestamp": "2026-06-13T22:59:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 5.4819,
+      "prior_variance": 0.170797,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 6.2183,
+      "prior_variance": 0.156255,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.4821,
+      "prior_variance": 0.140834,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": -0.3569,
+      "prior_variance": 0.121369,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 1.7936,
+      "prior_variance": 0.120972,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 0.9479,
+      "prior_variance": 0.11594,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": -0.0421,
+      "prior_variance": 0.121416,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_score": 1.569,
+      "prior_variance": 0.128191,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.5807,
+      "prior_variance": 0.115698,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -1.138,
+      "prior_variance": 0.134289,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 0.1268,
+      "prior_variance": 0.108722,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -0.036,
+      "prior_variance": 0.111952,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.2805,
+      "prior_variance": 0.145352,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.1532,
+      "prior_variance": 0.115726,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.7596,
+      "prior_variance": 0.13491,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -4.0085,
+      "prior_variance": 0.127709,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Gjakova",
+      "path": "europe/serbia/kosovoprovince/gjakova",
+      "prior_score": -3.1748,
+      "prior_variance": 0.119937,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -7.0958,
+      "prior_variance": 0.209826,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.3916,
+      "prior_variance": 0.138825,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -6.5908,
+      "prior_variance": 0.190864,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.3502,
+      "prior_variance": 0.209572,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -8.3517,
+      "prior_variance": 0.224388,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -8.6656,
+      "prior_variance": 0.315677,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -9.0275,
+      "prior_variance": 0.288977,
+      "prior_n": 11
+    }
+  ]
+}

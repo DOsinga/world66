@@ -1,200 +1,200 @@
 {
   "round": 386,
-  "timestamp": "2026-04-12T09:14:38",
+  "timestamp": "2026-06-13T19:32:50",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kyushu",
-      "path": "asia/japan/kyushu",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 13.7526,
+      "prior_variance": 7.773315,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Dunedin",
-      "path": "australiaandpacific/newzealand/otago/dunedin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 14.834,
+      "prior_variance": 7.336133,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Giethoorn",
-      "path": "europe/netherlands/giethoorn",
-      "prior_mu": 23.2073,
-      "prior_sigma": 5.8551,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 13.337,
+      "prior_variance": 3.348841,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Tamarindo",
-      "path": "northamerica/costarica/tamarindo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 12.5908,
+      "prior_variance": 3.447615,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Lerici",
-      "path": "europe/italy/liguria/lerici",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Polignano a Mare",
+      "path": "europe/italy/puglia/polignano_a_mare",
+      "prior_score": 10.5464,
+      "prior_variance": 9.590214,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Tongatapu",
-      "path": "australiaandpacific/tonga/tongatapu",
-      "prior_mu": 22.71,
-      "prior_sigma": 5.9146,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 15.515,
+      "prior_variance": 3.202901,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Clermont-Ferrand",
-      "path": "europe/france/centre/auvergne/clermontferrant",
-      "prior_mu": 22.7231,
-      "prior_sigma": 5.9499,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 13.3869,
+      "prior_variance": 3.341431,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "G\u00f6ttingen",
-      "path": "europe/germany/lowersaxony/goettingen",
-      "prior_mu": 22.1895,
-      "prior_sigma": 5.7726,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 13.0658,
+      "prior_variance": 3.381254,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Cape Maclear",
-      "path": "africa/malawi/capemaclear",
-      "prior_mu": 22.7445,
-      "prior_sigma": 5.9525,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 6.5416,
+      "prior_variance": 1.803565,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Castellana Grotte",
-      "path": "europe/italy/puglia/castellana_grotte",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 12.6274,
+      "prior_variance": 2.49109,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Vilsandi National Park",
-      "path": "europe/estonia/vilsandi_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 12.204,
+      "prior_variance": 2.521213,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Arta",
-      "path": "europe/greece/arta",
-      "prior_mu": 22.4775,
-      "prior_sigma": 5.9067,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 8.506,
+      "prior_variance": 2.342377,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Mullingar",
-      "path": "europe/ireland/mullingar",
-      "prior_mu": 22.4775,
-      "prior_sigma": 5.9067,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 7.0095,
+      "prior_variance": 1.564075,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Ontinyent",
-      "path": "europe/spain/ontinyent",
-      "prior_mu": 22.7172,
-      "prior_sigma": 5.9492,
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 11.4981,
+      "prior_variance": 2.141777,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Deva",
-      "path": "europe/romania/deva",
-      "prior_mu": 22.3851,
-      "prior_sigma": 5.8892,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 8.9733,
+      "prior_variance": 2.304255,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Marikina",
-      "path": "asia/philippines/marikina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 7.8519,
+      "prior_variance": 1.898939,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Ghomrassen",
-      "path": "africa/tunisia/ghomrassen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 8.3986,
+      "prior_variance": 1.907306,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Hanksville",
-      "path": "northamerica/unitedstates/utah/hanksville",
-      "prior_mu": 21.7372,
-      "prior_sigma": 4.6038,
-      "prior_n": 2
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 8.5502,
+      "prior_variance": 8.888179,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Bjuv",
-      "path": "europe/sweden/bjuv",
-      "prior_mu": 22.5286,
-      "prior_sigma": 5.9137,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 6.6274,
+      "prior_variance": 1.691391,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Baranovichi",
-      "path": "europe/belarus/baranovichi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 11.5429,
+      "prior_variance": 2.778106,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Carina",
-      "path": "australiaandpacific/australia/queensland/carina",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 5.0923,
+      "prior_variance": 1.704802,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Chaparral",
-      "path": "northamerica/unitedstates/newmexico/chaparral",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 5.4534,
+      "prior_variance": 1.715586,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Dry Gap",
-      "path": "northamerica/unitedstates/kentucky/dry_gap",
-      "prior_mu": 22.7176,
-      "prior_sigma": 5.9493,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 8.2323,
+      "prior_variance": 2.366848,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Garata",
-      "path": "europe/bulgaria/gornaoryahovica/garata",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": 1.1162,
+      "prior_variance": 1.533708,
+      "prior_n": 1
     }
   ]
 }

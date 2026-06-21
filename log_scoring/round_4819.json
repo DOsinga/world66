@@ -1,0 +1,200 @@
+{
+  "round": 4819,
+  "timestamp": "2026-06-14T00:44:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 11.1685,
+      "prior_variance": 0.294538,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.5366,
+      "prior_variance": 0.094999,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 8.7329,
+      "prior_variance": 0.158025,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 2.266,
+      "prior_variance": 0.091392,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 3.7166,
+      "prior_variance": 0.088748,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.326,
+      "prior_variance": 0.089207,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.5641,
+      "prior_variance": 0.085168,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 3.1671,
+      "prior_variance": 0.088893,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.8618,
+      "prior_variance": 0.082128,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.5228,
+      "prior_variance": 0.084471,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 2.9748,
+      "prior_variance": 0.097248,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": -0.1976,
+      "prior_variance": 0.099648,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.4881,
+      "prior_variance": 0.081426,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.0529,
+      "prior_variance": 0.090083,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.7361,
+      "prior_variance": 0.092077,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -0.1976,
+      "prior_variance": 0.096273,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.2622,
+      "prior_variance": 0.081038,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.429,
+      "prior_variance": 0.097047,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -3.1182,
+      "prior_variance": 0.0837,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -2.6357,
+      "prior_variance": 0.087137,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -2.6937,
+      "prior_variance": 0.117212,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.5349,
+      "prior_variance": 0.102853,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -3.745,
+      "prior_variance": 0.089308,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -8.2333,
+      "prior_variance": 0.231886,
+      "prior_n": 16
+    }
+  ]
+}

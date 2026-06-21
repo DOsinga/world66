@@ -1,0 +1,200 @@
+{
+  "round": 4160,
+  "timestamp": "2026-06-13T23:50:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chobe National Park",
+      "path": "africa/botswana/chobenationalpark",
+      "prior_score": 6.4583,
+      "prior_variance": 0.168212,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 5.6408,
+      "prior_variance": 0.121571,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 6.6943,
+      "prior_variance": 0.132509,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 4.218,
+      "prior_variance": 0.146087,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 6.9062,
+      "prior_variance": 0.138332,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 6.0265,
+      "prior_variance": 0.178445,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.2579,
+      "prior_variance": 0.124575,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 5.0394,
+      "prior_variance": 0.119939,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 1.7655,
+      "prior_variance": 0.106825,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 6.708,
+      "prior_variance": 0.151266,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 3.8824,
+      "prior_variance": 0.12138,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_score": 3.8438,
+      "prior_variance": 0.126937,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.5493,
+      "prior_variance": 0.102648,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 3.4125,
+      "prior_variance": 0.120138,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.3902,
+      "prior_variance": 0.113454,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": -0.181,
+      "prior_variance": 0.103967,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.0366,
+      "prior_variance": 0.090113,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -0.6882,
+      "prior_variance": 0.09527,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 1.0128,
+      "prior_variance": 0.100611,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.7283,
+      "prior_variance": 0.114931,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.1017,
+      "prior_variance": 0.106231,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.6942,
+      "prior_variance": 0.110124,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -3.6961,
+      "prior_variance": 0.110702,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -7.2271,
+      "prior_variance": 0.139244,
+      "prior_n": 13
+    }
+  ]
+}

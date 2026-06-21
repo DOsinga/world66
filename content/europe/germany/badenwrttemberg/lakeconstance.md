@@ -5,7 +5,7 @@ latitude: 47.647769
 longitude: 9.34718
 title: Lake Constance
 type: location
-score: 0.62
+score: 0.53
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_de_Ziguinchor_.jpg
 latitude: 12.563493
 loc_type: city
 longitude: -16.272461
-score: 0.41
+score: 0.32
 title: Ziguinchor
 type: location
 ---

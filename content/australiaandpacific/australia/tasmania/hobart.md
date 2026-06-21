@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hobart-Tasmania-Australia1
 latitude: -42.8821
 loc_type: city
 longitude: 147.3272
-score: 0.65
+score: 0.56
 title: Hobart
 type: location
 ---

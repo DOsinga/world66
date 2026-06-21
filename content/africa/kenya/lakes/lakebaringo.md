@@ -5,7 +5,7 @@ latitude: 0.618499
 longitude: 36.118288
 title: Lake Baringo
 type: location
-score: 0.54
+score: 0.45
 loc_type: feature
 ---
 

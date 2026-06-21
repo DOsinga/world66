@@ -5,7 +5,7 @@ done:
 latitude: 35.432585
 loc_type: city
 longitude: -96.305006
-score: 0.29
+score: 0.23
 title: Okemah
 type: location
 ---

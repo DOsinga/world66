@@ -12,6 +12,7 @@ image: cartagena.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CT_teatro_romano_y_catedral.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Trasamundo
+score: 0.51
 ---
 
 Cartagena is the coastal surprise of Murcia: a working naval port with an old centre built on top of Phoenician, Carthaginian, Roman, Byzantine, and modern layers. It is not polished in the way Spain's obvious city-break names are polished, and that is part of the appeal. Ships, cranes, archaeological sites, modernist facades, and cafe terraces all press into the same small bowl of harbour.

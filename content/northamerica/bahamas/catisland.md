@@ -10,7 +10,7 @@ latitude: 24.3833
 longitude: -75.4167
 title: Cat Island
 type: location
-score: 0.55
+score: 0.46
 loc_type: city
 ---
 

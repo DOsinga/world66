@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hovd_from_the_cemetery.JPG
 latitude: 48.0042
 loc_type: city
 longitude: 91.6406
-score: 0.35
+score: 0.32
 title: Khovd
 type: location
 ---

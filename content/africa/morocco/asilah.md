@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_de_las_cuevas,_Asila
 latitude: 35.461928
 loc_type: city
 longitude: -6.036545
-score: 0.6
+score: 0.52
 title: Asilah
 type: location
 ---

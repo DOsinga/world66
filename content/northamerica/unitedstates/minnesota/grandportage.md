@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_Road_-_Grand_Portage_B
 latitude: 47.9638
 loc_type: city
 longitude: -89.6848
-score: 0.42
+score: 0.36
 title: Grand Portage
 type: location
 ---

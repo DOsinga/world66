@@ -1,0 +1,200 @@
+{
+  "round": 4611,
+  "timestamp": "2026-06-14T00:26:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 5.3117,
+      "prior_variance": 0.126651,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 5.6696,
+      "prior_variance": 0.122238,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 2.4772,
+      "prior_variance": 0.10193,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 4.9052,
+      "prior_variance": 0.107499,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.5698,
+      "prior_variance": 0.102981,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 1.6105,
+      "prior_variance": 0.106994,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.4119,
+      "prior_variance": 0.104215,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Le Carbet",
+      "path": "northamerica/thecaribbean/martinique/le_carbet",
+      "prior_score": 1.5066,
+      "prior_variance": 0.103965,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.598,
+      "prior_variance": 0.09729,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 2.6134,
+      "prior_variance": 0.090088,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -0.2291,
+      "prior_variance": 0.096137,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/redondobeach",
+      "prior_score": -1.4305,
+      "prior_variance": 0.098273,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.6578,
+      "prior_variance": 0.087927,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -1.9333,
+      "prior_variance": 0.082279,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.0618,
+      "prior_variance": 0.082028,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -0.9188,
+      "prior_variance": 0.083943,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.2202,
+      "prior_variance": 0.087048,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -2.2203,
+      "prior_variance": 0.111233,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -5.0518,
+      "prior_variance": 0.10645,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -3.0902,
+      "prior_variance": 0.105617,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -5.6883,
+      "prior_variance": 0.136114,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_score": -5.0671,
+      "prior_variance": 0.123006,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.3198,
+      "prior_variance": 0.088223,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.1713,
+      "prior_variance": 0.165588,
+      "prior_n": 15
+    }
+  ]
+}

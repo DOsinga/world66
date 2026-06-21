@@ -5,7 +5,7 @@ done:
 latitude: 15.8281
 loc_type: city
 longitude: -88.7533
-score: 0.5
+score: 0.39
 title: Livingston
 type: location
 ---

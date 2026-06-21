@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjarle_beach_in_Konkan_ne
 latitude: 17.758046
 loc_type: city
 longitude: 73.188708
-score: 0.43
+score: 0.33
 title: Dapoli
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -36.1281
 loc_type: city
 longitude: 144.7517
-score: 0.48
+score: 0.43
 title: Echuca
 type: location
 ---

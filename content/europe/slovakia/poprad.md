@@ -5,7 +5,7 @@ done:
 latitude: 49.0542
 loc_type: city
 longitude: 20.2976
-score: 0.49
+score: 0.42
 title: Poprad
 type: location
 image: poprad.jpg

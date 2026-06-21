@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Kassbah,_Taroudant,_Mor
 latitude: 30.4706
 loc_type: city
 longitude: -8.8779
-score: 0.55
+score: 0.46
 title: Taroudant
 type: location
 ---

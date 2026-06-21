@@ -5,7 +5,7 @@ done:
 latitude: 44.23755
 loc_type: city
 longitude: 8.353741
-score: 0.39
+score: 0.32
 title: Vezzi Portio
 type: location
 ---

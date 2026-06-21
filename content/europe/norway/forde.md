@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 61.452176
 longitude: 5.857172
-score: 0.49
+score: 0.48
 title: Forde
 type: location
 loc_type: city

@@ -6,7 +6,7 @@ done:
 latitude: 0.4244
 loc_type: city
 longitude: 33.2041
-score: 0.48
+score: 0.4
 title: Jinja
 type: location
 image: jinja.jpg

@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 20.5399
 longitude: 96.9172
-score: 0.65
+score: 0.58
 title: Inle Lake
 type: location
 loc_type: feature

@@ -6,7 +6,7 @@ done:
 latitude: 34.7312
 loc_type: city
 longitude: -87.70253
-score: 0.34
+score: 0.27
 title: Tuscumbia
 type: location
 image: tuscumbia.jpg

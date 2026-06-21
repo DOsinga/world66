@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glen_Rock,_NJ_(557511189).
 latitude: 40.962876
 loc_type: city
 longitude: -74.132921
-score: 0.26
+score: 0.23
 title: Glen Rock
 type: location
 ---

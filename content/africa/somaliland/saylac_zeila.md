@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zeila_Mosque.jpg
 latitude: 11.353485
 loc_type: city
 longitude: 43.474723
-score: 0.24
+score: 0.2
 title: Saylac (Zeila)
 type: location
 ---

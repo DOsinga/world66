@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/50169083@N00/1196871224
 latitude: -1.9536
 loc_type: city
 longitude: 30.0606
-score: 0.52
+score: 0.45
 title: Kigali
 type: location
 ---

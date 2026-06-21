@@ -5,7 +5,7 @@ latitude: 47.188183
 longitude: -95.219606
 title: Itasca State Park
 type: location
-score: 0.49
+score: 0.42
 loc_type: feature
 ---
 

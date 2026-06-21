@@ -1,0 +1,200 @@
+{
+  "round": 4724,
+  "timestamp": "2026-06-14T00:36:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 5.1697,
+      "prior_variance": 0.109503,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.7269,
+      "prior_variance": 0.090936,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.2554,
+      "prior_variance": 0.093343,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.5269,
+      "prior_variance": 0.089677,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.5642,
+      "prior_variance": 0.092243,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.5727,
+      "prior_variance": 0.088651,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.9117,
+      "prior_variance": 0.090697,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -0.516,
+      "prior_variance": 0.079124,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_score": -1.0161,
+      "prior_variance": 0.081408,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -1.0761,
+      "prior_variance": 0.084919,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -1.5797,
+      "prior_variance": 0.081106,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -2.8704,
+      "prior_variance": 0.10944,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_score": -1.7689,
+      "prior_variance": 0.085635,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -0.6825,
+      "prior_variance": 0.079756,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -1.926,
+      "prior_variance": 0.084545,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.457,
+      "prior_variance": 0.094695,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -2.5093,
+      "prior_variance": 0.087475,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -1.98,
+      "prior_variance": 0.081938,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -4.9162,
+      "prior_variance": 0.114279,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -4.7053,
+      "prior_variance": 0.102801,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -4.8687,
+      "prior_variance": 0.123996,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -5.6955,
+      "prior_variance": 0.11933,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.5666,
+      "prior_variance": 0.145535,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.784,
+      "prior_variance": 0.136004,
+      "prior_n": 15
+    }
+  ]
+}

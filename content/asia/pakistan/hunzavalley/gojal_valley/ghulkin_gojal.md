@@ -5,7 +5,7 @@ done:
 latitude: 36.42
 loc_type: city
 longitude: 74.85
-score: 0.4
+score: 0.35
 title: Ghulkin Gojal
 type: location
 image: ghulkin_gojal.jpg

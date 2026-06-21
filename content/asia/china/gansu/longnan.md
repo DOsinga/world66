@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Longnan
 type: location
+score: 0.29
 ---
 
 Longnan occupies the southernmost tip of Gansu, where the province narrows to a point between Sichuan and Shaanxi, and the landscape shifts from the arid loess of central Gansu into something almost subtropical — forested mountains, rivers, terraced fields. The administrative centre is Wudu, a valley town of modest size on the Bailong River, but the prefecture as a whole is one of the most topographically diverse parts of the province.

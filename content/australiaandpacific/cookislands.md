@@ -15,7 +15,7 @@ quick_facts:
   Currency: New Zealand dollar
   Ocean-to-Land Ratio: "2 million km² of ocean for 237 km² of land"
   Cook Islanders Abroad: More live in NZ and Australia than on the islands
-score: 0.76
+score: 0.54
 loc_type: country
 ---
 

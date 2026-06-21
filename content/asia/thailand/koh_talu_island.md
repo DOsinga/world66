@@ -5,7 +5,7 @@ latitude: 11.122436
 longitude: 99.486958
 title: Koh Talu
 type: location
-score: 0.61
+score: 0.5
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Holt_Road,_Briston_-_geogr
 latitude: 52.8652
 loc_type: city
 longitude: 1.0321
-score: 0.29
+score: 0.26
 title: Briston
 type: location
 ---

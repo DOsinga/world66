@@ -1,0 +1,200 @@
+{
+  "round": 2888,
+  "timestamp": "2026-06-13T22:14:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 12.4948,
+      "prior_variance": 0.407869,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.6317,
+      "prior_variance": 0.176692,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.8559,
+      "prior_variance": 0.150694,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 0.9264,
+      "prior_variance": 0.139725,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 0.9089,
+      "prior_variance": 0.16857,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.2257,
+      "prior_variance": 0.132538,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.5456,
+      "prior_variance": 0.135988,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.4394,
+      "prior_variance": 0.139318,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -1.0109,
+      "prior_variance": 0.167187,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.618,
+      "prior_variance": 0.140607,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.5994,
+      "prior_variance": 0.148793,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.3856,
+      "prior_variance": 0.174915,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.8078,
+      "prior_variance": 0.148467,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -0.9164,
+      "prior_variance": 0.148235,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Eckernf\u00f6rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -0.2768,
+      "prior_variance": 0.139167,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -2.1764,
+      "prior_variance": 0.148164,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -1.8673,
+      "prior_variance": 0.165496,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.2559,
+      "prior_variance": 0.173038,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -1.9935,
+      "prior_variance": 0.161935,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_score": -2.3769,
+      "prior_variance": 0.158753,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.3895,
+      "prior_variance": 0.195769,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.8912,
+      "prior_variance": 0.178575,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -7.2139,
+      "prior_variance": 0.2912,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -6.4533,
+      "prior_variance": 0.170199,
+      "prior_n": 9
+    }
+  ]
+}

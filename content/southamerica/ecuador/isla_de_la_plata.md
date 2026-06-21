@@ -5,7 +5,7 @@ latitude: -1.274094
 longitude: -81.0708
 title: Isla de la Plata
 type: location
-score: 0.58
+score: 0.48
 loc_type: feature
 ---
 

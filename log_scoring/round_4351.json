@@ -1,0 +1,200 @@
+{
+  "round": 4351,
+  "timestamp": "2026-06-14T00:05:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 5.337,
+      "prior_variance": 0.118118,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 4.8993,
+      "prior_variance": 0.114824,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_score": 4.1845,
+      "prior_variance": 0.104658,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.0623,
+      "prior_variance": 0.106604,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 1.1101,
+      "prior_variance": 0.103766,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.5023,
+      "prior_variance": 0.090161,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 3.227,
+      "prior_variance": 0.101242,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 1.2866,
+      "prior_variance": 0.095686,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Chilo\u00e9",
+      "path": "southamerica/chile/chiloe",
+      "prior_score": 2.7396,
+      "prior_variance": 0.10204,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 0.9343,
+      "prior_variance": 0.118575,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 1.4475,
+      "prior_variance": 0.102674,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Fort-de-France",
+      "path": "northamerica/thecaribbean/martinique/fortdefrance",
+      "prior_score": 2.4581,
+      "prior_variance": 0.105281,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 1.1587,
+      "prior_variance": 0.088218,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_score": -0.0232,
+      "prior_variance": 0.090636,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1532,
+      "prior_variance": 0.095392,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.7183,
+      "prior_variance": 0.093738,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.1555,
+      "prior_variance": 0.094729,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -0.9956,
+      "prior_variance": 0.092254,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.1132,
+      "prior_variance": 0.102253,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.9422,
+      "prior_variance": 0.09885,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.6837,
+      "prior_variance": 0.092823,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -1.8746,
+      "prior_variance": 0.098613,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.0871,
+      "prior_variance": 0.096195,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": -2.7574,
+      "prior_variance": 0.102523,
+      "prior_n": 14
+    }
+  ]
+}

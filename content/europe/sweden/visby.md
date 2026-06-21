@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%B6dra_Kyrkogatan_Visb
 latitude: 57.6379
 loc_type: city
 longitude: 18.298
-score: 0.67
+score: 0.58
 title: Visby
 type: location
 ---

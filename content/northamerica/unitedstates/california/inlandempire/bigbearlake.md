@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Bear_Lake1.jpg
 latitude: 34.244059
 loc_type: city
 longitude: -116.91018
-score: 0.49
+score: 0.43
 title: Big Bear Lake
 type: location
 ---

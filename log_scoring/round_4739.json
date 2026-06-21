@@ -1,0 +1,200 @@
+{
+  "round": 4739,
+  "timestamp": "2026-06-14T00:37:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 12.7954,
+      "prior_variance": 0.379219,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.3982,
+      "prior_variance": 0.088201,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.4984,
+      "prior_variance": 0.098367,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.836,
+      "prior_variance": 0.085908,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 2.7801,
+      "prior_variance": 0.08181,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -0.63,
+      "prior_variance": 0.092454,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 1.5822,
+      "prior_variance": 0.081774,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.1615,
+      "prior_variance": 0.10323,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.057,
+      "prior_variance": 0.095382,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.5688,
+      "prior_variance": 0.079671,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -1.3982,
+      "prior_variance": 0.100251,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.6749,
+      "prior_variance": 0.082362,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.3265,
+      "prior_variance": 0.086734,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.1319,
+      "prior_variance": 0.083929,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.1966,
+      "prior_variance": 0.079511,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.0896,
+      "prior_variance": 0.093374,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.7678,
+      "prior_variance": 0.09231,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -2.5179,
+      "prior_variance": 0.084085,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 0.3024,
+      "prior_variance": 0.081694,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -1.4607,
+      "prior_variance": 0.117491,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -1.9633,
+      "prior_variance": 0.088237,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -4.9216,
+      "prior_variance": 0.107961,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -5.3155,
+      "prior_variance": 0.09481,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -7.5275,
+      "prior_variance": 0.141836,
+      "prior_n": 15
+    }
+  ]
+}

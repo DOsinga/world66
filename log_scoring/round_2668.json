@@ -1,0 +1,200 @@
+{
+  "round": 2668,
+  "timestamp": "2026-06-13T21:58:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -5.0411,
+      "prior_variance": 0.179752,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_score": -2.435,
+      "prior_variance": 0.181485,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -0.9944,
+      "prior_variance": 0.134313,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.3437,
+      "prior_variance": 0.157544,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -4.5797,
+      "prior_variance": 0.191051,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.5069,
+      "prior_variance": 0.17292,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -3.1809,
+      "prior_variance": 0.150546,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -4.2531,
+      "prior_variance": 0.15982,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -5.6586,
+      "prior_variance": 0.267629,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.8563,
+      "prior_variance": 0.206777,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.7651,
+      "prior_variance": 0.196017,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -4.1121,
+      "prior_variance": 0.178411,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -4.3913,
+      "prior_variance": 0.179581,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -5.0405,
+      "prior_variance": 0.238675,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.6219,
+      "prior_variance": 0.224129,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.8076,
+      "prior_variance": 0.266897,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -7.1877,
+      "prior_variance": 0.297353,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -7.4911,
+      "prior_variance": 0.31614,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -4.7444,
+      "prior_variance": 0.192141,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.7171,
+      "prior_variance": 0.253682,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -5.1373,
+      "prior_variance": 0.171493,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -8.1717,
+      "prior_variance": 0.353645,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.2239,
+      "prior_variance": 0.293167,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -9.8553,
+      "prior_variance": 0.536511,
+      "prior_n": 8
+    }
+  ]
+}

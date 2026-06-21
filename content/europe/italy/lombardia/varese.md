@@ -5,7 +5,7 @@ done:
 latitude: 45.83972
 loc_type: city
 longitude: 8.754134
-score: 0.53
+score: 0.45
 title: Varese
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bizerte2020.jpg
 latitude: 37.27209
 loc_type: city
 longitude: 9.870857
-score: 0.51
+score: 0.4
 title: Bizerte
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 33.8249
 loc_type: city
 longitude: -4.8333
-score: 0.47
+score: 0.41
 title: Sefrou
 type: location
 ---

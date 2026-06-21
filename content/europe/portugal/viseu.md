@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Viseu_IMG_20141
 latitude: 40.657471
 loc_type: city
 longitude: -7.913866
-score: 0.54
+score: 0.45
 title: Viseu
 type: location
 ---

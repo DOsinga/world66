@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tepelena_Castle_and_New_To
 latitude: 40.298226
 loc_type: city
 longitude: 20.020873
-score: 0.36
+score: 0.34
 title: Tepelena
 type: location
 ---

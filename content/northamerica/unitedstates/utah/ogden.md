@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/81116336@N00/229266354
 image_attribution: sirrobot on Flickr
 latitude: 41.223005
 longitude: -111.973843
-score: 0.43
+score: 0.37
 title: Ogden
 type: location
 loc_type: city

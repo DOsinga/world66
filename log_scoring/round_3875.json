@@ -1,0 +1,200 @@
+{
+  "round": 3875,
+  "timestamp": "2026-06-13T23:26:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 5.3341,
+      "prior_variance": 0.138376,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 4.5102,
+      "prior_variance": 0.129638,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 5.8582,
+      "prior_variance": 0.135558,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 3.7589,
+      "prior_variance": 0.110366,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.1248,
+      "prior_variance": 0.110454,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Kuching",
+      "path": "asia/malaysia/sarawak/kuching",
+      "prior_score": 4.156,
+      "prior_variance": 0.112259,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.4999,
+      "prior_variance": 0.110235,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.0181,
+      "prior_variance": 0.120901,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.3738,
+      "prior_variance": 0.109857,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.5083,
+      "prior_variance": 0.103943,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 2.7305,
+      "prior_variance": 0.11341,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 1.9878,
+      "prior_variance": 0.120466,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 3.0965,
+      "prior_variance": 0.133788,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 2.6187,
+      "prior_variance": 0.13107,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 2.348,
+      "prior_variance": 0.124376,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 4.3665,
+      "prior_variance": 0.112811,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.3642,
+      "prior_variance": 0.122903,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.3043,
+      "prior_variance": 0.119765,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.5593,
+      "prior_variance": 0.117242,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.8607,
+      "prior_variance": 0.106924,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.5627,
+      "prior_variance": 0.124708,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.3011,
+      "prior_variance": 0.109366,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.0475,
+      "prior_variance": 0.111796,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -4.5783,
+      "prior_variance": 0.127833,
+      "prior_n": 12
+    }
+  ]
+}

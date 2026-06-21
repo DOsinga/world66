@@ -5,7 +5,7 @@ done:
 latitude: 23.515035
 loc_type: city
 longitude: 120.809754
-score: 0.64
+score: 0.56
 title: Alishan
 type: location
 image: alishan.jpg

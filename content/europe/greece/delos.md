@@ -5,7 +5,7 @@ latitude: 37.39089
 longitude: 25.271739
 title: Delos
 type: location
-score: 0.7
+score: 0.6
 loc_type: feature
 ---
 

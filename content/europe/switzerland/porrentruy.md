@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Porrentruy
 latitude: 47.4171
 loc_type: city
 longitude: 7.0761
-score: 0.45
+score: 0.38
 title: Porrentruy
 type: location
 ---

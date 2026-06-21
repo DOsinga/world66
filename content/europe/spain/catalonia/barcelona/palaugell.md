@@ -2,13 +2,14 @@
 address: Carrer Nou de la Rambla 3-5
 latitude: 41.375978
 longitude: 2.171029
-snippet: "Early Gaudi mansion with extraordinary rooftop chimneys"
+score: 8.7
+snippet: Early Gaudi mansion with extraordinary rooftop chimneys
 tags:
 - things_to_do
 - sight
+- el_raval
 title: Palau Guell
 type: poi
-score: 8.7
 ---
 
 Palau Guell was Antoni Gaudi's first major commission, built between 1886 and 1890 for his patron Eusebi Guell. It's a UNESCO World Heritage Site and one of the best places to see Gaudi's early style before the organic forms of his later work took over.

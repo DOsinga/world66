@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shibam_Wadi_Hadhramaut_Yem
 latitude: 15.9267
 loc_type: city
 longitude: 48.6262
-score: 0.38
+score: 0.37
 title: Shibam
 type: location
 ---

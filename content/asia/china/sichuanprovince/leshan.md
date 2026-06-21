@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383)
 latitude: 29.5452
 loc_type: city
 longitude: 103.7659
-score: 0.59
+score: 0.55
 title: Leshan
 type: location
 ---

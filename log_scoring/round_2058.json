@@ -1,200 +1,200 @@
 {
   "round": 2058,
-  "timestamp": "2026-04-13T16:06:59",
+  "timestamp": "2026-06-13T21:15:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cayman Islands",
-      "path": "northamerica/caymanislands",
-      "prior_score": 6.6835,
-      "prior_variance": 0.353959,
-      "prior_n": 5
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 7.593,
+      "prior_variance": 0.542139,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Bohol",
-      "path": "asia/philippines/bohol",
-      "prior_score": 5.3481,
-      "prior_variance": 0.442881,
-      "prior_n": 5
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.4487,
+      "prior_variance": 0.350999,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Aswan",
-      "path": "africa/egypt/aswan",
-      "prior_score": 7.3075,
-      "prior_variance": 0.364597,
-      "prior_n": 5
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 8.6016,
+      "prior_variance": 0.317851,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Kanyakumari",
-      "path": "asia/india/tamilnadu/kanya_kumari",
-      "prior_score": 2.2597,
-      "prior_variance": 0.328378,
-      "prior_n": 5
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/north_island/waikato/waitomo",
+      "prior_score": 6.6757,
+      "prior_variance": 0.314448,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Fortaleza",
-      "path": "southamerica/brazil/fortaleza",
-      "prior_score": 1.2023,
-      "prior_variance": 0.238994,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.4874,
+      "prior_variance": 0.231397,
       "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Folgaria",
-      "path": "europe/italy/trentinoaltoadige/folgaria",
-      "prior_score": 0.5736,
-      "prior_variance": 0.290962,
-      "prior_n": 5
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 6.1304,
+      "prior_variance": 0.231245,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Warwick",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
-      "prior_score": -0.4391,
-      "prior_variance": 0.315633,
-      "prior_n": 5
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.2588,
+      "prior_variance": 0.210138,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Jelenia G\u00f3ra",
-      "path": "europe/poland/jelenia_gra",
-      "prior_score": 0.6455,
-      "prior_variance": 0.33348,
-      "prior_n": 5
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 8.1555,
+      "prior_variance": 0.324362,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Great Yarmouth",
-      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
-      "prior_score": -0.607,
-      "prior_variance": 0.250184,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 7.6013,
+      "prior_variance": 0.311269,
       "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Catskill",
-      "path": "northamerica/unitedstates/newyorkstate/catskill",
-      "prior_score": -1.6298,
-      "prior_variance": 0.281216,
-      "prior_n": 5
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 6.4836,
+      "prior_variance": 0.321631,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Villerville",
-      "path": "europe/france/normandybrittany/villerville",
-      "prior_score": 0.3136,
-      "prior_variance": 0.277317,
-      "prior_n": 5
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 5.9038,
+      "prior_variance": 0.287406,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Tretten",
-      "path": "europe/norway/tretten",
-      "prior_score": 0.3389,
-      "prior_variance": 0.263099,
-      "prior_n": 5
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 4.9646,
+      "prior_variance": 0.247569,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Mikkeli",
-      "path": "europe/finland/mikkeli",
-      "prior_score": -0.9716,
-      "prior_variance": 0.258935,
-      "prior_n": 5
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 5.9966,
+      "prior_variance": 0.256013,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Cincinnati",
-      "path": "northamerica/unitedstates/ohio/cincinnati",
-      "prior_score": 0.0405,
-      "prior_variance": 0.251152,
-      "prior_n": 5
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.7429,
+      "prior_variance": 0.274139,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Hannibal",
-      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
-      "prior_score": -1.827,
-      "prior_variance": 0.306975,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 6.3577,
+      "prior_variance": 0.241892,
       "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Bor\u00e5s",
-      "path": "europe/sweden/bors",
-      "prior_score": -1.5856,
-      "prior_variance": 0.287233,
-      "prior_n": 5
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.8035,
+      "prior_variance": 0.243813,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Arvidsjaur",
-      "path": "europe/sweden/arvidsjaur",
-      "prior_score": -3.1185,
-      "prior_variance": 0.427953,
-      "prior_n": 6
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.2642,
+      "prior_variance": 0.249207,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Cholet",
-      "path": "europe/france/centre/loirevalley/cholet",
-      "prior_score": -1.4991,
-      "prior_variance": 0.307854,
-      "prior_n": 5
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 3.6278,
+      "prior_variance": 0.241563,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Oregon City",
-      "path": "northamerica/unitedstates/oregon/oregoncity",
-      "prior_score": -2.2725,
-      "prior_variance": 0.295737,
-      "prior_n": 5
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_score": 3.9004,
+      "prior_variance": 0.200292,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Old Fort",
-      "path": "northamerica/unitedstates/northcarolina/old_fort",
-      "prior_score": -3.1392,
-      "prior_variance": 0.271285,
-      "prior_n": 5
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 4.2053,
+      "prior_variance": 0.276237,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Zielonka",
-      "path": "europe/poland/zielonka",
-      "prior_score": -5.3274,
-      "prior_variance": 0.254768,
-      "prior_n": 5
+      "title": "Thiruvananthapuram",
+      "path": "asia/india/kerala/thiruvananthapuram",
+      "prior_score": 1.6064,
+      "prior_variance": 0.198743,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Nyangshwe",
-      "path": "asia/myanmar/nyangshwe",
-      "prior_score": -1.5211,
-      "prior_variance": 0.224743,
-      "prior_n": 6
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 2.427,
+      "prior_variance": 0.221805,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Labe",
-      "path": "africa/guineeconakry/labe",
-      "prior_score": -7.3172,
-      "prior_variance": 0.377977,
-      "prior_n": 6
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.3778,
+      "prior_variance": 0.202667,
+      "prior_n": 8
     },
     {
       "rank": 24,
-      "title": "Bukavu",
-      "path": "africa/congokinshasa/bukavu",
-      "prior_score": -7.6257,
-      "prior_variance": 0.258327,
-      "prior_n": 6
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -0.6163,
+      "prior_variance": 0.188641,
+      "prior_n": 7
     }
   ]
 }

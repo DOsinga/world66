@@ -1,0 +1,200 @@
+{
+  "round": 2375,
+  "timestamp": "2026-06-13T21:38:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 14.8663,
+      "prior_variance": 1.009408,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 6.6162,
+      "prior_variance": 0.249978,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 7.6642,
+      "prior_variance": 0.277908,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.2,
+      "prior_variance": 0.282606,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 6.2694,
+      "prior_variance": 0.224657,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 5.1162,
+      "prior_variance": 0.193315,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 4.0106,
+      "prior_variance": 0.181643,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 2.9095,
+      "prior_variance": 0.220976,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 4.3982,
+      "prior_variance": 0.195238,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1929,
+      "prior_variance": 0.186868,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 0.5195,
+      "prior_variance": 0.267488,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.1186,
+      "prior_variance": 0.181469,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": -0.0982,
+      "prior_variance": 0.184434,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "South Caicos",
+      "path": "northamerica/turksandcaicosislands/southcaicos",
+      "prior_score": 2.2123,
+      "prior_variance": 0.223044,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.673,
+      "prior_variance": 0.199362,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -4.0397,
+      "prior_variance": 0.197967,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -1.9407,
+      "prior_variance": 0.188106,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -4.0744,
+      "prior_variance": 0.29754,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.5809,
+      "prior_variance": 0.164501,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -5.3015,
+      "prior_variance": 0.200533,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -4.1592,
+      "prior_variance": 0.220113,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.4313,
+      "prior_variance": 0.171432,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -5.0727,
+      "prior_variance": 0.195534,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.6346,
+      "prior_variance": 0.206298,
+      "prior_n": 7
+    }
+  ]
+}

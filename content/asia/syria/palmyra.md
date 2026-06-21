@@ -5,7 +5,7 @@ done:
 latitude: 34.5527
 loc_type: city
 longitude: 38.2593
-score: 0.36
+score: 0.26
 title: Palmyra
 type: location
 ---

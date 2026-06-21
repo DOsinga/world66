@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.
 latitude: 13.361756
 loc_type: city
 longitude: 103.859032
-score: 0.75
+score: 0.69
 title: Siem Reap
 type: location
 ---

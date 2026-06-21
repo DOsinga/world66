@@ -5,7 +5,7 @@ done:
 latitude: 38.975155
 loc_type: city
 longitude: -92.744028
-score: 0.32
+score: 0.27
 title: Boonville
 type: location
 ---

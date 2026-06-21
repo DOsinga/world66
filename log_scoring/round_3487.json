@@ -1,0 +1,200 @@
+{
+  "round": 3487,
+  "timestamp": "2026-06-13T22:57:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 9.0136,
+      "prior_variance": 0.272883,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 7.9822,
+      "prior_variance": 0.152287,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.0694,
+      "prior_variance": 0.150553,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 6.4788,
+      "prior_variance": 0.166374,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 7.4605,
+      "prior_variance": 0.17335,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 5.1385,
+      "prior_variance": 0.154962,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 6.397,
+      "prior_variance": 0.138548,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Gruy\u00e8res",
+      "path": "europe/switzerland/gruyeres",
+      "prior_score": 4.3652,
+      "prior_variance": 0.231768,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.6147,
+      "prior_variance": 0.109555,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.5332,
+      "prior_variance": 0.123451,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 5.0922,
+      "prior_variance": 0.178607,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.3605,
+      "prior_variance": 0.113413,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -2.9202,
+      "prior_variance": 0.181767,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -3.461,
+      "prior_variance": 0.124626,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.1816,
+      "prior_variance": 0.131259,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.9564,
+      "prior_variance": 0.158231,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.3067,
+      "prior_variance": 0.118274,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -4.7295,
+      "prior_variance": 0.120182,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.1056,
+      "prior_variance": 0.115014,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -2.9085,
+      "prior_variance": 0.145007,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -5.1447,
+      "prior_variance": 0.136474,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.3099,
+      "prior_variance": 0.13396,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Chaoyang",
+      "path": "asia/china/liaoning/chaoyang",
+      "prior_score": -5.3847,
+      "prior_variance": 0.122714,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -7.6445,
+      "prior_variance": 0.223253,
+      "prior_n": 11
+    }
+  ]
+}

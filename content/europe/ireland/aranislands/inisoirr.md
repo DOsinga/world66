@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inisheer_5091_(2).jpg
 latitude: 53.056968
 loc_type: city
 longitude: -9.525355
-score: 0.59
+score: 0.52
 title: Inis Oirr
 type: location
 ---

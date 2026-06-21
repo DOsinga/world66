@@ -5,7 +5,7 @@ done:
 latitude: 56.088356
 loc_type: city
 longitude: 9.771875
-score: 0.45
+score: 0.4
 title: Ry
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 37.182
 loc_type: city
 longitude: -7.449
-score: 0.5
+score: 0.46
 title: Monte Gordo
 type: location
 ---

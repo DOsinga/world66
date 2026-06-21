@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Galway_cathedral.jpg
 latitude: 53.274412
 loc_type: city
 longitude: -9.04906
-score: 0.7
+score: 0.61
 title: Galway
 type: location
 ---

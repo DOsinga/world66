@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zaria_-_the_old_city_wall_
 latitude: 11.024812
 loc_type: city
 longitude: 7.651853
-score: 0.29
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Zaria
 - https://en.wikipedia.org/wiki/Emirate_of_Zazzau

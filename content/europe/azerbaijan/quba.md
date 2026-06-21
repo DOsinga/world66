@@ -5,7 +5,7 @@ done:
 latitude: 41.188089
 loc_type: city
 longitude: 48.372145
-score: 0.48
+score: 0.41
 title: Quba
 type: location
 image: quba.jpg

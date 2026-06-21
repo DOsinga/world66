@@ -6,7 +6,7 @@ latitude: -2.966619
 longitude: 119.875
 title: Toraja Highland
 type: location
-score: 0.61
+score: 0.53
 loc_type: city
 image: toraja_highland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ke%27te%27_Kesu%27_1.jpg

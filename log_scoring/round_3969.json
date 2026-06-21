@@ -1,0 +1,200 @@
+{
+  "round": 3969,
+  "timestamp": "2026-06-13T23:33:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 1.8237,
+      "prior_variance": 0.12593,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 4.6788,
+      "prior_variance": 0.128785,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 0.6468,
+      "prior_variance": 0.099123,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.3297,
+      "prior_variance": 0.106228,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.2861,
+      "prior_variance": 0.103601,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 0.5324,
+      "prior_variance": 0.109961,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.4587,
+      "prior_variance": 0.132239,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.7431,
+      "prior_variance": 0.117309,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -1.8112,
+      "prior_variance": 0.10553,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Rzeszow",
+      "path": "europe/poland/rzeszow",
+      "prior_score": -1.2517,
+      "prior_variance": 0.112924,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -2.5909,
+      "prior_variance": 0.114943,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -1.8301,
+      "prior_variance": 0.102851,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -1.509,
+      "prior_variance": 0.102537,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.4488,
+      "prior_variance": 0.092265,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.7735,
+      "prior_variance": 0.112008,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -1.5995,
+      "prior_variance": 0.11026,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.5901,
+      "prior_variance": 0.101873,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -3.8492,
+      "prior_variance": 0.121849,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.0781,
+      "prior_variance": 0.121872,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.1378,
+      "prior_variance": 0.12512,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.4093,
+      "prior_variance": 0.109716,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -3.9419,
+      "prior_variance": 0.105997,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -6.9761,
+      "prior_variance": 0.170429,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -10.8197,
+      "prior_variance": 0.562956,
+      "prior_n": 12
+    }
+  ]
+}

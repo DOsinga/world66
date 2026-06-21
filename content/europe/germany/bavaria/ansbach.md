@@ -5,7 +5,7 @@ done:
 latitude: 49.288874
 loc_type: city
 longitude: 10.559769
-score: 0.46
+score: 0.4
 title: Ansbach
 type: location
 image: ansbach.jpg

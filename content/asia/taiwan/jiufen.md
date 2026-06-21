@@ -11,6 +11,7 @@ loc_type: city
 longitude: 121.8443
 title: Jiufen
 type: location
+score: 0.64
 ---
 
 Jiufen is a former gold-mining town perched on a steep hillside above the northeast coast of Taiwan, about 50 kilometres from Taipei. Its stepped stone lanes, red lanterns, and teahouses clinging to the cliff face make it one of the most photographed places in Taiwan — and one of the most visited on weekends, when the numbers of visitors can make the narrow alleys feel impassable. Come on a weekday, or arrive late in the afternoon after the tour buses have gone.

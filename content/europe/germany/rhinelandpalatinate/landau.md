@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Court_House_in_Landau.JPG
 latitude: 49.198282
 loc_type: city
 longitude: 8.112344
-score: 0.43
+score: 0.39
 title: Landau
 type: location
 ---

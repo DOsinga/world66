@@ -22,7 +22,7 @@ quick_facts:
   Voodoo Birthplace: Togoville
 done:
   country_cleanup: 2026-03-31
-score: 0.32
+score: 0.41
 loc_type: country
 ---
 

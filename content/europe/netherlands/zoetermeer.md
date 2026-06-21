@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Netherlands,_Zoetermeer,_R
 latitude: 52.0622
 loc_type: city
 longitude: 4.4901
-score: 0.33
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Zoetermeer
 title: Zoetermeer

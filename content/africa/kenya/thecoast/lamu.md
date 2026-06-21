@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lamu_Old_Town.jpg
 latitude: -2.2675
 loc_type: city
 longitude: 40.9011
-score: 0.59
+score: 0.54
 title: Lamu
 type: location
 ---

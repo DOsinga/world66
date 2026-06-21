@@ -5,7 +5,7 @@ latitude: 42.569841
 longitude: 1.932093
 title: Pic Carlit
 type: location
-score: 0.58
+score: 0.48
 loc_type: feature
 ---
 

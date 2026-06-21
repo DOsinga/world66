@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/40774173@N00/108075323
 latitude: 17.693553
 loc_type: city
 longitude: 83.29213
-score: 0.48
+score: 0.38
 title: Visakhapatnam
 type: location
 ---

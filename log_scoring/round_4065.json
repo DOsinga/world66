@@ -1,0 +1,200 @@
+{
+  "round": 4065,
+  "timestamp": "2026-06-13T23:41:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 5.9845,
+      "prior_variance": 0.108891,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 3.6816,
+      "prior_variance": 0.123252,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.2221,
+      "prior_variance": 0.117195,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.281,
+      "prior_variance": 0.142425,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 4.2805,
+      "prior_variance": 0.10879,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 3.1589,
+      "prior_variance": 0.114226,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 4.3896,
+      "prior_variance": 0.125682,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.2365,
+      "prior_variance": 0.112184,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.0992,
+      "prior_variance": 0.097999,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.4881,
+      "prior_variance": 0.094104,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.2636,
+      "prior_variance": 0.100188,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.8751,
+      "prior_variance": 0.105338,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 1.8023,
+      "prior_variance": 0.099483,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.5771,
+      "prior_variance": 0.089005,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_score": -1.4159,
+      "prior_variance": 0.147218,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.3821,
+      "prior_variance": 0.114228,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.5664,
+      "prior_variance": 0.103139,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -1.0501,
+      "prior_variance": 0.095463,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.5528,
+      "prior_variance": 0.108975,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.464,
+      "prior_variance": 0.119387,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -6.6047,
+      "prior_variance": 0.162941,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.5656,
+      "prior_variance": 0.155654,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -4.1113,
+      "prior_variance": 0.111445,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.1238,
+      "prior_variance": 0.135631,
+      "prior_n": 13
+    }
+  ]
+}

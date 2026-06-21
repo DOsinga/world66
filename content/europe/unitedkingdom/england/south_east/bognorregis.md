@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bognor_Regis_MMB_12_Aldwic
 latitude: 50.7835
 loc_type: city
 longitude: -0.6731
-score: 0.37
+score: 0.33
 title: Bognor Regis
 type: location
 ---

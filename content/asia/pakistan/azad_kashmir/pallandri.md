@@ -5,7 +5,7 @@ latitude: 33.7181
 longitude: 73.6883
 title: Pallandri
 type: location
-score: 0.27
+score: 0.25
 loc_type: city
 ---
 

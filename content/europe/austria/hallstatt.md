@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boathouses_in_Hallstatt,_A
 latitude: 47.56217
 loc_type: city
 longitude: 13.64867
-score: 0.84
+score: 0.71
 title: Hallstatt
 type: location
 ---

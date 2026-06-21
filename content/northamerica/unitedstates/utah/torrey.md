@@ -5,7 +5,7 @@ done:
 latitude: 38.299737
 loc_type: city
 longitude: -111.42047
-score: 0.49
+score: 0.48
 title: Torrey
 type: location
 ---

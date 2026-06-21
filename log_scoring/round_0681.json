@@ -1,200 +1,200 @@
 {
   "round": 681,
-  "timestamp": "2026-04-12T10:42:40",
+  "timestamp": "2026-06-13T19:48:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mombasa",
-      "path": "africa/kenya/mombasa",
-      "prior_mu": 22.9909,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -12.9066,
+      "prior_variance": 0.62094,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Nairobi",
-      "path": "africa/kenya/nairobi",
-      "prior_mu": 22.4928,
-      "prior_sigma": 5.5602,
-      "prior_n": 1
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -10.9099,
+      "prior_variance": 1.431348,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Mount Kenya National Park",
-      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
-      "prior_mu": 22.7144,
-      "prior_sigma": 5.7048,
-      "prior_n": 1
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -13.8036,
+      "prior_variance": 1.10952,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Lake Nakuru National Park",
-      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -11.0724,
+      "prior_variance": 1.768076,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Tsavo West",
-      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
-      "prior_mu": 23.5283,
-      "prior_sigma": 5.8877,
-      "prior_n": 1
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -12.1549,
+      "prior_variance": 1.208775,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Hell's Gate N.P.",
-      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
-      "prior_mu": 22.5765,
-      "prior_sigma": 5.5045,
-      "prior_n": 1
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -9.6362,
+      "prior_variance": 1.504456,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Aberdare N.P.",
-      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
-      "prior_mu": 22.2485,
-      "prior_sigma": 4.7333,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -11.4042,
+      "prior_variance": 1.394438,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Naivasha",
-      "path": "africa/kenya/theriftvalley/naivasha",
-      "prior_mu": 21.6933,
-      "prior_sigma": 4.6905,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -13.0242,
+      "prior_variance": 1.403799,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Lake Baringo",
-      "path": "africa/kenya/lakes/lakebaringo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -12.9811,
+      "prior_variance": 1.261717,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Malindi",
-      "path": "africa/kenya/thecoast/malindi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -10.9381,
+      "prior_variance": 1.523371,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "South of Mombasa",
-      "path": "africa/kenya/thecoast/southofmombasa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -11.6755,
+      "prior_variance": 0.661372,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "North of Mombasa",
-      "path": "africa/kenya/thecoast/northofmombasa",
-      "prior_mu": 21.8793,
-      "prior_sigma": 4.8321,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -11.1679,
+      "prior_variance": 0.706517,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "The Coast",
-      "path": "africa/kenya/thecoast",
-      "prior_mu": 22.5093,
-      "prior_sigma": 5.8751,
-      "prior_n": 1
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -10.6119,
+      "prior_variance": 1.879769,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Nanyuki",
-      "path": "africa/kenya/centralhighlands/nanyuki",
-      "prior_mu": 22.0461,
-      "prior_sigma": 4.6981,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -13.1724,
+      "prior_variance": 1.112019,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Meru",
-      "path": "africa/kenya/centralhighlands/meru",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 16,
-      "title": "Maralal",
-      "path": "africa/kenya/northernkenya/maralal",
-      "prior_mu": 22.4017,
-      "prior_sigma": 5.3269,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -11.1876,
+      "prior_variance": 1.435607,
       "prior_n": 1
     },
     {
+      "rank": 16,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_score": -15.3321,
+      "prior_variance": 5.274437,
+      "prior_n": 2
+    },
+    {
       "rank": 17,
-      "title": "Isiolo",
-      "path": "africa/kenya/centralhighlands/isiolo",
-      "prior_mu": 21.6393,
-      "prior_sigma": 4.7337,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -16.1918,
+      "prior_variance": 6.18699,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "The Lakes",
-      "path": "africa/kenya/lakes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 19,
-      "title": "Northern Kenya",
-      "path": "africa/kenya/northernkenya",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 20,
-      "title": "Eldoret",
-      "path": "africa/kenya/theriftvalley/eldoret",
-      "prior_mu": 21.8416,
-      "prior_sigma": 4.5964,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Webuye",
-      "path": "africa/kenya/westernkenya/webuye",
-      "prior_mu": 22.1649,
-      "prior_sigma": 5.9499,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -13.1053,
+      "prior_variance": 1.45282,
       "prior_n": 1
     },
     {
+      "rank": 19,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -13.8592,
+      "prior_variance": 5.318809,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -16.9862,
+      "prior_variance": 6.162352,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -15.5569,
+      "prior_variance": 2.411504,
+      "prior_n": 2
+    },
+    {
       "rank": 22,
-      "title": "Western Kenya",
-      "path": "africa/kenya/westernkenya",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -16.1693,
+      "prior_variance": 3.107318,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Siaya Town",
-      "path": "africa/kenya/luo_nyanza/siaya_town",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -18.4644,
+      "prior_variance": 5.555036,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Kenya",
-      "path": "africa/kenya",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -16.8243,
+      "prior_variance": 3.917032,
+      "prior_n": 2
     }
   ]
 }

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Clinto
 latitude: 41.512
 loc_type: city
 longitude: -82.9377
-score: 0.36
+score: 0.31
 title: Port Clinton
 type: location
 ---

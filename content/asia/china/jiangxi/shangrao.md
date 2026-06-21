@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Shangrao
 title: Shangrao
 type: location
+score: 0.34
 ---
 
 Shangrao is the prefecture-level city in northeastern Jiangxi that contains, within its administrative reach, two of the most dramatic mountain landscapes in the province: [Sanqingshan](/asia/china/jiangxi/mount_sanqingshan) and the rural villages of [Wuyuan](/asia/china/jiangxi/wuyuan) county. As a city it is compact and fairly ordinary, but its position on high-speed rail lines connecting Shanghai to Kunming has made it an increasingly viable base for exploring a region that rewards slow travel. Borders with Zhejiang, Fujian, and Anhui provinces converge nearby, and the cultural blending is evident in the architecture and cuisine.

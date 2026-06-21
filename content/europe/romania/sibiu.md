@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hermannstadt_Romania,_the_
 latitude: 45.7974
 loc_type: city
 longitude: 24.1519
-score: 0.67
+score: 0.55
 title: Sibiu
 type: location
 ---

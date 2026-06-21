@@ -5,7 +5,7 @@ done:
 latitude: 43.9412
 loc_type: city
 longitude: 12.4474
-score: 0.4
+score: 0.48
 title: Borgo Maggiore
 type: location
 ---

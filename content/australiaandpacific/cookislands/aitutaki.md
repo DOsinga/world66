@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Aitutaki_Tapuaetai.jpg
 latitude: -18.888378
 loc_type: city
 longitude: -159.783188
-score: 0.79
+score: 0.65
 title: Aitutaki
 type: location
 ---

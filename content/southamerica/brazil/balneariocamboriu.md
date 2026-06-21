@@ -1,9 +1,10 @@
 ---
-title: "Balneário Camboriú"
+title: Balneário Camboriú
 type: location
 loc_type: city
 latitude: -26.9906
 longitude: -48.6344
+score: 0.44
 ---
 
 Balneário Camboriú is a city of beautiful contrasts...

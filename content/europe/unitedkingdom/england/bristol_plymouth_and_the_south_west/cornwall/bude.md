@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crooklets_Beach_Bude_-_geo
 latitude: 50.828525
 loc_type: city
 longitude: -4.546936
-score: 0.52
+score: 0.46
 title: Bude
 type: location
 ---

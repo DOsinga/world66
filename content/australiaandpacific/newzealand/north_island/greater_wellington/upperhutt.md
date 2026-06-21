@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/42033648@N00/269966509
 latitude: -41.124067
 loc_type: city
 longitude: 175.069959
-score: 0.4
+score: 0.33
 title: Upper Hutt
 type: location
 ---

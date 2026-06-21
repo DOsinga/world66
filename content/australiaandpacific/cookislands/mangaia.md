@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cook_Islands._Mangaia._Fro
 latitude: -21.925029
 loc_type: city
 longitude: -157.918069
-score: 0.5
+score: 0.44
 title: Mangaia
 type: location
 ---

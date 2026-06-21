@@ -7,7 +7,7 @@ done:
 latitude: 36.7421
 loc_type: city
 longitude: -5.1666
-score: 0.7
+score: 0.63
 title: Ronda
 type: location
 ---

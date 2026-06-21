@@ -1,0 +1,200 @@
+{
+  "round": 4799,
+  "timestamp": "2026-06-14T00:42:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 7.2385,
+      "prior_variance": 0.126857,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 8.3364,
+      "prior_variance": 0.151364,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 8.0471,
+      "prior_variance": 0.143698,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 9.6899,
+      "prior_variance": 0.210766,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 5.1885,
+      "prior_variance": 0.097728,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 4.9777,
+      "prior_variance": 0.095552,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 3.7563,
+      "prior_variance": 0.084162,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 3.6874,
+      "prior_variance": 0.093256,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.0102,
+      "prior_variance": 0.102177,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 2.4497,
+      "prior_variance": 0.103626,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.2013,
+      "prior_variance": 0.083818,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 1.7817,
+      "prior_variance": 0.098021,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 2.3506,
+      "prior_variance": 0.092174,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.5985,
+      "prior_variance": 0.087202,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.0402,
+      "prior_variance": 0.123248,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -4.3256,
+      "prior_variance": 0.101649,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -4.9587,
+      "prior_variance": 0.108089,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.4716,
+      "prior_variance": 0.151248,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -6.0697,
+      "prior_variance": 0.125897,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -5.1522,
+      "prior_variance": 0.103094,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.3851,
+      "prior_variance": 0.086531,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.1039,
+      "prior_variance": 0.112519,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -9.9667,
+      "prior_variance": 0.243485,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.5863,
+      "prior_variance": 0.200359,
+      "prior_n": 15
+    }
+  ]
+}

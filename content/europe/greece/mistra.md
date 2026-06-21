@@ -9,7 +9,7 @@ image: mistra.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Despot%27s_Palace_(2026).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Apaleutos25
-score: 0.61
+score: 0.5
 loc_type: feature
 ---
 

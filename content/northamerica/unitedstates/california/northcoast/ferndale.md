@@ -5,7 +5,7 @@ done:
 latitude: 40.5779
 loc_type: city
 longitude: -124.2621
-score: 0.42
+score: 0.34
 title: Ferndale
 type: location
 image: ferndale.jpg

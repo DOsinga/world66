@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kermario_Carnac.JPG
 latitude: 47.583663
 loc_type: city
 longitude: -3.079443
-score: 0.58
+score: 0.53
 title: Carnac
 type: location
 ---

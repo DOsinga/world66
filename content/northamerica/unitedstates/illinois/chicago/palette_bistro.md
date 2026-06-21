@@ -10,6 +10,7 @@ snippet: Romantic Lakeview bistro with affordable wine and weekend brunch
 tags:
 - eating_out
 - restaurant
+- lakeview
 title: Palette Bistro
 type: poi
 url: www.paletteonsouthport.com

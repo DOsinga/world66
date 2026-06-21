@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1993_Juneau_below_gf301.jp
 latitude: 58.301961
 loc_type: city
 longitude: -134.419675
-score: 0.61
+score: 0.56
 title: Juneau
 type: location
 ---

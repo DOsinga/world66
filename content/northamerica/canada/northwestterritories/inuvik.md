@@ -5,7 +5,7 @@ done:
 latitude: 68.3603
 loc_type: city
 longitude: -133.7204
-score: 0.38
+score: 0.37
 title: Inuvik
 type: location
 image: inuvik.jpg

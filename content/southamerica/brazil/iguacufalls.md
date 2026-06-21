@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cataratas_do_Igua%C3%A7u_-_Vista_de_cima_alt.jpg
 latitude: -25.693905
 longitude: -54.436538
-score: 0.86
+score: 0.77
 title: Iguaçu Falls
 type: location
 loc_type: feature

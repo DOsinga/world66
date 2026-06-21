@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jump!_(Petitengget_Beach,_
 latitude: -8.69056
 loc_type: city
 longitude: 115.168704
-score: 0.73
+score: 0.63
 title: Seminyak
 type: location
 ---

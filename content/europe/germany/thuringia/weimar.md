@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/22890158@N08/2288697701
 latitude: 50.97933
 loc_type: city
 longitude: 11.329792
-score: 0.62
+score: 0.53
 title: Weimar
 type: location
 ---

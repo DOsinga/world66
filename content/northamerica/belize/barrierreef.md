@@ -5,7 +5,7 @@ latitude: 17.5
 longitude: -87.6
 title: Belize Barrier Reef
 type: location
-score: 0.73
+score: 0.66
 loc_type: feature
 ---
 

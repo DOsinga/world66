@@ -1,200 +1,200 @@
 {
   "round": 72,
-  "timestamp": "2026-04-12T08:02:43",
+  "timestamp": "2026-06-13T19:18:15",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bordeaux",
-      "path": "europe/france/midi/aquitaine/bordeaux",
-      "prior_mu": 27.11,
-      "prior_sigma": 3.99,
-      "prior_n": 3
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Mt. Rainier National Park",
-      "path": "northamerica/unitedstates/washington/mtrainiernp",
-      "prior_mu": 28.18,
-      "prior_sigma": 4.53,
-      "prior_n": 3
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Orlando",
-      "path": "northamerica/unitedstates/florida/orlando",
-      "prior_mu": 27.24,
-      "prior_sigma": 4.94,
-      "prior_n": 3
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Volterra",
-      "path": "europe/italy/tuscany/volterra",
-      "prior_mu": 23.37,
-      "prior_sigma": 4.83,
-      "prior_n": 2
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Portland Maine",
-      "path": "northamerica/unitedstates/maine/portlandmaine",
-      "prior_mu": 21.55,
-      "prior_sigma": 3.75,
-      "prior_n": 3
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Alexandria",
-      "path": "africa/egypt/alexandria",
-      "prior_mu": 21.79,
-      "prior_sigma": 3.95,
-      "prior_n": 3
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "La Spezia",
-      "path": "europe/italy/liguria/laspezia",
-      "prior_mu": 22.23,
-      "prior_sigma": 4.45,
-      "prior_n": 2
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Quimper",
-      "path": "europe/france/normandybrittany/quimper",
-      "prior_mu": 21.62,
-      "prior_sigma": 3.38,
-      "prior_n": 4
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Sleeping Bear Dunes National Lakeshore",
-      "path": "northamerica/unitedstates/michigan/sleepingbear",
-      "prior_mu": 21.98,
-      "prior_sigma": 4.3,
-      "prior_n": 2
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Lancaster",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
-      "prior_mu": 21.73,
-      "prior_sigma": 4.36,
-      "prior_n": 2
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Falun",
-      "path": "europe/sweden/falun",
-      "prior_mu": 21.81,
-      "prior_sigma": 4.52,
-      "prior_n": 2
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Lorca",
-      "path": "europe/spain/spanishcostas/lorca",
-      "prior_mu": 21.36,
-      "prior_sigma": 3.63,
-      "prior_n": 3
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Birmingham and West Midlands",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes",
-      "prior_mu": 21.45,
-      "prior_sigma": 4.03,
-      "prior_n": 2
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "St. Helena",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
-      "prior_mu": 20.93,
-      "prior_sigma": 3.4,
-      "prior_n": 4
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Aliano",
-      "path": "europe/italy/basilicata/aliano",
-      "prior_mu": 21.16,
-      "prior_sigma": 3.3,
-      "prior_n": 4
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Mamaia",
-      "path": "europe/romania/mamaia",
-      "prior_mu": 21.04,
-      "prior_sigma": 3.24,
-      "prior_n": 4
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Woodinville",
-      "path": "northamerica/unitedstates/washington/woodinville",
-      "prior_mu": 20.53,
-      "prior_sigma": 3.25,
-      "prior_n": 4
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "San Blas",
-      "path": "northamerica/mexico/sanblas",
-      "prior_mu": 21.33,
-      "prior_sigma": 3.67,
-      "prior_n": 3
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Atascadero",
-      "path": "northamerica/unitedstates/california/atascadero",
-      "prior_mu": 21.03,
-      "prior_sigma": 3.21,
-      "prior_n": 4
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Strumica",
-      "path": "europe/macedonia/strumica",
-      "prior_mu": 21.21,
-      "prior_sigma": 4.1,
-      "prior_n": 2
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Blandford",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
-      "prior_mu": 20.12,
-      "prior_sigma": 3.84,
-      "prior_n": 3
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Soroca",
-      "path": "europe/moldova/soroca",
-      "prior_mu": 21.02,
-      "prior_sigma": 3.96,
-      "prior_n": 3
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Red Deer",
-      "path": "northamerica/canada/alberta/reddeer",
-      "prior_mu": 21.48,
-      "prior_sigma": 4.71,
-      "prior_n": 2
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Fergus Falls",
-      "path": "northamerica/unitedstates/minnesota/fergus_falls",
-      "prior_mu": 20.66,
-      "prior_sigma": 3.76,
-      "prior_n": 3
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

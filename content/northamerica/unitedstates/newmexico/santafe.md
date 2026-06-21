@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Francis_of_Assisi_Ca
 latitude: 35.6876
 loc_type: city
 longitude: -105.9385
-score: 0.65
+score: 0.59
 title: Santa Fe
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Cape_Macclear_(M
 latitude: -14.0264
 loc_type: city
 longitude: 34.8382
-score: 0.46
+score: 0.41
 title: Cape Maclear
 type: location
 ---

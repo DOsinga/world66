@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hydra,_Greece.jpg
 latitude: 37.332108
 loc_type: city
 longitude: 23.466424
-score: 0.75
+score: 0.65
 title: Hydra
 type: location
 ---

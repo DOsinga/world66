@@ -5,7 +5,7 @@ done:
 latitude: 38.373741
 loc_type: city
 longitude: 69.348419
-score: 0.32
+score: 0.26
 title: Nurek
 type: location
 image: nurek.jpg

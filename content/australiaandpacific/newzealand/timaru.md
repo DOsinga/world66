@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caroline_Bay_Timaru.jpg
 latitude: -44.393025
 loc_type: city
 longitude: 171.250979
-score: 0.41
+score: 0.36
 title: Timaru
 type: location
 ---

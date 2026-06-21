@@ -5,7 +5,7 @@ done:
 latitude: -45.9171
 loc_type: city
 longitude: 169.6818
-score: 0.45
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Lawrence,_New_Zealand
 title: Lawrence

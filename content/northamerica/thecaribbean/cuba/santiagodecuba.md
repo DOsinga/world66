@@ -5,7 +5,7 @@ done:
 latitude: 20.0247
 loc_type: city
 longitude: -75.8219
-score: 0.56
+score: 0.49
 title: Santiago de Cuba
 type: location
 ---

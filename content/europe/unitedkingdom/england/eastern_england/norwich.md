@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:38_Elm_Hill_-_Truman%27s_G
 latitude: 52.628558
 loc_type: city
 longitude: 1.292395
-score: 0.52
+score: 0.42
 title: Norwich
 type: location
 ---

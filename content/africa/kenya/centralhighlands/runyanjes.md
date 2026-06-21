@@ -1,7 +1,7 @@
 ---
 title: Runyenjes
 type: location
-score: 0.26
+score: 0.24
 loc_type: city
 latitude: -0.4223
 longitude: 37.5721

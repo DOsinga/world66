@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/25061723@N00/40431879565
 latitude: 11.5
 loc_type: city
 longitude: -85.4
-score: 0.52
+score: 0.42
 title: Lake Nicaragua
 type: location
 ---

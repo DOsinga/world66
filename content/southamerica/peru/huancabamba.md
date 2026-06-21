@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cartograf%C3%ADas_Sonoras_
 latitude: -5.4221
 loc_type: city
 longitude: -79.5174
-score: 0.4
+score: 0.38
 title: Huancabamba
 type: location
 ---

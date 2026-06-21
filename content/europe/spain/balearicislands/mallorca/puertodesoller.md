@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1._Port_de_S%C3%B3ller_(Ma
 latitude: 39.7938
 loc_type: city
 longitude: 2.6937
-score: 0.64
+score: 0.58
 title: Puerto de Soller
 type: location
 ---

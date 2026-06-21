@@ -1,200 +1,200 @@
 {
   "round": 1297,
-  "timestamp": "2026-04-12T22:20:06",
+  "timestamp": "2026-06-13T20:22:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Coyote Buttes South",
-      "path": "northamerica/unitedstates/utah/south_coyote_butte",
-      "prior_rank": 3779,
-      "prior_wins": 36,
-      "prior_n": 3
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -1.3525,
+      "prior_variance": 0.335125,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Sligachan",
-      "path": "europe/unitedkingdom/scotland/skye/sligachan",
-      "prior_rank": 3936,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -1.2282,
+      "prior_variance": 0.455176,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Nanjing",
-      "path": "asia/china/nanjing",
-      "prior_rank": 2937,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Vwaza Marsh Game Reserve",
+      "path": "africa/malawi/vwaza",
+      "prior_score": -2.3348,
+      "prior_variance": 0.59648,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Georgia",
-      "path": "europe/georgia",
-      "prior_rank": 6432,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": -0.5051,
+      "prior_variance": 0.296894,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Wye Valley",
-      "path": "europe/unitedkingdom/wales/wye_valley",
-      "prior_rank": 1556,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Shillong",
+      "path": "asia/india/meghalaya/shillong",
+      "prior_score": 2.2498,
+      "prior_variance": 0.364368,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Quer\u00e9taro",
-      "path": "northamerica/mexico/queretaro",
-      "prior_rank": 2407,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.4929,
+      "prior_variance": 0.326282,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "San Ignacio",
-      "path": "northamerica/belize/sanignacio",
-      "prior_rank": 2012,
-      "prior_wins": 55,
+      "title": "Bear Lake",
+      "path": "northamerica/unitedstates/utah/bearlake",
+      "prior_score": 0.1404,
+      "prior_variance": 0.335574,
       "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Isla de la Plata",
-      "path": "southamerica/ecuador/isla_de_la_plata",
-      "prior_rank": 1252,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.7521,
+      "prior_variance": 0.383578,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Colombo",
-      "path": "asia/srilanka/colombo",
-      "prior_rank": 4459,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.1118,
+      "prior_variance": 0.31439,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Moulay Idriss",
-      "path": "africa/morocco/moulayidriss",
-      "prior_rank": 1967,
-      "prior_wins": 47,
-      "prior_n": 3
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 2.0905,
+      "prior_variance": 0.32942,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Asilah",
-      "path": "africa/morocco/asilah",
-      "prior_rank": 1546,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Palmi",
+      "path": "europe/italy/calabria/palmi",
+      "prior_score": -0.3508,
+      "prior_variance": 0.380284,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Sozopol",
-      "path": "europe/bulgaria/sozopol",
-      "prior_rank": 2199,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -2.0998,
+      "prior_variance": 0.549605,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Island \u010ciovo",
-      "path": "europe/croatia/island_iovo",
-      "prior_rank": 2523,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -2.397,
+      "prior_variance": 0.339797,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Alykes",
-      "path": "europe/greece/zakinthos/alykes",
-      "prior_rank": 4486,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -3.0097,
+      "prior_variance": 0.32229,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Koblenz",
-      "path": "europe/germany/rhinelandpalatinate/koblenz",
-      "prior_rank": 1374,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.553,
+      "prior_variance": 0.336248,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "P\u00e9rigueux",
-      "path": "europe/france/midi/dordogne/perigueux",
-      "prior_rank": 2769,
-      "prior_wins": 42,
-      "prior_n": 3
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -1.0683,
+      "prior_variance": 0.311009,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Orbetello",
-      "path": "europe/italy/tuscany/orbetello",
-      "prior_rank": 2436,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -1.3036,
+      "prior_variance": 0.317548,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Brindisi",
-      "path": "europe/italy/puglia/brindisi",
-      "prior_rank": 2613,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Paderborn",
+      "path": "europe/germany/northrhinewestphalia/paderborn",
+      "prior_score": -0.9516,
+      "prior_variance": 0.323815,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Monts de l'Espinouse",
-      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
-      "prior_rank": 3280,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -2.4922,
+      "prior_variance": 0.431044,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Bude",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
-      "prior_rank": 2287,
-      "prior_wins": 60,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.7404,
+      "prior_variance": 0.345731,
       "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Sch\u00f6neberg",
-      "path": "europe/germany/berlin/schoneberg",
-      "prior_rank": 960,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -2.313,
+      "prior_variance": 0.321102,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Ventimiglia",
-      "path": "europe/italy/liguria/italianriviera/ventimiglia",
-      "prior_rank": 3256,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.2461,
+      "prior_variance": 0.346513,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Nottingham",
-      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
-      "prior_rank": 2193,
-      "prior_wins": 61,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -2.3541,
+      "prior_variance": 0.455237,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Alcal\u00e1 de Henares",
-      "path": "europe/spain/alcaladehenares",
-      "prior_rank": 4234,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -5.1963,
+      "prior_variance": 0.575729,
+      "prior_n": 4
     }
   ]
 }

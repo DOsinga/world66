@@ -5,7 +5,7 @@ done:
 latitude: 12.5
 loc_type: city
 longitude: 53.833333
-score: 0.55
+score: 0.5
 title: Socotra
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 36.7581
 loc_type: city
 longitude: 66.898
-score: 0.27
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Balkh
 title: Balkh

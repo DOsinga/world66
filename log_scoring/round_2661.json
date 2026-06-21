@@ -1,0 +1,200 @@
+{
+  "round": 2661,
+  "timestamp": "2026-06-13T21:58:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 2.6257,
+      "prior_variance": 0.202722,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 3.2645,
+      "prior_variance": 0.164045,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": 1.1015,
+      "prior_variance": 0.178615,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.0364,
+      "prior_variance": 0.157724,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 2.0197,
+      "prior_variance": 0.159349,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 1.9259,
+      "prior_variance": 0.159374,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.4306,
+      "prior_variance": 0.13481,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 3.2589,
+      "prior_variance": 0.161258,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": -0.0785,
+      "prior_variance": 0.164422,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.0419,
+      "prior_variance": 0.150478,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 1.721,
+      "prior_variance": 0.162391,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 0.621,
+      "prior_variance": 0.165242,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.8925,
+      "prior_variance": 0.153401,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.5609,
+      "prior_variance": 0.1473,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.394,
+      "prior_variance": 0.142427,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 1.4802,
+      "prior_variance": 0.138617,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.5728,
+      "prior_variance": 0.174469,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.7975,
+      "prior_variance": 0.138877,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.5598,
+      "prior_variance": 0.181962,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.5401,
+      "prior_variance": 0.173587,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.6795,
+      "prior_variance": 0.144475,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -2.0979,
+      "prior_variance": 0.159191,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -6.0631,
+      "prior_variance": 0.248998,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -3.9311,
+      "prior_variance": 0.279071,
+      "prior_n": 9
+    }
+  ]
+}

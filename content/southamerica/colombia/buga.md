@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buga_-_Catedral.JPG
 latitude: 3.9001
 loc_type: city
 longitude: -76.302
-score: 0.45
+score: 0.36
 title: Buga
 type: location
 ---

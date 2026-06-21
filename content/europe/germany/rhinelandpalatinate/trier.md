@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trier-Blick-vom_Weishaus.J
 latitude: 49.759621
 loc_type: city
 longitude: 6.644188
-score: 0.61
+score: 0.54
 title: Trier
 type: location
 ---

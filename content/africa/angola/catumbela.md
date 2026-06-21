@@ -5,7 +5,7 @@ done:
 latitude: -12.433425
 loc_type: city
 longitude: 13.543048
-score: 0.25
+score: 0.19
 title: Catumbela
 type: location
 ---

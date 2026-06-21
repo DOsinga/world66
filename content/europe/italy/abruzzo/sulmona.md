@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Sulmona.jpg
 latitude: 42.047423
 loc_type: city
 longitude: 13.927011
-score: 0.55
+score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/Sulmona
 - https://en.wikipedia.org/wiki/Sulmona_Cathedral

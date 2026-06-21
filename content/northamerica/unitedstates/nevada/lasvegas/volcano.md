@@ -2,12 +2,13 @@
 address: The Mirage, 3400 Las Vegas Blvd. South
 latitude: 36.12025
 longitude: -115.172574
+score: 6.3
 snippet: Free nightly eruption show on the Las Vegas Strip
 tags:
 - things_to_do
+- the_strip
 title: Mirage Volcano
 type: poi
-score: 6.3
 ---
 
 The Mirage Volcano was one of the original free spectacles on the Las Vegas Strip — a full-scale volcano erupting with real fire, water, and a booming soundtrack right on the sidewalk. The show ran nightly for decades and became one of the most recognizable landmarks on the Boulevard.

@@ -5,7 +5,7 @@ done:
 latitude: 38.983057
 loc_type: city
 longitude: 1.300949
-score: 0.57
+score: 0.51
 title: San Antonio Abad
 type: location
 ---

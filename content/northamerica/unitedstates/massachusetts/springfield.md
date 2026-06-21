@@ -5,7 +5,7 @@ done:
 latitude: 42.1015
 loc_type: city
 longitude: -72.5898
-score: 0.37
+score: 0.31
 title: Springfield
 type: location
 image: springfield.jpg

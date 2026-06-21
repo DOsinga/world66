@@ -7,7 +7,7 @@ done:
 latitude: 44.8153
 loc_type: city
 longitude: 20.4457
-score: 0.59
+score: 0.54
 title: Belgrade
 type: location
 ---

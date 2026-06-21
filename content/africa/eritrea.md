@@ -15,7 +15,7 @@ quick_facts:
   Access: "Travel permits required outside Asmara"
   Asmara: UNESCO Art Deco capital
   Dahlak Islands: "200+"
-score: 0.2
+score: 0.36
 loc_type: country
 ---
 

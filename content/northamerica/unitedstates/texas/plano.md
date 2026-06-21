@@ -6,7 +6,7 @@ done:
 latitude: 33.0198
 loc_type: city
 longitude: -96.6989
-score: 0.32
+score: 0.27
 title: Plano
 type: location
 ---

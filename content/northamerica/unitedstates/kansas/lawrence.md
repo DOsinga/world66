@@ -5,7 +5,7 @@ done:
 latitude: 38.971914
 loc_type: city
 longitude: -95.23594
-score: 0.4
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Lawrence,_Kansas
 title: Lawrence

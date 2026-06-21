@@ -5,7 +5,7 @@ done:
 latitude: 42.8136
 loc_type: city
 longitude: 25.41
-score: 0.44
+score: 0.39
 title: Bojentsi
 type: location
 image: bojencite.jpg

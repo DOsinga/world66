@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vinci,_Tuscany,_Italy_(1).
 latitude: 43.7874
 loc_type: city
 longitude: 10.9271
-score: 0.55
+score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/Museo_leonardiano_di_Vinci
 - https://en.wikipedia.org/wiki/Anchiano

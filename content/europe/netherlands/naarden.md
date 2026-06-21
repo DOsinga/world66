@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_gra
 latitude: 52.2958
 loc_type: city
 longitude: 5.1634
-score: 0.52
+score: 0.48
 title: Naarden
 type: location
 ---

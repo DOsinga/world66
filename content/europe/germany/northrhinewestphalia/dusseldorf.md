@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rheinkniebr%C3%BCcke_at_ni
 latitude: 51.225402
 loc_type: city
 longitude: 6.776314
-score: 0.55
+score: 0.46
 title: Dusseldorf
 type: location
 ---

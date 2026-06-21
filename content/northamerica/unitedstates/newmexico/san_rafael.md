@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Spring_of_water_near_San_R
 latitude: 35.1092
 loc_type: city
 longitude: -107.8803
-score: 0.37
+score: 0.26
 title: San Rafael
 type: location
 ---

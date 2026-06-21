@@ -15,7 +15,7 @@ quick_facts:
   Drives On: Right
   Cheese Varieties: "Over 1,200 named"
   Most-Visited Country: "100 million tourists/year"
-score: 0.95
+score: 0.98
 title: France
 type: location
 loc_type: country

@@ -5,7 +5,7 @@ done:
 latitude: 19.766812
 loc_type: city
 longitude: 74.475439
-score: 0.44
+score: 0.37
 title: Shirdi
 type: location
 ---

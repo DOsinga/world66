@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FGS_Marksburg_in_Koblenz_(
 latitude: 50.353328
 loc_type: city
 longitude: 7.594395
-score: 0.57
+score: 0.53
 title: Koblenz
 type: location
 ---

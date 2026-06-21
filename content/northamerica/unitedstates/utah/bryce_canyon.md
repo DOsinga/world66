@@ -5,7 +5,7 @@ latitude: 37.618407
 longitude: -112.142179
 title: Bryce Canyon
 type: location
-score: 0.81
+score: 0.72
 image: bryce_canyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Sunrise_Point_Highres_2013.jpg
 image_license: CC BY-SA 3.0

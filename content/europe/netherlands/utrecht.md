@@ -11,7 +11,7 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
 longitude: 5.121563
-score: 0.65
+score: 0.51
 tags:
 - culture
 - museums

@@ -5,7 +5,7 @@ done:
 latitude: 25.1288
 loc_type: city
 longitude: 56.3264
-score: 0.4
+score: 0.42
 title: Fujairah
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hanumangarh_Bhatner_fort.j
 latitude: 29.5819
 loc_type: city
 longitude: 74.3294
-score: 0.28
+score: 0.24
 title: Hanumangarh
 type: location
 ---

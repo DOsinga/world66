@@ -3,9 +3,8 @@ latitude: 25.0086
 longitude: 121.5347
 snippet: Reclaimed hillside squatter village turned artist community
 tags:
-- things_to_do
+- day_trips
 - sight
-- neighbourhood
 title: Treasure Hill
 type: poi
 story: "Treasure Hill grew up in the 1960s and 70s as an informal settlement of retired Nationalist soldiers and other migrants, building stacked concrete houses up the slope above the Xindian River. The city government scheduled it for demolition in 2003; sustained protests led to its reprieve and an unusual experiment — a 'symbiotic' community where surviving residents continue to live alongside artists and a small hostel."

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria-Sandanski-03.jpg
 latitude: 41.565416
 loc_type: city
 longitude: 23.278643
-score: 0.45
+score: 0.39
 title: Sandanski
 type: location
 ---

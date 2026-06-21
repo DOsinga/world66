@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_A
 latitude: 40.751737
 loc_type: feature
 longitude: 14.490564
-score: 0.77
+score: 0.71
 title: Pompeii
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 6.185882
 loc_type: city
 longitude: 6.729707
-score: 0.3
+score: 0.23
 title: Asaba, Delta State
 type: location
 ---

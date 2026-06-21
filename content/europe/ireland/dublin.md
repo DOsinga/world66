@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-
 latitude: 53.349379
 loc_type: city
 longitude: -6.260559
-score: 0.68
+score: 0.62
 title: Dublin
 type: location
 ---

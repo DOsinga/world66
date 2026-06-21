@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Svolv%C3%A6r,_Lofote
 latitude: 68.2321
 loc_type: city
 longitude: 14.5646
-score: 0.74
+score: 0.65
 title: Svolvær
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 38.069573
 longitude: -120.540503
 title: Angels Camp
 type: location
-score: 0.44
+score: 0.36
 loc_type: city
 ---
 

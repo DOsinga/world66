@@ -1,0 +1,200 @@
+{
+  "round": 2356,
+  "timestamp": "2026-06-13T21:37:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 10.4882,
+      "prior_variance": 0.36404,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 8.4871,
+      "prior_variance": 0.353478,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 6.9453,
+      "prior_variance": 0.181685,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 5.697,
+      "prior_variance": 0.237644,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 6.3855,
+      "prior_variance": 0.17571,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 5.991,
+      "prior_variance": 0.34767,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.271,
+      "prior_variance": 0.279002,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 5.4748,
+      "prior_variance": 0.207608,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.1403,
+      "prior_variance": 0.271164,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.7515,
+      "prior_variance": 0.338326,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 6.3983,
+      "prior_variance": 0.254846,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.2761,
+      "prior_variance": 0.226137,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 5.5835,
+      "prior_variance": 0.202687,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 7.6053,
+      "prior_variance": 0.22363,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_score": 4.2459,
+      "prior_variance": 0.237524,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 4.9623,
+      "prior_variance": 0.19417,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_score": 3.3124,
+      "prior_variance": 0.193225,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 3.3646,
+      "prior_variance": 0.193531,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.8571,
+      "prior_variance": 0.206468,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 0.997,
+      "prior_variance": 0.157398,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 2.3687,
+      "prior_variance": 0.187879,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -2.7261,
+      "prior_variance": 0.165831,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.9262,
+      "prior_variance": 0.235759,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.4884,
+      "prior_variance": 0.188719,
+      "prior_n": 7
+    }
+  ]
+}

@@ -5,7 +5,7 @@ latitude: 42.4469
 longitude: -8.876
 title: A Lanzada
 type: location
-score: 0.47
+score: 0.41
 loc_type: feature
 ---
 

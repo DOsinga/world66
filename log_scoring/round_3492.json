@@ -1,0 +1,200 @@
+{
+  "round": 3492,
+  "timestamp": "2026-06-13T22:57:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -0.9485,
+      "prior_variance": 0.099018,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.006,
+      "prior_variance": 0.123873,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.5482,
+      "prior_variance": 0.107817,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.8061,
+      "prior_variance": 0.124569,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.4167,
+      "prior_variance": 0.12242,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -2.5376,
+      "prior_variance": 0.126048,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.6507,
+      "prior_variance": 0.121341,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -2.7597,
+      "prior_variance": 0.132192,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -1.8926,
+      "prior_variance": 0.129475,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Masterton",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton",
+      "prior_score": -2.0983,
+      "prior_variance": 0.124511,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.3421,
+      "prior_variance": 0.123426,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.0182,
+      "prior_variance": 0.110622,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.4911,
+      "prior_variance": 0.113781,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -2.9447,
+      "prior_variance": 0.120251,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -4.5601,
+      "prior_variance": 0.145254,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.7271,
+      "prior_variance": 0.122742,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -3.6576,
+      "prior_variance": 0.124183,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -4.2074,
+      "prior_variance": 0.156026,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -5.0292,
+      "prior_variance": 0.148972,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -2.9981,
+      "prior_variance": 0.113574,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -4.1222,
+      "prior_variance": 0.186083,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -3.932,
+      "prior_variance": 0.140243,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.0715,
+      "prior_variance": 0.151827,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.6664,
+      "prior_variance": 0.135111,
+      "prior_n": 11
+    }
+  ]
+}

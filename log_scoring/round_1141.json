@@ -1,199 +1,199 @@
 {
   "round": 1141,
-  "timestamp": "2026-04-12T22:11:41",
+  "timestamp": "2026-06-13T20:13:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Alaska",
-      "path": "northamerica/unitedstates/alaska",
-      "prior_rank": 479,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 0.7161,
+      "prior_variance": 0.519704,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Muscat",
-      "path": "asia/oman/muscat",
-      "prior_rank": 737,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 4.4732,
+      "prior_variance": 0.459654,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Gdansk",
-      "path": "europe/poland/gdansk",
-      "prior_rank": 303,
-      "prior_wins": 84,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 3.5897,
+      "prior_variance": 0.375142,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Boulder",
-      "path": "northamerica/unitedstates/colorado/boulder",
-      "prior_rank": 696,
-      "prior_wins": 59,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.1864,
+      "prior_variance": 0.507607,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Chester",
-      "path": "europe/unitedkingdom/england/chester",
-      "prior_rank": 399,
-      "prior_wins": 62,
-      "prior_n": 3
-    },
-    {
-      "rank": 6,
-      "title": "Black Forest",
-      "path": "europe/germany/badenwrttemberg/blackforest",
-      "prior_rank": 238,
-      "prior_wins": 85,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 3.1924,
+      "prior_variance": 0.331805,
       "prior_n": 4
     },
     {
+      "rank": 6,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -6.327,
+      "prior_variance": 0.398146,
+      "prior_n": 3
+    },
+    {
       "rank": 7,
-      "title": "Roatan",
-      "path": "northamerica/honduras/bayislands/roatan",
-      "prior_rank": 3054,
-      "prior_wins": 41,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -5.3207,
+      "prior_variance": 0.379914,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Selcuk",
-      "path": "asia/turkey/selcuk",
-      "prior_rank": 942,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Pingliang",
+      "path": "asia/china/gansu/pingliang",
+      "prior_score": -5.2712,
+      "prior_variance": 0.407041,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Casablanca",
-      "path": "africa/morocco/casablanca",
-      "prior_rank": 954,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -7.1024,
+      "prior_variance": 0.410565,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Rabat",
-      "path": "africa/morocco/rabat",
-      "prior_rank": 431,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Erdenet",
+      "path": "asia/mongolia/erdenet",
+      "prior_score": -8.1231,
+      "prior_variance": 0.462996,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Perast",
-      "path": "europe/serbiaandmontenegro/perast",
-      "prior_rank": 1009,
-      "prior_wins": 52,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -7.415,
+      "prior_variance": 0.429283,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Cayo Coco",
-      "path": "northamerica/cuba/cayo_coco",
-      "prior_rank": 2133,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -7.8985,
+      "prior_variance": 0.489447,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Puerto de Alcudia",
-      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
-      "prior_rank": 2898,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -4.4752,
+      "prior_variance": 0.310944,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Sitia",
-      "path": "europe/greece/crete/sitia",
-      "prior_rank": 1528,
-      "prior_wins": 52,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -5.9475,
+      "prior_variance": 0.670523,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Paestum",
-      "path": "europe/italy/campania/paestum",
-      "prior_rank": 3347,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -6.5922,
+      "prior_variance": 0.468047,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Navarre",
-      "path": "europe/spain/navarre",
-      "prior_rank": 982,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -9.3609,
+      "prior_variance": 1.342718,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Udzungwa National Park",
-      "path": "africa/tanzania/udzungwa_national",
-      "prior_rank": 813,
-      "prior_wins": 58,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -7.8643,
+      "prior_variance": 0.482957,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Kaziranga",
-      "path": "asia/india/assam/kaziranga",
-      "prior_rank": 2610,
-      "prior_wins": 44,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -8.0096,
+      "prior_variance": 0.559044,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Tahoe City",
-      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
-      "prior_rank": 740,
-      "prior_wins": 39,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Killington",
-      "path": "northamerica/unitedstates/vermont/killington",
-      "prior_rank": 2124,
-      "prior_wins": 31,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Alassio",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
-      "prior_rank": 1826,
-      "prior_wins": 33,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Alcantara Gorges",
-      "path": "europe/italy/sicily/alcantara_gorges",
-      "prior_rank": 1259,
-      "prior_wins": 54,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -8.0332,
+      "prior_variance": 0.430551,
       "prior_n": 3
     },
     {
+      "rank": 20,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -8.9803,
+      "prior_variance": 0.439,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -8.0138,
+      "prior_variance": 0.424905,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -6.7894,
+      "prior_variance": 0.334327,
+      "prior_n": 4
+    },
+    {
       "rank": 23,
-      "title": "Elgol",
-      "path": "europe/unitedkingdom/scotland/skye/elgol",
-      "prior_rank": 1031,
-      "prior_wins": 56,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -9.1635,
+      "prior_variance": 0.474652,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Everest Base Camp (Tibet)",
-      "path": "asia/china/tibet/everest_base_camp",
-      "prior_rank": 1744,
-      "prior_wins": 50,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -10.4648,
+      "prior_variance": 1.402037,
       "prior_n": 3
     }
   ]

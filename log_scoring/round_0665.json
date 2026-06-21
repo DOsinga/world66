@@ -1,200 +1,200 @@
 {
   "round": 665,
-  "timestamp": "2026-04-12T10:41:56",
+  "timestamp": "2026-06-13T19:47:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Udaipur",
-      "path": "asia/india/rajasthan/udaipur",
-      "prior_mu": 24.1781,
-      "prior_sigma": 5.8649,
-      "prior_n": 1
-    },
-    {
-      "rank": 2,
-      "title": "Pahalgam",
-      "path": "asia/india/jammuandkashmir/pahalgam",
-      "prior_mu": 22.7707,
-      "prior_sigma": 3.9746,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 7.0093,
+      "prior_variance": 1.006777,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 4.3603,
+      "prior_variance": 0.657258,
+      "prior_n": 2
+    },
+    {
       "rank": 3,
-      "title": "Pelling",
-      "path": "asia/india/sikkim/pelling",
-      "prior_mu": 22.9012,
-      "prior_sigma": 5.1807,
-      "prior_n": 1
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 8.1419,
+      "prior_variance": 0.574018,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Lucknow",
-      "path": "asia/india/uttarpradesh/lucknow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Senglea",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 5.8084,
+      "prior_variance": 0.813608,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Aurangabad",
-      "path": "asia/india/maharashtra/aurangabad",
-      "prior_mu": 22.7027,
-      "prior_sigma": 5.939,
-      "prior_n": 1
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 3.4459,
+      "prior_variance": 0.623618,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Tirupati",
-      "path": "asia/india/andhrapradesh/tirupathi_1",
-      "prior_mu": 22.3316,
-      "prior_sigma": 5.7831,
-      "prior_n": 1
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 4.1356,
+      "prior_variance": 0.684821,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Modhera",
-      "path": "asia/india/gujarat/modhera",
-      "prior_mu": 21.5773,
-      "prior_sigma": 4.6882,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 4.4938,
+      "prior_variance": 0.898036,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Lothal",
-      "path": "asia/india/gujarat/lothal",
-      "prior_mu": 22.5822,
-      "prior_sigma": 5.5318,
-      "prior_n": 1
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 3.6118,
+      "prior_variance": 0.532038,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Ratnagiri",
-      "path": "asia/india/maharashtra/ratnagiri",
-      "prior_mu": 22.1454,
-      "prior_sigma": 5.3945,
-      "prior_n": 1
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 3.9248,
+      "prior_variance": 0.657938,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Siolim",
-      "path": "asia/india/goa/siolim",
-      "prior_mu": 21.641,
-      "prior_sigma": 4.7011,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 5.3866,
+      "prior_variance": 0.823959,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Bambolim",
-      "path": "asia/india/goa/bambolim",
-      "prior_mu": 22.0363,
-      "prior_sigma": 5.7463,
-      "prior_n": 1
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 1.0253,
+      "prior_variance": 1.307647,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Ullal",
-      "path": "asia/india/karnataka/konkan_coast/ullal",
-      "prior_mu": 21.9207,
-      "prior_sigma": 5.9389,
-      "prior_n": 1
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 4.0214,
+      "prior_variance": 0.551867,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "sarainkhet sarson",
-      "path": "asia/india/uttaranchal/sarainkhet_sarson",
-      "prior_mu": 22.6623,
-      "prior_sigma": 5.9483,
-      "prior_n": 1
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 3.8634,
+      "prior_variance": 0.632686,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "West Bengal",
-      "path": "asia/india/westbengal",
-      "prior_mu": 21.2422,
-      "prior_sigma": 5.3441,
-      "prior_n": 1
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 3.8244,
+      "prior_variance": 0.78287,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Siddhpur",
-      "path": "asia/india/gujarat/siddhpur",
-      "prior_mu": 21.8827,
-      "prior_sigma": 4.6824,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": 1.5659,
+      "prior_variance": 0.819277,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Pathankot",
-      "path": "asia/india/punjab/pathankot",
-      "prior_mu": 21.7245,
-      "prior_sigma": 4.7272,
-      "prior_n": 2
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 3.9918,
+      "prior_variance": 1.350657,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Bathinda",
-      "path": "asia/india/punjab/bathinda",
-      "prior_mu": 22.4972,
-      "prior_sigma": 5.7233,
-      "prior_n": 1
+      "title": "St Lucia",
+      "path": "africa/southafrica/stlucia",
+      "prior_score": 4.096,
+      "prior_variance": 0.991998,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Balangir",
-      "path": "asia/india/orissa/balangir",
-      "prior_mu": 22.1715,
-      "prior_sigma": 5.7183,
-      "prior_n": 1
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": 2.2257,
+      "prior_variance": 0.778609,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Vemulawada",
-      "path": "asia/india/andhrapradesh/vemulawada",
-      "prior_mu": 21.9419,
-      "prior_sigma": 5.6787,
-      "prior_n": 1
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": 2.7282,
+      "prior_variance": 0.716554,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Gorakhpur",
-      "path": "asia/india/uttarpradesh/gorakhpur",
-      "prior_mu": 22.4536,
-      "prior_sigma": 5.427,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": 1.5673,
+      "prior_variance": 1.444161,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Mandangad",
-      "path": "asia/india/maharashtra/konkan/mandangad",
-      "prior_mu": 22.092,
-      "prior_sigma": 5.7305,
-      "prior_n": 1
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 2.9231,
+      "prior_variance": 0.760075,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Ambala",
-      "path": "asia/india/haryana/ambala",
-      "prior_mu": 20.4538,
-      "prior_sigma": 4.0655,
-      "prior_n": 3
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": 2.4596,
+      "prior_variance": 0.697458,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Noida",
-      "path": "asia/india/uttarpradesh/noida",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": 1.0096,
+      "prior_variance": 0.768448,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "India",
-      "path": "asia/india",
-      "prior_mu": 21.6008,
-      "prior_sigma": 4.6637,
-      "prior_n": 2
+      "title": "Guam\u00e1",
+      "path": "northamerica/thecaribbean/cuba/guama",
+      "prior_score": -3.2418,
+      "prior_variance": 1.405647,
+      "prior_n": 1
     }
   ]
 }

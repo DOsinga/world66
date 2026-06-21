@@ -1,0 +1,200 @@
+{
+  "round": 4105,
+  "timestamp": "2026-06-13T23:44:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.4869,
+      "prior_variance": 0.111693,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.5847,
+      "prior_variance": 0.126731,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.5505,
+      "prior_variance": 0.110381,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 3.0456,
+      "prior_variance": 0.111962,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 3.6945,
+      "prior_variance": 0.105307,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 3.4654,
+      "prior_variance": 0.144983,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.8483,
+      "prior_variance": 0.104595,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.1939,
+      "prior_variance": 0.101708,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.6582,
+      "prior_variance": 0.094457,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.6015,
+      "prior_variance": 0.108554,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 0.829,
+      "prior_variance": 0.105114,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.1508,
+      "prior_variance": 0.086884,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": 0.4316,
+      "prior_variance": 0.110679,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -0.6722,
+      "prior_variance": 0.105754,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.6323,
+      "prior_variance": 0.12491,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.2596,
+      "prior_variance": 0.11923,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -3.2945,
+      "prior_variance": 0.125308,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -3.8063,
+      "prior_variance": 0.105179,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.4026,
+      "prior_variance": 0.09909,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -6.312,
+      "prior_variance": 0.124082,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.1647,
+      "prior_variance": 0.164888,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -6.4487,
+      "prior_variance": 0.133408,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -6.8638,
+      "prior_variance": 0.18592,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -9.7981,
+      "prior_variance": 0.398816,
+      "prior_n": 13
+    }
+  ]
+}

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roeselare_-_Market_square_
 latitude: 50.945
 loc_type: city
 longitude: 3.1244
-score: 0.39
+score: 0.34
 title: Roeselare
 type: location
 ---

@@ -1,199 +1,199 @@
 {
   "round": 221,
-  "timestamp": "2026-04-12T09:07:28",
+  "timestamp": "2026-06-13T19:25:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kyoto",
-      "path": "asia/japan/honshu/kyoto",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Egypt",
-      "path": "africa/egypt",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Austria",
-      "path": "europe/austria",
-      "prior_mu": 26.215,
-      "prior_sigma": 5.5262,
-      "prior_n": 2
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Bermuda",
-      "path": "northamerica/bermuda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Manuel Antonio",
-      "path": "northamerica/costarica/manuelantonio",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Ocho Rios",
-      "path": "northamerica/jamaica/ochorios",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Sveti Stefan",
-      "path": "europe/montenegro/sveti_stefan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Olympos",
-      "path": "asia/turkey/olympos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Ba\u0161ka Voda",
-      "path": "europe/croatia/baka_voda",
-      "prior_mu": 22.1831,
-      "prior_sigma": 5.766,
-      "prior_n": 1
+      "title": "Llangollen",
+      "path": "europe/unitedkingdom/wales/llangollen",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Angra dos Reis",
-      "path": "southamerica/brazil/angradosreis",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Redang",
-      "path": "asia/malaysia/redang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Robinson Crusoe Island",
-      "path": "southamerica/chile/robinson_crusoe_is",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Hanas Lake",
-      "path": "asia/china/xinjiangprovince/hanaslake",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Ooty",
-      "path": "asia/india/tamilnadu/ooty",
-      "prior_mu": 22.2445,
-      "prior_sigma": 4.5068,
-      "prior_n": 2
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Patan",
-      "path": "asia/nepal/patan",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2991,
-      "prior_n": 1
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Alkmaar",
-      "path": "europe/netherlands/alkmaar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Vung Tau",
-      "path": "asia/vietnam/vungtau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Cape Kaliakra",
-      "path": "europe/bulgaria/cape_kaliakra",
-      "prior_mu": 22.875,
-      "prior_sigma": 5.7221,
-      "prior_n": 1
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Connecticut",
-      "path": "northamerica/unitedstates/connecticut",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "H\u00eence\u0219ti",
-      "path": "europe/moldova/hincest",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Shankarpur",
-      "path": "asia/india/westbengal/shankarpur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Ciudad Obreg\u00f3n",
-      "path": "northamerica/mexico/ciudad_obregn",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Krishnanagar",
-      "path": "asia/india/westbengal/krishnanagar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Ardmore",
-      "path": "northamerica/unitedstates/oklahoma/ardmore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

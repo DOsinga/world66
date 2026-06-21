@@ -6,7 +6,7 @@ longitude: 35.85
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-29'
-score: 0.37
+score: 0.31
 loc_type: city
 image: irbid.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_old_Irbid_city.jpg

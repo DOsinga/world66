@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_zug_oldtown_aerial
 latitude: 47.148614
 loc_type: city
 longitude: 8.553938
-score: 0.53
+score: 0.46
 title: Zug
 type: location
 ---

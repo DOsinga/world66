@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kona_Mauka.jpg
 latitude: 19.6419
 loc_type: city
 longitude: -155.9969
-score: 0.68
+score: 0.61
 title: Kailua-Kona
 type: location
 ---

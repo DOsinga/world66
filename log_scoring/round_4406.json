@@ -1,0 +1,200 @@
+{
+  "round": 4406,
+  "timestamp": "2026-06-14T00:09:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 12.8397,
+      "prior_variance": 0.378315,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 5.4442,
+      "prior_variance": 0.111201,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.5433,
+      "prior_variance": 0.110559,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 6.8099,
+      "prior_variance": 0.179688,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 6.1916,
+      "prior_variance": 0.124729,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Khao Yai National Park",
+      "path": "asia/thailand/khaoyainationalpark",
+      "prior_score": 6.1014,
+      "prior_variance": 0.116731,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 4.4839,
+      "prior_variance": 0.142744,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 3.728,
+      "prior_variance": 0.09749,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 3.4966,
+      "prior_variance": 0.105045,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.3864,
+      "prior_variance": 0.093956,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 2.6201,
+      "prior_variance": 0.096847,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.7564,
+      "prior_variance": 0.107893,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 2.0971,
+      "prior_variance": 0.091678,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.992,
+      "prior_variance": 0.095621,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.3163,
+      "prior_variance": 0.083792,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.0152,
+      "prior_variance": 0.084378,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district",
+      "prior_score": 0.6332,
+      "prior_variance": 0.096274,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.3701,
+      "prior_variance": 0.105828,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -1.2987,
+      "prior_variance": 0.097429,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.4674,
+      "prior_variance": 0.095091,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -4.3425,
+      "prior_variance": 0.122505,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -6.2463,
+      "prior_variance": 0.134565,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -8.9844,
+      "prior_variance": 0.218742,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -9.8932,
+      "prior_variance": 0.312172,
+      "prior_n": 14
+    }
+  ]
+}

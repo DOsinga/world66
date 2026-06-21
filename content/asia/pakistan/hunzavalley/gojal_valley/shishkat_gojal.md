@@ -5,7 +5,7 @@ done:
 latitude: 36.373
 loc_type: city
 longitude: 74.849
-score: 0.34
+score: 0.29
 title: Shishkat
 type: location
 image: shishkat_gojal.jpg

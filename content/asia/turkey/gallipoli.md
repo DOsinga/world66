@@ -8,7 +8,7 @@ image_license: CC BY-SA 2.0
 latitude: 40.310675
 loc_type: city
 longitude: 26.406377
-score: 0.56
+score: 0.52
 title: Gallipoli
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 5.783416
 longitude: 103.014076
 title: Redang
 type: location
-score: 0.61
+score: 0.53
 loc_type: feature
 ---
 

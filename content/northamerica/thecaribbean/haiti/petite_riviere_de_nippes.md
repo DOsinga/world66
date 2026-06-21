@@ -6,7 +6,7 @@ latitude: 18.4833
 longitude: -73.5167
 title: Petite Rivière de Nippes
 type: location
-score: 0.22
+score: 0.19
 loc_type: city
 ---
 

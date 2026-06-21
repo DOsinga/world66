@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sim%C3%B3n_08_053.JPG
 latitude: 42.284221
 loc_type: city
 longitude: -8.608599
-score: 0.49
+score: 0.4
 title: Redondela
 type: location
 ---

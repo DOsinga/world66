@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dusk_at_Holden_Beach,_NC_(
 latitude: 33.9135
 loc_type: city
 longitude: -78.3039
-score: 0.46
+score: 0.39
 title: Holden Beach
 type: location
 ---

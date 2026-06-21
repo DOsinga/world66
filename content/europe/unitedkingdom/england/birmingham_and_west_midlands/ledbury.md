@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 52.035746
 longitude: -2.428782
-score: 0.5
+score: 0.39
 title: Ledbury
 type: location
 loc_type: city

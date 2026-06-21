@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MaaKaliatTarapith.JPG
 latitude: 24.115199
 loc_type: city
 longitude: 87.796868
-score: 0.44
+score: 0.35
 title: Tarapith
 type: location
 ---

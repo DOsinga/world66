@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paseo_juan_aparicio_torrev
 latitude: 37.977542
 loc_type: city
 longitude: -0.682845
-score: 0.54
+score: 0.46
 title: Torrevieja
 type: location
 ---

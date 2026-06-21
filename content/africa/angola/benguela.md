@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banco_Nacional,_Benguela,_
 latitude: -12.579005
 loc_type: city
 longitude: 13.403712
-score: 0.31
+score: 0.28
 title: Benguela
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1189_Blick_vom_Bergpark
 latitude: 51.315783
 loc_type: city
 longitude: 9.497848
-score: 0.48
+score: 0.41
 title: Kassel
 type: location
 ---

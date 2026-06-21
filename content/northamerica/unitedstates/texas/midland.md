@@ -5,7 +5,7 @@ done:
 latitude: 31.8369
 loc_type: city
 longitude: -102.0104
-score: 0.3
+score: 0.25
 title: Midland
 type: location
 ---

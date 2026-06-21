@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lima_City_Hall.jpg
 latitude: -12.045981
 loc_type: city
 longitude: -77.030591
-score: 0.68
+score: 0.57
 title: Lima
 type: location
 ---

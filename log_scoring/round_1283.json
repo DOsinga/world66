@@ -1,200 +1,200 @@
 {
   "round": 1283,
-  "timestamp": "2026-04-12T22:19:22",
+  "timestamp": "2026-06-13T20:21:26",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Colombia",
-      "path": "southamerica/colombia",
-      "prior_rank": 4068,
-      "prior_wins": 23,
-      "prior_n": 2
-    },
-    {
-      "rank": 2,
-      "title": "Periyar",
-      "path": "asia/india/kerala/periyar",
-      "prior_rank": 735,
-      "prior_wins": 57,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 17.0462,
+      "prior_variance": 0.809478,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 7.3973,
+      "prior_variance": 0.355826,
+      "prior_n": 4
+    },
+    {
       "rank": 3,
-      "title": "Knysna",
-      "path": "africa/southafrica/gardenroute/knysna",
-      "prior_rank": 1633,
-      "prior_wins": 66,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 9.0047,
+      "prior_variance": 0.351417,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Keswick",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
-      "prior_rank": 731,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.5599,
+      "prior_variance": 0.395165,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Bowness",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
-      "prior_rank": 1704,
-      "prior_wins": 49,
-      "prior_n": 3
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 2.2015,
+      "prior_variance": 0.463189,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Shiraz",
-      "path": "asia/iran/shiraz",
-      "prior_rank": 2854,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 5.0924,
+      "prior_variance": 0.343337,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Srirangam",
-      "path": "asia/india/tamilnadu/srirangam",
-      "prior_rank": 1929,
-      "prior_wins": 63,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.2827,
+      "prior_variance": 0.360119,
       "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Ani",
-      "path": "europe/armenia/ani",
-      "prior_rank": 825,
-      "prior_wins": 56,
-      "prior_n": 3
-    },
-    {
-      "rank": 9,
-      "title": "Mytilini",
-      "path": "europe/greece/lesbos/mytilini",
-      "prior_rank": 3240,
-      "prior_wins": 26,
-      "prior_n": 2
-    },
-    {
-      "rank": 10,
-      "title": "Fatima",
-      "path": "europe/portugal/fatima",
-      "prior_rank": 3991,
-      "prior_wins": 35,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Hill of Crosses",
-      "path": "europe/lithuania/hill_of_crosses",
-      "prior_rank": 1293,
-      "prior_wins": 61,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 3.8956,
+      "prior_variance": 0.404414,
       "prior_n": 4
     },
     {
+      "rank": 9,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 3.205,
+      "prior_variance": 0.368051,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 6.3197,
+      "prior_variance": 0.349441,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 4.842,
+      "prior_variance": 0.36085,
+      "prior_n": 5
+    },
+    {
       "rank": 12,
-      "title": "Hanas Lake",
-      "path": "asia/china/xinjiangprovince/hanaslake",
-      "prior_rank": 2665,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_score": 4.5182,
+      "prior_variance": 0.322074,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Pamilacan Island",
-      "path": "asia/philippines/bohol/pamilacanisland",
-      "prior_rank": 925,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 5.8523,
+      "prior_variance": 0.339187,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Shimonoseki",
-      "path": "asia/japan/honshu/shimonoseki",
-      "prior_rank": 2582,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 4.9198,
+      "prior_variance": 0.463014,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Oita",
-      "path": "asia/japan/kyushu/oita",
-      "prior_rank": 1017,
-      "prior_wins": 54,
-      "prior_n": 3
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -1.5599,
+      "prior_variance": 0.342691,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Speyer",
-      "path": "europe/germany/badenwrttemberg/speyer",
-      "prior_rank": 1752,
-      "prior_wins": 65,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": -0.0193,
+      "prior_variance": 0.295069,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Wharfedale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
-      "prior_rank": 1324,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "St Lucia",
+      "path": "africa/southafrica/stlucia",
+      "prior_score": 1.9855,
+      "prior_variance": 0.350679,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Punat",
-      "path": "europe/croatia/krkisland/punat",
-      "prior_rank": 3473,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -2.6385,
+      "prior_variance": 0.410341,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Loano",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
-      "prior_rank": 1158,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.9127,
+      "prior_variance": 0.309117,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Kragero",
-      "path": "europe/norway/kragero",
-      "prior_rank": 1463,
-      "prior_wins": 92,
-      "prior_n": 6
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.4843,
+      "prior_variance": 0.324625,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Prince Edward County",
-      "path": "northamerica/canada/ontario/prince_edward_coun",
-      "prior_rank": 3381,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -3.1282,
+      "prior_variance": 0.323559,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Pacific Beach",
-      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
-      "prior_rank": 1878,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -3.8764,
+      "prior_variance": 0.351003,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Oceanside",
-      "path": "northamerica/unitedstates/california/sandiego/oceanside",
-      "prior_rank": 1169,
-      "prior_wins": 53,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -6.5879,
+      "prior_variance": 0.556694,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Almagro",
-      "path": "europe/spain/centralspain/almagro",
-      "prior_rank": 5064,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.7084,
+      "prior_variance": 0.382187,
+      "prior_n": 4
     }
   ]
 }

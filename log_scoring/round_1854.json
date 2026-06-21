@@ -1,200 +1,200 @@
 {
   "round": 1854,
-  "timestamp": "2026-04-13T10:57:47",
+  "timestamp": "2026-06-13T20:56:54",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Agios Nikolaos",
-      "path": "europe/greece/crete/agios_nikolaos",
-      "prior_score": 6.22,
-      "prior_variance": 0.375301,
-      "prior_n": 4
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_score": 3.6673,
+      "prior_variance": 0.265451,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Bhaktapur",
-      "path": "asia/nepal/bhaktapur",
-      "prior_score": 6.854,
-      "prior_variance": 0.464422,
-      "prior_n": 4
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 2.4158,
+      "prior_variance": 0.284693,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Chaumont-sur-Loire",
-      "path": "europe/france/centre/loirevalley/chaumont",
-      "prior_score": 3.7955,
-      "prior_variance": 0.257864,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 5.3457,
+      "prior_variance": 0.406599,
       "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Borit Lake",
-      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
-      "prior_score": -0.8373,
-      "prior_variance": 0.242253,
-      "prior_n": 5
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.4291,
+      "prior_variance": 0.218004,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Halifax",
-      "path": "northamerica/canada/novascotia/halifax",
-      "prior_score": 2.6985,
-      "prior_variance": 0.278671,
-      "prior_n": 5
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -1.284,
+      "prior_variance": 0.3368,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Kuwait City",
-      "path": "asia/kuwait/kuwaitcity",
-      "prior_score": -2.1227,
-      "prior_variance": 0.451015,
-      "prior_n": 5
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.8923,
+      "prior_variance": 0.255818,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Banja Luka",
-      "path": "europe/bosniaandherzegovina/banjaluka",
-      "prior_score": -1.3724,
-      "prior_variance": 0.314217,
-      "prior_n": 4
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -1.6722,
+      "prior_variance": 0.211663,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Peja",
-      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
-      "prior_score": -1.4133,
-      "prior_variance": 0.28545,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.5829,
+      "prior_variance": 0.272296,
       "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Epalinges",
-      "path": "europe/switzerland/epalinges",
-      "prior_score": -2.5824,
-      "prior_variance": 0.300286,
-      "prior_n": 5
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_score": -0.0418,
+      "prior_variance": 0.255908,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Aracataca",
-      "path": "southamerica/colombia/aracataca",
-      "prior_score": -3.1907,
-      "prior_variance": 0.317855,
-      "prior_n": 5
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4907,
+      "prior_variance": 0.233021,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Chiswick",
-      "path": "europe/unitedkingdom/england/chiswick",
-      "prior_score": -1.4602,
-      "prior_variance": 0.285917,
-      "prior_n": 5
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": -0.0865,
+      "prior_variance": 0.257722,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Hounslow",
-      "path": "europe/unitedkingdom/england/hounslow",
-      "prior_score": -6.6079,
-      "prior_variance": 0.410575,
-      "prior_n": 5
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -1.6779,
+      "prior_variance": 0.275154,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Deogad",
-      "path": "asia/india/maharashtra/konkan/deogad",
-      "prior_score": -3.7092,
-      "prior_variance": 0.304492,
-      "prior_n": 5
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.5947,
+      "prior_variance": 0.249336,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Pointe-Claire",
-      "path": "northamerica/canada/quebec/pointeclaire",
-      "prior_score": -3.9509,
-      "prior_variance": 0.305314,
-      "prior_n": 4
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.6407,
+      "prior_variance": 0.256476,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Harrisburg",
-      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
-      "prior_score": -3.6503,
-      "prior_variance": 0.392223,
-      "prior_n": 4
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_score": -3.2777,
+      "prior_variance": 0.222919,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Chico",
-      "path": "northamerica/unitedstates/california/chico",
-      "prior_score": -2.5363,
-      "prior_variance": 0.268959,
-      "prior_n": 5
+      "title": "Pinellas Trail",
+      "path": "northamerica/unitedstates/florida/tampabayarea/pinellastrail",
+      "prior_score": -2.7612,
+      "prior_variance": 0.22296,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Dubuque",
-      "path": "northamerica/unitedstates/iowa/dubuque",
-      "prior_score": -4.0396,
-      "prior_variance": 0.313325,
-      "prior_n": 4
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.9404,
+      "prior_variance": 0.217076,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Lubango",
-      "path": "africa/angola/lubango",
-      "prior_score": -4.8134,
-      "prior_variance": 0.331708,
-      "prior_n": 4
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -3.3019,
+      "prior_variance": 0.205732,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Pedro Bernardo",
-      "path": "europe/spain/centralspain/pedro_bernardo",
-      "prior_score": -3.959,
-      "prior_variance": 0.412786,
-      "prior_n": 5
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -3.6545,
+      "prior_variance": 0.251504,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Kabankalan City",
-      "path": "asia/philippines/negrosisland/kabankalan_city",
-      "prior_score": -3.3914,
-      "prior_variance": 0.300107,
-      "prior_n": 4
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -3.9139,
+      "prior_variance": 0.237334,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Queensbury",
-      "path": "northamerica/unitedstates/newyorkstate/queensbury",
-      "prior_score": -3.2024,
-      "prior_variance": 0.322865,
-      "prior_n": 4
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -2.869,
+      "prior_variance": 0.211199,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Stourbridge",
-      "path": "europe/unitedkingdom/england/stourbridge",
-      "prior_score": -4.3995,
-      "prior_variance": 0.287387,
-      "prior_n": 5
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -6.208,
+      "prior_variance": 0.381096,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "An Nasiriyah",
-      "path": "asia/iraq/annasiriyah",
-      "prior_score": -6.7446,
-      "prior_variance": 0.390905,
-      "prior_n": 4
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.603,
+      "prior_variance": 0.346086,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Gaza Strip",
-      "path": "asia/palestinianauthority/gazastrip",
-      "prior_score": -11.8014,
-      "prior_variance": 1.232897,
-      "prior_n": 4
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -6.2396,
+      "prior_variance": 0.542086,
+      "prior_n": 5
     }
   ]
 }

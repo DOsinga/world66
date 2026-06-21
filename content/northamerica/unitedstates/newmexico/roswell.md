@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/8623220@N02/52552236932
 latitude: 33.3943
 loc_type: city
 longitude: -104.523
-score: 0.49
+score: 0.45
 title: Roswell
 type: location
 ---

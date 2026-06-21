@@ -1,0 +1,200 @@
+{
+  "round": 2996,
+  "timestamp": "2026-06-13T22:21:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 9.9181,
+      "prior_variance": 0.299102,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": 0.125,
+      "prior_variance": 0.144468,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Hohhot",
+      "path": "asia/china/innermongolia/hohhot",
+      "prior_score": -1.3272,
+      "prior_variance": 0.15067,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": -0.3014,
+      "prior_variance": 0.120962,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.2548,
+      "prior_variance": 0.128444,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": -1.1106,
+      "prior_variance": 0.137324,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -1.7805,
+      "prior_variance": 0.171563,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.3169,
+      "prior_variance": 0.14923,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -1.6449,
+      "prior_variance": 0.16504,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.9579,
+      "prior_variance": 0.143647,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.5732,
+      "prior_variance": 0.147071,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.8244,
+      "prior_variance": 0.137926,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 2.1059,
+      "prior_variance": 0.134047,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.1262,
+      "prior_variance": 0.136061,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.5164,
+      "prior_variance": 0.134484,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -2.2313,
+      "prior_variance": 0.144652,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract",
+      "prior_score": -3.0655,
+      "prior_variance": 0.12585,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -3.1744,
+      "prior_variance": 0.156571,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.2138,
+      "prior_variance": 0.152866,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_score": -3.7259,
+      "prior_variance": 0.159932,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -6.0636,
+      "prior_variance": 0.18502,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -5.2903,
+      "prior_variance": 0.141494,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -6.0225,
+      "prior_variance": 0.164821,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -4.8274,
+      "prior_variance": 0.157187,
+      "prior_n": 9
+    }
+  ]
+}

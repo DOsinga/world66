@@ -5,7 +5,7 @@ latitude: 40.85
 longitude: 71.7
 title: Ferghana Valley
 type: location
-score: 0.49
+score: 0.4
 loc_type: feature
 ---
 

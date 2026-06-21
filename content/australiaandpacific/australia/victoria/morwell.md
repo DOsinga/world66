@@ -5,7 +5,7 @@ done:
 latitude: -38.2363
 loc_type: city
 longitude: 146.3978
-score: 0.3
+score: 0.24
 title: Morwell
 type: location
 ---

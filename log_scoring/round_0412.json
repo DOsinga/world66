@@ -1,127 +1,199 @@
 {
   "round": 412,
-  "timestamp": "2026-04-12T09:29:46",
+  "timestamp": "2026-06-13T19:34:05",
   "model": "claude-sonnet-4-6",
-  "batch_size": 15,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ulaanbaatar",
-      "path": "asia/mongolia/ulaanbaatar",
-      "prior_mu": 22.7125,
-      "prior_sigma": 4.849,
-      "prior_n": 2
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 1.2077,
+      "prior_variance": 1.713369,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Lake khovsgol",
-      "path": "asia/mongolia/lakekhovsgol",
-      "prior_mu": 21.7675,
-      "prior_sigma": 4.812,
-      "prior_n": 2
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.0354,
+      "prior_variance": 2.94238,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Terelj",
-      "path": "asia/mongolia/terelj",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": -0.1366,
+      "prior_variance": 1.391278,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Gobi Desert",
-      "path": "asia/mongolia/gobidesert",
-      "prior_mu": 22.2074,
-      "prior_sigma": 5.766,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": -5.0481,
+      "prior_variance": 1.626496,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Karakorum",
-      "path": "asia/mongolia/karakorum",
-      "prior_mu": 22.9044,
-      "prior_sigma": 5.7259,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 0.7778,
+      "prior_variance": 1.553375,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Mongolia",
-      "path": "asia/mongolia",
-      "prior_mu": 22.9443,
-      "prior_sigma": 2.7008,
-      "prior_n": 6
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -3.4115,
+      "prior_variance": 1.848396,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Khatgal",
-      "path": "asia/mongolia/khovsgol/khatgal",
-      "prior_mu": 22.4821,
-      "prior_sigma": 5.908,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.1394,
+      "prior_variance": 1.771966,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Gun-Galuut",
-      "path": "asia/mongolia/gungaluut",
-      "prior_mu": 22.7339,
-      "prior_sigma": 5.9512,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.0898,
+      "prior_variance": 1.458272,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Manzshir hiid",
-      "path": "asia/mongolia/manzshirhiid",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -3.1575,
+      "prior_variance": 1.632481,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Arkhangai",
-      "path": "asia/mongolia/arkhangai",
-      "prior_mu": 22.821,
-      "prior_sigma": 5.6537,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -4.9441,
+      "prior_variance": 3.106279,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Khentii",
-      "path": "asia/mongolia/khentii",
-      "prior_mu": 22.0368,
-      "prior_sigma": 5.6921,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -2.8041,
+      "prior_variance": 1.575067,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Khujhirt",
-      "path": "asia/mongolia/khujhirt",
-      "prior_mu": 22.7181,
-      "prior_sigma": 5.4183,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_score": -4.1224,
+      "prior_variance": 2.319835,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Khovd",
-      "path": "asia/mongolia/khovd",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -4.2659,
+      "prior_variance": 1.528717,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Moron",
-      "path": "asia/mongolia/moron",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -4.5747,
+      "prior_variance": 2.009473,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Darkhan",
-      "path": "asia/mongolia/darkhan",
-      "prior_mu": 22.2431,
-      "prior_sigma": 5.7798,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -5.0006,
+      "prior_variance": 1.390647,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -5.9071,
+      "prior_variance": 1.541331,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -2.694,
+      "prior_variance": 2.017546,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -3.8496,
+      "prior_variance": 1.774086,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -2.8526,
+      "prior_variance": 1.523399,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -8.9007,
+      "prior_variance": 2.090816,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -8.0982,
+      "prior_variance": 6.931047,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -5.8494,
+      "prior_variance": 2.344338,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -4.8049,
+      "prior_variance": 1.940458,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -5.0032,
+      "prior_variance": 1.655832,
       "prior_n": 1
     }
   ]

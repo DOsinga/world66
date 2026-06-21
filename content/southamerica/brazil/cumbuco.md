@@ -5,7 +5,7 @@ done:
 latitude: -3.6259
 loc_type: city
 longitude: -38.7256
-score: 0.51
+score: 0.43
 title: Cumbuco
 type: location
 ---

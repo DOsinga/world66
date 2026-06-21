@@ -1,183 +1,199 @@
 {
   "round": 475,
-  "timestamp": "2026-04-12T09:32:13",
+  "timestamp": "2026-06-13T19:37:02",
   "model": "claude-sonnet-4-6",
-  "batch_size": 22,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Granada",
-      "path": "northamerica/nicaragua/granada",
-      "prior_mu": 22.1487,
-      "prior_sigma": 5.7606,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -10.049,
+      "prior_variance": 3.621243,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Le\u00f3n",
-      "path": "northamerica/nicaragua/len",
-      "prior_mu": 22.1043,
-      "prior_sigma": 4.7039,
-      "prior_n": 2
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -6.0248,
+      "prior_variance": 2.276245,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "San Juan del Sur",
-      "path": "northamerica/nicaragua/sanjuandelsur",
-      "prior_mu": 22.3008,
-      "prior_sigma": 5.772,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -17.3358,
+      "prior_variance": 6.329616,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Isla Ometepe",
-      "path": "northamerica/nicaragua/isla_ometepe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -15.6438,
+      "prior_variance": 6.613375,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Laguna de Apoyo",
-      "path": "northamerica/nicaragua/laguna_de_apoyo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -12.2599,
+      "prior_variance": 7.868974,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Corn Islands",
-      "path": "northamerica/nicaragua/cornislands",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -12.1063,
+      "prior_variance": 8.17042,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Lake Nicaragua",
-      "path": "northamerica/nicaragua/lakenicaragua",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -10.6338,
+      "prior_variance": 3.347621,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Solentiname Islands",
-      "path": "northamerica/nicaragua/solentiname_island",
-      "prior_mu": 22.4907,
-      "prior_sigma": 5.9067,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -10.5628,
+      "prior_variance": 2.144011,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "El castillo",
-      "path": "northamerica/nicaragua/elcastillo",
-      "prior_mu": 22.6047,
-      "prior_sigma": 5.9341,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -11.6358,
+      "prior_variance": 2.316433,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Masaya",
-      "path": "northamerica/nicaragua/masaya",
-      "prior_mu": 22.6114,
-      "prior_sigma": 5.6703,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -10.9705,
+      "prior_variance": 8.842227,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Ruins of Le\u00f3n Viejo",
-      "path": "northamerica/nicaragua/ruins_of_len_vie",
-      "prior_mu": 22.7209,
-      "prior_sigma": 5.9497,
+      "title": "Gjilan",
+      "path": "europe/serbia/kosovoprovince/gjilan",
+      "prior_score": -12.2466,
+      "prior_variance": 7.958797,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Matagalpa",
-      "path": "northamerica/nicaragua/matagalpa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -8.2243,
+      "prior_variance": 1.727846,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Jinotega",
-      "path": "northamerica/nicaragua/jinotega",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -10.283,
+      "prior_variance": 9.26322,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Popoyo Beach",
-      "path": "northamerica/nicaragua/popoyo_beach",
-      "prior_mu": 22.8232,
-      "prior_sigma": 5.6006,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -15.3238,
+      "prior_variance": 3.055362,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Bluefields",
-      "path": "northamerica/nicaragua/bluefields",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -12.8131,
+      "prior_variance": 7.71538,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Managua",
-      "path": "northamerica/nicaragua/managua",
-      "prior_mu": 22.7089,
-      "prior_sigma": 5.9482,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -11.8098,
+      "prior_variance": 8.086173,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Nicaragua",
-      "path": "northamerica/nicaragua",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -16.228,
+      "prior_variance": 6.845366,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Masachapa",
-      "path": "northamerica/nicaragua/masachapa",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -16.7236,
+      "prior_variance": 6.409668,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Boaco",
-      "path": "northamerica/nicaragua/boaco",
-      "prior_mu": 21.9458,
-      "prior_sigma": 5.6698,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -13.5883,
+      "prior_variance": 7.424586,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "La Paz Centro",
-      "path": "northamerica/nicaragua/la_paz_centro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -15.1446,
+      "prior_variance": 3.011995,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "ocotal,nueva segovia",
-      "path": "northamerica/nicaragua/ocotalnueva_segov",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -11.4864,
+      "prior_variance": 8.914838,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Penas Blancas",
-      "path": "northamerica/nicaragua/penas_blancas",
-      "prior_mu": 22.4858,
-      "prior_sigma": 5.5713,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -14.7862,
+      "prior_variance": 7.162661,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -11.7716,
+      "prior_variance": 3.269291,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -19.0889,
+      "prior_variance": 6.074891,
       "prior_n": 1
     }
   ]

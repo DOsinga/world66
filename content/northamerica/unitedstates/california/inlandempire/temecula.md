@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:35853-The-Cove-1140x642.jp
 latitude: 33.4947
 loc_type: city
 longitude: -117.1473
-score: 0.44
+score: 0.39
 title: Temecula
 type: location
 ---

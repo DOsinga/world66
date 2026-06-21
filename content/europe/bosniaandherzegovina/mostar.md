@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stari_Most_viewed_from_Nor
 latitude: 43.3438
 loc_type: city
 longitude: 17.8078
-score: 0.66
+score: 0.61
 title: Mostar
 type: location
 ---

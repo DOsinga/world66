@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lewes_Beach_in_Delaware.jp
 latitude: 38.773396
 loc_type: city
 longitude: -75.137957
-score: 0.45
+score: 0.37
 title: Lewes
 type: location
 ---

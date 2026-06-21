@@ -6,7 +6,7 @@ latitude: 30.537787
 longitude: 79.565724
 title: Auli
 type: location
-score: 0.53
+score: 0.46
 loc_type: city
 ---
 

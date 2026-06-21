@@ -1,0 +1,200 @@
+{
+  "round": 3410,
+  "timestamp": "2026-06-13T22:51:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 5.2567,
+      "prior_variance": 0.172985,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 3.9517,
+      "prior_variance": 0.140377,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.5891,
+      "prior_variance": 0.121549,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.4108,
+      "prior_variance": 0.117336,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": 0.2462,
+      "prior_variance": 0.135667,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 1.8267,
+      "prior_variance": 0.126728,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 1.2092,
+      "prior_variance": 0.148526,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.6007,
+      "prior_variance": 0.127295,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -0.0038,
+      "prior_variance": 0.129159,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.9047,
+      "prior_variance": 0.122313,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4783,
+      "prior_variance": 0.117545,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -0.6436,
+      "prior_variance": 0.118376,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.7887,
+      "prior_variance": 0.11634,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -1.4992,
+      "prior_variance": 0.139521,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": -0.487,
+      "prior_variance": 0.127839,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -1.8694,
+      "prior_variance": 0.122815,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.5308,
+      "prior_variance": 0.120717,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.858,
+      "prior_variance": 0.110308,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.4977,
+      "prior_variance": 0.112605,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.4604,
+      "prior_variance": 0.125582,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Tonghua",
+      "path": "asia/china/jilin/tonghua",
+      "prior_score": -3.7229,
+      "prior_variance": 0.148085,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/rochdale",
+      "prior_score": -4.7197,
+      "prior_variance": 0.148604,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -6.0231,
+      "prior_variance": 0.147109,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -6.1261,
+      "prior_variance": 0.188025,
+      "prior_n": 10
+    }
+  ]
+}

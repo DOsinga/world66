@@ -9,7 +9,7 @@ image: galvestonisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gfp-texas-galveston-island-state-park-inlet-shore.jpg
 image_license: Public Domain
 image_attribution: Yinan Chen
-score: 0.48
+score: 0.4
 loc_type: feature
 ---
 

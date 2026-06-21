@@ -6,10 +6,10 @@ latitude: 44.292536
 longitude: 8.412652
 title: Quiliano
 type: location
-score: 0.39
+score: 0.36
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Quiliano
+- https://en.wikipedia.org/wiki/Quiliano
 ---
 
 Quiliano is a small hill commune in the Ligurian hinterland, tucked into the valley of the Quiliano stream a few kilometres west of Savona. It's not a destination in its own right, but if you're exploring the coast between Savona and Vado Ligure, the valley is worth a detour: ancient Roman road traces, Romanesque churches, and wooded hills that feel a world away from the coastal resort towns below.

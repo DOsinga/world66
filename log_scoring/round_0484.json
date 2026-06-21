@@ -1,103 +1,199 @@
 {
   "round": 484,
-  "timestamp": "2026-04-12T09:32:34",
+  "timestamp": "2026-06-13T19:37:25",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kribi",
-      "path": "africa/cameroon/kribi",
-      "prior_mu": 21.4994,
-      "prior_sigma": 4.6892,
-      "prior_n": 2
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 0.7495,
+      "prior_variance": 1.547111,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Limbe",
-      "path": "africa/cameroon/limbe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": -2.6744,
+      "prior_variance": 1.912711,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Yaound\u00e9",
-      "path": "africa/cameroon/yaound",
-      "prior_mu": 20.1508,
-      "prior_sigma": 2.7678,
-      "prior_n": 5
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -2.559,
+      "prior_variance": 1.321601,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Douala",
-      "path": "africa/cameroon/douala",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 0.2111,
+      "prior_variance": 1.250099,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Foumban",
-      "path": "africa/cameroon/foumban",
-      "prior_mu": 21.4134,
-      "prior_sigma": 4.0017,
-      "prior_n": 3
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": -0.6961,
+      "prior_variance": 1.458624,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Benoue Park",
-      "path": "africa/cameroon/benouepark",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -0.5598,
+      "prior_variance": 1.772124,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Ngaound\u00e9r\u00e9",
-      "path": "africa/cameroon/ngaoundere",
-      "prior_mu": 21.9688,
-      "prior_sigma": 5.7445,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.3765,
+      "prior_variance": 1.326818,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Bamenda",
-      "path": "africa/cameroon/bamenda",
-      "prior_mu": 22.9513,
-      "prior_sigma": 5.6065,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": -1.3428,
+      "prior_variance": 1.587034,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Dschang",
-      "path": "africa/cameroon/dschang",
-      "prior_mu": 20.1364,
-      "prior_sigma": 2.2148,
-      "prior_n": 8
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -2.8302,
+      "prior_variance": 1.412414,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Bafoussam",
-      "path": "africa/cameroon/bafoussam",
-      "prior_mu": 22.4034,
-      "prior_sigma": 5.8897,
+      "title": "Paderborn",
+      "path": "europe/germany/northrhinewestphalia/paderborn",
+      "prior_score": -2.4452,
+      "prior_variance": 1.52671,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Lebialem",
-      "path": "africa/cameroon/lebialem",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -2.2569,
+      "prior_variance": 1.684554,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Cameroon",
-      "path": "africa/cameroon",
-      "prior_mu": 22.5058,
-      "prior_sigma": 5.9109,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -3.048,
+      "prior_variance": 1.343938,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": -1.9823,
+      "prior_variance": 1.847896,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.0285,
+      "prior_variance": 2.102938,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pinellas Trail",
+      "path": "northamerica/unitedstates/florida/tampabayarea/pinellastrail",
+      "prior_score": -3.9253,
+      "prior_variance": 1.460555,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -3.6423,
+      "prior_variance": 2.295507,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -1.6651,
+      "prior_variance": 1.581862,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -2.7286,
+      "prior_variance": 1.672119,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -1.4348,
+      "prior_variance": 1.770592,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -3.47,
+      "prior_variance": 1.827133,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -4.1134,
+      "prior_variance": 1.731989,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.3282,
+      "prior_variance": 1.641076,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -4.6334,
+      "prior_variance": 1.572404,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -4.7939,
+      "prior_variance": 1.443214,
       "prior_n": 1
     }
   ]

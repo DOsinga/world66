@@ -1,199 +1,199 @@
 {
   "round": 408,
-  "timestamp": "2026-04-12T09:29:37",
+  "timestamp": "2026-06-13T19:33:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hawaii",
-      "path": "northamerica/unitedstates/hawaii",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -4.3765,
+      "prior_variance": 1.760907,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Central Coast",
-      "path": "northamerica/unitedstates/california/centralcoast",
-      "prior_mu": 22.7538,
-      "prior_sigma": 5.9536,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -6.9585,
+      "prior_variance": 2.227175,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Healdsburg",
-      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
-      "prior_mu": 22.3511,
-      "prior_sigma": 3.1837,
-      "prior_n": 4
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -5.7443,
+      "prior_variance": 2.979881,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Atlanta",
-      "path": "northamerica/unitedstates/georgia/atlanta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -6.5512,
+      "prior_variance": 2.1038,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "New Haven",
-      "path": "northamerica/unitedstates/connecticut/newhaven",
-      "prior_mu": 22.1365,
-      "prior_sigma": 5.7587,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden",
+      "prior_score": -11.263,
+      "prior_variance": 2.763375,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Baltimore",
-      "path": "northamerica/unitedstates/maryland/baltimore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -12.3677,
+      "prior_variance": 8.108891,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Gold Country",
-      "path": "northamerica/unitedstates/california/goldcountry",
-      "prior_mu": 21.0546,
-      "prior_sigma": 2.8991,
-      "prior_n": 5
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_score": -6.1498,
+      "prior_variance": 1.794642,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Natchez",
-      "path": "northamerica/unitedstates/mississippi/natchez",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -7.6597,
+      "prior_variance": 2.23418,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Apostle Islands",
-      "path": "northamerica/unitedstates/michigan/apostleislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -12.6369,
+      "prior_variance": 3.221192,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Banner Elk",
-      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -8.6379,
+      "prior_variance": 2.137963,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Buffalo River",
-      "path": "northamerica/unitedstates/arkansas/buffaloriver",
-      "prior_mu": 22.3391,
-      "prior_sigma": 5.8793,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -12.8595,
+      "prior_variance": 3.081907,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Clarkdale",
-      "path": "northamerica/unitedstates/arizona/clarkdale",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -10.8586,
+      "prior_variance": 1.866432,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Lake Martin",
-      "path": "northamerica/unitedstates/alabama/lake_martin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -9.0666,
+      "prior_variance": 1.504711,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "State College",
-      "path": "northamerica/unitedstates/pennsylvania/state_college",
-      "prior_mu": 22.3811,
-      "prior_sigma": 5.8883,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_score": -15.269,
+      "prior_variance": 6.755363,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Conway",
-      "path": "northamerica/unitedstates/arkansas/conway",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -10.3092,
+      "prior_variance": 2.312051,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Pleasant Grove",
-      "path": "northamerica/unitedstates/utah/pleasantgrove",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -9.6006,
+      "prior_variance": 2.382253,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Shawnee",
-      "path": "northamerica/unitedstates/oklahoma/shawnee",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -15.3015,
+      "prior_variance": 6.995666,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Holyoke",
-      "path": "northamerica/unitedstates/massachusetts/holyoke",
-      "prior_mu": 21.6589,
-      "prior_sigma": 4.7345,
-      "prior_n": 2
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -14.2234,
+      "prior_variance": 2.938278,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Wayne",
-      "path": "northamerica/unitedstates/newjersey/wayne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -8.9868,
+      "prior_variance": 1.952451,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Boley",
-      "path": "northamerica/unitedstates/oklahoma/boley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -12.0571,
+      "prior_variance": 8.298121,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Moore",
-      "path": "northamerica/unitedstates/oklahoma/moore",
-      "prior_mu": 21.7741,
-      "prior_sigma": 4.6682,
-      "prior_n": 2
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -11.6143,
+      "prior_variance": 8.56454,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Youngstown",
-      "path": "northamerica/unitedstates/ohio/youngstown",
-      "prior_mu": 22.1515,
-      "prior_sigma": 5.7611,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -14.1346,
+      "prior_variance": 2.891094,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Elko",
-      "path": "northamerica/unitedstates/nevada/elko",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -12.3799,
+      "prior_variance": 3.160541,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Winnemucca",
-      "path": "northamerica/unitedstates/nevada/winnemucca",
-      "prior_mu": 22.7176,
-      "prior_sigma": 5.9493,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -15.1587,
+      "prior_variance": 6.797922,
       "prior_n": 1
     }
   ]

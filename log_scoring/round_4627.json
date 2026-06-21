@@ -1,0 +1,200 @@
+{
+  "round": 4627,
+  "timestamp": "2026-06-14T00:28:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Raja Ampat",
+      "path": "asia/indonesia/rajaampat",
+      "prior_score": 10.212,
+      "prior_variance": 0.234985,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 12.1432,
+      "prior_variance": 0.340965,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 7.1505,
+      "prior_variance": 0.120413,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 4.3632,
+      "prior_variance": 0.100048,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.0626,
+      "prior_variance": 0.108935,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -0.8572,
+      "prior_variance": 0.107761,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -0.0617,
+      "prior_variance": 0.091254,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -3.6084,
+      "prior_variance": 0.128249,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 0.9711,
+      "prior_variance": 0.090481,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -0.874,
+      "prior_variance": 0.090093,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.3781,
+      "prior_variance": 0.085701,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.3094,
+      "prior_variance": 0.094256,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.4243,
+      "prior_variance": 0.09355,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -1.0506,
+      "prior_variance": 0.0912,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.0485,
+      "prior_variance": 0.089698,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.4969,
+      "prior_variance": 0.088889,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": -1.5674,
+      "prior_variance": 0.094386,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.7389,
+      "prior_variance": 0.122714,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -3.6802,
+      "prior_variance": 0.124928,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.1439,
+      "prior_variance": 0.103436,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -5.8607,
+      "prior_variance": 0.116232,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -4.5015,
+      "prior_variance": 0.130662,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -6.6648,
+      "prior_variance": 0.141859,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -5.5061,
+      "prior_variance": 0.117696,
+      "prior_n": 15
+    }
+  ]
+}

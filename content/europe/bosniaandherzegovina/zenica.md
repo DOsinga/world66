@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/33252741@N08/54443304571
 latitude: 44.201693
 loc_type: city
 longitude: 17.907773
-score: 0.38
+score: 0.31
 title: Zenica
 type: location
 ---

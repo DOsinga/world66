@@ -6,7 +6,7 @@ done:
 latitude: 36.7664
 loc_type: city
 longitude: 31.3892
-score: 0.61
+score: 0.55
 title: Side
 type: location
 ---

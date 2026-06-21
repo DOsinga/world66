@@ -5,7 +5,7 @@ done:
 latitude: 1.618
 loc_type: city
 longitude: 18.0597
-score: 0.22
+score: 0.18
 title: Impfondo
 type: location
 ---

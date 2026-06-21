@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eisenach_von_G%C3%B6pelsku
 latitude: 50.974713
 loc_type: city
 longitude: 10.319356
-score: 0.54
+score: 0.48
 title: Eisenach
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 37.974779
 loc_type: city
 longitude: -122.531669
-score: 0.38
+score: 0.34
 title: San Rafael
 type: location
 ---

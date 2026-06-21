@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146878425@N05/49490219521
 latitude: 18.4316
 loc_type: city
 longitude: -64.6231
-score: 0.63
+score: 0.58
 title: Tortola
 type: location
 ---

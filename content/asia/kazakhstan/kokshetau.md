@@ -5,7 +5,7 @@ done:
 latitude: 53.2852
 loc_type: city
 longitude: 69.3815
-score: 0.34
+score: 0.27
 title: Kokshetau
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 50.284914
 loc_type: city
 longitude: -107.79845
-score: 0.34
+score: 0.29
 title: Swift Current
 type: location
 ---

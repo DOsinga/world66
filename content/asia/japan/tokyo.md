@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.
 latitude: 35.67686
 loc_type: city
 longitude: 139.763895
-score: 0.96
+score: 0.98
 title: Tokyo
 type: location
 ---

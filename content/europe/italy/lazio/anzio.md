@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2019-06_Anzio_(7).jpg
 latitude: 41.4471
 loc_type: city
 longitude: 12.6286
-score: 0.5
+score: 0.44
 title: Anzio
 type: location
 ---

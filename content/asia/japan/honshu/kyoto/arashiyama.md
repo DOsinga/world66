@@ -9,6 +9,10 @@ tags:
 - sight
 title: Arashiyama
 type: neighbourhood
+image: arashiyama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Basile Morin
 ---
 
 Arashiyama lies on the western edge of Kyoto where the Hozu River emerges from a steep wooded gorge to become the Katsura River. The district is essentially a single small town clustered around the Togetsukyō Bridge, with the famous Sagano bamboo grove climbing the hillside, the major Zen temple Tenryū-ji a short walk inland, and a string of smaller temples (Jōjakkō-ji, Gioji, Adashino Nenbutsu-ji, Otagi Nenbutsu-ji) scattered up the slopes to the north.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Postcard_of_Santa_Barbara,
 latitude: 34.4221
 loc_type: city
 longitude: -119.7027
-score: 0.69
+score: 0.62
 title: Santa Barbara
 type: location
 ---

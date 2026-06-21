@@ -1,200 +1,200 @@
 {
   "round": 1039,
-  "timestamp": "2026-04-12T22:06:01",
+  "timestamp": "2026-06-13T20:07:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "San Pedro la Laguna",
-      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
-      "prior_rank": 2456,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 8.0958,
+      "prior_variance": 0.464485,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Epirus",
-      "path": "europe/greece/epirus",
-      "prior_rank": 5036,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 5.3931,
+      "prior_variance": 0.501566,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Chiavenna",
-      "path": "europe/italy/lombardia/chiavenna",
-      "prior_rank": 4366,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 8.1252,
+      "prior_variance": 0.737132,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Marche",
-      "path": "europe/italy/marche",
-      "prior_rank": 4659,
-      "prior_wins": 10,
-      "prior_n": 1
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 6.0264,
+      "prior_variance": 0.488568,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Borgio Verezzi",
-      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
-      "prior_rank": 3416,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 5.2698,
+      "prior_variance": 0.402547,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "The New Forest",
-      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
-      "prior_rank": 3352,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 7.3629,
+      "prior_variance": 0.478576,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Harbin",
-      "path": "asia/china/harbin",
-      "prior_rank": 2370,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 5.5913,
+      "prior_variance": 0.408502,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "New Territories",
-      "path": "asia/china/hongkong/newterritories",
-      "prior_rank": 2997,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 7.4331,
+      "prior_variance": 0.54575,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Kangra",
-      "path": "asia/india/himachalpradesh/kangra",
-      "prior_rank": 2013,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 2.771,
+      "prior_variance": 0.61496,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Cherrapunji",
-      "path": "asia/india/meghalaya/cherrapunji",
-      "prior_rank": 1263,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 5.6546,
+      "prior_variance": 0.495955,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Pentecost",
-      "path": "australiaandpacific/vanuatu/pentecost",
-      "prior_rank": 2671,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 5.8156,
+      "prior_variance": 0.586497,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Vieux Fort",
-      "path": "northamerica/saintlucia/vieuxfort",
-      "prior_rank": 4842,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 4.6191,
+      "prior_variance": 0.476464,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Tzfat",
-      "path": "asia/israel/tzfat",
-      "prior_rank": 2994,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 5.1245,
+      "prior_variance": 0.516566,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Israel",
-      "path": "asia/israel",
-      "prior_rank": 1966,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 5.1815,
+      "prior_variance": 0.452835,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Murcia",
-      "path": "europe/spain/spanishcostas/murcia",
-      "prior_rank": 3851,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 6.1882,
+      "prior_variance": 0.464485,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Trikala",
-      "path": "europe/greece/trikala",
-      "prior_rank": 5523,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 4.1786,
+      "prior_variance": 0.68724,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Huelgoat",
-      "path": "europe/france/normandybrittany/huelgoat",
-      "prior_rank": 3211,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 2.9066,
+      "prior_variance": 0.42787,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Plymouth",
-      "path": "northamerica/unitedstates/massachusetts/plymouth",
-      "prior_rank": 3884,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 4.9716,
+      "prior_variance": 0.416731,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Tehran",
-      "path": "asia/iran/tehran",
-      "prior_rank": 2825,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 4.8731,
+      "prior_variance": 0.481205,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Ia\u0219i",
-      "path": "europe/romania/iasi",
-      "prior_rank": 3005,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 3.1766,
+      "prior_variance": 0.521493,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Duluth",
-      "path": "northamerica/unitedstates/minnesota/duluth",
-      "prior_rank": 5057,
-      "prior_wins": 9,
-      "prior_n": 1
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 4.0163,
+      "prior_variance": 0.511696,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Ghadames",
-      "path": "africa/libya/ghadhames",
-      "prior_rank": 2936,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 2.8515,
+      "prior_variance": 0.47426,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Dewey Beach",
-      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
-      "prior_rank": 3366,
-      "prior_wins": 13,
-      "prior_n": 1
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 6.8041,
+      "prior_variance": 0.590869,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Banner Elk",
-      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
-      "prior_rank": 3044,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 4.9679,
+      "prior_variance": 0.674476,
+      "prior_n": 3
     }
   ]
 }

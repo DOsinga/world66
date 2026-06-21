@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baie_d%27Authie_au_sud_de_
 latitude: 50.424873
 loc_type: city
 longitude: 1.595289
-score: 0.45
+score: 0.39
 title: Berck sur Mer
 type: location
 ---

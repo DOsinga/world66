@@ -1,0 +1,200 @@
+{
+  "round": 3778,
+  "timestamp": "2026-06-13T23:19:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 0.868,
+      "prior_variance": 0.120251,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.9311,
+      "prior_variance": 0.121103,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.0702,
+      "prior_variance": 0.119169,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.8401,
+      "prior_variance": 0.152745,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": -1.6387,
+      "prior_variance": 0.153602,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.3446,
+      "prior_variance": 0.107432,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.4497,
+      "prior_variance": 0.097541,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.8739,
+      "prior_variance": 0.144988,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.0572,
+      "prior_variance": 0.117858,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.7017,
+      "prior_variance": 0.107174,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -1.0718,
+      "prior_variance": 0.107076,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.293,
+      "prior_variance": 0.117559,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_score": -2.0297,
+      "prior_variance": 0.108399,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.5979,
+      "prior_variance": 0.113957,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.246,
+      "prior_variance": 0.108936,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -1.8525,
+      "prior_variance": 0.110502,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -1.5649,
+      "prior_variance": 0.103472,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.2647,
+      "prior_variance": 0.108578,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.7653,
+      "prior_variance": 0.107171,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.8225,
+      "prior_variance": 0.110713,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -2.6425,
+      "prior_variance": 0.122872,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -5.3887,
+      "prior_variance": 0.134003,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -2.7917,
+      "prior_variance": 0.148673,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -3.6989,
+      "prior_variance": 0.125238,
+      "prior_n": 12
+    }
+  ]
+}

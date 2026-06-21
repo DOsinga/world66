@@ -1,0 +1,200 @@
+{
+  "round": 4188,
+  "timestamp": "2026-06-13T23:52:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 7.1084,
+      "prior_variance": 0.17039,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.6221,
+      "prior_variance": 0.215474,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.2115,
+      "prior_variance": 0.159421,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua",
+      "prior_score": 6.6178,
+      "prior_variance": 0.144979,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.7358,
+      "prior_variance": 0.118035,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 6.6062,
+      "prior_variance": 0.148501,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 4.5291,
+      "prior_variance": 0.133375,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.4878,
+      "prior_variance": 0.103408,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 2.1771,
+      "prior_variance": 0.096447,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 4.4083,
+      "prior_variance": 0.111321,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 3.7228,
+      "prior_variance": 0.105192,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 5.491,
+      "prior_variance": 0.115174,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.0191,
+      "prior_variance": 0.114166,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Tsomgo Lake",
+      "path": "asia/india/sikkim/chaggutsomgolake",
+      "prior_score": 2.1118,
+      "prior_variance": 0.102254,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ngari",
+      "path": "asia/china/tibet/ngari",
+      "prior_score": -1.4393,
+      "prior_variance": 0.138697,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -2.3622,
+      "prior_variance": 0.109823,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.1559,
+      "prior_variance": 0.105174,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -2.8627,
+      "prior_variance": 0.121576,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_score": -3.4454,
+      "prior_variance": 0.102793,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -4.91,
+      "prior_variance": 0.123334,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -6.4562,
+      "prior_variance": 0.148044,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -4.8756,
+      "prior_variance": 0.117848,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -3.8436,
+      "prior_variance": 0.099115,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -6.675,
+      "prior_variance": 0.148825,
+      "prior_n": 13
+    }
+  ]
+}

@@ -6,11 +6,11 @@ longitude: 124.8435
 done:
   location_cleanup: 2026-04-05
   location_enrich: 2026-06-02
-score: 0.37
+score: 0.28
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Koronadal
-  - https://en.wikipedia.org/wiki/Soccsksargen
+- https://en.wikipedia.org/wiki/Koronadal
+- https://en.wikipedia.org/wiki/Soccsksargen
 ---
 
 Koronadal City — known to nearly everyone as Marbel — is the capital of South Cotabato province in the Soccsksargen region of Mindanao, southern Philippines. It sits at the foothills of the Roxas and Quezon mountain ranges, roughly 50 kilometres north of General Santos City, at an elevation that keeps it a few degrees cooler than the coast. The name Koronadal comes from the B'laan language and means "place of cogon grass" — a reminder that this fertile valley was once open grassland before it was settled.

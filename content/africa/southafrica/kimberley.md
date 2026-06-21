@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Hole,_Kimberley,_North
 latitude: -28.7383
 loc_type: city
 longitude: 24.7642
-score: 0.43
+score: 0.41
 title: Kimberley
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 39.4496
 loc_type: city
 longitude: -75.7163
-score: 0.3
+score: 0.23
 title: Middletown
 type: location
 ---

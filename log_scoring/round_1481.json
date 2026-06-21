@@ -1,200 +1,200 @@
 {
   "round": 1481,
-  "timestamp": "2026-04-13T10:24:42",
+  "timestamp": "2026-06-13T20:33:16",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The New Forest",
-      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
-      "prior_score": 3.2906,
-      "prior_variance": 0.577559,
-      "prior_n": 3
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 8.3844,
+      "prior_variance": 0.406651,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Ardeche",
-      "path": "europe/france/midi/ardeche",
-      "prior_score": 3.0898,
-      "prior_variance": 0.342593,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.7854,
+      "prior_variance": 0.391621,
       "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Nancy",
-      "path": "europe/france/east/lorraine/nancy",
-      "prior_score": 3.2431,
-      "prior_variance": 0.39816,
-      "prior_n": 3
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 6.5196,
+      "prior_variance": 0.338216,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Oracabessa",
-      "path": "northamerica/jamaica/oracabessa",
-      "prior_score": 3.0485,
-      "prior_variance": 0.358639,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 4.054,
+      "prior_variance": 0.309636,
       "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Tarquinia",
-      "path": "europe/italy/lazio/tarquinia",
-      "prior_score": 3.322,
-      "prior_variance": 0.475441,
-      "prior_n": 3
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 5.853,
+      "prior_variance": 0.298722,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Santo Stefano di Sessanio",
-      "path": "europe/italy/abruzzo/santo_stefano_di_s",
-      "prior_score": 3.9421,
-      "prior_variance": 0.430182,
-      "prior_n": 3
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 5.2246,
+      "prior_variance": 0.328305,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Maramures Land",
-      "path": "europe/romania/transylvania/maramures_land",
-      "prior_score": 2.5837,
-      "prior_variance": 0.438303,
-      "prior_n": 3
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 4.2723,
+      "prior_variance": 0.519673,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Dinant",
-      "path": "europe/belgium/dinant",
-      "prior_score": 2.9688,
-      "prior_variance": 0.28737,
-      "prior_n": 6
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 2.3801,
+      "prior_variance": 0.349223,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Edam",
-      "path": "europe/netherlands/edam",
-      "prior_score": 1.9406,
-      "prior_variance": 0.195286,
-      "prior_n": 7
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_score": 2.8631,
+      "prior_variance": 0.29993,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Siljan area",
-      "path": "europe/sweden/siljan_area",
-      "prior_score": 3.0186,
-      "prior_variance": 0.376854,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 3.2407,
+      "prior_variance": 0.323185,
       "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Sigtuna",
-      "path": "europe/sweden/sigtuna",
-      "prior_score": 1.6907,
-      "prior_variance": 0.466555,
-      "prior_n": 3
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 6.0997,
+      "prior_variance": 0.389435,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Pakse",
-      "path": "asia/laos/pakse",
-      "prior_score": 2.3828,
-      "prior_variance": 0.491341,
-      "prior_n": 3
+      "title": "Mount Longhu",
+      "path": "asia/china/jiangxi/mount_longhu",
+      "prior_score": 2.3587,
+      "prior_variance": 0.301343,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Marshall Islands",
-      "path": "australiaandpacific/marshallislands",
-      "prior_score": 1.6123,
-      "prior_variance": 0.577823,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 1.2512,
+      "prior_variance": 0.298988,
       "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Kelowna",
-      "path": "northamerica/canada/britishcolumbia/kelowna",
-      "prior_score": 1.646,
-      "prior_variance": 0.52638,
-      "prior_n": 3
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.8292,
+      "prior_variance": 0.295425,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Ensenada",
-      "path": "northamerica/mexico/ensenada",
-      "prior_score": 3.154,
-      "prior_variance": 0.411786,
-      "prior_n": 3
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/redondobeach",
+      "prior_score": -3.1567,
+      "prior_variance": 0.320875,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Guadalajara",
-      "path": "northamerica/mexico/guadalajara",
-      "prior_score": 3.5947,
-      "prior_variance": 0.411058,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -2.6635,
+      "prior_variance": 0.396145,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "North Carolina",
-      "path": "northamerica/unitedstates/northcarolina",
-      "prior_score": 2.7262,
-      "prior_variance": 0.335934,
-      "prior_n": 4
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": 0.0171,
+      "prior_variance": 0.345007,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Half Moon Bay",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
-      "prior_score": 0.8483,
-      "prior_variance": 0.823118,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -4.8982,
+      "prior_variance": 0.325378,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Vigo",
-      "path": "europe/spain/galicia/vigo_city",
-      "prior_score": 3.3715,
-      "prior_variance": 0.488743,
-      "prior_n": 3
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -2.1458,
+      "prior_variance": 0.245257,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Gij\u00f3n",
-      "path": "europe/spain/northernspain/gijon",
-      "prior_score": 2.8639,
-      "prior_variance": 0.499405,
-      "prior_n": 3
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -5.4796,
+      "prior_variance": 0.371795,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Tonsberg",
-      "path": "europe/norway/tonsberg",
-      "prior_score": 2.4493,
-      "prior_variance": 0.377188,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -4.2036,
+      "prior_variance": 0.308822,
       "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "St Helier",
-      "path": "europe/channelislands/jersey/sthelier",
-      "prior_score": 3.0311,
-      "prior_variance": 0.417534,
-      "prior_n": 4
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -5.505,
+      "prior_variance": 0.273119,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "\u0160pindler\u016fv Ml\u00fdn",
-      "path": "europe/czechrepublic/spindleruvmlyn",
-      "prior_score": 1.456,
-      "prior_variance": 0.403507,
-      "prior_n": 4
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -4.2819,
+      "prior_variance": 0.315956,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Katahdin",
-      "path": "northamerica/unitedstates/maine/katahdin",
-      "prior_score": 2.9162,
-      "prior_variance": 0.446861,
-      "prior_n": 3
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -5.2591,
+      "prior_variance": 0.342265,
+      "prior_n": 5
     }
   ]
 }

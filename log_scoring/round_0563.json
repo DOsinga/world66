@@ -1,199 +1,199 @@
 {
   "round": 563,
-  "timestamp": "2026-04-12T10:37:36",
+  "timestamp": "2026-06-13T19:42:23",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Stockholm",
-      "path": "europe/sweden/stockholm",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -5.6152,
+      "prior_variance": 0.791448,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Visby",
-      "path": "europe/sweden/visby",
-      "prior_mu": 28.0773,
-      "prior_sigma": 5.6146,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -3.5827,
+      "prior_variance": 0.833279,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Karlskrona",
-      "path": "europe/sweden/karlskrona",
-      "prior_mu": 22.4646,
-      "prior_sigma": 5.5484,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -2.2353,
+      "prior_variance": 1.430122,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "\u00d6sterlen",
-      "path": "europe/sweden/sterlen",
-      "prior_mu": 21.9325,
-      "prior_sigma": 4.7035,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "Tanum",
-      "path": "europe/sweden/tanum",
-      "prior_mu": 22.5956,
-      "prior_sigma": 5.9491,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -6.7102,
+      "prior_variance": 1.391629,
       "prior_n": 1
     },
     {
+      "rank": 5,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -5.3601,
+      "prior_variance": 0.940938,
+      "prior_n": 2
+    },
+    {
       "rank": 6,
-      "title": "Nordingr\u00e5",
-      "path": "europe/sweden/the_high_coast/nordingr",
-      "prior_mu": 22.7942,
-      "prior_sigma": 5.7197,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -5.8404,
+      "prior_variance": 1.520763,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Kiruna",
-      "path": "europe/sweden/kiruna",
-      "prior_mu": 22.5651,
-      "prior_sigma": 5.8995,
-      "prior_n": 1
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -5.535,
+      "prior_variance": 1.274424,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Lysekil",
-      "path": "europe/sweden/lysekil",
-      "prior_mu": 22.5627,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -4.6459,
+      "prior_variance": 1.167259,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Norrk\u00f6ping",
-      "path": "europe/sweden/norrkping",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -3.6638,
+      "prior_variance": 1.178492,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "V\u00e4ster\u00e5s",
-      "path": "europe/sweden/vsters",
-      "prior_mu": 21.6983,
-      "prior_sigma": 4.3288,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -4.0809,
+      "prior_variance": 1.090931,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "S\u00e4len",
-      "path": "europe/sweden/slen",
-      "prior_mu": 22.74,
-      "prior_sigma": 5.9499,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -5.8945,
+      "prior_variance": 1.711864,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Vemdalen",
-      "path": "europe/sweden/vemdalen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -4.3159,
+      "prior_variance": 2.306354,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Kung\u00e4lv",
-      "path": "europe/sweden/kunglv",
-      "prior_mu": 22.4405,
-      "prior_sigma": 5.7746,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -4.3144,
+      "prior_variance": 1.601292,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "V\u00e4nersborg",
-      "path": "europe/sweden/vnersborg",
-      "prior_mu": 22.4337,
-      "prior_sigma": 5.7596,
-      "prior_n": 1
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -5.9044,
+      "prior_variance": 0.830549,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Sundsvall",
-      "path": "europe/sweden/sundsvall",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -5.3688,
+      "prior_variance": 1.749888,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "L\u00f6vstabruk",
-      "path": "europe/sweden/lvstabruk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/delta",
+      "prior_score": -5.4428,
+      "prior_variance": 1.429455,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Karesuando",
-      "path": "europe/sweden/karesuando",
-      "prior_mu": 21.9151,
-      "prior_sigma": 4.6617,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -5.7144,
+      "prior_variance": 1.287754,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "\u00d6resund",
-      "path": "europe/sweden/resund",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -5.8727,
+      "prior_variance": 0.705354,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Pajala",
-      "path": "europe/sweden/pajala",
-      "prior_mu": 22.5269,
-      "prior_sigma": 5.945,
-      "prior_n": 1
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -8.2064,
+      "prior_variance": 1.496141,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Sveg",
-      "path": "europe/sweden/sveg",
-      "prior_mu": 22.5044,
-      "prior_sigma": 5.7458,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -6.016,
+      "prior_variance": 1.310316,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Nybro",
-      "path": "europe/sweden/nybro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -7.4379,
+      "prior_variance": 0.849938,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Ludvika",
-      "path": "europe/sweden/ludvika",
-      "prior_mu": 22.4901,
-      "prior_sigma": 5.8914,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -8.551,
+      "prior_variance": 1.599752,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Bjuv",
-      "path": "europe/sweden/bjuv",
-      "prior_mu": 21.3086,
-      "prior_sigma": 4.6648,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -8.5985,
+      "prior_variance": 1.126132,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Bromma",
-      "path": "europe/sweden/stockholm/bromma",
-      "prior_mu": 21.7888,
-      "prior_sigma": 4.575,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -7.4501,
+      "prior_variance": 1.071647,
       "prior_n": 2
     }
   ]

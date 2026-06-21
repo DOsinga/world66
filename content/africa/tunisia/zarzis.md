@@ -6,7 +6,7 @@ done:
 latitude: 33.5037
 loc_type: city
 longitude: 11.1097
-score: 0.42
+score: 0.36
 title: Zarzis
 type: location
 ---

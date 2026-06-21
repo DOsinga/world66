@@ -5,7 +5,7 @@ latitude: 38.8404
 longitude: -105.044
 title: Pikes Peak
 type: location
-score: 0.68
+score: 0.55
 loc_type: feature
 ---
 

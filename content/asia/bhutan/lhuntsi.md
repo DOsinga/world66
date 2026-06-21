@@ -5,7 +5,7 @@ done:
 latitude: 27.6667
 loc_type: city
 longitude: 91.1833
-score: 0.5
+score: 0.41
 title: Lhuntsi
 type: location
 ---

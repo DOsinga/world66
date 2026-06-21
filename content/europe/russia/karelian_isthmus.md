@@ -5,7 +5,7 @@ latitude: 60.496
 longitude: 29.7313
 title: Karelian Isthmus
 type: location
-score: 0.41
+score: 0.34
 loc_type: feature
 ---
 

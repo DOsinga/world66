@@ -1,0 +1,200 @@
+{
+  "round": 3186,
+  "timestamp": "2026-06-13T22:35:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.5669,
+      "prior_variance": 0.20817,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 6.3596,
+      "prior_variance": 0.158027,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 5.8735,
+      "prior_variance": 0.18071,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 5.8671,
+      "prior_variance": 0.153287,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 5.5408,
+      "prior_variance": 0.161101,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.5082,
+      "prior_variance": 0.194964,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.1308,
+      "prior_variance": 0.133298,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 5.8201,
+      "prior_variance": 0.166729,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 5.3645,
+      "prior_variance": 0.157987,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 5.1355,
+      "prior_variance": 0.131756,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.3367,
+      "prior_variance": 0.136572,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Middle Caicos",
+      "path": "northamerica/turksandcaicosislands/middlecaicos",
+      "prior_score": 2.3999,
+      "prior_variance": 0.149725,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_score": 3.2952,
+      "prior_variance": 0.133059,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.4534,
+      "prior_variance": 0.140612,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 3.0628,
+      "prior_variance": 0.127225,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_score": 2.2704,
+      "prior_variance": 0.151897,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.6119,
+      "prior_variance": 0.131443,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.871,
+      "prior_variance": 0.130552,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.6784,
+      "prior_variance": 0.134261,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 4.0558,
+      "prior_variance": 0.157826,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.6888,
+      "prior_variance": 0.135822,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 4.0527,
+      "prior_variance": 0.138683,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.073,
+      "prior_variance": 0.132146,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 3.0771,
+      "prior_variance": 0.136027,
+      "prior_n": 10
+    }
+  ]
+}

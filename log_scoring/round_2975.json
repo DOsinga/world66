@@ -1,0 +1,200 @@
+{
+  "round": 2975,
+  "timestamp": "2026-06-13T22:20:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 10.2273,
+      "prior_variance": 0.298163,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.8936,
+      "prior_variance": 0.285332,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 6.6743,
+      "prior_variance": 0.526004,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.7249,
+      "prior_variance": 0.191969,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 3.3646,
+      "prior_variance": 0.153924,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 11.1195,
+      "prior_variance": 0.461792,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Grande-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/grandeterre",
+      "prior_score": 4.2554,
+      "prior_variance": 0.149697,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 1.2898,
+      "prior_variance": 0.143148,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.0367,
+      "prior_variance": 0.131329,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.1057,
+      "prior_variance": 0.14399,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 2.3963,
+      "prior_variance": 0.164292,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 3.1077,
+      "prior_variance": 0.167386,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 2.4798,
+      "prior_variance": 0.250053,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -0.486,
+      "prior_variance": 0.161175,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 2.0518,
+      "prior_variance": 0.152537,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.4292,
+      "prior_variance": 0.127562,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.9873,
+      "prior_variance": 0.145478,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.1869,
+      "prior_variance": 0.139276,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.098,
+      "prior_variance": 0.130238,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.3832,
+      "prior_variance": 0.145953,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -1.6919,
+      "prior_variance": 0.139573,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.267,
+      "prior_variance": 0.161562,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Yixing",
+      "path": "asia/china/jiangsu_province/yixing",
+      "prior_score": -4.4552,
+      "prior_variance": 0.177298,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.4742,
+      "prior_variance": 0.167854,
+      "prior_n": 9
+    }
+  ]
+}

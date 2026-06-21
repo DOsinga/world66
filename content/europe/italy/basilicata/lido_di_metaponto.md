@@ -5,7 +5,7 @@ done:
 latitude: 40.360581
 loc_type: city
 longitude: 16.835227
-score: 0.45
+score: 0.41
 title: Lido di Metaponto
 type: location
 ---

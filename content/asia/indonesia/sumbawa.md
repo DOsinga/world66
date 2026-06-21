@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Landscape_view_with_Sengea
 latitude: -8.594902
 loc_type: city
 longitude: 117.271607
-score: 0.49
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Sumbawa_Besar
 title: Sumbawa

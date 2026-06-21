@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kapisiliit_in_summer.jpg
 latitude: 64.434792
 loc_type: city
 longitude: -50.271698
-score: 0.44
+score: 0.3
 title: Kapisillit
 type: location
 ---

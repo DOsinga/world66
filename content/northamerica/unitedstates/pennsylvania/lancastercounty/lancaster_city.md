@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lancaster_Central_Market.J
 latitude: 40.037875
 loc_type: city
 longitude: -76.305514
-score: 0.45
+score: 0.38
 title: Lancaster City
 type: location
 ---

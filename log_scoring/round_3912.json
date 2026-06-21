@@ -1,0 +1,200 @@
+{
+  "round": 3912,
+  "timestamp": "2026-06-13T23:29:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 1.0088,
+      "prior_variance": 0.110853,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 1.904,
+      "prior_variance": 0.111547,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.7143,
+      "prior_variance": 0.102708,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 3.1239,
+      "prior_variance": 0.101601,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -0.4777,
+      "prior_variance": 0.102614,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -3.4111,
+      "prior_variance": 0.108966,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.1283,
+      "prior_variance": 0.112649,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -2.0061,
+      "prior_variance": 0.108563,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.5392,
+      "prior_variance": 0.111046,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": -0.1302,
+      "prior_variance": 0.11163,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.5741,
+      "prior_variance": 0.103896,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -4.6682,
+      "prior_variance": 0.162334,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -5.4574,
+      "prior_variance": 0.179702,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -4.4981,
+      "prior_variance": 0.126735,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -4.6442,
+      "prior_variance": 0.115961,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.2916,
+      "prior_variance": 0.123681,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -4.8893,
+      "prior_variance": 0.13281,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -4.6143,
+      "prior_variance": 0.12546,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_score": -5.4603,
+      "prior_variance": 0.193832,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.2034,
+      "prior_variance": 0.179724,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -9.5435,
+      "prior_variance": 0.285353,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.3547,
+      "prior_variance": 0.239502,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -7.4503,
+      "prior_variance": 0.207549,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -9.7654,
+      "prior_variance": 0.373509,
+      "prior_n": 12
+    }
+  ]
+}

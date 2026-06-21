@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Recco_-_Comune_di_Recco_-_
 latitude: 44.3652
 loc_type: city
 longitude: 9.1463
-score: 0.52
+score: 0.43
 title: Recco
 type: location
 ---

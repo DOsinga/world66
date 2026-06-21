@@ -1,14 +1,15 @@
 ---
-title: Lotus of Siam
-type: poi
 address: 620 East Flamingo Road
 latitude: 36.1153
-longitude: -115.1530
-snippet: "James Beard-honoured Thai restaurant in a strip mall east of the Strip"
+longitude: -115.153
+score: 8.8
+snippet: James Beard-honoured Thai restaurant in a strip mall east of the Strip
 tags:
 - eating_out
 - restaurant
-score: 8.8
+- the_strip
+title: Lotus of Siam
+type: poi
 ---
 
 Lotus of Siam has been called the best Thai restaurant in North America by multiple American food writers, and it sits in a worn-looking strip mall on East Flamingo Road. The dining room itself is unspectacular; the food is not. Chef Saipin Chutima's northern Thai menu — beef jerky, nam prik ong, khao soi, jackfruit curry — is properly spicy and uses ingredients flown in from Thailand. The wine list, oddly, is an award-winning Riesling-led collection that pairs sharply with the heat.

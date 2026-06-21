@@ -7,7 +7,7 @@ done:
 latitude: 13.4745
 loc_type: city
 longitude: 144.7488
-score: 0.48
+score: 0.4
 title: Hagåtña (Agana)
 type: location
 ---

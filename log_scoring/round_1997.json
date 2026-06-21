@@ -1,200 +1,200 @@
 {
   "round": 1997,
-  "timestamp": "2026-04-13T16:01:28",
+  "timestamp": "2026-06-13T21:11:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Praia Verde",
-      "path": "europe/portugal/algarve/praia_verde",
-      "prior_score": 2.7778,
-      "prior_variance": 0.25494,
-      "prior_n": 5
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 11.0962,
+      "prior_variance": 0.750261,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Saba",
-      "path": "northamerica/netherlandsantilles/saba",
-      "prior_score": 1.6679,
-      "prior_variance": 0.273235,
-      "prior_n": 5
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 9.4346,
+      "prior_variance": 0.432507,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Ooty",
-      "path": "asia/india/tamilnadu/ooty",
-      "prior_score": 2.8979,
-      "prior_variance": 0.303526,
-      "prior_n": 5
+      "title": "Gruy\u00e8res",
+      "path": "europe/switzerland/gruyeres",
+      "prior_score": 6.7114,
+      "prior_variance": 0.28747,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Whangarei",
-      "path": "australiaandpacific/newzealand/whangarei",
-      "prior_score": 0.7617,
-      "prior_variance": 0.272325,
-      "prior_n": 5
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.9939,
+      "prior_variance": 0.285078,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Bowral",
-      "path": "australiaandpacific/australia/newsouthwales/bowral",
-      "prior_score": -0.1547,
-      "prior_variance": 0.258149,
+      "title": "Chobe National Park",
+      "path": "africa/botswana/chobenationalpark",
+      "prior_score": 7.671,
+      "prior_variance": 0.31648,
       "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Shrewsbury",
-      "path": "europe/unitedkingdom/shrewsbury",
-      "prior_score": 1.7883,
-      "prior_variance": 0.289174,
-      "prior_n": 5
-    },
-    {
-      "rank": 7,
-      "title": "Queens",
-      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
-      "prior_score": 1.025,
-      "prior_variance": 0.29918,
-      "prior_n": 5
-    },
-    {
-      "rank": 8,
-      "title": "Porto Alegre",
-      "path": "southamerica/brazil/portoalegre",
-      "prior_score": 0.052,
-      "prior_variance": 0.287013,
-      "prior_n": 5
-    },
-    {
-      "rank": 9,
-      "title": "Port Elizabeth",
-      "path": "africa/southafrica/portelizabeth",
-      "prior_score": -0.3975,
-      "prior_variance": 0.259726,
-      "prior_n": 5
-    },
-    {
-      "rank": 10,
-      "title": "Inhambane",
-      "path": "africa/mozambique/inhambane",
-      "prior_score": -1.3175,
-      "prior_variance": 0.252877,
-      "prior_n": 5
-    },
-    {
-      "rank": 11,
-      "title": "Solentiname Islands",
-      "path": "northamerica/nicaragua/solentiname_island",
-      "prior_score": -0.6235,
-      "prior_variance": 0.319592,
-      "prior_n": 5
-    },
-    {
-      "rank": 12,
-      "title": "Orheiul Vechi",
-      "path": "europe/moldova/orheiul_vechi_2",
-      "prior_score": 0.2384,
-      "prior_variance": 0.377089,
-      "prior_n": 5
-    },
-    {
-      "rank": 13,
-      "title": "Schongau",
-      "path": "europe/germany/bavaria/schongau",
-      "prior_score": -0.2771,
-      "prior_variance": 0.242157,
-      "prior_n": 5
-    },
-    {
-      "rank": 14,
-      "title": "Mullingar",
-      "path": "europe/ireland/mullingar",
-      "prior_score": -1.1872,
-      "prior_variance": 0.279008,
-      "prior_n": 5
-    },
-    {
-      "rank": 15,
-      "title": "Eastern England",
-      "path": "europe/unitedkingdom/england/eastern_england",
-      "prior_score": -0.9121,
-      "prior_variance": 0.320846,
-      "prior_n": 5
-    },
-    {
-      "rank": 16,
-      "title": "Foumban",
-      "path": "africa/cameroon/foumban",
-      "prior_score": -2.0389,
-      "prior_variance": 0.288793,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 3.8269,
+      "prior_variance": 0.221609,
       "prior_n": 6
     },
     {
-      "rank": 17,
-      "title": "Ullal",
-      "path": "asia/india/karnataka/konkan_coast/ullal",
-      "prior_score": -2.5911,
-      "prior_variance": 0.277709,
-      "prior_n": 5
+      "rank": 7,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 2.2074,
+      "prior_variance": 0.216116,
+      "prior_n": 6
     },
     {
-      "rank": 18,
-      "title": "Gera",
-      "path": "europe/germany/thuringia/gera",
-      "prior_score": -2.7186,
-      "prior_variance": 0.268514,
-      "prior_n": 5
+      "rank": 8,
+      "title": "Borgo Maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.3967,
+      "prior_variance": 0.253088,
+      "prior_n": 6
     },
     {
-      "rank": 19,
-      "title": "Wigan",
-      "path": "europe/unitedkingdom/england/wigan",
-      "prior_score": -4.6081,
-      "prior_variance": 0.296195,
-      "prior_n": 5
+      "rank": 9,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.6432,
+      "prior_variance": 0.269519,
+      "prior_n": 6
     },
     {
-      "rank": 20,
-      "title": "Easton",
-      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
-      "prior_score": -2.1683,
-      "prior_variance": 0.278551,
-      "prior_n": 5
+      "rank": 10,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.7586,
+      "prior_variance": 0.222993,
+      "prior_n": 6
     },
     {
-      "rank": 21,
-      "title": "Powell",
-      "path": "northamerica/unitedstates/wyoming/powell",
-      "prior_score": -4.2377,
-      "prior_variance": 0.350313,
-      "prior_n": 5
-    },
-    {
-      "rank": 22,
-      "title": "Buraimi",
-      "path": "asia/oman/buraimi",
-      "prior_score": -4.3874,
-      "prior_variance": 0.293479,
+      "rank": 11,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -1.0908,
+      "prior_variance": 0.187761,
       "prior_n": 7
     },
     {
+      "rank": 12,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.3181,
+      "prior_variance": 0.214108,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": -0.0805,
+      "prior_variance": 0.18465,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.2648,
+      "prior_variance": 0.193586,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -0.6726,
+      "prior_variance": 0.290933,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -1.0722,
+      "prior_variance": 0.222652,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -2.45,
+      "prior_variance": 0.248997,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.7262,
+      "prior_variance": 0.21094,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -0.8919,
+      "prior_variance": 0.225882,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -0.8647,
+      "prior_variance": 0.195672,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.6595,
+      "prior_variance": 0.249356,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.7189,
+      "prior_variance": 0.236809,
+      "prior_n": 6
+    },
+    {
       "rank": 23,
-      "title": "Universities",
-      "path": "northamerica/canada/britishcolumbia/victoria/universities",
-      "prior_score": -3.2836,
-      "prior_variance": 0.39949,
-      "prior_n": 5
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.2744,
+      "prior_variance": 0.28526,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Sanaa",
-      "path": "asia/yemen/sanaa",
-      "prior_score": -10.1258,
-      "prior_variance": 0.5693,
-      "prior_n": 5
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.596,
+      "prior_variance": 0.315431,
+      "prior_n": 6
     }
   ]
 }

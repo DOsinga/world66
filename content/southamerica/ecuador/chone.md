@@ -4,12 +4,12 @@ done:
   location_enrich: '2026-06-01'
 latitude: -0.38281
 longitude: -80.07216
-score: 0.36
+score: 0.28
 title: Chone
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Chone,_Ecuador
+- https://en.wikipedia.org/wiki/Chone,_Ecuador
 image: chone.jpg
 image_source: https://commons.wikimedia.org/wiki/File:TOUR_SOLIDARIO_-_MANAB%C3%8D_082_(26994942215).jpg
 image_license: CC BY-SA 2.0

@@ -1,10 +1,9 @@
 ---
 address: 72 Roeland Street City
-category: Archive
 latitude: -33.931791
 longitude: 18.423252
-neighbourhood: City Bowl
 phone: ++27 (0)21 462 4050.
+score: 6.9
 scores:
   activities: 0.5649
   museum: 0.6605
@@ -17,7 +16,6 @@ tags:
 - city_bowl
 title: Western Cape Archives and Records Service
 type: poi
-score: 6.9
 ---
 
 The Western Cape Archives and Records Service on Roeland Street holds one of the oldest and most significant colonial-era document collections in South Africa. Records go back to the Dutch East India Company period in the 17th century, including deeds of transfer, church records, census returns and photographs.

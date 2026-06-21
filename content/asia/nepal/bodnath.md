@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boudhanath_stupa_,_Kathman
 latitude: 27.7215
 loc_type: city
 longitude: 85.362
-score: 0.63
+score: 0.56
 title: Bodnath
 todo_location_cleanup: done
 type: location

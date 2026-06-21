@@ -5,7 +5,7 @@ done:
 latitude: 40.9011
 loc_type: city
 longitude: -4.0033
-score: 0.54
+score: 0.43
 title: La Granja
 type: location
 ---

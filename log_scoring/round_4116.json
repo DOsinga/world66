@@ -1,0 +1,200 @@
+{
+  "round": 4116,
+  "timestamp": "2026-06-13T23:44:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 11.4107,
+      "prior_variance": 0.285916,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 1.3938,
+      "prior_variance": 0.108507,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 0.8193,
+      "prior_variance": 0.098056,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.8935,
+      "prior_variance": 0.092736,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 0.04,
+      "prior_variance": 0.105296,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.65,
+      "prior_variance": 0.122498,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -2.1401,
+      "prior_variance": 0.109977,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.8612,
+      "prior_variance": 0.097679,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -1.7601,
+      "prior_variance": 0.101207,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": 0.1876,
+      "prior_variance": 0.096843,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.6376,
+      "prior_variance": 0.102332,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -2.5769,
+      "prior_variance": 0.104083,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.3396,
+      "prior_variance": 0.091068,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.7515,
+      "prior_variance": 0.101689,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -4.8404,
+      "prior_variance": 0.12159,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -5.1126,
+      "prior_variance": 0.113773,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -2.9647,
+      "prior_variance": 0.100088,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.3097,
+      "prior_variance": 0.118822,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -5.7035,
+      "prior_variance": 0.118645,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Yarkand",
+      "path": "asia/china/xinjiangprovince/yarkand",
+      "prior_score": -4.9942,
+      "prior_variance": 0.097498,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -6.0023,
+      "prior_variance": 0.135147,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.4571,
+      "prior_variance": 0.101569,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -5.6565,
+      "prior_variance": 0.14124,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.4477,
+      "prior_variance": 0.213041,
+      "prior_n": 13
+    }
+  ]
+}

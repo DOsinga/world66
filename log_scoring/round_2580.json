@@ -1,0 +1,200 @@
+{
+  "round": 2580,
+  "timestamp": "2026-06-13T21:52:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -3.4174,
+      "prior_variance": 0.17181,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.5928,
+      "prior_variance": 0.209854,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.7372,
+      "prior_variance": 0.186112,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_score": -3.2185,
+      "prior_variance": 0.159551,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.2729,
+      "prior_variance": 0.19139,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.8874,
+      "prior_variance": 0.164779,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.842,
+      "prior_variance": 0.184071,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.05,
+      "prior_variance": 0.187469,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -5.8554,
+      "prior_variance": 0.186897,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.8633,
+      "prior_variance": 0.205593,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.3754,
+      "prior_variance": 0.196926,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -2.0405,
+      "prior_variance": 0.15165,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.3435,
+      "prior_variance": 0.168116,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -5.305,
+      "prior_variance": 0.224303,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.6934,
+      "prior_variance": 0.181047,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.2535,
+      "prior_variance": 0.197071,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -3.957,
+      "prior_variance": 0.160351,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.3093,
+      "prior_variance": 0.223053,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -5.6796,
+      "prior_variance": 0.221588,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -2.9044,
+      "prior_variance": 0.221499,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -4.2417,
+      "prior_variance": 0.175018,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -6.1577,
+      "prior_variance": 0.209207,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -5.4509,
+      "prior_variance": 0.164937,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -5.6929,
+      "prior_variance": 0.22468,
+      "prior_n": 8
+    }
+  ]
+}

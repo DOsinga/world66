@@ -6,7 +6,7 @@ done:
 latitude: 37.9694
 loc_type: city
 longitude: 126.5567
-score: 0.27
+score: 0.17
 title: Kaesong
 type: location
 ---

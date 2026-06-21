@@ -14,6 +14,7 @@ image: seoraksan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dinosaur_Ridge_of_Seoraksan.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Taewangkorea
+score: 0.57
 ---
 
 Seoraksan — Mount Sorak — is the highest peak in the Taebaek mountain range and one of the most celebrated natural landscapes in South Korea. The national park surrounding it protects a dramatic terrain of sheer granite spires, deep valleys, waterfalls, and boulder-strewn ridgelines that draws more visitors each year than any other Korean national park. It is at its most spectacular in October, when the autumn foliage turns the granite peaks red and gold — one of the most photographed scenes in the country.

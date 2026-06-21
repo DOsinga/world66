@@ -5,7 +5,7 @@ latitude: -15.95
 longitude: 35.65
 title: Mulanje Mountains
 type: location
-score: 0.5
+score: 0.45
 loc_type: feature
 ---
 

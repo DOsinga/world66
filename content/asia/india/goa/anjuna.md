@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_
 latitude: 15.585041
 loc_type: city
 longitude: 73.743815
-score: 0.56
+score: 0.53
 title: Anjuna
 type: location
 ---

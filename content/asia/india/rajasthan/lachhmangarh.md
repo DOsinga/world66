@@ -5,7 +5,7 @@ done:
 latitude: 27.8225
 loc_type: city
 longitude: 75.0253
-score: 0.39
+score: 0.36
 title: Lachhmangarh
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 10.4378
 longitude: -85.8097
 title: Potrero
 type: location
-score: 0.52
+score: 0.43
 loc_type: city
 ---
 

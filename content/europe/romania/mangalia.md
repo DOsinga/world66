@@ -5,7 +5,7 @@ done:
 latitude: 43.815079
 loc_type: city
 longitude: 28.583031
-score: 0.42
+score: 0.37
 title: Mangalia
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Tower_of_London.jpg
 latitude: 51.5074
 loc_type: city
 longitude: -0.1278
-score: 0.91
+score: 0.78
 title: London
 type: location
 ---

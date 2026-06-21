@@ -1,13 +1,14 @@
 ---
 address: 819 Madison Ave
-latitude: 40.7699
-longitude: -73.9668
+latitude: 40.769383
+longitude: -73.966872
+score: 3.7
 tags:
 - shopping
 - shop
+- upper_west_side
 title: Donna Karan
 type: poi
-score: 3.7
 ---
 
 Donna Karan's flagship store is spatious, chic.

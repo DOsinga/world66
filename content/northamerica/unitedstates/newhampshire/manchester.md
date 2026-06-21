@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Manchester,_New_Hampshire_
 latitude: 42.9956
 loc_type: city
 longitude: -71.4548
-score: 0.38
+score: 0.3
 title: Manchester
 type: location
 ---

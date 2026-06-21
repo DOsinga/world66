@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Yuma_Arizona_(3).
 latitude: 32.725422
 loc_type: city
 longitude: -114.619809
-score: 0.38
+score: 0.32
 title: Yuma
 type: location
 ---

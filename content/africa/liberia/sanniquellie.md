@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Nimba_County
 title: Sanniquellie
 type: location
+score: 0.18
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sanniquellie*

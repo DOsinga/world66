@@ -1,0 +1,200 @@
+{
+  "round": 3560,
+  "timestamp": "2026-06-13T23:03:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 13.6154,
+      "prior_variance": 0.436562,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 10.9064,
+      "prior_variance": 0.32652,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 7.7032,
+      "prior_variance": 0.179012,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 3.0213,
+      "prior_variance": 0.149035,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 5.4716,
+      "prior_variance": 0.132043,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 4.6798,
+      "prior_variance": 0.157811,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.1297,
+      "prior_variance": 0.13064,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 2.2793,
+      "prior_variance": 0.132033,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 1.9437,
+      "prior_variance": 0.108981,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.4649,
+      "prior_variance": 0.11784,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.4302,
+      "prior_variance": 0.140377,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.343,
+      "prior_variance": 0.127611,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.777,
+      "prior_variance": 0.117102,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 3.6963,
+      "prior_variance": 0.117916,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.4628,
+      "prior_variance": 0.114796,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.4273,
+      "prior_variance": 0.112826,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.3221,
+      "prior_variance": 0.106572,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.2351,
+      "prior_variance": 0.113035,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.209,
+      "prior_variance": 0.109792,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.3796,
+      "prior_variance": 0.122238,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 0.983,
+      "prior_variance": 0.123573,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.067,
+      "prior_variance": 0.112431,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 2.9695,
+      "prior_variance": 0.127806,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -1.9292,
+      "prior_variance": 0.117633,
+      "prior_n": 11
+    }
+  ]
+}

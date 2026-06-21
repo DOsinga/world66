@@ -1,0 +1,200 @@
+{
+  "round": 4014,
+  "timestamp": "2026-06-13T23:37:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.5135,
+      "prior_variance": 0.286504,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 10.7068,
+      "prior_variance": 0.220894,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.5608,
+      "prior_variance": 0.191105,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 6.811,
+      "prior_variance": 0.135107,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 5.778,
+      "prior_variance": 0.142107,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 4.7686,
+      "prior_variance": 0.120186,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 6.3909,
+      "prior_variance": 0.13272,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 6.7766,
+      "prior_variance": 0.183646,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Suzhou",
+      "path": "asia/china/jiangsu_province/suzhou",
+      "prior_score": 5.2735,
+      "prior_variance": 0.123266,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 5.6072,
+      "prior_variance": 0.121237,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 4.198,
+      "prior_variance": 0.140834,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 5.8443,
+      "prior_variance": 0.118199,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 5.5288,
+      "prior_variance": 0.113871,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 2.8951,
+      "prior_variance": 0.123164,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 4.0528,
+      "prior_variance": 0.117398,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 2.4694,
+      "prior_variance": 0.130595,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.4544,
+      "prior_variance": 0.101498,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.6193,
+      "prior_variance": 0.101051,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 1.0558,
+      "prior_variance": 0.095448,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 3.0775,
+      "prior_variance": 0.127501,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 2.7821,
+      "prior_variance": 0.111192,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 5.4197,
+      "prior_variance": 0.13255,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 1.9123,
+      "prior_variance": 0.101534,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": 0.2502,
+      "prior_variance": 0.111652,
+      "prior_n": 14
+    }
+  ]
+}

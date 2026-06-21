@@ -5,7 +5,7 @@ done:
 latitude: 41.737352
 loc_type: city
 longitude: 45.672178
-score: 0.64
+score: 0.49
 title: Kakheti
 type: location
 ---

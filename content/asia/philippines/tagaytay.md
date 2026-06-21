@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tagaytay_Highlands,_Philip
 latitude: 14.099261
 loc_type: city
 longitude: 120.939182
-score: 0.55
+score: 0.49
 title: Tagaytay
 type: location
 ---

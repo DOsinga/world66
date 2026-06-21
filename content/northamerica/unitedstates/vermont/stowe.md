@@ -5,7 +5,7 @@ latitude: 44.4644
 longitude: -72.6856
 title: Stowe
 type: location
-score: 0.6
+score: 0.53
 loc_type: city
 image: stowe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:In_Stowe,_Vermont_by_Alfred_T._Ordway.jpg

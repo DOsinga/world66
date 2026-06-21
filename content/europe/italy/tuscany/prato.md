@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duomo_Prato_01.jpg
 latitude: 43.935718
 loc_type: city
 longitude: 11.094147
-score: 0.55
+score: 0.45
 title: Prato
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4357,
+  "timestamp": "2026-06-14T00:06:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 5.8277,
+      "prior_variance": 0.133331,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 5.0789,
+      "prior_variance": 0.102216,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.3616,
+      "prior_variance": 0.110146,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 7.3268,
+      "prior_variance": 0.128008,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.2035,
+      "prior_variance": 0.113379,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 3.7179,
+      "prior_variance": 0.104605,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 3.8188,
+      "prior_variance": 0.116937,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 4.0211,
+      "prior_variance": 0.107653,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 3.2868,
+      "prior_variance": 0.106686,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 2.3921,
+      "prior_variance": 0.115817,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 3.3904,
+      "prior_variance": 0.130323,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 3.989,
+      "prior_variance": 0.114048,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 3.6289,
+      "prior_variance": 0.11348,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.1513,
+      "prior_variance": 0.105164,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 2.1642,
+      "prior_variance": 0.114308,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 1.1095,
+      "prior_variance": 0.108789,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.2333,
+      "prior_variance": 0.095033,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.4137,
+      "prior_variance": 0.103898,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -3.1843,
+      "prior_variance": 0.096234,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -2.0833,
+      "prior_variance": 0.09096,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -3.1861,
+      "prior_variance": 0.098193,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.4063,
+      "prior_variance": 0.096816,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -4.1197,
+      "prior_variance": 0.115829,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -2.7369,
+      "prior_variance": 0.098695,
+      "prior_n": 14
+    }
+  ]
+}

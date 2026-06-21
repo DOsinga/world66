@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/26223114@N02/2810969080
 latitude: 18.521374
 loc_type: city
 longitude: 73.854507
-score: 0.46
+score: 0.39
 title: Pune
 type: location
 ---

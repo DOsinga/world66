@@ -1,0 +1,200 @@
+{
+  "round": 3010,
+  "timestamp": "2026-06-13T22:22:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 6.2144,
+      "prior_variance": 0.179582,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.1884,
+      "prior_variance": 0.154169,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 2.6927,
+      "prior_variance": 0.137405,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.5047,
+      "prior_variance": 0.138968,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 3.6933,
+      "prior_variance": 0.130462,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 1.5212,
+      "prior_variance": 0.169493,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.7712,
+      "prior_variance": 0.128387,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.9656,
+      "prior_variance": 0.149177,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.0755,
+      "prior_variance": 0.136927,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 3.0906,
+      "prior_variance": 0.144542,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 1.0765,
+      "prior_variance": 0.137562,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.4574,
+      "prior_variance": 0.142586,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -1.1549,
+      "prior_variance": 0.14739,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 1.328,
+      "prior_variance": 0.135495,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.1827,
+      "prior_variance": 0.131518,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.2607,
+      "prior_variance": 0.124795,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 1.4908,
+      "prior_variance": 0.137556,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.1643,
+      "prior_variance": 0.121702,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.7206,
+      "prior_variance": 0.141961,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 1.0074,
+      "prior_variance": 0.193159,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 0.4012,
+      "prior_variance": 0.124091,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.8229,
+      "prior_variance": 0.140146,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -2.3304,
+      "prior_variance": 0.193154,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -5.9314,
+      "prior_variance": 0.168216,
+      "prior_n": 9
+    }
+  ]
+}

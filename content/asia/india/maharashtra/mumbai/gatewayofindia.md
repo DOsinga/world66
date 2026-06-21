@@ -1,10 +1,11 @@
 ---
-latitude: 18.9220
+latitude: 18.922
 longitude: 72.8346
 snippet: Iconic waterfront arch marking Britain's arrival and departure
 tags:
 - things_to_do
 - sight
+- colaba
 title: Gateway of India
 type: poi
 score: 6.9

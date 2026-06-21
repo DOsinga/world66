@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Parque
 latitude: 17.5553
 loc_type: city
 longitude: 106.1123
-score: 0.7
+score: 0.62
 title: Phong Nha - Ke Bang
 type: location
 ---

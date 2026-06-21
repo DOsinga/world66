@@ -1,0 +1,200 @@
+{
+  "round": 3247,
+  "timestamp": "2026-06-13T22:39:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.2733,
+      "prior_variance": 0.34464,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/south_island/otago/wanaka",
+      "prior_score": 6.9678,
+      "prior_variance": 0.193438,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 2.4087,
+      "prior_variance": 0.150184,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 0.9958,
+      "prior_variance": 0.150332,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 1.7945,
+      "prior_variance": 0.139218,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.2457,
+      "prior_variance": 0.132687,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 0.6304,
+      "prior_variance": 0.148714,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 1.1733,
+      "prior_variance": 0.139137,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.5151,
+      "prior_variance": 0.169093,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -4.8953,
+      "prior_variance": 0.180278,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.4099,
+      "prior_variance": 0.127315,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.0997,
+      "prior_variance": 0.136779,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.8493,
+      "prior_variance": 0.148778,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.1528,
+      "prior_variance": 0.121634,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.1972,
+      "prior_variance": 0.133233,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.1949,
+      "prior_variance": 0.145551,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.7393,
+      "prior_variance": 0.141201,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -4.8151,
+      "prior_variance": 0.187948,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.6713,
+      "prior_variance": 0.129874,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -3.3722,
+      "prior_variance": 0.138257,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.735,
+      "prior_variance": 0.137573,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -4.6186,
+      "prior_variance": 0.155894,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.296,
+      "prior_variance": 0.152561,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -4.4239,
+      "prior_variance": 0.143757,
+      "prior_n": 10
+    }
+  ]
+}

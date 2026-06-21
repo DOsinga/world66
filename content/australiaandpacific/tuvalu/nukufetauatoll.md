@@ -5,7 +5,7 @@ latitude: -8.0
 longitude: 178.37
 title: Nukufetau Atoll
 type: location
-score: 0.36
+score: 0.32
 loc_type: feature
 ---
 

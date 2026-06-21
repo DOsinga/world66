@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Floors_Castle_from_Kelso,_
 latitude: 55.598379
 loc_type: city
 longitude: -2.433837
-score: 0.52
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Kelso,_Scottish_Borders
 title: Kelso

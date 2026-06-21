@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:4th_St_Petersburg,_Florida
 latitude: 27.7731
 loc_type: city
 longitude: -82.64
-score: 0.54
+score: 0.48
 title: St. Petersburg
 type: location
 ---

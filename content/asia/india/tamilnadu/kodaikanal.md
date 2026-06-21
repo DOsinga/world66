@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boating_in_Kodaikanal_Lake
 latitude: 10.233712
 loc_type: city
 longitude: 77.491972
-score: 0.57
+score: 0.46
 title: Kodaikanal
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://www.colorado.com/en/official-colorado-travel-resources/breckenridge-tourism-office
 title: Breckenridge
 type: location
+score: 0.55
 ---
 
 Breckenridge is a former mining town that became one of Colorado's busiest mountain resorts without losing its Victorian main street. The ski area is huge, high, and easy to reach from Denver, but the town matters too: old false-front buildings, saloons, galleries, and a Blue River setting that feels more lived-in than many purpose-built resort villages.

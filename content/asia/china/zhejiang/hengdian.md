@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hengdian_World_Studios
 title: Hengdian World Studios
 type: location
+score: 0.43
 ---
 
 Hengdian is a small town in Dongyang that became, somewhat improbably, one of the world's largest working film studios. The complex grew from a single set built in the 1990s for a historical epic into a 330-hectare backlot of period recreations: a full-scale replica of the Forbidden City, a reconstruction of the first emperor Qin Shihuang's palace, Ming and Qing dynasty streets, and old Shanghai and Hong Kong neighbourhoods. Over 1,200 films and television series have been shot here, including *Crouching Tiger, Hidden Dragon* and the 2020 Disney *Mulan*, and the sets are in near-constant use.

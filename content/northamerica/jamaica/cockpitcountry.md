@@ -5,7 +5,7 @@ latitude: 18.3167
 longitude: -77.6667
 title: Cockpit Country
 type: location
-score: 0.5
+score: 0.42
 loc_type: feature
 ---
 

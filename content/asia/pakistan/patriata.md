@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Patriata_Charlift.JPG
 latitude: 33.856674
 loc_type: city
 longitude: 73.482003
-score: 0.43
+score: 0.38
 title: Patriata
 type: location
 ---

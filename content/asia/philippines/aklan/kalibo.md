@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalibo_Ati-Atihan_Festival
 latitude: 11.7089
 loc_type: city
 longitude: 122.364
-score: 0.46
+score: 0.4
 title: Kalibo
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2913,
+  "timestamp": "2026-06-13T22:15:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.1206,
+      "prior_variance": 0.216035,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.8437,
+      "prior_variance": 0.170618,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 3.8646,
+      "prior_variance": 0.18986,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 5.1706,
+      "prior_variance": 0.16441,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 5.08,
+      "prior_variance": 0.168841,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 0.2389,
+      "prior_variance": 0.153832,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_score": 4.0521,
+      "prior_variance": 0.148881,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 3.8453,
+      "prior_variance": 0.156797,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.2192,
+      "prior_variance": 0.14389,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.3769,
+      "prior_variance": 0.144075,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 0.9324,
+      "prior_variance": 0.145155,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -0.0927,
+      "prior_variance": 0.136548,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.5333,
+      "prior_variance": 0.136548,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.6439,
+      "prior_variance": 0.134506,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -3.4713,
+      "prior_variance": 0.178006,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.8819,
+      "prior_variance": 0.132265,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -3.0477,
+      "prior_variance": 0.160331,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -2.1105,
+      "prior_variance": 0.125729,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/england/suffolk/lowestoft",
+      "prior_score": -3.6025,
+      "prior_variance": 0.16177,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.3723,
+      "prior_variance": 0.147532,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.2492,
+      "prior_variance": 0.146575,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -3.0251,
+      "prior_variance": 0.177297,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -3.001,
+      "prior_variance": 0.149952,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -6.6737,
+      "prior_variance": 0.364515,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4309,
+  "timestamp": "2026-06-14T00:02:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 15.5694,
+      "prior_variance": 0.793801,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 7.3392,
+      "prior_variance": 0.147517,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.0616,
+      "prior_variance": 0.112148,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.0495,
+      "prior_variance": 0.113346,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 4.5996,
+      "prior_variance": 0.123026,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.1227,
+      "prior_variance": 0.096437,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -0.7059,
+      "prior_variance": 0.093661,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": 0.2016,
+      "prior_variance": 0.100357,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -1.0499,
+      "prior_variance": 0.092506,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 0.2614,
+      "prior_variance": 0.094742,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_score": -2.1828,
+      "prior_variance": 0.098497,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.6174,
+      "prior_variance": 0.115925,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Neum\u00fcnster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -4.2276,
+      "prior_variance": 0.12196,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Chongzuo",
+      "path": "asia/china/guangxi/chongzuo",
+      "prior_score": -2.5131,
+      "prior_variance": 0.090903,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Shangrao",
+      "path": "asia/china/jiangxi/shangrao",
+      "prior_score": -2.5251,
+      "prior_variance": 0.106346,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.6178,
+      "prior_variance": 0.094401,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Belgaum",
+      "path": "asia/india/karnataka/belgaum",
+      "prior_score": -3.9394,
+      "prior_variance": 0.107512,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -2.9466,
+      "prior_variance": 0.131562,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -4.7485,
+      "prior_variance": 0.111042,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -4.3953,
+      "prior_variance": 0.096043,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -4.4213,
+      "prior_variance": 0.115847,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.6074,
+      "prior_variance": 0.140137,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -7.4734,
+      "prior_variance": 0.163575,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.2836,
+      "prior_variance": 0.151849,
+      "prior_n": 13
+    }
+  ]
+}

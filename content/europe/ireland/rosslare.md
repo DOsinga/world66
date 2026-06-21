@@ -5,7 +5,7 @@ done:
 latitude: 52.2736
 loc_type: city
 longitude: -6.3869
-score: 0.45
+score: 0.35
 title: Rosslare
 type: location
 image: rosslare.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 44.949749
 loc_type: city
 longitude: -93.093103
-score: 0.42
+score: 0.38
 title: St. Paul
 type: location
 ---

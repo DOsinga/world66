@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hoorn
 title: Hoorn
 type: location
+score: 0.49
 ---
 
 Hoorn is one of the best-preserved former trading cities in the Netherlands, a place that was briefly one of the most important harbours in the world during the 17th-century Dutch Golden Age and has spent the intervening centuries declining slowly and gracefully. The VOC — the Dutch East India Company — had its headquarters here, and the Hoorn merchants who grew rich on the spice trade built themselves a compact town of gabled merchants' houses around a harbour that still looks much as it did in Rembrandt's time.

@@ -1,0 +1,200 @@
+{
+  "round": 3461,
+  "timestamp": "2026-06-13T22:55:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 20.9283,
+      "prior_variance": 2.097766,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 8.5569,
+      "prior_variance": 0.324529,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 7.9368,
+      "prior_variance": 0.203161,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 7.9641,
+      "prior_variance": 0.179044,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 7.6897,
+      "prior_variance": 0.181635,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.3817,
+      "prior_variance": 0.144037,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.8282,
+      "prior_variance": 0.120615,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.6778,
+      "prior_variance": 0.169495,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.5802,
+      "prior_variance": 0.126697,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.5268,
+      "prior_variance": 0.110758,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.4695,
+      "prior_variance": 0.137233,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": -0.5467,
+      "prior_variance": 0.122741,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.3379,
+      "prior_variance": 0.109947,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.4049,
+      "prior_variance": 0.122752,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.5308,
+      "prior_variance": 0.117171,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Hohhot",
+      "path": "asia/china/innermongolia/hohhot",
+      "prior_score": -1.1362,
+      "prior_variance": 0.13841,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tianyahaijiao",
+      "path": "asia/china/hainanisland/tianyahaijiao",
+      "prior_score": 0.5661,
+      "prior_variance": 0.144485,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": -2.0562,
+      "prior_variance": 0.126152,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.1518,
+      "prior_variance": 0.122813,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.9347,
+      "prior_variance": 0.123235,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -1.9216,
+      "prior_variance": 0.109162,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -0.8475,
+      "prior_variance": 0.114623,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.2136,
+      "prior_variance": 0.110197,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -2.0161,
+      "prior_variance": 0.126089,
+      "prior_n": 11
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3772,
+  "timestamp": "2026-06-13T23:18:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 5.7856,
+      "prior_variance": 0.135273,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.146,
+      "prior_variance": 0.12245,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.7687,
+      "prior_variance": 0.115533,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.2623,
+      "prior_variance": 0.145629,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 4.7928,
+      "prior_variance": 0.135952,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": -0.041,
+      "prior_variance": 0.102077,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -0.4194,
+      "prior_variance": 0.110262,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.655,
+      "prior_variance": 0.117314,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 0.0064,
+      "prior_variance": 0.111119,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.8819,
+      "prior_variance": 0.113704,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.4141,
+      "prior_variance": 0.114976,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.2467,
+      "prior_variance": 0.121456,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -4.2402,
+      "prior_variance": 0.143248,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.1056,
+      "prior_variance": 0.137742,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -3.9044,
+      "prior_variance": 0.132851,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -3.6937,
+      "prior_variance": 0.10782,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -3.9092,
+      "prior_variance": 0.120136,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -4.5204,
+      "prior_variance": 0.104785,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.0956,
+      "prior_variance": 0.112592,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -6.2532,
+      "prior_variance": 0.138995,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -5.7834,
+      "prior_variance": 0.141816,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -5.095,
+      "prior_variance": 0.116586,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -4.7065,
+      "prior_variance": 0.113688,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -4.6052,
+      "prior_variance": 0.135331,
+      "prior_n": 12
+    }
+  ]
+}

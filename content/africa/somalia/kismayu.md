@@ -5,7 +5,7 @@ done:
 latitude: -0.35869
 loc_type: city
 longitude: 42.54546
-score: 0.12
+score: 0.06
 title: Kismayu
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CobramANZBank.JPG
 latitude: -35.9198
 loc_type: city
 longitude: 145.6484
-score: 0.35
+score: 0.28
 title: Cobram
 type: location
 ---

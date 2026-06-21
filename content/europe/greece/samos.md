@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/63005367@N02/24063187345
 latitude: 37.7561
 loc_type: city
 longitude: 26.9773
-score: 0.66
+score: 0.56
 title: Samos
 type: location
 ---

@@ -14,7 +14,7 @@ quick_facts:
   Coastline: "3,165 km"
 done:
   country_cleanup: 2026-03-30
-score: 0.65
+score: 0.71
 loc_type: country
 ---
 

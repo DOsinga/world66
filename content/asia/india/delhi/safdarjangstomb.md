@@ -1,13 +1,11 @@
 ---
-title: Safdarjang's Tomb
-type: poi
-snippet: "Late Mughal garden tomb, Delhi's last great imperial monument"
-tags:
-  - things_to_do
-  - sight
 latitude: 28.589325
 longitude: 77.212568
 score: 7.5
+tags:
+- lodhi_colony
+title: Safdarjang Tomb
+type: poi
 ---
 
 Built in 1753-54 for Safdarjang, the Nawab of Awadh and prime minister of the Mughal Empire, this is widely considered the last significant monument of the Mughal era in Delhi. The red and buff sandstone mausoleum sits at the centre of a large char bagh (four-part garden), with double-storeyed towers at each corner and a broad central dome.

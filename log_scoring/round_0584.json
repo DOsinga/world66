@@ -1,120 +1,200 @@
 {
   "round": 584,
-  "timestamp": "2026-04-12T10:38:30",
+  "timestamp": "2026-06-13T19:43:30",
   "model": "claude-sonnet-4-6",
-  "batch_size": 14,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bratislava",
-      "path": "europe/slovakia/bratislava",
-      "prior_mu": 23.2087,
-      "prior_sigma": 5.5133,
-      "prior_n": 1
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -7.607,
+      "prior_variance": 0.694494,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Slovakia",
-      "path": "europe/slovakia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -7.5935,
+      "prior_variance": 1.197211,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Bansk\u00e1 Stiavnica",
-      "path": "europe/slovakia/b_a_n_s_k",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -8.9209,
+      "prior_variance": 1.400659,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Bardejov",
-      "path": "europe/slovakia/bardejov",
-      "prior_mu": 22.2661,
-      "prior_sigma": 5.9494,
-      "prior_n": 1
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -6.8052,
+      "prior_variance": 1.247988,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Levoca",
-      "path": "europe/slovakia/levoca",
-      "prior_mu": 22.7685,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -8.7442,
+      "prior_variance": 1.547998,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Bojnice",
-      "path": "europe/slovakia/bojnice",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -7.8011,
+      "prior_variance": 0.638941,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Trnava",
-      "path": "europe/slovakia/trnava",
-      "prior_mu": 21.2615,
-      "prior_sigma": 3.4174,
-      "prior_n": 3
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -8.2179,
+      "prior_variance": 1.181014,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Bansk\u00e1 Bystrica",
-      "path": "europe/slovakia/banskabystrica",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -7.8299,
+      "prior_variance": 1.514393,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Poprad",
-      "path": "europe/slovakia/poprad",
-      "prior_mu": 22.5536,
-      "prior_sigma": 5.7145,
-      "prior_n": 1
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -10.7124,
+      "prior_variance": 1.256999,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "\u017dilina",
-      "path": "europe/slovakia/zilina",
-      "prior_mu": 22.3629,
-      "prior_sigma": 5.9454,
-      "prior_n": 1
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_score": -8.0607,
+      "prior_variance": 0.91012,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Kremnica",
-      "path": "europe/slovakia/kremnica",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -10.1344,
+      "prior_variance": 1.640664,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Ru\u017eomberok",
-      "path": "europe/slovakia/ruomberok",
-      "prior_mu": 21.5349,
-      "prior_sigma": 4.6506,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -9.1127,
+      "prior_variance": 1.216967,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Lu\u010denec",
-      "path": "europe/slovakia/luenec",
-      "prior_mu": 22.5614,
-      "prior_sigma": 5.8869,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -10.2064,
+      "prior_variance": 1.433804,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Galanta",
-      "path": "europe/slovakia/galanta",
-      "prior_mu": 22.3379,
-      "prior_sigma": 5.9127,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -9.6814,
+      "prior_variance": 1.879792,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -10.5845,
+      "prior_variance": 0.731823,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Espa\u00f1ola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -9.8612,
+      "prior_variance": 1.456865,
       "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -8.8353,
+      "prior_variance": 1.997665,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -10.4544,
+      "prior_variance": 1.251648,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -10.0533,
+      "prior_variance": 1.838823,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -10.6942,
+      "prior_variance": 1.275028,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -9.9491,
+      "prior_variance": 1.686231,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -11.5197,
+      "prior_variance": 5.384274,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Myllykoski",
+      "path": "europe/finland/myllykoski",
+      "prior_score": -11.6849,
+      "prior_variance": 1.184929,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -15.3496,
+      "prior_variance": 6.399527,
+      "prior_n": 2
     }
   ]
 }

@@ -5,7 +5,7 @@ done:
 latitude: 22.336
 loc_type: city
 longitude: 103.844
-score: 0.72
+score: 0.6
 title: Sapa
 type: location
 image: sapa.jpg

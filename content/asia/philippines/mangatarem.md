@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daang_Kalikasan.jpg
 latitude: 15.788536
 loc_type: city
 longitude: 120.293864
-score: 0.36
+score: 0.28
 title: Mangatarem
 type: location
 ---

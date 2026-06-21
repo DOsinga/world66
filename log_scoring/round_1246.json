@@ -1,200 +1,200 @@
 {
   "round": 1246,
-  "timestamp": "2026-04-12T22:17:24",
+  "timestamp": "2026-06-13T20:19:19",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Dallas",
-      "path": "northamerica/unitedstates/texas/dallas",
-      "prior_rank": 6891,
-      "prior_wins": 17,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 12.6699,
+      "prior_variance": 0.690934,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Mobile",
-      "path": "northamerica/unitedstates/alabama/mobile",
-      "prior_rank": 5491,
-      "prior_wins": 26,
-      "prior_n": 3
-    },
-    {
-      "rank": 3,
-      "title": "Virginia City",
-      "path": "northamerica/unitedstates/nevada/virginiacity",
-      "prior_rank": 6344,
-      "prior_wins": 28,
+      "title": "Middle Caicos",
+      "path": "northamerica/turksandcaicosislands/middlecaicos",
+      "prior_score": 2.0154,
+      "prior_variance": 0.334522,
       "prior_n": 4
     },
     {
-      "rank": 4,
-      "title": "Santiago de los Caballeros",
-      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
-      "prior_rank": 2212,
-      "prior_wins": 46,
+      "rank": 3,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 4.9523,
+      "prior_variance": 0.420994,
       "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 7.3826,
+      "prior_variance": 0.329815,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Guelph and area",
-      "path": "northamerica/canada/ontario/guelph_and_area",
-      "prior_rank": 4554,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 5.9953,
+      "prior_variance": 0.468995,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Zurzach",
-      "path": "europe/switzerland/zurzach",
-      "prior_rank": 7123,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 4.3424,
+      "prior_variance": 0.331003,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Joinville",
-      "path": "southamerica/brazil/joinville",
-      "prior_rank": 6589,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": -1.129,
+      "prior_variance": 0.309239,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Siegen",
-      "path": "europe/germany/northrhinewestphalia/siegen",
-      "prior_rank": 7267,
-      "prior_wins": 14,
-      "prior_n": 3
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_score": 1.308,
+      "prior_variance": 0.388545,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Boblingen",
-      "path": "europe/germany/badenwrttemberg/boblingen",
-      "prior_rank": 6462,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 0.6754,
+      "prior_variance": 0.32949,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Jacmel",
-      "path": "northamerica/haiti/jacmel",
-      "prior_rank": 6023,
-      "prior_wins": 15,
-      "prior_n": 2
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.0748,
+      "prior_variance": 0.39899,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Toamasina",
-      "path": "africa/madagascar/toamasina",
-      "prior_rank": 6924,
-      "prior_wins": 13,
-      "prior_n": 3
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.0345,
+      "prior_variance": 0.328266,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Kiltimagh",
-      "path": "europe/ireland/kiltimagh",
-      "prior_rank": 7140,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -4.1479,
+      "prior_variance": 0.335779,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Bhadarwah",
-      "path": "asia/india/jammuandkashmir/bhadarwah",
-      "prior_rank": 5956,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -3.1412,
+      "prior_variance": 0.310084,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Indiana",
-      "path": "northamerica/unitedstates/indiana",
-      "prior_rank": 6507,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -3.8241,
+      "prior_variance": 0.302218,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Banamichi",
-      "path": "northamerica/mexico/banamichi",
-      "prior_rank": 6877,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -2.3298,
+      "prior_variance": 0.306098,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Metlaoui",
-      "path": "africa/tunisia/metlaoui",
-      "prior_rank": 7126,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -2.4925,
+      "prior_variance": 0.383154,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Failaka Island",
-      "path": "asia/kuwait/failaka",
-      "prior_rank": 3669,
-      "prior_wins": 37,
-      "prior_n": 3
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -4.1281,
+      "prior_variance": 0.602669,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Daly City",
-      "path": "northamerica/unitedstates/california/daly_city",
-      "prior_rank": 7828,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.7686,
+      "prior_variance": 0.329264,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Redding",
-      "path": "northamerica/unitedstates/california/redding",
-      "prior_rank": 7164,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.7935,
+      "prior_variance": 0.286823,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Shahbuz",
-      "path": "europe/azerbaijan/naxcivan/shahbuz",
-      "prior_rank": 6466,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.7378,
+      "prior_variance": 0.295116,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Toms River",
-      "path": "northamerica/unitedstates/newjersey/toms_river",
-      "prior_rank": 6889,
-      "prior_wins": 17,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -4.3104,
+      "prior_variance": 0.392774,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Warsash",
-      "path": "europe/unitedkingdom/england/southampton/warsash",
-      "prior_rank": 6695,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -5.6259,
+      "prior_variance": 0.301415,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Woldingham",
-      "path": "europe/unitedkingdom/england/woldingham",
-      "prior_rank": 7723,
-      "prior_wins": 10,
-      "prior_n": 3
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -3.6021,
+      "prior_variance": 0.552096,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Clear Lake",
-      "path": "northamerica/unitedstates/california/northcoast/clearlake",
-      "prior_rank": 6110,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -7.4307,
+      "prior_variance": 0.442149,
+      "prior_n": 4
     }
   ]
 }

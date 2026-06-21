@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nordkapp_Skarsv%C3%A5g.JPG
 latitude: 71.112765
 loc_type: city
 longitude: 25.825204
-score: 0.54
+score: 0.44
 title: Skarsvåg
 type: location
 ---

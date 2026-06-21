@@ -5,7 +5,7 @@ done:
 latitude: 52.5905
 loc_type: city
 longitude: -3.8518
-score: 0.48
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Machynlleth
 title: Machynlleth

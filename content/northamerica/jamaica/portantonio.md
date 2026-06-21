@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Frenchman%27s_cove1.JPG
 latitude: 18.175
 loc_type: city
 longitude: -76.4525
-score: 0.65
+score: 0.51
 title: Port Antonio
 type: location
 ---

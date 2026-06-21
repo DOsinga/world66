@@ -5,7 +5,7 @@ latitude: 43.221216
 longitude: 76.927036
 title: Khan Tengri
 type: location
-score: 0.45
+score: 0.31
 loc_type: feature
 ---
 

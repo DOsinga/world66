@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Equator_Pontianak_Monument
 latitude: -0.02269
 loc_type: city
 longitude: 109.344749
-score: 0.41
+score: 0.35
 title: Pontianak
 type: location
 ---

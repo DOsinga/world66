@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SI_Oberes_Schloss_Giersber
 latitude: 50.8752
 loc_type: city
 longitude: 8.0256
-score: 0.37
+score: 0.33
 title: Siegen
 type: location
 ---

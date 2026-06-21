@@ -1,22 +1,24 @@
 ---
+address: Plaza de la Revolución, Vedado
+latitude: 23.131
+longitude: -82.389
+score: 8.2
+snippet: Havana's vast ceremonial square, home to the 137-metre José Martí Memorial
+  and the iconic steel silhouette of Che Guevara on the Ministry of the Interior facade.
+story: 'The towering José Martí Memorial in the centre of the plaza was completed
+  in 1958, the year before Castro came to power — it was built by the Batista government
+  as a monument to the 19th-century independence hero. The 137-metre star-shaped tower
+  and the 18-metre marble statue at its base were both intact and ready when the revolution
+  happened, and the new government simply repurposed the square for its own mass gatherings.
+  Fidel Castro gave his marathon speeches here to crowds of up to a million people.
+
+  '
+tags:
+- things_to_do
+- vedado
+- sight
 title: Plaza de la Revolución
 type: poi
-tags:
-  - things_to_do
-  - vedado
-  - sight
-address: Plaza de la Revolución, Vedado
-latitude: 23.1186
-longitude: -82.3861
-story: >
-  The towering José Martí Memorial in the centre of the plaza was completed
-  in 1958, the year before Castro came to power — it was built by the Batista
-  government as a monument to the 19th-century independence hero. The
-  137-metre star-shaped tower and the 18-metre marble statue at its base were
-  both intact and ready when the revolution happened, and the new government
-  simply repurposed the square for its own mass gatherings. Fidel Castro
-  gave his marathon speeches here to crowds of up to a million people.
-score: 6.5
 ---
 
 Plaza de la Revolución is the vast civic square where the Cuban government has staged its most important ceremonies and political gatherings for over sixty years. The plaza is enormous — capable of holding a million people — and deliberately overwhelming in scale. The José Martí Memorial rises 137 metres in its centre, the third-tallest structure in Cuba.

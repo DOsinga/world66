@@ -7,7 +7,7 @@ done:
 latitude: 36.7414
 loc_type: city
 longitude: -4.0946
-score: 0.53
+score: 0.45
 title: Torre del Mar
 type: location
 ---

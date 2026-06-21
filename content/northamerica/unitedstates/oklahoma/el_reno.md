@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Reno,_OK_USA_-_panorami
 latitude: 35.532198
 loc_type: city
 longitude: -97.955058
-score: 0.3
+score: 0.25
 title: El Reno
 type: location
 ---

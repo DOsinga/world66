@@ -4,7 +4,7 @@ done:
 latitude: 21.522462
 loc_type: city
 longitude: 70.460207
-score: 0.48
+score: 0.4
 title: Junagadh
 type: location
 ---

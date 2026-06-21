@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0912_Kirkenes_-_Hafen_(
 latitude: 69.727148
 loc_type: city
 longitude: 30.044897
-score: 0.53
+score: 0.46
 title: Kirkenes
 type: location
 ---

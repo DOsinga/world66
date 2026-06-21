@@ -1,200 +1,200 @@
 {
   "round": 438,
-  "timestamp": "2026-04-12T09:30:48",
+  "timestamp": "2026-06-13T19:35:20",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Chichen Itza",
-      "path": "northamerica/mexico/chichenitza",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.368,
+      "prior_variance": 1.62109,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Chichen Itza",
-      "path": "northamerica/mexico/yucatan/chichenitza",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.8623,
+      "prior_variance": 1.509993,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Cancun",
-      "path": "northamerica/mexico/yucatan/cancun",
-      "prior_mu": 23.7741,
-      "prior_sigma": 5.5102,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": -1.747,
+      "prior_variance": 1.568254,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Puerto Aventuras",
-      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
-      "prior_mu": 25.9926,
-      "prior_sigma": 5.4896,
-      "prior_n": 2
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -1.5942,
+      "prior_variance": 1.657661,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Puerto Aventuras",
-      "path": "northamerica/mexico/yucatan/puertoaventuras",
-      "prior_mu": 22.5298,
-      "prior_sigma": 5.9139,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.982,
+      "prior_variance": 2.364837,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Guanajuato",
-      "path": "northamerica/mexico/guanajuato",
-      "prior_mu": 25.7506,
-      "prior_sigma": 6.3396,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": -2.379,
+      "prior_variance": 1.564708,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Zacatecas",
-      "path": "northamerica/mexico/zacatecas",
-      "prior_mu": 22.5322,
-      "prior_sigma": 4.6906,
-      "prior_n": 2
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -2.512,
+      "prior_variance": 2.323733,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Xalapa",
-      "path": "northamerica/mexico/xalapa",
-      "prior_mu": 22.2558,
-      "prior_sigma": 5.7571,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -3.6525,
+      "prior_variance": 1.427099,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Acapulco",
-      "path": "northamerica/mexico/acapulco",
-      "prior_mu": 22.6381,
-      "prior_sigma": 5.938,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": -2.256,
+      "prior_variance": 2.274367,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Todos Santos",
-      "path": "northamerica/mexico/todos_santos",
-      "prior_mu": 22.03,
-      "prior_sigma": 4.8471,
-      "prior_n": 2
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -0.7152,
+      "prior_variance": 1.398472,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Cuatrocienegas",
-      "path": "northamerica/mexico/cuatrocienegas_de",
-      "prior_mu": 22.8629,
-      "prior_sigma": 5.9659,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -4.0187,
+      "prior_variance": 1.872631,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Bahia De Kino",
-      "path": "northamerica/mexico/bahiadekino",
-      "prior_mu": 21.5363,
-      "prior_sigma": 3.8763,
-      "prior_n": 3
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.8301,
+      "prior_variance": 1.578459,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Morelos",
-      "path": "northamerica/mexico/morelos",
-      "prior_mu": 21.1,
-      "prior_sigma": 4.3496,
-      "prior_n": 2
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -0.687,
+      "prior_variance": 4.019773,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Tehuacan",
-      "path": "northamerica/mexico/tehuacan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.1023,
+      "prior_variance": 1.469654,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Boca del Rio",
-      "path": "northamerica/mexico/bocadelrio",
-      "prior_mu": 21.6291,
-      "prior_sigma": 4.5602,
-      "prior_n": 2
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": 0.0672,
+      "prior_variance": 1.735167,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Colima",
-      "path": "northamerica/mexico/yucatan/colima",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.0438,
+      "prior_variance": 1.715425,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Puerto Escondido",
-      "path": "northamerica/mexico/yucatan/puertoescondido",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.7764,
+      "prior_variance": 1.984466,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Monterrey",
-      "path": "northamerica/mexico/yucatan/monterrey",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.9234,
+      "prior_variance": 2.134868,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Tehuacan",
-      "path": "northamerica/mexico/yucatan/tehuacan",
-      "prior_mu": 22.1871,
-      "prior_sigma": 5.772,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -4.0257,
+      "prior_variance": 2.691861,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Chiautempan",
-      "path": "northamerica/mexico/yucatan/chiautempan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.4576,
+      "prior_variance": 3.196087,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Viveros de la Loma",
-      "path": "northamerica/mexico/yucatan/viverosdelaloma",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -5.3143,
+      "prior_variance": 2.31995,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Anahuac",
-      "path": "northamerica/mexico/anahuac",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -3.7547,
+      "prior_variance": 1.563282,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Naucalpan",
-      "path": "northamerica/mexico/naucalpan",
-      "prior_mu": 22.59,
-      "prior_sigma": 5.5027,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -2.6479,
+      "prior_variance": 1.418417,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Naulcapan",
-      "path": "northamerica/mexico/naulcapan",
-      "prior_mu": 19.1652,
-      "prior_sigma": 4.9269,
-      "prior_n": 2
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -3.7967,
+      "prior_variance": 2.310641,
+      "prior_n": 1
     }
   ]
 }

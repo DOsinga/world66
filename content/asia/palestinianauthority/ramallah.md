@@ -6,7 +6,7 @@ latitude: 31.9038
 longitude: 35.2034
 title: Ramallah
 type: location
-score: 0.31
+score: 0.24
 loc_type: city
 ---
 

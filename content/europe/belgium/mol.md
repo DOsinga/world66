@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Herenhuis_%27De_Clercq%27_
 latitude: 51.184042
 loc_type: city
 longitude: 5.115527
-score: 0.35
+score: 0.3
 title: Mol
 type: location
 ---

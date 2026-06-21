@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoa_Binh_countryside.jpg
 latitude: 20.8133
 loc_type: city
 longitude: 105.3383
-score: 0.47
+score: 0.39
 title: Hoa Binh
 type: location
 ---

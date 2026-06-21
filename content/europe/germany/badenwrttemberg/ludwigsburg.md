@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ludwigsburg_Palace_Decembe
 latitude: 48.895394
 loc_type: city
 longitude: 9.189515
-score: 0.54
+score: 0.45
 title: Ludwigsburg
 type: location
 ---

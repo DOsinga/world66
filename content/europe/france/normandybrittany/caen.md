@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caen-2.JPG
 latitude: 49.18134
 loc_type: city
 longitude: -0.363561
-score: 0.58
+score: 0.52
 title: Caen
 type: location
 ---

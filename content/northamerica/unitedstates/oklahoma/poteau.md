@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LeFlore_County_Courthouse.
 latitude: 35.0568
 loc_type: city
 longitude: -94.62
-score: 0.29
+score: 0.23
 title: Poteau
 type: location
 ---

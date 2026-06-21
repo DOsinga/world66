@@ -6,7 +6,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: 35.2073
 longitude: -101.8313
-score: 0.41
+score: 0.33
 title: Amarillo
 type: location
 loc_type: city

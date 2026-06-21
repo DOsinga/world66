@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160627_020_021_Panorama_
 latitude: 64.253265
 loc_type: city
 longitude: -15.208044
-score: 0.65
+score: 0.49
 title: Höfn
 type: location
 ---

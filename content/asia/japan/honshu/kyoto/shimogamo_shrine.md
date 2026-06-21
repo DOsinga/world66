@@ -1,15 +1,16 @@
 ---
 latitude: 35.0388
 longitude: 135.7726
+score: 8.5
 snippet: One of Kyoto's two oldest shrines, surrounded by a remnant of primary forest
 tags:
 - things_to_do
 - shrine
 - unesco
 - sight
+- philosophers_walk
 title: Shimogamo Shrine
 type: poi
-score: 8.5
 ---
 
 Shimogamo Shrine (officially Kamomioya-jinja) stands where the Takano and Kamo rivers meet, set within the *Tadasu no Mori* — a small grove of giant zelkova and oak trees that is one of the few surviving fragments of the lowland forest that once covered the entire Kyoto basin. Together with its sister shrine Kamigamo to the north, the site predates the city itself: archaeological finds suggest religious activity here from the seventh century BCE.

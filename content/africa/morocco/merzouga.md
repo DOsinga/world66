@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brahim_FARAJI_-_SAHARA_is_
 latitude: 31.099917
 loc_type: city
 longitude: -4.014088
-score: 0.69
+score: 0.59
 title: Merzouga
 type: location
 ---

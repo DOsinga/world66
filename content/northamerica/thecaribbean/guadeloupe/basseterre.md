@@ -5,7 +5,7 @@ done:
 latitude: 16.0078
 loc_type: city
 longitude: -61.7068
-score: 0.56
+score: 0.47
 title: Basse-Terre
 type: location
 image: basseterre.jpg

@@ -5,7 +5,7 @@ done:
 latitude: -28.4837
 loc_type: city
 longitude: -48.7817
-score: 0.44
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Laguna,_Santa_Catarina
 - https://en.wikipedia.org/wiki/Anita_Garibaldi

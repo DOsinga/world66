@@ -5,7 +5,7 @@ done:
 latitude: 34.2996
 loc_type: city
 longitude: -108.1325
-score: 0.34
+score: 0.27
 title: Pie Town
 type: location
 ---

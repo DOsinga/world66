@@ -5,7 +5,7 @@ done:
 latitude: 51.8313
 loc_type: city
 longitude: 12.2442
-score: 0.43
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau
 title: Dessau

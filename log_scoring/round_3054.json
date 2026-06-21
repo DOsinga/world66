@@ -1,0 +1,200 @@
+{
+  "round": 3054,
+  "timestamp": "2026-06-13T22:25:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 6.1942,
+      "prior_variance": 0.162364,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Vieques",
+      "path": "northamerica/thecaribbean/puertorico/vieques",
+      "prior_score": 4.186,
+      "prior_variance": 0.195545,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.1908,
+      "prior_variance": 0.184874,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": -0.1475,
+      "prior_variance": 0.161156,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.2683,
+      "prior_variance": 0.130419,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/newwestminster",
+      "prior_score": -1.9402,
+      "prior_variance": 0.154732,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.1419,
+      "prior_variance": 0.141054,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.0619,
+      "prior_variance": 0.1383,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -5.4974,
+      "prior_variance": 0.177867,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.6987,
+      "prior_variance": 0.16584,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.8323,
+      "prior_variance": 0.187108,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -5.1342,
+      "prior_variance": 0.147478,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -6.4637,
+      "prior_variance": 0.238855,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -6.9863,
+      "prior_variance": 0.177662,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -6.0908,
+      "prior_variance": 0.171369,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.5267,
+      "prior_variance": 0.190401,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -11.4488,
+      "prior_variance": 0.463693,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -7.1019,
+      "prior_variance": 0.194828,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -6.1089,
+      "prior_variance": 0.161916,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -7.1915,
+      "prior_variance": 0.178696,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -7.0907,
+      "prior_variance": 0.190247,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_score": -9.046,
+      "prior_variance": 0.574836,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.3644,
+      "prior_variance": 0.28561,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -6.6681,
+      "prior_variance": 0.190681,
+      "prior_n": 9
+    }
+  ]
+}

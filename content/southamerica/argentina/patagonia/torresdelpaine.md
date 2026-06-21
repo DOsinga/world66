@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by
 latitude: -50.9423
 loc_type: city
 longitude: -73.4068
-score: 0.73
+score: 0.7
 title: Torres del Paine
 type: location
 ---

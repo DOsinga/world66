@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_of_Sorong.jpg
 latitude: -0.8634
 loc_type: city
 longitude: 131.2545
-score: 0.44
+score: 0.33
 title: Sorong
 type: location
 ---

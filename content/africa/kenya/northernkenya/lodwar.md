@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lodwar_Town_Loima_Hills_Su
 latitude: 3.1166
 loc_type: city
 longitude: 35.6023
-score: 0.28
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Lodwar
 - https://en.wikipedia.org/wiki/Lake_Turkana

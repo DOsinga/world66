@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_Alley_(Holly).jpg
 latitude: 42.791973
 loc_type: city
 longitude: -83.627725
-score: 0.31
+score: 0.29
 title: Holly
 type: location
 ---

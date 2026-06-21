@@ -1,0 +1,200 @@
+{
+  "round": 3215,
+  "timestamp": "2026-06-13T22:37:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 7.3493,
+      "prior_variance": 0.385156,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_score": 11.0289,
+      "prior_variance": 0.459036,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 3.6854,
+      "prior_variance": 0.138402,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 3.826,
+      "prior_variance": 0.120719,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 8.1974,
+      "prior_variance": 0.237066,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 3.853,
+      "prior_variance": 0.146371,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 6.0143,
+      "prior_variance": 0.19809,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 2.7079,
+      "prior_variance": 0.193057,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.3892,
+      "prior_variance": 0.13299,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 5.4243,
+      "prior_variance": 0.173515,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.463,
+      "prior_variance": 0.13954,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.6384,
+      "prior_variance": 0.147199,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 2.985,
+      "prior_variance": 0.151,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.87,
+      "prior_variance": 0.15779,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.9065,
+      "prior_variance": 0.117471,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 2.4475,
+      "prior_variance": 0.171566,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 2.9107,
+      "prior_variance": 0.135211,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.2565,
+      "prior_variance": 0.131604,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 1.8869,
+      "prior_variance": 0.157498,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 2.7643,
+      "prior_variance": 0.15538,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.5695,
+      "prior_variance": 0.129824,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.4353,
+      "prior_variance": 0.137819,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 1.0753,
+      "prior_variance": 0.128235,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.2692,
+      "prior_variance": 0.144501,
+      "prior_n": 10
+    }
+  ]
+}

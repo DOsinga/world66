@@ -10,7 +10,7 @@ latitude: 47.796129
 longitude: 3.570579
 title: Auxerre
 type: location
-score: 0.49
+score: 0.44
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daallo_Mountain_-_Erigavo,
 latitude: 10.61806
 loc_type: city
 longitude: 47.37
-score: 0.24
+score: 0.19
 title: Erigavo
 type: location
 ---

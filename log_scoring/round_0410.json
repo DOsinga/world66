@@ -1,200 +1,200 @@
 {
   "round": 410,
-  "timestamp": "2026-04-12T09:29:42",
+  "timestamp": "2026-06-13T19:34:00",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Taormina",
-      "path": "europe/italy/sicily/taormina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": -3.6715,
+      "prior_variance": 1.602981,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Positano",
-      "path": "europe/italy/campania/positano",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": -3.0224,
+      "prior_variance": 5.073465,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Siena",
-      "path": "europe/italy/tuscany/siena",
-      "prior_mu": 25.6478,
-      "prior_sigma": 6.0557,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": -3.5683,
+      "prior_variance": 2.321865,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Pienza",
-      "path": "europe/italy/tuscany/pienza",
-      "prior_mu": 28.2208,
-      "prior_sigma": 5.5046,
-      "prior_n": 2
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": -0.7703,
+      "prior_variance": 1.756584,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Manarola",
-      "path": "europe/italy/liguria/manarola",
-      "prior_mu": 24.284,
-      "prior_sigma": 5.0544,
-      "prior_n": 2
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -6.0925,
+      "prior_variance": 1.627779,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Arezzo",
-      "path": "europe/italy/tuscany/arezzo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": -2.6792,
+      "prior_variance": 1.835936,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Sicily",
-      "path": "europe/italy/sicily",
-      "prior_mu": 31.6788,
-      "prior_sigma": 6.4963,
-      "prior_n": 2
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -1.552,
+      "prior_variance": 3.500238,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Piazza Armerina",
-      "path": "europe/italy/sicily/piazza_armerina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -3.9526,
+      "prior_variance": 1.635611,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Portoferraio",
-      "path": "europe/italy/tuscany/elba/portoferraio",
-      "prior_mu": 23.4366,
-      "prior_sigma": 5.6464,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -2.1054,
+      "prior_variance": 1.399843,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Carloforte",
-      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -0.1539,
+      "prior_variance": 1.514685,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Agropoli",
-      "path": "europe/italy/campania/agropoli",
-      "prior_mu": 22.7152,
-      "prior_sigma": 5.5593,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -2.954,
+      "prior_variance": 1.876546,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Termoli",
-      "path": "europe/italy/molise/termoli",
-      "prior_mu": 22.9095,
-      "prior_sigma": 5.9719,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -5.5487,
+      "prior_variance": 1.589651,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Imperia",
-      "path": "europe/italy/liguria/imperia",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -3.4844,
+      "prior_variance": 1.380081,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Certaldo",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.3291,
+      "prior_variance": 1.585258,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Magione",
-      "path": "europe/italy/umbria/magione",
-      "prior_mu": 22.6068,
-      "prior_sigma": 5.9341,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -3.3094,
+      "prior_variance": 2.090872,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Fiuggi",
-      "path": "europe/italy/lazio/fiuggi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -6.1382,
+      "prior_variance": 1.561848,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Civita Castellana",
-      "path": "europe/italy/lazio/civita_castellana",
-      "prior_mu": 21.8982,
-      "prior_sigma": 4.8324,
-      "prior_n": 2
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -1.7442,
+      "prior_variance": 2.070235,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Torsero Park",
-      "path": "europe/italy/liguria/torseropark",
-      "prior_mu": 21.8088,
-      "prior_sigma": 4.6152,
-      "prior_n": 2
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/wairoa",
+      "prior_score": -2.4043,
+      "prior_variance": 1.348043,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Grosseto",
-      "path": "europe/italy/tuscany/grosseto",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -6.4153,
+      "prior_variance": 1.546223,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Civitavecchia",
-      "path": "europe/italy/lazio/civitavecchia",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -9.1789,
+      "prior_variance": 3.840895,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Amantea",
-      "path": "europe/italy/calabria/amantea",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -4.2581,
+      "prior_variance": 1.417589,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Porretta Terme",
-      "path": "europe/italy/emiliaromagna/porretta_terme",
-      "prior_mu": 22.8797,
-      "prior_sigma": 5.6748,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -4.8904,
+      "prior_variance": 1.478993,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Nasino",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -3.6444,
+      "prior_variance": 1.612306,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Latina",
-      "path": "europe/italy/lazio/latina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -7.696,
+      "prior_variance": 1.603951,
+      "prior_n": 1
     }
   ]
 }

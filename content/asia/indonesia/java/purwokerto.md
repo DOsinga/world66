@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alun_-_Alun_Purwokerto_%26
 latitude: -7.4195
 loc_type: city
 longitude: 109.2218
-score: 0.38
+score: 0.31
 title: Purwokerto
 type: location
 ---

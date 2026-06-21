@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Jamestown,_NY_(2)
 latitude: 42.097
 loc_type: city
 longitude: -79.2353
-score: 0.37
+score: 0.32
 title: Jamestown
 type: location
 ---

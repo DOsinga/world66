@@ -6,7 +6,7 @@ latitude: 59.996994
 longitude: 32.296246
 title: Staraya Ladoga
 type: location
-score: 0.4
+score: 0.36
 loc_type: city
 ---
 

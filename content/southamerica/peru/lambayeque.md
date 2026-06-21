@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_Lambayeque.jp
 latitude: -6.7011
 loc_type: city
 longitude: -79.9063
-score: 0.47
+score: 0.41
 title: Lambayeque
 type: location
 ---

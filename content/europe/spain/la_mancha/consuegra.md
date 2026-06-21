@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:(Castillo_de_la_Muela)_Con
 latitude: 39.460918
 loc_type: city
 longitude: -3.607079
-score: 0.55
+score: 0.5
 title: Consuegra
 type: location
 ---

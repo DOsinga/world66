@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 48.103079
 longitude: 13.150311
-score: 0.43
+score: 0.31
 title: Mattighofen
 type: location
 loc_type: city

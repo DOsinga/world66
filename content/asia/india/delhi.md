@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-04'
+  major_city_neighborhoods: '2026-06-13'
   poi_cleanup: '2026-04-21'
 image: delhi.jpg
 image_license: CC BY-SA 4.0
@@ -10,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg
 latitude: 28.613895
 loc_type: city
 longitude: 77.209006
-score: 0.58
+score: 0.49
 title: Delhi
 type: location
 ---

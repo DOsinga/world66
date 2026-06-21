@@ -5,7 +5,7 @@ done:
 latitude: 43.038648
 loc_type: city
 longitude: -87.909075
-score: 0.48
+score: 0.42
 title: Milwaukee
 type: location
 ---

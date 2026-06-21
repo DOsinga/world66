@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Rabat_(313877753
 latitude: 34.021845
 loc_type: city
 longitude: -6.840893
-score: 0.57
+score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Rabat
 - https://en.wikivoyage.org/wiki/Rabat

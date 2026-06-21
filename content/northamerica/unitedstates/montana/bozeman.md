@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_St,_Bozeman,_Montana_
 latitude: 45.679429
 loc_type: city
 longitude: -111.044047
-score: 0.56
+score: 0.47
 title: Bozeman
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 10.4877
 loc_type: city
 longitude: -67.6125
-score: 0.49
+score: 0.41
 title: Choroni
 type: location
 ---

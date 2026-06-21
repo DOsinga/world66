@@ -5,7 +5,7 @@ latitude: 10.077437
 longitude: -69.322229
 title: Barquisimeto
 type: location
-score: 0.25
+score: 0.24
 loc_type: city
 ---
 

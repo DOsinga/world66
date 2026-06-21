@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Culross,_Fife,_Scotland.JP
 latitude: 56.055663
 loc_type: city
 longitude: -3.62837
-score: 0.54
+score: 0.47
 title: Culross
 type: location
 ---

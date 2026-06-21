@@ -1,0 +1,200 @@
+{
+  "round": 3009,
+  "timestamp": "2026-06-13T22:22:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 10.6496,
+      "prior_variance": 0.358381,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 8.0308,
+      "prior_variance": 0.48478,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Niagara Falls",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier/niagarafalls",
+      "prior_score": 7.5434,
+      "prior_variance": 0.174356,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.4483,
+      "prior_variance": 0.166523,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 7.2125,
+      "prior_variance": 0.313918,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 9.1703,
+      "prior_variance": 0.309846,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 6.7259,
+      "prior_variance": 0.160734,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Canggu",
+      "path": "asia/indonesia/bali/canggu",
+      "prior_score": 7.0296,
+      "prior_variance": 0.213424,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 6.0729,
+      "prior_variance": 0.206793,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 6.3046,
+      "prior_variance": 0.177705,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.534,
+      "prior_variance": 0.18076,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.5555,
+      "prior_variance": 0.167074,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 5.8175,
+      "prior_variance": 0.202473,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.6368,
+      "prior_variance": 0.151249,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 3.1723,
+      "prior_variance": 0.165848,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.3812,
+      "prior_variance": 0.154708,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.7843,
+      "prior_variance": 0.151376,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 3.0802,
+      "prior_variance": 0.141766,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.3785,
+      "prior_variance": 0.142068,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 3.8187,
+      "prior_variance": 0.137537,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 5.2778,
+      "prior_variance": 0.219069,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 2.8308,
+      "prior_variance": 0.139947,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 2.079,
+      "prior_variance": 0.146374,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_score": -1.8417,
+      "prior_variance": 0.141541,
+      "prior_n": 9
+    }
+  ]
+}

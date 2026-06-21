@@ -6,10 +6,10 @@ latitude: 27.080492
 longitude: -80.139918
 title: Hobe Sound
 type: location
-score: 0.4
+score: 0.33
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Hobe_Sound,_Florida
+- https://en.wikipedia.org/wiki/Hobe_Sound,_Florida
 image: hobe_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:HobeSoundFlorida-sunset.jpg
 image_license: CC BY-SA 3.0

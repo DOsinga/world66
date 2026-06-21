@@ -5,7 +5,7 @@ latitude: 41.7536
 longitude: 12.2857
 title: Ostia Antica
 type: location
-score: 0.63
+score: 0.55
 loc_type: feature
 ---
 

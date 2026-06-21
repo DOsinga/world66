@@ -14,6 +14,7 @@ sources:
 - https://www.geodatos.net/en/coordinates/niger/dosso
 title: Dosso
 type: location
+score: 0.14
 ---
 
 Dosso is the first major stop east of [Niamey](/africa/niger/niamey), a Zarma town on the main road toward [Maradi](/africa/niger/maradi), [Zinder](/africa/niger/zinder), and the Nigerian border. Most travellers pass through in a hurry, but the town has a real historical centre: the [Palais du Zarmakoye](/africa/niger/dosso/palais_du_zarmakoye), the [Grande Mosquee de Dosso](/africa/niger/dosso/grande_mosquee_de_dosso), and the [Regional Museum Djermakoye](/africa/niger/dosso/regional_museum_djermakoye) sit close enough together to make a worthwhile pause.

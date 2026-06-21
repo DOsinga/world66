@@ -1,200 +1,200 @@
 {
   "round": 1897,
-  "timestamp": "2026-04-13T14:34:16",
+  "timestamp": "2026-06-13T20:59:42",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
-      "prior_score": 12.2053,
-      "prior_variance": 0.66152,
-      "prior_n": 4
-    },
-    {
-      "rank": 2,
-      "title": "Bhutan",
-      "path": "asia/bhutan",
-      "prior_score": 10.5689,
-      "prior_variance": 1.317652,
-      "prior_n": 5
-    },
-    {
-      "rank": 3,
-      "title": "Loire valley",
-      "path": "europe/france/centre/loirevalley",
-      "prior_score": 9.8051,
-      "prior_variance": 0.571151,
-      "prior_n": 4
-    },
-    {
-      "rank": 4,
-      "title": "Budapest",
-      "path": "europe/hungary/budapest",
-      "prior_score": 10.1358,
-      "prior_variance": 0.464584,
-      "prior_n": 7
-    },
-    {
-      "rank": 5,
-      "title": "Komodo Island",
-      "path": "asia/indonesia/komodo_island",
-      "prior_score": 9.2609,
-      "prior_variance": 0.513326,
-      "prior_n": 5
-    },
-    {
-      "rank": 6,
-      "title": "Kenya",
-      "path": "africa/kenya",
-      "prior_score": -2.3003,
-      "prior_variance": 0.517778,
-      "prior_n": 5
-    },
-    {
-      "rank": 7,
-      "title": "Rhodes",
-      "path": "europe/greece/rhodes",
-      "prior_score": 10.7478,
-      "prior_variance": 0.5701,
-      "prior_n": 4
-    },
-    {
-      "rank": 8,
-      "title": "Sanremo",
-      "path": "europe/italy/liguria/italianriviera/sanremo",
-      "prior_score": 5.5832,
-      "prior_variance": 0.327174,
-      "prior_n": 4
-    },
-    {
-      "rank": 9,
-      "title": "Toulouse",
-      "path": "europe/france/midi/languedoc/toulouse",
-      "prior_score": 4.4226,
-      "prior_variance": 0.308113,
-      "prior_n": 5
-    },
-    {
-      "rank": 10,
-      "title": "Christ Church",
-      "path": "northamerica/barbados/christchurch",
-      "prior_score": 3.4696,
-      "prior_variance": 0.193886,
-      "prior_n": 8
-    },
-    {
-      "rank": 11,
-      "title": "Sitia",
-      "path": "europe/greece/crete/sitia",
-      "prior_score": 4.3666,
-      "prior_variance": 0.315245,
-      "prior_n": 5
-    },
-    {
-      "rank": 12,
-      "title": "Baiona",
-      "path": "europe/spain/galicia/baiona",
-      "prior_score": 3.1874,
-      "prior_variance": 0.216619,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 7.6556,
+      "prior_variance": 0.253093,
       "prior_n": 6
     },
     {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 9.4528,
+      "prior_variance": 0.319213,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.5026,
+      "prior_variance": 0.201422,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.5688,
+      "prior_variance": 0.216194,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.3939,
+      "prior_variance": 0.32214,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.9434,
+      "prior_variance": 0.271863,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ouray",
+      "path": "northamerica/unitedstates/colorado/ouray",
+      "prior_score": 4.5029,
+      "prior_variance": 0.223476,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 0.9793,
+      "prior_variance": 0.224046,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.9652,
+      "prior_variance": 0.212827,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 2.2022,
+      "prior_variance": 0.270333,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": 0.2253,
+      "prior_variance": 0.248267,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": -0.058,
+      "prior_variance": 0.182443,
+      "prior_n": 7
+    },
+    {
       "rank": 13,
-      "title": "Tenby",
-      "path": "europe/unitedkingdom/wales/tenby",
-      "prior_score": 3.572,
-      "prior_variance": 0.300475,
-      "prior_n": 5
+      "title": "Jericho",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": -0.1781,
+      "prior_variance": 0.274074,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Bad Ischl",
-      "path": "europe/austria/badischl",
-      "prior_score": 3.2781,
-      "prior_variance": 0.269896,
-      "prior_n": 5
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -0.8002,
+      "prior_variance": 0.237811,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Wharfedale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
-      "prior_score": 2.5533,
-      "prior_variance": 0.263445,
-      "prior_n": 5
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.3085,
+      "prior_variance": 0.215339,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Lonavala",
-      "path": "asia/india/maharashtra/lonavala",
-      "prior_score": 1.4724,
-      "prior_variance": 0.337204,
-      "prior_n": 5
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": -0.3031,
+      "prior_variance": 0.255726,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Alto Mugello Area",
-      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
-      "prior_score": 0.1857,
-      "prior_variance": 0.267536,
-      "prior_n": 5
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": 0.3764,
+      "prior_variance": 0.247972,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Newport Beach",
-      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
-      "prior_score": 3.6661,
-      "prior_variance": 0.321703,
-      "prior_n": 5
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.8739,
+      "prior_variance": 0.241442,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Nevada City",
-      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
-      "prior_score": 0.5574,
-      "prior_variance": 0.252055,
-      "prior_n": 5
+      "title": "Paderborn",
+      "path": "europe/germany/northrhinewestphalia/paderborn",
+      "prior_score": -1.0096,
+      "prior_variance": 0.203052,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Placerville",
-      "path": "northamerica/unitedstates/california/placerville",
-      "prior_score": -0.3286,
-      "prior_variance": 0.27375,
-      "prior_n": 5
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.0383,
+      "prior_variance": 0.224135,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Lincoln",
-      "path": "northamerica/unitedstates/nebraska/lincoln",
-      "prior_score": -2.7506,
-      "prior_variance": 0.291862,
-      "prior_n": 5
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -2.3217,
+      "prior_variance": 0.287269,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Vanadzor",
-      "path": "europe/armenia/vanadzor",
-      "prior_score": -3.5151,
-      "prior_variance": 0.296419,
-      "prior_n": 4
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -1.1945,
+      "prior_variance": 0.29029,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Mopti",
-      "path": "africa/mali/mopti",
-      "prior_score": -1.9661,
-      "prior_variance": 0.423926,
-      "prior_n": 4
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -1.9707,
+      "prior_variance": 0.213132,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Joescom Int'l",
-      "path": "africa/nigeria/lagos/joescom_intl",
-      "prior_score": -6.9988,
-      "prior_variance": 0.401511,
-      "prior_n": 4
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.9921,
+      "prior_variance": 0.224607,
+      "prior_n": 6
     }
   ]
 }

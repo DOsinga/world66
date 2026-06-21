@@ -5,7 +5,7 @@ done:
 latitude: 54.9979
 loc_type: city
 longitude: -7.3213
-score: 0.56
+score: 0.46
 title: Derry / Londonderry
 type: location
 ---

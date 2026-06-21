@@ -15,7 +15,7 @@ quick_facts:
   Ancient Name: Arabia Felix ("Happy Arabia")
   Socotra Island: "A third of its plants exist nowhere else"
   Tower Houses of Shibam: "Up to 11 stories, built in the 16th century"
-score: 0.16
+score: 0.27
 loc_type: country
 ---
 

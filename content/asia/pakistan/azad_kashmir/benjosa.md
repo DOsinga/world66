@@ -5,7 +5,7 @@ done:
 latitude: 33.7833
 loc_type: city
 longitude: 73.7167
-score: 0.39
+score: 0.35
 title: Banjosa
 type: location
 ---

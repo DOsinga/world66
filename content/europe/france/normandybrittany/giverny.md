@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monet%27s_house_in_Giverny
 latitude: 49.076619
 loc_type: city
 longitude: 1.529028
-score: 0.7
+score: 0.6
 title: Giverny
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vila_Velha_ES_a_partir_do_
 latitude: -20.3297
 loc_type: city
 longitude: -40.292
-score: 0.4
+score: 0.34
 title: Vila Velha
 type: location
 ---

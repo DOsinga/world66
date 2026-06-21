@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Manti_Utah.jpg
 latitude: 39.268295
 loc_type: city
 longitude: -111.636862
-score: 0.4
+score: 0.33
 title: Manti
 type: location
 ---

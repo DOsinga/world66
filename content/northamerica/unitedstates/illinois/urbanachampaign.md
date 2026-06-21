@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%222010%22_University_of_I
 latitude: 40.1127
 loc_type: city
 longitude: -88.193
-score: 0.39
+score: 0.31
 title: Urbana-Champaign
 type: location
 ---

@@ -2,7 +2,6 @@
 title: "O'Malley's"
 type: poi
 snippet: "Irish pub with beer garden and live music"
-neighbourhood: "French Concession"
 address: "42 Taojiang Road, Xuhui District"
 latitude: 31.2123
 longitude: 121.4407

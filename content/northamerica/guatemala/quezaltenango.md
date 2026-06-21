@@ -5,7 +5,7 @@ done:
 latitude: 14.8333
 loc_type: city
 longitude: -91.5167
-score: 0.53
+score: 0.44
 title: Quetzaltenango (Xela)
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/13176024@N02/2398635598
 latitude: 12.368187
 loc_type: city
 longitude: -1.527094
-score: 0.33
+score: 0.25
 title: Ouagadougou
 type: location
 ---

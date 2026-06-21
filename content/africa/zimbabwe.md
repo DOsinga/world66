@@ -16,7 +16,7 @@ quick_facts:
   Hwange Elephants: "40,000+"
 title: Zimbabwe
 type: location
-score: 0.45
+score: 0.64
 loc_type: country
 ---
 

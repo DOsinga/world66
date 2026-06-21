@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:American_Queen_Memphis_TN_
 latitude: 35.146025
 loc_type: city
 longitude: -90.051764
-score: 0.55
+score: 0.49
 title: Memphis
 type: location
 ---

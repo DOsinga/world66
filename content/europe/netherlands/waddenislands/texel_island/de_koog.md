@@ -5,7 +5,7 @@ done:
 latitude: 53.099882
 loc_type: city
 longitude: 4.762646
-score: 0.51
+score: 0.44
 title: De Koog
 type: location
 image: de_koog.jpg

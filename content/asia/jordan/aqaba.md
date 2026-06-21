@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aqaba_BW_2.JPG
 latitude: 29.5267
 loc_type: city
 longitude: 35.0075
-score: 0.61
+score: 0.53
 title: Aqaba
 type: location
 ---

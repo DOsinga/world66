@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Oviedo_03.jpg
 latitude: 43.353345
 loc_type: city
 longitude: -5.87951
-score: 0.56
+score: 0.52
 title: Oviedo
 type: location
 ---

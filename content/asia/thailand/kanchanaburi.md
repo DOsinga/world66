@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanchanaburi_city_gate.JPG
 latitude: 14.0019
 loc_type: city
 longitude: 99.5319
-score: 0.64
+score: 0.55
 title: Kanchanaburi
 type: location
 ---

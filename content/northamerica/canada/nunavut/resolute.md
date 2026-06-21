@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ResoluteMontage.jpg
 latitude: 74.697029
 loc_type: city
 longitude: -94.840851
-score: 0.29
+score: 0.25
 title: Resolute
 type: location
 ---

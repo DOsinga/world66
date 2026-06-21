@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saptamatrikas_panel_deface
 latitude: 18.4386
 loc_type: city
 longitude: 79.1288
-score: 0.3
+score: 0.28
 title: Karimnagar
 type: location
 ---

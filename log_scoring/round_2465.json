@@ -1,0 +1,200 @@
+{
+  "round": 2465,
+  "timestamp": "2026-06-13T21:44:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.3788,
+      "prior_variance": 0.316962,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 4.1165,
+      "prior_variance": 0.261752,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 6.5386,
+      "prior_variance": 0.234963,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 1.9756,
+      "prior_variance": 0.185146,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 2.3985,
+      "prior_variance": 0.209315,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 1.8637,
+      "prior_variance": 0.186005,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 2.5808,
+      "prior_variance": 0.15547,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 2.9247,
+      "prior_variance": 0.179771,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.6229,
+      "prior_variance": 0.153701,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 1.9813,
+      "prior_variance": 0.153781,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.7864,
+      "prior_variance": 0.182742,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 1.6672,
+      "prior_variance": 0.175315,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 0.2991,
+      "prior_variance": 0.277014,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.5169,
+      "prior_variance": 0.209203,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.8999,
+      "prior_variance": 0.167038,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.3703,
+      "prior_variance": 0.171543,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.6314,
+      "prior_variance": 0.18935,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.4833,
+      "prior_variance": 0.203128,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 2.1406,
+      "prior_variance": 0.178748,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.2712,
+      "prior_variance": 0.197554,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 2.6152,
+      "prior_variance": 0.176603,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 2.5424,
+      "prior_variance": 0.188753,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.9471,
+      "prior_variance": 0.167377,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -6.0016,
+      "prior_variance": 0.256657,
+      "prior_n": 7
+    }
+  ]
+}

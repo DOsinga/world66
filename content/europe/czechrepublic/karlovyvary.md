@@ -5,7 +5,7 @@ done:
 latitude: 50.230622
 loc_type: city
 longitude: 12.870144
-score: 0.63
+score: 0.55
 title: Karlovy Vary
 type: location
 image: karlovyvary.jpg

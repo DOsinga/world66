@@ -1,0 +1,200 @@
+{
+  "round": 4257,
+  "timestamp": "2026-06-13T23:57:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 5.728,
+      "prior_variance": 0.11779,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 4.0859,
+      "prior_variance": 0.116371,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 4.8482,
+      "prior_variance": 0.11496,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 3.8704,
+      "prior_variance": 0.100497,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 1.8718,
+      "prior_variance": 0.104902,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 1.3224,
+      "prior_variance": 0.104425,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 2.8181,
+      "prior_variance": 0.095882,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": -0.0908,
+      "prior_variance": 0.098857,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -1.5759,
+      "prior_variance": 0.108398,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.3203,
+      "prior_variance": 0.112997,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -2.8855,
+      "prior_variance": 0.100524,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_score": -2.804,
+      "prior_variance": 0.095089,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -3.19,
+      "prior_variance": 0.109708,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_score": -2.5535,
+      "prior_variance": 0.089119,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -4.2295,
+      "prior_variance": 0.112367,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.0985,
+      "prior_variance": 0.10557,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.5908,
+      "prior_variance": 0.1076,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -4.6454,
+      "prior_variance": 0.114024,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -6.4699,
+      "prior_variance": 0.128521,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -4.6418,
+      "prior_variance": 0.118643,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.5711,
+      "prior_variance": 0.135001,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -6.9202,
+      "prior_variance": 0.155179,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -7.9257,
+      "prior_variance": 0.219806,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -12.9436,
+      "prior_variance": 0.701797,
+      "prior_n": 13
+    }
+  ]
+}

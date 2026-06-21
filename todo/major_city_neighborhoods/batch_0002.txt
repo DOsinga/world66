@@ -1,0 +1,5 @@
+asia/singapore
+europe/italy/lombardia/milan
+asia/vietnam/hochiminhcity
+europe/poland/krakow
+asia/taiwan/taipei

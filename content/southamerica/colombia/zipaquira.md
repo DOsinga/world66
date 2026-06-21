@@ -5,7 +5,7 @@ done:
 latitude: 5.023475
 loc_type: city
 longitude: -74.003982
-score: 0.59
+score: 0.5
 title: Zipaquira
 type: location
 ---

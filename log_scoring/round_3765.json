@@ -1,0 +1,200 @@
+{
+  "round": 3765,
+  "timestamp": "2026-06-13T23:18:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 3.6932,
+      "prior_variance": 0.121928,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 3.175,
+      "prior_variance": 0.131059,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 2.1773,
+      "prior_variance": 0.121021,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 2.557,
+      "prior_variance": 0.108315,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 1.7155,
+      "prior_variance": 0.106362,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.959,
+      "prior_variance": 0.112445,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.3151,
+      "prior_variance": 0.10422,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 4.3283,
+      "prior_variance": 0.119559,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.8217,
+      "prior_variance": 0.119987,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.6527,
+      "prior_variance": 0.125316,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.6415,
+      "prior_variance": 0.100249,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 0.9458,
+      "prior_variance": 0.108093,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.1443,
+      "prior_variance": 0.112672,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.8895,
+      "prior_variance": 0.109882,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.5653,
+      "prior_variance": 0.119146,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 1.0842,
+      "prior_variance": 0.100493,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.7528,
+      "prior_variance": 0.11243,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 0.5374,
+      "prior_variance": 0.116552,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.6841,
+      "prior_variance": 0.106791,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.0916,
+      "prior_variance": 0.128045,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.2223,
+      "prior_variance": 0.115512,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.6367,
+      "prior_variance": 0.098975,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.0925,
+      "prior_variance": 0.100259,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -4.5509,
+      "prior_variance": 0.116013,
+      "prior_n": 12
+    }
+  ]
+}

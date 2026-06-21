@@ -7,7 +7,7 @@ done:
 latitude: 20.6357
 loc_type: city
 longitude: 96.5669
-score: 0.47
+score: 0.45
 title: Kalaw
 type: location
 ---

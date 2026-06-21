@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-08
 latitude: 45.7828
 longitude: 14.2043
-score: 0.65
+score: 0.6
 title: Postojna Caves
 type: location
 loc_type: feature

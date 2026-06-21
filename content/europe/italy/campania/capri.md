@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1960_Capri_Marina.jpg
 latitude: 40.548843
 loc_type: city
 longitude: 14.228371
-score: 0.77
+score: 0.69
 title: Capri
 type: location
 ---

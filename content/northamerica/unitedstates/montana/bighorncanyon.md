@@ -5,7 +5,7 @@ latitude: 45.0886
 longitude: -108.1915
 title: Bighorn Canyon
 type: location
-score: 0.5
+score: 0.44
 loc_type: feature
 ---
 

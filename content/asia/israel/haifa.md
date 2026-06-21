@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Hanging_Gardens_of_Hai
 latitude: 32.819122
 loc_type: city
 longitude: 34.998386
-score: 0.58
+score: 0.52
 title: Haifa
 type: location
 ---

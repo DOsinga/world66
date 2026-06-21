@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BasothoHatShop.jpg
 latitude: -29.310054
 loc_type: city
 longitude: 27.478222
-score: 0.35
+score: 0.3
 title: Maseru
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big-Penguin-20070420-035.j
 latitude: -41.115104
 loc_type: city
 longitude: 146.07248
-score: 0.36
+score: 0.32
 title: Penguin
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duomo_di_Pienza_(1).jpg
 latitude: 43.076549
 loc_type: city
 longitude: 11.678908
-score: 0.74
+score: 0.59
 title: Pienza
 type: location
 ---

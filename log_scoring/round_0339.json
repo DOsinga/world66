@@ -1,200 +1,200 @@
 {
   "round": 339,
-  "timestamp": "2026-04-12T09:12:27",
+  "timestamp": "2026-06-13T19:30:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Argolis",
-      "path": "europe/greece/argolis",
-      "prior_mu": 24.1468,
-      "prior_sigma": 5.0808,
-      "prior_n": 2
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 13.925,
+      "prior_variance": 7.699498,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Mijas",
-      "path": "europe/spain/andalucia/mijas",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.6244,
+      "prior_variance": 2.884439,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Daisetsuzan",
-      "path": "asia/japan/hokkaido/daisetsuzan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 3.2965,
+      "prior_variance": 1.810027,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Weimar",
-      "path": "europe/germany/thuringia/weimar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 3.6804,
+      "prior_variance": 1.840246,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Gr\u00e9oli\u00e8res",
-      "path": "europe/france/midi/cotedazur/greolieres",
-      "prior_mu": 22.6875,
-      "prior_sigma": 5.9442,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 3.4652,
+      "prior_variance": 1.980649,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Prachuap Khiri Khan",
-      "path": "asia/thailand/prachuap_khiri_kha",
-      "prior_mu": 22.8415,
-      "prior_sigma": 5.7164,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": 0.2544,
+      "prior_variance": 1.692079,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Scarborough",
-      "path": "europe/unitedkingdom/england/scarborough",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -4.6506,
+      "prior_variance": 1.758404,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Taiping",
-      "path": "asia/malaysia/taiping",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -2.2258,
+      "prior_variance": 1.918344,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Ambrym",
-      "path": "australiaandpacific/vanuatu/ambrym",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -1.1476,
+      "prior_variance": 1.614046,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Teramo",
-      "path": "europe/italy/abruzzo/teramo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -2.1235,
+      "prior_variance": 1.599976,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Hanko",
-      "path": "europe/finland/hanko",
-      "prior_mu": 21.4523,
-      "prior_sigma": 4.7123,
-      "prior_n": 2
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.6571,
+      "prior_variance": 1.615734,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Uzhhorod",
-      "path": "europe/ukraine/uzhgorod",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -1.3246,
+      "prior_variance": 1.740567,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "S\u00e1toralja\u00fajhely",
-      "path": "europe/hungary/satoraljaujhely",
-      "prior_mu": 22.7223,
-      "prior_sigma": 5.9498,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -3.4449,
+      "prior_variance": 1.662264,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Corner Brook",
-      "path": "northamerica/canada/newfoundland/cornerbrook",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -7.0718,
+      "prior_variance": 1.349168,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Odder",
-      "path": "europe/denmark/odder",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -7.0156,
+      "prior_variance": 1.969429,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Concord",
-      "path": "northamerica/unitedstates/newhampshire/concord",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanrafael",
+      "prior_score": -5.5295,
+      "prior_variance": 1.767835,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Winter Haven",
-      "path": "northamerica/unitedstates/florida/winterhaven",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -14.2278,
+      "prior_variance": 7.185676,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Genk",
-      "path": "europe/belgium/genk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -11.7864,
+      "prior_variance": 8.459218,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Stourbridge",
-      "path": "europe/unitedkingdom/england/stourbridge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -7.0056,
+      "prior_variance": 1.922446,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Gronau",
-      "path": "europe/germany/northrhinewestphalia/gronau",
-      "prior_mu": 22.5282,
-      "prior_sigma": 5.9137,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -8.7755,
+      "prior_variance": 2.642401,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Foster City",
-      "path": "northamerica/unitedstates/california/foster_city",
-      "prior_mu": 22.7456,
-      "prior_sigma": 5.7141,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -11.8938,
+      "prior_variance": 3.24398,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Warrens",
-      "path": "northamerica/unitedstates/wisconsin/warrens",
-      "prior_mu": 22.8066,
-      "prior_sigma": 5.7154,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -6.6251,
+      "prior_variance": 1.435043,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Cherepovets",
-      "path": "europe/russia/cherepovets",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -11.8474,
+      "prior_variance": 8.422756,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Wynnewood",
-      "path": "northamerica/unitedstates/oklahoma/wynnewood",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -13.0027,
+      "prior_variance": 7.775922,
+      "prior_n": 1
     }
   ]
 }

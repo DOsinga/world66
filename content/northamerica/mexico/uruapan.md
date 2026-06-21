@@ -8,7 +8,7 @@ image_attribution: Jaec on Flickr
 latitude: 19.4147
 loc_type: city
 longitude: -102.0523
-score: 0.41
+score: 0.35
 title: Uruapan
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burgos_city_view_facing_so
 latitude: 42.3439
 loc_type: city
 longitude: -3.697
-score: 0.62
+score: 0.54
 title: Burgos
 type: location
 ---

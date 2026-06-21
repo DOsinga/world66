@@ -5,7 +5,7 @@ done:
 latitude: 18.4274
 loc_type: city
 longitude: -68.9728
-score: 0.53
+score: 0.47
 title: La Romana
 type: location
 image: la_romana.jpg

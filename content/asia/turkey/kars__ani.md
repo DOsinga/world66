@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kars,_Turkey.jpg
 latitude: 40.616453
 loc_type: city
 longitude: 43.281584
-score: 0.57
+score: 0.49
 title: Kars & Ani
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 68.421398
 loc_type: city
 longitude: 27.417764
-score: 0.53
+score: 0.5
 title: Saariselkä
 type: location
 ---

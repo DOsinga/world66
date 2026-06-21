@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%
 latitude: 37.9395
 loc_type: feature
 longitude: 27.3393
-score: 0.73
+score: 0.68
 sources:
 - https://en.wikipedia.org/wiki/Ephesus
 - https://en.wikipedia.org/wiki/Library_of_Celsus

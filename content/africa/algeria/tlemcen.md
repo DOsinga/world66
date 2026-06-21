@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grande_Mosqu%C3%A9e_de_Tle
 latitude: 34.8818
 loc_type: city
 longitude: -1.3167
-score: 0.45
+score: 0.38
 title: Tlemcen
 type: location
 ---

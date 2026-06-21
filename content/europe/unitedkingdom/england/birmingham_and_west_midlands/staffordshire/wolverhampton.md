@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wolverhampton_Art_Gallery_
 latitude: 52.584765
 loc_type: city
 longitude: -2.127567
-score: 0.36
+score: 0.3
 title: Wolverhampton
 type: location
 ---

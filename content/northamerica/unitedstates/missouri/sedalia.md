@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160711_63_Sedalia,_Misso
 latitude: 38.7098
 loc_type: city
 longitude: -93.2296
-score: 0.32
+score: 0.3
 title: Sedalia
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chaumont_sur_Loire_chateau
 latitude: 47.4791
 loc_type: city
 longitude: 1.1818
-score: 0.6
+score: 0.53
 title: Chaumont-sur-Loire
 type: location
 ---

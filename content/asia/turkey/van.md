@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhtamar_Island_on_Lake_Va
 latitude: 38.32496
 loc_type: city
 longitude: 43.658983
-score: 0.47
+score: 0.39
 title: Van
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Purmerend,_de_Melkwegbrug_
 latitude: 52.5025
 loc_type: city
 longitude: 4.9615
-score: 0.37
+score: 0.34
 title: Purmerend
 type: location
 ---

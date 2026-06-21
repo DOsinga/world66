@@ -13,7 +13,7 @@ quick_facts:
   Language: "Portuguese (Creole spoken)"
   Islands: "10"
   Diaspora: Larger than population
-score: 0.62
+score: 0.59
 loc_type: country
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 31.3547
 loc_type: city
 longitude: 34.3088
-score: 0.11
+score: 0.0
 title: Gaza Strip
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 13.580982
 loc_type: city
 longitude: -2.417699
-score: 0.26
+score: 0.18
 title: Ouahigouya
 type: location
 ---

@@ -1,4 +1,5 @@
 ---
+score: 0.47
 title: "Turks and Caicos Islands"
 type: location
 loc_type: country

@@ -1,200 +1,200 @@
 {
   "round": 1815,
-  "timestamp": "2026-04-13T10:54:01",
+  "timestamp": "2026-06-13T20:54:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Busan",
-      "path": "asia/southkorea/pusan",
-      "prior_score": 7.4436,
-      "prior_variance": 0.405993,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 8.9379,
+      "prior_variance": 0.491151,
       "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Ninh Binh",
-      "path": "asia/vietnam/ninh_binh",
-      "prior_score": 6.5333,
-      "prior_variance": 0.528378,
-      "prior_n": 4
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 9.7956,
+      "prior_variance": 0.37539,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Wanaka",
-      "path": "australiaandpacific/newzealand/otago/wanaka",
-      "prior_score": 7.1872,
-      "prior_variance": 0.412513,
-      "prior_n": 4
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 9.6096,
+      "prior_variance": 0.372153,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Cephalonia",
-      "path": "europe/greece/cephalonia",
-      "prior_score": 7.7101,
-      "prior_variance": 0.443456,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.8587,
+      "prior_variance": 0.280569,
       "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Furore",
-      "path": "europe/italy/campania/amalfi/furore",
-      "prior_score": 6.6529,
-      "prior_variance": 0.417235,
-      "prior_n": 4
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 1.6033,
+      "prior_variance": 0.304405,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Winelands",
-      "path": "africa/southafrica/winelands",
-      "prior_score": 6.0428,
-      "prior_variance": 0.346732,
-      "prior_n": 4
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 0.3771,
+      "prior_variance": 0.212999,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "La Paz",
-      "path": "southamerica/bolivia/lapaz",
-      "prior_score": 4.2588,
-      "prior_variance": 0.336107,
-      "prior_n": 4
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.0562,
+      "prior_variance": 0.201726,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Palm Cove",
-      "path": "australiaandpacific/australia/queensland/palmcove",
-      "prior_score": 4.7207,
-      "prior_variance": 0.289029,
-      "prior_n": 5
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.9353,
+      "prior_variance": 0.21299,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Slovakia",
-      "path": "europe/slovakia",
-      "prior_score": 3.6772,
-      "prior_variance": 0.247559,
-      "prior_n": 5
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -0.7079,
+      "prior_variance": 0.215437,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "East Frisian Islands",
-      "path": "europe/germany/lowersaxony/east_frisian_islan",
-      "prior_score": 1.8475,
-      "prior_variance": 0.317871,
-      "prior_n": 4
-    },
-    {
-      "rank": 11,
-      "title": "Malealea",
-      "path": "africa/lesotho/malealea",
-      "prior_score": -1.7069,
-      "prior_variance": 0.287678,
-      "prior_n": 4
-    },
-    {
-      "rank": 12,
-      "title": "Saly",
-      "path": "africa/senegal/saly",
-      "prior_score": 0.2081,
-      "prior_variance": 0.297454,
-      "prior_n": 4
-    },
-    {
-      "rank": 13,
-      "title": "Luperon",
-      "path": "northamerica/dominicanrepublic/luperon",
-      "prior_score": -2.1005,
-      "prior_variance": 0.321957,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -1.2361,
+      "prior_variance": 0.390323,
       "prior_n": 5
     },
     {
+      "rank": 11,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -1.1897,
+      "prior_variance": 0.264911,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 2.2557,
+      "prior_variance": 0.34332,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_score": -3.634,
+      "prior_variance": 0.263696,
+      "prior_n": 6
+    },
+    {
       "rank": 14,
-      "title": "mambucal",
-      "path": "asia/philippines/mambucal",
-      "prior_score": -3.6164,
-      "prior_variance": 0.296884,
-      "prior_n": 4
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -5.5543,
+      "prior_variance": 0.299082,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Fort Worth",
-      "path": "northamerica/unitedstates/texas/fort_worth",
-      "prior_score": -1.5544,
-      "prior_variance": 0.364594,
-      "prior_n": 4
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -5.9752,
+      "prior_variance": 0.299692,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Brazzaville",
-      "path": "africa/congobrazzaville/brazzaville",
-      "prior_score": -2.6759,
-      "prior_variance": 0.278922,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -7.0457,
+      "prior_variance": 0.35627,
       "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Medora",
-      "path": "northamerica/unitedstates/northdakota/medora",
-      "prior_score": -1.0961,
-      "prior_variance": 0.327654,
-      "prior_n": 4
-    },
-    {
-      "rank": 18,
-      "title": "Victor",
-      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
-      "prior_score": -0.057,
-      "prior_variance": 0.296087,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Aalst",
-      "path": "europe/belgium/aalst",
-      "prior_score": -2.0097,
-      "prior_variance": 0.185656,
-      "prior_n": 7
-    },
-    {
-      "rank": 20,
-      "title": "Lenkaran",
-      "path": "europe/azerbaijan/baku/lenkaran",
-      "prior_score": -4.8388,
-      "prior_variance": 0.262658,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -5.6581,
+      "prior_variance": 0.260666,
       "prior_n": 5
     },
     {
+      "rank": 18,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.1502,
+      "prior_variance": 0.272023,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.7367,
+      "prior_variance": 0.290146,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Elk City",
+      "path": "northamerica/unitedstates/oklahoma/elk_city",
+      "prior_score": -6.1794,
+      "prior_variance": 0.287892,
+      "prior_n": 6
+    },
+    {
       "rank": 21,
-      "title": "Monroe",
-      "path": "northamerica/unitedstates/louisiana/monroe",
-      "prior_score": -4.9501,
-      "prior_variance": 0.360886,
-      "prior_n": 4
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -6.6016,
+      "prior_variance": 0.496849,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Wakefield",
-      "path": "europe/unitedkingdom/england/wakefield",
-      "prior_score": -3.0023,
-      "prior_variance": 0.313955,
-      "prior_n": 4
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -6.8397,
+      "prior_variance": 0.291783,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "New Brunswick",
-      "path": "northamerica/unitedstates/newjersey/newbrunswick",
-      "prior_score": -3.966,
-      "prior_variance": 0.361755,
-      "prior_n": 4
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -8.5087,
+      "prior_variance": 0.409927,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Chandler",
-      "path": "northamerica/unitedstates/oklahoma/chandler",
-      "prior_score": -6.9637,
-      "prior_variance": 0.382624,
-      "prior_n": 4
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -6.7107,
+      "prior_variance": 0.412111,
+      "prior_n": 5
     }
   ]
 }

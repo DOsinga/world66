@@ -6,14 +6,14 @@ longitude: 119.980104
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-01'
-score: 0.36
+score: 0.31
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Iba,_Zambales
-  - https://en.wikipedia.org/wiki/Iba_Cathedral
-  - https://en.wikipedia.org/wiki/Zambales_Provincial_Building
-  - https://en.wikipedia.org/wiki/Iba_Airport
-  - https://en.wikipedia.org/wiki/Iba_Airfield
+- https://en.wikipedia.org/wiki/Iba,_Zambales
+- https://en.wikipedia.org/wiki/Iba_Cathedral
+- https://en.wikipedia.org/wiki/Zambales_Provincial_Building
+- https://en.wikipedia.org/wiki/Iba_Airport
+- https://en.wikipedia.org/wiki/Iba_Airfield
 ---
 
 Iba is the quiet capital of Zambales province, a small coastal town about 200 km northwest of Manila along the South China Sea. It is not a famous destination, but Filipinos know it for its 12 km of clean, undeveloped grey-sand beaches, its clear, unpolluted waters, and the prized **Dinamulag mangoes** that ripen in April and May — some of the sweetest in the country.

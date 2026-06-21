@@ -5,7 +5,7 @@ done:
 latitude: 11.998551
 loc_type: city
 longitude: 120.205161
-score: 0.73
+score: 0.66
 title: Coron
 type: location
 ---

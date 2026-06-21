@@ -5,7 +5,7 @@ done:
 latitude: 36.6744
 loc_type: city
 longitude: -121.655
-score: 0.38
+score: 0.3
 title: Salinas
 type: location
 image: salinas.jpg

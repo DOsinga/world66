@@ -1,200 +1,200 @@
 {
   "round": 2339,
-  "timestamp": "2026-04-13T16:32:35",
+  "timestamp": "2026-06-13T21:35:03",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Maui",
-      "path": "northamerica/unitedstates/hawaii/maui",
-      "prior_score": 10.7719,
-      "prior_variance": 0.383046,
-      "prior_n": 6
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 13.6612,
+      "prior_variance": 0.521161,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Colca Canyon",
-      "path": "southamerica/peru/colca_canyon",
-      "prior_score": 7.8006,
-      "prior_variance": 0.44583,
-      "prior_n": 6
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.9055,
+      "prior_variance": 0.383493,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Jaisalmer",
-      "path": "asia/india/rajasthan/jaisalmer",
-      "prior_score": 7.4398,
-      "prior_variance": 0.412772,
-      "prior_n": 6
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 11.3501,
+      "prior_variance": 0.498912,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Oxford",
-      "path": "europe/unitedkingdom/england/south_east/oxford",
-      "prior_score": 7.2335,
-      "prior_variance": 0.356754,
-      "prior_n": 6
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 3.5012,
+      "prior_variance": 0.277096,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Ouro Preto",
-      "path": "southamerica/brazil/ouropreto",
-      "prior_score": 6.1605,
-      "prior_variance": 0.227396,
-      "prior_n": 6
-    },
-    {
-      "rank": 6,
-      "title": "Miyako Island",
-      "path": "asia/japan/ryukyuislands/miyakoisland",
-      "prior_score": 8.1663,
-      "prior_variance": 0.389971,
-      "prior_n": 6
-    },
-    {
-      "rank": 7,
-      "title": "Dalat",
-      "path": "asia/vietnam/dalat",
-      "prior_score": 4.5806,
-      "prior_variance": 0.3173,
-      "prior_n": 6
-    },
-    {
-      "rank": 8,
-      "title": "Urbino",
-      "path": "europe/italy/marche/urbino",
-      "prior_score": 4.5964,
-      "prior_variance": 0.229345,
-      "prior_n": 6
-    },
-    {
-      "rank": 9,
-      "title": "Unawatuna",
-      "path": "asia/srilanka/unawatuna",
-      "prior_score": 4.4898,
-      "prior_variance": 0.211795,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 3.1157,
+      "prior_variance": 0.213586,
       "prior_n": 8
     },
     {
+      "rank": 6,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.4118,
+      "prior_variance": 0.215072,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 5.4006,
+      "prior_variance": 0.229477,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 4.5607,
+      "prior_variance": 0.256446,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Gili Meno",
+      "path": "asia/indonesia/lombok/giliislands/gili_meno",
+      "prior_score": 4.7912,
+      "prior_variance": 0.223335,
+      "prior_n": 7
+    },
+    {
       "rank": 10,
-      "title": "Brisbane",
-      "path": "australiaandpacific/australia/queensland/brisbane",
-      "prior_score": 3.9518,
-      "prior_variance": 0.270904,
-      "prior_n": 6
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.3689,
+      "prior_variance": 0.17503,
+      "prior_n": 8
     },
     {
       "rank": 11,
-      "title": "Gipuzkoa",
-      "path": "europe/spain/gipuzkoa",
-      "prior_score": 3.7038,
-      "prior_variance": 0.260672,
-      "prior_n": 6
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton",
+      "prior_score": 1.5685,
+      "prior_variance": 0.183535,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "Iona",
-      "path": "europe/unitedkingdom/scotland/iona",
-      "prior_score": 4.0242,
-      "prior_variance": 0.201947,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 3.8398,
+      "prior_variance": 0.215245,
       "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Gokarna",
-      "path": "asia/india/karnataka/gokarna",
-      "prior_score": 2.6862,
-      "prior_variance": 0.247444,
-      "prior_n": 6
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 2.1166,
+      "prior_variance": 0.200085,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Ooty",
-      "path": "asia/india/tamilnadu/ooty",
-      "prior_score": 2.7676,
-      "prior_variance": 0.251927,
-      "prior_n": 6
+      "title": "Silverton",
+      "path": "northamerica/unitedstates/colorado/silverton",
+      "prior_score": 2.7659,
+      "prior_variance": 0.20749,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Sanya",
-      "path": "asia/china/hainanisland/sanya",
-      "prior_score": 2.3656,
-      "prior_variance": 0.215681,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.8902,
+      "prior_variance": 0.211857,
       "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Aride Island",
-      "path": "africa/seychelles/arideisland",
-      "prior_score": 1.0289,
-      "prior_variance": 0.197948,
-      "prior_n": 7
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.2417,
+      "prior_variance": 0.171464,
+      "prior_n": 8
     },
     {
       "rank": 17,
-      "title": "Waterford",
-      "path": "europe/ireland/waterford",
-      "prior_score": 1.3066,
-      "prior_variance": 0.196392,
-      "prior_n": 6
-    },
-    {
-      "rank": 18,
-      "title": "Keystone",
-      "path": "northamerica/unitedstates/colorado/keystone",
-      "prior_score": 1.5207,
-      "prior_variance": 0.285366,
-      "prior_n": 6
-    },
-    {
-      "rank": 19,
-      "title": "Siros",
-      "path": "europe/greece/siros",
-      "prior_score": 2.7787,
-      "prior_variance": 0.221213,
-      "prior_n": 6
-    },
-    {
-      "rank": 20,
-      "title": "F\u00e1mjin",
-      "path": "europe/faroeislands/suuroy/fmjin",
-      "prior_score": 0.5758,
-      "prior_variance": 0.242818,
-      "prior_n": 6
-    },
-    {
-      "rank": 21,
-      "title": "Limbe",
-      "path": "africa/cameroon/limbe",
-      "prior_score": -2.4977,
-      "prior_variance": 0.225014,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 3.7663,
+      "prior_variance": 0.222223,
       "prior_n": 7
     },
     {
+      "rank": 18,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.4725,
+      "prior_variance": 0.179521,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 5.1726,
+      "prior_variance": 0.191075,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 5.3763,
+      "prior_variance": 0.223014,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.4426,
+      "prior_variance": 0.16214,
+      "prior_n": 8
+    },
+    {
       "rank": 22,
-      "title": "Miercurea Ciuc",
-      "path": "europe/romania/miercureaciuc",
-      "prior_score": -1.9558,
-      "prior_variance": 0.248998,
-      "prior_n": 6
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 1.596,
+      "prior_variance": 0.156869,
+      "prior_n": 8
     },
     {
       "rank": 23,
-      "title": "Aztec",
-      "path": "northamerica/unitedstates/newmexico/aztec",
-      "prior_score": -2.1227,
-      "prior_variance": 0.27707,
-      "prior_n": 6
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.7937,
+      "prior_variance": 0.187395,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Plattsburgh",
-      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
-      "prior_score": -3.5756,
-      "prior_variance": 0.244679,
-      "prior_n": 6
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.5578,
+      "prior_variance": 0.169106,
+      "prior_n": 8
     }
   ]
 }

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_4801_Dolphins_-_Bay_of_
 latitude: -35.255009
 loc_type: city
 longitude: 174.162673
-score: 0.69
+score: 0.6
 title: Bay of Islands
 type: location
 ---

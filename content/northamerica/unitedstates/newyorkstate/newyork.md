@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-21'
+  major_city_neighborhoods: '2026-06-14'
   poi_cleanup: '2026-04-19'
 image: newyork.jpg
 image_attribution: Dietmar Rabich
@@ -11,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_U
 latitude: 40.712728
 loc_type: city
 longitude: -74.006015
-score: 0.88
+score: 0.81
 title: New York
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Along_Boulevard_de_Bahia_-
 latitude: 18.502438
 loc_type: city
 longitude: -88.295795
-score: 0.43
+score: 0.38
 title: Chetumal
 type: location
 ---

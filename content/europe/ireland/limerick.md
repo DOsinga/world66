@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Limerick,_Ireland_-_Street
 latitude: 52.6638
 loc_type: city
 longitude: -8.6267
-score: 0.54
+score: 0.47
 title: Limerick
 type: location
 ---

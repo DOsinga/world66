@@ -5,7 +5,7 @@ done:
 latitude: 40.157132
 loc_type: city
 longitude: -76.307162
-score: 0.44
+score: 0.37
 title: Lititz
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 10.785396
 loc_type: city
 longitude: -0.848732
-score: 0.35
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Bolgatanga
 title: Bolgatanga

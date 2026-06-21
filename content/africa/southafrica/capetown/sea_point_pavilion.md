@@ -1,8 +1,7 @@
 ---
-category: Pool
 latitude: -33.9152
 longitude: 18.388
-neighbourhood: Sea Point
+score: 7.4
 scores:
   activities: 0.578
   sight: 0.6216
@@ -15,7 +14,6 @@ tags:
 - sea_point
 title: Sea Point Pavilion Pools
 type: poi
-score: 7.4
 ---
 
 The Sea Point Pavilion is a complex of four heated outdoor saltwater pools on the Atlantic seafront, including a 50-metre Olympic-size lap pool and a children's pool. It dates from the early twentieth century and has been a Cape Town summer institution for generations of locals.

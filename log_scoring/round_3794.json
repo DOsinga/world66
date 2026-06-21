@@ -1,0 +1,200 @@
+{
+  "round": 3794,
+  "timestamp": "2026-06-13T23:20:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 7.7032,
+      "prior_variance": 0.1985,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.4386,
+      "prior_variance": 0.162028,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Suzhou",
+      "path": "asia/china/jiangsu_province/suzhou",
+      "prior_score": 5.2512,
+      "prior_variance": 0.132519,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 5.3995,
+      "prior_variance": 0.128033,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 5.4857,
+      "prior_variance": 0.135978,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 2.6828,
+      "prior_variance": 0.107749,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 5.2363,
+      "prior_variance": 0.143136,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 3.6372,
+      "prior_variance": 0.128035,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 3.377,
+      "prior_variance": 0.138194,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 4.8653,
+      "prior_variance": 0.117202,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.7014,
+      "prior_variance": 0.15172,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 3.3832,
+      "prior_variance": 0.134908,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.6547,
+      "prior_variance": 0.125288,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 1.4858,
+      "prior_variance": 0.127401,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.715,
+      "prior_variance": 0.112768,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 0.0961,
+      "prior_variance": 0.105332,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 3.2359,
+      "prior_variance": 0.136009,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -2.2347,
+      "prior_variance": 0.119822,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.2309,
+      "prior_variance": 0.115933,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -6.9576,
+      "prior_variance": 0.138928,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.732,
+      "prior_variance": 0.175488,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.2164,
+      "prior_variance": 0.152193,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.734,
+      "prior_variance": 0.316998,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.9352,
+      "prior_variance": 0.842855,
+      "prior_n": 12
+    }
+  ]
+}

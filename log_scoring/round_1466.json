@@ -1,200 +1,200 @@
 {
   "round": 1466,
-  "timestamp": "2026-04-12T22:29:13",
+  "timestamp": "2026-06-13T20:32:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Masai Mara N.R.",
-      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
-      "prior_rank": 9,
-      "prior_wins": 90,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 8.5993,
+      "prior_variance": 0.420575,
       "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Nev\u015fehir",
-      "path": "asia/turkey/cappadocia/nevsehir",
-      "prior_rank": 454,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 4.9826,
+      "prior_variance": 0.332849,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Hoi An",
-      "path": "asia/vietnam/hoian",
-      "prior_rank": 182,
-      "prior_wins": 82,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.6941,
+      "prior_variance": 0.337286,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Luang Prabang",
-      "path": "asia/laos/luangprabang",
-      "prior_rank": 53,
-      "prior_wins": 87,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 4.3847,
+      "prior_variance": 0.322163,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Chefchaouen",
-      "path": "africa/morocco/chaouen",
-      "prior_rank": 467,
-      "prior_wins": 77,
+      "title": "Bridgetown",
+      "path": "northamerica/thecaribbean/barbados/bridgetown",
+      "prior_score": 7.3765,
+      "prior_variance": 0.368719,
       "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Guilin",
-      "path": "asia/china/guilin",
-      "prior_rank": 1059,
-      "prior_wins": 69,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 6.9843,
+      "prior_variance": 0.470667,
       "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Cook Islands",
-      "path": "australiaandpacific/cookislands",
-      "prior_rank": 107,
-      "prior_wins": 72,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 5.5342,
+      "prior_variance": 0.323629,
       "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Stone Town",
-      "path": "africa/tanzania/zanzibar/stonetown",
-      "prior_rank": 376,
-      "prior_wins": 59,
-      "prior_n": 3
-    },
-    {
-      "rank": 9,
-      "title": "St. John",
-      "path": "northamerica/virginislands/stjohn",
-      "prior_rank": 2076,
-      "prior_wins": 60,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 2.5625,
+      "prior_variance": 0.319433,
       "prior_n": 4
     },
     {
+      "rank": 9,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 3.0557,
+      "prior_variance": 0.282424,
+      "prior_n": 5
+    },
+    {
       "rank": 10,
-      "title": "Miyako Island",
-      "path": "asia/japan/ryukyuislands/miyakoisland",
-      "prior_rank": 928,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 0.8153,
+      "prior_variance": 0.320731,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Langkawi",
-      "path": "asia/malaysia/langkawi",
-      "prior_rank": 304,
-      "prior_wins": 60,
-      "prior_n": 3
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.4904,
+      "prior_variance": 0.311552,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Fl\u00e5m",
-      "path": "europe/norway/flm",
-      "prior_rank": 299,
-      "prior_wins": 60,
-      "prior_n": 3
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 0.6097,
+      "prior_variance": 0.318499,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Ischia",
-      "path": "europe/italy/campania/ischia",
-      "prior_rank": 62,
-      "prior_wins": 65,
-      "prior_n": 3
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.3207,
+      "prior_variance": 0.341083,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Skiathos",
-      "path": "europe/greece/skiathos",
-      "prior_rank": 441,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 0.9816,
+      "prior_variance": 0.335716,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Lucca",
-      "path": "europe/italy/tuscany/lucca",
-      "prior_rank": 492,
-      "prior_wins": 76,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -0.9631,
+      "prior_variance": 0.317472,
       "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Himeji",
-      "path": "asia/japan/honshu/himeji",
-      "prior_rank": 326,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.1618,
+      "prior_variance": 0.285018,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Mount Kenya National Park",
-      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
-      "prior_rank": 720,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 1.8727,
+      "prior_variance": 0.437921,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Sarajevo",
-      "path": "europe/bosniaandherzegovina/sarajevo",
-      "prior_rank": 496,
-      "prior_wins": 96,
-      "prior_n": 5
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -4.3478,
+      "prior_variance": 0.297088,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Valletta",
-      "path": "europe/malta/valletta",
-      "prior_rank": 782,
-      "prior_wins": 49,
-      "prior_n": 3
-    },
-    {
-      "rank": 20,
-      "title": "Shikoku",
-      "path": "asia/japan/shikoku",
-      "prior_rank": 330,
-      "prior_wins": 99,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.2887,
+      "prior_variance": 0.257037,
       "prior_n": 5
     },
     {
+      "rank": 20,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -0.8105,
+      "prior_variance": 0.32996,
+      "prior_n": 4
+    },
+    {
       "rank": 21,
-      "title": "Lugano",
-      "path": "europe/switzerland/lugano",
-      "prior_rank": 1051,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Amnye Machen",
+      "path": "asia/china/qinghai/amnye-machen",
+      "prior_score": -2.0722,
+      "prior_variance": 0.316688,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Pyrenees",
-      "path": "europe/france/midi/pyrenees",
-      "prior_rank": 536,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -5.4161,
+      "prior_variance": 0.295249,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Las Vegas",
-      "path": "northamerica/unitedstates/nevada/lasvegas",
-      "prior_rank": 1072,
-      "prior_wins": 69,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -7.5409,
+      "prior_variance": 0.389101,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "St. Augustine",
-      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
-      "prior_rank": 160,
-      "prior_wins": 125,
-      "prior_n": 6
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -6.3802,
+      "prior_variance": 0.318701,
+      "prior_n": 5
     }
   ]
 }

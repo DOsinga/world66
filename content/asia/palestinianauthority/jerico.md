@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arabischer_Mosaizist_um_73
 latitude: 31.8611
 loc_type: city
 longitude: 35.4608
-score: 0.31
+score: 0.42
 title: Jericho
 type: location
 ---

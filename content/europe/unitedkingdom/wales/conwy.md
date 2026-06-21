@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Conwy_Castle,_water_view1.
 latitude: 53.146093
 loc_type: city
 longitude: -3.75992
-score: 0.63
+score: 0.51
 title: Conwy
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chemin_Surinam-L1002484.jp
 latitude: -20.512291
 loc_type: city
 longitude: 57.509683
-score: 0.39
+score: 0.25
 title: Surinam
 type: location
 ---

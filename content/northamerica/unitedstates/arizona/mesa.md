@@ -5,7 +5,7 @@ latitude: 33.4152
 longitude: -111.8315
 title: Mesa
 type: location
-score: 0.37
+score: 0.31
 loc_type: city
 ---
 

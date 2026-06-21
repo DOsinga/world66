@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jabrin_2.jpg
 latitude: 22.9167
 loc_type: city
 longitude: 57.2333
-score: 0.41
+score: 0.32
 title: Jabrin
 type: location
 ---

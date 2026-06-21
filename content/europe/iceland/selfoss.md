@@ -5,7 +5,7 @@ done:
 latitude: 63.936809
 loc_type: city
 longitude: -21.003532
-score: 0.51
+score: 0.47
 title: Selfoss
 type: location
 ---

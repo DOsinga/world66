@@ -5,7 +5,7 @@ latitude: 46.5635
 longitude: -90.6882
 title: Pictured Rocks
 type: location
-score: 0.57
+score: 0.55
 loc_type: feature
 ---
 

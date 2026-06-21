@@ -1,0 +1,200 @@
+{
+  "round": 3283,
+  "timestamp": "2026-06-13T22:42:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 5.063,
+      "prior_variance": 0.174176,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.6041,
+      "prior_variance": 0.134425,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": -0.1236,
+      "prior_variance": 0.113979,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 0.5942,
+      "prior_variance": 0.113479,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.3854,
+      "prior_variance": 0.137428,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -3.7126,
+      "prior_variance": 0.147037,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -3.1141,
+      "prior_variance": 0.120489,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_score": -3.5052,
+      "prior_variance": 0.137897,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.2101,
+      "prior_variance": 0.12399,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -5.6782,
+      "prior_variance": 0.148799,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.0429,
+      "prior_variance": 0.132757,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Embrun",
+      "path": "northamerica/canada/ontario/embrun",
+      "prior_score": -7.3617,
+      "prior_variance": 0.219471,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -5.9845,
+      "prior_variance": 0.206609,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -5.6501,
+      "prior_variance": 0.18326,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.6441,
+      "prior_variance": 0.154371,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.8149,
+      "prior_variance": 0.133745,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -6.0513,
+      "prior_variance": 0.157088,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -5.3064,
+      "prior_variance": 0.167708,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.5791,
+      "prior_variance": 0.164998,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -3.8455,
+      "prior_variance": 0.129075,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -4.8837,
+      "prior_variance": 0.136716,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -7.7285,
+      "prior_variance": 0.316357,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Cherchen",
+      "path": "asia/china/xinjiangprovince/cherchen",
+      "prior_score": -6.8574,
+      "prior_variance": 0.205331,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -7.4581,
+      "prior_variance": 0.196668,
+      "prior_n": 10
+    }
+  ]
+}

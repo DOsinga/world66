@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yamna,_Yaremche,_Ivano-Fra
 latitude: 48.450413
 loc_type: city
 longitude: 24.550955
-score: 0.48
+score: 0.43
 title: Yaremche
 type: location
 ---

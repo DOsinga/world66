@@ -5,7 +5,7 @@ done:
 latitude: 54.083359
 loc_type: city
 longitude: 24.278474
-score: 0.45
+score: 0.41
 title: Dzūkija National park
 type: location
 ---

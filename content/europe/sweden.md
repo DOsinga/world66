@@ -14,7 +14,7 @@ quick_facts:
   Cost Level: "A beer costs ~$9"
   Lakes: "roughly 100,000"
   Daylight in Midsummer: "~19 hours in Stockholm"
-score: 0.56
+score: 0.79
 loc_type: country
 ---
 

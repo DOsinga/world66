@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelsardo_(Sardinia).jpg
 latitude: 40.910466
 loc_type: city
 longitude: 8.718313
-score: 0.62
+score: 0.55
 title: Castelsardo
 type: location
 ---

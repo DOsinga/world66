@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_%27
 latitude: 1.0427
 loc_type: city
 longitude: 97.6452
-score: 0.46
+score: 0.38
 title: Pulau Nias
 type: location
 ---

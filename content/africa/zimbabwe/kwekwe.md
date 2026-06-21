@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ngondoma_Dam_Spillway_Aug_
 latitude: -18.9281
 loc_type: city
 longitude: 29.8149
-score: 0.27
+score: 0.22
 title: Kwekwe
 type: location
 ---

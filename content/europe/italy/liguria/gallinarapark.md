@@ -8,7 +8,7 @@ latitude: 44.0333
 longitude: 8.2
 title: Gallinara Island Regional Park
 type: location
-score: 0.57
+score: 0.44
 loc_type: feature
 ---
 

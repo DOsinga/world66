@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_del_Torico_(Teruel).
 latitude: 40.6005
 loc_type: city
 longitude: -0.9229
-score: 0.55
+score: 0.45
 title: Teruel
 type: location
 ---

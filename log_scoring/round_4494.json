@@ -1,0 +1,200 @@
+{
+  "round": 4494,
+  "timestamp": "2026-06-14T00:17:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_score": 12.7738,
+      "prior_variance": 0.472792,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 7.775,
+      "prior_variance": 0.160879,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 9.7299,
+      "prior_variance": 0.217682,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 7.3314,
+      "prior_variance": 0.126867,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 5.9223,
+      "prior_variance": 0.112202,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 5.0799,
+      "prior_variance": 0.114124,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 5.999,
+      "prior_variance": 0.119663,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 2.8532,
+      "prior_variance": 0.101357,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.2706,
+      "prior_variance": 0.097827,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 2.6657,
+      "prior_variance": 0.095354,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.6985,
+      "prior_variance": 0.090995,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 1.9896,
+      "prior_variance": 0.142204,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 1.8254,
+      "prior_variance": 0.092371,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.0519,
+      "prior_variance": 0.08736,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 1.0206,
+      "prior_variance": 0.086759,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.3774,
+      "prior_variance": 0.127785,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.5372,
+      "prior_variance": 0.083206,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -0.0868,
+      "prior_variance": 0.111879,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.2797,
+      "prior_variance": 0.091856,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.2121,
+      "prior_variance": 0.09786,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -2.316,
+      "prior_variance": 0.105434,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -2.4179,
+      "prior_variance": 0.097432,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.7134,
+      "prior_variance": 0.092602,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -3.7466,
+      "prior_variance": 0.102875,
+      "prior_n": 15
+    }
+  ]
+}

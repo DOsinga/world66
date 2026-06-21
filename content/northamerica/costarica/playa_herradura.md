@@ -5,7 +5,7 @@ done:
 latitude: 9.6358
 loc_type: city
 longitude: -84.6531
-score: 0.55
+score: 0.44
 title: Playa Herradura
 type: location
 image: playa_herradura.jpg

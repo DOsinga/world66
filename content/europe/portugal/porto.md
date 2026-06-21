@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:O_Porto_(visto_da_Ponte_Do
 latitude: 41.1496
 loc_type: city
 longitude: -8.611
-score: 0.82
+score: 0.71
 title: Porto
 type: location
 ---

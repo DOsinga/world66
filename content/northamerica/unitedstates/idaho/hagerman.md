@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21874566@N07/49063010717
 latitude: 42.812124
 loc_type: city
 longitude: -114.898669
-score: 0.37
+score: 0.3
 title: Hagerman
 type: location
 ---

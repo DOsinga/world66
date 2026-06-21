@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Mansoura_-_Nile_cornich
 latitude: 31.040777
 loc_type: city
 longitude: 31.35813
-score: 0.37
+score: 0.29
 title: Mansoura
 type: location
 ---

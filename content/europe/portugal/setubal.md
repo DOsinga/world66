@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7737054@N07/37928131261
 latitude: 38.524178
 loc_type: city
 longitude: -8.893234
-score: 0.54
+score: 0.45
 title: Setúbal
 type: location
 ---

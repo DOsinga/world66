@@ -14,7 +14,7 @@ quick_facts:
   Dinner Time: Typically 9–10 PM
   Olive Oil: World's largest producer
   Population: 48 million
-score: 0.93
+score: 0.96
 title: Spain
 type: location
 ---

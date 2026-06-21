@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Beach_at_GanapatiPule.jp
 latitude: 17.1449
 loc_type: city
 longitude: 73.2668
-score: 0.41
+score: 0.38
 title: Ganpatipule
 type: location
 ---

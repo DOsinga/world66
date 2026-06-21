@@ -6,7 +6,7 @@ image: ''
 latitude: 48.994407
 loc_type: city
 longitude: 5.677904
-score: 0.46
+score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Hattonch%C3%A2tel
 - https://en.wikipedia.org/wiki/L%27%C3%89tanche_Abbey,_Lorraine

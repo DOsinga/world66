@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cripta_Padre_Kino.JPG
 latitude: 30.6269
 loc_type: city
 longitude: -110.9615
-score: 0.34
+score: 0.28
 title: Magdalena de Kino
 type: location
 ---

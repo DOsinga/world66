@@ -7,7 +7,7 @@ done:
 latitude: 54.0485
 loc_type: city
 longitude: -2.8014
-score: 0.49
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Lancaster,_Lancashire
 title: Lancaster

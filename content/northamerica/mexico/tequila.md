@@ -5,7 +5,7 @@ done:
 latitude: 21.11582
 loc_type: city
 longitude: -103.810137
-score: 0.57
+score: 0.47
 title: Tequila
 type: location
 ---

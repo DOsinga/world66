@@ -5,7 +5,7 @@ done:
 latitude: 7.9573
 loc_type: city
 longitude: -80.4159
-score: 0.39
+score: 0.33
 title: Los Santos
 type: location
 ---

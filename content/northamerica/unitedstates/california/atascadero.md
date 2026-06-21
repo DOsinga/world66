@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atascadero_City_Hall_-_Ata
 latitude: 35.489417
 loc_type: city
 longitude: -120.670726
-score: 0.4
+score: 0.31
 title: Atascadero
 type: location
 ---

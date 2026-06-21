@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Roque-Gageac_-_01.jpg
 latitude: 44.825544
 loc_type: city
 longitude: 1.183499
-score: 0.64
+score: 0.55
 title: La Roque-Gageac
 type: location
 ---

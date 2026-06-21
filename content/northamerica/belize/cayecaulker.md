@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belize_Caye_Caulker-221.jp
 latitude: 17.7456
 loc_type: city
 longitude: -88.0309
-score: 0.67
+score: 0.56
 title: Caye Caulker
 type: location
 ---

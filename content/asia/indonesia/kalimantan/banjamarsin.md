@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banjarmasin_floating_marke
 latitude: -3.3186
 loc_type: city
 longitude: 114.5944
-score: 0.4
+score: 0.33
 title: Banjamarsin
 type: location
 ---

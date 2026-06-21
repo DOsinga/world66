@@ -5,7 +5,7 @@ done:
 latitude: 39.952
 loc_type: city
 longitude: 44.5393
-score: 0.39
+score: 0.36
 title: Ararat Marz
 type: location
 image: ararat_marz.jpg

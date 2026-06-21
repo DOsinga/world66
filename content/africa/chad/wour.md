@@ -5,7 +5,7 @@ done:
 latitude: 20.9167
 loc_type: city
 longitude: 17.0833
-score: 0.18
+score: 0.12
 title: Wour
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/35385832@N05/42383473791
 latitude: 13.6929
 loc_type: city
 longitude: -89.2182
-score: 0.38
+score: 0.33
 title: San Salvador
 type: location
 ---

@@ -10,11 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_gardens_panorama_(3
 image_attribution: Thomas Quine
 latitude: 52.2112
 longitude: 5.9699
-score: 0.48
+score: 0.41
 tags:
-  - nature
-  - history
-  - day_trip
+- nature
+- history
+- day_trip
 tier: 3
 title: Apeldoorn
 type: location

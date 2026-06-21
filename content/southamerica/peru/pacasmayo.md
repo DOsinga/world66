@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pacasmayo_Beach_01.jpg
 latitude: -7.4256
 loc_type: city
 longitude: -79.434
-score: 0.48
+score: 0.36
 title: Pacasmayo
 type: location
 ---

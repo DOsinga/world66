@@ -5,7 +5,7 @@ done:
 latitude: 34.923609
 loc_type: city
 longitude: 33.623618
-score: 0.6
+score: 0.52
 title: Larnaca
 type: location
 ---

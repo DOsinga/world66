@@ -9,7 +9,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:20110805_Zielhoes_Noordpolderzijl_Gn_NL.jpg
 latitude: 53.432069
 longitude: 6.582255
-score: 0.32
+score: 0.27
 title: Noordpolderzijl
 type: location
 loc_type: city

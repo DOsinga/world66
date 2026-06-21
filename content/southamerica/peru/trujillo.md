@@ -5,7 +5,7 @@ done:
 latitude: -8.111678
 loc_type: city
 longitude: -79.028774
-score: 0.59
+score: 0.46
 title: Trujillo
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 57.6101
 longitude: -1.8163
 title: Rattray Head
 type: location
-score: 0.42
+score: 0.36
 loc_type: feature
 ---
 

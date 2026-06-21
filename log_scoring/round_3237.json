@@ -1,0 +1,200 @@
+{
+  "round": 3237,
+  "timestamp": "2026-06-13T22:38:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.1636,
+      "prior_variance": 0.180158,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 7.7134,
+      "prior_variance": 0.169773,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 7.2655,
+      "prior_variance": 0.180524,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.4376,
+      "prior_variance": 0.144267,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 4.5693,
+      "prior_variance": 0.120244,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 2.6785,
+      "prior_variance": 0.161359,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 5.5782,
+      "prior_variance": 0.183142,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 4.1109,
+      "prior_variance": 0.140523,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.4145,
+      "prior_variance": 0.120027,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 3.6462,
+      "prior_variance": 0.152055,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_score": 2.6799,
+      "prior_variance": 0.14071,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 6.0285,
+      "prior_variance": 0.162784,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 1.9265,
+      "prior_variance": 0.127788,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.2606,
+      "prior_variance": 0.126177,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": -0.1908,
+      "prior_variance": 0.126744,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.2127,
+      "prior_variance": 0.123,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": -0.2839,
+      "prior_variance": 0.120714,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -0.9728,
+      "prior_variance": 0.155775,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_score": 0.5512,
+      "prior_variance": 0.121561,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.5985,
+      "prior_variance": 0.156295,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.0715,
+      "prior_variance": 0.134804,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -3.4279,
+      "prior_variance": 0.12867,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.2295,
+      "prior_variance": 0.124809,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.2393,
+      "prior_variance": 0.137833,
+      "prior_n": 11
+    }
+  ]
+}

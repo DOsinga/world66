@@ -7,7 +7,7 @@ done:
 latitude: 38.0739
 loc_type: city
 longitude: 46.2979
-score: 0.46
+score: 0.41
 title: Tabriz
 type: location
 ---

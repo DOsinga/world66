@@ -1,200 +1,200 @@
 {
   "round": 2090,
-  "timestamp": "2026-04-13T16:09:54",
+  "timestamp": "2026-06-13T21:17:54",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mustique",
-      "path": "northamerica/saintvincentandthegrenadines/mustique",
-      "prior_score": 6.4194,
-      "prior_variance": 0.299261,
-      "prior_n": 5
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.8311,
+      "prior_variance": 0.351981,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Grand Baie",
-      "path": "africa/mauritius/grandbaie",
-      "prior_score": 5.2955,
-      "prior_variance": 0.363167,
-      "prior_n": 5
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.6554,
+      "prior_variance": 0.283522,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Lago Maggiore",
-      "path": "europe/italy/lombardia/lagomaggiore",
-      "prior_score": 7.9322,
-      "prior_variance": 0.396784,
-      "prior_n": 5
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 5.1296,
+      "prior_variance": 0.243927,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Laax",
-      "path": "europe/switzerland/laax",
-      "prior_score": 4.012,
-      "prior_variance": 0.359793,
-      "prior_n": 5
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 5.0967,
+      "prior_variance": 0.248042,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Salalah",
-      "path": "asia/oman/salalah",
-      "prior_score": 4.2125,
-      "prior_variance": 0.272518,
-      "prior_n": 5
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.5598,
+      "prior_variance": 0.279701,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "White Mountains",
-      "path": "northamerica/unitedstates/newhampshire/whitemountains",
-      "prior_score": 4.5919,
-      "prior_variance": 0.301954,
-      "prior_n": 5
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 3.3582,
+      "prior_variance": 0.253266,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Zennor",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
-      "prior_score": 1.2151,
-      "prior_variance": 0.310289,
-      "prior_n": 5
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.9858,
+      "prior_variance": 0.247433,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Weymouth",
-      "path": "europe/unitedkingdom/england/weymouth",
-      "prior_score": 0.8732,
-      "prior_variance": 0.251372,
-      "prior_n": 5
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.2726,
+      "prior_variance": 0.22801,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Norderney",
-      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
-      "prior_score": 0.1823,
-      "prior_variance": 0.261186,
-      "prior_n": 5
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 5.9735,
+      "prior_variance": 0.217915,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Cowichan Bay",
-      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
-      "prior_score": -0.396,
-      "prior_variance": 0.297978,
-      "prior_n": 5
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.6071,
+      "prior_variance": 0.195207,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "saskatchewan river crossing",
-      "path": "northamerica/canada/alberta/saskatchewan_river",
-      "prior_score": -1.0356,
-      "prior_variance": 0.218813,
-      "prior_n": 6
+      "title": "Iber\u00e1 Wetlands",
+      "path": "southamerica/argentina/corrientes/iberawetlands",
+      "prior_score": 3.2922,
+      "prior_variance": 0.182748,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Thompson Falls",
-      "path": "northamerica/unitedstates/montana/thompson_falls",
-      "prior_score": -1.6096,
-      "prior_variance": 0.253186,
-      "prior_n": 5
-    },
-    {
-      "rank": 13,
-      "title": "Luoyang",
-      "path": "asia/china/luoyang",
-      "prior_score": 2.5762,
-      "prior_variance": 0.256264,
-      "prior_n": 6
-    },
-    {
-      "rank": 14,
-      "title": "Bandung",
-      "path": "asia/indonesia/java/bandung",
-      "prior_score": 2.2786,
-      "prior_variance": 0.213858,
-      "prior_n": 6
-    },
-    {
-      "rank": 15,
-      "title": "Skopje",
-      "path": "europe/macedonia/skopje",
-      "prior_score": 1.5037,
-      "prior_variance": 0.210119,
-      "prior_n": 6
-    },
-    {
-      "rank": 16,
-      "title": "Medan",
-      "path": "asia/indonesia/sumatra/medan",
-      "prior_score": -2.3739,
-      "prior_variance": 0.182537,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_score": 0.0303,
+      "prior_variance": 0.211884,
       "prior_n": 8
     },
     {
-      "rank": 17,
-      "title": "Dolores Hidalgo",
-      "path": "northamerica/mexico/doloreshidalgo",
-      "prior_score": 0.2284,
-      "prior_variance": 0.27724,
-      "prior_n": 5
+      "rank": 13,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.8233,
+      "prior_variance": 0.228975,
+      "prior_n": 7
     },
     {
-      "rank": 18,
-      "title": "Encarnacion",
-      "path": "southamerica/paraguay/encarnacion",
-      "prior_score": -1.6114,
-      "prior_variance": 0.317342,
-      "prior_n": 5
+      "rank": 14,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 1.7601,
+      "prior_variance": 0.204973,
+      "prior_n": 7
     },
     {
-      "rank": 19,
-      "title": "Giulianova Lido",
-      "path": "europe/italy/abruzzo/giulianovalido",
-      "prior_score": -0.0646,
-      "prior_variance": 0.263488,
-      "prior_n": 5
+      "rank": 15,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": 1.1506,
+      "prior_variance": 0.263852,
+      "prior_n": 7
     },
     {
-      "rank": 20,
-      "title": "Sant'Andrea Apostolo dello Jonio",
-      "path": "europe/italy/calabria/sant_andrea_apost",
-      "prior_score": -1.8888,
-      "prior_variance": 0.251953,
-      "prior_n": 5
-    },
-    {
-      "rank": 21,
-      "title": "Bochnia",
-      "path": "europe/poland/bochnia",
-      "prior_score": -1.3226,
-      "prior_variance": 0.244389,
-      "prior_n": 5
-    },
-    {
-      "rank": 22,
-      "title": "Punjab",
-      "path": "asia/india/punjab",
-      "prior_score": -0.93,
-      "prior_variance": 0.403864,
-      "prior_n": 5
-    },
-    {
-      "rank": 23,
-      "title": "Bar-le-Duc",
-      "path": "europe/france/east/lorraine/barleduc",
-      "prior_score": -1.8076,
-      "prior_variance": 0.214908,
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.1157,
+      "prior_variance": 0.263051,
       "prior_n": 6
     },
     {
-      "rank": 24,
-      "title": "Lughaya",
-      "path": "africa/somaliland/lughaya",
-      "prior_score": -9.6349,
-      "prior_variance": 0.251918,
+      "rank": 17,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.9766,
+      "prior_variance": 0.225782,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.3019,
+      "prior_variance": 0.22004,
       "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.5834,
+      "prior_variance": 0.189336,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.6034,
+      "prior_variance": 0.198505,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.913,
+      "prior_variance": 0.186161,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.027,
+      "prior_variance": 0.248163,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.9491,
+      "prior_variance": 0.183755,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -9.287,
+      "prior_variance": 0.504818,
+      "prior_n": 6
     }
   ]
 }

@@ -5,7 +5,7 @@ latitude: 51.424967
 longitude: -116.177535
 title: Lake Louise
 type: location
-score: 0.77
+score: 0.72
 image: lake_louise.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg
 image_license: CC BY-SA 4.0

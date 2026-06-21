@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bundoran.jpg
 latitude: 54.4789
 loc_type: city
 longitude: -8.2783
-score: 0.52
+score: 0.44
 title: Bundoran
 type: location
 ---

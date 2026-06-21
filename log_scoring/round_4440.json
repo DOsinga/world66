@@ -1,0 +1,200 @@
+{
+  "round": 4440,
+  "timestamp": "2026-06-14T00:12:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 3.1683,
+      "prior_variance": 0.186414,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 5.3376,
+      "prior_variance": 0.111678,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 4.2136,
+      "prior_variance": 0.095746,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.0603,
+      "prior_variance": 0.112672,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 4.973,
+      "prior_variance": 0.117992,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.9151,
+      "prior_variance": 0.092437,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.4829,
+      "prior_variance": 0.110339,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 1.0687,
+      "prior_variance": 0.093466,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 1.2437,
+      "prior_variance": 0.097283,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.0522,
+      "prior_variance": 0.084642,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.6609,
+      "prior_variance": 0.088047,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.1628,
+      "prior_variance": 0.112341,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": -0.7869,
+      "prior_variance": 0.098107,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.7085,
+      "prior_variance": 0.090585,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.5765,
+      "prior_variance": 0.085321,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -2.37,
+      "prior_variance": 0.120942,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -2.1125,
+      "prior_variance": 0.099671,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.4191,
+      "prior_variance": 0.086862,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -3.3135,
+      "prior_variance": 0.111444,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -3.3173,
+      "prior_variance": 0.102109,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -5.4337,
+      "prior_variance": 0.11341,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Sapo National Park",
+      "path": "africa/liberia/sapo",
+      "prior_score": -3.3911,
+      "prior_variance": 0.112299,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -9.9093,
+      "prior_variance": 0.377515,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.0879,
+      "prior_variance": 0.121405,
+      "prior_n": 15
+    }
+  ]
+}

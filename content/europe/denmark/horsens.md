@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Horsens_-_g%C3%A5gaden.jpg
 latitude: 55.86117
 loc_type: city
 longitude: 9.844477
-score: 0.47
+score: 0.39
 title: Horsens
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/50178625@N00/6451935379
 latitude: -0.305195
 loc_type: city
 longitude: 100.369492
-score: 0.52
+score: 0.46
 title: Bukittinggi
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 34.444255
 loc_type: city
 longitude: -85.719689
-score: 0.38
+score: 0.3
 title: Fort Payne
 type: location
 image: fort_payne.jpg

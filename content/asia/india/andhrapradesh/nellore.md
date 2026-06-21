@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_under_construction_
 latitude: 14.449372
 loc_type: city
 longitude: 79.987376
-score: 0.3
+score: 0.27
 title: Nellore
 type: location
 ---

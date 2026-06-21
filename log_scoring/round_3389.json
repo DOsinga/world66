@@ -1,0 +1,200 @@
+{
+  "round": 3389,
+  "timestamp": "2026-06-13T22:50:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 4.1384,
+      "prior_variance": 0.122092,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.4832,
+      "prior_variance": 0.130941,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.1822,
+      "prior_variance": 0.129038,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -1.1208,
+      "prior_variance": 0.123046,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.596,
+      "prior_variance": 0.121951,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.8666,
+      "prior_variance": 0.129237,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.3344,
+      "prior_variance": 0.12978,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_score": 0.3933,
+      "prior_variance": 0.112808,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -1.6075,
+      "prior_variance": 0.133917,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.4307,
+      "prior_variance": 0.134436,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.5444,
+      "prior_variance": 0.121964,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -4.4532,
+      "prior_variance": 0.151573,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.116,
+      "prior_variance": 0.14884,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -4.8492,
+      "prior_variance": 0.138199,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -4.6278,
+      "prior_variance": 0.134547,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.0413,
+      "prior_variance": 0.151483,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -6.427,
+      "prior_variance": 0.240231,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.6517,
+      "prior_variance": 0.155646,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.6449,
+      "prior_variance": 0.201064,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -5.7047,
+      "prior_variance": 0.152521,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -6.7088,
+      "prior_variance": 0.174748,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -6.9057,
+      "prior_variance": 0.227735,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -12.6483,
+      "prior_variance": 1.37402,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.4403,
+      "prior_variance": 0.411698,
+      "prior_n": 10
+    }
+  ]
+}

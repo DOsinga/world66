@@ -1,0 +1,200 @@
+{
+  "round": 3504,
+  "timestamp": "2026-06-13T22:58:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 4.0445,
+      "prior_variance": 0.154881,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 4.7508,
+      "prior_variance": 0.149789,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 3.8498,
+      "prior_variance": 0.137026,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Gudauri",
+      "path": "europe/georgia/gudauri",
+      "prior_score": 3.066,
+      "prior_variance": 0.119109,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.7229,
+      "prior_variance": 0.117561,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.1795,
+      "prior_variance": 0.107749,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 2.8642,
+      "prior_variance": 0.184983,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 2.4605,
+      "prior_variance": 0.112957,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 2.2585,
+      "prior_variance": 0.124299,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 2.3703,
+      "prior_variance": 0.126411,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1459,
+      "prior_variance": 0.109683,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 1.69,
+      "prior_variance": 0.116454,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": 0.2023,
+      "prior_variance": 0.130164,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.1725,
+      "prior_variance": 0.130908,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.9422,
+      "prior_variance": 0.131249,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.207,
+      "prior_variance": 0.128761,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -2.1021,
+      "prior_variance": 0.123424,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": -0.5953,
+      "prior_variance": 0.133275,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.2804,
+      "prior_variance": 0.118708,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Xianyang",
+      "path": "asia/china/shaanxi/xianyang",
+      "prior_score": -2.3149,
+      "prior_variance": 0.113492,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -2.4988,
+      "prior_variance": 0.12126,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.7823,
+      "prior_variance": 0.127315,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.2187,
+      "prior_variance": 0.139917,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -3.0205,
+      "prior_variance": 0.30151,
+      "prior_n": 12
+    }
+  ]
+}

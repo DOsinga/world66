@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jakar_Dzong_in_Bumthang.jp
 latitude: 27.707913
 loc_type: city
 longitude: 90.769744
-score: 0.64
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Bumthang_Valley
 - https://en.wikipedia.org/wiki/Kurjey_Lhakhang

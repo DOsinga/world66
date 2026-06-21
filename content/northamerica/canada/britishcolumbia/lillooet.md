@@ -5,7 +5,7 @@ done:
 latitude: 50.693938
 loc_type: city
 longitude: -121.933691
-score: 0.44
+score: 0.39
 title: Lillooet
 type: location
 ---

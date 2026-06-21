@@ -5,7 +5,7 @@ done:
 latitude: 50.484745
 loc_type: city
 longitude: 8.265925
-score: 0.45
+score: 0.4
 title: Weilburg
 type: location
 ---

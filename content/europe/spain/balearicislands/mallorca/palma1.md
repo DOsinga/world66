@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellver_Castle_Palma_de_Ma
 latitude: 39.569582
 loc_type: city
 longitude: 2.650075
-score: 0.73
+score: 0.61
 title: Palma
 type: location
 ---

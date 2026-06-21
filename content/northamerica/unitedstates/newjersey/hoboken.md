@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/13112122@N00/30015869045
 latitude: 40.7433
 loc_type: city
 longitude: -74.0324
-score: 0.42
+score: 0.34
 title: Hoboken
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2649,
+  "timestamp": "2026-06-13T21:57:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 10.4259,
+      "prior_variance": 0.339024,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 10.7911,
+      "prior_variance": 0.42146,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 10.554,
+      "prior_variance": 0.382002,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 8.4025,
+      "prior_variance": 0.237992,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 7.4379,
+      "prior_variance": 0.281041,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 9.2596,
+      "prior_variance": 0.23526,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 9.4523,
+      "prior_variance": 0.278418,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 7.1756,
+      "prior_variance": 0.256004,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 7.6406,
+      "prior_variance": 0.299577,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 6.7691,
+      "prior_variance": 0.310919,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.8979,
+      "prior_variance": 0.207974,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 7.697,
+      "prior_variance": 0.188342,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 8.1868,
+      "prior_variance": 0.251669,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 7.9246,
+      "prior_variance": 0.257027,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 7.3162,
+      "prior_variance": 0.205276,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_score": 6.8648,
+      "prior_variance": 0.204963,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 7.2832,
+      "prior_variance": 0.230743,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 4.7133,
+      "prior_variance": 0.178907,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 6.361,
+      "prior_variance": 0.199786,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 5.1617,
+      "prior_variance": 0.19607,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 6.6374,
+      "prior_variance": 0.185031,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 5.9083,
+      "prior_variance": 0.269417,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Gaziantep",
+      "path": "asia/turkey/gaziantep",
+      "prior_score": 3.1814,
+      "prior_variance": 0.166533,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.5183,
+      "prior_variance": 0.154341,
+      "prior_n": 8
+    }
+  ]
+}

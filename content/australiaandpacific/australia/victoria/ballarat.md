@@ -7,7 +7,7 @@ done:
 latitude: -37.5623
 loc_type: city
 longitude: 143.8606
-score: 0.53
+score: 0.47
 title: Ballarat
 type: location
 image: ballarat.jpg

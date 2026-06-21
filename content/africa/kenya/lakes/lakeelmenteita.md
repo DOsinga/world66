@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LAKE_ELMENTEITA.jpg
 latitude: -0.44175
 loc_type: city
 longitude: 36.246022
-score: 0.55
+score: 0.46
 title: Lake Elmenteita
 type: location
 ---

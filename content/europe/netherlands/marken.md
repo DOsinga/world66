@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marken,_The_Netherlands_07
 latitude: 52.4578
 loc_type: city
 longitude: 5.1068
-score: 0.5
+score: 0.45
 title: Marken
 type: location
 ---

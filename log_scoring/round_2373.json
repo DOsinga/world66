@@ -1,0 +1,200 @@
+{
+  "round": 2373,
+  "timestamp": "2026-06-13T21:38:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 1.0921,
+      "prior_variance": 0.179013,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -10.5706,
+      "prior_variance": 0.607585,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Ha'il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -6.254,
+      "prior_variance": 0.266302,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -4.4687,
+      "prior_variance": 0.261751,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -4.5834,
+      "prior_variance": 0.218583,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_score": -6.4369,
+      "prior_variance": 0.189547,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Huayang Village",
+      "path": "asia/china/shaanxi/huayang_village",
+      "prior_score": -4.0286,
+      "prior_variance": 0.220215,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -5.6311,
+      "prior_variance": 0.27995,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -9.3223,
+      "prior_variance": 0.324303,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -6.8999,
+      "prior_variance": 0.201694,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.6591,
+      "prior_variance": 0.253413,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -6.6997,
+      "prior_variance": 0.3053,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -6.4848,
+      "prior_variance": 0.190626,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.4145,
+      "prior_variance": 0.190991,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -5.9479,
+      "prior_variance": 0.210355,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.932,
+      "prior_variance": 0.2472,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_score": -6.131,
+      "prior_variance": 0.263027,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -5.0292,
+      "prior_variance": 0.214541,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.3942,
+      "prior_variance": 0.264206,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.7818,
+      "prior_variance": 0.260727,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.495,
+      "prior_variance": 0.264362,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.9951,
+      "prior_variance": 0.288689,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -7.7956,
+      "prior_variance": 0.526246,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -8.759,
+      "prior_variance": 0.386293,
+      "prior_n": 8
+    }
+  ]
+}

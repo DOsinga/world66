@@ -16,7 +16,7 @@ quick_facts:
   Castles: ~25,000
   Currency: Euro
   Population: 84 million
-score: 0.91
+score: 0.90
 title: Germany
 type: location
 ---

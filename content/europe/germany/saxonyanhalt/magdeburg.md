@@ -5,7 +5,7 @@ done:
 latitude: 52.131478
 loc_type: city
 longitude: 11.640079
-score: 0.46
+score: 0.4
 title: Magdeburg
 type: location
 ---

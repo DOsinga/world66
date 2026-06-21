@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porvoo_in_January.jpg
 latitude: 60.394437
 loc_type: city
 longitude: 25.661997
-score: 0.6
+score: 0.52
 title: Porvoo
 type: location
 ---

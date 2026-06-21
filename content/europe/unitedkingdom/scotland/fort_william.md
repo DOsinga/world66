@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ben_Nevis_from_Corpach_-_g
 latitude: 56.8198
 loc_type: city
 longitude: -5.1052
-score: 0.6
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Fort_William,_Scotland
 - https://en.wikipedia.org/wiki/Ben_Nevis

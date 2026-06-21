@@ -1,0 +1,200 @@
+{
+  "round": 2707,
+  "timestamp": "2026-06-13T22:01:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.5393,
+      "prior_variance": 0.478186,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 9.0979,
+      "prior_variance": 0.34176,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 8.3367,
+      "prior_variance": 0.25675,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 8.2894,
+      "prior_variance": 0.219578,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.6284,
+      "prior_variance": 0.28927,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 9.333,
+      "prior_variance": 0.274081,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 7.1306,
+      "prior_variance": 0.277194,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 3.1918,
+      "prior_variance": 0.180045,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 4.3617,
+      "prior_variance": 0.198546,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.7631,
+      "prior_variance": 0.176047,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.7815,
+      "prior_variance": 0.145689,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.2885,
+      "prior_variance": 0.139199,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 2.8486,
+      "prior_variance": 0.213044,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 3.3591,
+      "prior_variance": 0.145966,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 0.0905,
+      "prior_variance": 0.196164,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 4.6423,
+      "prior_variance": 0.173343,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 3.0051,
+      "prior_variance": 0.14599,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.5339,
+      "prior_variance": 0.167979,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": -0.298,
+      "prior_variance": 0.223818,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -0.7595,
+      "prior_variance": 0.162181,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -0.8485,
+      "prior_variance": 0.177658,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -3.7906,
+      "prior_variance": 0.14669,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -1.348,
+      "prior_variance": 0.170977,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -0.8487,
+      "prior_variance": 0.187917,
+      "prior_n": 9
+    }
+  ]
+}

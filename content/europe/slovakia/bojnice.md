@@ -5,7 +5,7 @@ done:
 latitude: 48.779959
 loc_type: city
 longitude: 18.582199
-score: 0.56
+score: 0.49
 title: Bojnice
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 24.346884
 loc_type: city
 longitude: 93.699414
-score: 0.32
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Churachandpur
 title: Churachandpur

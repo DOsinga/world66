@@ -5,7 +5,7 @@ done:
 latitude: 59.459643
 loc_type: city
 longitude: 28.0421
-score: 0.43
+score: 0.36
 title: Narva-Jõesuu
 type: location
 ---

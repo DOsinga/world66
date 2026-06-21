@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Continuing_Promise_2024_pe
 latitude: 15.8356
 loc_type: city
 longitude: -87.9506
-score: 0.36
+score: 0.28
 title: Puerto Cortés
 type: location
 ---

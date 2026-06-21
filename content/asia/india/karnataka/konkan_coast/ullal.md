@@ -5,7 +5,7 @@ done:
 latitude: 12.8181
 loc_type: city
 longitude: 74.8459
-score: 0.39
+score: 0.32
 title: Ullal
 type: location
 ---

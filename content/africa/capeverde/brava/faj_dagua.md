@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FajAeroporto.jpg
 latitude: 14.8715
 loc_type: city
 longitude: -24.7315
-score: 0.47
+score: 0.41
 title: Fajã d’Agua
 type: location
 ---

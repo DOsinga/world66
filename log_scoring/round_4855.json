@@ -1,0 +1,200 @@
+{
+  "round": 4855,
+  "timestamp": "2026-06-14T00:47:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 10.8686,
+      "prior_variance": 0.27267,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_score": 3.8762,
+      "prior_variance": 0.092118,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.3102,
+      "prior_variance": 0.091856,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.3241,
+      "prior_variance": 0.088807,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.5378,
+      "prior_variance": 0.082811,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 1.0764,
+      "prior_variance": 0.090344,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 0.4425,
+      "prior_variance": 0.085621,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/norderney",
+      "prior_score": 0.2418,
+      "prior_variance": 0.085063,
+      "prior_n": 17
+    },
+    {
+      "rank": 9,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.7589,
+      "prior_variance": 0.088476,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 0.1685,
+      "prior_variance": 0.092183,
+      "prior_n": 17
+    },
+    {
+      "rank": 11,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 0.6326,
+      "prior_variance": 0.083107,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.2749,
+      "prior_variance": 0.097231,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.4871,
+      "prior_variance": 0.083327,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -0.855,
+      "prior_variance": 0.080615,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.2825,
+      "prior_variance": 0.08808,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 1.0116,
+      "prior_variance": 0.088689,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.5371,
+      "prior_variance": 0.094032,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": -0.511,
+      "prior_variance": 0.088222,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -3.2053,
+      "prior_variance": 0.096192,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.6199,
+      "prior_variance": 0.089286,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -3.9896,
+      "prior_variance": 0.082693,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.8283,
+      "prior_variance": 0.131156,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -5.7798,
+      "prior_variance": 0.105645,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.5151,
+      "prior_variance": 0.162841,
+      "prior_n": 16
+    }
+  ]
+}

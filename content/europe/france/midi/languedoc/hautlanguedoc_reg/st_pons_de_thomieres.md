@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_St_Pons_de
 latitude: 43.489
 loc_type: city
 longitude: 2.755
-score: 0.49
+score: 0.4
 title: St-Pons-de-Thomières
 type: location
 ---

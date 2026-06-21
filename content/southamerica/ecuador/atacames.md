@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atacames_Beach_Scene_(6232
 latitude: 0.7971
 loc_type: city
 longitude: -79.8791
-score: 0.47
+score: 0.41
 title: Atacames
 type: location
 ---

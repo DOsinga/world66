@@ -5,7 +5,7 @@ done:
 latitude: 39.138166
 loc_type: city
 longitude: -76.234954
-score: 0.4
+score: 0.33
 title: Rock Hall
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 51.492314
 loc_type: city
 longitude: -0.263818
-score: 0.43
+score: 0.38
 title: Chiswick
 type: location
 ---

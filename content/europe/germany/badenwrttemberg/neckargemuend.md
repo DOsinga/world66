@@ -5,7 +5,7 @@ done:
 latitude: 49.395405
 loc_type: city
 longitude: 8.796589
-score: 0.46
+score: 0.41
 title: Neckargemünd
 type: location
 ---

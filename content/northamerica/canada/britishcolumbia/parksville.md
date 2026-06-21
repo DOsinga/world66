@@ -5,7 +5,7 @@ latitude: 49.317951
 longitude: -124.311739
 title: Parksville
 type: location
-score: 0.51
+score: 0.41
 loc_type: city
 ---
 

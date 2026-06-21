@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 54.3318
 longitude: -0.6902
-score: 0.57
+score: 0.52
 title: North York Moors
 type: location
 loc_type: feature

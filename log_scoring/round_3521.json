@@ -1,0 +1,200 @@
+{
+  "round": 3521,
+  "timestamp": "2026-06-13T22:59:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.2805,
+      "prior_variance": 0.145352,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.1317,
+      "prior_variance": 0.114163,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -2.4933,
+      "prior_variance": 0.119876,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -2.937,
+      "prior_variance": 0.122727,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.2414,
+      "prior_variance": 0.172174,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.1554,
+      "prior_variance": 0.12695,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -3.2855,
+      "prior_variance": 0.13759,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -4.5289,
+      "prior_variance": 0.148015,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.4571,
+      "prior_variance": 0.136803,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -3.2305,
+      "prior_variance": 0.12596,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.28,
+      "prior_variance": 0.116796,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.487,
+      "prior_variance": 0.133911,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -5.2502,
+      "prior_variance": 0.136399,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -2.8846,
+      "prior_variance": 0.114316,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.3527,
+      "prior_variance": 0.119809,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -2.1883,
+      "prior_variance": 0.118394,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.16,
+      "prior_variance": 0.116303,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -4.8608,
+      "prior_variance": 0.155212,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -6.3447,
+      "prior_variance": 0.220337,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -4.6532,
+      "prior_variance": 0.145498,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -5.4002,
+      "prior_variance": 0.132218,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.2822,
+      "prior_variance": 0.191453,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.4204,
+      "prior_variance": 0.220991,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -4.9557,
+      "prior_variance": 0.118848,
+      "prior_n": 11
+    }
+  ]
+}

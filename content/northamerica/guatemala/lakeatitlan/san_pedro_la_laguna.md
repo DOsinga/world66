@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lago_Atitl%C3%A0n.JPG
 latitude: 14.6958
 loc_type: city
 longitude: -91.2719
-score: 0.62
+score: 0.55
 title: San Pedro la Laguna
 type: location
 ---

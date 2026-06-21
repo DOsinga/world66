@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-06-03'
+  major_city_neighborhoods: '2026-06-13'
   poi_cleanup: '2026-04-21'
 image: madrid.jpg
 image_attribution: Diego Delso
@@ -10,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_M
 latitude: 40.416782
 loc_type: city
 longitude: -3.703507
-score: 0.75
+score: 0.66
 title: Madrid
 type: location
 ---

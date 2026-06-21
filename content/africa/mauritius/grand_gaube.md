@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-06-26_10-02-10_Maurit
 latitude: -20.0144
 loc_type: city
 longitude: 57.6608
-score: 0.58
+score: 0.53
 title: Grand Gaube
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 41.639832
 loc_type: city
 longitude: 22.464589
-score: 0.33
+score: 0.28
 sources:
 - https://en.wikipedia.org/wiki/Radovi%C5%A1
 - https://en.wikipedia.org/wiki/Plachkovica

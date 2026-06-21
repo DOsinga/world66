@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buffalo_Nairobi_Skyline_Sa
 latitude: -1.302615
 loc_type: city
 longitude: 36.828842
-score: 0.53
+score: 0.43
 title: Nairobi
 type: location
 ---

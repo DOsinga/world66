@@ -6,7 +6,7 @@ done:
 latitude: 53.2929
 loc_type: city
 longitude: -6.136
-score: 0.51
+score: 0.44
 title: Dun Laoghaire
 type: location
 ---

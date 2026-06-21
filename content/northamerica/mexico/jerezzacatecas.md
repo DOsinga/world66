@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DelaTorreJerez.JPG
 latitude: 22.648
 loc_type: city
 longitude: -102.998
-score: 0.38
+score: 0.31
 title: Jerez Zacatecas
 type: location
 ---

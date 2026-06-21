@@ -5,7 +5,7 @@ done:
 latitude: 33.685011
 loc_type: city
 longitude: 71.516624
-score: 0.21
+score: 0.1
 title: Darra Adam Khel
 type: location
 ---

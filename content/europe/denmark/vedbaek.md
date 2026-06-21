@@ -6,7 +6,7 @@ latitude: 55.8541
 longitude: 12.5653
 title: Vedbæk
 type: location
-score: 0.39
+score: 0.37
 loc_type: city
 ---
 

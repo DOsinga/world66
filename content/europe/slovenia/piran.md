@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Piran,_Slovenia,_Viewpoint
 latitude: 45.5285
 loc_type: city
 longitude: 13.5684
-score: 0.68
+score: 0.59
 title: Piran
 type: location
 ---

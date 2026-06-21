@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ede,_de_Keetmolen_RM14468_
 latitude: 52.071683
 loc_type: city
 longitude: 5.745511
-score: 0.4
+score: 0.32
 title: Ede
 type: location
 ---

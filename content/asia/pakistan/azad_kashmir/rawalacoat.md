@@ -5,7 +5,7 @@ latitude: 33.857228
 longitude: 73.760575
 title: Rawalakot
 type: location
-score: 0.39
+score: 0.34
 loc_type: city
 ---
 

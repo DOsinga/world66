@@ -3,6 +3,7 @@ address: Via Appia Antica, 00178 Rome
 admission: Free (road); catacombs charge separately
 latitude: 41.8513
 longitude: 12.5109
+score: 9.2
 snippet: Ancient Roman road lined with tombs, pines, and catacombs
 story: The Appian Way was begun in 312 BC by the censor Appius Claudius Caecus and
   eventually stretched 560 kilometres to Brindisi on the heel of Italy. It was the
@@ -13,9 +14,9 @@ tags:
 - things_to_do
 - landmark
 - sight
+- aventino
 title: Via Appia Antica
 type: poi
-score: 9.2
 ---
 
 Rome's most atmospheric ancient monument, the 2,300-year-old Appian Way stretches south from the city walls through open countryside, flanked by ancient tombs, umbrella pines, and catacombs. The first stretch (about 10 km) is best explored on a hired bicycle — the road is closed to cars on Sundays — passing the Tomb of Cecilia Metella, the Circus of Maxentius, and countless anonymous funerary monuments that once lined the road in an unbroken procession.

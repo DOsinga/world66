@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_Inis_Me%C3%A1in.j
 latitude: 53.0855
 loc_type: city
 longitude: -9.587
-score: 0.56
+score: 0.46
 title: Inis Meáin
 type: location
 ---

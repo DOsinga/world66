@@ -9,7 +9,7 @@ image_attribution: Vic0 at en.wikipedia
 latitude: 21.538143
 loc_type: city
 longitude: -105.183878
-score: 0.47
+score: 0.39
 title: San Blas
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 27.9723
 loc_type: city
 longitude: -111.0111
-score: 0.46
+score: 0.39
 title: San Carlos (Sonora)
 type: location
 ---

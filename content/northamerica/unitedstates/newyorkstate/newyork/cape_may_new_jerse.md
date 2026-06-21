@@ -1,6 +1,7 @@
 ---
-latitude: 38.944264
-longitude: -74.882013
+latitude: 38.933431
+longitude: -74.921423
+score: 2.4
 snippet: Victorian seaside town with beaches and whale-watching, 2 hours from NYC
 tags:
 - day_trips
@@ -9,7 +10,6 @@ tags:
 title: Cape May New Jersey
 type: poi
 url: www.capemay.com
-score: 2.4
 ---
 
 Cape May is about a 2–3 hour drive (or train ride via NJ Transit) from New York. The town is one of the best-preserved Victorian seaside resorts in the US — block after block of gingerbread cottages and wraparound porches. The beach is free to access outside of summer weekends.

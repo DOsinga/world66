@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eldoret_1.JPG
 latitude: 0.519833
 loc_type: city
 longitude: 35.271548
-score: 0.37
+score: 0.29
 title: Eldoret
 type: location
 ---

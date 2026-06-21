@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Campi_a_Pantelleria.jpg
 latitude: 36.8315
 loc_type: city
 longitude: 11.945
-score: 0.62
+score: 0.51
 title: Pantelleria
 type: location
 ---

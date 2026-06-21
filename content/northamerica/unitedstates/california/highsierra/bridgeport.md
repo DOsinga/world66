@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bodie_ghost_town,_Californ
 latitude: 38.2553
 loc_type: city
 longitude: -119.2316
-score: 0.47
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Bridgeport,_California
 - https://www.parks.ca.gov/?page_id=509

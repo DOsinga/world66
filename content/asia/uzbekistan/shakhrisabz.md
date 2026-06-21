@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jahangir_Mausoleum_in_Shah
 latitude: 39.0053
 loc_type: city
 longitude: 67.1135
-score: 0.51
+score: 0.47
 title: Shakhrisabz
 type: location
 ---

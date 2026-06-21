@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats,_Cr
 latitude: 25.335649
 loc_type: city
 longitude: 83.007629
-score: 0.65
+score: 0.64
 title: Varanasi
 type: location
 ---

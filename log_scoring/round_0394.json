@@ -1,199 +1,199 @@
 {
   "round": 394,
-  "timestamp": "2026-04-12T09:25:03",
+  "timestamp": "2026-06-13T19:33:14",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Denali Park",
-      "path": "northamerica/unitedstates/alaska/denalipark",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 6.4199,
+      "prior_variance": 2.166243,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Los Angeles",
-      "path": "northamerica/unitedstates/california/losangeles",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 5.6349,
+      "prior_variance": 2.094157,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Colorado Springs",
-      "path": "northamerica/unitedstates/colorado/coloradosprings",
-      "prior_mu": 22.0403,
-      "prior_sigma": 4.2195,
-      "prior_n": 3
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": 3.605,
+      "prior_variance": 1.778341,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Anaheim",
-      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
-      "prior_mu": 21.939,
-      "prior_sigma": 4.8375,
-      "prior_n": 2
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 1.6115,
+      "prior_variance": 1.493189,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "San Antonio",
-      "path": "northamerica/unitedstates/texas/sanantonio",
-      "prior_mu": 22.9947,
-      "prior_sigma": 5.597,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.1759,
+      "prior_variance": 1.76747,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Old Rag Mountain",
-      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Logro\u00f1o",
+      "path": "europe/spain/northernspain/logrono",
+      "prior_score": 8.2603,
+      "prior_variance": 1.863587,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Long Beach",
-      "path": "northamerica/unitedstates/california/long_beach",
-      "prior_mu": 22.059,
-      "prior_sigma": 4.7053,
-      "prior_n": 2
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 5.0358,
+      "prior_variance": 1.94383,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Arlington",
-      "path": "northamerica/unitedstates/virginia/arlington",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 4.4662,
+      "prior_variance": 1.559081,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Tucson",
-      "path": "northamerica/unitedstates/arizona/tucson",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 3.1387,
+      "prior_variance": 1.644633,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Meredith",
-      "path": "northamerica/unitedstates/newhampshire/meredith",
-      "prior_mu": 22.056,
-      "prior_sigma": 5.7484,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 2.7145,
+      "prior_variance": 1.519433,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Eureka",
-      "path": "northamerica/unitedstates/california/northcoast/eureka",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 4.2533,
+      "prior_variance": 2.641475,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "McCloud",
-      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
-      "prior_mu": 22.6849,
-      "prior_sigma": 5.9452,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": -0.2374,
+      "prior_variance": 1.475058,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Crescent City",
-      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
-      "prior_mu": 20.5156,
-      "prior_sigma": 2.4132,
-      "prior_n": 7
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": -2.3154,
+      "prior_variance": 2.028434,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Ely",
-      "path": "northamerica/unitedstates/nevada/ely",
-      "prior_mu": 21.6784,
-      "prior_sigma": 4.7367,
-      "prior_n": 2
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 3.6543,
+      "prior_variance": 1.655985,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Kirkland",
-      "path": "northamerica/unitedstates/washington/kirkland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 3.734,
+      "prior_variance": 2.226899,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Canyon",
-      "path": "northamerica/unitedstates/texas/amarillo/canyon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": -1.3022,
+      "prior_variance": 1.352494,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Waxahachie",
-      "path": "northamerica/unitedstates/texas/waxahachie",
-      "prior_mu": 22.5288,
-      "prior_sigma": 5.9138,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 1.7764,
+      "prior_variance": 1.656321,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Mooresville",
-      "path": "northamerica/unitedstates/northcarolina/mooresville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -2.3643,
+      "prior_variance": 3.425752,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Tallahassee",
-      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
-      "prior_mu": 22.864,
-      "prior_sigma": 5.7206,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -1.1763,
+      "prior_variance": 1.422904,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Wytheville",
-      "path": "northamerica/unitedstates/virginia/wytheville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -2.9492,
+      "prior_variance": 1.709773,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Ontario",
-      "path": "northamerica/unitedstates/california/inlandempire/ontario",
-      "prior_mu": 21.9462,
-      "prior_sigma": 4.8383,
-      "prior_n": 2
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": 0.3694,
+      "prior_variance": 2.327319,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Florence",
-      "path": "northamerica/unitedstates/southcarolina/florence",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": 0.8085,
+      "prior_variance": 1.560584,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Orange Park",
-      "path": "northamerica/unitedstates/florida/orangepark",
-      "prior_mu": 20.4863,
-      "prior_sigma": 4.6344,
-      "prior_n": 2
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -3.2879,
+      "prior_variance": 2.805923,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Albany",
-      "path": "northamerica/unitedstates/georgia/albany",
-      "prior_mu": 22.6431,
-      "prior_sigma": 5.9388,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -1.7441,
+      "prior_variance": 1.530609,
       "prior_n": 1
     }
   ]

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20100924_madaba34.JPG
 latitude: 31.716594
 loc_type: city
 longitude: 35.794386
-score: 0.55
+score: 0.48
 title: Madaba
 type: location
 ---

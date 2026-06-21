@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Andrews_from_Regulus_to
 latitude: 56.3398
 loc_type: city
 longitude: -2.7967
-score: 0.64
+score: 0.57
 title: St Andrews
 type: location
 ---

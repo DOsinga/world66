@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img12_
 latitude: 41.006381
 loc_type: city
 longitude: 28.975872
-score: 0.83
+score: 0.79
 title: Istanbul
 type: location
 ---

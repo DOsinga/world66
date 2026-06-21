@@ -3,10 +3,14 @@ title: The Strip
 type: neighbourhood
 latitude: 36.1147
 longitude: -115.1728
-snippet: "The four-mile parade of mega-resorts that is Las Vegas Boulevard South"
+snippet: The four-mile parade of mega-resorts that is Las Vegas Boulevard South
 tags:
 - things_to_do
 - neighbourhood
+image: the_strip.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_December_2013_panorama.jpg
+image_license: CC BY-SA 3.0
+image_attribution: King of Hearts
 ---
 
 The Strip is the four-mile stretch of Las Vegas Boulevard South where almost every iconic Vegas thing happens. Technically it sits outside the city limits, in the unincorporated township of Paradise — a small bureaucratic quirk that is occasionally relevant for tax and zoning, never relevant for visitors. The boulevard runs roughly north-south from the STRAT tower down to the Welcome to Fabulous Las Vegas sign.

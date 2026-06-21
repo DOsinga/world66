@@ -1,0 +1,200 @@
+{
+  "round": 4501,
+  "timestamp": "2026-06-14T00:17:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.3451,
+      "prior_variance": 0.102527,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 3.1157,
+      "prior_variance": 0.093385,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 2.7212,
+      "prior_variance": 0.086798,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 4.661,
+      "prior_variance": 0.100168,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 0.8843,
+      "prior_variance": 0.098805,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 2.6572,
+      "prior_variance": 0.104017,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 0.5292,
+      "prior_variance": 0.09317,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 1.1524,
+      "prior_variance": 0.108495,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouses",
+      "prior_score": 2.4611,
+      "prior_variance": 0.094264,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -1.0703,
+      "prior_variance": 0.091184,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": -1.329,
+      "prior_variance": 0.111328,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 0.1104,
+      "prior_variance": 0.106043,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": 0.0732,
+      "prior_variance": 0.108649,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": -0.478,
+      "prior_variance": 0.103726,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": -0.0352,
+      "prior_variance": 0.101509,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.7548,
+      "prior_variance": 0.090832,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.4827,
+      "prior_variance": 0.083522,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -1.409,
+      "prior_variance": 0.107199,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.0459,
+      "prior_variance": 0.101742,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.2368,
+      "prior_variance": 0.089639,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.2372,
+      "prior_variance": 0.09162,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.5153,
+      "prior_variance": 0.101196,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.1426,
+      "prior_variance": 0.096877,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.154,
+      "prior_variance": 0.089303,
+      "prior_n": 15
+    }
+  ]
+}

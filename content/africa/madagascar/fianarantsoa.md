@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/96241794@N03/30186227862
 latitude: -21.456444
 loc_type: city
 longitude: 47.085149
-score: 0.4
+score: 0.32
 title: Fianarantsoa
 type: location
 ---

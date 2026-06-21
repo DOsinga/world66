@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Incline_Village_Panoramic.
 latitude: 39.250125
 loc_type: city
 longitude: -119.951909
-score: 0.53
+score: 0.45
 title: Incline Village
 type: location
 ---

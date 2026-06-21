@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+- colaba
 title: Leopold Cafe
 type: poi
 score: 6.3

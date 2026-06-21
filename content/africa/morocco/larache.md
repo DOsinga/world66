@@ -6,11 +6,11 @@ longitude: -6.152913
 done:
   location_cleanup: 2026-04-08
   location_enrich: '2026-05-30'
-score: 0.49
+score: 0.39
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Larache
-  - https://en.wikipedia.org/wiki/Lixus_(ancient_city)
+- https://en.wikipedia.org/wiki/Larache
+- https://en.wikipedia.org/wiki/Lixus_(ancient_city)
 ---
 
 Larache is a relaxed Atlantic coast town where few tourists venture, making it a good place to experience everyday Moroccan life without the hustle of the more popular destinations. The town sits beside an estuary that opens into the Atlantic, with sea cliffs to the west and tangerine and orange groves to the south.

@@ -5,7 +5,7 @@ done:
 latitude: 40.0674
 loc_type: city
 longitude: 19.8163
-score: 0.56
+score: 0.41
 title: Jalë
 type: location
 ---

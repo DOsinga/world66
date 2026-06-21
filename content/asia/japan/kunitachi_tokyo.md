@@ -6,7 +6,7 @@ latitude: 35.681991
 longitude: 139.43624
 title: Kunitachi, Tokyo
 type: location
-score: 0.49
+score: 0.36
 loc_type: city
 ---
 

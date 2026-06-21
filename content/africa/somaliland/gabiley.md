@@ -5,7 +5,7 @@ done:
 latitude: 9.762
 loc_type: city
 longitude: 43.6792
-score: 0.18
+score: 0.14
 title: Gabiley
 type: location
 ---

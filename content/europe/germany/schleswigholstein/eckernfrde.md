@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eckernf%C3%B6rde_Hafen_Hol
 latitude: 54.4742
 loc_type: city
 longitude: 9.8376
-score: 0.41
+score: 0.4
 title: Eckernförde
 type: location
 ---

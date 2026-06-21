@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mtera_Lake_at_Sunset.jpg
 latitude: -7.161444
 loc_type: city
 longitude: 35.776251
-score: 0.32
+score: 0.21
 title: Mtera
 type: location
 ---

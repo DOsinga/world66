@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Khajuraho.jpg
 latitude: 24.851513
 loc_type: city
 longitude: 79.925979
-score: 0.62
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments
 title: Khajuraho

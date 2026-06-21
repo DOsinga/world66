@@ -1,13 +1,14 @@
 ---
-title: Jantar Mantar
-type: poi
-snippet: "18th-century astronomical instruments in the heart of New Delhi"
-tags:
-- things_to_do
-- sight
 latitude: 28.6271
 longitude: 77.2166
 score: 7.7
+snippet: 18th-century astronomical instruments in the heart of New Delhi
+tags:
+- things_to_do
+- sight
+- lutyens
+title: Jantar Mantar
+type: poi
 ---
 
 An open-air collection of enormous geometric instruments built in 1724 by Maharaja Sawai Jai Singh II of Jaipur, who was obsessed with astronomy and dissatisfied with the brass instruments of his day. The Delhi Jantar Mantar is the oldest and largest of the five observatories he built across northern India.

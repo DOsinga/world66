@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lafayette_LA_Pano
 latitude: 30.226219
 loc_type: city
 longitude: -92.01782
-score: 0.47
+score: 0.42
 title: Lafayette
 type: location
 ---

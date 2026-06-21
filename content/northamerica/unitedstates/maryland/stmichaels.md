@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Saint_Michaels,_M
 latitude: 38.7851
 loc_type: city
 longitude: -76.2244
-score: 0.47
+score: 0.41
 title: St. Michaels
 type: location
 ---

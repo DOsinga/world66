@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Fargo_Aerial_-_Fa
 latitude: 46.8772
 loc_type: city
 longitude: -96.7898
-score: 0.36
+score: 0.3
 title: Fargo
 type: location
 ---

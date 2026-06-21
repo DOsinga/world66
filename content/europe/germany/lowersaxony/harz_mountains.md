@@ -5,7 +5,7 @@ latitude: 51.75
 longitude: 10.6167
 title: Harz Mountains
 type: location
-score: 0.56
+score: 0.5
 loc_type: feature
 ---
 

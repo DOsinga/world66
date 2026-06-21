@@ -1,0 +1,200 @@
+{
+  "round": 2782,
+  "timestamp": "2026-06-13T22:06:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 7.8056,
+      "prior_variance": 0.261835,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 9.8753,
+      "prior_variance": 0.379307,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 4.4282,
+      "prior_variance": 0.197093,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 6.4816,
+      "prior_variance": 0.249334,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 6.2483,
+      "prior_variance": 0.19564,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.3998,
+      "prior_variance": 0.205668,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 4.9591,
+      "prior_variance": 0.162971,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 1.1298,
+      "prior_variance": 0.168117,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.7057,
+      "prior_variance": 0.144828,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 2.901,
+      "prior_variance": 0.199963,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.4811,
+      "prior_variance": 0.158432,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phuquoc",
+      "prior_score": 6.1785,
+      "prior_variance": 0.257284,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 5.2023,
+      "prior_variance": 0.188291,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 3.0594,
+      "prior_variance": 0.163272,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 0.5424,
+      "prior_variance": 0.153684,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.5342,
+      "prior_variance": 0.14043,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.1651,
+      "prior_variance": 0.136702,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.342,
+      "prior_variance": 0.171813,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 1.9501,
+      "prior_variance": 0.177594,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -1.2096,
+      "prior_variance": 0.183344,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.8453,
+      "prior_variance": 0.146692,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.8461,
+      "prior_variance": 0.169551,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -2.8981,
+      "prior_variance": 0.163509,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.5084,
+      "prior_variance": 0.167914,
+      "prior_n": 9
+    }
+  ]
+}

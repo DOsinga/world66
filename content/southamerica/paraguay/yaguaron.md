@@ -5,7 +5,7 @@ done:
 latitude: -25.563056
 loc_type: city
 longitude: -57.285697
-score: 0.33
+score: 0.29
 title: Yaguaron
 type: location
 ---

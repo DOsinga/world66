@@ -13,6 +13,7 @@ image: bhitarkanika.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bhitarkanika_National_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: The Funky Writer
+score: 0.41
 ---
 
 Bhitarkanika National Park protects one of the great mangrove landscapes of eastern India. Rivers, creeks, mudflats, and forested islands spread out behind the Bay of Bengal, creating a quieter, less famous cousin to the Sundarbans. The stars here are saltwater crocodiles, waterbirds, monitor lizards, and the strange stillness of the mangrove channels.

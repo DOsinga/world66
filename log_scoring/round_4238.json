@@ -1,0 +1,200 @@
+{
+  "round": 4238,
+  "timestamp": "2026-06-13T23:56:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 19.5871,
+      "prior_variance": 1.606705,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 10.8229,
+      "prior_variance": 0.21794,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.1581,
+      "prior_variance": 0.152065,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 6.3002,
+      "prior_variance": 0.140333,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.3245,
+      "prior_variance": 0.118424,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 3.0708,
+      "prior_variance": 0.097498,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 5.4984,
+      "prior_variance": 0.114744,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 1.7224,
+      "prior_variance": 0.095101,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Matamata",
+      "path": "australiaandpacific/newzealand/matamata",
+      "prior_score": 3.0445,
+      "prior_variance": 0.104839,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.4543,
+      "prior_variance": 0.098497,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.4331,
+      "prior_variance": 0.105093,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.6368,
+      "prior_variance": 0.112771,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.7828,
+      "prior_variance": 0.102354,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Shillong",
+      "path": "asia/india/meghalaya/shillong",
+      "prior_score": 1.1442,
+      "prior_variance": 0.105833,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.0434,
+      "prior_variance": 0.089251,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.3212,
+      "prior_variance": 0.119396,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.4572,
+      "prior_variance": 0.097574,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.8537,
+      "prior_variance": 0.098402,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ostende",
+      "path": "europe/belgium/ostende",
+      "prior_score": 0.094,
+      "prior_variance": 0.093965,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.5003,
+      "prior_variance": 0.09525,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.4545,
+      "prior_variance": 0.100973,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 0.0744,
+      "prior_variance": 0.144355,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -0.3728,
+      "prior_variance": 0.110392,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -6.0407,
+      "prior_variance": 0.149895,
+      "prior_n": 14
+    }
+  ]
+}

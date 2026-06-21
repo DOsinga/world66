@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parihaka_te_Maunga.jpg
 latitude: -35.727527
 loc_type: city
 longitude: 174.31942
-score: 0.51
+score: 0.43
 title: Whangarei
 type: location
 ---

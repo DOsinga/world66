@@ -5,7 +5,7 @@ latitude: 40.530158
 longitude: 44.670161
 title: Tsaghkadzor Ski Resort
 type: location
-score: 0.5
+score: 0.41
 loc_type: feature
 ---
 

@@ -1,0 +1,200 @@
+{
+  "round": 4546,
+  "timestamp": "2026-06-14T00:21:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 10.5505,
+      "prior_variance": 0.329076,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 7.344,
+      "prior_variance": 0.149754,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 7.9759,
+      "prior_variance": 0.184881,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 2.6218,
+      "prior_variance": 0.098057,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 6.6159,
+      "prior_variance": 0.135908,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.0246,
+      "prior_variance": 0.10104,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.4303,
+      "prior_variance": 0.088368,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.6354,
+      "prior_variance": 0.085351,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.0945,
+      "prior_variance": 0.10042,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": -0.3939,
+      "prior_variance": 0.105368,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.5814,
+      "prior_variance": 0.109078,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.0114,
+      "prior_variance": 0.113073,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.2259,
+      "prior_variance": 0.101581,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -2.7191,
+      "prior_variance": 0.087738,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.0035,
+      "prior_variance": 0.108046,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.3043,
+      "prior_variance": 0.097214,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_score": -3.9416,
+      "prior_variance": 0.096179,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ruijin",
+      "path": "asia/china/jiangxi/ruijin",
+      "prior_score": -4.2623,
+      "prior_variance": 0.089241,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -5.4549,
+      "prior_variance": 0.10346,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -2.7829,
+      "prior_variance": 0.090788,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -3.7123,
+      "prior_variance": 0.098565,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -4.5979,
+      "prior_variance": 0.118801,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -4.419,
+      "prior_variance": 0.121516,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -5.9882,
+      "prior_variance": 0.178461,
+      "prior_n": 14
+    }
+  ]
+}

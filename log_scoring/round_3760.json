@@ -1,0 +1,200 @@
+{
+  "round": 3760,
+  "timestamp": "2026-06-13T23:18:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 6.1766,
+      "prior_variance": 0.167288,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.8393,
+      "prior_variance": 0.114482,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 3.0964,
+      "prior_variance": 0.119048,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.1562,
+      "prior_variance": 0.128105,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 3.1919,
+      "prior_variance": 0.15254,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.0394,
+      "prior_variance": 0.120452,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 2.0667,
+      "prior_variance": 0.107836,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.8123,
+      "prior_variance": 0.111811,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 1.9225,
+      "prior_variance": 0.126192,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": 0.179,
+      "prior_variance": 0.109215,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.2782,
+      "prior_variance": 0.103114,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.3202,
+      "prior_variance": 0.096045,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle",
+      "prior_score": -2.1763,
+      "prior_variance": 0.127868,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -2.5772,
+      "prior_variance": 0.124488,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -2.6823,
+      "prior_variance": 0.107322,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.0454,
+      "prior_variance": 0.121266,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.738,
+      "prior_variance": 0.139488,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -3.9476,
+      "prior_variance": 0.134568,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -2.9079,
+      "prior_variance": 0.11172,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -3.3215,
+      "prior_variance": 0.141536,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.3754,
+      "prior_variance": 0.118924,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -3.775,
+      "prior_variance": 0.113616,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.5815,
+      "prior_variance": 0.097397,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -5.1259,
+      "prior_variance": 0.136244,
+      "prior_n": 12
+    }
+  ]
+}

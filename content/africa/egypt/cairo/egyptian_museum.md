@@ -1,14 +1,18 @@
 ---
 latitude: 30.047966
 longitude: 31.233609
-snippet: Tutankhamun's gold mask and 5,000 years of Egyptian history on Tahrir Square
+score: 9.3
+snippet: Historic Tahrir Square museum with mummies, ancient statuary, and artifacts
+  spanning 5,000 years
 tags:
 - things_to_do
 - museum
 - square
+- downtown
 title: Egyptian Museum
 type: poi
-score: 9.3
 ---
 
-The sprawling sandstone building on Tahrir Square is the single biggest draw within the city. Inside are the mummies of Ramses II and Seti I, the entire contents of Tutankhamun's tomb — including the solid-gold death mask — and artifacts spanning 5,000 years of Egyptian civilization. Don't overlook the Greek and Roman collection. Budget at least half a day; many people come back for a second visit.
+The sandstone building on Tahrir Square housed Egypt's greatest treasures for over a century. Since the Grand Egyptian Museum at Giza opened in 2024, the Tutankhamun collection — including the gold death mask — has moved there. The Tahrir building remains open and still holds an enormous collection: the royal mummies of Ramses II and Seti I, thousands of ancient statues, papyri, and everyday objects spanning from prehistoric times to the Roman period.
+
+It is a worthwhile visit in its own right, particularly for the mummy room and the scale of the collections that didn't transfer to Giza. Budget two hours. For Tutankhamun specifically, make the trip to the Grand Egyptian Museum instead — see Day Trips.

@@ -1,0 +1,200 @@
+{
+  "round": 4162,
+  "timestamp": "2026-06-13T23:50:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.3199,
+      "prior_variance": 0.257362,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 5.4631,
+      "prior_variance": 0.1248,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.1006,
+      "prior_variance": 0.119872,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 4.5571,
+      "prior_variance": 0.118986,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 6.7282,
+      "prior_variance": 0.139758,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 7.2358,
+      "prior_variance": 0.174191,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 4.3647,
+      "prior_variance": 0.137844,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 5.9034,
+      "prior_variance": 0.123222,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 4.9878,
+      "prior_variance": 0.119563,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 5.3192,
+      "prior_variance": 0.109246,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 4.1472,
+      "prior_variance": 0.108158,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 4.6305,
+      "prior_variance": 0.123906,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 2.3778,
+      "prior_variance": 0.109775,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Girdwood",
+      "path": "northamerica/unitedstates/alaska/girdwood",
+      "prior_score": 2.3776,
+      "prior_variance": 0.123696,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -4.1543,
+      "prior_variance": 0.213668,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 1.8258,
+      "prior_variance": 0.096527,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.978,
+      "prior_variance": 0.096908,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 0.0391,
+      "prior_variance": 0.092011,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.5469,
+      "prior_variance": 0.11691,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.6248,
+      "prior_variance": 0.093401,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.283,
+      "prior_variance": 0.096508,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Nantong",
+      "path": "asia/china/jiangsu_province/nantong",
+      "prior_score": -4.3625,
+      "prior_variance": 0.11721,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.5065,
+      "prior_variance": 0.168325,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -9.8277,
+      "prior_variance": 0.372255,
+      "prior_n": 13
+    }
+  ]
+}

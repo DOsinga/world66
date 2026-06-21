@@ -1,200 +1,200 @@
 {
   "round": 550,
-  "timestamp": "2026-04-12T10:37:05",
+  "timestamp": "2026-06-13T19:41:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kerala",
-      "path": "asia/india/kerala",
-      "prior_mu": 22.6961,
-      "prior_sigma": 4.6233,
-      "prior_n": 2
-    },
-    {
-      "rank": 2,
-      "title": "Himachal Pradesh",
-      "path": "asia/india/himachalpradesh",
-      "prior_mu": 22.7364,
-      "prior_sigma": 5.8141,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 2.1023,
+      "prior_variance": 1.429693,
       "prior_n": 1
     },
     {
+      "rank": 2,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 1.0599,
+      "prior_variance": 1.049272,
+      "prior_n": 2
+    },
+    {
       "rank": 3,
-      "title": "Pahalgam",
-      "path": "asia/india/jammuandkashmir/pahalgam",
-      "prior_mu": 23.6419,
-      "prior_sigma": 4.7852,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": -0.7583,
+      "prior_variance": 0.89599,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Varanasi",
-      "path": "asia/india/uttarpradesh/varanasi",
-      "prior_mu": 22.9152,
-      "prior_sigma": 5.9436,
-      "prior_n": 1
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -1.1875,
+      "prior_variance": 1.125681,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Kumarakom",
-      "path": "asia/india/kerala/kumarakom",
-      "prior_mu": 22.6217,
-      "prior_sigma": 5.771,
-      "prior_n": 1
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -0.3523,
+      "prior_variance": 0.882842,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Mussoorie",
-      "path": "asia/india/uttaranchal/mussoorie",
-      "prior_mu": 21.659,
-      "prior_sigma": 4.7185,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -1.0937,
+      "prior_variance": 0.905156,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Rishikesh",
-      "path": "asia/india/uttarpradesh/rishikesh",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.3765,
+      "prior_variance": 1.16326,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Bangalore",
-      "path": "asia/india/karnataka/bangalore",
-      "prior_mu": 21.6635,
-      "prior_sigma": 4.7716,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -1.7872,
+      "prior_variance": 1.136464,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Kishtwar",
-      "path": "asia/india/jammuandkashmir/kishtwar",
-      "prior_mu": 22.5909,
-      "prior_sigma": 5.6737,
-      "prior_n": 1
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 2.8259,
+      "prior_variance": 1.983844,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Murudeshwar",
-      "path": "asia/india/karnataka/murudeshwar",
-      "prior_mu": 20.8309,
-      "prior_sigma": 2.8821,
-      "prior_n": 5
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -1.6629,
+      "prior_variance": 1.373099,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Imphal",
-      "path": "asia/india/manipur/imphal",
-      "prior_mu": 22.3482,
-      "prior_sigma": 5.4979,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": -1.7684,
+      "prior_variance": 1.543152,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "rudrapyag",
-      "path": "asia/india/uttaranchal/rudrapyag",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.1332,
+      "prior_variance": 1.888945,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Patna",
-      "path": "asia/india/bihar/patna",
-      "prior_mu": 22.7067,
-      "prior_sigma": 5.9507,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -1.3769,
+      "prior_variance": 1.609741,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Mandarmani",
-      "path": "asia/india/westbengal/mandarmani",
-      "prior_mu": 22.4488,
-      "prior_sigma": 5.6496,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.5073,
+      "prior_variance": 1.25225,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Gandhinagar",
-      "path": "asia/india/gujarat/gandhinagar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -0.998,
+      "prior_variance": 0.740762,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Rajsamand",
-      "path": "asia/india/rajasthan/rajsamand",
-      "prior_mu": 22.6261,
-      "prior_sigma": 5.725,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -2.3016,
+      "prior_variance": 1.339958,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Nagapattinam",
-      "path": "asia/india/tamilnadu/nagapattinam",
-      "prior_mu": 22.3787,
-      "prior_sigma": 5.7625,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.9273,
+      "prior_variance": 1.397729,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Nagore",
-      "path": "asia/india/tamilnadu/nagore",
-      "prior_mu": 22.7183,
-      "prior_sigma": 5.6836,
-      "prior_n": 1
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.2393,
+      "prior_variance": 1.782717,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Naraj",
-      "path": "asia/india/orissa/naraj",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -2.0086,
+      "prior_variance": 1.257894,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Hoshangabad",
-      "path": "asia/india/madhyapradesh/hoshangabad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -3.9977,
+      "prior_variance": 0.914198,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Bharuch",
-      "path": "asia/india/gujarat/bharuch",
-      "prior_mu": 21.2739,
-      "prior_sigma": 4.082,
-      "prior_n": 3
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -3.5358,
+      "prior_variance": 1.218087,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Nanded",
-      "path": "asia/india/maharashtra/mumbai/nanded",
-      "prior_mu": 22.3632,
-      "prior_sigma": 5.7488,
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -1.7623,
+      "prior_variance": 1.325203,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Kadiri",
-      "path": "asia/india/andhrapradesh/kadiri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -2.3395,
+      "prior_variance": 1.462057,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Dhule",
-      "path": "asia/india/maharashtra/dhule",
-      "prior_mu": 20.6682,
-      "prior_sigma": 4.7032,
-      "prior_n": 2
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.2009,
+      "prior_variance": 2.082455,
+      "prior_n": 1
     }
   ]
 }

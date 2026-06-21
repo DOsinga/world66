@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sicilia_Palermo5_tango7174
 latitude: 38.1113
 loc_type: city
 longitude: 13.3524
-score: 0.73
+score: 0.63
 title: Palermo
 type: location
 ---

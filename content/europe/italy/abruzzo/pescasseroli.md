@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pescasseroli_view.jpg
 latitude: 41.808401
 loc_type: city
 longitude: 13.789282
-score: 0.56
+score: 0.47
 title: Pescasseroli
 type: location
 ---

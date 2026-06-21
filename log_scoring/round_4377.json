@@ -1,0 +1,200 @@
+{
+  "round": 4377,
+  "timestamp": "2026-06-14T00:07:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.4303,
+      "prior_variance": 0.097668,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.82,
+      "prior_variance": 0.109901,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 4.4124,
+      "prior_variance": 0.115067,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 4.406,
+      "prior_variance": 0.105171,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 1.9826,
+      "prior_variance": 0.194718,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 4.2407,
+      "prior_variance": 0.097541,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 0.4771,
+      "prior_variance": 0.101891,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 1.8696,
+      "prior_variance": 0.11308,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.5107,
+      "prior_variance": 0.103203,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.3579,
+      "prior_variance": 0.10858,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -1.2125,
+      "prior_variance": 0.126324,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.8839,
+      "prior_variance": 0.091309,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.5174,
+      "prior_variance": 0.089171,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -3.9125,
+      "prior_variance": 0.096482,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -1.2847,
+      "prior_variance": 0.102294,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -2.5454,
+      "prior_variance": 0.100885,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -1.9718,
+      "prior_variance": 0.096803,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Hailar",
+      "path": "asia/china/innermongolia/hailar",
+      "prior_score": -2.8496,
+      "prior_variance": 0.091175,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.3551,
+      "prior_variance": 0.104397,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -4.4705,
+      "prior_variance": 0.090974,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -5.4299,
+      "prior_variance": 0.120041,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.2974,
+      "prior_variance": 0.094341,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_score": -6.2313,
+      "prior_variance": 0.128851,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.638,
+      "prior_variance": 0.802498,
+      "prior_n": 14
+    }
+  ]
+}

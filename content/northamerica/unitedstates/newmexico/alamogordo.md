@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/26937667@N02/3566213478
 latitude: 32.8999
 loc_type: city
 longitude: -105.9602
-score: 0.42
+score: 0.36
 title: Alamogordo
 type: location
 ---

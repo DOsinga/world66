@@ -5,7 +5,7 @@ done:
 latitude: 68.799943
 loc_type: city
 longitude: 16.544032
-score: 0.52
+score: 0.44
 title: Harstad
 type: location
 ---

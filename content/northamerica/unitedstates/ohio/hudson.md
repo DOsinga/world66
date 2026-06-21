@@ -5,7 +5,7 @@ done:
 latitude: 41.24
 loc_type: city
 longitude: -81.4408
-score: 0.34
+score: 0.27
 title: Hudson
 type: location
 image: hudson.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baranovichi_railway_statio
 latitude: 53.132292
 loc_type: city
 longitude: 26.018416
-score: 0.29
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Baranovichi
 title: Baranovichi

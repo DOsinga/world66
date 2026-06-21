@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:122_-_Toronto_-_Septembre_
 latitude: 43.653482
 loc_type: city
 longitude: -79.383935
-score: 0.68
+score: 0.54
 title: Toronto
 type: location
 ---

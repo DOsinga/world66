@@ -5,7 +5,7 @@ latitude: -20.305063
 longitude: 57.407975
 title: Casela
 type: location
-score: 0.55
+score: 0.5
 loc_type: feature
 ---
 

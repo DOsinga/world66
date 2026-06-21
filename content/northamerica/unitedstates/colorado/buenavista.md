@@ -10,7 +10,7 @@ image_attribution: Ken Lund on Flickr
 latitude: 38.8422
 loc_type: city
 longitude: -106.1311
-score: 0.5
+score: 0.43
 title: Buena Vista
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment_2.jp
 latitude: 14.3505
 loc_type: city
 longitude: -3.6113
-score: 0.46
+score: 0.38
 title: Bandiagara
 type: location
 ---

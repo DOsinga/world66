@@ -9,6 +9,7 @@ sources:
 - https://en.wikipedia.org/wiki/Fort_Osage
 title: Buckner
 type: location
+score: 0.18
 ---
 
 Buckner is a small town east of [Kansas City](/northamerica/unitedstates/missouri/kansascity), set in the Missouri River country of eastern Jackson County. It is close enough to the metro to feel connected, but the landscape opens quickly into fields, creeks, rail lines, and older river settlements.

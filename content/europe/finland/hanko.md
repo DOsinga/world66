@@ -5,7 +5,7 @@ done:
 latitude: 59.8228
 loc_type: city
 longitude: 22.9695
-score: 0.49
+score: 0.41
 title: Hanko
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2385,
+  "timestamp": "2026-06-13T21:38:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 21.036,
+      "prior_variance": 1.598053,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.6405,
+      "prior_variance": 0.259214,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.6903,
+      "prior_variance": 0.25926,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -5.0771,
+      "prior_variance": 0.186719,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -4.0882,
+      "prior_variance": 0.184789,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -2.9002,
+      "prior_variance": 0.202167,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -3.9792,
+      "prior_variance": 0.182246,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.5166,
+      "prior_variance": 0.171708,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.6352,
+      "prior_variance": 0.176372,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -3.8245,
+      "prior_variance": 0.230205,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.7115,
+      "prior_variance": 0.222546,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -5.1192,
+      "prior_variance": 0.231173,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -5.1107,
+      "prior_variance": 0.197174,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -4.171,
+      "prior_variance": 0.198453,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -4.5321,
+      "prior_variance": 0.260127,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.4903,
+      "prior_variance": 0.217884,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -4.9495,
+      "prior_variance": 0.203954,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.6069,
+      "prior_variance": 0.283085,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_score": -3.1856,
+      "prior_variance": 0.167563,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -4.934,
+      "prior_variance": 0.240092,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -5.536,
+      "prior_variance": 0.337824,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -7.0575,
+      "prior_variance": 0.25654,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/south_east/barking",
+      "prior_score": -7.2176,
+      "prior_variance": 0.323343,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -10.6337,
+      "prior_variance": 0.364484,
+      "prior_n": 7
+    }
+  ]
+}

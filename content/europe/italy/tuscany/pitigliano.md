@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pitigliano-veduta.JPG
 latitude: 42.634827
 loc_type: city
 longitude: 11.673549
-score: 0.62
+score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Pitigliano
 title: Pitigliano

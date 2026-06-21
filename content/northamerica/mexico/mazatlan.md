@@ -5,7 +5,7 @@ done:
 latitude: 23.203578
 loc_type: city
 longitude: -106.420839
-score: 0.6
+score: 0.53
 title: Mazatlan
 type: location
 ---

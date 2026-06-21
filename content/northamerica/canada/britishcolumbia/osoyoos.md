@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osoyoos_BC_2008.jpg
 latitude: 49.033333
 loc_type: city
 longitude: -119.466667
-score: 0.52
+score: 0.43
 title: Osoyoos
 type: location
 ---

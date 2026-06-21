@@ -5,7 +5,7 @@ done:
 latitude: 27.190194
 loc_type: city
 longitude: 56.284221
-score: 0.32
+score: 0.25
 title: Bandar Abbas
 type: location
 ---

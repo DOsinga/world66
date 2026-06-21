@@ -6,7 +6,7 @@ done:
 latitude: 42.3316
 loc_type: city
 longitude: -83.0466
-score: 0.39
+score: 0.3
 title: Detroit
 type: location
 ---

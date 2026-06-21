@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Mdina_(Triq_San_Os
 latitude: 35.885892
 loc_type: city
 longitude: 14.402529
-score: 0.66
+score: 0.59
 title: Mdina
 type: location
 ---

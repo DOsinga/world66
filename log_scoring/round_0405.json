@@ -1,199 +1,199 @@
 {
   "round": 405,
-  "timestamp": "2026-04-12T09:29:31",
+  "timestamp": "2026-06-13T19:33:48",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Honolulu",
-      "path": "northamerica/unitedstates/hawaii/honolulu",
-      "prior_mu": 24.7487,
-      "prior_sigma": 5.794,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 0.1781,
+      "prior_variance": 1.443271,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Lanai",
-      "path": "northamerica/unitedstates/hawaii/lanai",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 3.1284,
+      "prior_variance": 1.568624,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Miami",
-      "path": "northamerica/unitedstates/florida/miami",
-      "prior_mu": 31.1936,
-      "prior_sigma": 6.3395,
-      "prior_n": 2
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 2.0925,
+      "prior_variance": 3.038773,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Red Rock Canyon",
-      "path": "northamerica/unitedstates/nevada/redrockcanyon",
-      "prior_mu": 22.5392,
-      "prior_sigma": 5.8,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": 0.2366,
+      "prior_variance": 1.791411,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Palm Springs",
-      "path": "northamerica/unitedstates/palm_springs",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -1.2314,
+      "prior_variance": 1.615294,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Pensacola Beach",
-      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
-      "prior_mu": 22.7102,
-      "prior_sigma": 5.9484,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.0122,
+      "prior_variance": 1.503592,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Wyoming",
-      "path": "northamerica/unitedstates/wyoming",
-      "prior_mu": 23.748,
-      "prior_sigma": 5.9964,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -1.1698,
+      "prior_variance": 1.374808,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Angel Fire",
-      "path": "northamerica/unitedstates/newmexico/angelfire",
-      "prior_mu": 22.6424,
-      "prior_sigma": 5.9398,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -1.7279,
+      "prior_variance": 1.605704,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Ludlow",
-      "path": "northamerica/unitedstates/vermont/ludlow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": 1.3326,
+      "prior_variance": 2.093992,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Virginia City",
-      "path": "northamerica/unitedstates/montana/virginiacity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.8629,
+      "prior_variance": 1.576647,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Eastport",
-      "path": "northamerica/unitedstates/maine/eastport",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": 0.5029,
+      "prior_variance": 1.585261,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Groveland",
-      "path": "northamerica/unitedstates/california/groveland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -1.6515,
+      "prior_variance": 1.331745,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Oceanside",
-      "path": "northamerica/unitedstates/california/oceanside",
-      "prior_mu": 22.4747,
-      "prior_sigma": 5.9071,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.5389,
+      "prior_variance": 1.76266,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Brenham",
-      "path": "northamerica/unitedstates/texas/brenham",
-      "prior_mu": 22.2747,
-      "prior_sigma": 5.7837,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.6999,
+      "prior_variance": 2.030271,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Murfreesboro",
-      "path": "northamerica/unitedstates/tennessee/murfreesboro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": 0.8063,
+      "prior_variance": 1.418394,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Columbia",
-      "path": "northamerica/unitedstates/missouri/columbia",
-      "prior_mu": 22.7033,
-      "prior_sigma": 5.9475,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -2.3962,
+      "prior_variance": 1.814033,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Urbana-Champaign",
-      "path": "northamerica/unitedstates/illinois/urbanachampaign",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -2.0127,
+      "prior_variance": 1.54354,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Bangor",
-      "path": "northamerica/unitedstates/maine/bangor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -4.7216,
+      "prior_variance": 1.55738,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Akron",
-      "path": "northamerica/unitedstates/ohio/akron",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -4.1644,
+      "prior_variance": 1.798112,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Jackson",
-      "path": "northamerica/unitedstates/michigan/jackson",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -4.01,
+      "prior_variance": 2.434122,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Moorhead",
-      "path": "northamerica/unitedstates/minnesota/moorhead",
-      "prior_mu": 21.663,
-      "prior_sigma": 5.3581,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -4.8977,
+      "prior_variance": 2.198841,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Dade City",
-      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": 1.3503,
+      "prior_variance": 1.598248,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Pickerington",
-      "path": "northamerica/unitedstates/ohio/pickerington",
-      "prior_mu": 22.4487,
-      "prior_sigma": 5.9031,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -3.9668,
+      "prior_variance": 2.13826,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Andersonville",
-      "path": "northamerica/unitedstates/georgia/andersonville",
-      "prior_mu": 22.4882,
-      "prior_sigma": 5.9088,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -3.263,
+      "prior_variance": 1.716805,
       "prior_n": 1
     }
   ]

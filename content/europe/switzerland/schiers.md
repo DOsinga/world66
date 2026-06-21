@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2015-Schiers-Dorfstrasse.j
 latitude: 46.9689
 loc_type: city
 longitude: 9.69
-score: 0.42
+score: 0.38
 title: Schiers
 type: location
 ---

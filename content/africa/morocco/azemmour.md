@@ -5,7 +5,7 @@ done:
 latitude: 33.274983
 loc_type: city
 longitude: -8.343252
-score: 0.49
+score: 0.43
 title: Azemmour
 type: location
 image: azemmour.jpg

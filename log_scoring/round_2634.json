@@ -1,0 +1,200 @@
+{
+  "round": 2634,
+  "timestamp": "2026-06-13T21:56:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 4.8968,
+      "prior_variance": 0.16954,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.553,
+      "prior_variance": 0.174031,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.6594,
+      "prior_variance": 0.166196,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 1.9487,
+      "prior_variance": 0.148763,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.1371,
+      "prior_variance": 0.173223,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 1.9563,
+      "prior_variance": 0.174521,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.7794,
+      "prior_variance": 0.199613,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 2.0769,
+      "prior_variance": 0.160845,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.0116,
+      "prior_variance": 0.153879,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.5407,
+      "prior_variance": 0.187429,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -3.1187,
+      "prior_variance": 0.187576,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -3.1782,
+      "prior_variance": 0.150116,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -5.9778,
+      "prior_variance": 0.219944,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -5.3779,
+      "prior_variance": 0.308756,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -4.6408,
+      "prior_variance": 0.218816,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -2.3531,
+      "prior_variance": 0.163971,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.2155,
+      "prior_variance": 0.157898,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -6.4456,
+      "prior_variance": 0.196959,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -7.4525,
+      "prior_variance": 0.202226,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -6.6349,
+      "prior_variance": 0.252163,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -10.3623,
+      "prior_variance": 0.589487,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.6685,
+      "prior_variance": 0.531768,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.2716,
+      "prior_variance": 0.475609,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -15.9016,
+      "prior_variance": 2.501713,
+      "prior_n": 8
+    }
+  ]
+}

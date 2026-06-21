@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_tela_honduras_ma
 latitude: 15.7833
 loc_type: city
 longitude: -87.4667
-score: 0.43
+score: 0.36
 title: Tela
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2390,
+  "timestamp": "2026-06-13T21:39:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 2.7219,
+      "prior_variance": 0.245783,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 3.0572,
+      "prior_variance": 0.190268,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 2.8793,
+      "prior_variance": 0.22627,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -0.8714,
+      "prior_variance": 0.211379,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 2.2016,
+      "prior_variance": 0.179696,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.285,
+      "prior_variance": 0.188945,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 1.3823,
+      "prior_variance": 0.192553,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 2.0816,
+      "prior_variance": 0.175256,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.1013,
+      "prior_variance": 0.177154,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.4006,
+      "prior_variance": 0.16689,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.8209,
+      "prior_variance": 0.167263,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 1.3064,
+      "prior_variance": 0.163207,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.9553,
+      "prior_variance": 0.190565,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.6058,
+      "prior_variance": 0.194941,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -1.0486,
+      "prior_variance": 0.230618,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": 0.2477,
+      "prior_variance": 0.20853,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -1.4298,
+      "prior_variance": 0.208352,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.6901,
+      "prior_variance": 0.182089,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 0.7044,
+      "prior_variance": 0.188597,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.5166,
+      "prior_variance": 0.171708,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -1.4027,
+      "prior_variance": 0.178927,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -3.1221,
+      "prior_variance": 0.170993,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.3632,
+      "prior_variance": 0.251759,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -10.4792,
+      "prior_variance": 0.414819,
+      "prior_n": 7
+    }
+  ]
+}

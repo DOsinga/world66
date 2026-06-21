@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leba_Dunes.jpg
 latitude: 54.758521
 loc_type: city
 longitude: 17.555417
-score: 0.48
+score: 0.4
 title: Leba
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:205kei_train_in_JR_Nikko_l
 latitude: 36.7198
 loc_type: city
 longitude: 139.6981
-score: 0.77
+score: 0.68
 title: Nikkō
 type: location
 ---

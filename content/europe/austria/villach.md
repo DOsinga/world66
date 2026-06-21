@@ -8,7 +8,7 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:9507_Villach,_St._Leonhard_mit_Villach_Hauptbahnhof_und_Seebach-Wasenboden_02_2022-10-31.jpg
 latitude: 46.616728
 longitude: 13.850027
-score: 0.55
+score: 0.49
 title: Villach
 type: location
 loc_type: city

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kadubungbang,_Cimanuk,_Pan
 latitude: -6.3058
 loc_type: city
 longitude: 106.1058
-score: 0.37
+score: 0.31
 title: Pandeglang
 type: location
 ---

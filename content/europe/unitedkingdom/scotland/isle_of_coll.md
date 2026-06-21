@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coll.jpg
 latitude: 56.623511
 loc_type: city
 longitude: -6.527204
-score: 0.53
+score: 0.44
 title: Isle of Coll
 type: location
 ---

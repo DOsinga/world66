@@ -1,0 +1,200 @@
+{
+  "round": 3570,
+  "timestamp": "2026-06-13T23:03:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 6.1999,
+      "prior_variance": 0.159947,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 4.7932,
+      "prior_variance": 0.140154,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_score": 3.7221,
+      "prior_variance": 0.130348,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 3.0879,
+      "prior_variance": 0.159773,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 3.7077,
+      "prior_variance": 0.122543,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 3.9923,
+      "prior_variance": 0.126824,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 2.462,
+      "prior_variance": 0.11361,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.8339,
+      "prior_variance": 0.117138,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 5.0809,
+      "prior_variance": 0.159145,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.1355,
+      "prior_variance": 0.116888,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 1.0274,
+      "prior_variance": 0.12779,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.9521,
+      "prior_variance": 0.12048,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.6169,
+      "prior_variance": 0.11395,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.7262,
+      "prior_variance": 0.116141,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.1403,
+      "prior_variance": 0.113229,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.8188,
+      "prior_variance": 0.156332,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 1.4979,
+      "prior_variance": 0.135596,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.783,
+      "prior_variance": 0.107068,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 1.0541,
+      "prior_variance": 0.126308,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.4492,
+      "prior_variance": 0.107107,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_score": -4.1734,
+      "prior_variance": 0.138627,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.6333,
+      "prior_variance": 0.114537,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -4.4366,
+      "prior_variance": 0.151355,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -4.2693,
+      "prior_variance": 0.158538,
+      "prior_n": 11
+    }
+  ]
+}

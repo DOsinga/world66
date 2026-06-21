@@ -1,0 +1,200 @@
+{
+  "round": 2941,
+  "timestamp": "2026-06-13T22:17:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 3.1546,
+      "prior_variance": 0.151744,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 3.2272,
+      "prior_variance": 0.221566,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 1.9481,
+      "prior_variance": 0.131035,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.6614,
+      "prior_variance": 0.138196,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.0041,
+      "prior_variance": 0.161755,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.087,
+      "prior_variance": 0.157721,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 0.7744,
+      "prior_variance": 0.15237,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 0.9196,
+      "prior_variance": 0.144123,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.4741,
+      "prior_variance": 0.197497,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.7878,
+      "prior_variance": 0.165146,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -1.6902,
+      "prior_variance": 0.206884,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 0.6929,
+      "prior_variance": 0.129097,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -1.5281,
+      "prior_variance": 0.139613,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": -0.0088,
+      "prior_variance": 0.122604,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -1.297,
+      "prior_variance": 0.158724,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 0.616,
+      "prior_variance": 0.167024,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -3.1359,
+      "prior_variance": 0.169015,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -4.5916,
+      "prior_variance": 0.260849,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -2.35,
+      "prior_variance": 0.167907,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -2.5532,
+      "prior_variance": 0.14206,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.2498,
+      "prior_variance": 0.144154,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -4.9668,
+      "prior_variance": 0.163002,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.4513,
+      "prior_variance": 0.209433,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -7.2087,
+      "prior_variance": 0.186961,
+      "prior_n": 9
+    }
+  ]
+}

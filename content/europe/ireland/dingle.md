@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dingle_Strand_Street.jpg
 latitude: 52.1408
 loc_type: city
 longitude: -10.2687
-score: 0.68
+score: 0.58
 title: Dingle
 type: location
 ---

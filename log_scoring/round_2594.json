@@ -1,0 +1,200 @@
+{
+  "round": 2594,
+  "timestamp": "2026-06-13T21:53:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Meno",
+      "path": "asia/indonesia/lombok/giliislands/gili_meno",
+      "prior_score": 4.781,
+      "prior_variance": 0.188539,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 4.5392,
+      "prior_variance": 0.271523,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 4.7456,
+      "prior_variance": 0.198192,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.2257,
+      "prior_variance": 0.15424,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 2.3636,
+      "prior_variance": 0.148203,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 3.0935,
+      "prior_variance": 0.187229,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 1.3925,
+      "prior_variance": 0.152704,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.5071,
+      "prior_variance": 0.161985,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": -0.4473,
+      "prior_variance": 0.179727,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.6806,
+      "prior_variance": 0.158265,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 2.1414,
+      "prior_variance": 0.155806,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.1473,
+      "prior_variance": 0.163804,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.3377,
+      "prior_variance": 0.145632,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_score": 1.808,
+      "prior_variance": 0.167196,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -2.041,
+      "prior_variance": 0.163495,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.4734,
+      "prior_variance": 0.147106,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.6496,
+      "prior_variance": 0.146716,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -0.0174,
+      "prior_variance": 0.136271,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.8845,
+      "prior_variance": 0.173372,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -1.473,
+      "prior_variance": 0.210292,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -0.1562,
+      "prior_variance": 0.194568,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -5.9206,
+      "prior_variance": 0.23141,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -3.912,
+      "prior_variance": 0.256676,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -9.8552,
+      "prior_variance": 0.446483,
+      "prior_n": 8
+    }
+  ]
+}

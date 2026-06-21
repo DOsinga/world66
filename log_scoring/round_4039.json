@@ -1,0 +1,200 @@
+{
+  "round": 4039,
+  "timestamp": "2026-06-13T23:38:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 10.2313,
+      "prior_variance": 0.273387,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 10.9469,
+      "prior_variance": 0.391962,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 8.6017,
+      "prior_variance": 0.203364,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Koyasan",
+      "path": "asia/japan/honshu/koyasan",
+      "prior_score": 7.873,
+      "prior_variance": 0.154992,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 4.0874,
+      "prior_variance": 0.114083,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 3.6593,
+      "prior_variance": 0.104049,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cairngorms",
+      "path": "europe/unitedkingdom/scotland/cairngorms",
+      "prior_score": 4.0628,
+      "prior_variance": 0.111409,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 2.8164,
+      "prior_variance": 0.100944,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 3.1509,
+      "prior_variance": 0.110096,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 3.7832,
+      "prior_variance": 0.108772,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 2.9926,
+      "prior_variance": 0.112702,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.789,
+      "prior_variance": 0.103213,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 2.9937,
+      "prior_variance": 0.115338,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 3.4301,
+      "prior_variance": 0.11901,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 2.8013,
+      "prior_variance": 0.101915,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 2.6439,
+      "prior_variance": 0.130112,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.3563,
+      "prior_variance": 0.123698,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 0.3966,
+      "prior_variance": 0.135035,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.5368,
+      "prior_variance": 0.114311,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.7624,
+      "prior_variance": 0.101714,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -1.9966,
+      "prior_variance": 0.102866,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.143,
+      "prior_variance": 0.099816,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -3.619,
+      "prior_variance": 0.105756,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -5.0314,
+      "prior_variance": 0.121956,
+      "prior_n": 13
+    }
+  ]
+}

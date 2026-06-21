@@ -5,7 +5,7 @@ done:
 latitude: 11.7833
 loc_type: city
 longitude: 42.8833
-score: 0.33
+score: 0.32
 title: Tadjoura
 type: location
 ---

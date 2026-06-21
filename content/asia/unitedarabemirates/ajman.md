@@ -5,7 +5,7 @@ done:
 latitude: 25.4052
 loc_type: city
 longitude: 55.5136
-score: 0.4
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Emirate_of_Ajman
 title: Ajman

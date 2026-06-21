@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PietraLigureLungoMare.JPG
 latitude: 44.1529
 loc_type: city
 longitude: 8.2866
-score: 0.52
+score: 0.48
 title: Pietra Ligure
 type: location
 ---

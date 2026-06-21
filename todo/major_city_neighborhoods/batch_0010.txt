@@ -1,0 +1,4 @@
+europe/france/paris
+asia/china/beijing
+europe/portugal/lisbon
+northamerica/unitedstates/california/losangeles

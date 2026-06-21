@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Headland_near_Newquay_harb
 latitude: 50.413625
 loc_type: city
 longitude: -5.084336
-score: 0.55
+score: 0.5
 title: Newquay
 type: location
 ---

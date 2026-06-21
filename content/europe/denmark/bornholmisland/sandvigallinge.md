@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Havnegade,_Allinge_2012.jp
 latitude: 55.283008
 loc_type: city
 longitude: 14.791535
-score: 0.57
+score: 0.49
 title: Sandvig-Allinge
 type: location
 ---

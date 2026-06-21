@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iles_de_Los_Map.jpg
 latitude: 9.483104
 loc_type: city
 longitude: -13.826735
-score: 0.4
+score: 0.28
 title: Iles de Los
 type: location
 ---

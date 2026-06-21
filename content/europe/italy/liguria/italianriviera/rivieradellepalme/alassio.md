@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alassio_from_Capo_Mele.jpg
 latitude: 44.008011
 loc_type: city
 longitude: 8.173027
-score: 0.6
+score: 0.51
 title: Alassio
 type: location
 ---

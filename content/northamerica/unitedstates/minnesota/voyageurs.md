@@ -5,7 +5,7 @@ latitude: 48.465549
 longitude: -92.885397
 title: Voyageurs National Park
 type: location
-score: 0.56
+score: 0.49
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Bantayan_Island.j
 latitude: 11.16669
 loc_type: city
 longitude: 123.718882
-score: 0.52
+score: 0.45
 title: Bantayan
 type: location
 ---

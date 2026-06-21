@@ -5,7 +5,7 @@ done:
 latitude: 14.10823
 loc_type: city
 longitude: 78.161069
-score: 0.31
+score: 0.24
 title: Kadiri
 type: location
 ---

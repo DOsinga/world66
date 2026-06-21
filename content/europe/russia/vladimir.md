@@ -5,7 +5,7 @@ done:
 latitude: 56.12889
 loc_type: city
 longitude: 40.40752
-score: 0.49
+score: 0.41
 title: Vladimir
 type: location
 ---

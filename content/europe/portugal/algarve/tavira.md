@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rio_Gil%C3%A3o_-_Tavira_-_
 latitude: 37.126249
 loc_type: city
 longitude: -7.649912
-score: 0.64
+score: 0.56
 title: Tavira
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crystal_Clear_waters_of_Bo
 latitude: 12.1784
 loc_type: city
 longitude: -68.2385
-score: 0.65
+score: 0.59
 title: Bonaire
 type: location
 ---

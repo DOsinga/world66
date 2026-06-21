@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:USS_Oak_Hill,_26th_MEU_Mar
 latitude: 41.651
 loc_type: city
 longitude: 41.636
-score: 0.61
+score: 0.53
 title: Batumi
 type: location
 ---

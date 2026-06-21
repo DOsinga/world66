@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:George_Town_panorama.jpg
 latitude: 5.402553
 loc_type: city
 longitude: 100.303551
-score: 0.66
+score: 0.61
 title: Georgetown
 type: location
 ---

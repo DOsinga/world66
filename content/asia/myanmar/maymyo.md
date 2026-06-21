@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Governor%27s-House.jpg
 latitude: 22.0331
 loc_type: city
 longitude: 96.4667
-score: 0.44
+score: 0.4
 title: Maymyo
 type: location
 ---

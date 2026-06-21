@@ -10,6 +10,7 @@ loc_type: city
 longitude: 22.8722
 title: Vidin
 type: location
+score: 0.37
 ---
 
 Vidin is the northwestern corner of Bulgaria, a Danube port town that for centuries was the country's western gate. It sits directly opposite the Romanian town of Calafat — a bridge built in 2013 finally replaced the long-running ferry — and for travellers it is the natural pivot between Bulgaria, Romania, and Serbia.

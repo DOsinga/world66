@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KoSamet.jpg
 latitude: 12.5523
 loc_type: city
 longitude: 101.4483
-score: 0.64
+score: 0.53
 title: Ko Samet
 type: location
 ---

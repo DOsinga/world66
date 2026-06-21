@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanab,_Utah_02_Little_Holl
 latitude: 37.0482
 loc_type: city
 longitude: -112.5285
-score: 0.55
+score: 0.52
 title: Kanab
 type: location
 ---

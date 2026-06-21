@@ -5,7 +5,7 @@ latitude: -55.9797
 longitude: -67.2717
 title: Cape Horn
 type: location
-score: 0.53
+score: 0.48
 loc_type: feature
 ---
 

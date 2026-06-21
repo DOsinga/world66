@@ -5,7 +5,7 @@ done:
 latitude: 36.3131
 loc_type: city
 longitude: 74.6684
-score: 0.49
+score: 0.38
 title: Ganish
 type: location
 image: ganish.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downham_Beck_in_Downham_-_
 latitude: 53.8856
 loc_type: city
 longitude: -2.3123
-score: 0.34
+score: 0.29
 title: Downham
 type: location
 ---

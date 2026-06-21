@@ -1,8 +1,7 @@
 ---
-category: Market
 latitude: -33.9277
 longitude: 18.4575
-neighbourhood: Woodstock
+score: 7.3
 scores:
   activities: 0.6385
   eating_out: 0.8022
@@ -11,12 +10,12 @@ snippet: Converted Woodstock biscuit factory hosting design shops and the Neighb
   Market
 tags:
 - things_to_do
+- market
 - shopping
 - eating_out
 - woodstock
 title: Old Biscuit Mill
 type: poi
-score: 7.3
 ---
 
 The Old Biscuit Mill is a complex of converted brick warehouses in the heart of Woodstock, now occupied by design studios, small fashion boutiques, ceramics workshops and a number of well-regarded restaurants. The complex is the headquarters of contemporary Cape Town's design scene, with showrooms for several internationally known South African brands.

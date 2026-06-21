@@ -5,7 +5,7 @@ done:
 latitude: 44.204933
 loc_type: city
 longitude: 8.295351
-score: 0.45
+score: 0.43
 title: Calice Ligure
 type: location
 ---

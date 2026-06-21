@@ -5,7 +5,7 @@ done:
 latitude: 45.399041
 loc_type: city
 longitude: -72.721834
-score: 0.42
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Granby,_Quebec
 title: Granby

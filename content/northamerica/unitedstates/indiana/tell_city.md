@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Hall_in_Tell_City.jpg
 latitude: 37.950848
 loc_type: city
 longitude: -86.769701
-score: 0.3
+score: 0.26
 title: Tell City
 type: location
 ---

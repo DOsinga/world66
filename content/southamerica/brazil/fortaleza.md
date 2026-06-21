@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fortaleza,_Brazil_(4)_(cro
 latitude: -3.730451
 loc_type: city
 longitude: -38.521799
-score: 0.53
+score: 0.45
 title: Fortaleza
 type: location
 ---

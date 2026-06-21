@@ -1,0 +1,200 @@
+{
+  "round": 4275,
+  "timestamp": "2026-06-13T23:59:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kamakura",
+      "path": "asia/japan/honshu/kamakura",
+      "prior_score": 9.332,
+      "prior_variance": 0.22006,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 2.7103,
+      "prior_variance": 0.120848,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 3.0921,
+      "prior_variance": 0.099722,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 4.5098,
+      "prior_variance": 0.12056,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.0309,
+      "prior_variance": 0.092347,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 0.7691,
+      "prior_variance": 0.100466,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": 0.2069,
+      "prior_variance": 0.086455,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.1987,
+      "prior_variance": 0.095671,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 0.9026,
+      "prior_variance": 0.091408,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 0.9324,
+      "prior_variance": 0.091732,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.0997,
+      "prior_variance": 0.096323,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.5686,
+      "prior_variance": 0.118363,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -1.2682,
+      "prior_variance": 0.137517,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.3433,
+      "prior_variance": 0.091109,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.3587,
+      "prior_variance": 0.101995,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -2.685,
+      "prior_variance": 0.108006,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.1652,
+      "prior_variance": 0.086496,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.3008,
+      "prior_variance": 0.089695,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -0.716,
+      "prior_variance": 0.090295,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.0595,
+      "prior_variance": 0.149236,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -4.3956,
+      "prior_variance": 0.100975,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -5.5455,
+      "prior_variance": 0.130331,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.0619,
+      "prior_variance": 0.113073,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -7.534,
+      "prior_variance": 0.19335,
+      "prior_n": 13
+    }
+  ]
+}

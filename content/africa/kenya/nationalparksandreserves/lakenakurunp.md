@@ -5,7 +5,7 @@ latitude: -0.3667
 longitude: 36.0833
 title: Lake Nakuru National Park
 type: location
-score: 0.66
+score: 0.57
 loc_type: feature
 ---
 

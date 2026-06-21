@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Spring_Green,_Wisconsin.jp
 latitude: 43.176937
 loc_type: city
 longitude: -90.068048
-score: 0.45
+score: 0.36
 title: Spring Green
 type: location
 ---

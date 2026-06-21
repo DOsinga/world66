@@ -1,18 +1,22 @@
 ---
-title: The STRAT Tower
-type: poi
 address: 2000 Las Vegas Blvd South
 latitude: 36.1474
 longitude: -115.1556
-snippet: "1,149-foot observation tower at the north end of the Strip"
+score: 6.5
+snippet: 1,149-foot observation tower at the north end of the Strip
+story: 'At 1,149 feet, the STRAT is the tallest freestanding observation tower in
+  the United States. The thrill rides on its summit hold several records for the highest
+  of their kind in the world.
+
+  '
 tags:
 - things_to_do
 - sight
 - architecture
 - tower
-story: >
-  At 1,149 feet, the STRAT is the tallest freestanding observation tower in the United States. The thrill rides on its summit hold several records for the highest of their kind in the world.
-score: 6.5
+- the_strip
+title: The STRAT Tower
+type: poi
 ---
 
 The STRAT — formerly the Stratosphere — is the giant concrete needle marking the awkward gap between the Strip and downtown. The 1,149-foot tower opened in 1996 after a turbulent construction history that included a fire and a foundation collapse. The observation decks span two levels: an indoor floor with cocktails and a windier outdoor deck where you can do the SkyJump, a controlled freefall from 855 feet.

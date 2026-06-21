@@ -6,7 +6,7 @@ done:
 latitude: 7.84752
 loc_type: city
 longitude: 98.298114
-score: 0.65
+score: 0.55
 title: Karon
 type: location
 image: karon.jpg

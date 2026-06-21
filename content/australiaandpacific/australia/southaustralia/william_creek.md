@@ -5,7 +5,7 @@ done:
 latitude: -28.907794
 loc_type: city
 longitude: 136.341327
-score: 0.34
+score: 0.32
 title: William Creek
 type: location
 ---

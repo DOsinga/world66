@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mafraq-Umm_el_Jimal.jpg
 latitude: 32.328503
 loc_type: city
 longitude: 36.365952
-score: 0.43
+score: 0.37
 title: Umm el Jimal
 type: location
 ---

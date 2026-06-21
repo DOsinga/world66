@@ -5,7 +5,7 @@ done:
 latitude: 45.274132
 loc_type: city
 longitude: 14.568874
-score: 0.49
+score: 0.4
 title: Kraljevica
 type: location
 ---

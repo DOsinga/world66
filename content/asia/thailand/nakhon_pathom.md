@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0004932_-_(Phra_Pathom_Che
 latitude: 13.891842
 loc_type: city
 longitude: 100.016566
-score: 0.49
+score: 0.41
 title: Nakhon Pathom
 type: location
 ---

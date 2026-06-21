@@ -5,7 +5,7 @@ done:
 latitude: 36.426807
 loc_type: city
 longitude: -5.146848
-score: 0.57
+score: 0.5
 title: Estepona
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Fenghuang
 title: Fenghuang
 type: location
+score: 0.55
 ---
 
 Fenghuang — Phoenix Ancient Town — sits above the Tuo River in western [Hunan](/asia/china/hunan), a well-preserved Qing and Ming-dynasty settlement that has become one of the most photographed destinations in the province. The old quarter is built on stilts directly over the river; the wooden buildings' reflections in the water, combined with lanterns lit at night, produce images that appear on half the travel blogs in China. It is genuinely beautiful and genuinely crowded, particularly on weekends and holidays, but arriving early in the morning or late in the evening substantially reduces both the foot traffic and the noise.

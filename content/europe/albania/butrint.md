@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Butrint_20
 latitude: 39.745869
 loc_type: city
 longitude: 20.020999
-score: 0.57
+score: 0.5
 title: Butrint
 type: location
 ---

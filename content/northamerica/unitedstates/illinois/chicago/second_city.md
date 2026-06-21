@@ -4,6 +4,8 @@ latitude: 41.9115
 longitude: -87.6351
 phone: 312-337-3992
 snippet: The legendary improv comedy theatre that launched Aykroyd, Belushi, and Colbert
+sources:
+- https://en.wikipedia.org/wiki/The_Second_City
 tags:
 - bars_and_cafes
 - bar

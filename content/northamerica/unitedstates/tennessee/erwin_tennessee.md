@@ -6,7 +6,7 @@ latitude: 36.1451
 longitude: -82.4184
 title: Erwin
 type: location
-score: 0.33
+score: 0.27
 loc_type: city
 ---
 

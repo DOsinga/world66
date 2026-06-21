@@ -1,200 +1,200 @@
 {
   "round": 2010,
-  "timestamp": "2026-04-13T16:02:34",
+  "timestamp": "2026-06-13T21:12:14",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Provence",
-      "path": "europe/france/midi/provence",
-      "prior_score": 9.101,
-      "prior_variance": 0.391202,
-      "prior_n": 5
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 14.2028,
+      "prior_variance": 0.833718,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Zell am See",
-      "path": "europe/austria/zellamsee",
-      "prior_score": 5.9118,
-      "prior_variance": 0.336804,
-      "prior_n": 5
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 10.9187,
+      "prior_variance": 0.501099,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Saturnia",
-      "path": "europe/italy/tuscany/saturnia",
-      "prior_score": 3.4194,
-      "prior_variance": 0.251157,
-      "prior_n": 5
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.7928,
+      "prior_variance": 0.300165,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Portoferraio",
-      "path": "europe/italy/tuscany/elba/portoferraio",
-      "prior_score": 5.1942,
-      "prior_variance": 0.314696,
-      "prior_n": 5
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 6.5163,
+      "prior_variance": 0.345902,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Otago",
-      "path": "australiaandpacific/newzealand/south_island/otago",
-      "prior_score": 7.3736,
-      "prior_variance": 0.449227,
-      "prior_n": 5
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.1614,
+      "prior_variance": 0.258922,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Chios",
-      "path": "europe/greece/chios",
-      "prior_score": 4.9435,
-      "prior_variance": 0.248566,
-      "prior_n": 5
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 4.8864,
+      "prior_variance": 0.381744,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Chartres",
-      "path": "europe/france/centre/chartres",
-      "prior_score": 3.7155,
-      "prior_variance": 0.320478,
-      "prior_n": 5
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 1.4015,
+      "prior_variance": 0.190953,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Bibione",
-      "path": "europe/italy/veneto/bibione",
-      "prior_score": 1.3869,
-      "prior_variance": 0.249422,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_score": 4.2111,
+      "prior_variance": 0.215027,
       "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Grand Gaube",
-      "path": "africa/mauritius/grand_gaube__nort",
-      "prior_score": 3.2033,
-      "prior_variance": 0.258938,
-      "prior_n": 5
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 4.2606,
+      "prior_variance": 0.207017,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Cuenca",
-      "path": "europe/spain/la_mancha/cuenca",
-      "prior_score": 5.032,
-      "prior_variance": 0.303375,
-      "prior_n": 5
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.7511,
+      "prior_variance": 0.207349,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Barbuda",
-      "path": "northamerica/antiguaandbarbuda/barbuda",
-      "prior_score": 1.484,
-      "prior_variance": 0.295482,
-      "prior_n": 5
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 3.9525,
+      "prior_variance": 0.234285,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Esquel",
-      "path": "southamerica/argentina/esquel",
-      "prior_score": 0.1521,
-      "prior_variance": 0.374972,
-      "prior_n": 5
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 1.9666,
+      "prior_variance": 0.180956,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Calangute",
-      "path": "asia/india/goa/calangute",
-      "prior_score": 2.5813,
-      "prior_variance": 0.277759,
-      "prior_n": 5
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.9405,
+      "prior_variance": 0.218787,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Big Bear Lake",
-      "path": "northamerica/unitedstates/california/big_bear_lake",
-      "prior_score": 1.9187,
-      "prior_variance": 0.311425,
-      "prior_n": 5
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 1.5337,
+      "prior_variance": 0.181505,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Gloucester",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
-      "prior_score": 0.3895,
-      "prior_variance": 0.283605,
-      "prior_n": 5
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.017,
+      "prior_variance": 0.219891,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Michigan",
-      "path": "northamerica/unitedstates/michigan",
-      "prior_score": 1.0736,
-      "prior_variance": 0.394038,
-      "prior_n": 5
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 2.2965,
+      "prior_variance": 0.216821,
+      "prior_n": 8
     },
     {
       "rank": 17,
-      "title": "Sheridan",
-      "path": "northamerica/unitedstates/wyoming/sheridan",
-      "prior_score": 0.038,
-      "prior_variance": 0.282284,
-      "prior_n": 5
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.0349,
+      "prior_variance": 0.234016,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Wasilla",
-      "path": "northamerica/unitedstates/alaska/wasilla",
-      "prior_score": -3.4992,
-      "prior_variance": 0.297433,
-      "prior_n": 5
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.7734,
+      "prior_variance": 0.201118,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Basse Casamance",
-      "path": "africa/senegal/bassecasamance",
-      "prior_score": -2.3644,
-      "prior_variance": 0.586779,
-      "prior_n": 5
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.79,
+      "prior_variance": 0.191729,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Hull",
-      "path": "europe/unitedkingdom/england/hull",
-      "prior_score": -2.1826,
-      "prior_variance": 0.240178,
-      "prior_n": 5
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.5165,
+      "prior_variance": 0.192918,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Essen",
-      "path": "europe/belgium/essen",
-      "prior_score": -4.908,
-      "prior_variance": 0.238091,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -2.9323,
+      "prior_variance": 0.246786,
       "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Adama",
-      "path": "africa/ethiopia/adama",
-      "prior_score": -5.5419,
-      "prior_variance": 0.352889,
-      "prior_n": 5
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -3.0853,
+      "prior_variance": 0.235366,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Golmud",
-      "path": "asia/china/golmud",
-      "prior_score": -5.6625,
-      "prior_variance": 0.333704,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -4.6855,
+      "prior_variance": 0.215376,
       "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Culiacan",
-      "path": "northamerica/mexico/culiacan",
-      "prior_score": -4.4606,
-      "prior_variance": 0.493329,
-      "prior_n": 5
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -4.4429,
+      "prior_variance": 0.207148,
+      "prior_n": 6
     }
   ]
 }

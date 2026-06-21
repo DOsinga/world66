@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cala_de_la_Granadella,_J%C
 latitude: 38.78938
 loc_type: city
 longitude: 0.163417
-score: 0.58
+score: 0.5
 title: Javea
 type: location
 ---

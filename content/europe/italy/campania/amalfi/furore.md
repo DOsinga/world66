@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fiordo_di_Furore.JPG
 latitude: 40.6188
 loc_type: city
 longitude: 14.5533
-score: 0.69
+score: 0.6
 title: Furore
 type: location
 ---

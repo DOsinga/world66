@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Qaanaaq,_Greenland.jpg
 latitude: 77.4686
 loc_type: city
 longitude: -69.2223
-score: 0.42
+score: 0.33
 title: Qaanaaq
 type: location
 ---

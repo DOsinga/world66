@@ -15,7 +15,7 @@ quick_facts:
   Visa-Free: "60 days for most nationalities"
   Above 1,500 m: "90% of the country"
   Lake Issyk-Kul: "Never freezes despite the altitude"
-score: 0.6
+score: 0.67
 loc_type: country
 ---
 

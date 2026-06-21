@@ -5,7 +5,7 @@ done:
 latitude: 38.015448
 loc_type: city
 longitude: -7.865037
-score: 0.45
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Beja,_Portugal
 - https://en.wikipedia.org/wiki/Pax_Julia

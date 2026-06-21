@@ -1,0 +1,200 @@
+{
+  "round": 4210,
+  "timestamp": "2026-06-13T23:54:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.0418,
+      "prior_variance": 0.34731,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 10.5971,
+      "prior_variance": 0.283544,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 11.6834,
+      "prior_variance": 0.278397,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.31,
+      "prior_variance": 0.11749,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Rapperswil",
+      "path": "europe/switzerland/rapperswil",
+      "prior_score": 3.9826,
+      "prior_variance": 0.094039,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.5155,
+      "prior_variance": 0.163665,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 8.2049,
+      "prior_variance": 0.222781,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Stirling",
+      "path": "europe/unitedkingdom/scotland/stirling",
+      "prior_score": 5.0441,
+      "prior_variance": 0.113793,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.0652,
+      "prior_variance": 0.137876,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 3.0679,
+      "prior_variance": 0.094748,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 1.8211,
+      "prior_variance": 0.095256,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 1.8332,
+      "prior_variance": 0.095349,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.7469,
+      "prior_variance": 0.10724,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 2.0173,
+      "prior_variance": 0.087186,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/thecaribbean/cuba/holguin",
+      "prior_score": -0.6241,
+      "prior_variance": 0.094101,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.3322,
+      "prior_variance": 0.112924,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.147,
+      "prior_variance": 0.091252,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.6333,
+      "prior_variance": 0.108175,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.6345,
+      "prior_variance": 0.233085,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -6.5118,
+      "prior_variance": 0.13811,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -5.8233,
+      "prior_variance": 0.131087,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -8.927,
+      "prior_variance": 0.251337,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.0557,
+      "prior_variance": 0.144033,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -9.265,
+      "prior_variance": 0.22195,
+      "prior_n": 13
+    }
+  ]
+}

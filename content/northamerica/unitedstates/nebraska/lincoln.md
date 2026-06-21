@@ -5,7 +5,7 @@ done:
 latitude: 40.8136
 loc_type: city
 longitude: -96.7026
-score: 0.39
+score: 0.32
 title: Lincoln
 type: location
 image: lincoln.jpg

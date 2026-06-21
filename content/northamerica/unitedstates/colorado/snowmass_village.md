@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowmass_Village.JPG
 latitude: 39.213042
 loc_type: city
 longitude: -106.937821
-score: 0.59
+score: 0.51
 title: Snowmass Village
 type: location
 ---

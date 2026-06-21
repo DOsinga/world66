@@ -5,7 +5,7 @@ latitude: 29.53
 longitude: 78.7747
 title: Corbett National Park
 type: location
-score: 0.57
+score: 0.5
 loc_type: feature
 ---
 

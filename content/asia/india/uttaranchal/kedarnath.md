@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Majestic_view_of_kedarnath
 latitude: 30.7339
 loc_type: city
 longitude: 79.0669
-score: 0.55
+score: 0.48
 title: Kedarnath
 type: location
 ---

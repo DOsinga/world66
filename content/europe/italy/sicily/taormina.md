@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_09-
 latitude: 37.8512
 loc_type: city
 longitude: 15.283
-score: 0.85
+score: 0.71
 title: Taormina
 type: location
 ---

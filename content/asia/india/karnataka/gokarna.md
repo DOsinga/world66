@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-06
 latitude: 14.544
 longitude: 74.3184
-score: 0.57
+score: 0.5
 title: Gokarna
 type: location
 loc_type: city

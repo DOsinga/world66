@@ -5,7 +5,7 @@ done:
 latitude: 32.4607
 loc_type: city
 longitude: 35.3003
-score: 0.2
+score: 0.17
 title: Jenin
 type: location
 ---

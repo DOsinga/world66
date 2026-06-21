@@ -5,7 +5,7 @@ done:
 latitude: 30.36361
 loc_type: city
 longitude: 48.259147
-score: 0.28
+score: 0.18
 title: Abadan
 type: location
 ---

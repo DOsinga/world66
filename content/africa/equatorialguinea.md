@@ -1,4 +1,5 @@
 ---
+score: 0.27
 title: "Equatorial Guinea"
 type: location
 loc_type: country

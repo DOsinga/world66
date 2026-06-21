@@ -1,0 +1,200 @@
+{
+  "round": 4503,
+  "timestamp": "2026-06-14T00:17:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.1677,
+      "prior_variance": 0.119746,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 3.6307,
+      "prior_variance": 0.093567,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.9309,
+      "prior_variance": 0.108,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 1.2137,
+      "prior_variance": 0.107955,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": 0.0001,
+      "prior_variance": 0.08609,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.241,
+      "prior_variance": 0.103737,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -1.4277,
+      "prior_variance": 0.091104,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": -0.4527,
+      "prior_variance": 0.088794,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.6653,
+      "prior_variance": 0.087912,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.5041,
+      "prior_variance": 0.089733,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.2552,
+      "prior_variance": 0.102933,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_score": -0.4067,
+      "prior_variance": 0.087873,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -1.8423,
+      "prior_variance": 0.103676,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.6022,
+      "prior_variance": 0.0967,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.5608,
+      "prior_variance": 0.098193,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -4.151,
+      "prior_variance": 0.102442,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -4.5105,
+      "prior_variance": 0.100905,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.6729,
+      "prior_variance": 0.114748,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.5421,
+      "prior_variance": 0.123212,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -4.9501,
+      "prior_variance": 0.096015,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Apollonia",
+      "path": "africa/libya/apollonia",
+      "prior_score": -2.9845,
+      "prior_variance": 0.124377,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -7.422,
+      "prior_variance": 0.152903,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -7.4858,
+      "prior_variance": 0.186485,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -9.4673,
+      "prior_variance": 0.310108,
+      "prior_n": 14
+    }
+  ]
+}

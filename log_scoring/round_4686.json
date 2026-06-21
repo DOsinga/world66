@@ -1,0 +1,200 @@
+{
+  "round": 4686,
+  "timestamp": "2026-06-14T00:33:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 6.5211,
+      "prior_variance": 0.10147,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 5.127,
+      "prior_variance": 0.106004,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.2151,
+      "prior_variance": 0.080364,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.1669,
+      "prior_variance": 0.091117,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 2.0326,
+      "prior_variance": 0.091872,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.1216,
+      "prior_variance": 0.083,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2301,
+      "prior_variance": 0.094084,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.9002,
+      "prior_variance": 0.086238,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 2.7991,
+      "prior_variance": 0.083022,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 2.8702,
+      "prior_variance": 0.095881,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.5474,
+      "prior_variance": 0.095673,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.4543,
+      "prior_variance": 0.103378,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.3637,
+      "prior_variance": 0.085655,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 1.7968,
+      "prior_variance": 0.102576,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.0004,
+      "prior_variance": 0.09328,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.081,
+      "prior_variance": 0.079169,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.1961,
+      "prior_variance": 0.085171,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 0.0587,
+      "prior_variance": 0.086906,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.7468,
+      "prior_variance": 0.082591,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.2449,
+      "prior_variance": 0.082094,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.3694,
+      "prior_variance": 0.109159,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.4047,
+      "prior_variance": 0.107196,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Yongzhou",
+      "path": "asia/china/hunan/yongzhou",
+      "prior_score": -3.7138,
+      "prior_variance": 0.091597,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_score": -4.7544,
+      "prior_variance": 0.104368,
+      "prior_n": 15
+    }
+  ]
+}

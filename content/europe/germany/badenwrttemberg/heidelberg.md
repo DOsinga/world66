@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelber
 latitude: 49.4094
 loc_type: city
 longitude: 8.6947
-score: 0.7
+score: 0.63
 title: Heidelberg
 type: location
 ---

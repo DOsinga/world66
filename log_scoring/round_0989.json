@@ -1,200 +1,200 @@
 {
   "round": 989,
-  "timestamp": "2026-04-12T22:03:31",
+  "timestamp": "2026-06-13T20:04:44",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Novosibirsk",
-      "path": "europe/russia/novosibirsk",
-      "prior_rank": 7908,
-      "prior_wins": 3,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 3.1426,
+      "prior_variance": 0.734375,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Worcester",
-      "path": "northamerica/unitedstates/massachusetts/worcester",
-      "prior_rank": 7724,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": -0.6975,
+      "prior_variance": 0.659488,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Carbondale",
-      "path": "northamerica/unitedstates/illinois/carbondale",
-      "prior_rank": 6642,
-      "prior_wins": 5,
-      "prior_n": 1
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -1.3968,
+      "prior_variance": 0.426382,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Trenton",
-      "path": "northamerica/unitedstates/newjersey/trenton",
-      "prior_rank": 8176,
-      "prior_wins": 1,
-      "prior_n": 2
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -1.4836,
+      "prior_variance": 0.44981,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Dededo",
-      "path": "australiaandpacific/guam/dededo",
-      "prior_rank": 6993,
-      "prior_wins": 4,
-      "prior_n": 1
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -2.5986,
+      "prior_variance": 0.729556,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "BAYAMON",
-      "path": "northamerica/puertorico/bayamon",
-      "prior_rank": 5452,
-      "prior_wins": 8,
-      "prior_n": 1
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -1.8908,
+      "prior_variance": 0.443384,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Boblingen",
-      "path": "europe/germany/badenwrttemberg/boblingen",
-      "prior_rank": 7913,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": -0.7185,
+      "prior_variance": 0.480981,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Echterdingen",
-      "path": "europe/germany/badenwrttemberg/echterdingen",
-      "prior_rank": 7359,
-      "prior_wins": 3,
-      "prior_n": 1
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.8288,
+      "prior_variance": 0.479282,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Stellanello",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
-      "prior_rank": 5726,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -2.9695,
+      "prior_variance": 0.528472,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Occhiobello",
-      "path": "europe/italy/veneto/occhiobello",
-      "prior_rank": 7727,
-      "prior_wins": 2,
-      "prior_n": 1
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.0739,
+      "prior_variance": 0.635322,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Alcains",
-      "path": "europe/portugal/castelo_branco/alcains",
-      "prior_rank": 7704,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.8052,
+      "prior_variance": 0.411791,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Galanta",
-      "path": "europe/slovakia/galanta",
-      "prior_rank": 8002,
-      "prior_wins": 2,
-      "prior_n": 2
+      "title": "Palmi",
+      "path": "europe/italy/calabria/palmi",
+      "prior_score": 0.0698,
+      "prior_variance": 0.598332,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Zivinice",
-      "path": "europe/bosniaandherzegovina/zivinice",
-      "prior_rank": 8044,
-      "prior_wins": 1,
-      "prior_n": 1
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.4984,
+      "prior_variance": 0.513043,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Francistown",
-      "path": "africa/botswana/francistown",
-      "prior_rank": 7190,
-      "prior_wins": 7,
-      "prior_n": 2
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.9707,
+      "prior_variance": 0.430465,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Adama",
-      "path": "africa/ethiopia/adama",
-      "prior_rank": 8073,
-      "prior_wins": 2,
-      "prior_n": 2
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.5465,
+      "prior_variance": 0.429484,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Mannargudi",
-      "path": "asia/india/tamilnadu/mannargudi",
-      "prior_rank": 6946,
-      "prior_wins": 4,
-      "prior_n": 1
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.0175,
+      "prior_variance": 0.49872,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Peshawar",
-      "path": "asia/pakistan/peshawar",
-      "prior_rank": 7927,
-      "prior_wins": 3,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -1.4113,
+      "prior_variance": 0.601859,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Kotli",
-      "path": "asia/pakistan/azad_kashmir/kotli",
-      "prior_rank": 2364,
-      "prior_wins": 16,
-      "prior_n": 1
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -1.8837,
+      "prior_variance": 0.415462,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Ialomita",
-      "path": "europe/romania/ialomita",
-      "prior_rank": 7709,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -0.628,
+      "prior_variance": 0.476444,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Smara",
-      "path": "africa/morocco/smara",
-      "prior_rank": 8097,
-      "prior_wins": 2,
-      "prior_n": 2
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -2.5945,
+      "prior_variance": 0.422048,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Ahmadi",
-      "path": "asia/kuwait/ahmadi",
-      "prior_rank": 8057,
-      "prior_wins": 1,
-      "prior_n": 1
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.5577,
+      "prior_variance": 0.590352,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Tus",
-      "path": "asia/iran/tuz",
-      "prior_rank": 7351,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -2.5359,
+      "prior_variance": 0.528981,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Dickenson Bay",
-      "path": "southamerica/argentina/dickensonbay",
-      "prior_rank": 8173,
-      "prior_wins": 1,
-      "prior_n": 2
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -2.6543,
+      "prior_variance": 0.418922,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Chintheche",
-      "path": "africa/malawi/chintheche",
-      "prior_rank": 5427,
-      "prior_wins": 8,
-      "prior_n": 1
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -5.9606,
+      "prior_variance": 1.110162,
+      "prior_n": 3
     }
   ]
 }

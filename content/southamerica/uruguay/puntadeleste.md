@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/36738812@N00/2061149701
 latitude: -34.9632
 loc_type: city
 longitude: -54.944
-score: 0.67
+score: 0.54
 title: Punta del Este
 type: location
 ---

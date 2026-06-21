@@ -5,10 +5,10 @@ done:
 latitude: 51.069061
 loc_type: city
 longitude: -1.795413
-score: 0.59
+score: 0.5
 sources:
-  - https://en.wikipedia.org/wiki/Salisbury
-  - https://en.wikipedia.org/wiki/Salisbury_Cathedral
+- https://en.wikipedia.org/wiki/Salisbury
+- https://en.wikipedia.org/wiki/Salisbury_Cathedral
 title: Salisbury
 type: location
 ---

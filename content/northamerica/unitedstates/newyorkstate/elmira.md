@@ -7,7 +7,7 @@ done:
 latitude: 42.0898
 loc_type: city
 longitude: -76.8077
-score: 0.34
+score: 0.26
 title: Elmira
 type: location
 ---

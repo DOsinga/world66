@@ -5,7 +5,7 @@ latitude: -0.1143
 longitude: 34.7616
 title: Lake Victoria
 type: location
-score: 0.52
+score: 0.45
 loc_type: feature
 ---
 

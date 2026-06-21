@@ -6,7 +6,7 @@ done:
   location_enrich: '2026-05-13'
 latitude: 11.2408
 longitude: -74.199
-score: 0.62
+score: 0.51
 title: Santa Marta
 type: location
 loc_type: city

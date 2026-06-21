@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/35303249@N00/49997953738
 latitude: 38.9175
 loc_type: city
 longitude: -6.3444
-score: 0.63
+score: 0.54
 title: Mérida
 type: location
 ---

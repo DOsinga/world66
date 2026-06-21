@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.j
 latitude: 6.1254
 loc_type: city
 longitude: 102.2381
-score: 0.51
+score: 0.43
 title: Kota Bharu
 type: location
 ---

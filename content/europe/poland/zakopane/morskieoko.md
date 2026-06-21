@@ -5,7 +5,7 @@ latitude: 49.197377
 longitude: 20.070717
 title: Morskie Oko
 type: location
-score: 0.63
+score: 0.56
 loc_type: feature
 ---
 

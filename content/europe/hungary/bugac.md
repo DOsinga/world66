@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hungria_-_Bugac_-_panorami
 latitude: 46.688899
 loc_type: city
 longitude: 19.682144
-score: 0.43
+score: 0.37
 title: Bugac
 type: location
 ---

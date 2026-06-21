@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.4571
 longitude: -3.6783
+score: 5.8
 snippet: Quiet neighborhood park with pieces of the Berlin Wall
 tags:
 - things_to_do
@@ -10,7 +11,6 @@ tags:
 - landmark
 title: Parque de Berlín
 type: poi
-score: 5.8
 ---
 
 Tucked into the Chamartín district, Parque de Berlín is a small neighborhood park built around three genuine fragments of the Berlin Wall. The centerpiece is a fountain flanked by the concrete slabs, with a bronze bear — the symbol of Berlin — standing nearby. An inscription commemorates the fall of the Wall in 1989.

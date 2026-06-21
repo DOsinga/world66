@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buljarica_beach.jpg
 latitude: 42.182802
 loc_type: city
 longitude: 18.979156
-score: 0.53
+score: 0.44
 title: Buljarica
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Llanes_12_26_07_019000.jpe
 latitude: 43.421121
 loc_type: city
 longitude: -4.753083
-score: 0.59
+score: 0.48
 title: Llanes
 type: location
 ---

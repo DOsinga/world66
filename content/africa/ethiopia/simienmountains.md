@@ -14,6 +14,7 @@ image: simienmountains.jpg
 image_source: https://commons.wikimedia.org/wiki/File:On_Top_of_Inatye_(Simien_Mountains,_Ethiopia).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Florian Fell
+score: 0.54
 ---
 
 The Simien Mountains are a high plateau cut by millennia of erosion into one of the most dramatic highland landscapes in Africa — a place of sheer escarpments, deep gorges, and flat-topped peaks rising above 4,000 metres. UNESCO listed the Simien Mountains National Park as a World Heritage Site in 1978, one of the first African sites to receive the designation. The park is home to three endemic species found nowhere else on earth: the Ethiopian wolf, the Walia ibex, and the gelada baboon, making it one of the most biologically significant areas on the continent.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brattleboro,_VT_downtown_a
 latitude: 42.8508
 loc_type: city
 longitude: -72.5573
-score: 0.45
+score: 0.39
 title: Brattleboro
 type: location
 ---

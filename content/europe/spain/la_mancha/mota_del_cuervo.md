@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Horno_alfarero_de_Mota_del
 latitude: 39.500934
 loc_type: city
 longitude: -2.871109
-score: 0.45
+score: 0.37
 title: Mota del Cuervo
 type: location
 ---

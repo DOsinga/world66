@@ -5,7 +5,7 @@ latitude: 41.544369
 longitude: -109.858126
 title: Little America
 type: location
-score: 0.28
+score: 0.2
 loc_type: feature
 ---
 

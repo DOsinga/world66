@@ -5,7 +5,7 @@ done:
 latitude: 32.2177
 loc_type: city
 longitude: -82.4135
-score: 0.29
+score: 0.24
 title: Vidalia
 type: location
 image: vidalia.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GO25_314021.jpg
 latitude: 45.958151
 loc_type: city
 longitude: 13.6475
-score: 0.47
+score: 0.41
 title: Nova Gorica
 type: location
 ---

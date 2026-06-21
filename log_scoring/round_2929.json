@@ -1,0 +1,200 @@
+{
+  "round": 2929,
+  "timestamp": "2026-06-13T22:16:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.4004,
+      "prior_variance": 0.37131,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 8.8989,
+      "prior_variance": 0.293229,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.8008,
+      "prior_variance": 0.177792,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 5.0589,
+      "prior_variance": 0.155751,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.7863,
+      "prior_variance": 0.1516,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 4.6869,
+      "prior_variance": 0.160593,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 3.7903,
+      "prior_variance": 0.157513,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 2.955,
+      "prior_variance": 0.143268,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.4317,
+      "prior_variance": 0.141443,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 1.3206,
+      "prior_variance": 0.180399,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.7837,
+      "prior_variance": 0.144128,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 3.9809,
+      "prior_variance": 0.157174,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.6601,
+      "prior_variance": 0.146437,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.5719,
+      "prior_variance": 0.126706,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.1852,
+      "prior_variance": 0.148623,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 0.0689,
+      "prior_variance": 0.174295,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 1.4958,
+      "prior_variance": 0.161545,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.1111,
+      "prior_variance": 0.197621,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -0.9546,
+      "prior_variance": 0.128271,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 1.0192,
+      "prior_variance": 0.140197,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.4118,
+      "prior_variance": 0.137176,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.6359,
+      "prior_variance": 0.139811,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -3.8933,
+      "prior_variance": 0.18652,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -4.8221,
+      "prior_variance": 0.189115,
+      "prior_n": 9
+    }
+  ]
+}

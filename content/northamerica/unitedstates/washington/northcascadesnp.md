@@ -5,7 +5,7 @@ latitude: 48.808349
 longitude: -121.406215
 title: North Cascades NP
 type: location
-score: 0.67
+score: 0.58
 loc_type: feature
 ---
 

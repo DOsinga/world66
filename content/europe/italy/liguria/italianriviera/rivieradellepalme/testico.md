@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Testico_SP18.jpg
 latitude: 44.005626
 loc_type: city
 longitude: 8.029249
-score: 0.41
+score: 0.29
 title: Testico
 type: location
 ---

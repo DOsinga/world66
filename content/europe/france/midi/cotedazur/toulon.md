@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Toulon_-_Hafen.jpg
 latitude: 43.125731
 loc_type: city
 longitude: 5.930492
-score: 0.57
+score: 0.48
 title: Toulon
 type: location
 ---

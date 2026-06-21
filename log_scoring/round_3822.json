@@ -1,0 +1,200 @@
+{
+  "round": 3822,
+  "timestamp": "2026-06-13T23:22:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 3.753,
+      "prior_variance": 0.119096,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.7563,
+      "prior_variance": 0.109208,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.8069,
+      "prior_variance": 0.117589,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": -0.2268,
+      "prior_variance": 0.110692,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 0.9386,
+      "prior_variance": 0.101853,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.4974,
+      "prior_variance": 0.14882,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -4.9536,
+      "prior_variance": 0.121324,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.4142,
+      "prior_variance": 0.126053,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.5226,
+      "prior_variance": 0.151296,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -5.4057,
+      "prior_variance": 0.131376,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -3.4359,
+      "prior_variance": 0.112199,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.7181,
+      "prior_variance": 0.179721,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Birtamode",
+      "path": "asia/nepal/birtamode",
+      "prior_score": -5.2178,
+      "prior_variance": 0.122163,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -5.9895,
+      "prior_variance": 0.154706,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.94,
+      "prior_variance": 0.123673,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -5.0593,
+      "prior_variance": 0.146613,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Para\u00f1aque",
+      "path": "asia/philippines/paranuaque",
+      "prior_score": -4.9052,
+      "prior_variance": 0.14369,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -6.2037,
+      "prior_variance": 0.162547,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -5.1237,
+      "prior_variance": 0.120801,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Yarkand",
+      "path": "asia/china/xinjiangprovince/yarkand",
+      "prior_score": -4.8046,
+      "prior_variance": 0.106459,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -6.1276,
+      "prior_variance": 0.157216,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -5.2843,
+      "prior_variance": 0.128942,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -8.8725,
+      "prior_variance": 0.325117,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.5315,
+      "prior_variance": 0.364754,
+      "prior_n": 12
+    }
+  ]
+}

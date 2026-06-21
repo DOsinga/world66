@@ -1,200 +1,200 @@
 {
   "round": 237,
-  "timestamp": "2026-04-12T09:08:05",
+  "timestamp": "2026-06-13T19:25:54",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "San Diego",
-      "path": "northamerica/unitedstates/california/sandiego",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "The Cinque Terre",
-      "path": "europe/italy/liguria/thecinqueterre",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "US Virgin Islands",
-      "path": "northamerica/thecaribbean/virginislands",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Mammoth Lakes",
-      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
-      "prior_mu": 23.1022,
-      "prior_sigma": 5.7165,
-      "prior_n": 1
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Cornwall",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Durness, Sutherland",
-      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
-      "prior_mu": 22.709,
-      "prior_sigma": 5.4726,
-      "prior_n": 1
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Martigny",
-      "path": "europe/switzerland/martigny",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "San Felice Circeo",
-      "path": "europe/italy/lazio/san_felice_circeo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Bakuriani",
-      "path": "europe/georgia/bakuriani",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Saranda",
-      "path": "europe/albania/saranda",
-      "prior_mu": 22.647,
-      "prior_sigma": 5.9393,
-      "prior_n": 1
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Plovdiv",
-      "path": "europe/bulgaria/plovdiv",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Calangute",
-      "path": "asia/india/goa/calangute",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Garlenda",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Ithaca",
-      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Devonport Tasmania Australia",
-      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Constanta",
-      "path": "europe/romania/constanta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Vinkovci",
-      "path": "europe/croatia/vinkovci",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Bahchisaray",
-      "path": "europe/ukraine/crimea/bahchisaray",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Nightlife and Entertainment",
-      "path": "northamerica/canada/princeedwardisland/entertainment",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Ponta Grossa",
-      "path": "southamerica/brazil/ponta_grossa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Northampton",
-      "path": "europe/unitedkingdom/england/leicester_notting/northampton",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Baramulla",
-      "path": "asia/india/jammuandkashmir/baramulla",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Vyatka",
-      "path": "europe/russia/vyatka",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Wour",
-      "path": "africa/chad/wour",
-      "prior_mu": 10.8932,
-      "prior_sigma": 3.5627,
-      "prior_n": 6
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

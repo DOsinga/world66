@@ -5,7 +5,7 @@ done:
 latitude: 43.0125
 loc_type: city
 longitude: -83.6875
-score: 0.17
+score: 0.18
 title: Flint
 type: location
 ---

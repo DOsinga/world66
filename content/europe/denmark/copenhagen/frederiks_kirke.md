@@ -1,11 +1,19 @@
 ---
-title: Frederiks Kirke (The Marble Church)
-type: poi
-tags: [things_to_do, sight, architecture]
 latitude: 55.6849
 longitude: 12.5908
-story: "Frederiks Kirke took 145 years to build — construction began in 1749 under Frederik V but stopped repeatedly due to cost overruns and political changes. When it finally opened in 1894, it was funded not by the Danish state but by the Danish industrialist Carl Frederik Tietgen, who bought the unfinished ruin from the government for a nominal sum and paid for its completion himself."
 score: 7.9
+story: Frederiks Kirke took 145 years to build — construction began in 1749 under
+  Frederik V but stopped repeatedly due to cost overruns and political changes. When
+  it finally opened in 1894, it was funded not by the Danish state but by the Danish
+  industrialist Carl Frederik Tietgen, who bought the unfinished ruin from the government
+  for a nominal sum and paid for its completion himself.
+tags:
+- things_to_do
+- sight
+- architecture
+- indre_by
+title: Frederiks Kirke (The Marble Church)
+type: poi
 ---
 
 The Marble Church — properly Frederiks Kirke — is the domed neoclassical church that anchors the Frederiksstaden district behind Amalienborg Palace. The copper dome is one of the largest in Scandinavia, visible from across the city. Inside, the circular space under the dome is unexpectedly vast, with frescoes, marble columns, and pale light from the dome windows above.

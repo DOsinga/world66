@@ -16,7 +16,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/sr:User:%D0%88%D0%B0%D
   class="extiw" title="w:sr:">Serbian Wikipedia</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.36
+score: 0.90
 loc_type: country
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bingerville-H%C3%B4tel_du_
 latitude: 5.357773
 loc_type: city
 longitude: -3.888559
-score: 0.34
+score: 0.27
 title: Bingerville
 type: location
 ---

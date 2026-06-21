@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-10-14_39_View_southea
 latitude: 40.9724
 loc_type: city
 longitude: -117.7348
-score: 0.31
+score: 0.25
 title: Winnemucca
 type: location
 ---

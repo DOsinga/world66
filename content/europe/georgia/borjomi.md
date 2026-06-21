@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Borjomi_from_t
 latitude: 41.8412
 loc_type: city
 longitude: 43.3839
-score: 0.57
+score: 0.51
 title: Borjomi
 type: location
 ---

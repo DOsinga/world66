@@ -1,0 +1,200 @@
+{
+  "round": 4349,
+  "timestamp": "2026-06-14T00:05:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 6.1308,
+      "prior_variance": 0.126381,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.5032,
+      "prior_variance": 0.099407,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.2185,
+      "prior_variance": 0.104504,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 5.3935,
+      "prior_variance": 0.107498,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 4.5492,
+      "prior_variance": 0.100161,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.5393,
+      "prior_variance": 0.119483,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_score": 2.4931,
+      "prior_variance": 0.108482,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 2.976,
+      "prior_variance": 0.091553,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 2.1944,
+      "prior_variance": 0.122937,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 2.9765,
+      "prior_variance": 0.095258,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -0.0427,
+      "prior_variance": 0.105418,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 1.4764,
+      "prior_variance": 0.089472,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": -0.6916,
+      "prior_variance": 0.080633,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -0.9823,
+      "prior_variance": 0.097029,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.216,
+      "prior_variance": 0.094082,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford",
+      "prior_score": -2.0228,
+      "prior_variance": 0.109568,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -2.2269,
+      "prior_variance": 0.107249,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -7.2009,
+      "prior_variance": 0.12226,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -6.2581,
+      "prior_variance": 0.143731,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.4834,
+      "prior_variance": 0.154527,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -8.8472,
+      "prior_variance": 0.199357,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -7.7252,
+      "prior_variance": 0.180342,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -6.8575,
+      "prior_variance": 0.159053,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -6.2466,
+      "prior_variance": 0.129336,
+      "prior_n": 14
+    }
+  ]
+}

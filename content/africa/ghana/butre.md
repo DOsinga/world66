@@ -7,7 +7,7 @@ done:
 latitude: 4.8229
 loc_type: city
 longitude: -1.9169
-score: 0.38
+score: 0.34
 title: Butre
 type: location
 ---

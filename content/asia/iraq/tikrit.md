@@ -5,7 +5,7 @@ done:
 latitude: 34.615807
 loc_type: city
 longitude: 43.678606
-score: 0.19
+score: 0.14
 title: Tikrit
 type: location
 ---

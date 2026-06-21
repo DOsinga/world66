@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ClearwaterBeachNorthFromPi
 latitude: 27.965853
 loc_type: city
 longitude: -82.800103
-score: 0.53
+score: 0.44
 title: Clearwater
 type: location
 ---

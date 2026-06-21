@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamboo_Organ_Church,_Las_P
 latitude: 14.480901
 loc_type: city
 longitude: 120.981786
-score: 0.35
+score: 0.29
 title: Las Pinas City
 type: location
 ---

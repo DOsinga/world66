@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheboksary._Dormition_Chur
 latitude: 56.13996
 loc_type: city
 longitude: 47.2481
-score: 0.34
+score: 0.29
 title: Cheboksary
 type: location
 ---

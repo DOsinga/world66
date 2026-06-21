@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bijapur_Ibrahim_Rouza_100C
 latitude: 16.8302
 loc_type: city
 longitude: 75.71
-score: 0.44
+score: 0.42
 title: Bijapur
 type: location
 ---

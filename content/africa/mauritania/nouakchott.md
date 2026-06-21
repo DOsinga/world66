@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fish_market_in_Nouakchott_
 latitude: 18.0791
 loc_type: city
 longitude: -15.9785
-score: 0.29
+score: 0.23
 title: Nouakchott
 type: location
 ---

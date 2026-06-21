@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/25533024@N04/9125608849
 latitude: 28.4004
 loc_type: city
 longitude: -14.0049
-score: 0.67
+score: 0.57
 title: Fuerteventura
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4215,
+  "timestamp": "2026-06-13T23:54:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 9.2722,
+      "prior_variance": 0.16738,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.0182,
+      "prior_variance": 0.113048,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.1175,
+      "prior_variance": 0.097493,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 0.9838,
+      "prior_variance": 0.101361,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.2947,
+      "prior_variance": 0.095894,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.0847,
+      "prior_variance": 0.088906,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.4327,
+      "prior_variance": 0.08961,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.4204,
+      "prior_variance": 0.126622,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.1656,
+      "prior_variance": 0.101688,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.8455,
+      "prior_variance": 0.092753,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 0.9625,
+      "prior_variance": 0.101831,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.3058,
+      "prior_variance": 0.093354,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.1768,
+      "prior_variance": 0.090995,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.044,
+      "prior_variance": 0.092305,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.9753,
+      "prior_variance": 0.094921,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Orte",
+      "path": "europe/italy/lazio/orte",
+      "prior_score": -0.767,
+      "prior_variance": 0.091209,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": -0.0235,
+      "prior_variance": 0.094569,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.3739,
+      "prior_variance": 0.106192,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -5.7286,
+      "prior_variance": 0.105899,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.2921,
+      "prior_variance": 0.115002,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.8634,
+      "prior_variance": 0.13727,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.6503,
+      "prior_variance": 0.167104,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -6.7652,
+      "prior_variance": 0.139588,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -7.7621,
+      "prior_variance": 0.281677,
+      "prior_n": 13
+    }
+  ]
+}

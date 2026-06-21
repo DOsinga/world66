@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Millau_(Unsplash).jpg
 latitude: 44.1007
 loc_type: city
 longitude: 3.0778
-score: 0.54
+score: 0.46
 title: Millau
 type: location
 ---

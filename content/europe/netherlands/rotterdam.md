@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AIDAperla_in_Rotterdam_-_S
 latitude: 51.9225
 loc_type: city
 longitude: 4.4792
-score: 0.6
+score: 0.5
 tags:
 - architecture
 - culture

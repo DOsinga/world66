@@ -6,7 +6,7 @@ latitude: 52.942618
 longitude: 5.400482
 title: Hindeloopen
 type: location
-score: 0.49
+score: 0.41
 loc_type: city
 ---
 

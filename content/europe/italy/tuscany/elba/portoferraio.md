@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Portoferra
 latitude: 42.8141
 loc_type: city
 longitude: 10.331
-score: 0.65
+score: 0.55
 title: Portoferraio
 type: location
 ---

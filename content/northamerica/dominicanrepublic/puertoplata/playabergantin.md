@@ -5,7 +5,7 @@ done:
 latitude: 19.787
 loc_type: city
 longitude: -70.632
-score: 0.47
+score: 0.41
 title: Playa Bergantin
 type: location
 ---

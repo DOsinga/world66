@@ -1,0 +1,200 @@
+{
+  "round": 3405,
+  "timestamp": "2026-06-13T22:51:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 5.8882,
+      "prior_variance": 0.143054,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 5.2098,
+      "prior_variance": 0.137401,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.0903,
+      "prior_variance": 0.184105,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 8.3843,
+      "prior_variance": 0.191626,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 4.8565,
+      "prior_variance": 0.142619,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 4.9723,
+      "prior_variance": 0.126191,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 3.7473,
+      "prior_variance": 0.11897,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.4045,
+      "prior_variance": 0.124945,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": 1.0836,
+      "prior_variance": 0.153014,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 0.8244,
+      "prior_variance": 0.144178,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.5246,
+      "prior_variance": 0.112557,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.1899,
+      "prior_variance": 0.152541,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_score": 0.769,
+      "prior_variance": 0.107674,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": 0.0509,
+      "prior_variance": 0.140591,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -0.4278,
+      "prior_variance": 0.120499,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": -0.8895,
+      "prior_variance": 0.121439,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -2.8829,
+      "prior_variance": 0.142019,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.1064,
+      "prior_variance": 0.127572,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -5.358,
+      "prior_variance": 0.177212,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -4.4328,
+      "prior_variance": 0.129799,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.6579,
+      "prior_variance": 0.119601,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.0763,
+      "prior_variance": 0.126531,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -3.8512,
+      "prior_variance": 0.138413,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.5444,
+      "prior_variance": 0.144815,
+      "prior_n": 11
+    }
+  ]
+}

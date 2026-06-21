@@ -5,7 +5,7 @@ done:
 latitude: 34.643
 loc_type: city
 longitude: -97.164
-score: 0.27
+score: 0.21
 title: Wynnewood
 type: location
 ---

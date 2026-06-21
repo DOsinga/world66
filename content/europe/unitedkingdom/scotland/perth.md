@@ -5,7 +5,7 @@ done:
 latitude: 56.395876
 loc_type: city
 longitude: -3.43031
-score: 0.49
+score: 0.43
 title: Perth
 type: location
 ---

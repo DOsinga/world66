@@ -4,7 +4,7 @@ done:
 latitude: 10.2803
 loc_type: city
 longitude: -61.4681
-score: 0.45
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/San_Fernando,_Trinidad_and_Tobago
 - https://en.wikipedia.org/wiki/Pitch_Lake

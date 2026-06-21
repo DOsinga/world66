@@ -6,7 +6,7 @@ done:
 latitude: 9.064331
 loc_type: city
 longitude: 7.489297
-score: 0.38
+score: 0.31
 title: Abuja
 type: location
 ---

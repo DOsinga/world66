@@ -5,7 +5,7 @@ done:
 latitude: 21.652673
 loc_type: city
 longitude: 87.723145
-score: 0.37
+score: 0.3
 title: Tajpur
 type: location
 ---

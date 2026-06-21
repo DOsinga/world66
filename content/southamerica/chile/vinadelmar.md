@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palacio_Vergara,_Vi%C3%B1a
 latitude: -33.024453
 loc_type: city
 longitude: -71.551764
-score: 0.58
+score: 0.5
 title: Viña del Mar
 type: location
 ---

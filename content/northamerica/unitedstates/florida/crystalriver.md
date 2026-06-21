@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crystal_River_-_panoramio_
 latitude: 28.9025
 loc_type: city
 longitude: -82.5926
-score: 0.49
+score: 0.43
 title: Crystal River
 type: location
 ---

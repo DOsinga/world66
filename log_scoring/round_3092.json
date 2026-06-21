@@ -1,0 +1,200 @@
+{
+  "round": 3092,
+  "timestamp": "2026-06-13T22:28:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 7.4772,
+      "prior_variance": 0.2151,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "St. Thomas",
+      "path": "northamerica/thecaribbean/virginislands/stthomas",
+      "prior_score": 6.2442,
+      "prior_variance": 0.16631,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Trapani",
+      "path": "europe/italy/sicily/trapani",
+      "prior_score": 5.6779,
+      "prior_variance": 0.16057,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.0672,
+      "prior_variance": 0.156634,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 3.9991,
+      "prior_variance": 0.152492,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.2167,
+      "prior_variance": 0.130945,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 6.24,
+      "prior_variance": 0.167087,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Salento",
+      "path": "southamerica/colombia/salento",
+      "prior_score": 5.7365,
+      "prior_variance": 0.167936,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.5463,
+      "prior_variance": 0.136917,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.6062,
+      "prior_variance": 0.152938,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.8938,
+      "prior_variance": 0.147025,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.4262,
+      "prior_variance": 0.150713,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 4.1907,
+      "prior_variance": 0.13942,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 3.6705,
+      "prior_variance": 0.175468,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 5.2089,
+      "prior_variance": 0.159798,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 2.1703,
+      "prior_variance": 0.189492,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.7297,
+      "prior_variance": 0.14672,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 2.5338,
+      "prior_variance": 0.134316,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 3.3064,
+      "prior_variance": 0.164093,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 2.9471,
+      "prior_variance": 0.132764,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.6872,
+      "prior_variance": 0.184499,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -1.7944,
+      "prior_variance": 0.181244,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -3.9788,
+      "prior_variance": 0.130731,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.3159,
+      "prior_variance": 0.126897,
+      "prior_n": 11
+    }
+  ]
+}

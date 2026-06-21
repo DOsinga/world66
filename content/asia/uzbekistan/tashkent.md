@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alisher_Navoi_Opera_and_Ba
 latitude: 41.3123
 loc_type: city
 longitude: 69.2787
-score: 0.5
+score: 0.45
 title: Tashkent
 type: location
 ---

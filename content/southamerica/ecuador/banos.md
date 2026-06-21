@@ -6,7 +6,7 @@ done:
 latitude: -1.331916
 loc_type: city
 longitude: -78.262529
-score: 0.67
+score: 0.57
 title: Baños
 type: location
 ---

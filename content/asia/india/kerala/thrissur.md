@@ -5,7 +5,7 @@ latitude: 10.52701
 longitude: 76.214621
 title: Thrissur
 type: location
-score: 0.5
+score: 0.42
 loc_type: city
 ---
 

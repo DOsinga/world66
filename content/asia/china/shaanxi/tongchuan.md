@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Tongchuan
 title: Tongchuan
 type: location
+score: 0.26
 ---
 
 Tongchuan is a former coal city on the plateau sixty-eight kilometres north of Xi'an, now reinventing itself around its cultural and historical assets as the mines have wound down. It sits at the transition zone between the Guanzhong Plain and the northern Shaanxi plateau, which gives it both a varied landscape and a history that runs from the Tang Dynasty forward in continuous material form.

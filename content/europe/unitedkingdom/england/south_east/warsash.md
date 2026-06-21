@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coastline_near_Warsash,_Ha
 latitude: 50.8547
 loc_type: city
 longitude: -1.2989
-score: 0.37
+score: 0.27
 title: Warsash
 type: location
 ---

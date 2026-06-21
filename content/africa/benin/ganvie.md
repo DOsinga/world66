@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ganvi%C3%A9_fishing_villag
 latitude: 6.4681
 loc_type: city
 longitude: 2.39
-score: 0.52
+score: 0.45
 title: Ganvié
 type: location
 ---

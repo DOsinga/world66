@@ -7,7 +7,7 @@ done:
 latitude: 14.0653
 loc_type: city
 longitude: 121.3208
-score: 0.39
+score: 0.32
 title: San Pablo City
 type: location
 ---

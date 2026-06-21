@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/60057960@N06/52601529023
 latitude: 51.898514
 loc_type: city
 longitude: -8.472642
-score: 0.61
+score: 0.51
 title: Cork
 type: location
 ---

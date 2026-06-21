@@ -1,0 +1,200 @@
+{
+  "round": 2763,
+  "timestamp": "2026-06-13T22:05:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 7.9506,
+      "prior_variance": 0.233383,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.3435,
+      "prior_variance": 0.217149,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 7.0413,
+      "prior_variance": 0.239357,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.9837,
+      "prior_variance": 0.196959,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 8.0773,
+      "prior_variance": 0.22144,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 5.5426,
+      "prior_variance": 0.173745,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 5.0727,
+      "prior_variance": 0.202094,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 2.9213,
+      "prior_variance": 0.196902,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 5.004,
+      "prior_variance": 0.145552,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 3.5324,
+      "prior_variance": 0.148039,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 5.0739,
+      "prior_variance": 0.191588,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.7696,
+      "prior_variance": 0.181997,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 6.2101,
+      "prior_variance": 0.212295,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.3577,
+      "prior_variance": 0.178975,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 6.8326,
+      "prior_variance": 0.189409,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ouray",
+      "path": "northamerica/unitedstates/colorado/ouray",
+      "prior_score": 4.0695,
+      "prior_variance": 0.154837,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.5288,
+      "prior_variance": 0.19815,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.3524,
+      "prior_variance": 0.17349,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.5474,
+      "prior_variance": 0.189964,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 2.533,
+      "prior_variance": 0.173568,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -1.7713,
+      "prior_variance": 0.163849,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": -4.879,
+      "prior_variance": 0.19354,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.572,
+      "prior_variance": 0.159078,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -2.886,
+      "prior_variance": 0.124771,
+      "prior_n": 10
+    }
+  ]
+}

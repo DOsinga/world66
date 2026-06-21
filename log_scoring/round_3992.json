@@ -1,0 +1,200 @@
+{
+  "round": 3992,
+  "timestamp": "2026-06-13T23:35:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bridgetown",
+      "path": "northamerica/thecaribbean/barbados/bridgetown",
+      "prior_score": 6.2032,
+      "prior_variance": 0.126599,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.6193,
+      "prior_variance": 0.121155,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 2.013,
+      "prior_variance": 0.109154,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 4.2625,
+      "prior_variance": 0.109698,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.1309,
+      "prior_variance": 0.10353,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.8002,
+      "prior_variance": 0.10525,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.431,
+      "prior_variance": 0.108117,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": -0.7314,
+      "prior_variance": 0.11715,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.7346,
+      "prior_variance": 0.149108,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 1.6189,
+      "prior_variance": 0.107406,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.8159,
+      "prior_variance": 0.126233,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -0.8047,
+      "prior_variance": 0.098949,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.9571,
+      "prior_variance": 0.126868,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -3.1148,
+      "prior_variance": 0.121522,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -3.3182,
+      "prior_variance": 0.116561,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -3.387,
+      "prior_variance": 0.115877,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -3.2355,
+      "prior_variance": 0.116555,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -4.2336,
+      "prior_variance": 0.119555,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -3.5939,
+      "prior_variance": 0.108068,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.4454,
+      "prior_variance": 0.103895,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -4.2018,
+      "prior_variance": 0.103125,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -3.3857,
+      "prior_variance": 0.113567,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -5.5866,
+      "prior_variance": 0.123677,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -2.8768,
+      "prior_variance": 0.12016,
+      "prior_n": 12
+    }
+  ]
+}

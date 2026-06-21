@@ -1,0 +1,200 @@
+{
+  "round": 4173,
+  "timestamp": "2026-06-13T23:51:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfrancisco",
+      "prior_score": 11.0894,
+      "prior_variance": 0.367653,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/galicia/santiagodecompostela",
+      "prior_score": 7.159,
+      "prior_variance": 0.175388,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.4457,
+      "prior_variance": 0.133917,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 6.9422,
+      "prior_variance": 0.132932,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.263,
+      "prior_variance": 0.112941,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 4.9752,
+      "prior_variance": 0.121043,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 5.3655,
+      "prior_variance": 0.119126,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 4.8946,
+      "prior_variance": 0.107843,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 7.1949,
+      "prior_variance": 0.157053,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.528,
+      "prior_variance": 0.152453,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 4.5551,
+      "prior_variance": 0.107883,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 3.2334,
+      "prior_variance": 0.113632,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 4.2587,
+      "prior_variance": 0.1206,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 3.0619,
+      "prior_variance": 0.119098,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.5091,
+      "prior_variance": 0.108775,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -4.5008,
+      "prior_variance": 0.131755,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.294,
+      "prior_variance": 0.115392,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.2104,
+      "prior_variance": 0.120737,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -5.2353,
+      "prior_variance": 0.128415,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -4.5274,
+      "prior_variance": 0.119696,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -6.6799,
+      "prior_variance": 0.181192,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.3209,
+      "prior_variance": 0.125115,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -6.0469,
+      "prior_variance": 0.158395,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -9.2045,
+      "prior_variance": 0.264118,
+      "prior_n": 13
+    }
+  ]
+}

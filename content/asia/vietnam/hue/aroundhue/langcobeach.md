@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_coast_of_South_China_S
 latitude: 16.26927
 loc_type: city
 longitude: 108.062178
-score: 0.56
+score: 0.48
 title: Lang Co Beach
 type: location
 ---

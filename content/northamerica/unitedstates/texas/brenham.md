@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brenham_tx.jpg
 latitude: 30.1669
 loc_type: city
 longitude: -96.3977
-score: 0.41
+score: 0.32
 title: Brenham
 type: location
 ---

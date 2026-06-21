@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BoothbayHarbor.jpg
 latitude: 43.8513
 loc_type: city
 longitude: -69.6278
-score: 0.55
+score: 0.48
 title: Boothbay Harbor
 type: location
 ---

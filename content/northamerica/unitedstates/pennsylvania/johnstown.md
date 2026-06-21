@@ -9,7 +9,7 @@ image_attribution: string_bass_dave on Flickr
 latitude: 40.326741
 loc_type: city
 longitude: -78.92197
-score: 0.31
+score: 0.27
 title: Johnstown
 type: location
 ---

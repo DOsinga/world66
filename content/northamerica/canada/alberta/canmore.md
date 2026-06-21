@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canmore_-_Alberta_-_panora
 latitude: 51.08669
 loc_type: city
 longitude: -115.348113
-score: 0.68
+score: 0.58
 title: Canmore
 type: location
 ---

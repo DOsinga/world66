@@ -5,7 +5,7 @@ done:
 latitude: 19.606087
 loc_type: city
 longitude: 84.672452
-score: 0.25
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Asika
 title: Aska

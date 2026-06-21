@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:30th_Street_Station_Philad
 latitude: 39.952724
 loc_type: city
 longitude: -75.163526
-score: 0.61
+score: 0.52
 title: Philadelphia
 type: location
 ---

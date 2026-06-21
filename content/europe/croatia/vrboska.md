@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridges_and_canal_of_Vrbos
 latitude: 43.181718
 loc_type: city
 longitude: 16.671232
-score: 0.55
+score: 0.52
 title: Vrboska
 type: location
 ---

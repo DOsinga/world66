@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Column_of_Glory_Poltava.jp
 latitude: 49.860781
 loc_type: city
 longitude: 33.749879
-score: 0.36
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Poltava
 - https://en.wikipedia.org/wiki/Battle_of_Poltava

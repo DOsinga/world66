@@ -7,7 +7,7 @@ done:
 latitude: 35.91537
 loc_type: city
 longitude: -94.969956
-score: 0.35
+score: 0.31
 title: Tahlequah
 type: location
 ---

@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-13'
   poi_cleanup: '2026-04-20'
 image: mumbai.jpg
 image_attribution: iMahesh
@@ -11,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Middle_Ground_Coastal_Batt
 latitude: 19.054999
 loc_type: city
 longitude: 72.869203
-score: 0.66
+score: 0.51
 title: Mumbai
 type: location
 ---

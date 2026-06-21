@@ -2,6 +2,7 @@
 category: Beach
 latitude: -34.1965
 longitude: 18.4502
+score: 9.1
 scores:
   activities: 0.6162
   landmark: 0.7108
@@ -11,9 +12,9 @@ tags:
 - things_to_do
 - beach
 - wildlife
+- southern_peninsula
 title: Boulders Beach
 type: poi
-score: 9.1
 ---
 
 Boulders Beach is a sheltered cove tucked into the False Bay coast just outside Simon's Town, famous for its resident colony of African penguins. A boardwalk from the national park entrance lets you walk among the birds at close range — the penguins are entirely accustomed to human visitors and go about their business with total indifference to the spectators.

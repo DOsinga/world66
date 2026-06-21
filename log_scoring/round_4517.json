@@ -1,0 +1,200 @@
+{
+  "round": 4517,
+  "timestamp": "2026-06-14T00:19:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 7.8043,
+      "prior_variance": 0.155776,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.725,
+      "prior_variance": 0.094295,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.0856,
+      "prior_variance": 0.120045,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.5686,
+      "prior_variance": 0.094336,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 0.8756,
+      "prior_variance": 0.088234,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": 0.5482,
+      "prior_variance": 0.095224,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 1.6122,
+      "prior_variance": 0.086957,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.0938,
+      "prior_variance": 0.099198,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": 1.154,
+      "prior_variance": 0.098975,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 0.4073,
+      "prior_variance": 0.090756,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -4.49,
+      "prior_variance": 0.129117,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -0.9518,
+      "prior_variance": 0.095763,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -4.2529,
+      "prior_variance": 0.093121,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -3.7135,
+      "prior_variance": 0.105578,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -2.9853,
+      "prior_variance": 0.086839,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.4717,
+      "prior_variance": 0.08334,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -3.6473,
+      "prior_variance": 0.102013,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -4.2532,
+      "prior_variance": 0.099299,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.539,
+      "prior_variance": 0.099568,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.5228,
+      "prior_variance": 0.117452,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.0957,
+      "prior_variance": 0.096146,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -2.318,
+      "prior_variance": 0.110067,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -4.7096,
+      "prior_variance": 0.102057,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.2189,
+      "prior_variance": 0.134311,
+      "prior_n": 14
+    }
+  ]
+}

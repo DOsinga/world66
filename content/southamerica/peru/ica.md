@@ -5,7 +5,7 @@ done:
 latitude: -14.3325
 loc_type: city
 longitude: -75.499722
-score: 0.57
+score: 0.47
 title: Ica
 type: location
 ---

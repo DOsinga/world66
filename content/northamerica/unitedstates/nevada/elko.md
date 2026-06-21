@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-09-30_14_28_33_View_o
 latitude: 41.195813
 loc_type: city
 longitude: -115.327286
-score: 0.33
+score: 0.32
 title: Elko
 type: location
 ---

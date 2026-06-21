@@ -1,0 +1,200 @@
+{
+  "round": 2381,
+  "timestamp": "2026-06-13T21:38:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 12.3242,
+      "prior_variance": 0.325836,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.8552,
+      "prior_variance": 0.22227,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 4.6251,
+      "prior_variance": 0.266781,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 2.7441,
+      "prior_variance": 0.212461,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.1325,
+      "prior_variance": 0.18156,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -4.5747,
+      "prior_variance": 0.202748,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 0.4813,
+      "prior_variance": 0.154616,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.342,
+      "prior_variance": 0.162071,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_somme",
+      "prior_score": 0.4171,
+      "prior_variance": 0.169897,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.8332,
+      "prior_variance": 0.175615,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.081,
+      "prior_variance": 0.182519,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.9126,
+      "prior_variance": 0.167225,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": 0.1481,
+      "prior_variance": 0.182126,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": -0.5718,
+      "prior_variance": 0.166913,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.5718,
+      "prior_variance": 0.216065,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.6416,
+      "prior_variance": 0.191381,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -2.6294,
+      "prior_variance": 0.264771,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -3.7854,
+      "prior_variance": 0.220124,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -4.4608,
+      "prior_variance": 0.214434,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -3.9974,
+      "prior_variance": 0.207105,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -5.0526,
+      "prior_variance": 0.189223,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -3.8362,
+      "prior_variance": 0.210075,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -4.7835,
+      "prior_variance": 0.211587,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -7.3984,
+      "prior_variance": 0.238985,
+      "prior_n": 7
+    }
+  ]
+}

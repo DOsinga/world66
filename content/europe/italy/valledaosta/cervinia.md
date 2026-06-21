@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CervinoAug252023_03.jpg
 latitude: 45.935603
 loc_type: city
 longitude: 7.63044
-score: 0.6
+score: 0.52
 title: Cervinia
 type: location
 ---

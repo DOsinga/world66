@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandy_beach_in_southern_To
 latitude: -21.0962
 loc_type: city
 longitude: -175.3552
-score: 0.41
+score: 0.4
 title: Kolovai Beach
 type: location
 ---

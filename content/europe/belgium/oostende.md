@@ -5,7 +5,7 @@ done:
 latitude: 51.225856
 loc_type: city
 longitude: 2.919496
-score: 0.51
+score: 0.44
 title: Oostende
 type: location
 ---

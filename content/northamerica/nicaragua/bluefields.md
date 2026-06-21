@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bluefields,_Nicaragua_08.j
 latitude: 12.0136
 loc_type: city
 longitude: -83.7633
-score: 0.37
+score: 0.31
 title: Bluefields
 type: location
 ---

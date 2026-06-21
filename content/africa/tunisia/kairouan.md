@@ -5,7 +5,7 @@ done:
 latitude: 35.67101
 loc_type: city
 longitude: 10.10062
-score: 0.53
+score: 0.49
 title: Kairouan
 type: location
 image: kairouan.jpg

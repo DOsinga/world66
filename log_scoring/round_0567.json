@@ -1,200 +1,200 @@
 {
   "round": 567,
-  "timestamp": "2026-04-12T10:37:44",
+  "timestamp": "2026-06-13T19:42:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Spain",
-      "path": "europe/spain",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -4.3259,
+      "prior_variance": 1.464094,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Balearic islands",
-      "path": "europe/spain/balearicislands",
-      "prior_mu": 30.0642,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": -3.1898,
+      "prior_variance": 0.921876,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Gran Canaria",
-      "path": "europe/spain/grancanaria",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 4,
-      "title": "San Sebasti\u00e1n",
-      "path": "europe/spain/northernspain/sansebastian",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 5,
-      "title": "Cordoba",
-      "path": "europe/spain/andalucia/cordoba",
-      "prior_mu": 29.1403,
-      "prior_sigma": 6.9926,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -4.3985,
+      "prior_variance": 1.320481,
       "prior_n": 1
     },
     {
+      "rank": 4,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -5.9463,
+      "prior_variance": 1.128644,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -5.1495,
+      "prior_variance": 1.501331,
+      "prior_n": 2
+    },
+    {
       "rank": 6,
-      "title": "Las Palmas",
-      "path": "europe/spain/canaryislands/crancanaria/las_palmas",
-      "prior_mu": 22.8107,
-      "prior_sigma": 5.7147,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -5.9864,
+      "prior_variance": 1.440089,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Maspalomas",
-      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
-      "prior_mu": 25.7631,
-      "prior_sigma": 6.0793,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -4.1866,
+      "prior_variance": 1.201458,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Tarragona",
-      "path": "europe/spain/catalonia/tarragona",
-      "prior_mu": 23.4786,
-      "prior_sigma": 5.5459,
-      "prior_n": 1
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -3.5654,
+      "prior_variance": 0.81915,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Cuenca",
-      "path": "europe/spain/centralspain/cuenca",
-      "prior_mu": 23.8716,
-      "prior_sigma": 6.0689,
-      "prior_n": 1
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -4.4104,
+      "prior_variance": 0.913413,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Pontevedra",
-      "path": "europe/spain/galicia/pontevedra",
-      "prior_mu": 22.5624,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -2.9472,
+      "prior_variance": 1.297138,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Pontevedra City",
-      "path": "europe/spain/galicia/pontevedra_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 12,
-      "title": "Jaca",
-      "path": "europe/spain/aragon/jaca",
-      "prior_mu": 22.6576,
-      "prior_sigma": 5.959,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -6.8657,
+      "prior_variance": 1.417472,
       "prior_n": 1
     },
     {
+      "rank": 12,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -8.0159,
+      "prior_variance": 0.732795,
+      "prior_n": 2
+    },
+    {
       "rank": 13,
-      "title": "Santander",
-      "path": "europe/spain/cantabria/santander",
-      "prior_mu": 21.9516,
-      "prior_sigma": 4.8069,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -8.4625,
+      "prior_variance": 1.301833,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Roses",
-      "path": "europe/spain/catalonia/roses",
-      "prior_mu": 21.8164,
-      "prior_sigma": 4.3848,
-      "prior_n": 2
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -5.6534,
+      "prior_variance": 1.582276,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "D\u00e9nia",
-      "path": "europe/spain/spanishcostas/denia",
-      "prior_mu": 22.8764,
-      "prior_sigma": 5.8168,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -4.2319,
+      "prior_variance": 1.251815,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Blanes",
-      "path": "europe/spain/blanes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -6.9695,
+      "prior_variance": 1.283703,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Ponferrada",
-      "path": "europe/spain/galicia/ponferrada",
-      "prior_mu": 22.5903,
-      "prior_sigma": 5.4425,
-      "prior_n": 1
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -8.6399,
+      "prior_variance": 1.227937,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Valle Gran Rey",
-      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -4.8193,
+      "prior_variance": 1.237637,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Chipiona",
-      "path": "europe/spain/andalucia/chipiona",
-      "prior_mu": 22.2538,
-      "prior_sigma": 4.5845,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -6.6024,
+      "prior_variance": 1.107097,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "El Hierro",
-      "path": "europe/spain/canaryislands/elhierro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -6.8624,
+      "prior_variance": 1.217965,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Vinaros",
-      "path": "europe/spain/castellon/vinaros",
-      "prior_mu": 22.6902,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -10.1269,
+      "prior_variance": 4.307689,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Sant Mateu",
-      "path": "europe/spain/castellon/san_mateu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -4.215,
+      "prior_variance": 1.459907,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Chantada",
-      "path": "europe/spain/galicia/chantada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -8.8155,
+      "prior_variance": 1.16381,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Pedro Bernardo",
-      "path": "europe/spain/centralspain/pedro_bernardo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -12.6265,
+      "prior_variance": 7.427665,
+      "prior_n": 3
     }
   ]
 }

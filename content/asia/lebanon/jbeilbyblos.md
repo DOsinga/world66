@@ -6,10 +6,10 @@ latitude: 34.120244
 longitude: 35.651858
 title: Jbeil (Byblos)
 type: location
-score: 0.61
+score: 0.53
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Byblos
+- https://en.wikipedia.org/wiki/Byblos
 image: jbeilbyblos.jpg
 image_source: https://www.flickr.com/photos/43646190@N08/31647381227
 image_license: CC BY-SA 2.0

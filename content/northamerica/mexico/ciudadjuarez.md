@@ -5,7 +5,7 @@ done:
 latitude: 31.690798
 loc_type: city
 longitude: -106.425321
-score: 0.27
+score: 0.17
 title: Ciudad Juárez
 type: location
 ---

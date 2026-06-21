@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Prescott,_Arizona_(1013093
 latitude: 34.539984
 loc_type: city
 longitude: -112.468812
-score: 0.49
+score: 0.42
 title: Prescott
 type: location
 ---

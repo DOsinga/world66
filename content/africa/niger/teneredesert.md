@@ -5,7 +5,7 @@ latitude: 18.0
 longitude: 10.0
 title: Tenere Desert
 type: location
-score: 0.35
+score: 0.28
 loc_type: feature
 ---
 

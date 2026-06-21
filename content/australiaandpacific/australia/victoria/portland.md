@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: -38.3456
 longitude: 141.6042
-score: 0.37
+score: 0.34
 title: Portland
 type: location
 loc_type: city

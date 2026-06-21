@@ -1,0 +1,200 @@
+{
+  "round": 2812,
+  "timestamp": "2026-06-13T22:09:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 1.7448,
+      "prior_variance": 0.16312,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.6548,
+      "prior_variance": 0.143654,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 2.7685,
+      "prior_variance": 0.162695,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.0134,
+      "prior_variance": 0.16366,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.2877,
+      "prior_variance": 0.13702,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -0.0378,
+      "prior_variance": 0.162885,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": -0.1827,
+      "prior_variance": 0.143083,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -1.0938,
+      "prior_variance": 0.210432,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.1727,
+      "prior_variance": 0.133778,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -1.1263,
+      "prior_variance": 0.133804,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.3401,
+      "prior_variance": 0.13961,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -2.6875,
+      "prior_variance": 0.173313,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.5515,
+      "prior_variance": 0.161591,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -2.8443,
+      "prior_variance": 0.207912,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_score": -2.2,
+      "prior_variance": 0.136354,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.0514,
+      "prior_variance": 0.150036,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.0223,
+      "prior_variance": 0.138201,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -3.0434,
+      "prior_variance": 0.159651,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.4679,
+      "prior_variance": 0.136515,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -4.1206,
+      "prior_variance": 0.171349,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -3.0624,
+      "prior_variance": 0.196007,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Changde",
+      "path": "asia/china/hunan/changde",
+      "prior_score": -4.1191,
+      "prior_variance": 0.154301,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -4.969,
+      "prior_variance": 0.164607,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.9562,
+      "prior_variance": 0.286634,
+      "prior_n": 8
+    }
+  ]
+}

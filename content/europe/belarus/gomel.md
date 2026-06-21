@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/39392193@N07/3620877856
 latitude: 52.423894
 loc_type: city
 longitude: 31.01317
-score: 0.33
+score: 0.26
 title: Gomel
 type: location
 ---

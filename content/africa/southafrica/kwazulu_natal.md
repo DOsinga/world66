@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/143210395@N04/32223949625
 latitude: -28.503833
 loc_type: city
 longitude: 30.887501
-score: 0.61
+score: 0.54
 title: KwaZulu-Natal
 type: location
 ---

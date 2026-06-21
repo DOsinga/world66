@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/146878425@N05/51791027159
 latitude: 37.1753
 loc_type: city
 longitude: -113.2899
-score: 0.47
+score: 0.38
 title: Hurricane
 type: location
 ---

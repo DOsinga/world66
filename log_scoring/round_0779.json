@@ -1,200 +1,200 @@
 {
   "round": 779,
-  "timestamp": "2026-04-12T10:47:43",
+  "timestamp": "2026-06-13T19:53:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Edinburgh",
-      "path": "europe/unitedkingdom/scotland/edinburgh",
-      "prior_mu": 29.1526,
-      "prior_sigma": 6.983,
-      "prior_n": 1
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.0033,
+      "prior_variance": 0.760174,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Treviso",
-      "path": "europe/italy/veneto/treviso",
-      "prior_mu": 22.4357,
-      "prior_sigma": 4.8398,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 3.2873,
+      "prior_variance": 0.759394,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Kalamata",
-      "path": "europe/greece/kalamata",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 4.0457,
+      "prior_variance": 0.585006,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Basque Country (Euskadi)",
-      "path": "europe/spain/basque_country_eus",
-      "prior_mu": 22.7018,
-      "prior_sigma": 4.6206,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 6.7552,
+      "prior_variance": 0.753892,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Santander",
-      "path": "europe/spain/cantabria/santander",
-      "prior_mu": 21.5729,
-      "prior_sigma": 3.8293,
-      "prior_n": 3
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 3.2056,
+      "prior_variance": 1.081808,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Vigan",
-      "path": "asia/philippines/vigan",
-      "prior_mu": 23.1049,
-      "prior_sigma": 5.994,
-      "prior_n": 1
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 4.8081,
+      "prior_variance": 0.798459,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Auvergne",
-      "path": "europe/france/centre/auvergne",
-      "prior_mu": 22.5306,
-      "prior_sigma": 5.944,
-      "prior_n": 1
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 2.7377,
+      "prior_variance": 1.544983,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Futuroscope",
-      "path": "europe/france/aquitaine/futuroscope",
-      "prior_mu": 21.8855,
-      "prior_sigma": 4.3968,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 1.7394,
+      "prior_variance": 0.977799,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Pine Cay",
-      "path": "northamerica/turksandcaicosislands/pinecay",
-      "prior_mu": 23.7749,
-      "prior_sigma": 5.9753,
-      "prior_n": 1
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.5105,
+      "prior_variance": 1.106923,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Arbon",
-      "path": "europe/switzerland/arbon",
-      "prior_mu": 21.6208,
-      "prior_sigma": 4.4492,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 3.8077,
+      "prior_variance": 0.624965,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Matara",
-      "path": "asia/srilanka/matara",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.7847,
+      "prior_variance": 0.640621,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Pennan",
-      "path": "europe/unitedkingdom/scotland/pennan",
-      "prior_mu": 21.767,
-      "prior_sigma": 4.5042,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.9549,
+      "prior_variance": 0.788306,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Maryland",
-      "path": "northamerica/unitedstates/maryland",
-      "prior_mu": 22.3244,
-      "prior_sigma": 5.492,
-      "prior_n": 1
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 3.0615,
+      "prior_variance": 0.808663,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Hurricane",
-      "path": "northamerica/unitedstates/utah/hurricane",
-      "prior_mu": 22.4134,
-      "prior_sigma": 5.9454,
-      "prior_n": 1
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 2.8266,
+      "prior_variance": 0.73987,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Christina Lake",
-      "path": "northamerica/canada/britishcolumbia/christinalake",
-      "prior_mu": 21.3033,
-      "prior_sigma": 4.5025,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": -0.4258,
+      "prior_variance": 1.453964,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "El castillo",
-      "path": "northamerica/nicaragua/elcastillo",
-      "prior_mu": 21.5101,
-      "prior_sigma": 4.8177,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 3.0516,
+      "prior_variance": 0.964695,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Kota",
-      "path": "asia/india/rajasthan/kota",
-      "prior_mu": 21.9392,
-      "prior_sigma": 5.5027,
-      "prior_n": 1
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 3.5849,
+      "prior_variance": 0.816035,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Debre Zeit",
-      "path": "africa/ethiopia/debre_zeit",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 2.658,
+      "prior_variance": 0.611986,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Oran",
-      "path": "africa/algeria/oran",
-      "prior_mu": 22.2403,
-      "prior_sigma": 5.4981,
-      "prior_n": 1
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 2.3276,
+      "prior_variance": 0.675199,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Museum",
-      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 1.8116,
+      "prior_variance": 0.644906,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Nageezi",
-      "path": "northamerica/unitedstates/newmexico/nageezi",
-      "prior_mu": 22.5515,
-      "prior_sigma": 5.5457,
-      "prior_n": 1
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 3.6155,
+      "prior_variance": 0.537041,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Man",
-      "path": "africa/ivorycoast/man",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 2.7958,
+      "prior_variance": 0.757901,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Balkh",
-      "path": "asia/afghanistan/balkh",
-      "prior_mu": 21.1155,
-      "prior_sigma": 5.8472,
-      "prior_n": 1
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": 2.2545,
+      "prior_variance": 1.226964,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Ur",
-      "path": "asia/iraq/ur",
-      "prior_mu": 21.8512,
-      "prior_sigma": 5.6887,
-      "prior_n": 1
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": 0.7705,
+      "prior_variance": 1.165476,
+      "prior_n": 2
     }
   ]
 }

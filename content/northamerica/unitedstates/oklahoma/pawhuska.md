@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Hall_Pawhuska_Oklahom
 latitude: 36.66334
 loc_type: city
 longitude: -96.340121
-score: 0.34
+score: 0.29
 title: Pawhuska
 type: location
 ---

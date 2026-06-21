@@ -5,7 +5,7 @@ done:
 latitude: 32.69152
 loc_type: city
 longitude: -117.176695
-score: 0.63
+score: 0.5
 title: Coronado
 type: location
 ---

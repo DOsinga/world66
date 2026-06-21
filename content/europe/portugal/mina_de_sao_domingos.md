@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Milky_Way_over_Mina_de_S_D
 latitude: 37.671347
 loc_type: city
 longitude: -7.498263
-score: 0.4
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/S%C3%A3o_Domingos_Mine
 title: Mina de São Domingos

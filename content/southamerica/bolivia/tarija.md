@@ -5,7 +5,7 @@ done:
 latitude: -21.5355
 loc_type: city
 longitude: -64.7296
-score: 0.45
+score: 0.4
 title: Tarija
 type: location
 image: tarija.jpg

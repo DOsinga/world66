@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grebbestad_-_hamnen.jpg
 latitude: 58.692007
 loc_type: city
 longitude: 11.254233
-score: 0.48
+score: 0.42
 title: Grebbestad
 type: location
 ---

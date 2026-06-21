@@ -5,7 +5,7 @@ done:
 latitude: 53.01813
 loc_type: city
 longitude: -1.732789
-score: 0.45
+score: 0.36
 title: Ashbourne
 type: location
 image: ashbourne.jpg

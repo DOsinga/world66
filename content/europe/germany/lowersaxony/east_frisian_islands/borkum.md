@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Borkum_(vi
 latitude: 53.586267
 loc_type: city
 longitude: 6.691745
-score: 0.49
+score: 0.43
 title: Borkum
 type: location
 ---

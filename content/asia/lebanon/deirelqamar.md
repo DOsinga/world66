@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deir_El-Qamar.jpg
 latitude: 33.697969
 loc_type: city
 longitude: 35.564743
-score: 0.54
+score: 0.45
 title: Deir el Qamar
 type: location
 ---

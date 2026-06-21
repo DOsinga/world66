@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nouadhibou,PortArtisanal1.
 latitude: 20.912705
 loc_type: city
 longitude: -17.050309
-score: 0.28
+score: 0.23
 title: Nouadhibou
 type: location
 ---

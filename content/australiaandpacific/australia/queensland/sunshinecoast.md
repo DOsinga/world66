@@ -5,7 +5,7 @@ done:
 latitude: -26.654434
 loc_type: city
 longitude: 153.093367
-score: 0.61
+score: 0.53
 title: Sunshine Coast
 type: location
 ---

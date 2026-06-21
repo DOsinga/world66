@@ -5,7 +5,7 @@ done:
 latitude: 6.4451
 loc_type: city
 longitude: 100.4811
-score: 0.33
+score: 0.27
 title: Sintok
 type: location
 ---

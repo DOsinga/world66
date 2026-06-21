@@ -5,7 +5,7 @@ latitude: -0.8833
 longitude: 36.3167
 title: Hell's Gate N.P.
 type: location
-score: 0.61
+score: 0.5
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hattiesburg_MS_Downtown_20
 latitude: 31.3271
 loc_type: city
 longitude: -89.2903
-score: 0.34
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Hattiesburg,_Mississippi
 title: Hattiesburg

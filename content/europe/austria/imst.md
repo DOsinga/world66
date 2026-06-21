@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/44296132@N06/27832125425
 latitude: 47.238154
 loc_type: city
 longitude: 10.740698
-score: 0.55
+score: 0.44
 title: Imst
 type: location
 ---

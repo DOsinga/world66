@@ -1,0 +1,200 @@
+{
+  "round": 3222,
+  "timestamp": "2026-06-13T22:37:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 3.0531,
+      "prior_variance": 0.182873,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.8368,
+      "prior_variance": 0.123943,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.1603,
+      "prior_variance": 0.181953,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_score": -2.8876,
+      "prior_variance": 0.12149,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -3.8986,
+      "prior_variance": 0.167392,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_score": -2.0481,
+      "prior_variance": 0.136601,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -5.1892,
+      "prior_variance": 0.23634,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.4479,
+      "prior_variance": 0.143948,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.628,
+      "prior_variance": 0.160286,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.5078,
+      "prior_variance": 0.153268,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.6416,
+      "prior_variance": 0.159909,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -4.9835,
+      "prior_variance": 0.144094,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -4.3353,
+      "prior_variance": 0.142703,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -5.5645,
+      "prior_variance": 0.166357,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -4.8784,
+      "prior_variance": 0.160148,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -4.8111,
+      "prior_variance": 0.174034,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -3.6966,
+      "prior_variance": 0.165437,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -4.144,
+      "prior_variance": 0.125653,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Mardakan",
+      "path": "europe/azerbaijan/mardakan",
+      "prior_score": -3.7106,
+      "prior_variance": 0.146367,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -5.7606,
+      "prior_variance": 0.149854,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -6.7495,
+      "prior_variance": 0.180253,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -6.1588,
+      "prior_variance": 0.198165,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Songyuan",
+      "path": "asia/china/jilin/songyuan",
+      "prior_score": -5.4934,
+      "prior_variance": 0.144032,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -7.1647,
+      "prior_variance": 0.18427,
+      "prior_n": 10
+    }
+  ]
+}

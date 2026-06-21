@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
 latitude: -4.325071
 loc_type: city
 longitude: 55.735608
-score: 0.82
+score: 0.72
 title: Praslin
 type: location
 ---

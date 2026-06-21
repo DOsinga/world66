@@ -4,7 +4,7 @@ done:
 latitude: 30.001855
 loc_type: city
 longitude: -90.176701
-score: 0.35
+score: 0.27
 title: Metairie
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 52.264658
 loc_type: city
 longitude: 10.523607
-score: 0.47
+score: 0.38
 title: Braunschweig
 type: location
 ---

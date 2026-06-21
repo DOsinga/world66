@@ -1,0 +1,200 @@
+{
+  "round": 4344,
+  "timestamp": "2026-06-14T00:05:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 7.6064,
+      "prior_variance": 0.141604,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/northernspain/santiagodecompostela",
+      "prior_score": 6.0685,
+      "prior_variance": 0.118154,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 6.7648,
+      "prior_variance": 0.160486,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_score": 5.2744,
+      "prior_variance": 0.120208,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 6.5228,
+      "prior_variance": 0.109136,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 6.8208,
+      "prior_variance": 0.132775,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 5.8289,
+      "prior_variance": 0.112063,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 6.3821,
+      "prior_variance": 0.126071,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 4.3144,
+      "prior_variance": 0.110424,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 6.8932,
+      "prior_variance": 0.143541,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 5.597,
+      "prior_variance": 0.143365,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 6.3809,
+      "prior_variance": 0.116108,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 3.9807,
+      "prior_variance": 0.131727,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 6.4533,
+      "prior_variance": 0.118204,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.4476,
+      "prior_variance": 0.094591,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_score": 3.7526,
+      "prior_variance": 0.107848,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.4316,
+      "prior_variance": 0.099972,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 4.1971,
+      "prior_variance": 0.104637,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 2.3301,
+      "prior_variance": 0.092588,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 2.2395,
+      "prior_variance": 0.1178,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 1.4694,
+      "prior_variance": 0.1119,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.2676,
+      "prior_variance": 0.096835,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -4.9723,
+      "prior_variance": 0.114492,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Suqian",
+      "path": "asia/china/jiangsu_province/suqian",
+      "prior_score": -5.3137,
+      "prior_variance": 0.131181,
+      "prior_n": 14
+    }
+  ]
+}

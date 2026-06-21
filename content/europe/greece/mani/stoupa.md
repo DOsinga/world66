@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stoupa_village_in_Greece.J
 latitude: 36.8468
 loc_type: city
 longitude: 22.2647
-score: 0.63
+score: 0.53
 title: Stoupa
 type: location
 ---

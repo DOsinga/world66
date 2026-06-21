@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hawes_-_geograph.org.uk_-_
 latitude: 54.303275
 loc_type: city
 longitude: -2.197243
-score: 0.47
+score: 0.41
 title: Hawes and Gayle
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/91124353@N05/12730646545
 latitude: 37.8339
 loc_type: city
 longitude: -6.338874
-score: 0.39
+score: 0.36
 title: Zufre
 type: location
 ---

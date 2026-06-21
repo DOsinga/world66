@@ -5,7 +5,7 @@ done:
 latitude: 42.4604
 loc_type: city
 longitude: -71.3489
-score: 0.54
+score: 0.46
 title: Concord
 type: location
 ---

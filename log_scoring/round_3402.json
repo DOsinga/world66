@@ -1,0 +1,200 @@
+{
+  "round": 3402,
+  "timestamp": "2026-06-13T22:51:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.4194,
+      "prior_variance": 0.123812,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": -0.0322,
+      "prior_variance": 0.126695,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -0.8003,
+      "prior_variance": 0.126404,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.2035,
+      "prior_variance": 0.117021,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": -0.1098,
+      "prior_variance": 0.131747,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.5061,
+      "prior_variance": 0.122635,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 0.7085,
+      "prior_variance": 0.122396,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -1.0653,
+      "prior_variance": 0.111285,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -0.7994,
+      "prior_variance": 0.129566,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -0.4783,
+      "prior_variance": 0.136616,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.4507,
+      "prior_variance": 0.123707,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.8776,
+      "prior_variance": 0.121887,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.2273,
+      "prior_variance": 0.147083,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -1.8886,
+      "prior_variance": 0.111397,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "San Juan del R\u00edo",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_score": -3.3697,
+      "prior_variance": 0.14148,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -0.9599,
+      "prior_variance": 0.155566,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.5992,
+      "prior_variance": 0.141325,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -3.9492,
+      "prior_variance": 0.16516,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -4.3932,
+      "prior_variance": 0.121871,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.4745,
+      "prior_variance": 0.126711,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.605,
+      "prior_variance": 0.119277,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Birtamode",
+      "path": "asia/nepal/birtamode",
+      "prior_score": -5.4577,
+      "prior_variance": 0.14876,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -5.4079,
+      "prior_variance": 0.151835,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.361,
+      "prior_variance": 0.139827,
+      "prior_n": 11
+    }
+  ]
+}

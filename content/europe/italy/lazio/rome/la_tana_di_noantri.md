@@ -5,13 +5,14 @@ done:
 latitude: 41.8892
 longitude: 12.4695
 phone: +39 06 5806404
+score: 6.8
 snippet: Classic Trastevere trattoria with outdoor seating
 tags:
 - eating_out
 - restaurant
+- trastevere
 title: La Tana di Noantri
 type: poi
-score: 6.8
 ---
 
 A neighborhood trattoria tucked between Piazza Santa Maria and Piazza Sant'Egidio in the heart of Trastevere. The Roman cooking is honest and well-priced — expect solid pasta dishes, good antipasti, and straightforward secondi. In summer the real draw is the outdoor seating, where you can eat surrounded by the bustle of one of Rome's most atmospheric quarters. Closed Tuesdays.

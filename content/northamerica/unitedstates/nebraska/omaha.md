@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/59081381@N03/53710734967
 latitude: 41.258746
 loc_type: city
 longitude: -95.938376
-score: 0.45
+score: 0.33
 title: Omaha
 type: location
 ---

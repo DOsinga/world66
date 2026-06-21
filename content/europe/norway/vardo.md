@@ -5,7 +5,7 @@ done:
 latitude: 70.3708
 loc_type: city
 longitude: 31.11
-score: 0.38
+score: 0.39
 title: Vardø
 type: location
 image: vardo.jpg

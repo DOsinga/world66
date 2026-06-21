@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:03_05_06_Mompiche.jpg
 latitude: 0.500201
 loc_type: city
 longitude: -80.019672
-score: 0.46
+score: 0.38
 title: Mompiche
 type: location
 ---

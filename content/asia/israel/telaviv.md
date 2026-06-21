@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarona_CBD_01_(cropped).jp
 latitude: 32.0853
 loc_type: city
 longitude: 34.7818
-score: 0.67
+score: 0.57
 title: Tel Aviv
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 37.431
 longitude: 14.479
 title: Morgantina
 type: location
-score: 0.5
+score: 0.46
 loc_type: feature
 ---
 

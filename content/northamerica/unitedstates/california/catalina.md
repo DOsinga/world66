@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avalon_bay_harbor_catalina
 latitude: 33.3872
 loc_type: city
 longitude: -118.416
-score: 0.59
+score: 0.51
 sources:
 - https://en.wikipedia.org/wiki/Santa_Catalina_Island_(California)
 title: Catalina

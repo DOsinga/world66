@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Predeal_and_Mount_Postavar
 latitude: 45.502688
 loc_type: city
 longitude: 25.576158
-score: 0.48
+score: 0.4
 title: Predeal
 type: location
 ---

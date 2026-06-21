@@ -1,0 +1,200 @@
+{
+  "round": 4306,
+  "timestamp": "2026-06-14T00:01:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 2.4872,
+      "prior_variance": 0.116252,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.4207,
+      "prior_variance": 0.109104,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 2.5344,
+      "prior_variance": 0.09521,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Borgo Maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.9566,
+      "prior_variance": 0.103989,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 3.2161,
+      "prior_variance": 0.101109,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 3.3322,
+      "prior_variance": 0.226303,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.691,
+      "prior_variance": 0.104146,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 0.9976,
+      "prior_variance": 0.109809,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.6884,
+      "prior_variance": 0.10671,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Santa Fe de Antioquia",
+      "path": "southamerica/colombia/santafedeantioquia",
+      "prior_score": 2.4266,
+      "prior_variance": 0.090681,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -1.3979,
+      "prior_variance": 0.098493,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -0.983,
+      "prior_variance": 0.121365,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -3.9448,
+      "prior_variance": 0.122002,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.2958,
+      "prior_variance": 0.097616,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -0.2853,
+      "prior_variance": 0.091259,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Jingdezhen",
+      "path": "asia/china/jiangxi/jingdezhen",
+      "prior_score": 0.1643,
+      "prior_variance": 0.103564,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.0247,
+      "prior_variance": 0.097369,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.5125,
+      "prior_variance": 0.089482,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -2.3735,
+      "prior_variance": 0.097918,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -3.3282,
+      "prior_variance": 0.096309,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_score": -3.6751,
+      "prior_variance": 0.097487,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.7022,
+      "prior_variance": 0.105683,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -4.4774,
+      "prior_variance": 0.099292,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -7.2717,
+      "prior_variance": 0.190176,
+      "prior_n": 13
+    }
+  ]
+}

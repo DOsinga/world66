@@ -5,7 +5,7 @@ done:
 latitude: 22.720362
 loc_type: city
 longitude: 75.8682
-score: 0.4
+score: 0.33
 title: Indore
 type: location
 ---

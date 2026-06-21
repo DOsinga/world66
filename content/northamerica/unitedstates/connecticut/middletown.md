@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapel_of_St._Luke,_Berkel
 latitude: 41.5623
 loc_type: city
 longitude: -72.6509
-score: 0.33
+score: 0.29
 title: Middletown
 type: location
 ---

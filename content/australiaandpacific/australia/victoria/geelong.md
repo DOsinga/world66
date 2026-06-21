@@ -5,7 +5,7 @@ done:
 latitude: -38.1493
 loc_type: city
 longitude: 144.3598
-score: 0.47
+score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Geelong
 title: Geelong

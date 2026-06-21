@@ -6,7 +6,7 @@ latitude: 24.559127
 longitude: 94.030981
 title: Khongjom
 type: location
-score: 0.27
+score: 0.22
 loc_type: city
 ---
 

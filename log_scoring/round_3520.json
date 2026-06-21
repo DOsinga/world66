@@ -1,0 +1,200 @@
+{
+  "round": 3520,
+  "timestamp": "2026-06-13T22:59:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 1.906,
+      "prior_variance": 0.113247,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.7851,
+      "prior_variance": 0.128188,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.5912,
+      "prior_variance": 0.119304,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.7596,
+      "prior_variance": 0.13491,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.3492,
+      "prior_variance": 0.131404,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.1127,
+      "prior_variance": 0.156881,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.5864,
+      "prior_variance": 0.141588,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.7897,
+      "prior_variance": 0.109163,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -1.9747,
+      "prior_variance": 0.124432,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -1.9899,
+      "prior_variance": 0.14249,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.5458,
+      "prior_variance": 0.119507,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -3.0212,
+      "prior_variance": 0.12143,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -2.5668,
+      "prior_variance": 0.144311,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.3589,
+      "prior_variance": 0.135527,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -3.428,
+      "prior_variance": 0.160682,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.184,
+      "prior_variance": 0.16185,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.5824,
+      "prior_variance": 0.123412,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -5.7303,
+      "prior_variance": 0.157086,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -2.9999,
+      "prior_variance": 0.128967,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.9037,
+      "prior_variance": 0.191017,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -10.0951,
+      "prior_variance": 0.262337,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -10.1324,
+      "prior_variance": 0.534745,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -8.3033,
+      "prior_variance": 0.196104,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -9.727,
+      "prior_variance": 0.243611,
+      "prior_n": 11
+    }
+  ]
+}

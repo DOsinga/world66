@@ -1,0 +1,200 @@
+{
+  "round": 2459,
+  "timestamp": "2026-06-13T21:44:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 10.8713,
+      "prior_variance": 0.283989,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 11.224,
+      "prior_variance": 0.413455,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 7.1041,
+      "prior_variance": 0.247441,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.3611,
+      "prior_variance": 0.416496,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 9.4308,
+      "prior_variance": 0.388922,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.6966,
+      "prior_variance": 0.285535,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 3.7066,
+      "prior_variance": 0.157209,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.6324,
+      "prior_variance": 0.176735,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 4.2672,
+      "prior_variance": 0.235833,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 5.2919,
+      "prior_variance": 0.179892,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 3.1203,
+      "prior_variance": 0.167969,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 5.1705,
+      "prior_variance": 0.206888,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.6757,
+      "prior_variance": 0.153543,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.0333,
+      "prior_variance": 0.181214,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": 0.6773,
+      "prior_variance": 0.187975,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.8302,
+      "prior_variance": 0.15674,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_island",
+      "prior_score": 3.5786,
+      "prior_variance": 0.171678,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.4912,
+      "prior_variance": 0.172865,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -1.3688,
+      "prior_variance": 0.177024,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.3489,
+      "prior_variance": 0.170071,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 2.3157,
+      "prior_variance": 0.172307,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -1.0087,
+      "prior_variance": 0.163431,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.3275,
+      "prior_variance": 0.191246,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 0.6193,
+      "prior_variance": 0.204359,
+      "prior_n": 7
+    }
+  ]
+}

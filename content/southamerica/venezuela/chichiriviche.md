@@ -5,7 +5,7 @@ done:
 latitude: 10.9331
 loc_type: city
 longitude: -68.2828
-score: 0.43
+score: 0.35
 title: Chichiriviche
 type: location
 ---

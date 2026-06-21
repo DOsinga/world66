@@ -1,200 +1,200 @@
 {
   "round": 84,
-  "timestamp": "2026-04-12T08:03:11",
+  "timestamp": "2026-06-13T19:18:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Costa Rica",
-      "path": "northamerica/costarica",
-      "prior_mu": 32.48,
-      "prior_sigma": 3.36,
-      "prior_n": 9
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Lombok",
-      "path": "asia/indonesia/lombok",
-      "prior_mu": 24.5,
-      "prior_sigma": 3.59,
-      "prior_n": 4
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Arugam Bay",
-      "path": "asia/srilanka/arugam_bay",
-      "prior_mu": 22.1,
-      "prior_sigma": 3.94,
-      "prior_n": 3
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Tokashiki Island",
-      "path": "asia/japan/ryukyuislands/tokashikiisland",
-      "prior_mu": 23.03,
-      "prior_sigma": 3.49,
-      "prior_n": 4
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Pontevedra",
-      "path": "europe/spain/northernspain/pontevedra",
-      "prior_mu": 22.03,
-      "prior_sigma": 3.02,
-      "prior_n": 5
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "N\u00eemes",
-      "path": "europe/france/midi/provence/nimes",
-      "prior_mu": 24.86,
-      "prior_sigma": 4.08,
-      "prior_n": 3
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "The Cuillins",
-      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
-      "prior_mu": 24.29,
-      "prior_sigma": 3.54,
-      "prior_n": 4
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Gower",
-      "path": "europe/unitedkingdom/wales/gower",
-      "prior_mu": 21.97,
-      "prior_sigma": 3.96,
-      "prior_n": 3
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "North Carolina",
-      "path": "northamerica/unitedstates/northcarolina",
-      "prior_mu": 22.54,
-      "prior_sigma": 4.43,
-      "prior_n": 2
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Lake Issyk-Kul",
-      "path": "asia/kyrgyzstan/lakeissykkul",
-      "prior_mu": 21.25,
-      "prior_sigma": 3.11,
-      "prior_n": 4
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Christ Church",
-      "path": "northamerica/barbados/christchurch",
-      "prior_mu": 23.11,
-      "prior_sigma": 3.32,
-      "prior_n": 4
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Kavaratti",
-      "path": "asia/india/lakshadweep/kavaratti",
-      "prior_mu": 20.71,
-      "prior_sigma": 3.3,
-      "prior_n": 4
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Ibo Island",
-      "path": "africa/mozambique/iboisland",
-      "prior_mu": 21.04,
-      "prior_sigma": 2.76,
-      "prior_n": 5
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Thuan An Beach",
-      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
-      "prior_mu": 21.04,
-      "prior_sigma": 3.68,
-      "prior_n": 3
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Gambia",
-      "path": "africa/gambia",
-      "prior_mu": 21.08,
-      "prior_sigma": 3.58,
-      "prior_n": 3
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Trnava",
-      "path": "europe/slovakia/trnava",
-      "prior_mu": 21.72,
-      "prior_sigma": 4.38,
-      "prior_n": 2
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Limburg",
-      "path": "europe/germany/hesse/limburg",
-      "prior_mu": 21.11,
-      "prior_sigma": 3.28,
-      "prior_n": 4
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Concepci\u00f3n",
-      "path": "southamerica/chile/concepcion",
-      "prior_mu": 21.23,
-      "prior_sigma": 4.15,
-      "prior_n": 2
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Africa",
-      "path": "africa",
-      "prior_mu": 21.31,
-      "prior_sigma": 4.28,
-      "prior_n": 2
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Wia Wia Reserve",
-      "path": "southamerica/suriname/wiawiareserve",
-      "prior_mu": 21.09,
-      "prior_sigma": 3.92,
-      "prior_n": 3
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Cripple Creek",
-      "path": "northamerica/unitedstates/colorado/cripple_creek",
-      "prior_mu": 21.47,
-      "prior_sigma": 4.52,
-      "prior_n": 2
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Puerto Cortes",
-      "path": "northamerica/honduras/puertocortes",
-      "prior_mu": 20.18,
-      "prior_sigma": 4.32,
-      "prior_n": 2
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Juarez",
-      "path": "northamerica/mexico/juarez",
-      "prior_mu": 16.51,
-      "prior_sigma": 2.9,
-      "prior_n": 6
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Fakobly",
-      "path": "africa/ivorycoast/fakobly",
-      "prior_mu": 19.43,
-      "prior_sigma": 3.63,
-      "prior_n": 3
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

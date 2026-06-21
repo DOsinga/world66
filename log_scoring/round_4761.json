@@ -1,0 +1,200 @@
+{
+  "round": 4761,
+  "timestamp": "2026-06-14T00:39:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -0.6292,
+      "prior_variance": 0.102806,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.8432,
+      "prior_variance": 0.089411,
+      "prior_n": 17
+    },
+    {
+      "rank": 3,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.4677,
+      "prior_variance": 0.089348,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": 0.0225,
+      "prior_variance": 0.089461,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.4936,
+      "prior_variance": 0.095312,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.0896,
+      "prior_variance": 0.09165,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_score": 1.0121,
+      "prior_variance": 0.106244,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.1449,
+      "prior_variance": 0.088006,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": 0.1205,
+      "prior_variance": 0.083054,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 1.6719,
+      "prior_variance": 0.080284,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.1542,
+      "prior_variance": 0.100714,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.4663,
+      "prior_variance": 0.09515,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.359,
+      "prior_variance": 0.080083,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -2.8198,
+      "prior_variance": 0.08942,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.0057,
+      "prior_variance": 0.09671,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -0.7592,
+      "prior_variance": 0.096068,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -3.6531,
+      "prior_variance": 0.099242,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -4.0339,
+      "prior_variance": 0.113333,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.4274,
+      "prior_variance": 0.118691,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Burqin",
+      "path": "asia/china/xinjiangprovince/burqin",
+      "prior_score": -0.7873,
+      "prior_variance": 0.088686,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -4.4681,
+      "prior_variance": 0.115868,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -4.6219,
+      "prior_variance": 0.091281,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -4.8813,
+      "prior_variance": 0.092035,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -6.3075,
+      "prior_variance": 0.173909,
+      "prior_n": 15
+    }
+  ]
+}

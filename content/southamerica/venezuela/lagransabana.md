@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gran_Sabana_-_Panoramica_f
 latitude: 5.281536
 loc_type: city
 longitude: -61.214526
-score: 0.53
+score: 0.51
 title: La Gran Sabana
 type: location
 ---

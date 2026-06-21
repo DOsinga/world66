@@ -6,7 +6,7 @@ done:
 latitude: 15.5026
 loc_type: city
 longitude: -88.0252
-score: 0.25
+score: 0.23
 title: San Pedro Sula
 type: location
 ---

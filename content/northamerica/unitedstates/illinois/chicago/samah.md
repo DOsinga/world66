@@ -7,6 +7,7 @@ snippet: Middle Eastern hookah lounge with curtained booths and belly dancers
 tags:
 - eating_out
 - restaurant
+- lakeview
 title: Samah
 type: poi
 score: 5.5

@@ -1,0 +1,200 @@
+{
+  "round": 4259,
+  "timestamp": "2026-06-13T23:58:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 9.1777,
+      "prior_variance": 0.179849,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 7.7331,
+      "prior_variance": 0.137951,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.4717,
+      "prior_variance": 0.111861,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 3.8854,
+      "prior_variance": 0.108348,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 3.7401,
+      "prior_variance": 0.155985,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.0555,
+      "prior_variance": 0.121277,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.0638,
+      "prior_variance": 0.105404,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.8746,
+      "prior_variance": 0.104239,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": -0.2223,
+      "prior_variance": 0.102862,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": -0.2469,
+      "prior_variance": 0.103224,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": -0.3667,
+      "prior_variance": 0.098511,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.7661,
+      "prior_variance": 0.096874,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": -0.5046,
+      "prior_variance": 0.104276,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.3712,
+      "prior_variance": 0.091732,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -0.9977,
+      "prior_variance": 0.096293,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.6841,
+      "prior_variance": 0.098411,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": 0.0926,
+      "prior_variance": 0.099581,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -1.9498,
+      "prior_variance": 0.125904,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.3968,
+      "prior_variance": 0.111911,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -2.5179,
+      "prior_variance": 0.09491,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.2492,
+      "prior_variance": 0.135377,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.5532,
+      "prior_variance": 0.153425,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.2047,
+      "prior_variance": 0.108991,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -4.771,
+      "prior_variance": 0.112453,
+      "prior_n": 14
+    }
+  ]
+}

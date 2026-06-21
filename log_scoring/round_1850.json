@@ -1,199 +1,199 @@
 {
   "round": 1850,
-  "timestamp": "2026-04-13T10:57:32",
+  "timestamp": "2026-06-13T20:56:42",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Skyros",
-      "path": "europe/greece/skyros",
-      "prior_score": 5.1318,
-      "prior_variance": 0.402239,
-      "prior_n": 4
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 11.5824,
+      "prior_variance": 0.385676,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Maspalomas",
-      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
-      "prior_score": 5.2179,
-      "prior_variance": 0.382259,
-      "prior_n": 4
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 11.7117,
+      "prior_variance": 0.918704,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Podgora",
-      "path": "europe/croatia/podgora",
-      "prior_score": 1.7103,
-      "prior_variance": 0.28901,
-      "prior_n": 4
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 8.1115,
+      "prior_variance": 0.351661,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Ruins of Le\u00f3n Viejo",
-      "path": "northamerica/nicaragua/ruins_of_len_vie",
-      "prior_score": 0.3811,
-      "prior_variance": 0.334064,
-      "prior_n": 4
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 6.9271,
+      "prior_variance": 0.355118,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Lieksa",
-      "path": "europe/finland/lieksa",
-      "prior_score": -1.8849,
-      "prior_variance": 0.322044,
-      "prior_n": 4
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_score": 5.1963,
+      "prior_variance": 0.264562,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Devizes",
-      "path": "europe/unitedkingdom/england/devizes",
-      "prior_score": -1.3748,
-      "prior_variance": 0.303837,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 7.1802,
+      "prior_variance": 0.308883,
       "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Haderslev",
-      "path": "europe/denmark/haderslev",
-      "prior_score": -1.259,
-      "prior_variance": 0.314995,
-      "prior_n": 5
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 7.3064,
+      "prior_variance": 0.357667,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Le Havre",
-      "path": "europe/france/normandybrittany/lehavre",
-      "prior_score": -0.2318,
-      "prior_variance": 0.256188,
-      "prior_n": 5
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 1.7168,
+      "prior_variance": 0.220274,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Greiz",
-      "path": "europe/germany/thuringia/greiz",
-      "prior_score": -3.8998,
-      "prior_variance": 0.250928,
-      "prior_n": 5
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.7154,
+      "prior_variance": 0.24053,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Harwich",
-      "path": "europe/unitedkingdom/england/eastern_england/harwich",
-      "prior_score": -2.5438,
-      "prior_variance": 0.25191,
-      "prior_n": 5
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 3.1445,
+      "prior_variance": 0.227294,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Soignies",
-      "path": "europe/belgium/soignies",
-      "prior_score": -2.7951,
-      "prior_variance": 0.219356,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 2.0419,
+      "prior_variance": 0.235807,
       "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Butte",
-      "path": "northamerica/unitedstates/montana/butte",
-      "prior_score": -2.1924,
-      "prior_variance": 0.341955,
-      "prior_n": 4
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.4316,
+      "prior_variance": 0.384576,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Resistencia",
-      "path": "southamerica/argentina/resistencia",
-      "prior_score": -2.7348,
-      "prior_variance": 0.267093,
-      "prior_n": 5
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.9153,
+      "prior_variance": 0.369661,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Cap-Ha\u00eftien",
-      "path": "northamerica/haiti/caphaitien",
-      "prior_score": -2.5596,
-      "prior_variance": 0.342221,
-      "prior_n": 5
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.0395,
+      "prior_variance": 0.3369,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Sant Mateu",
-      "path": "europe/spain/castellon/san_mateu",
-      "prior_score": -1.7344,
-      "prior_variance": 0.328041,
-      "prior_n": 5
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.5914,
+      "prior_variance": 0.244101,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Hamm",
-      "path": "europe/germany/northrhinewestphalia/hamm",
-      "prior_score": -3.6936,
-      "prior_variance": 0.280364,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 2.0033,
+      "prior_variance": 0.241805,
       "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Mano",
-      "path": "europe/switzerland/mano",
-      "prior_score": -3.3325,
-      "prior_variance": 0.331694,
-      "prior_n": 5
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 2.4825,
+      "prior_variance": 0.218102,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Freetown Peninsula",
-      "path": "africa/sierraleone/freetown_peninsula",
-      "prior_score": -2.1197,
-      "prior_variance": 0.330392,
-      "prior_n": 5
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.7194,
+      "prior_variance": 0.233495,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Carina",
-      "path": "australiaandpacific/australia/queensland/carina",
-      "prior_score": -6.0232,
-      "prior_variance": 0.344996,
-      "prior_n": 4
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -1.0874,
+      "prior_variance": 0.258482,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Akure",
-      "path": "africa/nigeria/akure",
-      "prior_score": -6.0439,
-      "prior_variance": 0.418532,
-      "prior_n": 4
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 2.4694,
+      "prior_variance": 0.24551,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "dera ghazi khan",
-      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
-      "prior_score": -8.89,
-      "prior_variance": 0.312907,
-      "prior_n": 5
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 1.5395,
+      "prior_variance": 0.239052,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Khanpur Mahar",
-      "path": "asia/pakistan/khanpur_mahar",
-      "prior_score": -8.4221,
-      "prior_variance": 0.403913,
-      "prior_n": 4
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.4659,
+      "prior_variance": 0.383664,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "In Guezzam",
-      "path": "africa/algeria/inguezzam",
-      "prior_score": -7.7512,
-      "prior_variance": 0.394073,
-      "prior_n": 4
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -9.0314,
+      "prior_variance": 0.34926,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "MdFrJwObBzEDeO",
-      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
-      "prior_score": -14.673,
-      "prior_variance": 1.489925,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -9.8801,
+      "prior_variance": 0.570032,
       "prior_n": 5
     }
   ]

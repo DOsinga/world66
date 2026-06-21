@@ -1,0 +1,200 @@
+{
+  "round": 4102,
+  "timestamp": "2026-06-13T23:43:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 6.5703,
+      "prior_variance": 0.15895,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.6339,
+      "prior_variance": 0.150462,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.0285,
+      "prior_variance": 0.111212,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 6.0166,
+      "prior_variance": 0.149369,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_score": 6.8067,
+      "prior_variance": 0.123996,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 6.5373,
+      "prior_variance": 0.128989,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Puno",
+      "path": "southamerica/peru/puno",
+      "prior_score": 3.7344,
+      "prior_variance": 0.105245,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 5.668,
+      "prior_variance": 0.121157,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 5.8401,
+      "prior_variance": 0.114756,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.6221,
+      "prior_variance": 0.129429,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 2.6932,
+      "prior_variance": 0.105548,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.0267,
+      "prior_variance": 0.108635,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.3581,
+      "prior_variance": 0.094698,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 1.7547,
+      "prior_variance": 0.110601,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.0585,
+      "prior_variance": 0.095811,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": -0.2033,
+      "prior_variance": 0.1087,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.0668,
+      "prior_variance": 0.10417,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": 0.6511,
+      "prior_variance": 0.116478,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.1358,
+      "prior_variance": 0.103325,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": -0.3723,
+      "prior_variance": 0.106573,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 0.3306,
+      "prior_variance": 0.103949,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": 0.0076,
+      "prior_variance": 0.096936,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.7586,
+      "prior_variance": 0.120027,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -1.4365,
+      "prior_variance": 0.104572,
+      "prior_n": 13
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2564,
+  "timestamp": "2026-06-13T21:51:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -3.0357,
+      "prior_variance": 0.179822,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.5085,
+      "prior_variance": 0.165951,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.3741,
+      "prior_variance": 0.170447,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -2.2017,
+      "prior_variance": 0.156967,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -3.3527,
+      "prior_variance": 0.18543,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -4.362,
+      "prior_variance": 0.212831,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/soveria_mannelli",
+      "prior_score": -3.5346,
+      "prior_variance": 0.182928,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -3.4624,
+      "prior_variance": 0.182188,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.3411,
+      "prior_variance": 0.170272,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.384,
+      "prior_variance": 0.179209,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -4.7229,
+      "prior_variance": 0.201286,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -5.1155,
+      "prior_variance": 0.159693,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.8927,
+      "prior_variance": 0.220584,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -3.6201,
+      "prior_variance": 0.169374,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -5.2494,
+      "prior_variance": 0.235539,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -5.0267,
+      "prior_variance": 0.177917,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -3.1544,
+      "prior_variance": 0.16818,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -5.2088,
+      "prior_variance": 0.189894,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.5948,
+      "prior_variance": 0.212665,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -4.7101,
+      "prior_variance": 0.226822,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.1932,
+      "prior_variance": 0.152119,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -4.8841,
+      "prior_variance": 0.201282,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_score": -4.6115,
+      "prior_variance": 0.167852,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_score": -5.6364,
+      "prior_variance": 0.178181,
+      "prior_n": 8
+    }
+  ]
+}

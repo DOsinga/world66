@@ -5,7 +5,7 @@ done:
 latitude: 19.7517
 loc_type: city
 longitude: -70.515
-score: 0.49
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Sos%C3%BAa
 - https://www.sosuajewishmuseum.com/

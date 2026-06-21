@@ -7,7 +7,7 @@ done:
 latitude: 35.0457
 loc_type: city
 longitude: -85.3095
-score: 0.56
+score: 0.49
 title: Chattanooga
 type: location
 ---

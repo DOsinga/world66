@@ -1,0 +1,200 @@
+{
+  "round": 4455,
+  "timestamp": "2026-06-14T00:13:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 4.4546,
+      "prior_variance": 0.128749,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 3.429,
+      "prior_variance": 0.098983,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 2.3694,
+      "prior_variance": 0.083637,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.2403,
+      "prior_variance": 0.096906,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 1.9176,
+      "prior_variance": 0.094337,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 1.9888,
+      "prior_variance": 0.092606,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 2.8396,
+      "prior_variance": 0.09771,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.5795,
+      "prior_variance": 0.092425,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 1.0886,
+      "prior_variance": 0.101855,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.4203,
+      "prior_variance": 0.098865,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 1.3087,
+      "prior_variance": 0.086238,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 0.6914,
+      "prior_variance": 0.092048,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Lanciano",
+      "path": "europe/italy/abruzzo/lanciano",
+      "prior_score": 0.3526,
+      "prior_variance": 0.095365,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_score": 2.5658,
+      "prior_variance": 0.089914,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 0.5418,
+      "prior_variance": 0.092161,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": 0.0247,
+      "prior_variance": 0.091113,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 0.3946,
+      "prior_variance": 0.103369,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -1.6266,
+      "prior_variance": 0.10599,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.4627,
+      "prior_variance": 0.087078,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -1.1864,
+      "prior_variance": 0.084925,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -2.921,
+      "prior_variance": 0.087375,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.2481,
+      "prior_variance": 0.099503,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.3083,
+      "prior_variance": 0.091088,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Shangrao",
+      "path": "asia/china/jiangxi/shangrao",
+      "prior_score": -2.5343,
+      "prior_variance": 0.097501,
+      "prior_n": 15
+    }
+  ]
+}

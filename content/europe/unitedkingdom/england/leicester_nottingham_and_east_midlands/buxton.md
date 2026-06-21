@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buxton,_The_Crescent,_buil
 latitude: 53.259342
 loc_type: city
 longitude: -1.910077
-score: 0.52
+score: 0.39
 title: Buxton
 type: location
 ---

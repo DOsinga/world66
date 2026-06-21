@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2008-1019-01-Ellensburg01.
 latitude: 46.997064
 loc_type: city
 longitude: -120.545122
-score: 0.37
+score: 0.31
 title: Ellensburg
 type: location
 ---

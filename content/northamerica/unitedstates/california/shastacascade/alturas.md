@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Modoc_County_Courthouse_-_
 latitude: 41.487123
 loc_type: city
 longitude: -120.542327
-score: 0.33
+score: 0.25
 title: Alturas
 type: location
 ---

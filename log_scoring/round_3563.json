@@ -1,0 +1,200 @@
+{
+  "round": 3563,
+  "timestamp": "2026-06-13T23:03:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 6.8165,
+      "prior_variance": 0.155002,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 4.1735,
+      "prior_variance": 0.127516,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 4.012,
+      "prior_variance": 0.15258,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -3.9556,
+      "prior_variance": 0.164748,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Pinellas Trail",
+      "path": "northamerica/unitedstates/florida/tampabayarea/pinellastrail",
+      "prior_score": -2.3621,
+      "prior_variance": 0.12058,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.1457,
+      "prior_variance": 0.120442,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.8829,
+      "prior_variance": 0.125738,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -2.8427,
+      "prior_variance": 0.129163,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.687,
+      "prior_variance": 0.112752,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -3.0236,
+      "prior_variance": 0.122137,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -2.4652,
+      "prior_variance": 0.116747,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.3394,
+      "prior_variance": 0.120184,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.3863,
+      "prior_variance": 0.114592,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -3.6272,
+      "prior_variance": 0.145069,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -3.0515,
+      "prior_variance": 0.135796,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.7907,
+      "prior_variance": 0.113105,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -3.051,
+      "prior_variance": 0.175244,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.1115,
+      "prior_variance": 0.115248,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.0443,
+      "prior_variance": 0.118868,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.3524,
+      "prior_variance": 0.161753,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.3212,
+      "prior_variance": 0.143544,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.7931,
+      "prior_variance": 0.195442,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -7.8024,
+      "prior_variance": 0.232806,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -9.6238,
+      "prior_variance": 0.418441,
+      "prior_n": 11
+    }
+  ]
+}

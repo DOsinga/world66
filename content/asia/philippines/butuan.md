@@ -5,7 +5,7 @@ done:
 latitude: 8.9475
 loc_type: city
 longitude: 125.5432
-score: 0.42
+score: 0.35
 title: Butuan
 type: location
 ---

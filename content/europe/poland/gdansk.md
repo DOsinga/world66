@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gda
 latitude: 54.352
 loc_type: city
 longitude: 18.6466
-score: 0.65
+score: 0.58
 title: Gdansk
 type: location
 ---

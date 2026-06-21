@@ -4,7 +4,7 @@ type: location
 latitude: 18.3017
 longitude: -65.7898
 todo_location_cleanup: done
-score: 0.66
+score: 0.55
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_the_Assumption,_
 latitude: 53.2744
 loc_type: city
 longitude: -7.4927
-score: 0.46
+score: 0.36
 title: Tullamore
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bacolod_City_Cathedral.jpg
 latitude: 10.676284
 loc_type: city
 longitude: 122.951379
-score: 0.47
+score: 0.38
 title: Bacolod
 type: location
 ---

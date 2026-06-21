@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%27F-BVFB%27_Air_France_Co
 latitude: 49.253122
 loc_type: city
 longitude: 8.876991
-score: 0.42
+score: 0.37
 title: Sinsheim
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 47.2517
 loc_type: city
 longitude: 16.9342
-score: 0.49
+score: 0.39
 title: Sárvár
 type: location
 ---

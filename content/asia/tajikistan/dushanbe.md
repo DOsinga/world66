@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:-Rudaki_in_Park_Dushanbe_c
 latitude: 38.5762
 loc_type: city
 longitude: 68.7864
-score: 0.43
+score: 0.32
 title: Dushanbe
 type: location
 ---

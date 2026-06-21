@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marib_Yemen_Hunt_1994.jpg
 latitude: 15.4579
 loc_type: city
 longitude: 45.323
-score: 0.13
+score: 0.12
 title: Marib
 type: location
 ---

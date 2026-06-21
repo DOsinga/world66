@@ -5,7 +5,7 @@ done:
 latitude: 9.8839
 loc_type: city
 longitude: -85.5296
-score: 0.58
+score: 0.48
 title: Samara
 type: location
 ---

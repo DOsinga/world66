@@ -5,7 +5,7 @@ latitude: 42.570695
 longitude: 1.999136
 title: Lac des Bouillouses
 type: location
-score: 0.59
+score: 0.49
 loc_type: feature
 ---
 

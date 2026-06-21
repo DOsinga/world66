@@ -5,7 +5,7 @@ done:
 latitude: 41.238102
 loc_type: city
 longitude: -85.853054
-score: 0.32
+score: 0.25
 title: Warsaw
 type: location
 ---

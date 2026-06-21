@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parade_wai_ron_an_mansusu_
 latitude: -1.1836
 loc_type: city
 longitude: 136.0816
-score: 0.42
+score: 0.35
 title: Biak
 type: location
 ---

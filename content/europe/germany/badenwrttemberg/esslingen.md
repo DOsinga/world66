@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esslingen_a.N._Fall_2023.j
 latitude: 48.742758
 loc_type: city
 longitude: 9.307168
-score: 0.53
+score: 0.48
 title: Esslingen
 type: location
 ---

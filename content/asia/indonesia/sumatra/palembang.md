@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ampera_Bridge_at_Late_Afte
 latitude: -2.988824
 loc_type: city
 longitude: 104.756851
-score: 0.42
+score: 0.34
 title: Palembang
 type: location
 ---

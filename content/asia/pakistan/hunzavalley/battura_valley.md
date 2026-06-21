@@ -5,7 +5,7 @@ done:
 latitude: 36.6
 loc_type: city
 longitude: 74.55
-score: 0.49
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Batura_Glacier
 - https://en.wikipedia.org/wiki/Batura_Muztagh

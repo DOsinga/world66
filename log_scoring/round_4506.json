@@ -1,0 +1,200 @@
+{
+  "round": 4506,
+  "timestamp": "2026-06-14T00:18:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.3022,
+      "prior_variance": 0.113464,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 2.9427,
+      "prior_variance": 0.099503,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 5.535,
+      "prior_variance": 0.109053,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.3834,
+      "prior_variance": 0.086895,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 4.3626,
+      "prior_variance": 0.102802,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 2.8775,
+      "prior_variance": 0.092772,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_score": 4.3599,
+      "prior_variance": 0.101276,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 2.552,
+      "prior_variance": 0.104435,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 3.2498,
+      "prior_variance": 0.1206,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 3.9787,
+      "prior_variance": 0.092676,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 3.5338,
+      "prior_variance": 0.130446,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 3.9057,
+      "prior_variance": 0.095748,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.7013,
+      "prior_variance": 0.092962,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.7763,
+      "prior_variance": 0.093336,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.3216,
+      "prior_variance": 0.082526,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.6715,
+      "prior_variance": 0.099148,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": -0.0212,
+      "prior_variance": 0.092453,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.9689,
+      "prior_variance": 0.103173,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": 0.024,
+      "prior_variance": 0.103868,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.826,
+      "prior_variance": 0.097691,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_score": -3.3463,
+      "prior_variance": 0.090304,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -5.9602,
+      "prior_variance": 0.129519,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_score": -6.1347,
+      "prior_variance": 0.14245,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -4.9686,
+      "prior_variance": 0.096541,
+      "prior_n": 15
+    }
+  ]
+}

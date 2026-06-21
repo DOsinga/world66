@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Adelboden_schutzwald3.jpg
 latitude: 46.4927
 loc_type: city
 longitude: 7.5588
-score: 0.59
+score: 0.57
 title: Adelboden
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 5.123693
 longitude: -74.449072
 title: Tobia
 type: location
-score: 0.43
+score: 0.35
 loc_type: city
 ---
 

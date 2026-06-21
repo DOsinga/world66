@@ -5,7 +5,7 @@ latitude: 58.6163
 longitude: 50.1357
 title: Vyatka
 type: location
-score: 0.31
+score: 0.21
 loc_type: city
 image: vyatka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Da_svet_photo_%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%B0%D0%B4%D0%B0.jpg

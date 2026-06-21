@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Yantai
 title: Yantai
 type: location
+score: 0.36
 ---
 
 Yantai occupies the northeastern tip of the Shandong Peninsula, where it faces the Bohai Strait toward Dalian across the water. It was opened as a treaty port in 1861, and the hilltop consulate district — [Yantai Hill Park](/asia/china/shandong_province/yantai/yantai_hill_park) — preserves a cluster of 19th-century foreign buildings that look over the harbor in the same way that Qingdao's German quarter looks over its bay, with rather less tourist machinery surrounding them. The buildings themselves are modest, but the elevated views and the mixture of European architectural styles make the area genuinely pleasant to walk.

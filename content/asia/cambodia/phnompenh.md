@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace,_Phnom_Penh_C
 latitude: 11.5564
 loc_type: city
 longitude: 104.9282
-score: 0.63
+score: 0.52
 title: Phnom Penh
 type: location
 ---

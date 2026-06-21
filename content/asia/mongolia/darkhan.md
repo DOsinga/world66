@@ -5,7 +5,7 @@ done:
 latitude: 49.492243
 loc_type: city
 longitude: 105.936161
-score: 0.32
+score: 0.24
 title: Darkhan
 type: location
 image: darkhan.jpg

@@ -5,7 +5,7 @@ latitude: 33.5276
 longitude: -5.1074
 title: Ifrane
 type: location
-score: 0.5
+score: 0.45
 loc_type: city
 ---
 

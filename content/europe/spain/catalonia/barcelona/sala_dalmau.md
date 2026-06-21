@@ -5,13 +5,14 @@ done:
 latitude: 41.387336
 longitude: 2.160535
 phone: 932 154 592
+score: 5.8
 snippet: Long-established Barcelona gallery showing contemporary Spanish painters
 tags:
 - shopping
+- eixample
 title: Sala Dalmau
 type: poi
 url: https://www.saladalmau.com
-score: 5.8
 ---
 
 One of Barcelona's most established commercial galleries, on Consell de Cent in the Eixample. The programme leans toward figurative contemporary painting, with a roster that has included Miguel Pena, Manolo Belzunce, Alceu Ribeiro, and Victor Pedra. Worth a look if you're already browsing the gallery-dense stretch of this street.

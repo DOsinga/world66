@@ -1,0 +1,200 @@
+{
+  "round": 2871,
+  "timestamp": "2026-06-13T22:13:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 0.9457,
+      "prior_variance": 0.149481,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -2.1597,
+      "prior_variance": 0.151684,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.4726,
+      "prior_variance": 0.157587,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -2.5946,
+      "prior_variance": 0.153939,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -3.3101,
+      "prior_variance": 0.197044,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -3.4495,
+      "prior_variance": 0.170499,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -2.1988,
+      "prior_variance": 0.146318,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -2.7453,
+      "prior_variance": 0.176037,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -2.969,
+      "prior_variance": 0.152872,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -6.1503,
+      "prior_variance": 0.195276,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.7136,
+      "prior_variance": 0.158568,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -3.4875,
+      "prior_variance": 0.178187,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -3.2296,
+      "prior_variance": 0.283729,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -2.413,
+      "prior_variance": 0.190057,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -2.6595,
+      "prior_variance": 0.157766,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.6474,
+      "prior_variance": 0.148306,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.4139,
+      "prior_variance": 0.172351,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -4.4466,
+      "prior_variance": 0.193135,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.346,
+      "prior_variance": 0.144236,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -5.0304,
+      "prior_variance": 0.159187,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -5.139,
+      "prior_variance": 0.160431,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -3.0995,
+      "prior_variance": 0.16402,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -11.0285,
+      "prior_variance": 0.334425,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -8.4605,
+      "prior_variance": 0.228659,
+      "prior_n": 9
+    }
+  ]
+}

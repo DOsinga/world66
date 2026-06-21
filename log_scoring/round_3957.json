@@ -1,0 +1,200 @@
+{
+  "round": 3957,
+  "timestamp": "2026-06-13T23:32:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.0175,
+      "prior_variance": 0.12472,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 3.7554,
+      "prior_variance": 0.160345,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.2658,
+      "prior_variance": 0.104002,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.2843,
+      "prior_variance": 0.125626,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.1822,
+      "prior_variance": 0.10296,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -0.5546,
+      "prior_variance": 0.120079,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": -1.0705,
+      "prior_variance": 0.163911,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_score": -3.5476,
+      "prior_variance": 0.173054,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.2131,
+      "prior_variance": 0.124085,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.8,
+      "prior_variance": 0.101132,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.8125,
+      "prior_variance": 0.146053,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.7192,
+      "prior_variance": 0.112815,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.4029,
+      "prior_variance": 0.116177,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -2.1762,
+      "prior_variance": 0.118744,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.2268,
+      "prior_variance": 0.100654,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.4128,
+      "prior_variance": 0.10458,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -3.1654,
+      "prior_variance": 0.127686,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -2.8126,
+      "prior_variance": 0.125976,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -4.0422,
+      "prior_variance": 0.12492,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -4.8924,
+      "prior_variance": 0.154668,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.4792,
+      "prior_variance": 0.114732,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -5.8672,
+      "prior_variance": 0.136131,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Putian",
+      "path": "asia/china/fujianprovince/putian",
+      "prior_score": -3.8845,
+      "prior_variance": 0.105827,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -4.8557,
+      "prior_variance": 0.118459,
+      "prior_n": 13
+    }
+  ]
+}

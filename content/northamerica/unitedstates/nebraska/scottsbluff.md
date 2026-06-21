@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Covered_Wagon_In_Scotts_Bl
 latitude: 41.855579
 loc_type: city
 longitude: -103.70883
-score: 0.38
+score: 0.34
 title: Scotts Bluff
 type: location
 ---

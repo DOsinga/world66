@@ -1,0 +1,200 @@
+{
+  "round": 3825,
+  "timestamp": "2026-06-13T23:22:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": -0.1086,
+      "prior_variance": 0.143735,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.6778,
+      "prior_variance": 0.10768,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 0.8462,
+      "prior_variance": 0.104776,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Senglea",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 2.8654,
+      "prior_variance": 0.11372,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.7545,
+      "prior_variance": 0.102712,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 0.9332,
+      "prior_variance": 0.107193,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.2625,
+      "prior_variance": 0.118596,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.5866,
+      "prior_variance": 0.107016,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 1.0743,
+      "prior_variance": 0.119306,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.9248,
+      "prior_variance": 0.12742,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 0.52,
+      "prior_variance": 0.114106,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": -0.8401,
+      "prior_variance": 0.099549,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.1749,
+      "prior_variance": 0.114915,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.2232,
+      "prior_variance": 0.11384,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Tirgu Mures",
+      "path": "europe/romania/tirgumures",
+      "prior_score": -1.5784,
+      "prior_variance": 0.122732,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.0264,
+      "prior_variance": 0.116036,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -2.7691,
+      "prior_variance": 0.104798,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.5939,
+      "prior_variance": 0.108342,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.6002,
+      "prior_variance": 0.111564,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -1.4763,
+      "prior_variance": 0.112268,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.5811,
+      "prior_variance": 0.166269,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -0.9429,
+      "prior_variance": 0.130606,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -4.9148,
+      "prior_variance": 0.152448,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -9.9812,
+      "prior_variance": 0.374565,
+      "prior_n": 12
+    }
+  ]
+}

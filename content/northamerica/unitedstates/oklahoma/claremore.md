@@ -5,7 +5,7 @@ done:
 latitude: 36.3126
 loc_type: city
 longitude: -95.6161
-score: 0.33
+score: 0.31
 title: Claremore
 type: location
 ---

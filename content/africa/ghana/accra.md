@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/134037448@N03/32772680570
 latitude: 5.6037
 loc_type: city
 longitude: -0.187
-score: 0.48
+score: 0.4
 title: Accra
 type: location
 ---

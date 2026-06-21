@@ -5,7 +5,7 @@ done:
 latitude: 42.277908
 loc_type: city
 longitude: -8.789634
-score: 0.49
+score: 0.42
 title: Cangas
 type: location
 ---

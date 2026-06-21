@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_View_of_Bangor_Pier_from
 latitude: 53.227716
 loc_type: city
 longitude: -4.126882
-score: 0.44
+score: 0.37
 title: Bangor, Wales
 type: location
 ---

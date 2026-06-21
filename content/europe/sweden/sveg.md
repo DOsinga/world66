@@ -5,7 +5,7 @@ done:
 latitude: 62.036071
 loc_type: city
 longitude: 14.359839
-score: 0.35
+score: 0.32
 title: Sveg
 type: location
 ---

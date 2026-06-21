@@ -1,0 +1,200 @@
+{
+  "round": 4051,
+  "timestamp": "2026-06-13T23:39:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 7.9015,
+      "prior_variance": 0.138949,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 4.8727,
+      "prior_variance": 0.113335,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 3.6831,
+      "prior_variance": 0.157642,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 4.5726,
+      "prior_variance": 0.125386,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 3.8902,
+      "prior_variance": 0.108294,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.2291,
+      "prior_variance": 0.112479,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 2.5659,
+      "prior_variance": 0.138222,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 5.0534,
+      "prior_variance": 0.120787,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 3.3644,
+      "prior_variance": 0.099428,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.7243,
+      "prior_variance": 0.11386,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 2.5049,
+      "prior_variance": 0.215593,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 1.023,
+      "prior_variance": 0.101723,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 1.6172,
+      "prior_variance": 0.102352,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 2.3491,
+      "prior_variance": 0.09695,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 1.9214,
+      "prior_variance": 0.087689,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 3.8936,
+      "prior_variance": 0.109224,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.1172,
+      "prior_variance": 0.116678,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.4816,
+      "prior_variance": 0.121095,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.9985,
+      "prior_variance": 0.096937,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Middle Caicos",
+      "path": "northamerica/turksandcaicosislands/middlecaicos",
+      "prior_score": 2.6999,
+      "prior_variance": 0.116904,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.5031,
+      "prior_variance": 0.111273,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.392,
+      "prior_variance": 0.12723,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.1739,
+      "prior_variance": 0.092559,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_score": -3.9796,
+      "prior_variance": 0.126589,
+      "prior_n": 13
+    }
+  ]
+}

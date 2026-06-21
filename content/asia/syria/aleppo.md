@@ -5,7 +5,7 @@ done:
 latitude: 36.1992
 loc_type: city
 longitude: 37.1637
-score: 0.21
+score: 0.1
 title: Aleppo
 type: location
 image: aleppo.jpg

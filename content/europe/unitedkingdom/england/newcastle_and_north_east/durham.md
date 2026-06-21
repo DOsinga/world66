@@ -5,7 +5,7 @@ done:
 latitude: 54.666667
 loc_type: city
 longitude: -1.75
-score: 0.56
+score: 0.48
 title: Durham
 type: location
 ---

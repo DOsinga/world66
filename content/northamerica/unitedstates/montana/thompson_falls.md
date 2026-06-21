@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Thompson_Falls,_Montana.jp
 latitude: 47.5971
 loc_type: city
 longitude: -115.3443
-score: 0.44
+score: 0.35
 title: Thompson Falls
 type: location
 ---

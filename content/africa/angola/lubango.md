@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angola_in_the_everyday.jpg
 latitude: -14.919562
 loc_type: city
 longitude: 13.489751
-score: 0.35
+score: 0.27
 title: Lubango
 type: location
 ---

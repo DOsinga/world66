@@ -4,7 +4,7 @@ done:
 latitude: 48.458093
 loc_type: city
 longitude: 18.898841
-score: 0.57
+score: 0.47
 title: Banská Stiavnica
 type: location
 ---

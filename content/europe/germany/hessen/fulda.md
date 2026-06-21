@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fulda,_Schlossgarten,_2019
 latitude: 50.554233
 loc_type: city
 longitude: 9.677045
-score: 0.51
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Fulda
 - https://en.wikipedia.org/wiki/Fulda_Cathedral

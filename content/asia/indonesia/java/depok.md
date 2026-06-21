@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Depok_Skyline.jpg
 latitude: -6.4072
 loc_type: city
 longitude: 106.8158
-score: 0.3
+score: 0.26
 title: Depok
 type: location
 ---

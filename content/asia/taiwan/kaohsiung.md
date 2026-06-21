@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and
 latitude: 22.620335
 loc_type: city
 longitude: 120.312038
-score: 0.59
+score: 0.5
 title: Kaohsiung
 type: location
 ---

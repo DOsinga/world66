@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Longyearbyen_Nybyen.jpg
 latitude: 78.201014
 loc_type: city
 longitude: 15.588229
-score: 0.43
+score: 0.35
 title: Nybyen
 type: location
 ---

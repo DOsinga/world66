@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beautiful_Mussoorie.jpg
 latitude: 30.4569
 loc_type: city
 longitude: 78.0783
-score: 0.58
+score: 0.48
 title: Mussoorie
 type: location
 ---

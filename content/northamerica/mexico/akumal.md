@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akumal_Half-moon_Bay-27527
 latitude: 20.398797
 loc_type: city
 longitude: -87.31734
-score: 0.59
+score: 0.53
 title: Akumal
 type: location
 ---

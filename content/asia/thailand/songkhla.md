@@ -6,7 +6,7 @@ done:
   location_enrich: '2026-06-01'
 latitude: 7.1979
 longitude: 100.5962
-score: 0.5
+score: 0.45
 title: Songkhla
 type: location
 loc_type: city

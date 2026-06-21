@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sloten,_stadszicht2_vanaf_
 latitude: 52.8944
 loc_type: city
 longitude: 5.6453
-score: 0.43
+score: 0.39
 title: Sloten
 type: location
 ---

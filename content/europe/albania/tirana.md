@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skanderbeg_square_tirana_2
 latitude: 41.328148
 loc_type: city
 longitude: 19.818444
-score: 0.55
+score: 0.46
 title: Tirana
 type: location
 ---

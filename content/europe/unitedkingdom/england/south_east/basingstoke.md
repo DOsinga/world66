@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Church,_Bas
 latitude: 51.262826
 loc_type: city
 longitude: -1.086198
-score: 0.29
+score: 0.25
 title: Basingstoke
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 51.685783
 loc_type: city
 longitude: -0.033
-score: 0.3
+score: 0.24
 title: Waltham Cross
 type: location
 ---

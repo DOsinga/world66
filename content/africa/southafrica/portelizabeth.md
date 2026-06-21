@@ -5,7 +5,7 @@ done:
 latitude: -33.96186
 loc_type: city
 longitude: 25.618673
-score: 0.47
+score: 0.39
 title: Port Elizabeth
 type: location
 image: portelizabeth.jpg

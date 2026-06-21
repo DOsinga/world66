@@ -5,7 +5,7 @@ done:
 latitude: 61.466146
 loc_type: city
 longitude: 23.646265
-score: 0.33
+score: 0.28
 title: Pirkkala
 type: location
 ---

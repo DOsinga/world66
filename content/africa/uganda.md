@@ -16,7 +16,7 @@ quick_facts:
   Source of the Nile: Jinja
 title: Uganda
 type: location
-score: 0.38
+score: 0.66
 loc_type: country
 ---
 

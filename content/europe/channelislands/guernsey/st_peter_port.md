@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alb%C3%A8rt_%C3%89glyise_S
 latitude: 49.457841
 loc_type: city
 longitude: -2.534967
-score: 0.6
+score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Saint_Peter_Port
 - https://en.wikipedia.org/wiki/Castle_Cornet

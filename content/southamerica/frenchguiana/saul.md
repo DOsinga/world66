@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:French_Guiana_Sa%C3%BCl_ce
 latitude: 3.62256
 loc_type: city
 longitude: -53.210934
-score: 0.42
+score: 0.32
 title: Saul
 type: location
 ---

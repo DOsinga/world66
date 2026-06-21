@@ -5,7 +5,7 @@ done:
 latitude: 18.0833
 loc_type: city
 longitude: -88.55
-score: 0.42
+score: 0.34
 title: Orange Walk Town
 type: location
 ---

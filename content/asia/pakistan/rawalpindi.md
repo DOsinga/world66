@@ -5,7 +5,7 @@ done:
 latitude: 33.591545
 loc_type: city
 longitude: 73.053721
-score: 0.31
+score: 0.25
 title: Rawalpindi
 type: location
 ---

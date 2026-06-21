@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/94636189@N00/3565756415
 latitude: 7.5563
 loc_type: city
 longitude: 99.6114
-score: 0.56
+score: 0.47
 title: Trang
 type: location
 ---

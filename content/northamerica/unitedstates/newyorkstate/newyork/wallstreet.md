@@ -1,14 +1,15 @@
 ---
 address: Wall Street, Lower Manhattan
-latitude: 40.707493
-longitude: -74.011276
-snippet: "Canyon-like street home to the Stock Exchange and the Charging Bull"
+latitude: 40.706771
+longitude: -74.010122
+score: 7.4
+snippet: Canyon-like street home to the Stock Exchange and the Charging Bull
 tags:
 - things_to_do
 - monument
+- financial_district
 title: Wall Street
 type: poi
-score: 7.4
 ---
 
 The short, canyon-like street that lends its name to American capitalism runs just a few blocks between Broadway and the East River. The New York Stock Exchange building at No. 11 is an imposing Beaux-Arts structure, though the trading floor is no longer open to visitors. Nearby, the Charging Bull sculpture draws crowds year-round — and the Fearless Girl statue, placed to face it down, has become equally iconic.

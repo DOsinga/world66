@@ -5,7 +5,7 @@ done:
 latitude: -3.150739
 loc_type: city
 longitude: 39.675072
-score: 0.51
+score: 0.44
 title: Kilifi
 type: location
 ---

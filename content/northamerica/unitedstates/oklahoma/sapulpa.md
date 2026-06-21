@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CreekCountyCourthouseOK.JP
 latitude: 36.000504
 loc_type: city
 longitude: -96.104961
-score: 0.3
+score: 0.24
 title: Sapulpa
 type: location
 ---

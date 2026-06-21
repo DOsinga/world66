@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mez%C5%91k%C3%B6vesd,_r%C3
 latitude: 47.809753
 loc_type: city
 longitude: 20.566089
-score: 0.45
+score: 0.36
 title: Mezőkövesd
 type: location
 ---

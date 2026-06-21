@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_(Schirmeck).jpg
 latitude: 48.47873
 loc_type: city
 longitude: 7.218181
-score: 0.44
+score: 0.36
 title: Schirmeck
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tarascon_-_Le_Cast%C3%A9ll
 latitude: 42.845802
 loc_type: city
 longitude: 1.606759
-score: 0.56
+score: 0.45
 title: Tarascon-sur-Ariège
 type: location
 ---

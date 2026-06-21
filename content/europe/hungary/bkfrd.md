@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 latitude: 47.381162
 loc_type: city
 longitude: 16.787056
-score: 0.42
+score: 0.38
 title: Bükfürdő
 type: location
 ---

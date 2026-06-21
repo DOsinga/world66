@@ -1,199 +1,199 @@
 {
   "round": 1429,
-  "timestamp": "2026-04-12T22:27:13",
+  "timestamp": "2026-06-13T20:30:05",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Jerusalem",
-      "path": "asia/palestinianauthority/jerusalem",
-      "prior_rank": 330,
-      "prior_wins": 99,
-      "prior_n": 5
-    },
-    {
-      "rank": 2,
-      "title": "Cyprus",
-      "path": "asia/cyprus",
-      "prior_rank": 2209,
-      "prior_wins": 45,
-      "prior_n": 3
-    },
-    {
-      "rank": 3,
-      "title": "Gozo",
-      "path": "europe/malta/gozo",
-      "prior_rank": 2457,
-      "prior_wins": 39,
-      "prior_n": 3
-    },
-    {
-      "rank": 4,
-      "title": "Selcuk",
-      "path": "asia/turkey/selcuk",
-      "prior_rank": 859,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "San Pedro",
-      "path": "northamerica/belize/san_pedro",
-      "prior_rank": 1723,
-      "prior_wins": 41,
-      "prior_n": 3
-    },
-    {
-      "rank": 6,
-      "title": "Vail",
-      "path": "northamerica/unitedstates/colorado/vail",
-      "prior_rank": 858,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 7,
-      "title": "B\u00fazios",
-      "path": "southamerica/brazil/buzios",
-      "prior_rank": 1333,
-      "prior_wins": 67,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 6.4496,
+      "prior_variance": 0.339693,
       "prior_n": 4
     },
     {
+      "rank": 2,
+      "title": "Volcanoes National Park",
+      "path": "africa/rwanda/volcanoesnationalpark",
+      "prior_score": 7.6186,
+      "prior_variance": 0.515235,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 10.3867,
+      "prior_variance": 0.866283,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.6974,
+      "prior_variance": 0.3256,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 4.517,
+      "prior_variance": 0.344988,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.4581,
+      "prior_variance": 0.339338,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 3.6507,
+      "prior_variance": 0.310772,
+      "prior_n": 5
+    },
+    {
       "rank": 8,
-      "title": "Kota Kinabalu",
-      "path": "asia/malaysia/kotakinabalu",
-      "prior_rank": 465,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 0.485,
+      "prior_variance": 0.351017,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Tioman Island",
-      "path": "asia/malaysia/tiomanisland",
-      "prior_rank": 1202,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.0481,
+      "prior_variance": 0.308177,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Wakatobi",
-      "path": "asia/indonesia/wakatobi",
-      "prior_rank": 539,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.9469,
+      "prior_variance": 0.378317,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Stavanger",
-      "path": "europe/norway/stavanger",
-      "prior_rank": 762,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.1828,
+      "prior_variance": 0.333353,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Galicia",
-      "path": "europe/spain/galicia",
-      "prior_rank": 1339,
-      "prior_wins": 67,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/thecaribbean/cuba/holguin",
+      "prior_score": 0.1448,
+      "prior_variance": 0.335787,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "C\u00edes Islands",
-      "path": "europe/spain/galicia/cies_islands",
-      "prior_rank": 391,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2322,
+      "prior_variance": 0.264688,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Mazatlan",
-      "path": "northamerica/mexico/mazatlan",
-      "prior_rank": 1513,
-      "prior_wins": 49,
-      "prior_n": 3
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -2.2979,
+      "prior_variance": 0.292521,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Ioannina",
-      "path": "europe/greece/ioannina",
-      "prior_rank": 3391,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": 0.0386,
+      "prior_variance": 0.347475,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Argostoli",
-      "path": "europe/greece/cephalonia/argostoli",
-      "prior_rank": 1323,
-      "prior_wins": 67,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -3.2237,
+      "prior_variance": 0.301798,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Mijas",
-      "path": "europe/spain/andalucia/mijas",
-      "prior_rank": 1288,
-      "prior_wins": 66,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -3.1677,
+      "prior_variance": 0.319822,
       "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Dades Valley",
-      "path": "africa/morocco/dadesvalley",
-      "prior_rank": 662,
-      "prior_wins": 56,
-      "prior_n": 3
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -3.6195,
+      "prior_variance": 0.294888,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Hell's Gate N.P.",
-      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
-      "prior_rank": 1086,
-      "prior_wins": 52,
-      "prior_n": 3
-    },
-    {
-      "rank": 20,
-      "title": "St Ives",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
-      "prior_rank": 1092,
-      "prior_wins": 52,
-      "prior_n": 3
-    },
-    {
-      "rank": 21,
-      "title": "Brooklyn",
-      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
-      "prior_rank": 477,
-      "prior_wins": 58,
-      "prior_n": 3
-    },
-    {
-      "rank": 22,
-      "title": "Sark",
-      "path": "europe/channelislands/sark",
-      "prior_rank": 749,
-      "prior_wins": 91,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -4.3675,
+      "prior_variance": 0.238163,
       "prior_n": 5
     },
     {
+      "rank": 20,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -3.289,
+      "prior_variance": 0.299646,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -7.3328,
+      "prior_variance": 0.640268,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -2.7513,
+      "prior_variance": 0.529556,
+      "prior_n": 4
+    },
+    {
       "rank": 23,
-      "title": "Lassithi plateau",
-      "path": "europe/greece/crete/lassithi_plateau",
-      "prior_rank": 1393,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.6154,
+      "prior_variance": 0.363846,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Tartu",
-      "path": "europe/estonia/tartu",
-      "prior_rank": 364,
-      "prior_wins": 79,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -8.4735,
+      "prior_variance": 0.400324,
       "prior_n": 4
     }
   ]

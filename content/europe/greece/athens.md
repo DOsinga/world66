@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_Vie
 latitude: 37.975565
 loc_type: city
 longitude: 23.734832
-score: 0.91
+score: 0.74
 tags:
 - history
 - culture

@@ -5,7 +5,7 @@ done:
 latitude: -30.514488
 loc_type: city
 longitude: 151.665656
-score: 0.44
+score: 0.36
 title: Armidale
 type: location
 ---

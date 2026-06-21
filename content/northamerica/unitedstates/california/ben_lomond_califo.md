@@ -5,7 +5,7 @@ done:
 latitude: 37.089114
 loc_type: city
 longitude: -122.086352
-score: 0.42
+score: 0.4
 title: Ben Lomond
 type: location
 image: ben_lomond_califo.jpg

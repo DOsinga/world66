@@ -1,200 +1,200 @@
 {
   "round": 636,
-  "timestamp": "2026-04-12T10:40:48",
+  "timestamp": "2026-06-13T19:46:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Jackson Hole",
-      "path": "northamerica/unitedstates/wyoming/jacksonhole",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 2,
-      "title": "Martha's Vineyard",
-      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 3,
-      "title": "Winter Park",
-      "path": "northamerica/unitedstates/colorado/winter_park",
-      "prior_mu": 23.331,
-      "prior_sigma": 5.7865,
-      "prior_n": 1
-    },
-    {
-      "rank": 4,
-      "title": "Folly Beach",
-      "path": "northamerica/unitedstates/southcarolina/folly_beach",
-      "prior_mu": 22.4838,
-      "prior_sigma": 5.7535,
-      "prior_n": 1
-    },
-    {
-      "rank": 5,
-      "title": "Santa Ynez",
-      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
-      "prior_mu": 22.7374,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
-    },
-    {
-      "rank": 6,
-      "title": "Seaside",
-      "path": "northamerica/unitedstates/oregon/seaside",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 7,
-      "title": "Solana Beach",
-      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 8,
-      "title": "Woods Hole",
-      "path": "northamerica/unitedstates/massachusetts/woods_hole",
-      "prior_mu": 21.2791,
-      "prior_sigma": 4.024,
-      "prior_n": 3
-    },
-    {
-      "rank": 9,
-      "title": "Jackson",
-      "path": "northamerica/unitedstates/california/goldcountry/jackson",
-      "prior_mu": 22.627,
-      "prior_sigma": 5.4099,
-      "prior_n": 1
-    },
-    {
-      "rank": 10,
-      "title": "Trinity",
-      "path": "northamerica/unitedstates/california/shastacascade/trinity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 11,
-      "title": "Appleton",
-      "path": "northamerica/unitedstates/wisconsin/appleton",
-      "prior_mu": 22.7871,
-      "prior_sigma": 5.6917,
-      "prior_n": 1
-    },
-    {
-      "rank": 12,
-      "title": "Murfreesboro",
-      "path": "northamerica/unitedstates/tennessee/murfreesboro",
-      "prior_mu": 22.5071,
-      "prior_sigma": 5.7242,
-      "prior_n": 1
-    },
-    {
-      "rank": 13,
-      "title": "Jacksonville",
-      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 14,
-      "title": "Cape Girardeau",
-      "path": "northamerica/unitedstates/missouri/cape_girardeau",
-      "prior_mu": 21.7079,
-      "prior_sigma": 4.4735,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 11.8942,
+      "prior_variance": 1.140688,
       "prior_n": 2
     },
     {
+      "rank": 2,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 7.8172,
+      "prior_variance": 0.974321,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 12.2127,
+      "prior_variance": 0.863099,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_score": 9.3053,
+      "prior_variance": 0.718869,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 9.3096,
+      "prior_variance": 1.331147,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 9.3321,
+      "prior_variance": 0.904176,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 9.2476,
+      "prior_variance": 0.782735,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 8.8277,
+      "prior_variance": 1.016434,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 10.6836,
+      "prior_variance": 1.107353,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 6.9765,
+      "prior_variance": 0.946169,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 8.8071,
+      "prior_variance": 0.905993,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 8.1348,
+      "prior_variance": 1.548365,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 6.4823,
+      "prior_variance": 1.389313,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 6.1854,
+      "prior_variance": 0.693923,
+      "prior_n": 3
+    },
+    {
       "rank": 15,
-      "title": "New Iberia",
-      "path": "northamerica/unitedstates/louisiana/newiberia",
-      "prior_mu": 21.4906,
-      "prior_sigma": 4.673,
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 7.515,
+      "prior_variance": 1.089491,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Andersonville",
-      "path": "northamerica/unitedstates/georgia/andersonville",
-      "prior_mu": 18.4373,
-      "prior_sigma": 5.014,
-      "prior_n": 2
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 5.9381,
+      "prior_variance": 1.923976,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Mooresville",
-      "path": "northamerica/unitedstates/northcarolina/mooresville",
-      "prior_mu": 21.9617,
-      "prior_sigma": 4.5751,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 6.8205,
+      "prior_variance": 1.330013,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Albert Lea",
-      "path": "northamerica/unitedstates/minnesota/albertlea",
-      "prior_mu": 21.4733,
-      "prior_sigma": 5.6665,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "Pasco County",
-      "path": "northamerica/unitedstates/florida/pasco_county",
-      "prior_mu": 22.1387,
-      "prior_sigma": 5.3335,
-      "prior_n": 1
-    },
-    {
-      "rank": 20,
-      "title": "Warren",
-      "path": "northamerica/unitedstates/newhampshire/warren",
-      "prior_mu": 21.9048,
-      "prior_sigma": 5.6342,
-      "prior_n": 1
-    },
-    {
-      "rank": 21,
-      "title": "Urbana",
-      "path": "northamerica/unitedstates/ohio/urbana",
-      "prior_mu": 19.0561,
-      "prior_sigma": 4.2472,
-      "prior_n": 3
-    },
-    {
-      "rank": 22,
-      "title": "Madisonville",
-      "path": "northamerica/unitedstates/kentucky/madisonville",
-      "prior_mu": 19.2478,
-      "prior_sigma": 4.7858,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 5.831,
+      "prior_variance": 1.270799,
       "prior_n": 2
     },
     {
+      "rank": 19,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 7.8228,
+      "prior_variance": 0.902645,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 5.8643,
+      "prior_variance": 0.698715,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 6.1417,
+      "prior_variance": 0.928756,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 4.4187,
+      "prior_variance": 1.763441,
+      "prior_n": 1
+    },
+    {
       "rank": 23,
-      "title": "Hopkins",
-      "path": "northamerica/unitedstates/southcarolina/hopkins",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 7.4709,
+      "prior_variance": 0.831202,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Bethel",
-      "path": "northamerica/unitedstates/alaska/bethel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 5.4046,
+      "prior_variance": 1.449636,
+      "prior_n": 2
     }
   ]
 }

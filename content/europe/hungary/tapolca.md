@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Cave,Tapolca_1.jpg
 latitude: 46.882097
 loc_type: city
 longitude: 17.438962
-score: 0.49
+score: 0.42
 title: Tapolca
 type: location
 ---

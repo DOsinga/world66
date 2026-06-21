@@ -1,0 +1,200 @@
+{
+  "round": 4777,
+  "timestamp": "2026-06-14T00:40:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 9.4077,
+      "prior_variance": 0.210828,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.0984,
+      "prior_variance": 0.237686,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_score": 7.2726,
+      "prior_variance": 0.115269,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 3.9696,
+      "prior_variance": 0.10613,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 6.7021,
+      "prior_variance": 0.127246,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 7.1633,
+      "prior_variance": 0.118398,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 3.8764,
+      "prior_variance": 0.134019,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 5.3887,
+      "prior_variance": 0.102219,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.7953,
+      "prior_variance": 0.100462,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Huacachina",
+      "path": "southamerica/peru/huacachina",
+      "prior_score": 5.7053,
+      "prior_variance": 0.109366,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.4761,
+      "prior_variance": 0.084071,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.2158,
+      "prior_variance": 0.082215,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.2765,
+      "prior_variance": 0.098004,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.6746,
+      "prior_variance": 0.076102,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": -0.2804,
+      "prior_variance": 0.086788,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.4878,
+      "prior_variance": 0.083474,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -0.7175,
+      "prior_variance": 0.091156,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.8251,
+      "prior_variance": 0.098944,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.2662,
+      "prior_variance": 0.097381,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -5.2116,
+      "prior_variance": 0.109845,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_score": -7.2267,
+      "prior_variance": 0.159248,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -4.5303,
+      "prior_variance": 0.099029,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -7.0614,
+      "prior_variance": 0.153905,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.0994,
+      "prior_variance": 0.196153,
+      "prior_n": 15
+    }
+  ]
+}

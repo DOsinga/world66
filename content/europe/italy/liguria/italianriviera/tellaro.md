@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/96595989@N04/29592676472
 latitude: 44.058022
 loc_type: city
 longitude: 9.93037
-score: 0.63
+score: 0.55
 title: Tellaro
 type: location
 ---

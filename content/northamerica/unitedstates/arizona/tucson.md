@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sabino_Canyon,_Tucson,_Ari
 latitude: 32.222876
 loc_type: city
 longitude: -110.974847
-score: 0.53
+score: 0.48
 title: Tucson
 type: location
 ---

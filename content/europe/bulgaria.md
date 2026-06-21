@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€, adopted Jan 2026)
   Rose Oil: "Produces 85% of the world's supply"
   Yoghurt: "Contains a unique bacteria named after the country"
-score: 0.53
+score: 0.69
 title: Bulgaria
 type: location
 loc_type: country

@@ -5,7 +5,7 @@ done:
 latitude: 7.2526
 loc_type: city
 longitude: 5.1933
-score: 0.28
+score: 0.26
 title: Akure
 type: location
 ---

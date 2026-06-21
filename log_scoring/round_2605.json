@@ -1,0 +1,200 @@
+{
+  "round": 2605,
+  "timestamp": "2026-06-13T21:54:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 2.8456,
+      "prior_variance": 0.19297,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 4.0129,
+      "prior_variance": 0.198279,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": 0.3526,
+      "prior_variance": 0.175325,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.3737,
+      "prior_variance": 0.139855,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.678,
+      "prior_variance": 0.159639,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 1.4515,
+      "prior_variance": 0.152834,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3049,
+      "prior_variance": 0.159211,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -3.185,
+      "prior_variance": 0.195718,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.2157,
+      "prior_variance": 0.148492,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": -0.7276,
+      "prior_variance": 0.220351,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -3.6181,
+      "prior_variance": 0.201667,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -4.4089,
+      "prior_variance": 0.203633,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -4.1925,
+      "prior_variance": 0.185967,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.6344,
+      "prior_variance": 0.158179,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Lanzhou",
+      "path": "asia/china/gansu/lanzhou",
+      "prior_score": -2.8462,
+      "prior_variance": 0.165271,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -2.8472,
+      "prior_variance": 0.157284,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield",
+      "prior_score": -2.0172,
+      "prior_variance": 0.155579,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -4.241,
+      "prior_variance": 0.195335,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -4.4222,
+      "prior_variance": 0.202501,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Gurabo",
+      "path": "northamerica/thecaribbean/puertorico/gurabo",
+      "prior_score": -3.6273,
+      "prior_variance": 0.177566,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -4.7838,
+      "prior_variance": 0.156293,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -5.2382,
+      "prior_variance": 0.226851,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -5.2403,
+      "prior_variance": 0.205537,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -4.5933,
+      "prior_variance": 0.164408,
+      "prior_n": 8
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2508,
+  "timestamp": "2026-06-13T21:47:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfrancisco",
+      "prior_score": 13.0169,
+      "prior_variance": 0.648211,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 12.958,
+      "prior_variance": 0.690027,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 11.9305,
+      "prior_variance": 0.646287,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 8.5418,
+      "prior_variance": 0.295234,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 7.344,
+      "prior_variance": 0.257251,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.1999,
+      "prior_variance": 0.18406,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.5556,
+      "prior_variance": 0.162215,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -0.4799,
+      "prior_variance": 0.185131,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 0.6976,
+      "prior_variance": 0.167239,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": 0.5032,
+      "prior_variance": 0.164833,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.0392,
+      "prior_variance": 0.195513,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.2063,
+      "prior_variance": 0.163591,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.2761,
+      "prior_variance": 0.147826,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -0.8123,
+      "prior_variance": 0.273523,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -1.0018,
+      "prior_variance": 0.15656,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -1.1827,
+      "prior_variance": 0.175017,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.4875,
+      "prior_variance": 0.162546,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.0697,
+      "prior_variance": 0.164117,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -1.767,
+      "prior_variance": 0.161891,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -2.5062,
+      "prior_variance": 0.193772,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.6817,
+      "prior_variance": 0.183091,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -3.9401,
+      "prior_variance": 0.164761,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.4037,
+      "prior_variance": 0.212445,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.5951,
+      "prior_variance": 0.165085,
+      "prior_n": 8
+    }
+  ]
+}

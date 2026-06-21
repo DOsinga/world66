@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Soline.JPG
 latitude: 42.744
 loc_type: city
 longitude: 17.555
-score: 0.59
+score: 0.48
 title: Soline
 type: location
 ---

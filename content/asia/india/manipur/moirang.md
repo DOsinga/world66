@@ -5,7 +5,7 @@ done:
 latitude: 24.500551
 loc_type: city
 longitude: 93.776748
-score: 0.34
+score: 0.29
 title: Moirang
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 42.811723
 longitude: 1.993453
 title: Pic du Midi
 type: location
-score: 0.62
+score: 0.55
 loc_type: feature
 ---
 

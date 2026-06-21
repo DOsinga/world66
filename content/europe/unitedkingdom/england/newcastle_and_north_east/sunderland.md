@@ -5,7 +5,7 @@ done:
 latitude: 54.905851
 loc_type: city
 longitude: -1.382873
-score: 0.36
+score: 0.31
 title: Sunderland
 type: location
 ---

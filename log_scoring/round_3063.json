@@ -1,0 +1,200 @@
+{
+  "round": 3063,
+  "timestamp": "2026-06-13T22:26:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 7.1836,
+      "prior_variance": 0.18988,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.9894,
+      "prior_variance": 0.181652,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 3.8115,
+      "prior_variance": 0.146504,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.3659,
+      "prior_variance": 0.154766,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.3872,
+      "prior_variance": 0.121162,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 2.6971,
+      "prior_variance": 0.131141,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -0.7243,
+      "prior_variance": 0.149641,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 1.8549,
+      "prior_variance": 0.133424,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.754,
+      "prior_variance": 0.133083,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 0.8088,
+      "prior_variance": 0.14041,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.1513,
+      "prior_variance": 0.178552,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 3.8994,
+      "prior_variance": 0.140185,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 2.0527,
+      "prior_variance": 0.142178,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": -0.3257,
+      "prior_variance": 0.138649,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -1.5462,
+      "prior_variance": 0.143496,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -3.5502,
+      "prior_variance": 0.146471,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.8147,
+      "prior_variance": 0.124101,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -2.9874,
+      "prior_variance": 0.194299,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -1.7122,
+      "prior_variance": 0.147251,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.0279,
+      "prior_variance": 0.141396,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_score": -2.1424,
+      "prior_variance": 0.132371,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.4628,
+      "prior_variance": 0.12822,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountains/vorokhta",
+      "prior_score": -1.2837,
+      "prior_variance": 0.14954,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -2.4401,
+      "prior_variance": 0.137351,
+      "prior_n": 10
+    }
+  ]
+}

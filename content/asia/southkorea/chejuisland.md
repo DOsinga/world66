@@ -6,7 +6,7 @@ done:
 latitude: 33.489
 loc_type: city
 longitude: 126.4983
-score: 0.71
+score: 0.66
 title: Jeju Island
 type: location
 ---

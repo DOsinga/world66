@@ -9,7 +9,7 @@ latitude: 35.2497
 longitude: -112.1909
 title: Williams
 type: location
-score: 0.41
+score: 0.38
 loc_type: city
 ---
 

@@ -6,7 +6,7 @@ done:
 latitude: 42.9317
 loc_type: city
 longitude: -76.5661
-score: 0.36
+score: 0.29
 title: Auburn
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Civic_Theatre_in_Invercarg
 latitude: -46.4132
 loc_type: city
 longitude: 168.3538
-score: 0.45
+score: 0.39
 title: Invercargill
 type: location
 ---

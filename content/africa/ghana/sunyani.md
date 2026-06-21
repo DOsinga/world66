@@ -5,7 +5,7 @@ done:
 latitude: 7.3384
 loc_type: city
 longitude: -2.3309
-score: 0.33
+score: 0.26
 title: Sunyani
 type: location
 image: sunyani.jpg

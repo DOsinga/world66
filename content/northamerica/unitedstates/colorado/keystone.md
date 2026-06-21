@@ -6,7 +6,7 @@ latitude: 39.6069
 longitude: -105.9497
 title: Keystone
 type: location
-score: 0.53
+score: 0.46
 loc_type: city
 ---
 

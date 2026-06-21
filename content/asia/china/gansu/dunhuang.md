@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunhuang_Mingsha-shan_1995
 latitude: 40.1411
 loc_type: city
 longitude: 94.660759
-score: 0.65
+score: 0.58
 title: Dunhuang
 type: location
 ---

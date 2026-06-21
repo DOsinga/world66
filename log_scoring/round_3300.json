@@ -1,0 +1,200 @@
+{
+  "round": 3300,
+  "timestamp": "2026-06-13T22:43:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.1299,
+      "prior_variance": 0.132509,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 3.8966,
+      "prior_variance": 0.140796,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 3.6812,
+      "prior_variance": 0.119549,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.0,
+      "prior_variance": 0.132182,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 3.1813,
+      "prior_variance": 0.13857,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 2.5281,
+      "prior_variance": 0.121509,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.6709,
+      "prior_variance": 0.123466,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.184,
+      "prior_variance": 0.163587,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": -0.2538,
+      "prior_variance": 0.134156,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.4636,
+      "prior_variance": 0.133151,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -1.9336,
+      "prior_variance": 0.169272,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -2.2892,
+      "prior_variance": 0.119794,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.4248,
+      "prior_variance": 0.156531,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -0.8918,
+      "prior_variance": 0.1302,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -3.6817,
+      "prior_variance": 0.150118,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.1753,
+      "prior_variance": 0.130967,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -8.1745,
+      "prior_variance": 0.194527,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -3.8997,
+      "prior_variance": 0.152179,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Bayam\u00f3n",
+      "path": "northamerica/thecaribbean/puertorico/bayamon",
+      "prior_score": -2.9144,
+      "prior_variance": 0.124692,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.8675,
+      "prior_variance": 0.141891,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Gulbarga",
+      "path": "asia/india/karnataka/gulbarga",
+      "prior_score": -5.2837,
+      "prior_variance": 0.129401,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -5.0028,
+      "prior_variance": 0.144969,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -5.5739,
+      "prior_variance": 0.184327,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.2787,
+      "prior_variance": 0.141692,
+      "prior_n": 10
+    }
+  ]
+}

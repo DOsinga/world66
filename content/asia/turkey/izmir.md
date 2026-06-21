@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_panoramic_view_of_the_Al
 latitude: 38.419254
 loc_type: city
 longitude: 27.128469
-score: 0.64
+score: 0.5
 title: Izmir
 type: location
 ---

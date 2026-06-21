@@ -6,7 +6,7 @@ done:
 latitude: 57.5375
 loc_type: city
 longitude: -2.4641
-score: 0.37
+score: 0.31
 title: Turriff
 type: location
 ---

@@ -1,7 +1,7 @@
 ---
 latitude: 25.0563
 longitude: 121.5152
-snippet: The most local-feeling of Taipei's central night markets
+snippet: Most local-feeling of Taipei's central night markets
 tags:
 - things_to_do
 - shopping

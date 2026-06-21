@@ -5,7 +5,7 @@ done:
 latitude: -33.3441
 loc_type: city
 longitude: 151.496
-score: 0.47
+score: 0.4
 title: The Entrance
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_metropolitana_de_
 latitude: -23.311288
 loc_type: city
 longitude: -51.159502
-score: 0.41
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Londrina
 - https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_Cathedral,_Londrina

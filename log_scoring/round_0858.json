@@ -1,200 +1,200 @@
 {
   "round": 858,
-  "timestamp": "2026-04-12T14:45:25",
+  "timestamp": "2026-06-13T19:57:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Porto",
-      "path": "europe/portugal/porto",
-      "prior_score": 7.3729,
-      "prior_variance": 12.757783,
-      "prior_n": 1
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 7.2255,
+      "prior_variance": 0.669042,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Grand Cayman",
-      "path": "northamerica/caymanislands/grandcayman",
-      "prior_score": 11.6542,
-      "prior_variance": 8.845247,
-      "prior_n": 1
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 5.1538,
+      "prior_variance": 0.773308,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Kobe",
-      "path": "asia/japan/honshu/kobe",
-      "prior_score": 7.7137,
-      "prior_variance": 1.426641,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 5.639,
+      "prior_variance": 0.712952,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Matsuyama",
-      "path": "asia/japan/shikoku/matsuyama",
-      "prior_score": 7.4236,
-      "prior_variance": 1.47082,
-      "prior_n": 1
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_score": 5.1372,
+      "prior_variance": 0.622565,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Les Saintes",
-      "path": "northamerica/guadeloupe/lessaintes",
-      "prior_score": 7.0881,
-      "prior_variance": 2.447581,
-      "prior_n": 1
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 7.2826,
+      "prior_variance": 0.533966,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Lassithi plateau",
-      "path": "europe/greece/crete/lassithi_plateau",
-      "prior_score": 4.4919,
-      "prior_variance": 1.380952,
-      "prior_n": 1
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 6.7187,
+      "prior_variance": 1.137022,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Santo Ant\u00e3o",
-      "path": "africa/capeverde/santo_antao",
-      "prior_score": 1.4739,
-      "prior_variance": 1.547757,
-      "prior_n": 1
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_score": 7.2591,
+      "prior_variance": 0.582974,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Isle Royale",
-      "path": "northamerica/unitedstates/michigan/isle_royale",
-      "prior_score": 4.7446,
-      "prior_variance": 1.952843,
-      "prior_n": 1
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 7.3706,
+      "prior_variance": 0.70378,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Falkland Islands",
-      "path": "southamerica/falklandislands",
-      "prior_score": 4.8838,
-      "prior_variance": 3.078845,
-      "prior_n": 1
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 7.5834,
+      "prior_variance": 0.576474,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Norrk\u00f6ping",
-      "path": "europe/sweden/norrkping",
-      "prior_score": 0.9655,
-      "prior_variance": 1.368433,
-      "prior_n": 1
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 6.9657,
+      "prior_variance": 0.65046,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Miches",
-      "path": "northamerica/dominicanrepublic/miches",
-      "prior_score": 3.7255,
-      "prior_variance": 1.328668,
-      "prior_n": 1
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 5.1416,
+      "prior_variance": 1.065202,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "La Rioja",
-      "path": "southamerica/argentina/larioja",
-      "prior_score": -0.7977,
-      "prior_variance": 1.346307,
-      "prior_n": 1
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 4.7736,
+      "prior_variance": 0.564184,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Paderborn",
-      "path": "europe/germany/paderborn",
-      "prior_score": -2.038,
-      "prior_variance": 1.264332,
-      "prior_n": 1
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 5.4767,
+      "prior_variance": 0.801248,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Borit Lake",
-      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
-      "prior_score": 4.5016,
-      "prior_variance": 1.61,
-      "prior_n": 1
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 6.4628,
+      "prior_variance": 0.767529,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Osh",
-      "path": "asia/kyrgyzstan/osh",
-      "prior_score": 0.5867,
-      "prior_variance": 1.550848,
-      "prior_n": 1
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 4.8259,
+      "prior_variance": 0.660821,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Dushanbe",
-      "path": "asia/tajikistan/dushanbe",
-      "prior_score": 0.4142,
-      "prior_variance": 1.622604,
-      "prior_n": 1
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 5.0235,
+      "prior_variance": 1.016466,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Pietra Ligure",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
-      "prior_score": 3.7726,
-      "prior_variance": 1.560092,
-      "prior_n": 1
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 5.4638,
+      "prior_variance": 1.140112,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Murialdo",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
-      "prior_score": -3.0491,
-      "prior_variance": 1.616268,
-      "prior_n": 1
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 11.72,
+      "prior_variance": 0.937959,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Burnaby",
-      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
-      "prior_score": -0.4126,
-      "prior_variance": 1.333654,
-      "prior_n": 1
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 5.7425,
+      "prior_variance": 1.060686,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Karanjia & Similipal",
-      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
-      "prior_score": -2.2429,
-      "prior_variance": 1.621872,
-      "prior_n": 1
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 6.238,
+      "prior_variance": 0.521548,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Kalaw",
-      "path": "asia/myanmar/kalaw",
-      "prior_score": 1.4109,
-      "prior_variance": 1.329965,
-      "prior_n": 1
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 6.6911,
+      "prior_variance": 0.648535,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Deer Lodge",
-      "path": "northamerica/unitedstates/montana/deer_lodge_1",
-      "prior_score": -4.8636,
-      "prior_variance": 1.582272,
-      "prior_n": 1
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 5.3026,
+      "prior_variance": 0.631747,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Wawa",
-      "path": "northamerica/canada/ontario/wawa",
-      "prior_score": -1.227,
-      "prior_variance": 1.265322,
-      "prior_n": 1
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 5.4244,
+      "prior_variance": 0.683163,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Nuevo Laredo",
-      "path": "northamerica/mexico/nuevolaredo",
-      "prior_score": -6.3029,
-      "prior_variance": 1.400398,
-      "prior_n": 1
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 3.637,
+      "prior_variance": 0.659787,
+      "prior_n": 2
     }
   ]
 }

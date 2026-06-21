@@ -5,7 +5,7 @@ latitude: -12.243695
 longitude: -69.670344
 title: Tambopata
 type: location
-score: 0.62
+score: 0.59
 loc_type: feature
 ---
 

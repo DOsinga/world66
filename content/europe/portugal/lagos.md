@@ -1,9 +1,10 @@
 ---
-title: "Lagos"
+title: Lagos
 type: location
 loc_type: city
 latitude: 37.1022
 longitude: -8.6741
+score: 0.65
 ---
 
 Lagos is the main town on Portugal's Algarve coast — relaxed, genuinely pretty, and the best base for exploring the extraordinary sandstone cliffs and sea caves that make this stretch of coast one of the most photographed in Europe. The old town retains its character behind medieval walls, with a tangle of cobblestone streets, white-washed houses, and a central square busy with cafes. The beaches are within easy walking distance: Meia Praia to the east is a long flat arc of sand backed by dunes, while the more dramatic Praia Dona Ana and Ponta da Piedade to the south are carved into the golden-ochre cliffs, accessible by path or by boat from the marina.

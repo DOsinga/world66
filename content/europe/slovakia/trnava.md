@@ -5,7 +5,7 @@ done:
 latitude: 48.3768
 loc_type: city
 longitude: 17.5858
-score: 0.49
+score: 0.45
 title: Trnava
 type: location
 ---

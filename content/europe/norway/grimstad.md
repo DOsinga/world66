@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Darshanagrimstad.jpg
 latitude: 58.283997
 loc_type: city
 longitude: 8.712829
-score: 0.51
+score: 0.42
 title: Grimstad
 type: location
 ---

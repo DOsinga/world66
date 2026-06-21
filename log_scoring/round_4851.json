@@ -1,0 +1,200 @@
+{
+  "round": 4851,
+  "timestamp": "2026-06-14T00:46:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 12.3354,
+      "prior_variance": 0.266275,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 10.3316,
+      "prior_variance": 0.225183,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 8.4883,
+      "prior_variance": 0.158359,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 7.933,
+      "prior_variance": 0.138064,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 4.9274,
+      "prior_variance": 0.101015,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 5.4938,
+      "prior_variance": 0.104496,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 5.9699,
+      "prior_variance": 0.113662,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Canggu",
+      "path": "asia/indonesia/bali/canggu",
+      "prior_score": 6.5778,
+      "prior_variance": 0.112608,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 4.8014,
+      "prior_variance": 0.097084,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.4212,
+      "prior_variance": 0.09279,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 1.9325,
+      "prior_variance": 0.128189,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.5931,
+      "prior_variance": 0.116076,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.1453,
+      "prior_variance": 0.096961,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -4.5034,
+      "prior_variance": 0.120225,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -4.0974,
+      "prior_variance": 0.092634,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.0382,
+      "prior_variance": 0.157061,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -5.778,
+      "prior_variance": 0.125657,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -5.5043,
+      "prior_variance": 0.104437,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.1946,
+      "prior_variance": 0.131218,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -5.1657,
+      "prior_variance": 0.100417,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -4.8329,
+      "prior_variance": 0.088259,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Fushun",
+      "path": "asia/china/liaoning/fushun",
+      "prior_score": -5.9447,
+      "prior_variance": 0.109746,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -6.6171,
+      "prior_variance": 0.102764,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -8.6173,
+      "prior_variance": 0.204156,
+      "prior_n": 15
+    }
+  ]
+}

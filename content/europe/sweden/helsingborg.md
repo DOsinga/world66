@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inre_hamnen_i_Helsingborg.
 latitude: 56.0442
 loc_type: city
 longitude: 12.7037
-score: 0.53
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/Helsingborg
 - https://en.wikipedia.org/wiki/K%C3%A4rnan

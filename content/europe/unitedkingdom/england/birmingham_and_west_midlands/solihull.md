@@ -4,7 +4,7 @@ done:
 latitude: 52.413
 loc_type: city
 longitude: -1.7769
-score: 0.36
+score: 0.27
 title: Solihull
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:18038_Sanremo_IM,_Italy_-_
 latitude: 43.8198
 loc_type: city
 longitude: 7.7749
-score: 0.65
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Sanremo
 - https://en.wikipedia.org/wiki/Sanremo_Music_Festival

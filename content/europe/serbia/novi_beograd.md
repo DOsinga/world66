@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gallery_Belgrade.jpg
 latitude: 44.8133
 loc_type: city
 longitude: 20.4183
-score: 0.32
+score: 0.31
 title: Novi Beograd
 type: location
 ---

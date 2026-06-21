@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:F%C3%BCssen_-.JPG
 latitude: 47.5676
 loc_type: city
 longitude: 10.6993
-score: 0.7
+score: 0.63
 title: Füssen
 type: location
 ---

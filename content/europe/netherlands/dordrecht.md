@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dordrecht_Stationsweg2_018
 latitude: 51.768955
 loc_type: city
 longitude: 4.686789
-score: 0.51
+score: 0.45
 title: Dordrecht
 type: location
 ---

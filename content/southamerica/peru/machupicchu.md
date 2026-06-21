@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2
 latitude: -13.164341
 loc_type: feature
 longitude: -72.545009
-score: 0.91
+score: 0.89
 title: Machu Picchu
 type: location
 ---

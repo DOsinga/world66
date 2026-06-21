@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Birgu-Vittoriosa_-_Malta.j
 latitude: 35.8881
 loc_type: city
 longitude: 14.5238
-score: 0.56
+score: 0.5
 title: Vittoriosa
 type: location
 ---

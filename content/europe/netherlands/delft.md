@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL
 latitude: 52.0116
 loc_type: city
 longitude: 4.3571
-score: 0.63
+score: 0.56
 title: Delft
 type: location
 ---

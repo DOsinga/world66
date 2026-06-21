@@ -5,7 +5,7 @@ done:
 latitude: 8.2
 loc_type: city
 longitude: -59.783
-score: 0.31
+score: 0.22
 title: Mabaruma
 type: location
 ---

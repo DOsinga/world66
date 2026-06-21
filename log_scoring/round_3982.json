@@ -1,0 +1,200 @@
+{
+  "round": 3982,
+  "timestamp": "2026-06-13T23:34:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 8.4986,
+      "prior_variance": 0.212523,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.4028,
+      "prior_variance": 0.172574,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.6846,
+      "prior_variance": 0.157596,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 6.0772,
+      "prior_variance": 0.135114,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 4.9233,
+      "prior_variance": 0.120595,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.2378,
+      "prior_variance": 0.110215,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.4422,
+      "prior_variance": 0.120245,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Nuwara Eliya",
+      "path": "asia/srilanka/nuwaraeliya",
+      "prior_score": 4.2547,
+      "prior_variance": 0.117063,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.3035,
+      "prior_variance": 0.116424,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 2.9522,
+      "prior_variance": 0.211573,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 4.2405,
+      "prior_variance": 0.124352,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.0746,
+      "prior_variance": 0.101592,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 3.1488,
+      "prior_variance": 0.103678,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.8193,
+      "prior_variance": 0.09651,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 0.5422,
+      "prior_variance": 0.089706,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.8742,
+      "prior_variance": 0.130318,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": -0.4865,
+      "prior_variance": 0.098754,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -1.959,
+      "prior_variance": 0.110787,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.1684,
+      "prior_variance": 0.095002,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.5907,
+      "prior_variance": 0.109218,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.7256,
+      "prior_variance": 0.147264,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -4.8687,
+      "prior_variance": 0.114118,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -4.0229,
+      "prior_variance": 0.111213,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -8.0828,
+      "prior_variance": 0.205431,
+      "prior_n": 12
+    }
+  ]
+}

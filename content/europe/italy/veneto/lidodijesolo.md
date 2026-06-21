@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lido_di_Je
 latitude: 45.5033
 loc_type: city
 longitude: 12.6324
-score: 0.54
+score: 0.45
 title: Lido di Jesolo
 type: location
 ---

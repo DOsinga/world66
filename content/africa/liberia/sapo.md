@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sapo_National_Park
 title: Sapo National Park
 type: location
+score: 0.31
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sapo National Park*

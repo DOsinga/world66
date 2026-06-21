@@ -1,0 +1,200 @@
+{
+  "round": 4008,
+  "timestamp": "2026-06-13T23:36:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 9.5267,
+      "prior_variance": 0.210081,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 4.4771,
+      "prior_variance": 0.141412,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.8301,
+      "prior_variance": 0.119431,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.1672,
+      "prior_variance": 0.159512,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.4982,
+      "prior_variance": 0.150055,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.6414,
+      "prior_variance": 0.136045,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.8454,
+      "prior_variance": 0.131111,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 4.4373,
+      "prior_variance": 0.115389,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 4.9349,
+      "prior_variance": 0.117067,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 1.8464,
+      "prior_variance": 0.101865,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 2.8649,
+      "prior_variance": 0.103815,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_score": 3.6434,
+      "prior_variance": 0.113022,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": -0.0898,
+      "prior_variance": 0.094722,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.373,
+      "prior_variance": 0.101447,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 2.0666,
+      "prior_variance": 0.103154,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -0.5581,
+      "prior_variance": 0.104566,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.5283,
+      "prior_variance": 0.09561,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -1.8864,
+      "prior_variance": 0.115042,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.3135,
+      "prior_variance": 0.121769,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -0.1429,
+      "prior_variance": 0.13398,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.6261,
+      "prior_variance": 0.108053,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -1.9804,
+      "prior_variance": 0.104655,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -1.0704,
+      "prior_variance": 0.086857,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": -0.002,
+      "prior_variance": 0.154009,
+      "prior_n": 13
+    }
+  ]
+}

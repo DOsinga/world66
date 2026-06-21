@@ -5,7 +5,7 @@ latitude: 43.503127
 longitude: 2.014004
 title: Le Sidobre
 type: location
-score: 0.55
+score: 0.44
 loc_type: feature
 ---
 

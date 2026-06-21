@@ -1,199 +1,199 @@
 {
   "round": 421,
-  "timestamp": "2026-04-12T09:30:09",
+  "timestamp": "2026-06-13T19:34:34",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ubud",
-      "path": "asia/indonesia/bali/ubud",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 0.3813,
+      "prior_variance": 2.021456,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Komodo Island",
-      "path": "asia/indonesia/komodo_island",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 0.4362,
+      "prior_variance": 1.808103,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Yogyakarta",
-      "path": "asia/indonesia/java/yogyakarta",
-      "prior_mu": 25.0864,
-      "prior_sigma": 6.0798,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 1.3456,
+      "prior_variance": 1.493106,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Lake Toba",
-      "path": "asia/indonesia/sumatra/laketoba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 1.3963,
+      "prior_variance": 1.673881,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Kuta",
-      "path": "asia/indonesia/bali/kuta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.2009,
+      "prior_variance": 3.756858,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Tulamben",
-      "path": "asia/indonesia/bali/tulamben",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2991,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.5493,
+      "prior_variance": 2.659471,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Wakatobi",
-      "path": "asia/indonesia/wakatobi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.2622,
+      "prior_variance": 1.276055,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Pulau Samosir",
-      "path": "asia/indonesia/sumatra/pulausamosir",
-      "prior_mu": 22.8729,
-      "prior_sigma": 4.7343,
-      "prior_n": 2
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -1.6825,
+      "prior_variance": 1.376845,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Sabang Island",
-      "path": "asia/indonesia/aceh/sabang_island",
-      "prior_mu": 22.9479,
-      "prior_sigma": 5.9767,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -0.8672,
+      "prior_variance": 1.27486,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Bandung",
-      "path": "asia/indonesia/java/bandung",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -3.2078,
+      "prior_variance": 1.445733,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Malang",
-      "path": "asia/indonesia/java/malang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -1.3567,
+      "prior_variance": 1.587202,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Padang",
-      "path": "asia/indonesia/sumatra/padang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -2.5681,
+      "prior_variance": 1.40454,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Sumbawa",
-      "path": "asia/indonesia/sumbawa",
-      "prior_mu": 21.4891,
-      "prior_sigma": 2.7982,
-      "prior_n": 5
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -0.6219,
+      "prior_variance": 1.48212,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Ambon",
-      "path": "asia/indonesia/maluku/ambon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": 0.2997,
+      "prior_variance": 3.856406,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Puncak",
-      "path": "asia/indonesia/puncak",
-      "prior_mu": 21.0003,
-      "prior_sigma": 3.1049,
-      "prior_n": 4
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -3.7219,
+      "prior_variance": 1.353884,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Jakarta",
-      "path": "asia/indonesia/jakarta",
-      "prior_mu": 22.9279,
-      "prior_sigma": 5.7292,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.0185,
+      "prior_variance": 1.996473,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Loksado",
-      "path": "asia/indonesia/loksado",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -2.3126,
+      "prior_variance": 1.442394,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Banjarmasin",
-      "path": "asia/indonesia/banjarmasin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -2.0409,
+      "prior_variance": 1.503916,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Sleman",
-      "path": "asia/indonesia/sleman",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -0.8373,
+      "prior_variance": 2.035953,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Kalimantan",
-      "path": "asia/indonesia/kalimantan",
-      "prior_mu": 21.3544,
-      "prior_sigma": 4.4394,
-      "prior_n": 2
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -0.7969,
+      "prior_variance": 2.498742,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Samarinda",
-      "path": "asia/indonesia/kalimantan/samarinda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.0531,
+      "prior_variance": 1.65159,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Pontianak",
-      "path": "asia/indonesia/pontianak",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.9303,
+      "prior_variance": 1.406805,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Pandeglang",
-      "path": "asia/indonesia/banten/pandeglang_1",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -2.3388,
+      "prior_variance": 1.736909,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Banjamarsin",
-      "path": "asia/indonesia/kalimantan/banjamarsin",
-      "prior_mu": 22.7223,
-      "prior_sigma": 5.9498,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -2.9318,
+      "prior_variance": 1.579337,
       "prior_n": 1
     }
   ]

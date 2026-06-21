@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto-Cristo.JPG
 latitude: 39.542325
 loc_type: city
 longitude: 3.334431
-score: 0.6
+score: 0.52
 title: Porto Cristo
 type: location
 ---

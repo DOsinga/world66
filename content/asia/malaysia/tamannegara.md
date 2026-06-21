@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taman_Negara_Sungai_Tembel
 latitude: 4.3833
 loc_type: city
 longitude: 102.3833
-score: 0.64
+score: 0.53
 title: Taman Negara
 type: location
 ---

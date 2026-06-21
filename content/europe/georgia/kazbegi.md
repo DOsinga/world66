@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Stepantsminda_09.2
 latitude: 42.658
 loc_type: city
 longitude: 44.6408
-score: 0.68
+score: 0.59
 title: Kazbegi
 type: location
 ---

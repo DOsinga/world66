@@ -1,0 +1,200 @@
+{
+  "round": 3537,
+  "timestamp": "2026-06-13T23:01:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 5.9676,
+      "prior_variance": 0.146146,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 4.8843,
+      "prior_variance": 0.12637,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 3.2899,
+      "prior_variance": 0.127155,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 6.0541,
+      "prior_variance": 0.164761,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.3155,
+      "prior_variance": 0.138785,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 3.1323,
+      "prior_variance": 0.127428,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.6565,
+      "prior_variance": 0.164635,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 1.9595,
+      "prior_variance": 0.141647,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 0.3453,
+      "prior_variance": 0.157631,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.8798,
+      "prior_variance": 0.138135,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.802,
+      "prior_variance": 0.260405,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.264,
+      "prior_variance": 0.229084,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": -0.2114,
+      "prior_variance": 0.116533,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 1.1393,
+      "prior_variance": 0.110332,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.5276,
+      "prior_variance": 0.131438,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.2783,
+      "prior_variance": 0.122113,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.482,
+      "prior_variance": 0.105898,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.177,
+      "prior_variance": 0.117395,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -0.9171,
+      "prior_variance": 0.131269,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.3968,
+      "prior_variance": 0.11532,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -1.9459,
+      "prior_variance": 0.129426,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -5.6106,
+      "prior_variance": 0.152784,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/soveria_mannelli",
+      "prior_score": -3.0497,
+      "prior_variance": 0.130556,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -5.5455,
+      "prior_variance": 0.123337,
+      "prior_n": 12
+    }
+  ]
+}

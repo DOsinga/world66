@@ -1,0 +1,200 @@
+{
+  "round": 2599,
+  "timestamp": "2026-06-13T21:54:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.1398,
+      "prior_variance": 0.179003,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 4.6244,
+      "prior_variance": 0.178726,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.6565,
+      "prior_variance": 0.206137,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 2.2206,
+      "prior_variance": 0.17205,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.7119,
+      "prior_variance": 0.185525,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 3.2593,
+      "prior_variance": 0.162773,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.49,
+      "prior_variance": 0.189528,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 3.3135,
+      "prior_variance": 0.182509,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.6307,
+      "prior_variance": 0.186788,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 0.9843,
+      "prior_variance": 0.144133,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Karakul Lake",
+      "path": "asia/china/xinjiangprovince/karakullake",
+      "prior_score": 1.299,
+      "prior_variance": 0.179927,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.5152,
+      "prior_variance": 0.153587,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 1.5577,
+      "prior_variance": 0.155906,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.444,
+      "prior_variance": 0.163121,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 1.8723,
+      "prior_variance": 0.167102,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 1.5211,
+      "prior_variance": 0.156144,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -1.2849,
+      "prior_variance": 0.197127,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 0.9228,
+      "prior_variance": 0.181487,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -0.9935,
+      "prior_variance": 0.188863,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.288,
+      "prior_variance": 0.155725,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.2492,
+      "prior_variance": 0.192716,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -4.2344,
+      "prior_variance": 0.161092,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -3.8904,
+      "prior_variance": 0.186604,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.1762,
+      "prior_variance": 0.23572,
+      "prior_n": 8
+    }
+  ]
+}

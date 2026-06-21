@@ -1,0 +1,200 @@
+{
+  "round": 3093,
+  "timestamp": "2026-06-13T22:28:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.3742,
+      "prior_variance": 0.170902,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 3.9674,
+      "prior_variance": 0.142497,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 4.6458,
+      "prior_variance": 0.134886,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -0.85,
+      "prior_variance": 0.157219,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -3.0826,
+      "prior_variance": 0.203291,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.5545,
+      "prior_variance": 0.162027,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.9447,
+      "prior_variance": 0.161525,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.6601,
+      "prior_variance": 0.147426,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.1176,
+      "prior_variance": 0.1452,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -1.8331,
+      "prior_variance": 0.161119,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.9295,
+      "prior_variance": 0.138398,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -2.055,
+      "prior_variance": 0.131189,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.395,
+      "prior_variance": 0.154148,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -3.1865,
+      "prior_variance": 0.133205,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -3.0513,
+      "prior_variance": 0.138664,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.3113,
+      "prior_variance": 0.158031,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.2015,
+      "prior_variance": 0.164751,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -3.3826,
+      "prior_variance": 0.150754,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -3.9193,
+      "prior_variance": 0.157187,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.3067,
+      "prior_variance": 0.161947,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -7.5366,
+      "prior_variance": 0.198409,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -8.2372,
+      "prior_variance": 0.234391,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -7.8373,
+      "prior_variance": 0.258314,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.8314,
+      "prior_variance": 0.496762,
+      "prior_n": 10
+    }
+  ]
+}

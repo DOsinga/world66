@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daxi-Township_Taoyuan_Taiw
 latitude: 24.992999
 loc_type: city
 longitude: 121.301
-score: 0.47
+score: 0.36
 title: Taoyuan
 type: location
 ---

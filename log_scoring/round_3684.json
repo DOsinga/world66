@@ -1,0 +1,200 @@
+{
+  "round": 3684,
+  "timestamp": "2026-06-13T23:12:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.3874,
+      "prior_variance": 0.132429,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 5.6417,
+      "prior_variance": 0.133659,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 3.6986,
+      "prior_variance": 0.167318,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Vieques",
+      "path": "northamerica/thecaribbean/puertorico/vieques",
+      "prior_score": 4.2224,
+      "prior_variance": 0.138157,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 3.738,
+      "prior_variance": 0.121174,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.4856,
+      "prior_variance": 0.1063,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.0091,
+      "prior_variance": 0.114501,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.4402,
+      "prior_variance": 0.125867,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.3014,
+      "prior_variance": 0.111218,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -0.8544,
+      "prior_variance": 0.111647,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.2006,
+      "prior_variance": 0.103174,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.3697,
+      "prior_variance": 0.170351,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -1.921,
+      "prior_variance": 0.13554,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.7316,
+      "prior_variance": 0.103183,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.8835,
+      "prior_variance": 0.130445,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -2.102,
+      "prior_variance": 0.117621,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -0.7239,
+      "prior_variance": 0.104732,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.6645,
+      "prior_variance": 0.105751,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.6458,
+      "prior_variance": 0.118762,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -3.9235,
+      "prior_variance": 0.148799,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.397,
+      "prior_variance": 0.119407,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -4.2815,
+      "prior_variance": 0.113879,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -4.441,
+      "prior_variance": 0.125524,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -4.4485,
+      "prior_variance": 0.130658,
+      "prior_n": 12
+    }
+  ]
+}

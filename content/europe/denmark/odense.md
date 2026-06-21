@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/22890158@N08/2270353719
 latitude: 55.3997
 loc_type: city
 longitude: 10.3852
-score: 0.56
+score: 0.48
 title: Odense
 type: location
 ---

@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Angoul%C3%AAme
 title: Angoulême
 type: location
+score: 0.46
 ---
 
 Angoulême is a city of two identities. The first is the old one: a medieval hilltop town perched on a dramatic limestone plateau above the Charente river, fortified by walls, crowned by a Romanesque cathedral, and surrounded by the paper-making industry that made it prosperous for four centuries. The second is the newer one: the self-proclaimed world capital of bande dessinée — comic strips — home to the annual Festival International de la Bande Dessinée that draws hundreds of thousands of visitors every January and has covered the city's walls with enormous murals of cartoon characters.

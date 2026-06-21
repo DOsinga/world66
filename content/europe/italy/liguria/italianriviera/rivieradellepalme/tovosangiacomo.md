@@ -5,7 +5,7 @@ done:
 latitude: 44.1765
 loc_type: city
 longitude: 8.2684
-score: 0.4
+score: 0.38
 title: “Tovo San Giacomo”
 type: location
 ---

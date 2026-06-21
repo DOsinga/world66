@@ -5,7 +5,7 @@ done:
 latitude: 10.642703
 loc_type: city
 longitude: -4.752639
-score: 0.36
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Banfora
 - https://en.wikipedia.org/wiki/Cascades_de_Karfigu%C3%A9la

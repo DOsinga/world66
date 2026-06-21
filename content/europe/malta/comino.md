@@ -5,7 +5,7 @@ latitude: 36.0119
 longitude: 14.3369
 title: Comino
 type: location
-score: 0.61
+score: 0.56
 loc_type: feature
 ---
 

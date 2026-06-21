@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mysore_Palace,_India_(phot
 latitude: 12.2958
 loc_type: city
 longitude: 76.6394
-score: 0.61
+score: 0.58
 title: Mysore
 type: location
 ---

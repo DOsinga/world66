@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Tom_(Vermont)
 title: Woodstock
 type: location
+score: 0.47
 ---
 
 Woodstock is one of Vermont's prettiest villages, and it knows it. The green, covered bridge, white steeples, old inns, and tidy brick storefronts can feel almost too composed, but the surrounding hills keep the place from becoming a stage set.

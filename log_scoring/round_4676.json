@@ -1,0 +1,200 @@
+{
+  "round": 4676,
+  "timestamp": "2026-06-14T00:32:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 2.9475,
+      "prior_variance": 0.098969,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 1.7801,
+      "prior_variance": 0.081729,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -1.5847,
+      "prior_variance": 0.152395,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 1.044,
+      "prior_variance": 0.089081,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.4073,
+      "prior_variance": 0.101833,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -2.4989,
+      "prior_variance": 0.085652,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.7345,
+      "prior_variance": 0.090058,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -1.8212,
+      "prior_variance": 0.094517,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -2.0893,
+      "prior_variance": 0.088179,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.2497,
+      "prior_variance": 0.105421,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Taijiang",
+      "path": "asia/china/guizhou/taijiang",
+      "prior_score": -2.4809,
+      "prior_variance": 0.09942,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.3779,
+      "prior_variance": 0.128291,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -2.7021,
+      "prior_variance": 0.084825,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.552,
+      "prior_variance": 0.086912,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -3.9075,
+      "prior_variance": 0.108038,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -3.1435,
+      "prior_variance": 0.094364,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.6551,
+      "prior_variance": 0.091581,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Guam\u00e1",
+      "path": "northamerica/thecaribbean/cuba/guama",
+      "prior_score": -4.0844,
+      "prior_variance": 0.104269,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -5.1293,
+      "prior_variance": 0.105119,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.5414,
+      "prior_variance": 0.098641,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.5634,
+      "prior_variance": 0.106178,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.3158,
+      "prior_variance": 0.098431,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -4.9594,
+      "prior_variance": 0.104544,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -6.3467,
+      "prior_variance": 0.117877,
+      "prior_n": 16
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
-category: Mountain
 latitude: -33.951
 longitude: 18.435
+score: 7.6
 scores:
   activities: 0.5463
   sight: 0.6362
@@ -11,9 +11,9 @@ tags:
 - things_to_do
 - sight
 - outdoor
+- observatory
 title: Devil's Peak
 type: poi
-score: 7.6
 ---
 
 Devil's Peak rises sharply at the eastern end of the Table Mountain range, a 1,000-metre summit that gets its name from the cloud known as "the tablecloth" that spills over Table Mountain when the southeaster blows — folklore attributes it to a smoking contest between a Dutch pirate and the devil.

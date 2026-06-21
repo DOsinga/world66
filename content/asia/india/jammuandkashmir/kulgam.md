@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aharbal.jpg
 latitude: 33.6447
 loc_type: city
 longitude: 75.0188
-score: 0.28
+score: 0.23
 title: Kulgam
 type: location
 ---

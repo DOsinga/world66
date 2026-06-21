@@ -5,7 +5,7 @@ done:
 latitude: 54.3692
 loc_type: city
 longitude: -3.0747
-score: 0.56
+score: 0.49
 title: Coniston
 type: location
 image: coniston_1.jpg

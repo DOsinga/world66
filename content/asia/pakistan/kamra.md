@@ -5,7 +5,7 @@ done:
 latitude: 33.85609
 loc_type: city
 longitude: 72.394136
-score: 0.23
+score: 0.15
 sources:
 - https://en.wikipedia.org/wiki/Kamra
 - https://en.wikipedia.org/wiki/Attock_Fort

@@ -1,0 +1,200 @@
+{
+  "round": 3798,
+  "timestamp": "2026-06-13T23:20:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 9.4297,
+      "prior_variance": 0.23012,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 11.4636,
+      "prior_variance": 0.662924,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 9.8016,
+      "prior_variance": 0.2665,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 7.7146,
+      "prior_variance": 0.159139,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 5.2936,
+      "prior_variance": 0.121532,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 6.3971,
+      "prior_variance": 0.156886,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.2931,
+      "prior_variance": 0.159465,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 3.1796,
+      "prior_variance": 0.129629,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 5.1719,
+      "prior_variance": 0.149611,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 3.3685,
+      "prior_variance": 0.116031,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 3.7574,
+      "prior_variance": 0.106662,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 4.5608,
+      "prior_variance": 0.125792,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.2554,
+      "prior_variance": 0.128674,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.4326,
+      "prior_variance": 0.14683,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 3.7678,
+      "prior_variance": 0.122408,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.8203,
+      "prior_variance": 0.12185,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 1.584,
+      "prior_variance": 0.262702,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 3.349,
+      "prior_variance": 0.122669,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Hersonissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 3.6203,
+      "prior_variance": 0.13111,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.2483,
+      "prior_variance": 0.10703,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 4.5301,
+      "prior_variance": 0.121076,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.0765,
+      "prior_variance": 0.136942,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -1.3411,
+      "prior_variance": 0.116319,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -9.1719,
+      "prior_variance": 0.260454,
+      "prior_n": 12
+    }
+  ]
+}

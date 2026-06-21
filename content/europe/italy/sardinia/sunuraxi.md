@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuraghe_Su_Nuraxi_-_Barumi
 latitude: 39.705867
 loc_type: city
 longitude: 8.990894
-score: 0.56
+score: 0.51
 title: Su Nuraxi di Barumini
 type: location
 ---

@@ -1,199 +1,199 @@
 {
   "round": 1231,
-  "timestamp": "2026-04-12T22:16:26",
+  "timestamp": "2026-06-13T20:18:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hurghada",
-      "path": "africa/egypt/hurghada",
-      "prior_rank": 2597,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 9.6987,
+      "prior_variance": 0.590851,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Qaqortoq",
-      "path": "northamerica/greenland/qaqortoq",
-      "prior_rank": 5562,
-      "prior_wins": 20,
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 8.4998,
+      "prior_variance": 0.480295,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Yap",
-      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
-      "prior_rank": 4288,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Jost Van Dyke",
+      "path": "northamerica/britishvirginislands/jostvandyke",
+      "prior_score": 7.1842,
+      "prior_variance": 0.590441,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Nkob",
-      "path": "africa/morocco/nkob",
-      "prior_rank": 6027,
-      "prior_wins": 22,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 5.7515,
+      "prior_variance": 0.804316,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Panauti",
-      "path": "asia/nepal/panauti",
-      "prior_rank": 2605,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 6.2269,
+      "prior_variance": 0.373584,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Syunik",
-      "path": "europe/armenia/syunik",
-      "prior_rank": 4533,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.673,
+      "prior_variance": 0.466467,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Clervaux",
-      "path": "europe/luxembourg/clervaux",
-      "prior_rank": 2434,
-      "prior_wins": 74,
-      "prior_n": 5
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 7.6269,
+      "prior_variance": 0.353184,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Ja\u00e9n",
-      "path": "europe/spain/andalucia/jaen",
-      "prior_rank": 5047,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_score": 4.2639,
+      "prior_variance": 0.34147,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Lake yojoa",
-      "path": "northamerica/honduras/lakeyojoa",
-      "prior_rank": 4309,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 5.4634,
+      "prior_variance": 0.403441,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Petchburi",
-      "path": "asia/thailand/petchburi",
-      "prior_rank": 3799,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 6.7768,
+      "prior_variance": 0.419784,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Jinja",
-      "path": "africa/uganda/jinja",
-      "prior_rank": 2430,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 4.5061,
+      "prior_variance": 0.539747,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Tay Ninh",
-      "path": "asia/vietnam/tayninh",
-      "prior_rank": 4335,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.1296,
+      "prior_variance": 1.05245,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Junin de los Andes",
-      "path": "southamerica/argentina/junindelosandes",
-      "prior_rank": 5085,
-      "prior_wins": 28,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": -1.6236,
+      "prior_variance": 0.641408,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Melfi",
-      "path": "europe/italy/basilicata/melfi",
-      "prior_rank": 4216,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.6887,
+      "prior_variance": 0.33685,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Barra",
-      "path": "europe/unitedkingdom/scotland/barra",
-      "prior_rank": 1923,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 5.1257,
+      "prior_variance": 0.529093,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Rakvere",
-      "path": "europe/estonia/rakvere",
-      "prior_rank": 2206,
-      "prior_wins": 46,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -1.6642,
+      "prior_variance": 0.397323,
       "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Brunei",
-      "path": "asia/brunei",
-      "prior_rank": 4297,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.1288,
+      "prior_variance": 0.38421,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Piura",
-      "path": "southamerica/peru/piura",
-      "prior_rank": 6047,
-      "prior_wins": 22,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.3748,
+      "prior_variance": 0.411264,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Gdynia",
-      "path": "europe/poland/gdynia",
-      "prior_rank": 3572,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -3.577,
+      "prior_variance": 0.393251,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Taoyuan",
-      "path": "asia/taiwan/taoyuan",
-      "prior_rank": 2276,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -4.0913,
+      "prior_variance": 0.548884,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "\u00d6rebro",
-      "path": "europe/sweden/rebro",
-      "prior_rank": 3097,
-      "prior_wins": 27,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "V\u00e4ster\u00e5s",
-      "path": "europe/sweden/vsters",
-      "prior_rank": 3965,
-      "prior_wins": 35,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -3.1857,
+      "prior_variance": 0.495996,
       "prior_n": 3
     },
     {
+      "rank": 22,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -3.9195,
+      "prior_variance": 0.333362,
+      "prior_n": 4
+    },
+    {
       "rank": 23,
-      "title": "Ungersheim",
-      "path": "europe/france/east/alsace/ungersheim",
-      "prior_rank": 4293,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -7.2052,
+      "prior_variance": 0.424726,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Yekaterinburg",
-      "path": "europe/russia/ekaterinoburg",
-      "prior_rank": 1813,
-      "prior_wins": 48,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -11.2629,
+      "prior_variance": 0.608223,
       "prior_n": 3
     }
   ]

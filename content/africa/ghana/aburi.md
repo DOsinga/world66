@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beautiful_lush_landscape_o
 latitude: 5.8475
 loc_type: city
 longitude: -0.1753
-score: 0.41
+score: 0.36
 title: Aburi
 type: location
 ---

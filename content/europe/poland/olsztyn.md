@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-07_Olsztyn_(72).jpg
 latitude: 53.7766
 loc_type: city
 longitude: 20.4778
-score: 0.46
+score: 0.4
 title: Olsztyn
 type: location
 ---

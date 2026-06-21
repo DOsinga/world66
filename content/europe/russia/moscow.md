@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_
 latitude: 55.625578
 loc_type: city
 longitude: 37.606392
-score: 0.57
+score: 0.51
 title: Moscow
 type: location
 ---

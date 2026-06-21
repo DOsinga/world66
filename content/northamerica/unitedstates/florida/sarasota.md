@@ -7,7 +7,7 @@ done:
 latitude: 27.3364
 loc_type: city
 longitude: -82.5307
-score: 0.54
+score: 0.48
 title: Sarasota
 type: location
 image: sarasota.jpg

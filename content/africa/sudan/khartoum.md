@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Elmek_Nimir_Bridge.jpg
 latitude: 15.5636
 loc_type: city
 longitude: 32.5349
-score: 0.3
+score: 0.23
 title: Khartoum
 type: location
 ---

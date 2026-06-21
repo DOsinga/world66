@@ -1,104 +1,200 @@
 {
   "round": 476,
-  "timestamp": "2026-04-12T09:32:15",
+  "timestamp": "2026-06-13T19:37:05",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Angkor Wat",
-      "path": "asia/cambodia/angkorwat",
-      "prior_mu": 31.572,
-      "prior_sigma": 6.3246,
-      "prior_n": 2
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": -3.2631,
+      "prior_variance": 1.702316,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Siem Reap",
-      "path": "asia/cambodia/siemreap",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": -0.0618,
+      "prior_variance": 1.564736,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Phnom Penh",
-      "path": "asia/cambodia/phnompenh",
-      "prior_mu": 22.4823,
-      "prior_sigma": 5.454,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_score": -3.2834,
+      "prior_variance": 1.850736,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Cambodia",
-      "path": "asia/cambodia",
-      "prior_mu": 22.7007,
-      "prior_sigma": 5.8193,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": -0.1017,
+      "prior_variance": 1.603598,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Sihanoukville",
-      "path": "asia/cambodia/sihanoukville",
-      "prior_mu": 21.8064,
-      "prior_sigma": 4.8151,
-      "prior_n": 2
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -2.5995,
+      "prior_variance": 1.357053,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Kep",
-      "path": "asia/cambodia/kep",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -2.0995,
+      "prior_variance": 1.316581,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Battambang",
-      "path": "asia/cambodia/battambang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": 0.4282,
+      "prior_variance": 1.681124,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Kratie",
-      "path": "asia/cambodia/kratie",
-      "prior_mu": 22.045,
-      "prior_sigma": 4.6979,
-      "prior_n": 2
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -3.1269,
+      "prior_variance": 2.347907,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Krong Koh Kong",
-      "path": "asia/cambodia/krongkohkong",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -1.5953,
+      "prior_variance": 1.761945,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Ban Lung",
-      "path": "asia/cambodia/ratanakiriprovince/banlung",
-      "prior_mu": 21.6425,
-      "prior_sigma": 4.5795,
-      "prior_n": 2
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": -1.1995,
+      "prior_variance": 1.359695,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Kampong Cham",
-      "path": "asia/cambodia/kampongcham",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": -2.7126,
+      "prior_variance": 1.431045,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Stung Treng",
-      "path": "asia/cambodia/stung_treng",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -2.9938,
+      "prior_variance": 1.955802,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -3.8975,
+      "prior_variance": 2.118903,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -2.3337,
+      "prior_variance": 1.618054,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -2.4776,
+      "prior_variance": 1.495117,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Apollonia",
+      "path": "africa/libya/apollonia",
+      "prior_score": -6.0451,
+      "prior_variance": 1.506218,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -2.5247,
+      "prior_variance": 2.477517,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.8605,
+      "prior_variance": 1.516721,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -0.7896,
+      "prior_variance": 1.688922,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -2.5211,
+      "prior_variance": 2.070735,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_score": -5.7997,
+      "prior_variance": 2.870161,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -2.4403,
+      "prior_variance": 1.558977,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.6892,
+      "prior_variance": 2.44652,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.6249,
+      "prior_variance": 1.587776,
+      "prior_n": 1
     }
   ]
 }

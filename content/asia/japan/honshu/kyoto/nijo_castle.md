@@ -1,16 +1,20 @@
 ---
 latitude: 35.0142
 longitude: 135.7481
+score: 8.9
 snippet: Tokugawa-era flatland castle with famous nightingale floors
-story: The wooden corridors of the Ninomaru Palace are deliberately laid so that hidden iron clamps under the boards creak when stepped on — the so-called *uguisu-bari* or nightingale floors, designed to alert guards to intruders no matter how lightly they trod.
+story: The wooden corridors of the Ninomaru Palace are deliberately laid so that hidden
+  iron clamps under the boards creak when stepped on — the so-called *uguisu-bari*
+  or nightingale floors, designed to alert guards to intruders no matter how lightly
+  they trod.
 tags:
 - things_to_do
 - castle
 - unesco
 - sight
+- nijo
 title: Nijō Castle
 type: poi
-score: 8.9
 ---
 
 Nijō Castle was built in 1603 as the Kyoto residence of Tokugawa Ieyasu, the first shogun of the Tokugawa dynasty, and was where, in 1867, the fifteenth and last shogun handed back political authority to the emperor — the formal end of seven centuries of military rule. It is the best-preserved example of *shoin-zukuri* warrior-aristocratic architecture in Japan.

@@ -1,0 +1,200 @@
+{
+  "round": 3517,
+  "timestamp": "2026-06-13T22:59:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.2799,
+      "prior_variance": 0.153881,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.4032,
+      "prior_variance": 0.132087,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 3.6434,
+      "prior_variance": 0.124235,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 5.1738,
+      "prior_variance": 0.14972,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 3.6661,
+      "prior_variance": 0.12782,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.1669,
+      "prior_variance": 0.127034,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.8593,
+      "prior_variance": 0.134688,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.1425,
+      "prior_variance": 0.135917,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.8538,
+      "prior_variance": 0.147814,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 4.1051,
+      "prior_variance": 0.124073,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 2.904,
+      "prior_variance": 0.11896,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Llangollen",
+      "path": "europe/unitedkingdom/wales/llangollen",
+      "prior_score": 2.4073,
+      "prior_variance": 0.111138,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 0.0465,
+      "prior_variance": 0.108878,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 1.8396,
+      "prior_variance": 0.119983,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.8216,
+      "prior_variance": 0.115076,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.0226,
+      "prior_variance": 0.122711,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.5038,
+      "prior_variance": 0.127797,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.2589,
+      "prior_variance": 0.105676,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.1699,
+      "prior_variance": 0.135794,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.3335,
+      "prior_variance": 0.119151,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.2928,
+      "prior_variance": 0.103479,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -5.9773,
+      "prior_variance": 0.173231,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -5.3192,
+      "prior_variance": 0.140844,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -5.6672,
+      "prior_variance": 0.137035,
+      "prior_n": 11
+    }
+  ]
+}

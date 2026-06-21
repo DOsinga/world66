@@ -5,7 +5,7 @@ done:
 latitude: 51.561533
 loc_type: city
 longitude: -1.785432
-score: 0.42
+score: 0.31
 title: Swindon
 type: location
 image: swindon.jpg

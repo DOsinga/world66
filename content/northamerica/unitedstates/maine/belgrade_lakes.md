@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Belgrade_La
 latitude: 44.5265
 loc_type: city
 longitude: -69.887
-score: 0.43
+score: 0.37
 title: Belgrade Lakes
 type: location
 ---

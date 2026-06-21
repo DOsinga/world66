@@ -1,0 +1,200 @@
+{
+  "round": 3519,
+  "timestamp": "2026-06-13T22:59:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 4.6528,
+      "prior_variance": 0.142975,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.5112,
+      "prior_variance": 0.136865,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 1.8689,
+      "prior_variance": 0.109026,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 0.6267,
+      "prior_variance": 0.129572,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -1.873,
+      "prior_variance": 0.205304,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.761,
+      "prior_variance": 0.14508,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -0.9097,
+      "prior_variance": 0.129655,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_score": -3.0215,
+      "prior_variance": 0.129878,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -3.2516,
+      "prior_variance": 0.180088,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -3.6485,
+      "prior_variance": 0.125374,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.9812,
+      "prior_variance": 0.127714,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -2.9392,
+      "prior_variance": 0.11294,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.3657,
+      "prior_variance": 0.137607,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.4369,
+      "prior_variance": 0.125473,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -5.4003,
+      "prior_variance": 0.167501,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.8644,
+      "prior_variance": 0.136206,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.33,
+      "prior_variance": 0.148301,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_score": -5.0416,
+      "prior_variance": 0.156457,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.2291,
+      "prior_variance": 0.152348,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -3.941,
+      "prior_variance": 0.117323,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -5.9301,
+      "prior_variance": 0.19037,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.3155,
+      "prior_variance": 0.148824,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -6.6662,
+      "prior_variance": 0.154529,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -7.2261,
+      "prior_variance": 0.158651,
+      "prior_n": 11
+    }
+  ]
+}

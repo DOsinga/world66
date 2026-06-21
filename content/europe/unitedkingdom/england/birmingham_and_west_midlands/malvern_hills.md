@@ -5,7 +5,7 @@ latitude: 52.167533
 longitude: -2.33116
 title: Malvern Hills
 type: location
-score: 0.52
+score: 0.44
 loc_type: feature
 ---
 

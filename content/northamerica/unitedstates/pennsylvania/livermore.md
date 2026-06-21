@@ -5,7 +5,7 @@ latitude: 41.244444
 longitude: -78.916667
 title: Livermore
 type: location
-score: 0.28
+score: 0.18
 loc_type: feature
 ---
 

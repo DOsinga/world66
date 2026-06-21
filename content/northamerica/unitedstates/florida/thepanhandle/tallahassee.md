@@ -6,7 +6,7 @@ done:
 latitude: 30.4381
 loc_type: city
 longitude: -84.2807
-score: 0.38
+score: 0.32
 title: Tallahassee
 type: location
 image: tallahassee.jpg

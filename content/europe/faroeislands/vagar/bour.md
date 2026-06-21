@@ -5,7 +5,7 @@ done:
 latitude: 62.087978
 loc_type: city
 longitude: -7.371455
-score: 0.54
+score: 0.46
 title: Bour
 type: location
 ---

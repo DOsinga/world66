@@ -5,7 +5,7 @@ done:
 latitude: 51.299222
 loc_type: city
 longitude: -116.964296
-score: 0.58
+score: 0.47
 title: Golden
 type: location
 image: golden.jpg

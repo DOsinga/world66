@@ -1,0 +1,200 @@
+{
+  "round": 3324,
+  "timestamp": "2026-06-13T22:45:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 8.7746,
+      "prior_variance": 0.18643,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.2042,
+      "prior_variance": 0.191104,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 6.2355,
+      "prior_variance": 0.147859,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 8.1573,
+      "prior_variance": 0.182351,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 6.2821,
+      "prior_variance": 0.158276,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 5.6084,
+      "prior_variance": 0.142305,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 5.0578,
+      "prior_variance": 0.173789,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.108,
+      "prior_variance": 0.122515,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.4922,
+      "prior_variance": 0.149292,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 2.9021,
+      "prior_variance": 0.187198,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 5.0617,
+      "prior_variance": 0.156982,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 5.48,
+      "prior_variance": 0.146892,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 3.1805,
+      "prior_variance": 0.130839,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 5.8912,
+      "prior_variance": 0.150135,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.7879,
+      "prior_variance": 0.124093,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.4353,
+      "prior_variance": 0.12309,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.0628,
+      "prior_variance": 0.147407,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 1.4488,
+      "prior_variance": 0.118116,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 2.0316,
+      "prior_variance": 0.128691,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.8719,
+      "prior_variance": 0.119227,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.3946,
+      "prior_variance": 0.171399,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -2.8246,
+      "prior_variance": 0.135572,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.7763,
+      "prior_variance": 0.134923,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.1255,
+      "prior_variance": 0.199817,
+      "prior_n": 11
+    }
+  ]
+}

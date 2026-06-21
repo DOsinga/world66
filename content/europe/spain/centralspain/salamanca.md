@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:68436-Salamanca_(490937139
 latitude: 40.9649
 loc_type: city
 longitude: -5.663
-score: 0.7
+score: 0.58
 title: Salamanca
 type: location
 ---

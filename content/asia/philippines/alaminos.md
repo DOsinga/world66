@@ -5,7 +5,7 @@ done:
 latitude: 16.155386
 loc_type: city
 longitude: 119.97922
-score: 0.44
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Alaminos,_Pangasinan
 - https://en.wikipedia.org/wiki/Hundred_Islands_National_Park

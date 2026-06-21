@@ -5,7 +5,7 @@ latitude: 9.548431
 longitude: 123.771958
 title: Balicasag Island
 type: location
-score: 0.64
+score: 0.56
 loc_type: feature
 ---
 

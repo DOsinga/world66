@@ -1,0 +1,200 @@
+{
+  "round": 4525,
+  "timestamp": "2026-06-14T00:19:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 11.218,
+      "prior_variance": 0.316049,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 5.6862,
+      "prior_variance": 0.115737,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 2.5561,
+      "prior_variance": 0.109227,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.5829,
+      "prior_variance": 0.097837,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 1.6823,
+      "prior_variance": 0.094313,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Kangding",
+      "path": "asia/china/sichuanprovince/kangding",
+      "prior_score": 1.8656,
+      "prior_variance": 0.104751,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 1.8698,
+      "prior_variance": 0.0965,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 2.5775,
+      "prior_variance": 0.09367,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.7782,
+      "prior_variance": 0.100819,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.329,
+      "prior_variance": 0.091879,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 1.436,
+      "prior_variance": 0.094207,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -1.0926,
+      "prior_variance": 0.099262,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.1411,
+      "prior_variance": 0.091793,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.3276,
+      "prior_variance": 0.097464,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.0895,
+      "prior_variance": 0.088947,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.4327,
+      "prior_variance": 0.090658,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": 0.1689,
+      "prior_variance": 0.089828,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.6658,
+      "prior_variance": 0.091777,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.6485,
+      "prior_variance": 0.093859,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.264,
+      "prior_variance": 0.092952,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -3.0062,
+      "prior_variance": 0.101982,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.3129,
+      "prior_variance": 0.102967,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -4.2709,
+      "prior_variance": 0.109514,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -5.839,
+      "prior_variance": 0.123758,
+      "prior_n": 15
+    }
+  ]
+}

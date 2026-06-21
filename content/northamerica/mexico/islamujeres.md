@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_Isla_Muj
 latitude: 21.237191
 loc_type: city
 longitude: -86.735
-score: 0.67
+score: 0.58
 sources:
 - https://en.wikipedia.org/wiki/Isla_Mujeres
 title: Isla Mujeres

@@ -1,0 +1,200 @@
+{
+  "round": 4650,
+  "timestamp": "2026-06-14T00:30:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 6.8704,
+      "prior_variance": 0.145618,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 1.298,
+      "prior_variance": 0.097657,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.6938,
+      "prior_variance": 0.085098,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Ostende",
+      "path": "europe/belgium/ostende",
+      "prior_score": 0.1249,
+      "prior_variance": 0.087431,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.6833,
+      "prior_variance": 0.217367,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -1.7487,
+      "prior_variance": 0.10832,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -0.8567,
+      "prior_variance": 0.101735,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -2.4642,
+      "prior_variance": 0.115608,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -0.6945,
+      "prior_variance": 0.099483,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.5142,
+      "prior_variance": 0.097613,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -3.0191,
+      "prior_variance": 0.108574,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.2897,
+      "prior_variance": 0.087235,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Cz\u0119stochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": 0.157,
+      "prior_variance": 0.087883,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.2987,
+      "prior_variance": 0.086511,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.2452,
+      "prior_variance": 0.08595,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.6358,
+      "prior_variance": 0.08688,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.2237,
+      "prior_variance": 0.082304,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -1.43,
+      "prior_variance": 0.090229,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -0.7956,
+      "prior_variance": 0.100547,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.6761,
+      "prior_variance": 0.086394,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.1602,
+      "prior_variance": 0.105097,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -3.4626,
+      "prior_variance": 0.089382,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.2517,
+      "prior_variance": 0.109129,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.7412,
+      "prior_variance": 0.105773,
+      "prior_n": 16
+    }
+  ]
+}

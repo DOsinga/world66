@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjara_-_Our_Lady_of_the_M
 latitude: 32.3066
 loc_type: city
 longitude: 35.7557
-score: 0.4
+score: 0.34
 title: Anjara
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2006,_graveyard_in_Reykjav
 latitude: 64.1466
 loc_type: city
 longitude: -21.9426
-score: 0.8
+score: 0.73
 title: Reykjavik
 type: location
 ---

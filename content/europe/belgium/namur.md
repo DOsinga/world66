@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/5713851898
 latitude: 50.4665
 loc_type: city
 longitude: 4.8662
-score: 0.55
+score: 0.46
 title: Namur
 type: location
 ---

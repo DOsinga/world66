@@ -5,7 +5,7 @@ latitude: -32.365037
 longitude: 19.112816
 title: Cederberg Wilderness Area
 type: location
-score: 0.55
+score: 0.48
 loc_type: feature
 ---
 

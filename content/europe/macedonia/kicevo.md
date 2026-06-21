@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kicevo_11-08-2006.jpg
 latitude: 41.5089
 loc_type: city
 longitude: 20.9585
-score: 0.34
+score: 0.27
 title: Kičevo
 type: location
 ---

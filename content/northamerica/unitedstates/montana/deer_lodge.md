@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deer_Lodge_MT_-_aerial.jpg
 latitude: 46.3981
 loc_type: city
 longitude: -112.7335
-score: 0.36
+score: 0.32
 title: Deer Lodge
 type: location
 ---

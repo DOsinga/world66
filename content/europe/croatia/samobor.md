@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Z-4467_Kulturno-povijesna_
 latitude: 45.801862
 loc_type: city
 longitude: 15.70971
-score: 0.53
+score: 0.47
 title: Samobor
 type: location
 ---

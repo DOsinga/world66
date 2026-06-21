@@ -5,7 +5,7 @@ latitude: -7.7805
 longitude: 36.7279
 title: Udzungwa National Park
 type: location
-score: 0.56
+score: 0.45
 loc_type: feature
 ---
 

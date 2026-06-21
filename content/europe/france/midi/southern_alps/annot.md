@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Annot,_vieille_ville.jpg
 latitude: 43.966132
 loc_type: city
 longitude: 6.667486
-score: 0.55
+score: 0.47
 title: Annot
 type: location
 ---

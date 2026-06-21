@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:M%C3%B8ns_Klint_5.jpg
 latitude: 54.969843
 loc_type: city
 longitude: 12.424946
-score: 0.56
+score: 0.49
 title: Møn
 type: location
 ---

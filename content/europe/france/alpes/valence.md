@@ -5,7 +5,7 @@ done:
 latitude: 44.933228
 loc_type: city
 longitude: 4.892081
-score: 0.52
+score: 0.43
 title: Valence
 type: location
 ---

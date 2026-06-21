@@ -1,0 +1,200 @@
+{
+  "round": 4007,
+  "timestamp": "2026-06-13T23:36:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 9.0966,
+      "prior_variance": 0.208741,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 5.2604,
+      "prior_variance": 0.133634,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 4.8812,
+      "prior_variance": 0.151671,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.6266,
+      "prior_variance": 0.111641,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 4.3878,
+      "prior_variance": 0.119682,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 3.8764,
+      "prior_variance": 0.121482,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.3978,
+      "prior_variance": 0.101563,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.1248,
+      "prior_variance": 0.105198,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 0.5869,
+      "prior_variance": 0.098534,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 0.8442,
+      "prior_variance": 0.113412,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": -0.021,
+      "prior_variance": 0.097231,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.571,
+      "prior_variance": 0.114502,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -3.0636,
+      "prior_variance": 0.114466,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.2014,
+      "prior_variance": 0.110496,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -4.4652,
+      "prior_variance": 0.12493,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -2.3169,
+      "prior_variance": 0.166624,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -3.1414,
+      "prior_variance": 0.101206,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -3.8791,
+      "prior_variance": 0.121844,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -1.9955,
+      "prior_variance": 0.129036,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Alega",
+      "path": "australiaandpacific/americansamoa/alega",
+      "prior_score": -2.8443,
+      "prior_variance": 0.117604,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -2.5028,
+      "prior_variance": 0.110197,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.5396,
+      "prior_variance": 0.111479,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.4205,
+      "prior_variance": 0.138015,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_score": -8.0638,
+      "prior_variance": 0.157943,
+      "prior_n": 12
+    }
+  ]
+}

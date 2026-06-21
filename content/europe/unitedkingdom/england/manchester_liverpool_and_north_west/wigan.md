@@ -4,7 +4,7 @@ done:
 latitude: 53.545719
 loc_type: city
 longitude: -2.626462
-score: 0.35
+score: 0.29
 title: Wigan
 type: location
 ---

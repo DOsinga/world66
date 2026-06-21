@@ -6,7 +6,7 @@ done:
 latitude: -0.0805
 loc_type: city
 longitude: -78.416
-score: 0.34
+score: 0.26
 title: Calderón
 type: location
 ---

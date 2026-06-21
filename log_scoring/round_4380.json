@@ -1,0 +1,200 @@
+{
+  "round": 4380,
+  "timestamp": "2026-06-14T00:07:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 5.5098,
+      "prior_variance": 0.119047,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 3.6418,
+      "prior_variance": 0.11354,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_score": 4.5416,
+      "prior_variance": 0.108026,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 5.4354,
+      "prior_variance": 0.115391,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 5.9983,
+      "prior_variance": 0.154076,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 2.0502,
+      "prior_variance": 0.115997,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_score": 4.3329,
+      "prior_variance": 0.107394,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 2.9626,
+      "prior_variance": 0.091349,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.7607,
+      "prior_variance": 0.111532,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.3963,
+      "prior_variance": 0.096617,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 3.841,
+      "prior_variance": 0.094062,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 1.7782,
+      "prior_variance": 0.100065,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.6178,
+      "prior_variance": 0.095004,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 1.8671,
+      "prior_variance": 0.096759,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": -0.0362,
+      "prior_variance": 0.098184,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 2.547,
+      "prior_variance": 0.107873,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.2057,
+      "prior_variance": 0.103321,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.208,
+      "prior_variance": 0.091387,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_score": -2.4141,
+      "prior_variance": 0.090913,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -5.4087,
+      "prior_variance": 0.101632,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -4.1387,
+      "prior_variance": 0.095814,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.1738,
+      "prior_variance": 0.125103,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.5353,
+      "prior_variance": 0.089817,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -4.8318,
+      "prior_variance": 0.110436,
+      "prior_n": 14
+    }
+  ]
+}

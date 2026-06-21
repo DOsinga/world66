@@ -5,7 +5,7 @@ done:
 latitude: 42.433
 loc_type: city
 longitude: -8.682
-score: 0.58
+score: 0.5
 title: Combarro
 type: location
 ---

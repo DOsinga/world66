@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_State_College_PA_
 latitude: 40.79445
 loc_type: city
 longitude: -77.861639
-score: 0.34
+score: 0.32
 title: State College
 type: location
 ---

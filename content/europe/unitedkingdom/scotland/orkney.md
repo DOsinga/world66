@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Sands_of_E
 latitude: 58.852057
 loc_type: city
 longitude: -3.28694
-score: 0.65
+score: 0.57
 title: Orkney
 type: location
 ---

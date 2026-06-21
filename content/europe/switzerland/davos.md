@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Davos_town.jpg
 latitude: 46.796198
 loc_type: city
 longitude: 9.823689
-score: 0.64
+score: 0.57
 title: Davos
 type: location
 ---

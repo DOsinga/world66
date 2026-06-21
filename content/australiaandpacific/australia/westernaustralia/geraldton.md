@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/26223114@N02/11903224846
 latitude: -28.77035
 loc_type: city
 longitude: 114.614716
-score: 0.44
+score: 0.36
 title: Geraldton
 type: location
 ---

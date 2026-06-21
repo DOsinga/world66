@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_St,_Koror,_Palau_-_pa
 latitude: 7.226
 loc_type: city
 longitude: 134.1312
-score: 0.7
+score: 0.6
 title: Koror
 type: location
 ---

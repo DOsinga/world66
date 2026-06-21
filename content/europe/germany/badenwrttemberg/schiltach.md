@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schiltach_Altstadt_3.JPG
 latitude: 48.290177
 loc_type: city
 longitude: 8.343635
-score: 0.5
+score: 0.43
 title: Schiltach
 type: location
 ---

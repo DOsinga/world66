@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0724-CA-Jamestown-Emp
 latitude: 37.954
 loc_type: city
 longitude: -120.4227
-score: 0.45
+score: 0.37
 title: Jamestown
 type: location
 ---

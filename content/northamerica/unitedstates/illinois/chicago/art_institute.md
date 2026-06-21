@@ -4,10 +4,14 @@ latitude: 41.8796
 longitude: -87.6237
 opening_hours: Thu-Mon 11:00 AM - 5:00 PM, closed Tue-Wed
 phone: 312-443-3600
-snippet: One of the finest art museums in the world, anchored by the lions on Michigan Ave
+snippet: One of the finest art museums in the world, anchored by the lions on Michigan
+  Ave
+sources:
+- https://en.wikipedia.org/wiki/Art_Institute_of_Chicago
 tags:
 - things_to_do
 - museum
+- the_loop
 title: Art Institute of Chicago
 type: poi
 url: www.artic.edu

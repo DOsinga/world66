@@ -1,4 +1,5 @@
 ---
+score: 0.43
 title: Saint Kitts and Nevis
 type: location
 loc_type: country

@@ -4,7 +4,7 @@ done:
 latitude: 54.396134
 loc_type: city
 longitude: 24.045927
-score: 0.38
+score: 0.31
 title: Alytus
 type: location
 ---

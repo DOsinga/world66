@@ -5,7 +5,7 @@ latitude: 28.1365
 longitude: 86.8555
 title: Everest Base Camp (Tibet)
 type: location
-score: 0.61
+score: 0.55
 loc_type: feature
 ---
 

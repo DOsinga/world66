@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_escuela_Martin_Tov
 latitude: 10.4087
 loc_type: city
 longitude: -67.2837
-score: 0.46
+score: 0.4
 title: Colonia Tovar
 type: location
 ---

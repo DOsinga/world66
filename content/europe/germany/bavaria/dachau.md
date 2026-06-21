@@ -6,7 +6,7 @@ done:
 latitude: 48.2592
 loc_type: city
 longitude: 11.4354
-score: 0.44
+score: 0.37
 title: Dachau
 type: location
 ---

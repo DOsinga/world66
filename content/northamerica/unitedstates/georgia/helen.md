@@ -5,7 +5,7 @@ done:
 latitude: 34.700904
 loc_type: city
 longitude: -83.729455
-score: 0.47
+score: 0.4
 title: Helen
 type: location
 ---

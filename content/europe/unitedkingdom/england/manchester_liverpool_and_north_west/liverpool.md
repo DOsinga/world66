@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Liverpool_Football_Club_Mu
 latitude: 53.4084
 loc_type: city
 longitude: -2.9916
-score: 0.58
+score: 0.53
 title: Liverpool
 type: location
 ---

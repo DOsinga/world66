@@ -1,200 +1,200 @@
 {
   "round": 276,
-  "timestamp": "2026-04-12T09:09:40",
+  "timestamp": "2026-06-13T19:27:37",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Queenstown",
-      "path": "australiaandpacific/newzealand/queenstown",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Slovenia",
-      "path": "europe/slovenia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Costa Brava",
-      "path": "europe/spain/costa_brava",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Palermo",
-      "path": "europe/italy/sicily/palermo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "F\u00fcssen",
-      "path": "europe/germany/bavaria/fussen",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "1",
-      "path": "europe/france/val_disere/1_1",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Tahoe City",
-      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Appalachian Trail",
-      "path": "northamerica/unitedstates/apalachiantrail",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Northland",
-      "path": "australiaandpacific/newzealand/north_island/northland",
-      "prior_mu": 22.726,
-      "prior_sigma": 5.9503,
-      "prior_n": 1
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Aland Islands",
-      "path": "europe/finland/alandislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Marsala",
-      "path": "europe/italy/sicily/marsala",
-      "prior_mu": 22.3144,
-      "prior_sigma": 5.7885,
-      "prior_n": 1
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Usse",
-      "path": "europe/france/centre/loirevalley/usse",
-      "prior_mu": 22.3036,
-      "prior_sigma": 4.6986,
-      "prior_n": 2
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Ouarzazate",
-      "path": "africa/morocco/ouarzazate",
-      "prior_mu": 22.7177,
-      "prior_sigma": 5.9493,
-      "prior_n": 1
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Gy\u0151r",
-      "path": "europe/hungary/gyor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Valence",
-      "path": "europe/france/alpes/valence",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Skarsv\u00e5g",
-      "path": "europe/norway/northcape/skarsvg_the_nort",
-      "prior_mu": 21.8103,
-      "prior_sigma": 4.8154,
-      "prior_n": 2
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Saratoga",
-      "path": "northamerica/unitedstates/wyoming/saratoga",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Somba villages",
-      "path": "africa/benin/sombavillages",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Gonarezhou",
-      "path": "africa/zimbabwe/gonarezhou",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Livingston",
-      "path": "northamerica/guatemala/livingstone",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Newry",
-      "path": "europe/unitedkingdom/northernireland/newry",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Palangka Raya",
-      "path": "asia/indonesia/kalimantan/palangka_raya",
-      "prior_mu": 22.5164,
-      "prior_sigma": 5.5623,
-      "prior_n": 1
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Col\u00f3n",
-      "path": "northamerica/panama/colon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Malange",
-      "path": "africa/angola/malange",
-      "prior_mu": 22.5285,
-      "prior_sigma": 5.9137,
-      "prior_n": 1
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

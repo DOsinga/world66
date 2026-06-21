@@ -1,0 +1,200 @@
+{
+  "round": 3120,
+  "timestamp": "2026-06-13T22:30:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 7.2196,
+      "prior_variance": 0.288482,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 7.81,
+      "prior_variance": 0.176589,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 5.0992,
+      "prior_variance": 0.162175,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 7.5519,
+      "prior_variance": 0.187414,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Hardangervidda National Park",
+      "path": "europe/norway/hardangerviddanationalpark",
+      "prior_score": 4.2354,
+      "prior_variance": 0.153395,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 4.6115,
+      "prior_variance": 0.150083,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 3.4607,
+      "prior_variance": 0.148129,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 3.8985,
+      "prior_variance": 0.14354,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 6.3453,
+      "prior_variance": 0.212273,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 4.5152,
+      "prior_variance": 0.186929,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.4117,
+      "prior_variance": 0.148994,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 5.0736,
+      "prior_variance": 0.217759,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 2.5168,
+      "prior_variance": 0.146289,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 0.4886,
+      "prior_variance": 0.126839,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.305,
+      "prior_variance": 0.123906,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.6486,
+      "prior_variance": 0.130848,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -1.2131,
+      "prior_variance": 0.126882,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 0.737,
+      "prior_variance": 0.123926,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": 1.0943,
+      "prior_variance": 0.129197,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.6059,
+      "prior_variance": 0.140642,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.0987,
+      "prior_variance": 0.164822,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.5979,
+      "prior_variance": 0.136962,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -4.0825,
+      "prior_variance": 0.142462,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -4.958,
+      "prior_variance": 0.164223,
+      "prior_n": 10
+    }
+  ]
+}

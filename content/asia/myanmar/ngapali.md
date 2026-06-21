@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ngapali_beach_and_surround
 latitude: 18.4333
 loc_type: city
 longitude: 94.3167
-score: 0.53
+score: 0.45
 title: Ngapali
 type: location
 ---

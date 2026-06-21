@@ -9,7 +9,7 @@ latitude: 51.888264
 longitude: -8.591841
 title: Ballincollig
 type: location
-score: 0.37
+score: 0.31
 loc_type: city
 ---
 

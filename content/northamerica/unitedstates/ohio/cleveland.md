@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024_Solar_Eclipse_over_Cl
 latitude: 41.499657
 loc_type: city
 longitude: -81.693677
-score: 0.42
+score: 0.35
 title: Cleveland
 type: location
 ---

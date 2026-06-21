@@ -1,0 +1,200 @@
+{
+  "round": 2882,
+  "timestamp": "2026-06-13T22:13:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.98,
+      "prior_variance": 0.192246,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 5.9442,
+      "prior_variance": 0.1451,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.6009,
+      "prior_variance": 0.217187,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.2525,
+      "prior_variance": 0.139361,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": 0.1085,
+      "prior_variance": 0.161993,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.1735,
+      "prior_variance": 0.216564,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 0.7412,
+      "prior_variance": 0.16405,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 1.8197,
+      "prior_variance": 0.154586,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.4776,
+      "prior_variance": 0.131248,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.6629,
+      "prior_variance": 0.137619,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.2989,
+      "prior_variance": 0.128701,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": -0.0876,
+      "prior_variance": 0.132066,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.729,
+      "prior_variance": 0.1844,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -0.6094,
+      "prior_variance": 0.134809,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.2124,
+      "prior_variance": 0.125821,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_score": -1.5185,
+      "prior_variance": 0.140439,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.4521,
+      "prior_variance": 0.144202,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.877,
+      "prior_variance": 0.164046,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.3237,
+      "prior_variance": 0.146863,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -0.7073,
+      "prior_variance": 0.136409,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.2187,
+      "prior_variance": 0.191931,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -3.8088,
+      "prior_variance": 0.162201,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.688,
+      "prior_variance": 0.156192,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -5.2352,
+      "prior_variance": 0.366876,
+      "prior_n": 9
+    }
+  ]
+}

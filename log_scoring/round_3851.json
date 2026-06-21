@@ -1,0 +1,200 @@
+{
+  "round": 3851,
+  "timestamp": "2026-06-13T23:24:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 5.9502,
+      "prior_variance": 0.154751,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.0104,
+      "prior_variance": 0.119029,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.6168,
+      "prior_variance": 0.151561,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 3.669,
+      "prior_variance": 0.110883,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 3.0242,
+      "prior_variance": 0.13666,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.3259,
+      "prior_variance": 0.113565,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 1.42,
+      "prior_variance": 0.128268,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 4.7265,
+      "prior_variance": 0.127404,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.3778,
+      "prior_variance": 0.118918,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 3.6752,
+      "prior_variance": 0.133293,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_guixols",
+      "prior_score": 2.986,
+      "prior_variance": 0.10614,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 4.5656,
+      "prior_variance": 0.115627,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.544,
+      "prior_variance": 0.102356,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 0.0139,
+      "prior_variance": 0.113941,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.1802,
+      "prior_variance": 0.105302,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": 0.9265,
+      "prior_variance": 0.115356,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 3.6962,
+      "prior_variance": 0.102664,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.4193,
+      "prior_variance": 0.106857,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 1.0128,
+      "prior_variance": 0.107766,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 2.0559,
+      "prior_variance": 0.108423,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -1.6232,
+      "prior_variance": 0.096404,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -1.8537,
+      "prior_variance": 0.103753,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.5636,
+      "prior_variance": 0.127298,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.7477,
+      "prior_variance": 0.125891,
+      "prior_n": 12
+    }
+  ]
+}

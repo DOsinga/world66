@@ -1,0 +1,200 @@
+{
+  "round": 4831,
+  "timestamp": "2026-06-14T00:45:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 6.7292,
+      "prior_variance": 0.148518,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.793,
+      "prior_variance": 0.115837,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.2548,
+      "prior_variance": 0.091964,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 3.6101,
+      "prior_variance": 0.095126,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 2.5077,
+      "prior_variance": 0.085909,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.8898,
+      "prior_variance": 0.098038,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 1.8031,
+      "prior_variance": 0.082383,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.8244,
+      "prior_variance": 0.081928,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.6701,
+      "prior_variance": 0.081208,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.5641,
+      "prior_variance": 0.097519,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.0599,
+      "prior_variance": 0.081642,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -0.63,
+      "prior_variance": 0.087029,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": -0.4391,
+      "prior_variance": 0.097451,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -1.7253,
+      "prior_variance": 0.085166,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": -0.2782,
+      "prior_variance": 0.084652,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -1.4603,
+      "prior_variance": 0.080449,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.6852,
+      "prior_variance": 0.085629,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.6044,
+      "prior_variance": 0.094117,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -2.0191,
+      "prior_variance": 0.086621,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.6333,
+      "prior_variance": 0.095457,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.2465,
+      "prior_variance": 0.09348,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -2.5204,
+      "prior_variance": 0.084632,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -2.6833,
+      "prior_variance": 0.084154,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -4.708,
+      "prior_variance": 0.127857,
+      "prior_n": 15
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_Ocotepeque_Honduras
 latitude: 14.4348
 loc_type: city
 longitude: -89.1836
-score: 0.34
+score: 0.28
 title: Ocotepeque
 type: location
 ---

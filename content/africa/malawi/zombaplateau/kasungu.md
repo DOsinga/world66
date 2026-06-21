@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kasungu_lifupa2.jpg
 latitude: -12.992179
 loc_type: city
 longitude: 33.472454
-score: 0.23
+score: 0.24
 title: Kasungu
 type: location
 ---

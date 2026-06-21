@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_Temple,_Gulmarg.jp
 latitude: 34.04897
 loc_type: city
 longitude: 74.39212
-score: 0.63
+score: 0.5
 title: Gulmarg
 type: location
 ---

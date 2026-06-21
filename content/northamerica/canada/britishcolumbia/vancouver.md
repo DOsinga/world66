@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 49.260872
 longitude: -123.113952
-score: 0.76
+score: 0.66
 title: Vancouver
 type: location
 loc_type: city

@@ -1,0 +1,200 @@
+{
+  "round": 3375,
+  "timestamp": "2026-06-13T22:49:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.5069,
+      "prior_variance": 0.127184,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -1.1252,
+      "prior_variance": 0.11289,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -2.3777,
+      "prior_variance": 0.109552,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Western Qing Tombs",
+      "path": "asia/china/hebei/western_qing_tombs",
+      "prior_score": -0.0894,
+      "prior_variance": 0.149082,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.2755,
+      "prior_variance": 0.125615,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.9086,
+      "prior_variance": 0.183547,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.9833,
+      "prior_variance": 0.199728,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -3.3563,
+      "prior_variance": 0.139576,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -5.0641,
+      "prior_variance": 0.142169,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -5.3447,
+      "prior_variance": 0.168325,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -4.9702,
+      "prior_variance": 0.13886,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -5.6796,
+      "prior_variance": 0.161873,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -5.7961,
+      "prior_variance": 0.155287,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.7464,
+      "prior_variance": 0.162461,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -5.9347,
+      "prior_variance": 0.175702,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -7.074,
+      "prior_variance": 0.189906,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -4.4116,
+      "prior_variance": 0.145495,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -5.9583,
+      "prior_variance": 0.170374,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -6.5797,
+      "prior_variance": 0.1857,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -6.8252,
+      "prior_variance": 0.184694,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.2009,
+      "prior_variance": 0.178782,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -7.3562,
+      "prior_variance": 0.216364,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -11.1581,
+      "prior_variance": 0.344507,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.4333,
+      "prior_variance": 0.381277,
+      "prior_n": 10
+    }
+  ]
+}

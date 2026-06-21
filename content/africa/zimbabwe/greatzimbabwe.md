@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Encl
 latitude: -20.2709
 loc_type: city
 longitude: 30.9332
-score: 0.55
+score: 0.47
 title: Great Zimbabwe
 type: location
 ---

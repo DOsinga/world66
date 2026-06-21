@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Piacenza
 title: Piacenza
 type: location
+score: 0.46
 ---
 
 Piacenza is a city in Emilia-Romagna, on the south bank of the Po at the point where the river descends from the Alps and the Apennines converge. It is the westernmost city in Emilia — closer to Milan than to [Bologna](/europe/italy/emiliaromagna/bologna) — and has a character distinct from the other Emilian cities: more compact, less known, with a medieval and Renaissance core of considerable quality that most tourists bypass entirely. Piacenza was a Roman colony (Placentia) and later one of the key cities of the Lombard League; in the 16th century it became the seat of the Farnese duchy.

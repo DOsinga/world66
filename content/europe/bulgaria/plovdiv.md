@@ -5,7 +5,7 @@ done:
 latitude: 42.141854
 loc_type: city
 longitude: 24.74993
-score: 0.6
+score: 0.56
 title: Plovdiv
 type: location
 ---

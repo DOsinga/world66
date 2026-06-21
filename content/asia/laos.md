@@ -15,7 +15,7 @@ quick_facts:
   Budget Meal: "~$1-2"
   Forest Cover: "~50%"
   UXO Contamination: "most bombed country"
-score: 0.61
+score: 0.69
 loc_type: country
 ---
 

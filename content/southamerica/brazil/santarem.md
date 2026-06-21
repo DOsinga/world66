@@ -5,7 +5,7 @@ done:
 latitude: -2.4385
 loc_type: city
 longitude: -54.6996
-score: 0.43
+score: 0.33
 title: Santarém
 type: location
 image: santarem.jpg

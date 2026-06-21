@@ -1,200 +1,200 @@
 {
   "round": 815,
-  "timestamp": "2026-04-12T10:49:22",
+  "timestamp": "2026-06-13T19:55:14",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Antibes",
-      "path": "europe/france/midi/cotedazur/antibes",
-      "prior_mu": 22.4914,
-      "prior_sigma": 3.9558,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.7483,
+      "prior_variance": 0.658604,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Playa del Carmen",
-      "path": "northamerica/mexico/yucatan/playadelcarmen",
-      "prior_mu": 24.8608,
-      "prior_sigma": 4.1455,
-      "prior_n": 3
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -7.1308,
+      "prior_variance": 0.922625,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Kumamoto",
-      "path": "asia/japan/kyushu/kumamoto",
-      "prior_mu": 25.9624,
-      "prior_sigma": 6.1406,
-      "prior_n": 1
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -6.6835,
+      "prior_variance": 0.521474,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Cabarete",
-      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
-      "prior_mu": 22.4605,
-      "prior_sigma": 5.5436,
-      "prior_n": 1
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -6.9603,
+      "prior_variance": 0.782148,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Pa\u0161man Island",
-      "path": "europe/croatia/pasman_island",
-      "prior_mu": 22.4481,
-      "prior_sigma": 5.696,
-      "prior_n": 1
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -5.8787,
+      "prior_variance": 0.803033,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Brindisi",
-      "path": "europe/italy/puglia/brindisi",
-      "prior_mu": 21.9846,
-      "prior_sigma": 4.6362,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -7.0588,
+      "prior_variance": 0.874475,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Bray",
-      "path": "europe/ireland/bray",
-      "prior_mu": 21.6164,
-      "prior_sigma": 4.4847,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -7.0071,
+      "prior_variance": 0.660412,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "La Serena",
-      "path": "southamerica/chile/laserena",
-      "prior_mu": 21.8948,
-      "prior_sigma": 4.5013,
-      "prior_n": 2
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -7.2265,
+      "prior_variance": 0.466509,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Souillac",
-      "path": "africa/mauritius/souillac",
-      "prior_mu": 21.4838,
-      "prior_sigma": 4.4242,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -8.5191,
+      "prior_variance": 1.056143,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Bend",
-      "path": "northamerica/unitedstates/oregon/bend",
-      "prior_mu": 21.0434,
-      "prior_sigma": 2.3542,
-      "prior_n": 7
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -5.4082,
+      "prior_variance": 0.902327,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Grebbestad",
-      "path": "europe/sweden/grebbestad",
-      "prior_mu": 22.185,
-      "prior_sigma": 5.4326,
-      "prior_n": 1
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -8.574,
+      "prior_variance": 0.657593,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Morelia",
-      "path": "northamerica/mexico/morelia",
-      "prior_mu": 22.0048,
-      "prior_sigma": 4.6845,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -6.9798,
+      "prior_variance": 1.114453,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Bellingen",
-      "path": "australiaandpacific/australia/newsouthwales/bellingen",
-      "prior_mu": 22.5103,
-      "prior_sigma": 5.4104,
-      "prior_n": 1
-    },
-    {
-      "rank": 14,
-      "title": "Patriata",
-      "path": "asia/pakistan/patriata",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 15,
-      "title": "Khujand",
-      "path": "asia/tajikistan/khojend",
-      "prior_mu": 22.2392,
-      "prior_sigma": 5.4306,
-      "prior_n": 1
-    },
-    {
-      "rank": 16,
-      "title": "Playa Bergantin",
-      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
-      "prior_mu": 22.2437,
-      "prior_sigma": 5.6894,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "Enewetak Atoll",
-      "path": "australiaandpacific/marshallislands/enewetokatoll",
-      "prior_mu": 22.1042,
-      "prior_sigma": 5.2742,
-      "prior_n": 1
-    },
-    {
-      "rank": 18,
-      "title": "Kinshasa",
-      "path": "africa/congokinshasa/kinshasa",
-      "prior_mu": 24.4843,
-      "prior_sigma": 3.8202,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Mansoura",
-      "path": "africa/egypt/mansoura",
-      "prior_mu": 22.2977,
-      "prior_sigma": 5.8678,
-      "prior_n": 1
-    },
-    {
-      "rank": 20,
-      "title": "Bussy",
-      "path": "europe/france/around_paris/bussy",
-      "prior_mu": 18.4749,
-      "prior_sigma": 4.6739,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -6.5787,
+      "prior_variance": 1.341719,
       "prior_n": 2
     },
     {
+      "rank": 14,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -7.1604,
+      "prior_variance": 0.733294,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -4.4939,
+      "prior_variance": 0.624537,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -6.1632,
+      "prior_variance": 0.979707,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -7.223,
+      "prior_variance": 0.630592,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -5.7957,
+      "prior_variance": 0.589302,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -7.9252,
+      "prior_variance": 0.756787,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -7.2746,
+      "prior_variance": 0.488923,
+      "prior_n": 3
+    },
+    {
       "rank": 21,
-      "title": "Florence",
-      "path": "northamerica/unitedstates/southcarolina/florence",
-      "prior_mu": 21.5289,
-      "prior_sigma": 4.5244,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -9.5151,
+      "prior_variance": 1.342705,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Bedford",
-      "path": "northamerica/unitedstates/indiana/bedford",
-      "prior_mu": 21.0078,
-      "prior_sigma": 4.5369,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -6.047,
+      "prior_variance": 0.773992,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Weatherford",
-      "path": "northamerica/unitedstates/oklahoma/weatherford",
-      "prior_mu": 21.7986,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -6.1119,
+      "prior_variance": 0.635374,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Vandalia",
-      "path": "northamerica/unitedstates/illinois/vandalia",
-      "prior_mu": 20.8278,
-      "prior_sigma": 3.7015,
-      "prior_n": 3
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -6.9582,
+      "prior_variance": 0.705494,
+      "prior_n": 2
     }
   ]
 }

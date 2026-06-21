@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haleiwa_bridge.jpg
 latitude: 21.587627
 loc_type: city
 longitude: -158.103565
-score: 0.67
+score: 0.55
 title: Haleiwa
 type: location
 ---

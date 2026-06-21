@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-08-21_01_MV_HIGHLANDE
 latitude: 47.5777
 loc_type: city
 longitude: -59.1424
-score: 0.4
+score: 0.31
 title: Channel-Port aux Basques
 type: location
 ---

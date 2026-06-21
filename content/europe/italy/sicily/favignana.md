@@ -14,6 +14,7 @@ sources:
 - https://www.infopointfavignana.it/en/what-to-see-favignana/
 title: Favignana
 type: location
+score: 0.58
 ---
 
 Favignana is the largest of the Egadi Islands, a low, bright island off western [Sicily](/europe/italy/sicily) where limestone coves, old tuna-fishing wealth, and clear water do most of the talking. From [Marsala](/europe/italy/sicily/marsala) or Trapani it looks close enough to touch on a clear day, and the hydrofoil ride is short enough to make the island tempting even as a day trip.

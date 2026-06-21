@@ -5,7 +5,7 @@ latitude: 26.791753
 longitude: 37.951807
 title: Mada'in Salih (Hegra)
 type: location
-score: 0.6
+score: 0.53
 loc_type: feature
 ---
 

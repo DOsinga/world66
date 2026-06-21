@@ -1,0 +1,200 @@
+{
+  "round": 3535,
+  "timestamp": "2026-06-13T23:01:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 7.487,
+      "prior_variance": 0.175155,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 5.9957,
+      "prior_variance": 0.13377,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 4.9702,
+      "prior_variance": 0.138205,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 5.4337,
+      "prior_variance": 0.127142,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 5.0414,
+      "prior_variance": 0.130019,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 5.5817,
+      "prior_variance": 0.13711,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 5.0026,
+      "prior_variance": 0.171672,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.0329,
+      "prior_variance": 0.154714,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.2947,
+      "prior_variance": 0.123235,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 5.7282,
+      "prior_variance": 0.15612,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.4362,
+      "prior_variance": 0.133402,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 4.9093,
+      "prior_variance": 0.131048,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 3.8973,
+      "prior_variance": 0.132189,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 4.735,
+      "prior_variance": 0.12313,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.3897,
+      "prior_variance": 0.133967,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 3.4184,
+      "prior_variance": 0.136736,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.8736,
+      "prior_variance": 0.120606,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 6.0006,
+      "prior_variance": 0.147478,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 3.3786,
+      "prior_variance": 0.132202,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 5.2241,
+      "prior_variance": 0.146522,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.5093,
+      "prior_variance": 0.120929,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 3.6018,
+      "prior_variance": 0.13083,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.428,
+      "prior_variance": 0.104508,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.0911,
+      "prior_variance": 0.102091,
+      "prior_n": 13
+    }
+  ]
+}

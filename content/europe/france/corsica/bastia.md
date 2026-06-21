@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bastia,_A_Marina,_Vechju_P
 latitude: 42.699398
 loc_type: city
 longitude: 9.450919
-score: 0.62
+score: 0.53
 title: Bastia
 type: location
 ---

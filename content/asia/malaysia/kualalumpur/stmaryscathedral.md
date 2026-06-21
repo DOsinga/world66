@@ -1,12 +1,15 @@
 ---
-title: "St. Mary's Cathedral"
-type: poi
 latitude: 3.1504
 longitude: 101.6933
-tags:
-  - things_to_do
-  - sight
 score: 6.8
+snippet: KL's oldest Anglican church, built in 1894 with English Gothic architecture
+  and original 1898 stained glass
+tags:
+- things_to_do
+- sight
+- masjid_india
+title: St. Mary's Cathedral
+type: poi
 ---
 
 The Anglican cathedral of KL, designed by colonial architect A. C. Norman and consecrated in 1894. It is a modest brick-and-stone Early English Gothic Revival building — a small piece of English parish church transplanted to a tropical city — and its low slate roof and pointed spire stand out among the surrounding modern offices on the north side of Merdeka Square.

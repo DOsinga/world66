@@ -5,7 +5,7 @@ done:
 latitude: 6.769726
 loc_type: city
 longitude: 47.430826
-score: 0.18
+score: 0.09
 title: Galkayo
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Battambang_
 latitude: 12.925679
 loc_type: city
 longitude: 103.231714
-score: 0.55
+score: 0.47
 title: Battambang
 type: location
 ---

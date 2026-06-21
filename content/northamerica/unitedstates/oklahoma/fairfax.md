@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:First_National_Bank_and_Ma
 latitude: 36.573
 loc_type: city
 longitude: -96.704
-score: 0.28
+score: 0.22
 title: Fairfax
 type: location
 ---

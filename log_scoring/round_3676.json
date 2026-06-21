@@ -1,0 +1,200 @@
+{
+  "round": 3676,
+  "timestamp": "2026-06-13T23:11:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 5.9682,
+      "prior_variance": 0.164532,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 8.4903,
+      "prior_variance": 0.180486,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.4184,
+      "prior_variance": 0.154128,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.2077,
+      "prior_variance": 0.105866,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 5.784,
+      "prior_variance": 0.147354,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 4.5173,
+      "prior_variance": 0.162248,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.3072,
+      "prior_variance": 0.147341,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.79,
+      "prior_variance": 0.116339,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster",
+      "prior_score": -0.4837,
+      "prior_variance": 0.107016,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -3.1981,
+      "prior_variance": 0.126223,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.267,
+      "prior_variance": 0.105997,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.3341,
+      "prior_variance": 0.111248,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.8941,
+      "prior_variance": 0.110344,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.6246,
+      "prior_variance": 0.113499,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -4.1192,
+      "prior_variance": 0.116723,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.5166,
+      "prior_variance": 0.103491,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -4.9698,
+      "prior_variance": 0.158403,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -3.8226,
+      "prior_variance": 0.115082,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -3.707,
+      "prior_variance": 0.121092,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -6.3688,
+      "prior_variance": 0.139777,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.2217,
+      "prior_variance": 0.14902,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_score": -6.9622,
+      "prior_variance": 0.201338,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.2895,
+      "prior_variance": 0.15953,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.3057,
+      "prior_variance": 0.240704,
+      "prior_n": 11
+    }
+  ]
+}

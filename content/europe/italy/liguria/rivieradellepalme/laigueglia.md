@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laigueglia,_veduta_dal_mol
 latitude: 43.978826
 loc_type: city
 longitude: 8.157351
-score: 0.58
+score: 0.51
 title: Laigueglia
 type: location
 ---

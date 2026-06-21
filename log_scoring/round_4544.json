@@ -1,0 +1,200 @@
+{
+  "round": 4544,
+  "timestamp": "2026-06-14T00:21:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 8.1605,
+      "prior_variance": 0.143088,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 6.0581,
+      "prior_variance": 0.196366,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 6.8023,
+      "prior_variance": 0.119482,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 4.2965,
+      "prior_variance": 0.106186,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 4.8413,
+      "prior_variance": 0.104522,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 2.8275,
+      "prior_variance": 0.090757,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 2.5128,
+      "prior_variance": 0.084853,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.2259,
+      "prior_variance": 0.091521,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 1.1418,
+      "prior_variance": 0.095041,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 1.0207,
+      "prior_variance": 0.081452,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.2827,
+      "prior_variance": 0.088757,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.1077,
+      "prior_variance": 0.081058,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.656,
+      "prior_variance": 0.117064,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -0.2486,
+      "prior_variance": 0.090347,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -1.6184,
+      "prior_variance": 0.09803,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.546,
+      "prior_variance": 0.103779,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.3436,
+      "prior_variance": 0.089151,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": -0.2412,
+      "prior_variance": 0.111462,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -1.827,
+      "prior_variance": 0.093463,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.2733,
+      "prior_variance": 0.094037,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -2.5184,
+      "prior_variance": 0.101442,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.5014,
+      "prior_variance": 0.085822,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -2.8962,
+      "prior_variance": 0.138503,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -7.3595,
+      "prior_variance": 0.14135,
+      "prior_n": 15
+    }
+  ]
+}

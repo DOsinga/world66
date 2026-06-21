@@ -5,7 +5,7 @@ done:
 latitude: 50.455
 loc_type: city
 longitude: 3.952
-score: 0.49
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Mons
 title: Mons

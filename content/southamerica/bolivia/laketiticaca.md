@@ -5,7 +5,7 @@ latitude: -16.0167
 longitude: -69.15
 title: Lake Titicaca
 type: location
-score: 0.67
+score: 0.6
 loc_type: feature
 ---
 

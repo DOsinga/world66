@@ -1,4 +1,5 @@
 ---
+score: 0.61
 title: Dominican Republic
 type: location
 loc_type: country

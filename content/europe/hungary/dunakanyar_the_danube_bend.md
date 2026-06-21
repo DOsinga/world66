@@ -5,7 +5,7 @@ done:
 latitude: 47.7667
 loc_type: city
 longitude: 18.9167
-score: 0.58
+score: 0.5
 title: Dunakanyar (The Danube Bend)
 type: location
 ---

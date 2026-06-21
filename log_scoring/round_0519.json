@@ -1,200 +1,200 @@
 {
   "round": 519,
-  "timestamp": "2026-04-12T09:45:18",
+  "timestamp": "2026-06-13T19:40:18",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Maastricht",
-      "path": "europe/netherlands/maastricht",
-      "prior_mu": 28.4353,
-      "prior_sigma": 3.5713,
-      "prior_n": 6
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -7.8613,
+      "prior_variance": 1.757291,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "De Efteling",
-      "path": "europe/netherlands/deefteling",
-      "prior_mu": 25.2298,
-      "prior_sigma": 3.5147,
-      "prior_n": 4
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -10.1181,
+      "prior_variance": 1.421141,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "De Zaanse Schans",
-      "path": "europe/netherlands/dezaanseschans",
-      "prior_mu": 23.3843,
-      "prior_sigma": 2.8388,
-      "prior_n": 6
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -7.9566,
+      "prior_variance": 2.383684,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Den Bosch",
-      "path": "europe/netherlands/denbosch",
-      "prior_mu": 22.4873,
-      "prior_sigma": 5.7023,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -13.9721,
+      "prior_variance": 7.638856,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Ameland",
-      "path": "europe/netherlands/waddenislands/ameland_island",
-      "prior_mu": 21.2947,
-      "prior_sigma": 3.1364,
-      "prior_n": 4
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -8.3335,
+      "prior_variance": 9.682181,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Midsland",
-      "path": "europe/netherlands/waddenislands/terschelling_islan/midsland",
-      "prior_mu": 21.3996,
-      "prior_sigma": 2.7682,
-      "prior_n": 6
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -8.8732,
+      "prior_variance": 2.614711,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Weerribben National Park",
-      "path": "europe/netherlands/weerribben_np",
-      "prior_mu": 20.8107,
-      "prior_sigma": 3.1256,
-      "prior_n": 5
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -12.4545,
+      "prior_variance": 1.568562,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Arnhem",
-      "path": "europe/netherlands/arnhem",
-      "prior_mu": 21.2448,
-      "prior_sigma": 3.3982,
-      "prior_n": 4
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -9.8205,
+      "prior_variance": 1.5941,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Breda",
-      "path": "europe/netherlands/breda",
-      "prior_mu": 21.2936,
-      "prior_sigma": 3.6879,
-      "prior_n": 3
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -14.3381,
+      "prior_variance": 7.15544,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Apeldoorn",
-      "path": "europe/netherlands/apeldoorn",
-      "prior_mu": 21.1451,
-      "prior_sigma": 3.6232,
-      "prior_n": 3
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -13.3684,
+      "prior_variance": 7.943092,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Leeuwarden",
-      "path": "europe/netherlands/friesland/leeuwarden",
-      "prior_mu": 21.493,
-      "prior_sigma": 3.5874,
-      "prior_n": 3
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -9.4337,
+      "prior_variance": 3.094705,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Harlingen",
-      "path": "europe/netherlands/friesland/harlingen",
-      "prior_mu": 21.1633,
-      "prior_sigma": 3.8799,
-      "prior_n": 3
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -9.7193,
+      "prior_variance": 1.721268,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Tilburg",
-      "path": "europe/netherlands/tilburg",
-      "prior_mu": 21.1979,
-      "prior_sigma": 3.8336,
-      "prior_n": 3
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -11.9868,
+      "prior_variance": 8.332608,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Vlissingen",
-      "path": "europe/netherlands/vlissingen",
-      "prior_mu": 20.8445,
-      "prior_sigma": 3.3261,
-      "prior_n": 4
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -10.8688,
+      "prior_variance": 1.55637,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Bloemendaal",
-      "path": "europe/netherlands/bloemendaal",
-      "prior_mu": 20.835,
-      "prior_sigma": 3.3511,
-      "prior_n": 4
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -9.3017,
+      "prior_variance": 1.622757,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Dokkum",
-      "path": "europe/netherlands/friesland/dokkum",
-      "prior_mu": 21.4429,
-      "prior_sigma": 4.2016,
-      "prior_n": 2
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -11.6296,
+      "prior_variance": 8.324286,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Den Helder",
-      "path": "europe/netherlands/denhelder",
-      "prior_mu": 20.9545,
-      "prior_sigma": 3.0498,
-      "prior_n": 4
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -8.4242,
+      "prior_variance": 1.394123,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Stavoren",
-      "path": "europe/netherlands/friesland/stavoren",
-      "prior_mu": 21.095,
-      "prior_sigma": 3.2415,
-      "prior_n": 4
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -12.3545,
+      "prior_variance": 3.862414,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Hilversum",
-      "path": "europe/netherlands/hilversum",
-      "prior_mu": 21.5622,
-      "prior_sigma": 4.1448,
-      "prior_n": 2
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/england/norfolk/lenwade_great_wit",
+      "prior_score": -9.5361,
+      "prior_variance": 1.58185,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Heerlen",
-      "path": "europe/netherlands/heerlen",
-      "prior_mu": 20.6118,
-      "prior_sigma": 2.8362,
-      "prior_n": 5
+      "title": "Linyi",
+      "path": "asia/china/shandong_province/linyi",
+      "prior_score": -9.1428,
+      "prior_variance": 10.131855,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Laren",
-      "path": "europe/netherlands/laren",
-      "prior_mu": 21.5094,
-      "prior_sigma": 4.1043,
-      "prior_n": 2
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -8.4145,
+      "prior_variance": 5.772944,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Oss",
-      "path": "europe/netherlands/oss",
-      "prior_mu": 20.0536,
-      "prior_sigma": 3.7858,
-      "prior_n": 3
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -8.6608,
+      "prior_variance": 2.863902,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Holwerd",
-      "path": "europe/netherlands/friesland/holwerd",
-      "prior_mu": 20.8697,
-      "prior_sigma": 3.5128,
-      "prior_n": 3
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -13.8818,
+      "prior_variance": 7.561594,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Kielwindeweer",
-      "path": "europe/netherlands/kielwindeweer",
-      "prior_mu": 16.9213,
-      "prior_sigma": 3.3193,
-      "prior_n": 4
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -10.3348,
+      "prior_variance": 2.132224,
+      "prior_n": 1
     }
   ]
 }

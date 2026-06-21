@@ -1,200 +1,200 @@
 {
   "round": 1403,
-  "timestamp": "2026-04-12T22:25:49",
+  "timestamp": "2026-06-13T20:28:30",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Holgu\u00edn",
-      "path": "northamerica/cuba/holguin",
-      "prior_rank": 5871,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.068,
+      "prior_variance": 0.488106,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Tallahassee",
-      "path": "northamerica/unitedstates/florida/tallahassee",
-      "prior_rank": 4527,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 5.6015,
+      "prior_variance": 0.365233,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Toms River",
-      "path": "northamerica/unitedstates/newjersey/toms_river",
-      "prior_rank": 7398,
-      "prior_wins": 20,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 4.4472,
+      "prior_variance": 0.336455,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Prior Lake",
-      "path": "northamerica/unitedstates/minnesota/priorlake",
-      "prior_rank": 7389,
-      "prior_wins": 25,
-      "prior_n": 5
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 2.932,
+      "prior_variance": 0.327827,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "American Canyon",
-      "path": "northamerica/unitedstates/california/american_canyon",
-      "prior_rank": 6395,
-      "prior_wins": 29,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 6.0514,
+      "prior_variance": 0.377079,
       "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Miramar",
-      "path": "northamerica/unitedstates/florida/miramar",
-      "prior_rank": 7262,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": -0.1541,
+      "prior_variance": 0.356151,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Douglaston",
-      "path": "northamerica/unitedstates/newyorkstate/douglaston",
-      "prior_rank": 7800,
-      "prior_wins": 11,
-      "prior_n": 3
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 4.3752,
+      "prior_variance": 0.408922,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Elanora",
-      "path": "australiaandpacific/australia/queensland/elanora",
-      "prior_rank": 7624,
-      "prior_wins": 17,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.6079,
+      "prior_variance": 0.292402,
       "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Fort Scott",
-      "path": "northamerica/unitedstates/kansas/fortscott",
-      "prior_rank": 7544,
-      "prior_wins": 18,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.6908,
+      "prior_variance": 0.29328,
       "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Oologah",
-      "path": "northamerica/unitedstates/oklahoma/oolagah",
-      "prior_rank": 7976,
-      "prior_wins": 14,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_score": -2.6448,
+      "prior_variance": 0.389994,
       "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Pie Town",
-      "path": "northamerica/unitedstates/newmexico/pie_town",
-      "prior_rank": 7819,
-      "prior_wins": 18,
-      "prior_n": 5
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -1.9511,
+      "prior_variance": 0.399985,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Limache",
-      "path": "southamerica/chile/limache",
-      "prior_rank": 7835,
-      "prior_wins": 21,
-      "prior_n": 6
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.9427,
+      "prior_variance": 0.32309,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Calder\u00f3n",
-      "path": "southamerica/ecuador/calderon",
-      "prior_rank": 7654,
-      "prior_wins": 21,
-      "prior_n": 5
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.2171,
+      "prior_variance": 0.342674,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Tagum City",
-      "path": "asia/philippines/tagumcity",
-      "prior_rank": 6934,
-      "prior_wins": 24,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.8592,
+      "prior_variance": 0.333783,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Aneho",
-      "path": "africa/togo/aneho",
-      "prior_rank": 7670,
-      "prior_wins": 16,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.5231,
+      "prior_variance": 0.333308,
       "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Mochudi",
-      "path": "africa/botswana/mochudi",
-      "prior_rank": 3302,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.1513,
+      "prior_variance": 0.30672,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Aligarh",
-      "path": "asia/india/uttarpradesh/aligarh",
-      "prior_rank": 7611,
-      "prior_wins": 13,
-      "prior_n": 3
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -1.9905,
+      "prior_variance": 0.288151,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Monterrey",
-      "path": "northamerica/mexico/yucatan/monterrey",
-      "prior_rank": 7403,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -3.9526,
+      "prior_variance": 0.376228,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Water",
-      "path": "northamerica/costarica/travelinformation/water",
-      "prior_rank": 4743,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -6.4968,
+      "prior_variance": 0.293478,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Forest Hill",
-      "path": "europe/unitedkingdom/england/london/foresthill",
-      "prior_rank": 7705,
-      "prior_wins": 12,
-      "prior_n": 3
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -6.1292,
+      "prior_variance": 0.361348,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Cheboksary",
-      "path": "europe/russia/chuvashia/cheboksary",
-      "prior_rank": 7124,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -7.2479,
+      "prior_variance": 0.450611,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Chuvashia",
-      "path": "europe/russia/chuvashia",
-      "prior_rank": 6843,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -5.8865,
+      "prior_variance": 0.314457,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Borama",
-      "path": "africa/somaliland/borama",
-      "prior_rank": 3930,
-      "prior_wins": 48,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -8.5391,
+      "prior_variance": 0.407381,
       "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Resolute",
-      "path": "northamerica/canada/nunavut/resolute",
-      "prior_rank": 7268,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -12.2449,
+      "prior_variance": 0.805623,
+      "prior_n": 4
     }
   ]
 }

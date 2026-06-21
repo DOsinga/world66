@@ -5,7 +5,7 @@ done:
 latitude: 22.1565
 loc_type: city
 longitude: -100.9855
-score: 0.51
+score: 0.44
 title: San Luis Potosí
 type: location
 ---

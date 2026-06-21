@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190921T113802_Royal_Bota
 latitude: 43.3249
 loc_type: city
 longitude: -79.7967
-score: 0.39
+score: 0.33
 title: Burlington
 type: location
 ---

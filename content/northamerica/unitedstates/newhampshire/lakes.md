@@ -5,7 +5,7 @@ latitude: 43.53
 longitude: -71.47
 title: Lakes Region
 type: location
-score: 0.53
+score: 0.43
 loc_type: feature
 ---
 

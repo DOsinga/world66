@@ -1,0 +1,200 @@
+{
+  "round": 4485,
+  "timestamp": "2026-06-14T00:16:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 5.6608,
+      "prior_variance": 0.111453,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 5.7335,
+      "prior_variance": 0.130898,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 4.1478,
+      "prior_variance": 0.106622,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 4.6643,
+      "prior_variance": 0.114477,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 3.3813,
+      "prior_variance": 0.133364,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 4.9341,
+      "prior_variance": 0.113083,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 4.1057,
+      "prior_variance": 0.110558,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 2.8776,
+      "prior_variance": 0.107906,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 3.0583,
+      "prior_variance": 0.118013,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_score": 3.3974,
+      "prior_variance": 0.099552,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 3.9994,
+      "prior_variance": 0.120414,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 1.8627,
+      "prior_variance": 0.092723,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.1117,
+      "prior_variance": 0.088196,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 1.2383,
+      "prior_variance": 0.089117,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": 0.469,
+      "prior_variance": 0.096436,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 3.2613,
+      "prior_variance": 0.104362,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.258,
+      "prior_variance": 0.089896,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 0.8523,
+      "prior_variance": 0.090059,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": -0.342,
+      "prior_variance": 0.110394,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -1.0453,
+      "prior_variance": 0.125778,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -2.6548,
+      "prior_variance": 0.094025,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -2.7789,
+      "prior_variance": 0.106745,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -2.1772,
+      "prior_variance": 0.101916,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -4.0022,
+      "prior_variance": 0.134938,
+      "prior_n": 15
+    }
+  ]
+}

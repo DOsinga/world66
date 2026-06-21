@@ -1,0 +1,200 @@
+{
+  "round": 4171,
+  "timestamp": "2026-06-13T23:51:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 9.7214,
+      "prior_variance": 0.284154,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 6.8191,
+      "prior_variance": 0.132184,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.3,
+      "prior_variance": 0.15224,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_score": 5.9356,
+      "prior_variance": 0.135216,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 5.7894,
+      "prior_variance": 0.138109,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 2.4683,
+      "prior_variance": 0.10399,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.0665,
+      "prior_variance": 0.113565,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 3.7182,
+      "prior_variance": 0.114891,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 1.2234,
+      "prior_variance": 0.102244,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.7988,
+      "prior_variance": 0.094728,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.1591,
+      "prior_variance": 0.094906,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.6166,
+      "prior_variance": 0.096824,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.9219,
+      "prior_variance": 0.097455,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 0.1462,
+      "prior_variance": 0.106317,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.1921,
+      "prior_variance": 0.096201,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": -1.1169,
+      "prior_variance": 0.106682,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.6577,
+      "prior_variance": 0.104986,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -3.3823,
+      "prior_variance": 0.121391,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -4.3767,
+      "prior_variance": 0.105084,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -4.4479,
+      "prior_variance": 0.096308,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -3.9883,
+      "prior_variance": 0.1059,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -2.1576,
+      "prior_variance": 0.127187,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -8.9765,
+      "prior_variance": 0.219108,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.6576,
+      "prior_variance": 0.226469,
+      "prior_n": 13
+    }
+  ]
+}

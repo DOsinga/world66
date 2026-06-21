@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_de_Sainte_Cro
 latitude: 45.479091
 loc_type: city
 longitude: 4.646935
-score: 0.47
+score: 0.42
 title: Sainte-Croix-en-Jarez
 type: location
 ---

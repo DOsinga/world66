@@ -6,7 +6,7 @@ done:
 latitude: 42.050137
 loc_type: city
 longitude: -8.646641
-score: 0.52
+score: 0.44
 title: Tui
 type: location
 ---

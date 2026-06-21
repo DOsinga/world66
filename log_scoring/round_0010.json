@@ -1,103 +1,199 @@
 {
   "round": 10,
-  "timestamp": "2026-04-11T15:40:06",
+  "timestamp": "2026-06-13T19:15:37",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "St. George's",
-      "path": "northamerica/grenada/stgeorges",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Arugam Bay",
-      "path": "asia/srilanka/arugam_bay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Palolem",
-      "path": "asia/india/goa/palolim",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Lucban",
-      "path": "asia/philippines/quezon_province/lucban",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Aba",
-      "path": "asia/china/aba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Qatar",
-      "path": "asia/qatar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Purwokerto",
-      "path": "asia/indonesia/java/purwokerto",
-      "prior_mu": 22.72,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Lethbridge",
-      "path": "northamerica/canada/alberta/lethbridge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Sebastopol",
-      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Mont-Laurier",
-      "path": "northamerica/canada/quebec/montlaurier",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "chakwal",
-      "path": "asia/pakistan/soon_valley/chakwal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Ruskin",
-      "path": "northamerica/unitedstates/florida/ruskin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Dezhou",
+      "path": "asia/china/shandong_province/dezhou",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

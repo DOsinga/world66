@@ -1,199 +1,199 @@
 {
   "round": 459,
-  "timestamp": "2026-04-12T09:31:36",
+  "timestamp": "2026-06-13T19:36:19",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "France",
-      "path": "europe/france",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 14.9516,
+      "prior_variance": 3.166085,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Cote d'Azur",
-      "path": "europe/france/midi/cotedazur",
-      "prior_mu": 31.6788,
-      "prior_sigma": 6.4963,
-      "prior_n": 2
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 12.9968,
+      "prior_variance": 2.237817,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Bordeaux",
-      "path": "europe/france/wine/bordeaux",
-      "prior_mu": 22.7168,
-      "prior_sigma": 4.9142,
-      "prior_n": 2
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 17.9959,
+      "prior_variance": 6.343983,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Burgundy",
-      "path": "europe/france/wine/burgundy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 15.785,
+      "prior_variance": 6.993668,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Amboise",
-      "path": "europe/france/centre/loirevalley/amboise",
-      "prior_mu": 24.8506,
-      "prior_sigma": 4.8011,
-      "prior_n": 2
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 11.5777,
+      "prior_variance": 6.515811,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Antibes",
-      "path": "europe/france/midi/cotedazur/antibes",
-      "prior_mu": 25.063,
-      "prior_sigma": 6.0812,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 9.5205,
+      "prior_variance": 3.996514,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Dinan",
-      "path": "europe/france/normandybrittany/dinan",
-      "prior_mu": 21.9883,
-      "prior_sigma": 4.8424,
-      "prior_n": 2
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 12.6276,
+      "prior_variance": 8.307367,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Troyes",
-      "path": "europe/france/east/champagne/troyes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 14.5278,
+      "prior_variance": 7.450785,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "V\u00e9zelay",
-      "path": "europe/france/east/burgundy/vezelay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 14.7534,
+      "prior_variance": 7.363024,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Grenoble",
-      "path": "europe/france/alpes/grenoble",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 12.7081,
+      "prior_variance": 3.430489,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Epernay",
-      "path": "europe/france/nord/epernay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 9.8747,
+      "prior_variance": 1.53295,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Mont Aigoual",
-      "path": "europe/france/midi/cevennes/mont_aigoual",
-      "prior_mu": 22.5256,
-      "prior_sigma": 5.9134,
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 9.2201,
+      "prior_variance": 4.01554,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Ardeche",
-      "path": "europe/france/midi/ardeche",
-      "prior_mu": 22.4025,
-      "prior_sigma": 5.4939,
+      "title": "Niagara Falls",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier/niagarafalls",
+      "prior_score": 13.2681,
+      "prior_variance": 3.390416,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Chartres",
-      "path": "europe/france/centre/chartres",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 6.4936,
+      "prior_variance": 2.19345,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Carnac",
-      "path": "europe/france/aquitaine/carnac",
-      "prior_mu": 25.2974,
-      "prior_sigma": 5.3252,
-      "prior_n": 2
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 12.7212,
+      "prior_variance": 3.42909,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Courth\u00e9zon",
-      "path": "europe/france/alpes/courthezon",
-      "prior_mu": 21.1965,
-      "prior_sigma": 4.6097,
-      "prior_n": 2
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 7.938,
+      "prior_variance": 2.075837,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Langeais",
-      "path": "europe/france/centre/loirevalley/langeais",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 9.1526,
+      "prior_variance": 2.043419,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Le Mans",
-      "path": "europe/france/centre/lemans",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 8.4801,
+      "prior_variance": 1.726807,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Mesnil-Val",
-      "path": "europe/france/normandybrittany/mesnilval",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 7.0476,
+      "prior_variance": 1.689484,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Mont-de-Marsan",
-      "path": "europe/france/aquitaine/montdemarsan",
-      "prior_mu": 23.0638,
-      "prior_sigma": 5.581,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 11.5243,
+      "prior_variance": 2.575678,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Sarrebourg",
-      "path": "europe/france/east/lorraine/sarrebourg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 9.7128,
+      "prior_variance": 10.12538,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Cuzy",
-      "path": "europe/france/east/cuzy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 10.1655,
+      "prior_variance": 2.219298,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "My homepage",
-      "path": "europe/france/val_disere/my_homepage",
-      "prior_mu": 22.0344,
-      "prior_sigma": 4.5541,
-      "prior_n": 2
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 6.0976,
+      "prior_variance": 5.624001,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "My homepage",
-      "path": "europe/france/val_disere/my_homepage_1",
-      "prior_mu": 22.7176,
-      "prior_sigma": 5.9493,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 4.4123,
+      "prior_variance": 1.638558,
       "prior_n": 1
     }
   ]

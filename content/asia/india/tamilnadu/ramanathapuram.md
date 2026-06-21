@@ -5,7 +5,7 @@ done:
 latitude: 9.520558
 loc_type: city
 longitude: 78.518463
-score: 0.36
+score: 0.28
 title: Ramanathapuram
 type: location
 ---

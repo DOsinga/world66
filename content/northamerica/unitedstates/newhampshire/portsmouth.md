@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portsmouth_Guildhall_-_geo
 latitude: 43.0718
 loc_type: city
 longitude: -70.7626
-score: 0.53
+score: 0.45
 title: Portsmouth
 type: location
 ---

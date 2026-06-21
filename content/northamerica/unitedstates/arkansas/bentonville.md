@@ -5,7 +5,7 @@ done:
 latitude: 36.372861
 loc_type: city
 longitude: -94.208787
-score: 0.37
+score: 0.36
 title: Bentonville
 type: location
 ---

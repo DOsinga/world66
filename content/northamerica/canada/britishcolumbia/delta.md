@@ -6,7 +6,7 @@ done:
 latitude: 49.084626
 loc_type: city
 longitude: -123.057938
-score: 0.35
+score: 0.3
 title: Delta
 type: location
 ---

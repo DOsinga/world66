@@ -9,6 +9,7 @@ snippet: Vast contemporary art museum in a converted power station
 tags:
 - things_to_do
 - museum
+- the_bund
 title: Power Station of Art
 type: poi
 score: 7.5

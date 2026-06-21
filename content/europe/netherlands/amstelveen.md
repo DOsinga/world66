@@ -5,7 +5,7 @@ done:
 latitude: 52.3028
 loc_type: city
 longitude: 4.8597
-score: 0.41
+score: 0.33
 title: Amstelveen
 type: location
 ---

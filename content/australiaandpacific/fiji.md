@@ -15,7 +15,7 @@ quick_facts:
   Number of Islands: "333"
   English: "Widely spoken — one of three official languages"
   Greeting: Bula (said to everyone, everywhere)
-score: 0.72
+score: 0.63
 loc_type: country
 ---
 

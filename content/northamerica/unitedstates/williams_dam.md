@@ -4,7 +4,7 @@ done:
 latitude: 38.7986
 loc_type: city
 longitude: -86.6383
-score: 0.23
+score: 0.18
 title: Williams Dam
 todo_location_cleanup: done
 type: location

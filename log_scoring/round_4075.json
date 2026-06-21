@@ -1,0 +1,200 @@
+{
+  "round": 4075,
+  "timestamp": "2026-06-13T23:41:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 4.2435,
+      "prior_variance": 0.103593,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 5.3027,
+      "prior_variance": 0.117367,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.5526,
+      "prior_variance": 0.108968,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 4.7203,
+      "prior_variance": 0.132278,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.7492,
+      "prior_variance": 0.109765,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.2587,
+      "prior_variance": 0.116188,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.305,
+      "prior_variance": 0.110438,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 3.2664,
+      "prior_variance": 0.117252,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.1669,
+      "prior_variance": 0.116447,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.3022,
+      "prior_variance": 0.121395,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -2.0453,
+      "prior_variance": 0.115734,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -1.8568,
+      "prior_variance": 0.109568,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -1.3484,
+      "prior_variance": 0.092529,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.3646,
+      "prior_variance": 0.106846,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.5672,
+      "prior_variance": 0.099562,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.2658,
+      "prior_variance": 0.095681,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.5974,
+      "prior_variance": 0.120075,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.1842,
+      "prior_variance": 0.104938,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -3.9161,
+      "prior_variance": 0.107039,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -6.0546,
+      "prior_variance": 0.125649,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -3.9505,
+      "prior_variance": 0.126307,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.4586,
+      "prior_variance": 0.124121,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.3687,
+      "prior_variance": 0.144596,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.5663,
+      "prior_variance": 0.159812,
+      "prior_n": 13
+    }
+  ]
+}

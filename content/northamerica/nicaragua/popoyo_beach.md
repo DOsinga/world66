@@ -5,7 +5,7 @@ done:
 latitude: 11.4847
 loc_type: city
 longitude: -86.0978
-score: 0.47
+score: 0.4
 title: Popoyo Beach
 type: location
 ---

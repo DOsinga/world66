@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_ville_d%27El_Oued_%D9%8
 latitude: 33.215441
 loc_type: city
 longitude: 7.155321
-score: 0.29
+score: 0.28
 title: El Oued
 type: location
 ---

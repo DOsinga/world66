@@ -5,7 +5,7 @@ done:
 latitude: 48.007385
 loc_type: city
 longitude: 0.196785
-score: 0.53
+score: 0.46
 title: Le Mans
 type: location
 image: lemans.jpg

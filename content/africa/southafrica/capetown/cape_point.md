@@ -2,6 +2,7 @@
 category: Nature Reserve
 latitude: -34.3568
 longitude: 18.4972
+score: 9.4
 scores:
   activities: 0.5854
   sightseeing: 0.6495
@@ -14,9 +15,9 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+- southern_peninsula
 title: Cape Point and Cape of Good Hope
 type: poi
-score: 9.4
 ---
 
 Cape Point and the adjoining Cape of Good Hope are the dramatic, weather-beaten tip of the Cape Peninsula, an hour and a half south of central Cape Town. The reserve covers about 7,750 hectares of fynbos, dunes, beaches and rocky coast, and is home to baboons, eland, ostrich and the endemic bontebok.

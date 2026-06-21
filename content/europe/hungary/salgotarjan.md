@@ -5,7 +5,7 @@ done:
 latitude: 48.096068
 loc_type: city
 longitude: 19.800564
-score: 0.35
+score: 0.29
 title: Salgotarjan
 type: location
 ---

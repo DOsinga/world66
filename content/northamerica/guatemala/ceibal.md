@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruines_El_Ceibal.JPG
 latitude: 16.4167
 loc_type: city
 longitude: -90.1667
-score: 0.38
+score: 0.42
 title: Ceibal
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cinema_Avenida_-_Sidi_Ifni
 latitude: 29.3791
 loc_type: city
 longitude: -10.1716
-score: 0.46
+score: 0.4
 title: Sidi Ifni
 type: location
 ---

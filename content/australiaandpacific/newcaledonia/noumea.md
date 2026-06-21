@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_over_Noumea.jpg
 latitude: -22.274526
 loc_type: city
 longitude: 166.442419
-score: 0.62
+score: 0.51
 title: Nouméa
 type: location
 ---

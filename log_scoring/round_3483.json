@@ -1,0 +1,200 @@
+{
+  "round": 3483,
+  "timestamp": "2026-06-13T22:57:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 5.5684,
+      "prior_variance": 0.142462,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.4935,
+      "prior_variance": 0.138877,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 5.8904,
+      "prior_variance": 0.148637,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.0887,
+      "prior_variance": 0.116979,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": 0.3408,
+      "prior_variance": 0.192394,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 0.7249,
+      "prior_variance": 0.116744,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 1.4394,
+      "prior_variance": 0.108092,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -1.2238,
+      "prior_variance": 0.135895,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 0.4133,
+      "prior_variance": 0.127911,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 0.9638,
+      "prior_variance": 0.116472,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -0.6069,
+      "prior_variance": 0.107819,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.2306,
+      "prior_variance": 0.137176,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.0962,
+      "prior_variance": 0.10882,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": -0.2078,
+      "prior_variance": 0.129038,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.4114,
+      "prior_variance": 0.121496,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.3534,
+      "prior_variance": 0.119799,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -0.0753,
+      "prior_variance": 0.116139,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": -0.0234,
+      "prior_variance": 0.111984,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.4658,
+      "prior_variance": 0.131095,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.315,
+      "prior_variance": 0.107775,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -3.0705,
+      "prior_variance": 0.121601,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -3.9095,
+      "prior_variance": 0.143056,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.354,
+      "prior_variance": 0.160745,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.4693,
+      "prior_variance": 0.106121,
+      "prior_n": 12
+    }
+  ]
+}

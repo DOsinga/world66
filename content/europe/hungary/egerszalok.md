@@ -5,7 +5,7 @@ done:
 latitude: 47.870233
 loc_type: city
 longitude: 20.323833
-score: 0.49
+score: 0.43
 title: Egerszalók
 type: location
 ---

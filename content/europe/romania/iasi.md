@@ -6,7 +6,7 @@ done:
 latitude: 47.16156
 loc_type: city
 longitude: 27.583781
-score: 0.5
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Ia%C8%99i
 title: Iași

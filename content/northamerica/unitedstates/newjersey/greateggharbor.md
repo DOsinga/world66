@@ -5,7 +5,7 @@ done:
 latitude: 39.515542
 loc_type: city
 longitude: -74.382172
-score: 0.35
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Great_Bay_(New_Jersey)
 title: Great Egg Harbor

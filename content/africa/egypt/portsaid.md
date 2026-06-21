@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Said,_Egypt,_Beach_of
 latitude: 31.2632
 loc_type: city
 longitude: 32.3055
-score: 0.41
+score: 0.36
 title: Port Said
 type: location
 ---

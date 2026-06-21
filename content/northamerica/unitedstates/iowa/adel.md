@@ -5,7 +5,7 @@ done:
 latitude: 41.617412
 loc_type: city
 longitude: -94.018518
-score: 0.23
+score: 0.22
 title: Adel
 type: location
 ---

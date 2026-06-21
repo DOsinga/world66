@@ -1,0 +1,200 @@
+{
+  "round": 2901,
+  "timestamp": "2026-06-13T22:15:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 2.8618,
+      "prior_variance": 0.176687,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Zhouzhuang",
+      "path": "asia/china/jiangsu_province/zhouzhuang",
+      "prior_score": 3.691,
+      "prior_variance": 0.135457,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 3.6554,
+      "prior_variance": 0.142151,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.6682,
+      "prior_variance": 0.15703,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 3.7847,
+      "prior_variance": 0.160516,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 4.3585,
+      "prior_variance": 0.161968,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.1503,
+      "prior_variance": 0.147792,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 2.078,
+      "prior_variance": 0.166025,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.4297,
+      "prior_variance": 0.184003,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.8951,
+      "prior_variance": 0.139402,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Borgo Maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.7702,
+      "prior_variance": 0.133999,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 2.2017,
+      "prior_variance": 0.17407,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -1.082,
+      "prior_variance": 0.147435,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.8763,
+      "prior_variance": 0.144238,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 1.8876,
+      "prior_variance": 0.153028,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 1.895,
+      "prior_variance": 0.164263,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bear Lake",
+      "path": "northamerica/unitedstates/utah/bearlake",
+      "prior_score": 0.882,
+      "prior_variance": 0.153328,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 1.1463,
+      "prior_variance": 0.153874,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 1.1439,
+      "prior_variance": 0.158418,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Tianyahaijiao",
+      "path": "asia/china/hainanisland/tianyahaijiao",
+      "prior_score": 0.6231,
+      "prior_variance": 0.190712,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.0625,
+      "prior_variance": 0.139439,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": -0.176,
+      "prior_variance": 0.14118,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.315,
+      "prior_variance": 0.143272,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -6.0605,
+      "prior_variance": 0.232526,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9304
 longitude: 18.4205
-neighbourhood: City Bowl
+score: 7.7
 scores:
   activities: 0.6038
   museum: 0.6431
@@ -15,7 +14,6 @@ tags:
 - city_bowl
 title: Rust en Vreugd
 type: poi
-score: 7.7
 ---
 
 Rust en Vreugd (Rest and Joy) is one of the finest surviving eighteenth-century townhouses in central Cape Town, built around 1778 for the state prosecutor Willem Cornelis Boers. The double-storey Cape Dutch building, with its elaborate teak doorway carved by Anton Anreith, opens onto a formal terraced garden.

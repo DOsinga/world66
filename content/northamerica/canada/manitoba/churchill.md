@@ -5,7 +5,7 @@ done:
 latitude: 58.7693
 loc_type: city
 longitude: -94.1737
-score: 0.58
+score: 0.51
 title: Churchill
 type: location
 ---

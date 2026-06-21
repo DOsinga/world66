@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Tam_Gia
 latitude: 16.373383
 loc_type: city
 longitude: 107.876348
-score: 0.53
+score: 0.47
 sources:
 - https://en.wikipedia.org/wiki/Tam_Giang%E2%80%93C%E1%BA%A7u_Hai_Lagoon
 title: Tam Giang Lagoon

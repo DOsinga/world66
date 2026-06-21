@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Phils_Davao_City_San_Pedro
 latitude: 7.064831
 loc_type: city
 longitude: 125.608062
-score: 0.49
+score: 0.4
 title: Davao
 type: location
 ---

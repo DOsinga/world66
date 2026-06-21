@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BUSCALAN_RICE_TERRACES.jpg
 latitude: 17.46
 loc_type: city
 longitude: 121.31
-score: 0.48
+score: 0.37
 title: Kalinga
 type: location
 ---

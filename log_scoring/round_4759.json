@@ -1,0 +1,200 @@
+{
+  "round": 4759,
+  "timestamp": "2026-06-14T00:39:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 11.3857,
+      "prior_variance": 0.236015,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 8.321,
+      "prior_variance": 0.160722,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.2683,
+      "prior_variance": 0.109454,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.7925,
+      "prior_variance": 0.115931,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 7.0841,
+      "prior_variance": 0.123504,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 4.8467,
+      "prior_variance": 0.089299,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 4.1913,
+      "prior_variance": 0.093075,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 4.5209,
+      "prior_variance": 0.121437,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_score": 0.9528,
+      "prior_variance": 0.097612,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": -0.1214,
+      "prior_variance": 0.083402,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -1.0774,
+      "prior_variance": 0.11133,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -3.2497,
+      "prior_variance": 0.089747,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -1.8017,
+      "prior_variance": 0.082545,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.7077,
+      "prior_variance": 0.09254,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.3373,
+      "prior_variance": 0.086134,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.4214,
+      "prior_variance": 0.094267,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.6053,
+      "prior_variance": 0.111758,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/england/suffolk/lowestoft",
+      "prior_score": -3.3455,
+      "prior_variance": 0.095376,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -2.7789,
+      "prior_variance": 0.090884,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -3.2268,
+      "prior_variance": 0.092006,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.4595,
+      "prior_variance": 0.092141,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -4.1973,
+      "prior_variance": 0.102586,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -5.0024,
+      "prior_variance": 0.12054,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.7738,
+      "prior_variance": 0.136274,
+      "prior_n": 16
+    }
+  ]
+}

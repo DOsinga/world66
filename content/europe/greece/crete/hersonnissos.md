@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_the_Port_of_He
 latitude: 35.2975
 loc_type: city
 longitude: 25.3967
-score: 0.56
+score: 0.52
 title: Hersonissos
 type: location
 ---

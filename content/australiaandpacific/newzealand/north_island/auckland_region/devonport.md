@@ -5,7 +5,7 @@ done:
 latitude: -36.829731
 loc_type: city
 longitude: 174.797538
-score: 0.54
+score: 0.47
 title: Devonport
 type: location
 image: devonport.jpg

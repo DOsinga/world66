@@ -1,200 +1,200 @@
 {
   "round": 1541,
-  "timestamp": "2026-04-13T10:29:46",
+  "timestamp": "2026-06-13T20:36:42",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Oranjestad",
-      "path": "northamerica/aruba/oranjestad",
-      "prior_score": 5.9578,
-      "prior_variance": 0.575247,
-      "prior_n": 3
-    },
-    {
-      "rank": 2,
-      "title": "Rhode Island",
-      "path": "northamerica/unitedstates/rhodeisland",
-      "prior_score": -1.1324,
-      "prior_variance": 0.302601,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 5.5346,
+      "prior_variance": 0.308211,
       "prior_n": 5
     },
     {
+      "rank": 2,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 6.1907,
+      "prior_variance": 0.638023,
+      "prior_n": 4
+    },
+    {
       "rank": 3,
-      "title": "Rose-Hill",
-      "path": "africa/mauritius/rosehill",
-      "prior_score": -0.689,
-      "prior_variance": 0.420559,
-      "prior_n": 3
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 5.8614,
+      "prior_variance": 0.337256,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Bangor, Wales",
-      "path": "europe/unitedkingdom/wales/bangor_wales",
-      "prior_score": -1.1687,
-      "prior_variance": 0.329332,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 6.2067,
+      "prior_variance": 0.392168,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Campobasso",
-      "path": "europe/italy/molise/campobasso",
-      "prior_score": -3.2751,
-      "prior_variance": 0.325108,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 5.1416,
+      "prior_variance": 0.303032,
       "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Vemdalen",
-      "path": "europe/sweden/vemdalen",
-      "prior_score": -0.5526,
-      "prior_variance": 0.351487,
-      "prior_n": 4
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 5.26,
+      "prior_variance": 0.275962,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Mikkeli",
-      "path": "europe/finland/mikkeli",
-      "prior_score": -1.0871,
-      "prior_variance": 0.468056,
-      "prior_n": 3
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 5.8248,
+      "prior_variance": 0.345597,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Tonder",
-      "path": "europe/denmark/tonder",
-      "prior_score": -0.7939,
-      "prior_variance": 0.314876,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 5.4035,
+      "prior_variance": 0.329822,
       "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Vayots Dzor Marz",
-      "path": "europe/armenia/vayots_dzor_marz",
-      "prior_score": -1.4725,
-      "prior_variance": 0.421887,
-      "prior_n": 3
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 5.0539,
+      "prior_variance": 0.341245,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Lushoto",
-      "path": "africa/tanzania/lushoto",
-      "prior_score": -0.6915,
-      "prior_variance": 0.342686,
-      "prior_n": 4
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.2921,
+      "prior_variance": 0.298439,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Ashbourne",
-      "path": "europe/unitedkingdom/england/ashbourne",
-      "prior_score": -0.9132,
-      "prior_variance": 0.368229,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.1966,
+      "prior_variance": 0.472377,
       "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Ny\u00edregyh\u00e1za",
-      "path": "europe/hungary/nyiregyhaza",
-      "prior_score": -1.5892,
-      "prior_variance": 0.372823,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 3.3105,
+      "prior_variance": 0.332621,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Sault Ste. Marie",
-      "path": "northamerica/canada/ontario/sault_ste_marie",
-      "prior_score": -1.1178,
-      "prior_variance": 0.405202,
-      "prior_n": 4
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.4774,
+      "prior_variance": 0.348528,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Redding",
-      "path": "northamerica/unitedstates/california/shastacascade/redding",
-      "prior_score": -2.4757,
-      "prior_variance": 0.520444,
-      "prior_n": 3
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.4216,
+      "prior_variance": 0.270677,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Lippstadt",
-      "path": "europe/germany/northrhinewestphalia/lippstadt",
-      "prior_score": -3.3872,
-      "prior_variance": 0.336947,
-      "prior_n": 4
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 6.479,
+      "prior_variance": 0.331791,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Bergen",
-      "path": "europe/netherlands/bergen",
-      "prior_score": -1.5011,
-      "prior_variance": 0.174174,
-      "prior_n": 9
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 3.9435,
+      "prior_variance": 0.274595,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Chapel Hill",
-      "path": "northamerica/unitedstates/northcarolina/chapelhill",
-      "prior_score": -1.6728,
-      "prior_variance": 0.332263,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 6.2364,
+      "prior_variance": 0.347545,
       "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Ben Lomond",
-      "path": "northamerica/unitedstates/california/ben_lomond_califo",
-      "prior_score": -2.3556,
-      "prior_variance": 0.469123,
-      "prior_n": 3
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.2251,
+      "prior_variance": 0.446266,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "La Palma",
-      "path": "northamerica/elsalvador/lapalma",
-      "prior_score": -2.3248,
-      "prior_variance": 0.526806,
-      "prior_n": 3
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 1.0834,
+      "prior_variance": 0.252712,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Banjarmasin",
-      "path": "asia/indonesia/banjarmasin",
-      "prior_score": -2.0514,
-      "prior_variance": 0.525515,
-      "prior_n": 3
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -1.2721,
+      "prior_variance": 0.252654,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Bah\u00eda Blanca",
-      "path": "southamerica/argentina/bahiablanca",
-      "prior_score": -2.9957,
-      "prior_variance": 0.368098,
-      "prior_n": 4
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -1.5283,
+      "prior_variance": 0.386745,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Canyon",
-      "path": "northamerica/unitedstates/texas/amarillo/canyon",
-      "prior_score": -2.9157,
-      "prior_variance": 0.390452,
-      "prior_n": 4
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -3.44,
+      "prior_variance": 0.263041,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Osh",
-      "path": "asia/kyrgyzstan/osh",
-      "prior_score": -0.4188,
-      "prior_variance": 0.395495,
-      "prior_n": 3
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -4.3005,
+      "prior_variance": 0.265468,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Qom",
-      "path": "asia/iran/qom",
-      "prior_score": -1.2516,
-      "prior_variance": 0.424655,
-      "prior_n": 3
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -5.0412,
+      "prior_variance": 0.289541,
+      "prior_n": 5
     }
   ]
 }

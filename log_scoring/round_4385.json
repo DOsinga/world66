@@ -1,0 +1,200 @@
+{
+  "round": 4385,
+  "timestamp": "2026-06-14T00:08:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 7.686,
+      "prior_variance": 0.170923,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/galicia/santiagodecompostela",
+      "prior_score": 7.2587,
+      "prior_variance": 0.163651,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.8774,
+      "prior_variance": 0.111406,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 5.3342,
+      "prior_variance": 0.109258,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 3.3998,
+      "prior_variance": 0.096336,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.7311,
+      "prior_variance": 0.10333,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 3.4086,
+      "prior_variance": 0.112317,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -2.0078,
+      "prior_variance": 0.090534,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.18,
+      "prior_variance": 0.101588,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.8621,
+      "prior_variance": 0.133121,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.0522,
+      "prior_variance": 0.095596,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/kenilworth",
+      "prior_score": -0.5356,
+      "prior_variance": 0.107319,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.7774,
+      "prior_variance": 0.158438,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -2.1738,
+      "prior_variance": 0.093604,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_score": -4.0842,
+      "prior_variance": 0.113797,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.5637,
+      "prior_variance": 0.101796,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.96,
+      "prior_variance": 0.09622,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -5.3371,
+      "prior_variance": 0.117825,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -3.2901,
+      "prior_variance": 0.094758,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.9783,
+      "prior_variance": 0.092909,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.2398,
+      "prior_variance": 0.174626,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.2445,
+      "prior_variance": 0.098386,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -5.0745,
+      "prior_variance": 0.107656,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -7.3617,
+      "prior_variance": 0.182859,
+      "prior_n": 14
+    }
+  ]
+}

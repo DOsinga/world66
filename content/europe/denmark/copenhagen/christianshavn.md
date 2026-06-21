@@ -1,10 +1,17 @@
 ---
-title: Christianshavn
-type: poi
-tags: [things_to_do, neighbourhood]
-latitude: 55.6730
-longitude: 12.5990
-score: 8.7
+image: christianshavn.jpg
+image_attribution: Thomas Rousing from Copenhagen, Denmark
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Christianshavns_Kanal_-_Kayaks.jpg
+latitude: 55.673
+longitude: 12.599
+snippet: Canal-lined maritime quarter housing both 18th-century townhouses and the
+  Freetown of Christiania
+tags:
+- things_to_do
+- neighbourhood
+title: Christianshavn and Christiania
+type: neighbourhood
 ---
 
 Christianshavn is the island just across the harbour from the old city centre, connected by the Knippelsbro bridge. It was built in the 17th century as a commercial and military harbour district — the grid of canals and Dutch-style brick buildings reflects that origin. Today it is a residential neighbourhood with a mix of long-time residents and newcomers, canal-side cafes, and Christiania at its southern end.

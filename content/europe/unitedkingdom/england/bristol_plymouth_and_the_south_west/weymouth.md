@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 50.609626
 longitude: -2.454342
-score: 0.49
+score: 0.43
 title: Weymouth
 type: location
 loc_type: city

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilrush_Town_Hall_-_geogra
 latitude: 52.634
 loc_type: city
 longitude: -9.4836
-score: 0.45
+score: 0.37
 title: Kilrush
 type: location
 ---

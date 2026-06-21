@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Graciosa.jpg
 latitude: 29.234
 loc_type: city
 longitude: -13.503
-score: 0.62
+score: 0.54
 title: La Graciosa
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1647,
-  "timestamp": "2026-04-13T10:38:37",
+  "timestamp": "2026-06-13T20:43:38",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Gothenburg",
-      "path": "europe/sweden/gothenburg",
-      "prior_score": 3.7327,
-      "prior_variance": 0.308482,
-      "prior_n": 4
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 6.6268,
+      "prior_variance": 0.451893,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Vilafranca del Bierzo",
-      "path": "europe/spain/galicia/vilafranca_del_bie",
-      "prior_score": -0.0365,
-      "prior_variance": 0.370424,
-      "prior_n": 4
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 3.8001,
+      "prior_variance": 0.27015,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Pertouli",
-      "path": "europe/greece/pertouli",
-      "prior_score": -1.1396,
-      "prior_variance": 0.403398,
-      "prior_n": 4
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.4305,
+      "prior_variance": 0.275317,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Carlow",
-      "path": "europe/ireland/carlow",
-      "prior_score": -0.6283,
-      "prior_variance": 0.337439,
-      "prior_n": 4
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.001,
+      "prior_variance": 0.326653,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Ouderkerk aan den IJssel",
-      "path": "europe/netherlands/ouderkerk_aan_den",
-      "prior_score": -5.5104,
-      "prior_variance": 0.233708,
-      "prior_n": 8
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 3.4181,
+      "prior_variance": 0.32684,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Hov",
-      "path": "europe/faroeislands/suuroy/hov",
-      "prior_score": -1.9378,
-      "prior_variance": 0.400872,
-      "prior_n": 4
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 2.5824,
+      "prior_variance": 0.256994,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Wonthaggi",
-      "path": "australiaandpacific/australia/victoria/wonthaggi",
-      "prior_score": -3.8043,
-      "prior_variance": 0.319444,
-      "prior_n": 4
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 2.9874,
+      "prior_variance": 0.250823,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Bialogard",
-      "path": "europe/poland/bialogard",
-      "prior_score": -5.9538,
-      "prior_variance": 0.247163,
-      "prior_n": 8
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 2.2529,
+      "prior_variance": 0.258978,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Tissamaharama",
-      "path": "asia/srilanka/tissamaharama",
-      "prior_score": -0.0562,
-      "prior_variance": 0.467788,
-      "prior_n": 4
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 4.0443,
+      "prior_variance": 0.381939,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Sumba",
-      "path": "asia/indonesia/sumba",
-      "prior_score": 4.406,
-      "prior_variance": 0.505944,
-      "prior_n": 4
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.9051,
+      "prior_variance": 0.263078,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Nyeri",
-      "path": "africa/kenya/centralhighlands/nyeri",
-      "prior_score": -1.3406,
-      "prior_variance": 0.287098,
-      "prior_n": 4
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.2798,
+      "prior_variance": 0.250687,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Santa Ana",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
-      "prior_score": -5.406,
-      "prior_variance": 0.50169,
-      "prior_n": 3
+      "title": "Almer\u00eda",
+      "path": "europe/spain/andalucia/almeria",
+      "prior_score": 2.55,
+      "prior_variance": 0.281873,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Price",
-      "path": "northamerica/unitedstates/utah/price",
-      "prior_score": -6.1327,
-      "prior_variance": 0.368799,
-      "prior_n": 4
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 2.3991,
+      "prior_variance": 0.264556,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Mannargudi",
-      "path": "asia/india/tamilnadu/mannargudi",
-      "prior_score": -5.8917,
-      "prior_variance": 0.391444,
-      "prior_n": 3
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.3244,
+      "prior_variance": 0.238818,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Mandsaur",
-      "path": "asia/india/madhyapradesh/mandsaur",
-      "prior_score": -5.4956,
-      "prior_variance": 0.318719,
-      "prior_n": 4
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.3535,
+      "prior_variance": 0.351037,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Sanandaj",
-      "path": "asia/iran/sanandaj",
-      "prior_score": -4.2875,
-      "prior_variance": 0.274507,
-      "prior_n": 7
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": -0.4333,
+      "prior_variance": 0.287678,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Mustafabad",
-      "path": "asia/pakistan/soon_valley/mustafabad",
-      "prior_score": -8.0809,
-      "prior_variance": 0.358197,
-      "prior_n": 4
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.2698,
+      "prior_variance": 0.282605,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Kahigala",
-      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
-      "prior_score": -6.8754,
-      "prior_variance": 0.521951,
-      "prior_n": 4
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.1192,
+      "prior_variance": 0.30228,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Nouamghar",
-      "path": "africa/mauritania/nouamghar",
-      "prior_score": -8.6248,
-      "prior_variance": 0.509914,
-      "prior_n": 4
+      "title": "Hu\u00e1nuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -2.1412,
+      "prior_variance": 0.301427,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "J\u00e9r\u00e9mie",
-      "path": "northamerica/haiti/jeremie",
-      "prior_score": -5.9551,
-      "prior_variance": 0.446132,
-      "prior_n": 4
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.8915,
+      "prior_variance": 0.240449,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Paniqui",
-      "path": "asia/philippines/paniqui",
-      "prior_score": -5.803,
-      "prior_variance": 0.331694,
-      "prior_n": 4
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -3.4746,
+      "prior_variance": 0.270308,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Rensselaer, Indiana",
-      "path": "northamerica/unitedstates/rensselaer_indian",
-      "prior_score": -5.9815,
-      "prior_variance": 0.418189,
-      "prior_n": 4
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -2.3967,
+      "prior_variance": 0.278895,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Caracas",
-      "path": "southamerica/venezuela/caracas",
-      "prior_score": -7.0311,
-      "prior_variance": 0.459859,
-      "prior_n": 4
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -4.8342,
+      "prior_variance": 0.277078,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Aleppo",
-      "path": "asia/syria/aleppo",
-      "prior_score": -8.8834,
-      "prior_variance": 0.544362,
-      "prior_n": 4
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -5.0912,
+      "prior_variance": 0.250577,
+      "prior_n": 6
     }
   ]
 }

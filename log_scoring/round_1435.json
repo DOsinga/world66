@@ -1,200 +1,200 @@
 {
   "round": 1435,
-  "timestamp": "2026-04-12T22:27:33",
+  "timestamp": "2026-06-13T20:30:26",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Montevideo",
-      "path": "southamerica/uruguay/montevideo",
-      "prior_rank": 1382,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 11.1482,
+      "prior_variance": 0.449,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Poland",
-      "path": "europe/poland",
-      "prior_rank": 2877,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 7.3821,
+      "prior_variance": 0.401298,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Iwate",
-      "path": "asia/japan/iwate",
-      "prior_rank": 3036,
-      "prior_wins": 40,
-      "prior_n": 3
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 7.1356,
+      "prior_variance": 0.33657,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Durango",
-      "path": "northamerica/unitedstates/colorado/durango",
-      "prior_rank": 1411,
-      "prior_wins": 66,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.7335,
+      "prior_variance": 0.330161,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Central Plateau",
-      "path": "australiaandpacific/newzealand/central_plateau",
-      "prior_rank": 1603,
-      "prior_wins": 48,
-      "prior_n": 3
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -1.7891,
+      "prior_variance": 0.287712,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Kapiti Coast",
-      "path": "australiaandpacific/newzealand/kapiti_coast",
-      "prior_rank": 4948,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 2.2608,
+      "prior_variance": 0.326781,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Turrialba",
-      "path": "northamerica/costarica/turrialba",
-      "prior_rank": 3984,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "B\u00e9ja",
+      "path": "africa/tunisia/beja",
+      "prior_score": -3.5704,
+      "prior_variance": 0.323817,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Casela",
-      "path": "africa/mauritius/casela",
-      "prior_rank": 2351,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -4.1267,
+      "prior_variance": 0.315335,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Gokarna",
-      "path": "asia/india/karnataka/gokarna",
-      "prior_rank": 2181,
-      "prior_wins": 60,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -3.3537,
+      "prior_variance": 0.301864,
       "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Kanyakumari",
-      "path": "asia/india/tamilnadu/kanya_kumari",
-      "prior_rank": 2290,
-      "prior_wins": 59,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -0.9198,
+      "prior_variance": 0.311689,
       "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Benidorm",
-      "path": "europe/spain/spanishcostas/benidorm",
-      "prior_rank": 3045,
-      "prior_wins": 40,
-      "prior_n": 3
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.8168,
+      "prior_variance": 0.293204,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Benalmadena",
-      "path": "europe/spain/spanishcostas/benalmadena",
-      "prior_rank": 2354,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_score": -2.8988,
+      "prior_variance": 0.329131,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Platja d'Aro",
-      "path": "europe/spain/catalonia/platjadaro",
-      "prior_rank": 2898,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -5.7245,
+      "prior_variance": 0.326741,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Plomari",
-      "path": "europe/greece/lesbos/plomari",
-      "prior_rank": 2343,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -3.4657,
+      "prior_variance": 0.322189,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Albenga",
-      "path": "europe/italy/liguria/albenga",
-      "prior_rank": 2539,
-      "prior_wins": 56,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -1.6003,
+      "prior_variance": 0.285672,
       "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Pa\u0161man Island",
-      "path": "europe/croatia/pasman_island",
-      "prior_rank": 4528,
-      "prior_wins": 32,
-      "prior_n": 3
-    },
-    {
-      "rank": 17,
-      "title": "Florac",
-      "path": "europe/france/midi/cevennes/florac",
-      "prior_rank": 3555,
-      "prior_wins": 49,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -6.1953,
+      "prior_variance": 0.45257,
       "prior_n": 4
     },
     {
+      "rank": 17,
+      "title": "Neum\u00fcnster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -3.6896,
+      "prior_variance": 0.284225,
+      "prior_n": 5
+    },
+    {
       "rank": 18,
-      "title": "Loue Valley",
-      "path": "europe/france/east/franchecomte/loue_valley",
-      "prior_rank": 2857,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -4.2356,
+      "prior_variance": 0.32126,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Nordingr\u00e5",
-      "path": "europe/sweden/the_high_coast/nordingr",
-      "prior_rank": 2336,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -2.9372,
+      "prior_variance": 0.323775,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Wells",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
-      "prior_rank": 3211,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.9042,
+      "prior_variance": 0.338116,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Old Rag Mountain",
-      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
-      "prior_rank": 560,
-      "prior_wins": 76,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.5887,
+      "prior_variance": 0.354479,
       "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Muhu Island",
-      "path": "europe/estonia/muhu_island",
-      "prior_rank": 1323,
-      "prior_wins": 67,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -4.0505,
+      "prior_variance": 0.292918,
       "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Zennor",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
-      "prior_rank": 2318,
-      "prior_wins": 59,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_score": -7.2674,
+      "prior_variance": 0.40473,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Hameenlinna",
-      "path": "europe/finland/hameenlinna",
-      "prior_rank": 5286,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -5.7006,
+      "prior_variance": 0.514541,
+      "prior_n": 4
     }
   ]
 }

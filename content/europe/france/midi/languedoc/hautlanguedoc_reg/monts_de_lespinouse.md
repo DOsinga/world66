@@ -5,7 +5,7 @@ latitude: 43.6
 longitude: 2.967
 title: Monts de l'Espinouse
 type: location
-score: 0.56
+score: 0.44
 loc_type: feature
 ---
 

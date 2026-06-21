@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Becak_Tugu_Muda_Semarang_C
 latitude: -6.9904
 loc_type: city
 longitude: 110.4229
-score: 0.5
+score: 0.42
 title: Semarang
 type: location
 ---

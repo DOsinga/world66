@@ -5,7 +5,7 @@ done:
 latitude: -2.2005
 loc_type: city
 longitude: -78.8469
-score: 0.56
+score: 0.49
 title: Alausi
 type: location
 ---

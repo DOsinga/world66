@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jedburgh_Castle_01.jpg
 latitude: 55.477643
 loc_type: city
 longitude: -2.555377
-score: 0.53
+score: 0.44
 title: Jedburgh
 type: location
 ---

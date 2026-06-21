@@ -5,7 +5,7 @@ done:
 latitude: 29.960331
 loc_type: city
 longitude: 31.263055
-score: 0.38
+score: 0.3
 title: Maadi
 type: location
 ---

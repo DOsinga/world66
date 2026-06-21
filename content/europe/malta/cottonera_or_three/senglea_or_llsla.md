@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fortificaci%C3%B3n_de_Seng
 latitude: 35.8875
 loc_type: city
 longitude: 14.5167
-score: 0.56
+score: 0.5
 title: Senglea
 type: location
 ---

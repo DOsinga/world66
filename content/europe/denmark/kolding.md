@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kolding_-_Slots%C3%B81.JPG
 latitude: 55.4895
 loc_type: city
 longitude: 9.47905
-score: 0.51
+score: 0.43
 title: Kolding
 type: location
 ---

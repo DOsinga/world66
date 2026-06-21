@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bantry_From_above.jpg
 latitude: 51.67977
 loc_type: city
 longitude: -9.45236
-score: 0.54
+score: 0.45
 title: Bantry
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Courchevel_1850_au_matin_(
 latitude: 45.414098
 loc_type: city
 longitude: 6.634989
-score: 0.71
+score: 0.59
 title: Courchevel
 type: location
 ---

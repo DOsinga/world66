@@ -1,0 +1,200 @@
+{
+  "round": 2667,
+  "timestamp": "2026-06-13T21:58:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 13.1667,
+      "prior_variance": 0.434315,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 10.8214,
+      "prior_variance": 0.44472,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 10.241,
+      "prior_variance": 0.384396,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": 4.5194,
+      "prior_variance": 0.190162,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 5.4489,
+      "prior_variance": 0.187083,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 5.2831,
+      "prior_variance": 0.192143,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.5872,
+      "prior_variance": 0.162053,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.2447,
+      "prior_variance": 0.154856,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.6827,
+      "prior_variance": 0.240497,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.5468,
+      "prior_variance": 0.157984,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.3278,
+      "prior_variance": 0.183373,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.2966,
+      "prior_variance": 0.147878,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 1.6463,
+      "prior_variance": 0.157298,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.8664,
+      "prior_variance": 0.136398,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 2.6961,
+      "prior_variance": 0.163036,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -2.2514,
+      "prior_variance": 0.157059,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.1212,
+      "prior_variance": 0.155564,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 2.1257,
+      "prior_variance": 0.152869,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -1.3527,
+      "prior_variance": 0.168825,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.0334,
+      "prior_variance": 0.140542,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.3659,
+      "prior_variance": 0.138027,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 1.3714,
+      "prior_variance": 0.151251,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.437,
+      "prior_variance": 0.155678,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.8394,
+      "prior_variance": 0.162798,
+      "prior_n": 9
+    }
+  ]
+}

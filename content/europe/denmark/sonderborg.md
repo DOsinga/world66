@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Harbour_of_S%C3%B8nderborg
 latitude: 54.908919
 loc_type: city
 longitude: 9.7898
-score: 0.5
+score: 0.41
 title: Sønderborg
 type: location
 ---

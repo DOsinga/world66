@@ -4,15 +4,15 @@ done:
   location_enrich: '2026-06-01'
 latitude: 49.4301
 longitude: 2.082336
-score: 0.46
+score: 0.37
 title: Beauvais
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Beauvais
-  - https://en.wikipedia.org/wiki/Beauvais_Cathedral
-  - https://en.wikipedia.org/wiki/Basse_%C5%92uvre
-  - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_de_l%27Oise
+- https://en.wikipedia.org/wiki/Beauvais
+- https://en.wikipedia.org/wiki/Beauvais_Cathedral
+- https://en.wikipedia.org/wiki/Basse_%C5%92uvre
+- https://en.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_de_l%27Oise
 ---
 
 Most visitors arrive in Beauvais by budget airline and leave on the next bus to Paris, never quite intending to stop. That's a mistake. The city has one genuinely extraordinary thing — the Cathédrale Saint-Pierre de Beauvais — and it is among the most remarkable buildings in France.

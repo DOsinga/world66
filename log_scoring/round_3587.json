@@ -1,0 +1,200 @@
+{
+  "round": 3587,
+  "timestamp": "2026-06-13T23:05:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 7.5071,
+      "prior_variance": 0.168138,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 6.8494,
+      "prior_variance": 0.159505,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 7.8134,
+      "prior_variance": 0.148156,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 7.3078,
+      "prior_variance": 0.158759,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 6.2763,
+      "prior_variance": 0.142747,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 7.3569,
+      "prior_variance": 0.177848,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 4.1344,
+      "prior_variance": 0.133379,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 5.075,
+      "prior_variance": 0.167542,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.293,
+      "prior_variance": 0.15495,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.6615,
+      "prior_variance": 0.12483,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.0815,
+      "prior_variance": 0.131375,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_score": 4.6697,
+      "prior_variance": 0.15881,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4014,
+      "prior_variance": 0.101131,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 3.9248,
+      "prior_variance": 0.116858,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 3.4776,
+      "prior_variance": 0.110862,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.1346,
+      "prior_variance": 0.116858,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.1969,
+      "prior_variance": 0.12072,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.5805,
+      "prior_variance": 0.122325,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 0.7979,
+      "prior_variance": 0.112749,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 5.2205,
+      "prior_variance": 0.151646,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.5154,
+      "prior_variance": 0.125424,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -3.0763,
+      "prior_variance": 0.131067,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -3.2549,
+      "prior_variance": 0.132218,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -5.4352,
+      "prior_variance": 0.120818,
+      "prior_n": 11
+    }
+  ]
+}

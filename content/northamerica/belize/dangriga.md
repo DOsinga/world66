@@ -5,7 +5,7 @@ done:
 latitude: 16.9685
 loc_type: city
 longitude: -88.2312
-score: 0.46
+score: 0.37
 title: Dangriga
 type: location
 ---

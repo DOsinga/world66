@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Raumati.jpg
 latitude: -40.918611
 loc_type: city
 longitude: 174.980706
-score: 0.42
+score: 0.37
 title: Raumati Beach
 type: location
 ---

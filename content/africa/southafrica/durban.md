@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Durban_(543330412
 latitude: -29.8587
 loc_type: city
 longitude: 31.0218
-score: 0.56
+score: 0.48
 title: Durban
 type: location
 ---

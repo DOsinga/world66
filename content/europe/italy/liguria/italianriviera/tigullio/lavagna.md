@@ -5,7 +5,7 @@ latitude: 44.312154
 longitude: 9.341706
 title: Lavagna
 type: location
-score: 0.48
+score: 0.43
 loc_type: city
 ---
 

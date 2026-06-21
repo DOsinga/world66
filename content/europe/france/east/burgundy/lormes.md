@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lormes-21.JPG
 latitude: 47.289063
 loc_type: city
 longitude: 3.818276
-score: 0.43
+score: 0.34
 title: Lormes
 type: location
 ---

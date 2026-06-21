@@ -6,7 +6,7 @@ done:
 latitude: 9.749127
 loc_type: city
 longitude: 122.40406
-score: 0.5
+score: 0.44
 title: Sipalay
 type: location
 ---

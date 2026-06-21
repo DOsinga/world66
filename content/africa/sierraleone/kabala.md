@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabala,_Sierra_Leone_(West
 latitude: 9.587653
 loc_type: city
 longitude: -11.550064
-score: 0.33
+score: 0.25
 title: Kabala
 type: location
 ---

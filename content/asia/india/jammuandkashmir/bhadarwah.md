@@ -5,7 +5,7 @@ latitude: 32.978
 longitude: 75.718
 done:
   location_cleanup: 2026-04-05
-score: 0.39
+score: 0.34
 loc_type: city
 image: bhadarwah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bhadarwah.jpg

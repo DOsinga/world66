@@ -1,0 +1,200 @@
+{
+  "round": 4609,
+  "timestamp": "2026-06-14T00:26:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 6.1603,
+      "prior_variance": 0.13084,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.5198,
+      "prior_variance": 0.117619,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 4.8365,
+      "prior_variance": 0.101161,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 4.9547,
+      "prior_variance": 0.094296,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 5.3851,
+      "prior_variance": 0.104057,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 4.8203,
+      "prior_variance": 0.09496,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.354,
+      "prior_variance": 0.088478,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_score": 3.6831,
+      "prior_variance": 0.090601,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.1937,
+      "prior_variance": 0.088012,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 2.145,
+      "prior_variance": 0.118319,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 4.1767,
+      "prior_variance": 0.110034,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.764,
+      "prior_variance": 0.09773,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 3.4023,
+      "prior_variance": 0.102752,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.463,
+      "prior_variance": 0.09614,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.7157,
+      "prior_variance": 0.09457,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.1592,
+      "prior_variance": 0.096808,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 1.7892,
+      "prior_variance": 0.089757,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.9567,
+      "prior_variance": 0.084959,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.2969,
+      "prior_variance": 0.091064,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.6828,
+      "prior_variance": 0.092172,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -1.321,
+      "prior_variance": 0.093411,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -2.7992,
+      "prior_variance": 0.105513,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -2.1575,
+      "prior_variance": 0.143778,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.0192,
+      "prior_variance": 0.146433,
+      "prior_n": 15
+    }
+  ]
+}

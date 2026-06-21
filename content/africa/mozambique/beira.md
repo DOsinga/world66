@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beira,_Mozambique_(13-07-2
 latitude: -19.834068
 loc_type: city
 longitude: 34.835808
-score: 0.34
+score: 0.28
 title: Beira
 type: location
 ---

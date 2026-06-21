@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20210512_Zaandplatte_nabij
 latitude: 52.764154
 loc_type: city
 longitude: 6.360008
-score: 0.37
+score: 0.31
 title: Ruinen
 type: location
 ---

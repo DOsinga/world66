@@ -1,200 +1,200 @@
 {
   "round": 378,
-  "timestamp": "2026-04-12T09:14:15",
+  "timestamp": "2026-06-13T19:32:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Avatoru",
-      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": -1.4815,
+      "prior_variance": 3.705239,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Central Otago",
-      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
-      "prior_mu": 23.073,
-      "prior_sigma": 5.994,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -3.5277,
+      "prior_variance": 1.717912,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Manali",
-      "path": "asia/india/himachalpradesh/manali",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -5.4028,
+      "prior_variance": 1.81656,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Chivay",
-      "path": "southamerica/peru/colca_canyon/chivay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": -1.6223,
+      "prior_variance": 1.67024,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "San Agust\u00edn",
-      "path": "southamerica/colombia/sanagustin",
-      "prior_mu": 22.7128,
-      "prior_sigma": 5.9487,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -2.764,
+      "prior_variance": 1.860043,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Tilos",
-      "path": "europe/greece/tilos",
-      "prior_mu": 21.9076,
-      "prior_sigma": 4.8256,
-      "prior_n": 2
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -8.0498,
+      "prior_variance": 11.367263,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Campo de Criptana",
-      "path": "europe/spain/la_mancha/campo_de_criptana_1",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.4484,
+      "prior_variance": 1.533239,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Negros Oriental",
-      "path": "asia/philippines/negrosisland/negros_oriental",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.8459,
+      "prior_variance": 2.183036,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Kalbarri",
-      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -2.7175,
+      "prior_variance": 6.025145,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Truckee",
-      "path": "northamerica/unitedstates/california/truckee",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -5.7688,
+      "prior_variance": 1.554223,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Shrewsbury",
-      "path": "europe/unitedkingdom/shrewsbury",
-      "prior_mu": 21.762,
-      "prior_sigma": 4.8065,
-      "prior_n": 2
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -7.1921,
+      "prior_variance": 2.926408,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Santiago",
-      "path": "northamerica/dominicanrepublic/santiago",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -11.7055,
+      "prior_variance": 3.278693,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Ruse",
-      "path": "europe/bulgaria/ruse",
-      "prior_mu": 22.9711,
-      "prior_sigma": 5.979,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -7.8859,
+      "prior_variance": 1.456355,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Gorkha",
-      "path": "asia/nepal/gorkha_gurkha",
-      "prior_mu": 22.1845,
-      "prior_sigma": 5.765,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -5.8584,
+      "prior_variance": 1.439571,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Holwerd",
-      "path": "europe/netherlands/friesland/holwerd",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -4.9098,
+      "prior_variance": 1.331427,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Chillan",
-      "path": "southamerica/chile/chillan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -10.7024,
+      "prior_variance": 3.423272,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Wanganui",
-      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -7.6272,
+      "prior_variance": 2.773906,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Ullal Beach",
-      "path": "asia/india/karnataka/ullal_beach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -5.4518,
+      "prior_variance": 1.493436,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Tataouine",
-      "path": "africa/tunisia/tataouine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -13.8874,
+      "prior_variance": 7.34918,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Hainaut",
-      "path": "europe/belgium/hainaut",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -7.0356,
+      "prior_variance": 1.668196,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Culfa (Julfa)",
-      "path": "europe/azerbaijan/naxcivan/culfa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -8.5406,
+      "prior_variance": 1.563019,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "\u201cSturgis\u201d",
-      "path": "northamerica/unitedstates/southdakota/sturgis",
-      "prior_mu": 22.4607,
-      "prior_sigma": 5.9046,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -10.146,
+      "prior_variance": 2.449449,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Ghaziabad",
-      "path": "asia/india/uttarpradesh/ghaziabad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -13.1917,
+      "prior_variance": 7.677107,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "North America",
-      "path": "northamerica",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -9.5059,
+      "prior_variance": 2.534753,
+      "prior_n": 1
     }
   ]
 }

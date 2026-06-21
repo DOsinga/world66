@@ -1,0 +1,200 @@
+{
+  "round": 3159,
+  "timestamp": "2026-06-13T22:33:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 7.5074,
+      "prior_variance": 0.243941,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.7322,
+      "prior_variance": 0.137484,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.5876,
+      "prior_variance": 0.170709,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -0.937,
+      "prior_variance": 0.142074,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.4636,
+      "prior_variance": 0.116283,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -1.4613,
+      "prior_variance": 0.180673,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.4541,
+      "prior_variance": 0.123326,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.2643,
+      "prior_variance": 0.194381,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -2.0513,
+      "prior_variance": 0.128781,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -0.649,
+      "prior_variance": 0.132008,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.5835,
+      "prior_variance": 0.167948,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -2.7434,
+      "prior_variance": 0.135532,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.8296,
+      "prior_variance": 0.144121,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.092,
+      "prior_variance": 0.142215,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Pingliang",
+      "path": "asia/china/gansu/pingliang",
+      "prior_score": -2.952,
+      "prior_variance": 0.129413,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.7642,
+      "prior_variance": 0.199226,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -1.7561,
+      "prior_variance": 0.123022,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -3.7212,
+      "prior_variance": 0.132,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.2201,
+      "prior_variance": 0.128535,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -2.8134,
+      "prior_variance": 0.152134,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.9308,
+      "prior_variance": 0.139172,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -1.8873,
+      "prior_variance": 0.123765,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -1.7496,
+      "prior_variance": 0.126328,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.7227,
+      "prior_variance": 0.173896,
+      "prior_n": 10
+    }
+  ]
+}

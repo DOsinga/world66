@@ -5,7 +5,7 @@ done:
 latitude: 39.327945
 loc_type: city
 longitude: -120.183577
-score: 0.52
+score: 0.45
 title: Truckee
 type: location
 ---

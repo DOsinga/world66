@@ -5,7 +5,7 @@ latitude: -4.212433
 longitude: 55.666628
 title: Aride Island
 type: location
-score: 0.52
+score: 0.48
 loc_type: feature
 ---
 

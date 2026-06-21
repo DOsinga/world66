@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Tarragona_
 latitude: 41.117236
 loc_type: city
 longitude: 1.254606
-score: 0.64
+score: 0.56
 title: Tarragona
 type: location
 ---

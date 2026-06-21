@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tam_Coc_by_Tuan_Mai_%22007
 latitude: 20.2513
 loc_type: city
 longitude: 105.9745
-score: 0.69
+score: 0.56
 title: Ninh Binh
 type: location
 ---

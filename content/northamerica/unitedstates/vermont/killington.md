@@ -9,7 +9,7 @@ latitude: 43.6743
 longitude: -72.7784
 title: Killington
 type: location
-score: 0.56
+score: 0.46
 loc_type: city
 ---
 

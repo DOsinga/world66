@@ -5,7 +5,7 @@ done:
 latitude: -28.394224
 loc_type: city
 longitude: -49.39754
-score: 0.29
+score: 0.24
 sources:
 - https://en.wikipedia.org/wiki/Lauro_M%C3%BCller,_Santa_Catarina
 title: Lauro Müller

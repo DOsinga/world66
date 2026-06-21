@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:River_in_downtown_Zhongsha
 latitude: 22.517645
 loc_type: city
 longitude: 113.392782
-score: 0.41
+score: 0.33
 title: Zhongshan
 type: location
 ---

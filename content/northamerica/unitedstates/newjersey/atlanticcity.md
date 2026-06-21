@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atlantic_City_skyline_from
 latitude: 39.364285
 loc_type: city
 longitude: -74.422935
-score: 0.49
+score: 0.39
 title: Atlantic City
 type: location
 ---

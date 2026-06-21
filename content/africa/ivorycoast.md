@@ -15,7 +15,7 @@ quick_facts:
   Basilica of Yamoussoukro: larger than St Peter's
 done:
   country_cleanup: 2026-03-31
-score: 0.35
+score: 0.51
 loc_type: country
 ---
 

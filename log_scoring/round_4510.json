@@ -1,0 +1,200 @@
+{
+  "round": 4510,
+  "timestamp": "2026-06-14T00:18:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 6.7196,
+      "prior_variance": 0.121436,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.5491,
+      "prior_variance": 0.09849,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 4.0302,
+      "prior_variance": 0.103908,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 1.9723,
+      "prior_variance": 0.095527,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.2597,
+      "prior_variance": 0.090286,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.4486,
+      "prior_variance": 0.088953,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -2.1752,
+      "prior_variance": 0.094057,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -1.2012,
+      "prior_variance": 0.087591,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": -1.4927,
+      "prior_variance": 0.101151,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -2.1227,
+      "prior_variance": 0.098826,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.4934,
+      "prior_variance": 0.128536,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_score": -4.2214,
+      "prior_variance": 0.104809,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.4311,
+      "prior_variance": 0.122059,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -3.3112,
+      "prior_variance": 0.097351,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -5.0837,
+      "prior_variance": 0.137467,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.1717,
+      "prior_variance": 0.114116,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.6243,
+      "prior_variance": 0.102038,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -4.7466,
+      "prior_variance": 0.111279,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.259,
+      "prior_variance": 0.100244,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.4731,
+      "prior_variance": 0.139383,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.5617,
+      "prior_variance": 0.139101,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -5.6967,
+      "prior_variance": 0.109187,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_score": -7.2782,
+      "prior_variance": 0.13797,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -7.7778,
+      "prior_variance": 0.213219,
+      "prior_n": 15
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 41.586865
 loc_type: city
 longitude: -93.624949
-score: 0.38
+score: 0.33
 title: Des Moines
 type: location
 ---

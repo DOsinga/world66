@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Diveagar_Beach.jpg
 latitude: 18.168994
 loc_type: city
 longitude: 72.990182
-score: 0.42
+score: 0.36
 title: Diveagar
 type: location
 ---

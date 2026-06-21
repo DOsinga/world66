@@ -1,199 +1,199 @@
 {
   "round": 1808,
-  "timestamp": "2026-04-13T10:53:17",
+  "timestamp": "2026-06-13T20:53:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Portofino",
-      "path": "europe/italy/liguria/portofino",
-      "prior_score": 12.1608,
-      "prior_variance": 0.484735,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/south_island/otago/milford_sound",
+      "prior_score": 13.4478,
+      "prior_variance": 0.615821,
       "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Orbetello",
-      "path": "europe/italy/tuscany/orbetello",
-      "prior_score": 2.7416,
-      "prior_variance": 0.339413,
-      "prior_n": 4
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 10.0207,
+      "prior_variance": 0.876774,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Kardamili",
-      "path": "europe/greece/mani/kardamili",
-      "prior_score": 5.4382,
-      "prior_variance": 0.35954,
-      "prior_n": 4
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 4.0353,
+      "prior_variance": 0.316896,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Lanai",
-      "path": "northamerica/unitedstates/hawaii/lanai",
-      "prior_score": 4.8311,
-      "prior_variance": 0.292522,
+      "title": "Cooperstown",
+      "path": "northamerica/unitedstates/newyorkstate/cooperstown",
+      "prior_score": 1.121,
+      "prior_variance": 0.266513,
       "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Montserrat",
-      "path": "northamerica/thecaribbean/monserrat",
-      "prior_score": 3.6332,
-      "prior_variance": 0.382549,
-      "prior_n": 4
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.2833,
+      "prior_variance": 0.28225,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Dunedin",
-      "path": "australiaandpacific/newzealand/otago/dunedin",
-      "prior_score": 4.9459,
-      "prior_variance": 0.416357,
-      "prior_n": 4
+      "title": "East Burke",
+      "path": "northamerica/unitedstates/vermont/new_burke",
+      "prior_score": -1.887,
+      "prior_variance": 0.209052,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Torremolinos",
-      "path": "europe/spain/andalucia/torremolinos",
-      "prior_score": 2.5824,
-      "prior_variance": 0.354939,
-      "prior_n": 4
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.7494,
+      "prior_variance": 0.209929,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Derry",
-      "path": "europe/unitedkingdom/northernireland/derry",
-      "prior_score": 3.0208,
-      "prior_variance": 0.33696,
-      "prior_n": 4
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": -1.4891,
+      "prior_variance": 0.402303,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Uruguay",
-      "path": "southamerica/uruguay",
-      "prior_score": 1.4273,
-      "prior_variance": 0.426519,
-      "prior_n": 4
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.5086,
+      "prior_variance": 0.2249,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Apolonia",
-      "path": "europe/albania/apolonia",
-      "prior_score": 1.0096,
-      "prior_variance": 0.297755,
-      "prior_n": 4
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -2.2915,
+      "prior_variance": 0.3288,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Heber City",
-      "path": "northamerica/unitedstates/utah/heber_city",
-      "prior_score": -0.1483,
-      "prior_variance": 0.469805,
-      "prior_n": 4
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/newtonabbot",
+      "prior_score": -3.3956,
+      "prior_variance": 0.272462,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Truckee",
-      "path": "northamerica/unitedstates/california/truckee",
-      "prior_score": 1.2341,
-      "prior_variance": 0.333555,
-      "prior_n": 4
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -2.3878,
+      "prior_variance": 0.227655,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Fort Collins",
-      "path": "northamerica/unitedstates/colorado/fortcollins",
-      "prior_score": 1.3255,
-      "prior_variance": 0.310054,
-      "prior_n": 4
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.8719,
+      "prior_variance": 0.307715,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Arcadia",
-      "path": "northamerica/unitedstates/california/arcadia",
-      "prior_score": -2.8613,
-      "prior_variance": 0.297268,
-      "prior_n": 4
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.7005,
+      "prior_variance": 0.251439,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Entebbe",
-      "path": "africa/uganda/entebbe",
-      "prior_score": 0.9563,
-      "prior_variance": 0.363583,
-      "prior_n": 4
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.7944,
+      "prior_variance": 0.231404,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Datia",
-      "path": "asia/india/madhyapradesh/datia",
-      "prior_score": -3.9012,
-      "prior_variance": 0.321834,
-      "prior_n": 4
+      "title": "Yixing",
+      "path": "asia/china/jiangsu_province/yixing",
+      "prior_score": -4.9273,
+      "prior_variance": 0.335508,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Chester",
-      "path": "northamerica/unitedstates/vermont/chester",
-      "prior_score": -1.9269,
-      "prior_variance": 0.245127,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.1957,
+      "prior_variance": 0.340365,
       "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Springdale",
-      "path": "northamerica/unitedstates/arkansas/springdale",
-      "prior_score": -4.1495,
-      "prior_variance": 0.32472,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Lethbridge",
-      "path": "northamerica/canada/alberta/lethbridge",
-      "prior_score": -2.9651,
-      "prior_variance": 0.190529,
-      "prior_n": 7
-    },
-    {
-      "rank": 20,
-      "title": "Ullal",
-      "path": "asia/india/karnataka/konkan_coast/ullal",
-      "prior_score": -2.3364,
-      "prior_variance": 0.361005,
-      "prior_n": 4
-    },
-    {
-      "rank": 21,
-      "title": "Nakhchivan",
-      "path": "europe/azerbaijan/naxcivan",
-      "prior_score": -3.287,
-      "prior_variance": 0.249131,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -3.6975,
+      "prior_variance": 0.22941,
       "prior_n": 6
     },
     {
-      "rank": 22,
-      "title": "Pajala",
-      "path": "europe/sweden/pajala",
-      "prior_score": -4.0771,
-      "prior_variance": 0.297734,
+      "rank": 19,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -4.8829,
+      "prior_variance": 0.279451,
       "prior_n": 5
     },
     {
+      "rank": 20,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -7.0501,
+      "prior_variance": 0.269679,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -7.3021,
+      "prior_variance": 0.315007,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -7.3465,
+      "prior_variance": 0.27566,
+      "prior_n": 6
+    },
+    {
       "rank": 23,
-      "title": "Upper West",
-      "path": "africa/ghana/upper_west",
-      "prior_score": -4.3421,
-      "prior_variance": 0.328315,
-      "prior_n": 4
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.2272,
+      "prior_variance": 0.429861,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Burundi",
-      "path": "africa/burundi",
-      "prior_score": -6.4226,
-      "prior_variance": 0.45915,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.5908,
+      "prior_variance": 0.385165,
       "prior_n": 5
     }
   ]

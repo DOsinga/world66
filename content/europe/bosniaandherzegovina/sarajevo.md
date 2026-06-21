@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG
 latitude: 43.8563
 loc_type: city
 longitude: 18.4131
-score: 0.63
+score: 0.58
 title: Sarajevo
 type: location
 ---

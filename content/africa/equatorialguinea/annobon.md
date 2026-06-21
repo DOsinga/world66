@@ -5,7 +5,7 @@ done:
 latitude: -1.4344
 loc_type: city
 longitude: 5.6374
-score: 0.29
+score: 0.23
 title: Annobon
 type: location
 ---

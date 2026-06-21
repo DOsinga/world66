@@ -1,0 +1,200 @@
+{
+  "round": 3568,
+  "timestamp": "2026-06-13T23:03:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 5.4853,
+      "prior_variance": 0.129849,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 1.8863,
+      "prior_variance": 0.122158,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 0.9931,
+      "prior_variance": 0.111258,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.5962,
+      "prior_variance": 0.105156,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -1.2423,
+      "prior_variance": 0.097063,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": -0.9069,
+      "prior_variance": 0.105532,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.7973,
+      "prior_variance": 0.112246,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.2121,
+      "prior_variance": 0.118184,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.781,
+      "prior_variance": 0.109919,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.939,
+      "prior_variance": 0.10946,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.7833,
+      "prior_variance": 0.106891,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.7933,
+      "prior_variance": 0.134136,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.7012,
+      "prior_variance": 0.123557,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -4.1724,
+      "prior_variance": 0.116313,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.3863,
+      "prior_variance": 0.114592,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -5.0503,
+      "prior_variance": 0.163981,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -4.688,
+      "prior_variance": 0.148146,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_score": -5.0948,
+      "prior_variance": 0.121084,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.3375,
+      "prior_variance": 0.132723,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -5.768,
+      "prior_variance": 0.139056,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -4.9588,
+      "prior_variance": 0.152526,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.0681,
+      "prior_variance": 0.205517,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -5.4175,
+      "prior_variance": 0.13377,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -6.9272,
+      "prior_variance": 0.195266,
+      "prior_n": 11
+    }
+  ]
+}

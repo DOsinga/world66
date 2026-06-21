@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Candolim,_mucche_lungo_la_
 latitude: 15.520153
 loc_type: city
 longitude: 73.765942
-score: 0.57
+score: 0.48
 title: Candolim
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2991,
+  "timestamp": "2026-06-13T22:21:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 7.6399,
+      "prior_variance": 0.185662,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 6.4744,
+      "prior_variance": 0.177041,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 7.9953,
+      "prior_variance": 0.467252,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.2601,
+      "prior_variance": 0.206262,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 5.1102,
+      "prior_variance": 0.178014,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 3.825,
+      "prior_variance": 0.208563,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_score": 2.4204,
+      "prior_variance": 0.153983,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 4.8442,
+      "prior_variance": 0.187102,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 6.4569,
+      "prior_variance": 0.19885,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_score": 4.7529,
+      "prior_variance": 0.179178,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_score": 2.4072,
+      "prior_variance": 0.133625,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 1.6748,
+      "prior_variance": 0.134274,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.6715,
+      "prior_variance": 0.158239,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 3.2463,
+      "prior_variance": 0.146534,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 0.5361,
+      "prior_variance": 0.143567,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.3626,
+      "prior_variance": 0.156156,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.8787,
+      "prior_variance": 0.137025,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.3558,
+      "prior_variance": 0.140827,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.8176,
+      "prior_variance": 0.133262,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -3.6648,
+      "prior_variance": 0.193623,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_score": -4.5411,
+      "prior_variance": 0.148943,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -7.8982,
+      "prior_variance": 0.237539,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -4.7582,
+      "prior_variance": 0.164258,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -4.92,
+      "prior_variance": 0.160534,
+      "prior_n": 9
+    }
+  ]
+}

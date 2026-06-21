@@ -5,7 +5,7 @@ done:
 latitude: 33.121675
 loc_type: city
 longitude: -117.081485
-score: 0.42
+score: 0.34
 title: Escondido
 type: location
 image: escondido.jpg

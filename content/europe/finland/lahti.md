@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lahti_view_7.jpg
 latitude: 60.982628
 loc_type: city
 longitude: 25.661342
-score: 0.46
+score: 0.4
 title: Lahti
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3373,
+  "timestamp": "2026-06-13T22:49:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.6226,
+      "prior_variance": 0.164938,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 1.8234,
+      "prior_variance": 0.120913,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.5936,
+      "prior_variance": 0.120383,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.2211,
+      "prior_variance": 0.108269,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": -0.0575,
+      "prior_variance": 0.115778,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.8719,
+      "prior_variance": 0.115477,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.2192,
+      "prior_variance": 0.128519,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.1524,
+      "prior_variance": 0.115056,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.1566,
+      "prior_variance": 0.109377,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.9346,
+      "prior_variance": 0.117804,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.2044,
+      "prior_variance": 0.106021,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": -1.6113,
+      "prior_variance": 0.134968,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -1.154,
+      "prior_variance": 0.127085,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.0811,
+      "prior_variance": 0.123807,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -2.1962,
+      "prior_variance": 0.126173,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -0.6248,
+      "prior_variance": 0.119267,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -1.1864,
+      "prior_variance": 0.153216,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.008,
+      "prior_variance": 0.109384,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.4211,
+      "prior_variance": 0.112034,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": 0.0348,
+      "prior_variance": 0.104608,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -8.1946,
+      "prior_variance": 0.4302,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -3.4671,
+      "prior_variance": 0.12439,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -4.7451,
+      "prior_variance": 0.159292,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.046,
+      "prior_variance": 0.145612,
+      "prior_n": 11
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angaur_Airfield.jpg
 latitude: 6.015599
 loc_type: city
 longitude: 133.632646
-score: 0.48
+score: 0.43
 title: Angaur
 type: location
 ---

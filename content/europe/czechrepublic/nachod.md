@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-08_N%C3%A1chod_(52).j
 latitude: 50.416702
 loc_type: city
 longitude: 16.162287
-score: 0.45
+score: 0.38
 title: Náchod
 type: location
 ---

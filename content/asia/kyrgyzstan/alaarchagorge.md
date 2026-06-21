@@ -5,7 +5,7 @@ latitude: 42.65
 longitude: 74.4833
 title: Ala-Archa Gorge
 type: location
-score: 0.53
+score: 0.46
 loc_type: feature
 ---
 

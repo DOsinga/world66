@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3266_Stavanger_-_Norweg
 latitude: 58.969968
 loc_type: city
 longitude: 5.73181
-score: 0.61
+score: 0.54
 title: Stavanger
 type: location
 ---

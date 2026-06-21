@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol,_20
 latitude: 39.799
 loc_type: city
 longitude: -89.644
-score: 0.44
+score: 0.35
 title: Springfield
 type: location
 ---

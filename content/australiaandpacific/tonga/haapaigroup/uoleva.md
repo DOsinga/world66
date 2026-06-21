@@ -5,7 +5,7 @@ latitude: -19.846878
 longitude: -174.402455
 title: '''Uoleva'
 type: location
-score: 0.45
+score: 0.44
 loc_type: feature
 ---
 

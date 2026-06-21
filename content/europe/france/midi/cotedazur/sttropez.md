@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint-Tropez_-_Vue_g%C3%A9
 latitude: 43.272719
 loc_type: city
 longitude: 6.640523
-score: 0.71
+score: 0.63
 title: St Tropez
 type: location
 ---

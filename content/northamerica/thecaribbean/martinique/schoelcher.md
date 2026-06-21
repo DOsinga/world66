@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Statue_de_Victor_Schoelche
 latitude: 14.615
 loc_type: city
 longitude: -61.0917
-score: 0.53
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Sch%C5%93lcher
 title: Schoelcher

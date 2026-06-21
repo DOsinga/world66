@@ -5,7 +5,7 @@ done:
 latitude: 18.3108
 loc_type: city
 longitude: -65.3029
-score: 0.68
+score: 0.58
 title: Culebra
 type: location
 ---

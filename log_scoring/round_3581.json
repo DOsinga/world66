@@ -1,0 +1,200 @@
+{
+  "round": 3581,
+  "timestamp": "2026-06-13T23:04:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.518,
+      "prior_variance": 0.13123,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.4867,
+      "prior_variance": 0.104378,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.102,
+      "prior_variance": 0.114096,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.593,
+      "prior_variance": 0.115968,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 0.8205,
+      "prior_variance": 0.126949,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.5909,
+      "prior_variance": 0.101938,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.3347,
+      "prior_variance": 0.115883,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -0.657,
+      "prior_variance": 0.133938,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.1385,
+      "prior_variance": 0.116196,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.0762,
+      "prior_variance": 0.117162,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 0.7979,
+      "prior_variance": 0.112749,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": -0.1075,
+      "prior_variance": 0.123495,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.6448,
+      "prior_variance": 0.107559,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -1.1092,
+      "prior_variance": 0.118823,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": -0.4263,
+      "prior_variance": 0.114084,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": -0.4651,
+      "prior_variance": 0.123225,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -2.4396,
+      "prior_variance": 0.161194,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/newtonabbot",
+      "prior_score": -2.7684,
+      "prior_variance": 0.142339,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -2.2345,
+      "prior_variance": 0.127691,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -1.4759,
+      "prior_variance": 0.117475,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -2.101,
+      "prior_variance": 0.137152,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.2409,
+      "prior_variance": 0.108187,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -5.0707,
+      "prior_variance": 0.131954,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.1795,
+      "prior_variance": 0.128857,
+      "prior_n": 11
+    }
+  ]
+}

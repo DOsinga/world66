@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rayagada_Railway_Station.j
 latitude: 19.4427
 loc_type: city
 longitude: 83.5873
-score: 0.29
+score: 0.24
 title: Rayagada
 type: location
 ---

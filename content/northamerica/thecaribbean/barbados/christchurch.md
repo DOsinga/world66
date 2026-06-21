@@ -6,12 +6,12 @@ latitude: 13.0827
 longitude: -59.5415
 title: Christ Church
 type: location
-score: 0.59
+score: 0.54
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Christ_Church,_Barbados
-  - https://en.wikipedia.org/wiki/Saint_Lawrence_Gap
-  - https://en.wikipedia.org/wiki/Oistins
+- https://en.wikipedia.org/wiki/Christ_Church,_Barbados
+- https://en.wikipedia.org/wiki/Saint_Lawrence_Gap
+- https://en.wikipedia.org/wiki/Oistins
 ---
 
 Christ Church is the most visited parish in Barbados, stretching along the island's south coast from the outskirts of Bridgetown to Grantley Adams International Airport. The calm, turquoise Caribbean Sea here is gentler than the Atlantic surf on the east coast, making it the island's natural choice for swimming, snorkelling, and watersports of every kind.

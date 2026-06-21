@@ -7,7 +7,7 @@ done:
 latitude: 16.3232
 loc_type: city
 longitude: -86.5317
-score: 0.62
+score: 0.54
 title: Roatán
 type: location
 image: roatan.jpg

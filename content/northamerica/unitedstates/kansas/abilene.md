@@ -5,7 +5,7 @@ done:
 latitude: 38.9172
 loc_type: city
 longitude: -97.2137
-score: 0.37
+score: 0.28
 title: Abilene
 type: location
 ---

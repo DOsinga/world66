@@ -5,7 +5,7 @@ done:
 latitude: 38.292
 loc_type: city
 longitude: -122.458
-score: 0.5
+score: 0.48
 title: Sonoma
 type: location
 ---

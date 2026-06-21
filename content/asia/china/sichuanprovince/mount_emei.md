@@ -5,7 +5,7 @@ latitude: 29.522665
 longitude: 103.336864
 title: Mount Emei
 type: location
-score: 0.69
+score: 0.61
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wormser_Dom_Seitenansicht.
 latitude: 49.6305
 loc_type: city
 longitude: 8.3636
-score: 0.52
+score: 0.44
 title: Worms
 type: location
 ---

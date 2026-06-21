@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Ko%C5%82obrzeg_2.
 latitude: 54.1761
 loc_type: city
 longitude: 15.5766
-score: 0.46
+score: 0.39
 title: Kołobrzeg
 type: location
 ---

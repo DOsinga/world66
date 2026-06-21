@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bethany,_Oklahoma.jpg
 latitude: 35.518
 loc_type: city
 longitude: -97.632
-score: 0.27
+score: 0.22
 title: Bethany
 type: location
 ---

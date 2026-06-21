@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eua_National_Park.jpg
 latitude: -21.395216
 loc_type: city
 longitude: -174.898776
-score: 0.47
+score: 0.37
 title: '''Eua'
 type: location
 ---

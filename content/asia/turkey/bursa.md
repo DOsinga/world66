@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bursa_Green_mosque_0494.jp
 latitude: 40.182573
 loc_type: city
 longitude: 29.067504
-score: 0.59
+score: 0.51
 sources:
 - https://en.wikipedia.org/wiki/Bursa
 - https://en.wikipedia.org/wiki/Green_Mosque,_Bursa

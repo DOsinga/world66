@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fish_market,_Mkoani,_Pemba
 latitude: -5.1691
 loc_type: city
 longitude: 39.7994
-score: 0.49
+score: 0.4
 title: Pemba
 type: location
 ---

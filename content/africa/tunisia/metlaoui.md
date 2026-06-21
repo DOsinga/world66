@@ -5,7 +5,7 @@ done:
 latitude: 34.315723
 loc_type: city
 longitude: 8.401829
-score: 0.37
+score: 0.28
 title: Metlaoui
 type: location
 ---

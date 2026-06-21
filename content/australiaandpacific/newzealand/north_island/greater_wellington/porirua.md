@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Porirua_Harbour
 title: Porirua
 type: location
+score: 0.32
 ---
 
 Porirua is one of the four cities of the [Greater Wellington](/australiaandpacific/newzealand/north_island/greater_wellington) metropolitan area, twenty minutes north of the capital on the commuter rail line. The city wraps around a deeply indented twin-armed harbour and rises into the hills of the Tawa Range to the east. It is younger, less moneyed and more demographically diverse than Wellington itself — Porirua has the largest Pacific Island population of any New Zealand city, with strong Samoan, Tongan and Cook Islands communities, and one of the country's most significant urban Maori populations.

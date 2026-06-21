@@ -6,7 +6,7 @@ latitude: 51.339827
 longitude: 3.284322
 title: Knokke
 type: location
-score: 0.47
+score: 0.43
 loc_type: city
 ---
 

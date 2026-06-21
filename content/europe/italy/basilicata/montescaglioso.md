@@ -5,7 +5,7 @@ latitude: 40.552221
 longitude: 16.666887
 title: Montescaglioso
 type: location
-score: 0.45
+score: 0.37
 loc_type: city
 ---
 

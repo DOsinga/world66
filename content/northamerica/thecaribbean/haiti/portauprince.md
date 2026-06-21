@@ -5,7 +5,7 @@ done:
 latitude: 18.5944
 loc_type: city
 longitude: -72.3074
-score: 0.23
+score: 0.21
 title: Port-au-Prince
 type: location
 ---

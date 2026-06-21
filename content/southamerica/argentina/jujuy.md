@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hospital_San_Roque_-_Jujuy
 latitude: -24.1858
 loc_type: city
 longitude: -65.2995
-score: 0.57
+score: 0.47
 title: Jujuy
 type: location
 ---

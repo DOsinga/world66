@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Railway_Train_at_May_Pen_S
 latitude: 17.9659
 loc_type: city
 longitude: -77.2431
-score: 0.37
+score: 0.3
 title: May Pen
 type: location
 ---

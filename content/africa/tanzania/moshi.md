@@ -5,7 +5,7 @@ done:
 latitude: -3.348646
 loc_type: city
 longitude: 37.343525
-score: 0.53
+score: 0.47
 title: Moshi
 type: location
 image: moshi.jpg

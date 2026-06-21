@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_03_(
 latitude: 42.886416
 loc_type: city
 longitude: -78.878149
-score: 0.43
+score: 0.37
 title: Buffalo
 type: location
 ---

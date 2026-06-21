@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Botines._Le%C3%B3n_60
 latitude: 42.5987
 loc_type: city
 longitude: -5.5671
-score: 0.64
+score: 0.53
 title: León
 type: location
 ---

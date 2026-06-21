@@ -5,7 +5,7 @@ done:
 latitude: 50.2712
 loc_type: city
 longitude: 19.2156
-score: 0.34
+score: 0.26
 title: Sosnowiec
 type: location
 image: sosnowiec.jpg

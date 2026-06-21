@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skagen_rooftops.jpg
 latitude: 57.72597
 loc_type: city
 longitude: 10.58446
-score: 0.61
+score: 0.53
 title: Skagen
 type: location
 ---

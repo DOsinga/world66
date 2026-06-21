@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cat_Ba_town.JPG
 latitude: 20.7221
 loc_type: city
 longitude: 107.0544
-score: 0.66
+score: 0.56
 title: Cat Ba Island
 type: location
 ---

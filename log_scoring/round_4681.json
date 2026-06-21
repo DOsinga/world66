@@ -1,0 +1,200 @@
+{
+  "round": 4681,
+  "timestamp": "2026-06-14T00:32:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 4.5651,
+      "prior_variance": 0.103053,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 4.9531,
+      "prior_variance": 0.094152,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 2.3121,
+      "prior_variance": 0.079476,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 3.729,
+      "prior_variance": 0.092529,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.4746,
+      "prior_variance": 0.099526,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.7932,
+      "prior_variance": 0.08757,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 2.7259,
+      "prior_variance": 0.095665,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 3.1606,
+      "prior_variance": 0.095757,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.4424,
+      "prior_variance": 0.1022,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.4535,
+      "prior_variance": 0.095767,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 0.4222,
+      "prior_variance": 0.085601,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.317,
+      "prior_variance": 0.096977,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 1.202,
+      "prior_variance": 0.105238,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.8924,
+      "prior_variance": 0.085436,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 0.4115,
+      "prior_variance": 0.190519,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 0.8338,
+      "prior_variance": 0.089619,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 0.4564,
+      "prior_variance": 0.085695,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.3715,
+      "prior_variance": 0.098607,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -0.2626,
+      "prior_variance": 0.092365,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -1.96,
+      "prior_variance": 0.091828,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": -0.8201,
+      "prior_variance": 0.097672,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.1409,
+      "prior_variance": 0.077441,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -2.0988,
+      "prior_variance": 0.105592,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.1713,
+      "prior_variance": 0.085482,
+      "prior_n": 16
+    }
+  ]
+}

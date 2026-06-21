@@ -5,7 +5,7 @@ latitude: 38.8734
 longitude: -104.8863
 title: Garden of the Gods
 type: location
-score: 0.7
+score: 0.61
 loc_type: feature
 ---
 

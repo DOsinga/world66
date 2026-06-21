@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Otjikotosee.jpg
 latitude: -19.2512
 loc_type: city
 longitude: 17.7178
-score: 0.41
+score: 0.34
 title: Tsumeb, Gateway to the North and Etosha
 type: location
 ---

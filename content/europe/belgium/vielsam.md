@@ -5,7 +5,7 @@ done:
 latitude: 50.288306
 loc_type: city
 longitude: 5.922994
-score: 0.41
+score: 0.35
 title: Vielsam
 type: location
 ---

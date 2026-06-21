@@ -6,15 +6,16 @@ done:
 latitude: 41.8925
 longitude: 12.4853
 opening_hours: Daily from 09:00; closing varies by season
+score: 9.7
 snippet: Sprawling ruins at the heart of ancient Rome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
 - landmark
+- monti
 title: Roman Forum
 type: poi
-score: 9.7
 ---
 
 The civic and commercial heart of ancient Rome, a sprawling ruin of temples, basilicas, triumphal arches, and government buildings stretching between the Colosseum and Capitoline Hill. For 1,000 years this was where Rome conducted its business, celebrated its victories, and buried its dead. The Sacred Way — along which victorious generals once paraded — still runs through the centre.

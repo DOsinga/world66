@@ -6,7 +6,7 @@ latitude: 41.1537
 longitude: -81.3579
 title: Kent
 type: location
-score: 0.32
+score: 0.28
 loc_type: city
 ---
 

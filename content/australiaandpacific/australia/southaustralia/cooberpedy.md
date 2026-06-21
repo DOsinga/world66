@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coober_Pedy,_South_Austral
 latitude: -29.0134
 loc_type: city
 longitude: 134.7536
-score: 0.49
+score: 0.43
 title: Coober Pedy
 type: location
 ---

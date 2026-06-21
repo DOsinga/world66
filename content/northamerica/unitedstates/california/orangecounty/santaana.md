@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 33.749495
 longitude: -117.873221
-score: 0.34
+score: 0.28
 title: Santa Ana
 type: location
 loc_type: city

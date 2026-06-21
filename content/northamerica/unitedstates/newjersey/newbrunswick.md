@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/75683070@N00/46787758994
 latitude: 40.495137
 loc_type: city
 longitude: -74.443925
-score: 0.34
+score: 0.3
 title: New Brunswick
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Austrougarska_utvrda_Komar
 latitude: 42.945522
 loc_type: city
 longitude: 17.533784
-score: 0.49
+score: 0.42
 title: Komarna
 type: location
 ---

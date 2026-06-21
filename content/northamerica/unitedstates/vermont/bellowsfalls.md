@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BellowsFalls.jpg
 latitude: 43.134063
 loc_type: city
 longitude: -72.444534
-score: 0.39
+score: 0.33
 title: Bellows Falls
 type: location
 ---

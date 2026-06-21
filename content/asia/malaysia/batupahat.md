@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Batu_Pahat_Town.jpg
 latitude: 1.8536
 loc_type: city
 longitude: 102.9322
-score: 0.39
+score: 0.32
 title: Batu Pahat
 type: location
 ---

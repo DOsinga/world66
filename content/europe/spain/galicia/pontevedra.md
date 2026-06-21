@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pontevedra_13_Praza_da_le%
 latitude: 42.431888
 loc_type: city
 longitude: -8.643159
-score: 0.61
+score: 0.53
 title: Pontevedra
 type: location
 ---

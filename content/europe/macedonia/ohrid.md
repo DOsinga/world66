@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:03760-Ohrid_(16064511578).
 latitude: 41.11702
 loc_type: city
 longitude: 20.801772
-score: 0.65
+score: 0.57
 title: Ohrid
 type: location
 ---

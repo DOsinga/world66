@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salina_Turda,_Romania.jpg
 latitude: 46.568521
 loc_type: city
 longitude: 23.785364
-score: 0.48
+score: 0.42
 title: Turda
 type: location
 ---

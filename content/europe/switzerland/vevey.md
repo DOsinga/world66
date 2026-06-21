@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vevey_with_Lake_of_Geneva_
 latitude: 46.4603
 loc_type: city
 longitude: 6.8419
-score: 0.61
+score: 0.54
 title: Vevey
 type: location
 ---

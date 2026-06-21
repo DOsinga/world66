@@ -5,7 +5,7 @@ latitude: 56.01503
 longitude: 23.415678
 title: Hill of Crosses
 type: location
-score: 0.58
+score: 0.49
 loc_type: feature
 ---
 

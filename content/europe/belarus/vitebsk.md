@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vitebsk,_Belarus._1.8.2018
 latitude: 55.19302
 loc_type: city
 longitude: 30.207044
-score: 0.38
+score: 0.34
 title: Vitebsk
 type: location
 ---

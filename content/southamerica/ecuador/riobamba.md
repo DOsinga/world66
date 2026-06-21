@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:David_Torres_Costales_Chim
 latitude: -1.67167
 loc_type: city
 longitude: -78.660742
-score: 0.55
+score: 0.45
 title: Riobamba
 type: location
 ---

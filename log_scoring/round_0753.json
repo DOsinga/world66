@@ -1,200 +1,200 @@
 {
   "round": 753,
-  "timestamp": "2026-04-12T10:46:33",
+  "timestamp": "2026-06-13T19:51:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Rome",
-      "path": "europe/italy/lazio/rome",
-      "prior_mu": 29.4154,
-      "prior_sigma": 6.8076,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -13.3237,
+      "prior_variance": 1.545437,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Seoul",
-      "path": "asia/southkorea/seoul",
-      "prior_mu": 29.3751,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
-    },
-    {
-      "rank": 3,
-      "title": "Carcassonne",
-      "path": "europe/france/midi/languedoc/carcassonne",
-      "prior_mu": 28.422,
-      "prior_sigma": 5.125,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -16.3685,
+      "prior_variance": 1.384883,
       "prior_n": 3
     },
     {
+      "rank": 3,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -17.5318,
+      "prior_variance": 1.082445,
+      "prior_n": 2
+    },
+    {
       "rank": 4,
-      "title": "Tulum",
-      "path": "northamerica/mexico/yucatan/tulum",
-      "prior_mu": 25.379,
-      "prior_sigma": 6.0991,
-      "prior_n": 1
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -16.6546,
+      "prior_variance": 1.080567,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Trinidad",
-      "path": "northamerica/cuba/trinidad",
-      "prior_mu": 22.0374,
-      "prior_sigma": 4.6834,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_score": -19.9404,
+      "prior_variance": 4.114542,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Whitby",
-      "path": "europe/unitedkingdom/england/whitby",
-      "prior_mu": 24.6675,
-      "prior_sigma": 6.0346,
-      "prior_n": 1
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -17.1364,
+      "prior_variance": 0.651654,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Malbork",
-      "path": "europe/poland/malbork",
-      "prior_mu": 22.6703,
-      "prior_sigma": 5.4787,
-      "prior_n": 1
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_score": -16.7469,
+      "prior_variance": 1.032533,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Abruzzo",
-      "path": "europe/italy/abruzzo",
-      "prior_mu": 21.9233,
-      "prior_sigma": 4.2867,
-      "prior_n": 2
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -16.669,
+      "prior_variance": 1.402439,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Astorga",
-      "path": "europe/spain/northernspain/astorga",
-      "prior_mu": 21.8945,
-      "prior_sigma": 4.4794,
-      "prior_n": 2
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -19.5746,
+      "prior_variance": 1.294421,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Podgora",
-      "path": "europe/croatia/podgora",
-      "prior_mu": 22.2392,
-      "prior_sigma": 5.6566,
-      "prior_n": 1
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -18.2956,
+      "prior_variance": 2.173759,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Hammerfest",
-      "path": "europe/norway/hammerfest",
-      "prior_mu": 22.5165,
-      "prior_sigma": 5.8106,
-      "prior_n": 1
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -19.6598,
+      "prior_variance": 0.757861,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Bahrain",
-      "path": "asia/bahrain",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -16.3803,
+      "prior_variance": 0.668298,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Roseau",
-      "path": "northamerica/dominica/roseau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -17.777,
+      "prior_variance": 0.733157,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Uchhali",
-      "path": "asia/pakistan/soon_valley/uchhali",
-      "prior_mu": 22.5475,
-      "prior_sigma": 5.487,
-      "prior_n": 1
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -17.7021,
+      "prior_variance": 0.947103,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Tallahassee",
-      "path": "northamerica/unitedstates/florida/tallahassee",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -19.2843,
+      "prior_variance": 1.227755,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Gaiman",
-      "path": "southamerica/argentina/gaiman",
-      "prior_mu": 21.8571,
-      "prior_sigma": 4.2107,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -17.7254,
+      "prior_variance": 1.208925,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Sch\u00f6nach",
-      "path": "europe/germany/badenwrttemberg/schonach",
-      "prior_mu": 22.2602,
-      "prior_sigma": 5.9378,
-      "prior_n": 1
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -18.8908,
+      "prior_variance": 1.254925,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Yaguaron",
-      "path": "southamerica/paraguay/yaguaron",
-      "prior_mu": 20.8864,
-      "prior_sigma": 4.6834,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -17.0662,
+      "prior_variance": 2.007584,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Muskogee",
-      "path": "northamerica/unitedstates/oklahoma/muskogee",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -15.5996,
+      "prior_variance": 1.000997,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Freetown",
-      "path": "africa/sierraleone/freetown",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -18.9821,
+      "prior_variance": 1.282448,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Nukulaelae atoll",
-      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
-      "prior_mu": 21.4337,
-      "prior_sigma": 3.8508,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -18.0117,
+      "prior_variance": 0.875724,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "al khasra",
-      "path": "asia/oman/alkhuwair/al_khasra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -19.1794,
+      "prior_variance": 0.650253,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Kaedi",
-      "path": "africa/mauritania/kaedi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -17.802,
+      "prior_variance": 1.546555,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Larned",
-      "path": "northamerica/unitedstates/kansas/larned",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -19.5637,
+      "prior_variance": 1.191835,
+      "prior_n": 3
     }
   ]
 }

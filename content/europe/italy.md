@@ -13,7 +13,7 @@ quick_facts:
   Currency: Euro (€)
   UNESCO Sites: "59 — most of any country"
   Pasta Shapes: "Over 350 named varieties"
-score: 0.9
+score: 0.99
 title: Italy
 type: location
 loc_type: country

@@ -4,7 +4,7 @@ done:
 latitude: 26.992099
 loc_type: city
 longitude: 41.489258
-score: 0.31
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Ha%27il
 - https://whc.unesco.org/en/list/1472/

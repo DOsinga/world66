@@ -5,7 +5,7 @@ done:
 latitude: 50.267
 loc_type: city
 longitude: -119.272
-score: 0.47
+score: 0.39
 title: Vernon
 type: location
 ---

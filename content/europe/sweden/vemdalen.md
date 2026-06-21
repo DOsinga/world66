@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vemdalen_kyrka_20211220_10
 latitude: 62.4452
 loc_type: city
 longitude: 13.8628
-score: 0.48
+score: 0.39
 title: Vemdalen
 type: location
 ---

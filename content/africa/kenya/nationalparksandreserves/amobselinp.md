@@ -5,7 +5,7 @@ latitude: -2.6527
 longitude: 37.2606
 title: Amboseli National Park
 type: location
-score: 0.76
+score: 0.65
 image: amobselinp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:African_Elephant_at_Amboseli_National_Park-070A5584.jpg
 image_license: CC BY-SA 4.0

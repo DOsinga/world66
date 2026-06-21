@@ -1,0 +1,200 @@
+{
+  "round": 3060,
+  "timestamp": "2026-06-13T22:26:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.5194,
+      "prior_variance": 0.354758,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 10.6356,
+      "prior_variance": 0.466231,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 7.7942,
+      "prior_variance": 0.194809,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 7.9086,
+      "prior_variance": 0.195945,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 6.4668,
+      "prior_variance": 0.163284,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.3085,
+      "prior_variance": 0.13011,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 4.7076,
+      "prior_variance": 0.243107,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 6.072,
+      "prior_variance": 0.16933,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 6.4217,
+      "prior_variance": 0.209486,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 4.7586,
+      "prior_variance": 0.159066,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 3.4697,
+      "prior_variance": 0.145446,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 2.9392,
+      "prior_variance": 0.134567,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 1.7994,
+      "prior_variance": 0.140387,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.3052,
+      "prior_variance": 0.144277,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.0715,
+      "prior_variance": 0.144681,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 1.822,
+      "prior_variance": 0.131291,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 1.8992,
+      "prior_variance": 0.128682,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 1.3513,
+      "prior_variance": 0.116834,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.9276,
+      "prior_variance": 0.156373,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 2.4387,
+      "prior_variance": 0.147407,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.2996,
+      "prior_variance": 0.177518,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_score": 0.9266,
+      "prior_variance": 0.125941,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 0.9832,
+      "prior_variance": 0.127267,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -3.4409,
+      "prior_variance": 0.146561,
+      "prior_n": 9
+    }
+  ]
+}

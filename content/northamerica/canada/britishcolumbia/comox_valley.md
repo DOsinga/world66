@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Comox_Valley_from_Mt_Washi
 latitude: 49.671
 loc_type: city
 longitude: -125.0353
-score: 0.51
+score: 0.44
 title: Comox Valley
 type: location
 ---

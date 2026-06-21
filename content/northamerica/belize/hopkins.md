@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Almond_Beach,_Hopkins,_Sta
 latitude: 16.8633
 loc_type: city
 longitude: -88.2669
-score: 0.55
+score: 0.46
 title: Hopkins
 type: location
 ---

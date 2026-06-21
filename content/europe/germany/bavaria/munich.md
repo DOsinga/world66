@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_March_
 latitude: 48.137108
 loc_type: city
 longitude: 11.575382
-score: 0.76
+score: 0.6
 title: Munich
 type: location
 ---

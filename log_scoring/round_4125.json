@@ -1,0 +1,200 @@
+{
+  "round": 4125,
+  "timestamp": "2026-06-13T23:45:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.5842,
+      "prior_variance": 0.137681,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 1.0156,
+      "prior_variance": 0.10943,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.1547,
+      "prior_variance": 0.097703,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 3.9116,
+      "prior_variance": 0.106831,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 0.9723,
+      "prior_variance": 0.10784,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 1.9874,
+      "prior_variance": 0.100557,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 2.7828,
+      "prior_variance": 0.098331,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 2.3248,
+      "prior_variance": 0.108232,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": 0.018,
+      "prior_variance": 0.112408,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.5674,
+      "prior_variance": 0.109544,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -0.1228,
+      "prior_variance": 0.094607,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.1087,
+      "prior_variance": 0.106074,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.8124,
+      "prior_variance": 0.119897,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": -0.1573,
+      "prior_variance": 0.104819,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.4244,
+      "prior_variance": 0.104027,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 0.8064,
+      "prior_variance": 0.095988,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 2.9902,
+      "prior_variance": 0.100366,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.177,
+      "prior_variance": 0.09722,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -0.8717,
+      "prior_variance": 0.109722,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -0.8675,
+      "prior_variance": 0.104779,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -5.895,
+      "prior_variance": 0.126339,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.972,
+      "prior_variance": 0.217104,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_score": -6.7227,
+      "prior_variance": 0.178737,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.4642,
+      "prior_variance": 0.170086,
+      "prior_n": 13
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/73293249@N00/6124571785
 latitude: 51.949474
 loc_type: city
 longitude: -7.843189
-score: 0.49
+score: 0.43
 title: Youghal
 type: location
 ---

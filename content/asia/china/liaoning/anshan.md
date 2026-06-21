@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Anshan
 title: Anshan
 type: location
+score: 0.25
 ---
 
 Anshan is Liaoning's steel city — the Angang Iron and Steel Company has operated here since the 1910s and at its peak made Anshan one of the most productive industrial centres in Asia. The city itself is functional rather than beautiful, its skyline defined by blast furnaces and cooling towers rather than historic architecture. But Anshan sits at the edge of the eastern mountains, and the countryside around it is genuinely spectacular.

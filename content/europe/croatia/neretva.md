@@ -5,7 +5,7 @@ done:
 latitude: 43.044
 loc_type: city
 longitude: 17.651
-score: 0.48
+score: 0.34
 title: Neretva
 type: location
 ---

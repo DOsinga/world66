@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hiiumaa_politseijaoskond_2
 latitude: 59.001242
 loc_type: city
 longitude: 22.741145
-score: 0.45
+score: 0.37
 title: Kärdla
 type: location
 ---

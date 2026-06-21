@@ -5,7 +5,7 @@ latitude: 61.769693
 longitude: 34.370758
 title: Kizhi
 type: location
-score: 0.55
+score: 0.49
 loc_type: feature
 ---
 

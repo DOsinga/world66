@@ -1,0 +1,200 @@
+{
+  "round": 2891,
+  "timestamp": "2026-06-13T22:14:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 2.8849,
+      "prior_variance": 0.152549,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 2.3781,
+      "prior_variance": 0.1657,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.0422,
+      "prior_variance": 0.139714,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 2.2413,
+      "prior_variance": 0.148785,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.5863,
+      "prior_variance": 0.153249,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.7186,
+      "prior_variance": 0.165116,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.6948,
+      "prior_variance": 0.140148,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 1.0138,
+      "prior_variance": 0.170614,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": -0.3462,
+      "prior_variance": 0.151685,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.7617,
+      "prior_variance": 0.138362,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -0.3617,
+      "prior_variance": 0.153234,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -0.6384,
+      "prior_variance": 0.14509,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.7565,
+      "prior_variance": 0.126995,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 3.7581,
+      "prior_variance": 0.164191,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -0.2685,
+      "prior_variance": 0.141073,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 0.107,
+      "prior_variance": 0.150905,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.8467,
+      "prior_variance": 0.136651,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -1.5111,
+      "prior_variance": 0.145012,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -1.4979,
+      "prior_variance": 0.155198,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -0.7206,
+      "prior_variance": 0.181365,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -1.9294,
+      "prior_variance": 0.150047,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -0.8948,
+      "prior_variance": 0.158859,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.0899,
+      "prior_variance": 0.175627,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -7.2185,
+      "prior_variance": 0.176266,
+      "prior_n": 9
+    }
+  ]
+}

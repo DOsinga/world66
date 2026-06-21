@@ -8,7 +8,7 @@ latitude: 62.454
 longitude: -114.3774
 title: Yellowknife
 type: location
-score: 0.5
+score: 0.46
 loc_type: city
 ---
 

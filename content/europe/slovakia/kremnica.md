@@ -5,7 +5,7 @@ done:
 latitude: 48.7042
 loc_type: city
 longitude: 18.9175
-score: 0.43
+score: 0.4
 title: Kremnica
 type: location
 ---

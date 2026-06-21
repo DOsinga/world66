@@ -14,7 +14,7 @@ quick_facts:
   Currency: Canadian dollar (CAD)
   Lakes: More than all other countries combined
   Population: 40 million
-score: 0.93
+score: 0.88
 title: Canada
 type: location
 ---

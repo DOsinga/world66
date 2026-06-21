@@ -5,13 +5,13 @@ done:
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-21'
 image: cairo.jpg
-image_attribution: Roland Unger
+image_attribution: Ahmed Photographer
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:CairoAbbasiyaMarkEntrance-Cropped.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beauty_Of_Egypt.JPG
 latitude: 30.044388
 loc_type: city
 longitude: 31.235726
-score: 0.82
+score: 0.7
 title: Cairo
 type: location
 ---

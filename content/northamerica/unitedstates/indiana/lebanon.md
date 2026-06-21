@@ -5,7 +5,7 @@ latitude: 40.0484
 longitude: -86.4694
 title: Lebanon
 type: location
-score: 0.32
+score: 0.25
 loc_type: city
 image: lebanon.jpg
 image_source: https://www.flickr.com/photos/53136684@N00/49976417528

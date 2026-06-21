@@ -5,7 +5,7 @@ done:
 latitude: 38.41925
 loc_type: city
 longitude: -82.445154
-score: 0.33
+score: 0.26
 title: Huntington
 type: location
 ---

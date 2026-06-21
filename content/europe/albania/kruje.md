@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/23442653@N00/3940030648
 latitude: 41.511251
 loc_type: city
 longitude: 19.792852
-score: 0.5
+score: 0.44
 title: Kruje
 type: location
 ---

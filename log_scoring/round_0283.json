@@ -1,199 +1,199 @@
 {
   "round": 283,
-  "timestamp": "2026-04-12T09:10:00",
+  "timestamp": "2026-06-13T19:27:59",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "G\u00f6reme",
-      "path": "asia/turkey/cappadocia/goreme",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Cape Town",
-      "path": "africa/southafrica/capetown",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Bovec",
-      "path": "europe/slovenia/bovec",
-      "prior_mu": 23.9566,
-      "prior_sigma": 5.8378,
-      "prior_n": 1
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Kizhi",
-      "path": "europe/russia/karelia/kizhi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Homer",
-      "path": "northamerica/unitedstates/alaska/homer",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Karakorum",
-      "path": "asia/mongolia/karakorum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Bcharre",
-      "path": "asia/lebanon/bcharre",
-      "prior_mu": 22.6935,
-      "prior_sigma": 5.9462,
-      "prior_n": 1
+      "title": "Khao Yai National Park",
+      "path": "asia/thailand/khaoyainationalpark",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "R\u00f8st",
-      "path": "europe/norway/lofotenislands/rost",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Kalutara",
-      "path": "asia/srilanka/kalutara",
-      "prior_mu": 22.4239,
-      "prior_sigma": 5.4099,
-      "prior_n": 1
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Figueira da Foz",
-      "path": "europe/portugal/figueiradafoz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Ouidah",
-      "path": "africa/benin/ouidah",
-      "prior_mu": 22.9023,
-      "prior_sigma": 5.7258,
-      "prior_n": 1
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Bright",
-      "path": "australiaandpacific/australia/victoria/bright",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Heddal",
-      "path": "europe/norway/heddal",
-      "prior_mu": 22.0955,
-      "prior_sigma": 4.7098,
-      "prior_n": 2
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Kansas City",
-      "path": "northamerica/unitedstates/missouri/kansascity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Masaya",
-      "path": "northamerica/nicaragua/masaya",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Russell",
-      "path": "australiaandpacific/newzealand/northland_1/russell",
-      "prior_mu": 22.6868,
-      "prior_sigma": 5.9455,
-      "prior_n": 1
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Darmstadt",
-      "path": "europe/germany/hessen/darmstadt",
-      "prior_mu": 22.7207,
-      "prior_sigma": 5.9496,
-      "prior_n": 1
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Courth\u00e9zon",
-      "path": "europe/france/alpes/courthezon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Wejherowo",
-      "path": "europe/poland/wejherowo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Wasilla",
-      "path": "northamerica/unitedstates/alaska/wasilla",
-      "prior_mu": 22.4793,
-      "prior_sigma": 5.9069,
-      "prior_n": 1
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Vandalia",
-      "path": "northamerica/unitedstates/illinois/vandalia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Chickasaw",
-      "path": "northamerica/unitedstates/oklahoma/chickasaw",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Taijiang",
+      "path": "asia/china/guizhou/taijiang",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Tieni-Siabli",
-      "path": "africa/ivorycoast/tienisiabli",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "qureshi from yaroo khosa",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

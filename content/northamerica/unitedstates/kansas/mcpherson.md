@@ -5,7 +5,7 @@ done:
 latitude: 38.365901
 loc_type: city
 longitude: -97.657517
-score: 0.29
+score: 0.23
 title: McPherson
 type: location
 image: mcpherson.jpg

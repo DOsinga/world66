@@ -1,0 +1,200 @@
+{
+  "round": 2528,
+  "timestamp": "2026-06-13T21:49:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 6.9746,
+      "prior_variance": 0.279351,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.2054,
+      "prior_variance": 0.18568,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 5.1693,
+      "prior_variance": 0.192588,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 7.4403,
+      "prior_variance": 0.243851,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 8.2191,
+      "prior_variance": 0.355919,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.9307,
+      "prior_variance": 0.180917,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": 0.0046,
+      "prior_variance": 0.179672,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.5177,
+      "prior_variance": 0.171446,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 2.1502,
+      "prior_variance": 0.144528,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.4,
+      "prior_variance": 0.197299,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 1.9146,
+      "prior_variance": 0.176697,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 1.3662,
+      "prior_variance": 0.149402,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -0.0412,
+      "prior_variance": 0.195875,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.5065,
+      "prior_variance": 0.155198,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/chemainus",
+      "prior_score": 0.0107,
+      "prior_variance": 0.151623,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": -0.2309,
+      "prior_variance": 0.170102,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.2787,
+      "prior_variance": 0.150713,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 0.888,
+      "prior_variance": 0.174255,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -1.9742,
+      "prior_variance": 0.182304,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -2.013,
+      "prior_variance": 0.231096,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -1.0305,
+      "prior_variance": 0.168985,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.3426,
+      "prior_variance": 0.178589,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -3.0939,
+      "prior_variance": 0.191737,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.3438,
+      "prior_variance": 0.162252,
+      "prior_n": 8
+    }
+  ]
+}

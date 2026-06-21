@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Filadelfia,_Paraguay6.jpg
 latitude: -22.35254
 loc_type: city
 longitude: -60.035171
-score: 0.32
+score: 0.24
 title: Filadelfia
 type: location
 ---

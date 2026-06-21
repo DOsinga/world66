@@ -5,7 +5,7 @@ done:
 latitude: 16.85
 loc_type: city
 longitude: -24.97
-score: 0.5
+score: 0.42
 title: São Vicente
 type: location
 image: saovicente.jpg

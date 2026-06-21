@@ -1,0 +1,200 @@
+{
+  "round": 2597,
+  "timestamp": "2026-06-13T21:53:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 6.1878,
+      "prior_variance": 0.193403,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 2.0863,
+      "prior_variance": 0.190586,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 0.7333,
+      "prior_variance": 0.162487,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.777,
+      "prior_variance": 0.167154,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.7993,
+      "prior_variance": 0.239695,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.0483,
+      "prior_variance": 0.170229,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.4473,
+      "prior_variance": 0.167595,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 0.9125,
+      "prior_variance": 0.187718,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.2918,
+      "prior_variance": 0.221358,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": -0.2823,
+      "prior_variance": 0.165637,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.3151,
+      "prior_variance": 0.17756,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 1.0106,
+      "prior_variance": 0.183263,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 1.6304,
+      "prior_variance": 0.14528,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 0.126,
+      "prior_variance": 0.18861,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.4466,
+      "prior_variance": 0.172669,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.3311,
+      "prior_variance": 0.179102,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.3581,
+      "prior_variance": 0.148496,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.5143,
+      "prior_variance": 0.181248,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.502,
+      "prior_variance": 0.167434,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -0.4387,
+      "prior_variance": 0.198825,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.2829,
+      "prior_variance": 0.150301,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.9382,
+      "prior_variance": 0.162285,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.288,
+      "prior_variance": 0.155725,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.7247,
+      "prior_variance": 0.193489,
+      "prior_n": 8
+    }
+  ]
+}

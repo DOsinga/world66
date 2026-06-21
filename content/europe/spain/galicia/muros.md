@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muros.Galiza.04-2008.jpg
 latitude: 42.774411
 loc_type: city
 longitude: -9.057535
-score: 0.52
+score: 0.44
 title: Muros
 type: location
 ---

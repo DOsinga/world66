@@ -16,7 +16,7 @@ quick_facts:
   Language: "English widely spoken"
   Lake Malawi: "20% of the country's area"
   Fish Species in Lake: "1,000+ (most endemic)"
-score: 0.45
+score: 0.55
 loc_type: country
 ---
 

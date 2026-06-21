@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tralee-0181,_Co._Kerry,_Ir
 latitude: 52.269212
 loc_type: city
 longitude: -9.705705
-score: 0.5
+score: 0.44
 title: Tralee
 type: location
 ---

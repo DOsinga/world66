@@ -2,13 +2,17 @@
 address: Millennium Park, 201 E Randolph St, Chicago, IL 60602
 latitude: 41.8826
 longitude: -87.6233
-snippet: Anish Kapoor's mirror-polished bean sculpture at the heart of Millennium Park
-story: "Kapoor's design was so challenging that the fabricators had to develop entirely
+snippet: Anish Kapoor's mirror-polished bean sculpture at the heart of Millennium
+  Park
+sources:
+- https://en.wikipedia.org/wiki/Cloud_Gate
+story: Kapoor's design was so challenging that the fabricators had to develop entirely
   new welding techniques to make the 168 stainless steel plates seamless. The finished
-  surface has no visible seams at all."
+  surface has no visible seams at all.
 tags:
 - things_to_do
 - sight
+- the_loop
 title: Cloud Gate
 type: poi
 sources:

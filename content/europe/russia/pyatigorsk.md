@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pyatigorsk,_Eagle_sculptur
 latitude: 44.037544
 loc_type: city
 longitude: 43.036367
-score: 0.43
+score: 0.34
 title: Pyatigorsk
 type: location
 ---

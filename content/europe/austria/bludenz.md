@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bludenz_overview.jpg
 latitude: 47.153037
 loc_type: city
 longitude: 9.821931
-score: 0.53
+score: 0.45
 title: Bludenz
 type: location
 ---

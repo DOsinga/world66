@@ -1,199 +1,199 @@
 {
   "round": 1514,
-  "timestamp": "2026-04-13T10:27:32",
+  "timestamp": "2026-06-13T20:35:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cuzco",
-      "path": "southamerica/peru/cuzco",
-      "prior_score": 11.5249,
-      "prior_variance": 0.648599,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 8.4037,
+      "prior_variance": 0.509935,
       "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Shinjuku",
-      "path": "asia/japan/tokyo/shinjuku",
-      "prior_score": 8.9203,
-      "prior_variance": 0.689199,
-      "prior_n": 4
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 9.7328,
+      "prior_variance": 0.407293,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Egypt",
-      "path": "africa/egypt",
-      "prior_score": 9.0491,
-      "prior_variance": 0.919935,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 9.4822,
+      "prior_variance": 0.390273,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Marrakesh",
-      "path": "africa/morocco/marrakesh",
-      "prior_score": 9.7888,
-      "prior_variance": 0.536036,
-      "prior_n": 3
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 10.0166,
+      "prior_variance": 0.706454,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Borobudur",
-      "path": "asia/indonesia/java/borobudur",
-      "prior_score": 10.3242,
-      "prior_variance": 0.669557,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 10.0186,
+      "prior_variance": 0.3718,
       "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "kilimanjaro",
-      "path": "africa/kenya/trekking/kilimanjaro",
-      "prior_score": 8.7748,
-      "prior_variance": 0.448675,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 6.2173,
+      "prior_variance": 0.423168,
       "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Thimphu",
-      "path": "asia/bhutan/thimphu",
-      "prior_score": 5.7106,
-      "prior_variance": 0.477619,
-      "prior_n": 4
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 4.5034,
+      "prior_variance": 0.288001,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Rotorua",
-      "path": "australiaandpacific/newzealand/bay_of_plenty/rotorua",
-      "prior_score": 6.6045,
-      "prior_variance": 0.398792,
-      "prior_n": 4
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.2745,
+      "prior_variance": 0.270697,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Paros",
-      "path": "europe/greece/paros",
-      "prior_score": 10.2615,
-      "prior_variance": 0.495307,
-      "prior_n": 3
+      "title": "Zhaoxing",
+      "path": "asia/china/guizhou/zhaoxing",
+      "prior_score": 2.804,
+      "prior_variance": 0.334443,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Hydra",
-      "path": "europe/greece/hydra",
-      "prior_score": 10.2795,
-      "prior_variance": 0.575711,
-      "prior_n": 3
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 1.8881,
+      "prior_variance": 0.327235,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Matera",
-      "path": "europe/italy/basilicata/matera",
-      "prior_score": 11.4088,
-      "prior_variance": 0.730867,
-      "prior_n": 3
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 0.9385,
+      "prior_variance": 0.272249,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Palermo",
-      "path": "europe/italy/sicily/palermo",
-      "prior_score": 9.1816,
-      "prior_variance": 0.70874,
-      "prior_n": 3
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": -0.2398,
+      "prior_variance": 0.43662,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Fethiye",
-      "path": "asia/turkey/fethiye",
-      "prior_score": 6.2128,
-      "prior_variance": 0.298304,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -1.9906,
+      "prior_variance": 0.378164,
       "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Palma",
-      "path": "europe/spain/balearicislands/mallorca/palma1",
-      "prior_score": 8.7475,
-      "prior_variance": 0.574589,
-      "prior_n": 3
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.5523,
+      "prior_variance": 0.269206,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Malaga",
-      "path": "europe/spain/malaga",
-      "prior_score": 7.3114,
-      "prior_variance": 0.363778,
-      "prior_n": 4
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.8986,
+      "prior_variance": 0.25307,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Lapland",
-      "path": "europe/finland/lapland",
-      "prior_score": 7.9563,
-      "prior_variance": 0.581847,
-      "prior_n": 4
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.1086,
+      "prior_variance": 0.242398,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Innsbruck",
-      "path": "europe/austria/innsbruck",
-      "prior_score": 9.127,
-      "prior_variance": 0.542548,
-      "prior_n": 4
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": -0.4147,
+      "prior_variance": 0.267974,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "St. Moritz",
-      "path": "europe/switzerland/stmoritz",
-      "prior_score": 9.9077,
-      "prior_variance": 0.444277,
-      "prior_n": 4
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.5684,
+      "prior_variance": 0.278061,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Geneva",
-      "path": "europe/switzerland/geneva",
-      "prior_score": 9.0554,
-      "prior_variance": 0.516702,
-      "prior_n": 3
-    },
-    {
-      "rank": 20,
-      "title": "High Sierra",
-      "path": "northamerica/unitedstates/california/highsierra",
-      "prior_score": 8.7312,
-      "prior_variance": 0.551907,
-      "prior_n": 3
-    },
-    {
-      "rank": 21,
-      "title": "British Columbia",
-      "path": "northamerica/canada/britishcolumbia",
-      "prior_score": 7.6979,
-      "prior_variance": 0.464442,
-      "prior_n": 3
-    },
-    {
-      "rank": 22,
-      "title": "Dunvegan",
-      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
-      "prior_score": 4.562,
-      "prior_variance": 0.386386,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.6164,
+      "prior_variance": 0.308592,
       "prior_n": 4
     },
     {
+      "rank": 20,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -2.1992,
+      "prior_variance": 0.2958,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -1.9635,
+      "prior_variance": 0.342872,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yichun",
+      "path": "asia/china/heilongjiang/yichun",
+      "prior_score": -6.303,
+      "prior_variance": 0.293388,
+      "prior_n": 5
+    },
+    {
       "rank": 23,
-      "title": "Florida",
-      "path": "northamerica/unitedstates/florida",
-      "prior_score": 1.7166,
-      "prior_variance": 0.722471,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -6.5537,
+      "prior_variance": 0.39423,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Maspalomas",
-      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
-      "prior_score": 5.9126,
-      "prior_variance": 0.369663,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -10.1874,
+      "prior_variance": 0.493814,
       "prior_n": 4
     }
   ]

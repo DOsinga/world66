@@ -1,199 +1,199 @@
 {
   "round": 701,
-  "timestamp": "2026-04-12T10:43:33",
+  "timestamp": "2026-06-13T19:49:20",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Yerevan",
-      "path": "europe/armenia/yerevan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.1317,
+      "prior_variance": 1.975366,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Echmiadzin",
-      "path": "europe/armenia/echmiadzin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 4.1749,
+      "prior_variance": 0.546586,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Garni",
-      "path": "europe/armenia/garni",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 5.3567,
+      "prior_variance": 0.90742,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Khor Virap",
-      "path": "europe/armenia/khorvirap",
-      "prior_mu": 21.9824,
-      "prior_sigma": 4.5885,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 4.4965,
+      "prior_variance": 0.888484,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Amberd",
-      "path": "europe/armenia/amberd_1",
-      "prior_mu": 22.4242,
-      "prior_sigma": 5.7416,
-      "prior_n": 1
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 4.7404,
+      "prior_variance": 0.491253,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Dilijan",
-      "path": "europe/armenia/dilijan",
-      "prior_mu": 22.4666,
-      "prior_sigma": 5.4224,
-      "prior_n": 1
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 5.453,
+      "prior_variance": 1.163688,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Gyumri",
-      "path": "europe/armenia/shirak_marz/gyumri",
-      "prior_mu": 22.5531,
-      "prior_sigma": 5.5404,
-      "prior_n": 1
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 3.7377,
+      "prior_variance": 0.948335,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Gyumri",
-      "path": "europe/armenia/gyumri",
-      "prior_mu": 22.6283,
-      "prior_sigma": 5.9281,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 5.3983,
+      "prior_variance": 1.642907,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Ani",
-      "path": "europe/armenia/ani",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 10,
-      "title": "Tsaghkadzor",
-      "path": "europe/armenia/tzakhadzor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 11,
-      "title": "Tsaghkadzor Ski Resort",
-      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 12,
-      "title": "Ashtarak",
-      "path": "europe/armenia/aragatsotn_marz/ashtarak",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 13,
-      "title": "Odzun",
-      "path": "europe/armenia/odzun",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 14,
-      "title": "Yeghegnadzor",
-      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 15,
-      "title": "Vayots Dzor Marz",
-      "path": "europe/armenia/vayots_dzor_marz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 16,
-      "title": "Gegharkunik Marz",
-      "path": "europe/armenia/gegharkunik_marz",
-      "prior_mu": 22.6291,
-      "prior_sigma": 5.913,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 2.6753,
+      "prior_variance": 1.287326,
       "prior_n": 1
     },
     {
+      "rank": 10,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 6.5366,
+      "prior_variance": 0.734105,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 3.5814,
+      "prior_variance": 0.823279,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.3799,
+      "prior_variance": 0.663317,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.106,
+      "prior_variance": 1.294299,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 2.5649,
+      "prior_variance": 1.122599,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Zutphen",
+      "path": "europe/netherlands/zutphen",
+      "prior_score": 2.1303,
+      "prior_variance": 0.807831,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": 3.8384,
+      "prior_variance": 0.788028,
+      "prior_n": 2
+    },
+    {
       "rank": 17,
-      "title": "Syunik Marz",
-      "path": "europe/armenia/syunik_marz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 1.5609,
+      "prior_variance": 0.898334,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Ararat Marz",
-      "path": "europe/armenia/ararat_marz",
-      "prior_mu": 21.7316,
-      "prior_sigma": 4.6857,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": 1.1945,
+      "prior_variance": 0.665761,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Aragatsotn Marz",
-      "path": "europe/armenia/aragatsotn_marz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 1.751,
+      "prior_variance": 1.764325,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Shirak Marz",
-      "path": "europe/armenia/shirak_marz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": 3.2266,
+      "prior_variance": 0.692712,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Talin",
-      "path": "europe/armenia/talin",
-      "prior_mu": 19.5452,
-      "prior_sigma": 4.1896,
-      "prior_n": 3
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": 1.0678,
+      "prior_variance": 0.63165,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Hrazdan",
-      "path": "europe/armenia/kotayk_marz/hrazdan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": 1.4245,
+      "prior_variance": 0.45614,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Nagorno-Karabakh",
-      "path": "europe/armenia/nagornokarabakh",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": 1.2124,
+      "prior_variance": 0.747245,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Armenia",
-      "path": "europe/armenia",
-      "prior_mu": 21.8567,
-      "prior_sigma": 4.8365,
+      "title": "Huangzhong",
+      "path": "asia/china/qinghai/huangzhong",
+      "prior_score": 2.3701,
+      "prior_variance": 0.929856,
       "prior_n": 2
     }
   ]

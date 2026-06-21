@@ -5,7 +5,7 @@ done:
 latitude: 19.7957
 loc_type: city
 longitude: -70.688
-score: 0.57
+score: 0.47
 title: Puerto Plata City
 type: location
 ---

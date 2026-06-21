@@ -1,0 +1,200 @@
+{
+  "round": 2837,
+  "timestamp": "2026-06-13T22:10:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 4.9842,
+      "prior_variance": 0.15603,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 4.1805,
+      "prior_variance": 0.149588,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 2.5709,
+      "prior_variance": 0.146324,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.3925,
+      "prior_variance": 0.141501,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.2619,
+      "prior_variance": 0.14822,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.1024,
+      "prior_variance": 0.147292,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.2033,
+      "prior_variance": 0.144309,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.4624,
+      "prior_variance": 0.138507,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -3.253,
+      "prior_variance": 0.160075,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.3855,
+      "prior_variance": 0.155092,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -2.83,
+      "prior_variance": 0.155976,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -2.3263,
+      "prior_variance": 0.188694,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -2.5874,
+      "prior_variance": 0.15446,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster",
+      "prior_score": -3.7664,
+      "prior_variance": 0.170204,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.1894,
+      "prior_variance": 0.160088,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -4.4158,
+      "prior_variance": 0.187599,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -4.5092,
+      "prior_variance": 0.161597,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.2901,
+      "prior_variance": 0.145133,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.2483,
+      "prior_variance": 0.153256,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -5.3143,
+      "prior_variance": 0.189367,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Changchun",
+      "path": "asia/china/jilin/changchun",
+      "prior_score": -3.3512,
+      "prior_variance": 0.148664,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -5.9891,
+      "prior_variance": 0.208449,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.3263,
+      "prior_variance": 0.214793,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -6.6117,
+      "prior_variance": 0.202053,
+      "prior_n": 9
+    }
+  ]
+}

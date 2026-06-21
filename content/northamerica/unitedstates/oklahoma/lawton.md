@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldwin_Locomotive_GPM_Law
 latitude: 34.605198
 loc_type: city
 longitude: -98.395228
-score: 0.29
+score: 0.25
 title: Lawton
 type: location
 ---

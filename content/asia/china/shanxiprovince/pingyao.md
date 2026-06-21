@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pingyao-oldtown.jpg
 latitude: 37.189293
 loc_type: city
 longitude: 112.169624
-score: 0.63
+score: 0.58
 title: Pingyao
 type: location
 ---

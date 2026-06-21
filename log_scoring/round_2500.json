@@ -1,0 +1,200 @@
+{
+  "round": 2500,
+  "timestamp": "2026-06-13T21:47:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 11.1066,
+      "prior_variance": 0.46377,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 8.8701,
+      "prior_variance": 0.350432,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 4.164,
+      "prior_variance": 0.175286,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 4.7149,
+      "prior_variance": 0.145381,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 2.6603,
+      "prior_variance": 0.191786,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 2.8849,
+      "prior_variance": 0.202594,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 6.1823,
+      "prior_variance": 0.216215,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 2.8936,
+      "prior_variance": 0.173802,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": -0.5774,
+      "prior_variance": 0.180396,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.3869,
+      "prior_variance": 0.18576,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Eilat",
+      "path": "asia/israel/eliat",
+      "prior_score": 4.2949,
+      "prior_variance": 0.168879,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.7219,
+      "prior_variance": 0.197968,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 1.9747,
+      "prior_variance": 0.16845,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.63,
+      "prior_variance": 0.212801,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.8925,
+      "prior_variance": 0.142878,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": -0.3871,
+      "prior_variance": 0.559807,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -0.769,
+      "prior_variance": 0.186742,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": 0.3632,
+      "prior_variance": 0.174062,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.5739,
+      "prior_variance": 0.172959,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.3124,
+      "prior_variance": 0.162299,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.4465,
+      "prior_variance": 0.212744,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.9352,
+      "prior_variance": 0.177688,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -1.8718,
+      "prior_variance": 0.15704,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -2.9654,
+      "prior_variance": 0.156921,
+      "prior_n": 8
+    }
+  ]
+}

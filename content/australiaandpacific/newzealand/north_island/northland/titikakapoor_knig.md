@@ -5,7 +5,7 @@ done:
 latitude: -35.62
 loc_type: city
 longitude: 174.5367
-score: 0.6
+score: 0.51
 title: Tutukaka / Poor Knights
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -36.606662
 loc_type: city
 longitude: -72.103319
-score: 0.45
+score: 0.34
 title: Chillán
 type: location
 ---

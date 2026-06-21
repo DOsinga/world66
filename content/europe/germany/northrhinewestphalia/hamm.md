@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160628_Schloss_Heessen,_
 latitude: 51.6739
 loc_type: city
 longitude: 7.816
-score: 0.38
+score: 0.28
 title: Hamm
 type: location
 ---

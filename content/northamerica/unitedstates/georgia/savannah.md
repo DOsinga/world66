@@ -7,7 +7,7 @@ done:
 latitude: 32.079007
 loc_type: city
 longitude: -81.092134
-score: 0.64
+score: 0.57
 title: Savannah
 type: location
 ---

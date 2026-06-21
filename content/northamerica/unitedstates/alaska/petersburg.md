@@ -5,7 +5,7 @@ done:
 latitude: 56.8125
 loc_type: city
 longitude: -132.9553
-score: 0.45
+score: 0.42
 title: Petersburg
 type: location
 ---

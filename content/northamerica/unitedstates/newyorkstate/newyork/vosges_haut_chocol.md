@@ -3,13 +3,14 @@ address: 132 Spring Street
 latitude: 40.723909
 longitude: -74.000811
 phone: 212-625-2929
+score: 4.7
 tags:
 - shopping
 - shop
+- soho
 title: Vosges Haut Chocolat
 type: poi
 url: www.vosgeschocolate.com
-score: 4.7
 ---
 
 This unbelievably creative chocolate boutique puts all others to shame. Stop in for chocolates ranging from the exotic chocolate bars bursting with flavors such as wasabi and goji berries to sugar free creations such as Vosges Haut-Chocolat's Exotic Red Fire Candy Bar. Vosges Haut Chocolat has several New York Locations: 132 Spring Street between Green & Wooster, Soho and 1100 Madison Avenue, Upper East Side.

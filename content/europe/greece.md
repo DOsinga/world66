@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€)
   Islands: "6,000+ (fewer than 200 inhabited)"
   Coastline: "Longest in the Mediterranean"
-score: 0.68
+score: 0.91
 loc_type: country
 ---
 

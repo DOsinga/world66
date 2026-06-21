@@ -5,7 +5,7 @@ done:
 latitude: 36.5718
 loc_type: city
 longitude: -119.6126
-score: 0.28
+score: 0.22
 title: Selma
 type: location
 ---

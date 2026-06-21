@@ -12,7 +12,7 @@ quick_facts:
   Languages: French and English
   Nicknamed: "Africa in miniature"
   Mount Cameroon: "Only active volcano in West Africa"
-score: 0.35
+score: 0.47
 loc_type: country
 ---
 

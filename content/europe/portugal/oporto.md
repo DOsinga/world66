@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Oporto,_Po
 latitude: 41.150219
 loc_type: city
 longitude: -8.61035
-score: 0.77
+score: 0.67
 title: Oporto
 type: location
 ---

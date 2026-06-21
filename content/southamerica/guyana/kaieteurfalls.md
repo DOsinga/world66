@@ -5,7 +5,7 @@ latitude: 5.174942
 longitude: -59.480652
 title: Kaieteur Falls
 type: location
-score: 0.63
+score: 0.56
 loc_type: feature
 ---
 

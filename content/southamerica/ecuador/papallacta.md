@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Papallacta.JPG
 latitude: -0.377676
 loc_type: city
 longitude: -78.140888
-score: 0.54
+score: 0.46
 title: Papallacta
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 39.278869
 longitude: -74.576251
 title: Ocean City
 type: location
-score: 0.52
+score: 0.44
 loc_type: city
 image: oceancity.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Occean_City_beach_and_pier_MD1.jpg

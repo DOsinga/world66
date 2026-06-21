@@ -5,7 +5,7 @@ done:
 latitude: 39.1015
 loc_type: city
 longitude: -84.5125
-score: 0.47
+score: 0.41
 title: Cincinnati
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Ant%C3%B4nio_Lo
 latitude: -2.529526
 loc_type: city
 longitude: -44.296394
-score: 0.49
+score: 0.45
 title: São Luís
 type: location
 ---

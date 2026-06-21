@@ -5,7 +5,7 @@ latitude: 57.7081
 longitude: 26.4947
 title: Karula National Park
 type: location
-score: 0.45
+score: 0.4
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ste_Michelle.jpg
 latitude: 47.754583
 loc_type: city
 longitude: -122.15889
-score: 0.41
+score: 0.35
 title: Woodinville
 type: location
 ---

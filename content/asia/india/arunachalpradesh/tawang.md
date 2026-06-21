@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_buddist_monastry.jpg
 latitude: 27.587919
 loc_type: city
 longitude: 91.863733
-score: 0.59
+score: 0.46
 title: Tawang
 type: location
 ---

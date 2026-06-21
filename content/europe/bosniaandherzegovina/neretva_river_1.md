@@ -5,7 +5,7 @@ lat: 43.35
 long: 17.8
 title: Neretva River
 type: location
-score: 0.54
+score: 0.46
 loc_type: feature
 ---
 

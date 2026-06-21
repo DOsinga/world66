@@ -1,0 +1,200 @@
+{
+  "round": 4520,
+  "timestamp": "2026-06-14T00:19:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiufen",
+      "path": "asia/taiwan/jiufen",
+      "prior_score": 7.1919,
+      "prior_variance": 0.14037,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_score": 6.9814,
+      "prior_variance": 0.114368,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 5.833,
+      "prior_variance": 0.124198,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 5.2413,
+      "prior_variance": 0.11729,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 2.1642,
+      "prior_variance": 0.103326,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.4696,
+      "prior_variance": 0.106006,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.9085,
+      "prior_variance": 0.085053,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -0.8411,
+      "prior_variance": 0.089945,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 1.7041,
+      "prior_variance": 0.086715,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.4731,
+      "prior_variance": 0.103753,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -0.8295,
+      "prior_variance": 0.102426,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.4339,
+      "prior_variance": 0.087578,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -1.9755,
+      "prior_variance": 0.089479,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -1.2796,
+      "prior_variance": 0.107418,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -3.1221,
+      "prior_variance": 0.113475,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -0.9979,
+      "prior_variance": 0.085958,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": -0.3347,
+      "prior_variance": 0.097284,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.4484,
+      "prior_variance": 0.08948,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.3382,
+      "prior_variance": 0.098032,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.4161,
+      "prior_variance": 0.111124,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.0664,
+      "prior_variance": 0.095008,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.2226,
+      "prior_variance": 0.088402,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -2.8864,
+      "prior_variance": 0.095463,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.4994,
+      "prior_variance": 0.106157,
+      "prior_n": 15
+    }
+  ]
+}

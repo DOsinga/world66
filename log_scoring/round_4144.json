@@ -1,0 +1,200 @@
+{
+  "round": 4144,
+  "timestamp": "2026-06-13T23:46:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 7.3038,
+      "prior_variance": 0.143955,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 7.3882,
+      "prior_variance": 0.167815,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 3.806,
+      "prior_variance": 0.102015,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Vilnius",
+      "path": "europe/lithuania/vilnius",
+      "prior_score": 5.4573,
+      "prior_variance": 0.127316,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 3.1869,
+      "prior_variance": 0.113897,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.0818,
+      "prior_variance": 0.116548,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 3.769,
+      "prior_variance": 0.099484,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 3.6476,
+      "prior_variance": 0.107027,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.4535,
+      "prior_variance": 0.112586,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.4636,
+      "prior_variance": 0.106565,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 3.6606,
+      "prior_variance": 0.124919,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 3.9541,
+      "prior_variance": 0.124344,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Ranthambore National Park",
+      "path": "asia/india/rajasthan/ranthambore",
+      "prior_score": 4.0337,
+      "prior_variance": 0.139278,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 3.1114,
+      "prior_variance": 0.127042,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 0.957,
+      "prior_variance": 0.103622,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -0.4371,
+      "prior_variance": 0.094292,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.4117,
+      "prior_variance": 0.106751,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_score": -4.9104,
+      "prior_variance": 0.16721,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.1552,
+      "prior_variance": 0.135296,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -5.0517,
+      "prior_variance": 0.121453,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -5.1223,
+      "prior_variance": 0.107059,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.2394,
+      "prior_variance": 0.115037,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.7481,
+      "prior_variance": 0.102953,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -6.2387,
+      "prior_variance": 0.191406,
+      "prior_n": 13
+    }
+  ]
+}

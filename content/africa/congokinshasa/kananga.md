@@ -3,7 +3,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: -5.895173
 longitude: 22.408589
-score: 0.19
+score: 0.18
 title: Kananga
 type: location
 loc_type: city

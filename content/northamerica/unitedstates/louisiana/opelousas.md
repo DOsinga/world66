@@ -10,7 +10,7 @@ latitude: 30.53353
 longitude: -92.081509
 title: Opelousas
 type: location
-score: 0.35
+score: 0.3
 loc_type: city
 ---
 

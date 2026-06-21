@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bocca_di_Magra.JPG
 latitude: 44.046648
 loc_type: city
 longitude: 9.984746
-score: 0.52
+score: 0.42
 title: Bocca di Magra
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3448,
+  "timestamp": "2026-06-13T22:54:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.3168,
+      "prior_variance": 0.125513,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 2.4188,
+      "prior_variance": 0.157702,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 3.7851,
+      "prior_variance": 0.137992,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 5.2244,
+      "prior_variance": 0.130462,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 3.3978,
+      "prior_variance": 0.142694,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.2647,
+      "prior_variance": 0.123104,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 3.3286,
+      "prior_variance": 0.126771,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.699,
+      "prior_variance": 0.132862,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.8016,
+      "prior_variance": 0.112839,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 2.4081,
+      "prior_variance": 0.119917,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.3812,
+      "prior_variance": 0.116383,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.9045,
+      "prior_variance": 0.125786,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.6193,
+      "prior_variance": 0.114082,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.4698,
+      "prior_variance": 0.140485,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.4246,
+      "prior_variance": 0.13094,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 0.6156,
+      "prior_variance": 0.129152,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 0.6768,
+      "prior_variance": 0.141982,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.9267,
+      "prior_variance": 0.160164,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.2242,
+      "prior_variance": 0.134401,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": -0.2011,
+      "prior_variance": 0.117384,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -5.1567,
+      "prior_variance": 0.176654,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -4.9358,
+      "prior_variance": 0.121769,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.74,
+      "prior_variance": 0.148757,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -4.0834,
+      "prior_variance": 0.149254,
+      "prior_n": 11
+    }
+  ]
+}

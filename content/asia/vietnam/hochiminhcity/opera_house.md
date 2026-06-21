@@ -1,17 +1,18 @@
 ---
-title: "Municipal Theatre (Opera House)"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - theatre
 latitude: 10.7767
 longitude: 106.7032
-snippet: "French colonial opera house still staging performances in downtown Saigon"
-sources:
-  - https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Opera_House
 score: 8.2
+snippet: French colonial opera house still staging performances in downtown Saigon
+sources:
+- https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Opera_House
+tags:
+- things_to_do
+- sight
+- architecture
+- theatre
+- district_1
+title: Municipal Theatre (Opera House)
+type: poi
 ---
 
 The Municipal Theatre — known to most visitors as the Saigon Opera House — was built in 1897 in French Baroque style and is one of the most elegant buildings in the city. It sits at the top of Dong Khoi Street, its ornate facade facing Lam Son Square between the Caravelle Hotel and the Continental Hotel.

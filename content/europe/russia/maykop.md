@@ -5,7 +5,7 @@ done:
 latitude: 44.6062
 loc_type: city
 longitude: 40.1041
-score: 0.3
+score: 0.29
 title: Maykop
 type: location
 ---

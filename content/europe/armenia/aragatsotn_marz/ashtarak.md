@@ -9,7 +9,7 @@ latitude: 40.2887
 longitude: 44.3613
 title: Ashtarak
 type: location
-score: 0.41
+score: 0.36
 loc_type: city
 ---
 

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Stockholm_-_Au
 latitude: 59.325117
 loc_type: city
 longitude: 18.071093
-score: 0.8
+score: 0.68
 title: Stockholm
 type: location
 ---

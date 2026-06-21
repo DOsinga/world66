@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mina_de_Chuquicamata,_Cala
 latitude: -22.462392
 loc_type: city
 longitude: -68.927218
-score: 0.4
+score: 0.34
 title: Calama
 type: location
 ---

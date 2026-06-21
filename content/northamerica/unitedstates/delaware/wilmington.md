@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wilmington,_Delaware,_USA.
 latitude: 39.745947
 loc_type: city
 longitude: -75.546589
-score: 0.32
+score: 0.3
 title: Wilmington
 type: location
 ---

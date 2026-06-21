@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carnaval_La_Ceiba_Honduras
 latitude: 15.773
 loc_type: city
 longitude: -86.781
-score: 0.43
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/La_Ceiba
 - https://en.wikipedia.org/wiki/Pico_Bonito_National_Park

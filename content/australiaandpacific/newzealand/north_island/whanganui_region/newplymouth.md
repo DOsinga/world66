@@ -5,7 +5,7 @@ done:
 latitude: -39.058
 loc_type: city
 longitude: 174.0806
-score: 0.51
+score: 0.42
 title: New Plymouth
 type: location
 image: newplymouth.jpg

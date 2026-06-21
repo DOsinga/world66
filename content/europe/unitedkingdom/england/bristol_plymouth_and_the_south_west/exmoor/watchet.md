@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Watchet.jpg
 latitude: 51.182557
 loc_type: city
 longitude: -3.330433
-score: 0.43
+score: 0.4
 title: Watchet
 type: location
 ---

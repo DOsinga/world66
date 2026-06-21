@@ -1,0 +1,200 @@
+{
+  "round": 3427,
+  "timestamp": "2026-06-13T22:53:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 5.4459,
+      "prior_variance": 0.147374,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 2.5908,
+      "prior_variance": 0.158086,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 3.3441,
+      "prior_variance": 0.124513,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.994,
+      "prior_variance": 0.140893,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.2615,
+      "prior_variance": 0.129993,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 2.7831,
+      "prior_variance": 0.112629,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.3484,
+      "prior_variance": 0.12444,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4463,
+      "prior_variance": 0.107295,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_score": 0.5699,
+      "prior_variance": 0.113596,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.8664,
+      "prior_variance": 0.133037,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.158,
+      "prior_variance": 0.132998,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.3173,
+      "prior_variance": 0.141214,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.7831,
+      "prior_variance": 0.144554,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -0.7427,
+      "prior_variance": 0.136207,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -4.291,
+      "prior_variance": 0.123899,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.6822,
+      "prior_variance": 0.119706,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 1.9944,
+      "prior_variance": 0.136176,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -3.4393,
+      "prior_variance": 0.175163,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -2.7395,
+      "prior_variance": 0.133075,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -8.3716,
+      "prior_variance": 0.242,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.4261,
+      "prior_variance": 0.242699,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -7.3468,
+      "prior_variance": 0.177078,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.1126,
+      "prior_variance": 0.167835,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.1186,
+      "prior_variance": 0.194252,
+      "prior_n": 11
+    }
+  ]
+}

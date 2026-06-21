@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wheeling,_IL,_USA_-_panora
 latitude: 42.1389
 loc_type: city
 longitude: -87.9311
-score: 0.31
+score: 0.24
 title: Wheeling
 type: location
 ---

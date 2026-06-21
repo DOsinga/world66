@@ -5,7 +5,7 @@ done:
 latitude: 44.444626
 loc_type: city
 longitude: 8.43446
-score: 0.36
+score: 0.34
 title: Pontinvrea
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Pilar_Shrine,_Zamboan
 latitude: 6.9135
 loc_type: city
 longitude: 122.0739
-score: 0.41
+score: 0.33
 title: Zamboanga
 type: location
 ---

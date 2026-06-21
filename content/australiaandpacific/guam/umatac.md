@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Umatac_Bay,_Guam_-_DSC0095
 latitude: 13.293022
 loc_type: city
 longitude: 144.66113
-score: 0.45
+score: 0.38
 title: Umatac
 type: location
 ---

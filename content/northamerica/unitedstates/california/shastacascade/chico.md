@@ -5,7 +5,7 @@ done:
 latitude: 39.728494
 loc_type: city
 longitude: -121.837478
-score: 0.4
+score: 0.32
 title: Chico
 type: location
 ---

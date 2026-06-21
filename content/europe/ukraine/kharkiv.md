@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/136966778@N03/23899222666
 latitude: 49.992318
 loc_type: city
 longitude: 36.231015
-score: 0.31
+score: 0.27
 title: Kharkiv
 type: location
 ---

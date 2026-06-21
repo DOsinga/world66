@@ -5,7 +5,7 @@ done:
 latitude: 29.332783
 loc_type: city
 longitude: 48.068488
-score: 0.37
+score: 0.29
 title: Salmiya
 type: location
 ---

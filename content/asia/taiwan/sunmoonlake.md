@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/67415843@N05/9547071362
 latitude: 23.852328
 loc_type: city
 longitude: 120.928607
-score: 0.66
+score: 0.58
 title: Sun Moon Lake
 type: location
 ---

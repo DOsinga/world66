@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Russell_New_Zealand_banner
 latitude: -35.261792
 loc_type: city
 longitude: 174.121529
-score: 0.49
+score: 0.46
 title: Russell
 type: location
 ---

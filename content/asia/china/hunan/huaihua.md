@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Huaihua
 title: Huaihua
 type: location
+score: 0.28
 ---
 
 Huaihua is the main city of western [Hunan](/asia/china/hunan), sitting on the Shanghai-Kunming railway line in a region of mountain valleys inhabited by several ethnic minority groups: Dong, Miao, Tujia, and Yao peoples are all present in significant numbers in the surrounding counties, and the architecture, music, and food of western Hunan reflect this diversity in ways that the more heavily touristed east of the province often does not. The city itself has about 620,000 residents and the character of a regional transport hub — useful, not beautiful, a place to restock and plan the next move.

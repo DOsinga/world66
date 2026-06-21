@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baden_Panorama_01.jpg
 latitude: 48.0077
 loc_type: city
 longitude: 16.2344
-score: 0.55
+score: 0.46
 title: Baden bei Wien
 type: location
 ---

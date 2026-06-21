@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/110608682@N04/31087469701
 latitude: 32.265078
 loc_type: city
 longitude: -9.230554
-score: 0.46
+score: 0.38
 title: Safi
 type: location
 ---

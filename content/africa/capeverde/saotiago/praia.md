@@ -5,7 +5,7 @@ done:
 latitude: 14.916281
 loc_type: city
 longitude: -23.50951
-score: 0.49
+score: 0.41
 title: Praia
 type: location
 ---

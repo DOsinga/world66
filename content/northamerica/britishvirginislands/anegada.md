@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/23953244@N00/334638116
 latitude: 18.7275
 loc_type: city
 longitude: -64.3472
-score: 0.57
+score: 0.52
 title: Anegada
 type: location
 ---

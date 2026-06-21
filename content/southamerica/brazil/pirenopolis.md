@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cortejo_do_imperador_da_Fe
 latitude: -15.8501
 loc_type: city
 longitude: -49.0297
-score: 0.52
+score: 0.42
 title: Pirenópolis
 type: location
 ---

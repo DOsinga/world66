@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balanced_Rock.jpg
 latitude: 40.014986
 loc_type: city
 longitude: -105.270545
-score: 0.65
+score: 0.51
 title: Boulder
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hainan_3.JPG
 latitude: 18.2109
 loc_type: city
 longitude: 109.7065
-score: 0.57
+score: 0.47
 title: Yalong Bay
 type: location
 ---

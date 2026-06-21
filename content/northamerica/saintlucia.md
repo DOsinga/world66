@@ -12,7 +12,7 @@ image_license: CC BY-SA 3.0
 image_attribution: <a rel="nofollow" class="external text" href="http://www.wikivoyage-old.org/shared/User%3ABgabel">Bgabel</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.79
+score: 0.54
 loc_type: country
 ---
 

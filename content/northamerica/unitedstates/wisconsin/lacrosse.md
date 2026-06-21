@@ -6,7 +6,7 @@ latitude: 43.812284
 longitude: -91.251435
 title: La Crosse
 type: location
-score: 0.42
+score: 0.35
 loc_type: city
 image: lacrosse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Dad_Bluff_180_pano_aerial_(cropped).jpg

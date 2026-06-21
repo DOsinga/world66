@@ -6,7 +6,7 @@ done:
 latitude: 41.940609
 loc_type: city
 longitude: -7.440603
-score: 0.47
+score: 0.35
 title: Verín
 type: location
 ---

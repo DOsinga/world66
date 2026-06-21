@@ -1,0 +1,200 @@
+{
+  "round": 3158,
+  "timestamp": "2026-06-13T22:33:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "S\u00e3o Paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": 1.0819,
+      "prior_variance": 0.161993,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.4513,
+      "prior_variance": 0.207862,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 3.7744,
+      "prior_variance": 0.131754,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 3.3349,
+      "prior_variance": 0.137723,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.3819,
+      "prior_variance": 0.128395,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.0674,
+      "prior_variance": 0.141637,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 2.444,
+      "prior_variance": 0.165093,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.3988,
+      "prior_variance": 0.138623,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 2.7887,
+      "prior_variance": 0.139543,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.8999,
+      "prior_variance": 0.122568,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": -0.1645,
+      "prior_variance": 0.13031,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.3887,
+      "prior_variance": 0.145863,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.958,
+      "prior_variance": 0.12281,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 1.6679,
+      "prior_variance": 0.116274,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.3316,
+      "prior_variance": 0.129475,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.5978,
+      "prior_variance": 0.150371,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -0.1268,
+      "prior_variance": 0.152957,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -0.0394,
+      "prior_variance": 0.180899,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -1.9109,
+      "prior_variance": 0.131088,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 1.5919,
+      "prior_variance": 0.127215,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 1.0841,
+      "prior_variance": 0.122042,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.6299,
+      "prior_variance": 0.132638,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.5354,
+      "prior_variance": 0.121572,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Montecristo National Park",
+      "path": "northamerica/elsalvador/montecristonationalpark",
+      "prior_score": -0.583,
+      "prior_variance": 0.132124,
+      "prior_n": 10
+    }
+  ]
+}

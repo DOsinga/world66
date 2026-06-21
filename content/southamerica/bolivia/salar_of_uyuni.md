@@ -5,7 +5,7 @@ latitude: -20.2043
 longitude: -67.515
 title: Salar de Uyuni
 type: location
-score: 0.77
+score: 0.75
 image: salar_of_uyuni.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_42.JPG
 image_license: CC BY-SA 4.0

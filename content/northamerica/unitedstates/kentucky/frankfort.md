@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_frankfort_ky.JPG
 latitude: 38.2009
 loc_type: city
 longitude: -84.8733
-score: 0.45
+score: 0.34
 title: Frankfort
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Yarkand
 title: Yarkand
 type: location
+score: 0.27
 ---
 
 Yarkand — written Yarkant in Uyghur, Shache in Mandarin — sits on the southern Silk Road about 200 kilometres east of Kashgar, in a delta of rivers descending from the Karakoram. It is one of the oldest continuously inhabited cities in Xinjiang, a former capital of the Yarkand Khanate in the 16th and 17th centuries, when it was the wealthiest city between Samarkand and Beijing. Marco Polo passed through on his way to Cathay, noting the merchants and the jade. The jade trade still exists: the rivers here carry nephrite down from the Kunlun Mountains, and green stones are turned up in riverbeds after heavy rains.

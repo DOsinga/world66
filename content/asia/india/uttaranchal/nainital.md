@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg
 latitude: 29.294995
 loc_type: city
 longitude: 79.416251
-score: 0.55
+score: 0.47
 title: Nainital
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cleopatra_Bath,_Marsa_Matr
 latitude: 31.3543
 loc_type: city
 longitude: 27.2373
-score: 0.45
+score: 0.39
 title: Marsa Matruh
 type: location
 ---

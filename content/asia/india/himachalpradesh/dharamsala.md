@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dharamshala_03_(Cropped).j
 latitude: 32.214304
 loc_type: city
 longitude: 76.319672
-score: 0.67
+score: 0.56
 title: Dharamsala
 type: location
 ---

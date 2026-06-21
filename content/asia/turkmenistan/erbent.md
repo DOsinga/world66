@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erbent-2015.JPG
 latitude: 39.7333
 loc_type: city
 longitude: 58.0167
-score: 0.18
+score: 0.14
 sources:
 - https://en.wikipedia.org/wiki/Tazy_(dog)
 title: Erbent

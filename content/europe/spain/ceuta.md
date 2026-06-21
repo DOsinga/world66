@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Ceuta_y_la_pen%C3
 latitude: 35.8944
 loc_type: city
 longitude: -5.3558
-score: 0.52
+score: 0.45
 sources:
 - https://en.wikipedia.org/wiki/Ceuta
 title: Ceuta

@@ -1,0 +1,200 @@
+{
+  "round": 3055,
+  "timestamp": "2026-06-13T22:25:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 11.5325,
+      "prior_variance": 0.3327,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 7.512,
+      "prior_variance": 0.194285,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 6.4908,
+      "prior_variance": 0.177964,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 3.7532,
+      "prior_variance": 0.208484,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 0.7071,
+      "prior_variance": 0.162969,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 2.6792,
+      "prior_variance": 0.17611,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.0541,
+      "prior_variance": 0.133826,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.9852,
+      "prior_variance": 0.129254,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -1.883,
+      "prior_variance": 0.134343,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -4.9776,
+      "prior_variance": 0.169766,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.4429,
+      "prior_variance": 0.19284,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -6.4637,
+      "prior_variance": 0.238855,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -6.5633,
+      "prior_variance": 0.181042,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -1.8811,
+      "prior_variance": 0.146004,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.9441,
+      "prior_variance": 0.19906,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -4.8333,
+      "prior_variance": 0.135869,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.1952,
+      "prior_variance": 0.172589,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.246,
+      "prior_variance": 0.140018,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -5.8004,
+      "prior_variance": 0.154597,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -6.1509,
+      "prior_variance": 0.151151,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -5.6923,
+      "prior_variance": 0.133222,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -6.9129,
+      "prior_variance": 0.179838,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -6.5486,
+      "prior_variance": 0.194131,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -6.2478,
+      "prior_variance": 0.18791,
+      "prior_n": 10
+    }
+  ]
+}

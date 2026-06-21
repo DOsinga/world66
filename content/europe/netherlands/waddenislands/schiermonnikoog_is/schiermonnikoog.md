@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schiermonnikoog_-_Vuurtore
 latitude: 53.478789
 loc_type: city
 longitude: 6.203772
-score: 0.52
+score: 0.43
 title: Schiermonnikoog
 type: location
 ---

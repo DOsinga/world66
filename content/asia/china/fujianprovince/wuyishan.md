@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wuyi_Mountains_Sea_of_clou
 latitude: 27.756389
 loc_type: feature
 longitude: 117.972778
-score: 0.65
+score: 0.52
 title: Wuyishan
 type: location
 ---

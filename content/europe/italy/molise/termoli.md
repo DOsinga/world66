@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Termoli_xx.jpg
 latitude: 41.998327
 loc_type: city
 longitude: 14.993937
-score: 0.57
+score: 0.46
 title: Termoli
 type: location
 ---

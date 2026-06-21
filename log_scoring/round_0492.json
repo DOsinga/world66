@@ -1,200 +1,200 @@
 {
   "round": 492,
-  "timestamp": "2026-04-12T09:32:58",
+  "timestamp": "2026-06-13T19:39:05",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kazbegi",
-      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 10.3071,
+      "prior_variance": 9.74792,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Kazbegi",
-      "path": "europe/georgia/kazbegi",
-      "prior_mu": 23.5405,
-      "prior_sigma": 5.528,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 11.8089,
+      "prior_variance": 6.003188,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Vardzia",
-      "path": "europe/georgia/vardzia",
-      "prior_mu": 22.6972,
-      "prior_sigma": 5.9323,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 12.5464,
+      "prior_variance": 3.451555,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Gelati Monastery",
-      "path": "europe/georgia/gelati",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 12.2558,
+      "prior_variance": 2.188287,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Mtskheta",
-      "path": "europe/georgia/mtskheta",
-      "prior_mu": 22.2924,
-      "prior_sigma": 5.7858,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 13.8888,
+      "prior_variance": 7.709986,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Kakheti",
-      "path": "europe/georgia/kakheti",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_score": 9.1644,
+      "prior_variance": 3.401726,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Borjomi",
-      "path": "europe/georgia/borjomi",
-      "prior_mu": 22.5407,
-      "prior_sigma": 5.9151,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 9.0709,
+      "prior_variance": 2.191124,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Batumi",
-      "path": "europe/georgia/batumi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 9.031,
+      "prior_variance": 5.064208,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Kutaisi",
-      "path": "europe/georgia/kutaisi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 11.7308,
+      "prior_variance": 5.256401,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Black Sea Coast",
-      "path": "europe/georgia/blackseacoast",
-      "prior_mu": 22.2849,
-      "prior_sigma": 5.7573,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 7.4858,
+      "prior_variance": 1.720235,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Abkhazia",
-      "path": "europe/georgia/abkhazia",
-      "prior_mu": 22.4014,
-      "prior_sigma": 5.7309,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 13.3155,
+      "prior_variance": 3.220634,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Gori",
-      "path": "europe/georgia/gori",
-      "prior_mu": 22.2134,
-      "prior_sigma": 5.7753,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 7.4182,
+      "prior_variance": 1.867085,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Akhaltsikhe",
-      "path": "europe/georgia/alkhatsikhe",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 10.3646,
+      "prior_variance": 2.582123,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Zugdidi",
-      "path": "europe/georgia/zugdidi",
-      "prior_mu": 22.589,
-      "prior_sigma": 5.423,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 14.0078,
+      "prior_variance": 7.390337,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Pankisi Gorge",
-      "path": "europe/georgia/pankisi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 9.1499,
+      "prior_variance": 2.662135,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Gonio",
-      "path": "europe/georgia/gonio",
-      "prior_mu": 21.6783,
-      "prior_sigma": 4.7367,
-      "prior_n": 2
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 9.7676,
+      "prior_variance": 2.105498,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "kvariati",
-      "path": "europe/georgia/kvariati",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 9.9487,
+      "prior_variance": 1.67969,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Sarpi",
-      "path": "europe/georgia/sarpi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 10.9164,
+      "prior_variance": 3.445643,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Akhalkalaki",
-      "path": "europe/georgia/alkhakalaki",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 6.9653,
+      "prior_variance": 3.322796,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Gudauri",
-      "path": "europe/georgia/tbilisi/gudauri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 8.7586,
+      "prior_variance": 1.993933,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Senaki",
-      "path": "europe/georgia/zugdidi/senaki",
-      "prior_mu": 22.2749,
-      "prior_sigma": 5.7837,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 12.1563,
+      "prior_variance": 2.523937,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Tskhavati",
-      "path": "europe/georgia/tskhavati",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 8.243,
+      "prior_variance": 5.324475,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Tsunda",
-      "path": "europe/georgia/tsunda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 5.4877,
+      "prior_variance": 1.731029,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Georgia",
-      "path": "europe/georgia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 9.0427,
+      "prior_variance": 4.109491,
+      "prior_n": 1
     }
   ]
 }

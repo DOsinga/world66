@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/60179488@N07/33974753336
 latitude: 27.6753
 loc_type: city
 longitude: -8.1286
-score: 0.25
+score: 0.15
 title: Tindouf
 type: location
 ---

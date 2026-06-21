@@ -5,7 +5,7 @@ done:
 latitude: 57.802439
 loc_type: city
 longitude: 23.243165
-score: 0.48
+score: 0.37
 title: Ruhnu Island
 type: location
 ---

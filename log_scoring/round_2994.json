@@ -1,0 +1,200 @@
+{
+  "round": 2994,
+  "timestamp": "2026-06-13T22:21:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 13.4442,
+      "prior_variance": 0.917491,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 11.8439,
+      "prior_variance": 0.528597,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 9.9565,
+      "prior_variance": 0.303758,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_score": 6.3876,
+      "prior_variance": 0.162631,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 6.5923,
+      "prior_variance": 0.170282,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 4.7877,
+      "prior_variance": 0.162872,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/franzjosef",
+      "prior_score": 5.4117,
+      "prior_variance": 0.18836,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 5.6931,
+      "prior_variance": 0.175735,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 4.928,
+      "prior_variance": 0.166162,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.0011,
+      "prior_variance": 0.158563,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.1344,
+      "prior_variance": 0.171662,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 5.1018,
+      "prior_variance": 0.225882,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 5.4617,
+      "prior_variance": 0.143491,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.6409,
+      "prior_variance": 0.169924,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.7728,
+      "prior_variance": 0.151812,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 5.5567,
+      "prior_variance": 0.221666,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 3.5753,
+      "prior_variance": 0.17003,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 2.0797,
+      "prior_variance": 0.163053,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.6563,
+      "prior_variance": 0.136574,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": -0.1505,
+      "prior_variance": 0.140987,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -0.7058,
+      "prior_variance": 0.139529,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -2.4723,
+      "prior_variance": 0.152914,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.1211,
+      "prior_variance": 0.137275,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.5868,
+      "prior_variance": 0.158517,
+      "prior_n": 9
+    }
+  ]
+}

@@ -6,7 +6,7 @@ latitude: 42.424811
 longitude: 25.625748
 title: Stara Zagora
 type: location
-score: 0.39
+score: 0.34
 loc_type: city
 image: starazagora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Main_street_Augusta_Traiana.jpg

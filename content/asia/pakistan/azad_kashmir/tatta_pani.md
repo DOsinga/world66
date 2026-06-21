@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tatta_Pani.JPG
 latitude: 33.6056
 loc_type: city
 longitude: 73.9481
-score: 0.3
+score: 0.27
 title: Tatta Pani
 type: location
 ---

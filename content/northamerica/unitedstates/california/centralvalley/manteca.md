@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MantecaCA.jpg
 latitude: 37.7988
 loc_type: city
 longitude: -121.2116
-score: 0.31
+score: 0.21
 title: Manteca
 type: location
 ---

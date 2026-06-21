@@ -1,0 +1,200 @@
+{
+  "round": 3230,
+  "timestamp": "2026-06-13T22:38:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.3672,
+      "prior_variance": 0.125724,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -0.8808,
+      "prior_variance": 0.13091,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.4755,
+      "prior_variance": 0.123319,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.2116,
+      "prior_variance": 0.133498,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Quanzhou",
+      "path": "asia/china/fujianprovince/quanzhou",
+      "prior_score": 0.2332,
+      "prior_variance": 0.125372,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 0.583,
+      "prior_variance": 0.142526,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -1.5212,
+      "prior_variance": 0.149554,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": -0.5327,
+      "prior_variance": 0.141373,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -0.5031,
+      "prior_variance": 0.11916,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.1824,
+      "prior_variance": 0.131712,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -2.7768,
+      "prior_variance": 0.241608,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.7398,
+      "prior_variance": 0.14523,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.4844,
+      "prior_variance": 0.181272,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -2.6043,
+      "prior_variance": 0.125535,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -2.0091,
+      "prior_variance": 0.123518,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Chongzuo",
+      "path": "asia/china/guangxi/chongzuo",
+      "prior_score": -2.5561,
+      "prior_variance": 0.120344,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -3.4975,
+      "prior_variance": 0.158305,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -5.2086,
+      "prior_variance": 0.158405,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -5.0447,
+      "prior_variance": 0.171842,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -4.0277,
+      "prior_variance": 0.148686,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -3.0637,
+      "prior_variance": 0.156239,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.3854,
+      "prior_variance": 0.151098,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -5.6142,
+      "prior_variance": 0.165156,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.6566,
+      "prior_variance": 0.257424,
+      "prior_n": 10
+    }
+  ]
+}

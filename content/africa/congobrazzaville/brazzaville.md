@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_ville_de_Brazzaville_01
 latitude: -4.2634
 loc_type: city
 longitude: 15.2429
-score: 0.4
+score: 0.29
 title: Brazzaville
 type: location
 ---

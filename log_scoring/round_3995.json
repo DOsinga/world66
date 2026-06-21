@@ -1,0 +1,200 @@
+{
+  "round": 3995,
+  "timestamp": "2026-06-13T23:35:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.2023,
+      "prior_variance": 0.12063,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.5008,
+      "prior_variance": 0.108493,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.8715,
+      "prior_variance": 0.101561,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": 0.1175,
+      "prior_variance": 0.100587,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -0.8955,
+      "prior_variance": 0.106471,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -1.1201,
+      "prior_variance": 0.093398,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.6595,
+      "prior_variance": 0.08978,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.1171,
+      "prior_variance": 0.10454,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.3455,
+      "prior_variance": 0.097629,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -2.5339,
+      "prior_variance": 0.112665,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.2676,
+      "prior_variance": 0.131211,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -1.9135,
+      "prior_variance": 0.106887,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -1.2775,
+      "prior_variance": 0.107392,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.4104,
+      "prior_variance": 0.104727,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -2.1682,
+      "prior_variance": 0.104011,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -1.9245,
+      "prior_variance": 0.103888,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.4744,
+      "prior_variance": 0.120322,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -2.8402,
+      "prior_variance": 0.107955,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -2.9353,
+      "prior_variance": 0.112542,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.7841,
+      "prior_variance": 0.122322,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop",
+      "prior_score": -4.6462,
+      "prior_variance": 0.147294,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.3971,
+      "prior_variance": 0.145213,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -5.1334,
+      "prior_variance": 0.126365,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.1246,
+      "prior_variance": 0.114891,
+      "prior_n": 13
+    }
+  ]
+}

@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 42.8782
 longitude: -8.5448
+score: 0.6
 ---
 
 Santiago de Compostela is one of the great pilgrimage cities of the world. For over a thousand years, Christians have walked the Camino de Santiago — the Way of Saint James — from all over Europe to reach the cathedral that stands at the city's heart and allegedly contains the tomb of the apostle James. Today the pilgrims still come, and the city that has grown up to receive them is one of the finest old towns in Spain, built from the golden-grey granite of Galicia and draped in the Atlantic rain that keeps everything green.

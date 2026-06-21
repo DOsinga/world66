@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arenzano_panorama.jpg
 latitude: 44.4025
 loc_type: city
 longitude: 8.6814
-score: 0.53
+score: 0.43
 title: Arenzano
 type: location
 ---

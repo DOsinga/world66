@@ -5,7 +5,7 @@ done:
 latitude: 47.6779
 loc_type: city
 longitude: 11.2012
-score: 0.52
+score: 0.45
 title: Murnau am Staffelsee
 type: location
 ---

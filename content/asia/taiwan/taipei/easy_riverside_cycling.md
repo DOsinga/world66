@@ -1,13 +1,14 @@
 ---
-latitude: 25.0810
-longitude: 121.5180
+latitude: 25.081
+longitude: 121.518
+score: 7.2
 snippet: Continuous riverside bike path network around the Taipei basin
 tags:
 - things_to_do
 - sight
+- shilin
 title: Riverside Bike Paths
 type: poi
-score: 7.2
 ---
 
 The Taipei City government has invested heavily in turning the floodplains of the Tamsui, Keelung, and Xindian rivers into a continuous network of paved bike paths. The result is one of the most extensive urban cycling networks in Asia: over 100 kilometres of riverside paths, separated from traffic, looping around the city centre and out to Tamsui in the north, Wugu in the west, and Bitan in the south.

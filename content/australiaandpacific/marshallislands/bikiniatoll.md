@@ -6,7 +6,7 @@ latitude: 11.538887
 longitude: 165.272232
 title: Bikini Atoll
 type: location
-score: 0.45
+score: 0.4
 loc_type: city
 ---
 

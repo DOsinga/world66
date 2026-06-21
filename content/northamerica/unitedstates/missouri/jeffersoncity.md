@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:First_United_Methodist_Chu
 latitude: 38.577359
 loc_type: city
 longitude: -92.172427
-score: 0.39
+score: 0.31
 title: Jefferson City
 type: location
 ---

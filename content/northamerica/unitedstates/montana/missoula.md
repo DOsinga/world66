@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caras_Park,_Missoula,_MT.j
 latitude: 46.8701
 loc_type: city
 longitude: -113.9953
-score: 0.48
+score: 0.4
 title: Missoula
 type: location
 ---

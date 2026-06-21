@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambados.jpeg
 latitude: 42.5144
 loc_type: city
 longitude: -8.8138
-score: 0.55
+score: 0.46
 title: Cambados
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Longmen_Grottoes_3.jpg
 latitude: 34.6197
 loc_type: city
 longitude: 112.4477
-score: 0.59
+score: 0.48
 title: Luoyang
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aley_Overlooking_Beirut.jp
 latitude: 33.80827
 loc_type: city
 longitude: 35.606118
-score: 0.44
+score: 0.39
 title: Aley
 type: location
 ---

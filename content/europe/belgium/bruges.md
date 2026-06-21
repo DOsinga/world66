@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belf
 latitude: 51.208553
 loc_type: city
 longitude: 3.226772
-score: 0.74
+score: 0.7
 title: Bruges
 type: location
 ---

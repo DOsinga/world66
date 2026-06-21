@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Acorn_Street,_Boston,_Unit
 latitude: 42.3589
 loc_type: city
 longitude: -71.0568
-score: 0.7
+score: 0.61
 title: Boston
 type: location
 ---

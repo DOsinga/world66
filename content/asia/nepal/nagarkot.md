@@ -5,7 +5,7 @@ done:
 latitude: 27.718508
 loc_type: city
 longitude: 85.51973
-score: 0.61
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Nagarkot
 - https://nepaldesk.com/places-visit/nagarkot

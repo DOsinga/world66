@@ -15,7 +15,7 @@ quick_facts:
   Umhlanga Dancers: "40,000+"
 done:
   country_cleanup: 2026-03-31
-score: 0.46
+score: 0.44
 loc_type: country
 ---
 

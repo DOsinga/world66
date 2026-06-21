@@ -16,7 +16,7 @@ quick_facts:
   Cox's Bazar Beach: "120 km long"
 title: Bangladesh
 type: location
-score: 0.31
+score: 0.51
 loc_type: country
 ---
 

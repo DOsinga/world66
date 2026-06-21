@@ -1,200 +1,200 @@
 {
   "round": 1221,
-  "timestamp": "2026-04-12T22:15:54",
+  "timestamp": "2026-06-13T20:17:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Arroyo de la Miel",
-      "path": "europe/spain/andalucia/arroyodelamiel",
-      "prior_rank": 7766,
-      "prior_wins": 6,
-      "prior_n": 2
-    },
-    {
-      "rank": 2,
-      "title": "Amizmiz",
-      "path": "africa/morocco/marrakesh/amizmiz",
-      "prior_rank": 5007,
-      "prior_wins": 19,
-      "prior_n": 2
-    },
-    {
-      "rank": 3,
-      "title": "Ait Ourir",
-      "path": "africa/morocco/aitourir",
-      "prior_rank": 7094,
-      "prior_wins": 10,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Jinotega",
-      "path": "northamerica/nicaragua/jinotega",
-      "prior_rank": 5541,
-      "prior_wins": 16,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "Shusha",
-      "path": "europe/azerbaijan/nagornokarabakh/shusha",
-      "prior_rank": 2413,
-      "prior_wins": 45,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_score": 12.4751,
+      "prior_variance": 0.623056,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 12.8982,
+      "prior_variance": 0.636815,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 2.8059,
+      "prior_variance": 0.505115,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.2685,
+      "prior_variance": 0.50808,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.6066,
+      "prior_variance": 0.307871,
+      "prior_n": 4
+    },
+    {
       "rank": 6,
-      "title": "Worcester",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
-      "prior_rank": 7079,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 2.2711,
+      "prior_variance": 0.365734,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "New London",
-      "path": "northamerica/unitedstates/connecticut/new_london",
-      "prior_rank": 5072,
-      "prior_wins": 28,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 0.8221,
+      "prior_variance": 0.449801,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Kansas City",
-      "path": "northamerica/unitedstates/kansas/kansascity",
-      "prior_rank": 4803,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 1.9615,
+      "prior_variance": 0.312984,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Columbia",
-      "path": "northamerica/unitedstates/missouri/columbia",
-      "prior_rank": 6674,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": -1.6194,
+      "prior_variance": 0.408437,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Costa Mesa",
-      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
-      "prior_rank": 6221,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 2.5145,
+      "prior_variance": 0.361475,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Sunnyvale",
-      "path": "northamerica/unitedstates/california/sunnyvale",
-      "prior_rank": 7307,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -3.8839,
+      "prior_variance": 0.397547,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Salinas",
-      "path": "northamerica/unitedstates/california/salinas",
-      "prior_rank": 7512,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -5.7939,
+      "prior_variance": 0.578643,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Cartersville",
-      "path": "northamerica/unitedstates/georgia/cartersville",
-      "prior_rank": 6887,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -7.9641,
+      "prior_variance": 0.431955,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Monument",
-      "path": "northamerica/unitedstates/colorado/monument",
-      "prior_rank": 6870,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -7.1058,
+      "prior_variance": 0.382734,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Fort Erie",
-      "path": "northamerica/canada/ontario/fort_erie",
-      "prior_rank": 6707,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_score": -3.705,
+      "prior_variance": 0.292522,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Langley",
-      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
-      "prior_rank": 6645,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -7.1148,
+      "prior_variance": 0.507536,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Nybro",
-      "path": "europe/sweden/nybro",
-      "prior_rank": 7476,
-      "prior_wins": 8,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Portland",
-      "path": "australiaandpacific/australia/victoria/portland",
-      "prior_rank": 6166,
-      "prior_wins": 21,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -8.8331,
+      "prior_variance": 0.569632,
       "prior_n": 3
     },
     {
+      "rank": 18,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_score": -6.7741,
+      "prior_variance": 0.589778,
+      "prior_n": 4
+    },
+    {
       "rank": 19,
-      "title": "Ottery St Mary",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
-      "prior_rank": 6419,
-      "prior_wins": 20,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -8.5246,
+      "prior_variance": 0.6328,
       "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Vanadzor",
-      "path": "europe/armenia/vanadzor",
-      "prior_rank": 6703,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -8.923,
+      "prior_variance": 0.507959,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Koronadal City",
-      "path": "asia/philippines/koronadalcity",
-      "prior_rank": 6543,
-      "prior_wins": 19,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -9.1321,
+      "prior_variance": 0.564669,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Jambi",
-      "path": "asia/indonesia/jambi",
-      "prior_rank": 5149,
-      "prior_wins": 28,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -9.1718,
+      "prior_variance": 0.646099,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Calder\u00f3n",
-      "path": "southamerica/ecuador/calderon",
-      "prior_rank": 7063,
-      "prior_wins": 20,
-      "prior_n": 4
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -10.0318,
+      "prior_variance": 0.52416,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Practical Information",
-      "path": "asia/cyprus/nicosia/practical_informat_1",
-      "prior_rank": 6486,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -12.105,
+      "prior_variance": 0.682943,
+      "prior_n": 3
     }
   ]
 }

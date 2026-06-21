@@ -1,0 +1,200 @@
+{
+  "round": 4743,
+  "timestamp": "2026-06-14T00:38:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 10.4015,
+      "prior_variance": 0.207293,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 5.2236,
+      "prior_variance": 0.157131,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 3.2887,
+      "prior_variance": 0.100891,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.5079,
+      "prior_variance": 0.090356,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 1.499,
+      "prior_variance": 0.095927,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_score": -0.1467,
+      "prior_variance": 0.097283,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 2.2664,
+      "prior_variance": 0.082153,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.5528,
+      "prior_variance": 0.092132,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 1.5769,
+      "prior_variance": 0.090968,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -1.0211,
+      "prior_variance": 0.081037,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.6323,
+      "prior_variance": 0.08298,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.0796,
+      "prior_variance": 0.091366,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.2003,
+      "prior_variance": 0.096185,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.158,
+      "prior_variance": 0.084421,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.3408,
+      "prior_variance": 0.086109,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -1.7615,
+      "prior_variance": 0.116387,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -0.755,
+      "prior_variance": 0.079127,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.0875,
+      "prior_variance": 0.085758,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -1.9725,
+      "prior_variance": 0.086267,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -0.6574,
+      "prior_variance": 0.093703,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -1.1361,
+      "prior_variance": 0.078041,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.2412,
+      "prior_variance": 0.088479,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.4523,
+      "prior_variance": 0.096522,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.5596,
+      "prior_variance": 0.137778,
+      "prior_n": 15
+    }
+  ]
+}

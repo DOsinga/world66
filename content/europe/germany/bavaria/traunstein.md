@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Oswald_Kirche_Traunste
 latitude: 47.8695
 loc_type: city
 longitude: 12.6485
-score: 0.46
+score: 0.39
 title: Traunstein
 type: location
 ---

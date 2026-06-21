@@ -5,7 +5,7 @@ done:
 latitude: 55.010252
 loc_type: city
 longitude: 11.909748
-score: 0.46
+score: 0.38
 title: Vordingborg
 type: location
 image: vordingborg.jpg

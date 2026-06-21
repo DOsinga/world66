@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/38805177232
 latitude: 37.315155
 loc_type: city
 longitude: -8.804053
-score: 0.54
+score: 0.48
 title: Aljezur
 type: location
 ---

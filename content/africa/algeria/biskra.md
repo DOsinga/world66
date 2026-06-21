@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biskra_1.JPG
 latitude: 34.8484
 loc_type: city
 longitude: 5.7286
-score: 0.4
+score: 0.33
 title: Biskra
 type: location
 ---

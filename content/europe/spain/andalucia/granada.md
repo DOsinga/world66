@@ -8,7 +8,7 @@ image_attribution: Quintin Soloviev
 latitude: 37.173499
 loc_type: city
 longitude: -3.599534
-score: 0.82
+score: 0.73
 title: Granada
 type: location
 ---

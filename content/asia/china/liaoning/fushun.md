@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Fushun
 title: Fushun
 type: location
+score: 0.23
 ---
 
 Fushun sits forty kilometres east of Shenyang and carries more history per square kilometre than most Chinese cities appreciate. It was the coal capital of China for much of the twentieth century — the open-pit mine here was once the largest in Asia — and it was also, for a brief and formative period in the seventeenth century, the heartland from which the Qing Dynasty launched its conquest of China.

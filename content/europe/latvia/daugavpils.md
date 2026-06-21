@@ -6,7 +6,7 @@ latitude: 55.871227
 longitude: 26.515934
 title: Daugavpils
 type: location
-score: 0.44
+score: 0.36
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_h%C3%BAsav%C3%ADk_aerial
 latitude: 66.0433
 loc_type: city
 longitude: -17.341
-score: 0.61
+score: 0.5
 title: Husavik
 type: location
 ---

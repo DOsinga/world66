@@ -5,7 +5,7 @@ done:
 latitude: 41.636215
 loc_type: city
 longitude: -70.934205
-score: 0.42
+score: 0.36
 title: New Bedford
 type: location
 ---

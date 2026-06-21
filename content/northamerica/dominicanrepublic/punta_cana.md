@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_
 latitude: 18.582
 loc_type: city
 longitude: -68.4055
-score: 0.69
+score: 0.61
 title: Punta Cana
 type: location
 ---

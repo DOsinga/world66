@@ -1,0 +1,200 @@
+{
+  "round": 3768,
+  "timestamp": "2026-06-13T23:18:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 5.4975,
+      "prior_variance": 0.12323,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 2.1775,
+      "prior_variance": 0.125227,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.1201,
+      "prior_variance": 0.14273,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.2193,
+      "prior_variance": 0.111063,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.3026,
+      "prior_variance": 0.12755,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 1.0957,
+      "prior_variance": 0.10505,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.9527,
+      "prior_variance": 0.13673,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.4053,
+      "prior_variance": 0.106189,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": -0.0393,
+      "prior_variance": 0.134795,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.0348,
+      "prior_variance": 0.107106,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -0.1815,
+      "prior_variance": 0.102735,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": -0.1197,
+      "prior_variance": 0.128556,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": -0.2866,
+      "prior_variance": 0.126821,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster",
+      "prior_score": 0.1559,
+      "prior_variance": 0.102989,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.4515,
+      "prior_variance": 0.117232,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": -0.6429,
+      "prior_variance": 0.108414,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.1583,
+      "prior_variance": 0.09474,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.7458,
+      "prior_variance": 0.106496,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.2595,
+      "prior_variance": 0.107824,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.5671,
+      "prior_variance": 0.111059,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -2.1843,
+      "prior_variance": 0.110484,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -2.9921,
+      "prior_variance": 0.112776,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -3.1633,
+      "prior_variance": 0.140322,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.6191,
+      "prior_variance": 0.10398,
+      "prior_n": 12
+    }
+  ]
+}

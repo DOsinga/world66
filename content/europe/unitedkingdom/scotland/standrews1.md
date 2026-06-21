@@ -8,7 +8,7 @@ image_license: CC BY-SA 3.0
 latitude: 56.34039
 loc_type: city
 longitude: -2.795584
-score: 0.68
+score: 0.58
 title: St. Andrews
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1927,
-  "timestamp": "2026-04-13T15:55:01",
+  "timestamp": "2026-06-13T21:01:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bangkok",
-      "path": "asia/thailand/bangkok",
-      "prior_score": 11.6917,
-      "prior_variance": 0.558537,
-      "prior_n": 4
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 8.5195,
+      "prior_variance": 0.349438,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Phuket",
-      "path": "asia/thailand/phuket",
-      "prior_score": 9.5041,
-      "prior_variance": 0.676809,
-      "prior_n": 5
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.6187,
+      "prior_variance": 0.241788,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/otago/fiordland",
-      "prior_score": 12.0799,
-      "prior_variance": 0.714421,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 2.987,
+      "prior_variance": 0.298965,
       "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Portugal",
-      "path": "europe/portugal",
-      "prior_score": 2.3641,
-      "prior_variance": 0.553274,
-      "prior_n": 5
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.1062,
+      "prior_variance": 0.273415,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Colmar",
-      "path": "europe/france/east/alsace/colmar",
-      "prior_score": 9.3881,
-      "prior_variance": 0.648806,
-      "prior_n": 4
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 4.0124,
+      "prior_variance": 0.340246,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Roppongi",
-      "path": "asia/japan/tokyo/roppongi",
-      "prior_score": 4.8748,
-      "prior_variance": 0.244195,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 4.27,
+      "prior_variance": 0.232661,
       "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Ajaccio",
-      "path": "europe/france/corsica/ajaccio",
-      "prior_score": 6.0479,
-      "prior_variance": 0.318643,
-      "prior_n": 5
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.1855,
+      "prior_variance": 0.240443,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Eze-bord-de-mer",
-      "path": "europe/france/midi/cotedazur/ezeborddemer",
-      "prior_score": 6.5442,
-      "prior_variance": 0.352652,
-      "prior_n": 5
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 1.3806,
+      "prior_variance": 0.273135,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Comacchio",
-      "path": "europe/italy/emiliaromagna/comacchio",
-      "prior_score": 1.6213,
-      "prior_variance": 0.24918,
-      "prior_n": 5
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 4.4679,
+      "prior_variance": 0.22851,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "costa dorada",
-      "path": "europe/spain/catalonia/costa_dorada",
-      "prior_score": 3.1566,
-      "prior_variance": 0.322169,
-      "prior_n": 5
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.2689,
+      "prior_variance": 0.285283,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Hout Bay",
-      "path": "africa/southafrica/houtbay",
-      "prior_score": 2.012,
-      "prior_variance": 0.457194,
-      "prior_n": 4
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 3.4942,
+      "prior_variance": 0.225599,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Bristol",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
-      "prior_score": 3.2809,
-      "prior_variance": 0.261156,
-      "prior_n": 5
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.2915,
+      "prior_variance": 0.229181,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Malahide",
-      "path": "europe/ireland/malahide",
-      "prior_score": 1.0239,
-      "prior_variance": 0.243852,
-      "prior_n": 5
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.0743,
+      "prior_variance": 0.237383,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Pakse",
-      "path": "asia/laos/pakse",
-      "prior_score": 2.1997,
-      "prior_variance": 0.262163,
-      "prior_n": 5
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 2.6649,
+      "prior_variance": 0.234137,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "KARNATAKA",
-      "path": "asia/india/maharashtra/konkan/karnataka",
-      "prior_score": -3.7584,
-      "prior_variance": 0.393762,
-      "prior_n": 5
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1176,
+      "prior_variance": 0.197179,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Salmon Arm",
-      "path": "northamerica/canada/britishcolumbia/salmonarm",
-      "prior_score": -0.7145,
-      "prior_variance": 0.263694,
-      "prior_n": 5
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.4375,
+      "prior_variance": 0.201558,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Kondoa",
-      "path": "africa/tanzania/kondoa",
-      "prior_score": -3.1974,
-      "prior_variance": 0.257683,
-      "prior_n": 5
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 0.6988,
+      "prior_variance": 0.213008,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "St. Louis",
-      "path": "northamerica/unitedstates/missouri/stlouis",
-      "prior_score": -0.5748,
-      "prior_variance": 0.336993,
-      "prior_n": 5
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": 0.448,
+      "prior_variance": 0.232006,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Winston-Salem",
-      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
-      "prior_score": -1.4379,
-      "prior_variance": 0.25938,
-      "prior_n": 5
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.6415,
+      "prior_variance": 0.202394,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Simferopol",
-      "path": "europe/ukraine/crimea/simferopol",
-      "prior_score": -2.3472,
-      "prior_variance": 0.300581,
-      "prior_n": 5
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.3978,
+      "prior_variance": 0.326249,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Dari\u00e9n Gap",
-      "path": "northamerica/panama/dariengap",
-      "prior_score": -4.5108,
-      "prior_variance": 0.564882,
-      "prior_n": 5
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.4242,
+      "prior_variance": 0.227056,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Huddersfield",
-      "path": "europe/unitedkingdom/england/huddersfield",
-      "prior_score": -3.6954,
-      "prior_variance": 0.640246,
-      "prior_n": 4
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.6997,
+      "prior_variance": 0.186803,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Bangladesh",
-      "path": "asia/bangladesh",
-      "prior_score": -5.6809,
-      "prior_variance": 0.439651,
-      "prior_n": 5
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.8192,
+      "prior_variance": 0.205354,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "amalner",
-      "path": "asia/india/maharashtra/mumbai/amalner",
-      "prior_score": -6.8116,
-      "prior_variance": 0.423948,
-      "prior_n": 4
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.0801,
+      "prior_variance": 0.198364,
+      "prior_n": 7
     }
   ]
 }

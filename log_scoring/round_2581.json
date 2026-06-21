@@ -1,0 +1,200 @@
+{
+  "round": 2581,
+  "timestamp": "2026-06-13T21:52:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 18.8318,
+      "prior_variance": 1.254918,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 10.4014,
+      "prior_variance": 0.299183,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 2.8228,
+      "prior_variance": 0.215309,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_score": 2.9282,
+      "prior_variance": 0.159142,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.5355,
+      "prior_variance": 0.175528,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 4.5344,
+      "prior_variance": 0.185302,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 0.5784,
+      "prior_variance": 0.191044,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.4894,
+      "prior_variance": 0.1477,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.3524,
+      "prior_variance": 0.170753,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.7564,
+      "prior_variance": 0.177307,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.3026,
+      "prior_variance": 0.174021,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.638,
+      "prior_variance": 0.162637,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.0756,
+      "prior_variance": 0.186727,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.9275,
+      "prior_variance": 0.167074,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/jal",
+      "prior_score": 0.787,
+      "prior_variance": 0.171647,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Thakhek",
+      "path": "asia/laos/thakhek",
+      "prior_score": 0.7889,
+      "prior_variance": 0.215645,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": 0.0081,
+      "prior_variance": 0.173216,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -1.0077,
+      "prior_variance": 0.163485,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 1.0989,
+      "prior_variance": 0.1839,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -1.0873,
+      "prior_variance": 0.158145,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 0.9054,
+      "prior_variance": 0.213941,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": 0.2391,
+      "prior_variance": 0.196835,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.4035,
+      "prior_variance": 0.190257,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -8.4589,
+      "prior_variance": 0.261343,
+      "prior_n": 8
+    }
+  ]
+}

@@ -7,7 +7,7 @@ done:
 latitude: 49.193174
 loc_type: city
 longitude: 2.463669
-score: 0.51
+score: 0.5
 title: Chantilly
 type: location
 image: chantilly.jpg

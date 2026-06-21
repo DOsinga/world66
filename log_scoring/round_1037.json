@@ -1,200 +1,200 @@
 {
   "round": 1037,
-  "timestamp": "2026-04-12T22:05:55",
+  "timestamp": "2026-06-13T20:07:24",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Thailand",
-      "path": "asia/thailand",
-      "prior_rank": 494,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Eastern Qing Tombs",
+      "path": "asia/china/hebei/eastern_qing_tombs",
+      "prior_score": -0.5145,
+      "prior_variance": 0.415422,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Seychelles",
-      "path": "africa/seychelles",
-      "prior_rank": 485,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -1.851,
+      "prior_variance": 0.439475,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Exumas",
-      "path": "northamerica/bahamas/exumas",
-      "prior_rank": 33,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -3.6161,
+      "prior_variance": 0.449745,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Cape Town",
-      "path": "africa/southafrica/capetown",
-      "prior_rank": 105,
-      "prior_wins": 66,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -2.1998,
+      "prior_variance": 0.42761,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Chichen Itza",
-      "path": "northamerica/mexico/yucatan/chichenitza",
-      "prior_rank": 37,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -4.0995,
+      "prior_variance": 0.44136,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Tulum",
-      "path": "northamerica/mexico/yucatan/tulum",
-      "prior_rank": 319,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -1.9139,
+      "prior_variance": 0.697628,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Puerto Princesa",
-      "path": "asia/philippines/puerto_princesa",
-      "prior_rank": 1933,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -2.3483,
+      "prior_variance": 0.382911,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Versailles",
-      "path": "europe/france/around_paris/versailles",
-      "prior_rank": 54,
-      "prior_wins": 67,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -5.9108,
+      "prior_variance": 0.42659,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Corfu",
-      "path": "europe/greece/corfu",
-      "prior_rank": 117,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -4.6668,
+      "prior_variance": 0.578683,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Hvar",
-      "path": "europe/croatia/hvar",
-      "prior_rank": 315,
-      "prior_wins": 84,
-      "prior_n": 4
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -4.8017,
+      "prior_variance": 0.504394,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Miyako Island",
-      "path": "asia/japan/ryukyuislands/miyakoisland",
-      "prior_rank": 653,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -4.0308,
+      "prior_variance": 0.538013,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Tallinn",
-      "path": "europe/estonia/tallinn",
-      "prior_rank": 777,
-      "prior_wins": 59,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -0.7244,
+      "prior_variance": 0.639844,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Nikk\u014d",
-      "path": "asia/japan/honshu/nikko",
-      "prior_rank": 182,
-      "prior_wins": 64,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -3.751,
+      "prior_variance": 0.412893,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Pompeii",
-      "path": "europe/italy/campania/pompeii",
-      "prior_rank": 427,
-      "prior_wins": 104,
-      "prior_n": 5
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -3.0233,
+      "prior_variance": 0.371981,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Shanghai",
-      "path": "asia/china/shanghai",
-      "prior_rank": 660,
-      "prior_wins": 60,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -4.3929,
+      "prior_variance": 0.455024,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Madrid",
-      "path": "europe/spain/madrid",
-      "prior_rank": 2,
-      "prior_wins": 114,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -3.982,
+      "prior_variance": 0.381656,
       "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Milan",
-      "path": "europe/italy/lombardia/milan",
-      "prior_rank": 664,
-      "prior_wins": 60,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -3.5936,
+      "prior_variance": 0.425315,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Avignon",
-      "path": "europe/france/midi/provence/avignon",
-      "prior_rank": 88,
-      "prior_wins": 44,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "Bath",
-      "path": "europe/unitedkingdom/england/bath",
-      "prior_rank": 1356,
-      "prior_wins": 54,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -2.9185,
+      "prior_variance": 0.512031,
       "prior_n": 3
     },
     {
-      "rank": 20,
-      "title": "Barbados",
-      "path": "northamerica/barbados",
-      "prior_rank": 214,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Las Palmas",
-      "path": "europe/spain/grancanaria/laspalmas",
-      "prior_rank": 343,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Montreux",
-      "path": "europe/switzerland/montreux",
-      "prior_rank": 141,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 23,
-      "title": "Yokohama",
-      "path": "asia/japan/honshu/yokohama",
-      "prior_rank": 735,
-      "prior_wins": 79,
+      "rank": 19,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -3.7788,
+      "prior_variance": 0.371884,
       "prior_n": 4
     },
     {
+      "rank": 20,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -5.1146,
+      "prior_variance": 0.41055,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -4.1626,
+      "prior_variance": 0.431036,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -4.912,
+      "prior_variance": 0.575713,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -4.0061,
+      "prior_variance": 0.435461,
+      "prior_n": 3
+    },
+    {
       "rank": 24,
-      "title": "Akihabara",
-      "path": "asia/japan/tokyo/akihabara",
-      "prior_rank": 2544,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -4.5888,
+      "prior_variance": 0.450638,
+      "prior_n": 3
     }
   ]
 }

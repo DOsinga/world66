@@ -5,7 +5,7 @@ done:
 latitude: 12.6112
 loc_type: city
 longitude: 102.1034
-score: 0.43
+score: 0.39
 title: Chantaburi
 type: location
 ---

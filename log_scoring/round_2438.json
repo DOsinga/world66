@@ -1,0 +1,200 @@
+{
+  "round": 2438,
+  "timestamp": "2026-06-13T21:42:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 5.5671,
+      "prior_variance": 0.205887,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 4.6475,
+      "prior_variance": 0.206154,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 4.3232,
+      "prior_variance": 0.177071,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 3.0395,
+      "prior_variance": 0.176873,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 2.3143,
+      "prior_variance": 0.205018,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.2541,
+      "prior_variance": 0.220685,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -1.4465,
+      "prior_variance": 0.191022,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.1657,
+      "prior_variance": 0.168895,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -4.6471,
+      "prior_variance": 0.231436,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -3.0247,
+      "prior_variance": 0.201498,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -2.292,
+      "prior_variance": 0.156122,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -3.3851,
+      "prior_variance": 0.181013,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -5.9035,
+      "prior_variance": 0.225067,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.88,
+      "prior_variance": 0.213603,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -2.8953,
+      "prior_variance": 0.174872,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -4.4166,
+      "prior_variance": 0.156079,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.4913,
+      "prior_variance": 0.197324,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Handan",
+      "path": "asia/china/hebei/handan",
+      "prior_score": -4.5362,
+      "prior_variance": 0.173109,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -3.4919,
+      "prior_variance": 0.189566,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -4.2673,
+      "prior_variance": 0.172682,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -2.7627,
+      "prior_variance": 0.195557,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -5.0135,
+      "prior_variance": 0.209949,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham",
+      "prior_score": -4.5983,
+      "prior_variance": 0.184117,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -13.2369,
+      "prior_variance": 0.665831,
+      "prior_n": 7
+    }
+  ]
+}

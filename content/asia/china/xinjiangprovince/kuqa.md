@@ -10,6 +10,7 @@ loc_type: city
 longitude: 82.9
 title: Kuqa
 type: location
+score: 0.35
 ---
 
 Kuqa — known in antiquity as Kucha — was one of the most powerful kingdoms on the Silk Road. At its height, Kucha controlled the northern branch of the trade route and was a centre of Tocharian civilisation, a people whose origins still puzzle historians. Buddhist pilgrims from China and India stopped here for decades at a time; the monk Xuanzang passed through on his famous journey west in 629 AD and described a prosperous city of gilded stupas and learned monks. All of that is gone now, replaced by a modest provincial town, but the traces of what came before are extraordinary.

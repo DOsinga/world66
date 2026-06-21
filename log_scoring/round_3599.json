@@ -1,0 +1,200 @@
+{
+  "round": 3599,
+  "timestamp": "2026-06-13T23:05:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 12.1926,
+      "prior_variance": 0.384622,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 12.871,
+      "prior_variance": 0.409997,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 12.8879,
+      "prior_variance": 0.36726,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.6713,
+      "prior_variance": 0.363083,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 9.5845,
+      "prior_variance": 0.410845,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 5.9675,
+      "prior_variance": 0.137056,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.6612,
+      "prior_variance": 0.172264,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 8.1086,
+      "prior_variance": 0.23737,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 4.9433,
+      "prior_variance": 0.124475,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_score": 4.283,
+      "prior_variance": 0.155398,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.601,
+      "prior_variance": 0.118079,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.5631,
+      "prior_variance": 0.126611,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.585,
+      "prior_variance": 0.141517,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.2943,
+      "prior_variance": 0.118346,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 5.0739,
+      "prior_variance": 0.146026,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 5.2912,
+      "prior_variance": 0.123893,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 3.0324,
+      "prior_variance": 0.111175,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Huangguoshu Falls",
+      "path": "asia/china/guizhou/huangguoshu",
+      "prior_score": 3.5335,
+      "prior_variance": 0.113612,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": 6.3994,
+      "prior_variance": 0.140221,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 0.7266,
+      "prior_variance": 0.112778,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.8203,
+      "prior_variance": 0.115535,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.9249,
+      "prior_variance": 0.110086,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/calistoga",
+      "prior_score": 2.2768,
+      "prior_variance": 0.11812,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.2785,
+      "prior_variance": 0.118684,
+      "prior_n": 12
+    }
+  ]
+}

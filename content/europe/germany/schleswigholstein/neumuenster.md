@@ -4,7 +4,7 @@ done:
 latitude: 54.07033
 loc_type: city
 longitude: 9.988445
-score: 0.34
+score: 0.29
 title: Neumünster
 type: location
 ---

@@ -6,11 +6,11 @@ latitude: 39.392595
 longitude: -99.617882
 title: Nicodemus
 type: location
-score: 0.29
+score: 0.28
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Nicodemus,_Kansas
-  - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
+- https://en.wikipedia.org/wiki/Nicodemus,_Kansas
+- https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
 ---
 
 On the rolling shortgrass prairie of north-central Kansas, Nicodemus stands as one of the most quietly powerful places in America. Founded on April 18, 1877, by a group of six Black and one white Kansans, it became the first and only remaining western town established by African Americans during the Reconstruction era. The people who came here — many of them former enslaved people and their children, part of the wave of "Exodusters" fleeing the post-Reconstruction South — broke sod, built churches, and proved that freedom could take root even on the unforgiving Great Plains.

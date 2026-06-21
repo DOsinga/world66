@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glendale_in_winter_-_geogr
 latitude: 57.448286
 loc_type: city
 longitude: -6.709385
-score: 0.6
+score: 0.49
 title: Glendale
 type: location
 ---

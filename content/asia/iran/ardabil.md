@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardabil,_Iran_2013_(20)_(1
 latitude: 38.2498
 loc_type: city
 longitude: 48.2933
-score: 0.43
+score: 0.35
 title: Ardabil
 type: location
 ---

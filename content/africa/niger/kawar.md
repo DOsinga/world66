@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis-Bilma.jpg
 latitude: 18.7
 loc_type: city
 longitude: 12.9
-score: 0.16
+score: 0.14
 title: Kawar
 type: location
 ---

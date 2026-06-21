@@ -6,7 +6,7 @@ done:
 latitude: 22.4947
 loc_type: city
 longitude: -79.5453
-score: 0.5
+score: 0.43
 title: Remedios
 type: location
 ---

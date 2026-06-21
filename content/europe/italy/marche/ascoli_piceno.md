@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_storico,_63100_Asco
 latitude: 42.8534
 loc_type: city
 longitude: 13.5747
-score: 0.58
+score: 0.52
 title: Ascoli Piceno
 type: location
 ---

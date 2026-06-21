@@ -1,0 +1,200 @@
+{
+  "round": 3894,
+  "timestamp": "2026-06-13T23:28:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 10.692,
+      "prior_variance": 0.20411,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 6.8472,
+      "prior_variance": 0.146949,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 7.2799,
+      "prior_variance": 0.137148,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.4685,
+      "prior_variance": 0.146847,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 5.2005,
+      "prior_variance": 0.126469,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 5.5577,
+      "prior_variance": 0.137273,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 4.9509,
+      "prior_variance": 0.123104,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.2283,
+      "prior_variance": 0.099381,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 2.8965,
+      "prior_variance": 0.103627,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": 0.3954,
+      "prior_variance": 0.11751,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 1.7094,
+      "prior_variance": 0.103304,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 2.3433,
+      "prior_variance": 0.133306,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 1.3181,
+      "prior_variance": 0.114137,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.8744,
+      "prior_variance": 0.099762,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_score": 0.5523,
+      "prior_variance": 0.107613,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.2423,
+      "prior_variance": 0.099923,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -1.6877,
+      "prior_variance": 0.108986,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -1.0343,
+      "prior_variance": 0.116217,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.6401,
+      "prior_variance": 0.119484,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.1776,
+      "prior_variance": 0.115551,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.6408,
+      "prior_variance": 0.114416,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -5.133,
+      "prior_variance": 0.146444,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -5.8446,
+      "prior_variance": 0.13638,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.7134,
+      "prior_variance": 0.175729,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4430,
+  "timestamp": "2026-06-14T00:12:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.8882,
+      "prior_variance": 0.107145,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.4147,
+      "prior_variance": 0.088715,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 2.8362,
+      "prior_variance": 0.109472,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 2.9077,
+      "prior_variance": 0.101011,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 1.3642,
+      "prior_variance": 0.110346,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.8477,
+      "prior_variance": 0.112633,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 0.8454,
+      "prior_variance": 0.114443,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.3886,
+      "prior_variance": 0.091868,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.5292,
+      "prior_variance": 0.092889,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -1.2994,
+      "prior_variance": 0.107193,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.2195,
+      "prior_variance": 0.097365,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -1.1994,
+      "prior_variance": 0.100555,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.4668,
+      "prior_variance": 0.096239,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": 0.0076,
+      "prior_variance": 0.086381,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -3.994,
+      "prior_variance": 0.097196,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -5.6188,
+      "prior_variance": 0.131508,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -5.6492,
+      "prior_variance": 0.107887,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -6.5688,
+      "prior_variance": 0.145442,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Sherbro Island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.7668,
+      "prior_variance": 0.149732,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -5.4601,
+      "prior_variance": 0.108851,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.2249,
+      "prior_variance": 0.154205,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_score": -7.504,
+      "prior_variance": 0.214382,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.4695,
+      "prior_variance": 0.098154,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Jefren",
+      "path": "africa/libya/jefren",
+      "prior_score": -7.8845,
+      "prior_variance": 0.154494,
+      "prior_n": 14
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kelly_Mine,_Magdalena,_NM_
 latitude: 34.117
 loc_type: city
 longitude: -107.2434
-score: 0.31
+score: 0.26
 title: Magdalena
 type: location
 ---

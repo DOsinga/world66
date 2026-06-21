@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_Street,_Ravenglass,_C
 latitude: 54.353916
 loc_type: city
 longitude: -3.410166
-score: 0.52
+score: 0.43
 title: Ravenglass
 type: location
 ---

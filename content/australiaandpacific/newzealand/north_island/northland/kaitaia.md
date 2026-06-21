@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_Street_New_Zealand_-_
 latitude: -35.114126
 loc_type: city
 longitude: 173.263996
-score: 0.46
+score: 0.39
 title: Kaitaia
 type: location
 ---

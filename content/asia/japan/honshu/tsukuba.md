@@ -7,7 +7,7 @@ done:
 latitude: 36.0835
 loc_type: city
 longitude: 140.0777
-score: 0.43
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki
 title: Tsukuba

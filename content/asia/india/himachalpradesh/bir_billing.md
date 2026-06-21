@@ -5,7 +5,7 @@ done:
 latitude: 32.047219
 loc_type: city
 longitude: 76.74065
-score: 0.53
+score: 0.45
 title: Bir Billing
 type: location
 ---

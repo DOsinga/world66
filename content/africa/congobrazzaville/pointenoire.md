@@ -6,7 +6,7 @@ done:
 latitude: -4.7769
 loc_type: city
 longitude: 11.8635
-score: 0.37
+score: 0.27
 title: Pointe-Noire
 type: location
 ---

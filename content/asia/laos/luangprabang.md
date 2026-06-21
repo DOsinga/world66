@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Landscape_with_rainbow_and
 latitude: 19.888744
 loc_type: city
 longitude: 102.135898
-score: 0.72
+score: 0.65
 title: Luang Prabang
 type: location
 ---

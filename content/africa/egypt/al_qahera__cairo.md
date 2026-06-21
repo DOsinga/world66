@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cairo_Opera_House,_Al_Hurr
 latitude: 30.04442
 loc_type: city
 longitude: 31.235712
-score: 0.65
+score: 0.61
 title: Al Qahera - Cairo
 type: location
 ---

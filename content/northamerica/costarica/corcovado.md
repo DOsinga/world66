@@ -3,7 +3,7 @@ title: Corcovado National Park
 type: location
 done:
   location_cleanup: 2026-04-07
-score: 0.74
+score: 0.59
 loc_type: feature
 ---
 

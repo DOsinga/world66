@@ -11,6 +11,7 @@ loc_type: city
 longitude: 80.4547
 title: Mirissa
 type: location
+score: 0.59
 ---
 
 Mirissa is a small beach town on Sri Lanka's south coast that has become one of the island's most popular destinations for good reason. The bay curves beautifully between two headlands, the sea is warm and swimmable for most of the year, and the pace of life is unhurried enough to make you stay longer than you planned. It sits about 150 km south of Colombo, just west of [Matara](/asia/srilanka/matara).

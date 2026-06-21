@@ -5,7 +5,7 @@ latitude: 35.999282
 longitude: -118.478468
 title: Upper Kern River
 type: location
-score: 0.44
+score: 0.4
 loc_type: feature
 ---
 

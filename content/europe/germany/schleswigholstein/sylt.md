@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-w
 latitude: 54.902662
 loc_type: city
 longitude: 8.331149
-score: 0.53
+score: 0.47
 title: Sylt
 type: location
 ---

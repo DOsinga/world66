@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_over_Bodrum_I.jpg
 latitude: 37.034399
 loc_type: city
 longitude: 27.430651
-score: 0.69
+score: 0.6
 title: Bodrum
 type: location
 ---

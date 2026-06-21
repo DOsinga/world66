@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:J%C3%B6nk%C3%B6ping_panora
 latitude: 57.782563
 loc_type: city
 longitude: 14.165719
-score: 0.47
+score: 0.39
 title: Jönköping
 type: location
 ---

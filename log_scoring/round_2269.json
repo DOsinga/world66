@@ -1,200 +1,200 @@
 {
   "round": 2269,
-  "timestamp": "2026-04-13T16:26:29",
+  "timestamp": "2026-06-13T21:30:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Rangiroa",
-      "path": "australiaandpacific/frenchpolynesia/rangiroa",
-      "prior_score": 8.7454,
-      "prior_variance": 0.285648,
-      "prior_n": 6
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 2.7226,
+      "prior_variance": 0.190778,
+      "prior_n": 8
     },
     {
       "rank": 2,
-      "title": "Lifou",
-      "path": "australiaandpacific/newcaledonia/lifou",
-      "prior_score": 4.6297,
-      "prior_variance": 0.272687,
-      "prior_n": 6
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.9137,
+      "prior_variance": 0.188393,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "St. Thomas",
-      "path": "northamerica/virginislands/stthomas",
-      "prior_score": 7.2974,
-      "prior_variance": 0.445044,
-      "prior_n": 5
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 2.1915,
+      "prior_variance": 0.200993,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Santa Ponsa",
-      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
-      "prior_score": 2.1296,
-      "prior_variance": 0.266944,
-      "prior_n": 6
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.2101,
+      "prior_variance": 0.208862,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Cagliari",
-      "path": "europe/italy/sardinia/cagliari",
-      "prior_score": 6.276,
-      "prior_variance": 0.216968,
-      "prior_n": 6
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.2895,
+      "prior_variance": 0.237197,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Guimaras",
-      "path": "asia/philippines/guimaras",
-      "prior_score": 0.9263,
-      "prior_variance": 0.266304,
-      "prior_n": 6
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.4839,
+      "prior_variance": 0.159284,
+      "prior_n": 8
     },
     {
       "rank": 7,
-      "title": "Zakopane",
-      "path": "europe/poland/zakopane",
-      "prior_score": 4.0266,
-      "prior_variance": 0.248638,
-      "prior_n": 6
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.7597,
+      "prior_variance": 0.189791,
+      "prior_n": 8
     },
     {
       "rank": 8,
-      "title": "Mendocino",
-      "path": "northamerica/unitedstates/california/northcoast/mendocino",
-      "prior_score": 3.0465,
-      "prior_variance": 0.206684,
-      "prior_n": 6
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.9084,
+      "prior_variance": 0.222017,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Sunriver",
-      "path": "northamerica/unitedstates/oregon/sunriver",
-      "prior_score": -0.5813,
-      "prior_variance": 0.228987,
-      "prior_n": 6
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.2473,
+      "prior_variance": 0.182474,
+      "prior_n": 8
     },
     {
       "rank": 10,
-      "title": "Cavaillon",
-      "path": "europe/france/midi/provence/cavaillon",
-      "prior_score": 0.3621,
-      "prior_variance": 0.197973,
-      "prior_n": 6
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.0052,
+      "prior_variance": 0.174493,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Lincoln",
-      "path": "europe/unitedkingdom/england/leicester_notting/lincoln",
-      "prior_score": 0.072,
-      "prior_variance": 0.239724,
-      "prior_n": 6
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 0.0111,
+      "prior_variance": 0.189864,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Louisville",
-      "path": "northamerica/unitedstates/kentucky/louisville",
-      "prior_score": 0.3655,
-      "prior_variance": 0.270819,
-      "prior_n": 6
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -0.058,
+      "prior_variance": 0.213734,
+      "prior_n": 8
     },
     {
       "rank": 13,
-      "title": "Kottayam",
-      "path": "asia/india/kerala/kottayam",
-      "prior_score": -0.7099,
-      "prior_variance": 0.223521,
-      "prior_n": 6
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -1.2707,
+      "prior_variance": 0.17382,
+      "prior_n": 8
     },
     {
       "rank": 14,
-      "title": "Cavan",
-      "path": "europe/ireland/cavan",
-      "prior_score": -1.5931,
-      "prior_variance": 0.221316,
-      "prior_n": 6
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.5639,
+      "prior_variance": 0.18807,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Upper Kern River",
-      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
-      "prior_score": -1.3832,
-      "prior_variance": 0.369101,
-      "prior_n": 6
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.4653,
+      "prior_variance": 0.162181,
+      "prior_n": 8
     },
     {
       "rank": 16,
-      "title": "Keylong",
-      "path": "asia/india/himachalpradesh/keylong",
-      "prior_score": -0.3221,
-      "prior_variance": 0.268268,
-      "prior_n": 6
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.5109,
+      "prior_variance": 0.200095,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "rudrapyag",
-      "path": "asia/india/uttaranchal/rudrapyag",
-      "prior_score": -2.0157,
-      "prior_variance": 0.214666,
-      "prior_n": 6
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -3.2051,
+      "prior_variance": 0.198571,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Lorca",
-      "path": "europe/spain/spanishcostas/lorca",
-      "prior_score": 0.5575,
-      "prior_variance": 0.163713,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -1.6112,
+      "prior_variance": 0.167555,
       "prior_n": 8
     },
     {
       "rank": 19,
-      "title": "Casper",
-      "path": "northamerica/unitedstates/wyoming/casper",
-      "prior_score": -3.0432,
-      "prior_variance": 0.256559,
-      "prior_n": 5
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.51,
+      "prior_variance": 0.186372,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Akosombo",
-      "path": "africa/ghana/akosombo",
-      "prior_score": -1.6859,
-      "prior_variance": 0.227887,
-      "prior_n": 6
+      "title": "East Burke",
+      "path": "northamerica/unitedstates/vermont/new_burke",
+      "prior_score": -1.6124,
+      "prior_variance": 0.181342,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "San Juan del Ro",
-      "path": "northamerica/mexico/yucatan/sanjuandelro",
-      "prior_score": -5.66,
-      "prior_variance": 0.246054,
-      "prior_n": 5
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -5.9158,
+      "prior_variance": 0.221169,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "vascauti",
-      "path": "europe/romania/bucharest/vascauti",
-      "prior_score": -7.4163,
-      "prior_variance": 0.345306,
-      "prior_n": 6
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.2337,
+      "prior_variance": 0.209415,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Ossetia",
-      "path": "europe/russia/ossetia",
-      "prior_score": -5.0416,
-      "prior_variance": 0.253734,
-      "prior_n": 5
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.9449,
+      "prior_variance": 0.280029,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Saylac (Zeila)",
-      "path": "africa/somaliland/saylac_zeila",
-      "prior_score": -7.4523,
-      "prior_variance": 0.313832,
-      "prior_n": 8
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.5396,
+      "prior_variance": 0.232317,
+      "prior_n": 7
     }
   ]
 }

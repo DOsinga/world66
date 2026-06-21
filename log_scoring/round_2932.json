@@ -1,0 +1,200 @@
+{
+  "round": 2932,
+  "timestamp": "2026-06-13T22:17:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_score": 13.2684,
+      "prior_variance": 0.59126,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_score": 7.295,
+      "prior_variance": 0.214101,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 2.8933,
+      "prior_variance": 0.150049,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 2.8919,
+      "prior_variance": 0.162658,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.2057,
+      "prior_variance": 0.17066,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.1684,
+      "prior_variance": 0.127934,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.5741,
+      "prior_variance": 0.176163,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 1.0557,
+      "prior_variance": 0.163659,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 0.2767,
+      "prior_variance": 0.184613,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.2282,
+      "prior_variance": 0.154551,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 1.0204,
+      "prior_variance": 0.148177,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 1.6836,
+      "prior_variance": 0.144804,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -1.0733,
+      "prior_variance": 0.145578,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -2.6197,
+      "prior_variance": 0.181568,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -0.4632,
+      "prior_variance": 0.12777,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.5023,
+      "prior_variance": 0.132862,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.4703,
+      "prior_variance": 0.146053,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Xianyang",
+      "path": "asia/china/shaanxi/xianyang",
+      "prior_score": -2.5164,
+      "prior_variance": 0.154814,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.3886,
+      "prior_variance": 0.182747,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -3.8836,
+      "prior_variance": 0.220552,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -4.8379,
+      "prior_variance": 0.189261,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.1044,
+      "prior_variance": 0.162281,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -2.8411,
+      "prior_variance": 0.150938,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.2412,
+      "prior_variance": 0.171117,
+      "prior_n": 9
+    }
+  ]
+}

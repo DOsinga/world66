@@ -5,7 +5,7 @@ done:
 latitude: 28.281309
 loc_type: city
 longitude: 68.436436
-score: 0.21
+score: 0.12
 title: Jacobabad
 type: location
 ---

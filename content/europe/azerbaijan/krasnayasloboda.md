@@ -5,7 +5,7 @@ done:
 latitude: 41.3658
 loc_type: city
 longitude: 48.5128
-score: 0.35
+score: 0.27
 title: Krasnaya Sloboda
 type: location
 ---

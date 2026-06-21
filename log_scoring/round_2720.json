@@ -1,0 +1,200 @@
+{
+  "round": 2720,
+  "timestamp": "2026-06-13T22:02:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 5.2763,
+      "prior_variance": 0.248311,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.3685,
+      "prior_variance": 0.18988,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 6.673,
+      "prior_variance": 0.185057,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 1.9281,
+      "prior_variance": 0.158721,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.2061,
+      "prior_variance": 0.158809,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 0.6133,
+      "prior_variance": 0.177676,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.1353,
+      "prior_variance": 0.171028,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 0.0509,
+      "prior_variance": 0.157156,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.6707,
+      "prior_variance": 0.137825,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 0.949,
+      "prior_variance": 0.149117,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.3508,
+      "prior_variance": 0.150421,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.2098,
+      "prior_variance": 0.169255,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 0.7254,
+      "prior_variance": 0.14983,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 0.7398,
+      "prior_variance": 0.145336,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.7364,
+      "prior_variance": 0.194958,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 1.2508,
+      "prior_variance": 0.152391,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.3021,
+      "prior_variance": 0.148351,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 1.1797,
+      "prior_variance": 0.142072,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.4823,
+      "prior_variance": 0.149302,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -0.5968,
+      "prior_variance": 0.145075,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.3934,
+      "prior_variance": 0.165925,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.2996,
+      "prior_variance": 0.192907,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -5.836,
+      "prior_variance": 0.221831,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.3445,
+      "prior_variance": 0.189641,
+      "prior_n": 8
+    }
+  ]
+}

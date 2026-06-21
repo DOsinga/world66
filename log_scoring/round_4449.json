@@ -1,0 +1,200 @@
+{
+  "round": 4449,
+  "timestamp": "2026-06-14T00:13:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.6141,
+      "prior_variance": 0.130888,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 5.1901,
+      "prior_variance": 0.11889,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 4.8268,
+      "prior_variance": 0.109501,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 5.8235,
+      "prior_variance": 0.116803,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.8065,
+      "prior_variance": 0.119995,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 5.4658,
+      "prior_variance": 0.110039,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.3657,
+      "prior_variance": 0.094895,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 4.9115,
+      "prior_variance": 0.109138,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 3.1067,
+      "prior_variance": 0.097008,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 3.3029,
+      "prior_variance": 0.103428,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 3.1421,
+      "prior_variance": 0.102707,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 0.8515,
+      "prior_variance": 0.093229,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.0704,
+      "prior_variance": 0.083601,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -0.0785,
+      "prior_variance": 0.099677,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.5287,
+      "prior_variance": 0.094885,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.2954,
+      "prior_variance": 0.122613,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.3827,
+      "prior_variance": 0.091996,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.3398,
+      "prior_variance": 0.091744,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -1.9469,
+      "prior_variance": 0.087866,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -1.8325,
+      "prior_variance": 0.102439,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -3.0292,
+      "prior_variance": 0.086466,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Nantong",
+      "path": "asia/china/jiangsu_province/nantong",
+      "prior_score": -4.3467,
+      "prior_variance": 0.113769,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.2792,
+      "prior_variance": 0.105765,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.0044,
+      "prior_variance": 0.153239,
+      "prior_n": 14
+    }
+  ]
+}

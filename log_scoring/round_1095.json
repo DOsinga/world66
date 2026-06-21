@@ -1,200 +1,200 @@
 {
   "round": 1095,
-  "timestamp": "2026-04-12T22:09:04",
+  "timestamp": "2026-06-13T20:10:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Delaware",
-      "path": "northamerica/unitedstates/delaware",
-      "prior_rank": 7182,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 8.577,
+      "prior_variance": 0.466216,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Hanford",
-      "path": "northamerica/unitedstates/california/centralvalley/hanford",
-      "prior_rank": 8083,
-      "prior_wins": 4,
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_score": 6.9656,
+      "prior_variance": 0.421315,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Warr Acres",
-      "path": "northamerica/unitedstates/oklahoma/warr_acres",
-      "prior_rank": 8078,
-      "prior_wins": 4,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 5.7319,
+      "prior_variance": 0.762481,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "East Grand Forks",
-      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
-      "prior_rank": 7605,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 4.4954,
+      "prior_variance": 0.533874,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Willacoochee",
-      "path": "northamerica/unitedstates/georgia/willacoochee",
-      "prior_rank": 8016,
-      "prior_wins": 5,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 5.0914,
+      "prior_variance": 0.44566,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Winnemucca",
-      "path": "northamerica/unitedstates/nevada/winnemucca",
-      "prior_rank": 7899,
-      "prior_wins": 4,
-      "prior_n": 2
-    },
-    {
-      "rank": 7,
-      "title": "Starkville",
-      "path": "northamerica/unitedstates/mississippi/starkville",
-      "prior_rank": 7886,
-      "prior_wins": 4,
-      "prior_n": 2
-    },
-    {
-      "rank": 8,
-      "title": "Ferizaj",
-      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
-      "prior_rank": 7447,
-      "prior_wins": 6,
-      "prior_n": 2
-    },
-    {
-      "rank": 9,
-      "title": "Hinjilicut",
-      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
-      "prior_rank": 8225,
-      "prior_wins": 1,
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 7.4255,
+      "prior_variance": 0.400944,
       "prior_n": 4
     },
     {
-      "rank": 10,
-      "title": "Aleppo",
-      "path": "asia/syria/aleppo",
-      "prior_rank": 8133,
-      "prior_wins": 3,
+      "rank": 7,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 1.432,
+      "prior_variance": 0.587963,
       "prior_n": 3
     },
     {
+      "rank": 8,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 4.9718,
+      "prior_variance": 0.478118,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 4.1186,
+      "prior_variance": 0.47098,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 5.9762,
+      "prior_variance": 0.447636,
+      "prior_n": 4
+    },
+    {
       "rank": 11,
-      "title": "Kolwezi",
-      "path": "africa/congokinshasa/kolwezi",
-      "prior_rank": 7772,
-      "prior_wins": 5,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 4.6537,
+      "prior_variance": 0.504098,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Bouenza region",
-      "path": "africa/congobrazzaville/bouenzaregion",
-      "prior_rank": 7872,
-      "prior_wins": 5,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 4.8628,
+      "prior_variance": 0.511594,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Lekoumou region",
-      "path": "africa/congobrazzaville/lekoumouregion",
-      "prior_rank": 7868,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 4.838,
+      "prior_variance": 0.407047,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Sakakah",
-      "path": "asia/saudiarabia/sakakah",
-      "prior_rank": 8156,
-      "prior_wins": 2,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 3.623,
+      "prior_variance": 0.435768,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Gao",
-      "path": "africa/mali/gao",
-      "prior_rank": 7625,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 4.4003,
+      "prior_variance": 0.419414,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Acalayong",
-      "path": "africa/equatorialguinea/riomuni/acalayong",
-      "prior_rank": 8165,
-      "prior_wins": 3,
-      "prior_n": 4
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 4.4155,
+      "prior_variance": 0.431068,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Awjila",
-      "path": "africa/libya/awjila",
-      "prior_rank": 8180,
-      "prior_wins": 2,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 4.2251,
+      "prior_variance": 0.480854,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Gabiley",
-      "path": "africa/somaliland/gabiley",
-      "prior_rank": 5094,
-      "prior_wins": 28,
-      "prior_n": 4
+      "title": "Tintagel",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/tintagel",
+      "prior_score": 4.7011,
+      "prior_variance": 0.505097,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Berberati",
-      "path": "africa/centralafricanrepublic/berberati",
-      "prior_rank": 7952,
-      "prior_wins": 6,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 3.9739,
+      "prior_variance": 0.54234,
       "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Galkayo",
-      "path": "africa/somalia/galkayo",
-      "prior_rank": 8003,
-      "prior_wins": 5,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 3.169,
+      "prior_variance": 0.459745,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "bazral",
-      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2/bazral",
-      "prior_rank": 8205,
-      "prior_wins": 1,
-      "prior_n": 2
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 4.9019,
+      "prior_variance": 0.460123,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "ghamir dhariyan kot",
-      "path": "asia/pakistan/azad_kashmir/forward_kahuta/tanda_ghamir/ghamir_dhariyan_ko",
-      "prior_rank": 8009,
-      "prior_wins": 5,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 4.0482,
+      "prior_variance": 0.416518,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Hadjer Hadid",
-      "path": "africa/chad/hadjer_hadid",
-      "prior_rank": 8084,
-      "prior_wins": 3,
-      "prior_n": 3
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 3.6582,
+      "prior_variance": 0.519921,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Marib",
-      "path": "asia/yemen/marib",
-      "prior_rank": 7844,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 2.9711,
+      "prior_variance": 0.691737,
+      "prior_n": 5
     }
   ]
 }

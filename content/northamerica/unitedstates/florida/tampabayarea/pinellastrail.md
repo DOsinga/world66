@@ -13,6 +13,7 @@ sources:
 - https://www.pinellas.gov/parks/fred-marquis-pinellas-trail/
 title: Pinellas Trail
 type: location
+score: 0.35
 ---
 
 The Fred Marquis Pinellas Trail is a 47-mile paved rail-trail that runs the length of Pinellas County, from the Greek sponge docks of [Tarpon Springs](/northamerica/unitedstates/florida/tarpon_springs) in the north to downtown [St. Petersburg](/northamerica/unitedstates/florida/tampabayarea/stpetersburg) in the south. It follows the old Orange Belt Railway corridor, abandoned in the 1980s, and is now one of the longest urban trails in the southeastern United States.

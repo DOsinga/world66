@@ -2,7 +2,7 @@
 address: 30 Kloof Street, Gardens
 latitude: -33.9303
 longitude: 18.4107
-neighbourhood: City Bowl
+score: 7.7
 scores:
   activities: 0.6312
   eating_out: 0.7956
@@ -14,7 +14,6 @@ tags:
 - city_bowl
 title: Kloof Street House
 type: poi
-score: 7.7
 ---
 
 Kloof Street House occupies a late-Victorian house on the main restaurant strip connecting the City Bowl to the mountain suburbs. The interior is warm and layered — wooden floors, plants, eclectic furniture across several interconnected rooms — and the menu is a reliable South African-European mix of sharing plates and grilled mains. It is a comfortable, unfussy option in a city where restaurants often overclaim.

@@ -13,7 +13,7 @@ quick_facts:
   Altitude Warning: "Cusco is at 3,400 m — acclimatize"
   Potato Varieties: "3,000+ native cultivars"
   Nazca Lines: visible only from the air
-score: 0.49
+score: 0.91
 title: Peru
 type: location
 loc_type: country

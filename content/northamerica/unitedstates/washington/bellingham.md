@@ -5,7 +5,7 @@ done:
 latitude: 48.754401
 loc_type: city
 longitude: -122.478836
-score: 0.49
+score: 0.4
 title: Bellingham
 type: location
 image: bellingham.jpg

@@ -5,7 +5,7 @@ latitude: 55.7692
 longitude: -2.0026
 title: Berwick-upon-Tweed
 type: location
-score: 0.44
+score: 0.42
 loc_type: city
 image: berwickontweed.jpg
 image_source: https://www.flickr.com/photos/93398075@N00/6069464418

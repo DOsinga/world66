@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Basantapur_Durbar_Square-K
 latitude: 27.708317
 loc_type: city
 longitude: 85.320582
-score: 0.72
+score: 0.64
 title: Kathmandu
 type: location
 ---

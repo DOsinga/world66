@@ -8,6 +8,7 @@ snippet: Outdoor and indoor display of India's traditional craft traditions
 tags:
 - things_to_do
 - museum
+- dilli_haat
 title: Craft Museum
 type: poi
 score: 8.5

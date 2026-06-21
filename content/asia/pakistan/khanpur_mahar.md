@@ -5,7 +5,7 @@ done:
 latitude: 28.1
 loc_type: city
 longitude: 69.44
-score: 0.22
+score: 0.15
 title: Khanpur Mahar
 type: location
 ---

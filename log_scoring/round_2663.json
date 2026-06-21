@@ -1,0 +1,200 @@
+{
+  "round": 2663,
+  "timestamp": "2026-06-13T21:58:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.1625,
+      "prior_variance": 0.517618,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Foz do Igua\u00e7u",
+      "path": "southamerica/brazil/fozdoiguacu",
+      "prior_score": 10.0326,
+      "prior_variance": 0.377658,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 9.0745,
+      "prior_variance": 0.332024,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 8.1551,
+      "prior_variance": 0.219183,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 7.1286,
+      "prior_variance": 0.231787,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/alesund",
+      "prior_score": 6.0977,
+      "prior_variance": 0.192826,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 4.4286,
+      "prior_variance": 0.177541,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.7501,
+      "prior_variance": 0.231528,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 5.566,
+      "prior_variance": 0.207475,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 2.7457,
+      "prior_variance": 0.167157,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 2.8597,
+      "prior_variance": 0.192793,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 0.4668,
+      "prior_variance": 0.160613,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.867,
+      "prior_variance": 0.157197,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Whitehorse",
+      "path": "northamerica/canada/the_yukon_territory/whitehorse",
+      "prior_score": 1.667,
+      "prior_variance": 0.142882,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.2383,
+      "prior_variance": 0.146388,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Peel",
+      "path": "europe/isleofman/peel",
+      "prior_score": 0.8441,
+      "prior_variance": 0.164637,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 3.1003,
+      "prior_variance": 0.207814,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -0.9705,
+      "prior_variance": 0.180831,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -1.7769,
+      "prior_variance": 0.153758,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -0.6168,
+      "prior_variance": 0.211433,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -0.4992,
+      "prior_variance": 0.143067,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.5995,
+      "prior_variance": 0.163103,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 0.2897,
+      "prior_variance": 0.173325,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -6.1446,
+      "prior_variance": 0.216122,
+      "prior_n": 8
+    }
+  ]
+}

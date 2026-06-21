@@ -9,10 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Naghshe_jahan_01.jpg
 latitude: 32.6709
 loc_type: city
 longitude: 51.665
-score: 0.71
+score: 0.62
 sources:
-  - https://en.wikipedia.org/wiki/Isfahan
-  - https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square
+- https://en.wikipedia.org/wiki/Isfahan
+- https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square
 title: Isfahan
 type: location
 ---

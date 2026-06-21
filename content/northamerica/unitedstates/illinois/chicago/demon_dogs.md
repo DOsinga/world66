@@ -10,6 +10,7 @@ snippet: Chicago-style hot dogs under the Fullerton L stop, walls covered in ban
 tags:
 - eating_out
 - restaurant
+- lincoln_park
 title: Demon Dogs
 type: poi
 score: 4.8

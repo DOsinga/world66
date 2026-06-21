@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunrise_at_Surfside_Beach_
 latitude: 29.0458
 loc_type: city
 longitude: -95.3958
-score: 0.31
+score: 0.28
 title: Brazosport Area
 type: location
 ---

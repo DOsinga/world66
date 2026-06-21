@@ -6,7 +6,7 @@ latitude: 8.406143
 longitude: 48.483195
 title: Garowe
 type: location
-score: 0.19
+score: 0.12
 loc_type: city
 image: garowe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_Morning_in_Garowe-_Streets_of_Promise_02.png

@@ -1,0 +1,200 @@
+{
+  "round": 3525,
+  "timestamp": "2026-06-13T23:00:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 1.5682,
+      "prior_variance": 0.121258,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.6126,
+      "prior_variance": 0.117054,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.7314,
+      "prior_variance": 0.122049,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.5892,
+      "prior_variance": 0.141073,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.2601,
+      "prior_variance": 0.129543,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.6743,
+      "prior_variance": 0.120276,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -3.1096,
+      "prior_variance": 0.130406,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -3.1351,
+      "prior_variance": 0.131137,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -2.6389,
+      "prior_variance": 0.129358,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.3819,
+      "prior_variance": 0.149323,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.7403,
+      "prior_variance": 0.114748,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.2271,
+      "prior_variance": 0.166823,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -4.8416,
+      "prior_variance": 0.159068,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.9242,
+      "prior_variance": 0.126297,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -3.9152,
+      "prior_variance": 0.129357,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_score": -3.5344,
+      "prior_variance": 0.121279,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -5.2313,
+      "prior_variance": 0.148654,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -4.597,
+      "prior_variance": 0.144068,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -4.6097,
+      "prior_variance": 0.140477,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -5.7343,
+      "prior_variance": 0.138506,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.3746,
+      "prior_variance": 0.147265,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -5.6864,
+      "prior_variance": 0.209279,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -6.1871,
+      "prior_variance": 0.139153,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -4.9463,
+      "prior_variance": 0.134087,
+      "prior_n": 11
+    }
+  ]
+}

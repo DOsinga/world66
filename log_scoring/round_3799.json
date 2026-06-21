@@ -1,0 +1,200 @@
+{
+  "round": 3799,
+  "timestamp": "2026-06-13T23:20:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 5.7937,
+      "prior_variance": 0.126979,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.2708,
+      "prior_variance": 0.15996,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.6229,
+      "prior_variance": 0.109689,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 2.1671,
+      "prior_variance": 0.102607,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.235,
+      "prior_variance": 0.126682,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.9313,
+      "prior_variance": 0.108763,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.5678,
+      "prior_variance": 0.110178,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.2802,
+      "prior_variance": 0.112321,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.7656,
+      "prior_variance": 0.119167,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.2492,
+      "prior_variance": 0.100295,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.2082,
+      "prior_variance": 0.108313,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_score": -2.0329,
+      "prior_variance": 0.102485,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.4815,
+      "prior_variance": 0.108135,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -3.0817,
+      "prior_variance": 0.142636,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": -1.8439,
+      "prior_variance": 0.12704,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountains/vorokhta",
+      "prior_score": -1.4407,
+      "prior_variance": 0.115285,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.2472,
+      "prior_variance": 0.107004,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.5007,
+      "prior_variance": 0.113215,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -2.84,
+      "prior_variance": 0.114211,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -2.8392,
+      "prior_variance": 0.119106,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.2676,
+      "prior_variance": 0.11133,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -5.2329,
+      "prior_variance": 0.129177,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.7971,
+      "prior_variance": 0.111977,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.4912,
+      "prior_variance": 0.119947,
+      "prior_n": 13
+    }
+  ]
+}

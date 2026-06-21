@@ -5,7 +5,7 @@ done:
 latitude: 42.607771
 loc_type: city
 longitude: 14.067103
-score: 0.46
+score: 0.41
 title: Pineto
 type: location
 image: pineto.jpg

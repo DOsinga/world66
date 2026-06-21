@@ -1,199 +1,199 @@
 {
   "round": 890,
-  "timestamp": "2026-04-12T14:47:33",
+  "timestamp": "2026-06-13T19:59:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Torres del Paine",
-      "path": "southamerica/argentina/patagonia/torresdelpaine",
-      "prior_score": 7.5357,
-      "prior_variance": 0.782236,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/northernspain/santiagodecompostela",
+      "prior_score": 12.3468,
+      "prior_variance": 1.023495,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Everest Region",
-      "path": "asia/nepal/everest_region",
-      "prior_score": 8.7668,
-      "prior_variance": 11.099554,
-      "prior_n": 1
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_score": 9.9876,
+      "prior_variance": 0.821819,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Pembrokeshire Coast National Park",
-      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
-      "prior_score": 4.0707,
-      "prior_variance": 1.862477,
-      "prior_n": 1
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 9.8301,
+      "prior_variance": 0.618195,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Adirondacks",
-      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
-      "prior_score": 6.7206,
-      "prior_variance": 2.163315,
-      "prior_n": 1
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 10.3217,
+      "prior_variance": 0.790623,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Korcula",
-      "path": "europe/croatia/korcula",
-      "prior_score": 7.4699,
-      "prior_variance": 1.741396,
-      "prior_n": 1
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 11.1893,
+      "prior_variance": 5.418709,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Telluride",
-      "path": "northamerica/unitedstates/colorado/telluride",
-      "prior_score": 8.47,
-      "prior_variance": 9.628686,
-      "prior_n": 1
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 7.93,
+      "prior_variance": 0.662994,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Bari",
-      "path": "europe/italy/puglia/bari",
-      "prior_score": 6.0252,
-      "prior_variance": 1.546607,
-      "prior_n": 1
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 10.7316,
+      "prior_variance": 0.751848,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Udine",
-      "path": "europe/italy/friuliveneziagiulia/udine",
-      "prior_score": 2.9844,
-      "prior_variance": 1.292628,
-      "prior_n": 1
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 7.6425,
+      "prior_variance": 0.626884,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
-      "path": "europe/italy/campania/parco_nazionale_de",
-      "prior_score": 6.7116,
-      "prior_variance": 1.615637,
-      "prior_n": 1
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 8.8026,
+      "prior_variance": 0.984359,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Friedrichshain",
-      "path": "europe/germany/berlin/friedrichshain",
-      "prior_score": 2.537,
-      "prior_variance": 1.53294,
-      "prior_n": 1
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 7.4792,
+      "prior_variance": 0.726181,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Humahuaca",
-      "path": "southamerica/argentina/humahuaca",
-      "prior_score": 6.7845,
-      "prior_variance": 0.715345,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 9.0977,
+      "prior_variance": 0.85568,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Nosy Be",
-      "path": "africa/madagascar/nosybe",
-      "prior_score": 4.5783,
-      "prior_variance": 0.60415,
-      "prior_n": 3
-    },
-    {
-      "rank": 13,
-      "title": "Calabria",
-      "path": "europe/italy/calabria",
-      "prior_score": 0.5358,
-      "prior_variance": 1.229131,
-      "prior_n": 1
-    },
-    {
-      "rank": 14,
-      "title": "Katerini",
-      "path": "europe/greece/katerini",
-      "prior_score": 4.2017,
-      "prior_variance": 1.858034,
-      "prior_n": 1
-    },
-    {
-      "rank": 15,
-      "title": "Miskolc",
-      "path": "europe/hungary/miskolc",
-      "prior_score": 1.0237,
-      "prior_variance": 1.307181,
-      "prior_n": 1
-    },
-    {
-      "rank": 16,
-      "title": "Manama",
-      "path": "asia/bahrain/manama",
-      "prior_score": 1.1107,
-      "prior_variance": 1.445397,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "Cava dei Tirreni",
-      "path": "europe/italy/campania/cavadeitirreni",
-      "prior_score": 1.9309,
-      "prior_variance": 1.310907,
-      "prior_n": 1
-    },
-    {
-      "rank": 18,
-      "title": "Mirano",
-      "path": "europe/italy/lombardia/mirano",
-      "prior_score": -3.0825,
-      "prior_variance": 1.355328,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "B\u00fck",
-      "path": "europe/hungary/buk",
-      "prior_score": -2.0475,
-      "prior_variance": 1.302041,
-      "prior_n": 1
-    },
-    {
-      "rank": 20,
-      "title": "Salgotarjan",
-      "path": "europe/hungary/salgotarjan",
-      "prior_score": -6.1995,
-      "prior_variance": 1.395873,
-      "prior_n": 1
-    },
-    {
-      "rank": 21,
-      "title": "Riffa",
-      "path": "asia/bahrain/riffa",
-      "prior_score": -2.7935,
-      "prior_variance": 1.349796,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Bankas",
-      "path": "africa/mali/dogoncountry/bankas",
-      "prior_score": -2.5871,
-      "prior_variance": 1.237545,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 10.5585,
+      "prior_variance": 0.697368,
       "prior_n": 2
     },
     {
+      "rank": 13,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 8.4555,
+      "prior_variance": 0.732628,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 8.2044,
+      "prior_variance": 0.739231,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 8.3073,
+      "prior_variance": 1.110423,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kampot",
+      "path": "asia/cambodia/kampot",
+      "prior_score": 2.1095,
+      "prior_variance": 0.62504,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 9.3929,
+      "prior_variance": 1.126978,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 1.5303,
+      "prior_variance": 0.853733,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 9.885,
+      "prior_variance": 0.842113,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 8.6275,
+      "prior_variance": 1.285241,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.8717,
+      "prior_variance": 0.915853,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": -0.2849,
+      "prior_variance": 0.525176,
+      "prior_n": 3
+    },
+    {
       "rank": 23,
-      "title": "La Mira",
-      "path": "southamerica/argentina/lamira",
-      "prior_score": -13.3936,
-      "prior_variance": 7.933816,
+      "title": "Taijiang",
+      "path": "asia/china/guizhou/taijiang",
+      "prior_score": -5.8728,
+      "prior_variance": 0.686781,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Port Sudan",
-      "path": "africa/sudan/portsudan",
-      "prior_score": -7.8527,
-      "prior_variance": 0.6891,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -5.8735,
+      "prior_variance": 0.711253,
       "prior_n": 2
     }
   ]

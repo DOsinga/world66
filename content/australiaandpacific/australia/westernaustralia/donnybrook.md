@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Donnybrook_Post_Office,_Ja
 latitude: -33.577376
 loc_type: city
 longitude: 115.825129
-score: 0.32
+score: 0.31
 title: Donnybrook
 type: location
 ---

@@ -10,7 +10,7 @@ image: luton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Luton_from_the_air_-_geograph.org.uk_-_4547656.jpg
 image_license: CC BY-SA 2.0
 image_attribution: M J Richardson
-score: 0.29
+score: 0.24
 loc_type: city
 ---
 

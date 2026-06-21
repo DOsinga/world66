@@ -5,13 +5,14 @@ done:
 latitude: 45.4396
 longitude: 9.2044
 opening_hours: Mon, Wed–Fri 09:00–21:00; Sat–Sun 09:00–21:00; closed Tue
-snippet: Wes Anderson-designed cafe inside Fondazione Prada
+score: 6.6
+snippet: Wes Anderson-designed cafe inside Fondazione Prada with 1950s Milanese decor
+  and excellent pastries
 tags:
-  - bars_and_cafes
-  - cafe
+- bars_and_cafes
+- cafe
 title: Bar Luce
 type: poi
-score: 6.6
 ---
 
 A café inside the Fondazione Prada designed by Wes Anderson, modelled on the bars he fell in love with in 1950s and 60s Milan films. Pastel colours, Formica surfaces, vintage pinball machines, and a ceiling pattern lifted from the Galleria — the whole thing is a loving tribute to mid-century Milanese café culture.

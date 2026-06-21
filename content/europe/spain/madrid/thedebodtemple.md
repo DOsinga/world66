@@ -5,6 +5,7 @@ snippet: Ancient Egyptian temple transplanted to a Madrid hilltop
 tags:
 - things_to_do
 - landmark
+- arguelles
 title: The Debod Temple
 type: poi
 score: 8.2

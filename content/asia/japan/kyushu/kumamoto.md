@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jp
 latitude: 32.8033
 loc_type: city
 longitude: 130.7078
-score: 0.66
+score: 0.55
 title: Kumamoto
 type: location
 ---

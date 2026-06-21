@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nieuwpoort_IJzer_R01.jpg
 latitude: 51.129431
 loc_type: city
 longitude: 2.751666
-score: 0.47
+score: 0.39
 title: Nieuwpoort
 type: location
 ---

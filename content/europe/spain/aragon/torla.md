@@ -14,6 +14,7 @@ sources:
 - https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/englishinformaciongeneralparquenacionaldeordesaymonteperdidoingles_tcm30-474581.pdf
 title: Torla-Ordesa
 type: location
+score: 0.56
 ---
 
 Torla-Ordesa is the stone-built gateway village for [Ordesa National Park](/europe/spain/aragon/ordesa_national_park), set at the mouth of the Ordesa valley with limestone walls and Pyrenean peaks rising behind it. It is small, handsome, and practical in exactly the way a mountain base should be: enough food, beds, maps, and buses, without pretending to be a resort.

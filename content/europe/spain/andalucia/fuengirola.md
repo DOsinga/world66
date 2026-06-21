@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fuengirola_6.jpg
 latitude: 36.53884
 loc_type: city
 longitude: -4.623397
-score: 0.56
+score: 0.49
 title: Fuengirola
 type: location
 ---

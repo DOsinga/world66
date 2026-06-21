@@ -1,200 +1,200 @@
 {
   "round": 2222,
-  "timestamp": "2026-04-13T16:21:40",
+  "timestamp": "2026-06-13T21:27:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sapa",
-      "path": "asia/vietnam/sapa",
-      "prior_score": 7.4649,
-      "prior_variance": 0.318246,
-      "prior_n": 5
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 8.1719,
+      "prior_variance": 0.331884,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Pangkor islands",
-      "path": "asia/malaysia/pangkorislands",
-      "prior_score": 2.785,
-      "prior_variance": 0.226205,
-      "prior_n": 6
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -0.4528,
+      "prior_variance": 0.183837,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Shimonoseki",
-      "path": "asia/japan/honshu/shimonoseki",
-      "prior_score": 2.8014,
-      "prior_variance": 0.221445,
-      "prior_n": 6
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.8381,
+      "prior_variance": 0.210385,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Bangalore",
-      "path": "asia/india/karnataka/bangalore",
-      "prior_score": 0.2328,
-      "prior_variance": 0.24869,
-      "prior_n": 6
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_score": -2.0889,
+      "prior_variance": 0.201128,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Punta Arenas",
-      "path": "southamerica/chile/puntaarenas",
-      "prior_score": 1.7914,
-      "prior_variance": 0.27245,
-      "prior_n": 5
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -1.745,
+      "prior_variance": 0.180787,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Puerto Madryn",
-      "path": "southamerica/argentina/puerto_madryn_1",
-      "prior_score": 2.9717,
-      "prior_variance": 0.233244,
-      "prior_n": 6
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -2.2349,
+      "prior_variance": 0.203845,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Wels",
-      "path": "europe/austria/wels",
-      "prior_score": -0.384,
-      "prior_variance": 0.258751,
-      "prior_n": 5
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.1727,
+      "prior_variance": 0.219615,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Ourense",
-      "path": "europe/spain/galicia/ourense",
-      "prior_score": 0.5606,
-      "prior_variance": 0.210552,
-      "prior_n": 6
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.6778,
+      "prior_variance": 0.231763,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Ann Arbor",
-      "path": "northamerica/unitedstates/michigan/annarbor",
-      "prior_score": 0.8379,
-      "prior_variance": 0.208469,
-      "prior_n": 6
-    },
-    {
-      "rank": 10,
-      "title": "Newburyport",
-      "path": "northamerica/unitedstates/massachusetts/newburyport",
-      "prior_score": 1.9138,
-      "prior_variance": 0.242796,
-      "prior_n": 5
-    },
-    {
-      "rank": 11,
-      "title": "Ashbourne",
-      "path": "europe/unitedkingdom/england/ashbourne",
-      "prior_score": -0.782,
-      "prior_variance": 0.21501,
-      "prior_n": 6
-    },
-    {
-      "rank": 12,
-      "title": "Minehead",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
-      "prior_score": -0.168,
-      "prior_variance": 0.237152,
-      "prior_n": 6
-    },
-    {
-      "rank": 13,
-      "title": "Heber City",
-      "path": "northamerica/unitedstates/utah/heber_city",
-      "prior_score": -0.0788,
-      "prior_variance": 0.270071,
-      "prior_n": 6
-    },
-    {
-      "rank": 14,
-      "title": "Purwokerto",
-      "path": "asia/indonesia/java/purwokerto",
-      "prior_score": -3.3955,
-      "prior_variance": 0.226006,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -5.466,
+      "prior_variance": 0.251366,
       "prior_n": 8
     },
     {
+      "rank": 10,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.0276,
+      "prior_variance": 0.218398,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -6.0468,
+      "prior_variance": 0.285006,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -5.8888,
+      "prior_variance": 0.267078,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -7.5313,
+      "prior_variance": 0.365304,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -5.987,
+      "prior_variance": 0.211404,
+      "prior_n": 7
+    },
+    {
       "rank": 15,
-      "title": "Jefferson City",
-      "path": "northamerica/unitedstates/missouri/jeffersoncity",
-      "prior_score": -3.0881,
-      "prior_variance": 0.244787,
-      "prior_n": 5
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.6054,
+      "prior_variance": 0.233472,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Sighet",
-      "path": "europe/romania/sighet",
-      "prior_score": -1.985,
-      "prior_variance": 0.229431,
-      "prior_n": 6
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -7.0127,
+      "prior_variance": 0.325991,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Raleighvallen",
-      "path": "southamerica/suriname/raleighvallen",
-      "prior_score": -1.8507,
-      "prior_variance": 0.269542,
-      "prior_n": 6
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -6.9329,
+      "prior_variance": 0.302517,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Bukoba",
-      "path": "africa/tanzania/bukoba",
-      "prior_score": -2.4088,
-      "prior_variance": 0.207432,
-      "prior_n": 6
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.8557,
+      "prior_variance": 0.294224,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Tizi-ouzou",
-      "path": "africa/algeria/tiziouzou",
-      "prior_score": -3.4357,
-      "prior_variance": 0.292678,
-      "prior_n": 6
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.3643,
+      "prior_variance": 0.217424,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Maple Creek",
-      "path": "northamerica/canada/saskatchewan/maple_creek",
-      "prior_score": -4.0418,
-      "prior_variance": 0.221071,
-      "prior_n": 6
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.6991,
+      "prior_variance": 0.425865,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Reedsville",
-      "path": "northamerica/unitedstates/westvirginia/reedsville",
-      "prior_score": -7.4209,
-      "prior_variance": 0.549336,
-      "prior_n": 6
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -10.3469,
+      "prior_variance": 0.301041,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Peshawar",
-      "path": "asia/pakistan/peshawar",
-      "prior_score": -6.7577,
-      "prior_variance": 0.417606,
-      "prior_n": 5
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.9604,
+      "prior_variance": 0.411575,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Trans Sahara",
-      "path": "africa/niger/transsahara",
-      "prior_score": -7.6333,
-      "prior_variance": 0.378485,
-      "prior_n": 5
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -7.685,
+      "prior_variance": 0.386701,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
-      "prior_score": -12.6396,
-      "prior_variance": 0.470334,
-      "prior_n": 5
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -11.9216,
+      "prior_variance": 1.178211,
+      "prior_n": 7
     }
   ]
 }

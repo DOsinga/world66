@@ -5,7 +5,7 @@ latitude: 39.9932
 longitude: 46.9305
 title: Agdam
 type: location
-score: 0.28
+score: 0.16
 loc_type: city
 ---
 

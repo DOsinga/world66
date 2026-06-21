@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DieppeWatertower.JPG
 latitude: 46.09668
 loc_type: city
 longitude: -64.735735
-score: 0.34
+score: 0.3
 title: Dieppe
 type: location
 ---

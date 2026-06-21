@@ -5,7 +5,7 @@ latitude: -25.2744
 longitude: 152.7093
 title: National Parks
 type: location
-score: 0.56
+score: 0.51
 loc_type: feature
 ---
 

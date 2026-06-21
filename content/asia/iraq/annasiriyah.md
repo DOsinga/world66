@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naserya_city_center_1.JPG
 latitude: 31.043996
 loc_type: city
 longitude: 46.239939
-score: 0.25
+score: 0.16
 title: An Nasiriyah
 type: location
 ---

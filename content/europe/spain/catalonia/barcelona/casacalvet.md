@@ -2,13 +2,14 @@
 address: Carrer de Casp, 48, 08010 Barcelona
 latitude: 41.390939
 longitude: 2.172997
-snippet: "Early Gaudí apartment building with Baroque-inspired facade"
+score: 7.7
+snippet: Early Gaudí apartment building with Baroque-inspired facade
 tags:
 - things_to_do
 - architecture
+- eixample
 title: Casa Calvet
 type: poi
-score: 7.7
 ---
 
 Often called Gaudí's most conventional building, Casa Calvet was designed in 1898 as a residential and commercial property for the textile manufacturer Pere Martir Calvet. The Baroque-inspired facade is restrained by Gaudí's standards, but the details reward a close look: wrought-iron balconies, carved mushrooms on the upper level (a nod to Calvet's interest in mycology), and a distinctive tribinium gallery at the top.

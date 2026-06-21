@@ -1,0 +1,200 @@
+{
+  "round": 3068,
+  "timestamp": "2026-06-13T22:26:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 7.5356,
+      "prior_variance": 0.219981,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 7.818,
+      "prior_variance": 0.183194,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 2.8816,
+      "prior_variance": 0.201935,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 4.5267,
+      "prior_variance": 0.211329,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.8403,
+      "prior_variance": 0.142765,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 0.9837,
+      "prior_variance": 0.126714,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_score": 2.003,
+      "prior_variance": 0.132295,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 1.62,
+      "prior_variance": 0.16154,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.8995,
+      "prior_variance": 0.182017,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -0.9785,
+      "prior_variance": 0.144137,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.6555,
+      "prior_variance": 0.125356,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.6423,
+      "prior_variance": 0.143985,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.0843,
+      "prior_variance": 0.127556,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": -0.3363,
+      "prior_variance": 0.130029,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -1.6628,
+      "prior_variance": 0.164612,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -0.8582,
+      "prior_variance": 0.180583,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hu\u00e1nuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -1.582,
+      "prior_variance": 0.140966,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -2.3841,
+      "prior_variance": 0.149521,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ruijin",
+      "path": "asia/china/jiangxi/ruijin",
+      "prior_score": -4.6418,
+      "prior_variance": 0.141032,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -2.7376,
+      "prior_variance": 0.163371,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -3.1879,
+      "prior_variance": 0.182164,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -3.9994,
+      "prior_variance": 0.149419,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.0253,
+      "prior_variance": 0.136119,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -6.0096,
+      "prior_variance": 0.147132,
+      "prior_n": 10
+    }
+  ]
+}

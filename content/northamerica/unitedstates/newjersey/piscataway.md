@@ -5,7 +5,7 @@ done:
 latitude: 40.546433
 loc_type: city
 longitude: -74.466054
-score: 0.29
+score: 0.22
 title: Piscataway
 type: location
 ---

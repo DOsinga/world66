@@ -15,7 +15,7 @@ quick_facts:
   Ice Sheet Coverage: "~80% of the island"
   World's Largest Island: "836,000 square miles"
   Population Density: "0.03 people per km² (Earth's lowest)"
-score: 0.49
+score: 0.69
 loc_type: country
 ---
 

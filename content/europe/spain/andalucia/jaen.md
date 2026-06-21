@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ja%C3%A9n_1.jpg
 latitude: 37.767
 loc_type: city
 longitude: -3.7902
-score: 0.51
+score: 0.43
 title: Jaén
 type: location
 ---

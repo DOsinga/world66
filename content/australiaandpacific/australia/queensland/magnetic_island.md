@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Magnetic_Island,_Queenslan
 latitude: -19.1421
 loc_type: city
 longitude: 146.8335
-score: 0.59
+score: 0.53
 title: Magnetic Island
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Silo_de_Taranc%C3%B3n_III_
 latitude: 40.008607
 loc_type: city
 longitude: -3.010224
-score: 0.39
+score: 0.29
 title: Tarancon
 type: location
 ---

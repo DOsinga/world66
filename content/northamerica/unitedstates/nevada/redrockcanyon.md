@@ -5,7 +5,7 @@ latitude: 36.1355
 longitude: -115.4294
 title: Red Rock Canyon
 type: location
-score: 0.68
+score: 0.58
 loc_type: feature
 ---
 

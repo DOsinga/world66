@@ -5,7 +5,7 @@ done:
 latitude: 33.6783
 loc_type: city
 longitude: -118.0
-score: 0.48
+score: 0.44
 title: Huntington Beach
 type: location
 image: huntingtonbeach.jpg

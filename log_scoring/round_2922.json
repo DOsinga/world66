@@ -1,0 +1,200 @@
+{
+  "round": 2922,
+  "timestamp": "2026-06-13T22:16:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 7.557,
+      "prior_variance": 0.285581,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 9.8839,
+      "prior_variance": 0.302249,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 8.1999,
+      "prior_variance": 0.204198,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 4.693,
+      "prior_variance": 0.148091,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.5019,
+      "prior_variance": 0.131478,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 3.5265,
+      "prior_variance": 0.217629,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 3.9434,
+      "prior_variance": 0.162052,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 3.0837,
+      "prior_variance": 0.163465,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 4.3144,
+      "prior_variance": 0.172186,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 3.8049,
+      "prior_variance": 0.150628,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.1001,
+      "prior_variance": 0.148465,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 2.7389,
+      "prior_variance": 0.191526,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 0.8812,
+      "prior_variance": 0.176722,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 5.4511,
+      "prior_variance": 0.170956,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 4.0554,
+      "prior_variance": 0.149978,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.7101,
+      "prior_variance": 0.154777,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 2.2246,
+      "prior_variance": 0.166146,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 1.9575,
+      "prior_variance": 0.133482,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 3.5968,
+      "prior_variance": 0.152477,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.2521,
+      "prior_variance": 0.163681,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.3112,
+      "prior_variance": 0.150755,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.995,
+      "prior_variance": 0.14958,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.7557,
+      "prior_variance": 0.174552,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -4.5486,
+      "prior_variance": 0.193285,
+      "prior_n": 9
+    }
+  ]
+}

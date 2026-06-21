@@ -5,7 +5,7 @@ latitude: 63.620728
 longitude: -148.719587
 title: Denali National Park
 type: location
-score: 0.69
+score: 0.67
 loc_type: feature
 ---
 

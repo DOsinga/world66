@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chickamauga_Battlefield_Wi
 latitude: 34.949995
 loc_type: city
 longitude: -85.245661
-score: 0.34
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Fort_Oglethorpe,_Georgia
 - https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park

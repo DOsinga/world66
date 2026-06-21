@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Veni
 latitude: 45.437191
 loc_type: city
 longitude: 12.33459
-score: 0.96
+score: 0.93
 title: Venice
 type: location
 ---

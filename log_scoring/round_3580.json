@@ -1,0 +1,200 @@
+{
+  "round": 3580,
+  "timestamp": "2026-06-13T23:04:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 5.3295,
+      "prior_variance": 0.150772,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 4.9286,
+      "prior_variance": 0.166724,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 4.9143,
+      "prior_variance": 0.129665,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 4.5101,
+      "prior_variance": 0.141018,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 4.9898,
+      "prior_variance": 0.12126,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.5767,
+      "prior_variance": 0.125151,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 4.6423,
+      "prior_variance": 0.180661,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.0853,
+      "prior_variance": 0.125748,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 5.0568,
+      "prior_variance": 0.149892,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 4.3217,
+      "prior_variance": 0.128724,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 5.4448,
+      "prior_variance": 0.153656,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 4.8337,
+      "prior_variance": 0.132845,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.5948,
+      "prior_variance": 0.125679,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 3.744,
+      "prior_variance": 0.136865,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 2.7573,
+      "prior_variance": 0.140991,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.1888,
+      "prior_variance": 0.12105,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": -0.073,
+      "prior_variance": 0.112664,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": 0.1704,
+      "prior_variance": 0.105852,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.5202,
+      "prior_variance": 0.118502,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.5839,
+      "prior_variance": 0.140543,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.1939,
+      "prior_variance": 0.138388,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.3063,
+      "prior_variance": 0.144359,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -5.2574,
+      "prior_variance": 0.146932,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -5.8668,
+      "prior_variance": 0.133636,
+      "prior_n": 11
+    }
+  ]
+}

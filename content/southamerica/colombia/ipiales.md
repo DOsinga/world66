@@ -5,7 +5,7 @@ done:
 latitude: 0.8281
 loc_type: city
 longitude: -77.6414
-score: 0.48
+score: 0.4
 title: Ipiales
 type: location
 ---

@@ -6,7 +6,12 @@ tags:
 - neighbourhood
 latitude: 55.678
 longitude: 12.524
-snippet: Independent royal municipality bordering Copenhagen, centred on palace gardens and the zoo
+snippet: Independent royal municipality bordering Copenhagen, centred on palace gardens
+  and the zoo
+image: frederiksberg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Frederiksberg_All%C3%A9_-_parking_lanes.jpg
+image_license: CC BY-SA 2.0
+image_attribution: La Citta Vita
 ---
 
 Frederiksberg is technically its own municipality within the Copenhagen metropolitan area — an enclave entirely surrounded by the city but governed separately. In practice it functions as an upscale residential quarter west of the city centre, defined by its large green spaces and the Frederiksberg Palace complex.

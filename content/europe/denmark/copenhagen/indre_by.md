@@ -6,7 +6,12 @@ tags:
 - neighbourhood
 latitude: 55.678
 longitude: 12.576
-snippet: Copenhagen's medieval core of palaces, museums, canals, and the Strøget pedestrian spine
+snippet: Copenhagen's medieval core of palaces, museums, canals, and the Strøget pedestrian
+  spine
+image: indre_by.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nyhavn_Copenhagen_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: kallerna
 ---
 
 Indre By — the inner city — is the oldest part of Copenhagen and its geographic and cultural centre. Within a compact area you'll find the pedestrian street of Strøget (one of Europe's longest), the Latin Quarter around Copenhagen University, the Nyhavn canal lined with coloured townhouses, and a concentration of world-class museums.

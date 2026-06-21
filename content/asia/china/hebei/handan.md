@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Handan
 title: Handan
 type: location
+snippet: Ancient Hebei city once capital of Zhao, associated with hundreds of classical Chinese idioms.
 score: 0.29
 ---
 

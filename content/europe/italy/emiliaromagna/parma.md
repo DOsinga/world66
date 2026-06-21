@@ -11,6 +11,7 @@ longitude: 10.3279
 score: 0.53
 title: Parma
 type: location
+snippet: Elegant Emilia-Romagna city famous for Parmigiano-Reggiano, Prosciutto di Parma, and Romanesque monuments.
 ---
 
 Parma is famous worldwide for two things: Parmigiano-Reggiano cheese and Prosciutto di Parma. But this elegant city in Emilia-Romagna has much more to offer than its culinary reputation suggests.

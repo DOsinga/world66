@@ -8,6 +8,7 @@ longitude: -122.086352
 score: 0.4
 title: Ben Lomond
 type: location
+snippet: San Lorenzo Valley redwood town named by Scottish settlers, with river swimming holes and Highland Games traditions.
 image: ben_lomond_califo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ben_Lomond,_CA,_USA_-_panoramio.jpg
 image_license: CC BY 3.0

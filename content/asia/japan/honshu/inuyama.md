@@ -12,6 +12,7 @@ longitude: 136.984549
 score: 0.54
 title: Inuyama
 type: location
+snippet: Aichi castle town on the Kiso River, home to one of Japan's twelve original castles.
 ---
 
 Inuyama is a small castle town on the Kiso River in Aichi Prefecture, sometimes called the "Japanese Rhine" for the wooded gorge the river cuts through upstream. The town's centrepiece is [Inuyama Castle](/asia/japan/honshu/inuyama/inuyama_castle), one of only twelve original castles remaining in Japan and a national treasure — the oldest surviving wooden castle keep in the country, built in 1537, perched on a bluff with a panoramic view across the river.

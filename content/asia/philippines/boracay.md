@@ -12,6 +12,7 @@ longitude: 121.922734
 score: 0.64
 title: Boracay
 type: location
+snippet: Philippine island resort known for White Beach, clear shallow water, and hilly tropical scenery.
 loc_type: city
 ---
 

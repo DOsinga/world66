@@ -1,6 +1,7 @@
 ---
 title: Les Eyzies de Tayac
 type: location
+snippet: Dordogne village in the Vézère Valley, surrounded by prehistoric caves and limestone rock shelters.
 loc_type: city
 latitude: 44.9353
 longitude: 1.0175

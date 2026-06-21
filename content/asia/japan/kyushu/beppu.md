@@ -8,6 +8,7 @@ longitude: 131.491306
 score: 0.58
 title: Beppu
 type: location
+snippet: Kyushu hot spring city where steam rises through streets above Japan's most famous geothermal resort.
 image: beppu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beppu_City.jpg
 image_license: CC BY-SA 3.0

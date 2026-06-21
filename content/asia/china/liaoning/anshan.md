@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Anshan
 title: Anshan
 type: location
+snippet: Liaoning steel city beside eastern mountains, with Qianshan National Park as its main natural draw.
 score: 0.25
 ---
 

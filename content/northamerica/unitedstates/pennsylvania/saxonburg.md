@@ -12,6 +12,7 @@ longitude: -79.814118
 score: 0.28
 title: Saxonburg
 type: location
+snippet: Small Butler County borough founded by German immigrants, with strong ties to engineer John A. Roebling.
 ---
 
 Saxonburg is a small borough in Butler County, about 23 miles northeast of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh). Founded in 1832 by German immigrants, the town has a quiet Main Street with a handful of restaurants and local businesses.

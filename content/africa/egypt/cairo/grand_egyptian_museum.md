@@ -12,6 +12,7 @@ story: 'The Grand Egyptian Museum was under construction for over 20 years and c
   '
 tags:
 - day_trips
+- giza
 title: Grand Egyptian Museum
 type: poi
 ---

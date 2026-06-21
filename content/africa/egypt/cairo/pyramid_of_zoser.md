@@ -5,6 +5,7 @@ score: 9.0
 snippet: World's oldest pyramid at ancient Saqqara necropolis
 tags:
 - day_trips
+- giza
 title: Pyramid of Zoser (Saqqara)
 type: poi
 ---

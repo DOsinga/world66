@@ -5,6 +5,7 @@ score: 9.0
 snippet: Iconic half-lion, half-human limestone monument at Giza
 tags:
 - day_trips
+- giza
 title: Sphinx
 type: poi
 ---

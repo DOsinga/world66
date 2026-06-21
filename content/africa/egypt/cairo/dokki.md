@@ -9,9 +9,9 @@ longitude: 31.2125
 snippet: Giza district with museums, the Cairo Zoo, and a mix of working-class and
   middle-class streets
 image: dokki.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Elzahraa_el_dokki_-_panoramio.jpg
-image_license: CC BY 3.0
-image_attribution: Hassan Gaafar
+image_source: https://commons.wikimedia.org/wiki/File:Dokki,_Giza.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Faris knight
 ---
 
 Dokki is a dense Giza district immediately south of Mohandiseen, separated from central Cairo by the Nile but only 20–30 minutes by car. The neighbourhood is home to several significant institutions: the Egyptian Antiquities Museum warehouses, the Cairo Zoo (one of Africa's oldest, opened 1891), and the Agriculture Museum. The surrounding streets are solidly middle-class without the international veneer of Mohandiseen or Zamalek.

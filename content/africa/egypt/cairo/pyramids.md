@@ -7,6 +7,7 @@ score: 10.0
 snippet: The Great Pyramids and Sphinx at the edge of Cairo's desert
 tags:
 - day_trips
+- giza
 title: Pyramids of Giza
 type: poi
 ---

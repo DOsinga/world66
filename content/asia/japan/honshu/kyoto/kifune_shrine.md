@@ -9,10 +9,9 @@ story: At Kifune you draw a blank piece of paper from the shrine office and floa
   is also the canonical home of the *ushi-no-toki-mairi*, the gruesome curse ritual
   of nailing a straw effigy to a sacred tree at 2 a.m.
 tags:
-- things_to_do
+- day_trips
 - shrine
 - sight
-- philosophers_walk
 title: Kifune Shrine
 type: poi
 ---

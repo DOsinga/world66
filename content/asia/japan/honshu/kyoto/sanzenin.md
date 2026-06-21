@@ -4,10 +4,9 @@ longitude: 135.8328
 score: 8.0
 snippet: Mountain temple in Ōhara, surrounded by moss gardens and quiet cedar forest
 tags:
-- things_to_do
+- day_trips
 - temple
 - sight
-- philosophers_walk
 title: Sanzen-in
 type: poi
 ---

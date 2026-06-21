@@ -4,11 +4,10 @@ longitude: 135.8076
 score: 8.7
 snippet: The 11th-century Phoenix Hall in Uji, pictured on the 10-yen coin
 tags:
-- things_to_do
+- day_trips
 - temple
 - unesco
 - sight
-- fushimi
 title: Byōdō-in
 type: poi
 ---

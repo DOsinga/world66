@@ -12,6 +12,7 @@ longitude: -2.763349
 score: 0.55
 title: Morbihan
 type: location
+snippet: "Southern Brittany département named for its island-dotted inland sea, oyster beds, and megalithic tombs."
 ---
 
 Morbihan is a département in southern Brittany, named after the [Golfe du Morbihan](/europe/france/normandybrittany/morbihan/golfe_du_morbihan) — "small sea" in Breton — a sheltered inland sea dotted with dozens of islands. The gulf is a remarkable ecosystem of tidal flats, oyster beds, and bird colonies, and several of the islands — including the [Île aux Moines](/europe/france/normandybrittany/morbihan/ile_aux_moines) and the carved Neolithic tomb on [Gavrinis](/europe/france/normandybrittany/morbihan/cairn_de_gavrinis) — can be visited by boat from [Vannes](/europe/france/normandybrittany/vannes), the main city.

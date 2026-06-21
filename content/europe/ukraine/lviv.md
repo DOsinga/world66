@@ -10,6 +10,7 @@ longitude: 24.0316
 score: 0.56
 title: Lviv
 type: location
+snippet: "Western Ukrainian cultural capital of cobbled squares, baroque churches, and layered Polish, Austrian, and Armenian history."
 ---
 
 Lviv is the cultural capital of western [Ukraine](/europe/ukraine), a city of cobblestoned squares, baroque churches, and cafe culture that feels more Central European than Eastern. Known variously as Lemberg, Leopolis, and Lwów through its Polish, Austrian, and Soviet pasts, the city wears its layered history openly — you can read it in the architecture as you walk from the Armenian quarter to the Habsburg boulevards. Since Russia's full-scale invasion of Ukraine in 2022, Lviv has also become a refuge for displaced Ukrainians from the east, and its character has shifted subtly — more crowded, more politically conscious, and in certain ways more alive.

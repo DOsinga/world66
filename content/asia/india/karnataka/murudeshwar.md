@@ -10,6 +10,8 @@ latitude: 14.094361
 loc_type: city
 longitude: 74.482261
 score: 0.44
+snippet: Arabian Sea temple town dominated by a giant Shiva statue and the coastal
+  Konkan Railway.
 title: Murudeshwar
 type: location
 ---

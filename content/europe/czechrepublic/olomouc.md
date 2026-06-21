@@ -12,6 +12,8 @@ latitude: 49.594057
 loc_type: city
 longitude: 17.251143
 score: 0.51
+snippet: Moravian university city of baroque fountains, a UNESCO plague column, and
+  a socialist-realist astronomical clock.
 title: Olomouc
 type: location
 ---

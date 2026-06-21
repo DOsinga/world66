@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Fushun_Railway_Station_2.j
 latitude: 41.8667
 loc_type: city
 longitude: 123.9
+score: 0.23
+snippet: Liaoning coal city tied to Qing origins, Hetuala Old City, and China's last
+  emperor's detention.
 sources:
 - https://en.wikivoyage.org/wiki/Fushun
 title: Fushun
 type: location
-score: 0.23
 ---
 
 Fushun sits forty kilometres east of Shenyang and carries more history per square kilometre than most Chinese cities appreciate. It was the coal capital of China for much of the twentieth century — the open-pit mine here was once the largest in Asia — and it was also, for a brief and formative period in the seventeenth century, the heartland from which the Qing Dynasty launched its conquest of China.

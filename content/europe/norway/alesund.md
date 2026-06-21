@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:00_5555_%C3%85lesund_-_Nor
 latitude: 62.4722
 loc_type: city
 longitude: 6.1549
+score: 0.59
+snippet: Norwegian Art Nouveau port rebuilt after the 1904 fire on islands at the
+  mouth of fjord country.
 sources:
 - https://en.wikipedia.org/wiki/%C3%85lesund
 - https://en.wikivoyage.org/wiki/%C3%85lesund
 title: Ålesund
 type: location
-score: 0.59
 ---
 
 Ålesund is probably the most beautiful town in Norway, a place that looks like an Art Nouveau set piece rising from the sea on a cluster of islands and peninsulas at the edge of the open Atlantic. What you see today is largely the result of a catastrophe: in January 1904 a fire destroyed nearly the entire town, leaving 10,000 people homeless in a Norwegian winter. The rebuilding happened fast and in a unified style — Art Nouveau, the fashionable architecture of the moment — with financial help from Kaiser Wilhelm II of Germany, who had a particular fondness for the area. The result is one of the finest collections of Art Nouveau architecture in the world.

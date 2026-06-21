@@ -11,6 +11,8 @@ latitude: 45.8837
 loc_type: city
 longitude: 8.539
 score: 0.59
+snippet: Elegant Lake Maggiore resort town facing the Borromean Islands from a Liberty-style
+  waterfront promenade.
 title: Stresa
 type: location
 ---

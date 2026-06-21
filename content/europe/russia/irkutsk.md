@@ -12,6 +12,8 @@ latitude: 52.289122
 loc_type: city
 longitude: 104.279829
 score: 0.44
+snippet: Siberian river city of carved wooden houses, Decembrist exile history, and
+  access to Lake Baikal.
 title: Irkutsk
 type: location
 ---

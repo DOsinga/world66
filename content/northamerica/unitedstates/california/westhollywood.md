@@ -9,6 +9,8 @@ latitude: 34.092301
 loc_type: city
 longitude: -118.369289
 score: 0.47
+snippet: Dense Los Angeles enclave of Sunset Strip music history, LGBT civic culture,
+  and walkable nightlife.
 title: West Hollywood
 type: location
 ---

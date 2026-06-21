@@ -11,6 +11,8 @@ latitude: 39.6542
 loc_type: city
 longitude: 66.9597
 score: 0.63
+snippet: Silk Road city of Timurid tilework, where the Registan anchors one of Central
+  Asia's great monument ensembles.
 title: Samarkand
 type: location
 ---

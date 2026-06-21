@@ -6,6 +6,8 @@ latitude: 10.343738
 loc_type: city
 longitude: -67.045309
 score: 0.22
+snippet: Miranda highland capital above Caracas, with cooler air and access to Macarao's
+  cloud forest.
 title: Los Teques
 type: location
 ---

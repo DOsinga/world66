@@ -10,6 +10,8 @@ latitude: 33.694026
 loc_type: city
 longitude: 35.580665
 score: 0.46
+snippet: Chouf Mountain palace town centred on Beiteddine's courtyards, mosaics, and
+  Emir Bashir's 19th-century residence.
 title: Beiteddine
 type: location
 ---

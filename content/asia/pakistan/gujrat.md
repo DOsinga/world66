@@ -8,6 +8,8 @@ latitude: 32.562785
 loc_type: city
 longitude: 74.064535
 score: 0.2
+snippet: Punjabi trading city between the Chenab and Jhelum, known for blue pottery
+  and ceiling-fan workshops.
 title: Gujrat
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 17.0435
 loc_type: city
 longitude: 73.3561
 score: 0.15
+snippet: Rural Konkan village of laterite houses, coconut palms, rice paddies, and
+  monsoon-green hills.
 title: Madhegaon Kond
 type: location
 ---

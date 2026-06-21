@@ -10,6 +10,8 @@ latitude: 44.046648
 loc_type: city
 longitude: 9.984746
 score: 0.42
+snippet: Small Ligurian river-mouth resort where the Magra meets the sea below Montemarcello's
+  pine slopes.
 title: Bocca di Magra
 type: location
 ---

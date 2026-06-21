@@ -6,6 +6,8 @@ latitude: 51.0914
 loc_type: city
 longitude: -3.5696
 score: 0.36
+snippet: Exmoor village of thatched cottages, river fords, and moorland walks below
+  Winsford Hill.
 title: Winsford
 type: location
 ---

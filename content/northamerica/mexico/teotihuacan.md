@@ -11,6 +11,7 @@ loc_type: feature
 longitude: -98.883126
 score: 0.66
 title: Teotihuacan
+snippet: Ancient Mesoamerican city northeast of Mexico City, defined by vast pyramids and the Avenue of the Dead.
 type: location
 ---
 

@@ -4,6 +4,7 @@ done:
 latitude: 33.8847
 longitude: -118.4109
 title: Manhattan Beach
+snippet: Upscale South Bay beach city with a broad volleyball shore, pier, and walkable downtown near LAX.
 type: location
 score: 0.42
 loc_type: city

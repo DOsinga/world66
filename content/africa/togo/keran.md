@@ -9,6 +9,7 @@ latitude: 10.0833
 loc_type: feature
 longitude: 1.0833
 title: Kéran National Park
+snippet: Northern Togolese national park of dry savanna, gallery forest, seasonal pools, and the Kéran River.
 type: location
 score: 0.35
 ---

@@ -13,6 +13,7 @@ loc_type: city
 longitude: -115.148413
 score: 0.67
 title: Las Vegas
+snippet: Mojave Desert city built on casino spectacle, neon fantasy, and outsized entertainment along the Strip.
 type: location
 ---
 

@@ -11,6 +11,7 @@ longitude: 119.45
 sources:
 - https://en.wikivoyage.org/wiki/Hebei
 title: Nandaihe
+snippet: Quiet Bohai beach resort south of Beidaihe, with broad sand and calmer summer-holiday rhythms.
 type: location
 score: 0.32
 ---

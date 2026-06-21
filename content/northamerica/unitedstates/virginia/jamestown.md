@@ -11,6 +11,7 @@ loc_type: city
 longitude: -76.7783
 score: 0.44
 title: Jamestown
+snippet: Virginia historic settlement where English America began, preserved through archaeology and living-history exhibits.
 type: location
 ---
 

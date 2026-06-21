@@ -11,6 +11,7 @@ loc_type: city
 longitude: 2.535724
 score: 0.42
 title: Magaluf
+snippet: Mallorca beach resort with a loud party strip and a broad sandy bay southwest of Palma.
 type: location
 ---
 

@@ -11,6 +11,7 @@ loc_type: city
 longitude: -81.222319
 score: 0.26
 title: Bluefield
+snippet: Appalachian border city with coal-and-railroad bones and a cool mountain climate above southern West Virginia.
 type: location
 ---
 

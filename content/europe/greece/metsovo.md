@@ -11,6 +11,7 @@ loc_type: city
 longitude: 21.183
 score: 0.49
 title: Metsovo
+snippet: Stone-built Pindos mountain town where Vlach traditions, benefactor museums, and Alpine streets meet.
 type: location
 ---
 

@@ -7,6 +7,7 @@ loc_type: city
 longitude: -83.6875
 score: 0.18
 title: Flint
+snippet: Eastern Michigan industrial city where General Motors roots still frame downtown museums and Art Deco buildings.
 type: location
 ---
 

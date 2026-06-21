@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Piacenza
 - https://en.wikivoyage.org/wiki/Piacenza
 title: Piacenza
+snippet: Compact Emilian city on the Po, rich in Farnese palaces, Romanesque churches, and its own salumi traditions.
 type: location
 score: 0.46
 ---

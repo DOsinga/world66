@@ -1,5 +1,6 @@
 ---
 title: "The Three Cities (Cottonera)"
+snippet: Grand Harbour district of three fortified Maltese cities, dense with Knights-era dockyards and bastions.
 type: location
 loc_type: region
 latitude: 35.8860

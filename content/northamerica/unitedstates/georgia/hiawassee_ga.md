@@ -11,6 +11,7 @@ loc_type: city
 longitude: -83.756992
 score: 0.36
 title: Hiawassee
+snippet: Blue Ridge mountain town on Lake Chatuge, close to Brasstown Bald and Appalachian Trail hikes.
 type: location
 ---
 

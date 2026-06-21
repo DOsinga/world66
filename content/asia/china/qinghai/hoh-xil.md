@@ -11,6 +11,7 @@ longitude: 91.5
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Hoh Xil
+snippet: High Qinghai plateau wilderness where Tibetan antelope migrate across one of Asia's most remote landscapes.
 type: location
 score: 0.36
 ---

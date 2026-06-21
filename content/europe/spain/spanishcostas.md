@@ -5,6 +5,7 @@ latitude: 38.5
 longitude: -0.5
 score: 0.58
 title: Spanish Costas
+snippet: Mediterranean coastal region of Spain, linking beach resorts, old ports, tapas towns, and year-round outdoor life.
 type: location
 loc_type: region
 ---

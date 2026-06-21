@@ -13,6 +13,7 @@ loc_type: city
 longitude: 16.372504
 score: 0.74
 title: Vienna
+snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music, and vineyards beyond the suburbs.
 type: location
 ---
 

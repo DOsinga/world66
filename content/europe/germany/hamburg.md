@@ -12,6 +12,7 @@ loc_type: city
 longitude: 9.9937
 score: 0.52
 title: Hamburg
+snippet: Northern German port city of Elbe shipping, red-brick warehouses, Hanseatic pride, and lakeside urban life.
 type: location
 ---
 

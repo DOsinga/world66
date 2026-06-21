@@ -8,6 +8,7 @@ loc_type: city
 longitude: 10.220347
 score: 0.48
 title: Brescia
+snippet: Lombard city between Milan and Verona, with Roman ruins, Venetian streets, and the Santa Giulia complex.
 type: location
 image: brescia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:481BresciaLoggia.jpg

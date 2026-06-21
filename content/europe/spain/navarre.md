@@ -6,6 +6,7 @@ loc_type: region
 longitude: -1.708623
 score: 0.61
 title: Navarre
+snippet: Northern Spanish region between Pyrenees and Ebro plains, shaped by old kingdom history and sharp landscape contrasts.
 type: location
 ---
 

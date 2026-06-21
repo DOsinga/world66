@@ -4,6 +4,7 @@ done:
 latitude: 36.1408
 longitude: -5.4531
 title: Campo de Gibraltar
+snippet: Southern Andalusian region where cork forests, ferry ports, and Atlantic beaches face the Strait of Gibraltar.
 type: location
 score: 0.5
 loc_type: region

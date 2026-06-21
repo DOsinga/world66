@@ -12,6 +12,8 @@ latitude: 45.9075
 loc_type: city
 longitude: 9.1599
 score: 0.62
+snippet: Compact Lombard lake city with medieval streets, Romanesque churches, neoclassical
+  villas, and Alessandro Volta heritage.
 title: Como
 type: location
 ---

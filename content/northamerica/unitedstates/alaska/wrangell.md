@@ -6,6 +6,8 @@ latitude: 56.470602
 loc_type: city
 longitude: -132.382943
 score: 0.38
+snippet: Inside Passage town with Tlingit roots, three colonial flags, and access
+  to the wild Stikine River.
 sources:
 - https://en.wikipedia.org/wiki/Chief_Shakes_Historic_Site
 - https://www.travelalaska.com/destinations/cities-towns/wrangell

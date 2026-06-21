@@ -10,6 +10,8 @@ latitude: 33.889226
 loc_type: city
 longitude: 35.502558
 score: 0.48
+snippet: Rocky Mediterranean capital rebuilt through war and crisis, with layered
+  districts and a relentless cultural pulse.
 title: Beirut
 type: location
 ---

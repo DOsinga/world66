@@ -10,6 +10,8 @@ latitude: 45.3953
 loc_type: city
 longitude: -75.8478
 score: 0.31
+snippet: Historic Gatineau neighbourhood on Lac Deschênes, with Ottawa River cycling
+  and a small-town main street.
 title: Aylmer
 type: location
 ---

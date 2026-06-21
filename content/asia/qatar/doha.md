@@ -11,6 +11,8 @@ latitude: 25.310881
 loc_type: city
 longitude: 51.508181
 score: 0.5
+snippet: Fast-grown Gulf capital with a pearl-diving past, West Bay skyline, and ambitious
+  cultural museums.
 title: Doha
 type: location
 ---

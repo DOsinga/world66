@@ -10,6 +10,8 @@ latitude: -19.053416
 loc_type: city
 longitude: -169.919199
 score: 0.44
+snippet: Tiny Niuean capital on a west-coast bay, with government buildings, cafes,
+  and rocky sea access.
 title: Alofi
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -5.7715
 loc_type: city
 longitude: 132.7378
 score: 0.49
+snippet: Remote southeast Maluku island group known for powder-white beaches, turquoise
+  water, and quiet village life.
 title: Kei Islands
 type: location
 ---

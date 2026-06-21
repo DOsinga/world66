@@ -10,6 +10,8 @@ latitude: 48.049747
 loc_type: city
 longitude: 10.876873
 score: 0.47
+snippet: Bavarian Romantic Road town on the Lech, with painted facades, river weirs,
+  and the Gothic Bayertor.
 title: Landsberg am Lech
 type: location
 ---

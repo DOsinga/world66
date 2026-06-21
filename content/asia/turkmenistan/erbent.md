@@ -9,6 +9,8 @@ latitude: 39.7333
 loc_type: city
 longitude: 58.0167
 score: 0.14
+snippet: Remote Karakum oasis village known for preserving the Turkmen Tazy sighthound
+  tradition.
 sources:
 - https://en.wikipedia.org/wiki/Tazy_(dog)
 title: Erbent

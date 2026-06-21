@@ -9,6 +9,8 @@ latitude: 42.8013
 loc_type: city
 longitude: 10.7511
 score: 0.48
+snippet: Tuscan seaside resort on a pine-covered promontory, with a marina and long
+  Tyrrhenian beaches.
 title: Punta Ala
 type: location
 ---

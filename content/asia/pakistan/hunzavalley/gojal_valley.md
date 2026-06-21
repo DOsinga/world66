@@ -8,6 +8,8 @@ latitude: 36.446
 loc_type: region
 longitude: 74.879
 score: 0.55
+snippet: Upper Hunza mountain region along the Karakoram Highway, shaped by Wakhi
+  villages and high border passes.
 title: Gojal Valley
 type: location
 ---

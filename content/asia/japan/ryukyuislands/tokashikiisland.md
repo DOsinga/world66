@@ -9,6 +9,8 @@ latitude: 26.18611
 loc_type: city
 longitude: 127.356983
 score: 0.58
+snippet: Kerama island near Okinawa, known for white-sand beaches, clear reefs, and
+  winter humpback whales.
 title: Tokashiki Island
 type: location
 ---

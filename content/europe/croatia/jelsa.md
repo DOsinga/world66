@@ -10,6 +10,8 @@ latitude: 43.16081
 loc_type: city
 longitude: 16.693143
 score: 0.52
+snippet: Quiet Hvar harbour town with stone houses, pine promenades, konobas, and
+  pebbly coves nearby.
 title: Jelsa
 type: location
 ---

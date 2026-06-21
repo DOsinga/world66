@@ -10,6 +10,8 @@ latitude: 6.234521
 loc_type: city
 longitude: 1.479926
 score: 0.3
+snippet: Lake Togo town where German colonial history and Vodou traditions remain
+  central to local identity.
 title: Togoville
 type: location
 ---

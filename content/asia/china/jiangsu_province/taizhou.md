@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Taizhou-china-bridge-001.j
 latitude: 32.48
 loc_type: city
 longitude: 119.9
+score: 0.28
+snippet: Historic Jiangsu city between the Grand Canal and coast, birthplace of Peking
+  opera master Mei Lanfang.
 sources:
 - https://en.wikivoyage.org/wiki/Taizhou_(Jiangsu)
 title: Taizhou
 type: location
-score: 0.28
 ---
 
 Taizhou sits in the middle of Jiangsu, between the Grand Canal and the coast, a city with over two thousand years of recorded history and a strong local identity that has not been entirely steamrolled by recent development. It is the birthplace of Mei Lanfang, the Peking opera master who is credited with defining the dan (female) role tradition, and his [Mei Lanfang Memorial Museum](/asia/china/jiangsu_province/taizhou/mei_lanfang_memorial_museum) and park are treated with genuine local reverence. The [Fengchenghe riverside area](/asia/china/jiangsu_province/taizhou/wanghai_tower), centred on the restored Wanghai Tower, gives the city a handsome civic anchor.

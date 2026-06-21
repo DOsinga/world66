@@ -12,6 +12,8 @@ latitude: 43.529842
 loc_type: city
 longitude: 5.447474
 score: 0.64
+snippet: Elegant Provençal university city of plane-shaded boulevards, fountains,
+  and old-town terraces.
 title: Aix-en-Provence
 type: location
 ---

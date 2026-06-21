@@ -9,6 +9,7 @@ latitude: 10.2676
 loc_type: city
 longitude: 13.2644
 score: 0.15
+snippet: Adamawa commercial city near the Cameroon border, set below the Mandara Mountains.
 title: Mubi
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -23.204027
 loc_type: city
 longitude: -65.348776
 score: 0.5
+snippet: Andean Quebrada town where colonial architecture stands against the barren,
+  Peru-and-Bolivia-like landscapes of northwest Argentina.
 title: Humahuaca
 type: location
 ---

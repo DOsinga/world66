@@ -6,6 +6,8 @@ latitude: -41.223547
 loc_type: region
 longitude: 175.415758
 score: 0.59
+snippet: Southern North Island region where harbour hills, Kapiti beaches, and the
+  Wairarapa meet around Wellington.
 title: Greater Wellington
 type: location
 ---

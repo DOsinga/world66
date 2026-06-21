@@ -9,6 +9,8 @@ latitude: -20.385671
 loc_type: city
 longitude: -43.503617
 score: 0.57
+snippet: Steep Brazilian colonial town where black-gold wealth survives in baroque
+  churches and cobbled hillside streets.
 title: Ouro Preto
 type: location
 ---

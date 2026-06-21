@@ -10,6 +10,8 @@ latitude: 52.423894
 loc_type: city
 longitude: 31.01317
 score: 0.26
+snippet: Southeastern Belarusian city with old fort-town roots and a classicist palace
+  from its 19th-century rebuilding.
 title: Gomel
 type: location
 ---

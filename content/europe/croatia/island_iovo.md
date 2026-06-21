@@ -9,6 +9,8 @@ latitude: 43.4979
 loc_type: city
 longitude: 16.3005
 score: 0.5
+snippet: Small Dalmatian island beside Trogir, linked by bridge and edged with quieter
+  beaches than the mainland.
 sources:
 - https://en.wikipedia.org/wiki/%C4%8Ciovo
 title: Island Čiovo

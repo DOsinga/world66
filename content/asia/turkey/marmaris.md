@@ -10,6 +10,8 @@ latitude: 36.852255
 loc_type: city
 longitude: 28.274266
 score: 0.54
+snippet: Southwestern Turkish resort town in a pine-fringed natural harbour between
+  the Aegean and Mediterranean.
 title: Marmaris
 type: location
 ---

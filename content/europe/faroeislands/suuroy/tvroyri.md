@@ -10,6 +10,8 @@ latitude: 61.555329
 loc_type: city
 longitude: -6.804682
 score: 0.43
+snippet: Suðuroy harbour town at the head of Trongisvágsfjørður, a deep fjord on the
+  island's east coast.
 title: Tvøroyri
 type: location
 ---

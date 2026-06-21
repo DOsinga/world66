@@ -6,11 +6,13 @@ image_attribution: Chensiyuan
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:1_toledo_spain_evening_sunset_2014_DXR_edit.jpg
 latitude: 40.416775
+loc_type: region
 longitude: -3.70379
 score: 0.5
+snippet: High Iberian plateau region where Madrid sits amid stern landscapes and medieval
+  cities like Toledo and Segovia.
 title: Central Spain
 type: location
-loc_type: region
 ---
 
 Central Spain is the Meseta — the vast plateau at the heart of the Iberian Peninsula, sitting between 700 and 1000 metres above sea level, with harsh winters, dry summers, and a severity of landscape that shaped the Spanish character as much as any Mediterranean coastline. Madrid sits at the centre, but the cities that make central Spain worth visiting are the medieval ones: Salamanca, Segovia, Ávila, Toledo, Cuenca.

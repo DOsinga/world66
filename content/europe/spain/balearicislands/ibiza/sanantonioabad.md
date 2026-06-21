@@ -6,6 +6,8 @@ latitude: 38.983057
 loc_type: city
 longitude: 1.300949
 score: 0.51
+snippet: Ibiza resort town around a broad western bay, built around package holidays
+  and sunset bars.
 title: San Antonio Abad
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 50.70069
 loc_type: region
 longitude: 3.161005
 score: 0.67
+snippet: French border region of pretty villages, white wines, and food shaped by
+  Franco-German history.
 title: Alsace
 type: location
 ---

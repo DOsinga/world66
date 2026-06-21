@@ -2,8 +2,7 @@
 latitude: 40.7718
 longitude: -73.9366
 score: 8.5
-snippet: Sculptor Isamu Noguchi's own museum in his former studio — one of the finest
-  single-artist museums in the world
+snippet: Sculptor Isamu Noguchi's own museum in his former studio, one of the finest single-artist museums anywhere
 tags:
 - things_to_do
 - museum

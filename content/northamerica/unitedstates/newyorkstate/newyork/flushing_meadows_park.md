@@ -2,8 +2,7 @@
 latitude: 40.7498
 longitude: -73.8448
 score: 7.0
-snippet: 897-acre park in Queens that hosted two World's Fairs — the Unisphere globe
-  and USTA tennis center are here
+snippet: 897-acre Queens park that hosted two World's Fairs — the Unisphere globe is here
 tags:
 - things_to_do
 - park

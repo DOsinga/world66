@@ -2,8 +2,7 @@
 latitude: 40.703
 longitude: -73.9886
 score: 7.0
-snippet: Cluster of galleries and art spaces in the former industrial warehouses beneath
-  the Brooklyn and Manhattan Bridges
+snippet: Cluster of galleries and art spaces in former industrial warehouses beneath the Brooklyn and Manhattan Bridges
 tags:
 - things_to_do
 - sight

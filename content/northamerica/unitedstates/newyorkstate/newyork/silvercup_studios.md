@@ -2,8 +2,7 @@
 latitude: 40.7495
 longitude: -73.9444
 score: 6.0
-snippet: The largest film and television studio complex in the northeastern US — The
-  Sopranos and Sex and the City filmed here
+snippet: Largest film and television studio complex in the northeastern US — The Sopranos filmed here
 tags:
 - things_to_do
 - sight

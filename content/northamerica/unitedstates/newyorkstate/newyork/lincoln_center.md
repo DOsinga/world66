@@ -2,8 +2,7 @@
 latitude: 40.7725
 longitude: -73.9835
 score: 8.5
-snippet: Home of the Metropolitan Opera, New York Philharmonic and NYC Ballet — the
-  world's largest performing arts campus
+snippet: Home of the Met Opera, NY Philharmonic, and NYC Ballet, the world's largest performing arts campus
 tags:
 - things_to_do
 - sight

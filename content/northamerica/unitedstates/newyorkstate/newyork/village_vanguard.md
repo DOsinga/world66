@@ -2,8 +2,7 @@
 latitude: 40.7351
 longitude: -74.0
 score: 8.5
-snippet: Jazz club on Seventh Avenue South open since 1935 — John Coltrane, Miles
-  Davis and Bill Evans all recorded here
+snippet: Jazz club on Seventh Avenue South open since 1935 — Coltrane and Miles Davis recorded here
 tags:
 - things_to_do
 - bar

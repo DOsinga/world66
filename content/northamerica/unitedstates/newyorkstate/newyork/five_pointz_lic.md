@@ -2,8 +2,7 @@
 latitude: 40.7452
 longitude: -73.9457
 score: 6.5
-snippet: Former graffiti mecca demolished in 2013 — the legal battle over its destruction
-  changed US art law
+snippet: Former graffiti mecca demolished in 2013 — its legal battle changed US art law
 tags:
 - things_to_do
 - sight

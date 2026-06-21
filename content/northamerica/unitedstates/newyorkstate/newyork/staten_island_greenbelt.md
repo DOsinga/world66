@@ -2,8 +2,7 @@
 latitude: 40.5935
 longitude: -74.1435
 score: 7.0
-snippet: 2,800-acre nature reserve at the heart of Staten Island — the largest contiguous
-  forest within New York City
+snippet: 2,800-acre nature reserve at the heart of Staten Island, the largest forest in New York City
 tags:
 - things_to_do
 - park

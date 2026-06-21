@@ -2,8 +2,7 @@
 latitude: 40.7223
 longitude: -73.9874
 score: 8.5
-snippet: Jewish deli institution open since 1888 — the pastrami on rye is one of New
-  York's defining eating experiences
+snippet: Jewish deli institution open since 1888 — the pastrami on rye defines New York eating
 tags:
 - eating_out
 - restaurant

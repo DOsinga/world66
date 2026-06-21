@@ -2,8 +2,7 @@
 latitude: 40.719
 longitude: -73.9627
 score: 7.5
-snippet: The largest weekly open-air food market in America — 100 vendors on the Williamsburg
-  waterfront every Saturday
+snippet: Largest weekly open-air food market in America, with 100 vendors on the Williamsburg waterfront every Saturday
 tags:
 - things_to_do
 - market

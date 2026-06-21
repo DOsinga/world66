@@ -2,8 +2,7 @@
 latitude: 40.7573
 longitude: -73.9545
 score: 7.0
-snippet: 1909 cantilevered steel bridge connecting Midtown to Long Island City — a
-  great walk or bike crossing
+snippet: 1909 cantilevered steel bridge connecting Midtown to Long Island City, a great walk or bike crossing
 tags:
 - things_to_do
 - sight

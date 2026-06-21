@@ -2,8 +2,7 @@
 latitude: 40.5847
 longitude: -73.8118
 score: 7.5
-snippet: Seven-mile Atlantic Ocean beach in the Rockaways — the only ocean surfing
-  beach within New York City
+snippet: Seven-mile Atlantic Ocean beach in the Rockaways, the only ocean surfing beach within New York City
 tags:
 - things_to_do
 - beach

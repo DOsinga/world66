@@ -2,8 +2,7 @@
 latitude: 40.7219
 longitude: -73.9849
 score: 8.0
-snippet: Sit-down offshoot of the 1914 appetising shop — bagels with smoked salmon
-  and cream cheese done perfectly
+snippet: Sit-down offshoot of the 1914 appetising shop — smoked salmon bagels done right
 tags:
 - eating_out
 - restaurant

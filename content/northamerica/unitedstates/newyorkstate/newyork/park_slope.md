@@ -2,8 +2,7 @@
 latitude: 40.6681
 longitude: -73.98
 score: 7.5
-snippet: Leafy brownstone neighbourhood adjacent to Prospect Park — among the finest
-  Victorian residential streetscapes in the city
+snippet: Leafy brownstone neighbourhood adjacent to Prospect Park, among the finest Victorian residential streetscapes in the city
 tags:
 - things_to_do
 - neighbourhood

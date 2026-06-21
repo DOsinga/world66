@@ -2,8 +2,7 @@
 latitude: 40.7424
 longitude: -74.0059
 score: 7.5
-snippet: Converted Nabisco factory now housing a dense food hall and market — the
-  original Oreo biscuit was made here
+snippet: Converted Nabisco factory now a dense food hall — the original Oreo biscuit was made here
 tags:
 - things_to_do
 - market

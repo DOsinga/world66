@@ -2,8 +2,7 @@
 latitude: 40.7149
 longitude: -73.9963
 score: 6.5
-snippet: The informal name for the Canal Street and East Broadway area — a recent
-  focal point for downtown nightlife
+snippet: Informal name for the Canal Street and East Broadway area, a recent focal point for nightlife
 tags:
 - things_to_do
 - neighbourhood

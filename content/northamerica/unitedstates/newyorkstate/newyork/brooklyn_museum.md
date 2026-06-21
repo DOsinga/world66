@@ -2,8 +2,7 @@
 latitude: 40.6712
 longitude: -73.9637
 score: 8.5
-snippet: One of the largest art museums in the US — exceptional Egyptian and African
-  collections alongside a radical contemporary programme
+snippet: One of the largest art museums in the US, with exceptional Egyptian and African collections
 tags:
 - things_to_do
 - museum

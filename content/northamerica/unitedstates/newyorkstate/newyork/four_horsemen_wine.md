@@ -2,8 +2,7 @@
 latitude: 40.7131
 longitude: -73.9573
 score: 8.0
-snippet: James Murphy's natural wine bar on Grand Street — one of the finest wine
-  lists in Brooklyn
+snippet: James Murphy's natural wine bar on Grand Street, one of Brooklyn's finest wine lists
 tags:
 - bars_and_cafes
 - bar

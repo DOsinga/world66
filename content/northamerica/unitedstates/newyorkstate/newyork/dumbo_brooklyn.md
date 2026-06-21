@@ -2,8 +2,7 @@
 latitude: 40.7033
 longitude: -73.9885
 score: 7.5
-snippet: Down Under the Manhattan Bridge Overpass — cobbled streets, galleries and
-  the famous Washington Street photo view
+snippet: Down Under the Manhattan Bridge Overpass — cobbled streets, galleries, and the famous Washington Street view
 tags:
 - things_to_do
 - neighbourhood

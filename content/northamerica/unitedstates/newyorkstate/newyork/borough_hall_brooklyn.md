@@ -2,8 +2,7 @@
 latitude: 40.6925
 longitude: -73.9902
 score: 6.5
-snippet: 1851 Greek Revival building that was the original Brooklyn City Hall — farmers
-  market on Tuesdays and Saturdays
+snippet: 1851 Greek Revival building that was the original Brooklyn City Hall, with a farmers market
 tags:
 - things_to_do
 - sight

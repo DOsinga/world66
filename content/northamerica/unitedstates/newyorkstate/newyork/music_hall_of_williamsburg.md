@@ -2,8 +2,7 @@
 latitude: 40.7151
 longitude: -73.9631
 score: 7.0
-snippet: Mid-size music venue on North 6th Street — central to the Brooklyn indie
-  rock scene since 2007
+snippet: Mid-size music venue on North 6th Street, central to the Brooklyn indie rock scene since 2007
 tags:
 - things_to_do
 - williamsburg

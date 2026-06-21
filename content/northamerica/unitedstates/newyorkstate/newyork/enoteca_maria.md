@@ -2,8 +2,7 @@
 latitude: 40.644
 longitude: -74.0741
 score: 8.0
-snippet: Staten Island restaurant run by nonnas from different countries — each brings
-  the food of her homeland
+snippet: Staten Island restaurant run by nonnas from different countries, each cooking the food of her homeland
 tags:
 - eating_out
 - restaurant

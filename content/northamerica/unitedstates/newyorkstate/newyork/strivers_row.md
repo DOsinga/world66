@@ -2,8 +2,7 @@
 latitude: 40.8147
 longitude: -73.9469
 score: 7.0
-snippet: 1891 row houses on 138th and 139th Streets designed by Stanford White — the
-  most elegant block in Harlem
+snippet: 1891 row houses on 138th and 139th Streets by Stanford White, Harlem's most elegant block
 tags:
 - things_to_do
 - sight

@@ -2,8 +2,7 @@
 latitude: 40.7192
 longitude: -73.987
 score: 7.0
-snippet: The densest concentration of bars on the Lower East Side — the heart of LES
-  nightlife since the late 1990s
+snippet: Densest concentration of bars on the Lower East Side, the heart of LES nightlife
 tags:
 - bars_and_cafes
 - bar

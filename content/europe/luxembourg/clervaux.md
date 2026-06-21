@@ -10,6 +10,8 @@ latitude: 50.054791
 loc_type: city
 longitude: 6.027551
 score: 0.46
+snippet: Luxembourgish valley town dominated by a castle housing The Family of Man
+  photography exhibition
 title: Clervaux
 type: location
 ---

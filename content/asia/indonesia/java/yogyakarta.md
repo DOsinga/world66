@@ -12,6 +12,8 @@ latitude: -7.797068
 loc_type: city
 longitude: 110.370529
 score: 0.62
+snippet: Javanese cultural city ruled by a sultan, with batik, gamelan, and royal
+  traditions at its core
 title: Yogyakarta
 type: location
 ---

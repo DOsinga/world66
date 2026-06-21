@@ -12,6 +12,8 @@ latitude: 35.7596
 loc_type: city
 longitude: -5.834
 score: 0.52
+snippet: Moroccan port city where the Mediterranean meets the Atlantic, long shaped
+  by international crossroads energy
 title: Tangier
 type: location
 ---

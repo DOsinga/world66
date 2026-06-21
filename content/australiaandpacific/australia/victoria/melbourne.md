@@ -11,6 +11,8 @@ latitude: -37.8142
 loc_type: city
 longitude: 144.9632
 score: 0.65
+snippet: Australian cultural city of laneways, street art, immigrant food districts,
+  and intense sporting loyalties
 title: Melbourne
 type: location
 ---

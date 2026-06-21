@@ -12,6 +12,8 @@ latitude: 48.44386
 loc_type: city
 longitude: 1.488143
 score: 0.55
+snippet: French cathedral city on the Eure, defined by its medieval Gothic cathedral
+  and stained glass
 title: Chartres
 type: location
 ---

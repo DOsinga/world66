@@ -12,6 +12,8 @@ latitude: 40.9524
 loc_type: city
 longitude: 17.2999
 score: 0.53
+snippet: Puglian port town of whitewashed lanes, Adriatic harbour walls, and layered
+  Byzantine-to-Venetian history
 title: Monopoli
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 37.566958
 loc_type: city
 longitude: -112.053855
 score: 0.41
+snippet: Tiny Utah ranching town on Scenic Byway 12, near Kodachrome Basin and Paria
+  Canyon
 title: Cannonville
 type: location
 ---

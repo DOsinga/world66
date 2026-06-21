@@ -12,6 +12,8 @@ latitude: 49.453872
 loc_type: city
 longitude: 11.077298
 score: 0.58
+snippet: Franconian city of imperial walls and Nazi rally grounds, rebuilt around
+  a medieval Altstadt
 title: Nuremberg
 type: location
 ---

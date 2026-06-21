@@ -8,16 +8,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Fmarier" title="Us
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Togo_Chasm_beach.jpg
 latitude: -19.054
+loc_type: country
 longitude: -169.861
+quick_facts:
+  Currency: New Zealand Dollar
+  Niueans in New Zealand: ~25,000 — 15× the home population
+  Ocean Visibility: Up to 100 metres
+  Population: 1,700
+score: 0.36
+snippet: Raised coral island nation in Polynesia, ringed by limestone cliffs, chasms,
+  and exceptionally clear water
 title: Niue
 type: location
-quick_facts:
-  Population: "1,700"
-  Currency: New Zealand Dollar
-  Ocean Visibility: Up to 100 metres
-  Niueans in New Zealand: "~25,000 — 15× the home population"
-score: 0.36
-loc_type: country
 ---
 
 Niue is one of the world's smallest nations — a single raised coral island in the South Pacific, about 2,400 km northeast of New Zealand. It calls itself the Rock of Polynesia, and the name fits. There are no beaches to speak of on most of the coast; instead, the island rises abruptly from the sea in dramatic limestone cliffs, chasms, and arches carved by millennia of wave action.

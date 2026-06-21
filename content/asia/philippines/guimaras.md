@@ -9,6 +9,8 @@ latitude: 10.5731
 loc_type: city
 longitude: 122.6239
 score: 0.42
+snippet: Western Visayas island province between Panay and Negros, famous for mango
+  orchards and quiet beaches
 title: Guimaras
 type: location
 ---

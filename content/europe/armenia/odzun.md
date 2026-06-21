@@ -10,6 +10,8 @@ latitude: 41.051653
 loc_type: city
 longitude: 44.615615
 score: 0.34
+snippet: Armenian plateau village above the Debed gorge, known for its early medieval
+  basilica
 title: Odzun
 type: location
 ---

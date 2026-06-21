@@ -8,13 +8,17 @@ image_attribution: Rudolphous
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Schiermonnikoog_-_Vuurtoren_met_duinen.jpg
 latitude: 53.478789
-loc_type: city
 longitude: 6.203772
 score: 0.43
 snippet: Car-free Wadden island village, surrounded by dunes, tidal flats, and a national
   park.
+tags:
+- things_to_do
+- beaches
+- sight
+- cycling
 title: Schiermonnikoog
-type: location
+type: poi
 ---
 
 Schiermonnikoog is the smallest inhabited island in the Dutch Wadden chain and arguably the most peaceful. Cars are banned for visitors — you get around by [bicycle](/europe/netherlands/waddenislands/schiermonnikoog_is/cycling) or on foot, and the silence is striking after the ferry from Lauwersoog docks at the small harbour.

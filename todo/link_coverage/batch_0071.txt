@@ -1,5 +1,5 @@
 northamerica/canada/britishcolumbia/vancouverisland
 northamerica/canada/newfoundland/grosmornenationa
 northamerica/canada/newfoundland/terranovanationa
-northamerica/canada/novascotia/lunenburg
+europe/italy/puglia/martinafranca
 northamerica/canada/nunavut/auyuittuq

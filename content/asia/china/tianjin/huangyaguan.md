@@ -7,13 +7,17 @@ image_attribution: Ronnie Macdonald from Chelmsford, United Kingdom
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Huangyaguan_05_(4921058465).jpg
 latitude: 40.2467
-loc_type: city
 longitude: 117.4518
 score: 0.41
 snippet: Great Wall mountain pass where Ming fortifications climb steep Yanshan ridges
   north of Tianjin.
+tags:
+- things_to_do
+- day_trips
+- sight
+- hiking
 title: Huangyaguan
-type: location
+type: poi
 ---
 
 Huangyaguan (Yellow Cliff Pass) is one of the most dramatic sections of the Great Wall, set in the steep Yanshan Mountains about 30 kilometres north of Ji'an County in Tianjin Municipality. The pass dates back to the Northern Qi dynasty (550 AD) and was heavily fortified during the Ming dynasty as a key defensive gateway between Beijing and the northeastern frontier.

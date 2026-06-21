@@ -2,13 +2,16 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 49.197377
-loc_type: feature
 longitude: 20.070717
 score: 0.56
 snippet: Tatra mountain lake below granite peaks, reached by a long forest road from
   Zakopane.
+tags:
+- things_to_do
+- sight
+- hiking
 title: Morskie Oko
-type: location
+type: poi
 ---
 
 Morskie Oko — "Eye of the Sea" — is the largest and most famous lake in the Polish Tatra Mountains, lying at 1,395 metres above sea level in a glacial cirque below the highest peaks. The turquoise water, surrounded by jagged granite walls, is one of the most visited natural sights in Poland, drawing over a million visitors a year despite the effort required to reach it.

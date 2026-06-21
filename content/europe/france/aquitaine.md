@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+latitude: 45.42859
 loc_type: region
+longitude: -0.66636
 score: 0.7
 snippet: Southwest French region of Bordeaux wine, Atlantic dunes, Cognac houses,
   and Basque foothills

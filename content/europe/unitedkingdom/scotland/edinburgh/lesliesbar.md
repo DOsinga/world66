@@ -8,7 +8,6 @@ snippet: Preserved Victorian bar with 200-plus single malts and no music
 tags:
 - bars_and_cafes
 - bar
-- leith
 title: Leslie's Bar
 type: poi
 ---

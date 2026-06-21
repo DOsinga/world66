@@ -6,6 +6,7 @@ longitude: 77.219379
 snippet: Delhi's colonial-era commercial hub with shops and restaurants
 tags:
 - shopping
+- lutyens
 title: Connaught Place
 type: poi
 score: 6.8

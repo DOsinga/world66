@@ -3,13 +3,14 @@ address: Campo de' Fiori, 00186 Rome
 latitude: 41.895613
 longitude: 12.472351
 opening_hours: Mon–Sat 7am–2pm; closed Sun
+score: 6.7
 snippet: Rome's most central daily food market, in the square where Bruno was burned
 tags:
 - shopping
 - market
+- campo_de_fiori
 title: Campo de' Fiori Market
 type: poi
-score: 6.7
 ---
 
 The morning market in Campo de' Fiori is the most central and photogenic of Rome's food markets — fruit, vegetables, flowers, and spices arranged around the statue of Giordano Bruno (burned alive here in 1600, as the inscription records). The market runs Monday to Saturday and is at its best before 9am.

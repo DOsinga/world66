@@ -11,6 +11,8 @@ latitude: 43.7444
 loc_type: city
 longitude: 4.7952
 score: 0.57
+snippet: Fortified medieval village perched on a limestone ridge in Les Alpilles,
+  with ruined castle views and an immersive art venue in a former quarry.
 title: Les Baux-de-Provence
 type: location
 ---

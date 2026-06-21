@@ -5,6 +5,8 @@ latitude: 60.333333
 loc_type: region
 longitude: -1.333333
 score: 0.56
+snippet: Remote Scottish archipelago closer to Norway than Edinburgh, with extraordinary
+  seabird colonies, Iron Age brochs, and long summer light.
 title: Shetland
 type: location
 ---

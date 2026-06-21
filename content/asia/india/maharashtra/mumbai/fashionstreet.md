@@ -5,6 +5,7 @@ snippet: Bustling open-air market for cheap clothes and shoes
 tags:
 - shopping
 - shop
+- fort_area
 title: Fashion Street
 type: poi
 score: 5.7

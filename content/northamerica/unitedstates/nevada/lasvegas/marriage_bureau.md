@@ -5,12 +5,13 @@ done:
 latitude: 36.1699
 longitude: -115.1398
 phone: 702-455-4415
+score: 5.3
 snippet: Get legally married any time — the bureau never really closes
 tags:
 - things_to_do
+- downtown
 title: Marriage Bureau
 type: poi
-score: 5.3
 ---
 
 This is Vegas, so why not? The Clark County Marriage Bureau issues licenses year-round, open Sunday through Thursday 8am to midnight, and 24 hours on Friday, Saturday, and legal holidays. Walk-ins are welcome — no appointment needed.

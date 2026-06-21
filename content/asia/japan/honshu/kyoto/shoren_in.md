@@ -1,14 +1,16 @@
 ---
 latitude: 35.0067
 longitude: 135.7831
-snippet: Quiet, less-visited monzeki temple near Chion-in, with strolling gardens and a famous camphor tree
+score: 7.8
+snippet: Quiet, less-visited monzeki temple near Chion-in, with strolling gardens
+  and a famous camphor tree
 tags:
 - things_to_do
 - temple
 - sight
+- gion
 title: Shōren-in
 type: poi
-score: 7.8
 ---
 
 Shōren-in is a *monzeki* — a temple historically headed by an imperial prince — and one of the most underrated small temples in central Kyoto, ten minutes' walk north of Chion-in. The main hall opens onto a strolling garden attributed to the sixteenth-century master Kobori Enshū, with stone steps, a small pond, and a moss-edged hillside that climbs to a tea house. Sliding doors with vivid blue-leafed lotus paintings are removed in summer to let the breeze pass through.

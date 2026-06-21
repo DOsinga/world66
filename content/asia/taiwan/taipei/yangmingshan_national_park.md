@@ -1,11 +1,10 @@
 ---
-latitude: 25.1730
-longitude: 121.5500
+latitude: 25.173
+longitude: 121.55
 snippet: Volcanic national park of craters, hot springs and hiking trails above the city
 tags:
-- things_to_do
-- sight
 - hiking
+- day_trips
 title: Yangmingshan National Park
 type: poi
 url: https://www.ymsnp.gov.tw

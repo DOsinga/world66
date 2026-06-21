@@ -1,12 +1,13 @@
 ---
 latitude: 3.147718
 longitude: 101.765734
-snippet: Embassy row turned shopping and dining boulevard
+score: 6.0
+snippet: Historic embassy row that transitions into a restaurant and hotel boulevard
+  heading east from KLCC
 tags:
 - shopping
 title: Jalan Ampang
 type: poi
-score: 4.2
 ---
 
 One of Kuala Lumpur's main arteries, running northeast from the city center past embassy compounds, shopping complexes, and restaurants. The Ampang Park area near the junction with Jalan Tun Razak clusters several malls and is well connected by LRT.

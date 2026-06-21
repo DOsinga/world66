@@ -5,13 +5,14 @@ done:
 latitude: 13.7592
 longitude: 100.494
 opening_hours: Wed-Sun 9 am - 4 pm
+score: 7.1
 snippet: Thai and international art in a colonial-era building
 tags:
 - things_to_do
 - museum
+- banglamphu
 title: National Gallery
 type: poi
-score: 7.1
 ---
 
 A short walk from the National Museum, the National Gallery exhibits both contemporary and classical art from Thai and international schools. It is a quiet respite from the heat and the collection, while modest, offers interesting insight into Thailand's art scene. Small admission fee.

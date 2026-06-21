@@ -7,6 +7,7 @@ snippet: Massive Mughal-era citadel on Delhi's oldest inhabited site
 tags:
 - things_to_do
 - sight
+- lutyens
 title: Old Fort
 type: poi
 score: 8.1

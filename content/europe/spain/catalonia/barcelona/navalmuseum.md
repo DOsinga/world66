@@ -5,13 +5,14 @@ done:
 latitude: 41.37533
 longitude: 2.175866
 phone: 93 342 99 20
+score: 8.7
 snippet: Maritime museum housed in medieval royal shipyards
 tags:
 - things_to_do
 - sight
+- el_raval
 title: Maritime Museum
 type: poi
-score: 8.7
 ---
 
 The Museu Maritim occupies the Drassanes Reials, the medieval royal shipyards where the Catalan-Aragonese fleet was built from the 13th century onward. The Gothic halls themselves -- vast stone naves that once held ships under construction -- are as impressive as anything inside them.

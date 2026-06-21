@@ -7,6 +7,7 @@ snippet: India's largest mosque with tower views over Old Delhi
 tags:
 - things_to_do
 - sight
+- old_delhi
 title: Jama Masjid
 type: poi
 score: 9.0

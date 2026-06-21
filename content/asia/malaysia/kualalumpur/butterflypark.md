@@ -1,12 +1,15 @@
 ---
-title: "Kuala Lumpur Butterfly Park"
-type: poi
 latitude: 3.1457
 longitude: 101.6889
-tags:
-  - things_to_do
-  - sight
 score: 6.1
+snippet: Walk-in garden housing over 120 butterfly species inside the Lake Gardens,
+  with a small insect museum
+tags:
+- things_to_do
+- sight
+- lake_gardens
+title: Kuala Lumpur Butterfly Park
+type: poi
 ---
 
 A walk-in aviary in the Lake Gardens stocked with several thousand butterflies of around 120 Malaysian species, fluttering through a landscaped jungle garden complete with stream, pond, and small waterfalls. The conditions are kept hot and humid — typical of Malaysian rainforest — and the butterflies feed openly on cut fruit and flowers along the paths.

@@ -1,0 +1,5 @@
+europe/denmark/copenhagen
+asia/malaysia/kualalumpur
+northamerica/thecaribbean/cuba/havana
+africa/egypt/cairo
+africa/morocco/marrakesh

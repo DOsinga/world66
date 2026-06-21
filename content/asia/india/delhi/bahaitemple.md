@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - sights
+- hauz_khas_village
 title: Bahai Temple
 type: poi
 score: 7.8

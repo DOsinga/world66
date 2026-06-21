@@ -9,6 +9,7 @@ snippet: Parisian-themed Lincoln Park cafe with literary-named sandwiches and vi
   charm
 tags:
 - bars_and_cafes
+- lincoln_park
 title: Bourgeois Pig
 type: poi
 score: 5.9

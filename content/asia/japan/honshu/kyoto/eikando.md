@@ -1,14 +1,16 @@
 ---
 latitude: 35.0149
 longitude: 135.7951
-snippet: Higashiyama temple with a famous backwards-looking Amida and exceptional autumn maples
+score: 8.4
+snippet: Higashiyama temple with a famous backwards-looking Amida and exceptional
+  autumn maples
 tags:
 - things_to_do
 - temple
 - sight
+- philosophers_walk
 title: Eikan-dō Zenrin-ji
 type: poi
-score: 8.4
 ---
 
 Eikan-dō is the headquarters of the Seizan branch of Jōdo and one of the older Buddhist foundations in Kyoto, established in 853. It is best known for two things. The first is the unusual seated *Mikaeri Amida* — the "Looking-back Amida" — a small Heian-period image whose head is turned over its left shoulder; legend has it that one day in 1082 the abbot Eikan was meditating when the statue itself stepped down from the altar, turned around, and gently rebuked him for falling behind in his recitations.

@@ -7,6 +7,7 @@ snippet: Major contemporary art museum on the Magnificent Mile
 tags:
 - things_to_do
 - museum
+- river_north
 title: Museum of Contemporary Art
 type: poi
 url: www.mcachicago.org

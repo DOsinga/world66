@@ -1,12 +1,13 @@
 ---
-title: "Lope de Vega House Museum"
-type: poi
 latitude: 40.4143
 longitude: -3.6977
-tags:
-  - things_to_do
-  - museum
 score: 8.1
+tags:
+- things_to_do
+- museum
+- huertas
+title: Casa de Lope de Vega
+type: poi
 ---
 
 The restored 17th-century town house of the playwright Félix Lope de Vega, the most prolific dramatist of the Spanish Golden Age — supposedly the author of around 1,500 plays, of which some 400 survive. He lived here from 1610 until his death in 1635 and the house has been preserved with much of its original furniture, a courtyard garden, and the small chapel where he held services after taking holy orders late in life.

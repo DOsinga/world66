@@ -1,13 +1,14 @@
 ---
 latitude: 13.7399
 longitude: 100.5408
+score: 6.6
 snippet: One of Bangkok's best jazz bars, with live music from 10pm nightly.
 tags:
 - bars_and_cafes
 - bar
+- siam_square
 title: Brown Sugar
 type: poi
-score: 6.6
 ---
 
 One of Bangkok's best jazz bars, located north of Lumpini Park on Sarasin Road. Live music usually starts at 10 pm. A mellow spot with a loyal following among locals and expats who appreciate good jazz in an unpretentious setting.

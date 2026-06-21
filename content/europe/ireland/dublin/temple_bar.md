@@ -1,17 +1,20 @@
 ---
-latitude: 53.345589
-longitude: -6.265286
-snippet: Dublin's cultural quarter — tourist-heavy but with real traditional music sessions
+latitude: 53.3456
+longitude: -6.2653
+snippet: Dublin's cobbled cultural quarter, tourist-heavy but full of live music
 tags:
 - things_to_do
 - neighbourhood
 title: Temple Bar
-type: poi
-score: 7.2
+type: neighbourhood
+image: temple_bar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2008-05-23_The_Temple_Bar,_Dublin,_Ireland.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Gordon Leggett
 ---
 
-Temple Bar is Dublin's designated cultural quarter, a compact grid of cobbled streets between Dame Street and the Liffey, west of College Green. It has a reputation for stag parties and overpriced pints that is not entirely undeserved — on a Friday or Saturday night it is loud, crowded, and expensive. But dismiss it too quickly and you miss the point.
+Temple Bar is the warren of cobbled lanes on the south bank of the Liffey that the city markets as its cultural quarter. By day it is a pleasant tangle of galleries, vintage shops, and brunch spots; by night it fills with stag parties and the amplified roar of pub bands, and a pint here costs more than almost anywhere else in Ireland.
 
-The **Temple Bar Food Market** on Meeting House Square (Sat 10:00–16:30) is one of Dublin's best food markets. The **Irish Film Institute** on Eustace Street is a genuinely good art cinema. The **Gallery of Photography** and the **National Photographic Archive** are both on Meeting House Square. And several of the pubs — the **Palace Bar**, the **Auld Dubliner**, and the **Gogarty's** — run genuine traditional music sessions that draw serious musicians.
+Look past the hen-do hen-house reputation, though, and there is real substance. The Irish Film Institute, the Gallery of Photography, and the buzzing Saturday food market on Meeting House Square give the quarter genuine cultural weight, and pubs such as The Auld Dubliner host nightly traditional sessions worth seeking out.
 
-Come for a weekend afternoon rather than a Friday night. The music is better when it isn't drowned out by hen parties.
+It is small enough to cross in ten minutes and sits right between Trinity College and Dublin Castle, so most visitors pass through whether they mean to or not. Come early in the day to enjoy the atmosphere before the crowds and the cover charges arrive.

@@ -10,6 +10,8 @@ latitude: 32.6709
 loc_type: city
 longitude: 51.665
 score: 0.62
+snippet: Iran's great Safavid imperial city, centred on the vast Naqsh-e Jahan Square
+  and renowned for its turquoise-domed mosques and craft traditions.
 sources:
 - https://en.wikipedia.org/wiki/Isfahan
 - https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square

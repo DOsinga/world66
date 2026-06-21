@@ -1,15 +1,25 @@
 ---
-title: "Citadel of Saladin"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - landmark
 latitude: 30.0286
 longitude: 31.2598
-story: >
-  Saladin began building the Citadel in 1176 after becoming the Sultan of Egypt, choosing the Muqattam Hills specifically because the air there was measurably cooler than in the city below — he had learned this by hanging pieces of meat at various points around Cairo and observing where they took longest to spoil. The Citadel remained the seat of Egyptian power for 700 years, from Saladin's Ayyubid dynasty through the Mamluks and Ottomans until Mohammad Ali moved the government to Abdeen Palace in the 19th century.
 score: 8.9
+snippet: Medieval hilltop fortress containing the Mohammed Ali Mosque and panoramic
+  views over Cairo
+story: 'Saladin began building the Citadel in 1176 after becoming the Sultan of Egypt,
+  choosing the Muqattam Hills specifically because the air there was measurably cooler
+  than in the city below — he had learned this by hanging pieces of meat at various
+  points around Cairo and observing where they took longest to spoil. The Citadel
+  remained the seat of Egyptian power for 700 years, from Saladin''s Ayyubid dynasty
+  through the Mamluks and Ottomans until Mohammad Ali moved the government to Abdeen
+  Palace in the 19th century.
+
+  '
+tags:
+- things_to_do
+- sight
+- landmark
+- islamic_cairo
+title: Citadel of Saladin
+type: poi
 ---
 
 The Citadel of Saladin (Qal'at Salah ad-Din) is a medieval fortified complex on a spur of the Muqattam Hills overlooking central Cairo, begun by Saladin in 1176 and expanded by every subsequent ruler for the next seven centuries. From its walls you can see the entire city — the minarets, the Nile, the pyramids on the western horizon.

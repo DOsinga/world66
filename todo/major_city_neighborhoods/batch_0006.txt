@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/london
+asia/japan/honshu/osaka
+europe/italy/veneto/venice
+southamerica/brazil/saopaulo
+asia/unitedarabemirates/dubai

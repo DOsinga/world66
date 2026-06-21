@@ -2,13 +2,14 @@
 address: 218 Guiyang Street Sec 2, Wanhua District, Taipei
 latitude: 25.0364
 longitude: 121.5024
+score: 7.8
 snippet: 1854 Taoist temple in Wanhua, one of the oldest in the city
 tags:
 - things_to_do
 - sight
+- wanhua
 title: Mengjia Qingshan Temple
 type: poi
-score: 7.8
 ---
 
 Built in 1854 in the heart of old Wanhua, the Qingshan Temple is one of the four most active Taoist temples in Taipei and a near contemporary of nearby **Longshan Temple**. The principal deity is **Qingshan Wang**, the green-mountain king, whose image was brought to Taipei from Quanzhou in mainland China by Fujianese settlers who attributed a cholera epidemic's lifting to his intervention.

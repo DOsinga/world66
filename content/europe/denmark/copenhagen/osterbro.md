@@ -1,10 +1,15 @@
 ---
+image: osterbro.jpg
+image_attribution: Ramblersen2
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Au_but_(%C3%98sterbro_Stadopn)_01.jpg
+latitude: 55.7
+longitude: 12.57
+tags:
+- things_to_do
+- neighbourhood
 title: Østerbro
-type: poi
-tags: [things_to_do, neighbourhood]
-latitude: 55.7000
-longitude: 12.5700
-score: 6.8
+type: neighbourhood
 ---
 
 Østerbro, north of the city centre along the coast, is the wealthiest and most residential of Copenhagen's main neighbourhoods. Broad tree-lined streets, elegant apartment buildings from the early 20th century, and a general atmosphere of quiet prosperity — this is where the Danish establishment lives. The neighbourhood surrounds Fælledparken, the largest park in Copenhagen, which hosts summer concerts and the Danish national football stadium.

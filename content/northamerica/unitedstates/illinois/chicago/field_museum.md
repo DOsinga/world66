@@ -10,6 +10,7 @@ snippet: Home to Sue, the world's most complete T. Rex skeleton
 tags:
 - things_to_do
 - museum
+- south_loop
 title: Field Museum
 type: poi
 url: www.fieldmuseum.org

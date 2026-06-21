@@ -6,6 +6,8 @@ snippet: Madrid's grand park with rowboats and Crystal Palace
 tags:
 - things_to_do
 - landmark
+- retiro
+- retiro_barrio
 title: Retiro Park
 type: poi
 score: 8.6

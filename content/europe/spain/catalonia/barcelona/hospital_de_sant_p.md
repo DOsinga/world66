@@ -3,8 +3,8 @@ accessibility: Totally Wheelchair Accessible
 address: Carrer Sant Antoni Maria Claret 167
 category: sights
 email: santpau@santpau.es
-latitude: 41.120727
-longitude: 2.1741
+latitude: 41.4128
+longitude: 2.1744
 opening_hours: Daily 9:00 a.m.-2:00 p.m. and 4:00 p.m.-7:00 p.m., weekends 10:00 a.m.-2:00
   p.m.
 phone: 93 291-9000, 93 488 2078 (tours)

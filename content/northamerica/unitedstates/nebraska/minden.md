@@ -6,6 +6,8 @@ latitude: 40.4994
 loc_type: city
 longitude: -98.9514
 score: 0.24
+snippet: Small Nebraska town whose main claim is Harold Warp's Pioneer Village, a
+  sprawling 50,000-artefact museum of American history.
 title: Minden
 type: location
 ---

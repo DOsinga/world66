@@ -9,6 +9,7 @@ snippet: Chicago's oldest building, a restored 1836 home
 tags:
 - things_to_do
 - museum
+- south_loop
 title: Clarke House Museum
 type: poi
 score: 6.9

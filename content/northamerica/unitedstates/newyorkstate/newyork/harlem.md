@@ -1,14 +1,16 @@
 ---
-title: "Harlem"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
+image: harlem.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Apollo_Theater_Harlem_NYC_2010.JPG
 latitude: 40.8116
 longitude: -73.9465
-score: 8.5
+tags:
+- things_to_do
+- neighbourhood
+title: Harlem
+type: neighbourhood
 ---
 
-Harlem is the African-American cultural capital of the United States — the neighbourhood where jazz was born, where the Harlem Renaissance of the 1920s produced some of the most significant American literature, music, and visual art of the 20th century, and where an extraordinary concentration of Black intellectual and cultural life has persisted through a century of economic hardship, urban disinvestment, and now gentrification.
+Harlem occupies the northern section of Manhattan above 110th Street and has been the centre of African American cultural and intellectual life in the United States since the Great Migration of the early 20th century, when hundreds of thousands of Black Americans moved north from the South. The Harlem Renaissance of the 1920s produced an extraordinary concentration of writers, musicians, visual artists and political thinkers — Langston Hughes, Zora Neale Hurston, Duke Ellington, Louis Armstrong — working in a neighbourhood that was, for a brief period, the most culturally dynamic place in the country. The legacy is still visible on 125th Street, the main commercial artery, and in the brownstone blocks of Strivers' Row and Sugar Hill where the professional class of that era built its homes.
 
-Central to any visit is 125th Street, the main commercial artery, with the Apollo Theater at its heart. The Apollo launched the careers of James Brown, Ella Fitzgerald, Michael Jackson, and Stevie Wonder; its Amateur Night is still running. The Harlem restaurant scene is strong — Sylvia's (soul food since 1962), Red Rooster (Marcus Samuelsson's upscale take on the same tradition), and numerous smaller spots serving West African, Caribbean, and Southern cooking. The Studio Museum in Harlem is one of the best contemporary art museums in New York with a specific focus on artists of African descent.
+The **Apollo Theater** at 253 West 125th Street is the spiritual centre of Harlem and one of the most important music venues in American history. Its Amateur Night competition launched the careers of Ella Fitzgerald, James Brown and Lauryn Hill, among dozens of others; the stage is still in use and tours are available. The residential streets north of 125th — particularly around 136th and Lenox Avenue — have blocks of late 19th-century brownstones that rival anything in Brooklyn Heights. Soul food restaurants, gospel brunches and West African markets give the neighbourhood a culinary range unmatched in Manhattan. A second Harlem, **East Harlem** (Spanish Harlem or El Barrio), east of Fifth Avenue, has a distinct Puerto Rican and Latino character and its own excellent food scene.

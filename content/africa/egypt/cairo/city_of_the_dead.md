@@ -3,13 +3,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 30.052222
 longitude: 31.280556
+score: 8.7
 snippet: Vast Mamluk-era necropolis where thousands live among the tombs
 tags:
 - things_to_do
 - sight
+- islamic_cairo
 title: City of the Dead
 type: poi
-score: 8.7
 ---
 
 This vast necropolis on Cairo's eastern edge -- officially the Qarafa cemetery -- stretches for kilometres and contains some of the city's most elaborate funerary architecture, including the mausoleums of Mamluk sultans. A large population has long made their homes here among the tombs, creating a unique neighbourhood where the living and the dead coexist.

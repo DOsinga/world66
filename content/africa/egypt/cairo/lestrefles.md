@@ -5,13 +5,14 @@ done:
 latitude: 30.052778
 longitude: 31.232222
 phone: +20 2 579 6511
+score: 5.5
 snippet: French dining with Nile views for a special occasion
 tags:
 - eating_out
 - restaurant
+- downtown
 title: Les Trefles
 type: poi
-score: 4.9
 ---
 
 French food with views across the Nile. A good option for a special-occasion dinner in central Cairo.

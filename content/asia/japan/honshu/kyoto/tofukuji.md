@@ -1,14 +1,16 @@
 ---
 latitude: 34.9764
 longitude: 135.7741
-snippet: Major Zen temple in south-east Kyoto, famous for its autumn-leaf views from a covered bridge
+score: 8.6
+snippet: Major Zen temple in south-east Kyoto, famous for its autumn-leaf views from
+  a covered bridge
 tags:
 - things_to_do
 - temple
 - sight
+- higashiyama
 title: Tōfuku-ji
 type: poi
-score: 8.6
 ---
 
 Tōfuku-ji is one of the original five great Zen temples of Kyoto, founded in 1236 and named, in deliberate ambition, by combining characters from Tōdai-ji (the great Nara temple) and Kōfuku-ji (the great Fujiwara family temple). The temple was extensively rebuilt after fires and the present main hall and *sanmon* — the latter, from 1425, is the oldest surviving Zen *sanmon* in Japan — are imposing in scale.

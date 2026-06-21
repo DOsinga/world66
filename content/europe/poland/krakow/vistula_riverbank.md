@@ -1,12 +1,15 @@
 ---
-title: "Vistula Riverbank (Bulwary Wiślane)"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 50.0510
+latitude: 50.051
 longitude: 19.9387
 score: 7.9
+snippet: Redeveloped Vistula embankment below Wawel with bars, kayak hire, and cycle
+  paths
+tags:
+- things_to_do
+- sight
+- wawel
+title: Vistula Riverbank (Bulwary Wiślane)
+type: poi
 ---
 
 The Vistula riverbank below Wawel Castle has been transformed over the past two decades from a neglected embankment into one of the most pleasant urban riverbanks in Central Europe. The Bulwary Wiślane (Vistula Boulevards) now extend for several kilometres on both sides of the river, with cycling paths, benches, floating bars moored to the bank, open-air cinema in summer, and the kind of riverside atmosphere that makes a city feel genuinely alive.

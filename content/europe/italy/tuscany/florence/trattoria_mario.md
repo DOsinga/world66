@@ -1,17 +1,18 @@
 ---
 address: Via Rosina 2/r, 50123 Florence
-latitude: 43.7760
-longitude: 11.2530
+latitude: 43.776
+longitude: 11.253
 opening_hours: Mon–Sat 12:00–15:30; closed Sun and dinner
+score: 7.2
 snippet: No-frills communal lunch trattoria since 1953
 tags:
 - 3 Days in Florence
 - eating_out
 - restaurant
 - market
+- san_lorenzo_quarter
 title: Trattoria Mario
 type: poi
-score: 7.2
 ---
 
 A beloved Florentine trattoria in business since 1953, steps from the Mercato Centrale. Communal bench seating, cash only, no reservations — the room fills immediately when it opens at noon and stays full until the kitchen closes. The menu changes daily but always includes ribollita (bread and vegetable soup), pasta with meat sauce, and simple Florentine mains. Described by regulars as eating "like being in someone's house."

@@ -5,6 +5,7 @@ snippet: Madrid's literary square, ringed by historic bars and tapas taverns
 tags:
 - things_to_do
 - landmark
+- huertas
 title: Plaza Santa Ana
 type: poi
 score: 7.4

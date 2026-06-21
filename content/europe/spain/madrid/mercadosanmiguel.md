@@ -1,13 +1,14 @@
 ---
-title: "Mercado de San Miguel"
-type: poi
 latitude: 40.4154
 longitude: -3.7088
-tags:
-  - eating_out
-  - shopping
-  - market
 score: 6.4
+tags:
+- eating_out
+- shopping
+- market
+- sol
+title: Mercado de San Miguel
+type: poi
 ---
 
 A handsome 1916 iron-and-glass market hall just west of Plaza Mayor, restored in 2009 from a working food market into a high-end tapas hall. The original cast-iron frame and the curved roof survive intact, with the stalls inside now turned over to small operators selling oysters, jamón, croquetas, ceviche, vermouth, sushi, wine flights, and so on.

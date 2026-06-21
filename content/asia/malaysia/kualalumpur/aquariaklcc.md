@@ -1,13 +1,15 @@
 ---
-title: "Aquaria KLCC"
-type: poi
 latitude: 3.1534
 longitude: 101.7131
-tags:
-  - things_to_do
-  - klcc
-  - sight
 score: 6.8
+snippet: Oceanarium beneath the KLCC Convention Centre with sharks, rays, sawfish,
+  and a glass walk-through tunnel
+tags:
+- things_to_do
+- sight
+- klcc
+title: Aquaria KLCC
+type: poi
 ---
 
 A modern aquarium tucked beneath the KL Convention Centre, with around 5,000 animals across 250 species — sand tiger sharks, giant freshwater stingrays from the Mekong, electric eels, sea otters, and a small Amazon flooded-forest exhibit. The headline feature is a 90-metre walk-through acrylic tunnel beneath a tropical reef tank that puts visitors face to face with the sharks and rays gliding overhead.

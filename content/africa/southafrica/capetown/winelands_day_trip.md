@@ -7,7 +7,6 @@ scores:
   sightseeing: 0.6196
 snippet: Day trip to the Cape Winelands east of the city
 tags:
-- things_to_do
 - day_trips
 title: Winelands (Stellenbosch & Franschhoek)
 type: poi

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+- fort_area
 title: Town Hall
 type: poi
 score: 7.4

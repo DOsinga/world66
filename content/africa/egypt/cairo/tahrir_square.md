@@ -1,14 +1,23 @@
 ---
-title: "Tahrir Square"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 30.0444
 longitude: 31.2358
-story: >
-  On 25 January 2011, several hundred thousand Egyptians converged on Tahrir Square to demand the end of Hosni Mubarak's three-decade presidency. They stayed for 18 days. On 11 February Mubarak resigned, and the crowd's reaction — the roar that went up, the strangers embracing, the prayers and fireworks — was broadcast live to the world. The square had been renamed "Liberation Square" by Nasser in 1954; for the first time in decades, the name seemed to mean something.
-score: 5.8
+score: 8.5
+snippet: The symbolic heart of Cairo, famous worldwide as the site of the 2011 revolution
+  that ended Mubarak's 30-year rule
+story: 'On 25 January 2011, several hundred thousand Egyptians converged on Tahrir
+  Square to demand the end of Hosni Mubarak''s three-decade presidency. They stayed
+  for 18 days. On 11 February Mubarak resigned, and the crowd''s reaction — the roar
+  that went up, the strangers embracing, the prayers and fireworks — was broadcast
+  live to the world. The square had been renamed "Liberation Square" by Nasser in
+  1954; for the first time in decades, the name seemed to mean something.
+
+  '
+tags:
+- things_to_do
+- sight
+- downtown
+title: Tahrir Square
+type: poi
 ---
 
 Tahrir Square — Liberation Square — is the symbolic centre of Cairo, a broad, traffic-choked roundabout in the middle of downtown that gained global significance during the 2011 revolution, when hundreds of thousands of Egyptians camped here for 18 days and brought down a 30-year dictatorship.

@@ -2,10 +2,14 @@
 title: Vedado
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 23.1353
 longitude: -82.3833
+image: vedado.jpg
+image_source: https://commons.wikimedia.org/wiki/File:L%C3%B3pez_Serrano_Building,_El_Vedado,_Havana.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Osvaldo valdes 165443
 ---
 
 Vedado is Havana's modern downtown — a grid of wide streets and mid-rise buildings developed in the early 20th century as the wealthy residential and commercial district of the city. It is home to the University of Havana, the main hotels, the Colon Cemetery, the Hotel Habana Libre, and most of the government ministries. It has a different feel from Old Havana: wider streets, more trees, fewer tourists, and more of the ordinary rhythms of Havana life.

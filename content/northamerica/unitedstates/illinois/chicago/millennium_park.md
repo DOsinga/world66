@@ -10,6 +10,7 @@ snippet: Chicago's landmark park with the Bean and Pritzker Pavilion
 tags:
 - things_to_do
 - park
+- the_loop
 title: Millennium Park
 type: poi
 url: www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html

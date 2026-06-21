@@ -9,6 +9,10 @@ score: 0.49
 tags:
 - neighbourhood
 - things_to_do
+image: queens.jpg
+image_source: https://commons.wikimedia.org/wiki/File:74th_St_shopping_Jax_Hts_jeh.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jim.henderson
 ---
 
 Queens is the largest and most ethnically diverse of New York City's five boroughs, and almost certainly the most diverse urban area on earth — somewhere around 2.4 million people speaking over 150 languages across Astoria, Flushing, Long Island City, Jackson Heights, Jamaica, Forest Hills, and dozens of other neighbourhoods. It is where most of the city's immigrants land and where most of its food comes from. If Manhattan is New York's stage and Brooklyn its self-image, Queens is the city's actual life.

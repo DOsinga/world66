@@ -5,6 +5,7 @@ snippet: Mughal garden tomb and prototype for the Taj Mahal
 tags:
 - things_to_do
 - landmark
+- nizamuddin
 title: Humayun's Tomb
 type: poi
 score: 9.5

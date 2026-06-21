@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Porcelain_Workshop,_Jingde
 latitude: 29.290049
 loc_type: city
 longitude: 117.202549
+score: 0.42
+snippet: Chinese porcelain city whose kilns supplied emperors and made blue-and-white
+  china famous worldwide
 title: Jingdezhen
 type: location
-score: 0.42
 ---
 
 Jingdezhen (景德镇) has been making porcelain for nearly two thousand years, and it still takes the whole enterprise extremely seriously. The city supplied the imperial court for centuries, and the blue-and-white ware that became synonymous with "china" around the world originated here during the Yuan dynasty. If ceramics interest you at all — as art, craft, or industrial history — this is one of the most rewarding stops in eastern China.

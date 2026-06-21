@@ -9,6 +9,8 @@ latitude: 59.611
 loc_type: city
 longitude: 16.5464
 score: 0.39
+snippet: Swedish lakeside city on Mälaren, mixing Viking roots, medieval churches,
+  and modern industrial heritage
 title: Västerås
 type: location
 ---

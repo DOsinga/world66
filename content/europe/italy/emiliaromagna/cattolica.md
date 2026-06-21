@@ -10,6 +10,8 @@ latitude: 43.963993
 loc_type: city
 longitude: 12.744151
 score: 0.46
+snippet: Adriatic resort town in Emilia-Romagna, with a fishing port, sheltered bay,
+  and summer Fish Rustida
 title: Cattolica
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 33.560875
 loc_type: region
 longitude: 133.371886
 score: 0.69
+snippet: Mountainous Japanese island of temples, pilgrimage roads, and rural villages
+  south of the Inland Sea
 title: Shikoku
 type: location
 ---

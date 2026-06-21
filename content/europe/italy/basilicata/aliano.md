@@ -6,6 +6,8 @@ latitude: 40.311374
 loc_type: city
 longitude: 16.232007
 score: 0.4
+snippet: Basilicata ridge village of Carlo Levi's exile, overlooking the lunar clay
+  badlands of the calanchi
 title: Aliano
 type: location
 ---

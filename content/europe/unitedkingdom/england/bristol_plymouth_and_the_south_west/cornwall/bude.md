@@ -9,6 +9,8 @@ latitude: 50.828525
 loc_type: city
 longitude: -4.546936
 score: 0.46
+snippet: North Cornwall seaside town with Atlantic beaches, a sea pool, and canal-side
+  walks
 title: Bude
 type: location
 ---

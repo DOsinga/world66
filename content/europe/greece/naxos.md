@@ -10,6 +10,8 @@ latitude: 37.1036
 loc_type: city
 longitude: 25.3762
 score: 0.63
+snippet: Cycladic island town with fertile villages, marble ruins, and a lived-in
+  Hora above the harbour
 title: Naxos
 type: location
 ---

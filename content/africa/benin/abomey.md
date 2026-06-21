@@ -10,6 +10,8 @@ latitude: 7.182001
 loc_type: city
 longitude: 1.993632
 score: 0.38
+snippet: Historic Beninese city of Dahomey royal palaces, bas-reliefs, vodun temples,
+  and court history
 title: Abomey
 type: location
 ---

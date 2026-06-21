@@ -10,6 +10,8 @@ latitude: 14.040941
 loc_type: city
 longitude: 35.398832
 score: 0.15
+snippet: Eastern Sudanese agricultural city on the Butana plains, surrounded by sorghum,
+  sesame, and cotton fields
 title: Gedaref
 type: location
 ---

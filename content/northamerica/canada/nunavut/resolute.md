@@ -10,6 +10,8 @@ latitude: 74.697029
 loc_type: city
 longitude: -94.840851
 score: 0.25
+snippet: High Arctic Inuit hamlet on Cornwallis Island, shaped by polar research and
+  long seasonal light
 title: Resolute
 type: location
 ---

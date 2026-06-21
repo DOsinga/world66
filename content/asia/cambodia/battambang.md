@@ -9,6 +9,8 @@ latitude: 12.925679
 loc_type: city
 longitude: 103.231714
 score: 0.47
+snippet: Cambodian river city with French colonial streets, relaxed markets, and countryside
+  temples nearby
 title: Battambang
 type: location
 ---

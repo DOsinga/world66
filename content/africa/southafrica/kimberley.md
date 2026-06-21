@@ -10,6 +10,8 @@ latitude: -28.7383
 loc_type: city
 longitude: 24.7642
 score: 0.41
+snippet: South African diamond city built around the Big Hole and the dry Northern
+  Cape mining rush
 title: Kimberley
 type: location
 ---

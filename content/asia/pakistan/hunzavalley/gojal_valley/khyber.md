@@ -4,9 +4,11 @@ done:
 latitude: 36.5862
 loc_type: city
 longitude: 74.7809
+score: 0.32
+snippet: Wakhi village in Upper Hunza, set among apricot terraces along the Karakoram
+  Highway
 title: Khyber
 type: location
-score: 0.32
 ---
 
 Khyber is a small Wakhi village in Gojal, sitting along the Karakoram Highway between Gulmit and Sost at around 2,700 metres. It is one of the lesser-known stops in Upper Hunza — most travellers pass through without stopping — but it has its own quiet charm and a couple of reasons to break the journey.

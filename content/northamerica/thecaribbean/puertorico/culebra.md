@@ -6,6 +6,8 @@ latitude: 18.3108
 loc_type: city
 longitude: -65.3029
 score: 0.58
+snippet: Small Puerto Rican island of arid hills, reefs, and Flamenco Beach's pale
+  sand
 title: Culebra
 type: location
 ---

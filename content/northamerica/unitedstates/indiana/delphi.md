@@ -6,6 +6,8 @@ latitude: 40.587537
 loc_type: city
 longitude: -86.675006
 score: 0.28
+snippet: Small Indiana county seat with a limestone courthouse and preserved canal-era
+  streets around Deer Creek
 title: Delphi
 type: location
 ---

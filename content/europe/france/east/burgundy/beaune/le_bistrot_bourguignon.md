@@ -12,3 +12,5 @@ type: poi
 One of the most reliable addresses in Beaune for traditional Burgundian food at bistrot rather than gastronomic prices. The menu is unapologetic: escargots in garlic butter, jambon persillé, oeufs en meurette (poached eggs in a red-wine sauce), and boeuf bourguignon that has been cooking long enough. The wine list is tight and well-chosen, with village-level Burgundies at honest margins.
 
 The room is warm and unpretentious — dark wood, a zinc bar, and the smell of slow-cooked things coming from the kitchen. Reservations are recommended for dinner and Friday and Saturday lunches, when the tables fill with a mix of locals and visiting wine trade.
+
+It is also a practical choice if you are trying to learn Burgundy by the glass rather than committing to a full bottle at every meal. Staff are used to visitors asking their way through village names, and the lunch formule is often the easiest way to eat well here without turning the day into a splurge.

@@ -1,8 +1,8 @@
 ---
 latitude: 29.9764
 longitude: 31.1313
-snippet: Three great pyramids, the Sphinx, and the Grand Egyptian Museum on the desert
-  plateau at Cairo's edge
+snippet: Three great pyramids, the Sphinx, and the Grand Egyptian Museum at Cairo's desert
+  edge
 tags:
 - things_to_do
 - neighbourhood

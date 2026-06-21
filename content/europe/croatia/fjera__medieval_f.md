@@ -13,6 +13,7 @@ tags:
 title: Fjera - Medieval Fair
 type: poi
 url: www.kristofor.hr
+score: 7.4
 ---
 
 Every July (typically the 25th to 27th), the town of Rab hosts Fjera, a three-day medieval fair. Locals dress in historical costumes and run open-air workshops demonstrating traditional crafts — pottery, coinage, basket weaving, carpentry, and sculpting. You can also watch honey makers, herbalists, and florists at work.

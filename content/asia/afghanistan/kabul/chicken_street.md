@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 3.8
 ---
 
 Kabul's most famous shopping street, a few hundred metres of small shops south of the Wazir Akbar Khan neighbourhood. In the 1960s and 1970s, when Kabul was a stop on the overland hippie trail, the street was full of carpets, lapis lazuli, antique jewellery, and Afghan rugs sold to backpackers; in the 2000s and 2010s it served the foreign diplomatic and military communities; today, with both gone, it is much quieter.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: cherepovets.jpg
+image_attribution: Ant Rozetsky
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Cherepovets,_Russia_(Unsplash).jpg
 latitude: 59.1242
+loc_type: city
 longitude: 37.9123
+score: 0.28
 title: Cherepovets
 type: location
-score: 0.28
-loc_type: city
 ---
 
 Cherepovets is an industrial city in Russia's Vologda Oblast, built around one of the country's largest steel plants. The Severstal steelworks dominate the skyline and the local economy, and the city has the no-nonsense character of a place that works for a living. It is not a conventional tourist destination, but travellers passing through the Vologda region may find it a useful stop.

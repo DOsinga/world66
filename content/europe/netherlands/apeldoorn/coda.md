@@ -9,6 +9,7 @@ tags:
 title: CODA Museum
 type: poi
 url: https://www.coda-apeldoorn.nl
+score: 7.1
 ---
 
 Apeldoorn's combined museum, library and cultural centre -- formerly known as Cultuur Onder Dak. The museum section covers local history through a mix of conventional and interactive exhibits, with rotating shows on art, design and heritage. Worth an hour on a rainy afternoon.

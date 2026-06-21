@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: lessinia.jpg
+image_attribution: Vuvueffino
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bosco_Chiesanuova_(Grietz_Dossetti_Tinazzo)_Lessinia_VR_Italy_2013-04-01_photo_CTG_ACA_LESSINIA_Paolo_Villa_0055sp_04.jpg
 latitude: 45.657829
+loc_type: city
 longitude: 11.149171
+score: 0.54
 title: Lessinia
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Lessinia is the mountainous area immediately north of [Verona](/europe/italy/veneto/verona), a limestone plateau cut by deep valleys that slopes gradually down toward the Po plain. It is part of the Veronese Pre-Alps and includes the Lessinia Regional Natural Park.

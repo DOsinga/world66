@@ -13,6 +13,7 @@ tags:
 - park
 title: Plymouth Hoe
 type: poi
+score: 8.3
 ---
 
 The Hoe is a wide grassy promenade on the clifftop above Plymouth Sound, with sweeping views across the water to Cornwall. It's where Plymouth comes to walk, run, and watch the ships. The red-and-white striped Smeaton's Tower stands here — the upper section of the old Eddystone lighthouse, moved to the Hoe in 1884 when the rock it stood on crumbled. You can climb it for the best view over the Sound.

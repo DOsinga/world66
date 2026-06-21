@@ -1,5 +1,0 @@
-asia/china/harbin
-asia/cyprus/troodosmountains/pano_platres
-europe/russia/ossetia
-northamerica/canada/britishcolumbia/denman_island
-northamerica/unitedstates/vermont/reading

@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: tyre.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg
 latitude: 33.272121
+loc_type: city
 longitude: 35.196402
+score: 0.53
 title: Tyre
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Tyre (Sour in Arabic) was one of the great cities of the ancient world -- a Phoenician powerhouse that defied Nebuchadnezzar for 13 years and held out against Alexander the Great for seven months before he built a causeway from the shore to the island fortress. That causeway silted up over the centuries, turning the island into a peninsula. In 1980, UNESCO designated Tyre a World Heritage site for its impressive Roman and Phoenician remains.

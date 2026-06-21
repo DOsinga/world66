@@ -8,7 +8,10 @@ longitude: -123.113952
 score: 0.76
 title: Vancouver
 type: location
-loc_type: region
+loc_type: city
+image: vancouver.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Concord_Pacific_Master_Plan_Area.jpg
 ---
 
 Vancouver sits on a peninsula between mountains and the sea, with snow-capped Coast Mountains rising directly from saltwater inlets and forests pushing right up against the downtown core. The combination gives the city a distinctive quality — you can ski in the morning, bike a seawall in the afternoon, and eat some of the best Asian food in North America for dinner. It is consistently ranked among the most liveable cities in the world, and the locals — a high proportion of whom moved here from somewhere else — generally agree.
@@ -23,11 +26,11 @@ The food scene reflects the city's demographics — Vancouver has the largest Ch
 
 ## Destinations in Vancouver
 
-[Delta](/northamerica/canada/britishcolumbia/vancouver/delta)
-[Richmond](/northamerica/canada/britishcolumbia/vancouver/richmond)
-[North Vancouver](/northamerica/canada/britishcolumbia/vancouver/northvancouver)
-[Langley](/northamerica/canada/britishcolumbia/vancouver/langley)
-[Burnaby](/northamerica/canada/britishcolumbia/vancouver/burnaby)
-[Golden Ears](/northamerica/canada/britishcolumbia/vancouver/goldenears)
-[New Westminster](/northamerica/canada/britishcolumbia/vancouver/newwestminster)
+[Delta](/northamerica/canada/britishcolumbia/delta)
+[Richmond](/northamerica/canada/britishcolumbia/richmond)
+[North Vancouver](/northamerica/canada/britishcolumbia/northvancouver)
+[Langley](/northamerica/canada/britishcolumbia/langley)
+[Burnaby](/northamerica/canada/britishcolumbia/burnaby)
+[Golden Ears](/northamerica/canada/britishcolumbia/goldenears)
+[New Westminster](/northamerica/canada/britishcolumbia/newwestminster)
 [Coquitlam](/northamerica/canada/britishcolumbia/vancouver/coquitlam)

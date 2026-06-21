@@ -12,6 +12,7 @@ tags:
 - archaeology
 title: Palace of Knossos
 type: poi
+score: 9.2
 ---
 
 Europe's oldest city and the ceremonial centre of Minoan civilisation, occupied from around 2700 BC until its destruction around 1380 BC. The site covers several hectares and includes the reconstructed palace — with its famous red columns, lustral basins, and the grand staircase descending into the domestic quarters — as well as extensive storage magazines and outlying structures.

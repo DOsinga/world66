@@ -1,5 +1,0 @@
-europe/estonia/muhu_island
-europe/georgia/sarpi
-africa/morocco/marrakesh/amizmiz
-northamerica/unitedstates/pennsylvania/philadelphia
-europe/spain/balearicislands/mallorca/puertodesoller

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: -23.921426
 longitude: 32.160993
 title: Massingir

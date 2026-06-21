@@ -1,5 +1,0 @@
-northamerica/canada/quebec/saintetherese
-northamerica/thecaribbean/puertorico/sanjuan
-africa/southafrica/gauteng/magaliesburg
-asia/turkey/selcuk
-europe/greece/philippi

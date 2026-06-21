@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 38.6703
+loc_type: city
 longitude: -89.9845
+score: 0.33
 title: Collinsville
 type: location
-score: 0.33
-loc_type: city
 ---
 
 Collinsville is a modest suburb east of St. Louis, but it sits at the edge of one of the most remarkable archaeological sites in North America: [Cahokia Mounds State Historic Site](https://cahokiamounds.org/), a UNESCO World Heritage Site and the most important remnant of the Mississippian mound-building culture.

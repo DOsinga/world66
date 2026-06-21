@@ -5,8 +5,11 @@ snippet: Traditional villages and dance performances from 42 ethnic groups
 tags:
 - things_to_do
 - day_trips
+- langata
+neighbourhood: Langata
 title: Bomas of Kenya
 type: poi
+score: 7.5
 ---
 
 Bomas of Kenya is a cultural centre in Langata that recreates traditional homesteads (*bomas*) of Kenya's major ethnic communities. The complex includes reconstructed villages representing the Kikuyu, Maasai, Luo, Kamba, Samburu, and other groups, each with appropriate architecture, furnishings, and explanatory material.

@@ -8,6 +8,7 @@ tags:
 - medina
 title: Carpets
 type: poi
+score: 5.8
 ---
 
 Morocco is a great place to buy a carpet, though Marrakesh is not the cheapest spot in the country. Smaller, less touristy towns offer lower prices, but the medina here has the biggest selection you will find anywhere. Expect Berber kilims, thick pile rugs from the Middle Atlas, and everything in between.

@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 36.88200
 longitude: 30.70300
+score: 6.8
 ---
 
 The tea gardens (çay bahçesi) scattered through Kaleiçi and along the clifftop promenade are the authentic local version of café culture. A small glass of black tea (çay) costs almost nothing; the game is to find a table with a good view and stay for as long as you like. Backgammon boards are usually available.

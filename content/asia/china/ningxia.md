@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 37.0
+loc_type: region
 longitude: 106.0
+score: 0.42
+sources:
+- https://en.wikivoyage.org/wiki/Ningxia
 title: Ningxia
 type: location
-score: 0.42
-loc_type: region
 ---
 
 Ningxia is one of China's smallest and least-visited provinces, wedged between Inner Mongolia, Gansu, and Shaanxi in the arid northwest. It is officially the Ningxia Hui Autonomous Region — home to the country's largest concentration of Hui Muslims, whose mosques, halal restaurants, and Arabic-influenced architecture give the province a character unlike anywhere else in China.

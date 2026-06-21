@@ -8,6 +8,7 @@ tags:
 - peruvian
 title: CVI.CHE 105
 type: poi
+score: 6.9
 ---
 
 Juan Chipoco's Peruvian restaurant in downtown Miami is widely considered one of the best ceviches in the city. The menu runs deep into Peruvian cuisine — tiraditos, causas, lomo saltado, anticuchos — but the ceviches are the star, with a dozen variations available. The dining room is stylish and always busy. Reservations are recommended, especially on weekends.

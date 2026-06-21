@@ -1,5 +1,0 @@
-europe/portugal/aljezur
-northamerica/guatemala/huehuetenango
-northamerica/mexico/ojinaga
-asia/pakistan/azad_kashmir/mong
-africa/botswana/mochudi

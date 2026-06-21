@@ -10,6 +10,7 @@ tags:
 - sight
 title: River Cruise
 type: poi
+score: 4.4
 ---
 
 Cruises on the Zambezi depart in the early morning and can be booked through any travel agent in town. Some packages include breakfast or lunch. It's a calm counterpoint to the thunder of the falls — the river above the gorge is broad and wildlife-rich.

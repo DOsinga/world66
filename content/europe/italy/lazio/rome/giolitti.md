@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Giolitti
 type: poi
+score: 7.1
 ---
 
 A Roman institution near the Pantheon, once considered to have the best gelato in Italy. Still very good, with a choice of over 70 flavors. The interior is old-fashioned and grand. Pay at the cash register first, then take your receipt to the counter.

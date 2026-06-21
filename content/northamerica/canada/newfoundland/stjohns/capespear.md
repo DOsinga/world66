@@ -15,6 +15,7 @@ tags:
 - nature
 title: Cape Spear
 type: poi
+score: 8.6
 ---
 
 The oldest surviving lighthouse in Newfoundland stands at Cape Spear, about 20 kilometres south of St. John's. Built in 1836 and restored to its 1839 appearance, it gives a vivid picture of how a lightkeeper and his family lived through the long Newfoundland winters. The adjacent Visitor Centre covers the history of lightkeeping on this coast.

@@ -1,5 +1,0 @@
-europe/iceland/mosfellsbaer
-northamerica/unitedstates/rhodeisland/narragansett
-asia/philippines/taclobancity
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin
-europe/romania/tulcea

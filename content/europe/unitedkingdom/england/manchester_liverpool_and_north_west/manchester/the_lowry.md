@@ -9,6 +9,7 @@ tags:
 - museum
 title: The Lowry
 type: poi
+score: 7.7
 ---
 
 An arts centre on Salford Quays housing the largest public collection of paintings by L.S. Lowry. The galleries show his distinctive matchstick figures alongside temporary exhibitions, and two theatres host drama, comedy, and music. Free entrance to galleries.

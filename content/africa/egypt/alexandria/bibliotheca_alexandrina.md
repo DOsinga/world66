@@ -9,6 +9,7 @@ tags:
 latitude: 31.2089
 longitude: 29.9092
 story: "The original Library of Alexandria, founded around 295 BC by Ptolemy I, aimed to assemble a copy of every book ever written. At its peak it held perhaps 400,000 to 700,000 scrolls. Its destruction is usually blamed on the burning of the city by Julius Caesar's forces in 48 BC — but the truth is messier; the library was probably gradually depleted across several events, including the civil wars of the 3rd century AD. The new Bibliotheca, opened in 2002, sits about 200 metres from the suspected location of the original."
+score: 9.0
 ---
 
 The most striking piece of modern architecture in Egypt: a vast disc tilted toward the Mediterranean, 160 metres in diameter, evoking a rising sun. The exterior walls are carved with letters and symbols from every known alphabet, ancient to modern. Inside, the main reading room steps down in eleven cascading terraces under a glass-and-aluminium roof.

@@ -14,7 +14,7 @@ quick_facts:
   Travel Warning: "Active war zone since Feb 2022"
   Largest Country Entirely in Europe: "603,550 km²"
   Sunflower Oil Production: "Largest exporter in the world"
-score: 0.32
+score: 0.55
 loc_type: country
 ---
 

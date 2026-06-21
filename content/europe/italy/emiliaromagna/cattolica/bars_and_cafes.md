@@ -3,4 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-The Romagna Riviera is famous for its nightlife, and Cattolica has its share of pubs, cocktail bars, and discos. In summer the waterfront comes alive with open-air events and shows organised by the local council. The atmosphere is relaxed and family-friendly earlier in the evening, livelier as the night goes on.
+The Romagna Riviera is famous for its nightlife, and Cattolica is one of the busier towns on this stretch of coast. The pattern of an evening is well established: gelato or an aperitivo on Piazza I Maggio at sunset, dinner from about 8.30, then on to the bars along the seafront and — if you really want the full Riviera experience — to one of the big discos at Gabicce.
+
+In summer the waterfront is the main stage, with open-air concerts and DJ sets organised by the council most weekends. Things get genuinely loud around midnight; the atmosphere stays family-friendly until well into the evening.

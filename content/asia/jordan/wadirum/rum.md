@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: rum.jpg
+image_attribution: Tomobe03
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Seven_Pillars_2008_e5.jpg
 latitude: 29.5748
+loc_type: city
 longitude: 35.4218
+score: 0.56
 title: Rum
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Rum is the small Bedouin village at the end of the road into [Wadi Rum](/asia/jordan/wadirum), 35 kilometres from the highway. This is where every desert adventure begins — you meet your guide here, pile into a jeep or climb onto a camel, and head out into one of the most extraordinary landscapes on earth.

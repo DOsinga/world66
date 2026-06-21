@@ -11,6 +11,7 @@ tags:
 - spa
 title: Hamam Amsterdam
 type: poi
+score: 6.0
 ---
 
 A Turkish bathhouse in the Westerpark neighbourhood, offering the full hamam experience: steam room, scrub, olive soap wash, and massage. Women-only most of the week; men get Monday evenings. Towels provided, tea and snacks in the rest area after.

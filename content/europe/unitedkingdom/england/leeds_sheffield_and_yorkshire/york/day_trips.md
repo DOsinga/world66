@@ -1,24 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-url: "www.castlehoward.co.uk"
 ---
 
-Here are a few suggested daytrips.
-
-**Contributors**
-December 01, 2006
-
-### [Castle Howard](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york/day_trips/castle_howard)
-
-Castle Howard is within easy driving distance of York and is well worth
-taking a day to visit. Construction on of this historic home began in
-1700 and continued for the next 100 years. The house is surrounded by
-magnificent 18th century landscaping, beautiful lakes, and wonderful
-statues. The house is still home to the Howard Family and the staff is
-very courteous. Castle Howard also houses several impressive art
-collections.
-
-
-
-url: [www.castlehoward.co.uk](http://www.castlehoward.co.uk/)
+York's position in the Vale of York makes it a good base for day trips in several directions. The North York Moors and the coast are to the east; the Yorkshire Dales to the northwest; Harrogate and the spa towns to the west; and the East Riding to the southeast. Most destinations are within an hour by car and many are reachable by rail or bus.

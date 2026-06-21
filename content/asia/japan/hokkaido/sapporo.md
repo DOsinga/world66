@@ -1,13 +1,18 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: sapporo.jpg
+image_attribution: MIKI Yoshihito / MrPanyGoff
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.jpg
 latitude: 43.062
+loc_type: city
 longitude: 141.3544
 score: 0.71
 title: Sapporo
 type: location
-loc_type: city
 ---
 
 Sapporo is the capital of [Hokkaido](/asia/japan/hokkaido) and Japan's fifth-largest city, a modern grid-plan metropolis surrounded by mountains on three sides. It feels nothing like the dense, ancient cities of Honshu. Sapporo was purpose-built in the 1870s as a frontier capital, modelled on American city planning, and that open, spacious character still defines it today.
@@ -16,4 +21,4 @@ The city is best known for two things: beer and snow. Sapporo Beer, Japan's olde
 
 The Susukino entertainment district south of Odori is the largest nightlife quarter north of [Tokyo](/asia/japan/tokyo), packed with bars, izakayas, and restaurants across several city blocks. By day, the tree-lined Odori Park splits the city into north and south, and makes for a pleasant walk between the old Clocktower, the former Hokkaido Government Office with its distinctive red-brick facade, and the Hokkaido University Botanical Garden.
 
-Sapporo also serves as the natural base for exploring the rest of Hokkaido. The ski resorts of [Niseko](/asia/japan/hokkaido/niseko_powder_hea) are under two hours away, and the wild volcanic landscapes of [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan) National Park are within reach for a day trip or overnight excursion.
+Sapporo also serves as the natural base for exploring the rest of Hokkaido. The ski resorts of Niseko are under two hours away, and the wild volcanic landscapes of [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan) National Park are within reach for a day trip or overnight excursion.

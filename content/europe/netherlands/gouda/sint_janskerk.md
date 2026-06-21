@@ -14,6 +14,7 @@ story: >
   1574 (paid for by the city of Leiden), another depicts King Philip II of Spain presenting
   a window while simultaneously persecuting the Dutch. The windows survived the Reformation
   and the wars because the local civic authorities, not the church, owned them.
+score: 9.0
 ---
 
 At 123 metres, Sint Janskerk is the longest church in the Netherlands. The building itself is handsome Gothic, but the real reason to visit is the collection of 70 stained-glass windows, dating from 1555 to the 20th century. The 16th-century windows are the most remarkable: large, narrative panels paid for by Dutch cities, noblemen, and Spanish royalty, depicting biblical stories and historical events with an attention to contemporary clothing and architecture that makes them an accidental record of 16th-century Dutch life. The Gouda windows are considered among the finest in Northern Europe. Allow at least an hour. There is a small entrance fee.

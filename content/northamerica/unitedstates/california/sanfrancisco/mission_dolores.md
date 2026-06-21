@@ -12,6 +12,7 @@ title: Mission Dolores
 neighbourhood: Mission District
 type: poi
 story: "The adobe chapel was completed in 1791, with 36,000 bricks manufactured by the indigenous Ohlone people. It survived the 1906 earthquake when firefighters dynamited surrounding buildings to stop the fire from reaching it."
+score: 9.0
 ---
 
 Mission San Francisco de Asís -- better known as Mission Dolores -- is the oldest intact building in San Francisco, founded in 1776 and completed in 1791. The small adobe chapel is remarkably well preserved, with thick whitewashed walls, original timber beams lashed with rawhide, and a painted ceiling featuring Ohlone designs discovered under layers of whitewash in 1910.

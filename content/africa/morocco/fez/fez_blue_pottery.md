@@ -8,6 +8,7 @@ tags:
 title: Pottery Kilns (Route de Sefrou)
 type: poi
 snippet: "Where Fez blue pottery is fired — buy direct from the kilns south of the city"
+score: 6.8
 ---
 
 The famous Fez blue pottery — the cobalt-and-white earthenware that fills every shop in the medina — is produced in a cluster of kilns on the Route de Sefrou, about 3km south of the city centre. Visiting the kilns is a genuine glimpse of craft production at scale: potters working wheels, painters applying the cobalt oxide designs freehand, rows of pieces drying in the sun before firing in wood-fed kilns.

@@ -1,5 +1,0 @@
-europe/belgium/durbuy
-europe/greece/amorgos
-northamerica/unitedstates/newmexico/ruidoso
-asia/nepal/narayangarh
-europe/faroeislands/suuroy/porkeri

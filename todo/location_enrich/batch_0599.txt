@@ -1,5 +1,0 @@
-northamerica/unitedstates/southcarolina/hopkins
-asia/afghanistan/kunduz
-southamerica/bolivia/tupiza
-europe/unitedkingdom/wales/swansea
-northamerica/unitedstates/oklahoma/miami

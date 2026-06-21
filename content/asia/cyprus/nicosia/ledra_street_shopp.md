@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Ledra Street
 type: poi
+score: 7.0
 ---
 
 Nicosia's main pedestrian shopping street runs through the heart of the old walled city. The mix ranges from international chains to small independent shops selling handmade jewellery, leather goods, antiques, and Cypriot crafts. Cafes and restaurants line the side streets.

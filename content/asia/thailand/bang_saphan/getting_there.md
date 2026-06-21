@@ -1,6 +1,7 @@
 ---
 title: Getting There
 type: poi
+score: 3.6
 ---
 
 Bang Saphan is about 5 and a half hours by road south of Bangkok by taxi or limousine. There are also express buses. You may also travel from Bangkok to Bang Saphan and Baan Krut by train as the rail line runs along the coast of the Gulf of Thailand. Trains offer air conditioned comfort 2nd class, some trains also have 1st class. Many also choose to stopover in Hua Hin or Pranburi for a night to break the journey into 2 journeys of about 2.5 hours each.

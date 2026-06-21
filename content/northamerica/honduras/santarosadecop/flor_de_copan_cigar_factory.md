@@ -9,6 +9,7 @@ longitude: -88.7785
 snippet: 'Working cigar factory producing the famous Flor de Copan and Zino lines, with guided tours'
 story: >
   Honduras is now the second-largest premium cigar producer in the world, and this factory is one of the reasons why. The tobacco grown in the Copan valley benefits from the same volcanic soil and altitude that once nourished Maya agriculture, and the Flor de Copan brand has been rolling here since the 1960s.
+score: 8.6
 ---
 
 The Flor de Copan factory is the single best reason to stop in Santa Rosa. This is where some of Central America's finest cigars are made, including the Flor de Copan, Zino, and H. Upmann Yarguera lines. The factory sits on a compound north of the centre and offers tours Monday through Friday (8am to 4pm, Saturday until 11am).

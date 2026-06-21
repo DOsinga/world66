@@ -7,6 +7,7 @@ tags:
 - book
 title: Birds of Calgary
 type: poi
+score: 4.7
 ---
 
 [](http://www.amazon.com/exec/obidos/ASIN/0-919433-82-0/osingacom?creative=125581&camp=2321&link_code=as1)

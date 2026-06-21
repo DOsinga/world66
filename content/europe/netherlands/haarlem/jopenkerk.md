@@ -5,6 +5,7 @@ latitude: 52.3863
 longitude: 4.6348
 tags:
 - bars_and_cafes
+score: 7.4
 ---
 
 A craft brewery and restaurant housed in a former church — the Jacobskerk, a Gothic building dating from the 15th century. The brewing kettles stand where the altar used to be, and you drink your beer in the nave under vaulted ceilings. The conversion is well done: the church architecture is respected, the beer is good, and the atmosphere manages to be both reverent and convivial.

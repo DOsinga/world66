@@ -9,6 +9,7 @@ tags:
 - winery
 title: Caves Painctes
 type: poi
+score: 7.4
 ---
 
 A series of underground galleries carved into the tufa beneath the fortress walls, the Caves Painctes are the best place to taste Chinon wine in appropriate surroundings. The caves have been used for wine storage since at least the medieval period and were famously celebrated by Rabelais, who was born nearby and set scenes from Gargantua here.

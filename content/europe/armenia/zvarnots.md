@@ -7,9 +7,10 @@ longitude: 44.4864
 snippet: Armenia's main international airport near Yerevan
 tags:
 - practical_information
-- practical_informat
+- practical_information
 title: Zvartnots International Airport
 type: poi
+score: 3.8
 ---
 
 Zvartnots is Armenia's main international airport, located about 12 kilometres west of central Yerevan. The current terminal opened in 2011, replacing the old Soviet-era building, and handles flights to Moscow, Dubai, Tehran, and a growing number of European destinations.

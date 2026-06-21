@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Liberty Bell
 type: poi
+score: 6.8
 ---
 
 The cracked bronze bell that became the symbol of American independence — originally hung in the Pennsylvania State House (now Independence Hall) to summon assemblymen to sessions. Moved across the street to a glass-walled pavilion in 2003. Free to visit, no timed tickets, though security lines can be long in summer.

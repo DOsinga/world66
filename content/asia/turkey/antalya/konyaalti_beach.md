@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 36.87200
 longitude: 30.64300
+score: 7.0
 ---
 
 Konyaaltı Beach is the city's main public beach, stretching for about 7 km along the western edge of Antalya below the limestone cliffs. It is a pebble beach rather than sand, which the locals prefer — the water is very clear and the beach drains cleanly after rain. The beach is lined with a mix of free public sections and paid beach clubs with loungers, parasols, showers, and cafes.

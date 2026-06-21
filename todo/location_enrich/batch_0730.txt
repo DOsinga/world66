@@ -1,5 +1,0 @@
-asia/kyrgyzstan/karakol
-asia/singapore/islands/pulausekang
-europe/azerbaijan/naxcivan/ordubad
-asia/thailand/phuket/surin
-asia/india/karnataka/karwar_1

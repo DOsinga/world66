@@ -1,12 +1,14 @@
 ---
-latitude: 43.6114
-longitude: 3.8803
+latitude: 43.612
+longitude: 3.88
 snippet: "Major French art collection from Delacroix to Soulages"
+story: "François-Xavier Fabre, a Montpellier-born painter, made his fortune in Florence as the lover of Louise Stolberg, Countess of Albany and widow of Bonnie Prince Charlie. When she died she left him her art collection — Fabre brought the lot back to Montpellier and donated it to found the museum in 1825."
 tags:
 - things_to_do
 - museum
 title: Fabre Museum
 type: poi
+score: 8.8
 ---
 
 One of France's most important art museums outside Paris, founded in 1825 by the Montpellier-born painter François-Xavier Fabre. The collection spans European painting from the 16th century to the present, with notable works by Zurbaran, Reynolds, Veronese, Greuze, Ingres, Delacroix, and Courbet. A highlight is the extensive collection of paintings by Frédéric Bazille, the Impressionist born in Montpellier who died young in the Franco-Prussian War.

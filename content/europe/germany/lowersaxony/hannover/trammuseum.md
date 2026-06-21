@@ -10,6 +10,7 @@ snippet: Ride vintage trams on electrified tracks at a disused mine
 tags:
 - things_to_do
 - museum
+score: 6.5
 ---
 
 Set on the grounds of a disused potash mine 20 km east of Hannover, the Hannoversches Strassenbahn-Museum collects historic trams from across Germany and runs them on its own electrified tracks. The point isn't just to look — visitors ride the old wooden cars as part of the entrance fee, which makes it one of the more memorable transport museums in the country. The collection covers most major models from around 1900 onwards (the oldest, an 1881 electric tram, did not survive). There is a small museum shop with books and tram models.

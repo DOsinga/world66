@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Le Rendez-Vous
 type: poi
+score: 6.2
 ---
 
 Tucked into a residential area of north San Bernardino at the foot of the mountains, Le Rendez-Vous has long been a local favorite and a popular stop for travelers on the way home from Big Bear or Lake Arrowhead. Le Rendez-Vous has long been a local favorite and a popular dining choice for travelers on the way home from Big Bear or Lake Arrowhead. Large wood beams against white ceilings add a rustic touch.

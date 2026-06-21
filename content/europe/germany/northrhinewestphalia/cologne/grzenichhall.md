@@ -4,6 +4,7 @@ tags:
 - architecture
 title: Gürzenich Hall
 type: poi
+score: 6.1
 ---
 
 Representative and dance hall of the citizens of Cologne (15th century). Today, it is an international congress centre and the City of Cologne's "parlour".

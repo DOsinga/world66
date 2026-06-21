@@ -9,6 +9,7 @@ tags:
 - church
 title: Carlisle Cathedral
 type: poi
+score: 8.6
 ---
 
 Founded as an Augustinian priory in 1122, Carlisle Cathedral is one of England's smallest cathedrals, but that compact scale makes it more intimate than many of its grander counterparts. The choir ceiling, painted in the 15th century with stars and suns against a brilliant blue ground, is stunning — and almost entirely overlooked by the tourists filing through the castle a few hundred metres away.

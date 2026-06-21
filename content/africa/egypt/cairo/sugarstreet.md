@@ -12,6 +12,7 @@ tags:
 - book
 title: Sugar Street
 type: poi
+score: 5.5
 ---
 
 The third and final volume of Naguib Mahfouz's Cairo Trilogy, following *Palace Walk* and *Palace of Desire*. Sugar Street (Al-Sukkariyya) is a real alley in the Khan el-Khalili district, and Mahfouz used the trilogy to map three generations of a Cairo family against the backdrop of Egyptian history from 1917 to 1952.

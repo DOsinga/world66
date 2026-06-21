@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: eljem.jpg
+image_attribution: Skander zarrad
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_d%E2%80%99El_Jem_vue_aerienne_(2023)_1.jpg
 latitude: 35.296644
+loc_type: city
 longitude: 10.71284
+score: 0.54
 title: El Jem
 type: location
-score: 0.54
-loc_type: city
 ---
 
 El Jem is a small Tunisian town with one very big reason to visit: the Amphitheatre of Thysdrus, one of the best-preserved Roman amphitheatres in the world. It stands just a few minutes' walk from the centre of town, rising abruptly above the low modern buildings around it — an enormous stone oval that seats 35,000, built in the 3rd century AD when this region was one of Rome's most productive olive-growing provinces.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Hoa Lu Ancient Capital
 type: poi
+score: 7.4
 ---
 
 Hoa Lu was the fortified capital of Vietnam under the Dinh and Early Le dynasties in the 10th century — the country's first independent capital after a thousand years of Chinese rule. The royal city occupied a natural fortress: a tight valley encircled by sheer limestone cliffs that served as ready-made walls, supplemented by earthwork ramparts and moats.

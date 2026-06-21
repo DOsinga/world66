@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Playa Las Gatas
 type: poi
+score: 8.0
 ---
 
 Las Gatas is a short water-taxi ride from the municipal pier in Zihuatanejo — boats run from around 9am to 5pm for a small round-trip fare. The crossing itself is pleasant, with views of the town and the surrounding hills.

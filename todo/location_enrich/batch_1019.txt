@@ -1,5 +1,0 @@
-europe/unitedkingdom/scotland/isle_of_coll
-northamerica/unitedstates/california/centralvalley/modesto
-asia/oman/nizwa
-europe/finland/raahe
-northamerica/unitedstates/california/orangecounty/newportbeach

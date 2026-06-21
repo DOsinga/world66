@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Galicia
 type: poi
+score: 5.7
 ---
 
 A no-frills neighborhood bar a short walk from Gare Cornavin. Galicia draws a local crowd rather than tourists, with straightforward drinks at Geneva prices (which is to say, not cheap, but less painful than the lakefront). The atmosphere is unpretentious and friendly — a good spot if you want a drink without the polish of the old town wine bars.

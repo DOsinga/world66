@@ -10,6 +10,7 @@ tags:
 - museums
 title: Muzeu Historik-Etnografik Vushtrri
 type: poi
+score: 5.8
 ---
 
 The Historical-Ethnographic Museum of Vushtrri occupies the third floor of the House of Culture in the center of town. The collection covers the history of the Vushtrri region from ancient Illyrian times through the Ottoman period and into the modern era, with archaeological finds, traditional costumes, household objects, and photographs documenting daily life in this part of Kosovo.

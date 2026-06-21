@@ -2,13 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-31'
   poi_cleanup: '2026-04-19'
+image: victoria_memorial_kolkata.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata.jpg
 latitude: 22.5726
+loc_type: city
 longitude: 88.3639
 score: 0.47
 title: Calcutta
 type: location
-loc_type: city
 ---
 
 Kolkata -- still called Calcutta by most of its residents and all of its admirers -- is unlike any other Indian city. It is crumbling and grand, intellectual and chaotic, desperately poor and culturally wealthy. As the capital of British India until 1911, it accumulated some of the subcontinent's finest colonial architecture, and as the hometown of Rabindranath Tagore, Satyajit Ray, and Mother Teresa, it holds an outsized place in India's cultural life.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Mellbreak
 type: poi
+score: 7.1
 ---
 
 Mellbreak is a rather isolated fell on the southern side of Crummock Water. It is steep on every side, and the best walk is probably to scramble up the western end and come down the gentler east ridge, with superb views into the heart of the western fells.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 18.1086
 longitude: -65.4131
+score: 8.3
 ---
 
 Inside the Vieques National Wildlife Refuge, on what used to be the Navy's eastern bombing range, Red Beach is the most polished of the former Navy beaches — a sheltered crescent of pinkish sand with shaded picnic tables, calm water, and no development whatsoever. The pink tint comes from crushed coral mixed into the white quartz.

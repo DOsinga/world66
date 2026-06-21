@@ -7,6 +7,7 @@ tags:
 title: Juice Bar Babo
 type: poi
 url: www.babo.si
+score: 4.9
 ---
 
 A tiny juice bar tucked into Ljubljana's old town, barely a minute's walk from Prešeren Square. The menu runs to about fifty combinations of freshly squeezed juices and smoothies, and the fruit is good quality. It makes for a welcome pit stop on a warm afternoon of wandering the old centre. Open daily 9am to 9pm.

@@ -5,6 +5,7 @@ author: "Louis de Bernières"
 tags:
   - books
 isbn: "978-0375719516"
+score: 7.8
 ---
 
 De Bernières's sweeping novel follows the destruction of a mixed Greek-Turkish community in a fictional village on the Turquoise Coast — the kind of place Antalya's hinterland once contained in abundance — during the years of the First World War and its aftermath. The characters flee, fight, and mostly die in the wars of the period; those who survive are forcibly separated by the population exchanges of 1923.

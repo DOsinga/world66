@@ -11,6 +11,7 @@ latitude: 34.1853
 longitude: 133.8181
 snippet: Mountain shrine reached by 785 stone steps, dedicated to seafarers and one of Japan's most famous Shinto sites
 story: For sailors who could not make the pilgrimage themselves, the shrine accepted offerings sent by dog. The dogs — called *Konpira inu* — wore a pouch containing money, a note, and rice for the journey, and travelled the route along with strangers who fed them and pointed them along the way. The custom is commemorated in a bronze statue of a Konpira inu partway up the steps.
+score: 9.4
 ---
 
 The main shrine of Kotohira and one of the oldest pilgrimage destinations in Japan, dedicated to Ōmononushi-no-mikoto, the god of seafarers, agriculture, and commerce. The site has been a place of worship since at least the 11th century. During the Edo period, when most Japanese were forbidden by their feudal lords from travelling, an exception was made for pilgrimages to Konpira-san, and the route became one of the great national journeys.

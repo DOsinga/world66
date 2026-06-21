@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/south_east/barking
-southamerica/chile/calama
-europe/moldova/chisinau
-northamerica/unitedstates/oklahoma/norman
-northamerica/unitedstates/wyoming/cheyenne

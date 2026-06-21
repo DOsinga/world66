@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Roman Wall
 type: poi
+score: 9.6
 ---
 
 Built between 260 and 310 AD, Lugo's Roman wall is unique in Europe: it is the only one that

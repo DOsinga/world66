@@ -12,6 +12,7 @@ tags:
 - gamla_stan
 title: Riddarholm Church
 type: poi
+score: 8.0
 ---
 
 Stockholm's oldest church, dating to the late 13th century when Franciscan monks built a monastery on the little islet of Riddarholmen, just off Gamla Stan. For nearly 400 years it served as Sweden's royal burial church — almost every Swedish monarch from Gustav Vasa onward is interred here, their sarcophagi filling the nave in a way that makes the space feel more like a dynastic crypt than a church. The cast-iron spire, a replacement for the medieval one lost to lightning in 1835, is one of the most recognizable points on the Stockholm skyline.

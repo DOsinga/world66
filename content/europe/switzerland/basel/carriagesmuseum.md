@@ -9,6 +9,7 @@ tags:
 - museum
 title: Kutschenmuseum
 type: poi
+score: 6.4
 ---
 
 A small, charming museum of horse-drawn carriages housed in the barn of the 19th-century Villa Merian in the Brüglingen estate, on the southern edge of the city. The collection covers everything from elegant 18th-century town carriages to sleighs. A good combination with a walk through the surrounding botanical gardens.

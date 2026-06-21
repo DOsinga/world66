@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Lilly Simone
 type: poi
+score: 4.8
 ---
 
 A women's clothing boutique in the quiet Eagle Rock neighborhood, carrying independent and LA-based designers alongside gift items, housewares, and antiques. It's a low-key alternative to the bigger shopping strips — no crowds, no hard sell. Eagle Rock is northeast of downtown, so plan accordingly if you're coming from the Westside.

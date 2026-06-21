@@ -12,6 +12,7 @@ tags:
 title: Kawan Baru Restaurant and Cafe
 type: poi
 url: www.kawanbaru.com
+score: 5.6
 ---
 
 Long-established Indonesian restaurant on the Mega Mas Boulevard, open since the 1960s. Good for everyday Indonesian food in comfortable surroundings; a local institution and a reliable lunch option.

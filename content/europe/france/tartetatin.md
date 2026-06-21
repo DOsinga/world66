@@ -6,6 +6,7 @@ tags:
 - food
 title: Tarte Tatin
 type: poi
+score: 7.2
 ---
 
 It all started with a small error: the Tatin sisters — Caroline and Stéphanie — are said to have put the apples in the pan before the pastry while running their hotel in Lamotte-Beuvron in the 1880s. Rather than throw it away, they served it upside-down. The result was fabulous. The Tarte Tatin is a speciality of the Sologne, the forested region just south of the [Loire valley](/europe/france/centre/loirevalley).

@@ -4,6 +4,7 @@ tags:
 - books
 title: Down Under / In a Sunburned Country
 type: poi
+score: 7.8
 ---
 
 Bill Bryson's book on Australia starts with the hilarious but true story of how a nation lost its Prime Minister in a surfing accident, and the tone never lets up from there. Barely a page goes by without a reference to poisonous spiders, lethal snakes, or killer jellyfish — and that is before mentioning crocodiles or sharks.

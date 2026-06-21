@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
 latitude: 42.874675
 longitude: -100.550616
 title: Valentine

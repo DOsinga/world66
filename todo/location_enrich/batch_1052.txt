@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/alva
-asia/myanmar/nyangshwe
-europe/poland/olsztyn
-northamerica/unitedstates/louisiana/lafayette
-asia/philippines/rizal

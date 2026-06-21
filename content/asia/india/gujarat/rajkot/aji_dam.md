@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - park
 snippet: Reservoir on the western edge of the city with gardens, a children's park and toy train
+score: 5.4
 ---
 
 The Aji Dam reservoir sits about ten kilometres west of central Rajkot, on the Aji River. The dam itself was built in 1957 and the surrounding park has long been a local weekend favourite: landscaped gardens, a small zoo, a children's amusement area with rides and a toy train, and food stalls. The waterfront is illuminated in the evenings and the place is busiest after sunset.

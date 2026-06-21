@@ -1,5 +1,0 @@
-australiaandpacific/newzealand/north_island/eastland/gisborne
-northamerica/greenland/igaliku
-asia/india/assam/panpur
-australiaandpacific/australia/newsouthwales/wollongong
-europe/spain/murcia/lopagan

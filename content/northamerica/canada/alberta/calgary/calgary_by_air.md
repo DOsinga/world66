@@ -3,6 +3,7 @@ tags:
 - getting_there
 title: Calgary by Air
 type: poi
+score: 3.4
 ---
 
 Calgary is serviced by the Calgary International Airport. The airport is now the third busiest airport in [Canada](/northamerica/canada), and connects Calgary to the world, with destinations across Canada, the [United States](/northamerica/unitedstates), and [Europe](/europe). Major Airlines that fly to Calgary include Air Canada, WestJet, Delta, American Airlines, Contenental, Northwest, Lufthansa, and United.

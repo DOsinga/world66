@@ -1,32 +1,19 @@
 ---
-title: Milwaukee
-type: location
-latitude: 43.038648
-longitude: -87.909075
 done:
   location_cleanup: 2026-04-06
-score: 0.48
+  location_enrich: '2026-05-22'
+latitude: 43.038648
 loc_type: city
+longitude: -87.909075
+score: 0.48
+title: Milwaukee
+type: location
 ---
 
-At the very soul of Milwaukee's cultural essence is the rumble of a legendary Harley-Davidson motorcycle and the Miller Brewing Company. Grounded in German-American culture: hard work, cold beer, and lots of food, Milwaukee is built around its pubs. Add to this the party atmosphere generated around the world’s largest music festival, Summerfest; Wisconsin's three pro sports teams: the Brewers, Bucks, and Packers, and the enticing smell of beer, brats and of course cheese, and you get a genuine down-to-earth fun-loving city..
+Milwaukee sits on the western shore of Lake Michigan, about 90 miles north of Chicago, and has long been undersold to people who don’t know it. The city was built on beer, machinery and German immigration, and all three left marks that are still visible: the [Pabst Mansion](/northamerica/unitedstates/wisconsin/milwaukee/pabst_mansion), the cavernous lagering caves under the [MillerCoors brewery](/northamerica/unitedstates/wisconsin/milwaukee/miller_brewery), the Gothic spires of the south-side Polish churches, the unpronounceable street names. Milwaukee has more breweries per capita than almost anywhere in the US and takes its sausage very seriously.
 
-Milwaukee is also known as the *The City of Festivals* and invites you to experience the traditions and customs of different cultures with authentic food, entertainment and exhibits at over a dozen year-round ethnic festivals.
+The biggest surprise for first-time visitors is the [Milwaukee Art Museum](/northamerica/unitedstates/wisconsin/milwaukee/milwaukee_art_museum) — Santiago Calatrava’s lakefront building with its movable white wings is world-class architecture and the collection inside is genuine. The [Milwaukee Public Museum](/northamerica/unitedstates/wisconsin/milwaukee/milwaukee_public_museum) is one of the best natural history museums in the Midwest. And the [Harley-Davidson Museum](/northamerica/unitedstates/wisconsin/milwaukee/harley_davidson_museum) works even if you don’t own a motorcycle.
 
-Milwaukee's historical fabric is woven into its many diverse neighborhoods. These neighborhoods retain their historic charm and traditions of yesterday, while reinventing themselves for today.
+The city’s neighbourhoods are its real pleasure. The [Historic Third Ward](/northamerica/unitedstates/wisconsin/milwaukee/third_ward) has converted warehouses full of galleries, restaurants and the Public Market. [Bay View](/northamerica/unitedstates/wisconsin/milwaukee/bayview) on the south lakefront is where Milwaukeeans actually eat, drink and spend their evenings. The [Milwaukee Riverwalk](/northamerica/unitedstates/wisconsin/milwaukee/milwaukee_riverwalk) connects them all.
 
-Neighborhoods offer something for everyone like Historic Brady Street, one of Milwaukee’s trendiest neighborhoods with eclectic shopping and the Historic Third Ward filled with historical ambiance and architecture.
-
-Old World Third Street is a favorite with its strong German heritage, cobblestone streets and specialty shops. While Historic King Drive offers a distinct cultural flavor with key sites like America’s Black Holocaust Museum.
-
-Milwaukee's neighborhoods reflect the treasures of the city’s past and the best of the future.
-
-As one of the top cities in the nation for donations raised per capita for the arts, Milwaukee offers audiences the world’s most acclaimed performers and visual artists. From the symphony, ballet and opera to Broadway shows, theater, and rows of galleries, Milwauke's arts scene is vibrant.
-
-Sports enthusiasts will find the *Genuine American City* a haven for spectator sports. From professional basketball to amateur baseball, sports fans have something to cheer about. Milwaukee is home to Major League Baseball’s Milwaukee Brewers. The Bradley Center is the place to be for professional and collegiate basketball, professional hockey and soccer. The Pettit National Ice Center, an official U.S. Olympic training site, the only facility of its kind in the Midwest, is also located in Milwaukee. Home of 16 county courses, over 55 public courses and 10 private clubs, Greater Milwaukee has a rich golf tradition. Sports fans can cheer on amateur and semi-professional baseball and softball at any one of the 26 diamonds found throughout Milwaukee County during summer and weekend tournaments.
-
-All of these components combine to secure Milwaukee’s place among premier destinations. From world-class performing arts and ethnic festivals to historic neighborhoods, sports and annual events, Milwaukee is a must-see city.
-
-## Destinations in Milwaukee
-
-[Bay View](/northamerica/unitedstates/wisconsin/milwaukee/bayview)
+In late June and early July, [Summerfest](/northamerica/unitedstates/wisconsin/milwaukee/summerfest) — the world’s largest music festival by attendance — takes over the lakefront. It is as Milwaukee as anything gets: enormous, good-natured, and built around cold beer and live music.

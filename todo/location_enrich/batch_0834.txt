@@ -1,5 +1,0 @@
-southamerica/brazil/paranagu
-northamerica/jamaica/montegobay
-australiaandpacific/guam/mangilao
-africa/morocco/elayoune
-africa/tanzania/tanga

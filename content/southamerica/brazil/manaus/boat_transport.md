@@ -8,6 +8,7 @@ tags:
 - getting_around
 title: Boat transport
 type: poi
+score: 5.9
 ---
 
 Manaus sits at the meeting of the Rio Negro and the Solimões, and boats are the main way to reach much of the surrounding Amazon. The main passenger terminal is the Estação Hidroviária, on the waterfront downtown, where slow boats depart for Belém (about four days), Santarém (roughly 36 hours), Tabatinga on the Colombian border (about a week), and dozens of smaller river towns.

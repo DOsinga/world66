@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: lee_county_florida.jpg
+image_attribution: Peter Wallack
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Roseate_Spoonbill_at_Ding_darling_NWR,_Sanibel,_FL.jpg
 latitude: 26.6865
+loc_type: city
 longitude: -81.9175
+score: 0.49
 title: Lee County
 type: location
-score: 0.49
-loc_type: city
 ---
 
 Lee County covers the southwest corner of Florida's Gulf Coast, anchored by Fort Myers and extending out to Sanibel and Captiva islands. It is less flashy than Miami and less theme-parked than Orlando, which is part of the appeal — this is where Floridians themselves come to fish, shell, and slow down.

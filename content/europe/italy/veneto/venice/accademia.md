@@ -7,12 +7,15 @@ latitude: 45.4315
 longitude: 12.3281
 opening_hours: Mon 08:15–14:00; Tue–Sun 08:15–19:15
 snippet: Five centuries of Venetian painting, from Bellini to Canaletto
+neighbourhood: Dorsoduro
 tags:
 - things_to_do
+- dorsoduro
 - museum
 title: Gallerie dell'Accademia
 type: poi
 url: www.gallerieaccademia.it
+score: 9.5
 ---
 
 The greatest collection of Venetian painting in the world, spanning five centuries from Bellini and Carpaccio through Titian and Tintoretto to Canaletto. Housed in a former convent and church on the Dorsoduro bank of the Grand Canal. Essential for understanding Venetian art: the transition from Byzantine gold to Renaissance naturalism, the Venetian mastery of colour and light.

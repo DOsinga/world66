@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: olinda.jpg
+image_attribution: Ridiculopathy
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Apr2024._Olinda,_Recife,_Pernambuco,_Brazil_01.jpg
 latitude: -7.99864
+loc_type: city
 longitude: -34.845955
+score: 0.58
 title: “Olinda”
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Olinda is a gem. Perched on a cluster of green hills overlooking the Atlantic, this small city just north of [Recife](/southamerica/brazil/recife) has some of the best-preserved colonial architecture in Brazil — enough to earn it UNESCO World Heritage status.

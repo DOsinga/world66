@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: manchester.jpg
+image_attribution: Quintin Soloviev
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Manchester,_New_Hampshire_skyline.jpg
 latitude: 42.9956
+loc_type: city
 longitude: -71.4548
+score: 0.38
 title: Manchester
 type: location
-score: 0.38
-loc_type: city
 ---
 
 Manchester is the largest city in New Hampshire and the largest city in New England north of Boston — a fact that surprises people who picture the region as nothing but small college towns and ski resorts. It sits on the Merrimack River, and the river is the reason it exists.

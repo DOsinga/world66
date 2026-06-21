@@ -1,5 +1,0 @@
-asia/syria/damascus
-europe/unitedkingdom/wales/colwyn_bay
-asia/india/uttarpradesh/ghaziabad
-asia/bangladesh/chittagong
-asia/taiwan/kaohsiung

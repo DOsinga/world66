@@ -1,5 +1,0 @@
-southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno
-africa/egypt/mansoura
-europe/netherlands/giethoorn
-australiaandpacific/newzealand/timaru
-northamerica/unitedstates/newjersey/belmar

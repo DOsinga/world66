@@ -4,6 +4,7 @@ tags:
 - getting_there
 title: By Rail
 type: poi
+score: 8.2
 ---
 
 India has one of the world's largest rail networks, and the system is surprisingly efficient given its scale. Luxurious it is not, but the railways are arguably the best way to get to know the country and its people.

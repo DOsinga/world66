@@ -16,7 +16,7 @@ quick_facts:
   Visa: "E-visa available for most nationalities"
   Mountains Above 3,000m: "93% of the country"
   Pamir Highway Elevation: "Up to 4,655m"
-score: 0.45
+score: 0.56
 loc_type: country
 ---
 

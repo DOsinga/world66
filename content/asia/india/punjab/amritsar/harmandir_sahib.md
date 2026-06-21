@@ -15,6 +15,7 @@ tags:
 - sight
 title: Harmandir Sahib (Golden Temple)
 type: poi
+score: 9.8
 ---
 
 The Harmandir Sahib — gilded in gold leaf and surrounded by the sacred Amrit Sarovar pool — is the most sacred site in Sikhism. It is open to everyone, regardless of religion, 24 hours a day. Cover your head (scarves available at the entrance), remove your shoes, and wash your feet in the shallow channel before entering.

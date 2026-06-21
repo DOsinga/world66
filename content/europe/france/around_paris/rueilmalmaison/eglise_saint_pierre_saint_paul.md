@@ -9,6 +9,7 @@ tags:
 snippet: 'Parish church where both Cardinal Richelieu and Joséphine de Beauharnais were laid to rest.'
 story: >
   Joséphine''s tomb here is surprisingly modest for an empress — a simple marble sarcophagus in a side chapel, placed here after her funeral in 1814. Her children Eugène and Hortense paid for the memorial sculpture by Cartellier, which shows her kneeling in prayer, still wearing her imperial robes.
+score: 7.2
 ---
 
 The main parish church of Rueil-Malmaison has been a place of worship since at least the 12th century, though the current building is largely 16th and 19th century. Two historical figures are buried here, making it an unexpectedly significant stop.

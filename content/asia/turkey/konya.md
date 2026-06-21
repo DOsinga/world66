@@ -1,12 +1,17 @@
 ---
-title: Konya
-type: location
-latitude: 37.8728
-longitude: 32.4925
 done:
   location_cleanup: 2026-04-06
-score: 0.51
+  location_enrich: '2026-05-11'
+image: konya.jpg
+image_attribution: Bernard Gagnon
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ince_Minareli_Medrese_01.jpg
+latitude: 37.8728
 loc_type: city
+longitude: 32.4925
+score: 0.51
+title: Konya
+type: location
 ---
 
 Konya is the spiritual heart of Turkey — the city where Mevlana Celaleddin Rumi lived, taught, and was buried in 1273, and where the Mevlevi order of whirling dervishes was founded by his followers. For many visitors, the Mevlana Museum and its green-tiled tower are the sole reason to come, and that alone is worth the trip. But Konya rewards anyone who stays a little longer.

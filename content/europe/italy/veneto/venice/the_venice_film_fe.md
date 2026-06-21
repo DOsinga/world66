@@ -12,6 +12,7 @@ tags:
 title: Venice International Film Festival
 type: poi
 url: www.labiennale.org
+score: 7.2
 ---
 
 The world's oldest film festival, running since 1932 and held annually in late August to early September on the Lido. Part of the Venice Biennale, it is second in prestige only to Cannes. The main venue is the Palazzo del Cinema on the Lido waterfront, a short vaporetto ride from central Venice.

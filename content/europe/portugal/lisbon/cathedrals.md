@@ -12,6 +12,7 @@ tags:
 - alfama
 title: Lisbon Cathedral (Sé)
 type: poi
+score: 7.6
 ---
 
 Lisbon's oldest church, founded in 1147 shortly after the city was taken from the Moors, with a Romanesque fortress-like facade and a Gothic ambulatory added in the 14th century. The treasury holds relics of Saint Vincent, Lisbon's patron. The cathedral sits at the edge of the Alfama district.

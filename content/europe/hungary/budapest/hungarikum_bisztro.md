@@ -8,6 +8,7 @@ tags:
 - lipotvaros
 title: Hungarikum Bisztró
 type: poi
+score: 7.2
 ---
 
 Hungarikum Bisztró does traditional Hungarian cooking in the neighbourhood behind St. Stephen's Basilica without the heavy tourist markup that plagues much of the area. The menu reads like a greatest hits of the Hungarian kitchen: goulash, chicken paprikash, stuffed peppers, bone-in pork knuckle, catfish in paprika sauce. Portions are generous and the cooking is honest — this is not reinvented heritage cuisine but the straightforward article.

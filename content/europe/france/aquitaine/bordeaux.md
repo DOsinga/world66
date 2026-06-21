@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-12'
+image: bordeaux.jpg
+image_attribution: Marc Ryckaert (MJJR)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bordeaux_Bourse_R01.jpg
 latitude: 44.8378
+loc_type: city
 longitude: -0.5792
 score: 0.74
 title: Bordeaux
 type: location
-loc_type: city
 ---
 
 Bordeaux is a wine city. Not just because the surrounding vineyards produce some of the most celebrated bottles on earth, but because wine shapes the rhythm of life here — the restaurants, the economy, the landscape, the conversations. If you care about wine at all, this is a pilgrimage.

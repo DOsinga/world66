@@ -1,17 +1,18 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
 image: munich.jpg
 image_attribution: Martin Falbisoner
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_March_2013.JPG
 latitude: 48.137108
+loc_type: city
 longitude: 11.575382
 score: 0.76
 title: Munich
 type: location
-loc_type: city
 ---
 
 Sometimes called the "Village of One Million" Munich is a southern city located near the Alps. This wonderfully charming 800-year-old city is the capital of [Bavaria](/europe/germany/bavaria) and the home of the world-famous Oktoberfest. Despite its name, events starts in late September and spills into the first week of October — dancing oompah bands and food dominate. Be prepared not only to drink but also to eat: You’ll have your fill of sausages that is for sure but experiment a bit — whole oxen for instance are cooked on giant spits. While the food is good, fest goers never let it distract from the main focus of the festival: beer. The city is filled with thousands of casual and committed beer drinkers guzzling foamy brew for days on end. If this sounds like heaven by all means go and enjoy it but if it doesn’t avoid Munich at all costs during this time. Book accommodation well in advance for Oktoberfest. But don’t think Oktoberfest is the only time Munich celebrates. The pre-Lenten celebration of Fasching is equally popular. It goes on for days with all sorts of costumed parties and festivities.

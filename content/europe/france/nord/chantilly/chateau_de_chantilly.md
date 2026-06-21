@@ -9,8 +9,14 @@ opening_hours: "Wed–Mon 10:00am–6:00pm (last entry 5:30pm); closed Tuesday"
 admission: "€17 (château + park), €12 (park only)"
 latitude: 49.1939
 longitude: 2.4869
+tags:
+- things_to_do
+- museum
+- sight
+- architecture
 story: >
   In April 1671, the chef François Vatel was overseeing a three-day banquet at Chantilly for Louis XIV and two thousand guests when the fish delivery failed to arrive on the morning of the third day. Convinced that the feast would be ruined, Vatel went to his room and ran himself through with his sword. The fish arrived shortly afterwards.
+score: 9.7
 ---
 
 The château is two buildings in one: the medieval Petit Château (the Capitainerie), which dates from the 1560s and has barely changed since, and the Grand Château, which was demolished during the Revolution and rebuilt in the 1870s in Renaissance style by the architect Honoré Daumet on the original foundations. The result is surprisingly coherent.

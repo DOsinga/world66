@@ -13,6 +13,7 @@ tags:
 - sight
 title: Electric Palace Cinema
 type: poi
+score: 7.9
 ---
 
 Opened in 1911, the Electric Palace is one of the oldest purpose-built cinemas in the UK to survive with its original features intact: the ornamental frontage, the silent screen, and the projection room behind its fireproof door. It still screens films today. The building sits on King's Quay Street in the old town, easy to spot from its decorative facade.

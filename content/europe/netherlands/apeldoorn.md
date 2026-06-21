@@ -2,14 +2,20 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
 image: apeldoorn.jpg
-image_attribution: Dirk Jan van Zoest
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Apeldoorn_-_panoramio.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Castle_gardens_panorama_(38469876374).jpg
+image_attribution: Thomas Quine
 latitude: 52.2112
 longitude: 5.9699
 score: 0.48
+tags:
+  - nature
+  - history
+  - day_trip
+tier: 3
 title: Apeldoorn
 type: location
 loc_type: city

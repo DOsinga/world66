@@ -8,6 +8,7 @@ tags:
 title: Place Rcif
 type: poi
 snippet: "The eastern medina's main square and commercial crossroads"
+score: 7.5
 ---
 
 Place Rcif is the main square of the eastern half of Fes el-Bali, and the busiest junction in the medina outside of the areas immediately inside Bab Boujeloud. The bus from Bab Boujeloud terminates here, so it is one of the few places in the medina where you can actually orient yourself — a momentary expansion in the labyrinth where you can see sky and get your bearings.

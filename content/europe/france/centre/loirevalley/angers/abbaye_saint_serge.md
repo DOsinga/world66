@@ -10,6 +10,7 @@ tags:
 - sight
 title: Abbaye Saint-Serge
 type: poi
+score: 7.7
 ---
 
 This 12th-century abbey church is considered the high point of Plantagenet Gothic style. The chancel vaulting, with its elaborately carved keystones, is unique — the contrast between the soaring, light-filled interior and the thick outer walls that buttress the vaults is particularly striking. A quiet corner of the city, far enough from the tourist trail to feel genuinely discovered.

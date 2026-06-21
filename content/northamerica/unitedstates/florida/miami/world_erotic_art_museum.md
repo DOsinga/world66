@@ -11,6 +11,7 @@ tags:
 - art_deco
 title: World Erotic Art Museum
 type: poi
+score: 7.1
 ---
 
 Housed in an Art Deco building on Washington Avenue, WEAM holds over 4,000 pieces of erotic art spanning centuries — from Rembrandt etchings and Picasso lithographs to Dalí sketches and Robert Mapplethorpe photographs. The collection was assembled by Naomi Wilzig, a Holocaust survivor turned banker turned art collector, and the museum opened in 2005. It is a genuinely interesting collection displayed with curatorial care, not the novelty shop the name might suggest. Worth a visit for the Rembrandt prints alone.

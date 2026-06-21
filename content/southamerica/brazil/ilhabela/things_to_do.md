@@ -1,0 +1,8 @@
+---
+title: Things to Do
+type: section
+---
+
+More than 80 percent of Ilhabela is protected as the Ilhabela State Park, and that statistic shapes nearly everything you can do here. The park blankets the island's rugged interior and its entire wild eastern coast, sheltering dense Atlantic Forest, hundreds of waterfalls, and trails ranging from a casual morning stroll to multi-day coastal expeditions. The most popular route is the Trilha do Bonete, a challenging 13-kilometre one-way hike from Ponta de Sepituba in the south to the isolated beach community of Bonete, passing waterfalls and viewpoints along the way. For something shorter, the marked trail to Cachoeira do Gato at Castelhanos beach is a rewarding half-day outing through old-growth forest to one of the island's most spectacular waterfalls.
+
+The sea around Ilhabela is as compelling as the land. The island sits above one of Brazil's richest shipwreck graveyards: over 30 vessels have gone down in these waters over the centuries, from colonial-era wooden ships to 20th-century iron hulls, and conditions are good enough for divers of all levels. Sailors need no shipwreck to be happy — the steady southerly winds that funnel between the island and the mainland have made Ilhabela the sailing capital of São Paulo state, and July brings the Semana Internacional de Vela, the largest offshore sailing regatta in Latin America. The town's historic Vila quarter repays a slow afternoon on foot: the 17th-century Igreja Matriz Nossa Senhora D'Ajuda e Bom Sucesso, built with shells, stones, and whale oil, stands in a leafy square alongside the former jail that now houses the Nautical Museum.

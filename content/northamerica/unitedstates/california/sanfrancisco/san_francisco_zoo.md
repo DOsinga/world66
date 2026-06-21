@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: San Francisco Zoo
 type: poi
+score: 6.6
 ---
 
 The San Francisco Zoo sits on the western edge of the city, bordered by the Pacific Ocean. It is home to over 250 species, including grizzly bears, penguins, and a popular lemur forest. The zoo is a good option for families, especially on the warmer days that occasionally bless this foggy part of town.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/wisconsin/superior
-northamerica/unitedstates/maine/hallowell
-asia/nepal/bodnath
-northamerica/unitedstates/ohio/youngstown
-europe/italy/abruzzo/bominaco

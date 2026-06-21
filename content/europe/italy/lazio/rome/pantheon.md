@@ -18,6 +18,7 @@ tags:
 title: Pantheon
 type: poi
 url: www.pantheonroma.com
+score: 10.0
 ---
 
 The best-preserved ancient building in the world, built by Emperor Hadrian around AD 125 on the site of an earlier temple. The concrete dome — 43.3 metres in diameter, identical to the height of the building — was the largest in the world for over 1,300 years and remains an engineering marvel. The oculus at its apex, 8.7 metres wide, is the building's only light source.

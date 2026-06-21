@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Hohokam Pima National Monument
 type: poi
+score: 4.8
 ---
 
 Protecting the ruins of Snaketown, one of the largest known Hohokam villages, this monument is not open to the general public — access requires coordination with the Gila River Indian Community. For those with a serious interest in the pre-Columbian cultures of the Sonoran Desert, it's worth pursuing.

@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Cha Cha
 type: poi
+score: 5.1
 ---
 
 A small wine bar on the Steendam with a dark, exotic interior. The wine list is the main draw, but the food holds its own too. Close to the Charlatan, so it works well as a warm-up spot before heading out.

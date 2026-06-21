@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: vrbnik.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Vrbnik_Krk_Croatia.jpg
 latitude: 45.0757
+loc_type: city
 longitude: 14.6744
+score: 0.62
 title: Vrbnik
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Vrbnik is a hilltop town perched on a cliff above the eastern coast of [Krk Island](/europe/croatia/krkisland), overlooking the narrow Vinodol Channel. The setting is dramatic — stone houses cluster along a ridge that drops steeply to the sea on one side.

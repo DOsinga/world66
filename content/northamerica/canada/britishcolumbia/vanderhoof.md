@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: vanderhoof.jpg
+image_attribution: Bell and Jeff from Wellington, New Zealand
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Angus_Moon_Farm,_Vanderhoof,_BC.jpg
 latitude: 54.017529
+loc_type: city
 longitude: -124.007663
+score: 0.33
 title: Vanderhoof
 type: location
-score: 0.33
-loc_type: city
 ---
 
 Vanderhoof sits at the geographical centre of British Columbia, a small ranching and forestry town on the Nechako River. It is not a destination in itself, but it makes a useful stop on the drive between Prince George and the lakes district to the west.

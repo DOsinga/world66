@@ -7,6 +7,7 @@ tags:
 latitude: 3.1940
 longitude: 113.0635
 snippet: "A long waterfront promenade along the Kemena River — the town's main public space, best at dusk."
+score: 5.9
 ---
 
 The esplanade runs for several kilometres along the Kemena River, which empties into the South China Sea just beyond the town's edge. It's a utilitarian piece of urban infrastructure — wide concrete walkway, some benches, a few food stalls in the evening — but it's where Bintulu's residents actually go to walk, and it gives a clear sense of the town's relationship with its river. Fishing boats move upstream and downstream throughout the day; the opposite bank is still largely mangrove.

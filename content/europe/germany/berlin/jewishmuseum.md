@@ -14,6 +14,7 @@ tags:
 title: Jewish Museum Berlin
 type: poi
 url: www.jmberlin.de
+score: 9.5
 ---
 
 Daniel Libeskind's building is one of the most powerful works of architecture in Europe — a jagged zinc structure of voids and disorienting angles that embodies the disruption of Jewish life in Germany before a word of the exhibition is read. The permanent collection covers 2,000 years of German Jewish history. Don't skip the installation in the voided tower: the silence inside it is remarkable.

@@ -6,6 +6,7 @@ longitude: 69.5942
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 Officially the South Kazakhstan Regional Museum of History and Local Lore, this is the main museum of the city and the best single overview of the region's past. The collection runs from Saka burials and Silk Road archaeology through the Kazakh khanates and Russian colonisation to Soviet industry and independence.

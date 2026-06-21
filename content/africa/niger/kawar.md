@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: kawar.jpg
+image_attribution: Holger Reineccius
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Oasis-Bilma.jpg
 latitude: 18.7
+loc_type: city
 longitude: 12.9
+score: 0.16
 title: Kawar
 type: location
-score: 0.16
-loc_type: city
 ---
 
 Kawar is a string of oases stretching from Bilma north toward the Libyan border in the remote northeastern corner of Niger. An ancient salt-producing center and the western edge of Toubou territory, these towns are about as far from anywhere as it gets.

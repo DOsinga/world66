@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Santa Monica Beach & Venice Beach
 type: poi
+score: 7.7
 ---
 
 Santa Monica Beach and Venice Beach are two of the most recognizable stretches of sand in Los Angeles. The Santa Monica Pier, built in 1906, is the main landmark — a 9.5-acre amusement pier with a Ferris wheel, an aquarium, and restaurants. It has appeared in films from *The Sting* to *Iron Man* and the TV show *Baywatch*.

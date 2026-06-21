@@ -1,5 +1,0 @@
-europe/france/midi/languedoc/montpellier
-asia/philippines/aklan/malay
-northamerica/costarica/puerto_viejo_de_talamanca
-europe/czechrepublic/olomouc
-europe/greece/ioannina

@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-14'
 image: volendam.jpg
 image_attribution: crash71100 on Flickr
 image_license: CC0 1.0
 image_source: https://www.flickr.com/photos/152930510@N02/49195352216
 latitude: 52.496376
+loc_type: city
 longitude: 5.068274
+score: 0.54
 title: Volendam
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Volendam sits on the IJsselmeer, a half-hour bus ride north of Amsterdam, and it still looks remarkably like the fishing village it once was. Wooden houses painted green and white line narrow streets, and a handful of older residents still wear traditional dress — the women in pointed lace caps, the men in baggy wool trousers.

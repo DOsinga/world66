@@ -1,5 +1,0 @@
-asia/pakistan/harappa
-asia/malaysia/kualalumpur
-europe/spain/madrid
-europe/germany/bavaria/fussen
-northamerica/unitedstates/indiana/delphi

@@ -8,6 +8,7 @@ tags:
 - books
 title: Tapu
 type: poi
+score: 7.0
 ---
 
 A historical novel by Judy Corbalis set during the arrival of the first Christian missionaries in New Zealand in the early nineteenth century. The story follows the collision between Maori culture and European religion through the eyes of characters on both sides. Corbalis draws on real events and locations to paint a vivid picture of a pivotal period in New Zealand's history — when the concept of tapu (sacred, forbidden) clashed with the certainties of Victorian-era Christianity.

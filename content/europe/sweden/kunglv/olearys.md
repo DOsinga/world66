@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: O'Learys
 type: poi
+score: 3.8
 ---
 
 O'Learys is a Swedish chain of sports bars modelled on the Irish pub format. Big screens for football matches, a decent beer selection, and a lively crowd on match nights. Karaoke some evenings.

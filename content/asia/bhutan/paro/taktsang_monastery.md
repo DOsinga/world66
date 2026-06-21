@@ -9,6 +9,7 @@ tags:
 - sight
 snippet: Cliffside monastery 900m above the valley floor, the iconic image of Bhutan
 story: Guru Rinpoche is said to have flown to this ledge in the 8th century on the back of a tigress that was once his consort Yeshe Tsogyal, and meditated here for three years, three months, three weeks, three days and three hours. The current monastery was built in 1692 around the cave he used; it burned to the ground in 1998 and was rebuilt almost exactly as it had been.
+score: 6.9
 ---
 
 The Tiger's Nest is a working Buddhist monastery clinging to a sheer granite cliff 900 metres above the Paro Valley. There is no road. The hike begins at a car park about ten kilometres north of Paro town and climbs steeply through blue-pine forest hung with prayer flags, with the monastery visible across a deep gorge for most of the second half. Allow four to five hours round-trip including the visit; a teahouse roughly halfway makes a good rest stop with the best photographic view of the building.

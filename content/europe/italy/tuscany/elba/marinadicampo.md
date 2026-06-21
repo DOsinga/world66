@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-19'
+image: marinadicampo.jpg
+image_attribution: Fabio Pani
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Marina_di_Campo,_Elba,_Italy.jpg
 latitude: 42.7613
+loc_type: city
 longitude: 10.2392
 score: 0.59
 title: Marina di Campo
 type: location
-loc_type: city
 ---
 
 Marina di Campo sits on the south coast of [Elba](/europe/italy/tuscany/elba) where a broad, flat-bottomed valley meets the sea, giving the town what the rest of the island mostly lacks: a long sandy beach. At nearly two kilometres of fine golden sand, it is the largest beach on Elba, and that fact drives the town's entire economy. This is the family resort side of the island — busier and more commercial than Portoferraio or Marciana Marina, but hard to argue with when the water is clear turquoise and the beach is this wide.

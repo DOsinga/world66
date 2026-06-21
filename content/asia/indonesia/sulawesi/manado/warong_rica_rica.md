@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Warong Rica Rica
 type: poi
+score: 6.5
 ---
 
 Simple seafood warung in the Bahu Mall bay-front strip. Local fish dishes at budget prices with views of the water. Rica rica is the signature Manadonese spice paste — a fiery blend of chilli, ginger, and lemongrass — and it goes on everything here, from grilled fish to calamari. Order whatever came in that morning and let them do their thing.

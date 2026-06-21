@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Footdee
 type: poi
+score: 8.2
 ---
 
 Footdee (pronounced "Fittie" by locals) is a tiny former fishing village tucked at the mouth of the River Dee, right beside Aberdeen harbour. The tightly packed cottages, with their backs turned to the sea for shelter from North Sea storms, have been converted into quirky, colourful homes — each decorated with a distinctive character, from seashells and driftwood to painted murals. The village was planned in the early 19th century by the city architect John Smith, and its square layout with shared courtyards is still intact.

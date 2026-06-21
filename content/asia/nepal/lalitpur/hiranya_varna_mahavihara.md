@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: Hiranya Varna Mahavihara (Golden Temple)
 type: poi
+score: 8.6
 ---
 
 A short walk north of Durbar Square, this Buddhist monastery complex is built around a gilt-roofed main shrine that is genuinely golden — covered in gold and silver repoussé work. The courtyard fills with worshippers on religious days and has a real, lived-in quality. Non-Hindus are welcome but must remove leather items before entering. The resident tortoise in the courtyard is considered sacred.

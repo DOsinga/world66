@@ -13,6 +13,7 @@ tags:
 title: Hungarian State Opera House
 type: poi
 url: www.opera.hu
+score: 8.9
 ---
 
 One of the finest opera houses in Europe, this neo-Renaissance building on Andrassy Avenue opened in 1884. The interior is lavishly decorated with gold leaf, ceiling frescoes, and marble, both real and faux. Emperor Franz Josef had his own box, and there was a separate one built for Empress Sisi. Guided tours run daily, but tickets for actual performances are surprisingly affordable and well worth it. The metro station at the front door makes getting here easy.

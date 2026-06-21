@@ -15,6 +15,7 @@ tags:
 - market
 title: Trapizzino
 type: poi
+score: 7.5
 ---
 
 Stefano Callegari's invention: a triangular pocket of pizza dough stuffed with classic Roman braises — chicken cacciatore, oxtail, polpette al sugo, tripe. Around €4–5 each. The Testaccio original is the best location; there are branches across Rome (Trastevere, Prati, Mercato Centrale). Not a traditional Roman food, but one of the genuinely good food inventions of the last decade — the fillings are properly cooked, not a shortcut. Eat standing at the counter with a beer.

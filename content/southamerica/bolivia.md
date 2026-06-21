@@ -16,7 +16,7 @@ image_attribution: Martin St-Amant (<a href="//commons.wikimedia.org/wiki/User:S
   href="//commons.wikimedia.org/wiki/User:Julia_W" title="User:Julia W">Julia W</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.7
+score: 0.78
 loc_type: country
 ---
 

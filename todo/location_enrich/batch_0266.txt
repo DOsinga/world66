@@ -1,5 +1,0 @@
-northamerica/unitedstates/minnesota/minneapolis
-europe/italy/sicily/siracusa
-africa/kenya/nationalparksandreserves/masaimaranr/naroktown
-northamerica/unitedstates/missouri/cape_girardeau
-northamerica/mexico/jerezzacatecas

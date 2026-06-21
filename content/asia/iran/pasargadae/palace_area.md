@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Palace Area
 type: poi
+score: 7.8
 ---
 
 The palace area contains the remains of several structures: a gate building, an audience hall (Palace S), and a residential palace (Palace P). The buildings were set far apart in what was likely a lush royal garden — one of the earliest known examples of a formal Persian garden.

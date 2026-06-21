@@ -9,6 +9,7 @@ tags:
 - sight
 title: Tomb of Gul Baba
 type: poi
+score: 7.2
 ---
 
 Gul Baba was an Ottoman dervish whose name means Father of Roses; he is said to have introduced roses to Budapest. He died during the capture of Buda in 1541, and his tomb on a quiet Buda hillside is the northernmost place of Islamic pilgrimage in the world. The mausoleum was beautifully restored in 2018 and the surrounding rose garden makes it a peaceful stop away from the crowds.

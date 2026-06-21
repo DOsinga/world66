@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Juan-Jo Gallery
 type: poi
+score: 5.9
 ---
 
 A leather workshop and shop on Carrer d'Elisabets in El Raval, steps from the MACBA. Juan-Jo has been crafting leather goods here for over 40 years — jackets, bags, belts, and hats, all made on-site. The quality is high and the prices are fair for handmade work. Worth a browse if you're in the neighbourhood.

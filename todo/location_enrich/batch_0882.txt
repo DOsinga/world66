@@ -1,5 +1,0 @@
-northamerica/unitedstates/kansas/abilene
-asia/nepal/pokhara
-southamerica/argentina/esquel
-europe/france/midi/cotedazur/argelessurmer
-europe/bosniaandherzegovina/trebinje

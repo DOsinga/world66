@@ -8,6 +8,7 @@ tags:
 - sight
 title: Presidio Pet Cemetery
 type: poi
+score: 6.9
 ---
 
 In a quiet corner of the Presidio, a small fenced plot contains about 450 pet graves from the 1950s through the 1990s, when military families stationed at the base buried their cats, dogs, birds, hamsters, and at least one goldfish here. The hand-painted headstones and handwritten epitaphs are funny, touching, and sometimes heartbreaking.

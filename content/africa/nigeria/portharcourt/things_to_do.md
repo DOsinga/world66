@@ -1,75 +1,10 @@
 ---
-title: "Things to do in Port Harcourt"
+title: Things to Do in Port Harcourt
 type: section
 ---
 
-**Port Harcourt things to** do are many when you are visiting this
-Nigerian city which is famous for its oil.
+Port Harcourt is not a city that markets itself heavily to tourists, but there is more to see and do here than its industrial reputation suggests. The [Niger Delta](/africa/nigeria/portharcourt/niger_delta_mangroves) that surrounds the city is ecologically extraordinary, and the city itself has parks, museums, a lively football culture, and a music and arts scene that reflects its position as one of Nigeria's wealthiest and most cosmopolitan cities.
 
-**Port Harcourt Beach**
+The most rewarding area to explore on foot is [Old GRA](/africa/nigeria/portharcourt/old_gra), the original colonial quarter, where [Isaac Boro Park](/africa/nigeria/portharcourt/isaac_boro_park) and [Corpus Christi Cathedral](/africa/nigeria/portharcourt/corpus_christi_cathedral) give the neighbourhood its anchors. The [Port Harcourt Zoo](/africa/nigeria/portharcourt/port_harcourt_zoo) and [Pleasure Park](/africa/nigeria/portharcourt/port_harcourt_pleasure_park) are the main green spaces in the city. The [National Museum](/africa/nigeria/portharcourt/national_museum_port_harcourt) covers the art and material culture of the delta peoples. A visit to the [Bonny Waterside](/africa/nigeria/portharcourt/bonny_waterside) in the early morning, where boats arrive from the creek communities, gives a direct sense of how the delta functions as a living transport network.
 
-This clean sandy beach is a place where you can relax, sunbathe and
-enjoy a dip in the cool waters. You can also take a walk along the beach
-while enjoying the view of the sea. Refreshments are also available if
-you need anything to eat or drink.
-
-**Zoological Garden**
-
-A visit to this garden will allow you to see many kinds of ape
-species, giraffes and other tiny animals found there. Get an up close
-view of these animals and be sure to take pictures.
-
-**National Museum**
-
-This museum has a large collection of ancient Nigerian artifacts from
-the nineteenth century. You will also be able to see moldings that were
-cast out of various metals in the olden days. You will also learn about
-this city's history.
-
-**Port Harcourt Golf Course**
-
-Every Port Harcourt things to do has to include visiting this 18 hole
-golf course. You don't have to be a member to play. Just pay for one
-day and enjoy the game. There is also a restaurant that caters
-refreshments for you to enjoy after your game. You will enjoy the natural surroundings and should
-take some pictures.
-
-**Isaac Boro Park**
-
-Pack a picnic and head to this untouched park in the heart of the
-city. You will enjoy just sitting and enjoying the view and at the same
-time taking pictures.
-
-**Cultural Dances**
-
-The city usually holds traditional dances that will entertain you
-with local music. You will see the various costumes worn for different
-dances and also be able to take pictures with the dancers or record the
-dances.
-
-**Bonny Island**
-
-Port Harcourt things to do must have a
-visit to this beautiful island. Just take a ferry from the city and head
-to its beautiful beaches that are usually a favorite for foreigners
-working in the oil companies in Port Harcourt. The view is spectacular.
-
-**Finima
-Nature Park**
-
-Make a point of visiting this huge park where you
-will be treated to guided nature walks and bird watching. Many wild
-animals are also found here. The park management can arrange for trips
-where you can fish or see traditional festivals. There are also many
-souvenirs you can take home. There is also a catering department to
-cater for your needs.
-
-**Finima Beaches**Fort Harcourt
-things to do can end with you visiting these exciting beaches.
-Here you can have lots of fun as they are very popular. The festive
-seasons are when there is many kinds of activities.
-
-**Contributors**
-April 04, 2010
-
-April 08, 2010
+For sport, [Rivers United FC](/africa/nigeria/portharcourt/rivers_united_fc) at [Yakubu Gowon Stadium](/africa/nigeria/portharcourt/yakubu_gowon_stadium) provides one of the most authentic Nigerian experiences available in the city. The [Port Harcourt Book Festival](/africa/nigeria/portharcourt/port_harcourt_book_festival) in November is the cultural highlight of the year.

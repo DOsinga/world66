@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Wat Chedi Luang
 type: poi
+score: 8.8
 ---
 
 One of the most impressive temples in the old city, Wat Chedi Luang centres on a huge brick chedi that dates back to the 14th century. The structure originally stood around 80 metres tall before an earthquake brought down the upper section in 1545. Even in its partially ruined state, the chedi is massive and atmospheric, especially when lit up at night.

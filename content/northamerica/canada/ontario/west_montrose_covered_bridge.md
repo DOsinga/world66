@@ -7,6 +7,7 @@ tags:
 - landmark
 title: West Montrose Covered Bridge
 type: poi
+score: 6.2
 ---
 
 The last remaining covered bridge in Ontario, built in 1881 over the Grand River near the village of West Montrose. At 198 feet long, the timber-frame bridge is still open to single-lane vehicular traffic -- locals call it the Kissing Bridge, after the privacy the covered span once afforded courting couples.

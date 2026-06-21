@@ -15,6 +15,7 @@ tags:
 title: Ze Kitchen Galerie
 type: poi
 url: www.zekitchengalerie.fr
+score: 6.9
 ---
 
 Ze Kitchen Galerie is one of the better restaurants for creative French cooking on the Left Bank: an art-gallery dining room with open kitchen and menus that blend classic French technique with Asian and Mediterranean influences. Chef William Ledeuil earned a Michelin star here and has maintained consistent quality for well over a decade.

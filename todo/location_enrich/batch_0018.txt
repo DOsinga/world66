@@ -1,5 +1,0 @@
-africa/madagascar/antananarivo
-northamerica/mexico/losmochis
-europe/spain/centralspain/pedro_bernardo
-asia/india/tamilnadu/rameshwaram
-northamerica/belize/orangewalktown

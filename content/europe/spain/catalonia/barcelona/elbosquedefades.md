@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: El Bosque de Fades
 type: poi
+score: 5.8
 ---
 
 Tucked behind the wax museum on Passatge de la Banca, just off the bottom of La Rambla, El Bosque de las Hadas ("The Forest of the Fairies") is one of Barcelona's most theatrical bars. The interior is designed to feel like an enchanted forest, with gnarled tree trunks, hanging vines, fountains, and atmospheric fog effects drifting through the room. Animatronic creatures peer out from the foliage.

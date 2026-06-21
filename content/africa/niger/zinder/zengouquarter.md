@@ -4,6 +4,7 @@ longitude: 8.995
 snippet: Zinder's lively working-class quarter of mudbrick houses
 tags:
 - things_to_do
+- neighbourhood
 title: Zengou Quarter
 type: neighbourhood
 ---

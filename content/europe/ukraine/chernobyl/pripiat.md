@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: pripiat.jpg
+image_attribution: Kadams1970
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Pripyat01.jpg
 latitude: 51.4064
+loc_type: city
 longitude: 30.0548
+score: 0.47
 title: Pripyat
 type: location
-score: 0.47
-loc_type: city
 ---
 
 Pripyat was built in 1970 as a model Soviet city for workers at the nearby Chernobyl Nuclear Power Plant. By 1986 it had nearly 50,000 residents — young, educated, well-housed by Soviet standards. Then, on the morning of 27 April 1986, the entire population was given two hours to pack a bag and board buses. They were told it was temporary. It wasn't.

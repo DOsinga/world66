@@ -5,6 +5,7 @@ tags:
 title: Virgin Australia
 type: poi
 url: www.virginaustralia.com
+score: 5.4
 ---
 
 Formerly Virgin Blue. Flies from several Australian cities to Nadi (NAN). Worth checking for competitive fares, especially from the east coast. Often cheaper than Fiji Airways on the same routes, though with less generous baggage allowances.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: Avicii Arena (Globe Arena)
 type: poi
+score: 6.6
 ---
 
 The Avicii Arena — still widely known as the Globe Arena or simply Globen — is an enormous white sphere rising 85 metres above the southern suburbs, and one of Stockholm's most recognizable landmarks. It's the world's largest hemispherical building, hosting everything from ice hockey and concerts to Eurovision. The SkyView gondola ride takes you along the outside of the sphere for panoramic views over Stockholm. The surrounding complex includes the Hovet arena, Tele2 Arena, and the Annexet venue.

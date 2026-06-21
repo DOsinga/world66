@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: Haggerty Farms Corn Maze
 type: poi
+score: 4.9
 ---
 
 A family-run farm near Stirling that cuts an elaborate maze into one of its cornfields each autumn. Ten thousand feet of pathway wind through the corn — enough to keep most people genuinely turned around for an hour or more.

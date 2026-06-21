@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: rodrigues.jpg
+image_attribution: lublud on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/127339305@N05/21238823983
 latitude: -19.7092
+loc_type: city
 longitude: 63.4426
 score: 0.62
 title: Rodrigues
 type: location
-loc_type: city
 ---
 
 Rodrigues is a small island about 560 kilometres northeast of Mauritius, and is the best reason to extend your trip. It belongs to Mauritius politically but feels like a different world — quieter, less developed, more African in atmosphere. If Mauritius sometimes feels like it's trying too hard, Rodrigues doesn't try at all.

@@ -10,6 +10,7 @@ tags:
 title: Le Comptoir Général
 type: poi
 url: www.lecomptoirgeneral.com
+score: 6.8
 ---
 
 One of the most original bars in Paris — a vast, dimly-lit space decorated with colonial-era curiosities, animal heads, vintage maps, and plants, stretching back from the Canal Saint-Martin in several interconnected rooms. The vibe is deliberately eccentric and the crowd young and mixed.

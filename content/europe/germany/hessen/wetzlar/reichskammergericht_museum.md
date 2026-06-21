@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Museum of the supreme imperial court that sat in Wetzlar for over a century
+score: 7.8
 ---
 
 The Reichskammergericht — the Imperial Chamber Court — was one of the two highest courts of the Holy Roman Empire and one of the first attempts at a permanent supreme court anywhere in Europe. It moved to Wetzlar in 1693 after Speyer was sacked in the Nine Years' War and stayed until the empire was dissolved in 1806, leaving its records, its judges, and an entire legal subculture in the small Hessian town.

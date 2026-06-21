@@ -7,9 +7,11 @@ longitude: 124.6465
 phone: 09265465880
 snippet: Gay bar on Ramon Chavez Street open nightly until 3am
 tags:
-- nightlife
+  - bars_and_cafes
+  - bar
 title: Hallo Club Gay Bar
 type: poi
+score: 4.2
 ---
 
 A gay bar on Ramon Chavez Street, beside Vacation Hotel. Open Monday to Sunday, 9pm to 3am.

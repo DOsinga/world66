@@ -8,6 +8,7 @@ longitude: 114.1697
 tags:
 - kowloon
 - things_to_do
+score: 7.2
 ---
 
 Temple Street comes alive after dark, when vendors set up stalls selling watches, clothing, electronics, and miscellaneous goods along several blocks of the street between Jordan Road and Kansu Street. The market officially opens around 2pm but only becomes worth visiting after sundown, around 7pm, when it fills with noise, light, and crowds.

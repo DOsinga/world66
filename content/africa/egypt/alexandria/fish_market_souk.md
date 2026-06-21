@@ -8,6 +8,7 @@ tags:
 latitude: 31.2042
 longitude: 29.8842
 neighbourhood: Bahary
+score: 7.9
 ---
 
 The defining Alexandrian eating experience: a working fish market where the day's catch is displayed on ice and adjoining restaurants will cook whatever you buy. The system is simple and ruthless — choose a fish, have it weighed, agree the price (Egyptian pounds per kilogram), and the restaurant grills, fries, or bakes it to your specification. You pay for the fish by weight plus a small cooking fee (usually 30–50 EGP per fish).

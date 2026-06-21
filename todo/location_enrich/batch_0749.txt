@@ -1,5 +1,0 @@
-asia/israel/jerusalem
-asia/saudiarabia/alhasa
-asia/india/kerala/thrissur
-asia/indonesia/java/malang
-africa/kenya/centralhighlands/runyanjes

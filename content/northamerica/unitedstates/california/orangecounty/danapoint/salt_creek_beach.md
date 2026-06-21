@@ -9,6 +9,7 @@ tags:
 latitude: 33.4847
 longitude: -117.7197
 story: "Salt Creek Beach lies directly below the Ritz-Carlton Laguna Niguel, which fought for decades to keep the beach private. California's coastal access laws ultimately prevailed and the public access path runs down through hotel grounds. This same fight played out at Strand Beach next door, where developers built a luxury gated community on the bluff and resisted the requirement to provide a public path to the sand — leading to the construction of the public inclined elevator that now runs down the cliffs."
+score: 8.1
 ---
 
 The most consistently good beach in Dana Point: a long crescent of sand backed by sandstone cliffs, with a reliable beach break for surfers, a good summer swimming area, and a grassy bluff-top park for picnics and watching the sunset.

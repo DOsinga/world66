@@ -8,6 +8,7 @@ tags:
 - sights
 title: Lori Province
 type: poi
+score: 8.2
 ---
 
 Lori is Armenia's greenest province, a landscape of deep river gorges, dense forests, and medieval monasteries perched on canyon edges. The provincial capital Vanadzor serves as a base, but the real draws are scattered through the countryside.

@@ -3,28 +3,8 @@ title: "Shopping"
 type: section
 ---
 
-Most shops are located on Makariou III Ave. in Ktima. There is an open market at the north end of the avenue. During lunchtime (1pm till 4pm), on Wednesdays and Saturday afternoons most shops remain closed. 
+The main shopping street is Makariou III Avenue in Ktima, the upper town — banks, jewellers and clothing shops along a single straight stretch. The open-air municipal market at the north end is the place for fruit, olives and halloumi.
 
-**all**
+Down in Kato Paphos, the seafront and Tomb of the Kings Avenue are wall-to-wall souvenir shops aimed at tourists. Skip these for the better village potteries: **Lemba Pottery Gallery** in the nearby village of Lempa sells original vases, mugs and lamps; the **Cyprus Handicrafts Service** on the corner of Agios Theodoros and Gladstonos Streets carries embroidered linens, basketry and silverwork.
 
-**Lemba Pottery Gallery**
-
-       Here you can discover original vases, lamps, mugs and plates.
-
-address: village of Lemba
-
-tel: (26270 822
-
-**Cyprus handicraft Centre**
-
-
-
-address: Apostolou Pavlou Street 64
-
-tel: (06) 240 243
-
-**Cyprus handicrafts Service**
-
-offers a wide selection of local handicraft. 
-
-address: corner of Agios Theodoros and Gladstonos Streets
+Most shops in Paphos close from about 1 p.m. to 4 p.m. on weekdays and stay shut on Wednesday and Saturday afternoons.

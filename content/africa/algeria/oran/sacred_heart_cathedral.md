@@ -11,6 +11,7 @@ story: >
   the cathedral lost its congregation. Rather than demolish it, the Algerian government
   converted it into a public library in 1984 — one of the more inspired acts of
   adaptive reuse in North Africa.
+score: 8.1
 ---
 
 A grand neo-Byzantine cathedral in central Oran, built between 1904 and 1913 when the city had a large French and Spanish Catholic population. The building is enormous — the dome dominates the surrounding streetscape — and the architecture is handsome, with striped stonework and a broad facade that would not look out of place in Istanbul.

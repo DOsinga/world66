@@ -1,5 +1,0 @@
-southamerica/ecuador/riobamba
-asia/india/madhyapradesh/hoshangabad
-africa/mauritius/curepipe
-northamerica/unitedstates/michigan/mackinac_island
-europe/greece/cephalonia/argostoli

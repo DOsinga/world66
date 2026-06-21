@@ -12,6 +12,7 @@ tags:
 - eating_out
 title: Blue on Blue
 type: poi
+score: 4.9
 ---
 
 The restaurant and bar of the Avalon Hotel, with indoor-outdoor seating around the pool. A fashionable crowd; the vibe shifts from casual at lunch to full party mode at night. Modern American cuisine; the scallop and celery root risotto is recommended.

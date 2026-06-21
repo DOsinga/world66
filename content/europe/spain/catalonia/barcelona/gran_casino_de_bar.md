@@ -14,6 +14,7 @@ tags:
 title: Gran Casino de Barcelona
 type: poi
 url: www.casino-barcelona.com
+score: 4.2
 ---
 
 The Gran Casino de Barcelona sits at the base of the Hotel Arts in Port Olympic, right on the waterfront. Slots, roulette, blackjack, and poker on the main floor; floor shows and a disco upstairs. Dress code is smart-casual; bring your passport for entry. Open daily from 1pm until 5am.

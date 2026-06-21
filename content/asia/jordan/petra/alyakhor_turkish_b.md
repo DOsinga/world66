@@ -10,6 +10,7 @@ phone: "+962 779 831 414"
 latitude: 30.322166
 longitude: 35.454857
 snippet: "Traditional hammam 200m from Petra's main gate with scrub and steam treatment"
+score: 5.3
 ---
 
 A hammam right in Wadi Musa, roughly 200 metres from Petra's main entrance. The format is the traditional sequence: warm room, steam room, scrub and foam massage with a loofah and kessa mitt. After a day of walking the siq and climbing to the High Place of Sacrifice, it's a reasonable way to recover.

@@ -1,5 +1,0 @@
-europe/italy/liguria/italianriviera/tellaro
-europe/italy/piemonte/turin
-northamerica/unitedstates/newmexico/budville
-europe/italy/tuscany/pienza
-europe/germany/rhinelandpalatinate/koblenz

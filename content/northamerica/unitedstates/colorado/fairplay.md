@@ -1,28 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 39.225189
+loc_type: city
 longitude: -106.001952
+score: 0.43
 title: Fairplay
 type: location
-score: 0.43
-loc_type: city
 ---
 
-Travel Guide
+Fairplay is the county seat of Park County, Colorado, sitting at 2,989 metres altitude in South Park — the sweeping high-altitude valley ringed by the Front Range, the Mosquito Range, and the Tarryall Mountains. It is the community that inspired the animated TV series of the same name, and it retains an unpolished, workaday quality that the resort towns nearby have mostly traded away.
 
-The seat of Park County, Fairplay has an estimated population of 700.
+The main reason to stop is [South Park City](/northamerica/unitedstates/colorado/fairplay/south_park_city), one of Colorado's better open-air history museums, which recreates a 19th-century mining town using 43 original buildings from across Park County. Beyond that, [Front Street](/northamerica/unitedstates/colorado/fairplay/front_street) has a few intact Victorian commercial buildings, including the Hand Hotel (reputedly haunted) and the Colorado Mountain Hat Company, where custom cowboy hats are fitted using traditional measuring methods dating back 150 years.
 
-Situated a short distance southeast of Breckenridge, over Hoosier Pass, Fairplay is on the verge of a development boom as investors, retirees and businesspeople look for reasonably priced land within easy driving distance of the obscenely expensive and upscale Breckenridge area.
-
-Fairplay got its first real supermarket in 2005 and boasts several restaurants, two hotels and a couple of motels. The Hand Hotel on historic Front Street has a reputation for being haunted, if that sort of thing interests you. Front Street is lined with trendy shops and eateries. Among the more interesting is the Colorado Mountain Hat Co., where employees use a 150-year-old phrenology device to get precise measurements of your head for a custom made cowboy hat that's a perfect fit.
-
-Fairplay is also the home of the South Park City historical museum town, a recreation of a 19th century Colorado high country miniing community.
-
-And if you're looking for the community that inspired the popular animated TV series South Park, Fairplay is it.
-
-Among the restaurant choices is the Brown Burro, a Mexican restaurant with reasonable prices and excellent *huevos rancheros*.
-
-The local weekly newspaper, *The Flume*, is a folksy, opinionated publication useful more as entertainment than as a news source.
-
-Fairplay has a strict radar-controlled speed limit on Hwy. 9 through the middle of town.
+Fairplay sits just over Hoosier Pass from Breckenridge, about 30 kilometres away — making it a quieter and considerably cheaper base for exploring Park County. The Brown Burro on Front Street serves reliable Mexican food; the *huevos rancheros* are worth stopping for.

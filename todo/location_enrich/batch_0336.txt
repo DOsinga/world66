@@ -1,5 +1,0 @@
-europe/switzerland/morgins
-northamerica/canada/britishcolumbia/osoyoos
-asia/bangladesh/dhaka
-europe/netherlands/eindhoven
-europe/italy/lazio/san_felice_circeo

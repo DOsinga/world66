@@ -1,5 +1,0 @@
-europe/spain/andalucia/torremolinos
-northamerica/dominicanrepublic/santodomingo
-northamerica/unitedstates/idaho/kellogg
-europe/georgia/gelati
-asia/china/tibet/xeger

@@ -8,6 +8,7 @@ tags:
 - nevskiyprospekt
 title: Griboedov
 type: poi
+score: 6.0
 ---
 
 One of the coolest dance clubs in the city, set in an actual Soviet-era bomb shelter. The underground setting gives it a raw, bunker-party atmosphere. Music ranges from electronic to live acts. Open Thursday through Sunday, things get going late and run until 6:00. Nearest metro: Ligovsky Prospekt.

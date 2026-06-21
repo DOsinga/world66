@@ -9,6 +9,7 @@ tags:
   - neighbourhood
   - architecture
 snippet: One of the largest intact Victorian neighbourhoods in West Virginia
+score: 8.1
 ---
 
 A six-block residential district north of the downtown commercial centre, bounded roughly by Juliana, Ann, 7th and 11th Streets, and one of the largest collections of Victorian houses in West Virginia. The district was laid out in the 1850s and built up through the oil-and-gas boom of the late 19th century, when Parkersburg was briefly one of the wealthiest small cities in America.

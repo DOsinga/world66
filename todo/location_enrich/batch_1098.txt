@@ -1,5 +1,0 @@
-asia/malaysia/tamannegara
-asia/china/sichuanprovince/chongqing
-africa/egypt/al_qahera__cairo
-asia/india/maharashtra/ganpati_phule
-asia/india/orissa/paradeep

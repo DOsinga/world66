@@ -1,5 +1,0 @@
-europe/germany/schleswigholstein/eckernfrde
-northamerica/unitedstates/california/shastacascade/alturas
-northamerica/unitedstates/utah/price
-northamerica/unitedstates/utah/heber_city
-asia/china/lanzhou

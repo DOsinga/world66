@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 1.3065
 longitude: 103.8557
-snippet: sprawling 24-hour emporium in Little India selling almost everything
+score: 7.5
+snippet: Sprawling 24-hour emporium in Little India selling almost everything
 tags:
 - things_to_do
 - sight
 - sights
+- little_india
 title: Mustafa Centre
 type: poi
 ---

@@ -1,5 +1,0 @@
-northamerica/unitedstates/delaware/lewes
-europe/bulgaria/sozopol
-asia/china/yunnanprovince/shangrila
-asia/india/andhrapradesh/cuddapah
-northamerica/unitedstates/california/inlandempire/redlands

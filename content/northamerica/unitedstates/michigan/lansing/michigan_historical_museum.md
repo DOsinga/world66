@@ -12,6 +12,7 @@ tags:
 title: Michigan Historical Museum
 type: poi
 url: www.michiganhistory.org
+score: 7.8
 ---
 
 Twenty-six permanent galleries on four levels walk you through Michigan history from prehistoric times to the late twentieth century. Highlights include a walk-through copper mine, a one-room schoolhouse, and a recreation of a 1957 Auto Show.

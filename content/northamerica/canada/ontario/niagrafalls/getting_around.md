@@ -12,7 +12,7 @@ For intercity service, depend on intercity carriers.
 **Contributors**
 November 04, 2005
 
-### [See Sight Tours](/northamerica/canada/ontario/niagrafalls/getting_around/see_sight_tours)
+### See Sight Tours
 
 See Sight Tours is a great inexpensive way to get around and see everything Niagara falls has to offer. With a basic tour package you will see over 75 sights, and get admisson to Journey Behind the falls, Maid of the mist (Boat ride) and Skylon tower. A great way to see everyting in Niagara falls all in one day!
 
@@ -40,7 +40,7 @@ Here is a rough list of services:
 
 ---Greyhound of Canada...similar to that of Coach Canada.
 
-Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME DAY returns on Toronto day trips. Check with [more..](/northamerica/canada/ontario/niagrafalls/getting_around/greater_niagara_fa)
+Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME DAY returns on Toronto day trips. Check with the terminal staff or the carrier's website before booking — the discount can be substantial if you're back the same evening.
 
 
 
@@ -48,7 +48,7 @@ Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME 
 
 address: Bridge @ Erie, Downtown Niagara Falls
 
-### [5-0 Taxi](/northamerica/canada/ontario/niagrafalls/getting_around/50_taxi)
+### 5-0 Taxi
 
 In addition to offering one of the most visible taxi services to the entire Niagara region of Ontario, 5-0 taxi also operates a year-round shuttle from the Greater Niagara Falls Coach Terminal to Niagara-on-the-Lake, a small community north of the city.
 
@@ -62,7 +62,7 @@ Round trip fares are about $11.50CAD.
 
 url: [www.5-0taxi.com](http://www.5-0taxi.com)
 
-### [Niagara Transit](/northamerica/canada/ontario/niagrafalls/getting_around/niagara_transit)
+### Niagara Transit
 
 With their offices located directly next to the Greater Niagara Falls Coach Terminal, the Niagara Transit Commission offers about 11 city routes, 3 Falls Shuttles, and 2 college shuttles.
 
@@ -80,7 +80,7 @@ url: [www.niagaratransit.com](http://www.niagaratransit.com)
 
 address: 4320 Bridge Street, Niagara Falls
 
-### [Falls Shuttle (part of Niagara Transit)](/northamerica/canada/ontario/niagrafalls/getting_around/falls_shuttle_par)
+### Falls Shuttle (part of Niagara Transit)
 
 **Taken from Niagara Transit Website**
 ------------------
@@ -95,7 +95,7 @@ Leaving Lundy's Lane at Garner Rd on the half hour from 9:30 a.m. to 1:30 a.m.--
 Leaving Downtown on the hour from 9:00 a.m. to 2:00 a.m.-- return leaving Clifton Hill 10 minutes to the hour--last Bus 1:50 a.m.
 
 **Summer
-**June 23 to [more..](/northamerica/canada/ontario/niagrafalls/getting_around/falls_shuttle_par)
+**June 23 to early September the Falls Shuttle runs hourly until late into the night — check the current Niagara Transit timetable for exact times, as the summer schedule expands considerably.
 
 
 

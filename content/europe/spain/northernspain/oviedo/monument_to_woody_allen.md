@@ -14,6 +14,7 @@ story: >
   tranquil, and pedestrianized fairy-tale city." He used it as a setting in Vicky
   Cristina Barcelona (2008), and the city responded by erecting this statue on
   Calle de las Milicias Nacionales in 2003.
+score: 5.8
 ---
 
 A life-size bronze statue of Woody Allen strolling down the street, umbrella in hand, installed in 2003 on Calle de las Milicias Nacionales. Oviedo has a curious affection for the director — he praised the city effusively during a visit, and later featured it in Vicky Cristina Barcelona, where Scarlett Johansson and Javier Bardem's characters visit.

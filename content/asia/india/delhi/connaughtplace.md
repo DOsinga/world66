@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Connaught Place
 type: poi
+score: 6.8
 ---
 
 Connaught Place — universally known as CP — is central Delhi's main commercial district. Built by the British in the 1930s, the two concentric circles of colonnaded white buildings house everything from international brand stores to old-school Indian restaurants and street food vendors.

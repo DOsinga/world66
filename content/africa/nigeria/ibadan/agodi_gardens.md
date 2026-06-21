@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Agodi Zoological Gardens
 type: poi
+score: 5.7
 ---
 
 A green escape in the middle of the city with gardens, a small zoo, and space to relax. A popular picnic spot for locals and a decent place to spend a quiet afternoon away from the bustle of the streets.

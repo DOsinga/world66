@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Lascaris War Rooms
 type: poi
+score: 8.5
 ---
 
 Hewn into the rock beneath the Upper Barrakka Gardens, these tunnels served as the bomb-proof operations centre for the British air and naval forces defending Malta in World War II. The rooms have been restored to their wartime state, with plotting tables, communications equipment, and period furnishings. Guided tours explain Malta's pivotal strategic role in the Mediterranean campaign.

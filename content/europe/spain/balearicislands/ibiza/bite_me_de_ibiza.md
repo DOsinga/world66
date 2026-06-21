@@ -10,6 +10,7 @@ tags:
 - shopping
 title: Bite Me de Ibiza
 type: poi
+score: 2.1
 ---
 
 Delicious gift boutique ...

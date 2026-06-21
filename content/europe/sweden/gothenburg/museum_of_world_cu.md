@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum of World Culture
 type: poi
+score: 7.3
 ---
 
 Opened in 2004 in a striking glass and steel building designed by Bjarke Ingels and White Arkitekter, the Museum of World Culture (Världskulturmuseet) takes a different approach from the dusty ethnographic collections found elsewhere. Rather than presenting cultures as static exhibits, it focuses on contemporary issues — migration, identity, human rights, and global connections — alongside objects from around the world.

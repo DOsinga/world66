@@ -1,5 +1,0 @@
-northamerica/unitedstates/arkansas/texarkana
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/kenilworth
-northamerica/unitedstates/florida/homestead
-europe/montenegro/buljarica
-africa/togo/kpalime

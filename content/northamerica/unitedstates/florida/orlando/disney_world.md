@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Walt Disney World
 type: poi
+score: 8.2
 ---
 
 Disney World is not one park but a small city of them. Magic Kingdom is the flagship — the castle, the classic rides, the best park for younger kids. Epcot, twice the size, splits between Future World (science and tech) and the World Showcase, a loop of pavilions representing different countries. Animal Kingdom stretches across 500 acres of landscaped habitat with more than 1,700 animals. Hollywood Studios leans into showbiz and film nostalgia.

@@ -1,5 +1,0 @@
-asia/indonesia/sulawesi/toraja_highland
-asia/cyprus/lefkara
-europe/finland/mikkeli
-africa/egypt/suez
-asia/india/orissa/balasore

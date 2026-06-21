@@ -1,5 +1,0 @@
-northamerica/thecaribbean/puertorico/culebra
-southamerica/chile/laserena
-europe/romania/targoviste
-europe/spain/andalucia/grazalema
-europe/finland/lieksa

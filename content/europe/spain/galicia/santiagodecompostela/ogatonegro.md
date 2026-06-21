@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: O Gato Negro
 type: poi
+score: 6.8
 ---
 
 A no-frills wine bar on Rúa da Raíña, one of the liveliest streets in Santiago's old quarter. The narrow space fills quickly in the evening, with locals and pilgrims standing shoulder to shoulder over glasses of Ribeiro and Albariño. The wine list sticks to Galician producers and prices are very fair.

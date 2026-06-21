@@ -7,6 +7,7 @@ tags:
 - historic_site
 title: Grave of Henri Mouhot
 type: poi
+score: 6.1
 ---
 
 About six kilometres from Luang Prabang, tucked away in the jungle near the Nam Khan river, is the grave of Henri Mouhot, the French naturalist and explorer who brought Angkor Wat to Western attention in the 1860s. He died of malaria near Luang Prabang in 1861, aged just 35, during his third expedition through Southeast Asia.

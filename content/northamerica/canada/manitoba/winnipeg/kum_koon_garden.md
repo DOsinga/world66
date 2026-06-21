@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Kum Koon Garden
 type: poi
+score: 5.8
 ---
 
 Cantonese.Spacious Chinese restaurant in the true Asian style.You could be in Taiwan.Highly rated and reasonably priced.

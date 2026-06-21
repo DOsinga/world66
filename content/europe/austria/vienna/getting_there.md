@@ -3,14 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-By train:
+**By air.** Vienna International Airport (Schwechat / VIE) is 20 kilometres south-east of the city. The CAT (City Airport Train) reaches Wien Mitte in 16 minutes for 14 euros, but the regular S7 ÖBB train does the same trip in 25 minutes for 4 euros — there is no good reason to take the CAT. Buses run to the centre and to both main train stations. Taxi or Uber to the centre is around 40 euros.
 
- Trains from western regions and from Hungary terminate at the **Westbahnhof**, situated on the outer ring road or **Gürtel**, 2 km west of the centre close to Mariahilferstrasse, Vienna's brashest shopping street. From here the U-Bahn metro line U3 leads directly into the city centre. Trains from eastern Europe, Italy and the Balkans arrive at the **Südbahnhof**, 2 km south of the centre. from here tram "D" goes down Prinz-Eugen-Strasse to Schwarzenbergplatz and the Ring. Some trains arrive ar **Wien-Nord** (North of centre, take U-Bahn Praterstern) or at **Franz-Josefs-Bahnhof**, connected to the Ring by tram "D".
+**By train.** Wien Hauptbahnhof is the modern central station (opened 2014) and handles most international and long-distance trains: Munich, Zurich, Budapest, Prague, Bratislava, Berlin, Venice. Westbahnhof handles some commuter and regional services to western Austria and is connected to the Mariahilferstrasse shopping district by the U3.
 
-  By bus:
+**By bus.** Vienna International Bus Terminal (VIB) is on the eastern edge of the centre at the Erdberg U-Bahn station. FlixBus and other international operators arrive here.
 
- Most international buses arrive at Vienna's main bus terminal beside **Wien-Mitte**, on the eastern edge of the city centre (U-Bahn Landstrasse).
-
-  By plane:
-
- Vienna's airport is called **Wien-Schwechat** and is located 20 km outside the centre. It is connected to the city centre by the S-Bahn-line S7, which runs underneath the airport. Trains leave every 30min, taking half an hour to reach Wien-Mitte, near the Ring. In addition, there is a reguler bus, which runs every 20 min o the City Air Terminal, next door to Wien-Mitte. Other buss run from the airport to both main train stations.
+**By boat.** The Twin City Liner runs to Bratislava in 75 minutes from the Schwedenplatz dock. DDSG and other Danube cruise lines call at the Reichsbrücke.

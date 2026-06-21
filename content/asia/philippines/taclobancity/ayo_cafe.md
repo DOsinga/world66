@@ -9,6 +9,7 @@ tags:
 title: "'Ayo Cafe"
 type: poi
 snippet: "Laid-back cafe with local ingredients and great cheesecake"
+score: 4.9
 ---
 
 A small, well-run cafe on Apitong Road serving sandwiches, pastas, salads, and set meals, plus a respectable line in cheesecakes and yogurt mousse pies. Most ingredients are sourced locally, the kitchen is happy to accommodate vegetarians, and there is Wi-Fi. A quieter, daytime alternative to the bars downtown.

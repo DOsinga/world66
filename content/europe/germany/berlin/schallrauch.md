@@ -8,6 +8,7 @@ tags:
 - prenzlauerberg
 title: Schall & Rauch
 type: poi
+score: 6.0
 ---
 
 Schall & Rauch is a laid-back cafe and bar on Gleimstrasse in Prenzlauer Berg, near the U Schönhauser Allee station. The vibe is relaxed and inclusive, with a mixed crowd that keeps the place lively without ever feeling rowdy.

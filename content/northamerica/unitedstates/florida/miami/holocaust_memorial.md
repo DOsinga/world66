@@ -10,6 +10,7 @@ tags:
 - memorial
 title: Holocaust Memorial
 type: poi
+score: 7.6
 ---
 
 One of the most powerful Holocaust memorials in the United States, set in a garden between the Convention Center and the Bass Museum. The centrepiece is a 42-foot bronze arm and hand reaching skyward, covered with nearly a hundred life-size figures of people struggling to climb it. The surrounding meditation garden, reflecting pool, and tunnel of names create a sequence that is genuinely moving. Free to visit.

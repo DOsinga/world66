@@ -9,6 +9,7 @@ tags:
 latitude: 21.3650
 longitude: -157.9500
 story: "On 7 December 1941, 353 Japanese aircraft attacked the naval base at Pearl Harbor in two waves, killing 2,403 Americans and wounding 1,178 others. The attack sank or damaged 19 US Navy ships including 8 battleships, and destroyed 188 aircraft. The USS Arizona alone lost 1,177 of her crew — nearly half the total casualties — and still lies on the harbour floor. More than 900 men remain entombed inside."
+score: 8.8
 ---
 
 The most visited site in Hawaii. The USS Arizona Memorial sits above the sunken battleship, whose rusted hull is still visible through the water six metres below. Oil continues to seep from the wreck — a thin rainbow slick on the surface called the "tears of the Arizona" by locals.

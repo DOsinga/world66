@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Jalan Ampang
 type: poi
+score: 4.2
 ---
 
 One of Kuala Lumpur's main arteries, running northeast from the city center past embassy compounds, shopping complexes, and restaurants. The Ampang Park area near the junction with Jalan Tun Razak clusters several malls and is well connected by LRT.

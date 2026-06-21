@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Baroque riverside promenade with sweeping Elbe valley views"
 latitude: 51.05341
 longitude: 13.740608
+score: 8.6
 ---
 
 The "Balcony of Europe" lives up to the nickname — the view across the Elbe valley from this elevated promenade is one of Dresden's finest. Built on a section of the old city fortifications, the terrace was originally a private Baroque pleasure garden designed by Gottfried Knöffler as a gift from the Elector to Count Brühl.

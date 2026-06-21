@@ -9,6 +9,7 @@ tags:
 title: The Beatles Story
 type: poi
 url: www.beatlesstory.com
+score: 7.8
 ---
 
 The only museum in the world completely dedicated to the Fab Four, established in 1990 at the Albert Dock.

@@ -1,5 +1,0 @@
-europe/switzerland/lescrosets
-asia/china/wuhan
-europe/spain/catalonia/olot
-europe/unitedkingdom/england/south_east/windsor
-africa/kenya/centralhighlands/naromoru

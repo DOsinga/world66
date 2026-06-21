@@ -13,7 +13,7 @@ quick_facts:
   Currency: Moroccan dirham (MAD)
   Imperial Cities: "4"
   Distance to Europe: "14 km"
-score: 0.78
+score: 0.87
 title: Morocco
 type: location
 loc_type: country

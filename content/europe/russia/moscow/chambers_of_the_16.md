@@ -8,6 +8,7 @@ tags:
 - museum
 title: Chambers of the 16th-17th Centuries in Zaryadye
 type: poi
+score: 8.2
 ---
 
 A branch of the State Historical Museum housed in the Chambers of the Romanov Boyars on Varvarka Street, just steps from Red Square. The building itself dates to the 15th century and is one of the oldest surviving civil structures in Moscow.

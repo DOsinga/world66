@@ -1,5 +1,0 @@
-northamerica/unitedstates/vermont/rutland
-europe/germany/bavaria/lichtenfels
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe
-europe/unitedkingdom/england/south_east/brighton
-northamerica/canada/princeedwardisland/souris

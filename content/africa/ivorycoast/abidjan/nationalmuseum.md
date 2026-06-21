@@ -9,6 +9,7 @@ tags:
 - museum
 title: National Museum
 type: poi
+score: 7.9
 ---
 
 The Musee des Civilisations de Cote d'Ivoire, commonly called the National Museum, sits in the Plateau district and holds one of West Africa's more important ethnographic collections. The strength is in traditional masks and wooden sculpture from the Dan, Baoule, and Senufo peoples, along with textiles, pottery, and musical instruments.

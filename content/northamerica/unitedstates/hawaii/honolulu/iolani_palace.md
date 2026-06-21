@@ -11,6 +11,7 @@ tags:
 - chinatown
 title: Iolani Palace
 type: poi
+score: 9.3
 ---
 
 Iolani Palace is the only royal residence on United States territory. Built in 1882 by King David Kalakaua in an American Florentine style, it had electricity before the White House did. The palace served as the royal residence until Queen Liliuokalani was overthrown in 1893 by a group of American businessmen backed by US Marines.

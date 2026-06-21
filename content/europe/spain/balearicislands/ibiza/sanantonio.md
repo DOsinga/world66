@@ -6,6 +6,7 @@ tags:
 - beaches
 title: San Antonio Beach
 type: poi
+score: 6.6
 ---
 
 The main beach at San Antonio de Portmany sits just steps from the town centre, which makes it both the most convenient and the most crowded stretch of sand on the island. It is a wide arc of fine sand with calm, shallow water - good for swimming and for recovering from the night before.

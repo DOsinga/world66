@@ -1,5 +1,0 @@
-europe/italy/liguria/italianriviera/celleligure
-northamerica/unitedstates/texas/brenham
-europe/faroeislands/suuroy/fmjin
-northamerica/unitedstates/montana/deer_lodge
-southamerica/paraguay/villaflorida

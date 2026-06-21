@@ -5,6 +5,7 @@ tags: [beaches]
 snippet: "Long calm beach below Chopstick Mountain's golden Buddha"
 latitude: 12.5450
 longitude: 99.9580
+score: 7.0
 ---
 
 Khao Takiab Bay stretches south from the foot of Khao Takiab (Chopstick Mountain), where a large golden Buddha overlooks the Gulf of Thailand. The beach is wide, the sand is firm, and the water stays calm — waves rarely amount to more than ripples, making it good for swimming.

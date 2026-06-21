@@ -7,6 +7,7 @@ tags:
 - beach
 title: La Manga Del Mar Menor
 type: poi
+score: 5.7
 ---
 
 La Manga is a strip of sand approximately 22kms long which forms a barrier and encloses the Mar Menor - Little Sea- and separates it from the Mar Mayor - Big Sea - or Mediterranean .

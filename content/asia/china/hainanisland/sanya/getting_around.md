@@ -3,20 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-Sanya is a compact city and easy to get around. Taxis are metered but drivers typically speak no English — ask your hotel to write destinations in Chinese. Local buses connect most parts of the city for RMB 1. Bikes can be rented for RMB 20 per hour.
+Sanya is spread out — the centre, Dadonghai, Sanya Bay, Yalong Bay, and Haitang Bay are all several kilometres from each other, so getting around takes some planning.
 
-**Taxi**
+**Metered taxis** are easy to flag down. Drivers almost never speak English; have your destination written in Chinese on your phone or printed on a hotel card. The flagfall is RMB 11 and most cross-town trips run RMB 30-80. Ride-hailing through Didi works well and is often the easier option if you can navigate the app in Chinese.
 
-Taxis are accessible all throughout the place of Sanya. Be reminded that the drivers in Sanya do not speak English. It will be of help to you if you are going to ask someone in your hotel to write your destination so you can show it to the taxi driver. You do not have any problem in paying for your fare because the taxi in Sanya has meters. You can directly see how much you need to pay.
+**City buses** cover all the main districts for RMB 1-3 per ride. Bus 8, 15 and 24 link the centre with the airport, Dadonghai, and Sanya Bay; bus 25 runs between the city and Yalong Bay; bus 28 reaches Haitang Bay. They are slow but cheap.
 
-**Bus **
+**Sanya Metro** opened a single line in 2022 — useful between the city centre and the airport but not yet a comprehensive system.
 
-Sanya is a small city in Hainan, and so by using the local bus, you can reach every area of Sanya. The fare costs only RMB1 per person.
+**Bike rental** is RMB 20-30 per hour from stalls along the Coconut Dream Corridor and the Dadonghai promenade. Useful for the seafront stretches; pointless for cross-town travel given the distances and the heat.
 
-**Car**
-
-A foreigner can tour the city by renting a car. Before the car rental, you have to prepare the needed requirements ahead such as a copy of your passport, international driver&rsquo;s license and the method of your payment (if it is by cash or by credit card). After that, the rented car you have chosen will be delivered to your place.
-
-**Bike**
-
-Bikes can also be used as a way of exploring the beautiful place of Sanya. The place is ideal for mountain biking. It costs RMB20 per hour.
+**Renting a car** is technically possible but rarely worth it for foreign visitors — you need a Chinese driver's licence (international permits are not recognised). Hiring a driver for a day, especially for the run out to Nanshan and Tianya Haijiao, is more practical and not expensive (around RMB 500-700 per day).

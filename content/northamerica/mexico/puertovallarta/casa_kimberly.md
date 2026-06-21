@@ -13,6 +13,7 @@ story: >
   birthday gift, then had the two buildings connected by a pink bridge — the
   "Lovers' Bridge" — so they could pass between them without being seen by the
   press camped out below.
+score: 6.5
 ---
 
 The house where Richard Burton and Elizabeth Taylor lived during and after the filming of *The Night of the Iguana* in 1963. Burton bought a second house across the street for Taylor and connected the two with a bridge, now known as the Lovers' Bridge. Today Casa Kimberly operates as a boutique hotel with nine suites, blue-and-white tiled staircases, 19th-century antiques, and views over Banderas Bay. The Iguana Restaurant inside serves Mexican cuisine with a side of old Hollywood glamour.

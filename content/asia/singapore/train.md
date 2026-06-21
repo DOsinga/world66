@@ -6,6 +6,7 @@ tags:
 - getting_around
 title: MRT & LRT
 type: poi
+score: 7.0
 ---
 
 Singapore's Mass Rapid Transit (MRT) is the backbone of the city's public transport network — fast, air-conditioned, and cheap. The system covers the whole island with five main lines (North-South, East-West, North-East, Circle, and Downtown), plus two Light Rapid Transit (LRT) feeders serving the northeastern suburbs of Sengkang and Punggol.

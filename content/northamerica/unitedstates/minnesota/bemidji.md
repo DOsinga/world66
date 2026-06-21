@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
 image: bemidji.jpg
 image_attribution: Unknown
 image_license: Copyrighted free use
 image_source: https://commons.wikimedia.org/wiki/File:Paul_Bunyan_and_Babe_statues_Bemidji_Minnesota_full.jpg
 latitude: 47.4723
+loc_type: city
 longitude: -94.8833
 score: 0.36
 title: Bemidji
 type: location
-loc_type: city
 ---
 
 Bemidji sits on the southwest shore of Lake Bemidji in northern Minnesota, a small college town surrounded by pine forests and more than 400 lakes. It is best known for the giant statues of Paul Bunyan and Babe the Blue Ox on the lakeshore — one of the great American roadside attractions, standing here since 1937.

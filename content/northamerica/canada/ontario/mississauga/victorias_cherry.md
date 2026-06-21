@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Victoria's Cherry Hill Restaurant
 type: poi
+score: 5.0
 ---
 
 Housed in the historic Cherry Hill House, Mississauga's oldest surviving building, Victoria's serves Italian dishes in a setting with genuine character. Open for dinner Monday to Saturday.

@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Amerigo Vespucci
 type: poi
+score: 4.6
 ---
 
 An Italian restaurant in central Bremen. Reliable pasta and pizza in a relaxed setting. Convenient for the old town.

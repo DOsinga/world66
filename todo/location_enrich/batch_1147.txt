@@ -1,5 +1,0 @@
-europe/italy/puglia/monopoli
-europe/unitedkingdom/england/south_east/berkhampsted
-europe/unitedkingdom/england/eastern_england/colchester
-europe/belgium/veurne
-southamerica/venezuela/ciudadbolivar

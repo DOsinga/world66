@@ -3,8 +3,12 @@ address: Red Square
 category: Sight
 latitude: 55.753591
 longitude: 37.621501
+tags:
+- things_to_do
+- sight
 title: Cathedral of Vasily the Blessed
 type: poi
+score: 9.6
 ---
 
 Cathedral of Vasily the Blessed (the Cathedral of the Intercession, known as St.Basil Cathedral) is a beautiful and unique creation of Russian national art.

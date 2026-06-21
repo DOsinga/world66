@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Sa Bertula
 type: poi
+score: 5.4
 ---
 
 A no-frills trattoria near the train station serving honest Sardinian home cooking. The menu sticks to the basics — culurgiones (Sardinian stuffed pasta), roast pork, and whatever is seasonal. Portions are generous and prices are fair. Not the place for a fancy night out, but exactly the kind of spot where locals eat lunch.

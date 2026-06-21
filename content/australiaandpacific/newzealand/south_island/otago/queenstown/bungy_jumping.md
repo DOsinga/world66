@@ -17,6 +17,7 @@ tags:
 title: Bungy Jumping
 type: poi
 url: https://www.ajhackett.com
+score: 8.5
 ---
 
 AJ Hackett runs three bungy sites in the Queenstown area. The original Kawarau Bridge jump (43m) lets you watch others leap before you commit. The Nevis Highwire (134m) is the highest in New Zealand and gives you 8.5 seconds of freefall. Book from The Station on the corner of Camp and Shotover Streets, which also handles most other adventure activities in town.

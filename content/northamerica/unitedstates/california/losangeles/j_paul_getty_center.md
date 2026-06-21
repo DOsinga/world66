@@ -16,6 +16,7 @@ tags:
 title: J. Paul Getty Center
 type: poi
 url: www.getty.edu
+score: 9.3
 ---
 
 The Getty Center sits high on a ridge in the Santa Monica Mountains, and even if the art didn't exist it would be worth the trip for the Richard Meier architecture and sweeping views over the city to the ocean. The collection is outstanding — European paintings, illuminated manuscripts, decorative arts — and admission is free. Budget a full afternoon.

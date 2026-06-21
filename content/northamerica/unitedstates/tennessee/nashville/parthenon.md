@@ -13,6 +13,7 @@ tags:
 - landmark
 title: The Parthenon
 type: poi
+score: 8.1
 ---
 
 A full-scale replica of the Athenian Parthenon, standing in Centennial Park at the west end of Vanderbilt's campus. Built in plaster for Tennessee's centennial exposition in 1897 and reconstructed in concrete in the 1920s, it is the only full-size Parthenon in the world outside Athens. Inside, a 42-foot gilded statue of Athena Parthenos — the largest indoor sculpture in the western hemisphere — fills the nave.

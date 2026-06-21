@@ -13,7 +13,7 @@ quick_facts:
   Visa: "30-day visa-free via Minsk airport"
   Forest Cover: "40% of the country"
   Białowieża Forest: "Last primeval lowland forest in Europe"
-score: 0.33
+score: 0.42
 title: Belarus
 type: location
 loc_type: country
@@ -33,7 +33,7 @@ The very word Belarus should inspire visions of beauty and kindness, if it does 
 [Minsk](/europe/belarus/minsk)
 [Brest](/europe/belarus/brest)
 [Vitebsk](/europe/belarus/vitebsk)
-[Grodno](/europe/belarus/grodno)
+[Grodno](/europe/belarus/hrodna_grodno)
 [Gomel](/europe/belarus/gomel)
 [Slutsk](/europe/belarus/slutsk)
 [Pinsk](/europe/belarus/pinsk)

@@ -7,6 +7,7 @@ tags:
 latitude: -6.1622
 longitude: 39.1921
 snippet: "East Africa's largest cultural festival in Stone Town each July"
+score: 8.5
 ---
 
 The Zanzibar International Film Festival, known as the Festival of the Dhow Countries, is the largest annual cultural event in East Africa and one of the major festivals on the continent. Held over two weeks in early July, it celebrates the arts and cultures of the African continent, India, Pakistan, the Gulf States, Iran, and the Indian Ocean islands.

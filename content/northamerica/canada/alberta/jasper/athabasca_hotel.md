@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Athabasca Hotel
 type: poi
+score: 5.1
 ---
 
 The Athabasca is Jasper's grand old hotel and its bar scene is the liveliest in town. The nightclub upstairs hosts live bands and dancing, while the pub and games room next door are more laid-back. O'Shea's Lounge has big-screen TV and video lottery. Open until 2 am. 510 Patricia Street.

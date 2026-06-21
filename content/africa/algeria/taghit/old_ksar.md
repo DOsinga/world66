@@ -6,6 +6,7 @@ longitude: -2.0230
 tags:
 - things_to_do
 - sight
+score: 8.6
 ---
 
 A fortified village of mud-brick and stone cascading down the rocky hillside above modern Taghit. The ksar was inhabited for centuries — its position on the cliff between the palm groves and the desert made it both defensible and close to water. It has been largely abandoned since the mid-20th century as residents moved to the newer town below, but the structure remains remarkably intact.

@@ -8,6 +8,7 @@ tags:
   - ancient_ruins
 latitude: 36.87910
 longitude: 30.65871
+score: 4.2
 ---
 
 Olbia was the westernmost city of ancient Pamphylia — a small coastal settlement at the point where the fertile plain of Pamphylia ended and the rocky Lycian coast began. The ruins on the western edge of Antalya are modest: some wall sections and building foundations scattered among the pines near the Konyaaltı beach headland. They are easily missed.

@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Sólon
 type: poi
+score: 5.9
 ---
 
 A bistro-bar-club on the corner of Bankastræti and Ingólfsstræti that manages to be a sensible coffee stop in the morning and a properly loud nightclub on weekends. Good for a beer and a light meal early; on Friday and Saturday it stays open until 5:30 am with DJs upstairs.

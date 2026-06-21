@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: La Sacrestia
 type: poi
+score: 6.3
 ---
 
 Elegant restaurant in the Posillipo neighbourhood serving authentic Neapolitan cuisine. The signature dish, Prince of Naples, is a rich macaroni with truffles and aged cheese. Seafood features prominently across the menu. Smart dress expected.

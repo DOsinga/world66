@@ -9,6 +9,7 @@ tags:
 - sight
 title: Fortezza di San Martino
 type: poi
+score: 6.4
 ---
 
 A sixteenth-century fortress built on the orders of Cosimo de' Medici, 1st Grand Duke of Tuscany, to defend the Mugello valley. A footpath runs around the fortifications, giving good views over the valley and town below.

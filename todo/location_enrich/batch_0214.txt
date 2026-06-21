@@ -1,5 +1,0 @@
-europe/ireland/dalkey
-europe/iceland/reykjavik
-asia/pakistan/nushki
-northamerica/unitedstates/newmexico/clovis
-northamerica/unitedstates/massachusetts/marthasvineyard

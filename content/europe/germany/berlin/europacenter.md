@@ -11,6 +11,7 @@ tags:
 - charlottenburg
 title: Europa Center
 type: poi
+score: 5.2
 ---
 
 A 22-storey shopping and entertainment complex built in the 1960s at Breitscheidplatz, right next to the Kaiser Wilhelm Memorial Church. The centrepiece inside is the Mengenlehreuhr — a peculiar multi-tiered water clock from 1975 that tells time through bubbling coloured liquid. The building houses cafés, restaurants, and shops across multiple floors.

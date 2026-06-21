@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: 1866 Street Market
 type: poi
+score: 7.6
 ---
 
 The covered street market running south from Lions Square toward the old harbour is the most atmospheric part of Iraklion — a loud, narrow lane packed with stalls selling Cretan olive oil, honey (Cretan thyme honey is exceptional), dried herbs, cheeses, fresh fish, and meat. It has the character of a Levantine souk more than a tourist market. Merchants bargain, older women haul trolleys through the crowd, and the smells of herbs and fresh produce compete with coffee from the nearby cafes.

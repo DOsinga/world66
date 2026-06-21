@@ -10,6 +10,7 @@ tags:
 - sights
 title: Hwaseong Fortress
 type: poi
+score: 9.2
 ---
 
 Hwaseong is an 18th-century fortress wall that loops nearly six kilometres around the old centre of Suwon. Built between 1794 and 1796 by King Jeongjo to honour his father — who died after being locked in a rice chest by political rivals — it combines Korean, Chinese, and European fortification techniques in a way that was remarkably advanced for its time. The walls incorporate watchtowers, floodgates, command posts, and a beacon tower, all connected by a walkable parapet.

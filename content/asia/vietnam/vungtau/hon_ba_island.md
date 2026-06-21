@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "A short tunnel is said to run from beneath the temple down to the sea, used by 19th-century followers to escape French raids. The story is repeated by every guide, and the entrance — if it exists — has never been found."
+score: 6.9
 ---
 
 Hòn Bà is a small rocky island a hundred metres off Mũi Nghinh Phong, with a single small pagoda perched on top. At low tide a stone causeway emerges from the sea and you can walk out across the rocks; at high tide the island is cut off.

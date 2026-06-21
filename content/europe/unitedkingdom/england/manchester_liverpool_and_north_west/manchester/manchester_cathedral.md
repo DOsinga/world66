@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Manchester Cathedral
 type: poi
+score: 8.5
 ---
 
 A medieval foundation restored and extended in Victorian times, with visible remains of the original church. The carved misericords in the choir stalls are among the finest in England — look for the comic scenes of everyday medieval life hidden beneath the seats.

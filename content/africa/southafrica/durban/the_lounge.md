@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: The Lounge
 type: poi
+score: 6.4
 ---
 
 Durban's best-known alternative and LGBTQ+ venue, on Stamford Hill Road. Five bars across two floors, pool tables, lounges, and a friendly mixed crowd that keeps it busy late into the night. Open till the small hours, particularly at weekends.

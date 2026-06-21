@@ -8,6 +8,7 @@ tags:
 - sights
 title: Galdhøpiggen
 type: poi
+score: 8.8
 ---
 
 At 2469 metres, Galdhøpiggen is the highest mountain in Norway and the highest peak in all of Scandinavia. It sits in the Jotunheimen range, which translates roughly as "Home of the Giants" — appropriately enough when you're standing on the summit.

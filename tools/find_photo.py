@@ -34,9 +34,12 @@ import httpx
 from PIL import Image
 from dotenv import load_dotenv
 
-SCRIPT_DIR = Path(__file__).parent
-CONTENT_DIR = SCRIPT_DIR.parent / 'content'
-PROGRESS_FILE = SCRIPT_DIR / 'photo_progress.json'
+SCRIPT_DIR = Path(__file__).resolve().parent
+# Prefer CWD/content so the script writes into the active worktree rather than
+# the checkout that owns this file.
+_CWD_CONTENT = Path.cwd() / 'content'
+CONTENT_DIR = _CWD_CONTENT if _CWD_CONTENT.is_dir() else SCRIPT_DIR.parent / 'content'
+PROGRESS_FILE = CONTENT_DIR.parent / 'tools' / 'photo_progress.json'
 
 MIN_WIDTH = 780
 MIN_HEIGHT = 438
@@ -511,7 +514,7 @@ def update_frontmatter(md_path: Path, filename: str, source_url: str, license_st
     """Update the markdown file's frontmatter with image fields.
 
     If the file already has duplicate image_* keys from an older write,
-    run `python3 tools/check_frontmatter.py --fix` first to clean them up.
+    run `python3 tools/linter.py --fix` first to clean them up.
     """
     post = frontmatter.load(md_path)
     post['image'] = filename

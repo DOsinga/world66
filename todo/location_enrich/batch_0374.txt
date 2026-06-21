@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/daytona_beach
-asia/taiwan/taipei
-asia/cambodia/kampongcham
-asia/northkorea/kuwolsan
-europe/spain/castellon/benicssim

@@ -18,6 +18,7 @@ tags:
 - sight
 title: Pöstlingberg
 type: poi
+score: 8.0
 ---
 
 A wooded hill rising 255 metres above the Danube, with a twin-towered pilgrimage church at the top visible from much of the city. The main reason to come up is the view over Linz and the valley, which is genuinely good on a clear day. The tram from the Urfahr district on the north bank is the nicest way to arrive — it's a slow, creaking ride through gardens and small station stops, and the whole thing takes about 20 minutes.

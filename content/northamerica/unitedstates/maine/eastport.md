@@ -1,12 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-31'
+image: eastport.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Eastport,_Maine_waterfront.jpg
 latitude: 44.905
+loc_type: city
 longitude: -66.9846
+score: 0.43
+sources:
+- https://en.wikipedia.org/wiki/Eastport,_Maine
+- https://en.wikipedia.org/wiki/Old_Sow
+- https://en.wikipedia.org/wiki/Raye%27s_Mustard_Mill
 title: Eastport
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Eastport is the easternmost city in the United States, perched on Moose Island at the mouth of the Bay of Fundy where the tides are among the highest on the American coast -- over 20 feet between high and low water. The town has a quiet, end-of-the-road character that appeals to artists, writers, and travelers looking to get genuinely off the beaten path. You are closer to New Brunswick, Canada than to any city in Maine.

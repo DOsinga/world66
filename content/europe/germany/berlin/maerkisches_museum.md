@@ -11,9 +11,11 @@ snippet: Berlin's city history museum in a neo-Gothic Spree-side building
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Märkisches Museum
 type: poi
 url: www.stadtmuseum.de
+score: 7.7
 ---
 
 The city museum of Berlin, housed in a striking neo-Gothic building on the banks of the Spree. The permanent exhibition explores Berlin's history through themes like "the nobility and the military" and "theatre city". Come on a Sunday at 3pm for the Automatophone demonstration — the museum's collection of mechanical musical instruments plays live.

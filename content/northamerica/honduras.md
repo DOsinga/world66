@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$3–4"
   Mesoamerican Barrier Reef: "World's second-largest, off the Bay Islands"
   Copán Stelae: Carved Maya portraits unlike any other site
-score: 0.44
+score: 0.52
 loc_type: country
 ---
 

@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Trollenkelder
 type: poi
+score: 6.3
 ---
 
 A dimly lit beer bar in a vaulted medieval cellar near Sint-Jacobs. The list leans heavily toward Trappist and abbey beers, including Westvleteren when they can get it. The staff know their beer and will steer you well if you ask. The cellar atmosphere is genuine -- low ceilings, stone walls, a decorative gallows -- and the crowd is mostly locals rather than tourists.

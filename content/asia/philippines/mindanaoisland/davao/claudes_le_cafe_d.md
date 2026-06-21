@@ -4,6 +4,7 @@ tags:
 - cafe
 title: Claude's Le Cafe de Ville Restaurant
 type: poi
+score: 5.8
 ---
 
 French and Continental dining.

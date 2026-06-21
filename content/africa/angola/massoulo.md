@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: -8.88
 longitude: 13.23
 title: Massoulo

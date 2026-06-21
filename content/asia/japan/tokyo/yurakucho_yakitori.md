@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Yurakucho Yakitori Alley
 type: poi
+score: 8.3
 ---
 
 Under the elevated Yamanote Line tracks between Yurakucho and Shimbashi stations, a string of yakitori restaurants occupies the arches — cramped, smoky, noisy with office workers unwinding after work. This is the authentic post-work drinking and eating culture of Tokyo at its most vivid.

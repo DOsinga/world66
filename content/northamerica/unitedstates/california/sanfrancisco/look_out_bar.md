@@ -10,6 +10,7 @@ tags:
 neighbourhood: Castro District
 title: Look Out Bar
 type: poi
+score: 6.2
 ---
 
 A second-floor bar with a balcony perfect for watching the Market Street parade of humanity below. On a warm day, the outdoor perch is one of the best people-watching spots in the Castro. Look up when you arrive -- it is easy to walk right past the entrance.

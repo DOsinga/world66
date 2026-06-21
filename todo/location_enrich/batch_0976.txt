@@ -1,5 +1,0 @@
-africa/libya/awjila
-europe/italy/emiliaromagna/pomposa
-northamerica/nicaragua/lakenicaragua
-northamerica/mexico/chetumal
-northamerica/unitedstates/newmexico/elmapais

@@ -1,13 +1,14 @@
 ---
 latitude: 40.7709
 longitude: -111.8913
-snippet: "Free guided tours of Temple Square's ornamental gardens"
 tags:
-- sights
-title: Garden Tours
+- things_to_do
+- sight
+title: Temple Square Garden Tours
 type: poi
+score: 5.4
 ---
 
-Free tours of the gardens surrounding the Church Office Building Plaza run from April through September. Tours depart Monday to Saturday at 10 am, noon, 2 pm and 4 pm, with additional evening tours at 7 pm on Tuesday, Wednesday and Thursday. Meet in the lobby of the Church Office Building. Sunday tours follow the Tabernacle Choir broadcast — meet at the East gate of Temple Square at 10:15 am.
+Free guided tours of the ornamental gardens surrounding the Church Office Building Plaza run April through September. Tours depart Monday through Saturday at 10am, noon, 2pm, and 4pm from the Church Office Building lobby, with additional evening tours at 7pm on Tuesday, Wednesday, and Thursday. Sunday tours follow the Tabernacle Choir broadcast.
 
-The gardens include an English cottage garden and a variety of themed display beds with over 500 varieties of flowers. A free brochure listing all the plants is available on the tour.
+The gardens contain over 500 varieties of flowers arranged in English cottage beds and themed display areas. It is a pleasant way to spend an hour while visiting the Temple Square complex, particularly in spring and early summer when the flower beds are at their best. A free printed brochure identifying the plants is available on the tour.

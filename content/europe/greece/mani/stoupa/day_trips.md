@@ -1,6 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/greece/kalamata
 ---
 
 **Kardamyli** (15km north) is the most rewarding short trip. The old village has a beautiful stone Ktenas tower-house complex, a Byzantine church of Agios Spyridon, and good tavernas. The gorge of Vyros, above the village, is one of the best hikes in the Peloponnese — two gorges converging, with plane trees, springs, and abandoned chapels. Patrick Leigh Fermor lived in Kardamyli for decades and wrote about the Mani here.

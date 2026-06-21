@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 1.092698
+loc_type: city
 longitude: 9.665485
+score: 0.18
 title: Acalayong
 type: location
-score: 0.18
-loc_type: city
 ---
 
 Acalayong is the southernmost town in mainland Equatorial Guinea and sees very few tourists. It consists of some fifty buildings huddled on the shore of a broad estuary near the Gabonese border.

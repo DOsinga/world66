@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
 latitude: 40.066103
 longitude: -2.131353
 title: Cuenca

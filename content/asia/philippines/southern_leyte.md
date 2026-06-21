@@ -19,4 +19,4 @@ The province is best known to travellers, however, for the **whale sharks** that
 - [Bontoc](/asia/philippines/southern_leyte/bontoc)
 - [St Bernard](/asia/philippines/southern_leyte/stbernard)
 - [Hinunangan](/asia/philippines/southern_leyte/hinunangan)
-- [Silago](/asia/philippines/southern_leyte/silago_southern_l)
+- Silago

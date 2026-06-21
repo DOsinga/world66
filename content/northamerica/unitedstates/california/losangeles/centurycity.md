@@ -4,7 +4,7 @@ done:
 latitude: 34.057359
 longitude: -118.414613
 title: Century City
-type: location
+type: neighbourhood
 score: 0.36
 loc_type: city
 ---

@@ -12,6 +12,7 @@ tags:
 - charlottenburg
 title: Wassily Depot
 type: poi
+score: 5.9
 ---
 
 A curated shop for fans of classic furniture, lamps, and living accessories in the Charlottenburg neighborhood. Wassily Depot stocks mid-century modern pieces and design classics, well worth a browse if you're into twentieth-century design.

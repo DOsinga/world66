@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - temple
 snippet: Three-storey chorten-shaped temple from 1421, unusual in Bhutan
+score: 7.7
 ---
 
 A small but unusual temple on the western bank of the Paro Chhu, built in 1421 by the Tibetan saint Thangtong Gyalpo — the same iron-bridge builder credited with engineering feats across the Himalayas. Where most Bhutanese temples are rectangular, Dumtseg is shaped like a chorten: a three-storey stupa structure with each floor representing one of the three Buddhist realms — hell, earth, and heaven. The murals inside, climbed via a ladder-like staircase, are among the finest surviving in Bhutan.

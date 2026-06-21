@@ -1,5 +1,0 @@
-europe/belgium/bastogne
-europe/romania/iasi
-northamerica/unitedstates/newjersey/greateggharbor
-europe/germany/thuringia/gera
-africa/tunisia/nabeul

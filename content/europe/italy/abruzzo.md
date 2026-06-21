@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 42.227681
+loc_type: region
 longitude: 13.854983
 score: 0.6
 title: Abruzzo
 type: location
-loc_type: region
 ---
 
 Abruzzo is a mountainous region northeast of [Rome](/europe/italy/lazio/rome), squeezed between the Apennines and the Adriatic. Two-thirds of it is above 500 metres — this is the highest, wildest part of central Italy, and the reason much of it is still in national parks.

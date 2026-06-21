@@ -12,6 +12,7 @@ tags:
 - sight
 title: Ħaġar Qim Temples
 type: poi
+score: 9.2
 ---
 
 The larger of the two temple complexes near Qrendi, Ħaġar Qim stands on the edge of a limestone ridge with views down to the sea. The megalithic blocks are enormous — the largest weighs over 20 tonnes — and the builders had only stone tools and human muscle. The site includes an outer forecourt, multiple apse chambers, and several altars, some decorated with pitted relief carving. A tensioned canopy protects the soft globigerina limestone from further weathering. Open daily; combined ticket with Mnajdra.

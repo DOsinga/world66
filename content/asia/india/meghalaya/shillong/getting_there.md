@@ -1,13 +1,12 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-The nearest **Airport** to Shillong is the Umroi Airport near Barapani about 25 kms from Shillong, which is connected with ATR flights Alliance Air (Subsidiary of Indian Airlines) with Kolkata only. There are however, helicoptar flights of Pawan Hans connecting Shilong with Guwahati and other towns of Meghalaya like Tura. But most covenient airport is Guwahati, which is about 125 Kms away from Shillong. Guwahati is connected by flights of Indian Airlines, Jet Airways, Sahara Airlines, Alliance Air & Deccan Airways regularly directly from Delhi & Guwahati and offering connecting flights to Mumbai, Chennai, Hyderabad, Bangalore, and all imporatnt citites of India. There is also a bi-weekly flight between Guwahati and Bangkok.
+Shillong has no useful airport of its own — the small Umroi field handles only a sporadic ATR service from Kolkata. The standard approach is via **Guwahati**, in Assam, which has direct flights from Delhi, Mumbai, Kolkata, Bangalore, and most major Indian cities, plus weekly international links to Singapore and Bangkok.
 
-Nearest **Rail station** to Shillong is Guwahati, which is connected with direct broad gauge trains like Rajdhani Express (from Delhi) and other direct trains from Delhi, Kolkata, Bhubaneswar, Bangalore, Hyderanad, Chennai, Trivandrum, Kochi, Jaipur/Jodhpur, Jammu Tawi, Mumbai etc.
+From Guwahati Airport or railway station, **shared Tata Sumo taxis** are the workhorse — they leave from near Paltan Bazar throughout the day and take about three hours to Shillong, dropping passengers at Police Bazar. Reserved private taxis cost around four to five times more. State and private **buses** run the same route in three to four hours.
 
-From Guwahati, you can reach Shillong by **shared Taxis** like Tata Sumo, Tata Indica & others (can also be reserved fully), Delux & ordinary tourist **Buses** (both Private & Govt.), which are vailable from terminus adjacent to Guwahati Rail station.These vehicles operate through out the day and very large number in each category are vailable. The road distance from Guwahati to Shillong is about 100 kms and takes about 2.5 hours by taxis and about 3 hours by buses.
+Helicopter shuttles operated by Pawan Hans connect Guwahati and Shillong in around twenty minutes, but schedules are erratic and frequently cancelled in monsoon.
 
-**Contributors**
-June 24, 2005
+The road from Guwahati climbs steadily through Assam plains, past the **Umiam Lake** viewpoint (a popular photo stop), before topping out at Shillong's plateau.

@@ -1,33 +1,8 @@
 ---
-address: 11161 E. 25TH ST
-email: scgcyuma@msn.com
-latitude: 39.804477
-longitude: -85.969958
-phone: 928-539-0830
-title: Eating Out
-type: poi
+title: "Eating Out"
+type: section
 ---
 
-When in Magdalena do not leave without tasting the most delicious corn cocktail in Sonora, the yellow cart is in the Juarez plaza usually there after 4 pm,
+Magdalena is in the heart of Sonoran beef country: carne asada, machaca, and big flour tortillas. The Plaza Monumental is ringed with simple restaurants and food carts, and several of the better steakhouses sit on the highway south.
 
-### [El Toror](/northamerica/mexico/magdalena_de_kino/eating_out/el_toror)
-
-Excellent Sonoran styled beef with warm and inviting hospitality.
-
-Highly recommended.Clean and Modern.
-
-**EL TORO STEAK HOUSE
-**(632)322-0375, (632)322-4110
-NIÑOS HEROES S/N, Col. LA VICTORIA, C.P. 84160
-
-type: Local
-
-
-
-[[rate it]](/northamerica/mexico/magdalena_de_kino/eating_out/el_toror)
-
-tel: 928-539-0830
-
-address: 11161 E. 25TH ST
-
-email: scgcyuma@msn.com
+For Sonoran-style steak in a more polished setting try **El Toro Steak House** on Niños Héroes — generous portions, attentive service, modest prices. Around the plaza, look for a yellow cart in the late afternoon selling **esquites** (corn cocktail) heaped with mayonnaise, chile, lime, and cheese; it is excellent, perhaps the best in Sonora. **El Patio** does decent breakfast huevos rancheros and chilaquiles.

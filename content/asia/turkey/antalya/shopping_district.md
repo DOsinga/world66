@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 36.88900
 longitude: 30.70200
+score: 5.3
 ---
 
 Atatürk Caddesi is the main shopping street of modern Antalya, running north from the edge of Kaleiçi through the Muratpaşa district. It has all the usual Turkish high-street brands, but more interesting are the side streets leading off it where you find jewellery workshops, fabric shops, and small family-run specialists.

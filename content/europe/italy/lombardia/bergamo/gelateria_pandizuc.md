@@ -11,6 +11,7 @@ tags:
 - bar
 title: Gelateria Pandizucchero
 type: poi
+score: 5.5
 ---
 
 One of the best ice cream bars around Bergamo, it has a line of people in front of it and another line of cars parked all around. You'll find it in Almè on the road from Bergamo to Brembana Valley (bus 9 A/B). The range covers gelato, ice cream cakes, semi-cold cakes, and single or group portions dressed up with decorations — the kind of thing that makes Italians very serious about ice cream indeed.

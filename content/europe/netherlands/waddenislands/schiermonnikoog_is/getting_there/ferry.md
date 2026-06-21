@@ -10,6 +10,7 @@ snippet: "Only ferry link from the mainland to the island"
 tags:
 - getting_there
 - transport
+score: 5.6
 ---
 
 Wagenborg Ferries runs the only scheduled service from Lauwersoog harbour on the Frisian mainland to Schiermonnikoog. The crossing takes about 45 minutes and runs several times a day year-round, with extra sailings in summer. Buy tickets at the Wagenborg terminal in Lauwersoog or online via wpd.nl.

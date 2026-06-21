@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-13'
 latitude: -28.2925
+loc_type: city
 longitude: -49.9353
+score: 0.44
 title: São Joaquim
 type: location
-score: 0.44
-loc_type: city
 ---
 
 São Joaquim sits at around 1,360 metres in the Serra Catarinense highlands of Santa Catarina state, making it one of the coldest towns in Brazil. Snow falls here most winters — a genuine novelty in a country more associated with beaches and heat — and when it does, Brazilians from across the south drive up to see it.

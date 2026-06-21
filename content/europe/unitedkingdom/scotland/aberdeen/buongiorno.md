@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Buongiorno
 type: poi
+score: 3.3
 ---
 
 Italian-influenced cafe on the Aberdeen beach esplanade, handy for a coffee or ice cream after a walk along the seafront.

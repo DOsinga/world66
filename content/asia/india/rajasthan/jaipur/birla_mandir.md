@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Birla Mandir
 type: poi
+score: 5.8
 ---
 
 This white marble temple dedicated to Lakshmi and Narayan sits at the base of Moti Dungri hill. It looks particularly striking when illuminated at night. The temple is modern (built in 1988) but the craftsmanship is impressive, with stained glass panels and marble carvings throughout.

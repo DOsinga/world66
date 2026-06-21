@@ -11,6 +11,7 @@ tags:
 - monument
 title: Hyde Park
 type: poi
+score: 6.8
 ---
 
 Sydney's oldest public park, right in the heart of the CBD. The Anzac Memorial at the southern end is worth a visit, and the fig-tree-lined avenues make for a pleasant shortcut through the city centre.

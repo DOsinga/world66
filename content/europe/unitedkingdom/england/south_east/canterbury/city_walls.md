@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 51.28142
 longitude: 1.07567
+score: 8.1
 ---
 
 Canterbury was first walled by the Romans in the late third century, and the medieval walls — substantially rebuilt by Archbishop Sudbury in the 1370s — follow that same line. About half the original circuit survives, and a footpath runs along the top of the eastern and southern sections, giving a free aerial tour of the old town.

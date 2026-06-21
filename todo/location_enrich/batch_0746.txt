@@ -1,5 +1,0 @@
-africa/angola/lubango
-europe/iceland/hofn
-europe/italy/lazio/civita_castellana
-europe/greece/thassos_island
-australiaandpacific/newzealand/south_island/west_coast/westland

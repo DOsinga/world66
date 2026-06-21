@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: grandportage.jpg
+image_attribution: Tony Webster from Minneapolis, Minnesota, United States
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bay_Road_-_Grand_Portage_Bay,_Minnesota_(37085697784).jpg
 latitude: 47.9638
+loc_type: city
 longitude: -89.6848
+score: 0.42
 title: Grand Portage
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Grand Portage sits on the shore of Lake Superior in the far northeastern corner of Minnesota, about as close to Canada as you can get without crossing the border. The main draw is Grand Portage National Monument, which preserves the site of an 18th-century fur trade headquarters where voyageurs, Ojibwe families, and North West Company agents gathered each summer for a grand rendezvous of trade and negotiation.

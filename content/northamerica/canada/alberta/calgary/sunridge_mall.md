@@ -11,6 +11,7 @@ tags:
 title: Sunridge Mall
 type: poi
 url: www.sunridgemall.com
+score: 4.6
 ---
 
 Sunridge Mall is the largest shopping centre in North East Calgary. It is friendly and convenient one-stop shopping with over 160 stores and services, including Canada's largest Sport Chek, The Bay, Zellers and World Health Club with an exclusively women's fitness centre, Revive.

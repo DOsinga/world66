@@ -1,11 +1,13 @@
 ---
 latitude: 1.299
 longitude: 103.8519
+score: 7.6
 snippet: Singapore's most popular Chinese temple since 1884
 tags:
 - things_to_do
 - sight
 - sights
+- bugis
 title: Kuan Yin Temple
 type: poi
 ---

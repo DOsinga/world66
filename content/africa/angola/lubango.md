@@ -1,10 +1,16 @@
 ---
-title: Lubango
-type: location
+done:
+  location_enrich: '2026-05-14'
+image: lubango.jpg
+image_attribution: Edward Middleton
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Angola_in_the_everyday.jpg
 latitude: -14.919562
+loc_type: city
 longitude: 13.489751
 score: 0.35
-loc_type: city
+title: Lubango
+type: location
 ---
 
 Lubango is the capital of Huila province and one of Angola's most pleasant cities, sitting at around 1,700 metres on a high plateau with a dramatic mountain backdrop. The cool climate, the jacaranda-lined streets, and the relative calm compared to [Luanda](/africa/angola/luanda) make it a refreshing stop in a country where comfortable travel can be hard to come by.

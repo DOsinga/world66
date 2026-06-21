@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/south_east/basingstoke
-northamerica/canada/ontario/campbellford
-asia/india/uttarpradesh/noida
-northamerica/unitedstates/oklahoma/bethany
-europe/spain/catalonia/terrassa

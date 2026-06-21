@@ -4,9 +4,9 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 1.2937
 longitude: 103.8526
+score: 5.5
 snippet: Major mall above City Hall MRT with dining and retail
 tags:
-- things_to_do
 - shopping
 title: Raffles City Shopping Centre
 type: poi

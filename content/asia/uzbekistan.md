@@ -15,7 +15,7 @@ quick_facts:
   Budget Meal: "~$2–3"
   Silk Road UNESCO Sites: "5"
   Aral Sea Shrinkage: "90% lost since 1960"
-score: 0.55
+score: 0.77
 loc_type: country
 ---
 

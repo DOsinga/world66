@@ -1,5 +1,0 @@
-asia/pakistan/moenjodaro
-europe/poland/gdansk
-europe/montenegro/perast
-asia/srilanka/colombo
-northamerica/unitedstates/indiana/richmond

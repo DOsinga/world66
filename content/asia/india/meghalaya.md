@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+image: meghalaya.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dawki_River,_Meghalaya,_India.jpg
 latitude: 25.537943
+loc_type: region
 longitude: 91.29991
 score: 0.59
 title: Meghalaya
 type: location
-loc_type: region
 ---
 
 Meghalaya — *abode of the clouds* in Sanskrit — is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtropical forest. Waterfalls cascade through jungle ravines, and ancient living-root bridges — grown over centuries from the roots of rubber fig trees — still carry people across mountain streams.

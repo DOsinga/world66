@@ -4,6 +4,7 @@ tags:
 - shopping
 title: Baan Tawai more than a wood carving village
 type: poi
+score: 6.7
 ---
 
 Night Bazzaar is nothing compared to the offerings in Baan Tawai. It is now become the shopper heaven of the north of Thailand. It is famous with Thai travellers as the place to get anything at a good price from a 12 foot wooden elephant to the perfect textile hanging for the summer home.

@@ -1,5 +1,0 @@
-europe/italy/puglia/alberobello
-northamerica/canada/alberta/jasper
-northamerica/unitedstates/colorado/telluride
-asia/india/karnataka/hubli
-europe/czechrepublic/karlovyvary

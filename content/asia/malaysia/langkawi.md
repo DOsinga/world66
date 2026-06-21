@@ -2,12 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-16'
+image: langkawi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Eagle_square_at_Kuah_Langkawi.jpg
 latitude: 6.370039
+loc_type: city
 longitude: 99.792863
 score: 0.73
 title: Langkawi
 type: location
-loc_type: city
 ---
 
 Langkawi is an archipelago of ninety-nine islands tucked against the Thai border in the northwest corner of peninsular Malaysia, and the main island shares the name. White sand, warm water, limestone karsts, mangrove forests, and eagles wheeling overhead: it's the beach holiday that Malaysia knows how to do well, and since it was declared a duty-free zone in 1987, prices are famously cheap.

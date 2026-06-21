@@ -1,5 +1,0 @@
-africa/egypt/siwa
-europe/italy/marche/urbino
-europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva
-northamerica/unitedstates/newmexico/roswell
-northamerica/unitedstates/westvirginia/fayetteville

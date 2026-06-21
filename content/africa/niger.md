@@ -15,7 +15,7 @@ quick_facts:
   Median Age: "15 years"
 done:
   country_cleanup: 2026-03-29
-score: 0.29
+score: 0.28
 loc_type: country
 ---
 

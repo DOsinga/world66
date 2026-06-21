@@ -3,6 +3,7 @@ address: Next to Anju
 phone: +62 625451093
 title: Eating Out in Lake Toba
 type: poi
+score: 3.8
 ---
 
 If you are going to [Indonesia](/asia/indonesia), Lake Toba is definitely a place you want to visit. The best form of local [transportation](/asia/indonesia/sumatra/laketoba/getting_around) is boats, but you can hire motorcycles for the day and explore the island. While exploring the island, you will find that there are quite a few interesting and satisfying options for eating out.
@@ -17,7 +18,7 @@ Hotel Carolina is a hotel in Lake Toba that serves as one of the stops for the f
 
 **Bagus Bay**
 
-Bagus Bay is a well-known [hotel](/asia/indonesia/sumatra/laketoba/accommodation) in Lake Toba and it is very popular with backpackers. It also has a restaurant that offers a great selection of both Indonesian and Western food, including homemade yoghurt, lasagna, bread, ice cream, pizzas and pies. The restaurant plays live Batak music on Wednesday and Saturday nights.
+Bagus Bay is a well-known hotel in Lake Toba and it is very popular with backpackers. It also has a restaurant that offers a great selection of both Indonesian and Western food, including homemade yoghurt, lasagna, bread, ice cream, pizzas and pies. The restaurant plays live Batak music on Wednesday and Saturday nights.
 
 **Marco Polo**
 
@@ -25,7 +26,7 @@ The Marco Polo restaurant is another restaurant that offers excellent food. It i
 
 With so many eating-out options in Lake Toba, you will never run out of places to go for an unforgettable dining experience. Prices of food around the lake are mostly reasonable, and the service is usually very good.
 
-### [Orari Restaurant](/asia/indonesia/sumatra/laketoba/eating_out/orari_restaurant)
+### Orari Restaurant
 
 Warmful restaurant with traditional Batak, Indonesian along with European cuisine. Missing european food. Have a spaghetti bolognese, the best in Tuk-Tuk. Like to try local food, Nasi Goreng Special is very special here. Beef Rendang is just delicious. Fish BBQ is a must. The view of the lake is breath taking. A romantic spot. Ostima and her husband Richard will treat you like family. The restaurant is open early in the morning to late in the night. You can catch the boat to Parapat from here.
 

@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Summer Palace
 type: poi
+score: 8.9
 ---
 
 The Qing emperors' summer retreat in the northwest of the city: a 290-hectare imperial garden built around Kunming Lake and Longevity Hill, with pavilions, bridges, a marble boat, and the famously kitsch 728-metre Long Corridor painted end to end with scenes from Chinese mythology. Empress Dowager Cixi, who rebuilt the palace in 1888 after British and French troops destroyed it, is the defining personality of the place.

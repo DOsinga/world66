@@ -13,7 +13,7 @@ quick_facts:
   Cost Level: "High-value, high-cost safaris"
   Kalahari Coverage: "70%"
   Elephants: "130,000"
-score: 0.59
+score: 0.72
 loc_type: country
 ---
 

@@ -11,6 +11,7 @@ tags:
 - market
 title: Heping Foreign Foods Market
 type: poi
+score: 4.2
 ---
 
 The go-to spot for imported groceries in central Tianjin. The shelves are stocked with Western staples that are hard to find elsewhere in the city -- pasta, sauces, cheese, cereal, wine, French bread, pancake mix, and snacks like Tim Tams and chips with salsa. They also carry specialty cuts of meat and offer home delivery. If you're an expat stocking a kitchen or just craving something familiar, this is the place.

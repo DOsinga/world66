@@ -9,6 +9,7 @@ tags:
 - beach
 title: Kalamb Beach
 type: poi
+score: 4.5
 ---
 
 Kalamb is a quiet, relatively uncrowded beach about 60 km north of central Mumbai, near Nallasopara on the Western Railway line. It's not a glamorous destination — think dark sand, fishing boats, and local families rather than resort vibes — but that's the appeal. When you want a beach day without the chaos of Juhu or the long drive to Alibaug, Kalamb works.

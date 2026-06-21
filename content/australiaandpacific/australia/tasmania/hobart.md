@@ -1,12 +1,17 @@
 ---
-title: Hobart
-type: location
-latitude: -42.8821
-longitude: 147.3272
 done:
   location_cleanup: 2026-04-05
-score: 0.65
+  location_enrich: '2026-05-12'
+image: hobart.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hobart-Tasmania-Australia11.JPG
+latitude: -42.8821
 loc_type: city
+longitude: 147.3272
+score: 0.65
+title: Hobart
+type: location
 ---
 
 Hobart is the capital of Tasmania and the second-oldest city in Australia after Sydney, founded in 1804 as a British penal settlement on the Derwent River. It is also the smallest Australian capital, with around 250,000 people spread along the deep estuary where the river meets the Tasman Sea, and it has a character all its own — colder, quieter, and more rooted in landscape than any other Australian city. Mount Wellington (*Kunanyi* in the local Mouheneenner language) rises 1,271 metres directly behind the town, snowy in winter, and you can drive to the summit for one of the most dramatic city-and-sea views in the world.

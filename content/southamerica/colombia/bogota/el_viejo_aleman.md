@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: El Viejo Aleman
 type: poi
+score: 7.0
 ---
 
 A tiny tango bar run by an older local woman who plays records from her personal collection. Open only on Thursdays and Saturdays. The kind of place you stumble into and never forget.

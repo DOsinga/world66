@@ -8,6 +8,7 @@ tags:
 - nachlaot
 title: Mike's Place
 type: poi
+score: 4.9
 ---
 
 A long-standing Anglo-Israeli bar in the Russian Compound near downtown. Live music most nights, open mic, happy hour, pub food. Draws a mixed foreign-student and journalist crowd.

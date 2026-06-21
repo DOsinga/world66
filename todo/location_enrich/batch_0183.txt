@@ -1,5 +1,0 @@
-northamerica/unitedstates/pennsylvania/hershey
-asia/japan/ryukyuislands/ishigakiisland
-europe/unitedkingdom/scotland/skye/elgol
-europe/romania/poiana_brasov
-africa/equatorialguinea/riomuni/acalayong

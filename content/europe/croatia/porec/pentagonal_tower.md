@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Pentagonal Tower
 type: poi
+score: 6.6
 ---
 
 Standing at the western entrance to the old town where the Decumanus begins, the Pentagonal Tower is a 15th-century Gothic fortification that once guarded the city gates. A carved Venetian lion relief on the stonework marks the period of Venetian rule that shaped so much of Poreč's character.

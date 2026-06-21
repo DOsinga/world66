@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 36.022873
+loc_type: city
 longitude: -95.968328
+score: 0.32
 title: Jenks
 type: location
-score: 0.32
-loc_type: city
+image: jenks.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Austin_Jenks_House.JPG
+image_license: CC BY 3.0
+image_attribution: Thomas Vaughan
 ---
 
 Jenks sits on the west bank of the Arkansas River in Tulsa County, just south of Tulsa itself. It is a small town of around 10,000 people that managed to reinvent itself: once dependent on oil, it now draws visitors for two very different reasons — a first-rate aquarium and a remarkable concentration of antique dealers.

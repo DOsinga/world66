@@ -1,27 +1,9 @@
 ---
-title: "Bars and Cafes in Hiawassee GA"
+title: Bars and Cafes
 type: section
 ---
 
-If a trip to northern Georgia is in your future, there are several **Hiawassee Georgia Bars and Cafes** that come highly recommended.
+Evening options in Hiawassee are limited but well suited to the pace of a mountain town. The [Yacht Club Boat and Tiki Bar](/northamerica/unitedstates/georgia/hiawassee_ga/yacht_club_tiki_bar) at the Lake Chatuge Marina is the liveliest spot, with lake views, live music in summer, and a crowd of locals and visitors who've spent the day on the water. At the Ridges Resort, the Moosehead Lounge offers cocktails and snacks in a lodge-style room most evenings.
 
-**The Yacht Club Boat and Tiki Bar**
-
-Located at Lake Chatuge Marina, this restaurant and bar offers great American food like hamburgers, sandwiches, wings, wraps and curly fries. The Yacht Club and Tiki Bar is a popular local hangout and the atmosphere is light and casual. The Tiki Bar is right on the lake and during the summer months presents live music. The Yacht Club Boat House is open 7 days a week from 11:00 a.m. until 10:00 p.m., except on Friday and Saturday when it is open until midnight.
-
-**Southside Bar and Grill**
-
-Southside Bar and Grill is a favorite restaurant among locals and visitors alike. With its very friendly atmosphere, and awesome food (the specialty is Wings and Ribs), this is the place to unwind at the end of the day. Prices are reasonable. The most expensive item on the dinner menu is the 9 oz. Tilapia Dinner for $11.95. For your drinking pleasure, you have a choice of beer, wine and cocktails--including frozen drinks and Schnapps. Southside hosts a variety of entertainment including karaoke, an electronic dart board, pinball machine, pool table and arcade games.
-
-**Nacooche Grill**
-
-A smoke free restaurant located near the Habersham Winery, the Nacoochee Grill serves Habersham wines. Opened for lunch and dinner, prices are moderate. While reservations are not required, they are highly recommended, especially in the summer when tourism is high. Promoting casual fine dining, the specialties of the house are seafood, steaks, and local favorites.
-
-**The Troll Tavern**
-
-Located in Helen Georgia, the Troll Tavern offers a variety of dishes including ethnic Mexican, poultry, seafood and pasta. In addition the Troll Tavern offers a full service bar with a wide selection of beer and specialty drinks. Whether you are seated indoors during the winter months or outdoors on the riverside, the atmosphere is casual and fun.
-
-**Mermaids and the Moosehead Lounge**
-
-Both of these bars are located in the Ridges Resort and Club at Lake Chatuge. In a setting where the decor matches the name, The Moosehead Lounge is open for cocktails and snacks 7 nights a week and offers a cozy lodge where family and friends can mingle over drinks. If your plan is dancing, then Mermaids is the place to go. Mermaids hosts a full service bar, current top 40 music and plenty of space to dance. There are varying schedules for the seasons, but generally Mermaids is open every Friday and Saturday from 9:00 p.m. to 2:00 a.m.
+The northern Georgia mountains don't have a deep craft brewery culture yet, but the broader Blue Ridge region does — Copperhill, Tennessee (about 35 miles north) and Blairsville (20 miles southwest) each have small taprooms worth a detour if you're craving something local on tap.
 

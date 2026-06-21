@@ -7,12 +7,12 @@ tags:
 - things_to_do
 - architecture
 - rembrandtplein
-- canal_ring
 story: >
   Abraham Tuschinski, a Polish-Jewish immigrant, opened the theatre in 1921 and
   envisioned it as a palace where everyone — rich and poor — could experience beauty.
   He was murdered in Auschwitz in 1942. The theatre was briefly renamed during the
   German occupation but reclaimed his name after liberation.
+score: 8.7
 ---
 
 Amsterdam's most beautiful cinema, and a strong contender for the most beautiful cinema in the world. Built in 1921 in an extravagant mix of Art Deco and Amsterdam School styles, the interior is a riot of stained glass, carved wood, hand-painted murals, and plush carpets. The main auditorium seats 800 under a vast decorated ceiling.

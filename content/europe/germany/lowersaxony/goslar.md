@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: goslar.jpg
+image_attribution: Holger Uwe Schmitt
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beeindruckende_Fachwerkbauten_pr%C3%A4gen_die_Goslarer_Altstadt._02.jpg
 latitude: 51.905994
+loc_type: city
 longitude: 10.426628
+score: 0.59
 title: Goslar
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Goslar is a thousand-year-old imperial town at the northern edge of the Harz mountains, founded in 922 by Heinrich I. Its wealth came from silver — the mines of the Rammelsberg drew Saxon and Salian emperors here, and they built their biggest palace complex on this site. For centuries Goslar was the preferred seat of government in northern Germany, and a centre of the Christian faith grew up alongside it.

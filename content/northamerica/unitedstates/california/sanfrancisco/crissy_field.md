@@ -8,6 +8,7 @@ tags:
 - park
 title: Crissy Field
 type: poi
+score: 8.5
 ---
 
 Crissy Field is a stretch of restored waterfront in the Presidio that offers some of the best Golden Gate Bridge views in the city. Once a military airfield, the 130-acre site was transformed in 2001 after volunteers removed 87,000 tons of hazardous fill and replanted 100,000 native plants. The result is a tidal marsh, sand dunes, and a wide promenade that connects to Fort Point at the bridge's southern anchor.

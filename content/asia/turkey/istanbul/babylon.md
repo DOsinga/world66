@@ -9,6 +9,7 @@ tags:
 - beyoglu
 title: Babylon
 type: poi
+score: 7.0
 ---
 
 Babylon is the best live music venue in Istanbul -- an old warehouse behind Istiklal that has hosted everyone from local acts like Baba Zula to international names. The programming is genuinely adventurous: alternative, jazz, world music, electronic. Check the monthly programme before you go; it fills up fast.

@@ -14,6 +14,7 @@ tags:
 - museum
 title: Musée Picasso
 type: poi
+score: 8.7
 ---
 
 Picasso spent the summer of 1946 working in the Château Grimaldi, and when he left he donated the work he had made there to the city. The result is one of the best Picasso collections in France — not a greatest-hits survey but a coherent body of work from a single productive moment. The castle itself, part medieval tower and part Renaissance loggia, sits right on the rampart walls above the sea. Place Mariejol, Antibes. Closed Mondays.

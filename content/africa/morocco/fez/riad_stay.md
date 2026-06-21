@@ -8,6 +8,7 @@ tags:
 title: Staying in a Riad
 type: poi
 snippet: "The right way to experience the medina — a restored townhouse around a central courtyard"
+score: 7.0
 ---
 
 A *riad* is a traditional Moroccan townhouse built around an interior courtyard — blank-walled and anonymous from the outside, but opening into a space of carved plasterwork, cedar balconies, a central fountain, and sometimes a garden of orange trees and jasmine. Staying in one changes your experience of the medina fundamentally. From outside, the alley gives nothing away; the door, when it opens, reveals a completely different world.

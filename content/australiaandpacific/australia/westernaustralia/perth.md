@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: perth.jpg
+image_attribution: szeke on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/43355249@N00/50239495177
 latitude: -31.955897
+loc_type: city
 longitude: 115.860578
 score: 0.58
 title: Perth
 type: location
-loc_type: city
 ---
 
 Perth is the capital of Western Australia, it's situated along the banks of the Swan River. The river twists through the city and ends at the port of Fremantle where you can enjoy a coffee on the 'cappaccino' strip, or go down to the harbour to see the boats come in.
@@ -17,4 +22,4 @@ Perth is a wonderful place for animal lovers. In addition to the small, but char
 
 It's clean, it's beautiful, but by far its best attraction is the great weather and beautiful beaches.
 
-Minor corrections by [Pat Boland](/world/member/pat_boland) on 04 March 05
+Minor corrections by Pat Boland on 04 March 05

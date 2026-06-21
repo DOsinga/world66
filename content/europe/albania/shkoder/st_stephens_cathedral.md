@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.5
 ---
 
 The seat of the Catholic Archdiocese of Shkodër-Pult, and the largest Catholic cathedral in the Balkans by floor area. The current building dates from 1858 in a neo-Renaissance style, with a long aisled nave under a single barrel vault and a small lantern crossing over the altar. It is plain by Italian standards, ornate by Albanian ones.

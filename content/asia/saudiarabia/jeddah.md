@@ -2,21 +2,24 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-15'
   poi_cleanup: '2026-04-20'
+image: jeddah.jpg
+image_attribution: Tahir mq
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Al-Rahmah_Mosque_7.jpg
 latitude: 21.550443
+loc_type: city
 longitude: 39.174236
 score: 0.47
 title: Jeddah
 type: location
-loc_type: city
 ---
 
-Jeddah is as close as a non-mulsim can get to the holy cities of [Mecca](/asia/saudiarabia/mecca) and [Medina](/asia/saudiarabia/medina) . It is by far the most cosmopolitan city in the Kingdom, which is due to the fact that for centuries it has been an important port town. Until the 1980s many western countries had their embassadies in Jeddah, now they have all move to [Riyadh](/asia/saudiarabia/riyadh) . Nevertheless, there are still a large number of foreign consulates in Jeddah as the city retains its importance as the commercial capital of the Kingdom and it is, of course, the main port of entry for the millions of pilgrims who visit the Holy Cities each year. 
+Jeddah is the gateway to Mecca and Medina and the most cosmopolitan city in Saudi Arabia. For 1,400 years it has been the port of arrival for pilgrims by sea, and the merchant families that grew rich on the hajj trade built tall coral-stone houses, intricate wooden screens, and the most distinctive vernacular architecture in Arabia. Their old town — [Al Balad](/asia/saudiarabia/jeddah/al_balad) — is the only Saudi city to make UNESCO's World Heritage list.
 
+Beyond the old city, modern Jeddah sprawls 25 km along the Red Sea coast. The [Corniche](/asia/saudiarabia/jeddah/jeddah_corniche) is the city's living room — paved walkways, open-air sculptures by Henry Moore and Joan Miró, the world's tallest fountain throwing 300 metres of seawater into the night sky, and the marble curves of the [Al Rahmah floating mosque](/asia/saudiarabia/jeddah/floating_mosque) where it meets the water. Until the 1980s most foreign embassies were here; they have moved to [Riyadh](/asia/saudiarabia/riyadh) but Jeddah remains the kingdom's commercial heart.
 
+The cooking is broader than anywhere else in Saudi Arabia, drawing on the cultures that have passed through the port for centuries — Yemeni, Hadhrami, Hijazi, Indian, East African. The reefs offshore are some of the best diving on the planet. The temperature, year-round, is the chief enemy.
 
-The old city of Jeddah is now a protected area. Within the area, many of the traditional houses are built of coral, taken from reefs in the Red Sea. Most interesting are the Sharbatly House and the Naseef House, two old houses of two of Jeddah's merchant families. Both have been restored. 
-
-The Municipality Museum is opposite the National Commercial Bank headquarters in the old city. It is the only remaining building of several which comprised the British Legation in Jeddah during World War I. The museum is open in the mornings from Saturday to Thursday; admission is free but a permit from the Jeddah Municipality is required (telephone: +966 2 669-5556 or 660-7671). Once the permit has been granted, it is still necessary to make an appointment with the curator of the museum. 
-
-The best-kept secret in Jeddah -- and one which many Saudis are totally unaware of and would deny if asked -- is that there is a Christian cemetery in the city. It is in fact in a street in the old city named with predictable Arab pragmatism, the Street of the Cemetery of the Foreigners. It is no longer in use, the last burial having taken place in the early 1950s, but is kept up in turn by various of the foreign consulates in the city. It is walled and there is a large gate. It can, however, be peered into from some of the buildings surrounding it.
+Since the 2019 tourism reforms a non-Muslim visitor can now apply for an e-visa, stay in Al Balad's restored merchant houses, drive themselves down the Corniche, and eat dinner in the company of unrelated Saudi women. The city is changing fast. Come now, before it changes more.

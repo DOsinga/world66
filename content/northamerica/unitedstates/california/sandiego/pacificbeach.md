@@ -4,7 +4,7 @@ done:
 latitude: 32.797827
 longitude: -117.240318
 title: Pacific Beach
-type: location
+type: neighbourhood
 score: 0.55
 loc_type: city
 ---

@@ -1,5 +1,0 @@
-asia/cyprus/paphos
-europe/sweden/slen
-asia/indonesia/sleman
-europe/germany/lowersaxony/hannover
-asia/iran/damghan

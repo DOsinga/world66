@@ -4,9 +4,9 @@ longitude: 4.897165
 snippet: Hour-long boat tour through Amsterdam's UNESCO-listed canals
 tags:
 - tours_and_excursions
-- canal_ring
 title: Canal Cruise
 type: poi
+score: 8.4
 ---
 
 A canal cruise is the classic Amsterdam introduction, and it genuinely earns its popularity. In about an hour you glide past the four main canal rings, the narrow merchant houses with their hoisting beams, houseboats, and bridges you would otherwise walk right over without noticing. Commentary (usually available in multiple languages) points out architectural details and historical context that bring the 17th-century canal belt to life.

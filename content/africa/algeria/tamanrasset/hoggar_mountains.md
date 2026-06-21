@@ -6,6 +6,7 @@ longitude: 5.5333
 tags:
 - things_to_do
 - sight
+score: 9.7
 ---
 
 A vast volcanic massif in the central Sahara, rising to over 2,900 metres at Mount Tahat — the highest point in Algeria. The landscape is extraordinary: black basalt peaks, eroded phonolite spires, collapsed calderas, and valleys of dark volcanic rock streaked with wind-blown sand. The Hoggar looks nothing like the popular image of the Sahara — this is mountain desert, austere and dramatic.

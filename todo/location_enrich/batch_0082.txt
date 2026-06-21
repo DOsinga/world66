@@ -1,5 +1,0 @@
-southamerica/brazil/ouropreto
-europe/czechrepublic/bojkovice
-southamerica/colombia/popayan
-europe/greece/tolo
-africa/benin/ouidah

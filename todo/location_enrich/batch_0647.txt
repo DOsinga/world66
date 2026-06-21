@@ -1,5 +1,0 @@
-europe/belgium/essen
-europe/russia/murmansk
-northamerica/unitedstates/rensselaer_indiana
-europe/portugal/cascais
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district

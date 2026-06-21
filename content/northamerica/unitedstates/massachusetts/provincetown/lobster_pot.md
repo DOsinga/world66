@@ -10,6 +10,7 @@ tags:
 title: Lobster Pot
 type: poi
 url: www.ptownlobsterpot.com
+score: 7.0
 ---
 
 The Lobster Pot has been feeding visitors and locals at the same spot on Commercial Street since 1979. The neon lobster sign is one of Provincetown's most recognisable landmarks, and the place lives up to the billing: proper New England chowder, lobsters pulled from local waters, and a lengthy menu of straightforward fish dishes.

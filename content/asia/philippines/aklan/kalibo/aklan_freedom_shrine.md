@@ -9,6 +9,7 @@ longitude: 122.3647
 address: "Andagao, Kalibo, Aklan"
 admission: "Free"
 story: "Nineteen Aklanon revolutionaries were executed by Spanish colonial authorities in March 1897, beheaded in batches over several days under the orders of Governor-General Fernando Primo de Rivera. The Spanish hoped public executions would quell the Katipunan uprising on Panay; they did the opposite. The shrine's name in Aklanon, Pook ni Patiang, means 'the place where they died'."
+score: 6.2
 ---
 
 The simple cement monument and small mausoleum on Andagao Road commemorates the nineteen martyrs of Aklan — local revolutionaries executed by Spanish authorities in March 1897 during the final months of Spanish rule in the Philippines. Their names are listed on the front; the urns containing their remains are kept inside the closed mausoleum behind.

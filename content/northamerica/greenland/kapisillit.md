@@ -1,16 +1,20 @@
 ---
-title: Kapisillit
-type: location
+done:
+  location_enrich: '2026-06-01'
+image: kapisillit.jpg
+image_attribution: Vikebe
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Kapisiliit_in_summer.jpg
 latitude: 64.434792
+loc_type: city
 longitude: -50.271698
 score: 0.44
-loc_type: city
+title: Kapisillit
+type: location
 ---
 
-The settlement Kapisillit is one of the very few fishing and hunting communities which is situated inland. Kapisillit is beautifully placed app. 75 kilometres from Nuuk, deep inside the mighty fjord system of Nuuk.
+Kapisillit is one of very few inland settlements in [Greenland](/northamerica/greenland) — a tiny village of around fifty people roughly 75 kilometres east of [Nuuk](/northamerica/greenland/nuuk), at the head of one of the long fingers of the Nuup Kangerlua fjord system. The name means "the salmon", and a small river near the village holds the only known spawning ground for Atlantic salmon in Greenland.
 
+The setting is the reason to come. From the wharf, the fjord runs deeper inland to the [Qooqqut and Kangersuneq glaciers](/northamerica/greenland/kapisillit/kangersuneq_ice_fjord), where the inland ice tips into the sea — a short boat ride brings you within sight of calving icebergs. Behind the village a valley climbs toward the abandoned reindeer farm at [Itinnera](/northamerica/greenland/kapisillit/itinnera_reindeer_farm), and a two-to-three-day hike crosses the country south to the Ameralla Fjord.
 
- Kapisillit literally means 'the salmon'. As almost all Greenlandic place names, the name describes a special feature of the place. For 'Kapisillit', the name refers to the fact that the only spawning-ground for salmon in Greenland is a river near the settlement. The Kapisillit area is perfect for angling, shorter and longer hikes. The most popular routes are undoubtedly the short hike from Kapisillit to the edge of the astonishing icefjord, Kangersuneq, the route along the Kapisillit fjord to the former reindeer farm at Itinnera and the 2-3 days hike from Kapisillit through a valley to the Ameralla Fjord.
-
-
- In Kapisillit it is possible to stay in a small hostel-like cabin in the vicinity of the settlement or a house in the centre of Kapisillit. Both can be booked through Nuuk Tourism.
+There is no road in. Boats run from Nuuk in summer when the fjord is ice-free, occasionally also by helicopter. Accommodation is limited to a small hunters' cabin and a couple of houses bookable through Nuuk Tourism. Bring everything you need; the village shop is basic and not open every day.

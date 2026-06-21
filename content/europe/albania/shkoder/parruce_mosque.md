@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.0
 ---
 
 A small neighbourhood mosque just south of the pedestrian zone, built in its present form in 1995 on the site of a 16th-century Ottoman foundation destroyed in 1967. The replacement is a workmanlike modern building with a slim minaret and a plain rendered exterior.

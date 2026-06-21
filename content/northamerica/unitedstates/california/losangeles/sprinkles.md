@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Sprinkles Cupcakes
 type: poi
+score: 5.7
 ---
 
 The original cupcake bakery — Sprinkles is credited with starting the gourmet cupcake trend in the US when it opened in 2005. Ten varieties daily (five rotating). Flavours range from milk chocolate and strawberry to ginger lemon and chai latte. Small, busy, and worth the queue.

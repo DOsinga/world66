@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Cafe Sting
 type: poi
+score: 5.6
 ---
 
 A Stavanger institution since 1984, occupying a great spot near the old town. Part restaurant, part café, part nightclub and art gallery — the kind of place that hosts an exhibition opening and a decent dinner in the same evening. Popular with locals for both food and culture.

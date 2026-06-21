@@ -1,12 +1,16 @@
 ---
-title: The Cinque Terre
-type: location
-latitude: 44.1066
-longitude: 9.7354
 done:
   location_cleanup: 2026-04-05
-score: 0.79
+  location_enrich: '2026-06-05'
+image: thecinqueterre.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_October_2020)_-_24_(50543603956).jpg
+latitude: 44.1066
 loc_type: region
+longitude: 9.7354
+score: 0.79
+title: The Cinque Terre
+type: location
 ---
 
 The Cinque Terre — "the five lands" — is a stretch of rugged Ligurian coastline between Levanto and La Spezia, where five tiny fishing villages cling impossibly to cliffs above the sea. Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore were isolated by geography for most of their history: no roads reached them until the last century, and even today the easiest way between them is still the train, the ferry, or the walking paths cut into the terraces. The whole coast is a national park and a UNESCO World Heritage site, and it has become one of the most photographed places in Italy — pastel houses stacked on the rock above turquoise coves, olive trees, and the terraced vineyards that have produced the local white wine for a thousand years.
@@ -15,4 +19,12 @@ Monterosso is the largest and the only one with a real sandy beach — the most 
 
 The walking trail that once linked all five villages, the Sentiero Azzurro, is the classic way to see the Cinque Terre, though landslides mean parts of it close regularly — check the current status before you set out. The most popular section, the Via dell'Amore between Manarola and Riomaggiore, is short and mostly level. The climb from Vernazza to Monterosso is steeper and gives the best views. A Cinque Terre Card (buy it at any train station) covers unlimited regional trains and trail access.
 
-The villages are unbelievably crowded in July and August — cruise-ship day-trippers from La Spezia pour in and the lanes fill with people. Come in April, May, September, or October if you can, stay at least one night in one of the villages rather than day-tripping from La Spezia, and eat the local anchovies fresh, fried, or pickled with lemon. The sweet Sciacchetrà wine, produced in tiny quantities from the terraced vineyards, is a rare regional speciality worth trying before you leave.
+The villages are unbelievably crowded in July and August — cruise-ship day-trippers from La Spezia pour in and the lanes fill with people. Come in April, May, September, or October if you can, stay at least one night in one of the villages rather than day-tripping from La Spezia, and eat the local anchovies fresh, fried, or pickled with lemon. The sweet [Sciacchetrà wine](/europe/italy/liguria/italianriviera/thecinqueterre/sciacchetra_wine), produced in tiny quantities from the terraced vineyards, is a rare regional speciality worth trying before you leave.
+
+## Villages
+
+- [Monterosso al Mare](/europe/italy/liguria/italianriviera/thecinqueterre/monterosso) — the largest village, with a real sandy beach
+- **Vernazza** — the prettiest, with a harbour and Doria Castle
+- **Corniglia** — the clifftop village, quietest of the five
+- **Manarola** — dramatic harbour, northern end of the Via dell'Amore
+- [Riomaggiore](/europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore) — the southernmost village, working-village character

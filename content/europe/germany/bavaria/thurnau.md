@@ -1,16 +1,23 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
 latitude: 50.0244
 longitude: 11.3945
 title: Thurnau
 type: location
 score: 0.37
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Thurnau
+image: thurnau.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Schloss_Thurnau_vom_See.JPG
+image_license: CC BY-SA 3.0
+image_attribution: D.j.mueller
 ---
 
-Thurnau is a small town in Upper Franconia, midway between [Bayreuth](/europe/germany/bavaria/bayreuth) and [Bamberg](/europe/germany/bavaria/bamberg) along the A70. It is best known for its castle complex, one of the largest in Franconia, which has been gradually restored and now houses a branch of the University of Bayreuth.
+Thurnau is a small town in Upper Franconia, midway between [Bayreuth](/europe/germany/bavaria/bayreuth) and [Bamberg](/europe/germany/bavaria/bamberg) along the A70. It is best known for its [castle complex](/europe/germany/bavaria/thurnau/thurnau_castle), one of the largest in Franconia, which has been gradually restored and now houses a branch of the University of Bayreuth.
 
-The town also has a long tradition of pottery — Thurnauer Töpferei has been produced here for centuries, and the local pottery museum documents the craft. The old town centre is compact and well-preserved, with half-timbered houses and a quiet market square.
+The town also has a long tradition of pottery — Thurnauer Töpferei has been produced here for centuries, and the local [pottery museum](/europe/germany/bavaria/thurnau/pottery_museum) documents the craft. The old town centre is compact and well-preserved, with half-timbered houses and a quiet [market square](/europe/germany/bavaria/thurnau/marktplatz).
 
 Thurnau makes a pleasant stop if you are driving between Bayreuth and Bamberg, but most visitors will not need more than an hour or two.

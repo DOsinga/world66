@@ -12,6 +12,7 @@ tags:
 title: Troppo
 type: poi
 url: www.troppo.org
+score: 5.6
 ---
 
 A downtown spot with the best view of the Capitol dome. Casual upscale dining with lunch, dinner, and cocktails on the patio. The vintage photographs of old Lansing on the walls are a nice touch.

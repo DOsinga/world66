@@ -2,7 +2,7 @@
 title: "Japan War Museum"
 type: poi
 tags:
-  - sights
+  - things_to_do
   - museum
 address: "3-1-1 Kudankita"
 latitude: 35.694912
@@ -11,6 +11,7 @@ snippet: "Military history museum inside Yasukuni Shrine"
 tags:
 - marunouchi
 - things_to_do
+score: 5.9
 ---
 
 No signs in English but most of the exhibits are self-explanatory — from samurai swords to kamikaze pilot suits. The museum (Yushukan) is located within the Yasukuni Shrine and covers Japan's military history.

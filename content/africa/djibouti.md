@@ -13,7 +13,7 @@ quick_facts:
   Languages: "French & Arabic"
   Lake Assal: "155 m below sea level"
   Foreign Military Bases: "6"
-score: 0.41
+score: 0.43
 loc_type: country
 ---
 

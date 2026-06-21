@@ -8,6 +8,7 @@ tags:
 - prenzlauerberg
 title: Frida Kahlo
 type: poi
+score: 6.2
 ---
 
 This really nice restaurant is named after the Mexican cult figure, the painter Frida Kahlo. It always seems to be sumer here. Cheap, top quality Texmex in huge portions and a mainly young crowd in one of the most original corners of P'berg.

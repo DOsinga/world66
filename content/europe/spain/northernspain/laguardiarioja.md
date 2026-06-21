@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: laguardiarioja.jpg
+image_attribution: Mikel Arrazola
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Guardia_airetik2.jpg
 latitude: 42.544151
+loc_type: city
 longitude: -2.545422
+score: 0.55
 title: Laguardia
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Laguardia is a small walled town and the capital of Rioja Alavesa, the Basque Country's wine-producing corner. Its name derives from "La Guarda" (The Guardian) — a reference to its strategic hilltop position on the frontier between Navarra and Castilla. The thirteenth-century walls and cobblestone streets are remarkably well-preserved, and the town is entirely pedestrian.

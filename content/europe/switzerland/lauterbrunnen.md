@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 46.593904
 longitude: 7.907802
 title: Lauterbrunnen
@@ -13,10 +14,8 @@ image_attribution: chensiyuan
 loc_type: city
 ---
 
-Lauterbrunnen is a small town 10km from [Interlaken](/europe/switzerland/interlaken), to which it is connected by road and rail. It is spectacularly sited at the entrance to the Lauterbrunnen valley - 400m white cliffs topped with pines and dotted with waterfalls.
+Lauterbrunnen is a small town 10 km south of [Interlaken](/europe/switzerland/interlaken), spectacularly sited at the entrance to one of the most dramatic valleys in the Alps. Limestone cliffs rising up to 1,000 metres line both sides, and more than 70 waterfalls drop from the rim — the most visible being the [Staubbach Falls](/europe/switzerland/lauterbrunnen/staubbach_falls), which fall 297 metres directly above the village and dissolve into mist before reaching the ground.
 
-Lauterbrunnen is well served by public transport, being on one leg of the rail line up to the Jungfraujoch (at 3454m, the highest train station in [Europe](/europe)), and the Lauterbrunnen region has numerous cog-railways, gondolas, cable-cars and funicular railways making getting around very easy indeed.
+The valley is a base for three different mountain worlds. To the east, the Wengernalp rack railway climbs to [Wengen](/europe/switzerland/lauterbrunnen/wengen), a car-free village with views of the Jungfrau massif and access to the [Jungfraujoch](/europe/switzerland/lauterbrunnen/jungfraujoch) at 3,463 metres — the highest railway station in Europe. To the west, cable cars rise to [Mürren](/europe/switzerland/lauterbrunnen/murren) and on to the [Schilthorn](/europe/switzerland/lauterbrunnen/schilthorn), whose revolving restaurant served as a James Bond villain's lair. South down the valley, the [Trümmelbach Falls](/europe/switzerland/lauterbrunnen/trummelbach_falls) pour through the interior of a mountain with a force you feel in your chest.
 
-Above Lauterbrunnen, above the valley on either side are the car-free villages of Wengen and Murren (visitors can park in the large car-park at the south end of Lauterbrunnen and carry on up via train or on foot). The scenery is magnificent, with a glorious mountain view around every corner, and the comprehensive transport network means that one can ride up the tough bits, and walk along the edge of the valley wall. Though going up or coming down the 400 to 800 metres from the top of the valley can be tough on the knees, it is the only way to see some of the views. Of course there are so many spectacular sights in this region that it's impossible to miss out completely.
-
-The town has two banks, each with an ATM outside.
+The village itself is small and functional, with good transport connections and a supermarket. Most visitors use it as a base rather than a destination in its own right, which suits it well. The valley is also a centre for BASE jumping — the combination of high cliffs, reliable updrafts, and multiple exit points attracts jumpers from around the world.

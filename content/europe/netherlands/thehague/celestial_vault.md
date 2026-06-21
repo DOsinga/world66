@@ -6,6 +6,7 @@ longitude: 4.2425
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 A land art installation by James Turrell, hidden in a crater-shaped bowl in the dunes near Kijkduin. You walk down a path into a grassy depression, lie down on an elliptical stone bed at the centre, and look up. The curved edges of the crater frame the sky in a perfect oval, and something strange happens: the sky appears to curve down toward you like a dome, an optical illusion created by the geometry of the surrounding walls.

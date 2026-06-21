@@ -10,6 +10,7 @@ tags:
 - cafe
 title: Café Macondo
 type: poi
+score: 6.3
 ---
 
 Small bohemian cafe in San Antonio, with mismatched furniture, García Márquez on the walls and a steady stream of writers, students and travellers. Good Colombian coffee, fresh juices and simple sandwiches. A quiet daytime alternative to the salsa-driven nightlife elsewhere in the city.

@@ -9,6 +9,7 @@ tags:
 - museum
 title: Children's Museum
 type: poi
+score: 6.0
 ---
 
 One of the more unusual settings for a children's museum anywhere: a former 19th-century prison whose thick stone walls and turrets now house interactive exhibits on science, culture, and Costa Rican history. The robotised historical figures are delightfully eccentric. A good choice if travelling with children.

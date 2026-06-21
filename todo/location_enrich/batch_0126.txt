@@ -1,5 +1,0 @@
-southamerica/chile/quillota
-asia/india/orissa/udayagiri
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester
-northamerica/unitedstates/florida/anna_maria_island
-northamerica/canada/ontario/niagrafalls

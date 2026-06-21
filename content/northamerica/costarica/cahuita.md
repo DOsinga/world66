@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: cahuita.jpg
+image_attribution: MongeNajera
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2006_cahuita_3.jpg
 latitude: 9.7375
+loc_type: city
 longitude: -82.8387
+score: 0.61
 title: Cahuita
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Cahuita is a small Afro-Caribbean village on Costa Rica's southern Caribbean coast, about 43 km south of Puerto Limón. It sits at the edge of Cahuita National Park, one of the country's most accessible and rewarding coastal parks, and the combination of a relaxed village and a coral reef just offshore makes it an easy place to linger longer than planned.

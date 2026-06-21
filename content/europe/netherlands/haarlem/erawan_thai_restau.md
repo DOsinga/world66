@@ -10,6 +10,7 @@ tags:
 title: Erawan Thai restaurant
 type: poi
 url: www.erawan.nl
+score: 5.5
 ---
 
 Authentic Thai restaurant in the center of Haarlem.

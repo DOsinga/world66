@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: News Cafe
 type: poi
+score: 5.9
 ---
 
 A popular spot on the Waagplein, the old weigh-house square at the heart of Groningen. In summer the terrace fills up fast. Good coffee, salads, and sandwiches. A reliable place to sit and watch the square go by.

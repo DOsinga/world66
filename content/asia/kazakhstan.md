@@ -15,7 +15,7 @@ quick_facts:
   Baikonur Cosmodrome: "First human spaceflight launched here"
 done:
   country_cleanup: 2026-03-30
-score: 0.42
+score: 0.60
 loc_type: country
 ---
 

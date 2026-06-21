@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: gatlinburg.jpg
+image_attribution: Blinutne
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Gatlinburg,_Tennessee.JPG
 latitude: 35.7143
+loc_type: city
 longitude: -83.5102
 score: 0.61
 title: Gatlinburg
 type: location
-loc_type: city
 ---
 
 Most people either love Gatlinburg or they hate it — or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested neon and souvenir shops stacked end to end, which can come as quite a shock.

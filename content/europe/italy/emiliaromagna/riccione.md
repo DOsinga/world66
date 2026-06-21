@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: riccione.jpg
+image_attribution: Stephen kleckner
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ingresso_del_porto_canale_di_Riccione_by_Stephen_Kleckner.jpg
 latitude: 43.998274
+loc_type: city
 longitude: 12.647437
+score: 0.58
 title: Riccione
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Riccione, known as the Green Pearl of the Adriatic, is a small but lively resort on the coast south of [Rimini](/europe/italy/emiliaromagna/rimini).

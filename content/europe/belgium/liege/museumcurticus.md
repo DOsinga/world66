@@ -6,9 +6,11 @@ latitude: 50.6471
 longitude: 5.5835
 snippet: Archaeology and decorative arts in a patrician mansion
 tags:
-- museums
+- things_to_do
+- museum
 title: Grand Curtius Museum
 type: poi
+score: 8.3
 ---
 
 The Grand Curtius occupies one of the most remarkable buildings in Liège — the 17th-century mansion of patrician Jean de Corte, known by his Latin name Curtius. Together with the nearby Musée d'Ansembourg, its collection offers a sweeping overview of archaeology and decorative arts in the Liège region from Gallo-Roman times through the Middle Ages to the 18th century.

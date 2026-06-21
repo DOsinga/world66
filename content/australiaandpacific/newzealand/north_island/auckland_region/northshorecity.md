@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: northshorecity.jpg
+image_attribution: russellstreet on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/27345927@N07/7357450610
 latitude: -36.74676
+loc_type: city
 longitude: 174.721788
+score: 0.49
 title: North Shore City
 type: location
-score: 0.49
-loc_type: city
 ---
 
 North Shore City sits across the Waitemata Harbour from Auckland's CBD, connected by the Harbour Bridge and a network of ferries. Once an independent city, it merged into Auckland Council in 2010 but retains its own character — quieter and more suburban than central Auckland, with long beaches facing the Hauraki Gulf and bush-clad reserves running along the coast.

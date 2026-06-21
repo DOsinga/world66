@@ -11,6 +11,7 @@ story: >
   tall. It survived the 1940 bombing — just barely inside the blaze boundary — and
   now stands dwarfed by the modern towers that surround it, a relic of a time when
   ten storeys was shocking.
+score: 7.4
 ---
 
 A white Art Nouveau tower standing at the edge of the Oude Haven (Old Harbour), looking slightly lost among the modern architecture that has grown up around it. When the Wittehuis was built in 1898, it was the tallest office building in Europe and a sensation — people came from across the country to marvel at it. Now it barely reaches the waistline of its neighbours.

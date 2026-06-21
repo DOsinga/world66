@@ -9,6 +9,7 @@ tags:
 - sight
 title: La Lobería
 type: poi
+score: 7.8
 ---
 
 La Lobería is a rocky beach about 2 km southwest of Puerto Baquerizo Moreno, reachable on foot or by taxi. A large colony of Galápagos sea lions (*Zalophus wollebaeki*) hauls out here, and they are completely unperturbed by visitors — you can sit within a few metres and watch them sleep, nurse pups, and occasionally squabble over prime spots on the rocks.

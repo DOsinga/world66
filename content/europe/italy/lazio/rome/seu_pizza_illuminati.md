@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Seu Pizza Illuminati
 type: poi
+score: 8.0
 ---
 
 One of Rome's most ambitious pizzerias — Neapolitan technique applied to high-quality, sometimes unusual toppings, in a sharp neon-lit room in Testaccio. Pier Daniele Seu trained in Naples and brings the soft, charred cornicione to Rome, then fills it with things like burrata, nduja, and seasonal produce that wouldn't exist on a traditional menu. The fried starters (montanarine, crocché) are excellent. Book ahead; this is one of the most popular pizzerias in the city.

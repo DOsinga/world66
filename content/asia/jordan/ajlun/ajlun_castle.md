@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Ajlun Castle
 type: poi
+score: 9.2
 ---
 
 One of the best-preserved Ayyubid castles in the Arab world, Qalat er-Rabad sits on a high hill overlooking the Jordan Valley. Built in the 12th century and expanded in the 13th, it is a compact but formidable structure of towers, arched corridors, and a deep dry moat. The views from the battlements — down into the valley and across towards the West Bank — are outstanding. A small museum inside displays finds from the site.

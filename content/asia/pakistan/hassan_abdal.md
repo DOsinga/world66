@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: hassan_abdal.jpg
+image_attribution: TheFranek2
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Panja_Sahib.jpg
 latitude: 33.816874
+loc_type: city
 longitude: 72.68572
+score: 0.34
 title: Hassan Abdal
 type: location
-score: 0.34
-loc_type: city
 ---
 
 Hassan Abdal is a quiet historical town 50 km west of [Rawalpindi](/asia/pakistan/rawalpindi), worth a stop on the road to [Peshawar](/asia/pakistan/peshawar) or Abbottabad.

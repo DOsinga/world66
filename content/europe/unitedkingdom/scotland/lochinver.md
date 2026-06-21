@@ -1,18 +1,21 @@
 ---
-title: Lochinver
-type: location
+done:
+  location_enrich: '2026-06-04'
+image: lochinver_harbour.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Lochinver_harbour.jpg
 latitude: 58.152391
+loc_type: city
 longitude: -5.240577
 score: 0.52
-loc_type: city
+sources:
+- https://en.wikipedia.org/wiki/Lochinver
+title: Lochinver
+type: location
 ---
 
-Although little, if any, more than a village, Lochinver, with a hotel and shops is more like a capital in the largely unpopulated area of the Sutherland coast where it is located. Any route to it is spectacular, none more so than the tiny, winding, single track road to Achltibuie. Only careful drivers need come here!
+Lochinver is a small fishing village at the head of Loch Inver, in the Assynt district of Sutherland in the far northwest of Scotland. Although it amounts to little more than a cluster of houses, a harbour, and a few shops, it functions as the main settlement across a huge, thinly peopled stretch of coast. Every approach is spectacular — the roads wind between savage quartzite peaks rising straight from moorland, with views over the sea to the Summer Isles.
 
-One of the most surprising places found on this diminutive road is Achins Bookshop at Inverkirkaig, where a path leads to the Falls of Kirkaig and then on to the mountain of Suilven. This mountain makes up in its isolated location and sectacular ridge what it lacks in height and it is a serious expedition to scale it.
+The local pies from the Lochinver Larder bakery have an improbable fame, drawing visitors who would otherwise have no reason to make the long drive. The harbour sees fishing boats working out of it year-round, and the village is the best base for climbing in the Assynt area. Three miles north is [Achmelvich](/europe/unitedkingdom/scotland/lochinver/achmelvich), a magnificent white-sand beach entirely out of keeping with the surrounding grey landscape.
 
-Three miles north of Lochinver is a wondeful picturesque bay with extensive sand, Achmelvich.
-
-Other mountains in the area are Canisp and Quinag, shaped like a Y.
-
-Useful websites for Lochinver are:http://www.milford.co.uk/scotland/places/lochinver.html , www.**lochinver**.bordernet.co.uk/places/inverkirkaig.html and:http://www.undiscoveredscotland.co.uk/lochinver/achmelvich/
+The mountain of Suilven dominates the view to the east — a quartzite ridge rising sharply from a boggy plateau, its isolated profile unlike any other hill in Scotland. The approach from Inverkirkaig, five kilometres south of Lochinver, follows the River Kirkaig past a bookshop and waterfall before reaching the mountain's foot.

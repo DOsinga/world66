@@ -8,6 +8,7 @@ snippet: Paleolithic to medieval artifacts including an Egyptian mummy
 tags:
 - things_to_do
 - museum
+score: 6.9
 ---
 
 The Transylvanian History Museum has a unique collection of old artifacts, Roman pottery, and medieval vestiges of the city. Walking through the halls, you can trace the history of Transylvania from the Paleolithic onward — old tools, crafts, and objects made by the region's inhabitants over millennia. The collection also includes vestiges brought back by local explorers, among them an original Egyptian mummy.

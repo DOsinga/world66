@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Auberge Saint-Pierre
 type: poi
+score: 5.8
 ---
 
 Sitting on the charming Place Saint-Pierre at the foot of the chateau, this traditional restaurant serves solid Loire Valley cooking at reasonable prices. The terrace seating on the square is the main draw -- it's one of the most pleasant spots in town to eat outdoors on a warm evening.

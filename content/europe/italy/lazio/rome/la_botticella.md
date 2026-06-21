@@ -9,6 +9,7 @@ tags:
 - bar
 title: La Botticella
 type: poi
+score: 6.8
 ---
 
 A small wine bar tucked in a street between Piazza Navona and Via del Governo Vecchio, with a good selection of Italian wines by the glass and a loyal neighbourhood crowd. Low-lit, no-frills interior with tables spilling outside in summer. A useful stop for an aperitivo or a late glass of wine in the centro storico without paying Navona prices.

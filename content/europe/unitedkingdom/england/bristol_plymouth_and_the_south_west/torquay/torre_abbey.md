@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Medieval abbey turned Georgian mansion and art gallery"
+score: 8.4
 ---
 
 Founded in 1196 as a Premonstratensian monastery, Torre Abbey is the best-preserved medieval abbey in Devon and Cornwall. After the Dissolution it passed through several private owners and was eventually converted into a Georgian mansion. Today it functions as a historic house museum and art gallery, with medieval rooms alongside Georgian interiors and one of the largest public art collections in Devon.

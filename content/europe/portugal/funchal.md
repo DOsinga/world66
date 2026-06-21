@@ -1,12 +1,17 @@
 ---
-title: Funchal
-type: location
-latitude: 32.6497
-longitude: -16.9087
 done:
   location_cleanup: 2026-04-02
-score: 0.71
+  location_enrich: '2026-05-12'
+image: funchal.jpg
+image_attribution: Portuguese_eyes on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/21446942@N00/51419236003
+latitude: 32.6497
 loc_type: city
+longitude: -16.9087
+score: 0.71
+title: Funchal
+type: location
 ---
 
 Funchal is the capital of Madeira, a volcanic island floating in the Atlantic about 600 kilometers off the coast of Morocco. The city spills down steep green hillsides to the sea, with terracotta rooftops and banana plantations layered between the mountains and the harbor. It gets its name from fennel, which the Portuguese found growing in abundance when they settled here in the 15th century.

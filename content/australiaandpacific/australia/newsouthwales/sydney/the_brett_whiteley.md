@@ -12,6 +12,7 @@ tags:
 title: Brett Whiteley Studio
 type: poi
 url: www.artgallery.nsw.gov.au/brett-whiteley-studio
+score: 6.8
 ---
 
 The preserved warehouse studio of one of Australia's most celebrated 20th century artists. A small but absorbing gallery that rotates exhibitions of Whiteley's work in the space where he actually painted.

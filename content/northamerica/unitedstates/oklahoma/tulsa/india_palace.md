@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: India Palace
 type: poi
+score: 6.4
 ---
 
 India Palace is run by brothers Guldeep and Manjit Singh, who brought their family recipes from India. The tandoor oven is central to the kitchen, turning out tandoori chicken, kebabs, and flatbread in many flavors. The curries and chicken biryani are excellent.

@@ -1,5 +1,0 @@
-europe/netherlands/utrecht
-europe/switzerland/tessin
-asia/pakistan/hunzavalley/gojal_valley/passu
-asia/vietnam/muine__phan_thiet
-africa/niger/transsahara

@@ -9,6 +9,7 @@ tags:
 - monument
 title: Christ the Redeemer (Corcovado)
 type: poi
+score: 9.3
 ---
 
 Elected one of the New Seven Wonders of the World, the 30-metre statue of Cristo Redentor stands atop Corcovado mountain at 710 metres above sea level. Built to commemorate 100 years of Brazilian independence, it dominates the Rio skyline and is visible from almost everywhere in the city.

@@ -1,5 +1,0 @@
-europe/sweden/sdertlje
-europe/switzerland/flims
-northamerica/unitedstates/massachusetts/lexington
-europe/belgium/kortrijk
-europe/germany/rhinelandpalatinate/mosel/mehring

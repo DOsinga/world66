@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sushiville
 type: poi
+score: 4.7
 ---
 
 Conveyor-belt sushi on NW 23rd Avenue with a cheerful underwater decor. Good selection of house rolls; slightly higher prices than most conveyor-belt spots but quality is reliable.

@@ -12,6 +12,7 @@ tags:
 - museum
 title: National Air and Space Museum
 type: poi
+score: 8.9
 ---
 
 The National Air and Space Museum is the most popular museum in the world, with more visitors than even the Louvre or Uffizi. It is also the largest collection of historic aircraft and spacecraft in the world. Where else can you see planes flown by the old greats like Lindbergh and Earhart, and newer pieces of aviation history like the Voyager plane — the first non-stop, non-refuelled flight around the world in 1986. The space programme is well represented too, from Mercury capsules to Apollo command modules. Allow at least half a day; the IMAX theatre and the planetarium are worth the extra time.

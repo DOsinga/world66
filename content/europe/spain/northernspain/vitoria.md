@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: vitoria.jpg
+image_attribution: Ruben Holthuijsen on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/60057960@N06/53807448484
 latitude: 42.846509
+loc_type: city
 longitude: -2.672403
 score: 0.55
 title: Vitoria-Gasteiz
 type: location
-loc_type: city
 ---
 
 Vitoria-Gasteiz is the capital of the Basque Country and one of the most liveable cities in Spain, though it rarely appears on tourist itineraries. That is a shame, because its medieval old town, perched on a hill in the centre, is one of the best-preserved in the Basque region — a tight cluster of streets named after the trades that once occupied them, anchored by the Cathedral of Santa María, which has been under continuous restoration and offers fascinating guided tours of the ongoing work.

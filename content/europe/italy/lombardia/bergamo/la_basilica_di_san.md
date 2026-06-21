@@ -8,6 +8,7 @@ tags:
 - church
 title: Basilica di Santa Maria Maggiore
 type: poi
+score: 9.5
 ---
 
 One of the great Lombard Romanesque churches, built from 1137 on the site of an earlier church dating to 774 AD. The facade is covered in red, white and black marble; the roof in stone ardesia shingles like the mountain villages above the city.

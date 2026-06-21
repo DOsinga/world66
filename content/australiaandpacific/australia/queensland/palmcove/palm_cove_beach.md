@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: -16.7469
 longitude: 145.6658
+score: 8.3
 ---
 
 The beach is the reason Palm Cove exists. A long crescent of fine sand, sheltered from ocean swells, with the melaleuca trees of the esplanade running right along its edge. Early morning the light is extraordinary — the Coral Sea turns shades of green and pale blue and the trees cast long shadows across the sand.

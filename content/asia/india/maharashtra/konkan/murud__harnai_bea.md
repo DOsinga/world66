@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Murud-Harne Beach
 type: poi
+score: 6.1
 ---
 
 A relatively undeveloped beach near Dapoli, about 200km from Pune and 250km from Mumbai. Dolphins are sometimes visible offshore. Several resorts operate in the area.

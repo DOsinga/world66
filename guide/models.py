@@ -50,11 +50,20 @@ DISPLAY_PROPERTIES = {
 }
 
 
+def _score_desc_title_key(page):
+    """Sort pages by score descending, then title for stable ties."""
+    try:
+        score = float(page.meta.get("score", 0) or 0)
+    except (TypeError, ValueError):
+        score = 0
+    return (-score, page.title.casefold())
+
+
 def _load_md(path):
     """Load and parse a markdown file. Returns (meta, body) or None.
 
     Raises on invalid frontmatter — content is expected to be valid.
-    Run `python3 tools/check_frontmatter.py` to find and fix broken files.
+    Run `python3 tools/linter.py` to find and fix broken files.
     """
     if not path.is_file():
         return None
@@ -72,9 +81,17 @@ class Page:
     page_type: str = "location"
     body: str = ""
     meta: dict = field(default_factory=dict)
+    revision: str = ""      # short hash used in URLs
+    source_ref: str = ""    # full git object used for content reads
 
     def get_absolute_url(self):
+        if self.revision:
+            return f"/{self.revision}/{self.path}"
         return f"/{self.path}"
+
+    @property
+    def url_prefix(self):
+        return f"/{self.revision}" if self.revision else ""
 
     @property
     def properties(self):
@@ -117,7 +134,12 @@ class Page:
         parts = self.path.split("/")
         for i in range(len(parts)):
             ancestor_path = "/".join(parts[: i + 1])
-            ancestor = load_page(ancestor_path)
+            if self.source_ref:
+                ancestor = load_page_from_revision(
+                    ancestor_path, self.source_ref, url_revision=self.revision
+                )
+            else:
+                ancestor = load_page(ancestor_path)
             if ancestor:
                 crumbs.append((ancestor.title, ancestor.path))
             else:
@@ -131,6 +153,9 @@ class Page:
         so the template can group them (sections at top, section_groups with
         their members nested, etc.).
         """
+        if self.source_ref:
+            return self.children_from_revision()
+
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
             return [], [], []
@@ -163,7 +188,44 @@ class Page:
                     elif child.page_type in NAV_TYPES:
                         nav_pages.append(child)
 
-        return nav_pages, locations, pois
+        return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
+
+    def children_from_revision(self):
+        """Sub-pages in this page's git-tree directory, grouped by type."""
+        names = _revision_dir_names(self.source_ref, self.path)
+        if not names:
+            return [], [], []
+
+        dir_names = {n for n in names if not n.endswith(".md")}
+        nav_pages = []
+        locations = []
+        pois = []
+
+        for name in sorted(names):
+            if name.endswith(".md"):
+                stem = name[:-3]
+                if stem == self.slug or stem in dir_names:
+                    continue
+                page = load_page_from_revision(
+                    f"{self.path}/{stem}", self.source_ref, url_revision=self.revision
+                )
+            elif "." not in name:
+                page = load_page_from_revision(
+                    f"{self.path}/{name}", self.source_ref, url_revision=self.revision
+                )
+            else:
+                continue
+
+            if not page:
+                continue
+            if page.page_type in NAV_TYPES:
+                nav_pages.append(page)
+            elif page.page_type == "poi":
+                pois.append(page)
+            else:
+                locations.append(page)
+
+        return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
     def children_from_branch(self, branch: str):
         """Branch-aware version of children(): reads from git instead of the filesystem."""
@@ -211,11 +273,14 @@ class Page:
 
         Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
         """
-        city_path = _find_city_path(self.path)
+        city_path = _find_city_path(self.path, self.source_ref, self.revision)
         if not city_path:
             return []
         tag = self.nav_tag
-        by_tag = find_tagged_pois(city_path, tag, _city_tag_index=_city_tag_index)
+        by_tag = find_tagged_pois(
+            city_path, tag, _city_tag_index=_city_tag_index,
+            revision=self.source_ref, url_revision=self.revision,
+        )
 
         # Legacy: also scan the section's own subdirectory for untagged POIs
         legacy = self._legacy_dir_pois()
@@ -224,10 +289,21 @@ class Page:
             if p.path not in seen:
                 by_tag.append(p)
 
-        return by_tag
+        return sorted(by_tag, key=_score_desc_title_key)
 
     def _legacy_dir_pois(self):
         """POIs inside this page's own subdirectory (pre-tag content)."""
+        if self.source_ref:
+            pois = _revision_dir_pois(
+                self.source_ref, self.path, self.path, self.revision
+            )
+            if not pois and "/" in self.path:
+                fallback_dir = f'{self.path.rsplit("/", 1)[0]}/{self.slug}'
+                pois = _revision_dir_pois(
+                    self.source_ref, fallback_dir, self.path, self.revision
+                )
+            return sorted(pois, key=_score_desc_title_key)
+
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
             # Also try sibling directory with same name as slug
@@ -241,26 +317,32 @@ class Page:
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if page and page.page_type == "poi":
                     pois.append(page)
-        return pois
+        return sorted(pois, key=_score_desc_title_key)
 
     # Keep old name for call sites not yet updated
     def pois(self):
         return self.tagged_pois()
 
 
-def _find_city_path(path):
+def _find_city_path(path, revision=None, url_revision=None):
     """Return the path of the nearest ancestor page with type 'location'."""
     parts = path.split("/")
     for i in range(len(parts) - 1, 0, -1):
         candidate = "/".join(parts[:i])
-        page = load_page(candidate)
+        page = (
+            load_page_from_revision(candidate, revision, url_revision=url_revision)
+            if revision else load_page(candidate)
+        )
         if page and page.page_type == "location":
             return candidate
     return None
 
 
-def build_city_tag_index(city_path):
+def build_city_tag_index(city_path, revision=None, url_revision=None):
     """Scan all POI files under city_path once and return {tag: [Page, ...]}."""
+    if revision:
+        return _build_city_tag_index_from_revision(city_path, revision, url_revision)
+
     city_dir = CONTENT_DIR / city_path
     if not city_dir.is_dir():
         return {}
@@ -271,7 +353,7 @@ def build_city_tag_index(city_path):
         if not result:
             continue
         meta, _ = result
-        if meta.get("type") != "poi":
+        if meta.get("type") not in ("poi", "neighbourhood", "theme"):
             continue
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):
@@ -292,14 +374,14 @@ def build_city_tag_index(city_path):
     return index
 
 
-def find_tagged_pois(city_path, tag, _city_tag_index=None):
+def find_tagged_pois(city_path, tag, _city_tag_index=None, revision=None, url_revision=None):
     """Return POIs under city_path tagged with tag.
 
     Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
     """
     if _city_tag_index is None:
-        _city_tag_index = build_city_tag_index(city_path)
-    return list(_city_tag_index.get(tag, []))
+        _city_tag_index = build_city_tag_index(city_path, revision, url_revision)
+    return sorted(_city_tag_index.get(tag, []), key=_score_desc_title_key)
 
 
 def _load_page_from_file(file_path, url_path):
@@ -317,21 +399,116 @@ def _load_page_from_file(file_path, url_path):
     )
 
 
+def _load_page_from_git_path(git_path, url_path, revision, url_revision=None):
+    """Load a Page from a content/*.md path in a git revision."""
+    result = subprocess.run(
+        ["git", "show", f"{revision}:{git_path}"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return None
+    post = frontmatter.loads(result.stdout)
+    slug = Path(git_path).stem
+    title = post.metadata.get("title", slug)
+    page_type = post.metadata.get("type", "location")
+    return Page(
+        slug=slug, path=url_path, title=title, page_type=page_type,
+        body=post.content, meta=post.metadata,
+        revision=url_revision or revision[:10], source_ref=revision,
+    )
+
+
+def load_page_from_revision(path, revision, url_revision=None):
+    """Load a page from a git revision without touching the filesystem."""
+    slug = path.rsplit("/", 1)[-1] if "/" in path else path
+    for git_path in [f"content/{path}/{slug}.md", f"content/{path}.md"]:
+        page = _load_page_from_git_path(git_path, path, revision, url_revision)
+        if page:
+            return page
+    return None
+
+
 def load_page_from_branch(path, branch):
-    """Load a page from a git branch using git show, without touching the filesystem."""
-    slug = path.rsplit('/', 1)[-1] if '/' in path else path
-    for git_path in [f'content/{path}/{slug}.md', f'content/{path}.md']:
+    """Compatibility wrapper for old ?branch= callers."""
+    return load_page_from_revision(path, branch, url_revision=branch)
+
+
+def _revision_dir_names(revision, url_path):
+    """Return immediate child names for a content directory at a git revision."""
+    result = subprocess.run(
+        ["git", "ls-tree", "--name-only", revision, f"content/{url_path}/"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return []
+    prefix = f"content/{url_path}/"
+    names = []
+    for line in result.stdout.splitlines():
+        if not line:
+            continue
+        names.append(line.removeprefix(prefix).split("/", 1)[0])
+    return sorted(set(names))
+
+
+def _revision_dir_pois(revision, dir_url_path, page_url_base, url_revision=None):
+    pois = []
+    for name in _revision_dir_names(revision, dir_url_path):
+        if not name.endswith(".md"):
+            continue
+        page = _load_page_from_git_path(
+            f"content/{dir_url_path}/{name}",
+            f"{page_url_base}/{name[:-3]}",
+            revision,
+            url_revision,
+        )
+        if page and page.page_type == "poi":
+            pois.append(page)
+    return pois
+
+
+def _build_city_tag_index_from_revision(city_path, revision, url_revision=None):
+    result = subprocess.run(
+        ["git", "ls-tree", "-r", "--name-only", revision, f"content/{city_path}/"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return {}
+
+    index = {}
+    seen = set()
+    for git_path in sorted(result.stdout.splitlines()):
+        if not git_path.endswith(".md"):
+            continue
         result = subprocess.run(
-            ['git', 'show', f'{branch}:{git_path}'],
+            ["git", "show", f"{revision}:{git_path}"],
             capture_output=True, text=True, check=False,
             cwd=str(settings.BASE_DIR),
         )
-        if result.returncode == 0:
-            post = frontmatter.loads(result.stdout)
-            title = post.metadata.get('title', slug)
-            page_type = post.metadata.get('type', 'location')
-            return Page(slug=slug, path=path, title=title, page_type=page_type, body=post.content, meta=post.metadata)
-    return None
+        if result.returncode != 0:
+            continue
+        post = frontmatter.loads(result.stdout)
+        if post.metadata.get("type") not in ("poi", "neighbourhood", "theme"):
+            continue
+        raw_tags = post.metadata.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",")]
+        if not raw_tags:
+            continue
+        rel = Path(git_path).relative_to("content")
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        url_path = "/".join(parts[:-1] + [stem])
+        if url_path in seen:
+            continue
+        seen.add(url_path)
+        page = _load_page_from_git_path(git_path, url_path, revision, url_revision)
+        if page:
+            for tag in raw_tags:
+                index.setdefault(tag, []).append(page)
+    return index
 
 
 def load_page(path):
@@ -339,8 +516,8 @@ def load_page(path):
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
     for md_file in [
-        CONTENT_DIR / path / f"{slug}.md",
         CONTENT_DIR / f"{path}.md",
+        CONTENT_DIR / path / f"{slug}.md",
     ]:
         if md_file.is_file():
             return _load_page_from_file(md_file, path)
@@ -354,7 +531,7 @@ def load_page(path):
     return None
 
 
-def resolve_tag_route(path):
+def resolve_tag_route(path, revision=None, url_revision=None):
     """Resolve a virtual tag-based URL: city/nav-slug/poi-slug.
 
     Returns (poi_page, nav_page) or (None, None).
@@ -376,17 +553,27 @@ def resolve_tag_route(path):
         city_path = "/".join(parts[:city_len])
         nav_slug = parts[city_len]
 
-        city_page = load_page(city_path)
+        city_page = (
+            load_page_from_revision(city_path, revision, url_revision=url_revision)
+            if revision else load_page(city_path)
+        )
         if not city_page or city_page.page_type != "location":
             continue
 
-        nav_page = load_page(city_path + "/" + nav_slug)
+        nav_page = (
+            load_page_from_revision(
+                city_path + "/" + nav_slug, revision, url_revision=url_revision
+            )
+            if revision else load_page(city_path + "/" + nav_slug)
+        )
         if not nav_page or nav_page.page_type not in NAV_TYPES:
             continue
 
         # Find a POI in this city tagged with the nav page's tag
         tag = nav_page.nav_tag
-        for poi in find_tagged_pois(city_path, tag):
+        for poi in find_tagged_pois(
+            city_path, tag, revision=revision, url_revision=url_revision
+        ):
             if poi.slug == poi_slug:
                 return poi, nav_page
 
@@ -427,6 +614,145 @@ def load_tag_index():
         for tag in raw_tags:
             index.setdefault(tag, []).append(page)
     return index
+
+
+@lru_cache(maxsize=1)
+def load_story_pois():
+    """Return all POIs tagged 'story' with their parent location title. Cached for the process lifetime; caller randomises."""
+    result = []
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        r = _load_md(md_file)
+        if not r:
+            continue
+        meta, body = r
+        if meta.get("type") != "poi":
+            continue
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        tag_set = set(raw_tags)
+        if "story" not in tag_set or tag_set & {"books", "getting_there", "hotel", "accommodation"}:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        page = _load_page_from_file(md_file, url_path)
+        if not page:
+            continue
+        parent_path = "/".join(url_path.split("/")[:-1])
+        parent = load_page(parent_path) if parent_path else None
+        result.append({
+            "page": page,
+            "story": meta.get("story", "") or body[:400],
+            "snippet": meta.get("snippet", ""),
+            "location": parent.title if parent else "",
+        })
+    return result
+
+
+_CITY_SCORE_THRESHOLDS = {
+    "africa": 0.52,
+    "caribbean": 0.44,
+    "centralamerica": 0.46,
+    "southamerica": 0.48,
+    "middleeast": 0.46,
+    "australiaandpacific": 0.50,
+    "asia": 0.60,
+    "northamerica": 0.60,
+    "europe": 0.65,
+}
+
+
+@lru_cache(maxsize=1)
+def load_featured_cities():
+    """Return location pages at city level (depth 3 or 4). Score threshold varies by continent."""
+    result = []
+
+    def _try_city(city_file, cont_name, country_name, state_name=None):
+        r = _load_md(city_file)
+        if not r:
+            return
+        meta, body = r
+        if meta.get("type") != "location":
+            return
+        score = float(meta.get("score", 0) or 0)
+        threshold = _CITY_SCORE_THRESHOLDS.get(cont_name, 0.60)
+        if score < threshold:
+            return
+        image = meta.get("image", "")
+        if not image:
+            return
+        # At depth-3 (no state_name), skip entries that are state/province containers —
+        # i.e. pages whose corresponding directory holds child location pages (cities).
+        # Those cities are already captured at depth-4.
+        if not state_name:
+            sub = city_file.parent / city_file.stem
+            if sub.is_dir():
+                for child in sorted(sub.iterdir()):
+                    if child.is_file() and child.suffix == ".md":
+                        child_r = _load_md(child)
+                        if child_r and child_r[0].get("type") == "location":
+                            return  # this is a state/region page, not a city
+                        break
+        stem = city_file.stem
+        if state_name:
+            if stem == state_name:
+                url_path = f"{cont_name}/{country_name}/{state_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{state_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{state_name}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        else:
+            if stem == country_name:
+                url_path = f"{cont_name}/{country_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        for candidate in image_candidates:
+            if (CONTENT_DIR / candidate).is_file():
+                image_url = f"/content-image/{candidate}"
+                break
+        else:
+            return
+        page = _load_page_from_file(city_file, url_path)
+        if not page:
+            return
+        country = load_page(f"{cont_name}/{country_name}")
+        result.append({
+            "page": page,
+            "image_url": image_url,
+            "country": country.title if country else "",
+            "lat": meta.get("latitude"),
+            "lng": meta.get("longitude"),
+            "score": score,
+        })
+
+    for cont_dir in sorted(CONTENT_DIR.iterdir()):
+        if not cont_dir.is_dir():
+            continue
+        for country_dir in sorted(cont_dir.iterdir()):
+            if not country_dir.is_dir():
+                continue
+            for entry in sorted(country_dir.iterdir()):
+                if entry.is_file() and entry.suffix == ".md":
+                    # depth-3: continent/country/city.md
+                    _try_city(entry, cont_dir.name, country_dir.name)
+                elif entry.is_dir():
+                    # depth-4: continent/country/state/city.md
+                    for city_file in sorted(entry.iterdir()):
+                        if city_file.is_file() and city_file.suffix == ".md":
+                            _try_city(city_file, cont_dir.name, country_dir.name, entry.name)
+    return result
 
 
 @lru_cache(maxsize=1)

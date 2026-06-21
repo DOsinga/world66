@@ -14,7 +14,7 @@ title: Sanahin
 type: location
 ---
 
-Sanahin — the name means "older than the other one," probably a reference to nearby [Haghpat](/europe/armenia/haghpat_3) — is a village perched on the dissected plateau high above the Debed gorge, now officially a suburb of Alaverdi but feeling very much like its own place. You can reach it by a cable car from Alaverdi (check schedules — hours are irregular) or by a steep, winding road.
+Sanahin — the name means "older than the other one," probably a reference to nearby [Haghpat](/europe/armenia/haghpat) — is a village perched on the dissected plateau high above the Debed gorge, now officially a suburb of Alaverdi but feeling very much like its own place. You can reach it by a cable car from Alaverdi (check schedules — hours are irregular) or by a steep, winding road.
 
 The main attraction is the 10th-century Sanahin Monastery, a walled complex of churches, chapels, and a once-important library. The stonework is beautiful, the setting dramatic, and the place has the quiet weight of real age. In 1996 it was inscribed on the UNESCO World Heritage List together with its counterpart at Haghpat.
 

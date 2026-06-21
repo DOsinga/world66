@@ -12,6 +12,7 @@ tags:
 title: National Gallery
 type: poi
 url: www.nationalgallery.org.uk
+score: 9.7
 ---
 
 The National Gallery houses one of the finest collections of Western European paintings in the world — over 2,300 works spanning from 1250 to 1900, displayed in a purpose-built neoclassical building facing Trafalgar Square. The permanent collection is entirely free.

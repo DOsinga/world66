@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Majerle's Sports Grill
 type: poi
+score: 5.8
 ---
 
 Majerle's Sports Grill is owned by former Phoenix Suns player Dan "Thunder Dan" Majerle. Located in the oldest commercial building in the city, just a block from the Suns arena, it is the perfect spot for a bite before or after a basketball game. The menu leans heavy on bar-food staples, the happy hour is generous, and the staff keeps things moving.

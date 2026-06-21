@@ -3,6 +3,7 @@ tags:
 - sights
 title: Tabokno Falls
 type: poi
+score: 5.8
 ---
 
 Located a hour drive from Calbayog City and 40-minute walk from the villages.

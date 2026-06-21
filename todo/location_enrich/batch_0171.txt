@@ -1,5 +1,0 @@
-northamerica/unitedstates/washington/burlington
-europe/spain/galicia/combarro_village
-africa/kenya/westernkenya/maseno
-europe/italy/lombardia/lake_garda
-europe/bulgaria/plovdiv

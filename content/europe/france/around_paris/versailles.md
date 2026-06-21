@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: versailles.jpg
+image_attribution: Myrabella
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg
 latitude: 48.80354
+loc_type: city
 longitude: 2.126689
+score: 0.87
 title: Versailles
 type: location
-score: 0.87
-image: versailles.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Myrabella
-loc_type: city
 ---
 
 Versailles is one of those places that earns its reputation. The Château de Versailles — built by Louis XIV, the Sun King, to project the absolute power of the French monarchy — is simply enormous, and walking through it you feel the full weight of that ambition. The Hall of Mirrors alone, 73 metres of gilded grandeur, stops most visitors in their tracks.

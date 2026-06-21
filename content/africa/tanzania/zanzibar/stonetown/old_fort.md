@@ -6,6 +6,7 @@ longitude: 39.1892
 snippet: Omani fortress on the site of an earlier Portuguese church
 tags: [things_to_do, sight]
 story: "The Omani Arabs built the Old Fort around 1700 directly over the ruins of a Portuguese Augustinian church and chapel — one of the few places in Stone Town where you can still see the foundation walls of the older European structure embedded in the Omani crenellations."
+score: 7.6
 ---
 
 The Old Fort, also called the Arab Fort, is the oldest surviving building in Stone Town. Its battered orange-brown walls form a near-square between Forodhani Gardens and the back lanes of the old town, with crenellations that lean outwards in the Omani fashion. It served at various points as a garrison, a customs post, a women's prison and a railway terminus before being converted in the 1990s into a cultural centre.

@@ -16,7 +16,7 @@ quick_facts:
   Islands: "18, all inhabited"
   Sheep: "About 70,000 — outnumber the people"
   Tunnels: "Subsea road tunnels connect most islands"
-score: 0.69
+score: 0.65
 loc_type: country
 ---
 

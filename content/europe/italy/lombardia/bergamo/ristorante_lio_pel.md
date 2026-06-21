@@ -15,6 +15,7 @@ tags:
 title: Ristorante Lio Pellegrini with One Suite
 type: poi
 url: www.liopellegrini.it
+score: 5.9
 ---
 
 This fine restaurant is located across the square from the Carrara Art Museum and is quite a work of art in itself. It has a restaurant, a veranda, an outdoor garden restaurant in warm weather and a suite which includes breakfast and parking.

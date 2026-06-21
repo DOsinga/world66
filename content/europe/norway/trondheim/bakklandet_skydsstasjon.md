@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Bakklandet Skydsstasjon
 type: poi
+score: 5.6
 ---
 
 A small, cosy inn-style restaurant tucked into the historic Bakklandet neighbourhood just across the Old Town Bridge, serving local specialities. A handful of outdoor tables appear in summer. The wooden houses and cobbled streets of Bakklandet make this one of the nicest spots in the city for a meal.

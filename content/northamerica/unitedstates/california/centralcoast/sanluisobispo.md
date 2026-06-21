@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
 latitude: 35.2828
+loc_type: city
 longitude: -120.6596
+score: 0.55
 title: San Luis Obispo
 type: location
-score: 0.55
-loc_type: city
+image: sanluisobispo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:073x_Dining_in_the_Street_(50324001011).jpg
+image_license: CC BY-SA 2.0
+image_attribution: two21
 ---
 
 San Luis Obispo — universally called SLO — was founded around Mission San Luis Obispo de Tolosa, established in 1772. The mission still anchors the downtown, and San Luis Creek still runs through it. What grew up around them is a genuinely pleasant California city that manages to feel unhurried despite being home to Cal Poly (California Polytechnic State University), one of California's larger public universities.

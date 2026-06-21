@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Toorji Ka Jhalra
 type: poi
+score: 7.5
 ---
 
 A 250-year-old stepwell in the heart of the old city, restored in the 2010s after decades of being used as a dump. The geometric drop of carved sandstone steps disappearing into green water is one of the most photogenic spots in Jodhpur. Surrounding it is a small cluster of cafes and design shops -- a good break between bazaar dives.

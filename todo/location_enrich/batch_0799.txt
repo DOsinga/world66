@@ -1,5 +1,0 @@
-europe/serbia/kosovoprovince/pristina
-europe/france/aquitaine/la_teste_de_buch
-northamerica/unitedstates/florida/pensacola/pensacola_beach
-europe/estonia/ruhnu_island
-africa/somalia/galkayo

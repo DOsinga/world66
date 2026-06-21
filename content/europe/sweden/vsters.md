@@ -1,12 +1,16 @@
 ---
-title: Västerås
-type: location
-latitude: 59.611
-longitude: 16.5464
 done:
   location_cleanup: 2026-04-07
-score: 0.45
+  location_enrich: '2026-05-12'
+image: vsters.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2009-01-03-vasteras-cathedral-by-night.jpg
+latitude: 59.611
 loc_type: city
+longitude: 16.5464
+score: 0.45
+title: Västerås
+type: location
 ---
 
 Västerås sits on the northern shore of Lake Mälaren, about an hour west of [Stockholm](/europe/sweden/stockholm) by train. It is one of Sweden's oldest cities, with roots stretching back to Viking times, and today it is the country's sixth largest -- a mix of medieval history, industrial heritage, and modern lakeside living.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/colorado/westminster
-northamerica/thecaribbean/cuba/remedios
-europe/italy/sicily/caltabellotta
-northamerica/costarica/santacruz
-africa/tunisia/bullaregia

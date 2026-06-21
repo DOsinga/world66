@@ -1,9 +1,8 @@
 ---
-title: "Getting Around in Phitsanulok"
+title: Getting Around
 type: section
 ---
 
-**Phitsanulok**
-Apart from its exceptional natural charisma, Phitsanulok provides visitors with an opportunity to explore notable chapters of Thailand's history. For example, remains of an ancient community dating back between 2,000-4,000 years, including old stone axes, was found here. In addition, the old temple of Wat Chula Mani, situated 5 kilometers south of the city, was built even before the Sukhothai Kingdom burst into power.
-Book cheap transfer at Bangkok Suvarnaphumi Airport with a comfortable car and VIP VAN for all destinations,
-Phitsanulok. You need at Bangkoklimo.org.online payment is a vailable. www. bangkoklimo.org
+The city centre is small enough to walk between the main temples and the riverfront. Samlors (three-wheeled bicycle rickshaws) and songthaews (shared pickup trucks) are the local transport — agree the fare before you get in. Tuk-tuks are also available near the train station.
+
+The Sgt Major Thawee Folk Museum and the Buranathai Buddha Foundry are both about two kilometres south of the station, easily reached on foot, by bicycle, or by tuk-tuk. Wat Chula Mani, five kilometres south, requires a tuk-tuk or motorbike taxi. For day trips to Sukhothai, buses run regularly from the bus station; the journey takes around an hour.

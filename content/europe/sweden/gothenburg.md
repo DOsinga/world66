@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-20'
+image: gothenburg.jpg
+image_attribution: Gegik
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Barken_Viking_i_G%C3%B6teborg.JPG
 latitude: 57.707233
+loc_type: city
 longitude: 11.967017
 score: 0.59
 title: Gothenburg
 type: location
-loc_type: city
 ---
 
 Gothenburg is Sweden's second city and has a character quite different from [Stockholm](/europe/sweden/stockholm). Founded in 1621 and built by Dutch immigrants, it still has gabled houses and an Amsterdam-style canal around the old centre. The harbour -- Sweden's only one that does not freeze in winter -- remains central to the city's identity and atmosphere.

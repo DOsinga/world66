@@ -8,6 +8,7 @@ tags:
 latitude: 43.3628
 longitude: -5.8482
 snippet: "Eduardo Úrculo's monumental sculpture of five bronze posteriors"
+score: 6.5
 ---
 
 A group of five large bronze buttocks on a stone plinth in Plaza de la Escandalera, created by sculptor Eduardo Úrculo in 2001. The title is mock-Latin for "monumental backsides," and the piece is exactly what it sounds like — five oversized, polished rear ends arranged in a row. It is cheerfully irreverent and one of the most photographed sculptures in the city.

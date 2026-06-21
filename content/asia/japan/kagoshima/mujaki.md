@@ -6,6 +6,7 @@ longitude: 130.5580
 snippet: Home of the original shirokuma shaved-ice dessert
 tags: [eating_out, cafe, tenmonkan]
 neighbourhood: Tenmonkan
+score: 5.9
 ---
 
 Mujaki claims to have invented shirokuma in 1947 and is still the place to eat one. The "white bear" — named for the way condensed milk poured over shaved ice resembles a polar bear's face — is the size of a small basketball, topped with cherries, raisins, tinned fruit and a heart-shape of red bean. One is plenty for two.

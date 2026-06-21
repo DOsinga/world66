@@ -8,6 +8,7 @@ tags:
 latitude: 37.9818
 longitude: 23.7431
 snippet: The highest point in central Athens, with a panorama of the entire city and the Acropolis below
+score: 7.7
 ---
 
 Lycabettus is a steep limestone hill rising 277 metres above sea level in the middle of the city, capped by the small 19th-century Chapel of Saint George and a terrace with an outdoor cafe. The view from the top takes in the entire city — the Acropolis to the southwest, Piraeus and the sea to the south, and the mountains ringing Athens on the landward sides. On a clear day you can see as far as the island of Aegina.

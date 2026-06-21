@@ -2,9 +2,10 @@
 snippet: Spanish dominates; English less common than expected
 tags:
 - practical_information
-- practical_informat
+- practical_information
 title: Language
 type: poi
+score: 2.0
 ---
 
 Spanish is the official language of Panama. Despite the long American presence in the Canal Zone, English is far less widely spoken than most visitors expect. Former "Zonians" and people in international banking tend to be bilingual, but the average Panamanian on the street speaks little or no English.

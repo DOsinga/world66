@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Balkerne Gate
 type: poi
+score: 7.8
 ---
 
 The largest surviving Roman gateway in Britain, the Balkerne Gate once served as the main western entrance to the Roman city. Two of the original four arches remain, and enough of the flanking guardrooms survive to give a real sense of the structure's original scale. It sits at the end of the high street, easy to miss if you're not looking for it but arresting once you find it.

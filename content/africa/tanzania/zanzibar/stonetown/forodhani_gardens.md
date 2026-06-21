@@ -5,6 +5,7 @@ latitude: -6.1606
 longitude: 39.1886
 snippet: Seafront park that turns into a grilled-food night market
 tags: [things_to_do, sight, eating_out]
+score: 7.7
 ---
 
 Forodhani — also called Jubilee Gardens — is a strip of seafront lawn and almond trees between the Old Fort and the harbour. By day it is a quiet shaded park where local families picnic and small boys jump from the seawall into the bay. From around five in the afternoon the food vendors arrive and set up dozens of trestle stalls, white tablecloths and pressure lamps.

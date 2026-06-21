@@ -4,12 +4,17 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -34.030377
 longitude: 18.417646
+scores:
+  activities: 0.5813
+  landmark: 0.6393
+  sightseeing: 0.6502
 snippet: Cape Town's oldest wine estate with manor house museum
 tags:
 - things_to_do
-- landmark
+- sight
 title: Groot Constantia
 type: poi
+score: 8.7
 ---
 
 The oldest wine estate in South Africa, Groot Constantia dates back to 1685 when Governor Simon van der Stel was granted the land. The Manor House is furnished with Cape Dutch furniture from the mid-1700s alongside Chinese, Japanese, Rhenish, and Delft porcelain, offering a vivid picture of colonial farm life.

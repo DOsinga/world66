@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 7.3
 ---
 
 The best coastal viewpoint on the north of São Miguel, signposted off the EN1-1A about fifteen minutes east of Ribeira Grande. A short walk from the car park brings you to a stone platform on the cliff edge with a near-vertical drop of two hundred metres to the Atlantic and a view that runs west along the coast back toward Ribeira Grande and east to the tea plantations.

@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Groeningemuseum
 type: poi
+score: 9.5
 ---
 
 The Groeningemuseum is Bruges' essential art museum, home to a world-class collection of Flemish Primitives that you simply cannot see anywhere else in this depth. Jan van Eyck's *Madonna with Canon Joris van der Paele* and works by Hans Memling, Gerard David, and Hieronymus Bosch anchor a collection that traces painting in the Southern Low Countries from the 15th century to the present.

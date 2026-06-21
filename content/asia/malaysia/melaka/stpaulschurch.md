@@ -3,9 +3,11 @@ latitude: 2.1942
 longitude: 102.2496
 snippet: Ruined 1521 Portuguese chapel atop St. Paul's Hill
 tags:
-- sights
+- things_to_do
+- landmark
 title: St. Paul's Church
 type: poi
+score: 8.3
 ---
 
 Built by the Portuguese captain Duarte Coelho in 1521 as "Our Lady of the Hill," this roofless chapel sits at the summit of St. Paul's Hill with views over the Strait of Malacca. The Dutch renamed it St. Paul's Church and used it as a burial ground for their noble dead -- several tombstones with Latin and Portuguese inscriptions still line the interior walls.

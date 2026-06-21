@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Sulamani Temple
 type: poi
+score: 8.8
 ---
 
 Built in 1183 by King Narapatisithu, the Sulamani ("Crowning Jewel") is one of the finest examples of the late Bagan style — a two-storey structure with elegant proportions and some of the best-preserved interior frescoes on the plain. The paintings inside date from several periods, with later Konbaung-era additions layered over the original 12th-century work.

@@ -1,5 +1,0 @@
-europe/sweden/hjo
-northamerica/unitedstates/california/atascadero
-australiaandpacific/australia/southaustralia/cooberpedy
-europe/italy/sicily/aeolianislands/lipari
-northamerica/unitedstates/california/arcadia

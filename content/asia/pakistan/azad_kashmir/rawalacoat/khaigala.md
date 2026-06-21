@@ -1,16 +1,21 @@
 ---
 done:
-  location_cleanup: '2026-04-10'
-latitude: 33.817933
-longitude: 73.845556
+  link_coverage: '2026-06-08'
+image: khaigala.jpg
+image_attribution: Hafizusman1997
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jungle_khai_gala_30.jpg
+latitude: 33.85
+loc_type: city
+longitude: 73.8333
+sources:
+- https://en.wikipedia.org/wiki/Khai_Gala
 title: Khaigala
 type: location
-score: 0.32
-loc_type: city
 ---
 
-Khaigala is a small hill town on the road between Rawalakot and [Hajira](/asia/pakistan/azad_kashmir/hajira), sitting at a higher elevation than the valley settlements below. Most travellers pass through rather than stay, but the bazaar makes for a natural stopping point — tea stalls line the road, and you can pick up basic provisions and snacks for onward travel.
+Khaigala is a small roadside town in the Poonch District of Azad Kashmir, sitting at around 1,700 metres in the hills between Rawalakot and Hajira. It is one of those places that travellers pass through more often than they stop in — a single bazaar strip, a few tea shops, and a scatter of houses on the surrounding ridges.
 
-The surrounding landscape is wooded with pine and deodar, and the air is noticeably cooler than in the lowlands. On a clear day, the views from the road above town stretch across a patchwork of terraced fields and forested ridges. The area is pleasant for walking, though there are no formal trails — you simply follow the paths that connect the scattered villages and farmsteads.
+The town's usefulness for a traveller is its position. The road from Rawalakot to Hajira climbs over Khaigala, and the views over the pine-covered valleys on either side are some of the best in the district. Shared wagons heading in either direction stop here, and you can break a journey for chai and grilled corn without much fuss.
 
-Khaigala is connected to Rawalakot (the Poonch District capital) by a mountain road that takes about an hour. Shared transport runs through the day, though services become sparse in the afternoon. The town sees some domestic visitors in summer escaping the Punjab heat, but foreign tourists are rare — you will attract friendly curiosity.
+There is no formal sight to see and no hotel worth recommending. The point of stopping is the air, the trees, and a half-hour walk along the upper ridge before climbing back on a wagon. Bring a jacket — even in summer the wind can bite at this elevation.

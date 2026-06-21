@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/waynoka
-europe/slovakia/levoca
-africa/capeverde/santo_antao/ponto_do_sol
-europe/unitedkingdom/scotland/eliefife
-europe/ireland/monaghan

@@ -1,5 +1,0 @@
-northamerica/unitedstates/ohio/hamilton
-europe/netherlands/hengelo
-northamerica/elsalvador/santaana
-australiaandpacific/newzealand/otaki
-europe/iceland/dalvkurbygg

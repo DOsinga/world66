@@ -19,6 +19,7 @@ tags:
 title: Eiffel Tower
 type: poi
 url: www.tour-eiffel.fr
+score: 9.3
 ---
 
 The Eiffel Tower was built in 1889 for the World Exposition marking the centennial of the French Revolution. Architect Gustave Eiffel, better known as the engineer behind the Statue of Liberty's iron skeleton, erected the 330-metre iron lattice tower in just over two years. Contemporaries hated it; posterity proved them wrong.

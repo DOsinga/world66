@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
+image: westland.jpg
+image_attribution: Bernard Spragg on Flickr
+image_license: Public Domain
+image_source: https://www.flickr.com/photos/88123769@N02/51993820620
 latitude: -42.8508
+loc_type: city
 longitude: 170.7152
+score: 0.52
 title: Westland
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Westland is the southern part of the [West Coast](/australiaandpacific/newzealand/south_island/west_coast), a narrow ribbon of land where the Southern Alps rise almost straight out of the Tasman Sea. The steep mountains force warm moist winds upward, dropping enormous amounts of rain that feed dense rainforests, glacier-fed lakes and rivers, and the occasional swamp.

@@ -10,6 +10,7 @@ tags:
 - sights
 title: Capuchin Convent (Las Capuchinas)
 type: poi
+score: 8.3
 ---
 
 One of the most fascinating colonial sites in Antigua. Las Capuchinas, the Capuchin Convent, was completed in 1736 under the direction of Diego de Porres, the city's chief architect. Today the convent is partially intact and partially in ruins. The intact portions house a museum and offices for the National Council for the Protection of Antigua Guatemala.

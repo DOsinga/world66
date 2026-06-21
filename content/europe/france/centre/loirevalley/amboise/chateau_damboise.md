@@ -17,6 +17,7 @@ tags:
 tel: 02 47 57 14 47
 title: Château d'Amboise
 type: poi
+score: 8.5
 ---
 
 One of the earliest Renaissance buildings in France, built at the end of the 15th century by Charles VIII who had recently returned from a campaign in Italy, dazzled by what he'd seen. The rooms contain a strong collection of period furniture. The gardens terrace above the Loire gives a view over the whole valley.

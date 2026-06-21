@@ -1,5 +1,0 @@
-europe/georgia/alkhakalaki
-europe/unitedkingdom/scotland/mallaig
-europe/germany/bavaria/hof
-northamerica/unitedstates/utah/springdale
-africa/togo/togoville

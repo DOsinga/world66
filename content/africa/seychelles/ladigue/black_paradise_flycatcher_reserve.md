@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -4.3578
 longitude: 55.8398
+score: 8.3
 ---
 
 A small protected area of woodland on the island's interior where the Seychelles black paradise flycatcher — once feared extinct — has its last significant stronghold. Population estimates now put the number at several hundred, largely thanks to protection of this habitat. A short trail runs through the reserve; early morning gives the best chance of seeing the birds active.

@@ -6,6 +6,7 @@ longitude: -78.7508
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 The Scugog River Trail follows the river north from Lindsay through wetlands, fields, and woodlands. It's a flat, easy walk or cycle — the kind of trail that rewards patience rather than effort. Great blue herons stand in the shallows, and in spring and autumn the riverside vegetation is alive with migrating songbirds.

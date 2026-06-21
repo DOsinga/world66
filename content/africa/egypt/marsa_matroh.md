@@ -1,20 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-latitude: 31.3543
-longitude: 27.2373
+  location_enrich: '2026-05-21'
 image: marsa_matroh.jpg
-image_attribution: "لا روسا"
+image_attribution: لا روسا
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cleopatra_Bath,_Marsa_Matrouh_(22).jpg
+latitude: 31.3543
+loc_type: city
+longitude: 27.2373
+score: 0.45
 title: Marsa Matruh
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Marsa Matruh sits on Egypt's Mediterranean coast, about 290 kilometres west of Alexandria and roughly halfway to the Libyan border. It is a summer resort town, popular with Egyptian families escaping the heat of Cairo, and the beaches here are genuinely striking — white sand, turquoise water, and a sheltered bay that makes the sea unusually calm for the open Mediterranean.
 
-The most famous beach is Cleopatra's Bath (*Hammam Cleopatra*), a natural rock pool on the headland west of town where, according to local legend, the queen once swam. Whether or not the story is true, the setting is beautiful. Ageeba Beach, a few kilometres further west, is dramatic — a cove reached by stone steps cut into the cliff, with transparent water and rocky shelves for diving.
+The most famous beach is [Cleopatra's Beach](/africa/egypt/marsa_matroh/cleopatra_beach) (*Hammam Cleopatra*), a natural rock pool on the headland west of town where, according to local legend, the queen once swam. Whether or not the story is true, the setting is beautiful. [Ageeba Beach](/africa/egypt/marsa_matroh/ageeba_beach), a few kilometres further west, is dramatic — a cove reached by stone steps cut into the cliff, with transparent water and rocky shelves for diving.
 
-Outside the summer months (June to September), Marsa Matruh is quiet to the point of emptiness. Most hotels and restaurants cater to the Egyptian holiday season and wind down in autumn. The town itself is functional rather than charming, but the coastline in both directions is spectacular. The World War II battlefields of El Alamein lie about 250 kilometres to the east, and the oasis of Siwa is reachable by a desert road heading south — a journey of about four hours.
+Outside the summer months (June to September), Marsa Matruh is quiet to the point of emptiness. Most hotels and restaurants cater to the Egyptian holiday season and wind down in autumn. The town itself is functional rather than charming, but the coastline in both directions is spectacular. [Rommel's Cave Museum](/africa/egypt/marsa_matroh/rommel_museum) is an unexpectedly good small museum covering the 1942 desert campaign, and the [Marsa Matruh War Cemetery](/africa/egypt/marsa_matroh/british_cemetery) is quietly moving. The World War II battlefields of El Alamein lie about 250 kilometres to the east, and the oasis of [Siwa](/africa/egypt/siwa) is reachable by a desert road heading south — a journey of about four hours.

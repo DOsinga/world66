@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   The lighthouse was built in 1840 as one of the first lighthouses on the north shore of Lake Erie. It guided ships carrying timber and settlers into the sheltered mouth of Otter Creek, which was then a significant harbour. The lighthouse keeper's logbooks, preserved in the museum, record storms that sank dozens of schooners on the lake during the 19th century.
+score: 7.2
 ---
 
 The Port Burwell Lighthouse is one of the oldest standing lighthouses on the Canadian side of Lake Erie, built in 1840 from local timber. It stands at the edge of the harbour where Otter Creek meets the lake — a modest white tower that looks exactly as you'd hope a 19th-century Great Lakes lighthouse should look. The attached marine museum holds artefacts from the era of sail on Lake Erie: ship models, navigational equipment, and photographs of the vessels that once traded out of this port.

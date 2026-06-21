@@ -4,6 +4,7 @@ tags:
 - eating_out
 title: Seasons
 type: poi
+score: 6.7
 ---
 
 Seasons is the only place in Thimphu to get a pizza and while it may

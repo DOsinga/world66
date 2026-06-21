@@ -1,5 +1,0 @@
-europe/france/midi/provence/aixenprovence
-europe/hungary/szephalom
-europe/denmark/christianso
-northamerica/costarica/tamarindo
-asia/uzbekistan/zarafshan

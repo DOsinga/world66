@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sari Bundo
 type: poi
+score: 5.8
 ---
 
 A chain of good-quality Padang restaurants. The style and quality of food is similar to Natrabu — communal dishes brought to your table, with you only charged for what you eat — but the restaurants have a brighter and more modern feel.

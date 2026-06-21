@@ -1,5 +1,0 @@
-europe/ireland/kilrush
-europe/spain/galicia/ponferrada
-europe/france/midi/provence/cavaillon
-northamerica/unitedstates/newjersey/westorange
-asia/indonesia/kalimantan/samarinda

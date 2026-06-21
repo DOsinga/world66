@@ -6,6 +6,7 @@ longitude: 5.1101
 tags:
 - things_to_do
 - architecture
+score: 7.0
 ---
 
 The world's largest bicycle parking facility, built beneath Utrecht Centraal station. The underground garage holds 12,500 bicycles across three floors, with a digital system that guides cyclists to empty spots and helps them find their bike again afterwards. The sheer scale is staggering — it is larger than many airport car parks, but filled entirely with bicycles.

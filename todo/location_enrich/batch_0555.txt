@@ -1,5 +1,0 @@
-africa/ethiopia/harar
-europe/armenia/odzun
-northamerica/unitedstates/california/palo_alto
-asia/indonesia/aceh/sabang_island
-southamerica/bolivia/cochabamba

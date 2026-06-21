@@ -1,6 +1,7 @@
 ---
 title: Getting There
 type: poi
+score: 2.5
 ---
 
 Here there is some information about how to get to Himachal Pradesh.

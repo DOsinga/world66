@@ -5,9 +5,9 @@ snippet: "Quiet canalside escape from the bustle of Leidseplein"
 tags:
 - things_to_do
 - leidseplein
-- museum_quarter
 title: Leidsekade
 type: poi
+score: 5.9
 ---
 
 The canal running along the south side of Leidseplein — quieter than the square itself, with houseboats moored along the bank and a row of canal-side cafes. A useful escape from the square's noise, and a good vantage point for watching the traffic of boats, bikes, and trams converge at this corner of the city.

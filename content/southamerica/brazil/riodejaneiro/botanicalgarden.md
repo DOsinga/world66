@@ -10,6 +10,7 @@ tags:
 - park
 title: Botanical Garden (Jardim Botanico)
 type: poi
+score: 8.9
 ---
 
 Founded in 1808, Rio's Botanical Garden covers 137 hectares of tropical and subtropical plants. The famous avenue of imperial palms, planted when the garden was created, leads you in. Beyond that you will find orchid houses, a Japanese garden, medicinal plant collections and quiet paths through Atlantic Forest fragments. A peaceful escape from the city's heat and noise.

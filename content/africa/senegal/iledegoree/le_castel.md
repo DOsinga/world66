@@ -7,6 +7,7 @@ tags:
 - sight
 title: Le Castel
 type: poi
+score: 8.0
 ---
 
 Le Castel is the fortified hilltop complex at the southern end of the island — the only real high ground on Gorée. Fortifications from multiple periods are layered here, from early colonial-era defences to twentieth-century bunkers. The bunkers were later occupied by a religious community, giving the place an unusual, lived-in quality.

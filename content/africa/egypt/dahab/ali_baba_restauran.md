@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Ali Baba Restaurant
 type: poi
+score: 5.6
 ---
 
 One of the most established restaurants on the Dahab waterfront, Ali Baba serves a broad international menu with a focus on seafood and Egyptian staples. The portions are generous, the staff are attentive, and the seaside setting is hard to beat. Prices range from budget to moderate depending on what you order.

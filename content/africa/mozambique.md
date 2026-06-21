@@ -14,7 +14,7 @@ quick_facts:
   Bazaruto Archipelago: "Africa's largest marine park"
 done:
   country_cleanup: 2026-03-29
-score: 0.4
+score: 0.59
 loc_type: country
 ---
 
@@ -40,4 +40,4 @@ Mozambique has some of the best beaches on the East African coast, offering azur
 [Ibo island](/africa/mozambique/iboisland)
 [Mozambique island](/africa/mozambique/mozambiqueisland)
 [Gorongosa game reserve](/africa/mozambique/gorongosagamereserve)
-[Bazaruto archipelago](/africa/mozambique/bazarutoarchipelago)
+[Bazaruto archipelago](/africa/mozambique/vilanculos/bazaruto_archipelago)

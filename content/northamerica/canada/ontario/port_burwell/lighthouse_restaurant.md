@@ -6,6 +6,7 @@ longitude: -80.8025
 tags:
   - eating_out
   - restaurant
+score: 4.9
 ---
 
 A wood-panelled diner on Robinson Street, a short walk from the actual lighthouse. The menu is short and very Lake Erie: yellow perch in beer batter, pickerel fillets, a Friday fish fry, burgers, club sandwiches.

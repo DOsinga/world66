@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Quimet & Quimet
 type: poi
+score: 8.0
 ---
 
 Quimet & Quimet is a Barcelona institution — a tiny, standing-room-only bar in Poble Sec that has been run by the same family for five generations. The speciality is montaditos: small pieces of bread topped with combinations of tinned fish (anchovies, tuna, mussels, cockles), preserved vegetables, and sauces. The combinations are creative and delicious.

@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Spido Harbour Tour
 type: poi
+score: 7.4
 ---
 
 The 75-minute Spido boat tour takes you through Europe's largest port, past container terminals, ocean liners, and the Erasmus Bridge. Tours run year-round in multiple languages. The extended summer tours go deeper into the Europoort industrial area. Seeing the harbour from the water puts Rotterdam's identity as a working port city into perspective.

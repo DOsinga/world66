@@ -8,7 +8,7 @@ quick_facts:
   Language: "Dutch official — English and Sranan Tongo widely spoken"
   Forest Cover: "93% tropical rainforest"
   Official Language: Dutch — unique in South America
-score: 0.47
+score: 0.45
 loc_type: country
 ---
 

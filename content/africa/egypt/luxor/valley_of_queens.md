@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Valley of the Queens
 type: poi
+score: 7.8
 ---
 
 Burial site for the wives and children of the New Kingdom pharaohs, across the ridge from the better-known Valley of the Kings. Around eighty tombs have been found here, though only a handful are open to visitors at any given time.

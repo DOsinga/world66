@@ -8,6 +8,7 @@ tags:
 title: St. Stephen's Basilica
 type: poi
 story: "Construction of St. Stephen's Basilica took over half a century — work began in 1851 and the dome collapsed in 1868, delaying completion until 1905. The building holds the mummified right hand of St. Stephen, Hungary's first Christian king, in a jewelled reliquary. The hand is paraded through the streets every August 20th, the national holiday marking Stephen's death."
+score: 8.3
 ---
 
 St. Stephen's Basilica is the largest church in Budapest and one of the two buildings in the city whose height — 96 metres — is constitutionally protected. The dome is best seen from the outside, from the wide square in front of the main entrance, but the interior is worth entering for the scale of the nave, the gilded apse mosaics, and the reliquary chapel holding the holy right hand.

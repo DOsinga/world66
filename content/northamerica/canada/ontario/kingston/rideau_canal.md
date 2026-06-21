@@ -13,6 +13,7 @@ tags:
 - sight
 title: Rideau Canal
 type: poi
+score: 7.6
 ---
 
 The southern terminus of the Rideau Canal is at Kingston Mills, a few kilometres north of downtown, where a flight of four locks lifts boats from the St. Lawrence to the interior. The canal runs 202 kilometres north to Ottawa, passing through lakes, rivers, and 45 locks along the way. Boat tours operate from Kingston's waterfront in summer, and the lockmaster's station at Kingston Mills is a pleasant walk or cycle from the city.

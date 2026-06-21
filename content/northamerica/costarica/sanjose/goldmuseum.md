@@ -9,6 +9,7 @@ tags:
 - museum
 title: Gold Museum
 type: poi
+score: 8.4
 ---
 
 This underground museum beneath the Plaza de la Cultura houses the most extensive collection of pre-Columbian gold in Central America — over 1,600 pieces. The level of artistry achieved by native craftsmen working with gold is striking: intricate figurines, pendants, and ceremonial objects. The same building also contains a numismatic collection tracing Costa Rican currency history.

@@ -7,6 +7,7 @@ tags:
 - festivals
 title: Loy Krathong
 type: poi
+score: 8.8
 ---
 
 Every full moon in November, Thailand celebrates Loy Krathong. "Loy" means to float; a "krathong" is a small lotus-shaped vessel made from banana leaves, decorated with flowers, three incense sticks, and a candle. You set it on the water, make a wish, and watch it drift away. The effect of thousands of flickering krathongs on a dark river is genuinely magical.

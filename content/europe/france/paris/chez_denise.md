@@ -11,6 +11,7 @@ tags:
 - leshalles
 title: Chez Denise (La Tour de Montlhéry)
 type: poi
+score: 7.2
 ---
 
 Chez Denise opened in 1954 to serve the overnight workers at the old Les Halles food market, and the spirit of that original clientele persists: the kitchen runs through the night, the portions are sized for people who have been working in the cold since midnight, and the atmosphere is cheerfully boisterous at 3am.

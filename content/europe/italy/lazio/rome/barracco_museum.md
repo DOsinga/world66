@@ -10,6 +10,7 @@ tags:
 - museum
 title: Barracco Museum
 type: poi
+score: 6.2
 ---
 
 A small museum housing the personal art collection donated to Rome by Baron Giovanni Barracco in 1902. The collection of ancient sculpture includes a head of Alexander the Great and works spanning Egyptian, Assyrian, Greek, and Roman civilizations. Housed in the Piccola Farnesina, a Renaissance building attributed to Antonio da Sangallo the Younger.

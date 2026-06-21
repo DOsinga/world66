@@ -11,6 +11,7 @@ type: poi
 snippet: "Restored 17th-century synagogue with intact women's gallery and mikveh"
 story: >
   The Ibn Danan family were prominent rabbinical scholars who came to Fez as refugees from Spain after the 1492 expulsion. The synagogue they built became the most important in the Mellah. During the French Protectorate, Rabbi Raphael ibn Danan buried his Torah scrolls under the synagogue floor to protect them from looters — they were rediscovered during restoration work in the 1990s.
+score: 7.7
 ---
 
 The best-preserved of Fez's historic synagogues, the Ibn Danan was built in the seventeenth century and restored in the 1990s by a joint Moroccan-American project. It is a beautiful, intimate space with a central bimah (reading platform), wooden galleries, and a functioning mikveh (ritual bath) below floor level — one of the only surviving mikvehs in Morocco.

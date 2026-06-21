@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: oradea.jpg
+image_attribution: Paralelogram
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Black_Eagle_Palace,_Oradea,_Romania,_2020.jpg
 latitude: 47.054916
+loc_type: city
 longitude: 21.928523
+score: 0.52
 title: Oradea
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Oradea sits in the far northwest of Romania, close to the Hungarian border, and it shows — in the language on the street, the names above the shops, and the grand Austro-Hungarian architecture that lines its central boulevards. This is a city that spent centuries as part of the Habsburg Empire, and it wears that history confidently. Nearly a third of the population is of Hungarian descent, making it one of Romania's most distinctly bicultural cities.

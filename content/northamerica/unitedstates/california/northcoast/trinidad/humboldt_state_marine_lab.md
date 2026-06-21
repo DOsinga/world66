@@ -7,6 +7,7 @@ tags:
 title: Humboldt State Marine Laboratory
 type: poi
 snippet: "Small public aquarium at Cal Poly Humboldt's marine research station in Trinidad"
+score: 6.8
 ---
 
 The Cal Poly Humboldt Marine Laboratory at Trinidad operates a small public aquarium open to visitors during the summer months. The displays focus on the marine life of the local coast — the same animals you might find in the tidepools at the state beach, but viewed under better conditions: sea stars, anemones, sea urchins, nudibranchs, small rockfish, and hermit crabs in touch tanks. It is a genuinely educational stop, particularly for visitors with children who want to understand what they are looking at in the tidepools.

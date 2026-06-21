@@ -11,6 +11,7 @@ tags:
 title: Tate Modern
 type: poi
 url: www.tate.org.uk/visit/tate-modern
+score: 9.3
 ---
 
 Tate Modern occupies a converted Bankside Power Station — the Turbine Hall alone, a vast cavernous space, has hosted some of the most talked-about public art installations of the past two decades. The permanent collection spans 1900 to the present day, organised thematically rather than chronologically, which makes for some unexpected and rewarding combinations.

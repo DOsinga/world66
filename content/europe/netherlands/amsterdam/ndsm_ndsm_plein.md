@@ -6,9 +6,9 @@ snippet: "Former shipyard turned sprawling arts and festival complex"
 tags:
 - things_to_do
 - ndsm
-- amsterdam_noord
 title: NDSM Plein
 type: poi
+score: 7.6
 ---
 
 The central square of the NDSM shipyard arts complex — a vast concrete expanse surrounded by artist studios, graffiti halls, and industrial sheds repurposed as event spaces and restaurants. Street food markets and festival stages appear here through the summer. Reached by a free ferry from behind Central Station; the crossing itself is worth the trip.

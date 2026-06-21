@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Outdoor recreation drives most visits. The Hiawassee River and nearby Toccoa, Tallulah, and Chattooga rivers offer good trout fishing, and several outfitters run whitewater rafting trips at various difficulty levels. Lake Chatuge has calm water for kayaking and motorboating; boat rentals are available locally. The Appalachian Trail passes through the nearby mountains with trailheads accessible within a short drive. The Georgia Mountain Fairgrounds on the lake hosts the annual Georgia Mountain Fair each summer and a 10-day fall festival in October; Anderson Music Hall there has concerts year-round. The ArtWorks Artisan Center in town sells handmade work from over 50 regional artists.
+Outdoor recreation drives most visits to Hiawassee. The [Georgia Mountain Fairgrounds](/northamerica/unitedstates/georgia/hiawassee_ga/georgia_mountain_fairgrounds) on Lake Chatuge host the annual Georgia Mountain Fair each summer and a fall festival in October. [Brasstown Bald](/northamerica/unitedstates/georgia/hiawassee_ga/brasstown_bald), just a short drive south, is the highest point in Georgia and worth a visit for the views. The [Fred Hamilton Rhododendron Garden](/northamerica/unitedstates/georgia/hiawassee_ga/fred_hamilton_rhododendron_garden) on the Fairgrounds is spectacular in spring. Anglers can fish the Hiawassee River and several nearby mountain streams for trout, and Lake Chatuge is good for kayaking and boating.

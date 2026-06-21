@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 A 270-hectare conservation area on the south shore of Sturgeon Lake, north of Lindsay. The trail network — twelve kilometres of paths and boardwalks — winds through mixed hardwood forest, marsh, and meadow, with viewing platforms over the wetland for birdwatchers.

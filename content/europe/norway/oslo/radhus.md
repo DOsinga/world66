@@ -8,6 +8,7 @@ tags:
 title: Rådhus
 snippet: Twin-towered 1950 city hall dominating Oslo's waterfront, Nobel Peace Prize venue
 type: poi
+score: 7.8
 ---
 
 The sullen brickwork of the massive city hall, the Rådhus, dominates Fridtjof Nansens Plass and Oslo's waterfront. Opened in 1950 to celebrate the city's 900th anniversary, it took decades to win over skeptics — but the twin towers have since become one of the city's most recognizable landmarks.

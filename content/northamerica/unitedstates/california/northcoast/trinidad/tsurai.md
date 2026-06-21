@@ -9,6 +9,7 @@ type: poi
 snippet: "Site of the Yurok village occupied continuously for at least 600 years before European contact"
 story: >
   The Yurok people of Tsurai first encountered Europeans on 9 June 1775, when Spanish ships anchored in the bay to take on water. The Yurok watched the ceremony of claiming the land for Spain from the shore, almost certainly without understanding its implications. By the time American settlers arrived in the mid-nineteenth century, the Tsurai population had been reduced by disease and displacement. The last Tsurai resident died in 1916.
+score: 7.3
 ---
 
 Tsurai (also spelled Tsurau or Tschura) was a Yurok village on the southern shore of Trinidad Bay, occupied continuously for at least 600 years before European contact. The village site is now a California State Historical Landmark (No. 838) and is preserved as an open green area at the edge of the bay, visible from the harbour.

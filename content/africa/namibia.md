@@ -14,7 +14,7 @@ quick_facts:
   Population Density: "3 people per km²"
 done:
   country_cleanup: 2026-03-29
-score: 0.69
+score: 0.79
 loc_type: country
 ---
 

@@ -10,6 +10,7 @@ tags:
 - historic_site
 title: Tatev Monastery
 type: poi
+score: 9.5
 ---
 
 Tatev Monastery, founded in the 9th century, sits on a dramatic basalt promontory above the Vorotan River gorge in southern Syunik province. It is one of the most impressive monastic complexes in Armenia — architecturally and in its setting.

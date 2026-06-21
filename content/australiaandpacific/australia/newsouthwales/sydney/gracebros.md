@@ -6,6 +6,7 @@ tags:
 - shop
 title: Grace Bros
 type: poi
+score: 2.0
 ---
 
 Located in the heart of Sydney, Grace Bros first opened in 1895, and continues to be ranked amongst the best in the world. The recently magnificent transformed store has eight levels to explore including a complete floor dedicated to the latest in technology appliances and computer equipment, books and music, fashion and homewares.

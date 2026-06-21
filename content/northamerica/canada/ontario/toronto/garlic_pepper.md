@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Garlic Pepper
 type: poi
+score: 4.4
 ---
 
 Well visited restaurant near the corner of Yonge and Wellesley.

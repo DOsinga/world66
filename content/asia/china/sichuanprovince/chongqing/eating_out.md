@@ -1,38 +1,8 @@
 ---
-address: 114 Zourong Road, Yu Zhong District
-title: Eating Out
-type: poi
+title: "Eating Out"
+type: section
 ---
 
-The local Chongqingese enjoy hot pot, which is noted for its hot and
-spicy taste, scalding yet fresh and tender. Pre-sliced meat and
-vegetables are placed in boiling water or broth, with fish, pork, bean
-sprouts and scallions, and you will be hot and excited while eating.
+Chongqing cuisine centres on two pillars: hotpot and xiaomian noodles. Both rely on the same ingredients — dried chilies, Sichuan peppercorns, garlic, and ginger — but produce completely different experiences. Hotpot is a social, hours-long meal; xiaomian is breakfast eaten in five minutes at a street counter.
 
-There are a great variety of hotpots, including Yueyang Hotpot,
-Siwei (Four Tastes) Hotpot, Yashan Hotpot, Yutou (Fish Head) Hotpot and
-Quanyang Hotpot.
-
-There are also other kinds of snacks, such as the tasty
-noodles, baozi(steamed bread dumplings), and other famous dishes
-including tea-smoked duck and dry-stewed fish in the small restaurants
-and street vendors. Other famous foods include: Hechuan Peach Slices,
-the Mihuatang of Jiangzhen, Preserved Eggs from Yongchuan, Fermented
-Beancurd from Zhongxian, Fuling Hot Pickled Mustard Tuber, Yellow
-Peaches from Tongnan, Oranges from Beibei, Pressed Salted Duck
-from Baishiyi and the Beef of Laosichuan.
-
-In Nanshan district, there is a snack street noted for its
-Quanshui chicken, Duck Cooked with Beer, and at the foot of Gele
-Mountain there is a well-known gourmet zone noted for its offerings of
-Ciqikou's Fish with Beancurd, Tongnan's Tai'an Fish and Bishan's
-Laifeng Fish
-
-**Contributors**
-June 06, 2005
-
-### Yizhishi Restaurant
-
-A traditional restaurant serves Sichuan-style pastries in the morning and specialties like tea-smoked duck and dry-stewed fish at lunch and dinner. You can also enjoy the ‘eight-treasure tea’ and beer here.
-
-type: general
+The city's food culture is fiercely local. Chongqing people insist their hotpot is categorically superior to the Chengdu version (oilier, more intensely spiced, traditionally made with tallow rather than vegetable oil). Street food is excellent throughout the city, with particularly good concentrations around Ciqikou ancient town, the Guanyinqiao area, and the Jiefangbei underground food streets.

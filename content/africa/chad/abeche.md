@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: abeche.jpg
+image_attribution: Gerhard Holub
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chad_Clothes_sewer_Ab%C3%A9ch%C3%A9_DSC1594-2.jpg
 latitude: 13.8292
+loc_type: city
 longitude: 20.8324
+score: 0.21
 title: Abeche
 type: location
-score: 0.21
-loc_type: city
 ---
 
 Abeche, 750 km east of [N'Djamena](/africa/chad/ndjamena), was the most important city in [Chad](/africa/chad) when the French arrived. It was the capital of the powerful Ouaddai Kingdom, and you can still see the remnants of that era: crumbling mosques, cobbled streets worn smooth, old souqs, and a rundown sultan's palace that hints at former grandeur.

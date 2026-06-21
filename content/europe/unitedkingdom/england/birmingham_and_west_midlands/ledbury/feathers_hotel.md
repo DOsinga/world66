@@ -5,6 +5,7 @@ latitude: 52.0364
 longitude: -2.4233
 snippet: Black-and-white timber-framed coaching inn since 1564
 tags: [things_to_do, sight, bars_and_cafes, bar, architecture]
+score: 7.6
 ---
 
 The Feathers has stood on the corner of the High Street since 1564 and is the most spectacular of Ledbury's many timber-framed buildings — three storeys of close-studded oak with jettied upper floors and white-rendered panels between. It was a Tudor coaching inn on the road from London to Aberystwyth, and its bar, restaurant and bedrooms have been in continuous use since.

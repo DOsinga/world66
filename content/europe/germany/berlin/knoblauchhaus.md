@@ -9,9 +9,11 @@ snippet: Biedermeier townhouse tracing bourgeois Berlin life across three centur
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Knoblauchhaus
 type: poi
 url: www.stadtmuseum.de
+score: 6.7
 ---
 
 Despite the name ("Knoblauch" means garlic), this house belonged to a noble Berlin family, not a vegetable dealer. It traces bourgeois life from the 18th to the early 20th century through Biedermeier furniture and classicist interiors. Small and unpretentious — a good contrast to the grand museums nearby on the island.

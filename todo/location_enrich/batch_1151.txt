@@ -1,5 +1,0 @@
-europe/unitedkingdom/wales/machynlleth
-asia/india/westbengal/kalimpong
-northamerica/unitedstates/southcarolina/florence
-europe/unitedkingdom/england/eastern_england/rayleigh
-europe/italy/lombardia/mantua

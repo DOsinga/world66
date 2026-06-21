@@ -13,6 +13,7 @@ tags:
 title: Chinese Cultural Center
 type: poi
 url: www.phxchinatown.com
+score: 6.1
 ---
 
 The Chinese Cultural Center offers traditional Chinese architecture, shops, and gardens right off the interstate. The grounds are beautifully decorated with ponds and statues of historic Chinese figures. Good restaurants include the Sampan Seafood Restaurant, and an Asian supermarket anchors the complex. It is one of the most ornate Chinese-style developments in North America.

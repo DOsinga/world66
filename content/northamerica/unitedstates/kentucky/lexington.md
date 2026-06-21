@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: lexington.jpg
+image_attribution: ThatLexingtonKyGuy
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Horses_with_tall_building_in_background_in_Lexington-Fayette_County,_Kentucky.jpg
 latitude: 38.046407
+loc_type: city
 longitude: -84.497039
+score: 0.46
 title: Lexington
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Lexington calls itself the "Horse Capital of the World," and it earns the title. The rolling Bluegrass country surrounding the city is some of the most valuable horse-breeding land on earth, with white-fenced farms stretching to the horizon in every direction. But Lexington is more than thoroughbreds — it is also a university town, home to the University of Kentucky and its famously rowdy Wildcat basketball games, and a mid-sized city with a lively downtown that has been quietly coming into its own.

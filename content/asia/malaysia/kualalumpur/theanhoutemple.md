@@ -4,9 +4,10 @@ longitude: 101.687645
 snippet: "Ornate six-tiered Chinese temple with city skyline views"
 tags:
 - things_to_do
-- landmark
+- sight
 title: Thean Hou Temple
 type: poi
+score: 8.1
 ---
 
 Perched on Robson Hill near the junction of Jalan Syed Putra and Jalan Klang Lama, this six-tiered Chinese temple is one of the largest in Southeast Asia. Built by the Hainanese community and completed in 1989, it blends Buddhist, Taoist and Confucian elements under a cascade of red-and-gold curved roofs ornamented with dragons and phoenixes.

@@ -11,6 +11,7 @@ tags:
 - history
 title: Quattro Canti
 type: poi
+score: 8.5
 ---
 
 The theatrical Baroque crossroads at the intersection of Corso Vittorio Emanuele and Via Maqueda, built between 1608 and 1620 under Spanish rule. The four curved façades are identical in structure — fountain, statues of the four seasons, statues of Spanish kings, statues of patron saints — and were designed to be seen simultaneously from the centre of the intersection. It marks the heart of the old city and is the natural starting point for exploring the four historic quarters.

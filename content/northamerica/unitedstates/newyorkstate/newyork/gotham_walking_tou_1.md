@@ -12,6 +12,7 @@ tags:
 title: Gotham Walking Tours
 type: poi
 url: www.walkingnyctours.com
+score: 5.7
 ---
 
 Neighborhood walking tours of Manhattan and Brooklyn led by a native New Yorker with over twenty years of research behind each route. Tours cover the political, social, and cultural history of areas like the Financial District, Greenwich Village, and Harlem — more depth than most bus tours at a fraction of the cost.

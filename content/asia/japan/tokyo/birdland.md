@@ -9,6 +9,7 @@ tags:
 - roppongi
 title: Birdland
 type: poi
+score: 7.1
 ---
 
 A small, serious jazz club tucked into the basement of a Roppongi building. Birdland books quality acts — mostly Japanese jazz musicians, with occasional international guests — and the intimate room means you're never far from the stage. The sound is excellent for such a compact space.

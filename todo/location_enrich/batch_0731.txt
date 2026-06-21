@@ -1,5 +1,0 @@
-europe/greece/volos
-northamerica/unitedstates/utah/hurricane
-northamerica/mexico/puebla
-asia/india/haryana/kurukshetra
-africa/ghana/accra

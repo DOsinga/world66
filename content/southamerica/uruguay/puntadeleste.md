@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: puntadeleste.jpg
+image_attribution: priscillajp on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/36738812@N00/2061149701
 latitude: -34.9632
+loc_type: city
 longitude: -54.944
+score: 0.67
 title: Punta del Este
 type: location
-score: 0.67
-loc_type: city
 ---
 
 Punta del Este is South America's most glamorous beach resort — a narrow peninsula jutting into the Atlantic where the Rio de la Plata meets the ocean. It has two very different coastlines: the sheltered bay side, calm and good for families, and the open ocean side, where waves roll in hard and the beautiful people go to be seen.

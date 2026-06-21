@@ -10,6 +10,7 @@ tags:
 - shinjuku
 title: Arty Farty
 type: poi
+score: 6.3
 ---
 
 A lively gay bar in the heart of Ni-chome with a small dance floor that gets packed on weekends. The crowd is friendly and mixed, and it is one of the easier Ni-chome bars for foreign visitors to walk into. Free entry most nights.

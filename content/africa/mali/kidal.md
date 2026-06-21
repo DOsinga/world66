@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-21'
 latitude: 19.802089
+loc_type: city
 longitude: 0.725313
+score: 0.13
 title: Kidal
 type: location
-score: 0.13
-loc_type: city
 ---
 
 Kidal is the most remote of [Mali](/africa/mali)'s regions, a vast stretch of Sahara desert in the far northeast with almost no infrastructure. There are no paved roads, and the sparse population is primarily Tamashek (Tuareg), who have historically had a tense relationship with the government in Bamako.

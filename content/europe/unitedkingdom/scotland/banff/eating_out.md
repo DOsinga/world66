@@ -1,35 +1,6 @@
 ---
-title: Eating Out in Banff
-type: poi
+title: Eating Out
+type: section
 ---
 
-Below are some of Banff's places to eat.
-
-**Contributors**
-January 16, 2006
-
-January 24, 2006
-
-### [Hidden Corner Restuarant](/europe/unitedkingdom/scotland/banff/eating_out/hidden_corner_rest)
-
-Hidden Corner Restuarant, Seafield St is small but friendly open Thursday - Sunday.
-
-type: European
-
-
-
-[[rate it]](/europe/unitedkingdom/scotland/banff/eating_out/hidden_corner_rest)
-
-### [Fife Lodge Hotel Restaurant](/europe/unitedkingdom/scotland/banff/eating_out/fife_lodge_restaur)
-
-Fife Lodge Hotel has an excellent restaurant open 7 days.
-
-type: European
-
-
-
-[[rate it]](/europe/unitedkingdom/scotland/banff/eating_out/fife_lodge_restaur)
-
-tel: +44(0) 01261 812436
-
-url: [www.fifelodgehotel.com](http://www.fifelodgehotel.com)
+Banff is small and the eating-out options are modest, but you can find good pub food, fresh local seafood, and a handful of hotel restaurants and cafes around the High Street and the harbour. For a wider choice cross the bridge to Macduff or drive west to the fishing town of Whitehills.

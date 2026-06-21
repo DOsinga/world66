@@ -3,8 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-The bus and train station are just north of the city at the top of St. John street.  
+Kilkenny is well connected by train and bus. The train station (MacDonagh Station) is north of the city on Dublin Road and has regular services to Dublin Heuston (1 hour 40 minutes) and Waterford (40 minutes). There are several services a day in each direction.
 
-We currently have no Getting There listed in Kilkenny.
+Bus Éireann coaches connect Kilkenny to Dublin, Waterford, and Cork. Citylink and other private operators run services to Dublin. The bus stop is near the train station.
 
-If you do know any Getting There in Kilkenny, please [Add].
+By car, Kilkenny is 120 km south of Dublin via the M9 motorway — about 90 minutes in reasonable traffic.

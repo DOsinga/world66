@@ -1,14 +1,8 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-**all**
+Salt Lake City packs a surprising range into a compact, walkable downtown. The Mormon historic sites clustered around Temple Square form the cultural heart, but the city has far more to offer: world-class natural history and art museums, a vibrant arts district, and unmatched access to the Wasatch Mountains just minutes from downtown.
 
-**Lagoon Amusement Park**
-
-Lagoon Amusement Park, Lagoon A Beach Waterpark, historically accurate Pioneer Village, and musical entertainment. Located 17 minutes north of downtown. 
-
-**Utah Fun Dome**
-
-Utah's premiere indoor/outdoor family entertainment center! Over 200,000 square feet of rides and activities. Parties, group rates, and exclusive rental available.
+For outdoor activities, the canyons east of the city are the main draw — Big and Little Cottonwood Canyons offer skiing in winter and hiking in summer, while Emigration Canyon follows the original pioneer route into the valley. The Great Salt Lake itself, visible from almost everywhere in the city, is unique on a global scale and worth at least one visit.

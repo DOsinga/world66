@@ -12,6 +12,7 @@ tags:
 - historic_site
 title: Harriet Tubman Home
 type: poi
+score: 8.6
 ---
 
 The Harriet Tubman Home preserves the legacy of "The Moses of Her People" on 26 acres of land in Auburn. The site, now part of the Harriet Tubman National Historical Park, includes the home where Tubman lived and the Home for the Aged that she established for elderly African Americans.

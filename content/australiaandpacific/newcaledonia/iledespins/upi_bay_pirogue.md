@@ -9,6 +9,7 @@ tags:
 - boat_trip
 title: Upi Bay Pirogue Trip
 type: poi
+score: 9.0
 ---
 
 Upi Bay, on the southeast coast, is an extraordinary landscape: the water is flat calm and shallow, and the bay is studded with large rounded coral formations rising from the surface like green islands — often compared to Halong Bay. The standard way to see it is by traditional outrigger pirogue, paddled by a local Kanak guide.

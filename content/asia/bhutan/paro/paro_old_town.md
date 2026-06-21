@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 - sight
 snippet: Single curving street of carved wooden shopfronts and traditional houses, the heart of Paro town
+score: 6.9
 ---
 
 Paro town itself is a single curving main street about four hundred metres long, lined with traditional two-storey buildings: whitewashed walls, painted window frames, carved wooden balconies overhead. The shops downstairs sell traditional textiles (kira and gho), prayer wheels, dried chillies, and the small wooden bowls and tea churns still in use across the country. Most of the buildings were rebuilt in the 1980s under royal decree to preserve traditional architectural style, but the result is convincing.

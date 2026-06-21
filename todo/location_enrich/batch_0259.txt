@@ -1,5 +1,0 @@
-europe/azerbaijan/naxcivan/nakhchivan_city
-africa/egypt/minya
-europe/netherlands/friesland/bolsward
-northamerica/unitedstates/oklahoma/weatherford
-europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale

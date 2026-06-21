@@ -12,6 +12,7 @@ tags:
 - garden
 title: Luther Burbank Home and Gardens
 type: poi
+score: 7.3
 ---
 
 The horticulturist Luther Burbank developed more than 800 plant varieties during his fifty years in Santa Rosa, and his home and gardens are now a National Historic Landmark. The gardens are free and open daily — at their best in spring and summer when the experimental beds are blooming. Docent-led tours of the house and greenhouse run from April through October.

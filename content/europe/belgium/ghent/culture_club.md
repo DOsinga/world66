@@ -10,6 +10,7 @@ tags:
 title: Culture Club
 type: poi
 website: https://www.cultureclub.be
+score: 5.8
 ---
 
 One of Ghent's main nightlife venues, Culture Club sits in a converted warehouse between Dampoort and the harbor district. The club runs multiple rooms spanning different genres — expect a main dance floor with house and techno, plus rooms for hip-hop, R&B, and retro sets. The crowd skews young and student-heavy, which fits Ghent's university-town character.

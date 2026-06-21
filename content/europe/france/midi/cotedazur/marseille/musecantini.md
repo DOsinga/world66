@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Musée Cantini
 type: poi
+score: 7.5
 ---
 
 Housed in a 17th-century private mansion, the Musée Cantini holds one of France's strongest collections of 20th-century art. The core strength is Fauvist and Surrealist work — Matisse, Dufy, Ernst, Miro, Masson, Picabia, Derain — built up from the 1960s onward through a series of generous donations. Post-war and contemporary pieces by Bacon, Giacometti, Dubuffet, and Tapies round out the collection.

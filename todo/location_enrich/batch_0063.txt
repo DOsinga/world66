@@ -1,5 +1,0 @@
-australiaandpacific/tuvalu/niulakitaisland
-asia/turkey/side
-africa/tunisia/zarzis
-northamerica/unitedstates/arkansas/bentonville
-europe/sweden/resund

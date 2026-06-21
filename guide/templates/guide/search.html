@@ -11,13 +11,14 @@
 {% endblock %}
 
 {% block content %}
-<h1>Search</h1>
+<h1>Search 20,000 destinations</h1>
+<p style="color:var(--mute);margin:-8px 0 24px;font-size:15px;">Cities, regions, sights, restaurants, bars and more.</p>
 
 {% if not has_db %}
 <p class="search-no-results">Search index not found. Run <code>python indexer.py</code> to build it.</p>
 {% else %}
 <div class="search-page-form">
-  <input type="search" id="search-input" value="{{ query|default:'' }}" placeholder="Search destinations&hellip;" autofocus autocomplete="off" aria-label="Search destinations">
+  <input type="search" id="search-input" value="{{ query|default:'' }}" placeholder="Try &ldquo;Kyoto&rdquo;, &ldquo;paella&rdquo;, &ldquo;safari&rdquo;&hellip;" autofocus autocomplete="off" aria-label="Search destinations">
 </div>
 
 <div id="search-status" class="search-count" style="display:none"></div>
@@ -74,18 +75,21 @@
           li.className = 'search-result search-result--' + r.page_type;
           var a = document.createElement('a');
           a.href = r.url;
-          a.textContent = r.title;
+          var titleSpan = document.createElement('span');
+          titleSpan.className = 'search-result-title';
+          titleSpan.textContent = r.title;
+          a.appendChild(titleSpan);
           if (r.location) {
             var loc = document.createElement('span');
             loc.className = 'search-result-location';
             loc.textContent = r.location;
             a.appendChild(loc);
           }
-          var span = document.createElement('span');
-          span.className = 'search-result-type';
-          span.textContent = r.page_type;
+          var typeSpan = document.createElement('span');
+          typeSpan.className = 'search-result-type';
+          typeSpan.textContent = r.page_type.replace('_', ' ');
+          a.appendChild(typeSpan);
           li.appendChild(a);
-          li.appendChild(span);
           resultsList.appendChild(li);
         }
       })

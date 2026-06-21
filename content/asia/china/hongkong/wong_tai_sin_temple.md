@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Wong Tai Sin Temple
 type: poi
+score: 7.6
 ---
 
 Hong Kong's most popular Taoist temple, visited by over three million worshippers a year. The temple was built in 1973 to traditional principles — red pillars, golden roof, blue friezes, yellow lattice — and is dedicated to Wong Tai Sin, a legendary shepherd who learned the art of healing. The main draw is fortune-telling: worshippers shake numbered sticks from a bamboo container before the altar and take the corresponding stick to a soothsayer at one of the booths around the perimeter. The activity covers everything from business decisions to race tips.

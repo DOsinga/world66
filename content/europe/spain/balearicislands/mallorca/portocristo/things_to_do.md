@@ -1,0 +1,8 @@
+---
+title: Things to Do
+type: section
+---
+
+Porto Cristo's fame rests almost entirely on its caves. The Coves del Drac (Caves of the Dragon) are among the most visited attractions in all of Mallorca, and the spectacle inside — vast limestone chambers dropping 25 metres below ground, leading down to the subterranean expanse of Lake Martel — justifies every superlative thrown at them. After the guided tour through the caverns, visitors are seated in an amphitheatre on the lake shore and treated to a classical music concert performed by musicians drifting by in illuminated boats. It is theatrical and strange and genuinely moving. The Coves dels Hams, a kilometre to the west, are smaller and far less crowded; they have their own underground lake, the Venice Sea, and a more intimate atmosphere that suits unhurried exploration.
+
+Beyond the caves, Porto Cristo rewards simply wandering. The harbour inlet is one of the most sheltered on the east coast — fishing boats bob alongside pleasure craft, and the tree-lined esplanade that curves along the waterfront fills each evening with strollers and people nursing long drinks at café tables. The sandy beach at the head of the inlet is small and calm, protected from open-sea swell by the narrow channel entrance, making it safe for children and pleasant for a lazy morning swim. For more energetic days, the coast to the south opens into a series of beautiful coves — Cala Romantica, Cala Anguila, Cala Magrana — each worth the short drive or cycle ride. The nearby town of Manacor, famous for producing Majorica pearls, is an easy day trip inland.

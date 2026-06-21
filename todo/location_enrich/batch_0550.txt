@@ -1,5 +1,0 @@
-asia/indonesia/java/yogyakarta
-europe/greece/poros
-northamerica/unitedstates/california/highsierra/groveland
-asia/malaysia/penang
-asia/mongolia/ulaanbaatar

@@ -1,5 +1,0 @@
-europe/spain/canaryislands/fuerteventura
-europe/spain/centralspain/segovia
-asia/syria/zabadani
-africa/rwanda/kigali
-europe/serbia/novi_beograd

@@ -6,6 +6,7 @@ tags:
 - books
 title: First and Second Kings, Maurice and Harold
 type: poi
+score: 6.2
 ---
 
 A true story about eccentric Alberta millionaires Maurice and Harold King, bachelor brothers who amassed a fortune but lived like paupers. Mary-Jo Burles pieces together the brothers' strange, reclusive lives in rural Alberta, painting a portrait of frugality taken to extremes and the small-town fascination that surrounded them.

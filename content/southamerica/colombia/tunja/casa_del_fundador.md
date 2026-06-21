@@ -15,6 +15,7 @@ tags:
 - landmark
 title: Casa del Fundador Gonzalo Suárez Rendón
 type: poi
+score: 8.7
 ---
 
 The last surviving founder's house in all of Latin America, built between 1540 and 1570 by Muisca labourers for Tunja's Spanish founder. It sat largely unremarked for centuries until a false ceiling collapsed, revealing extraordinary painted murals covering the wooden beams above: a menagerie of animals from three continents — rhinos, elephants, monkeys, and local fauna — painted in the 1540s by someone who clearly had access to European natural history books, or an exceptionally vivid imagination.

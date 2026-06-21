@@ -3,24 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-**In Porto Cervo, transportation** options abound, but you will want to make arrangements well in advance of your trip. The transportation optons described below will help you get started.
+Porto Cervo is small enough to walk end-to-end in twenty minutes, but the beaches and the rest of the Costa Smeralda are spread over a stretch of coast that effectively requires a car. There is no useful public transport between the resort and the surrounding bays.
 
-**Plane**
+**By car.** A rental is by far the easiest option and is best picked up at Olbia airport on arrival. The SP59 is the main road through the Costa Smeralda; smaller spur roads lead to each of the beaches. Parking in Porto Cervo itself is paid and limited in season; the beaches have their own car parks, most of which fill by mid-morning in August.
 
-Getting to Porto Cervo is best done by plane. The nearest airport to Port Cervo is in Olbia, Costa Esmearalda about 23 km away. You can check flight connections on the web depending on where you'll be arriving from.
+**By boat.** Many visitors arrive by their own yacht or charter a small motorboat for the day from the marina. A skippered rib opens up beaches you cannot reach by road — Cala Liscia Ruja, the islet of Soffi, and the southern beaches of the Costa Smeralda — and is a far more pleasant way to see the coast.
 
-**Rented Car or Taxi**
+**Taxis.** Available but expensive; expect resort rates and pre-book in high season. Some hotels run shuttles to specific beaches.
 
-Once you touchdown at the airport of Olbia, the first thing to do is flag down a taxi to reach your destination. Or, you can avail youreself of a car rental to have on hand during your whole trip. When you rent your car ask for a road map and directions. This is Porto Cervo transportation at its best fit. You will see much more of Porto Cervo if you travel by land, taking in numerous sights in a single day.
-
-**Yacht or Motorboats**
-
-If you're like sailing another way to reach Porto Cervo, which has a large marina, is via a private yacht. The Porto Cervo Marina boasts a 700-berth capacity, so you will never be in want of a place to berth your craft when you visit Porto Cervo proper. The marina is open year round. Fancy yachts and boats are available for rent if you want to experience Mediterranean living first hand.
-
-**Bicycles**
-
-One way to savor the beauty of Porto Cervo is by renting a mountain bike. As you cycle along the avenues of the city, you can experience the relaxing wind of the Mediterranean while savoring the sights.
-
-**On Foot**
-
-Since Porto Cervo is a vast marina, one way of visiting the seaside places is on foot. By walking the long stretch of Porto Cervo Marina, you will have easy access and better maneuverability.
+**Bike.** Possible but rarely sensible: the roads have no cycle lanes and the granite hills are steeper than they look.

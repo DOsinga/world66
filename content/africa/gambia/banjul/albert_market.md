@@ -7,6 +7,7 @@ tags:
 snippet: "Sprawling covered market selling fabrics, spices, and crafts"
 title: Albert Market
 type: poi
+score: 7.6
 ---
 
 The heart of Banjul — a sprawling, chaotic covered market selling everything from fabrics and tailored clothing to spices, crafts, and electronics. It is noisy, colourful, and worth an hour of browsing. Come in the morning when it is liveliest and the light is good.

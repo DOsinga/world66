@@ -11,6 +11,7 @@ tags:
 - bar
 title: Tribeca Grill
 type: poi
+score: 5.8
 ---
 
 Robert De Niro's restaurant in a converted warehouse at the corner of Greenwich and Franklin, one of the founding establishments of TriBeCa's restaurant scene. Good for dinner and cocktails in a handsome space — exposed brick, high ceilings, and a quietly upscale atmosphere. The bar draws a neighborhood crowd who've been coming for years.

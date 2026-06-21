@@ -10,8 +10,11 @@ story: The walls contain 82 towers, each historically maintained by a different 
   gardens below, which have been cultivated continuously since at least the Neolithic.
 tags:
 - things_to_do
+- sight
+- architecture
 title: Diyarbakır City Walls
 type: poi
+score: 9.0
 ---
 
 The great basalt circuit dates to Roman times and was expanded by Byzantine, Arab, and Ottoman rulers. You can walk stretches of the top, most accessibly near the Dağ Kapı (north gate). The full circuit is about 6km; pick up a section and walk south for views over the Tigris valley. Several of the towers have been restored and are open to climb.

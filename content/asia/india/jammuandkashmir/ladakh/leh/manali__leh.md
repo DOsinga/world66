@@ -6,6 +6,7 @@ tags:
 - getting_there
 title: Manali - Leh
 type: poi
+score: 8.3
 ---
 
 The Manali–Leh Highway is one of the great road journeys in Asia. The 490 km route crosses four high passes — including Taglang La at 5,328 m — through some of the most spectacular and remote mountain scenery on earth. The road is only open from roughly late May to early October, depending on snowfall.

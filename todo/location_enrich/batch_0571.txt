@@ -1,5 +1,0 @@
-northamerica/unitedstates/texas/waxahachie
-northamerica/mexico/doloreshidalgo
-europe/italy/piemonte/orta
-europe/netherlands/waddenislands/texel_island/den_burg
-northamerica/canada/newbrunswick/standrews

@@ -10,6 +10,7 @@ tags:
 - sights
 title: Oratorio of Santa Cecilia
 type: poi
+score: 7.9
 ---
 
 Tucked under the Portico Bentivoglio next to the Church of San Giacomo Maggiore on Via Zamboni, this small oratory is one of Bologna's best-kept artistic treasures. The interior is covered in a complete fresco cycle depicting the life of Saints Cecilia and Valerian, painted around 1506 by a group of leading Bolognese artists including Francesco Francia, Lorenzo Costa, and Amico Aspertini.

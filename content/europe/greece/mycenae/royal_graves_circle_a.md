@@ -17,6 +17,7 @@ tags:
 - sight
 title: Grave Circle A
 type: poi
+score: 8.0
 ---
 
 Just inside the Lion Gate, this circular enclosure contains six royal shaft graves dating to around 1600–1500 BC. Schliemann excavated them in 1876 and found nineteen bodies along with extraordinary grave goods: gold death masks, swords with ivory handles, bronze vessels, and amber beads from the Baltic coast. The finds confirmed that a civilization of great wealth and wide trading connections had existed here. The originals are in Athens; what you see at the site are the graves themselves, marked by stone stelae.

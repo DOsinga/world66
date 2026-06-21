@@ -10,6 +10,7 @@ tags:
 - oberkampf
 title: Septime La Cave
 type: poi
+score: 6.5
 ---
 
 Run by the team behind the famous restaurant Septime, this natural wine cave is the more accessible side of the operation — no booking needed, lower prices, and a beautifully curated selection of wines available by the glass or bottle. The small snacks (cheese, charcuterie, vegetables) are excellent companions.

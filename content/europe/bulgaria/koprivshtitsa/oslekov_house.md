@@ -9,6 +9,7 @@ latitude: 42.6382
 longitude: 24.3563
 story: >
   Nencho Oslekov made his fortune trading cloth in Wallachia and Damascus, and when he built his house in 1856 he brought craftsmen from Tryavna to decorate the ceilings with carved wooden panels. Each room has a different ceiling. One is covered with 26 painted views of cities Oslekov had visited on his travels — a merchant's atlas rendered in tempera on wood.
+score: 8.7
 ---
 
 The Oslekov House is the grandest of Koprivshtitsa's six house-museums and the one that best conveys what serious money looked like in 19th-century Bulgaria. Built in 1856 for the merchant Nencho Oslekov, it is a two-storey National Revival mansion with a symmetrical facade of blue and white, bay windows supported on carved brackets, and a courtyard with a fountain.

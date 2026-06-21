@@ -9,6 +9,7 @@ tags:
 - museum
 title: Beatrix Potter Gallery
 type: poi
+score: 8.1
 ---
 
 Housed in a 17th-century solicitor's office that was once the workplace of Beatrix Potter's husband, this National Trust gallery displays a rotating selection of her original watercolour illustrations, manuscripts, and natural history drawings. The rooms are kept much as they were in William Heelis's day, which adds to the atmosphere.

@@ -7,9 +7,11 @@ longitude: 130.838475
 phone: '0414257145'
 snippet: Darwin's long-running gay men's private club on Mitchell Street
 tags:
-- nightlife
+- bars_and_cafes
+- bar
 title: Scott's Mens Club
 type: poi
+score: 4.5
 ---
 
 A long-running private men's club in Darwin catering to the gay community, operating on Saturday nights from 8pm. Bookings are required and made directly with Scott on 0414 257 145. The Mitchell Street location puts it in the heart of Darwin's nightlife strip.

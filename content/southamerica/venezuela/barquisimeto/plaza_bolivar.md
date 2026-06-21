@@ -6,6 +6,7 @@ longitude: -69.3164
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The main square sits a few blocks south of the cathedral, with the obligatory bronze Bolívar at its centre and a ring of benches under big shade trees. Around the edges are the city hall, the old Iglesia de la Concepción, and a handful of cafés where older men play dominos in the afternoon.

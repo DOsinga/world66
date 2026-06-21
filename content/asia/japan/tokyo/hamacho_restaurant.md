@@ -9,6 +9,7 @@ tags:
 - market
 title: Tokyo Convenience Stores (Konbini)
 type: poi
+score: 7.5
 ---
 
 The Japanese convenience store — 7-Eleven, Lawson, FamilyMart — is one of the great institutions of Tokyo life, and the food is genuinely good. Onigiri (rice balls with various fillings, around ¥200), hot coffee dispensed to order, sandwiches with the crusts cut off, hot steamed buns, melon pan, and prepared bento boxes that are changed throughout the day to ensure freshness.

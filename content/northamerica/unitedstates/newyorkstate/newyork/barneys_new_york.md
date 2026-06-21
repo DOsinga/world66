@@ -9,6 +9,7 @@ tags:
 title: Barney's New York
 type: poi
 url: www.barneys.com
+score: 4.5
 ---
 
 From Manolo Blahnik and Prada to Armani and Zac Posen -- Barney's New York is a designer fashion lover's dream. The uptown flagship store is a must -- even if you only have a few hours to spare.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Eastgate House
 type: poi
+score: 7.4
 ---
 
 Eastgate House is one of the best-preserved Elizabethan townhouses in the southeast of England, a tall timber-framed building that has stood on the High Street since the 1590s. Its distinctive gabled facade is immediately recognisable, and it has appeared in the work of Charles Dickens on more than one occasion — most notably as Westgate House in The Pickwick Papers and as the Nun's House in The Mystery of Edwin Drood.

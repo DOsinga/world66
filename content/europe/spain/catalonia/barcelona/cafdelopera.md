@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Café de L'Opera
 type: poi
+score: 6.2
 ---
 
 A stylish, well-established cafe-bar on the Ramblas, directly opposite the Liceu opera house. The art-nouveau interior is worth a visit in its own right. The waiters are fast and efficient, the coffee is good, and the tapas varied. A reliable stop for a break from the Ramblas crowds.

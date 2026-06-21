@@ -1,14 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: national_city.jpg
+image_attribution: Wmoraga
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Brick_Row,_National_City,_CA.jpg
 latitude: 32.678109
+loc_type: city
 longitude: -117.099197
+score: 0.34
 title: National City
 type: location
-score: 0.34
-loc_type: city
 ---
 
 National City is the second oldest incorporated city in San Diego County, founded in 1887 on land that was once part of the 26,000-acre El Rancho de la Nación. Frank Kimball and his brothers Warren and Levi purchased the ranch in 1868, cleared lands, built roads, constructed the city's first wharf, and brought the railroad to town.
 
-The city's Victorian-era heritage is its most interesting asset for visitors. The Santa Fe Rail Depot, built in 1882, is the only original transcontinental railroad terminus still standing in the United States — the first train left here for Barstow in 1885. Heritage Square preserves Brick Row, a set of ten row houses designed by R.C. Ball and built in 1887 for Santa Fe Railroad executives, modelled after the row houses of Philadelphia to make the railroad brass feel at home. The Granger Music Hall, designed by Irving Gill for a silver-mining magnate who collected violins, and St Matthews Episcopal Church, patterned after an English countryside church, round out a compact walking tour of 19th-century architecture.
+The city's Victorian-era heritage is its most interesting asset for visitors. The [Santa Fe Rail Depot](/northamerica/unitedstates/california/national_city/santa_fe_depot), built in 1882, is the only original transcontinental railroad terminus still standing in the United States — the first train left here for Barstow in 1885. [Heritage Square](/northamerica/unitedstates/california/national_city/heritage_square) preserves Brick Row, a set of ten row houses designed by R.C. Ball and built in 1887 for Santa Fe Railroad executives, modelled after the row houses of Philadelphia to make the railroad brass feel at home. The [Granger Music Hall](/northamerica/unitedstates/california/national_city/granger_music_hall), designed by Irving Gill for a silver-mining magnate who collected violins, and [St Matthew's Episcopal Church](/northamerica/unitedstates/california/national_city/st_matthews_church), patterned after an English countryside church, round out a compact walking tour of 19th-century architecture. The [Mile of Cars](/northamerica/unitedstates/california/national_city/mile_of_cars) on National City Boulevard — the original 1956 auto mall — is the other curiosity worth a look.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: cattolica.jpg
+image_attribution: Pivari.com
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cattolica_beach_-_panoramio.jpg
 latitude: 43.963993
+loc_type: city
 longitude: 12.744151
+score: 0.55
 title: Cattolica
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Built in a small bay, Cattolica is favoured by a mild climate perfect for a relaxing holiday. The ancient origin of its port is testified by a paleontological site on the sea floor.

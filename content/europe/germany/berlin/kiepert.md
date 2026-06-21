@@ -10,6 +10,7 @@ tags:
 - charlottenburg
 title: Kiepert
 type: poi
+score: 6.2
 ---
 
 A large academic bookshop spread across three floors on Hardenbergstraße, near the Technical University. Kiepert carries a strong selection of specialist and scholarly titles alongside general non-fiction. Handy for students and anyone browsing for German-language literature or technical books. Nearest U-Bahn: Ernst-Reuter-Platz.

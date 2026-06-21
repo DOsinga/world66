@@ -3,50 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-The best restaurants are to be found in downtown Casa, near the Corniche and in the shoppings center "Centre 2000". In the Medina there are cheap places where you can eat for a dollar or two.
+Casablanca has the best seafood in Morocco, a consequence of the Atlantic catch that arrives daily at the port. The Central Market and the surrounding streets are the place to eat it — buy fish from the market and have it cooked at one of the small restaurants nearby, or sit at one of the restaurants on Rue Chaouia that have been doing this for decades. Sardines grilled over charcoal, sea bass with chermoula, and shrimp tagines are the staples.
 
-**Restaurants**
+For traditional Moroccan cooking — tagines, couscous, pastilla — La Sqala (in the medina fortifications) and the restaurants in the Habous Quarter are the best options. Both serve city residents as much as tourists, which keeps the quality honest. Prices throughout the city are lower than Marrakesh for comparable quality.
 
-**Au Petit Poucet**
+The Corniche at Ain Diab has a concentration of seafood restaurants ranging from casual beach-club dining to more formal establishments. A Ma Bretagne, west of Ain Diab at Sidi Abderrahman, has a long reputation as one of the best fish restaurants in North Africa, though prices reflect that standing.
 
-This is the Old Casa. Sketches of the aviator / writer Saint-Exupery on the wall, almost deaf waiters, table silver etc. The food is OK, but not spectacular.
-
-address: 86, Bd Mohammed V
-
-**al Intissar**
-
-In the center, this restaurant does good Moroccan style cuisine. Good food and not expensive.
-
-address: 14 Rue Chaouia
-
-**A Ma Bretagne**
-
-Africa's best restaurant is located 2 km west of Ain Diab. Not as expensive as it would be in Europe or the US, but do expect to pay about 40 dollars a person. Closed on sunday and in August.
-
-address: Sidi Abderrahman
-
-tel: 02-362112
-
-**Le Mekong**
-
-Best Chinese / Vietnamese restaurant in town. Reasonable prices. Closed on monday.
-
-address: Centre 2000
-
-tel: 02-276536
-
-**Taverne du Dauphin**
-
-Good fish restaurant in the center. A bit on the exoensive side. You might want to reserve.
-
-address: 115 Bd. Houphouet Boigny
-
-tel: 02-221200
-
-**Taverne du Dauphin**
-
-Good fish restaurant in the center. A bit on the expensive side. You might want to reserve.
-
-address: 115 Bd. Houphouet Boigny
-
-tel: 02-221200
+Downtown has a range of options from street-level snack spots and sandwich bars to mid-range restaurants serving a mix of Moroccan and French cooking.

@@ -2,6 +2,7 @@
 title: "Visas"
 type: poi
 snippet: "Visa types, requirements, and application process"
+score: 3.0
 ---
 
 Belarus requires a visa for most nationalities. There are three main types:

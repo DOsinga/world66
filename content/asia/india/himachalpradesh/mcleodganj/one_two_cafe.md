@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: One Two Cafe
 type: poi
+score: 3.8
 ---
 
 Truly place of coffee taste and hangout place. Great place for relaxation, next to the main temple of His Holiness.

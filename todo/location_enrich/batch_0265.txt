@@ -1,5 +1,0 @@
-northamerica/panama/taboga
-asia/indonesia/java/bandung
-asia/palestinianauthority/jenin
-northamerica/unitedstates/iowa/iowacity
-asia/indonesia/java/ambarawa

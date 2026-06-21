@@ -4,7 +4,7 @@ done:
 latitude: 41.0973
 longitude: 16.8887
 title: Mungivacca
-type: location
+type: neighbourhood
 score: 0.32
 loc_type: city
 ---

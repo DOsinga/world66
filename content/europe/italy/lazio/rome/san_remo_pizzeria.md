@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: San Remo Pizzeria
 type: poi
+score: 7.0
 ---
 
 Popular thin-crust pizzeria in Testaccio, Rome's working-class food neighbourhood. Gets very busy in the evenings — arrive early or expect to queue. Open 6:30pm–1am.

@@ -4,12 +4,13 @@ email: 'no'
 phone: 546-505-499
 title: Shopping in Mandi Bahauddin
 type: poi
+score: 2.8
 ---
 
 What to buy? Where to buy and How to buy?
 Shopping information coming soon.
 
-### [Arshad Mahmood](/asia/pakistan/mandi_bahauddin_1/shopping/arshad_mahmood_1)
+### Arshad Mahmood
 
 **Ghlla mandi in mandi bhauddin**
 
@@ -31,7 +32,7 @@ address: Muhammad Hussain commission shop, ghlla mandi ,mandi bhauddin
 
 email: no
 
-### [muhammad shafiq janjua](/asia/pakistan/mandi_bahauddin_1/shopping/muhammad_shafiq_ja)
+### muhammad shafiq janjua
 
 **janjua charpai house**
 
@@ -51,7 +52,7 @@ address: nazed shafar hospital
 
 email: muhammad 7177@yahoo.com
 
-### [muhammad shafiq janjua](/asia/pakistan/mandi_bahauddin_1/shopping/muhammad_shafiq_ja_1)
+### muhammad shafiq janjua
 
 **janjua charpai house**
 

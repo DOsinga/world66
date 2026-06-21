@@ -13,6 +13,7 @@ tags:
 - sight
 title: Gaudí Museum
 type: poi
+score: 6.8
 ---
 
 The house where Antoni Gaudí lived for nearly 20 years, from 1906 until shortly before his death in 1926, now preserved as a small museum inside Park Güell. The building was designed by Francesc Berenguer, Gaudí's closest collaborator, and its exterior is typical of the park's organic, fairy-tale aesthetic. Inside, rooms are furnished with Gaudí's own furniture and personal effects — his drafting tools, religious objects, and the modest bedroom where he slept. It gives an unusually intimate glimpse of the man behind the monumental architecture. The museum sits within Park Güell itself, so a visit here pairs naturally with exploring the terraces and the famous mosaic salamander.

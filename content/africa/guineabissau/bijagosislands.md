@@ -1,19 +1,24 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 latitude: 11.25
+loc_type: city
 longitude: -16.0
+score: 0.46
 title: Bijagos Islands
 type: location
-score: 0.46
-loc_type: city
+image: bijagosislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Archipel_Bolama-Bijagos_Ramsar_Site_in_Guinea-Bissau.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Powell.Ramsar
 ---
 
 The Bijagos archipelago is the highlight of Guinea-Bissau and one of the most remarkable island groups in Africa. Eighty-eight islands, of which only about twenty are permanently inhabited, spread across the Atlantic off the coast. UNESCO declared it a Biosphere Reserve, and it is easy to see why: long white-sand beaches, dense palm forests, mangrove channels teeming with birdlife, and waters rich with fish.
 
-The most famous residents are the saltwater hippos of Orango Island, Africa's only population of hippos that wade into the ocean. You can arrange boat trips to see them, though sightings depend on the season and on luck. The archipelago is also home to monkeys, sea turtles that nest on the beaches, and hundreds of bird species.
+The most famous residents are the [saltwater hippos of Orango Island](/africa/guineabissau/bijagosislands/orango_hippos), Africa's only population of hippos that wade into the ocean. You can arrange boat trips to see them, though sightings depend on the season and on luck. The archipelago is also home to monkeys, sea turtles that nest on the [beaches of Bubaque](/africa/guineabissau/bijagosislands/bubaque_beach), and hundreds of [bird species](/africa/guineabissau/bijagosislands/birdwatching).
 
-The indigenous Bijago people maintain a matriarchal society and deeply rooted spiritual traditions. Village life revolves around initiation ceremonies, sacred forests, and dances that mimic animal movements. Young men still undergo a seven-year initiation rite. Tourism has barely touched these traditions, and visitors who show respect are generally welcomed warmly.
+The indigenous [Bijago people](/africa/guineabissau/bijagosislands/bijago_villages) maintain a matriarchal society and deeply rooted spiritual traditions. Village life revolves around initiation ceremonies, sacred forests, and dances that mimic animal movements. Young men still undergo a seven-year initiation rite. Tourism has barely touched these traditions, and visitors who show respect are generally welcomed warmly.
 
 Bubaque is the main island for visitors and the easiest to reach from [Bissau](/africa/guineabissau/bissau). It has a handful of simple guesthouses and serves as the base for trips to other islands. The beaches at Bruce and Etikorete on Bubaque are beautiful. Rubane has a couple of upmarket eco-lodges. Orango is the place for hippo-watching.
 

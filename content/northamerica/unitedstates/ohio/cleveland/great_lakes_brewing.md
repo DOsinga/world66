@@ -10,6 +10,7 @@ tags:
 title: Great Lakes Brewing Company
 type: poi
 url: www.greatlakesbrewing.com
+score: 7.6
 ---
 
 No trip to Cleveland is complete without Great Lakes. This Ohio City brewery adheres to Bavarian purity standards and the results speak for themselves — the beer is award-winning and distributed nationally, but tastes best here. Drink in the antique bar that Eliot Ness used to frequent, in the stone cellar bar, or out front on the Market Avenue patio with views of the West Side Market. Brewery tours available.

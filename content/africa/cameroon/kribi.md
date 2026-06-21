@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: kribi.jpg
+image_attribution: ymea
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kribi.jpg
 latitude: 2.94341
+loc_type: city
 longitude: 9.912699
+score: 0.48
 title: Kribi
 type: location
-score: 0.48
-loc_type: city
 ---
 
 Kribi is Cameroon's beach town, a small coastal settlement about 150 km south of [Douala](/africa/cameroon/douala) where palm-fringed sand meets the Gulf of Guinea. It is the closest thing Cameroon has to a resort destination, popular with Douala residents on weekends and with the small number of foreign travelers who make it to this part of West Africa.

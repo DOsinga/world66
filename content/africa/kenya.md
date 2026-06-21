@@ -14,7 +14,7 @@ quick_facts:
   Languages: "English & Swahili"
   Ethnic Groups: "40+"
   Great Rift Valley: runs the full length of the country
-score: 0.44
+score: 0.81
 title: Kenya
 type: location
 loc_type: country
@@ -38,5 +38,5 @@ Tourism is well-developed by African standards, which is both a blessing and a m
 - [Western Kenya](/africa/kenya/westernkenya) — Lake Victoria, Kisumu, Kakamega Forest
 - [Northern Kenya](/africa/kenya/northernkenya) — Lake Turkana, desert, Samburu
 - [Lakes](/africa/kenya/lakes) — Naivasha, Nakuru, Bogoria, Baringo, Turkana, Victoria
-- [Safaris](/africa/kenya/safaris) — Maasai Mara, Amboseli, Tsavo, Samburu
-- [Trekking](/africa/kenya/trekking) — Mt Kenya, Mt Elgon, Aberdare Range
+- Safaris — Maasai Mara, Amboseli, Tsavo, Samburu
+- Trekking — Mt Kenya, Mt Elgon, Aberdare Range

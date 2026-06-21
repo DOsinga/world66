@@ -9,6 +9,7 @@ tags:
 - erzsebetvaros
 title: Instant-Fogas
 type: poi
+score: 7.0
 ---
 
 Instant and Fogas merged into a single venue that now occupies two connected buildings with around 20 rooms, multiple bars, and several dancefloors. It is the largest ruin bar complex in Budapest — bigger than Szimpla Kert in terms of sheer floor space — and operates as a full nightclub on weekends with international DJs alongside local bookings across a range of electronic music styles.

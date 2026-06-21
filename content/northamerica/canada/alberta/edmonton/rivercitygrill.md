@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: River City Grill
 type: poi
+score: 5.8
 ---
 
 An intimate restaurant known for its internationally inspired menu. The kitchen turns out dishes like chili and garlic marinated baby squid, Moroccan chicken pie, and ricotta gnocchi with tomato and basil sauce. Open Tuesday to Friday for lunch, daily for dinner; reservations recommended.

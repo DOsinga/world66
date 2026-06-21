@@ -6,6 +6,7 @@ longitude: 8.8333
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 A hidden guelta — a permanent rock pool fed by seepage — deep in a sandstone canyon on the Tassili plateau, about 100 kilometres from [Djanet](/africa/algeria/djanet). The pool sits in a narrow gorge surrounded by towering rock walls, and the water supports a surprising micro-ecosystem: oleander bushes, reeds, and even a population of Saharan crocodiles that survived here until the 20th century.

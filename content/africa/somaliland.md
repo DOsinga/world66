@@ -16,7 +16,7 @@ quick_facts:
   Visa: "On arrival for most nationalities"
   International Recognition: "0 countries"
   Cave Paintings at Laas Geel: "~5,000 years old"
-score: 0.12
+score: 0.30
 loc_type: country
 ---
 

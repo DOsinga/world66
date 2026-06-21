@@ -1,5 +1,0 @@
-northamerica/unitedstates/kentucky/bowlinggreen
-europe/italy/molise/campobasso
-northamerica/unitedstates/virginia/richmond
-europe/germany/northrhinewestphalia/witten
-europe/greece/patmos

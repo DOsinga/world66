@@ -14,7 +14,7 @@ quick_facts:
   Visa: "On arrival for most nationalities"
   Dead Sea Elevation: "-430 m"
   Petra Age: "2,300+ years"
-score: 0.67
+score: 0.78
 title: Jordan
 type: location
 loc_type: country

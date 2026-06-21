@@ -1,5 +1,0 @@
-asia/iraq/karbala
-europe/armenia/echmiadzin
-europe/italy/abruzzo/chieti
-europe/germany/badenwrttemberg/donaueschingen
-europe/belgium/namur

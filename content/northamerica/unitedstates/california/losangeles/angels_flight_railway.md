@@ -10,6 +10,7 @@ tags:
 title: Angels Flight Railway
 type: poi
 url: www.angelsflight.org
+score: 7.2
 ---
 
 The world's shortest railway -- a funicular that climbs 298 feet up Bunker Hill -- has been a Downtown fixture since 1901, though it has had a rocky history of closures and accidents. Today it runs again, offering a brief but charming ride between Hill Street and California Plaza for just $1 each way. The two original orange-and-black cable cars, named Olivet and Sinai, are as photogenic as ever.

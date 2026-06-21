@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: missionbeach.jpg
+image_attribution: Chris Olszewski
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Mission_Beach,_Queensland,_2025,_03.jpg
 latitude: -17.867234
+loc_type: city
 longitude: 146.107178
 score: 0.56
 title: Mission Beach
 type: location
-image: missionbeach.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Mission_Beach,_Queensland,_2025,_03.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Chris Olszewski
-loc_type: city
 ---
 
 Mission Beach is a small, lush coastal village in tropical North Queensland, squeezed between the rainforest and the Coral Sea. It is one of the few places in Australia where the Wet Tropics rainforest grows right down to the beach, and that combination — palm-fringed sand backed by thick jungle — gives it a feel quite different from the more developed resort towns along the coast.

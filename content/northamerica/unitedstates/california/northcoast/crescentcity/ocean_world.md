@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Ocean World
 type: poi
+score: 4.8
 ---
 
 A small aquarium on Highway 101 that does guided tours rather than self-guided wandering. The tour moves through tide pools, a half-million gallon shark tank where you can pet a shark, and ends with a sea lion performance. It is unabashedly aimed at families, and it works well for that — children generally love the shark petting.

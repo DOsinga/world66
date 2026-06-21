@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: iguazufalls.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg
 latitude: -25.692532
+loc_type: city
 longitude: -54.441114
+score: 0.91
 title: Iguazu Falls
 type: location
-score: 0.91
-image: iguazufalls.jpg
-image_source: https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_the_Brazilian_side.jpg
-image_license: CC BY-SA 4.0
-image_attribution: W. Bulach
-loc_type: city
 ---
 
 Iguazu Falls straddles the border between Argentina and [Brazil](/southamerica/brazil), and can be visited from either side — or even from [Paraguay](/southamerica/paraguay), a short distance away. Despite being heavily visited, the falls remain genuinely spectacular. No amount of tourism infrastructure diminishes the force of standing at the edge of the Garganta del Diablo (Devil's Throat) and looking down into the roaring abyss.

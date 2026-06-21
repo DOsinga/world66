@@ -1,5 +1,0 @@
-australiaandpacific/solomonislands/guadalcanal
-europe/denmark/esbjerg
-asia/papuanewguinea/sepikriver
-europe/spain/galicia/o_salns_salnes
-northamerica/unitedstates/california/inlandempire/yucaipa

@@ -4,10 +4,13 @@ category: Cafe
 latitude: 45.469
 longitude: 9.1975
 opening_hours: Mon–Sat 08:00–20:00; Sun 10:00–19:00
-snippet: Historic 1817 patisserie on Milan's premier fashion street
+score: 6.4
+snippet: Historic 1817 patisserie on Via Montenapoleone serving gold-dusted panettone
+  and fashion-week clientele
 tags:
 - eating_out
 - cafe
+- quadrilatero
 title: Pasticceria Cova
 type: poi
 ---

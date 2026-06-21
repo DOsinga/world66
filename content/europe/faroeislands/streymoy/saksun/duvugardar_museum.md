@@ -9,6 +9,7 @@ tags:
 - sight
 title: Dúvugarðar Farmhouse Museum
 type: poi
+score: 7.7
 ---
 
 The most photographed building in Saksun is this turf-roofed farmhouse, which has been operating as a museum since the mid-twentieth century. The interior shows how a Faroese farming family lived from the seventeenth century onward — the furniture is original, the ceiling beams are low, and the whole place has the slightly damp, slightly smoky smell of a house that was built before insulation was a concept.

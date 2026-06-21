@@ -1,5 +1,0 @@
-europe/georgia/kvariati
-europe/france/aquitaine/leseyzies
-asia/syria/latakia
-asia/pakistan/gujrat
-europe/spain/basque_country_euskadi/sansebastian

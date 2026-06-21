@@ -1,5 +1,0 @@
-northamerica/panama/nombrededios
-africa/mali/dogoncountry/bankas
-europe/lithuania/alytus
-northamerica/unitedstates/oklahoma/glenpool
-europe/france/midi/provence/arles

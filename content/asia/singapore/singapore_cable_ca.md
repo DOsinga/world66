@@ -5,6 +5,7 @@ done:
 latitude: 1.2712
 longitude: 103.8194
 phone: +65 6270 8855
+score: 6.7
 snippet: Gondola link from Mount Faber to Sentosa with harbour views
 tags:
 - things_to_do

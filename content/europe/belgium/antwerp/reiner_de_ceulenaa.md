@@ -7,6 +7,7 @@ tags:
 - shop
 title: Reiner de Ceulenaar
 type: poi
+score: 4.3
 ---
 
 Japanese and Chinese antiques - you may find some good deals here.

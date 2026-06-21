@@ -1,5 +1,0 @@
-northamerica/unitedstates/nevada/elko
-southamerica/chile/antofagasta
-europe/germany/badenwrttemberg/schonwald_im_schwarzwald
-northamerica/unitedstates/newyorkstate/the_finger_lakes/corning
-asia/pakistan/mountain_areas/baltistan

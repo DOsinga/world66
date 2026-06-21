@@ -9,6 +9,7 @@ tags:
 title: Souk Nejjarine (Carpenters' Souk)
 type: poi
 snippet: "The woodworkers' quarter, where cedar is turned into screens, furniture, and boxes"
+score: 7.5
 ---
 
 The Nejjarine quarter centres on Place Nejjarine, where the sound of saws and chisels competes with the hammers of the brassworkers nearby. The speciality is carved cedarwood: intricate mashrabiya screens, painted boxes, chess sets inlaid with bone and shell, and small decorative panels. The cedar workshops occupy the street-level floors of narrow buildings, often with sawdust drifting into the alley.

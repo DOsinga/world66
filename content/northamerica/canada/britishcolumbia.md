@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: britishcolumbia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:British_Columbia_Parliament_Building_in_Victoria,_British_Columbia,_Canada_07.jpg
 latitude: 55.001251
+loc_type: region
 longitude: -125.002441
 score: 0.64
 title: British Columbia
 type: location
-loc_type: region
 ---
 
 From snowy Rocky Mountain slopes to sunny beaches in downtown Vancouver, Canada's southwest coast offers an unparalleled tourist destination. Whatever excitement you crave, you'll find it in super, natural British Columbia. 

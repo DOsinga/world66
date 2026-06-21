@@ -9,12 +9,13 @@ longitude: 13.713103
 opening_hours: Check website for current hours
 snippet: White seaside castle built for a Habsburg archduke
 tags:
-- One Day in Trieste
 - things_to_do
+- sight
 - architecture
 title: Miramare Castle
 type: poi
 url: www.castello-miramare.it
+score: 8.7
 ---
 
 A white neo-Gothic castle perched on a rocky promontory above the sea, about 8 km north of the city centre. Built in the 1850s for Archduke Maximilian of Austria, it sits in a large park with formal gardens and direct views over the Gulf of Trieste. The park is free and open daily; the castle interior requires a ticket.

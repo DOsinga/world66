@@ -3,12 +3,8 @@ title: Getting Around
 type: section
 ---
 
-**Sestri Levante Transportation** takes charge of your safe travel in Sestri Levante. This place is nice to explore with the help of transportation that will add to your comfort. Sestri Levante is a place in Liguria, Italy.
+The town is compact and easy to walk. The peninsula with the old town, both bays, and the main churches and viewpoints is small enough to cover entirely on foot in an afternoon. The main beaches are a 10-minute walk from the train station.
 
-**Reach It by Train**
+Sestri Levante is on the Genova–La Spezia rail line, making it easy to reach by train from Genova (around 1 hour) or La Spezia (around 30 minutes). The train is the obvious way to make day trips along the coast. The station is close to the Baia delle Favole promenade.
 
-Train is the best mode of transportation you can use when traveling from Sestri Levante to the other parts of Italy. There are regular trains that travel to and from Sestri Levante. You need to check the schedule of the arrival and departure of the train in the train station. You can also purchase your own ticket in this station.
-
-**Taxi Trip**
-
-A taxi is among the most convenient ways of going around the city and to its nearest places. If you arrived in the airport, there are available taxis to take you to your hotel or to the place where you are going to stay. Taxis are available everywhere in the city. You have the option to pay a fixed fare or pay according to the taxi meter. You are advised to make the method of payment clear to the driver before you ride. Usually, the fixed fare is used for long-distance travels. Settle the amount of fare first as you start your ride so there will be no conflict that will occur when it is already paying time. If you think the driver is charging you higher, you can bargain. If not, you can look for another taxi driver who will service you according to the budget you have.
+For day trips to [Portofino](/europe/italy/liguria/portofino), [Camogli](/europe/italy/liguria/camogli), and the [Cinque Terre](/europe/italy/liguria/italianriviera/thecinqueterre), trains are the most convenient option — driving and parking on this stretch of coast is difficult in summer.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: syunik.jpg
+image_attribution: Well-read MountainMan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:-2025.05_%D0%A2%D0%B0%D1%82%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_7.jpg
 latitude: 39.328141
+loc_type: city
 longitude: 46.15303
+score: 0.45
 title: Syunik
 type: location
-score: 0.45
-loc_type: city
 ---
 
 The south marz (province) of Syunik is high plateau, and very ancient. Entered from the west through the Gates of Syunik (don't forget to honk), the road descends past an alpine reservoir on the right, and over a treeless plateau.

@@ -10,6 +10,7 @@ tags:
 title: Clarion Alley
 neighbourhood: Mission District
 type: poi
+score: 8.2
 ---
 
 Clarion Alley runs one block between Mission and Valencia streets, and nearly every surface is covered in murals, wheat-pastes, and graffiti. Where [Balmy Alley](/northamerica/unitedstates/california/sanfrancisco/balmy_alley) is more community-curated and culturally focused, Clarion is rawer -- the art is more political, more confrontational, and changes constantly. New pieces go up over old ones, and what you see today may be gone next month.

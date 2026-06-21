@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: kerrville.jpg
+image_attribution: Larry D. Moore
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Capt_charles_schreiner_mansion_2015.jpg
 latitude: 30.048469
+loc_type: city
 longitude: -99.139946
+score: 0.39
 title: Kerrville
 type: location
-score: 0.39
-loc_type: city
 ---
 
 Kerrville sits on the Guadalupe River in the heart of the [Texas](/northamerica/unitedstates/texas) Hill Country, surrounded by rolling limestone hills and live oak groves. It is the largest town in Kerr County and serves as a base for exploring one of the most scenic parts of central Texas.

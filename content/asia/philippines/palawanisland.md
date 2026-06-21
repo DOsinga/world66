@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: palawanisland.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Corong_Corong,_El_Nido,_Palawan_Island,_Philippines.jpg
 latitude: 9.6671
+loc_type: city
 longitude: 118.5347
+score: 0.83
 title: Palawan Island
 type: location
-score: 0.83
-image: palawanisland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Corong_Corong,_El_Nido,_Palawan_Island,_Philippines.jpg
-image_license: CC BY 4.0
-image_attribution: Vyacheslav Argenberg
-loc_type: city
 ---
 
 Palawan is a long, slender island 500 km southwest of Manila, often described as the Philippines' last frontier. It remains largely free of mass tourism, with dense jungle, clear waters, and some of the best diving in the country. The island stretches from the regional capital Puerto Princesa in the south to the spectacular karst seascapes of El Nido in the north.

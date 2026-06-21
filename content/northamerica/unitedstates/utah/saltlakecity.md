@@ -2,17 +2,28 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-20'
+image: saltlakecity.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Salt_Lake_Union_Pacific_Railroad_Station,_South_Temple_at_400_West,_Central_City_West,_Salt_Lake_City,_UT,_USA.jpg
 latitude: 40.75962
+loc_type: city
 longitude: -111.886797
 score: 0.58
+sources:
+- https://en.wikipedia.org/wiki/Salt_Lake_City
+- https://en.wikivoyage.org/wiki/Salt_Lake_City
 title: Salt Lake City
 type: location
-loc_type: city
 ---
 
-Salt Lake City is the Capital of Utah and its most vibrant city. In the mountains around you will find some of the best powder skiing in the world, which is principally why the 2002 Winter Olympics were held here; the proximity of the resorts to the city is the other reason since you can get to no less than 10 ski resorts in under 45 minutes from the airport. Nestled between the Wasatch Mountains, the Great Salt Lake Desert and the Great Salt Lake (some 8 times saltier than your average ocean) the city is an ideal starting point for all sorts of outdoor activities. Daytrips can be made to Antelope Island, the Bonneville Salt Flats, Park City, the Sundance Resort, Provo, Ogden and a limitless amount of picturesque canyons. These locatoins are all within 1 hour driving distance. 
+Salt Lake City is the capital of Utah and the world headquarters of the Church of Jesus Christ of Latter-day Saints, a fact that shapes almost everything about the place — its architecture, its grid, its culture, its laws, and the tension between that dominant religious presence and a growing, younger, increasingly diverse city pushing against it. [Temple Square](/northamerica/unitedstates/utah/saltlakecity/temple_square) and its extraordinary [Tabernacle](/northamerica/unitedstates/utah/saltlakecity/salt_lake_tabernacle) sit at the centre of downtown, surrounded by the [Family History Library](/northamerica/unitedstates/utah/saltlakecity/family_history_library), the [Church History Museum](/northamerica/unitedstates/utah/saltlakecity/church_history_museum), and the [Beehive House](/northamerica/unitedstates/utah/saltlakecity/thebeehivehouse) where Brigham Young lived.
 
-Utah is a great destination for anyone who enjoys being outdoors -- from mountain biking to hiking, skiing, flyfishing and snowboarding. 
+The mountains are the other essential fact. The Wasatch Range rises immediately east of the city, and within 45 minutes of the airport you can be skiing on some of the best powder in the world. [Little Cottonwood Canyon](/northamerica/unitedstates/utah/saltlakecity/little_cottonwood_canyon) reaches Alta and Snowbird; [Big Cottonwood Canyon](/northamerica/unitedstates/utah/saltlakecity/big_cottonwood_canyon) accesses Brighton and Solitude. The 2002 Winter Olympics were held here, and the [Utah Olympic Park](/northamerica/unitedstates/utah/saltlakecity/lavell_edwards_stadium) in nearby Park City is still active. In summer the same mountains are excellent for hiking, cycling, and trail running.
 
-Many of the historical sights in town have to do with the Church of Jesus Christ of Latter-Day Saints, whose members origially settled the valley in the mid 1800's. Within a lushly landscaped, ten-acre refuge in downtown Salt Lake City stands the multi-spired Salt Lake Temple; the Tabernacle, and other LDS historical buildings. There are also many historic houses of 19th century settlers to be seen. Other sights include the Olympic Cauldron Park at the University of Utah, Trolley Square, Red Butte Gardens, Clark Planetarium and the Gardner Mill.
+The [Great Salt Lake](/northamerica/unitedstates/utah/saltlakecity/great_salt_lake) to the west is one of the strangest bodies of water on Earth — vastly salty, visibly shrinking, and home to billions of brine shrimp and the migratory birds that feed on them. [Antelope Island](/northamerica/unitedstates/utah/saltlakecity/antelope_island) in the lake has a bison herd and swimming beaches. The [Bonneville Salt Flats](/northamerica/unitedstates/utah/saltlakecity/bonneville_salt_flats), an hour west on I-80, are where land speed records get broken.
+
+Beyond the LDS sites and the mountains, the city has a strong museum culture: the [Natural History Museum of Utah](/northamerica/unitedstates/utah/saltlakecity/natural_history_museum) on the University of Utah campus is world-class for its dinosaur collection, the [Utah Museum of Fine Arts](/northamerica/unitedstates/utah/saltlakecity/utah_museum_of_fine_arts) is underrated, and the [Utah State History Museum](/northamerica/unitedstates/utah/saltlakecity/utah_state_history_museum) is free and thorough. The [Utah State Capitol](/northamerica/unitedstates/utah/saltlakecity/utah_state_capitol) on its hill north of downtown is worth visiting for the architecture and the views.
+
+The city's culture is more nuanced than outsiders expect. The craft beer scene at [Wasatch Brewery](/northamerica/unitedstates/utah/saltlakecity/wasatch_brewery), [Squatters](/northamerica/unitedstates/utah/saltlakecity/squatters_pub), and [Red Rock Brewing](/northamerica/unitedstates/utah/saltlakecity/red_rock_brewing) has thrived as a counterculture under restrictive liquor laws. The [Granary District](/northamerica/unitedstates/utah/saltlakecity/granary_district) and [9th and 9th](/northamerica/unitedstates/utah/saltlakecity/ninth_and_ninth) neighbourhoods are genuinely good. [Red Iguana](/northamerica/unitedstates/utah/saltlakecity/red_iguana) makes some of the best mole sauce in the western United States.

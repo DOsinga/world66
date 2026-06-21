@@ -14,6 +14,7 @@ tags:
 - sight
 title: Casa Natale di Leonardo
 type: poi
+score: 7.8
 ---
 
 The actual farmhouse where Leonardo was born, a couple of kilometres up the hill from town in the hamlet of Anchiano. It is a simple stone building set among olive trees, with a small exhibition inside about his early life and the landscape that shaped his eye for nature. The walk up from Vinci along Path 14 (the Strada Verde) takes about an hour and is the best way to arrive — through the same terraced groves that Leonardo drew as a child. Same opening hours as the Museo Leonardiano.

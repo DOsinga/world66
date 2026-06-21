@@ -10,6 +10,7 @@ tags:
 - sights
 title: Fish Statue
 type: poi
+score: 4.7
 ---
 
 A large bronze herring stands at the heart of Fraserburgh's town centre on Broad Street, a straightforward tribute to the fishing industry that built the town. Herring was once so central to local life that it was called "silver darlings," and at its peak Fraserburgh was one of the busiest herring ports in Scotland. The statue is modern but the history it references goes back centuries.

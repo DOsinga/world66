@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 21.2769
 longitude: -157.8285
+score: 7.8
 ---
 
 The most famous beach in Hawaii and one of the most recognizable stretches of sand in the world. Waikiki's crescent of golden sand backed by a dense row of high-rise hotels is not wild or secluded — this is urban beach-going at its most polished — but the water is warm, calm, and protected by an offshore reef, and the surfing is accessible to beginners. The original Hawaiian surfers called this place their home break.

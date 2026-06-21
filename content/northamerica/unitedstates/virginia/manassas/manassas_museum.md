@@ -11,6 +11,7 @@ tags:
 title: Manassas Museum
 type: poi
 url: https://www.manassasmuseum.org
+score: 6.8
 ---
 
 A small but well-curated local history museum in the Old Town district, covering Manassas from its origins as a railroad junction through the Civil War and into the 20th century. The collection includes artifacts from the two battles, railroad history, and life in Prince William County across the centuries.

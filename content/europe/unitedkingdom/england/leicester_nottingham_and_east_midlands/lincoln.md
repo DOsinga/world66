@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
+image: lincoln.jpg
+image_attribution: Tilman2007
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1388680_Cathedral_Church_of_St_Mary,_West_Front_Lincoln_20240519_0252.jpg
 latitude: 53.229354
+loc_type: city
 longitude: -0.540482
+score: 0.49
 title: Lincoln
 type: location
-score: 0.49
-loc_type: city
 ---
 
 Lincoln is one of England's most striking medieval cities, built on a dramatic limestone ridge that rises sharply above the surrounding flatlands of Lincolnshire. The hilltop is crowned by two buildings that have defined the city for nearly a thousand years: the castle, begun by William the Conqueror in 1068, and the cathedral, whose central tower once made it the tallest structure in the world.

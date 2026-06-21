@@ -9,6 +9,7 @@ tags:
 - sight
 title: Hannoville
 type: poi
+score: 5.3
 ---
 
 A quiet beach resort west of Alexandria, less developed and less crowded than neighboring Agami. The sand is clean and the water calm, making it a popular escape for Alexandrian families during summer. The area has a handful of simple cafes and beach huts but none of the commercial density you find further east along the coast.

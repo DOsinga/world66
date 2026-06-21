@@ -13,6 +13,7 @@ tags:
 - gamla_stan
 title: The Cathedral
 type: poi
+score: 8.2
 ---
 
 Storkyrkan — Stockholm's cathedral — stands at the heart of Gamla Stan, just steps from the Royal Palace. The building dates from the 13th century, though the current brick exterior is largely 18th century. Inside, the showpiece is a dramatic late-Gothic wooden sculpture of St George and the Dragon, carved by Bernt Notke in 1489 and commissioned to celebrate Sweden's victory over the Danes. The cathedral is still an active church and the setting for royal baptisms and funerals. Entry is free except during services.

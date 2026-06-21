@@ -9,8 +9,10 @@ snippet: Long-running contemporary art gallery on Potsdamer Strasse
 tags:
 - things_to_do
 - art
+- schoneberg
 title: Raab Galerie
 type: poi
+score: 6.3
 ---
 
 One of Berlin’s established contemporary art galleries, operating since the West Berlin era on Potsdamer Strasse. The gallery represents both German and international artists, with a focus on painting, drawing, and sculpture. Worth a stop if you’re gallery-hopping along Potsdamer Strasse, which has become one of Berlin’s main art corridors.

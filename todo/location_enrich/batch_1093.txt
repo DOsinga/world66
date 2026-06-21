@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/del_city
-africa/morocco/ouirgane
-asia/indonesia/java/tangerang
-europe/italy/liguria/italianriviera/rivieradellepalme/altare
-australiaandpacific/australia/queensland/longreach

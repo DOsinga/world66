@@ -8,6 +8,7 @@ url: https://www.pumpkinmaze.com
 latitude: 37.825
 longitude: -121.273
 snippet: "Seasonal 40-acre corn maze with pumpkin blasters and hayrides."
+score: 5.4
 ---
 
 More than 125,000 people visit the Dell'Osso corn maze each year. It sits just outside Manteca in Lathrop, off Interstate 5. The main attraction is a 40-acre corn maze open by day and — with flashlights — by night. Around it: a haunted house, games, go-carts, pumpkin sales, and hayrides.

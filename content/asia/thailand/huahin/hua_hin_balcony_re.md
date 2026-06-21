@@ -7,6 +7,7 @@ tags:
 - park
 title: Coco@51
 type: poi
+score: 5.3
 ---
 
 On the seafront just north of Hua Hin town centre. Thai cuisine and seafood. Very good service. Nice atmosphere with pleasant relaxing music. Large gardens. Ouside dining.

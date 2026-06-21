@@ -1,5 +1,0 @@
-asia/india/andhrapradesh/karimnagar
-northamerica/unitedstates/utah/south_coyote_butte
-europe/netherlands/friesland/workum
-asia/india/uttaranchal/nainital
-northamerica/costarica/playa_flamingo

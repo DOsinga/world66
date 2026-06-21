@@ -25,21 +25,33 @@ SECRET_KEY = os.environ.get(
 
 DEBUG = not _PRODUCTION
 
-ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
+ALLOWED_HOSTS = ["world66.ai", "www.world66.ai", "staging.world66.ai"] if _PRODUCTION else ["*"]
+
+STAGING_HOSTS = {"staging.world66.ai"}
+STAGING_CONTENT_REF = os.environ.get("WORLD66_STAGING_CONTENT_REF", "main")
 
 
 # Application definition
 
 INSTALLED_APPS = [
     "django.contrib.staticfiles",
+    "django.contrib.sessions",
     "guide",
+    "passport_app",
+    "regions_app",
 ]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "world66.middleware.StagingRevisionRedirectMiddleware",
+    "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
+    "django.middleware.csrf.CsrfViewMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
+
+SESSION_ENGINE = "django.contrib.sessions.backends.signed_cookies"
+SESSION_COOKIE_AGE = 60 * 60 * 24 * 365  # 1 year
 
 ROOT_URLCONF = "world66.urls"
 

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-12'
+image: merzouga.jpg
+image_attribution: Brahim FARAJI
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brahim_FARAJI_-_SAHARA_is_coming-_Merzouga_-_Morocco_-_%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1_%D9%82%D8%A7%D8%AF%D9%85%D8%A9_-_%D9%85%D8%B1%D8%B2%D9%88%D9%83%D8%A9_-_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8.jpg
 latitude: 31.099917
+loc_type: city
 longitude: -4.014088
 score: 0.69
 title: Merzouga
 type: location
-loc_type: city
 ---
 
 Merzouga is a small Berber village on the western edge of the Erg Chebbi, a 28-kilometre stretch of spectacular sand dunes in southeastern Morocco, close to the Algerian border. The dunes reach up to 150 metres high and shift from pale gold to burnt orange depending on the sun — sunrise and sunset are genuinely unforgettable, and for most visitors Erg Chebbi is one of the single best experiences in Morocco.

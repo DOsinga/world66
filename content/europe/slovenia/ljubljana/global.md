@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Global Club
 type: poi
+score: 4.8
 ---
 
 An upmarket club on an upper floor with lift access. The crowd tends toward the see-and-be-seen set, but the music is reliably good for dancing. Popular with Ljubljana's night-out crowd for a reason.

@@ -6,6 +6,7 @@ tags:
 - club
 title: Club Cabane
 type: poi
+score: 4.0
 ---
 
 An exclusive beach club in Antwerp...

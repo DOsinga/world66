@@ -1,5 +1,0 @@
-asia/thailand/ayutthaya
-europe/iceland/selfoss
-southamerica/ecuador/aluasi__railway_t
-northamerica/unitedstates/california/sandiego/pacificbeach
-asia/iran/khoram_abad

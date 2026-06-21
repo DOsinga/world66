@@ -13,6 +13,7 @@ tags:
 - cafe
 title: Piazza Navona
 type: poi
+score: 8.4
 ---
 
 Rome's most theatrical Baroque square, built on the footprint of the 1st-century Stadium of Domitian — its elongated shape still traces the ancient racecourse beneath. Three fountains punctuate the piazza; Bernini's Fontana dei Quattro Fiumi (1651), with river gods symbolising the Nile, Ganges, Danube, and Río de la Plata, is the centrepiece.

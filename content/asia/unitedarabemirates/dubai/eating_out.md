@@ -1,17 +1,6 @@
 ---
-email: sales@aflowersgift.com
-phone: 00919897064001
-title: Eating Out
+title: "Eating Out"
 type: section
-url: www.aflowersgift.com
 ---
 
-http://www.aflowersgift.com/dubai-uae.htm
-
-### [Dubai Flowers Sharjah Gifts Florist Send Gifts Flowers to Dubai Sharjah UAE
-
-Send gifts and flowers to Dubai Sharjah in UAE the same day. Dubai Florist send flowers and gifts to Dubai and Sharjah
-
-http://www.aflowersgift.com/dubai-uae.htm](/asia/unitedarabemirates/dubai/eating_out/dubai_flowers_shar)
-
-type: Indian and Pakistani
+Dubai's restaurant scene is enormous and genuinely good at the top end. The city's tax-free status and cosmopolitan population have attracted chefs from around the world: you can eat well at almost every price point and in almost any cuisine. Indian and Pakistani food, catering to the city's large South Asian population, is some of the best value — neighbourhoods like Karama and Al Rigga have dozens of excellent cheap restaurants. The big hotel restaurants tend to be where the celebrity chefs are, and some are worth the splurge. Licensed restaurants serve alcohol; standalone restaurants generally do not.

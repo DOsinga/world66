@@ -9,6 +9,7 @@ tags:
 - sight
 title: Bread Dough Figurines
 type: poi
+score: 7.7
 ---
 
 The figurines — known locally as *figuras de mazapán* — are made from a dough of flour, salt, and white glue, shaped entirely by hand and painted in bold, bright colours before being varnished to preserve them. Traditional subjects include nativity scenes, Andean animals, musicians in regional costume, and seasonal decorations that shift depending on the time of year.

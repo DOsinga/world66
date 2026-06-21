@@ -9,6 +9,7 @@ longitude: -88.7776
 snippet: 'Late-colonial baroque cathedral on the central plaza, dedicated to St Rose of Lima'
 story: >
   The cathedral was built between 1798 and 1803 by the priests Miguel Antonio and Pedro Antonio Pineda. It survived a devastating earthquake in 1877 and another in 1915, the second of which prompted repairs that coincided with the founding of the Diocese of Santa Rosa de Copan in 1916.
+score: 7.8
 ---
 
 The Cathedral Santa Rosa de Lima anchors the eastern side of the central plaza and is the most prominent building in town. Designed in the form of a Latin cross with a single central nave divided into three sections, it is one of the best-preserved examples of late-colonial baroque architecture in western Honduras.

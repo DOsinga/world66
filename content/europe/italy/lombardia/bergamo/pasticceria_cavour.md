@@ -13,6 +13,7 @@ tags:
 - cafe
 title: Pasticceria Cavour
 type: poi
+score: 6.2
 ---
 
 Steps from Piazza Vecchia in the upper town, this café dates to 1850 and is named for the Risorgimento statesman Count Cavour. The interior still carries Belle Époque grace — frescoed ceilings, gilt mirrors, small marble tables. Come for the house chocolates, krapfen, and Sacher cake, or just an espresso in surroundings that haven't changed much in 170 years.

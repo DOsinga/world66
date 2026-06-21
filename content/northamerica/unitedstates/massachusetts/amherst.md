@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-11'
+image: amherst.jpg
+image_attribution: Quintin Soloviev
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amherst,_MA_(cropped)_2.jpg
 latitude: 42.3732
+loc_type: city
 longitude: -72.5199
+score: 0.42
 title: Amherst
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Amherst is a college town in the Pioneer Valley of western [Massachusetts](/northamerica/unitedstates/massachusetts), set among farms and forested hills along the Connecticut River. Three colleges — the University of Massachusetts, Amherst College, and Hampshire College — give it an intellectual energy that punches well above its small-town size, and the student population keeps the restaurants, bookshops, and coffee houses busy year-round.

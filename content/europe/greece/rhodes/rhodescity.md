@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-13'
+image: rhodescity.jpg
+image_attribution: Julian Lupyan
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Apellou,_Medieval_City_of_Rhodes,_Greece.jpg
 latitude: 36.4438
+loc_type: city
 longitude: 28.2274
+score: 0.78
 title: Rhodes City
 type: location
-score: 0.78
-loc_type: city
 ---
 
 Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centuries ago. UNESCO granted it World Heritage status, and it deserves every bit of the recognition.

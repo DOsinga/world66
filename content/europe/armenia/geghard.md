@@ -1,18 +1,21 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
+  location_cleanup: ‘2026-04-09’
+  location_enrich: '2026-05-12'
+image: geghard.jpg
+image_attribution: Soghomon Matevosyan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%2BAyrivank_47.jpg
 latitude: 40.156623
+loc_type: city
 longitude: 44.799262
+score: 0.57
 title: Geghard
 type: location
-score: 0.57
-loc_type: city
 ---
 
-The monastery of Geghard was named after its most famous religious artifact, the lance that was said to have pierced the side of Christ. Although the lance has been moved, there are still reasons enough to still visit Geghard. The buildings of this fascinating monastery were carved from solid granite. A total of four churches were hewed out of the hillsides and valley. The oldest dates from the 1200s (don’t miss the two carved lions over the doorway). Animal sacrifices take place outside the church on Sundays. 
+Geghard is a medieval monastery complex built into the walls of the Azat River Gorge, about 40 kilometres east of [Yerevan](/europe/armenia/yerevan). Its name means "spear" in Armenian — a reference to the Holy Lance said to have pierced Christ’s side, which was kept here before being moved to Echmiadzin. The monastery is a UNESCO World Heritage Site and one of the most architecturally remarkable religious buildings in the world.
 
-The site also has a great location, with a small waterfall nearby and great views over the surrounding countryside. 
+What makes Geghard exceptional is that much of it is not built but carved. Several of the churches and chapels were hewn directly from the cliff face, their interiors emerging from solid rock. The carved cross-stones, or khachkars, lining the approaches and walls are among the finest in Armenia. On Sundays you may witness the ancient practice of animal sacrifice in the courtyard — a pre-Christian custom that was absorbed into local worship rather than suppressed.
 
-It is possible to see Geghard in conjunction with [Garni](/europe/armenia/garni) on a day trip from [Yerevan](/europe/armenia/yerevan). 
-
-Notice however, that the bus doesn't make it all the way to Geghard, so you either take a taxi, or hitch the rest of the way.
+The site pairs naturally with [Garni](/europe/armenia/garni), an ancient Hellenic temple 10 kilometres away. The combination makes an excellent day trip from Yerevan, and most visitors do both in a single outing.

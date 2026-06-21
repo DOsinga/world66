@@ -11,6 +11,7 @@ tags:
 - sight
 title: BMW Museum
 type: poi
+score: 7.9
 ---
 
 The bowl-shaped silver building beside the four-cylinder BMW tower is one of Munich's most recognisable landmarks. Inside, the permanent collection spans more than a century of BMW cars, motorcycles, and racing machines, arranged across a spiralling ramp that makes the chronology easy to follow. Design sketches and prototype models sit alongside the finished vehicles, giving a real sense of how the company evolved from aircraft engines to sports cars.

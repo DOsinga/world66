@@ -1,5 +1,0 @@
-europe/greece/kalambaka
-europe/croatia/jablanac
-asia/china/henan_province/luoyang
-asia/india/rajasthan/hanumangarh
-europe/italy/liguria/italianriviera/rivieradellepalme/plodio

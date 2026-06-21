@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: praslin.jpg
+image_attribution: Lucie2beaugency
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
 latitude: -4.325071
+loc_type: city
 longitude: 55.735608
+score: 0.82
 title: Praslin
 type: location
-score: 0.82
-image: praslin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
-image_license: CC BY-SA 4.0
-image_attribution: Lucie2beaugency
-loc_type: city
 ---
 
 Praslin is the second largest island in the Seychelles, lying 37 kilometres northeast of Mahé — two hours by boat or fifteen minutes by air. When the French explorer Lazare Picault first arrived in 1744, he named it the Island of Palms. The vegetation was so extraordinary that General Gordon of Khartoum, visiting a century later, became convinced this was the site of the original Garden of Eden.

@@ -1,5 +1,0 @@
-africa/sudan/gedaref
-europe/poland/chorzow
-europe/spain/galicia/chantada
-europe/italy/veneto/chioggia
-europe/italy/calabria/amantea

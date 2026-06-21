@@ -6,6 +6,7 @@ longitude: 19.5125
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The pedestrianised main street of central Shkodër, named after the city's most famous 19th-century painter. A 600-metre stretch of restored Italianate and Austro-Hungarian houses in pale yellow, ochre, and dusty pink, with shops and cafés on the ground floor and apartments above. At its busiest in the cool of early evening, when most of the city seems to be out for the *xhiro* — the traditional Balkan evening promenade.

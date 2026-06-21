@@ -9,6 +9,7 @@ tags:
 - nevskiyprospekt
 title: Printing Museum
 type: poi
+score: 6.4
 ---
 
 Housed in a 1905 printing house on the Moyka River embankment, this small museum is devoted to the history of printing in St Petersburg. The collection includes restored interiors, printing equipment from the mid-19th to early 20th century, and copies of newspapers and magazines from the period. A niche interest, but well presented.

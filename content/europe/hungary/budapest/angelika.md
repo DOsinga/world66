@@ -13,6 +13,7 @@ tags:
 - castle_district
 title: Angelika
 type: poi
+score: 6.8
 ---
 
 Housed in a former crypt beneath St. Anne's Church on the Buda side, Angelika is a classic Budapest cafe with high ceilings, chandeliers, and a terrace overlooking the Danube. The pastries are excellent, the coffee is good, and the crowd tends toward older locals. A lovely spot for an afternoon break after exploring the Castle District.

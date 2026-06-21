@@ -6,12 +6,12 @@ longitude: -3.593773
 snippet: Granada's ancient Moorish quarter facing the Alhambra
 tags:
 - things_to_do
-- sights
-- mosque
 - sight
+- neighbourhood
 - albaicin
 title: The Albaicín
 type: poi
+score: 9.5
 ---
 
 The old Moorish quarter sprawls across the hill opposite the Alhambra, a UNESCO World Heritage Site in its own right. Whitewashed houses line narrow cobblestone streets that wind uphill past exotic shops, North African teahouses, and small restaurants.

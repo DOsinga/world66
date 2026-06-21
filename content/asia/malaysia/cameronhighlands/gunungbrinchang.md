@@ -7,6 +7,7 @@ tags:
 - sights
 title: Gunung Brinchang
 type: poi
+score: 8.1
 ---
 
 At 2,032 metres, Gunung Brinchang is the highest point in the Cameron Highlands and one of the few peaks in Malaysia you can drive most of the way up. A paved road reaches a car park near the summit, from where a short boardwalk leads through mossy cloud forest — gnarled trees draped in ferns, moss, and pitcher plants.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.4351
 longitude: 25.3978
 snippet: Ten-kilometre caldera-rim walk with extraordinary views the entire way
+score: 9.3
 ---
 
 The footpath running along the caldera rim from Oia south to Fira is one of the best walks in the Aegean. The full route is about 10 km and takes four to five hours at a comfortable pace, passing through the villages of Finikia, Imerovigli, and Firostefani along the way. The views across the caldera to Nea Kameni and the open sea are extraordinary throughout, with the cliff dropping several hundred metres to the water on one side and the terraced village houses on the other.

@@ -1,12 +1,17 @@
 ---
-title: Ontario
-type: location
-latitude: 34.065846
-longitude: -117.64843
 done:
   location_cleanup: 2026-04-05
-score: 0.33
+  location_enrich: '2026-05-12'
+image: ontario.jpg
+image_attribution: Rockero at en.wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:GardinerWSpring05apr2006_(cropped).jpg
+latitude: 34.065846
 loc_type: city
+longitude: -117.64843
+score: 0.33
+title: Ontario
+type: location
 ---
 
 Ontario sits at the western edge of the Inland Empire, just 35 miles east of downtown Los Angeles. The city grew up around its citrus groves and the grand Euclid Avenue, a wide boulevard modeled after the Champs-Elysees and still lined with trees.

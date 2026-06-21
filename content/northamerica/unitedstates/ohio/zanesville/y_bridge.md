@@ -15,6 +15,7 @@ tags:
 - sight
 title: Y-Bridge
 type: poi
+score: 6.8
 ---
 
 The Y-Bridge spans the confluence of the Muskingum and Licking rivers, splitting into two arms mid-span to reach both banks simultaneously. It's been rebuilt several times — the current concrete version dates from 1900 — but the basic design has been here for over two centuries. Walk to the fork in the middle and you genuinely cannot tell which direction you came from. It's listed in Ripley's Believe It or Not as the only Y-shaped bridge in the world you can cross while walking in circles.

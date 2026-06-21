@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Weekend Market
 type: poi
+score: 6.4
 ---
 
 Held on Sundays just outside Tapae Gate, this weekend market brings the

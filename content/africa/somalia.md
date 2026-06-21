@@ -14,7 +14,7 @@ quick_facts:
   One Language: Somali (rare in Africa)
 done:
   country_cleanup: 2026-03-31
-score: 0.11
+score: 0.14
 loc_type: country
 ---
 

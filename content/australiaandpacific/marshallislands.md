@@ -16,7 +16,7 @@ quick_facts:
   Currency: US Dollar
   Nuclear Tests at Bikini Atoll: "67"
   Average Elevation: "2 metres above sea level"
-score: 0.52
+score: 0.32
 loc_type: country
 ---
 

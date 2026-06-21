@@ -1,14 +1,14 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - asia/china/hainanisland/baoting
+  - asia/china/hainanisland/lingshui
+  - asia/china/hainanisland/wuzhishan
 ---
 
-The area around Sanya has several worthwhile excursions beyond the city beaches.
+The area around Sanya rewards day trips. **Nanshan Cultural Tourism Zone** (40 km west) and **Tianya Haijiao** (26 km west) can be combined into a single day along the coast road. **Yazhou Ancient Town**, beyond Nanshan, makes a good third stop for anyone interested in the area's pre-tourism history. To the east, **Wuzhizhou Island** is a half-day trip from Haitang Bay and worth the effort for the snorkelling.
 
-**Nathian Hot Springs**
+For something different from the beach, the **Yanoda Rainforest Cultural Tourist Zone**, about an hour inland in Baoting county, is a managed rainforest park with canopy walks, suspension bridges, and a series of waterfalls. The Nantian Hot Springs in the same area have a long list of themed pools (coconut, coffee, herbal, doctor-fish) and are a reasonable spa day. The **Nanwan Monkey Island** in Lingshui county to the northeast is reached by cable car and supports over 2,000 free-ranging Indian rhesus macaques.
 
-These hot springs offer a variety of relaxing spa treatments in a luxurious tropical setting. Among the pools are the coconut pool, the coffee pool and Chinese herbs pool. There are many more to choose from. One of the favorites is the nibble fish pool, which contains tiny fish that nibble on the feet, removing dead skin and particles to make the skin softer. Prices for a tour of this spa are around $105. Remember to make reservations at least 24 hours in advance or the fee will be higher. Also, remember to bring your own swim clothes and extra money for the spa treatments and massages. Towels and a shower are provided with a free locker.
-
-**Picnic at Asian Dragon Bay**
-
-Asian Dragon Bay, or Yalong Bay, is located about 15 miles from Sanya. It&rsquo;s 4.7 mile long, crescent shaped beach boasts of spectacular beauty and is one of the most beautiful places in the Hainan Province. It is perfect for a day getaway to relax on the beach or to have a picnic lunch. Of course, there are plenty of other ways to enjoy the scenery including watching the gorgeous bright colored tropical fish beneath the crystal clear water. Scuba diving is definitely encouraged for those who love to swim with the fish.
+Further afield, **Wuzhi Mountain** — the highest peak in Hainan — sits in the centre of the island and rewards a long day if you have a car (about three hours each way) with rainforest hiking and Li culture villages around its base.

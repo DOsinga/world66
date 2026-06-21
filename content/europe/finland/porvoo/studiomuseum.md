@@ -12,6 +12,7 @@ tags:
 - museum
 title: Albert Edelfelt Studio Museum
 type: poi
+score: 6.8
 ---
 
 The studio of Albert Edelfelt, one of Finland's most celebrated painters, sits in the village of Haikko just outside Porvoo. Edelfelt spent his summers here from the 1880s until his death in 1905, producing many of his finest works in this light-filled space. The studio has been preserved much as he left it, with easels, brushes, and personal effects still in place. A small but worthwhile stop for anyone interested in Nordic art or the cultural history of Porvoo's surroundings.

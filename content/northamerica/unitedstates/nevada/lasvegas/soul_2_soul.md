@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Soul 2 Soul
 type: poi
+score: 5.9
 ---
 
 Soul 2 Soul - Southern-Cajun-Caribbean Fusion

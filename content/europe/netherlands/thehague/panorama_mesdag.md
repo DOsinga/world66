@@ -6,6 +6,7 @@ longitude: 4.3045
 tags:
 - things_to_do
 - museum
+score: 8.4
 ---
 
 The largest surviving 19th-century panoramic painting in the world, displayed in the purpose-built rotunda where it has hung since 1881. Hendrik Willem Mesdag and his wife Sientje painted this 360-degree view of the seaside village of Scheveningen — 14 metres high and 120 metres in circumference — and the illusion is remarkably convincing. You stand on a raised platform in the centre and the painted sea, dunes, village, and sky surround you on all sides, blending seamlessly into a foreground of real sand and objects.

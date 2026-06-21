@@ -1,12 +1,16 @@
 ---
-title: Albany
-type: location
-latitude: -35.024782
-longitude: 117.883608
 done:
   location_cleanup: 2026-04-07
-score: 0.48
+  location_enrich: '2026-06-01'
+image: national_anzac_centre.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:National_Anzac_Centre,_Albany,_Western_Australia.jpg
+latitude: -35.024782
 loc_type: city
+longitude: 117.883608
+score: 0.48
+title: Albany
+type: location
 ---
 
 Albany is the oldest European settlement in Western Australia, established in 1826 on the shores of King George Sound. Long before that, the Menang Noongar people lived here for tens of thousands of years, and evidence of their presence is still visible, particularly around Oyster Harbour. The town's superb natural harbour made it a thriving whaling port into the 1970s, and a coaling station for steamships travelling between Britain and Australia.

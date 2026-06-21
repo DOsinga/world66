@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: La Carbonara
 type: poi
+score: 7.2
 ---
 
 A fixture on Campo de' Fiori since 1906, La Carbonara serves the classic Roman repertoire — carbonara, cacio e pepe, amatriciana — in generous portions. The outdoor tables face the square and its morning market, making it one of the more atmospheric spots for a meal in the centro storico. Expect tourist-area prices but honest cooking. Closed Tuesdays.

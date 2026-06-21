@@ -1,5 +1,0 @@
-europe/unitedkingdom/wales/cardiff
-asia/bahrain/jid_hafs
-northamerica/unitedstates/wisconsin/milwaukee
-asia/india/punjab/kapurthala
-europe/russia/krasnodar/maykop

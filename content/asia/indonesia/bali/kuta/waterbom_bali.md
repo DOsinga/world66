@@ -8,6 +8,7 @@ tags:
   - sight
   - waterpark
   - family
+score: 7.8
 ---
 
 A serious water park on Jalan Kartika Plaza, set in three hectares of tropical garden with a couple of dozen slides ranging from gentle family flumes to near-vertical drops that feel longer than they look from the queue. Long-running rankings have repeatedly placed it among the best water parks in Asia, and unlike a lot of Bali attractions it is genuinely well maintained — lockers, lifeguards, and proper food and drink instead of the usual tourist mark-up.

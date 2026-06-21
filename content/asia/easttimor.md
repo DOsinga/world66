@@ -15,7 +15,7 @@ quick_facts:
   Independence: "2002 (youngest in Asia)"
 done:
   country_cleanup: 2026-03-31
-score: 0.45
+score: 0.40
 loc_type: country
 ---
 

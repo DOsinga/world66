@@ -1,5 +1,0 @@
-europe/switzerland/winterthur
-northamerica/unitedstates/southdakota/sturgis
-northamerica/canada/alberta/canmore
-europe/portugal/aveiro
-asia/thailand/phuket/phuket_city

@@ -3,11 +3,11 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 42.5751
+loc_type: region
 longitude: -8.1339
 score: 0.65
 title: Galicia
 type: location
-loc_type: region
 ---
 
 Galicia occupies the rainy, green corner of northwestern Spain, where the Atlantic hammers a jagged coastline of deep inlets called rías. It doesn't look or feel like the rest of Spain — the granite villages, the bagpipes, the Celtic hill-forts, and the persistent mist give it a mood entirely its own. People speak Galego, a language closer to Portuguese than Castilian, and they'll tell you proudly that Galicia is one of the ancient Celtic nations.

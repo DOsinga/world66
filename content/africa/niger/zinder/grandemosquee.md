@@ -8,8 +8,10 @@ tags:
 - things_to_do
 - sight
 - architecture
+- birninquarter
 title: Grande Mosquee
 type: poi
+score: 7.8
 ---
 
 The Grande Mosquee sits at the heart of Zinder's old city and makes a natural starting point for exploring the Birnin quarter. The building probably dates from the 19th century and is a fine example of Sudano-Sahelian architecture — thick mud-brick walls, protruding wooden beams, and a tower that rises above the surrounding streets.

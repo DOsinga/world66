@@ -6,6 +6,7 @@ tags:
 title: Livanto Restaurant Hua Hin
 type: poi
 url: www.livantohuahin.com
+score: 4.7
 ---
 
 LIVANTO THAI-EUROPEAN RESTAURANT

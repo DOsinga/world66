@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.9
 ---
 
 The southern counterpart to Ao Salad — a stilt village in a sheltered cove on the southeast coast, less visited and quieter. Most of the boardwalks are still residential, but a few houses double as small seafood places and at least one as a homestay.

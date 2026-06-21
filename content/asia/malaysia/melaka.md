@@ -2,31 +2,23 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-20'
 latitude: 2.329374
 longitude: 102.288096
 score: 0.65
 title: Melaka
 type: location
-loc_type: region
+loc_type: city
+image: melaka.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Malacca_River_Walk_2012.JPG
 ---
 
-Travel Guide
+Melaka (also spelled Malacca) is one of Malaysia's most historically rich cities — a place where Portuguese, Dutch, British, Chinese, Malay, and Indian cultures have layered on top of each other for over five centuries. Founded as a trading port around 1400 by a Malay prince fleeing from Temasek (present-day Singapore), it became within decades the most important emporium in Southeast Asia. Control of Melaka was control of the spice trade between East and West.
 
-We currently have no information about Melaka.
+The Portuguese took it by force in 1511, the Dutch in 1641, the British in 1795. Each colonial power left its mark: the Portuguese built the fortress whose single surviving gate, [A'Famosa](/asia/malaysia/melaka/formosafortress), still stands at the foot of St. Paul's Hill. The Dutch built the red-painted [Stadthuys](/asia/malaysia/melaka/stadthuys) and [Christ Church](/asia/malaysia/melaka/christchurch), which anchor the Red Square at the city's heart. The Chinese community established the [Cheng Hoon Teng Temple](/asia/malaysia/melaka/cheng_hoon_teng) in 1646 and left behind a Peranakan culture that is uniquely Melakan — best seen in the [Baba Nonya Heritage Museum](/asia/malaysia/melaka/baba_nonya_museum).
 
-If you do know any general information about Melaka, please [Edit this article].
+The old city is compact and walkable. [Jonker Street](/asia/malaysia/melaka/jonkerstreet) (Jalan Hang Jebat) is the main artery of the Chinese quarter, lined with antique shops and culminating in a night market on Friday and Saturday evenings. The [Kampung Kling Mosque](/asia/malaysia/melaka/kampung_kling_mosque), with its pagoda-style minaret, stands a few metres from the Buddhist temple and a Hindu shrine — a striking symbol of the city's layered religious history.
 
-If you know any hotels in Melaka or restaurants in Melaka, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/malaysia/melaka)
-
-History is everywhere in Malacca; prevalent in every nook and corner, both hinting at and sometimes even outrageously flaunting, a glorious past of international trade, power and conquests. Once an unknown settlement of sea gypsies the land's fate took a turn when a prince, fleeing from his own invaded domain of Tumasek, arrived in the 1400s. The prince's name was Paramewara and he proclaimed himself ruler of Malacca. Thus began the transformation of Malacca from obsure fishing enclave into a powerful kingdom. Malacca rose to become a prosperous and powerful nerve centre of trade between the East and the West, and eventually became an empire. Here, gold, silk, tea, opium, tobacco, perfumes and countless other items from nearby countries and from as far away as Europe and South America changed hands. 
-
-
-
-
-
-The fame of this celebrated city spread far and wide and attracted conquerors who coveted monopoly of the important spice trade. From 1511, the Portuguese, the Dutch and latterly the English, took control of the empire until Malaysia obtained her independence in 1957 and Malacca was handed over to its first local Governor. Each rule left its unique mark behind, and today this charming town is filled with relics too big to be housed by any museum alone. Every street, every monument of Malacca tells its own story of conquest and valour, avarice and victory. 
-
-Malacca is located on the West Coast of Peninsular Malaysia facing the Straits of Malacca, about 147 kilometres from Kuala Lumpur between the states of Negeri Sembilan and Johor. It covers an area of 658 square kilometres and is divided into three regions - Alor Gajah, Central Malacca and Jasin. 
-
-A trip to Malacca is like travelling through history. As the visitor walks the narrow streets, visits old temples, mosques and medieval fortresses, or lingers among ancient ruins and epitaphs, Malacca's history will captivate and enchant.
+Melaka is listed as a UNESCO World Heritage Site along with Georgetown, Penang, under the designation "Historic Cities of the Straits of Malacca." It is about 150 kilometres south of Kuala Lumpur, easily reached by bus.

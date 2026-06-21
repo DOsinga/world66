@@ -7,6 +7,7 @@ longitude: 33.749879
 title: Things to do
 type: poi
 url: www.poltavaforum.com
+score: 3.2
 ---
 
 Go to Koktebel
@@ -27,7 +28,7 @@ Resort infrastructure is highly developed in Kocktebel. You have possibility to 
 Those, who have ever visited Kocktebel, will obligatory come back here again to feel as a part of these incomparable mountains and magnificent sea.
 Kocktebel is a climatic seaside resort recommended for treat-ment and protection of diseases of nervous system and respira-tory apparatus. Bathing season lasts from the middle of May till the end of September.
 
-### [Visit Poltava Forum](/europe/ukraine/crimea/feodosia/things_to_do/visit_poltava_foru)
+### Visit Poltava Forum
 
 You may visit local Poltava Forum - http://www.poltavaforum.com/poltava-forum-137/.
 

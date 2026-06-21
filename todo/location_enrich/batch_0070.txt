@@ -1,5 +1,0 @@
-asia/malaysia/taiping
-asia/india/karnataka/tumkur
-northamerica/bahamas/catisland
-europe/italy/liguria/italianriviera/rivieradellepalme/pallare
-southamerica/colombia/palmira

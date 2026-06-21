@@ -1,18 +1,24 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-latitude: 54.46046
-longitude: -110.192871
+  location_enrich: '2026-06-01'
+latitude: 54.4605
+longitude: -110.1929
 title: Cold Lake
 type: location
 score: 0.32
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Cold_Lake,_Alberta
+  - https://en.wikipedia.org/wiki/CFB_Cold_Lake
+  - https://en.wikipedia.org/wiki/Cold_Lake_Provincial_Park
+  - https://en.wikipedia.org/wiki/Cold_Lake_Air_Force_Museum
 ---
 
-**Cold Lake** is a steadily growing city in northeastern Alberta, with a population constantly in flux. A significant portion of residents are members of the Canadian Armed Forces, drawn by the proximity of **4 Wing Cold Lake**, Canada's largest air base. Oil industry workers from the surrounding oilfields add to the transient character of the place.
+**Cold Lake** is a city of about 15,000 in northeastern Alberta, sitting on the western shore of the vast lake that gives it its name. Cold Lake (the body of water) is one of the largest natural lakes in Alberta — over 370 square kilometres of cold, deep, clear water — and it shapes everything about life here: the summer beach culture, the fishing, the winter ice activities, and even local mythology in the form of the **Kinosoo Beast**, a lake monster said to be capable of swallowing fishing boats whole.
 
-What you don't immediately notice is the pride long-term residents have for their city. Those who run Cold Lake and its businesses are all neighbours, and that connection shows: the libraries, community learning programmes, daycare centres, and clubs all pull together to make it a solid place to raise a family.
+The city has two distinct personalities. A significant portion of residents are connected to **4 Wing Cold Lake** (CFB Cold Lake), Canada's largest tactical fighter base, which generates a transient, multicultural population and a certain military-town energy. The other engine is Alberta's oil sands — Cold Lake sits on one of the richest bitumen deposits in the province, and energy workers make up another sizeable share of the population.
 
-**Recreation** is a serious matter here. Ski-dooing and quading are hugely popular, and **Kinosoo Ridge Ski Resort** offers some genuinely picturesque runs. The base's **JJ Parr Centre** is open to both service personnel and civilians, with gyms, a pool, rinks, and instruction. Fishing is rewarding if you have a boat, and **Cold Lake Provincial Park** provides trails, campgrounds, and an open-air amphitheatre. The lake itself is one of Canada's largest freshwater bodies, and local legend has it that the **Kinosoo Beast** — a gigantic fish creature said to be capable of swallowing whole fishing boats — lurks somewhere in its depths.
+What visitors don't always expect is how much is going on recreationally. **Kinosoo Ridge Ski Resort** offers downhill runs with real vertical drop. **Cold Lake Provincial Park**, northeast of town, has trails through boreal forest, sandy beaches, and a campground with an open-air amphitheatre. In summer the lake draws boaters and anglers chasing walleye, northern pike, and lake trout; in winter the ice roads open and the snowmobile trails multiply. The **JJ Parr Centre** on the base — open to civilians — runs a pool, rinks, and fitness facilities that a city twice the size would be proud of.
 
-Good places to eat include the **Hoof and Anchor** and **Clark's**, both on **Lakeshore Drive** with views over the lake.
+The lakeside strip along **Lakeshore Drive** has the best casual restaurants and the nicest summer evening walks. The community prides itself on its libraries, youth programmes, and clubs — the social fabric of a place where people genuinely know their neighbours, military families and oilfield workers included.

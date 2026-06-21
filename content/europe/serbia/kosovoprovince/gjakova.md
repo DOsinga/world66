@@ -1,0 +1,13 @@
+---
+title: Gjakova
+type: location
+loc_type: city
+latitude: 42.3803
+longitude: 20.4289
+---
+
+Gjakova (Đakovica in Serbian) is one of Kosovo's larger cities, in the southwest of the country near the Albanian border. It has a strong Albanian character and a long history as a trading and craft centre — the old bazaar, Çarshia e Gjatë, is one of the best-preserved Ottoman bazaars in the Balkans, stretching for nearly a kilometre through the centre of the old town.
+
+The city was badly damaged during the 1999 war, when a large proportion of its buildings were burned or destroyed. Rebuilding has been extensive, and today the old bazaar has been largely restored. Wandering through it — past workshops making copper goods, leather, and wood — gives a vivid sense of what a working Ottoman commercial street looked like. The bazaar is still genuinely active, not a tourist simulacrum.
+
+Beyond the bazaar, the Hadum Mosque (16th century), the old hamam, and several historic houses are worth seeing. Gjakova has a lively café culture and a younger population than many Kosovo cities; the streets around the bazaar are animated in the evenings.

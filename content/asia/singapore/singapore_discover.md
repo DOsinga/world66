@@ -9,6 +9,7 @@ tags:
 - museums
 title: Singapore Discovery Centre
 type: poi
+score: 5.3
 ---
 
 The Singapore Discovery Centre is an interactive museum in the western suburb of Jurong, run by the Ministry of Defence. The exhibits cover Singapore's military history, civil defence, and national development through simulation rides, multimedia galleries, and hands-on displays. There is a strong focus on the country's Total Defence framework — how a small nation with no natural resources protects itself.

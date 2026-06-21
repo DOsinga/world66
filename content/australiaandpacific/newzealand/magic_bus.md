@@ -7,6 +7,7 @@ tags:
 title: Magic Bus
 type: poi
 url: www.magicbus.co.nz
+score: 5.4
 ---
 
 Magic is one of the three major backpacker bus companies in New Zealand and sits in the middle ground between the party-focused Kiwi Experience and the pricier Stray Travel.

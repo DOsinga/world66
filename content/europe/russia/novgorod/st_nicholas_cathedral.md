@@ -10,6 +10,7 @@ tags:
 - church
 title: St Nicholas' Cathedral
 type: poi
+score: 7.3
 ---
 
 Built in 1113, the Nikolsky Sobor is one of Novgorod's oldest churches and marked a significant departure from the style of the nearby St Sophia's Cathedral. It stands in the Yaroslav's Court district across the river from the Kremlin, surrounded by a cluster of other medieval churches.

@@ -1,5 +1,0 @@
-asia/bahrain/manama
-europe/italy/tuscany/elba/marinadicampo
-asia/laos/savannakhet
-europe/france/normandybrittany/villerville
-europe/france/midi/languedoc/perpignan

@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Westminster Abbey
 type: poi
+score: 9.7
 ---
 
 The coronation church of English and British monarchs since 1066, and a working church that manages to be both a major tourist attraction and a place of genuine religious life. Poets' Corner in the south transept has memorials to Chaucer, Shakespeare, Dickens, Hardy, and dozens more; the Grave of the Unknown Warrior near the west door is unexpectedly moving. It's not cheap, but the building and its history justify the ticket.

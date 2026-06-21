@@ -4,6 +4,7 @@ tags:
 - getting_around
 title: Japan Rail Pass
 type: poi
+score: 7.1
 ---
 
 If you plan to travel between cities in Japan, the Japan Rail Pass is almost certainly worth it. The pass gives unlimited travel on all JR trains — including most shinkansen (bullet train) lines, except the Nozomi and Mizuho services — for seven, fourteen, or twenty-one days.

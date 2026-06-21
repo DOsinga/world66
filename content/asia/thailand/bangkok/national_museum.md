@@ -9,6 +9,7 @@ tags:
 - museum
 title: National Museum
 type: poi
+score: 8.6
 ---
 
 One of the largest museums in Southeast Asia, the National Museum contains Thailand's most comprehensive collection of art and artefacts, from Neolithic times to the present. Free English-language tours are offered on certain days. Admission 200 baht.

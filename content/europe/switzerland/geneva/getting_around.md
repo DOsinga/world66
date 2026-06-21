@@ -1,54 +1,16 @@
 ---
-title: "Getting Around in Geneva"
+title: Getting Around
 type: section
 ---
 
-[Geneva](/europe/switzerland/geneva) is the second largest city in [Switzerland](/europe/switzerland). It is considered
-one of the most compact metropolises in the world and extends into
-France. Geneva has the third highest quality of life in the world. The
-city is walled-in by the Alps and Jura mountain chains. Though there
-are museums and galleries in Geneva, many of the most popular
-attractions are free and, because the city is somewhat compact, many
-activities are within walking distance.
+Geneva is small enough to cross on foot in 30 minutes. Most sights in the old town and along the lake are within walking distance of each other. The city's geography — left bank rising above the lake, right bank flat across to the train station — is easy to orient yourself in.
 
-**Getting There**
+**Public transport** (TPG) is excellent: trams, trolleybuses and regular buses cover the city and reach into the suburbs and France. Tickets are around CHF 3 for an hour. If you are staying overnight, your **hotel will give you a free Geneva Transport Card** valid for the duration of your stay — request it at check-in if it is not offered. The card covers all TPG buses, trams and the **yellow Mouettes water taxis** that cross the lake.
 
-Switzerland
-has it's own airline called **Swiss Air** that flies to many cities in the
-world. You can find good prices here, but you should also take a look
-at some of the multi-airline search engines like **cheaptickets.com** and
-**priceline.com**. These search engines will compare prices of many of the
-most popular airlines and give you the cheapest prices. Also, if
-possible, try to fly during the week, as it is generally cheaper, as is
-flying off-season. On most airline websites, while searching for a
-flight, you can check a box that says "my dates are flexible". This
-will give you all of the different prices for most every day of every
-month so you can look through and choose what best suits you.
+The **Mouettes** are a fun way to cross between the left bank and the right bank — four small lines run from Pâquis to Eaux-Vives and back, every 10 minutes during the day.
 
-**What to Do**
+**Geneveroule** runs a bike-share scheme with bikes free for the first four hours from kiosks at the train station and several other central points.
 
-A great fact about staying in
-Geneva is that, if you stay in a hotel, hostel, or camp, you will get a
-free Geneva Transport Card for the duration of your stay. This will
-provide you with free city transportation by boat, train, or bus
-throughout the area. Many of the beautiful places to see in Geneva
-public sites that you don't have to pay for. Visit the **Flower Clock** in
-Jardin Anglais (English Garden), **Saint Peter's Cathedral** (a small fee
-if you want to conquer the 157 steps up the tower), or the **Reformation
-Wall** that holds 450 years of Protestant history.
+The **airport** is 15 minutes from the centre by train — a free transit ticket dispenser in baggage reclaim gives you a one-time pass into town; for the return journey you need a regular ticket or your Geneva Transport Card.
 
-**Where to Stay**
-
-There aren't a large amount of
-hostels in Geneva, but those that are there are nice and modern and, as
-previously mentioned, all accommodation includes a free Geneva
-Transport Card for your entire stay. **The Geneva City Hostel** may well be
-the cheapest place to stay with beds starting at only $30 per night. If
-you'd rather have your own private room, prices for single rooms start
-at only $55 per night (you won't find this low price often). Although
-you will not have an en-suite toilet and shower, there are bathroom
-blocks on every level which is almost better, as they make sure these
-are as clean as possiible.
-
-**Contributors**
-July 30, 2009
+**Taxis** are expensive — even short trips cost CHF 25 or more. Uber operates in Geneva.

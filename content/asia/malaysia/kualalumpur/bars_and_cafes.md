@@ -3,10 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-**STARDUST
+KL's drinking scene clusters in three areas: **Changkat Bukit Bintang** for the late-night bar strip, **TREC** on Jalan Tun Razak for clubs and live music, and **Bangsar** (Telawi Street and Jalan Bangkung) for a more grown-up crowd of wine bars and gastropubs. The skyscraper rooftops are the other category — Heli Lounge Bar on the helipad of Menara KH, Marini's on 57 next to the Petronas Towers, and Vertigo at the Banyan Tree.
 
-**Where does one head to when looking for a good place to chill out and drink, but
-at the same time wanting to avoid the inevitable jam at the usual
-watering holes of KL or Bangsar?
-
-STARDUST, the latest bar to hit Desa Sri Hartamas's bustling night scene, dubbed the most "entertaining spot". Launched on 25th April 2008, Stardust is set to become the venue choice for the men in KL.
+Alcohol is taxed heavily in Malaysia and drinks are not cheap — a beer in a bar runs around RM 25-35, a cocktail RM 40-60. Many Muslim-owned restaurants do not serve alcohol; Chinese-Malaysian places almost always do. Look for the kopitiams — traditional coffee shops serving strong local coffee with condensed milk, half-boiled eggs, and kaya toast — for a non-alcoholic alternative that doubles as breakfast.

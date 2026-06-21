@@ -11,9 +11,11 @@ snippet: Art nouveau and art deco collection opposite Charlottenburg Palace
 tags:
 - things_to_do
 - museum
+- charlottenburg
 title: Bröhan Museum
 type: poi
 url: www.broehan-museum.de
+score: 7.9
 ---
 
 A former infantry barracks that became one of Berlin's most elegant small museums. The Bröhan houses an extensive private collection of art nouveau and art deco objects — furniture, glass, ceramics, and paintings — including works by Max Liebermann, Lovis Corinth, and Henry van de Velde. It sits directly across from Charlottenburg Palace, making it a natural companion visit.

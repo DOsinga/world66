@@ -18,7 +18,7 @@ quick_facts:
   Byblos: "~7,000 years old"
 title: Lebanon
 type: location
-score: 0.5
+score: 0.59
 loc_type: country
 ---
 

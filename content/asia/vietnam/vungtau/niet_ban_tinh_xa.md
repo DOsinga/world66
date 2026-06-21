@@ -6,6 +6,7 @@ longitude: 107.0768
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Nirvana Monastery is one of the largest Buddhist complexes in southern Vietnam, built in the early 1970s on the western slope of Mount Nhỏ. It is more famous architecturally than spiritually — multiple terraces of white-painted concrete climbing the hillside, topped by a long 12-metre reclining Buddha in white marble.

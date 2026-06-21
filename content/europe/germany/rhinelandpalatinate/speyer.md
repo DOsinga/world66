@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: speyer.jpg
+image_attribution: Roman Eisele
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Speyer_-_Altstadt_-_Altpoertel_-_Blick_auf_Domfassade_und_Kirchtuermen_mit_Abendsonne.jpg
 latitude: 49.316555
+loc_type: city
 longitude: 8.433615
 score: 0.56
 title: Speyer
 type: location
-loc_type: city
 ---
 
 Speyer is a small Rhine city with an outsized historical legacy. As a free city of the Holy Roman Empire from 1294 until 1779, it hosted over 50 imperial diets and was the seat of the Imperial Chamber Court. The Protestant Reformation itself takes its name from the "Protestation at Speyer" of 1529.

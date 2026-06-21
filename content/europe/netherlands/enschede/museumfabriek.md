@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.23230
 longitude: 6.89100
+score: 7.7
 ---
 
 De Museumfabriek (formerly the Twentse Welle) is a museum of regional history and culture in the Roombeek district, housed in a building that mixes a converted 19th-century textile factory with modern extensions. The collection covers the textile industry that made Twente prosperous, natural history of the region, and the history of the 2000 fireworks disaster that destroyed this neighbourhood.

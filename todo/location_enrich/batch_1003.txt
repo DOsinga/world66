@@ -1,5 +1,0 @@
-asia/india/gujarat/saputara
-europe/netherlands/nijmegen
-northamerica/unitedstates/hawaii/koloa
-northamerica/unitedstates/california/northcoast/sebastopol
-africa/mauritania/amogar

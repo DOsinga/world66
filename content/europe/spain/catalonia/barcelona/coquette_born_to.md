@@ -10,6 +10,7 @@ tags:
 title: Coquette, Born to Be Beautiful
 type: poi
 url: www.coquettebcn.com
+score: 4.5
 ---
 
 A well-curated women's fashion boutique in Barcelona's Born quarter, carrying a mix of established European designers and smaller independent labels. The shop has a clean, inviting layout and helpful staff who know their stock. Worth a stop if you are browsing the Born neighborhood's many small shops.

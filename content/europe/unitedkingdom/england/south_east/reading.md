@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: reading.jpg
+image_attribution: Chris j wood
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Broad_Street,_Reading,_2018-09-16_13.46.09.jpg
 latitude: 51.451495
+loc_type: city
 longitude: -0.983634
+score: 0.38
 title: Reading
 type: location
-score: 0.38
-loc_type: city
 ---
 
 Reading is a large town west of London, about 25 minutes by fast train from Paddington. It is best known for the Reading Festival, one of the UK's biggest rock and indie music festivals, held every August bank holiday weekend at Richfield Avenue.

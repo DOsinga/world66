@@ -1,5 +1,0 @@
-southamerica/argentina/patagonia/ushuaia
-europe/switzerland/savognin
-northamerica/unitedstates/newyorkstate/albany
-asia/india/punjab/gurdaspur
-northamerica/unitedstates/california/vallejo

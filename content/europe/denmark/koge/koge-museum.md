@@ -7,6 +7,7 @@ tags:
 latitude: 55.45583
 longitude: 12.18242
 story: "In 1987, two electricians digging in a courtyard at Brogade 17 hit something hard. It turned out to be 32 kilograms of 17th-century silver coins — Denmark's largest coin hoard. The whole story, from the dig to the cataloguing to the question of who the silver belonged to, is told at Køge Museum."
+score: 7.5
 ---
 
 The museum itself occupies a merchant's house from 1619 on Nørregade, which has had several lives: grocery store, garrison billet, poorhouse, and finally museum since 1909. The building is as interesting as the collection.

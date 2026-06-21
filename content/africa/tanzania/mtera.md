@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: mtera.jpg
+image_attribution: Massimiliano
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mtera_Lake_at_Sunset.jpg
 latitude: -7.161444
+loc_type: city
 longitude: 35.776251
+score: 0.32
 title: Mtera
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Mtera is not a destination in itself so much as a reason to detour off the Iringa–Dodoma highway. The Mtera reservoir, created when a dam was built across the Ruaha River in 1981, flooded a small village and created one of Tanzania's best and least-visited birdwatching sites.

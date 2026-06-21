@@ -1,11 +1,12 @@
 ---
 title: Fort Sint Pieter
 type: poi
-latitude: 51.6764
-longitude: 5.6742
+latitude: 50.8363
+longitude: 5.6673
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 An 18th-century fortress on top of the Sint Pietersberg hill, built to defend Maastricht from the south. The fort saw action only once — during the French siege of 1748 — and the cannonball scars are still visible in the walls. The casemates (underground gun chambers) are well preserved and can be explored on a guided tour.

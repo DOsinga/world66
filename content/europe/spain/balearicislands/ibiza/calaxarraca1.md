@@ -5,6 +5,7 @@ tags:
 - beaches
 title: Cala Xarraca
 type: poi
+score: 6.8
 ---
 
 This beach, surrounded by impressive cliffs, houses only a few restaurants and houses. You can hire

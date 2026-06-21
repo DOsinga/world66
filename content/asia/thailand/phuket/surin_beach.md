@@ -9,6 +9,7 @@ tags:
 - beaches
 title: Surin Beach
 type: poi
+score: 7.0
 ---
 
 Surin Beach sits about 15 km north of Patong on Phuket's west coast. The beach has a more upscale feel than its southern neighbors, with luxury resorts lining the hillside above and a handful of beach clubs along the sand. The water is clear and the setting is scenic, backed by casuarina trees.

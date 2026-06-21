@@ -1,5 +1,0 @@
-europe/italy/tuscany/prato
-europe/italy/sardinia/sunuraxi
-northamerica/unitedstates/missouri/columbia
-australiaandpacific/newzealand/canterbury/akaroa
-europe/slovenia/bovec

@@ -13,6 +13,7 @@ tags:
 title: Boulevard
 type: poi
 url: www.boulevardrestaurant.com
+score: 7.4
 ---
 
 One of the best French-California restaurants in San Francisco, Boulevard sits on the Embarcadero in a beautiful Belle Epoque building. Try the foie gras and the steak frites. Reservations essential.

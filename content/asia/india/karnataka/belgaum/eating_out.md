@@ -8,6 +8,7 @@ longitude: -79.992055
 price: average.. fits most budgets
 title: Eating Out
 type: poi
+score: 2.5
 ---
 
 Food is quite Tasty. Make sure you have the Paneer Sashlik.
@@ -30,7 +31,7 @@ address: near bus station
 
 PriceOfMenu: average.. fits most budgets
 
-### [Popeye's fast food](/asia/india/karnataka/belgaum/eating_out/popeyes_fast_food)
+### Popeye's fast food
 
 There are as many as 7 outlets here
 Kirloskar Road
@@ -49,7 +50,7 @@ type: Chinese
 
 PriceOfMenu: Normal rates
 
-### [Sea Rock](/asia/india/karnataka/belgaum/eating_out/sea_rock)
+### Sea Rock
 
 Good place to try out some of the South Indian, especially the coastal dishes, fish fry. You will get one of the best fried fish here.
 

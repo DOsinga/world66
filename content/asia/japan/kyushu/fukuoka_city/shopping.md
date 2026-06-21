@@ -2,6 +2,7 @@
 address: Marinoa City, Nishi-ku, Fukuoka-shi
 title: Shopping
 type: poi
+score: 3.0
 ---
 
 Fukuoka is a large commercial town too.

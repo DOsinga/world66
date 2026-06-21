@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: daressalaam.jpg
+image_attribution: Muhammad Mahdi Karim
+image_license: GFDL 1.2
+image_source: https://commons.wikimedia.org/wiki/File:Bank_of_Tanzania_before_dusk.jpg
 latitude: -6.7924
+loc_type: city
 longitude: 39.2083
 score: 0.46
 title: Dar es Salaam
 type: location
-loc_type: city
 ---
 
 Dar es Salaam — "House of Peace" in Arabic — is anything but. Tanzania's largest city and former capital is a sweltering, sprawling, energetic port of around five million people, the country's commercial engine and the staging point for almost every traveller heading on to [Zanzibar](/africa/tanzania/zanzibar) or up-country to the safari parks. Most visitors plan to skip it. They are wrong to.

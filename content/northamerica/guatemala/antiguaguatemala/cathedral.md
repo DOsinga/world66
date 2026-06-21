@@ -8,6 +8,7 @@ tags:
 - sights
 title: Cathedral
 type: poi
+score: 8.4
 ---
 
 On the east side of the Plaza de Armas stood the great Catedral, inaugurated on November 5, 1680, after eleven years of construction. This huge building replaced an earlier cathedral begun in 1542 and worked on intermittently for many decades. Various notables from the Conquest were buried here: Bernal Diaz del Castillo, conquistador and author of *The Discovery and Conquest of Mexico*, lived out his latter days in Antigua and was buried in the original cathedral; the remains of Don Pedro de Alvarado, the conqueror of Guatemala, were brought here in 1568 for re-interment.

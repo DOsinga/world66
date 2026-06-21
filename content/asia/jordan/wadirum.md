@@ -1,12 +1,15 @@
 ---
-title: Wadi Rum
-type: location
-latitude: 29.508444
-longitude: 35.336215
 done:
   location_cleanup: 2026-04-07
-score: 0.75
+image: wadirum.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg
+latitude: 29.508444
 loc_type: region
+longitude: 35.336215
+score: 0.75
+title: Wadi Rum
+type: location
 ---
 
 Wadi Rum is Lawrence of Arabia country. A vast desert landscape of dry riverbeds, natural rock bridges, high mountains, and wind-swept black hills stretching to the horizon. The scenery is spectacular and unlike anything else in the Middle East — towering sandstone cliffs rise from pink and red sand, and the silence is immense.

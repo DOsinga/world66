@@ -8,6 +8,7 @@ tags:
 - museum
 title: Cable Car Museum
 type: poi
+score: 9.0
 ---
 
 The Cable Car Museum is not just a museum -- it is the actual working powerhouse that drives every cable car in San Francisco. From the viewing gallery you can watch the massive sheaves and winding wheels that pull the cables under the streets, a system that has been running essentially unchanged since 1873. The engineering is mesmerising: miles of steel cable loop continuously through underground channels, and each cable car grips and releases the moving cable to start and stop.

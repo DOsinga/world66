@@ -1,5 +1,0 @@
-europe/spain/balearicislands/mallorca/puertodealcudia
-northamerica/unitedstates/oklahoma/jenks
-europe/italy/liguria/italianriviera/ventimiglia
-northamerica/unitedstates/california/centralcoast/sanluisobispo
-africa/southafrica/portelizabeth

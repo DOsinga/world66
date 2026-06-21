@@ -1,31 +1,12 @@
 ---
-title: "Books in Kota Kinabalu"
+title: "Books"
 type: section
-author: "N/A"
-isbn: "794600301"
 ---
 
-There are many great books that can help you in your travels to and about Kota Kinabalu.
+**Into the Heart of Borneo** by Redmond O'Hanlon — O'Hanlon's account of a journey into the interior of Borneo with the poet James Fenton is one of the funniest travel books ever written. It says almost nothing specific about Kota Kinabalu, but it captures the jungle, the rivers, and the sheer improbability of Borneo travel with a vividness that puts you in the right frame of mind before you arrive.
 
-### [Sabah & Kota Kinabalu Travel Map](/asia/malaysia/kotakinabalu/books/sabah__kota_kinab)
+**The Lord of the Flies** has nothing to do with Sabah — but **The Sea and the Jungle** by H.M. Tomlinson, a lesser-known classic, covers the experience of a British traveller in early-twentieth-century equatorial waters and evokes the sense of wonder and disorientation that still applies.
 
-This is a
-single page folded map of Sabah & Kota Kinabalu, Malaysia. It’s the
-fourth edition of the series, published in February of 2005. The
-pre-folded size is a standard 10 x 4 map fold, but of course it could
-be folded even smaller if necessary.
+**Stranger in the Forest** by Eric Hansen — Hansen walked across Borneo on foot in 1982 with no guides, no GPS, and no experience, relying on the hospitality of Penan and Dayak communities. The resulting book is a remarkable account of jungle survival and of the communities that know the forest as a home rather than an obstacle. Essential reading before any trip inland from KK.
 
-A general problem with z-fold map
-products is that the site you need to find is inevitably on a fold
-somewhere, and the maps are constructed of lightweight paper and have a
-tendency to tear at the folds. This map is much the same as any other
-in that regard. The paper used to construct the map is no heavier than
-any [more..](/asia/malaysia/kotakinabalu/books/sabah__kota_kinab)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/794600301/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: N/A
-
-isbn: 794600301
+**Malaysia, Singapore and Brunei** (Lonely Planet) — practical rather than literary, but the Sabah chapter is unusually well-researched and contains specific, current information on the climbing permit system for Mount Kinabalu and on wildlife reserves that the older sources miss.

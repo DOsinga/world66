@@ -1,5 +1,0 @@
-northamerica/thecaribbean/barbados/bridgetown
-europe/unitedkingdom/scotland/kelso
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby
-europe/france/centre/lemans
-europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich

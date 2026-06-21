@@ -1,5 +1,0 @@
-asia/japan/kyushu/nagasaki
-europe/italy/puglia/trani
-asia/india/rajasthan/mount_abu
-northamerica/unitedstates/kentucky/lexington
-northamerica/unitedstates/oklahoma/muskogee

@@ -6,8 +6,11 @@ longitude: 129.028192
 snippet: Sprawling traditional market with great street food alleys
 tags:
 - things_to_do
+- shopping
+- market
 title: Gukje Market
 type: poi
+score: 6.8
 ---
 
 Busan's main traditional market, selling clothing, shoes, leather goods, electronics, and kitchen supplies at competitive prices. Busy and chaotic in the best way — the surrounding alleys are full of street food stalls.

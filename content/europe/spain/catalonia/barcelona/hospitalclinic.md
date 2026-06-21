@@ -8,6 +8,7 @@ tags:
 - practical_information
 title: Hospital Clinic
 type: poi
+score: 2.2
 ---
 
 Hospital Clínic is one of Barcelona's main public hospitals, located in the Eixample district on Carrer de Villarroel. It has a 24-hour emergency department and is a major teaching hospital affiliated with the University of Barcelona. If you need medical attention, this is one of the city's most respected facilities. Staff in the emergency department generally speak some English.

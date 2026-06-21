@@ -6,6 +6,7 @@ longitude: -78.7439
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Lindsay is the largest community in Kawartha Lakes and the only one with a real urban centre. The downtown is a four-block stretch of Kent Street between Cambridge and Lindsay Street, lined with red-brick Victorian shopfronts, a 1924 art-deco bank, and the restored 1893 Academy Theatre.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/shastacascade/mccloud
-africa/zimbabwe/kwekwe
-europe/france/alpes/courchevel
-europe/germany/badenwrttemberg/badenbaden
-europe/germany/hessen/kassel

@@ -7,6 +7,7 @@ tags:
 title: Carlsberg
 snippet: "Historic 1847 brewery with world's largest bottle collection"
 type: poi
+score: 7.6
 ---
 
 The original Carlsberg brewery site in Valby, dating from 1847. The visitor centre covers the history of Danish brewing and includes the world's largest collection of beer bottles. The surrounding neighbourhood is being redeveloped into a mixed-use district, but the old elephant gate and brewery buildings remain.

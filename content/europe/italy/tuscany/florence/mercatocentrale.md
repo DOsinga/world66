@@ -10,6 +10,7 @@ tags:
 - market
 title: Mercato Centrale
 type: poi
+score: 7.1
 ---
 
 Florence's main market, housed in a fine late 19th-century steel and glass building near the San Lorenzo complex. The ground floor sells fresh meat, fish, cheese, and produce. The upper floor was transformed into a gourmet food hall where you can eat well at reasonable prices from multiple vendors. Busy from morning until evening on weekdays.

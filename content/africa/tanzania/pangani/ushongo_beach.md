@@ -5,6 +5,7 @@ latitude: -5.8200
 longitude: 38.5700
 snippet: "A long, empty stretch of white sand north of Pangani — one of the finest undeveloped beaches on Tanzania's coast."
 tags: [beaches, nature]
+score: 7.8
 ---
 
 Ushongo Beach runs north of Pangani for several kilometres without a resort in sight. The sand is white and deep, the palms lean over the waterline, and on most days you will share it only with local fishermen pulling their nets. The Indian Ocean here is warm and generally calm, protected by the offshore reef system.

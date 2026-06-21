@@ -8,6 +8,7 @@ tags:
 address: "Place Saint-Jean de Malte, 13100 Aix-en-Provence"
 latitude: 43.5264
 longitude: 5.4524
+score: 8.6
 ---
 
 A fine arts museum housed in a 17th-century priory of the Knights of Malta. The collection includes 18 paintings by Cézanne — the local boy — alongside works by Rembrandt, Rubens, and a strong selection of French and Italian masters from the 16th to 19th centuries. The Jean Planque collection, added in 2013, brought in Picasso, Klee, Monet, and Van Gogh.

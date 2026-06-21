@@ -5,6 +5,7 @@ tags:
 - eating_out
 title: South Pembina
 type: poi
+score: 4.6
 ---
 
 Pembina Highway from the Perimeter Highway to Grant Avenue was once a fast food wasteland. Recently a variety of specialty restaurants have livened up the mix.

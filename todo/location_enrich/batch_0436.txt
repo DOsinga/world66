@@ -1,5 +1,0 @@
-northamerica/unitedstates/newjersey/piscataway
-northamerica/canada/manitoba/churchill
-europe/germany/bavaria/nuremberg
-africa/niger/nguigmi
-asia/saudiarabia/dammam

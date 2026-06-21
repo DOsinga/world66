@@ -1,5 +1,0 @@
-europe/sweden/vsters
-asia/philippines/mindanaoisland/davao
-europe/estonia/nva
-europe/croatia/krkisland/vrbnik
-northamerica/unitedstates/maryland/baltimore

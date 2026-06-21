@@ -1,5 +1,0 @@
-asia/uzbekistan/bukhara
-africa/morocco/alhoceima
-europe/italy/campania/agropoli
-northamerica/unitedstates/newmexico/san_fidel
-australiaandpacific/australia/westernaustralia/esperance

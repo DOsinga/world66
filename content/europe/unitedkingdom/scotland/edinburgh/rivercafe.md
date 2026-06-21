@@ -9,8 +9,10 @@ snippet: Relaxed Stockbridge café-bistro near the Water of Leith
 tags:
 - bars_and_cafes
 - cafe
+- stockbridge
 title: River Café
 type: poi
+score: 5.6
 ---
 
 A homely Stockbridge café-bistro with a lunch menu that mixes pub standards and a few light Asian dishes, and occasional live music in the evenings. A useful pit stop after walking the Water of Leith path.

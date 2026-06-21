@@ -1,5 +1,0 @@
-asia/japan/honshu/notohanto
-europe/georgia/borjomi
-asia/china/tibet/zhangmu
-northamerica/mexico/playadelcarmen
-europe/germany/bavaria/passau

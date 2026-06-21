@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Gatorland
 type: poi
+score: 7.8
 ---
 
 Home to thousands of alligators and crocodiles, Gatorland is one of Orlando's oldest attractions — a refreshing antidote to the mega theme parks. The park includes a petting zoo, bird sanctuary, wildlife shows, and a boardwalk through a cypress swamp. The Screamin' Gator zip line runs over the alligator breeding marsh.

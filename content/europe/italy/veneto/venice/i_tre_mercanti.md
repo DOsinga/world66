@@ -8,6 +8,7 @@ tags:
 - shop
 title: I Tre Mercanti
 type: poi
+score: 4.9
 ---
 
 A well-stocked gourmet food shop near Piazza San Marco, carrying a broad selection of Italian pantry staples. The shelves hold dozens of pasta sauces, olive oils from across the regions, aged balsamic vinegars, and a good truffle selection. The wine range covers most Italian regions. They ship internationally.

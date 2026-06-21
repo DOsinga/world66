@@ -1,16 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-address: "60 Great Victoria Street"
-phone: "(028) 9080 8700"
 ---
 
-Belfast boasts a wide variety of places to eat to suit all tastes and budgets, many of which are well known award-winning restaurants which have extensive menus with a wide variety of excellent cuisine.
-
-  It is virtually impossible to give a complete listing of all the types of food available in Belfast, let alone all the restaurants serving them! What follows is just a sample of what is available… 
-
-**general**
-
-The Red Panda Chinese Restaurant
-
-The Red Panda is one of the largest and most comfortable restaurants in Belfast, with experienced chefs from Hong Kong who offer a vast and superb menu of authentic Chinese cuisine.
+Belfast's food scene has transformed dramatically since the 1990s. The city now has a strong restaurant culture, from the upscale establishments of the Cathedral Quarter to the excellent street food at St George's Market on Saturday mornings. Ulster fry is the essential local breakfast — a variant of the full Irish that adds soda bread and potato bread to the standard combination of eggs, bacon, sausage, and tomato. The city's pubs also serve serious food.

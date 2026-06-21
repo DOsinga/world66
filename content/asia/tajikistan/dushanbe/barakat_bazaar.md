@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Barakat Bazaar
 type: poi
+score: 8.2
 ---
 
 The central covered market is Dushanbe's most vivid spot — spice stalls, dried fruits, embroidered textiles, Soviet-era kitchenware, and vendors selling everything from live chickens to mobile phone cases. Come in the morning when it's at its busiest. Bargaining is expected on most goods.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de la Revolución
 type: poi
+score: 7.9
 ---
 
 The Museum of the Revolution occupies the former Presidential Palace on Refugio Street, an eclectic building completed in 1920 by Cuban architect Maruri and Belgian architect Jean Beleu. It served as the seat of the Cuban government for forty years, witnessing some of the most turbulent chapters in the country's history.

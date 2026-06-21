@@ -5,6 +5,7 @@ tags:
 - restaurant
 title: Davao Hilltop Restaurant
 type: poi
+score: 5.7
 ---
 
 With a great view of downtown Davao, this lovely restaurant serves Filipino delicacies.

@@ -4,6 +4,7 @@ phone: 1 (831) 915-5209
 title: Things to do in Carmel
 type: poi
 url: www.creativityworkshop.com
+score: 1.8
 ---
 
 Bored, well you can visit Carmel Moviepel 8. Don't want to see a movie then you can going bowling at Carmel Bowl.
@@ -11,7 +12,7 @@ Bored, well you can visit Carmel Moviepel 8. Don't want to see a movie then you 
 **Contributors**
 July 07, 2005
 
-### [Creativity Workshop](/northamerica/unitedstates/newyorkstate/carmel/things_to_do/creativity_worksho)
+### Creativity Workshop
 
 Creativity is a talent we are all born with. But it needs practice to stay vibrant and grow.
 Come to explore your creative potential and see some of the most beautiful places in the world.

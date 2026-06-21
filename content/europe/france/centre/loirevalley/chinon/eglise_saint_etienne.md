@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 Saint-Étienne is the parish church at the eastern end of the old town, mostly built in the 15th century in flamboyant Gothic style with a square bell tower above the west door. It is a pleasant detour rather than a major sight — vaulted nave, stained glass that mixes medieval and 19th-century work, a couple of carved tombs in the side chapels.

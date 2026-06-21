@@ -8,6 +8,7 @@ tags:
 title: Lapjesmarkt
 type: poi
 snippet: "Saturday fabric market on Breedstraat, running since 1597."
+score: 6.3
 ---
 
 Saturday morning fabric market on the Breedstraat — cloth, trim, remnants, haberdashery — running since 1597. Less a shopping stop than a slice of Utrecht street life.

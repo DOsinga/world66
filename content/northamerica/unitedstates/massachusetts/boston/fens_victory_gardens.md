@@ -8,6 +8,7 @@ tags:
 - park
 title: Fens and Victory Gardens
 type: poi
+score: 7.9
 ---
 
 The Back Bay Fens is the scruffy, beloved heart of Frederick Law Olmsted's Emerald Necklace — a chain of parks stretching from the Common to Franklin Park. Unlike the manicured Public Garden, the Fens feels wilder: a tidal marsh turned freshwater park, with reedy banks, meandering paths, and the Muddy River winding through.

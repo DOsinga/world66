@@ -1,5 +1,0 @@
-asia/laos/pakse
-northamerica/canada/britishcolumbia/gold_river_britis
-africa/somaliland/lasanod
-africa/libya/sabratha
-europe/croatia/rovinj

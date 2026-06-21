@@ -6,6 +6,7 @@ longitude: -104.919532
 price: Mid range
 title: Eating Out
 type: poi
+score: 4.5
 ---
 
 Puerto Vallarta holds a gourmet festival yearly (http://www.festivalgourmet.com/), expect fabulous dining, not only at participant restaurants but throughout the area.
@@ -31,7 +32,7 @@ address: Bucerias Mexico
 
 PriceOfMenu: Mid range
 
-### [Le Kliff Restaurante Bar](/northamerica/mexico/puertovallarta/eating_out/le_kliff_restauran)
+### [Le Kliff Restaurante Bar](/northamerica/mexico/puertovallarta/le_kliff_restaurante_bar)
 
 Le Kliff advertises itself as the "most beautiful restaurant in Mexico"
 - and it just might be. Built on a sea cliff overlooking the Pacific,
@@ -42,7 +43,7 @@ wider view of the ocean and nearby coast.
 Most places with views like this have disappointing food, the thought
 being that you're really just there for the view - but Le Kliff has
 some wonderful, inventive dishes. We enjoyed fire-roasted lobster and
-wonderful ceviche on our last visit, as well as [more..](/northamerica/mexico/puertovallarta/eating_out/le_kliff_restauran)
+wonderful ceviche on our last visit, as well as a delicate huachinango (red snapper) grilled with local herbs. Reserve a sunset table on one of the lower palapas for the best view.
 
 type: Mexican
 
@@ -62,13 +63,13 @@ PriceOfMenu: Expensive
 
 email: Le Kliff Restaurante Bar
 
-### [Ecole de Cuisine Le Fort](/northamerica/mexico/puertovallarta/eating_out/ecole_de_cuisine_l)
+### [Ecole de Cuisine Le Fort](/northamerica/mexico/puertovallarta/ecole_de_cuisine_le_fort)
 
 If you spend one evening outside of Puerto Vallarta while visiting Banderas Bay, make it a point to have dinner chez Margarita and Gilles Le Fort.
 
 The show begins at 8 p.m. with you and a few select others sitting at the counter around M. Le Fort's kitchen sipping kir royale and eating housemade paté. You have a sheet of recipes for the evening's meal to reference as Gilles begins to work his magic.
 
-After preparing the three courses for the evening, you'll adjourn to the dining room to taste the creations. The Le Forts pour two more kinds of wine selected to [more..](/northamerica/mexico/puertovallarta/eating_out/ecole_de_cuisine_l)
+After preparing the three courses for the evening, you'll adjourn to the dining room to taste the creations. The Le Forts pour two more kinds of wine selected to match the dishes, and the evening winds down with cheese, dessert and unhurried conversation around a single shared table.
 
 type: French
 

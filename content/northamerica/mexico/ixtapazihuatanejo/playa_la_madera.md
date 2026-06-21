@@ -10,6 +10,7 @@ tags:
 - beaches
 title: Playa La Madera
 type: poi
+score: 6.3
 ---
 
 A sheltered beach tucked between Playa Municipal and Playa La Ropa in Zihuatanejo. The water is calm and good for swimming, making it popular with local families and Mexican tourists. Most afternoons a pickup soccer game takes over part of the sand.

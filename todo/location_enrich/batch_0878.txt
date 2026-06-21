@@ -1,5 +1,0 @@
-europe/portugal/algarve/faro
-asia/india/jammuandkashmir/baramulla
-asia/india/gujarat/kutch/bhuj
-europe/france/east/lorraine/meuse
-asia/myanmar/mrauku

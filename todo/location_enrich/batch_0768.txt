@@ -1,5 +1,0 @@
-asia/china/tibet/nyingchi
-europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline
-northamerica/unitedstates/illinois/vandalia
-europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio
-asia/israel/ein_gedi

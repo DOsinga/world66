@@ -7,6 +7,7 @@ tags:
 latitude: 51.058734
 longitude: 13.739332
 snippet: "Baroque palace with exotic roofline housing ethnology collections"
+score: 6.4
 ---
 
 Not far from the Blockhaus along Grosse Meissner Strasse, the Japanese Palais is easy to spot thanks to its exotically curved roof. Originally the Dutch Palais of Count Fleming, it was built in 1715 to designs by Pöppelmann and later expanded into a four-wing palace in Late Baroque and Classicist style between 1727 and 1733, with contributions from architects Knöffel and Longuelune.

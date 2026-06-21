@@ -8,6 +8,7 @@ latitude: 51.6968
 longitude: -2.6772
 snippet: "A Cistercian abbey founded in 1131 and dissolved in 1536, its Gothic shell still standing nearly complete beside the River Wye."
 story: "Wordsworth visited in 1793 and again in 1798, the second visit producing 'Lines Written a Few Miles above Tintern Abbey' — one of the founding texts of English Romanticism. He was responding to something real: the abbey's setting, roofless and overgrown in the wooded gorge, was already drawing artists and poets who found in its ruin a convenient emblem of time and nature working together."
+score: 9.0
 ---
 
 Tintern Abbey lies about 8 km upstream from Chepstow, reached by road along the river or on foot via the Wye Valley Walk. Founded in 1131 by Walter de Clare as the first Cistercian house in Wales, it grew wealthy on wool, sheep farming, and iron-smelting. The Cistercians chose deliberately remote sites — the Wye gorge, then heavily forested and largely unpopulated, suited their requirement for separation from settled communities. The abbey was repeatedly rebuilt and enlarged over three centuries, and the church that stands today dates mainly from the late thirteenth century.

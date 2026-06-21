@@ -15,7 +15,7 @@ The Butterfly Garden and the Butterfly Farm are both situated next to each other
 
 **3. Trekking through the Jungles in Cameron Highlands**
 
-An adventurous expedition through the jungles of [Cameron Highlands](/asia/malaysia/cameronhighlands/nightlife) is one of the must dos for bold-hearted people, not for the squeamish. The highland has both easy and dangerous routes for trekking. If you venture upon the treacherous trekking route then you must be accompanied by an experienced guide. The most difficult trekking route is the one that leads you to the mountain Brinchang at 2032 meters of altitude. The trail starting from MARDI and going toward Gunung Beremban is another treacherous route fraught with risks as the roads are quite steep and you might also get lost in the trail. The most frequented trails are the ones leading to Robinson Waterfall and Parit Waterfall.
+An adventurous expedition through the jungles of Cameron Highlands is one of the must dos for bold-hearted people, not for the squeamish. The highland has both easy and dangerous routes for trekking. If you venture upon the treacherous trekking route then you must be accompanied by an experienced guide. The most difficult trekking route is the one that leads you to the mountain Brinchang at 2032 meters of altitude. The trail starting from MARDI and going toward Gunung Beremban is another treacherous route fraught with risks as the roads are quite steep and you might also get lost in the trail. The most frequented trails are the ones leading to Robinson Waterfall and Parit Waterfall.
 
 **4. Cactus Valley**
 

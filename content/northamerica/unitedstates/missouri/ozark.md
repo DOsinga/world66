@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-latitude: 36.646782
-longitude: -92.45752
+  location_enrich: '2026-05-12'
+image: ozark.jpg
+image_attribution: National Park Service Digital Image Archives
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Ozark_National_Scenic_Riverways_OZAR2080.jpg
+latitude: 37.1907
+loc_type: feature
+longitude: -91.2763
+score: 0.47
 title: Ozark National Scenic Riverways
 type: location
-score: 0.47
-loc_type: city
 ---
 
 The Ozark National Scenic Riverways protects 134 miles of the Current and Jacks Fork Rivers in the Ozark Highlands of southeastern Missouri. These are spring-fed rivers — clear, cold, and flowing through a landscape of limestone bluffs, broadleaf forest, and over 300 caves. It is some of the best canoeing and kayaking in the Midwest.

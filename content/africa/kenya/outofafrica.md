@@ -8,6 +8,7 @@ tags:
 - books
 title: Out of Africa
 type: poi
+score: 7.8
 ---
 
 Isak Dinesen's 1937 memoir of her years running a coffee farm in the Ngong Hills outside Nairobi remains the most famous book ever written about Kenya. It covers the period from 1914 to 1931 and is less about farming than about landscape, light, and the people she lived among — her Kikuyu workers, her lover Denys Finch Hatton, and the Somali and Maasai communities nearby.

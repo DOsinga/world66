@@ -1,13 +1,15 @@
 ---
 latitude: 40.576508
 longitude: -73.992942
+snippet: Iconic boardwalk, vintage amusements, and Nathan's hot dogs
 tags:
 - day_trips
 - beach
 - restaurant
+- brooklyn
 title: Coney Island
-snippet: "Iconic boardwalk, vintage amusements, and Nathan's hot dogs"
 type: poi
+score: 8.2
 ---
 
 Reachable by subway from Manhattan in under an hour, Coney Island is a New York institution. The boardwalk stretches along the beach past Luna Park, where the Cyclone roller coaster has been rattling riders since 1927, and the Wonder Wheel has offered views across the Atlantic since 1920. Nathan's Famous, at the corner of Surf and Stillwell, has been serving hot dogs here since 1916 and hosts the annual Fourth of July eating contest.

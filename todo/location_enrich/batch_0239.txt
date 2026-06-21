@@ -1,5 +1,0 @@
-asia/unitedarabemirates/liwa
-europe/iceland/akureyri
-europe/spain/andalucia/antequera
-europe/spain/la_mancha/guadalajara
-australiaandpacific/newzealand/north_island/hawkes_bay/napier

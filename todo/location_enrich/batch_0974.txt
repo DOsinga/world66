@@ -1,5 +1,0 @@
-northamerica/belize/belmopan
-europe/finland/pori
-northamerica/unitedstates/washington/leavenworth
-europe/spain/andalucia/cordoba
-northamerica/mexico/ciudad_obregn

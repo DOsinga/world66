@@ -7,6 +7,7 @@ tags:
 latitude: 43.3617
 longitude: -5.8437
 snippet: "Regional fine arts museum with strong Spanish and Asturian collections"
+score: 7.9
 ---
 
 Oviedo's fine arts museum occupies three connected buildings near the cathedral and holds one of the better regional art collections in Spain. The permanent collection runs from medieval Asturian work through El Greco, Zurbarán, and Goya to 20th-century Asturian painters like Evaristo Valle and Nicanor Piñole. There is also a solid selection of Italian and Flemish painting.

@@ -1,12 +1,17 @@
 ---
-title: Port Antonio
-type: location
-latitude: 18.175
-longitude: -76.4525
 done:
   location_cleanup: 2026-04-06
-score: 0.65
+  location_enrich: '2026-05-12'
+image: portantonio.jpg
+image_attribution: Chaoleonard
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Frenchman%27s_cove1.JPG
+latitude: 18.175
 loc_type: city
+longitude: -76.4525
+score: 0.65
+title: Port Antonio
+type: location
 ---
 
 Port Antonio is one of the most charming towns in Jamaica and the least like the resort towns of the north coast. It sits on the northeastern tip of the island, backed by steep forested hills that catch more rain than anywhere else in Jamaica — which keeps everything dramatically lush. The town has a pair of natural harbours, some fine Victorian and Edwardian architecture, and an unhurried atmosphere that attracts visitors who want to escape the all-inclusive circuit.

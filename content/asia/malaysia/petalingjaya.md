@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: petalingjaya.jpg
+image_attribution: Jcadraver
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_SS2_Petaling_Jaya_residential_area,_Selangor,_Malaysia_-_Apr_2022.jpg
 latitude: 3.1073
+loc_type: city
 longitude: 101.6067
+score: 0.44
 title: Petaling Jaya
 type: location
-score: 0.44
-loc_type: city
 ---
 
 Petaling Jaya — PJ to everyone who lives there — is a sprawling satellite city immediately west of Kuala Lumpur, connected to the capital by the LRT and the federal highway. What began as a planned housing estate in the 1950s has grown into a city of over 600,000 people with its own distinct identity: younger and more relaxed than KL, home to a thriving food scene, and packed with the kind of neighbourhood life that the capital's gleaming towers often lack.

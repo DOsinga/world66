@@ -7,6 +7,7 @@ tags:
 latitude: 8.8843
 longitude: -12.0402
 story: "The Diocese of Makeni was carved out of the Archdiocese of Freetown in 1962, and Italian Xaverian missionaries built and ran it for decades. During the civil war the cathedral compound became a refuge for hundreds of families fleeing the rebel advance from the east."
+score: 5.8
 ---
 
 The seat of the Roman Catholic Diocese of Makeni sits a short walk north of the central market, a plain white church with a slim bell tower visible above the rooftops. Sunday Mass is the main event, with parishioners spilling out into the courtyard, but on weekdays the church is usually open and quiet.

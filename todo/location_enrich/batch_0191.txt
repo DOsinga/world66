@@ -1,5 +1,0 @@
-africa/morocco/merzouga
-europe/spain/extremadura/caceres
-asia/iraq/sulaymaniyah
-northamerica/unitedstates/nevada/reno/fogliftercaffe
-southamerica/argentina/junindelosandes

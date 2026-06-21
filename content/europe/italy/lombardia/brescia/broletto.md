@@ -8,6 +8,7 @@ tags:
 latitude: 45.5393
 longitude: 10.2220
 snippet: "Medieval civic palace squeezed between the two cathedrals, used as city offices since the 12th century"
+score: 7.2
 ---
 
 The Broletto is Brescia's medieval town hall, a compact 12th-century civic palace squeezed between the two cathedrals on Piazza Paolo VI. The building is still used for civic functions today, which makes it genuinely unusual — most Italian broletti of this age have been converted to museums or left as monuments. The main courtyard is generally accessible during working hours.

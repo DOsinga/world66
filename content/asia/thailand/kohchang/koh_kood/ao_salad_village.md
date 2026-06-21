@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.7
 ---
 
 A working stilt village on the northeast coast, with wooden houses, fish-drying racks, and a small pier where day boats come and go. Most of the families here are descended from Vietnamese-Cambodian fishermen who arrived in the early 20th century — a quietly visible reminder that this side of Thailand is closer to Cambodia than to Bangkok.

@@ -10,6 +10,7 @@ tags:
 - park
 title: The Promenade
 type: poi
+score: 5.1
 ---
 
 A garden bar at the Marriott in Zamalek where you can sit outside and stay all evening without feeling rushed. The surrounding gardens are genuinely pleasant and the food is good enough to make it a meal stop as well.

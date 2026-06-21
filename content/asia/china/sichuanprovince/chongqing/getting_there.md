@@ -1,12 +1,8 @@
 ---
-title: Getting There
-type: poi
+title: "Getting There"
+type: section
 ---
 
-### Air
+Chongqing Jiangbei International Airport is a major hub with direct flights to most Chinese cities and international routes to cities across Asia, Europe, and the Middle East. The airport is connected to the city centre by metro Line 10 (around 40 minutes) and by taxi (around 45-60 minutes depending on traffic).
 
-There are flights to Hong Kong, Taiwan, and Nagora in Japan. Also there are daily flights to major cities across the country.
-
-There are also plenty of domestic flights into Chongqing. Jiangbei International Airport is linked to the city by expressway, and is 21km from the city center.
-
-type: By Air
+High-speed rail connects Chongqing to Chengdu (1.5 hours), Guiyang (2 hours), Wuhan (4 hours), and Xi'an (3.5 hours). Chongqing North station is the main high-speed rail hub; Chongqing station (Caiyuanba) handles some conventional services and is more central. Overnight sleeper trains still serve some destinations not yet reached by high-speed lines. For Yangtze River cruises, boats depart from the Chaotianmen and Joie de Vivre docks.

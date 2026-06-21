@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Les Trefles
 type: poi
+score: 4.9
 ---
 
 French food with views across the Nile. A good option for a special-occasion dinner in central Cairo.

@@ -13,6 +13,7 @@ tags:
 - mountain
 title: Mt. Hoverla
 type: poi
+score: 9.2
 ---
 
 Ukraine's highest peak at 2061 metres. The trailhead most commonly used from Vorokhta begins near the Prut River source and climbs steeply through forest before breaking into alpine meadow. The trail is well-worn but genuinely demanding — the final push to the summit involves scrambling over loose rock, and there is often snow at the top even in July. Start early, bring warm clothes regardless of the forecast, and do not attempt it in poor visibility without a guide.

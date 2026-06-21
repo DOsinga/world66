@@ -7,6 +7,7 @@ tags:
 - akihabara
 title: Yushima Seido
 type: poi
+score: 7.9
 ---
 
 One of the few Confucian temples in Japan, Yushima Seido was founded in 1690 as a centre for Confucian scholarship and later housed Japan's first modern school. The current black-lacquered main hall dates from 1935, rebuilt after the 1923 earthquake with impressive restraint. The peaceful courtyard makes for a calm stop amid the surrounding buzz of Electric Town.

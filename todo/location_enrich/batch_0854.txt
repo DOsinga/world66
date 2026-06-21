@@ -1,5 +1,0 @@
-europe/germany/rhinelandpalatinate/fhren
-europe/italy/tuscany/lunigiana/la_spezia
-asia/vietnam/hue/aroundhue/thuananbeach
-europe/unitedkingdom/scotland/inverness
-africa/zimbabwe/harare

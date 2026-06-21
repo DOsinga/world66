@@ -15,7 +15,7 @@ image_attribution: Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Luca
   title="User:Lucag">Lucag</a>)
 done:
   country_cleanup: 2026-03-29
-score: 0.49
+score: 0.88
 loc_type: country
 ---
 

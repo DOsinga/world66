@@ -1,5 +1,0 @@
-southamerica/peru/ayabaca
-europe/italy/sardinia/dorg
-asia/iran/bandareanzali
-northamerica/unitedstates/california/oakland
-northamerica/thecaribbean/cuba/matanzas

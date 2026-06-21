@@ -1,5 +1,0 @@
-europe/austria/hochpustertal
-northamerica/unitedstates/northcarolina/asheville
-asia/turkey/kusadasi
-australiaandpacific/australia/westernaustralia/mandurah
-asia/vietnam/haiphong

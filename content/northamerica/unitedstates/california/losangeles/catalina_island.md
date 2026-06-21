@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Catalina Island
 type: poi
+score: 8.3
 ---
 
 Catalina Island sits about 22 miles off the coast and feels a world away from Los Angeles. Most visitors arrive by ferry from Long Beach, San Pedro, or Newport Beach — the crossing takes about an hour. The main town, Avalon, is small and walkable, with a Mediterranean feel and the landmark Casino building (not actually a casino) overlooking the harbour.

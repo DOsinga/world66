@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Raptor Boat Safari
 type: poi
+score: 6.3
 ---
 
 A three-hour speedboat trip along the eastern coast of Cyprus, departing from the harbour at Golden Coast. The route heads north to the border with the occupied north, where you can see the ghost town of Famagusta from the water, then back south past the beaches of Protaras, Fig Tree Bay, and Konnos Bay.

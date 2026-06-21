@@ -13,6 +13,7 @@ tags:
 title: Tu Y Yo Mexican Fonda
 type: poi
 url: www.tuyyomexicanfonda.com
+score: 6.8
 ---
 
 One of the highest-ranked Mexican restaurants in the Boston area. Entrees like Chicken del Carmen and Drunken Sirloin share the menu with Salmon Criolla and Chile Relleno en Nogada. Beer, wine, and sangria available, plus a breakfast and brunch menu. Somerville is about a 10-minute drive from downtown Boston.

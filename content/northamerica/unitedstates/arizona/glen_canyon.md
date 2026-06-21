@@ -7,6 +7,7 @@ tags:
 - nature
 title: Glen Canyon National Recreation Area
 type: poi
+score: 7.9
 ---
 
 Lake Powell, formed by the Glen Canyon Dam, stretches across the Arizona-Utah border and draws houseboaters, kayakers, and slot canyon hikers. The nearby Antelope Canyon — a narrow, wave-like sandstone slot — is one of the most photographed places in the American Southwest, and for good reason.

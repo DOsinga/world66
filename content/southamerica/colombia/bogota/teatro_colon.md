@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Teatro Colon
 type: poi
+score: 8.8
 ---
 
 Bogotá's grandest theatre, built in 1895 and designed by Italian architect Pietro Cantini, sits in La Candelaria a block from the Plaza de Bolívar. The interior is all gilded tiers, painted ceiling murals, and crimson velvet — one of the finest 19th-century opera houses in Latin America. It hosts opera, ballet, classical concerts, and theatrical performances year-round.

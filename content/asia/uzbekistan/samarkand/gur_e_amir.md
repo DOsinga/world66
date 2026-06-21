@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Gur-e-Amir
 type: poi
+score: 9.4
 ---
 
 Timur's mausoleum, and one of the most beautiful buildings in Samarkand. The fluted azure dome rises above a relatively modest exterior, but the interior is extraordinary — walls covered in onyx and the crypt below holding the jade tombstone of Timur himself (the actual burial is in a vault beneath). The proportions and decoration influenced later Mughal architecture, including the Taj Mahal.

@@ -7,6 +7,7 @@ tags:
 title: Heidy Contreras
 type: poi
 url: www.elcurandero.com
+score: 3.8
 ---
 
 The best source for

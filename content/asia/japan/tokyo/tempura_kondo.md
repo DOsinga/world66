@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Tempura Kondo
 type: poi
+score: 7.3
 ---
 
 Fumio Kondo is widely regarded as the greatest tempura chef working today. His restaurant on the ninth floor of a Ginza building has been serving his distinctive style — lighter batter than traditional tempura, longer frying times, a particular focus on vegetables — for decades. The result is tempura that seems to transform each ingredient rather than merely coat it.

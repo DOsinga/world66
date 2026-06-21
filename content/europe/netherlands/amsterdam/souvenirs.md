@@ -4,9 +4,9 @@ longitude: 4.890357
 snippet: 'Cigars, diamonds, and Delftware: Amsterdam''s classic buys'
 tags:
 - shopping
-- canal_ring
 title: Souvenirs
 type: poi
+score: 2.8
 ---
 
 Amsterdam's most distinctive purchases are clustered around a few specific things. P.G.C. Hajenius on Rokin is the grandest cigar shop in the city — worth entering even if you don't smoke, for the Art Deco interior alone. The diamond workshops around the Rijksmuseum and Rembrandtplein offer free factory tours where you can watch cutting and polishing, no purchase required.

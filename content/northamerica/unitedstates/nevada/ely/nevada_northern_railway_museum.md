@@ -10,6 +10,7 @@ tags:
 - railroad
 title: Nevada Northern Railway Museum
 type: poi
+score: 9.0
 ---
 
 The Nevada Northern Railway Museum in East Ely is one of the best-preserved historic railroad complexes in the United States. Kennecott built the yard to service the copper mines, and when operations wound down in the late 1970s, the company donated the entire property — locomotives, rolling stock, shop buildings, and tools — to a non-profit foundation. Nothing was cleared out, nothing was scrapped. What you walk into is essentially a working railway yard from 1978 that just happens to be open to the public.

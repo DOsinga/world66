@@ -3,6 +3,6 @@ title: Getting There
 type: section
 ---
 
-Fly into Nice International Airport, roughly 16 miles from Cannes — about 30 minutes by car. Buses from the airport run every 40 minutes. Taxis from the airport to Cannes cost around €65–70 during the day and €67–82 at night. Pick up a cab at Gate A1 (Terminal 1) or Gate A3 (Terminal 2).
+Nice Côte d'Azur Airport is about 25 km from Cannes — roughly 30 minutes by car, longer in summer traffic. Bus service 210 (formerly Express 200) runs between the airport and Cannes bus station roughly every 30–40 minutes; the journey takes about 50 minutes and costs around €22. Taxis from the airport run €65–80 depending on time of day.
 
-The Cannes tourist office (Office de Tourisme) is at 1 bd. de la Croisette. Tel: +33 04 93 39 24 53.
+By train, Cannes is on the main coastal line: TGV services connect Paris to Cannes in about 5 hours, and local trains connect Nice (30 minutes), Antibes (15 minutes), and Marseille (2 hours). The station is a short walk from the Croisette.

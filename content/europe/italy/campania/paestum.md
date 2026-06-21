@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: paestum.jpg
+image_attribution: Norbert Nagel
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hera_temple_II_-_Paestum_-_Poseidonia_-_July_13th_2013_-_04.jpg
 latitude: 40.421678
+loc_type: city
 longitude: 15.014883
+score: 0.64
 title: Paestum
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Paestum is an ancient city in the southern Campania plain, about 85 km south of Naples. It was founded as a Greek colony around 600 BC (originally called Posidonia), flourished under Rome, and was then gradually abandoned as the surrounding plain became malarial. The result is that three remarkably complete Doric temples survive in open fields, with little around them to obscure the view.

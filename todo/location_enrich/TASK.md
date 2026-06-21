@@ -33,6 +33,8 @@
 
 8. **Fill gaps in existing sections.** If a well-known attraction is missing, add it. If `eating_out/` or `bars_and_cafes/` is thin, add notable places.
 
+8a. **Link POIs from the overview.** After creating POI pages, re-read the overview text and add markdown links wherever a POI name is mentioned. Example: `[Christ Church](/australiaandpacific/newzealand/northland_1/russell/christ_church)`. The overview is otherwise the only page with no path to individual POIs.
+
 9. **Add a hero image.** If the location file has no `image:` field, invoke the `find-photo` skill — it presents candidates, you pick one, and the skill writes the `image`, `image_source`, and `image_license` fields. Do not auto-pick without review.
 
 10. **Mark done** in frontmatter:

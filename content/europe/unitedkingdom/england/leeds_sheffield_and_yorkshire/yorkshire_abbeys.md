@@ -10,6 +10,7 @@ tags:
 - sight
 title: Yorkshire's Ruined Abbeys
 type: poi
+score: 9.3
 ---
 
 The dissolution of the monasteries under Henry VIII left Yorkshire with one of the finest concentrations of medieval abbey ruins in Europe. A week of touring them — driving between, walking around, lunching at the village pubs nearby — is one of the great Yorkshire holidays.

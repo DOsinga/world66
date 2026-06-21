@@ -9,6 +9,7 @@ tags:
 title: Mexx
 type: poi
 snippet: Dutch clothing chain at Potsdamer Platz with smart casual menswear
+score: 4.2
 ---
 
 A branch of the Dutch clothing chain on Alte Potsdamer Strasse, convenient to Potsdamer Platz. The range covers casual to smart-casual, with men's suits getting particular attention.

@@ -7,6 +7,7 @@ tags:
 title: The Historic Triangle
 type: poi
 url: www.museumstoomtram.nl
+score: 6.5
 ---
 
 The Historic Triangle is a popular day trip that links three old Zuiderzee towns -- Hoorn, Medemblik, and Enkhuizen -- by heritage steam train and vintage boat. The loop takes most of a day and is especially good for families.

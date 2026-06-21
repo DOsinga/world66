@@ -1,18 +1,17 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
-latitude: 33.303294
-longitude: 73.04961
+  link_coverage: '2026-06-07'
+latitude: 33.3018
+loc_type: city
+longitude: 73.0482
+sources:
+- https://en.wikipedia.org/wiki/Rajoa
 title: Rajoa
 type: location
-score: 0.22
-loc_type: city
 ---
 
-Travel Guide
+Rajoa is a small village in Dadyal tehsil, within Mirpur District of Azad Kashmir. It is not a conventional travel stop, and most visitors will only come with family connections, local business, or a specific interest in the villages that feed Mirpur's enormous overseas diaspora.
 
-Rajoa is a small village in Tehsil Dadyal of the Mirpur district of Azad Kashmir Like much of Mirpur , Rajoa has deep connections with the UK. Many people originally from Rajoa have settled in Birmingham and its surrounding areas. The link with the UK like the rest of Mirpur is immediately obvious on entering Rajoa, where one is greeted by palatial, hacienda-style residences, eerily empty, which have been built with finance from remitted pounds. In this regard, Rajoa is no different from the rest of Mirpur , where links with the UK have precipitated various property booms since the 1960s.
+The village sits in the same cultural world as Mirpur: Pahari-Pothwari speech, strong kinship networks, and deep ties to the United Kingdom, especially the West Midlands. Rajoa is also associated with the shrine of Baba Badar Shah, locally known as Chamba Darbar, which gives the village a point of pilgrimage as well as family memory.
 
-Village Rajoa is mainly habited by the Rajput clan . Rajoa has many beautifull houses. Many houses are also left empty or looked after by Pathans who have come from Afghanistan . People in Rajoa are of the same family. Rajoa people settled in the UK have kept close ties with the family members in Rajoa by marraige of their children. The poor are often sent many from the UK to help them with the Necessities of life.
-
-The Shrine of the Sufi Saint Baba Badar Shah is also located here.
+For travellers without local contacts, Rajoa is best understood as context rather than a standalone destination. Visit with someone from the area if you can, and combine it with Mirpur, Mangla Lake, or the road toward Dadyal.

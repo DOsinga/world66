@@ -12,6 +12,7 @@ tags:
 title: St. Petersburg Museum of History
 type: poi
 url: www.spmoh.com
+score: 6.3
 ---
 
 The city's main history museum, housed in a 1920s building on the waterfront. The collection covers St. Petersburg's development from a railroad terminus and winter resort in the 1880s through its 20th-century boom years. Exhibits include material on the city's African-American history, its brief period as the world's first commercial airline terminus (the 1914 St. Petersburg-Tampa Airboat Line flew from here), and the long relationship between the city and professional baseball.

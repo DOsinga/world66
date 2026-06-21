@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 26.52
+loc_type: region
 longitude: 128.053
 score: 0.74
 title: Ryukyu islands
 type: location
-loc_type: region
 ---
 
 The Ryukyu islands, also known as the South-West islands are located in the south-west of the archipelago.
@@ -28,4 +28,4 @@ Even further south are the Yaeyama islands, Ishigaki and Iriomote; both great pl
 [Miyako Island](/asia/japan/ryukyuislands/miyakoisland)
 [Tokashiki Island](/asia/japan/ryukyuislands/tokashikiisland)
 [Iriomote Island](/asia/japan/ryukyuislands/iriomoteisland)
-[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland/okinawa_island)
+[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland)

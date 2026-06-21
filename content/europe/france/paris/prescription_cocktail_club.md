@@ -10,6 +10,7 @@ tags:
 - saint_germain
 title: Prescription Cocktail Club
 type: poi
+score: 6.4
 ---
 
 The cocktail culture that transformed bars in London and New York arrived in Paris through Prescription Cocktail Club, opened in 2009 in a former antique shop. The bar — behind an unmarked door, speakeasy-style — serves precisely made classic cocktails with good-quality spirits and fresh ingredients. The 1920s American expat aesthetic is done without irony.

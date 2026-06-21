@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Casa Bar
 type: poi
+score: 4.7
 ---
 
 A bar in the Recoleta neighbourhood, set in a three-story house at the corner of Santa Fe and Rodriguez Peña. Opens at 7 PM, runs until 4 AM or later. Happy hour deals in the early evening, imported beers and Heineken on tap, live music nights, and screens showing international sports.

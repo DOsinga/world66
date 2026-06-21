@@ -1,5 +1,0 @@
-northamerica/saintvincentandthegrenadines/mayreau
-africa/ivorycoast/grandbassam
-asia/srilanka/kalutara
-northamerica/unitedstates/delaware/rehobothbeach
-southamerica/colombia/ipiales

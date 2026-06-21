@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 6.6919
 longitude: -1.6287
+score: 7.3
 ---
 
 Adum is the commercial core of Kumasi — the grid of streets immediately south of the Kejetia roundabout where the banks, the cloth shops, the phone dealers, and the printers are stacked together. It is where Kumasians come to shop, change money, and meet friends after work.

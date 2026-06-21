@@ -15,6 +15,7 @@ tags:
 title: Duomo — Cathedral of Santa Maria del Fiore
 type: poi
 url: www.museumflorence.com
+score: 9.8
 ---
 
 Brunelleschi's dome — completed in 1436 without scaffolding using a revolutionary herringbone brick technique — is Florence's defining landmark and one of the great architectural achievements of the Renaissance. The cathedral's striped green and white marble exterior is striking; the dome climb (463 steps, no lift) rewards with the finest panoramic view in the city.

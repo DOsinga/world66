@@ -1,5 +1,0 @@
-europe/germany/badenwrttemberg/heidelberg
-africa/mozambique/massingir
-africa/morocco/tafraoute
-africa/libya/ghadhames
-australiaandpacific/australia/victoria/portland

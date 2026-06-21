@@ -4,7 +4,7 @@ done:
 latitude: 55.9579
 longitude: -3.2085
 title: Stockbridge
-type: location
+type: neighbourhood
 score: 0.52
 loc_type: city
 ---

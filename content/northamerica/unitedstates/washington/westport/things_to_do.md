@@ -2,6 +2,7 @@
 title: Things to do in Westport
 type: poi
 url: charterwestport.com
+score: 4.8
 ---
 
 There are many things to do during a visit to Westport
@@ -9,7 +10,7 @@ There are many things to do during a visit to Westport
 **Contributors**
 August 30, 2005
 
-### [Charter Fishing](/northamerica/unitedstates/washington/westport/things_to_do/charter_fishing)
+### Charter Fishing
 
 For those who enjoy fishing, there isn't much better than having a 30lb salmon on the line. There are many charter companies in Westport who provide charter fishing services.
 

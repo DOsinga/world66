@@ -9,6 +9,7 @@ longitude: -88.7834
 snippet: 'Coffee processing plant where you can see highland beans graded, roasted and buy export-quality coffee'
 story: >
   Founded in 1985 by the Dunaway family, Beneficio Maya started when the founders personally visited mountain villages to buy directly from growers. The company helped put Honduran specialty coffee on the international map, and the beans processed here end up in roasteries across North America and Europe.
+score: 6.8
 ---
 
 Santa Rosa sits in the heart of Honduras's best coffee-growing region, and Beneficio Maya is the place to see what happens between the hillside and the cup. This processing plant in Barrio San Martin grades, sorts, and roasts beans from small farms across the western highlands.

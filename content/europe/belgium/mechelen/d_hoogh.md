@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-established refined Belgian-French restaurant near the Grote Markt
+score: 5.5
 ---
 
 A reliable upscale option a short walk from the cathedral, D'Hoogh has been one of the standard recommendations in Mechelen for decades. The cooking is classical Belgian-French — fish dishes, game in season, the local Mechelse chicken done several ways — served in a handsome dining room with proper service.

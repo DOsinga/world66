@@ -7,6 +7,7 @@ tags:
 - patong
 title: Mr. Chang's Rice & Noodles
 type: poi
+score: 4.3
 ---
 
 A no-frills spot on Patong Beach serving Thai, Chinese, and fusion rice bowls and noodle dishes at low prices. Popular with budget travellers looking for a quick, filling meal.

@@ -11,6 +11,7 @@ tags:
 title: Restaurant Harem
 type: poi
 url: www.durag-niwas.com
+score: 5.8
 ---
 
 A home-style restaurant inside the Durag Niwas Guest House where meals are cooked fresh in the family kitchen by the women of the household. Expect Rajasthani home cooking rather than restaurant fare. Meals take a while since everything is made to order, and they sometimes offer free cooking lessons. A genuine family experience rather than a polished dining room.

@@ -1,5 +1,0 @@
-asia/india/karnataka/ullal_beach
-northamerica/unitedstates/idaho/weiser
-africa/angola/benguela
-northamerica/unitedstates/arizona/page
-europe/ireland/glendalough

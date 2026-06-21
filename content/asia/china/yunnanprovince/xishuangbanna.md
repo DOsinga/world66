@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: xishuangbanna.jpg
+image_attribution: Jacek Karczmarczyk
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Temple,_Dai_Ethnic_Garden,_Xishuangbanna_Prefecture,_China.jpg
 latitude: 22.0099
+loc_type: city
 longitude: 100.8036
+score: 0.58
 title: Xishuangbanna
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Xishuangbanna is one of the most compelling corners of China — a subtropical region in the far south of Yunnan that feels less like China and more like Southeast Asia. The Dai people, who share culture and language with the Tai peoples of Thailand and Laos, have called this region home for centuries. They are joined by more than a dozen other ethnic minorities, making Xishuangbanna one of the most ethnically diverse parts of the country.

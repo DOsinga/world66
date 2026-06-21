@@ -6,6 +6,7 @@ tags:
 - sight
 title: Central Park of Culture and Rest
 type: poi
+score: 6.2
 ---
 
 The Central Park of Culture and Rest is Karagandy's main green space — a Soviet-era park built on the model that every self-respecting Soviet city was supposed to have: a place where workers could take their leisure in an organized and improving fashion. Today it functions more loosely, as a park for walking, sitting, and watching the city go about its business.

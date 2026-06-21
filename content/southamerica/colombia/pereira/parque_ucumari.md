@@ -7,6 +7,7 @@ tags:
 snippet: "Cloud forest reserve with exceptional birding near Pereira"
 latitude: 4.735
 longitude: -75.575
+score: 8.2
 ---
 
 About 30 km southeast of Pereira, this national sanctuary protects a stretch of Andean cloud forest along the Otún River valley. The 489-hectare reserve sits between 1,800 and 2,400 metres, right in the transition zone where coffee country gives way to high-altitude forest.

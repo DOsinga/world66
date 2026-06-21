@@ -10,9 +10,11 @@ phone: +49 30 44033662
 snippet: Handmade minimalist hats and caps for men and women
 tags:
 - shopping
+- prenzlauerberg
 title: Helena Ahonen Hatdesign
 type: poi
 url: www.helenaahonen.com
+score: 5.6
 ---
 
 One of a kind, handmade hats and caps for men and women, by Helena Ahonen. Her pieces are recognizable for exquisite quality and flair of small details added to minimalist designs.

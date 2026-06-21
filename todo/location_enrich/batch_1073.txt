@@ -1,5 +1,0 @@
-northamerica/unitedstates/wyoming/saratoga
-europe/unitedkingdom/scotland/jedburgh
-africa/tunisia/ghomrassen
-southamerica/frenchguiana/devilsisland
-europe/italy/marche/ancona

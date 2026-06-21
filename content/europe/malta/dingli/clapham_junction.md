@@ -10,6 +10,7 @@ tags:
 - sight
 title: Clapham Junction Cart Ruts
 type: poi
+score: 7.1
 ---
 
 One of Malta's stranger archaeological puzzles: a field of grooves carved deep into the limestone, converging and diverging like a diagram of a busy railway junction — hence the name. The ruts are thought to be more than 4,000 years old. You can walk among them freely. They sit a short distance from the cliff edge, making for an easy combined visit.

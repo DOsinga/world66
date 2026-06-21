@@ -1,5 +1,0 @@
-asia/pakistan/quetta
-northamerica/unitedstates/california/morgan_hill
-southamerica/brazil/portoalegre
-northamerica/unitedstates/california/carmel
-northamerica/unitedstates/florida/lee_county_florida

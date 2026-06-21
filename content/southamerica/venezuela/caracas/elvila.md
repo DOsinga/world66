@@ -7,6 +7,7 @@ tags:
 - landmark
 title: El Ávila
 type: poi
+score: 9.4
 ---
 
 The first thing you notice arriving in Caracas is El Ávila. This imposing mountain rises about 2,000 meters above sea level — roughly 1,000 meters above the city floor — and dominates the northern skyline. It is a national park, officially Parque Nacional Waraira Repano, and thousands of caraqueños hike its trails daily to exercise and escape the city heat.

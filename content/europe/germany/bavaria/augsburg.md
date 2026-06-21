@@ -5,13 +5,17 @@ description: One of Germany's oldest cities, founded by the Romans and shaped by
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-21'
+image: augsburg.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Augsburg_-_Markt.jpg
 latitude: 48.3691
+loc_type: city
 longitude: 10.8978
 score: 0.6
 title: Augsburg
 type: location
-loc_type: city
 ---
 
 Augsburg is one of Germany's oldest cities, founded by the Romans in 15 BC and named after Emperor Augustus. It rose to European prominence in the 15th and 16th centuries as the home of the Fugger and Welser banking dynasties, whose wealth financed emperors and shaped the Renaissance cityscape that still defines the centre today.

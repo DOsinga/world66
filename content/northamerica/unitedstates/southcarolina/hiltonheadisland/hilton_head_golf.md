@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Hilton Head Golf
 type: poi
+score: 8.5
 ---
 
 Hilton Head Island has over two dozen golf courses, many designed by the likes of Jack Nicklaus, Pete Dye, and Robert Trent Jones. The island consistently ranks among the best golf destinations in the United States, and it is easy to see why: courses wind through maritime forests of live oak and Spanish moss, along tidal marshes, and out to oceanfront holes with Atlantic views.

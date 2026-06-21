@@ -10,6 +10,7 @@ tags:
 - palace
 title: Mindoq Khar
 type: poi
+score: 6.8
 ---
 
 The ruins of the Flower Palace stand above Skardu town on a rocky outcrop, offering wide views across the Indus valley and the surrounding peaks. Built by the Maqpon dynasty rulers of Baltistan, the palace served as the seat of power for centuries. Maharaja Gulab Singh's Dogra forces destroyed it when they invaded Skardu in 1840. Enough of the stone walls and foundations survive to give a sense of the original scale, and the climb up is worth it for the panorama alone.

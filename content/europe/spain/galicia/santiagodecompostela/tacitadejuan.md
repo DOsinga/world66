@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Tacita de Juan
 type: poi
+score: 5.3
 ---
 
 Tapas bar on the Rúa do Franco, the main bar street in the old town. A reliable stop for a drink and something to eat before heading deeper into the night.

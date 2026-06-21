@@ -16,6 +16,7 @@ tags:
 - sight
 title: Cathédrale Saint-Just-et-Saint-Pasteur
 type: poi
+score: 8.7
 ---
 
 One of the tallest Gothic choirs in France, and one of the most unusual: the nave was never built. Construction began in 1272 but stalled in the 14th century when the city refused to demolish part of the Roman wall to extend the building. What remains is the choir alone — 41 metres high, soaring and complete in itself — attached to the Archbishop's Palace on one side and open air on the other. Climb the towers for views over the canal and the surrounding Languedoc plain.

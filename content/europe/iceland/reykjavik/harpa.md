@@ -17,6 +17,7 @@ tags:
 title: Harpa Concert Hall
 type: poi
 url: www.harpa.is
+score: 8.7
 ---
 
 A glass honeycomb on the harbour, designed by Henning Larsen with the artist Olafur Eliasson. The facade is built from hundreds of geometric glass cells that reflect the sea, the sky, and the city light, and the effect changes through the day. Construction was nearly abandoned after the 2008 financial crash; the government finished it anyway, which has turned out to be one of the better decisions of that decade.

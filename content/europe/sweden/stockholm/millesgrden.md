@@ -13,6 +13,7 @@ tags:
 title: Millesgården
 type: poi
 url: https://www.millesgarden.se
+score: 8.2
 ---
 
 Perched on a cliff on Lidingö island, Millesgården was the home and studio of sculptor Carl Milles and his wife, artist Olga Milles. The terraced sculpture garden is the highlight — dramatic bronze figures seem to leap and float against the backdrop of the Stockholm waterfront. Inside, galleries hold Milles' own work alongside his personal collection of medieval and Renaissance art.

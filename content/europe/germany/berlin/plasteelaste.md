@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Plaste + Elaste
 type: poi
+score: 6.1
 ---
 
 A Kreuzberg institution on Bergmannstrasse selling underground fashion — punk, gothic, latex, glam-rock, and everything in between. The shop stocks colourful patent leather, Doc Martens, Rangers, and accessories for anyone whose wardrobe leans toward the subversive. Prices are reasonable by Berlin standards. Nearest U-Bahn: Gneisenaustrasse.

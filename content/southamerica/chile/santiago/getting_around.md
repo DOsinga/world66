@@ -1,14 +1,10 @@
 ---
-title: "Getting Around in Santiago"
+title: Getting Around
 type: section
 ---
 
-Santiago's public transportation system, called Transantiago, is a large network of buses and subway lines meant to help you get wherever you need to go in the city. Locals often complain about it, because the buses and subway cars get pretty crowded, especially when people are going to or getting out of work. It can also be quite slow if you're trying to get somewhere in a hurry. Buses are usually late as well. However, all in all it's not a bad system compared to a lot of countries; you can get where you need to. Just go to Transantiago's website, type in your location and the location where you want to go, and it will tell you which buses and subways you can take.
+The Santiago Metro is fast, clean, and covers most of the city. Lines 1 through 7 connect the major neighbourhoods; Line 1 runs east–west through the centre from Cerrillos to Tobalaba and is the most useful for visitors. Trains run from about 6 a.m. to 11 p.m. (later on Fridays and Saturdays). You need a **Bip!** card (available from machines and kiosks at any station) to use both the metro and the city bus network (Red Movilidad). Load money onto the card and tap in and out. Single trips cost around 800 pesos in peak hours, cheaper off-peak.
 
-**Purchasing Transportation**
+Taxis are black with yellow roofs and are required by law to run the meter. Uber and Cabify both operate widely in Santiago and are often cheaper than taxis. Agree on a price or check the app before getting in if using a street cab.
 
-To pay, you can buy an individual ticket , but the easiest and cheapest way is to get a BIP card for $2 USD which you charge with a certain amout of money. When you want to get on the bus or subway, you just pass the card across a scanner and the money is subtracted automatically. One trip, which can consist of two bus rides and a subway ride, costs an average of $1, but the prices change throughout the day depending on whether or not it's rush hour.
-
-**Taxis**
-
-Apart from Transantiago, there are also plenty of taxis. Obviously they cost much more than public transportation, but if you're in a hurry, they are your best option. Waving them down is not difficult, just be sure to watch the timer in the front of the taxi to make sure the driver doesn't charge you more just for being a foreigner.
+The city is cyclable in the inner barrios, with a decent network of ciclovías (cycling lanes), particularly useful in Providencia, Ñuñoa, and Las Condes. Rental bikes are available through the Bikesantiago station network.

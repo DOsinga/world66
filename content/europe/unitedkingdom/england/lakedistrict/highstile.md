@@ -7,6 +7,7 @@ tags:
 - hiking
 title: High Stile
 type: poi
+score: 8.1
 ---
 
 High Stile (806m) is the highest point on the long ridge running along the south side of Buttermere. The views north over the lake and across to the Grasmoor fells are among the best in the western Lakes.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-06-04'
 latitude: -28.185749
 longitude: 153.271559
 title: Springbrook

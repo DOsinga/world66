@@ -10,6 +10,7 @@ tags:
 title: Main Street Grill
 type: poi
 url: https://www.neci.edu
+score: 6.2
 ---
 
 The flagship training restaurant of the New England Culinary Institute. Students cook ambitious American fare under professional supervision, which means you get restaurant-quality food at prices that reflect the training mission. Lunch and dinner service; reservations recommended during peak season.

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: wismar.jpg
+image_attribution: Carsten Steger
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Wismar_(view_from_the_south).jpg
 latitude: 53.891
+loc_type: city
 longitude: 11.4648
+score: 0.51
 title: Wismar
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Wismar is a Hanseatic port town on the Baltic coast of Mecklenburg-Western Pomerania, with one of the best-preserved medieval town centres in northern Germany. Founded in the thirteenth century, it grew wealthy through Baltic trade and was a Swedish possession from 1648 to 1803 — a history still visible in some of the street names.

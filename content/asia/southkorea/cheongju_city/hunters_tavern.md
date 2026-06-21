@@ -7,6 +7,7 @@ tags:
 - bar
 title: Hunter's Tavern
 type: poi
+score: 4.0
 ---
 
 A spacious bar in the downtown core with a pool table, big-screen TV, and a long bar with plenty of seating. The staff put on a cocktail show on weekend nights — order before it starts. Located near the Shinae YMCA, just up the street with a park between the two.

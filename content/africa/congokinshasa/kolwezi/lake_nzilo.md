@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Large reservoir on the Lualaba, an escape from the mining dust
+score: 7.1
 ---
 
 Lake Nzilo is the reservoir formed by the Nzilo Dam on the upper Lualaba River, completed in 1953 under Belgian colonial administration to power the Katanga copper belt. The lake stretches for some 25 km along the valley and is the most accessible piece of countryside near Kolwezi.

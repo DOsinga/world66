@@ -9,6 +9,7 @@ tags:
 - getting_around
 title: Funicular to Città Alta Upper Town
 type: poi
+score: 8.2
 ---
 
 The funicular whisks you from the lower city up to Città Alta in just a couple of minutes, emerging at Piazza Mercato delle Scarpe. It's the most enjoyable way to reach the upper town — the ride itself offers good views over the rooftops below.

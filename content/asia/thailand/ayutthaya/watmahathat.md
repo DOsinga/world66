@@ -7,6 +7,7 @@ tags:
 snippet: "Famous Buddha head entwined in banyan tree roots"
 title: Wat Mahathat
 type: poi
+score: 9.1
 ---
 
 Home to Ayutthaya's most photographed image: a sandstone Buddha head cradled in the roots of a banyan tree. Nobody knows exactly how it got there, though the tree likely grew around the fallen head over centuries after the Burmese destruction.

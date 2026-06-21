@@ -7,6 +7,7 @@ tags:
 - park
 title: Peyto Lake
 type: poi
+score: 8.8
 ---
 
 The highest point on the Icefields Parkway is Bow Summit, 2,088 metres above sea level. From the parking area, a short uphill trail leads to the Peyto Lake lookout, where the lake spreads out below in an almost improbable shade of turquoise — the colour comes from glacial rock flour suspended in the meltwater. The view is one of the most photographed in the Canadian Rockies.

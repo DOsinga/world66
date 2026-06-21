@@ -7,6 +7,7 @@ tags:
 - museum
 title: Casa de las Ciencias
 type: poi
+score: 6.5
 ---
 
 A science museum housed in a 19th-century mock-castle on the hillside of Santa Margarita park, with hands-on exhibits, a planetarium, and a working Foucault pendulum. It forms part of the Museos Científicos Coruñeses alongside the aquarium and natural history museum — a combined ticket covers all three.

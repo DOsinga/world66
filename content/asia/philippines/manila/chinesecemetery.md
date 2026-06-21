@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Chinese Cemetery
 type: poi
+score: 7.7
 ---
 
 One of the stranger sights in Manila: a cemetery where the Chinese-Filipino elite built family tombs the size of bungalows, complete with kitchens, air conditioning, and running water. Some are visited by the family each Sunday for lunch with the ancestors. Best reached by the jeepney from Divisoria.

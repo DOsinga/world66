@@ -1,5 +1,0 @@
-africa/niger/kawar
-northamerica/unitedstates/tennessee/gatlinburg
-asia/vietnam/hanoi
-europe/spain/balearicislands/formentera
-asia/jordan/wadirum/quweira

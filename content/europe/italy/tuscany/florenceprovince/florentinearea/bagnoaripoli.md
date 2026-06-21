@@ -1,12 +1,17 @@
 ---
-title: Bagno a Ripoli
-type: location
-latitude: 43.7522
-longitude: 11.32
 done:
   location_cleanup: 2026-04-07
-score: 0.52
+  location_enrich: '2026-05-12'
+image: bagnoaripoli.jpg
+image_attribution: Anna.Massini
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Antica_Via_Romana_(Bagno_a_Ripoli)_incrocio.jpg
+latitude: 43.7522
 loc_type: city
+longitude: 11.32
+score: 0.52
+title: Bagno a Ripoli
+type: location
 ---
 
 Bagno a Ripoli is a quiet municipality on the southeastern edge of [Florence](/europe/italy/tuscany/florence), spread across gentle hills covered in olive groves and vineyards. It sits along the right bank of the Arno, just five kilometres from the city centre, making it an easy escape from the crowds.

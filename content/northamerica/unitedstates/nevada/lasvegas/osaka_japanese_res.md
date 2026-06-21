@@ -9,6 +9,7 @@ tags:
 title: Osaka Japanese Restaurant
 type: poi
 url: www.activediner.com
+score: 5.4
 ---
 
 The first Japanese restaurant in Las Vegas since 1968.

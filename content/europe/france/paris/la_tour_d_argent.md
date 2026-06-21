@@ -15,6 +15,7 @@ tags:
 title: La Tour d'Argent
 type: poi
 url: www.tourdargent.com
+score: 7.6
 ---
 
 La Tour d'Argent is one of the oldest restaurants in Paris — it has operated on the Quai de la Tournelle since at least 1582 in some form — and remains one of its grandest. The rooftop dining room has views directly onto Notre-Dame and the Seine that are difficult to match anywhere in the city.

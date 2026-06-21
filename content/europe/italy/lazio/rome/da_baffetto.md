@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Da Baffetto
 type: poi
+score: 6.7
 ---
 
 A no-frills trattoria near Piazza Navona famous for its thin, delicious pizza with creative toppings -- try the one with courgette flowers. The place is basic, but the prices are low and the atmosphere is genuinely Roman. The walls are covered in photos of Italian celebrities who are regulars. Baffetto is the nickname of the moustachioed owner. Closed Mondays.

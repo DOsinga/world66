@@ -9,8 +9,10 @@ snippet: Frankfurt's Jewish history in the former Rothschild palace.
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Jewish Museum
 type: poi
+score: 7.6
 ---
 
 Frankfurt had one of the largest Jewish communities in Western Europe before World War II. The museum, housed in the former Rothschild palace, gives an impressive overview of that history. The annex at the Judengasse preserves remains of the old Jewish ghetto, and a nearby memorial commemorates the Jews murdered by the Nazi regime.

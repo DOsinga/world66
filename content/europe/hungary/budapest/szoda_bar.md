@@ -9,6 +9,7 @@ tags:
 title: Szoda Bar
 type: poi
 snippet: "Two-level bar in the Jewish Quarter, more local than the ruin bars"
+score: 6.0
 ---
 
 A two-level bar in the Jewish Quarter: drinks upstairs, dancing downstairs. The retro decor features vintage Hungarian furniture and communist-era memorabilia. It draws a young, largely local crowd and is a good alternative to the more tourist-heavy ruin bars nearby.

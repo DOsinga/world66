@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/south_east/tunbridge_wells
-asia/india/goa/anjuna
-australiaandpacific/australia/queensland/mooloolaba
-asia/pakistan/islamabad
-europe/france/normandybrittany/morbihan

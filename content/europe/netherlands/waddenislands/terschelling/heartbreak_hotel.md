@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Heartbreak Hotel
 type: poi
+score: 6.6
 ---
 
 An Elvis-themed beach club at the very eastern end of Terschelling, perched on the edge of the mudflats that stretch toward Ameland. The setting is as remote as it sounds — dunes, seabirds, and nothing beyond but tidal flat.

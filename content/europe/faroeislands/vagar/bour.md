@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
 latitude: 62.087978
+loc_type: city
 longitude: -7.371455
+score: 0.54
 title: Bour
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Bour is a tiny village on the western coast of [Vagar](/europe/faroeislands/vagar), one of the most photographed spots in the [Faroe Islands](/europe/faroeislands). The views from the village are extraordinary even by local standards — across the water you see the uninhabited island of Tindhólmur, its jagged peaks rising from the sea like a row of broken teeth, and beyond it the island of Mykines where Atlantic puffins nest in their thousands during summer.

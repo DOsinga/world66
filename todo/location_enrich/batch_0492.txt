@@ -1,5 +1,0 @@
-europe/portugal/mina_de_sao_domingos
-southamerica/brazil/niteroi
-northamerica/guatemala/lakeizabal
-northamerica/thecaribbean/puertorico/caborojo
-northamerica/unitedstates/northcarolina/smokymountains/banner_elknc

@@ -9,6 +9,7 @@ tags:
 - museum
 title: National Museum of Pakistan
 type: poi
+score: 8.4
 ---
 
 The country's main national museum, with collections covering the full span of Pakistan's history: Indus Valley civilisation artefacts, Gandharan sculpture, Islamic calligraphy, and historical documents including items related to the independence movement. Located on Dr Ziauddin Ahmed Road.

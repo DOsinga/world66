@@ -1,5 +1,0 @@
-asia/india/andhrapradesh/chirala
-europe/italy/abruzzo/pescara
-europe/germany/hessen/riedstadt
-europe/armenia/tzakhadzor
-africa/ethiopia/lalibela

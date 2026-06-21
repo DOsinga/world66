@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: 41.1537
 longitude: -81.3579
 title: Kent

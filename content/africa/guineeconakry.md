@@ -16,7 +16,7 @@ quick_facts:
   Language: French
   Bauxite Reserves: largest in the world
   Source of Niger River: Fouta Djallon highlands
-score: 0.22
+score: 0.37
 loc_type: country
 ---
 

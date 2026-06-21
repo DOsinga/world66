@@ -8,6 +8,7 @@ tags:
 - monument
 - sight
 snippet: Three reconstructed Corinthian columns marking the site of Noviodunum's Roman basilica
+score: 6.5
 ---
 
 Three tall Corinthian columns standing on a small grassy esplanade between the old town and the lakefront, the most visible Roman remains in Nyon. The columns were re-erected in 1958 from original 1st-century fragments excavated from the foundations of Colonia Iulia Equestris's basilica — the building whose remains are visible underground in the Roman Museum next door.

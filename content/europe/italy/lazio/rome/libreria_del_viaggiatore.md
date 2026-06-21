@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Libreria del Viaggiatore
 type: poi
+score: 6.2
 ---
 
 The Traveller's Bookshop on Via del Pellegrino, a few minutes from Campo de' Fiori, specialises in travel writing, maps, and guide books in Italian and several other languages. A small, well-organised shop with genuinely knowledgeable staff. If you are planning travel in Italy or further afield and prefer to browse physically rather than order online, this is the place.

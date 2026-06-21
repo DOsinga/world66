@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Gasthof Au
 type: poi
+score: 5.0
 ---
 
 A straightforward, unpretentious inn at the southern edge of town. The menu covers local staples — käsknöpfle (baked cheese noodles served with applesauce), pork schnitzel, sauerkraut stew — at reasonable prices. The terrace is pleasant when the weather is good. Austrasse 2.

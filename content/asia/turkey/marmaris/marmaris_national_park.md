@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 8.2
 ---
 
 A 33,000-hectare wedge of forested mountains, hidden coves, and small islands wrapping the Marmaris bay from the east round to the south — declared a national park in 1996 and the single largest piece of unspoiled landscape in this stretch of coast. The hills are covered in Calabrian pine, the gulleys hold sweet-gum forests, and the coastline drops sharply into clear water with dozens of small beaches reachable only by boat.

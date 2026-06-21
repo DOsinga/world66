@@ -8,6 +8,7 @@ tags:
 title: Norsk Folkemuseum
 type: poi
 zipcode: www.norskfolkemuseum.no
+score: 8.0
 ---
 
 This museum, like the Viking Ships, Kontiki, Fram and Maritime Museums is on the Bygdøy peninsula which can be reached by boat from near the Town Hall or by bus.

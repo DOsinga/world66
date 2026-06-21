@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: pattaya.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pattaya_Bay,_Pattaya_Beach,_Boats,_Thailand.jpg
 latitude: 12.9367
+loc_type: city
 longitude: 100.8865
 score: 0.62
 title: Pattaya
 type: location
-loc_type: city
 ---
 
 Pattaya is Thailand's original beach resort, 147km southeast of [Bangkok](/asia/thailand/bangkok) on the Gulf of Thailand. It has an enormous amount of infrastructure built up around tourism — sprawling beach road, shopping malls, seafood restaurants, bars — and a reputation it has been working hard to move past. The city is brash and busy, and it delivers what it promises: reliable beaches, good food at every price point, and easy transport to offshore islands and the surrounding Chonburi province.

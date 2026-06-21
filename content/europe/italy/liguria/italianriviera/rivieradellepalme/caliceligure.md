@@ -1,42 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 latitude: 44.204933
+loc_type: city
 longitude: 8.295351
+score: 0.45
 title: Calice Ligure
 type: location
-score: 0.45
-loc_type: city
 ---
 
-A commune in the hinterland of Finale, it is
- situated on a fertile plain and characterized by
- scattered settlements that extend up to a height
- of 958 meters or 3143 feet on the Clavarezza
- hill. Formerly a possession of the Del Carretto
- of Savona and then the marchesi di Finale, it
- was ruled by the Spanish from 1598 to 1713,
- when it was taken over by the republic of
- Genoa. The trenches from the Napoleonic era at
- Pian dei Corsi recall events from more recent
- history. There are a few traces of a bridge
- dating from Roman times. The parish church of
- San Nicolò, built in the eighteenth century over
- the remains of a thirteenth-century structure has
- a lively baroque façade with two orders,
- decorated with stuccoes and an enormous dome
- supported by lateral pillars. Alongside it stands
- the oratory of San Carlo Borromeo. The church
- of San Sebastiano (on the road to Finalborgo)
- dates from the fifteenth century and has a nave
- and two aisles, quadrangular apse and fine
- portal. The church of San Lorenzo (on the road
- to Gorra) also has a Renaissance portal. In the
- sixties the town became home to a number of
- artists who were drawn by the originality and
- skill of the Genoese painter born in Calice,
- Emilio Scanavino. The agricultural landscape is
- characterized by orchards of peaches and
- oranges and by vineyards and olive groves. The
- influx of summer visitors, favored by the
- presence of wooded areas, is on the increase.
+Calice Ligure is a small hill village in the Ligurian hinterland behind Finale Ligure, set in a valley of peach orchards, olive groves, and vineyards at the foot of the Clavarezza hill. It is the kind of place that rewards a slow detour from the coast: no famous sights, but good rural Ligurian landscape and a tidy medieval core.
+
+The village has had an eventful history for its size. A possession of the Del Carretto lords and later the marchesi di Finale, it fell under Spanish rule from 1598 to 1713 before passing to the Republic of Genoa. Napoleonic-era earthworks survive at Pian dei Corsi, and there are traces of a Roman bridge on the outskirts. The eighteenth-century parish church of San Nicolò rises over the remains of a thirteenth-century predecessor, with a baroque façade and an oversized dome that dominates the village skyline. The churches of San Sebastiano and San Lorenzo, both on the roads leading out of the village, have Renaissance portals that are quiet architectural pleasures.
+
+Calice earned a small artistic reputation in the 1960s when artists were drawn here by the legacy of Emilio Scanavino, a noted Genoese painter born in the village. It is still a peaceful retreat, busier with summer walkers and cyclists than with art pilgrims.

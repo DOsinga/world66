@@ -8,6 +8,7 @@ tags:
 - sight
 title: Painted Ladies
 type: poi
+score: 7.8
 ---
 
 The Painted Ladies are a row of Victorian houses on Steiner Street, famous for the contrast between their colorful facades and the modern downtown skyline behind them. Viewed from Alamo Square park across the street, this is one of the most photographed scenes in San Francisco.

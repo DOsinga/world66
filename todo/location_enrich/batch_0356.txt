@@ -1,5 +1,0 @@
-northamerica/unitedstates/tennessee/memphis
-africa/libya/alqatrun
-northamerica/unitedstates/oregon/seaside
-asia/pakistan/kohat
-africa/ghana/tamale

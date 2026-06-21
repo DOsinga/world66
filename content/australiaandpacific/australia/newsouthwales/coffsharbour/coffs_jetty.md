@@ -5,6 +5,7 @@ latitude: -30.3083
 longitude: 153.1450
 snippet: Historic timber jetty and working fishing harbour
 tags: [things_to_do, sight]
+score: 7.2
 ---
 
 The old **Coffs Jetty** is a 530-metre timber pier on the southern side of the harbour, built in 1892 to ship cedar and bananas out to coastal steamers before the highway and the railway took the trade. It is closed to traffic now but open to walkers — a flat, popular sunset stroll over the water, with anglers along the rails and pelicans on the bollards.

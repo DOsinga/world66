@@ -1,5 +1,0 @@
-europe/armenia/ararat_marz
-europe/netherlands/deventer
-australiaandpacific/australia/australiancapitalterritory/canberra
-asia/turkey/erzincan
-asia/afghanistan/mazarisharif

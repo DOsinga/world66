@@ -7,6 +7,7 @@ tags:
 snippet: Rüdesheim wine cellar with live music on the Drosselgasse
 title: Winzerkeller
 type: poi
+score: 5.7
 ---
 
 A big, lively wine cellar on the Oberstrasse in Rüdesheim, seating around 160 guests. Winzerkeller leans into the Rhine Valley wine-hall tradition — local Rieslings and other regional wines by the glass or bottle, hearty German food, and live music and dancing most evenings. It's unashamedly touristy (this is Rüdesheim, after all), but the atmosphere is good-natured and the wines are the real thing. Groups can book private rooms for up to 140 people.

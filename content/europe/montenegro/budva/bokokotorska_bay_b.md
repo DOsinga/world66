@@ -7,6 +7,7 @@ tags:
 - boat_tour
 title: Bokokotorska Bay by Boat
 type: poi
+score: 6.9
 ---
 
 A full-day boat excursion through the Bay of Kotor, and one of the best day trips from Budva. The tour typically starts with a bus ride to Tivat, then continues by boat to [Herceg Novi](/europe/montenegro/hercegnovi). The views along the bay are spectacular throughout.

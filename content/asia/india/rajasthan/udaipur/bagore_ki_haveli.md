@@ -10,6 +10,7 @@ tags:
 title: Bagore ki Haveli
 type: poi
 snippet: "Lakeside haveli museum with nightly Rajasthani folk dance"
+score: 8.2
 ---
 
 An 18th-century waterfront haveli built by a prime minister of Mewar, now a museum showing how Rajasthani nobility lived. Over a hundred rooms display costumes, paintings, musical instruments, and puppets. The building itself is the main attraction — carved balconies, coloured glass windows, and a courtyard facing Gangaur Ghat.

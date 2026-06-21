@@ -1,5 +1,0 @@
-europe/netherlands/hellevoetsluis
-europe/spain/catalonia/barcelona
-northamerica/unitedstates/minnesota/virginia
-asia/japan/ryukyuislands/yonaguniisland
-northamerica/unitedstates/georgia/norcross

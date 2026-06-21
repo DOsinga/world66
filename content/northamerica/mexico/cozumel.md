@@ -1,19 +1,23 @@
 ---
-title: Cozumel
-type: location
-latitude: 20.43206
-longitude: -86.920691
 done:
   location_cleanup: 2026-04-05
-score: 0.72
+  location_enrich: '2026-05-15'
+image: cozumel.jpg
+image_attribution: Sharon Hahn Darlin
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cozumel,_Quintana_Roo,_Mexico_-VW_y_la_Playa.jpg
+latitude: 20.43206
 loc_type: city
+longitude: -86.920691
+score: 0.72
+title: Cozumel
+type: location
 ---
 
-Cozumel is a small island just of the coast of
-[Yucatan](/northamerica/mexico/yucatan). It is an ideal place to go scuba diving. It has some of the best underwater scenery in the world.
+Cozumel is a small island off the coast of [Yucatán](/northamerica/mexico/yucatan), 19 kilometres across the channel from Playa del Carmen. It is one of Mexico's premier dive destinations, with the western shore fringed by the Mesoamerican Barrier Reef — the second-largest reef system in the world — and water clarity that often exceeds 30 metres.
 
-According to the Mayan legend, Cozumel was the home of the godess Ixchel, devoted to love and fertility. Religious temples were dedicated with honor to the godess and in return she sent her favorite bird as a sign of gratitude and good fortune. For this reason, the Mayans named the island "The Land of the Swallows". Today, Cozumel is renowned for having the second largest reef in the world. It offers the most spectacular diving and snorkeling in México. With this in mind, hundreds of cruise ships sail to this island paradise for a fun filled day of sun, nature beauty and endless explorations thoughout this island.
+The Maya called the island Cuzamil, "the place of the swallows", and it was an important pilgrimage site dedicated to Ixchel, goddess of fertility, the moon, and childbirth. Women crossed from the mainland in dugout canoes to leave offerings at her shrines; the most important survives today as the [San Gervasio](/northamerica/mexico/cozumel/san_gervasio) ruins in the centre of the island.
 
-Cozumel caters for tourists rather than travelers. There are many activities organized by the hotel complexes, that are best booked directly form the US / Europe.
+The reality of modern Cozumel is split. The west coast around [San Miguel](/northamerica/mexico/cozumel/san_miguel) — the island's only town — caters squarely for the cruise crowds, with souvenir streets, chain restaurants, and three big piers receiving up to seven ships a day. Move beyond the town and the island opens up: empty beaches on the wild east coast, a national marine park at [Chankanaab](/northamerica/mexico/cozumel/chankanaab_park), and reefs at [Palancar](/northamerica/mexico/cozumel/palancar_reef) and [Columbia](/northamerica/mexico/cozumel/columbia_reef) where the wall drops into deep blue. Rent a car or a scooter for a day and you will see a different island entirely.
 
-Should you find yourself on one of those cruises you can visit Chankanaab National Marine Park via a short taxi ride from town(~$20). For you entrance fee ($15) you can snorkel from the beach with your own gear and relax in the sun. The park has a large number of people but it is much more fun than getting packed on a small boat or bus for a day of snorkeling. If you are on an extended dive vacation, you may want to spend a surface interval day at one of the many other cheaper beaches south of town or head over to the east side of the island. Chankanaab is definitely for the day tourist, with all the expensive amenities. Taxi drivers will charge you big time to get to the park, but you can negotiate a lower fare if you like to do that sort of thing.
+Most of the interior is protected jungle and lagoons, home to a small endemic raccoon, abundant birdlife, and several inland cenotes. The east coast — exposed to the open Caribbean — has no developed resorts: a single road runs the length of it past stretches of empty sand, rough surf, and a handful of beach bars.

@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Bierstube
 type: poi
+score: 4.8
 ---
 
 German-style beer bar a short walk south of the Old Town — sausages, schnitzels and a solid list of lagers.

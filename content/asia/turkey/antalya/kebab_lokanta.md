@@ -8,6 +8,7 @@ tags:
   - turkish
 latitude: 36.89100
 longitude: 30.70400
+score: 6.4
 ---
 
 The streets around Atatürk Caddesi in Muratpaşa have the best concentration of traditional lokantas in the city — small, unpretentious restaurants serving set-menu Turkish food at midday: lentil soup, various stews (güveç), bulgur pilav, roasted vegetables, and a dessert. You point at what you want from the trays in the bain-marie, pay a fixed price per dish, and eat well for a few euros.

@@ -1,58 +1,16 @@
 ---
-title: "Books"
+title: Books
 type: section
 ---
 
-There are a lot of books about the Cambridge - historical and otherwise. This selection includes some of the better guide books and history books, and covers the social side of Cambridge too.
+Cambridge has produced more writers than most cities can claim, and a disproportionate number of them have written about the place. These are books that illuminate what it actually feels like to be here.
 
-Cambridge has it's own publishing house - the Cambridge University Press, which has a retail store in the downtown area (high street area). The Fitzwilliam Museum also produces several handbooks on topics covering many of the unique and interesting collections it contains.
+**The Old Vicarage, Grantchester** by Rupert Brooke. A poem rather than a book, but essential. Brooke wrote it in 1912 from a café in Berlin, consumed by nostalgia for the Grantchester of his student years — the village two miles upriver from Cambridge where he had lived and where Virginia Woolf once swam naked with him in the river at midnight. The poem is sentimental and magnificent.
 
-**all**
+**Porterhouse Blue** by Tom Sharpe. A savage satire of Cambridge college life — the donnish pomposity, the rituals of exclusion, the clash between tradition and the 1970s — told through the story of a fictional college that prizes port over scholarship. Still accurate in certain respects.
 
-**College Cats**
+**The Curious Incident of the Dog in the Night-Time** by Mark Haddon. Not set in Cambridge, but Haddon is a Cambridge graduate and the book's rigorous, mathematical quality of mind is recognizably a product of that world. Worth reading before or after a visit to the Wren Library.
 
+**A Beautiful Mind** (biography) by Sylvia Nasar. Covers John Nash's time at Cambridge as well as Princeton and MIT. Useful context for anyone thinking about the intersection of mathematics and mental life that Cambridge exemplifies.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0006278698/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Surman
-
-isbn: 0006278698
-
-subject: Black and white photos of the College Cats
-
-**Insight Compact Guides Cambridge and East Anglia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887294251/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Guides
-
-isbn: 0887294251
-
-subject: A Guidebook for Cambridge and the surrounding area
-
-**Central Cambridge: University & College Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521459133/ref=ase_osingacom?v=glance&s=books)
-
-author: Kevin Taylor, H R. H. Prince Philip
-
-isbn: 0521459133
-
-subject: History, maps, photos of the University & Colleges
-
-**Cambridge Architecture : A Concise Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521458552/ref=ase_osingacom?v=glance&s=books)
-
-author: Nicholas Ray
-
-isbn: 0521458552
-
-subject: Architectural history of Cambridge for beginners.
+**The Making of the Atomic Bomb** by Richard Rhodes. Rutherford split the atom at the Cavendish Laboratory in Cambridge; this book, the definitive account of the bomb's development, gives full context to what that discovery led to. Reading it while standing in the courtyard of the old Cavendish is a particular experience.

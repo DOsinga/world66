@@ -12,6 +12,7 @@ tags:
 neighbourhood: North Beach
 title: Telegraph Hill
 type: poi
+score: 8.8
 ---
 
 Telegraph Hill is one of the most rewarding walks in the city. The Filbert and Greenwich Steps wind up the eastern face of the hill through lush, almost tropical gardens, with glimpses of the Bay and the city between the trees. Wild parrots -- a flock of red-masked parakeets made famous by the documentary The Wild Parrots of Telegraph Hill -- chatter in the treetops.

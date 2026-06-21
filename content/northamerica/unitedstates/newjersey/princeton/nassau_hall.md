@@ -11,6 +11,7 @@ latitude: 40.34874
 longitude: -74.65935
 story: >
   In January 1777 Washington's troops chased the British into Nassau Hall during the closing minutes of the Battle of Princeton. According to tradition, Captain Alexander Hamilton — the same Hamilton — set up a cannon on the lawn and fired through the front windows, knocking the head off a portrait of George II that hung inside. Six years later the Continental Congress moved into the same building when British troops threatened Philadelphia, making Nassau Hall the de facto United States Capitol from June to November 1783. It is where Congress received word that Britain had recognised American independence.
+score: 8.6
 ---
 
 Nassau Hall is the oldest and most iconic building at Princeton, a long honey-coloured stone block built in 1756 and named for King William III of the House of Nassau. When it was finished, it was the largest academic building in the American colonies. The two bronze tigers crouched at the entrance arrived in 1911; the ivy on the walls is older.

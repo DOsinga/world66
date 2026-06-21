@@ -1,5 +1,0 @@
-northamerica/nicaragua/isla_ometepe
-europe/sweden/bors
-northamerica/thecaribbean/cuba/cayolargo
-northamerica/britishvirginislands/tortola
-europe/france/normandybrittany/etretat

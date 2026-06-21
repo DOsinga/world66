@@ -12,6 +12,7 @@ tags:
 - nightlife
 title: Simbiosis
 type: poi
+score: 5.7
 ---
 
 Simbiosis is a small venue on Carrer de la Riereta in the Raval neighbourhood, hosting a mix of live concerts and DJ nights. The space has an underground feel — bare walls, dim lighting, the kind of place where the music is the whole point. The programming leans toward alternative, electronic, and indie acts, with a local crowd that takes its nights seriously.

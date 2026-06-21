@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: UNESCO-listed Beguine quarter — a small walkable enclave of 17th-century almshouses
+score: 8.4
 ---
 
 Mechelen's Great Beguinage is a UNESCO World Heritage Site (alongside the other Flemish beguinages) and unlike many of the others, it is woven directly into the city centre rather than walled off as a separate quartier. The streets — Nonnenstraat, Schrijnstraat, Twaalf Apostelenstraat — are a quiet network of 17th-century brick houses, courtyards, and the Begijnhofkerk, a serious baroque church well worth a look inside.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/goldcountry/grassvalley
-northamerica/unitedstates/oklahoma/pawhuska
-europe/spain/basque_country_euskadi/bilbao
-asia/qatar/alwakrah
-asia/india/kerala/varkala

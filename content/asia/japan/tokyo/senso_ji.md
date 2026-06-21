@@ -14,9 +14,11 @@ story: >
   lantern is one of the most photographed objects in Japan.
 tags:
 - things_to_do
+- asakusa
 - sight
 title: Senso-ji Temple
 type: poi
+score: 9.3
 ---
 
 Senso-ji is Tokyo's oldest and most visited temple — a working religious site that receives 30 million visitors a year without losing its atmospheric quality. The approach through the Kaminarimon Gate and along the Nakamise shopping street, lined with stalls selling traditional crafts, sembei, and kimonos, is one of the great urban walks in Asia.

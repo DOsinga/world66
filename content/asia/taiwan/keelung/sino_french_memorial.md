@@ -5,6 +5,7 @@ latitude: 25.138
 longitude: 121.756
 snippet: "Hilltop military cemetery and memorial from the 1884 French attack on Keelung"
 tags: [things_to_do, history]
+score: 7.0
 ---
 
 The Sino-French War Memorial Park occupies a hillside above the harbour and contains the graves of French soldiers who died during the 1884–85 conflict, when French forces attacked Keelung as part of a broader campaign to pressure Qing China over Indochina. The French captured the port briefly but were ultimately unable to hold Taiwan. The cemetery is one of the few remnants of that episode, and its presence in a Taiwanese city is genuinely unexpected.

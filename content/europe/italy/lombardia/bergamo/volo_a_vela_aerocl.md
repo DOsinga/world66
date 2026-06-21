@@ -9,6 +9,7 @@ tags:
 title: Volo a Vela Aeroclub
 type: poi
 url: www.ava-valbrembo.it
+score: 4.6
 ---
 
 A gliding aeroclub in Valbrembo, just north of Bergamo, offering introductory flights and courses for both Italian and international glider pilot licences. The club operates from a small grass airfield with views toward the Orobie Alps -- on a clear day, the panorama from a glider is spectacular.

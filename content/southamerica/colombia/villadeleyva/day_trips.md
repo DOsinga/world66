@@ -1,14 +1,12 @@
 ---
-title: "Day Trips in Villa de Leyva"
+title: "Day Trips"
 type: section
 ---
 
-Planning **Villa de Leyva day trips** isn't very difficult. Most of the tourist sites are located within a short distance of each other, and the weather is pleasant enough to sustain an entire day of exploration. Visitors planning Villa de Leyva Day Trips** **should find the following information very useful.
+The countryside around Villa de Leyva packs an extraordinary density of things to see into a small area. Most of the major sites — [El Fósil](/southamerica/colombia/villadeleyva/el_fosil), [El Infiernito](/southamerica/colombia/villadeleyva/el_infiernito), and the [Convent of El Santo Ecce Homo](/southamerica/colombia/villadeleyva/convento_ecce_homo) — lie within 15 kilometres of town and are reachable by bicycle, taxi, or on foot. The [Santuario de Flora y Fauna Iguaque](/southamerica/colombia/villadeleyva/santuario_iguaque) is worth a full day on its own.
 
-**Santuario de Iguaque**
+**Ráquira** is the most rewarding village excursion from Villa de Leyva — about 45 minutes by bus through dry canyon scenery. Ráquira has been a pottery centre for centuries; its streets are painted in brilliant terracotta, orange, and yellow, and the Sunday market is the finest craft market in the region. You can watch artisans throwing pots in several workshops along the main street. The bus from Villa de Leyva runs several times a day; check departure times at the town bus stop.
 
-Located along the southern boundary of Villa de Leyva, this is among the most popular of natural parks in Colombia. Though the Santuario is a bit smaller than some of the other national parks, it presents a more scenic landscape, complete with an exotic view of the surrounding mountains. This natural sanctuary boasts of many bizarrely-shaped lagunas, some at an altitude of more than 3500 meters. Visitors should be ready to walk-a-bit to reach Santuario. The local buses drop visitors about 3 km from the main entrance. This path can be accessed only on-foot. The park has a wide range of flora and fauna owing to the merging of wetland forests and tropical highlands. Those who are inclined towards adventure sports can either camp or climb along the hiking-trails.
+**Tunja**, the departmental capital, is 40 kilometres away and makes a half-day trip for anyone interested in Spanish colonial architecture. It has several churches with extraordinary gold-leaf interiors, a good archaeology museum, and the slightly faded air of a town that was once one of the most important cities in New Granada. Less visited than Villa de Leyva, but architecturally significant.
 
-**Walking Tours**
-
-To explore the natural splendor that encompasses Villa de Leyva, visitors are advised to ditch the cab-rides and favor walking. Further, the state government has now arranged for many kinds of walking tours. Some of these tours are also arranged by the private tour operators. The trail includes walking along the El Fosil (the local museum), El Infiernito (pre-historic ruins) and Monasterio de Santo Ecce Homo (Royal Monastery). A bit further, the wetland landscape gives way to some violent waterfalls. People interested in greener lifestyles or sciences can also explore the organic agricultural practices used in the private farms.
+**Chiquinquirá**, about an hour by bus, is the religious capital of Colombia — home to the Basilica of Our Lady of Chiquinquirá, a major pilgrimage site, and the most important Catholic shrine in the country. The town itself is unremarkable, but the basilica and the devotion it attracts are genuinely moving regardless of your religious position.

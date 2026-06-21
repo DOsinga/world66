@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: saranac_lake.jpg
+image_attribution: Mwanner at en.wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Knollwood_Club_on_Lower_Saranac_Lake.jpg
 latitude: 44.329661
+loc_type: city
 longitude: -74.13112
+score: 0.49
 title: Saranac Lake
 type: location
-score: 0.49
-loc_type: city
 ---
 
 Saranac Lake is a village in the heart of the Adirondack Mountains, surrounded by pristine lakes, evergreen forest, and modest peaks that reward hikers with wide views. It has a year-round mountain-town character that many Adirondack communities lose once the leaves fall.

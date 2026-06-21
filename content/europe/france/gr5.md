@@ -7,6 +7,7 @@ tags:
 - hiking
 title: GR 5
 type: poi
+score: 8.8
 ---
 
 The Grande Randonnee 5 is one of Europe's great long-distance walking trails, running roughly 2,500 km from the North Sea coast near Hoek van Holland through Belgium, Luxembourg, and the length of eastern France to Nice on the Mediterranean. Most hikers tackle it in sections rather than end-to-end, and the French portions are the real draw.

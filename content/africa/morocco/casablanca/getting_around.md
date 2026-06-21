@@ -3,8 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-They will be building a subway in Casa after 2000 and this not such a bad idea. Casa is such a big town that you spend a lot of time in a taxi going to one end form the other.
+Casablanca is a large city spread across a wide area, and getting around requires some planning.
 
-There are also regular buses, but it's not always easy to find out where and when they leave.
+**By tram:** The Casa Tramway (T1 and T2 lines) runs across the city from east to west, connecting the main districts and making cross-city travel significantly faster than the alternatives. The tram is clean, frequent, and cheap — the most useful option for longer journeys across town.
 
- Within town you might also consider taking the normal train, since there are four different train stations in Casa.
+**By taxi:** Petit taxis (red) are metered and cover journeys within the city; always insist the driver use the meter or agree on a price before getting in. Grand taxis cover longer routes and operate as shared taxis on fixed routes from specific stands. Ride-hailing apps (Careem) also operate in Casablanca.
+
+**By bus:** The CTM and local bus network covers most of the city, but routes and timetables are not always easy to navigate for short-term visitors. The tram is generally easier.
+
+**On foot:** The central district around Boulevard Mohammed V, Place Mohammed V, the Central Market, and the Old Medina is walkable. Ain Diab is about 5km from downtown along the Corniche — a reasonable taxi or tram ride.

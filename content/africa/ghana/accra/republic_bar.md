@@ -8,6 +8,7 @@ tags:
 - bar
 title: Republic Bar and Grill
 type: poi
+score: 6.2
 ---
 
 The default first stop for newcomers to Osu and the most reliably good time in the city. House cocktails built around local spirits — try the kokroko, made with akpeteshie palm gin and bitters — small plates of jollof and grilled tilapia, and a crowd that spills onto the street. Live music most weekends.

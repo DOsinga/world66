@@ -9,6 +9,7 @@ tags:
 - bar
 title: Chez Moi
 type: poi
+score: 4.5
 ---
 
 A musical parlour in the Chiaia neighbourhood — small, intimate, good for an aperitivo.

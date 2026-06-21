@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: urumqi.jpg
+image_attribution: Y Chen
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:A_glance_at_Urumqi_from_Hongshan_Park.jpg
 latitude: 43.8244
+loc_type: city
 longitude: 87.6139
+score: 0.45
 title: Ürümqi
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Ürümqi is the capital of Xinjiang, China's vast northwestern autonomous region. It is the most inland major city in the world — further from the sea than any other city of its size. The population is a mix of Han Chinese, Uyghur, Kazakh, and other Central Asian peoples, and this cultural crossroads gives the city a character quite different from eastern China.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: South Australian Museum
 type: poi
+score: 8.5
 ---
 
 Sitting on North Terrace between the Art Gallery and the State Library. The Aboriginal Cultures gallery is the standout — one of the largest Indigenous collections in the world. Free entry, easy couple of hours, great for rainy days.

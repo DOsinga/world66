@@ -15,7 +15,7 @@ quick_facts:
   Language: "Portuguese (Creole spoken)"
   Bijagos Islands: "88 islands"
   Top Export: Cashew nuts (90% of exports)
-score: 0.24
+score: 0.33
 loc_type: country
 ---
 

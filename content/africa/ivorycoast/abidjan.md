@@ -12,6 +12,8 @@ latitude: 5.3204
 loc_type: city
 longitude: -4.0161
 score: 0.34
+snippet: Côte d'Ivoire's economic capital, spread around Ébrié Lagoon with modernist
+  landmarks and dense markets.
 title: Abidjan
 type: location
 ---

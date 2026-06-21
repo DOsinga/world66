@@ -10,6 +10,8 @@ latitude: -21.443772
 loc_type: city
 longitude: -65.720837
 score: 0.44
+snippet: Southern Bolivian town set among red-rock canyons, eroded pinnacles, and
+  dry river valleys.
 title: Tupiza
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 51.109
 loc_type: city
 longitude: 17.0327
 score: 0.56
+snippet: Lower Silesian city of Odra islands, bridges, Gothic churches, and a large
+  market square.
 title: Wroclaw
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 48.2663
 loc_type: city
 longitude: 21.356
 score: 0.34
+snippet: Tokaj-Hegyalja wine village in the Zemplén hills, with vineyards and cellars
+  around the valley.
 title: Erdőbénye
 type: location
 ---

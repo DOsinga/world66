@@ -9,6 +9,8 @@ latitude: 62.0545
 loc_type: city
 longitude: -7.1511
 score: 0.43
+snippet: Vágar village reached from the Streymoy subsea tunnel, with a churchyard
+  Viking runestone.
 title: Sandavágur
 type: location
 ---

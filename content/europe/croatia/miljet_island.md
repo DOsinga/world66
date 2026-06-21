@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 42.7485
+loc_type: region
 longitude: 17.0532
+score: 0.66
+snippet: Croatian island whose western end is a national park around two inland saltwater
+  lakes.
 title: Miljet Island
 type: location
-score: 0.66
-loc_type: region
 ---
 
 Mljet is one of the most appealing day trips from [Dubrovnik](/europe/croatia/dubrovnik), though it deserves more time if you can spare it. The western end of the island is a national park built around two stunning inland saltwater lakes connected by a narrow channel.

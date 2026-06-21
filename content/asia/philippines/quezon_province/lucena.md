@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 latitude: 13.9358
-longitude: 121.6129
-title: Lucena
-type: location
-score: 0.3
 loc_type: city
+longitude: 121.6129
+score: 0.3
+snippet: Quezon Province capital on Tayabas Bay, with markets, a cathedral square,
+  and ferries to Marinduque.
 sources:
 - https://en.wikipedia.org/wiki/Lucena
 - https://en.wikipedia.org/wiki/Quezon
+title: Lucena
+type: location
 ---
 
 Lucena is the capital of Quezon Province and the transport spine of southern Luzon — a real working city on the shore of Tayabas Bay that most travellers pass through but few stop to explore. That's their loss. The city has a cathedral square the Spanish would recognise, a tangle of public markets selling the coconut products and longganisa sausage the province is famous for, and a port district at Dalahican where ferries push off to the island of Marinduque in an hour.

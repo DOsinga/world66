@@ -12,6 +12,8 @@ latitude: 19.888744
 loc_type: city
 longitude: 102.135898
 score: 0.65
+snippet: Mekong and Nam Khan river city with gilded temples, colonial buildings, and
+  Lao royal history.
 title: Luang Prabang
 type: location
 ---

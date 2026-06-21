@@ -3,16 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-13'
+image: santiago.jpg
+image_attribution: ShootingStarMax
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2019-04-06-12h10m43.jpg
 latitude: -33.4489
+loc_type: city
 longitude: -70.6693
 score: 0.5
+snippet: Chilean capital in a broad valley below the Andes, with mountains visible
+  from across the city.
 title: Santiago
 type: location
-loc_type: city
-image: santiago.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2019-04-06-12h10m43.jpg
-image_license: CC BY-SA 4.0
-image_attribution: ShootingStarMax
 ---
 
 Santiago de Chile sits in a wide valley at 520 metres, with the snow-capped Andes rising to more than 6,000 metres immediately to the east — on clear winter days you can see the mountains from almost anywhere in the city, and the sight of a modern metropolis of seven million people backed by that wall of rock and ice is genuinely dramatic. It is not the prettiest Latin American capital (Lima, Buenos Aires, and Bogotá all have more colonial charm), and the air quality can be grim when the smog gets trapped in the valley. But Santiago has energy, excellent food, a strong cultural scene, and the kind of practical competence that makes it one of the easiest cities on the continent to navigate.

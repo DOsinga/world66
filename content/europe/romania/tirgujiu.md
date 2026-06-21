@@ -10,6 +10,8 @@ latitude: 45.042295
 loc_type: city
 longitude: 23.272812
 score: 0.35
+snippet: Small Romanian city in the Jiu Valley, known for Constantin Brâncuși's monumental
+  sculpture ensemble.
 title: Târgu Jiu
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 5.281536
 loc_type: city
 longitude: -61.214526
 score: 0.51
+snippet: Highland plateau in southeastern Bolívar, marked by savanna, waterfalls,
+  and sandstone tepui cliffs.
 title: La Gran Sabana
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 47.585965
 loc_type: city
 longitude: 9.142877
 score: 0.47
+snippet: Eastern Swiss canton between Bodensee and low hills, known for orchards and
+  cycling routes.
 title: Thurgau
 type: location
 ---

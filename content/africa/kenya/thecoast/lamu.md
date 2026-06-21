@@ -9,6 +9,8 @@ latitude: -2.2675
 loc_type: city
 longitude: 40.9011
 score: 0.54
+snippet: Historic Swahili island town off Kenya's northern coast, with coral-stone
+  houses and car-free lanes.
 title: Lamu
 type: location
 ---

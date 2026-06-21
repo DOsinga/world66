@@ -8,7 +8,6 @@ tags:
 - bars_and_cafes
 - bar
 - club
-- mohandiseen
 title: The Jazz Club
 type: poi
 ---

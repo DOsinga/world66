@@ -8,7 +8,6 @@ snippet: Well-regarded Indian restaurant in Mohandiseen
 tags:
 - eating_out
 - restaurant
-- mohandiseen
 title: Kandahar
 type: poi
 ---

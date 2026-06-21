@@ -10,7 +10,8 @@ tags:
 - beach
 - neighbourhood
 title: The Tulip
-type: American
+type: poi
+score: 4.5
 ---
 
 Great steak, low price

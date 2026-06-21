@@ -2,7 +2,7 @@
 done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: france.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
   LIEU SONG</a>
@@ -15,9 +15,10 @@ quick_facts:
   Drives On: Right
   Cheese Varieties: "Over 1,200 named"
   Most-Visited Country: "100 million tourists/year"
-score: 0.95
+score: 0.98
 title: France
 type: location
+loc_type: country
 ---
 
 France is the number one tourist destination in the world. It has everything that you could ever want to see on your holidays: a great city like [Paris](/europe/france/paris) , good beaches, more monuments than any other country, lovely nature, incredible mountain scenery, need I go on. France is also a very pleasant place to stay. It has good food, great wines and people enjoy their lives. And the best thing is, maybe apart from Paris, living in France does not have to be expensive.

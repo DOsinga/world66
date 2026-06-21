@@ -9,6 +9,7 @@ tags:
 snippet: "Clear-water Konkan beach with snorkeling and dolphin boat rides"
 latitude: 16.0068
 longitude: 73.4918
+score: 8.0
 ---
 
 About 7 km south of Malvan, Tarkarli is a long stretch of white sand backed by coconut palms. The water is unusually clear for the Konkan coast, making it one of the better spots for snorkeling and scuba diving in Maharashtra.

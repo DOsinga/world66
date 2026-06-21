@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: T's Rotisserie
 type: poi
+score: 5.6
 ---
 
 A local favourite for barbecued tri-tip, chicken and burritos. The setting is no-frills but the food is consistently good, and locals pack the place at lunchtime.

@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 42.227681
+loc_type: region
 longitude: 13.854983
 score: 0.6
 title: Abruzzo

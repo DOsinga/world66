@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
 image: landau.jpg
 image_attribution: BertholdD
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Court_House_in_Landau.JPG
 latitude: 49.198282
+loc_type: city
 longitude: 8.112344
 score: 0.43
 title: Landau

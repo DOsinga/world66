@@ -5,11 +5,12 @@ longitude: 13.772801
 opening_hours: Mon–Sat 08:30–21:00; closed Sun
 price: Sandwich ~€4; bollito ~€10
 tags:
-- One Day in Trieste
 - eating_out
+- restaurant
 title: Buffet da Pepi
 type: poi
 snippet: "1897 boiled-meat lunch institution in Austro-Hungarian tradition"
+score: 7.3
 ---
 
 The most famous example of Trieste's distinctive *buffet* tradition — not a self-service canteen in the Italian sense, but an Austro-Hungarian-rooted lunch institution serving boiled meats, sandwiches, and local wine in an unpretentious standing or seated setting. Buffet da Pepi has been operating since 1897 and is the standard reference point for the form.

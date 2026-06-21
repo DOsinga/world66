@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Old Bridge
 type: poi
+score: 8.6
 ---
 
 The Karl-Theodor-Brücke, universally known as the Old Bridge, is one of Heidelberg's most photographed landmarks. Built in 1788 in red Neckar sandstone, it spans the river with nine arches and offers a classic view back toward the castle and Altstadt. On the town side stands the medieval bridge gate with its twin towers, a remnant of the old fortifications. On the bridge itself, look for the brass monkey statue — rubbing its mirror supposedly brings you back to Heidelberg. The bridge is pedestrian-only and at its best in the golden hour, when the castle above catches the last light.

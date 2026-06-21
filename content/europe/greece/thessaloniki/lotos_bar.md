@@ -5,6 +5,7 @@ done:
 latitude: 40.628
 longitude: 22.9476
 phone: 2310 287 788
+score: 5.6
 snippet: Long-running student bar with draft beer near the White Tower
 tags:
 - bars_and_cafes

@@ -5,7 +5,8 @@ tags:
 - shopping
 - shop
 title: a
-type: Art Galleries
+type: poi
+score: 1.0
 ---
 
 1

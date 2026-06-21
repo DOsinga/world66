@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: messina.jpg
+image_attribution: SonoGrazy
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Basilica_Cattedrale_di_Santa_Maria_Assunta_-_01.jpg
 latitude: 38.1938
+loc_type: city
 longitude: 15.5542
 score: 0.51
 title: Messina

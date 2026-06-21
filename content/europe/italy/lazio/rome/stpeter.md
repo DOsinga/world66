@@ -17,6 +17,7 @@ tags:
 title: St. Peter's Basilica & Vatican
 type: poi
 url: www.vatican.va
+score: 9.9
 ---
 
 The centre of the Catholic world and one of the largest church buildings ever constructed, built over the tomb of St. Peter on the site of Nero's circus. Michelangelo's dome (finished after his death in 1590) dominates the Rome skyline; the interior — gilded marble, Bernini's bronze baldachin, and mosaic copies of great paintings — is overwhelming in scale.

@@ -6,11 +6,12 @@ latitude: 9.749127
 longitude: 122.40406
 snippet: Protected marine reserve with lagoons and diverse wildlife
 tags:
-- nature
-- diving
-- beach
+  - things_to_do
+  - diving
+  - sight
 title: Danjugan Island
 type: poi
+score: 8.8
 ---
 
 A 43-hectare protected marine and terrestrial reserve off the coast of Sipalay, managed by the Philippine Reef and Rainforest Conservation Foundation. The island has five lagoons, coral reefs teeming with marine life, and dense vegetation that shelters the endangered white-breasted sea eagle among other species.

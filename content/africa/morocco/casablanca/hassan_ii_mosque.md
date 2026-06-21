@@ -10,6 +10,7 @@ tags:
 - sight
 title: Hassan II Mosque
 type: poi
+score: 9.2
 ---
 
 The only essential sight in Casablanca. Finished in 1993 on a platform jutting out over the Atlantic, the Hassan II is one of the largest mosques in the world, with space for 25,000 worshippers inside and 80,000 more in the courtyard. Unusually for Morocco, non-Muslims can enter — guided tours run several times a day. Pay the 100-dirham entry fee; the interior is worth it.

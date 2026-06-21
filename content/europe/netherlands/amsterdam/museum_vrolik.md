@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - oost
+score: 8.2
 ---
 
 A medical collection that ranges from fascinating to deeply unsettling. Founded by the Vrolik family — father and son anatomists who spent much of the 18th and 19th centuries assembling a vast collection of preserved human and animal specimens — the museum is now part of the Amsterdam University Medical Center.

@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 9.512
+loc_type: region
 longitude: 100.0136
 score: 0.7
 title: Koh Samui

@@ -6,6 +6,7 @@ longitude: -7.44606
 score: 0.46
 title: Castelo Branco
 type: location
+loc_type: region
 ---
 
 Castelo Branco is the capital of a large, thinly-populated district in eastern Portugal, pressed up against the Spanish border. The district stretches from the northern slopes of the Serra da Estrela down to the Tagus valley, and includes some of the most picturesque and least-visited mountain villages in the country — Belmonte, Sortelha, Monsanto, and Idanha-a-Velha among them.

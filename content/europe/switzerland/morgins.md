@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-14'
+image: morgins.jpg
+image_attribution: Pccs
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Morgins_Vue_Station.JPG
 latitude: 46.237659
+loc_type: city
 longitude: 6.858102
 score: 0.54
 title: Morgins

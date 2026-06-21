@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 41.5912
+loc_type: region
 longitude: 1.5209
 score: 0.69
 title: Catalonia

@@ -5,7 +5,8 @@ longitude: 116.416298
 tags:
 - shopping
 title: Xiushui Jie (Silk Alley)
-type: Markets
+type: poi
+score: 6.6
 ---
 
 Once this was a crowded alley where vendors sold fake goods and people bargained to not get ripped off too badly.

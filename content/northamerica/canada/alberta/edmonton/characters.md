@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Characters
 type: poi
+score: 5.9
 ---
 
 An elegant dining room with exposed brick walls, polished hardwood floors, and an open kitchen. The menu leans into seasonal ingredients with dishes like pan-seared shark on sweet corn flan, bacon-wrapped beef tenderloin with foie gras and madeira sauce, and venison in puff pastry with wild mushrooms and raspberry jus. Open Monday to Friday for lunch from 11:30 am; Tuesday to Saturday for dinner from 5:30 pm.

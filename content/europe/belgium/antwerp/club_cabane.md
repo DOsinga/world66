@@ -5,7 +5,8 @@ tags:
 - beach
 - club
 title: Club Cabane
-type: Clubs and dancing
+type: poi
+score: 4.0
 ---
 
 An exclusive beach club in Antwerp...

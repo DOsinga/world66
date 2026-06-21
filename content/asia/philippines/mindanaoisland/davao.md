@@ -2,8 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-20'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: davao.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Phils_Davao_City_San_Pedro_Cathedral.JPG
 latitude: 7.064831
+loc_type: city
 longitude: 125.608062
 score: 0.49
 title: Davao

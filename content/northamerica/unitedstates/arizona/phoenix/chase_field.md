@@ -11,6 +11,7 @@ tags:
 - sport
 title: Chase Field
 type: poi
+score: 6.8
 ---
 
 Chase Field is home to the Arizona Diamondbacks baseball team. With a capacity of over 49,000, this massive stadium has everything from a large Jumbotron to a pool and hot tub in center field. The retractable roof closes up when the brutal summer heat rolls in. Tours of the facilities are available year round and give you a feel for the park without the crowds. Reserve tickets online or walk up to the stadium.

@@ -1,30 +1,16 @@
 ---
-title: "Vologda"
+latitude: 59.2239
+longitude: 39.8845
+snippet: Wooden architecture and golden domes, 500km north of Moscow
+tags:
+- day_trips
+title: Vologda
 type: poi
-latitude: 60.039146
-longitude: 43.121521
+score: 7.2
 ---
 
-This old Russian town located in about 500 km to the north of Moscow well worth visiting. In fact you could spend in this region much more than one day. But even one day here is better then nothing.
+Vologda is an old Russian town about 500km north of Moscow, best known for its extraordinary collection of wooden architecture — carved houses, churches, and the Kremlin complex reflected in the Vologda River. The Kremlin here is actually a bishop's residence rather than a fortress, and its **Cathedral of St Sophia** (1570) was commissioned by Ivan the Terrible.
 
-**Best time to go**
+The best time to visit is June or July when the white nights make the town glow late into the evening. Winter brings deep snow and that particular silence of a northern Russian town off the tourist trail.
 
-June-Jyly when nights are short (or nonexistent).
-Winter - to see real "Russian winter".
-
-**Train from Moscow**
-
-There are many trains from Moscow going via Vologda but the best choice would be
-**#234 Moscow - Arkhangelsk (via Vologda),** (not every day so see timetable) departure 23:10, arrival 07:38 (next day).
-**Tickets** are about 10/24/33 Euro one way depending on comfort level. In any case you'll get bunk-bed to sleep on but with cheap tickets it will be more people around and less privacy so buy these tickets only if you are young and travel in a company and wish to save a bit of money.
-
-**Return train**
-Many trains goind via Vologda leave it about midnight and come to Moscow in the morning so here you'll have much more options.
-**Tickets** - many trains offer very comfortable accomodation for about 45 Euro. If you are looking for cheap tickets look for train **#233 Arkhangelsk - Moscow** (20:39-5:23)
-
-**Buy return tickets in Moscow**
-
-Information is valid for summer 2006
-
-**Contributors**
-July 16, 2006
+The overnight train is the practical option: train #234 Moscow–Arkhangelsk departs around 23:10 and arrives in Vologda around 07:38, giving you a full day before returning on a midnight southbound service. Tickets range from about €10 to €33 one way depending on class.

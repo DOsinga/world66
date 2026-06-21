@@ -8,6 +8,7 @@ tags:
 - sight
 title: Church of St Simon and Helena
 type: poi
+score: 7.4
 ---
 
 Known as the Red Church, built 1908–1910 by a noble family in memory of their two children who died young. Under the Soviets it became a cinema, then a film studio. The red brick neo-Romanesque facade is striking against the grey Soviet surroundings and was a rallying point for the opposition movement in the 1980s.

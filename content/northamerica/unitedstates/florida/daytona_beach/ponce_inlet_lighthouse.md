@@ -14,6 +14,7 @@ tags:
 title: Ponce de Leon Inlet Lighthouse
 type: poi
 url: https://www.ponceinlet.org
+score: 9.0
 ---
 
 The tallest lighthouse in Florida and one of the finest preserved light stations in the United States, the Ponce de Leon Inlet Lighthouse has stood at the junction of the Atlantic, Halifax, and Indian Rivers since 1887. At 175 feet, climbing the 203 steps to the lantern room rewards you with sweeping views of the coastline and converging waterways.

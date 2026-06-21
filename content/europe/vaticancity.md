@@ -1,25 +1,24 @@
 ---
 done:
-  country_cleanup: 2026-03-30
-  location_cleanup: '2026-04-08'
+  city_tag_migration: '2026-04-17'
+  location_enrich: '2026-06-03'
+  poi_cleanup: '2026-04-19'
 image: vaticancity.jpg
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:AngMoKio" title="User:AngMoKio">AngMoKio</a>
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:StAngelo_Bridge_Rome.jpg
+image_attribution: Diliff
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg
 latitude: 41.9029
+loc_type: country
 longitude: 12.4534
+score: 0.55
 title: Vatican City
 type: location
-quick_facts:
-  Population: "~800"
-  Area: "44 hectares (world's smallest state)"
-  Vatican Museums: "54 galleries, 70,000+ works"
-  Annual Visitors: "~5 million to the Museums alone"
-score: 0.82
 ---
 
-Vatican City is the world's smallest independent state — 44 hectares enclosed within Rome, home to around 800 people and one of the most visited sites on the planet. It is the seat of the Roman Catholic Church and the residence of the Pope, and everything within its walls reflects that singular purpose: St. Peter's Basilica, the Sistine Chapel, the Vatican Museums, and the Apostolic Palace are all here, packed into a space you can walk across in fifteen minutes.
+Vatican City is the world's smallest sovereign state — 44 hectares enclosed by medieval walls on the west bank of the Tiber in [Rome](/europe/italy/rome). It is the spiritual and administrative centre of the Roman Catholic Church, the residence of the Pope, and home to some of the most important art and architecture on earth.
 
-Despite the compact geography, Vatican City demands a full day. The Vatican Museums alone contain over 54 galleries and take most visitors several hours. The Sistine Chapel is at the end of a long march through rooms of ancient maps, tapestries, and papal apartments — plan accordingly. St. Peter's Basilica is free to enter and deserves at least an hour on its own.
+The two main draws are [St. Peter's Basilica](/europe/vaticancity/vaticancity/st_peters_basilica) and the [Vatican Museums](/europe/vaticancity/vaticancity/vatican_museums). Between them, they can easily fill an entire day. The basilica is free to enter; the museums require timed tickets booked in advance, or you face a queue that can stretch two hours. The [Sistine Chapel](/europe/vaticancity/vaticancity/sistine_chapel) is at the end of a long march through the museum galleries — plan for several hours on your feet. Along the way are the [Raphael Rooms](/europe/vaticancity/vaticancity/raphael_rooms), the [Gallery of Maps](/europe/vaticancity/vaticancity/gallery_of_maps), the ancient sculptures of the [Pio-Clementine Museum](/europe/vaticancity/vaticancity/pio_clementine_museum), and the painting collection of the [Pinacoteca](/europe/vaticancity/vaticancity/pinacoteca_vaticana).
 
-This is not a destination for wandering without a plan. Crowds are heavy year-round, the queues for the museums stretch around the block if you haven't booked ahead, and the dress code (covered shoulders and knees) is strictly enforced at the basilica entrance. Come prepared, book tickets in advance, and arrive early.
+Despite its size, Vatican City is a sovereign state with its own postal service, radio station, and railway station (rarely used for passengers). The Swiss Guard, in their Renaissance-era uniforms, stand at the entrances. About 800 people live within the walls, most of them clergy or employees of the Holy See.
+
+Visiting is straightforward from central Rome. Metro Line A to Ottaviano station puts you a 10-minute walk from [St. Peter's Square](/europe/vaticancity/vaticancity/st_peters_square). Come early, book museum tickets online, and wear comfortable shoes — the marble floors are unforgiving.

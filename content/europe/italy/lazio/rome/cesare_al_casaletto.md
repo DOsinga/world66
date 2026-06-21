@@ -12,9 +12,9 @@ tags:
 - Eater Rome
 - eating_out
 - restaurant
-- neighbourhood
 title: Da Cesare al Casaletto
 type: poi
+score: 7.9
 ---
 
 Worth the twenty-minute tram ride from the centre. Cesare al Casaletto has a cult following among food writers, bloggers, and serious eaters — the fried gnocchi with oxtail sauce, the Roman tripe, and the fritti are done with real technical care. The room is casual and noisy in the best way. Book well ahead: this is popular and doesn't take many tables. The neighbourhood — out towards Villa Pamphilj — is a reminder that most of Rome's best cooking happens far from the tourist centre.

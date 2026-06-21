@@ -14,9 +14,10 @@ quick_facts:
   Currency: Euro (€, adopted Jan 2026)
   Rose Oil: "Produces 85% of the world's supply"
   Yoghurt: "Contains a unique bacteria named after the country"
-score: 0.53
+score: 0.69
 title: Bulgaria
 type: location
+loc_type: country
 ---
 
 Bulgaria rewards travelers who look beyond the package-holiday beach resorts. Yes, the Black Sea coast gets crowded and a little tacky in summer, but drive an hour inland and you're in a country of mountain monasteries, Ottoman-era towns, Roman ruins, and a cuisine built around wood-fired clay pots, sheep's cheese, and homemade rakia. It's one of the cheapest countries in the EU, and it shows — in a good way.

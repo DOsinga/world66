@@ -14,9 +14,10 @@ quick_facts:
   Currency: Euro (€, adopted 2023)
   Islands: "Over 1,200 — only 48 inhabited"
   Coastline: "1,777 km along the Adriatic"
-score: 0.57
+score: 0.83
 title: Croatia
 type: location
+loc_type: country
 ---
 
 Croatia stretches along the eastern Adriatic coast, offering one of Europe's most varied travel experiences within a small country: a walled medieval city at Dubrovnik, over a thousand islands ranging from tiny rocky outcrops to substantial inhabited places, Roman ruins repurposed as living neighbourhoods in Split, UNESCO-listed national parks, and an Istrian peninsula with its own distinct Italian-inflected culture.

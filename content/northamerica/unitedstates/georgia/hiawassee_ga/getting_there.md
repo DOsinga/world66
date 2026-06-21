@@ -1,28 +1,10 @@
 ---
-title: "Getting There in Hiawassee GA"
+title: Getting There
 type: section
 ---
 
-If you're visiting **Hiawassee, GA**, **getting there** is will be your first task before you can plan the rest of your trip. You have a number of options to get to Hiawassee for your trip, including:
+Hiawassee is a small mountain town with no public transport connections. A car is essential. From Atlanta, the most direct route is north on GA-400 to Dahlonega, then east on US-19 and US-76 to Hiawassee — about two and a half hours in normal traffic. From Chattanooga, take I-75 south to US-411 and then US-76 east; allow around two hours. From Greenville, SC, take I-85 north to US-123 west, then US-76 west — about two hours.
 
-**By Car**
+The nearest commercial airports are Hartsfield-Jackson Atlanta International (about 120 miles south), Chattanooga Metropolitan Airport (about 100 miles northwest), and Greenville-Spartanburg International (about 100 miles east). All are large enough to serve major hub routes. Rental cars are readily available at all three.
 
-If you're driving to Georgia, use I-59 or I-24 from the west and drive into Chattanooga, Tennessee. Then follow U.S. 11 east into Hiawassee. From the southwest, you can also follow I-20 into Atlanta and switch to I-85 to go directly north to Hiawassee.
-
-Coming from the north, you'll need to drive around the forest and
-mountain range, so you can either take U.S. 64 into Chattanooga and go
-from there or take I-75 from the direction of Knoxville and turn east
-onto U.S. 11 just before you get to Chattanooga.
-
-From the east or northeast, you may want to drive toward Greenville, South Carolina and take U.S. 123 directly west and then veer slightly north at U.S. 76 before heading west again. From the southeast, you can take I-385 from the south into Greenville and turn west at the same point.
-
-**By Plane**
-
-The easiest way to fly to Hiawassee is to take a flight into Atlanta, Chattanooga or Greenville and take a rental car from there. The paths from all 3 starting points take roughly the same amount of time (2 hours 20 minutes to 2 hours 40 minutes).
-
-**Other Options**
-
-Hiawassee is a small town, so you can charter a bus from the
-airport, but there's no direct way to take public transportation from
-surrounding big cities. Plan to do at least some driving during your
-trip.
+There is no bus or rail service to Hiawassee. Charter ground transport from the airport is possible but expensive — renting a car at the airport is almost always the better option.

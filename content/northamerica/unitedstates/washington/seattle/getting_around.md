@@ -3,12 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-Seattle's Sea-Tac Airport is 13 miles (21km) south of the city via I-5. Gray Line's Airport Express and Shuttle Express both offer inexpensive rides to and from Seattle's major downtown hotels. Taxis are another option, although they're not for those with a small budget. There are plenty of car rental agencies at the airport if you want to chauffeur yourself.
+Seattle is a walkable city in its core neighbourhoods — downtown, Capitol Hill, Pike Place, Pioneer Square, and the waterfront are all within comfortable walking distance of each other — but the hills are steep and the city sprawls in all directions. For anything beyond the central core, public transit is the sensible option.
 
-  Metro Transit buses blanket the metropolitan area with most buses running through downtown on 4th Ave or in the Bus Tunnel which has five downtown entrances. In the immediate downtown area, all bus rides are free from 6am to 7pm in the area between 6th Ave and the Waterfront and between Jackson St in Pioneer Square and Battery St. Note that Seattle Center is outside of the free-ride district.
+**Light rail:** Sound Transit's Link Light Rail now extends from Sea-Tac Airport through downtown and north to the University District and beyond. The line is fast, frequent (every 8–15 minutes), and covers the most tourist-relevant stops. A single-trip fare is around $2.50–$3.50 depending on distance. ORCA cards (reloadable smart cards) can be purchased at any station.
 
-  Seattle Trolley Tours make for great downtown transport. Tickets are good for the full day of operation. Stops indicated by bright yellow sandwich boards include the Space Needle, Pike Place, Waterfront, Pioneer Square, International District Kingdome and the Seattle Art Museum. The trolley runs every 30 minutes.
+**Bus:** King County Metro buses cover the entire city with reasonable frequency. The Rapid Ride lines (A through H) run more frequently on major corridors. The ORCA card works on all transit. Downtown Seattle has a free-ride zone on some routes, though this has been reduced over the years — check current details.
 
-  If you're driving to Seattle, you'll probably arrive via I-5 or I-90. It's usually wise to check traffic conditions before you hit the freeways as Seattle's traffic is second only to that of Los Angeles in sheer hellishness. Downtown Seattle also has miles of one-way streets and parking can be a nightmare.
+**Ferries:** Washington State Ferries are part of the regional transit system and are genuinely useful. The Bainbridge Island ferry departs from Colman Dock (Pier 52) at the foot of Marion Street and gives you a 35-minute crossing of Puget Sound with excellent views of the Seattle skyline. This is one of the best cheap excursions from the city — you don't need to leave the boat. Ferries also run to Bremerton and other Puget Sound destinations.
 
-  For trips outside the city limits, the Washington State Ferry system is a wonderfully scenic way to get around. The views of the city are top and making a tour on a warm sunny summer day is definitely a good option. Ferries leave from the piers along the Alaskan Way waterfront.
+**Driving:** Parking downtown is expensive and street parking is metered and competitive. The city's hills and one-way streets are confusing. Seattle traffic is consistently rated among the worst in the United States. Drive only if you are going somewhere the transit doesn't reach.
+
+**Cycling:** Seattle has a growing network of protected bike lanes, and the Burke-Gilman Trail is a paved multi-use path running from Ballard through the University District to Kirkland, largely traffic-free. Bike share (Lime, Jump) is available throughout the central neighbourhoods.

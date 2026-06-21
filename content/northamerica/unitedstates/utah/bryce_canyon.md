@@ -10,6 +10,7 @@ image: bryce_canyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Sunrise_Point_Highres_2013.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Tuxyso
+loc_type: feature
 ---
 
 Bryce Canyon National Park in southern Utah is not technically a canyon but an amphitheatre — a series of natural bowls carved into the edge of the Colorado Plateau by frost and erosion. The result is the largest concentration of hoodoos (irregular columns of rock) on earth, in shades of red, orange, white, and pink. The view from the rim at sunrise is one of the most dramatic in the American West.

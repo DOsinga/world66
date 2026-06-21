@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
-  poi_cleanup: '2026-04-20'
+  location_enrich: '2026-05-11'
+  poi_cleanup: '2026-04-21'
+image: lasvegas.jpg
+image_attribution: King of Hearts
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_December_2013_panorama.jpg
 latitude: 36.167426
+loc_type: city
 longitude: -115.148413
 score: 0.69
 title: Las Vegas

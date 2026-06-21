@@ -10,6 +10,7 @@ tags:
 - charlottenburg
 title: Hugendubel
 type: poi
+score: 4.8
 ---
 
 One of Germany's biggest bookshop chains, and this Tauentzienstraße branch near KaDeWe is among its largest. Four floors of books with a generous space set aside for browsing and reading. The selection leans heavily German-language, but there's a reasonable English section too. Other Berlin branches sit on Friedrichstraße in Mitte and in the Potsdamer Platz Arkaden.

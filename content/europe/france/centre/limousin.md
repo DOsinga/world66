@@ -6,6 +6,7 @@ longitude: 1.6348
 done:
   location_cleanup: 2026-04-06
 score: 0.43
+loc_type: region
 ---
 
 The Limousin is one of the least visited and least populated regions of France, spread across the western slopes of the Massif Central. For travellers in search of unspoiled countryside — rolling green meadows, deep river gorges, ancient village churches, and very few tourists — it is hard to beat.

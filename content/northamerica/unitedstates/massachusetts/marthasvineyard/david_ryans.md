@@ -11,6 +11,7 @@ tags:
 title: David Ryan's
 type: poi
 url: www.davidryans.com
+score: 5.6
 ---
 
 David Ryan's is one of the few places in [Edgartown](/northamerica/unitedstates/massachusetts/marthasvineyard/edgartown) that stays open year-round, making it a reliable gathering spot for locals and visitors alike. Set on North Water Street in the heart of the village, it works as both a casual restaurant and a proper pub, with a long bar that gets lively in the evenings.

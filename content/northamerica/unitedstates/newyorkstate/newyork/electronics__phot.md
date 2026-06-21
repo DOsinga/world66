@@ -8,7 +8,8 @@ tags:
 - market
 - square
 title: Electronics / Photo shop on time square
-type: Speciality shops
+type: poi
+score: 1.5
 ---
 
 Beware of the numerous electronic / photo shops there, the prices are sky high. Don't buy anything unless you are very shure of the market price. Otherwise you might buy at 3 or 4 time the normal price.

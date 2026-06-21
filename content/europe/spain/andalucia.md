@@ -1,9 +1,10 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image_attribution: Euskal Bizikleta
 latitude: 37.5443
+loc_type: region
 longitude: -4.7278
 score: 0.8
 title: Andalucia

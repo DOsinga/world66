@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-14'
+image: barrackpore.jpg
+image_attribution: Rangan Datta Wiki
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Barrackpore_Government_House_1.jpg
 latitude: 22.764162
+loc_type: city
 longitude: 88.377609
 score: 0.34
 title: Barrackpore

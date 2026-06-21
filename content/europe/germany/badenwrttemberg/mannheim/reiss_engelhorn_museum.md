@@ -12,6 +12,7 @@ tags:
 - museum
 title: Reiss-Engelhorn Museum
 type: poi
+score: 7.7
 ---
 
 A complex of four museums spread across several historic buildings in the central grid, covering archaeology, world cultures, photography, and the history of Mannheim. The archaeology collection has Egyptian and ancient Near Eastern material of surprising quality. The photography museum (Forum Internationale Fotografie) runs thoughtful temporary exhibitions and is worth checking for current shows.

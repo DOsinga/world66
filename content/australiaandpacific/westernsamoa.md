@@ -15,7 +15,8 @@ quick_facts:
   Drives On: Left
   Date Line Switch: "Jumped forward a whole day in 2011"
   Volcanic Islands: "Only 2 of 9 are inhabited"
-score: 0.53
+score: 0.47
+loc_type: country
 ---
 
 The Samoa Islands are located in the Pacific Ocean. Western Samoa is an independent country. [American Samoa](/australiaandpacific/americansamoa) is part of the United States. Both groups of islands were discoverd by the same ecplorer Jacon Roggeveen and share one culture. 

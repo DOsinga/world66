@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Burj Nahar
 type: poi
+score: 5.2
 ---
 
 One of the many watchtowers that once guarded old Dubai, Burj Nahar dates to around 1870 and was restored in 1992. It sits in a small, well-kept garden in Deira — a quiet spot amid the bustle of the surrounding streets. The tower and its grounds are popular with photographers, especially in the late afternoon light. Free entry.

@@ -2,7 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: karnataka.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hampi_virupaksha_temple.jpg
 latitude: 14.956205
+loc_type: region
 longitude: 75.789674
 score: 0.59
 title: Karnataka

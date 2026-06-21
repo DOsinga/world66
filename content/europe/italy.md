@@ -13,9 +13,10 @@ quick_facts:
   Currency: Euro (€)
   UNESCO Sites: "59 — most of any country"
   Pasta Shapes: "Over 350 named varieties"
-score: 0.9
+score: 0.99
 title: Italy
 type: location
+loc_type: country
 ---
 
 Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces. 

@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 41.378729
+loc_type: region
 longitude: -0.763937
 score: 0.57
 title: Aragon

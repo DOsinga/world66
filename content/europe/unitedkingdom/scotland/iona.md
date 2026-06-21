@@ -2,7 +2,11 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+image: iona.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Iona_(15020668711).jpg
 latitude: 56.3289
+loc_type: region
 longitude: -6.4084
 score: 0.61
 title: Iona

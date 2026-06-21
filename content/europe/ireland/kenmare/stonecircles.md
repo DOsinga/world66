@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: 51.8770
 longitude: -9.5830
+score: 8.3
 ---
 
 One of the largest stone circles in southwest Ireland, right at the edge of town. Fifteen stones arranged in a circle 17 metres across, with a boulder dolmen at the centre -- likely a burial site for someone of importance over 3,000 years ago.

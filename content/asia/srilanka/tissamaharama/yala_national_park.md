@@ -6,6 +6,7 @@ longitude: 81.507282
 title: Yala National Park
 type: location
 score: 0.65
+loc_type: feature
 ---
 
 Yala is Sri Lanka's most visited national park and one of its wildest corners. The park stretches across nearly 1,300 square kilometres of dry monsoon forest, scrubland, and lagoons along the island's southeast coast, and it holds one of the highest densities of leopards anywhere in the world.

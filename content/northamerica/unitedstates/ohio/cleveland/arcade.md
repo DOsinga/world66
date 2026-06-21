@@ -13,6 +13,7 @@ tags:
 title: The Arcade
 type: poi
 url: www.thearcade-cleveland.com
+score: 8.0
 ---
 
 Cleveland's most beloved building after Terminal Tower. Built in 1890 and inspired by Milan's Galleria Vittorio Emanuele, the Arcade was the country's first indoor shopping mall. Today it houses a food court popular with downtown workers and a Hyatt Hotel, but the soaring five-story atrium is still stunning. Open to the public and free to enter.

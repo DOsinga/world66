@@ -1,10 +1,12 @@
 ---
+title: "Fuente Osmeña Park"
+type: poi
+latitude: 10.3101
+longitude: 123.8915
 tags:
-- sights
-title: Fuente Osmeña Park
-type: general
+- things_to_do
+- sight
+score: 4.8
 ---
 
-Located at the center of the boulevard is Fuente Osmeña, named after Cebu's Grand Old Man, the late Commonwealth President Sergio Osmeña, Sr. A favorite strolling park among locals, the circular Fuente becomes even more alive in the evenings. Within the park is a skating rink.
-
-type: general
+A circular park at the busy Fuente Osmeña roundabout in Uptown Cebu, named after Commonwealth President Sergio Osmeña Sr. The fountain at the centre is illuminated at night, making it a popular evening gathering spot. Jeepney routes converge here, and the surrounding streets are lined with restaurants, shops, and street food. Not a destination in itself, but a useful orientation point — the Mango Avenue bar strip is a ten-minute walk south.

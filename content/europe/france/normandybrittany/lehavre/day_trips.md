@@ -1,6 +1,10 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/france/normandybrittany/etretat
+  - europe/france/normandybrittany/honfleur
+  - europe/france/normandybrittany/rouen
 ---
 
 The Côte d'Albâtre stretches north from Le Havre along chalk cliffs eroded into dramatic arches, caves, and needles. **Étretat**, 30 km north, is the most famous stop — the three arches (Falaise d'Aval, Falaise d'Amont, and the Manneporte) have been painted by Monet, Courbet, and Delacroix, and photographed by everyone since. The village is touristy but the cliffs are genuinely spectacular; walk up to either headland for the best views and to escape the crowds below.

@@ -8,8 +8,10 @@ snippet: Modern kıraathane with nargile and backgammon in Beyoğlu
 tags:
 - cafes
 - things_to_do
+- beyoglu
 title: Ortakahve
 type: poi
+score: 5.7
 ---
 
 A modern take on the traditional kıraathane — the old Turkish coffee house. Ortakahve serves Turkish coffee, tea, and nargile (water pipe) in a bright, open space with board games, a small library, and occasional divan lounges. No alcohol, but the nargile and the backgammon make up for it. One of the few places in Beyoğlu where you can smoke apple tobacco in civilised surroundings.

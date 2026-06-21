@@ -3,10 +3,8 @@ title: 'Day Trips'
 type: section
 ---
 
-Rudesheim sits in the UNESCO-listed Rhine Gorge, and the surrounding area has plenty to explore beyond the town itself.
+Rüdesheim sits at the southern end of the UNESCO-listed Rhine Gorge. The Middle Rhine between here and Koblenz is one of the most castle-dense stretches of river in the world, and a day on a Rhine cruise boat lets you see a dozen of them. Several Rhine passenger ferries and excursion boats operate from Rüdesheim and Bingen throughout the summer.
 
-**Hiking Trails in Rheinsteig**
+The Rheinsteig long-distance trail runs along the right bank of the Rhine from Bonn to Wiesbaden, and the section north of Rüdesheim through the gorge is excellent walking. A popular approach is to hike north from Rüdesheim toward Assmannshausen or beyond, then return by train. The path passes through forested ridges above the river with views of Ehrenfels Castle ruin below.
 
-You can marvel at the vast vineyards in the outskirts of Rudesheim as you hike towards Wiesbaden, which is another town near Rudesheim. The hiking trail in Rheinsteig is only accessible by foot. It follows an elevated path along the right side of Rhine River. The trail stretches on different places in Rudesheim. In fact, the trail is 320 kilometers long, which makes it very long. Although traversing the entire trail is highly improbable by foot in one day, there are still other paths along the trail, from which you can enjoy the breath-taking views.
-
-While you have an option to hike the entire 320 kilometer trail, there are guided tours which allow you to take short hiking trips within the trail. You can pass by not only interesting vineyards, but also castles and scenic views of the town as well. This is a perfect place to spend your day in Rudesheim.
+Bingen am Rhein, directly across the river by ferry, has its own medieval fortifications and the Mouse Tower on an island in the Rhine — legend has it that the wicked Archbishop Hatto was eaten alive by mice in the tower, though the building probably served more prosaic purposes as a toll and signal station.

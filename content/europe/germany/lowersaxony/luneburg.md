@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: luneburg.jpg
+image_attribution: Ralf Roletschek
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:2010-06-06-lueneburg-by-RalfR-10.jpg
 latitude: 53.2489
+loc_type: city
 longitude: 10.4083
 score: 0.54
 title: Lüneburg

@@ -10,8 +10,12 @@ snippet: Sweeping survey of Nordic life and culture from the 16th century to tod
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
+- djurgarden
 title: Nordic Museum
 type: poi
+score: 8.4
 ---
 
 The Nordic Museum (Nordiska museet) sits on Djurgården island in a grand Renaissance-revival castle that looks like it was built to impress, and it was. Inside, the collection covers five centuries of everyday Swedish life — furniture, textiles, folk costumes, table settings, and the material culture of people who weren't kings or nobles. The August Strindberg room is a highlight, and the Sami section is one of the better treatments of indigenous Nordic culture you'll find anywhere. Plan at least two hours; the building alone is worth the trip.

@@ -11,9 +11,11 @@ story: 'When Charles V visited in 1526 and saw the cathedral the canons had carv
   in the world.'
 tags:
 - things_to_do
-- landmark
+- sight
+- architecture
 title: Mezquita-Catedral
 type: poi
+score: 10.0
 ---
 
 The Great Mosque of Cordoba is the single most important building in the city and one of the most extraordinary in Europe. Begun in 785 by Abd al-Rahman I and expanded across two centuries, it is a forest of red-and-white striped horseshoe arches — around 850 columns of jasper, onyx, marble and granite, many salvaged from Roman and Visigothic sites. The mihrab at the southern end is a masterpiece of Byzantine-influenced gold mosaic.

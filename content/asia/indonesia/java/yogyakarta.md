@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-20'
+image: yogyakarta.jpg
+image_attribution: Crisco 1492
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Eastern_face_of_west_gate,_Taman_Sari,_Yogyakarta,_2014-04-24_(from_19_images).jpg
 latitude: -7.797068
+loc_type: city
 longitude: 110.370529
 score: 0.71
 title: Yogyakarta

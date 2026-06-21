@@ -12,6 +12,7 @@ tags:
 - square
 title: San Miniato al Monte
 type: poi
+score: 9.1
 ---
 
 An 11th-century Romanesque basilica above Piazzale Michelangelo, often missed by visitors who stop at the terrace below. The green-and-white marble facade, geometric inlaid floors, and golden mosaic apse are among the finest medieval interiors in Tuscany. The resident Benedictine monks sing Gregorian vespers daily at around 17:30 — attending is free and one of the most unexpectedly moving experiences the city offers.

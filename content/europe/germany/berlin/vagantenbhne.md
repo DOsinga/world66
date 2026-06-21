@@ -8,8 +8,10 @@ snippet: Intimate Charlottenburg fringe theatre popular with Berlin students
 tags:
 - things_to_do
 - berlincharlottenburg
+- charlottenburg
 title: Vaganten Bühne
 type: poi
+score: 6.8
 ---
 
 A small but lively fringe theatre on Kantstrasse in Charlottenburg, within walking distance of Zoo station. The Vaganten Bühne has championed emerging talent throughout its history, staging plays that the bigger houses wouldn't touch. About half the audience are students and school groups, which keeps the atmosphere energetic and the ticket prices reasonable. Check the current programme online before going.

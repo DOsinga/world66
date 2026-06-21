@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Willi's Station
-type: European
+type: poi
 url: www.willys-station.ch
+score: 3.8
 ---
 
 **[Come an pamper your self at our cosy](/asia/thailand/huahin/eating_out)**

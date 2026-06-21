@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: ypres.jpg
+image_attribution: Frank Hurley
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Chateau_Wood_Ypres_1917.jpg
 latitude: 50.852195
+loc_type: city
 longitude: 2.884605
 score: 0.58
 title: Ypres

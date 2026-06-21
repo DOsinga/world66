@@ -6,7 +6,8 @@ tags:
 - shop
 - market
 title: Market Mall
-type: Shopping centers and malls
+type: poi
+score: 4.3
 ---
 
 A fun and classic mall with good architechture and stores. It has everything under the sun including Zellers, Shopper's Drug Mart, and little jewelry shops such as Claire's.

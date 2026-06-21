@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: lakehavasucity.jpg
+image_attribution: S. Winkvist
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:London_Bridge,_Lake_Havasu_City_-_2011_(Aerial_Photo).jpg
 latitude: 34.4779
+loc_type: city
 longitude: -114.338
 score: 0.42
 title: Lake Havasu City

@@ -14,6 +14,7 @@ tags:
 title: Plaza Senayan
 type: poi
 url: www.plaza-senayan.com
+score: 5.5
 ---
 
 One of Jakarta's most established upscale malls, Plaza Senayan sits near the Senayan sports complex and draws a well-heeled local crowd alongside visitors. It feels less chaotic than some of the city's newer mega-malls — the layout is manageable and the air conditioning is mercifully efficient.

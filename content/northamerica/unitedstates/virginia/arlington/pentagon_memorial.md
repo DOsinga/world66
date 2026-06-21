@@ -9,6 +9,7 @@ tags:
 title: Pentagon Memorial
 type: poi
 url: https://www.pentagonmemorial.org
+score: 6.3
 ---
 
 The Pentagon Memorial honors the 184 people killed at the Pentagon in the September 11, 2001 terrorist attack. Opened in 2008, it consists of 184 illuminated memorial units — one for each victim — arranged in the shape of the aircraft's flight path. Each unit is a stainless steel bench positioned over a shallow reflecting pool.

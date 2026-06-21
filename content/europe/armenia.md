@@ -14,9 +14,10 @@ quick_facts:
   Religion: "97% Armenian Apostolic Christian"
   First Christian Nation: "Adopted in 301 AD"
   Chess: "Compulsory school subject since 2011"
-score: 0.41
+score: 0.69
 title: Armenia
 type: location
+loc_type: country
 ---
 
 Armenia is one of the oldest Christian nations on earth, a small landlocked country in the South Caucasus wedged between Turkey, Georgia, Azerbaijan, and Iran. It is compact — you can cross the whole country in a few hours — but remarkably dense with ancient monasteries, Roman-era temples, medieval fortresses, volcanic mountains, and one of the largest alpine lakes in the world.

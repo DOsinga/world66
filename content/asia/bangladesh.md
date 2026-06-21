@@ -16,7 +16,8 @@ quick_facts:
   Cox's Bazar Beach: "120 km long"
 title: Bangladesh
 type: location
-score: 0.31
+score: 0.51
+loc_type: country
 ---
 
 Bangladesh is one of the most densely populated countries on earth, a watery delta nation squeezed between India on three sides and Myanmar to the southeast, with the Bay of Bengal opening to the south. It is not an easy country to travel — the infrastructure is rough, traffic is chaotic, and the heat and humidity in summer are genuinely punishing — but travelers who come here find something they rarely expected: warmth, generosity, and landscapes of extraordinary beauty.

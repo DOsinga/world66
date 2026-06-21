@@ -4,9 +4,8 @@ longitude: 3.0601
 snippet: UNESCO-listed Ottoman labyrinth, soul of the city
 tags:
 - things_to_do
-- neighbourhood
 title: The Casbah
-type: poi
+type: neighbourhood
 ---
 
 The Casbah of Algiers is a UNESCO World Heritage Site and the soul of the city. About 100,000 people still live in this dense labyrinth of narrow alleys, whitewashed houses and Ottoman-era palaces stacked up the hillside above the port. The Algerian war of independence started here, famously depicted in Gillo Pontecorvo's 1966 film *The Battle of Algiers*.

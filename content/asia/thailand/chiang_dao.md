@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
   poi_cleanup: '2026-04-19'
+image: chiang_dao.jpg
+image_attribution: Takeaway
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Doi_Chiang_Dao_in_the_clouds.jpg
 latitude: 19.3696
+loc_type: city
 longitude: 98.9657
 score: 0.62
 title: Chiang Dao

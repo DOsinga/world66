@@ -1,6 +1,8 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-If you're learning English, make sure you visit The English Language Bookshop @ 31 George Street, Brighton. It's one of the few specialist ELT bookshops in the UK and only sells books and materials for learners of English. Good selection of dictionaries, grammars, IELTS books etc. Very close to Brighton Pavilion - see picture opposite.
+Brighton is good for independent shopping. The Lanes are the place for antiques, vintage jewellery, and second-hand watches. North Laine does vinyl records, retro fashion, handmade goods, and everything adjacent to them. The Open Market off London Road has weekly stalls selling food, crafts, and vintage items. Churchill Square is the main covered shopping centre for chains and high-street brands.
+
+The city is particularly strong on vintage clothing. Both The Lanes and North Laine have shops that change their stock weekly. For books, City Books on Western Road is one of the best independent bookshops in the south-east.

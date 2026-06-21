@@ -10,6 +10,7 @@ tags:
 title: Cathedral of Guadalajara
 type: poi
 snippet: "Iconic twin-spired cathedral anchoring four plazas"
+score: 7.5
 ---
 
 Guadalajara's cathedral anchors the historic centre with its distinctive twin spires. Construction started in 1561 and was not finished until the 1600s, which explains the mix of Gothic, Baroque, Moorish, and Neoclassical elements. Inside, the main draw is the collection of colonial-era paintings, including a Murillo attributed "Assumption of the Virgin." The surrounding four plazas make this the natural starting point for exploring the city.

@@ -1,12 +1,11 @@
 ---
 latitude: 35.4655
 longitude: -97.5083
-snippet: "Converted warehouse district with a canal and restaurants"
+snippet: Converted warehouse district with a canal and restaurants
 tags:
 - things_to_do
-- neighbourhood
 title: Bricktown Canal
-type: poi
+type: neighbourhood
 ---
 
 Bricktown is the entertainment hub of Oklahoma City, a converted warehouse district centred on a mile-long canal lined with restaurants, bars, and live music venues. The area was derelict until the late 1990s when a city sales tax funded its transformation, and it now draws most of the downtown nightlife.

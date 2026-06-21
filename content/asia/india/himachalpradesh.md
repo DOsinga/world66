@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: himachalpradesh.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Kinnaur_Kailash.jpg
 latitude: 31.929235
+loc_type: region
 longitude: 77.182846
 score: 0.63
 title: Himachal Pradesh

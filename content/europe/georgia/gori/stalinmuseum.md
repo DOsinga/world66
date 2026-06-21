@@ -9,6 +9,7 @@ tags:
 - museum
 title: Stalin Museum
 type: poi
+score: 8.1
 ---
 
 The Stalin Museum is built around the two-room house where Stalin was born. The slums around it have been cleared and replaced by a grand Soviet-era building housing photographs, correspondence, and personal belongings. Gifts from countries around the world are on display, and Stalin's private railway carriage sits in a pavilion outside.

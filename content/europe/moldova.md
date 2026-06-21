@@ -14,7 +14,8 @@ quick_facts:
   Cost Level: "Europe's cheapest — meal ~$3"
   Mileștii Mici Wine Cellar: "200 km of tunnels"
   Wine Per Capita: Among the highest in the world
-score: 0.37
+score: 0.46
+loc_type: country
 ---
 
 Moldova is one of Europe's least-visited countries and, for those who find their way here, one of its most rewarding surprises. Wedged between [Romania](/europe/romania) and Ukraine, this small landlocked republic has no mountains, no sea, and no famous monuments — yet it has the world's largest wine cellar, cave monasteries carved into limestone cliffs, and a capital that mixes faded Soviet grandeur with a lively café scene.

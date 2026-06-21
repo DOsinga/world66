@@ -1,14 +1,14 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: vietnam.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/48600082269@N01">upyernoz</a>
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Cua_Tung_Beach.jpg
 latitude: 15.926666
 longitude: 107.965086
-score: 0.69
+score: 0.88
 title: Vietnam
 type: location
 quick_facts:
@@ -16,6 +16,7 @@ quick_facts:
   Budget Meal: "~$1.50 for pho on the street"
   Motorbikes Registered: "Over 70 million"
   Coastline: "3,400 km"
+loc_type: country
 ---
 
 **Vietnam** is located in South-East Asia. The name of the country has become almost a synonym of the Vietnam War. The history of the country goes back a lot further than 'the war that wasn't won', as the Americans euphemistically call it. Vietnam is actually a country with a long history and ancient traditions. It has many historic sights and old temple.

@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museu do Açude
 type: poi
+score: 7.4
 ---
 
 A charming museum of folk art, ceramics, and decorative tiles from Northeast Brazil, set in a former country estate high in the hills near the Tijuca Forest. The grounds themselves are worth the trip — lush gardens with sculptures scattered among tropical plants and a small lake. The building was once the country retreat of industrialist Raymundo Ottoni de Castro Maya, and the collection reflects his eclectic taste.

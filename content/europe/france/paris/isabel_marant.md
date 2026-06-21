@@ -6,8 +6,10 @@ longitude: 2.336977
 snippet: Parisian designer known for effortless Bohemian style and easy-to-wear pieces
 tags:
 - shopping
+- saint_germain
 title: Isabel Marant
 type: poi
+score: 4.9
 ---
 
 Isabel Marant's Saint-Germain boutique showcases the Parisian designer's signature mix of slouchy knitwear, printed dresses, and relaxed tailoring. The clothes are expensive but have a wearable quality that distinguishes them from more precious French fashion. Her Étoile line, available at larger department stores, offers the same aesthetic at lower prices.

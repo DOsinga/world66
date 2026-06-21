@@ -16,7 +16,8 @@ quick_facts:
   Currency: New Zealand Dollar
   Ocean Visibility: Up to 100 metres
   Niueans in New Zealand: "~25,000 — 15× the home population"
-score: 0.55
+score: 0.36
+loc_type: country
 ---
 
 Niue is one of the world's smallest nations — a single raised coral island in the South Pacific, about 2,400 km northeast of New Zealand. It calls itself the Rock of Polynesia, and the name fits. There are no beaches to speak of on most of the coast; instead, the island rises abruptly from the sea in dramatic limestone cliffs, chasms, and arches carved by millennia of wave action.

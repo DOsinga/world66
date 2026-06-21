@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: slough.jpg
+image_attribution: mattbuck4950 on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/23136508@N00/14522583925
 latitude: 51.511101
+loc_type: city
 longitude: -0.594068
 score: 0.28
 title: Slough

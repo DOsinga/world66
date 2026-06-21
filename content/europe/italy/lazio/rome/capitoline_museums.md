@@ -15,6 +15,7 @@ tags:
 title: Capitoline Museums
 type: poi
 url: www.museicapitolini.org
+score: 9.1
 ---
 
 The world's oldest public museums, founded in 1471 when Pope Sixtus IV donated a collection of bronzes to the people of Rome. The two palazzi flanking Michelangelo's Piazza del Campidoglio hold an outstanding collection of classical sculpture: the equestrian bronze of Marcus Aurelius (the original; a copy stands in the piazza), the Capitoline Wolf, the Dying Gaul, and the Capitoline Venus. The rooftop café has one of the best views over the Roman Forum.

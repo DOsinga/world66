@@ -10,6 +10,7 @@ longitude: -122.496522
 score: 0.54
 title: Shasta Cascade
 type: location
+loc_type: region
 ---
 
 The Shasta Cascade region occupies the far north of California, anchored by Mount Shasta — a 14,179-foot dormant volcano visible for a hundred miles in every direction — and Shasta Lake, the state's largest reservoir. The landscape is dramatic: lava fields, ancient forests, glacial rivers, and the kind of open country that feels genuinely remote by California standards.

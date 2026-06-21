@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 27.897992
+loc_type: region
 longitude: -82.519064
 score: 0.55
 title: Tampa Bay Area

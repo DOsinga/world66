@@ -8,6 +8,7 @@ tags:
 - sights
 title: Day 4 - Lofotens
 type: poi
+score: 9.4
 ---
 
 The Hurtigruten's passage through the Lofoten Islands on day four is widely considered the scenic highlight of the voyage. The stretch from Stamsund to Svolvær threads between jagged peaks rising straight from the sea, tiny fishing villages, and sheltered bays.

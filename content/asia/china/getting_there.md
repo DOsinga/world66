@@ -5,7 +5,7 @@ type: section
 
 ## By Air
 
-China's main international hubs are [Beijing](/asia/china/beijing) (Capital International, PEK, and the newer Daxing International, PKX), [Shanghai](/asia/china/shanghai) (Pudong, PVG, for international flights; Hongqiao, SHA, for domestic), [Guangzhou](/asia/china/guangzhou) (Baiyun, CAN), [Hong Kong](/asia/china/hongkong) (HKG), and Chengdu (Tianfu, TFU). Most long-haul flights land at Beijing or Shanghai.
+China's main international hubs are [Beijing](/asia/china/beijing) (Capital International, PEK, and the newer Daxing International, PKX), [Shanghai](/asia/china/shanghai) (Pudong, PVG, for international flights; Hongqiao, SHA, for domestic), [Guangzhou](/asia/china/guangdong/guangzhou) (Baiyun, CAN), [Hong Kong](/asia/china/hongkong) (HKG), and Chengdu (Tianfu, TFU). Most long-haul flights land at Beijing or Shanghai.
 
 Flight times are roughly 10 hours from London, 14 hours from New York, 12 hours from Los Angeles, and 11 hours from Sydney. Air China, China Eastern, and China Southern are the three main national carriers. Major international airlines — British Airways, Lufthansa, Emirates, Cathay Pacific, Singapore Airlines — also serve China's main cities.
 
@@ -31,4 +31,4 @@ Ferries connect Shanghai and Tianjin with Osaka and Kobe in Japan, and Qingdao a
 
 ## Overland
 
-China shares land borders with 14 countries. The main crossings used by independent travelers are: from Vietnam at Friendship Pass near [Nanning](/asia/china/nanning); from Kyrgyzstan via the Torugart Pass to Kashgar; from Pakistan over the Khunjerab Pass to [Tashkorgan](/asia/china/tashkorgan); and from Mongolia at Erlian. Border formalities and crossing hours vary; research your specific crossing in advance.
+China shares land borders with 14 countries. The main crossings used by independent travelers are: from Vietnam at Friendship Pass near [Nanning](/asia/china/nanning); from Kyrgyzstan via the Torugart Pass to Kashgar; from Pakistan over the Khunjerab Pass to [Tashkorgan](/asia/china/xinjiangprovince/tashkorgan); and from Mongolia at Erlian. Border formalities and crossing hours vary; research your specific crossing in advance.

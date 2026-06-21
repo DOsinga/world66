@@ -1,0 +1,538 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Your travel style — {{ passport.title }}{% endblock %}
+
+{% block body_style %}
+<style>
+#content { display: none; }
+body { overflow-x: hidden; }
+.scenario-page { min-height: 100vh; display: flex; flex-direction: column; }
+
+.scenario-header {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.scenario-header h2 { font-family: var(--display-font); font-size: 1.1rem; font-weight: 300; }
+.progress-bar-wrap { flex: 1; max-width: 300px; }
+.progress-bar-track { height: 4px; background: rgba(255,255,255,.2); border-radius: 2px; overflow: hidden; }
+.progress-bar-fill { height: 100%; background: var(--accent); border-radius: 2px; transition: width .4s ease; }
+.progress-label { font-size: .75rem; color: rgba(255,255,255,.6); margin-top: 4px; }
+
+/* ---- Scenario intro screen ---- */
+.scenario-intro {
+  flex: 1;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 56px 32px;
+  text-align: center;
+  gap: 18px;
+}
+.intro-eyebrow {
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.intro-dest {
+  font-family: var(--display-font);
+  font-size: clamp(2.8rem, 8vw, 4.5rem);
+  font-weight: 300;
+  color: var(--ink);
+  line-height: 1.1;
+}
+.intro-ctx {
+  font-size: 1rem;
+  color: var(--mute);
+  max-width: 440px;
+  line-height: 1.6;
+}
+.intro-start {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 13px 40px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background .15s;
+}
+.intro-start:hover { background: var(--accent-ink); }
+
+/* ---- Card area ---- */
+.scenario-body {
+  flex: 1;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 24px;
+  gap: 24px;
+}
+
+.scenario-context { text-align: center; max-width: 560px; }
+.scenario-context .destination {
+  font-size: .75rem; font-weight: 700; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--accent); margin-bottom: 8px;
+}
+.scenario-context h3 {
+  font-family: var(--display-font);
+  font-size: clamp(1.1rem, 2.8vw, 1.4rem);
+  font-weight: 300; color: var(--ink); line-height: 1.4;
+}
+
+/* ---- Card flip ---- */
+.card-stage {
+  position: relative;
+  width: min(340px, 90vw);
+  height: 240px;
+}
+.card-ghost {
+  position: absolute; inset: 0;
+  background: white; border: 1px solid var(--line-2); border-radius: 20px;
+  transition: transform .35s ease;
+}
+.card-ghost:nth-child(1) { transform: translateY(6px) scale(.96); z-index: 1; }
+.card-ghost:nth-child(2) { transform: translateY(3px) scale(.98); z-index: 2; }
+
+.card-flipper {
+  position: absolute; inset: 0; z-index: 10;
+  transform-style: preserve-3d;
+  transition: transform .45s cubic-bezier(.4,0,.2,1);
+  cursor: pointer;
+  will-change: transform;
+}
+.card-flipper.flipped { transform: rotateY(180deg); }
+
+/* Card entrance is driven by JS inline styles — no keyframe needed */
+
+.card-face {
+  position: absolute; inset: 0;
+  background: white;
+  border: 1px solid var(--line-2);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,.10);
+  backface-visibility: hidden;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 28px;
+  user-select: none;
+  touch-action: none;
+}
+.card-face.back {
+  transform: rotateY(180deg);
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 28px 28px 20px;
+}
+
+/* Front face */
+.card-emoji { font-size: 2.8rem; line-height: 1; margin-bottom: 12px; }
+.card-name {
+  font-family: var(--display-font); font-size: 1.25rem; font-weight: 300;
+  text-align: center; line-height: 1.3; color: var(--ink);
+}
+.flip-hint {
+  position: absolute; bottom: 12px; right: 14px;
+  font-size: .7rem; color: var(--mute); display: flex; align-items: center; gap: 4px;
+}
+
+/* Back face */
+.back-name { font-family: var(--display-font); font-size: 1.05rem; font-weight: 500; color: var(--ink); margin-bottom: 10px; }
+.back-detail { font-size: .9rem; color: var(--mute); line-height: 1.5; flex: 1; }
+.back-actions {
+  display: flex; gap: 10px; align-self: stretch;
+  margin-top: 16px;
+}
+.back-no, .back-yes {
+  flex: 1; padding: 9px 0; border-radius: 7px; border: none;
+  font-size: .9rem; font-weight: 600; cursor: pointer;
+}
+.back-no  { background: var(--paper-2); color: var(--mute); }
+.back-no:hover  { background: #fce8e8; color: #c0392b; }
+.back-yes { background: var(--accent); color: white; }
+.back-yes:hover { background: var(--accent-ink); }
+
+/* Swipe overlays */
+.vote-overlay {
+  position: absolute; font-size: 1.3rem; font-weight: 800;
+  opacity: 0; border: 3px solid; padding: 3px 12px; border-radius: 6px;
+  pointer-events: none;
+}
+.vote-overlay.yes { top: 16px; right: 16px; color: #27ae60; border-color: #27ae60; transform: rotate(-12deg); }
+.vote-overlay.no  { top: 16px; left:  16px; color: #e74c3c; border-color: #e74c3c; transform: rotate(12deg); }
+
+/* Action buttons */
+.action-buttons { display: flex; gap: 20px; align-items: center; }
+.action-btn {
+  width: 60px; height: 60px; border-radius: 50%; border: 2px solid;
+  background: white; font-size: 1.5rem; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: transform .1s, box-shadow .1s, opacity .15s;
+  box-shadow: 0 2px 12px rgba(0,0,0,.1);
+}
+.action-btn:hover { transform: scale(1.1); }
+.action-btn:active { transform: scale(.93); }
+.action-btn.no-btn  { border-color: #e74c3c; color: #e74c3c; }
+.action-btn.yes-btn { border-color: #27ae60; color: #27ae60; }
+.action-btn.yes-btn.maxed { opacity: .3; cursor: default; pointer-events: none; }
+.action-btn.skip-btn { border-color: var(--line-2); color: var(--mute); width: 44px; height: 44px; font-size: 1.1rem; }
+
+/* Pick limit dots */
+.pick-dots { display: flex; gap: 8px; align-items: center; }
+.pick-dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--line-2);
+  transition: background .2s, transform .25s cubic-bezier(.34,1.5,.64,1);
+}
+.pick-dot.filled { background: #27ae60; transform: scale(1.2); }
+
+.keyboard-hint { font-size: .75rem; color: var(--mute); text-align: center; }
+
+/* Done state */
+.scenario-done {
+  display: none; flex-direction: column;
+  align-items: center; justify-content: center;
+  text-align: center; gap: 16px; padding: 48px 24px;
+}
+.scenario-done h3 { font-family: var(--display-font); font-size: 2rem; font-weight: 300; }
+.scenario-done p { color: var(--mute); max-width: 380px; }
+.done-btn {
+  background: var(--accent); color: white; padding: 14px 36px;
+  border: none; border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer;
+}
+.done-btn:hover { background: var(--accent-ink); }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div class="scenario-page">
+  <div class="scenario-header">
+    <h2>{{ passport.title }}</h2>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progressFill" style="width:0%"></div>
+      </div>
+      <div class="progress-label" id="progressLabel">Starting…</div>
+    </div>
+  </div>
+
+  <!-- Intro screen — shown before each scenario's cards -->
+  <div class="scenario-intro" id="scenarioIntro">
+    <div class="intro-eyebrow" id="introEyebrow"></div>
+    <div class="intro-dest"    id="introDest"></div>
+    <p  class="intro-ctx"     id="introCtx"></p>
+    <button class="intro-start" id="introStart">Start &rarr;</button>
+  </div>
+
+  <!-- Card swiping body -->
+  <div class="scenario-body" id="mainBody">
+    <div class="scenario-context">
+      <div class="destination" id="ctxDestination"></div>
+      <h3 id="ctxText"></h3>
+    </div>
+
+    <div class="card-stage">
+      <div class="card-ghost" id="ghost1"></div>
+      <div class="card-ghost" id="ghost2"></div>
+
+      <div class="card-flipper" id="cardFlipper">
+        <!-- Front -->
+        <div class="card-face front" id="cardFront">
+          <div class="card-emoji" id="cardEmoji"></div>
+          <div class="card-name" id="cardName"></div>
+          <div class="vote-overlay yes" id="voteYes">IN ✓</div>
+          <div class="vote-overlay no"  id="voteNo">SKIP ✗</div>
+          <div class="flip-hint">tap to read more ↩</div>
+        </div>
+        <!-- Back -->
+        <div class="card-face back" id="cardBack">
+          <div>
+            <div class="back-name"   id="backName"></div>
+            <div class="back-detail" id="backDetail"></div>
+          </div>
+          <div class="back-actions">
+            <button class="back-no"  id="backNo"  type="button">✗ Skip</button>
+            <button class="back-yes" id="backYes" type="button">✓ Include</button>
+          </div>
+        </div>
+      </div>
+    </div><!-- card-stage -->
+
+    <div class="action-buttons">
+      <button class="action-btn no-btn"   id="btnNo"   title="Skip (←)">✗</button>
+      <button class="action-btn skip-btn" id="btnSkip" title="Skip scenario (↓)">↓</button>
+      <div class="pick-dots">
+        <div class="pick-dot" id="pdot0"></div>
+        <div class="pick-dot" id="pdot1"></div>
+        <div class="pick-dot" id="pdot2"></div>
+      </div>
+      <button class="action-btn yes-btn"  id="btnYes"  title="Include (→)">✓</button>
+    </div>
+
+    <div class="keyboard-hint">← skip &nbsp;|&nbsp; → include &nbsp;|&nbsp; ↓ next scenario &nbsp;|&nbsp; space flip</div>
+  </div>
+
+  <div class="scenario-done" id="donePage">
+    <div style="font-size:4rem">🌍</div>
+    <h3>Your passport is ready.</h3>
+    <p>We've captured your travel style. View your passport to see the full picture.</p>
+    <form method="post" id="saveForm">
+      {% csrf_token %}
+      <input type="hidden" name="responses" id="responsesField" value="{}">
+      <button type="submit" class="done-btn">View my passport &rarr;</button>
+    </form>
+  </div>
+</div>
+
+<script>
+(function() {
+  var SCENARIOS   = {{ scenarios_json|safe }};
+  var existing    = {{ existing_responses|safe }};
+  var responses   = Object.assign({}, existing);
+  var MAX_PICKS   = 3;
+
+  var scenarioIdx      = 0;
+  var optionIdx        = 0;
+  var selectedInScen   = 0;  // YES picks for the current scenario
+  var isFlipped        = false;
+  var isDragging       = false;
+
+  // DOM refs
+  var flipper     = document.getElementById('cardFlipper');
+  var cardEmoji   = document.getElementById('cardEmoji');
+  var cardName    = document.getElementById('cardName');
+  var backName    = document.getElementById('backName');
+  var backDetail  = document.getElementById('backDetail');
+  var ctxDest     = document.getElementById('ctxDestination');
+  var ctxText     = document.getElementById('ctxText');
+  var progFill    = document.getElementById('progressFill');
+  var progLabel   = document.getElementById('progressLabel');
+  var voteYes     = document.getElementById('voteYes');
+  var voteNo      = document.getElementById('voteNo');
+  var mainBody    = document.getElementById('mainBody');
+  var introEl     = document.getElementById('scenarioIntro');
+  var donePage    = document.getElementById('donePage');
+  var respField   = document.getElementById('responsesField');
+  var btnYes      = document.getElementById('btnYes');
+  var pdots       = [document.getElementById('pdot0'), document.getElementById('pdot1'), document.getElementById('pdot2')];
+
+  function curScenario() { return SCENARIOS[scenarioIdx]; }
+  function curOption()   { return curScenario().options[optionIdx]; }
+
+  function updateProgress() {
+    var pct = SCENARIOS.length ? (scenarioIdx / SCENARIOS.length * 100) : 0;
+    progFill.style.width = pct + '%';
+    progLabel.textContent = 'Scenario ' + (scenarioIdx + 1) + ' of ' + SCENARIOS.length;
+  }
+
+  function updatePickDots() {
+    for (var i = 0; i < 3; i++) {
+      pdots[i].classList.toggle('filled', i < selectedInScen);
+    }
+    btnYes.classList.toggle('maxed', selectedInScen >= MAX_PICKS);
+  }
+
+  function unflip() {
+    if (!isFlipped) return;
+    isFlipped = false;
+    flipper.classList.remove('flipped');
+  }
+
+  // ---- Show scenario intro ----
+  function showIntro() {
+    var s = SCENARIOS[scenarioIdx];
+    document.getElementById('introEyebrow').textContent =
+      'Scenario ' + (scenarioIdx + 1) + ' of ' + SCENARIOS.length + ' · pick up to ' + MAX_PICKS;
+    document.getElementById('introDest').textContent = s.destination;
+    document.getElementById('introCtx').textContent  = s.context;
+    introEl.style.display  = 'flex';
+    mainBody.style.display = 'none';
+    updateProgress();
+  }
+
+  // ---- Show cards for current scenario ----
+  function startScenario() {
+    introEl.style.display  = 'none';
+    mainBody.style.display = 'flex';
+    var s = curScenario();
+    ctxDest.textContent = s.destination.toUpperCase();
+    ctxText.textContent = s.context;
+    loadCard(true);
+  }
+
+  // ---- Load the card content (+ optional entrance animation) ----
+  function loadCard(animate) {
+    var opt = curOption();
+    cardEmoji.textContent  = opt.emoji;
+    cardName.textContent   = opt.name;
+    backName.textContent   = opt.name;
+    backDetail.textContent = opt.detail || '';
+    voteYes.style.opacity = voteNo.style.opacity = '0';
+    unflip();
+    updatePickDots();
+    // Snap card to ghost-stack position (no transition)
+    flipper.style.transition = 'none';
+    flipper.style.opacity    = animate ? '0.55' : '';
+    flipper.style.transform  = animate ? 'scale(0.94) translateY(6px)' : '';
+    void flipper.offsetWidth; // flush so next assignment starts a transition
+    // Spring card up to natural position
+    flipper.style.transition = animate
+      ? 'transform .38s cubic-bezier(.34,1.3,.64,1), opacity .28s ease'
+      : '';
+    flipper.style.transform  = '';
+    flipper.style.opacity    = '';
+  }
+
+  // ---- Advance to next scenario or done ----
+  function advanceScenario(fast) {
+    scenarioIdx++;
+    optionIdx = 0;
+    selectedInScen = 0;
+    var delay = fast ? 400 : 200;
+    if (scenarioIdx >= SCENARIOS.length) {
+      setTimeout(showDone, delay);
+    } else {
+      setTimeout(showIntro, delay);
+    }
+  }
+
+  function recordVote(yes) {
+    if (yes) {
+      var sid = curScenario().id;
+      if (!responses[sid]) responses[sid] = [];
+      responses[sid].push(optionIdx);
+      selectedInScen++;
+    }
+
+    optionIdx++;
+    var maxed   = selectedInScen >= MAX_PICKS;
+    var allDone = optionIdx >= curScenario().options.length;
+
+    if (maxed || allDone) {
+      advanceScenario(maxed);
+    } else {
+      setTimeout(function() { loadCard(true); }, 360);
+    }
+  }
+
+  function skipScenario() {
+    advanceScenario(false);
+  }
+
+  function animateSwipe(dir, cb) {
+    // Kill any active transition first so unflip() doesn't trigger
+    // the CSS flip-back animation which would fight the swipe transform
+    flipper.style.transition = 'none';
+    unflip();
+    void flipper.offsetWidth; // flush to establish clean position
+    var tx  = dir > 0 ? '120%' : '-120%';
+    var rot = dir > 0 ? '15deg' : '-15deg';
+    flipper.style.transition = 'transform .35s ease, opacity .35s ease';
+    flipper.style.transform  = 'translateX(' + tx + ') rotate(' + rot + ')';
+    flipper.style.opacity    = '0';
+    if (dir > 0) voteYes.style.opacity = '1'; else voteNo.style.opacity = '1';
+    setTimeout(cb, 320);
+  }
+
+  function swipeYes() {
+    if (selectedInScen >= MAX_PICKS) return;
+    animateSwipe(1,  function(){ recordVote(true);  });
+  }
+  function swipeNo()  { animateSwipe(-1, function(){ recordVote(false); }); }
+
+  function toggleFlip() {
+    isFlipped = !isFlipped;
+    flipper.classList.toggle('flipped', isFlipped);
+  }
+
+  function showDone() {
+    mainBody.style.display = 'none';
+    introEl.style.display  = 'none';
+    donePage.style.display = 'flex';
+    progFill.style.width   = '100%';
+    respField.value = JSON.stringify(responses);
+  }
+
+  // Buttons
+  btnYes.addEventListener('click', swipeYes);
+  document.getElementById('btnNo').addEventListener('click',  swipeNo);
+  document.getElementById('btnSkip').addEventListener('click', skipScenario);
+  document.getElementById('backYes').addEventListener('click', swipeYes);
+  document.getElementById('backNo').addEventListener('click',  swipeNo);
+  document.getElementById('introStart').addEventListener('click', startScenario);
+
+  // Tap to flip
+  document.getElementById('cardFront').addEventListener('click', function(e) {
+    if (!isDragging) toggleFlip();
+  });
+  document.getElementById('cardBack').addEventListener('click', function(e) {
+    if (e.target.tagName !== 'BUTTON' && !isDragging) toggleFlip();
+  });
+
+  // Keyboard
+  document.addEventListener('keydown', function(e) {
+    if (donePage.style.display === 'flex') return;
+    if (introEl.style.display === 'flex') {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); startScenario(); }
+      return;
+    }
+    if (e.key === 'ArrowRight') { e.preventDefault(); swipeYes(); }
+    else if (e.key === 'ArrowLeft')  { e.preventDefault(); swipeNo(); }
+    else if (e.key === 'ArrowDown')  { e.preventDefault(); skipScenario(); }
+    else if (e.key === ' ')          { e.preventDefault(); toggleFlip(); }
+  });
+
+  // Drag to swipe (front face only)
+  var dragStartX = null, dragX = 0;
+
+  function onDragStart(x) { dragStartX = x; dragX = 0; isDragging = false; }
+  function onDragMove(x) {
+    if (dragStartX === null || isFlipped) return;
+    dragX = x - dragStartX;
+    if (Math.abs(dragX) > 5) isDragging = true;
+    var rot = dragX * 0.08;
+    flipper.style.transition = 'none';
+    flipper.style.transform  = 'translateX(' + dragX + 'px) rotate(' + rot + 'deg)';
+    if (dragX > 30)       { voteYes.style.opacity = Math.min((dragX-30)/60, 1); voteNo.style.opacity = '0'; }
+    else if (dragX < -30) { voteNo.style.opacity  = Math.min((-dragX-30)/60, 1); voteYes.style.opacity = '0'; }
+    else                  { voteYes.style.opacity = voteNo.style.opacity = '0'; }
+  }
+  function onDragEnd() {
+    if (dragStartX === null) return;
+    dragStartX = null;
+    if (isFlipped) { isDragging = false; return; }
+    if      (dragX >  80) swipeYes();
+    else if (dragX < -80) swipeNo();
+    else {
+      flipper.style.transition = 'transform .3s ease, opacity .3s ease';
+      flipper.style.transform  = '';
+      voteYes.style.opacity = voteNo.style.opacity = '0';
+    }
+    setTimeout(function(){ isDragging = false; }, 50);
+  }
+
+  var front = document.getElementById('cardFront');
+  front.addEventListener('mousedown',  function(e){ onDragStart(e.clientX); });
+  document.addEventListener('mousemove', function(e){ onDragMove(e.clientX); });
+  document.addEventListener('mouseup',   onDragEnd);
+  front.addEventListener('touchstart', function(e){ onDragStart(e.touches[0].clientX); }, {passive:true});
+  document.addEventListener('touchmove', function(e){ if(dragStartX!==null) onDragMove(e.touches[0].clientX); }, {passive:true});
+  document.addEventListener('touchend',  onDragEnd);
+
+  // Boot — show intro for first scenario
+  showIntro();
+})();
+</script>
+{% endblock %}
+
+{% block content %}{% endblock %}

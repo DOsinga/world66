@@ -1,14 +1,15 @@
 ---
-title: 'Day Trips'
+title: Day Trips
 type: section
+linked_locations:
+  - europe/sanmarino
+  - europe/italy/emiliaromagna/ravenna
+  - europe/italy/emiliaromagna/cattolica
+  - europe/italy/emiliaromagna/riccione
+  - europe/italy/emiliaromagna/bellaria
+  - europe/italy/marche/pesaro
 ---
 
-**Roman Rimini.** Start with the **Augustus Arch**, erected in 27 BC in honour of the Roman Emperor -- one of the oldest surviving Roman arches. Continue to the **Tiberius Bridge**, an impressive ancient structure with five arches supported by massive pillars, built in Istrian stone, connecting the city centre with the Borgo San Giuliano district. The **Roman Amphitheatre**, a second-century masterpiece with more than fifty arcades, is a short walk away. Combine with a visit to the archaeological museum for a full morning of Roman history.
+Rimini is an excellent base. [San Marino](/europe/sanmarino), the cliff-top republic 25 km west, is the obvious half-day excursion — easy by bus from the train station. [Ravenna](/europe/italy/emiliaromagna/ravenna) is under an hour away by train and one of the great cultural day trips in Italy: eight UNESCO-listed early Christian monuments with the finest Byzantine mosaics anywhere west of Istanbul.
 
-**The churches of Rimini.** The **Tempio Malatestiano** is a gothic structure with Renaissance modifications and exquisite original detailing. The **San Giuliano Martire** depicts the life of the saint through illustrations by Bittino da Faenza. Other churches worth seeing include the Church of St John the Evangelist and the San Giovanni Battista, built in the twelfth century.
-
-**The beaches.** Rimini's 15-kilometre stretch of picturesque beach, called La Marina, is the most frequented tourist spot. The shores are dotted with shops and eateries and host cultural events during peak season.
-
-**[San Marino](/europe/sanmarino).** The tiny republic is just 25 km west -- an easy half-day trip.
-
-**[Ravenna](/europe/italy/emiliaromagna/ravenna).** Under an hour away by train, with some of the finest Byzantine mosaics in the world.
+For the wider Adriatic Riviera, hop south to [Cattolica](/europe/italy/emiliaromagna/cattolica) or [Riccione](/europe/italy/emiliaromagna/riccione), or north to [Bellaria](/europe/italy/emiliaromagna/bellaria). Inland, the medieval village of San Leo and the Marecchia valley with their Malatesta fortresses make a fine drive.

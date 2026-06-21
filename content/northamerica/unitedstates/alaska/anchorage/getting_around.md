@@ -3,35 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-**Anchorage: Transportation Services **
+Anchorage sprawls — a small downtown core but most neighbourhoods and attractions strung out along the Seward Highway and Glenn Highway corridors. A rental car is the easiest way to see the city and is essential for any of the day trips.
 
-Public transit is a bus system called The People Mover. The
-People Mover is a convenient option between popular destinations.
-If you want to go off the beaten path or the weather is bad, the bus
-can be a long and uncomfortable proposition. Fares are $1.50,
-$0.75 for kids, and a day pass is $3.00. For schedule info, call
-(907) 343-6543 or see [http://www.muni.org/transit1/]
+Public transit is the People Mover bus system. Fares are around $2 with day passes available, but service is infrequent outside the main corridors and most routes terminate by 10 pm. It is fine for hopping between downtown and the airport (route 7) and for reaching the Anchorage Museum, but inadequate for moving around quickly.
 
-Anchorage is a sprawling city for its population size. If you are
-planning to explore more than the downtown area, car rental might be
-worthwhile. There are about 4 taxi cab companies in Anchorage, as well
-places to rent cars, vans and recreational vehicles. Taxis are
-generally pricey.
+Taxis and rideshare (Uber, Lyft) both work in the city — the latter is generally cheaper and more reliable. From the airport into downtown is about $25–35 by either.
 
-Gorgeous day trips outside of Anchorage include Whittier, Portage
-Glacier and Girdwood to the south and Thunderbird Falls, Eklutna, and
-Palmer to the north. These are all best visited by car.
-
-### [Bicycle Riding
-
-Bicycles are available for rent or purchase at many sporting goods stores.
-
-Most of Anchorage is crossed with greenbelts and bicycle trails.
-The most popular trail, the Costal Trail, runs along the northwest
-coast of Anchorage between the airport and downtown. This trail
-connects with other trails that cross the city, between parks.
-
-While bicycle riding is popular, many drivers in Anchorage drive as
-though they're the only ones on the road. (Anchorage has the
-highest per-capita car accident rate in the country.) Be cafeful
-of the clueless more..](http://www2.world66.com/northamerica/unitedstates/alaska/anchorage/gettingaround/bicycle_riding)
+For getting between trailheads and viewpoints, **bicycles** are an excellent option in summer — Anchorage has a network of paved trails that link the downtown core to most of the outer neighbourhoods and parks. The [Tony Knowles Coastal Trail](/northamerica/unitedstates/alaska/anchorage/tony_knowles_coastal_trail) is the showpiece. Several rental shops downtown rent by the hour or day.

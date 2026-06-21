@@ -9,6 +9,7 @@ tags:
 snippet: Late-night live jazz in Mohandiseen until 3am
 title: The Jazz Club
 type: poi
+score: 5.3
 ---
 
 Live music some evenings, with Wednesday nights drawing the biggest crowds. Open until 3am; the mix of live jazz and a relaxed crowd makes it one of the better late-night options in the city.

@@ -8,9 +8,9 @@ phone: +20 2 7359640
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
 title: Abdel Kader
 type: poi
+score: 4.8
 ---
 
 A neighbourhood bar in Zamalek that stays open until 4am — about as late as Cairo gets. Simple, unpretentious, and popular with locals who aren't interested in the hotel bar scene.

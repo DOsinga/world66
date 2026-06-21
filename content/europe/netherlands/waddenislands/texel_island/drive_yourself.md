@@ -4,7 +4,8 @@ longitude: 4.948339
 tags:
 - getting_there
 title: Drive yourself
-type: By Road
+type: poi
+score: 3.8
 ---
 
 Route

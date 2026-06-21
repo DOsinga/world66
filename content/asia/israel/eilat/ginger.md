@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Ginger
 type: poi
+score: 4.9
 ---
 
 A Thai restaurant at the Edomit Hotel — the successor to the well-regarded My Thai, which operated in the same space. The menu covers Thai classics: pad thai, curries, and fresh seafood prepared with Southeast Asian spicing that stands out in a town dominated by grills and hummus. Open until late, which suits Eilat's beach-town hours. Book ahead in high season as it fills quickly.

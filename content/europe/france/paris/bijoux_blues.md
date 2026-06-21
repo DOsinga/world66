@@ -8,9 +8,11 @@ phone: 01 48 04 00 64
 snippet: Handmade Parisian jewelry in the Marais
 tags:
 - shopping
+- le_marais
 title: Bijoux Blues
 type: poi
 url: www.bijouxblues.com
+score: 4.6
 ---
 
 This charming jewelry shop in the heart of the Marais features unique pieces handmade in Paris. Materials include semi-precious stones, Bohemian and French crystals, glass, pearls, corals, and silver. The designs are colorful and inventive — good for a distinctive souvenir or gift.

@@ -2,12 +2,17 @@
 address: Place des Vosges, 75004 Paris
 latitude: 48.855455
 longitude: 2.362468
-snippet: "Paris's oldest planned square, a Marais masterpiece since 1612"
+snippet: Paris's oldest planned square, a Marais masterpiece since 1612
 tags:
 - things_to_do
 - sight
+- museum
+- market
+- le_marais
 title: Place des Vosges
 type: poi
+story: "Victor Hugo lived at No. 6 Place des Vosges from 1832 to 1848, where he wrote Les Misérables and Ruy Blas. When he was exiled to Guernsey after Louis-Napoleon's coup in 1851, he left behind most of his furniture — it's still in the rooms of the free museum today."
+score: 8.5
 ---
 
 Place des Vosges is the oldest planned square in Paris and arguably the finest. Henri IV had it built in 1612 as the centrepiece of the Marais, and it worked: the neighbourhood became the most fashionable address in the city. Today the square's symmetrical red-brick pavilions and the arcaded ground floor — now lined with art galleries, antique dealers, and cafes — have barely changed since the 17th century.

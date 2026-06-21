@@ -7,8 +7,9 @@ tags:
 - cafe
 - bar
 title: Livanto Thai & European Restaurant
-type: European
+type: poi
 url: www.livantohuahin.com
+score: 4.6
 ---
 
 Livanto life style steak house

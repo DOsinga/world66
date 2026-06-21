@@ -12,6 +12,7 @@ tags:
 - park
 title: Chinese Garden of Friendship
 type: poi
+score: 7.7
 ---
 
 One of the few traditional Chinese gardens outside China, the Chinese Garden of Friendship was designed by landscape architects from Guangzhou, Sydney's sister city, and opened during the Australian bicentennial in 1988. It packs a remarkable amount of variety into a compact space: waterfalls, lakes with carp and turtles, covered walkways, pavilions, and carefully placed rocks shipped from Guangzhou province.

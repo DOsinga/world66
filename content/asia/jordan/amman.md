@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-12'
+image: amman.jpg
+image_attribution: Berthold Werner
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Amman_BW_2.JPG
 latitude: 31.951569
+loc_type: city
 longitude: 35.923963
 score: 0.62
 title: Amman

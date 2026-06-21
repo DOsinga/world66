@@ -10,6 +10,7 @@ tags:
 title: Eden Nature Park
 type: poi
 url: www.edennaturepark.com.ph
+score: 6.5
 ---
 
 Eden Nature Park sits at 2,650 feet above sea level on the slopes of Mt. Talomo in the Toril district. The area was over-logged in the 1970s until pine trees were planted across the hillside, and today the park is a cool, green escape from the city below, with views across Davao City and the Davao Gulf.

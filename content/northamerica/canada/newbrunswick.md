@@ -6,6 +6,7 @@ longitude: -66.750183
 done:
   location_cleanup: 2026-04-05
 score: 0.46
+loc_type: region
 ---
 
 Known as the "Picture Province", New Brunswick has a variety of attractions that contribute to this reputation.
@@ -25,4 +26,4 @@ To the north of the province is Mount Carleton Provincial Park which is particul
 [Moncton](/northamerica/canada/newbrunswick/moncton)
 [Saint John](/northamerica/canada/newbrunswick/saintjohn)
 [St. Andrews](/northamerica/canada/newbrunswick/standrews)
-[Fredericton](/northamerica/canada/newbrunswick/copy_of_fredericton)
+Fredericton

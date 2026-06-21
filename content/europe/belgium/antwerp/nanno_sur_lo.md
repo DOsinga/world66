@@ -5,8 +5,9 @@ tags:
 - bar
 - club
 title: Nanno sur L'o
-type: Clubs and dancing
+type: poi
 url: www.nanno.be
+score: 3.8
 ---
 
 One of the most exclusive places in belgium . Located inside a ship that docks on the Schelde river in Antwep. Has a vip section which offers only bootles no solo glasses .

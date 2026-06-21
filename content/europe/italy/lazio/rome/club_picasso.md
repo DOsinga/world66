@@ -12,6 +12,7 @@ tags:
 - club
 title: Club Picasso
 type: poi
+score: 5.4
 ---
 
 A no-cover nightclub in the Testaccio nightlife district with a wide variety of music on rotation -- rock, funk, R&B, hip-hop, salsa, and dance on different nights. The crowd skews young, the vibe is fun and unpretentious, and they serve pizza and snacks. Open Tuesday through Sunday, 8pm to 4am.

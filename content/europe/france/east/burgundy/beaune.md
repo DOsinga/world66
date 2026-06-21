@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: beaune.jpg
+image_attribution: Benjamin Smith
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beaune_-_H%C3%B4tel-Dieu_-_Cour_-_05.jpg
 latitude: 47.023906
+loc_type: city
 longitude: 4.838043
 score: 0.65
 title: Beaune

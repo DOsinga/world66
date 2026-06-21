@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-14'
+  poi_cleanup: '2026-04-21'
+image: philadelphia.jpg
+image_attribution: King of Hearts
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:30th_Street_Station_Philadelphia_July_2016_002_edit.jpg
 latitude: 39.952724
+loc_type: city
 longitude: -75.163526
 score: 0.61
 title: Philadelphia

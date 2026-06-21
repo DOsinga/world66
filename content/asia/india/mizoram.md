@@ -6,6 +6,7 @@ longitude: 92.868761
 title: Mizoram
 type: location
 score: 0.42
+loc_type: region
 ---
 
 Mizoram is one of India's most remote and least-visited states, tucked into the far north-east corner of the country, sandwiched between Bangladesh and Myanmar. Few travellers make the effort to come this far, which is a pity — the state has a distinctive character that sets it apart from anything else in India.

@@ -12,6 +12,7 @@ tags:
 title: Historic Sponge Docks
 type: poi
 url: https://www.spongedocks.net
+score: 8.8
 ---
 
 The Sponge Docks are the reason most people come to Tarpon Springs. Working boats still bring in natural Gulf sponges, which are unloaded, sorted, and sold at the dockside shops alongside Greek imports. Dozens of restaurants line Dodecanese Boulevard — the food is genuine and the prices are reasonable. Sightseeing cruises depart from the docks, and a short sponge-diving demonstration gives a taste of what the industry looked like at its peak.

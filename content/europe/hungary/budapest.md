@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-11'
+  poi_cleanup: '2026-04-21'
 image: budapest.jpg
 image_attribution: Ralf Roletschek
 image_license: CC BY-SA 1.0 fi
 image_source: https://commons.wikimedia.org/wiki/File:19-10-03-Margarethenbr%C3%BCcke_und_Margaretheninsel-RalfR.jpg
 latitude: 47.4979
+loc_type: city
 longitude: 19.0402
 score: 0.79
 title: Budapest

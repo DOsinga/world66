@@ -6,13 +6,15 @@ longitude: 12.34
 opening_hours: Daily 09:00–18:00 (19:00 in summer)
 tags:
 - things_to_do
+- san_marco
 - museum
-- church
 - palace
-- bridge
+snippet: Gothic seat of Venetian power with Tintoretto masterpieces
+neighbourhood: San Marco
 title: Doge's Palace
 type: poi
 url: www.visitmuve.it
+score: 9.9
 ---
 
 The Gothic palace that served as the seat of Venetian government for nearly a thousand years — home to the Doge, the Senate, the Council of Ten, and the city's law courts. The interior is extraordinary: gilded state rooms with enormous paintings by Tintoretto and Veronese, the Bridge of Sighs connecting to the prison, and a series of rooms that map the mechanisms of Venetian republican power.

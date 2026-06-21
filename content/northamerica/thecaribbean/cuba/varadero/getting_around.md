@@ -3,16 +3,6 @@ title: Getting Around
 type: section
 ---
 
-**Use the Traditional Caleches to Get Around Varadero
-**
+The Hicacos Peninsula is long and thin — about 20 km from end to end — so getting around requires some thought. The Varadero Bus Tour runs a hop-on hop-off service along the peninsula from the Varadero town end to Mansión Xanadu, stopping at the main resorts, Parque Josone, and the ecological reserve. It's reliable and reasonably priced.
 
-Getting around Varadero involves using the local **Varadero transportation** options available in the city. Varadero is a town in Cuba which is popular as the largest resort town in the Caribbean. Tourism is an important part of Varadero's economy, and the local government ensures visitors have positive experiences during their stays. Getting around Varadero is very easy. Using the horse-drawn Caleches is a fun and traditional way to get around during your visit.
-
-#### **Caleches**
-
-The Caleches are horse-drawn carriages which do not follow a specific route. The carriages are a traditional way to travel around Varadero, but it is still one of the best ways to see the town*. *There are only a few Caleches* *available in Varadero, but they are still popular among tourists who want to try something new during their visits.
-
-#### **When and How to Use the Caleches
-**
-
-Riding the Caleches is fun, but it is not the best method of transportation if you are in a hurry to get to your next destination. The roads in Varadero are narrow and, to make matters worse, are packed with a lot of cars. Using the Caleches is limited to those traveling within the metropolis of Varadero. The carriages are no longer allowed to travel to the other towns outside of Varadero. This particular mode of transportation is cheaper than riding a bus or taxi. Before embarking, though, travelers must first arrange the fare with the driver.
+Taxis (both official and private) are plentiful and easy to hail. Agree on the fare before getting in. Bicycle and scooter rental is available from several points along the beach strip — a good option for exploring at your own pace. Horse-drawn caleches operate in Varadero town and are a slow but atmospheric way to move around that end of the peninsula.

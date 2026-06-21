@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Rumpus Room
 type: poi
+score: 5.8
 ---
 
 A casual bar on Boundary Street in West End with couches, giant beanbags, and DJs most nights. No formal dancefloor, no cover charge, no dress code. Popular with the alternative and student crowd that defines West End. A good place to start an evening before things pick up later.

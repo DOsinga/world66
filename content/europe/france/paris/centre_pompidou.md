@@ -9,9 +9,15 @@ opening_hours: Wed–Mon 11am–9pm (Thu until 11pm); closed Tue
 snippet: Europe's largest modern art museum in an inside-out building
 tags:
 - things_to_do
+- museum
+- sight
+- market
+- leshalles
 title: Centre Pompidou
 type: poi
 url: www.centrepompidou.fr
+story: "When the Centre Pompidou was proposed in the early 1970s, the Beaubourg neighbourhood was one of the most densely populated slums in Paris, marked for demolition. The choice of this site — rather than a prestigious Haussmann boulevard — was a deliberate statement that contemporary art belonged in the city's margins, not its showcase streets."
+score: 9.1
 ---
 
 The Centre Pompidou is one of the most provocative buildings in Paris: its skeleton turned inside out, with colour-coded utility ducts and escalator tubes running up the exterior. When it opened in 1977 the neighbourhood was outraged; now it anchors the lively Beaubourg quarter, and its rooftop terrace offers some of the best free views in Paris.

@@ -9,8 +9,9 @@ tags:
 - beach
 - bar
 title: Let's Sea
-type: Thai
+type: poi
 url: www.letussea.com
+score: 5.2
 ---
 
 It is a well known place to chill and soak in the atmosphere with fine wine and beach cuisine. Enjoy tangy Thai favorites and fresh international flavours with plenty of seafood. Luxury gourmet dining on the beach in Hua Hin. Romantic dining.

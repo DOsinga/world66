@@ -9,8 +9,9 @@ tags:
 - shop
 - market
 title: Auchan Shopping Center
-type: Shopping centers and malls
+type: poi
 url: www.bergamo.gallerieauchan.it
+score: 1.5
 ---
 
 This shopping center is closest to Bergamo Center and has everything: a supermarket, clothes, media, furniture, jewelry, watches and so on.

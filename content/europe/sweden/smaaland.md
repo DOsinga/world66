@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 latitude: 57.25
 longitude: 15.25
 title: Småland
 type: location
 score: 0.49
+loc_type: city
 ---
 
 Småland is the heavily forested province in southern Sweden, roughly 350 km south of [Stockholm](/europe/sweden/stockholm). It is best known as the "Kingdom of Crystal" — some twenty glassworks are scattered through the woods between [Kalmar](/europe/sweden/kalmar) and Växjö, most of them offering free tours and factory shops where you can buy seconds at good prices. Kosta Boda and Orrefors are the famous names, but the smaller workshops are often more interesting to visit.

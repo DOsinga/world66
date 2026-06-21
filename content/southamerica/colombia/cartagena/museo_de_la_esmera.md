@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de la Esmeralda
 type: poi
+score: 5.7
 ---
 
 A compact museum in Cartagena's walled city dedicated to Colombia's emerald industry. The exhibits walk you through the geology of emerald formation, the history of mining in Boyaca province, and the craft of cutting and grading stones. It is run by Caribe Jewelry, so there is a commercial angle — the exit leads through a showroom — but the museum portion itself is genuinely informative and free to enter.

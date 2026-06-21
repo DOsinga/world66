@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: puebla.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_13.JPG
 latitude: 19.0414
+loc_type: city
 longitude: -98.2063
 score: 0.64
 title: Puebla

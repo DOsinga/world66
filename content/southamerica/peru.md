@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-29
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: peru.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/91008793@N00">bobistraveling</a>
 image_license: CC BY 2.0
@@ -13,9 +13,10 @@ quick_facts:
   Altitude Warning: "Cusco is at 3,400 m — acclimatize"
   Potato Varieties: "3,000+ native cultivars"
   Nazca Lines: visible only from the air
-score: 0.49
+score: 0.91
 title: Peru
 type: location
+loc_type: country
 ---
 
 **The Land of the Incas**

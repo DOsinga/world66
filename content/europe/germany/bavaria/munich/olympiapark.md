@@ -6,8 +6,10 @@ snippet: Iconic 1972 Olympic grounds with sweeping tent-roof architecture
 tags:
 - things_to_do
 - landmark
+- sight
 title: Olympiapark
 type: poi
+score: 8.4
 ---
 
 Venue of the 1972 Summer Olympics, Olympiapark remains one of Munich's most striking public spaces. The park is best known for its sweeping acrylic-glass tent roof, designed by Frei Otto and Günter Behnisch, which drapes over the stadium, swimming hall, and sports hall in a single flowing canopy. The design was revolutionary at the time and still looks futuristic.

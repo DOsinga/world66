@@ -8,6 +8,7 @@ tags:
 - bar
 title: Winnies
 type: poi
+score: 6.3
 ---
 
 Half restaurant, half bar — Winnies does good wood-fired pizza in the early evening and turns into a lively bar later on. The retractable roof is the party trick: on warm nights they open it up, which transforms the atmosphere entirely. They run themed nights and it gets busy on weekends. Worth combining dinner and drinks in one stop.

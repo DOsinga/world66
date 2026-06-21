@@ -1,0 +1,12 @@
+---
+latitude: 40.3072
+longitude: -78.9321
+score: 5.4
+snippet: Restaurant at the top of the Inclined Plane with panoramic valley views
+tags:
+- eating_out
+title: Westmont Hilltop Grille
+type: poi
+---
+
+The restaurant at the upper station of the Johnstown Inclined Plane makes the most of its perch on Westmont Hill. The views across the Conemaugh Valley are the main draw — particularly in the evening when the city lights spread out below. The menu covers American standards: steaks, seafood, pasta, sandwiches. Quality is serviceable rather than exceptional, but few places in Johnstown offer this kind of setting. Worth combining with a ride on the incline.

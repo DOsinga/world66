@@ -7,6 +7,7 @@ tags:
 - sight
 title: Camboinhas
 type: poi
+score: 6.3
 ---
 
 A residential beach neighbourhood with calm, sheltered water at the western end where a channel connects to the Itaipu lagoon. The eastern stretch faces open ocean and picks up more swell. Camboinhas is popular with families and has a good selection of beachside kiosks.

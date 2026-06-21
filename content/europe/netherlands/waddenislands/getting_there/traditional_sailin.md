@@ -1,8 +1,8 @@
 ---
-title: "Traditional Sailing ship crossings"
+title: Traditional Sailing ship crossings
 type: poi
-type: "By Sea"
-url: "www.natuurzeiltochten.nl"
+url: www.natuurzeiltochten.nl
+score: 1.2
 ---
 
 More info here soon...

@@ -15,7 +15,8 @@ quick_facts:
   Budget Meal: "~$3–4"
   Lake Ohrid: "1.4 million years old"
   Orthodox Churches: "Over 1,000"
-score: 0.57
+score: 0.60
+loc_type: country
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 
@@ -30,6 +31,6 @@ The capital [Skopje](skopje) was badly damaged by an earthquake in the 1960-ies.
 [Bitola](/europe/macedonia/bitola)
 [Florina](/europe/macedonia/florina)
 [Veles](/europe/macedonia/veles)
-[Plackovica](/europe/macedonia/plackovica)
-[Vardar River](/europe/macedonia/vardarriver)
-[Velestovo](/europe/macedonia/ohrid/velestovo)
+Plackovica
+Vardar River
+Velestovo

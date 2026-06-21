@@ -15,6 +15,7 @@ snippet: "Papal art collection culminating in the Sistine Chapel"
 title: Vatican Museums & Sistine Chapel
 type: poi
 url: www.museivaticani.va
+score: 9.7
 ---
 
 One of the great museum complexes in the world, containing over 20,000 works collected by the papacy over five centuries. The route passes through the Egyptian Museum, the Gallery of Maps, the Raphael Rooms (the papal apartments painted by Raphael between 1508 and 1524), and ends in the Sistine Chapel — Michelangelo's ceiling (1508–12) and Last Judgment (1536–41). The Pinacoteca has paintings by Leonardo, Caravaggio, and Raphael.

@@ -13,6 +13,7 @@ tags:
 title: Galleria Borbonica (Bourbon Tunnel)
 type: poi
 url: www.galleriaborbonica.com
+score: 7.4
 ---
 
 A secret underground passageway commissioned by King Ferdinand II of Bourbon in 1853, originally intended as an escape route from the Palazzo Reale to the barracks. The tunnel was later used as a WWII air-raid shelter and civil defense depot; it now holds an eerie collection of abandoned vehicles, wartime artifacts, and civil defense equipment.

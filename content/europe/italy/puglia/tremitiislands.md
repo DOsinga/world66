@@ -1,15 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
+image: tremitiislands.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Tremiti_1999_-Isola_di_San_Nicola_-_Santa_Maria_a_Mare-_by-RaBoe_001.jpg
 latitude: 42.1148
+loc_type: city
 longitude: 15.487124
+score: 0.65
 title: Tremiti Islands
 type: location
-score: 0.65
 ---
 
 The Tremiti Islands are a tiny archipelago in the Adriatic Sea, about 40km off the Gargano coast of [Puglia](/europe/italy/puglia). There are only three inhabited islands — San Domino, San Nicola, and Capraia — each small enough to cross on foot in under two hours. The landscape is arid limestone broken up by patches of Aleppo pine forest, with dramatic sea cliffs and hidden coves.
 
-Accessible only by ferry or hydrofoil from [Termoli](/europe/italy/molise/termoli) (1 hour) or seasonal services from [Pescara](/europe/italy/abruzzo/pescara) and other Adriatic ports, the islands are a favourite summer weekend escape for Italians. The small beaches can get absolutely packed with day-trippers, but late afternoons and early evenings are the perfect time to enjoy the sunset in relative peace. The sea is clear and excellent for snorkelling.
+Accessible only by ferry or hydrofoil from [Termoli](/europe/italy/molise/termoli) (1 hour) or seasonal services from [Pescara](/europe/italy/abruzzo/pescara) and other Adriatic ports, the islands are a favourite summer weekend escape for Italians. The small beaches can get absolutely packed with day-trippers, but late afternoons and early evenings are the perfect time to enjoy the sunset in relative peace. The sea is clear and excellent for [snorkelling and diving](/europe/italy/puglia/tremitiislands/snorkelling_diving).
 
-San Nicola has the more interesting history — a fortified medieval abbey dominates the island — while San Domino has the better beaches and the only hotel accommodation.
+San Nicola has the more interesting history — the [Abbey of Santa Maria a Mare](/europe/italy/puglia/tremitiislands/abbey_santa_maria) dominates the island with its 9th-century Benedictine foundation and extraordinary medieval mosaic floor — while San Domino has the better beaches, including [Cala delle Arene](/europe/italy/puglia/tremitiislands/cala_delle_arene), and the only hotel accommodation. The [sea caves on San Domino](/europe/italy/puglia/tremitiislands/grotta_del_bue_marino), especially the Grotta del Bue Marino, are best explored by boat or kayak.

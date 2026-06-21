@@ -12,6 +12,7 @@ tags:
 title: Migration Museum
 type: poi
 url: www.history.sa.gov.au
+score: 7.8
 ---
 
 A small but unusually thoughtful museum tucked behind the State Library, telling South Australia's immigration story through the voices of the people who arrived. From the first free settlers in 1836 through to post-war European migration and the contemporary refugee experience. Free entry; the inscribed pavers in Settlement Square outside carry the names of migrant families.

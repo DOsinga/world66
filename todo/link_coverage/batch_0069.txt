@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/lakedistrict/ambleside
+europe/unitedkingdom/england/lancashire/blackpool
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hebden_bridge
+europe/unitedkingdom/england/south_east/seaford
+europe/unitedkingdom/scotland/crail

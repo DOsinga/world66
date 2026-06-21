@@ -1,10 +1,11 @@
 ---
+title: "Kori Wayku Inca Trail"
+type: poi
+tags: [day_trips]
+snippet: "Cliff-carved Inca highway through a wild forested canyon"
 latitude: -16.16
 longitude: -67.75
-tags:
-- day_trips
-title: Kori Wayku Inca Trail
-type: poi
+score: 7.9
 ---
 
 The Kori Wayku river, together with the San Juan, creates the Yolosa river. Its valley is the most attractive in the area — completely forested and wild. The Incas built one of their highways through it, and while parts have been washed away by the river, the surviving stretches are spectacular.

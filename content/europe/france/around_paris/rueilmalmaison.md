@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-11'
+image: rueilmalmaison.jpg
+image_attribution: Moonik
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Malmaison_-_Appartement_de_Jos%C3%A9phine_001.jpg
 latitude: 48.8778
+loc_type: city
 longitude: 2.1803
 title: Rueil-Malmaison
 type: location

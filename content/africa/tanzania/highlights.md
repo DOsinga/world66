@@ -25,7 +25,7 @@ The largest game reserve in Africa (now partially redesignated as Nyerere Nation
 
 ## Ruaha National Park
 
-Tanzania's largest national park, two hours from [Iringa](/africa/tanzania/iringa) on a good road. Often described by regular visitors as the best park in the country — dramatic landscape, very few other tourists, exceptional predator sightings, and huge elephant herds. The Great Ruaha River is the centrepiece. See [Ruaha National Park](/africa/tanzania/ruaha_national_par).
+Tanzania's largest national park, two hours from [Iringa](/africa/tanzania/iringa) on a good road. Often described by regular visitors as the best park in the country — dramatic landscape, very few other tourists, exceptional predator sightings, and huge elephant herds. The Great Ruaha River is the centrepiece. See [Ruaha National Park](/africa/tanzania/ruaha_national_park).
 
 ## Mahale Mountains and Gombe
 

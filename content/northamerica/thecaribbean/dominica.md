@@ -2,8 +2,12 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
+image: dominica.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Epiphyte_air_plant_DOMINICA_5396.jpg
 latitude: 15.415
+loc_type: region
 longitude: -61.371
 score: 0.64
 title: Dominica

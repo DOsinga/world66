@@ -16,7 +16,8 @@ quick_facts:
   Empty Quarter: "Largest sand desert on earth"
 title: Saudi Arabia
 type: location
-score: 0.22
+score: 0.65
+loc_type: country
 ---
 
 *Asia > Saudi Arabia*

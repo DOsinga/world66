@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Fontaine Cantini
 type: poi
+score: 5.4
 ---
 
 Standing in the centre of Place Castellane, the Fontaine Cantini was sculpted entirely from Carrara marble and inaugurated in 1911. The fountain personifies the three chief rivers of Provence -- the Durance, the Rhône, and the Gardon -- together with the Mediterranean, all crowned by an allegory of Marseille. It was donated by Jules Cantini, a marble merchant and patron of the city. The busy roundabout it occupies is a major transit hub, so you'll likely pass it more than once.

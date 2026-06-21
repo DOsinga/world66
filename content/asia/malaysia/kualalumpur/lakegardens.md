@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Lake Gardens
 type: poi
+score: 7.3
 ---
 
 Kuala Lumpur's largest public park, 92 hectares of green space west of the city centre. The centrepiece is Tasik Perdana, a pleasant artificial lake where you can hire paddle boats. Walking paths wind through rolling lawns, rain trees, and flowering shrubs.

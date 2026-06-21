@@ -8,6 +8,7 @@ tags:
 title: Eetcafe Roezemoes
 type: poi
 snippet: "Cosy Dutch eetcafe with live music on Saturday nights"
+score: 4.8
 ---
 
 A neighbourhood eetcafe in the city centre, a short walk from the Grote Markt. The format is straightforwardly Dutch: simple hot meals, cold beers, and a relaxed atmosphere that draws a mix of students and locals. Live music kicks off on Saturday evenings from 10pm, making it a reliable spot to end a night out.

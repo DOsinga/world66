@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: memphis.jpg
+image_attribution: Thomas R Machnitzki (thomas@machnitzki.com)
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:American_Queen_Memphis_TN_2012-04-27_016.jpg
 latitude: 35.146025
+loc_type: city
 longitude: -90.051764
 score: 0.55
 title: Memphis

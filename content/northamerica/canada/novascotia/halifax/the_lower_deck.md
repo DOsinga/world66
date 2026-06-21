@@ -13,6 +13,7 @@ tags:
 title: The Lower Deck
 type: poi
 url: https://www.lowerdeck.ca
+score: 6.2
 ---
 
 The quintessential Halifax pub. Grab a pint of Keith's and listen to live East Coast music in a waterfront warehouse. Touristy, yes, but the atmosphere is genuine and the music is usually excellent.

@@ -3,8 +3,9 @@ tags:
 - eating_out
 - restaurant
 title: Sala Monsoon
-type: Thai
+type: poi
 url: www.putahracsa.com
+score: 4.7
 ---
 
 An all day dining restaurant modern and stylish which offers a relaxed yet

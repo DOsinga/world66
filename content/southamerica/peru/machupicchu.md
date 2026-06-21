@@ -2,36 +2,24 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-05'
   poi_cleanup: '2026-04-20'
 image: machupicchu.jpg
 image_attribution: Martin St-Amant (S23678)
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit3.jpg
 latitude: -13.164341
+loc_type: feature
 longitude: -72.545009
 score: 0.91
 title: Machu Picchu
 type: location
 ---
 
-**Machu Picchu** 
+Machu Picchu is the most visited archaeological site in South America and one of the great human achievements anywhere on earth. Built by the Inca emperor Pachacuti around 1450 CE on a narrow saddle between two mountain peaks, at 2,430 metres above sea level, the citadel was abandoned roughly a hundred years later and remained unknown to the outside world until the American explorer Hiram Bingham reached it in 1911, guided by a local farmer. The photographs he sent back changed the world's understanding of pre-Columbian civilisation overnight.
 
-"The Holy City of the Incas" 
+The site is extraordinary for two reasons simultaneously: its location, on a steep ridge above the Urubamba River gorge with sheer drops on three sides and jungle-covered mountains in every direction; and the quality of its stonework, which has survived nearly six centuries of earthquakes, tropical rains, and vegetation without mortar holding a single block. The largest stones weigh 50 tonnes and were transported up a 2,000-metre mountain without wheels.
 
-"The Lost City" 
+A typical visit follows a one-way circuit through the site, moving from the agricultural terraces at the entrance through the main urban sector — the [Intihuatana](/southamerica/peru/machupicchu/intihuatana) solar calendar, the Temple of the Three Windows, the Sacred Plaza — to the industrial and residential quarters in the lower sections. Above the site, [Huayna Picchu](/southamerica/peru/machupicchu/huayna_picchu) and Machu Picchu Mountain offer elevated viewpoints that reward those with tickets booked well in advance. The [Sun Gate (Inti Punku)](/southamerica/peru/machupicchu/inti_punku) on the old Inca Trail route offers a different angle on the whole site.
 
-**O**ne of the most popular archeological sites of the world, and therefore, the most visited attraction in Peru. The Citadel of Machu Picchu (in Quechua [an Andean language] = Old Mountain) is known throughout the world for its amazing ruins and its unusual location on a high mountain overlooking the mighty currents of the Urubamba river. 
-
-Even today nobody has been able to solve the mystery how the builders and designers managed to transport the huge blocks of limestone to the top of the mountain required for the construction of the city. 
-
-Probably built during the 15th century in a very difficult location, it is the greatest achievement of the Incas architects due to the intelligence and dare demonstrated by their design. It has an extent of 13 sq/km and its main functions were military and religious. It used to be surrounded by an outer wall with a height of 6.00 m. and a width of 1.80 m. and it is estimated that it was inhabited by 10000 people. Built of limestone (the outer and inner walls), wood (doors and frames), and ceilings made of straw. 
-
-Machu Picchu is located 2300 meters above sea level (7546 ft.), at 112 km. (70 miles) from Cusco, in the valley of Urubamba in the lowest part of the Sacred Valley of the Incas in a area of direct access to the upper jungle. Without doubt, Machu Picchu was part of a very big complex of fortresses which defended the Andean lands in Sacred valley of any assault from indian people out of the Jungle. 
-
-Having Huayna Picchu as a background they divided Machu Picchu in four sectors. Northwest is located the area that was probably used for the main religious purposes, that includes a Plaza named by Hiram Bingham as "Sacred Plaza", also the temple of the "Three Windows", "The Sacred Temple", the "Priests Mansion", and the "Intihuatana" that is a large block of limestone used during Inca ceremonies. 
-
-The "Intihuatana" (in Quechua = place where the sun is bonded) is a solar observatory that allowed the Incas to keep track of the seasons of the year and the flow of time based on the shadows caused by the sun over the stone. 
-
-The largest residences are located on the northeast of the complex. The most luxurious residences and also a watch tower are located on the southwest of the complex and therefore it is assumed that this part of the Citadel was probably the heart of all the urban activities. To the southeast of the complex are located the smallest and most humble of the buildings built around very narrow streets, close to numerous terraces constructed for agricultural purposes as denoted by the existence of a very complex aqueduct system in this area. In the lowest part of the terraces is a cementery, where during a search were discovered 135 skeletons and 109 of them were identified as females. This fact has allowed historians and archeologists to believe that Machu Picchu's inhabitants were mostly females that could have been the chosen ones of the Inca, fleeing from Cusco when it was overrun by the Conquerors of Spain and seeking refuge in Machu Picchu that, by the way, was never discovered by the Spaniards. 
-
-The minimum recommended time to visit Machu Picchu is one day.
+Entry to Machu Picchu is strictly controlled: daily visitor limits, timed entry slots, and specific circuit options must all be pre-booked through the official system. Bring your passport; they check it. There are no restaurants inside the site — bring water and a snack. The village of [Aguas Calientes](/southamerica/peru/machupicchu/aguas_calientes) below is where everyone eats, sleeps, and waits for the shuttle buses that climb the 30-minute switchback road to the entrance.

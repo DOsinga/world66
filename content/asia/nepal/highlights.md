@@ -11,6 +11,6 @@ Nepal's appeal is straightforward: extraordinary mountains, ancient cities, and 
 
 **[Pokhara](/asia/nepal/pokhara)** is Nepal's second city and the most pleasant place to spend time that isn't a trek. Fewa Lake, the Annapurna panorama on a clear morning, and a genuinely laid-back café culture make it an easy place to arrive in and stay longer than you planned.
 
-**Chitwan National Park** ([Royal Chitwan](/asia/nepal/royalchitwannationalpark)) in the Terai is a different Nepal entirely — flat, green, and home to one-horned rhinos, Bengal tigers, and gharial crocodiles. Jeep safaris and canoe trips on the Rapti River are the standard approach. [Bardia National Park](/asia/nepal/royal_bardia_natio), further west and less visited, offers better wildlife sightings with fewer crowds.
+**Chitwan National Park** ([Royal Chitwan](/asia/nepal/royalchitwannationalpark)) in the Terai is a different Nepal entirely — flat, green, and home to one-horned rhinos, Bengal tigers, and gharial crocodiles. Jeep safaris and canoe trips on the Rapti River are the standard approach. [Bardia National Park](/asia/nepal/royal_bardia_national_park), further west and less visited, offers better wildlife sightings with fewer crowds.
 
 **[Lumbini](/asia/nepal/lumbini)**, in the western Terai near the Indian border, is the birthplace of the Buddha. The UNESCO-listed sacred garden with Ashoka's pillar and the Mayadevi Temple make it a worthwhile detour if you're heading that direction.

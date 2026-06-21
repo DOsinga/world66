@@ -7,7 +7,8 @@ tags:
 - bar
 - cafe
 title: Den Draak
-type: Gay and Lesbian
+type: poi
+score: 4.7
 ---
 
 Gay and Lesbian cafe near [Cogels Ocylei](/europe/belgium/antwerp/sights/cogelsosylei)profits are going to community projects for gay integration.

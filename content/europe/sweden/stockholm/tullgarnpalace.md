@@ -10,8 +10,11 @@ snippet: Royal summer palace in lakeside forest, one hour from Stockholm
 tags:
 - things_to_do
 - palace
+- sight
+- architecture
 title: Tullgarn Palace
 type: poi
+score: 6.5
 ---
 
 A royal summer palace about 70 kilometres south of Stockholm, set in forested grounds on the shore of Lake Tullgarn. The palace itself is a Baroque-influenced structure that was remodelled in the early 20th century and served as a summer retreat for King Gustav V, who spent the last decades of his life here. The interiors are preserved largely as he left them.

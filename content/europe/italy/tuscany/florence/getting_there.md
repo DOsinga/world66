@@ -1,14 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Florence, a city with a population of around half a million inhabitants, spreads on the banks of the Arno, between the Adriatic and the Tyrrhenian seas, almost in the middle of the Italian peninsula. It is a city which bustles with industry and craft, commerce and culture, art and science. Being on the main national railway lines, it is easily accessible from most important places both in Italy and abroad.
+Florence is on the main Italian high-speed rail corridor: Rome is 1 hour 20 minutes on the Frecciarossa (trains every 30 minutes), Milan is 1 hour 45 minutes, Venice 2 hours. Florence Santa Maria Novella station is in the centre of the city; there's also Firenze Campo di Marte station for some services.
 
+Amerigo Vespucci Airport (FLR) is 4 km from the city centre — much closer than Rome or Milan airports — with direct connections to most European hubs. A fast tram (T2) connects airport to city centre in 20 minutes. From Bologna by road is 100 km; from Rome 275 km.
 
- 
- The Amerigo Vespucci airport (Florence), where both national and international airlines stop, is located 5 kilometres from the city centre.
-
-
- 
- The main motorway (A1) connects Florence with Bologna and Milano in the North and Rome and Naples in the South. The motorway to the sea (Autostrada del Mare) joins it to Prato, Pistoia, Montecatini, Lucca, Pisa and all the resorts on the Tyrrhenian sea. There is also the Superstrada (a dual-carriageway) which connects Florence to Siena.
+For routes from northern Europe, the overnight Nightjet train from Vienna and Paris is bookable and saves a hotel night.

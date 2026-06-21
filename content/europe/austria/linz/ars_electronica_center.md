@@ -12,6 +12,7 @@ tags:
 - museum
 title: Ars Electronica Center
 type: poi
+score: 8.5
 ---
 
 A museum of digital culture and technology on the north bank of the Danube, facing the old town across the water. The building itself is striking — a glass and steel box that lights up at night with programmable LED panels. Inside, the permanent collection covers robotics, artificial intelligence, and interactive media art, with a strong emphasis on hands-on exhibits. The centre grew out of the Ars Electronica festival, which has run annually since 1979 and remains one of the more serious international gatherings for media art. The rooftop terrace has good views along the river.

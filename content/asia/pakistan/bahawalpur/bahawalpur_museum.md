@@ -8,6 +8,7 @@ tags:
 - museum
 title: Bahawalpur Museum
 type: poi
+score: 6.9
 ---
 
 The main civic museum, housing artefacts from Harappan sites in the Cholistan, Islamic art, Quranic manuscripts, coins, and a gallery dedicated to the distinctive crafts of the Cholistan Desert — camel-hair weavings, embroidered cloth, and pottery. Located near the central library.

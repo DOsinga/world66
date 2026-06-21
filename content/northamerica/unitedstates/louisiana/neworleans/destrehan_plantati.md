@@ -9,6 +9,7 @@ tags:
 title: Destrehan Plantation
 type: poi
 url: www.destrehanplantation.org
+score: 7.5
 ---
 
 Built in 1787, Destrehan is the oldest documented plantation house in the lower Mississippi Valley, sitting about 23 miles upriver from New Orleans along River Road. The French Colonial and Greek Revival architecture survived the Civil War largely intact, and the 45-minute guided tours do a good job covering both the grandeur and the grim realities of the enslaved people who built and sustained the place.

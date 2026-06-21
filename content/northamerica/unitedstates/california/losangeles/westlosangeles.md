@@ -1,14 +1,17 @@
 ---
 title: West Los Angeles
-type: location
+type: neighbourhood
 latitude: 34.037
 longitude: -118.4298
 done:
   location_cleanup: 2026-04-06
 score: 0.44
+tags:
+- neighbourhood
+- things_to_do
 ---
 
-West Los Angeles sits between the 405 freeway and [Santa Monica](/northamerica/unitedstates/california/losangeles/santamonica), south of Westwood and the UCLA campus. It is one of those LA neighbourhoods that most visitors drive through without realising it is a destination in its own right. That is a mistake.
+West Los Angeles sits between the 405 freeway and [Santa Monica](/northamerica/unitedstates/california/santamonica), south of Westwood and the UCLA campus. It is one of those LA neighbourhoods that most visitors drive through without realising it is a destination in its own right. That is a mistake.
 
 The main draw is Sawtelle Japantown, a stretch of Sawtelle Boulevard between Olympic and Santa Monica Boulevards lined with Japanese restaurants, ramen shops, mochi stores, and Asian grocery markets. It is less polished than Little Tokyo downtown and better for it -- the food is excellent and the crowds are mostly local. On any given evening you will find lines outside Tsujita for their tsukemen or Kiriko for omakase sushi.
 

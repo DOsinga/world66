@@ -10,6 +10,7 @@ longitude: -120.5015
 score: 0.67
 title: Washington
 type: location
+loc_type: region
 ---
 
 Washington state occupies the northwest corner of the continental United States, with the Pacific Ocean to the west, Oregon to the south, Idaho to the east, and Canada to the north. It is a state of dramatic contrasts: the rainy, mountainous coast and the wet Puget Sound lowlands to the west; the dry, sunny Columbia Plateau to the east; and the volcanic Cascade Range dividing them, with Mount Rainier (4,392m) dominating the skyline.

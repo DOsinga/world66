@@ -11,6 +11,7 @@ tags:
 title: Hyde Park
 type: poi
 url: www.royalparks.org.uk/parks/hyde-park
+score: 8.2
 ---
 
 Hyde Park and the adjoining Kensington Gardens together form a 250-hectare expanse of green in the middle of the city — the largest of the central royal parks. On a summer afternoon it fills with sunbathers, cyclists, joggers, and open-water swimmers in the Serpentine Lido.

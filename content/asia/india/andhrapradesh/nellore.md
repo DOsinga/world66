@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-13'
+  poi_cleanup: '2026-04-21'
 image: nellore.jpg
 image_attribution: IM3847
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_under_construction_on_Penna_river_near_Nellore_(May_2019)_1.jpg
 latitude: 14.449372
+loc_type: city
 longitude: 79.987376
 score: 0.3
 title: Nellore

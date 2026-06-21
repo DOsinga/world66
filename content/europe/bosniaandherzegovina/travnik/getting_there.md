@@ -3,17 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Travnik is located on the main regional road M5 (Lasva - Busovaca- Vitez- Travnik- Donji Vakuf) and it is well connected with other regional roads.
+Travnik sits on the main road corridor through central Bosnia — the E661 running between [Sarajevo](/europe/bosniaandherzegovina/sarajevo) (90 km southeast) and [Jajce](/europe/bosniaandherzegovina/jajce) (46 km northwest). The town is an easy stop on the journey between the two.
 
-By plane
+**By bus:** Regular buses run between Sarajevo and Travnik, with several departures daily in each direction. Journey time is about 1.5 hours. Buses also connect from Jajce and other towns in the region.
 
-The closest airport is one in Sarajevo approx. 90 km from Travnik or 60 minutes driving by bus. All information regarding flight schedules you can get on phone : +387 33 289 100 or +387 33 234 841.
+**By car:** From Sarajevo, follow the E762 motorway northwest and then the E73 and E661 into Travnik. The drive takes about 1.5 hours depending on traffic through the Lašva Valley.
 
-By car
-
-Departing from Sarajevo follow road E 762 then E 73 and on the end E 661 . Departing from Jajce follow road 661 . Jajce - Travnik is 78 km or approximately. one hour driving.
-
-By bus
-
-A Sarajevo-Travnik , return ticket cost 19 KM and there are 11 busses during the day at: 09:15; 10:00; 13:00; 13:30; 14:15; 15:00; 15:30; 16:10; 17:30; 19:00 and 22:00
-Buses go from Jajce to Travnik every day at: 07:00; 08:15; 09:15; 10:15; 13:45; 15:15; 16:00 and 18:00. A one-way ticket cost between 7 and 11 KM, depending on the bus company.
+The nearest airport is Sarajevo International (SJJ), about 90 km away. There is no train service to Travnik.

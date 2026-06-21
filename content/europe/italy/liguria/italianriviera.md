@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: italianriviera.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Port_-_Lerici,_La_Spezia,_Italy_-_August_16,_2020.jpg
 latitude: 44.14828
+loc_type: region
 longitude: 8.271494
 score: 0.74
 title: Italian Riviera

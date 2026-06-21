@@ -8,7 +8,8 @@ tags:
 - restaurant
 - tower
 title: Coco's
-type: Seafood
+type: poi
+score: 5.5
 ---
 
 ****An excellent restaurant mainly featuring seafood. Also with an excellent Roasted Pig.

@@ -6,6 +6,7 @@ longitude: -25.473137
 score: 0.74
 title: São Miguel
 type: location
+loc_type: region
 ---
 
 São Miguel is the largest of the Azores and the one most travellers visit first. Locals call it Ilha Verde — the Green Island — and the name fits: rolling pastures, forests of cryptomeria and eucalyptus, and roadside walls of hydrangeas that bloom blue and pink in summer. It is also the most varied of the islands, packing crater lakes, hot springs, sea cliffs, tea plantations, and a handsome port town into a strip 67 km long.

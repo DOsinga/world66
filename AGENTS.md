@@ -24,7 +24,9 @@ python3 manage.py runserver 8066
 
 ## Content structure
 
-`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections, sections contain individual points of interest.
+`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections.
+
+**POIs always live flat in the city directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same city folder, not inside an `eating_out/` subfolder.
 
 ### Images
 
@@ -48,6 +50,7 @@ Read these before writing or editing content:
 - **[LOCATIONS.md](LOCATIONS.md)** — how city/location pages should be structured: section ordering, the `things_to_do` tag-based filter approach, curated itineraries, coordinates, day trips
 
 These documents are the source of truth for their respective content types. If this file and a type-specific doc disagree, the type-specific doc wins.
+The style guide and the tag system from LOCATIONS.md are especially important.
 
 ## The todo system
 

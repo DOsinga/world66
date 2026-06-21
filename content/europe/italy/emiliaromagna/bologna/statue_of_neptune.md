@@ -8,6 +8,7 @@ tags:
 - sight
 title: Statue of Neptune
 type: poi
+score: 7.4
 ---
 
 The Fontana del Nettuno is one of Bologna's defining landmarks, planted in the piazza that takes its name. Giambologna sculpted the muscular Neptune in 1567 on a commission from Pope Pius IV, and the figure's confident stance — trident raised, one foot forward — has been a symbol of the city ever since. Four mermaids at the base squeeze water from their breasts into the basin below, a detail that caused scandal at the time and still draws smiles.

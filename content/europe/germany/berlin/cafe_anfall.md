@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Café Anfall
 type: poi
+score: 6.0
 ---
 
 A Kreuzberg institution with over a decade of odd evenings behind it. Themed parties on Thursdays, changing DJs on weekends, and the kind of relaxed atmosphere where conversations with strangers happen naturally. Late nights only.

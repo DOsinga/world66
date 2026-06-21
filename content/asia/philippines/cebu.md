@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: cebu.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak,_Cebu,_Philippines.jpg
 latitude: 10.47
+loc_type: region
 longitude: 123.83
 score: 0.66
 title: Cebu

@@ -6,6 +6,7 @@ longitude: 9.518176
 title: Rio Muni
 type: location
 score: 0.27
+loc_type: region
 ---
 
 Rio Muni is the mainland portion of Equatorial Guinea, and one of the least-visited corners of Africa. Getting here takes a bit of an explorer's spirit — infrastructure is sparse, roads are rough, and tourist facilities are almost nonexistent. But that is precisely the appeal for those who do make the trip.

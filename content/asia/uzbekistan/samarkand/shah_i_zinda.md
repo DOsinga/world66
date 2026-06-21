@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Shah-i-Zinda
 type: poi
+score: 9.6
 ---
 
 A necropolis climbing a steep hillside, with over twenty mausoleums lining a narrow lane. The tile work here is the finest in Samarkand — deep blues, turquoises, and golds in geometric and floral patterns that date from the 11th to the 15th century. Each mausoleum is different and worth pausing at. The complex is an active pilgrimage site, so you will share the path with Uzbek families as well as tourists.

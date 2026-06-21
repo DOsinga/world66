@@ -6,8 +6,9 @@ phone: '+632.8893963'
 tags:
 - eating_out
 title: L'Opera
-type: Italian
+type: poi
 url: www.loperagroup.com
+score: 5.6
 ---
 
 Patrons dine on fresh homemade pasta, lobster, carpaccio, veal, duck-filled ravioli, an impressive array of italian cheeses and a staggering collections of wine that would compete with some of the best enoteca bars in town. Regional Tuscan cuisine at its best in Manila.

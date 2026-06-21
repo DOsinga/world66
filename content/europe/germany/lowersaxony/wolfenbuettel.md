@@ -1,13 +1,13 @@
 ---
-latitude: 52.162528
-longitude: 10.534821
-score: 0.43
 title: Wolfenbüttel
 type: location
+loc_type: city
+latitude: 52.1638
+longitude: 10.5375
 ---
 
-Wolfenbüttel is one of those German towns that somehow escaped both wartime destruction and postwar neglect, leaving it with one of the best-preserved collections of half-timbered houses in northern Germany. Over 600 Fachwerk buildings line the streets of the old town, many dating back to the sixteenth and seventeenth centuries, and the overall effect is almost absurdly picturesque. It sits just south of Braunschweig and makes for an easy day trip.
+Wolfenbüttel is a small town in Lower Saxony, about 12 kilometres south of Braunschweig, best known for two things: one of the finest research libraries in the world, and being the home of Jägermeister. The combination is unusual but somehow fitting — this is a place that takes its intellectual heritage and its herbal liqueur with equal seriousness.
 
-The Herzog August Bibliothek is the town's intellectual crown jewel. Founded in 1572, it was once the largest library in Europe and held what was then considered the most expensive book in the world, the Gospels of Henry the Lion. Leibniz and Lessing both served as librarians here, which gives you a sense of the caliber. The library still functions as a major research institution, and its reading room and exhibitions are open to visitors.
+The [Herzog August Bibliothek](/europe/germany/lowersaxony/wolfenbuettel/herzog_august_bibliothek) is the town's defining institution. Founded in the 17th century, it was for a time the largest library in the world and contains one of the most important collections of medieval manuscripts in existence, including the Gospels of Henry the Lion — a 12th-century illuminated manuscript of extraordinary beauty. Gottfried Wilhelm Leibniz worked here as librarian from 1691 to 1716; Gotthold Ephraim Lessing, the Enlightenment playwright and religious philosopher, served as librarian from 1770 until his death in 1781 and lived in the [Lessing-Haus](/europe/germany/lowersaxony/wolfenbuettel/lessing_haus) on the adjacent square.
 
-Wolfenbüttel is also, improbably, the birthplace of Jägermeister. The Mast-Jägermeister headquarters is here, though do not expect a distillery tour on the scale of Scottish whisky country. The town's castle, Schloss Wolfenbüttel, is a handsome Renaissance affair housing a local history museum, and the Little Venice district along the Oker river is ideal for a quiet wander. For a small town, Wolfenbüttel packs in a surprising amount.
+The old town is remarkably well preserved — Wolfenbüttel escaped serious World War II bombing — with half-timbered houses lining the streets around the [Stadtmarkt](/europe/germany/lowersaxony/wolfenbuettel/stadtmarkt), the [Marienkirche](/europe/germany/lowersaxony/wolfenbuettel/marienkirche), and the ducal [Schloss Wolfenbüttel](/europe/germany/lowersaxony/wolfenbuettel/schloss_wolfenbuettel). The [Kleines Venedig](/europe/germany/lowersaxony/wolfenbuettel/kleines_venedig) — "Little Venice" — is a district of canal-side half-timbered houses. The [Jägermeister visitor centre](/europe/germany/lowersaxony/wolfenbuettel/jaegermeister_visitor_centre) at the distillery explains the production of the 56-herb liqueur that has made this town's name familiar in bars across the world.

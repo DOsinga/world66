@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: ribe.jpg
+image_attribution: Arne Müseler
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Denmark_ribe_church.jpg
 latitude: 55.328404
+loc_type: city
 longitude: 8.764784
 score: 0.56
 title: Ribe

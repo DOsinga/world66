@@ -15,7 +15,8 @@ quick_facts:
   Ice Sheet Coverage: "~80% of the island"
   World's Largest Island: "836,000 square miles"
   Population Density: "0.03 people per km² (Earth's lowest)"
-score: 0.49
+score: 0.69
+loc_type: country
 ---
 
 Greenland is the world's largest island — 836,000 square miles of ice cap, fjords, and tundra, with a coastline longer than the earth's circumference. About 80% of the island is covered by a permanent ice sheet. The roughly 56,000 people who live here are concentrated along the southwest coast, in small towns connected not by roads but by air and sea.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: New Afrika Shrine
 type: poi
+score: 8.7
 ---
 
 The open-air club in Ikeja run by Femi and Yeni Kuti in honour of their father Fela, the creator of Afrobeat. Femi plays here Sundays, Yeni's band plays throughout the week. One of the best places on the continent to see live music. Cheap entry, late nights.

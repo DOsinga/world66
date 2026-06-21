@@ -11,6 +11,7 @@ tags:
 - charlottenburg
 title: Bücherbogen
 type: poi
+score: 7.2
 ---
 
 Bücherbogen occupies a series of arches under the Stadtbahn elevated railway at Savignyplatz, with beautiful illustrated books on architecture, visual arts, film, design, and fashion. The selection is serious without being intimidating, and browsing here is a pleasure. A secondhand companion shop around the corner at Knesebeckstrasse 27 is good for out-of-print finds.

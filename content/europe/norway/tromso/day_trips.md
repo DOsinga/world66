@@ -3,18 +3,10 @@ title: "Day Trips"
 type: section
 ---
 
-**The Mountain Cable Car ("Fjellheisen")** 
+**Kvaløya** — the large island connected to Tromsøya by the Sandnessund Bridge — offers the best day-trip scenery in the area. The drive west along the coastal road passes fishing villages, fjords, and open mountain terrain. Håkøya, where the German battleship Tirpitz was sunk by RAF bombers on 12 November 1944, is accessible from the island; the wreck is not visible from shore but the bay is marked. The Kaldfjord and Ersfjord areas offer good walking and dramatic coastal views.
 
-This getaway has been a popular attraction for locals and visitors alike since it opened in 1961. The Base Station is located near the mainland bridgehead, just a few minutes from the Arctic Cathedral. It is a short drive or bus ride from downtown, or a scenic 30 minute walk across the Tromsø bridge. 
+**Senjahopen and Senja Island**, about two hours south by road, is one of Norway's most scenic drives — a rugged island of steep peaks and fishing villages that has become better known in recent years but remains far less crowded than the Lofoten. A full day allows a circuit of the western coast.
 
-In 5 short minutes, the funicular ascends 420 meters to the top of **Storsteinen **(literally, "the Big Rock"). The mountain station (which burned to the ground in the 1980s, but was later rebuilt) offers magnificent views of the city and the surrounding sounds, fjords and islands. You may seek out additional vantage points by walking along the ridge from the station (beware of steep drops, in places without a fence--walk away from the edge if you're not too sure on your feet). The mountain station offers drinks and refreshments, as well as tasty local dishes. You may occasionally see a "Lavo," the traditional Lappish tent, near the mountain station, selling handmade jewelry and crafts. 
+**Northern Lights tours** in winter (November to March) typically drive east or south of the city on nights when the forecast is clear, chasing gaps in the cloud cover. Most tour operators based in Tromsø offer pick-up from central hotels. The tours run late — departure is typically 9pm or later — and last three to four hours.
 
-From the Mountain Station, you may hike or mountain bike to higher elevations (or bike down the mountain for a thrill ride). Even in summer you will occasionally encounter snow, at least in patches. Before embarking on a long hike, check with the staff for the last cable car of the day. Hours of operation are quite extensive in the summer (many come here at midnight to see the Midnight Sun), but in winter, operation may be limited, especially in severe weather. 
-
-Local **Hanggliding** enthusiasts can be spotted most of the summer, as they use the ridge next to the Mountain Cable Car as their launch point for flights down to the city.
-
-**all**
-
-**Whale Island - Kvaløya **
-
-The island of Tromsø is dwarfed by its neighbor, **Kvaløya**, which at 737 square km is among the largest in Norway. A bridge over the *Sandnes* sound connects the two islands. Immediately across the bridge a small suburb now greets you, but less than 15 minut [more..](/europe/norway/tromso/day_trips/whale_island__kva)
+**Dog sledding** is available at several outfits in the mountains east of the city, with half-day and full-day excursions running from December to April.

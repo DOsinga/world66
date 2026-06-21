@@ -3,14 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-** By air:**
+**By air:** Dublin Airport is 12 km north of the city centre. The **Airlink 747 and 757 buses** run directly to the city centre (O'Connell Street, Connolly and Heuston stations) and are the cheapest option — around €8, journey time 35–50 minutes depending on traffic. Taxis cost around €30–35 to the city centre. Dublin has direct flights from most European cities and transatlantic connections from New York, Boston, Chicago, and Los Angeles.
 
- Europe's main airports all have direct flights to Dublin Airport, and even transatlantic flights from Los Angeles and New York fly into Dublin. Dublin Airport is about 12km north from the city center. A ride to the city center in a taxicab will cost you about £14.00. The bus service will cost you £1.15, unless you use the special airport shuttle, which is slightly more expensive but saves you a quarter of an hour on a trip of about 45 minutes.
+**By rail:** Irish Rail services to the rest of Ireland depart from two stations. **Connolly Station** (north inner city, on the Luas Red Line) handles trains to Belfast, Sligo, Westport, and the east coast. **Heuston Station** (west of the centre, Luas Red Line) handles trains to Cork, Limerick, Galway, Waterford, and the south and west.
 
-  **Trains:**
-
- Trains operate countrywide to all parts of Ireland. Train departures are from Connolly and Heuston Train Stations. Visitors traveling from the south and west will arrive at Heuston Station, from where it is a short ride into the center by bus or taxi. Those arriving from the north, north west , and also from the south east, will arrive at Connolly Station, which is a short walk from O'Connell Street.
-
-  **By car:**
-
- Dublin is very easily reached by car, when you've got used to driving on the left. Probably not all, but most of the bigger roads lead to, or at least refer to, Dublin. The don't refer to the parking problem in Dublin itself. You might consider leaving your car outside the city center and exploring Dublin on foot. Since the center is not that big, this is probably the best way anyway
+**By ferry:** Ferries from Holyhead in Wales arrive at **Dublin Port** (served by Irish Ferries and Stena Line). The crossing takes about 2 hours by fast ferry, 3.5 hours by regular ferry. Ferries from Liverpool and Douglas (Isle of Man) arrive at **Dublin Port** and **Dún Laoghaire** respectively.

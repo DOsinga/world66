@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Bolshoi Theatre
 type: poi
+score: 9.0
 ---
 
 The Bolshoi is Russia's most famous performing arts venue and one of the great theatres of the world. The neoclassical building on Teatralnaya Square — topped by the bronze quadriga of Apollo — has staged opera and ballet since 1825. After a major restoration completed in 2011, both the main stage and the acoustics were returned to their 19th-century quality.

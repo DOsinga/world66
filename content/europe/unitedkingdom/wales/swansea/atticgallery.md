@@ -10,6 +10,7 @@ tags:
 - museum
 title: Attic Gallery
 type: poi
+score: 5.7
 ---
 
 A small commercial gallery in the Maritime Quarter showing and selling work by established contemporary Welsh artists. Worth a quick look alongside a visit to the nearby museums.

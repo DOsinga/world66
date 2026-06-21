@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-16'
 latitude: 33.591545
+loc_type: city
 longitude: 73.053721
+score: 0.31
 title: Rawalpindi
 type: location
-score: 0.31
 ---
 
 Pindi, as Rawalpindi is referred to by most travelers, is quite different from its twin sister Islamabad. Where Islamabad is modern and clean, Pindi is old and pretty dirty, but also a lot of fun.

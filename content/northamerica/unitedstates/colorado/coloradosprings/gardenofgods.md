@@ -6,6 +6,7 @@ longitude: -104.8863
 title: Garden of the Gods
 type: location
 score: 0.7
+loc_type: feature
 ---
 
 Garden of the Gods is a public park of dramatic red sandstone formations rising from the foothills at the western edge of [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). The towering rocks — some over 300 feet tall — glow red and orange against the blue sky and the snow-capped backdrop of Pikes Peak. Admission is free, and the park is open year-round.

@@ -1,8 +1,13 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-06-04'
+  poi_cleanup: '2026-04-20'
+image: kanchanaburi.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kanchanaburi_city_gate.JPG
 latitude: 14.0019
+loc_type: city
 longitude: 99.5319
 score: 0.64
 title: Kanchanaburi

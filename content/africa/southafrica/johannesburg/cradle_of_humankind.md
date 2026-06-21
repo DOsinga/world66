@@ -8,6 +8,7 @@ tags:
 title: Cradle of Humankind
 type: poi
 url: maropeng.co.za
+score: 9.3
 ---
 
 A UNESCO World Heritage Site covering the limestone cave system north-west of Johannesburg that has produced more hominid fossils than anywhere else on Earth — around 40% of the world's total, including *Australopithecus* "Mrs. Ples" and *Homo naledi*. The visitor experience centres on the **Maropeng** museum (an outstanding introduction to human evolution, aimed at general visitors) and the **Sterkfontein Caves** next door, where many of the fossils were dug up. About an hour's drive from Joburg; makes a good half-day excursion.

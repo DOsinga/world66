@@ -10,6 +10,7 @@ tags:
 - mosque
 title: Jumeirah Mosque
 type: poi
+score: 7.8
 ---
 
 One of Dubai's most photographed landmarks, the Jumeirah Mosque was built in the Fatimid tradition and is considered among the finest examples of Islamic architecture in the UAE. The white stone structure is particularly striking at dusk when it is illuminated against the sky.

@@ -6,6 +6,7 @@ longitude: 11.32
 done:
   location_cleanup: 2026-04-07
 score: 0.73
+loc_type: region
 ---
 
 Chianti is the rolling hill country between [Florence](/europe/italy/tuscany/florence) and [Siena](/europe/italy/tuscany/siena), a landscape of vineyards, olive groves, stone farmhouses, and cypress-lined roads that has come to define the Tuscan postcard. It is also one of Italy's great wine regions — Chianti Classico, the heart of the appellation, produces some of the country's finest reds.

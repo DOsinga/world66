@@ -3,8 +3,9 @@ phone: +31(0)222-369600 (can be reached 24 hours a day)
 tags:
 - getting_there
 title: Ferry Den Helder harbour <> Texel island
-type: By Sea
+type: poi
 url: www.teso.nl
+score: 6.0
 ---
 
 Departure/timetable and tariff information for the ferry [Den Helder](/europe/netherlands/denhelder) harbour-Texel island.

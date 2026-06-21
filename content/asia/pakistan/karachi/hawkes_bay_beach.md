@@ -7,6 +7,7 @@ tags:
 - beach
 title: Hawke's Bay Beach
 type: poi
+score: 7.2
 ---
 
 A sandy beach west of the city, quieter than Clifton and popular for swimming, picnicking, and camel riding. One of the few beaches in the world where green sea turtles come to nest, with nesting season in autumn and early winter monitored by wildlife authorities.

@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Il Pianone
-type: Local
+type: poi
 url: www.bergamoalta.it
+score: 6.5
 ---
 
 Local Italian food is served in characteristic dining halls or on the splendid panoramic veranda of this tranquil restaurant on the hills of Upper Bergamo. The building dates address: Via al Pianone 21, Castagneta, Bergamo

@@ -11,6 +11,7 @@ tags:
 - bar
 title: Temptation
 type: poi
+score: 4.9
 ---
 
 A late-night bar on Allenby Street that keeps going until at least 5 a.m. most nights. Live DJs play every evening, and Sunday is ladies' night. They make their own house liqueurs, which are worth trying. A reliable spot for meeting locals and dancing into the small hours.

@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Spago
-type: American
+type: poi
 url: www.wolfgangpuck.com
+score: 6.9
 ---
 
 Spago is part of the Woflgang Puck restaurant empire, and to many this is Wolfgang Puck's finest Las Vegas restaurant. Spago features American fare with a global flair. The menu features everything from USDA Prime Nebraska Corn Fed Cote de Boeuf to signature pizzas. Spago also has an impressive wine list and one of the most popular bars on the Strip. Spago is located in the Forum Shops at Caesars. Open until 10:00 p.m. nightly.

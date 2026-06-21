@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-13'
 latitude: 20.45
+loc_type: city
 longitude: -13.1
+score: 0.18
 title: Amogar
 type: location
-score: 0.18
 ---
 
 The Amogjar Pass is the dramatic mountain road connecting [Atar](/africa/mauritania/atar) to [Chinguetti](/africa/mauritania/chinguetti), cutting through the Adrar Plateau in central [Mauritania](/africa/mauritania). The pass itself is one of the most scenic stretches of road in the country, winding through rocky gorges and across a stark, beautiful landscape of sandstone cliffs and desert scrub.

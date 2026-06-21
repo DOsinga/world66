@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: "@mosphere Restaurant"
 type: poi
+score: 4.6
 ---
 
 A revolving restaurant on the 18th floor of Borneo's tallest building, @mosphere does a slow 360-degree rotation giving views across the city, the South China Sea, and the Crocker Range. The menu covers Pacific Rim cuisine and Malay dishes. Open for lunch, afternoon tea, and dinner daily.

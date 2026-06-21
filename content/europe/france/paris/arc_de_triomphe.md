@@ -8,9 +8,18 @@ snippet: Napoleon's triumphal arch with panoramic views over twelve converging a
 tags:
 - things_to_do
 - landmark
+- sight
 title: Arc de Triomphe
 type: poi
+story: >
+  Napoleon never passed through his own arch in triumph. He commissioned it
+  in 1806 after Austerlitz, but construction was slow and the arch was only
+  completed in 1836, fifteen years after his death on Saint Helena. When his
+  remains were brought back to Paris in 1840, the funeral cortège was
+  ceremonially routed through the completed arch — the only time Napoleon
+  ever passed beneath it.
 url: www.paris-arc-de-triomphe.fr
+score: 8.9
 ---
 
 Napoleon commissioned the Arc de Triomphe in 1806 to honour his Grand Army, but he never saw it completed — construction took thirty years. The arch stands 50 metres high at the centre of Place Charles de Gaulle, where twelve grand avenues converge in a star pattern that remains one of the most dramatic pieces of urban planning in any European city.

@@ -16,6 +16,7 @@ tags:
 - historic_building
 title: Hawkshead Grammar School
 type: poi
+score: 7.5
 ---
 
 Founded in 1585 by the Archbishop of York, the grammar school educated William Wordsworth from age nine to seventeen. The original schoolroom survives intact, with rows of carved wooden desks and a small museum about Wordsworth's schooldays and the history of education in the Lakes.

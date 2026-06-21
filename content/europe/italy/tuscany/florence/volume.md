@@ -12,9 +12,9 @@ tags:
 - bars_and_cafes
 - bar
 - square
-- neighbourhood
 title: Volume
 type: poi
+score: 6.5
 ---
 
 A laid-back bookshop-bar right on Piazza Santo Spirito, recommended for ending the evening with a classic Negroni at a piazza-side table. One of the best aperitivo spots in the Oltrarno — unpretentious, full of locals, and open late. The book collection (mostly Italian, some English) lines the walls and is browsable if you arrive early.

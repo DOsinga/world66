@@ -2,10 +2,11 @@
 address: Plateia Agiou Georgiou, Thessaloniki
 latitude: 40.6332
 longitude: 22.9533
+score: 9.0
+snippet: Roman-era cylindrical monument with stunning mosaics
 tags:
 - things_to_do
 - landmark
-snippet: Roman-era cylindrical monument with stunning mosaics
 title: Rotunda
 type: poi
 ---

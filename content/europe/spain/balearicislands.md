@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: balearicislands.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:ConsolatdeMar2.jpg
 latitude: 39.613432
+loc_type: region
 longitude: 2.882919
 score: 0.71
 title: Balearic islands
@@ -17,7 +21,7 @@ The Balearic Islands are an autonomous province of Spain about 100km off the eas
 [Santa Eulalia](/europe/spain/balearicislands/ibiza/santaeulalia)
 [San Antonio Abad](/europe/spain/balearicislands/ibiza/sanantonioabad)
 [Puerto de Soller](/europe/spain/balearicislands/mallorca/puertodesoller)
-[Palma](/europe/spain/balearicislands/mallorca/palma_1)
+[Palma](/europe/spain/balearicislands/mallorca/palma1)
 [Puerto de Alcudia](/europe/spain/balearicislands/mallorca/puertodealcudia)
 [Porto Cristo](/europe/spain/balearicislands/mallorca/portocristo)
 [Menorca](/europe/spain/balearicislands/menorca)

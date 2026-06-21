@@ -7,6 +7,7 @@ tags:
 - market
 title: Swansea Market
 type: poi
+score: 8.1
 ---
 
 The largest indoor market in Wales, Swansea Market has traded continuously since 1897. The current building dates from the 1960s rebuild after wartime bombing, but the atmosphere inside is old-school: over 100 stalls selling everything from fresh cockles to vinyl records.

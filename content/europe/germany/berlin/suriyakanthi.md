@@ -12,6 +12,7 @@ tags:
 - prenzlauerberg
 title: Suriya Kanthi
 type: poi
+score: 6.3
 ---
 
 A Sri Lankan restaurant that has been feeding the Prenzlauer Berg crowd for many years, which in itself says something. The menu runs through rice and curry combinations, hoppers, and various vegetable dishes — much of it suitable for vegetarians. The portions are generous, the prices are low for the area, and the atmosphere is reliably unpretentious. It gets busy on weekends; arriving early helps.

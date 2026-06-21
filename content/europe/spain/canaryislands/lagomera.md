@@ -1,11 +1,12 @@
 ---
-title: La Gomera
-type: location
-latitude: 28.119236
-longitude: -17.225747
 done:
   location_cleanup: 2026-04-07
+latitude: 28.119236
+loc_type: region
+longitude: -17.225747
 score: 0.63
+title: La Gomera
+type: location
 ---
 
 **An Ecological Paradise** 
@@ -22,4 +23,4 @@ Valle Gran Rey has been for some years the center for an alternative tourism com
 
 ## Destinations in La Gomera
 
-[Valle Gran Rey](/world/europe/spain/canaryislands/lagomera/vallegranrey)
+Valle Gran Rey

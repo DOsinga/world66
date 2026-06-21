@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: pyrenees.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Central_pyrenees.jpg
 latitude: 42.95
+loc_type: region
 longitude: 0.15
 score: 0.69
 title: Pyrenees

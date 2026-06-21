@@ -2,11 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
 image: sangimignano.jpg
 image_attribution: Ingo Mehling
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:San_Gimignano_-_View_-_1.jpg
 latitude: 43.467799
+loc_type: city
 longitude: 11.043211
 score: 0.77
 title: San Gimignano

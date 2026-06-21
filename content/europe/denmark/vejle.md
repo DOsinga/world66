@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-11'
 image: vejle.jpg
 image_attribution: Privat fotograf
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Bryggen_i_Vejle.JPG
 latitude: 55.707931
+loc_type: city
 longitude: 9.532942
 score: 0.48
 title: Vejle

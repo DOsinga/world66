@@ -6,6 +6,7 @@ longitude: 4.4862
 tags:
 - things_to_do
 - sight
+score: 8.8
 ---
 
 One of the oldest botanical gardens in the world, planted in 1590 as a teaching garden for the university's medical students — at a time when botany was essentially pharmacology. The garden has grown steadily since, and now holds over 10,000 plant species across outdoor beds, greenhouses, and a Japanese garden.

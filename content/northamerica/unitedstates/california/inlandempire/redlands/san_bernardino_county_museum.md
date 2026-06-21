@@ -9,6 +9,7 @@ tags:
 - museum
 title: San Bernardino County Museum
 type: poi
+score: 7.1
 ---
 
 A regional museum in Redlands with exhibits spanning the natural and cultural history of San Bernardino County -- one of the largest counties in the United States, stretching from the mountains to the Mojave Desert. The Exploration Station houses live animals for hands-on learning, and the research collections behind the scenes are extensive. Rotating special exhibits and regular public programs round out the offering.

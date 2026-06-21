@@ -14,6 +14,7 @@ tags:
 - museum
 title: American Jazz Museum
 type: poi
+score: 8.2
 ---
 
 Kansas City developed its own strain of jazz in the 1930s — loose, blues-soaked, built for dancing — and this museum tells that story well. The interactive exhibits let you explore how musicians like Count Basie and Charlie Parker grew out of the Kansas City scene. The Blue Room jazz club is attached, with live music most nights; on weekends it fills up and the music gets serious. The museum shares a building with the Negro Leagues Baseball Museum, and a combined ticket is worth having for both.

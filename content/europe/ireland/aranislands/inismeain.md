@@ -2,8 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
+image: inismeain.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_Inis_Me%C3%A1in.jpg
 latitude: 53.0855
+loc_type: city
 longitude: -9.587
 score: 0.56
 title: Inis Meáin

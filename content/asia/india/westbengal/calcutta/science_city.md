@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Science City
 type: poi
+score: 7.2
 ---
 
 Science City on the Eastern Metropolitan Bypass is one of the best science museums in South Asia. Across a large campus you'll find the Space Odyssey exhibition, a Maritime Centre, an Evolution Park with life-size dinosaur models, and a Space Theatre with a tilted dome screen. There's enough here to keep children occupied for most of a day. It also has a butterfly enclosure, a time machine exhibit, and a climate change pavilion. The grounds are pleasant for walking in the evening. Open daily, which makes it a good option when other museums are closed.

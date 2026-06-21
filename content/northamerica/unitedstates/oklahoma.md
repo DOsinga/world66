@@ -6,6 +6,7 @@ longitude: -97.268406
 score: 0.33
 title: Oklahoma
 type: location
+loc_type: region
 ---
 
 Oklahoma surprises people. Many associate it with the 1995 bombing or the dust-bowl despair of Steinbeck's *The Grapes of Wrath*, but the reality is a state with wide-open landscapes, deep Native American heritage, and two genuinely interesting cities.

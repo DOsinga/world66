@@ -1,11 +1,14 @@
 ---
-address: 43 Nguyen Dinh Chieu, District 1
+address: 43 Nguyen Dinh Chieu, District 3
 latitude: 10.7808
 longitude: 106.6922
-snippet: Lavish multi-level cafe with garden terrace in District 1
+score: 5.5
+snippet: Lavish multi-level cafe with garden terrace on Nguyen Dinh Chieu in the heart
+  of District 3
 tags:
 - bars_and_cafes
 - cafe
+- district_3
 title: Window’s Garden Cafe
 type: poi
 ---

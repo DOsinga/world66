@@ -10,6 +10,7 @@ story: Established in 1958, it was the first land-and-sea park in the world. No 
   in the Caribbean.
 title: Exuma Cays Land and Sea Park
 type: poi
+score: 9.5
 ---
 
 A 176-square-mile protected area covering a stretch of the northern Exuma Cays. The park encompasses pristine coral reef, mangrove nurseries, tidal flats, and dozens of uninhabited cays with powder-white beaches. Because fishing has been banned here since 1986, the marine life is extraordinary — grouper, nurse sharks, sea turtles, and eagle rays are common.

@@ -1,15 +1,15 @@
 ---
-title: "Things to do"
-type: section
-address: "41-202 Kalanian‘ole Hwy., #7, Waimanalo"
-phone: "(808) 259-2500"
-type: "Other"
-url: "www.sealifeparkhawaii.com"
+address: '41-202 Kalanian‘ole Hwy., #7, Waimanalo'
+phone: (808) 259-2500
+title: Things to do
+type: poi
+url: www.sealifeparkhawaii.com
+score: 2.8
 ---
 
 There's more to do and see on Oahu than bars and beaches. From hiking and horseback riding to entertaining and/or educational theme parks, you'll find something for everyone on the most crowded - er, populated - island in Hawaii.
 
-### [Sea Life Park by Dolphin Discovery](/northamerica/unitedstates/hawaii/oahu/thingstodo/sea_life_park_by_d)
+### Sea Life Park by Dolphin Discovery
 
 At Sea Life Park, Hawai‘i’s marine life comes
 alive in a dazzling display that will entertain and delight. Located
@@ -19,7 +19,7 @@ perched between the majestic Ko‘olau Mountain Range and breathtaking
 Makapu‘u Beach. See dolphins dance, sealions sing, and penguins
 perform in this magical place by the sea.
 
-Included admission with the Go Oahu Card, a multi-attraction pass that allows [more..](/northamerica/unitedstates/hawaii/oahu/thingstodo/sea_life_park_by_d)
+Included admission with the Go Oahu Card, a multi-attraction pass that allows entry to dozens of Oahu sights for a single price — a worthwhile buy if you're planning to combine the park with snorkelling tours, museums or a Pearl Harbor visit.
 
 type: Other
 

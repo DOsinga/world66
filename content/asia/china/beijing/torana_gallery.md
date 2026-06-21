@@ -6,8 +6,9 @@ phone: 010 64653388x5542
 tags:
 - shopping
 title: Torana Gallery
-type: Speciality shops
+type: poi
 url: www.toranahouse.com
+score: 5.8
 ---
 
 Torana Gallery, run by Englishman Chris Buckley, sells Tibetan and

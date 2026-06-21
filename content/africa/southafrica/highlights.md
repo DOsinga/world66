@@ -35,4 +35,4 @@ From June to November, southern right whales come to calve in the waters off the
 
 ## Addo Elephant Park
 
-If Kruger feels too far, [Addo](/africa/southafrica/addo_elephant_nati) near Port Elizabeth offers Big Five game viewing at a fraction of the cost and crowd levels. It's the anchor for the Eastern Cape's developing game corridor.
+If Kruger feels too far, [Addo](/africa/southafrica/addo_elephant_national_park) near Port Elizabeth offers Big Five game viewing at a fraction of the cost and crowd levels. It's the anchor for the Eastern Cape's developing game corridor.

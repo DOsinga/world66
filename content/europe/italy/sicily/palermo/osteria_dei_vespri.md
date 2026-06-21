@@ -12,6 +12,7 @@ tags:
 title: Osteria dei Vespri
 type: poi
 url: www.osteriadeivespri.it
+score: 7.4
 ---
 
 The best serious restaurant in central Palermo, in a 16th-century palazzo in the Kalsa that was used as a film set in *The Leopard*. The cooking is Sicilian with modern technique — pasta con le sarde, pasta alla Norma, involtini di pesce spada — using excellent local ingredients. The wine list leans heavily on Sicilian producers. Reservations essential; book at least a few days ahead for dinner.

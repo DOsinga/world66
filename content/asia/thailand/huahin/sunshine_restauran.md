@@ -6,8 +6,9 @@ tags:
 - eating_out
 - cafe
 title: Sunshine Restaurant & Bakery
-type: European
+type: poi
 url: www.sunshine-restaurant.com
+score: 4.2
 ---
 
 European-, Thai- and Seafood Restaurant opposite the Hilton Hotel. This place specializes on German/Austrian food. If somebody is in the mood for pork knuckle, German sausages or steaks it a good place to go. There is also a German bakery and an internet cafe.

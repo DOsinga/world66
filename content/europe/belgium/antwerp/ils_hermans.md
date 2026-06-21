@@ -8,8 +8,9 @@ tags:
 - shopping
 - shop
 title: Ils Hermans
-type: Speciality shops
+type: poi
 url: ilshermans.be
+score: 4.4
 ---
 
 Jewelry designers collection.

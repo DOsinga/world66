@@ -9,6 +9,7 @@ tags:
 snippet: "Kreuzberg late-night bar with pinball and themed parties"
 title: Milchbar
 type: poi
+score: 6.0
 ---
 
 A Kreuzberg late-night bar good for chatting, drinking, and pinball. Themed parties and a Saturday DJ keep things lively. The clientele is eclectic and the hours are generous.

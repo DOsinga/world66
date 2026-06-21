@@ -8,6 +8,7 @@ tags:
 snippet: "Arty cocktail lounge and cigar bar in Morningside"
 title: Beanbag Bohemia
 type: poi
+score: 5.9
 ---
 
 Restaurant, cigar bar and cocktail lounge tucked off Windermere Road in Morningside. The crowd is mixed and arty, the music runs to funky house and acid jazz, and the cocktails are well made. Reliable for a long evening of drinks and small plates.

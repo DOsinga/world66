@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Tjörnin
 type: poi
+score: 7.7
 ---
 
 The small lake at the centre of town, ringed by colourful nineteenth-century houses, the City Hall, and the National Gallery. It is essentially Reykjavik's village pond — locals come to feed the ducks, swans, and Arctic terns, and in cold winters the city floods part of it for ice skating.

@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 latitude: 5.123693
 longitude: -74.449072
 title: Tobia
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Tobia is a tiny town about 75 kilometres northwest of [Bogotá](/southamerica/colombia/bogota), built around what was once a steam-train refuelling stop. The trains are long gone, but Tobia has found a new purpose as Colombia's most popular weekend rafting destination. The Río Negro runs through rapids within walking distance of the village, and several operators run group trips on inflatable rafts — typically six to twelve people per boat, with helmets, life jackets and a safety briefing before you hit the water.

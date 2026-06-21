@@ -3,6 +3,7 @@ address: Piazza della Signoria 5/r, 50122 Florence
 latitude: 43.7684
 longitude: 11.2533
 opening_hours: Tue–Sun 07:30–midnight; closed Mon
+snippet: Historic cafe on Piazza della Signoria with Palazzo Vecchio views
 tags:
 - One Day in Florence
 - 24 Hours in Florence
@@ -13,6 +14,7 @@ tags:
 - cafe
 title: Caffè Rivoire
 type: poi
+score: 6.4
 ---
 
 One of Florence's most storied historic cafes, on the corner of Piazza della Signoria with views directly onto Palazzo Vecchio and the Loggia dei Lanzi. The traditional breakfast stop before starting a day in the city — espresso and pastry at the bar with one of the best views in Florence. Known also for its chocolate and hot chocolate.

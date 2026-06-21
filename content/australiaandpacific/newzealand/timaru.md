@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-16'
+image: timaru.jpg
+image_attribution: Wikimedia Commons
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Caroline_Bay_Timaru.jpg
 latitude: -44.393025
+loc_type: city
 longitude: 171.250979
 score: 0.41
 title: Timaru

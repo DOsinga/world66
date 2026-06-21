@@ -1,11 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
+image: trinidad.jpg
+image_source: https://www.flickr.com/photos/13612227@N02/51196088611
+image_license: CC BY-SA 2.0
+image_attribution: Dana L. Brown on Flickr
 latitude: 41.0594
+loc_type: city
 longitude: -124.1437
+score: 0.44
 title: Trinidad
 type: location
-score: 0.44
 ---
 
 Trinidad is a tiny harbour town on the Humboldt County coast, perched on a bluff above a spectacular bay. It is one of the oldest settlements in California — the Spanish named it on Trinity Sunday in 1775 — and today has a population of barely 300, though the surrounding area draws visitors year-round.
@@ -14,4 +20,4 @@ The setting is the main attraction. Trinidad Bay is sheltered by Trinidad Head, 
 
 The beaches around Trinidad are outstanding. College Cove, reached by a short trail from the headland, is a protected sandy beach backed by cliffs and small waterfalls. Moonstone Beach and Luffenholtz Beach are within a few minutes' drive. The coast here is rugged and beautiful, with sea stacks, tide pools, and dense forest running down almost to the waterline.
 
-Trinidad makes a good base for exploring the redwood parks — [Patrick's Point State Park](/northamerica/unitedstates/california/northcoast/patricks_point_state_park) is just to the north, and the old-growth groves of Prairie Creek and Redwood National Park are within easy reach.
+Trinidad makes a good base for exploring the redwood parks — Patrick's Point State Park is just to the north, and the old-growth groves of Prairie Creek and Redwood National Park are within easy reach.

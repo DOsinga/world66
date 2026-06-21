@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-06-03'
 latitude: 49.97067
+loc_type: city
 longitude: 9.138486
 score: 0.47
 title: Aschaffenburg

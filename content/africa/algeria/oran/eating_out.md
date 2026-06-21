@@ -1,14 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Eating out after coming back in the evening from a tiring wonderful day at the beach is the perfect way to end the day in the summer. These days there are so many restaurants and cafes in Oran serving a wide variety of food. Oran's popular food is Karantika which is basically mashed chickpeas with eggs (...and well i dont know the exact recipe). There are numerous cafes along the coast (front de mer) where it's best to have a refreshing glass of 'etey' (mint tea) or an ice cream whilst admiring the fascinating scenery. There is a wonderful clash of landform where right on the coast is a large mountain (Santa Cruz - see www.hakem.net/photos for pics) that can be seen from most parts of oran and beside it is the tranquile sea. Reported by **Youcef Hakem**.
-
-**Restaurants**
-
-**El Firdaous**
-
-One of Oran's poshest restaurants situated in Miramar not far from the coast.
-
-address: Miramar, Oran
+Oran's food culture is part Maghrebi, part Mediterranean. Karantika — a thick chickpea flan with cumin and harissa — is the city's signature street food, sold from carts and small counters around the centre. The Front de Mer corniche has a long string of cafés and seafood restaurants with views of the bay; the Miramar district at the western end is the upmarket option. Mint tea and an evening ice cream by the sea is a local ritual.

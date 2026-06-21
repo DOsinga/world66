@@ -6,6 +6,7 @@ longitude: -97.001038
 score: 0.43
 title: Manitoba
 type: location
+loc_type: region
 ---
 
 Manitoba is Canada's prairie heart, the middle of the three "prairie provinces" between the Canadian Shield and the Rockies. Its licence plates say "Friendly Manitoba", and the people do live up to it — Manitoban hospitality is a real thing, shaped by long winters and the long distances between towns.

@@ -1,18 +1,18 @@
 ---
-title: "Eating Out"
-type: section
-address: "Rae 32"
-email: "valgelaevpaldiski@hot.ee"
-phone: "+372 6742095"
-price: "100 EEK"
-type: "African"
-url: "www.valgelaev.ee"
-zipcode: "76805"
+address: Rae 32
+email: valgelaevpaldiski@hot.ee
 latitude: 59.350352
 longitude: 24.058812
+phone: +372 6742095
+price: 100 EEK
+title: Eating Out
+type: poi
+url: www.valgelaev.ee
+zipcode: '76805'
+score: 1.5
 ---
 
-### [Valge Laev (eng. White Ship)](/europe/estonia/paldiski/eatingout/valge_laev_eng_w)
+### Valge Laev (eng. White Ship)
 
 We are glad to invite you to new hotel-restaurant White Ship. It is situated in the center of sea town Paldiski (address Rae str. 32).
 

@@ -1,12 +1,11 @@
 ---
-title: "Portmarnock"
-type: poi
 latitude: 53.431347
 longitude: -6.131639
-snippet: "Coastal village with a long beach and a famous 1930 transatlantic flight"
+snippet: Coastal village with a long beach and a famous 1930 transatlantic flight
 tags:
 - things_to_do
-- neighbourhood
+title: Portmarnock
+type: neighbourhood
 ---
 
 Portmarnock sits on a peninsula north of Dublin, named after the fifth-century missionary St Marnock, who converted the local Celts to Christianity and blessed the Druid Well, which became the Holy Well. The ruins of his church are still visible in the graveyard off Strand Road.

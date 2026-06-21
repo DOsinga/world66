@@ -3,14 +3,17 @@ address: 7 Rue du Faubourg Montmartre, 75009 Paris
 latitude: 48.8728
 longitude: 2.3441
 opening_hours: Daily 11:30am–midnight
-phone: "+33 1 47 70 86 29"
-price_range: "\u20ac15\u201325 for a full meal"
-snippet: A Belle \u00c9poque workers' canteen serving cheap French classics since 1896
+phone: +33 1 47 70 86 29
+price_range: €15–25 for a full meal
+snippet: A Belle \u00c9poque workers' canteen serving cheap French classics since
+  1896
 tags:
 - eating_out
+- leshalles
 title: Bouillon Chartier
 type: poi
 url: www.bouillon-chartier.com
+score: 7.4
 ---
 
 Bouillon Chartier is the great democratic restaurant of Paris: a working-class bouillon (canteen) that has been feeding the city since 1896, almost unchanged. The enormous Belle Époque room — brass luggage racks, wooden panelling, white-aproned waiters writing orders on the paper tablecloths — seats over 300 and is perpetually full.

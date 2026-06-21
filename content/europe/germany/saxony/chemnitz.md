@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: chemnitz.jpg
+image_attribution: Sandro Schmalfuß
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Siegertsches_Haus_am_Marktplatz_in_Chemnitz,_2015.jpg
 latitude: 50.832353
+loc_type: city
 longitude: 12.918914
 score: 0.43
 title: Chemnitz

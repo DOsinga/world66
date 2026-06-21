@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Bar jeder Vernuft
 type: poi
+score: 8.2
 ---
 
 First-class cabaret in all its many shapes and forms -- one of Germany's most famous venues for this kind of entertainment. The setting alone is worth the visit: a beautiful old Dutch mirrored tent (Spiegelzelt) that seats a few hundred. Big-name acts, sharp writing, and a glamorous atmosphere. Tickets typically run 25-50 euros. Book ahead for weekend shows.

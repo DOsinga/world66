@@ -12,6 +12,7 @@ tags:
 title: Argyle Bar & Grill
 type: poi
 url: https://www.theargyle.ca
+score: 4.7
 ---
 
 Traditional Greek and modern dishes in a casual, cozy atmosphere. Large rooftop patio in summer. Turns into a dance spot in the late evenings.

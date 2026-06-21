@@ -14,9 +14,10 @@ quick_facts:
   Drives On: Left
   Oldest Rainforest: "130 million years"
   Street Food Meal: "under $2"
-score: 0.5
+score: 0.78
 title: Malaysia
 type: location
+loc_type: country
 ---
 
 Malaysia is one of Southeast Asia's most rewarding destinations -- a country where Malay, Chinese, Indian and indigenous cultures have blended into something distinct and endlessly interesting. The food alone is worth the trip, and the natural landscapes range from ancient rainforest to coral-fringed islands to cool highland tea plantations.

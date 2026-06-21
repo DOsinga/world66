@@ -5,7 +5,8 @@ tags:
 - eating_out
 - restaurant
 title: Entre Nous .
-type: general
+type: poi
+score: 5.7
 ---
 
 This restaurant features innovative French cuisine with exotic seafood dishes and wild game specialties. All desserts made on site. Mon to Fri 11 am - 2:30 pm, 5 pm to close. Sat, Sun 5 pm to close. Reservations. 

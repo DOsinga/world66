@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: cleveland.jpg
+image_attribution: EDrost88
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:2024_Solar_Eclipse_over_Cleveland_Terminal_Tower_-_53650722351.jpg
 latitude: 41.499657
+loc_type: city
 longitude: -81.693677
 score: 0.42
 title: Cleveland

@@ -9,13 +9,14 @@ image_attribution: <b><a href="//commons.wikimedia.org/wiki/User:Der_Wolf_im_Wal
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg
 latitude: 51.163818
+loc_type: country
 longitude: 10.447831
 quick_facts:
-  Population: "84 million"
+  Beer Varieties: ~7,000
+  Castles: ~25,000
   Currency: Euro
-  Beer Varieties: "~7,000"
-  Castles: "~25,000"
-score: 0.44
+  Population: 84 million
+score: 0.90
 title: Germany
 type: location
 ---

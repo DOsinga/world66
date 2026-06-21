@@ -7,6 +7,7 @@ tags:
 address: "Arab Gulf Street, Kuwait City"
 latitude: 29.389000
 longitude: 48.000000
+score: 5.4
 ---
 
 The first and largest water park in the Gulf region, Aqua Park sits right next to the Kuwait Towers on the waterfront. Opened in 1995, it has a range of pools and water slides for all ages, a man-made river for lazy floating, a go-kart track, and a paintball field. There are several restaurants on site.

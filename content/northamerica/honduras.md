@@ -14,7 +14,8 @@ quick_facts:
   Budget Meal: "~$3–4"
   Mesoamerican Barrier Reef: "World's second-largest, off the Bay Islands"
   Copán Stelae: Carved Maya portraits unlike any other site
-score: 0.44
+score: 0.52
+loc_type: country
 ---
 
 Honduras is the second-largest country in Central America and one of its least-visited — which is both a shame and a recommendation. The country has extraordinary variety: Caribbean beaches and coral reefs in the north, cloud-forested mountains in the west, the vast wetlands of La Mosquitia in the east, and Mayan ruins that rival anything in the region. Travelers who make it here are generally glad they did.

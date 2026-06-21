@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: weimar.jpg
+image_attribution: Nigel Swales on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/22890158@N08/2288697701
 latitude: 50.97933
+loc_type: city
 longitude: 11.329792
 score: 0.62
 title: Weimar

@@ -8,8 +8,9 @@ phone: (632) 637-5019   0917-520-4393
 tags:
 - bars_and_cafes
 title: Yats Wine Cellars Champagne Brunch Philippines
-type: Wine bars
+type: poi
 url: www.YatsWineCellars.com
+score: 2.5
 ---
 
 Champagne/Wine Brunch in Manila Philippines is something that wine lovers have looked forward to for a while now. Yats Wine Cellars (www.YatsWineCellars.com) wine brunch will take place in the second floor of ShangrilLa Mall in Ortigas Center, Manila Philippines on Sunday 18th October, 2009 from 10am to 2pm. The brunch is a sumptuous affair prepared by Chef Jacqie of Cafe Provencal and here is the wine line-up to help wash everything down:

@@ -1,12 +1,14 @@
 ---
 latitude: 37.422793
 longitude: 127.022671
-snippet: "Large zoo inside Seoul Grand Park, easily reached by subway"
+snippet: Large zoo inside Seoul Grand Park, easily reached by subway
 tags:
 - things_to_do
 - landmark
+- museum
 title: Seoul Zoo
 type: poi
+score: 5.6
 ---
 
 Seoul Zoo sits within Seoul Grand Park in Gwacheon, just south of the city, and is one of the largest zoos in East Asia. It holds over 3,000 animals from more than 360 species — big cats, bears, giraffes, gorillas, and an extensive bird section among them. The park setting is attractive, with a lake and wooded hills, and on a fine day the grounds are as much a place for a walk as a zoo visit.

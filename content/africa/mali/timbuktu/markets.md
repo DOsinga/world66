@@ -1,11 +1,13 @@
 ---
-title: "Grand Marche"
+title: "Grand Marché"
 type: poi
+snippet: "Covered market with rooftop views over Timbuktu"
 tags:
   - things_to_do
   - sight
 latitude: 16.7730
 longitude: -3.0074
+score: 7.0
 ---
 
 The Grand Marche is a covered market in the old part of town. You will find mostly cloth, pots, pans, and everyday goods rather than food. The roof offers one of the best vantage points over Timbuktu and the desert beyond.

@@ -5,8 +5,10 @@ snippet: 1818 statue of General Suvorov as Mars near the Troitsky Bridge
 tags:
 - things_to_do
 - sight
+- nevskiyprospekt
 title: Suvorov Monument
 type: poi
+score: 6.3
 ---
 
 This 1818 monument on Suvorovskaya Ploshchad depicts the legendary Russian general Alexander Suvorov as Mars, the Roman god of war. Sculpted by M. Kozlovsky with a bas-relief by F. Gordeyev representing the spirits of Glory and Peace, it stands at the approach to the Troitsky Bridge.

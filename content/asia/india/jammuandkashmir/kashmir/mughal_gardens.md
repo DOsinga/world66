@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Mughal Gardens
 type: poi
+score: 8.7
 ---
 
 Three terraced Mughal gardens line the eastern shore of Dal Lake, built by the emperors who made Kashmir their summer retreat in the 17th century. Nishat Bagh (the "Garden of Bliss") is the largest — twelve terraces rising up the hillside toward the Zabarwan range, with a central water channel connecting the levels. Shalimar Bagh is more romantic in feel. Chashma Shahi is the smallest and most intimate, centred on a natural spring. All three are best in April and May when the flowers are out, and best visited on weekday mornings before tour groups arrive.

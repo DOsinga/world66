@@ -1,11 +1,13 @@
 ---
 latitude: -33.8438
 longitude: 151.2414
+snippet: "Harbourside zoo with spectacular city skyline views"
 tags:
 - things_to_do
 title: Taronga Zoo
 type: poi
 url: www.taronga.org.au
+score: 8.0
 ---
 
 Taronga Zoo sits on the North Shore with spectacular views back across the harbour to the city skyline. Take the ferry from Circular Quay and the Sky Safari cable car up from the wharf. The Australian native animal exhibits are the highlight, but the whole collection is excellent.

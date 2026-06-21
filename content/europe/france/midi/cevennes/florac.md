@@ -1,8 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-latitude: 44.275647
-longitude: 3.541897
+  location_enrich: '2026-05-11'
+image: florac.jpg
+image_attribution: Myrabella
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cevennes_Florac_Mimente_depuis_Causse_Mejean.jpg
+latitude: 44.324
+loc_type: city
+longitude: 3.594
 score: 0.52
 title: Florac
 type: location

@@ -8,6 +8,7 @@ tags:
 - shopping_centers_and_malls
 title: Place des Halles
 type: poi
+score: 4.2
 ---
 
 A large covered shopping mall a short walk from the cathedral, with its own tram stop (Homme de Fer line). Two floors of fashion, food, and household stores — useful for practical shopping rather than browsing.

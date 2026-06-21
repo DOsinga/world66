@@ -1,7 +1,9 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-13'
 latitude: 34.3609
+loc_type: city
 longitude: -79.9439
 score: 0.31
 title: Darlington

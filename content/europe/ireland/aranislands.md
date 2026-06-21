@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 53.120352
+loc_type: region
 longitude: -9.705632
 score: 0.63
 title: Aran Islands

@@ -15,7 +15,8 @@ quick_facts:
   Currency: Euro (€)
   Pubs: "Over 7,000 across the country"
   Bog Cover: "17% of land area"
-score: 0.48
+score: 0.80
+loc_type: country
 ---
 
 The **Republic of Ireland** occupies most of a small island on the northwest edge of Europe. It is a country of green hills, bogland, stone walls, and coast — and also of cities that punch well above their weight in terms of pubs, literature, and life. The Irish are genuinely welcoming to strangers, and traveling here rarely feels like hard work.

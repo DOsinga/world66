@@ -9,9 +9,12 @@ phone: (+352) 4015-2450
 snippet: Luxembourg's financial history in a grand bank building
 tags:
 - things_to_do
+- ville_haute
 - museum
+neighbourhood: Ville Haute
 title: Bank Museum
 type: poi
+score: 5.6
 ---
 
 Housed in the grand head office of the State Savings Bank, this museum traces Luxembourg's evolution from a modest agricultural economy to one of Europe's main financial centres. Alongside monetary history, the same building hosts the Post and Telecommunications Museum and a concert hall known as the Tutesall — a converted section of a former prison.

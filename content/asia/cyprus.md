@@ -17,6 +17,7 @@ quick_facts:
 score: 0.66
 title: Cyprus
 type: location
+loc_type: country
 ---
 
 Cyprus is the third-largest island in the Mediterranean — Greek in character in the south, Turkish in the north, and divided since 1974. The division is the defining fact of modern Cyprus and the first thing any traveler needs to understand: roughly 37% of the island is administered by Turkish Cyprus (the Turkish Republic of Northern Cyprus, recognized only by Turkey), while the Republic of Cyprus controls the south and is a member of the European Union.

@@ -10,6 +10,7 @@ tags:
 - rembrandtplein
 title: Reguliersdwarsstraat
 type: poi
+score: 5.8
 ---
 
 Amsterdam's main gay nightlife street, running between Rembrandtplein and Koningsplein. The bars here are well-established, range from unpretentious to lively, and draw a genuinely mixed crowd. Arc, Taboo, and Club NYX are the main names; the street is at its best from 21:00 onward on weekends.

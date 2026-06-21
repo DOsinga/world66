@@ -8,6 +8,7 @@ tags:
 - museum
 title: Brecht House
 type: poi
+score: 6.6
 ---
 
 The birthplace of playwright Bertolt Brecht, born here in 1898. A typical craftsman's house on a canal of the river Lech, it now houses the Brecht Memorial with photographs, documents, and editions tracing his life from Augsburg schoolboy to the most influential German dramatist of the 20th century.

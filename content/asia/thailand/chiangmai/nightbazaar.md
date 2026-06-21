@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Night Bazaar
 type: poi
+score: 6.0
 ---
 
 The Night Bazaar on Chang Klang Road is Chiang Mai's most famous shopping strip — a dense mix of permanent shops, covered market halls, and open-air stalls that comes alive around 6pm and runs until midnight. Prices are generally lower than Bangkok for the same goods.

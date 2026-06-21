@@ -2,9 +2,9 @@
 address: Davao Crocodile Park, River Front, Corporate City Diversion Highway
 tags:
 - things_to_do
-- neighbourhood
 title: Crocodile Farm and Davao Wild Water Adventure
 type: poi
+score: 5.5
 ---
 
 Here you'll find lots of crocodiles, a few taken from the Davao River. They

@@ -8,6 +8,7 @@ tags:
 - amusement_park
 title: Circus Circus Adventuredome
 type: poi
+score: 5.0
 ---
 
 The Adventuredome is a five-acre indoor theme park enclosed under a pink glass dome at Circus Circus, one of the older casino-hotels on the north end of the Strip. Inside you'll find a double-loop roller coaster, log flume, bumper cars, laser tag, a climbing wall, and a midway full of carnival games. It's one of the few genuinely family-friendly attractions on Las Vegas Boulevard — no gambling required.

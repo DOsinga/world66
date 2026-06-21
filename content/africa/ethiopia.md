@@ -13,7 +13,8 @@ quick_facts:
   Calendar: "13 months"
   Never Colonized: Only country in Africa
   Coffee Origin: Born here
-score: 0.44
+score: 0.76
+loc_type: country
 ---
 
 Ethiopia is unlike anywhere else on earth. It is the only African country never colonized, home to one of the oldest Christian civilizations in the world, and the place where coffee was born. The landscapes range from the highest peaks in the Simien Mountains to the lowest point on the African continent in the Danakil Depression. The food is entirely its own. The calendar has thirteen months. The clock runs six hours off. Nothing here works the way you expect, and that is precisely the point.

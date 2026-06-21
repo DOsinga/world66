@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: tamale.jpg
+image_attribution: nyon45 on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/23371486@N04/2467653413
 latitude: 9.405199
+loc_type: city
 longitude: -0.842399
 score: 0.36
 title: Tamale

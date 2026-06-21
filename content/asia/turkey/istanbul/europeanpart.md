@@ -5,8 +5,14 @@ done:
 latitude: 41.013611
 longitude: 28.954167
 snippet: Istanbul's historic European side, from Sultanahmet to Beyoglu
+tags:
+- things_to_do
+- mosque
+- sight
+- balat
 title: European Part
 type: poi
+score: 8.8
 ---
 
 The European side of Istanbul is divided into two parts by the Golden Horn, an estuary roughly 500 metres wide. The southern part — often called **Stamboul** — is a peninsula and the oldest part of the city. This is ancient **Byzantium**, later **Constantinople**, and its seven hills hold the most spectacular sights:

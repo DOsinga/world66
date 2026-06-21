@@ -1,7 +1,13 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
+image: guysborough.jpg
+image_attribution: Ryan Hodnett
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Guysborough_Harbour_-_Guysborough,_Nova_Scotia_2022-07-28_(02).jpg
 latitude: 45.394
+loc_type: city
 longitude: -61.499
 score: 0.39
 title: Guysborough

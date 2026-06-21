@@ -5,8 +5,9 @@ tags:
 - getting_there
 - theatre
 title: Airport Express
-type: By Road
+type: poi
 url: www.torontoairportexpress.com
+score: 1.5
 ---
 
 Each day, thousands of visitors arriving at Toronto’s Lester B. Pearson International Airport take advantage of Pacific Western's Airport Express to downtown Toronto.

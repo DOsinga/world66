@@ -8,8 +8,11 @@ snippet: Stockholm's royal garden — ice rink in winter, cherry blossoms in spr
 tags:
 - things_to_do
 - park
+- sight
+- norrmalm
 title: Kungsträdgården
 type: poi
+score: 7.2
 ---
 
 Kungsträdgården — the King's Garden — is a long, narrow park running through the heart of central Stockholm, just off the waterfront near the Grand Hotel. It's been a public gathering place since the 18th century and remains one of the city's most reliably pleasant spots to linger.

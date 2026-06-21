@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: alamogordo.jpg
+image_attribution: Exia_Photography on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/26937667@N02/3566213478
 latitude: 32.8999
+loc_type: city
 longitude: -105.9602
 score: 0.42
 title: Alamogordo

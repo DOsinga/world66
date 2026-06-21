@@ -11,6 +11,7 @@ tags:
 - club
 title: The Laughing Duck
 type: poi
+score: 6.0
 ---
 
 A long-running gay venue in the basement of a New Town townhouse on Howe Street, more comfy bar than club: leather sofas, low lighting, friendly staff and a relaxed mixed crowd.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 image: newsouthwales.jpg
 image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space
   Center
@@ -11,6 +12,7 @@ longitude: 147.0166
 score: 0.54
 title: New South Wales
 type: location
+loc_type: region
 ---
 
 New South Wales is Australia's most populous state and the one most visitors see first. Sydney, its capital, is one of the great cities of the Southern Hemisphere, but the state has far more to offer than its famous harbour. From the subtropical beaches of Byron Bay in the north to the snow-capped peaks of the Kosciuszko range in the south, NSW packs a remarkable range of landscapes into a single state.

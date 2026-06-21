@@ -2,10 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-31'
   poi_cleanup: '2026-04-19'
+image: peshawar_museum.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Peshawar_Museum.jpg
 latitude: 34.012385
+loc_type: city
 longitude: 71.578746
 score: 0.26
+sources:
+- https://en.wikipedia.org/wiki/Peshawar
+- https://en.wikivoyage.org/wiki/Peshawar
 title: Peshawar
 type: location
 ---

@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
+  location_enrich: '2026-06-03'
 image: boracay.jpg
 image_attribution: Alexey Komarov
 image_license: CC BY 3.0
@@ -11,6 +12,7 @@ longitude: 121.922734
 score: 0.75
 title: Boracay
 type: location
+loc_type: city
 ---
 
 Travel Guide

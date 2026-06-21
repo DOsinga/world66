@@ -3,34 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-A vast number of Restaurants are available for your enjoyment. Here's a small list of venues:
-
-**all**
-
-Lo Nuestro
-
-You can taste Ecuadorian Cuisine in a very typical and beautiful ambient.
-
-address: Urdesa
-
-Riviera
-
-Italian Café and Restaurant.
-
-Anderson
-
-French Cuisine.
-
-address: Urdesa
-
-Trattoria da Enrico
-
-Italian Cuisine and Seafood.
-
-address: Urdesa
-
-Blu
-
-Blu offers International Cuisine.
-
-address: Urdesa, V.E. Estrada Avenue
+Guayaquil's food scene is one of the best reasons to spend time here. Coastal Ecuadorian cooking — encebollado (a tuna and yuca soup eaten for breakfast), ceviche, seco de chivo (goat stew), and fresh seafood from the Pacific — is the local speciality. The Urdesa neighbourhood, a few kilometres north of the historic centre, is the most concentrated dining district, with restaurants lining Víctor Emilio Estrada Avenue.

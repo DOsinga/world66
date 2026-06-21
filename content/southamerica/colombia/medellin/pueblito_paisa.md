@@ -7,6 +7,7 @@ tags:
 title: Pueblito Paisa
 type: poi
 snippet: "Replica Antioquian village with panoramic city views"
+score: 6.8
 ---
 
 On top of Cerro Nutibara, a replica of a classic Antioquian village — a little whitewashed square with a church, school, barber shop, and general store. Kitschy but genuinely useful as a quick view of traditional paisa architecture, and the hill itself gives one of the best panoramas over the city. Go at sunset.

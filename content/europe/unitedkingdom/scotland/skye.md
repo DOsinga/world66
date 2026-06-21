@@ -2,7 +2,11 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
+image: skye.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Quiraing_Isle_of_Skye_Pano.jpg
 latitude: 57.363018
+loc_type: region
 longitude: -6.302346
 score: 0.74
 title: Skye

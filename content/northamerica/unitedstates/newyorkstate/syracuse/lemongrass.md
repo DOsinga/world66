@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Lemongrass
 type: poi
+score: 4.7
 ---
 
 An upscale Thai and Asian fusion restaurant in Armory Square, Syracuse's liveliest dining district. The space is stylish without being pretentious, and the menu balances familiar curries and pad thai with more refined dishes. A solid choice for a nicer dinner out in downtown Syracuse.

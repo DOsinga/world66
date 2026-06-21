@@ -1,9 +1,16 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-07'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: iraklion.jpg
+image_attribution: w_lemay on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/59081381@N03/53535686658
 latitude: 35.3387
+loc_type: city
 longitude: 25.1442
 score: 0.65
 title: Iraklion

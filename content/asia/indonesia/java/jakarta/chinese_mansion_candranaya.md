@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Chinese Mansion Candranaya
 type: poi
+score: 7.3
 ---
 
 Near Kota in the Glodok area, this late-19th-century Chinese merchant mansion is a striking remnant of Jakarta's Dutch colonial past. Built in the Chinese Baroque style, it served as the headquarters of the Chinese Community Council during the Dutch colonial era and later as a clan house.

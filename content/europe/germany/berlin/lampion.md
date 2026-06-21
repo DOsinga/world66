@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Lampion
 type: poi
+score: 6.0
 ---
 
 A neighbourhood café on Knaackstraße in Prenzlauer Berg, best known for its Sunday puppet performances — the owner puts on a show between the coffee and the cake. The menu is simple and the atmosphere is warm, making it a good spot for a slow afternoon in one of Berlin's more relaxed corners.

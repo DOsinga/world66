@@ -8,6 +8,7 @@ tags:
 - sight
 title: Lekki Conservation Centre
 type: poi
+score: 7.7
 ---
 
 78 hectares of protected swamp forest and savannah on the Lekki peninsula, with a 401-metre canopy walkway — the longest in Africa — suspended 22 metres above the forest floor. Monkeys, crocodiles, butterflies, and mangrove birds. The small cost of entry includes the walkway access.

@@ -16,6 +16,7 @@ tags:
 - church
 title: Cathedral of St George
 type: poi
+score: 8.2
 ---
 
 The Cathedral of St George crowns the highest point of the peninsula and has been the town's dominant landmark since the 16th century. The interior has a nave ceiling fresco worth stopping for, and the separate bell tower next door can be climbed for panoramic views over the Adriatic, the town's rooftops, and the Istrian coast stretching south into Croatia. The walk up from Tartini Square takes about ten minutes through steep, narrow lanes.

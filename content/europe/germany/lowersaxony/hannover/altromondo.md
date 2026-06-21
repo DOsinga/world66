@@ -12,6 +12,7 @@ tags:
 - bars_and_cafes
 title: Altro Mondo
 type: poi
+score: 6.6
 ---
 
 A multi-level club in a converted cinema, painted blue and gold and built for dancing. House, soul and Black music dominate the rotation, with regular live gigs, gogo dancers on weekends and a crowd that comes specifically to move. Quieter levels above let you watch the floor from a distance when you need a break.

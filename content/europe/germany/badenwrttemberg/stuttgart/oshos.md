@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Osho's
 type: poi
+score: 4.3
 ---
 
 An Indian restaurant on Eberhardstrasse in Stuttgart's city center. A reliable option for curries and tandoori dishes when you need a break from Swabian fare.

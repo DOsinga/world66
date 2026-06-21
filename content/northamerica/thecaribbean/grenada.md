@@ -12,6 +12,7 @@ longitude: -61.679
 score: 0.66
 title: Grenada
 type: location
+loc_type: region
 ---
 
 Grenada is the southernmost of the Windward Islands, a three-island nation that includes Carriacou and Petit Martinique. It is small — the main island is about 34km long — fragrant with nutmeg and cinnamon, and genuinely beautiful in a way that doesn't require much effort to appreciate. The terrain is lush and mountainous at the centre, ringed by beaches and fishing villages, and the capital [St. George's](/northamerica/thecaribbean/grenada/stgeorges) sits around one of the prettiest harbours in the Caribbean.

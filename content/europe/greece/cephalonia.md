@@ -3,7 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-20'
+image: cephalonia.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Asos,_Kefalonia.jpg
 latitude: 38.266032
+loc_type: region
 longitude: 20.53739
 score: 0.7
 title: Cephalonia

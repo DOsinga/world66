@@ -2,8 +2,12 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
+image: ibiza.jpg
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Ibiza_City_Dalt_Vila_asv2023-04_img1.jpg
 latitude: 38.97439
+loc_type: region
 longitude: 1.419746
 score: 0.71
 title: Ibiza

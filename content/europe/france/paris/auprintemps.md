@@ -1,12 +1,16 @@
 ---
 address: 64, boulevard Haussmann, 8th Arrondissement
-latitude: 48.8750
-longitude: 2.3180
+latitude: 48.875
+longitude: 2.318
 snippet: Grand Haussmann-era department store with a stunning glass dome
 tags:
 - shopping
+- sight
+- architecture
+- market
 title: Au Printemps
 type: poi
+score: 7.1
 ---
 
 Printemps has occupied this stretch of Boulevard Haussmann since 1865, and the building itself is half the reason to visit. The main store's Art Nouveau glass dome, restored in the 1970s, floods the upper floors with coloured light and is worth the escalator ride even if you're not buying anything. The rooftop terrace on the ninth floor offers one of Paris's best free views — the Opera Garnier in the foreground, Sacre-Coeur on the hill beyond.

@@ -3,4 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-If you're in Oranjestad, then stop by Carlos and Charlies! It can get a little crazy in there and the establishment gets very involved in the entertainment of the patrons. I don't know of an address...just ask around. You'll find it.
+Oranjestad is not a major nightlife destination — most of the island's bars and clubs are clustered around the hotel strip on Palm Beach, a short drive north. But the city centre has a handful of decent places to drink, particularly around the waterfront and the main shopping boulevard.
+
+Carlos and Charlie's, near the cruise terminal area, has been a reliably rowdy evening option for decades. It is loud, cheerful, and clearly pitched at visitors, but none the worse for that. The waterfront restaurants generally transform into passable bars after the kitchen closes.

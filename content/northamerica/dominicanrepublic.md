@@ -1,0 +1,16 @@
+---
+score: 0.61
+title: Dominican Republic
+type: location
+loc_type: country
+latitude: 18.7357
+longitude: -70.1627
+---
+
+The Dominican Republic occupies the eastern two-thirds of Hispaniola, the island it shares with Haiti, and is the most visited country in the Caribbean. The appeal is obvious: two coasts, hundreds of kilometres of beach, warm water year-round, and a culture built on music, food, and an enthusiasm for life that is genuinely contagious. But the country is more than its resorts.
+
+[Santo Domingo](/northamerica/dominicanrepublic/santodomingo), the capital, is the oldest continuously inhabited European settlement in the Americas. The Zona Colonial, a UNESCO World Heritage Site, is where Christopher Columbus's son built his palace, where the first cathedral in the New World still holds mass, and where the cobblestoned Calle Las Damas runs past colonial buildings that have been standing since the 1500s. It is a real, lived-in neighbourhood, not a museum, and the contrast between the 16th-century buildings and the rooftop bars is part of the charm.
+
+The north coast has some of the country's finest beaches around [Puerto Plata](/northamerica/dominicanrepublic/puertoplata) and the Samaná Peninsula, where humpback whales arrive to breed between January and March. [Punta Cana](/northamerica/dominicanrepublic/punta_cana) on the east coast is the resort heartland — a vast strip of all-inclusive hotels fronting one of the Caribbean's finest beaches. The interior, which most visitors never see, is mountainous — the Cordillera Central rises to nearly 3,100 metres at Pico Duarte, the highest peak in the Caribbean. There is genuine tropical forest up there, and a Dominican backcountry that has nothing to do with the beach.
+
+Merengue and bachata were both born here. The food — rice and beans (la bandera), sancocho, chivo guisado — is the honest cooking of the Caribbean tropics, not fancy but deeply satisfying. The local spirit is Presidente beer and Brugal rum.

@@ -6,6 +6,7 @@ longitude: 4.4870
 tags:
 - things_to_do
 - sight
+score: 8.5
 ---
 
 Over a hundred poems painted directly onto building walls throughout the city, each in its original language and script — from Shakespeare and Rilke to Bashō and Rumi, from Dutch to Japanese to Arabic to Russian. The project began in 1992 and has been growing ever since, turning Leiden into an open-air anthology of world literature.

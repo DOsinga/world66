@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 latitude: 47.795986
 longitude: 10.922873
 title: Peiting
 type: location
 score: 0.43
+loc_type: city
 ---
 
 Peiting is a small town in the Pfaffenwinkel, the "priests' corner" of Upper Bavaria between the Lech and Ammer rivers. The name suits the landscape — this rolling green countryside south of Munich is dotted with baroque churches and pilgrimage sites.

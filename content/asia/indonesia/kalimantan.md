@@ -6,6 +6,7 @@ longitude: 114.741
 title: Kalimantan
 type: location
 score: 0.44
+loc_type: region
 ---
 
 Kalimantan is the Indonesian portion of Borneo, the world's third-largest island, and one of the least visited parts of the archipelago. Getting here takes time and money, but the reward is a place that remains genuinely unspoilt — vast rainforests, slow rivers, and Dayak longhouse villages that few tourists ever reach.

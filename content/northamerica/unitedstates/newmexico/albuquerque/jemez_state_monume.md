@@ -14,6 +14,7 @@ tags:
 title: Jemez State Monument
 type: poi
 url: www.nmmonuments.org
+score: 6.6
 ---
 
 Located on NM Route 4 in Jemez Springs, this small monument takes you through the history of the Jemez people. Begin in the museum, which tells of Giusewa ("the place of boiling waters"), then stroll through the ruins of the Mission of San Jose de los Jemez, founded in the early 17th century. A creek runs alongside the site with picturesque mountains beyond -- bring a camera.

@@ -8,6 +8,7 @@ tags:
 title: Reefer
 type: poi
 snippet: "No-frills local pub near the Laurenskerk"
+score: 5.0
 ---
 
 A no-frills pub near the Laurenskerk with a loyal local crowd. Nothing fancy, but a solid spot for a beer in the city centre.

@@ -1,9 +1,11 @@
 ---
-title: "Beaches"
+address: Kashid Beach
+done:
+  poi_cleanup: '2026-04-21'
+email: saipalace@rediffmail.com
+phone: 95-2144-278629
+title: Beaches
 type: section
-address: "Kashid Beach"
-email: "saipalace@rediffmail.com"
-phone: "95-2144-278629"
 ---
 
 The sea coast approximately 330 mi (530 km) from the Daman Ganga River north of Mumbai to the Terekhol River between Maharashtra and Goa. there are many beaches in Konkan range, where the public can spend there time for picnic in the beauty of nature. Here is a list of the main beaches.
@@ -28,7 +30,7 @@ email:
 ### [Harihareshwar](/asia/india/maharashtra/konkan/beaches/harihareshwar)
 
 Harihareshwar is one of the finest places in Konkan. It is just 230 Kms. from Pune. It is famous for a temple on the seashore as well as the beach and the natural beauties here. Harihareshwar is only 25 Kms for Shri Vardhan. If one wants to enjoy travelling by sea, the launches are also available between the two towns. The temple here is one of the major attractions. Harihareshwar is known as Kashi of Southern India . The hill on the seashore at Harihareshwar is also known as 'Harihar' or 'Pushpadri'.
-The temple is old and the construction period of this temple can [more..](/asia/india/maharashtra/konkan/beaches/harihareshwar)
+The temple is old and the construction period of this temple can be traced back several centuries, making it one of the most revered Shiva shrines on the Konkan coast.
 
 
 
@@ -40,7 +42,7 @@ The sun-kissed beach and lush greenery of Ganapatipule inevitably draws tourists
 
 **Getting there : **Ratnagiri on the Konkan Railway is the nearest railhead as also the nearest bus station.Mumbai is 375 kms away by road while Pune is 331 kms away.** **
 
-**Hotels : **MTDC has a resort that offers accommodation varying from dormitories to comfortable A.C. suites. Tents [more..](/asia/india/maharashtra/konkan/beaches/ganapatipule)
+**Hotels : **MTDC has a resort that offers accommodation varying from dormitories to comfortable A.C. suites. Tents on the beach are also available in season.
 
 
 
@@ -52,7 +54,7 @@ Diveagar Beach can easily rival any beach on the west coast of India for its cle
 
 Diveagar is just like any other village on the Konkan coast but it gained overnight fame upon the discovery of Ganesh idol made of pure gold in one of the Supari Baghs (Garden) in the village.
 
-The beach is a real revelation, a six km [more..](/asia/india/maharashtra/konkan/beaches/diveagar_beach)
+The beach is a real revelation, a six km stretch of clean, casuarina-lined sand that remains almost empty outside the weekend rush.
 
 
 
@@ -84,13 +86,13 @@ Nearest airport is Panjim ( Goa) and Kolhapur.
 From Mumbai: Panvel - Pen - Ratnagiri - Kankawali - Malvan
 
 **By Rail:
-**Kudal on the [more..](/asia/india/maharashtra/konkan/beaches/tarkarli)
+**Kudal on the Konkan Railway is the nearest railhead, with regular buses and taxis on to Malvan and Tarkarli.
 
 
 
 [[rate it]](/asia/india/maharashtra/konkan/beaches/tarkarli)
 
-### [Kunkeshwar Beach](/asia/india/maharashtra/konkan/beaches/kunkeshwar_beach)
+### [Kunkeshwar Beach](/asia/india/maharashtra/konkan/deogad/kunkeshwar_temple)
 
 Kunkeshwar Beach is one of the famous beach in the Konkan are, which is get addressed from the Kunkeshwar Temple situated on the Beach. this Temple situated in the Deogad in Sindhudurg district.
 

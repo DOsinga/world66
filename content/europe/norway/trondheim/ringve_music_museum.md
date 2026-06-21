@@ -11,6 +11,7 @@ tags:
 title: Ringve Music Museum
 type: poi
 url: www.ringve.no
+score: 7.9
 ---
 
 Norway's national museum for music and musical instruments, set on the Ringve farm estate east of the centre. The collection ranges from historical keyboard instruments to folk instruments from around the world, and the guides actually play the instruments during tours — a rare treat. Summer concerts are held in the botanic garden on the grounds. Take bus 3 or 4 from the centre; it's about ten minutes.

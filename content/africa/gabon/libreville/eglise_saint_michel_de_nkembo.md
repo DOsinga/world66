@@ -1,6 +1,7 @@
 ---
 latitude: 0.4042
 longitude: 9.4295
+snippet: Catholic church with striking Gabonese-style carved wooden columns
 tags:
 - things_to_do
 - sight
@@ -8,6 +9,7 @@ tags:
 - architecture
 title: Eglise Saint-Michel de Nkembo
 type: poi
+score: 7.7
 ---
 
 This church is worth visiting for its remarkable carved wooden columns depicting biblical scenes rendered in a distinctly Gabonese style. The craftsmanship is striking and unlike anything you will see in European churches.

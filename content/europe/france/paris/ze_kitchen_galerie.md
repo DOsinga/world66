@@ -1,15 +1,21 @@
 ---
 address: 4 Rue des Grands Augustins, 75006 Paris
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.855258
 longitude: 2.34032
 opening_hours: Mon–Fri noon–2:30pm and 7pm–11pm; Sat 7pm–11pm; closed Sun
 phone: +33 1 44 32 00 32
 price_per_night: €50–80 per person
+snippet: Michelin-starred French-Asian fusion on the Left Bank
 tags:
 - eating_out
+- museum
+- saint_germain
 title: Ze Kitchen Galerie
 type: poi
 url: www.zekitchengalerie.fr
+score: 6.9
 ---
 
 Ze Kitchen Galerie is one of the better restaurants for creative French cooking on the Left Bank: an art-gallery dining room with open kitchen and menus that blend classic French technique with Asian and Mediterranean influences. Chef William Ledeuil earned a Michelin star here and has maintained consistent quality for well over a decade.

@@ -6,8 +6,9 @@ phone: 504-940-2800
 tags:
 - things_to_do
 title: New Orleans Center for Creative Arts (NOCCA)
-type: Other
+type: poi
 url: www.nocca.com
+score: 7.2
 ---
 
 Not only has the New Orleans Center for Creative Arts churn out some of the most talented musicians around, it's teachers and alums are well-known around the country -- if not the world. Just a few NOCCA alums include Harry Connick Jr., Donald Harrison, Nicholas Payton, Trombone Shorty, the Marsalis Brothers, and DJ Hollygrove. NOCCA hosts free concerts regularly, so inquire within.

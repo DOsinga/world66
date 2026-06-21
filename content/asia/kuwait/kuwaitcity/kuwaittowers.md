@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Kuwait Towers
 type: poi
+score: 7.8
 ---
 
 The Kuwait Towers are the country's most famous landmark -- three blue-and-green striped towers on a promontory overlooking the Arabian Gulf. Built in 1979, they serve a dual function as entertainment facilities and water reservoirs.

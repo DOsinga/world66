@@ -16,7 +16,8 @@ quick_facts:
   Budget Beer: "~$2 for a half-litre in a pub"
   Beer Consumption: "Highest per capita in the world"
   Castles: "Over 2,000 — more per square km than anywhere"
-score: 0.51
+score: 0.80
+loc_type: country
 ---
 
 Officially called Czechia since 2016, though Czech Republic remains widely used, this landlocked country in the heart of Central Europe punches well above its weight as a travel destination. It packs medieval old towns, fairytale castles, rolling Bohemian countryside, and one of the world's great beer cultures into a compact and very easy-to-navigate country.

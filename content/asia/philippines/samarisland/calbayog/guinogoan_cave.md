@@ -2,7 +2,8 @@
 tags:
 - sights
 title: Guinogo-An Cave
-type: Hotspots
+type: poi
+score: 6.0
 ---
 
 Situated at the fringes of Barangay Longsob, Oquendo

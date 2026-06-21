@@ -7,8 +7,12 @@ snippet: 14th-century city gate housing Karl Valentin's absurdist museum
 tags:
 - things_to_do
 - landmark
+- museum
+- sight
+- altstadt
 title: Isar Tor
 type: poi
+score: 7.1
 ---
 
 The Isartor is the most easterly of Munich's three surviving medieval city gates, standing at the end of Tal street where it once marked the entrance from the Isar crossing. Built in 1337 and reinforced in the 15th century, its twin flanking towers and central gatehouse still define the neighbourhood.

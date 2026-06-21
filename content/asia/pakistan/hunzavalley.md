@@ -6,6 +6,7 @@ longitude: 74.665
 score: 0.57
 title: Hunza valley
 type: location
+loc_type: region
 ---
 
 The Hunza Valley is the great prize at the top of Pakistan — a long, irrigated green slot in the Karakoram, ringed by 7,000-metre peaks, with the Karakoram Highway threading down its length and apricot orchards spilling off every terrace. Coming up from Gilgit you round a bend and there it is: **Rakaposhi** (7,788 m) filling the windscreen, snow on its summit and pasture at its base, and across the river, the old fort town of **Karimabad** with **Baltit Fort** perched above it on a knob of rock. For many travellers, this is the moment they have been waiting for since the plane to Islamabad.

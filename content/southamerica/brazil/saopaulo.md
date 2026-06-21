@@ -2,7 +2,9 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-12'
 latitude: -23.550651
+loc_type: city
 longitude: -46.633382
 score: 0.48
 title: São Paulo

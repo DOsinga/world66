@@ -4,7 +4,8 @@ phone: 06-949619
 tags:
 - eating_out
 title: Fat Mama's
-type: Italian
+type: poi
+score: 4.7
 ---
 
 This restaurant offers not one, but two menus! It's basically two restaurants (Fat Mama's and Willy's Rib Ranch) put together and the mix creates an extensive choice of very reasonably priced meals that are large enough to fill even the most capacious belly!

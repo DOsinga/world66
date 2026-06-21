@@ -15,7 +15,8 @@ quick_facts:
   Budget Meal: "~$2–3"
   Silk Road UNESCO Sites: "5"
   Aral Sea Shrinkage: "90% lost since 1960"
-score: 0.55
+score: 0.77
+loc_type: country
 ---
 
 Uzbekistan is the beating heart of the ancient Silk Road. Three of its cities — [Samarkand](/asia/uzbekistan/samarkand), [Bukhara](/asia/uzbekistan/bukhara), and [Khiva](/asia/uzbekistan/khiva) — contain some of the most magnificent Islamic architecture anywhere on earth, and together they justify any journey to Central Asia. This is a country where history is written in tilework and mud brick, in mosques and mausoleums that have outlasted empires.

@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: deogad.jpg
+image_attribution: Nilesh.shintre
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Deogad_Beach_in_Sindhudurg_district_,Konkan_region_Maharashtra,_India.JPG
 latitude: 16.3808
+loc_type: city
 longitude: 73.3565
 score: 0.37
 title: Deogad

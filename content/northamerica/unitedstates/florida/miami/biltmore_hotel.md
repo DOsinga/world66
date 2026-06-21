@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Miami Biltmore Hotel
 type: poi
+score: 7.9
 ---
 
 The Biltmore has dominated the Coral Gables skyline since 1926, its 315-foot tower modelled on the Giralda in Seville visible for miles. Built by George Merrick and hotel magnate John McEntee Bowman, the hotel was at the centre of 1920s high society — Judy Garland, the Roosevelts, and Al Capone were all guests. During World War II it served as a military hospital, and it sat abandoned for years before a $55 million restoration in the 1980s.

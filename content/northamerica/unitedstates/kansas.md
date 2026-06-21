@@ -6,6 +6,7 @@ longitude: -98.582187
 score: 0.38
 title: Kansas
 type: location
+loc_type: region
 ---
 
 Kansas is an almost rectangular shaped state at the geographic center of the United States.
@@ -23,7 +24,7 @@ In the northwest of Kansas,
 
 ## Destinations in Kansas
 
-[Lawrence](/world/northamerica/unitedstates/kansas/lawrence)
-[Mulberry, Kansas](/world/northamerica/unitedstates/kansas/mulberry_kansas)
-[McPherson](/world/northamerica/unitedstates/kansas/mcpherson)
-[Kansas City](/world/northamerica/unitedstates/kansas/kansascity)
+Lawrence
+Mulberry, Kansas
+McPherson
+Kansas City

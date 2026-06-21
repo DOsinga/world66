@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-06-03'
 latitude: 37.3281
+loc_type: city
 longitude: -87.4988
 title: Madisonville
 type: location

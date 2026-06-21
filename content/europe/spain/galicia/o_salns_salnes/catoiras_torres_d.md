@@ -8,6 +8,7 @@ tags:
   - castle
 latitude: 42.6194
 longitude: -8.7131
+score: 7.7
 ---
 
 The remains of these medieval defence towers in Catoira were built on the orders of Archbishop Gelmirez to guard against Viking raids up the Ulla River toward Santiago de Compostela. The setting is dramatic — the ruined towers stand on a spit of land jutting into the river, surrounded by marshland.

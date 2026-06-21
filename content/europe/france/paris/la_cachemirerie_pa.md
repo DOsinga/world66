@@ -9,9 +9,11 @@ phone: +33 1 45 48 63 80
 snippet: Pure cashmere boutique in Saint-Germain-des-Prés
 tags:
 - shopping
+- saint_germain
 title: La Cachemirerie Paris
 type: poi
 url: www.lacachemirerie.com
+score: 4.7
 ---
 
 A small boutique on a quiet side street just off the Boulevard Saint-Germain, La Cachemirerie sells pure cashmere and cashmere-blend basics for men and women. The range leans toward understated — think fine-knit jumpers, cardigans, and scarves in classic colours rather than seasonal trends.

@@ -6,6 +6,7 @@ tags:
 - books
 title: The Black Soul
 type: poi
+score: 6.1
 ---
 
 A novel of passion and adultery set on a western island, written by a native of Inis Mór. O'Flaherty captures the claustrophobia and intensity of island life — the gossip, the violence of the sea, the weight of community — in prose that is both brutal and lyrical.

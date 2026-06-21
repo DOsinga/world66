@@ -15,6 +15,7 @@ tags:
 - historic_site
 title: Old Rova Site
 type: poi
+score: 6.8
 ---
 
 The old royal fortress — the Rova — once crowned the highest point in Fianarantsoa, but the French demolished it in the 1940s. What remains is an open platform at the summit with sweeping views over the town and the surrounding countryside. To get there, make your way up to the upper town and follow Rue P. Ramasitera to the top.

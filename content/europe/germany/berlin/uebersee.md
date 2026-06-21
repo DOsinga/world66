@@ -10,6 +10,7 @@ tags:
 - kreuzberg
 title: Übersee
 type: poi
+score: 6.4
 ---
 
 A large, well-appointed café with a generous terrace right on the Landwehrkanal. One of the most pleasant spots in Kreuzberg for a sunny afternoon drink. The view along the tree-lined canal is genuinely lovely.

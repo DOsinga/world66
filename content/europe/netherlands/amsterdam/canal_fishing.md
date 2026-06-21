@@ -7,6 +7,7 @@ tags:
 title: Canal fishing
 snippet: "Drag stolen bikes from Amsterdam's canals with a hook"
 type: poi
+score: 5.8
 ---
 
 Don't let the title fool you — canal fishing has nothing to do with fish. You will, however, need a length of rope and a hook. The practice is born of desperation, the kind that comes with having your bike stolen for the umpteenth time. Many of Amsterdam's stolen bikes end up in the canals, and unless someone fishes them out they stay there in an ignoble grave.

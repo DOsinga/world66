@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Covent Garden
 type: poi
+score: 7.2
 ---
 
 Covent Garden's central piazza was London's main market from the 17th century until the fruit and vegetable trade moved south of the river in 1974. The Victorian market building now houses shops and restaurants, but the square retains its character as one of the better places in central London for street performance — the pitches are licensed and the standard varies from adequate to genuinely impressive.

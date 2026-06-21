@@ -7,6 +7,7 @@ tags:
 - museum
 title: Albany Museum of Art
 type: poi
+score: 6.4
 ---
 
 A regional art museum with a strong permanent collection of 19th and 20th century American and European art. The African art collection is one of the largest in the Southeast, with over 1,000 pieces spanning the continent. Temporary exhibitions rotate throughout the year, and the museum hosts regular community events and educational programs.

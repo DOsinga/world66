@@ -11,6 +11,7 @@ tags:
 - museum
 title: P. Ramlee Memorial
 type: poi
+score: 5.8
 ---
 
 A small museum dedicated to P. Ramlee (1929-1973), Malaysia’s most celebrated entertainer. Actor, director, singer, and composer, Ramlee starred in over 60 films and recorded hundreds of songs that remain cultural touchstones across the Malay-speaking world.

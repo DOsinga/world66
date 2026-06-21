@@ -7,8 +7,11 @@ snippet: Intimate Italian restaurant near the Opera House
 tags:
 - eating_out
 - restaurant
+- sight
+- andrassy_avenue
 title: Krizia
 type: poi
+score: 7.0
 ---
 
 A small, intimate Italian restaurant near the Opera House with consistently excellent food. Seasonal specials, fresh seafood, and a strong wine list covering both Italian and Hungarian bottles. The service is polished and the atmosphere romantic. Expect around 100 to 120 euros for two with wine.

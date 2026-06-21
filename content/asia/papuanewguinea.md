@@ -14,9 +14,10 @@ quick_facts:
   English: "Official language (plus Tok Pisin)"
   Languages Spoken: "Over 800"
   Highland Contact: "Some communities first contacted in the 1930s"
-score: 0.43
+score: 0.51
 title: Papua New Guinea
 type: location
+loc_type: country
 ---
 
 Papua New Guinea is one of the most linguistically and culturally diverse countries on earth. More than 800 languages are spoken here — roughly a tenth of all the world's languages — in a country of fewer than ten million people. Much of the interior remains accessible only by small plane or on foot, and there are communities in the highlands that had no contact with the outside world until the 1930s.

@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: lhasa.jpg
+image_attribution: Dieter Schuh
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Barkhor_in_Lhasa_(Tibet)_2007_Dieter_Schuh.JPG
 latitude: 29.654205
+loc_type: city
 longitude: 91.117301
 score: 0.71
 title: Lhasa

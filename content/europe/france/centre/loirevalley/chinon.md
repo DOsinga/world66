@@ -2,8 +2,12 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
+image: chinon.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chinon_-_View_from_the_castle_-_07.jpg
 latitude: 47.1667
+loc_type: city
 longitude: 0.2402
 score: 0.63
 title: Chinon

@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Pasta Factory
-type: International
+type: poi
 url: www.pasta-factory-huahin.com
+score: 5.3
 ---
 
 The first thing you notice is the classical music in the background, and the décor. Oh the décor, magnifico!

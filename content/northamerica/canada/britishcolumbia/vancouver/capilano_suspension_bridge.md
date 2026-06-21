@@ -11,6 +11,7 @@ tags:
 title: Capilano Suspension Bridge
 type: poi
 url: https://www.capbridge.com
+score: 7.4
 ---
 
 A 137m-long footbridge swung 70m above the Capilano River, on the North Shore. The original cedar version was built in 1889; the current steel-cable bridge is a major draw, with added Treetops Adventure (raised walkways through the forest canopy) and Cliffwalk (a glass-floored cantilever along a granite cliff). It's touristy and admission is steep, but the temperate rainforest setting is genuinely beautiful. The free Lynn Canyon Suspension Bridge a few miles east is a quieter alternative.

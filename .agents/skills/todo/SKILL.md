@@ -16,7 +16,7 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 
 2. **Pick a shard**
    - Look in `todo/$ARGUMENTS/` for `.txt` batch files.
-   - Pick one at random from the first 10 available (alphabetically). Pick at random, run an actual script.
+   - Pick one at random from all available shards Pick at random, run an actual script.
    - Read the shard file to get the list of items to process.
 
 3. **Check for existing PRs**
@@ -62,3 +62,4 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 - Read TASK.md carefully — it defines the specific work for each item.
 - Don't push individual commits. Push once at the end, then create the PR.
 - If an item fails or can't be processed, note it in the PR description and move on.
+- IMPORTANT: Make sure you get the title right. don't add words etc, we use the title to check if work has been done before.

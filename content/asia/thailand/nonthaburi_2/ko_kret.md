@@ -4,9 +4,8 @@ longitude: 100.4842
 snippet: Car-free river island known for Mon pottery and temples
 tags:
 - things_to_do
-- neighbourhood
 title: Ko Kret
-type: poi
+type: neighbourhood
 ---
 
 Ko Kret is a car-free island in the Chao Phraya River, home to a community of Mon descent whose ancestors settled here during the reigns of King Taksin and King Rama II. The island is known throughout Thailand for its distinctive unglazed earthenware pottery, which you can watch being made at small workshops along the main lane. There are also several Mon-style temples and a relaxed village atmosphere that contrasts sharply with Bangkok just downriver. Take a ferry from Pak Kret pier to reach it.

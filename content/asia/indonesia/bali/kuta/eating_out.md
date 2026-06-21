@@ -13,7 +13,7 @@ address: Kuta Center, Kartika Plaza
 
 **Hard Rock Cafe**
 
-** Pete:** The Bali Hard Rock is unremarkably like every other Hard Rock Cafe around the world. It's a good place to go if you're feeling homesick or longing for some Western-style food. It's one of the few places in Kuta where you can eat beef and be reasonably confident you won't [more..](/asia/indonesia/bali/kuta/eatingout/hardrockcafe)
+** Pete:** The Bali Hard Rock is unremarkably like every other Hard Rock Cafe around the world. It's a good place to go if you're feeling homesick or longing for some Western-style food. It's one of the few places in Kuta where you can eat beef and be reasonably confident you won't end up regretting it the next day.
 
 address: Jl Pantai Kuta
 

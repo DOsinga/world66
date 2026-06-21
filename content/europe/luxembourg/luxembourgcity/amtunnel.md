@@ -7,10 +7,13 @@ phone: (+352) 40155901
 snippet: Contemporary art gallery in a former railway tunnel
 tags:
 - things_to_do
+- ville_haute
 - gallery
+neighbourhood: Ville Haute
 title: Am Tunnel
 type: poi
 zipcode: L-2954 Luxembourg
+score: 6.7
 ---
 
 A contemporary art gallery in a former railway tunnel, run by the Casino Luxembourg cultural centre. The long underground space lends itself to large-scale installations and experimental shows.

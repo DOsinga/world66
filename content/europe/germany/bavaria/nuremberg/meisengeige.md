@@ -7,6 +7,7 @@ tags:
 - bar
 title: Meisengeige
 type: poi
+score: 5.8
 ---
 
 Bar and cinema combined, showing films with subtitles rather than dubbed German. A reliable option if you want to watch something in the original language and have a drink at the same time.

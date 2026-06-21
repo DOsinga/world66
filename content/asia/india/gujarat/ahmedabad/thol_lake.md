@@ -9,6 +9,7 @@ tags:
 - nature
 title: Thol Lake Bird Sanctuary
 type: poi
+score: 7.0
 ---
 
 Thol Lake is a freshwater bird sanctuary about 30 km north of Ahmedabad, on the road toward Kadi. The lake and its surrounding wetlands attract over 150 species of birds, including large winter flocks of migratory waterfowl -- flamingos, pelicans, cranes, and ducks arrive between October and March. The sanctuary covers roughly 7 square kilometres and is one of the more accessible birdwatching spots from the city.

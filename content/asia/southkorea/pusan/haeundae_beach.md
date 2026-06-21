@@ -2,11 +2,13 @@
 title: "Haeundae Beach"
 type: poi
 tags:
-  - beaches
   - things_to_do
+  - beaches
+  - sight
 snippet: Korea's most famous beach with lively promenade
 latitude: 35.157781
 longitude: 129.158132
+score: 6.9
 ---
 
 Korea's most visited beach — a wide strip of white sand backed by a busy promenade and a skyline of hotels. In summer it gets seriously packed; the water is warm and there are beach volleyball courts, a folk festival area, and a constant stream of street food. Come at dawn in any season for the sunrise over the sea, which draws crowds of its own.

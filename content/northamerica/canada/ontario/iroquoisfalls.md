@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-13'
 latitude: 48.7672
+loc_type: city
 longitude: -80.6771
 title: Iroquois Falls
 type: location

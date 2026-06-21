@@ -11,6 +11,7 @@ tags:
 - monument
 title: Ibn Tulun Mosque
 type: poi
+score: 9.0
 ---
 
 Built in 879 AD, Ibn Tulun is one of the oldest and largest mosques in Cairo, and arguably the most beautiful. Its vast courtyard and spiraling minaret — unusual in Egypt, modeled on the minarets of Samarra in Iraq — give it a spare, monumental quality that the more decorated mosques lack. The adjacent Gayer-Anderson Museum is worth adding to the visit.

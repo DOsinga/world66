@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-14'
   poi_cleanup: '2026-04-19'
 image: eindhoven.jpg
 image_attribution: Arno van den Tillaart from Eindhoven, Netherlands
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Centrum_Eindhoven.jpg
 latitude: 51.4416
+loc_type: city
 longitude: 5.4697
 score: 0.49
 title: Eindhoven

@@ -10,6 +10,7 @@ tags:
 title: Seodaemun Prison History Hall
 type: poi
 url: www.sscmc.or.kr
+score: 7.2
 ---
 
 Seodaemun Prison was built by the Japanese colonial government in 1908 and used to imprison and execute Korean independence activists throughout the occupation (1910–1945). Around 40,000 people passed through it; many were tortured, and some were killed here. The prison remained in use by successive Korean governments until 1987 — a fact the museum does not shy away from.

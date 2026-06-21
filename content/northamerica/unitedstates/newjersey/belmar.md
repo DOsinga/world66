@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-16'
+image: belmar.jpg
+image_attribution: Wikimedia Commons
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Belmar_beach_New_Jersey.jpg
 latitude: 40.1782
+loc_type: city
 longitude: -74.0218
 score: 0.39
 title: Belmar

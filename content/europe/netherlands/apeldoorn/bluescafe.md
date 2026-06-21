@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Bluescafe
 type: poi
+score: 5.0
 ---
 
 A blues bar on the Nieuwstraat, Apeldoorn's main pedestrian shopping street, a short walk from the central Marktplein. Relaxed atmosphere, decent beer selection, and live music nights. A straightforward option if you want a drink away from the more generic chains on the square.

@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-14'
   poi_cleanup: '2026-04-19'
 image: jasper.jpg
 image_attribution: Wrbalusek
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Jasper_corner_of_Lamar_%26_Zavalla.JPG
 latitude: 52.8737
+loc_type: city
 longitude: -117.9543
 score: 0.75
 title: Jasper

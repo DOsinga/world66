@@ -6,6 +6,7 @@ longitude: -76.938207
 score: 0.43
 title: Maryland
 type: location
+loc_type: region
 ---
 
 Maryland packs a remarkable amount of variety into a small state. From the Chesapeake Bay -- the largest estuary in the United States -- to the Appalachian mountains in the west, and from the rowhouse neighborhoods of [Baltimore](/northamerica/unitedstates/maryland/baltimore) to the rural Eastern Shore, the state feels like a cross-section of the entire mid-Atlantic region compressed into a few hours' drive.

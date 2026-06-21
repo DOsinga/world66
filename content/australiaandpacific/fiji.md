@@ -15,7 +15,8 @@ quick_facts:
   Number of Islands: "333"
   English: "Widely spoken — one of three official languages"
   Greeting: Bula (said to everyone, everywhere)
-score: 0.72
+score: 0.63
+loc_type: country
 ---
 
 Fiji is an archipelago of 333 islands scattered across the South Pacific, about halfway between New Zealand and Hawaii. Most people come for the beaches, the diving, and the reliably warm weather — and Fiji delivers all of that. But the islands also have a cultural life, a complicated political history, and landscapes that range from coastal reef to interior rainforest.

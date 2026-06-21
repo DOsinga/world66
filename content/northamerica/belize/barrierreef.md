@@ -6,6 +6,7 @@ longitude: -87.6
 title: Belize Barrier Reef
 type: location
 score: 0.73
+loc_type: feature
 ---
 
 The Belize Barrier Reef is the second-longest barrier reef system in the world after Australia's Great Barrier Reef, stretching 300 km along the coast. It was designated a UNESCO World Heritage Site in 1996.

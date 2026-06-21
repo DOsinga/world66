@@ -34,9 +34,12 @@ import httpx
 from PIL import Image
 from dotenv import load_dotenv
 
-SCRIPT_DIR = Path(__file__).parent
-CONTENT_DIR = SCRIPT_DIR.parent / 'content'
-PROGRESS_FILE = SCRIPT_DIR / 'photo_progress.json'
+SCRIPT_DIR = Path(__file__).resolve().parent
+# Prefer CWD/content so the script writes into the active worktree rather than
+# the checkout that owns this file.
+_CWD_CONTENT = Path.cwd() / 'content'
+CONTENT_DIR = _CWD_CONTENT if _CWD_CONTENT.is_dir() else SCRIPT_DIR.parent / 'content'
+PROGRESS_FILE = CONTENT_DIR.parent / 'tools' / 'photo_progress.json'
 
 MIN_WIDTH = 780
 MIN_HEIGHT = 438
@@ -107,6 +110,22 @@ def build_search_query(content_path: str, meta: dict) -> str:
             location_name = ''
         return f'{location_name} {title}'.strip()
 
+    # For location pages below country level, append the country so common
+    # city names (Paro, Florence, Springfield) don't pull unrelated images.
+    # Read the country page's frontmatter title so the search uses
+    # "United Kingdom" rather than the path slug "unitedkingdom".
+    parts = content_path.strip('/').split('/')
+    if len(parts) >= 3:
+        country_md = CONTENT_DIR / parts[0] / f'{parts[1]}.md'
+        if country_md.exists():
+            try:
+                country = frontmatter.load(country_md).metadata.get('title') or parts[1]
+            except Exception:
+                country = parts[1]
+        else:
+            country = parts[1]
+        country = str(country).replace('_', ' ')
+        return f'{title} {country}'.strip()
     return title
 
 
@@ -495,7 +514,7 @@ def update_frontmatter(md_path: Path, filename: str, source_url: str, license_st
     """Update the markdown file's frontmatter with image fields.
 
     If the file already has duplicate image_* keys from an older write,
-    run `python3 tools/check_frontmatter.py --fix` first to clean them up.
+    run `python3 tools/linter.py --fix` first to clean them up.
     """
     post = frontmatter.load(md_path)
     post['image'] = filename

@@ -7,9 +7,11 @@ snippet: Seoul's golden skyscraper with panoramic views from the 63rd floor.
 tags:
 - things_to_do
 - architecture
+- sight
 title: 63 Building
 type: poi
 url: www.63city.co.kr
+score: 6.6
 ---
 
 The 63 Building (known also as the Daehan Life Insurance) sits on Yeouinaru Island in the south central area of Seoul. Open since 1985 it was once the tallest building in Asia.

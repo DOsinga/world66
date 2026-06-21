@@ -6,8 +6,9 @@ phone: 92-021-9213500
 tags:
 - getting_there
 title: Pakistan Railway
-type: By Rail
+type: poi
 url: www.pakrail.com
+score: 4.5
 ---
 
 Pakistan Railway forms the life line of the country by catering to its needs for large scale movement of freight as well as passenger traffic. It not only contributes to its economic growth but also promotes national integration.

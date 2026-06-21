@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-11'
+image: kolwezi.jpg
+image_attribution: Martin Tuchscherer
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kamoto_Mine_-_panoramio.jpg
 latitude: -10.717
+loc_type: city
 longitude: 25.467
 score: 0.21
 title: Kolwezi

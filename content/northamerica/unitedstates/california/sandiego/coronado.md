@@ -1,15 +1,21 @@
 ---
-done:
-  location_cleanup: '2026-04-08'
-latitude: 32.69152
-longitude: -117.176695
-title: Coronado
-type: location
-score: 0.63
+title: "Coronado"
+type: poi
+tags:
+  - things_to_do
+  - neighbourhood
+  - beaches
+latitude: 32.6822
+longitude: -117.1836
+snippet: The island (actually a peninsula) across the bay with San Diego's best beach and the Hotel del Coronado
+story: >
+  The Hotel del Coronado, opened in 1888, is one of the largest wooden structures in the United States.
+  L. Frank Baum wrote part of the Wizard of Oz series while staying here in 1904. Marilyn Monroe filmed
+  Some Like It Hot on the beach in 1958. And it has been claimed, without confirmation, that the
+  hotel's design influenced the color scheme of the White House Christmas decorations.
+score: 8.6
 ---
 
-Coronado is a small, affluent city on a peninsula across the bay from downtown [San Diego](/northamerica/unitedstates/california/sandiego), connected by the sweeping Coronado Bridge or, more enjoyably, by the ferry from the Embarcadero. The town has a distinct resort-village feel, with tree-lined streets, well-kept bungalows, and a walkable main drag along Orange Avenue lined with boutiques, restaurants, and ice cream shops.
+Coronado is technically a peninsula, connected to the mainland by a narrow spit, but it feels like an island — reached most pleasingly by the San Diego-Coronado ferry from the downtown waterfront. The Hotel del Coronado, a sprawling Victorian beach resort opened in 1888, dominates the oceanfront and is worth visiting even if you are not staying.
 
-The centrepiece is the Hotel del Coronado, a sprawling Victorian beach resort built in 1888 and instantly recognisable from its role as the film location for Some Like It Hot. Even if you are not staying there, the building is worth seeing and the beach in front of it is open to everyone. Coronado Beach itself consistently ranks among the best in the country — wide, flat, and backed by soft dunes, with fine golden sand that sparkles faintly in the sun due to its mica content.
-
-The north end of the island (technically a tied island, or tombolo) is home to Naval Air Station North Island, one of the largest military installations on the West Coast. The military presence is part of Coronado's identity and history. For visitors, the best use of time is a day of beach-going, a walk or bike ride along the Silver Strand, and dinner on Orange Avenue before catching the ferry back to San Diego as the sun sets over the Pacific.
+Coronado Beach runs for two miles in front of the hotel and is consistently rated among the best urban beaches in the United States. The sand is fine-grained and the setting — hotel towers on one side, the Pacific on the other, with the Coronado Bridge arching in the distance — is striking. The small downtown of Orange Avenue has restaurants, boutique shops, and the feeling of a well-maintained small town that exists primarily for the pleasure of its residents.

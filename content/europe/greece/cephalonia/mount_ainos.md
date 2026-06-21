@@ -12,6 +12,7 @@ tags:
 - nature
 title: Mount Ainos National Park
 type: poi
+score: 7.8
 ---
 
 The highest point in the Ionian Islands at 1,628 metres, and a national park protecting a rare forest of Abies cephalonica — the Cephalonian fir, a species named after the island. The drive up gives increasingly wide views over the island and sea. A footpath leads to the summit. In spring wildflowers cover the lower slopes; in winter there can be snow.

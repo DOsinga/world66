@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Flash-Flash
 type: poi
+score: 7.4
 ---
 
 Flash Flash opened in 1970 and became an instant Barcelona institution — a sleek white room with mod decor that has barely changed since. The menu is built around the tortilla, with dozens of variations from the traditional potato-and-egg to more inventive combinations. Reliable burgers too.

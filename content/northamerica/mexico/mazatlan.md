@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
 latitude: 23.203578
+loc_type: city
 longitude: -106.420839
+score: 0.6
 title: Mazatlan
 type: location
-score: 0.6
 ---
 
 Mazatlan is one of Mexico's great Pacific coast cities — a working port with a long beach resort strip, but also a genuine old town that most visitors never bother to explore. It sits on a peninsula in the state of Sinaloa, facing some of the best sunsets on the Mexican coast.

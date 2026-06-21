@@ -6,6 +6,7 @@ longitude: -118.6746
 title: Kings Canyon
 type: location
 score: 0.67
+loc_type: feature
 ---
 
 Kings Canyon National Park, adjacent to Sequoia National Park in the southern Sierra Nevada, contains some of California's most dramatic mountain scenery — deep glacier-carved canyons, towering granite walls, and groves of giant sequoias, the largest trees on earth.

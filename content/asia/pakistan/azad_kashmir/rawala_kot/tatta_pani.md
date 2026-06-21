@@ -7,6 +7,7 @@ tags:
 - nature
 title: Tatta Pani Hot Springs
 type: poi
+score: 7.6
 ---
 
 Forty-five kilometers from Rawalakot on the Hajira road, sulfur-rich hot springs emerge from the ground and flow into the Poonch River at about 680 meters elevation. Water temperatures reach roughly 86 degrees Celsius in summer and 65 degrees in winter — hot enough that you should be careful near the source.

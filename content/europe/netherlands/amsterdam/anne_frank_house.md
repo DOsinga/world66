@@ -17,6 +17,7 @@ tags:
 title: Anne Frank House
 type: poi
 url: annefrank.org
+score: 9.7
 ---
 
 The most powerful site in Amsterdam. You walk through the actual house on the Prinsengracht where Anne Frank and her family hid for two years, ending at the attic rooms with the original diary. The narrow stairs and hidden bookcase doorway make the reality of it hit hard. Book tickets online well in advance — walk-up entry is nearly impossible.

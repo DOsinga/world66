@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
 image: avignon.jpg
 image_attribution: W. Bulach
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:.00_3171_Stadtmauer_von_Avignon,_Frankreich.jpg
 latitude: 43.949249
+loc_type: city
 longitude: 4.805901
 score: 0.75
 title: Avignon

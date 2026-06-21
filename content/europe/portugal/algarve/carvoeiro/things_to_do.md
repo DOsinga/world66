@@ -3,4 +3,4 @@ title: 'Things to do in Carvoeiro'
 type: section
 ---
 
-Carvoeiro has one of the best dive sites in the Algarve, with underwater rock formations and diverse marine life. The cliff-top boardwalk at Algar Seco is a short walk from town, leading past caves, rock pools, and natural arches carved into the limestone.
+The coastline around Carvoeiro is the main draw. The cliff-top walk to [Algar Seco](/europe/portugal/algarve/carvoeiro/algar_seco) is a short stroll from town and should not be missed. Boat trips to the [Benagil cave](/europe/portugal/algarve/carvoeiro/benagil_cave) depart from the beach and are one of the best excursions on the Algarve coast. Divers and snorkellers will find the underwater rock formations among the richest in Portugal.

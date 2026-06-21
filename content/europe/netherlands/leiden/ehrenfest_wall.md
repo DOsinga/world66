@@ -6,6 +6,7 @@ longitude: 4.4833
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 A plaster wall in the old Kamerlingh Onnes Laboratory at Leiden University, covered with the signatures of some of the greatest physicists of the 20th century. Paul Ehrenfest, the Austrian-Dutch physicist who held Leiden's chair of theoretical physics, started the tradition of asking visiting scientists to sign the wall of his office after giving a lecture.

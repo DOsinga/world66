@@ -16,7 +16,8 @@ quick_facts:
   Visa: "On arrival for most nationalities"
   International Recognition: "0 countries"
   Cave Paintings at Laas Geel: "~5,000 years old"
-score: 0.12
+score: 0.30
+loc_type: country
 ---
 
 Somaliland declared independence from Somalia in 1991, after the collapse of the Siad Barre regime and years of brutal military repression. No country officially recognises it, but that hasn't stopped it from functioning. It has its own elected government, currency, police force, and passport — and for travellers, it behaves like an independent country in every practical way.

@@ -14,6 +14,7 @@ tags:
 - castle
 title: Fyvie Castle
 type: poi
+score: 9.0
 ---
 
 The finest example of Scottish baronial architecture in Aberdeenshire, now owned by the National Trust for Scotland. The castle dates from the 13th century but its current appearance — towers, turrets, and elaborately carved stonework — reflects additions made by five successive families over five centuries. Inside are displayed important portraits, arms and armour, and the castle's famous collection of Raeburn paintings. The grounds include a loch for fishing and a walled garden. A tearoom is open when the castle is.

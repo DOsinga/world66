@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: motueka.jpg
+image_attribution: Bernard Spragg on Flickr
+image_license: Public Domain
+image_source: https://www.flickr.com/photos/88123769@N02/52801000449
 latitude: -41.112493
+loc_type: city
 longitude: 173.009488
 score: 0.55
 title: Motueka

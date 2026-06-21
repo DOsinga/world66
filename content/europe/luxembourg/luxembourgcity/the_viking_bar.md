@@ -8,9 +8,13 @@ longitude: 6.128736
 snippet: Nordic-themed pub popular with expats near the station
 tags:
 - bars_and_cafes
+- gare
+- bar
+neighbourhood: Gare
 title: The Viking Bar
 type: poi
 url: www.theviking.lu
+score: 5.7
 ---
 
 A Nordic-themed pub near the train station with a lively, unpretentious atmosphere. Popular with expats and locals alike, it's known for friendly staff and a raucous but relaxed vibe. Stays open late.

@@ -9,6 +9,7 @@ tags:
 - mosque
 title: Mohammed Ali Mosque
 type: poi
+score: 8.2
 ---
 
 The Mohammed Ali Mosque — named after the 19th-century ruler, not the boxer — crowns the Citadel with its Ottoman-style domes and twin minarets. The view over Cairo from the Citadel walls alone justifies the trip, but the alabaster interior is stunning. Go early to beat the tour groups.

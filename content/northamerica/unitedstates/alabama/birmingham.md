@@ -2,7 +2,10 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-13'
+  poi_cleanup: '2026-04-21'
 latitude: 33.5207
+loc_type: city
 longitude: -86.8024
 score: 0.38
 title: Birmingham

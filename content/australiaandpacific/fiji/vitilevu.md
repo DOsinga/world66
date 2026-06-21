@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: -17.793383
+loc_type: region
 longitude: 177.978225
 score: 0.67
 title: Viti Levu

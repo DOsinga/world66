@@ -3,7 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: texel_island.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Texel_island.jpg
 latitude: 53.089372
+loc_type: region
 longitude: 4.821347
 score: 0.58
 title: Texel island

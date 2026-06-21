@@ -1,6 +1,7 @@
 ---
 latitude: 38.8786
 longitude: -77.0694
+snippet: Over 400,000 graves, the Tomb of the Unknown Soldier
 story: The Tomb of the Unknown Soldier has been guarded continuously since 1937 —
   through hurricanes, blizzards, and even a 2003 ice storm when the sentinels requested
   permission to remain at their post despite the dangerous conditions.
@@ -11,6 +12,7 @@ tags:
 title: Arlington National Cemetery
 type: poi
 url: https://www.arlingtoncemetery.mil
+score: 8.8
 ---
 
 One of the most visited sites in the Washington area, Arlington National Cemetery holds the graves of more than 400,000 military personnel and their dependents. The cemetery is open every day of the year; a visitors center near the main gate provides maps and grave-location services.

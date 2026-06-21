@@ -8,8 +8,9 @@ phone: '5049459400'
 tags:
 - things_to_do
 title: Old New Orleans Rum Tour
-type: Other
+type: poi
 url: www.neworleansrum.com
+score: 5.9
 ---
 
 Alot of people do not even know this place exists and it is only a 10

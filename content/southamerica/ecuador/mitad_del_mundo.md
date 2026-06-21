@@ -6,6 +6,7 @@ longitude: -78.609882
 title: Mitad del Mundo
 type: location
 score: 0.59
+loc_type: feature
 ---
 
 Just half an hour north of Quito, the Mitad del Mundo marks the location of the equator — or rather, where 18th-century French explorers calculated it to be. The actual equator line sits about 240 metres north, at the smaller Intiñan Solar Museum.

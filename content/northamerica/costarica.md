@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: costarica.jpg
 image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>
 image_license: CC BY 3.0
@@ -13,9 +13,10 @@ quick_facts:
   USD Accepted: "Widely accepted alongside local colón"
   No Army: Abolished in 1948
   Biodiversity: "~5% of world's species on 0.03% of its land"
-score: 0.64
+score: 0.78
 title: Costa Rica
 type: location
+loc_type: country
 ---
 
 Costa Rica punches well above its weight. This small Central American country — roughly the size of West Virginia — holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money into education and healthcare instead. That unusual history has shaped a confident, stable society that welcomes visitors without much fuss.

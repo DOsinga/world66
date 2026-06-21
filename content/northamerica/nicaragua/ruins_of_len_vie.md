@@ -6,6 +6,7 @@ done:
 score: 0.5
 title: Ruins of León Viejo
 type: location
+loc_type: feature
 ---
 
 León Viejo is one of the oldest Spanish colonial settlements in the Americas, and one of the few that was never rebuilt over. It sits on the western shore of Lake Managua (Xolotlán) at the foot of Momotombo volcano — a UNESCO World Heritage Site since 2000, and one of the most archaeologically intact early colonial sites anywhere in Latin America.

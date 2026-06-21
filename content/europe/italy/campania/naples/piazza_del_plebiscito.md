@@ -12,6 +12,7 @@ tags:
 title: Piazza del Plebiscito
 type: poi
 snippet: "Naples' grandest Bourbon square, flanked by a Pantheon-style basilica"
+score: 7.8
 ---
 
 Naples' grandest square, flanked by the neoclassical Palazzo Reale and the colonnade of the Basilica di San Francesco di Paola — modelled on the Pantheon in Rome. The ceremonial heart of the Bourbon city, it remains Naples' most impressive public space. Best seen in the early morning before the street vendors arrive, or at dusk when the light on the facade is extraordinary.

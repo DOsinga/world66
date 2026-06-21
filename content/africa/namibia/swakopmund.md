@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: swakopmund.jpg
+image_attribution: Olga Ernst
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse_Swakopmund,_Namibia.jpg
 latitude: -22.6762
+loc_type: city
 longitude: 14.5253
 score: 0.56
 title: Swakopmund

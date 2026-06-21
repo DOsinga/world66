@@ -11,6 +11,7 @@ tags:
 - museum
 title: Power Station of Art
 type: poi
+score: 7.5
 ---
 
 China's first state-run contemporary art museum, opened in 2012 inside a converted Huangpu-side power station whose 165-metre chimney still dominates the south Bund. The vast industrial halls suit big installation pieces, and the museum hosts the Shanghai Biennale. Free general admission; charged for the major shows.

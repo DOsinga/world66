@@ -6,6 +6,7 @@ longitude: -79.383961
 title: Muskoka
 type: location
 score: 0.53
+loc_type: region
 ---
 
 Travel Guide

@@ -3,18 +3,8 @@ title: 'Things to Do'
 type: section
 ---
 
-### Heritage Walk
+Ahmedabad rewards visitors who walk. The morning [Heritage Walk](/asia/india/gujarat/ahmedabad/heritage_walk) through the old city is the single best introduction — two hours through the **pols** of carved wooden havelis from the [Swaminarayan Temple](/asia/india/gujarat/ahmedabad/swaminarayan_temple) to the [Jama Masjid](/asia/india/gujarat/ahmedabad/jama_masjid). The walled city was India's first UNESCO World Heritage City and most of its great monuments stand within it: [Bhadra Fort](/asia/india/gujarat/ahmedabad/bhadra_fort), [Teen Darwaza](/asia/india/gujarat/ahmedabad/teen_darwaza), the [Sidi Saiyyed Mosque](/asia/india/gujarat/ahmedabad/sidi_saiyyed_mosque), and [Manek Chowk](/asia/india/gujarat/ahmedabad/manek_chowk).
 
-The morning heritage walk through the walled city is one of the best things you can do in Ahmedabad. Starting from the Swaminarayan Temple in Kalupur and ending at the Jama Masjid, a guide leads you through the narrow lanes and traditional pols of the old city for about two hours. You will see intricately carved wooden havelis, community courtyards, and large joint families going about their morning routines.
+Across the river, the [Sabarmati Ashram](/asia/india/gujarat/ahmedabad/sabarmati_ashram) is the second great sight — Gandhi's home and the starting point of the Salt March. The west bank is also where Ahmedabad's spectacular modernist architecture stands: Louis Kahn at the [IIM](/asia/india/gujarat/ahmedabad/iim_ahmedabad), Le Corbusier at the [Sanskar Kendra](/asia/india/gujarat/ahmedabad/sanskar_kendra) and [Villa Sarabhai](/asia/india/gujarat/ahmedabad/villa_sarabhai), Balkrishna Doshi's Sangath studio.
 
-### Sabarmati Ashram
-
-Gandhi's ashram on the banks of the Sabarmati river is a peaceful, contemplative place. This is where Gandhi lived from 1917 to 1930, and where he began the famous Salt March to Dandi. The museum has an excellent collection of his letters and photographs.
-
-### Calico Museum of Textiles
-
-One of the world's finest textile museums, housed in a beautifully carved wooden haveli. Visits are by guided tour only, limited to small groups -- book ahead. The collection spans five centuries of Indian textile art.
-
-### Law Garden Night Market
-
-Every evening, the stretch along Law Garden fills with street vendors selling traditional Gujarati clothing, embroidered bags, and handicrafts. Bargain hard -- expect to pay about half the quoted price. The surrounding food stalls make it a good place for an evening out.
+Allow time for the smaller museums — the [Calico Museum](/asia/india/gujarat/ahmedabad/calico_museum) is one of the world's great textile collections, and the [L.D. Museum](/asia/india/gujarat/ahmedabad/lalbhai_dalpatbhai_museum) holds extraordinary miniature paintings. Day trips north to [Adalaj Stepwell](/asia/india/gujarat/ahmedabad/adalaj_stepwell) and southwest to [Sarkhej Roza](/asia/india/gujarat/ahmedabad/sarkhej_roza) round out a 3-day visit.

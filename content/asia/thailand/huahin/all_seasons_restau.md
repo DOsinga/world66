@@ -6,8 +6,9 @@ tags:
 - eating_out
 - restaurant
 title: All Seasons Restaurant
-type: International
+type: poi
 url: www.all-seasons-restaurant.net
+score: 4.6
 ---
 
 Nice place for seafood and BBQ. The menu includes lobster, steaks, spareribs, thai- and seafood dishes. For the dinner it's better to make a reservation.

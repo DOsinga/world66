@@ -11,6 +11,7 @@ tags:
 title: Paddy Murphy's
 type: poi
 url: www.paddymurphys.nl
+score: 5.1
 ---
 
 A lively Irish pub in the centre with live music, decent beer, and sports on screens in the back room. Good for a casual evening when you want atmosphere without pretension.

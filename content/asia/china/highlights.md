@@ -15,15 +15,15 @@ The imperial palace complex in central [Beijing](/asia/china/beijing) is one of 
 
 ## The Terracotta Army, Xi'an
 
-Over 8,000 life-sized clay soldiers buried with China's first emperor in 210 BC. Three excavation pits are open to view, each at a different stage of archaeology. The scale and quality of the craftsmanship still astonishes. [Xi'an](/asia/china/xian) itself is worth a couple of extra days.
+Over 8,000 life-sized clay soldiers buried with China's first emperor in 210 BC. Three excavation pits are open to view, each at a different stage of archaeology. The scale and quality of the craftsmanship still astonishes. [Xi'an](/asia/china/shaanxi/xian) itself is worth a couple of extra days.
 
 ## Li River and Guilin Karst
 
-The landscape around [Guilin](/asia/china/guilin) — limestone peaks rising sharply out of flat rice paddies, reflected in slow river water — is the quintessential Chinese landscape painting made real. Take the boat from Guilin to Yangshuo, then explore the countryside around Yangshuo by bicycle.
+The landscape around [Guilin](/asia/china/guangxi/guilin) — limestone peaks rising sharply out of flat rice paddies, reflected in slow river water — is the quintessential Chinese landscape painting made real. Take the boat from Guilin to Yangshuo, then explore the countryside around Yangshuo by bicycle.
 
 ## Mogao Caves, Dunhuang
 
-Hidden in desert cliffs outside [Dunhuang](/asia/china/dunhuang), nearly 500 cave temples filled with Buddhist murals and statues. The caves were carved over a thousand years by monks and pilgrims on the Silk Road. Some murals survive in extraordinary color. One of the most remarkable historical sites in Asia.
+Hidden in desert cliffs outside [Dunhuang](/asia/china/gansu/dunhuang), nearly 500 cave temples filled with Buddhist murals and statues. The caves were carved over a thousand years by monks and pilgrims on the Silk Road. Some murals survive in extraordinary color. One of the most remarkable historical sites in Asia.
 
 ## West Lake, Hangzhou
 

@@ -13,6 +13,7 @@ tags:
 title: Saint Louis Zoo
 type: poi
 url: www.stlzoo.org
+score: 8.3
 ---
 
 One of the best zoos in the country, and entirely free to enter. Set in Forest Park, it holds more than 14,000 animals across 500 species. Highlights include the River's Edge habitat, Big Cat Country, and the Insectarium. Summer hours extend to 7pm on weekdays.

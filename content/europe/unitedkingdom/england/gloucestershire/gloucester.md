@@ -2,7 +2,12 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+image: gloucester.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Gloucester_Docks_at_Night.jpeg
 latitude: 51.86537
+loc_type: city
 longitude: -2.245819
 score: 0.52
 title: Gloucester

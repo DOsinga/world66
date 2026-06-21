@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 45.14292
+loc_type: region
 longitude: 0.632126
 score: 0.65
 title: Dordogne

@@ -15,7 +15,8 @@ quick_facts:
   Currency: New Zealand dollar
   Ocean-to-Land Ratio: "2 million km² of ocean for 237 km² of land"
   Cook Islanders Abroad: More live in NZ and Australia than on the islands
-score: 0.76
+score: 0.54
+loc_type: country
 ---
 
 Fifteen islands scattered across an area of ocean the size of India, with a total population of around 17,000 people. That ratio — vast sea, tiny population — tells you most of what you need to know about the Cook Islands. These are not undiscovered islands dressed up as paradise. They are the real thing.

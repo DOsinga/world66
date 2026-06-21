@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - jordaan
+score: 6.7
 ---
 
 The world's only museum of fluorescent art, crammed into a basement on the Tweede Leliedwarsstraat in the Jordaan. This is a one-man operation — artist Nick Padalino has spent decades collecting fluorescent minerals, paints, and artworks, and he guides visitors through the darkened rooms himself, switching UV lights on and off to reveal hidden colours in rocks, art, and everyday objects.

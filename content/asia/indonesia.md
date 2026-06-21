@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-31
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: indonesia/indonesia.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Midori" title="User:Midori">Midori</a>
 image_license: CC BY 3.0
@@ -13,9 +13,10 @@ quick_facts:
   Drives On: Left
   Islands: "17,000+"
   Languages Spoken: "700+"
-score: 0.42
+score: 0.90
 title: Indonesia
 type: location
+loc_type: country
 ---
 
 Indonesia is the world's largest archipelago — over 17,000 islands stretching across 5,000 kilometres of ocean between the Indian and Pacific. It is the fourth most populous country on earth, with 270 million people spread across six main islands and hundreds of smaller ones, speaking more than 700 distinct languages. Few countries offer such variety in so compact a form: Hindu temples and active volcanoes on [Java](/asia/indonesia/java), animist villages in the highlands of [Sumatra](/asia/indonesia/sumatra), some of the world's best coral reefs in eastern [Maluku](/asia/indonesia/maluku) and [Raja Ampat](/asia/indonesia/irianjaya), and the living dragons of [Komodo](/asia/indonesia/komodo_island).

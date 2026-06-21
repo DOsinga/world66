@@ -6,6 +6,7 @@ longitude: -86.829534
 score: 0.39
 title: Alabama
 type: location
+loc_type: region
 ---
 
 Alabama is one of the Deep South's most underrated states. It played a central role in both the Civil War and the civil rights movement, and those two chapters of American history are written into the landscape everywhere you look. But Alabama is more than its history. The Gulf Coast has some of the whitest, least crowded beaches in the country. The northern mountains offer waterfalls, canyons, and hiking. The food -- from slow-smoked barbecue to Gulf seafood -- is reason enough to visit.

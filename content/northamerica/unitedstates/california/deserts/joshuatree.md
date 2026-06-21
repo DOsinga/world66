@@ -5,6 +5,7 @@ latitude: 34.135
 longitude: -116.3153
 title: Joshua Tree
 type: location
+loc_type: feature
 ---
 
 Joshua Tree is a small desert town on the northern edge of Joshua Tree National Park in the Mojave Desert of southern California, about 200 km east of Los Angeles. The park, which it borders and serves as a gateway for, is one of the most striking landscapes in California — a high desert of enormous boulder piles, twisted Joshua trees (a type of yucca), and the meeting point of the Mojave and Sonoran deserts. The town is a hub for climbers, hikers, artists, and people seeking a particular flavour of desert mysticism.

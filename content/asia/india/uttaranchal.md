@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: uttaranchal.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Auli,_India.jpg
 latitude: 30.041738
+loc_type: region
 longitude: 79.089691
 score: 0.57
 title: Uttaranchal

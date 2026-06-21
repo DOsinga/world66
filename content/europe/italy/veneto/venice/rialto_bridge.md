@@ -3,13 +3,14 @@ admission: Free
 latitude: 45.438
 longitude: 12.3359
 snippet: Venice's most iconic bridge with a lively fish and produce market below
+neighbourhood: San Polo
 tags:
 - things_to_do
-- market
-- bridge
-- theatre
+- san_polo
+- sight
 title: Rialto Bridge & Market
 type: poi
+score: 9.2
 ---
 
 The most famous of Venice's 400+ bridges, spanning the Grand Canal at its narrowest point. The current marble bridge was completed in 1591 and for centuries was the only crossing of the Grand Canal. The views up and down the canal from the centre are among the best in Venice — best in the early morning light before the vaporettos fill the water.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Baan Chiang
 type: poi
+score: 6.2
 ---
 
 Excellent Thai restaurant set in a charming old Thai house with a pleasantly cluttered feel. They serve both central Thai and Isaan (northeastern) food. Open daily 11 am to 2 pm and 5 pm to 10:30 pm. Credit cards accepted.

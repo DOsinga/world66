@@ -13,6 +13,7 @@ tags:
 - museum
 title: Casa de Colón
 type: poi
+score: 7.9
 ---
 
 The house where Christopher Columbus supposedly lodged in 1492 before sailing west has been turned into a museum dedicated to the era of Atlantic exploration. The building itself — a 15th-century mansion with carved wooden balconies around a courtyard — is the main attraction. Inside, there are maps, navigational instruments, and exhibits on the Canaries' role as the last stop before the New World. Address: Calle Colón 1, Vegueta.

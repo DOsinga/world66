@@ -13,6 +13,7 @@ tags:
 - cafe
 title: Sant'Eustachio il Caffè
 type: poi
+score: 7.6
 ---
 
 Rome's most revered espresso bar, open since 1938, located between Piazza Navona and the Pantheon. Famous for its gran caffè — espresso pre-sweetened and blended using a secret recipe — which is served to every customer unless you specifically request it without sugar (ask for *amaro*). The coffee is roasted on-site and the result is consistently excellent.

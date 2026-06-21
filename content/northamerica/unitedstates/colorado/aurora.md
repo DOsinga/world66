@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: aurora.jpg
+image_attribution: Wikipedia user (CC BY-SA 3.0)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cherry_Creek_Lake.jpg
 latitude: 39.729432
+loc_type: city
 longitude: -104.831917
 score: 0.35
 title: Aurora

@@ -10,6 +10,7 @@ snippet: Historic Route 66 trading post with Native American treasures
 tags:
 - things_to_do
 - shopping
+score: 7.4
 ---
 
 A classic old trading post right on Route 66 in downtown Gallup. Their ad says "come to where the Indians trade," and they aren't exaggerating. An overwhelming volume of Native American jewelry, rugs, pottery, and pawn goods. Go in, be overwhelmed, take a break, go back in again.

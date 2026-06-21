@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Baghdad Cafe
 type: poi
+score: 5.1
 ---
 
 Moroccan food — couscous, tajine — in the middle of a Norman seaside town. An incongruous choice that works. Good value compared to the promenade restaurants and a welcome change of register.

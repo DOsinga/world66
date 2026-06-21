@@ -5,10 +5,12 @@ done:
 latitude: 57.1512
 longitude: -2.0781
 phone: 01224 596531
+snippet: No-frills seafront cafe serving hearty Scottish breakfasts
 tags:
 - bars_and_cafes
 title: Inversnecky Cafe
 type: poi
+score: 3.8
 ---
 
 A beloved Aberdeen institution on the seafront esplanade, serving hearty breakfasts, rolls, and hot drinks to beachgoers and dog walkers. Cash-friendly and no-frills.

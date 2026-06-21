@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Gallery Reykjavík
 type: poi
+score: 5.7
 ---
 
 A small, long-running gallery on Skólavörðustígur that sells contemporary Icelandic painting and works on paper. Useful if you want to take home a piece of original art rather than a print.

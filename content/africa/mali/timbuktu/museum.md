@@ -9,6 +9,7 @@ tags:
 - museum
 title: Timbuktu Museum
 type: poi
+score: 7.5
 ---
 
 A small but worthwhile museum near the Sidi Yahya Mosque. The collection includes old photographs, manuscripts, and artifacts from Timbuktu's golden age as a center of trade and scholarship. The museum gives useful context for understanding what this town once was.

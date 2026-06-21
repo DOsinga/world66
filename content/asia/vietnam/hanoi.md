@@ -1,11 +1,13 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
 image: hanoi.jpg
 image_attribution: CEphoto, Uwe Aranas
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg
 latitude: 21.028333
+loc_type: city
 longitude: 105.854041
 score: 0.75
 title: Hanoi

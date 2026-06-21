@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: vermont.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Londonderry_Vermont_October_2021_005.jpg
 latitude: 44.058902
+loc_type: region
 longitude: -72.6713
 score: 0.62
 title: Vermont

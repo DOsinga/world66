@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: -45.3975
+loc_type: region
 longitude: 170.1779
 score: 0.69
 title: Otago

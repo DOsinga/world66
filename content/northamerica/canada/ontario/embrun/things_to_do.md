@@ -1,13 +1,13 @@
 ---
-title: "Things to do"
-type: section
-accessibility: "Accessible from the Central Part of Embrun"
-email: "none"
-phone: "none"
-type: "Trekking"
-url: "none"
+accessibility: Accessible from the Central Part of Embrun
+email: none
 latitude: 43.660139
 longitude: -79.417114
+phone: none
+title: Things to do
+type: poi
+url: none
+score: 2.0
 ---
 
 Here are a few things you can do in Embrun.

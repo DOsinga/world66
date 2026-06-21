@@ -14,9 +14,10 @@ quick_facts:
   Currency: Gibraltar Pound (£)
   Total Area: "6.5 km² — smaller than most airports"
   Barbary Macaques: Only wild monkeys in Europe
-score: 0.62
+score: 0.37
 title: Gibraltar
 type: location
+loc_type: country
 ---
 
 Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.

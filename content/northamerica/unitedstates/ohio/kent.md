@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: 41.1537
 longitude: -81.3579
 title: Kent
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Kent is a small college town in northeast Ohio, about 15 km east of Akron. It is the home of Kent State University, which shapes much of the town's character — the restaurants, bars, and bookshops along East Main Street cater to the student population, giving the town more cultural energy than its size would suggest.

@@ -1,50 +1,10 @@
 ---
-title: "Internet Cafes"
+title: "Getting There"
 type: section
 ---
 
-**all**
+Cusco is served by the **Alejandro Velasco Astete International Airport**, about 3 km from the city centre. Flights from Lima take around an hour and a quarter; LATAM, Avianca, and Sky Airline run frequent connections. The airport is small and can be chaotic, especially during high season — arrive early.
 
-**SPEED X**
+By road, Cusco is reachable from Lima by bus (around 20–22 hours on the overnight Inca Express or Cruz del Sur), from Puno by bus (6–7 hours along the Altiplano) or by the **Andean Explorer** train (10 hours, scenic, expensive). Driving independently on Peruvian roads is possible but not recommended after dark.
 
--WE HAVE SCANNER, PRINTER, USB PORTS, CD BURNER,
-
-FOR DIGITAL CAMERAS WE HAVE CARD READERS FOR COMPACT FLAS, MEMORY STICK,
-
-SECURE DIGITAL CARD, MICRODRIVE, SMART MEDIA, MULTIMEDIA, ETC.
-
--BILINGUAL ATENTION, AND A BIT OF GERMAN.
-
--WE KNOW EVERYTHING
-
-price: 2.00 soles
-
-tel: 0051+84+247373
-
-email: speedx_cusco@usa.net
-
-hours: froM 8 am until midnight, monday to sunday, we never close!!!
-
-address: TECSECOCHA 400
-
-url: [www.speedxcusco.com](http://www.speedxcusco.com)
-
-**CBC Cyber Caf?**
-
-tel: 0051-84-236494
-
-email: 8:00-1:00 pm 3:00-6:00 pm
-
-hours: 2
-
-address: joseacv@apu.cbc.org.pe
-
-url: [www.cbc.org.pe](http://www.cbc.org.pe)
-
-**Internet Cusco**
-
-email: 2 $
-
-address: 9am to 10pm
-
-url: [238173](http://238173)
+The altitude of 3,400 metres catches many visitors off guard. Take it easy on arrival, drink coca tea, and avoid alcohol for the first 24 hours. Most symptoms — headache, breathlessness, mild nausea — pass within a day or two.

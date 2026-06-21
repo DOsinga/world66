@@ -11,6 +11,7 @@ tags:
 - history
 title: Manila Cathedral
 type: poi
+score: 7.4
 ---
 
 The principal cathedral of the Philippines, at the heart of Intramuros. The current building is the eighth on the site — the previous seven were destroyed in turn by earthquake, typhoon, fire, and war. The present 1958 reconstruction uses the same Romanesque Revival design as its 1879 predecessor. The stained glass and bronze doors are worth stepping inside for.

@@ -9,6 +9,7 @@ tags:
 - museum
 title: National Gallery of Zimbabwe
 type: poi
+score: 7.2
 ---
 
 One of the best galleries in southern Africa, the National Gallery of Zimbabwe holds an outstanding collection of Zimbabwean stone sculpture alongside contemporary paintings, prints, and mixed-media works. The Shona sculpture tradition represented here is world-renowned, and many pieces in the collection are available for purchase. Rotating exhibitions feature emerging Zimbabwean artists, and the peaceful sculpture garden is worth a stroll even if you're short on time.

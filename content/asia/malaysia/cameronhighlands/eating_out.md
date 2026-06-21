@@ -1,9 +1,9 @@
 ---
-title: "Eating Out"
-type: section
-address: "Tanah Rata hawker centre"
-price: "RM 1 for a pancake!"
-type: "Cheap"
+address: Tanah Rata hawker centre
+price: RM 1 for a pancake!
+title: Eating Out
+type: poi
+score: 4.0
 ---
 
 Restuarants, cafe, hawker centres in Cameron Highlands.
@@ -55,7 +55,7 @@ healthy since they traditionally use lard and flour to make them.
 There were 2 prata restuarants at Brinchang the last time I went. I
 can't remember their names. One of them serves a western version of the
 prata in banana, strawberries etc flavours, sort of like western pancakes.
-It's a nice idea, but personally I still prefer [more..](/asia/malaysia/cameronhighlands/eating_out/roti_prata_in_brin)
+It's a nice idea, but personally I still prefer the traditional savoury version, eaten with dhal curry on the side.
 
 type: Local
 

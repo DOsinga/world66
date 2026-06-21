@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museo La Tertulia
 type: poi
+score: 8.1
 ---
 
 Cali's modern art museum, set on the banks of the Río Cali a short walk west of the centre. The permanent collection focuses on twentieth-century Colombian and Latin American art, and the museum runs a strong programme of temporary shows, an experimental film cinema, and a printmaking workshop. One of the more engaging cultural stops in the city.

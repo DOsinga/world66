@@ -13,6 +13,7 @@ tags:
 title: Ala Bote
 type: poi
 url: www.alabote.net
+score: 5.8
 ---
 
 On the shores of the Atlantic you can watch the sun go down while enjoying some of the best food on São Miguel. The seafood is the star here, fresh from the ocean and simply prepared.

@@ -2,7 +2,9 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-13'
 latitude: 36.7664
+loc_type: city
 longitude: 31.3892
 score: 0.61
 title: Side

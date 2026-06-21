@@ -13,9 +13,10 @@ quick_facts:
   Shabbat: "Fri sunset–Sat: most transport stops"
   Dead Sea: "430 m below sea level"
   Holy Sites: "3 major religions"
-score: 0.58
+score: 0.75
 title: Israel
 type: location
+loc_type: country
 ---
 
 Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.

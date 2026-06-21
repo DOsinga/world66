@@ -8,7 +8,8 @@ quick_facts:
   Spans All 4 Hemispheres: "Only country to do so"
 latitude: 0.344861
 longitude: 173.664177
-score: 0.45
+score: 0.33
+loc_type: country
 ---
 
 Kiribati is one of those tropical islands paradises ion the Pacific. It consists of three island groups. They are, from west to east the Gilberts Group (including Banaba and known prior to western contact as Tungaru), the Phoenix Group and the Line Islands Group.

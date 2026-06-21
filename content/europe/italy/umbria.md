@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 42.965916
+loc_type: region
 longitude: 12.490236
 score: 0.67
 title: Umbria

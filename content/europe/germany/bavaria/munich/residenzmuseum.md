@@ -9,8 +9,12 @@ snippet: Wittelsbach royal palace with 130 lavishly decorated rooms
 tags:
 - things_to_do
 - museum
+- sight
+- architecture
+- altstadt
 title: Residenz Museum
 type: poi
+score: 9.2
 ---
 
 The Munich Residenz is the largest city palace in Germany, built and expanded by the Wittelsbach dynasty from 1385 until the early 19th century. The museum route winds through around 130 rooms covering Renaissance, Baroque, Rococo, and Neoclassical styles -- the Antiquarium, a vast barrel-vaulted hall from 1571, is the standout.

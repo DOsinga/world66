@@ -1,14 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - southamerica/peru/huanchaco
 ---
 
-Archaeological sites include the World heritage site of Chan Chan, the best conservation project of the Huacas del Sol y la Luna, & El Brujo Archaeological Complex.
-
-Colonial Trujillo & the Huacas should soon be World Heritage sites too.
-
-[Chan Chan](/southamerica/peru/trujillo_1)
-
-[Huacas del Sol y la Luna](/southamerica/peru/trujillo_1)
-
-[El Brujo Archaeological Complex](/southamerica/peru/trujillo_1)
+The beach town of Huanchaco, 12 km northwest of Trujillo, is the obvious day trip — or a better base than the city itself if you prefer staying near the coast. Beyond Huanchaco, the region's archaeological sites (Chan Chan, the Huacas del Sol y la Luna, Huaca El Brujo) are all reachable as day trips from the city centre.

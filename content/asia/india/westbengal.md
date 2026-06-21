@@ -6,6 +6,7 @@ longitude: 87.855
 score: 0.4
 title: West Bengal
 type: location
+loc_type: region
 ---
 
 *Asia > India > West Bengal*

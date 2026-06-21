@@ -16,6 +16,7 @@ tags:
 - castle
 title: Castello di Carlo V
 type: poi
+score: 6.9
 ---
 
 The sixteenth-century castle was built on the orders of Emperor Charles V to defend the harbour against Ottoman raids. It sits at the edge of the old town, its walls rising directly from the sea. Today it hosts exhibitions and cultural events, and the views from the ramparts across the harbour and along the coast are worth the modest entrance fee.

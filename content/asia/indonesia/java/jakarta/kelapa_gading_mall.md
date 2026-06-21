@@ -10,6 +10,7 @@ tags:
 title: Kelapa Gading Mall
 type: poi
 snippet: "Sprawling north Jakarta mall complex popular with local families"
+score: 5.1
 ---
 
 One of the biggest mall complexes in Jakarta, located in the upscale Kelapa Gading area in north Jakarta. Four interconnected buildings with branded shops, three cinemas, a supermarket with imported goods, and a large food court with local and international options. The nearby Gading Food City strip has a concentrated range of Chinese, Indonesian, and Western restaurants that draw diners from across the city.

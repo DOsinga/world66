@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Roman Forum
 type: poi
+score: 9.7
 ---
 
 The civic and commercial heart of ancient Rome, a sprawling ruin of temples, basilicas, triumphal arches, and government buildings stretching between the Colosseum and Capitoline Hill. For 1,000 years this was where Rome conducted its business, celebrated its victories, and buried its dead. The Sacred Way — along which victorious generals once paraded — still runs through the centre.

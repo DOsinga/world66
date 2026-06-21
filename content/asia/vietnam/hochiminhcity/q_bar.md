@@ -3,10 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 10.7769
 longitude: 106.7032
-snippet: Stylish cocktail bar opposite the Opera House
+score: 6.1
+snippet: Stylish cocktail bar opposite the Opera House — one of HCMC's most polished
+  late-night venues
 tags:
 - bars_and_cafes
 - bar
+- district_1
 title: Q Bar
 type: poi
 ---

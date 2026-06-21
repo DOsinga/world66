@@ -2,8 +2,9 @@
 tags:
 - getting_there
 title: Flights to and from Bergamo
-type: By Air
+type: poi
 url: web4.myair.com
+score: 2.0
 ---
 
 Bergamo is a good central position for travel to other destinations. And oftentimes is it very inexpensive.

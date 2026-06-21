@@ -7,6 +7,7 @@ tags:
 - beach
 latitude: 12.5684
 longitude: 99.9576
+score: 6.4
 ---
 
 Hua Hin's main beach stretches for several kilometers along the coast, from the fishing pier in the north down past the Hilton and beyond. The sand is firm and wide, good for walking. Vendors sell grilled squid and corn on the cob, and you can rent a pony ride for the kids.

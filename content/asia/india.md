@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-31
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: india.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" title="User:Tamjeed
   Ahmed">Tamjeed Ahmed</a>
@@ -14,9 +14,10 @@ quick_facts:
   Budget Meal: "~$1-2"
   Languages: "22 official"
   Railway Network: "68,000 km"
-score: 0.31
+score: 0.96
 title: India
 type: location
+loc_type: country
 ---
 
 *Asia > India*

@@ -5,7 +5,8 @@ opening_hours: 6:am
 tags:
 - sights
 title: Mapaso Hot Spring
-type: Hotspots
+type: poi
+score: 6.5
 ---
 
 Located thirty minutes ride to Oquendo from Calbayog plus 15-minute hike to the Spring.

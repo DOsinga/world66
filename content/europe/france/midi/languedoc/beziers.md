@@ -2,7 +2,9 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
 latitude: 43.342656
+loc_type: city
 longitude: 3.213131
 score: 0.5
 title: Beziers

@@ -1,7 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  lp_coverage: '2026-06-05'
+image: zakinthos.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Zakintos_-_panorama.jpg
 latitude: 37.7855
+loc_type: region
 longitude: 20.8992
 score: 0.72
 title: Zakinthos

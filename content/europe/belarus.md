@@ -13,9 +13,10 @@ quick_facts:
   Visa: "30-day visa-free via Minsk airport"
   Forest Cover: "40% of the country"
   Białowieża Forest: "Last primeval lowland forest in Europe"
-score: 0.33
+score: 0.42
 title: Belarus
 type: location
+loc_type: country
 ---
 
 The very word Belarus should inspire visions of beauty and kindness, if it does not, then most likely you have not been there. Belarus has retained its mystery, it has remained virtually closed and unexplored since the fall of Communism. Belarus is little known, little understood, and even less traveled. It is one of the few countries in the former Soviet Union where Lenin still stands and the Soviet symbol, the sickle and hammer, can be found in abundance. It is the only country that still uses the KGB. Powerful forces in Belarus are guiding it forward and forcing it backward at the same time.
@@ -32,7 +33,7 @@ The very word Belarus should inspire visions of beauty and kindness, if it does 
 [Minsk](/europe/belarus/minsk)
 [Brest](/europe/belarus/brest)
 [Vitebsk](/europe/belarus/vitebsk)
-[Grodno](/europe/belarus/grodno)
+[Grodno](/europe/belarus/hrodna_grodno)
 [Gomel](/europe/belarus/gomel)
 [Slutsk](/europe/belarus/slutsk)
 [Pinsk](/europe/belarus/pinsk)

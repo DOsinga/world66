@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Palais de l'OUA
 type: poi
+score: 5.7
 ---
 
 A large complex built in anticipation of a 1984 OAU summit that was never held. The main building and the row of Moorish-style guesthouses alongside it are a curious legacy of Sékou Touré's final years. Worth seeing as a piece of the city's strange political history, even if access to the interior is limited.

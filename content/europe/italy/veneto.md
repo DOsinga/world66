@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
 latitude: 45.4654
+loc_type: region
 longitude: 11.5479
 score: 0.65
 title: Veneto

@@ -1,11 +1,11 @@
 ---
-title: "Eating Out"
-type: section
-address: "A-3424 Zeiselmauer, Kirchenplatz 1"
-email: "zum.lustigen.bauern@aon.at"
-phone: "+43 (22 42) 704 24"
-type: "Local"
-url: "www.zumlustigenbauern.at"
+address: A-3424 Zeiselmauer, Kirchenplatz 1
+email: zum.lustigen.bauern@aon.at
+phone: +43 (22 42) 704 24
+title: Eating Out
+type: poi
+url: www.zumlustigenbauern.at
+score: 4.6
 ---
 
 ** Zeiselmauer offers one typical austrian "Wirtshaus". **
@@ -13,7 +13,7 @@ url: "www.zumlustigenbauern.at"
 **Contributors**
 December 28, 2006
 
-### [Gasthof zum Lustigen Bauern](/europe/austria/zeiselmauer/eating_out/gasthof_zum_lustig)
+### Gasthof zum Lustigen Bauern
 
 **
 ** T his is a real traditional Austrian restaurant. They offer excellent food and wines from the region.

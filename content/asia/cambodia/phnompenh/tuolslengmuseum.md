@@ -11,6 +11,7 @@ tags:
 - museum
 title: Tuol Sleng Genocide Museum
 type: poi
+score: 9.0
 ---
 
 A former high school converted by the Khmer Rouge into Security Prison 21, where an estimated 20,000 people were imprisoned, tortured, and sent to the Killing Fields of Choeung Ek. Only seven prisoners are known to have survived.

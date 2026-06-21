@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-09'
 image: thebosphorus.jpg
 image_attribution: Ank Kumar
 image_license: CC BY-SA 4.0
@@ -11,6 +12,7 @@ longitude: 29.02646
 score: 0.85
 title: The Bosphorus
 type: location
+loc_type: feature
 ---
 
 The Bosphorus is the strait that separates Europe from Asia, and a trip along its shores is one of the essential Istanbul experiences. Both sides of the channel are lined with old Ottoman wooden villas, 19th-century palaces, and waterside restaurants where you can watch tankers and ferries glide past.

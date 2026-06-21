@@ -12,6 +12,7 @@ tags:
 title: Hallgrímskirkja
 type: poi
 url: www.hallgrimskirkja.is
+score: 8.8
 ---
 
 The most recognisable building in Iceland, named for the seventeenth-century poet Hallgrímur Pétursson and designed to echo the basalt columns you see all over the country. The architect Guðjón Samúelsson started work in the 1940s; it took forty-one years to finish. The interior is famously stark — white concrete, plain wood, an enormous pipe organ — and pleasantly quiet compared to the queue outside.

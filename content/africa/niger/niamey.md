@@ -1,7 +1,9 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-13'
 latitude: 13.5127
+loc_type: city
 longitude: 2.1128
 score: 0.28
 title: Niamey

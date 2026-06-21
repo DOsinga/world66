@@ -3,7 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-For those who like Indian food with its exotic spices, one Reno restaurant to try is India Kabob Curry on North Virginia Street. There is a daily lunch buffet from 11:30 p.m. to 3:00 p.m. Items on the buffet vary. But if you order from the menu, be sure to try tandoori gosht dalwala. This lamb entree come with black lentils and coriander. Another one is gosht curry which is basically lamb curry. Both are delicious. Other good choices are murg (chicken) vindaloo, murg tikka masala, and the tandoori shrimp. There is plenty of choices for vegetarians as well.
+Reno's food scene has grown well beyond the cheap casino buffet stereotype. The Midtown district along South Virginia Street, a few blocks south of the casino core, is the heart of the more interesting independent restaurants. The riverfront and the older parts of downtown have a mix of upscale steakhouses, casino hotel restaurants, and long-running classics.
 
-**Contributors**
-May 11, 2009
+**Süp**, a small Midtown soup-and-sandwich shop, has a loyal following for its lunchtime menu. **Two Chicks** does brunch and modern American comfort food in the same district. **Old Granite Street Eatery** sits in a brick warehouse downtown and serves modern American with a strong cocktail list. **Beaujolais Bistro**, just across the river, is the most traditional French restaurant in town and a reliable special-occasion choice.
+
+For casino dining beyond the buffet, the **Eldorado** properties on The Row run a serious Italian (La Strada), a steakhouse (Roxy), and a respectable wine bar. For Mexican, look at **Taqueria El Rey Azteca** on East 4th Street; for ramen and sushi, **Robata Grill & Sushi** in Midtown.

@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: tataouine.jpg
+image_attribution: Ian Sewell
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Ksar_Ouled_Soltane_01.jpg
 latitude: 32.931524
+loc_type: city
 longitude: 10.450396
 score: 0.45
 title: Tataouine

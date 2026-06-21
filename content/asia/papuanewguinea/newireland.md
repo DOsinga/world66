@@ -6,6 +6,7 @@ longitude: 152.436
 title: New Ireland
 type: location
 score: 0.37
+loc_type: region
 ---
 
 New Ireland is a long, narrow island off the northeast coast of Papua New Guinea, covered with sleepy villages and copra plantations. The Dutch spotted the island in the 1500s, but it was not until nearly 300 years later that the British explorer William Dampier realised it was separate from the mainland.

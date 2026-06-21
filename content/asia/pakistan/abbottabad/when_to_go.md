@@ -1,15 +1,12 @@
 ---
-title: "When to Go in Abbottabad"
+title: "When to Go"
 type: section
 ---
 
-When you are planning a trip to **Abbottabad**,** when to go** can be a difficult decision to make. Here are some tips.
+**Summer** — May to September — is the obvious season for Abbottabad. Daytime temperatures sit around 25–30°C, the air is dry, and the hill stations above the city are at their best. This is when most domestic tourists arrive, escaping the heat of Punjab and Sindh. Hotels in Nathiagali and Thandiani can fill in July and August; book ahead.
 
-**The Climate**
+**Spring** (March–April) and **autumn** (October–early November) are cooler and quieter, with daytime temperatures around 15–20°C. The colour in the forests around the Galyat is particularly good in October.
 
-The climate in Abbottabad is largely cool, and the area experiences mild summers and very cold winters. The temperature in the winter can go down to below 0 degrees, so it be difficult to travel around in such weather. Winter is also marked by cold winds that can cut through your clothes, and during this time, much of the lake activities that Abbottabad is famous for will not run. The best time of the year is during the autumn period, between July to October, when the weather is cool and the warmth of the summer has largely passed.
+**Winter** — December through February — brings snow at higher elevations and occasional snow in Abbottabad itself. Temperatures drop to around 0°C at night and 8–12°C in the day. The Galyat hill stations get snowed in for short periods; Thandiani road is closed in heavy snow. The compensation is far fewer tourists and a more contemplative atmosphere in the city. Bring warm clothes if travelling December to February.
 
-**Festivals to Enjoy
-**
-
-Abbottabad is a multicultural place, and the two main demographic groups are the Hindus and the Muslims. Both groups celebrate their own religious festivals in the city, but to very different effects. The largest festival of the Hindus is that of Diwali, the Festival of Lights and celebrated in late October to early November. This is marked with dancing and widespread joyous celebrations of color and music, making it extremely welcoming for visitors to be part of. The main Muslim festival, on the other hand, is Eid ul-Fitr, which is somewhat quieter and celebrated on a family level, marking the importance of family relationships and religious observances. This can be a tough period for tourists, since most of the families will be concerned with their personal activities, businesses may be closed, and the streets will be generally quiet.
+The Karakoram Highway north of Abbottabad is open year-round but stretches above Naran can be closed by snow from November to May.

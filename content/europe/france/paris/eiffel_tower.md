@@ -5,12 +5,21 @@ done:
 latitude: 48.85826
 longitude: 2.294501
 snippet: Iron lattice icon of Paris with sweeping city views
+story: >
+  Gustave Eiffel was so vilified by Paris intellectuals when the tower was
+  proposed that a petition signed by 300 artists and writers called it a
+  "blot on the cityscape" and demanded it be demolished after the 1889
+  Exposition. Eiffel had the last laugh: the tower was saved because it
+  served as a radio transmission mast, and it went on to become the most
+  recognisable structure on earth.
 tags:
+- things_to_do
 - sight
 - landmark
 title: Eiffel Tower
 type: poi
 url: www.tour-eiffel.fr
+score: 9.3
 ---
 
 The Eiffel Tower was built in 1889 for the World Exposition marking the centennial of the French Revolution. Architect Gustave Eiffel, better known as the engineer behind the Statue of Liberty's iron skeleton, erected the 330-metre iron lattice tower in just over two years. Contemporaries hated it; posterity proved them wrong.

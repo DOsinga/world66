@@ -6,6 +6,7 @@ longitude: 178.032072
 title: Eastland
 type: location
 score: 0.47
+loc_type: region
 ---
 
 Eastland — officially the Gisborne region, but still widely known by its older name — occupies the eastern tip of New Zealand's North Island. It is one of the most remote and least visited parts of the country, which is precisely its appeal. The region is the first place in the world to see the sunrise each day, and the East Cape lighthouse is a popular spot to watch it.

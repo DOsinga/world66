@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sant'Abbondio
 type: poi
+score: 8.8
 ---
 
 Standing just outside the old city walls, Sant'Abbondio is one of the finest

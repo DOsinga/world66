@@ -2,11 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-31'
+  poi_cleanup: '2026-04-21'
 image: ede.jpg
 image_attribution: Michielverbeek
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ede,_de_Keetmolen_RM14468_IMG_5023_2020-04-26_10.20.jpg
 latitude: 52.071683
+loc_type: city
 longitude: 5.745511
 score: 0.4
 title: Ede

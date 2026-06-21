@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: St. Paul Roastery and Swell Bakeshop
 type: poi
+score: 5.4
 ---
 
 A combination coffee roaster and bakery that has become a reliable morning stop for locals. The coffee is genuinely good — single-origin, roasted in house — and the bakeshop next door does croissants, danishes, and seasonal pastries that are worth arriving early for. A good place to start the day before heading out to Sleeping Giant.

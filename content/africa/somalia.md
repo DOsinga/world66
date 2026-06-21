@@ -14,7 +14,8 @@ quick_facts:
   One Language: Somali (rare in Africa)
 done:
   country_cleanup: 2026-03-31
-score: 0.11
+score: 0.14
+loc_type: country
 ---
 
 Somalia occupies the Horn of Africa, a dramatic peninsula where the Gulf of Aden meets the Indian Ocean. It has the longest coastline on the African mainland — some 3,025 km of largely untouched shore — and a landscape that shifts from mountains in the north to semi-arid scrubland in the interior to the river valleys of the south.

@@ -10,6 +10,7 @@ tags:
 - spa
 title: Kaiser-Friedrich-Therme
 type: poi
+score: 7.9
 ---
 
 A sumptuous Art Nouveau bath house built in 1913 over the city's Roman-era thermal springs — gleaming tiles, steam rooms, cold plunges, a Russian-Roman sweat bath, and two hours of pure relaxation. Co-ed and nude; bring a towel. The nearby **Kochbrunnen** fountain still burbles hot, salty mineral water in the middle of a small square.

@@ -1,20 +1,12 @@
 ---
-title: "When to Go in Gouda"
+title: "When to Go"
 type: section
 ---
 
-****
+The cheese market runs on Thursday mornings from April to August — this is the main reason most people visit Gouda, and timing your trip around it is worth doing. The market runs from roughly 10am to 12.30pm; arrive early to see the full ceremony.
 
-TAXI-ONE B.V. is een jong bedrijf dat zich graag wil onderscheiden en dat doet wat het belooft. Daarom zijn wij het taxibedrijf in de Goudse regio dat werkt met vaste, maximale tarieven bij telefonisch bestelde ritten van en naar Gouda. U dient deze rit dan wel minimaal 2 uur van tevoren te reserveren. Zo bieden wij u de zekerheid die u graag wilt!
+June and July offer the best weather and the liveliest markets. Summer weekends can be busy, particularly around the cheese market, but Gouda remains manageable compared to Amsterdam or Bruges.
 
-Een voorbeeld: een taxi rit binnen Gouda kost u, indien minimaal 2 uur van te voren telefonisch besteld, nooit meer dan 9,50 Euro! Ook voor ritten buiten Gouda hanteren wij maximale prijzen bij telefonische bestelling.
+December's Gouda by Candlelight festival transforms the Markt: 15,000 candles light the square and the town hall facade, the Sint Janskerk is open in the evenings, and the local shops stay open late. It usually falls in the second week of December and draws crowds from across the region — arrive early in the afternoon if you want a good position.
 
-Kijk voor verdere informatie en prijsvoorbeelden bij Tarieven
-
-TAXI-ONE B.V. is een bedrijf dat de klant hoog in het vaandel heeft staan. Wij zijn duidelijk in de tijdsafspraken die
-
-gemaakt worden, komen met luxe, schone en schadevrije auto's voorrijden en werken met prettige en nette chauffeurs.
-
-Onze chauffeurs staan 7 dagen per week en (indien gereserveerd) 24 uur per dag tot uw dienst. Zij beschikken allen over chauffeursdiploma's: uw borg voor veilig en gedegen vervoer. Vervoersveiligheid, service en vervoerscomfort zijn voor ons namelijk heel erg belangrijk. Om dit te kunnen garanderen werken wij met vakkundige, vriendelijke chauffeurs en een luxe en jong wagenpark. Van onze chauffeurs kunt u verwachten dat zij u op een correcte en uiterst vriendelijke wijze vervoeren van deur tot deur.
-
-Kijk verder op de site www.taxi-one.nl of www.one-tours.nl
+Outside these events, Gouda makes an easy day trip any time of year. The Sint Janskerk and the Gouda Museum are open year-round.

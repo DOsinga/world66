@@ -6,6 +6,7 @@ longitude: -76.241128
 title: Lancaster County
 type: location
 score: 0.55
+loc_type: region
 ---
 
 Lancaster County is the heart of Pennsylvania Dutch country, where Amish and Mennonite communities have farmed the rolling countryside since the 18th century. Horse-drawn buggies share the roads with cars, and roadside stands sell fresh-baked shoofly pie, whoopie pies, and locally grown produce.

@@ -1,11 +1,15 @@
 ---
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 59.35
 longitude: 6.05
+snippet: Deep fjord region north of Stavanger with fishing villages and mountains
 tags:
 - things_to_do
 - landmark
 title: Ryfylke
 type: poi
+score: 7.7
 ---
 
 Ryfylke is the region of deep fjords, dramatic mountains, lush valleys and idyllic islands stretching north and northeast of Stavanger — the southern gateway to Fjord Norway. Best explored by combining transport: car, bicycle, boat, or on foot.

@@ -1,14 +1,14 @@
 ---
-title: "Eating Out"
-type: section
-address: "4, Grand-Rue"
-phone: "+352 - 26 31 36 92"
-type: "French"
+address: 4, Grand-Rue
 latitude: 43.297801
 longitude: 5.372519
+phone: +352 - 26 31 36 92
+title: Eating Out
+type: poi
+score: 5.1
 ---
 
-### [Café-Restaurant Bonifas](/europe/luxembourg/nospelt/eatingout/cafrestaurant_b)
+### Café-Restaurant Bonifas
 
 Very good restaurant with a mixture of french and local cuisine.
 

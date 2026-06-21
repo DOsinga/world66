@@ -14,7 +14,8 @@ quick_facts:
   Lemur Species: "100+"
 done:
   country_cleanup: 2026-03-31
-score: 0.62
+score: 0.76
+loc_type: country
 ---
 
 *Africa > Madagascar*

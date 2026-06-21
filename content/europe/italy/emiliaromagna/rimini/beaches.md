@@ -1,10 +1,14 @@
 ---
-title: 'Beaches'
+title: Beaches
 type: section
 ---
 
-Rimini's 15-kilometre stretch of sandy beach is one of the most popular in Italy for locals and tourists alike. Scattered along the seaside are hundreds of beach umbrellas and lounge chairs lined up in rows. A good deal of the beach is private, used by clubs and hotels. If you plan on spending serious time on the beach, consider booking a hotel on the coast for direct access.
+Rimini's 15-kilometre stretch of fine sandy beach is the original Italian Riviera. The sand is wide, the water is shallow, and the bathing establishments — `bagni`, numbered consecutively from north to south — divide the beach into orderly grids of umbrellas and sun loungers.
 
-**Public beaches.** Public access is nestled among hotels, resorts, and private homes -- look for the signs along the coastline. These free beaches offer a place to lie in the sun and swim, and many have sport shops offering jet skiing, wakeboarding, windsurfing, and beach volleyball.
+**Public beaches.** Short stretches between the bagni are free; look for the signs. They have lifeguards but few facilities — bring your own umbrella.
 
-**Grand Hotel Rimini.** For the most luxurious beach experience, the Grand Hotel Rimini offers over 11,000 square metres of beach, a swimming pool on the sand, a 4,000-square-metre park, and a beachfront restaurant and bar.
+**Bagni (private beach clubs).** Most of the coast is run as bagni: pay around 25–35 euros per day for an umbrella and two loungers in season. Many include showers, beach volleyball courts, and snack bars. Booking ahead in August is a good idea.
+
+**Marina Centro.** The original belle-époque section just below the old town, with the Grand Hotel Rimini, the Parco del Mare promenade, and the better gelaterias. The pleasantest stretch for a walk.
+
+**Bellariva, Marebello, Rivazzurra, Miramare.** The long southern strip, running towards Riccione — more family-oriented, more party-oriented further south.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Poppelsdorfer Schloss and Botanical Garden
 type: poi
+score: 7.4
 ---
 
 A baroque palace connected to the university main building by the elegant Poppelsdorfer Allee. The surrounding botanical garden holds over 8,000 plant species and is a peaceful escape from the city. Summer concerts in the palace courtyard are a Bonn tradition.

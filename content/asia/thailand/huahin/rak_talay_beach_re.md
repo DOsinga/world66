@@ -7,8 +7,9 @@ tags:
 - restaurant
 - beach
 title: Rak Talay Beach Restaurant
-type: Thai
+type: poi
 url: www.worabura.com
+score: 4.9
 ---
 
 Beautiful restaurant overlooking the beach at the Wora Bura resort. Choicce Thai Seafood and gourmet Thai cuisine in charming and romantic surrounds

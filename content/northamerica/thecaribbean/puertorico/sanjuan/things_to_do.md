@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-Walking Old San Juan is a half-day at minimum. The route from El Morro fort along the city walls to San Cristóbal fort covers most of the historic core and passes La Fortaleza, the San Juan Cathedral (where Ponce de León is buried), the Pablo Casals Museum, and the Dominican Convent. The Paseo de la Princesa promenade along the waterfront is the most pleasant stretch for an evening walk. The Bacardi rum distillery in Cataño, reached by a short ferry from Old San Juan, offers free factory tours. El Yunque National Forest, the only tropical rainforest in the US National Forest system, is 45 minutes east and worth a half-day for the hiking trails and waterfall viewpoints.
+Old San Juan is the city's main attraction — a 7-block walled town with the two great Spanish forts at either end, half a dozen churches, a clutch of small museums, and streets paved in blue cobblestones cast from the slag of European iron foundries. You can walk it in a long day; you should spend two if you want to do the forts properly.
+
+Beyond the old city, the Museo de Arte de Puerto Rico in Santurce holds the strongest art collection on the island, and the rum distillery in Cataño is a half-day excursion by ferry. The neighbourhoods of Condado, Ocean Park, and Isla Verde are where the beach scene happens. La Perla, just outside the north city walls, is a tight-knit working-class barrio that became famous for "Despacito" — visit during the day if you want to see it.

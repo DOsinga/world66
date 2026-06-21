@@ -1,9 +1,9 @@
 ---
-title: "Things to do"
-type: section
-phone: "01542 840685"
-type: "Golf"
-url: "www.cullengolfclub.co.uk"
+phone: 01542 840685
+title: Things to do
+type: poi
+url: www.cullengolfclub.co.uk
+score: 3.5
 ---
 
 Cullen golf club founded in 1870 is located at the beach and is popular with the locals and visitors.

@@ -1,12 +1,14 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
 image: paris.jpg
 image_attribution: Kainet
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
 latitude: 48.8566
+loc_type: city
 longitude: 2.3522
 score: 1.0
 title: Paris

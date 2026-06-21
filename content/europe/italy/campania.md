@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 40.839565
+loc_type: region
 longitude: 14.252243
 score: 0.8
 title: Campania

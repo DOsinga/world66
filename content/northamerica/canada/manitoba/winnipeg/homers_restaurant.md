@@ -6,8 +6,9 @@ phone: (204) 7884858
 tags:
 - eating_out
 title: Homer's Restaurant and Catering
-type: Greek
+type: poi
 url: www.homersrestaurant.ca
+score: 5.3
 ---
 
 Decent Greek cuisine and pleasant atmosphere.

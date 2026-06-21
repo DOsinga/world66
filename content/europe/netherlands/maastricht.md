@@ -2,11 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-14'
 image: maastricht.jpg
 image_attribution: Jorge Franganillo on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/46191841@N00/16878417260
 latitude: 50.851244
+loc_type: city
 longitude: 5.690977
 score: 0.66
 title: Maastricht

@@ -11,6 +11,7 @@ tags:
 title: Anne Frank House
 type: poi
 url: https://www.annefrank.org
+score: 9.7
 ---
 
 The Anne Frank House is the canal-side building where Anne Frank, her family, and four others hid from the Nazis for over two years during World War II. The secret annex behind the bookcase is still there, and walking through those small rooms — seeing the magazine clippings Anne pasted on the walls, the marks tracking the children's height — is genuinely moving.

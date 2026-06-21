@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-20'
+image: ndjamena.jpg
+image_attribution: Korom10
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_central_de_N%27djamena.jpg
 latitude: 12.1348
+loc_type: city
 longitude: 15.0557
 score: 0.25
 title: N'Djamena

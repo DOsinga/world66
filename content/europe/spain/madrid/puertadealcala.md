@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Puerta de Alcala
 type: poi
+score: 7.4
 ---
 
 Designed by Francesco Sabatini and completed in 1778, the Puerta de Alcala is one of Madrid's most recognizable monuments. Carlos III commissioned the gate to replace an older entrance along the road from Aragon, wanting something grand enough to announce arrival in the capital. The result is a neoclassical granite structure with five arches, ten columns, and sculptural decoration by Roberto Michel and Francisco Gutierrez.

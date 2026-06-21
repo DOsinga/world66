@@ -7,6 +7,7 @@ tags:
 snippet: "Live grill-at-your-table chain restaurant with buffet"
 title: Barbeque Nation
 type: poi
+score: 4.4
 ---
 
 A popular grill restaurant chain with a live barbecue concept -- you cook skewers of marinated meat and vegetables on a small grill set into your table, with a fixed-price buffet of mains and desserts to follow. The Alkapuri branch is consistently busy; book ahead at weekends.

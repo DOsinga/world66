@@ -2,6 +2,24 @@
 
 Location pages cover cities, towns, and regions. They are where travelers find specific, actionable information: what to see, where to eat, how to get around. This document defines what a good location page looks like.
 
+## Location types (`loc_type`)
+
+Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a state, a national park from a neighbourhood. Without it, batch workflows and rendering can't tell a leaf settlement apart from a region with no city children.
+
+| Value | Use for | Example paths |
+|-------|---------|---------------|
+| `continent` | The seven top-level continent pages | `europe`, `asia` |
+| `country` | Sovereign states and territories with their own page | `europe/france`, `asia/japan` |
+| `region` | Administrative regions, states, provinces, counties, multi-town areas | `europe/italy/lazio`, `northamerica/unitedstates/california` |
+| `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
+| `feature` | Natural features and named attractions that aren't settlements: national parks, lakes, mountains, monuments, archaeological sites, theme parks | `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
+
+A page is a `region` when it contains other locations as children (e.g. an Italian region with cities inside it). A page is a `city` when it is a leaf — no child locations, just sections and POIs. A `feature` is also a leaf but represents a single point of interest large enough to have its own page, not a place where people live.
+
+City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
+
+Neighbourhoods and districts within cities are not locations — they use `type: neighbourhood` and live in the parent city's directory. See [Neighbourhood tags](#neighbourhood-tags) below.
+
 ## The overview page
 
 The overview is the most important page. It should make someone want to visit — or at least understand the place. See STYLE.md for detailed guidance, but in short:
@@ -13,7 +31,7 @@ The overview is the most important page. It should make someone want to visit �
 
 ## Sections
 
-Every location has sections as children. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.
+Every location has sections - they are separate md files in the location folder. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.
 
 ### Things to Do (`things_to_do.md`)
 
@@ -35,11 +53,11 @@ For longer text, use a YAML block scalar (`story: >`).
 
 ### Eating Out (`eating_out.md`)
 
-Specific restaurants, trattorias, street food stalls.
+Specific restaurants, trattorias, street food stalls, gelaterias.
 
 ### Bars and Cafes (`bars_and_cafes.md`)
 
-Bars, cafes, gelaterias, and nightlife. Do not use a separate `nightlife` section — nightlife POIs go here.
+Bars, cafes, and nightlife. Do not use a separate `nightlife` section — nightlife POIs go here.
 
 ### Shopping (`shopping.md`)
 
@@ -71,6 +89,8 @@ Only where relevant (coastal cities).
 
 Climate, seasons, best times to visit, events worth timing a trip around.
 
+For non-country locations (regions, cities, features), only add a `when_to_go` section when the place is **substantially different** from its parent country — a high-altitude city, a tropical island off a temperate coast, a place with unique events worth timing a visit around. Amsterdam doesn't need its own when_to_go when the Netherlands has one; Quito does, because the equatorial mountains override Ecuador's general climate story.
+
 ### Getting There (`getting_there.md`)
 
 How to arrive — airports, train stations, bus connections.
@@ -83,18 +103,7 @@ Transport within the city — metro, buses, taxis, walking, bike rental.
 
 Novels and literature that help understand the place — its history, its people, its character. Not travel guides, not history books. The test: would a traveller who reads this understand the city differently?
 
-Each book is a POI in `books/` with `author:` and optionally `isbn:`. Aim for 3–5 books per city.
-
-```yaml
----
-title: "My Brilliant Friend"
-type: poi
-author: "Elena Ferrante"
-isbn: "978-1609450786"
----
-
-The first of Ferrante's four Neapolitan novels...
-```
+Write 3–5 recommendations inline in `books.md`. Each one should name the book and author, say what it's about, and explain why a traveller would want to read it. Don't create a `books/` subdirectory with POI entries — books are not points on the map.
 
 ## Sections that don't belong on location pages
 
@@ -123,7 +132,7 @@ tags:
   - art_deco
 ```
 
-This POI will appear on the Things to Do page, on the South Beach neighbourhood page, and can be filtered by Museum. The `art_deco` tag links it to the Art Deco District POI's page if one exists.
+This POI will appear on the Things to Do page, on the South Beach neighbourhood page, and can be filtered by Museum. The `art_deco` tag is for filtering.
 
 ### Section tags
 
@@ -154,7 +163,9 @@ These tags become filter buttons on section pages. The recognised category tags 
 
 For large cities, create neighbourhood POIs (with `type: neighbourhood` in the tags). Then tag other POIs with the neighbourhood's **slug** to make them appear on the neighbourhood page. For example, if you have a `south_beach.md` neighbourhood POI, tag restaurants and sights in that area with `south_beach`.
 
-The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page.
+The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page. 
+
+When a large city has over 3 neighbourhoods they should all have images, so they render nicely.
 
 ```yaml
 # A restaurant in South Beach
@@ -187,12 +198,44 @@ latitude: 41.9009
 longitude: 12.4833
 ```
 
-Do not publish a POI without coordinates. If you cannot determine them, leave the file out.
+Do not publish a POI without coordinates. If you cannot determine them, leave the file out. Don't make up coordinates. Check and double check.
+
+## POI scores
+
+Every POI must have a `score` field in its frontmatter. Scores are floats from `1.0` to `10.0` and are used to order POI lists within a location, with the most important places first.
+
+Calibrate scores against the other POIs in the same parent location. Before adding or changing a POI score, look at the existing scores for that location and place the new POI into that local lineup. The exact global score of a Paris museum versus an Amsterdam museum matters less than whether each city page presents its own strongest sights first.
+
+Use this scale:
+
+| Score range | Meaning |
+|-------------|---------|
+| `9.0`-`10.0` | World-class or essential for the place; worth travelling far to see |
+| `8.0`-`8.9` | Headline attraction; a major reason to include the location in a trip |
+| `7.0`-`7.9` | Strong second-tier sight; clearly worth making time for |
+| `6.0`-`6.9` | Solid but more selective; good for a third day or to fill an afternoon |
+| `5.0`-`5.9` | Minor, niche, or nice-to-have |
+| `< 5.0` | Low priority; mainly for completists or people already nearby |
+
+```yaml
+score: 7.4
+```
+
+## Sources
+
+The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded. Any time we discover a source, add it to the list for future reference, both for pois & locs
+
+```yaml
+sources:
+  - https://en.wikivoyage.org/wiki/Hubei
+  - https://en.wikipedia.org/wiki/Hubei
+```
 
 ## Principles
 
 - **The overview is king.** A great overview with no sections is better than a thin overview with ten empty sections.
 - **Delete empty sections.** A page that says "We currently have no X" is worse than no page at all.
+- We need section.md files to show the pois for a section. In order for pois tagged things_to_do to show up in the guide, there needs to be a section.
 - **Quality over completeness.** A city with a good overview, solid things to do, and a couple of well-written sections is well-served. Don't create stub sections just to fill the list.
 - **Link generously.** Every neighbourhood, nearby city, or day trip mentioned should link to its page if one exists.
 - **Be specific.** Name the restaurant and the dish. Include the address, the hours, the price. Vague advice is useless.
@@ -202,7 +245,5 @@ Do not publish a POI without coordinates. If you cannot determine them, leave th
 | City | Path | Notes |
 |------|------|-------|
 | Milan | `europe/italy/lombardia/milan` | Original `things_to_do` implementation |
-| Rome | `europe/italy/lazio/rome` | Category filters, story fields, neighbourhood POIs |
-| Florence | `europe/italy/tuscany/florence` | Category filters |
-| Venice | `europe/italy/veneto/venice` | Category filters |
-| Naples | `europe/italy/campania/naples` | Category filters |
+| Amsterdam | `europe/netherlands/amsterdam` | Category filters, story fields, neighbourhood POIs |
+| Paris | `europe/france/Paris/  | Category filters, story fields, neighbourhood POIs |

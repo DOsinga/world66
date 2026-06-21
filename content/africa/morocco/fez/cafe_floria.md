@@ -9,6 +9,7 @@ tags:
 - cafe
 title: Café Floria
 type: poi
+score: 5.6
 ---
 
 A long-running and popular café on Avenue Hassan II in the Ville Nouvelle, known for its croissants and pastries. A good spot for breakfast or an afternoon coffee with locals.

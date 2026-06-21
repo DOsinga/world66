@@ -6,8 +6,11 @@ longitude: 2.3431
 snippet: World's largest flea market at Porte de Clignancourt
 tags:
 - shopping
+- market
+- montmartre
 title: Marché aux Puces de Saint-Ouen
 type: poi
+score: 8.5
 ---
 
 The Marché aux Puces de Saint-Ouen at Porte de Clignancourt is the largest flea market in the world, sprawling across several distinct sub-markets with over 2,000 vendors. About 70,000 visitors descend each weekend, which gives you a sense of the scale. Take Metro line 4 to Porte de Clignancourt and follow the crowds north.

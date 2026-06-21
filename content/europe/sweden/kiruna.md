@@ -1,11 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
+image: kiruna_church.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kiruna_kyrka_2011.jpg
 latitude: 67.8558
+loc_type: city
 longitude: 20.2253
+score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Kiruna
+- https://en.wikipedia.org/wiki/Kiruna_mine
+- https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)
+- https://en.wikipedia.org/wiki/Abisko_National_Park
 title: Kiruna
 type: location
-score: 0.55
 ---
 
 Kiruna is Sweden's northernmost city, sitting deep inside the Arctic Circle in Swedish Lapland. It is best known for two things: an enormous iron ore mine and the Aurora Borealis. The mine — operated by the state-owned LKAB — is one of the largest and most productive underground iron ore mines in the world, and it has shaped everything about the town, including its location. The ground beneath the old city centre was gradually subsiding due to mining activity, so between 2014 and the 2030s, Kiruna is being systematically moved three kilometres to the east — a relocation of an entire city that has no real precedent anywhere in the world.

@@ -3,6 +3,7 @@ done:
   location_cleanup: 2026-04-07
 image_attribution: Scuola veneta
 latitude: 43.538796
+loc_type: region
 longitude: 16.175236
 score: 0.8
 title: Dalmatia

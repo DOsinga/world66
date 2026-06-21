@@ -15,7 +15,8 @@ quick_facts:
   Nollywood Films per Year: "~2,500"
 title: Nigeria
 type: location
-score: 0.25
+score: 0.48
+loc_type: country
 ---
 
 *Africa > Nigeria*

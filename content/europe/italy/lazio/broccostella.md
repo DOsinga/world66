@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-13'
+image: broccostella.jpg
+image_attribution: Wento
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sora-Broccostella-Carnello.jpg
 latitude: 41.702731
+loc_type: city
 longitude: 13.63782
 score: 0.38
 title: Broccostella

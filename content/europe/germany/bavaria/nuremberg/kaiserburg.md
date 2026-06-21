@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Kaiserburg
 type: poi
+score: 9.0
 ---
 
 The Imperial Castle looms over the old city from its sandstone crag. The complex dates from the 11th century and served as the primary residence of the Holy Roman Emperors. The oldest surviving part is the Pentagonal Tower (Fünfeckturm), built by the Hohenzollern burgraves. Climb to the top for the best views over Nuremberg's red rooftops and city walls.

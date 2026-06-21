@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Spirit Island
 type: poi
+score: 8.3
 ---
 
 A tiny tree-covered islet at the south end of Maligne Lake, accessible only by boat. The 90-minute cruise from the Maligne Lake boat dock includes a short stop at the island. Tickets can be bought in advance from the Jasper townsite office or at the lake. Spirit Island is technically only a true island for a few weeks each year, when glacial meltwater raises the lake enough to cover the narrow spit connecting it to shore.

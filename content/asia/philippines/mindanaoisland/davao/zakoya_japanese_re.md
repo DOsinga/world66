@@ -7,8 +7,9 @@ tags:
 - restaurant
 - tower
 title: Zakoya Japanese Restaurant
-type: Japanese
+type: poi
 url: www.zakoya.co.nr
+score: 4.9
 ---
 
 **The 2nd best authentic japanese restaurant in Davao city...opens for lunch from 11am-2pm and serves dinner buffet from 6pm-10pm **

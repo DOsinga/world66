@@ -9,8 +9,11 @@ snippet: World's only museum dedicated entirely to dance
 tags:
 - things_to_do
 - museum
+- sight
+- norrmalm
 title: The Dance Museum
 type: poi
+score: 6.4
 ---
 
 Dansmuseet occupies a handsome building on Gustav Adolfs torg, right in the center of Stockholm. It is one of the few museums in the world devoted entirely to the art of dance, covering everything from classical ballet and modern dance to traditional forms from Asia and Africa.

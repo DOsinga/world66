@@ -6,8 +6,9 @@ phone: +34 952 924 630
 tags:
 - eating_out
 title: Ruby's Bistro
-type: International
+type: poi
 url: www.rubysmarbella.com
+score: 3.6
 ---
 
 Ruby's Bistro provides a relaxing and friendly dinner atmosphere, incorporating Mediterranean and International dishes along with a great selection of French wines. Terrace open for summer.

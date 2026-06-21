@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Patuxai
 type: poi
+score: 7.9
 ---
 
 Vientiane's victory monument sits at the north end of Lane Xang Avenue and is often compared to the Arc de Triomphe in Paris — the Lao themselves cheerfully call it "the vertical runway" because it was built with cement the US had donated for a new airport runway. The concrete went to national pride instead.

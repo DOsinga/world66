@@ -5,8 +5,10 @@ type: section
 
 Guadalajara is a sprawling city, but the historic centre is walkable and the public transport is cheap.
 
-**By bus** -- Buses are inexpensive (a few pesos per ride) but routes are identified by landmarks rather than numbers. Ask locals or stop at a tourism kiosk to figure out which bus you need. Drivers make change for small bills but will not accept anything larger than 50 pesos or foreign currency. Avoid buses if you are carrying large luggage -- drivers may not let you board.
+**By light rail** -- Guadalajara has three light rail lines (Línea 1, Línea 2, Línea 3) and a BRT system (Macrobús). Line 3, opened in 2020, connects the historic centre to the western districts. The system is cheap (around 10 pesos per ride) and covers the main tourist corridor well. A rechargeable Mi Movilidad card avoids queuing for single tickets.
 
-**By taxi** -- Taxis are convenient and affordable. Make sure the cab has a working meter, and confirm the driver resets it when you get in. If there is no meter, negotiate the fare before you start. Late at night, some drivers will refuse to use the meter -- get a price from locals beforehand so you know what is reasonable. Landmarks matter here too: tell the driver a nearby landmark first, then the specific address.
+**By rideshare and taxi** -- Uber and InDriver operate in Guadalajara and are generally more reliable and transparent on price than street taxis. If you take a street taxi, confirm the fare before you start and check the meter. Late at night, some drivers will refuse to use the meter -- get a sense of fair prices from locals beforehand.
 
-**By light rail** -- Guadalajara has two light rail lines (Linea 1 and Linea 2) and a BRT system (Macrobus) that runs along Calzada Independencia. These are faster and more predictable than buses for routes they cover.
+**By bus** -- Buses are inexpensive but routes are identified by landmarks rather than numbers and can be confusing. Useful for getting to Tlaquepaque and Tonalá on a budget, but not recommended for first-time visitors navigating the city.
+
+**Walking** -- The historic centre, Plaza Tapatía, and the plazas around the Cathedral are best explored on foot. Colonia Americana is a 15-minute walk or a short taxi ride west.

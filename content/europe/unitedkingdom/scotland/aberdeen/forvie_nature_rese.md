@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Forvie Nature Reserve, Newburgh
 type: poi
+score: 7.8
 ---
 
 The sand dunes at Forvie National Nature Reserve are spectacular. The area is even dubbed the "Northern Sahara" due to all of the sand left after the last ice age around 15,000 years ago. The present dunes are thought to be around 2,000 years old. The mud flats in the estuary are home to many types of marine life and birds, including one of Britain's largest colonies of eider ducks.

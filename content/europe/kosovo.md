@@ -14,7 +14,8 @@ quick_facts:
   Currency: Euro (€, adopted unilaterally)
   Median Age: "30 — youngest population in Europe"
   Independence: Declared 2008
-score: 0.44
+score: 0.51
+loc_type: country
 ---
 
 Kosovo declared independence from [Serbia](/europe/serbia) in 2008 and is recognized by over 100 countries, though not by all. It is small, young, and still figuring itself out — which makes it an interesting place to visit. The atmosphere is hopeful and the welcome is warm, especially toward Westerners whose countries supported independence.

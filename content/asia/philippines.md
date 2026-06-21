@@ -15,7 +15,8 @@ quick_facts:
   Text Messages Sent Daily: "Over 400 million (texting capital of the world)"
 done:
   country_cleanup: 2026-03-30
-score: 0.41
+score: 0.75
+loc_type: country
 ---
 
 Travel Guide

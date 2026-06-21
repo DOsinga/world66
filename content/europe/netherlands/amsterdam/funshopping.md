@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Spiegelkwartier
 type: poi
+score: 7.0
 ---
 
 The Spiegelkwartier is a cluster of antique shops and art galleries concentrated on Nieuwe Spiegelstraat, running from the Herengracht toward the Rijksmuseum. Dealers here specialise in everything from old masters and Delftware to Art Deco furniture, pre-Columbian artefacts, and Asian antiquities.

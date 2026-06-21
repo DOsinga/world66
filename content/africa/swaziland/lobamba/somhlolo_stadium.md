@@ -16,6 +16,7 @@ tags:
 - history
 title: Somhlolo National Stadium
 type: poi
+score: 5.0
 ---
 
 Somhlolo National Stadium is Eswatini's main sports venue, with a capacity of around 10,000. Football matches here are social events as much as sporting ones — the atmosphere is lively, the crowds are mixed, and tickets are inexpensive. The stadium also serves as the backdrop for the annual independence day celebrations. It is easily visible from the main road through Lobamba.

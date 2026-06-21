@@ -7,7 +7,8 @@ tags:
 - eating_out
 - restaurant
 title: Bellini's
-type: Italian
+type: poi
+score: 4.1
 ---
 
 Warm, cozy Northern Italian dining room in the heart of fashionable Yorkville.

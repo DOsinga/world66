@@ -4,7 +4,8 @@ longitude: 96.093167
 tags:
 - eating_out
 title: Marie Min Vegetarian Restaurant
-type: Vegetarian
+type: poi
+score: 4.6
 ---
 
 The LP says "a godsend for travellers". This is true. Everything from

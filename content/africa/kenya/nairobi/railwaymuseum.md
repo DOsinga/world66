@@ -9,6 +9,7 @@ tags:
 - museum
 title: Railway Museum
 type: poi
+score: 7.9
 ---
 
 The Railway Museum sits at the end of Station Road near the Haile Selassie Avenue roundabout, adjacent to Nairobi Railway Station. It traces the history of the Uganda Railway — the ambitious British colonial project that opened up the interior of East Africa — through original rolling stock, photographs, and historical artefacts.

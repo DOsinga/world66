@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: northerncyprus.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Coast_with_Dome_Hotel,_Kyrenia,_Northern_Cyprus_03.jpg
 latitude: 35.224531
+loc_type: region
 longitude: 33.625238
 score: 0.56
 title: Northern Cyprus

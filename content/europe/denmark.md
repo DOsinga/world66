@@ -15,7 +15,8 @@ quick_facts:
   Cost Level: "Expensive — coffee costs ~$6"
   Inhabited Islands: "About 70 of 400+"
   Highest Point: "Just 171 m — one of the flattest countries on Earth"
-score: 0.67
+score: 0.74
+loc_type: country
 ---
 
 Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.

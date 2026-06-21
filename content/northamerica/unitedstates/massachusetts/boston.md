@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: boston.jpg
+image_attribution: Michael Browning
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Acorn_Street,_Boston,_United_States_(Unsplash).jpg
 latitude: 42.3589
+loc_type: city
 longitude: -71.0568
 score: 0.7
 title: Boston

@@ -14,6 +14,7 @@ tags:
 - restaurant
 title: La Cucina
 type: poi
+score: 4.3
 ---
 
 An Italian restaurant on the Royal Beach promenade, designed to feel like an authentic Italian household. On the pricier end for Eilat, but consistent — a good option for a sit-down dinner away from the more casual tourist spots.

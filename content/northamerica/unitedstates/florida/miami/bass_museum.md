@@ -11,6 +11,7 @@ tags:
 - art_deco
 title: Bass Museum of Art
 type: poi
+score: 7.0
 ---
 
 The Bass is Miami Beach's contemporary art museum, housed in a 1930s Art Deco building expanded by architect Arata Isozaki. The permanent collection spans European Old Masters through to contemporary photography and new media, but the rotating exhibitions are the real draw — the Bass has a knack for staging ambitious, site-specific installations that fill the building's dramatic central gallery.

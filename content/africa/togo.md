@@ -22,7 +22,8 @@ quick_facts:
   Voodoo Birthplace: Togoville
 done:
   country_cleanup: 2026-03-31
-score: 0.32
+score: 0.41
+loc_type: country
 ---
 
 Togo is a little gem; it really is one of the nicest countries to visit in West-Africa. Roads are pretty good, distances small, beaches sandy and white, people friendly, hills and mountains waiting to be explored. What else do you need? 

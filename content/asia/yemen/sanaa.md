@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-20'
+image: sanaa.jpg
+image_attribution: Hasso Hohmann
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sanaa,_Yemen_(7).jpg
 latitude: 15.35
+loc_type: city
 longitude: 44.2
 score: 0.17
 title: Sanaa

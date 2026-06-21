@@ -5,8 +5,10 @@ longitude: 11.9698
 phone: +49 345 202 4191
 tags:
 - eating_out
+snippet: Italian restaurant on Halle's market square
 title: Ristorante Rialto
 type: poi
+score: 4.7
 ---
 
 Italian restaurant on the Marktplatz with a fine view of Halle's famous five towers. Good for pizza and pasta after a stroll around the market square.

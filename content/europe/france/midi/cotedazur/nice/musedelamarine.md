@@ -7,8 +7,10 @@ snippet: Maritime history museum near the port
 tags:
 - things_to_do
 - museum
+- vieux_nice
 title: Musee de la Marine
 type: poi
+score: 4.9
 ---
 
 The naval museum occupies a prominent spot near the port of Nice and documents the city's maritime heritage with model ships, navigational instruments, and paintings depicting the port through the centuries.

@@ -26,6 +26,30 @@
 
 {% block sidebar %}
 <aside id="sidebar">
+  {% if sections or top_locations %}
+  <nav class="sidebar-mobile-nav">
+    {% if sections %}
+    <div class="sidebar-mobile-heading">Sections</div>
+    <ul class="sidebar-mobile-list">
+      {% for s in sections %}
+      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if top_locations %}
+    <div class="sidebar-mobile-heading">Destinations</div>
+    <ul class="sidebar-mobile-list">
+      {% for loc in top_locations %}
+      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      {% endfor %}
+      {% for loc in more_locations %}
+      <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </nav>
+  {% endif %}
+
   {% if page.meta.quick_facts %}
   <div class="sidebar-quick-facts">
     {% for label, value in page.meta.quick_facts.items %}
@@ -47,7 +71,7 @@
   </div>
   {% endif %}
 
-  {% if parent_sections %}
+  {% if parent_sections|length > 1 %}
   <nav class="section-sidenav">
     {% if parent %}
     <a href="{{ parent.get_absolute_url }}" class="section-sidenav-parent">
@@ -119,6 +143,9 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if page.meta.snippet %}
+<p class="page-snippet">{{ page.meta.snippet }}</p>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -229,7 +256,7 @@
         <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
         <div class="poi-meat">
           <div class="poi-name">{{ poi.title }}</div>
-          {% if poi.body %}<div class="poi-blurb">{{ poi.body|truncatewords:24 }}</div>{% endif %}
+          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
         </div>
         <div class="poi-tag">
           {% if poi.category %}{{ poi.category }}{% endif %}
@@ -307,38 +334,92 @@
 {% endif %}
 
 {% if page.page_type == "location" and sections %}
+{% if inline_sections %}
+{% for item in inline_sections %}
+<div class="wide-block poi-section">
+  <span class="section-kicker">Guide</span>
+  <h2 class="poi-section-title">{{ item.section.title }}</h2>
+  {% if item.body_html %}
+  <div class="body-text">{{ item.body_html|safe }}</div>
+  {% endif %}
+  {% if item.pois %}
+  <ul class="poi-list">
+    {% for poi in item.pois %}
+    <li>
+      <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
+        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+        <div class="poi-meat">
+          <div class="poi-name">{{ poi.title }}</div>
+          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
+        </div>
+        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endfor %}
+{% else %}
 <div class="wide-block sections-row-wrap">
   <span class="section-kicker">Guide</span>
   <h2 class="section-block-heading">Sections</h2>
 <div class="sections-row">
   {% for s in sections %}
+  {% if s.slug != "neighbourhoods" %}
   <a href="{{ s.get_absolute_url }}" class="section-card" data-slug="{{ s.slug }}">
     <div class="section-card-icon"></div>
     <div class="section-card-name">{{ s.title }}</div>
     <span class="section-card-arrow">&#8594;</span>
   </a>
+  {% endif %}
   {% endfor %}
 </div>
 </div>
+{% endif %}
 {% endif %}
 
 {% if neighbourhood_items %}
 <div class="wide-block neighbourhoods-section">
   <span class="section-kicker">Areas</span>
   <h2 class="section-block-heading">Neighbourhoods</h2>
-  <div class="nbhd-grid">
-    {% for nb in neighbourhood_items %}
-    <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
-      {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
-      <div class="nbhd-veil"></div>
-      <div class="nbhd-txt">
-        <div class="nbhd-idx">NB — {{ forloop.counter|stringformat:"02d" }}</div>
-        <div class="nbhd-name">{{ nb.title }}</div>
-      </div>
-    </a>
-    {% endfor %}
+  <div class="nbhd-strip-wrap">
+    <button class="nbhd-strip-arrow nbhd-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
+    <div class="nbhd-strip" id="nbhd-strip">
+      {% for nb in neighbourhood_items %}
+      <a href="{{ nb.get_absolute_url }}" class="nbhd-card">
+        {% if nb.image_url %}<img src="{{ nb.image_url }}" alt="{{ nb.title }}">{% endif %}
+        <div class="nbhd-veil"></div>
+        <div class="nbhd-txt">
+          <div class="nbhd-name">{{ nb.title }}</div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    <button class="nbhd-strip-arrow nbhd-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
   </div>
 </div>
+<script>
+(function() {
+  var wrap = document.querySelector('.nbhd-strip-wrap');
+  var strip = document.getElementById('nbhd-strip');
+  if (!wrap || !strip) return;
+  var prev = wrap.querySelector('.nbhd-strip-arrow--prev');
+  var next = wrap.querySelector('.nbhd-strip-arrow--next');
+  function update() {
+    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
+    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
+    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
+    next.style.opacity = atEnd ? '0' : '1';
+    next.style.pointerEvents = atEnd ? 'none' : '';
+  }
+  var step = 280;
+  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
+  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
+  strip.addEventListener('scroll', update);
+  update();
+})();
+</script>
 {% endif %}
 
 {% if nav_siblings %}

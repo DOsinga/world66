@@ -6,8 +6,9 @@ tags:
 - getting_there
 - square
 title: Bergamo Trains
-type: By Rail
+type: poi
 url: www.trenitalia.it
+score: 2.4
 ---
 
 All destinations are easily reached with the good Italian transportation system which is very much used by Italians as well as foreigners. Sit back and relax and enjoy the view or even get a sleeping car for overnight travel.

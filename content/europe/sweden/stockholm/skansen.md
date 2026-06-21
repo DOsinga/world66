@@ -10,8 +10,12 @@ tags:
 - things_to_do
 - museum
 - park
+- sight
+- market
+- djurgarden
 title: Skansen
 type: poi
+score: 9.1
 ---
 
 The world's first open-air museum, founded in 1891 by Artur Hazelius to preserve a vanishing rural Sweden. Over 150 historic buildings — farmsteads, workshops, a church, a school — were moved here from across the country, staffed by costumed interpreters who demonstrate traditional crafts like glassblowing, bread-baking, and printing.

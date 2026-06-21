@@ -2,7 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: arizona.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:The_PEFO_Tepees.jpg
 latitude: 34.0489
+loc_type: region
 longitude: -111.0937
 score: 0.64
 title: Arizona

@@ -1,29 +1,18 @@
 ---
 address: Calle Vallaresso, San Marco 1337
-latitude: 45.432807
-longitude: 12.336965
+latitude: 45.4328
+longitude: 12.3370
 phone: +39 041 5228489
 tags:
 - shopping
 - shop
 title: Bottega Veneta
-type: Speciality shops
+type: poi
 url: www.bottegaveneta.com
+snippet: "Flagship Bottega Veneta store in San Marco, a short walk from the Piazzetta"
+score: 4.2
 ---
 
-This is the flagship Bottega Veneta outlet, so you can purchase the highly desirable Bottega Veneta leather bags for a lot cheaper than you can anywhere else in the world. This world-renowned designer boutique also sells shoes, wallets, accessories, and belts.
+The Venetian luxury house's flagship store on Calle Vallaresso, one of the smarter shopping streets running south from Piazza San Marco toward the vaporetto landing stages. The brand was founded in Vicenza in 1966 and is known for its woven leather intrecciato work.
 
-**Contributors**
-May 25, 2008
-
-type: Speciality shops
-
-
-
-
-
-tel: +39 041 5228489
-
-url: [www.bottegaveneta.com](http://www.bottegaveneta.com)
-
-address: Calle Vallaresso, San Marco 1337
+Prices here are the same as in any other Bottega Veneta store worldwide — the flagship advantage is stock depth and the full range. The store carries bags, shoes, wallets, belts, and accessories.

@@ -6,6 +6,7 @@ longitude: 4.6325
 tags:
 - things_to_do
 - sight
+score: 8.7
 ---
 
 Haarlem has more hofjes (hidden courtyard almshouses) than any other city in the Netherlands — over twenty, scattered throughout the old centre, most of them still inhabited. These small courtyards of tiny houses arranged around a communal garden were founded from the medieval period onwards as charitable housing for elderly women, and many retain that function today.

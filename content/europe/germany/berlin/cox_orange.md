@@ -9,6 +9,7 @@ tags:
 title: Cox Orange
 type: poi
 snippet: "Mitte bar with jazz midweek, 80s hits on weekends"
+score: 5.9
 ---
 
 Tuesdays bring jazz, Wednesdays soul, funk, and R&B; Thursday through Saturday the floor fills up with 70s, 80s, and 90s hits. A reliably good time, with jam sessions mid-week if you want to watch musicians rather than dance.

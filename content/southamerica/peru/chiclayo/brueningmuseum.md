@@ -9,6 +9,7 @@ tags:
 - museum
 title: Brüning Museum
 type: poi
+score: 8.1
 ---
 
 Located in nearby [Lambayeque](/southamerica/peru/lambayeque), about 11 km north of Chiclayo. Named after German ethnographer Hans Heinrich Brüning, who spent decades documenting northern Peru's ancient cultures, the museum houses an excellent collection of pre-Columbian gold, ceramics, and textiles from the Sipán tombs and the Moche, Lambayeque, and Chimú cultures.

@@ -9,6 +9,7 @@ tags:
 - sight
 title: St John's College
 type: poi
+score: 8.3
 ---
 
 St John's is home to the much-photographed Bridge of Sighs, a covered bridge over the River Cam modelled (loosely) on its Venetian namesake. Founded in 1511, the college spans centuries of architecture -- from the Tudor First Court to the Victorian New Court with its Gothic Revival cloister.

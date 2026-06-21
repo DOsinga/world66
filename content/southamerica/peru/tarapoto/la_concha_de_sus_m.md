@@ -7,7 +7,8 @@ price: Cheap to Reasonable
 tags:
 - eating_out
 title: La Concha de sus Mares
-type: Seafood
+type: poi
+score: 4.8
 ---
 
 A seafood and fish place in the middle of the jungle? That's right, and La Concha de sus Mares is a very good one too. The restaurant owned by Teresa Culque specializes in seafood and all types of fish.

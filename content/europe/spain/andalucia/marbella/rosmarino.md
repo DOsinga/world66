@@ -5,8 +5,9 @@ longitude: -4.783613
 tags:
 - eating_out
 title: Rosmarino
-type: Italian
+type: poi
 url: www.dolceguide.com
+score: 4.0
 ---
 
 Stylish, sophisticated Italian restaurant

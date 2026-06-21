@@ -6,6 +6,7 @@ longitude: -82.9071
 score: 0.37
 title: Ohio
 type: location
+loc_type: region
 ---
 
 Ohio sits at the center of things — geographically and culturally. It's one of the most genuinely middle-American states, which means it's often overlooked, but spend some time here and the layers start to show. Industrial history, world-class museums, surprising food scenes, and a landscape that ranges from Lake Erie shoreline to rolling Amish farmland.

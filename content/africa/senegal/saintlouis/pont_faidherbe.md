@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Pont Faidherbe
 type: poi
+score: 8.5
 ---
 
 The Pont Faidherbe is a 507-metre iron bridge linking the island of N'Dar to the Sor mainland. Built in the 1890s, it is an impressive piece of Victorian engineering — a swing bridge with a central section that rotates to let river traffic pass. Walk across it in the late afternoon when the light is low and the fishing boats are out. It is the most photographed sight in Saint-Louis for good reason.

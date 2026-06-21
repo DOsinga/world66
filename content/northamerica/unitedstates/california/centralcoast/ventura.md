@@ -2,7 +2,12 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: ventura.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20250410_View_of_Ventura_04.jpg
 latitude: 34.2746
+loc_type: city
 longitude: -119.229
 score: 0.48
 title: Ventura

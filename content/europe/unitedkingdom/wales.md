@@ -11,6 +11,7 @@ longitude: -3.73893
 score: 0.62
 title: Wales
 type: location
+loc_type: region
 ---
 
 Wales is a small country with a large personality. Crammed into the western tip of Britain, it packs mountain ranges, a dramatic coastline, medieval castles, and a living Celtic culture into a space you can drive across in a couple of hours. The landscapes are genuinely spectacular — [Snowdonia](/europe/unitedkingdom/wales/snowdonia) in the north, the Brecon Beacons in the south, and the wild Pembrokeshire coast in the west all reward serious exploration.

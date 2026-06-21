@@ -1,15 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
-address: "Major Gabriel"
-email: "loppiano@argo.com.br"
-url: "www.loppiano.com.br"
 ---
 
-Loppiano Pizza is known for its variety of exotic pizza flavors.
+Manaus eats from the river. Tambaqui, pirarucu, tucunaré and jaraqui dominate menus, usually grilled or fried with farofa and rice. Tucupi (a yellow broth made from manioc juice) and jambu (an electrifying mouth-numbing herb) turn up in northern specialities such as tacacá and pato no tucupi. The Mercado Adolpho Lisboa and the riverfront feiras are the cheapest places to try Amazonian fruits — cupuaçu, açaí, taperebá, graviola — usually as juices or sorbets.
 
-**all**
-
-LOPPIANO Pizza
-
-Nice pizzza place for a hang out. Offers a variety of flavors and sizes of pizza.
+Most of the best restaurants sit in the Adrianópolis and Ponta Negra neighbourhoods. The centre has solid working lunches around the port and a handful of long-running classics tucked behind the cathedral.

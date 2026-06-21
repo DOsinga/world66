@@ -10,6 +10,7 @@ tags:
 - church
 title: Shrine of the Infant Jesus
 type: poi
+score: 6.4
 ---
 
 This open-air shrine sits at the top of Matina Hill, centred on replicas of the Infant Jesus of Prague and Our Lady of Fatima. It is a popular spot for quiet reflection, particularly in the early morning before the heat sets in. The real draw beyond the devotional is the panorama -- from here you can see across Davao City, out over the gulf, and to Samal Island.

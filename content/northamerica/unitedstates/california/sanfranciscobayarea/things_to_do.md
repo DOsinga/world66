@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-**Day Trip to Sausalito Rocks **
-
-**C**heck out the [***Sausalito Wooden Boat Tour***](/northamerica/unitedstates/california/sanfranciscobayarea)... you won't believe it. A great ferry boat ride will get you to Sausalito from San Francisco (aobut 40 minutes). The gal who runs the tours is a local artist and transports you through time, boat by boat, dock by dock..great sights, history, characters and TEA!
+The Bay Area's best sights are spread out: bridge views and island ferries in San Francisco, redwoods and headlands in Marin, museums and lake walks in the East Bay, and tech history down the peninsula. Choose a part of the region each day instead of trying to cross the bay four times.

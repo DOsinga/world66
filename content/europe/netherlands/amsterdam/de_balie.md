@@ -12,6 +12,7 @@ tags:
 - leidseplein
 title: De Balie
 type: poi
+score: 7.2
 ---
 
 Part cultural centre, part cafe and restaurant, De Balie is impossible to categorise and worth it for exactly that reason. There is a theatre, a debate space, a cafe, and a cinema programme. Attached to Leidseplein but calmer than anything on the square itself.

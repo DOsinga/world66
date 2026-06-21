@@ -9,6 +9,7 @@ tags:
 - park
 title: Staten Island
 type: poi
+score: 7.7
 ---
 
 The forgotten borough deserves better than its reputation as a place you pass through on the way to nowhere. The Staten Island Ferry alone is worth the trip -- a free, 25-minute ride with unbeatable views of the Statue of Liberty and Lower Manhattan skyline.

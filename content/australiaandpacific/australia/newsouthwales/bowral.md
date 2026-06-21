@@ -1,17 +1,18 @@
 ---
-title: Bowral
-type: location
+done:
+  location_enrich: '2026-06-04'
 latitude: -34.481663
+loc_type: city
 longitude: 150.417787
 score: 0.49
+sources:
+- https://en.wikipedia.org/wiki/Bowral
+title: Bowral
+type: location
 ---
 
-Travel Guide
+Bowral is the commercial center of the Southern Highlands — the cool, green tableland about 130 kilometers southwest of Sydney that has been drawing city-dwellers for a weekend escape since the railway arrived in the 1860s. The town sits at around 700 meters elevation, which gives it genuinely cool summers and cold winters by NSW standards, and the climate supports the lush gardens and deciduous trees that give it a vaguely English character.
 
-Bowral, then known as Wingecarribee, was originally the site of the property of Surveyor General and explorer, John Oxley. His son subdivided the land and established a private village which grew steadily, first catering to the needs of the newly arrived railway workers and then after the railway was operating, as a handy holiday resort for tourists from Sydney.
+The [Bradman Museum and International Cricket Hall of Fame](/australiaandpacific/australia/newsouthwales/bowral/bradman_museum) is the main reason many visitors come — Don Bradman grew up here and this is the world's best cricket museum. But Bowral has more going for it: [Corbett Gardens](/australiaandpacific/australia/newsouthwales/bowral/corbett_gardens) put on one of Australia's great tulip displays in October, the heritage streetscape of Bong Bong Street has antique shops and [Berkelouw Books](/australiaandpacific/australia/newsouthwales/bowral/berkelouw_books), and the [Southern Highlands wine region](/australiaandpacific/australia/newsouthwales/bowral/southern_highlands_wine_region) offers cellar door visits in beautiful countryside.
 
-It fast became the commercial centre of the Southern Highlands and today is still the preferred spot for a relaxing weekend away for thousands of Sydneysiders and others each year.
-
-Many of Bowral's earlier visitors built stately mansions for their summer escapes and some of these historic homes together with their magnificent gardens can be appreciated by visitors today. The conversion of some of these homes to tourist accommodation provides popular venues for a relaxed and opulent stay.
-
-Other buildings, commercial, official and churches, of historical interest are found throughout the town, restored to their original splendour.
+The Southern Highlands as a whole — Bowral, Mittagong, Moss Vale, and the Georgian village of Berrima — rewards a weekend more than a single day. Heritage homes, good restaurants, autumn foliage, and the general unhurried pace are what people come for.

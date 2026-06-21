@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 27.752773
+loc_type: region
 longitude: -15.597083
 score: 0.64
 title: Maspalomas

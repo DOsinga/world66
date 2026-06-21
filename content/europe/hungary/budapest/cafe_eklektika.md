@@ -8,8 +8,11 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+- sight
+- andrassy_avenue
 title: Cafe Eklektika
 type: poi
+score: 6.2
 ---
 
 Dim lighting, Hungarian contemporary paintings on the walls, and mismatched furniture give Eklektika a cool, bohemian atmosphere. The menu covers sandwiches, pasta, and Hungarian-style savory pancakes, and there is a good selection of local wines. A solid choice for a relaxed drink or a light meal on Budapest's Broadway district.

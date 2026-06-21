@@ -1,14 +1,15 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 33.92
-longitude: 73.68
+latitude: 33.8830
+longitude: 73.8245
 snippet: Mountain summit with panoramic views near Rawalakot
 tags:
 - things_to_do
 - nature
 title: Toli Pir
 type: poi
+score: 8.5
 ---
 
 The highest point in the northeastern Rawalakot area, Toli Pir is 40 kilometers from town and stands at the junction of three mountain ridges. The summit is a broad grassy plateau with wide-open views in every direction — on a clear day you can see far into the surrounding valleys.

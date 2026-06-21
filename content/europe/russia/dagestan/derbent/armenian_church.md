@@ -9,6 +9,7 @@ tags:
 - sight
 title: Armenian Church
 type: poi
+score: 7.6
 ---
 
 Derbent's Armenian church is a reminder of the city's pre-Islamic past and the Christian communities that once dominated this part of the Caucasus. Together with the Juma Mosque — itself a converted basilica — and the various surviving mosques from different centuries, the church illustrates the remarkable religious layering of this ancient crossroads city. The building is one of several historic religious sites in the old town worth seeking out on foot.

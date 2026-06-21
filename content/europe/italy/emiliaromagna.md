@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 44.525696
+loc_type: region
 longitude: 11.039437
 score: 0.66
 title: Emilia-Romagna

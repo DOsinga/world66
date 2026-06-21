@@ -6,8 +6,11 @@ phone: 296 385 093
 snippet: Popular local seafood spot near the marina
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Açores Marisqueira
 type: poi
+score: 6.3
 ---
 
 Good seafood restaurant near the Marina, with a large menu and a strong focus on local fish and shellfish. Very popular with locals — a reliable sign of quality. The setting is unpretentious and the portions are generous.

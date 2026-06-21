@@ -7,10 +7,11 @@ longitude: 130.757
 phone: +61 8 8978 5000
 snippet: Casual waterside spot across the harbour from Darwin
 tags:
-- things_to_do
 - eating_out
+- restaurant
 title: Mandorah Cafe
 type: poi
+score: 6.1
 ---
 
 Mandorah Cafe sits on the Cox Peninsula shoreline, a short ferry ride across Darwin Harbour from the city. The cafe serves standard Australian pub fare — burgers, fish and chips, cold beers — and the real draw is the setting. Tables look out over the water toward the Darwin skyline, and the sunsets here are reliably spectacular.

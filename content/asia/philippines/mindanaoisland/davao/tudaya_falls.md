@@ -1,17 +1,16 @@
 ---
-address: San Miguel Odaka, Davao del Sur
+address: Santa Cruz, Davao del Sur
+latitude: 6.7533
+longitude: 125.3147
+snippet: Tallest waterfall in Mt. Apo National Park, three hours from Davao
 tags:
 - things_to_do
 - park
 title: Tudaya Falls
 type: poi
+score: 7.7
 ---
 
-This 100-meter waterfalls is the tallest waterfalls in the Mt. Apo National Park. It is located in Sta Cruz municipality of Davao del Sur, about 3 hours by car from Davao City.
+At around 100 meters, Tudaya Falls is the tallest waterfall within Mt. Apo National Park and one of the most impressive in Mindanao. It's located in the municipality of Santa Cruz in Davao del Sur, roughly three hours by road from Davao City.
 
-**Contributors**
-November 22, 2005
-
-March 16, 2006
-
-type: Parks, Gardens and Zoos
+The approach involves a trek through forest, and the falls themselves drop into a pool at the base. The surrounding area is part of the national park that protects the slopes of Mt. Apo, the Philippines' highest peak. Arrange a local guide — trails can be hard to follow and conditions vary.

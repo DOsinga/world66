@@ -12,6 +12,7 @@ tags:
 title: Parc de Chantilly
 type: poi
 url: www.domainedechantilly.com
+score: 8.9
 ---
 
 The park surrounding the château is a layered landscape three centuries in the making. The core is Le Nôtre's formal French garden, designed in the 1660s and 1670s: grand axes, sculpted terraces, a Grand Canal that channels the Nonette river into a long reflecting sheet, and the round Bassin de la Gerbe. Le Nôtre also rerouted the entrance approach and created the broad perspective that frames the château from the main gate.

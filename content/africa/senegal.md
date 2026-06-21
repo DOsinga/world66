@@ -15,7 +15,8 @@ quick_facts:
   Military Coups: "0"
 done:
   country_cleanup: 2026-03-31
-score: 0.49
+score: 0.61
+loc_type: country
 ---
 
 *Africa > Senegal*

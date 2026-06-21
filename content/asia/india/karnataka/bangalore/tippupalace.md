@@ -5,9 +5,11 @@ longitude: 77.573684
 snippet: Tipu Sultan's ornate wooden summer palace
 tags:
 - things_to_do
+- sight
 - landmark
 title: Tippu Palace
 type: poi
+score: 7.3
 ---
 
 Tipu Sultan's Summer Palace sits within the walls of the Bangalore Fort, originally built by Kempe Gowda in the 16th century. The two-story structure is built almost entirely of wood, with ornate pillars, arches, and balconies decorated with floral motifs. Inside, you'll find paintings depicting Tipu's military campaigns and court life.

@@ -1,6 +1,7 @@
 ---
 image_attribution: ravas51
 latitude: -43.586562
+loc_type: region
 longitude: 171.212329
 score: 0.87
 title: South Island

@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: sulawesi.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Bunaken_Island,_Sulawesi,_2016.jpg
 latitude: -1.007483
+loc_type: region
 longitude: 121.256461
 score: 0.59
 title: Sulawesi
@@ -18,5 +22,5 @@ Rantepao is the best place to explore the Tana Toraja. The town itself is not sp
 
 ## Destinations in Sulawesi
 
-[Manado](/world/asia/indonesia/sulawesi/manado)
-[Makassar](/world/asia/indonesia/sulawesi/makassar)
+Manado
+Makassar

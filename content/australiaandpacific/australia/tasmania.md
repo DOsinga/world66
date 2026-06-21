@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: -42.035067
+loc_type: region
 longitude: 146.636689
 score: 0.66
 title: Tasmania

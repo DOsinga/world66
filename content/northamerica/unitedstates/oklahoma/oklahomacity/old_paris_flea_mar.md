@@ -10,6 +10,7 @@ tags:
 - shopping
 title: Old Paris Flea Market
 type: poi
+score: 5.8
 ---
 
 Old Paris Flea Market is a classic Midwestern flea market with a mix of new merchandise, garage sale finds, and genuine old junk. Some old-time antiques and collectibles dealers keep stalls here, making it worth the trip for shoppers willing to be a little adventurous.

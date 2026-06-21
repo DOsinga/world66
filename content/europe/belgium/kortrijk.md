@@ -2,7 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: kortrijk.jpg
+image_attribution: Trougnouf (Benoit Brummer)
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Broeltorens,_Kortrijk_(DSCF9278).jpg
 latitude: 50.8276
+loc_type: city
 longitude: 3.266
 score: 0.47
 title: Kortrijk

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Rolling Hills Memorial Park
 type: poi
+score: 6.2
 ---
 
 A landscaped memorial park on the outskirts of Bacolod, set across gently rolling terrain with views back toward the city and out to Guimaras Strait. The grounds are modelled on American garden cemeteries — wide lawns, flowering trees, and paved walking paths — and locals use it as a quiet place to stroll or jog in the early morning. The hilltop section offers one of the better panoramic views of Bacolod without having to leave the city proper.

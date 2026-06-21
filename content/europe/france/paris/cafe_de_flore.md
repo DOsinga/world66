@@ -9,9 +9,13 @@ phone: +33 1 45 48 55 26
 snippet: Iconic Saint-Germain literary cafe since the 1940s
 tags:
 - bars_and_cafes
+- sight
+- architecture
+- saint_germain
 title: Café de Flore
 type: poi
 url: www.cafedeflore.fr
+score: 6.9
 ---
 
 Café de Flore is the most famous of the Saint-Germain literary cafes, a place where Sartre, de Beauvoir, Camus, and Picasso were regulars during the postwar years of existentialism and intellectual ferment. The Art Deco interior — red banquettes, mirrored walls, dark wood — has barely changed since the 1950s.

@@ -1,6 +1,9 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - asia/turkey/dalyan
+  - asia/turkey/fethiye
 ---
 
 Dalaman is a gateway, and the best of the region lies in the surrounding towns. Rent a car or catch a dolmus (shared minibus) from the bus station — the coast and hills are full of day trip options.

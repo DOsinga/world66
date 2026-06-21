@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Restaurant Central
 type: poi
+score: 5.4
 ---
 
 A long-running restaurant in the northern grid serving a mix of Mediterranean and international dishes. The kitchen is reliable and the setting comfortable — good for a substantial dinner without too much ceremony. Popular with locals for business lunches. Reservations recommended on Friday and Saturday evenings.

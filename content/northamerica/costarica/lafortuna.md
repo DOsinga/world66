@@ -1,9 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
 image: lafortuna.jpg
 image_attribution: Beate Schroder-Wettwer
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Arenal-Vukan_und_der_Ort_La_Fortuna.jpg
 latitude: 10.4679
+loc_type: city
 longitude: -84.6427
 score: 0.67
 title: La Fortuna

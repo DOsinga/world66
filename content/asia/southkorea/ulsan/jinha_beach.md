@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Jinha Beach
 type: poi
+score: 6.0
 ---
 
 Jinha Beach sits in the far south of the Ulsan metropolitan area, well away from the city center. The crescent-shaped beach is backed by a somewhat run-down resort strip, but the setting itself is striking — particularly the small island of Myeongseondo visible offshore, reachable on foot at low tide.

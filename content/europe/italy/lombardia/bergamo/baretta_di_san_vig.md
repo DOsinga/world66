@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Baretto di San Vigilio
-type: Italian
+type: poi
 url: www.baretto.it
+score: 5.8
 ---
 
 A la carte restaurant with an outdoor front terrace in summer

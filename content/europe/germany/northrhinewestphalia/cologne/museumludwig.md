@@ -7,7 +7,8 @@ tags:
 - things_to_do
 - museum
 title: Museum Ludwig
-type: Museums
+type: poi
+score: 8.6
 ---
 
 type: Museums

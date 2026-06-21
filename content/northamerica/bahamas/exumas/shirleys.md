@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Shirley's Seafood Restaurant
 type: poi
+score: 6.5
 ---
 
 At the Fish Fry strip north of George Town on Queen's Highway, Shirley's is a local favourite for deep-fried grouper, crab cakes, and coconut-garlic grouper wraps. The portions are large and the prices are fair by Exuma standards. Wi-Fi makes it popular with the cruising sailor crowd.

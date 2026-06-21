@@ -6,6 +6,7 @@ longitude: -71.47
 title: Lakes Region
 type: location
 score: 0.53
+loc_type: feature
 ---
 
 Excitement and relaxation meet in the Lakes Region of New Hampshire. The name alone evokes images of blissful, lazy summer days on the water.

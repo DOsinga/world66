@@ -11,6 +11,7 @@ tags:
 title: Down Under
 type: poi
 url: www.down-under-hamburg.de
+score: 4.2
 ---
 
 Australian-themed pub in the university quarter, with English-speaking staff, pool tables, table football and decent food until late. A reliable spot if you want something unpretentious in the Grindel area.

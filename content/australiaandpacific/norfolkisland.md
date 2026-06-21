@@ -15,7 +15,8 @@ quick_facts:
   Currency: Australian Dollar
   Bounty Mutineer Descendants: Most of the population
   Phone Book: World's only one listing nicknames
-score: 0.47
+score: 0.34
+loc_type: country
 ---
 
 Norfolk island was virtually uninhabited when, in 1774, Captain James Cook fell across it. If you see how small the island is and how big the Ocean around, you understand that a bit of luck was involved, even if you take into account that Cook was a great explorer.

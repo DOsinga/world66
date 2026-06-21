@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-02'
 latitude: -38.2363
+loc_type: city
 longitude: 146.3978
 score: 0.3
 title: Morwell

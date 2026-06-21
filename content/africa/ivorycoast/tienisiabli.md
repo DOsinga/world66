@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-04'
 latitude: 7.6833
+loc_type: city
 longitude: -7.5167
+score: 0.23
 title: Tieni-Siabli
 type: location
-score: 0.23
 ---
 
 Tieni is an old village perched dramatically on a cliff face, overlooking a green valley in central-western Ivory Coast. The setting is striking — the village clings to the rock above a lush valley, giving it an almost fortress-like appearance. Siabli lies at the foot of the cliff, a larger settlement but of little interest to visitors in itself.

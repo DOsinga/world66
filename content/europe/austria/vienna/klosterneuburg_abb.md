@@ -9,9 +9,13 @@ phone: '02243411212'
 snippet: 900-year-old monastery with wine cellars and the Verdun Altar
 tags:
 - day_trips
+- museum
+- sight
+- architecture
 title: Klosterneuburg Abbey
 type: poi
 url: www.stift-klosterneuburg.at
+score: 8.9
 ---
 
 Located only 12km from Vienna, easily accessible by public transport, Stift Klosterneuburg makes for an excellent destination for a day trip. You might start your day with a tour through the 900-year-old monastery.

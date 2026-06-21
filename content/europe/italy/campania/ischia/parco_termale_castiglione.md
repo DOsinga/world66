@@ -8,6 +8,7 @@ phone: "+39 081 98 25 51"
 url: "www.termecastiglione.it"
 latitude: 40.7465
 longitude: 13.8990
+score: 8.4
 ---
 
 The finest thermal park on the island sits in wooded hills above Casamicciola. Ten pools cascade down the terraced hillside at different temperatures, each with a different mineral character — sulphur, bicarbonate, chloride — used for relaxation and for treating everything from arthritis to skin conditions. A funicular connects the entrance at the top to the beach at the bottom, where sun loungers and umbrellas are included in the entry price.

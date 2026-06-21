@@ -6,7 +6,8 @@ tags:
 - things_to_do
 - landmark
 title: Cruise in The Ping River with Scorpion Tailed Boat
-type: Sailing
+type: poi
+score: 5.7
 ---
 
 The source of the Ping

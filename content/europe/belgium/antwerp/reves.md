@@ -10,8 +10,9 @@ tags:
 - bar
 - club
 title: Reve's
-type: Clubs
+type: poi
 zipcode: http://www.thereves.be
+score: 2.8
 ---
 
 The Reve's is the most famous stripclub in Antwerp, Belgium. The hottest dancers, the hottest dj's, the best music.

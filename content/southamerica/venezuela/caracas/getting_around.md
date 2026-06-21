@@ -1,18 +1,12 @@
 ---
-title: "Getting Around in Caracas"
+title: Getting Around
 type: section
 ---
 
-The **Caracas transportation** system is well developed to meet the demands of the populous South American metropolis. There are 3 main ways to get around Caracas: by bus, metro or car.
+The **Caracas Metro** is the easiest way to cross the city — four lines, more than 40 stations, and a flat fare. It runs east-west along the main valley axis, connecting the colonial centre (Capitolio, El Silencio) to Plaza Venezuela, Sabana Grande, Chacaíto, Altamira, and out to Petare. Trains can be crowded but are generally safe in daylight hours. Avoid the metro at night. Service quality has degraded since the 2010s — power cuts and breakdowns are not uncommon.
 
-**Bus**
+**Buses** range from the official Metrobus network (clean, ticketed, integrated with metro stations) to the *camionetas* and *por puestos* — minivans and shared cars that follow fixed routes for a fixed fare. They are how most caraqueños get around, but they are bewildering for visitors and not recommended unless you have local guidance.
 
-The bus is the main way of transportation for the locals. There are 3 types of buses in Caracas (from largest to smallest): the autobus, the camioneta and the microbus (also commonly referred as 'camionetica'). As in most South American cities, buses are identified by the landmarks or main avenues that are included in their routes, rather than by number. It is a good idea to purchase a guide before arriving to Caracas, and to become familiar with the main landmarks and avenues of Caracas, if you're planning to use the bus a lot.
+**Taxis and rideshare**. Use rideshare apps (Yummy, Ridery, sometimes Uber) rather than flagging on the street. Pre-booked taxis through hotels are the safest option. Never get into an unmarked car, and avoid travel at night where you can.
 
-**Metro**
-
-Since 1981, the Caracas Metro has served the city of Caracas quite efficiently with 4 lines and over 50 stations. It is a good idea to purchase the monthly and weekly passes of the Metro/Metrobus system because this will allow you to save some money; these passes will allow you to use not only the metro at a cheaper rate, but also the bus system offered by the Caracas Metro system.
-
-**Car**
-
-If you're planning to drive around Caracas, there's 2 things that you need to know. First, be aware of the Plan Via Libre that has been implemented in Caracas since March 2009 to reduce the pollution levels. Under this plan, each weekday certain cars are banned from entering certain regions of the city. Make sure to check with your car rental agency, so you know the days and regions that your car should avoid during the weekdays. Second, the international driver's license is the most commonly accepted form of proof of driving ability in Caracas, so you should apply for one before leaving for Venezuela. Having this special permit will make the car rental process much easier.
+**Walking**. Some neighbourhoods — Altamira, La Castellana, the Sabana Grande boulevard, El Hatillo — are pleasant on foot. The colonial centre is walkable by day in a group; avoid it after dark. **Driving yourself** is not recommended: traffic is heavy, parking is difficult, and traffic stops have been used as a pretext for extortion.

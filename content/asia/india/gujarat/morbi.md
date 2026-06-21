@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
+image: morbi.jpg
+image_attribution: Nitish.mano
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mani_mandir_at_morbi.jpg
 latitude: 22.800396
+loc_type: city
 longitude: 70.886232
 score: 0.3
 title: Morbi

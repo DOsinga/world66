@@ -9,10 +9,9 @@ tags:
 - 3 Days in Rome
 - things_to_do
 - market
-- neighbourhood
 - story
 title: Testaccio
-type: poi
+type: neighbourhood
 ---
 
 Rome's most authentically working-class neighbourhood, built on a hill made entirely of broken Roman amphorae (the name comes from *testa*, shard). For centuries the city's slaughterhouse district, Testaccio remains Rome's best neighbourhood for eating — proper offal at Flavio al Velavevodetto, cacio e pepe at Felice, and the covered Mercato di Testaccio for produce and street food.

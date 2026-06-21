@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: -41.1796
 longitude: 146.3513
 title: Devonport
 type: location
 score: 0.47
+loc_type: city
 ---
 
 Devonport is a small port city on Tasmania's north coast, best known as the terminus of the Spirit of Tasmania ferry from Melbourne. Most visitors pass straight through on their way to Cradle Mountain or the northwest coast, but the town deserves a few hours of its own.

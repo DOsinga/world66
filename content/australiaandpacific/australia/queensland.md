@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: -22.164678
+loc_type: region
 longitude: 144.58449
 score: 0.57
 title: Queensland

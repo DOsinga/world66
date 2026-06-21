@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Batu Caves
 type: poi
+score: 8.9
 ---
 
 A series of limestone caves 13 km north of KL, Batu Caves is Malaysia's most visited Hindu shrine and one of the country's most striking natural landmarks. The golden statue of Lord Murugan at the base stands 42 metres tall. From there, a climb of 272 steps — painted in rainbow colours — leads to the Temple Cave, a vast cathedral-like cavern filled with shrines and statues. A separate cave houses elaborately painted murals depicting Hindu mythology.

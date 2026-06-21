@@ -3,7 +3,8 @@ address: Adriatico St. near corner of P.Faura
 tags:
 - eating_out
 title: Alda's
-type: Italian
+type: poi
+score: 4.8
 ---
 
 A quaint little restaurant with dim lighting, checkered tablecloth and

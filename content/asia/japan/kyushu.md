@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 33.0
+loc_type: region
 longitude: 130.5
 score: 0.75
 title: Kyushu

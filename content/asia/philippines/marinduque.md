@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-11'
+image: marinduque.jpg
+image_attribution: Totoyba2
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Marinduque_Island.jpg
 latitude: 13.4167
+loc_type: city
 longitude: 121.95
 score: 0.53
 title: Marinduque

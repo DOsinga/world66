@@ -6,6 +6,7 @@ longitude: -83.113737
 score: 0.46
 title: Georgia
 type: location
+loc_type: region
 ---
 
 Georgia spans from the Blue Ridge Mountains in the north to the Atlantic barrier islands and the coastal plain in the south — a range that gives the state more geographic and cultural variety than most of its neighbors. The Peach State's best-known exports are peaches (of course), Vidalia onions, and an outsized influence on American music, from country to soul to hip-hop.

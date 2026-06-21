@@ -15,7 +15,8 @@ quick_facts:
   Independence: "2002 (youngest in Asia)"
 done:
   country_cleanup: 2026-03-31
-score: 0.45
+score: 0.40
+loc_type: country
 ---
 
 Timor-Leste — officially the Democratic Republic of Timor-Leste, still widely called East Timor — is one of the world's youngest nations, having gained independence in 2002 after a brutal 24-year Indonesian occupation. It sits at the eastern end of the island of Timor, between Indonesia and Australia, covering about 14,874 sq km of mountains, coast, and tropical forest.

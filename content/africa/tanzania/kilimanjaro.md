@@ -7,6 +7,7 @@ longitude: 37.419856
 score: 0.68
 title: Kilimanjaro
 type: location
+loc_type: feature
 ---
 
 **Part of history**
@@ -54,4 +55,4 @@ famed banana wine.
 **
 **
 
-Minor corrections by [giorgio](/world/member/giorgio) on 29 March 05
+Minor corrections by giorgio on 29 March 05

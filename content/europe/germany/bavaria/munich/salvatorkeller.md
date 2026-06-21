@@ -5,8 +5,11 @@ longitude: 11.58255
 phone: +49 (0)89 48 32 74
 tags:
 - bars_and_cafes
+- sight
+- haidhausen
 title: Salvator-Keller
-type: Beer Gardens
+type: poi
+score: 6.5
 ---
 
 type: Beer Gardens

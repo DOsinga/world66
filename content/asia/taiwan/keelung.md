@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
+image: miaokou_night_market.jpg
+image_attribution: Outlookxp
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Keelung_Miaokou_Night_Market.jpg
 latitude: 25.1276
+loc_type: city
 longitude: 121.7392
 score: 0.46
 title: Keelung

@@ -10,8 +10,9 @@ tags:
 - park
 - theatre
 title: Sasi Garden Theatre
-type: Thai
+type: poi
 url: www.sasi-restaurant.com
+score: 5.5
 ---
 
 **"A First for Hua Hin"**

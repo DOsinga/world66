@@ -1,5 +1,11 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: condado.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:San_Juan,_Condado_beach,_Puerto_Rico.jpg
 latitude: 18.4559
+loc_type: city
 longitude: -66.071
 score: 0.57
 title: Condado

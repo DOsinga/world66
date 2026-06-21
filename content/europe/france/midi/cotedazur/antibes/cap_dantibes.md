@@ -8,6 +8,7 @@ longitude: 7.1279
 tags:
 - things_to_do
 - sight
+score: 8.5
 ---
 
 The headland between Antibes and Juan-les-Pins is one of the better walking spots on the Cote d'Azur. The Sentier du Littoral (also called Sentier de Tire-Poil) runs along the rocky western shore for about five kilometres, with views back across the Baie des Anges to Nice and the Alps behind it. The path is mostly flat and accessible; stretches close in rough weather.

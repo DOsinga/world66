@@ -3,18 +3,14 @@ title: "When to Go"
 type: section
 ---
 
-**Crowds**
+Dublin is a year-round city, though summer brings the busiest crowds and the mildest weather. The old saying — "if you don't like the weather, wait five minutes" — is accurate. Bring a waterproof coat regardless of the forecast.
 
-Dublin is emerging as a year-round tourist destination but the summer months are by far the busiest. July and August are considered “high season” and the prices for lodging and some attractions may be higher than they are at other times of year. Additionally, in recent years many English second-language schools have opened up in Dublin and, especially during the summer months, the streets can be awash with foreign students.
+**Summer (June–August)** is the warmest and most expensive time to visit. Temperatures sit between 15–20°C. Days are long — in late June it barely gets dark before 11pm. School holiday crowds peak in July and August, and accommodation prices rise accordingly.
 
-**Unpredictability**
+**Spring and Autumn** are the most pleasant times to visit. Cooler (5–12°C), quieter, and cheaper. The city functions normally, prices drop, and you're not competing with hen parties for pub space.
 
-Unpredictable weather is a year-round phenomenon in Dublin. Sayings such as “if you don’t like the weather, wait five minutes” or “experience all four seasons in ten minutes” are plentiful because they are so accurate. No matter what season you visit in, never go out without an umbrella in tow; even if there isn’t a cloud in the sky you still should bring an umbrella (remember: “wait five minutes”). By the same token, you should try to wear layers of clothing that can be put on or taken off easily so that you can keep up with the changing weather conditions.
+**Winter (November–February)** is cold and frequently wet, with January temperatures between 3–8°C. But pubs come into their own in winter — coal fires, dark evenings, unhurried conversation. Christmas in Dublin is busy; the weeks around Christmas and New Year's Eve in the Temple Bar area are raucous.
 
-**Temperature and Rainfall**
+**Bloomsday (16 June)** is the annual celebration of James Joyce's *Ulysses*. Actors and readers retrace Bloom's route through the city in Edwardian costume; Davy Byrne's serves gorgonzola sandwiches and Burgundy wine. It's a genuine festival, not a tourist confection.
 
-July and August are the warmest months. The base temperature usually hovers between 15 and 20 degrees Celsius (between 60 and 68 degrees Fahrenheit). The city is ill-equipped for the occasional heat spells that bring higher temperatures and if you do find yourself in Dublin during one of these rare periods, expect to see Dubliners heading for the coast. In the winter months, it is rare for a snowfall to “stick”; snow flurries or slushy rain are far more common occurrences. December is the wettest month with an average 3 inches of rainfall. During the coldest month, January, the average temperature range is between 3 and 8 degrees Celsius (between 37 and 46 degrees Fahrenheit). Spring and Autumn are both temperate seasons in Dublin and are considered by many to be the best times of year to visit. The temperature in these two seasons are similar (usually between 5 and 10 degrees Celsius or 41 and 50 degrees Fahrenheit) but the Spring months generally have lower average rainfall.
-
-**Daylight**
-
-Dublin is further north than many North Americans realize; daylight hours change significantly between the summer and winter seasons. If you visit around the Summer Solstice (June 21st), it doesn’t become completely dark until around 11 p.m. The flip side of these long hours of daylight is the fact that around the time of the Winter Solstice (December 21st), the sun sets as early as 3:30 p.m.
+**St Patrick's Day (17 March)** transforms the city centre. The parade is large, the pubs are packed, and hotels are booked months in advance. Fun if you plan for it; chaotic if you don't.

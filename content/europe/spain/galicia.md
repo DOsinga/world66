@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 42.5751
+loc_type: region
 longitude: -8.1339
 score: 0.65
 title: Galicia

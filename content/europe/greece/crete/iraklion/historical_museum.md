@@ -11,6 +11,7 @@ tags:
 title: Historical Museum of Crete
 type: poi
 url: www.historical-museum.gr
+score: 8.1
 ---
 
 A good museum covering Cretan history from early Christian times to the 20th century — the period that the Archaeological Museum doesn't cover. Highlights include two paintings by El Greco (who was born in Crete before moving to Spain), a reconstruction of the study of Nikos Kazantzakis, and a strong collection of Byzantine icons and frescoes. The Battle of Crete section (1941) is well presented and sobering.

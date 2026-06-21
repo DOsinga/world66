@@ -16,6 +16,7 @@ tags:
 - architecture
 title: Parliament of Eswatini
 type: poi
+score: 5.4
 ---
 
 The Parliament building is modest in scale but significant in context. Eswatini operates under an absolute monarchy — political parties are banned — and Parliament functions within limits set by the king. The building can be viewed from outside; access inside requires advance arrangement. It is worth stopping at as a reminder of how differently power is organized here compared with most of the surrounding region.

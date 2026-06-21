@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Felfella
 type: poi
+score: 6.2
 ---
 
 One of Cairo's most beloved institutions — a bustling Downtown restaurant near Midan Talat Harb that has been serving excellent Egyptian food for decades. The ful medames, kofta, and grilled meats are consistently good and very inexpensive. The decor is informal and the place is always busy, which is the best possible endorsement.

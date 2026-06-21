@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: VIVA
 type: poi
+score: 3.8
 ---
 
 A bar and nightclub on Calwer Strasse in the city center, part of Stuttgart's busy Mitte nightlife strip. Within easy walking distance of Königstrasse and the main shopping district.

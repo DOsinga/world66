@@ -9,8 +9,10 @@ snippet: Reconstructed birthplace of Germany's greatest poet
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Goethe House
 type: poi
+score: 7.7
 ---
 
 The Goethe House honours Germany's most famous poet, Johann Wolfgang von Goethe, who was born here in 1749. Most of the furniture is reproduction, faithfully reconstructed after World War II in the style of Goethe's time. The adjacent Goethe Museum contains a collection of paintings depicting his life in Italy and Germany.

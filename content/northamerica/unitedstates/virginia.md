@@ -6,6 +6,7 @@ longitude: -78.492772
 score: 0.5
 title: Virginia
 type: location
+loc_type: region
 ---
 
 Virginia is one of the most historic states in the country. The first permanent English settlement in North America was at Jamestown in 1607; the first college, William & Mary, was founded in Williamsburg in 1693; eight US presidents were born here. Four of the Civil War's biggest battlefields — Manassas, Fredericksburg, the Wilderness, Appomattox — lie within the state, and Gen. Robert E. Lee surrendered his army at Appomattox Court House in 1865.

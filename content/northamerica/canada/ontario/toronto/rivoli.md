@@ -10,8 +10,9 @@ tags:
 - restaurant
 - bar
 title: Rivoli
-type: International
+type: poi
 url: rivoli.ca
+score: 6.1
 ---
 
 This is a popular with locals and has been for many years. There is

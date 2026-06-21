@@ -2,7 +2,9 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-06-04'
 latitude: 24.7978
+loc_type: city
 longitude: -107.3934
 score: 0.29
 title: Culiacan

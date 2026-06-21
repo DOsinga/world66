@@ -14,9 +14,10 @@ quick_facts:
   Currency: Rand (ZAR)
   Official Languages: "11"
   Capitals: "3"
-score: 0.48
+score: 0.86
 title: South Africa
 type: location
+loc_type: country
 ---
 
 Located at the southern tip of Africa, South Africa is an impressive melting-pot of sunshine and beaches (some even have penguins on them), astonishing mountain scenery in the [Drakensberg](/africa/southafrica/drakensberg) Area, sprawling national parks such as the [Kruger national park](/africa/southafrica/krugernationalpark) and small villages alternated with big thriving cities full of sharply dressed businessmen. Combine all of this with sunshine, ‘braai’ and rugby and you’ve found a perfect travel destination. 

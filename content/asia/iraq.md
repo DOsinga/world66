@@ -15,7 +15,8 @@ quick_facts:
   Tigris & Euphrates: "Both rivers flow through the country"
 done:
   country_cleanup: 2026-03-30
-score: 0.22
+score: 0.45
+loc_type: country
 ---
 
 Iraq is Mesopotamia — the Land Between the Rivers, where civilization began. The Tigris and Euphrates have been feeding humanity here for at least six thousand years, and the archaeological record is extraordinary: ziggurats, royal tombs, the ruins of Babylon, the spiral minaret of Samarra, the ancient Assyrian capitals at Nineveh and Nimrud. Nowhere else on earth has quite this density of deep history.

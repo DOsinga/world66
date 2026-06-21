@@ -4,8 +4,9 @@ tags:
 - eating_out
 - restaurant
 title: La Grappa
-type: Italian
+type: poi
 url: www.lagrappa-ristorante.com
+score: 5.2
 ---
 
 Famous Italian Restaurant in Hua Hin good service and food, recommended.

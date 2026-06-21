@@ -9,6 +9,7 @@ tags:
 - church
 title: Metekhi Church
 type: poi
+score: 7.6
 ---
 
 The Metekhi Church sits on a cliff above the Mtkvari River, one of the most recognizable silhouettes in Tbilisi's old town skyline. Built in the 13th century by King Demetre II, the cross-domed church is dedicated to the Virgin Mary and houses the grave of St. Shushanik, a 5th-century Armenian queen martyred for refusing to renounce Christianity.

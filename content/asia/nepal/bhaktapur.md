@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: bhaktapur.jpg
+image_attribution: Nancy Collins
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bhaktapur-city-centre-large.jpg
 latitude: 27.671113
+loc_type: city
 longitude: 85.426168
 score: 0.69
 title: Bhaktapur

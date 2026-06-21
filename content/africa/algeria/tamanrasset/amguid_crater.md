@@ -6,6 +6,7 @@ longitude: 4.3944
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 A near-perfect impact crater in the middle of the Sahara, about 250 kilometres north of [Tamanrasset](/africa/algeria/tamanrasset). Amguid is roughly 450 metres in diameter and 30 metres deep, with a raised rim and a flat, sand-filled floor. It is one of the best-preserved meteorite impact craters on Earth, partly because the extreme aridity of the central Sahara has protected it from erosion.

@@ -12,6 +12,7 @@ tags:
 title: Leighton House Museum
 type: poi
 url: www.rbkc.gov.uk/museums/leighton-house
+score: 8.1
 ---
 
 The former home and studio of the Victorian painter Frederic Leighton is one of London's more unusual museums. The building was designed by George Aitchison and extended and elaborated over several decades, culminating in the extraordinary Arab Hall — a tiled, gilded space hung with 15th and 16th-century Iznik tiles that Leighton collected from the Middle East.

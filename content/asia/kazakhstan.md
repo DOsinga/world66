@@ -15,7 +15,8 @@ quick_facts:
   Baikonur Cosmodrome: "First human spaceflight launched here"
 done:
   country_cleanup: 2026-03-30
-score: 0.42
+score: 0.60
+loc_type: country
 ---
 
 Kazakhstan is the world's largest landlocked country and the ninth largest country overall — a vast expanse of steppe, desert, mountain, and lake that most travelers still haven't discovered. It borders [Russia](/europe/russia), [China](/asia/china), [Uzbekistan](/asia/uzbekistan), [Kyrgyzstan](/asia/kyrgyzstan), and [Turkmenistan](/asia/turkmenistan), and stretches from the Caspian Sea in the west to the Altai Mountains in the east.

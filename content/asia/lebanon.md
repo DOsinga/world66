@@ -18,7 +18,8 @@ quick_facts:
   Byblos: "~7,000 years old"
 title: Lebanon
 type: location
-score: 0.5
+score: 0.59
+loc_type: country
 ---
 
 Lebanon is one of the smallest countries in the Middle East but packs more history, scenery and flavour into its 10,452 square kilometres than most nations ten times its size. This is a place where you can ski in the morning and swim in the Mediterranean by afternoon, where Roman temples rival anything in Italy, and where the food alone is worth the plane ticket.

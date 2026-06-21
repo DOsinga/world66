@@ -11,6 +11,7 @@ tags:
 - historic_house
 title: Barnacle Historic State Park
 type: poi
+score: 6.9
 ---
 
 Tucked behind a hammock of hardwood trees on Biscayne Bay, The Barnacle is Miami's oldest house still standing on its original site. Built in 1891 by Commodore Ralph Munroe, the house was designed to catch bay breezes and withstand hurricanes — and it has survived every one since. The grounds are a quiet escape from Coconut Grove's shopping streets, with shaded trails down to the waterfront.

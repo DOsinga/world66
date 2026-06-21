@@ -2,9 +2,16 @@
 done:
   city_tag_migration: '2026-04-14'
   location_cleanup: '2026-04-16'
+image: prenzlauerberg.jpg
+image_attribution: Mazbln
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Berlin_Zeiss_Planetarium.JPG
 latitude: 52.539847
 longitude: 13.428565
 score: 0.54
+tags:
+- things_to_do
+- neighbourhood
 title: Prenzlauer Berg
 type: neighbourhood
 ---

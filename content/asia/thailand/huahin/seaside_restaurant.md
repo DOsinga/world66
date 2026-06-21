@@ -6,8 +6,9 @@ tags:
 - eating_out
 - restaurant
 title: Seaside Restaurant
-type: Thai
+type: poi
 url: www.seaside-restaurant.com
+score: 4.8
 ---
 
 At the Seaside Restaurant, Hua Hin, we aim to provide the very best in Thai and

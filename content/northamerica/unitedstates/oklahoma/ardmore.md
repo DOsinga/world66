@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 latitude: 34.172927
 longitude: -97.130912
 title: Ardmore
 type: location
 score: 0.32
+loc_type: city
 ---
 
 Ardmore sits in south-central Oklahoma, roughly halfway between Oklahoma City and Dallas on I-35. Founded in 1887 and named after a town on the Pennsylvania Railroad line, it grew as a railroad and later oil town. Today it serves mainly as a regional center and a base for exploring the surrounding lakes and hills.

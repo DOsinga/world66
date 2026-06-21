@@ -6,7 +6,7 @@ Quick pass over every POI to catch spam, misplaced entries, bad coordinates, and
 
 1. **Spam check** — read the file. If the content is spam, gibberish, SEO filler, or otherwise worthless, delete the file and move on. Anything that is esentially an advertisement for an external blog, travel agency or that sort of thing also needs to be deleted.
 
-2. **Right location?** — verify the POI is filed under the correct parent location. A restaurant in Paris should not live under `content/europe/france/lyon/eating_out/`. If it's in the wrong place, move it to the correct directory (create the directory if needed). If you can't tell where it belongs, delete it.
+2. **Right location?** — verify the POI is filed under the correct parent location. A restaurant in Paris should not live under `content/europe/france/lyon/`. If it's in the wrong place, move the file so it sits as a sibling of the correct parent location's section files. POIs are flat — they don't live in section subdirectories like `eating_out/` or `things_to_do/`; section membership comes from the POI's tags (see LOCATIONS.md). If you can't tell where the POI belongs, delete it.
 
 3. **Coordinates** — if the POI has `latitude` and `longitude`, sanity-check they are in the right country/city. Off-by-a-continent coordinates are common in the old data. Fix obviously wrong ones. If coordinates are missing, add them.
 

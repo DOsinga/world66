@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
   poi_cleanup: '2026-04-19'
+image: kishtwar.jpg
+image_attribution: Pradeep Parihar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chowgan_ground_in_Kishtwar,_Jammu,_India.jpg
 latitude: 33.3108
+loc_type: city
 longitude: 75.7694
 score: 0.41
 title: Kishtwar

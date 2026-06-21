@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: 21.5571
 longitude: 84.1529
 title: Sambalpur
 type: location
 score: 0.38
+loc_type: city
 ---
 
 Sambalpur is a connecting point between Madhya Pradesh and Odisha, set on the banks of the Mahanadi River. Once known as a diamond trading centre, today the city is recognised for its handloom textiles — Sambalpuri saris and fabrics, woven with traditional ikat patterns, are prized across India.

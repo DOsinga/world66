@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Larnaca Castle
 type: poi
+score: 6.6
 ---
 
 The castle sits right on the seafront near the southern end of the promenade. Built in 1625 during Ottoman rule, it originally served as a prison and garrison. The walls offer good views over the Scala Quarter and its Buyuk Kebir Cami mosque, once the heart of Larnaca's Turkish community.

@@ -12,6 +12,7 @@ tags:
 - bar
 title: '''t Zielhoes'
 type: poi
+score: 7.5
 ---
 
 The Sluice House is the one and only building in Noordpolderzijl, and it is well known to locals throughout Groningen. This authentic, old-fashioned cafe operates in a living-room style — there is nothing polished about it, which is entirely the point. It is open almost every day across all seasons, and serves as a regional stage for folk, country, Celtic, and Groninger music groups. Friendly and unhurried.

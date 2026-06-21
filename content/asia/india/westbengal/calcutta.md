@@ -2,8 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-31'
   poi_cleanup: '2026-04-19'
+image: victoria_memorial_kolkata.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata.jpg
 latitude: 22.5726
+loc_type: city
 longitude: 88.3639
 score: 0.47
 title: Calcutta

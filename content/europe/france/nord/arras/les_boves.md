@@ -10,8 +10,11 @@ tags:
 - story
 title: Les Boves
 type: poi
+score: 7.3
 ---
 
 A network of chalk tunnels running beneath the old city, first dug in the 10th century as quarries and expanded over the centuries into storage cellars, refuges, and ultimately military infrastructure. During the First World War the British Army extended the tunnels dramatically — the system sheltered up to 24,000 soldiers on the eve of the Battle of Arras in April 1917. Troops lived underground for days before emerging directly into no man's land in a coordinated surprise attack.
 
 Guided tours depart from the Hôtel de Ville and take around an hour. You descend about 12 metres below the Grand'Place. The tunnels still bear graffiti carved by soldiers — names, dates, regimental crests — which makes the history feel close. It is cool underground regardless of the season; bring a layer.
+
+The Carrière Wellington (see below) is a related but separate attraction — a larger section of the quarry tunnels about a kilometre south of the city centre, run by a different operator and focused specifically on the 1917 military use. The two sites complement each other: Les Boves gives you the medieval and commercial context, Wellington gives you the military in greater depth. Both are worth visiting if you have a half-day.

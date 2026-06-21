@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: kielce.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:20130421_Kielce_Palac_Biskupow_Krakowskich_3127.jpg
 latitude: 50.854028
+loc_type: city
 longitude: 20.609916
 score: 0.42
 title: Kielce

@@ -6,8 +6,9 @@ phone: 504-581-4629 or 800-774-7394
 tags:
 - things_to_do
 title: Audubon Zoo
-type: Other
+type: poi
 url: www.auduboninstitute.org
+score: 7.1
 ---
 
 Excellent area zoo featuring a family of rare albino alligators, an impressive butterfly exhibit, and everything from lions and tigers to bears in natural habitat settings. There is also a popular children's petting zoo onsite. Please visit the website for hours.

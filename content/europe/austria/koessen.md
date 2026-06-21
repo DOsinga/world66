@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-04'
 image: koessen.jpg
 image_attribution: Braveheart
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ortsansicht_Kössen.jpg
 latitude: 47.670302
+loc_type: city
 longitude: 12.405516
 score: 0.48
 title: Kössen

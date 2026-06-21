@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-The medieval town is centred around Place de la Liberte, Rue de la Liberte, and Place du Peyrou. Behind the cathedral, the Jardins du Manoir d'Eyrignac are among the finest formal gardens in France. Several chateaux are within easy reach — Castelnaud houses an excellent museum of medieval warfare, while Puymartin has a fine collection of mythological paintings and tapestries. The Cave of the Grand Roc at Les Eyzies offers spectacular underground formations.
+Sarlat's medieval centre is compact enough to cover on foot. The [Place de la Liberté](/europe/france/midi/dordogne/sarlat/place_de_la_liberte) and the streets radiating from it are the core; the cathedral quarter behind is quieter and more atmospheric. Day trips to the châteaux and prehistoric caves of the Dordogne and Vézère valleys are the natural extension, but the town itself rewards a full day of slow exploration.

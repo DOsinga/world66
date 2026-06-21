@@ -9,4 +9,8 @@ uvicorn[standard]
 geopy
 httpx
 Pillow
+pillow-heif
 python-dotenv
+sqlite-vec
+apsw
+openai

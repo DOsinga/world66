@@ -1,11 +1,15 @@
 ---
-title: Robben Island
-type: location
 latitude: -33.8053
 longitude: 18.3689
-done:
-  location_cleanup: '2026-04-08'
-score: 0.62
+snippet: UNESCO World Heritage Site and former political prison where Nelson Mandela
+  was held for 18 years
+tags:
+- things_to_do
+- historic
+- sight
+title: Robben Island
+type: poi
+score: 9.4
 ---
 
 Robben Island sits in Table Bay, 11 kilometres from Cape Town's waterfront, and for most of the 20th century it served as South Africa's most notorious political prison. Nelson Mandela spent 18 of his 27 imprisoned years here, in a small cell in B Section. The island is now a UNESCO World Heritage Site and one of the most emotionally powerful places to visit in all of Africa.

@@ -6,6 +6,7 @@ longitude: 26.1629
 title: Snagov Lake
 type: location
 score: 0.43
+loc_type: feature
 ---
 
 Snagov Lake sits 25 kilometres north of Bucharest, making it the capital's favourite weekend escape. The lake itself is narrow and wooded, lined with forest on both banks, and it feels pleasantly removed from the city despite its proximity.

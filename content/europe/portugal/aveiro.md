@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: aveiro.jpg
+image_attribution: endless autumn
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:AveiroCanal2.jpg
 latitude: 40.6405
+loc_type: city
 longitude: -8.6538
 score: 0.65
 title: Aveiro

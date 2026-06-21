@@ -11,6 +11,7 @@ tags:
 - museum
 title: Judaica Museum
 type: poi
+score: 5.0
 ---
 
 Housed within the Hebrew Home at Riverdale overlooking the Hudson, this small museum presents 150 years of Jewish history through 800 artifacts — ceremonial objects, textiles, and items from synagogue life. It offers an intimate alternative to the larger Jewish heritage museums downtown, with rotating exhibits and educational programs.

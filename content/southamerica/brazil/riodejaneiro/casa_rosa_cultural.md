@@ -9,6 +9,7 @@ tags:
 - bar
 title: Casa Rosa
 type: poi
+score: 6.2
 ---
 
 Built in the 1920s as a luxurious cabaret, Casa Rosa served Rio's high society before decades of decline. In the 1990s it was reborn as a cultural centre — workshops and courses by day, live concerts and themed parties by night. The building is beautiful, with a large open-air veranda. On forró nights, the dancing is close, rhythmic and unmistakably Brazilian.

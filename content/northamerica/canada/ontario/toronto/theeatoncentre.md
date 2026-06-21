@@ -8,8 +8,9 @@ tags:
 - shop
 - restaurant
 title: The Eaton Centre
-type: Shopping centers and malls
+type: poi
 url: www.torontoeatoncentre.com
+score: 4.5
 ---
 
 Located on Yonge Street and stretching from Dundas south to Queen Street, The Eaton Centre has 285 shops, restaurants and services. Hours: Mon-Fri 10am-9pm, Sat 9am-7pm, Sun 12pm-6pm.

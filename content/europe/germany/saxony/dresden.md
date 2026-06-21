@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-16'
   poi_cleanup: '2026-04-20'
+image: frauenkirche.jpg
+image_attribution: Wikimedia Commons
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Dresden_Frauenkirche_2013.jpg
 latitude: 51.049329
+loc_type: city
 longitude: 13.738144
 score: 0.71
 title: Dresden

@@ -8,6 +8,7 @@ tags:
 title: Okhotny Ryad
 type: poi
 url: www.okhot-ryad.ru
+score: 3.8
 ---
 
 Okhotny Ryad is a large underground shopping mall built beneath Manezhnaya Square, right next to the Kremlin and Red Square. Opened in 1997, it was one of the first modern malls in Moscow and remains a popular stop for both tourists and locals. Three underground levels hold a mix of international fashion chains, shoe shops, and casual restaurants.

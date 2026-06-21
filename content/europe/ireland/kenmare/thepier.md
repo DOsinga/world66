@@ -7,6 +7,7 @@ tags:
 - sight
 title: The Pier
 type: poi
+score: 6.3
 ---
 
 Said to be the first pier in Kerry. A fine spot for a walk, with views across the Kenmare River estuary to the Beara Peninsula. The pier is a starting point for boat trips on the bay.

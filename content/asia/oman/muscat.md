@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-20'
+image: muscat.jpg
+image_attribution: Achilli Family | Journeys on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/92889888@N08/37977641142
 latitude: 23.612363
+loc_type: city
 longitude: 58.593813
 score: 0.68
 title: Muscat

@@ -12,6 +12,7 @@ tags:
 title: Schumannhaus
 type: poi
 snippet: "Where Robert Schumann spent his final years, now a memorial"
+score: 6.5
 ---
 
 The building where Robert Schumann spent the last years of his life (1854-1856), now housing the municipal music library and a small but moving memorial to the composer.

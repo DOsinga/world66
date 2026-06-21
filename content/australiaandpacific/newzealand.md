@@ -13,9 +13,10 @@ quick_facts:
   Driving Side: Left
   Sheep-to-People Ratio: "5 to 1"
   First Country to Grant Women the Vote: "1893"
-score: 0.8
+score: 0.91
 title: New Zealand
 type: location
+loc_type: country
 ---
 
 New Zealand is remote by any measure — a two-island nation in the South Pacific, about 2,000km southeast of Australia. The North Island and South Island together cover roughly 268,000 sq km, home to around 5 million people. That ratio of space to population is part of the point: the landscape is extraordinary and the crowds are manageable.

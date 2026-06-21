@@ -7,8 +7,9 @@ phone: 0039 035 326323
 tags:
 - getting_there
 title: Bergamo Airport - Orio al Serio
-type: By Air
+type: poi
 url: www.sacbo.it
+score: 2.4
 ---
 
 The airport at Bergamo is in the city limits of Orio al Serio. It is also considered a Milan Airport, along with Linate Airport and Malpensa Airport, even though Milan is about an hour away from Bergamo.

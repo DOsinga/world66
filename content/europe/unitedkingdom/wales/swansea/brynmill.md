@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Brynmill Park
 type: poi
+score: 5.3
 ---
 
 Swansea's oldest park, dating from 1871, with a serpentine lake popular with carp anglers, a bowling green, and tennis courts. Quieter and more enclosed than the bigger Singleton Park next door.

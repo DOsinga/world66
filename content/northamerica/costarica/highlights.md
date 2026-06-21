@@ -15,9 +15,9 @@ type: section
 
 **[Tortuguero](/northamerica/costarica/turrialba)** — Only accessible by boat or small plane, this village on the Caribbean coast sits between the jungle canals and the turtle-nesting beach. Green sea turtles nest here July–October in enormous numbers. The canal boat trips are superb for wildlife: caimans, river otters, herons, monkeys, and manatees occasionally.
 
-**[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_ta)** — The Caribbean's most characterful beach town. Afro-Caribbean culture, excellent food, good surf at Salsa Brava, and access to Cahuita National Park and the Gandoca-Manzanillo refuge.
+**[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_talamanca)** — The Caribbean's most characterful beach town. Afro-Caribbean culture, excellent food, good surf at Salsa Brava, and access to Cahuita National Park and the Gandoca-Manzanillo refuge.
 
-**[Chirripo and San Gerardo de Rivas](/northamerica/costarica/san_gerardo_de_riv)** — The base town for the Chirripó climb. Very small, very quiet, with good trail access and a handful of simple guesthouses.
+**[Chirripo and San Gerardo de Rivas](/northamerica/costarica/san_gerardo_de_rivas)** — The base town for the Chirripó climb. Very small, very quiet, with good trail access and a handful of simple guesthouses.
 
 **Whitewater rafting** — The Río Pacuare between Turrialba and the Caribbean lowlands is rated among the best rafting rivers in the world. Class III–IV rapids through primary forest gorge; multi-day trips camping on the riverbank. Ríos Tropicales and Exploradores Outdoors are established operators.
 

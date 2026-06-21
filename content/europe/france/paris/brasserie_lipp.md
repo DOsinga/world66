@@ -9,9 +9,12 @@ phone: +33 1 45 48 53 91
 snippet: Alsatian brasserie on Saint-Germain, unchanged since 1880
 tags:
 - bars_and_cafes
+- sight
+- saint_germain
 title: Brasserie Lipp
 type: poi
 url: www.brasserie-lipp.fr
+score: 7.0
 ---
 
 Brasserie Lipp is a Saint-Germain institution, occupying its Alsatian brasserie premises since 1880 and largely unchanged. Hemingway described drinking cold beer and eating pommes à l'huile here after starving on the Île Saint-Louis — the restaurant features in A Moveable Feast. Politicians, writers, and film directors have been coming ever since.

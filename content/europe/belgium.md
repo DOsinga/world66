@@ -14,9 +14,10 @@ quick_facts:
   Currency: Euro (€)
   Beer Varieties: "Over 1,500 distinct beers"
   Official Languages: "3 — Dutch, French, and German"
-score: 0.38
+score: 0.75
 title: Belgium
 type: location
+loc_type: country
 ---
 
 Belgium is a small, densely packed country in north-western Europe, squeezed between France, the Netherlands, Germany, and Luxembourg. It is easy to underestimate — it gets overlooked by travellers heading to Paris or Amsterdam — but it is one of the most rewarding destinations on the continent.

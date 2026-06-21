@@ -8,6 +8,7 @@ tags:
 - landmark
 title: La Rocca
 type: poi
+score: 8.0
 ---
 
 A medieval fortress perched above Città Alta with a commanding view in three directions. Walk up Via Rocca from the funicular stop at Piazza Mercato delle Scarpe — there's a great museum inside, and just outside on the right an old Roman road with chariot grooves worn into the stone.

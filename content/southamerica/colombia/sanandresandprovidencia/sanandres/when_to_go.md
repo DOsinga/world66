@@ -1,14 +1,10 @@
 ---
-title: "When to Go in San Andres"
+title: When to Go
 type: section
 ---
 
-When planning your vacation to **San Andres**,** when to go** is the most useful information you can have. Knowing ahead of time when the best time to go is helps you plan the perfect vacation, with a minimum amount of surprises. San Andres is an island located in Columbia that offers you the chance to participate in a variety of water sports. Going to the island during the wrong time of the year can prevent you from fully enjoying everything San Andres has to offer.
+The dry season runs from December to April and is the most popular time to visit. The sea is calm, the sky clear, and visibility underwater can exceed 30 metres. December and January bring the largest crowds of Colombian holidaymakers and the highest prices — book flights and accommodation well in advance. March and April are busy but slightly cheaper.
 
-**Best Months to Visit**
+From June the trade winds build and short heavy showers become regular. The sea remains warm and diveable, but rough days are more common. Hurricane season officially runs from June to November; the archipelago is on the fringe of the main hurricane belt and direct hits are rare, but swells and rain can disrupt boat trips from September onwards.
 
-From the end of December to the end of April is the best time to visit San Andres, but be prepared for large crowds. Most people prefer to visit during this time because the chance of rain is minimal and hurricane season hasn&rsquo;t started yet. December, January and April are the busiest months to visit in terms of the crowds, and you need to be prepared for higher hotel rates and flight prices.
-
-**Worst Months to Visit**
-
-The temperatures in San Andres are great all year long, but despite the wonderful yearlong temperatures, you will want to avoid San Andres during hurricane season. Hurricane season doesn&rsquo;t officially start until late September, but starting as early as June, you will notice a change in the weather. Starting around June, there will be more showers, which seem to appear out of nowhere, but the winds will also pick up rapidly. Hurricane season usually lasts until the beginning of December.
+The Green Moon Festival in September is the big annual event — a celebration of Raizal culture with drumming, dance, and a parade; worth timing a visit around if you can manage the wetter weather.

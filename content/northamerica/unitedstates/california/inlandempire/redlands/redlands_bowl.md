@@ -7,6 +7,7 @@ tags:
 - entertainment
 title: Redlands Bowl
 type: poi
+score: 7.8
 ---
 
 The Redlands Bowl Summer Music Festival has been running since 1924, making it one of the oldest continuously operating music festivals in the United States. The Redlands Community Music Association presents 18 to 21 professional concerts each summer season, featuring symphonies, ballet, opera, jazz, and culturally diverse music and dance. All performances are free.

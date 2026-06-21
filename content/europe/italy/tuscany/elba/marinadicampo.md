@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-19'
+image: marinadicampo.jpg
+image_attribution: Fabio Pani
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Marina_di_Campo,_Elba,_Italy.jpg
 latitude: 42.7613
+loc_type: city
 longitude: 10.2392
 score: 0.59
 title: Marina di Campo

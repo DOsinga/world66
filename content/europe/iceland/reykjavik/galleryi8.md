@@ -13,6 +13,7 @@ tags:
 title: i8 Gallery
 type: poi
 url: www.i8.is
+score: 7.4
 ---
 
 i8 is Reykjavik's most internationally connected contemporary art gallery, representing some of Iceland's most celebrated artists — Ragnar Kjartansson and Ólafur Elíasson both showed here before becoming globally known — alongside a rotating roster of foreign names.

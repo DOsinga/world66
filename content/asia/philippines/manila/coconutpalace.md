@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Coconut Palace
 type: poi
+score: 6.9
 ---
 
 Imelda Marcos's palace built almost entirely of coconut — palm wood, coconut shells, shell inlay, even coconut-fibre upholstery. Over 70 per cent of its materials come from the coconut tree. Now used for state functions; guided tours at set times.

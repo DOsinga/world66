@@ -10,7 +10,10 @@ latitude: 35.717597
 longitude: 139.797563
 score: 0.78
 title: Asakusa
-type: location
+type: neighbourhood
+tags:
+- neighbourhood
+- things_to_do
 ---
 
 Asakusa retains the old atmosphere of Edo. Although most of the buildings are actually quite new — this part of Tokyo was heavily bombed during World War II — the low-rise streets evoke a time long gone by. This was the heart of Shitamachi, the crowded quarter the Tokugawa shogunate designated for merchants, entertainers, apprentices and traders. It developed into one of old Tokyo's most vibrant neighbourhoods, and something of that character survives.

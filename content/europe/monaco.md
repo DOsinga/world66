@@ -14,7 +14,8 @@ quick_facts:
   Currency: Euro
   Area: "2.1 km² — world's 2nd smallest country"
   Millionaires: "1 in 3 residents"
-score: 0.79
+score: 0.41
+loc_type: country
 ---
 
 Monaco is one of the world's smallest countries — 2.1 square kilometres wedged between France and the sea — and one of the most densely packed with wealth. The glittering yachts, the casino, the Grand Prix circuit threading through city streets: it's a place where ostentation has been elevated to an art form. But it's also genuinely worth visiting, even if you're not a billionaire.

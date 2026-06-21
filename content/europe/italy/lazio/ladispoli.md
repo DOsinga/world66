@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: ladispoli.jpg
+image_attribution: MrPanyGoff
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ladispoli_Aerial.jpg
 latitude: 41.9537
+loc_type: city
 longitude: 12.0735
 snippet: Black-sand beach town, an easy day trip from Rome
 tags:

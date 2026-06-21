@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-14'
+  poi_cleanup: '2026-04-21'
+image: vadodara.jpg
+image_attribution: Snehrashmi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Baroda_Museum01.jpg
 latitude: 22.297314
+loc_type: city
 longitude: 73.194257
 score: 0.45
 title: Vadodara

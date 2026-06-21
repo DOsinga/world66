@@ -8,8 +8,10 @@ tags:
 - shop
 - market
 - square
+snippet: Chaotic local street market between Garibaldi and Corso Umberto
 title: Forcella Market
 type: poi
+score: 6.4
 ---
 
 One of Naples' most chaotic street markets, sprawling between Piazza Garibaldi and Corso Umberto. Leather goods, perfume, accessories, alcohol, and local items of every description. Not a tourist market — this is where Neapolitans shop for bargains, and not everything for sale is officially sourced. Worth a walk through even if you don't buy anything.

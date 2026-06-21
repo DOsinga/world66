@@ -6,6 +6,7 @@ longitude: 8.75
 title: Air Mountains
 type: location
 score: 0.38
+loc_type: feature
 ---
 
 The Air Mountains rise dramatically from the Sahara north of [Agadez](/africa/niger/agadez) — a volcanic massif roughly the size of Switzerland, with peaks reaching above 2,000 metres. Mt Bagzane, about 150 km north of Agadez, is the highest point at around 2,022 metres. The contrast with the surrounding desert is startling: the mountains support real vegetation, permanent springs, and wildlife that has no equivalent in the plains below.
@@ -18,6 +19,6 @@ Timia is the jewel of the Air Mountains: a lush oasis about a day's drive east o
 
 ## Getting There
 
-The Air Mountains are not independently accessible. You need a 4WD, a guide, and government permits. Tour operators in Agadez arrange everything, typically as part of a 5–7 day circuit combining the mountains with the Tenere Desert. See the [Tours section in Agadez](/africa/niger/agadez/tours) for details.
+The Air Mountains are not independently accessible. You need a 4WD, a guide, and government permits. Tour operators in Agadez arrange everything, typically as part of a 5–7 day circuit combining the mountains with the Tenere Desert. See the Tours section in Agadez for details.
 
 The security situation in the Air region has fluctuated significantly over the years, and armed incidents have occurred. Always get a current briefing from your tour operator and check government travel advisories before setting out.

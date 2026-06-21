@@ -14,6 +14,7 @@ tags:
 - sight
 title: The Ramparts
 type: poi
+score: 8.6
 ---
 
 Taroudant's six-kilometre circuit of walls is one of the most complete sets of medieval ramparts in Morocco. The Saadians built them in the 16th century when this was the capital of their empire, and they have changed little since. The best section runs along the south and east, where the walls are tallest and the views clearest.

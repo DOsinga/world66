@@ -13,6 +13,7 @@ tags:
 title: Cedars of Orlando
 type: poi
 url: www.cedarsoforlando.com
+score: 6.6
 ---
 
 Lebanese on Sand Lake Road, just west of I-4 and a short drive from Universal and SeaWorld. The kibbeh nayeh is the standout; the rest of the menu runs through the usual beef, lamb, and chicken house specialties. Coupons on the website.

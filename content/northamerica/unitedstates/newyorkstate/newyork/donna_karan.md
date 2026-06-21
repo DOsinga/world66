@@ -6,7 +6,8 @@ tags:
 - shopping
 - shop
 title: Donna Karan
-type: Shopping centers and malls
+type: poi
+score: 3.7
 ---
 
 Donna Karan's flagship store is spatious, chic.

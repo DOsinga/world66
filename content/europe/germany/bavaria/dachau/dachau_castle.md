@@ -7,6 +7,7 @@ snippet: Renaissance castle with baroque gardens and Alpine views
 tags:
 - things_to_do
 - castle
+score: 7.6
 ---
 
 Only one wing survives from the original four-wing Renaissance castle, rebuilt in baroque style in the early 18th century by court architect Joseph Effner. Inside, the great hall preserves a remarkable Renaissance casket ceiling by cabinet maker Hans Wisreuther and monochrome paintings by Hans Thonauer.

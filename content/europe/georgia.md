@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-21'
 image: georgia.jpg
 image_attribution: Lodian
 image_license: CC BY 2.0
@@ -13,9 +13,10 @@ quick_facts:
   Budget Meal: "~$3–5"
   Winemaking Tradition: "8,000 years old"
   Unique Alphabet: "One of only 14 in the world"
-score: 0.48
+score: 0.78
 title: Georgia
 type: location
+loc_type: country
 ---
 
 Georgia sits at the crossroads of Europe and Asia, tucked between the Greater Caucasus mountains in the north and bordered by the Black Sea to the west, Turkey to the south, Armenia and Azerbaijan to the south and east, and Russia to the north. It is a small country — about the size of Ireland — but remarkably varied: subtropical coastline, glaciated high peaks, arid semi-desert, and deep river gorges all within a few hours' drive of each other.

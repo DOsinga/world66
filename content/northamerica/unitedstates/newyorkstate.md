@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 43.156168
+loc_type: region
 longitude: -75.844995
 score: 0.63
 title: New York State

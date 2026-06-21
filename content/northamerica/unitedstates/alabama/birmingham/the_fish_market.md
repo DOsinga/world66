@@ -10,6 +10,7 @@ tags:
 - seafood
 title: The Fish Market
 type: poi
+score: 5.3
 ---
 
 The place for seafood in Birmingham. The fish is fresh, the portions are huge, and the menu runs from grilled snapper and catfish to coconut shrimp, scallops, crawfish, and alligator. Sides include fries, fried pickles, and lemon-butter pasta. There is always a crowd, so plan accordingly.

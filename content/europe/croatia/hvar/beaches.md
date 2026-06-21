@@ -3,18 +3,12 @@ title: "Beaches"
 type: section
 ---
 
-If you're looking to bask in the sun on long, sandy, white beaches, you may have a difficult time on the island of Hvar. Hvar is a beautiful island in the Adriatic; the sea is pristine and the nightlife scene in Hvar Town is one of the most chic in all of Croatia. However, visitors should abandon the traditional idea of a "beach" before hopping on the ferry.
+Hvar's shore is rocky, like most of Dalmatia. The water is clean and clear, the swimming superb, but if you arrived expecting Caribbean sand you will be disappointed. Pack water shoes — the bottom is sharp limestone and the occasional black sea urchin — and a foam mat for your towel.
 
-As in most of the Croatian Adriatic, the coastline is rocky. You will want to pack a foam mat along with your towel to cushion the jutting rocks. Although you may consider water shoes or “aqua socks” unattractive (or tragically dorky), they can be a welcome alternative to painful prancing on sharp stones. Avoid the black sea urchins that are populous on Hvar; their sting is painful. This guide suggests options around Hvar Town and should help you to determine where to go based on your priorities.
+**For jumping in.** The rocks on either side of Hvar Town have been levelled in places with concrete platforms; the water off them is deep and clear. The Pakleni Islands offer the same on a more dramatic scale, with deeper coves and fewer people.
 
-**Rocks for Jumping**
+**For wading.** Pebble beaches are gentler on the feet. The shingle in front of the Franciscan Monastery is the easiest swim from Hvar Town; further east the strip below Pokonji Dol works for families. On the north coast, Mina Beach near Jelsa is a pleasant 20-minute walk from the harbour through pine forest.
 
-Many locals head to the rocky outcroppings on either side of the town itself. Some areas have been “leveled” with concrete to create flat ground for sunbathers, their towels, and other accoutrement. In other places, the rocks themselves can serve as modified outdoor furniture; the foam pads mentioned earlier come in handy here. In order to get into the water you will need to jump. The water off the rocks is usually quite deep but it is a good idea to watch where the local kids jump before taking the plunge. You will need to hoist yourself up out of the water and back onto the rocks; there are rarely any sort of step ladders. This option is best for strong swimmers.
+**For lounging.** Several of the new luxury hotels along the coast (and the beach clubs in the Pakleni Islands) charge for sunbeds, umbrellas, and ladders into the water. The Carpe Diem Beach Club on Marinkovac is the social hub; Hula-Hula on the western shore of Hvar Town is the sunset spot.
 
-**Pebbles for Wading**
-
-There are a few areas that offer a more gradual entry into the sea. The closest to Hvar Town is in front of the Franciscan Monastery. There is another shallow sea entrance further to the east of town. These pebble beaches can be very crowded but are good for families with children or less-able swimmers.
-
-**Riviera for Lounging**
-
-A number of luxury hotels have sprung up in and around Hvar Town as it has become an increasingly popular destination for the well-heeled yachting set. Several of these new hotels have “rivieras” or boardwalks above the sea set up with chaise lounges and umbrellas. Ladders and steps provide easy access to the sea. You will need to pay to access these facilities, but the available amenities and people watching opportunities make this option attractive for some travelers.
+**For solitude.** Take a scooter east past Jelsa to the bays of Zavala and Sveta Nedjelja, on the south coast. The water is the clearest on the island and the crowds drop sharply away from the main resorts.

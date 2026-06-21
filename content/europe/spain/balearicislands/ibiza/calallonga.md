@@ -4,7 +4,8 @@ longitude: 1.519512
 tags:
 - beaches
 title: cala llonga
-type: general
+type: poi
+score: 6.4
 ---
 
 Cala Llonga is a wonderful beach at the end of an inlet. There is a bar at one end and the gentle slope of the beach into the sea allows for paddling far away from the beach.

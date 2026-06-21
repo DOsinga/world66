@@ -6,8 +6,12 @@ longitude: 2.3491
 snippet: Legendary Paris bargain store, now closed since 2020
 tags:
 - shopping
+- sight
+- market
+- montmartre
 title: Tati
 type: poi
+score: 4.2
 ---
 
 Tati was the discount store that Parisians with empty pockets turned to when they needed clothes, housewares, or just about anything else on the cheap. Founded in 1948 by Jules Ouaki in the Barbès-Rochechouart neighbourhood, it became one of the most recognisable institutions in Paris — its pink-and-white gingham carrier bags were as much a part of the city as the Eiffel Tower, and there was a time when the store drew more visitors than the tower itself.

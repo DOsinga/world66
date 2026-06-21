@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Agios Stefanos Beach
 type: poi
+score: 5.9
 ---
 
 A calm, family-friendly beach in the village of Agios Stefanos, just 3 km north of Mykonos Town. Sheltered and shallow, it is a good alternative to the livelier south-coast beaches.

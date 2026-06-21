@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ellora,_Aurangabad,_Mahara
 title: Ellora
 type: location
 score: 0.65
+loc_type: feature
 ---
 
 Ellora is home to one of the most extraordinary archaeological sites in India — 34 caves carved into a basalt cliff face over a period of five centuries, from roughly the sixth to the eleventh century. The caves are a UNESCO World Heritage Site and represent three religions side by side: Buddhist monasteries and prayer halls, Hindu temples, and Jain shrines, all cut directly from the living rock.
@@ -18,4 +19,4 @@ The undisputed centrepiece is Cave 16, the Kailasa Temple — a freestanding tem
 
 The Buddhist caves (1–12) at the southern end are the oldest, with large halls supported by carved pillars and serene Buddha figures. The Hindu caves (13–29) in the centre are the most dramatic, with energetic carved panels of Shiva, Vishnu, and scenes from the epics. The Jain caves (30–34) at the northern end are smaller but exquisitely detailed, with polished walls and intricate carvings of Jain saints.
 
-Ellora is about 30 kilometres from [Aurangabad](/asia/india/maharashtra/aurangabad), which serves as the base for visiting both Ellora and the older [Ajanta](/asia/india/maharashtra/ajanta) caves (about 100 kilometres further north). The caves are closed on Tuesdays.
+Ellora is about 30 kilometres from [Aurangabad](/asia/india/maharashtra/aurangabad), which serves as the base for visiting both Ellora and the older [Ajanta](/asia/india/maharashtra/ajanta_caves) caves (about 100 kilometres further north). The caves are closed on Tuesdays.

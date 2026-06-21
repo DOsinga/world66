@@ -6,7 +6,8 @@ phone: 1 (204) 475-6850
 tags:
 - eating_out
 title: Bridge Drive Inn
-type: Local
+type: poi
+score: 5.8
 ---
 
 Winnipeg's favorite place for ice cream.noon-11 pm, Sat-Sun 11 am-11 pm. No cards.

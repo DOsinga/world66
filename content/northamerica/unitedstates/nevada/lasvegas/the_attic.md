@@ -10,6 +10,7 @@ tags:
 title: The Attic
 type: poi
 url: www.atticvintage.com
+score: 5.1
 ---
 
 Featured on a national Visa commercial, The Attic sells a mix of vintage and vintage-inspired clothing and accessories in one of the largest vintage clothing spaces in Las Vegas, if not the country.

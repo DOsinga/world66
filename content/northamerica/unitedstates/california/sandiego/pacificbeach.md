@@ -4,8 +4,9 @@ done:
 latitude: 32.797827
 longitude: -117.240318
 title: Pacific Beach
-type: location
+type: neighbourhood
 score: 0.55
+loc_type: city
 ---
 
 Pacific Beach — PB to locals — is San Diego's quintessential beach town: young, loud, and relentlessly casual. The main strip along Garnet Avenue and the oceanfront boardwalk fills up with surfers, beach volleyball players, and bar-hoppers from noon well into the night. It sits sandwiched between Mission Beach to the south and the residential cliffs of La Jolla to the north, making it a natural hub for anyone who wants to spend a week within walking distance of the water.

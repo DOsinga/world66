@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: louisiana.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Louisiana_State_Capitol_Building.jpg
 latitude: 30.870388
+loc_type: region
 longitude: -92.007126
 score: 0.54
 title: Louisiana

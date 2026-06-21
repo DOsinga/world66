@@ -7,8 +7,9 @@ tags:
 - eating_out
 - restaurant
 title: Graze Grill
-type: Local
+type: poi
 url: www.grazegrill.com
+score: 3.9
 ---
 
 Located inside the Executive Royal Inn north Calgary, we have a different take on your dining experience unlike all the other choices.

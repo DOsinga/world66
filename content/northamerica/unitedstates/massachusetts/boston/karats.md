@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Karat's
 type: poi
+score: 5.6
 ---
 
 An upscale restaurant on Federal Street in Boston's Financial District, Karat's draws the suit-and-tie lunch crowd from the surrounding office towers. The menu leans American with polished presentations, and the dining room has the kind of quiet confidence you'd expect from a place where deals get done over steak.

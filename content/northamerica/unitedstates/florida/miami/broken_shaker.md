@@ -9,6 +9,7 @@ tags:
 - bar
 title: Broken Shaker
 type: poi
+score: 6.8
 ---
 
 Set in the garden courtyard of the Freehand Miami hostel, Broken Shaker is a craft cocktail bar that helped launch Miami's serious drinks scene. The setting — mismatched furniture, tropical plants, string lights — is unpretentious and inviting. The cocktails are inventive and seasonal, often using fresh-pressed juices, house-made syrups, and unusual infusions. It gets busy after 10pm on weekends but never feels frantic.

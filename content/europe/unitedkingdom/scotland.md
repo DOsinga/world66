@@ -1,7 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
+image: scotland.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Rain_over_Beinn_Eich,_Luss_Hills,_Scotland.jpg
 latitude: 56.786111
+loc_type: region
 longitude: -4.114052
 score: 0.56
 title: Scotland

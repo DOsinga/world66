@@ -2,8 +2,9 @@
 tags:
 - getting_there
 title: Lester B Pearson International Airport
-type: By Air
+type: poi
 url: www.gtaa.com
+score: 2.2
 ---
 
 Lester B Pearson International Airport (IATA Code YYZ) is virtually the only way to fly into Toronto. Actually located just west in the community of Malton (City of Mississauga), the airport is served by all major Canadian airlines and has an expansive international terminal that handles flights from the United States, Europe, Asia among others.

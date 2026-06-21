@@ -13,6 +13,7 @@ tags:
 - square
 title: Bar San Calisto
 type: poi
+score: 7.5
 ---
 
 The quintessential old-school Roman bar in the heart of Trastevere — a no-frills room of plastic chairs and formica tables, frequented by artists, students, and the kind of locals who have been drinking here for thirty years. Made internationally famous by Stanley Tucci's Italy series. Iconic for its cheap Aperol spritzes (around €2.50) and zero pretension.

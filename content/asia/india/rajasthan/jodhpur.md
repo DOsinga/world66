@@ -2,7 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-15'
+  poi_cleanup: '2026-04-21'
+image: jodhpur.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20191210_Widok_z_dachu_w_D%C5%BAodhpurze_1556_8059.jpg
 latitude: 26.2389
+loc_type: city
 longitude: 73.0243
 score: 0.67
 title: Jodhpur

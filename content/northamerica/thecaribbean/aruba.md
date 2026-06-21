@@ -3,6 +3,7 @@ done:
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
 latitude: 12.5093
+loc_type: region
 longitude: -69.9688
 score: 0.74
 title: Aruba

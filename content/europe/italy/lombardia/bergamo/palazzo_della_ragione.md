@@ -11,6 +11,7 @@ tags:
 - monument
 title: Palazzo della Ragione
 type: poi
+score: 7.6
 ---
 
 The arcade running south from Piazza Vecchia belongs to this 12th-century civic palace — one of the oldest town halls in Lombardy. Look for the 1798 sun meridian laid into the floor and the disk in the ceiling above through which sunlight strikes it at noon.

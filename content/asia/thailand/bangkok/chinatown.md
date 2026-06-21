@@ -4,10 +4,9 @@ longitude: 100.5107
 snippet: Bangkok's buzzing Chinese quarter with legendary street food
 tags:
 - things_to_do
-- neighbourhood
 - shopping
 title: Chinatown
-type: poi
+type: neighbourhood
 ---
 
 Bangkok's Chinatown stretches along Yaowarat Road and Charoen Krung Road, a dense tangle of narrow lanes packed with gold shops, Chinese temples, and market stalls selling everything from dried seafood to medicinal herbs. The area has been the commercial heart of the city's Chinese community for over two centuries.

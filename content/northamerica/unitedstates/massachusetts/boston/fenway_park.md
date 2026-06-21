@@ -14,6 +14,7 @@ tags:
 title: Fenway Park
 type: poi
 url: boston.redsox.mlb.com
+score: 8.0
 ---
 
 Home of the Boston Red Sox. Built in 1912, Fenway Park is the oldest Major League Baseball stadium still in use. Regardless of your baseball allegiances, a tour of this ancient ballpark with its notorious 37-foot left-field wall -- the Green Monster -- is a worthwhile diversion. Getting tickets for a game requires planning well ahead.

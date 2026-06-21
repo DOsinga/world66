@@ -6,6 +6,7 @@ tags: [things_to_do, museum, history, culture]
 address: "Downtown Majuro"
 latitude: 7.0965
 longitude: 171.3803
+score: 7.8
 ---
 
 The Alele Museum is the best single introduction to Marshallese history and culture. Traditional canoes, hand tools, and navigational charts sit alongside the remarkable Joachim de Brum photograph collection, which documents island life across the German, Japanese, and American colonial periods with unusual depth.

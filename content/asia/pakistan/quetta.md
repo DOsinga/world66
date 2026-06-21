@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-20'
+image: quetta.jpg
+image_attribution: Asim Bijarani on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/8624431@N08/4010220967
 latitude: 30.1798
+loc_type: city
 longitude: 66.975
 score: 0.27
 title: Quetta

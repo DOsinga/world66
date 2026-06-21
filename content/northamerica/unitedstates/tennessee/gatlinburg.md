@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: gatlinburg.jpg
+image_attribution: Blinutne
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Gatlinburg,_Tennessee.JPG
 latitude: 35.7143
+loc_type: city
 longitude: -83.5102
 score: 0.61
 title: Gatlinburg

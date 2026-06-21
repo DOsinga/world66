@@ -3,7 +3,7 @@ title: "Things to Do"
 type: section
 ---
 
-Kanchipuram's temples are the main reason to visit. The city has over 100, but a handful stand out.
+Kanchipuram's temples are the main draw. The city has over a hundred, but a handful stand out as truly extraordinary — some of the oldest and finest surviving examples of Dravidian architecture anywhere in India. Beyond the temples, the silk-weaving quarters offer a rare chance to watch Kanchipuram's other great tradition at close range: the handloom production of the heavy, gold-bordered saris that have made the city famous across India.
 
 **Kailasanatha Temple** (8th century) is the oldest surviving temple in Kanchipuram and one of the finest examples of early Pallava architecture. Built from sandstone by King Rajasimha, its compact courtyard of small shrines has a quietly beautiful quality that the larger later temples lack. Under Archaeological Survey of India (ASI) management, so no pressure from priests.
 

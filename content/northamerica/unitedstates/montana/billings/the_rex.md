@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: The Rex
 type: poi
+score: 5.7
 ---
 
 An upscale restaurant on Montana Avenue serving aged steaks, fresh seafood, game, and pasta. The dining room opens at 5pm daily. Reservations recommended. 2401 Montana Avenue.

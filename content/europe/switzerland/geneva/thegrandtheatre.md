@@ -11,6 +11,7 @@ tags:
 - theatre
 title: The Grand Theatre
 type: poi
+score: 7.0
 ---
 
 Geneva's principal opera and ballet venue, the Grand Théâtre sits on Place Neuve alongside the Conservatoire and the Musée Rath. Built in 1879 in a neoclassical style clearly inspired by the Paris Opéra, it was gutted by fire in 1951 and rebuilt over the following decade. The current interior is more restrained than the original but acoustically excellent.

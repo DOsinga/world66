@@ -10,8 +10,9 @@ tags:
 - restaurant
 - square
 title: Trattoria Sant'Ambroeus
-type: Local
+type: poi
 url: www.trattoriasantambroeus.it
+score: 5.8
 ---
 
 Located in Piazza Vecchia in the upper town in an 11th century building this restaurant has a room overlooking the Square or a basement room where the wine cellar is located and is open to the public. In the summer there is outdoor terrace eating. Local Bergamo or Milan dishes are served as well as imaginative meat and fish dishes. Awards: 2 Michelin forks, 2 Touring forks.

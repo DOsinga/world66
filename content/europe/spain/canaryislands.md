@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 28.293578
+loc_type: region
 longitude: -16.621447
 score: 0.76
 title: Canary Islands

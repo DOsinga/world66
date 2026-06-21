@@ -3,6 +3,7 @@ done:
   location_cleanup: 2026-04-05
 image_attribution: 'Photographer: Unknown'
 latitude: -21.236831
+loc_type: region
 longitude: -159.777474
 score: 0.81
 title: Rarotonga

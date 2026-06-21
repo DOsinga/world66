@@ -7,6 +7,7 @@ tags:
 - beach
 title: Atlantic City
 type: poi
+score: 1.8
 ---
 
 About two and a half hours south of Manhattan by car or bus, Atlantic City is New Jersey's seaside gambling town. The Boardwalk stretches four miles along the beach, lined with casinos, saltwater taffy shops, and the kind of neon that looks best after dark. The beach itself is free and surprisingly pleasant in summer.

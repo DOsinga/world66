@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-12'
+image: vitoria.jpg
+image_attribution: Ruben Holthuijsen on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/60057960@N06/53807448484
 latitude: 42.846509
+loc_type: city
 longitude: -2.672403
 score: 0.55
 title: Vitoria-Gasteiz

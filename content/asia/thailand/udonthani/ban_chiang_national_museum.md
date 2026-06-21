@@ -12,6 +12,7 @@ tags:
 - things_to_do
 title: Ban Chiang National Museum
 type: poi
+score: 8.8
 ---
 
 Located 56 kilometres east of Udon Thani along Highway 22, the Ban Chiang National Museum displays the finds from one of the world's most important prehistoric sites — a UNESCO World Heritage Site since 1992. The collection includes bronze tools, jewellery, and the distinctive swirling red-on-buff pottery that has become the symbol of Ban Chiang culture, with artefacts dated to around 3,600 BC. A short walk from the museum leads to Wat Pho Si Nai, where an active excavation pit has been preserved under a shelter so you can see the buried skeletons and pots exactly as archaeologists found them.

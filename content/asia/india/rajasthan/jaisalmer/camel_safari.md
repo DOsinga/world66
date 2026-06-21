@@ -1,10 +1,13 @@
 ---
-category: Sight
 latitude: 26.8787
 longitude: 70.5465
 snippet: Desert rides ending under star-filled skies
+tags:
+- things_to_do
+- sight
 title: Camel Safari
 type: poi
+score: 8.3
 ---
 
 A camel safari into the Thar Desert is the main reason most visitors come to Jaisalmer. Trips range from a few hours to several days, ending with a night camped under very bright stars. Sam Sand Dunes, about 40 kilometres west, is the most popular base — but it can get crowded, and the sunsets are more memorable if you go further out.

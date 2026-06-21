@@ -1,26 +1,17 @@
 ---
 address: Erich-Weinert-Str. 55
-connections: U+S-Bhf. Schönhauser Allee
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 52.550092
 longitude: 13.422373
-phone: +49 (0)30 446 41 35
+phone: +49 30 446 4135
+snippet: Greek restaurant in Prenzlauer Berg
 tags:
 - eating_out
 - prenzlauerberg
 title: Ellopia
 type: poi
+score: 5.8
 ---
 
-Excellent Greek restaurant with charming.
-
-type: International
-
-
-
-
-
-address: Erich-Weinert-Str. 55
-
-connection: U+S-Bhf. Schönhauser Allee
-
-tel: +49 (0)30 446 41 35
+A well-regarded Greek restaurant on a quiet Prenzlauer Berg side street. The menu covers the classics — grilled meats, fresh salads, moussaka — done with care and good ingredients. Friendly service and a small terrace in summer. Reachable from Schönhauser Allee U- and S-Bahn.

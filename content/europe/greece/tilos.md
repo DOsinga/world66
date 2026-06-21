@@ -3,7 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
   poi_cleanup: '2026-04-19'
+image: tilos.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Livadhia_tilos.jpg
 latitude: 36.4293
+loc_type: region
 longitude: 27.316339
 score: 0.59
 title: Tilos

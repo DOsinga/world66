@@ -15,7 +15,8 @@ quick_facts:
   English: "Official language — Pijin widely spoken"
   Languages Spoken: "70+"
   WWII Wrecks in Iron Bottom Sound: "200+"
-score: 0.46
+score: 0.43
+loc_type: country
 ---
 
 Nearly 1,000 islands scattered across 1,500km of the southwest Pacific, the Solomon Islands remain one of the least-visited and most rewarding destinations in the region. This is not package tourism — getting here takes effort, logistics are genuinely challenging, and infrastructure outside Honiara is minimal. In return, you get some of the world's best diving, extraordinary cultural depth, and a sense that you've arrived somewhere that hasn't been processed for visitors.

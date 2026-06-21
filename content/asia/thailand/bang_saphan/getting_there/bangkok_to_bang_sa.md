@@ -8,6 +8,7 @@ tags:
 - getting_there
 title: Bangkok to Bang Saphan by Road
 type: poi
+score: 3.2
 ---
 
 Express air-conditioned buses run from Bangkok's Southern Bus Terminal (Sai Tai Mai) to Bang Saphan, with the journey taking around five to six hours depending on traffic. Buses from Hua Hin also cover the route in about three hours.

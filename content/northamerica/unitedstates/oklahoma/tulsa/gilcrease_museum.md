@@ -10,6 +10,7 @@ tags:
 - museum
 title: Gilcrease Museum
 type: poi
+score: 8.2
 ---
 
 Oil magnate Thomas Gilcrease's private collection of American West art — one of the most important collections of its kind, with major holdings of Remington, Russell, Moran, and Thomas Cole. Strong on Native American art and artefacts too. The museum sits on 460 acres of themed gardens in the hills north of downtown.

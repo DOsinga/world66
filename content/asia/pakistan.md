@@ -16,7 +16,8 @@ quick_facts:
   Karakoram Highway: "World's highest paved international road"
 title: Pakistan
 type: location
-score: 0.27
+score: 0.64
+loc_type: country
 ---
 
 *Asia > Pakistan*

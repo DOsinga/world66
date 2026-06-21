@@ -1,8 +1,14 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: oklahomacity.jpg
+image_attribution: katsrcool
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Automobile_Alley_in_Oklahoma_City.jpg
 latitude: 35.472989
+loc_type: city
 longitude: -97.517054
 score: 0.4
 title: Oklahoma City

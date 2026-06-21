@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 44.477762
+loc_type: region
 longitude: 8.70263
 score: 0.67
 title: Liguria

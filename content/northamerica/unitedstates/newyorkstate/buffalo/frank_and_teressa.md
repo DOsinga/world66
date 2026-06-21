@@ -5,8 +5,9 @@ price: varies
 tags:
 - eating_out
 title: (Frank and Teressas) Anchor Bar
-type: Local
+type: poi
 url: www.anchorbar.com
+score: 5.6
 ---
 
 THE home of the Buffalo Style Chicken Wing.

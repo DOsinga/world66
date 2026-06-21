@@ -1,11 +1,16 @@
 ---
-title: Antalya
-type: location
-latitude: 36.886573
-longitude: 30.703024
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-11'
+image: antalya.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
+latitude: 36.886573
+loc_type: city
+longitude: 30.703024
 score: 0.7
+title: Antalya
+type: location
 ---
 
 Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called **Turquoise Coast** — the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fifth-largest city in Turkey, with a metropolitan population of over 2.5 million, and the arrival point for the vast majority of package holidays in southern Turkey. The modern city is sprawling, sun-bleached and unlovely from the highway, but its compact historical core — **Kaleiçi**, the walled Ottoman old town — is one of the most atmospheric quarters in Turkey and reason enough to visit.

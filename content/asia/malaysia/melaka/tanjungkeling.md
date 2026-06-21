@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Tanjung Keling
 type: poi
+score: 5.2
 ---
 
 A sandy beach about ten kilometers from Malacca, set within a coconut palm grove. Good for swimming and canoeing. The Tanjong Keling Mosque is just north, notable for its octagonal minaret and tiled steps. About a kilometer away is the grave of Hang Tuah, the legendary Malay warrior whose story dominates Malay folklore.

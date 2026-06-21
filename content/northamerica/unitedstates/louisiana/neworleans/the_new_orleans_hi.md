@@ -7,8 +7,9 @@ phone: 504-680-0128
 tags:
 - things_to_do
 title: The New Orleans Historic Voodoo Museum
-type: Spa and Sauna
+type: poi
 url: www.voodoomuseum.com
+score: 5.8
 ---
 
 The Voodoo Museum is a must during any trip to New Orleans. On display are a large collection of African artifacts, portraits by Voodoo legends, and portraits of voodoo legends. Visitors to the museum can also purchase a gris gris -- an amulet that protects the wearer from evil, and voodoo dolls.

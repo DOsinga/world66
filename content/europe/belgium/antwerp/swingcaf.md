@@ -8,7 +8,8 @@ tags:
 - cafe
 - club
 title: Swingcafé
-type: Clubs
+type: poi
+score: 4.6
 ---
 
 Jazz and blues. Closes its doors around midnight.

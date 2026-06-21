@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-12'
+image: sanjuandelro.jpg
+image_attribution: Catedrales e Iglesias on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/12950131@N06/7998321050
 latitude: 20.389
+loc_type: city
 longitude: -99.996
 score: 0.36
 title: San Juan del Río

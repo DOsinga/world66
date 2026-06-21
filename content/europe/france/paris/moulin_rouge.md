@@ -10,9 +10,11 @@ price: Show only from €87; dinner and show from €195
 snippet: the original Belle Époque cabaret, still spectacular
 tags:
 - things_to_do
+- montmartre
 title: Moulin Rouge
 type: poi
 url: www.moulinrouge.fr
+score: 6.9
 ---
 
 The Moulin Rouge opened on 6 October 1889 at the foot of Montmartre and has been one of Paris's most famous addresses ever since. Toulouse-Lautrec's posters made it the symbol of Belle Époque excess; today it remains a working cabaret with elaborate costumes, can-can dancers, and a cast of 60 performers.

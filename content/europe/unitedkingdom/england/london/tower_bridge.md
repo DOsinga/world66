@@ -13,6 +13,7 @@ tags:
 title: Tower Bridge
 type: poi
 url: www.towerbridge.org.uk
+score: 8.6
 ---
 
 Completed in 1894 and instantly iconic, Tower Bridge combines a Victorian Gothic exterior with genuinely ingenious engineering. The Tower Bridge Exhibition lets you walk the high-level glass walkways between the two towers — the views east and west along the Thames are excellent — and visit the original Victorian engine rooms, which still contain the massive steam-powered hydraulic machinery used to raise the bascules. The bridge lifts around 800 times a year; schedules are posted on the website.

@@ -4,9 +4,8 @@ longitude: -5.5714
 snippet: Leon's old-town tapas quarter with free pinchos at every bar
 tags:
 - things_to_do
-- neighbourhood
 title: Barrio Húmedo
-type: poi
+type: neighbourhood
 ---
 
 The Barrio Húmedo — the "wet quarter" — is the old city's tapas and bar district, centred on Calle Ancha, Calle de la Rúa, and the streets around the Plaza Mayor. It earns its name from the quantity of wine consumed here.

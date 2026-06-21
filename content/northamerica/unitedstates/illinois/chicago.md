@@ -2,8 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-01'
   poi_cleanup: '2026-04-20'
+image: chicago.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chicago_River_ferry_b.jpg
 latitude: 41.8756
+loc_type: city
 longitude: -87.6244
 score: 0.7
 title: Chicago

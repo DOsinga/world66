@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: vaasa.jpg
+image_attribution: wstryder on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/36514345@N00/2716621152
 latitude: 63.0958
+loc_type: city
 longitude: 21.6158
 score: 0.44
 title: Vaasa

@@ -1,13 +1,26 @@
 ---
 address: 16 Rue du Repos, 75020 Paris
 admission: Free
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.86113
 longitude: 2.394009
 opening_hours: Mon–Fri 8am–6pm, Sat from 8:30am, Sun from 9am (closes 5:30pm Nov–Mar)
+snippet: Paris's famous cemetery with Wilde, Morrison, and Chopin
 tags:
 - things_to_do
+- sight
+- oberkampf
 title: Père Lachaise Cemetery
 type: poi
+story: >
+  Père Lachaise was struggling commercially when Napoleon's prefect of Paris
+  hit on a scheme to attract custom: he had the remains of Molière, La
+  Fontaine, Héloïse and Abélard transferred there in 1804 with great public
+  ceremony. Overnight, the cemetery became fashionable, and Parisians began
+  clamouring to be buried near literary greatness. The gambit worked so well
+  that the cemetery had to be expanded five times.
+score: 9.0
 ---
 
 The largest cemetery in Paris is one of the city's strangest and most rewarding destinations. Its 44 hectares of cobbled lanes and overgrown tombs feel like a village frozen in the 19th century, and the guest list is extraordinary: Molière, Balzac, Proust, Chopin, Edith Piaf, Oscar Wilde, Isadora Duncan, and Jim Morrison are all here, along with thousands of less famous Parisians in graves ranging from crumbling 18th-century monuments to polished modern stones.

@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
 image: tokyo.jpg
 image_attribution: David Kernan
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg
 latitude: 35.67686
+loc_type: city
 longitude: 139.763895
 score: 0.96
 title: Tokyo

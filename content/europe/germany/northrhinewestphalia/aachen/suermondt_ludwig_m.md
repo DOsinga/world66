@@ -9,6 +9,7 @@ tags:
 - museum
 title: Suermondt Ludwig Museum
 type: poi
+score: 7.2
 ---
 
 A fine arts museum spanning the Middle Ages to the present day, housed in a handsome 19th-century villa. The collection of 17th-century Dutch and Flemish painting is particularly strong, and the medieval sculpture holdings are among the best in the Rhineland. Temporary exhibitions rotate regularly. The building itself is worth a look — grand staircases, high ceilings, natural light.

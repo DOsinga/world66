@@ -7,7 +7,7 @@ Aix sits at a crossroads of very different landscapes. Within an hour's drive yo
 
 **North and Northwest: The Luberon and Les Alpilles**
 
-The rugged limestone ridges of the Luberon and the Alpilles dominate the area between Aix and Avignon. A drive through either will uncover picturesque villages where you can stop for lunch on plane-tree-shaded squares and shop for lavender-scented gifts, Provencal fabrics, and santons. The medieval village of [Les Beaux de Provence](/europe/france/midi/provence/les_beaux_de_prove) has transformed from a hilltop ruin into a thriving artists' colony. [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov) is known for its Roman ruins and the asylum where Van Gogh painted Starry Night.
+The rugged limestone ridges of the Luberon and the Alpilles dominate the area between Aix and Avignon. A drive through either will uncover picturesque villages where you can stop for lunch on plane-tree-shaded squares and shop for lavender-scented gifts, Provencal fabrics, and santons. The medieval village of [Les Beaux de Provence](/europe/france/midi/provence/les_beaux_de_prove) has transformed from a hilltop ruin into a thriving artists' colony. [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_provence) is known for its Roman ruins and the asylum where Van Gogh painted Starry Night.
 
 **South: Les Calanques**
 

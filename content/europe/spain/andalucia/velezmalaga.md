@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: velezmalaga.jpg
+image_attribution: Tyk
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_V%C3%A9lez-M%C3%A1laga.jpg
 latitude: 36.781835
+loc_type: city
 longitude: -4.09881
 score: 0.49
 title: Velez Malaga

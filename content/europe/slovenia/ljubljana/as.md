@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: AS Club
 type: poi
+score: 4.6
 ---
 
 A popular nightclub with good music for dancing. The mojitos are a draw. More casual than Global and consistently busy on weekends.

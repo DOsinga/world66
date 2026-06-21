@@ -10,6 +10,7 @@ tags:
 - cuban
 title: Enriqueta's Sandwich Shop
 type: poi
+score: 7.1
 ---
 
 A cash-only Cuban diner on the edge of Wynwood that has not changed much in decades despite the neighbourhood's transformation around it. Breakfast is the meal to come for — the pan con bistec (steak sandwich) and the cortadito are both excellent. The place is small, loud, and packed on weekend mornings. There is outdoor seating on the sidewalk.

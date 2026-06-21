@@ -2,7 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: southcarolina.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ravenel_Bridge_at_night_from_Mt_Pleasant.jpg
 latitude: 33.687439
+loc_type: region
 longitude: -80.436374
 score: 0.54
 title: South Carolina

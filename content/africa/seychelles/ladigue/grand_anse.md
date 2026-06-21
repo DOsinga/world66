@@ -1,11 +1,13 @@
 ---
 title: "Grand Anse"
 type: poi
+snippet: "Wild, empty beach with rough surf and granite boulders"
 tags:
   - beaches
   - sight
 latitude: -4.3636
 longitude: 55.8568
+score: 7.6
 ---
 
 Grand Anse faces east into the Indian Ocean and has the island's longest stretch of open sand. It is far less visited than Anse Source d'Argent, partly because it faces the prevailing swell — swimming here can be rough, especially between May and October. But for a long walk on empty sand, with no one else in sight, it is hard to beat.

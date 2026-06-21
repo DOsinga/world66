@@ -3,24 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**by car:**
+**By car:** From Salzburg, take the B158 east through St. Wolfgang and Strobl — about 55 km. From Vienna, take the A1 motorway to the Regau exit, then the B145 south — about 280 km.
 
- from Salzburg: B158 -> Bad Ischl
+**By bus:** The Postbus from Salzburg takes about 75 minutes. From Linz, change at Attnang-Puchheim for a connecting service. Bad Ischl is not on the main rail network; the scenic Salzkammergutbahn that ran through the town closed in 1997.
 
- from Vienna: A1 to exit Regau, B145 -> Bad Ischl
-
-  **by train:**
-
- Linz or Salzburg -> Attnang-Puchheim -> Bad Ischl
-
- Graz -> Stainach Irdning -> Bad Ischl
-
- You will find the railway station in the Bad Ischl pedestrian area.
-
- Address: Bahnhof Bad Ischl Bahnhofstraße 8, A-4820 Bad Ischl
-
- Tel.:+43 (0)6132 / 24407-0
-
-  **by plane:**
-
- airport: Linz/Hörsching or Graz/Thalerhof or Salzburg
+**By plane:** Salzburg Airport is the closest (about 70 km), with connections to major European cities. Linz (80 km) is also an option.

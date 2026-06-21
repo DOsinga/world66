@@ -1,12 +1,14 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  location_enrich: '2026-06-02'
+  poi_cleanup: '2026-04-21'
 image: amsterdam.jpg
 image_attribution: Patrick Nouhailler's…
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_,_Netherlands_-_panoramio_(140).jpg
 latitude: 52.37308
+loc_type: city
 longitude: 4.892453
 quote: Amsterdam makes more sense on two wheels than on foot.
 score: 0.83

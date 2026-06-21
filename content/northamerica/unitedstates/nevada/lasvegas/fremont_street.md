@@ -6,6 +6,7 @@ tags:
 title: Fremont Street Experience
 type: poi
 snippet: "Original Vegas strip with massive LED canopy shows"
+score: 7.6
 ---
 
 Fremont Street is where Las Vegas and all its glory originated. It lies about a mile from the Strip. The Fremont Street Experience is a magnificent LED canopy stretching five blocks, putting on a light and sound show every hour in different themes. The canopy was modernized with high-resolution displays.

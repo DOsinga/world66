@@ -6,6 +6,7 @@ longitude: 11.681224
 score: 0.46
 title: Saxony-Anhalt
 type: location
+loc_type: region
 ---
 
 Saxony-Anhalt regained its status as a regional state in 1990, when the reunification of East and West Germany took place. It has now more than 2.5 million inhabitants and 21 municipalities.
@@ -17,7 +18,7 @@ Eisleben, the city where Martin Luther was born and died,
 
 ## Destinations in Saxony-Anhalt
 
-[Halle](/world/europe/germany/saxonyanhalt/halle)
-[Magdeburg](/world/europe/germany/saxonyanhalt/magdeburg)
-[Dessau](/world/europe/germany/saxonyanhalt/dessau)
-[Wernigerode](/world/europe/germany/saxonyanhalt/wernigerode)
+Halle
+Magdeburg
+Dessau
+Wernigerode

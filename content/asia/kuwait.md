@@ -15,7 +15,8 @@ quick_facts:
   Best Months: "Nov–Mar (cool enough to be outside)"
   Summer Heat: "50°C+"
   Alcohol: Completely banned
-score: 0.37
+score: 0.34
+loc_type: country
 ---
 
 Kuwait is a small, wealthy nation wedged between Iraq and Saudi Arabia on the northwestern shore of the Persian Gulf. It is one of the richest countries on earth per capita, and its capital, [Kuwait City](/asia/kuwait/kuwaitcity), is a gleaming modern metropolis that rose from the desert on oil money. But beneath the skyscrapers and shopping malls lies a culture shaped by centuries of pearl diving, seafaring, and Bedouin tradition.

@@ -6,6 +6,7 @@ longitude: 93.408474
 title: Kaziranga
 type: location
 score: 0.61
+loc_type: feature
 ---
 
 Kaziranga National Park lies on the south bank of the Brahmaputra in Assam, covering 688 square kilometres of tall elephant grass, marshland, and dense tropical forest. First established in 1908 as a reserve forest with barely a dozen rhinos, it was declared a National Park in 1974 and is now a UNESCO World Heritage Site.

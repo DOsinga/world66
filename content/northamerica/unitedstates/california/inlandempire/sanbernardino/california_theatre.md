@@ -1,13 +1,17 @@
 ---
 address: 562 West 4th Street, San Bernardino
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 34.106785
 longitude: -117.295468
 phone: 909-885-5152
+snippet: 1928 Spanish-Moorish theater with Will Rogers mural
 tags:
 - things_to_do
 - architecture
 title: California Theatre of the Performing Arts
 type: poi
+score: 7.8
 ---
 
 Built in 1928 in opulent Spanish-Moorish style, the California Theatre is beautifully preserved inside and out. It serves as home to the San Bernardino Symphony Orchestra, the Inland Dance Theater, the San Bernardino Valley Concert Association, Sinfonia Mexicana, and Theater Arts International, which stages lavish productions.

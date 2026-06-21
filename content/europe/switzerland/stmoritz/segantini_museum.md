@@ -9,6 +9,7 @@ tags:
 - museum
 title: Segantini Museum
 type: poi
+score: 7.9
 ---
 
 A purpose-built domed pavilion housing the work of Giovanni Segantini, the Italian painter who spent his final years in the Engadin and died on the Schafberg above Pontresina in 1899. The centerpiece is his unfinished Alpine Triptych, three enormous canvases depicting life, nature, and death in the mountains. The building itself, designed to echo the shape of the Schafberg, is worth seeing.

@@ -2,8 +2,10 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-19'
 latitude: 47.474
+loc_type: city
 longitude: -0.5516
 score: 0.55
 title: Angers

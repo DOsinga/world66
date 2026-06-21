@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-13'
+image: otaki.jpg
+image_attribution: Karora
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:JA1271_crossing_the_Otaki_River.jpg
 latitude: -40.758537
+loc_type: city
 longitude: 175.147015
 score: 0.42
 title: Otaki

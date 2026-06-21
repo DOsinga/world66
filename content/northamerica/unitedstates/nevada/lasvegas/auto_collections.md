@@ -10,6 +10,7 @@ tags:
 - museum
 title: Auto Collections at The LINQ
 type: poi
+score: 6.8
 ---
 
 The Auto Collections is one of the largest classic car showrooms in the world, housed inside The LINQ Hotel (formerly the Imperial Palace). The collection rotates but typically features around 250 vehicles spanning a century of automotive history — everything from pre-war Duesenbergs to muscle cars and celebrity-owned rides.

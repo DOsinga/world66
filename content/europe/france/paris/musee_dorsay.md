@@ -1,14 +1,26 @@
 ---
 address: 1 Rue de la Légion d'Honneur, 75007 Paris
 admission: €16; free first Sun of the month
+done:
+  poi_cleanup: '2026-04-20'
 latitude: 48.859918
 longitude: 2.326585
 opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
+snippet: World-class Impressionist art in a grand railway station
 tags:
 - things_to_do
+- museum
+- saint_germain
 title: Musée d'Orsay
 type: poi
+story: >
+  The station closed for passenger service in 1939, too short for modern
+  trains. For decades it awaited demolition — plans included a luxury hotel,
+  even a parking garage. Orson Welles used it to film his 1962 adaptation of
+  Kafka's The Trial. The building was finally saved when a museum use was
+  approved in 1977, and the conversion took nine more years.
 url: www.musee-orsay.fr
+score: 9.5
 ---
 
 The Musée d'Orsay is the world's finest collection of Impressionist and Post-Impressionist art, housed in a spectacularly converted 1900 railway station. Victor Laloux's Beaux-Arts iron-and-glass hall, with its giant clocks and ornate plasterwork, is as much an attraction as the paintings. The station closed in 1939 and the building spent decades awaiting demolition before reopening as a museum in 1986.

@@ -4,8 +4,9 @@ price: variable, depending on what you order
 tags:
 - eating_out
 title: Just Pizza
-type: Italian
+type: poi
 url: artvoice.com
+score: 4.8
 ---
 
 Originally a strict pizzeria, Just Pizza has branched out to compete head-to-head with La Nova pizza on the west side of Buffalo for your pizza dollars.

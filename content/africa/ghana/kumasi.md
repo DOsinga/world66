@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: kumasi.jpg
+image_attribution: c.hug on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/13176024@N02/2477631289
 latitude: 6.698561
+loc_type: city
 longitude: -1.623309
 score: 0.48
 title: Kumasi

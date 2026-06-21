@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-12'
+image: darjeeling.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Darjeeling,_India,_Darjeeling_city_center_with_mountains_backdrop_after_sunset.jpg
 latitude: 27.041
+loc_type: city
 longitude: 88.2663
 score: 0.65
 title: Darjeeling

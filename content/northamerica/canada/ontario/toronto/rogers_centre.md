@@ -12,6 +12,7 @@ tags:
 title: Rogers Centre
 type: poi
 url: https://www.rogerscentre.com
+score: 6.2
 ---
 
 Home of the Toronto Blue Jays, the Rogers Centre sits right next to the CN Tower and offers behind-the-scenes tours that are well worth the price of admission. You'll walk through areas you'd never see on game day — press boxes, sky boxes with their plush bathrooms, and sections of the field itself (schedule permitting).

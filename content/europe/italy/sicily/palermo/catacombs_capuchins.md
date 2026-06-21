@@ -13,8 +13,10 @@ story: 'The most famous occupant is Rosalia Lombardo, a two-year-old who died in
 tags:
 - things_to_do
 - landmark
+snippet: "8,000 mummified bodies displayed in underground corridors"
 title: Catacombs of the Capuchin Monks
 type: poi
+score: 8.6
 ---
 
 One of the most extraordinary and disquieting places in Italy. The Capuchin monks of Palermo began mummifying their dead in the 16th century and continued until 1920; the catacombs now hold around 8,000 bodies displayed in their clothes along corridor walls, organised by profession (priests, professionals, women, children). The effect is overwhelming. Not suitable for young children or the easily unsettled.

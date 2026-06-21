@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: goa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:BeachFun.jpg
 latitude: 15.300454
+loc_type: region
 longitude: 74.085513
 score: 0.69
 title: Goa

@@ -7,6 +7,7 @@ tags:
 - market
 title: Empress Market
 type: poi
+score: 8.3
 ---
 
 Built in 1889 during British rule and named after Queen Victoria, Empress Market is one of Karachi's oldest and most chaotic bazaars. The Gothic Revival clock tower marks the entrance to a sprawling complex of covered halls and open-air stalls selling meat, fish, fruit, vegetables, spices, and household goods.

@@ -8,8 +8,9 @@ tags:
 - eating_out
 - restaurant
 title: Abacanto
-type: Italian
+type: poi
 url: www.acena.it
+score: 4.9
 ---
 
 Along the lake in an elegant setting with carefully selected furnishings for a romantic evening. Closed in March and Wednesday at noon.

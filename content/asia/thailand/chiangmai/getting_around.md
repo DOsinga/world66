@@ -1,26 +1,10 @@
 ---
-title: "Getting Around in Chiang mai"
+title: Getting Around
 type: section
 ---
 
-** **
+The old city is compact and flat — most things inside the moat are walkable, and bicycles can be rented by the day from guesthouses for 50 to 100 baht. The moat road is good for cycling.
 
-** Rent a car with a driver. Travel in Chiang Mai**
+Songthaews (shared red pickup trucks) are the main form of local transport. They run fixed routes but will deviate for a negotiated price. A shared ride within the city costs around 30 to 40 baht per person; a chartered songthaew for a short trip is around 100 to 150 baht. Tuk-tuks operate similarly. Metered taxis do exist but are less common than in Bangkok.
 
-****
-
-We are a friendly and professional taxi service.
-Our knowledgeable drivers and courteous service-center staff make getting around Chiang Mai convenient and enjoyable.
-We pride ourselves on our high customer satisfaction and excellent
-safety record.
-
-Please call us or e-mail to us for more information or booking now and let us show you around this wonderful city and great activity.
-
-** BUNNY SERVICE**
-
-1.Transfer from airport to hotel start **150 **baht per car
-2.Recommended attractions in Chiang Mai
-
-**Phone : +66898512768**
-
-**e-mail : ****niceguy2510@gmail.c**om
+Motorbike rental is widely available and popular for day trips to Doi Suthep or the surrounding countryside. An international driving licence is technically required. Grab (the regional equivalent of Uber) operates in Chiang Mai and is a reliable, metered alternative to negotiating with tuk-tuk drivers.

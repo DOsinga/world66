@@ -6,6 +6,7 @@ tags:
 title: Ristorante-Pizzeria Fratelli D'Angelo
 type: poi
 snippet: Casual family-run spot for seafood and pizza in La Spezia
+score: 5.3
 ---
 
 

@@ -1,11 +1,12 @@
 ---
 title: Boekhandel Dominicanen
 type: poi
-latitude: 51.6878
-longitude: 5.6878
+latitude: 50.8476
+longitude: 5.6884
 tags:
 - things_to_do
 - architecture
+score: 8.8
 ---
 
 A bookshop inside a 13th-century Dominican church — regularly cited as one of the most beautiful bookshops in the world, and it is hard to argue. The nave is lined with multi-storey steel bookshelves that rise toward the Gothic vaulted ceiling, and a café occupies the former choir, where you can drink coffee beneath 14th-century frescoes.

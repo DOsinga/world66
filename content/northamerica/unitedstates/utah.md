@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: utah.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Utah_Dunes_Landscape_-_West_Desert_District.jpg
 latitude: 39.422519
+loc_type: region
 longitude: -111.714358
 score: 0.78
 title: Utah

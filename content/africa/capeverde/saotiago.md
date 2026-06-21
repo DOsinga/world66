@@ -6,6 +6,7 @@ longitude: -23.524434
 title: Santiago
 type: location
 score: 0.48
+loc_type: region
 ---
 
 Santiago is the largest island in Cape Verde and its cultural and political heart. It was the first of the islands to be settled by the Portuguese in the fifteenth century, and the traces of that history are still visible — nowhere more so than at Cidade Velha, the oldest European colonial settlement in the tropics, now a UNESCO World Heritage Site.

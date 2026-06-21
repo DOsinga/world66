@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-28'
+  poi_cleanup: '2026-04-21'
+image: manaus.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Manaus_amazonas.jpg
 latitude: -3.131633
+loc_type: city
 longitude: -59.982504
 score: 0.52
 title: Manaus

@@ -5,8 +5,9 @@ tags:
 - eating_out
 - restaurant
 title: Lotus Court
-type: Chinese
+type: poi
 url: marcopolohotels.scriptmania.com
+score: 5.5
 ---
 
 Located at the 5-star Marco Polo Hotel, Lotus Courst is the hotel's signature dining room serving the finest selection

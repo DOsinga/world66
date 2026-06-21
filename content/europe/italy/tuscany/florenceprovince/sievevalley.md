@@ -4,6 +4,7 @@ type: location
 latitude: 43.8
 longitude: 11.45
 score: 0.61
+loc_type: region
 ---
 
 The Sieve Valley (Valdarno di Sopra) runs northeast from Florence along the River Sieve through a landscape of olive groves, vineyards, and medieval hill villages. The valley was part of the Florentine Republic's eastern defensive perimeter, and walled towns, fortified bridges, and Medici villas are scattered along the hillsides. The area lies within the Chianti Rufina wine zone, one of the smaller and less-touristed sub-appellations of Chianti.

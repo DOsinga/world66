@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: bavaria.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bavaria_Statue_and_Ruhmeshalle_Munich,_April_2019_-02.jpg
 latitude: 48.946756
+loc_type: region
 longitude: 11.403872
 score: 0.72
 title: Bavaria

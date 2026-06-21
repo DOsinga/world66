@@ -6,8 +6,9 @@ phone: (+47) 22 12 37 00
 tags:
 - things_to_do
 title: Norsk Folkemuseum
-type: Museums
+type: poi
 zipcode: www.norskfolkemuseum.no
+score: 8.0
 ---
 
 This museum, like the Viking Ships, Kontiki, Fram and Maritime Museums is on the Bygdøy peninsula which can be reached by boat from near the Town Hall or by bus.

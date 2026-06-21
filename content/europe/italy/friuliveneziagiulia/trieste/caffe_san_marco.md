@@ -8,12 +8,12 @@ opening_hours: Mon, Wed–Sat 08:00–23:00; Sun 09:00–23:00; closed Tue
 phone: +39 040 363 538
 snippet: Grand 1914 literary café where Joyce once held court
 tags:
-- James Joyce
-- Literature
-- One Day in Trieste
 - bars_and_cafes
+- cafe
+- historic_house
 title: Caffè San Marco
 type: poi
+score: 8.8
 ---
 
 One of the great coffee houses of Central Europe, the Caffè San Marco opened in 1914 and was a regular haunt of Joyce during his Trieste years. The interior — high vaulted ceilings, dark wood panelling, art nouveau detailing — has survived almost unchanged, and the atmosphere is genuinely that of a literary café rather than a tourist reconstruction.

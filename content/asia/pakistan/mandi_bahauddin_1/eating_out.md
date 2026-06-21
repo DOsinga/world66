@@ -1,13 +1,13 @@
 ---
-title: "Eating Out in Mandi Bahauddin"
-type: section
-address: "Phalia Road"
-email: "tastepoint2007@gmail.com"
-phone: "(0546) 507044, (0546) 506144, (0546) 424362"
-price: "Different for different manu."
-type: "Fast food"
+address: Phalia Road
+email: tastepoint2007@gmail.com
 latitude: 32.561987
 longitude: 74.051849
+phone: (0546) 507044, (0546) 506144, (0546) 424362
+price: Different for different manu.
+title: Eating Out in Mandi Bahauddin
+type: poi
+score: 2.4
 ---
 
 ****
@@ -41,7 +41,7 @@ or display just:
 
 **Show best rated on top** | [Show in alphabetical order](/asia/pakistan/mandi_bahauddin_1/eating_out?sort=alpha)
 
-### [Taste Point](/asia/pakistan/mandi_bahauddin_1/eating_out/taste_point)
+### Taste Point
 
 **Taste Point** is the best fast food point in city Mandi Bahauddin.
 In very short duration, it is most famous Eating Out place in city. And this is just due to its quality and taste.
@@ -62,7 +62,7 @@ PriceOfMenu: Different for different manu.
 
 email: tastepoint2007@gmail.com
 
-### [7 Ways restorant](/asia/pakistan/mandi_bahauddin_1/eating_out/7_ways)
+### 7 Ways restorant
 
 7 ways restorant is one of the most expensive and popular restorants in Mandi Bahauddin. it can also reserved for evening partys and meetings and for marriage ceremonys.
 
@@ -74,7 +74,7 @@ type: Indian and Pakistani
 
 address: 7 ways, King Road, M.B.Din
 
-### [Village-inn restorant](/asia/pakistan/mandi_bahauddin_1/eating_out/villageinn_restor)
+### Village-inn restorant
 
 **Village-inn** is a new restorant in Mandi Bahauddin, Basicaly it's a Chinese and Pakistani Food restaurant.
 
@@ -100,7 +100,7 @@ address: near boty shah, 5 ward
 
 PriceOfMenu: 20 - 80
 
-### [Deewan chicken frid](/asia/pakistan/mandi_bahauddin_1/eating_out/deewan_chicken_fri)
+### Deewan chicken frid
 
 Deewan chiken fride store is situated in the middle of mandi city.
 
@@ -114,7 +114,7 @@ type: Fast food
 
 address: Dimond Chowk, Sadar Bazar, Mandi City
 
-### [Greenz resturent](/asia/pakistan/mandi_bahauddin_1/eating_out/greenz_resturent)
+### Greenz resturent
 
 ***in which restaurent Pakistanies & chaines food available ***
 
@@ -132,7 +132,7 @@ PriceOfMenu: minimum price 1 dish 175
 
 email: tubbasam_jan@yahoo.com
 
-### [Greenz resturent](/asia/pakistan/mandi_bahauddin_1/eating_out/greenz_resturent_1)
+### Greenz resturent
 
 ***in which restaurent Pakistanies & chaines food available ***
 
@@ -150,7 +150,7 @@ PriceOfMenu: minimum price 1 dish 175
 
 email: tubbasam_jan@yahoo.com
 
-### [Abshar Resturent](/asia/pakistan/mandi_bahauddin_1/eating_out/abshar_resturent)
+### Abshar Resturent
 
 type: Indian and Pakistani
 
@@ -158,7 +158,7 @@ type: Indian and Pakistani
 
 address: habib Bank, Phalia Road
 
-### [Abshar Resturent](/asia/pakistan/mandi_bahauddin_1/eating_out/abshar_resturent_1)
+### Abshar Resturent
 
 type: Indian and Pakistani
 

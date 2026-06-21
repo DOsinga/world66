@@ -12,6 +12,7 @@ tags:
 title: Rush
 type: poi
 url: www.rushdahab.com
+score: 4.5
 ---
 
 The closest thing Dahab has to a proper nightclub. Rush is the go-to spot when you want loud music and a packed dance floor, and when they throw a party the rest of town goes quiet. They also host Full Moon beach parties at Nuweiba once a month. Open late, usually until around 4 AM.

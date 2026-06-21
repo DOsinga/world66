@@ -17,6 +17,7 @@ tags:
 - mosque
 title: Imam Mosque
 type: poi
+score: 9.8
 ---
 
 The Imam Mosque (Masjed-e Imam, formerly the Shah Mosque) is the greatest monument of Safavid architecture and one of the finest mosques in the Islamic world. Built between 1611 and 1629, its entrance portal faces the square, but the mosque itself is rotated 45 degrees to align with Mecca — an elegant solution that gives the approach its distinctive bent passageway. The interior courtyard, tiled throughout in intricate blue and turquoise, contains two iwans (vaulted halls) and the main prayer chamber, whose acoustics are extraordinary: a single handclap under the dome multiplies into seven echoes.

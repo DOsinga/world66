@@ -1,5 +1,12 @@
 ---
+done:
+  location_enrich: '2026-05-11'
+image: calamba.jpg
+image_attribution: Ralff Nestor Nacor
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Banga,_Calamba,_Laguna,_March_2023.jpg
 latitude: 14.206022
+loc_type: city
 longitude: 121.15565
 score: 0.4
 title: Calamba

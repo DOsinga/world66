@@ -2,8 +2,10 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-20'
 latitude: 61.497793
+loc_type: city
 longitude: 23.761637
 score: 0.55
 title: Tampere

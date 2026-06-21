@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 35.672964
+loc_type: region
 longitude: -79.039292
 score: 0.52
 title: North Carolina

@@ -1,11 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
+image: sveti_stefan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sveti_Stefan_(06).jpg
 latitude: 42.255651
+loc_type: city
 longitude: 18.89695
+score: 0.68
 title: Sveti Stefan
 type: location
-score: 0.68
 ---
 
 Sveti Stefan is the most photographed spot in Montenegro — a turreted medieval village on a small island, connected to the shore by a narrow sandy causeway, with pink-sand beaches on both sides. If you've seen a postcard of Montenegro, this is probably it.

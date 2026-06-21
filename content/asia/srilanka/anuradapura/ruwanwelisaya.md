@@ -15,6 +15,7 @@ tags:
 - sight
 title: Ruwanwelisaya Dagoba
 type: poi
+score: 9.5
 ---
 
 The great white dome of the Ruwanwelisaya is one of the most recognisable monuments in Sri Lanka. Built by King Dutugemunu in the 2nd century BC, it stands 55 metres tall and is revered as one of the sixteen most sacred places in the country. The surrounding courtyard is filled with a ring of elephant statues supporting the base. White-clad pilgrims and the smell of incense fill the precinct at all hours.

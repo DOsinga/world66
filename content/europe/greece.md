@@ -14,7 +14,8 @@ quick_facts:
   Currency: Euro (€)
   Islands: "6,000+ (fewer than 200 inhabited)"
   Coastline: "Longest in the Mediterranean"
-score: 0.68
+score: 0.91
+loc_type: country
 ---
 
 Greece is where Western civilisation began, and the traces of that beginning are everywhere — in marble columns rising from clifftops, in names on road signs that appear in Shakespeare and the Bible, in temples that were already ancient when Julius Caesar was born. But Greece is not just a museum. It is a Mediterranean country with excellent food, a lively culture, and one of the most complex and beautiful landscapes in Europe.

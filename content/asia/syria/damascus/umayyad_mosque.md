@@ -1,11 +1,13 @@
 ---
 latitude: 33.5113
 longitude: 36.3066
+snippet: One of the oldest and grandest mosques in the world
 tags:
 - things_to_do
 - landmark
 title: Umayyad Mosque
 type: poi
+score: 9.8
 ---
 
 One of the oldest and largest mosques in the world, built in the early 8th century on the site of a Roman temple and a Christian basilica. The vast courtyard is flanked by three minarets and decorated with gold and green mosaics, especially striking on the main portal and the raised treasury building. Inside the prayer hall, a silver shrine is said to contain the head of John the Baptist.

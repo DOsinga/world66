@@ -13,7 +13,8 @@ quick_facts:
   Cost Level: "High-value, high-cost safaris"
   Kalahari Coverage: "70%"
   Elephants: "130,000"
-score: 0.59
+score: 0.72
+loc_type: country
 ---
 
 Botswana is one of Africa's great wildlife destinations and one of its most expensive. This is deliberate -- the government has pursued a low-volume, high-value tourism policy that keeps the wild places genuinely wild. If you can afford it, or if you are willing to self-drive and camp, the reward is landscapes and animal encounters that feel like nowhere else on earth.

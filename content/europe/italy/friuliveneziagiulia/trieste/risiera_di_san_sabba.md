@@ -9,11 +9,11 @@ opening_hours: Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:
   16:30). Closed 25 Dec and 1 Jan.
 snippet: Italy's only Nazi concentration camp, now a sobering national monument
 tags:
-- One Day in Trieste
 - things_to_do
 - museum
 title: Risiera di San Sabba
 type: poi
+score: 8.4
 ---
 
 The only Nazi concentration camp on Italian soil, built in 1898 as a rice-husking mill and converted by the SS in 1943 into a transit and extermination camp. Today it is a national monument and museum — sobering, important, and unmissable for anyone with an interest in the Second World War in Italy.

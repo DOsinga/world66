@@ -10,6 +10,7 @@ longitude: 5.777043
 score: 0.51
 title: Friesland
 type: location
+loc_type: region
 ---
 
 Friesland (Fryslân in the local tongue) is the Netherlands' northernmost mainland province and the only one with its own language. Frisian sits closer to English than to Dutch, and Frisians wear their identity proudly: their own flag with red water-lily leaves, their own forenames, their own anthem, and a long memory of having never quite been ruled by anyone for good. It is a province of wide skies, water everywhere, and a people who would rather be on the ice or under sail than indoors.

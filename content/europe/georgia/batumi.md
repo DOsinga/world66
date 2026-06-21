@@ -2,8 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-28'
   poi_cleanup: '2026-04-19'
+image: batumi.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:USS_Oak_Hill,_26th_MEU_Marines_Visit_Batumi,_Georgia_(40817303032).jpg
 latitude: 41.651
+loc_type: city
 longitude: 41.636
 score: 0.61
 title: Batumi

@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Titania café
 type: poi
+score: 4.2
 ---
 
 A relaxed café on Kennedy Square in the old town, with a garden and a terrace — the square itself is pleasant for lingering over coffee. Opposite the police station.

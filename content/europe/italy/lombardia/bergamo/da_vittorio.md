@@ -10,8 +10,9 @@ tags:
 - eating_out
 - restaurant
 title: Da Vittorio
-type: First Class
+type: poi
 url: www.davittorio.com
+score: 7.4
 ---
 
 "Da Vittorio" has moved to Brusaporto! Italians have some of the best food in the world and here is one of the best restaurants located in Brusaporto. There is no price limit here! They have the best wines in the world. Closed Wednesdays. It's a hotel and a restaurant.

@@ -1,6 +1,7 @@
 ---
 latitude: 38.8893
 longitude: -77.0694
+snippet: Iconic flag-raising statue and largest cast-bronze work in the world
 tags:
 - things_to_do
 - sight
@@ -8,6 +9,7 @@ tags:
 title: Marine Corps War Memorial (Iwo Jima)
 type: poi
 url: https://www.nps.gov/gwmp/learn/historyculture/usmcwarmemorial.htm
+score: 6.5
 ---
 
 The Marine Corps War Memorial, better known as the Iwo Jima Memorial, depicts the iconic raising of the American flag on Mount Suribachi during the Battle of Iwo Jima in February 1945. At 78 feet, it is the largest cast-bronze statue in the world.

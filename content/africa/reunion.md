@@ -8,7 +8,8 @@ quick_facts:
   Currency: Euro (EUR)
   Highest Peak: "3,071 m (Piton des Neiges)"
   Active Volcano: Piton de la Fournaise
-score: 0.7
+score: 0.60
+loc_type: country
 ---
 
 Reunion is a French department lost in the Indian Ocean. There are coconut trees and beaches in Reunion, the turquoise blue lagoons and the white barrier reef are there waiting for you to fulfil your exotic dreams. 

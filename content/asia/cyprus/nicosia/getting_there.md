@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-By air: Greek Nicosia has no operative airport today. The old one was partially destroyed in Civil War 1974.
+Nicosia has no operating airport. The old international airport was divided by the 1974 ceasefire line and remains frozen inside the buffer zone. The nearest airport for the south is Larnaca International Airport (LCA), about 45 km to the southeast — buses and shared taxis (service taxis run by companies such as Travel Express and KAPNOS) connect the airport to Nicosia in about 45 minutes. Paphos Airport is about 130 km to the west. North Nicosia is served by Ercan Airport, which has flights only to and from Turkey.
 
-Turkish Levkosa is served by the small Ercan Airport, where only planes from and to Turkey arrive and depart.
-
-  By land: The only highway on Cyprus joins Nicosia with Limassol, about 50 miles south-westwards. The KEMEK bus company runs an hourly bus service between Nicosia and Limassol (Tel: 02 – 463989 or 05 – 363241). Nicosia Terminal is on Dionysus Solomos Square. Troodos is connected with Nicosia by two daily buses: KEMEK and Solea bus. Another Solea bus runs several times a day between Nicosia and Kakopetria. There are also buses between Nicosia and Agia Napa, for further information, ask CTO (see Practical Things).
+By road from Limassol, the A1 motorway runs north to Nicosia in about 45 minutes (75 km). From Larnaca, the A2 connects to Nicosia in about 35 minutes. Long-distance buses (Intercity Buses/ALSA) run between Nicosia, Limassol, Larnaca, and Paphos several times daily from the bus station near Solomos Square.

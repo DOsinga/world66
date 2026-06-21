@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Reiner de Klerk Huis
 type: poi
+score: 7.5
 ---
 
 Now the Gedung Arsip Nasional (National Archive Building), this grand house on Jalan Gajah Mada evokes the days of the VOC (Dutch East India Company). The two-storey building has wooden floors upstairs, carved wooden doors and ventilations, and a cannon and belfry in the backyard. In the old days, the owner would travel by boat along the small river that ran in front of the house to reach the Kota area.

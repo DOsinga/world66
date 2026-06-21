@@ -1,7 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-13'
 latitude: 31.281471
+loc_type: city
 longitude: 7.906614
 score: 0.4
 title: Grand Erg Oriental

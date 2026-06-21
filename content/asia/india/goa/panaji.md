@@ -2,7 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-21'
+image: panaji.jpg
+image_attribution: Klaus Nahr from Germany
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:0437_Panaji_-_Church_of_Our_Lady_of_the_Immaculate_Conception_2006-02-13_13-44-45_(10543360026).jpg
 latitude: 15.498995
+loc_type: city
 longitude: 73.828214
 score: 0.59
 title: Panaji

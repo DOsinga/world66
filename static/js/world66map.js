@@ -177,26 +177,60 @@ function initLocationMap(elementId, markers, options) {
     // All markers available — starts as full pool; caller may expand via _setMarkers
     var _allMarkers = markers.slice();
 
+    // Single persistent tooltip div — positioned manually so it never leaves the map.
+    var _tip = L.DomUtil.create('div', 'map-name-tip', map.getContainer());
+    _tip.style.cssText = 'position:absolute;z-index:9999;display:none;pointer-events:none';
+    var _tipMarker = null;
+
+    function _showTip(m) {
+        if (m.snippet) {
+            _tip.className = 'map-name-tip map-name-tip--rich';
+            _tip.innerHTML = '<span class="map-tip-name">' + (m.name || '') + '</span>'
+                           + '<div class="map-tip-snippet">' + m.snippet + '</div>';
+        } else {
+            _tip.className = 'map-name-tip';
+            _tip.innerHTML = m.name || '';
+        }
+        _tip.style.display = 'block';
+        _tipMarker = m;
+        _positionTip();
+    }
+
+    function _positionTip() {
+        if (!_tipMarker || _tip.style.display === 'none') return;
+        var pt  = map.latLngToContainerPoint([_tipMarker.lat, _tipMarker.lng]);
+        var sz  = map.getSize();
+        var w   = _tip.offsetWidth;
+        var h   = _tip.offsetHeight;
+        var above = pt.y > h + 20;
+        var top = above ? pt.y - h - 10 : pt.y + 14;
+        var left = Math.round(pt.x - w / 2);
+        left = Math.max(6, Math.min(left, sz.x - w - 6));
+        _tip.style.top  = top  + 'px';
+        _tip.style.left = left + 'px';
+    }
+
+    function _hideTip() {
+        _tip.style.display = 'none';
+        _tipMarker = null;
+    }
+
+    map.on('movestart zoomstart', _hideTip);
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
         var dotCls = highlight ? ' map-dot--highlight' : ' map-dot--grey';
-        var dotHtml = '<i class="map-dot' + dotCls + '"></i>';
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label',
-                html: '<div class="map-dot-hit">' + dotHtml + '</div>',
+                html: '<div class="map-dot-hit"><i class="map-dot' + dotCls + '"></i></div>',
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
             zIndexOffset: -500,
         });
         if (m.name) {
-            mk.bindTooltip(m.name, {
-                className: 'map-name-tip',
-                direction: 'top',
-                offset: [0, -10],
-                sticky: false,
-            });
+            mk.on('mouseover', function() { _showTip(m); });
+            mk.on('mouseout',  _hideTip);
         }
         mk.addTo(group);
     }
@@ -207,14 +241,19 @@ function initLocationMap(elementId, markers, options) {
         var inner = m.url
             ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
             : '<span>' + (m.name || '') + '</span>';
-        L.marker([m.lat, m.lng], {
+        var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label' + cls,
                 html: '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>' + inner,
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
             zIndexOffset: 1000,
-        }).addTo(group);
+        });
+        if (m.snippet) {
+            mk.on('mouseover', function() { _showTip(m); });
+            mk.on('mouseout',  _hideTip);
+        }
+        mk.addTo(group);
     }
 
     // Greedy deconfliction — walk pool top-down, place label only if it doesn't overlap.
@@ -245,6 +284,7 @@ function initLocationMap(elementId, markers, options) {
             var hp = (b.highlight ? 1 : 0) - (a.highlight ? 1 : 0);
             return hp || (b.score || 0) - (a.score || 0);
         });
+        _hideTip();
         group.clearLayers();
         var isSingle = pool.length === 1;
         // Only named markers are candidates for a label

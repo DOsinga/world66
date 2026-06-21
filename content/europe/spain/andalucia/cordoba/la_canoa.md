@@ -8,8 +8,10 @@ phone: 957 47 17 61
 snippet: Locals' tapas bar with montaditos near the old town
 tags:
 - bars_and_cafes
+- bar
 title: La Canoa
 type: poi
+score: 5.7
 ---
 
 A cheerful, classic-style tapas bar a short walk north of the old town, popular with locals at lunchtime for its montaditos and a good range of regional wines by the glass.

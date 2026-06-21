@@ -1,14 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: florida.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_Key_and_Sailboats,_Florida,_2025.jpg
 latitude: 27.756767
+loc_type: region
 longitude: -81.463983
-score: 0.56
 quick_facts:
-  Population: "22 million"
-  Coastline: "1,350 miles"
-  Natural Springs: "700+"
+  Coastline: 1,350 miles
   Lightning Strikes: Most in the US
+  Natural Springs: 700+
+  Population: 22 million
+score: 0.56
 title: Florida
 type: location
 ---

@@ -4,6 +4,7 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 49.214
+loc_type: region
 longitude: -2.131
 score: 0.58
 title: Jersey

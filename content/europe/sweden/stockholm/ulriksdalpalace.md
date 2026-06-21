@@ -10,8 +10,11 @@ tags:
 - things_to_do
 - museum
 - palace
+- sight
+- architecture
 title: Ulriksdal Palace
 type: poi
+score: 6.5
 ---
 
 A 17th-century royal palace set in parkland on the shore of Edsviken, just north of central Stockholm. The building went through several incarnations — baroque origins, a grand redesign under Queen Kristina, near-ruin, then careful restoration in the 19th century.

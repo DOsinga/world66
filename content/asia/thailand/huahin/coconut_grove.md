@@ -7,7 +7,8 @@ tags:
 - park
 - beach
 title: Coconut Grove
-type: Thai
+type: poi
+score: 4.4
 ---
 
 Small garden Barbeque and bar, cheap drinks, short walk to the beach.

@@ -4,7 +4,8 @@ longitude: -121.121789
 tags:
 - things_to_do
 title: Hole in the Wall .
-type: general
+type: poi
+score: 5.5
 ---
 
 This cavern appears to have been cut away by the melt waters from the glacier that once filled Bow Valley. 

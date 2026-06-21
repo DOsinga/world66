@@ -14,7 +14,8 @@ quick_facts:
   Language: "French — limited English outside resorts"
   Coral Lagoon: UNESCO-listed, one of world's largest
   Nickel Reserves: "~25% of world's known supply"
-score: 0.62
+score: 0.57
+loc_type: country
 ---
 
 New Caledonia is a French special collectivity in the southwest Pacific, roughly 1,500 km east of Australia. It consists of one large island — Grande Terre — and several smaller island groups: the Loyalty Islands (Lifou, Maré, Ouvéa), the Isle of Pines, and a handful of remote atolls. The total population is around 265,000.

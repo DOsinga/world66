@@ -12,6 +12,7 @@ staticfiles/
 __pycache__/
 *.pyc
 *.pyo
+*.swp
 .DS_Store
 .idea/
 .claude/
@@ -25,3 +26,9 @@ __pycache__/
 clean
 /location_ratings.json
 design/
+/passports/
+/bulk-merge.sh
+/logs/
+/plans/
+/docs/brainstorms/
+/docs/plans/

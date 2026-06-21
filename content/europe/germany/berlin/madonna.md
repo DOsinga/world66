@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Madonna
 type: poi
+score: 6.1
 ---
 
 A Kreuzberg bar worth visiting for the whisky selection alone — around 200 varieties. The atmosphere is low-key and the clientele local. An honest pub that doesn't try too hard.

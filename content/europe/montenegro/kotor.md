@@ -2,12 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
 image: kotor.jpg
 image_attribution: User:Ggia
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg
 latitude: 42.4249
+loc_type: city
 longitude: 18.7713
 score: 0.76
 title: Kotor

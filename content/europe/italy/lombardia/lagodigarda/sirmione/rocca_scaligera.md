@@ -16,6 +16,7 @@ tags:
 - castle
 title: Rocca Scaligera
 type: poi
+score: 8.4
 ---
 
 The Scaligero castle guards the only land entrance to the old town, its towers rising straight out of the lake moat. You can climb to the top of the keep for a panorama over the rooftops to the water on all sides — on a clear day you can see well up the lake toward the Alps. Allow an hour to do it justice.

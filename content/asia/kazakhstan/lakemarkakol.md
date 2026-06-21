@@ -6,6 +6,7 @@ longitude: 85.735101
 title: Lake Markakol
 type: location
 score: 0.41
+loc_type: feature
 ---
 
 Lake Markakol is a remote mountain lake in Eastern Kazakhstan, set at about 1,450 metres in the Altai Mountains near the Chinese border. The lake sits in a nature reserve — a quiet, forested basin of pine and fir surrounded by steep mountain slopes. If you can get here, the scenery is extraordinary.

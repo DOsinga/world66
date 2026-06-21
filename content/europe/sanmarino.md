@@ -14,7 +14,8 @@ quick_facts:
   Founded: AD 301 — world's oldest republic
   Area: "61 km²"
   Cars Per Capita: More cars than people
-score: 0.63
+score: 0.38
+loc_type: country
 ---
 
 San Marino is the fifth smallest country in the world and one of the oldest republics, founded in AD 301 by a Christian stonemason fleeing Roman persecution. Perched on the slopes of Monte Titano and entirely surrounded by Italy, this microstate packs a surprising amount into its 61 square kilometers.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Shanghai Zoo
 type: poi
+score: 5.6
 ---
 
 A large, leafy zoo on the western edge of the city near Hongqiao airport. Worth the trip if you have kids or an interest in Chinese wildlife: giant pandas, golden snub-nosed monkeys, red pandas, and the rare South China tiger. The grounds are pleasant in their own right — a former golf course laid out under the colonial regime.

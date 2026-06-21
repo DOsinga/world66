@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: santarosadecop.jpg
+image_attribution: Adal-Honduras
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Santa_Rosa_de_Cop%C3%A1n_Cathedral_2.jpg
 latitude: 14.7717
+loc_type: city
 longitude: -88.7794
 score: 0.46
 title: Santa Rosa de Copán

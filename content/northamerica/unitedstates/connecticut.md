@@ -6,6 +6,7 @@ longitude: -72.734216
 score: 0.49
 title: Connecticut
 type: location
+loc_type: region
 ---
 
 Connecticut is located in the Northeast of the US and is one of the six states that make up New England. It borders
@@ -23,7 +24,7 @@ The Quinebaug and Shetucket Rivers Valley in northeastern Connecticut has been c
 
 ## Destinations in Connecticut
 
-[Hartford](/world/northamerica/unitedstates/connecticut/hartford)
-[Stanford](/world/northamerica/unitedstates/connecticut/stanford)
-[New Haven](/world/northamerica/unitedstates/connecticut/newhaven)
-[Hamden](/world/northamerica/unitedstates/connecticut/hamden)
+Hartford
+Stanford
+New Haven
+Hamden

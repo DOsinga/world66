@@ -1,8 +1,6 @@
 ---
-title: "Eating out"
+title: Eating Out
 type: section
 ---
 
-Don't miss the Chop House for an incredible steak. Another favorite is Tommy Tsunami's for sushi and celebrity watching. Also in the area is the new P.F. Chang's, which offers high class Chinese cuisine. For something different, try the Vesta Dipping Grill. Every entree is served with your choice of 3 unique sauces so that every meal is an adventure!
-
- The newly openedRestaurant Kevin Taylor is being hailed as the "best restaurant in Denver." It is located downtown at 1106 14th Street. The menu is quite pricey, but it is supposedly worth every penny.
+Denver's food scene has matured into one of the best in the interior West. The strongest neighborhoods are RiNo (modern Chinese at Hop Alley, the food hall at Denver Central Market), LoDo (Italian at Tavernetta), the Highlands (the famous rooftop view at Linger, Root Down's farm-to-table), and the Platt Park stretch of South Pearl (sushi worth the wait at Sushi Den). For something quintessentially Denver, the 1893 Buckhorn Exchange still serves elk and bison under 500 mounted heads, and Sam's No. 3 dishes out green-chile breakfast burritos at any hour. Brunch at any Snooze location involves a wait but justifies one.

@@ -8,6 +8,7 @@ tags:
 title: Moremi Game Reserve
 type: poi
 snippet: "Formally protected third of the Okavango Delta, rich in wildlife"
+score: 9.4
 ---
 
 Moremi covers the eastern third of the Okavango Delta and is the only formally protected part of it. The reserve combines floodplains, lagoons, and dry woodland, which means an unusual density and variety of wildlife in a relatively compact area. Lions, leopards, elephants, hippos, giraffes, and the endangered African wild dog all live here.

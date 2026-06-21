@@ -8,8 +8,10 @@ snippet: Old Masters from Durer to Rubens in a grand gallery
 tags:
 - things_to_do
 - museum
+- maxvorstadt
 title: Alte Pinakothek
 type: poi
+score: 9.1
 ---
 
 One of the oldest and most important art galleries in the world, the Alte Pinakothek holds Munich's collection of Old Masters from the 14th to the 18th century. The building itself, designed by Leo von Klenze and opened in 1836, set the standard for museum architecture across Europe.

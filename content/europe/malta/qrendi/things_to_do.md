@@ -4,3 +4,5 @@ type: section
 ---
 
 The prehistoric temples are the reason to come to Qrendi. Allow at least two hours to visit both Ħaġar Qim and Mnajdra properly — more if you want to linger. The Heritage Malta visitor centre at the entrance has a good interpretive museum and shows a short film before you head out to the sites.
+
+Combine the temples with a walk through Qrendi village to the parish church and the dramatic Il-Maqluba sinkhole on its southern edge. The whole circuit makes a satisfying half-day.

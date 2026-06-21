@@ -10,6 +10,7 @@ longitude: -109.638757
 score: 0.6
 title: Montana
 type: location
+loc_type: region
 ---
 
 Montana is the fourth-largest state in the United States and one of the least densely populated — nearly a million square miles with under a million people. The landscape is defined by the Rocky Mountain ranges in the west and the vast northern Great Plains in the east, and the wildlife is genuinely spectacular: grizzly bears, wolves, mountain lions, elk, and bison all live here in significant numbers.

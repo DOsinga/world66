@@ -2,8 +2,9 @@
 tags:
 - getting_there
 title: Intercity Buses
-type: By Road
+type: poi
 url: www.autostradale.it
+score: 2.3
 ---
 
 Buses are frequent and not so expensive. The "autostradale" buses are the intercity buses. The bus stations are near the train station.

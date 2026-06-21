@@ -1,7 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-11'
+image: marlow.jpg
+image_attribution: Wayland Smith
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Marlow_Weir_-_geograph.org.uk_-_2979218.jpg
 latitude: 51.571871
+loc_type: city
 longitude: -0.776965
 score: 0.51
 title: Marlow

@@ -10,6 +10,7 @@ image: algarve.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Algarve_(22345249680).jpg
 image_license: CC BY 2.0
 image_attribution: Sergei Gussev
+loc_type: region
 ---
 
 Portugal's sunny southern coast stretches over 150 kilometres from [Sagres](/europe/portugal/algarve/sagres) in the west to [Vila Real](/europe/portugal/algarve/vilareal) on the Spanish border. The Algarve is the country's premier beach destination, blessed with more sunshine hours than almost anywhere else in Europe, golden sand beaches, and warm Atlantic water.

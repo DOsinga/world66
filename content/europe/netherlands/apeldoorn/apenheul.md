@@ -12,6 +12,7 @@ tags:
 title: Apenheul Primate Park
 type: poi
 url: https://www.apenheul.nl
+score: 8.3
 ---
 
 One of the world's best primate parks. Over 35 species of monkeys, apes and lemurs live in remarkable freedom in the Berg en Bos forest. Many roam freely among visitors -- squirrel monkeys will sit on your shoulder if you let them. The themed habitats (Madagascar, Amazon) are well designed, and the wooded setting feels genuinely natural rather than zoo-like. Open roughly April through October.

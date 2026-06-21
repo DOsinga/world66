@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: -2.897407
 longitude: -79.004173
 title: Cuenca
 type: location
 score: 0.63
+loc_type: city
 ---
 
 Cuenca is Ecuador's third-largest city and, by most accounts, its most beautiful. Set at 2,500 metres in the southern highlands, it was declared a UNESCO World Heritage site in 1999 for its remarkably intact colonial centre — cobblestone streets, whitewashed buildings with ironwork balconies, and churches on seemingly every corner.

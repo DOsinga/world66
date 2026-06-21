@@ -12,6 +12,7 @@ tags:
 - cafe
 title: Cazbar
 type: poi
+score: 4.2
 ---
 
 A business-style cafe in Mega Kuningan with free Wi-Fi and imported newspapers, open from 7am. The upstairs sports bar shows Premier League football, rugby, cricket, and Formula 1. Live blues jam sessions on Friday and acoustic bands on Saturday. The food menu covers full breakfasts and a mix of Asian and European dishes. Easily reachable from the Sudirman and Kuningan areas.

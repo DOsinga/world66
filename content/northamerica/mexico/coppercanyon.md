@@ -6,6 +6,7 @@ longitude: -107.823
 title: Copper Canyon
 type: location
 score: 0.67
+loc_type: feature
 ---
 
 Copper Canyon — Barranca del Cobre — is not one canyon but a network of more than 20, carved into the Sierra Madre Occidental in the state of Chihuahua. Together they cover a vast area, deeper and four times larger than the Grand Canyon in the United States. The name comes from the greenish copper colour of the canyon walls.

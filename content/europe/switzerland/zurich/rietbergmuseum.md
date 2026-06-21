@@ -11,6 +11,7 @@ tags:
 - museum
 title: Rietberg Museum
 type: poi
+score: 8.2
 ---
 
 Zurich's only museum dedicated to non-European art, housed in the neoclassical Villa Wesendonck -- where Richard Wagner once composed parts of Tristan und Isolde. The permanent collection spans Indian sculpture, Chinese painting, Japanese prints, African masks, and pre-Columbian ceramics, displayed with enough space to let individual pieces breathe.

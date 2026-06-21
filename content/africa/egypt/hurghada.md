@@ -2,8 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-11'
   poi_cleanup: '2026-04-19'
+image: hurghada.jpg
+image_attribution: Dr. Ondřej Havelka (cestovatel)
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hotel_beach_with_a_small_marina_in_Hurghada.jpg
 latitude: 27.2222
+loc_type: city
 longitude: 33.8307
 score: 0.57
 title: Hurghada

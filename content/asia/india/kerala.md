@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: kerala.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Boathouse_(7063399547).jpg
 latitude: 10.352874
+loc_type: region
 longitude: 76.51204
 score: 0.69
 title: Kerala

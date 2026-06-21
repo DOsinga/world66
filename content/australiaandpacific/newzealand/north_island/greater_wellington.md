@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
 latitude: -41.223547
+loc_type: region
 longitude: 175.415758
 score: 0.59
 title: Greater Wellington

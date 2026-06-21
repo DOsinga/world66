@@ -9,9 +9,21 @@ opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
 snippet: The world's largest and most visited art museum
 tags:
 - things_to_do
+- museum
+- sight
+- architecture
+- leshalles
 title: Louvre Museum
 type: poi
+story: >
+  The Mona Lisa is displayed behind bulletproof glass not because of theft —
+  though it was famously stolen in 1911 and missing for two years — but
+  because in 1956 a visitor threw acid at the lower half of the painting.
+  The thief, an Italian handyman named Vincenzo Peruggia, hid in a closet
+  overnight, walked out with the painting under his coat, and kept it in
+  his apartment in Florence for more than two years before being caught.
 url: www.louvre.fr
+score: 9.8
 ---
 
 The Louvre is the world's most visited museum and one of its greatest — a former royal palace whose 35,000 works span 9,000 years of human civilisation. The building itself is extraordinary: a harmonious mix of Renaissance and 19th-century wings wrapped around I.M. Pei's glass pyramid, which opened controversially in 1989 and is now beloved.

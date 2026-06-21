@@ -10,6 +10,7 @@ title: Trippen
 type: poi
 latitude: 52.5241
 longitude: 13.4013
+score: 6.5
 ---
 
 Trippen has been making sculptural, distinctive shoes in Berlin since 1992. Their flagship store sits in the Fountain Courtyard of the Hackesche Höfe, one of the city's most elegant restored Wilhelmine courtyards. The shoes are made in Germany and Italy, and while not cheap, they wear well for years. The range runs from bold architectural shapes to more restrained walking shoes, all with the same quality construction.

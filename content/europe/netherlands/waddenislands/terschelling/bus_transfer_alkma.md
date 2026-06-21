@@ -2,7 +2,8 @@
 tags:
 - getting_there
 title: Bus transfer Alkmaar <> Leeuwarden Harlingen harbour
-type: By Road
+type: poi
+score: 2.5
 ---
 
 Departure/timetable and tariff information for **bus** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)

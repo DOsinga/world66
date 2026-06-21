@@ -1,9 +1,6 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
 ---
 
-Want to see a polar bear, a flamingo, or a penguin? Then, one Denver attraction you don't want to miss during your visit is the Denver Zoo (denverzoo.org). Open every day of the year, visitors can see exhibits of black leopards, grizzly bears, and vampire bats. If you enjoyed The Lion King, then take a look at the Predator Ridge featuring over 45 African animals including lions, hyenas, and wild dogs. If you love the tropics, check out the Tropical Discovery exhibit which features an indoor rainforest. Other exhibits include Pachyderm Habitats (elephants and rhinos) and Bird World.
-
-**Contributors**
-May 11, 2009
+The Front Range is genuinely close. From downtown you can be at Red Rocks in 25 minutes, on Lookout Mountain at Buffalo Bill's grave in 35, hiking the Flatirons in Boulder in 45, soaking in the hot springs at Idaho Springs in an hour, or on top of the Continental Divide at Loveland Pass in just over an hour and a quarter. Rocky Mountain National Park is a comfortable day at 90 minutes each way; Colorado Springs and the Garden of the Gods are about the same to the south. In summer (June to early September only) the drive up Mount Blue Sky is North America's highest paved road and one of the great altitude experiences without putting on a backpack.

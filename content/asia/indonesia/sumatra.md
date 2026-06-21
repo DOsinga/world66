@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: sumatra.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra,_Indonesia.jpg
 latitude: -0.143294
+loc_type: region
 longitude: 101.624102
 score: 0.53
 title: Sumatra

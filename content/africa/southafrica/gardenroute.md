@@ -6,6 +6,7 @@ longitude: 22.458715
 done:
   location_cleanup: 2026-04-06
 score: 0.71
+loc_type: region
 ---
 
 Scattered along the Garden Route, fashionable seaside resorts abound, attracting jet-setters from around the globe. On a less affluent scale, tine coastal villages appeal especially to outdoor people who enjoy an unstructured holiday agenda. Mountains crowd close to a shoreline dotted with beaches and bays, and vividly coloured wild flowers delight the eye.

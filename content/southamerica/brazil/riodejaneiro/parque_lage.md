@@ -11,6 +11,7 @@ tags:
 - cafe
 title: Parque Lage
 type: poi
+score: 8.1
 ---
 
 This public park at the foot of Corcovado was once the estate of industrialist Enrique Lage. The 1920s mansion, remodelled by Italian architect Mario Vodrel with interior paintings by Salvador Payols Sabate, now houses a visual arts school. The courtyard cafe, set in the mansion's central atrium with the Christ the Redeemer statue framed in the opening above, is one of Rio's most photographed spots.

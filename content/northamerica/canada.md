@@ -1,19 +1,20 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
 image: canada.jpg
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Traveler100" title="User:Traveler100">Traveler100</a>
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:MoraineLakeP01.jpg
 latitude: 61.066692
+loc_type: country
 longitude: -107.991707
 quick_facts:
-  Population: "40 million"
-  Currency: Canadian dollar (CAD)
   Coastline: Longest in the world at 243,000 km
-  Lakes: "More than all other countries combined"
-score: 0.44
+  Currency: Canadian dollar (CAD)
+  Lakes: More than all other countries combined
+  Population: 40 million
+score: 0.88
 title: Canada
 type: location
 ---

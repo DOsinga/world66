@@ -7,7 +7,8 @@ tags:
 - eating_out
 - restaurant
 title: La Strada
-type: Italian
+type: poi
+score: 5.4
 ---
 
 Gourmet dining in a comfortable atmosphere, the international menu

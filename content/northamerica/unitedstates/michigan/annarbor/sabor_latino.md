@@ -7,9 +7,11 @@ longitude: -83.7487
 phone: (734) 214-7775
 snippet: Authentic Mexican flavors in a no-frills setting
 tags:
-- eating_out
+  - eating_out
+  - restaurant
 title: Sabor Latino
 type: poi
+score: 5.7
 ---
 
 Ann Arbor's standout Mexican restaurant, offering solid, authentic flavors at fair prices. The food consistently outperforms the no-frills interior. A good choice when you want something more substantive than campus-area fast food.

@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 40.091281
+loc_type: region
 longitude: 9.030577
 score: 0.72
 title: Sardinia

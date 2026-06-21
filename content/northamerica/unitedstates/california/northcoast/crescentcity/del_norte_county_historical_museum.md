@@ -9,6 +9,7 @@ tags:
 - museum
 title: Del Norte County Historical Museum
 type: poi
+score: 6.9
 ---
 
 A small but well-organized museum covering the history of Del Norte County — the Tolowa people who lived here for thousands of years before European contact, the Gold Rush-era settlers, the logging and fishing industries that shaped the town, and the 1964 tsunami that wiped out much of the downtown. The tsunami exhibit is particularly good: photographs, eyewitness accounts, and a scale model of the wave's path through the harbor.

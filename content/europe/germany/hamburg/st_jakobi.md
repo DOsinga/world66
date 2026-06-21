@@ -7,6 +7,7 @@ tags:
 - church
 title: St. Jakobi
 type: poi
+score: 7.2
 ---
 
 A 14th-century brick Gothic hall church on the edge of the old town, badly damaged in the war and carefully rebuilt. The interior holds three medieval altars saved from the bombing and the Arp Schnitger organ of 1693 — one of the largest baroque organs in northern Europe and a place of pilgrimage for organ enthusiasts. U-Bahn: Mönckebergstrasse.

@@ -13,9 +13,10 @@ quick_facts:
   Currency: Euro
   Megalithic Temples: Older than the Pyramids
   Population Density: "1,680 per km²"
-score: 0.6
+score: 0.65
 title: Malta
 type: location
+loc_type: country
 ---
 
 By far the largest and most popular island historic Malta merits a minimum of four nights. Sun worshippers should know that the sandiest beaches in the nation are located on the northern coast..

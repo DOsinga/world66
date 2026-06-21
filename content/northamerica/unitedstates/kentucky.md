@@ -6,6 +6,7 @@ longitude: -85.1551
 score: 0.43
 title: Kentucky
 type: location
+loc_type: region
 ---
 
 Kentucky is famous for bourbon, horse racing, and fried chicken, but the state has far more to offer than its stereotypes. The landscape ranges from the rolling Bluegrass region around [Lexington](/northamerica/unitedstates/kentucky/lexington) — home to thoroughbred horse farms and distilleries — to the rugged Appalachian foothills in the east, where the Red River Gorge offers some of the best rock climbing and hiking in the eastern United States.

@@ -10,6 +10,7 @@ tags:
 - shopping
 title: Great American Flea Market
 type: poi
+score: 5.5
 ---
 
 With over 500 dealers, Great American Flea Market is one of the largest indoor flea markets in the Midwest. Located south of I-244 on Admiral Place near the Mingo traffic circle. The big draw is shopping in year-round air-conditioned comfort, though there are also dealers in the parking lot.

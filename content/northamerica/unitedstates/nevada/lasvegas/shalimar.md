@@ -5,7 +5,8 @@ tags:
 - eating_out
 - restaurant
 title: Shalimar
-type: Indian and Pakistani
+type: poi
+score: 6.5
 ---
 
 If you're planning to eat at least try something different. Shalimar Indian restaurant features a varied menu of North-Indian style dishes. In addition to taste and variety, Shalimar also offers an excellent value. Main courses (dinner) cost $11-$16.

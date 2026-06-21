@@ -1,14 +1,18 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: le_marais.jpg
+image_attribution: Zantastik
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Chez_Marianne_(Le_Marais_Paris)_01.jpg
 latitude: 48.860382
 longitude: 2.360742
 snippet: Medieval neighbourhood of courtyards, museums, and falafel
 tags:
 - things_to_do
-- shopping
+- neighbourhood
 title: Le Marais
-type: poi
+type: neighbourhood
 ---
 
 Le Marais is Paris's most rewarding neighbourhood for an unstructured afternoon of wandering. Centred on the 3rd and 4th arrondissements, it escaped Haussmann's 19th-century demolitions almost entirely, so its medieval street pattern survives intact: narrow lanes, Renaissance mansions (hôtels particuliers), and quiet courtyards around every corner.

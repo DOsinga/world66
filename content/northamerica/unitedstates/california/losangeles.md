@@ -1,8 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-20'
+  location_enrich: '2026-06-01'
+  poi_cleanup: '2026-04-21'
+image: losangeles.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg
 latitude: 34.053691
+loc_type: city
 longitude: -118.242766
 score: 0.67
 title: Los Angeles

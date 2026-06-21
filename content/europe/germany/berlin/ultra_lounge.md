@@ -8,9 +8,11 @@ phone: 030 310 10 906
 snippet: Late-night live jazz and soul bar in Charlottenburg
 tags:
 - bars_and_cafes
+- charlottenburg
 title: Ultra Lounge Berlin
 type: poi
 url: ultraloungeberlin.com
+score: 6.2
 ---
 
 A live music bar in the heart of Charlottenburg, open late every night of the week. Jazz, soul, pop, and funk fill the room in a relaxed, unpretentious setting. The bar is well-stocked and the ambience is genuinely mellow — the kind of place you stumble into for one drink and stay for three.

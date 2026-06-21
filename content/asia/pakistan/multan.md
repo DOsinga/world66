@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-11'
+image: multan.jpg
+image_attribution: A Perfect Heart on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/29176783@N04/10613721143
 latitude: 30.197838
+loc_type: city
 longitude: 71.471968
 score: 0.37
 title: Multan

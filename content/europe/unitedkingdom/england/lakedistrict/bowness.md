@@ -1,11 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-16'
 latitude: 54.3713
+loc_type: city
 longitude: -2.9211
+score: 0.61
 title: Bowness
 type: location
-score: 0.61
 ---
 
 More properly called Bowness-on-Windermere, this lakeside town grew up as a tourist centre in the Victorian era when the railway arrived from Kendal. It is not the prettiest settlement in the [Lake District](/europe/unitedkingdom/england/lakedistrict), but it is the most practical base for getting out on the water, and that is really the point of being here.

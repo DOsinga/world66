@@ -17,8 +17,13 @@ from .models import (
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
+def about(request):
+    return render(request, "guide/about.html")
+
+
 def home(request):
-    from .models import load_continents
+    import random
+    from .models import load_continents, load_story_pois, load_featured_cities
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -41,7 +46,27 @@ def home(request):
             'total': len(countries),
             'image_url': image_url,
         })
-    return render(request, "guide/home.html", {'continents': continents})
+    import json
+    all_story_pois = load_story_pois()
+    story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
+    all_cities = load_featured_cities()
+    cities_json = json.dumps([
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+            'score': c['score'],
+        }
+        for c in all_cities if c['lat'] and c['lng']
+    ])
+    return render(request, "guide/home.html", {
+        'continents': continents,
+        'story_pois': story_pois,
+        'cities_json': cities_json,
+    })
 
 
 def location_or_section(request, path):
@@ -99,7 +124,7 @@ def location_or_section(request, path):
 
     # Separate neighbourhood pages from nav pages so they render inline under
     # the article body rather than in the sidebar sections list.
-    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood"]
+    neighbourhoods = [p for p in nav_pages if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")]
     nav_pages = [p for p in nav_pages if p.page_type != "neighbourhood"]
 
     # Build the city tag index once so all tagged_pois() calls reuse it.
@@ -117,6 +142,9 @@ def location_or_section(request, path):
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
+        # Highest-scored POIs first, so the numbered list reads as a ranking
+        # (mirrors the score sort already applied to locations below).
+        pois = sorted(pois, key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
@@ -143,6 +171,10 @@ def location_or_section(request, path):
     for nb in neighbourhoods:
         nb_img = _image_path(nb, branch)
         nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+
+    # Don't show the neighbourhood strip unless at least 3 have images
+    if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
+        neighbourhoods = []
 
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
@@ -190,6 +222,28 @@ def location_or_section(request, path):
             if len(poi_images) >= 12:
                 break
 
+    # For small city pages (< 8 POIs total): inline sections directly instead of section cards
+    inline_sections = None
+    if page.page_type == "location" and nav_pages and not locations and city_tag_index is not None:
+        total_pois = 0
+        candidate_sections = []
+        seen_paths = set()
+        for section in nav_pages:
+            if section.page_type in ("neighbourhood", "section_group"):
+                continue
+            section_pois = []
+            for poi in section.tagged_pois(_city_tag_index=city_tag_index):
+                if poi.path not in seen_paths:
+                    seen_paths.add(poi.path)
+                    section_pois.append(poi)
+                    total_pois += 1
+            candidate_sections.append((section, section_pois))
+        if total_pois < 8:
+            inline_sections = [
+                {'section': s, 'body_html': md.markdown(s.body) if s.body else '', 'pois': sp}
+                for s, sp in candidate_sections
+            ]
+
     # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
     markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
@@ -229,22 +283,13 @@ def location_or_section(request, path):
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
+        "inline_sections": inline_sections,
     })
 
 
-def search(request):
-    query = request.GET.get("q", "").strip()
-    has_db = SEARCH_DB.is_file()
-    return render(request, "guide/search.html", {
-        "query": query,
-        "has_db": has_db,
-    })
-
-
-def search_api(request):
-    query = request.GET.get("q", "").strip()
+def _search_results(query):
     if not query or not SEARCH_DB.is_file():
-        return JsonResponse({"results": []})
+        return []
 
     conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -276,6 +321,24 @@ def search_api(request):
     finally:
         conn.close()
 
+    return results
+
+
+def search(request):
+    query = request.GET.get("q", "").strip()
+    if request.GET.get("format", "").lower() == "json":
+        return JsonResponse({"results": _search_results(query)})
+
+    has_db = SEARCH_DB.is_file()
+    return render(request, "guide/search.html", {
+        "query": query,
+        "has_db": has_db,
+    })
+
+
+def search_api(request):
+    query = request.GET.get("q", "").strip()
+    results = _search_results(query)
     return JsonResponse({"results": results})
 
 
@@ -296,7 +359,8 @@ def _marker_from_page(page, highlight=False):
     if lat is not None and lng is not None:
         return {"lat": lat, "lng": lng, "name": page.title,
                 "url": page.get_absolute_url(), "highlight": highlight,
-                "score": float(page.meta.get("score", 0) or 0)}
+                "score": float(page.meta.get("score", 0) or 0),
+                "snippet": page.meta.get("snippet", "")}
     return None
 
 

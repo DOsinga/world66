@@ -6,8 +6,11 @@ tags:
 - things_to_do
 - landmark
 - story
+- sight
+- old_city
 title: Western Wall
 type: poi
+score: 9.8
 ---
 
 The Western Wall is the last remaining retaining wall of the Second Temple platform, rebuilt by Herod the Great around 19 BCE and destroyed by Rome in 70 CE. For nearly two thousand years it has been the holiest place in Judaism where public prayer is permitted, and it draws visitors of every faith.

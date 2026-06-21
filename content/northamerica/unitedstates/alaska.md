@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: alaska.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Parque_estatal_Chugach,_Alaska,_Estados_Unidos,_2017-08-22,_DD_94.jpg
 latitude: 64.445961
+loc_type: region
 longitude: -149.680909
 score: 0.7
 title: Alaska

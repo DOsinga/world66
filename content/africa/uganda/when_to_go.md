@@ -9,7 +9,7 @@ The country has two dry seasons and two wet seasons. The main dry season runs fr
 
 **For gorilla trekking** in Bwindi, the dry seasons (December-February, June-August) are best. The forest trails are muddy year-round, but they become genuinely treacherous in the wet season. Permits are available all year and the gorillas do not migrate, so wet-season tracking is perfectly possible -- just harder on the legs.
 
-**For wildlife and savannah parks** like [Murchison Falls](/africa/uganda/murchison_falls_na) and Queen Elizabeth, the dry seasons are better. Animals concentrate around water sources and the grass is shorter, making them easier to spot. January and February are peak months.
+**For wildlife and savannah parks** like [Murchison Falls](/africa/uganda/murchison_falls_national_park) and Queen Elizabeth, the dry seasons are better. Animals concentrate around water sources and the grass is shorter, making them easier to spot. January and February are peak months.
 
 **For white-water rafting** at [Jinja](/africa/uganda/jinja), the wet season actually offers bigger rapids and more exciting runs. The Nile is raftable year-round.
 

@@ -2,11 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-02'
+  poi_cleanup: '2026-04-21'
 latitude: 3.4516
 longitude: -76.532
 score: 0.48
 title: Cali
 type: location
+loc_type: city
 ---
 
 Santiago de Cali is Colombia's third city and the undisputed salsa capital of the world. Two and a quarter million people live in this hot, sticky valley between the Andes and the Pacific, and on Friday and Saturday nights it sounds as if every one of them is dancing. Cali doesn't have the colonial good looks of Cartagena or the cool weather of Bogotá. What it has is rhythm, an outdoor life lived under flowering trees, and a sense — still — that it is a city most foreigners haven't quite figured out yet.

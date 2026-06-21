@@ -1,35 +1,8 @@
 ---
-title: "Getting Around in Salalah"
+title: "Getting Around"
 type: section
 ---
 
-Salalah doesn’t have an extensive city transport profile, since most
-distances within the town are relatively short and can easily be covered on
-foot. However, there are a few other modes of transport that visitors should
-know about. Here is a guide to moving around in Salalah.
+Salalah is a spread-out city with no useful public transport. A rental car is strongly recommended — not just for getting around the city but for reaching the surrounding sites, which are anywhere from 20 to 75 km away and not accessible by taxi at reasonable cost. Car rental agencies operate from the airport and in town; rates run around 12–18 OMR per day for a standard car.
 
-**Local Taxis**
-
-Local taxis usually run without a meter and it is best to fix a price
-beforehand than have a confrontation with the drivers, who almost always quote a
-preposterous rate for tourists. Considering the fact that distances between most
-significant tourist points are relatively short, the average taxi fare should
-round up to 500 Baiza. On hot summer afternoons, it is best not to walk and better to
-hail a cab. Visitors can also have their hotels organize for a local taxi and
-consult the staff for a fair price. The taxis however have a fixed 3 OMR charge
-for tourists from the airport to any place in Salalah. From the city center to
-Crowne Plaza Resort or Hilton Salalah, the fare is about OMR 3 to 3.5.
-
-**Car Hire**
-
-Since Salalah has virtually no public transport options, private car hires
-are very popular, especially with western tourists. Car rental agencies
-generally charge OMR 12 to 15 per day including insurance, where the first few
-kilometers per day are free and subsequent kilometers are charged at around 500
-Baiza per kilometer. Rental cars can be obtained at the airport or in town.
-
-Salalah has limited transport options to move around the city and the only
-ways to cover distances here are-on foot, by private local taxis and car
-rentals.
-
-** **
+Taxis are available but negotiate the fare before getting in — rates for tourists are typically inflated. The airport-to-city fare is a fixed 3 OMR. For journeys to remote sites like Wadi Darbat or Mughsail, hiring a driver for the day (negotiate directly with hotel taxis or through accommodation) is more economical than individual trip fares.

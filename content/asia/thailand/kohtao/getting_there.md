@@ -1,17 +1,8 @@
 ---
-title: "Getting There in Koh Tao"
+title: Getting There
 type: section
 ---
 
-Travel from Bangkok to Koh Tao options:
+Koh Tao is reached by ferry or speedboat from Koh Samui, Koh Phangan, and the mainland port of Chumphon. From Bangkok, the most common approach is the train or bus to Chumphon followed by the overnight ferry — the night boat departs Chumphon around midnight and arrives at Koh Tao around 6am. Lomprayah and Seatran are the main speedboat operators and run daytime services from both Chumphon and the Samui/Phangan cluster.
 
-From Bangkok express bus to Chumphon and then ferry to Koh Tao.
-Train from Bangkok to Chumphon and then ferry to Koh Tao.
-
-Updated 10th February 2011:
-
-Direct flights from Bangkok to Chumphon Daily except Sunday operated
-by Solar Air Thailand http://www.solarair.co.th , flight from Bangkok to
-Chumphon is 1hr 15 mins and current air fare is B 2,750 each way. There is a flight + ferry combined service operated by Solar Air and Lomprayah proving through ticketing / booking from Bangkok to Koh Tao http://www.lomprayah.com/E/route_solar.htm
-
-Ferry services operated from Koh Tao to Koh Phangan and Koh Samui
+From Chumphon, the journey takes about 2 hours by high-speed catamaran or 6 hours by slow overnight ferry. From Koh Phangan, it is about 1.5 hours. Ferries dock at Mae Haad pier on the west coast.

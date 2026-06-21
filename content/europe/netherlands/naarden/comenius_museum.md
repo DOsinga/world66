@@ -1,5 +1,4 @@
 ---
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 52.2951
@@ -11,8 +10,12 @@ story: 'Jan Amos Comenius, the 17th-century Czech philosopher and educator, spen
   an unlikely pilgrimage site for educators from across the world.
 
   '
+tags:
+  - things_to_do
+  - museum
 title: Comenius Museum
 type: poi
+score: 6.8
 ---
 
 Dedicated to Jan Amos Comenius, the Moravian bishop and philosopher who is sometimes called the father of modern education. His ideas — that education should be universal, systematic, and adapted to the child's natural development — were radical in the 1650s and sound remarkably contemporary now. The museum covers his life, his major works including the *Orbis Sensualium Pictus* (one of the first illustrated children's textbooks), and his influence on European thought. Small but well put together.

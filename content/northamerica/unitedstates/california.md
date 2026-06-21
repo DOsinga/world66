@@ -1,7 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  poi_cleanup: '2026-04-20'
+image: california.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:GoldenGateBridge_BakerBeach_MC.jpg
 latitude: 36.701463
+loc_type: region
 longitude: -118.755997
 score: 0.55
 title: California

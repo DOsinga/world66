@@ -2,10 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-19'
 latitude: 36.0835
+loc_type: city
 longitude: 140.0777
 score: 0.43
+sources:
+- https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki
 title: Tsukuba
 type: location
 ---

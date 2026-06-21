@@ -2,7 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-11'
+image: sorell.jpg
+image_attribution: Frances76
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:SorellCauseway.JPG
 latitude: -42.7886
+loc_type: city
 longitude: 147.6671
 score: 0.38
 title: Sorell

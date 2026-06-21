@@ -8,9 +8,10 @@ quick_facts:
   Alcohol: "Banned (Islamic republic)"
   UNESCO World Heritage Sites: "27 — 3rd most in Asia"
   Oil Reserves: "~10% of world"
-score: 0.33
+score: 0.80
 title: Iran
 type: location
+loc_type: country
 ---
 
 Known as **Persia** until 1935, **Iran** became an Islamic republic in 1979. This country has nearly 10% of the world's known oil and the second biggest gas reserves.
@@ -50,4 +51,4 @@ However, before getting ready to the travel you should know some specific requir
  
  
  [Tehran](/asia/iran/tehran)
- [Qum](/asia/iran/qum)
+ [Qom](/asia/iran/qom)

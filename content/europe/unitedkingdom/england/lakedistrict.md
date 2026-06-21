@@ -1,8 +1,12 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
+  poi_cleanup: '2026-04-20'
+image: lakedistrict.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Derwent_Water,_Lake_District,_Cumbria_-_June_2009.jpg
 latitude: 54.4609
+loc_type: region
 longitude: -3.0886
 score: 0.68
 title: Lake District

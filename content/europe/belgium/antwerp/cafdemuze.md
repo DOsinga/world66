@@ -8,7 +8,8 @@ tags:
 - cafe
 - club
 title: Café de Muze
-type: Clubs
+type: poi
+score: 6.3
 ---
 
 Music bar with performances of local bands.

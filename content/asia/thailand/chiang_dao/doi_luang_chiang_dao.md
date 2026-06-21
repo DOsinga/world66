@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Doi Luang Chiang Dao
 type: poi
+score: 9.2
 ---
 
 At 2,175 metres, this is Thailand's third-highest peak and the dominant feature of the whole valley. The summit trek is 7.5 kilometres each way with 1,100 metres of elevation gain — a serious day out. A guide is required (around 1,000–1,500 THB) and the park charges 200 THB entry for foreigners. Many people do it as an overnight trip, camping near the summit to catch the sunrise.

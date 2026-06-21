@@ -2,7 +2,9 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-16'
 latitude: 10.3157
+loc_type: city
 longitude: 123.8854
 score: 0.63
 title: Cebu City

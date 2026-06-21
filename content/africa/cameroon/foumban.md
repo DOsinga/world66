@@ -10,6 +10,8 @@ latitude: 5.7269
 loc_type: city
 longitude: 10.905
 score: 0.38
+snippet: Bamoun cultural capital in western Cameroon, centred on the royal palace
+  and centuries of sultanate history.
 title: Foumban
 type: location
 ---

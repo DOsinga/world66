@@ -9,6 +9,8 @@ latitude: 39.705867
 loc_type: city
 longitude: 8.990894
 score: 0.51
+snippet: Bronze Age Nuragic site in Sardinia, centred on the fortress-like Su Nuraxi
+  complex at Barumini.
 title: Su Nuraxi di Barumini
 type: location
 ---

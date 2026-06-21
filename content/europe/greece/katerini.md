@@ -11,6 +11,8 @@ latitude: 40.271362
 loc_type: city
 longitude: 22.508762
 score: 0.4
+snippet: Northern Greek city where Mount Olympus rises above the beaches of the Olympian
+  Riviera.
 title: Katerini
 type: location
 ---

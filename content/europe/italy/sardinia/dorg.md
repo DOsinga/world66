@@ -10,6 +10,8 @@ latitude: 40.290551
 loc_type: city
 longitude: 9.585857
 score: 0.52
+snippet: Barbagia craft town and Gulf of Orosei gateway, near Tiscali, Gorropu, and
+  limestone caves.
 title: Dorgali
 type: location
 ---

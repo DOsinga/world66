@@ -10,6 +10,8 @@ latitude: 38.670828
 loc_type: city
 longitude: 34.839455
 score: 0.59
+snippet: Cappadocian cave village built around a cliff face of abandoned dwellings
+  and early frescoed churches.
 title: Çavuşin
 type: location
 ---

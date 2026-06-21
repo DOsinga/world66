@@ -9,6 +9,8 @@ latitude: 27.329
 loc_type: city
 longitude: 88.6123
 score: 0.55
+snippet: Sikkimese hill capital where monasteries, prayer flags, and Kangchenjunga
+  views rise above MG Road.
 title: Gangtok
 type: location
 ---

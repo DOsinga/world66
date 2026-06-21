@@ -10,6 +10,8 @@ latitude: 43.52138
 loc_type: city
 longitude: -88.227864
 score: 0.24
+snippet: Wisconsin village on Kettle Moraine's glacial hills, near Ice Age Trail forests
+  and kettle lakes.
 title: Kewaskum
 type: location
 ---

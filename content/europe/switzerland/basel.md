@@ -11,6 +11,8 @@ latitude: 47.558108
 loc_type: city
 longitude: 7.587826
 score: 0.59
+snippet: Rhine city at Switzerland's three-country corner, known for dense museums
+  and red-sandstone old town landmarks.
 title: Basel
 type: location
 ---

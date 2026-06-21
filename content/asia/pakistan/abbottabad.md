@@ -10,6 +10,8 @@ latitude: 34.143614
 loc_type: city
 longitude: 73.213275
 score: 0.28
+snippet: Himalayan foothill city and former British hill station, gateway to the Karakoram
+  road north.
 title: Abbottabad
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -22.388
 loc_type: city
 longitude: -43.175259
 score: 0.48
+snippet: Mountain city above Rio de Janeiro, shaped by Brazil's imperial summer court
+  and palace-lined avenues.
 title: Petrópolis
 type: location
 ---

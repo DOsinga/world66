@@ -9,6 +9,8 @@ latitude: 12.054617
 loc_type: region
 longitude: 102.337343
 score: 0.66
+snippet: Rugged Thai island of jungled mountains, west-coast beaches, and quieter
+  fishing villages near Cambodia.
 title: Koh Chang
 type: location
 ---

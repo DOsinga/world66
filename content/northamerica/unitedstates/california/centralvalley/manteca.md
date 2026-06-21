@@ -12,6 +12,8 @@ latitude: 37.7988
 loc_type: city
 longitude: -121.2116
 score: 0.21
+snippet: Central Valley crossroads between Yosemite, the Delta, and almond-and-pumpkin
+  farmland around the Stanislaus River.
 title: Manteca
 type: location
 ---

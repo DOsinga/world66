@@ -6,11 +6,13 @@ latitude: 45.514649
 loc_type: city
 longitude: 13.591011
 score: 0.48
-title: Portorož
-type: location
+snippet: Slovenian Adriatic resort town of spa hotels, sandy beach, salt-pans, and
+  easy access to Piran.
 sources:
 - https://en.wikipedia.org/wiki/Portoro%C5%BE
 - https://en.wikipedia.org/wiki/Se%C4%8Dovlje_Saltpans_Natural_Park
+title: Portorož
+type: location
 ---
 
 Portoroz is Slovenia's main seaside resort, tucked into a sheltered bay on the country's short strip of Adriatic coastline in the Istrian peninsula. The name means "port of roses" in Slovenian — a fitting image for a town that trades on mild Mediterranean air, spa hotels, and a long sandy beach that draws visitors from across Central Europe every summer.

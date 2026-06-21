@@ -10,6 +10,8 @@ latitude: 32.700502
 loc_type: city
 longitude: 34.982596
 score: 0.42
+snippet: Carmel artists' village founded by Marcel Janco, with open studios, hillside
+  stone lanes, and a Dada museum.
 title: Ein Hod
 type: location
 ---

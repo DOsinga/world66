@@ -9,6 +9,8 @@ latitude: 41.87576
 loc_type: city
 longitude: -8.838838
 score: 0.45
+snippet: Portuguese border town where the Minho meets the Atlantic, centred on a granite
+  square and fortified clock tower.
 title: Caminha
 type: location
 ---

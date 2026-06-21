@@ -6,6 +6,8 @@ latitude: 47.6779
 loc_type: city
 longitude: 11.2012
 score: 0.45
+snippet: Bavarian art town between Staffelsee and Murnauer Moos, shaped by Alps views
+  and the Blaue Reiter painters.
 title: Murnau am Staffelsee
 type: location
 ---

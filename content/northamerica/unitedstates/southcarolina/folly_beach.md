@@ -10,6 +10,8 @@ latitude: 32.655485
 loc_type: city
 longitude: -79.94078
 score: 0.41
+snippet: Charleston barrier-island beach town with surf, fishing, Center Street bars,
+  and views toward Morris Island Lighthouse.
 title: Folly Beach
 type: location
 ---

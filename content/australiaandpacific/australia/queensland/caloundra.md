@@ -9,6 +9,8 @@ latitude: -26.798163
 loc_type: city
 longitude: 153.135443
 score: 0.43
+snippet: Sunshine Coast seaside town of family beaches, Pumicestone Passage views,
+  surf breaks, and historic headland lighthouses.
 sources:
 - https://en.wikipedia.org/wiki/Caloundra
 title: Caloundra

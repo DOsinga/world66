@@ -5,6 +5,8 @@ latitude: 42.4
 loc_type: region
 longitude: -7.65
 score: 0.58
+snippet: Galician river-canyon wine region where Sil and Miño gorges hold terraced
+  vineyards and medieval monasteries.
 title: Ribeira Sacra
 type: location
 ---

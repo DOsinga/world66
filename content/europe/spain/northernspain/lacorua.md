@@ -9,6 +9,8 @@ latitude: 43.37097
 loc_type: city
 longitude: -8.395943
 score: 0.48
+snippet: Galician Atlantic port on a sea-facing peninsula, wrapped by a long promenade
+  and the Roman Torre de Hércules.
 title: La Coruña
 type: location
 ---

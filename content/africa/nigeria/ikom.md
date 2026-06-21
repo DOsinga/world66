@@ -7,6 +7,8 @@ latitude: 5.962765
 loc_type: city
 longitude: 8.723969
 score: 0.22
+snippet: Cross River town near rainforest national park, drill monkeys, gorillas,
+  and ancient Akwanshi basalt monoliths.
 title: Ikom
 type: location
 ---

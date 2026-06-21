@@ -10,6 +10,8 @@ latitude: 40.5499
 loc_type: city
 longitude: 34.9537
 score: 0.32
+snippet: North-central Turkish city known for roasted chickpeas and access to Hattusa,
+  Yazılıkaya, and Alacahöyük.
 title: Corum
 type: location
 ---

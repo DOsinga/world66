@@ -10,6 +10,8 @@ latitude: -0.6839
 loc_type: city
 longitude: 34.766
 score: 0.26
+snippet: Gusii Highlands market town in cool tea-and-coffee country, known for nearby
+  Tabaka soapstone carving.
 title: Kisii
 type: location
 ---

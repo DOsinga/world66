@@ -10,6 +10,8 @@ latitude: 23.170152
 loc_type: city
 longitude: 79.932451
 score: 0.34
+snippet: Central Indian city on the Narmada, used for Marble Rocks, Dhuandhar Falls,
+  and unusual tantric temples.
 title: Jabalpur
 type: location
 ---

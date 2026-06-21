@@ -1,18 +1,20 @@
 ---
-title: Kratie
-type: location
-latitude: 12.678302
-longitude: 106.058173
 done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-06-02'
 image: kratie_sunset.jpg
-image_source: https://commons.wikimedia.org/wiki/File:20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg
 image_license: CC BY-SA 4.0
-score: 0.41
+image_source: https://commons.wikimedia.org/wiki/File:20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg
+latitude: 12.678302
 loc_type: city
+longitude: 106.058173
+score: 0.41
+snippet: Upper Mekong town known for Irrawaddy dolphins, French shophouses, riverside
+  markets, and Koh Trong island.
 sources:
 - https://en.wikipedia.org/wiki/Kratie
+title: Kratie
+type: location
 ---
 
 Kratie is a quiet provincial town on the upper Mekong, roughly halfway between Phnom Penh and the Laos border. Most travellers stop here for one reason: the [Irrawaddy dolphins](/asia/cambodia/kratie/irrawaddy_dolphins). A small, critically endangered freshwater population survives in the deep pools at Kampi, about 15km north, and watching them surface in the brown river light is genuinely memorable.

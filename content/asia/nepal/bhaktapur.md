@@ -11,6 +11,8 @@ latitude: 27.671113
 loc_type: city
 longitude: 85.426168
 score: 0.59
+snippet: Kathmandu Valley royal city of Newari temples, car-free squares, and working
+  pottery courtyards.
 title: Bhaktapur
 type: location
 ---

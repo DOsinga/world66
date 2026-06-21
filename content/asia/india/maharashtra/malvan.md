@@ -12,6 +12,8 @@ latitude: 16.0606
 loc_type: city
 longitude: 73.467
 score: 0.38
+snippet: Konkan fishing port known for Sindhudurg Fort, quiet beaches, and west-coast
+  diving.
 title: Malvan
 type: location
 ---

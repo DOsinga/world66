@@ -4,11 +4,13 @@ done:
 latitude: 34.82
 loc_type: city
 longitude: 117.33
+score: 0.27
+snippet: Southern Shandong coal city turning toward canal heritage, wetlands, and
+  Taierzhuang battle memory.
 sources:
 - https://en.wikivoyage.org/wiki/Zaozhuang
 title: Zaozhuang
 type: location
-score: 0.27
 ---
 
 Zaozhuang spent most of the 20th century as a coal city — one of the major mining centers of southern Shandong — and it carries that industrial history visibly. The mines have largely been exhausted or closed, and the city is in the middle of the transition that post-coal Chinese cities have been navigating for two decades: tourism, heritage, wetlands. It has made more progress than most, largely because it holds two genuinely distinctive attractions within its administrative boundaries.

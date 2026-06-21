@@ -10,6 +10,7 @@ latitude: 62.568169
 loc_type: city
 longitude: 7.686762
 score: 0.57
+snippet: Romsdal fjord town ringed by peaks, Trollveggen, and the hairpins of Trollstigen.
 title: Åndalsnes
 type: location
 ---

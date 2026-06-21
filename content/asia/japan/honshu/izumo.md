@@ -2,17 +2,19 @@
 done:
   location_cleanup: '2026-04-09'
 image: izumo_taisha.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Izumo-taisha_Honden_wider_angle.jpg
 image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Izumo-taisha_Honden_wider_angle.jpg
 latitude: 35.366889
-longitude: 132.754883
-title: Izumo
-type: location
-score: 0.51
 loc_type: city
+longitude: 132.754883
+score: 0.51
+snippet: Shimane coast city centred on Izumo Taisha, where Japan's gods are said to
+  gather.
 sources:
 - https://en.wikipedia.org/wiki/Izumo,_Shimane
 - https://en.wikipedia.org/wiki/Izumo-taisha
+title: Izumo
+type: location
 ---
 
 Izumo is a small city in Shimane prefecture, on the Sea of Japan coast of western Honshu. It is best known for [Izumo Taisha](/asia/japan/honshu/izumo/izumo_taisha), one of the oldest and most important Shinto shrines in Japan — according to tradition, the gods of all Japan gather here each October, turning Izumo into the only place in the country where the gods are present while everywhere else they are absent. The shrine's massive shimenawa (sacred rope) and the grand hall are impressive even for casual visitors, and the whole complex has a gravity that distinguishes it from the more decorative shrine circuits of Kyoto or Nara.

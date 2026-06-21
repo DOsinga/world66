@@ -6,6 +6,8 @@ latitude: 20.8306
 loc_type: city
 longitude: -156.9029
 score: 0.57
+snippet: Quiet Hawaiian island shaped by pineapple plantations, one small town, and
+  secluded beaches.
 sources:
 - https://en.wikipedia.org/wiki/L%C4%81na%27i
 title: Lanai

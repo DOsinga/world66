@@ -10,6 +10,8 @@ latitude: 57.678811
 loc_type: city
 longitude: -2.260532
 score: 0.41
+snippet: Aberdeenshire fishing village wedged below cliffs, known for its Local Hero
+  phone box pilgrimage.
 title: Pennan
 type: location
 ---

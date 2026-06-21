@@ -10,6 +10,8 @@ latitude: 41.094419
 loc_type: city
 longitude: 44.711056
 score: 0.48
+snippet: Armenian monastery village above Debed Canyon, centred on Haghpat's 10th-century
+  UNESCO complex.
 title: Haghpat
 type: location
 ---

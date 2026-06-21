@@ -10,6 +10,8 @@ latitude: 44.9522
 loc_type: city
 longitude: 34.1024
 score: 0.33
+snippet: Crimean transport hub with Tatar quarter remnants, Scythian ruins, and routes
+  to the southern coast.
 title: Simferopol
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 35.224531
 loc_type: region
 longitude: 33.625238
 score: 0.56
+snippet: Northern Cypriot region of Kyrenia harbours, Famagusta churches, Bellapais
+  Abbey, and divided-island history.
 title: Northern Cyprus
 type: location
 ---

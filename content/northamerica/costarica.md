@@ -7,16 +7,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg
 latitude: 9.7489
+loc_type: country
 longitude: -83.7534
 quick_facts:
-  Population: "5.2 million"
-  USD Accepted: "Widely accepted alongside local colón"
+  Biodiversity: ~5% of world's species on 0.03% of its land
   No Army: Abolished in 1948
-  Biodiversity: "~5% of world's species on 0.03% of its land"
+  Population: 5.2 million
+  USD Accepted: Widely accepted alongside local colón
 score: 0.78
+snippet: Biodiverse Central American country with two coasts, volcanic mountains,
+  cloud forests, and no army.
 title: Costa Rica
 type: location
-loc_type: country
 ---
 
 Costa Rica punches well above its weight. This small Central American country — roughly the size of West Virginia — holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money into education and healthcare instead. That unusual history has shaped a confident, stable society that welcomes visitors without much fuss.

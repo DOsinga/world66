@@ -8,16 +8,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg
 latitude: 61.152939
+loc_type: country
 longitude: 8.787665
 quick_facts:
-  Population: "5.5 million"
-  Cost Level: "A beer costs ~$12"
-  Coastline: "25,000 km including fjords"
+  Coastline: 25,000 km including fjords
+  Cost Level: A beer costs ~$12
   Midnight Sun: Up to 76 days in the north
+  Population: 5.5 million
 score: 0.86
+snippet: Nordic country of fjords, mountains, historic ports, and Arctic edges reaching
+  toward Spitsbergen.
 title: Norway
 type: location
-loc_type: country
 ---
 
 One look at the map of Norway and you know immediately what the biggest attraction of the country is. The wierdly shaped coast line, with its mainy deep fjords. At that Norway has stunning mountains, and many historic towns dating , [Bergen](/europe/norway/bergen) and [Trondheim](/europe/norway/trondheim) date back 1000 years and have many monuments to prove it. [Tromso](/europe/norway/tromso) the northernmost city of the country is pretty as well and an ideal base for exploring the Arctic region.

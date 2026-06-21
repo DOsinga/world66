@@ -12,6 +12,8 @@ latitude: 50.447973
 loc_type: city
 longitude: -104.615876
 score: 0.33
+snippet: Saskatchewan prairie capital built around Wascana Centre, with the RCMP training
+  depot on its edge.
 title: Regina
 type: location
 ---

@@ -9,7 +9,7 @@ snippet: Four rococo palaces arranged around an octagonal courtyard, the Danish 
 tags:
 - things_to_do
 - landmark
-- osterbro
+- indre_by
 title: Amalienborg
 type: poi
 ---

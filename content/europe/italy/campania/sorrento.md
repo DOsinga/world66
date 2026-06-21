@@ -14,6 +14,8 @@ longitude: 14.374836
 score: 0.67
 title: Sorrento
 type: location
+snippet: Clifftop town on the Sorrentine Peninsula, overlooking the Bay of Naples
+  and Gulf of Salerno.
 ---
 
 *Europe > Italy > Campania > Sorrento*

@@ -11,6 +11,8 @@ sources:
 - https://en.wikipedia.org/wiki/Benalm%C3%A1dena
 - https://en.wikipedia.org/wiki/Benalm%C3%A1dena_Stupa
 - https://en.wikipedia.org/wiki/Castillo_de_Colomares
+snippet: Working Benalmádena town below the Sierra de Mijas, named for its old Honey
+  Stream.
 ---
 
 Arroyo de la Miel is the working heart of Benalmádena municipality — a real Spanish town sitting at the foot of the Sierra de Mijas, just inland from the holiday apartments and beach bars of the coast. Locals outnumber tourists, the tapas bars fill up after nine in the evening, and the Friday market on Avenida de la Constitución draws people from across the surrounding area.

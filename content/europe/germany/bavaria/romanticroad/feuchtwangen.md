@@ -12,6 +12,8 @@ longitude: 10.331327
 score: 0.44
 title: Feuchtwangen
 type: location
+snippet: Former Franconian imperial city on the Romantic Road, centred on a half-timbered
+  market square.
 ---
 
 Feuchtwangen is a former free imperial city in the Wörnitz valley with a picturesque [market square](/europe/germany/bavaria/romanticroad/feuchtwangen/marketplace) surrounded by half-timbered houses. The [Stiftskirche](/europe/germany/bavaria/romanticroad/feuchtwangen/stiftskirche) contains a notable altarpiece by Michael Wolgemut, Albrecht Dürer's teacher, and next door the [Romanesque cloister](/europe/germany/bavaria/romanticroad/feuchtwangen/kreuzgang) hosts open-air theatre and concerts in summer — the Kreuzgangspiele have been running since 1949.

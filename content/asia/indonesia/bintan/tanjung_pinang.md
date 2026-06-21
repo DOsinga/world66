@@ -12,6 +12,8 @@ longitude: 104.4461
 score: 0.37
 title: Tanjung Pinang
 type: location
+snippet: Working Riau Islands port on Bintan, with stilted waterfront lanes and ferry
+  traffic.
 ---
 
 Tanjung Pinang is the capital of the Riau Islands province and the main town on Bintan's southern coast. It is a working port, not a resort -- traders from Jakarta, Medan, and Palembang pass through constantly, and the waterfront hums with fishing boats, ferries, and cargo vessels.

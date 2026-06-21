@@ -13,11 +13,13 @@ score: 0.85
 title: Chile
 type: location
 quick_facts:
-  Population: "19.5 million"
-  Climate Span: "Atacama desert to Patagonian glaciers"
-  Length North to South: "4,300 km — but only 175 km wide on average"
+  Population: 19.5 million
+  Climate Span: Atacama desert to Patagonian glaciers
+  Length North to South: 4,300 km — but only 175 km wide on average
   Atacama Desert: Driest place on Earth — some spots with no recorded rain
 loc_type: country
+snippet: Long, narrow South American country spanning Atacama desert, Pacific coast,
+  wine valleys, and Patagonian ice.
 ---
 
 Chile has the honour of being the thinnest country in the world if you compare its length with its width. The country is so long that in the north you will find the dryest of deserts and in the south you are on the closest point to the South Pole.

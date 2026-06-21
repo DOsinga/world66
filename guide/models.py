@@ -18,13 +18,14 @@ and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears unde
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
-import subprocess
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
 
 import frontmatter
 from django.conf import settings
+
+from . import github
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
@@ -191,7 +192,7 @@ class Page:
         return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
     def children_from_revision(self):
-        """Sub-pages in this page's git-tree directory, grouped by type."""
+        """Sub-pages in this page's GitHub revision directory, grouped by type."""
         names = _revision_dir_names(self.source_ref, self.path)
         if not names:
             return [], [], []
@@ -228,29 +229,20 @@ class Page:
         return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
     def children_from_branch(self, branch: str):
-        """Branch-aware version of children(): reads from git instead of the filesystem."""
-        result = subprocess.run(
-            ['git', 'ls-tree', '--name-only', branch, f'content/{self.path}/'],
-            capture_output=True, text=True, check=False,
-            cwd=str(settings.BASE_DIR),
-        )
-        if result.returncode != 0:
-            return [], [], []
-
-        # git ls-tree returns full paths; extract just the basename
-        names = [e.rsplit('/', 1)[-1] for e in result.stdout.splitlines() if e]
-        dir_names = {n for n in names if not n.endswith('.md')}
+        """Compatibility wrapper for callers that still pass a branch name."""
+        names = _revision_dir_names(branch, self.path)
+        dir_names = {n for n in names if not n.endswith(".md")}
 
         nav_pages, locations, pois = [], [], []
 
         for name in sorted(names):
-            if name.endswith('.md'):
+            if name.endswith(".md"):
                 stem = name[:-3]
                 if stem == self.slug or stem in dir_names:
                     continue
-                page = load_page_from_branch(f'{self.path}/{stem}', branch)
-            elif '.' not in name:
-                page = load_page_from_branch(f'{self.path}/{name}', branch)
+                page = load_page_from_branch(f"{self.path}/{stem}", branch)
+            elif "." not in name:
+                page = load_page_from_branch(f"{self.path}/{name}", branch)
             else:
                 continue
 
@@ -258,7 +250,7 @@ class Page:
                 continue
             if page.page_type in NAV_TYPES:
                 nav_pages.append(page)
-            elif page.page_type == 'poi':
+            elif page.page_type == "poi":
                 pois.append(page)
             else:
                 locations.append(page)
@@ -400,15 +392,11 @@ def _load_page_from_file(file_path, url_path):
 
 
 def _load_page_from_git_path(git_path, url_path, revision, url_revision=None):
-    """Load a Page from a content/*.md path in a git revision."""
-    result = subprocess.run(
-        ["git", "show", f"{revision}:{git_path}"],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode != 0:
+    """Load a Page from a content/*.md path in a GitHub revision."""
+    text = github.get_file_text(revision, git_path)
+    if text is None:
         return None
-    post = frontmatter.loads(result.stdout)
+    post = frontmatter.loads(text)
     slug = Path(git_path).stem
     title = post.metadata.get("title", slug)
     page_type = post.metadata.get("type", "location")
@@ -420,7 +408,7 @@ def _load_page_from_git_path(git_path, url_path, revision, url_revision=None):
 
 
 def load_page_from_revision(path, revision, url_revision=None):
-    """Load a page from a git revision without touching the filesystem."""
+    """Load a page from a GitHub revision without touching the filesystem."""
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
     for git_path in [f"content/{path}/{slug}.md", f"content/{path}.md"]:
         page = _load_page_from_git_path(git_path, path, revision, url_revision)
@@ -435,20 +423,8 @@ def load_page_from_branch(path, branch):
 
 
 def _revision_dir_names(revision, url_path):
-    """Return immediate child names for a content directory at a git revision."""
-    result = subprocess.run(
-        ["git", "ls-tree", "--name-only", revision, f"content/{url_path}/"],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode != 0:
-        return []
-    prefix = f"content/{url_path}/"
-    names = []
-    for line in result.stdout.splitlines():
-        if not line:
-            continue
-        names.append(line.removeprefix(prefix).split("/", 1)[0])
+    """Return immediate child names for a content directory at a GitHub revision."""
+    names = [item["name"] for item in github.list_dir(revision, f"content/{url_path}")]
     return sorted(set(names))
 
 
@@ -469,27 +445,15 @@ def _revision_dir_pois(revision, dir_url_path, page_url_base, url_revision=None)
 
 
 def _build_city_tag_index_from_revision(city_path, revision, url_revision=None):
-    result = subprocess.run(
-        ["git", "ls-tree", "-r", "--name-only", revision, f"content/{city_path}/"],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode != 0:
-        return {}
-
     index = {}
     seen = set()
-    for git_path in sorted(result.stdout.splitlines()):
+    for git_path in sorted(github.iter_files(revision, f"content/{city_path}")):
         if not git_path.endswith(".md"):
             continue
-        result = subprocess.run(
-            ["git", "show", f"{revision}:{git_path}"],
-            capture_output=True, text=True, check=False,
-            cwd=str(settings.BASE_DIR),
-        )
-        if result.returncode != 0:
+        text = github.get_file_text(revision, git_path)
+        if text is None:
             continue
-        post = frontmatter.loads(result.stdout)
+        post = frontmatter.loads(text)
         if post.metadata.get("type") not in ("poi", "neighbourhood", "theme"):
             continue
         raw_tags = post.metadata.get("tags", [])

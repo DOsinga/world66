@@ -10,6 +10,7 @@ from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
+from . import github
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
@@ -24,23 +25,21 @@ INTERNAL_GUIDE_HREF_RE = re.compile(
 
 
 def _resolve_revision_hash(value):
-    """Return the full commit hash for an unambiguous hex revision prefix."""
+    """Return the full GitHub commit hash for an unambiguous hex revision prefix."""
     if not value or not HASH_RE.fullmatch(value):
         return None
-    result = subprocess.run(
-        ["git", "rev-parse", "--verify", "--quiet", f"{value}^{{commit}}"],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode != 0:
-        return None
-    return result.stdout.strip()
+    return github.resolve_commit(value) or None
 
 
 def _resolve_any_revision(value):
     """Return the full commit hash for review input such as HEAD, a branch, or a hash."""
     if not value:
         return None
+    resolved = github.resolve_commit(value)
+    if resolved:
+        return resolved
+
+    # The review page can still inspect local-only branches while editing.
     result = subprocess.run(
         ["git", "rev-parse", "--verify", "--quiet", f"{value}^{{commit}}"],
         capture_output=True, text=True, check=False,
@@ -52,14 +51,7 @@ def _resolve_any_revision(value):
 
 
 def _short_revision(full_hash):
-    result = subprocess.run(
-        ["git", "rev-parse", "--short=10", full_hash],
-        capture_output=True, text=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode == 0:
-        return result.stdout.strip()
-    return full_hash[:10]
+    return github.short_hash(full_hash)
 
 
 def _prefix_internal_links(html, url_prefix):
@@ -487,7 +479,23 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     return markers
 
 
-def _image_path(page, branch=None):
+IMAGE_SUFFIXES = ('.jpg', '.jpeg', '.png', '.webp')
+IMAGE_CONTENT_TYPES = {
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.png': 'image/png',
+    '.webp': 'image/webp',
+}
+
+
+def _safe_content_path(path):
+    candidate = Path(path)
+    if candidate.is_absolute() or ".." in candidate.parts:
+        return None
+    return path.strip("/")
+
+
+def _image_path(page, source_ref=None):
     image = page.meta.get('image', '')
     if not image:
         return None
@@ -495,12 +503,8 @@ def _image_path(page, branch=None):
         f'{page.path}/{image}',
         f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,
     ]:
-        if branch:
-            result = subprocess.run(
-                ['git', 'cat-file', '-e', f'{branch}:content/{candidate}'],
-                capture_output=True, check=False, cwd=str(settings.BASE_DIR),
-            )
-            if result.returncode == 0:
+        if source_ref:
+            if github.file_exists(source_ref, f"content/{candidate}"):
                 return candidate
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
@@ -510,23 +514,23 @@ def _image_path(page, branch=None):
 def content_image(request, path):
     branch = request.GET.get('branch')
     if branch:
+        source_ref = _resolve_any_revision(branch)
+        if not source_ref:
+            raise Http404
+        path = _safe_content_path(path)
+        if not path:
+            raise Http404
         suffix = Path(path).suffix.lower()
-        if suffix not in ('.jpg', '.jpeg', '.png', '.webp'):
+        if suffix not in IMAGE_SUFFIXES:
             raise Http404
-        result = subprocess.run(
-            ['git', 'show', f'{branch}:content/{path}'],
-            capture_output=True, check=False,
-            cwd=str(settings.BASE_DIR),
-        )
-        if result.returncode != 0:
+        data = github.get_file_bytes(source_ref, f"content/{path}")
+        if data is None:
             raise Http404
-        content_types = {'.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp'}
-        from django.http import HttpResponse
-        return HttpResponse(result.stdout, content_type=content_types[suffix])
+        return HttpResponse(data, content_type=IMAGE_CONTENT_TYPES[suffix])
     file_path = (CONTENT_DIR / path).resolve()
     if not file_path.is_relative_to(CONTENT_DIR.resolve()):
         raise Http404
-    if not file_path.is_file() or file_path.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+    if not file_path.is_file() or file_path.suffix.lower() not in IMAGE_SUFFIXES:
         raise Http404
     return FileResponse(open(file_path, 'rb'))
 
@@ -535,18 +539,16 @@ def content_image_at_revision(request, revision, path):
     source_ref = _resolve_revision_hash(revision)
     if not source_ref:
         raise Http404
+    path = _safe_content_path(path)
+    if not path:
+        raise Http404
     suffix = Path(path).suffix.lower()
-    if suffix not in ('.jpg', '.jpeg', '.png', '.webp'):
+    if suffix not in IMAGE_SUFFIXES:
         raise Http404
-    result = subprocess.run(
-        ['git', 'show', f'{source_ref}:content/{path}'],
-        capture_output=True, check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode != 0:
+    data = github.get_file_bytes(source_ref, f"content/{path}")
+    if data is None:
         raise Http404
-    content_types = {'.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp'}
-    return HttpResponse(result.stdout, content_type=content_types[suffix])
+    return HttpResponse(data, content_type=IMAGE_CONTENT_TYPES[suffix])
 
 
 def _safe_float(value):

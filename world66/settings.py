@@ -29,6 +29,9 @@ ALLOWED_HOSTS = ["world66.ai", "www.world66.ai", "staging.world66.ai"] if _PRODU
 
 STAGING_HOSTS = {"staging.world66.ai"}
 STAGING_CONTENT_REF = os.environ.get("WORLD66_STAGING_CONTENT_REF", "main")
+GITHUB_REPO = os.environ.get("GITHUB_REPO", "DOsinga/world66")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
+GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 
 
 # Application definition

@@ -1,8 +1,9 @@
 import re
-import subprocess
 
 from django.conf import settings
 from django.shortcuts import redirect
+
+from guide import github
 
 
 HASH_PREFIX_RE = re.compile(r"^/[0-9a-fA-F]{7,40}(?:/|$)")
@@ -21,42 +22,12 @@ STAGING_SKIP_PREFIXES = (
 
 
 def _resolve_staging_ref():
-    result = subprocess.run(
-        [
-            "git",
-            "rev-parse",
-            "--verify",
-            "--short=10",
-            f"{settings.STAGING_CONTENT_REF}^{{commit}}",
-        ],
-        capture_output=True,
-        text=True,
-        check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if result.returncode == 0:
-        return result.stdout.strip()
-
-    fallback = subprocess.run(
-        [
-            "git",
-            "rev-parse",
-            "--verify",
-            "--short=10",
-            "origin/main^{commit}",
-        ],
-        capture_output=True,
-        text=True,
-        check=False,
-        cwd=str(settings.BASE_DIR),
-    )
-    if fallback.returncode == 0:
-        return fallback.stdout.strip()
-    return ""
+    full_hash = github.resolve_commit(settings.STAGING_CONTENT_REF)
+    return github.short_hash(full_hash) if full_hash else ""
 
 
 class StagingRevisionRedirectMiddleware:
-    """Redirect staging guide pages into the local main revision URL space."""
+    """Redirect staging guide pages into the GitHub main revision URL space."""
 
     def __init__(self, get_response):
         self.get_response = get_response

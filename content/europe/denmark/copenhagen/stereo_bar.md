@@ -1,7 +1,7 @@
 ---
 address: Linnésgade 16A, Copenhagen
-latitude: 55.6835
-longitude: 12.5703
+latitude: 55.6818
+longitude: 12.5847
 score: 6.4
 snippet: Retro cocktail bar with lava lamps, velvet booths, and a Latin jazz soundtrack
 tags:

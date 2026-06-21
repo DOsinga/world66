@@ -1,6 +1,6 @@
 ---
-latitude: 40.7245
-longitude: -73.9999
+latitude: 40.72482
+longitude: -74.002217
 score: 7.0
 snippet: Spanish tapas bar on Spring Street with excellent patatas bravas and a lively
   room

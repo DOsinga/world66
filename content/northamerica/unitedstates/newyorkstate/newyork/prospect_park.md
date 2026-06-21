@@ -1,8 +1,9 @@
 ---
-latitude: 40.6602
-longitude: -73.969
+latitude: 40.661774
+longitude: -73.97109
 score: 8.5
-snippet: 526-acre Olmsted and Vaux park considered by its designers their finest achievement, better than Central Park
+snippet: 526-acre Olmsted and Vaux park considered by its designers their finest achievement,
+  better than Central Park
 tags:
 - things_to_do
 - park

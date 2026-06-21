@@ -1,6 +1,6 @@
 ---
-latitude: 40.7134
-longitude: -73.9609
+latitude: 40.710677
+longitude: -73.965598
 score: 7.5
 snippet: Market-driven American bistro in a converted 1927 Kullman dining car under
   the Williamsburg Bridge

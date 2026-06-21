@@ -1,6 +1,6 @@
 ---
-latitude: 40.717
-longitude: -73.9883
+latitude: 40.717666
+longitude: -73.990467
 score: 6.5
 snippet: Historic Jewish market street still lined with discount fabric and clothing
   shops south of Delancey

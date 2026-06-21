@@ -1,6 +1,6 @@
 ---
-latitude: 40.6993
-longitude: -73.9936
+latitude: 40.699284
+longitude: -73.993089
 score: 7.0
 snippet: 1847 Congregational church where Henry Ward Beecher preached against slavery
   — abolitionist landmark

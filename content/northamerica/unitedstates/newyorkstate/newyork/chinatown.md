@@ -1,6 +1,6 @@
 ---
-latitude: 40.715751
-longitude: -73.997031
+latitude: 40.716491
+longitude: -73.99625
 score: 8.7
 snippet: America's largest Chinatown, packed with great food
 tags:

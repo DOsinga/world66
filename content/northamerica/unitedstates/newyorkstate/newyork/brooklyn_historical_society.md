@@ -1,6 +1,6 @@
 ---
-latitude: 40.6949
-longitude: -73.9928
+latitude: 40.694757
+longitude: -73.99243
 score: 6.5
 snippet: 1881 Queen Anne library building on Pierrepont Street housing Brooklyn history
   collections and exhibitions

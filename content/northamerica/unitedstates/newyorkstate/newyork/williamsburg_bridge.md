@@ -1,6 +1,6 @@
 ---
-latitude: 40.7133
-longitude: -73.9725
+latitude: 40.713519
+longitude: -73.971719
 score: 7.0
 snippet: 1903 steel suspension bridge connecting the Lower East Side to Williamsburg
   — excellent walkable crossing

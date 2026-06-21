@@ -1,6 +1,6 @@
 ---
-latitude: 40.7685
-longitude: -73.9821
+latitude: 40.76897
+longitude: -73.981667
 score: 7.5
 snippet: Casual front room of Jean-Georges at Columbus Circle — excellent value for
   New American cooking

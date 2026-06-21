@@ -2,8 +2,8 @@
 address: Lexington Avenue between East 20th and East 21st Streets
 done:
   poi_cleanup: '2026-04-20'
-latitude: 40.738224
-longitude: -73.987684
+latitude: 40.73795
+longitude: -73.985915
 score: 6.4
 snippet: Manhattan's only private park, ringed by elegant townhouses
 tags:

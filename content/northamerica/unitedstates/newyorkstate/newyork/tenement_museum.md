@@ -1,6 +1,6 @@
 ---
-latitude: 40.7187
-longitude: -73.9891
+latitude: 40.718784
+longitude: -73.990027
 score: 9.0
 snippet: Museum interpreting immigrant life inside actual tenement apartments at 97
   Orchard Street, 1863-1935

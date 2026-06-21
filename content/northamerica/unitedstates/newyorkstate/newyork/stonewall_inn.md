@@ -1,8 +1,9 @@
 ---
-latitude: 40.7334
-longitude: -74.0023
+latitude: 40.733816
+longitude: -74.002161
 score: 8.0
-snippet: Bar where the 1969 riots launched the modern LGBT rights movement, now a national monument
+snippet: Bar where the 1969 riots launched the modern LGBT rights movement, now a
+  national monument
 tags:
 - things_to_do
 - sight

@@ -1,6 +1,6 @@
 ---
-latitude: 40.7033
-longitude: -73.9965
+latitude: 40.703756
+longitude: -73.994822
 score: 8.0
 snippet: Romantic waterfront restaurant under the Brooklyn Bridge with the definitive
   Manhattan skyline view

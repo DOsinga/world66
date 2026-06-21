@@ -1,6 +1,6 @@
 ---
-latitude: 40.7357
-longitude: -74.0063
+latitude: 40.735632
+longitude: -74.006676
 score: 7.5
 snippet: Pioneering British-American gastropub that put the West Village on the food-destination
   map

@@ -1,7 +1,7 @@
 ---
 address: Central Park West at 79th Street
-latitude: 40.7813
-longitude: -73.974
+latitude: 40.781101
+longitude: -73.974236
 score: 9.7
 tags:
 - things_to_do

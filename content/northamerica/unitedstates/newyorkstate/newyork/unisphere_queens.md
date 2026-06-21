@@ -1,8 +1,9 @@
 ---
-latitude: 40.7499
-longitude: -73.8451
+latitude: 40.745987
+longitude: -73.845042
 score: 7.0
-snippet: 140-foot stainless steel globe built for the 1964 World's Fair, the largest Earth model ever built
+snippet: 140-foot stainless steel globe built for the 1964 World's Fair, the largest
+  Earth model ever built
 tags:
 - things_to_do
 - sight

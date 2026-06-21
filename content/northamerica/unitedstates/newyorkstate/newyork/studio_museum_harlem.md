@@ -1,8 +1,9 @@
 ---
-latitude: 40.8075
-longitude: -73.9462
+latitude: 40.808418
+longitude: -73.947616
 score: 8.0
-snippet: Premier museum for art of the African diaspora, in a new building by David Adjaye
+snippet: Premier museum for art of the African diaspora, in a new building by David
+  Adjaye
 tags:
 - things_to_do
 - museum

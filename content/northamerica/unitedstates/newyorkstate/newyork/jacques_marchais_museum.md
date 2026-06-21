@@ -1,6 +1,6 @@
 ---
-latitude: 40.5771
-longitude: -74.1498
+latitude: 40.576305
+longitude: -74.138248
 score: 7.0
 snippet: Unique hilltop museum housing one of the largest collections of Tibetan art
   outside Asia

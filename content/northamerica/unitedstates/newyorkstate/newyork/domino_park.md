@@ -1,6 +1,6 @@
 ---
-latitude: 40.7139
-longitude: -73.966
+latitude: 40.714106
+longitude: -73.968275
 score: 7.0
 snippet: Waterfront park built on the site of the Domino Sugar refinery with preserved
   industrial structures

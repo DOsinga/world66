@@ -1,6 +1,6 @@
 ---
-latitude: 40.7199
-longitude: -73.9514
+latitude: 40.721159
+longitude: -73.952879
 score: 6.5
 snippet: 35-acre park on the Williamsburg-Greenpoint border with a running track,
   baseball diamonds and a public pool

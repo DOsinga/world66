@@ -1,6 +1,6 @@
 ---
-latitude: 40.7441
-longitude: -73.957
+latitude: 40.740996
+longitude: -73.961075
 score: 7.5
 snippet: Waterfront park on the Long Island City shore with direct views of the Manhattan
   skyline

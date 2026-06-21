@@ -1,6 +1,6 @@
 ---
-latitude: 40.8015
-longitude: -73.9714
+latitude: 40.80688
+longitude: -73.96866
 score: 8.0
 snippet: Frederick Law Olmsted's 4-mile Hudson riverfront park — quieter and greener
   than Central Park

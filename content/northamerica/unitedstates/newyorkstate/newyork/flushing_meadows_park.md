@@ -1,8 +1,9 @@
 ---
-latitude: 40.7498
-longitude: -73.8448
+latitude: 40.746384
+longitude: -73.845075
 score: 7.0
-snippet: 897-acre Queens park that hosted two World's Fairs — the Unisphere globe is here
+snippet: 897-acre Queens park that hosted two World's Fairs — the Unisphere globe
+  is here
 tags:
 - things_to_do
 - park

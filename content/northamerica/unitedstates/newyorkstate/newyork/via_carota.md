@@ -1,6 +1,6 @@
 ---
-latitude: 40.7328
-longitude: -74.0046
+latitude: 40.733098
+longitude: -74.003691
 score: 8.5
 snippet: Italian vegetable-focused trattoria on Grove Street — one of the city's most
   sought-after tables

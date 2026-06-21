@@ -1,6 +1,6 @@
 ---
-latitude: 40.5712
-longitude: -74.1449
+latitude: 40.570877
+longitude: -74.145896
 score: 7.0
 snippet: Living history museum of 30 historic buildings on the site of Staten Island's
   colonial county seat

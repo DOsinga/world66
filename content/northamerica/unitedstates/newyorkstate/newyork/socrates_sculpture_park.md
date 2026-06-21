@@ -1,6 +1,6 @@
 ---
-latitude: 40.7718
-longitude: -73.9369
+latitude: 40.768254
+longitude: -73.936712
 score: 7.5
 snippet: Former illegal dumping site converted by artists into an open-air sculpture
   park on the East River

@@ -1,6 +1,6 @@
 ---
-latitude: 40.7197
-longitude: -73.9897
+latitude: 40.720052
+longitude: -73.987896
 score: 7.5
 snippet: Family-run candy shop on Rivington Street since 1937 — floor-to-ceiling bins
   of retro sweets

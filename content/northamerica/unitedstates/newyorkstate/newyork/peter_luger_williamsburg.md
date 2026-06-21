@@ -1,6 +1,6 @@
 ---
-latitude: 40.7101
-longitude: -73.9622
+latitude: 40.709866
+longitude: -73.962556
 score: 8.5
 snippet: Brooklyn steakhouse institution since 1887 — the dry-aged porterhouse for
   two remains the city standard

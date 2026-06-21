@@ -1,7 +1,7 @@
 ---
 address: 1650 Broadway at 51st Street
-latitude: 40.7621
-longitude: -73.9835
+latitude: 40.761848
+longitude: -73.983503
 score: 6.0
 snippet: Broadway-hopeful waitstaff sing show tunes between orders
 tags:

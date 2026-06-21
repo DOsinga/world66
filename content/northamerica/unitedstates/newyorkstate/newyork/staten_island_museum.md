@@ -1,6 +1,6 @@
 ---
-latitude: 40.6429
-longitude: -74.1006
+latitude: 40.644521
+longitude: -74.102749
 score: 6.5
 snippet: Natural history and art collections housed within the Snug Harbor complex
   in a renovated 1918 building

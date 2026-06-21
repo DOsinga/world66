@@ -1,6 +1,6 @@
 ---
-latitude: 40.6432
-longitude: -74.1009
+latitude: 40.642483
+longitude: -74.103195
 score: 7.5
 snippet: 83-acre former sailors' home with Greek Revival buildings, Chinese Scholar's
   Garden and botanical gardens

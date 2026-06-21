@@ -1,7 +1,7 @@
 ---
 address: 14th to 17th Streets between Park Ave South and Broadway
-latitude: 40.735863
-longitude: -73.990961
+latitude: 40.736037
+longitude: -73.990323
 score: 7.9
 snippet: Downtown hub with one of NYC's best farmers markets
 tags:

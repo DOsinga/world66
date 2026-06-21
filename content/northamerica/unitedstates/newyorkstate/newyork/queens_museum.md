@@ -1,6 +1,6 @@
 ---
-latitude: 40.7466
-longitude: -73.8469
+latitude: 40.745869
+longitude: -73.846741
 score: 7.5
 snippet: Flushing Meadows museum housing the famous 9,335-square-foot Panorama of
   the City of New York

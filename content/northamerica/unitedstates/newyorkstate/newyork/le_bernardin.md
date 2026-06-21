@@ -1,6 +1,6 @@
 ---
-latitude: 40.7614
-longitude: -73.9825
+latitude: 40.761395
+longitude: -73.981691
 score: 9.0
 snippet: Three-Michelin-star French seafood restaurant — consistently ranked among
   the finest dining rooms in the world

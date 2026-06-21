@@ -1,6 +1,6 @@
 ---
-latitude: 40.7225
-longitude: -73.9929
+latitude: 40.722346
+longitude: -73.992841
 score: 7.5
 snippet: Contemporary art museum in a SANAA-designed stacked-box building on the Bowery
   since 2007

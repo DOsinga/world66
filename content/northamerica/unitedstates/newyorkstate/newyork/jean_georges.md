@@ -1,6 +1,6 @@
 ---
-latitude: 40.7683
-longitude: -73.9818
+latitude: 40.76897
+longitude: -73.981667
 score: 9.0
 snippet: Three-Michelin-star French dining room in the Trump International Hotel at
   Columbus Circle

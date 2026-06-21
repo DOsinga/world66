@@ -1,6 +1,6 @@
 ---
-latitude: 40.7233
-longitude: -73.999
+latitude: 40.722658
+longitude: -73.998164
 score: 8.0
 snippet: Grand Parisian brasserie on Spring Street open since 1997 — still the standard
   for all-day dining

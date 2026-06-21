@@ -1,6 +1,6 @@
 ---
-latitude: 40.6147
-longitude: -74.0642
+latitude: 40.615121
+longitude: -74.063036
 score: 7.0
 snippet: Victorian cottage home of pioneering photographer Alice Austen — her 8,000-image
   archive documents 1880s-1930s New York

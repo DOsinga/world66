@@ -1,6 +1,6 @@
 ---
-latitude: 40.8073
-longitude: -73.9454
+latitude: 40.807966
+longitude: -73.944911
 score: 7.5
 snippet: Marcus Samuelsson's Lenox Avenue restaurant celebrating African American
   and immigrant food traditions

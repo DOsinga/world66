@@ -1,6 +1,6 @@
 ---
-latitude: 40.6517
-longitude: -73.9941
+latitude: 40.652203
+longitude: -73.991077
 score: 8.0
 snippet: 478-acre Victorian cemetery and National Historic Landmark — the city's most
   beautiful landscape after Central Park

@@ -1,8 +1,9 @@
 ---
-latitude: 40.7491
-longitude: -73.9329
+latitude: 40.747706
+longitude: -73.940224
 score: 7.5
-snippet: Serious cocktail bar in a converted Long Island City garage, one of the borough's best
+snippet: Serious cocktail bar in a converted Long Island City garage, one of the borough's
+  best
 tags:
 - bars_and_cafes
 - bar

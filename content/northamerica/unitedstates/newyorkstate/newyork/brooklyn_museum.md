@@ -1,8 +1,9 @@
 ---
-latitude: 40.6712
-longitude: -73.9637
+latitude: 40.670955
+longitude: -73.963295
 score: 8.5
-snippet: One of the largest art museums in the US, with exceptional Egyptian and African collections
+snippet: One of the largest art museums in the US, with exceptional Egyptian and African
+  collections
 tags:
 - things_to_do
 - museum

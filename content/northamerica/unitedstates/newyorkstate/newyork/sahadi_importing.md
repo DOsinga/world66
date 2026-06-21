@@ -1,6 +1,6 @@
 ---
-latitude: 40.6879
-longitude: -73.9926
+latitude: 40.690145
+longitude: -73.993397
 score: 7.5
 snippet: Middle Eastern grocery and prepared foods institution on Atlantic Avenue,
   in business since 1948

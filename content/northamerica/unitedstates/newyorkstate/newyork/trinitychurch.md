@@ -2,8 +2,8 @@
 address: 74 Trinity Place, Lower Manhattan
 done:
   poi_cleanup: '2026-04-19'
-latitude: 40.708342
-longitude: -74.012762
+latitude: 40.708053
+longitude: -74.012207
 score: 7.8
 snippet: Gothic Revival landmark at the head of Wall Street
 tags:

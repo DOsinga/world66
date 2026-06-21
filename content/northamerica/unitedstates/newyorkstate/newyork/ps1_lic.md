@@ -1,6 +1,6 @@
 ---
-latitude: 40.7454
-longitude: -73.948
+latitude: 40.745582
+longitude: -73.947467
 score: 8.0
 snippet: MoMA-affiliated contemporary art centre in a converted 1890s school building
   in Long Island City

@@ -1,6 +1,6 @@
 ---
-latitude: 40.7503
-longitude: -73.975
+latitude: 40.751126
+longitude: -73.973467
 score: 8.5
 snippet: Serene Midtown East sushi counter where simplicity and ingredient quality
   are taken to an extreme

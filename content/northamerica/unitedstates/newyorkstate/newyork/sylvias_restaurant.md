@@ -1,6 +1,6 @@
 ---
-latitude: 40.8092
-longitude: -73.9439
+latitude: 40.808629
+longitude: -73.944519
 score: 7.5
 snippet: Harlem soul food institution since 1962 — fried chicken and collard greens
   on Lenox Avenue

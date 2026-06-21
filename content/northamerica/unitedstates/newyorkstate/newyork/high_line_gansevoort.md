@@ -1,6 +1,6 @@
 ---
-latitude: 40.748
-longitude: -74.0048
+latitude: 40.741192
+longitude: -74.008027
 score: 8.0
 snippet: Elevated rail line converted to a 1.45-mile linear park above the Meatpacking
   District and Chelsea

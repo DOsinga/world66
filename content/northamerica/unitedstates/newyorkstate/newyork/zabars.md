@@ -1,8 +1,9 @@
 ---
-latitude: 40.784
-longitude: -73.9801
+latitude: 40.784902
+longitude: -73.979667
 score: 8.0
-snippet: Upper West Side delicatessen and food shop since 1934, an institution of New York Jewish life
+snippet: Upper West Side delicatessen and food shop since 1934, an institution of
+  New York Jewish life
 tags:
 - shopping
 - shop

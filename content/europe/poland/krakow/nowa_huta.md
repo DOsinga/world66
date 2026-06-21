@@ -1,12 +1,15 @@
 ---
-title: "Nowa Huta"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 50.0697
 longitude: 20.0396
-score: 8.6
+tags:
+- things_to_do
+- neighbourhood
+title: Nowa Huta
+type: neighbourhood
+image: nowa_huta.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Plac_Centralny_-_Nowa_Huta.jpg
+image_license: CC BY-SA 4.0
+image_attribution: TomRollauer
 ---
 
 Nowa Huta — "New Steelworks" — is the planned socialist district built east of Krakow's historic centre from 1949 onwards as a deliberate counterweight to what the communist authorities saw as a bourgeois, Catholic, intellectual city. The Soviet-backed planners designed it as a model proletarian city, complete with a vast steelworks employing 40,000 workers, broad boulevards radiating from a central square, and elaborate neoclassical apartment blocks that borrow from both Soviet monumentalism and Italian Renaissance forms.

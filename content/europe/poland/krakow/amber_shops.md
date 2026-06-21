@@ -1,13 +1,15 @@
 ---
-title: "Amber and Craft Shopping"
-type: poi
-tags:
-  - shopping
-  - stare_miasto
-  - market
 latitude: 50.0617
 longitude: 19.9372
 score: 5.8
+snippet: Cluster of amber and folk-craft shops along Floriańska and Grodzka streets
+  in the Old Town
+tags:
+- shopping
+- stare_miasto
+- market
+title: Amber and Craft Shopping
+type: poi
 ---
 
 Poland produces some of the finest Baltic amber in the world, and Krakow is one of the best places to buy it. The ground floor of the Cloth Hall is the obvious starting point — the stalls here sell amber jewelry, folk craft, and souvenirs, and while some of the quality is tourist-grade, genuine pieces can be found with a little looking. The shops on the streets surrounding the Old Town — particularly Ulica Grodzka and Ulica Floriańska — offer higher-quality items at higher prices.

@@ -1,12 +1,15 @@
 ---
-title: "Manggha Museum of Japanese Art"
-type: poi
-tags:
-  - things_to_do
-  - museum
 latitude: 50.0538
 longitude: 19.9303
 score: 7.6
+snippet: Museum of Japanese art and technology on the Vistula bank, established with
+  a donation from Andrzej Wajda
+tags:
+- things_to_do
+- museum
+- wawel
+title: Manggha Museum of Japanese Art
+type: poi
 ---
 
 The Manggha Museum on the Vistula riverbank below Wawel holds a collection of Japanese and Asian art that feels surprising in a Polish city — until you learn its origin. The collection was assembled in the late 19th century by Feliks Jasieński, a Polish art critic and collector who became one of the first Europeans to seriously engage with Japanese art, inspired by the ukiyo-e prints that were transforming French painting at the same time. Jasieński's pen name was "Manggha," taken from a Hokusai series.

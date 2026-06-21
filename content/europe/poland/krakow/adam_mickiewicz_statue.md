@@ -1,13 +1,15 @@
 ---
-title: "Adam Mickiewicz Monument"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - stare_miasto
 latitude: 50.0614
 longitude: 19.9378
 score: 6.0
+snippet: Bronze monument to Poland's national Romantic poet, installed in 1898 in
+  Rynek Główny
+tags:
+- things_to_do
+- sight
+- stare_miasto
+title: Adam Mickiewicz Monument
+type: poi
 ---
 
 The Adam Mickiewicz Monument stands in the middle of the Main Market Square, a bronze statue on a high granite plinth that has been the traditional meeting point for Krakovians since its unveiling in 1898. Mickiewicz (1798-1855) is the greatest Polish poet and a national hero of near-mythological status — his epic poem Pan Tadeusz is considered the Polish national poem, his political speeches electrified Polish exiles in Paris, and his name appears on streets, schools, and monuments throughout the country.

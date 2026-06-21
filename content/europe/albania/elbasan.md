@@ -12,6 +12,8 @@ latitude: 41.1127
 loc_type: city
 longitude: 20.0822
 score: 0.34
+snippet: Central Albanian city in the Shkumbin valley, with an Ottoman walled old
+  town and industrial outskirts.
 title: Elbasan
 type: location
 ---

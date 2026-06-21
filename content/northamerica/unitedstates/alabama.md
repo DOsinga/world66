@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 33.258882
+loc_type: region
 longitude: -86.829534
 score: 0.39
+snippet: Deep South state with civil rights landmarks, Gulf Coast beaches, northern
+  mountains, and barbecue traditions.
 title: Alabama
 type: location
-loc_type: region
 ---
 
 Alabama is one of the Deep South's most underrated states. It played a central role in both the Civil War and the civil rights movement, and those two chapters of American history are written into the landscape everywhere you look. But Alabama is more than its history. The Gulf Coast has some of the whitest, least crowded beaches in the country. The northern mountains offer waterfalls, canyons, and hiking. The food -- from slow-smoked barbecue to Gulf seafood -- is reason enough to visit.

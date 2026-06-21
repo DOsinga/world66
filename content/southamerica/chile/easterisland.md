@@ -9,6 +9,8 @@ latitude: -27.1127
 loc_type: city
 longitude: -109.3497
 score: 0.73
+snippet: Remote Rapa Nui island in the South Pacific, famous for its volcanic landscape
+  and moai statues.
 title: Easter Island
 type: location
 ---

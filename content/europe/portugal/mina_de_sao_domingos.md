@@ -10,6 +10,8 @@ latitude: 37.671347
 loc_type: city
 longitude: -7.498263
 score: 0.35
+snippet: Abandoned Alentejo mining village near Spain, with Roman roots, British-era
+  remains, and an acid-red pit lake.
 sources:
 - https://en.wikipedia.org/wiki/S%C3%A3o_Domingos_Mine
 title: Mina de São Domingos

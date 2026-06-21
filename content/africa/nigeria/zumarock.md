@@ -6,6 +6,8 @@ latitude: 9.1148
 loc_type: feature
 longitude: 7.2385
 score: 0.34
+snippet: Dramatic monolith north of Abuja, visible from the Kaduna highway and featured
+  on Nigeria's hundred-naira note.
 title: Zuma Rock
 type: location
 ---

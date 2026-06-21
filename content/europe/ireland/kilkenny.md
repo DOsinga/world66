@@ -11,6 +11,8 @@ latitude: 52.650625
 loc_type: city
 longitude: -7.251444
 score: 0.55
+snippet: Compact medieval Irish city with Kilkenny Castle, limestone lanes, ancient
+  churches, and the Medieval Mile.
 title: Kilkenny
 type: location
 ---

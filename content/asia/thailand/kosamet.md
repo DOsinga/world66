@@ -9,6 +9,8 @@ latitude: 12.5523
 loc_type: city
 longitude: 101.4483
 score: 0.53
+snippet: Small island southeast of Bangkok, known for white beaches within Khao Laem
+  Ya-Mu Ko Samet National Park.
 title: Ko Samet
 type: location
 ---

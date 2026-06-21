@@ -9,6 +9,8 @@ latitude: 51.655388
 loc_type: city
 longitude: -0.395742
 score: 0.25
+snippet: Hertfordshire commuter town known for Watford FC and the nearby Warner Bros.
+  Studio Tour at Leavesden.
 title: Watford
 type: location
 ---

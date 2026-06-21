@@ -25,7 +25,10 @@ SECRET_KEY = os.environ.get(
 
 DEBUG = not _PRODUCTION
 
-ALLOWED_HOSTS = ["world66.ai", "www.world66.ai"] if _PRODUCTION else ["*"]
+ALLOWED_HOSTS = ["world66.ai", "www.world66.ai", "staging.world66.ai"] if _PRODUCTION else ["*"]
+
+STAGING_HOSTS = {"staging.world66.ai"}
+STAGING_CONTENT_REF = os.environ.get("WORLD66_STAGING_CONTENT_REF", "main")
 
 
 # Application definition
@@ -40,6 +43,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    "world66.middleware.StagingRevisionRedirectMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",

@@ -81,9 +81,17 @@ class Page:
     page_type: str = "location"
     body: str = ""
     meta: dict = field(default_factory=dict)
+    revision: str = ""      # short hash used in URLs
+    source_ref: str = ""    # full git object used for content reads
 
     def get_absolute_url(self):
+        if self.revision:
+            return f"/{self.revision}/{self.path}"
         return f"/{self.path}"
+
+    @property
+    def url_prefix(self):
+        return f"/{self.revision}" if self.revision else ""
 
     @property
     def properties(self):
@@ -126,7 +134,12 @@ class Page:
         parts = self.path.split("/")
         for i in range(len(parts)):
             ancestor_path = "/".join(parts[: i + 1])
-            ancestor = load_page(ancestor_path)
+            if self.source_ref:
+                ancestor = load_page_from_revision(
+                    ancestor_path, self.source_ref, url_revision=self.revision
+                )
+            else:
+                ancestor = load_page(ancestor_path)
             if ancestor:
                 crumbs.append((ancestor.title, ancestor.path))
             else:
@@ -140,6 +153,9 @@ class Page:
         so the template can group them (sections at top, section_groups with
         their members nested, etc.).
         """
+        if self.source_ref:
+            return self.children_from_revision()
+
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
             return [], [], []
@@ -174,6 +190,43 @@ class Page:
 
         return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
+    def children_from_revision(self):
+        """Sub-pages in this page's git-tree directory, grouped by type."""
+        names = _revision_dir_names(self.source_ref, self.path)
+        if not names:
+            return [], [], []
+
+        dir_names = {n for n in names if not n.endswith(".md")}
+        nav_pages = []
+        locations = []
+        pois = []
+
+        for name in sorted(names):
+            if name.endswith(".md"):
+                stem = name[:-3]
+                if stem == self.slug or stem in dir_names:
+                    continue
+                page = load_page_from_revision(
+                    f"{self.path}/{stem}", self.source_ref, url_revision=self.revision
+                )
+            elif "." not in name:
+                page = load_page_from_revision(
+                    f"{self.path}/{name}", self.source_ref, url_revision=self.revision
+                )
+            else:
+                continue
+
+            if not page:
+                continue
+            if page.page_type in NAV_TYPES:
+                nav_pages.append(page)
+            elif page.page_type == "poi":
+                pois.append(page)
+            else:
+                locations.append(page)
+
+        return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
+
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
 
@@ -182,11 +235,14 @@ class Page:
 
         Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
         """
-        city_path = _find_city_path(self.path)
+        city_path = _find_city_path(self.path, self.source_ref, self.revision)
         if not city_path:
             return []
         tag = self.nav_tag
-        by_tag = find_tagged_pois(city_path, tag, _city_tag_index=_city_tag_index)
+        by_tag = find_tagged_pois(
+            city_path, tag, _city_tag_index=_city_tag_index,
+            revision=self.source_ref, url_revision=self.revision,
+        )
 
         # Legacy: also scan the section's own subdirectory for untagged POIs
         legacy = self._legacy_dir_pois()
@@ -199,6 +255,17 @@ class Page:
 
     def _legacy_dir_pois(self):
         """POIs inside this page's own subdirectory (pre-tag content)."""
+        if self.source_ref:
+            pois = _revision_dir_pois(
+                self.source_ref, self.path, self.path, self.revision
+            )
+            if not pois and "/" in self.path:
+                fallback_dir = f'{self.path.rsplit("/", 1)[0]}/{self.slug}'
+                pois = _revision_dir_pois(
+                    self.source_ref, fallback_dir, self.path, self.revision
+                )
+            return sorted(pois, key=_score_desc_title_key)
+
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
             # Also try sibling directory with same name as slug
@@ -219,19 +286,25 @@ class Page:
         return self.tagged_pois()
 
 
-def _find_city_path(path):
+def _find_city_path(path, revision=None, url_revision=None):
     """Return the path of the nearest ancestor page with type 'location'."""
     parts = path.split("/")
     for i in range(len(parts) - 1, 0, -1):
         candidate = "/".join(parts[:i])
-        page = load_page(candidate)
+        page = (
+            load_page_from_revision(candidate, revision, url_revision=url_revision)
+            if revision else load_page(candidate)
+        )
         if page and page.page_type == "location":
             return candidate
     return None
 
 
-def build_city_tag_index(city_path):
+def build_city_tag_index(city_path, revision=None, url_revision=None):
     """Scan all POI files under city_path once and return {tag: [Page, ...]}."""
+    if revision:
+        return _build_city_tag_index_from_revision(city_path, revision, url_revision)
+
     city_dir = CONTENT_DIR / city_path
     if not city_dir.is_dir():
         return {}
@@ -263,13 +336,13 @@ def build_city_tag_index(city_path):
     return index
 
 
-def find_tagged_pois(city_path, tag, _city_tag_index=None):
+def find_tagged_pois(city_path, tag, _city_tag_index=None, revision=None, url_revision=None):
     """Return POIs under city_path tagged with tag.
 
     Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
     """
     if _city_tag_index is None:
-        _city_tag_index = build_city_tag_index(city_path)
+        _city_tag_index = build_city_tag_index(city_path, revision, url_revision)
     return sorted(_city_tag_index.get(tag, []), key=_score_desc_title_key)
 
 
@@ -288,21 +361,116 @@ def _load_page_from_file(file_path, url_path):
     )
 
 
+def _load_page_from_git_path(git_path, url_path, revision, url_revision=None):
+    """Load a Page from a content/*.md path in a git revision."""
+    result = subprocess.run(
+        ["git", "show", f"{revision}:{git_path}"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return None
+    post = frontmatter.loads(result.stdout)
+    slug = Path(git_path).stem
+    title = post.metadata.get("title", slug)
+    page_type = post.metadata.get("type", "location")
+    return Page(
+        slug=slug, path=url_path, title=title, page_type=page_type,
+        body=post.content, meta=post.metadata,
+        revision=url_revision or revision[:10], source_ref=revision,
+    )
+
+
+def load_page_from_revision(path, revision, url_revision=None):
+    """Load a page from a git revision without touching the filesystem."""
+    slug = path.rsplit("/", 1)[-1] if "/" in path else path
+    for git_path in [f"content/{path}/{slug}.md", f"content/{path}.md"]:
+        page = _load_page_from_git_path(git_path, path, revision, url_revision)
+        if page:
+            return page
+    return None
+
+
 def load_page_from_branch(path, branch):
-    """Load a page from a git branch using git show, without touching the filesystem."""
-    slug = path.rsplit('/', 1)[-1] if '/' in path else path
-    for git_path in [f'content/{path}/{slug}.md', f'content/{path}.md']:
+    """Compatibility wrapper for old ?branch= callers."""
+    return load_page_from_revision(path, branch, url_revision=branch)
+
+
+def _revision_dir_names(revision, url_path):
+    """Return immediate child names for a content directory at a git revision."""
+    result = subprocess.run(
+        ["git", "ls-tree", "--name-only", revision, f"content/{url_path}/"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return []
+    prefix = f"content/{url_path}/"
+    names = []
+    for line in result.stdout.splitlines():
+        if not line:
+            continue
+        names.append(line.removeprefix(prefix).split("/", 1)[0])
+    return sorted(set(names))
+
+
+def _revision_dir_pois(revision, dir_url_path, page_url_base, url_revision=None):
+    pois = []
+    for name in _revision_dir_names(revision, dir_url_path):
+        if not name.endswith(".md"):
+            continue
+        page = _load_page_from_git_path(
+            f"content/{dir_url_path}/{name}",
+            f"{page_url_base}/{name[:-3]}",
+            revision,
+            url_revision,
+        )
+        if page and page.page_type == "poi":
+            pois.append(page)
+    return pois
+
+
+def _build_city_tag_index_from_revision(city_path, revision, url_revision=None):
+    result = subprocess.run(
+        ["git", "ls-tree", "-r", "--name-only", revision, f"content/{city_path}/"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return {}
+
+    index = {}
+    seen = set()
+    for git_path in sorted(result.stdout.splitlines()):
+        if not git_path.endswith(".md"):
+            continue
         result = subprocess.run(
-            ['git', 'show', f'{branch}:{git_path}'],
+            ["git", "show", f"{revision}:{git_path}"],
             capture_output=True, text=True, check=False,
             cwd=str(settings.BASE_DIR),
         )
-        if result.returncode == 0:
-            post = frontmatter.loads(result.stdout)
-            title = post.metadata.get('title', slug)
-            page_type = post.metadata.get('type', 'location')
-            return Page(slug=slug, path=path, title=title, page_type=page_type, body=post.content, meta=post.metadata)
-    return None
+        if result.returncode != 0:
+            continue
+        post = frontmatter.loads(result.stdout)
+        if post.metadata.get("type") not in ("poi", "neighbourhood", "theme"):
+            continue
+        raw_tags = post.metadata.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",")]
+        if not raw_tags:
+            continue
+        rel = Path(git_path).relative_to("content")
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        url_path = "/".join(parts[:-1] + [stem])
+        if url_path in seen:
+            continue
+        seen.add(url_path)
+        page = _load_page_from_git_path(git_path, url_path, revision, url_revision)
+        if page:
+            for tag in raw_tags:
+                index.setdefault(tag, []).append(page)
+    return index
 
 
 def load_page(path):
@@ -325,7 +493,7 @@ def load_page(path):
     return None
 
 
-def resolve_tag_route(path):
+def resolve_tag_route(path, revision=None, url_revision=None):
     """Resolve a virtual tag-based URL: city/nav-slug/poi-slug.
 
     Returns (poi_page, nav_page) or (None, None).
@@ -347,17 +515,27 @@ def resolve_tag_route(path):
         city_path = "/".join(parts[:city_len])
         nav_slug = parts[city_len]
 
-        city_page = load_page(city_path)
+        city_page = (
+            load_page_from_revision(city_path, revision, url_revision=url_revision)
+            if revision else load_page(city_path)
+        )
         if not city_page or city_page.page_type != "location":
             continue
 
-        nav_page = load_page(city_path + "/" + nav_slug)
+        nav_page = (
+            load_page_from_revision(
+                city_path + "/" + nav_slug, revision, url_revision=url_revision
+            )
+            if revision else load_page(city_path + "/" + nav_slug)
+        )
         if not nav_page or nav_page.page_type not in NAV_TYPES:
             continue
 
         # Find a POI in this city tagged with the nav page's tag
         tag = nav_page.nav_tag
-        for poi in find_tagged_pois(city_path, tag):
+        for poi in find_tagged_pois(
+            city_path, tag, revision=revision, url_revision=url_revision
+        ):
             if poi.slug == poi_slug:
                 return poi, nav_page
 

@@ -10,6 +10,8 @@ latitude: 27.042839
 loc_type: city
 longitude: 84.856979
 score: 0.25
+snippet: Terai border city and Nepal's main trade gateway to India, paired with Raxaul
+  across the frontier.
 title: Birgunj
 type: location
 ---

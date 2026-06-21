@@ -11,6 +11,8 @@ latitude: 5.0742
 loc_type: city
 longitude: -75.5081
 score: 0.44
+snippet: Andean coffee city on a narrow ridge, with university energy and Nevado del
+  Ruiz on the horizon.
 title: Manizales
 type: location
 ---

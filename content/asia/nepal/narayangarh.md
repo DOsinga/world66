@@ -10,6 +10,8 @@ latitude: 27.700683
 loc_type: city
 longitude: 84.427353
 score: 0.3
+snippet: Terai crossroads town near Chitwan, where Nepal's east-west highway meets
+  the road south to India.
 title: Narayangarh
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 56.9326
 loc_type: region
 longitude: -6.2857
 score: 0.51
+snippet: Inner Hebridean island group of Rum, Eigg, Muck, and Canna, quiet and lightly
+  trafficked south of Skye.
 title: Small Isles
 type: location
 ---

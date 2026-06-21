@@ -6,6 +6,8 @@ latitude: 7.321154
 loc_type: city
 longitude: 13.587821
 score: 0.27
+snippet: Northern Cameroonian rail terminus and highland crossroads for Bénoué National
+  Park and the far north.
 title: Ngaoundéré
 type: location
 ---

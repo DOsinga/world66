@@ -1,23 +1,25 @@
 ---
-title: Guam
-type: location
-latitude: 13.449994
-longitude: 144.765168
+done:
+  country_cleanup: 2026-03-30
 image: guam.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Marine_Drive_Guam.jpg
-image_license: Public domain
 image_attribution: Original by <a rel="nofollow" class="external text" href="http://wikitravel.org/en/User_talk:Zverzver">Zverzver</a>
   at Wikitravel; cropped version by <a href="//commons.wikimedia.org/wiki/User:Imzadi1979"
   title="User:Imzadi1979">Imzadi1979</a>
-done:
-  country_cleanup: 2026-03-30
-quick_facts:
-  Population: "170,000"
-  US Military Land: "27% of the island"
-  Chamorro Settlement: "3,500+ years"
-  Closest Major City: Manila (2,500 km)
-score: 0.40
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Marine_Drive_Guam.jpg
+latitude: 13.449994
 loc_type: country
+longitude: 144.765168
+quick_facts:
+  Chamorro Settlement: 3,500+ years
+  Closest Major City: Manila (2,500 km)
+  Population: 170,000
+  US Military Land: 27% of the island
+score: 0.4
+snippet: Western Pacific island territory where Chamorro culture, American suburbia,
+  Japanese tourism, and reef beaches meet.
+title: Guam
+type: location
 ---
 
 Guam is the largest island in Micronesia and, in many ways, the odd one out — an American territory in the western Pacific, closer to Manila than to Honolulu, with an indigenous Chamorro culture that predates both. It draws visitors primarily from Japan and South Korea, who come for the beaches, the diving, and the duty-free shopping. The result is a place that feels simultaneously American, Japanese, and Pacific Islander, with a distinct Chamorro identity running underneath all of it.

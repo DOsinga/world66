@@ -9,6 +9,8 @@ latitude: 33.5012
 loc_type: city
 longitude: -117.6626
 score: 0.44
+snippet: Orange County mission town with Spanish colonial architecture, adobe ruins,
+  and a genuinely old downtown.
 title: San Juan Capistrano
 type: location
 ---

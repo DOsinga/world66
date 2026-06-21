@@ -10,6 +10,8 @@ latitude: 43.020679
 loc_type: city
 longitude: -78.878383
 score: 0.25
+snippet: Erie Canal twin city north of Buffalo, with waterfront heritage and a historic
+  carrousel factory museum.
 title: Tonawanda
 type: location
 ---

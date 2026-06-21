@@ -10,6 +10,8 @@ latitude: 40.1127
 loc_type: city
 longitude: -88.193
 score: 0.31
+snippet: Illinois twin college cities surrounded by farmland, shaped by the University
+  of Illinois campus and cultural scene.
 title: Urbana-Champaign
 type: location
 ---

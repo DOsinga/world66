@@ -10,6 +10,8 @@ latitude: 51.9487
 loc_type: city
 longitude: -0.2779
 score: 0.33
+snippet: Hertfordshire market town with a preserved medieval street plan and handsome
+  Market Place north of London.
 title: Hitchin
 type: location
 ---

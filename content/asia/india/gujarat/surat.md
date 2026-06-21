@@ -9,6 +9,8 @@ latitude: 21.17024
 loc_type: city
 longitude: 72.831062
 score: 0.3
+snippet: Gujarat port city and diamond-cutting capital, with textile markets and old
+  European trading quarters.
 title: Surat
 type: location
 ---

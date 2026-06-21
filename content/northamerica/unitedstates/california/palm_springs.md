@@ -6,6 +6,8 @@ latitude: 33.824627
 loc_type: city
 longitude: -116.540303
 score: 0.55
+snippet: Coachella Valley desert resort city defined by midcentury modern architecture
+  and mountain-ringed sunshine.
 title: Palm Springs
 type: location
 ---

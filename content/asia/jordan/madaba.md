@@ -10,6 +10,8 @@ latitude: 31.716594
 loc_type: city
 longitude: 35.794386
 score: 0.48
+snippet: Jordanian mosaic town south of Amman, famous for the Byzantine Madaba Map
+  of the Holy Land.
 title: Madaba
 type: location
 ---

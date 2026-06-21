@@ -9,6 +9,8 @@ latitude: 46.3386
 loc_type: city
 longitude: 13.5524
 score: 0.54
+snippet: Soča Valley mountain town in the Julian Alps, known for rafting, canyoning,
+  and emerald river water.
 title: Bovec
 type: location
 ---

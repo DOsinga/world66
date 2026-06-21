@@ -9,6 +9,8 @@ latitude: 57.479
 loc_type: city
 longitude: -4.2257
 score: 0.56
+snippet: Highland capital on the Ness River, used as a base for Loch Ness, Culloden,
+  and northern Scotland.
 title: Inverness
 type: location
 ---

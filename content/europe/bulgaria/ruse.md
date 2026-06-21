@@ -12,6 +12,8 @@ latitude: 43.848041
 loc_type: city
 longitude: 25.954206
 score: 0.41
+snippet: Danube port city in Bulgaria, known for Baroque facades, Art Nouveau ironwork,
+  and grand riverfront squares.
 title: Ruse
 type: location
 ---

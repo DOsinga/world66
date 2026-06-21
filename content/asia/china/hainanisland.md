@@ -8,6 +8,8 @@ latitude: 19.160286
 loc_type: region
 longitude: 109.628891
 score: 0.57
+snippet: Tropical Chinese island province of resort beaches, Hainanese food, rainforest
+  highlands, and fast-growing coastal cities.
 sources:
 - https://en.wikivoyage.org/wiki/Hainan
 title: Hainan Island

@@ -8,6 +8,8 @@ latitude: 47.278087
 loc_type: region
 longitude: 4.222486
 score: 0.61
+snippet: Eastern French wine region of Côte d'Or vineyards, ducal history, Romanesque
+  abbeys, and Beaune cellars.
 title: Burgundy
 type: location
 ---

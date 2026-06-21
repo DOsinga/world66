@@ -11,6 +11,8 @@ latitude: 45.5285
 loc_type: city
 longitude: 13.5684
 score: 0.59
+snippet: Venetian Adriatic town on Slovenia's coast, with narrow medieval streets
+  and Tartini Square at its heart.
 title: Piran
 type: location
 ---

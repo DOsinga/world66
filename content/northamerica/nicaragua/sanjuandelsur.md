@@ -9,6 +9,8 @@ latitude: 11.2527
 loc_type: city
 longitude: -85.8709
 score: 0.43
+snippet: Pacific fishing town turned surf base, wrapped around a crescent bay near
+  Nicaragua's Costa Rican border.
 title: San Juan del Sur
 type: location
 ---

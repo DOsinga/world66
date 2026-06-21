@@ -1,10 +1,12 @@
 ---
-title: Morondava
-type: location
-loc_type: city
 latitude: -20.2844
+loc_type: city
 longitude: 44.2794
 score: 0.4
+snippet: West-coast Malagasy town and gateway to the Avenue of the Baobabs near the
+  Morondava River.
+title: Morondava
+type: location
 ---
 
 Morondava is a coastal town on Madagascar's west coast, 700 km south of Antananarivo. It is the main base for visiting the Avenue of the Baobabs — the famous dirt road flanked by giant baobab trees (Adansonia grandidieri) that have become Madagascar's most photographed landscape. The trees, some over 30 metres tall and up to 800 years old, glow gold in the late afternoon light before sunset. Most visitors plan their arrival around dusk.

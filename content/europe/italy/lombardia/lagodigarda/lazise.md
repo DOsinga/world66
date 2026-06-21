@@ -9,6 +9,8 @@ latitude: 45.505201
 loc_type: city
 longitude: 10.733025
 score: 0.55
+snippet: Walled Lake Garda town with Venetian fortifications, a Scaligero castle,
+  and a harbourfront customs house.
 title: Lazise
 type: location
 ---

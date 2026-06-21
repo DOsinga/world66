@@ -9,6 +9,8 @@ latitude: 47.5687
 loc_type: city
 longitude: 11.0936
 score: 0.46
+snippet: Alpine village near Oberammergau, dominated by a grand Benedictine abbey
+  with an oversized baroque basilica.
 title: Ettal
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -18.623147
 loc_type: city
 longitude: -174.002138
 score: 0.55
+snippet: Hilly Tongan island with a deeply indented harbour, whale-swimming departures,
+  and sheltered sailing waters.
 title: Vava'u Island
 type: location
 ---

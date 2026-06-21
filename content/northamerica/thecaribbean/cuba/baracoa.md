@@ -9,6 +9,8 @@ latitude: 20.3469
 loc_type: city
 longitude: -74.4964
 score: 0.52
+snippet: Cuba's oldest Spanish settlement, isolated by mountains beside El Yunque
+  and a curving eastern bay.
 sources:
 - https://en.wikipedia.org/wiki/Baracoa
 - https://en.wikipedia.org/wiki/El_Yunque_(Cuba)

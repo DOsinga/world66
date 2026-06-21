@@ -6,6 +6,8 @@ latitude: 40.587178
 loc_type: city
 longitude: -105.077011
 score: 0.41
+snippet: Colorado college town where Rocky Mountain foothills, craft breweries, and
+  a walkable Old Town meet.
 title: Fort Collins
 type: location
 ---

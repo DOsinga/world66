@@ -10,6 +10,8 @@ latitude: 40.956962
 loc_type: city
 longitude: 40.884428
 score: 0.44
+snippet: Black Sea port below the Kaçkar Mountains, at the heart of Turkey's steep
+  green tea country.
 title: Rize
 type: location
 ---

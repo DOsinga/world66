@@ -9,6 +9,8 @@ latitude: 45.138588
 loc_type: city
 longitude: 2.494343
 score: 0.48
+snippet: Hilltop Auvergne village of dark basalt mansions, Renaissance squares, and
+  medieval lanes above volcanic countryside.
 title: Salers
 type: location
 ---

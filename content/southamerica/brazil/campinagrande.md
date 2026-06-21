@@ -10,6 +10,8 @@ latitude: -7.2306
 loc_type: city
 longitude: -35.8811
 score: 0.33
+snippet: Interior Paraíba city famous for Festa Junina, forró dancing, and northeast
+  Brazil's cotton-country culture.
 title: Campina Grande
 type: location
 ---

@@ -103,6 +103,8 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 
 - Don't work on main — create a branch for your work. Always branch off `origin/main`, not wherever you happen to be.
 - Use worktrees if you are doing multiple things at the same time.
+- If working on an existing branch or PR, create a worktree for that branch and push follow-up work to the same branch in the spirit of collaborating.
+- When opening a PR, include a preview link that uses the commit hash in the URL: `https://world66.ai/<short-commit-hash>/<content-path>` (for example, `https://world66.ai/abc123def0/europe/france/paris`). When pushing updates to an existing PR, update that preview link to the latest commit hash. `staging.world66.ai` follows the server's local `main` ref and is not the right host for PR-specific previews.
 - Try to separate changes to the code from changes to the content from changes to the instruction markdowns — open multiple PRs if needed.
 - We squash PRs when they are ready to merge.
 - Do not force push. Do not ammend commits

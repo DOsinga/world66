@@ -11,6 +11,7 @@ longitude: 73.5326
 sources:
 - https://en.wikivoyage.org/wiki/Champaner-Pavagadh_Archaeological_Park
 - https://en.wikipedia.org/wiki/Champaner-Pavagadh_Archaeological_Park
+snippet: "Ruined Gujarati Sultanate capital below sacred Pavagadh Hill, with mosques and pilgrimage paths in forest."
 title: Champaner-Pavagadh
 type: location
 score: 0.45

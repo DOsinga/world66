@@ -9,6 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kruger_National_Park_(ZA),
 latitude: -23.9884
 loc_type: feature
 longitude: 31.5547
+snippet: "Huge South African game reserve spanning varied habitats between the Limpopo and Crocodile rivers."
 title: Kruger National Park
 type: location
 score: 0.7

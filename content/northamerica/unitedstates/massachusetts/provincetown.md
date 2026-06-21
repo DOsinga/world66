@@ -1,4 +1,5 @@
 ---
+snippet: "Cape Cod tip town where fishing-port history, dunes, and a long-running LGBT arts scene converge."
 title: Provincetown
 type: location
 loc_type: city

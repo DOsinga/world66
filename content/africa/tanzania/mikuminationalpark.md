@@ -1,4 +1,5 @@
 ---
+snippet: "Accessible Tanzanian safari park west of Dar es Salaam, centred on the wildlife-rich Mkata Floodplain."
 title: Mikumi National Park
 type: location
 loc_type: feature

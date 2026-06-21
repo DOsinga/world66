@@ -10,6 +10,7 @@ loc_type: city
 longitude: 115.033
 sources:
 - https://en.wikivoyage.org/wiki/Huangshi
+snippet: "Hubei industrial city on the Yangtze, rooted in ancient copper mining and modern iron works."
 title: Huangshi
 type: location
 score: 0.25

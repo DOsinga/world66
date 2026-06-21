@@ -5,6 +5,7 @@ latitude: 36.2048
 loc_type: region
 longitude: 138.2529
 score: 0.68
+snippet: "Japan's main island, holding the country's largest cities, sacred temples, and mountain landscapes."
 title: Honshu
 type: location
 ---

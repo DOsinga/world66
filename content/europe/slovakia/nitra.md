@@ -11,6 +11,7 @@ longitude: 18.0871
 sources:
 - https://en.wikipedia.org/wiki/Nitra
 - https://en.wikivoyage.org/wiki/Nitra
+snippet: "Ancient Slovak city below a castle hill, central to the country's early Christian history."
 title: Nitra
 type: location
 score: 0.38

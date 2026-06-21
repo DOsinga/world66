@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 25.729427
 longitude: 32.65945
+snippet: "Ancient Theban temple complex at Luxor, dominated by Amun's sanctuary and the Great Hypostyle Hall."
 title: Karnak
 type: location
 score: 0.65

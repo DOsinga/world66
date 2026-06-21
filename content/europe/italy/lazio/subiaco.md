@@ -9,6 +9,7 @@ latitude: 41.926715
 loc_type: city
 longitude: 13.094432
 score: 0.44
+snippet: "Simbruini Mountains town near Rome, shaped by Nero's retreat and Saint Benedict's cliffside monasteries."
 title: Subiaco
 type: location
 ---

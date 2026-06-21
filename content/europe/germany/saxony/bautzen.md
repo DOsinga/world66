@@ -10,6 +10,7 @@ latitude: 51.1809
 loc_type: city
 longitude: 14.4276
 score: 0.42
+snippet: "Medieval Upper Lusatian town and Sorbian cultural heart, with bilingual streets and a towered skyline."
 title: Bautzen
 type: location
 ---

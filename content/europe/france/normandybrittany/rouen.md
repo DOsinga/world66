@@ -9,6 +9,7 @@ latitude: 49.440459
 loc_type: city
 longitude: 1.093966
 score: 0.55
+snippet: "Norman cathedral city on the Seine, marked by Joan of Arc history and half-timbered lanes."
 title: Rouen
 type: location
 ---

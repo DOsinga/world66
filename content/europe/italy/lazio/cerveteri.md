@@ -9,6 +9,7 @@ latitude: 41.9983
 loc_type: city
 longitude: 12.0992
 score: 0.45
+snippet: "Etruscan town near Rome, known for the Banditaccia necropolis carved like a city of the dead."
 title: Cerveteri
 type: location
 ---

@@ -11,6 +11,7 @@ latitude: 48.137108
 loc_type: city
 longitude: 11.575382
 score: 0.6
+snippet: "Bavarian capital near the Alps, famous for beer festivals, grand museums, and village-like charm."
 title: Munich
 type: location
 ---

@@ -9,6 +9,7 @@ score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Baia_Mare
 - https://en.wikivoyage.org/wiki/Baia_Mare
+snippet: "Maramureș regional capital with a medieval core, mining history, and access to wooden-church villages."
 title: Baia Mare
 type: location
 ---

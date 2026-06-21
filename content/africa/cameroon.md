@@ -1,6 +1,7 @@
 ---
 latitude: 4.612552
 longitude: 13.153581
+snippet: "Central African country of rainforests, Sahel savannah, volcanic coast, and unusually dense cultural variety."
 title: Cameroon
 type: location
 image: cameroon.jpg

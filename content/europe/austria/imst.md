@@ -10,6 +10,8 @@ latitude: 47.238154
 loc_type: city
 longitude: 10.740698
 score: 0.44
+snippet: Tyrolean market town in a sunny Alpine valley, known for Schemenlaufen masks
+  and Hoch-Imst slopes.
 title: Imst
 type: location
 ---

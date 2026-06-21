@@ -10,6 +10,8 @@ latitude: 41.091835
 loc_type: city
 longitude: 44.656951
 score: 0.4
+snippet: Armenian plateau village above Debed Gorge, centred on the medieval Sanahin
+  Monastery complex.
 title: Sanahin
 type: location
 ---

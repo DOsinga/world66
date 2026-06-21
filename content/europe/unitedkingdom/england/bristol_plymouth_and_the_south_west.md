@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 51.4545
+loc_type: region
 longitude: -2.5879
 score: 0.64
+snippet: English coastal region of wild moors, maritime cities, cathedral towns, and
+  Cornwall's long Atlantic edge.
 title: Bristol, Plymouth and the South-West
 type: location
-loc_type: region
 ---
 
 England's south-west is where the country gets wild. The coastline dominates, from the golden beaches of [Bournemouth](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth) and [Cornwall](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall) to the dramatic cliffs of [Exmoor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor) and north [Devon](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon). But there is far more than coast here.

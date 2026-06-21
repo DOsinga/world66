@@ -9,6 +9,8 @@ latitude: 4.9403
 loc_type: city
 longitude: 114.948
 score: 0.46
+snippet: Quiet Bruneian capital on the river, defined by golden mosques and the stilt
+  houses of Kampong Ayer.
 title: Bandar Seri Begawan
 type: location
 ---

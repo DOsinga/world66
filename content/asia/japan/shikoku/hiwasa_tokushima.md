@@ -10,6 +10,8 @@ latitude: 33.7284
 loc_type: city
 longitude: 134.5353
 score: 0.42
+snippet: Small Shikoku coastal town with Yakuōji Temple, sea turtles, and views over
+  the Pacific.
 title: Hiwasa
 type: location
 ---

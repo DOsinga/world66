@@ -9,6 +9,8 @@ latitude: 47.514926
 loc_type: city
 longitude: 9.430403
 score: 0.41
+snippet: Swiss Lake Constance town with a medieval promontory old town and converted
+  Saurer factory buildings.
 title: Arbon
 type: location
 ---

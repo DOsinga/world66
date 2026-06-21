@@ -6,6 +6,8 @@ latitude: 36.3126
 loc_type: city
 longitude: -95.6161
 score: 0.31
+snippet: Route 66 Oklahoma city best known for Will Rogers and two unusually absorbing
+  history museums.
 title: Claremore
 type: location
 ---

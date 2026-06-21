@@ -10,6 +10,8 @@ latitude: 38.3738
 loc_type: city
 longitude: -110.7064
 score: 0.32
+snippet: Tiny Utah desert crossroads surrounded by Capitol Reef, the Henry Mountains,
+  and sandstone backcountry routes.
 sources:
 - https://en.wikipedia.org/wiki/Hanksville,_Utah
 - https://en.wikipedia.org/wiki/Mars_Desert_Research_Station

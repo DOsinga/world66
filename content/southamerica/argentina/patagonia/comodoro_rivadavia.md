@@ -10,6 +10,8 @@ latitude: -45.8632
 loc_type: city
 longitude: -67.4753
 score: 0.3
+snippet: Patagonian oil city on the Atlantic, battered by wind and softened by nearby
+  Rada Tilly beach.
 title: Comodoro Rivadavia
 type: location
 ---

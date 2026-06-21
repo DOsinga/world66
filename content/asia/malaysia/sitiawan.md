@@ -11,6 +11,8 @@ latitude: 4.2167
 loc_type: city
 longitude: 100.7
 score: 0.3
+snippet: Perak market town with a strong Fuzhou Chinese identity and a reputation
+  for clay-oven kong piang.
 title: Sitiawan
 type: location
 ---

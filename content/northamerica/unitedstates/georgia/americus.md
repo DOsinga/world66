@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+image: americus.jpg
+image_attribution: Michael Rivera
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Municipal_Building_City_of_Americus.jpg
 latitude: 32.072386
 loc_type: city
 longitude: -84.232688
 score: 0.26
+snippet: Southwest Georgia city in peanut country, used as a base for Andersonville
+  and Plains.
 title: Americus
 type: location
-image: americus.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Municipal_Building_City_of_Americus.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Michael Rivera
 ---
 
 Americus is a small city in southwest Georgia, about 130 miles south of Atlanta. It sits in the heart of Georgia's peanut country, surrounded by flat farmland — not a typical tourist stop, but it earns its place on the map for a few very specific reasons.

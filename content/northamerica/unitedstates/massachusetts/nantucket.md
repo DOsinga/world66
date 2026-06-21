@@ -9,6 +9,8 @@ latitude: 41.284441
 loc_type: city
 longitude: -70.09842
 score: 0.57
+snippet: Massachusetts island resort with whaling-era streets, grey-shingled houses,
+  and beaches off Cape Cod.
 title: Nantucket
 type: location
 ---

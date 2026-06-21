@@ -10,6 +10,8 @@ latitude: 21.420847
 loc_type: city
 longitude: 39.826869
 score: 0.34
+snippet: Holiest city in Islam, centred on the Grand Mosque and the Kaaba circled
+  by pilgrims.
 title: Mecca
 type: location
 ---

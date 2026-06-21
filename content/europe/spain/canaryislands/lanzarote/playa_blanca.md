@@ -9,6 +9,8 @@ latitude: 28.8632
 loc_type: city
 longitude: -13.8299
 score: 0.55
+snippet: Lanzarote resort town grown from a fishing port, close to the sheltered Papagayo
+  beaches.
 title: Playa Blanca
 type: location
 ---

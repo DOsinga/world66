@@ -8,6 +8,8 @@ latitude: 33.5207
 loc_type: city
 longitude: -86.8024
 score: 0.35
+snippet: Alabama city where steel-mill history and landmark civil rights sites stand
+  within the same valley.
 title: Birmingham
 type: location
 ---

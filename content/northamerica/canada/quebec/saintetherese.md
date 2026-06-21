@@ -10,6 +10,8 @@ latitude: 45.634292
 loc_type: city
 longitude: -73.836238
 score: 0.29
+snippet: Commuter town on Montreal's North Shore, a quiet base with easy access to
+  the Laurentian hills and the P'tit Train du Nord cycling route.
 title: Sainte-Therese
 type: location
 ---

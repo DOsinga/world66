@@ -5,7 +5,7 @@ longitude: -3.1895
 score: 7.2
 tags:
 - eating_out
-- oldtown
+- newtown
 - restaurant
 title: Dishoom Edinburgh
 type: poi

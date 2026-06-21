@@ -9,7 +9,7 @@ tags:
 - market
 - square
 - restaurant
-- oldtown
+- grassmarket_nb
 title: Grassmarket
 type: poi
 ---

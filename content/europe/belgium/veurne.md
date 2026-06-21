@@ -10,6 +10,8 @@ latitude: 51.072427
 loc_type: city
 longitude: 2.662132
 score: 0.41
+snippet: Westhoek town near the French border, centred on one of Flanders' finest
+  market squares.
 title: Veurne
 type: location
 ---

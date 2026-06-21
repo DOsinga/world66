@@ -7,6 +7,8 @@ latitude: 1.5598
 loc_type: city
 longitude: 110.3453
 score: 0.54
+snippet: Sarawak's riverside capital on Borneo, with Brooke-era streets and access
+  to rainforest national parks.
 title: Kuching
 type: location
 ---

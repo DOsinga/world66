@@ -5,6 +5,8 @@ latitude: 50.901472
 loc_type: region
 longitude: 11.037784
 score: 0.53
+snippet: Central German state of forests and culture, tied to Luther, Bach, Goethe,
+  Schiller, and Bauhaus.
 title: Thuringia
 type: location
 ---

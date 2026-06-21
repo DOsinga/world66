@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 41.098659
+loc_type: region
 longitude: 40.814018
+score: 0.49
+snippet: Black Sea mountain range in northeastern Turkey, known for alpine villages
+  and high trekking routes.
 title: Kackar
 type: location
-score: 0.49
-loc_type: region
 ---
 
 The Kaçkar Mountains rise steeply from Turkey's Black Sea coast between Trabzon and [Rize](/asia/turkey/kackar/rize), reaching 3,932 metres at Kaçkar Dağı — the second highest peak in Turkey after Mount Ararat. This is some of the finest trekking country in the eastern Mediterranean: alpine meadows, glacial lakes, and mountain villages connected by ancient paths.

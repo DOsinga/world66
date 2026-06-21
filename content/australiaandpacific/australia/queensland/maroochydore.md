@@ -9,6 +9,8 @@ latitude: -26.6557
 loc_type: city
 longitude: 153.0947
 score: 0.43
+snippet: Sunshine Coast city at the Maroochy River mouth, centred on surf beaches
+  and riverfront parkland.
 title: Maroochydore
 type: location
 ---

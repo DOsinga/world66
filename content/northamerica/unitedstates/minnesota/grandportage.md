@@ -10,6 +10,8 @@ latitude: 47.9638
 loc_type: city
 longitude: -89.6848
 score: 0.36
+snippet: Lake Superior settlement at Minnesota's northeastern tip, known for its fur-trade
+  national monument.
 title: Grand Portage
 type: location
 ---

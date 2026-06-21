@@ -10,6 +10,8 @@ latitude: 48.534266
 loc_type: city
 longitude: -123.017124
 score: 0.46
+snippet: Only incorporated town in the San Juan Islands, with a walkable harbour and
+  ferry links to Anacortes.
 title: Friday Harbor
 type: location
 ---

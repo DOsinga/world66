@@ -10,6 +10,8 @@ latitude: 32.265078
 loc_type: city
 longitude: -9.230554
 score: 0.38
+snippet: Atlantic port city in Morocco, famed for blue-and-white pottery from the
+  Colline des Potiers.
 title: Safi
 type: location
 ---

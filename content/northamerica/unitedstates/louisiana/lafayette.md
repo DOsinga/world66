@@ -10,6 +10,8 @@ latitude: 30.226219
 loc_type: city
 longitude: -92.01782
 score: 0.42
+snippet: Cajun-country city in Louisiana, where Acadian culture shapes the music,
+  language, and food.
 title: Lafayette
 type: location
 ---

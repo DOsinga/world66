@@ -5,6 +5,8 @@ latitude: 44.3403
 loc_type: city
 longitude: 17.2703
 score: 0.48
+snippet: Medieval Bosnian walled town where the Pliva River waterfall drops below
+  the fortress.
 title: Jajce
 type: location
 ---

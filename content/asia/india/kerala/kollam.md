@@ -9,6 +9,8 @@ latitude: 8.887053
 loc_type: city
 longitude: 76.59067
 score: 0.41
+snippet: Historic Malabar Coast port and cashew centre, serving as Kerala's southern
+  backwater gateway.
 title: Kollam
 type: location
 ---

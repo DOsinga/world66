@@ -10,6 +10,8 @@ latitude: 49.8209
 loc_type: city
 longitude: 18.2625
 score: 0.37
+snippet: Czech industrial city of coal and steel heritage, now anchored by the Lower
+  Vitkovice cultural complex.
 title: Ostrava
 type: location
 ---

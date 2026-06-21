@@ -12,6 +12,8 @@ latitude: -7.2655
 loc_type: city
 longitude: 110.4017
 score: 0.35
+snippet: Central Java town remembered for the Battle of Ambarawa and its heritage
+  railway museum.
 title: Ambarawa
 type: location
 ---

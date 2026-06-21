@@ -10,6 +10,8 @@ latitude: 51.262826
 loc_type: city
 longitude: -1.086198
 score: 0.25
+snippet: Hampshire town near London, mostly rebuilt after the 1960s and useful for
+  countryside day trips.
 title: Basingstoke
 type: location
 ---

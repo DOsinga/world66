@@ -10,7 +10,6 @@ Use **5 agents** per batch, dividing the batch roughly equally between them.
 
 Derive the city/country from the file path:
 - `content/europe/france/paris/le_louvre.md` → Paris, France
-- `content/northamerica/usa/new_york/brooklyn/dumbo_arts_center.md` → Brooklyn / New York, USA
 
 The POI's `title` field is the name you'll look up.
 

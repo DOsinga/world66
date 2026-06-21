@@ -4,6 +4,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Prati_-_piazza_Cavour,_chiesa_Valdese_00571-2.JPG
 latitude: 41.9058
 longitude: 12.4618
+snippet: Bourgeois boulevard district by the Vatican, with Via Cola di Rienzo's shopping and Mercato Trionfale
 tags:
 - things_to_do
 - neighbourhood

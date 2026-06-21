@@ -1,21 +1,23 @@
 ---
+latitude: 23.15
+longitude: -82.3544
+score: 8.9
+story: 'The lighthouse on the Morro — added in 1844, replacing an earlier structure
+  — is still operational. It is one of the few working lighthouses on the Cuban coast
+  and has guided ships into Havana harbour for nearly two centuries. The cannon ceremony
+  (Cañonazo) takes place at the Fortaleza de San Carlos de la Cabaña next door at
+  9pm each night: soldiers in 18th-century costume fire a cannon to commemorate the
+  closing of the city gates, a ritual continued since colonial times with a gap only
+  during the revolutionary transition.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+- habana_del_este
 title: Castillo de los Tres Reyes del Morro
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-latitude: 23.1500
-longitude: -82.3544
-story: >
-  The lighthouse on the Morro — added in 1844, replacing an earlier structure —
-  is still operational. It is one of the few working lighthouses on the Cuban
-  coast and has guided ships into Havana harbour for nearly two centuries. The
-  cannon ceremony (Cañonazo) takes place at the Fortaleza de San Carlos de la
-  Cabaña next door at 9pm each night: soldiers in 18th-century costume fire a
-  cannon to commemorate the closing of the city gates, a ritual continued since
-  colonial times with a gap only during the revolutionary transition.
-score: 8.9
 ---
 
 El Morro Castle, completed in 1589 at the entrance of Havana Bay, is the fortress that defined Havana's defensive geography for three centuries — a dramatic promontory fortification with a lighthouse, thick walls, and views across the bay entrance that make clear why Spanish engineers chose this site. Together with the Fortaleza de San Carlos de la Cabaña on the same headland, it forms the largest colonial military complex in the Americas.

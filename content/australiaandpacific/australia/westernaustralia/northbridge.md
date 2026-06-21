@@ -12,6 +12,8 @@ longitude: 115.8575
 title: Northbridge
 type: location
 score: 0.33
+snippet: Inner Perth neighbourhood known for restaurants, nightlife, live music, and
+  its Chinatown district.
 ---
 
 Northbridge is the inner-city entertainment and dining hub of Perth, immediately north of the city centre across the railway lines. It is where Perth goes at night — the neighbourhood holds the highest concentration of restaurants, bars, clubs, and live music venues in the city. The main drag is William Street and the streets radiating off it, lined with everything from Vietnamese and Italian restaurants to craft beer bars and late-night clubs. The [Chinatown](/australiaandpacific/australia/westernaustralia/northbridge/chinatown_perth) district around James Street is the best place in the city for cheap, late-night Southeast Asian food.

@@ -13,6 +13,8 @@ sources:
 title: Yichun
 type: location
 score: 0.29
+snippet: Mountainous Jiangxi prefecture known for forested landscapes, rivers, hot
+  springs, and Mingyue Mountain.
 ---
 
 Yichun is a mountainous prefecture in northwestern Jiangxi whose name translates as "pleasant spring" — an accurate description for about three months of the year and an aspirational one for the rest. The city itself is modest, but the surrounding landscape is densely forested and crossed by rivers, and [Mingyue Mountain](/asia/china/jiangxi/yichun/mingyue_mountain) to the southwest is the kind of national forest park that rewards visitors who arrive without inflated expectations. The mountain's crescent shape, visible from certain angles on the approach road, gave it its name.

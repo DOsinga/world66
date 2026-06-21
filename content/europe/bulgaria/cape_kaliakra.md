@@ -9,6 +9,8 @@ latitude: 43.3604
 loc_type: city
 longitude: 28.4652
 score: 0.44
+snippet: Black Sea headland southeast of Kavarna, marked by red-brown cliffs and steppe
+  grassland
 title: Cape Kaliakra
 type: location
 ---

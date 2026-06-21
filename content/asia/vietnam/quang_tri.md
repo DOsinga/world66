@@ -10,6 +10,8 @@ latitude: 16.7403
 loc_type: city
 longitude: 107.1854
 score: 0.31
+snippet: Vietnamese province astride the former Demilitarized Zone, with tunnels,
+  cemeteries, and wartime sites
 title: Quang Tri
 type: location
 ---

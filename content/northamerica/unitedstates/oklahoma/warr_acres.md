@@ -6,6 +6,8 @@ latitude: 35.522557
 loc_type: city
 longitude: -97.618935
 score: 0.19
+snippet: Small Oklahoma City suburb along Route 66, incorporated as its own residential
+  community
 title: Warr Acres
 type: location
 ---

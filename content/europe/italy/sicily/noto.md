@@ -9,6 +9,8 @@ latitude: 36.8909
 loc_type: city
 longitude: 15.0706
 score: 0.57
+snippet: Sicilian Baroque town rebuilt after the 1693 earthquake in honey-coloured
+  limestone
 title: Noto
 type: location
 ---

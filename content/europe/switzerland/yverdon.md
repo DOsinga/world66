@@ -12,6 +12,7 @@ longitude: 6.640916
 score: 0.41
 title: Yverdon
 type: location
+snippet: Swiss spa town on Lake Neuchâtel, known for thermal springs and a Savoy castle.
 ---
 
 Yverdon-les-Bains sits at the southern tip of Lake Neuchâtel, a small city that has been a spa town since Roman times. The thermal baths are still the main draw — the [Centre Thermal](/europe/switzerland/yverdon/centre_thermal) is fed by sulphurous springs at 29°C — but Yverdon has more to offer than hot water.

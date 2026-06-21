@@ -1,9 +1,11 @@
 ---
+latitude: 43.72
+loc_type: region
+longitude: 11.0
+snippet: Southwestern Florentine district along the Arno and Elsa valleys, including
+  Vinci, Leonardo da Vinci's birthplace
 title: Empolese Valdelsa
 type: location
-loc_type: region
-latitude: 43.72
-longitude: 11.0
 ---
 
 The Empolese Valdelsa is the southwestern corner of the Florentine province, running along the Arno valley and the Elsa tributary toward Siena. It is not the most famous part of Tuscany — it lacks the concentrated tourist infrastructure of Chianti or the Valdichiana — but it has a quiet character that rewards travelers who take time to explore it. The towns are genuinely Tuscan rather than tourist-managed, the landscape is excellent, and there are real historical claims to anyone's attention.

@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: foshan.jpg
+image_attribution: Xiquinho Silva
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Foshan_Ancestral_Temple_39569-Foshan_(49043194642).jpg
 latitude: 23.0292
 loc_type: city
 longitude: 113.1056
+score: 0.31
+snippet: Pearl River city historically known for ceramics, metalwork, textiles, and
+  the long-running Shiwan kilns
 sources:
 - https://en.wikivoyage.org/wiki/Foshan
 title: Foshan
 type: location
-image: foshan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Foshan_Ancestral_Temple_39569-Foshan_(49043194642).jpg
-image_license: CC BY 2.0
-image_attribution: Xiquinho Silva
-score: 0.31
 ---
 
 Foshan and Guangzhou have been effectively the same city for most of their history, connected by the Pearl River and sharing a commercial and cultural culture that predates any administrative boundary. Foshan was one of the Four Great Towns of Ming-dynasty China — a manufacturing centre for ceramics, metalwork, and textiles that supplied the empire — and the Shiwan district's kilns have been burning continuously for over a thousand years. The ceramics tradition is still alive: [Nanfeng Kiln](/asia/china/guangdong/foshan/nanfeng_kiln), which has operated since the early sixteenth century, is now a working museum where you can watch potters throw and fire in the old kilns, and the surrounding Shiwan Ceramics Street is full of studios and galleries at every price point.

@@ -11,6 +11,8 @@ latitude: 38.1113
 loc_type: city
 longitude: 13.3524
 score: 0.63
+snippet: Sicily's largest city, set in the Conca d'Oro with a layered Arab-Norman
+  architectural inheritance
 title: Palermo
 type: location
 ---

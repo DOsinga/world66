@@ -6,6 +6,8 @@ latitude: 26.0195
 loc_type: city
 longitude: -80.1221
 score: 0.45
+snippet: Florida barrier island community known for its beach and 2.5-mile oceanfront
+  Broadwalk
 title: Hollywood Beach
 type: location
 ---

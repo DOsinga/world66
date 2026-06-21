@@ -10,6 +10,8 @@ latitude: -6.179118
 loc_type: city
 longitude: 35.746817
 score: 0.3
+snippet: Tanzania's official capital on a dry central plateau surrounded by rocky
+  hills and vineyards
 title: Dodoma
 type: location
 ---

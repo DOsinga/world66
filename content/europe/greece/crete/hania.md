@@ -9,6 +9,8 @@ latitude: 35.5121
 loc_type: city
 longitude: 24.0192
 score: 0.66
+snippet: Cretan harbour city known for its Venetian old town, Jewish quarter, Turkish
+  quarter, and waterfront lighthouse
 title: Hania
 type: location
 ---

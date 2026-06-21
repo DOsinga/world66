@@ -10,6 +10,8 @@ latitude: 33.564733
 loc_type: city
 longitude: 35.374978
 score: 0.43
+snippet: Ancient Phoenician coastal city south of Beirut, with an old town and sea
+  castle
 sources:
 - https://en.wikipedia.org/wiki/Sidon
 - https://en.wikipedia.org/wiki/Sidon_Sea_Castle

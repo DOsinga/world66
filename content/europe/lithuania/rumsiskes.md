@@ -11,6 +11,8 @@ latitude: 54.867
 loc_type: city
 longitude: 24.219
 score: 0.37
+snippet: Small town by Kaunas Reservoir, home to Lithuania's large open-air ethnographic
+  museum
 title: Rumsiskes
 type: location
 ---

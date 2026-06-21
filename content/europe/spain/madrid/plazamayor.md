@@ -1,13 +1,14 @@
 ---
 latitude: 40.4155
 longitude: -3.7074
+score: 7.5
 snippet: Grand arcaded square at the heart of old Madrid
 tags:
 - things_to_do
 - landmark
+- sol
 title: Plaza Mayor
 type: poi
-score: 7.5
 ---
 
 Madrid's grand central square dates to the early 17th century, when Juan Gómez de Mora gave shape to Felipe II's vision of a unified royal plaza. For centuries this was where Madrid staged its biggest spectacles — royal proclamations, bullfights, markets, and the grim autos-da-fé of the Inquisition. Three major fires led to successive rebuildings; the uniform neoclassical facades you see today are largely the work of Juan de Villanueva in the 1790s.

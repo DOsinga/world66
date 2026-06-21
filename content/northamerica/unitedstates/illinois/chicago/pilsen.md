@@ -2,6 +2,8 @@
 latitude: 41.8554
 longitude: -87.6658
 snippet: Chicago's Mexican neighbourhood, dense with murals, taquerias, and galleries
+sources:
+- https://en.wikipedia.org/wiki/Pilsen,_Chicago
 tags:
 - things_to_do
 - neighbourhood

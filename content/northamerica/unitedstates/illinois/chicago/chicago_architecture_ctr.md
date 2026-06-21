@@ -5,9 +5,12 @@ longitude: -87.6257
 opening_hours: 9:00 AM - 6:00 PM daily
 phone: 312-922-3432
 snippet: The best starting point for understanding Chicago's extraordinary built environment
+sources:
+- https://en.wikipedia.org/wiki/Chicago_Architecture_Center
 tags:
 - things_to_do
 - architecture
+- the_loop
 title: Chicago Architecture Center
 type: poi
 url: www.architecture.org

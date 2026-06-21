@@ -1,16 +1,17 @@
 ---
-title: Palacio de Liria
-type: poi
 address: Calle de la Princesa 20, Madrid
 latitude: 40.42728
-longitude: -3.71350
+longitude: -3.7135
 phone: 91 54 75 302
+score: 8.2
 snippet: House of Alba's private palace with a remarkable art collection
 tags:
 - things_to_do
 - landmark
 - art
-score: 8.2
+- arguelles
+title: Palacio de Liria
+type: poi
 ---
 
 The Palacio de Liria is the Madrid residence of the House of Alba, one of Spain's oldest and most titled noble families. The 18th-century neoclassical palace was badly damaged during the Civil War and painstakingly rebuilt in the 1950s. It opened to the public in 2019, and the guided tours reveal a staggering private art collection.

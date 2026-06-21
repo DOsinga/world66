@@ -8,6 +8,7 @@ snippet: World-class aquarium on the Lake Michigan waterfront
 tags:
 - things_to_do
 - sight
+- south_loop
 title: Shedd Aquarium
 type: poi
 url: www.sheddaquarium.org

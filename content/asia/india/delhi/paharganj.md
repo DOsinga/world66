@@ -1,12 +1,9 @@
 ---
-title: "Paharganj"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 28.6435
 longitude: 77.2103
 score: 6.3
+title: Paharganj
+type: poi
 ---
 
 Paharganj — Delhi's Main Bazaar neighbourhood — is the first thing most budget travellers see after arriving at New Delhi Railway Station. It is chaotic, loud, and relentlessly commercial: guesthouses stack up on top of each other above a street packed with travel agents, money changers, restaurants, and shops selling everything a traveller might want to buy or have fixed. It is nobody's idea of beautiful, but it has an undeniable energy.

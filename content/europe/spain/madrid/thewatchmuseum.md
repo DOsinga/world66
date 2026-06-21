@@ -8,6 +8,7 @@ snippet: Small collection of antique clocks and watches
 tags:
 - things_to_do
 - museum
+- huertas
 title: The Watch Museum
 type: poi
 score: 5.4

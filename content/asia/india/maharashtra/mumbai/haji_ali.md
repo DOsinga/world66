@@ -7,6 +7,7 @@ snippet: Island mosque reached by a causeway that floods at high tide
 tags:
 - things_to_do
 - sight
+- worli
 title: Haji Ali Dargah
 type: poi
 score: 8.1

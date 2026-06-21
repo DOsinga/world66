@@ -1,13 +1,17 @@
 ---
-title: "Museo Reina Sofía"
-type: poi
-latitude: 40.4080
+latitude: 40.408
 longitude: -3.6946
-tags:
-  - things_to_do
-  - museum
-story: "Picasso painted Guernica in just a few weeks in 1937 for the Spanish Pavilion at the Paris World's Fair, in response to the Nazi bombing of the Basque town. He stipulated that it could not return to Spain until democracy was restored — and it did not arrive in Madrid until 1981, six years after Franco's death."
 score: 9.4
+story: Picasso painted Guernica in just a few weeks in 1937 for the Spanish Pavilion
+  at the Paris World's Fair, in response to the Nazi bombing of the Basque town. He
+  stipulated that it could not return to Spain until democracy was restored — and
+  it did not arrive in Madrid until 1981, six years after Franco's death.
+tags:
+- things_to_do
+- museum
+- lavapies
+title: Reina Sofía
+type: poi
 ---
 
 The third corner of Madrid's Golden Triangle of Art and the home of Spain's national collection of 20th-century painting. The centrepiece is Picasso's **Guernica** — the vast black-and-white canvas painted in response to the 1937 bombing of the Basque town, still arguably the most powerful anti-war painting ever made. The museum's other strengths are Dalí, Miró, Juan Gris, and the post-Civil War generation of Spanish abstract painters.

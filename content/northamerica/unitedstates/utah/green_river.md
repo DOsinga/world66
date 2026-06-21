@@ -10,6 +10,8 @@ latitude: 38.9955
 loc_type: city
 longitude: -110.1627
 score: 0.33
+snippet: Eastern Utah desert town on I-70, launching Green River canyon trips and
+  celebrating melon country.
 title: Green River
 type: location
 ---

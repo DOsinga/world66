@@ -9,6 +9,8 @@ latitude: -5.4221
 loc_type: city
 longitude: -79.5174
 score: 0.38
+snippet: Remote northern Peruvian mountain town known for curanderos, sacred lakes,
+  and the rough road from Piura.
 title: Huancabamba
 type: location
 ---

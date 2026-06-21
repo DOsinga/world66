@@ -9,6 +9,8 @@ latitude: 9.628738
 loc_type: city
 longitude: 76.645533
 score: 0.38
+snippet: Kerala town between backwaters and hills, known for lakes, latex, letters,
+  and routes to Kumarakom.
 title: Kottayam
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 53.295327
 loc_type: city
 longitude: -3.726253
 score: 0.34
+snippet: Victorian seaside resort on the north Welsh coast, with a long promenade
+  between Llandudno and Conwy.
 title: Colwyn Bay
 type: location
 ---

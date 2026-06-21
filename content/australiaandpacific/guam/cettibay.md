@@ -10,6 +10,8 @@ latitude: 13.316026
 loc_type: city
 longitude: 144.653616
 score: 0.39
+snippet: Rugged Guam bay on the southwest coast, framed by forested hills, reef, and
+  Chamorro sacred sites.
 title: Cetti Bay
 type: location
 ---

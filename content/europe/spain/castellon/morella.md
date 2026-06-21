@@ -10,6 +10,8 @@ latitude: 40.618828
 loc_type: city
 longitude: -0.099803
 score: 0.49
+snippet: Walled Valencian hill town in Els Ports, crowned by a castle above a compact
+  medieval core.
 title: Morella
 type: location
 ---

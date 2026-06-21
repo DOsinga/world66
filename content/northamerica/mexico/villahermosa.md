@@ -9,6 +9,8 @@ latitude: 17.988466
 loc_type: city
 longitude: -92.936633
 score: 0.36
+snippet: Tabasco capital in Mexico's humid lowlands, with Olmec stone heads displayed
+  at Parque-Museo La Venta.
 sources:
 - https://en.wikipedia.org/wiki/Villahermosa
 title: Villahermosa

@@ -6,6 +6,8 @@ latitude: 9.537
 loc_type: city
 longitude: 138.129
 score: 0.46
+snippet: Micronesian island of stone money banks, village dance traditions, mangroves,
+  and living customary culture.
 title: Yap
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 43.7444
 loc_type: city
 longitude: 4.7952
 score: 0.57
+snippet: Fortified Provençal village on a limestone ridge, crowned by castle ruins
+  above the olive groves of Les Alpilles.
 title: Les Baux-de-Provence
 type: location
 ---

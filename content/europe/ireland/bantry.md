@@ -10,6 +10,8 @@ latitude: 51.67977
 loc_type: city
 longitude: -9.45236
 score: 0.45
+snippet: West Cork harbour town at Bantry Bay, framed by the Beara and Sheep's Head
+  peninsulas.
 title: Bantry
 type: location
 ---

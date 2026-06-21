@@ -9,6 +9,8 @@ latitude: 14.459603
 loc_type: city
 longitude: 120.959817
 score: 0.26
+snippet: Cavite commuter city on Manila's edge, with roots in the Philippine Revolution
+  and the Battle of Zapote Bridge.
 title: Bacoor
 type: location
 ---

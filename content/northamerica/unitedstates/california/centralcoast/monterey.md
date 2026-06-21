@@ -10,6 +10,8 @@ latitude: 36.6002
 loc_type: city
 longitude: -121.8947
 score: 0.59
+snippet: Central California coastal town where Spanish-colonial adobes and Cannery
+  Row frame Monterey Bay's marine life.
 title: Monterey
 type: location
 ---

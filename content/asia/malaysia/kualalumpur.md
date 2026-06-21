@@ -5,9 +5,9 @@ done:
   location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
 image: kualalumpur.jpg
-image_attribution: GerifalteDelSabana
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Butorides_striata_javanica_@_Kuala_Lumpur,_Malaysia_(1).jpg
+image_attribution: James Kerwin from Tbilisi
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237

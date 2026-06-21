@@ -6,7 +6,7 @@ longitude: 6.1781
 tags:
   - things_to_do
   - museum
-score: 8.7
+score: 8.3
 ---
 
 The municipal museum of Metz is housed in a labyrinthine complex of old monastic buildings, including a 17th-century Carmelite convent and the medieval Cour d'Or — the courtyard of a Carolingian royal palace. The collection spans the city's Roman, medieval, and Renaissance history, with strong holdings of Gallo-Roman archaeology, medieval sculpture, and fine art.

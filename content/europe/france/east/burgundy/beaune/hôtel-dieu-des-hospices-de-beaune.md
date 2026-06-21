@@ -2,7 +2,7 @@
 category: Landmark
 latitude: 47.0201
 longitude: 5.0194
-score: 9.5
+score: 9.1
 title: Hôtel-Dieu des Hospices de Beaune
 type: poi
 ---

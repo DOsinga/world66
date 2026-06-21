@@ -4,7 +4,7 @@ image_url: https://upload.wikimedia.org/wikipedia/commons/6/66/Metz_Mus%C3%A9e_d
 image_license: CC BY-SA 3.0
 latitude: 49.1160
 longitude: 6.1705
-score: 8.1
+score: 8.3
 title: Musée de La Cour d'Or
 type: poi
 ---

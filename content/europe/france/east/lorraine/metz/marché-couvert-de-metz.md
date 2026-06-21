@@ -4,7 +4,7 @@ image_url: https://upload.wikimedia.org/wikipedia/commons/b/b2/March%C3%A9_couve
 image_license: CC0
 latitude: 49.1213
 longitude: 6.1785
-score: 7.1
+score: 7.2
 title: Marché Couvert de Metz
 type: poi
 ---

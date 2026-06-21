@@ -1,7 +1,7 @@
 ---
 latitude: 47.0219
 longitude: 4.8367
-score: 9.4
+score: 9.1
 story: 'The Hospices was founded in 1443 by Nicolas Rolin, Chancellor of Burgundy,
   as a hospital for the poor. It operated as a working hospital for over five centuries
   — its last patient left only in 1971. The funding mechanism was revolutionary: donors

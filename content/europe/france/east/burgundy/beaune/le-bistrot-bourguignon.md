@@ -2,7 +2,7 @@
 category: Restaurant
 latitude: 47.0208
 longitude: 5.0185
-score: 6.0
+score: 6.8
 title: Le Bistrot Bourguignon
 type: poi
 ---

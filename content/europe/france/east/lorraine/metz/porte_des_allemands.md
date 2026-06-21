@@ -7,7 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
-score: 8.3
+score: 7.8
 ---
 
 The "Germans' Gate" is a medieval fortified bridge spanning the Seille on the eastern edge of the old city — two pairs of stone towers connected by an arched walkway, the whole thing built between the 13th and 16th centuries. Despite its name (which actually refers to a nearby hospital run by the Teutonic Knights), the gate is one of the finest surviving examples of medieval military architecture in France.

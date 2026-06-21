@@ -4,7 +4,7 @@ image_url: https://upload.wikimedia.org/wikipedia/commons/a/ae/Metz_Cathedral_00
 image_license: CC BY-SA 3.0
 latitude: 49.1196
 longitude: 6.1757
-score: 9.3
+score: 9.1
 title: Cathédrale Saint-Étienne de Metz
 type: poi
 ---

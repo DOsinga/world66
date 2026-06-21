@@ -2,7 +2,7 @@
 category: Park
 latitude: 47.0196
 longitude: 5.0168
-score: 7.4
+score: 7.1
 title: Remparts de Beaune
 type: poi
 ---

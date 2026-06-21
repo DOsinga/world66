@@ -10,6 +10,8 @@ latitude: 40.360071
 loc_type: city
 longitude: -80.615103
 score: 0.24
+snippet: Ohio River city known for downtown history murals and a layered industrial
+  borderland past.
 title: Steubenville
 type: location
 ---

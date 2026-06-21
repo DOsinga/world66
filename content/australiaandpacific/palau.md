@@ -1,22 +1,24 @@
 ---
-title: Palau
-type: location
-latitude: 5.378354
-longitude: 132.910257
-image: palau.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Europa_in_Palau.jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:CHK46" class="mw-redirect"
-  title="User:CHK46">CHK46</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "18,000"
-  Currency: US Dollar
-  Rock Islands: "300+ mushroom-shaped limestone islets"
-  Marine Protected Area: "80% of its ocean territory"
-score: 0.59
+image: palau.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:CHK46" class="mw-redirect"
+  title="User:CHK46">CHK46</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Europa_in_Palau.jpg
+latitude: 5.378354
 loc_type: country
+longitude: 132.910257
+quick_facts:
+  Currency: US Dollar
+  Marine Protected Area: 80% of its ocean territory
+  Population: 18,000
+  Rock Islands: 300+ mushroom-shaped limestone islets
+score: 0.59
+snippet: Western Micronesian archipelago where Rock Islands sit amid coral lagoons
+  and Palauan village culture.
+title: Palau
+type: location
 ---
 
 Palau is Micronesia's westernmost island chain and is located roughly speaking between [Indonesia](/asia/indonesia) and the [Philippines](/asia/philippines) . The islands offer great natural beauty, untouched wilderness, intact culture and remoteness; the ideal ingredients for a relaxing holiday. Besides the beaches, the relaxing lifestyle and the diving, the main natural attraction are the Rock islands . This collection of mushroom-shaped islets are largely uninhabited and are located in a large lagoon that harbors one of the world's greatest concentrations of corals, fish and other marine life. 

@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Upper_
 latitude: 50.15
 loc_type: region
 longitude: 7.65
+snippet: Romantic Rhine gorge between Bingen and Koblenz, crowded with castles, vineyards,
+  and slate cliffs.
 sources:
 - https://en.wikipedia.org/wiki/Middle_Rhine
 - https://en.wikipedia.org/wiki/Upper_Middle_Rhine_Valley

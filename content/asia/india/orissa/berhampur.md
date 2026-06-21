@@ -10,6 +10,8 @@ latitude: 19.315
 loc_type: city
 longitude: 84.7941
 score: 0.26
+snippet: Southern Odisha commercial city known for Berhampuri Patta silk and the Thakurani
+  Yatra.
 title: Berhampur
 type: location
 ---

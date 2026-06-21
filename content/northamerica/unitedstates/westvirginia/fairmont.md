@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-13'
 latitude: 39.484898
+loc_type: city
 longitude: -80.142654
+score: 0.26
+snippet: North-central West Virginia river city known for Italian-American pepperoni
+  rolls and frontier history.
 title: Fairmont
 type: location
-score: 0.26
-loc_type: city
 ---
 
 Fairmont sits at the confluence of the Monongahela, Tygart Valley, and West Fork rivers in the rolling hills of north-central West Virginia. It is the county seat of Marion County and a small, pleasant town of about 20,000 people with an outsized contribution to American food history.

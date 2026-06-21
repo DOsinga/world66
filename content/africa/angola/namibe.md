@@ -6,6 +6,8 @@ latitude: -15.266934
 loc_type: city
 longitude: 12.706456
 score: 0.28
+snippet: Angolan Atlantic port where desert, sea, and colonial architecture meet below
+  the Serra da Leba.
 title: Namibe
 type: location
 ---

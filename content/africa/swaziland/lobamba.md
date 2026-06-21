@@ -3,16 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-17'
+image: lobamba.jpg
+image_attribution: Bernard Gagnon
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Parliament_building_of_Eswatini,_Lobamba.jpg
 latitude: -26.4463
 loc_type: city
 longitude: 31.2084
 score: 0.37
+snippet: Traditional Eswatini capital where parliament, royal ceremonies, and national
+  memory share the Ezulwini Valley.
 title: Lobamba
 type: location
-image: lobamba.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Parliament_building_of_Eswatini,_Lobamba.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Bernard Gagnon
 ---
 
 Lobamba is the traditional and legislative capital of Eswatini, sitting at the southern end of the [Ezulwini Valley](/africa/swaziland/ezulwinivalley) about 15 km from [Mbabane](/africa/swaziland/mbabane). While Mbabane handles day-to-day administration, Lobamba is where the kingdom's identity is kept: Parliament convenes here, the royal family holds court nearby at the [Ludzidzini Royal Village](/africa/swaziland/lobamba/ludzidzini_royal_village), and the great ceremonies of the Swazi year take place on this ground.

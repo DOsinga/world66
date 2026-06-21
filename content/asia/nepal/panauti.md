@@ -10,6 +10,8 @@ latitude: 27.580735
 loc_type: city
 longitude: 85.522857
 score: 0.43
+snippet: Newar temple town southeast of Kathmandu, clustered around sacred river confluences
+  and carved medieval woodwork.
 sources:
 - https://en.wikipedia.org/wiki/Panauti
 title: Panauti

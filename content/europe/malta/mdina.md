@@ -9,6 +9,8 @@ latitude: 35.885892
 loc_type: city
 longitude: 14.402529
 score: 0.59
+snippet: Fortified Maltese hilltop city whose silent limestone lanes preserve the
+  island's old capital.
 title: Mdina
 type: location
 ---

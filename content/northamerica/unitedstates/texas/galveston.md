@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Ashton_Villa_-_Galveston.j
 latitude: 29.3012
 loc_type: city
 longitude: -94.7977
+score: 0.43
+snippet: Gulf Coast barrier-island city with Victorian architecture, seawall beaches,
+  and 1900 hurricane memory.
 sources:
 - https://en.wikipedia.org/wiki/Galveston,_Texas
 - https://en.wikivoyage.org/wiki/Galveston
 title: Galveston
 type: location
-score: 0.43
 ---
 
 Galveston sits on a barrier island in the Gulf of Mexico, 50 miles southeast of Houston, and it wears its complicated history openly. In 1900, a hurricane — still the deadliest natural disaster in American history, killing an estimated 6,000 to 12,000 people — flattened much of the city. What was rebuilt on top of a raised seawall became a remarkably intact Victorian townscape, and today Galveston has one of the finest concentrations of 19th-century architecture in the American South.

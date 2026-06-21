@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-14'
 latitude: 51.0205
+loc_type: feature
 longitude: 100.4786
+score: 0.51
+snippet: Deep alpine lake in northern Mongolia, holding much of the country's fresh
+  water near Siberia.
 title: Lake Khovsgol
 type: location
-loc_type: feature
-score: 0.51
 ---
 
 Lake Khovsgol is one of Mongolia's great natural treasures — a vast, deep alpine lake in the far north of the country near the Russian border, holding roughly 70 percent of Mongolia's fresh water and about two percent of the world's surface fresh water. The lake is 136 km long and up to 262 metres deep, set in a landscape of forested mountains that feels closer to Siberia than to the Mongolian steppe. It is known locally as the "Dark Blue Pearl."

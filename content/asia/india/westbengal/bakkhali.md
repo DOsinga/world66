@@ -5,6 +5,8 @@ latitude: 21.560769
 loc_type: city
 longitude: 88.267317
 score: 0.31
+snippet: Remote Bengali beach resort near the Sundarbans, reached by ferry and edged
+  by delta islands.
 title: Bakkhali
 type: location
 ---

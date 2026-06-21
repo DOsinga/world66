@@ -10,6 +10,8 @@ latitude: 9.6671
 loc_type: city
 longitude: 118.5347
 score: 0.77
+snippet: Long Philippine island whose limestone lagoons and Coron wrecks anchor the
+  country's frontier coast.
 title: Palawan Island
 type: location
 ---

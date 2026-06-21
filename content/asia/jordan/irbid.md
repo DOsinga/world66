@@ -1,17 +1,19 @@
 ---
-title: Irbid
-type: location
-latitude: 32.555
-longitude: 35.85
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-29'
-score: 0.31
-loc_type: city
 image: irbid.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_old_Irbid_city.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Sana Janakat
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_old_Irbid_city.jpg
+latitude: 32.555
+loc_type: city
+longitude: 35.85
+score: 0.31
+snippet: Northern Jordanian university city and practical base for Decapolis ruins
+  around Umm Qais and Pella.
+title: Irbid
+type: location
 ---
 
 Irbid is Jordan's second city, sitting on the fertile plateau of the north about 80 km from Amman and a short drive from the Syrian border. Ancient Arabella of the Decapolis, it has been a wheat- and olive-growing town for thousands of years, though what you see today is unapologetically modern — a busy university city of around half a million people, cheerful, crowded, and largely built in the last fifty years.

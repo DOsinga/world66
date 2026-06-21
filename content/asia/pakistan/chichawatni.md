@@ -10,6 +10,8 @@ latitude: 30.531691
 loc_type: city
 longitude: 72.691405
 score: 0.17
+snippet: Punjabi market town beside irrigated fields and forest plantations on the
+  Lahore-Multan road.
 title: Chichawatni
 type: location
 ---

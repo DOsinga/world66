@@ -2,6 +2,8 @@
 latitude: 3.1528
 longitude: 101.7025
 score: 7.9
+snippet: Canopy walkway through a protected patch of original rainforest at Bukit
+  Nanas in the city centre
 tags:
 - things_to_do
 - sight

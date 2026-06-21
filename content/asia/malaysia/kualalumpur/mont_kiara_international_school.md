@@ -1,14 +1,15 @@
 ---
-title: Mont'Kiara International School
-type: poi
 latitude: 3.1711
 longitude: 101.6526
+score: 5.5
+snippet: International school campus anchoring Mont Kiara — a major draw for KL's
+  large expatriate community
 tags:
 - things_to_do
 - mont_kiara
 - sight
-score: 5.5
-snippet: International school anchoring one of KL's most cosmopolitan residential enclaves
+title: Mont'Kiara International School
+type: poi
 ---
 
 Mont'Kiara International School (MKIS) is one of several international schools clustered in the neighbourhood — alongside Garden International School and the French School of Kuala Lumpur — that make Mont Kiara KL's most family-oriented expat district. The concentration of international schools within a small area explains much of the neighbourhood's character: the restaurants, cafés, and retail around them cater to a transient, internationally minded population with a higher-than-average food standard.

@@ -1,14 +1,15 @@
 ---
-title: Kak Som Nasi Kerabu
-type: poi
 latitude: 3.1628
 longitude: 101.7048
+score: 8.0
+snippet: Late-night Kampung Baru stall famous for blue-dyed nasi kerabu with coconut,
+  herbs, and rice crackers
 tags:
 - eating_out
 - kampungbaru
 - restaurant
-score: 8.0
-snippet: Blue-rice nasi kerabu from a beloved Kampung Baru late-night institution
+title: Kak Som Nasi Kerabu
+type: poi
 ---
 
 Kak Som is one of Kampung Baru's most beloved food stalls — a family-run operation on Jalan Raja Muda Musa serving nasi kerabu, the distinctive blue rice (coloured with butterfly pea flower) that's a Kelantanese speciality. The rice is served with shredded coconut, pickled vegetables, fish crackers, and a choice of protein (grilled fish, chicken), the whole dish assembled at the stall and eaten at simple tables nearby.

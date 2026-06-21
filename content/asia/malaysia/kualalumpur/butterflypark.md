@@ -2,6 +2,8 @@
 latitude: 3.1457
 longitude: 101.6889
 score: 6.1
+snippet: Walk-in garden housing over 120 butterfly species inside the Lake Gardens,
+  with a small insect museum
 tags:
 - things_to_do
 - sight

@@ -1,14 +1,15 @@
 ---
-title: Jalan Bangkung
-type: poi
 latitude: 3.1265
-longitude: 101.6790
+longitude: 101.679
+score: 7.5
+snippet: Bangsar's quieter back lane of independent cafés, Japanese restaurants, and
+  leafy weekend brunch spots
 tags:
 - eating_out
 - bangsar
 - restaurant
-score: 7.5
-snippet: Bangsar's quieter restaurant lane with independent cafés and international dining
+title: Jalan Bangkung
+type: poi
 ---
 
 Jalan Bangkung is one of Bangsar's best-kept secrets — a quieter residential street a few blocks south of the main Telawi strip, lined with independent restaurants, cafés, and bars that attract a local crowd rather than the expat-heavy Telawi scene. The mix includes some of KL's better Italian restaurants, several specialty coffee shops, and a Malaysian fine-dining spot or two. The atmosphere is more intimate and less commercial than the busier streets nearby.

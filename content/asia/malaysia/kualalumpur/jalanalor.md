@@ -2,6 +2,8 @@
 latitude: 3.1469
 longitude: 101.7099
 score: 7.5
+snippet: Bukit Bintang's famous hawker street serving Chinese seafood, satay, and
+  fresh fruit juice each evening
 tags:
 - eating_out
 - restaurant

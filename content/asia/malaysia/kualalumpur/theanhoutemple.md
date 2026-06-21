@@ -2,7 +2,8 @@
 latitude: 3.121843
 longitude: 101.687645
 score: 8.1
-snippet: Ornate six-tiered Chinese temple with city skyline views
+snippet: Ornate six-tiered Chinese temple in Seputeh dedicated to multiple deities,
+  with sweeping Kuala Lumpur skyline views
 tags:
 - things_to_do
 - sight

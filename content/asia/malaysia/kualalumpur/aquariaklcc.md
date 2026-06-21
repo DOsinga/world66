@@ -2,6 +2,8 @@
 latitude: 3.1534
 longitude: 101.7131
 score: 6.8
+snippet: Oceanarium beneath the KLCC Convention Centre with sharks, rays, sawfish,
+  and a glass walk-through tunnel
 tags:
 - things_to_do
 - sight

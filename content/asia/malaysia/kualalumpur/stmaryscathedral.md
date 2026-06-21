@@ -2,6 +2,8 @@
 latitude: 3.1504
 longitude: 101.6933
 score: 6.8
+snippet: KL's oldest Anglican church, built in 1894 with English Gothic architecture
+  and original 1898 stained glass
 tags:
 - things_to_do
 - sight

@@ -1,14 +1,15 @@
 ---
-title: Roti Canai at Brickfields
-type: poi
 latitude: 3.1292
 longitude: 101.6865
+score: 7.5
+snippet: Early-morning mamak stalls in Brickfields with flaky roti canai, pulled teh
+  tarik, and curry dipping sauces
 tags:
 - eating_out
 - brickfields
 - restaurant
-score: 7.5
-snippet: Early-morning mamak stalls with flaky roti canai and pulled teh tarik
+title: Roti Canai at Brickfields
+type: poi
 ---
 
 The mamak breakfast stalls around Jalan Tun Sambanthan in Brickfields are among the most reliable in KL for the city's most essential morning meal: roti canai (a flaky griddle bread) with dhal, fish curry, or sambal, and a glass of teh tarik (pulled tea with condensed milk). Several stalls open from 6 am, catering to the early-shift workers at KL Sentral, the hospital nearby, and the neighbourhood's permanent residents.

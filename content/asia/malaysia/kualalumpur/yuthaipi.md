@@ -2,6 +2,8 @@
 latitude: 3.1591
 longitude: 101.7011
 score: 7.2
+snippet: Hainanese kopitiam on Dang Wangi serving kaya toast, pork chops, and half-boiled
+  eggs since 1928
 tags:
 - eating_out
 - restaurant

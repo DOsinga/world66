@@ -2,6 +2,8 @@
 latitude: 3.1578
 longitude: 101.7117
 score: 9.2
+snippet: Twin 88-floor towers standing 452 metres — world's tallest buildings from
+  1998 to 2003
 story: The two towers were built by rival contractors — one Japanese, one Korean —
   each given one tower. The Korean team finished second but caught up by laying the
   Skybridge first, technically connecting their tower to the unfinished Japanese one

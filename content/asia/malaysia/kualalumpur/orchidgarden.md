@@ -2,6 +2,8 @@
 latitude: 3.1432
 longitude: 101.6849
 score: 6.3
+snippet: Free Lake Gardens garden displaying over 800 orchid varieties, including
+  rare Malaysian native species
 tags:
 - things_to_do
 - sight

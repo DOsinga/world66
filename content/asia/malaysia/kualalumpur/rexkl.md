@@ -2,6 +2,8 @@
 latitude: 3.1439
 longitude: 101.7
 score: 7.3
+snippet: Restored 1940s cinema in Chinatown, reimagined as a cultural centre with
+  galleries, food, and events
 tags:
 - things_to_do
 - sight

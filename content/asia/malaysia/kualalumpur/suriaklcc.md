@@ -2,8 +2,8 @@
 latitude: 3.1579
 longitude: 101.7117
 score: 6.5
-snippet: The six-storey mall at the base of the Petronas Towers and the main entry
-  point for tower tickets
+snippet: Six-storey mall at the base of the Petronas Towers and the entry point for
+  Skybridge tickets
 tags:
 - shopping
 - klcc

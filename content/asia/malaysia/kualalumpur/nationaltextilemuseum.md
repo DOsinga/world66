@@ -2,6 +2,8 @@
 latitude: 3.1467
 longitude: 101.6941
 score: 6.9
+snippet: Four-floor museum tracing Malaysian textile traditions from prehistoric bark
+  cloth to hand-loomed songket and batik
 tags:
 - things_to_do
 - museum

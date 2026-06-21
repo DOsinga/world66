@@ -2,6 +2,8 @@
 latitude: 3.1419
 longitude: 101.69
 score: 9.0
+snippet: World-class Islamic art collection across 12 galleries in the Lake Gardens,
+  with Quranic manuscripts and calligraphy
 story: The museum's twelve galleries are arranged not by date but by medium — calligraphy,
   ceramics, metalwork, jewellery, textiles — which lets you trace how the same visual
   ideas travelled from Cordoba to Isfahan to Java without being lost in the chronology

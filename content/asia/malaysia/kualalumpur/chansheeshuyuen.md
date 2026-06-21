@@ -2,6 +2,8 @@
 latitude: 3.1416
 longitude: 101.6976
 score: 7.5
+snippet: 1906 Cantonese clan association house with intricately carved granite screens
+  and elaborate ceramic roof sculptures
 tags:
 - things_to_do
 - sight

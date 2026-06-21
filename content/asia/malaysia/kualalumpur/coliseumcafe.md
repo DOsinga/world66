@@ -2,6 +2,8 @@
 latitude: 3.1561
 longitude: 101.696
 score: 7.1
+snippet: Atmospheric 1921 colonial restaurant on Jalan TAR, famous for Hainanese pork
+  chops and sizzling steaks
 story: The Coliseum opened in 1921 above a cinema of the same name and served sizzling
   sirloin steaks on cast-iron platters to British planters, tin-mining magnates, and
   travelling writers — Somerset Maugham among them. The same steak, with the same

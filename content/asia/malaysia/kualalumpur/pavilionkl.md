@@ -2,8 +2,8 @@
 latitude: 3.1492
 longitude: 101.7135
 score: 6.5
-snippet: Premier upscale mall at the heart of Bukit Bintang, with the best luxury
-  and mid-range shopping in KL
+snippet: Flagship Bukit Bintang mall with the widest mix of luxury and mid-range retail
+  in central KL
 tags:
 - shopping
 - bukit_bintang

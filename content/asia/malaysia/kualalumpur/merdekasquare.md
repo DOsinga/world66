@@ -2,7 +2,8 @@
 latitude: 3.1478
 longitude: 101.6953
 score: 8.0
-snippet: Historic square where Malaysia declared independence in 1957
+snippet: Ceremonial square where the Malaysian flag was raised at independence in
+  1957, flanked by colonial-era buildings
 tags:
 - things_to_do
 - landmark

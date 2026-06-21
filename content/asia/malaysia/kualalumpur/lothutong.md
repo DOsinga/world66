@@ -2,6 +2,8 @@
 latitude: 3.1463
 longitude: 101.712
 score: 6.1
+snippet: Basement hawker centre beneath Lot 10 mall, gathering KL's most celebrated
+  heritage hawker stalls
 tags:
 - eating_out
 - restaurant

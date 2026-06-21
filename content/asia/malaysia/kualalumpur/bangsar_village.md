@@ -1,13 +1,14 @@
 ---
-title: Bangsar Village
-type: poi
 latitude: 3.1285
 longitude: 101.6785
+score: 7.0
+snippet: Upscale Bangsar neighbourhood mall with independent boutiques, a bookshop,
+  and popular food outlets
 tags:
 - shopping
 - bangsar
-score: 7.0
-snippet: Upscale neighbourhood mall with boutiques, a bookshop, and good restaurants
+title: Bangsar Village
+type: poi
 ---
 
 Bangsar Village is a compact two-tower mall at the bottom of Telawi Street, the closest thing Bangsar has to a proper retail anchor. The mix skews towards independent boutiques, lifestyle goods, and international homeware — less mainstream chain retail than KLCC or Pavilion. The basement food court is one of the better ones in the city for affordable Malay, Chinese, and Indian dishes. There's a Kinokuniya bookshop, a Cold Storage supermarket, and several good cafés on the upper levels.

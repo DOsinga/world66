@@ -2,6 +2,8 @@
 latitude: 3.1492
 longitude: 101.6928
 score: 6.2
+snippet: Colonial sports club founded in 1884 facing Merdeka Square, once the social
+  heart of British KL
 tags:
 - things_to_do
 - architecture

@@ -2,6 +2,8 @@
 latitude: 3.1489
 longitude: 101.6991
 score: 5.6
+snippet: Interactive museum in a 1984 landmark building tracing Malaysian telecommunications
+  from colonial telegraph to 5G
 tags:
 - things_to_do
 - museum

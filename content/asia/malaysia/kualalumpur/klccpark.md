@@ -2,6 +2,8 @@
 latitude: 3.1539
 longitude: 101.7133
 score: 6.5
+snippet: Landscaped park beneath the Petronas Towers with fountains, a wading pool,
+  and jogging paths
 tags:
 - things_to_do
 - sight

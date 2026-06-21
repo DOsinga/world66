@@ -2,8 +2,8 @@
 latitude: 3.1581
 longitude: 101.7138
 score: 7.5
-snippet: Rooftop bar and Italian restaurant on the 57th floor of Petronas Tower 3,
-  with floor-to-ceiling views of the Twin Towers
+snippet: Rooftop bar and Italian restaurant on the 57th floor with floor-to-ceiling
+  views of the Petronas Towers
 tags:
 - bars_and_cafes
 - bar

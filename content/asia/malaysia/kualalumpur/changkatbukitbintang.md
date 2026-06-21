@@ -2,6 +2,8 @@
 latitude: 3.1471
 longitude: 101.7086
 score: 5.8
+snippet: Colonial shophouse street turned into KL's main bar strip, with dozens of
+  restaurants and late-night venues
 tags:
 - bars_and_cafes
 - bar

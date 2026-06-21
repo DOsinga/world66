@@ -1,14 +1,15 @@
 ---
-title: Kampung Baru Saturday Market
-type: poi
 latitude: 3.1638
 longitude: 101.7052
+score: 7.5
+snippet: Lively Saturday night market in Kampung Baru with traditional Malay kuih,
+  satay, and grilled seafood
 tags:
 - eating_out
 - kampungbaru
 - market
-score: 7.5
-snippet: Lively Saturday night market with traditional Malay street food
+title: Kampung Baru Saturday Market
+type: poi
 ---
 
 The Kampung Baru Saturday night market (Pasar Malam Kampung Baru) is one of the best places in KL to eat traditional Malay food at street prices. Stalls stretch along Jalan Raja Muda Musa from early evening, selling nasi kerabu, ayam percik, laksa, murtabak, kuih-muih, and fresh-cut fruits. It's a local institution that has been running for decades and remains largely unaffected by the city's gentrification around it.

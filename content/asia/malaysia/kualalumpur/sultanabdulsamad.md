@@ -2,6 +2,8 @@
 latitude: 3.1486
 longitude: 101.6944
 score: 7.8
+snippet: Landmark 1897 Moorish-Gothic government building facing Merdeka Square, with
+  its signature copper domed clock tower
 story: The architect Arthur Norman gave the building a style called Mughal Revival
   — a British attempt to imagine what a Muslim-Indian government building should look
   like, even though Malaysia's Muslim heritage owed nothing to Mughal architecture.

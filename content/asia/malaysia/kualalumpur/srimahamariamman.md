@@ -2,6 +2,8 @@
 latitude: 3.1433
 longitude: 101.6964
 score: 7.7
+snippet: KL's oldest Hindu temple from 1873, with a lavishly gilded gopuram entrance
+  tower on Petaling Street
 tags:
 - things_to_do
 - sight

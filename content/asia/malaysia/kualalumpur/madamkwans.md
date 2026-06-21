@@ -2,6 +2,8 @@
 latitude: 3.15
 longitude: 101.7159
 score: 5.9
+snippet: Malaysian restaurant known for nasi bojari, roti jala, and traditional laksa,
+  popular with locals since 1994
 tags:
 - eating_out
 - restaurant

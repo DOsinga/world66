@@ -1,14 +1,15 @@
 ---
-title: Evangelical Lutheran Church
-type: poi
 latitude: 3.1289
 longitude: 101.6864
+score: 5.5
+snippet: Colonial Lutheran church built in 1904, still serving Brickfields' English-speaking
+  and Tamil-speaking communities
 tags:
 - things_to_do
 - brickfields
 - sight
-score: 5.5
-snippet: Colonial-era church serving Brickfields' Anglophone community since 1904
+title: Evangelical Lutheran Church
+type: poi
 ---
 
 The Evangelical Lutheran Church (ELC) in Brickfields is one of KL's oldest active Christian congregations, founded in 1904 to serve the Tamil-speaking community. The original church building is a modest colonial structure on Jalan Scott, tucked between the shophouses of Brickfields. Services are conducted in Tamil and English, and the congregation maintains strong links to the surrounding community.

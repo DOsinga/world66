@@ -1,14 +1,15 @@
 ---
-title: Lake Gardens Deer Park
-type: poi
 latitude: 3.1419
 longitude: 101.6848
+score: 6.0
+snippet: Free-roaming sambar deer enclosure inside the Perdana Botanical Gardens,
+  popular with families and children
 tags:
 - things_to_do
 - lake_gardens
 - sight
-score: 6.0
-snippet: Free-range deer park inside the Perdana Botanical Gardens
+title: Lake Gardens Deer Park
+type: poi
 ---
 
 The Deer Park in Perdana Botanical Gardens (Lake Gardens) is a fenced enclosure housing Sambar deer and axis deer in a near-natural setting — large enough that the animals aren't obviously confined, with shaded areas and a small stream. Entry is free with the standard gardens admission. Children find it the highlight of a Lake Gardens visit; adults appreciate the low-key, quiet atmosphere compared to the more commercially developed attractions nearby.

@@ -2,6 +2,8 @@
 latitude: 3.1465
 longitude: 101.7081
 score: 6.9
+snippet: Rooftop bar on an active helipad with an unobstructed view of the Petronas
+  Towers at night
 story: The bar runs on the helipad of Menara KH from sunset onwards and clears all
   furniture by midnight, in case a helicopter actually needs to land. The landing-circle
   markings double as the dance floor.

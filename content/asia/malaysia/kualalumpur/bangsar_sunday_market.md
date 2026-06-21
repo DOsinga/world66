@@ -1,14 +1,15 @@
 ---
-title: Bangsar Sunday Market
-type: poi
 latitude: 3.1302
 longitude: 101.6788
+score: 7.0
+snippet: Popular Sunday morning market behind Bangsar Village selling fresh produce,
+  local snacks, and tropical flowers
 tags:
 - eating_out
 - bangsar
 - market
-score: 7.0
-snippet: Popular Sunday morning market for fresh produce, local snacks, and flowers
+title: Bangsar Sunday Market
+type: poi
 ---
 
 The Bangsar Sunday Market runs along Jalan Telawi 1 every Sunday morning from around 7 am until noon — one of KL's better wet markets for fresh tropical fruit, vegetables, cut flowers, and local kuih (traditional cakes). The market draws residents from across the surrounding neighbourhood and is considerably more local in character than the weekend markets at Publika or the Curve. Fish, meat, and produce stalls fill the shaded section; outdoor stalls further down sell ready-to-eat food and drinks.

@@ -2,6 +2,8 @@
 latitude: 3.13
 longitude: 101.687
 score: 6.0
+snippet: South Indian vegetarian institution in Brickfields serving thali meals, dosas,
+  and idly since the 1990s
 tags:
 - eating_out
 - restaurant

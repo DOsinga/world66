@@ -5,7 +5,8 @@ done:
 latitude: 3.142054
 longitude: 101.691793
 score: 8.3
-snippet: Modernist mosque with star-shaped roof and 73-metre minaret
+snippet: Modernist 1965 mosque with a star-shaped concrete canopy and a 73-metre minaret,
+  free entry to non-Muslims
 tags:
 - things_to_do
 - landmark

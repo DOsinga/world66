@@ -2,6 +2,8 @@
 latitude: 3.1437
 longitude: 101.697
 score: 6.7
+snippet: Restored Chinatown alley depicting 1950s KL life through murals, lanterns,
+  and heritage shophouse installations
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,8 @@
 latitude: 3.1431
 longitude: 101.6884
 score: 7.0
+snippet: World's largest free-flight walk-in aviary with 3,000 birds across 200 species
+  in the Lake Gardens
 tags:
 - things_to_do
 - sight

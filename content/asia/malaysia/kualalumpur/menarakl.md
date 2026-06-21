@@ -2,6 +2,8 @@
 latitude: 3.1579
 longitude: 101.7114
 score: 6.7
+snippet: Double-decker glass bridge linking the Petronas Towers at the 41st floor,
+  170 metres above ground
 tags:
 - things_to_do
 - sight

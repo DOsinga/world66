@@ -2,6 +2,8 @@
 latitude: 3.1233
 longitude: 101.6695
 score: 6.3
+snippet: 24-hour mamak restaurant in Bangsar beloved for biryani, roti canai, and
+  murtabak by KL locals
 tags:
 - eating_out
 - restaurant

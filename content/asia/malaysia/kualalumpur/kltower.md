@@ -2,6 +2,8 @@
 latitude: 3.1528
 longitude: 101.7038
 score: 8.2
+snippet: 421-metre telecommunications tower with an outdoor observation deck and revolving
+  restaurant at 335 metres
 story: The tower's construction in 1994 was complicated by the protected rainforest
   at its base. A 100-year-old jelutong tree was deemed too important to fell, so the
   foundations were rerouted around it at a cost of around RM 430,000.

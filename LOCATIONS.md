@@ -4,17 +4,47 @@ Location pages cover cities, towns, and regions. They are where travelers find s
 
 ## Location types (`loc_type`)
 
-Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a state, a national park from a neighbourhood. Without it, batch workflows and rendering can't tell a leaf settlement apart from a region with no city children.
+Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a region, a national park from a city. Without it, batch workflows and rendering can't tell a leaf settlement apart from a regional container.
 
 | Value | Use for | Example paths |
 |-------|---------|---------------|
 | `continent` | The seven top-level continent pages | `europe`, `asia` |
 | `country` | Sovereign states and territories with their own page | `europe/france`, `asia/japan` |
-| `region` | Administrative regions, states, provinces, counties, multi-town areas | `europe/italy/lazio`, `northamerica/unitedstates/california` |
+| `region` | The grouping level below a country in large countries. For the US these are states; elsewhere they may be editorial or administrative groupings. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
 | `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
-| `feature` | Natural features and named attractions that aren't settlements: national parks, lakes, mountains, monuments, archaeological sites, theme parks | `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
+| `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. | `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
 
-A page is a `region` when it contains other locations as children (e.g. an Italian region with cities inside it). A page is a `city` when it is a leaf — no child locations, just sections and POIs. A `feature` is also a leaf but represents a single point of interest large enough to have its own page, not a place where people live.
+## Hierarchy
+
+Most location paths follow this shape:
+
+```text
+continent/country/[region]/city_or_feature
+```
+
+Regions are optional and should be used only for countries large enough to need grouping, roughly 100 or more cities and features. If a country uses regions, its ordinary cities and features should live inside one. Regions contain child cities, child features, and their own POIs for things that belong to the wider area rather than any one city.
+
+There are two known exceptions:
+
+- Globally recognised capitals and major cities may sit directly below their country even when that country uses regions. Current examples include Paris, Berlin, Hamburg, and Tokyo.
+- The United Kingdom has constituent countries directly below `unitedkingdom/`, and England has its own sub-regions such as `cumbria` and `eastern_england`. Treat this as a known structural exception, not as a hierarchy violation.
+
+Regions are named for what travelers recognise. For the United States, that means states such as `california` and `texas`; for France and Italy, it may mean editorial or administrative groupings such as `south`, `tuscany`, or `lazio`. The `loc_type` for all of these is `region`.
+
+Cities are leaf-level settlements: they have sections, POIs, and sometimes neighbourhoods, but they do not contain other cities or features as child locations.
+
+Features are named areas that are destinations in their own right but not settlements: Cinque Terre, the Ardèche gorge, Normandy, Côte d'Azur, Loire Valley, Big Sur, Yellowstone. Features can have their own POIs. Nearby cities link to a feature by adding the feature slug to `tags`:
+
+```yaml
+# content/europe/italy/liguria/riomaggiore.md
+title: Riomaggiore
+type: location
+loc_type: city
+tags:
+  - cinque_terre
+```
+
+If a location is tagged `loc_type: region` but sits inside another region, it is usually a feature. The one-level region rule means places like Loire Valley, Côte d'Azur, Ardèche, and Cinque Terre should be features unless they are the country's top-level grouping.
 
 City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
 
@@ -163,7 +193,7 @@ These tags become filter buttons on section pages. The recognised category tags 
 
 For large cities, create neighbourhood POIs (with `type: neighbourhood` in the tags). Then tag other POIs with the neighbourhood's **slug** to make them appear on the neighbourhood page. For example, if you have a `south_beach.md` neighbourhood POI, tag restaurants and sights in that area with `south_beach`.
 
-The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page. 
+The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page.
 
 When a large city has over 3 neighbourhoods they should all have images, so they render nicely.
 

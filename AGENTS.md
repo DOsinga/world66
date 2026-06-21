@@ -24,9 +24,11 @@ python3 manage.py runserver 8066
 
 ## Content structure
 
-`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections.
+`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file.
 
-**POIs always live flat in the city directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same city folder, not inside an `eating_out/` subfolder.
+The content hierarchy is documented in LOCATIONS.md. In short: continents contain countries; large countries may contain one region level; regions and smaller countries contain cities and features. Features are named areas or attractions that are destinations in themselves but not settlements.
+
+**POIs always live flat in the city or feature directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same folder, not inside an `eating_out/` subfolder.
 
 ### Images
 
@@ -61,10 +63,6 @@ todo/
   country_cleanup/     # Clean up country pages per COUNTRIES.md
     TASK.md            # What to do for each item
     batch_NNN.txt      # ~5 countries to process
-    ...
-  location_cleanup/    # Structural cleanup of locations per LOCATIONS.md
-    TASK.md
-    batch_NNN.txt      # 50 locations per batch, sorted largest-first
     ...
   location_enrich/     # Add new content (itineraries, books, stories) to cleaned-up locations
     TASK.md

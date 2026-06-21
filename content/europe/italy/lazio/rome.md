@@ -12,6 +12,8 @@ latitude: 41.9028
 loc_type: city
 longitude: 12.4964
 score: 0.99
+snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
+  everyday street life layer three millennia together
 title: Rome
 type: location
 ---

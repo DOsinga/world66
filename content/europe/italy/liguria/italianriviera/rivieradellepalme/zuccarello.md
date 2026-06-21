@@ -10,6 +10,8 @@ latitude: 44.111029
 loc_type: city
 longitude: 8.115849
 score: 0.41
+snippet: Fortified Ligurian hamlet in the Neva valley, preserving a porticoed medieval
+  street below Del Carretto ruins
 title: Zuccarello
 type: location
 ---

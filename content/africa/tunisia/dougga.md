@@ -10,6 +10,8 @@ latitude: 36.4222
 loc_type: feature
 longitude: 9.2183
 score: 0.5
+snippet: Hilltop Roman site in northern Tunisia, where temples, baths, streets, and
+  houses overlook olive-covered valleys
 title: Dougga
 type: location
 ---

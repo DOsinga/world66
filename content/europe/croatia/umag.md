@@ -9,6 +9,8 @@ latitude: 45.432359
 loc_type: city
 longitude: 13.52241
 score: 0.5
+snippet: Istrian harbour town near Slovenia, with a Venetian old promontory and Croatia's
+  long-running clay-court tennis tournament
 sources:
 - https://en.wikipedia.org/wiki/Umag
 - https://en.wikipedia.org/wiki/Croatia_Open

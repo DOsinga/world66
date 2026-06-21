@@ -10,6 +10,8 @@ latitude: 53.762386
 loc_type: city
 longitude: -0.330121
 score: 0.37
+snippet: Humber estuary port city with maritime museums, ferries, and a sturdy east-coast
+  character
 title: Hull
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -37.997617
 loc_type: city
 longitude: -57.548208
 score: 0.45
+snippet: Argentina's Atlantic beach resort city, with long urban beaches and summer
+  crowds from Buenos Aires
 title: Mar del Plata
 type: location
 ---

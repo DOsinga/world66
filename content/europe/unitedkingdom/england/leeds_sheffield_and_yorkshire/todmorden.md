@@ -10,6 +10,8 @@ latitude: 53.713725
 loc_type: city
 longitude: -2.097753
 score: 0.33
+snippet: Pennine market town in Calderdale, where an Italianate town hall once straddled
+  Yorkshire and Lancashire
 sources:
 - https://en.wikipedia.org/wiki/Todmorden
 title: Todmorden

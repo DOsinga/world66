@@ -9,6 +9,8 @@ latitude: 43.867239
 loc_type: city
 longitude: 10.250606
 score: 0.51
+snippet: Tuscan seaside resort on the Versilia coast, with Liberty-style promenades,
+  long beaches, and a famous carnival
 sources:
 - https://en.wikipedia.org/wiki/Viareggio
 - https://en.wikipedia.org/wiki/Carnival_of_Viareggio

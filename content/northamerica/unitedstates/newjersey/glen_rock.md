@@ -10,6 +10,8 @@ latitude: 40.962876
 loc_type: city
 longitude: -74.132921
 score: 0.23
+snippet: Quiet Bergen County commuter borough named for its glacial boulder beside
+  the rail line
 title: Glen Rock
 type: location
 ---

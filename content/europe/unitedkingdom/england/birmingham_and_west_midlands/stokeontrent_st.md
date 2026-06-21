@@ -10,6 +10,8 @@ latitude: 53.020564
 loc_type: city
 longitude: -2.229993
 score: 0.26
+snippet: Staffordshire ceramics city known as The Potteries, built from six towns
+  and famous English porcelain names
 title: Stoke-on-Trent
 type: location
 ---

@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Sergiev_Posad,_Russia,_The
 latitude: 56.3098
 loc_type: city
 longitude: 38.1353
+score: 0.45
+snippet: Small Russian town northeast of Moscow, centred on the fortified Trinity
+  Lavra of St. Sergius
 sources:
 - https://en.wikipedia.org/wiki/Sergiyev_Posad
 - https://en.wikivoyage.org/wiki/Sergiev_Posad
 title: Sergiev Posad
 type: location
-score: 0.45
 ---
 
 Sergiev Posad is a small town about 70 kilometres northeast of Moscow, and it exists essentially because of one building: the [Trinity Lavra of St. Sergius](/europe/russia/sergievposad/trinity_lavra), a fortified monastery complex that is the spiritual heart of the Russian Orthodox Church and a UNESCO World Heritage Site. The town grew up around the monastery walls over six centuries, and visiting Sergiev Posad today still means visiting the Lavra above all else.

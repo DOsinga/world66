@@ -5,6 +5,8 @@ latitude: -30.534367
 loc_type: region
 longitude: 135.630121
 score: 0.5
+snippet: Australian state of wine country, arid outback, empty coastline, and Adelaide's
+  compact festival-minded capital
 title: South Australia
 type: location
 ---

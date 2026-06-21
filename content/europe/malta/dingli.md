@@ -11,6 +11,8 @@ latitude: 35.86042
 loc_type: city
 longitude: 14.381682
 score: 0.42
+snippet: Maltese hilltop village above the Dingli Cliffs, the island's highest edge
+  over the Mediterranean
 title: Dingli
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 58.7693
 loc_type: city
 longitude: -94.1737
 score: 0.51
+snippet: Remote Hudson Bay town where polar bears, beluga whales, and northern lights
+  define the subarctic edge
 title: Churchill
 type: location
 ---

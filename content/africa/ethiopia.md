@@ -1,20 +1,22 @@
 ---
-latitude: 10.21167
-longitude: 38.65212
-title: Ethiopia
-type: location
 image: ethiopia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Interior_of_Bet_Debre_Sina_(Bet_Mikael)_Rock-Hewn_Church_-_Lalibela_-_Ethiopia_-_01_(8724852519).jpg
-image_license: CC BY-SA 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41000732@N04">Adam
   Jones</a> from Kelowna, BC, Canada
-quick_facts:
-  Population: "126 million"
-  Calendar: "13 months"
-  Never Colonized: Only country in Africa
-  Coffee Origin: Born here
-score: 0.76
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Interior_of_Bet_Debre_Sina_(Bet_Mikael)_Rock-Hewn_Church_-_Lalibela_-_Ethiopia_-_01_(8724852519).jpg
+latitude: 10.21167
 loc_type: country
+longitude: 38.65212
+quick_facts:
+  Calendar: 13 months
+  Coffee Origin: Born here
+  Never Colonized: Only country in Africa
+  Population: 126 million
+score: 0.76
+snippet: Highland African country of ancient Christian cities, coffee culture, injera,
+  Simien peaks, and the Danakil Depression
+title: Ethiopia
+type: location
 ---
 
 Ethiopia is unlike anywhere else on earth. It is the only African country never colonized, home to one of the oldest Christian civilizations in the world, and the place where coffee was born. The landscapes range from the highest peaks in the Simien Mountains to the lowest point on the African continent in the Danakil Depression. The food is entirely its own. The calendar has thirteen months. The clock runs six hours off. Nothing here works the way you expect, and that is precisely the point.

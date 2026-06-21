@@ -10,6 +10,8 @@ latitude: 46.973703
 loc_type: city
 longitude: -124.156277
 score: 0.36
+snippet: Washington coast resort town on a sandy peninsula, known for wide Pacific
+  beaches and moody dune-backed weather
 title: Ocean Shores
 type: location
 ---

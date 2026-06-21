@@ -10,6 +10,8 @@ latitude: 45.618785
 loc_type: city
 longitude: 10.5591
 score: 0.55
+snippet: Quiet Lake Garda town centred on D'Annunzio's extravagant Vittoriale estate
+  and a gentle lakeside promenade.
 title: Gardone
 type: location
 ---

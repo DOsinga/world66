@@ -10,6 +10,8 @@ latitude: 44.8535
 loc_type: city
 longitude: 0.4875
 score: 0.5
+snippet: Dordogne river town of half-timbered lanes, wine history, and a Cyrano name
+  it never quite owned.
 title: Bergerac
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 34.033625
 loc_type: city
 longitude: -117.043087
 score: 0.26
+snippet: Foothill town below the San Bernardino Mountains, edged by lakes, orchards,
+  and autumn apple country.
 title: Yucaipa
 type: location
 ---

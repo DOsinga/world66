@@ -10,6 +10,8 @@ latitude: 36.2668
 loc_type: city
 longitude: -107.7456
 score: 0.26
+snippet: Remote New Mexico settlement beside Chaco Canyon, the monumental heart of
+  ancestral Puebloan culture.
 title: Nageezi
 type: location
 ---

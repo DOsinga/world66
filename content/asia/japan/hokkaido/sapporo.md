@@ -11,6 +11,8 @@ latitude: 43.062
 loc_type: city
 longitude: 141.3544
 score: 0.66
+snippet: Modern Hokkaido capital of beer, snow festivals, and broad grid streets ringed
+  by mountains.
 title: Sapporo
 type: location
 ---

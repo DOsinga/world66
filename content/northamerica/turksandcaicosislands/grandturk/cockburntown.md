@@ -10,6 +10,8 @@ latitude: 21.4607
 loc_type: city
 longitude: -71.139
 score: 0.48
+snippet: Sleepy Turks and Caicos capital on Grand Turk, lined with Bermudan-style
+  salt-era houses.
 title: Cockburn Town
 type: location
 ---

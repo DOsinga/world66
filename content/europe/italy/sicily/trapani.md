@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Ligny_Tower_Trapani.jpg
 latitude: 38.0157
 loc_type: city
 longitude: 12.5099
+score: 0.58
+snippet: Western Sicilian port on a sickle-shaped peninsula, with salt pans and couscous-shaped
+  Arab-Norman layers.
 sources:
 - https://en.wikipedia.org/wiki/Trapani
 - https://en.wikivoyage.org/wiki/Trapani
 title: Trapani
 type: location
-score: 0.58
 ---
 
 Trapani is built on a narrow sickle-shaped peninsula on the extreme western tip of Sicily — a city that juts into the sea with water on three sides and the salt pans of Marsala behind it. It was Phoenician before it was Greek, Carthaginian before it was Roman, and Arab before it was Norman, and these successive layers give the old town centre a distinctly non-standard Sicilian character: straight streets laid out on a North African grid, Arab-Norman architecture, and a cuisine built around couscous with fish rather than pasta.

@@ -10,6 +10,8 @@ latitude: 41.511251
 loc_type: city
 longitude: 19.792852
 score: 0.44
+snippet: Hilltop Albanian town where Skanderbeg's castle anchors the country's national
+  resistance story.
 title: Kruje
 type: location
 ---

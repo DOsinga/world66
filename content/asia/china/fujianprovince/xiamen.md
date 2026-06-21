@@ -9,6 +9,8 @@ latitude: 24.479832
 loc_type: city
 longitude: 118.089425
 score: 0.5
+snippet: Subtropical Fujian island city with beachside streets, overseas Chinese links,
+  and car-free Gulangyu nearby.
 title: Xiamen
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 38.707751
 loc_type: city
 longitude: -9.136592
 score: 0.7
+snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alfama
+  lanes, and Atlantic light.
 title: Lisbon
 type: location
 ---

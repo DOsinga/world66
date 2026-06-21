@@ -10,6 +10,8 @@ latitude: 39.4745
 loc_type: city
 longitude: -6.3717
 score: 0.54
+snippet: Extremaduran hill city with a walled medieval quarter of stone palaces, towers,
+  and traffic-free lanes.
 title: Caceres
 type: location
 ---

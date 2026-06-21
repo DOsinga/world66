@@ -10,6 +10,8 @@ latitude: 32.043828
 loc_type: city
 longitude: 118.778863
 score: 0.52
+snippet: Historic Yangtze capital city ringed by Ming walls and forested Purple Mountain
+  tombs.
 title: Nanjing
 type: location
 ---

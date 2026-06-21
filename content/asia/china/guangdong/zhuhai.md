@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhuhai-Fishing-Girl-statue
 latitude: 22.261
 loc_type: city
 longitude: 113.551
+score: 0.39
+snippet: Coastal Pearl River Delta city of islands and promenades, slower-growing
+  than neighbouring Shenzhen.
 sources:
 - https://en.wikivoyage.org/wiki/Zhuhai
 title: Zhuhai
 type: location
-score: 0.39
 ---
 
 Zhuhai is the Pearl River Delta city that decided to grow slowly, and the contrast with Shenzhen — its fellow Special Economic Zone, designated the same year, just across the estuary — is instructive. Where Shenzhen went vertical and dense, Zhuhai spread out along a coastline of 146 islands, kept its population relatively low, and became the cleanest, greenest, and most livable of the Delta's boom cities. The United Nations gave it an award for best practices in environmental management in 1998, which sounds like bureaucratic praise but is in this context genuinely earned. The [Lovers' Road](/asia/china/guangdong/zhuhai/lovers_road), a coastal promenade stretching along the waterfront, offers views across to the Macau skyline that are considerably more photogenic than anything on Macau's own overcrowded waterfront.

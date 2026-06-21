@@ -9,6 +9,8 @@ latitude: 50.413625
 loc_type: city
 longitude: -5.084336
 score: 0.5
+snippet: Cornish resort town and surf capital, centred on Fistral Beach and north-coast
+  sandy bays.
 title: Newquay
 type: location
 ---

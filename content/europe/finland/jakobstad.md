@@ -11,7 +11,7 @@ loc_type: city
 longitude: 22.7055
 score: 0.38
 snippet: Bilingual Gulf of Bothnia town with Swedish-speaking character and a preserved
-  wooden Skata quarter.
+  wooden Skata quarter
 title: Jakobstad
 type: location
 ---

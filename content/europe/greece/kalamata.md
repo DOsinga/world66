@@ -12,7 +12,7 @@ loc_type: city
 longitude: 22.110707
 score: 0.53
 snippet: Peloponnese city and Messenian capital whose surrounding plain gives its
-  name to Kalamata olives.
+  name to Kalamata olives
 title: Kalamata
 type: location
 ---

@@ -6,7 +6,7 @@ loc_type: region
 longitude: 92.868761
 score: 0.42
 snippet: Remote northeastern Indian hill state of deep gorges, bamboo forests, and
-  a distinct Mizo culture.
+  a distinct Mizo culture
 title: Mizoram
 type: location
 ---

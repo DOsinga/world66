@@ -17,7 +17,7 @@ quick_facts:
   Population: 3 million (only 12% Qatari citizens)
 score: 0.43
 snippet: Small Persian Gulf peninsula state built on natural gas wealth and Doha’s
-  fast-growing infrastructure.
+  fast-growing infrastructure
 title: Qatar
 type: location
 ---

@@ -11,7 +11,7 @@ loc_type: city
 longitude: 5.115527
 score: 0.3
 snippet: Kempen town where flooded sand quarries have become Flanders swimming lakes
-  and artificial beaches.
+  and artificial beaches
 title: Mol
 type: location
 ---

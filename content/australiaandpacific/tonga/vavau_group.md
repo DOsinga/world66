@@ -6,7 +6,7 @@ loc_type: region
 longitude: -174.0
 score: 0.63
 snippet: Northern Tongan island group clustered around a deep natural harbour popular
-  with yacht crews.
+  with yacht crews
 title: Vava'u Group
 type: location
 ---

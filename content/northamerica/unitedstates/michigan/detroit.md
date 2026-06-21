@@ -8,7 +8,7 @@ loc_type: city
 longitude: -83.0466
 score: 0.3
 snippet: Great Lakes industrial city where automotive history meets restored landmarks
-  and a hard-won cultural comeback.
+  and a hard-won cultural comeback
 title: Detroit
 type: location
 ---

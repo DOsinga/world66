@@ -7,7 +7,7 @@ loc_type: region
 longitude: 144.7852
 score: 0.49
 snippet: Compact Australian state of Melbourne laneways, gold-rush towns, surf coast,
-  and alpine country.
+  and alpine country
 title: Victoria
 type: location
 ---

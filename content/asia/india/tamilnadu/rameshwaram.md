@@ -11,7 +11,7 @@ loc_type: city
 longitude: 79.312555
 score: 0.46
 snippet: Tamil Nadu pilgrimage island where Ramayana legend, Shiva worship, and the
-  Pamban Bridge meet.
+  Pamban Bridge meet
 title: Rameshwaram
 type: location
 ---

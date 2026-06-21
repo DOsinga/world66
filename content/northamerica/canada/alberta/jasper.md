@@ -13,7 +13,7 @@ loc_type: city
 longitude: -117.9543
 score: 0.7
 snippet: Canadian Rockies mountain town inside Jasper National Park, quieter than
-  Banff and surrounded by wilderness.
+  Banff and surrounded by wilderness
 title: Jasper
 type: location
 ---

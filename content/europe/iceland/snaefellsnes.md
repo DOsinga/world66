@@ -10,7 +10,7 @@ latitude: 64.8581
 loc_type: region
 longitude: -23.115
 snippet: Western Icelandic peninsula where glacier volcano, lava fields, fishing villages,
-  and sea cliffs sit close together.
+  and sea cliffs sit close together
 sources:
 - https://en.wikipedia.org/wiki/Sn%C3%A6fellsnes
 - https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull

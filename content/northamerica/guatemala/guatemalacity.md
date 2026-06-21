@@ -12,7 +12,7 @@ loc_type: city
 longitude: -90.5069
 score: 0.33
 snippet: Highland Central American capital with a mild valley climate and an underrated
-  historic centre.
+  historic centre
 title: Guatemala City
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 44.631694
 loc_type: city
 longitude: -1.149132
 score: 0.47
-snippet: Arcachon Bay commune at the foot of the Dune du Pilat and nearby oyster farms.
+snippet: Arcachon Bay commune at the foot of the Dune du Pilat and nearby oyster farms
 title: La Teste de Buch
 type: location
 ---

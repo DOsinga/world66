@@ -6,7 +6,7 @@ loc_type: city
 longitude: -61.6264
 score: 0.41
 snippet: Workaday Grenadian east-coast town where the Saturday market shows the island
-  beyond resort rhythms.
+  beyond resort rhythms
 sources:
 - https://en.wikipedia.org/wiki/Grenville,_Grenada
 - https://www.puregrenada.com/product/lake-antoine/

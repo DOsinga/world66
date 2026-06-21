@@ -4,7 +4,7 @@ loc_type: country
 longitude: 15.827
 score: 0.36
 snippet: Forested Central African country where Congo River cities give way to rainforest
-  and Atlantic coast.
+  and Atlantic coast
 title: Republic of the Congo
 type: location
 ---

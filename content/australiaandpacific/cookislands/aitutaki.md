@@ -11,7 +11,7 @@ loc_type: city
 longitude: -159.783188
 score: 0.65
 snippet: Cook Islands lagoon atoll ringed by motus and shallow turquoise water beyond
-  a quiet green island.
+  a quiet green island
 title: Aitutaki
 type: location
 ---

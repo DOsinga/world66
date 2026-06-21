@@ -16,7 +16,7 @@ quick_facts:
   Women in Parliament: 61%
 score: 0.64
 snippet: Small East-Central African country of steep green hills, volcanic peaks,
-  lakes, and rainforest.
+  lakes, and rainforest
 title: Rwanda
 type: location
 ---

@@ -7,7 +7,7 @@ loc_type: city
 longitude: 97.930113
 score: 0.44
 snippet: Mae Hong Son valley town on the Yuam River, surrounded by forested hills
-  and border country.
+  and border country
 title: Mae Sariang
 type: location
 ---

@@ -11,7 +11,7 @@ loc_type: city
 longitude: 77.2983
 score: 0.31
 snippet: Southern Himachal district where Shivalik hill towns and pilgrimage sites
-  meet the plains.
+  meet the plains
 title: Sirmour
 type: location
 ---

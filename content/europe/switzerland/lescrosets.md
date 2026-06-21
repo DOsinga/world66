@@ -11,7 +11,7 @@ loc_type: city
 longitude: 6.835676
 score: 0.46
 snippet: Small Swiss ski village with direct access to the cross-border Portes du
-  Soleil pistes.
+  Soleil pistes
 title: Les Crosets
 type: location
 ---

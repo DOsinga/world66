@@ -11,7 +11,7 @@ loc_type: city
 longitude: -110.8994
 score: 0.38
 snippet: Working Sonoran port city on the Sea of Cortez, framed by volcanic mountains
-  and diving waters.
+  and diving waters
 title: Guaymas
 type: location
 ---

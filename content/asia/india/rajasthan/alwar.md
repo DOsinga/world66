@@ -11,7 +11,7 @@ loc_type: city
 longitude: 76.6346
 score: 0.43
 snippet: Old Rajasthani city beneath Bala Quila, used as the base for Sariska Tiger
-  Reserve.
+  Reserve
 title: Alwar
 type: location
 ---

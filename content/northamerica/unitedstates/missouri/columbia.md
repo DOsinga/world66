@@ -11,7 +11,7 @@ loc_type: city
 longitude: -92.3341
 score: 0.32
 snippet: Missouri college town where Mizzou shapes a lively downtown between St. Louis
-  and Kansas City.
+  and Kansas City
 title: Columbia
 type: location
 ---

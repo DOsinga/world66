@@ -7,7 +7,7 @@ loc_type: city
 longitude: -13.1
 score: 0.13
 snippet: Adrar Plateau pass settlement known for sandstone gorges and ancient rock
-  art near the road.
+  art near the road
 title: Amogar
 type: location
 ---

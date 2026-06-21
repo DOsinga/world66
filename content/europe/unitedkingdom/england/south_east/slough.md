@@ -10,7 +10,7 @@ loc_type: city
 longitude: -0.594068
 score: 0.21
 snippet: Diverse Heathrow-corridor town whose trading estate gives it more economic
-  energy than charm.
+  energy than charm
 title: Slough
 type: location
 ---

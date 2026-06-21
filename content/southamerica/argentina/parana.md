@@ -11,7 +11,7 @@ loc_type: city
 longitude: -60.529851
 score: 0.38
 snippet: Entre Ríos capital on a river bluff, with leafy parks, a costanera, and 19th-century
-  architecture.
+  architecture
 title: Paraná
 type: location
 ---

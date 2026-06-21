@@ -7,7 +7,7 @@ loc_type: city
 longitude: 101.6395
 score: 0.37
 snippet: Quiet Malaysian foothill town rebuilt after a dam failure and now used for
-  river rafting.
+  river rafting
 title: Kuala Kubu Baru
 type: location
 ---

@@ -11,7 +11,7 @@ loc_type: city
 longitude: 10.95872
 score: 0.38
 snippet: Franconian city beside Nuremberg, known for independent character and Germany’s
-  first railway terminus.
+  first railway terminus
 title: Fürth
 type: location
 ---

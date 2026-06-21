@@ -10,7 +10,7 @@ loc_type: city
 longitude: 8.063531
 score: 0.44
 snippet: Lahn River town crowned by a red-and-white Romanesque-Gothic cathedral above
-  the old centre.
+  the old centre
 title: Limburg an der Lahn
 type: location
 ---

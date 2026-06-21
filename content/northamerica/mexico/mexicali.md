@@ -11,7 +11,7 @@ loc_type: city
 longitude: -115.452604
 score: 0.27
 snippet: Baja California border capital known for Chinese food rooted in early irrigation-era
-  migration.
+  migration
 title: Mexicali
 type: location
 ---

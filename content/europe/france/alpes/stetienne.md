@@ -7,7 +7,7 @@ loc_type: city
 longitude: 4.3872
 score: 0.38
 snippet: Former Loire industrial city where coal and arms factories have given way
-  to serious modern art.
+  to serious modern art
 sources:
 - https://en.wikipedia.org/wiki/Saint-%C3%89tienne
 - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27art_moderne_(Saint-%C3%89tienne)

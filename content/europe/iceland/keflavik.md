@@ -7,7 +7,7 @@ loc_type: city
 longitude: -22.5565
 score: 0.42
 snippet: Reykjanes fishing town beside Iceland’s international airport, often paired
-  with Blue Lagoon stopovers.
+  with Blue Lagoon stopovers
 sources:
 - https://en.wikipedia.org/wiki/Keflavík
 - https://www.visitreykjanes.is/en/service/the-icelandic-museum-of-rock-n-roll

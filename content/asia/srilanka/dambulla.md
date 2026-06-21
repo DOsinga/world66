@@ -10,7 +10,7 @@ loc_type: city
 longitude: 80.651092
 score: 0.53
 snippet: Sri Lankan gateway town to the Cultural Triangle, known for its mural-filled
-  cave temple.
+  cave temple
 title: Dambulla
 type: location
 ---

@@ -17,7 +17,7 @@ quick_facts:
   Population: 20 million
 score: 0.55
 snippet: Landlocked southeastern African country shaped by Lake Malawi’s beaches,
-  fishing villages, and freshwater diving.
+  fishing villages, and freshwater diving
 title: Malawi
 type: location
 ---

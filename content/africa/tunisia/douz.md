@@ -11,7 +11,7 @@ loc_type: city
 longitude: 9.024983
 score: 0.43
 snippet: Saharan-edge Tunisian town used as the base for camel treks into the Grand
-  Erg Oriental.
+  Erg Oriental
 title: Douz
 type: location
 ---

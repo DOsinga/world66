@@ -7,7 +7,7 @@ loc_type: city
 longitude: -57.285697
 score: 0.29
 snippet: Paraguayan town on the Circuito de Oro, known for its Guaraní-baroque Franciscan
-  church.
+  church
 title: Yaguaron
 type: location
 ---

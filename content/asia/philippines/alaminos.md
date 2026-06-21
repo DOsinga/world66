@@ -11,7 +11,7 @@ loc_type: city
 longitude: 119.97922
 score: 0.42
 snippet: Pangasinan gateway city to Hundred Islands National Park’s limestone islets
-  and bangka trips.
+  and bangka trips
 sources:
 - https://en.wikipedia.org/wiki/Alaminos,_Pangasinan
 - https://en.wikipedia.org/wiki/Hundred_Islands_National_Park

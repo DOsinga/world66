@@ -7,7 +7,7 @@ loc_type: city
 longitude: 87.237
 score: 0.26
 snippet: High Tibetan road town below Xegar Dzong, used as a staging point for Everest
-  trips.
+  trips
 title: Xeger
 type: location
 ---

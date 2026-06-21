@@ -6,7 +6,7 @@ loc_type: region
 longitude: 2.35
 score: 0.63
 snippet: Rugged Languedoc region of mountain castles, vineyards, and villages marked
-  by Cathar history.
+  by Cathar history
 title: The Land of the Cathars
 type: location
 ---

@@ -6,7 +6,7 @@ loc_type: region
 longitude: 71.745261
 score: 0.48
 snippet: Western Indian coastal state of Gandhi heritage, ancient ports, salt marshes,
-  and Jain temples.
+  and Jain temples
 title: Gujarat
 type: location
 ---

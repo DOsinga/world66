@@ -10,7 +10,7 @@ loc_type: city
 longitude: 104.2823
 score: 0.3
 snippet: High Guizhou county town beside Cao Hai Lake, a wintering ground for black-necked
-  cranes.
+  cranes
 sources:
 - https://en.wikivoyage.org/wiki/Weining
 title: Weining

@@ -12,7 +12,7 @@ loc_type: city
 longitude: 13.160853
 score: 0.51
 snippet: Austrian Alpine spa town stacked above a waterfall, with Belle Époque hotels
-  and thermal waters.
+  and thermal waters
 title: Bad Gastein
 type: location
 ---

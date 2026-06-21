@@ -11,7 +11,7 @@ loc_type: region
 longitude: 98.352929
 score: 0.79
 snippet: Large Thai island beach region shaped by tourism, old tin wealth, and Sino-Portuguese
-  Phuket Town.
+  Phuket Town
 title: Phuket
 type: location
 ---

@@ -10,7 +10,7 @@ loc_type: city
 longitude: 99.9397
 score: 0.44
 snippet: Old Thai city of hilltop palaces, cave temples, monastery murals, and palm-sugar
-  sweets.
+  sweets
 sources:
 - https://en.wikipedia.org/wiki/Phetchaburi
 - https://en.wikivoyage.org/wiki/Phetchaburi

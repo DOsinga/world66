@@ -10,7 +10,7 @@ loc_type: city
 longitude: 85.5287
 score: 0.2
 snippet: Southern Silk Road oasis town on the Taklamakan edge, linked to Jade Road
-  history.
+  history
 sources:
 - https://en.wikivoyage.org/wiki/Cherchen
 title: Cherchen

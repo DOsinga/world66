@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Old Town
 type: neighbourhood
+image: oldtown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Edinburgh_Victora_Street_20211019.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Daniel Kraft
 ---
 
 The medieval heart of Edinburgh, draped along the volcanic ridge from the castle down to Holyrood Palace — a UNESCO World Heritage Site since 1995. The main street is the Royal Mile, but the real character is in the closes and wynds that drop steeply away on either side, the underground vaults beneath South Bridge, and the tenement towers that were the world's first high-rise housing. Stay until evening: the Old Town belongs to the locals once the coach parties leave.

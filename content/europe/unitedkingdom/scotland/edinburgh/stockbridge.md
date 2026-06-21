@@ -8,6 +8,10 @@ tags:
 - neighbourhood
 title: Stockbridge
 type: neighbourhood
+image: stockbridge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Stockbridge,_Edinburgh_-_geograph.org.uk_-_4473495.jpg
+image_license: CC BY-SA 2.0
+image_attribution: wfmillar
 ---
 
 Stockbridge is one of several old villages swallowed up by the city's nineteenth century expansion. Located just to the north of Edinburgh's Georgian New Town, it retains its village feel. Home to many bars, restaurants and bistros, there are some pretty cool shops here too. 

@@ -2,7 +2,9 @@
 
 Verify the coordinates of every POI. This is a focused task: coordinates only. Do not rewrite content, do not add snippets, do not delete spam — just get the locations right.
 
-Use **5 agents** per batch, dividing the batch roughly equally between them.
+Each batch contains **35 cities**. For each city, process all POI files in that directory.
+
+Use **5 agents** per batch, assigning 7 cities each.
 
 ## Guiding principle
 
@@ -14,12 +16,16 @@ We want the pin to land at the **entrance** of the place, not the centroid of a 
 
 ---
 
-## For each POI in the batch
+## For each city in the batch
 
-### 1. Determine expected location
+Each line in the batch file is a city path like `europe/france/paris`. Find all `*.md` files in `content/<city>/` where `type: poi`, then process each one.
 
-Derive the city/country from the file path:
-- `content/europe/france/paris/le_louvre.md` → Paris, France
+### 1. Determine the city context
+
+The city path gives you the location context directly:
+- `europe/france/paris` → Paris, France
+- `northamerica/unitedstates/california/sanfrancisco` → San Francisco, USA
+- `asia/japan/honshu/kyoto` → Kyoto, Japan
 
 The POI's `title` field is the name you will look up.
 

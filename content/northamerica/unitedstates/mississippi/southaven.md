@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowden_Bridge_Southaven.j
 latitude: 34.987382
 loc_type: city
 longitude: -90.003486
-score: 0.3
+score: 0.24
 title: Southaven
 type: location
 ---

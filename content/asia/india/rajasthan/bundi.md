@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/51065046@N05/42207757881
 latitude: 25.4368
 loc_type: city
 longitude: 75.7361
-score: 0.61
+score: 0.53
 title: Bundi
 type: location
 ---

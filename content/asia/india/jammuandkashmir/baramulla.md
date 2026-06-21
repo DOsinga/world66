@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/77742560@N06/54061567599
 latitude: 34.20869
 loc_type: city
 longitude: 74.343498
-score: 0.38
+score: 0.32
 title: Baramulla
 type: location
 ---

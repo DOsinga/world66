@@ -11,6 +11,7 @@ loc_type: city
 longitude: 104.1782
 title: Kampot
 type: location
+score: 0.51
 ---
 
 Kampot is a slow, beautiful riverside town on the Praek Tuek Chhu river, about three hours southwest of Phnom Penh and a short drive from the sea. It has become one of the most popular destinations in Cambodia for travellers who want to linger — the river, the French colonial architecture, the night market, the mountains in the background — but it has managed so far to keep some of the unhurried quality that makes it worth staying longer than planned.

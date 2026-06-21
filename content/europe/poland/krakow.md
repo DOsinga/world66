@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Krakow_Rynek_Glowny_panora
 latitude: 50.061947
 loc_type: city
 longitude: 19.936856
-score: 0.75
+score: 0.65
 title: Krakow
 type: location
 ---

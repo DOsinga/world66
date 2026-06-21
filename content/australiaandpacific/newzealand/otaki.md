@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:JA1271_crossing_the_Otaki_
 latitude: -40.758537
 loc_type: city
 longitude: 175.147015
-score: 0.42
+score: 0.35
 title: Otaki
 type: location
 ---

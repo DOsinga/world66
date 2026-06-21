@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France_Cotes_d_Armor_Pontr
 latitude: 48.6972
 loc_type: city
 longitude: -3.163
-score: 0.53
+score: 0.42
 title: Pontrieux
 type: location
 ---

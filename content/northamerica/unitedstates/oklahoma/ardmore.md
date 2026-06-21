@@ -6,7 +6,7 @@ latitude: 34.172927
 longitude: -97.130912
 title: Ardmore
 type: location
-score: 0.32
+score: 0.25
 loc_type: city
 ---
 

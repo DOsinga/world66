@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vengurla_Bandar_2022-12-17
 latitude: 15.862
 loc_type: city
 longitude: 73.6322
-score: 0.38
+score: 0.3
 title: Vengurla
 type: location
 ---

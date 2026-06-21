@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Berrien_springs_mi.jpg
 latitude: 41.946434
 loc_type: city
 longitude: -86.338897
-score: 0.29
+score: 0.22
 title: Berrien Springs
 type: location
 ---

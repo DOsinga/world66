@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7354052@N04/20873307251
 latitude: 39.1332
 loc_type: city
 longitude: 16.0746
-score: 0.48
+score: 0.43
 title: Amantea
 type: location
 ---

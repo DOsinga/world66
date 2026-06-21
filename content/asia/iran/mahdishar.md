@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Mahdishahr.jpg
 latitude: 35.708
 loc_type: city
 longitude: 53.348
-score: 0.25
+score: 0.14
 sources:
 - https://en.wikipedia.org/wiki/Mehdishahr
 - https://en.wikipedia.org/wiki/Shahmirzad

@@ -5,7 +5,7 @@ done:
 latitude: 40.7794
 loc_type: city
 longitude: 21.4075
-score: 0.48
+score: 0.39
 title: Florina
 type: location
 ---

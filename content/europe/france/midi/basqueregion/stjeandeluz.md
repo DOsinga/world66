@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France-Saint-Jean-de-Luz-2
 latitude: 43.3872
 loc_type: city
 longitude: -1.6637
-score: 0.64
+score: 0.56
 title: Saint-Jean-de-Luz
 type: location
 ---

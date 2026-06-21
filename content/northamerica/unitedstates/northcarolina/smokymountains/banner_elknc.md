@@ -5,7 +5,7 @@ done:
 latitude: 36.163334
 loc_type: city
 longitude: -81.871901
-score: 0.46
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Banner_Elk,_North_Carolina
 - https://en.wikipedia.org/wiki/Sugar_Mountain,_North_Carolina

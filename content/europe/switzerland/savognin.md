@@ -8,10 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Savognin03.JPG
 latitude: 46.5969
 loc_type: city
 longitude: 9.598
-score: 0.55
+score: 0.45
 sources:
-  - https://en.wikipedia.org/wiki/Savognin
-  - https://en.wikipedia.org/wiki/Parc_Ela
+- https://en.wikipedia.org/wiki/Savognin
+- https://en.wikipedia.org/wiki/Parc_Ela
 title: Savognin
 type: location
 ---

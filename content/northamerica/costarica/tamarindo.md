@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Rica_Playa_Tamarindo
 latitude: 10.2993
 loc_type: city
 longitude: -85.8401
-score: 0.66
+score: 0.54
 title: Tamarindo
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Palm_Springs_CA.J
 latitude: 33.8245
 loc_type: city
 longitude: -116.5403
-score: 0.61
+score: 0.5
 title: Palm Springs
 type: location
 ---

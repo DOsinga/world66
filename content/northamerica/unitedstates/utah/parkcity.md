@@ -6,7 +6,7 @@ latitude: 40.646092
 longitude: -111.497996
 title: Park City
 type: location
-score: 0.6
+score: 0.54
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marugame_Castle,_Tenshu_00
 latitude: 34.288813
 loc_type: city
 longitude: 133.798242
-score: 0.51
+score: 0.43
 title: Marugame
 type: location
 ---

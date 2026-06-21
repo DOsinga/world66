@@ -4,7 +4,7 @@ done:
 latitude: 42.618123
 loc_type: city
 longitude: 2.423093
-score: 0.53
+score: 0.42
 title: Prades
 type: location
 ---

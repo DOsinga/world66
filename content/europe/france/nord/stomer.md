@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St-Omer,_France.jpg
 latitude: 50.7516
 loc_type: city
 longitude: 2.2534
-score: 0.47
+score: 0.38
 title: St. Omer
 type: location
 ---

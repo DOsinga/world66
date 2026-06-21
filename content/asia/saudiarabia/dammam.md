@@ -7,7 +7,7 @@ done:
 latitude: 26.4368
 loc_type: city
 longitude: 50.104
-score: 0.32
+score: 0.24
 title: Dammam
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 32.3528
 loc_type: city
 longitude: -90.8777
-score: 0.44
+score: 0.38
 title: Vicksburg
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 48.741025
 longitude: 85.735101
 title: Lake Markakol
 type: location
-score: 0.41
+score: 0.35
 loc_type: feature
 ---
 

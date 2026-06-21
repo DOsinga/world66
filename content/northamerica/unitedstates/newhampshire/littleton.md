@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Littleton_NH_Main_Street.j
 latitude: 44.3045
 loc_type: city
 longitude: -71.7762
-score: 0.43
+score: 0.33
 title: Littleton
 type: location
 ---

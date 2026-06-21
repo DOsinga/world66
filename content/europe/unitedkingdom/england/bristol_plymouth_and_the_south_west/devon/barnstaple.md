@@ -5,7 +5,7 @@ done:
 latitude: 51.080901
 loc_type: city
 longitude: -4.060598
-score: 0.47
+score: 0.39
 title: Barnstaple
 type: location
 ---

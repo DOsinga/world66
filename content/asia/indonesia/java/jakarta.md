@@ -7,7 +7,7 @@ done:
 latitude: -6.1754
 loc_type: city
 longitude: 106.8272
-score: 0.4
+score: 0.41
 title: Jakarta
 type: location
 ---

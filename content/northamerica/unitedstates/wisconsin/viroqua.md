@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tobacco_building.jpg
 latitude: 43.556917
 loc_type: city
 longitude: -90.888741
-score: 0.34
+score: 0.31
 title: Viroqua
 type: location
 ---

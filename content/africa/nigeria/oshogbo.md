@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osun_Osogbo_Sacred_Grove_5
 latitude: 7.779167
 loc_type: city
 longitude: 4.553889
-score: 0.33
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Osogbo
 - https://en.wikipedia.org/wiki/Osun-Osogbo

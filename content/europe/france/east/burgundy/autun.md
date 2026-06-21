@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autun_-_Vue_depuis_le_temp
 latitude: 46.951
 loc_type: city
 longitude: 4.2989
-score: 0.52
+score: 0.47
 title: Autun
 type: location
 ---

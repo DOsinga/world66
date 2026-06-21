@@ -6,7 +6,7 @@ latitude: 50.706776
 longitude: 10.725744
 title: Oberhof
 type: location
-score: 0.46
+score: 0.38
 loc_type: city
 ---
 

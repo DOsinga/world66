@@ -5,7 +5,7 @@ done:
 latitude: 41.685769
 loc_type: city
 longitude: -5.942315
-score: 0.53
+score: 0.47
 title: Zamora
 type: location
 ---

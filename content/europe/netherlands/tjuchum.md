@@ -4,7 +4,7 @@ done:
 latitude: 53.309
 loc_type: city
 longitude: 6.905
-score: 0.25
+score: 0.19
 title: Tjuchem
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 25.423043
 loc_type: city
 longitude: -100.992751
-score: 0.41
+score: 0.35
 title: Saltillo
 type: location
 image: saltillo.jpg

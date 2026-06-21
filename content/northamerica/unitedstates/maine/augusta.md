@@ -6,7 +6,7 @@ done:
   location_enrich: '2026-05-31'
 latitude: 44.3106
 longitude: -69.7795
-score: 0.41
+score: 0.32
 title: Augusta
 type: location
 loc_type: city

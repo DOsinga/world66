@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceramics_in_Meknes.jpg
 latitude: 33.898413
 loc_type: city
 longitude: -5.532158
-score: 0.6
+score: 0.52
 title: Meknes
 type: location
 ---

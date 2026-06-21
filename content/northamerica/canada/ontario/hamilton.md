@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hamilton,_Ontario_2018_War
 latitude: 43.25608
 loc_type: city
 longitude: -79.872858
-score: 0.43
+score: 0.35
 title: Hamilton
 type: location
 ---

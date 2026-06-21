@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Japanese_Gardens,_Tully,_C
 latitude: 53.156847
 loc_type: city
 longitude: -6.91172
-score: 0.5
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Kildare
 - https://en.wikipedia.org/wiki/Irish_National_Stud

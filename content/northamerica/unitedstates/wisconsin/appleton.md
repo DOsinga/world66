@@ -5,7 +5,7 @@ done:
 latitude: 44.261397
 loc_type: city
 longitude: -88.406974
-score: 0.39
+score: 0.32
 title: Appleton
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Subiaco_-_Sacro_Speco_(Mon
 latitude: 41.926715
 loc_type: city
 longitude: 13.094432
-score: 0.52
+score: 0.44
 title: Subiaco
 type: location
 ---

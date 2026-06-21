@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Berbera_Somaliland_view_no
 latitude: 10.438621
 loc_type: city
 longitude: 45.013401
-score: 0.3
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Berbera
 title: Berbera

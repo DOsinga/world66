@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_Hill_Viewed_f
 latitude: 37.8596
 loc_type: city
 longitude: 27.257
-score: 0.58
+score: 0.52
 title: Kuşadası
 type: location
 ---

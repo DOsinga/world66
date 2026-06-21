@@ -6,7 +6,7 @@ latitude: 40.798546
 longitude: -81.374951
 title: Canton
 type: location
-score: 0.36
+score: 0.29
 loc_type: city
 ---
 

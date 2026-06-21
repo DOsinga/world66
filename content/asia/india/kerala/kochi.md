@@ -5,7 +5,7 @@ done:
 latitude: 9.967903
 loc_type: city
 longitude: 76.244438
-score: 0.63
+score: 0.55
 title: Kochi
 type: location
 ---

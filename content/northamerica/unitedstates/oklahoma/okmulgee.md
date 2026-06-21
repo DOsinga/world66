@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muscogee_(Creek)_Nation_Co
 latitude: 35.667708
 loc_type: city
 longitude: -95.969012
-score: 0.29
+score: 0.24
 title: Okmulgee
 type: location
 ---

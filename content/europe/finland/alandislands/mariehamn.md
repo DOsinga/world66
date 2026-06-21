@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mariehamn_2016_03.jpg
 latitude: 60.102423
 loc_type: city
 longitude: 19.94126
-score: 0.53
+score: 0.44
 title: Mariehamn
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ettal_in_March_2008.JPG
 latitude: 47.5687
 loc_type: city
 longitude: 11.0936
-score: 0.53
+score: 0.46
 title: Ettal
 type: location
 ---

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sark_Seigneurie.jpg
 latitude: 49.431
 loc_type: city
 longitude: -2.363
-score: 0.58
+score: 0.51
 sources:
 - https://en.wikipedia.org/wiki/Sark
 title: Sark

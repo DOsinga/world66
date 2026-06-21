@@ -5,7 +5,7 @@ latitude: 26.589253
 longitude: 93.408474
 title: Kaziranga
 type: location
-score: 0.61
+score: 0.51
 loc_type: feature
 ---
 

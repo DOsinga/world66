@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BridgtonMaineBirdsEye1888.
 latitude: 44.0544
 loc_type: city
 longitude: -70.7089
-score: 0.44
+score: 0.38
 title: Bridgton
 type: location
 ---

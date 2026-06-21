@@ -6,7 +6,7 @@ done:
 latitude: 43.3679
 loc_type: city
 longitude: -124.2175
-score: 0.44
+score: 0.37
 title: Coos Bay
 type: location
 ---

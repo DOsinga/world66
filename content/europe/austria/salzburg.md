@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salzburg_Altstadt_Panorama
 latitude: 47.798135
 loc_type: city
 longitude: 13.046481
-score: 0.79
+score: 0.73
 title: Salzburg
 type: location
 ---

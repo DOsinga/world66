@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1879_birds-eye_map_of_Beve
 latitude: 42.548974
 loc_type: city
 longitude: -70.878188
-score: 0.43
+score: 0.35
 title: Beverly
 type: location
 ---

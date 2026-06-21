@@ -5,7 +5,7 @@ latitude: -4.015
 longitude: 36.01
 title: Tarangire National Park
 type: location
-score: 0.7
+score: 0.61
 loc_type: feature
 ---
 

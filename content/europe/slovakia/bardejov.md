@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Square_of_Bardejov.
 latitude: 49.2927
 loc_type: city
 longitude: 21.2756
-score: 0.53
+score: 0.46
 title: Bardejov
 type: location
 ---

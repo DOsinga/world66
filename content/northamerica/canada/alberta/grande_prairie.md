@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Grande_Prairie_fr
 latitude: 55.17108
 loc_type: city
 longitude: -118.794987
-score: 0.34
+score: 0.31
 title: Grande Prairie
 type: location
 ---

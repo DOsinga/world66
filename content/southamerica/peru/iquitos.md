@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_en_Iquitos.
 latitude: -3.749365
 loc_type: city
 longitude: -73.244415
-score: 0.56
+score: 0.52
 title: Iquitos
 type: location
 ---

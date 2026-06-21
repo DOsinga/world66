@@ -9,7 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_01.jpg
 latitude: 41.033229
 longitude: 29.02646
-score: 0.85
+score: 0.71
 title: The Bosphorus
 type: location
 loc_type: feature

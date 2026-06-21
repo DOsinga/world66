@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:9623_Hervormde_kerk_Blaric
 latitude: 52.281133
 loc_type: city
 longitude: 5.293714
-score: 0.39
+score: 0.34
 title: Blaricum
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lithuania_Rumszyszki_2.jpg
 latitude: 54.867
 loc_type: city
 longitude: 24.219
-score: 0.41
+score: 0.37
 title: Rumsiskes
 type: location
 ---

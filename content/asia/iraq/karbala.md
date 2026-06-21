@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/24810268@N05/5245044567
 latitude: 32.598406
 loc_type: city
 longitude: 44.015793
-score: 0.37
+score: 0.31
 title: Karbala
 type: location
 ---

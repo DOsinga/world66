@@ -5,7 +5,7 @@ latitude: 36.7879
 longitude: -118.6746
 title: Kings Canyon
 type: location
-score: 0.67
+score: 0.57
 loc_type: feature
 ---
 

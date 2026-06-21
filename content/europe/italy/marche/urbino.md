@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Urbino_-_Comune_di_Urbino_
 latitude: 43.726261
 loc_type: city
 longitude: 12.636313
-score: 0.63
+score: 0.53
 title: Urbino
 type: location
 ---

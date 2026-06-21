@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:15th_century_aqua_duct_to_
 latitude: 15.3358
 loc_type: city
 longitude: 76.46102
-score: 0.72
+score: 0.64
 title: Hampi
 type: location
 ---

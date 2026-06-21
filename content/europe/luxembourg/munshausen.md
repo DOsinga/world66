@@ -10,7 +10,7 @@ latitude: 50.035145
 longitude: 6.039484
 title: Munshausen
 type: location
-score: 0.43
+score: 0.34
 loc_type: city
 ---
 

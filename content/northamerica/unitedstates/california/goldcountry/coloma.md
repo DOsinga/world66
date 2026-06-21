@@ -5,7 +5,7 @@ done:
 latitude: 38.8039
 loc_type: city
 longitude: -120.8987
-score: 0.44
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Coloma,_California
 - https://en.wikipedia.org/wiki/Marshall_Gold_Discovery_State_Historic_Park

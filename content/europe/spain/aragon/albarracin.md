@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Albarrac%C3%ADn,_Teruel,_E
 latitude: 40.407283
 loc_type: city
 longitude: -1.444279
-score: 0.65
+score: 0.57
 title: Albarracín
 type: location
 ---

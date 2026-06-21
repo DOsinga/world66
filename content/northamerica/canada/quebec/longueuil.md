@@ -6,7 +6,7 @@ latitude: 45.521906
 longitude: -73.464458
 title: Longueuil
 type: location
-score: 0.36
+score: 0.32
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:(Shah_-_Emam)_Reza_1.jpg
 latitude: 36.297494
 loc_type: city
 longitude: 59.605923
-score: 0.43
+score: 0.36
 title: Mashhad
 type: location
 ---

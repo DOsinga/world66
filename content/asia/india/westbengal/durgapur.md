@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Durgapur_Steel_Plant.jpg
 latitude: 23.534948
 loc_type: city
 longitude: 87.303368
-score: 0.3
+score: 0.23
 title: Durgapur
 type: location
 ---

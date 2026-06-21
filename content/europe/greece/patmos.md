@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chora_di_Patmos_con_il_Mon
 latitude: 37.3094
 loc_type: city
 longitude: 26.5458
-score: 0.69
+score: 0.6
 title: Patmos
 type: location
 ---

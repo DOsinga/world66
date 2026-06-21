@@ -5,7 +5,7 @@ done:
 latitude: 35.4368
 loc_type: city
 longitude: -94.3483
-score: 0.33
+score: 0.26
 title: Van Buren
 type: location
 ---

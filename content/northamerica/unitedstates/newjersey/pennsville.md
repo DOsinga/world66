@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Delaware_Memorial_Bridge_f
 latitude: 39.653446
 loc_type: city
 longitude: -75.516588
-score: 0.3
+score: 0.24
 title: Pennsville
 type: location
 ---

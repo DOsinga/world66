@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/28438417@N08/34350861094
 latitude: -33.64445
 loc_type: city
 longitude: -78.826224
-score: 0.55
+score: 0.48
 title: Robinson Crusoe Island
 type: location
 ---

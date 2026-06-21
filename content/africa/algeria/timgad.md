@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Trajan_(Timgad).jp
 latitude: 35.483633
 loc_type: city
 longitude: 6.466812
-score: 0.56
+score: 0.47
 title: Timgad
 type: location
 ---

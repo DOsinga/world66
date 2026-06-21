@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dsc_1150_Mantua.jpg
 latitude: 45.169263
 loc_type: city
 longitude: 10.670837
-score: 0.63
+score: 0.56
 sources:
 - https://en.wikipedia.org/wiki/Mantua
 title: Mantua

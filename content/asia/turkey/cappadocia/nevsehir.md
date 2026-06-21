@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nevsehir_2020_stitch3.jpg
 latitude: 38.623507
 loc_type: city
 longitude: 34.719417
-score: 0.7
+score: 0.67
 sources:
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Castle

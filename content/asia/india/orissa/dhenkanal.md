@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhenkanal_Town_from_Hanuma
 latitude: 20.8351
 loc_type: city
 longitude: 85.6022
-score: 0.31
+score: 0.25
 title: Dhenkanal
 type: location
 ---

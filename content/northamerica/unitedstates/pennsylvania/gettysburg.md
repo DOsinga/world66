@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gettysburg_Battlefield,_Pe
 latitude: 39.830897
 loc_type: city
 longitude: -77.231012
-score: 0.55
+score: 0.51
 title: Gettysburg
 type: location
 ---

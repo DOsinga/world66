@@ -5,7 +5,7 @@ done:
 latitude: 61.789221
 loc_type: city
 longitude: 34.368804
-score: 0.41
+score: 0.33
 title: Petrozavodsk
 type: location
 ---

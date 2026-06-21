@@ -5,7 +5,7 @@ done:
 latitude: 39.672741
 loc_type: city
 longitude: 44.913874
-score: 0.28
+score: 0.17
 title: Sadarak
 type: location
 ---

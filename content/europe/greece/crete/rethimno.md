@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rethymno_-_Venetian_fortre
 latitude: 35.367647
 loc_type: city
 longitude: 24.473608
-score: 0.69
+score: 0.61
 title: Rethimno
 type: location
 ---

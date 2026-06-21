@@ -5,7 +5,7 @@ latitude: 44.086969
 longitude: 8.216493
 title: Torsero Park
 type: location
-score: 0.45
+score: 0.39
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 35.0828
 loc_type: city
 longitude: -107.598
-score: 0.27
+score: 0.22
 title: San Fidel
 type: location
 image: san_fidel.jpg

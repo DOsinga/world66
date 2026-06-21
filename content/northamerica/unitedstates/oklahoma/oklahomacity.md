@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Automobile_Alley_in_Oklaho
 latitude: 35.472989
 loc_type: city
 longitude: -97.517054
-score: 0.4
+score: 0.34
 title: Oklahoma City
 type: location
 ---

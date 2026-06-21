@@ -5,7 +5,7 @@ done:
 latitude: 40.005539
 loc_type: city
 longitude: 52.993283
-score: 0.28
+score: 0.25
 title: Turkmenbashi
 type: location
 ---

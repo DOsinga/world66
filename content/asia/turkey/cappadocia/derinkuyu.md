@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catholic_Church_Derinkuyu_
 latitude: 38.400309
 loc_type: city
 longitude: 34.699588
-score: 0.71
+score: 0.59
 title: Derinkuyu
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melrose_Abbey_-_geograph.o
 latitude: 55.597594
 loc_type: city
 longitude: -2.719968
-score: 0.55
+score: 0.47
 title: Melrose
 type: location
 ---

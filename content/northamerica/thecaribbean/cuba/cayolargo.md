@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayo_Largo_-_Playa_Sirena_
 latitude: 21.6206
 loc_type: city
 longitude: -81.5461
-score: 0.59
+score: 0.55
 title: Cayo Largo
 type: location
 ---

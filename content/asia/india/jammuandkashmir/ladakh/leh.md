@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Datun_Sahib_tree_in_Leh,_2
 latitude: 34.1642
 loc_type: city
 longitude: 77.5848
-score: 0.74
+score: 0.63
 title: Leh
 type: location
 ---

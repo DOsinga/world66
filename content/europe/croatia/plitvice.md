@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plitvice_Lakes1.jpg
 latitude: 44.8654
 loc_type: city
 longitude: 15.582
-score: 0.87
+score: 0.75
 title: Plitvice Lakes
 type: location
 ---

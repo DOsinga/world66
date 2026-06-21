@@ -5,7 +5,7 @@ done:
 latitude: 40.4167
 loc_type: city
 longitude: -86.8753
-score: 0.37
+score: 0.28
 title: Lafayette
 type: location
 ---

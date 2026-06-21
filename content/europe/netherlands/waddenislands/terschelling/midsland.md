@@ -6,7 +6,7 @@ latitude: 53.382839
 longitude: 5.285649
 title: Midsland
 type: location
-score: 0.5
+score: 0.42
 loc_type: city
 ---
 

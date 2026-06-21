@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Luftbild_Mittenwald,_Laute
 latitude: 47.441778
 loc_type: city
 longitude: 11.261429
-score: 0.6
+score: 0.53
 title: Mittenwald
 type: location
 ---

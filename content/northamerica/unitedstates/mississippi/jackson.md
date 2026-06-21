@@ -5,7 +5,7 @@ done:
 latitude: 32.2988
 loc_type: city
 longitude: -90.1848
-score: 0.34
+score: 0.29
 title: Jackson
 type: location
 ---

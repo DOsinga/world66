@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France_Centre_Loiret_Meung
 latitude: 47.826897
 loc_type: city
 longitude: 1.696805
-score: 0.5
+score: 0.43
 title: Meung-sur-Loire
 type: location
 ---

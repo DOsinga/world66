@@ -5,7 +5,7 @@ title: Gurabo
 type: location
 latitude: 18.2544
 longitude: -65.9728
-score: 0.38
+score: 0.31
 loc_type: city
 ---
 

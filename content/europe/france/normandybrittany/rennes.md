@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Place_de_la_Mairie,_Rennes
 latitude: 48.111339
 loc_type: city
 longitude: -1.68002
-score: 0.59
+score: 0.52
 title: Rennes
 type: location
 ---

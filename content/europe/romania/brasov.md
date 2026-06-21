@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/135727714@N06/31601253242
 latitude: 45.6527
 loc_type: city
 longitude: 25.6106
-score: 0.65
+score: 0.58
 title: Brasov
 type: location
 ---

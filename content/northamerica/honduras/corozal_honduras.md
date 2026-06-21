@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_de_Playa_de_Cor
 latitude: 15.7803
 loc_type: city
 longitude: -86.6714
-score: 0.26
+score: 0.22
 title: Corozal
 type: location
 ---

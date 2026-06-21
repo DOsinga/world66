@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sloan_Canyon_National_Cons
 latitude: 35.90321
 loc_type: feature
 longitude: -115.020182
-score: 0.41
+score: 0.36
 title: Sloan Canyon
 type: location
 ---

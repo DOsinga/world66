@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Liberian_Capitol_Building.
 latitude: 6.320356
 loc_type: city
 longitude: -10.806049
-score: 0.29
+score: 0.24
 title: Monrovia
 type: location
 ---

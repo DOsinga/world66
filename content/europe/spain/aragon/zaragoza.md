@@ -10,7 +10,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Alconchel_de_Ariza,_Zaragoza,_Espa%C3%B1a,_2015-12-28,_DD_03.JPG
 latitude: 41.652134
 longitude: -0.880943
-score: 0.56
+score: 0.51
 title: Zaragoza
 type: location
 loc_type: city

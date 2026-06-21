@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gythio_Port,_Greece_-_Dili
 latitude: 36.761578
 loc_type: city
 longitude: 22.56595
-score: 0.58
+score: 0.49
 title: Gythio
 type: location
 ---

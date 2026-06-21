@@ -4,7 +4,7 @@ done:
 latitude: 54.629569
 loc_type: city
 longitude: 39.742504
-score: 0.36
+score: 0.31
 title: Ryazan
 type: location
 ---

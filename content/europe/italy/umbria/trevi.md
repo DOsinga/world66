@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trevi_-_Torre_dei_Colonnes
 latitude: 42.877497
 loc_type: city
 longitude: 12.747455
-score: 0.57
+score: 0.48
 title: Trevi
 type: location
 ---

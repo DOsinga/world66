@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:OrtaSanGiulioAug132024_03.
 latitude: 45.798
 loc_type: city
 longitude: 8.411
-score: 0.64
+score: 0.59
 title: Orta San Giulio
 type: location
 ---

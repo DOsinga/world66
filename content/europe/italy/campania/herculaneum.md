@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_ciudad_de_Herculan
 latitude: 40.805361
 loc_type: city
 longitude: 14.347104
-score: 0.68
+score: 0.59
 title: Herculaneum
 type: location
 ---

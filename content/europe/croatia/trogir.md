@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trogir_(20611290808).jpg
 latitude: 43.516414
 loc_type: city
 longitude: 16.249716
-score: 0.71
+score: 0.62
 title: Trogir
 type: location
 ---

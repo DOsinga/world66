@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/9297241@N02/31311384470
 latitude: 37.1891
 loc_type: city
 longitude: -112.9988
-score: 0.67
+score: 0.57
 title: Springdale
 type: location
 ---

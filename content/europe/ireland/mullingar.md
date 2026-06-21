@@ -7,6 +7,7 @@ loc_type: city
 longitude: -7.3457
 title: Mullingar
 type: location
+score: 0.36
 ---
 
 Mullingar is the county town of Westmeath, sitting at the heart of Ireland's lakeland midlands — a region of limestone plains, bogland, and dark, fish-rich lakes that attract anglers from across Europe. The town itself is a busy market centre with a working cathedral and an unhurried character that hasn't been touched by tourism. It's not a postcard destination, but it's a decent base for the surrounding countryside.

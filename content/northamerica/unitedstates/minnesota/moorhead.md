@@ -5,7 +5,7 @@ done:
 latitude: 46.873908
 loc_type: city
 longitude: -96.753867
-score: 0.32
+score: 0.26
 title: Moorhead
 type: location
 image: moorhead.jpg

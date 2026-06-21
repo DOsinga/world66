@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ingresso_del_porto_canale_
 latitude: 43.998274
 loc_type: city
 longitude: 12.647437
-score: 0.58
+score: 0.47
 title: Riccione
 type: location
 ---

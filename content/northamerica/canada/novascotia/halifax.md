@@ -7,7 +7,7 @@ done:
 latitude: 44.6486
 loc_type: city
 longitude: -63.5859
-score: 0.56
+score: 0.47
 title: Halifax
 type: location
 ---

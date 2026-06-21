@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Zubara_Fort.jpg
 latitude: 25.976956
 loc_type: city
 longitude: 51.045388
-score: 0.4
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Al_Zubarah
 - https://whc.unesco.org/en/list/1433

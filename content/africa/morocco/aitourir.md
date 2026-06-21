@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ait_Ourir_4.JPG
 latitude: 31.5639
 loc_type: city
 longitude: -7.6623
-score: 0.39
+score: 0.28
 title: Ait Ourir
 type: location
 ---

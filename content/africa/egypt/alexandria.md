@@ -6,7 +6,7 @@ done:
 latitude: 31.199181
 loc_type: city
 longitude: 29.895172
-score: 0.6
+score: 0.54
 title: Alexandria
 type: location
 image: alexandria.jpg

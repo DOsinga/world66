@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_war_memorial_in_Skipto
 latitude: 53.962
 loc_type: city
 longitude: -2.0166
-score: 0.57
+score: 0.46
 title: Skipton
 type: location
 ---

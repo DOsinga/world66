@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Quimper2011.png
 latitude: 47.996032
 loc_type: city
 longitude: -4.102478
-score: 0.59
+score: 0.49
 title: Quimper
 type: location
 ---

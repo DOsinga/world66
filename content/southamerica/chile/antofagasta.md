@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chile_-_43-2548_-_Docks_at
 latitude: -23.646374
 loc_type: city
 longitude: -70.398003
-score: 0.44
+score: 0.37
 title: Antofagasta
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ellicott_City,_Maryland_(6
 latitude: 39.2757
 loc_type: city
 longitude: -76.8317
-score: 0.39
+score: 0.34
 title: Ellicott City
 type: location
 ---

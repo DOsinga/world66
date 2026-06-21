@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_
 latitude: -37.8142
 loc_type: city
 longitude: 144.9632
-score: 0.75
+score: 0.65
 title: Melbourne
 type: location
 ---

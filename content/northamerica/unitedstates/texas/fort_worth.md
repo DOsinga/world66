@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0011Tarrant_County_Courtho
 latitude: 32.7532
 loc_type: city
 longitude: -97.3327
-score: 0.44
+score: 0.4
 title: Fort Worth
 type: location
 ---

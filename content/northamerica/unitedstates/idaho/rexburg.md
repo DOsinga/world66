@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rexburg_Idaho_Temple.jpg
 latitude: 43.826079
 loc_type: city
 longitude: -111.783728
-score: 0.34
+score: 0.27
 title: Rexburg
 type: location
 ---

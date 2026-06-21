@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eel_Pond_Bridge,_Woods_Hol
 latitude: 41.5239
 loc_type: city
 longitude: -70.6694
-score: 0.43
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Woods_Hole,_Massachusetts
 - https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution

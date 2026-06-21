@@ -5,7 +5,7 @@ done:
 latitude: 7.161
 loc_type: city
 longitude: 3.348
-score: 0.39
+score: 0.31
 title: Abeokuta
 type: location
 ---

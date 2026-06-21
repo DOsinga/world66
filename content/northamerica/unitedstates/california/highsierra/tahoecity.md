@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tahoe_City_-_panoramio.jpg
 latitude: 39.168937
 loc_type: city
 longitude: -120.143478
-score: 0.63
+score: 0.52
 title: Tahoe City
 type: location
 ---

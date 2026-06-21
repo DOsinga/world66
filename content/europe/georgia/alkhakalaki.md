@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhalkalaki_Fortress_(7).j
 latitude: 41.407791
 loc_type: city
 longitude: 43.485427
-score: 0.38
+score: 0.31
 title: Akhalkalaki
 type: location
 ---

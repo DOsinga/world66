@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47309201@N02/9207022219
 latitude: 37.6388
 loc_type: city
 longitude: 21.63
-score: 0.67
+score: 0.62
 title: Olympia
 type: location
 ---

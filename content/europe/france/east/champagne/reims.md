@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sub%C3%A9_Fountain,_Reims,
 latitude: 49.257789
 loc_type: city
 longitude: 4.031926
-score: 0.66
+score: 0.55
 title: Reims
 type: location
 ---

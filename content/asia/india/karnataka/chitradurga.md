@@ -5,7 +5,7 @@ done:
 latitude: 14.304917
 loc_type: city
 longitude: 76.529667
-score: 0.41
+score: 0.36
 title: Chitradurga
 type: location
 image: chitradurga.jpg

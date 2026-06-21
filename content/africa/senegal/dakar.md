@@ -7,7 +7,7 @@ done:
 latitude: 14.693425
 loc_type: city
 longitude: -17.447938
-score: 0.51
+score: 0.47
 title: Dakar
 type: location
 ---

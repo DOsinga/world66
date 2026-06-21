@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_at_Bodhga
 latitude: 24.6961
 loc_type: city
 longitude: 84.9869
-score: 0.57
+score: 0.51
 title: Bodh Gaya
 type: location
 ---

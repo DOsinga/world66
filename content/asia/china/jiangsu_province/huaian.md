@@ -8,6 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Huai%27an
 title: Huai'an
 type: location
+score: 0.28
 ---
 
 Huai'an was for centuries one of the most strategically important cities in China, a transit hub on the Grand Canal where grain from the south was transferred northward to feed the imperial capital. That era left behind a layered city of historical monuments, temple complexes, and a culinary tradition — Huaiyang cuisine — that is considered one of China's four great regional cuisines. Today the city is quieter than its imperial heyday, which makes it accessible in a way that more heavily visited places are not.

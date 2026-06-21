@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Val-David_QC_1.jpg
 latitude: 46.028281
 loc_type: city
 longitude: -74.206563
-score: 0.51
+score: 0.41
 title: Val-David
 type: location
 ---

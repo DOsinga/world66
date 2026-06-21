@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_urbano_de_Villafran
 latitude: 42.6023
 loc_type: city
 longitude: -6.815
-score: 0.48
+score: 0.41
 title: Vilafranca del Bierzo
 type: location
 ---

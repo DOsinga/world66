@@ -5,7 +5,7 @@ done:
 latitude: 31.5604
 loc_type: city
 longitude: -91.4032
-score: 0.49
+score: 0.43
 title: Natchez
 type: location
 ---

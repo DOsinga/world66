@@ -5,7 +5,7 @@ done:
 latitude: 42.6581
 loc_type: city
 longitude: 13.6979
-score: 0.51
+score: 0.41
 title: Teramo
 type: location
 image: teramo.jpg

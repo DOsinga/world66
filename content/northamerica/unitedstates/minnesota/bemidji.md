@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paul_Bunyan_and_Babe_statu
 latitude: 47.4723
 loc_type: city
 longitude: -94.8833
-score: 0.36
+score: 0.35
 title: Bemidji
 type: location
 ---

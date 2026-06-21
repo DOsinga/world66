@@ -6,11 +6,11 @@ latitude: 50.59556
 longitude: 36.587339
 title: Belgorod
 type: location
-score: 0.29
+score: 0.2
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Belgorod
-  - https://en.wikipedia.org/wiki/Battle_of_Prokhorovka
+- https://en.wikipedia.org/wiki/Belgorod
+- https://en.wikipedia.org/wiki/Battle_of_Prokhorovka
 ---
 
 Belgorod is a mid-sized city in southwestern Russia, about 40 km from the Ukrainian border. It sits on the chalk hills above the Seversky Donets River, and the city's name — "white city" — comes from the white chalk outcrops that define the [surrounding landscape](/europe/russia/belgorod_1/chalk_hills). Founded as a frontier fortress in the 16th century, Belgorod was largely destroyed during World War II and rebuilt in Soviet style, so the architecture is mostly functional rather than beautiful.

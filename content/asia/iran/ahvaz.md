@@ -5,7 +5,7 @@ done:
 latitude: 31.323064
 loc_type: city
 longitude: 48.67932
-score: 0.28
+score: 0.22
 title: Ahvaz
 type: location
 ---

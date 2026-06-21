@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Magliolo-panorama3.jpg
 latitude: 44.1915
 loc_type: city
 longitude: 8.2504
-score: 0.37
+score: 0.36
 title: Magliolo
 type: location
 ---

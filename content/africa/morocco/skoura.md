@@ -5,7 +5,7 @@ done:
 latitude: 31.060412
 loc_type: city
 longitude: -6.55755
-score: 0.52
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Skoura
 - https://en.wikipedia.org/wiki/Kasbah_Amridil

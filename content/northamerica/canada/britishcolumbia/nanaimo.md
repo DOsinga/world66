@@ -5,7 +5,7 @@ done:
 latitude: 49.1639
 loc_type: city
 longitude: -123.9381
-score: 0.5
+score: 0.42
 title: Nanaimo
 type: location
 image: nanaimo.jpg

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NP-GK-05_Gorkha_Museum_(Ta
 latitude: 28.0
 loc_type: city
 longitude: 84.6333
-score: 0.51
+score: 0.46
 title: Gorkha
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nepal_Patan_Durbar_Square_
 latitude: 27.6766
 loc_type: city
 longitude: 85.3166
-score: 0.61
+score: 0.56
 title: Lalitpur (Patan)
 type: location
 ---

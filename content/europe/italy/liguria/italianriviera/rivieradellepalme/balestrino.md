@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balestrino-panorama_borgo_
 latitude: 44.1251
 loc_type: city
 longitude: 8.1715
-score: 0.43
+score: 0.38
 title: Balestrino
 type: location
 ---

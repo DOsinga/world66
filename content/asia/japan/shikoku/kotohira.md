@@ -6,7 +6,7 @@ done:
 latitude: 34.1916
 loc_type: city
 longitude: 133.8233
-score: 0.6
+score: 0.53
 title: Kotohira
 type: location
 image: kotohira.jpg

@@ -5,7 +5,7 @@ done:
 latitude: -7.689418
 loc_type: city
 longitude: 110.38129
-score: 0.42
+score: 0.35
 title: Sleman
 type: location
 ---

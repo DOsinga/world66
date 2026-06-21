@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_House,_Monaghan_-_g
 latitude: 54.248558
 loc_type: city
 longitude: -6.968885
-score: 0.43
+score: 0.35
 title: Monaghan
 type: location
 ---

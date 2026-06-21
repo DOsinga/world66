@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/33252741@N08/48700104772
 latitude: 35.262664
 loc_type: city
 longitude: -77.581635
-score: 0.32
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Kinston,_North_Carolina
 - https://en.wikipedia.org/wiki/CSS_Neuse

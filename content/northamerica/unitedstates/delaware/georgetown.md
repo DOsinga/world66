@@ -5,7 +5,7 @@ done:
 latitude: 38.6901
 loc_type: city
 longitude: -75.3885
-score: 0.37
+score: 0.24
 title: Georgetown
 type: location
 ---

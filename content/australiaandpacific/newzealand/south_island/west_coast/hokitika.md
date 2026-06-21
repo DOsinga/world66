@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hokitika_Township.jpg
 latitude: -42.913029
 loc_type: city
 longitude: 170.973215
-score: 0.54
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Hokitika
 - https://en.wikipedia.org/wiki/Hokitika_Gorge

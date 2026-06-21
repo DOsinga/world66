@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-7-Pelje%C5%A1ac_Vigan
 latitude: 42.982063
 loc_type: city
 longitude: 17.102213
-score: 0.56
+score: 0.51
 title: Viganj
 type: location
 ---

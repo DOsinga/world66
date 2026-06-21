@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009_aerial_view_of_Pillar
 latitude: 37.463552
 loc_type: city
 longitude: -122.428586
-score: 0.52
+score: 0.47
 title: Half Moon Bay
 type: location
 ---

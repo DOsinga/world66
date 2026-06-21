@@ -5,7 +5,7 @@ done:
 latitude: -27.33
 loc_type: city
 longitude: 153.0643
-score: 0.42
+score: 0.35
 title: Sandgate
 type: location
 image: sandgate.jpg

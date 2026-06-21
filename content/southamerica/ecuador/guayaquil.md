@@ -7,7 +7,7 @@ done:
 latitude: -2.190057
 loc_type: city
 longitude: -79.886867
-score: 0.48
+score: 0.41
 title: Guayaquil
 type: location
 ---

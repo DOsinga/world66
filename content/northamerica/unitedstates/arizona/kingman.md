@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Route_66,_Kingman,_Arizona
 latitude: 35.1894
 loc_type: city
 longitude: -114.053
-score: 0.35
+score: 0.27
 title: Kingman
 type: location
 ---

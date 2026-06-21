@@ -5,7 +5,7 @@ done:
 latitude: -6.442208
 loc_type: city
 longitude: 38.906219
-score: 0.45
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Bagamoyo
 - https://en.wikipedia.org/wiki/Bagamoyo_Historic_Town

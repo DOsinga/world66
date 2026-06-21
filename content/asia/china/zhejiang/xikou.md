@@ -5,7 +5,7 @@ done:
 latitude: 29.692261
 loc_type: city
 longitude: 121.278182
-score: 0.39
+score: 0.36
 title: Xikou
 type: location
 ---

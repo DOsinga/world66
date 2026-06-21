@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Siracusa_-_Panorama_da_For
 latitude: 37.0646
 loc_type: city
 longitude: 15.2907
-score: 0.75
+score: 0.65
 title: Siracusa
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 8.322376
 longitude: -62.689662
 title: Ciudad Guayana
 type: location
-score: 0.25
+score: 0.22
 loc_type: city
 image: ciudadguayana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 60.718202
 loc_type: city
 longitude: -46.038521
-score: 0.46
+score: 0.43
 title: Qaqortoq
 type: location
 ---

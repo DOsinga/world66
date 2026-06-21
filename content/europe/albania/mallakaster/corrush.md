@@ -4,7 +4,7 @@ done:
 latitude: 40.443911
 loc_type: city
 longitude: 19.800563
-score: 0.33
+score: 0.21
 title: Corrush
 type: location
 image: corrush.jpg

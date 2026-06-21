@@ -5,7 +5,7 @@ done:
 latitude: -27.710999
 loc_type: city
 longitude: 114.163816
-score: 0.52
+score: 0.47
 title: Kalbarri
 type: location
 image: kalbarri.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Madurai,_India.jpg
 latitude: 9.926115
 loc_type: city
 longitude: 78.114098
-score: 0.57
+score: 0.5
 title: Madurai
 type: location
 ---

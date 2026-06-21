@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_
 latitude: 25.03752
 loc_type: city
 longitude: 121.56368
-score: 0.74
+score: 0.65
 title: Taipei
 type: location
 ---

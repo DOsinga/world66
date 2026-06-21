@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%A5gat,_Guam.jpg
 latitude: 13.381459
 loc_type: city
 longitude: 144.658155
-score: 0.4
+score: 0.35
 title: Agat
 type: location
 ---

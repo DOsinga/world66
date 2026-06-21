@@ -4,7 +4,7 @@ done:
 latitude: 21.88
 loc_type: city
 longitude: -72.107
-score: 0.61
+score: 0.54
 title: Pine Cay
 type: location
 ---

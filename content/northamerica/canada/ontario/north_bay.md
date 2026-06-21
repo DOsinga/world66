@@ -5,7 +5,7 @@ done:
 latitude: 46.3091
 loc_type: city
 longitude: -79.4608
-score: 0.43
+score: 0.33
 title: North Bay
 type: location
 ---

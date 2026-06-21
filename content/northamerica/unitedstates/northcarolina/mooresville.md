@@ -5,7 +5,7 @@ done:
 latitude: 35.58486
 loc_type: city
 longitude: -80.810072
-score: 0.34
+score: 0.29
 title: Mooresville
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:US_45_and_WI_28,_Kewaskum,
 latitude: 43.52138
 loc_type: city
 longitude: -88.227864
-score: 0.27
+score: 0.24
 title: Kewaskum
 type: location
 ---

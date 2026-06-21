@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jaisalmer_Fort.jpg
 latitude: 26.9117
 loc_type: city
 longitude: 70.9125
-score: 0.72
+score: 0.64
 title: Jaisalmer
 type: location
 ---

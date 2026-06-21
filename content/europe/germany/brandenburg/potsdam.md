@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Havel-Park-Lake-Babelsberg
 latitude: 52.3906
 loc_type: city
 longitude: 13.0645
-score: 0.7
+score: 0.57
 title: Potsdam
 type: location
 ---

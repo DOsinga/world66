@@ -5,7 +5,7 @@ done:
 latitude: -16.9186
 loc_type: city
 longitude: 145.7781
-score: 0.71
+score: 0.63
 title: Cairns
 type: location
 ---

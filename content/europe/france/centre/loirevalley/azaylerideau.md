@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loire_Indre_Azay2_tango717
 latitude: 47.261479
 loc_type: city
 longitude: 0.466713
-score: 0.66
+score: 0.56
 title: Azay-le-Rideau
 type: location
 ---

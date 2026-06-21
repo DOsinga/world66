@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Raipur_Junction_
 latitude: 21.238091
 loc_type: city
 longitude: 81.633699
-score: 0.3
+score: 0.24
 title: Raipur
 type: location
 ---

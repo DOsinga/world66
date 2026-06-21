@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/68112440@N07/53327177135
 latitude: 53.046508
 loc_type: city
 longitude: -2.993787
-score: 0.42
+score: 0.34
 title: Wrexham
 type: location
 ---

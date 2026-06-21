@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koper,_mesto.jpg
 latitude: 45.547986
 loc_type: city
 longitude: 13.730478
-score: 0.57
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Koper
 - https://en.wikipedia.org/wiki/Praetorian_Palace

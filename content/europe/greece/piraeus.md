@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/5063992365
 latitude: 37.9431
 loc_type: city
 longitude: 23.6471
-score: 0.55
+score: 0.42
 title: Piraeus
 type: location
 ---

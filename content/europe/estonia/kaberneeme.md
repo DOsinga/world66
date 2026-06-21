@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaberneeme,_Estonia,_2012-
 latitude: 59.518844
 loc_type: city
 longitude: 25.272958
-score: 0.35
+score: 0.29
 title: Kaberneeme
 type: location
 ---

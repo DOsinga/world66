@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baroda_Museum01.jpg
 latitude: 22.297314
 loc_type: city
 longitude: 73.194257
-score: 0.45
+score: 0.37
 title: Vadodara
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ano_Syros_-_View.JPG
 latitude: 37.43851
 loc_type: city
 longitude: 24.912377
-score: 0.55
+score: 0.47
 title: Siros
 type: location
 ---

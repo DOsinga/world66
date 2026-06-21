@@ -5,7 +5,7 @@ done:
 latitude: 10.2623
 loc_type: city
 longitude: 12.9479
-score: 0.22
+score: 0.15
 title: Hong
 type: location
 ---

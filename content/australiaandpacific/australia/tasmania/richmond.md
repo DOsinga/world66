@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/136315829@N03/32355509021
 latitude: -42.7354
 loc_type: city
 longitude: 147.4381
-score: 0.51
+score: 0.43
 title: Richmond
 type: location
 ---

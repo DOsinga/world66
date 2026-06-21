@@ -5,7 +5,7 @@ done:
 latitude: 48.2663
 loc_type: city
 longitude: 21.356
-score: 0.38
+score: 0.34
 title: Erdőbénye
 type: location
 ---

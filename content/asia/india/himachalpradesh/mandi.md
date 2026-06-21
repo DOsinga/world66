@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0042623_Trilokinatha_templ
 latitude: 31.706944
 loc_type: city
 longitude: 76.931666
-score: 0.51
+score: 0.4
 title: Mandi
 type: location
 ---

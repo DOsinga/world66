@@ -5,7 +5,7 @@ done:
 latitude: 15.603183
 loc_type: city
 longitude: 39.463697
-score: 0.43
+score: 0.34
 title: Massawa
 type: location
 ---

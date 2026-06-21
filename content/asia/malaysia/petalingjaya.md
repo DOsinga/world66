@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_SS2_Petalin
 latitude: 3.1073
 loc_type: city
 longitude: 101.6067
-score: 0.44
+score: 0.34
 title: Petaling Jaya
 type: location
 ---

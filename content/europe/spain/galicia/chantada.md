@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chantada_-_panoramio.jpg
 latitude: 42.6096
 loc_type: city
 longitude: -7.7706
-score: 0.43
+score: 0.36
 title: Chantada
 type: location
 ---

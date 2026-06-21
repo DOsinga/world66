@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barretto,_Olongapo,_Zambal
 latitude: 14.8386
 loc_type: city
 longitude: 120.2842
-score: 0.39
+score: 0.32
 title: Olongapo City
 type: location
 ---

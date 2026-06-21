@@ -13,6 +13,7 @@ image: tiberias.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_peters_tiberias_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Wikimedia Commons
+score: 0.49
 ---
 
 *Asia > Israel > Tiberias*

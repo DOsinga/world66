@@ -6,7 +6,7 @@ latitude: 33.059899
 longitude: 10.339057
 title: Ghomrassen
 type: location
-score: 0.36
+score: 0.31
 loc_type: city
 ---
 

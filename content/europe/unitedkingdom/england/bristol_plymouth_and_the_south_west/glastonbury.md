@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glastonbury_Tor_from_the_s
 latitude: 51.14804
 loc_type: city
 longitude: -2.716577
-score: 0.58
+score: 0.53
 title: Glastonbury
 type: location
 ---

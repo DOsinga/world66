@@ -5,7 +5,7 @@ done:
 latitude: 38.4044
 loc_type: city
 longitude: 14.9618
-score: 0.64
+score: 0.58
 title: Vulcano
 type: location
 ---

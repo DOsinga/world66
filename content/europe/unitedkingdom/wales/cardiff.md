@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cardiff_Bay_WMC.jpg
 latitude: 51.481655
 loc_type: city
 longitude: -3.179193
-score: 0.58
+score: 0.49
 title: Cardiff
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 54.2282
 loc_type: city
 longitude: -4.3938
-score: 0.5
+score: 0.42
 title: Laxey
 type: location
 ---

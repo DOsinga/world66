@@ -2,7 +2,7 @@
 latitude: 11.2095
 loc_type: city
 longitude: 99.5114
-score: 7.4
+score: 0.43
 snippet: Quiet Gulf coast beaches far from the tourist trail
 title: Bang Saphan
 type: location

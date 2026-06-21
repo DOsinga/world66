@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Swallow_Motel_from_SW
 latitude: 35.1719
 loc_type: city
 longitude: -103.725
-score: 0.38
+score: 0.3
 title: Tucumcari
 type: location
 ---

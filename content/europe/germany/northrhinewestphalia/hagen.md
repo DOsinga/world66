@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bodendenkmal_Schloss_Hohen
 latitude: 51.358294
 loc_type: city
 longitude: 7.473296
-score: 0.37
+score: 0.31
 title: Hagen
 type: location
 ---

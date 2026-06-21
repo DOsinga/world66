@@ -13,6 +13,7 @@ image: canggu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Canggu_beach_4.jpg
 image_license: CC0
 image_attribution: Mx. Granger
+score: 0.61
 ---
 
 Canggu is the neighbourhood that happened to [Bali](/asia/indonesia/bali) when the Airbnb generation arrived. Ten years ago it was a village of rice fields, surf breaks, and a handful of warung. Now it is one of Southeast Asia's most concentrated digital nomad hubs, with co-working cafes on every corner, boutique yoga studios in converted barns, and a beach road of beach clubs, smoothie bars, and Instagram-ready restaurants. It has somehow managed to remain genuinely pleasant despite all of this.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Armor_on_the_move.jpg
 latitude: -6.138795
 loc_type: city
 longitude: 12.369014
-score: 0.26
+score: 0.2
 title: Soyo
 type: location
 ---

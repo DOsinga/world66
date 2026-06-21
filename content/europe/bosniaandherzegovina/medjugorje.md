@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/60057960@N06/22476980837
 latitude: 43.1896
 loc_type: city
 longitude: 17.6758
-score: 0.48
+score: 0.41
 title: Medjugorje
 type: location
 ---

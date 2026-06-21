@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Fr%C3%A9jus
 title: Fréjus
 type: location
+score: 0.49
 ---
 
 Fréjus sits quietly on the Var coast between Saint-Raphaël and the Massif de l'Estérel, and it punches well above its weight historically. The Romans called it Forum Julii and established it as a major naval base — what remains is one of the most substantial collections of Roman ruins in France outside of Provence's more famous sites. You can walk from a Roman theatre to an arena to the traces of a harbour wall all within a few minutes, which gives the old town a depth that beach resorts along this stretch of coast rarely match.

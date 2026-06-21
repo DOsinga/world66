@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_of_Newport_marina,_Ya
 latitude: 44.6368
 loc_type: city
 longitude: -124.0535
-score: 0.5
+score: 0.43
 title: Newport
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 21.333
 loc_type: city
 longitude: -71.2
-score: 0.55
+score: 0.49
 title: Salt Cay
 type: location
 ---

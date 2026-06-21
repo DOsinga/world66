@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_histor
 latitude: 8.102853
 loc_type: city
 longitude: -63.546956
-score: 0.35
+score: 0.31
 title: Ciudad Bolívar
 type: location
 ---

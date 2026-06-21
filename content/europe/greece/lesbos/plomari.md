@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plomari_-_2004-07-26_-_18.
 latitude: 38.975389
 loc_type: city
 longitude: 26.368424
-score: 0.54
+score: 0.44
 title: Plomari
 type: location
 ---

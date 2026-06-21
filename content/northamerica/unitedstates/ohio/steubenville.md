@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dean_Martin_Mural_in_Steub
 latitude: 40.360071
 loc_type: city
 longitude: -80.615103
-score: 0.33
+score: 0.24
 title: Steubenville
 type: location
 ---

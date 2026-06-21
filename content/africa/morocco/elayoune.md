@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monumental_Arch,_Laayoune.
 latitude: 27.1536
 loc_type: city
 longitude: -13.2033
-score: 0.32
+score: 0.29
 title: Laayoune
 type: location
 ---

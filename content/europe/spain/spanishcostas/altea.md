@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altea_costa.JPG
 latitude: 38.5991
 loc_type: city
 longitude: -0.0486
-score: 0.61
+score: 0.52
 title: Altea
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_site_at_Lothal_11.
 latitude: 22.522677
 loc_type: city
 longitude: 72.249308
-score: 0.48
+score: 0.4
 title: Lothal
 type: location
 ---

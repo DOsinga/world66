@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kohat_Velly.jpg
 latitude: 33.596714
 loc_type: city
 longitude: 71.439994
-score: 0.27
+score: 0.2
 title: Kohat
 type: location
 ---

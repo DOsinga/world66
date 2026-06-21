@@ -6,7 +6,7 @@ done:
 latitude: 34.3428
 loc_type: city
 longitude: 134.0466
-score: 0.66
+score: 0.54
 title: Takamatsu
 type: location
 ---

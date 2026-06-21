@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16782093@N03/9467833224
 latitude: 52.2241
 loc_type: city
 longitude: 5.1719
-score: 0.42
+score: 0.35
 title: Hilversum
 type: location
 ---

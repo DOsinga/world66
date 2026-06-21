@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kadamyli_from_Proastio.jpg
 latitude: 36.8966
 loc_type: city
 longitude: 22.2199
-score: 0.64
+score: 0.54
 title: Kardamili
 type: location
 ---

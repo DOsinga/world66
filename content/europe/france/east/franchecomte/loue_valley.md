@@ -5,7 +5,7 @@ done:
 latitude: 47.1003
 loc_type: city
 longitude: 6.1467
-score: 0.55
+score: 0.47
 title: Loue Valley
 type: location
 image: loue_valley.jpg

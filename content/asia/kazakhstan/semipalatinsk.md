@@ -6,7 +6,7 @@ latitude: 50.4044
 longitude: 80.2497
 title: Semipalatinsk
 type: location
-score: 0.26
+score: 0.22
 loc_type: city
 ---
 

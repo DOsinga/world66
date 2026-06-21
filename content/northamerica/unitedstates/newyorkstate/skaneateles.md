@@ -5,7 +5,7 @@ done:
 latitude: 42.947011
 loc_type: city
 longitude: -76.429102
-score: 0.49
+score: 0.41
 title: Skaneateles
 type: location
 ---

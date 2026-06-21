@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shravanabelagola_Hillview.
 latitude: 12.8547
 loc_type: city
 longitude: 76.4859
-score: 0.53
+score: 0.43
 title: Sravanabelagola
 type: location
 ---

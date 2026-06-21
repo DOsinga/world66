@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atuel_Canyon_1.jpg
 latitude: -34.612603
 loc_type: city
 longitude: -68.330514
-score: 0.48
+score: 0.38
 title: San Rafael
 type: location
 ---

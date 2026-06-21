@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Deer_-_Aerial_-_downto
 latitude: 52.269063
 loc_type: city
 longitude: -113.814146
-score: 0.37
+score: 0.3
 title: Red Deer
 type: location
 ---

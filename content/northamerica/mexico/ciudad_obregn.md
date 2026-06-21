@@ -5,7 +5,7 @@ done:
 latitude: 27.484662
 loc_type: city
 longitude: -109.933778
-score: 0.33
+score: 0.26
 title: Ciudad Obregón
 type: location
 ---

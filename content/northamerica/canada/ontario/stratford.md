@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Perth_County_Courthouse,_S
 latitude: 43.37009
 loc_type: city
 longitude: -80.981802
-score: 0.49
+score: 0.43
 title: Stratford
 type: location
 ---

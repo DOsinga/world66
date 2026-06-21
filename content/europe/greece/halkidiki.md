@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Athos_monasteries,_Halkidi
 latitude: 40.331
 loc_type: city
 longitude: 23.3621
-score: 0.67
+score: 0.58
 title: Halkidiki
 type: location
 ---

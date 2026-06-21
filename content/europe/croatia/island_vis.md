@@ -5,7 +5,7 @@ done:
 latitude: 43.043421
 loc_type: city
 longitude: 16.165472
-score: 0.68
+score: 0.56
 title: Island Vis
 type: location
 ---

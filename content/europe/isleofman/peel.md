@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Peel_(Isle_of_Man)
 title: Peel
 type: location
+score: 0.44
 ---
 
 *Europe > Isle of Man > Peel*

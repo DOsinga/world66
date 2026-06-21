@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/46191841@N00/16878417260
 latitude: 50.851244
 loc_type: city
 longitude: 5.690977
-score: 0.66
+score: 0.54
 title: Maastricht
 type: location
 ---

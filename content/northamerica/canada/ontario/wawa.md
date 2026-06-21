@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canada_Goose_at_Wawa_Ontar
 latitude: 47.9929
 loc_type: city
 longitude: -84.774
-score: 0.38
+score: 0.32
 title: Wawa
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 42.500096
 loc_type: city
 longitude: -70.857825
-score: 0.51
+score: 0.42
 title: Marblehead
 type: location
 ---

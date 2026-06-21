@@ -5,7 +5,7 @@ done:
 latitude: 50.041943
 loc_type: city
 longitude: 1.334025
-score: 0.46
+score: 0.38
 title: Mesnil-Val
 type: location
 ---

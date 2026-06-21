@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Franz_Josef_Glacier_14.jpg
 latitude: -43.387382
 loc_type: city
 longitude: 170.181932
-score: 0.63
+score: 0.57
 title: Franz Josef
 type: location
 ---

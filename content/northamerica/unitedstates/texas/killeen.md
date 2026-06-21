@@ -5,7 +5,7 @@ done:
 latitude: 31.1171
 loc_type: city
 longitude: -97.7278
-score: 0.3
+score: 0.25
 title: Killeen
 type: location
 ---

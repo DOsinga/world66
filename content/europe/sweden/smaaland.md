@@ -6,7 +6,7 @@ latitude: 57.25
 longitude: 15.25
 title: Småland
 type: location
-score: 0.49
+score: 0.43
 loc_type: city
 ---
 

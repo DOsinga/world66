@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mackinac_Is
 latitude: 45.84907
 loc_type: city
 longitude: -84.619857
-score: 0.59
+score: 0.53
 title: Mackinac Island
 type: location
 ---

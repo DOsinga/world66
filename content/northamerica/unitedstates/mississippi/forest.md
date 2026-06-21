@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/82955120@N05/20137675852
 latitude: 32.3646
 loc_type: city
 longitude: -89.4742
-score: 0.29
+score: 0.18
 title: Forest
 type: location
 ---

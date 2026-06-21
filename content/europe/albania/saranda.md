@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CIty_of_Saranda_Albania_20
 latitude: 39.87522
 loc_type: city
 longitude: 20.006526
-score: 0.58
+score: 0.5
 title: Saranda
 type: location
 ---

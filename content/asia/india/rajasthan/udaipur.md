@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_Cit
 latitude: 24.5787
 loc_type: city
 longitude: 73.6863
-score: 0.76
+score: 0.66
 title: Udaipur
 type: location
 ---

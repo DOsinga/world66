@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Foginovo_kupali%C5%A1te.jp
 latitude: 45.4893
 loc_type: city
 longitude: 15.5486
-score: 0.51
+score: 0.44
 title: Karlovac
 type: location
 ---

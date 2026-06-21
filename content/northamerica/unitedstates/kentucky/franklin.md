@@ -5,7 +5,7 @@ done:
 latitude: 36.7223
 loc_type: city
 longitude: -86.5775
-score: 0.29
+score: 0.25
 title: Franklin
 type: location
 ---

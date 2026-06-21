@@ -5,7 +5,7 @@ done:
 latitude: 44.1118
 loc_type: city
 longitude: 8.0709
-score: 0.47
+score: 0.37
 title: Castelbianco
 type: location
 ---

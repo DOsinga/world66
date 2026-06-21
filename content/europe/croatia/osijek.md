@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arheolo%C5%A1ki_muzej_Osij
 latitude: 45.554879
 loc_type: city
 longitude: 18.695369
-score: 0.48
+score: 0.43
 title: Osijek
 type: location
 ---

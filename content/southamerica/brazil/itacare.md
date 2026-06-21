@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Itacar%C3%A9
 title: Itacaré
 type: location
+score: 0.5
 ---
 
 Itacaré is a small surfing and beach town on the cacao coast of southern Bahia, set where the Rio de Contas meets the Atlantic about an hour north of [Ilhéus](/southamerica/brazil/lheus). It started out as a fishing village and a port for the cocoa plantations, kept its colonial church, and then in the 1990s reinvented itself as Bahia's most low-key surf destination. The result is a place that looks fairly polished — pousadas, juice bars, surf shops — but still feels small and personal compared with the resorts further south.

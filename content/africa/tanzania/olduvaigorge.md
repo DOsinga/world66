@@ -5,7 +5,7 @@ latitude: -2.976439
 longitude: 35.337887
 title: Olduvai Gorge
 type: location
-score: 0.52
+score: 0.46
 loc_type: feature
 ---
 

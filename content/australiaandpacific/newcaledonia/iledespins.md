@@ -4,7 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -22.605091
 longitude: 167.468583
-score: 0.7
+score: 0.62
 title: Île des Pins
 type: location
 loc_type: feature

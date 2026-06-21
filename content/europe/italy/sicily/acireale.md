@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Acireale,_piazza_del_duomo
 latitude: 37.6128
 loc_type: city
 longitude: 15.1659
-score: 0.57
+score: 0.48
 title: Acireale
 type: location
 ---

@@ -9,7 +9,7 @@ latitude: 61.0587
 longitude: 28.1887
 title: Lappeenranta
 type: location
-score: 0.51
+score: 0.42
 loc_type: city
 ---
 

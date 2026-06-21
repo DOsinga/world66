@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cycling_in_Fraser's_Hill_J
 latitude: 3.713048
 loc_type: city
 longitude: 101.736557
-score: 0.53
+score: 0.45
 title: Fraser's Hill
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alto_del_Nudo_-_Pereira.jp
 latitude: 4.8133
 loc_type: city
 longitude: -75.6961
-score: 0.45
+score: 0.4
 title: Pereira
 type: location
 ---

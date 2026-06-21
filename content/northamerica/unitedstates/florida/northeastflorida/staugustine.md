@@ -7,7 +7,7 @@ done:
 latitude: 29.8943
 loc_type: city
 longitude: -81.3145
-score: 0.65
+score: 0.52
 title: St. Augustine
 type: location
 ---

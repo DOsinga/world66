@@ -5,7 +5,7 @@ done:
 latitude: 49.591404
 loc_type: city
 longitude: 117.446432
-score: 0.43
+score: 0.34
 title: Manzhouli
 type: location
 ---

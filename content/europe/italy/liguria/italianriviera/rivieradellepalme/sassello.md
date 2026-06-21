@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sassello-IMG_1096.JPG
 latitude: 44.478969
 loc_type: city
 longitude: 8.490171
-score: 0.46
+score: 0.38
 title: Sassello
 type: location
 ---

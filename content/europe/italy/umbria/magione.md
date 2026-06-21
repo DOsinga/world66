@@ -5,7 +5,7 @@ done:
 latitude: 43.1427
 loc_type: city
 longitude: 12.2035
-score: 0.47
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Magione
 - https://en.wikipedia.org/wiki/Lake_Trasimeno

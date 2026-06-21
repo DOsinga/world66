@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-07-06_07-08_Kanada,_O
 latitude: 43.3601
 loc_type: city
 longitude: -80.3123
-score: 0.4
+score: 0.3
 title: Cambridge
 type: location
 ---

@@ -7,7 +7,7 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Les_Chutes_de_Boali_001.jpg
 latitude: 4.8
 longitude: 18.1167
-score: 0.24
+score: 0.2
 title: Boali
 type: location
 loc_type: feature

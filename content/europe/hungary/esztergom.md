@@ -5,7 +5,7 @@ done:
 latitude: 47.7857
 loc_type: city
 longitude: 18.7403
-score: 0.56
+score: 0.49
 title: Esztergom
 type: location
 ---

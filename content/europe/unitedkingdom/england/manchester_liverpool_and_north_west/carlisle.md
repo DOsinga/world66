@@ -7,7 +7,7 @@ done:
 latitude: 54.8951
 loc_type: city
 longitude: -2.9382
-score: 0.42
+score: 0.35
 title: Carlisle
 type: location
 ---

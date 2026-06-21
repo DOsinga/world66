@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/127035585@N03/22007378952
 latitude: 47.5963
 loc_type: city
 longitude: -120.6615
-score: 0.58
+score: 0.47
 title: Leavenworth
 type: location
 ---

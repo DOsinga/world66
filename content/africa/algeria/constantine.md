@@ -8,7 +8,7 @@ image_license: Public Domain
 latitude: 36.364164
 loc_type: city
 longitude: 6.608428
-score: 0.42
+score: 0.38
 title: Constantine
 type: location
 ---

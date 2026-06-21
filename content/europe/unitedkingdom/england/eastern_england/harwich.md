@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 51.9446
 longitude: 1.2899
-score: 0.41
+score: 0.35
 title: Harwich
 type: location
 loc_type: city

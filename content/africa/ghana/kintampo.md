@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_landscape_view_of_the_fa
 latitude: 8.053714
 loc_type: city
 longitude: -1.728919
-score: 0.36
+score: 0.27
 title: Kintampo
 type: location
 ---

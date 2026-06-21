@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/14868775@N07/5220658725
 latitude: 32.156119
 loc_type: city
 longitude: -5.633585
-score: 0.47
+score: 0.39
 title: Imilchil
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 10.730573
 loc_type: city
 longitude: 43.691688
-score: 0.18
+score: 0.13
 title: Lughaya
 type: location
 image: lughaya.jpg

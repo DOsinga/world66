@@ -5,7 +5,7 @@ done:
 latitude: 21.378099
 loc_type: city
 longitude: -103.126093
-score: 0.39
+score: 0.32
 title: Juchipila
 type: location
 ---

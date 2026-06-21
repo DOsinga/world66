@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palo_Alto_Networks_Headqua
 latitude: 37.444329
 loc_type: city
 longitude: -122.159847
-score: 0.41
+score: 0.37
 title: Palo Alto
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ozark_National_Scenic_Rive
 latitude: 37.1907
 loc_type: feature
 longitude: -91.2763
-score: 0.47
+score: 0.41
 title: Ozark National Scenic Riverways
 type: location
 ---

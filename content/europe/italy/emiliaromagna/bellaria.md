@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellaria_chiesa.JPG
 latitude: 44.145
 loc_type: city
 longitude: 12.468
-score: 0.52
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Bellaria-Igea_Marina
 title: Bellaria

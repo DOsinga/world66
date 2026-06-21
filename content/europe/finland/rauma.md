@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rauma_3.jpg
 latitude: 61.1289
 loc_type: city
 longitude: 21.5039
-score: 0.52
+score: 0.46
 title: Rauma
 type: location
 ---

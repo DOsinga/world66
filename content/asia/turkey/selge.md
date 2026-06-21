@@ -1,14 +1,14 @@
 ---
 title: Selge
-latitude: 37.15000
-longitude: 31.10000
+latitude: 37.15
+longitude: 31.1
 type: location
 loc_type: city
-score: 0.4
+score: 0.42
 tags:
-  - ancient_ruins
-  - nature
-  - hiking
+- ancient_ruins
+- nature
+- hiking
 image: selge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Selge_panorama.jpg
 image_license: CC BY-SA 4.0

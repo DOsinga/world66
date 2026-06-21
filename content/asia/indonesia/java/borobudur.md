@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borobudur,_Java,_Indonesia
 latitude: -7.608
 loc_type: feature
 longitude: 110.2038
-score: 0.76
+score: 0.69
 sources:
 - https://en.wikipedia.org/wiki/Borobudur
 - https://en.wikivoyage.org/wiki/Borobudur

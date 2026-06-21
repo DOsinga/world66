@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Wutai.JPG
 latitude: 39.037334
 loc_type: feature
 longitude: 113.489871
-score: 0.58
+score: 0.52
 title: Mt. Wutai
 type: location
 ---

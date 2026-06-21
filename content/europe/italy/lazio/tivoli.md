@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hadrian%27s_Villa,_Tivoli_
 latitude: 41.960922
 loc_type: city
 longitude: 12.798884
-score: 0.68
+score: 0.58
 title: Tivoli
 type: location
 ---

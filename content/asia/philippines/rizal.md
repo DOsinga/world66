@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antipolo_Cathedral,_Rizal_
 latitude: 14.65
 loc_type: city
 longitude: 121.25
-score: 0.42
+score: 0.32
 title: Rizal
 type: location
 ---

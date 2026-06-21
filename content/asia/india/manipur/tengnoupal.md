@@ -5,7 +5,7 @@ done:
 latitude: 24.362616
 loc_type: city
 longitude: 94.2595
-score: 0.3
+score: 0.24
 title: Tengnoupal
 type: location
 ---

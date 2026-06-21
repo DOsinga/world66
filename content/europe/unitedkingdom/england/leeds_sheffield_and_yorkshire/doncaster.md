@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Minster_Church_of_St_G
 latitude: 53.5228
 loc_type: city
 longitude: -1.1335
-score: 0.39
+score: 0.32
 title: Doncaster
 type: location
 ---

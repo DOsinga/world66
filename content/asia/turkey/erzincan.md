@@ -5,7 +5,7 @@ done:
 latitude: 39.7464
 loc_type: city
 longitude: 39.4914
-score: 0.41
+score: 0.33
 title: Erzincan
 type: location
 image: erzincan.jpg

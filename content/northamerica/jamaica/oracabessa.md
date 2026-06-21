@@ -6,7 +6,7 @@ latitude: 18.4043
 longitude: -76.9694
 title: Oracabessa
 type: location
-score: 0.56
+score: 0.44
 loc_type: city
 ---
 

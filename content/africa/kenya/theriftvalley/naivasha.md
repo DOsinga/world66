@@ -5,7 +5,7 @@ done:
 latitude: -0.722442
 loc_type: city
 longitude: 36.438783
-score: 0.56
+score: 0.49
 title: Naivasha
 type: location
 ---

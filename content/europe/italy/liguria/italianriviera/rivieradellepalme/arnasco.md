@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnasco-panorama1.jpg
 latitude: 44.0782
 loc_type: city
 longitude: 8.1074
-score: 0.41
+score: 0.35
 title: Arnasco
 type: location
 ---

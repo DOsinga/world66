@@ -5,7 +5,7 @@ done:
 latitude: 20.891958
 loc_type: city
 longitude: 76.204035
-score: 0.25
+score: 0.22
 title: Malkapur
 type: location
 ---

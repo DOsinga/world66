@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Dingli_(Triq_Panor
 latitude: 35.86042
 loc_type: city
 longitude: 14.381682
-score: 0.53
+score: 0.42
 title: Dingli
 type: location
 ---

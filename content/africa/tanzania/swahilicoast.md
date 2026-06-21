@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shimoni_fishermen.JPG
 latitude: -6.8167
 loc_type: city
 longitude: 39.2833
-score: 0.59
+score: 0.54
 title: Swahili Coast
 type: location
 ---

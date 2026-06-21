@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_from_the_Roof_deck_
 latitude: -0.220164
 loc_type: city
 longitude: -78.512327
-score: 0.7
+score: 0.6
 title: Quito
 type: location
 ---

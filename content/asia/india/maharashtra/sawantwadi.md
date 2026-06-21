@@ -5,7 +5,7 @@ done:
 latitude: 15.90796
 loc_type: city
 longitude: 73.820531
-score: 0.39
+score: 0.32
 title: Sawantwadi
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 41.594841
 loc_type: city
 longitude: 20.654209
-score: 0.45
+score: 0.37
 title: Galichnik
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kota_Gede_Jogjakarta.jpg
 latitude: -7.81831
 loc_type: city
 longitude: 110.397941
-score: 0.4
+score: 0.36
 title: Kotagede
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -24.8653
 loc_type: city
 longitude: 152.3517
-score: 0.47
+score: 0.38
 title: Bundaberg
 type: location
 image: bundaberg.jpg

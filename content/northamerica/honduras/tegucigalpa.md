@@ -5,7 +5,7 @@ done:
 latitude: 14.0818
 loc_type: city
 longitude: -87.2068
-score: 0.36
+score: 0.26
 title: Tegucigalpa
 type: location
 image: tegucigalpa.jpg

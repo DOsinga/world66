@@ -5,7 +5,7 @@ done:
 latitude: 52.330509
 loc_type: city
 longitude: -0.184351
-score: 0.38
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Huntingdon
 - https://en.wikipedia.org/wiki/Cromwell_Museum

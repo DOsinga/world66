@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: -12.5667
 longitude: -37.9833
+score: 0.47
 ---
 
 Praia do Forte is a small resort village on the Coconut Coast of Bahia, about 70 kilometres north of Salvador. For much of the year it is a quiet fishing settlement, but it has become one of Bahia's most visited beach destinations thanks to its long stretch of calm, clear water, its well-preserved old village centre, and the turtle conservation project that put it on the map.

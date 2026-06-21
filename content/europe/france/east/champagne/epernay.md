@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Epernay-moet-orangerie(1).
 latitude: 49.042561
 loc_type: city
 longitude: 3.952866
-score: 0.66
+score: 0.56
 title: Epernay
 type: location
 ---

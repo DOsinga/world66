@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saltwhistlebay.jpg
 latitude: 12.6389
 loc_type: city
 longitude: -61.3944
-score: 0.63
+score: 0.55
 title: Mayreau
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 50.520008
 loc_type: city
 longitude: 1.586453
-score: 0.51
+score: 0.44
 title: Le Touquet
 type: location
 ---

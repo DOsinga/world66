@@ -5,7 +5,7 @@ done:
 latitude: 16.702841
 loc_type: city
 longitude: 74.240533
-score: 0.44
+score: 0.36
 title: Kolhapur
 type: location
 image: kolhapur.jpg

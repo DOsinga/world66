@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Udine,_Italy_(7427909718).
 latitude: 46.063463
 loc_type: city
 longitude: 13.235838
-score: 0.58
+score: 0.48
 title: Udine
 type: location
 ---

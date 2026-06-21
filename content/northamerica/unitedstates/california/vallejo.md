@@ -6,11 +6,11 @@ latitude: 38.1041
 longitude: -122.2566
 title: Vallejo
 type: location
-score: 0.35
+score: 0.27
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Vallejo,_California
-  - https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
+- https://en.wikipedia.org/wiki/Vallejo,_California
+- https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
 ---
 
 Vallejo sits at the northeast end of San Francisco Bay, a working-class city with more character than its reputation suggests. It served briefly as the state capital of California in the 1850s, and for over a century the [Mare Island Naval Shipyard](/northamerica/unitedstates/california/vallejo/mare_island) — the first on the West Coast — was the economic engine of the town. The shipyard closed in 1996, but the island is now a sprawling historic park with officer's mansions, massive dry docks, and [St. Peter's Chapel](/northamerica/unitedstates/california/vallejo/st_peters_chapel), which contains one of the largest collections of Tiffany stained glass in the western United States.

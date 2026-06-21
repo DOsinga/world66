@@ -5,7 +5,7 @@ done:
 latitude: -19.485778
 loc_type: city
 longitude: 169.334501
-score: 0.61
+score: 0.51
 title: Tanna
 type: location
 ---

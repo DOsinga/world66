@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deogad_Beach_in_Sindhudurg
 latitude: 16.3808
 loc_type: city
 longitude: 73.3565
-score: 0.37
+score: 0.31
 title: Deogad
 type: location
 ---

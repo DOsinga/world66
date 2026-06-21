@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Black_Dragon_%E9%BB%91%E9%
 latitude: 26.859587
 loc_type: city
 longitude: 100.22498
-score: 0.69
+score: 0.63
 sources:
 - https://en.wikipedia.org/wiki/Lijiang
 - https://en.wikipedia.org/wiki/Old_Town_of_Lijiang

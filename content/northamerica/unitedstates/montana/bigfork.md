@@ -5,7 +5,7 @@ done:
 latitude: 48.0613
 loc_type: city
 longitude: -114.0786
-score: 0.51
+score: 0.4
 title: Bigfork
 type: location
 ---

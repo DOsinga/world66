@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dauphin_Island_06May2010_0
 latitude: 30.254202
 loc_type: city
 longitude: -88.112482
-score: 0.43
+score: 0.35
 title: Dauphin Island
 type: location
 ---

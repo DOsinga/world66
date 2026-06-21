@@ -5,7 +5,7 @@ done:
 latitude: 10.974416
 loc_type: city
 longitude: 106.494897
-score: 0.56
+score: 0.47
 title: Cu Chi
 type: location
 ---

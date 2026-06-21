@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/125601701@N03/49921813791
 latitude: 47.799515
 loc_type: city
 longitude: -4.285826
-score: 0.46
+score: 0.41
 title: Guilvinec
 type: location
 ---

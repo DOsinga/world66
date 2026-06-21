@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20200805_22_Maumee_River,_
 latitude: 41.652914
 loc_type: city
 longitude: -83.537817
-score: 0.33
+score: 0.27
 title: Toledo
 type: location
 ---

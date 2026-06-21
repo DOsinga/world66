@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FriedenskapelleMalbun_Roma
 latitude: 47.102619
 loc_type: city
 longitude: 9.608307
-score: 0.46
+score: 0.45
 title: Malbun
 type: location
 ---

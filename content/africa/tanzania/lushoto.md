@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lushoto,_Irente.jpg
 latitude: -4.495284
 loc_type: city
 longitude: 38.448023
-score: 0.47
+score: 0.42
 title: Lushoto
 type: location
 ---

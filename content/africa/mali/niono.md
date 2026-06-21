@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Africa._French_West_Africa
 latitude: 14.25152
 loc_type: city
 longitude: -5.978334
-score: 0.25
+score: 0.12
 title: Niono
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg
 latitude: 39.9574
 loc_type: city
 longitude: 26.2385
-score: 0.59
+score: 0.51
 title: Troy
 type: location
 ---

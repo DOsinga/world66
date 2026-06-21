@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_Cortegana_en_Huel
 latitude: 37.909302
 loc_type: city
 longitude: -6.819617
-score: 0.49
+score: 0.38
 title: Cortegana
 type: location
 ---

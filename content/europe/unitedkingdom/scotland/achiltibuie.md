@@ -5,7 +5,7 @@ done:
 latitude: 58.020077
 loc_type: city
 longitude: -5.343004
-score: 0.51
+score: 0.42
 title: Achiltibuie
 type: location
 image: achiltibuie.jpg

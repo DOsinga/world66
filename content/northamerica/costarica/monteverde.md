@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/113306963@N05/14013930703
 latitude: 10.3025
 loc_type: city
 longitude: -84.8245
-score: 0.7
+score: 0.61
 title: Monteverde
 type: location
 ---

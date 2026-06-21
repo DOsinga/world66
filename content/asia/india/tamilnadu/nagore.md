@@ -5,7 +5,7 @@ done:
 latitude: 10.816698
 loc_type: city
 longitude: 79.840364
-score: 0.37
+score: 0.29
 title: Nagore
 type: location
 ---

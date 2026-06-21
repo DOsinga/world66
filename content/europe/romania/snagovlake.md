@@ -5,7 +5,7 @@ latitude: 44.7066
 longitude: 26.1629
 title: Snagov Lake
 type: location
-score: 0.43
+score: 0.38
 loc_type: feature
 ---
 

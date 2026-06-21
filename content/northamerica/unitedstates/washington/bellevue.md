@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG
 latitude: 47.614422
 loc_type: city
 longitude: -122.192337
-score: 0.44
+score: 0.35
 title: Bellevue
 type: location
 ---

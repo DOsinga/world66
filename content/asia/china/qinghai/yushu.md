@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Yushu
 title: Yushu
 type: location
+score: 0.34
 ---
 
 Yushu — Jyekundo in Tibetan — is a city in southern Qinghai at 3,700 metres, the administrative centre of a large prefecture that extends to the borders of Sichuan and Tibet. It is one of the most distinctly Tibetan cities in China, with Tibetan architecture, Tibetan language, and a pace of life that is closer to Lhasa than to Xining. Much of the old town was rebuilt after a severe earthquake in 2010, but the city has recovered and regained its character.

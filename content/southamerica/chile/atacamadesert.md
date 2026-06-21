@@ -5,7 +5,7 @@ latitude: -24.556303
 longitude: -69.422648
 title: Atacama Desert
 type: location
-score: 0.77
+score: 0.64
 image: atacamadesert.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,_2016-02-07,_DD_62.JPG
 image_license: CC BY-SA 4.0

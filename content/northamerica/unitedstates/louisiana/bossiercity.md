@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bossier_City_September_201
 latitude: 32.515887
 loc_type: city
 longitude: -93.733654
-score: 0.33
+score: 0.28
 title: Bossier City
 type: location
 ---

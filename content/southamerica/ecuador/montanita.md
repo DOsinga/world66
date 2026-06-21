@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Monta%C3%B1ita.jpg
 latitude: -1.828165
 loc_type: city
 longitude: -80.752906
-score: 0.59
+score: 0.46
 title: Montañita
 type: location
 ---

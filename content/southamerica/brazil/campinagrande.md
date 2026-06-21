@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_cenogr%C3%A1fica_do
 latitude: -7.2306
 loc_type: city
 longitude: -35.8811
-score: 0.41
+score: 0.33
 title: Campina Grande
 type: location
 ---

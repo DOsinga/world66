@@ -6,7 +6,7 @@ latitude: 14.4684
 longitude: -3.3065
 title: Sanga
 type: location
-score: 0.41
+score: 0.39
 loc_type: city
 ---
 

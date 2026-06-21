@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16069488@N00/52272932873
 latitude: 39.100105
 loc_type: city
 longitude: -94.578142
-score: 0.4
+score: 0.32
 title: Kansas City
 type: location
 ---

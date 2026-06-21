@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Edirne_(Turkey).jpg
 latitude: 41.675933
 loc_type: city
 longitude: 26.558722
-score: 0.56
+score: 0.46
 title: Edirne
 type: location
 ---

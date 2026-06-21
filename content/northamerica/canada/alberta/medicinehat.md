@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Medalta_Potteries_National
 latitude: 50.04303
 loc_type: city
 longitude: -110.679016
-score: 0.4
+score: 0.33
 title: Medicine Hat
 type: location
 ---

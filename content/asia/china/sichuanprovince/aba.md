@@ -3,7 +3,7 @@ title: Aba (Ngawa)
 type: location
 latitude: 31.901569
 longitude: 102.222924
-score: 0.43
+score: 0.38
 loc_type: city
 image: aba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Narshi_Gonpa_Ngawa_Sichuan_China.jpg

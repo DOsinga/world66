@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Africa_in_Colour_(15704777
 latitude: -26.0003
 loc_type: city
 longitude: 27.5478
-score: 0.49
+score: 0.41
 title: Magaliesburg
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plattsburgh,_New_York.jpg
 latitude: 44.696086
 loc_type: city
 longitude: -73.454291
-score: 0.42
+score: 0.35
 title: Plattsburgh
 type: location
 ---

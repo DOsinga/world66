@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_United_States_Army_Blu
 latitude: 38.8816
 loc_type: city
 longitude: -77.091
-score: 0.45
+score: 0.32
 title: Arlington
 type: location
 ---

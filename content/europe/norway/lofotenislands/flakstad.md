@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fredvang_Bridges_in_Flakst
 latitude: 68.120468
 loc_type: city
 longitude: 13.049638
-score: 0.67
+score: 0.62
 title: Flakstad
 type: location
 ---

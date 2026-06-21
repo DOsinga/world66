@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monumento_Fundadores_Nuevo
 latitude: 27.479303
 loc_type: city
 longitude: -99.522108
-score: 0.31
+score: 0.21
 title: Nuevo Laredo
 type: location
 ---

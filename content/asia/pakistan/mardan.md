@@ -5,7 +5,7 @@ done:
 latitude: 34.1938
 loc_type: city
 longitude: 72.0451
-score: 0.28
+score: 0.22
 sources:
 - https://en.wikipedia.org/wiki/Mardan
 title: Mardan

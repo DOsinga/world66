@@ -7,7 +7,7 @@ done:
 latitude: 32.788436
 loc_type: city
 longitude: -79.939931
-score: 0.69
+score: 0.59
 title: Charleston
 type: location
 ---

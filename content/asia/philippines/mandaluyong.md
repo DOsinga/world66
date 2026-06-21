@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Facade_of_San_Felipe_Neri_
 latitude: 14.577439
 loc_type: city
 longitude: 121.033897
-score: 0.34
+score: 0.25
 title: Mandaluyong
 type: location
 ---

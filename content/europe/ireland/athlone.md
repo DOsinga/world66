@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Athlone_-_SS_Peter_and_Pau
 latitude: 53.4228
 loc_type: city
 longitude: -7.9407
-score: 0.51
+score: 0.44
 title: Athlone
 type: location
 ---

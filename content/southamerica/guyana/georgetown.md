@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20191121_Guyana_0062_Georg
 latitude: 6.803256
 loc_type: city
 longitude: -58.14554
-score: 0.42
+score: 0.34
 title: Georgetown
 type: location
 ---

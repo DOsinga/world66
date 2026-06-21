@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap_Estel_-_Eze_bord_de_me
 latitude: 43.7217
 loc_type: city
 longitude: 7.3563
-score: 0.67
+score: 0.57
 title: Eze-bord-de-mer
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 29.140992
 loc_type: city
 longitude: 75.978714
-score: 0.34
+score: 0.25
 title: Hansi
 type: location
 ---

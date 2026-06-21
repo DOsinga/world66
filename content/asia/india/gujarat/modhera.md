@@ -5,7 +5,7 @@ done:
 latitude: 23.581665
 loc_type: city
 longitude: 72.140412
-score: 0.46
+score: 0.41
 title: Modhera
 type: location
 ---

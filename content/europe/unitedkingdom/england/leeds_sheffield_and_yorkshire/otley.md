@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Otley_-_geograph.org.uk_-_
 latitude: 53.905508
 loc_type: city
 longitude: -1.693887
-score: 0.43
+score: 0.38
 title: Otley
 type: location
 ---

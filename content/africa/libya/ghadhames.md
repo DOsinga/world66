@@ -6,7 +6,7 @@ latitude: 30.133
 longitude: 9.5
 title: Ghadames
 type: location
-score: 0.49
+score: 0.39
 loc_type: city
 ---
 

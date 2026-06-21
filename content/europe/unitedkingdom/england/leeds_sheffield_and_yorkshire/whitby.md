@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_(geograph_724
 latitude: 54.487414
 loc_type: city
 longitude: -0.615511
-score: 0.61
+score: 0.54
 title: Whitby
 type: location
 ---

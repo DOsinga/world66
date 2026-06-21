@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:43_Broke_Hunter_Valley.jpg
 latitude: -32.7583
 loc_type: city
 longitude: 151.0917
-score: 0.43
+score: 0.34
 title: Broke
 type: location
 ---

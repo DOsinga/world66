@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koror-Babeldaob-Bridge-201
 latitude: 7.5
 loc_type: city
 longitude: 134.58
-score: 0.55
+score: 0.46
 title: Babeldaob
 type: location
 ---

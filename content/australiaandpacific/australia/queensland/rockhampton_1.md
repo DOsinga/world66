@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Criterion_Rockhampton.jpg
 latitude: -23.378214
 loc_type: city
 longitude: 150.513423
-score: 0.41
+score: 0.35
 title: Rockhampton
 type: location
 ---

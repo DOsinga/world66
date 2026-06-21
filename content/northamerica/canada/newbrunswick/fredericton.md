@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Fredericton
 title: Fredericton
 type: location
+score: 0.4
 ---
 
 *North America > Canada > New Brunswick > Fredericton*

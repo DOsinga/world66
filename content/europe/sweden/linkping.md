@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Link%C3%B6pings_slott,_Lin
 latitude: 58.409813
 loc_type: city
 longitude: 15.624525
-score: 0.46
+score: 0.4
 title: Linköping
 type: location
 ---

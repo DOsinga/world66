@@ -5,7 +5,7 @@ done:
 latitude: 46.512655
 loc_type: city
 longitude: -84.33303
-score: 0.44
+score: 0.36
 title: Sault Ste. Marie
 type: location
 ---

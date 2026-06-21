@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wangdue_Phodrang_Dzong.jpg
 latitude: 27.4864
 loc_type: city
 longitude: 89.9044
-score: 0.57
+score: 0.46
 sources:
 - https://en.wikipedia.org/wiki/Wangdue_Phodrang
 title: Wangdue Phodrang

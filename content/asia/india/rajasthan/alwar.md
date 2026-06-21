@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis_near_Alwar_2.jpg
 latitude: 27.553
 loc_type: city
 longitude: 76.6346
-score: 0.49
+score: 0.43
 title: Alwar
 type: location
 ---

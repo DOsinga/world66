@@ -5,7 +5,7 @@ done:
 latitude: 42.246695
 loc_type: city
 longitude: 44.507146
-score: 0.37
+score: 0.28
 title: Tskhavati
 type: location
 ---

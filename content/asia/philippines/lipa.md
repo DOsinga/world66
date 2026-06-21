@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebastian_Cathedral,_L
 latitude: 13.941434
 loc_type: city
 longitude: 121.164283
-score: 0.38
+score: 0.33
 title: Lipa
 type: location
 ---

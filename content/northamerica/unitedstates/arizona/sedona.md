@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Rock_-_Sedona_AZ
 latitude: 34.868861
 loc_type: city
 longitude: -111.761439
-score: 0.73
+score: 0.64
 sources:
 - https://en.wikipedia.org/wiki/Sedona,_Arizona
 title: Sedona

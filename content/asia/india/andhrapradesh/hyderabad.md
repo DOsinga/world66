@@ -7,7 +7,7 @@ done:
 latitude: 17.360589
 loc_type: city
 longitude: 78.474061
-score: 0.52
+score: 0.43
 title: Hyderabad
 type: location
 ---

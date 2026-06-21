@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_panorama_of_Benin_city.j
 latitude: 6.335
 loc_type: city
 longitude: 5.627
-score: 0.33
+score: 0.28
 title: Benin City
 type: location
 ---

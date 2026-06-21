@@ -5,7 +5,7 @@ done:
 latitude: 52.4069
 loc_type: city
 longitude: 23.8156
-score: 0.28
+score: 0.2
 sources:
 - https://en.wikipedia.org/wiki/Kamyanyets
 - https://en.wikipedia.org/wiki/Tower_of_Kamyenyets

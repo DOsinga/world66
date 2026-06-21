@@ -5,7 +5,7 @@ done:
 latitude: 32.072386
 loc_type: city
 longitude: -84.232688
-score: 0.34
+score: 0.26
 title: Americus
 type: location
 image: americus.jpg

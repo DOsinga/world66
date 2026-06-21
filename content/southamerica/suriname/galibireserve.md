@@ -5,7 +5,7 @@ latitude: 5.75
 longitude: -54.0167
 title: Galibi Nature Reserve
 type: location
-score: 0.47
+score: 0.4
 loc_type: feature
 ---
 

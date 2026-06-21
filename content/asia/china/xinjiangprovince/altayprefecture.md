@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ColourfulBeach.jpg
 latitude: 47.100178
 loc_type: city
 longitude: 88.434175
-score: 0.49
+score: 0.37
 title: Altay Prefecture
 type: location
 ---

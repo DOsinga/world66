@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Long_Beach_Skyline_from_th
 latitude: 33.769
 loc_type: city
 longitude: -118.1916
-score: 0.48
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Long_Beach,_California
 title: Long Beach

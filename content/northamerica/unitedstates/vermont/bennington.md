@@ -14,6 +14,7 @@ image: bennington.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bennington_Battle_Monument_October_2021_001.jpg
 image_license: CC BY-SA 4.0
 image_attribution: King of Hearts
+score: 0.41
 ---
 
 Bennington is southern Vermont with a revolutionary streak: old houses, a tall stone monument, a compact downtown, and hills rising toward both the Green Mountains and the New York line. It is less polished than Manchester and less bohemian than Brattleboro, which is part of its appeal.

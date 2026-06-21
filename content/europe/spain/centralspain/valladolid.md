@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_la_ciudad_
 latitude: 41.6522
 loc_type: city
 longitude: -4.7286
-score: 0.61
+score: 0.48
 title: Valladolid
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 28.919814
 loc_type: city
 longitude: 89.601193
-score: 0.59
+score: 0.5
 title: Gyantse
 type: location
 image: gyantse.jpg

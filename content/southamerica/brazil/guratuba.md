@@ -5,7 +5,7 @@ done:
 latitude: -25.8832
 loc_type: city
 longitude: -48.5753
-score: 0.43
+score: 0.36
 title: Guaratuba
 type: location
 ---

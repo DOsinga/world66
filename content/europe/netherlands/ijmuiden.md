@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:2000_Bunker_Strand_IJmuiden.jpg
 latitude: 52.457424
 longitude: 4.611198
-score: 0.44
+score: 0.36
 title: IJmuiden
 type: location
 loc_type: city

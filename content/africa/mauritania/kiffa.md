@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kiffa_market.jpg
 latitude: 16.6162
 loc_type: city
 longitude: -11.4002
-score: 0.21
+score: 0.18
 title: Kiffa
 type: location
 ---

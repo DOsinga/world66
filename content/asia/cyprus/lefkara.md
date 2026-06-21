@@ -5,7 +5,7 @@ latitude: 34.8627
 longitude: 33.3164
 done:
   location_enrich: '2026-06-02'
-score: 0.54
+score: 0.47
 loc_type: city
 image: lefkara.jpg
 image_source: https://www.flickr.com/photos/37165469@N00/113705851

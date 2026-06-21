@@ -5,7 +5,7 @@ done:
 latitude: 36.447366
 loc_type: city
 longitude: -95.692735
-score: 0.31
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Oologah,_Oklahoma
 - https://www.travelok.com/Oologah

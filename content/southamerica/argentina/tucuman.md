@@ -9,7 +9,7 @@ image_source: https://live.staticflickr.com/3442/3221333230_e587260101_b.jpg
 latitude: -26.8333
 loc_type: city
 longitude: -65.2038
-score: 0.45
+score: 0.38
 title: Tucuman
 type: location
 ---

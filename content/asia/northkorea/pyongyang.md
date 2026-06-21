@@ -5,7 +5,7 @@ done:
 latitude: 39.0194
 loc_type: city
 longitude: 125.7381
-score: 0.15
+score: 0.12
 sources:
 - https://en.wikipedia.org/wiki/Pyongyang
 title: Pyongyang

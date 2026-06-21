@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt-tuebingen-1.jpg
 latitude: 48.5203
 loc_type: city
 longitude: 9.0536
-score: 0.55
+score: 0.51
 title: Tubingen
 type: location
 ---

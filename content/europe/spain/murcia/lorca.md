@@ -4,7 +4,7 @@ done:
 latitude: 37.6712
 loc_type: city
 longitude: -1.6989
-score: 0.49
+score: 0.41
 title: Lorca
 type: location
 ---

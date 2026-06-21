@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/72913900@N00/5047968735
 latitude: 56.504843
 loc_type: city
 longitude: 21.00709
-score: 0.43
+score: 0.4
 title: Liepaja
 type: location
 ---

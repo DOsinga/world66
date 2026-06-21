@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boise,_Idaho.jpg
 latitude: 43.6166
 loc_type: city
 longitude: -116.2009
-score: 0.47
+score: 0.39
 title: Boise
 type: location
 ---

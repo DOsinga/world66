@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Georges_Street,_Dungannon_
 latitude: 54.503909
 loc_type: city
 longitude: -6.770362
-score: 0.38
+score: 0.28
 title: Dungannon
 type: location
 ---

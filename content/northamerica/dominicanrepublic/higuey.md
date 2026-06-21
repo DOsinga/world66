@@ -4,7 +4,7 @@ done:
 latitude: 18.6152
 loc_type: city
 longitude: -68.7078
-score: 0.38
+score: 0.35
 title: Higüey
 type: location
 ---

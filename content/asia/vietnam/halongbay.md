@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg
 latitude: 20.9084
 loc_type: city
 longitude: 107.0683
-score: 0.93
+score: 0.74
 tags:
 - natural_wonder
 - cruising

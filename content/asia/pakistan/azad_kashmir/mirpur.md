@@ -5,7 +5,7 @@ done:
 latitude: 33.148635
 loc_type: city
 longitude: 73.74821
-score: 0.29
+score: 0.23
 title: Mirpur
 type: location
 ---

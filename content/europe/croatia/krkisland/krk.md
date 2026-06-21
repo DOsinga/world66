@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Croatia_Krk_BW_2014-10-12_
 latitude: 45.0267
 loc_type: city
 longitude: 14.5756
-score: 0.62
+score: 0.52
 title: Krk
 type: location
 ---

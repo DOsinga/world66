@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped)
 latitude: -15.7939
 loc_type: city
 longitude: -47.8828
-score: 0.52
+score: 0.45
 title: Brasilia
 type: location
 ---

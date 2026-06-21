@@ -5,7 +5,7 @@ latitude: 28.291899
 longitude: -81.407584
 title: Kissimmee
 type: location
-score: 0.46
+score: 0.4
 loc_type: city
 image: kissimmee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kissimmee_Trail_over_N_John_Young_Pkwy.jpg

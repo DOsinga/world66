@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chemin_du_Sabot_Panorama_E
 latitude: 45.1885
 loc_type: city
 longitude: 5.7245
-score: 0.62
+score: 0.53
 title: Grenoble
 type: location
 ---

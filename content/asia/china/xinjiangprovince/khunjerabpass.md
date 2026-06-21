@@ -5,7 +5,7 @@ latitude: 36.846
 longitude: 75.4197
 title: Khunjerab Pass
 type: location
-score: 0.49
+score: 0.43
 loc_type: feature
 ---
 

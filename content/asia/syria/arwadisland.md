@@ -5,7 +5,7 @@ done:
 latitude: 34.8589
 loc_type: city
 longitude: 35.8564
-score: 0.45
+score: 0.3
 title: Arwad Island
 type: location
 ---

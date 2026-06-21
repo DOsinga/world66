@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanohashidate-drone.jpg
 latitude: 35.568002
 loc_type: city
 longitude: 135.190638
-score: 0.66
+score: 0.58
 title: Amanohashidate
 type: location
 ---

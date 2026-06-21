@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ullapool_sun.jpg
 latitude: 57.89582
 loc_type: city
 longitude: -5.160223
-score: 0.57
+score: 0.5
 title: Ullapool
 type: location
 ---

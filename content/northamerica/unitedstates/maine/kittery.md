@@ -5,7 +5,7 @@ done:
 latitude: 43.0857
 loc_type: city
 longitude: -70.7437
-score: 0.42
+score: 0.35
 title: Kittery
 type: location
 ---

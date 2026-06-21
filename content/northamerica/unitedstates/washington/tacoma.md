@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/127035585@N03/16740003166
 latitude: 47.2455
 loc_type: city
 longitude: -122.4383
-score: 0.41
+score: 0.35
 title: “Tacoma”
 type: location
 ---

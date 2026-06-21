@@ -5,7 +5,7 @@ latitude: 9.08
 longitude: -79.68
 title: Panama Canal
 type: location
-score: 0.62
+score: 0.59
 loc_type: feature
 ---
 

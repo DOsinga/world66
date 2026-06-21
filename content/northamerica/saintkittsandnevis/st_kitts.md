@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Kitts_-_Brimstone_Hi
 latitude: 17.3578
 loc_type: city
 longitude: -62.783
-score: 0.61
+score: 0.54
 title: St. Kitts
 type: location
 ---

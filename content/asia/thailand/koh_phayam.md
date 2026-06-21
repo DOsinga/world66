@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Thailand_-_Koh_Phayam_(248
 latitude: 9.7405
 loc_type: city
 longitude: 98.4036
-score: 0.65
+score: 0.55
 title: Koh Phayam
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porkeri.2.2002.jpg
 latitude: 61.481959
 loc_type: city
 longitude: -6.746296
-score: 0.44
+score: 0.38
 title: Porkeri
 type: location
 ---

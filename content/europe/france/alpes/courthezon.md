@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Courth%C3%A9zon_-_Fontaine
 latitude: 44.086709
 loc_type: city
 longitude: 4.883513
-score: 0.43
+score: 0.33
 title: Courthézon
 type: location
 ---

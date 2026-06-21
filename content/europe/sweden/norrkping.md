@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbetets_museum_i_Norrk%C3
 latitude: 58.5909
 loc_type: city
 longitude: 16.1904
-score: 0.48
+score: 0.42
 title: Norrköping
 type: location
 ---

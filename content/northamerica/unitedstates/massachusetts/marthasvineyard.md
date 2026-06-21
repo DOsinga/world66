@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marthasvineyard-Aquinnah-c
 latitude: 41.392046
 loc_type: city
 longitude: -70.620814
-score: 0.65
+score: 0.56
 title: Martha's Vineyard
 type: location
 ---

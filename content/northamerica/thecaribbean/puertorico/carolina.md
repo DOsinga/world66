@@ -4,7 +4,7 @@ done:
 latitude: 18.3811
 loc_type: city
 longitude: -65.9574
-score: 0.42
+score: 0.33
 title: Carolina
 type: location
 ---

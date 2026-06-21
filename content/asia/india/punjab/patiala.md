@@ -5,7 +5,7 @@ latitude: 30.209278
 longitude: 76.339723
 title: Patiala
 type: location
-score: 0.42
+score: 0.34
 loc_type: city
 image: patiala.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Baradari_Palace_(Cropped).jpg

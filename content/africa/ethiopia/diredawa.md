@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dire_Dawa_Station.jpg
 latitude: 9.6
 loc_type: city
 longitude: 41.8667
-score: 0.32
+score: 0.28
 title: Dire dawa
 type: location
 ---

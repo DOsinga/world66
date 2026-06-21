@@ -4,7 +4,7 @@ done:
 latitude: 4.2612
 loc_type: city
 longitude: 15.7919
-score: 0.2
+score: 0.14
 title: Berbérati
 type: location
 ---

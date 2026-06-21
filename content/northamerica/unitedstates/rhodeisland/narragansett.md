@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Indian_Rock,_Narragansett_
 latitude: 41.432557
 loc_type: city
 longitude: -71.457984
-score: 0.48
+score: 0.4
 title: Narragansett
 type: location
 ---

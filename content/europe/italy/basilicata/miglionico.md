@@ -5,7 +5,7 @@ done:
 latitude: 40.569392
 loc_type: city
 longitude: 16.500966
-score: 0.41
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Miglionico
 title: Miglionico

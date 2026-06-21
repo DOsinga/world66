@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aer
 latitude: 10.915649
 loc_type: city
 longitude: 79.806949
-score: 0.55
+score: 0.52
 title: Pondicherry
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 7.036668
 loc_type: city
 longitude: 99.96154
-score: 0.48
+score: 0.41
 title: Satun
 type: location
 image: satun.jpg

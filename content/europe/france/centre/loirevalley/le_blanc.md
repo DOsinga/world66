@@ -8,7 +8,7 @@ image_license: CC BY-SA 3.0
 latitude: 46.633229
 loc_type: city
 longitude: 1.06323
-score: 0.45
+score: 0.36
 title: Le Blanc
 type: location
 ---

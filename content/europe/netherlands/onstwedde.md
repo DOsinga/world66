@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190827_Nicolaaskerk1_Ons
 latitude: 53.036791
 loc_type: city
 longitude: 7.038894
-score: 0.29
+score: 0.26
 title: Onstwedde
 type: location
 ---

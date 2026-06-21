@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge_
 latitude: 51.453802
 loc_type: city
 longitude: -2.597298
-score: 0.65
+score: 0.51
 title: Bristol
 type: location
 ---

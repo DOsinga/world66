@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bacharach_from_the_Postent
 latitude: 50.059794
 loc_type: city
 longitude: 7.7684
-score: 0.61
+score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Bacharach
 - https://en.wikipedia.org/wiki/Stahleck_Castle

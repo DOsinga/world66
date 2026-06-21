@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karesuando_church.jpg
 latitude: 68.440505
 loc_type: city
 longitude: 22.474315
-score: 0.43
+score: 0.36
 title: Karesuando
 type: location
 ---

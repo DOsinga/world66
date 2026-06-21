@@ -5,7 +5,7 @@ done:
 latitude: 30.26239
 loc_type: city
 longitude: 79.216163
-score: 0.37
+score: 0.33
 title: Karanprayag
 type: location
 ---

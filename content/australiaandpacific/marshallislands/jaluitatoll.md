@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jaluit.jpg
 latitude: 6.0
 loc_type: city
 longitude: 169.583333
-score: 0.41
+score: 0.37
 title: Jaluit Atoll
 type: location
 ---

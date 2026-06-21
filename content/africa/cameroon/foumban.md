@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamun_sultan_palace.jpg
 latitude: 5.7269
 loc_type: city
 longitude: 10.905
-score: 0.42
+score: 0.38
 title: Foumban
 type: location
 ---

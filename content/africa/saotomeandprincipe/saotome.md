@@ -5,7 +5,7 @@ done:
 latitude: 0.25
 loc_type: city
 longitude: 6.61
-score: 0.48
+score: 0.43
 title: São Tomé
 type: location
 image: saotome.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agios_Nikolaos_R01.jpg
 latitude: 35.190858
 loc_type: city
 longitude: 25.717889
-score: 0.69
+score: 0.56
 title: Agios Nikolaos
 type: location
 ---

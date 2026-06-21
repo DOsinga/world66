@@ -7,7 +7,7 @@ done:
 latitude: 20.6597
 loc_type: city
 longitude: -103.3496
-score: 0.57
+score: 0.55
 title: Guadalajara
 type: location
 ---

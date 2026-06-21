@@ -5,7 +5,7 @@ done:
 latitude: -14.7926
 loc_type: city
 longitude: -39.0454
-score: 0.49
+score: 0.41
 title: Ilhéus
 type: location
 image: lheus.jpg

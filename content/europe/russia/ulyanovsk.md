@@ -5,7 +5,7 @@ done:
 latitude: 54.315028
 loc_type: city
 longitude: 48.403373
-score: 0.32
+score: 0.29
 title: Ulyanovsk
 type: location
 image: ulyanovsk.jpg

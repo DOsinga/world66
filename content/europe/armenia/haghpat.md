@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7220207@N08/8732771574
 latitude: 41.094419
 loc_type: city
 longitude: 44.711056
-score: 0.49
+score: 0.48
 title: Haghpat
 type: location
 ---

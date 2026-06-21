@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_est
 latitude: 12.03671
 loc_type: city
 longitude: 39.046112
-score: 0.71
+score: 0.58
 title: Lalibela
 type: location
 ---

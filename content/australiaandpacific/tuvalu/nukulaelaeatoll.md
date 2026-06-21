@@ -5,7 +5,7 @@ latitude: -9.40437
 longitude: 179.852169
 title: Nukulaelae atoll
 type: location
-score: 0.38
+score: 0.31
 loc_type: feature
 ---
 

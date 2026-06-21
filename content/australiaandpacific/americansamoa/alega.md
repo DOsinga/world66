@@ -5,7 +5,7 @@ done:
 latitude: -14.27967
 loc_type: city
 longitude: -170.636687
-score: 0.39
+score: 0.33
 title: Alega
 type: location
 ---

@@ -6,7 +6,7 @@ done:
 latitude: 37.563
 loc_type: city
 longitude: -122.3255
-score: 0.37
+score: 0.3
 title: San Mateo
 type: location
 ---

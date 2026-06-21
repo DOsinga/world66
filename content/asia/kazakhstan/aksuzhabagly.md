@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aksu_Jabagly_2.JPG
 latitude: 42.3075
 loc_type: city
 longitude: 70.6346
-score: 0.42
+score: 0.37
 title: Aksu-Zhabagly
 type: location
 ---

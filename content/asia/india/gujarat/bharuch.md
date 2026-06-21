@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brotsch_int_ryck_vanden_Gr
 latitude: 21.708043
 loc_type: city
 longitude: 72.995694
-score: 0.31
+score: 0.27
 title: Bharuch
 type: location
 ---

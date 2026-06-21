@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Surin_Beach.JPG
 latitude: 7.9774
 loc_type: city
 longitude: 98.2796
-score: 0.68
+score: 0.58
 title: Surin Beach
 type: location
 ---

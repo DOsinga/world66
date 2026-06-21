@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rebuilt_gate_at_Shanhaigua
 latitude: 39.998788
 loc_type: city
 longitude: 119.756367
-score: 0.5
+score: 0.45
 sources:
 - https://en.wikipedia.org/wiki/Shanhai_Pass
 - https://en.wikivoyage.org/wiki/Shanhaiguan

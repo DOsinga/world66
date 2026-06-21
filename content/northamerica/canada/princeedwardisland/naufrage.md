@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naufrage,_Prince_Edward_Is
 latitude: 46.467384
 loc_type: city
 longitude: -62.416511
-score: 0.37
+score: 0.33
 title: Naufrage
 type: location
 ---

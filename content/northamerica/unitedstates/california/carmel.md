@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/41024804@N00/362240746
 latitude: 36.5552
 loc_type: city
 longitude: -121.9233
-score: 0.65
+score: 0.58
 title: Carmel
 type: location
 ---

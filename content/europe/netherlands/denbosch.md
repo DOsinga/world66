@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%27s-Hertogenbosch_Marktpl
 latitude: 51.6889
 loc_type: city
 longitude: 5.3031
-score: 0.57
+score: 0.46
 title: Den Bosch
 type: location
 ---

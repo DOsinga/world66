@@ -5,7 +5,7 @@ done:
 latitude: 46.283
 loc_type: city
 longitude: -96.0776
-score: 0.33
+score: 0.3
 title: Fergus Falls
 type: location
 image: fergus_falls.jpg

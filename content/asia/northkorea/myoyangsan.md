@@ -5,7 +5,7 @@ done:
 latitude: 39.9576
 loc_type: city
 longitude: 126.188
-score: 0.2
+score: 0.19
 title: Myoyangsan
 type: location
 ---

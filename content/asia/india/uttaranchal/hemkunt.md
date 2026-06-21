@@ -5,7 +5,7 @@ latitude: 30.6968
 longitude: 79.6096
 title: Hemkund
 type: location
-score: 0.53
+score: 0.45
 loc_type: feature
 ---
 

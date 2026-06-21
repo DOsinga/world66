@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochem,_de_Berkel_vanaf_de
 latitude: 52.171513
 loc_type: city
 longitude: 6.343658
-score: 0.4
+score: 0.36
 title: Lochem
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lobby_of_Spa_on_Rue_Royal.
 latitude: 50.4921
 loc_type: city
 longitude: 5.8628
-score: 0.54
+score: 0.45
 title: Spa
 type: location
 ---

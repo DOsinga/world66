@@ -6,7 +6,7 @@ latitude: 7.410258
 longitude: -7.550372
 title: Man
 type: location
-score: 0.32
+score: 0.25
 loc_type: city
 ---
 

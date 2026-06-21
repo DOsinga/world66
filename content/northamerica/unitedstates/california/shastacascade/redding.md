@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cascade_Theater_1935_-_Red
 latitude: 40.586356
 loc_type: city
 longitude: -122.391675
-score: 0.4
+score: 0.31
 title: Redding
 type: location
 ---

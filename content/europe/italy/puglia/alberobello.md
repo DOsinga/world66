@@ -5,7 +5,7 @@ done:
 latitude: 40.784124
 loc_type: city
 longitude: 17.237703
-score: 0.7
+score: 0.6
 title: Alberobello
 type: location
 image: alberobello.jpg

@@ -9,7 +9,7 @@ image_attribution: Carsten Steger
 latitude: 48.249423
 loc_type: city
 longitude: 11.553075
-score: 0.48
+score: 0.42
 title: Schleissheim
 type: location
 ---

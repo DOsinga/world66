@@ -1,15 +1,15 @@
 ---
 title: Kekova
-latitude: 36.18000
-longitude: 29.90000
+latitude: 36.18
+longitude: 29.9
 type: location
 loc_type: city
-score: 0.45
+score: 0.56
 tags:
-  - boat
-  - ancient_ruins
-  - nature
-  - history
+- boat
+- ancient_ruins
+- nature
+- history
 image: kekova.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Underwater_Ruins_Kekova.jpg
 image_license: CC BY-SA 4.0

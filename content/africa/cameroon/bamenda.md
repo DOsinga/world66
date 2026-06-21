@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamenda_from_mountain_road
 latitude: 5.961412
 loc_type: city
 longitude: 10.151651
-score: 0.36
+score: 0.31
 title: Bamenda
 type: location
 ---

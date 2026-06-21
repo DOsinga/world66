@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:55606-Kunming-Yuantong-Tem
 latitude: 25.039935
 loc_type: city
 longitude: 102.716906
-score: 0.58
+score: 0.5
 title: Kunming
 type: location
 ---

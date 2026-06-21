@@ -5,7 +5,7 @@ latitude: 35.530664
 longitude: 139.703767
 title: Kawasaki
 type: location
-score: 0.48
+score: 0.37
 loc_type: city
 ---
 

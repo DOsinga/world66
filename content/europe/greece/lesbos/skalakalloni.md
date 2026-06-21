@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_S
 latitude: 39.206062
 loc_type: city
 longitude: 26.21065
-score: 0.52
+score: 0.45
 title: Skala Kalloni
 type: location
 ---

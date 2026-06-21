@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clermont-Ferrand_23-7-2011
 latitude: 45.777455
 loc_type: city
 longitude: 3.081943
-score: 0.55
+score: 0.44
 title: Clermont-Ferrand
 type: location
 ---

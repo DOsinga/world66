@@ -5,7 +5,7 @@ latitude: 28.39
 longitude: 81.5
 done:
   location_cleanup: 2026-04-07
-score: 0.56
+score: 0.48
 loc_type: feature
 ---
 

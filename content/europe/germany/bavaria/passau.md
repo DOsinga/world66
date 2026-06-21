@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Passau.jpg
 latitude: 48.574823
 loc_type: city
 longitude: 13.460974
-score: 0.62
+score: 0.54
 title: Passau
 type: location
 ---

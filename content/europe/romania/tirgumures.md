@@ -1,9 +1,10 @@
 ---
-title: "Tirgu Mures"
+title: Tirgu Mures
 type: location
 loc_type: city
 latitude: 46.5386
 longitude: 24.5581
+score: 0.37
 ---
 
 Tirgu Mures sits in the heart of Transylvania, in north-central Romania, where the Mures River cuts through a broad valley ringed by gentle hills. With a population of around 150,000, it is one of the larger cities of Transylvania and one of the few in Romania with a substantial Hungarian-speaking community — roughly half the city identifies as ethnic Hungarian, and both Romanian and Hungarian are official languages here. That bilingual character shapes everything from street signs to theater programs to the way people greet strangers.

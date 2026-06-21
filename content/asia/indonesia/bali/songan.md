@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bali_%E2%80%93_Panorama_of
 latitude: -8.223766
 loc_type: city
 longitude: 115.409504
-score: 0.54
+score: 0.47
 title: Songan
 type: location
 ---

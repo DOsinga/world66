@@ -5,7 +5,7 @@ latitude: 41.34
 longitude: 13.05
 title: Circeo National Park
 type: location
-score: 0.62
+score: 0.49
 loc_type: feature
 ---
 

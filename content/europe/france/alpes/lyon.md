@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg
 latitude: 45.757814
 loc_type: city
 longitude: 4.832011
-score: 0.54
+score: 0.59
 title: Lyon
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Eastern_Qing_tombs
 title: Eastern Qing Tombs
 type: location
+score: 0.44
 ---
 
 The Eastern Qing Tombs in Zunhua County are the largest and most complete imperial mausoleum complex surviving anywhere in China. Five emperors are buried here — Shunzhi, Kangxi, Qianlong, Xianfeng, and Tongzhi — along with fifteen empresses and over a hundred imperial concubines, the whole ensemble spread across a valley in the hills northeast of Beijing. The site earned UNESCO World Heritage status in 2000, but it receives a fraction of the visitors who queue to see the Ming Tombs, which means you can often walk the spirit ways and courtyards without competing for space.

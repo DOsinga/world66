@@ -5,7 +5,7 @@ done:
 latitude: 47.305712
 loc_type: city
 longitude: 28.974868
-score: 0.48
+score: 0.42
 title: Orheiul Vechi
 type: location
 image: orheiul_vechi_2.jpg

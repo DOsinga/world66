@@ -5,7 +5,7 @@ done:
 latitude: 47.5615
 loc_type: city
 longitude: -52.7126
-score: 0.51
+score: 0.43
 title: St. John's
 type: location
 ---

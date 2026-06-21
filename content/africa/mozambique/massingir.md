@@ -6,7 +6,7 @@ latitude: -23.921426
 longitude: 32.160993
 title: Massingir
 type: location
-score: 0.28
+score: 0.24
 loc_type: city
 ---
 

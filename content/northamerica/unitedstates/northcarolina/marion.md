@@ -5,7 +5,7 @@ done:
 latitude: 35.684167
 loc_type: city
 longitude: -82.009167
-score: 0.34
+score: 0.28
 title: Marion
 type: location
 ---

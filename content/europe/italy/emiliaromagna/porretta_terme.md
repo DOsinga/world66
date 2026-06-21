@@ -5,7 +5,7 @@ done:
 latitude: 44.15916
 loc_type: city
 longitude: 10.972301
-score: 0.48
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Porretta_Terme
 title: Porretta Terme

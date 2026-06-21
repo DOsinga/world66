@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Romania-2382_-_View_from_H
 latitude: 46.7712
 loc_type: city
 longitude: 23.6236
-score: 0.58
+score: 0.49
 title: Cluj-Napoca
 type: location
 ---

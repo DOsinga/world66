@@ -6,7 +6,7 @@ latitude: 14.082526
 longitude: 44.407781
 title: Baraqish
 type: location
-score: 0.19
+score: 0.22
 loc_type: city
 ---
 

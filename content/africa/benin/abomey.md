@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abomey-K%C3%B6nigspalast3.
 latitude: 7.182001
 loc_type: city
 longitude: 1.993632
-score: 0.48
+score: 0.38
 title: Abomey
 type: location
 ---

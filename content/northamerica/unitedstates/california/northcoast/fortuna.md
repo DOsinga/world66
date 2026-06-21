@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/39908901@N06/35303528733
 latitude: 40.597407
 loc_type: city
 longitude: -124.156034
-score: 0.39
+score: 0.34
 title: Fortuna
 type: location
 ---

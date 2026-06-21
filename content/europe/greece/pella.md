@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Mosa%C3%AFque_de_la_chas
 latitude: 40.760408
 loc_type: city
 longitude: 22.527112
-score: 0.48
+score: 0.44
 title: Pella
 type: location
 ---

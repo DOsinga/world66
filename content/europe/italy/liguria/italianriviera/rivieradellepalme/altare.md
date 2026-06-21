@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altare_old.jpg
 latitude: 44.336
 loc_type: city
 longitude: 8.3399
-score: 0.38
+score: 0.33
 title: Altare
 type: location
 ---

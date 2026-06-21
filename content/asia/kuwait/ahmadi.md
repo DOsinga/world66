@@ -6,7 +6,7 @@ latitude: 29.0928
 longitude: 48.0813
 title: Ahmadi
 type: location
-score: 0.27
+score: 0.23
 loc_type: city
 ---
 

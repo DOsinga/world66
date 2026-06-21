@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monsummano_piazza_giusti.J
 latitude: 43.8707
 loc_type: city
 longitude: 10.814
-score: 0.49
+score: 0.43
 title: Monsummano Terme
 type: location
 ---

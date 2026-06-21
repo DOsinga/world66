@@ -5,7 +5,7 @@ done:
 latitude: 35.4867
 loc_type: city
 longitude: -96.685
-score: 0.25
+score: 0.18
 title: Prague
 type: location
 ---

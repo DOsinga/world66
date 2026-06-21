@@ -5,7 +5,7 @@ done:
 latitude: 21.8027
 loc_type: city
 longitude: -79.9843
-score: 0.66
+score: 0.6
 title: Trinidad
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 43.2342
 loc_type: city
 longitude: -86.2484
-score: 0.39
+score: 0.33
 title: Muskegon
 type: location
 image: muskegon.jpg

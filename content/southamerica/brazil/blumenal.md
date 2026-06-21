@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Foto_a%C3%A9rea_Blumenau.j
 latitude: -26.9194
 loc_type: city
 longitude: -49.0661
-score: 0.48
+score: 0.43
 title: Blumenau
 type: location
 ---

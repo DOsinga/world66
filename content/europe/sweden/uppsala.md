@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Linneanum_orangery,_Botani
 latitude: 59.8586
 loc_type: city
 longitude: 17.6387
-score: 0.6
+score: 0.51
 title: Uppsala
 type: location
 ---

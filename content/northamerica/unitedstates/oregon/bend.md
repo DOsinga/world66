@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20210803_03_Bend,_Oregon.j
 latitude: 44.058173
 loc_type: city
 longitude: -121.31531
-score: 0.53
+score: 0.48
 title: Bend
 type: location
 ---

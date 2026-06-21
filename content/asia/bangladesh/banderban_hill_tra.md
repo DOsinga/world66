@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandarban_City_02.jpg
 latitude: 22.192009
 loc_type: city
 longitude: 92.218533
-score: 0.44
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Bandarban
 - https://en.wikipedia.org/wiki/Buddha_Dhatu_Jadi

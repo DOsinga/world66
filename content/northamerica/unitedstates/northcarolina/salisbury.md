@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Salisbury_11.jpg
 latitude: 35.670973
 loc_type: city
 longitude: -80.474226
-score: 0.33
+score: 0.29
 title: Salisbury
 type: location
 ---

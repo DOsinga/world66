@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cochem_and_Reichsburg.jpg
 latitude: 50.1484
 loc_type: city
 longitude: 7.1663
-score: 0.63
+score: 0.53
 title: Cochem
 type: location
 ---

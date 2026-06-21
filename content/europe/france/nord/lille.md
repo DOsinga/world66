@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/80424201@N00/4992925350
 latitude: 50.636565
 loc_type: city
 longitude: 3.063528
-score: 0.51
+score: 0.46
 title: Lille
 type: location
 ---

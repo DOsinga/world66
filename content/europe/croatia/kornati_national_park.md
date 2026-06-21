@@ -5,7 +5,7 @@ latitude: 43.7734
 longitude: 15.3365
 title: Kornati National Park
 type: location
-score: 0.69
+score: 0.59
 loc_type: feature
 ---
 

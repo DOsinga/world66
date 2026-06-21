@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_Phi_Phi_Lay,_Tailandi
 latitude: 7.737373
 loc_type: city
 longitude: 98.770455
-score: 0.75
+score: 0.64
 title: Koh Phi Phi
 type: location
 ---

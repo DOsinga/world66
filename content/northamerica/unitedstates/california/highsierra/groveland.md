@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Groveland_Historic_Distric
 latitude: 37.8425
 loc_type: city
 longitude: -120.2339
-score: 0.51
+score: 0.4
 title: Groveland
 type: location
 ---

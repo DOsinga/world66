@@ -5,7 +5,7 @@ done:
 latitude: 38.149375
 loc_type: city
 longitude: 48.074621
-score: 0.37
+score: 0.32
 title: Sareyn
 type: location
 ---

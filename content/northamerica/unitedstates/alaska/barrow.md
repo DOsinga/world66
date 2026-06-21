@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arctic_Shore_at_Barrow_Ala
 latitude: 71.2906
 loc_type: city
 longitude: -156.7887
-score: 0.32
+score: 0.3
 title: Barrow
 type: location
 ---

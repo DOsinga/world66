@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Douglas_Park_(City_of_Lang
 latitude: 49.1039
 loc_type: city
 longitude: -122.657
-score: 0.39
+score: 0.32
 title: Langley
 type: location
 ---

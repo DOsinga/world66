@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boras.jpg
 latitude: 57.721
 loc_type: city
 longitude: 12.9401
-score: 0.43
+score: 0.35
 title: Borås
 type: location
 ---

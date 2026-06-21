@@ -5,7 +5,7 @@ done:
 latitude: 17.4833
 loc_type: city
 longitude: -62.9833
-score: 0.45
+score: 0.42
 title: St Eustatius
 type: location
 ---

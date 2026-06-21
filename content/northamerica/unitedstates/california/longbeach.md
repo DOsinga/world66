@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown,_Long_Beach_from_
 latitude: 33.769
 loc_type: city
 longitude: -118.1916
-score: 0.48
+score: 0.41
 title: Long Beach
 type: location
 ---

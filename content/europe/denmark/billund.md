@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-05
 latitude: 55.7247
 longitude: 9.1196
-score: 0.53
+score: 0.44
 title: Billund
 type: location
 loc_type: city

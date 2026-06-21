@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Khamlia_Les_Pigeons_du_Sab
 latitude: 31.0351
 loc_type: city
 longitude: -4.0073
-score: 0.5
+score: 0.45
 title: Khamlia
 type: location
 ---

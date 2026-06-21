@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Suva,_Fiji_52.jpg
 latitude: -18.141588
 loc_type: city
 longitude: 178.442166
-score: 0.55
+score: 0.45
 title: Suva
 type: location
 ---

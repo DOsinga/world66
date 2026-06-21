@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Downtown_Regi
 latitude: 50.447973
 loc_type: city
 longitude: -104.615876
-score: 0.39
+score: 0.33
 title: Regina
 type: location
 ---

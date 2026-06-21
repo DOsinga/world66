@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_National_Hi
 latitude: 16.710426
 loc_type: city
 longitude: 81.115382
-score: 0.29
+score: 0.25
 title: Eluru
 type: location
 ---

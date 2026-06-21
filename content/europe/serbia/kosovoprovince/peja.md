@@ -5,7 +5,7 @@ done:
 latitude: 42.6597
 loc_type: city
 longitude: 20.2883
-score: 0.44
+score: 0.37
 title: Peja
 type: location
 ---

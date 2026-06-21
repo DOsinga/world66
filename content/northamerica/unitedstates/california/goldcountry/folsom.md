@@ -6,7 +6,7 @@ done:
 latitude: 38.678
 loc_type: city
 longitude: -121.1761
-score: 0.45
+score: 0.39
 title: Folsom
 type: location
 image: folsom.jpg

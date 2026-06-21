@@ -8,7 +8,7 @@ image_attribution: Sludge G
 latitude: 7.9621
 loc_type: city
 longitude: -11.7367
-score: 0.27
+score: 0.21
 sources:
 - https://en.wikipedia.org/wiki/Bo,_Sierra_Leone
 title: Bo

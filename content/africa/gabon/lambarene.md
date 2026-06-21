@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Albert_Schweitzer_Museum_(
 latitude: -0.6943
 loc_type: city
 longitude: 10.2236
-score: 0.36
+score: 0.29
 title: Lambarene
 type: location
 ---

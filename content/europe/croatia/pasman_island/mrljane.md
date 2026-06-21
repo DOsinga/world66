@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mrljane.JPG
 latitude: 43.966521
 loc_type: city
 longitude: 15.356302
-score: 0.46
+score: 0.4
 title: Mrljane
 type: location
 ---

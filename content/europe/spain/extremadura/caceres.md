@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_hist%C3%B3rico_de_C
 latitude: 39.4745
 loc_type: city
 longitude: -6.3717
-score: 0.63
+score: 0.54
 title: Caceres
 type: location
 ---

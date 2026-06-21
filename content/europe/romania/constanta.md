@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Constanta_Casino,_Romania_
 latitude: 44.176716
 loc_type: city
 longitude: 28.65076
-score: 0.51
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Constan%C8%9Ba
 - https://en.wikivoyage.org/wiki/Constan%C8%9Ba

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Vista_da_costa_desde_
 latitude: 32.75175
 loc_type: city
 longitude: -16.981749
-score: 0.76
+score: 0.66
 title: Madeira
 type: location
 ---

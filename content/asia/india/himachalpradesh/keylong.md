@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Keylong_Lahaul_Himach
 latitude: 32.57134
 loc_type: city
 longitude: 77.03452
-score: 0.47
+score: 0.38
 title: Keylong
 type: location
 ---

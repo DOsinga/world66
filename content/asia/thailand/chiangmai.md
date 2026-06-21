@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiang-Mai_Thailand_Buddhi
 latitude: 18.788278
 loc_type: city
 longitude: 98.98588
-score: 0.76
+score: 0.71
 title: Chiang mai
 type: location
 ---

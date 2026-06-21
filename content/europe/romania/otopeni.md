@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:16.09.21_Aeroport_Henri_Co
 latitude: 44.550794
 loc_type: city
 longitude: 26.072927
-score: 0.31
+score: 0.28
 title: Otopeni
 type: location
 ---

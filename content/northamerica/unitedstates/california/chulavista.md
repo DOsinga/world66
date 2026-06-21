@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chula_Vista,_CA,_USA_-_pan
 latitude: 32.640054
 loc_type: city
 longitude: -117.084195
-score: 0.4
+score: 0.31
 title: Chula Vista
 type: location
 ---

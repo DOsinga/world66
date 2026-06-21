@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Middle_Ground_Coastal_Batt
 latitude: 19.054999
 loc_type: city
 longitude: 72.869203
-score: 0.66
+score: 0.51
 title: Mumbai
 type: location
 ---

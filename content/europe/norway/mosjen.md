@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mosjoeen_Olderskog.jpg
 latitude: 65.836
 loc_type: city
 longitude: 13.1908
-score: 0.51
+score: 0.41
 title: Mosjøen
 type: location
 ---

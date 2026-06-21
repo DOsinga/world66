@@ -5,7 +5,7 @@ done:
 latitude: 3.5533
 loc_type: city
 longitude: 101.6395
-score: 0.43
+score: 0.37
 title: Kuala Kubu Baru
 type: location
 ---

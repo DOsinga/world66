@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laax_See.jpg
 latitude: 46.806412
 loc_type: city
 longitude: 9.258127
-score: 0.61
+score: 0.53
 title: Laax
 type: location
 ---

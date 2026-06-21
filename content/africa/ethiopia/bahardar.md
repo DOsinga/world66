@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Ura_Kidane_Mehret
 title: Bahir Dar
 type: location
+score: 0.47
 ---
 
 Bahir Dar is Ethiopia at its most relaxed: palms, lake light, broad avenues, and a waterfront pace that feels far gentler than Addis Ababa or the northern highland towns. It sits on the southern shore of [Lake Tana](/africa/ethiopia/bahardar/lake_tana), the source reservoir of the Blue Nile, and it works beautifully as a base for boat trips, monastery visits, and the half-day excursion to [Blue Nile Falls](/africa/ethiopia/bahardar/blue_nile_falls).

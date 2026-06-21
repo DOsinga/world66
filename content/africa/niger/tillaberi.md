@@ -5,7 +5,7 @@ done:
 latitude: 13.725107
 loc_type: city
 longitude: 1.696146
-score: 0.19
+score: 0.13
 sources:
 - https://en.wikipedia.org/wiki/Tillabéri
 title: Tillaberi

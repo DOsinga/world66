@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor_Torre%C3%B3n_0
 latitude: 25.5428
 loc_type: city
 longitude: -103.4106
-score: 0.4
+score: 0.3
 title: Torreón
 type: location
 ---

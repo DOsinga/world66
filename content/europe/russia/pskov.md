@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pskov._Mirozhsky_Monastery
 latitude: 57.8174
 loc_type: city
 longitude: 28.3343
-score: 0.42
+score: 0.39
 title: Pskov
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Modena_Motor_Valley_Fest.j
 latitude: 44.6471
 loc_type: city
 longitude: 10.9252
-score: 0.66
+score: 0.55
 title: Modena
 type: location
 ---

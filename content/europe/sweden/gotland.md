@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gotland,_Sweden_(663971132
 latitude: 57.41748
 loc_type: city
 longitude: 18.536958
-score: 0.63
+score: 0.54
 title: Gotland
 type: location
 ---

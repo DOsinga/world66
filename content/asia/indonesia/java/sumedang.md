@@ -10,7 +10,7 @@ image: sumedang.jpg
 image_source: https://www.flickr.com/photos/98421865@N08/14523258305
 image_license: CC BY 2.0
 image_attribution: orisonmarden on Flickr
-score: 0.37
+score: 0.31
 loc_type: city
 ---
 

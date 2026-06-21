@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Old_Ven
 latitude: 35.5121
 loc_type: city
 longitude: 24.0192
-score: 0.74
+score: 0.66
 title: Hania
 type: location
 ---

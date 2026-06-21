@@ -3,14 +3,14 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
 image: palmira.jpg
-image_attribution: "Joomla!Day Colombia"
+image_attribution: Joomla!Day Colombia
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Palmira,_Valle_del_Cauca.jpg
 latitude: 3.530837
 longitude: -76.298805
 title: Palmira
 type: location
-score: 0.38
+score: 0.29
 loc_type: city
 ---
 

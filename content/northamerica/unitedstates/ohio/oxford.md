@@ -8,7 +8,7 @@ image_license: Public domain
 latitude: 39.507
 loc_type: city
 longitude: -84.745
-score: 0.33
+score: 0.28
 title: Oxford
 type: location
 ---

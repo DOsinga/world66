@@ -5,7 +5,7 @@ done:
 latitude: 11.646962
 loc_type: city
 longitude: 78.210696
-score: 0.35
+score: 0.28
 title: Salem
 type: location
 image: salem.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Braga_Panorama.jpg
 latitude: 41.551058
 loc_type: city
 longitude: -8.428005
-score: 0.63
+score: 0.56
 title: Braga
 type: location
 ---

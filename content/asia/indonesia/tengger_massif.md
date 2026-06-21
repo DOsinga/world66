@@ -5,7 +5,7 @@ latitude: -7.9425
 longitude: 112.953
 title: Tengger Massif
 type: location
-score: 0.64
+score: 0.56
 loc_type: feature
 ---
 

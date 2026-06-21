@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/58789412@N00/13603054443
 latitude: 36.552935
 loc_type: city
 longitude: 8.772783
-score: 0.48
+score: 0.42
 title: Bulla Regia
 type: location
 ---

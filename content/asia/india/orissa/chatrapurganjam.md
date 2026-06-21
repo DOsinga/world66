@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CAPC_RailwayStation_02.jpg
 latitude: 19.3542
 loc_type: city
 longitude: 84.9864
-score: 0.34
+score: 0.24
 title: Chatrapur
 type: location
 ---

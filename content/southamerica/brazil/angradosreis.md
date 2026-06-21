@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angra_dos_Reis,_Brazil_201
 latitude: -23.1555
 loc_type: city
 longitude: -44.2345
-score: 0.6
+score: 0.49
 title: Angra dos Reis
 type: location
 ---

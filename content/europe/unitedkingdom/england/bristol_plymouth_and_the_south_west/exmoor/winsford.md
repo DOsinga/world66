@@ -5,7 +5,7 @@ done:
 latitude: 51.0914
 loc_type: city
 longitude: -3.5696
-score: 0.42
+score: 0.36
 title: Winsford
 type: location
 ---

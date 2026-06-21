@@ -5,7 +5,7 @@ done:
 latitude: -33.993238
 loc_type: city
 longitude: 22.578632
-score: 0.57
+score: 0.5
 title: Wilderness
 type: location
 image: wilderness.jpg

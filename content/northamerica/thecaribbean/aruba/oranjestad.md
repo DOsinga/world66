@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Daniel_Leo,_Oranjest
 latitude: 12.5092
 loc_type: city
 longitude: -70.0086
-score: 0.66
+score: 0.59
 sources:
 - https://en.wikipedia.org/wiki/Oranjestad
 title: Oranjestad

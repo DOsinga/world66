@@ -5,7 +5,7 @@ done:
 latitude: 36.5613
 loc_type: city
 longitude: 136.6562
-score: 0.73
+score: 0.66
 sources:
 - https://en.wikipedia.org/wiki/Kanazawa
 title: Kanazawa

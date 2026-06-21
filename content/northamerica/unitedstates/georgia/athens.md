@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Athens,_United_States_(Uns
 latitude: 33.959768
 loc_type: city
 longitude: -83.376398
-score: 0.44
+score: 0.36
 title: Athens
 type: location
 ---

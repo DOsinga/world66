@@ -5,7 +5,7 @@ done:
 latitude: 44.032116
 loc_type: city
 longitude: 8.050223
-score: 0.41
+score: 0.39
 title: Casanova Lerrone
 type: location
 ---

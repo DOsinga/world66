@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Olympic_Peninsula
 title: Olympic National Park
 type: location
+score: 0.64
 ---
 
 Olympic National Park is Washington at its wildest and wettest: glacier-cut mountains, moss-draped rainforest, cold Pacific beaches, and deep blue lakes packed into one peninsula. Few American national parks change character so quickly. In a single long day you can stand in alpine wind at [Hurricane Ridge](/northamerica/unitedstates/washington/olympicnationalpark/hurricane_ridge), walk under giant maples in the [Hoh Rain Forest](/northamerica/unitedstates/washington/olympicnationalpark/hoh_rain_forest), and finish beside sea stacks at [Rialto Beach](/northamerica/unitedstates/washington/olympicnationalpark/rialto_beach).

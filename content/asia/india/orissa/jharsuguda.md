@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autumn_view_of_IB_river.jp
 latitude: 21.8019
 loc_type: city
 longitude: 83.9714
-score: 0.27
+score: 0.21
 title: Jharsuguda
 type: location
 ---

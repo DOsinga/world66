@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Xuzhou
 title: Xuzhou
 type: location
+score: 0.32
 ---
 
 Xuzhou is northern Jiangsu's largest city and one of China's most important rail junctions, sitting roughly halfway between Beijing and Shanghai on the high-speed corridor. That transit role has shaped the place — the streets around Xuzhou East station feel polished and fast-moving, while older neighborhoods near the downtown station preserve something rougher and more genuinely local, all narrow alleys, wet markets, and fortune tellers working the riverbank promenade. For most travellers Xuzhou is a stop rather than a destination, but those who pause find the city rewards the detour.

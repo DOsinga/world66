@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Teton_Range
 title: Grand Teton
 type: location
+score: 0.65
 ---
 
 Grand Teton is the sharp-edged counterpoint to [Yellowstone](/northamerica/unitedstates/wyoming/yellowstone). Where Yellowstone sprawls around geysers, forests, and volcanic plateaus, Grand Teton rises abruptly from the valley floor in one of the cleanest mountain skylines in North America. The range looks almost theatrical: no foothills, just water, sagebrush, and granite.

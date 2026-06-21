@@ -3,7 +3,7 @@ title: Te Paki Stream
 type: location
 latitude: -34.524582
 longitude: 172.773549
-score: 0.57
+score: 0.5
 loc_type: feature
 ---
 

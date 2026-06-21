@@ -7,7 +7,7 @@ done:
 latitude: -17.856703
 loc_type: city
 longitude: 31.060158
-score: 0.43
+score: 0.32
 title: Harare
 type: location
 ---

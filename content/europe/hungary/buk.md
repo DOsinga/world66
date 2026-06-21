@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCki_Gy%C3%B3gyf%C3%B
 latitude: 47.383396
 loc_type: city
 longitude: 16.753305
-score: 0.43
+score: 0.37
 title: Bük
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zminj,_Croatia.JPG
 latitude: 45.14391
 loc_type: city
 longitude: 13.908675
-score: 0.46
+score: 0.38
 title: Žminj
 type: location
 ---

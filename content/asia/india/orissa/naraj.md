@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/23531860@N00/2710356277
 latitude: 20.475067
 loc_type: city
 longitude: 85.779593
-score: 0.3
+score: 0.26
 title: Naraj
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 61.497793
 loc_type: city
 longitude: 23.761637
-score: 0.55
+score: 0.48
 title: Tampere
 type: location
 ---

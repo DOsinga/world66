@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n_de_La_G
 latitude: 28.0916
 loc_type: city
 longitude: -17.1133
-score: 0.58
+score: 0.46
 title: San Sebastián de La Gomera
 type: location
 ---

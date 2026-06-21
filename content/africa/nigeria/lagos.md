@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Tinubu_Square_Lagos_N
 latitude: 6.455057
 loc_type: city
 longitude: 3.394179
-score: 0.39
+score: 0.29
 title: Lagos
 type: location
 ---

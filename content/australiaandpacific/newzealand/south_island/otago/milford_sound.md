@@ -5,7 +5,7 @@ latitude: -44.619019
 longitude: 167.86876
 title: Milford Sound
 type: location
-score: 0.87
+score: 0.77
 image: milford_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland_National_Park_01.jpg
 image_license: CC BY-SA 4.0

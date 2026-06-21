@@ -5,7 +5,7 @@ done:
 latitude: 48.389
 loc_type: city
 longitude: 21.525
-score: 0.36
+score: 0.29
 title: Széphalom
 type: location
 ---

@@ -8,7 +8,7 @@ longitude: 5.8311
 title: De Hoge Veluwe
 todo_location_cleanup: done
 type: location
-score: 0.6
+score: 0.49
 loc_type: feature
 ---
 

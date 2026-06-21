@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:First_national_bank_of_oak
 latitude: 37.7666
 loc_type: city
 longitude: -120.8472
-score: 0.33
+score: 0.27
 title: Oakdale
 type: location
 ---

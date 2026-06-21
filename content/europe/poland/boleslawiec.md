@@ -5,7 +5,7 @@ done:
 latitude: 51.262169
 loc_type: city
 longitude: 15.55502
-score: 0.42
+score: 0.33
 title: Boleslawiec
 type: location
 ---

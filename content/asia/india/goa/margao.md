@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Residence_Margao.jpg
 latitude: 15.2726
 loc_type: city
 longitude: 73.9583
-score: 0.47
+score: 0.41
 title: Margao
 type: location
 ---

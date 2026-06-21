@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gatun_Locks_-_panoramio.jp
 latitude: 9.3547
 loc_type: city
 longitude: -79.9016
-score: 0.4
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Col%C3%B3n,_Panama
 - https://en.wikipedia.org/wiki/Gatun_locks

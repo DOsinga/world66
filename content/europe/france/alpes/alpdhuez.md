@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alped%27Huez43.jpg
 latitude: 45.092
 loc_type: city
 longitude: 6.068
-score: 0.65
+score: 0.53
 title: Alpe d'Huez
 type: location
 ---

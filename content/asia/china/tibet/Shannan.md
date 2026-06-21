@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_grand_view_of_Samye.jpg
 latitude: 29.238
 loc_type: city
 longitude: 91.771
-score: 0.46
+score: 0.39
 title: Shannan
 type: location
 ---

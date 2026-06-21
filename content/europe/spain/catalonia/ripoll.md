@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ripoll_belltower.JPG
 latitude: 42.1982
 loc_type: city
 longitude: 2.1933
-score: 0.51
+score: 0.45
 title: Ripoll
 type: location
 ---

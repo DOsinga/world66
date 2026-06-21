@@ -5,7 +5,7 @@ done:
 latitude: 43.3239
 loc_type: city
 longitude: 16.6548
-score: 0.64
+score: 0.54
 title: Brac
 type: location
 ---

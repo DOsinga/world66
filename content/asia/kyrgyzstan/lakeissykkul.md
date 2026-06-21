@@ -5,7 +5,7 @@ latitude: 42.226649
 longitude: 79.880393
 title: Lake Issyk-Kul
 type: location
-score: 0.57
+score: 0.48
 loc_type: feature
 ---
 

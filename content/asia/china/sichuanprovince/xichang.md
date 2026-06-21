@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Xichang
 title: Xichang
 type: location
+score: 0.36
 ---
 
 Xichang sits in the Anning River valley in the deep south of Sichuan, in the heart of the Liangshan Yi Autonomous Prefecture, and its climate is a genuine surprise: warm and sunny year-round, sheltered by surrounding mountains from the cold and rain that dominate the rest of the province. The city bills itself as China's Moon City, a reference to its legendarily clear nights, and as China's Space City, a reference to the Xichang Satellite Launch Center 64 kilometres to the northwest — the facility from which China has been launching satellites since 1982.

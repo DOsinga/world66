@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Car
 latitude: 36.854808
 loc_type: city
 longitude: 10.330992
-score: 0.61
+score: 0.53
 title: Carthage
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 37.2661
 loc_type: city
 longitude: -97.3931
-score: 0.29
+score: 0.21
 title: Wellington
 type: location
 ---

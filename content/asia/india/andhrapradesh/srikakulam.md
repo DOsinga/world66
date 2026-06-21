@@ -5,7 +5,7 @@ done:
 latitude: 18.2949
 loc_type: city
 longitude: 83.8939
-score: 0.29
+score: 0.25
 title: Srikakulam
 type: location
 ---

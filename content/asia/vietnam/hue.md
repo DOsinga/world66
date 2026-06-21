@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 16.4639
 longitude: 107.5863
-score: 0.67
+score: 0.62
 title: Hue
 type: location
 loc_type: city

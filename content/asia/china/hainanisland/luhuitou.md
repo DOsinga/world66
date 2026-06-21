@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hainan_Sanya_2.jpg
 latitude: 18.227154
 loc_type: city
 longitude: 109.496275
-score: 0.48
+score: 0.41
 title: Luhuitou
 type: location
 ---

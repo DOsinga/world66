@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:InSalah(1991).jpg
 latitude: 27.197706
 loc_type: city
 longitude: 3.521238
-score: 0.27
+score: 0.2
 title: In Salah
 type: location
 ---

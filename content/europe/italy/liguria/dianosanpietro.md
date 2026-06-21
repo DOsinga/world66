@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Diano_Marina_panorama.jpg
 latitude: 43.931424
 loc_type: city
 longitude: 8.071651
-score: 0.48
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Diano_San_Pietro
 title: Diano San Pietro

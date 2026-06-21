@@ -5,7 +5,7 @@ done:
 latitude: -39.03939
 loc_type: city
 longitude: 177.427139
-score: 0.38
+score: 0.33
 title: Wairoa
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190511_172_epidaure.jpg
 latitude: 37.596
 loc_type: city
 longitude: 23.0794
-score: 0.71
+score: 0.57
 sources:
 - https://en.wikipedia.org/wiki/Epidaurus
 - https://en.wikipedia.org/wiki/Ancient_Theatre_of_Epidaurus

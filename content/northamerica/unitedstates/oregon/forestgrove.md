@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/181920661@N03/51665040339
 latitude: 45.51904
 loc_type: city
 longitude: -123.111055
-score: 0.37
+score: 0.32
 title: Forest Grove
 type: location
 ---

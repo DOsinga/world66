@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sorvagur,_faroe_islands,_v
 latitude: 62.070745
 loc_type: city
 longitude: -7.306047
-score: 0.54
+score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gur
 - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn

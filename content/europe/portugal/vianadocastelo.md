@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Viana_do_Castelo_(15727153
 latitude: 41.6931
 loc_type: city
 longitude: -8.8327
-score: 0.57
+score: 0.5
 title: Viana do Castelo
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 35.6754
 loc_type: city
 longitude: -83.7557
-score: 0.51
+score: 0.44
 title: Townsend
 type: location
 ---

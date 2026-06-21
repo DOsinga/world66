@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Kaliningrad
 title: Kaliningrad
 type: location
+score: 0.39
 ---
 
 Kaliningrad is one of the most geographically peculiar cities in the world: a Russian city on the Baltic Sea with no land connection to Russia itself. It is an exclave, surrounded by Poland to the south and Lithuania to the north, and this strangeness is stamped on everything here — in the German brick Gothic architecture that survived the Second World War, in the street names that replaced Prussian originals, in the amber markets selling the fossilised resin that washes up on local beaches in quantities found nowhere else in Europe.

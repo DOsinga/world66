@@ -5,7 +5,7 @@ done:
 latitude: 42.91202
 loc_type: city
 longitude: -70.81742
-score: 0.42
+score: 0.39
 title: Hampton Beach
 type: location
 ---

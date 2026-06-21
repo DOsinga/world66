@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beautiful_view_as_seen_fro
 latitude: 9.9758
 loc_type: city
 longitude: -84.3797
-score: 0.5
+score: 0.43
 title: Atenas
 type: location
 ---

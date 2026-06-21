@@ -5,7 +5,7 @@ latitude: 46.8543
 longitude: -121.7063
 title: Mt. Rainier National Park
 type: location
-score: 0.67
+score: 0.6
 loc_type: feature
 ---
 

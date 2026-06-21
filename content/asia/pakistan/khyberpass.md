@@ -5,7 +5,7 @@ latitude: 34.094027
 longitude: 71.144142
 title: Khyber Pass
 type: location
-score: 0.41
+score: 0.35
 loc_type: feature
 ---
 

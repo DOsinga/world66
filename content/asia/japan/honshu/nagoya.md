@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Nagoya_
 latitude: 35.185105
 loc_type: city
 longitude: 136.899844
-score: 0.64
+score: 0.55
 title: Nagoya
 type: location
 ---

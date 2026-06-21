@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Spindle_town.JPG
 latitude: 50.725645
 loc_type: city
 longitude: 15.606757
-score: 0.53
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/%C5%A0pindler%C5%AFv_Ml%C3%BDn
 title: Špindlerův Mlýn

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Olbia.jpg
 latitude: 40.9233
 loc_type: city
 longitude: 9.5027
-score: 0.64
+score: 0.51
 title: Olbia
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_da_Igreja_de_Sant%27
 latitude: -22.759781
 loc_type: city
 longitude: -41.887527
-score: 0.64
+score: 0.55
 title: Búzios
 type: location
 ---

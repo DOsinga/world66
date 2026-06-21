@@ -5,7 +5,7 @@ done:
 latitude: 41.525379
 loc_type: city
 longitude: -90.509864
-score: 0.32
+score: 0.27
 title: Bettendorf
 type: location
 ---

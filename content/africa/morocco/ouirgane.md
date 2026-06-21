@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SE_Ouirgane_Village_Dam_Al
 latitude: 31.175727
 loc_type: city
 longitude: -8.0789
-score: 0.53
+score: 0.45
 title: Ouirgane
 type: location
 ---

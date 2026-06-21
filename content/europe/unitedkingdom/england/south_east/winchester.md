@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:WinchesterCathedral-west-w
 latitude: 51.061277
 loc_type: city
 longitude: -1.313169
-score: 0.59
+score: 0.5
 title: Winchester
 type: location
 ---

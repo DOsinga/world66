@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:15-07-13-Teotihuacan-RalfR
 latitude: 19.693357
 loc_type: feature
 longitude: -98.883126
-score: 0.74
+score: 0.66
 title: Teotihuacan
 type: location
 ---

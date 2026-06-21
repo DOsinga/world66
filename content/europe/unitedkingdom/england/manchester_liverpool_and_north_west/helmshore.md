@@ -5,7 +5,7 @@ latitude: 53.68878
 longitude: -2.328581
 title: Helmshore
 type: location
-score: 0.33
+score: 0.29
 loc_type: city
 image: helmshore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Textile-Spinning_room.jpg

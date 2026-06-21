@@ -7,7 +7,7 @@ done:
 latitude: 32.562785
 loc_type: city
 longitude: 74.064535
-score: 0.26
+score: 0.2
 title: Gujrat
 type: location
 ---

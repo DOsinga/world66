@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ravensburg_Mehlsack_und_Ob
 latitude: 47.781101
 loc_type: city
 longitude: 9.612468
-score: 0.51
+score: 0.45
 title: Ravensburg
 type: location
 ---

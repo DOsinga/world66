@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vlissingen_(NL),_Koopmansh
 latitude: 51.4427
 loc_type: city
 longitude: 3.5744
-score: 0.44
+score: 0.38
 title: Vlissingen
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/133200397@N03/50644321497
 latitude: 43.490312
 loc_type: city
 longitude: 16.561561
-score: 0.57
+score: 0.42
 title: Podstrana
 type: location
 ---

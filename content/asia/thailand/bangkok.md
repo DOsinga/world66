@@ -10,7 +10,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg
 latitude: 13.7563
 longitude: 100.5018
-score: 0.85
+score: 0.76
 title: Bangkok
 type: location
 loc_type: city

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cadiz_Spain.jpg
 latitude: 36.529744
 loc_type: city
 longitude: -6.292898
-score: 0.66
+score: 0.57
 title: Cadiz
 type: location
 ---

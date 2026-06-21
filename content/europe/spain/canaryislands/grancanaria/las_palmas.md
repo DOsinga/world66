@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canteras_EM1B2907_(4064275
 latitude: 28.1008
 loc_type: city
 longitude: -15.4147
-score: 0.65
+score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Las_Palmas
 title: Las Palmas de Gran Canaria

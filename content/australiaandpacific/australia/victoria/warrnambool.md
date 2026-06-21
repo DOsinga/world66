@@ -6,7 +6,7 @@ done:
 latitude: -38.3826
 loc_type: city
 longitude: 142.4814
-score: 0.46
+score: 0.4
 title: Warrnambool
 type: location
 ---

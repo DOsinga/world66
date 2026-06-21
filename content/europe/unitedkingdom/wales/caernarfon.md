@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caernarfon_Castle_built_fr
 latitude: 53.139436
 loc_type: city
 longitude: -4.276975
-score: 0.62
+score: 0.53
 title: Caernarfon
 type: location
 ---

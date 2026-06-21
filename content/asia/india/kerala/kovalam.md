@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_k
 latitude: 8.390259
 loc_type: city
 longitude: 76.978515
-score: 0.59
+score: 0.49
 title: Kovalam
 type: location
 ---

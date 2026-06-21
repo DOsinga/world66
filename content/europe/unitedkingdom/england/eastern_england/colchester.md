@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colchester_Castle_2023.jpg
 latitude: 51.88969
 loc_type: city
 longitude: 0.899465
-score: 0.48
+score: 0.38
 title: Colchester
 type: location
 ---

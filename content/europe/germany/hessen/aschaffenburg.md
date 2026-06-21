@@ -5,7 +5,7 @@ done:
 latitude: 49.97067
 loc_type: city
 longitude: 9.138486
-score: 0.47
+score: 0.4
 title: Aschaffenburg
 type: location
 ---

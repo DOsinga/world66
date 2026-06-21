@@ -5,7 +5,7 @@ done:
 latitude: 26.216345
 loc_type: city
 longitude: 50.540717
-score: 0.33
+score: 0.25
 title: Jid Hafs
 type: location
 ---

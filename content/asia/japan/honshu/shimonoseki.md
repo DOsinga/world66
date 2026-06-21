@@ -10,7 +10,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Shimonoseki_20080503_114546.jpg
 latitude: 33.9577
 longitude: 130.9415
-score: 0.57
+score: 0.46
 title: Shimonoseki
 type: location
 loc_type: city

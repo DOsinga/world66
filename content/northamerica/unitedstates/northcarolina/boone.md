@@ -5,7 +5,7 @@ done:
 latitude: 36.216389
 loc_type: city
 longitude: -81.674444
-score: 0.48
+score: 0.43
 title: Boone
 type: location
 ---

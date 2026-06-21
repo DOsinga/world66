@@ -5,7 +5,7 @@ done:
 latitude: 54.3713
 loc_type: city
 longitude: -2.9211
-score: 0.61
+score: 0.5
 title: Bowness
 type: location
 ---

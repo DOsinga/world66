@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_0319_174425_KohKongIs
 latitude: 11.611009
 loc_type: city
 longitude: 102.981859
-score: 0.45
+score: 0.36
 title: Krong Koh Kong
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -43.291503
 loc_type: city
 longitude: -65.4983
-score: 0.45
+score: 0.4
 title: Gaiman
 type: location
 ---

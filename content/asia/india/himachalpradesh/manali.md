@@ -6,7 +6,7 @@ latitude: 32.2455
 longitude: 77.1873
 title: Manali
 type: location
-score: 0.64
+score: 0.54
 loc_type: city
 image: manali.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beautiful_River_valley.jpg

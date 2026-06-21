@@ -6,7 +6,7 @@ done:
 latitude: 39.158168
 loc_type: city
 longitude: -75.524368
-score: 0.34
+score: 0.31
 title: Dover
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dijon_-_Puits_de_Mo%C3%AFs
 latitude: 47.321581
 loc_type: city
 longitude: 5.04147
-score: 0.67
+score: 0.55
 title: Dijon
 type: location
 ---

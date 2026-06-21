@@ -5,7 +5,7 @@ latitude: 39.878388
 longitude: 44.57635
 title: Khor Virap
 type: location
-score: 0.58
+score: 0.48
 loc_type: feature
 ---
 

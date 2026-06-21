@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Camil_Iamandescu-Castelul_
 latitude: 45.345549
 loc_type: city
 longitude: 25.54815
-score: 0.57
+score: 0.51
 sources:
 - https://en.wikipedia.org/wiki/Sinaia
 title: Sinaia

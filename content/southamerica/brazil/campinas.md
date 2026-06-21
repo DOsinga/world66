@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:250717_Fotos_Centro_de_Cam
 latitude: -22.905639
 loc_type: city
 longitude: -47.059564
-score: 0.41
+score: 0.31
 title: Campinas
 type: location
 ---

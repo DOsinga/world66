@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henning
 latitude: 68.1529
 loc_type: city
 longitude: 14.2007
-score: 0.74
+score: 0.64
 sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r
 - https://en.wikipedia.org/wiki/Operation_Claymore

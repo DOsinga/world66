@@ -5,7 +5,7 @@ done:
 latitude: 46.4764
 loc_type: city
 longitude: 12.2079
-score: 0.58
+score: 0.5
 title: San Vito di Cadore
 type: location
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 24.089019
 loc_type: city
 longitude: 38.068708
-score: 0.3
+score: 0.22
 title: Yanbu
 type: location
 image: yanbu.jpg

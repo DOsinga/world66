@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciel_nuageux_%C3%A0_bondou
 latitude: 8.0398
 loc_type: city
 longitude: -2.7984
-score: 0.29
+score: 0.22
 title: Bondoukou
 type: location
 ---

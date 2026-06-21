@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Champaner-Pavagadh_Archaeological_Park
 title: Champaner-Pavagadh
 type: location
+score: 0.45
 ---
 
 Champaner-Pavagadh is one of Gujarat's great surprises: a ruined Sultanate capital at the foot of a sacred volcanic hill, with mosques, stepwells, gateways, palaces, fortifications, and pilgrimage paths scattered through fields and forest. It is a UNESCO World Heritage Site, but it still feels less manicured than many better-known Indian monuments.

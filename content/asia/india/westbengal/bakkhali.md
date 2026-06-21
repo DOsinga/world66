@@ -4,7 +4,7 @@ done:
 latitude: 21.560769
 loc_type: city
 longitude: 88.267317
-score: 0.36
+score: 0.31
 title: Bakkhali
 type: location
 ---

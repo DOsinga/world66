@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vardzia_Cave_Monastery_05.
 latitude: 41.380974
 loc_type: city
 longitude: 43.28447
-score: 0.66
+score: 0.54
 title: Vardzia
 type: location
 ---

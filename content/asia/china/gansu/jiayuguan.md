@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiayuguan
 title: Jiayuguan
 type: location
+score: 0.47
 ---
 
 Jiayuguan was, for most of Chinese imperial history, the end of the world. The fort here — the Jiayu Pass — was the westernmost stronghold of the Ming Great Wall, the last outpost of Chinese civilization before the desert took over. Soldiers posted here who fell out of favour were said to have been "sent beyond the pass." The name means "last fort under heaven." Standing on the ramparts now, with the snow-capped Qilian Mountains behind you and the Gobi stretching ahead, the phrase stops feeling metaphorical.

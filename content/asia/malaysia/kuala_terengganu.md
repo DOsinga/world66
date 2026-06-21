@@ -5,7 +5,7 @@ done:
 latitude: 5.3296
 loc_type: city
 longitude: 103.1383
-score: 0.54
+score: 0.44
 title: Kuala Terengganu
 type: location
 ---

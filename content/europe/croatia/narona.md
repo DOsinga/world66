@@ -5,7 +5,7 @@ done:
 latitude: 43.0804
 loc_type: city
 longitude: 17.6259
-score: 0.41
+score: 0.36
 title: Narona
 type: location
 ---

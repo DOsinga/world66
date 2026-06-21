@@ -6,7 +6,7 @@ latitude: 44.802267
 longitude: 1.214002
 title: Domme
 type: location
-score: 0.63
+score: 0.54
 loc_type: city
 image: domme.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Domme_1_GhezoArt.jpg

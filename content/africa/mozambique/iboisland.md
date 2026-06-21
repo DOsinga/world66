@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ibo_Island,_Mozambique_(35
 latitude: -12.344916
 loc_type: city
 longitude: 40.600242
-score: 0.48
+score: 0.37
 title: Ibo Island
 type: location
 ---

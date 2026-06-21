@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: -30.296241
 longitude: 153.113529
-score: 0.51
+score: 0.41
 title: Coffs Harbour
 type: location
 image: coffsharbour.jpg

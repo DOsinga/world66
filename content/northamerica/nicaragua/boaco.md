@@ -5,7 +5,7 @@ done:
 latitude: 12.4722
 loc_type: city
 longitude: -85.6586
-score: 0.32
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Boaco
 title: Boaco

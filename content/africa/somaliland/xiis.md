@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Heis_(town).jpg
 latitude: 10.896318
 loc_type: city
 longitude: 46.919332
-score: 0.16
+score: 0.06
 title: Xiis
 type: location
 ---

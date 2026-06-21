@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BulwaryDietla-WidokNaPo%C5
 latitude: 49.420614
 loc_type: city
 longitude: 20.959418
-score: 0.49
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Krynica-Zdr%C3%B3j
 title: Krynica-Zdrój

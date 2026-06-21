@@ -5,7 +5,7 @@ done:
 latitude: 9.4903
 loc_type: city
 longitude: 123.9164
-score: 0.56
+score: 0.47
 title: Pamilacan Island
 type: location
 ---

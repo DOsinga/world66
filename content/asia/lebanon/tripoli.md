@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tripoli-Mina-Lebanon.jpg
 latitude: 34.437362
 loc_type: city
 longitude: 35.834855
-score: 0.46
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Tripoli,_Lebanon
 title: Tripoli

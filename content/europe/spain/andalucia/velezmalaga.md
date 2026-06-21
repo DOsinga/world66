@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_V%C3%A9lez-M%C
 latitude: 36.781835
 loc_type: city
 longitude: -4.09881
-score: 0.49
+score: 0.42
 title: Velez Malaga
 type: location
 ---

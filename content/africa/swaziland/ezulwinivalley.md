@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SZ-ezulwini-markt-4.jpg
 latitude: -26.43
 loc_type: city
 longitude: 31.18
-score: 0.48
+score: 0.42
 title: Ezulwini Valley
 type: location
 ---

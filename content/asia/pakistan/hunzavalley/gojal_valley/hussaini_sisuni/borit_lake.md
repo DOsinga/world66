@@ -5,7 +5,7 @@ latitude: 36.430774
 longitude: 74.862402
 title: Borit Lake
 type: location
-score: 0.46
+score: 0.39
 loc_type: feature
 ---
 

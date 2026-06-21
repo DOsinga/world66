@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burlingame_Avenue,_Burling
 latitude: 37.578097
 loc_type: city
 longitude: -122.34731
-score: 0.4
+score: 0.32
 title: Burlingame
 type: location
 ---

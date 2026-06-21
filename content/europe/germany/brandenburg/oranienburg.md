@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Oranienburg
 title: Oranienburg
 type: location
+score: 0.31
 ---
 
 Oranienburg sits on the Havel river about 35 kilometres north of Berlin, close enough to reach easily by S-Bahn or regional train, yet it carries a historical weight that makes it unlike any ordinary day trip. The town is best known outside Germany as the site of [Sachsenhausen concentration camp](/europe/germany/brandenburg/oranienburg/sachsenhausen_concentration_camp), one of the first and most significant Nazi camps, opened here in 1936 and used until the end of the war. A visit is sobering and important; it draws nearly half a million visitors a year, and rightly so.

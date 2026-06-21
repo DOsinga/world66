@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Irvine_Civic_Center.jpg
 latitude: 33.685697
 loc_type: city
 longitude: -117.825981
-score: 0.37
+score: 0.29
 title: Irvine
 type: location
 ---

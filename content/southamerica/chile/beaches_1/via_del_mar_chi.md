@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_near_Re%C3%B1aca_2.j
 latitude: -33.0153
 loc_type: city
 longitude: -71.55
-score: 0.58
+score: 0.51
 title: Viña del Mar
 type: location
 ---

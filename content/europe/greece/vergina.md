@@ -5,7 +5,7 @@ done:
 latitude: 40.4871
 loc_type: city
 longitude: 22.3173
-score: 0.56
+score: 0.5
 title: Vergina
 type: location
 image: vergina.jpg

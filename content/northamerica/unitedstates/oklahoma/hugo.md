@@ -5,7 +5,7 @@ done:
 latitude: 34.010621
 loc_type: city
 longitude: -95.513122
-score: 0.29
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Hugo,_Oklahoma
 title: Hugo

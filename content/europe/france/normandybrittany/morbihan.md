@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Entre_Golfe_Morbihan.JPG
 latitude: 47.825981
 loc_type: city
 longitude: -2.763349
-score: 0.6
+score: 0.55
 title: Morbihan
 type: location
 ---

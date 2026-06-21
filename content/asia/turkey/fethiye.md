@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fethiye_2020-03-15-4.jpg
 latitude: 36.622115
 loc_type: city
 longitude: 29.115338
-score: 0.67
+score: 0.6
 title: Fethiye
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colv%C3%A1_beach.jpg
 latitude: 15.277304
 loc_type: city
 longitude: 73.920203
-score: 0.57
+score: 0.46
 title: Colva
 type: location
 ---

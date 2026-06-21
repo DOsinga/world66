@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinon_-_View_from_the_cas
 latitude: 47.1667
 loc_type: city
 longitude: 0.2402
-score: 0.63
+score: 0.54
 title: Chinon
 type: location
 ---

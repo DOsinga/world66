@@ -5,7 +5,7 @@ done:
 latitude: -33.959721
 loc_type: city
 longitude: 22.458715
-score: 0.5
+score: 0.42
 title: George
 type: location
 ---

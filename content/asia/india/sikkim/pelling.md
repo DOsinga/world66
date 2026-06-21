@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunrise_over_Kangchenjunga
 latitude: 27.3004
 loc_type: city
 longitude: 88.2357
-score: 0.58
+score: 0.49
 sources:
 - https://en.wikipedia.org/wiki/Pelling
 - https://en.wikipedia.org/wiki/Pemayangtse_Monastery

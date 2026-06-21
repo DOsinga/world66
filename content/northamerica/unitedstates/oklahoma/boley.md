@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:100th_Birthday_Rodeo_%26_B
 latitude: 35.493489
 loc_type: city
 longitude: -96.483611
-score: 0.28
+score: 0.19
 title: Boley
 type: location
 ---

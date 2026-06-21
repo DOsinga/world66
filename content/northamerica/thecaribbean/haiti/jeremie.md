@@ -5,7 +5,7 @@ done:
 latitude: 18.6461
 loc_type: city
 longitude: -74.1172
-score: 0.3
+score: 0.24
 title: Jérémie
 type: location
 ---

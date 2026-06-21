@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_en_el_Faro_de_la
 latitude: -29.902705
 loc_type: city
 longitude: -71.251958
-score: 0.54
+score: 0.46
 title: La Serena
 type: location
 ---

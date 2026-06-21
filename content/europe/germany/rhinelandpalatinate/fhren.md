@@ -5,7 +5,7 @@ done:
 latitude: 49.859309
 loc_type: city
 longitude: 6.767826
-score: 0.3
+score: 0.27
 title: Föhren
 type: location
 ---

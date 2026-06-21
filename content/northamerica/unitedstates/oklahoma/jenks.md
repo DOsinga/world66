@@ -5,7 +5,7 @@ done:
 latitude: 36.022873
 loc_type: city
 longitude: -95.968328
-score: 0.32
+score: 0.26
 title: Jenks
 type: location
 image: jenks.jpg

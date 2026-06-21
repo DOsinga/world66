@@ -5,7 +5,7 @@ latitude: 20.5525
 longitude: 75.6995
 title: Ajanta Caves
 type: location
-score: 0.68
+score: 0.63
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 9.2089
 loc_type: city
 longitude: 12.4802
-score: 0.25
+score: 0.19
 title: Yola
 type: location
 ---

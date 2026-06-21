@@ -6,7 +6,7 @@ latitude: 29.974498
 longitude: 32.537086
 title: Suez
 type: location
-score: 0.37
+score: 0.32
 loc_type: city
 image: suez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monkey_Forest_Street_of_Ub
 latitude: -8.5072
 loc_type: city
 longitude: 115.2618
-score: 0.85
+score: 0.75
 title: Ubud
 type: location
 ---

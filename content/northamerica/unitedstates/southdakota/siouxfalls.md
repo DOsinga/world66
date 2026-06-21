@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_and_Falls_Park_03
 latitude: 43.547601
 loc_type: city
 longitude: -96.729363
-score: 0.41
+score: 0.37
 title: Sioux Falls
 type: location
 ---

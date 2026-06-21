@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_golden_weave
 latitude: 1.6139
 loc_type: city
 longitude: 7.4057
-score: 0.5
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Pr%C3%ADncipe
 - https://en.wikipedia.org/wiki/Island_of_Pr%C3%ADncipe_Biosphere_Reserve

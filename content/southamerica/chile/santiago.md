@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-05-13'
 latitude: -33.4489
 longitude: -70.6693
-score: 0.57
+score: 0.5
 title: Santiago
 type: location
 loc_type: city

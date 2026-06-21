@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG
 latitude: 9.798267
 loc_type: city
 longitude: 124.168422
-score: 0.67
+score: 0.59
 title: Chocolate Hills
 type: location
 ---

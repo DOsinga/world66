@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bad_Gastein_Centre_1997-02
 latitude: 47.087112
 loc_type: city
 longitude: 13.160853
-score: 0.61
+score: 0.51
 title: Bad Gastein
 type: location
 ---

@@ -3,7 +3,7 @@ title: Masally
 type: location
 latitude: 39.032211
 longitude: 48.672109
-score: 0.29
+score: 0.24
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inishmore_Central.jpg
 latitude: 53.1204
 loc_type: city
 longitude: -9.7056
-score: 0.65
+score: 0.57
 title: Inis Mór
 type: location
 ---

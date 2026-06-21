@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191)
 latitude: 29.987075
 loc_type: city
 longitude: 31.211806
-score: 0.76
+score: 0.74
 title: Giza
 type: location
 ---

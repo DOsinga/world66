@@ -6,11 +6,11 @@ latitude: 41.3083
 longitude: -72.9279
 title: New Haven
 type: location
-score: 0.5
+score: 0.43
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/New_Haven,_Connecticut
-  - https://en.wikipedia.org/wiki/Yale_University
+- https://en.wikipedia.org/wiki/New_Haven,_Connecticut
+- https://en.wikipedia.org/wiki/Yale_University
 ---
 
 New Haven is a city defined by Yale University, but it has a character that goes well beyond the campus gates. The university gives the city world-class museums, a lively arts scene, and some genuinely extraordinary architecture, while the surrounding neighbourhoods contribute some of the best pizza in the United States and a gritty urban energy that keeps things real.

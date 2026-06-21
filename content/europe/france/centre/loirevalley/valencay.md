@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Valencay_20050726.
 latitude: 47.1615
 loc_type: city
 longitude: 1.5666
-score: 0.54
+score: 0.45
 title: Valençay
 type: location
 ---

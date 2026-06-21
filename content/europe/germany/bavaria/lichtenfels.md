@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lichtenfels_Korbmarkt_bask
 latitude: 50.14568
 loc_type: city
 longitude: 11.06382
-score: 0.38
+score: 0.32
 title: Lichtenfels
 type: location
 ---

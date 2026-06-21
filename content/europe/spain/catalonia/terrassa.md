@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Egara._Sant_Miquel.jpg
 latitude: 41.562962
 loc_type: city
 longitude: 2.010049
-score: 0.47
+score: 0.38
 title: Terrassa
 type: location
 ---

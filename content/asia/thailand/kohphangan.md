@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Phangan01.jpg
 latitude: 9.73495
 loc_type: city
 longitude: 100.030571
-score: 0.68
+score: 0.61
 title: Koh Phangan
 type: location
 ---

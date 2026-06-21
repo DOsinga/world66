@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Post_Office_of_Phuket.
 latitude: 7.8848
 loc_type: city
 longitude: 98.3892
-score: 0.72
+score: 0.58
 title: Phuket City
 type: location
 ---

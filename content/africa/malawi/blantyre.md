@@ -5,7 +5,7 @@ done:
 latitude: -15.786254
 loc_type: city
 longitude: 35.003569
-score: 0.35
+score: 0.28
 title: Blantyre
 type: location
 ---

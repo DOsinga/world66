@@ -5,7 +5,7 @@ done:
 latitude: 42.7751
 loc_type: city
 longitude: 11.2878
-score: 0.51
+score: 0.45
 title: Grosseto
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 14.3561
 loc_type: city
 longitude: 100.5688
-score: 0.67
+score: 0.64
 title: Ayutthaya
 type: location
 ---

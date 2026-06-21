@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Petrock%27s_Church_-_ge
 latitude: 50.646
 loc_type: city
 longitude: -4.0828
-score: 0.51
+score: 0.44
 title: Lydford
 type: location
 ---

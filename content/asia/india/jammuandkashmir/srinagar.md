@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_shikara_on_Dal_Lake,
 latitude: 34.0837
 loc_type: city
 longitude: 74.7973
-score: 0.62
+score: 0.55
 title: Srinagar
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/66261544@N06/7170226339
 latitude: 60.86
 loc_type: city
 longitude: 8.3835
-score: 0.57
+score: 0.51
 title: Hemsedal
 type: location
 ---

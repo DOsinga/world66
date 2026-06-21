@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Town_of_Banaue.jpg
 latitude: 16.9118
 loc_type: city
 longitude: 121.0614
-score: 0.62
+score: 0.56
 title: Banaue
 type: location
 ---

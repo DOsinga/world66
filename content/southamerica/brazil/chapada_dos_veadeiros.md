@@ -5,7 +5,7 @@ latitude: -14.1419
 longitude: -47.6842
 title: Chapada dos Veadeiros
 type: location
-score: 0.61
+score: 0.51
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 60.140025
 loc_type: city
 longitude: -45.242852
-score: 0.5
+score: 0.43
 title: Nanortalik
 type: location
 ---

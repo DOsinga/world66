@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Palma_Darien_Panama_03.
 latitude: 8.4036
 loc_type: city
 longitude: -77.6878
-score: 0.32
+score: 0.18
 title: La Palma
 type: location
 ---

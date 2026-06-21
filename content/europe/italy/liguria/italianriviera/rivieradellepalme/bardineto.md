@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bardineto_SV_castello.jpg
 latitude: 44.193123
 loc_type: city
 longitude: 8.132452
-score: 0.44
+score: 0.37
 title: Bardineto
 type: location
 ---

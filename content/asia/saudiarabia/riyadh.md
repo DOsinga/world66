@@ -7,7 +7,7 @@ done:
 latitude: 23.333333
 loc_type: city
 longitude: 45.333333
-score: 0.38
+score: 0.29
 title: Riyadh
 type: location
 ---

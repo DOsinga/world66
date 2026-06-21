@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jabbeke_-_Carrer_Major.jpg
 latitude: 51.191219
 loc_type: city
 longitude: 3.100769
-score: 0.35
+score: 0.26
 title: Jabbeke
 type: location
 ---

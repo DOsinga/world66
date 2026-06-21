@@ -5,7 +5,7 @@ done:
 latitude: 12.388451
 loc_type: city
 longitude: -16.238502
-score: 0.4
+score: 0.36
 title: Basse Casamance
 type: location
 ---

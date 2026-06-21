@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida
 latitude: 30.176591
 loc_type: city
 longitude: -85.805386
-score: 0.52
+score: 0.46
 title: Panama City Beach
 type: location
 ---

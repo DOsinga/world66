@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Juan,_Condado_beach,_P
 latitude: 18.4559
 loc_type: city
 longitude: -66.071
-score: 0.57
+score: 0.49
 title: Condado
 type: location
 ---

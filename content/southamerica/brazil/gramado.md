@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/18115835@N00/4654146147
 latitude: -29.379286
 loc_type: city
 longitude: -50.873702
-score: 0.58
+score: 0.51
 title: Gramado
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146878425@N05/52728903975
 latitude: 41.7355
 loc_type: city
 longitude: -111.8344
-score: 0.42
+score: 0.35
 title: Logan
 type: location
 ---

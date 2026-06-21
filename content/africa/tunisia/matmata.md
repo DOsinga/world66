@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Matmata_house.jpg
 latitude: 33.5087
 loc_type: city
 longitude: 9.9786
-score: 0.52
+score: 0.46
 title: Matmata
 type: location
 ---

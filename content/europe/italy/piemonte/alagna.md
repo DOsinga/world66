@@ -5,7 +5,7 @@ done:
 latitude: 45.8539
 loc_type: city
 longitude: 7.9372
-score: 0.54
+score: 0.47
 title: Alagna
 type: location
 ---

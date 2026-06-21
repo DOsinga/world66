@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Capricho_Gaud%C3%AD_Comill
 latitude: 43.3855
 loc_type: city
 longitude: -4.2902
-score: 0.58
+score: 0.51
 title: Comillas
 type: location
 ---

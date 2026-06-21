@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/53166301@N08/26463980884
 latitude: 40.558729
 loc_type: city
 longitude: 8.315321
-score: 0.68
+score: 0.61
 title: Alghero
 type: location
 ---

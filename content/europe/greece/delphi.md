@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Delphi,_Greece_-_panoramio
 latitude: 38.481154
 loc_type: city
 longitude: 22.500549
-score: 0.74
+score: 0.65
 title: Delphi
 type: location
 ---

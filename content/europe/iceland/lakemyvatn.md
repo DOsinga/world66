@@ -5,7 +5,7 @@ latitude: 65.633116
 longitude: -17.005723
 title: Lake Mývatn
 type: location
-score: 0.68
+score: 0.62
 loc_type: feature
 ---
 

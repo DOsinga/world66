@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oval_Plaza_(Forum_Romanum,
 latitude: 32.278448
 loc_type: city
 longitude: 35.88968
-score: 0.65
+score: 0.59
 title: Jerash
 type: location
 ---

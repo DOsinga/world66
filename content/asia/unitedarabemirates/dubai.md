@@ -10,7 +10,7 @@ image_source: https://en.wikipedia.org/wiki/File:Burj_Khalifa_2021.jpg
 latitude: 25.2048
 loc_type: city
 longitude: 55.2708
-score: 0.68
+score: 0.63
 title: Dubai
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 12.532
 loc_type: city
 longitude: -61.384
-score: 0.62
+score: 0.56
 title: Petit St. Vincent
 type: location
 ---

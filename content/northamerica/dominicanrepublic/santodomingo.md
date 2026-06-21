@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SantoDomingoedit.JPG
 latitude: 18.4861
 loc_type: city
 longitude: -69.9312
-score: 0.53
+score: 0.49
 title: Santo Domingo
 type: location
 ---

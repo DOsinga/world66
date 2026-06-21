@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Geneve_2005_001_Ork.ch.jpg
 latitude: 46.2018
 loc_type: city
 longitude: 6.1466
-score: 0.71
+score: 0.64
 title: Geneva
 type: location
 ---

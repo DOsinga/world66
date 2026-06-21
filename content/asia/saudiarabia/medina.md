@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/43714545@N06/52501731659
 latitude: 24.471153
 loc_type: city
 longitude: 39.611122
-score: 0.34
+score: 0.19
 title: Medina
 type: location
 ---

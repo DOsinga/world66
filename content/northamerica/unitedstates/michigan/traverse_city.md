@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Traverse_County_Cour
 latitude: 44.7606
 loc_type: city
 longitude: -85.6166
-score: 0.51
+score: 0.47
 title: Traverse City
 type: location
 ---

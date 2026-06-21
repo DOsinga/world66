@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caerphilly_Castle_south.jp
 latitude: 51.578
 loc_type: city
 longitude: -3.218
-score: 0.51
+score: 0.44
 title: Caerphilly
 type: location
 ---

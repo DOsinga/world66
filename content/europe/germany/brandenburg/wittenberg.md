@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lutherstadt_Wittenberg,_De
 latitude: 51.8667
 loc_type: city
 longitude: 12.6468
-score: 0.47
+score: 0.42
 title: Wittenberg
 type: location
 ---

@@ -9,7 +9,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Death_Valley_exit_SR190_view_Panamint_Butt_flash_flood_2013.jpg
 latitude: 36.4614
 longitude: -116.8672
-score: 0.57
+score: 0.45
 title: Death Valley
 type: location
 loc_type: feature

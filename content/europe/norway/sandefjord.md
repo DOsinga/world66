@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandefjord,Norway.jpg
 latitude: 59.0799
 loc_type: city
 longitude: 10.280432
-score: 0.47
+score: 0.41
 title: Sandefjord
 type: location
 ---

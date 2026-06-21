@@ -15,6 +15,7 @@ image: derna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Derna,_Libya.jpg
 image_license: CC0
 image_attribution: مريم محمد الروادي
+score: 0.13
 ---
 
 Derna is one of Libya's most dramatically placed coastal cities, wedged between the Mediterranean, the eastern end of the [Jebel Akhdar](/africa/libya/jebelakhdar) and the cut of [Wadi Derna](/africa/libya/derna/wadi_derna). Before recent disasters, travellers came for its old mosques, mountain-water scenery, sea air and its position on the road between Apollonia, Cyrene and Tobruk.

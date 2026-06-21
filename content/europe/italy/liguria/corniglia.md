@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinqu
 latitude: 44.119961
 loc_type: city
 longitude: 9.708687
-score: 0.68
+score: 0.61
 title: Corniglia
 type: location
 ---

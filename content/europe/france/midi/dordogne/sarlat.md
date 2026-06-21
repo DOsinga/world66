@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_sarlat_la_caneda_2016.jp
 latitude: 44.8879
 loc_type: city
 longitude: 1.2161
-score: 0.7
+score: 0.58
 title: Sarlat
 type: location
 ---

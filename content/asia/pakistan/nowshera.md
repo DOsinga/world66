@@ -5,7 +5,7 @@ done:
 latitude: 34.015561
 loc_type: city
 longitude: 71.981283
-score: 0.23
+score: 0.2
 title: Nowshera
 type: location
 image: nowshera.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 52.5167
 loc_type: city
 longitude: -7.8914
-score: 0.63
+score: 0.54
 title: Cashel
 type: location
 ---

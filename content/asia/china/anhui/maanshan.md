@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Ma%27anshan
 title: Ma'anshan
 type: location
+score: 0.26
 ---
 
 Ma'anshan sits on the Yangtze River in eastern Anhui, so close to Nanjing that the two cities effectively form a single metropolitan agglomeration. The city achieved town status only in 1956 — built around the steel works that remain its industrial heart — yet the surrounding district has a much older story: the Tang Dynasty poet Li Bai spent his final years here and is buried at [Caishiji](/asia/china/anhui/maanshan/caishiji_scenic_area), a cliff face above the river that has been a place of literary pilgrimage for over a thousand years. The Caishiji Scenic Area, reached by ferry from the city, combines the poet's tomb with river views and a collection of carved inscriptions.

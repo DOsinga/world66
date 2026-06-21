@@ -5,7 +5,7 @@ done:
 latitude: 40.0931
 loc_type: city
 longitude: -83.018
-score: 0.31
+score: 0.23
 title: Worthington
 type: location
 image: worthington.jpg

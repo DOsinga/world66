@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Croatian_National_Theater,
 latitude: 45.815
 loc_type: city
 longitude: 15.9819
-score: 0.63
+score: 0.54
 title: Zagreb
 type: location
 ---

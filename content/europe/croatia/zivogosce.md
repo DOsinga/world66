@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%C5%BDivogo%C5%A1%C4%87e-P
 latitude: 43.188147
 loc_type: city
 longitude: 17.160586
-score: 0.53
+score: 0.48
 title: Živogošće
 type: location
 ---

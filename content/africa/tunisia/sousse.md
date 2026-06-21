@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tunezja,_Sousse_-_panorami
 latitude: 35.828828
 loc_type: city
 longitude: 10.640525
-score: 0.57
+score: 0.49
 title: Sousse
 type: location
 ---

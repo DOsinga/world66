@@ -5,7 +5,7 @@ done:
 latitude: 44.3983
 loc_type: city
 longitude: 0.5925
-score: 0.44
+score: 0.33
 title: Sainte-Livrade-sur-Lot
 type: location
 ---

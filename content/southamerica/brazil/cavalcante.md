@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cavalcante_Banner.jpg
 latitude: -13.792841
 loc_type: city
 longitude: -47.456852
-score: 0.4
+score: 0.35
 title: Cavalcante
 type: location
 ---

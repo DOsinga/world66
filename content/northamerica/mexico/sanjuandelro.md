@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/12950131@N06/7998321050
 latitude: 20.389
 loc_type: city
 longitude: -99.996
-score: 0.36
+score: 0.31
 title: San Juan del Río
 type: location
 ---

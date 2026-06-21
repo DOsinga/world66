@@ -5,7 +5,7 @@ done:
 latitude: 39.4745
 loc_type: city
 longitude: -6.3717
-score: 0.6
+score: 0.53
 title: Cáceres
 type: location
 ---

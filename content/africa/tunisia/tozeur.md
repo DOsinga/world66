@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tozeur_sud_tunisien.jpg
 latitude: 33.9239
 loc_type: city
 longitude: 8.1371
-score: 0.55
+score: 0.49
 title: Tozeur
 type: location
 ---

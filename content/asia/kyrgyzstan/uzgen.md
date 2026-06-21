@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BC%D0%BF%D
 latitude: 40.768814
 loc_type: city
 longitude: 73.298663
-score: 0.39
+score: 0.29
 title: Uzgen
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mangareva.2006.jpg
 latitude: -23.104536
 loc_type: city
 longitude: -134.969596
-score: 0.44
+score: 0.43
 title: Mangareva
 type: location
 ---

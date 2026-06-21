@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/85714479@N00/48393916777
 latitude: 54.375
 loc_type: city
 longitude: -2.999
-score: 0.58
+score: 0.49
 title: Hawkshead
 type: location
 ---

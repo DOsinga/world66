@@ -5,7 +5,7 @@ latitude: 15.590853
 longitude: 73.810215
 title: Mapusa
 type: location
-score: 0.46
+score: 0.4
 loc_type: city
 ---
 

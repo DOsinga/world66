@@ -5,7 +5,7 @@ done:
 latitude: 47.682152
 loc_type: city
 longitude: 13.095631
-score: 0.56
+score: 0.46
 title: Hallein
 type: location
 ---

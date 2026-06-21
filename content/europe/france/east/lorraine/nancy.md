@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Place_Stanislas_et_ses_gri
 latitude: 48.693722
 loc_type: city
 longitude: 6.18341
-score: 0.57
+score: 0.52
 title: Nancy
 type: location
 ---

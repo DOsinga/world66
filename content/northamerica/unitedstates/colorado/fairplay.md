@@ -5,7 +5,7 @@ done:
 latitude: 39.225189
 loc_type: city
 longitude: -106.001952
-score: 0.43
+score: 0.35
 title: Fairplay
 type: location
 ---

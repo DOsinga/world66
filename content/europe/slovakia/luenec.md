@@ -5,7 +5,7 @@ done:
 latitude: 48.330389
 loc_type: city
 longitude: 19.663415
-score: 0.35
+score: 0.29
 title: Lučenec
 type: location
 image: luenec.jpg

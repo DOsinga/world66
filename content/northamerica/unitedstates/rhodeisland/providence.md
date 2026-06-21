@@ -5,7 +5,7 @@ done:
 latitude: 41.823989
 loc_type: city
 longitude: -71.412834
-score: 0.48
+score: 0.43
 title: Providence
 type: location
 image: providence.jpg

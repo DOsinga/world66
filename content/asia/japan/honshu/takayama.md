@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Takayama.-_Inari-torii_u_(
 latitude: 36.139625
 loc_type: city
 longitude: 137.251032
-score: 0.78
+score: 0.7
 title: Takayama
 type: location
 ---

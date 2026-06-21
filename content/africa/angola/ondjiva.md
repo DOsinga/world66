@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeroporto_11_de_Novembro,_
 latitude: -17.0705
 loc_type: city
 longitude: 15.728
-score: 0.23
+score: 0.19
 title: Ondjiva
 type: location
 ---

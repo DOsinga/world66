@@ -5,7 +5,7 @@ done:
 latitude: 42.6629
 loc_type: city
 longitude: 21.1655
-score: 0.39
+score: 0.32
 title: Pristina
 type: location
 ---

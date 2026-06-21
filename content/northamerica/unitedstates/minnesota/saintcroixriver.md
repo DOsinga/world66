@@ -5,7 +5,7 @@ latitude: 45.39
 longitude: -92.65
 title: Saint Croix River
 type: location
-score: 0.41
+score: 0.37
 loc_type: feature
 ---
 

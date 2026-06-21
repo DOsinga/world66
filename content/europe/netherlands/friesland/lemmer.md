@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lemmer,_zicht_op_de_Kortes
 latitude: 52.844486
 loc_type: city
 longitude: 5.709914
-score: 0.43
+score: 0.38
 title: Lemmer
 type: location
 ---

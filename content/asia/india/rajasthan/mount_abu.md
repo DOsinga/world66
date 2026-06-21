@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Abu,_Rajasthan_30750
 latitude: 24.5926
 loc_type: city
 longitude: 72.7082
-score: 0.56
+score: 0.45
 title: Mount Abu
 type: location
 ---

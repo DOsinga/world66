@@ -5,7 +5,7 @@ done:
 latitude: 36.717324
 loc_type: city
 longitude: 25.333112
-score: 0.67
+score: 0.6
 title: Ios
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AsyutSalamTaggatLibrary.jp
 latitude: 27.183282
 loc_type: city
 longitude: 31.185384
-score: 0.32
+score: 0.28
 title: Asyut
 type: location
 ---

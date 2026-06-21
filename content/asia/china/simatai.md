@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_Simata
 latitude: 40.6703
 loc_type: feature
 longitude: 117.2411
-score: 0.57
+score: 0.5
 title: Simatai
 type: location
 ---

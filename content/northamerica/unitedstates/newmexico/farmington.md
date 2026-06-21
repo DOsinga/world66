@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/52257493@N00/45834811212
 latitude: 36.7281
 loc_type: city
 longitude: -108.2187
-score: 0.35
+score: 0.3
 title: Farmington
 type: location
 ---

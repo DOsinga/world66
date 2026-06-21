@@ -5,7 +5,7 @@ done:
 latitude: 27.464637
 loc_type: city
 longitude: 89.318341
-score: 0.71
+score: 0.62
 title: Paro
 type: location
 image: paro.jpg

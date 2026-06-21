@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_pont_de_mouli.jpg
 latitude: -20.549001
 loc_type: city
 longitude: 166.567395
-score: 0.64
+score: 0.61
 title: Ouvea
 type: location
 ---

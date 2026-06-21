@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vestmanna,_Faroe_Islands_(
 latitude: 62.1552
 loc_type: city
 longitude: -7.175
-score: 0.57
+score: 0.46
 sources:
 - https://en.wikipedia.org/wiki/Vestmanna
 title: Vestmanna

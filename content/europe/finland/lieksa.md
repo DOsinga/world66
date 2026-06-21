@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/39049383@N00/4907561201
 latitude: 63.3178
 loc_type: city
 longitude: 30.0191
-score: 0.44
+score: 0.37
 title: Lieksa
 type: location
 ---

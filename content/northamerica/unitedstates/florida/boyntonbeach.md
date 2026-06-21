@@ -5,7 +5,7 @@ done:
 latitude: 26.5289
 loc_type: city
 longitude: -80.0581
-score: 0.37
+score: 0.31
 title: Boynton Beach
 type: location
 ---

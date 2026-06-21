@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Aracataca
 latitude: 10.5906
 loc_type: city
 longitude: -74.1877
-score: 0.4
+score: 0.36
 title: Aracataca
 type: location
 ---

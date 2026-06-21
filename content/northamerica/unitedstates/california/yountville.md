@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Veterans_Home_of_Californi
 latitude: 38.402201
 loc_type: city
 longitude: -122.359506
-score: 0.57
+score: 0.51
 title: Yountville
 type: location
 ---

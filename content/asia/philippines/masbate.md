@@ -5,7 +5,7 @@ done:
 latitude: 12.3739
 loc_type: city
 longitude: 123.6247
-score: 0.42
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Masbate_City
 - https://en.wikipedia.org/wiki/Masbate_(province)

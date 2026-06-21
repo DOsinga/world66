@@ -5,7 +5,7 @@ done:
 latitude: 46.808327
 loc_type: city
 longitude: -100.783739
-score: 0.36
+score: 0.31
 title: Bismarck
 type: location
 ---

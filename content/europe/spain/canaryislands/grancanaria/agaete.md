@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_de_las_Nieves2.jpg
 latitude: 28.10085
 loc_type: city
 longitude: -15.702348
-score: 0.58
+score: 0.49
 title: Agaete
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Tongren_(Guizhou)
 title: Mount Fanjing
 type: location
+score: 0.52
 ---
 
 Mount Fanjing, known in Chinese as Fanjingshan, is the highest point in Guizhou at 2,570 metres and has been a sacred Buddhist mountain since the Ming Dynasty. The UNESCO World Heritage designation, awarded in 2018, recognised both the exceptional biodiversity of its [cloud forests](/asia/china/guizhou/mount_fanjing/cloud_forest) — the mountain is one of the last habitats of the Guizhou snub-nosed monkey, a species found nowhere else — and the cultural significance of the [temples at its summit](/asia/china/guizhou/mount_fanjing/jinding_summit_temples). The combination of conservation biology and mountain Buddhism makes Fanjing unusual even among China's many holy mountains.

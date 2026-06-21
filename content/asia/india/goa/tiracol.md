@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Terekhol_Church.JPG
 latitude: 15.724101
 loc_type: city
 longitude: 73.688732
-score: 0.53
+score: 0.43
 title: Tiracol
 type: location
 ---

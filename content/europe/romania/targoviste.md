@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biserica_Domneasc%C4%83_Ad
 latitude: 44.926771
 loc_type: city
 longitude: 25.462816
-score: 0.42
+score: 0.38
 title: Târgoviște
 type: location
 ---

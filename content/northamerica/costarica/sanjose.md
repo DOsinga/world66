@@ -7,7 +7,7 @@ done:
 latitude: 9.9281
 loc_type: city
 longitude: -84.0907
-score: 0.49
+score: 0.43
 title: San José
 type: location
 ---

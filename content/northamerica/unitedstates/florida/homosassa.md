@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22931801@N03/13916812136
 latitude: 28.782535
 loc_type: city
 longitude: -82.606527
-score: 0.42
+score: 0.37
 title: Homosassa
 type: location
 ---

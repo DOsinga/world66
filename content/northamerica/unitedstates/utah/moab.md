@@ -5,7 +5,7 @@ done:
 latitude: 38.5738
 loc_type: city
 longitude: -109.5462
-score: 0.7
+score: 0.64
 title: Moab
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 40.5197
 loc_type: city
 longitude: 44.7501
-score: 0.37
+score: 0.29
 title: Hrazdan
 type: location
 ---

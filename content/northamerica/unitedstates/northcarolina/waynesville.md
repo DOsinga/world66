@@ -5,7 +5,7 @@ done:
 latitude: 35.488748
 loc_type: city
 longitude: -82.988872
-score: 0.45
+score: 0.38
 title: Waynesville
 type: location
 image: waynesville.jpg

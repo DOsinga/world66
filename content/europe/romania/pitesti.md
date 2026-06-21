@@ -5,7 +5,7 @@ done:
 latitude: 44.857288
 loc_type: city
 longitude: 24.872116
-score: 0.35
+score: 0.3
 title: Pitești
 type: location
 ---

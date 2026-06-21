@@ -5,7 +5,7 @@ done:
 latitude: 65.074258
 loc_type: city
 longitude: -22.730295
-score: 0.62
+score: 0.52
 title: Stykkisholmur
 type: location
 ---

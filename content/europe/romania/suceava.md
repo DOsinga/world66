@@ -5,7 +5,7 @@ done:
 latitude: 47.647001
 loc_type: city
 longitude: 26.25226
-score: 0.46
+score: 0.41
 title: Suceava
 type: location
 ---

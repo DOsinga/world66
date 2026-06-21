@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus,_Nikolaikirc
 latitude: 51.340632
 loc_type: city
 longitude: 12.374733
-score: 0.61
+score: 0.52
 title: Leipzig
 type: location
 ---

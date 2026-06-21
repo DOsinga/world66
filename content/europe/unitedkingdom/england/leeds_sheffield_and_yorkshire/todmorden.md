@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_Watty_Lane,_Todm
 latitude: 53.713725
 loc_type: city
 longitude: -2.097753
-score: 0.41
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Todmorden
 title: Todmorden

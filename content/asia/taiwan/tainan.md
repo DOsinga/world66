@@ -5,11 +5,11 @@ done:
 latitude: 22.991235
 loc_type: city
 longitude: 120.184982
-score: 0.63
+score: 0.55
 title: Tainan
 type: location
 sources:
-  - https://en.wikipedia.org/wiki/Tainan
+- https://en.wikipedia.org/wiki/Tainan
 image: tainan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Exterior_of_Tainan_Confucius_Temple_in_November_2017.jpg
 image_license: CC BY-SA 4.0

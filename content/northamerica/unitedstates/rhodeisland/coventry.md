@@ -5,7 +5,7 @@ latitude: 41.7001
 longitude: -71.682844
 title: Coventry
 type: location
-score: 0.3
+score: 0.25
 loc_type: city
 ---
 

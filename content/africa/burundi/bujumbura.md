@@ -5,7 +5,7 @@ done:
 latitude: -3.3822
 loc_type: city
 longitude: 29.3644
-score: 0.32
+score: 0.27
 title: Bujumbura
 type: location
 ---

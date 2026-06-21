@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hammerfest_Juni_2005.jpg
 latitude: 70.6634
 loc_type: city
 longitude: 23.6821
-score: 0.52
+score: 0.47
 title: Hammerfest
 type: location
 ---

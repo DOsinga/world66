@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D1%82%D0%B8%D
 latitude: 49.842
 loc_type: city
 longitude: 24.0316
-score: 0.64
+score: 0.56
 title: Lviv
 type: location
 ---

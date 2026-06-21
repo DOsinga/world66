@@ -5,7 +5,7 @@ latitude: 44.428
 longitude: -110.5885
 title: Yellowstone
 type: location
-score: 0.88
+score: 0.77
 image: yellowstone.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Daisy_Geyser_erupting_in_Yellowstone_National_Park_edit.jpg
 image_license: CC BY-SA 3.0

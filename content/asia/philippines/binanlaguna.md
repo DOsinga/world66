@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bi%C3%B1an_Church,_Laguna,
 latitude: 14.341
 loc_type: city
 longitude: 121.084
-score: 0.32
+score: 0.27
 title: Binan, Laguna
 type: location
 ---

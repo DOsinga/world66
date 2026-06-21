@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PuertodelcarmenBeach.JPG
 latitude: 28.9204
 loc_type: city
 longitude: -13.6507
-score: 0.6
+score: 0.53
 title: Puerto del Carmen
 type: location
 ---

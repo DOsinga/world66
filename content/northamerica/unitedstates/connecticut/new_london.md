@@ -5,7 +5,7 @@ done:
 latitude: 41.355619
 loc_type: city
 longitude: -72.09978
-score: 0.39
+score: 0.33
 title: New London
 type: location
 ---

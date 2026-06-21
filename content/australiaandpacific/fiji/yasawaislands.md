@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_on_Naviti_island,_Ya
 latitude: -17.290947
 loc_type: city
 longitude: 177.125786
-score: 0.75
+score: 0.65
 sources:
 - https://en.wikipedia.org/wiki/Yasawa
 - https://en.wikipedia.org/wiki/Yasawa_Islands

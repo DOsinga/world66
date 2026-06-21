@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marinduque_Island.jpg
 latitude: 13.4167
 loc_type: city
 longitude: 121.95
-score: 0.53
+score: 0.41
 title: Marinduque
 type: location
 ---

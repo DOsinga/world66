@@ -6,7 +6,7 @@ latitude: 37.172314
 longitude: -109.866209
 title: Mexican Hat
 type: location
-score: 0.45
+score: 0.4
 loc_type: city
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Emerald_Bay,_Lake_Tahoe,_C
 latitude: 39.088541
 loc_type: city
 longitude: -120.050353
-score: 0.69
+score: 0.59
 title: Lake Tahoe
 type: location
 ---

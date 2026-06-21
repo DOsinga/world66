@@ -11,7 +11,7 @@ image_attribution: Frank Schulenburg
 latitude: 39.2626
 loc_type: city
 longitude: -121.0187
-score: 0.5
+score: 0.42
 title: Nevada City
 type: location
 ---

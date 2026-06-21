@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Doone_Valley%22_and_Clo
 latitude: 51.2185
 loc_type: city
 longitude: -3.7685
-score: 0.48
+score: 0.42
 title: Brendon and Oare
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laguna_Mission_and_Village
 latitude: 35.0404
 loc_type: city
 longitude: -107.4266
-score: 0.38
+score: 0.29
 title: Laguna
 type: location
 ---

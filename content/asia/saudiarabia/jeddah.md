@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Rahmah_Mosque_7.jpg
 latitude: 21.550443
 loc_type: city
 longitude: 39.174236
-score: 0.47
+score: 0.44
 title: Jeddah
 type: location
 ---

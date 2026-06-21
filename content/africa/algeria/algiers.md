@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Algiers_in_the_morning.jpg
 latitude: 36.7538
 loc_type: city
 longitude: 3.0588
-score: 0.45
+score: 0.39
 title: Algiers
 type: location
 ---

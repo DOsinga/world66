@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monumento_a_los_Fueros_(Pa
 latitude: 42.8182
 loc_type: city
 longitude: -1.644
-score: 0.71
+score: 0.54
 title: Pamplona
 type: location
 ---

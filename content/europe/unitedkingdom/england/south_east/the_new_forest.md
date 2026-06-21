@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 50.86
 longitude: -1.57
-score: 0.58
+score: 0.5
 title: The New Forest
 type: location
 loc_type: feature

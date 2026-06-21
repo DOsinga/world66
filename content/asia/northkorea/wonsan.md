@@ -5,7 +5,7 @@ done:
 latitude: 39.1527
 loc_type: city
 longitude: 127.4435
-score: 0.19
+score: 0.09
 title: Wonsan
 type: location
 ---

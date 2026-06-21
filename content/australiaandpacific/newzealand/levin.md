@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Levin,_New_Zealand
 title: Levin
 type: location
+score: 0.3
 ---
 
 Levin is the largest town in the Horowhenua District, about 95 kilometres north of [Wellington](/australiaandpacific/newzealand/greater_wellington/wellington) on the State Highway 1 / North Island Main Trunk corridor. The Tararua Range rises sharply to the east; the Tasman Sea is a short drive to the west; in between, a fertile alluvial plain produces most of the vegetables that feed the lower North Island. The Māori name, Taitoko, refers to a tributary of the Hokio Stream.

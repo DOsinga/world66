@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AmboiseRue.JPG
 latitude: 47.411
 loc_type: city
 longitude: 0.9837
-score: 0.69
+score: 0.59
 title: Amboise
 type: location
 ---

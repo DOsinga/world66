@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grayslake,_IL,_4_days_afte
 latitude: 42.3434
 loc_type: city
 longitude: -88.0412
-score: 0.3
+score: 0.23
 title: Grayslake
 type: location
 ---

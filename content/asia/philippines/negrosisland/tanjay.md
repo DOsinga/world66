@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tanjay_City_Church,_Negros
 latitude: 9.516451
 loc_type: city
 longitude: 123.156635
-score: 0.38
+score: 0.29
 title: Tanjay
 type: location
 ---

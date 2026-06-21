@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Goddelau_Geburtshaus_B%C3%
 latitude: 49.8425
 loc_type: city
 longitude: 8.4829
-score: 0.31
+score: 0.22
 title: Riedstadt
 type: location
 ---

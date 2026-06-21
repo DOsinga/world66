@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyaing_Tong_Market_Aerial_
 latitude: 21.291804
 loc_type: city
 longitude: 99.602865
-score: 0.44
+score: 0.37
 title: Kengtung
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 37.862
 loc_type: city
 longitude: -25.7969
-score: 0.72
+score: 0.59
 title: Sete Cidades
 type: location
 image: sete_cidades.jpg

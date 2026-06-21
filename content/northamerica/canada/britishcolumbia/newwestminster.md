@@ -5,7 +5,7 @@ done:
 latitude: 49.2068
 loc_type: city
 longitude: -122.9109
-score: 0.44
+score: 0.36
 title: New Westminster
 type: location
 ---

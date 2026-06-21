@@ -6,7 +6,7 @@ latitude: 44.0342
 longitude: 8.0957
 title: Garlenda
 type: location
-score: 0.44
+score: 0.39
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarpi_Village.jpg
 latitude: 41.521898
 loc_type: city
 longitude: 41.548918
-score: 0.45
+score: 0.37
 title: Sarpi
 type: location
 ---

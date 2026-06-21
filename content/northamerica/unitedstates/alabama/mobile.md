@@ -5,7 +5,7 @@ done:
 latitude: 30.6913
 loc_type: city
 longitude: -88.0438
-score: 0.4
+score: 0.36
 title: Mobile
 type: location
 ---

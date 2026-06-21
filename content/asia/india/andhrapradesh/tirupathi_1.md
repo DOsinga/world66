@@ -5,7 +5,7 @@ done:
 latitude: 13.6288
 loc_type: city
 longitude: 79.4192
-score: 0.51
+score: 0.43
 title: Tirupati
 type: location
 image: tirupathi_1.jpg

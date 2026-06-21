@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kpalime_mountain_range.jpg
 latitude: 6.9107
 loc_type: city
 longitude: 0.6324
-score: 0.38
+score: 0.32
 title: Kpalimé
 type: location
 ---

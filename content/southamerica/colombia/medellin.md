@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Christmas2004inMedell%C3%A
 latitude: 6.269732
 loc_type: city
 longitude: -75.60256
-score: 0.65
+score: 0.56
 title: Medellin
 type: location
 ---

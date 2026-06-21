@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wasserbillig_Luxembourg.JP
 latitude: 49.714341
 loc_type: city
 longitude: 6.50135
-score: 0.4
+score: 0.34
 title: Wasserbillig
 type: location
 ---

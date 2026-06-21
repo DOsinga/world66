@@ -3,7 +3,8 @@ title: Buea
 type: location
 loc_type: city
 latitude: 4.1527
-longitude: 9.2420
+longitude: 9.242
+score: 0.31
 ---
 
 Buea is a small city on the slopes of Mount Cameroon, the highest peak in West Africa at 4,040 metres, in Cameroon's South West Region. It sits at around 1,000 metres above sea level, which gives it a notably cooler climate than the hot, humid coast 70 kilometres to the southwest at Limbe. Buea was the capital of German Kamerun before the First World War and retains a few colonial-era buildings.

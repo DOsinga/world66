@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Night_at_Kupang_city.jpg
 latitude: -9.75
 loc_type: city
 longitude: 124.0
-score: 0.39
+score: 0.33
 title: Timor
 type: location
 ---

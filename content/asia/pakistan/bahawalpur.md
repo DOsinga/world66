@@ -7,7 +7,7 @@ done:
 latitude: 29.403
 loc_type: city
 longitude: 71.6753
-score: 0.31
+score: 0.26
 title: Bahawalpur
 type: location
 image: bahawalpur.jpg

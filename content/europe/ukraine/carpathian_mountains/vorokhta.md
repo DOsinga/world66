@@ -6,7 +6,7 @@ done:
 latitude: 48.293
 loc_type: city
 longitude: 24.5636
-score: 0.44
+score: 0.38
 title: Vorokhta
 type: location
 image: vorokhta.jpg

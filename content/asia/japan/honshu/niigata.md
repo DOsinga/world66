@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akakura_Onsen_Ski_Area.jpg
 latitude: 37.9026
 loc_type: city
 longitude: 139.0232
-score: 0.51
+score: 0.43
 title: Niigata
 type: location
 ---

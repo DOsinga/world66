@@ -5,7 +5,7 @@ done:
 latitude: 36.0803
 loc_type: city
 longitude: 32.8312
-score: 0.48
+score: 0.4
 title: Anamur
 type: location
 ---

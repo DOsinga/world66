@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiamusi
 title: Jiamusi
 type: location
+score: 0.24
 ---
 
 Jiamusi is the largest city in the Sanjiang Plain, the vast flat agricultural heartland where the Songhua, Heilong, and Wusuli rivers converge in eastern Heilongjiang. With a population approaching two million it is the province's third city, but it sits far enough east and north that most travelers pass it by. That is a minor shame: the wetlands around the city are among the least-visited and most ecologically significant in China, and the Sanjiangkou area, where the rivers actually meet, has a raw, open character unlike anything in the more-visited parts of the country.

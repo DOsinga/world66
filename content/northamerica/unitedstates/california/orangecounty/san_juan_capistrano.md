@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2019_Mission_Basilica_San_
 latitude: 33.5012
 loc_type: city
 longitude: -117.6626
-score: 0.51
+score: 0.44
 title: San Juan Capistrano
 type: location
 ---

@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 30.2017
 longitude: 53.1787
-score: 0.51
+score: 0.44
 title: Pasargadae
 type: location
 loc_type: feature

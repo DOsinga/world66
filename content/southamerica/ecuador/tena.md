@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_in_Tena,
 latitude: -0.9943
 loc_type: city
 longitude: -77.8154
-score: 0.49
+score: 0.42
 title: Tena
 type: location
 ---

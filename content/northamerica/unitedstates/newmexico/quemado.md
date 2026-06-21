@@ -5,7 +5,7 @@ done:
 latitude: 34.3146
 loc_type: city
 longitude: -108.484
-score: 0.26
+score: 0.22
 title: Quemado
 type: location
 ---

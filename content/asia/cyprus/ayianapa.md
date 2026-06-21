@@ -7,7 +7,7 @@ done:
 latitude: 34.9893
 loc_type: city
 longitude: 33.9962
-score: 0.62
+score: 0.5
 title: Ayia Napa
 type: location
 image: ayianapa.jpg

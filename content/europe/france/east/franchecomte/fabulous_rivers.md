@@ -5,7 +5,7 @@ latitude: 47.0667
 longitude: 6.35
 title: Rivers of the Doubs
 type: location
-score: 0.52
+score: 0.46
 loc_type: feature
 ---
 

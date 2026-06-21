@@ -5,7 +5,7 @@ done:
 latitude: 40.122331
 loc_type: city
 longitude: 44.742019
-score: 0.58
+score: 0.47
 title: Garni
 type: location
 ---

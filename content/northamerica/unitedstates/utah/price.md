@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Petroglyphs_at_Nine_Mile_C
 latitude: 39.5988
 loc_type: city
 longitude: -110.8107
-score: 0.31
+score: 0.29
 title: Price
 type: location
 ---

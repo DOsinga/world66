@@ -5,7 +5,7 @@ done:
 latitude: 18.4604
 loc_type: city
 longitude: -69.3051
-score: 0.41
+score: 0.35
 title: San Pedro de Macorís
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 1.0978
 loc_type: city
 longitude: 36.6985
-score: 0.4
+score: 0.3
 title: Maralal
 type: location
 ---

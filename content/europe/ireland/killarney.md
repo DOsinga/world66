@@ -5,7 +5,7 @@ done:
 latitude: 52.059575
 loc_type: city
 longitude: -9.505322
-score: 0.68
+score: 0.61
 title: Killarney
 type: location
 image: killarney.jpg

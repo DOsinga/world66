@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Combe_Martin_Panorama.jpeg
 latitude: 51.2032
 loc_type: city
 longitude: -4.006
-score: 0.48
+score: 0.41
 title: Combe Martin
 type: location
 ---

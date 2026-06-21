@@ -5,7 +5,7 @@ done:
 latitude: 41.9584
 loc_type: city
 longitude: -70.6673
-score: 0.53
+score: 0.45
 title: Plymouth
 type: location
 ---

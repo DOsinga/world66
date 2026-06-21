@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nu_wel,_30_graadjes_en_lek
 latitude: -23.865
 loc_type: city
 longitude: 35.3834
-score: 0.45
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Inhambane
 - https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Cathedral,_Inhambane

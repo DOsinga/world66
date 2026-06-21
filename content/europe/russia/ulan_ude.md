@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Ulan-Ude._View
 latitude: 51.835784
 loc_type: city
 longitude: 107.583911
-score: 0.41
+score: 0.35
 title: Ulan Ude
 type: location
 ---

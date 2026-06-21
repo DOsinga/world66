@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Nanyang
 title: Nanyang
 type: location
+score: 0.27
 ---
 
 Nanyang occupies a broad basin in southwestern Henan, hemmed in by mountains on three sides and drained by tributaries of the Han River. It's one of Henan's largest cities by area and one of its most historically layered — humans have been here for perhaps half a million years, the Qin dynasty established it as one of China's eight major cities in the third century BCE, and the Qing dynasty still knew it as a vital trade corridor between north and south, its merchants moving goods by both road and river. Most visitors today come for the Zhuge Liang connection or the jade, but the city rewards anyone willing to move beyond those headliners.

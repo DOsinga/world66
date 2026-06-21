@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ljubljana_Old_Town,_Sloven
 latitude: 46.050027
 loc_type: city
 longitude: 14.506929
-score: 0.69
+score: 0.62
 title: Ljubljana
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anadarko,_The_Woodlands,_T
 latitude: 30.173419
 loc_type: city
 longitude: -95.504686
-score: 0.36
+score: 0.28
 title: The Woodlands
 type: location
 ---

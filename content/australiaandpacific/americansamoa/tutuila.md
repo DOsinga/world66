@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Afono_Village_NPS.jpg
 latitude: -14.306479
 loc_type: city
 longitude: -170.759739
-score: 0.53
+score: 0.47
 title: Tutuila
 type: location
 ---

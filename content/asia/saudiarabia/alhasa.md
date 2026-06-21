@@ -5,7 +5,7 @@ latitude: 25.3833
 longitude: 49.5833
 title: Al-Ahsa
 type: location
-score: 0.31
+score: 0.29
 loc_type: city
 ---
 

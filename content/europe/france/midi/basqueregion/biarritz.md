@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biarritz%E2%80%94View_from
 latitude: 43.4832
 loc_type: city
 longitude: -1.5586
-score: 0.68
+score: 0.58
 title: Biarritz
 type: location
 ---

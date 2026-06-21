@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Wood_Ypres_1917.jp
 latitude: 50.852195
 loc_type: city
 longitude: 2.884605
-score: 0.58
+score: 0.53
 title: Ypres
 type: location
 ---

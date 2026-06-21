@@ -5,7 +5,7 @@ latitude: -20.48549
 longitude: 22.758571
 title: Lake Ngami
 type: location
-score: 0.42
+score: 0.34
 loc_type: feature
 ---
 

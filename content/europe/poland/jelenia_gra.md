@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chojnik_Castle.png
 latitude: 50.9002
 loc_type: city
 longitude: 15.7349
-score: 0.5
+score: 0.41
 title: Jelenia Góra
 type: location
 ---

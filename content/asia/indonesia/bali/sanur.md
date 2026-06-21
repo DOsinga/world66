@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morning_in_Sanur_Beach,_Ba
 latitude: -8.683173
 loc_type: city
 longitude: 115.256463
-score: 0.67
+score: 0.59
 title: Sanur
 type: location
 ---

@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 latitude: 6.3677
 loc_type: city
 longitude: 2.4253
-score: 0.36
+score: 0.3
 title: Cotonou
 type: location
 ---

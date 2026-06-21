@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra
 latitude: 38.835545
 loc_type: city
 longitude: -9.352237
-score: 0.77
+score: 0.7
 title: Sintra
 type: location
 ---

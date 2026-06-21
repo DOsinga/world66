@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glendalough,_Co._Wicklow_-
 latitude: 53.010554
 loc_type: city
 longitude: -6.32737
-score: 0.65
+score: 0.57
 title: Glendalough
 type: location
 ---

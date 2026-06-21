@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Face_of_Mansion,_Moun
 latitude: 38.8462
 loc_type: city
 longitude: -77.3064
-score: 0.42
+score: 0.31
 title: Northern Virginia
 type: location
 ---

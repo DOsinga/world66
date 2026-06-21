@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Ciudad_Rodrigo
 latitude: 40.597392
 loc_type: city
 longitude: -6.533518
-score: 0.5
+score: 0.45
 title: Ciudad Rodrigo
 type: location
 ---

@@ -5,6 +5,7 @@ loc_type: island
 latitude: -8.3485
 longitude: 116.0425
 country: Indonesia
+score: 0.58
 ---
 
 Gili Trawangan is the largest of the three Gili Islands and the one that most travellers arrive on first. The east-facing main beach is lined with restaurants, dive shops, and bars. The party scene is real — the reggae bars stay loud well past midnight, and the Friday night market draws people from all three islands — but the northwest shore of the island, five minutes' walk from the main strip, is entirely deserted: white sand, a reef you can snorkel from the beach, and nobody else around.

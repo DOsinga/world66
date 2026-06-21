@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_do_Lobito_-_Angola_2
 latitude: -12.350687
 loc_type: city
 longitude: 13.546432
-score: 0.29
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Lobito
 - https://en.wikipedia.org/wiki/Port_of_Lobito

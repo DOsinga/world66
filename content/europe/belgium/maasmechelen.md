@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 50.963418
 longitude: 5.696021
-score: 0.4
+score: 0.32
 title: Maasmechelen
 type: location
 loc_type: city

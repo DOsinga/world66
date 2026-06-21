@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Swans_on_the_Thames_in_Win
 latitude: 51.483789
 loc_type: city
 longitude: -0.604042
-score: 0.63
+score: 0.53
 title: Windsor
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morgins_Vue_Station.JPG
 latitude: 46.237659
 loc_type: city
 longitude: 6.858102
-score: 0.54
+score: 0.46
 title: Morgins
 type: location
 ---

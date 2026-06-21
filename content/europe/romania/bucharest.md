@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bucharest_University_Squar
 latitude: 44.4361
 loc_type: city
 longitude: 26.1027
-score: 0.56
+score: 0.48
 title: Bucharest
 type: location
 ---

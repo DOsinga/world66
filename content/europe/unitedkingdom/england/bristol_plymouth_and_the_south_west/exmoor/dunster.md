@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunster.jpg
 latitude: 51.1844
 loc_type: city
 longitude: -3.4443
-score: 0.51
+score: 0.43
 title: Dunster
 type: location
 ---

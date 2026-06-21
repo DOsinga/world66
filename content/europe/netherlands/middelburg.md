@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/152930510@N02/49520209202
 latitude: 51.499678
 loc_type: city
 longitude: 3.613737
-score: 0.53
+score: 0.43
 title: Middelburg
 type: location
 ---

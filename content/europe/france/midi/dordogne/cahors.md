@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cahors_pont_Valentre_vgen.
 latitude: 44.4495
 loc_type: city
 longitude: 1.4365
-score: 0.58
+score: 0.48
 title: Cahors
 type: location
 ---

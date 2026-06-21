@@ -5,7 +5,7 @@ done:
 latitude: 52.261
 loc_type: city
 longitude: -7.111908
-score: 0.52
+score: 0.47
 title: Waterford
 type: location
 ---

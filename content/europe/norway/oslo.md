@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nationaltheatret_evening.j
 latitude: 59.91333
 loc_type: city
 longitude: 10.73897
-score: 0.63
+score: 0.58
 title: Oslo
 type: location
 ---

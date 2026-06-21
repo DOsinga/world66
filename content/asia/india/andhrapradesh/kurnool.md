@@ -6,7 +6,7 @@ done:
 latitude: 15.830925
 loc_type: city
 longitude: 78.042537
-score: 0.37
+score: 0.27
 title: Kurnool
 type: location
 ---

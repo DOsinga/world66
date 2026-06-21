@@ -5,7 +5,7 @@ latitude: 36.143704
 longitude: -121.564593
 title: Big Sur
 type: location
-score: 0.74
+score: 0.65
 loc_type: feature
 ---
 

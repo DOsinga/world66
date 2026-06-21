@@ -16,7 +16,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San
 latitude: 37.7749
 loc_type: city
 longitude: -122.4194
-score: 0.78
+score: 0.75
 title: San Francisco
 type: location
 ---

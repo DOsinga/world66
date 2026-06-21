@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagha_Mosque,_Rajshahi,_Ba
 latitude: 24.371666
 loc_type: city
 longitude: 88.60092
-score: 0.35
+score: 0.29
 title: Rajshahi
 type: location
 ---

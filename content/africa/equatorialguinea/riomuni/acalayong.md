@@ -5,7 +5,7 @@ done:
 latitude: 1.092698
 loc_type: city
 longitude: 9.665485
-score: 0.18
+score: 0.16
 title: Acalayong
 type: location
 ---

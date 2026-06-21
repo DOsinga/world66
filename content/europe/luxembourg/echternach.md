@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:EchternachFromAboveLooking
 latitude: 49.812096
 loc_type: city
 longitude: 6.421486
-score: 0.55
+score: 0.46
 title: Echternach
 type: location
 ---

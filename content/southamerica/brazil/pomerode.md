@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Comercial_Weege_de_19
 latitude: -26.7356
 loc_type: city
 longitude: -49.177
-score: 0.44
+score: 0.4
 title: Pomerode
 type: location
 ---

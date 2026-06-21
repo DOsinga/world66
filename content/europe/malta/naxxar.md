@@ -5,7 +5,7 @@ done:
 latitude: 35.9133
 loc_type: city
 longitude: 14.4433
-score: 0.44
+score: 0.4
 title: Naxxar
 type: location
 image: naxxar.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arusha_City_view.jpg
 latitude: -3.3697
 loc_type: city
 longitude: 36.6881
-score: 0.59
+score: 0.52
 title: Arusha
 type: location
 ---

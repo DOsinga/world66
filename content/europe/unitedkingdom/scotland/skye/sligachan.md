@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sligachan_Bridge_Isle_Of_S
 latitude: 57.290059
 loc_type: city
 longitude: -6.174426
-score: 0.56
+score: 0.52
 title: Sligachan
 type: location
 ---

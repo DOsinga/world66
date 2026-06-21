@@ -5,7 +5,7 @@ done:
 latitude: 16.9902
 loc_type: city
 longitude: 73.312
-score: 0.42
+score: 0.38
 title: Ratnagiri
 type: location
 ---

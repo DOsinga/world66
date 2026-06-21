@@ -5,7 +5,7 @@ latitude: 47.015476
 longitude: 8.799598
 title: Hoch Ybrig
 type: location
-score: 0.57
+score: 0.48
 loc_type: city
 ---
 

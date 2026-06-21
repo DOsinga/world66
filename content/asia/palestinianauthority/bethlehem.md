@@ -5,7 +5,7 @@ done:
 latitude: 31.7054
 loc_type: city
 longitude: 35.2024
-score: 0.41
+score: 0.45
 title: Bethlehem
 type: location
 ---

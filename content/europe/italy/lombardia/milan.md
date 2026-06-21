@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Full_Milan_skyline_from_Du
 latitude: 45.464194
 loc_type: city
 longitude: 9.189635
-score: 0.75
+score: 0.6
 title: Milan
 type: location
 ---

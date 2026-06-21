@@ -10,6 +10,7 @@ loc_type: city
 longitude: -91.9871
 title: Palenque
 type: location
+score: 0.61
 ---
 
 Palenque sits in the foothills of the Sierra Madre de Chiapas, where the highlands drop towards the Gulf Coast lowlands and the jungle gets thick and wet. Most travellers come for the ruins — the ancient Maya city of Palenque, set into a forested hillside at the edge of the modern town, is one of the finest archaeological sites in the Americas.

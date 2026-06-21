@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lonsdale_Quay,_Vancouver_2
 latitude: 49.320629
 loc_type: city
 longitude: -123.073792
-score: 0.55
+score: 0.46
 title: North Vancouver
 type: location
 ---

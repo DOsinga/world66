@@ -5,7 +5,7 @@ done:
 latitude: 47.218637
 loc_type: city
 longitude: -1.554136
-score: 0.56
+score: 0.55
 title: Nantes
 type: location
 ---

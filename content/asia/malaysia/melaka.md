@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 2.329374
 longitude: 102.288096
-score: 0.65
+score: 0.57
 title: Melaka
 type: location
 loc_type: city

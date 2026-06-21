@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_forks_bc_(cropped).j
 latitude: 49.031227
 loc_type: city
 longitude: -118.439204
-score: 0.33
+score: 0.3
 title: Grand Forks
 type: location
 ---

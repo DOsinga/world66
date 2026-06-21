@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Pantiles,_Tunbridge_We
 latitude: 51.137148
 loc_type: city
 longitude: 0.267345
-score: 0.47
+score: 0.4
 title: Tunbridge Wells
 type: location
 ---

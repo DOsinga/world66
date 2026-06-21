@@ -5,7 +5,7 @@ done:
 latitude: 24.7991
 loc_type: city
 longitude: 93.9364
-score: 0.41
+score: 0.33
 title: Imphal
 type: location
 ---

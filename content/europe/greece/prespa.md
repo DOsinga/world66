@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/17279863@N05/34668357806
 latitude: 40.7511
 loc_type: city
 longitude: 21.0999
-score: 0.52
+score: 0.46
 title: Prespa
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guwahati-city-01.jpg
 latitude: 26.180598
 loc_type: city
 longitude: 91.753943
-score: 0.43
+score: 0.37
 title: Guwahati
 type: location
 ---

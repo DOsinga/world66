@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Smith,_AR_002.jpg
 latitude: 35.3859
 loc_type: city
 longitude: -94.3985
-score: 0.35
+score: 0.32
 title: Fort Smith
 type: location
 ---

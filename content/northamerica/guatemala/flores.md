@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)
 latitude: 16.9335
 loc_type: city
 longitude: -89.8916
-score: 0.59
+score: 0.5
 title: Flores
 type: location
 ---

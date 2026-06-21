@@ -5,7 +5,7 @@ done:
 latitude: 41.930202
 loc_type: city
 longitude: 2.254594
-score: 0.5
+score: 0.44
 title: Vic
 type: location
 ---

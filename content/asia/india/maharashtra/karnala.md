@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karnala_Fort_06.JPG
 latitude: 18.881349
 loc_type: city
 longitude: 73.118167
-score: 0.41
+score: 0.33
 title: Karnala
 type: location
 ---

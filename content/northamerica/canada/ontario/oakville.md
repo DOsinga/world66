@@ -5,7 +5,7 @@ done:
 latitude: 43.447436
 loc_type: city
 longitude: -79.666672
-score: 0.39
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Oakville,_Ontario
 title: Oakville

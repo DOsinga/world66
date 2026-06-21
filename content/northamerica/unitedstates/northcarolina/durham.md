@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Durham,_United_States_(Uns
 latitude: 35.996653
 loc_type: city
 longitude: -78.901805
-score: 0.45
+score: 0.37
 title: Durham
 type: location
 ---

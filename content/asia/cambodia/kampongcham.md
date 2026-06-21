@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bambusbr%C3%BCcke_in_Kampo
 latitude: 11.9904
 loc_type: city
 longitude: 105.4635
-score: 0.46
+score: 0.4
 title: Kampong Cham
 type: location
 ---

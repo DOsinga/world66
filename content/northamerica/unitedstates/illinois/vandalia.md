@@ -5,7 +5,7 @@ done:
 latitude: 38.9606
 loc_type: city
 longitude: -89.0937
-score: 0.29
+score: 0.24
 title: Vandalia
 type: location
 ---

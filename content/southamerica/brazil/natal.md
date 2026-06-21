@@ -6,7 +6,7 @@ image: natal_dunes_state_park.jpg
 latitude: -5.805398
 loc_type: city
 longitude: -35.20809
-score: 0.53
+score: 0.44
 title: Natal
 type: location
 ---

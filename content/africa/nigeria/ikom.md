@@ -6,7 +6,7 @@ done:
 latitude: 5.962765
 loc_type: city
 longitude: 8.723969
-score: 0.25
+score: 0.22
 title: Ikom
 type: location
 ---

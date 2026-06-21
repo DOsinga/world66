@@ -15,6 +15,7 @@ image: okayama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:250505_Korakuen_Okayama_Japan06s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+score: 0.54
 ---
 
 Okayama is the calm, practical hinge between western Honshu and Shikoku. Most travellers first meet it as a Shinkansen stop or the place where trains peel south across the Seto Ohashi Bridge, but the city is worth more than a platform change.

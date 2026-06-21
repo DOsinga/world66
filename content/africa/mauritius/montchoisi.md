@@ -5,7 +5,7 @@ done:
 latitude: -20.027
 loc_type: city
 longitude: 57.582
-score: 0.5
+score: 0.37
 title: Mont Choisi
 type: location
 ---

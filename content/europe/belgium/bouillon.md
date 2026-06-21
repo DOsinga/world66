@@ -5,7 +5,7 @@ done:
 latitude: 49.795
 loc_type: city
 longitude: 5.0673
-score: 0.52
+score: 0.48
 title: Bouillon
 type: location
 image: bouillon.jpg

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16436271@N02/38826908214
 latitude: 45.15254
 loc_type: city
 longitude: -78.514813
-score: 0.45
+score: 0.4
 title: Haliburton
 type: location
 ---

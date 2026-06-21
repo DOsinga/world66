@@ -5,7 +5,7 @@ done:
 latitude: 49.0816
 loc_type: city
 longitude: 19.3034
-score: 0.44
+score: 0.33
 title: Ružomberok
 type: location
 image: ruomberok.jpg

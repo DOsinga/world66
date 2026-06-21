@@ -5,7 +5,7 @@ done:
 latitude: 45.634859
 loc_type: city
 longitude: 11.406354
-score: 0.65
+score: 0.55
 title: Vicenza
 type: location
 image: vicenza.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 32.9577
 loc_type: city
 longitude: -105.7427
-score: 0.48
+score: 0.38
 title: Cloudcroft
 type: location
 ---

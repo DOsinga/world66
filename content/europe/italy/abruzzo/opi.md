@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Opi-in_borgo_di_Opi_visto_
 latitude: 41.780873
 loc_type: city
 longitude: 13.829524
-score: 0.44
+score: 0.4
 title: Opi
 type: location
 ---

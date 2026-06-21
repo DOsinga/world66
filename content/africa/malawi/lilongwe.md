@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_-_Flickr.
 latitude: -13.9626
 loc_type: city
 longitude: 33.7741
-score: 0.37
+score: 0.31
 title: Lilongwe
 type: location
 ---

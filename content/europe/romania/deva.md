@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deva,_tr%C5%BEnice.jpg
 latitude: 45.8817
 loc_type: city
 longitude: 22.9009
-score: 0.45
+score: 0.37
 title: Deva
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_Street_Downtown_Beaufo
 latitude: 32.4316
 loc_type: city
 longitude: -80.6698
-score: 0.52
+score: 0.44
 title: Beaufort
 type: location
 ---

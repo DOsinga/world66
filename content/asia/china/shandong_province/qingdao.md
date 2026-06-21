@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20151212_Badaguan_01.jpg
 latitude: 36.066325
 loc_type: city
 longitude: 120.377766
-score: 0.63
+score: 0.49
 title: Qingdao
 type: location
 ---

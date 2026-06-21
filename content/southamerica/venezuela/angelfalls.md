@@ -5,7 +5,7 @@ latitude: 5.968829
 longitude: -62.53615
 title: Angel Falls
 type: location
-score: 0.74
+score: 0.62
 loc_type: feature
 ---
 

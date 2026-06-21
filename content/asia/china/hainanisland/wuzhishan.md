@@ -11,6 +11,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Wuzhishan
 title: Wuzhishan
 type: location
+score: 0.36
 ---
 
 Wuzhishan sits in the heart of Hainan's central highlands, in the shadow of the five-fingered peak the island takes its name from. [Wuzhi Mountain](/asia/china/hainanisland/wuzhishan/wuzhi_mountain) — 1,868 metres, steep, heavily forested — is one of the genuinely demanding hikes available on Hainan, a two-and-a-half to three-hour climb through the Wuzhi Mountain National Nature Reserve that feels very far removed from the beach resorts an hour away by road. On clear days the summit looks out over the whole island.

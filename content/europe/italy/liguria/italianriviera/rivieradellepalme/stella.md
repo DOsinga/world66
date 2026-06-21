@@ -5,7 +5,7 @@ done:
 latitude: 44.404721
 loc_type: city
 longitude: 8.501565
-score: 0.44
+score: 0.36
 title: Stella
 type: location
 ---

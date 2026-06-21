@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_del
 latitude: 38.6278
 loc_type: city
 longitude: 16.5386
-score: 0.43
+score: 0.37
 title: Sant'Andrea Apostolo dello Jonio
 type: location
 ---

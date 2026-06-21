@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mutare_Area,_Zimbabwe.jpg
 latitude: -18.974656
 loc_type: city
 longitude: 32.670473
-score: 0.36
+score: 0.37
 title: Mutare
 type: location
 ---

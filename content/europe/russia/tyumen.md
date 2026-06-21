@@ -5,7 +5,7 @@ done:
 latitude: 57.153534
 loc_type: city
 longitude: 65.542274
-score: 0.24
+score: 0.26
 title: Tyumen
 type: location
 ---

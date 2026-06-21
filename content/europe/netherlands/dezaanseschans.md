@@ -9,7 +9,7 @@ latitude: 52.473183
 longitude: 4.816596
 title: De Zaanse Schans
 type: location
-score: 0.63
+score: 0.58
 loc_type: feature
 ---
 

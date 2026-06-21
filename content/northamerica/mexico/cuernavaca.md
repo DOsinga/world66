@@ -4,7 +4,7 @@ done:
 latitude: 18.933132
 loc_type: city
 longitude: -99.259958
-score: 0.52
+score: 0.46
 title: Cuernavaca
 type: location
 image: cuernavaca.jpg

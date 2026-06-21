@@ -12,7 +12,7 @@ image_source: https://www.flickr.com/photos/54788366@N00/48962324387
 latitude: 53.965658
 loc_type: city
 longitude: -1.074305
-score: 0.71
+score: 0.59
 title: York
 type: location
 ---

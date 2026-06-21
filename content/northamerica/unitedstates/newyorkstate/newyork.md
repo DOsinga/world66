@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_U
 latitude: 40.712728
 loc_type: city
 longitude: -74.006015
-score: 0.88
+score: 0.81
 title: New York
 type: location
 ---

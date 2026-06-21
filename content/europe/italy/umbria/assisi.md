@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AssisiDec122023_03.jpg
 latitude: 43.071195
 loc_type: city
 longitude: 12.614667
-score: 0.71
+score: 0.63
 title: Assisi
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_oskemen.jpg
 latitude: 49.948444
 loc_type: city
 longitude: 82.627479
-score: 0.34
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Oskemen
 title: Ust-Kamenogorsk

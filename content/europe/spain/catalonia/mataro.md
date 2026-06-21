@@ -6,7 +6,7 @@ latitude: 41.539835
 longitude: 2.444893
 title: Mataró
 type: location
-score: 0.46
+score: 0.37
 loc_type: city
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 33.446675
 loc_type: city
 longitude: -94.077148
-score: 0.33
+score: 0.24
 title: Texarkana
 type: location
 ---

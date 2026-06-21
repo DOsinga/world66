@@ -5,7 +5,7 @@ latitude: 45.9779
 longitude: 7.1209
 title: Val Ferret
 type: location
-score: 0.63
+score: 0.54
 loc_type: feature
 ---
 

@@ -4,7 +4,7 @@ done:
 latitude: 38.48717
 loc_type: city
 longitude: 106.226657
-score: 0.45
+score: 0.38
 title: Yinchuan
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 40.866517
 loc_type: city
 longitude: -124.08284
-score: 0.45
+score: 0.35
 title: Arcata
 type: location
 image: arcata.jpg

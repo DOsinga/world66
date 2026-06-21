@@ -5,7 +5,7 @@ done:
 latitude: 35.629337
 loc_type: city
 longitude: -82.181083
-score: 0.38
+score: 0.32
 title: Old Fort
 type: location
 image: old_fort.jpg

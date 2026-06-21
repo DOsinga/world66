@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k,_Turkey.jpg
 latitude: 39.318096
 loc_type: city
 longitude: 26.691671
-score: 0.57
+score: 0.49
 title: Ayvalik
 type: location
 ---

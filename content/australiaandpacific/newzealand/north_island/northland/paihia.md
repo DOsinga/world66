@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paihia,_Williams_Road.jpg
 latitude: -35.281241
 loc_type: city
 longitude: 174.092088
-score: 0.63
+score: 0.54
 title: Paihia
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 41.136833
 loc_type: city
 longitude: -100.761282
-score: 0.33
+score: 0.27
 title: North Platte
 type: location
 ---

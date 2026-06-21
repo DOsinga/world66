@@ -5,7 +5,7 @@ done:
 latitude: 44.447939
 loc_type: city
 longitude: 8.394149
-score: 0.35
+score: 0.31
 sources:
 - https://en.wikipedia.org/wiki/Giusvalla
 title: Giusvalla

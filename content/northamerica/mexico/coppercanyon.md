@@ -5,7 +5,7 @@ latitude: 27.5347
 longitude: -107.823
 title: Copper Canyon
 type: location
-score: 0.67
+score: 0.56
 loc_type: feature
 ---
 

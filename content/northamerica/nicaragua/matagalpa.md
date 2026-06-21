@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DowntownMatagfromafar.JPG
 latitude: 12.9274
 loc_type: city
 longitude: -85.9185
-score: 0.41
+score: 0.36
 title: Matagalpa
 type: location
 ---

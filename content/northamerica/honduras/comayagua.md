@@ -5,7 +5,7 @@ done:
 latitude: 14.4513
 loc_type: city
 longitude: -87.6395
-score: 0.43
+score: 0.38
 title: Comayagua
 type: location
 ---

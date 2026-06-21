@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Minato_Mirai_In_Blue.jpg
 latitude: 35.4503
 loc_type: city
 longitude: 139.6344
-score: 0.72
+score: 0.61
 title: Yokohama
 type: location
 ---

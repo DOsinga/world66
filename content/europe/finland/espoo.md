@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aalto-yliopisto_Otaniemi_a
 latitude: 60.205
 loc_type: city
 longitude: 24.656
-score: 0.45
+score: 0.39
 title: Espoo
 todo_location_cleanup: done
 type: location

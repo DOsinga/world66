@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Anshun
 title: Anshun
 type: location
+score: 0.38
 ---
 
 Anshun is the city people use as a base for Huangguoshu Falls (see /asia/china/guizhou/huangguoshu), but it merits a night in its own right. It's the main centre of the Buyi ethnic minority, and the old-town market streets retain some of the character that Guiyang's city centre has largely traded away. The Buyi are known for batik — a wax-resist indigo dyeing technique that produces the blue-and-white geometric patterns you'll see on textiles throughout the market. Shitouzhai, a Buyi village of stone houses about 25 kilometres from the city, has been making batik for six centuries and is as authentic as villages in this part of China get.

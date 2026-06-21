@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Some_Annapolis_commercial_
 latitude: 38.97864
 loc_type: city
 longitude: -76.492786
-score: 0.57
+score: 0.48
 title: Annapolis
 type: location
 ---

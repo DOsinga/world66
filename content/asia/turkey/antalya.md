@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaa
 latitude: 36.886573
 loc_type: city
 longitude: 30.703024
-score: 0.7
+score: 0.62
 title: Antalya
 type: location
 ---

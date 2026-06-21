@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calanais_Standing_Stones_2
 latitude: 57.9
 loc_type: city
 longitude: -6.7
-score: 0.59
+score: 0.49
 title: Western Isles (Outer Hebrides)
 type: location
 ---

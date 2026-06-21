@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Pedro_y_Pab
 latitude: 47.597344
 loc_type: city
 longitude: 11.064066
-score: 0.61
+score: 0.51
 title: Oberammergau
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:E_Emma_Ave_(Springdale,_AR
 latitude: 36.186744
 loc_type: city
 longitude: -94.128814
-score: 0.37
+score: 0.3
 title: Springdale
 type: location
 ---

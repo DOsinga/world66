@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crawfordville,_Georgia_dow
 latitude: 33.553994
 loc_type: city
 longitude: -82.89619
-score: 0.26
+score: 0.21
 title: Crawfordville, Georgia
 type: location
 ---

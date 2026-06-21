@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angus_Moon_Farm,_Vanderhoo
 latitude: 54.017529
 loc_type: city
 longitude: -124.007663
-score: 0.33
+score: 0.27
 title: Vanderhoof
 type: location
 ---

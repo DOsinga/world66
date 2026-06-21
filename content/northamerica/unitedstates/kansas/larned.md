@@ -7,7 +7,7 @@ done:
 latitude: 38.1806
 loc_type: city
 longitude: -99.0987
-score: 0.29
+score: 0.23
 title: Larned
 type: location
 ---

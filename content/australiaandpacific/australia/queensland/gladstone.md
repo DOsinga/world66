@@ -5,7 +5,7 @@ done:
 latitude: -23.8432
 loc_type: city
 longitude: 151.2561
-score: 0.39
+score: 0.3
 title: Gladstone
 type: location
 ---

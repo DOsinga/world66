@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:OrbetelloWindmill.jpg
 latitude: 42.438094
 loc_type: city
 longitude: 11.210743
-score: 0.58
+score: 0.5
 title: Orbetello
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 65.588055
 longitude: -16.907936
 title: Dimmuborgir
 type: location
-score: 0.63
+score: 0.55
 loc_type: feature
 ---
 

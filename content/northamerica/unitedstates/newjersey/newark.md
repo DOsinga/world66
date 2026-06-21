@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-09-12_12_24_59_Aerial
 latitude: 40.735657
 loc_type: city
 longitude: -74.172367
-score: 0.29
+score: 0.24
 title: Newark
 type: location
 ---

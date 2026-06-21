@@ -5,7 +5,7 @@ latitude: 51.7687
 longitude: -10.5417
 title: Skelligs
 type: location
-score: 0.7
+score: 0.6
 loc_type: feature
 ---
 

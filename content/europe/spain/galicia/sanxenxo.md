@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_de_silgar_Sanxenxo.j
 latitude: 42.400356
 loc_type: city
 longitude: -8.806595
-score: 0.55
+score: 0.46
 title: Sanxenxo
 type: location
 ---

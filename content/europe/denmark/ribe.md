@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denmark_ribe_church.jpg
 latitude: 55.328404
 loc_type: city
 longitude: 8.764784
-score: 0.56
+score: 0.5
 title: Ribe
 type: location
 ---

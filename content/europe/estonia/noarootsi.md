@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noarootsi_kirik,_2011,_reg
 latitude: 59.037843
 loc_type: city
 longitude: 23.509101
-score: 0.4
+score: 0.32
 title: Noarootsi
 type: location
 ---

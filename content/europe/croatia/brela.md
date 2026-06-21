@@ -10,6 +10,7 @@ loc_type: city
 longitude: 16.9225
 title: Brela
 type: location
+score: 0.56
 ---
 
 Brela is a small village on the northern end of the [Makarska Riviera](/europe/croatia/makarskariviera), squeezed onto the narrow coastal strip between the towering Biokovo mountains and the Adriatic. It is best known for its beaches — six kilometres of white pebble strung between pine trees that grow almost into the water — and for the small offshore rock at [Punta Rata](/europe/croatia/brela/punta_rata) that is the village's defining image.

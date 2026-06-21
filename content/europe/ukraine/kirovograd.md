@@ -6,10 +6,10 @@ latitude: 48.5107
 longitude: 32.2658
 title: Kropyvnytskyi
 type: location
-score: 0.27
+score: 0.22
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Kropyvnytskyi
+- https://en.wikipedia.org/wiki/Kropyvnytskyi
 image: kirovograd.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Inhul_in_Kropyvnytskyi_01.jpg
 image_license: CC BY 4.0

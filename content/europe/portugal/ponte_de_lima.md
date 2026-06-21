@@ -5,7 +5,7 @@ done:
 latitude: 41.767502
 loc_type: city
 longitude: -8.583099
-score: 0.58
+score: 0.52
 title: Ponte de Lima
 type: location
 ---

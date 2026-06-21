@@ -5,7 +5,7 @@ done:
 latitude: 41.7059
 loc_type: city
 longitude: -70.2286
-score: 0.46
+score: 0.39
 title: Yarmouth
 type: location
 ---

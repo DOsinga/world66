@@ -5,7 +5,7 @@ latitude: -5.31567
 longitude: 123.585044
 title: Wakatobi
 type: location
-score: 0.64
+score: 0.49
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22490717@N02/50628233031
 latitude: 46.295
 loc_type: city
 longitude: -60.9361
-score: 0.57
+score: 0.5
 title: Cape Breton
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: -6.423103
 longitude: -77.910721
 title: Kuelap
 type: location
-score: 0.62
+score: 0.55
 loc_type: city
 image: kuelap.jpg
 image_license: CC BY 3.0

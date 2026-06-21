@@ -5,7 +5,7 @@ done:
 latitude: 46.448152
 loc_type: city
 longitude: -87.63059
-score: 0.47
+score: 0.4
 title: Marquette
 type: location
 ---

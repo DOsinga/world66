@@ -5,7 +5,7 @@ done:
 latitude: 56.4847
 loc_type: city
 longitude: 84.9482
-score: 0.39
+score: 0.33
 title: Tomsk
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chickasaw_National_Recreat
 latitude: 34.457
 loc_type: city
 longitude: -97.012
-score: 0.27
+score: 0.21
 title: Chickasaw
 type: location
 ---

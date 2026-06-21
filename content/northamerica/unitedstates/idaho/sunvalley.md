@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldmountainid.jpg
 latitude: 43.696215
 loc_type: city
 longitude: -114.353097
-score: 0.6
+score: 0.49
 title: Sun Valley
 type: location
 ---

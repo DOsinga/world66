@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Simferopol_20
 latitude: 44.9522
 loc_type: city
 longitude: 34.1024
-score: 0.41
+score: 0.33
 title: Simferopol
 type: location
 ---

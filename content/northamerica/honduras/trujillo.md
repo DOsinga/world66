@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BAY_OF_TRUJILLO-_P._JESSON
 latitude: 15.917
 loc_type: city
 longitude: -86.0
-score: 0.41
+score: 0.36
 title: Trujillo
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 14.256858
 loc_type: city
 longitude: 13.115596
-score: 0.21
+score: 0.15
 title: Nguigmi
 type: location
 ---

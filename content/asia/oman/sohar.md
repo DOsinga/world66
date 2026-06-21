@@ -6,7 +6,7 @@ done:
 latitude: 24.341988
 loc_type: city
 longitude: 56.729838
-score: 0.41
+score: 0.35
 title: Sohar
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:8711_Workum,_Netherlands_-
 latitude: 52.977849
 loc_type: city
 longitude: 5.446409
-score: 0.45
+score: 0.4
 title: Workum
 type: location
 ---

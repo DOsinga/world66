@@ -5,7 +5,7 @@ done:
 latitude: 18.4974
 loc_type: city
 longitude: -77.6558
-score: 0.54
+score: 0.46
 title: Falmouth
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 14.8648
 longitude: -24.6942
 title: Vila Nova Sintra
 type: location
-score: 0.46
+score: 0.39
 loc_type: city
 ---
 

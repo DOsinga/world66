@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anna_Maria_island.jpg
 latitude: 27.529362
 loc_type: city
 longitude: -82.732434
-score: 0.56
+score: 0.48
 title: Anna Maria Island
 type: location
 ---

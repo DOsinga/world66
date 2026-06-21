@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belmar_beach_New_Jersey.jp
 latitude: 40.1782
 loc_type: city
 longitude: -74.0218
-score: 0.39
+score: 0.34
 title: Belmar
 type: location
 ---

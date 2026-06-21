@@ -6,7 +6,7 @@ latitude: 17.915
 longitude: -87.9657
 title: San Pedro
 type: location
-score: 0.65
+score: 0.52
 loc_type: city
 ---
 

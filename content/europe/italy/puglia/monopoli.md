@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monopoli-ItalyiDec052021.j
 latitude: 40.9524
 loc_type: city
 longitude: 17.2999
-score: 0.64
+score: 0.53
 title: Monopoli
 type: location
 ---

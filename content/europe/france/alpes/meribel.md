@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MERIBEL.jpg
 latitude: 45.40795
 loc_type: city
 longitude: 6.577333
-score: 0.68
+score: 0.59
 title: Méribel
 type: location
 ---

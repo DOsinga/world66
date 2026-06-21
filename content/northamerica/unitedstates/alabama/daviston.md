@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daviston_Alabama.JPG
 latitude: 33.052899
 loc_type: city
 longitude: -85.639678
-score: 0.23
+score: 0.15
 title: Daviston
 type: location
 ---

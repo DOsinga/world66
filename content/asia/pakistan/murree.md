@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/89854496@N08/8216846118
 latitude: 33.907
 loc_type: city
 longitude: 73.3943
-score: 0.44
+score: 0.38
 title: Murree
 type: location
 ---

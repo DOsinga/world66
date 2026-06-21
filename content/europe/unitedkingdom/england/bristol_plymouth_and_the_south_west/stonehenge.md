@@ -5,7 +5,7 @@ latitude: 51.178829
 longitude: -1.826183
 title: Stonehenge
 type: location
-score: 0.68
+score: 0.61
 loc_type: feature
 ---
 

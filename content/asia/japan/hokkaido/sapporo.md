@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.jpg
 latitude: 43.062
 loc_type: city
 longitude: 141.3544
-score: 0.71
+score: 0.66
 title: Sapporo
 type: location
 ---

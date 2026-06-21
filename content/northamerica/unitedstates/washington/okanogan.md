@@ -5,7 +5,7 @@ done:
 latitude: 48.515851
 loc_type: city
 longitude: -119.652748
-score: 0.34
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Okanogan,_Washington
 title: Okanogan

@@ -5,7 +5,7 @@ done:
 latitude: 25.055
 loc_type: city
 longitude: 51.424
-score: 0.29
+score: 0.24
 title: Waqra
 type: location
 ---

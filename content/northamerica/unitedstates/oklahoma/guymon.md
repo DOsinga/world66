@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GuymonOK_Phillips66_Well_N
 latitude: 36.682804
 loc_type: city
 longitude: -101.481549
-score: 0.28
+score: 0.22
 title: Guymon
 type: location
 ---

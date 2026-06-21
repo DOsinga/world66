@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Izola,_Slovenia,_20240502_
 latitude: 45.539894
 loc_type: city
 longitude: 13.65939
-score: 0.52
+score: 0.45
 title: Izola
 type: location
 ---

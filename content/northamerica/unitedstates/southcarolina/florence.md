@@ -5,7 +5,7 @@ done:
 latitude: 34.1954
 loc_type: city
 longitude: -79.7626
-score: 0.33
+score: 0.26
 title: Florence
 type: location
 ---

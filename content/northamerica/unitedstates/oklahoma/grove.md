@@ -4,7 +4,7 @@ done:
 latitude: 36.594
 loc_type: city
 longitude: -94.769
-score: 0.31
+score: 0.28
 title: Grove
 type: location
 ---

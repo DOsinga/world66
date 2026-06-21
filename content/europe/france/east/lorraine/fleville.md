@@ -5,7 +5,7 @@ done:
 latitude: 48.5917
 loc_type: city
 longitude: 6.2594
-score: 0.31
+score: 0.23
 title: Fléville
 type: location
 image: fleville.jpg

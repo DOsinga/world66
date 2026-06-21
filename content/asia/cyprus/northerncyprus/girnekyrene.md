@@ -7,7 +7,7 @@ done:
 latitude: 35.339629
 loc_type: city
 longitude: 33.320529
-score: 0.59
+score: 0.52
 title: Girne (Kyrenia)
 type: location
 ---

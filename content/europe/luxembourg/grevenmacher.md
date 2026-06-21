@@ -8,7 +8,7 @@ image_attribution: kewl on Flickr
 latitude: 49.679313
 loc_type: city
 longitude: 6.443098
-score: 0.48
+score: 0.4
 title: Grevenmacher
 type: location
 ---

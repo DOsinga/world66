@@ -5,7 +5,7 @@ done:
 latitude: 5.4977
 loc_type: city
 longitude: -0.3649
-score: 0.44
+score: 0.35
 title: Kokrobite
 type: location
 image: kokrobite.jpg

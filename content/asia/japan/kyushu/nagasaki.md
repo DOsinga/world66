@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190202_Nagasaki_harbor-1
 latitude: 32.7503
 loc_type: city
 longitude: 129.8779
-score: 0.76
+score: 0.62
 title: Nagasaki
 type: location
 ---

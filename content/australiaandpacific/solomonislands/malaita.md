@@ -6,7 +6,7 @@ latitude: -8.955169
 longitude: 160.951441
 title: Malaita
 type: location
-score: 0.37
+score: 0.28
 loc_type: city
 ---
 

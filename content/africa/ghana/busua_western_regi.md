@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Busua_-_Seashore,_Western_
 latitude: 4.80666
 loc_type: city
 longitude: -1.938881
-score: 0.44
+score: 0.38
 title: Busua
 type: location
 ---

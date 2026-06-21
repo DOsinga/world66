@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lleida_(40262867523).jpg
 latitude: 41.614761
 loc_type: city
 longitude: 0.626784
-score: 0.46
+score: 0.38
 title: Lleida
 type: location
 ---

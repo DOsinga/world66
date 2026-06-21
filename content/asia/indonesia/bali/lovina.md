@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morning_of_Lovina_Beach_20
 latitude: -8.160924
 loc_type: city
 longitude: 115.024532
-score: 0.6
+score: 0.54
 title: Lovina
 type: location
 ---

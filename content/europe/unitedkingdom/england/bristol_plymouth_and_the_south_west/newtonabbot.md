@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bradley_Manor,_Newton_Abbo
 latitude: 50.529644
 loc_type: city
 longitude: -3.61121
-score: 0.39
+score: 0.34
 title: Newton Abbot
 type: location
 ---

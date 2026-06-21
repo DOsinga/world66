@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcazaba_Antequera.jpg
 latitude: 37.018365
 loc_type: city
 longitude: -4.559665
-score: 0.59
+score: 0.52
 title: Antequera
 type: location
 ---

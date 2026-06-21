@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._George,_Utah.jpg
 latitude: 37.109877
 loc_type: city
 longitude: -113.583206
-score: 0.52
+score: 0.47
 title: St. George
 type: location
 ---

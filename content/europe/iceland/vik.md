@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iceland-Vik-Oct2009.jpg
 latitude: 63.418817
 loc_type: city
 longitude: -19.005474
-score: 0.68
+score: 0.61
 title: Vik
 type: location
 ---

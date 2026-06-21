@@ -5,7 +5,7 @@ latitude: 52.307033
 longitude: 7.116182
 title: Bad Bentheim
 type: location
-score: 0.44
+score: 0.37
 loc_type: city
 ---
 

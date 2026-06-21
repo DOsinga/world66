@@ -5,7 +5,7 @@ done:
 latitude: 22.305326
 loc_type: city
 longitude: 70.802838
-score: 0.36
+score: 0.32
 title: Rajkot
 type: location
 image: rajkot.jpg

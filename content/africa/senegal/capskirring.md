@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bolong_cap_skirring.jpg
 latitude: 12.3885
 loc_type: city
 longitude: -16.7385
-score: 0.5
+score: 0.43
 title: Cap Skirring
 type: location
 ---

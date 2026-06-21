@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Square,_Shrewsbury.JPG
 latitude: 52.7076
 loc_type: city
 longitude: -2.754
-score: 0.53
+score: 0.44
 title: Shrewsbury
 type: location
 ---

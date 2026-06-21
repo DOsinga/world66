@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharur_view_from_plane.jpg
 latitude: 39.589265
 loc_type: city
 longitude: 45.036218
-score: 0.29
+score: 0.22
 title: Sharur
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kauno_senamiestis_by_Augus
 latitude: 54.8985
 loc_type: city
 longitude: 23.9036
-score: 0.52
+score: 0.41
 title: Kaunas
 type: location
 ---

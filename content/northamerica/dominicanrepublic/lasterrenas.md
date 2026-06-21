@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/113306963@N05/52757385491
 latitude: 19.3117
 loc_type: city
 longitude: -69.5424
-score: 0.63
+score: 0.52
 title: Las Terrenas
 type: location
 ---

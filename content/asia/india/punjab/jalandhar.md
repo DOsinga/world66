@@ -5,7 +5,7 @@ done:
 latitude: 31.2922
 loc_type: city
 longitude: 75.5679
-score: 0.34
+score: 0.28
 title: Jalandhar
 type: location
 image: jalandhar.jpg

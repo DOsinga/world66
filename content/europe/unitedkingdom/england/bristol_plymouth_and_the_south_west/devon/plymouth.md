@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plymouth_,_Plymouth_Hoe_%5
 latitude: 50.3714
 loc_type: city
 longitude: -4.1424
-score: 0.49
+score: 0.42
 title: Plymouth
 type: location
 ---

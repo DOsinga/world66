@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angeles_Heritage_District.
 latitude: 15.145
 loc_type: city
 longitude: 120.5887
-score: 0.46
+score: 0.35
 title: Angeles City
 type: location
 ---

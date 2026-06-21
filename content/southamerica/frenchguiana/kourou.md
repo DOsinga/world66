@@ -5,7 +5,7 @@ done:
 latitude: 5.157983
 loc_type: city
 longitude: -52.64242
-score: 0.43
+score: 0.4
 title: Kourou
 type: location
 image: kourou.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 33.19587
 loc_type: city
 longitude: -117.379483
-score: 0.53
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Oceanside,_California
 title: Oceanside

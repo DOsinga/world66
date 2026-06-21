@@ -5,7 +5,7 @@ done:
 latitude: 41.203519
 loc_type: city
 longitude: 14.116862
-score: 0.57
+score: 0.5
 title: Caserta
 type: location
 image: caserta.jpg

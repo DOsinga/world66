@@ -5,7 +5,7 @@ done:
 latitude: 26.995621
 loc_type: city
 longitude: 15.106542
-score: 0.19
+score: 0.14
 title: Sebha
 type: location
 ---

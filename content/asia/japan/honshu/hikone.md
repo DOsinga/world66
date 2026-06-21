@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HikoneCastle_NS.jpg
 latitude: 35.271701
 loc_type: city
 longitude: 136.263448
-score: 0.58
+score: 0.52
 title: Hikone
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 42.454439
 longitude: -6.762921
 title: Las Medulas
 type: location
-score: 0.58
+score: 0.51
 loc_type: feature
 ---
 

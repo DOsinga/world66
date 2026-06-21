@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balloons_Flying_over_%C3%8
 latitude: 38.670828
 loc_type: city
 longitude: 34.839455
-score: 0.66
+score: 0.59
 title: Çavuşin
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Central_bridge_Dnipro.jpg
 latitude: 48.4647
 loc_type: city
 longitude: 35.0462
-score: 0.35
+score: 0.29
 title: Dnipro
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Den_Burg-Binnenburg_15.jpg
 latitude: 53.055232
 loc_type: city
 longitude: 4.796738
-score: 0.52
+score: 0.44
 title: Den Burg
 type: location
 ---

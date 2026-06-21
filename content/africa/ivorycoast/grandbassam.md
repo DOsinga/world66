@@ -5,7 +5,7 @@ done:
 latitude: 5.212884
 loc_type: city
 longitude: -3.743226
-score: 0.42
+score: 0.39
 title: Grand-Bassam
 type: location
 ---

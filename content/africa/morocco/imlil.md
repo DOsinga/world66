@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Imlil_Marrakech_Morocco_3.
 latitude: 31.1806
 loc_type: city
 longitude: -7.9168
-score: 0.62
+score: 0.5
 title: Imlil
 type: location
 ---

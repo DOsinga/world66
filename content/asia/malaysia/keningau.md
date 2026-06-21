@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:District-Keningau_Sabah_Mo
 latitude: 5.217948
 loc_type: city
 longitude: 116.246315
-score: 0.38
+score: 0.3
 title: Keningau
 type: location
 ---

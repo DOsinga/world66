@@ -6,6 +6,7 @@ loc_type: city
 longitude: 109.4883
 title: Enshi
 type: location
+score: 0.38
 ---
 
 Enshi is the part of Hubei that feels like a different country. Western Hubei belongs geographically and culturally to the mountain world of the Wuling range, and the city of Enshi — prefectural capital for a region where 45 ethnic groups live, with Tujia and Miao making up roughly 40 percent of the population — is the gateway to some of the most dramatic karst scenery in central China.

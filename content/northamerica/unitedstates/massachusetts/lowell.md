@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1876_bird%27s_eye_view_of_
 latitude: 42.6414
 loc_type: city
 longitude: -71.3085
-score: 0.38
+score: 0.34
 title: Lowell
 type: location
 ---

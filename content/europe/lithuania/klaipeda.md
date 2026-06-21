@@ -7,7 +7,7 @@ done:
 latitude: 55.7128
 loc_type: city
 longitude: 21.135
-score: 0.5
+score: 0.43
 title: Klaipeda
 type: location
 ---

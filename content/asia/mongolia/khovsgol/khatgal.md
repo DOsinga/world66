@@ -5,7 +5,7 @@ done:
 latitude: 50.444229
 loc_type: city
 longitude: 100.157935
-score: 0.47
+score: 0.42
 title: Khatgal
 type: location
 ---

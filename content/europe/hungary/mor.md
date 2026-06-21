@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Volt_Lamberg_kast%C3%A9ly_
 latitude: 47.372
 loc_type: city
 longitude: 18.209
-score: 0.36
+score: 0.29
 title: Mór
 type: location
 ---

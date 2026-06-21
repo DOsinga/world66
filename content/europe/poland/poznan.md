@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stary_Rynek_w_Poznaniu,_wi
 latitude: 52.4064
 loc_type: city
 longitude: 16.9252
-score: 0.55
+score: 0.48
 title: Poznan
 type: location
 ---

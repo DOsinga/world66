@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/6841779155
 latitude: 11.245056
 loc_type: city
 longitude: 75.775472
-score: 0.52
+score: 0.44
 title: Kozhikode
 type: location
 ---

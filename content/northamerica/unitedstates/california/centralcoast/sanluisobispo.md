@@ -5,7 +5,7 @@ done:
 latitude: 35.2828
 loc_type: city
 longitude: -120.6596
-score: 0.55
+score: 0.5
 title: San Luis Obispo
 type: location
 image: sanluisobispo.jpg

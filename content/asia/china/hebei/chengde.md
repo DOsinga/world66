@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chengde_Mountain_Resort_22
 latitude: 40.9507
 loc_type: city
 longitude: 117.9567
-score: 0.57
+score: 0.49
 title: Chengde
 type: location
 ---

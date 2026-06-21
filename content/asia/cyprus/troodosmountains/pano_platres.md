@@ -5,7 +5,7 @@ done:
 latitude: 34.888621
 loc_type: city
 longitude: 32.864864
-score: 0.55
+score: 0.47
 title: Pano Platres
 type: location
 image: pano_platres.jpg

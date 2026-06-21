@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef,_from_
 latitude: 17.9248
 loc_type: city
 longitude: -87.9714
-score: 0.69
+score: 0.59
 title: Ambergris Caye
 type: location
 ---

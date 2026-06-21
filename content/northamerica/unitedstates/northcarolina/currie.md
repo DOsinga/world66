@@ -5,7 +5,7 @@ done:
 latitude: 34.528611
 loc_type: city
 longitude: -78.024167
-score: 0.26
+score: 0.23
 title: Currie
 type: location
 image: currie.jpg

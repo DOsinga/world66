@@ -4,7 +4,7 @@ done:
 latitude: -31.3889
 loc_type: city
 longitude: -57.9609
-score: 0.39
+score: 0.35
 title: Salto
 todo_location_cleanup: done
 type: location

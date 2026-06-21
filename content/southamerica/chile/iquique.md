@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Iquique,_Chile,_2
 latitude: -20.214066
 loc_type: city
 longitude: -70.152465
-score: 0.52
+score: 0.45
 title: Iquique
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roscoff_vue_Chapelle_St-Ba
 latitude: 48.725582
 loc_type: city
 longitude: -3.982898
-score: 0.53
+score: 0.47
 title: Roscoff
 type: location
 ---

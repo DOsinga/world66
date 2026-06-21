@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ajuntament_de_Puigcerd%C3%
 latitude: 42.431797
 loc_type: city
 longitude: 1.927869
-score: 0.53
+score: 0.45
 title: Puigcerdà
 type: location
 ---

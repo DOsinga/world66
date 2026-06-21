@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Art_Gallery_by_the_Tow
 latitude: 52.584795
 loc_type: city
 longitude: -1.982269
-score: 0.32
+score: 0.25
 title: Walsall
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Viaduc_(Morlaix).jpg
 latitude: 48.582493
 loc_type: city
 longitude: -3.833197
-score: 0.49
+score: 0.45
 title: Morlaix
 type: location
 ---

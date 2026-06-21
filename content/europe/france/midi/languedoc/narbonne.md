@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narbonne_Cathedrale_Saint_
 latitude: 43.1836
 loc_type: city
 longitude: 3.0042
-score: 0.57
+score: 0.48
 title: Narbonne
 type: location
 ---

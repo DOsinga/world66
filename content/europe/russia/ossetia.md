@@ -5,7 +5,7 @@ done:
 latitude: 42.992071
 loc_type: city
 longitude: 44.263635
-score: 0.31
+score: 0.26
 title: Ossetia
 type: location
 image: ossetia.jpg

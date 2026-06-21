@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LokvarskoJezero1.jpg
 latitude: 44.958411
 loc_type: city
 longitude: 14.409484
-score: 0.52
+score: 0.45
 title: Gorski Kotar
 type: location
 ---

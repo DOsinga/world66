@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oceanfront_south_of_Hulihe
 latitude: 19.64
 loc_type: city
 longitude: -155.9969
-score: 0.68
+score: 0.63
 title: Kailua-Kona
 type: location
 ---

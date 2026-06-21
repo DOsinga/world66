@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Einsiedeln-Katzenstrick.jp
 latitude: 47.12861
 loc_type: city
 longitude: 8.75003
-score: 0.53
+score: 0.48
 title: Einsiedeln
 type: location
 ---

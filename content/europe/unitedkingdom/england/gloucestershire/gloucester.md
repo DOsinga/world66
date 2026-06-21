@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gloucester_Docks_at_Night.
 latitude: 51.86537
 loc_type: city
 longitude: -2.245819
-score: 0.52
+score: 0.43
 title: Gloucester
 type: location
 ---

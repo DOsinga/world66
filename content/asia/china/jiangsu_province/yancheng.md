@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Yancheng
 title: Yancheng
 type: location
+score: 0.28
 ---
 
 Yancheng — "Salt City" — was founded in 119 BC as a salt production centre and spent two millennia generating revenue for successive dynasties through its coastal saline marshes. The salt economy has gone, but the marshes remain, transformed into one of China's most ecologically significant landscapes. The coastal wetlands along this stretch of the Yellow Sea were inscribed as a UNESCO World Heritage Site for their role as a critical staging point for millions of migratory birds along the East Asian–Australasian Flyway, and for the winter habitat they provide to red-crowned cranes — a species whose global population numbers only a few thousand.

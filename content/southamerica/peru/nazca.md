@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Armas,_Nazca_(844
 latitude: -14.82772
 loc_type: city
 longitude: -74.937062
-score: 0.65
+score: 0.57
 title: Nazca
 type: location
 ---

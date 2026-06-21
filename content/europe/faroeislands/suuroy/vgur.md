@@ -5,7 +5,7 @@ done:
 latitude: 61.473886
 loc_type: city
 longitude: -6.811462
-score: 0.51
+score: 0.42
 title: Vágur
 type: location
 image: vgur.jpg

@@ -9,6 +9,7 @@ sources:
 - https://en.wikipedia.org/wiki/Grand_Bassa_County
 title: Buchanan
 type: location
+score: 0.21
 ---
 
 *Africa > [Liberia](/africa/liberia) > Buchanan*

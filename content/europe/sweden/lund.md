@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lund_(Scani
 latitude: 55.7047
 loc_type: city
 longitude: 13.1921
-score: 0.52
+score: 0.45
 title: Lund
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/114894128@N08/26039097930
 latitude: 39.663982
 loc_type: city
 longitude: 20.852278
-score: 0.61
+score: 0.53
 title: Ioannina
 type: location
 ---

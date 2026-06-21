@@ -5,7 +5,7 @@ done:
 latitude: 5.107467
 loc_type: city
 longitude: -1.243079
-score: 0.54
+score: 0.45
 title: Cape Coast
 type: location
 ---

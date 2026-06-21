@@ -5,7 +5,7 @@ done:
 latitude: 22.126082
 loc_type: city
 longitude: 113.567644
-score: 0.53
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Coloane
 title: Coloane

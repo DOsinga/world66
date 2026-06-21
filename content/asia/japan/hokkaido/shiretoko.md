@@ -14,6 +14,7 @@ image: shiretoko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:140828_Otoko-no-namida_Shiretoko_Peninsula_Hokkaido_Japan01s5.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+score: 0.57
 ---
 
 Shiretoko is a narrow peninsula jutting northeast from Hokkaido into the Sea of Okhotsk, and it is as wild as Japan gets. The name comes from the Ainu word for "the end of the earth," and the peninsula still earns that description — a rugged ridge of volcanoes running to a tip that can only be reached by sea or on foot. UNESCO listed Shiretoko as a World Heritage Site in 2005, recognising its extraordinary mixing of marine and terrestrial ecosystems at the meeting point of the world's southernmost drift ice.

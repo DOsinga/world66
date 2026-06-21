@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salida_del_lago_de_Varna_a
 latitude: 43.207387
 loc_type: city
 longitude: 27.916665
-score: 0.6
+score: 0.51
 title: Varna
 type: location
 ---

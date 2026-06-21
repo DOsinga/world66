@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NNSB-00522.jpg
 latitude: 36.977502
 loc_type: city
 longitude: -76.42977
-score: 0.4
+score: 0.32
 title: Newport News
 type: location
 ---

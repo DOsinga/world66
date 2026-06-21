@@ -12,6 +12,7 @@ sources:
 - https://www.gov.uk/foreign-travel-advice/haiti
 title: Macaya Peak National Park
 type: location
+score: 0.33
 ---
 
 Macaya Peak National Park protects one of Haiti's most precious landscapes: the cloud forest and high ridges of the Massif de la Hotte on the western end of the southern peninsula. This is not a casual picnic park. It is remote, mountainous, biologically important, and difficult to reach even when Haiti is stable.

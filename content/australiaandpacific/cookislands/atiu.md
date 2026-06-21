@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kopeka.jpg
 latitude: -19.916358
 loc_type: city
 longitude: -158.197198
-score: 0.55
+score: 0.45
 title: Atiu
 type: location
 ---

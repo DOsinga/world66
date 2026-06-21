@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_through_Shavat_cana
 latitude: 41.55179
 loc_type: city
 longitude: 60.631281
-score: 0.47
+score: 0.38
 title: Urgench
 type: location
 ---

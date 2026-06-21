@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Lunenburg
 title: Lunenburg
 type: location
+score: 0.52
 ---
 
 *North America > Canada > Nova Scotia > Lunenburg*

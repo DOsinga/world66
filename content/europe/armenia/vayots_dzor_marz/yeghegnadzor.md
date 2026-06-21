@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Wajoc_Dzor,
 latitude: 39.760101
 loc_type: city
 longitude: 45.330227
-score: 0.4
+score: 0.37
 title: Yeghegnadzor
 type: location
 ---

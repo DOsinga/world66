@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taunsa.jpg
 latitude: 30.7026
 loc_type: city
 longitude: 70.6511
-score: 0.19
+score: 0.18
 title: Taunsa Sharif
 type: location
 ---

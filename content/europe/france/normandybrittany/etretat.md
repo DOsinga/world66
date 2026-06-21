@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aiguille_et_Porte_d%C2%B4A
 latitude: 49.7075
 loc_type: city
 longitude: 0.2032
-score: 0.68
+score: 0.59
 title: Etretat
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Torri_di_Bologna,_Bologna.
 latitude: 44.49382
 loc_type: city
 longitude: 11.342633
-score: 0.69
+score: 0.62
 title: Bologna
 type: location
 ---

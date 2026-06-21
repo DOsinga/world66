@@ -5,7 +5,7 @@ done:
 latitude: -21.1267
 loc_type: city
 longitude: -56.4836
-score: 0.61
+score: 0.55
 title: Bonito
 type: location
 ---

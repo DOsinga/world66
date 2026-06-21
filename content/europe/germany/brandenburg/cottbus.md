@@ -5,7 +5,7 @@ done:
 latitude: 51.756745
 loc_type: city
 longitude: 14.335731
-score: 0.42
+score: 0.33
 title: Cottbus
 type: location
 image: cottbus.jpg

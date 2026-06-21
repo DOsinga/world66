@@ -5,7 +5,7 @@ done:
 latitude: 53.790726
 loc_type: city
 longitude: -2.24392
-score: 0.32
+score: 0.25
 title: Burnley
 type: location
 image: burnley.jpg

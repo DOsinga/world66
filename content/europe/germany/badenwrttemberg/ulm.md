@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ulm_Panorama_01.jpg
 latitude: 48.3984
 loc_type: city
 longitude: 9.9912
-score: 0.53
+score: 0.5
 title: Ulm
 type: location
 ---

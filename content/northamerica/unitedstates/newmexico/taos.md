@@ -7,7 +7,7 @@ done:
 latitude: 36.4072
 loc_type: city
 longitude: -105.5733
-score: 0.63
+score: 0.53
 title: Taos
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lome_Beach_Togo_1.jpg
 latitude: 6.1304
 loc_type: city
 longitude: 1.2158
-score: 0.38
+score: 0.32
 title: Lome
 type: location
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 24.908853
 loc_type: city
 longitude: 118.587952
-score: 0.65
+score: 0.42
 title: Quanzhou
 type: location
 image: quanzhou.jpg

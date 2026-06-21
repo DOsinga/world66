@@ -5,7 +5,7 @@ done:
 latitude: -25.28
 loc_type: city
 longitude: -57.6344
-score: 0.44
+score: 0.36
 title: Asuncion
 type: location
 image: asuncion.jpg

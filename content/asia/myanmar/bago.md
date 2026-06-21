@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanbawzathadi_Palace_-_Bag
 latitude: 18.2457
 loc_type: city
 longitude: 96.1005
-score: 0.38
+score: 0.33
 title: Bago
 type: location
 ---

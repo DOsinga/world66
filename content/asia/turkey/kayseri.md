@@ -5,7 +5,7 @@ done:
 latitude: 38.721901
 loc_type: city
 longitude: 35.487321
-score: 0.5
+score: 0.41
 title: Kayseri
 type: location
 ---

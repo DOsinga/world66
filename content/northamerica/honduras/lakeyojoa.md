@@ -5,7 +5,7 @@ latitude: 14.8333
 longitude: -87.9833
 title: Lake Yojoa
 type: location
-score: 0.51
+score: 0.42
 loc_type: feature
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MSodaiguiSTPereFigueres1.j
 latitude: 42.2666
 loc_type: city
 longitude: 2.9638
-score: 0.6
+score: 0.54
 title: Figueres
 type: location
 ---

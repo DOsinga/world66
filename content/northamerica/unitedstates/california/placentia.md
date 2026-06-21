@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Placita_Santa_Fe,_Placenti
 latitude: 33.8715
 loc_type: city
 longitude: -117.8617
-score: 0.29
+score: 0.25
 title: Placentia
 type: location
 ---

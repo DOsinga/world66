@@ -6,7 +6,7 @@ latitude: 9.160464
 longitude: 167.079554
 title: Kwajalein Atoll
 type: location
-score: 0.4
+score: 0.33
 loc_type: city
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 37.164154
 loc_type: city
 longitude: -120.76786
-score: 0.31
+score: 0.26
 title: Merced
 type: location
 image: merced.jpg

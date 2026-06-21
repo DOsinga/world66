@@ -5,7 +5,7 @@ done:
 latitude: 51.333473
 loc_type: city
 longitude: 1.419648
-score: 0.48
+score: 0.39
 title: Ramsgate
 type: location
 ---

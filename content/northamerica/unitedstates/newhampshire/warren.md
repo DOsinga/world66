@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Redstone_Rocket_Warren_NH.
 latitude: 43.928
 loc_type: city
 longitude: -71.886
-score: 0.35
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Warren,_New_Hampshire
 title: Warren

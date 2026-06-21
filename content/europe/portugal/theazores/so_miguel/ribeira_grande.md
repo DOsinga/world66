@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 37.822523
 longitude: -25.519491
-score: 0.57
+score: 0.5
 title: Ribeira Grande
 type: location
 loc_type: city

@@ -5,7 +5,7 @@ done:
 latitude: 38.3957
 loc_type: city
 longitude: 47.6761
-score: 0.27
+score: 0.23
 title: Meshkin-Shahr
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 53.495682
 loc_type: city
 longitude: 13.309706
-score: 0.39
+score: 0.33
 title: Burg Stargard
 type: location
 ---

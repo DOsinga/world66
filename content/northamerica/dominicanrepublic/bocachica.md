@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_Chica_RD_12_2017_6442
 latitude: 18.4539
 loc_type: city
 longitude: -69.6103
-score: 0.46
+score: 0.38
 title: Boca Chica
 type: location
 ---

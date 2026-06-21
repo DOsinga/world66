@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 53.6467
 longitude: -1.7822
-score: 0.42
+score: 0.34
 title: Huddersfield
 type: location
 loc_type: city

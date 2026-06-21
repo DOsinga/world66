@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chamonix_-_Lac_Blanc_4.jpg
 latitude: 45.92467
 loc_type: city
 longitude: 6.872751
-score: 0.81
+score: 0.72
 sources:
 - https://en.wikipedia.org/wiki/Chamonix
 title: Chamonix

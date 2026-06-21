@@ -5,7 +5,7 @@ done:
 latitude: 28.913
 loc_type: city
 longitude: 87.237
-score: 0.3
+score: 0.26
 title: Xeger
 type: location
 ---

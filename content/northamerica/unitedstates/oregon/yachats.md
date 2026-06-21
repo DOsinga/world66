@@ -9,7 +9,7 @@ image_attribution: Joe Mabel
 latitude: 44.312756
 loc_type: city
 longitude: -124.104999
-score: 0.49
+score: 0.45
 title: Yachats
 type: location
 ---

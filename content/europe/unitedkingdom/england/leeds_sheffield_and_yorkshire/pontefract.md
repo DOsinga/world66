@@ -6,7 +6,7 @@ latitude: 53.6917
 longitude: -1.3106
 title: Pontefract
 type: location
-score: 0.42
+score: 0.33
 loc_type: city
 ---
 

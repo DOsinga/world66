@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/65947222@N00/48694020107
 latitude: 52.0579
 loc_type: city
 longitude: 1.1528
-score: 0.41
+score: 0.35
 title: Ipswich
 type: location
 ---

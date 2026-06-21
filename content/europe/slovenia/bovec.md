@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bovec_aerial_view.jpg
 latitude: 46.3386
 loc_type: city
 longitude: 13.5524
-score: 0.64
+score: 0.54
 title: Bovec
 type: location
 ---

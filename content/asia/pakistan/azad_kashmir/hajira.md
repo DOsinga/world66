@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Devi_Gali2.jpg
 latitude: 33.771551
 loc_type: city
 longitude: 73.896786
-score: 0.37
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Hajira,_Poonch
 - https://en.wikipedia.org/wiki/Devi_Gali

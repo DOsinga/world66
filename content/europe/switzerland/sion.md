@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rue_des_Ch%C3%A2teaux,_Sio
 latitude: 46.231175
 loc_type: city
 longitude: 7.358879
-score: 0.6
+score: 0.51
 title: Sion
 type: location
 ---

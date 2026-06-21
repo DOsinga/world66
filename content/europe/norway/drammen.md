@@ -5,7 +5,7 @@ done:
 latitude: 59.744
 loc_type: city
 longitude: 10.2045
-score: 0.44
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Drammen
 title: Drammen

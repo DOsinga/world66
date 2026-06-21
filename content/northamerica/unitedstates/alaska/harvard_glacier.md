@@ -5,7 +5,7 @@ latitude: 61.401156
 longitude: -147.388974
 title: Harvard Glacier
 type: location
-score: 0.52
+score: 0.43
 loc_type: feature
 ---
 

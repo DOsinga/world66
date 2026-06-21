@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loano_-_Porto_di_Loano.jpg
 latitude: 44.128754
 loc_type: city
 longitude: 8.259371
-score: 0.52
+score: 0.46
 title: Loano
 type: location
 ---

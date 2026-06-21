@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nzulezo-3.jpg
 latitude: 4.977
 loc_type: city
 longitude: -2.737
-score: 0.4
+score: 0.39
 title: Nzulezu
 type: location
 ---

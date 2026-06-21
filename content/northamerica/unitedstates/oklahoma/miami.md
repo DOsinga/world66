@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coleman_Theater_in_Miami,_
 latitude: 36.8747
 loc_type: city
 longitude: -94.8774
-score: 0.3
+score: 0.24
 title: Miami
 type: location
 ---

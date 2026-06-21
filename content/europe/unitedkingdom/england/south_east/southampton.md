@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leaving_Southampton_-_geog
 latitude: 50.9025
 loc_type: city
 longitude: -1.4042
-score: 0.45
+score: 0.38
 title: Southampton
 type: location
 ---

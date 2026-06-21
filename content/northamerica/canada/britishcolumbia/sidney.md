@@ -8,7 +8,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sidney,_BC_from_the_water_01_(20277037560).jpg
 latitude: 48.6506
 longitude: -123.3983
-score: 0.47
+score: 0.39
 title: Sidney
 type: location
 loc_type: city

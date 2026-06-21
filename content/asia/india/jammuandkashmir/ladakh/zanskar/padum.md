@@ -5,6 +5,7 @@ loc_type: city
 latitude: 33.4639
 longitude: 76.8786
 country: India
+score: 0.42
 ---
 
 Padum is the administrative headquarters of the Zanskar district — a small, unprepossessing town of whitewashed buildings and rough lanes that serves primarily as a base for trekkers and a supply point for the surrounding villages. It sits at the junction of the Stod and Lungnak rivers in the heart of the Zanskar valley, at around 3,640 metres, with the Karsha Monastery visible on the cliffs to the northwest across the river.

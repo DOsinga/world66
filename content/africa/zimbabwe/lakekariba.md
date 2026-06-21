@@ -5,7 +5,7 @@ latitude: -16.531595
 longitude: 28.772178
 title: Lake Kariba
 type: location
-score: 0.52
+score: 0.42
 loc_type: feature
 ---
 

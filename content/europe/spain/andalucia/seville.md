@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eventail_chinois_asym%C3%A
 latitude: 37.38863
 loc_type: city
 longitude: -5.99534
-score: 0.83
+score: 0.73
 title: Seville
 type: location
 ---

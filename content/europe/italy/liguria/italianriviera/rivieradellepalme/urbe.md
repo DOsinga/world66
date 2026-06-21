@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Pietro_d%27Olba_(Urbe)
 latitude: 44.477256
 loc_type: city
 longitude: 8.631393
-score: 0.36
+score: 0.35
 title: Urbe
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 6.242641
 loc_type: city
 longitude: -57.516836
-score: 0.34
+score: 0.29
 title: New Amsterdam
 type: location
 image: newamsterdam.jpg

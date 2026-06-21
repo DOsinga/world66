@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kurunegala_City_from_the_S
 latitude: 7.487046
 loc_type: city
 longitude: 80.364908
-score: 0.43
+score: 0.39
 title: Kurunegala
 type: location
 ---

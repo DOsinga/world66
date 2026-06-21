@@ -8,7 +8,7 @@ latitude: 35.227209
 longitude: -80.843083
 title: Charlotte
 type: location
-score: 0.42
+score: 0.36
 loc_type: city
 ---
 

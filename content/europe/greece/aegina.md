@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%C3%84gina_Hafenblick.jpg
 latitude: 37.724369
 loc_type: city
 longitude: 23.493811
-score: 0.63
+score: 0.56
 title: Aegina
 type: location
 ---

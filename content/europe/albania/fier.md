@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apollonia,_Albania_01.jpg
 latitude: 40.725112
 loc_type: city
 longitude: 19.558208
-score: 0.31
+score: 0.27
 title: Fier
 type: location
 ---

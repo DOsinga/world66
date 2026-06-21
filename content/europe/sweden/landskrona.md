@@ -5,7 +5,7 @@ latitude: 55.8698
 longitude: 12.8297
 title: Landskrona
 type: location
-score: 0.43
+score: 0.4
 loc_type: city
 ---
 

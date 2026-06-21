@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aktau-lighthouse.jpg
 latitude: 43.635336
 loc_type: city
 longitude: 51.168222
-score: 0.32
+score: 0.31
 title: Aqtau
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 33.5639
 loc_type: city
 longitude: 107.5097
-score: 0.34
+score: 0.3
 title: Huayang Village
 type: location
 ---

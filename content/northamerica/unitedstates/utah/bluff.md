@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47026734@N08/8338730446
 latitude: 37.2942
 loc_type: city
 longitude: -109.5512
-score: 0.49
+score: 0.4
 title: Bluff
 type: location
 ---

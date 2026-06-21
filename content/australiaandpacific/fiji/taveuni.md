@@ -5,7 +5,7 @@ done:
 latitude: -16.826149
 loc_type: city
 longitude: -179.935461
-score: 0.71
+score: 0.58
 title: Taveuni
 type: location
 image: taveuni.jpg

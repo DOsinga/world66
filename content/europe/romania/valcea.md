@@ -5,7 +5,7 @@ done:
 latitude: 45.040454
 loc_type: city
 longitude: 24.153872
-score: 0.41
+score: 0.35
 title: Valcea
 type: location
 ---

@@ -6,7 +6,7 @@ longitude: 2.819944
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-23'
-score: 0.69
+score: 0.55
 loc_type: city
 image: girona.jpg
 image_license: CC BY-SA 3.0

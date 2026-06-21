@@ -10,7 +10,7 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Chesses_gouda_affinage.JPG
 latitude: 52.011492
 longitude: 4.710609
-score: 0.56
+score: 0.49
 tags:
 - cheese
 - history

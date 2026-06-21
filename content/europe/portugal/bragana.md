@@ -4,7 +4,7 @@ done:
 latitude: 41.8057
 loc_type: city
 longitude: -6.7573
-score: 0.46
+score: 0.43
 title: Bragança
 type: location
 image: bragana.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilica_di_Impruneta.jpg
 latitude: 43.685345
 loc_type: city
 longitude: 11.254664
-score: 0.57
+score: 0.46
 title: Impruneta
 type: location
 ---

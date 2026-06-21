@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pollensa-mallorca-35.jpg
 latitude: 39.879207
 loc_type: city
 longitude: 3.01571
-score: 0.68
+score: 0.58
 title: Pollensa
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanning-China-You_Ai-str.j
 latitude: 22.819399
 loc_type: city
 longitude: 108.314917
-score: 0.55
+score: 0.36
 title: Nanning
 type: location
 ---

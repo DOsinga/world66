@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:SalmonArmFromTappen.JPG
 latitude: 50.700506
 longitude: -119.279053
-score: 0.45
+score: 0.38
 title: Salmon Arm
 type: location
 loc_type: city

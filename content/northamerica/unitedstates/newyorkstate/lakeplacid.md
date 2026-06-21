@@ -5,7 +5,7 @@ done:
 latitude: 44.2831
 loc_type: city
 longitude: -73.9828
-score: 0.62
+score: 0.51
 title: Lake Placid
 type: location
 ---

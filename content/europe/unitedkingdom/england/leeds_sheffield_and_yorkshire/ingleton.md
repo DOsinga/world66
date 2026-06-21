@@ -5,7 +5,7 @@ done:
 latitude: 54.154358
 loc_type: city
 longitude: -2.467275
-score: 0.51
+score: 0.42
 title: Ingleton
 type: location
 image: ingleton.jpg

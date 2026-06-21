@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mestre-Tour_de_l%27horloge
 latitude: 45.4903
 loc_type: city
 longitude: 12.2381
-score: 0.4
+score: 0.33
 title: Mestre
 type: location
 ---

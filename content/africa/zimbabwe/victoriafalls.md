@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_05.jpg
 latitude: -17.922895
 longitude: 25.847685
-score: 0.79
+score: 0.74
 title: Victoria Falls
 type: location
 loc_type: feature

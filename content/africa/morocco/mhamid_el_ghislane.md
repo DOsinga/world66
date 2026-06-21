@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:M%27hamid-CafeUndShop.jpg
 latitude: 29.8258
 loc_type: city
 longitude: -5.7228
-score: 0.5
+score: 0.42
 title: M'Hamid el Ghislane
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panama_City_from_St_Andrew
 latitude: 30.1588
 loc_type: city
 longitude: -85.6602
-score: 0.5
+score: 0.39
 title: Panama City
 type: location
 ---

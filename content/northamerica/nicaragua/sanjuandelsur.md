@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_juan_del_sur.jpg
 latitude: 11.2527
 loc_type: city
 longitude: -85.8709
-score: 0.53
+score: 0.43
 title: San Juan del Sur
 type: location
 ---

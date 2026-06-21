@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moclips,_WA_-_along_the_be
 latitude: 47.233264
 loc_type: city
 longitude: -124.205063
-score: 0.39
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Moclips,_Washington
 title: Moclips

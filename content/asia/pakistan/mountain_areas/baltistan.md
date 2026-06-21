@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keris_Village_(Gilgit-balt
 latitude: 35.5
 loc_type: city
 longitude: 75.6
-score: 0.51
+score: 0.44
 title: Baltistan
 type: location
 ---

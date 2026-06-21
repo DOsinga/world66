@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amherst,_MA_(cropped)_2.jp
 latitude: 42.3732
 loc_type: city
 longitude: -72.5199
-score: 0.42
+score: 0.38
 title: Amherst
 type: location
 ---

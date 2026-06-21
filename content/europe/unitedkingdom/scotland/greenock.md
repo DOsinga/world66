@@ -5,7 +5,7 @@ done:
 latitude: 55.947342
 loc_type: city
 longitude: -4.756472
-score: 0.39
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Greenock
 - https://en.wikipedia.org/wiki/McLean_Museum

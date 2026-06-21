@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kita_Gare.jpg
 latitude: 13.207
 loc_type: city
 longitude: -9.3886
-score: 0.25
+score: 0.17
 title: Kita
 type: location
 ---

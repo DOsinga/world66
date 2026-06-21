@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saksun,_Faroe_Islands.jpg
 latitude: 62.2442
 loc_type: city
 longitude: -7.1712
-score: 0.64
+score: 0.53
 title: Saksun
 type: location
 ---

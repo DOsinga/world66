@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keren,_Eritrea,_2024.jpg
 latitude: 15.7805
 loc_type: city
 longitude: 38.4536
-score: 0.34
+score: 0.26
 title: Keren
 type: location
 ---

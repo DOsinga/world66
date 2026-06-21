@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barken_Viking_i_G%C3%B6teb
 latitude: 57.707233
 loc_type: city
 longitude: 11.967017
-score: 0.59
+score: 0.53
 title: Gothenburg
 type: location
 ---

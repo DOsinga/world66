@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:130608_Matsumoto_Castle_Ma
 latitude: 36.2382
 loc_type: city
 longitude: 137.9687
-score: 0.71
+score: 0.62
 title: Matsumoto
 type: location
 ---

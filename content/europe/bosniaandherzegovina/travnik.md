@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Travnik_Altstadt_3.JPG
 latitude: 44.2266
 loc_type: city
 longitude: 17.6658
-score: 0.52
+score: 0.42
 title: Travnik
 type: location
 ---

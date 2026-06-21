@@ -9,7 +9,7 @@ image_attribution: Myotus
 latitude: 37.692236
 loc_type: city
 longitude: -97.337545
-score: 0.39
+score: 0.32
 title: Wichita
 type: location
 ---

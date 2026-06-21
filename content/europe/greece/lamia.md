@@ -5,7 +5,7 @@ done:
 latitude: 38.899383
 loc_type: city
 longitude: 22.433582
-score: 0.43
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Lamia_(city)
 - https://en.wikipedia.org/wiki/Battle_of_Thermopylae

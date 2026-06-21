@@ -5,7 +5,7 @@ done:
 latitude: -25.610751
 loc_type: city
 longitude: -54.57642
-score: 0.71
+score: 0.67
 title: Puerto Iguazú
 type: location
 ---

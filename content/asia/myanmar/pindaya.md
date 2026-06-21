@@ -7,7 +7,7 @@ done:
 latitude: 20.9237
 loc_type: city
 longitude: 96.6693
-score: 0.49
+score: 0.44
 title: Pindaya
 type: location
 ---

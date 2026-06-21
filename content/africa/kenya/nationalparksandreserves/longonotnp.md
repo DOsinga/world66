@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mt_Longonot_National_Park_
 latitude: -0.9145
 loc_type: feature
 longitude: 36.4536
-score: 0.52
+score: 0.47
 title: Mt Longonot National Park
 type: location
 ---

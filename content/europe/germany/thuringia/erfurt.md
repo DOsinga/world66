@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kr%C3%A4merbr%C3%BCcke,_Er
 latitude: 50.977797
 loc_type: city
 longitude: 11.028736
-score: 0.53
+score: 0.49
 title: Erfurt
 type: location
 ---

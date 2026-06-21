@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mbandaka_koloniale_archite
 latitude: 0.047073
 loc_type: city
 longitude: 18.25648
-score: 0.26
+score: 0.18
 title: Mbandaka
 type: location
 ---

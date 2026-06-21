@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Ybor,_Ybor_City,_Ta
 latitude: 27.96
 loc_type: city
 longitude: -82.4412
-score: 0.46
+score: 0.4
 title: Ybor City
 type: location
 ---

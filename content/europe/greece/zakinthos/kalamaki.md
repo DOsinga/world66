@@ -5,7 +5,7 @@ done:
 latitude: 37.7236
 loc_type: city
 longitude: 20.872
-score: 0.61
+score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Kalamaki,_Zakynthos
 title: Kalamaki

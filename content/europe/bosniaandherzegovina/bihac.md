@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biha%C4%87_%E2%80%93_Inner
 latitude: 44.8169
 loc_type: city
 longitude: 15.8697
-score: 0.44
+score: 0.4
 title: Bihać
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 40.1667
 longitude: 15.4167
 title: Parco Nazionale del Cilento e del Vallo di Diano
 type: location
-score: 0.59
+score: 0.51
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryggjubakki,_T%C3%B3rshav
 latitude: 62.01014
 loc_type: city
 longitude: -6.771571
-score: 0.61
+score: 0.55
 title: Tórshavn
 type: location
 ---

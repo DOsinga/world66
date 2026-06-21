@@ -5,7 +5,7 @@ done:
 latitude: 33.4878
 loc_type: city
 longitude: 48.3558
-score: 0.37
+score: 0.29
 title: Khorramabad
 type: location
 ---

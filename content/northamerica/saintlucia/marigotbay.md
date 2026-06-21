@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marigot_Bay,_St._Lucia.jpg
 latitude: 13.9636
 loc_type: city
 longitude: -61.0236
-score: 0.72
+score: 0.61
 title: Marigot Bay
 type: location
 ---

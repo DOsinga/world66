@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_benouville.jpg
 latitude: 49.2466
 loc_type: city
 longitude: -0.2782
-score: 0.49
+score: 0.46
 title: Bénouville
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%A3o_Filipe,_Fogo,_Cap
 latitude: 14.896
 loc_type: city
 longitude: -24.498
-score: 0.5
+score: 0.41
 title: Sao Filipe
 type: location
 ---

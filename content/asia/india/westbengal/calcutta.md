@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata.
 latitude: 22.5726
 loc_type: city
 longitude: 88.3639
-score: 0.47
+score: 0.46
 title: Calcutta
 type: location
 ---

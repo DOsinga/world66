@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:National_Anzac_Centre,_Alb
 latitude: -35.024782
 loc_type: city
 longitude: 117.883608
-score: 0.48
+score: 0.45
 title: Albany
 type: location
 ---

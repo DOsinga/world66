@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/44011916010
 latitude: -16.234795
 loc_type: city
 longitude: 168.065564
-score: 0.56
+score: 0.44
 title: Ambrym
 type: location
 ---

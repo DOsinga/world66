@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Ignacio_Peru_square.jp
 latitude: -5.124368
 loc_type: city
 longitude: -78.89563
-score: 0.3
+score: 0.25
 title: San Ignacio
 type: location
 ---

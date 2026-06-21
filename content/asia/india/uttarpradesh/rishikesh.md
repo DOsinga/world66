@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trayambakeshwar_Temple_VK.
 latitude: 30.108654
 loc_type: city
 longitude: 78.291619
-score: 0.61
+score: 0.53
 title: Rishikesh
 type: location
 ---

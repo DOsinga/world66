@@ -5,7 +5,7 @@ done:
 latitude: 58.3812
 loc_type: city
 longitude: 12.3227
-score: 0.43
+score: 0.39
 title: Vänersborg
 type: location
 image: vnersborg.jpg

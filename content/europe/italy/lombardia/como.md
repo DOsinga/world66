@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Along_Lake_Como_at_Como,_1
 latitude: 45.9075
 loc_type: city
 longitude: 9.1599
-score: 0.7
+score: 0.62
 title: Como
 type: location
 ---

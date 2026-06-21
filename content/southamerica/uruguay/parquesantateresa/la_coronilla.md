@@ -5,7 +5,7 @@ done:
 latitude: -33.896136
 loc_type: city
 longitude: -53.515474
-score: 0.37
+score: 0.33
 title: La Coronilla
 type: location
 ---

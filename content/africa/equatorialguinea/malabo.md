@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Malabo.j
 latitude: 3.741877
 loc_type: city
 longitude: 8.774066
-score: 0.34
+score: 0.24
 title: Malabo
 type: location
 ---

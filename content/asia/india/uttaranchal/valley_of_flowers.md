@@ -5,7 +5,7 @@ latitude: 30.70568
 longitude: 79.595855
 title: Valley of Flowers
 type: location
-score: 0.7
+score: 0.57
 loc_type: feature
 ---
 

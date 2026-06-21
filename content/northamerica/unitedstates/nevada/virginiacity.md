@@ -5,7 +5,7 @@ done:
 latitude: 39.310813
 loc_type: city
 longitude: -119.649517
-score: 0.43
+score: 0.41
 title: Virginia City
 type: location
 ---

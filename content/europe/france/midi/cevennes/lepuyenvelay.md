@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Le_Puy-en-
 latitude: 45.045974
 loc_type: city
 longitude: 3.885554
-score: 0.61
+score: 0.54
 title: Le Puy en Velay
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/59081381@N03/49624640661
 latitude: 39.4806
 loc_type: city
 longitude: -86.1308
-score: 0.3
+score: 0.25
 title: Franklin
 type: location
 ---

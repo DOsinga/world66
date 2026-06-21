@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Batabat_G%C3%B6l%C3%BC,_%C
 latitude: 39.535
 loc_type: city
 longitude: 45.71
-score: 0.33
+score: 0.2
 title: Batabat
 type: location
 ---

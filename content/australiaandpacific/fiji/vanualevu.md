@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Between_Naquma_%26_Nanduri
 latitude: -16.579
 loc_type: city
 longitude: 179.2
-score: 0.62
+score: 0.55
 title: Vanua Levu
 type: location
 ---

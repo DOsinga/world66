@@ -5,7 +5,7 @@ done:
 latitude: 3.715
 loc_type: city
 longitude: 18.583
-score: 0.19
+score: 0.15
 title: Zinga
 type: location
 ---

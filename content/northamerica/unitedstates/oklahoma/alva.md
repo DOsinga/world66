@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alva_Intersection.jpg
 latitude: 36.80305
 loc_type: city
 longitude: -98.666028
-score: 0.29
+score: 0.21
 title: Alva
 type: location
 ---

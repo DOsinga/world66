@@ -5,7 +5,7 @@ done:
 latitude: 42.118048
 loc_type: city
 longitude: 2.765361
-score: 0.54
+score: 0.44
 title: Banyoles
 type: location
 image: banyoles.jpg

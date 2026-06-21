@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parakouinternationalmarket
 latitude: 9.34
 loc_type: city
 longitude: 2.6278
-score: 0.31
+score: 0.26
 title: Parakou
 type: location
 ---

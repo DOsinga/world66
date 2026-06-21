@@ -5,7 +5,7 @@ done:
 latitude: 36.709
 loc_type: city
 longitude: 67.1114
-score: 0.19
+score: 0.16
 title: Mazar-i-Sharif
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 52.9634
 loc_type: city
 longitude: 0.6395
-score: 0.49
+score: 0.42
 title: Brancaster
 type: location
 ---

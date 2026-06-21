@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gy%C3%B6r_Ufer_der_Raab_3.
 latitude: 47.6835
 loc_type: city
 longitude: 17.6343
-score: 0.55
+score: 0.44
 title: Győr
 type: location
 ---

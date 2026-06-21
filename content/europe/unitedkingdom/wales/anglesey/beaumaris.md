@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beaumaris_Castle_(80742432
 latitude: 53.2648
 loc_type: city
 longitude: -4.0898
-score: 0.55
+score: 0.49
 title: Beaumaris
 type: location
 ---

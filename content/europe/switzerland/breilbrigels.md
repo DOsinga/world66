@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brigels.jpg
 latitude: 46.7674
 loc_type: city
 longitude: 9.0622
-score: 0.5
+score: 0.41
 title: Breil/Brigels
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cadaques_Pueblo_Marinero.J
 latitude: 42.289348
 loc_type: city
 longitude: 3.275216
-score: 0.68
+score: 0.59
 title: Cadaqués
 type: location
 ---

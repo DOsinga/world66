@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jasper_County_Courthouse_R
 latitude: 40.936704
 loc_type: city
 longitude: -87.150856
-score: 0.29
+score: 0.19
 title: Rensselaer, Indiana
 type: location
 ---

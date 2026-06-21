@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gr%C3%A9oli%C3%A8res_-_%C3
 latitude: 43.795181
 loc_type: city
 longitude: 6.943595
-score: 0.52
+score: 0.41
 title: Gréolières
 type: location
 ---

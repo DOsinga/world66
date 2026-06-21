@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SubmergedEgyptianHarbour_T
 latitude: 33.272121
 loc_type: city
 longitude: 35.196402
-score: 0.53
+score: 0.46
 title: Tyre
 type: location
 ---

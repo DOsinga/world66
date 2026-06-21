@@ -10,7 +10,7 @@ image_license: CC BY-SA 2.0
 image_attribution: Ricardo Molina Peña
 latitude: 20.9674
 longitude: -89.6234
-score: 0.67
+score: 0.55
 title: Mérida
 type: location
 loc_type: city

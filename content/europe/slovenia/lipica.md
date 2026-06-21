@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/13612135@N05/7176435079
 latitude: 45.500659
 loc_type: city
 longitude: 14.042983
-score: 0.51
+score: 0.46
 title: Lipica
 type: location
 ---

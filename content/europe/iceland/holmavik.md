@@ -5,7 +5,7 @@ done:
 latitude: 65.706497
 loc_type: city
 longitude: -21.669196
-score: 0.48
+score: 0.4
 title: Holmavik
 type: location
 ---

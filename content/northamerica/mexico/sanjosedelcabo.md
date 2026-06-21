@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SJCmunicipalhall01.JPG
 latitude: 23.059836
 loc_type: city
 longitude: -109.702515
-score: 0.64
+score: 0.52
 title: San Jose del Cabo
 type: location
 ---

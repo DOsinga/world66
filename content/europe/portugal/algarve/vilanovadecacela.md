@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 37.1667
 longitude: -7.5333
+score: 0.46
 ---
 
 Vila Nova de Cacela is a small town just off the N125 in the eastern Algarve, between Manta Rota and Monte Gordo — well worth a detour if you are passing. The indoor fish market is a treat if you arrive early in the morning. The Red Cafe does good frango (BBQ chicken) with chips and salad, and Chicken George's on the crossroads in the centre is a more traditional local option.

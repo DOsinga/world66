@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt)
 latitude: 34.053691
 loc_type: city
 longitude: -118.242766
-score: 0.67
+score: 0.58
 title: Los Angeles
 type: location
 ---

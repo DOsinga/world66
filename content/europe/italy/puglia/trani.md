@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tramonto_sulla_cattedrale.
 latitude: 41.2751
 loc_type: city
 longitude: 16.4163
-score: 0.62
+score: 0.53
 title: Trani
 type: location
 ---

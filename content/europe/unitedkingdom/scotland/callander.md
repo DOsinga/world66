@@ -5,11 +5,11 @@ done:
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803
-score: 0.55
+score: 0.47
 sources:
-  - https://en.wikipedia.org/wiki/Callander
-  - https://en.wikipedia.org/wiki/Loch_Lubnaig
-  - https://en.wikipedia.org/wiki/Ben_Ledi
+- https://en.wikipedia.org/wiki/Callander
+- https://en.wikipedia.org/wiki/Loch_Lubnaig
+- https://en.wikipedia.org/wiki/Ben_Ledi
 title: Callander
 type: location
 ---

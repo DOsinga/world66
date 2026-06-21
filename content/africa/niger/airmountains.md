@@ -5,7 +5,7 @@ latitude: 17.85
 longitude: 8.75
 title: Air Mountains
 type: location
-score: 0.38
+score: 0.34
 loc_type: feature
 ---
 

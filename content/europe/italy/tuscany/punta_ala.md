@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_di_Punta_Ala.jpg
 latitude: 42.8013
 loc_type: city
 longitude: 10.7511
-score: 0.58
+score: 0.48
 title: Punta Ala
 type: location
 ---

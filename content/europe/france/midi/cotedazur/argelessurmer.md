@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/80942291@N00/7268967498
 latitude: 42.5461
 loc_type: city
 longitude: 3.0239
-score: 0.61
+score: 0.49
 title: Argeles-sur-Mer
 type: location
 ---

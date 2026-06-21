@@ -5,7 +5,7 @@ latitude: 48.7596
 longitude: -113.787
 title: Glacier National Park
 type: location
-score: 0.76
+score: 0.68
 image: glaciernp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HCP_-_October_23,_2022_-_001.jpg
 image_license: CC0

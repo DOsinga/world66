@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:.00_1230_Fl%C3%A5msbana_un
 latitude: 60.863
 loc_type: city
 longitude: 7.1132
-score: 0.74
+score: 0.66
 title: Flåm
 type: location
 ---

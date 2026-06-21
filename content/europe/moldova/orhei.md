@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biserica_Romano-Catolica_A
 latitude: 47.378229
 loc_type: city
 longitude: 28.824675
-score: 0.4
+score: 0.33
 title: Orhei
 type: location
 ---

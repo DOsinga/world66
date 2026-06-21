@@ -6,7 +6,7 @@ latitude: 16.3167
 longitude: -61.05
 title: La Désirade
 type: location
-score: 0.45
+score: 0.41
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Center_Meetinghouse,_Old_S
 latitude: 42.1084
 loc_type: city
 longitude: -72.0808
-score: 0.44
+score: 0.38
 title: Sturbridge
 type: location
 ---

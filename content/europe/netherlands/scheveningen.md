@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:.00_1091_Seebad_Schevening
 latitude: 52.106745
 loc_type: city
 longitude: 4.273694
-score: 0.53
+score: 0.47
 title: Scheveningen
 type: location
 ---

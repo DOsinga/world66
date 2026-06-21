@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Utila,_Honduras_-_panorami
 latitude: 16.1013
 loc_type: city
 longitude: -86.9069
-score: 0.53
+score: 0.48
 title: Utila
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hiking_through_Nyungwe_Nat
 latitude: -2.559061
 loc_type: city
 longitude: 29.293926
-score: 0.61
+score: 0.51
 title: Nyungwe National Park
 type: location
 ---

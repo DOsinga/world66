@@ -6,7 +6,7 @@ latitude: 37.872179
 longitude: -6.786602
 title: Almonaster La Real
 type: location
-score: 0.5
+score: 0.41
 loc_type: city
 image: almonaster_la_real.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Almonaster_la_real_vue_d%27ensemble.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple,_Thanj
 latitude: 10.659037
 loc_type: city
 longitude: 79.201428
-score: 0.54
+score: 0.47
 title: Thanjavur
 type: location
 ---

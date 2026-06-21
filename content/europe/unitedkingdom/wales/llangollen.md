@@ -13,6 +13,7 @@ image: llangollen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beside_the_Llangollen_Canal_in_Llangollen_-_geograph.org.uk_-_7277396.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Gareth James
+score: 0.49
 ---
 
 *Europe > United Kingdom > Wales > Llangollen*
